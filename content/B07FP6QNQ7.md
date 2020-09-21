@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 29.41 % en LEGO® Technic Porsche 911 RSR Jeu voitur'
-date: 2020-09-18 09:53:20
+title: 'Descuento del 26.14 % en Lego 42096 Technic Porsche 911 RSR  bunt'
+date: 2020-09-21 11:36:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FP6QNQ7
 description:
-actualPrice: 119.99 EUR
-comparePrice: 169.99 EUR
+actualPrice: 107.99 EUR
+comparePrice: 146.21 EUR
 inStock: true
 ---
 
-Tienes [LEGO® Technic Porsche 911 RSR Jeu voiture  10 Ans et Plus  1580 Pièces 42096](https://www.amazon.com/dp/B07FP6QNQ7/?tag=redken08-20) con un 29.41 % de descuento con precio de oferta de 119.99 EUR (original: 169.99 EUR) en el siguiente enlace!
+Tienes [Lego 42096 Technic Porsche 911 RSR  bunt](https://www.amazon.com/dp/B07FP6QNQ7/?tag=redken08-20) con un 26.14 % de descuento con precio de oferta de 107.99 EUR (original: 146.21 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6QNQ7/?tag=redken08-20)
 

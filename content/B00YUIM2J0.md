@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.00 % en Logitech G29 Driving Force Volante de Ca'
-date: 2020-09-17 22:15:58
+date: 2020-09-21 17:40:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41za6KklhSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41za6KklhSL._SL200_.jpg' ]
 comments: true
