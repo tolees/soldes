@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kellogg s  Rice Krispies Treats  Origina al 32.97 % de descuento'
-date: 2020-09-18 02:58:12
+date: 2020-09-21 18:53:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aylrZhoTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aylrZhoTL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Cristal Multicolour bolígrafos Punta al 27.66 % de descuento'
-date: 2020-09-18 14:12:24
+date: 2020-09-21 18:01:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JTR5Qsp4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JTR5Qsp4L._SL200_.jpg' ]
 comments: true
