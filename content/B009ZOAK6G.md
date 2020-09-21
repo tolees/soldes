@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bulova Dress Watch  Model: 98B287  al 64.44 % de descuento'
-date: 2020-09-18 05:32:31
+date: 2020-09-21 15:12:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KK1ZBJ9SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KK1ZBJ9SL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Jack & Jones  Jjebasic Polo SS Noos - Ca al 50.03 % de descuento'
-date: 2020-09-18 06:39:27
+title: 'Jack & Jones Jjebasic Polo SS Noos - Cam al 50.03 % de descuento'
+date: 2020-09-21 15:36:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Ki+DUPDnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Ki+DUPDnL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Jack & Jones  Jjebasic Polo SS Noos - Camiseta para Hombre  Blanco   Talla L](https://www.amazon.com/dp/B079C9PZJW/?tag=redken08-20) a 7.49 EUR (original: 14.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Jack & Jones Jjebasic Polo SS Noos - Camiseta para Hombre  Blanco   Talla L](https://www.amazon.com/dp/B079C9PZJW/?tag=redken08-20) a 7.49 EUR (original: 14.99 EUR) (50.03 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31Ki+DUPDnL._SL200_.jpg)](https://www.amazon.com/dp/B079C9PZJW/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crock-Pot CSC061X Olla de cocción lenta  al 39.10 % de descuento'
-date: 2020-09-20 13:32:40
+date: 2020-09-21 15:47:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DzCP2uLgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DzCP2uLgL._SL200_.jpg' ]
 comments: true

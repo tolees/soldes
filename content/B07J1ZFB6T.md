@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.03 % en CLUSE Reloj Analógico para Mujer de Cuar'
-date: 2020-09-20 00:19:11
+date: 2020-09-21 15:47:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JhomgpkgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JhomgpkgL._SL200_.jpg' ]
 comments: true

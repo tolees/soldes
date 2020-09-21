@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DJI Ronin-SC - Camera Stabilizer 3-Axis  al 36.45 % de descuento'
-date: 2020-09-18 01:08:29
+date: 2020-09-21 15:33:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fN7RgZ9dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fN7RgZ9dL._SL200_.jpg' ]
 comments: true
