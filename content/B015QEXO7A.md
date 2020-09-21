@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.38 % en lector dni electronico MAC y WINDOWS  Op'
-date: 2020-09-16 06:15:37
+date: 2020-09-21 22:40:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D5sCAKx4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D5sCAKx4L._SL200_.jpg' ]
 comments: true

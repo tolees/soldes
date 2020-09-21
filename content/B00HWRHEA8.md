@@ -14,10 +14,10 @@ comparePrice: 349.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus M.Zuiko Digital 25 mm F1.8 Lens  Fast Fixed Focal Length  Suitable for All MFT Cameras  Olympus OM-D & PEN Models  Panasonic G-Series   Silver](https://www.amazon.com/dp/B00HWRHEA8/?tag=redken08-20) a 199.97 GBP (original: 349.99 GBP) (42.86 %  de descuento) en el siguiente enlace!
+Está [Olympus M.Zuiko Digital 25 mm F1.8 Lens  Fast Fixed Focal Length  Suitable for All MFT Cameras  Olympus OM-D & PEN Models  Panasonic G-Series   Silver](https://www.amazon.com/dp/B00HWRHEA8/?tag=redken08-20) con 42.86 de descuento por 199.97 GBP (original: 349.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Imno3g16L._SL200_.jpg)](https://www.amazon.com/dp/B00HWRHEA8/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00HWRHEA8/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00HWRHEA8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
