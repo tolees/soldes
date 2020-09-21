@@ -1,0 +1,11 @@
+baseURL = "https://soldes.tole.es"
+languageCode = "es-es"
+title = "Soldes pour vôtre famile!"
+theme = "hugo-shopping-product-catalogue-simple"
+[Params]
+description = "Soldes"
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5

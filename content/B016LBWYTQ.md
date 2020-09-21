@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Descuento del 39.36 % en Hasbro Gaming Marvel Spider-Man Web Warr'
+date: 2020-04-12 23:21:41
+thumbnailImage: 'https://m.media-amazon.com/images/I/51ojcVeNkQL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51ojcVeNkQL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B016LBWYTQ
+description:
+actualPrice: 16.99 USD
+comparePrice: 28.02 USD
+inStock: true
+---
+
+Tienes [Hasbro Gaming Marvel Spider-Man Web Warriors Chutes & Ladders Game](https://www.amazon.com/dp/B016LBWYTQ/?tag=redken08-20) con un 39.36 % de descuento con precio de oferta de 16.99 USD (original: 28.02 USD) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/51ojcVeNkQL._SL200_.jpg)](https://www.amazon.com/dp/B016LBWYTQ/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B016LBWYTQ/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

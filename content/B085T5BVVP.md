@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Funda para Samsung Galaxy A71 + [2 Pack] al 79.12 % de descuento'
+date: 2020-04-18 12:04:24
+thumbnailImage: 'https://m.media-amazon.com/images/I/51MaGUj-QWL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51MaGUj-QWL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B085T5BVVP
+description:
+actualPrice: 1.0 EUR
+comparePrice: 4.79 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Funda para Samsung Galaxy A71 + [2 Pack] Cristal Templado Protector de Pantalla Suave TPU Transparente Gel Silicona Anti-caída Anti-arañazos Protectora Carcasa para Samsung Galaxy A71  6.7 Pulgadas ](https://www.amazon.com/dp/B085T5BVVP/?tag=redken08-20) a 1.0 EUR (original: 4.79 EUR) (79.12 %  de descuento) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/51MaGUj-QWL._SL200_.jpg)](https://www.amazon.com/dp/B085T5BVVP/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B085T5BVVP/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

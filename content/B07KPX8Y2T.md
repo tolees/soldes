@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'adidas Essentials Linear Logo tee Camise al 49.97 % de descuento'
+date: 2020-06-14 18:11:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/3150tLGaIxL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/3150tLGaIxL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07KPX8Y2T
+description:
+actualPrice: 9.98 EUR
+comparePrice: 19.95 EUR
+inStock: true
+---
+
+Está [adidas Essentials Linear Logo tee Camiseta  Hombre  Blanco  White/Black   XS](https://www.amazon.com/dp/B07KPX8Y2T/?tag=redken08-20) con 49.97 de descuento por 9.98 EUR (original: 19.95 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/3150tLGaIxL._SL200_.jpg)](https://www.amazon.com/dp/B07KPX8Y2T/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B07KPX8Y2T/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

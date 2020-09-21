@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Geox J SPACECLUB Girl C  Zapatillas para al 50.00 % de descuento'
+date: 2020-01-11 08:05:10
+thumbnailImage: 'https://images-eu.ssl-images-amazon.com/images/I/41yc4bc8m8L._SL200_.jpg'
+images: [ 'https://images-eu.ssl-images-amazon.com/images/I/41yc4bc8m8L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B07LFYWN2K
+description:
+actualPrice: 29.95 EUR
+comparePrice: 59.9 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Geox J SPACECLUB Girl C  Zapatillas para Niñas   Grey/Pink C0502   33 EU](https://www.amazon.com/dp/B07LFYWN2K/?tag=redken08-20) a 29.95 EUR (original: 59.9 EUR) (50.00 %  de descuento) en el siguiente enlace!
+
+[![](https://images-eu.ssl-images-amazon.com/images/I/41yc4bc8m8L._SL200_.jpg)](https://www.amazon.com/dp/B07LFYWN2K/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B07LFYWN2K/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

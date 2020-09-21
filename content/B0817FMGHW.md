@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Columbia Heather Canyon  Chaqueta Softsh al 62.01 % de descuento'
+date: 2020-06-26 10:50:52
+thumbnailImage: 'https://m.media-amazon.com/images/I/41eWHobKRhL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41eWHobKRhL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B0817FMGHW
+description:
+actualPrice: 37.99 EUR
+comparePrice: 99.99 EUR
+inStock: true
+---
+
+Está [Columbia Heather Canyon  Chaqueta Softshell  Hombre  Azul  Mountain  Collegiate Navy   XL](https://www.amazon.com/dp/B0817FMGHW/?tag=redken08-20) con 62.01 de descuento por 37.99 EUR (original: 99.99 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/41eWHobKRhL._SL200_.jpg)](https://www.amazon.com/dp/B0817FMGHW/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B0817FMGHW/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
