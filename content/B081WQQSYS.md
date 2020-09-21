@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Parasite al 43.47 % de descuento'
+date: 2020-04-09 22:55:47
+thumbnailImage: 'https://m.media-amazon.com/images/I/51DKWpeHHKL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51DKWpeHHKL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B081WQQSYS
+description:
+actualPrice: 12.99 USD
+comparePrice: 22.98 USD
+inStock: true
+---
+
+Está [Parasite](https://www.amazon.com/dp/B081WQQSYS/?tag=redken08-20) con 43.47 de descuento por 12.99 USD (original: 22.98 USD) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/51DKWpeHHKL._SL200_.jpg)](https://www.amazon.com/dp/B081WQQSYS/?tag=redken08-20)
+
+[Ver la oferta!!](https://www.amazon.com/dp/B081WQQSYS/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
