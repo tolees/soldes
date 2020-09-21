@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.81 % en Funko 39333 POP Vinyl: Ghostbusters: Sli'
-date: 2020-09-18 09:32:30
+date: 2020-09-21 14:27:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b42BH6ByL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b42BH6ByL._SL200_.jpg' ]
 comments: true

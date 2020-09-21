@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG Electronics UN32M4500BFXZA 720P  al 35.65 % de descuento'
-date: 2020-09-17 14:49:09
+date: 2020-09-21 13:43:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ABQn4GqfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ABQn4GqfL._SL200_.jpg' ]
 comments: true

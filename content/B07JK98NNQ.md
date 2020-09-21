@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TCL 50S425 50 inch 4K Smart LED Roku TV  al 43.75 % de descuento'
-date: 2020-09-17 21:35:18
+date: 2020-09-21 13:42:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xdbQ9Z0nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xdbQ9Z0nL._SL200_.jpg' ]
 comments: true

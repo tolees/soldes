@@ -14,10 +14,10 @@ comparePrice: 9.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LeapFrog 21507 LeapStart Preschool Preschool STEM Science/Technology/Engineering and Maths and Teamwork Activity Book](https://www.amazon.com/dp/B01DXULNCC/?tag=redken08-20) a 6.95 GBP (original: 9.99 GBP) (30.43 %  de descuento) en el siguiente enlace!
+Está [LeapFrog 21507 LeapStart Preschool Preschool STEM Science/Technology/Engineering and Maths and Teamwork Activity Book](https://www.amazon.com/dp/B01DXULNCC/?tag=redken08-20) con 30.43 de descuento por 6.95 GBP (original: 9.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/517BujOTK8L._SL200_.jpg)](https://www.amazon.com/dp/B01DXULNCC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01DXULNCC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01DXULNCC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

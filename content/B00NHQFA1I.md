@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.35 % en LEGO Classic Medium Creative Brick Box 1'
-date: 2020-09-18 02:58:16
+date: 2020-09-21 14:03:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DcFp4RrIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DcFp4RrIL._SL200_.jpg' ]
 comments: true

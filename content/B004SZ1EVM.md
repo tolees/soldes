@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel EnerGel X BL107-AX Gel-Tintenroll al 30.95 % de descuento'
-date: 2020-09-18 15:09:21
+date: 2020-09-21 14:32:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/21uHPtbOXAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21uHPtbOXAL._SL200_.jpg' ]
 comments: true
