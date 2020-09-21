@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en Microsoft - Wired Stereo Headset - Nueva'
-date: 2020-09-18 16:01:55
+date: 2020-09-21 19:46:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41g42+fUlbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41g42+fUlbL._SL200_.jpg' ]
 comments: true

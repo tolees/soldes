@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Sony WF-1000XM3 komplett kabellose Noise al 28.08 % de descuento'
-date: 2020-09-18 09:35:11
-thumbnailImage: 'https://m.media-amazon.com/images/I/315F9OCgvmL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/315F9OCgvmL._SL200_.jpg' ]
+title: 'Sony WF1000XM3 - Auricular Noise Cancell al 31.79 % de descuento'
+date: 2020-09-21 13:19:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/31KhlRJN1JL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31KhlRJN1JL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07T2FGG2Z
 description:
-actualPrice: 179.07 EUR
-comparePrice: 249.0 EUR
+actualPrice: 170.52 EUR
+comparePrice: 250.0 EUR
 inStock: true
 ---
 
-Está [Sony WF-1000XM3 komplett kabellose Noise Cancelling Kopfhörer  bis zu 32h Akkulaufzeit  stabile Bluetooth Verbindung  Amazon Alexa  True Wireless Earbuds  Headset mit Mikrofon   schwarz](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20) con 28.08 de descuento por 179.07 EUR (original: 249.0 EUR) en el siguiente enlace!
+Está [Sony WF1000XM3 - Auricular Noise Cancelling  True Wireless  Bluetooth  sonido adaptativo  compatible con Alexa y Google Assistant  hasta 32 h de batería  óptimo para trabajar sin ruido y viaje   negro](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20) con 31.79 de descuento por 170.52 EUR (original: 250.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/315F9OCgvmL._SL200_.jpg)](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31KhlRJN1JL._SL200_.jpg)](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07T2FGG2Z/?tag=redken08-20)
 
