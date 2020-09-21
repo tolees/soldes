@@ -14,10 +14,10 @@ comparePrice: 199.0 USD
 inStock: true
 ---
 
-Ahora mismo tienes [DEWALT 20V MAX Cordless Drill Combo Kit  2-Tool  DCK240C2 ](https://www.amazon.com/dp/B00IJ0ALYS/?tag=redken08-20) a 149.0 USD (original: 199.0 USD) (25.13 %  de descuento) en el siguiente enlace!
+Está [DEWALT 20V MAX Cordless Drill Combo Kit  2-Tool  DCK240C2 ](https://www.amazon.com/dp/B00IJ0ALYS/?tag=redken08-20) con 25.13 de descuento por 149.0 USD (original: 199.0 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51oc-lFamNL._SL200_.jpg)](https://www.amazon.com/dp/B00IJ0ALYS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00IJ0ALYS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00IJ0ALYS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
