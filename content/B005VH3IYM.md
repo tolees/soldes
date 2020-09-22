@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mannesmann - M29077 - Carro de aluminio  al 48.38 % de descuento'
-date: 2020-09-19 15:16:14
+date: 2020-09-22 09:40:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/516D8Vl-6BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516D8Vl-6BL._SL200_.jpg' ]
 comments: true
