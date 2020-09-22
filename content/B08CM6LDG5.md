@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.13 % en Happy Halloween  Scooby-Doo!  DVD '
-date: 2020-09-21 11:10:34
+date: 2020-09-22 17:01:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gjsAN5ELL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gjsAN5ELL._SL200_.jpg' ]
 comments: true

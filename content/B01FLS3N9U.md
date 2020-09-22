@@ -14,10 +14,10 @@ comparePrice: 9.98 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr.  PSG  Collectible Figure  Multicolour](https://www.amazon.com/dp/B01FLS3N9U/?tag=redken08-20) a 5.92 EUR (original: 9.98 EUR) (40.68 %  de descuento) en el siguiente enlace!
+Está [Funko 39827 POP Vinyl: Football-Neymar da Silva Santos Jr.  PSG  Collectible Figure  Multicolour](https://www.amazon.com/dp/B01FLS3N9U/?tag=redken08-20) con 40.68 de descuento por 5.92 EUR (original: 9.98 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41S+kfyNTrL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01FLS3N9U/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01FLS3N9U/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01FLS3N9U/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

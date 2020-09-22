@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.92 % en Pack: Animales Fantásticos y dónde encon'
-date: 2020-09-21 10:58:54
+date: 2020-09-22 17:08:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KZtf7dTLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KZtf7dTLL._SL200_.jpg' ]
 comments: true
