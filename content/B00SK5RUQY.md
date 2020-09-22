@@ -14,10 +14,10 @@ comparePrice: 99.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Makeblock mBot Robot Kit  DIY Mechanical Building Blocks  Entry-level Programming Helps Improve Children  s Logical Thinking and Creativity Skills  STEM Education.  Blue  Bluetooth Version  Family ](https://www.amazon.com/dp/B00SK5RUQY/?tag=redken08-20) a 66.5 USD (original: 99.99 USD) (33.49 %  de descuento) en el siguiente enlace!
+Está [Makeblock mBot Robot Kit  DIY Mechanical Building Blocks  Entry-level Programming Helps Improve Children  s Logical Thinking and Creativity Skills  STEM Education.  Blue  Bluetooth Version  Family ](https://www.amazon.com/dp/B00SK5RUQY/?tag=redken08-20) con 33.49 de descuento por 66.5 USD (original: 99.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41MI1saaNLL._SL200_.jpg)](https://www.amazon.com/dp/B00SK5RUQY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00SK5RUQY/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00SK5RUQY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
