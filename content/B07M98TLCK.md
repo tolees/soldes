@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Blink XT2 | Cámara de seguridad intelige al 25.00 % de descuento'
-date: 2020-09-16 13:01:26
+date: 2020-09-22 16:40:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hY580jpcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hY580jpcL._SL200_.jpg' ]
 comments: true

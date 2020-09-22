@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Memoria flash USB SanDisk Ultra Dual m3. al 49.05 % de descuento'
-date: 2020-09-21 15:47:40
+date: 2020-09-22 16:37:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MYoBC1plL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MYoBC1plL._SL200_.jpg' ]
 comments: true
