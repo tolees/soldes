@@ -14,10 +14,10 @@ comparePrice: 174.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Dittzz Acrylic Display Box with LED Light for Building Block Model  Dustproof Display Case ShowCase for LEGO Ideas - 21320 Dinosaur Fossils  NOT Included The Model ](https://www.amazon.com/dp/B085FZRPK2/?tag=redken08-20) a 95.99 GBP (original: 174.99 GBP) (45.15 %  de descuento) en el siguiente enlace!
+Está [Dittzz Acrylic Display Box with LED Light for Building Block Model  Dustproof Display Case ShowCase for LEGO Ideas - 21320 Dinosaur Fossils  NOT Included The Model ](https://www.amazon.com/dp/B085FZRPK2/?tag=redken08-20) con 45.15 de descuento por 95.99 GBP (original: 174.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41EApUhtGWL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B085FZRPK2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B085FZRPK2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B085FZRPK2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

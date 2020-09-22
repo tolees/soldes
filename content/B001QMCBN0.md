@@ -14,10 +14,10 @@ comparePrice: 22.69 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pimms Licores - 1000 ml](https://www.amazon.com/dp/B001QMCBN0/?tag=redken08-20) a 15.95 EUR (original: 22.69 EUR) (29.70 %  de descuento) en el siguiente enlace!
+Está [Pimms Licores - 1000 ml](https://www.amazon.com/dp/B001QMCBN0/?tag=redken08-20) con 29.70 de descuento por 15.95 EUR (original: 22.69 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31dTz+khT2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B001QMCBN0/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B001QMCBN0/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B001QMCBN0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
