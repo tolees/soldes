@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Soporte de Pared para TV de 26"-55" LED/ al 25.01 % de descuento'
-date: 2020-09-21 13:19:04
+date: 2020-09-22 18:21:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/411RIb0dztL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411RIb0dztL._SL200_.jpg' ]
 comments: true
