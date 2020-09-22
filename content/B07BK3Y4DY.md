@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rodillos de Espuma 2 en 1 para Masajes M al 40.80 % de descuento'
-date: 2020-09-21 20:19:02
+date: 2020-09-22 20:25:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eDpXu0QlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eDpXu0QlL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.94 % en RAVPOWER Cargador USB 60W 12A 6-Puertos '
-date: 2020-09-17 14:51:57
+date: 2020-09-22 20:29:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JaRvuHu-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JaRvuHu-L._SL200_.jpg' ]
 comments: true

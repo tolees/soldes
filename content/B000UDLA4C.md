@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.77 % en Queen Rock Montreal & Live Aid  2DVD  [2'
-date: 2020-09-21 15:02:01
+date: 2020-09-22 20:24:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ms9Z9NKiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ms9Z9NKiL._SL200_.jpg' ]
 comments: true
