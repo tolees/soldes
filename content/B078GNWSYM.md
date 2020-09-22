@@ -14,10 +14,10 @@ comparePrice: 25.0 USD
 inStock: true
 ---
 
-Está [Champion Men s Classic Jersey Script T-Shirt  purple  Large](https://www.amazon.com/dp/B078GNWSYM/?tag=redken08-20) con 52.00 de descuento por 12.0 USD (original: 25.0 USD) en el siguiente enlace!
+Ahora mismo tienes [Champion Men s Classic Jersey Script T-Shirt  purple  Large](https://www.amazon.com/dp/B078GNWSYM/?tag=redken08-20) a 12.0 USD (original: 25.0 USD) (52.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Y3Kc9Q4ML._SL200_.jpg)](https://www.amazon.com/dp/B078GNWSYM/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B078GNWSYM/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B078GNWSYM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
