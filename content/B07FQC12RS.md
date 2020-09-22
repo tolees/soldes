@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjitim Jjoriginal Am 781 50 al 38.01 % de descuento'
-date: 2020-09-21 12:15:20
+date: 2020-09-22 12:32:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/31AbwP031EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31AbwP031EL._SL200_.jpg' ]
 comments: true
