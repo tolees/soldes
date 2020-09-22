@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Conga Serie 1090 1400 Pa  Tecnol al 35.17 % de descuento'
-date: 2020-09-21 11:57:01
+date: 2020-09-22 14:25:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/516ZRwW3WtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516ZRwW3WtL._SL200_.jpg' ]
 comments: true

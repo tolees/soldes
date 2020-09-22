@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRA Advanced Plancha Lisa  Aluminio Fund al 45.89 % de descuento'
-date: 2020-09-17 12:31:56
+date: 2020-09-22 14:37:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/316PZbPdokL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316PZbPdokL._SL200_.jpg' ]
 comments: true
