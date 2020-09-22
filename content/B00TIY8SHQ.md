@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Viridescent Indoor Herb Garden Kit - Kit al 28.03 % de descuento'
-date: 2020-09-16 14:57:22
+date: 2020-09-22 06:31:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/61WKBcqAWkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61WKBcqAWkL._SL200_.jpg' ]
 comments: true
