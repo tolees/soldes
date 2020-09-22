@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VicTsing 150ml Difusor Aceites Esenciale al 25.94 % de descuento'
-date: 2020-09-20 15:20:30
+date: 2020-09-22 21:14:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gAf0qDCyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gAf0qDCyL._SL200_.jpg' ]
 comments: true
