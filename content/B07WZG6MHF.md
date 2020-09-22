@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.82 % en Sony Xperia 5  6.1” FHD+ HDR OLED 21:9 D'
-date: 2020-09-21 14:28:50
+date: 2020-09-22 19:59:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg' ]
 comments: true

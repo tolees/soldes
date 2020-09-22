@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel EnerGel Pearl Deluxe RTX Retracta al 50.21 % de descuento'
-date: 2020-09-21 13:36:42
+date: 2020-09-22 19:27:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ywsZblL6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ywsZblL6L._SL200_.jpg' ]
 comments: true

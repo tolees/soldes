@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil City Life 9266 Modernes Wohnha al 30.35 % de descuento'
-date: 2020-09-21 19:11:13
+title: 'Playmobil City Life 9266 Modernes Wohnha al 30.59 % de descuento'
+date: 2020-09-22 19:57:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/61k9OAEGVyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61k9OAEGVyL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06W5XHWVT
 description:
-actualPrice: 67.89 EUR
+actualPrice: 67.65 EUR
 comparePrice: 97.47 EUR
 inStock: true
 ---
 
-Está [Playmobil City Life 9266 Modernes Wohnhaus  Mit Licht- und Soundeffekten  Ab 4 Jahren](https://www.amazon.com/dp/B06W5XHWVT/?tag=redken08-20) con 30.35 de descuento por 67.89 EUR (original: 97.47 EUR) en el siguiente enlace!
+Está [Playmobil City Life 9266 Modernes Wohnhaus  Mit Licht- und Soundeffekten  Ab 4 Jahren](https://www.amazon.com/dp/B06W5XHWVT/?tag=redken08-20) con 30.59 de descuento por 67.65 EUR (original: 97.47 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61k9OAEGVyL._SL200_.jpg)](https://www.amazon.com/dp/B06W5XHWVT/?tag=redken08-20)
 
