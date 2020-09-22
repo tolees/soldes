@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.30 % en Samsung RU7179 163 cm  65 Zoll  LED Fern'
-date: 2020-09-18 03:09:30
+date: 2020-09-22 07:07:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/514PZR+DTCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514PZR+DTCL._SL200_.jpg' ]
 comments: true
