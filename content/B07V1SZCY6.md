@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.36 % en TP-Link USB Bluetooth Adapter for PC 4.0'
-date: 2020-09-22 13:02:37
+date: 2020-09-23 13:19:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uj5xFzXZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uj5xFzXZL._SL200_.jpg' ]
 comments: true

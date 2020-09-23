@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.30 % en Toshiba TF-43A810U21 43-inch 4K UHD TV -'
-date: 2020-09-21 14:15:28
+date: 2020-09-23 13:12:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/416Hy6KQ6uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416Hy6KQ6uL._SL200_.jpg' ]
 comments: true
