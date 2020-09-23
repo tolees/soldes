@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.73 % en Fisher-Price GHR18 Linkimals Smooth Move'
-date: 2020-09-21 15:21:53
+date: 2020-09-23 15:11:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rSMUholfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rSMUholfL._SL200_.jpg' ]
 comments: true
