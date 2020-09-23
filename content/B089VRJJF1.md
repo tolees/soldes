@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '3 Modos y 3 Capas Filtración Cabezal Duc al 35.21 % de descuento'
-date: 2020-09-22 12:11:18
+date: 2020-09-23 12:27:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/517RYY39f4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517RYY39f4L._SL200_.jpg' ]
 comments: true

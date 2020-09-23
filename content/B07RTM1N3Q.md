@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko Pop! Disney: Maleficent al 37.96 % de descuento'
-date: 2020-09-22 12:38:41
+date: 2020-09-23 12:50:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41OVUlpynYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41OVUlpynYL._SL200_.jpg' ]
 comments: true

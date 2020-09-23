@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.93 % en L Oréal Paris Men Expert - 24H Hydra Ene'
-date: 2020-09-22 12:13:37
+date: 2020-09-23 12:29:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qDyK4tZAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qDyK4tZAL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Jack & Jones Jjegingham Shirt L/s Camisa al 40.01 % de descuento'
-date: 2020-09-22 12:22:19
+date: 2020-09-23 12:37:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lz0xMCYGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lz0xMCYGL._SL200_.jpg' ]
 comments: true
