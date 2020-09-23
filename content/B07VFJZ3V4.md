@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.78 % en Tangle Teezer The Mini Original Detangli'
-date: 2020-09-21 15:24:13
+date: 2020-09-23 09:46:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/314cynHqeQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/314cynHqeQL._SL200_.jpg' ]
 comments: true
