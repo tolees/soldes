@@ -14,10 +14,10 @@ comparePrice: 49.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  M38 Grey Sage   27 EU](https://www.amazon.com/dp/B002VPDMWA/?tag=redken08-20) a 24.12 EUR (original: 49.0 EUR) (50.78 %  de descuento) en el siguiente enlace!
+Está [Superga 2750 Jcot Classic  Zapatillas Infantil  Gris  M38 Grey Sage   27 EU](https://www.amazon.com/dp/B002VPDMWA/?tag=redken08-20) con 50.78 de descuento por 24.12 EUR (original: 49.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41FVpO5ScSL._SL200_.jpg)](https://www.amazon.com/dp/B002VPDMWA/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B002VPDMWA/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B002VPDMWA/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

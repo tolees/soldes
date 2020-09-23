@@ -14,10 +14,10 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko Pop!- Albus Dumbledore Figura de Vinilo  colección de Pop  seria Harry Potter  Multicolor  5863 ](https://www.amazon.com/dp/B00TQ4RXTW/?tag=redken08-20) con 46.63 de descuento por 8.0 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop!- Albus Dumbledore Figura de Vinilo  colección de Pop  seria Harry Potter  Multicolor  5863 ](https://www.amazon.com/dp/B00TQ4RXTW/?tag=redken08-20) a 8.0 EUR (original: 14.99 EUR) (46.63 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ZNNUMHumL._SL200_.jpg)](https://www.amazon.com/dp/B00TQ4RXTW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00TQ4RXTW/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00TQ4RXTW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
