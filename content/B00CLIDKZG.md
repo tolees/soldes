@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.35 % en Case Logic WMBP115GY - Mochila para Orde'
-date: 2020-09-21 12:19:18
+date: 2020-09-23 10:53:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PDCda1cCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PDCda1cCL._SL200_.jpg' ]
 comments: true
