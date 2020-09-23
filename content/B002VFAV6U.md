@@ -14,10 +14,10 @@ comparePrice: 4.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Burt s Bees 100% Natural Moisturising Lip Balm  Original Beeswax with Vitamin E & Peppermint Oil –  1 Tube x 4.25g](https://www.amazon.com/dp/B002VFAV6U/?tag=redken08-20) a 3.0 GBP (original: 4.0 GBP) (25.00 %  de descuento) en el siguiente enlace!
+Está [Burt s Bees 100% Natural Moisturising Lip Balm  Original Beeswax with Vitamin E & Peppermint Oil –  1 Tube x 4.25g](https://www.amazon.com/dp/B002VFAV6U/?tag=redken08-20) con 25.00 de descuento por 3.0 GBP (original: 4.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41KUX6ZAyvL._SL200_.jpg)](https://www.amazon.com/dp/B002VFAV6U/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B002VFAV6U/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B002VFAV6U/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
