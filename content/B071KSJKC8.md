@@ -14,10 +14,10 @@ comparePrice: 8.57 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Sharplace 200 Pieces Mini Gold Metal Brads Paper Fastener for Scrapbooking Cardmaking Paper Craft DIY 8mm](https://www.amazon.com/dp/B071KSJKC8/?tag=redken08-20) a 4.76 GBP (original: 8.57 GBP) (44.46 %  de descuento) en el siguiente enlace!
+Está [Sharplace 200 Pieces Mini Gold Metal Brads Paper Fastener for Scrapbooking Cardmaking Paper Craft DIY 8mm](https://www.amazon.com/dp/B071KSJKC8/?tag=redken08-20) con 44.46 de descuento por 4.76 GBP (original: 8.57 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61osfkFIGXL._SL200_.jpg)](https://www.amazon.com/dp/B071KSJKC8/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B071KSJKC8/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B071KSJKC8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

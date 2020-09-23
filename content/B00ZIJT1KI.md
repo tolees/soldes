@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.01 % en Trust Gaming GXT 155 - Ratón para Gaming'
-date: 2020-09-20 16:57:51
+date: 2020-09-23 18:41:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VSrHXHDpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VSrHXHDpL._SL200_.jpg' ]
 comments: true

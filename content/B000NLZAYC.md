@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Rapesco Documentos - Carpeta portafolios al 29.06 % de descuento'
-date: 2020-09-22 18:11:05
+date: 2020-09-23 18:15:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zRRUuBz8L._SL200_.jpg' ]
 comments: true
