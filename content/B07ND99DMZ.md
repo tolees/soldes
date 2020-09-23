@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Hidden Side 70425 Newbury Haunted H al 27.28 % de descuento'
-date: 2020-09-22 17:12:50
+date: 2020-09-23 20:58:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/516Qdo95n0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516Qdo95n0L._SL200_.jpg' ]
 comments: true
