@@ -14,10 +14,10 @@ comparePrice: 36.0 GBP
 inStock: true
 ---
 
-Está [The Singleton Dufftown Malt Master Selection Single Malt Scotch Whisky 70cl](https://www.amazon.com/dp/B07BMZJSXR/?tag=redken08-20) con 30.56 de descuento por 25.0 GBP (original: 36.0 GBP) en el siguiente enlace!
+Ahora mismo tienes [The Singleton Dufftown Malt Master Selection Single Malt Scotch Whisky 70cl](https://www.amazon.com/dp/B07BMZJSXR/?tag=redken08-20) a 25.0 GBP (original: 36.0 GBP) (30.56 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41jOfZaF4hL._SL200_.jpg)](https://www.amazon.com/dp/B07BMZJSXR/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07BMZJSXR/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07BMZJSXR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

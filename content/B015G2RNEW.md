@@ -14,10 +14,10 @@ comparePrice: 12.49 EUR
 inStock: true
 ---
 
-Está [legrand 191501 Interruptor Conmutador Estanco de Superficie  Gris](https://www.amazon.com/dp/B015G2RNEW/?tag=redken08-20) con 37.63 de descuento por 7.79 EUR (original: 12.49 EUR) en el siguiente enlace!
+Ahora mismo tienes [legrand 191501 Interruptor Conmutador Estanco de Superficie  Gris](https://www.amazon.com/dp/B015G2RNEW/?tag=redken08-20) a 7.79 EUR (original: 12.49 EUR) (37.63 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/313stQUy0NL._SL200_.jpg)](https://www.amazon.com/dp/B015G2RNEW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B015G2RNEW/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B015G2RNEW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
