@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Scotch-Brite Bayeta Absorbente  5 Unidad al 25.81 % de descuento'
-date: 2020-09-20 03:17:00
+date: 2020-09-23 14:24:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L8fSahXnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L8fSahXnL._SL200_.jpg' ]
 comments: true

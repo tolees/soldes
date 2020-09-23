@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.99 % en H.Koenig V5i Centro de Planchado 90 g/r '
-date: 2020-09-21 14:54:29
+date: 2020-09-23 14:43:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HECjr21cL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HECjr21cL._SL200_.jpg' ]
 comments: true
