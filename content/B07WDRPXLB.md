@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.88 % en LG Tone Style HBS-SL5 Bluetooth Wireless'
-date: 2020-09-21 22:54:57
+date: 2020-09-22 23:04:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/3121iExpHeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3121iExpHeL._SL200_.jpg' ]
 comments: true
