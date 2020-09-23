@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB01 Enceinte portable ultra co al 40.01 % de descuento'
-date: 2020-09-21 19:42:41
+date: 2020-09-23 01:41:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jJaaWKNbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jJaaWKNbL._SL200_.jpg' ]
 comments: true

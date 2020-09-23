@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate GameDrive SSD Xbox  tragbare ext al 29.98 % de descuento'
-date: 2020-09-21 14:49:19
+date: 2020-09-23 01:18:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YqvYBfROL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YqvYBfROL._SL200_.jpg' ]
 comments: true

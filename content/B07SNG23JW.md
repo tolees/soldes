@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Band 4 Smart Band 0.95 Zoll Fu al 39.44 % de descuento'
-date: 2020-09-21 14:49:14
+date: 2020-09-23 01:22:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f0QNTny1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f0QNTny1L._SL200_.jpg' ]
 comments: true
