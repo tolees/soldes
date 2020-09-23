@@ -14,10 +14,10 @@ comparePrice: 66.99 EUR
 inStock: true
 ---
 
-Está [D-Link DCS-P6000LH - Cámara IP WiFi de Vigilancia con Acceso desde Móviles  Grabación de Vídeo en la Nube y en el Móvil  HD 720p  H.264  Compatible iOS/Android  Visión Nocturna por Infrarrojos  Negro](https://www.amazon.com/dp/B07JGVT3ZS/?tag=redken08-20) con 51.90 de descuento por 32.22 EUR (original: 66.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [D-Link DCS-P6000LH - Cámara IP WiFi de Vigilancia con Acceso desde Móviles  Grabación de Vídeo en la Nube y en el Móvil  HD 720p  H.264  Compatible iOS/Android  Visión Nocturna por Infrarrojos  Negro](https://www.amazon.com/dp/B07JGVT3ZS/?tag=redken08-20) a 32.22 EUR (original: 66.99 EUR) (51.90 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31ahCOGwA9L._SL200_.jpg)](https://www.amazon.com/dp/B07JGVT3ZS/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07JGVT3ZS/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07JGVT3ZS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
