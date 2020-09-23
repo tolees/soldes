@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.61 % en Pinocho [DVD]'
-date: 2020-09-22 17:16:08
+date: 2020-09-23 17:24:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lh1HuWReL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lh1HuWReL._SL200_.jpg' ]
 comments: true

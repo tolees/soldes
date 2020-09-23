@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.61 % en Monstruos S.A. [DVD]'
-date: 2020-09-21 11:21:51
+date: 2020-09-23 17:23:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/512JkmGDpNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512JkmGDpNL._SL200_.jpg' ]
 comments: true

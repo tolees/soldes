@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips PowerPro Compact FC9332/09 - Asp al 36.37 % de descuento'
-date: 2020-09-21 15:53:43
+date: 2020-09-23 17:43:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41syURtWRwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41syURtWRwL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.20 % en Asus PCE-AC88 PCIe-Karte  Wi-Fi 5 AC3100'
-date: 2020-09-22 04:55:09
+date: 2020-09-23 17:10:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41y-qmG6FeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41y-qmG6FeL._SL200_.jpg' ]
 comments: true
