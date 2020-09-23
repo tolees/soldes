@@ -14,10 +14,10 @@ comparePrice: 146.21 EUR
 inStock: true
 ---
 
-Está [Lego 42096 Technic Porsche 911 RSR  bunt](https://www.amazon.com/dp/B07FP6QNQ7/?tag=redken08-20) con 27.36 de descuento por 106.2 EUR (original: 146.21 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego 42096 Technic Porsche 911 RSR  bunt](https://www.amazon.com/dp/B07FP6QNQ7/?tag=redken08-20) a 106.2 EUR (original: 146.21 EUR) (27.36 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg)](https://www.amazon.com/dp/B07FP6QNQ7/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07FP6QNQ7/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07FP6QNQ7/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
