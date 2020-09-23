@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.84 % en Casio LTP-2069D-4AVEF - Reloj Multiesfer'
-date: 2020-09-17 01:57:52
+date: 2020-09-23 00:05:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YudAsDtZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YudAsDtZL._SL200_.jpg' ]
 comments: true
