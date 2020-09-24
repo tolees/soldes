@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.44 % en Ubiquiti Networks Wireless Access Point '
-date: 2020-09-22 04:55:25
+date: 2020-09-24 05:04:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/21f+Fg5KTeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21f+Fg5KTeL._SL200_.jpg' ]
 comments: true
