@@ -14,10 +14,10 @@ comparePrice: 20.26 GBP
 inStock: true
 ---
 
-Está [F1 2018 Standard Edition  Xbox One ](https://www.amazon.com/dp/B07D3BMLJK/?tag=redken08-20) con 35.88 de descuento por 12.99 GBP (original: 20.26 GBP) en el siguiente enlace!
+Ahora mismo tienes [F1 2018 Standard Edition  Xbox One ](https://www.amazon.com/dp/B07D3BMLJK/?tag=redken08-20) a 12.99 GBP (original: 20.26 GBP) (35.88 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41NRVp5oK+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07D3BMLJK/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07D3BMLJK/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07D3BMLJK/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
