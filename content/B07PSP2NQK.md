@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 67.34 % en Bourjois Velvet The Pencil Barra de labi'
-date: 2020-09-22 18:33:53
+date: 2020-09-24 00:51:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mTMZLV65L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mTMZLV65L._SL200_.jpg' ]
 comments: true

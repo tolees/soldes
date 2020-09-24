@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko - POP! Vinilo Colección Juego de t al 37.43 % de descuento'
-date: 2020-09-22 18:44:01
+title: 'Funko POP Rides: Game of Thrones - Drago al 35.98 % de descuento'
+date: 2020-03-30 13:03:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PkkBYmZjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PkkBYmZjL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01AW5VFP6
 description:
-actualPrice: 21.26 EUR
-comparePrice: 33.98 EUR
+actualPrice: 19.2 USD
+comparePrice: 29.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Funko - POP! Vinilo Colección Juego de tronos - Figura Drogon & Daenerys  7235 ](https://www.amazon.com/dp/B01AW5VFP6/?tag=redken08-20) a 21.26 EUR (original: 33.98 EUR) (37.43 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko POP Rides: Game of Thrones - Dragon & Daenerys Action Figure](https://www.amazon.com/dp/B01AW5VFP6/?tag=redken08-20) a 19.2 USD (original: 29.99 USD) (35.98 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51PkkBYmZjL._SL200_.jpg)](https://www.amazon.com/dp/B01AW5VFP6/?tag=redken08-20)
 
