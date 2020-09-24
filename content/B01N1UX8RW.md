@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.01 % en Bascula de Baño Digital Grasa Corporal  '
-date: 2020-09-18 13:40:26
+date: 2020-09-24 01:00:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ehto0TCOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ehto0TCOL._SL200_.jpg' ]
 comments: true

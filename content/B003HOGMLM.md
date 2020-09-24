@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.21 % en Pentel XGFKP/FP10 - Pocket Brush Blister'
-date: 2020-09-22 19:39:21
+date: 2020-09-24 01:28:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31c1BFebdUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31c1BFebdUL._SL200_.jpg' ]
 comments: true
