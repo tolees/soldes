@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HP OMEN - Mochila para portátiles gaming al 45.72 % de descuento'
-date: 2020-09-21 20:30:26
+date: 2020-09-24 11:12:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31umO4dL4rL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31umO4dL4rL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 249.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Hercules - HERCULES P32 DJ - Controlador DJ - PC / Mac - Dos decks con interfaz de audio integrada y 32 pads para hacer mezclas creativas](https://www.amazon.com/dp/B01AAGRZL0/?tag=redken08-20) a 169.93 EUR (original: 249.99 EUR) (32.03 %  de descuento) en el siguiente enlace!
+Está [Hercules - HERCULES P32 DJ - Controlador DJ - PC / Mac - Dos decks con interfaz de audio integrada y 32 pads para hacer mezclas creativas](https://www.amazon.com/dp/B01AAGRZL0/?tag=redken08-20) con 32.03 de descuento por 169.93 EUR (original: 249.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41EohsUp+qL._SL200_.jpg)](https://www.amazon.com/dp/B01AAGRZL0/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01AAGRZL0/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01AAGRZL0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
