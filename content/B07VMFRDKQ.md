@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.37 % en Samsung Galaxy Buds SM-R170 I Kabellose '
-date: 2020-09-22 19:50:36
+date: 2020-09-24 19:39:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ePeMWY6gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ePeMWY6gL._SL200_.jpg' ]
 comments: true

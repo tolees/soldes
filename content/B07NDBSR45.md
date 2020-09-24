@@ -14,10 +14,10 @@ comparePrice: 146.21 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Technic 42098 - Autotransporter](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20) a 106.69 EUR (original: 146.21 EUR) (27.03 %  de descuento) en el siguiente enlace!
+Está [LEGO Technic 42098 - Autotransporter](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20) con 27.03 de descuento por 106.69 EUR (original: 146.21 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg)](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07NDBSR45/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

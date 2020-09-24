@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop Marvel: Avengers Infinity War  al 28.99 % de descuento'
-date: 2020-09-18 09:05:45
+title: 'Funko Pop Marvel: Avengers Infinity War  al 27.86 % de descuento'
+date: 2020-09-24 19:35:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nRn6LNANL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nRn6LNANL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B079PCBKNQ
 description:
-actualPrice: 11.29 EUR
+actualPrice: 11.47 EUR
 comparePrice: 15.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop Marvel: Avengers Infinity War - Iron Man Collectible Figur](https://www.amazon.com/dp/B079PCBKNQ/?tag=redken08-20) a 11.29 EUR (original: 15.9 EUR) (28.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko Pop Marvel: Avengers Infinity War - Iron Man Collectible Figur](https://www.amazon.com/dp/B079PCBKNQ/?tag=redken08-20) a 11.47 EUR (original: 15.9 EUR) (27.86 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51nRn6LNANL._SL200_.jpg)](https://www.amazon.com/dp/B079PCBKNQ/?tag=redken08-20)
 
