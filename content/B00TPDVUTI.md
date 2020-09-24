@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.28 % en L Oréal Paris Infalible Primer  PreBase '
-date: 2020-09-23 00:28:15
+date: 2020-09-24 06:21:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CFnu-HYCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CFnu-HYCL._SL200_.jpg' ]
 comments: true

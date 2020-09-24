@@ -14,10 +14,10 @@ comparePrice: 101.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [MAJOZ0 Technic Sports Car Ford GT500 Model Building Kits  1:10 Car Model Kit  1623Pcs Building Block Compatible with LEGO Technic  Construction Gift for Adults and Kids](https://www.amazon.com/dp/B08HMSXKSC/?tag=redken08-20) a 55.99 GBP (original: 101.99 GBP) (45.10 %  de descuento) en el siguiente enlace!
+Está [MAJOZ0 Technic Sports Car Ford GT500 Model Building Kits  1:10 Car Model Kit  1623Pcs Building Block Compatible with LEGO Technic  Construction Gift for Adults and Kids](https://www.amazon.com/dp/B08HMSXKSC/?tag=redken08-20) con 45.10 de descuento por 55.99 GBP (original: 101.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51zoWmKxozL._SL200_.jpg)](https://www.amazon.com/dp/B08HMSXKSC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B08HMSXKSC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B08HMSXKSC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
