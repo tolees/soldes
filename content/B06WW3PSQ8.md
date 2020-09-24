@@ -14,10 +14,10 @@ comparePrice: 5.32 EUR
 inStock: true
 ---
 
-Está [LEGO Nexo Knights 70373 - Combo NEXO Kräfte](https://www.amazon.com/dp/B06WW3PSQ8/?tag=redken08-20) con 56.39 de descuento por 2.32 EUR (original: 5.32 EUR) en el siguiente enlace!
+Ahora mismo tienes [LEGO Nexo Knights 70373 - Combo NEXO Kräfte](https://www.amazon.com/dp/B06WW3PSQ8/?tag=redken08-20) a 2.32 EUR (original: 5.32 EUR) (56.39 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51SU4zYu63L._SL200_.jpg)](https://www.amazon.com/dp/B06WW3PSQ8/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06WW3PSQ8/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B06WW3PSQ8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

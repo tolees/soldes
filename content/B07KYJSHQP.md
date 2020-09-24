@@ -14,10 +14,10 @@ comparePrice: 59.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [EASYCEL 60M HDMI Extender Transmitter and Receiver  Over signle RJ45 cat5e Cat6 Cat7 Ethernet Cables Up to 196ft 60m   Supports 1080p 3D HDCP EDID for PC/Laptop  DVD  Sky  PS3  PS4  HD camera](https://www.amazon.com/dp/B07KYJSHQP/?tag=redken08-20) a 30.49 GBP (original: 59.99 GBP) (49.17 %  de descuento) en el siguiente enlace!
+Está [EASYCEL 60M HDMI Extender Transmitter and Receiver  Over signle RJ45 cat5e Cat6 Cat7 Ethernet Cables Up to 196ft 60m   Supports 1080p 3D HDCP EDID for PC/Laptop  DVD  Sky  PS3  PS4  HD camera](https://www.amazon.com/dp/B07KYJSHQP/?tag=redken08-20) con 49.17 de descuento por 30.49 GBP (original: 59.99 GBP) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41lYGhGWvTL._SL200_.jpg)](https://www.amazon.com/dp/B07KYJSHQP/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07KYJSHQP/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07KYJSHQP/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
