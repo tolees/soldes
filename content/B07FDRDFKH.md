@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barbie Fashionista - Muñeca con pelo lis al 45.19 % de descuento'
-date: 2020-09-23 08:50:46
+date: 2020-09-24 13:47:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31EhqzMaU7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31EhqzMaU7L._SL200_.jpg' ]
 comments: true
