@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi MJCQB02QJ Mobiler Luftkompressor  al 42.83 % de descuento'
-date: 2020-09-23 01:17:51
+date: 2020-09-24 07:23:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/31bEiD3Q2zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31bEiD3Q2zL._SL200_.jpg' ]
 comments: true

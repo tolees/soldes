@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City 60248 Fire Helicopter Response al 25.01 % de descuento'
-date: 2020-09-15 15:47:31
+date: 2020-09-24 07:49:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg' ]
 comments: true

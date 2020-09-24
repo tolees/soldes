@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony Xperia 5  6.1” FHD+ HDR OLED 21:9 D al 29.82 % de descuento'
-date: 2020-09-22 20:00:05
+title: 'Sony Xperia 5  6.1” FHD+ HDR OLED 21:9 D al 29.42 % de descuento'
+date: 2020-09-24 07:33:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07WZG6MHF
 description:
-actualPrice: 560.74 EUR
+actualPrice: 563.97 EUR
 comparePrice: 799.0 EUR
 inStock: true
 ---
 
-Está [Sony Xperia 5  6.1” FHD+ HDR OLED 21:9 Display  6GB RAM  128GB Speicher  Schwarz [Exklusiv bei Amazon]](https://www.amazon.com/dp/B07WZG6MHF/?tag=redken08-20) con 29.82 de descuento por 560.74 EUR (original: 799.0 EUR) en el siguiente enlace!
+Está [Sony Xperia 5  6.1” FHD+ HDR OLED 21:9 Display  6GB RAM  128GB Speicher  Schwarz [Exklusiv bei Amazon]](https://www.amazon.com/dp/B07WZG6MHF/?tag=redken08-20) con 29.42 de descuento por 563.97 EUR (original: 799.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg)](https://www.amazon.com/dp/B07WZG6MHF/?tag=redken08-20)
 

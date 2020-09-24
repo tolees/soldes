@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.33 % en Holy Stone HS700D FPV Drohne mit 4K Kame'
-date: 2020-09-22 20:08:03
+date: 2020-09-24 07:25:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41g-7tSRmmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41g-7tSRmmL._SL200_.jpg' ]
 comments: true
