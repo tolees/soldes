@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.52 % en Logitech M280 Ratón Inalámbrico  2 4 GHz'
-date: 2020-09-23 06:49:34
+date: 2020-09-24 16:44:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/316vbpUQ5yL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/316vbpUQ5yL._SL200_.jpg' ]
 comments: true
