@@ -14,10 +14,10 @@ comparePrice: 54.61 GBP
 inStock: true
 ---
 
-Está [Mega Construx Game Of Thrones Daenerys and Drogon GKG97](https://www.amazon.com/dp/B07P8WTVNR/?tag=redken08-20) con 45.08 de descuento por 29.99 GBP (original: 54.61 GBP) en el siguiente enlace!
+Ahora mismo tienes [Mega Construx Game Of Thrones Daenerys and Drogon GKG97](https://www.amazon.com/dp/B07P8WTVNR/?tag=redken08-20) a 29.99 GBP (original: 54.61 GBP) (45.08 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41l8Z7OIfvL._SL200_.jpg)](https://www.amazon.com/dp/B07P8WTVNR/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07P8WTVNR/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07P8WTVNR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
