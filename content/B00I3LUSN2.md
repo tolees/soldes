@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony MDR-EX110LP - Auriculares in-ear  n al 58.55 % de descuento'
-date: 2020-09-17 07:50:29
+title: 'Sony MDR-EX110LP - Auriculares in-ear  n al 62.65 % de descuento'
+date: 2020-09-24 18:37:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31YMxWjT2UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31YMxWjT2UL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00I3LUSN2
 description:
-actualPrice: 8.29 EUR
+actualPrice: 7.47 EUR
 comparePrice: 20.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony MDR-EX110LP - Auriculares in-ear  negro](https://www.amazon.com/dp/B00I3LUSN2/?tag=redken08-20) a 8.29 EUR (original: 20.0 EUR) (58.55 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony MDR-EX110LP - Auriculares in-ear  negro](https://www.amazon.com/dp/B00I3LUSN2/?tag=redken08-20) a 7.47 EUR (original: 20.0 EUR) (62.65 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31YMxWjT2UL._SL200_.jpg)](https://www.amazon.com/dp/B00I3LUSN2/?tag=redken08-20)
 

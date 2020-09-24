@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.14 % en Tommy Hilfiger Logo Camiseta de Cuello R'
-date: 2020-09-23 12:54:55
+date: 2020-09-24 18:34:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z6FtAM95L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z6FtAM95L._SL200_.jpg' ]
 comments: true
