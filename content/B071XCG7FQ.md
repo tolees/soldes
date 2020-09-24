@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.45 % en Lancardo Reloj Deportivo Analógico con C'
-date: 2020-09-22 17:18:22
+date: 2020-09-23 23:11:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41phtijlW0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41phtijlW0L._SL200_.jpg' ]
 comments: true
