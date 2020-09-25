@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Uten Freidora sin Aceite  Panel táctil 7 al 25.57 % de descuento'
-date: 2020-09-24 08:48:09
+date: 2020-09-25 18:38:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z2uhB4b1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z2uhB4b1L._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 39 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Lacoste Sol 119 1 Cuc  Sandalias de Punta Descubierta Unisex Niños  Rosa  Dk Lt Pnk 2j4   33 EU](https://www.amazon.com/dp/B07DJ6HZ3R/?tag=redken08-20) a 19.97 EUR (original: 39 EUR) (48.79 %  de descuento) en el siguiente enlace!
+Está [Lacoste Sol 119 1 Cuc  Sandalias de Punta Descubierta Unisex Niños  Rosa  Dk Lt Pnk 2j4   33 EU](https://www.amazon.com/dp/B07DJ6HZ3R/?tag=redken08-20) con 48.79 de descuento por 19.97 EUR (original: 39 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41Yu06x6YWL._SL200_.jpg)](https://www.amazon.com/dp/B07DJ6HZ3R/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07DJ6HZ3R/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07DJ6HZ3R/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
