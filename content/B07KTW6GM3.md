@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 70677 NINJAGO Land Bounty Vehicle   al 39.99 % de descuento'
-date: 2020-09-23 20:57:38
+date: 2020-09-25 04:25:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mQ2IGWqOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mQ2IGWqOL._SL200_.jpg' ]
 comments: true

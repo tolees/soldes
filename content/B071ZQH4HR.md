@@ -14,10 +14,10 @@ comparePrice: 77.99 GBP
 inStock: true
 ---
 
-Está [OSRAM LED outdoor Luminaire / Endura Style Sphere / Aluminium Body / dark grey / 180° adjustable / 8 Watt / warm white - 3000K](https://www.amazon.com/dp/B071ZQH4HR/?tag=redken08-20) con 89.38 de descuento por 8.28 GBP (original: 77.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [OSRAM LED outdoor Luminaire / Endura Style Sphere / Aluminium Body / dark grey / 180° adjustable / 8 Watt / warm white - 3000K](https://www.amazon.com/dp/B071ZQH4HR/?tag=redken08-20) a 8.28 GBP (original: 77.99 GBP) (89.38 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31VuT4dv9rL._SL200_.jpg)](https://www.amazon.com/dp/B071ZQH4HR/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B071ZQH4HR/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B071ZQH4HR/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
