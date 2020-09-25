@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.00 % en Blink XT2 | Outdoor/Indoor Smart Securit'
-date: 2020-09-24 08:41:54
+date: 2020-09-25 22:05:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31moy5ccgDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31moy5ccgDL._SL200_.jpg' ]
 comments: true
