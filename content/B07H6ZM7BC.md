@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.86 % en Evax Fina y Segura Super/Maxi Compresas '
-date: 2020-09-19 23:19:08
+date: 2020-09-25 13:09:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Zztr9t1KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Zztr9t1KL._SL200_.jpg' ]
 comments: true
