@@ -14,10 +14,10 @@ comparePrice: 14.3 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Queen Rock Montreal & Live Aid  2DVD  [2007] [NTSC]](https://www.amazon.com/dp/B000UDLA4C/?tag=redken08-20) a 9.9 GBP (original: 14.3 GBP) (30.77 %  de descuento) en el siguiente enlace!
+Está [Queen Rock Montreal & Live Aid  2DVD  [2007] [NTSC]](https://www.amazon.com/dp/B000UDLA4C/?tag=redken08-20) con 30.77 de descuento por 9.9 GBP (original: 14.3 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Ms9Z9NKiL._SL200_.jpg)](https://www.amazon.com/dp/B000UDLA4C/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000UDLA4C/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000UDLA4C/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
