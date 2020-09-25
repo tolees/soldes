@@ -14,10 +14,10 @@ comparePrice: 14.42 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko POP My Hero Academia SHOTA AIZ](https://www.amazon.com/dp/B07D7SMLG9/?tag=redken08-20) a 8.75 EUR (original: 14.42 EUR) (39.32 %  de descuento) en el siguiente enlace!
+Está [Funko POP My Hero Academia SHOTA AIZ](https://www.amazon.com/dp/B07D7SMLG9/?tag=redken08-20) con 39.32 de descuento por 8.75 EUR (original: 14.42 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41T85XG7SxL._SL200_.jpg)](https://www.amazon.com/dp/B07D7SMLG9/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07D7SMLG9/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07D7SMLG9/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

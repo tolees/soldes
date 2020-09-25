@@ -14,10 +14,10 @@ comparePrice: 40.65 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Color Copy Coated Gloss A4 Paper - 170gsm](https://www.amazon.com/dp/B000KJOBU6/?tag=redken08-20) a 11.04 GBP (original: 40.65 GBP) (72.84 %  de descuento) en el siguiente enlace!
+Está [Color Copy Coated Gloss A4 Paper - 170gsm](https://www.amazon.com/dp/B000KJOBU6/?tag=redken08-20) con 72.84 de descuento por 11.04 GBP (original: 40.65 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41QJco-DkOL._SL200_.jpg)](https://www.amazon.com/dp/B000KJOBU6/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000KJOBU6/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000KJOBU6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
