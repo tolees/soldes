@@ -14,10 +14,10 @@ comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 42093 Technic Chevrolet Corvette ZR1 Race Car  2 in 1 Hot Rod Toy Car Model  Racing Vehicles Collection](https://www.amazon.com/dp/B07FNW6WQ4/?tag=redken08-20) a 23.99 GBP (original: 39.99 GBP) (40.01 %  de descuento) en el siguiente enlace!
+Está [LEGO 42093 Technic Chevrolet Corvette ZR1 Race Car  2 in 1 Hot Rod Toy Car Model  Racing Vehicles Collection](https://www.amazon.com/dp/B07FNW6WQ4/?tag=redken08-20) con 40.01 de descuento por 23.99 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51e75sTmGZL._SL200_.jpg)](https://www.amazon.com/dp/B07FNW6WQ4/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07FNW6WQ4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07FNW6WQ4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

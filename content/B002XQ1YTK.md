@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.87 % en Juicy Couture Viva La Juicy Eau de Parfu'
-date: 2020-09-24 12:23:01
+date: 2020-09-25 12:31:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dd--kcNTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dd--kcNTL._SL200_.jpg' ]
 comments: true
