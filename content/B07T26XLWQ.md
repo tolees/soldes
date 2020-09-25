@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.49 % en Hefty Slider Freezer Bags  Gallon Size  '
-date: 2020-09-22 22:44:07
+date: 2020-09-25 21:11:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/517PsTbSN-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517PsTbSN-L._SL200_.jpg' ]
 comments: true
