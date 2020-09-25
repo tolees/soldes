@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Brilliant Spari Deckenfluter mit separat al 49.07 % de descuento'
+date: 2020-09-25 11:22:06
+thumbnailImage: 'https://m.media-amazon.com/images/I/21v5ZwuY7hL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/21v5ZwuY7hL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B004LZSP6Q
+description:
+actualPrice: 18.33 EUR
+comparePrice: 35.99 EUR
+inStock: true
+---
+
+Ahora mismo tienes [Brilliant Spari Deckenfluter mit separat schaltbarem Lesearm  1 8m in schwarz/weiß  geeignet für Leuchtmittel bis max. 60 Watt Hauptlicht und 25 Watt Lesearm](https://www.amazon.com/dp/B004LZSP6Q/?tag=redken08-20) a 18.33 EUR (original: 35.99 EUR) (49.07 %  de descuento) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/21v5ZwuY7hL._SL200_.jpg)](https://www.amazon.com/dp/B004LZSP6Q/?tag=redken08-20)
+
+[Visítala!!!](https://www.amazon.com/dp/B004LZSP6Q/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
