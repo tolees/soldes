@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.03 % en USB C Auriculares Tipo C con Cable y Mic'
-date: 2020-09-24 12:31:58
+date: 2020-09-25 19:05:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KsKoIZCdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KsKoIZCdL._SL200_.jpg' ]
 comments: true

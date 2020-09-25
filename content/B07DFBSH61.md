@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'POP! Vinylfigur: Lord of The Rings: Witc al 43.21 % de descuento'
-date: 2020-09-24 13:29:01
+date: 2020-09-25 19:56:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/5159q7fpTwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5159q7fpTwL._SL200_.jpg' ]
 comments: true
