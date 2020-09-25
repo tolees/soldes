@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KiplingDelia CompactMujerMochilasNegro   al 71.06 % de descuento'
-date: 2020-09-18 16:33:53
+date: 2020-09-25 14:22:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RMSI59MHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RMSI59MHL._SL200_.jpg' ]
 comments: true

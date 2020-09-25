@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clatronic Secador de Pelo HTD 3055 Secad al 33.71 % de descuento'
-date: 2020-09-24 13:46:36
+date: 2020-09-25 14:10:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EXF3IowlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EXF3IowlL._SL200_.jpg' ]
 comments: true
