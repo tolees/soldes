@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.94 % en Kit Barba Cuidado Para Hombres  Set Herr'
-date: 2020-09-24 00:41:04
+date: 2020-09-25 06:34:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Qr8tzs+1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Qr8tzs+1L._SL200_.jpg' ]
 comments: true
