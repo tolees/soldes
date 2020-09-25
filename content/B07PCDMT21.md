@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko 40706 POP Bobble: Marvel: Venom S2 al 35.14 % de descuento'
-date: 2020-04-15 22:48:46
+title: 'Funko- Pop Bobble: Marvel: Venom S2-Dare al 30.62 % de descuento'
+date: 2020-09-25 16:33:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zcOeie8dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zcOeie8dL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07PCDMT21
 description:
-actualPrice: 6.22 GBP
-comparePrice: 9.59 GBP
+actualPrice: 10.4 EUR
+comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [Funko 40706 POP Bobble: Marvel: Venom S2-Daredevil Collectible Figure  Multicolour](https://www.amazon.com/dp/B07PCDMT21/?tag=redken08-20) con 35.14 de descuento por 6.22 GBP (original: 9.59 GBP) en el siguiente enlace!
+Está [Funko- Pop Bobble: Marvel: Venom S2-Daredevil Figura coleccionable  Multicolor  40706 ](https://www.amazon.com/dp/B07PCDMT21/?tag=redken08-20) con 30.62 de descuento por 10.4 EUR (original: 14.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zcOeie8dL._SL200_.jpg)](https://www.amazon.com/dp/B07PCDMT21/?tag=redken08-20)
 

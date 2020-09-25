@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch BATIDORA DE Mano MSM88160 800W Pic al 47.91 % de descuento'
-date: 2020-09-21 07:56:37
+date: 2020-09-25 16:15:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/414Io7axoBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414Io7axoBL._SL200_.jpg' ]
 comments: true

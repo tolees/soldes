@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony HDRAS50B  Videocámara  Negro al 26.39 % de descuento'
+title: 'Descuento del 26.39 % en Sony HDRAS50B  Videocámara  Negro'
 date: 2020-02-25 11:28:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51o7DlD3YUL._AC_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51o7DlD3YUL._AC_._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 220.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony HDRAS50B  Videocámara  Negro](https://www.amazon.com/dp/B01A8QRVBQ/?tag=redken08-20) a 161.95 EUR (original: 220.0 EUR) (26.39 %  de descuento) en el siguiente enlace!
+Tienes [Sony HDRAS50B  Videocámara  Negro](https://www.amazon.com/dp/B01A8QRVBQ/?tag=redken08-20) con un 26.39 % de descuento con precio de oferta de 161.95 EUR (original: 220.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51o7DlD3YUL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01A8QRVBQ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01A8QRVBQ/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B01A8QRVBQ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

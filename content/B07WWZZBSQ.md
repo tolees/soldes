@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.61 % en Hori - Pokémon Trainer Pack Pikachu  Nin'
-date: 2020-09-23 21:55:10
+date: 2020-09-25 16:12:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/416LAUZISTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416LAUZISTL._SL200_.jpg' ]
 comments: true
