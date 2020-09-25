@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.34 % en Bolero Bebida Hidratante con Sabores Var'
-date: 2020-09-22 12:29:25
+date: 2020-09-25 00:41:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Gsah-PZGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Gsah-PZGL._SL200_.jpg' ]
 comments: true
