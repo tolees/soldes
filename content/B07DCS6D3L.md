@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 43.00 % en Pata Negra Roble Vino Tinto D.O Ribera d'
-date: 2020-09-16 10:56:12
+date: 2020-09-25 09:23:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/511HkQnXbWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511HkQnXbWL._SL200_.jpg' ]
 comments: true
