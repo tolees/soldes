@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Aspirateur robot iRobot Roomba 692 conne al 37.59 % de descuento'
-date: 2020-09-24 07:56:13
+date: 2020-09-25 08:30:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cPk3O+1dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cPk3O+1dL._SL200_.jpg' ]
 comments: true
