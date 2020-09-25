@@ -14,10 +14,10 @@ comparePrice: 10.54 GBP
 inStock: true
 ---
 
-Está [Funko 36967 POP Movies: Office Space-Bill Lumbergh Collectible Figure  Multicolor](https://www.amazon.com/dp/B07MZRKWPX/?tag=redken08-20) con 45.54 de descuento por 5.74 GBP (original: 10.54 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 36967 POP Movies: Office Space-Bill Lumbergh Collectible Figure  Multicolor](https://www.amazon.com/dp/B07MZRKWPX/?tag=redken08-20) a 5.74 GBP (original: 10.54 GBP) (45.54 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41PILJJxVXL._SL200_.jpg)](https://www.amazon.com/dp/B07MZRKWPX/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07MZRKWPX/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07MZRKWPX/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
