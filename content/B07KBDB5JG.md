@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.43 % en Tommee Tippee Twist & Click Sangenic Sis'
-date: 2020-09-25 08:32:13
+date: 2020-09-26 09:05:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RA09FjgIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RA09FjgIL._SL200_.jpg' ]
 comments: true
