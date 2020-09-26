@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko- Pop Vinilo: Disney: Toy Story 4:  al 30.77 % de descuento'
-date: 2020-09-25 00:45:04
+title: 'Funko- Pop Vinilo: Disney: Toy Story 4:  al 39.87 % de descuento'
+date: 2020-09-26 00:55:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tnBDtKIRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tnBDtKIRL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07KPK6G4R
 description:
-actualPrice: 10.35 EUR
+actualPrice: 8.99 EUR
 comparePrice: 14.95 EUR
 inStock: true
 ---
 
-Está [Funko- Pop Vinilo: Disney: Toy Story 4: Alien Figura Coleccionable  Multicolor  Talla única  37392 ](https://www.amazon.com/dp/B07KPK6G4R/?tag=redken08-20) con 30.77 de descuento por 10.35 EUR (original: 14.95 EUR) en el siguiente enlace!
+Está [Funko- Pop Vinilo: Disney: Toy Story 4: Alien Figura Coleccionable  Multicolor  Talla única  37392 ](https://www.amazon.com/dp/B07KPK6G4R/?tag=redken08-20) con 39.87 de descuento por 8.99 EUR (original: 14.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31tnBDtKIRL._SL200_.jpg)](https://www.amazon.com/dp/B07KPK6G4R/?tag=redken08-20)
 

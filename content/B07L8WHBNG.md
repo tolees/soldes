@@ -14,10 +14,10 @@ comparePrice: 35 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [REPLAY M3846 .000.2660 Camiseta  Verde  Dark Green 839   Small para Hombre](https://www.amazon.com/dp/B07L8WHBNG/?tag=redken08-20) a 13.95 EUR (original: 35 EUR) (60.14 %  de descuento) en el siguiente enlace!
+Está [REPLAY M3846 .000.2660 Camiseta  Verde  Dark Green 839   Small para Hombre](https://www.amazon.com/dp/B07L8WHBNG/?tag=redken08-20) con 60.14 de descuento por 13.95 EUR (original: 35 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41eSX2bUNYL._SL200_.jpg)](https://www.amazon.com/dp/B07L8WHBNG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07L8WHBNG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07L8WHBNG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
