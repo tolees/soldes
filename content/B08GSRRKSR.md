@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fusion5 14.1inch A90B+ Pro 64GB Windows  al 26.68 % de descuento'
-date: 2020-09-25 07:14:24
+date: 2020-09-26 08:17:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+5v4o418L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+5v4o418L._SL200_.jpg' ]
 comments: true

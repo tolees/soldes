@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 51.23 % en SanDisk microSDXC UHS-I card for Nintend'
-date: 2020-09-25 07:18:27
+date: 2020-09-26 08:31:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg' ]
 comments: true

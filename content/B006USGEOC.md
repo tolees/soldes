@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Listerine Enjuague Bucal - 500 ml al 34.51 % de descuento'
-date: 2020-09-23 16:30:19
+date: 2020-09-26 08:32:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41srcrHcLCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41srcrHcLCL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony DSCWX350 Digital Compact Camera wit al 26.52 % de descuento'
-date: 2020-09-24 19:16:54
+date: 2020-09-26 08:28:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IwBcbgU4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IwBcbgU4L._SL200_.jpg' ]
 comments: true
