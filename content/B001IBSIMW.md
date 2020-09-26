@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional GWS 1400 - Amoladora  al 40.65 % de descuento'
-date: 2020-09-21 19:42:49
+date: 2020-09-26 14:53:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/418uPbHfw8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418uPbHfw8L._SL200_.jpg' ]
 comments: true
