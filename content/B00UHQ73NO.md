@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 55.44 % en Drones'
-date: 2020-09-25 07:59:31
+date: 2020-09-26 20:19:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kAIG9t2LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kAIG9t2LL._SL200_.jpg' ]
 comments: true

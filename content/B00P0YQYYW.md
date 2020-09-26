@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ZippyPaws - Skinny Peltz No Stuffing Squ al 38.71 % de descuento'
-date: 2020-09-23 13:25:23
+date: 2020-09-26 20:00:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oVIImPBXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oVIImPBXL._SL200_.jpg' ]
 comments: true

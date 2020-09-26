@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony SEL 50-F18F Objectif 50 mm Ouvertur al 39.40 % de descuento'
-date: 2020-09-25 14:07:06
+title: 'Sony SEL-50F18F Standard Objektiv  Festb al 44.24 % de descuento'
+date: 2020-09-25 19:59:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01DLMD5O6
 description:
-actualPrice: 199.99 EUR
-comparePrice: 330.0 EUR
+actualPrice: 183.45 EUR
+comparePrice: 329.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sony SEL 50-F18F Objectif 50 mm Ouverture F1.8 pour Monture E Sony](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20) a 199.99 EUR (original: 330.0 EUR) (39.40 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL-50F18F Standard Objektiv  Festbrennweite  50 mm  F1.8  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20) a 183.45 EUR (original: 329.0 EUR) (44.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg)](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20)
 

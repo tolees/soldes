@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cluse Reloj Digital de Cuarzo Unisex con al 50.00 % de descuento'
-date: 2020-09-16 04:11:06
+date: 2020-09-26 20:21:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WZeczS2jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WZeczS2jL._SL200_.jpg' ]
 comments: true
