@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 86.27 % en Pentel R.S.V.P. Ballpoint Pen  Fine Line'
-date: 2020-09-25 18:05:14
+date: 2020-09-26 22:20:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Qk9sEp24L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Qk9sEp24L._SL200_.jpg' ]
 comments: true
