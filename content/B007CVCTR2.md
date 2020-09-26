@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BG Electrical Single Light Switch  Brush al 34.54 % de descuento'
-date: 2020-09-25 07:10:30
+date: 2020-09-26 07:47:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C4xs2Hb7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C4xs2Hb7L._SL200_.jpg' ]
 comments: true
