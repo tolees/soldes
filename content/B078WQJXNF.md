@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung 860 EVO MZ-76E250B/EU - Disco du al 38.28 % de descuento'
-date: 2020-09-24 13:51:50
+title: 'Samsung 860 EVO 250 GB SATA 2.5 Inch Int al 42.79 % de descuento'
+date: 2020-09-25 07:24:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B078WQJXNF
 description:
-actualPrice: 48.75 EUR
-comparePrice: 78.99 EUR
+actualPrice: 44.45 GBP
+comparePrice: 77.7 GBP
 inStock: true
 ---
 
-Está [Samsung 860 EVO MZ-76E250B/EU - Disco duro sólido interno de 250 GB   color negro](https://www.amazon.com/dp/B078WQJXNF/?tag=redken08-20) con 38.28 de descuento por 48.75 EUR (original: 78.99 EUR) en el siguiente enlace!
+Está [Samsung 860 EVO 250 GB SATA 2.5 Inch Internal Solid State Drive  SSD   MZ-76E250 ](https://www.amazon.com/dp/B078WQJXNF/?tag=redken08-20) con 42.79 de descuento por 44.45 GBP (original: 77.7 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41JrIwN+kyL._SL200_.jpg)](https://www.amazon.com/dp/B078WQJXNF/?tag=redken08-20)
 
