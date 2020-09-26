@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Hooded Chaqueta De  al 48.85 % de descuento'
-date: 2020-09-18 08:24:04
+title: 'Columbia Powder Lite Chaqueta De Plumón  al 48.85 % de descuento'
+date: 2020-09-26 13:35:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/410K5hwpNSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410K5hwpNSL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 129.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Rojo  Red Jasper  Dark Purple  Mountain Red   M](https://www.amazon.com/dp/B087VGQZR9/?tag=redken08-20) a 66.49 EUR (original: 129.99 EUR) (48.85 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Columbia Powder Lite Chaqueta De Plumón con Capucha  Hombre  Rojo  Red Jasper  Dark Purple  Mountain Red   M](https://www.amazon.com/dp/B087VGQZR9/?tag=redken08-20) a 66.49 EUR (original: 129.99 EUR) (48.85 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/410K5hwpNSL._SL200_.jpg)](https://www.amazon.com/dp/B087VGQZR9/?tag=redken08-20)
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus Mod. MS100X cutmaster compact al 31.92 % de descuento'
-date: 2020-09-25 00:47:12
+date: 2020-09-26 13:35:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nh4Qi11bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nh4Qi11bL._SL200_.jpg' ]
 comments: true
