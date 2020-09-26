@@ -14,10 +14,10 @@ comparePrice: 44.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Hidden Side 70432 Haunted Fairground Set  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android](https://www.amazon.com/dp/B07W8Y1FSZ/?tag=redken08-20) a 32.95 GBP (original: 44.99 GBP) (26.76 %  de descuento) en el siguiente enlace!
+Está [LEGO Hidden Side 70432 Haunted Fairground Set  AR Games App  Interactive Multiplayer Augmented Reality Playset for iPhone/Android](https://www.amazon.com/dp/B07W8Y1FSZ/?tag=redken08-20) con 26.76 de descuento por 32.95 GBP (original: 44.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51uA1LzQbML._SL200_.jpg)](https://www.amazon.com/dp/B07W8Y1FSZ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07W8Y1FSZ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07W8Y1FSZ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
