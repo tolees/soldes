@@ -14,10 +14,10 @@ comparePrice: 65.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Levi s Men s Barstow Western Denim Shirt  Blue  Bruised Indigo Dark 0325   X-Small](https://www.amazon.com/dp/B07LF8NHY8/?tag=redken08-20) a 32.5 GBP (original: 65.0 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [Levi s Men s Barstow Western Denim Shirt  Blue  Bruised Indigo Dark 0325   X-Small](https://www.amazon.com/dp/B07LF8NHY8/?tag=redken08-20) con 50.00 de descuento por 32.5 GBP (original: 65.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41zG03mwrIL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07LF8NHY8/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07LF8NHY8/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07LF8NHY8/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
