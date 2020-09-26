@@ -14,10 +14,10 @@ comparePrice: 17.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  lt Green Spark/Pine Green/ White   M](https://www.amazon.com/dp/B079P7CRJJ/?tag=redken08-20) a 12.55 EUR (original: 17.95 EUR) (30.08 %  de descuento) en el siguiente enlace!
+Está [Nike W Nk Dry Acdmy18 Top SS T-Shirt  Mujer  lt Green Spark/Pine Green/ White   M](https://www.amazon.com/dp/B079P7CRJJ/?tag=redken08-20) con 30.08 de descuento por 12.55 EUR (original: 17.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41vXDUzI6SL._SL200_.jpg)](https://www.amazon.com/dp/B079P7CRJJ/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B079P7CRJJ/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B079P7CRJJ/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

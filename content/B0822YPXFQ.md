@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 32.48 % en Braun Recortadora MGK3221 6 en 1  Máquin'
-date: 2020-09-25 18:31:31
+date: 2020-09-26 18:38:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jkbrz+FIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jkbrz+FIL._SL200_.jpg' ]
 comments: true
