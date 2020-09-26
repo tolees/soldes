@@ -14,10 +14,10 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60256 City Nitro Wheels Racing Cars Toy with 2 Race Drivers Minifigures  Rally Vehicles for Kids 5+ Year Old](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20) a 12.0 GBP (original: 17.99 GBP) (33.30 %  de descuento) en el siguiente enlace!
+Está [LEGO 60256 City Nitro Wheels Racing Cars Toy with 2 Race Drivers Minifigures  Rally Vehicles for Kids 5+ Year Old](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20) con 33.30 de descuento por 12.0 GBP (original: 17.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51VUfzrd2RL._SL200_.jpg)](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07W7TMP9M/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
