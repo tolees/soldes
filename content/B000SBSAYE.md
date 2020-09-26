@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel P205BP2-K6 Sharp Mechanical/Autom al 29.21 % de descuento'
-date: 2020-09-22 19:10:51
+date: 2020-09-26 19:52:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41E9oJiEO9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41E9oJiEO9L._SL200_.jpg' ]
 comments: true
