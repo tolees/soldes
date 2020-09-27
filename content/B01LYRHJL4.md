@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SOLEDI Fieltro Manualidades Tela no Teji al 26.93 % de descuento'
-date: 2020-09-26 12:57:21
+date: 2020-09-27 13:26:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XewOiDSlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XewOiDSlL._SL200_.jpg' ]
 comments: true
