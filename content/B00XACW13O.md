@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.78 % en Durex Preservativos Dame Placer con Punt'
-date: 2020-09-19 10:01:49
+date: 2020-09-27 06:01:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QSEc3x6oL._SL200_.jpg' ]
 comments: true
