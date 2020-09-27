@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tous EDT 90ml al 46.89 % de descuento'
-date: 2020-09-26 18:44:44
+date: 2020-09-27 18:56:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WYtbF0M3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WYtbF0M3L._SL200_.jpg' ]
 comments: true

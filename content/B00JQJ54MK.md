@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Kids Plastidecor - Estuche de 36 uni al 32.70 % de descuento'
-date: 2020-09-26 18:45:02
+date: 2020-09-27 18:57:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51k5mfEZQkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51k5mfEZQkL._SL200_.jpg' ]
 comments: true
