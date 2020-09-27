@@ -1,0 +1,23 @@
+---
+layout: post
+title: 'Descuento del 43.29 % en Sangean DT-250 - Radio  Plateado'
+date: 2020-09-27 10:01:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/51A-bwZvg8L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51A-bwZvg8L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: B001F4ZWKS
+description:
+actualPrice: 31.19 EUR
+comparePrice: 55.0 EUR
+inStock: true
+---
+
+Tienes [Sangean DT-250 - Radio  Plateado](https://www.amazon.com/dp/B001F4ZWKS/?tag=redken08-20) con un 43.29 % de descuento con precio de oferta de 31.19 EUR (original: 55.0 EUR) en el siguiente enlace!
+
+[![](https://m.media-amazon.com/images/I/51A-bwZvg8L._SL200_.jpg)](https://www.amazon.com/dp/B001F4ZWKS/?tag=redken08-20)
+
+[Accede a la oferta!!](https://www.amazon.com/dp/B001F4ZWKS/?tag=redken08-20)
+
+[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

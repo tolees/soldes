@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WR802N Nano Router N300 Wi-Fi al 27.66 % de descuento'
-date: 2020-09-21 11:54:43
+date: 2020-09-27 10:15:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zptAbcUzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zptAbcUzL._SL200_.jpg' ]
 comments: true
