@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel EnerGel-X Retractable Liquid Gel  al 57.74 % de descuento'
-date: 2020-09-23 13:17:44
+date: 2020-09-27 20:31:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wo4khG+aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wo4khG+aL._SL200_.jpg' ]
 comments: true

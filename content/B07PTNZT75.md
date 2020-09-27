@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Etekcity Kitchen Scales Digital  Premium al 43.36 % de descuento'
-date: 2020-09-26 08:13:29
+date: 2020-09-27 20:00:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kwXBs3LkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kwXBs3LkL._SL200_.jpg' ]
 comments: true
