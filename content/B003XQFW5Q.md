@@ -14,10 +14,10 @@ comparePrice: 16.8 USD
 inStock: true
 ---
 
-Está [Pentel Arts 8 Colour Refill Lead  Assorted Colors  8 Pack  CH2BP8M ](https://www.amazon.com/dp/B003XQFW5Q/?tag=redken08-20) con 31.19 de descuento por 11.56 USD (original: 16.8 USD) en el siguiente enlace!
+Ahora mismo tienes [Pentel Arts 8 Colour Refill Lead  Assorted Colors  8 Pack  CH2BP8M ](https://www.amazon.com/dp/B003XQFW5Q/?tag=redken08-20) a 11.56 USD (original: 16.8 USD) (31.19 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51PZa3jwO+L._SL200_.jpg)](https://www.amazon.com/dp/B003XQFW5Q/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B003XQFW5Q/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B003XQFW5Q/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

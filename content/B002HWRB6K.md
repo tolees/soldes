@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 57.11 % en Rotulador escolar STABILO Trio AZ - Estu'
-date: 2020-09-25 08:57:57
+date: 2020-09-27 02:13:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oRObozwJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oRObozwJL._SL200_.jpg' ]
 comments: true
