@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link AC1750 Universal Dual Band Range al 33.34 % de descuento'
-date: 2020-09-23 17:03:13
+date: 2020-09-27 11:13:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31d3crUnL3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31d3crUnL3L._SL200_.jpg' ]
 comments: true
