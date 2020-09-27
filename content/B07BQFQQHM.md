@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Series 3000 Wet and Dry Men s El al 38.47 % de descuento'
-date: 2020-09-25 14:16:39
+date: 2020-09-27 21:50:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AvMjedmhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AvMjedmhL._SL200_.jpg' ]
 comments: true

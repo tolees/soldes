@@ -14,10 +14,10 @@ comparePrice: 10.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [6 LED Book Light OMERIL USB Rechargeable Reading Light with 3 Eye-Care Brightness Modes Warm&Cool White  Flexible Clip on Book Light for Reading in Bed Kindle Tablet Music Stand Travel](https://www.amazon.com/dp/B07F3YMKCL/?tag=redken08-20) a 6.99 GBP (original: 10.99 GBP) (36.40 %  de descuento) en el siguiente enlace!
+Está [6 LED Book Light OMERIL USB Rechargeable Reading Light with 3 Eye-Care Brightness Modes Warm&Cool White  Flexible Clip on Book Light for Reading in Bed Kindle Tablet Music Stand Travel](https://www.amazon.com/dp/B07F3YMKCL/?tag=redken08-20) con 36.40 de descuento por 6.99 GBP (original: 10.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31+fZEI+oHL._SL200_.jpg)](https://www.amazon.com/dp/B07F3YMKCL/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07F3YMKCL/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07F3YMKCL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
