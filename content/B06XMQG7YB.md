@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.51 % en Yale B-YS3-3535N Anti-Snap 3 Star Euro D'
-date: 2020-09-25 14:14:38
+date: 2020-09-26 23:25:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/413KouA49oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413KouA49oL._SL200_.jpg' ]
 comments: true
