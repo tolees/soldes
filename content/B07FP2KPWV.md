@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO® Technic L hélicoptère de secours J al 40.84 % de descuento'
-date: 2020-09-26 14:23:42
+title: 'LEGO 42092 Technic Rescue Helicopter  2  al 26.01 % de descuento'
+date: 2020-09-27 14:12:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FP2KPWV
 description:
-actualPrice: 20.7 EUR
-comparePrice: 34.99 EUR
+actualPrice: 18.49 GBP
+comparePrice: 24.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO® Technic L hélicoptère de secours Jeu de construction  8 Ans et Plus  325 Pièces 42092](https://www.amazon.com/dp/B07FP2KPWV/?tag=redken08-20) a 20.7 EUR (original: 34.99 EUR) (40.84 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [LEGO 42092 Technic Rescue Helicopter  2 in 1 Concept Toy Plane  Model Building Set for 8+ Years Old Boys and Girls](https://www.amazon.com/dp/B07FP2KPWV/?tag=redken08-20) a 18.49 GBP (original: 24.99 GBP) (26.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg)](https://www.amazon.com/dp/B07FP2KPWV/?tag=redken08-20)
 
