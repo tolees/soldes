@@ -14,10 +14,10 @@ comparePrice: 17.99 GBP
 inStock: true
 ---
 
-Está [LEGO City 60248 Fire Helicopter Response with ATV Quad Bike](https://www.amazon.com/dp/B07W8XYZ1P/?tag=redken08-20) con 25.01 de descuento por 13.49 GBP (original: 17.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [LEGO City 60248 Fire Helicopter Response with ATV Quad Bike](https://www.amazon.com/dp/B07W8XYZ1P/?tag=redken08-20) a 13.49 GBP (original: 17.99 GBP) (25.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51f42TbRZPL._SL200_.jpg)](https://www.amazon.com/dp/B07W8XYZ1P/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07W8XYZ1P/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07W8XYZ1P/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
