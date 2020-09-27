@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 36.48 % en Calico Cat'
-date: 2020-09-26 08:26:04
+title: 'Descuento del 35.78 % en Calico Cat'
+date: 2020-09-27 14:13:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DULb9EKXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DULb9EKXL._SL200_.jpg' ]
 comments: true
@@ -10,11 +10,11 @@ author: ring
 slug: B07BWDBRP3
 description:
 actualPrice: 7.0 GBP
-comparePrice: 11.02 GBP
+comparePrice: 10.9 GBP
 inStock: true
 ---
 
-Tienes [Calico Cat](https://www.amazon.com/dp/B07BWDBRP3/?tag=redken08-20) con un 36.48 % de descuento con precio de oferta de 7.0 GBP (original: 11.02 GBP) en el siguiente enlace!
+Tienes [Calico Cat](https://www.amazon.com/dp/B07BWDBRP3/?tag=redken08-20) con un 35.78 % de descuento con precio de oferta de 7.0 GBP (original: 10.9 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41DULb9EKXL._SL200_.jpg)](https://www.amazon.com/dp/B07BWDBRP3/?tag=redken08-20)
 

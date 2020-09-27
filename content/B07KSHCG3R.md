@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.34 % en Samsung SSD interne 860 QVO 2.5’’ SATA  '
-date: 2020-09-26 08:47:51
+date: 2020-09-27 14:42:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dNXsA2avL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dNXsA2avL._SL200_.jpg' ]
 comments: true
