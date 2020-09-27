@@ -14,10 +14,10 @@ comparePrice: 18.9 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [RUNCCI 3528 2835 2 pines  8 mm Kit de conector de barra de luz LED  5X Puente de conector  5X LED conector  5 Conectores en forma de L  2 Interruptores de CC  2 Conectores completos](https://www.amazon.com/dp/B07L7JK1VF/?tag=redken08-20) a 8.99 EUR (original: 18.9 EUR) (52.43 %  de descuento) en el siguiente enlace!
+Está [RUNCCI 3528 2835 2 pines  8 mm Kit de conector de barra de luz LED  5X Puente de conector  5X LED conector  5 Conectores en forma de L  2 Interruptores de CC  2 Conectores completos](https://www.amazon.com/dp/B07L7JK1VF/?tag=redken08-20) con 52.43 de descuento por 8.99 EUR (original: 18.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/418v4gW3v+L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07L7JK1VF/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07L7JK1VF/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07L7JK1VF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
