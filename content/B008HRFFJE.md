@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 32.03 % en Bosch Professional 7tlg. Betonbohrer Set'
-date: 2020-09-22 07:44:27
-thumbnailImage: 'https://m.media-amazon.com/images/I/41Clf03x6nL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41Clf03x6nL._SL200_.jpg' ]
+title: 'Descuento del 43.14 % en Bosch Professional 2 607 017 082 Bosch 0'
+date: 2020-02-24 21:31:55
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Clf03x6nL._AC_._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Clf03x6nL._AC_._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B008HRFFJE
 description:
-actualPrice: 8.53 EUR
-comparePrice: 12.55 EUR
+actualPrice: 10.77 EUR
+comparePrice: 18.94 EUR
 inStock: true
 ---
 
-Tienes [Bosch Professional 7tlg. Betonbohrer Set CYL-3  für Beton  Ø 4-10 mm  Zubehör Schlagbohrmaschine ](https://www.amazon.com/dp/B008HRFFJE/?tag=redken08-20) con un 32.03 % de descuento con precio de oferta de 8.53 EUR (original: 12.55 EUR) en el siguiente enlace!
+Tienes [Bosch Professional 2 607 017 082 Bosch 082-Juego de 7 brocas para hormigón CYL-3-4 5 6 6 7 8 10 mm  pack de 7   0 W  0 V  Gris](https://www.amazon.com/dp/B008HRFFJE/?tag=redken08-20) con un 43.14 % de descuento con precio de oferta de 10.77 EUR (original: 18.94 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Clf03x6nL._SL200_.jpg)](https://www.amazon.com/dp/B008HRFFJE/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41Clf03x6nL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B008HRFFJE/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B008HRFFJE/?tag=redken08-20)
 
