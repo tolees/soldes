@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HOVNEE Regleta Vertical Enchufes de 12 T al 28.01 % de descuento'
-date: 2020-09-26 11:48:30
+date: 2020-09-27 12:00:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/416qHkt7ozL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416qHkt7ozL._SL200_.jpg' ]
 comments: true
