@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Targus Balance Ecosmart 14"  Unisex Adul al 42.86 % de descuento'
-date: 2020-09-19 05:39:04
+date: 2020-09-27 04:00:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/412JAvH9a0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412JAvH9a0L._SL200_.jpg' ]
 comments: true
