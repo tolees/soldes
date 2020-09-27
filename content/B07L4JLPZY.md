@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko Pop! Fortnite 458 Zoey Vinyl Figur al 43.64 % de descuento'
-date: 2020-09-22 20:13:07
+title: 'Funko 36019 Pop Games: Fortnite S2 - Zoe al 30.09 % de descuento'
+date: 2020-04-06 12:47:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/519ecPx+0AL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519ecPx+0AL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07L4JLPZY
 description:
-actualPrice: 8.99 EUR
-comparePrice: 15.95 EUR
+actualPrice: 6.83 GBP
+comparePrice: 9.77 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop! Fortnite 458 Zoey Vinyl Figure  Multicolor  Estándar](https://www.amazon.com/dp/B07L4JLPZY/?tag=redken08-20) a 8.99 EUR (original: 15.95 EUR) (43.64 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko 36019 Pop Games: Fortnite S2 - Zoey Vinyl  Multi](https://www.amazon.com/dp/B07L4JLPZY/?tag=redken08-20) a 6.83 GBP (original: 9.77 GBP) (30.09 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/519ecPx+0AL._SL200_.jpg)](https://www.amazon.com/dp/B07L4JLPZY/?tag=redken08-20)
 
