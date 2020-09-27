@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tefal Daily Cook - Juego de 3 Sartenes d al 31.66 % de descuento'
-date: 2020-09-20 16:53:07
+date: 2020-09-27 07:27:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aMXX11RML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aMXX11RML._SL200_.jpg' ]
 comments: true

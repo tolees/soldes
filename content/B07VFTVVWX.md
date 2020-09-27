@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Joy-Con  set Izda/Dcha  Azul / Amarillo  al 25.56 % de descuento'
-date: 2020-09-26 01:08:26
+date: 2020-09-27 07:14:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41t7efIRclL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41t7efIRclL._SL200_.jpg' ]
 comments: true
