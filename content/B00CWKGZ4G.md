@@ -14,10 +14,10 @@ comparePrice: 8.18 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Salki - Pistola Ec-360 8500360](https://www.amazon.com/dp/B00CWKGZ4G/?tag=redken08-20) a 5.83 EUR (original: 8.18 EUR) (28.73 %  de descuento) en el siguiente enlace!
+Está [Salki - Pistola Ec-360 8500360](https://www.amazon.com/dp/B00CWKGZ4G/?tag=redken08-20) con 28.73 de descuento por 5.83 EUR (original: 8.18 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31rzjt+UDxL._SL200_.jpg)](https://www.amazon.com/dp/B00CWKGZ4G/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00CWKGZ4G/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00CWKGZ4G/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
