@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Klipsch Heritage Wireless The One II Tab al 33.87 % de descuento'
-date: 2020-09-26 21:46:30
+date: 2020-09-28 04:25:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AUTbToHvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AUTbToHvL._SL200_.jpg' ]
 comments: true
