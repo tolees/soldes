@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.26 % en Anker Power Bank  PowerCore Slim 10000  '
-date: 2020-09-27 05:17:57
+date: 2020-09-28 05:59:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T+6fL4GnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T+6fL4GnL._SL200_.jpg' ]
 comments: true
