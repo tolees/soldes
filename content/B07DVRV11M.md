@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pepe Jeans Pierre Bandolera para portáti al 28.61 % de descuento'
-date: 2020-09-26 23:00:33
+date: 2020-09-28 21:54:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Z+Nh4YffL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Z+Nh4YffL._SL200_.jpg' ]
 comments: true

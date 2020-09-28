@@ -14,10 +14,10 @@ comparePrice: 272.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Epson ECOTANK ET2600 3IN1 Impresora de inyección de Tinta C11CF46402 A4/WLAN/LAN](https://www.amazon.com/dp/B01N4NEG9E/?tag=redken08-20) a 165.0 EUR (original: 272.99 EUR) (39.56 %  de descuento) en el siguiente enlace!
+Está [Epson ECOTANK ET2600 3IN1 Impresora de inyección de Tinta C11CF46402 A4/WLAN/LAN](https://www.amazon.com/dp/B01N4NEG9E/?tag=redken08-20) con 39.56 de descuento por 165.0 EUR (original: 272.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41ygQ844UCL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01N4NEG9E/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01N4NEG9E/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01N4NEG9E/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
