@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Weta Collectibles- Estatua Figura Colecc al 26.16 % de descuento'
-date: 2020-09-24 11:28:22
+date: 2020-09-28 16:44:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hWxR+H2JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hWxR+H2JL._SL200_.jpg' ]
 comments: true
