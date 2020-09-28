@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'S&M 321771 Regulador de Gas Butano Goma  al 43.21 % de descuento'
-date: 2020-09-16 10:56:26
+date: 2020-09-28 18:57:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wTAoP2TdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wTAoP2TdL._SL200_.jpg' ]
 comments: true
