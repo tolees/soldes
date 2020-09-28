@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.53 % en LEGO Classic 10700 - Bauplatte'
-date: 2020-04-15 00:04:57
+title: 'Descuento del 33.48 % en LEGO 10700 Classic Base Extra Large Buil'
+date: 2020-09-28 01:47:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/51K3ZFSYmVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51K3ZFSYmVL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00NVDOH2U
 description:
-actualPrice: 5.79 EUR
-comparePrice: 7.99 EUR
+actualPrice: 4.65 GBP
+comparePrice: 6.99 GBP
 inStock: true
 ---
 
-Tienes [LEGO Classic 10700 - Bauplatte](https://www.amazon.com/dp/B00NVDOH2U/?tag=redken08-20) con un 27.53 % de descuento con precio de oferta de 5.79 EUR (original: 7.99 EUR) en el siguiente enlace!
+Tienes [LEGO 10700 Classic Base Extra Large Building Plate 10 x 10 Inch Platform  Green](https://www.amazon.com/dp/B00NVDOH2U/?tag=redken08-20) con un 33.48 % de descuento con precio de oferta de 4.65 GBP (original: 6.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51K3ZFSYmVL._SL200_.jpg)](https://www.amazon.com/dp/B00NVDOH2U/?tag=redken08-20)
 

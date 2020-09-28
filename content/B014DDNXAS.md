@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Plax Cool Mint Antibacterial Mou al 44.13 % de descuento'
-date: 2020-09-26 14:03:47
+date: 2020-09-28 01:40:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41373v2O1iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41373v2O1iL._SL200_.jpg' ]
 comments: true

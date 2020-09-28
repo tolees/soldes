@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger T Camiseta Básica de Mang al 29.70 % de descuento'
-date: 2020-09-27 00:58:01
+date: 2020-09-28 01:10:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MP1IW1JIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MP1IW1JIL._SL200_.jpg' ]
 comments: true
