@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony KD-65XG7005 Bravia 65 Zoll  164cm   al 41.51 % de descuento'
-date: 2020-09-26 01:55:15
+date: 2020-09-28 02:21:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/415iBq11wUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415iBq11wUL._SL200_.jpg' ]
 comments: true
