@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.00 % en Columbia IVO TRAIL BREEZE Zapatillas dep'
-date: 2020-09-26 09:07:49
+date: 2020-09-28 10:02:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/3170edOccBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3170edOccBL._SL200_.jpg' ]
 comments: true

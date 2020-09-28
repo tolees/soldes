@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.27 % en BRA Advanced Cacerola 24 cm  Aluminio Fu'
-date: 2020-09-19 13:16:13
+date: 2020-09-28 10:54:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31q5xGAR9fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31q5xGAR9fL._SL200_.jpg' ]
 comments: true
