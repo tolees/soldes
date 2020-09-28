@@ -14,10 +14,10 @@ comparePrice: 10.09 GBP
 inStock: true
 ---
 
-Está [Funko 3876 Ghost Game of Thrones Direwolf Bobble Head - Vinyl Collectors 3.75 Inch Dire Wolf Figure](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20) con 36.57 de descuento por 6.4 GBP (original: 10.09 GBP) en el siguiente enlace!
+Ahora mismo tienes [Funko 3876 Ghost Game of Thrones Direwolf Bobble Head - Vinyl Collectors 3.75 Inch Dire Wolf Figure](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20) a 6.4 GBP (original: 10.09 GBP) (36.57 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516iphMdo9L._SL200_.jpg)](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00GXOK37C/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
