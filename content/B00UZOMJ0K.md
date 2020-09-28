@@ -14,10 +14,10 @@ comparePrice: 10.97 USD
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Ideas CUUSOO - Female Scientist Minifigure with Sextant  Syringe and Purple Bottle  21110 ](https://www.amazon.com/dp/B00UZOMJ0K/?tag=redken08-20) a 6.69 USD (original: 10.97 USD) (39.02 %  de descuento) en el siguiente enlace!
+Está [LEGO Ideas CUUSOO - Female Scientist Minifigure with Sextant  Syringe and Purple Bottle  21110 ](https://www.amazon.com/dp/B00UZOMJ0K/?tag=redken08-20) con 39.02 de descuento por 6.69 USD (original: 10.97 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41xO9mJtEfL._SL200_.jpg)](https://www.amazon.com/dp/B00UZOMJ0K/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00UZOMJ0K/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00UZOMJ0K/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
