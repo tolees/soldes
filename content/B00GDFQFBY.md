@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.82 % en TATAY 1167500 Urban Food Casual - Bolsa '
-date: 2020-09-26 13:21:21
+date: 2020-09-28 19:05:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e+VvTTrSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e+VvTTrSL._SL200_.jpg' ]
 comments: true

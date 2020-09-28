@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DIVASA Tabernil Muda Complemento Vitamín al 25.77 % de descuento'
-date: 2020-09-27 13:28:10
+date: 2020-09-28 19:06:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wcPxzFypL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wcPxzFypL._SL200_.jpg' ]
 comments: true

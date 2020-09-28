@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.98 % en SuperZings- Mini Vehicle Serie 4 Vehícul'
-date: 2020-09-27 18:57:26
+date: 2020-09-28 19:11:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ykrkShLkL._SL200_.jpg' ]
 comments: true
