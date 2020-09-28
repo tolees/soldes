@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link AV600 Powerline WiFi Extender -  al 40.01 % de descuento'
-date: 2020-09-27 11:19:10
+date: 2020-09-28 17:28:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mTatW6RoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mTatW6RoL._SL200_.jpg' ]
 comments: true

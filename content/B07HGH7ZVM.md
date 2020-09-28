@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.99 % en Yellowstone: Season One'
-date: 2020-09-27 11:33:45
+date: 2020-09-28 17:27:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C7SklLo7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C7SklLo7L._SL200_.jpg' ]
 comments: true
