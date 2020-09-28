@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bollé - Máscara de protección al 42.42 % de descuento'
-date: 2020-09-27 00:45:09
+date: 2020-09-28 00:53:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nmrv4oxLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nmrv4oxLL._SL200_.jpg' ]
 comments: true

@@ -14,10 +14,10 @@ comparePrice: 25.0 EUR
 inStock: true
 ---
 
-Está [Levi s Relaxed Graphic tee Camiseta  Gris  90 s Serif Logo Forged Iron 0045   XX-Large para Hombre](https://www.amazon.com/dp/B07RXL1C6S/?tag=redken08-20) con 50.00 de descuento por 12.5 EUR (original: 25.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Levi s Relaxed Graphic tee Camiseta  Gris  90 s Serif Logo Forged Iron 0045   XX-Large para Hombre](https://www.amazon.com/dp/B07RXL1C6S/?tag=redken08-20) a 12.5 EUR (original: 25.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41XStKDp-XL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07RXL1C6S/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B07RXL1C6S/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B07RXL1C6S/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
