@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 29.03 % en Curver 187152 Poubelle à pédale plastiqu'
-date: 2020-09-25 20:09:54
+title: 'Descuento del 35.99 % en Curver 187152 Poubelle à pédale plastiqu'
+date: 2020-09-28 14:38:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31jqbjTAzbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31jqbjTAzbL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B003WUXN2C
 description:
-actualPrice: 50.32 EUR
+actualPrice: 45.38 EUR
 comparePrice: 70.9 EUR
 inStock: true
 ---
 
-Tienes [Curver 187152 Poubelle à pédale plastique Argent 50 L](https://www.amazon.com/dp/B003WUXN2C/?tag=redken08-20) con un 29.03 % de descuento con precio de oferta de 50.32 EUR (original: 70.9 EUR) en el siguiente enlace!
+Tienes [Curver 187152 Poubelle à pédale plastique Argent 50 L](https://www.amazon.com/dp/B003WUXN2C/?tag=redken08-20) con un 35.99 % de descuento con precio de oferta de 45.38 EUR (original: 70.9 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31jqbjTAzbL._SL200_.jpg)](https://www.amazon.com/dp/B003WUXN2C/?tag=redken08-20)
 
