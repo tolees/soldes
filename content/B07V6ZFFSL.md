@@ -14,10 +14,10 @@ comparePrice: 9.85 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [52mm 58mm 2.0X Teleobjetivo para Nikon D90 D80 D700 D300 D3200 D3200 D5000 D500 D5200 18-55mm Cámaras DSLR - Negro](https://www.amazon.com/dp/B07V6ZFFSL/?tag=redken08-20) a 6.7 EUR (original: 9.85 EUR) (31.98 %  de descuento) en el siguiente enlace!
+Está [52mm 58mm 2.0X Teleobjetivo para Nikon D90 D80 D700 D300 D3200 D3200 D5000 D500 D5200 18-55mm Cámaras DSLR - Negro](https://www.amazon.com/dp/B07V6ZFFSL/?tag=redken08-20) con 31.98 de descuento por 6.7 EUR (original: 9.85 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/413e7k1cNzL._SL200_.jpg)](https://www.amazon.com/dp/B07V6ZFFSL/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07V6ZFFSL/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07V6ZFFSL/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
