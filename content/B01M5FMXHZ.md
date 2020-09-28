@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pack Xbox One S 1 To al 30.00 % de descuento'
-date: 2020-09-26 14:22:26
+date: 2020-09-28 20:45:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jJc0h28VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jJc0h28VL._SL200_.jpg' ]
 comments: true

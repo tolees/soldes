@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CRAZYCHIC - Bague Elastique Taille Régla al 41.20 % de descuento'
-date: 2020-09-27 14:51:58
+date: 2020-09-28 20:22:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-bxKPCACL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-bxKPCACL._SL200_.jpg' ]
 comments: true

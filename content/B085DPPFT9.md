@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'LUCKRACER Silla Gaming Escritorio Cojín  al 27.00 % de descuento'
-date: 2020-09-27 19:52:23
-thumbnailImage: 'https://m.media-amazon.com/images/I/41L30rJeWjL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41L30rJeWjL._SL200_.jpg' ]
+date: 2020-09-28 20:32:35
+thumbnailImage: 'https://m.media-amazon.com/images/I/41uNsNaTpOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41uNsNaTpOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [LUCKRACER Silla Gaming Escritorio Cojín Lumbar para Masaje con Reposapiés Oficina Cojín Lumbar para Masaje Giratoria Reposabrazos de Carreras Respaldo Alto de Cuero PU Negro](https://www.amazon.com/dp/B085DPPFT9/?tag=redken08-20) a 145.99 EUR (original: 199.99 EUR) (27.00 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41L30rJeWjL._SL200_.jpg)](https://www.amazon.com/dp/B085DPPFT9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41uNsNaTpOL._SL200_.jpg)](https://www.amazon.com/dp/B085DPPFT9/?tag=redken08-20)
 
 [Visítala!!!](https://www.amazon.com/dp/B085DPPFT9/?tag=redken08-20)
 
