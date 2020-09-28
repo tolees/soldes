@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funda con Teclado Samsung Galaxy Tab S4  al 25.01 % de descuento'
-date: 2020-09-19 15:04:44
+date: 2020-09-28 08:42:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/516TUIpgMxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516TUIpgMxL._SL200_.jpg' ]
 comments: true

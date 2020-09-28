@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 28.95 % en Mi Note 10 Lite 6+128GB Midnight Black'
-date: 2020-09-22 07:08:09
-thumbnailImage: 'https://m.media-amazon.com/images/I/41nB2tPufSL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41nB2tPufSL._SL200_.jpg' ]
+title: 'Descuento del 26.07 % en Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.'
+date: 2020-09-28 09:41:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/41zeTjNtgTL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41zeTjNtgTL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B087MRJRL7
 description:
-actualPrice: 283.47 EUR
+actualPrice: 295.0 EUR
 comparePrice: 399.0 EUR
 inStock: true
 ---
 
-Tienes [Mi Note 10 Lite 6+128GB Midnight Black](https://www.amazon.com/dp/B087MRJRL7/?tag=redken08-20) con un 28.95 % de descuento con precio de oferta de 283.47 EUR (original: 399.0 EUR) en el siguiente enlace!
+Tienes [Xiaomi Mi Note 10 Lite  Pantalla FHD+ 6.47"  6GB + 128GB  Cámara 64MP  Snapdragon 730G  Dual 4G  5260mAh con carga rápida 30W  Android 10  Negro  Versión Española](https://www.amazon.com/dp/B087MRJRL7/?tag=redken08-20) con un 26.07 % de descuento con precio de oferta de 295.0 EUR (original: 399.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41nB2tPufSL._SL200_.jpg)](https://www.amazon.com/dp/B087MRJRL7/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41zeTjNtgTL._SL200_.jpg)](https://www.amazon.com/dp/B087MRJRL7/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B087MRJRL7/?tag=redken08-20)
 

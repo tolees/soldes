@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Sid Meier s Civilization VI - PlayStatio'
-date: 2020-04-16 17:12:37
+date: 2020-09-28 09:58:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kB-KzR6ML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kB-KzR6ML._SL200_.jpg' ]
 comments: true

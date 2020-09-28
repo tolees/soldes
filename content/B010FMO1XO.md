@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.17 % en Russell Hobbs Food Collection Hand Blend'
-date: 2020-09-27 08:01:28
+date: 2020-09-28 08:07:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fveTigqUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fveTigqUL._SL200_.jpg' ]
 comments: true

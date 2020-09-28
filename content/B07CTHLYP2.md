@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JACK & JONES Jfwstoke Nubuck Boot Mono N al 50.01 % de descuento'
-date: 2020-09-26 19:43:35
+date: 2020-09-28 08:28:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pizYh-FyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pizYh-FyL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Western Digital 500GB WD Blue 3D NAND In al 40.00 % de descuento'
-date: 2020-09-23 07:13:56
+title: 'Descuento del 58.05 % en Western Digital WDS500G2B0B WD Blue 3D N'
+date: 2020-09-28 08:03:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B073SBX6TY
 description:
-actualPrice: 59.99 USD
-comparePrice: 99.99 USD
+actualPrice: 51.48 GBP
+comparePrice: 122.73 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Western Digital 500GB WD Blue 3D NAND Internal PC SSD - SATA III 6 Gb/s  M.2 2280  Up to 560 MB/s - WDS500G2B0B](https://www.amazon.com/dp/B073SBX6TY/?tag=redken08-20) a 59.99 USD (original: 99.99 USD) (40.00 %  de descuento) en el siguiente enlace!
+Tienes [Western Digital WDS500G2B0B WD Blue 3D NAND Internal SSD M.2 SATA  500 GB - Black](https://www.amazon.com/dp/B073SBX6TY/?tag=redken08-20) con un 58.05 % de descuento con precio de oferta de 51.48 GBP (original: 122.73 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31rjnHD-cEL._SL200_.jpg)](https://www.amazon.com/dp/B073SBX6TY/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B073SBX6TY/?tag=redken08-20)
+[Accede a la oferta!!](https://www.amazon.com/dp/B073SBX6TY/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
