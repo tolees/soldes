@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.68 % en eXtremeRate Carcasa para JoyCons de Nint'
-date: 2020-09-26 13:33:53
+date: 2020-09-28 07:28:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/416xjfQ7K9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416xjfQ7K9L._SL200_.jpg' ]
 comments: true

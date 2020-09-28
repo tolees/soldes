@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.95 % en UMIPUBO Blusas y Camisa Mujer Vaquera Se'
-date: 2020-09-27 07:18:34
+date: 2020-09-28 07:25:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s+3ajhEtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s+3ajhEtL._SL200_.jpg' ]
 comments: true
