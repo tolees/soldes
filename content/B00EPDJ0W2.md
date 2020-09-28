@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oral-B Pro 600 3D White - Cepillo de Die al 50.56 % de descuento'
-date: 2020-09-26 09:07:45
+date: 2020-09-28 11:24:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Eqtql-BsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Eqtql-BsL._SL200_.jpg' ]
 comments: true

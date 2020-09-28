@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tenda Nova Mw3 Mesh - AC1200 Router Sist al 30.35 % de descuento'
-date: 2020-09-26 22:00:39
+date: 2020-09-28 11:33:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31--U9LJpKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31--U9LJpKL._SL200_.jpg' ]
 comments: true

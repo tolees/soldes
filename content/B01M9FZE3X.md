@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.24 % en LG VR8602RR Hombot Turbo Serie 9 - Robot'
-date: 2020-09-26 19:11:51
+date: 2020-09-28 11:50:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31gPpr-xRqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31gPpr-xRqL._SL200_.jpg' ]
 comments: true
