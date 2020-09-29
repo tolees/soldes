@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bissell 1558N Limpiador a Mano para Manc al 33.00 % de descuento'
-date: 2020-09-28 06:20:00
+date: 2020-09-29 08:07:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Wc2it1xyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Wc2it1xyL._SL200_.jpg' ]
 comments: true
