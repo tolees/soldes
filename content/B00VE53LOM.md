@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'De Longhi MultiFry Extra Chef Freidora   al 35.93 % de descuento'
-date: 2020-09-23 09:47:08
+date: 2020-09-29 14:33:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qGqnkp5uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qGqnkp5uL._SL200_.jpg' ]
 comments: true

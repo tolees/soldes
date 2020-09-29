@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calvin Klein Damen Bustier Bralette Lift al 36.90 % de descuento'
-date: 2020-09-28 08:43:17
+date: 2020-09-29 14:24:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zK-KD2s0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zK-KD2s0L._SL200_.jpg' ]
 comments: true

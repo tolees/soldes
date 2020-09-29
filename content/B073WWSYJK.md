@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.34 % en Crosstour WiFi Cámara Deportiva Acción 1'
-date: 2020-09-22 17:31:47
+date: 2020-09-29 14:53:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/511pacrOWwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511pacrOWwL._SL200_.jpg' ]
 comments: true
