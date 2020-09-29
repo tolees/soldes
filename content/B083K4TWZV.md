@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '144 Stunden In-Ear Bluetooth Kopfhörer   al 38.34 % de descuento'
-date: 2020-09-27 11:18:08
+date: 2020-09-28 23:17:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/414adjeUQEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414adjeUQEL._SL200_.jpg' ]
 comments: true
