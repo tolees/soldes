@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo Switch w/ Red & Blue Joy-Con +  al 27.50 % de descuento'
-date: 2020-09-27 20:31:13
+date: 2020-09-29 02:03:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nZ+p78pPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nZ+p78pPL._SL200_.jpg' ]
 comments: true

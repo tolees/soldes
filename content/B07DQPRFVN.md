@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Collier Swarovski Iconic Swan  cristal b al 40.00 % de descuento'
-date: 2020-09-27 02:06:07
+date: 2020-09-29 02:44:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/313mCfLYAzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313mCfLYAzL._SL200_.jpg' ]
 comments: true

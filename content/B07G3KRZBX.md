@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial BX500 240GB CT240BX500SSD1 Z -bi al 32.09 % de descuento'
-date: 2020-09-28 02:23:00
+date: 2020-09-29 02:37:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eXT6YT+jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eXT6YT+jL._SL200_.jpg' ]
 comments: true

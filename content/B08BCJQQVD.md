@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Ambilight 43PUS8505/12 43-Zoll L al 30.21 % de descuento'
-date: 2020-09-28 02:25:14
+date: 2020-09-29 02:33:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TIDVaBkxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TIDVaBkxL._SL200_.jpg' ]
 comments: true
