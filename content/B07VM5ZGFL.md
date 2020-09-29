@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cecotec Aspirador motor digital Congal R al 47.21 % de descuento'
-date: 2020-09-27 22:13:34
+date: 2020-09-29 06:49:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WoB9asqnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WoB9asqnL._SL200_.jpg' ]
 comments: true
