@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 49.99 % en Columbia Herren Woodburn II Waterproof W'
-date: 2020-02-19 05:04:38
-thumbnailImage: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL200_.jpg' ]
+title: 'Descuento del 36.00 % en Columbia Peakfreak Nomad Zapatos imperme'
+date: 2020-09-29 19:26:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B00KWFH0AG
 description:
-actualPrice: 50.0 EUR
+actualPrice: 63.99 EUR
 comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Tienes [Columbia Herren Woodburn II Waterproof Wasserdichte Schuhe  Schwarz  black  caramel   42.5 EU](https://www.amazon.com/dp/B00KWFH0AG/?tag=redken08-20) con un 49.99 % de descuento con precio de oferta de 50.0 EUR (original: 99.99 EUR) en el siguiente enlace!
+Tienes [Columbia Peakfreak Nomad Zapatos impermeables para hombre   Gris Graphite  Acid Green   42.5 EU](https://www.amazon.com/dp/B00KWFH0AG/?tag=redken08-20) con un 36.00 % de descuento con precio de oferta de 63.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41iFsf8lSZL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B00KWFH0AG/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg)](https://www.amazon.com/dp/B00KWFH0AG/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B00KWFH0AG/?tag=redken08-20)
 

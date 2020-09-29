@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 31.11 % en Capitana Marvel [Blu-ray]'
-date: 2020-09-28 19:20:47
+date: 2020-09-29 19:49:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gweh4cE8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gweh4cE8L._SL200_.jpg' ]
 comments: true
