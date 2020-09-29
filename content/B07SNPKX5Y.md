@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.77 % en Presentamos el Echo Show 8: mantén el co'
-date: 2020-09-25 09:01:22
+date: 2020-09-29 16:46:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wKh06IJIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wKh06IJIL._SL200_.jpg' ]
 comments: true
