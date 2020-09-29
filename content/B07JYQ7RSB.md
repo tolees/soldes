@@ -14,10 +14,10 @@ comparePrice: 17.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [KOALA Double Sided Matte Inkjet Photo Paper A4  180gsm  100 Sheets  210x297mm](https://www.amazon.com/dp/B07JYQ7RSB/?tag=redken08-20) a 10.99 GBP (original: 17.0 GBP) (35.35 %  de descuento) en el siguiente enlace!
+Está [KOALA Double Sided Matte Inkjet Photo Paper A4  180gsm  100 Sheets  210x297mm](https://www.amazon.com/dp/B07JYQ7RSB/?tag=redken08-20) con 35.35 de descuento por 10.99 GBP (original: 17.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51G9mryHgfL._SL200_.jpg)](https://www.amazon.com/dp/B07JYQ7RSB/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07JYQ7RSB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07JYQ7RSB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

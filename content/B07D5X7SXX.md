@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 53.05 % en Brewista BA6VKETLS Artisan Gooseneck Var'
-date: 2020-09-28 02:47:40
+date: 2020-09-29 05:44:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DgR+q+z6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DgR+q+z6L._SL200_.jpg' ]
 comments: true

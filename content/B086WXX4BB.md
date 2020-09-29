@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 65.01 % en ENACFIRE Wireless Headphones  E60 Wirele'
-date: 2020-09-27 23:13:42
+date: 2020-09-29 05:20:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41M-OcJhc+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41M-OcJhc+L._SL200_.jpg' ]
 comments: true
