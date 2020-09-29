@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clatronic MA 3585 Cortafiambres  150 W   al 30.61 % de descuento'
-date: 2020-09-28 07:30:30
+date: 2020-09-29 13:36:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xSp5otR-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xSp5otR-L._SL200_.jpg' ]
 comments: true

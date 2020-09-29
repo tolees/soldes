@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 46.15 % en Remington Keratin Protect Straight CB748'
-date: 2020-09-27 18:37:45
+date: 2020-09-29 13:00:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Yik9XE4NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Yik9XE4NL._SL200_.jpg' ]
 comments: true
