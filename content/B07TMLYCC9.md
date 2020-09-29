@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s HR Decon Iconic BF Skirt Falda  A al 63.09 % de descuento'
-date: 2020-09-28 14:59:50
+date: 2020-09-29 15:04:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/411mrNQQC9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411mrNQQC9L._SL200_.jpg' ]
 comments: true

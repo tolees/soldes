@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Columbia Powder Lite Hooded Chaqueta De  al 50.39 % de descuento'
-date: 2020-09-16 16:53:09
+title: 'Columbia Powder Lite Chaqueta para Hombr al 50.39 % de descuento'
+date: 2020-09-29 15:04:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/410B3jeMIQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410B3jeMIQL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 129.99 EUR
 inStock: true
 ---
 
-Está [Columbia Powder Lite Hooded Chaqueta De Plumón con Capucha  Hombre  Gris  Nimbus Grey  City Grey   XL](https://www.amazon.com/dp/B087VHDFNR/?tag=redken08-20) con 50.39 de descuento por 64.49 EUR (original: 129.99 EUR) en el siguiente enlace!
+Está [Columbia Powder Lite Chaqueta para Hombre  Gris  Nimbus Grey  City Grey   XL](https://www.amazon.com/dp/B087VHDFNR/?tag=redken08-20) con 50.39 de descuento por 64.49 EUR (original: 129.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/410B3jeMIQL._SL200_.jpg)](https://www.amazon.com/dp/B087VHDFNR/?tag=redken08-20)
 

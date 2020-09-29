@@ -14,10 +14,10 @@ comparePrice: 12.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Maybelline New York Master Camo  Kit Corrector Imperfecciones  Tono 01 Light](https://www.amazon.com/dp/B01N9HX4KW/?tag=redken08-20) a 2.68 EUR (original: 12.99 EUR) (79.37 %  de descuento) en el siguiente enlace!
+Está [Maybelline New York Master Camo  Kit Corrector Imperfecciones  Tono 01 Light](https://www.amazon.com/dp/B01N9HX4KW/?tag=redken08-20) con 79.37 de descuento por 2.68 EUR (original: 12.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41945-MJBoL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01N9HX4KW/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01N9HX4KW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01N9HX4KW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

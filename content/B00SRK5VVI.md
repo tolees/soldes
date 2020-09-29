@@ -14,10 +14,10 @@ comparePrice: 6.5 EUR
 inStock: true
 ---
 
-Está [Rimmel London Scandaleyes XXtreme Máscara de Pestañas Tono Negro Extremo - 26 gr](https://www.amazon.com/dp/B00SRK5VVI/?tag=redken08-20) con 42.92 de descuento por 3.71 EUR (original: 6.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rimmel London Scandaleyes XXtreme Máscara de Pestañas Tono Negro Extremo - 26 gr](https://www.amazon.com/dp/B00SRK5VVI/?tag=redken08-20) a 3.71 EUR (original: 6.5 EUR) (42.92 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31xV3C1PE+L._SL200_.jpg)](https://www.amazon.com/dp/B00SRK5VVI/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B00SRK5VVI/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B00SRK5VVI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
