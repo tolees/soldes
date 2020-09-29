@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 'Descuento del 30.24 % en PLAYMOBIL Ghostbusters 9220 Ecto-1 mit L'
-date: 2020-03-21 21:13:34
-thumbnailImage: 'https://m.media-amazon.com/images/I/61YQ1xNEfrL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/61YQ1xNEfrL._SL200_.jpg' ]
+title: 'PLAYMOBIL Ghostbusters Ecto-1 al 31.18 % de descuento'
+date: 2020-09-29 20:38:49
+thumbnailImage: 'https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B01LYRIWZ0
 description:
-actualPrice: 38.36 EUR
-comparePrice: 54.99 EUR
+actualPrice: 30.96 USD
+comparePrice: 44.99 USD
 inStock: true
 ---
 
-Tienes [PLAYMOBIL Ghostbusters 9220 Ecto-1 mit Licht- und Soundeffekten  Ab 6 Jahren](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20) con un 30.24 % de descuento con precio de oferta de 38.36 EUR (original: 54.99 EUR) en el siguiente enlace!
+Está [PLAYMOBIL Ghostbusters Ecto-1](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20) con 31.18 de descuento por 30.96 USD (original: 44.99 USD) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61YQ1xNEfrL._SL200_.jpg)](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/617-1iOSI9L._SL200_.jpg)](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01LYRIWZ0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

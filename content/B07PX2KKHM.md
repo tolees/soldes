@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TEAMGROUP GX2 1TB 2.5 Inch SATA III Inte al 31.82 % de descuento'
-date: 2020-09-23 13:25:22
+date: 2020-09-29 20:59:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GjRditvHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GjRditvHL._SL200_.jpg' ]
 comments: true
