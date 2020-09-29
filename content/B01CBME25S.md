@@ -14,10 +14,10 @@ comparePrice: 9.7 GBP
 inStock: true
 ---
 
-Está [DC Comics Funko Pop Movies: Suicide Squad Action Figure  Killer Croc](https://www.amazon.com/dp/B01CBME25S/?tag=redken08-20) con 38.76 de descuento por 5.94 GBP (original: 9.7 GBP) en el siguiente enlace!
+Ahora mismo tienes [DC Comics Funko Pop Movies: Suicide Squad Action Figure  Killer Croc](https://www.amazon.com/dp/B01CBME25S/?tag=redken08-20) a 5.94 GBP (original: 9.7 GBP) (38.76 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41DLuyxC8iL._SL200_.jpg)](https://www.amazon.com/dp/B01CBME25S/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01CBME25S/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01CBME25S/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
