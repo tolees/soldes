@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Klamath Range II Half Zip Fleec al 33.34 % de descuento'
-date: 2020-09-24 09:17:24
+date: 2020-09-29 11:04:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zmiqZcKeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zmiqZcKeL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Beats by Dr. Dre EP - Auriculares abiert al 47.97 % de descuento'
-date: 2020-09-26 17:30:40
+date: 2020-09-29 11:35:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pHKcc209L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pHKcc209L._SL200_.jpg' ]
 comments: true

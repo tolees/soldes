@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BIC Color Up lápices de colores surtidos al 38.84 % de descuento'
-date: 2020-09-22 21:17:38
+date: 2020-09-29 11:15:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pCLAIqN5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pCLAIqN5L._SL200_.jpg' ]
 comments: true

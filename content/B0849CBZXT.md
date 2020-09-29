@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Terminator Destino Oscuro [DVD] al 37.52 % de descuento'
-date: 2020-09-28 11:18:49
+date: 2020-09-29 11:31:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/519Qc8-TnEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519Qc8-TnEL._SL200_.jpg' ]
 comments: true
