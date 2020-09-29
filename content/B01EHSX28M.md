@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en TaoTronics Bluetooth 5.0 Transmitter and'
-date: 2020-09-27 17:13:46
+date: 2020-09-29 17:25:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LI8DT6wxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LI8DT6wxL._SL200_.jpg' ]
 comments: true

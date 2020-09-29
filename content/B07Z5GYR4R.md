@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Salomon Speedcross 4 W  Zapatillas de Tr al 35.36 % de descuento'
-date: 2020-09-28 08:00:56
+date: 2020-09-29 17:09:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EYqn0KAfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EYqn0KAfL._SL200_.jpg' ]
 comments: true
