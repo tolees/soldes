@@ -14,10 +14,10 @@ comparePrice: 217.98 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [GODNECE Excavator Model Kit  2.4G 4CH Remote Control Excavator Building Block Model Kit DIY Construction Model Building Blocks Technic Compatible with Lego 1830+Pcs ](https://www.amazon.com/dp/B085DQ6KHS/?tag=redken08-20) a 108.99 GBP (original: 217.98 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [GODNECE Excavator Model Kit  2.4G 4CH Remote Control Excavator Building Block Model Kit DIY Construction Model Building Blocks Technic Compatible with Lego 1830+Pcs ](https://www.amazon.com/dp/B085DQ6KHS/?tag=redken08-20) con 50.00 de descuento por 108.99 GBP (original: 217.98 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41j3tkbyVML._SL200_.jpg)](https://www.amazon.com/dp/B085DQ6KHS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B085DQ6KHS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B085DQ6KHS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
