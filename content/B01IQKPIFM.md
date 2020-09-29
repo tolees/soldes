@@ -14,10 +14,10 @@ comparePrice: 8.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Revlon Ultra HD Pintalabios Matte  #675 Infatuation ](https://www.amazon.com/dp/B01IQKPIFM/?tag=redken08-20) a 4.36 EUR (original: 8.95 EUR) (51.28 %  de descuento) en el siguiente enlace!
+Está [Revlon Ultra HD Pintalabios Matte  #675 Infatuation ](https://www.amazon.com/dp/B01IQKPIFM/?tag=redken08-20) con 51.28 de descuento por 4.36 EUR (original: 8.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/21hioytA+NL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B01IQKPIFM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01IQKPIFM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01IQKPIFM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
