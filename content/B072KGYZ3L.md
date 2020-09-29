@@ -14,10 +14,10 @@ comparePrice: 57.57 EUR
 inStock: true
 ---
 
-Está [Lego Marvel Super Heroes 2 - Nintendo Switch [Importación francesa]](https://www.amazon.com/dp/B072KGYZ3L/?tag=redken08-20) con 25.10 de descuento por 43.12 EUR (original: 57.57 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego Marvel Super Heroes 2 - Nintendo Switch [Importación francesa]](https://www.amazon.com/dp/B072KGYZ3L/?tag=redken08-20) a 43.12 EUR (original: 57.57 EUR) (25.10 %  de descuento) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/512O-Nch%2B5L._SL200_.jpg)](https://www.amazon.com/dp/B072KGYZ3L/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B072KGYZ3L/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B072KGYZ3L/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
