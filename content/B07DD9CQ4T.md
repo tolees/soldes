@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.08 % en Monopoly- Tramposo  Versión Española   H'
-date: 2020-09-16 12:08:38
+date: 2020-09-29 10:05:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pDZ8vhO8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pDZ8vhO8L._SL200_.jpg' ]
 comments: true
