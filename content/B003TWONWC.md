@@ -14,10 +14,10 @@ comparePrice: 28.31 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Bosch Professional 2 607 019 927 Bosch 927-Juego de 5 Brocas para martillos perforadores Robust Line SDS-plus-5-Ø 5 6 x 115mm  6 8 10 x 165mm  Pack de 5   Set de 5 Piezas](https://www.amazon.com/dp/B003TWONWC/?tag=redken08-20) a 11.76 EUR (original: 28.31 EUR) (58.46 %  de descuento) en el siguiente enlace!
+Está [Bosch Professional 2 607 019 927 Bosch 927-Juego de 5 Brocas para martillos perforadores Robust Line SDS-plus-5-Ø 5 6 x 115mm  6 8 10 x 165mm  Pack de 5   Set de 5 Piezas](https://www.amazon.com/dp/B003TWONWC/?tag=redken08-20) con 58.46 de descuento por 11.76 EUR (original: 28.31 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41PesUJYM2L._AC_._SL200_.jpg)](https://www.amazon.com/dp/B003TWONWC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B003TWONWC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B003TWONWC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
