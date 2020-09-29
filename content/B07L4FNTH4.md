@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 30.36 % en LEGO 60227 City Lunar Space Station  Spa'
-date: 2020-04-15 14:57:00
+title: 'LEGO City 60227 Mond Raumstation Astrona al 27.87 % de descuento'
+date: 2020-09-29 12:11:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/51brJzGqexL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51brJzGqexL._SL200_.jpg' ]
 comments: true
@@ -9,15 +9,15 @@ category: ofertas
 author: ring
 slug: B07L4FNTH4
 description:
-actualPrice: 31.33 GBP
-comparePrice: 44.99 GBP
+actualPrice: 35.15 EUR
+comparePrice: 48.73 EUR
 inStock: true
 ---
 
-Tienes [LEGO 60227 City Lunar Space Station  Spaceship Adventures Toys for Kids inspired by NASA  Mars Expedition Series](https://www.amazon.com/dp/B07L4FNTH4/?tag=redken08-20) con un 30.36 % de descuento con precio de oferta de 31.33 GBP (original: 44.99 GBP) en el siguiente enlace!
+Está [LEGO City 60227 Mond Raumstation Astronauten-Minifiguren](https://www.amazon.com/dp/B07L4FNTH4/?tag=redken08-20) con 27.87 de descuento por 35.15 EUR (original: 48.73 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51brJzGqexL._SL200_.jpg)](https://www.amazon.com/dp/B07L4FNTH4/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B07L4FNTH4/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07L4FNTH4/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

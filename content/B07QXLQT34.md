@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Klipsch T5 True Wireless Earphones - Tru al 62.32 % de descuento'
-date: 2020-09-27 21:21:06
+date: 2020-09-29 12:18:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31o7PCLr3PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31o7PCLr3PL._SL200_.jpg' ]
 comments: true

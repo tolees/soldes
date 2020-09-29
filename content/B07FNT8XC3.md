@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 27.99 % en LEGO 21152 Minecraft The Pirate Ship Adv'
-date: 2020-09-23 20:58:04
+title: 'Descuento del 25.86 % en LEGO Minecraft™ 21152 Das Piratenschiff-'
+date: 2020-09-29 12:11:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07FNT8XC3
 description:
-actualPrice: 36.0 GBP
-comparePrice: 49.99 GBP
+actualPrice: 36.13 EUR
+comparePrice: 48.73 EUR
 inStock: true
 ---
 
-Tienes [LEGO 21152 Minecraft The Pirate Ship Adventure Building Kit  Colourful](https://www.amazon.com/dp/B07FNT8XC3/?tag=redken08-20) con un 27.99 % de descuento con precio de oferta de 36.0 GBP (original: 49.99 GBP) en el siguiente enlace!
+Tienes [LEGO Minecraft™ 21152 Das Piratenschiff-Abenteuer](https://www.amazon.com/dp/B07FNT8XC3/?tag=redken08-20) con un 25.86 % de descuento con precio de oferta de 36.13 EUR (original: 48.73 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg)](https://www.amazon.com/dp/B07FNT8XC3/?tag=redken08-20)
 

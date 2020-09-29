@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.05 % en Memoria flash USB SanDisk Ultra Dual m3.'
-date: 2020-09-28 08:30:27
+date: 2020-09-29 12:55:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DQ5zsGoYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DQ5zsGoYL._SL200_.jpg' ]
 comments: true

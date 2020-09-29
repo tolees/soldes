@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.15 % en Under Armour Boys  Tech Big Logo Solid T'
-date: 2020-09-18 06:02:23
+date: 2020-09-29 12:17:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41T+HsyTVGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41T+HsyTVGL._SL200_.jpg' ]
 comments: true
