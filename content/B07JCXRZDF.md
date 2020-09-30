@@ -14,10 +14,10 @@ comparePrice: 3.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Swiftswan 2 Pack 2000mAh Rechargeable Replacement Battery with Rechargeble Cable for PlayStation 4 PS4 Controller](https://www.amazon.com/dp/B07JCXRZDF/?tag=redken08-20) a 2.59 GBP (original: 3.99 GBP) (35.09 %  de descuento) en el siguiente enlace!
+Está [Swiftswan 2 Pack 2000mAh Rechargeable Replacement Battery with Rechargeble Cable for PlayStation 4 PS4 Controller](https://www.amazon.com/dp/B07JCXRZDF/?tag=redken08-20) con 35.09 de descuento por 2.59 GBP (original: 3.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4156o0tPQtL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B07JCXRZDF/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07JCXRZDF/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07JCXRZDF/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

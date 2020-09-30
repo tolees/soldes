@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Revlon ColorStay Base de Maquillaje piel al 62.16 % de descuento'
-date: 2020-09-29 01:05:04
+date: 2020-09-30 01:30:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Fa2LvzkXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Fa2LvzkXL._SL200_.jpg' ]
 comments: true

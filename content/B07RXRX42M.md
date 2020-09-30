@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'oodji Ultra Mujer Blusa de Punto Ajustad al 35.92 % de descuento'
-date: 2020-09-26 13:32:37
+date: 2020-09-30 01:53:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41l9XxRkX7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41l9XxRkX7L._SL200_.jpg' ]
 comments: true
