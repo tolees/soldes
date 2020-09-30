@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Cecotec Aspirador motor digital Congal R al 47.21 % de descuento'
-date: 2020-09-29 06:49:28
+title: 'Cecotec Aspirador motor digital Congal R al 37.17 % de descuento'
+date: 2020-09-30 14:26:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WoB9asqnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WoB9asqnL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07VM5ZGFL
 description:
-actualPrice: 142.0 EUR
+actualPrice: 169.0 EUR
 comparePrice: 269.0 EUR
 inStock: true
 ---
 
-Está [Cecotec Aspirador motor digital Congal RockStar 500 Ultimate  Aspirador sin cables 3 en 1: vertical  escoba y de mano  con motor digital brushless  430W de potencia y 24 KPA  Hasta 65 min de Autonomía](https://www.amazon.com/dp/B07VM5ZGFL/?tag=redken08-20) con 47.21 de descuento por 142.0 EUR (original: 269.0 EUR) en el siguiente enlace!
+Está [Cecotec Aspirador motor digital Congal RockStar 500 Ultimate  Aspirador sin cables 3 en 1: vertical  escoba y de mano  con motor digital brushless  430W de potencia y 24 KPA  Hasta 65 min de Autonomía](https://www.amazon.com/dp/B07VM5ZGFL/?tag=redken08-20) con 37.17 de descuento por 169.0 EUR (original: 269.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31WoB9asqnL._SL200_.jpg)](https://www.amazon.com/dp/B07VM5ZGFL/?tag=redken08-20)
 

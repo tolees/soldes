@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony RX100 III Premium Kompakt Digitalka al 43.46 % de descuento'
-date: 2020-09-29 14:10:32
+date: 2020-09-30 14:33:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Pe6QZjZNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Pe6QZjZNL._SL200_.jpg' ]
 comments: true
