@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL-85F18 Porträt Objektiv  Festbre al 25.23 % de descuento'
-date: 2020-09-29 14:22:09
+date: 2020-09-30 20:37:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JWFst-i8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JWFst-i8L._SL200_.jpg' ]
 comments: true
