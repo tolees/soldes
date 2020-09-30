@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40Mins Flight Time Drone  JJRC H68 RC Dr al 38.46 % de descuento'
-date: 2020-09-29 01:57:40
+date: 2020-09-30 02:33:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qT2Vm6LiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qT2Vm6LiL._SL200_.jpg' ]
 comments: true

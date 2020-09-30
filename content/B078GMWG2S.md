@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.24 % en PEDIGREE Choice Cuts in Gravy Adult Soft'
-date: 2020-09-29 02:12:10
+date: 2020-09-30 02:34:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51INOcrR+dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51INOcrR+dL._SL200_.jpg' ]
 comments: true

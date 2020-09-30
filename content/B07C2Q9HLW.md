@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.41 % en Calico Critters Comfy Living Room Set'
-date: 2020-09-29 02:05:55
+date: 2020-09-30 02:38:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/415BlwRnhYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415BlwRnhYL._SL200_.jpg' ]
 comments: true
