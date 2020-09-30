@@ -14,10 +14,10 @@ comparePrice: 11.43 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO Lights IQLGL-KE95 Star Wars Episode VII Poe Dameron Key Light](https://www.amazon.com/dp/B01EL6HM3Q/?tag=redken08-20) a 8.05 GBP (original: 11.43 GBP) (29.57 %  de descuento) en el siguiente enlace!
+Está [LEGO Lights IQLGL-KE95 Star Wars Episode VII Poe Dameron Key Light](https://www.amazon.com/dp/B01EL6HM3Q/?tag=redken08-20) con 29.57 de descuento por 8.05 GBP (original: 11.43 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41bPkJY-wXL._SL200_.jpg)](https://www.amazon.com/dp/B01EL6HM3Q/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01EL6HM3Q/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01EL6HM3Q/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

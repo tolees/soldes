@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bosch Professional Herramientas para ato al 31.52 % de descuento'
-date: 2020-09-26 16:56:14
+date: 2020-09-30 11:47:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51yXkjWkcEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51yXkjWkcEL._SL200_.jpg' ]
 comments: true
