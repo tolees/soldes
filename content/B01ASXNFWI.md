@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.19 % en Progressive International Prepworks by P'
-date: 2020-09-29 08:42:48
+date: 2020-09-30 22:20:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Mh3EfGfeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Mh3EfGfeL._SL200_.jpg' ]
 comments: true
