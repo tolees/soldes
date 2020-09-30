@@ -14,10 +14,10 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Planescape: Torment + Icewind Dale - Enhanced Edition](https://www.amazon.com/dp/B07SMSM3QB/?tag=redken08-20) a 36.36 EUR (original: 49.99 EUR) (27.27 %  de descuento) en el siguiente enlace!
+Está [Planescape: Torment + Icewind Dale - Enhanced Edition](https://www.amazon.com/dp/B07SMSM3QB/?tag=redken08-20) con 27.27 de descuento por 36.36 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/51z8q6u9wqL._SL200_.jpg)](https://www.amazon.com/dp/B07SMSM3QB/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07SMSM3QB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07SMSM3QB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
