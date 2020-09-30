@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi Mi Note 10 Smartphone  16 43cm  6 al 30.01 % de descuento'
-date: 2020-09-29 02:29:57
+date: 2020-09-30 03:06:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VgCVL6yfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VgCVL6yfL._SL200_.jpg' ]
 comments: true
