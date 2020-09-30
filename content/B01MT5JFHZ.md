@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 49.02 % en Sony MDR-XB550AP  Auriculares de Diadema'
-date: 2020-09-29 11:43:59
+date: 2020-09-30 12:06:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vYFuDShNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vYFuDShNL._SL200_.jpg' ]
 comments: true

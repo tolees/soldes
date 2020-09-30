@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Somat Oro Gel Lavavajillas Antigrasa - 1 al 40.47 % de descuento'
-date: 2020-09-29 10:23:39
+date: 2020-09-30 12:07:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51o0uyX18hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51o0uyX18hL._SL200_.jpg' ]
 comments: true
