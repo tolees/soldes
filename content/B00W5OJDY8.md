@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.59 % en Control Energy Preservativos - 12 Unidad'
-date: 2020-09-29 12:23:14
+date: 2020-09-30 15:07:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GWHCuPLCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GWHCuPLCL._SL200_.jpg' ]
 comments: true
