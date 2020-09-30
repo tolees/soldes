@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.62 % en Remington Keratin Protect CI83V6  Rizado'
-date: 2020-09-27 11:57:57
+date: 2020-09-29 23:05:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/515PbMcBnFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515PbMcBnFL._SL200_.jpg' ]
 comments: true

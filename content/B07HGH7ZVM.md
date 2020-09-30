@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Yellowstone: Season One al 36.99 % de descuento'
-date: 2020-09-28 17:27:09
+date: 2020-09-29 23:30:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41C7SklLo7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41C7SklLo7L._SL200_.jpg' ]
 comments: true

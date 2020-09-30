@@ -14,10 +14,10 @@ comparePrice: 116.63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ubiquiti Networks Wireless Access Point  2.4GHz/5GHz  867Mbit  122m 1x 10/100/1000  24V Passiv PoE  UAP-AC-LITE  1x 10/100/1000  24V Passiv PoE 160 x 31.45 mm Indoor ](https://www.amazon.com/dp/B016K4GQVG/?tag=redken08-20) a 83.16 EUR (original: 116.63 EUR) (28.70 %  de descuento) en el siguiente enlace!
+Está [Ubiquiti Networks Wireless Access Point  2.4GHz/5GHz  867Mbit  122m 1x 10/100/1000  24V Passiv PoE  UAP-AC-LITE  1x 10/100/1000  24V Passiv PoE 160 x 31.45 mm Indoor ](https://www.amazon.com/dp/B016K4GQVG/?tag=redken08-20) con 28.70 de descuento por 83.16 EUR (original: 116.63 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/21f+Fg5KTeL._SL200_.jpg)](https://www.amazon.com/dp/B016K4GQVG/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B016K4GQVG/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B016K4GQVG/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'NETGEAR Orbi Ultra-Performance Whole Hom al 30.02 % de descuento'
-date: 2020-09-28 05:11:13
+title: 'NETGEAR Orbi Ultra-Performance Whole Hom al 30.01 % de descuento'
+date: 2020-09-29 23:27:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/315pce-RhlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315pce-RhlL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01KVRRSNI
 description:
-actualPrice: 279.9 GBP
+actualPrice: 279.95 GBP
 comparePrice: 399.99 GBP
 inStock: true
 ---
 
-Está [NETGEAR Orbi Ultra-Performance Whole Home Mesh WiFi System  RBK50  – Router with 1 Satellite Extender  Coverage up to 4 000 sq. ft.  AC3000  Up to 3Gbps ](https://www.amazon.com/dp/B01KVRRSNI/?tag=redken08-20) con 30.02 de descuento por 279.9 GBP (original: 399.99 GBP) en el siguiente enlace!
+Está [NETGEAR Orbi Ultra-Performance Whole Home Mesh WiFi System  RBK50  – Router with 1 Satellite Extender  Coverage up to 4 000 sq. ft.  AC3000  Up to 3Gbps ](https://www.amazon.com/dp/B01KVRRSNI/?tag=redken08-20) con 30.01 de descuento por 279.95 GBP (original: 399.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/315pce-RhlL._SL200_.jpg)](https://www.amazon.com/dp/B01KVRRSNI/?tag=redken08-20)
 
