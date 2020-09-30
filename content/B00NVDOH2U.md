@@ -14,10 +14,10 @@ comparePrice: 6.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 10700 Classic Base Extra Large Building Plate 10 x 10 Inch Platform  Green](https://www.amazon.com/dp/B00NVDOH2U/?tag=redken08-20) a 4.65 GBP (original: 6.99 GBP) (33.48 %  de descuento) en el siguiente enlace!
+Está [LEGO 10700 Classic Base Extra Large Building Plate 10 x 10 Inch Platform  Green](https://www.amazon.com/dp/B00NVDOH2U/?tag=redken08-20) con 33.48 de descuento por 4.65 GBP (original: 6.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51K3ZFSYmVL._SL200_.jpg)](https://www.amazon.com/dp/B00NVDOH2U/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00NVDOH2U/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00NVDOH2U/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
