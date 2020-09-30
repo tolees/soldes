@@ -14,10 +14,10 @@ comparePrice: 114.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BLACK+DECKER MT300KA-QS Multiherramienta oscilante 300 W con 5 acoplamientos  6 Hojas de Lija y maletín  230 V](https://www.amazon.com/dp/B0097BQQOM/?tag=redken08-20) a 67.75 EUR (original: 114.95 EUR) (41.06 %  de descuento) en el siguiente enlace!
+Está [BLACK+DECKER MT300KA-QS Multiherramienta oscilante 300 W con 5 acoplamientos  6 Hojas de Lija y maletín  230 V](https://www.amazon.com/dp/B0097BQQOM/?tag=redken08-20) con 41.06 de descuento por 67.75 EUR (original: 114.95 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41yLpI+xKeL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B0097BQQOM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B0097BQQOM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B0097BQQOM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

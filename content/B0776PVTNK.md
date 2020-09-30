@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ADORIC Báscula Digital para Cocina de Ac al 42.53 % de descuento'
-date: 2020-09-29 13:34:46
+date: 2020-09-30 19:46:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/413IidsSLQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413IidsSLQL._SL200_.jpg' ]
 comments: true
