@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.71 % en Vans Classic Slip-On VEYEBWW - Zapatilla'
-date: 2020-09-24 17:40:08
+date: 2020-09-30 16:16:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IQT+ej9vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IQT+ej9vL._SL200_.jpg' ]
 comments: true
