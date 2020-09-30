@@ -14,10 +14,10 @@ comparePrice: 999.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic Silent Drive para Nikon](https://www.amazon.com/dp/B076VFYWHB/?tag=redken08-20) a 614.0 EUR (original: 999.0 EUR) (38.54 %  de descuento) en el siguiente enlace!
+Está [Objetivo Tamron 100-400mm F/4.5-6.3 Di VC y Ultrasonic Silent Drive para Nikon](https://www.amazon.com/dp/B076VFYWHB/?tag=redken08-20) con 38.54 de descuento por 614.0 EUR (original: 999.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31dfX8af6gL._AC_._SL200_.jpg)](https://www.amazon.com/dp/B076VFYWHB/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B076VFYWHB/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B076VFYWHB/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

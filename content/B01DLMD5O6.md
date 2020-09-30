@@ -14,10 +14,10 @@ comparePrice: 329.0 EUR
 inStock: true
 ---
 
-Está [Sony SEL-50F18F Standard Objektiv  Festbrennweite  50 mm  F1.8  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20) con 44.24 de descuento por 183.45 EUR (original: 329.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony SEL-50F18F Standard Objektiv  Festbrennweite  50 mm  F1.8  Vollformat  geeignet für A7  A6000  A5100  A5000 und Nex Serien  E-Mount  schwarz](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20) a 183.45 EUR (original: 329.0 EUR) (44.24 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg)](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B01DLMD5O6/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
