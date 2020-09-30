@@ -14,10 +14,10 @@ comparePrice: 29.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [Funko Pop! Rides: Game of Thrones – Glow in The Dark White Walker and Horse  Amazon Exclusive](https://www.amazon.com/dp/B07SQZNDG2/?tag=redken08-20) a 13.87 USD (original: 29.99 USD) (53.75 %  de descuento) en el siguiente enlace!
+Está [Funko Pop! Rides: Game of Thrones – Glow in The Dark White Walker and Horse  Amazon Exclusive](https://www.amazon.com/dp/B07SQZNDG2/?tag=redken08-20) con 53.75 de descuento por 13.87 USD (original: 29.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/4197-4ZeyNL._SL200_.jpg)](https://www.amazon.com/dp/B07SQZNDG2/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07SQZNDG2/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07SQZNDG2/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

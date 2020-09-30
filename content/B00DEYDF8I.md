@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TP-Link TL-WPA4220 2-Port Add-On Powerli al 36.03 % de descuento'
-date: 2020-09-28 17:19:27
+date: 2020-09-30 17:19:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/315L83crpRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315L83crpRL._SL200_.jpg' ]
 comments: true

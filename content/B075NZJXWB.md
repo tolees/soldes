@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 52.09 % en Apple - Funda de Piel  para el iPad Pro '
-date: 2020-09-29 16:44:05
+date: 2020-09-30 17:47:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/318EPNrYHcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318EPNrYHcL._SL200_.jpg' ]
 comments: true

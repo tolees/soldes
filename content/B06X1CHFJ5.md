@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 33.39 % en Tenda AC6 Router inalámbrico inteligente'
-date: 2020-09-29 17:36:16
+date: 2020-09-30 17:46:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ni2o4YDqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ni2o4YDqL._SL200_.jpg' ]
 comments: true
