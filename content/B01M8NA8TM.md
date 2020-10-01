@@ -14,10 +14,10 @@ comparePrice: 5.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Ghf Cola de Caballo  100 comprimidos 500 mg](https://www.amazon.com/dp/B01M8NA8TM/?tag=redken08-20) a 2.77 EUR (original: 5.0 EUR) (44.60 %  de descuento) en el siguiente enlace!
+Está [Ghf Cola de Caballo  100 comprimidos 500 mg](https://www.amazon.com/dp/B01M8NA8TM/?tag=redken08-20) con 44.60 de descuento por 2.77 EUR (original: 5.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dNRcZ+NXL._SL200_.jpg)](https://www.amazon.com/dp/B01M8NA8TM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01M8NA8TM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01M8NA8TM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
