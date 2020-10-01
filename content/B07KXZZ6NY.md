@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Colgate Triple Acción Extra Fresh  Pasta al 53.14 % de descuento'
-date: 2020-09-30 07:44:25
+date: 2020-10-01 13:37:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41PiyYeRjbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41PiyYeRjbL._SL200_.jpg' ]
 comments: true

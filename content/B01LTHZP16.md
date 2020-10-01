@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PLAYMOBIL City Action Helicóptero de Pol al 26.89 % de descuento'
-date: 2020-09-30 11:39:56
+title: 'Playmobil - Hélicoptère de Police avec P al 33.28 % de descuento'
+date: 2020-10-01 09:28:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51dzZ9LRnLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51dzZ9LRnLL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01LTHZP16
 description:
-actualPrice: 25.99 EUR
-comparePrice: 35.55 EUR
+actualPrice: 20.01 EUR
+comparePrice: 29.99 EUR
 inStock: true
 ---
 
-Está [PLAYMOBIL City Action Helicóptero de Policía con Luces LED  a Partir de 4 Años  6921 ](https://www.amazon.com/dp/B01LTHZP16/?tag=redken08-20) con 26.89 de descuento por 25.99 EUR (original: 35.55 EUR) en el siguiente enlace!
+Está [Playmobil - Hélicoptère de Police avec Projecteur de Recherche - 6921](https://www.amazon.com/dp/B01LTHZP16/?tag=redken08-20) con 33.28 de descuento por 20.01 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51dzZ9LRnLL._SL200_.jpg)](https://www.amazon.com/dp/B01LTHZP16/?tag=redken08-20)
 
