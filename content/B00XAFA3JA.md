@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas 6 in 1 Desodorante para Hombre -  al 34.78 % de descuento'
-date: 2020-09-28 10:56:04
+date: 2020-10-01 08:13:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/418gtJD-ThL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/418gtJD-ThL._SL200_.jpg' ]
 comments: true
