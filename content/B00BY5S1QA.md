@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Termo Young Spinner XXL Maleta al 64.38 % de descuento'
-date: 2020-09-25 15:38:25
+date: 2020-10-01 16:40:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Dz3MVoJSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Dz3MVoJSL._SL200_.jpg' ]
 comments: true

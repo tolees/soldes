@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.88 % en LEGO City 60214 Feuerwehreinsatz im Burg'
-date: 2020-09-29 14:56:55
+date: 2020-10-01 16:35:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LNPGDGcmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LNPGDGcmL._SL200_.jpg' ]
 comments: true
