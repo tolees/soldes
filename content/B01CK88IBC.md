@@ -14,10 +14,10 @@ comparePrice: 25.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Redken Curvaceous Unisex Champú 300 ml - Champues  Unisex  Champú  Todo el pelo  Pelo rizado  300 ml  Hidratante  Botella ](https://www.amazon.com/dp/B01CK88IBC/?tag=redken08-20) a 11.29 EUR (original: 25.95 EUR) (56.49 %  de descuento) en el siguiente enlace!
+Está [Redken Curvaceous Unisex Champú 300 ml - Champues  Unisex  Champú  Todo el pelo  Pelo rizado  300 ml  Hidratante  Botella ](https://www.amazon.com/dp/B01CK88IBC/?tag=redken08-20) con 56.49 de descuento por 11.29 EUR (original: 25.95 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41pBeS50qiL._SL200_.jpg)](https://www.amazon.com/dp/B01CK88IBC/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01CK88IBC/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01CK88IBC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

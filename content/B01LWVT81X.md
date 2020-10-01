@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'WD 8 TB My Book USB 3.0 Desktop Hard Dri al 44.11 % de descuento'
-date: 2020-04-22 20:20:29
+title: 'Western Digital My Book Disco Duro Exter al 38.22 % de descuento'
+date: 2020-10-01 17:00:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01LWVT81X
 description:
-actualPrice: 133.58 GBP
-comparePrice: 239.0 GBP
+actualPrice: 166.81 EUR
+comparePrice: 269.99 EUR
 inStock: true
 ---
 
-Está [WD 8 TB My Book USB 3.0 Desktop Hard Drive with Password Protection and Auto Backup Software](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20) con 44.11 de descuento por 133.58 GBP (original: 239.0 GBP) en el siguiente enlace!
+Está [Western Digital My Book Disco Duro Externo de Sobremesa de 8 TB  3.5"  USB 3.0  Negro](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20) con 38.22 de descuento por 166.81 EUR (original: 269.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31vHFVN70bL._SL200_.jpg)](https://www.amazon.com/dp/B01LWVT81X/?tag=redken08-20)
 
