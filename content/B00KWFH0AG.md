@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Columbia Peakfreak Nomad Zapatos imperme al 36.00 % de descuento'
-date: 2020-09-30 19:27:10
+date: 2020-10-01 19:38:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iFsf8lSZL._SL200_.jpg' ]
 comments: true

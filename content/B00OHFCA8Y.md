@@ -14,10 +14,10 @@ comparePrice: 12.49 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Kappa Corato Punto deportivo  Hombre  Azul Royal  L](https://www.amazon.com/dp/B00OHFCA8Y/?tag=redken08-20) a 5.99 EUR (original: 12.49 EUR) (52.04 %  de descuento) en el siguiente enlace!
+Está [Kappa Corato Punto deportivo  Hombre  Azul Royal  L](https://www.amazon.com/dp/B00OHFCA8Y/?tag=redken08-20) con 52.04 de descuento por 5.99 EUR (original: 12.49 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41w2aX8HreL._SL200_.jpg)](https://www.amazon.com/dp/B00OHFCA8Y/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B00OHFCA8Y/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B00OHFCA8Y/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

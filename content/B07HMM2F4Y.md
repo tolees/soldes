@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bolero Bebida Hidratante con Sabores Var al 45.34 % de descuento'
-date: 2020-09-29 13:50:10
+date: 2020-10-01 19:45:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/61Gsah-PZGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61Gsah-PZGL._SL200_.jpg' ]
 comments: true
