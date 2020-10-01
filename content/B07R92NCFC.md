@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Columbia Men s Marquam Peak Parka Colleg al 35.36 % de descuento'
-date: 2020-09-26 11:47:54
+title: 'Columbia Marquam Peak  Chaqueta de invie al 36.93 % de descuento'
+date: 2020-09-28 11:07:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41a-EpHDBAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41a-EpHDBAL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07R92NCFC
 description:
-actualPrice: 145.44 GBP
-comparePrice: 225.0 GBP
+actualPrice: 157.66 EUR
+comparePrice: 249.99 EUR
 inStock: true
 ---
 
-Está [Columbia Men s Marquam Peak Parka Collegiate Navy M](https://www.amazon.com/dp/B07R92NCFC/?tag=redken08-20) con 35.36 de descuento por 145.44 GBP (original: 225.0 GBP) en el siguiente enlace!
+Está [Columbia Marquam Peak  Chaqueta de invierno  Hombre   Negro  Black   Talla M](https://www.amazon.com/dp/B07R92NCFC/?tag=redken08-20) con 36.93 de descuento por 157.66 EUR (original: 249.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41a-EpHDBAL._SL200_.jpg)](https://www.amazon.com/dp/B07R92NCFC/?tag=redken08-20)
 
