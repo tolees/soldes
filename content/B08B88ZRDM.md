@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Teeggi VISUO XS816 FPV Drohne mit Kamera al 32.00 % de descuento'
-date: 2020-09-30 08:41:43
+date: 2020-10-01 15:04:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vX9chNr3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vX9chNr3L._SL200_.jpg' ]
 comments: true
