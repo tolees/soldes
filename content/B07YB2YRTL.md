@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Selvim Anillo de Luz LED  Aro de Luz Fot al 50.02 % de descuento'
-date: 2020-09-20 14:47:38
+date: 2020-10-01 03:42:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dHNByKs1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dHNByKs1L._SL200_.jpg' ]
 comments: true

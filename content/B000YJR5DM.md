@@ -14,10 +14,10 @@ comparePrice: 8.99 USD
 inStock: true
 ---
 
-Ahora mismo tienes [L Oreal Paris Excellence Creme Permanent Hair Color  8.5A Champagne Blonde  Pack of 1 100% Gray Coverage Hair Dye](https://www.amazon.com/dp/B000YJR5DM/?tag=redken08-20) a 5.27 USD (original: 8.99 USD) (41.38 %  de descuento) en el siguiente enlace!
+Está [L Oreal Paris Excellence Creme Permanent Hair Color  8.5A Champagne Blonde  Pack of 1 100% Gray Coverage Hair Dye](https://www.amazon.com/dp/B000YJR5DM/?tag=redken08-20) con 41.38 de descuento por 5.27 USD (original: 8.99 USD) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/516igYXkYlL._SL200_.jpg)](https://www.amazon.com/dp/B000YJR5DM/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B000YJR5DM/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B000YJR5DM/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
