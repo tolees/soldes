@@ -14,10 +14,10 @@ comparePrice: 39.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Crocs Kids  Crocband II.5 Gust Boot  Blue  Navy/Red   9 UK Child](https://www.amazon.com/dp/B006Z6OPQI/?tag=redken08-20) a 17.2 GBP (original: 39.99 GBP) (56.99 %  de descuento) en el siguiente enlace!
+Está [Crocs Kids  Crocband II.5 Gust Boot  Blue  Navy/Red   9 UK Child](https://www.amazon.com/dp/B006Z6OPQI/?tag=redken08-20) con 56.99 de descuento por 17.2 GBP (original: 39.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41rjtQY8vfL._SL200_.jpg)](https://www.amazon.com/dp/B006Z6OPQI/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B006Z6OPQI/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B006Z6OPQI/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
