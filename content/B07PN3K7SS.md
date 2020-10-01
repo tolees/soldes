@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dettol Wipes Biodegradable Citrus Antiba al 25.23 % de descuento'
-date: 2020-09-27 14:29:41
+date: 2020-10-01 02:33:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51VmAHZJetL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51VmAHZJetL._SL200_.jpg' ]
 comments: true

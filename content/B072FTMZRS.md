@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bloo Power Active Toilet Rim Block Fresh al 46.00 % de descuento'
-date: 2020-09-28 07:57:26
+date: 2020-10-01 02:54:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YIjX+mb4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YIjX+mb4L._SL200_.jpg' ]
 comments: true
