@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.97 % en TP-Link N300 Tl-WA850RE - Repetidor Exte'
-date: 2020-09-30 05:31:38
+date: 2020-10-01 12:01:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FMfjXMzmL._SL200_.jpg' ]
 comments: true

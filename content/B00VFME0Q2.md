@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.68 % en ALED LIGHT Tiras LED 5050 RGB 5m de Long'
-date: 2020-09-22 10:40:02
+date: 2020-10-01 12:03:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sazQ-PanL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sazQ-PanL._SL200_.jpg' ]
 comments: true
