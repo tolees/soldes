@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'Descuento del 36.48 % en Sony WH-1000XM3 kabellose Bluetooth Nois'
-date: 2020-09-24 07:22:55
-thumbnailImage: 'https://m.media-amazon.com/images/I/31OI9s3sXqL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31OI9s3sXqL._SL200_.jpg' ]
+title: 'Descuento del 29.74 % en Sony WH1000XM3 - Auricular Noise Cancell'
+date: 2020-10-01 18:03:05
+thumbnailImage: 'https://m.media-amazon.com/images/I/31NpYchkSRL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31NpYchkSRL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07GDR2PH9
 description:
-actualPrice: 240.73 EUR
-comparePrice: 379.0 EUR
+actualPrice: 267.0 EUR
+comparePrice: 380.0 EUR
 inStock: true
 ---
 
-Tienes [Sony WH-1000XM3 kabellose Bluetooth Noise Cancelling Kopfhörer  30h Akku  Touch Sensor  Headphones Connect App  Schnellladefunktion  Amazon Alexa  wireless  Silber](https://www.amazon.com/dp/B07GDR2PH9/?tag=redken08-20) con un 36.48 % de descuento con precio de oferta de 240.73 EUR (original: 379.0 EUR) en el siguiente enlace!
+Tienes [Sony WH1000XM3 - Auricular Noise Cancelling  Bluetooth  sonido adaptativo  compatible con Alexa y Google Assistant  30h de batería  óptimo para trabajar en casa  llamadas manos libres   plata](https://www.amazon.com/dp/B07GDR2PH9/?tag=redken08-20) con un 29.74 % de descuento con precio de oferta de 267.0 EUR (original: 380.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31OI9s3sXqL._SL200_.jpg)](https://www.amazon.com/dp/B07GDR2PH9/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31NpYchkSRL._SL200_.jpg)](https://www.amazon.com/dp/B07GDR2PH9/?tag=redken08-20)
 
 [Accede a la oferta!!](https://www.amazon.com/dp/B07GDR2PH9/?tag=redken08-20)
 
