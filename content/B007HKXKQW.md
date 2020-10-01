@@ -14,10 +14,10 @@ comparePrice: 2.79 GBP
 inStock: true
 ---
 
-Está [Head n Shoulders Citrus Fresh Shampoo 250ml](https://www.amazon.com/dp/B007HKXKQW/?tag=redken08-20) con 28.32 de descuento por 2.0 GBP (original: 2.79 GBP) en el siguiente enlace!
+Ahora mismo tienes [Head n Shoulders Citrus Fresh Shampoo 250ml](https://www.amazon.com/dp/B007HKXKQW/?tag=redken08-20) a 2.0 GBP (original: 2.79 GBP) (28.32 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41i+QMyzntL._SL200_.jpg)](https://www.amazon.com/dp/B007HKXKQW/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B007HKXKQW/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B007HKXKQW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
