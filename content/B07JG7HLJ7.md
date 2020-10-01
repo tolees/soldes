@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Carina L  Sneakers Basses Femme  Bl al 33.36 % de descuento'
-date: 2020-09-30 08:54:49
+date: 2020-10-01 09:10:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/417fqWNcEfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417fqWNcEfL._SL200_.jpg' ]
 comments: true

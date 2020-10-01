@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 60255 Stunt-Team City Team Spielset al 29.36 % de descuento'
-date: 2020-09-29 12:14:52
+date: 2020-10-01 09:25:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uXONfljnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uXONfljnL._SL200_.jpg' ]
 comments: true

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Stretch Slim Vneck T al 50.08 % de descuento'
-date: 2020-09-30 03:26:41
-thumbnailImage: 'https://m.media-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg' ]
+date: 2020-10-01 09:33:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Está [Tommy Hilfiger Core Stretch Slim Vneck Tee T-Shirt  Noir  Flag Black 083   Medium Homme](https://www.amazon.com/dp/B076TQQP3G/?tag=redken08-20) con 50.08 de descuento por 19.92 EUR (original: 39.9 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41yNMLlW0QL._SL200_.jpg)](https://www.amazon.com/dp/B076TQQP3G/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/31yAywjUdOL._SL200_.jpg)](https://www.amazon.com/dp/B076TQQP3G/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B076TQQP3G/?tag=redken08-20)
 

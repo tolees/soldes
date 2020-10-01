@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-XB900N Casque Bluetooth à réduct al 40.40 % de descuento'
-date: 2020-09-30 03:29:20
+date: 2020-10-01 09:39:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg' ]
 comments: true

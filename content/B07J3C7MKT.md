@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Under Armour UA Scrimmage 2.0 Backpack   al 58.03 % de descuento'
-date: 2020-09-29 09:32:50
+date: 2020-10-01 09:51:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KW0JU5JXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KW0JU5JXL._SL200_.jpg' ]
 comments: true
