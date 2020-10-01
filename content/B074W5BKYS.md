@@ -14,10 +14,10 @@ comparePrice: 399.99 GBP
 inStock: true
 ---
 
-Está [RICOH THETA V 360 Degree Spherical Camera - Metallic Grey](https://www.amazon.com/dp/B074W5BKYS/?tag=redken08-20) con 40.50 de descuento por 237.99 GBP (original: 399.99 GBP) en el siguiente enlace!
+Ahora mismo tienes [RICOH THETA V 360 Degree Spherical Camera - Metallic Grey](https://www.amazon.com/dp/B074W5BKYS/?tag=redken08-20) a 237.99 GBP (original: 399.99 GBP) (40.50 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31jNXNVKclL._SL200_.jpg)](https://www.amazon.com/dp/B074W5BKYS/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B074W5BKYS/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B074W5BKYS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
