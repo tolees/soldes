@@ -14,10 +14,10 @@ comparePrice: 89.99 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO 60258 City Nitro Wheels Tuning Workshop Building Set with Tow Truck  Hot Rod  Camping Trailer and Motorbike](https://www.amazon.com/dp/B07W6QBNM5/?tag=redken08-20) a 59.95 GBP (original: 89.99 GBP) (33.38 %  de descuento) en el siguiente enlace!
+Está [LEGO 60258 City Nitro Wheels Tuning Workshop Building Set with Tow Truck  Hot Rod  Camping Trailer and Motorbike](https://www.amazon.com/dp/B07W6QBNM5/?tag=redken08-20) con 33.38 de descuento por 59.95 GBP (original: 89.99 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51P4HaxtYIL._SL200_.jpg)](https://www.amazon.com/dp/B07W6QBNM5/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B07W6QBNM5/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B07W6QBNM5/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
