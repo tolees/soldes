@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CASOFU Burritos Blanket  Giant Flour Tor al 52.52 % de descuento'
-date: 2020-09-30 02:41:54
+date: 2020-10-01 14:43:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51By8KkoMKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51By8KkoMKL._SL200_.jpg' ]
 comments: true

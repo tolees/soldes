@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.69 % en Sony MDR7506 Professional Large Diaphrag'
-date: 2020-09-21 13:42:00
+date: 2020-10-01 14:25:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/510Y-3A9kYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510Y-3A9kYL._SL200_.jpg' ]
 comments: true

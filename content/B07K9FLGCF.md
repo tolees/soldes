@@ -1,22 +1,22 @@
 ---
 layout: post
-title: 'LEGO Star Wars 75253 BOOST Droide  App-g al 27.88 % de descuento'
-date: 2020-09-29 21:13:19
-thumbnailImage: 'https://m.media-amazon.com/images/I/513riy2qpvL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/513riy2qpvL._SL200_.jpg' ]
+title: 'LEGO 75253 Star Wars BOOST Droid Command al 25.80 % de descuento'
+date: 2020-09-30 11:32:47
+thumbnailImage: 'https://m.media-amazon.com/images/I/51w+NBhaFOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51w+NBhaFOL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: B07K9FLGCF
 description:
-actualPrice: 140.6 EUR
-comparePrice: 194.95 EUR
+actualPrice: 133.56 GBP
+comparePrice: 179.99 GBP
 inStock: true
 ---
 
-Está [LEGO Star Wars 75253 BOOST Droide  App-gesteuerte und programmierbare Roboter  Programmierset für Kinder  Roboterspielzeug](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20) con 27.88 de descuento por 140.6 EUR (original: 194.95 EUR) en el siguiente enlace!
+Está [LEGO 75253 Star Wars BOOST Droid Commander 3 Robot Toys in 1 Set  App Controlled Programmable Interactive Robots](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20) con 25.80 de descuento por 133.56 GBP (original: 179.99 GBP) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/513riy2qpvL._SL200_.jpg)](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20)
+[![](https://m.media-amazon.com/images/I/51w+NBhaFOL._SL200_.jpg)](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20)
 
 [Ver la oferta!!](https://www.amazon.com/dp/B07K9FLGCF/?tag=redken08-20)
 

@@ -14,10 +14,10 @@ comparePrice: 13.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko 14375 Actionfigur Kingsman: Gazelle  Mehrfarbig  Standard](https://www.amazon.com/dp/B06XGXX6RS/?tag=redken08-20) a 7.15 EUR (original: 13.99 EUR) (48.89 %  de descuento) en el siguiente enlace!
+Está [Funko 14375 Actionfigur Kingsman: Gazelle  Mehrfarbig  Standard](https://www.amazon.com/dp/B06XGXX6RS/?tag=redken08-20) con 48.89 de descuento por 7.15 EUR (original: 13.99 EUR) en el siguiente enlace!
 
 [![](https://images-eu.ssl-images-amazon.com/images/I/41tHz61ytPL._SL200_.jpg)](https://www.amazon.com/dp/B06XGXX6RS/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B06XGXX6RS/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B06XGXX6RS/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

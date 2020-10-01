@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate Game Drive Xbox GamePass Edition al 31.04 % de descuento'
-date: 2020-09-30 14:32:04
+date: 2020-10-01 14:50:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WdMftSj9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WdMftSj9L._SL200_.jpg' ]
 comments: true
