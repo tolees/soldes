@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 67.39 % en Organizational Behavior: A Practical Gui'
+title: 'Organizational Behavior: A Practical Gui al 67.39 % de descuento'
 date: 2020-09-30 12:38:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YflmPfwJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YflmPfwJL._SL200_.jpg' ]
@@ -14,10 +14,10 @@ comparePrice: 15.3 GBP
 inStock: true
 ---
 
-Tienes [Organizational Behavior: A Practical Guide](https://www.amazon.com/dp/B073T1GNZW/?tag=redken08-20) con un 67.39 % de descuento con precio de oferta de 4.99 GBP (original: 15.3 GBP) en el siguiente enlace!
+Está [Organizational Behavior: A Practical Guide](https://www.amazon.com/dp/B073T1GNZW/?tag=redken08-20) con 67.39 de descuento por 4.99 GBP (original: 15.3 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51YflmPfwJL._SL200_.jpg)](https://www.amazon.com/dp/B073T1GNZW/?tag=redken08-20)
 
-[Accede a la oferta!!](https://www.amazon.com/dp/B073T1GNZW/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B073T1GNZW/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
