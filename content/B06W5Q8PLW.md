@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil 9250 Top Agents Dr. Drone s Co al 53.36 % de descuento'
-date: 2020-09-26 14:05:43
+title: 'PLAYMOBIL Agentes Secretos-9250 Centro d al 64.19 % de descuento'
+date: 2020-10-01 10:14:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/61SLuo3+0WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61SLuo3+0WL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B06W5Q8PLW
 description:
-actualPrice: 27.98 GBP
-comparePrice: 59.99 GBP
+actualPrice: 24.35 EUR
+comparePrice: 67.99 EUR
 inStock: true
 ---
 
-Está [Playmobil 9250 Top Agents Dr. Drone s Command Base Toy Set  Multi](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20) con 53.36 de descuento por 27.98 GBP (original: 59.99 GBP) en el siguiente enlace!
+Está [PLAYMOBIL Agentes Secretos-9250 Centro de Mando del Dr.Drone  Color Negro  Gris  Amarillo  9250 ](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20) con 64.19 de descuento por 24.35 EUR (original: 67.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/61SLuo3+0WL._SL200_.jpg)](https://www.amazon.com/dp/B06W5Q8PLW/?tag=redken08-20)
 

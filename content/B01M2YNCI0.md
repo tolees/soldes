@@ -14,10 +14,10 @@ comparePrice: 77.0 GBP
 inStock: true
 ---
 
-Ahora mismo tienes [Skechers Hobbes-Frat  Men s Casual Lace Up Shoes  Black  Blk   9 UK  43 EU ](https://www.amazon.com/dp/B01M2YNCI0/?tag=redken08-20) a 38.5 GBP (original: 77.0 GBP) (50.00 %  de descuento) en el siguiente enlace!
+Está [Skechers Hobbes-Frat  Men s Casual Lace Up Shoes  Black  Blk   9 UK  43 EU ](https://www.amazon.com/dp/B01M2YNCI0/?tag=redken08-20) con 50.00 de descuento por 38.5 GBP (original: 77.0 GBP) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41GGpIJIvDL._SL200_.jpg)](https://www.amazon.com/dp/B01M2YNCI0/?tag=redken08-20)
 
-[Visítala!!!](https://www.amazon.com/dp/B01M2YNCI0/?tag=redken08-20)
+[Ver la oferta!!](https://www.amazon.com/dp/B01M2YNCI0/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
