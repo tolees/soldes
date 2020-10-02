@@ -14,10 +14,10 @@ comparePrice: 699.99 EUR
 inStock: true
 ---
 
-Está [Canon EOS M6 - Cámara Evil de 24.2 MP  Pantalla táctil de 3.0    DIGIC 7  NFC  Dual Pixel CMOS AF  Bluetooth  5 - Axis Digital IS  Full HD  WiFi  Plata - Solo Cuerpo](https://www.amazon.com/dp/B06WGRL6DD/?tag=redken08-20) con 28.89 de descuento por 497.77 EUR (original: 699.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Canon EOS M6 - Cámara Evil de 24.2 MP  Pantalla táctil de 3.0    DIGIC 7  NFC  Dual Pixel CMOS AF  Bluetooth  5 - Axis Digital IS  Full HD  WiFi  Plata - Solo Cuerpo](https://www.amazon.com/dp/B06WGRL6DD/?tag=redken08-20) a 497.77 EUR (original: 699.99 EUR) (28.89 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41OSjIFONiL._SL200_.jpg)](https://www.amazon.com/dp/B06WGRL6DD/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B06WGRL6DD/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B06WGRL6DD/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
