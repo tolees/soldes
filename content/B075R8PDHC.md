@@ -14,10 +14,10 @@ comparePrice: 32.95 EUR
 inStock: true
 ---
 
-Está [Marvel- Funko Pop Games Capcom Figuras de Vinilo Capitana vs Chun-Li   22767 ](https://www.amazon.com/dp/B075R8PDHC/?tag=redken08-20) con 57.60 de descuento por 13.97 EUR (original: 32.95 EUR) en el siguiente enlace!
+Ahora mismo tienes [Marvel- Funko Pop Games Capcom Figuras de Vinilo Capitana vs Chun-Li   22767 ](https://www.amazon.com/dp/B075R8PDHC/?tag=redken08-20) a 13.97 EUR (original: 32.95 EUR) (57.60 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Bvu7qoHaL._SL200_.jpg)](https://www.amazon.com/dp/B075R8PDHC/?tag=redken08-20)
 
-[Ver la oferta!!](https://www.amazon.com/dp/B075R8PDHC/?tag=redken08-20)
+[Visítala!!!](https://www.amazon.com/dp/B075R8PDHC/?tag=redken08-20)
 
 [Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
