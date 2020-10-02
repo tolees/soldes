@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'APLI - Bolsa palo polo natural  50 uds al 28.57 % de descuento'
-date: 2020-10-01 01:27:30
+date: 2020-10-02 01:33:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qW+C3+iHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qW+C3+iHL._SL200_.jpg' ]
 comments: true
