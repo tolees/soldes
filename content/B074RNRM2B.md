@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Carte mémoire MicroSDXC Ultra 40 al 65.47 % de descuento'
-date: 2020-11-03 14:26:18
+date: 2020-11-04 18:08:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41MQ9ndxA7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41MQ9ndxA7L._SL200_.jpg' ]
 comments: true
