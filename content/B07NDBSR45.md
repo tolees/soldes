@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic - Le transporteur de voitur al 33.34 % de descuento'
-date: 2020-11-04 07:21:29
+date: 2020-11-05 07:27:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D2y2x67QL._SL200_.jpg' ]
 comments: true
