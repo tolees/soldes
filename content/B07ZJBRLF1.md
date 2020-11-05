@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.00 % en CHiQ L40H7N  40 Pouces  Téléviseur Full '
-date: 2020-11-03 12:35:39
+date: 2020-11-05 17:26:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/4136AFYlPrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4136AFYlPrL._SL200_.jpg' ]
 comments: true
