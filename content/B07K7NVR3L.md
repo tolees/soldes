@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 39.11 % en Levi s 501 Original Jeans  Snoot  31W / '
-date: 2020-11-04 10:32:33
+date: 2020-11-05 11:10:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41prtsJ61sL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41prtsJ61sL._SL200_.jpg' ]
 comments: true

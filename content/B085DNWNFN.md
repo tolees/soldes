@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'AWANFI RC Batterie Rechargeable 8 4V NiM al 37.50 % de descuento'
+title: 'Descuento del 37.50 % en AWANFI RC Batterie Rechargeable 8 4V NiM'
 date: 2020-10-15 13:28:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+SMgvJwNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+SMgvJwNL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [AWANFI RC Batterie Rechargeable 8 4V NiMH 4200mAh de Grande Capacité avec Connecteur T pour Modélisme Voiture Camion Bateau](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21) con 37.50 de descuento por 49.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Tienes [AWANFI RC Batterie Rechargeable 8 4V NiMH 4200mAh de Grande Capacité avec Connecteur T pour Modélisme Voiture Camion Bateau](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21) con un 37.50 % de descuento con precio de oferta de 49.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+SMgvJwNL._SL200_.jpg)](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

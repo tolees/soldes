@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disque Dur Externe 1to Type C USB 3.1 po al 56.19 % de descuento'
-date: 2020-11-04 10:35:59
+date: 2020-11-05 11:13:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/31n0TDBGatL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31n0TDBGatL._SL200_.jpg' ]
 comments: true
