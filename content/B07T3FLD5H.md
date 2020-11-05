@@ -14,11 +14,11 @@ comparePrice: 35.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Dead Cells - Action Game of The Year](https://www.amazon.fr/dp/B07T3FLD5H/?tag=redken012-21) a 22.22 EUR (original: 35.0 EUR) (36.51 %  de descuento) en el siguiente enlace!
+Está [Dead Cells - Action Game of The Year](https://www.amazon.fr/dp/B07T3FLD5H/?tag=redken012-21) con 36.51 de descuento por 22.22 EUR (original: 35.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/517fKnzKoTL._SL200_.jpg)](https://www.amazon.fr/dp/B07T3FLD5H/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07T3FLD5H/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07T3FLD5H/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
