@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIVAN® - Sac à Main/Sac de Cours/Sac de  al 42.89 % de descuento'
-date: 2020-10-20 17:08:10
+date: 2020-11-05 16:57:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pchAGUSFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pchAGUSFL._SL200_.jpg' ]
 comments: true
