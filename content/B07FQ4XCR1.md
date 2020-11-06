@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.78 % en Kindle  maintenant avec un éclairage fro'
-date: 2020-11-02 10:44:42
+date: 2020-11-06 07:22:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HUXwCvKBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HUXwCvKBL._SL200_.jpg' ]
 comments: true

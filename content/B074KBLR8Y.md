@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fitbit Ionic La Montre-Coach Connectée p al 49.99 % de descuento'
-date: 2020-10-27 19:24:24
+date: 2020-11-06 07:35:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+lSXP2R9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+lSXP2R9L._SL200_.jpg' ]
 comments: true
