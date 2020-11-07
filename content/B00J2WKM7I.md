@@ -14,11 +14,11 @@ comparePrice: 227.29 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Makita BO5041J Ponceuse Excentrique 300 W Ø 125 mm](https://www.amazon.fr/dp/B00J2WKM7I/?tag=redken012-21) a 141.73 EUR (original: 227.29 EUR) (37.64 %  de descuento) en el siguiente enlace!
+Está [Makita BO5041J Ponceuse Excentrique 300 W Ø 125 mm](https://www.amazon.fr/dp/B00J2WKM7I/?tag=redken012-21) con 37.64 de descuento por 141.73 EUR (original: 227.29 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41Ez3s34ajL._SL200_.jpg)](https://www.amazon.fr/dp/B00J2WKM7I/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00J2WKM7I/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00J2WKM7I/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
