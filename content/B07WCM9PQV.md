@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.60 % en Sony Manette PlayStation 4 officielle  D'
-date: 2020-11-04 10:34:28
+date: 2020-11-07 05:30:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bAcrVxPGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bAcrVxPGL._SL200_.jpg' ]
 comments: true

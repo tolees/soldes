@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.03 % en PUMA Carina L  Baskets Femme  White-Whit'
-date: 2020-11-02 00:13:27
+date: 2020-11-07 05:28:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg' ]
 comments: true

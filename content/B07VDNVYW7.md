@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SNAPTAIN SP600 Drone avec Caméra 720P HD al 30.00 % de descuento'
-date: 2020-11-04 04:29:48
+date: 2020-11-07 05:35:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RXFZkt4EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RXFZkt4EL._SL200_.jpg' ]
 comments: true
