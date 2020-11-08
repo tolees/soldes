@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.42 % en Gong - Chau gong/Tam-tam gong traditionn'
-date: 2020-09-13 16:44:14
+date: 2020-11-08 15:28:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41VmbZFjD4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41VmbZFjD4L._SL200_.jpg' ]
 comments: true
