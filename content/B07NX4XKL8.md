@@ -14,11 +14,11 @@ comparePrice: 89.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2 Batteries - 26 Nm - 40 accessoires - Livrée en boite à outil  10.8V](https://www.amazon.fr/dp/B07NX4XKL8/?tag=redken012-21) a 48.0 EUR (original: 89.99 EUR) (46.66 %  de descuento) en el siguiente enlace!
+Está [BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2 Batteries - 26 Nm - 40 accessoires - Livrée en boite à outil  10.8V](https://www.amazon.fr/dp/B07NX4XKL8/?tag=redken012-21) con 46.66 de descuento por 48.0 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51v4-+-RJ0L._SL200_.jpg)](https://www.amazon.fr/dp/B07NX4XKL8/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07NX4XKL8/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07NX4XKL8/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

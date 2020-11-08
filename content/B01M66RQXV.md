@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIFX  E27  Ampoule LED connectée Wi-Fi   al 38.47 % de descuento'
-date: 2020-10-14 10:23:34
+date: 2020-11-08 07:31:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ALhjrl3nL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ALhjrl3nL._SL200_.jpg' ]
 comments: true
