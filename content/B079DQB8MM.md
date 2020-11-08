@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'RIFIANS® - Trousse de Toilette SPACIEUSE al 31.27 % de descuento'
-date: 2020-11-07 05:42:05
+date: 2020-11-08 11:23:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-1fRqmZcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-1fRqmZcL._SL200_.jpg' ]
 comments: true

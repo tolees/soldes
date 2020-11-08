@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MotoGP 19 Xbox One al 25.01 % de descuento'
-date: 2020-11-07 11:23:59
+date: 2020-11-08 11:33:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YKZuAEEsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YKZuAEEsL._SL200_.jpg' ]
 comments: true

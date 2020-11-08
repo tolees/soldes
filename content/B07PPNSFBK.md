@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Seagate Game Drive 2 To  Disque dur exte al 25.00 % de descuento'
-date: 2020-11-07 11:25:08
+date: 2020-11-08 11:34:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg' ]
 comments: true
