@@ -14,11 +14,11 @@ comparePrice: 10.8 EUR
 inStock: true
 ---
 
-Está [D Addario EJ16 Cordes en bronze phosphoreux pour guitare acoustique Léger 12-53](https://www.amazon.fr/dp/B000EEJ8CS/?tag=redken012-21) con 48.06 de descuento por 5.61 EUR (original: 10.8 EUR) en el siguiente enlace!
+Ahora mismo tienes [D Addario EJ16 Cordes en bronze phosphoreux pour guitare acoustique Léger 12-53](https://www.amazon.fr/dp/B000EEJ8CS/?tag=redken012-21) a 5.61 EUR (original: 10.8 EUR) (48.06 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51vhmF2RJ-L._SL200_.jpg)](https://www.amazon.fr/dp/B000EEJ8CS/?tag=redken012-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B000EEJ8CS/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B000EEJ8CS/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
