@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.79 % en Legging anti Cellulite  Pantalon de Suda'
-date: 2020-11-08 17:41:34
+date: 2020-11-09 17:43:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pDCP4zF+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pDCP4zF+L._SL200_.jpg' ]
 comments: true
