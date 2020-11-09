@@ -14,11 +14,11 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Super Mario Maker 2 - édition limitée](https://www.amazon.fr/dp/B07R58KMSQ/?tag=redken012-21) a 41.91 EUR (original: 69.99 EUR) (40.12 %  de descuento) en el siguiente enlace!
+Está [Super Mario Maker 2 - édition limitée](https://www.amazon.fr/dp/B07R58KMSQ/?tag=redken012-21) con 40.12 de descuento por 41.91 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Tmr4VD6eL._SL200_.jpg)](https://www.amazon.fr/dp/B07R58KMSQ/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07R58KMSQ/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07R58KMSQ/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
