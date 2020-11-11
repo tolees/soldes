@@ -14,11 +14,11 @@ comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Eastpak The One Sac Bandoulière  21 cm  2.5 L  Gris  Sunday Grey ](https://www.amazon.fr/dp/B003PPCYCE/?tag=redken012-21) a 19.95 EUR (original: 30.0 EUR) (33.50 %  de descuento) en el siguiente enlace!
+Está [Eastpak The One Sac Bandoulière  21 cm  2.5 L  Gris  Sunday Grey ](https://www.amazon.fr/dp/B003PPCYCE/?tag=redken012-21) con 33.50 de descuento por 19.95 EUR (original: 30.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41lwL6DEMdL._SL200_.jpg)](https://www.amazon.fr/dp/B003PPCYCE/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B003PPCYCE/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B003PPCYCE/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
