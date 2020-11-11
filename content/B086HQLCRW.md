@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Écouteur Bluetooth  Donerton IPX7 Écoute al 31.31 % de descuento'
-date: 2020-11-10 12:34:18
+date: 2020-11-11 18:40:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/4150dgEWuxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4150dgEWuxL._SL200_.jpg' ]
 comments: true
