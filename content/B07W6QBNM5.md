@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.00 % en LEGO City Turbo Wheels  L atelier de tun'
-date: 2020-11-10 14:39:55
+date: 2020-11-11 14:54:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/513MI2NXYvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513MI2NXYvL._SL200_.jpg' ]
 comments: true
