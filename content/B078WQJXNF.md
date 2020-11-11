@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Samsung SSD Interne 860 EVO 2.5"  250 Go al 44.49 % de descuento'
-date: 2020-11-10 12:19:18
+title: 'Samsung SSD Interne 860 EVO 2.5"  250 Go al 48.88 % de descuento'
+date: 2020-11-11 12:38:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B078WQJXNF
 description:
-actualPrice: 47.18 EUR
+actualPrice: 43.45 EUR
 comparePrice: 84.99 EUR
 inStock: true
 ---
 
-Está [Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU](https://www.amazon.fr/dp/B078WQJXNF/?tag=redken012-21) con 44.49 de descuento por 47.18 EUR (original: 84.99 EUR) en el siguiente enlace!
+Está [Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU](https://www.amazon.fr/dp/B078WQJXNF/?tag=redken012-21) con 48.88 de descuento por 43.45 EUR (original: 84.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41JrIwN+kyL._SL200_.jpg)](https://www.amazon.fr/dp/B078WQJXNF/?tag=redken012-21)
 

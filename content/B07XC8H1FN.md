@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 45.94 % en DCL - Drone Championship League'
-date: 2020-11-10 12:19:21
+date: 2020-11-11 12:31:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/515jjj5oSnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515jjj5oSnL._SL200_.jpg' ]
 comments: true
