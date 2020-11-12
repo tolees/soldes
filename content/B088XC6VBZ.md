@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Electrolux PureD8 Green Pure D8 PD82-8DB al 30.77 % de descuento'
-date: 2020-11-01 15:44:37
+date: 2020-11-12 06:05:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JiKL5Po1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JiKL5Po1L._SL200_.jpg' ]
 comments: true
