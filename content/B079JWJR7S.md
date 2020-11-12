@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casque DJ  OneOdio P-10 Casque Audio Stu al 40.01 % de descuento'
-date: 2020-10-25 13:27:17
+date: 2020-11-12 18:53:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-PF+DsNzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-PF+DsNzL._SL200_.jpg' ]
 comments: true

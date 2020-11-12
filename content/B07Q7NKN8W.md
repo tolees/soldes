@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sedhoom Mandoline Multifonctions 23pcs C al 40.01 % de descuento'
-date: 2020-11-11 12:46:15
+date: 2020-11-12 18:44:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OJfz5CiAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OJfz5CiAL._SL200_.jpg' ]
 comments: true
