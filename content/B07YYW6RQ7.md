@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Montre Connectée Femmes  Montre Intellig al 33.34 % de descuento'
-date: 2020-11-12 01:00:31
+date: 2020-11-13 12:55:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rCZEZEUyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rCZEZEUyL._SL200_.jpg' ]
 comments: true
