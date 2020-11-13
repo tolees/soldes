@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips MG5740/15 - Tondeuse cheveux et  al 52.86 % de descuento'
-date: 2020-11-11 18:37:22
+date: 2020-11-13 06:38:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31heIWe3q7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31heIWe3q7L._SL200_.jpg' ]
 comments: true

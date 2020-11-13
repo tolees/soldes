@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 41.15 % en Kit de Soins de Barbe  Kit Soin Barbe 9 '
-date: 2020-11-12 06:34:28
+date: 2020-11-13 06:37:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gOzHTAjpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gOzHTAjpL._SL200_.jpg' ]
 comments: true
