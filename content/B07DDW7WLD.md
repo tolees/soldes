@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'URAQT Sac à Main Femme Bandoulière Sac   al 28.58 % de descuento'
-date: 2020-11-12 18:42:57
+date: 2020-11-13 18:46:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51KEz7+S+DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51KEz7+S+DL._SL200_.jpg' ]
 comments: true

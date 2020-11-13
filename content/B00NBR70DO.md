@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.70 % en Sony MDR-ZX110B Casque Pliable - Noir'
-date: 2020-11-12 00:51:56
+date: 2020-11-13 18:43:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg' ]
 comments: true

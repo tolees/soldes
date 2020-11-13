@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel N50 Lot de 12 Marqueurs Permanent al 26.24 % de descuento'
-date: 2020-11-12 18:41:25
+date: 2020-11-13 18:45:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31PZKU9l+EL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31PZKU9l+EL._SL200_.jpg' ]
 comments: true
