@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 71360 Pack de démarrage Aventures S al 37.72 % de descuento'
-date: 2020-11-11 00:38:49
+date: 2020-11-13 00:53:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/519qfBXEPbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519qfBXEPbL._SL200_.jpg' ]
 comments: true
