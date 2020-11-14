@@ -14,11 +14,11 @@ comparePrice: 10.02 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Pitch Perfect 2](https://www.amazon.fr/dp/B014UY9AWU/?tag=redken012-21) a 6.0 EUR (original: 10.02 EUR) (40.12 %  de descuento) en el siguiente enlace!
+Está [Pitch Perfect 2](https://www.amazon.fr/dp/B014UY9AWU/?tag=redken012-21) con 40.12 de descuento por 6.0 EUR (original: 10.02 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51xPbvdt0SL._SL200_.jpg)](https://www.amazon.fr/dp/B014UY9AWU/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B014UY9AWU/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B014UY9AWU/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
