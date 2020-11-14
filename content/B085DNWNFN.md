@@ -14,11 +14,11 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [AWANFI RC Batterie Rechargeable 8 4V NiMH 4200mAh de Grande Capacité avec Connecteur T pour Modélisme Voiture Camion Bateau](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21) a 49.99 EUR (original: 79.99 EUR) (37.50 %  de descuento) en el siguiente enlace!
+Está [AWANFI RC Batterie Rechargeable 8 4V NiMH 4200mAh de Grande Capacité avec Connecteur T pour Modélisme Voiture Camion Bateau](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21) con 37.50 de descuento por 49.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41+SMgvJwNL._SL200_.jpg)](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B085DNWNFN/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
