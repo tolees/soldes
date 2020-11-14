@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lowepro Droneguard BP léger Drone Sac à  al 28.27 % de descuento'
-date: 2020-11-13 12:50:37
+date: 2020-11-14 13:11:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aoOSXAlhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aoOSXAlhL._SL200_.jpg' ]
 comments: true
