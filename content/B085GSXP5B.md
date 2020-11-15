@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Les Vacances - La C al 30.01 % de descuento'
-date: 2020-11-13 00:58:45
+date: 2020-11-15 01:38:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/514LXT2CluL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514LXT2CluL._SL200_.jpg' ]
 comments: true
