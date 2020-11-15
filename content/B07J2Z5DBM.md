@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TOZO T10 Ecouteur Bluetooth sans Fil TWS al 57.79 % de descuento'
-date: 2020-11-13 00:49:35
+date: 2020-11-15 13:23:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AOB4f1m0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AOB4f1m0L._SL200_.jpg' ]
 comments: true
