@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tondeuse Cheveux Hommes  2 Vitesses Régl al 35.66 % de descuento'
-date: 2020-11-14 07:06:12
+date: 2020-11-15 07:18:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51P88aLcqQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51P88aLcqQL._SL200_.jpg' ]
 comments: true

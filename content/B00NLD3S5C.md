@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Pastilles Lave-Vaisselle Powerbal al 30.45 % de descuento'
-date: 2020-11-14 06:56:23
+date: 2020-11-15 07:10:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nyVrgnuFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nyVrgnuFL._SL200_.jpg' ]
 comments: true

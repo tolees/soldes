@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony Manette PlayStation 4 officielle  D al 51.66 % de descuento'
-date: 2020-11-14 07:05:34
+title: 'Sony Manette PlayStation 4 officielle  D al 51.68 % de descuento'
+date: 2020-11-15 07:18:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B01GVQUX3U
 description:
-actualPrice: 29.0 EUR
+actualPrice: 28.99 EUR
 comparePrice: 59.99 EUR
 inStock: true
 ---
 
-Está [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire ](https://www.amazon.fr/dp/B01GVQUX3U/?tag=redken012-21) con 51.66 de descuento por 29.0 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire ](https://www.amazon.fr/dp/B01GVQUX3U/?tag=redken012-21) con 51.68 de descuento por 28.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg)](https://www.amazon.fr/dp/B01GVQUX3U/?tag=redken012-21)
 
