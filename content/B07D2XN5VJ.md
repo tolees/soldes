@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kleenex FAMILY – Mouchoirs en papier - L al 27.62 % de descuento'
-date: 2020-11-14 19:16:59
+date: 2020-11-15 19:23:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/5130OmO3QVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5130OmO3QVL._SL200_.jpg' ]
 comments: true
