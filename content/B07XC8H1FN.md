@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'DCL - Drone Championship League al 40.74 % de descuento'
-date: 2020-11-14 13:04:36
+title: 'DCL - Drone Championship League al 45.56 % de descuento'
+date: 2020-11-16 07:45:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/515jjj5oSnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515jjj5oSnL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07XC8H1FN
 description:
-actualPrice: 23.7 EUR
+actualPrice: 21.77 EUR
 comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XC8H1FN/?tag=redken012-21) a 23.7 EUR (original: 39.99 EUR) (40.74 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XC8H1FN/?tag=redken012-21) a 21.77 EUR (original: 39.99 EUR) (45.56 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/515jjj5oSnL._SL200_.jpg)](https://www.amazon.fr/dp/B07XC8H1FN/?tag=redken012-21)
 

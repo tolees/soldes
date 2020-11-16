@@ -14,11 +14,11 @@ comparePrice: 57.36 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Staedtler Mars Comfort 552 Compass Rapide](https://www.amazon.fr/dp/B000WGVMOU/?tag=redken012-21) a 21.93 EUR (original: 57.36 EUR) (61.77 %  de descuento) en el siguiente enlace!
+Está [Staedtler Mars Comfort 552 Compass Rapide](https://www.amazon.fr/dp/B000WGVMOU/?tag=redken012-21) con 61.77 de descuento por 21.93 EUR (original: 57.36 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41BGCiEaczL._SL200_.jpg)](https://www.amazon.fr/dp/B000WGVMOU/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B000WGVMOU/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B000WGVMOU/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
