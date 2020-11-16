@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playstation Digital Réveil LCD | PS4 Dua al 27.56 % de descuento'
-date: 2020-11-13 18:45:08
+date: 2020-11-16 01:47:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/412spp4QkAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412spp4QkAL._SL200_.jpg' ]
 comments: true
