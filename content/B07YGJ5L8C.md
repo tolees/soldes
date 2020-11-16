@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ice-Watch - Ice Steel Rose-Gold - Montre al 65.10 % de descuento'
-date: 2020-11-01 06:03:59
+date: 2020-11-16 06:03:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41X4PpEhv7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41X4PpEhv7L._SL200_.jpg' ]
 comments: true
