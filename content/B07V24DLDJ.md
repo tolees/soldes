@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.01 % en Funko- Pop Funkoverse: Battle in The Wiz'
-date: 2020-11-16 13:54:44
+date: 2020-11-17 14:01:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DmX1NVLaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DmX1NVLaL._SL200_.jpg' ]
 comments: true
