@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-ZX310B Casque Pliable - Noir al 37.07 % de descuento'
-date: 2020-11-16 07:39:27
+date: 2020-11-17 07:53:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KaoBN9kzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KaoBN9kzL._SL200_.jpg' ]
 comments: true
