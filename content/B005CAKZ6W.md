@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel Lot de 12 BL77 EnerGel Roller gel al 27.93 % de descuento'
-date: 2020-11-16 19:50:00
+date: 2020-11-18 02:14:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EAo+T-EAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EAo+T-EAL._SL200_.jpg' ]
 comments: true
