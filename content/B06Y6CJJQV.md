@@ -14,11 +14,11 @@ comparePrice: 20.91 EUR
 inStock: true
 ---
 
-Está [Rhodia 117744C - carnet souple Rhodiarama Goalbook taupe  A5  14 8x21 cm   240p  dot  pointillés   papier Clairefontaine ivoire 90 g/m²  2 rubans  fermeture élastique  simili cuir](https://www.amazon.fr/dp/B06Y6CJJQV/?tag=redken012-21) con 30.66 de descuento por 14.5 EUR (original: 20.91 EUR) en el siguiente enlace!
+Ahora mismo tienes [Rhodia 117744C - carnet souple Rhodiarama Goalbook taupe  A5  14 8x21 cm   240p  dot  pointillés   papier Clairefontaine ivoire 90 g/m²  2 rubans  fermeture élastique  simili cuir](https://www.amazon.fr/dp/B06Y6CJJQV/?tag=redken012-21) a 14.5 EUR (original: 20.91 EUR) (30.66 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31U6iADHaLL._SL200_.jpg)](https://www.amazon.fr/dp/B06Y6CJJQV/?tag=redken012-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B06Y6CJJQV/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B06Y6CJJQV/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
