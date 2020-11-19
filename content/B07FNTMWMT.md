@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® Speed Champions Mini Cooper Rally  al 26.30 % de descuento'
-date: 2020-11-18 08:18:11
+date: 2020-11-19 08:34:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/516iOLM7eJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516iOLM7eJL._SL200_.jpg' ]
 comments: true
