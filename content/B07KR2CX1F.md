@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.01 % en Silicon Power SSD 256Go 3D NAND A55 SLC '
-date: 2020-11-18 14:28:00
+date: 2020-11-19 14:34:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51D0eaOybdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51D0eaOybdL._SL200_.jpg' ]
 comments: true
