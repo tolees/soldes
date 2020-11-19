@@ -14,11 +14,11 @@ comparePrice: 21.99 EUR
 inStock: true
 ---
 
-Está [Sntieecr Circuit Électrique Kit  DC Moteur Kit Science Expérience Laboratoire de Base d apprentissage Kit pour Enfants De L Éducation STEM Projet D’ingénierie](https://www.amazon.fr/dp/B086WCB5NK/?tag=redken012-21) con 36.38 de descuento por 13.99 EUR (original: 21.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sntieecr Circuit Électrique Kit  DC Moteur Kit Science Expérience Laboratoire de Base d apprentissage Kit pour Enfants De L Éducation STEM Projet D’ingénierie](https://www.amazon.fr/dp/B086WCB5NK/?tag=redken012-21) a 13.99 EUR (original: 21.99 EUR) (36.38 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51qeBuk95sL._SL200_.jpg)](https://www.amazon.fr/dp/B086WCB5NK/?tag=redken012-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B086WCB5NK/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B086WCB5NK/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
