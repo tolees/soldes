@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WD - My Book Duo - Disque Dur Éxterne US al 33.33 % de descuento'
-date: 2020-11-16 20:28:02
+date: 2020-11-20 07:18:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yyf+9XFuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yyf+9XFuL._SL200_.jpg' ]
 comments: true
