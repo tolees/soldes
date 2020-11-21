@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.43 % en SUPER MARIO 3D - ALL STARS'
-date: 2020-11-20 21:12:00
+date: 2020-11-21 21:36:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TSMkXij3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TSMkXij3L._SL200_.jpg' ]
 comments: true

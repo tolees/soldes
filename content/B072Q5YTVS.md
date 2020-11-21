@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.62 % en Levi s - 35946 - Sweat a Capuche - Femme'
-date: 2020-11-19 14:33:32
+date: 2020-11-21 21:24:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ElOQo7FmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ElOQo7FmL._SL200_.jpg' ]
 comments: true
