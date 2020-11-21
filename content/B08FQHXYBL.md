@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FIFA 21  Xbox One  - Version Xbox Series al 42.86 % de descuento'
-date: 2020-11-20 15:07:05
+date: 2020-11-21 15:39:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DX47Ry9jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DX47Ry9jL._SL200_.jpg' ]
 comments: true
