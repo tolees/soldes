@@ -14,11 +14,11 @@ comparePrice: 99.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Krups Spécial T Machine à Thé Mini T Théière Electrique à Capsules Noir YY4121FD](https://www.amazon.fr/dp/B07NJBYHXX/?tag=redken012-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!
+Está [Krups Spécial T Machine à Thé Mini T Théière Electrique à Capsules Noir YY4121FD](https://www.amazon.fr/dp/B07NJBYHXX/?tag=redken012-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31WBGRwi2zL._SL200_.jpg)](https://www.amazon.fr/dp/B07NJBYHXX/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07NJBYHXX/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07NJBYHXX/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
