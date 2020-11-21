@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [BRIKSMAX Kit de LED pour Lego Speed Champions 1985 Audi Sport Quattro S1 Compatible avec la Maquette Lego 76897  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B089SZNY4P/?tag=redken012-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
+Está [BRIKSMAX Kit de LED pour Lego Speed Champions 1985 Audi Sport Quattro S1 Compatible avec la Maquette Lego 76897  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B089SZNY4P/?tag=redken012-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/519TI6+jlnL._SL200_.jpg)](https://www.amazon.fr/dp/B089SZNY4P/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B089SZNY4P/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B089SZNY4P/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
