@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Parker Jotter stylo plume | acier inoxyd al 50.80 % de descuento'
-date: 2020-11-02 04:13:06
+date: 2020-11-21 05:12:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31cJnx8Yg1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31cJnx8Yg1L._SL200_.jpg' ]
 comments: true
