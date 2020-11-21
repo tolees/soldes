@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRITA  Carafe Filtrante  Marella  2.4L   al 42.98 % de descuento'
-date: 2020-10-27 07:18:16
+date: 2020-11-21 09:14:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41KdfNrpZCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41KdfNrpZCL._SL200_.jpg' ]
 comments: true
