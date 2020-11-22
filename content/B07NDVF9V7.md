@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 'Logitech G MX518 Gaming Mouse Capteur HE al 50.01 % de descuento'
-date: 2020-10-05 13:23:44
-thumbnailImage: 'https://m.media-amazon.com/images/I/31JntubqqFL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31JntubqqFL._SL200_.jpg' ]
+date: 2020-11-22 09:48:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/31pANcf+x3L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31pANcf+x3L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
@@ -16,7 +16,7 @@ inStock: true
 
 Ahora mismo tienes [Logitech G MX518 Gaming Mouse Capteur HERO Capteur 16 000 dpi ARM 8 boutons Programmables  Emballage Allemand  - Noir](https://www.amazon.fr/dp/B07NDVF9V7/?tag=redken012-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31JntubqqFL._SL200_.jpg)](https://www.amazon.fr/dp/B07NDVF9V7/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/31pANcf+x3L._SL200_.jpg)](https://www.amazon.fr/dp/B07NDVF9V7/?tag=redken012-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B07NDVF9V7/?tag=redken012-21)
 
