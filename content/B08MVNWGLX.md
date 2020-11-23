@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.49 % en eXtremeRate Coque Avant Housse de Rempla'
-date: 2020-11-21 21:26:11
+date: 2020-11-23 17:04:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41uxKpMK2OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41uxKpMK2OL._SL200_.jpg' ]
 comments: true

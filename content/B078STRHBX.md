@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 25.00 % en SanDisk Extreme Portable SSD 1TB - Disqu'
-date: 2020-11-22 15:43:40
+title: 'Descuento del 35.01 % en SanDisk Extreme Portable SSD 1TB - Disqu'
+date: 2020-11-23 16:39:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B078STRHBX
 description:
-actualPrice: 149.99 EUR
+actualPrice: 129.98 EUR
 comparePrice: 199.99 EUR
 inStock: true
 ---
 
-Tienes [SanDisk Extreme Portable SSD 1TB - Disque SSD externe jusqu à 550Mo/s en lecture](https://www.amazon.fr/dp/B078STRHBX/?tag=redken012-21) con un 25.00 % de descuento con precio de oferta de 149.99 EUR (original: 199.99 EUR) en el siguiente enlace!
+Tienes [SanDisk Extreme Portable SSD 1TB - Disque SSD externe jusqu à 550Mo/s en lecture](https://www.amazon.fr/dp/B078STRHBX/?tag=redken012-21) con un 35.01 % de descuento con precio de oferta de 129.98 EUR (original: 199.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg)](https://www.amazon.fr/dp/B078STRHBX/?tag=redken012-21)
 
