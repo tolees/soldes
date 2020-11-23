@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 42.85 % en Casque circumauriculaire Beats Studio3 s'
-date: 2020-11-22 09:48:39
+date: 2020-11-23 14:24:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oBKEtYyNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oBKEtYyNL._SL200_.jpg' ]
 comments: true
