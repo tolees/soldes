@@ -14,11 +14,11 @@ comparePrice: 149.7 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Adidas NMD R1 Basket Mode Homme - Noir  Core Black/Core Black/Gum 3  - 44 2/3 EU](https://www.amazon.fr/dp/B07D3ZMWMF/?tag=redken012-21) a 79.99 EUR (original: 149.7 EUR) (46.57 %  de descuento) en el siguiente enlace!
+Está [Adidas NMD R1 Basket Mode Homme - Noir  Core Black/Core Black/Gum 3  - 44 2/3 EU](https://www.amazon.fr/dp/B07D3ZMWMF/?tag=redken012-21) con 46.57 de descuento por 79.99 EUR (original: 149.7 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/413faag10uL._SL200_.jpg)](https://www.amazon.fr/dp/B07D3ZMWMF/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07D3ZMWMF/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07D3ZMWMF/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
