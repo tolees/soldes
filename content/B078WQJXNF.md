@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SSD Interne 860 EVO 2.5"  250 Go al 49.66 % de descuento'
-date: 2020-11-23 16:42:31
+date: 2020-11-24 16:57:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL200_.jpg' ]
 comments: true
