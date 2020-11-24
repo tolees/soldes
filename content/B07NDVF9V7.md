@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Logitech G MX518 Gaming Mouse Capteur HE al 50.01 % de descuento'
-date: 2020-11-22 09:48:42
+date: 2020-11-24 02:36:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pANcf+x3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pANcf+x3L._SL200_.jpg' ]
 comments: true
