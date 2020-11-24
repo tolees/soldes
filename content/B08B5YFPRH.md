@@ -14,11 +14,11 @@ comparePrice: 22.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [eXtremeRate D-Pad Boutons SR SL L R ZR ZL Trigger Touches Kit de Boutons Remplacement pour Nintendo Switch Joycons D-Pad Seulement pour eXtremeRate Coques de Joycon D-Pad -Corail](https://www.amazon.fr/dp/B08B5YFPRH/?tag=redken012-21) a 12.99 EUR (original: 22.99 EUR) (43.50 %  de descuento) en el siguiente enlace!
+Está [eXtremeRate D-Pad Boutons SR SL L R ZR ZL Trigger Touches Kit de Boutons Remplacement pour Nintendo Switch Joycons D-Pad Seulement pour eXtremeRate Coques de Joycon D-Pad -Corail](https://www.amazon.fr/dp/B08B5YFPRH/?tag=redken012-21) con 43.50 de descuento por 12.99 EUR (original: 22.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41n32gwWFGL._SL200_.jpg)](https://www.amazon.fr/dp/B08B5YFPRH/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B08B5YFPRH/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B08B5YFPRH/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

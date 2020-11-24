@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.57 % en Miss Vanderbilt Coffret parfum'
-date: 2020-11-22 21:55:23
+date: 2020-11-24 04:42:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41D3uR1v42L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41D3uR1v42L._SL200_.jpg' ]
 comments: true
