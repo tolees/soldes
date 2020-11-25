@@ -14,11 +14,11 @@ comparePrice: 220.0 EUR
 inStock: true
 ---
 
-Está [Sony MDR-1AM2 Casque Hi-Res Audio - Noir](https://www.amazon.fr/dp/B078VGLCHG/?tag=redken012-21) con 50.45 de descuento por 109.0 EUR (original: 220.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Sony MDR-1AM2 Casque Hi-Res Audio - Noir](https://www.amazon.fr/dp/B078VGLCHG/?tag=redken012-21) a 109.0 EUR (original: 220.0 EUR) (50.45 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41SbjtcBqzL._SL200_.jpg)](https://www.amazon.fr/dp/B078VGLCHG/?tag=redken012-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B078VGLCHG/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B078VGLCHG/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
