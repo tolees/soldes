@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY SSD7CS900-120-PB Disque Flash SSD in al 33.34 % de descuento'
-date: 2020-11-24 16:51:13
+date: 2020-11-25 16:55:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OPxD-Vv3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OPxD-Vv3L._SL200_.jpg' ]
 comments: true
