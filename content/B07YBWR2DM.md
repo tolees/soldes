@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Carte Noire Café Ristretto - 96 capsules al 33.99 % de descuento'
-date: 2020-11-07 08:26:27
+date: 2020-11-25 20:22:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/5163jVAdohL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5163jVAdohL._SL200_.jpg' ]
 comments: true
@@ -14,7 +14,7 @@ comparePrice: 21.95 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Carte Noire Café Ristretto - 96 capsules  6 packs de 16  compatibles Dolce Gusto®*](https://www.amazon.fr/dp/B07YBWR2DM/?tag=redken012-21) a 14.49 EUR (original: 21.95 EUR) (33.99 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Carte Noire Café Ristretto - 96 capsules  6 packs de 16  compatibles Dolce Gusto](https://www.amazon.fr/dp/B07YBWR2DM/?tag=redken012-21) a 14.49 EUR (original: 21.95 EUR) (33.99 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5163jVAdohL._SL200_.jpg)](https://www.amazon.fr/dp/B07YBWR2DM/?tag=redken012-21)
 
