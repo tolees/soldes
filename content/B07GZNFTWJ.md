@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.06 % en Klorofil- Jouet D éveil  700200  Multico'
-date: 2020-11-23 16:51:31
+date: 2020-11-24 23:07:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sY0VEBJDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sY0VEBJDL._SL200_.jpg' ]
 comments: true
