@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Millet - Super Trident GTX M - Chaussure al 44.01 % de descuento'
-date: 2020-11-23 22:39:03
+date: 2020-11-25 03:00:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41D6CZV3e4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41D6CZV3e4L._SL200_.jpg' ]
 comments: true
