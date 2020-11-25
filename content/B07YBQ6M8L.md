@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JBL Flip Essential - Enceinte Bluetooth  al 31.00 % de descuento'
-date: 2020-11-24 10:42:34
+date: 2020-11-25 11:11:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FcG3q3rqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FcG3q3rqL._SL200_.jpg' ]
 comments: true
