@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.22 % en Paladone PP5852PS Mini Lampe  75 W  Mult'
-date: 2020-11-24 16:58:06
+date: 2020-11-25 17:01:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+J0iZPenL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+J0iZPenL._SL200_.jpg' ]
 comments: true
