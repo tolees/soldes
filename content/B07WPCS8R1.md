@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 69.61 % en Homealexa Jouet Montessori Géoboard en B'
-date: 2020-11-25 17:10:48
+date: 2020-11-26 17:19:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CH3G7g1jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CH3G7g1jL._SL200_.jpg' ]
 comments: true

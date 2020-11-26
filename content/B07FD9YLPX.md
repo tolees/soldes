@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KRONENKRAFT Set d accessoires de cuisine al 43.19 % de descuento'
-date: 2020-11-25 16:54:50
+date: 2020-11-26 17:34:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/51c9sTlJ9KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51c9sTlJ9KL._SL200_.jpg' ]
 comments: true
