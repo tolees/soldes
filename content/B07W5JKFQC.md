@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.01 % en Logitech G203 LIGHTSYNC Souris Gaming av'
-date: 2020-11-24 02:36:05
+date: 2020-11-27 08:58:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41zEY42v1tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41zEY42v1tL._SL200_.jpg' ]
 comments: true
