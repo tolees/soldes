@@ -14,11 +14,11 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The Legend of Heroes: Trails of Cold Steel 2](https://www.amazon.fr/dp/B07M7VP6YX/?tag=redken012-21) a 27.88 EUR (original: 39.99 EUR) (30.28 %  de descuento) en el siguiente enlace!
+Está [The Legend of Heroes: Trails of Cold Steel 2](https://www.amazon.fr/dp/B07M7VP6YX/?tag=redken012-21) con 30.28 de descuento por 27.88 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51ePVOs48oL._SL200_.jpg)](https://www.amazon.fr/dp/B07M7VP6YX/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07M7VP6YX/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07M7VP6YX/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
