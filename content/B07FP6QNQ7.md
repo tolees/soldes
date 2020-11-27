@@ -14,11 +14,11 @@ comparePrice: 169.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [LEGO® Technic Porsche 911 RSR Jeu voiture  10 Ans et Plus  1580 Pièces 42096](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=redken012-21) a 119.99 EUR (original: 169.99 EUR) (29.41 %  de descuento) en el siguiente enlace!
+Está [LEGO® Technic Porsche 911 RSR Jeu voiture  10 Ans et Plus  1580 Pièces 42096](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=redken012-21) con 29.41 de descuento por 119.99 EUR (original: 169.99 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL200_.jpg)](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=redken012-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
