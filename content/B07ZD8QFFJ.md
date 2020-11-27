@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.67 % en CHiQ L32H7N HD Smart TV  32 Pouces  WiFi'
-date: 2020-11-26 11:31:06
+date: 2020-11-27 12:00:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TBKrfQ1QL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TBKrfQ1QL._SL200_.jpg' ]
 comments: true
