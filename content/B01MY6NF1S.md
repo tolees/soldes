@@ -14,11 +14,11 @@ comparePrice: 30.0 EUR
 inStock: true
 ---
 
-Está [Telemann/The Collection 13cd](https://www.amazon.fr/dp/B01MY6NF1S/?tag=redken012-21) con 30.00 de descuento por 21.0 EUR (original: 30.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Telemann/The Collection 13cd](https://www.amazon.fr/dp/B01MY6NF1S/?tag=redken012-21) a 21.0 EUR (original: 30.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51emmmnNP8L._SL200_.jpg)](https://www.amazon.fr/dp/B01MY6NF1S/?tag=redken012-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01MY6NF1S/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B01MY6NF1S/?tag=redken012-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
