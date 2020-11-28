@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 37.42 % en Sony Xperia 5 Smartphone débloqué 4G  Ec'
-date: 2020-11-26 17:23:14
+title: 'Descuento del 37.55 % en Sony Xperia 5 Smartphone débloqué 4G  Ec'
+date: 2020-11-27 23:57:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07WZG6MHF
 description:
-actualPrice: 500.0 EUR
+actualPrice: 499.0 EUR
 comparePrice: 799.0 EUR
 inStock: true
 ---
 
-Tienes [Sony Xperia 5 Smartphone débloqué 4G  Ecran 21: 9 Cinemawide OLED de 6  1" 128 Go Double SIM Android Pie   Noir](https://www.amazon.fr/dp/B07WZG6MHF/?tag=redken012-21) con un 37.42 % de descuento con precio de oferta de 500.0 EUR (original: 799.0 EUR) en el siguiente enlace!
+Tienes [Sony Xperia 5 Smartphone débloqué 4G  Ecran 21: 9 Cinemawide OLED de 6  1" 128 Go Double SIM Android Pie   Noir](https://www.amazon.fr/dp/B07WZG6MHF/?tag=redken012-21) con un 37.55 % de descuento con precio de oferta de 499.0 EUR (original: 799.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg)](https://www.amazon.fr/dp/B07WZG6MHF/?tag=redken012-21)
 
