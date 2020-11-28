@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASTRO Gaming A40 TR Casque Gamer + MixAm al 30.11 % de descuento'
-date: 2020-11-27 17:40:49
+date: 2020-11-28 17:57:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xOimV9WDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xOimV9WDL._SL200_.jpg' ]
 comments: true
