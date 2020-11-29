@@ -14,11 +14,11 @@ comparePrice: 9.6 EUR
 inStock: true
 ---
 
-Tienes [Maybelline New-York - Fond de teint Fluide Fit Me Matte & Poreless - Peaux normales à grasses - Teinte : 118 Nude - 30 ml](https://www.amazon.fr/dp/B077PXNL4N/?tag=redken012-21) con un 37.50 % de descuento con precio de oferta de 6.0 EUR (original: 9.6 EUR) en el siguiente enlace!
+Tienes [Maybelline New-York - Fond de teint Fluide Fit Me Matte & Poreless - Peaux normales à grasses - Teinte : 118 Nude - 30 ml](https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21) con un 37.50 % de descuento con precio de oferta de 6.0 EUR (original: 9.6 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31uqVScXUfL._SL200_.jpg)](https://www.amazon.fr/dp/B077PXNL4N/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/31uqVScXUfL._SL200_.jpg)](https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B077PXNL4N/?tag=redken012-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

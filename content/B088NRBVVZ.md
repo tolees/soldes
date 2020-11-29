@@ -14,11 +14,11 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Está [EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  6 Axes Manette Switch Pro avec Double Moteur Intégré pour Nintendo Switch Pro/Lite et PC  Ciel Étoilé](https://www.amazon.fr/dp/B088NRBVVZ/?tag=redken012-21) con 50.01 de descuento por 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!
+Está [EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  6 Axes Manette Switch Pro avec Double Moteur Intégré pour Nintendo Switch Pro/Lite et PC  Ciel Étoilé](https://www.amazon.fr/dp/B088NRBVVZ/?tag=tolees0d-21) con 50.01 de descuento por 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51CG6NW578L._SL200_.jpg)](https://www.amazon.fr/dp/B088NRBVVZ/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/51CG6NW578L._SL200_.jpg)](https://www.amazon.fr/dp/B088NRBVVZ/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B088NRBVVZ/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B088NRBVVZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

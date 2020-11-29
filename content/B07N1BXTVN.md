@@ -14,11 +14,11 @@ comparePrice: 180.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Sebago DAN Waxy Polaris  Mocassins  Loafer  Hommes  Marron  DK Brown 901   39 EU](https://www.amazon.fr/dp/B07N1BXTVN/?tag=redken012-21) a 69.77 EUR (original: 180.0 EUR) (61.24 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Sebago DAN Waxy Polaris  Mocassins  Loafer  Hommes  Marron  DK Brown 901   39 EU](https://www.amazon.fr/dp/B07N1BXTVN/?tag=tolees0d-21) a 69.77 EUR (original: 180.0 EUR) (61.24 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31I927u01xL._SL200_.jpg)](https://www.amazon.fr/dp/B07N1BXTVN/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/31I927u01xL._SL200_.jpg)](https://www.amazon.fr/dp/B07N1BXTVN/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07N1BXTVN/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07N1BXTVN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

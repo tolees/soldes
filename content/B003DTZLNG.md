@@ -14,11 +14,11 @@ comparePrice: 139.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [COGNAC CAMUS XO Elégance - 70cl 40° - Maison Indépendante Depuis 1863](https://www.amazon.fr/dp/B003DTZLNG/?tag=redken012-21) a 89.9 EUR (original: 139.0 EUR) (35.32 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [COGNAC CAMUS XO Elégance - 70cl 40° - Maison Indépendante Depuis 1863](https://www.amazon.fr/dp/B003DTZLNG/?tag=tolees0d-21) a 89.9 EUR (original: 139.0 EUR) (35.32 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41NuK6H1EoL._SL200_.jpg)](https://www.amazon.fr/dp/B003DTZLNG/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/41NuK6H1EoL._SL200_.jpg)](https://www.amazon.fr/dp/B003DTZLNG/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B003DTZLNG/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B003DTZLNG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

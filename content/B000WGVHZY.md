@@ -14,11 +14,11 @@ comparePrice: 11.99 EUR
 inStock: true
 ---
 
-Está [Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenne Blanc](https://www.amazon.fr/dp/B000WGVHZY/?tag=redken012-21) con 40.87 de descuento por 7.09 EUR (original: 11.99 EUR) en el siguiente enlace!
+Está [Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenne Blanc](https://www.amazon.fr/dp/B000WGVHZY/?tag=tolees0d-21) con 40.87 de descuento por 7.09 EUR (original: 11.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41P1L4gA8aL._SL200_.jpg)](https://www.amazon.fr/dp/B000WGVHZY/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/41P1L4gA8aL._SL200_.jpg)](https://www.amazon.fr/dp/B000WGVHZY/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B000WGVHZY/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B000WGVHZY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

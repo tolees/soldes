@@ -14,11 +14,11 @@ comparePrice: 80.26 EUR
 inStock: true
 ---
 
-Tienes [The Mentalist-L intégrale de la série](https://www.amazon.fr/dp/B07T2H6SWX/?tag=redken012-21) con un 32.73 % de descuento con precio de oferta de 53.99 EUR (original: 80.26 EUR) en el siguiente enlace!
+Tienes [The Mentalist-L intégrale de la série](https://www.amazon.fr/dp/B07T2H6SWX/?tag=tolees0d-21) con un 32.73 % de descuento con precio de oferta de 53.99 EUR (original: 80.26 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/411mQWWigZL._SL200_.jpg)](https://www.amazon.fr/dp/B07T2H6SWX/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/411mQWWigZL._SL200_.jpg)](https://www.amazon.fr/dp/B07T2H6SWX/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07T2H6SWX/?tag=redken012-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B07T2H6SWX/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

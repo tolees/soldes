@@ -14,11 +14,11 @@ comparePrice: 15.05 EUR
 inStock: true
 ---
 
-Tienes [Taxi [Blu-Ray]](https://www.amazon.fr/dp/B00DNJNFCK/?tag=redken012-21) con un 33.69 % de descuento con precio de oferta de 9.98 EUR (original: 15.05 EUR) en el siguiente enlace!
+Tienes [Taxi [Blu-Ray]](https://www.amazon.fr/dp/B00DNJNFCK/?tag=tolees0d-21) con un 33.69 % de descuento con precio de oferta de 9.98 EUR (original: 15.05 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51aUiJAbPrL._SL200_.jpg)](https://www.amazon.fr/dp/B00DNJNFCK/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/51aUiJAbPrL._SL200_.jpg)](https://www.amazon.fr/dp/B00DNJNFCK/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00DNJNFCK/?tag=redken012-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B00DNJNFCK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

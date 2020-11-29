@@ -14,11 +14,11 @@ comparePrice: 40.13 EUR
 inStock: true
 ---
 
-Tienes [Remi sans Famille [Blu-Ray]](https://www.amazon.fr/dp/B00TPZUTPW/?tag=redken012-21) con un 25.27 % de descuento con precio de oferta de 29.99 EUR (original: 40.13 EUR) en el siguiente enlace!
+Tienes [Remi sans Famille [Blu-Ray]](https://www.amazon.fr/dp/B00TPZUTPW/?tag=tolees0d-21) con un 25.27 % de descuento con precio de oferta de 29.99 EUR (original: 40.13 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51OHzsDmUdL._SL200_.jpg)](https://www.amazon.fr/dp/B00TPZUTPW/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/51OHzsDmUdL._SL200_.jpg)](https://www.amazon.fr/dp/B00TPZUTPW/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00TPZUTPW/?tag=redken012-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B00TPZUTPW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

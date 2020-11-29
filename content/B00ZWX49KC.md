@@ -14,11 +14,11 @@ comparePrice: 13.01 EUR
 inStock: true
 ---
 
-Tienes [Au Revoir Les Enfants](https://www.amazon.fr/dp/B00ZWX49KC/?tag=redken012-21) con un 30.90 % de descuento con precio de oferta de 8.99 EUR (original: 13.01 EUR) en el siguiente enlace!
+Tienes [Au Revoir Les Enfants](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21) con un 30.90 % de descuento con precio de oferta de 8.99 EUR (original: 13.01 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41FDdedfFlL._SL200_.jpg)](https://www.amazon.fr/dp/B00ZWX49KC/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/41FDdedfFlL._SL200_.jpg)](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00ZWX49KC/?tag=redken012-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

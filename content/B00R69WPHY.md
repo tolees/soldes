@@ -14,11 +14,11 @@ comparePrice: 20.02 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [National Gallery](https://www.amazon.fr/dp/B00R69WPHY/?tag=redken012-21) a 12.36 EUR (original: 20.02 EUR) (38.26 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [National Gallery](https://www.amazon.fr/dp/B00R69WPHY/?tag=tolees0d-21) a 12.36 EUR (original: 20.02 EUR) (38.26 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51eyPrV3guL._SL200_.jpg)](https://www.amazon.fr/dp/B00R69WPHY/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/51eyPrV3guL._SL200_.jpg)](https://www.amazon.fr/dp/B00R69WPHY/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00R69WPHY/?tag=redken012-21)
+[Visítala!!!](https://www.amazon.fr/dp/B00R69WPHY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

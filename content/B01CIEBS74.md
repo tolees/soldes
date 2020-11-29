@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [SanDisk iXpand 64 Go - Clé USB double connectique pour sauvegarde iPhone et iPad](https://www.amazon.fr/dp/B01CIEBS74/?tag=redken012-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Está [SanDisk iXpand 64 Go - Clé USB double connectique pour sauvegarde iPhone et iPad](https://www.amazon.fr/dp/B01CIEBS74/?tag=tolees0d-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41EAYC5RTgL._SL200_.jpg)](https://www.amazon.fr/dp/B01CIEBS74/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/41EAYC5RTgL._SL200_.jpg)](https://www.amazon.fr/dp/B01CIEBS74/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01CIEBS74/?tag=redken012-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01CIEBS74/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

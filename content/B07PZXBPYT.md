@@ -14,11 +14,11 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Tienes [Lansay- Toy Story 4-Woody Personnage Parlant Figurine  64613](https://www.amazon.fr/dp/B07PZXBPYT/?tag=redken012-21) con un 79.49 % de descuento con precio de oferta de 8.2 EUR (original: 39.99 EUR) en el siguiente enlace!
+Tienes [Lansay- Toy Story 4-Woody Personnage Parlant Figurine  64613](https://www.amazon.fr/dp/B07PZXBPYT/?tag=tolees0d-21) con un 79.49 % de descuento con precio de oferta de 8.2 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41WekXNl1OL._SL200_.jpg)](https://www.amazon.fr/dp/B07PZXBPYT/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/41WekXNl1OL._SL200_.jpg)](https://www.amazon.fr/dp/B07PZXBPYT/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07PZXBPYT/?tag=redken012-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B07PZXBPYT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

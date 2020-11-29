@@ -14,11 +14,11 @@ comparePrice: 15.02 EUR
 inStock: true
 ---
 
-Tienes [Selma [Blu-Ray]](https://www.amazon.fr/dp/B00VAEYMJU/?tag=redken012-21) con un 53.53 % de descuento con precio de oferta de 6.98 EUR (original: 15.02 EUR) en el siguiente enlace!
+Tienes [Selma [Blu-Ray]](https://www.amazon.fr/dp/B00VAEYMJU/?tag=tolees0d-21) con un 53.53 % de descuento con precio de oferta de 6.98 EUR (original: 15.02 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51obMWxeQCL._SL200_.jpg)](https://www.amazon.fr/dp/B00VAEYMJU/?tag=redken012-21)
+[![](https://m.media-amazon.com/images/I/51obMWxeQCL._SL200_.jpg)](https://www.amazon.fr/dp/B00VAEYMJU/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00VAEYMJU/?tag=redken012-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B00VAEYMJU/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
