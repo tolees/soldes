@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de LED pour Lego Speed Cham al 40.01 % de descuento'
-date: 2020-11-28 05:52:13
+date: 2020-11-29 06:20:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/519TI6+jlnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/519TI6+jlnL._SL200_.jpg' ]
 comments: true

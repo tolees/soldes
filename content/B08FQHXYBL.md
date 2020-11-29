@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 35.85 % en FIFA 21  Xbox One  - Version Xbox Series'
-date: 2020-11-28 05:56:32
+date: 2020-11-29 06:13:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DX47Ry9jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DX47Ry9jL._SL200_.jpg' ]
 comments: true

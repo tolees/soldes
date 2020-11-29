@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Crucial CT1000X8SSD9 X8 1To Portable SSD al 31.44 % de descuento'
-date: 2020-11-28 05:54:37
+date: 2020-11-29 06:11:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dqRycAe3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dqRycAe3L._SL200_.jpg' ]
 comments: true
