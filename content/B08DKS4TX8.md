@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en Montre Connectée Homme Femme  GPS Montre'
-date: 2020-11-28 06:02:21
+date: 2020-11-29 12:33:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HVHiah7OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HVHiah7OL._SL200_.jpg' ]
 comments: true
