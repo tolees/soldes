@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.01 % en SanDisk Extreme Portable SSD 1TB - Disqu'
-date: 2020-11-28 18:06:50
+date: 2020-11-29 18:22:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg' ]
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'John Wick-La Trilogie [Blu-Ray] al 30.24 % de descuento'
-date: 2020-11-28 05:54:48
+date: 2020-11-29 18:23:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oiGL6lwpL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oiGL6lwpL._SL200_.jpg' ]
 comments: true
