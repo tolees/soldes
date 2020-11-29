@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-EX110LPW Ecouteurs Intra-auricu al 38.00 % de descuento'
-date: 2020-11-27 23:48:25
+date: 2020-11-28 23:55:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/311gW2Un+BL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311gW2Un+BL._SL200_.jpg' ]
 comments: true
