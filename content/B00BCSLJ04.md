@@ -14,11 +14,11 @@ comparePrice: 14.99 EUR
 inStock: true
 ---
 
-Está [PHILIPS - SC5992/10 - Brosse de rechange VisaPure spéciale exfoliation](https://www.amazon.fr/dp/B00BCSLJ04/?tag=tolees0d-21) con 66.71 de descuento por 4.99 EUR (original: 14.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [PHILIPS - SC5992/10 - Brosse de rechange VisaPure spéciale exfoliation](https://www.amazon.fr/dp/B00BCSLJ04/?tag=tolees0d-21) a 4.99 EUR (original: 14.99 EUR) (66.71 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31SnIkCRHaL._SL200_.jpg)](https://www.amazon.fr/dp/B00BCSLJ04/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B00BCSLJ04/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B00BCSLJ04/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
