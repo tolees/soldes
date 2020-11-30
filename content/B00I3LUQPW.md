@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 38.54 % en Sony MDR-EX15LPB Ecouteurs Intra-auricul'
-date: 2020-11-29 18:21:16
+date: 2020-11-30 18:27:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Jx5cwJOXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Jx5cwJOXL._SL200_.jpg' ]
 comments: true

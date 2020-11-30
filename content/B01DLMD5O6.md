@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SEL 50-F18F Objectif 50 mm Ouvertur al 54.85 % de descuento'
-date: 2020-11-29 18:32:44
+date: 2020-11-30 18:34:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg' ]
 comments: true
