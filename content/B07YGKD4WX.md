@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Gloria Vanderbilt Coffret Eau de Toilett al 37.12 % de descuento'
-date: 2020-11-30 12:37:06
+date: 2020-12-01 12:46:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n+o72LnZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n+o72LnZL._SL200_.jpg' ]
 comments: true
