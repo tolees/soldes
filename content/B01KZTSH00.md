@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Calor Pro Express Care Centrale Vapeur H al 45.23 % de descuento'
-date: 2020-11-20 19:31:03
+date: 2020-12-01 08:38:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ar+E8UiFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ar+E8UiFL._SL200_.jpg' ]
 comments: true
