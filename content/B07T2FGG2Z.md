@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WF-1000XM3 Écouteurs sans fil Bluet al 32.40 % de descuento'
-date: 2020-11-30 06:46:14
+date: 2020-12-01 19:10:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KhlRJN1JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KhlRJN1JL._SL200_.jpg' ]
 comments: true

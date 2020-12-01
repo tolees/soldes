@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-1000XM3 Casque Bluetooth à réduc al 34.46 % de descuento'
-date: 2020-11-30 12:39:06
+date: 2020-12-01 19:12:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg' ]
 comments: true
