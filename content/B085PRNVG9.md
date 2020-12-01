@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 68.47 % en Sedhoom Mandoline de Cuisine  6 en 1 Man'
-date: 2020-11-30 00:22:59
+date: 2020-12-01 00:39:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pc9sKLK5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pc9sKLK5L._SL200_.jpg' ]
 comments: true

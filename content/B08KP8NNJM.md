@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enceinte Bluetooth  Zamkol Enceinte sans al 33.34 % de descuento'
-date: 2020-11-30 00:35:26
+date: 2020-12-01 00:45:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41n99kDBM1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41n99kDBM1L._SL200_.jpg' ]
 comments: true
