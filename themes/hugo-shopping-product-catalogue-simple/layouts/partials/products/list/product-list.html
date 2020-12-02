@@ -1,6 +1,9 @@
 <header>
     <h1 class="text-center">{{ .Site.Title }}</h1>
-    {{ with .Site.Params.description }}<h4 class="text-center">{{ . }} <a href='https://t.me/soldeszone'>https://t.me/soldeszone</a></h4>{{ end }}
+    <h4 class="text-center">
+        {{ with .Site.Params.description }}{{ . }}{{ end }}
+        {{ with .Site.Params.channel }}<a href='{{ . }}'>{{ . }}</a>{{ end }}
+    </h4>
 </header>
 <article class="container-fluid">
     <div class="row">

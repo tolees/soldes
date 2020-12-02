@@ -2,8 +2,10 @@ baseURL = "https://soldes.tole.es"
 languageCode = "es-es"
 title = "Soldes pour vôtre famile!"
 theme = "hugo-shopping-product-catalogue-simple"
+
 [Params]
 description = "Soldes"
+channel = "https://t.me/s/soldeszone"
 
 [sitemap]
   changefreq = "daily"
