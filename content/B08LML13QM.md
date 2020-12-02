@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kit de manettes de contrôleur 8 en 1 pou al 31.60 % de descuento'
-date: 2020-11-28 06:01:51
+date: 2020-12-02 00:52:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TkdEZNuHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TkdEZNuHL._SL200_.jpg' ]
 comments: true
