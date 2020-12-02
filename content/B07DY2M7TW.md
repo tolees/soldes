@@ -14,11 +14,11 @@ comparePrice: 19.99 EUR
 inStock: true
 ---
 
-Está [InFamous: Second Son HITS](https://www.amazon.fr/dp/B07DY2M7TW/?tag=tolees0d-21) con 50.48 de descuento por 9.9 EUR (original: 19.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [InFamous: Second Son HITS](https://www.amazon.fr/dp/B07DY2M7TW/?tag=tolees0d-21) a 9.9 EUR (original: 19.99 EUR) (50.48 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/619f9K+OQDL._SL200_.jpg)](https://www.amazon.fr/dp/B07DY2M7TW/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07DY2M7TW/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07DY2M7TW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
