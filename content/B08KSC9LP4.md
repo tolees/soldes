@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HardGlas Galaxy S10 Film Protection Ecra al 38.93 % de descuento'
-date: 2020-12-01 06:41:44
+date: 2020-12-02 06:57:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41iLHLJ2QDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41iLHLJ2QDL._SL200_.jpg' ]
 comments: true
