@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 36.20 % en Levi s GRAPHIC SET-IN NECK  T-Shirt Homm'
-date: 2020-12-02 13:01:42
+date: 2020-12-03 13:14:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg' ]
 comments: true

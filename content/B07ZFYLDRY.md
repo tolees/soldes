@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.27 % en CHiQ U50H7L UHD 4K Smart TV  50 Pouces 1'
-date: 2020-12-02 13:05:27
+date: 2020-12-03 13:09:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kMLdl7yeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kMLdl7yeL._SL200_.jpg' ]
 comments: true

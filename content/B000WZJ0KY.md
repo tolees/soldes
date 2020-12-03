@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Mauboussin - Eau de Parfum Femme - L Ori al 71.33 % de descuento'
-date: 2020-12-02 06:43:58
+title: 'Mauboussin - Eau de Parfum Femme - L Ori al 71.51 % de descuento'
+date: 2020-12-03 13:11:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41up+DHewGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41up+DHewGL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B000WZJ0KY
 description:
-actualPrice: 22.65 EUR
+actualPrice: 22.51 EUR
 comparePrice: 79.0 EUR
 inStock: true
 ---
 
-Está [Mauboussin - Eau de Parfum Femme - L Original Femme - Senteur Orientale & Fruitée - 100ml](https://www.amazon.fr/dp/B000WZJ0KY/?tag=tolees0d-21) con 71.33 de descuento por 22.65 EUR (original: 79.0 EUR) en el siguiente enlace!
+Está [Mauboussin - Eau de Parfum Femme - L Original Femme - Senteur Orientale & Fruitée - 100ml](https://www.amazon.fr/dp/B000WZJ0KY/?tag=tolees0d-21) con 71.51 de descuento por 22.51 EUR (original: 79.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41up+DHewGL._SL200_.jpg)](https://www.amazon.fr/dp/B000WZJ0KY/?tag=tolees0d-21)
 

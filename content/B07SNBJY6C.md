@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VicTsing Transmetteur FM Bluetooth V5.0  al 27.32 % de descuento'
-date: 2020-12-02 13:05:40
+date: 2020-12-03 13:13:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Q7CNL3rGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Q7CNL3rGL._SL200_.jpg' ]
 comments: true
