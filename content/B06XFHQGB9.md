@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung MB-MC128GA/EU Carte mémoire Micr al 77.08 % de descuento'
-date: 2020-12-02 19:09:31
+date: 2020-12-03 19:21:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41f-m6Y-3WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41f-m6Y-3WL._SL200_.jpg' ]
 comments: true
