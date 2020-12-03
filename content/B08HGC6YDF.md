@@ -14,11 +14,11 @@ comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Está [Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51sPFdwaNVL._SL200_.jpg)](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
