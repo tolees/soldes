@@ -14,11 +14,11 @@ comparePrice: 50.0 EUR
 inStock: true
 ---
 
-Está [Lacoste Sport T-shirt  Homme  TH0123  Noir  S](https://www.amazon.fr/dp/B071L7VDVM/?tag=tolees0d-21) con 40.30 de descuento por 29.85 EUR (original: 50.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste Sport T-shirt  Homme  TH0123  Noir  S](https://www.amazon.fr/dp/B071L7VDVM/?tag=tolees0d-21) a 29.85 EUR (original: 50.0 EUR) (40.30 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dqoFne9SL._SL200_.jpg)](https://www.amazon.fr/dp/B071L7VDVM/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B071L7VDVM/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B071L7VDVM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
