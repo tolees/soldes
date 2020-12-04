@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.58 % en Xiaomi Redmi Note 8 Pro - Smartphone Déb'
-date: 2020-12-03 07:16:29
+date: 2020-12-04 07:41:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tuRUGIZ-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tuRUGIZ-L._SL200_.jpg' ]
 comments: true

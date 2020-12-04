@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 37.24 % en Finish Protecteur de Lave-Vaisselle Anti'
-date: 2020-12-03 07:09:02
+date: 2020-12-04 07:31:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LfCNSjlaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LfCNSjlaL._SL200_.jpg' ]
 comments: true
