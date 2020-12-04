@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMRON M7 IT Tensiomètre Électronique  Br al 49.96 % de descuento'
-date: 2020-11-20 17:02:49
+date: 2020-12-04 15:15:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/416312OaoUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416312OaoUL._SL200_.jpg' ]
 comments: true
