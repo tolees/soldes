@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.00 % en DANIEL HECHTER Ecrin Collection Couture '
-date: 2020-12-03 13:09:24
+date: 2020-12-04 14:31:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41e8lX6xMaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41e8lX6xMaL._SL200_.jpg' ]
 comments: true
