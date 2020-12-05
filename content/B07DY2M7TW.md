@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'InFamous: Second Son HITS al 50.48 % de descuento'
-date: 2020-11-29 08:10:26
+date: 2020-12-05 06:31:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/619f9K+OQDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/619f9K+OQDL._SL200_.jpg' ]
 comments: true
