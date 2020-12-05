@@ -14,11 +14,11 @@ comparePrice: 200.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cole Haan Zerogrand Wingtip Oxford  Richelieus homme   British Tan Leather/Java British Tan/Java   42 EU](https://www.amazon.fr/dp/B079MLKHC2/?tag=tolees0d-21) a 66.95 EUR (original: 200.0 EUR) (66.53 %  de descuento) en el siguiente enlace!
+Está [Cole Haan Zerogrand Wingtip Oxford  Richelieus homme   British Tan Leather/Java British Tan/Java   42 EU](https://www.amazon.fr/dp/B079MLKHC2/?tag=tolees0d-21) con 66.53 de descuento por 66.95 EUR (original: 200.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41T56pUYj1L._SL200_.jpg)](https://www.amazon.fr/dp/B079MLKHC2/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B079MLKHC2/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B079MLKHC2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Mauboussin - Eau de Parfum Homme - Pour  al 68.09 % de descuento'
-date: 2020-11-20 02:48:06
+title: 'Mauboussin - Eau de Parfum Homme - Pour  al 59.00 % de descuento'
+date: 2020-12-05 02:24:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mUx2mK3PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mUx2mK3PL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B00BAXITEU
 description:
-actualPrice: 24.25 EUR
+actualPrice: 31.16 EUR
 comparePrice: 76.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Moderne - 100ml](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21) a 24.25 EUR (original: 76.0 EUR) (68.09 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Moderne - 100ml](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21) a 31.16 EUR (original: 76.0 EUR) (59.00 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41mUx2mK3PL._SL200_.jpg)](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21)
 
