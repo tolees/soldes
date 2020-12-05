@@ -14,11 +14,11 @@ comparePrice: 12.63 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [SuperZings PSZ5D068IN00 Series 5 Sky Racer](https://www.amazon.fr/dp/B083ZSCFQV/?tag=tolees0d-21) a 9.36 EUR (original: 12.63 EUR) (25.89 %  de descuento) en el siguiente enlace!
+Está [SuperZings PSZ5D068IN00 Series 5 Sky Racer](https://www.amazon.fr/dp/B083ZSCFQV/?tag=tolees0d-21) con 25.89 de descuento por 9.36 EUR (original: 12.63 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/41dxHk7FHKL._SL200_.jpg)](https://www.amazon.fr/dp/B083ZSCFQV/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B083ZSCFQV/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B083ZSCFQV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
