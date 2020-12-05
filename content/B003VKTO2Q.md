@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Barbie-La Magie de la Mode al 30.00 % de descuento'
-date: 2020-12-03 19:21:18
+date: 2020-12-05 15:03:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qM1PSbqDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qM1PSbqDL._SL200_.jpg' ]
 comments: true
