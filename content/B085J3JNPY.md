@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'David Jones - Petit Sac Bandoulière Croc al 34.79 % de descuento'
-date: 2020-12-04 07:37:47
+date: 2020-12-05 08:37:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/412abHfyWgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412abHfyWgL._SL200_.jpg' ]
 comments: true

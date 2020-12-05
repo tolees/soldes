@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 47.33 % en Sony WF-XB700 Ecouteurs Bluetooth sans F'
-date: 2020-12-04 07:28:58
+date: 2020-12-05 09:09:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ATCxtDIdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ATCxtDIdL._SL200_.jpg' ]
 comments: true
