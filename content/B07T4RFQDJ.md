@@ -14,11 +14,11 @@ comparePrice: 25.07 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Clint Eastwood-Coffret 7 DVD](https://www.amazon.fr/dp/B07T4RFQDJ/?tag=tolees0d-21) a 12.5 EUR (original: 25.07 EUR) (50.14 %  de descuento) en el siguiente enlace!
+Está [Clint Eastwood-Coffret 7 DVD](https://www.amazon.fr/dp/B07T4RFQDJ/?tag=tolees0d-21) con 50.14 de descuento por 12.5 EUR (original: 25.07 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51Qfdkt7bxL._SL200_.jpg)](https://www.amazon.fr/dp/B07T4RFQDJ/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07T4RFQDJ/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07T4RFQDJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

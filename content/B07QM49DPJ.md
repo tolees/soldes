@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Vinyl Collection: Vol. 2 al 29.65 % de descuento'
-date: 2020-11-17 11:27:52
+date: 2020-12-05 17:28:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hhvA4DyDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hhvA4DyDL._SL200_.jpg' ]
 comments: true
