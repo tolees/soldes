@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'MICHELIN 009555 Cric Hydraulique Rouleur al 31.55 % de descuento'
-date: 2020-11-22 15:36:45
+date: 2020-12-06 16:08:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O1+YpxO1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O1+YpxO1L._SL200_.jpg' ]
 comments: true
