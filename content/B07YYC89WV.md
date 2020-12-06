@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SNAPTAIN SP500 Drone avec Caméra GPS 108 al 46.00 % de descuento'
-date: 2020-12-05 08:57:00
+date: 2020-12-06 14:50:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YdPJkcPKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YdPJkcPKL._SL200_.jpg' ]
 comments: true
