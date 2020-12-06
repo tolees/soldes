@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.01 % en Vernis Semi Permanent  Abody 43 Vernis à'
-date: 2020-12-05 02:40:44
+date: 2020-12-06 02:51:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QsAnaFe3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QsAnaFe3L._SL200_.jpg' ]
 comments: true
