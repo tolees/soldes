@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 34.51 % en Sun Tablettes Lave-Vaisselle Classique F'
-date: 2020-12-05 15:08:17
+date: 2020-12-06 20:59:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eClTYE8dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eClTYE8dL._SL200_.jpg' ]
 comments: true

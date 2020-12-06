@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.01 % en New Balance femme 574v2 Core Sneakers Ba'
-date: 2020-11-26 09:48:36
+date: 2020-12-06 20:34:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL200_.jpg' ]
 comments: true
