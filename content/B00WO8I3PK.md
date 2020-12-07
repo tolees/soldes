@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Casque PLIABLE Plixi pour vélo  trottine al 36.69 % de descuento'
-date: 2020-12-06 06:47:45
+date: 2020-12-07 13:05:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41TL-b8gN1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41TL-b8gN1L._SL200_.jpg' ]
 comments: true

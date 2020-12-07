@@ -14,11 +14,11 @@ comparePrice: 20.79 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Facom 113 A.8T – Clé en phosphate 8p](https://www.amazon.fr/dp/B00B1C0ZMY/?tag=tolees0d-21) a 13.34 EUR (original: 20.79 EUR) (35.83 %  de descuento) en el siguiente enlace!
+Está [Facom 113 A.8T – Clé en phosphate 8p](https://www.amazon.fr/dp/B00B1C0ZMY/?tag=tolees0d-21) con 35.83 de descuento por 13.34 EUR (original: 20.79 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/317EEAnCL+L._SL200_.jpg)](https://www.amazon.fr/dp/B00B1C0ZMY/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00B1C0ZMY/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00B1C0ZMY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
