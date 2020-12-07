@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'David Jones - Sac à Main Femme Bugatti - al 25.01 % de descuento'
-date: 2020-12-06 08:49:41
+date: 2020-12-07 08:52:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rrFcgliuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rrFcgliuL._SL200_.jpg' ]
 comments: true
