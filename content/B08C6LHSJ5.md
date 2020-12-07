@@ -14,11 +14,11 @@ comparePrice: 79.99 EUR
 inStock: true
 ---
 
-Está [Années 1980-4 Films Collection : Les Goonies + Gremlins + Beetlejuice + Ready Player One [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B08C6LHSJ5/?tag=tolees0d-21) con 43.76 de descuento por 44.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Années 1980-4 Films Collection : Les Goonies + Gremlins + Beetlejuice + Ready Player One [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B08C6LHSJ5/?tag=tolees0d-21) a 44.99 EUR (original: 79.99 EUR) (43.76 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/5150ggUKrIL._SL200_.jpg)](https://www.amazon.fr/dp/B08C6LHSJ5/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B08C6LHSJ5/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B08C6LHSJ5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
