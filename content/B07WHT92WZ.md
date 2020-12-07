@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fossil Homme Écran Tactile Digital Montr al 46.82 % de descuento'
-date: 2020-12-01 09:30:00
+date: 2020-12-07 11:38:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/318LcIR9MGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318LcIR9MGL._SL200_.jpg' ]
 comments: true
