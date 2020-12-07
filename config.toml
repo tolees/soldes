@@ -6,6 +6,8 @@ theme = "hugo-shopping-product-catalogue-simple"
 [Params]
 description = "Soldes"
 channel = "https://t.me/s/soldeszone"
+ga = "G-B78Y62XVYL"
+yandex = ""
 
 [sitemap]
   changefreq = "daily"
