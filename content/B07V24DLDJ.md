@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko- Pop Funkoverse: Battle in The Wiz al 40.01 % de descuento'
-date: 2020-12-06 08:54:11
+title: 'Funko- Pop Funkoverse: Battle in The Wiz al 49.99 % de descuento'
+date: 2020-12-07 15:07:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51DmX1NVLaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51DmX1NVLaL._SL200_.jpg' ]
 comments: true
@@ -9,12 +9,12 @@ category: ofertas
 author: ring
 slug: B07V24DLDJ
 description:
-actualPrice: 29.99 EUR
+actualPrice: 25.0 EUR
 comparePrice: 49.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Funko- Pop Funkoverse: Battle in The Wizarding World Board Game  43476  Multi Colour](https://www.amazon.fr/dp/B07V24DLDJ/?tag=tolees0d-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Funko- Pop Funkoverse: Battle in The Wizarding World Board Game  43476  Multi Colour](https://www.amazon.fr/dp/B07V24DLDJ/?tag=tolees0d-21) a 25.0 EUR (original: 49.99 EUR) (49.99 %  de descuento) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/51DmX1NVLaL._SL200_.jpg)](https://www.amazon.fr/dp/B07V24DLDJ/?tag=tolees0d-21)
 

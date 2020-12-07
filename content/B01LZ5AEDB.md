@@ -14,11 +14,11 @@ comparePrice: 299.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Olympus M.Zuiko Objectif macro Digital ED 30mm F3.5  adapté à tous les appareils MFT  Olympus OM-D & PEN  modèles Panasonic série G   noir](https://www.amazon.fr/dp/B01LZ5AEDB/?tag=tolees0d-21) a 150.99 EUR (original: 299.0 EUR) (49.50 %  de descuento) en el siguiente enlace!
+Está [Olympus M.Zuiko Objectif macro Digital ED 30mm F3.5  adapté à tous les appareils MFT  Olympus OM-D & PEN  modèles Panasonic série G   noir](https://www.amazon.fr/dp/B01LZ5AEDB/?tag=tolees0d-21) con 49.50 de descuento por 150.99 EUR (original: 299.0 EUR) en el siguiente enlace!
 
 [![](https://m.media-amazon.com/images/I/31di8QGP9BL._SL200_.jpg)](https://www.amazon.fr/dp/B01LZ5AEDB/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01LZ5AEDB/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01LZ5AEDB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
