@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.04 % en Nikon AF-S Nikkor Objectif 24 mm f/1 8'
+title: 'Nikon AF-S Nikkor Objectif 24 mm f/1 8 al 30.04 % de descuento'
 date: 2020-09-24 17:27:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/412MzAw6NCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412MzAw6NCL._SL200_.jpg' ]
@@ -14,11 +14,11 @@ comparePrice: 849.0 EUR
 inStock: true
 ---
 
-Tienes [Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21) con un 30.04 % de descuento con precio de oferta de 594.0 EUR (original: 849.0 EUR) en el siguiente enlace!
+Está [Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21) con 30.04 de descuento por 594.0 EUR (original: 849.0 EUR) en el siguiente enlace!
 
 [![Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://m.media-amazon.com/images/I/412MzAw6NCL._SL200_.jpg)](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
