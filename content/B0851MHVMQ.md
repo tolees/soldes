@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Operation Peur  Baby Kill  [Édition Collector Blu-Ray + DVD + Livret]](https://www.amazon.fr/dp/B0851MHVMQ/?tag=tolees0d-21) a 19.24 EUR (original: 30.04 EUR) (35.95 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51crQX2wKEL._SL200_.jpg)](https://www.amazon.fr/dp/B0851MHVMQ/?tag=tolees0d-21)
+[![Operation Peur  Baby Kill  [Édition Coll](https://m.media-amazon.com/images/I/51crQX2wKEL._SL200_.jpg)](https://www.amazon.fr/dp/B0851MHVMQ/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B0851MHVMQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

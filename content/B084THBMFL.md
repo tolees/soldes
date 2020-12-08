@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Marvel s Avengers Deluxe Edition  PS4 ](https://www.amazon.fr/dp/B084THBMFL/?tag=tolees0d-21) a 44.94 EUR (original: 89.99 EUR) (50.06 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51AG8H8X7PL._SL200_.jpg)](https://www.amazon.fr/dp/B084THBMFL/?tag=tolees0d-21)
+[![Marvel s Avengers Deluxe Edition  PS4 ](https://m.media-amazon.com/images/I/51AG8H8X7PL._SL200_.jpg)](https://www.amazon.fr/dp/B084THBMFL/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B084THBMFL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

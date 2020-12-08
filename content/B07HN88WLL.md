@@ -16,10 +16,10 @@ inStock: true
 
 Está [8-Bit Armies - Limited Edition](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21) con 45.96 de descuento por 37.82 EUR (original: 69.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Nj61tdhnL._SL200_.jpg)](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21)
+[![8-Bit Armies - Limited Edition](https://m.media-amazon.com/images/I/41Nj61tdhnL._SL200_.jpg)](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

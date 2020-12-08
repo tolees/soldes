@@ -16,10 +16,10 @@ inStock: true
 
 Está [Gloria Vanderbilt Coffret Eau de Toilette et déodorant - Le coffret](https://www.amazon.fr/dp/B07YGKD4WX/?tag=tolees0d-21) con 37.12 de descuento por 10.25 EUR (original: 16.3 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41n+o72LnZL._SL200_.jpg)](https://www.amazon.fr/dp/B07YGKD4WX/?tag=tolees0d-21)
+[![Gloria Vanderbilt Coffret Eau de Toilett](https://m.media-amazon.com/images/I/41n+o72LnZL._SL200_.jpg)](https://www.amazon.fr/dp/B07YGKD4WX/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07YGKD4WX/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

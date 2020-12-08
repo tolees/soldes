@@ -16,10 +16,10 @@ inStock: true
 
 Está [tado° Tête Thermostatique Intelligente - Pack Duo  accessoire pour le contrôle multi-pièces  contrôle de chauffage intelligent  Installez par vous-même](https://www.amazon.fr/dp/B07FZ4P5KR/?tag=tolees0d-21) con 43.34 de descuento por 84.99 EUR (original: 149.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31xSxp7LkdL._SL200_.jpg)](https://www.amazon.fr/dp/B07FZ4P5KR/?tag=tolees0d-21)
+[![tado° Tête Thermostatique Intelligente -](https://m.media-amazon.com/images/I/31xSxp7LkdL._SL200_.jpg)](https://www.amazon.fr/dp/B07FZ4P5KR/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FZ4P5KR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

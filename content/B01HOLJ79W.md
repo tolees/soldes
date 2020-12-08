@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Swarovski Bracelet Subtle  Blanc  Métal Rhodié](https://www.amazon.fr/dp/B01HOLJ79W/?tag=tolees0d-21) a 48.0 EUR (original: 99.0 EUR) (51.52 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Mryvf-iEL._SL200_.jpg)](https://www.amazon.fr/dp/B01HOLJ79W/?tag=tolees0d-21)
+[![Swarovski Bracelet Subtle  Blanc  Métal ](https://m.media-amazon.com/images/I/41Mryvf-iEL._SL200_.jpg)](https://www.amazon.fr/dp/B01HOLJ79W/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B01HOLJ79W/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

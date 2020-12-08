@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Miss Vanderbilt Coffret parfum](https://www.amazon.fr/dp/B07YGL6P2D/?tag=tolees0d-21) a 10.25 EUR (original: 19.55 EUR) (47.57 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41D3uR1v42L._SL200_.jpg)](https://www.amazon.fr/dp/B07YGL6P2D/?tag=tolees0d-21)
+[![Miss Vanderbilt Coffret parfum](https://m.media-amazon.com/images/I/41D3uR1v42L._SL200_.jpg)](https://www.amazon.fr/dp/B07YGL6P2D/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B07YGL6P2D/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

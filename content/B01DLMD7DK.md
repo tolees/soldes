@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G ](https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21) con un 34.08 % de descuento con precio de oferta de 988.79 EUR (original: 1500.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg)](https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21)
+[![Sony SEL70300G zoom  FE 70-300 mm F4 5-5](https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg)](https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21)
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

@@ -16,10 +16,10 @@ inStock: true
 
 Está [Clarks Desert Boot Bottes Classiques pour Homme - Marron - Cuir Marron Chestnut Chestnut  44 EU](https://www.amazon.fr/dp/B07MJ7FPRG/?tag=tolees0d-21) con 60.00 de descuento por 56.0 EUR (original: 140.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Gyw8b1LRL._SL200_.jpg)](https://www.amazon.fr/dp/B07MJ7FPRG/?tag=tolees0d-21)
+[![Clarks Desert Boot Bottes Classiques pou](https://m.media-amazon.com/images/I/41Gyw8b1LRL._SL200_.jpg)](https://www.amazon.fr/dp/B07MJ7FPRG/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07MJ7FPRG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

@@ -16,10 +16,10 @@ inStock: true
 
 Está [Posca 153544841 Lot de 8 Marqueur peinture avec encre à base d eau et pointe aiguille extrafine calibrée de  0 7 mm](https://www.amazon.fr/dp/B076MWFG1Z/?tag=tolees0d-21) con 37.49 de descuento por 15.22 EUR (original: 24.35 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31icNICPdeL._SL200_.jpg)](https://www.amazon.fr/dp/B076MWFG1Z/?tag=tolees0d-21)
+[![Posca 153544841 Lot de 8 Marqueur peintu](https://m.media-amazon.com/images/I/31icNICPdeL._SL200_.jpg)](https://www.amazon.fr/dp/B076MWFG1Z/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B076MWFG1Z/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

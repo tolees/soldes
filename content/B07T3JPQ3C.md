@@ -16,10 +16,10 @@ inStock: true
 
 Está [Clint Eastwood-Coffret 10 Films](https://www.amazon.fr/dp/B07T3JPQ3C/?tag=tolees0d-21) con 35.22 de descuento por 38.99 EUR (original: 60.19 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51ZEfKPMp0L._SL200_.jpg)](https://www.amazon.fr/dp/B07T3JPQ3C/?tag=tolees0d-21)
+[![Clint Eastwood-Coffret 10 Films](https://m.media-amazon.com/images/I/51ZEfKPMp0L._SL200_.jpg)](https://www.amazon.fr/dp/B07T3JPQ3C/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07T3JPQ3C/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

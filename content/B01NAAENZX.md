@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Tommy Hilfiger H2285arlow 1d  Sneaker Basses Homme  Bleu  Midnight   41 EU](https://www.amazon.fr/dp/B01NAAENZX/?tag=tolees0d-21) a 40.36 EUR (original: 59.9 EUR) (32.62 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31APzGPA7qL._SL200_.jpg)](https://www.amazon.fr/dp/B01NAAENZX/?tag=tolees0d-21)
+[![Tommy Hilfiger H2285arlow 1d  Sneaker Ba](https://m.media-amazon.com/images/I/31APzGPA7qL._SL200_.jpg)](https://www.amazon.fr/dp/B01NAAENZX/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B01NAAENZX/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

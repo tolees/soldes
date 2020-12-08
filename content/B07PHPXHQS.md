@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu anthracite](https://www.amazon.fr/dp/B07PHPXHQS/?tag=tolees0d-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41hX+2Es+vL._SL200_.jpg)](https://www.amazon.fr/dp/B07PHPXHQS/?tag=tolees0d-21)
+[![Echo Dot  3ème génération   Enceinte con](https://m.media-amazon.com/images/I/41hX+2Es+vL._SL200_.jpg)](https://www.amazon.fr/dp/B07PHPXHQS/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B07PHPXHQS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

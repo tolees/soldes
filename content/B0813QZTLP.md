@@ -16,10 +16,10 @@ inStock: true
 
 Está [LEGO-La Grue et Les engins de Construction Duplo Jeux  10933  Multicolore](https://www.amazon.fr/dp/B0813QZTLP/?tag=tolees0d-21) con 28.26 de descuento por 93.25 EUR (original: 129.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/511biGtwMEL._SL200_.jpg)](https://www.amazon.fr/dp/B0813QZTLP/?tag=tolees0d-21)
+[![LEGO-La Grue et Les engins de Constructi](https://m.media-amazon.com/images/I/511biGtwMEL._SL200_.jpg)](https://www.amazon.fr/dp/B0813QZTLP/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0813QZTLP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

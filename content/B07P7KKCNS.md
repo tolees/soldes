@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Playmobil - Playmobil The Movie Rex Dasher  Porsche Mission E - 70078](https://www.amazon.fr/dp/B07P7KKCNS/?tag=tolees0d-21) a 55.43 EUR (original: 79.99 EUR) (30.70 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/4180Ju6zNML._SL200_.jpg)](https://www.amazon.fr/dp/B07P7KKCNS/?tag=tolees0d-21)
+[![Playmobil - Playmobil The Movie Rex Dash](https://m.media-amazon.com/images/I/4180Ju6zNML._SL200_.jpg)](https://www.amazon.fr/dp/B07P7KKCNS/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B07P7KKCNS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

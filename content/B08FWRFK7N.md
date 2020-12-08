@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Clavier et souris de jeu à une main  clavier rétroéclairé arc-en-ciel à sensation mécanique + souris de jeu RVB + convertisseur rétroéclairé par LED pour Nintendo Switch/XboxOne/PS4/PS3/PC  noir ](https://www.amazon.fr/dp/B08FWRFK7N/?tag=tolees0d-21) a 35.99 EUR (original: 69.17 EUR) (47.97 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51Q6+J0AC7L._SL200_.jpg)](https://www.amazon.fr/dp/B08FWRFK7N/?tag=tolees0d-21)
+[![Clavier et souris de jeu à une main  cla](https://m.media-amazon.com/images/I/51Q6+J0AC7L._SL200_.jpg)](https://www.amazon.fr/dp/B08FWRFK7N/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B08FWRFK7N/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

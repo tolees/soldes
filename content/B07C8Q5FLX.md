@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Plain Spoken - from the Chicago Theatre [cd +Blu-ray] [Blu-ray + CD] [Blu-ray + CD]](https://www.amazon.fr/dp/B07C8Q5FLX/?tag=tolees0d-21) a 13.25 EUR (original: 22.99 EUR) (42.37 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51ZEmK8z6+L._SL200_.jpg)](https://www.amazon.fr/dp/B07C8Q5FLX/?tag=tolees0d-21)
+[![Plain Spoken - from the Chicago Theatre ](https://m.media-amazon.com/images/I/51ZEmK8z6+L._SL200_.jpg)](https://www.amazon.fr/dp/B07C8Q5FLX/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B07C8Q5FLX/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

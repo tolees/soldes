@@ -16,10 +16,10 @@ inStock: true
 
 Está [Coffret Bain pour Femme  Body&Earth 6 Pièces Coffret Cadeau au Parfum de Lavande  avec Panier Décoratif  Parfait Cadeau pour l’Anniversaire et la Fête de Mères](https://www.amazon.fr/dp/B07CKTJF17/?tag=tolees0d-21) con 37.05 de descuento por 16.99 EUR (original: 26.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51a4NBixS5L._SL200_.jpg)](https://www.amazon.fr/dp/B07CKTJF17/?tag=tolees0d-21)
+[![Coffret Bain pour Femme  Body&Earth 6 Pi](https://m.media-amazon.com/images/I/51a4NBixS5L._SL200_.jpg)](https://www.amazon.fr/dp/B07CKTJF17/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07CKTJF17/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

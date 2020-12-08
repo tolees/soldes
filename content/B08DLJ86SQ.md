@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Efootball Pes 2021  XBOX ](https://www.amazon.fr/dp/B08DLJ86SQ/?tag=tolees0d-21) a 20.9 EUR (original: 29.99 EUR) (30.31 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51wvKEypkGL._SL200_.jpg)](https://www.amazon.fr/dp/B08DLJ86SQ/?tag=tolees0d-21)
+[![Efootball Pes 2021  XBOX ](https://m.media-amazon.com/images/I/51wvKEypkGL._SL200_.jpg)](https://www.amazon.fr/dp/B08DLJ86SQ/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DLJ86SQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

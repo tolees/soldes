@@ -16,10 +16,10 @@ inStock: true
 
 Está [dreamlock Char R/C 8011 TELECOMMANDE à Construire 453 pcs](https://www.amazon.fr/dp/B075JPBVY5/?tag=tolees0d-21) con 33.38 de descuento por 59.95 EUR (original: 89.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51YxYhDtkML._SL200_.jpg)](https://www.amazon.fr/dp/B075JPBVY5/?tag=tolees0d-21)
+[![dreamlock Char R/C 8011 TELECOMMANDE à C](https://m.media-amazon.com/images/I/51YxYhDtkML._SL200_.jpg)](https://www.amazon.fr/dp/B075JPBVY5/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B075JPBVY5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

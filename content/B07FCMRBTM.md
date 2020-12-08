@@ -16,10 +16,10 @@ inStock: true
 
 Tienes [SanDisk Extreme Plus Carte mémoire MicroSDXC 128 Go + Adaptateur SD avec A2 App Performance + Rescue Pro Deluxe  Jusqu à 170 Mo/s  Classe 10  UHS-I  U3  V30](https://www.amazon.fr/dp/B07FCMRBTM/?tag=tolees0d-21) con un 46.47 % de descuento con precio de oferta de 25.69 EUR (original: 47.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51uqk48SNrL._SL200_.jpg)](https://www.amazon.fr/dp/B07FCMRBTM/?tag=tolees0d-21)
+[![SanDisk Extreme Plus Carte mémoire Micro](https://m.media-amazon.com/images/I/51uqk48SNrL._SL200_.jpg)](https://www.amazon.fr/dp/B07FCMRBTM/?tag=tolees0d-21)
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07FCMRBTM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

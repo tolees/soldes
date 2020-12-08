@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Derhy ARALIA Top à Manches Longues  Multicolore  Couleurs 700   44  Taille Fabricant:XL  Femme](https://www.amazon.fr/dp/B07NGTJC7Z/?tag=tolees0d-21) a 51.63 EUR (original: 95.0 EUR) (45.65 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51a44VhAVaL._SL200_.jpg)](https://www.amazon.fr/dp/B07NGTJC7Z/?tag=tolees0d-21)
+[![Derhy ARALIA Top à Manches Longues  Mult](https://m.media-amazon.com/images/I/51a44VhAVaL._SL200_.jpg)](https://www.amazon.fr/dp/B07NGTJC7Z/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B07NGTJC7Z/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Vernis - Brillant - 10 ml](https://www.amazon.fr/dp/B001FJETS4/?tag=tolees0d-21) a 3.99 EUR (original: 5.53 EUR) (27.85 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51ZLlrKWzXL._SL200_.jpg)](https://www.amazon.fr/dp/B001FJETS4/?tag=tolees0d-21)
+[![Vernis - Brillant - 10 ml](https://m.media-amazon.com/images/I/51ZLlrKWzXL._SL200_.jpg)](https://www.amazon.fr/dp/B001FJETS4/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B001FJETS4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

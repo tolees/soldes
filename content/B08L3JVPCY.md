@@ -16,10 +16,10 @@ inStock: true
 
 Está [Teakpeak Technic Voiture  858pièces Pull Back Voiture Tout-TerrainVoiture a Construire -Jeux de Construction Voiture - Compatible avec Lego](https://www.amazon.fr/dp/B08L3JVPCY/?tag=tolees0d-21) con 50.00 de descuento por 49.99 EUR (original: 99.98 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/517JhPVNUBL._SL200_.jpg)](https://www.amazon.fr/dp/B08L3JVPCY/?tag=tolees0d-21)
+[![Teakpeak Technic Voiture  858pièces Pull](https://m.media-amazon.com/images/I/517JhPVNUBL._SL200_.jpg)](https://www.amazon.fr/dp/B08L3JVPCY/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08L3JVPCY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

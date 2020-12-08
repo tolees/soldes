@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Samsung MB-MC128GA/EU Carte mémoire MicroSD Evo Plus 128G avec adaptateur SD - Rouge/Blanc](https://www.amazon.fr/dp/B06XFHQGB9/?tag=tolees0d-21) a 18.34 EUR (original: 80.0 EUR) (77.08 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41f-m6Y-3WL._SL200_.jpg)](https://www.amazon.fr/dp/B06XFHQGB9/?tag=tolees0d-21)
+[![Samsung MB-MC128GA/EU Carte mémoire Micr](https://m.media-amazon.com/images/I/41f-m6Y-3WL._SL200_.jpg)](https://www.amazon.fr/dp/B06XFHQGB9/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B06XFHQGB9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

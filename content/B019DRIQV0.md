@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [mountain buggy Poussette de Voyage Compacte 4 Roues Rouge](https://www.amazon.fr/dp/B019DRIQV0/?tag=tolees0d-21) a 164.45 EUR (original: 249.0 EUR) (33.96 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41Rl6qZOikL._SL200_.jpg)](https://www.amazon.fr/dp/B019DRIQV0/?tag=tolees0d-21)
+[![mountain buggy Poussette de Voyage Compa](https://m.media-amazon.com/images/I/41Rl6qZOikL._SL200_.jpg)](https://www.amazon.fr/dp/B019DRIQV0/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B019DRIQV0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

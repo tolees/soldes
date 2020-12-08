@@ -16,10 +16,10 @@ inStock: true
 
 Está [Levi s 514 Straight Jeans  Ivy ADV 1209  31W / 32L Homme](https://www.amazon.fr/dp/B07LFDNDVB/?tag=tolees0d-21) con 45.00 de descuento por 63.25 EUR (original: 115.0 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31-3KF+nsbL._SL200_.jpg)](https://www.amazon.fr/dp/B07LFDNDVB/?tag=tolees0d-21)
+[![Levi s 514 Straight Jeans  Ivy ADV 1209 ](https://m.media-amazon.com/images/I/31-3KF+nsbL._SL200_.jpg)](https://www.amazon.fr/dp/B07LFDNDVB/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07LFDNDVB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

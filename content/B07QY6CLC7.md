@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Levi s 711 Skinny – Jean pour Femmes Moulant et Confortable  Bleu  Med Indigo - Flat Finish   28W/L30](https://www.amazon.fr/dp/B07QY6CLC7/?tag=tolees0d-21) a 73.48 EUR (original: 115.0 EUR) (36.10 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41M-x8CNyqL._SL200_.jpg)](https://www.amazon.fr/dp/B07QY6CLC7/?tag=tolees0d-21)
+[![Levi s 711 Skinny – Jean pour Femmes Mou](https://m.media-amazon.com/images/I/41M-x8CNyqL._SL200_.jpg)](https://www.amazon.fr/dp/B07QY6CLC7/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B07QY6CLC7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -16,10 +16,10 @@ inStock: true
 
 Está [BATMAN V SUPERMAN : L AUBE DE LA JUSTICE - Version Longue -Ultimate Edition - Blu-Ray - DC COMICS](https://www.amazon.fr/dp/B01DBU7UTY/?tag=tolees0d-21) con 47.51 de descuento por 7.9 EUR (original: 15.05 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/61GpM7XOZfL._SL200_.jpg)](https://www.amazon.fr/dp/B01DBU7UTY/?tag=tolees0d-21)
+[![BATMAN V SUPERMAN : L AUBE DE LA JUSTICE](https://m.media-amazon.com/images/I/61GpM7XOZfL._SL200_.jpg)](https://www.amazon.fr/dp/B01DBU7UTY/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01DBU7UTY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

@@ -16,10 +16,10 @@ inStock: true
 
 Está [Figurine - Funko Pop - Marvel - Captain Marvel - Pop 3](https://www.amazon.fr/dp/B07HBLNMF9/?tag=tolees0d-21) con 50.64 de descuento por 5.0 EUR (original: 10.13 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/4100SOTf+-L._SL200_.jpg)](https://www.amazon.fr/dp/B07HBLNMF9/?tag=tolees0d-21)
+[![Figurine - Funko Pop - Marvel - Captain ](https://m.media-amazon.com/images/I/4100SOTf+-L._SL200_.jpg)](https://www.amazon.fr/dp/B07HBLNMF9/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07HBLNMF9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

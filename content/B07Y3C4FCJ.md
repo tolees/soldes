@@ -16,10 +16,10 @@ inStock: true
 
 Está [ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/51eGCC4MGKL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)
+[![ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR ](https://m.media-amazon.com/images/I/51eGCC4MGKL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

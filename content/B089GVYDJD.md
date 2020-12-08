@@ -16,10 +16,10 @@ inStock: true
 
 Está [Xiaomi Mi AirDots Basic S](https://www.amazon.fr/dp/B089GVYDJD/?tag=tolees0d-21) con 40.99 de descuento por 19.39 EUR (original: 32.86 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31LQIIVZeJL._SL200_.jpg)](https://www.amazon.fr/dp/B089GVYDJD/?tag=tolees0d-21)
+[![Xiaomi Mi AirDots Basic S](https://m.media-amazon.com/images/I/31LQIIVZeJL._SL200_.jpg)](https://www.amazon.fr/dp/B089GVYDJD/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B089GVYDJD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

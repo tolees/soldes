@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [ROCCAT Kain 102 AIMO Souris Gaming RGB  capteur Pro-Optic R8 8.500 dpi  poids très léger de 89g  technologie Titan Click  blanche](https://www.amazon.fr/dp/B07SVNWPM2/?tag=tolees0d-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31Pmd4bbUnL._SL200_.jpg)](https://www.amazon.fr/dp/B07SVNWPM2/?tag=tolees0d-21)
+[![ROCCAT Kain 102 AIMO Souris Gaming RGB  ](https://m.media-amazon.com/images/I/31Pmd4bbUnL._SL200_.jpg)](https://www.amazon.fr/dp/B07SVNWPM2/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B07SVNWPM2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)

@@ -16,10 +16,10 @@ inStock: true
 
 Está [Columbia Mission Air  Veste Modulable pour Homme](https://www.amazon.fr/dp/B07RC8HK4M/?tag=tolees0d-21) con 65.15 de descuento por 55.76 EUR (original: 159.99 EUR) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/41rznlS96gL._SL200_.jpg)](https://www.amazon.fr/dp/B07RC8HK4M/?tag=tolees0d-21)
+[![Columbia Mission Air  Veste Modulable po](https://m.media-amazon.com/images/I/41rznlS96gL._SL200_.jpg)](https://www.amazon.fr/dp/B07RC8HK4M/?tag=tolees0d-21)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RC8HK4M/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
+

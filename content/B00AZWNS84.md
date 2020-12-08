@@ -16,10 +16,8 @@ inStock: true
 
 Ahora mismo tienes [Rotring  1904447  Portemine 800  0 5 mm  Noir](https://www.amazon.fr/dp/B00AZWNS84/?tag=tolees0d-21) a 30.99 EUR (original: 67.0 EUR) (53.75 %  de descuento) en el siguiente enlace!
 
-[![](https://m.media-amazon.com/images/I/31QX92NqGPL._SL200_.jpg)](https://www.amazon.fr/dp/B00AZWNS84/?tag=tolees0d-21)
+[![Rotring  1904447  Portemine 800  0 5 mm ](https://m.media-amazon.com/images/I/31QX92NqGPL._SL200_.jpg)](https://www.amazon.fr/dp/B00AZWNS84/?tag=tolees0d-21)
 
 [Visítala!!!](https://www.amazon.fr/dp/B00AZWNS84/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-[Consulta otras ofertas en nuestro canal de telegram](https://t.me/s/ofertas25)
