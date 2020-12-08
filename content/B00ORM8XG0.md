@@ -14,10 +14,12 @@ comparePrice: 15.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [La Légende de Manolo [Combo Blu-Ray + DVD]](https://www.amazon.fr/dp/B00ORM8XG0/?tag=tolees0d-21) a 6.08 EUR (original: 15.0 EUR) (59.47 %  de descuento) en el siguiente enlace!
+Está [La Légende de Manolo [Combo Blu-Ray + DVD]](https://www.amazon.fr/dp/B00ORM8XG0/?tag=tolees0d-21) con 59.47 de descuento por 6.08 EUR (original: 15.0 EUR) en el siguiente enlace!
 
 [![La Légende de Manolo [Combo Blu-Ray + DV](https://m.media-amazon.com/images/I/51LxqAgP3BL._SL200_.jpg)](https://www.amazon.fr/dp/B00ORM8XG0/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00ORM8XG0/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00ORM8XG0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
