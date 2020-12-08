@@ -14,10 +14,12 @@ comparePrice: 36.0 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Cello Stories  Coffret 5 CD ](https://www.amazon.fr/dp/B01IAOP53E/?tag=tolees0d-21) a 25.0 EUR (original: 36.0 EUR) (30.56 %  de descuento) en el siguiente enlace!
+Está [Cello Stories  Coffret 5 CD ](https://www.amazon.fr/dp/B01IAOP53E/?tag=tolees0d-21) con 30.56 de descuento por 25.0 EUR (original: 36.0 EUR) en el siguiente enlace!
 
 [![Cello Stories  Coffret 5 CD ](https://m.media-amazon.com/images/I/51AaFP2rdWL._SL200_.jpg)](https://www.amazon.fr/dp/B01IAOP53E/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01IAOP53E/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01IAOP53E/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
