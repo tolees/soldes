@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic Set de Construction la Pell al 27.78 % de descuento'
-date: 2020-12-07 09:51:31
+date: 2020-12-08 10:07:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516ASeai0xL._SL200_.jpg' ]
 comments: true
