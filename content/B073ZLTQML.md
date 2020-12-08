@@ -14,10 +14,12 @@ comparePrice: 431.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [WD - My Book Duo - Disque Dur Éxterne USB 3.1  2 Baies avec Sauvegarde - 12 To](https://www.amazon.fr/dp/B073ZLTQML/?tag=tolees0d-21) a 287.99 EUR (original: 431.99 EUR) (33.33 %  de descuento) en el siguiente enlace!
+Está [WD - My Book Duo - Disque Dur Éxterne USB 3.1  2 Baies avec Sauvegarde - 12 To](https://www.amazon.fr/dp/B073ZLTQML/?tag=tolees0d-21) con 33.33 de descuento por 287.99 EUR (original: 431.99 EUR) en el siguiente enlace!
 
 [![WD - My Book Duo - Disque Dur Éxterne US](https://m.media-amazon.com/images/I/31yyf+9XFuL._SL200_.jpg)](https://www.amazon.fr/dp/B073ZLTQML/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B073ZLTQML/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B073ZLTQML/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
