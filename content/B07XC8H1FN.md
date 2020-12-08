@@ -14,10 +14,12 @@ comparePrice: 39.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21) a 19.76 EUR (original: 39.99 EUR) (50.59 %  de descuento) en el siguiente enlace!
+Está [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21) con 50.59 de descuento por 19.76 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![DCL - Drone Championship League](https://m.media-amazon.com/images/I/515jjj5oSnL._SL200_.jpg)](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
