@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'X96 Mini Lecteur Multimédia de Diffusion al 25.54 % de descuento'
-date: 2020-12-08 03:54:30
+date: 2020-12-09 04:00:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kwPVbtp5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kwPVbtp5L._SL200_.jpg' ]
 comments: true

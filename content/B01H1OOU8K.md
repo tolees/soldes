@@ -14,10 +14,12 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Death Stranding](https://www.amazon.fr/dp/B01H1OOU8K/?tag=tolees0d-21) a 21.99 EUR (original: 69.99 EUR) (68.58 %  de descuento) en el siguiente enlace!
+Está [Death Stranding](https://www.amazon.fr/dp/B01H1OOU8K/?tag=tolees0d-21) con 68.58 de descuento por 21.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Death Stranding](https://m.media-amazon.com/images/I/51MbuwlB+oL._SL200_.jpg)](https://www.amazon.fr/dp/B01H1OOU8K/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01H1OOU8K/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01H1OOU8K/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
