@@ -17,10 +17,12 @@ inStock: true
 prodname: 'J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture'
 ---
 
-Ahora mismo tienes [J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21) a 39.91 EUR (original: 80.0 EUR) (50.11 %  de descuento) en el siguiente enlace!
+Está [J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21) con 50.11 de descuento por 39.91 EUR (original: 80.0 EUR) en el siguiente enlace!
 
 [![J.S. Staedtler - Accessoires - Etui en c](https://m.media-amazon.com/images/I/41utsmU0fHL._SL200_.jpg)](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
