@@ -14,10 +14,12 @@ comparePrice: 30.08 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Au Pays des géants-Coffret 3](https://www.amazon.fr/dp/B01N5JAMM4/?tag=tolees0d-21) a 18.99 EUR (original: 30.08 EUR) (36.87 %  de descuento) en el siguiente enlace!
+Está [Au Pays des géants-Coffret 3](https://www.amazon.fr/dp/B01N5JAMM4/?tag=tolees0d-21) con 36.87 de descuento por 18.99 EUR (original: 30.08 EUR) en el siguiente enlace!
 
 [![Au Pays des géants-Coffret 3](https://m.media-amazon.com/images/I/51E-9V7TT1L._SL200_.jpg)](https://www.amazon.fr/dp/B01N5JAMM4/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01N5JAMM4/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01N5JAMM4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
