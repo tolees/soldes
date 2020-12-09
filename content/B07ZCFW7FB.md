@@ -14,7 +14,7 @@ currency: EUR
 price: 44.32
 comparePrice: 68.89 EUR
 inStock: true
-prodname: YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD 480GB Interne Solid State Drive
+prodname: 'YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD 480GB Interne Solid State Drive'
 ---
 
 Ahora mismo tienes [YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD 480GB Interne Solid State Drive](https://www.amazon.fr/dp/B07ZCFW7FB/?tag=tolees0d-21) a 44.32 EUR (original: 68.89 EUR) (35.67 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 62.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Netatmo Capteur de qualité de l air intérieur Connecté  Température  Humidité  Bruit  CO2  Rose
+prodname: 'Netatmo Capteur de qualité de l air intérieur Connecté  Température  Humidité  Bruit  CO2  Rose'
 ---
 
 Tienes [Netatmo Capteur de qualité de l air intérieur Connecté  Température  Humidité  Bruit  CO2  Rose](https://www.amazon.fr/dp/B01LZAZ4LS/?tag=tolees0d-21) con un 37.00 % de descuento con precio de oferta de 62.99 EUR (original: 99.99 EUR) en el siguiente enlace!

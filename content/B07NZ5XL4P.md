@@ -14,7 +14,7 @@ currency: EUR
 price: 131.78
 comparePrice: 199.99 EUR
 inStock: true
-prodname: VTech - Babyphone Vidéo Vision XXL BM4550 - Babyphone Vidéo - Très Grand Écran - Version FR
+prodname: 'VTech - Babyphone Vidéo Vision XXL BM4550 - Babyphone Vidéo - Très Grand Écran - Version FR'
 ---
 
 Tienes [VTech - Babyphone Vidéo Vision XXL BM4550 - Babyphone Vidéo - Très Grand Écran - Version FR](https://www.amazon.fr/dp/B07NZ5XL4P/?tag=tolees0d-21) con un 34.11 % de descuento con precio de oferta de 131.78 EUR (original: 199.99 EUR) en el siguiente enlace!

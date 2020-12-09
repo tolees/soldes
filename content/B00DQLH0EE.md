@@ -14,7 +14,7 @@ currency: EUR
 price: 27.26
 comparePrice: 73.0 EUR
 inStock: true
-prodname: Puma - Suede Classic+ - Baskets mode - Mixte Adulte - Noir  black-dark shadow  - 37 EU
+prodname: 'Puma - Suede Classic+ - Baskets mode - Mixte Adulte - Noir  black-dark shadow  - 37 EU'
 ---
 
 Ahora mismo tienes [Puma - Suede Classic+ - Baskets mode - Mixte Adulte - Noir  black-dark shadow  - 37 EU](https://www.amazon.fr/dp/B00DQLH0EE/?tag=tolees0d-21) a 27.26 EUR (original: 73.0 EUR) (62.66 %  de descuento) en el siguiente enlace!

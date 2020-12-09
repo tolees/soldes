@@ -14,7 +14,7 @@ currency: EUR
 price: 91.51
 comparePrice: 169.0 EUR
 inStock: true
-prodname: Kipling LICIA Cartable  49 cm  20 liters  Multicolore  Hearty Pink Met 
+prodname: 'Kipling LICIA Cartable  49 cm  20 liters  Multicolore  Hearty Pink Met '
 ---
 
 Está [Kipling LICIA Cartable  49 cm  20 liters  Multicolore  Hearty Pink Met ](https://www.amazon.fr/dp/B07NFKVYDZ/?tag=tolees0d-21) con 45.85 de descuento por 91.51 EUR (original: 169.0 EUR) en el siguiente enlace!

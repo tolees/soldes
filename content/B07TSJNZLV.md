@@ -14,7 +14,7 @@ currency: EUR
 price: 59.58
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Only Onlally Boucle Wool Coat CC OTW Manteau  Rouge  Merlot Detail: Melange   S Femme
+prodname: 'Only Onlally Boucle Wool Coat CC OTW Manteau  Rouge  Merlot Detail: Melange   S Femme'
 ---
 
 Ahora mismo tienes [Only Onlally Boucle Wool Coat CC OTW Manteau  Rouge  Merlot Detail: Melange   S Femme](https://www.amazon.fr/dp/B07TSJNZLV/?tag=tolees0d-21) a 59.58 EUR (original: 79.99 EUR) (25.52 %  de descuento) en el siguiente enlace!

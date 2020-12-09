@@ -14,7 +14,7 @@ currency: EUR
 price: 52.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Globber Go-up Enfant  Bleu
+prodname: 'Globber Go-up Enfant  Bleu'
 ---
 
 Está [Globber Go-up Enfant  Bleu](https://www.amazon.fr/dp/B01MG1PU4H/?tag=tolees0d-21) con 33.75 de descuento por 52.99 EUR (original: 79.99 EUR) en el siguiente enlace!

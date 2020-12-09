@@ -14,7 +14,7 @@ currency: EUR
 price: 56.38
 comparePrice: 102.5 EUR
 inStock: true
-prodname: Oregon 295435 PANTALON de protection pour travail à la tronçonneuse noir/orange L
+prodname: 'Oregon 295435 PANTALON de protection pour travail à la tronçonneuse noir/orange L'
 ---
 
 Ahora mismo tienes [Oregon 295435 PANTALON de protection pour travail à la tronçonneuse noir/orange L](https://www.amazon.fr/dp/B005P6FNYW/?tag=tolees0d-21) a 56.38 EUR (original: 102.5 EUR) (45.00 %  de descuento) en el siguiente enlace!

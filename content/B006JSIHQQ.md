@@ -14,7 +14,7 @@ currency: EUR
 price: 67.84
 comparePrice: 105.0 EUR
 inStock: true
-prodname: Thetford 92814 Potti Potti 345 Toilette Portable  Blanc-Gris 330 x 383 x 427 mm
+prodname: 'Thetford 92814 Potti Potti 345 Toilette Portable  Blanc-Gris 330 x 383 x 427 mm'
 ---
 
 Está [Thetford 92814 Potti Potti 345 Toilette Portable  Blanc-Gris 330 x 383 x 427 mm](https://www.amazon.fr/dp/B006JSIHQQ/?tag=tolees0d-21) con 35.39 de descuento por 67.84 EUR (original: 105.0 EUR) en el siguiente enlace!

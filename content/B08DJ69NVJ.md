@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Écouteurs Bluetooth 5 sans Fil Stéréo Oreillettes  BCMASTER Écouteur sans Fil avec Microphones  25 Heures D autonomie  Microphones Intégrés  IPX5 Etanche  Contrôle Tactile pour iPhone et Android
+prodname: 'Écouteurs Bluetooth 5 sans Fil Stéréo Oreillettes  BCMASTER Écouteur sans Fil avec Microphones  25 Heures D autonomie  Microphones Intégrés  IPX5 Etanche  Contrôle Tactile pour iPhone et Android'
 ---
 
 Tienes [Écouteurs Bluetooth 5 sans Fil Stéréo Oreillettes  BCMASTER Écouteur sans Fil avec Microphones  25 Heures D autonomie  Microphones Intégrés  IPX5 Etanche  Contrôle Tactile pour iPhone et Android](https://www.amazon.fr/dp/B08DJ69NVJ/?tag=tolees0d-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

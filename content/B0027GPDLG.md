@@ -14,7 +14,7 @@ currency: EUR
 price: 40.88
 comparePrice: 72.0 EUR
 inStock: true
-prodname: Peugeot Paris Duo de moulins à poivre et à sel manuels  Réglage mouture U’Select  Couleur : Naturel  Taille : 18 cm  Matière : Bois   2/23386
+prodname: 'Peugeot Paris Duo de moulins à poivre et à sel manuels  Réglage mouture U’Select  Couleur : Naturel  Taille : 18 cm  Matière : Bois   2/23386'
 ---
 
 Tienes [Peugeot Paris Duo de moulins à poivre et à sel manuels  Réglage mouture U’Select  Couleur : Naturel  Taille : 18 cm  Matière : Bois   2/23386](https://www.amazon.fr/dp/B0027GPDLG/?tag=tolees0d-21) con un 43.22 % de descuento con precio de oferta de 40.88 EUR (original: 72.0 EUR) en el siguiente enlace!

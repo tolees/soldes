@@ -14,7 +14,7 @@ currency: EUR
 price: 286.98
 comparePrice: 460.0 EUR
 inStock: true
-prodname: SONY- Pack HX60 + Batterie Rechargeable
+prodname: 'SONY- Pack HX60 + Batterie Rechargeable'
 ---
 
 Ahora mismo tienes [SONY- Pack HX60 + Batterie Rechargeable](https://www.amazon.fr/dp/B07CJJLL42/?tag=tolees0d-21) a 286.98 EUR (original: 460.0 EUR) (37.61 %  de descuento) en el siguiente enlace!

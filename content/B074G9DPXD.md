@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 299.0 EUR
 inStock: true
-prodname: Ring Floodlight Cam | Caméra de surveillance HD avec projecteurs intégrés  système audio bidirectionnel  sirène d’alarme  Noire | Essai gratuit de 30 jours à l abonnement Ring Protect inclus
+prodname: 'Ring Floodlight Cam | Caméra de surveillance HD avec projecteurs intégrés  système audio bidirectionnel  sirène d’alarme  Noire | Essai gratuit de 30 jours à l abonnement Ring Protect inclus'
 ---
 
 Tienes [Ring Floodlight Cam | Caméra de surveillance HD avec projecteurs intégrés  système audio bidirectionnel  sirène d’alarme  Noire | Essai gratuit de 30 jours à l abonnement Ring Protect inclus](https://www.amazon.fr/dp/B074G9DPXD/?tag=tolees0d-21) con un 33.44 % de descuento con precio de oferta de 199.0 EUR (original: 299.0 EUR) en el siguiente enlace!

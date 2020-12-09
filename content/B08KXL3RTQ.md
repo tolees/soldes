@@ -14,7 +14,7 @@ currency: EUR
 price: 11.88
 comparePrice: 17.99 EUR
 inStock: true
-prodname: LUOWAN MonQi Lot de 24 Boîtes Cadeau de Noël  Sac Cadeau Noël pour Emballage Cadeau  Bonbons  chocolats  Biscuits  Aliments pour Décoration de Noël 4 Styles   24Pcs 
+prodname: 'LUOWAN MonQi Lot de 24 Boîtes Cadeau de Noël  Sac Cadeau Noël pour Emballage Cadeau  Bonbons  chocolats  Biscuits  Aliments pour Décoration de Noël 4 Styles   24Pcs '
 ---
 
 Ahora mismo tienes [LUOWAN MonQi Lot de 24 Boîtes Cadeau de Noël  Sac Cadeau Noël pour Emballage Cadeau  Bonbons  chocolats  Biscuits  Aliments pour Décoration de Noël 4 Styles   24Pcs ](https://www.amazon.fr/dp/B08KXL3RTQ/?tag=tolees0d-21) a 11.88 EUR (original: 17.99 EUR) (33.96 %  de descuento) en el siguiente enlace!

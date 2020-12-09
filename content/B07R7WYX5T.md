@@ -14,7 +14,7 @@ currency: EUR
 price: 69.23
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Perceuse-visseuse sans fil Bosch 18 V - UniversalDrill 18  1 batterie 
+prodname: 'Perceuse-visseuse sans fil Bosch 18 V - UniversalDrill 18  1 batterie '
 ---
 
 Está [Perceuse-visseuse sans fil Bosch 18 V - UniversalDrill 18  1 batterie ](https://www.amazon.fr/dp/B07R7WYX5T/?tag=tolees0d-21) con 46.74 de descuento por 69.23 EUR (original: 129.99 EUR) en el siguiente enlace!

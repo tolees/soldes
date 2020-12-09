@@ -14,7 +14,7 @@ currency: EUR
 price: 348.99
 comparePrice: 500.99 EUR
 inStock: true
-prodname: Disque SSD SanDisk Ultra 3D 4To offrant jusqu à 560 Mo/s en vitesse de lecture / jusqu à 530 Mo/s en vitesse d écriture
+prodname: 'Disque SSD SanDisk Ultra 3D 4To offrant jusqu à 560 Mo/s en vitesse de lecture / jusqu à 530 Mo/s en vitesse d écriture'
 ---
 
 Está [Disque SSD SanDisk Ultra 3D 4To offrant jusqu à 560 Mo/s en vitesse de lecture / jusqu à 530 Mo/s en vitesse d écriture](https://www.amazon.fr/dp/B07W1SYTTT/?tag=tolees0d-21) con 30.34 de descuento por 348.99 EUR (original: 500.99 EUR) en el siguiente enlace!

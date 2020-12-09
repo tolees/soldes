@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Garegce Coque Compatible avec Samsung Galaxy S20 FE  Transparente Silicone Souple TPU Cover  Ultra Fine Léger  Protection Cover Compatible avec Samsung Galaxy S20 FE - 6.5 Pouces - Clair
+prodname: 'Garegce Coque Compatible avec Samsung Galaxy S20 FE  Transparente Silicone Souple TPU Cover  Ultra Fine Léger  Protection Cover Compatible avec Samsung Galaxy S20 FE - 6.5 Pouces - Clair'
 ---
 
 Está [Garegce Coque Compatible avec Samsung Galaxy S20 FE  Transparente Silicone Souple TPU Cover  Ultra Fine Léger  Protection Cover Compatible avec Samsung Galaxy S20 FE - 6.5 Pouces - Clair](https://www.amazon.fr/dp/B08MVLCXQN/?tag=tolees0d-21) con 30.03 de descuento por 6.99 EUR (original: 9.99 EUR) en el siguiente enlace!

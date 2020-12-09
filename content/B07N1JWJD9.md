@@ -14,7 +14,7 @@ currency: EUR
 price: 74.95
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Clarks Un Venturehi  Botines Femme  Noir  Black Combi Black Combi   37 EU
+prodname: 'Clarks Un Venturehi  Botines Femme  Noir  Black Combi Black Combi   37 EU'
 ---
 
 Está [Clarks Un Venturehi  Botines Femme  Noir  Black Combi Black Combi   37 EU](https://www.amazon.fr/dp/B07N1JWJD9/?tag=tolees0d-21) con 50.03 de descuento por 74.95 EUR (original: 150.0 EUR) en el siguiente enlace!

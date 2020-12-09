@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 199.99 EUR
 inStock: true
-prodname: CABLEDECONN 8K Optic HDMI Câble Vrai UHD HDR 8K 48Gbps 8K@60Hz 4K@120Hz Câble en Fibre Optique 3D Soutenir HDCP2.2 pour HDMI SetTop Box HDTVs Projecteurs 15m 50ft
+prodname: 'CABLEDECONN 8K Optic HDMI Câble Vrai UHD HDR 8K 48Gbps 8K@60Hz 4K@120Hz Câble en Fibre Optique 3D Soutenir HDCP2.2 pour HDMI SetTop Box HDTVs Projecteurs 15m 50ft'
 ---
 
 Está [CABLEDECONN 8K Optic HDMI Câble Vrai UHD HDR 8K 48Gbps 8K@60Hz 4K@120Hz Câble en Fibre Optique 3D Soutenir HDCP2.2 pour HDMI SetTop Box HDTVs Projecteurs 15m 50ft](https://www.amazon.fr/dp/B00V7NNYLQ/?tag=tolees0d-21) con 50.00 de descuento por 99.99 EUR (original: 199.99 EUR) en el siguiente enlace!

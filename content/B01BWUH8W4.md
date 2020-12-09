@@ -14,7 +14,7 @@ currency: EUR
 price: 79.9
 comparePrice: 129.99 EUR
 inStock: true
-prodname: tado° Thermostat Intelligent filaire - Accessoire pour le contrôle multi-pièces  contrôle de chauffage intelligent  Installez par vous-même
+prodname: 'tado° Thermostat Intelligent filaire - Accessoire pour le contrôle multi-pièces  contrôle de chauffage intelligent  Installez par vous-même'
 ---
 
 Está [tado° Thermostat Intelligent filaire - Accessoire pour le contrôle multi-pièces  contrôle de chauffage intelligent  Installez par vous-même](https://www.amazon.fr/dp/B01BWUH8W4/?tag=tolees0d-21) con 38.53 de descuento por 79.9 EUR (original: 129.99 EUR) en el siguiente enlace!

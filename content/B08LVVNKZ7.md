@@ -14,7 +14,7 @@ currency: EUR
 price: 49.87
 comparePrice: 77.75 EUR
 inStock: true
-prodname: Disque Dur Externe 1to  USB3.1 Type-C Portable Disque Dur Externe pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 1To Rouge 
+prodname: 'Disque Dur Externe 1to  USB3.1 Type-C Portable Disque Dur Externe pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 1To Rouge '
 ---
 
 Está [Disque Dur Externe 1to  USB3.1 Type-C Portable Disque Dur Externe pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 1To Rouge ](https://www.amazon.fr/dp/B08LVVNKZ7/?tag=tolees0d-21) con 35.86 de descuento por 49.87 EUR (original: 77.75 EUR) en el siguiente enlace!

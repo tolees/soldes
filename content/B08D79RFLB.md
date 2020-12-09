@@ -14,7 +14,7 @@ currency: EUR
 price: 43.99
 comparePrice: 68.99 EUR
 inStock: true
-prodname: ARCHEER Enceinte PC  Haut-parleurs PC RGB 10W Multimédia 2.0 Système de Stéréo Volume Contrôle avec LED Lumineux Barre de Son pour TV PC MP3 MP4 Karaoké Ordinateur Smartphone Tablette
+prodname: 'ARCHEER Enceinte PC  Haut-parleurs PC RGB 10W Multimédia 2.0 Système de Stéréo Volume Contrôle avec LED Lumineux Barre de Son pour TV PC MP3 MP4 Karaoké Ordinateur Smartphone Tablette'
 ---
 
 Está [ARCHEER Enceinte PC  Haut-parleurs PC RGB 10W Multimédia 2.0 Système de Stéréo Volume Contrôle avec LED Lumineux Barre de Son pour TV PC MP3 MP4 Karaoké Ordinateur Smartphone Tablette](https://www.amazon.fr/dp/B08D79RFLB/?tag=tolees0d-21) con 36.24 de descuento por 43.99 EUR (original: 68.99 EUR) en el siguiente enlace!

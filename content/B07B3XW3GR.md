@@ -14,7 +14,7 @@ currency: EUR
 price: 35.46
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Fila Disruptor  Sneakers Basses Homme  White  41 EU
+prodname: 'Fila Disruptor  Sneakers Basses Homme  White  41 EU'
 ---
 
 Tienes [Fila Disruptor  Sneakers Basses Homme  White  41 EU](https://www.amazon.fr/dp/B07B3XW3GR/?tag=tolees0d-21) con un 64.52 % de descuento con precio de oferta de 35.46 EUR (original: 99.95 EUR) en el siguiente enlace!

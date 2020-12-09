@@ -14,7 +14,7 @@ currency: EUR
 price: 79.1
 comparePrice: 142.43 EUR
 inStock: true
-prodname: Therm-ic T45-0202-200 Chaussettes Chauffante Mixte Adulte  Noir  Taille 39-41
+prodname: 'Therm-ic T45-0202-200 Chaussettes Chauffante Mixte Adulte  Noir  Taille 39-41'
 ---
 
 Ahora mismo tienes [Therm-ic T45-0202-200 Chaussettes Chauffante Mixte Adulte  Noir  Taille 39-41](https://www.amazon.fr/dp/B076QBJT8K/?tag=tolees0d-21) a 79.1 EUR (original: 142.43 EUR) (44.46 %  de descuento) en el siguiente enlace!

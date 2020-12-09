@@ -14,7 +14,7 @@ currency: EUR
 price: 97.36
 comparePrice: 300.0 EUR
 inStock: true
-prodname: Dare 2b Icecap Ergonomique  AEP Kinematics  Veste de Ski Femme  Argent Grey/Cyber Pink  FR : XS  Taille Fabricant : 8 
+prodname: 'Dare 2b Icecap Ergonomique  AEP Kinematics  Veste de Ski Femme  Argent Grey/Cyber Pink  FR : XS  Taille Fabricant : 8 '
 ---
 
 Ahora mismo tienes [Dare 2b Icecap Ergonomique  AEP Kinematics  Veste de Ski Femme  Argent Grey/Cyber Pink  FR : XS  Taille Fabricant : 8 ](https://www.amazon.fr/dp/B07TZWFYV7/?tag=tolees0d-21) a 97.36 EUR (original: 300.0 EUR) (67.55 %  de descuento) en el siguiente enlace!

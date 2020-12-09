@@ -14,7 +14,7 @@ currency: EUR
 price: 39.1
 comparePrice: 59.9 EUR
 inStock: true
-prodname: AVERY - Boite de 800 étiquettes autocollantes ultra-résistantes aux conditions extrêmes  Personnalisables et imprimables  Format 52 x 74 mm  Impression laser/ jet d encre 
+prodname: 'AVERY - Boite de 800 étiquettes autocollantes ultra-résistantes aux conditions extrêmes  Personnalisables et imprimables  Format 52 x 74 mm  Impression laser/ jet d encre '
 ---
 
 Está [AVERY - Boite de 800 étiquettes autocollantes ultra-résistantes aux conditions extrêmes  Personnalisables et imprimables  Format 52 x 74 mm  Impression laser/ jet d encre ](https://www.amazon.fr/dp/B019PYR5MW/?tag=tolees0d-21) con 34.72 de descuento por 39.1 EUR (original: 59.9 EUR) en el siguiente enlace!

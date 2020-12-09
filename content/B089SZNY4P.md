@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: BRIKSMAX Kit de LED pour Lego Speed Champions 1985 Audi Sport Quattro S1 Compatible avec la Maquette Lego 76897  La Maquette de Construction n est Pas Incluse
+prodname: 'BRIKSMAX Kit de LED pour Lego Speed Champions 1985 Audi Sport Quattro S1 Compatible avec la Maquette Lego 76897  La Maquette de Construction n est Pas Incluse'
 ---
 
 Tienes [BRIKSMAX Kit de LED pour Lego Speed Champions 1985 Audi Sport Quattro S1 Compatible avec la Maquette Lego 76897  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B089SZNY4P/?tag=tolees0d-21) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

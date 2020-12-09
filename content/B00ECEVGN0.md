@@ -14,7 +14,7 @@ currency: EUR
 price: 103.92
 comparePrice: 158.99 EUR
 inStock: true
-prodname: Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash SanDisk Extreme Pro 128 Go UDMA7 - Noir
+prodname: 'Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash SanDisk Extreme Pro 128 Go UDMA7 - Noir'
 ---
 
 Tienes [Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash SanDisk Extreme Pro 128 Go UDMA7 - Noir](https://www.amazon.fr/dp/B00ECEVGN0/?tag=tolees0d-21) con un 34.64 % de descuento con precio de oferta de 103.92 EUR (original: 158.99 EUR) en el siguiente enlace!

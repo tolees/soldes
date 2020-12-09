@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 9.99 EUR
 inStock: true
-prodname: NEW C Lot de 3  Verre Trempé pour Samsung Galaxy S10 Lite  Note 10 Lite  Film Protection écran - Anti Rayures - Ultra Résistant  0 33mm HD Ultra Transparent  Dureté 9H Glass
+prodname: 'NEW C Lot de 3  Verre Trempé pour Samsung Galaxy S10 Lite  Note 10 Lite  Film Protection écran - Anti Rayures - Ultra Résistant  0 33mm HD Ultra Transparent  Dureté 9H Glass'
 ---
 
 Tienes [NEW C Lot de 3  Verre Trempé pour Samsung Galaxy S10 Lite  Note 10 Lite  Film Protection écran - Anti Rayures - Ultra Résistant  0 33mm HD Ultra Transparent  Dureté 9H Glass](https://www.amazon.fr/dp/B08BCQG4ZT/?tag=tolees0d-21) con un 40.04 % de descuento con precio de oferta de 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!

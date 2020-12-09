@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Manette pour Switch sans Fil  REDSTORM Controller pour Nintendo Switch  Manette Pro avec Bluetooth/Batterie Rechargeable/Double Moteur/Turbo/6-Axis/Capture d Ecran pour Switch et PC  Couleur Rose 
+prodname: 'Manette pour Switch sans Fil  REDSTORM Controller pour Nintendo Switch  Manette Pro avec Bluetooth/Batterie Rechargeable/Double Moteur/Turbo/6-Axis/Capture d Ecran pour Switch et PC  Couleur Rose '
 ---
 
 Ahora mismo tienes [Manette pour Switch sans Fil  REDSTORM Controller pour Nintendo Switch  Manette Pro avec Bluetooth/Batterie Rechargeable/Double Moteur/Turbo/6-Axis/Capture d Ecran pour Switch et PC  Couleur Rose ](https://www.amazon.fr/dp/B08MCDXQYW/?tag=tolees0d-21) a 32.99 EUR (original: 49.99 EUR) (34.01 %  de descuento) en el siguiente enlace!

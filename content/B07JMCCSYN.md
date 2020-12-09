@@ -14,7 +14,7 @@ currency: EUR
 price: 13.53
 comparePrice: 18.99 EUR
 inStock: true
-prodname: Playmobil - Famille et Rosalie - 70093
+prodname: 'Playmobil - Famille et Rosalie - 70093'
 ---
 
 Tienes [Playmobil - Famille et Rosalie - 70093](https://www.amazon.fr/dp/B07JMCCSYN/?tag=tolees0d-21) con un 28.75 % de descuento con precio de oferta de 13.53 EUR (original: 18.99 EUR) en el siguiente enlace!

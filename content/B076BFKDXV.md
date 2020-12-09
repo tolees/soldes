@@ -14,7 +14,7 @@ currency: EUR
 price: 159.0
 comparePrice: 229.0 EUR
 inStock: true
-prodname: Ring Spotlight Cam Wired | Caméra de surveillance HD  projecteur LED  alarme  système audio bidirectionnel  Noire | Essai gratuit de 30 jours à l abonnement Ring Protect
+prodname: 'Ring Spotlight Cam Wired | Caméra de surveillance HD  projecteur LED  alarme  système audio bidirectionnel  Noire | Essai gratuit de 30 jours à l abonnement Ring Protect'
 ---
 
 Está [Ring Spotlight Cam Wired | Caméra de surveillance HD  projecteur LED  alarme  système audio bidirectionnel  Noire | Essai gratuit de 30 jours à l abonnement Ring Protect](https://www.amazon.fr/dp/B076BFKDXV/?tag=tolees0d-21) con 30.57 de descuento por 159.0 EUR (original: 229.0 EUR) en el siguiente enlace!

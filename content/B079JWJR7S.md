@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Casque DJ  OneOdio P-10 Casque Audio Studio Professionnel  Casque Filaire  Casque de Monitoring  Son Parfait pour Synthétiseur PC TV Tablette Smartphone  Noir 
+prodname: 'Casque DJ  OneOdio P-10 Casque Audio Studio Professionnel  Casque Filaire  Casque de Monitoring  Son Parfait pour Synthétiseur PC TV Tablette Smartphone  Noir '
 ---
 
 Está [Casque DJ  OneOdio P-10 Casque Audio Studio Professionnel  Casque Filaire  Casque de Monitoring  Son Parfait pour Synthétiseur PC TV Tablette Smartphone  Noir ](https://www.amazon.fr/dp/B079JWJR7S/?tag=tolees0d-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

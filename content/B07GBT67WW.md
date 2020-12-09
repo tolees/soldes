@@ -14,7 +14,7 @@ currency: EUR
 price: 63.93
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Pulsar Horloge PG8283X1
+prodname: 'Pulsar Horloge PG8283X1'
 ---
 
 Tienes [Pulsar Horloge PG8283X1](https://www.amazon.fr/dp/B07GBT67WW/?tag=tolees0d-21) con un 50.44 % de descuento con precio de oferta de 63.93 EUR (original: 129.0 EUR) en el siguiente enlace!

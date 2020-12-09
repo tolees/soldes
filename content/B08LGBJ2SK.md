@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Manettes pour Switch  EasySMX Manette pour Nintendo Switch  Manette pour Switch sans Fil Bluetooth  6 Axes Manette pour Switch Pro avec Double Moteur pour Nintendo Switch Pro/Lite et PC  Rose
+prodname: 'Manettes pour Switch  EasySMX Manette pour Nintendo Switch  Manette pour Switch sans Fil Bluetooth  6 Axes Manette pour Switch Pro avec Double Moteur pour Nintendo Switch Pro/Lite et PC  Rose'
 ---
 
 Ahora mismo tienes [Manettes pour Switch  EasySMX Manette pour Nintendo Switch  Manette pour Switch sans Fil Bluetooth  6 Axes Manette pour Switch Pro avec Double Moteur pour Nintendo Switch Pro/Lite et PC  Rose](https://www.amazon.fr/dp/B08LGBJ2SK/?tag=tolees0d-21) a 35.99 EUR (original: 99.99 EUR) (64.01 %  de descuento) en el siguiente enlace!

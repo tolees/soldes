@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Crocs Crocband Flip  Tongs Mixte Adulte  Bleu  Bright Cobalt/White   36/37 EU
+prodname: 'Crocs Crocband Flip  Tongs Mixte Adulte  Bleu  Bright Cobalt/White   36/37 EU'
 ---
 
 Está [Crocs Crocband Flip  Tongs Mixte Adulte  Bleu  Bright Cobalt/White   36/37 EU](https://www.amazon.fr/dp/B07KBGRKYB/?tag=tolees0d-21) con 40.02 de descuento por 14.99 EUR (original: 24.99 EUR) en el siguiente enlace!

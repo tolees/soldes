@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: eXtremeRate Coque Avant Housse de Remplacement pour Xbox Séries X Manette  Custom Poignées Grips pour Xbox Séries S Manette-Manette Non Inclut-Rouge Écarlate
+prodname: 'eXtremeRate Coque Avant Housse de Remplacement pour Xbox Séries X Manette  Custom Poignées Grips pour Xbox Séries S Manette-Manette Non Inclut-Rouge Écarlate'
 ---
 
 Ahora mismo tienes [eXtremeRate Coque Avant Housse de Remplacement pour Xbox Séries X Manette  Custom Poignées Grips pour Xbox Séries S Manette-Manette Non Inclut-Rouge Écarlate](https://www.amazon.fr/dp/B08MVNWGLX/?tag=tolees0d-21) a 18.99 EUR (original: 28.99 EUR) (34.49 %  de descuento) en el siguiente enlace!

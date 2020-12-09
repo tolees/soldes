@@ -14,7 +14,7 @@ currency: EUR
 price: 100.72
 comparePrice: 143.89 EUR
 inStock: true
-prodname: Medela Tire Lait Électrique Simple Pompage Swing Flex  S Adapte au Sein et Améliore L Écoulement de Lait  Pivote à 360°
+prodname: 'Medela Tire Lait Électrique Simple Pompage Swing Flex  S Adapte au Sein et Améliore L Écoulement de Lait  Pivote à 360°'
 ---
 
 Está [Medela Tire Lait Électrique Simple Pompage Swing Flex  S Adapte au Sein et Améliore L Écoulement de Lait  Pivote à 360°](https://www.amazon.fr/dp/B07SPVYQTT/?tag=tolees0d-21) con 30.00 de descuento por 100.72 EUR (original: 143.89 EUR) en el siguiente enlace!

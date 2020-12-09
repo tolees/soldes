@@ -14,7 +14,7 @@ currency: EUR
 price: 73.0
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Fossil Femme Analogique Quartz Montre avec Bracelet en Cuir ES2830
+prodname: 'Fossil Femme Analogique Quartz Montre avec Bracelet en Cuir ES2830'
 ---
 
 Está [Fossil Femme Analogique Quartz Montre avec Bracelet en Cuir ES2830](https://www.amazon.fr/dp/B004NBZ5KM/?tag=tolees0d-21) con 27.00 de descuento por 73.0 EUR (original: 100.0 EUR) en el siguiente enlace!

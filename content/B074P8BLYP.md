@@ -14,7 +14,7 @@ currency: EUR
 price: 94.99
 comparePrice: 129.9 EUR
 inStock: true
-prodname: MICHELIN 008317 Easy Grip Evolution Chaîne à Neige Composite  EVO 17
+prodname: 'MICHELIN 008317 Easy Grip Evolution Chaîne à Neige Composite  EVO 17'
 ---
 
 Ahora mismo tienes [MICHELIN 008317 Easy Grip Evolution Chaîne à Neige Composite  EVO 17](https://www.amazon.fr/dp/B074P8BLYP/?tag=tolees0d-21) a 94.99 EUR (original: 129.9 EUR) (26.87 %  de descuento) en el siguiente enlace!

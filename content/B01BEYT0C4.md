@@ -14,7 +14,7 @@ currency: EUR
 price: 99.0
 comparePrice: 195.0 EUR
 inStock: true
-prodname: Hugo Boss Homme Analogique Quartz Montre avec Bracelet en Cuir 1513331
+prodname: 'Hugo Boss Homme Analogique Quartz Montre avec Bracelet en Cuir 1513331'
 ---
 
 Tienes [Hugo Boss Homme Analogique Quartz Montre avec Bracelet en Cuir 1513331](https://www.amazon.fr/dp/B01BEYT0C4/?tag=tolees0d-21) con un 49.23 % de descuento con precio de oferta de 99.0 EUR (original: 195.0 EUR) en el siguiente enlace!

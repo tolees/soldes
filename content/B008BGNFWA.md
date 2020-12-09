@@ -14,7 +14,7 @@ currency: EUR
 price: 21.89
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Lansay - 75024 - Jeu de Société - Les Mystères de Pékin
+prodname: 'Lansay - 75024 - Jeu de Société - Les Mystères de Pékin'
 ---
 
 Está [Lansay - 75024 - Jeu de Société - Les Mystères de Pékin](https://www.amazon.fr/dp/B008BGNFWA/?tag=tolees0d-21) con 27.01 de descuento por 21.89 EUR (original: 29.99 EUR) en el siguiente enlace!

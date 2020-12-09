@@ -14,7 +14,7 @@ currency: EUR
 price: 95.39
 comparePrice: 230.0 EUR
 inStock: true
-prodname: Tod s Tod’S Brillengestelle To5116 Lunettes de soleil  Bleu  Blau   53.0 Homme
+prodname: 'Tod s Tod’S Brillengestelle To5116 Lunettes de soleil  Bleu  Blau   53.0 Homme'
 ---
 
 Tienes [Tod s Tod’S Brillengestelle To5116 Lunettes de soleil  Bleu  Blau   53.0 Homme](https://www.amazon.fr/dp/B015G5SULO/?tag=tolees0d-21) con un 58.53 % de descuento con precio de oferta de 95.39 EUR (original: 230.0 EUR) en el siguiente enlace!

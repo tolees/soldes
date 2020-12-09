@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 18.99 EUR
 inStock: true
-prodname: EASTBLUE Jouet à mâcher pour Chiens agressifs : Jouet à mâcher en Caoutchouc Naturel Ultra résistant Presque incassable pour Les Races Moyennes et Grandes
+prodname: 'EASTBLUE Jouet à mâcher pour Chiens agressifs : Jouet à mâcher en Caoutchouc Naturel Ultra résistant Presque incassable pour Les Races Moyennes et Grandes'
 ---
 
 Tienes [EASTBLUE Jouet à mâcher pour Chiens agressifs : Jouet à mâcher en Caoutchouc Naturel Ultra résistant Presque incassable pour Les Races Moyennes et Grandes](https://www.amazon.fr/dp/B083NQBCY3/?tag=tolees0d-21) con un 36.86 % de descuento con precio de oferta de 11.99 EUR (original: 18.99 EUR) en el siguiente enlace!

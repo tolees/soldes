@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Tomshoo Gilet chauffant électrique à infrarouge  L-XL
+prodname: 'Tomshoo Gilet chauffant électrique à infrarouge  L-XL'
 ---
 
 Está [Tomshoo Gilet chauffant électrique à infrarouge  L-XL](https://www.amazon.fr/dp/B07ZH1H9DZ/?tag=tolees0d-21) con 73.11 de descuento por 6.99 EUR (original: 25.99 EUR) en el siguiente enlace!

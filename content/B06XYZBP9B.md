@@ -14,7 +14,7 @@ currency: EUR
 price: 107.0
 comparePrice: 219.0 EUR
 inStock: true
-prodname: Samsonite Spark SNG - Spinner L Extensible Bagage Cabine  79 cm  124 L  Noir  Black 
+prodname: 'Samsonite Spark SNG - Spinner L Extensible Bagage Cabine  79 cm  124 L  Noir  Black '
 ---
 
 Ahora mismo tienes [Samsonite Spark SNG - Spinner L Extensible Bagage Cabine  79 cm  124 L  Noir  Black ](https://www.amazon.fr/dp/B06XYZBP9B/?tag=tolees0d-21) a 107.0 EUR (original: 219.0 EUR) (51.14 %  de descuento) en el siguiente enlace!

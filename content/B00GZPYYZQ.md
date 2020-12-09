@@ -14,7 +14,7 @@ currency: EUR
 price: 53.0
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Black Diamond bâtons de trekking Trail pour femmes - Bâtons de randonnée télescopiques en aluminium avec poignée ergonomique agréable / 1 x 2 bâtons 125cm
+prodname: 'Black Diamond bâtons de trekking Trail pour femmes - Bâtons de randonnée télescopiques en aluminium avec poignée ergonomique agréable / 1 x 2 bâtons 125cm'
 ---
 
 Está [Black Diamond bâtons de trekking Trail pour femmes - Bâtons de randonnée télescopiques en aluminium avec poignée ergonomique agréable / 1 x 2 bâtons 125cm](https://www.amazon.fr/dp/B00GZPYYZQ/?tag=tolees0d-21) con 33.75 de descuento por 53.0 EUR (original: 80.0 EUR) en el siguiente enlace!

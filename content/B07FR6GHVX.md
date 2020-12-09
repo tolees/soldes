@@ -14,7 +14,7 @@ currency: EUR
 price: 97.42
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Clarks Tri Native  Sneakers Basses Homme  Noir  Black -   41.5 EU
+prodname: 'Clarks Tri Native  Sneakers Basses Homme  Noir  Black -   41.5 EU'
 ---
 
 Está [Clarks Tri Native  Sneakers Basses Homme  Noir  Black -   41.5 EU](https://www.amazon.fr/dp/B07FR6GHVX/?tag=tolees0d-21) con 25.06 de descuento por 97.42 EUR (original: 130.0 EUR) en el siguiente enlace!

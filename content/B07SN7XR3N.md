@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 24.23 EUR
 inStock: true
-prodname: Carte Noire Café Espresso Bio - 96 capsules  6 packs de 16  compatibles Dolce Gusto®*
+prodname: 'Carte Noire Café Espresso Bio - 96 capsules  6 packs de 16  compatibles Dolce Gusto®*'
 ---
 
 Ahora mismo tienes [Carte Noire Café Espresso Bio - 96 capsules  6 packs de 16  compatibles Dolce Gusto®*](https://www.amazon.fr/dp/B07SN7XR3N/?tag=tolees0d-21) a 15.99 EUR (original: 24.23 EUR) (34.01 %  de descuento) en el siguiente enlace!

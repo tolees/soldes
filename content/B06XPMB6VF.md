@@ -14,7 +14,7 @@ currency: EUR
 price: 4.58
 comparePrice: 15.02 EUR
 inStock: true
-prodname: Le Cerveau d acier [Blu-Ray]
+prodname: 'Le Cerveau d acier [Blu-Ray]'
 ---
 
 Ahora mismo tienes [Le Cerveau d acier [Blu-Ray]](https://www.amazon.fr/dp/B06XPMB6VF/?tag=tolees0d-21) a 4.58 EUR (original: 15.02 EUR) (69.51 %  de descuento) en el siguiente enlace!

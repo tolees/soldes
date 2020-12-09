@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Joseph Joseph - SinkBase Plus - Rangement d Evier 3 Pièces - Gris
+prodname: 'Joseph Joseph - SinkBase Plus - Rangement d Evier 3 Pièces - Gris'
 ---
 
 Tienes [Joseph Joseph - SinkBase Plus - Rangement d Evier 3 Pièces - Gris](https://www.amazon.fr/dp/B01BPDXVEM/?tag=tolees0d-21) con un 36.01 % de descuento con precio de oferta de 15.99 EUR (original: 24.99 EUR) en el siguiente enlace!

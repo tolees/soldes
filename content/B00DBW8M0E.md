@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.0 EUR
 inStock: true
-prodname: Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray  SD upscalée ] [SD Blu-ray  SD upscalée ]
+prodname: 'Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray  SD upscalée ] [SD Blu-ray  SD upscalée ]'
 ---
 
 Tienes [Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray  SD upscalée ] [SD Blu-ray  SD upscalée ]](https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21) con un 33.40 % de descuento con precio de oferta de 9.99 EUR (original: 15.0 EUR) en el siguiente enlace!

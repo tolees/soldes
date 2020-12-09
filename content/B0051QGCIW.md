@@ -14,7 +14,7 @@ currency: EUR
 price: 64.35
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Diesel Homme Analogique Quartz Montre avec Bracelet en Silicone DZ1437
+prodname: 'Diesel Homme Analogique Quartz Montre avec Bracelet en Silicone DZ1437'
 ---
 
 Ahora mismo tienes [Diesel Homme Analogique Quartz Montre avec Bracelet en Silicone DZ1437](https://www.amazon.fr/dp/B0051QGCIW/?tag=tolees0d-21) a 64.35 EUR (original: 95.0 EUR) (32.26 %  de descuento) en el siguiente enlace!

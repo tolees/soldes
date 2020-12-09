@@ -14,7 +14,7 @@ currency: EUR
 price: 39.9
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Panasonic Epilateur ES-ED92 avec 6 Accessoires  Epilation en 1 Seul Passage  Double Disque  48 Pincettes de précision  Tête Pivotante à 60°  Wet & Dry
+prodname: 'Panasonic Epilateur ES-ED92 avec 6 Accessoires  Epilation en 1 Seul Passage  Double Disque  48 Pincettes de précision  Tête Pivotante à 60°  Wet & Dry'
 ---
 
 Tienes [Panasonic Epilateur ES-ED92 avec 6 Accessoires  Epilation en 1 Seul Passage  Double Disque  48 Pincettes de précision  Tête Pivotante à 60°  Wet & Dry](https://www.amazon.fr/dp/B00YPACTDW/?tag=tolees0d-21) con un 59.70 % de descuento con precio de oferta de 39.9 EUR (original: 99.0 EUR) en el siguiente enlace!

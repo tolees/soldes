@@ -14,7 +14,7 @@ currency: EUR
 price: 244.93
 comparePrice: 400.0 EUR
 inStock: true
-prodname: Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Contrôle Actif du Bruit   Noir
+prodname: 'Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Contrôle Actif du Bruit   Noir'
 ---
 
 Ahora mismo tienes [Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Contrôle Actif du Bruit   Noir](https://www.amazon.fr/dp/B078HQ5QQJ/?tag=tolees0d-21) a 244.93 EUR (original: 400.0 EUR) (38.77 %  de descuento) en el siguiente enlace!

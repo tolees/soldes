@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Logitech R400 Télécommande de Présentation sans Fil  2 4 GHz/Récepteur USB  Pointeur Laser Rouge  Portée de 15 Mètres  6 Boutons  Commande Intuitive de Diaporama  Indicateur de Batterie  PC - Noir
+prodname: 'Logitech R400 Télécommande de Présentation sans Fil  2 4 GHz/Récepteur USB  Pointeur Laser Rouge  Portée de 15 Mètres  6 Boutons  Commande Intuitive de Diaporama  Indicateur de Batterie  PC - Noir'
 ---
 
 Tienes [Logitech R400 Télécommande de Présentation sans Fil  2 4 GHz/Récepteur USB  Pointeur Laser Rouge  Portée de 15 Mètres  6 Boutons  Commande Intuitive de Diaporama  Indicateur de Batterie  PC - Noir](https://www.amazon.fr/dp/B002L3TSLQ/?tag=tolees0d-21) con un 56.69 % de descuento con precio de oferta de 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 16.03
 comparePrice: 22.9 EUR
 inStock: true
-prodname: DANIEL HECHTER Ecrin Collection Couture Black Eau de Parfum 100 ml + Déodorant 150 ml
+prodname: 'DANIEL HECHTER Ecrin Collection Couture Black Eau de Parfum 100 ml + Déodorant 150 ml'
 ---
 
 Ahora mismo tienes [DANIEL HECHTER Ecrin Collection Couture Black Eau de Parfum 100 ml + Déodorant 150 ml](https://www.amazon.fr/dp/B07GVZY4JT/?tag=tolees0d-21) a 16.03 EUR (original: 22.9 EUR) (30.00 %  de descuento) en el siguiente enlace!

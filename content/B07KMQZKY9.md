@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Adidas W E 3S Short Femme Noir/Blanc FR  Taille Fabricant : XS 
+prodname: 'Adidas W E 3S Short Femme Noir/Blanc FR  Taille Fabricant : XS '
 ---
 
 Ahora mismo tienes [Adidas W E 3S Short Femme Noir/Blanc FR  Taille Fabricant : XS ](https://www.amazon.fr/dp/B07KMQZKY9/?tag=tolees0d-21) a 19.99 EUR (original: 27.99 EUR) (28.58 %  de descuento) en el siguiente enlace!

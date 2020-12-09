@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10  8  8.1  7 Transmetteur Récepteur Bluetooth 5.0 Plug & Play pour Casque  PC  Smartphone  Tablette
+prodname: 'USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10  8  8.1  7 Transmetteur Récepteur Bluetooth 5.0 Plug & Play pour Casque  PC  Smartphone  Tablette'
 ---
 
 Ahora mismo tienes [USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10  8  8.1  7 Transmetteur Récepteur Bluetooth 5.0 Plug & Play pour Casque  PC  Smartphone  Tablette](https://www.amazon.fr/dp/B08FHSQQCX/?tag=tolees0d-21) a 11.99 EUR (original: 19.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

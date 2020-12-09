@@ -14,7 +14,7 @@ currency: EUR
 price: 6.69
 comparePrice: 9.89 EUR
 inStock: true
-prodname: Coque pour Samsung Galaxy S20 FE  Fan Edition  Noir PU Cuir à Rabat [Fonction de Stand] Flip Housse Étui avec Un Verre Trempé Film Protection Écran pour Samsung Galaxy S20 FE  Fan Edition 
+prodname: 'Coque pour Samsung Galaxy S20 FE  Fan Edition  Noir PU Cuir à Rabat [Fonction de Stand] Flip Housse Étui avec Un Verre Trempé Film Protection Écran pour Samsung Galaxy S20 FE  Fan Edition '
 ---
 
 Está [Coque pour Samsung Galaxy S20 FE  Fan Edition  Noir PU Cuir à Rabat [Fonction de Stand] Flip Housse Étui avec Un Verre Trempé Film Protection Écran pour Samsung Galaxy S20 FE  Fan Edition ](https://www.amazon.fr/dp/B08LPZLY5H/?tag=tolees0d-21) con 32.36 de descuento por 6.69 EUR (original: 9.89 EUR) en el siguiente enlace!

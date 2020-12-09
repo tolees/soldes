@@ -14,7 +14,7 @@ currency: EUR
 price: 27.49
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Truck Driver pour PS4
+prodname: 'Truck Driver pour PS4'
 ---
 
 Está [Truck Driver pour PS4](https://www.amazon.fr/dp/B07FDKWPLS/?tag=tolees0d-21) con 31.26 de descuento por 27.49 EUR (original: 39.99 EUR) en el siguiente enlace!

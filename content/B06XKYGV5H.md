@@ -14,7 +14,7 @@ currency: EUR
 price: 51.0
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Swarovski Bracelet-Jonc Ginger  Blanc  Métal Doré Rose
+prodname: 'Swarovski Bracelet-Jonc Ginger  Blanc  Métal Doré Rose'
 ---
 
 Está [Swarovski Bracelet-Jonc Ginger  Blanc  Métal Doré Rose](https://www.amazon.fr/dp/B06XKYGV5H/?tag=tolees0d-21) con 35.44 de descuento por 51.0 EUR (original: 79.0 EUR) en el siguiente enlace!

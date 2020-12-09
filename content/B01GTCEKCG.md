@@ -14,7 +14,7 @@ currency: EUR
 price: 172.0
 comparePrice: 640.0 EUR
 inStock: true
-prodname: Montre Louis Cottier Homme Automatique - 43 mm - Cadran Argenté - Bracelet Cuir Noir - HB34330C2BC1
+prodname: 'Montre Louis Cottier Homme Automatique - 43 mm - Cadran Argenté - Bracelet Cuir Noir - HB34330C2BC1'
 ---
 
 Tienes [Montre Louis Cottier Homme Automatique - 43 mm - Cadran Argenté - Bracelet Cuir Noir - HB34330C2BC1](https://www.amazon.fr/dp/B01GTCEKCG/?tag=tolees0d-21) con un 73.12 % de descuento con precio de oferta de 172.0 EUR (original: 640.0 EUR) en el siguiente enlace!

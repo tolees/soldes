@@ -14,7 +14,7 @@ currency: EUR
 price: 56.0
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Clarks Desert Boot Bottes Classiques pour Homme - Marron - Cuir Marron Chestnut Chestnut  44 EU
+prodname: 'Clarks Desert Boot Bottes Classiques pour Homme - Marron - Cuir Marron Chestnut Chestnut  44 EU'
 ---
 
 Ahora mismo tienes [Clarks Desert Boot Bottes Classiques pour Homme - Marron - Cuir Marron Chestnut Chestnut  44 EU](https://www.amazon.fr/dp/B07MJ7FPRG/?tag=tolees0d-21) a 56.0 EUR (original: 140.0 EUR) (60.00 %  de descuento) en el siguiente enlace!

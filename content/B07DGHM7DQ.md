@@ -14,7 +14,7 @@ currency: EUR
 price: 42.03
 comparePrice: 130.0 EUR
 inStock: true
-prodname: Braun Oral-B Smart 4 - 4000N - Brosse à Dents Électrique Rechargeable  1 Manche Connecté Blanc avec Bluetooth  2 Brossettes
+prodname: 'Braun Oral-B Smart 4 - 4000N - Brosse à Dents Électrique Rechargeable  1 Manche Connecté Blanc avec Bluetooth  2 Brossettes'
 ---
 
 Está [Braun Oral-B Smart 4 - 4000N - Brosse à Dents Électrique Rechargeable  1 Manche Connecté Blanc avec Bluetooth  2 Brossettes](https://www.amazon.fr/dp/B07DGHM7DQ/?tag=tolees0d-21) con 67.67 de descuento por 42.03 EUR (original: 130.0 EUR) en el siguiente enlace!

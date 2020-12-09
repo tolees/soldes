@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 149.99 EUR
 inStock: true
-prodname: Ocean Digital Radio Internet Stéréo WiFi/Dab/FM WR280S avec Récepteur Bluetooth  Commande APP à Distance  Entrée Auxiliaire  Sortie Ligne  UPnP/DLNA  Boîtier en Bois  Affichage Couleur de 2 8"
+prodname: 'Ocean Digital Radio Internet Stéréo WiFi/Dab/FM WR280S avec Récepteur Bluetooth  Commande APP à Distance  Entrée Auxiliaire  Sortie Ligne  UPnP/DLNA  Boîtier en Bois  Affichage Couleur de 2 8"'
 ---
 
 Ahora mismo tienes [Ocean Digital Radio Internet Stéréo WiFi/Dab/FM WR280S avec Récepteur Bluetooth  Commande APP à Distance  Entrée Auxiliaire  Sortie Ligne  UPnP/DLNA  Boîtier en Bois  Affichage Couleur de 2 8"](https://www.amazon.fr/dp/B07VNPK48N/?tag=tolees0d-21) a 69.99 EUR (original: 149.99 EUR) (53.34 %  de descuento) en el siguiente enlace!

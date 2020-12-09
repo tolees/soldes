@@ -14,7 +14,7 @@ currency: EUR
 price: 43.0
 comparePrice: 59.0 EUR
 inStock: true
-prodname: Timex Montres bracelet TW2R85400
+prodname: 'Timex Montres bracelet TW2R85400'
 ---
 
 Está [Timex Montres bracelet TW2R85400](https://www.amazon.fr/dp/B07HJBNQ79/?tag=tolees0d-21) con 27.12 de descuento por 43.0 EUR (original: 59.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 4.6
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Xiaomi Mi Casual Daypack Noir SIM Free
+prodname: 'Xiaomi Mi Casual Daypack Noir SIM Free'
 ---
 
 Ahora mismo tienes [Xiaomi Mi Casual Daypack Noir SIM Free](https://www.amazon.fr/dp/B07KQQL8K6/?tag=tolees0d-21) a 4.6 EUR (original: 9.99 EUR) (53.95 %  de descuento) en el siguiente enlace!

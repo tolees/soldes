@@ -14,7 +14,7 @@ currency: EUR
 price: 114.1
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Hauck Runner Poussette 3 Roues jusqu á 25 kg avec Position Couchée de 0 mois  Roues Gonflables  Pliage Compact  Grand Panier - Gris
+prodname: 'Hauck Runner Poussette 3 Roues jusqu á 25 kg avec Position Couchée de 0 mois  Roues Gonflables  Pliage Compact  Grand Panier - Gris'
 ---
 
 Ahora mismo tienes [Hauck Runner Poussette 3 Roues jusqu á 25 kg avec Position Couchée de 0 mois  Roues Gonflables  Pliage Compact  Grand Panier - Gris](https://www.amazon.fr/dp/B07XZQ3KP9/?tag=tolees0d-21) a 114.1 EUR (original: 199.99 EUR) (42.95 %  de descuento) en el siguiente enlace!

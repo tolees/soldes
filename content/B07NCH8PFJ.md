@@ -14,7 +14,7 @@ currency: EUR
 price: 59.9
 comparePrice: 119.8 EUR
 inStock: true
-prodname: Tommy Hilfiger Th Essential Reg Polo SS  Blanc  Classic White 100   XX-Large Femme
+prodname: 'Tommy Hilfiger Th Essential Reg Polo SS  Blanc  Classic White 100   XX-Large Femme'
 ---
 
 Tienes [Tommy Hilfiger Th Essential Reg Polo SS  Blanc  Classic White 100   XX-Large Femme](https://www.amazon.fr/dp/B07NCH8PFJ/?tag=tolees0d-21) con un 50.00 % de descuento con precio de oferta de 59.9 EUR (original: 119.8 EUR) en el siguiente enlace!

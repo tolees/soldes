@@ -14,7 +14,7 @@ currency: EUR
 price: 64.99
 comparePrice: 114.99 EUR
 inStock: true
-prodname: LIFX HB4L3A19MTW08E27 Day & Dusk Mini Ampoule LED  Verre  E27  9 W  Blanc
+prodname: 'LIFX HB4L3A19MTW08E27 Day & Dusk Mini Ampoule LED  Verre  E27  9 W  Blanc'
 ---
 
 Tienes [LIFX HB4L3A19MTW08E27 Day & Dusk Mini Ampoule LED  Verre  E27  9 W  Blanc](https://www.amazon.fr/dp/B0753SBGGV/?tag=tolees0d-21) con un 43.48 % de descuento con precio de oferta de 64.99 EUR (original: 114.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 349.0
 comparePrice: 499.0 EUR
 inStock: true
-prodname: ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile 14   FHD  Intel pentium N4200  RAM 8Go  64Go EMMC  Chrome OS  Clavier AZERTY Français
+prodname: 'ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile 14   FHD  Intel pentium N4200  RAM 8Go  64Go EMMC  Chrome OS  Clavier AZERTY Français'
 ---
 
 Está [ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile 14   FHD  Intel pentium N4200  RAM 8Go  64Go EMMC  Chrome OS  Clavier AZERTY Français](https://www.amazon.fr/dp/B086QDTBQN/?tag=tolees0d-21) con 30.06 de descuento por 349.0 EUR (original: 499.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Yes Featuring Jon Anderson  Trevor Rabin  Rick Wakeman Live At The Apollo [Blu-ray]
+prodname: 'Yes Featuring Jon Anderson  Trevor Rabin  Rick Wakeman Live At The Apollo [Blu-ray]'
 ---
 
 Está [Yes Featuring Jon Anderson  Trevor Rabin  Rick Wakeman Live At The Apollo [Blu-ray]](https://www.amazon.fr/dp/B07DV8WT5Z/?tag=tolees0d-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

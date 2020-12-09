@@ -14,7 +14,7 @@ currency: EUR
 price: 174.99
 comparePrice: 319.49 EUR
 inStock: true
-prodname: Calor Pro Express Care Centrale Vapeur Haute Pression 7 Bars Fonction Pressing 480 g/Min Collecteur de Calcaire Fabriqué en France 2400 W GV9061C0  1.6 liters  Standard
+prodname: 'Calor Pro Express Care Centrale Vapeur Haute Pression 7 Bars Fonction Pressing 480 g/Min Collecteur de Calcaire Fabriqué en France 2400 W GV9061C0  1.6 liters  Standard'
 ---
 
 Tienes [Calor Pro Express Care Centrale Vapeur Haute Pression 7 Bars Fonction Pressing 480 g/Min Collecteur de Calcaire Fabriqué en France 2400 W GV9061C0  1.6 liters  Standard](https://www.amazon.fr/dp/B01KZTSH00/?tag=tolees0d-21) con un 45.23 % de descuento con precio de oferta de 174.99 EUR (original: 319.49 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 22.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Alex Perry Cadeau boucle d oreille femme argent bijoux femme swarovski idee cadeau femme original cadeau maman bijoux femme bijoux pas cher cadeau rigolo idee cadeau ado fille
+prodname: 'Alex Perry Cadeau boucle d oreille femme argent bijoux femme swarovski idee cadeau femme original cadeau maman bijoux femme bijoux pas cher cadeau rigolo idee cadeau ado fille'
 ---
 
 Ahora mismo tienes [Alex Perry Cadeau boucle d oreille femme argent bijoux femme swarovski idee cadeau femme original cadeau maman bijoux femme bijoux pas cher cadeau rigolo idee cadeau ado fille](https://www.amazon.fr/dp/B07HKBDZLJ/?tag=tolees0d-21) a 22.99 EUR (original: 99.99 EUR) (77.01 %  de descuento) en el siguiente enlace!

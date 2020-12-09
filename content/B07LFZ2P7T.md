@@ -14,7 +14,7 @@ currency: EUR
 price: 82.5
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Geox U Nebula 4 X 4 B ABX A  Bottes Chukka Homme  Marron  Browncotto C6003   41 EU
+prodname: 'Geox U Nebula 4 X 4 B ABX A  Bottes Chukka Homme  Marron  Browncotto C6003   41 EU'
 ---
 
 Ahora mismo tienes [Geox U Nebula 4 X 4 B ABX A  Bottes Chukka Homme  Marron  Browncotto C6003   41 EU](https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21) a 82.5 EUR (original: 150.0 EUR) (45.00 %  de descuento) en el siguiente enlace!

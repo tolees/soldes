@@ -14,7 +14,7 @@ currency: EUR
 price: 82.89
 comparePrice: 119.99 EUR
 inStock: true
-prodname: Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ronde 19 cm / 2 2L Induction E2230204
+prodname: 'Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ronde 19 cm / 2 2L Induction E2230204'
 ---
 
 Tienes [Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ronde 19 cm / 2 2L Induction E2230204](https://www.amazon.fr/dp/B07TTRXJ6N/?tag=tolees0d-21) con un 30.92 % de descuento con precio de oferta de 82.89 EUR (original: 119.99 EUR) en el siguiente enlace!

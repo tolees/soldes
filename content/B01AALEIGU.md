@@ -14,7 +14,7 @@ currency: EUR
 price: 45.85
 comparePrice: 81.99 EUR
 inStock: true
-prodname: Chaussures de sécurité "S1" Taille 41
+prodname: 'Chaussures de sécurité "S1" Taille 41'
 ---
 
 Tienes [Chaussures de sécurité "S1" Taille 41](https://www.amazon.fr/dp/B01AALEIGU/?tag=tolees0d-21) con un 44.08 % de descuento con precio de oferta de 45.85 EUR (original: 81.99 EUR) en el siguiente enlace!

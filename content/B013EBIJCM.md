@@ -14,7 +14,7 @@ currency: EUR
 price: 55.3
 comparePrice: 138.24 EUR
 inStock: true
-prodname: Plateau pour Chaise Carrie Tumble Form S2 Junior
+prodname: 'Plateau pour Chaise Carrie Tumble Form S2 Junior'
 ---
 
 Ahora mismo tienes [Plateau pour Chaise Carrie Tumble Form S2 Junior](https://www.amazon.fr/dp/B013EBIJCM/?tag=tolees0d-21) a 55.3 EUR (original: 138.24 EUR) (60.00 %  de descuento) en el siguiente enlace!

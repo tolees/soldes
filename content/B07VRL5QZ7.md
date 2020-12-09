@@ -14,7 +14,7 @@ currency: EUR
 price: 40.99
 comparePrice: 86.58 EUR
 inStock: true
-prodname: Batterie Externe Solaire 26800mAh IPX6 Chargeur Solaire 3 Ports 3.1A USB/Type-C  3 Entrées USB/Type-C/Panneaux Solaire  LED & Corde Suspendue  Power Bank Solaire pour iPhone Samsung Huawei  etc
+prodname: 'Batterie Externe Solaire 26800mAh IPX6 Chargeur Solaire 3 Ports 3.1A USB/Type-C  3 Entrées USB/Type-C/Panneaux Solaire  LED & Corde Suspendue  Power Bank Solaire pour iPhone Samsung Huawei  etc'
 ---
 
 Tienes [Batterie Externe Solaire 26800mAh IPX6 Chargeur Solaire 3 Ports 3.1A USB/Type-C  3 Entrées USB/Type-C/Panneaux Solaire  LED & Corde Suspendue  Power Bank Solaire pour iPhone Samsung Huawei  etc](https://www.amazon.fr/dp/B07VRL5QZ7/?tag=tolees0d-21) con un 52.66 % de descuento con precio de oferta de 40.99 EUR (original: 86.58 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 186.87
 comparePrice: 265.0 EUR
 inStock: true
-prodname: Yamaha - FX310AII - Guitare Folk
+prodname: 'Yamaha - FX310AII - Guitare Folk'
 ---
 
 Ahora mismo tienes [Yamaha - FX310AII - Guitare Folk](https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21) a 186.87 EUR (original: 265.0 EUR) (29.48 %  de descuento) en el siguiente enlace!

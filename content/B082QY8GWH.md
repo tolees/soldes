@@ -14,7 +14,7 @@ currency: EUR
 price: 67.99
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Moniteur de Fréquence Cardiaque  Traqueur de Forme Physique de Montre de Smart Watch IP67 Imperméable et Compteur-BL14
+prodname: 'Moniteur de Fréquence Cardiaque  Traqueur de Forme Physique de Montre de Smart Watch IP67 Imperméable et Compteur-BL14'
 ---
 
 Ahora mismo tienes [Moniteur de Fréquence Cardiaque  Traqueur de Forme Physique de Montre de Smart Watch IP67 Imperméable et Compteur-BL14](https://www.amazon.fr/dp/B082QY8GWH/?tag=tolees0d-21) a 67.99 EUR (original: 99.0 EUR) (31.32 %  de descuento) en el siguiente enlace!

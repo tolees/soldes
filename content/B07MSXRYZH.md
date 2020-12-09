@@ -14,7 +14,7 @@ currency: EUR
 price: 54.65
 comparePrice: 119.95 EUR
 inStock: true
-prodname: KEEN Explore Mid  IMPERMÉABLE  Chaussures de Randonnée Hautes Hommes  Noir  Magnet/Fiery Red 007   43 EU
+prodname: 'KEEN Explore Mid  IMPERMÉABLE  Chaussures de Randonnée Hautes Hommes  Noir  Magnet/Fiery Red 007   43 EU'
 ---
 
 Está [KEEN Explore Mid  IMPERMÉABLE  Chaussures de Randonnée Hautes Hommes  Noir  Magnet/Fiery Red 007   43 EU](https://www.amazon.fr/dp/B07MSXRYZH/?tag=tolees0d-21) con 54.44 de descuento por 54.65 EUR (original: 119.95 EUR) en el siguiente enlace!

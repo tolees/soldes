@@ -14,7 +14,7 @@ currency: EUR
 price: 576.09
 comparePrice: 1147.99 EUR
 inStock: true
-prodname: QNAP TS-653B-4G 6 Bay NAS de bureau Boîtier avec 4 Go de RAM
+prodname: 'QNAP TS-653B-4G 6 Bay NAS de bureau Boîtier avec 4 Go de RAM'
 ---
 
 Tienes [QNAP TS-653B-4G 6 Bay NAS de bureau Boîtier avec 4 Go de RAM](https://www.amazon.fr/dp/B06XGQHGNH/?tag=tolees0d-21) con un 49.82 % de descuento con precio de oferta de 576.09 EUR (original: 1147.99 EUR) en el siguiente enlace!

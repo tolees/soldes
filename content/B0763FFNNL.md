@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 69.9 EUR
 inStock: true
-prodname: NIVEA PURE SKIN Brosse Nettoyante Électrique Visage Kit  Brosse pour le Visage  Brosse Nettoyante pour le Visage
+prodname: 'NIVEA PURE SKIN Brosse Nettoyante Électrique Visage Kit  Brosse pour le Visage  Brosse Nettoyante pour le Visage'
 ---
 
 Está [NIVEA PURE SKIN Brosse Nettoyante Électrique Visage Kit  Brosse pour le Visage  Brosse Nettoyante pour le Visage](https://www.amazon.fr/dp/B0763FFNNL/?tag=tolees0d-21) con 42.79 de descuento por 39.99 EUR (original: 69.9 EUR) en el siguiente enlace!

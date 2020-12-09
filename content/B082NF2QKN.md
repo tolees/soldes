@@ -14,7 +14,7 @@ currency: EUR
 price: 35.63
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Wasteland 3 : Day One Edition pour PS4
+prodname: 'Wasteland 3 : Day One Edition pour PS4'
 ---
 
 Tienes [Wasteland 3 : Day One Edition pour PS4](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21) con un 40.61 % de descuento con precio de oferta de 35.63 EUR (original: 59.99 EUR) en el siguiente enlace!

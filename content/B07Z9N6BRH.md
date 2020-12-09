@@ -14,7 +14,7 @@ currency: EUR
 price: 14.65
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Goliath - Super Zings Bakery Blast - à collectionner - à partir de 5 ans
+prodname: 'Goliath - Super Zings Bakery Blast - à collectionner - à partir de 5 ans'
 ---
 
 Tienes [Goliath - Super Zings Bakery Blast - à collectionner - à partir de 5 ans](https://www.amazon.fr/dp/B07Z9N6BRH/?tag=tolees0d-21) con un 26.38 % de descuento con precio de oferta de 14.65 EUR (original: 19.9 EUR) en el siguiente enlace!

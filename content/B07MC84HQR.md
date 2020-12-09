@@ -14,7 +14,7 @@ currency: EUR
 price: 86.19
 comparePrice: 174.9 EUR
 inStock: true
-prodname: Liu Jo Shoes Asia 06 Sneaker  Sneakers Basses Femme  Blanc  White 01111   40 EU
+prodname: 'Liu Jo Shoes Asia 06 Sneaker  Sneakers Basses Femme  Blanc  White 01111   40 EU'
 ---
 
 Tienes [Liu Jo Shoes Asia 06 Sneaker  Sneakers Basses Femme  Blanc  White 01111   40 EU](https://www.amazon.fr/dp/B07MC84HQR/?tag=tolees0d-21) con un 50.72 % de descuento con precio de oferta de 86.19 EUR (original: 174.9 EUR) en el siguiente enlace!

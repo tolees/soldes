@@ -14,7 +14,7 @@ currency: EUR
 price: 73.77
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Clarks Un Lindel Zip  Botines Femme  Noir  Black Oily Lea Black Oily Lea   38 EU
+prodname: 'Clarks Un Lindel Zip  Botines Femme  Noir  Black Oily Lea Black Oily Lea   38 EU'
 ---
 
 Tienes [Clarks Un Lindel Zip  Botines Femme  Noir  Black Oily Lea Black Oily Lea   38 EU](https://www.amazon.fr/dp/B07N1JMZYR/?tag=tolees0d-21) con un 38.52 % de descuento con precio de oferta de 73.77 EUR (original: 120.0 EUR) en el siguiente enlace!

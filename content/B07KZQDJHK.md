@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Alex Perry Bijoux pour Elle  Boucles d oreilles Coeur en Argent Sterling Avec Amour Éclatant  Élégant et Charmant  Zircon Bleu  Cadeau pour Femme  Cadeau pour Maman  Emballage de Boîte-Cadeau
+prodname: 'Alex Perry Bijoux pour Elle  Boucles d oreilles Coeur en Argent Sterling Avec Amour Éclatant  Élégant et Charmant  Zircon Bleu  Cadeau pour Femme  Cadeau pour Maman  Emballage de Boîte-Cadeau'
 ---
 
 Tienes [Alex Perry Bijoux pour Elle  Boucles d oreilles Coeur en Argent Sterling Avec Amour Éclatant  Élégant et Charmant  Zircon Bleu  Cadeau pour Femme  Cadeau pour Maman  Emballage de Boîte-Cadeau](https://www.amazon.fr/dp/B07KZQDJHK/?tag=tolees0d-21) con un 78.01 % de descuento con precio de oferta de 21.99 EUR (original: 99.99 EUR) en el siguiente enlace!

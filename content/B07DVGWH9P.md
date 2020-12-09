@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 30.08 EUR
 inStock: true
-prodname: Coffret Jackie Chan l essentiel  vol. 2  10 Films
+prodname: 'Coffret Jackie Chan l essentiel  vol. 2  10 Films'
 ---
 
 Ahora mismo tienes [Coffret Jackie Chan l essentiel  vol. 2  10 Films](https://www.amazon.fr/dp/B07DVGWH9P/?tag=tolees0d-21) a 15.0 EUR (original: 30.08 EUR) (50.13 %  de descuento) en el siguiente enlace!

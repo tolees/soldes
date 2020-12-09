@@ -14,7 +14,7 @@ currency: EUR
 price: 10.98
 comparePrice: 17.98 EUR
 inStock: true
-prodname: Verre Trempé pour Samsung S20  [2 Pièces] [Dureté 9H] [Haute Définition] [Protecteur de lentille] [Compatible avec Le capteur d empreinte Digitale] Protection écran pour Samsung Galaxy S20
+prodname: 'Verre Trempé pour Samsung S20  [2 Pièces] [Dureté 9H] [Haute Définition] [Protecteur de lentille] [Compatible avec Le capteur d empreinte Digitale] Protection écran pour Samsung Galaxy S20'
 ---
 
 Tienes [Verre Trempé pour Samsung S20  [2 Pièces] [Dureté 9H] [Haute Définition] [Protecteur de lentille] [Compatible avec Le capteur d empreinte Digitale] Protection écran pour Samsung Galaxy S20](https://www.amazon.fr/dp/B08HSBQ7JF/?tag=tolees0d-21) con un 38.93 % de descuento con precio de oferta de 10.98 EUR (original: 17.98 EUR) en el siguiente enlace!

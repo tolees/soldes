@@ -14,7 +14,7 @@ currency: EUR
 price: 174.95
 comparePrice: 249.0 EUR
 inStock: true
-prodname: Liebeskind Berlin Round Love Note - Hobo LargefemmeSacs portés épauleNoir  Black  8x30x34 centimeters  B x H x T 
+prodname: 'Liebeskind Berlin Round Love Note - Hobo LargefemmeSacs portés épauleNoir  Black  8x30x34 centimeters  B x H x T '
 ---
 
 Tienes [Liebeskind Berlin Round Love Note - Hobo LargefemmeSacs portés épauleNoir  Black  8x30x34 centimeters  B x H x T ](https://www.amazon.fr/dp/B07MXWFYP9/?tag=tolees0d-21) con un 29.74 % de descuento con precio de oferta de 174.95 EUR (original: 249.0 EUR) en el siguiente enlace!

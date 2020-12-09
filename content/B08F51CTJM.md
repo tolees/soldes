@@ -14,7 +14,7 @@ currency: EUR
 price: 21.59
 comparePrice: 39.99 EUR
 inStock: true
-prodname: REDSTORM Manette pour Nintendo Switch Pro  Manette Zelda  Manette Switch sans Fil avec Bluetooth  6 Axes Vibration/Duble Moteur Intégré pour Nintendo Switch et PC
+prodname: 'REDSTORM Manette pour Nintendo Switch Pro  Manette Zelda  Manette Switch sans Fil avec Bluetooth  6 Axes Vibration/Duble Moteur Intégré pour Nintendo Switch et PC'
 ---
 
 Tienes [REDSTORM Manette pour Nintendo Switch Pro  Manette Zelda  Manette Switch sans Fil avec Bluetooth  6 Axes Vibration/Duble Moteur Intégré pour Nintendo Switch et PC](https://www.amazon.fr/dp/B08F51CTJM/?tag=tolees0d-21) con un 46.01 % de descuento con precio de oferta de 21.59 EUR (original: 39.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Wireless HDMI Display Dongle 4K HDR  WiFi Vidéo Récepteur Adaptateur TV Stick Stream pour Android/iOS/Window/Mac OS vers Téléviseur HD/Moniteur/Projecteur  Supporte Miracast Airplay DLNA
+prodname: 'Wireless HDMI Display Dongle 4K HDR  WiFi Vidéo Récepteur Adaptateur TV Stick Stream pour Android/iOS/Window/Mac OS vers Téléviseur HD/Moniteur/Projecteur  Supporte Miracast Airplay DLNA'
 ---
 
 Tienes [Wireless HDMI Display Dongle 4K HDR  WiFi Vidéo Récepteur Adaptateur TV Stick Stream pour Android/iOS/Window/Mac OS vers Téléviseur HD/Moniteur/Projecteur  Supporte Miracast Airplay DLNA](https://www.amazon.fr/dp/B08L3BMLYM/?tag=tolees0d-21) con un 50.02 % de descuento con precio de oferta de 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 109.99
 comparePrice: 273.18 EUR
 inStock: true
-prodname: BERSIGAR Montre Multifonction pour Hommes Montres étanches Business Casual Montre à Bracelet en Acier Inoxydable pour Hommes
+prodname: 'BERSIGAR Montre Multifonction pour Hommes Montres étanches Business Casual Montre à Bracelet en Acier Inoxydable pour Hommes'
 ---
 
 Tienes [BERSIGAR Montre Multifonction pour Hommes Montres étanches Business Casual Montre à Bracelet en Acier Inoxydable pour Hommes](https://www.amazon.fr/dp/B07ZH1SLBN/?tag=tolees0d-21) con un 59.74 % de descuento con precio de oferta de 109.99 EUR (original: 273.18 EUR) en el siguiente enlace!

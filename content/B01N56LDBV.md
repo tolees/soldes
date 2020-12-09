@@ -14,7 +14,7 @@ currency: EUR
 price: 10.75
 comparePrice: 24.9 EUR
 inStock: true
-prodname: Stylo feutre pointe fine - STABILO Point 88 - Pochette de 40 stylos-feutres - Coloris assortis
+prodname: 'Stylo feutre pointe fine - STABILO Point 88 - Pochette de 40 stylos-feutres - Coloris assortis'
 ---
 
 Está [Stylo feutre pointe fine - STABILO Point 88 - Pochette de 40 stylos-feutres - Coloris assortis](https://www.amazon.fr/dp/B01N56LDBV/?tag=tolees0d-21) con 56.83 de descuento por 10.75 EUR (original: 24.9 EUR) en el siguiente enlace!

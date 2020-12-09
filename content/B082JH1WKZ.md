@@ -14,7 +14,7 @@ currency: EUR
 price: 74.06
 comparePrice: 119.0 EUR
 inStock: true
-prodname: Hom Thomas Long Sleepwear Ensemble de Pijama  Haut: rayé Marine et Blanc  Bas: Marine  L Homme
+prodname: 'Hom Thomas Long Sleepwear Ensemble de Pijama  Haut: rayé Marine et Blanc  Bas: Marine  L Homme'
 ---
 
 Está [Hom Thomas Long Sleepwear Ensemble de Pijama  Haut: rayé Marine et Blanc  Bas: Marine  L Homme](https://www.amazon.fr/dp/B082JH1WKZ/?tag=tolees0d-21) con 37.76 de descuento por 74.06 EUR (original: 119.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.97
 comparePrice: 15.05 EUR
 inStock: true
-prodname: Ocean s 8 - [Blu-ray]
+prodname: 'Ocean s 8 - [Blu-ray]'
 ---
 
 Está [Ocean s 8 - [Blu-ray]](https://www.amazon.fr/dp/B07CF6WDZF/?tag=tolees0d-21) con 53.69 de descuento por 6.97 EUR (original: 15.05 EUR) en el siguiente enlace!

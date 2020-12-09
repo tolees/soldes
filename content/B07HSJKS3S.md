@@ -14,7 +14,7 @@ currency: EUR
 price: 42.88
 comparePrice: 80.99 EUR
 inStock: true
-prodname: Kindle  Reconditionné Certifié  Noir  maintenant avec un éclairage frontal intégré
+prodname: 'Kindle  Reconditionné Certifié  Noir  maintenant avec un éclairage frontal intégré'
 ---
 
 Está [Kindle  Reconditionné Certifié  Noir  maintenant avec un éclairage frontal intégré](https://www.amazon.fr/dp/B07HSJKS3S/?tag=tolees0d-21) con 47.06 de descuento por 42.88 EUR (original: 80.99 EUR) en el siguiente enlace!

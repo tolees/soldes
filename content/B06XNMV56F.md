@@ -14,7 +14,7 @@ currency: EUR
 price: 50.6
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poignet - Taille M - Noir
+prodname: 'Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poignet - Taille M - Noir'
 ---
 
 Tienes [Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poignet - Taille M - Noir](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21) con un 36.74 % de descuento con precio de oferta de 50.6 EUR (original: 79.99 EUR) en el siguiente enlace!

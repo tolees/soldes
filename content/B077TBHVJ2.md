@@ -14,7 +14,7 @@ currency: EUR
 price: 80.99
 comparePrice: 145.0 EUR
 inStock: true
-prodname: BaByliss Paris - AS500E - Brosse soufflante rortative Digital Sensor
+prodname: 'BaByliss Paris - AS500E - Brosse soufflante rortative Digital Sensor'
 ---
 
 Está [BaByliss Paris - AS500E - Brosse soufflante rortative Digital Sensor](https://www.amazon.fr/dp/B077TBHVJ2/?tag=tolees0d-21) con 44.14 de descuento por 80.99 EUR (original: 145.0 EUR) en el siguiente enlace!

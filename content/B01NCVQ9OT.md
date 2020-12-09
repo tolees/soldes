@@ -14,7 +14,7 @@ currency: EUR
 price: 64.5
 comparePrice: 145.0 EUR
 inStock: true
-prodname: El Naturalista S.A N097 Soft Grain Yggdrasil  Bottes Classiques femme  Noir  Black   40 EU
+prodname: 'El Naturalista S.A N097 Soft Grain Yggdrasil  Bottes Classiques femme  Noir  Black   40 EU'
 ---
 
 Tienes [El Naturalista S.A N097 Soft Grain Yggdrasil  Bottes Classiques femme  Noir  Black   40 EU](https://www.amazon.fr/dp/B01NCVQ9OT/?tag=tolees0d-21) con un 55.52 % de descuento con precio de oferta de 64.5 EUR (original: 145.0 EUR) en el siguiente enlace!

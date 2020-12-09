@@ -14,7 +14,7 @@ currency: EUR
 price: 67.5
 comparePrice: 135.0 EUR
 inStock: true
-prodname: Castaner Dosalia/3/ss20032  Espadrilles Femme  Plata  36 EU
+prodname: 'Castaner Dosalia/3/ss20032  Espadrilles Femme  Plata  36 EU'
 ---
 
 Está [Castaner Dosalia/3/ss20032  Espadrilles Femme  Plata  36 EU](https://www.amazon.fr/dp/B07X3DMPQR/?tag=tolees0d-21) con 50.00 de descuento por 67.5 EUR (original: 135.0 EUR) en el siguiente enlace!

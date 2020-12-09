@@ -14,7 +14,7 @@ currency: EUR
 price: 114.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: Razer Ripsaw HD – Carte d Enregistrement de Jeu - Capture Card  1080P/4K 60fps Passthrough  HDMI 2.0 & USB 3.0
+prodname: 'Razer Ripsaw HD – Carte d Enregistrement de Jeu - Capture Card  1080P/4K 60fps Passthrough  HDMI 2.0 & USB 3.0'
 ---
 
 Tienes [Razer Ripsaw HD – Carte d Enregistrement de Jeu - Capture Card  1080P/4K 60fps Passthrough  HDMI 2.0 & USB 3.0](https://www.amazon.fr/dp/B07MZGRYNZ/?tag=tolees0d-21) con un 32.35 % de descuento con precio de oferta de 114.99 EUR (original: 169.99 EUR) en el siguiente enlace!

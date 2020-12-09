@@ -14,7 +14,7 @@ currency: EUR
 price: 37.0
 comparePrice: 84.9 EUR
 inStock: true
-prodname: Fluchos- retail ES Spain Luca  Slip-on chaussures homme - noir - Noir  Black   44 EU
+prodname: 'Fluchos- retail ES Spain Luca  Slip-on chaussures homme - noir - Noir  Black   44 EU'
 ---
 
 Está [Fluchos- retail ES Spain Luca  Slip-on chaussures homme - noir - Noir  Black   44 EU](https://www.amazon.fr/dp/B071W6NSBD/?tag=tolees0d-21) con 56.42 de descuento por 37.0 EUR (original: 84.9 EUR) en el siguiente enlace!

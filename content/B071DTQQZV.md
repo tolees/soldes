@@ -14,7 +14,7 @@ currency: EUR
 price: 23.38
 comparePrice: 33.4 EUR
 inStock: true
-prodname: Viaggio Espresso Capsules de café compatibles avec les machines Nespresso Sélection aromatisée  120 capsules 
+prodname: 'Viaggio Espresso Capsules de café compatibles avec les machines Nespresso Sélection aromatisée  120 capsules '
 ---
 
 Tienes [Viaggio Espresso Capsules de café compatibles avec les machines Nespresso Sélection aromatisée  120 capsules ](https://www.amazon.fr/dp/B071DTQQZV/?tag=tolees0d-21) con un 30.00 % de descuento con precio de oferta de 23.38 EUR (original: 33.4 EUR) en el siguiente enlace!

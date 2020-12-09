@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Smaier OBD2 Bluetooth 4.0  OBDII Mini Adapter sans-Fil Voiture Diagnostique Scanner Outil - Relier Via Bluetooth avec Téléphone  iPhone et Android  - 3000 Code Base de Données
+prodname: 'Smaier OBD2 Bluetooth 4.0  OBDII Mini Adapter sans-Fil Voiture Diagnostique Scanner Outil - Relier Via Bluetooth avec Téléphone  iPhone et Android  - 3000 Code Base de Données'
 ---
 
 Está [Smaier OBD2 Bluetooth 4.0  OBDII Mini Adapter sans-Fil Voiture Diagnostique Scanner Outil - Relier Via Bluetooth avec Téléphone  iPhone et Android  - 3000 Code Base de Données](https://www.amazon.fr/dp/B07X5GFXNR/?tag=tolees0d-21) con 50.02 de descuento por 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

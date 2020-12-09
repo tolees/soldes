@@ -14,7 +14,7 @@ currency: EUR
 price: 58.4
 comparePrice: 128.0 EUR
 inStock: true
-prodname: GATOR Cases Gigbag GKB pour clavier 88 touches
+prodname: 'GATOR Cases Gigbag GKB pour clavier 88 touches'
 ---
 
 Ahora mismo tienes [GATOR Cases Gigbag GKB pour clavier 88 touches](https://www.amazon.fr/dp/B000KYTCEG/?tag=tolees0d-21) a 58.4 EUR (original: 128.0 EUR) (54.37 %  de descuento) en el siguiente enlace!

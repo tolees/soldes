@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Antenne TV Intérieur Puissante  REDSTORM Version 2021 Amplificateur Numérique HD d Intérieur Amplifiée 190+ km pour Les Chaînes Gratuites Locales 4K
+prodname: 'Antenne TV Intérieur Puissante  REDSTORM Version 2021 Amplificateur Numérique HD d Intérieur Amplifiée 190+ km pour Les Chaînes Gratuites Locales 4K'
 ---
 
 Está [Antenne TV Intérieur Puissante  REDSTORM Version 2021 Amplificateur Numérique HD d Intérieur Amplifiée 190+ km pour Les Chaînes Gratuites Locales 4K](https://www.amazon.fr/dp/B08L8ZFRGQ/?tag=tolees0d-21) con 27.60 de descuento por 20.99 EUR (original: 28.99 EUR) en el siguiente enlace!

@@ -14,13 +14,15 @@ currency: EUR
 price: 54.99
 comparePrice: 80.26 EUR
 inStock: true
-prodname: Code Geass-Intégrale Série-12 DVD [Édition Limitée]
+prodname: 'Code Geass-Intégrale Série-12 DVD [Édition Limitée]'
 ---
 
-Ahora mismo tienes [Code Geass-Intégrale Série-12 DVD [Édition Limitée]](https://www.amazon.fr/dp/B07GR1QSPJ/?tag=tolees0d-21) a 54.99 EUR (original: 80.26 EUR) (31.49 %  de descuento) en el siguiente enlace!
+Está [Code Geass-Intégrale Série-12 DVD [Édition Limitée]](https://www.amazon.fr/dp/B07GR1QSPJ/?tag=tolees0d-21) con 31.49 de descuento por 54.99 EUR (original: 80.26 EUR) en el siguiente enlace!
 
 [![Code Geass-Intégrale Série-12 DVD [Éditi](https://m.media-amazon.com/images/I/41KDU15XFFL._SL200_.jpg)](https://www.amazon.fr/dp/B07GR1QSPJ/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07GR1QSPJ/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07GR1QSPJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

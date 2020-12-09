@@ -14,7 +14,7 @@ currency: EUR
 price: 13.25
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Plain Spoken - from the Chicago Theatre [cd +Blu-ray] [Blu-ray + CD] [Blu-ray + CD]
+prodname: 'Plain Spoken - from the Chicago Theatre [cd +Blu-ray] [Blu-ray + CD] [Blu-ray + CD]'
 ---
 
 Ahora mismo tienes [Plain Spoken - from the Chicago Theatre [cd +Blu-ray] [Blu-ray + CD] [Blu-ray + CD]](https://www.amazon.fr/dp/B07C8Q5FLX/?tag=tolees0d-21) a 13.25 EUR (original: 22.99 EUR) (42.37 %  de descuento) en el siguiente enlace!

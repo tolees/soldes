@@ -14,7 +14,7 @@ currency: EUR
 price: 87.99
 comparePrice: 144.99 EUR
 inStock: true
-prodname: Calor SV6035C0 Centrale Vapeur Sans Cuve Haute Pression Fasteo 5 2 bars Effet Pressing jusqu’à 200g/min Mode Eco Défroissage Vertical Bleu Foncé
+prodname: 'Calor SV6035C0 Centrale Vapeur Sans Cuve Haute Pression Fasteo 5 2 bars Effet Pressing jusqu’à 200g/min Mode Eco Défroissage Vertical Bleu Foncé'
 ---
 
 Tienes [Calor SV6035C0 Centrale Vapeur Sans Cuve Haute Pression Fasteo 5 2 bars Effet Pressing jusqu’à 200g/min Mode Eco Défroissage Vertical Bleu Foncé](https://www.amazon.fr/dp/B06XFWYHBY/?tag=tolees0d-21) con un 39.31 % de descuento con precio de oferta de 87.99 EUR (original: 144.99 EUR) en el siguiente enlace!

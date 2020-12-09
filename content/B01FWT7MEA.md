@@ -14,7 +14,7 @@ currency: EUR
 price: 53.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: Satechi Adaptateur Multi-Ports 4K HDMI  30Hz   Port de Type-C  Ethernet Gigabit  lecteur de cartes SD/Micro SD  et 3 Ports USB pour MacBook 12 et nouveau MacBook Pro 2016  Gris Sideral 
+prodname: 'Satechi Adaptateur Multi-Ports 4K HDMI  30Hz   Port de Type-C  Ethernet Gigabit  lecteur de cartes SD/Micro SD  et 3 Ports USB pour MacBook 12 et nouveau MacBook Pro 2016  Gris Sideral '
 ---
 
 Está [Satechi Adaptateur Multi-Ports 4K HDMI  30Hz   Port de Type-C  Ethernet Gigabit  lecteur de cartes SD/Micro SD  et 3 Ports USB pour MacBook 12 et nouveau MacBook Pro 2016  Gris Sideral ](https://www.amazon.fr/dp/B01FWT7MEA/?tag=tolees0d-21) con 40.00 de descuento por 53.99 EUR (original: 89.99 EUR) en el siguiente enlace!

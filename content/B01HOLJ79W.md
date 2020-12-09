@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Swarovski Bracelet Subtle  Blanc  Métal Rhodié
+prodname: 'Swarovski Bracelet Subtle  Blanc  Métal Rhodié'
 ---
 
 Está [Swarovski Bracelet Subtle  Blanc  Métal Rhodié](https://www.amazon.fr/dp/B01HOLJ79W/?tag=tolees0d-21) con 51.52 de descuento por 48.0 EUR (original: 99.0 EUR) en el siguiente enlace!

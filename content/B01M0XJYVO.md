@@ -14,7 +14,7 @@ currency: EUR
 price: 68.99
 comparePrice: 109.99 EUR
 inStock: true
-prodname: Spikeball Pro Kit - Inclut Un Nouveau Filet Plus Solide  de Nouvelles balles conçues pour Ajouter de l’Effet  Une Pompe Portable  et Un Sac de Transport
+prodname: 'Spikeball Pro Kit - Inclut Un Nouveau Filet Plus Solide  de Nouvelles balles conçues pour Ajouter de l’Effet  Une Pompe Portable  et Un Sac de Transport'
 ---
 
 Ahora mismo tienes [Spikeball Pro Kit - Inclut Un Nouveau Filet Plus Solide  de Nouvelles balles conçues pour Ajouter de l’Effet  Une Pompe Portable  et Un Sac de Transport](https://www.amazon.fr/dp/B01M0XJYVO/?tag=tolees0d-21) a 68.99 EUR (original: 109.99 EUR) (37.28 %  de descuento) en el siguiente enlace!

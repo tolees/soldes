@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Sine Mora EX
+prodname: 'Sine Mora EX'
 ---
 
 Está [Sine Mora EX](https://www.amazon.fr/dp/B071LNL7KG/?tag=tolees0d-21) con 50.17 de descuento por 14.95 EUR (original: 30.0 EUR) en el siguiente enlace!

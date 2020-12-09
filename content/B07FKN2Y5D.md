@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 349.99 EUR
 inStock: true
-prodname: Philips S9721/41 Rasoir électrique Series 9000 100% étanche avec Trousse de Voyage et Tondeuse de Précision
+prodname: 'Philips S9721/41 Rasoir électrique Series 9000 100% étanche avec Trousse de Voyage et Tondeuse de Précision'
 ---
 
 Está [Philips S9721/41 Rasoir électrique Series 9000 100% étanche avec Trousse de Voyage et Tondeuse de Précision](https://www.amazon.fr/dp/B07FKN2Y5D/?tag=tolees0d-21) con 57.14 de descuento por 149.99 EUR (original: 349.99 EUR) en el siguiente enlace!

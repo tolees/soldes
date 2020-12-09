@@ -14,7 +14,7 @@ currency: EUR
 price: 6.72
 comparePrice: 12.9 EUR
 inStock: true
-prodname: Diadermine - Lift+ - Super Lisseur - Soin de Jour - Anti rides - 50 ml
+prodname: 'Diadermine - Lift+ - Super Lisseur - Soin de Jour - Anti rides - 50 ml'
 ---
 
 Está [Diadermine - Lift+ - Super Lisseur - Soin de Jour - Anti rides - 50 ml](https://www.amazon.fr/dp/B00U5ZRO5E/?tag=tolees0d-21) con 47.91 de descuento por 6.72 EUR (original: 12.9 EUR) en el siguiente enlace!

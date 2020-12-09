@@ -14,7 +14,7 @@ currency: EUR
 price: 6.37
 comparePrice: 11.24 EUR
 inStock: true
-prodname: Hape - E3505 - Jeu d Imitation en Bois - Maison de Poupées - Papa
+prodname: 'Hape - E3505 - Jeu d Imitation en Bois - Maison de Poupées - Papa'
 ---
 
 Está [Hape - E3505 - Jeu d Imitation en Bois - Maison de Poupées - Papa](https://www.amazon.fr/dp/B00DLJLW6S/?tag=tolees0d-21) con 43.33 de descuento por 6.37 EUR (original: 11.24 EUR) en el siguiente enlace!

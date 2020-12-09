@@ -14,7 +14,7 @@ currency: EUR
 price: 5.63
 comparePrice: 10.6 EUR
 inStock: true
-prodname: EAFIT Boisson Energétique +3H Neutre 500 g
+prodname: 'EAFIT Boisson Energétique +3H Neutre 500 g'
 ---
 
 Está [EAFIT Boisson Energétique +3H Neutre 500 g](https://www.amazon.fr/dp/B074MCH5CH/?tag=tolees0d-21) con 46.89 de descuento por 5.63 EUR (original: 10.6 EUR) en el siguiente enlace!

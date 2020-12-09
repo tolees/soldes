@@ -14,7 +14,7 @@ currency: EUR
 price: 61.24
 comparePrice: 90.2 EUR
 inStock: true
-prodname: Pampers Premium Protection Taille 4  168 Couches  9kg-14kg
+prodname: 'Pampers Premium Protection Taille 4  168 Couches  9kg-14kg'
 ---
 
 Está [Pampers Premium Protection Taille 4  168 Couches  9kg-14kg](https://www.amazon.fr/dp/B019WCXL1Q/?tag=tolees0d-21) con 32.11 de descuento por 61.24 EUR (original: 90.2 EUR) en el siguiente enlace!

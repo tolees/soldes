@@ -14,7 +14,7 @@ currency: EUR
 price: 169.0
 comparePrice: 419.0 EUR
 inStock: true
-prodname: Samsonite Lite-Shock - Spinner S Bagage à Main  55 cm  36 L  Noir  Black 
+prodname: 'Samsonite Lite-Shock - Spinner S Bagage à Main  55 cm  36 L  Noir  Black '
 ---
 
 Tienes [Samsonite Lite-Shock - Spinner S Bagage à Main  55 cm  36 L  Noir  Black ](https://www.amazon.fr/dp/B00VFQRMOK/?tag=tolees0d-21) con un 59.67 % de descuento con precio de oferta de 169.0 EUR (original: 419.0 EUR) en el siguiente enlace!

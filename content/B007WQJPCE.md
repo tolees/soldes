@@ -14,7 +14,7 @@ currency: EUR
 price: 79.6
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Samsonite S Cure - Spinner M Valise  69 cm  79 L  Noir  Black 
+prodname: 'Samsonite S Cure - Spinner M Valise  69 cm  79 L  Noir  Black '
 ---
 
 Tienes [Samsonite S Cure - Spinner M Valise  69 cm  79 L  Noir  Black ](https://www.amazon.fr/dp/B007WQJPCE/?tag=tolees0d-21) con un 60.00 % de descuento con precio de oferta de 79.6 EUR (original: 199.0 EUR) en el siguiente enlace!

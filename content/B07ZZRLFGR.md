@@ -14,7 +14,7 @@ currency: EUR
 price: 303.41
 comparePrice: 479.0 EUR
 inStock: true
-prodname: Faure FKC-3L1D1 Magic Air Cooking Robot cuiseur connecté multifonction  3.3 liters  Noir
+prodname: 'Faure FKC-3L1D1 Magic Air Cooking Robot cuiseur connecté multifonction  3.3 liters  Noir'
 ---
 
 Tienes [Faure FKC-3L1D1 Magic Air Cooking Robot cuiseur connecté multifonction  3.3 liters  Noir](https://www.amazon.fr/dp/B07ZZRLFGR/?tag=tolees0d-21) con un 36.66 % de descuento con precio de oferta de 303.41 EUR (original: 479.0 EUR) en el siguiente enlace!

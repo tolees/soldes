@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 49.9 EUR
 inStock: true
-prodname: Charmoni Grand Classique Portefeuille en Cuir Protection RFID Blocage Homme  Noir 12 Cuir grainé  
+prodname: 'Charmoni Grand Classique Portefeuille en Cuir Protection RFID Blocage Homme  Noir 12 Cuir grainé  '
 ---
 
 Tienes [Charmoni Grand Classique Portefeuille en Cuir Protection RFID Blocage Homme  Noir 12 Cuir grainé  ](https://www.amazon.fr/dp/B07FYFPDYB/?tag=tolees0d-21) con un 45.91 % de descuento con precio de oferta de 26.99 EUR (original: 49.9 EUR) en el siguiente enlace!

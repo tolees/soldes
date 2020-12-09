@@ -14,7 +14,7 @@ currency: EUR
 price: 28.18
 comparePrice: 100.0 EUR
 inStock: true
-prodname: VAUDE Herren Farley  Pantalons étendue II  noir  48 / S  04574
+prodname: 'VAUDE Herren Farley  Pantalons étendue II  noir  48 / S  04574'
 ---
 
 Tienes [VAUDE Herren Farley  Pantalons étendue II  noir  48 / S  04574](https://www.amazon.fr/dp/B00BXL13LU/?tag=tolees0d-21) con un 71.82 % de descuento con precio de oferta de 28.18 EUR (original: 100.0 EUR) en el siguiente enlace!

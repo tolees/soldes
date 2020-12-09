@@ -14,7 +14,7 @@ currency: EUR
 price: 44.8
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Geox Uomo Symbol B  Sneakers Basses Homme  Noir  Black   45 EU
+prodname: 'Geox Uomo Symbol B  Sneakers Basses Homme  Noir  Black   45 EU'
 ---
 
 Tienes [Geox Uomo Symbol B  Sneakers Basses Homme  Noir  Black   45 EU](https://www.amazon.fr/dp/B01N6U3XDA/?tag=tolees0d-21) con un 55.16 % de descuento con precio de oferta de 44.8 EUR (original: 99.9 EUR) en el siguiente enlace!

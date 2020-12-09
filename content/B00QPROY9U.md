@@ -14,7 +14,7 @@ currency: EUR
 price: 10.01
 comparePrice: 16.68 EUR
 inStock: true
-prodname: Head & Shoulders Shampoing et Après Shampoing Antipelliculaire Classic  Nettoie & Hydrate  Formule 2 en 1  Format 1L
+prodname: 'Head & Shoulders Shampoing et Après Shampoing Antipelliculaire Classic  Nettoie & Hydrate  Formule 2 en 1  Format 1L'
 ---
 
 Ahora mismo tienes [Head & Shoulders Shampoing et Après Shampoing Antipelliculaire Classic  Nettoie & Hydrate  Formule 2 en 1  Format 1L](https://www.amazon.fr/dp/B00QPROY9U/?tag=tolees0d-21) a 10.01 EUR (original: 16.68 EUR) (39.99 %  de descuento) en el siguiente enlace!

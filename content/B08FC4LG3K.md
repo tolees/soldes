@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync Boutons Kit de Boutons Kit de Réparation avec Outils pour Xbox One S & X Manette Contrôleur  Modèle1708 -Caméléon Violet Vert
+prodname: 'eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync Boutons Kit de Boutons Kit de Réparation avec Outils pour Xbox One S & X Manette Contrôleur  Modèle1708 -Caméléon Violet Vert'
 ---
 
 Está [eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync Boutons Kit de Boutons Kit de Réparation avec Outils pour Xbox One S & X Manette Contrôleur  Modèle1708 -Caméléon Violet Vert](https://www.amazon.fr/dp/B08FC4LG3K/?tag=tolees0d-21) con 48.02 de descuento por 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.48
 comparePrice: 22.75 EUR
 inStock: true
-prodname: MOSOTECH Chaussette Chaude Femme  Thermiques Chaussette en Laine et Coton  Épaisses Douces  Couleur Vive  Le Cadeau de Noël pour Femme  Taille Unique 35-42  6 Paires
+prodname: 'MOSOTECH Chaussette Chaude Femme  Thermiques Chaussette en Laine et Coton  Épaisses Douces  Couleur Vive  Le Cadeau de Noël pour Femme  Taille Unique 35-42  6 Paires'
 ---
 
 Ahora mismo tienes [MOSOTECH Chaussette Chaude Femme  Thermiques Chaussette en Laine et Coton  Épaisses Douces  Couleur Vive  Le Cadeau de Noël pour Femme  Taille Unique 35-42  6 Paires](https://www.amazon.fr/dp/B08HNDD36N/?tag=tolees0d-21) a 12.48 EUR (original: 22.75 EUR) (45.14 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 5.34
 comparePrice: 12.0 EUR
 inStock: true
-prodname: Gillette Skinguard Peaux Sensibles Rasoir Homme + 1 Lame de Recharges [OFFICIEL]
+prodname: 'Gillette Skinguard Peaux Sensibles Rasoir Homme + 1 Lame de Recharges [OFFICIEL]'
 ---
 
 Está [Gillette Skinguard Peaux Sensibles Rasoir Homme + 1 Lame de Recharges [OFFICIEL]](https://www.amazon.fr/dp/B07LC1WJBC/?tag=tolees0d-21) con 55.50 de descuento por 5.34 EUR (original: 12.0 EUR) en el siguiente enlace!

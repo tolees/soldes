@@ -14,7 +14,7 @@ currency: EUR
 price: 102.12
 comparePrice: 199.9 EUR
 inStock: true
-prodname: Bollé BACKLINE Visière Soft Black et Silver avec 1 Visière Silver Gun + 1 Visière Citron 59-61
+prodname: 'Bollé BACKLINE Visière Soft Black et Silver avec 1 Visière Silver Gun + 1 Visière Citron 59-61'
 ---
 
 Tienes [Bollé BACKLINE Visière Soft Black et Silver avec 1 Visière Silver Gun + 1 Visière Citron 59-61](https://www.amazon.fr/dp/B01D4VC7MA/?tag=tolees0d-21) con un 48.91 % de descuento con precio de oferta de 102.12 EUR (original: 199.9 EUR) en el siguiente enlace!

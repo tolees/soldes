@@ -14,7 +14,7 @@ currency: EUR
 price: 19.49
 comparePrice: 30.99 EUR
 inStock: true
-prodname: Carte mémoire SDXC SanDisk Extreme PRO 64 Go jusqu à 170 Mo/s  Classe 10  U3  V30  4K UHD
+prodname: 'Carte mémoire SDXC SanDisk Extreme PRO 64 Go jusqu à 170 Mo/s  Classe 10  U3  V30  4K UHD'
 ---
 
 Ahora mismo tienes [Carte mémoire SDXC SanDisk Extreme PRO 64 Go jusqu à 170 Mo/s  Classe 10  U3  V30  4K UHD](https://www.amazon.fr/dp/B07H9J1YXN/?tag=tolees0d-21) a 19.49 EUR (original: 30.99 EUR) (37.11 %  de descuento) en el siguiente enlace!

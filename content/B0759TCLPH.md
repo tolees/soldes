@@ -14,7 +14,7 @@ currency: EUR
 price: 192.48
 comparePrice: 299.0 EUR
 inStock: true
-prodname: RT100 Platine
+prodname: 'RT100 Platine'
 ---
 
 Tienes [RT100 Platine](https://www.amazon.fr/dp/B0759TCLPH/?tag=tolees0d-21) con un 35.63 % de descuento con precio de oferta de 192.48 EUR (original: 299.0 EUR) en el siguiente enlace!

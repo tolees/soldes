@@ -14,7 +14,7 @@ currency: EUR
 price: 20.4
 comparePrice: 49.99 EUR
 inStock: true
-prodname: OtterBox Strada Etui Folio en Cuir véritable Anti Choc Fin/élégant pour iPhone XR Noir
+prodname: 'OtterBox Strada Etui Folio en Cuir véritable Anti Choc Fin/élégant pour iPhone XR Noir'
 ---
 
 Está [OtterBox Strada Etui Folio en Cuir véritable Anti Choc Fin/élégant pour iPhone XR Noir](https://www.amazon.fr/dp/B00Z7TJD0C/?tag=tolees0d-21) con 59.19 de descuento por 20.4 EUR (original: 49.99 EUR) en el siguiente enlace!

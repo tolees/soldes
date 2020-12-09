@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Nero Platinum 2019
+prodname: 'Nero Platinum 2019'
 ---
 
 Está [Nero Platinum 2019](https://www.amazon.fr/dp/B07H8PNCK2/?tag=tolees0d-21) con 56.93 de descuento por 27.99 EUR (original: 64.99 EUR) en el siguiente enlace!

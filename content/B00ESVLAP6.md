@@ -14,7 +14,7 @@ currency: EUR
 price: 7.05
 comparePrice: 15.05 EUR
 inStock: true
-prodname: Le Congrès [Blu-ray]
+prodname: 'Le Congrès [Blu-ray]'
 ---
 
 Tienes [Le Congrès [Blu-ray]](https://www.amazon.fr/dp/B00ESVLAP6/?tag=tolees0d-21) con un 53.16 % de descuento con precio de oferta de 7.05 EUR (original: 15.05 EUR) en el siguiente enlace!

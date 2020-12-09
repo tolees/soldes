@@ -14,7 +14,7 @@ currency: EUR
 price: 389.0
 comparePrice: 649.0 EUR
 inStock: true
-prodname: Huawei P30 Smartphone débloqué 4G  6 1 pouces 6/128Go Double Nano SIM Android 9  Noir
+prodname: 'Huawei P30 Smartphone débloqué 4G  6 1 pouces 6/128Go Double Nano SIM Android 9  Noir'
 ---
 
 Ahora mismo tienes [Huawei P30 Smartphone débloqué 4G  6 1 pouces 6/128Go Double Nano SIM Android 9  Noir](https://www.amazon.fr/dp/B07NLRJHN6/?tag=tolees0d-21) a 389.0 EUR (original: 649.0 EUR) (40.06 %  de descuento) en el siguiente enlace!

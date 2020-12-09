@@ -14,7 +14,7 @@ currency: EUR
 price: 61.13
 comparePrice: 99.99 EUR
 inStock: true
-prodname: s.Oliver BLACK LABEL 01.899.82.6408 Robe  Noir  Black AOP 99e7   48  Taille Fabricant: 46  Femme
+prodname: 's.Oliver BLACK LABEL 01.899.82.6408 Robe  Noir  Black AOP 99e7   48  Taille Fabricant: 46  Femme'
 ---
 
 Está [s.Oliver BLACK LABEL 01.899.82.6408 Robe  Noir  Black AOP 99e7   48  Taille Fabricant: 46  Femme](https://www.amazon.fr/dp/B07YLBCS8C/?tag=tolees0d-21) con 38.86 de descuento por 61.13 EUR (original: 99.99 EUR) en el siguiente enlace!

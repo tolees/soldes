@@ -14,7 +14,7 @@ currency: EUR
 price: 89.0
 comparePrice: 150.0 EUR
 inStock: true
-prodname: Sony WH-XB700 Casque sans fil Bluetooth Extra Bass 360 Reality Audio avec micro intégré pour appels téléphoniques  Optimisé pour les assistants vocaux comme Alexa et l Assistant Google - Noir
+prodname: 'Sony WH-XB700 Casque sans fil Bluetooth Extra Bass 360 Reality Audio avec micro intégré pour appels téléphoniques  Optimisé pour les assistants vocaux comme Alexa et l Assistant Google - Noir'
 ---
 
 Ahora mismo tienes [Sony WH-XB700 Casque sans fil Bluetooth Extra Bass 360 Reality Audio avec micro intégré pour appels téléphoniques  Optimisé pour les assistants vocaux comme Alexa et l Assistant Google - Noir](https://www.amazon.fr/dp/B07PBCB4J5/?tag=tolees0d-21) a 89.0 EUR (original: 150.0 EUR) (40.67 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Lego La Grande Aventure : Le Jeu Video
+prodname: 'Lego La Grande Aventure : Le Jeu Video'
 ---
 
 Ahora mismo tienes [Lego La Grande Aventure : Le Jeu Video](https://www.amazon.fr/dp/B00HFJ1T8G/?tag=tolees0d-21) a 9.99 EUR (original: 29.99 EUR) (66.69 %  de descuento) en el siguiente enlace!

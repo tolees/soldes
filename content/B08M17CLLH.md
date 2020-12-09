@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 113.17 EUR
 inStock: true
-prodname: Disque Dur Externe 1to USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Rouge 
+prodname: 'Disque Dur Externe 1to USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Rouge '
 ---
 
 Está [Disque Dur Externe 1to USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Rouge ](https://www.amazon.fr/dp/B08M17CLLH/?tag=tolees0d-21) con 57.59 de descuento por 47.99 EUR (original: 113.17 EUR) en el siguiente enlace!

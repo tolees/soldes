@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 149.7 EUR
 inStock: true
-prodname: Adidas NMD R1 Basket Mode Homme - Noir  Core Black/Core Black/Gum 3  - 44 2/3 EU
+prodname: 'Adidas NMD R1 Basket Mode Homme - Noir  Core Black/Core Black/Gum 3  - 44 2/3 EU'
 ---
 
 Está [Adidas NMD R1 Basket Mode Homme - Noir  Core Black/Core Black/Gum 3  - 44 2/3 EU](https://www.amazon.fr/dp/B07D3ZMWMF/?tag=tolees0d-21) con 46.57 de descuento por 79.99 EUR (original: 149.7 EUR) en el siguiente enlace!

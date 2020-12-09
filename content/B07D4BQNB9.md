@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 55.9 EUR
 inStock: true
-prodname: Monrinda Unisex Chaussure de Sport Femme Basket de Running Fitness Course Homme Sneakers Jogging Casual
+prodname: 'Monrinda Unisex Chaussure de Sport Femme Basket de Running Fitness Course Homme Sneakers Jogging Casual'
 ---
 
 Ahora mismo tienes [Monrinda Unisex Chaussure de Sport Femme Basket de Running Fitness Course Homme Sneakers Jogging Casual](https://www.amazon.fr/dp/B07D4BQNB9/?tag=tolees0d-21) a 32.99 EUR (original: 55.9 EUR) (40.98 %  de descuento) en el siguiente enlace!

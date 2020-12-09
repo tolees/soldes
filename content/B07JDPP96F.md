@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: idee cadeau homme original noel gadgets insolite outils bureau pour papa idée cadeau femme bricolage personnalisé outillage stylo multifonction pour carte de noel écriture lisse à fête de Noël
+prodname: 'idee cadeau homme original noel gadgets insolite outils bureau pour papa idée cadeau femme bricolage personnalisé outillage stylo multifonction pour carte de noel écriture lisse à fête de Noël'
 ---
 
 Tienes [idee cadeau homme original noel gadgets insolite outils bureau pour papa idée cadeau femme bricolage personnalisé outillage stylo multifonction pour carte de noel écriture lisse à fête de Noël](https://www.amazon.fr/dp/B07JDPP96F/?tag=tolees0d-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

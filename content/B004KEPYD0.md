@@ -14,7 +14,7 @@ currency: EUR
 price: 63.35
 comparePrice: 139.0 EUR
 inStock: true
-prodname: Rosendahl - 43261 - Montre Femme - Quartz - Analogique - Bracelet Caoutchouc noir
+prodname: 'Rosendahl - 43261 - Montre Femme - Quartz - Analogique - Bracelet Caoutchouc noir'
 ---
 
 Tienes [Rosendahl - 43261 - Montre Femme - Quartz - Analogique - Bracelet Caoutchouc noir](https://www.amazon.fr/dp/B004KEPYD0/?tag=tolees0d-21) con un 54.42 % de descuento con precio de oferta de 63.35 EUR (original: 139.0 EUR) en el siguiente enlace!

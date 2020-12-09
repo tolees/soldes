@@ -14,7 +14,7 @@ currency: EUR
 price: 10.0
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Celio - NECETWO - Polo manches courtes - Coton Supima  Noir   Medium  Taille fabricant:M  Homme
+prodname: 'Celio - NECETWO - Polo manches courtes - Coton Supima  Noir   Medium  Taille fabricant:M  Homme'
 ---
 
 Está [Celio - NECETWO - Polo manches courtes - Coton Supima  Noir   Medium  Taille fabricant:M  Homme](https://www.amazon.fr/dp/B07L25FNQB/?tag=tolees0d-21) con 49.97 de descuento por 10.0 EUR (original: 19.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 96.49
 comparePrice: 147.99 EUR
 inStock: true
-prodname: NETGEAR  JGS524E  Smart Switch Ethernet 24Ports RJ45 Gigabit  10/1000/1000   Smart Manageable  Plus  - Format Bureau ou Rackable - Protection à Vie  ProSafe - Garantie à vie
+prodname: 'NETGEAR  JGS524E  Smart Switch Ethernet 24Ports RJ45 Gigabit  10/1000/1000   Smart Manageable  Plus  - Format Bureau ou Rackable - Protection à Vie  ProSafe - Garantie à vie'
 ---
 
 Está [NETGEAR  JGS524E  Smart Switch Ethernet 24Ports RJ45 Gigabit  10/1000/1000   Smart Manageable  Plus  - Format Bureau ou Rackable - Protection à Vie  ProSafe - Garantie à vie](https://www.amazon.fr/dp/B00GGD10FY/?tag=tolees0d-21) con 34.80 de descuento por 96.49 EUR (original: 147.99 EUR) en el siguiente enlace!

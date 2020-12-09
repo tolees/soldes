@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Disque Dur Externe 2to Portable Disque Dur Externe USB3.0 SATA  Stockage HDD pour PC  Mac  MacBook  Xbox One  Desktop  Laptop  Chromebook 2To Rouge 
+prodname: 'Disque Dur Externe 2to Portable Disque Dur Externe USB3.0 SATA  Stockage HDD pour PC  Mac  MacBook  Xbox One  Desktop  Laptop  Chromebook 2To Rouge '
 ---
 
 Está [Disque Dur Externe 2to Portable Disque Dur Externe USB3.0 SATA  Stockage HDD pour PC  Mac  MacBook  Xbox One  Desktop  Laptop  Chromebook 2To Rouge ](https://www.amazon.fr/dp/B08MXTKT64/?tag=tolees0d-21) con 35.36 de descuento por 63.99 EUR (original: 99.0 EUR) en el siguiente enlace!

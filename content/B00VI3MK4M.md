@@ -14,7 +14,7 @@ currency: EUR
 price: 145.0
 comparePrice: 229.9 EUR
 inStock: true
-prodname: Smartphone Xiaomi Redmi Note 8T  6.3   - 4 GB - 64 GB - Blue 
+prodname: 'Smartphone Xiaomi Redmi Note 8T  6.3   - 4 GB - 64 GB - Blue '
 ---
 
 Ahora mismo tienes [Smartphone Xiaomi Redmi Note 8T  6.3   - 4 GB - 64 GB - Blue ](https://www.amazon.fr/dp/B00VI3MK4M/?tag=tolees0d-21) a 145.0 EUR (original: 229.9 EUR) (36.93 %  de descuento) en el siguiente enlace!

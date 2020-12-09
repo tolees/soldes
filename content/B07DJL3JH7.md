@@ -14,7 +14,7 @@ currency: EUR
 price: 79.99
 comparePrice: 129.99 EUR
 inStock: true
-prodname: Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation Passive du Bruit avec Technologie à 4 Microphones - Beige Doré
+prodname: 'Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation Passive du Bruit avec Technologie à 4 Microphones - Beige Doré'
 ---
 
 Tienes [Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation Passive du Bruit avec Technologie à 4 Microphones - Beige Doré](https://www.amazon.fr/dp/B07DJL3JH7/?tag=tolees0d-21) con un 38.46 % de descuento con precio de oferta de 79.99 EUR (original: 129.99 EUR) en el siguiente enlace!

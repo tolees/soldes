@@ -14,7 +14,7 @@ currency: EUR
 price: 50.0
 comparePrice: 100.32 EUR
 inStock: true
-prodname: Batman - l Intégrale de la Série Animée - Edition Prestige - Coffret DVD
+prodname: 'Batman - l Intégrale de la Série Animée - Edition Prestige - Coffret DVD'
 ---
 
 Ahora mismo tienes [Batman - l Intégrale de la Série Animée - Edition Prestige - Coffret DVD](https://www.amazon.fr/dp/B00D4AXO5Q/?tag=tolees0d-21) a 50.0 EUR (original: 100.32 EUR) (50.16 %  de descuento) en el siguiente enlace!

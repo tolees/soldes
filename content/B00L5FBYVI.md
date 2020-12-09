@@ -14,7 +14,7 @@ currency: EUR
 price: 4.27
 comparePrice: 12.99 EUR
 inStock: true
-prodname: Philips Ampoule LED Standard Dépolie Culot E27 6 W Watts Consommés Équivalence Incandescence 40W
+prodname: 'Philips Ampoule LED Standard Dépolie Culot E27 6 W Watts Consommés Équivalence Incandescence 40W'
 ---
 
 Ahora mismo tienes [Philips Ampoule LED Standard Dépolie Culot E27 6 W Watts Consommés Équivalence Incandescence 40W](https://www.amazon.fr/dp/B00L5FBYVI/?tag=tolees0d-21) a 4.27 EUR (original: 12.99 EUR) (67.13 %  de descuento) en el siguiente enlace!

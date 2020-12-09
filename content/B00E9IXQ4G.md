@@ -14,7 +14,7 @@ currency: EUR
 price: 73.62
 comparePrice: 105.17 EUR
 inStock: true
-prodname: Crane Stand CUHS-LG-2L Mallette universelle rigide pour DJ
+prodname: 'Crane Stand CUHS-LG-2L Mallette universelle rigide pour DJ'
 ---
 
 Ahora mismo tienes [Crane Stand CUHS-LG-2L Mallette universelle rigide pour DJ](https://www.amazon.fr/dp/B00E9IXQ4G/?tag=tolees0d-21) a 73.62 EUR (original: 105.17 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Playmobil - Coquillage Lumineux avec Sirènes - 70095
+prodname: 'Playmobil - Coquillage Lumineux avec Sirènes - 70095'
 ---
 
 Tienes [Playmobil - Coquillage Lumineux avec Sirènes - 70095](https://www.amazon.fr/dp/B07JKWNS7V/?tag=tolees0d-21) con un 37.73 % de descuento con precio de oferta de 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!

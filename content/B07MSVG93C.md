@@ -14,7 +14,7 @@ currency: EUR
 price: 90.5
 comparePrice: 174.9 EUR
 inStock: true
-prodname: Liu Jo Shoes Karlie 14 Sneaker Bordeaux  Sneakers Basses Femme  Rouge S1703  41 EU
+prodname: 'Liu Jo Shoes Karlie 14 Sneaker Bordeaux  Sneakers Basses Femme  Rouge S1703  41 EU'
 ---
 
 Ahora mismo tienes [Liu Jo Shoes Karlie 14 Sneaker Bordeaux  Sneakers Basses Femme  Rouge S1703  41 EU](https://www.amazon.fr/dp/B07MSVG93C/?tag=tolees0d-21) a 90.5 EUR (original: 174.9 EUR) (48.26 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 100.0 EUR
 inStock: true
-prodname: New Balance femme 574v2 Core Sneakers Basses  Gris  Grey   39 EU
+prodname: 'New Balance femme 574v2 Core Sneakers Basses  Gris  Grey   39 EU'
 ---
 
 Ahora mismo tienes [New Balance femme 574v2 Core Sneakers Basses  Gris  Grey   39 EU](https://www.amazon.fr/dp/B06XXCJNJ4/?tag=tolees0d-21) a 39.99 EUR (original: 100.0 EUR) (60.01 %  de descuento) en el siguiente enlace!

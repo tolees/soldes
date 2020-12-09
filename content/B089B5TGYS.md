@@ -14,7 +14,7 @@ currency: EUR
 price: 15.23
 comparePrice: 21.99 EUR
 inStock: true
-prodname: Lampe Frontale Super Brillante Lampe à 8 Del de 18000 Lumens Rechargeable USB Imperméable réglable pour Le Camping  la Pêche  la Cave  Le Jogging et la Randonnée
+prodname: 'Lampe Frontale Super Brillante Lampe à 8 Del de 18000 Lumens Rechargeable USB Imperméable réglable pour Le Camping  la Pêche  la Cave  Le Jogging et la Randonnée'
 ---
 
 Está [Lampe Frontale Super Brillante Lampe à 8 Del de 18000 Lumens Rechargeable USB Imperméable réglable pour Le Camping  la Pêche  la Cave  Le Jogging et la Randonnée](https://www.amazon.fr/dp/B089B5TGYS/?tag=tolees0d-21) con 30.74 de descuento por 15.23 EUR (original: 21.99 EUR) en el siguiente enlace!

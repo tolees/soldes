@@ -14,7 +14,7 @@ currency: EUR
 price: 199.99
 comparePrice: 349.95 EUR
 inStock: true
-prodname: Casque circumauriculaire Beats Studio3 sans fil avec réduction du bruit - Puce Apple W1 pour casques et écouteurs  Bluetooth classe 1  mode Réduction active du bruit  22 heures d écoute - Vert Forêt
+prodname: 'Casque circumauriculaire Beats Studio3 sans fil avec réduction du bruit - Puce Apple W1 pour casques et écouteurs  Bluetooth classe 1  mode Réduction active du bruit  22 heures d écoute - Vert Forêt'
 ---
 
 Tienes [Casque circumauriculaire Beats Studio3 sans fil avec réduction du bruit - Puce Apple W1 pour casques et écouteurs  Bluetooth classe 1  mode Réduction active du bruit  22 heures d écoute - Vert Forêt](https://www.amazon.fr/dp/B07YVYB62F/?tag=tolees0d-21) con un 42.85 % de descuento con precio de oferta de 199.99 EUR (original: 349.95 EUR) en el siguiente enlace!

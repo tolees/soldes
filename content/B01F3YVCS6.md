@@ -14,7 +14,7 @@ currency: EUR
 price: 7.42
 comparePrice: 15.05 EUR
 inStock: true
-prodname: Blue Jean Cop [Blu-Ray]
+prodname: 'Blue Jean Cop [Blu-Ray]'
 ---
 
 Ahora mismo tienes [Blue Jean Cop [Blu-Ray]](https://www.amazon.fr/dp/B01F3YVCS6/?tag=tolees0d-21) a 7.42 EUR (original: 15.05 EUR) (50.70 %  de descuento) en el siguiente enlace!

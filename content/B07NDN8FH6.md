@@ -14,7 +14,7 @@ currency: EUR
 price: 71.21
 comparePrice: 140.0 EUR
 inStock: true
-prodname: Brooks Brothers Ni Oxford Solid Milano Chemise Casual  Bleu  Blue Blue   Large  Taille Fabricant: L-  Homme
+prodname: 'Brooks Brothers Ni Oxford Solid Milano Chemise Casual  Bleu  Blue Blue   Large  Taille Fabricant: L-  Homme'
 ---
 
 Ahora mismo tienes [Brooks Brothers Ni Oxford Solid Milano Chemise Casual  Bleu  Blue Blue   Large  Taille Fabricant: L-  Homme](https://www.amazon.fr/dp/B07NDN8FH6/?tag=tolees0d-21) a 71.21 EUR (original: 140.0 EUR) (49.14 %  de descuento) en el siguiente enlace!

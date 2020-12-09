@@ -14,7 +14,7 @@ currency: EUR
 price: 62.08
 comparePrice: 149.0 EUR
 inStock: true
-prodname: Ice-Watch - Ice Crystal White Rose-Gold - Montre Blanche pour Femme avec Bracelet en Silicone - 017248  Medium 
+prodname: 'Ice-Watch - Ice Crystal White Rose-Gold - Montre Blanche pour Femme avec Bracelet en Silicone - 017248  Medium '
 ---
 
 Ahora mismo tienes [Ice-Watch - Ice Crystal White Rose-Gold - Montre Blanche pour Femme avec Bracelet en Silicone - 017248  Medium ](https://www.amazon.fr/dp/B081FR1BLG/?tag=tolees0d-21) a 62.08 EUR (original: 149.0 EUR) (58.34 %  de descuento) en el siguiente enlace!

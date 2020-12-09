@@ -14,7 +14,7 @@ currency: EUR
 price: 9.98
 comparePrice: 15.05 EUR
 inStock: true
-prodname: Taxi [Blu-Ray]
+prodname: 'Taxi [Blu-Ray]'
 ---
 
 Ahora mismo tienes [Taxi [Blu-Ray]](https://www.amazon.fr/dp/B00DNJNFCK/?tag=tolees0d-21) a 9.98 EUR (original: 15.05 EUR) (33.69 %  de descuento) en el siguiente enlace!

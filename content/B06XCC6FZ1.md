@@ -14,7 +14,7 @@ currency: EUR
 price: 65.97
 comparePrice: 99.95 EUR
 inStock: true
-prodname: G-STAR RAW 3301 Deconstructed Skinny Jeans  Bleu  Medium Indigo Aged 8968-6028   31W / 36L Homme
+prodname: 'G-STAR RAW 3301 Deconstructed Skinny Jeans  Bleu  Medium Indigo Aged 8968-6028   31W / 36L Homme'
 ---
 
 Tienes [G-STAR RAW 3301 Deconstructed Skinny Jeans  Bleu  Medium Indigo Aged 8968-6028   31W / 36L Homme](https://www.amazon.fr/dp/B06XCC6FZ1/?tag=tolees0d-21) con un 34.00 % de descuento con precio de oferta de 65.97 EUR (original: 99.95 EUR) en el siguiente enlace!

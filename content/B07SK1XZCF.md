@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 49.0 EUR
 inStock: true
-prodname: GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  Noir  Dot Non Inclus 
+prodname: 'GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  Noir  Dot Non Inclus '
 ---
 
 Ahora mismo tienes [GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  Noir  Dot Non Inclus ](https://www.amazon.fr/dp/B07SK1XZCF/?tag=tolees0d-21) a 30.99 EUR (original: 49.0 EUR) (36.76 %  de descuento) en el siguiente enlace!

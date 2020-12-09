@@ -14,7 +14,7 @@ currency: EUR
 price: 159.99
 comparePrice: 239.99 EUR
 inStock: true
-prodname: Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ovale 34x26 cm / 7 2L Induction E2230604
+prodname: 'Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ovale 34x26 cm / 7 2L Induction E2230604'
 ---
 
 Ahora mismo tienes [Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ovale 34x26 cm / 7 2L Induction E2230604](https://www.amazon.fr/dp/B07TZ3ZDTJ/?tag=tolees0d-21) a 159.99 EUR (original: 239.99 EUR) (33.33 %  de descuento) en el siguiente enlace!

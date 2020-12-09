@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 27.0 EUR
 inStock: true
-prodname: Levi s The Perfect Tee T-Shirt - Femme-Blanc  Batwing White 53 -X-Large
+prodname: 'Levi s The Perfect Tee T-Shirt - Femme-Blanc  Batwing White 53 -X-Large'
 ---
 
 Está [Levi s The Perfect Tee T-Shirt - Femme-Blanc  Batwing White 53 -X-Large](https://www.amazon.fr/dp/B01M0ICVW4/?tag=tolees0d-21) con 44.44 de descuento por 15.0 EUR (original: 27.0 EUR) en el siguiente enlace!

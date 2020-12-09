@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 99.95 EUR
 inStock: true
-prodname: Casque supra-auriculaire filaire Beats EP - Sans batterie pour une écoute sans limite  micro et commandes intégrées - Rouge
+prodname: 'Casque supra-auriculaire filaire Beats EP - Sans batterie pour une écoute sans limite  micro et commandes intégrées - Rouge'
 ---
 
 Tienes [Casque supra-auriculaire filaire Beats EP - Sans batterie pour une écoute sans limite  micro et commandes intégrées - Rouge](https://www.amazon.fr/dp/B01LVXZVFI/?tag=tolees0d-21) con un 49.98 % de descuento con precio de oferta de 49.99 EUR (original: 99.95 EUR) en el siguiente enlace!

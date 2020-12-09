@@ -14,7 +14,7 @@ currency: EUR
 price: 6.56
 comparePrice: 8.99 EUR
 inStock: true
-prodname: HERMA - Film couvre-livres  400 mm x 10 m  en PP  transparent non autocollant  7386 
+prodname: 'HERMA - Film couvre-livres  400 mm x 10 m  en PP  transparent non autocollant  7386 '
 ---
 
 Está [HERMA - Film couvre-livres  400 mm x 10 m  en PP  transparent non autocollant  7386 ](https://www.amazon.fr/dp/B000KJOP5C/?tag=tolees0d-21) con 27.03 de descuento por 6.56 EUR (original: 8.99 EUR) en el siguiente enlace!

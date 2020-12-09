@@ -14,7 +14,7 @@ currency: EUR
 price: 129.99
 comparePrice: 189.99 EUR
 inStock: true
-prodname: NUTRIBULLET Balance 1200 W – Blender Connecté – Technologie Cyclonique Brevetée – Extracteur de Jus – Repas Healthy  Plastique  Noir
+prodname: 'NUTRIBULLET Balance 1200 W – Blender Connecté – Technologie Cyclonique Brevetée – Extracteur de Jus – Repas Healthy  Plastique  Noir'
 ---
 
 Ahora mismo tienes [NUTRIBULLET Balance 1200 W – Blender Connecté – Technologie Cyclonique Brevetée – Extracteur de Jus – Repas Healthy  Plastique  Noir](https://www.amazon.fr/dp/B07VNFMKYW/?tag=tolees0d-21) a 129.99 EUR (original: 189.99 EUR) (31.58 %  de descuento) en el siguiente enlace!

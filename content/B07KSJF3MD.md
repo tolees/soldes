@@ -14,7 +14,7 @@ currency: EUR
 price: 248.58
 comparePrice: 346.9 EUR
 inStock: true
-prodname: Samsung SSD interne 860 QVO 2.5’’ SATA  2 TERA  - MZ-76Q2T0BW
+prodname: 'Samsung SSD interne 860 QVO 2.5’’ SATA  2 TERA  - MZ-76Q2T0BW'
 ---
 
 Ahora mismo tienes [Samsung SSD interne 860 QVO 2.5’’ SATA  2 TERA  - MZ-76Q2T0BW](https://www.amazon.fr/dp/B07KSJF3MD/?tag=tolees0d-21) a 248.58 EUR (original: 346.9 EUR) (28.34 %  de descuento) en el siguiente enlace!

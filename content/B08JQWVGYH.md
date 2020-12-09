@@ -14,7 +14,7 @@ currency: EUR
 price: 13.86
 comparePrice: 23.1 EUR
 inStock: true
-prodname: MENNEN  Endurance Déodorant Stick 72h Homme  Pack de 6
+prodname: 'MENNEN  Endurance Déodorant Stick 72h Homme  Pack de 6'
 ---
 
 Tienes [MENNEN  Endurance Déodorant Stick 72h Homme  Pack de 6](https://www.amazon.fr/dp/B08JQWVGYH/?tag=tolees0d-21) con un 40.00 % de descuento con precio de oferta de 13.86 EUR (original: 23.1 EUR) en el siguiente enlace!

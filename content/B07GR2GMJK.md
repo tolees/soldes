@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 25.07 EUR
 inStock: true
-prodname: COMMISSAIRE DUPIN
+prodname: 'COMMISSAIRE DUPIN'
 ---
 
 Tienes [COMMISSAIRE DUPIN](https://www.amazon.fr/dp/B07GR2GMJK/?tag=tolees0d-21) con un 36.22 % de descuento con precio de oferta de 15.99 EUR (original: 25.07 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 3.17
 comparePrice: 4.99 EUR
 inStock: true
-prodname: Leifheit 37202 Languettes et 1 Ressort de rechange pour Cherrymat Métal Blanc/Argent 12 6 x 1 x 1 cm
+prodname: 'Leifheit 37202 Languettes et 1 Ressort de rechange pour Cherrymat Métal Blanc/Argent 12 6 x 1 x 1 cm'
 ---
 
 Tienes [Leifheit 37202 Languettes et 1 Ressort de rechange pour Cherrymat Métal Blanc/Argent 12 6 x 1 x 1 cm](https://www.amazon.fr/dp/B0002HOUBQ/?tag=tolees0d-21) con un 36.47 % de descuento con precio de oferta de 3.17 EUR (original: 4.99 EUR) en el siguiente enlace!

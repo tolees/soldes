@@ -14,7 +14,7 @@ currency: EUR
 price: 35.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: PUMA Carina L  Baskets Femme  White-White-Silver  38 EU
+prodname: 'PUMA Carina L  Baskets Femme  White-White-Silver  38 EU'
 ---
 
 Ahora mismo tienes [PUMA Carina L  Baskets Femme  White-White-Silver  38 EU](https://www.amazon.fr/dp/B07JH2YBH3/?tag=tolees0d-21) a 35.95 EUR (original: 59.95 EUR) (40.03 %  de descuento) en el siguiente enlace!

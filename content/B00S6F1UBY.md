@@ -14,7 +14,7 @@ currency: EUR
 price: 59.04
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Sylvanian Families - 5206 - Le bateau de croisière
+prodname: 'Sylvanian Families - 5206 - Le bateau de croisière'
 ---
 
 Está [Sylvanian Families - 5206 - Le bateau de croisière](https://www.amazon.fr/dp/B00S6F1UBY/?tag=tolees0d-21) con 26.19 de descuento por 59.04 EUR (original: 79.99 EUR) en el siguiente enlace!

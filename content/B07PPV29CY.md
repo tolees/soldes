@@ -14,7 +14,7 @@ currency: EUR
 price: 6.79
 comparePrice: 9.99 EUR
 inStock: true
-prodname: Maxesla USB Bluetooth 4.0 Adaptateur Clé Bluetooth pour PC Portable  Casque Bluetooth  Mobile  PDA Transmetteur Bluetooth et Récepteur Plug and Play pour Windows 10/8 / 7 / Vista/XP
+prodname: 'Maxesla USB Bluetooth 4.0 Adaptateur Clé Bluetooth pour PC Portable  Casque Bluetooth  Mobile  PDA Transmetteur Bluetooth et Récepteur Plug and Play pour Windows 10/8 / 7 / Vista/XP'
 ---
 
 Está [Maxesla USB Bluetooth 4.0 Adaptateur Clé Bluetooth pour PC Portable  Casque Bluetooth  Mobile  PDA Transmetteur Bluetooth et Récepteur Plug and Play pour Windows 10/8 / 7 / Vista/XP](https://www.amazon.fr/dp/B07PPV29CY/?tag=tolees0d-21) con 32.03 de descuento por 6.79 EUR (original: 9.99 EUR) en el siguiente enlace!

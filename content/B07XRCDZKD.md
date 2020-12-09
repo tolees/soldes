@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: LIGE Montre Homme Mode Ultra-Mince Classique Noir Montre Simple Étanche Automatique Date Quartz Montre Affaires Robe Montre
+prodname: 'LIGE Montre Homme Mode Ultra-Mince Classique Noir Montre Simple Étanche Automatique Date Quartz Montre Affaires Robe Montre'
 ---
 
 Está [LIGE Montre Homme Mode Ultra-Mince Classique Noir Montre Simple Étanche Automatique Date Quartz Montre Affaires Robe Montre](https://www.amazon.fr/dp/B07XRCDZKD/?tag=tolees0d-21) con 84.71 de descuento por 25.99 EUR (original: 169.99 EUR) en el siguiente enlace!

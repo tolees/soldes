@@ -14,7 +14,7 @@ currency: EUR
 price: 84.43
 comparePrice: 229.95 EUR
 inStock: true
-prodname: Camel Active Womenswear 2r57 Manteau  Bleu  Blue 42   46  Taille Fabricant: 44  Femme
+prodname: 'Camel Active Womenswear 2r57 Manteau  Bleu  Blue 42   46  Taille Fabricant: 44  Femme'
 ---
 
 Ahora mismo tienes [Camel Active Womenswear 2r57 Manteau  Bleu  Blue 42   46  Taille Fabricant: 44  Femme](https://www.amazon.fr/dp/B07N7RTKSX/?tag=tolees0d-21) a 84.43 EUR (original: 229.95 EUR) (63.28 %  de descuento) en el siguiente enlace!

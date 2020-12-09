@@ -14,7 +14,7 @@ currency: EUR
 price: 30.16
 comparePrice: 99.0 EUR
 inStock: true
-prodname: Interbaby Set de 3 Pièces - Couette + Tour de Lit + Coussin pour Lit - Rose - 60x120 cm
+prodname: 'Interbaby Set de 3 Pièces - Couette + Tour de Lit + Coussin pour Lit - Rose - 60x120 cm'
 ---
 
 Tienes [Interbaby Set de 3 Pièces - Couette + Tour de Lit + Coussin pour Lit - Rose - 60x120 cm](https://www.amazon.fr/dp/B00DZLRA40/?tag=tolees0d-21) con un 69.54 % de descuento con precio de oferta de 30.16 EUR (original: 99.0 EUR) en el siguiente enlace!

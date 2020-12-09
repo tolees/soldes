@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Columbia Fast Trek II Veste Polaire Zippée pour homme
+prodname: 'Columbia Fast Trek II Veste Polaire Zippée pour homme'
 ---
 
 Tienes [Columbia Fast Trek II Veste Polaire Zippée pour homme](https://www.amazon.fr/dp/B087VHDFD8/?tag=tolees0d-21) con un 48.01 % de descuento con precio de oferta de 25.99 EUR (original: 49.99 EUR) en el siguiente enlace!

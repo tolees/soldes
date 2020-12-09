@@ -14,7 +14,7 @@ currency: EUR
 price: 13.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: LOKAKA Coque pour Sony Xperia 10 II Coque Pochette Housse Etui [Porte Carte Credit Ticket Metro]  [Fonction Stand Video] [Fermeture Magnetique] - Rouge
+prodname: 'LOKAKA Coque pour Sony Xperia 10 II Coque Pochette Housse Etui [Porte Carte Credit Ticket Metro]  [Fonction Stand Video] [Fermeture Magnetique] - Rouge'
 ---
 
 Está [LOKAKA Coque pour Sony Xperia 10 II Coque Pochette Housse Etui [Porte Carte Credit Ticket Metro]  [Fonction Stand Video] [Fermeture Magnetique] - Rouge](https://www.amazon.fr/dp/B08FHS21RZ/?tag=tolees0d-21) con 46.17 de descuento por 13.99 EUR (original: 25.99 EUR) en el siguiente enlace!

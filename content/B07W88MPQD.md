@@ -14,7 +14,7 @@ currency: EUR
 price: 129.99
 comparePrice: 223.99 EUR
 inStock: true
-prodname: Orfeld Aspirateur Balai Sans Fil  18000Pa 2 en 1 Aspirateur Puissant  Autonomie 50 min  Batterie Amovible  2 Vitesses Modurable  Silencieux et Ultraléger  Bleu  Bleu 
+prodname: 'Orfeld Aspirateur Balai Sans Fil  18000Pa 2 en 1 Aspirateur Puissant  Autonomie 50 min  Batterie Amovible  2 Vitesses Modurable  Silencieux et Ultraléger  Bleu  Bleu '
 ---
 
 Está [Orfeld Aspirateur Balai Sans Fil  18000Pa 2 en 1 Aspirateur Puissant  Autonomie 50 min  Batterie Amovible  2 Vitesses Modurable  Silencieux et Ultraléger  Bleu  Bleu ](https://www.amazon.fr/dp/B07W88MPQD/?tag=tolees0d-21) con 41.97 de descuento por 129.99 EUR (original: 223.99 EUR) en el siguiente enlace!

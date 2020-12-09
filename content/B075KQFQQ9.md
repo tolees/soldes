@@ -14,7 +14,7 @@ currency: EUR
 price: 65.0
 comparePrice: 260.0 EUR
 inStock: true
-prodname: Boucles d oreilles or tricolore"Trianon"
+prodname: 'Boucles d oreilles or tricolore"Trianon"'
 ---
 
 Ahora mismo tienes [Boucles d oreilles or tricolore"Trianon"](https://www.amazon.fr/dp/B075KQFQQ9/?tag=tolees0d-21) a 65.0 EUR (original: 260.0 EUR) (75.00 %  de descuento) en el siguiente enlace!

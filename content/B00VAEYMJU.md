@@ -14,7 +14,7 @@ currency: EUR
 price: 6.98
 comparePrice: 15.02 EUR
 inStock: true
-prodname: Selma [Blu-Ray]
+prodname: 'Selma [Blu-Ray]'
 ---
 
 Ahora mismo tienes [Selma [Blu-Ray]](https://www.amazon.fr/dp/B00VAEYMJU/?tag=tolees0d-21) a 6.98 EUR (original: 15.02 EUR) (53.53 %  de descuento) en el siguiente enlace!

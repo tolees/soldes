@@ -14,7 +14,7 @@ currency: EUR
 price: 26.9
 comparePrice: 44.99 EUR
 inStock: true
-prodname: LEGO Friends - Le parcours d obstacles de Stéphanie - 41367 - Jeu de construction
+prodname: 'LEGO Friends - Le parcours d obstacles de Stéphanie - 41367 - Jeu de construction'
 ---
 
 Tienes [LEGO Friends - Le parcours d obstacles de Stéphanie - 41367 - Jeu de construction](https://www.amazon.fr/dp/B07FNS9YS1/?tag=tolees0d-21) con un 40.21 % de descuento con precio de oferta de 26.9 EUR (original: 44.99 EUR) en el siguiente enlace!

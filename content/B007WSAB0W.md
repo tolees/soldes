@@ -14,7 +14,7 @@ currency: EUR
 price: 9.69
 comparePrice: 14.88 EUR
 inStock: true
-prodname: Oral-B TriZone Brossettes De Rechange Pour Brosse À Dents Électrique x2
+prodname: 'Oral-B TriZone Brossettes De Rechange Pour Brosse À Dents Électrique x2'
 ---
 
 Tienes [Oral-B TriZone Brossettes De Rechange Pour Brosse À Dents Électrique x2](https://www.amazon.fr/dp/B007WSAB0W/?tag=tolees0d-21) con un 34.88 % de descuento con precio de oferta de 9.69 EUR (original: 14.88 EUR) en el siguiente enlace!

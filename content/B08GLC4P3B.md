@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 134.81 EUR
 inStock: true
-prodname: Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Noir 
+prodname: 'Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Noir '
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Noir ](https://www.amazon.fr/dp/B08GLC4P3B/?tag=tolees0d-21) a 63.99 EUR (original: 134.81 EUR) (52.53 %  de descuento) en el siguiente enlace!

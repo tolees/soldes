@@ -14,7 +14,7 @@ currency: EUR
 price: 36.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Maegoo Manette Switch sans Fil Joycon  Manettes pour Nintendo Switch  Bluetooth Remplacement Joy Con Switch Gamepad Joysticks Gauche et Droite Joypads avec Double Shock and 6-Axis Gyro
+prodname: 'Maegoo Manette Switch sans Fil Joycon  Manettes pour Nintendo Switch  Bluetooth Remplacement Joy Con Switch Gamepad Joysticks Gauche et Droite Joypads avec Double Shock and 6-Axis Gyro'
 ---
 
 Está [Maegoo Manette Switch sans Fil Joycon  Manettes pour Nintendo Switch  Bluetooth Remplacement Joy Con Switch Gamepad Joysticks Gauche et Droite Joypads avec Double Shock and 6-Axis Gyro](https://www.amazon.fr/dp/B08CSFNKWN/?tag=tolees0d-21) con 38.34 de descuento por 36.99 EUR (original: 59.99 EUR) en el siguiente enlace!

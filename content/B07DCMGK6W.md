@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 28.99 EUR
 inStock: true
-prodname: Adaptateur Secteur pour Switch / Switch Lite Support le Mode TV Charge Rapide USB Type C Chargeur pour Switch / Switch Lite
+prodname: 'Adaptateur Secteur pour Switch / Switch Lite Support le Mode TV Charge Rapide USB Type C Chargeur pour Switch / Switch Lite'
 ---
 
 Ahora mismo tienes [Adaptateur Secteur pour Switch / Switch Lite Support le Mode TV Charge Rapide USB Type C Chargeur pour Switch / Switch Lite](https://www.amazon.fr/dp/B07DCMGK6W/?tag=tolees0d-21) a 19.99 EUR (original: 28.99 EUR) (31.05 %  de descuento) en el siguiente enlace!

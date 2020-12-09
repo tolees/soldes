@@ -14,7 +14,7 @@ currency: EUR
 price: 289.99
 comparePrice: 499.99 EUR
 inStock: true
-prodname: Calor PRO EXPRESS ULTIMATE PURE+ Centrale Vapeur Technologie Professionelle Haute Pression Fonction Pressing Jusqu à 650 g/min GV9610C0
+prodname: 'Calor PRO EXPRESS ULTIMATE PURE+ Centrale Vapeur Technologie Professionelle Haute Pression Fonction Pressing Jusqu à 650 g/min GV9610C0'
 ---
 
 Tienes [Calor PRO EXPRESS ULTIMATE PURE+ Centrale Vapeur Technologie Professionelle Haute Pression Fonction Pressing Jusqu à 650 g/min GV9610C0](https://www.amazon.fr/dp/B07NW6RP6P/?tag=tolees0d-21) con un 42.00 % de descuento con precio de oferta de 289.99 EUR (original: 499.99 EUR) en el siguiente enlace!

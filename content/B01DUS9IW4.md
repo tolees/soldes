@@ -14,7 +14,7 @@ currency: EUR
 price: 16.95
 comparePrice: 27.99 EUR
 inStock: true
-prodname: Lupin III : Une Femme nommée Fujiko Mine-Intégrale-Edition Saphir [2 Blu-Ray] + Livret
+prodname: 'Lupin III : Une Femme nommée Fujiko Mine-Intégrale-Edition Saphir [2 Blu-Ray] + Livret'
 ---
 
 Está [Lupin III : Une Femme nommée Fujiko Mine-Intégrale-Edition Saphir [2 Blu-Ray] + Livret](https://www.amazon.fr/dp/B01DUS9IW4/?tag=tolees0d-21) con 39.44 de descuento por 16.95 EUR (original: 27.99 EUR) en el siguiente enlace!

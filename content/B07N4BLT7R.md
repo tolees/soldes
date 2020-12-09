@@ -14,7 +14,7 @@ currency: EUR
 price: 96.14
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Catimini CP44005 Manteau  Noir  Black 02   4 Ans  Taille Fabricant:4A  Fille
+prodname: 'Catimini CP44005 Manteau  Noir  Black 02   4 Ans  Taille Fabricant:4A  Fille'
 ---
 
 Está [Catimini CP44005 Manteau  Noir  Black 02   4 Ans  Taille Fabricant:4A  Fille](https://www.amazon.fr/dp/B07N4BLT7R/?tag=tolees0d-21) con 25.47 de descuento por 96.14 EUR (original: 129.0 EUR) en el siguiente enlace!

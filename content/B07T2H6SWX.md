@@ -14,7 +14,7 @@ currency: EUR
 price: 53.99
 comparePrice: 80.26 EUR
 inStock: true
-prodname: The Mentalist-L intégrale de la série
+prodname: 'The Mentalist-L intégrale de la série'
 ---
 
 Ahora mismo tienes [The Mentalist-L intégrale de la série](https://www.amazon.fr/dp/B07T2H6SWX/?tag=tolees0d-21) a 53.99 EUR (original: 80.26 EUR) (32.73 %  de descuento) en el siguiente enlace!

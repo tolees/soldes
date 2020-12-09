@@ -14,7 +14,7 @@ currency: EUR
 price: 19.56
 comparePrice: 38.0 EUR
 inStock: true
-prodname: Vans OLD SKOOL III BACKPACK Sac à dos loisir 42 Centimeters 22 Noir  Black-White 
+prodname: 'Vans OLD SKOOL III BACKPACK Sac à dos loisir 42 Centimeters 22 Noir  Black-White '
 ---
 
 Tienes [Vans OLD SKOOL III BACKPACK Sac à dos loisir 42 Centimeters 22 Noir  Black-White ](https://www.amazon.fr/dp/B07QKKW3HZ/?tag=tolees0d-21) con un 48.53 % de descuento con precio de oferta de 19.56 EUR (original: 38.0 EUR) en el siguiente enlace!

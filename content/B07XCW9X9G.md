@@ -14,7 +14,7 @@ currency: EUR
 price: 38.79
 comparePrice: 75.76 EUR
 inStock: true
-prodname: Venga! Teppanyaki Plancha Grill  Température Ajustable  Design Moderne  1 600 W  Noir/Blanc  VG GR 3010
+prodname: 'Venga! Teppanyaki Plancha Grill  Température Ajustable  Design Moderne  1 600 W  Noir/Blanc  VG GR 3010'
 ---
 
 Tienes [Venga! Teppanyaki Plancha Grill  Température Ajustable  Design Moderne  1 600 W  Noir/Blanc  VG GR 3010](https://www.amazon.fr/dp/B07XCW9X9G/?tag=tolees0d-21) con un 48.80 % de descuento con precio de oferta de 38.79 EUR (original: 75.76 EUR) en el siguiente enlace!

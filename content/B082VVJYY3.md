@@ -14,7 +14,7 @@ currency: EUR
 price: 14.49
 comparePrice: 21.95 EUR
 inStock: true
-prodname: Carte Noire Café Espresso Intense - 96 capsules  6 packs de 16  compatibles Dolce Gusto
+prodname: 'Carte Noire Café Espresso Intense - 96 capsules  6 packs de 16  compatibles Dolce Gusto'
 ---
 
 Ahora mismo tienes [Carte Noire Café Espresso Intense - 96 capsules  6 packs de 16  compatibles Dolce Gusto](https://www.amazon.fr/dp/B082VVJYY3/?tag=tolees0d-21) a 14.49 EUR (original: 21.95 EUR) (33.99 %  de descuento) en el siguiente enlace!

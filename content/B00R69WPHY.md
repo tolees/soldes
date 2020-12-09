@@ -14,7 +14,7 @@ currency: EUR
 price: 12.36
 comparePrice: 20.02 EUR
 inStock: true
-prodname: National Gallery
+prodname: 'National Gallery'
 ---
 
 Ahora mismo tienes [National Gallery](https://www.amazon.fr/dp/B00R69WPHY/?tag=tolees0d-21) a 12.36 EUR (original: 20.02 EUR) (38.26 %  de descuento) en el siguiente enlace!

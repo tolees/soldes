@@ -14,7 +14,7 @@ currency: EUR
 price: 159.99
 comparePrice: 279.99 EUR
 inStock: true
-prodname: Philips HR2382/10 Machine à Pâtes Automatique  Balance Intégrée  Huit Disques de Forme  Noir
+prodname: 'Philips HR2382/10 Machine à Pâtes Automatique  Balance Intégrée  Huit Disques de Forme  Noir'
 ---
 
 Tienes [Philips HR2382/10 Machine à Pâtes Automatique  Balance Intégrée  Huit Disques de Forme  Noir](https://www.amazon.fr/dp/B07GJWCCM7/?tag=tolees0d-21) con un 42.86 % de descuento con precio de oferta de 159.99 EUR (original: 279.99 EUR) en el siguiente enlace!

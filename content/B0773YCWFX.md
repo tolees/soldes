@@ -14,7 +14,7 @@ currency: EUR
 price: 61.38
 comparePrice: 139.95 EUR
 inStock: true
-prodname: adidas NMD R2  Baskets Homme  Noir  Core Black/Core Black/Core Black 0   40 2/3 EU
+prodname: 'adidas NMD R2  Baskets Homme  Noir  Core Black/Core Black/Core Black 0   40 2/3 EU'
 ---
 
 Ahora mismo tienes [adidas NMD R2  Baskets Homme  Noir  Core Black/Core Black/Core Black 0   40 2/3 EU](https://www.amazon.fr/dp/B0773YCWFX/?tag=tolees0d-21) a 61.38 EUR (original: 139.95 EUR) (56.14 %  de descuento) en el siguiente enlace!

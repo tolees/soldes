@@ -14,7 +14,7 @@ currency: EUR
 price: 139.99
 comparePrice: 199.99 EUR
 inStock: true
-prodname: ASUS - Casque Sans Fil ASUS ROG STRIX GO 2.4 Ghz - Connexion sans fil avec USB-C - Réduction de bruit par Intelligence Artificielle - Compatible Multi-plateforme
+prodname: 'ASUS - Casque Sans Fil ASUS ROG STRIX GO 2.4 Ghz - Connexion sans fil avec USB-C - Réduction de bruit par Intelligence Artificielle - Compatible Multi-plateforme'
 ---
 
 Tienes [ASUS - Casque Sans Fil ASUS ROG STRIX GO 2.4 Ghz - Connexion sans fil avec USB-C - Réduction de bruit par Intelligence Artificielle - Compatible Multi-plateforme](https://www.amazon.fr/dp/B07ZKJPYXZ/?tag=tolees0d-21) con un 30.00 % de descuento con precio de oferta de 139.99 EUR (original: 199.99 EUR) en el siguiente enlace!

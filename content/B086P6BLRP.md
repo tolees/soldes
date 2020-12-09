@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 69.95 EUR
 inStock: true
-prodname: Puma Om Home Shirt Replica JR with Sponsor T-Shirt Enfant Puma White/Bleu Azur FR : Taille Unique  Taille Fabricant : 164 
+prodname: 'Puma Om Home Shirt Replica JR with Sponsor T-Shirt Enfant Puma White/Bleu Azur FR : Taille Unique  Taille Fabricant : 164 '
 ---
 
 Está [Puma Om Home Shirt Replica JR with Sponsor T-Shirt Enfant Puma White/Bleu Azur FR : Taille Unique  Taille Fabricant : 164 ](https://www.amazon.fr/dp/B086P6BLRP/?tag=tolees0d-21) con 64.27 de descuento por 24.99 EUR (original: 69.95 EUR) en el siguiente enlace!

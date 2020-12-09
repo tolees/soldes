@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Russell Hobbs Hachoir Electrique Bol Préparation 1L  Lames Acier Inoxydable Amovibles  Compatible Lave Vaisselle - Rouge 24660-56 Desire
+prodname: 'Russell Hobbs Hachoir Electrique Bol Préparation 1L  Lames Acier Inoxydable Amovibles  Compatible Lave Vaisselle - Rouge 24660-56 Desire'
 ---
 
 Tienes [Russell Hobbs Hachoir Electrique Bol Préparation 1L  Lames Acier Inoxydable Amovibles  Compatible Lave Vaisselle - Rouge 24660-56 Desire](https://www.amazon.fr/dp/B079TKTQQ1/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

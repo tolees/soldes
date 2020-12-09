@@ -14,7 +14,7 @@ currency: EUR
 price: 49.42
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Doom Eternal
+prodname: 'Doom Eternal'
 ---
 
 Ahora mismo tienes [Doom Eternal](https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21) a 49.42 EUR (original: 69.99 EUR) (29.39 %  de descuento) en el siguiente enlace!

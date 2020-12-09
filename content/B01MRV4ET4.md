@@ -14,7 +14,7 @@ currency: EUR
 price: 17.22
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Barbie La Magie des Dauphins Poupée Blonde avec Figurine de Chien  Dauphin Sonore  et Accessoires  Jouet pour Enfant  FBD63
+prodname: 'Barbie La Magie des Dauphins Poupée Blonde avec Figurine de Chien  Dauphin Sonore  et Accessoires  Jouet pour Enfant  FBD63'
 ---
 
 Está [Barbie La Magie des Dauphins Poupée Blonde avec Figurine de Chien  Dauphin Sonore  et Accessoires  Jouet pour Enfant  FBD63](https://www.amazon.fr/dp/B01MRV4ET4/?tag=tolees0d-21) con 42.58 de descuento por 17.22 EUR (original: 29.99 EUR) en el siguiente enlace!

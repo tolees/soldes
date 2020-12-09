@@ -14,7 +14,7 @@ currency: EUR
 price: 12.99
 comparePrice: 32.99 EUR
 inStock: true
-prodname: Montre Connectée Femmes Homme Bracelet Connecté Cardiofréquencemètre Etanche IP67 Smartwatch Sport Fitness Tracker Podometre Marche Sommeil Calorie
+prodname: 'Montre Connectée Femmes Homme Bracelet Connecté Cardiofréquencemètre Etanche IP67 Smartwatch Sport Fitness Tracker Podometre Marche Sommeil Calorie'
 ---
 
 Tienes [Montre Connectée Femmes Homme Bracelet Connecté Cardiofréquencemètre Etanche IP67 Smartwatch Sport Fitness Tracker Podometre Marche Sommeil Calorie](https://www.amazon.fr/dp/B08HJCK9X3/?tag=tolees0d-21) con un 60.62 % de descuento con precio de oferta de 12.99 EUR (original: 32.99 EUR) en el siguiente enlace!

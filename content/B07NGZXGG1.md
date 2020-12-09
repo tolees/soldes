@@ -14,7 +14,7 @@ currency: EUR
 price: 99.02
 comparePrice: 249.0 EUR
 inStock: true
-prodname: Strellson S.C. Clifton  Blouson Homme  Grün  Green 318   Medium  taille du fabricant: 48 
+prodname: 'Strellson S.C. Clifton  Blouson Homme  Grün  Green 318   Medium  taille du fabricant: 48 '
 ---
 
 Está [Strellson S.C. Clifton  Blouson Homme  Grün  Green 318   Medium  taille du fabricant: 48 ](https://www.amazon.fr/dp/B07NGZXGG1/?tag=tolees0d-21) con 60.23 de descuento por 99.02 EUR (original: 249.0 EUR) en el siguiente enlace!

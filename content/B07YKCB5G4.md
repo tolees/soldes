@@ -14,7 +14,7 @@ currency: EUR
 price: 23.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: LVWIT 8.5W E27 Ampoule LED WiFi Intelligente Variable  Compatible avec Google Assistant  Alexa et Smart Life Tuya App  RGB Ampoule Givré 60W Dimmable 806Lm  Pas de Hub requis  2 Packs
+prodname: 'LVWIT 8.5W E27 Ampoule LED WiFi Intelligente Variable  Compatible avec Google Assistant  Alexa et Smart Life Tuya App  RGB Ampoule Givré 60W Dimmable 806Lm  Pas de Hub requis  2 Packs'
 ---
 
 Está [LVWIT 8.5W E27 Ampoule LED WiFi Intelligente Variable  Compatible avec Google Assistant  Alexa et Smart Life Tuya App  RGB Ampoule Givré 60W Dimmable 806Lm  Pas de Hub requis  2 Packs](https://www.amazon.fr/dp/B07YKCB5G4/?tag=tolees0d-21) con 33.34 de descuento por 23.99 EUR (original: 35.99 EUR) en el siguiente enlace!

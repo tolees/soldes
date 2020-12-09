@@ -14,7 +14,7 @@ currency: EUR
 price: 6.9
 comparePrice: 11.5 EUR
 inStock: true
-prodname: L Oréal Paris Préférence Coloration Permanente Cheveux  Nuance : Prague  01   Blond Très Très Clair Naturel
+prodname: 'L Oréal Paris Préférence Coloration Permanente Cheveux  Nuance : Prague  01   Blond Très Très Clair Naturel'
 ---
 
 Ahora mismo tienes [L Oréal Paris Préférence Coloration Permanente Cheveux  Nuance : Prague  01   Blond Très Très Clair Naturel](https://www.amazon.fr/dp/B005HG5YEO/?tag=tolees0d-21) a 6.9 EUR (original: 11.5 EUR) (40.00 %  de descuento) en el siguiente enlace!

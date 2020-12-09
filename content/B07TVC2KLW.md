@@ -14,7 +14,7 @@ currency: EUR
 price: 146.79
 comparePrice: 199.95 EUR
 inStock: true
-prodname: Fitbit Versa 2 : Montre Connectée Forme et Bien-Être avec Contrôle Vocal  Score de Sommeil et Musique  avec Amazon Alexa Intégrée  Rose Pétale Rose Cuivré
+prodname: 'Fitbit Versa 2 : Montre Connectée Forme et Bien-Être avec Contrôle Vocal  Score de Sommeil et Musique  avec Amazon Alexa Intégrée  Rose Pétale Rose Cuivré'
 ---
 
 Ahora mismo tienes [Fitbit Versa 2 : Montre Connectée Forme et Bien-Être avec Contrôle Vocal  Score de Sommeil et Musique  avec Amazon Alexa Intégrée  Rose Pétale Rose Cuivré](https://www.amazon.fr/dp/B07TVC2KLW/?tag=tolees0d-21) a 146.79 EUR (original: 199.95 EUR) (26.59 %  de descuento) en el siguiente enlace!

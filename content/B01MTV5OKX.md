@@ -14,7 +14,7 @@ currency: EUR
 price: 34.6
 comparePrice: 89.95 EUR
 inStock: true
-prodname: Puma Basket Heart Patent  Baskets Basses Femme  Blanc  White-White   40 EU
+prodname: 'Puma Basket Heart Patent  Baskets Basses Femme  Blanc  White-White   40 EU'
 ---
 
 Tienes [Puma Basket Heart Patent  Baskets Basses Femme  Blanc  White-White   40 EU](https://www.amazon.fr/dp/B01MTV5OKX/?tag=tolees0d-21) con un 61.53 % de descuento con precio de oferta de 34.6 EUR (original: 89.95 EUR) en el siguiente enlace!

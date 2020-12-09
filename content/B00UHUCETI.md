@@ -14,7 +14,7 @@ currency: EUR
 price: 104.93
 comparePrice: 149.9 EUR
 inStock: true
-prodname: Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces
+prodname: 'Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces'
 ---
 
 Tienes [Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces](https://www.amazon.fr/dp/B00UHUCETI/?tag=tolees0d-21) con un 30.00 % de descuento con precio de oferta de 104.93 EUR (original: 149.9 EUR) en el siguiente enlace!

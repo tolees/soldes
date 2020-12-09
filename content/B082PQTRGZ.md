@@ -14,7 +14,7 @@ currency: EUR
 price: 10.98
 comparePrice: 15.02 EUR
 inStock: true
-prodname: Willard BRD [Blu-Ray]
+prodname: 'Willard BRD [Blu-Ray]'
 ---
 
 Ahora mismo tienes [Willard BRD [Blu-Ray]](https://www.amazon.fr/dp/B082PQTRGZ/?tag=tolees0d-21) a 10.98 EUR (original: 15.02 EUR) (26.90 %  de descuento) en el siguiente enlace!

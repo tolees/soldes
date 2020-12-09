@@ -14,7 +14,7 @@ currency: EUR
 price: 29.49
 comparePrice: 40.99 EUR
 inStock: true
-prodname: 51 Worldwide Games
+prodname: '51 Worldwide Games'
 ---
 
 Está [51 Worldwide Games](https://www.amazon.fr/dp/B086FJVVLF/?tag=tolees0d-21) con 28.06 de descuento por 29.49 EUR (original: 40.99 EUR) en el siguiente enlace!

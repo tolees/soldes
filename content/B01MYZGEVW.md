@@ -14,7 +14,7 @@ currency: EUR
 price: 6.0
 comparePrice: 10.0 EUR
 inStock: true
-prodname: Les PEPITES
+prodname: 'Les PEPITES'
 ---
 
 Tienes [Les PEPITES](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21) con un 40.00 % de descuento con precio de oferta de 6.0 EUR (original: 10.0 EUR) en el siguiente enlace!

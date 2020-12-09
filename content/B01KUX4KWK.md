@@ -14,7 +14,7 @@ currency: EUR
 price: 121.17
 comparePrice: 193.0 EUR
 inStock: true
-prodname: Reebok Deck
+prodname: 'Reebok Deck'
 ---
 
 Tienes [Reebok Deck](https://www.amazon.fr/dp/B01KUX4KWK/?tag=tolees0d-21) con un 37.22 % de descuento con precio de oferta de 121.17 EUR (original: 193.0 EUR) en el siguiente enlace!

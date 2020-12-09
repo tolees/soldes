@@ -14,7 +14,7 @@ currency: EUR
 price: 10.19
 comparePrice: 16.99 EUR
 inStock: true
-prodname: Playmobil - Calèche avec Attelage - 6932
+prodname: 'Playmobil - Calèche avec Attelage - 6932'
 ---
 
 Ahora mismo tienes [Playmobil - Calèche avec Attelage - 6932](https://www.amazon.fr/dp/B06WVS91VM/?tag=tolees0d-21) a 10.19 EUR (original: 16.99 EUR) (40.02 %  de descuento) en el siguiente enlace!

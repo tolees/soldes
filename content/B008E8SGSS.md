@@ -14,15 +14,13 @@ currency: EUR
 price: 46.85
 comparePrice: 80.0 EUR
 inStock: true
-prodname: Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - X-Large  FR: 6 
+prodname: 'Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - X-Large  FR: 6 '
 ---
 
-Está [Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - X-Large  FR: 6 ](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21) con 41.44 de descuento por 46.85 EUR (original: 80.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - X-Large  FR: 6 ](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21) a 46.85 EUR (original: 80.0 EUR) (41.44 %  de descuento) en el siguiente enlace!
 
 [![Lacoste - Polo - L1230-00 - Sport - Homm](https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg)](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

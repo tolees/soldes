@@ -14,7 +14,7 @@ currency: EUR
 price: 18.9
 comparePrice: 29.0 EUR
 inStock: true
-prodname: Antenne TV Intérieur Puissante  36DBI 200 km d autonomie Antenne TNT Intérieure Signal Amplificateur Booster avec 4.2m câble coaxial-VHF/UHF/FM  Soutenir TV HD 4K 1080P
+prodname: 'Antenne TV Intérieur Puissante  36DBI 200 km d autonomie Antenne TNT Intérieure Signal Amplificateur Booster avec 4.2m câble coaxial-VHF/UHF/FM  Soutenir TV HD 4K 1080P'
 ---
 
 Está [Antenne TV Intérieur Puissante  36DBI 200 km d autonomie Antenne TNT Intérieure Signal Amplificateur Booster avec 4.2m câble coaxial-VHF/UHF/FM  Soutenir TV HD 4K 1080P](https://www.amazon.fr/dp/B08KXSQVN2/?tag=tolees0d-21) con 34.83 de descuento por 18.9 EUR (original: 29.0 EUR) en el siguiente enlace!

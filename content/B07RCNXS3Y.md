@@ -14,7 +14,7 @@ currency: EUR
 price: 75.89
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Columbia Lake 22  Doudoune à Capuche  Homme - Noir  Black  - L
+prodname: 'Columbia Lake 22  Doudoune à Capuche  Homme - Noir  Black  - L'
 ---
 
 Está [Columbia Lake 22  Doudoune à Capuche  Homme - Noir  Black  - L](https://www.amazon.fr/dp/B07RCNXS3Y/?tag=tolees0d-21) con 45.79 de descuento por 75.89 EUR (original: 139.99 EUR) en el siguiente enlace!

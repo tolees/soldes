@@ -14,7 +14,7 @@ currency: EUR
 price: 44.95
 comparePrice: 61.19 EUR
 inStock: true
-prodname: Crucial BX500 480Go CT480BX500SSD1 SSD Interne-jusqu’à 540 MB/s  3D NAND  SATA  2 5 pouces 
+prodname: 'Crucial BX500 480Go CT480BX500SSD1 SSD Interne-jusqu’à 540 MB/s  3D NAND  SATA  2 5 pouces '
 ---
 
 Tienes [Crucial BX500 480Go CT480BX500SSD1 SSD Interne-jusqu’à 540 MB/s  3D NAND  SATA  2 5 pouces ](https://www.amazon.fr/dp/B07G3KGYZQ/?tag=tolees0d-21) con un 26.54 % de descuento con precio de oferta de 44.95 EUR (original: 61.19 EUR) en el siguiente enlace!

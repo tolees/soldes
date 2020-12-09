@@ -14,7 +14,7 @@ currency: EUR
 price: 15.99
 comparePrice: 22.99 EUR
 inStock: true
-prodname: Finish Pastilles Lave-Vaisselle Powerball All in One Max - 100 Tablettes Lave-Vaisselle
+prodname: 'Finish Pastilles Lave-Vaisselle Powerball All in One Max - 100 Tablettes Lave-Vaisselle'
 ---
 
 Tienes [Finish Pastilles Lave-Vaisselle Powerball All in One Max - 100 Tablettes Lave-Vaisselle](https://www.amazon.fr/dp/B00NLD3S5C/?tag=tolees0d-21) con un 30.45 % de descuento con precio de oferta de 15.99 EUR (original: 22.99 EUR) en el siguiente enlace!

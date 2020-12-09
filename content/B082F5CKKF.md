@@ -14,7 +14,7 @@ currency: EUR
 price: 23.86
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Fer à Lisser Professionnel Lissara - Plaques Larges en Titane et flottantes - Jusqu à 230°C - Special Lissage Brésilien  Wide Evolv Violet 
+prodname: 'Fer à Lisser Professionnel Lissara - Plaques Larges en Titane et flottantes - Jusqu à 230°C - Special Lissage Brésilien  Wide Evolv Violet '
 ---
 
 Está [Fer à Lisser Professionnel Lissara - Plaques Larges en Titane et flottantes - Jusqu à 230°C - Special Lissage Brésilien  Wide Evolv Violet ](https://www.amazon.fr/dp/B082F5CKKF/?tag=tolees0d-21) con 60.17 de descuento por 23.86 EUR (original: 59.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 95.99
 comparePrice: 159.99 EUR
 inStock: true
-prodname: Columbia Venture on Interchange Veste Femme Hardshell  Black  FR : M  Taille Fabricant : M 
+prodname: 'Columbia Venture on Interchange Veste Femme Hardshell  Black  FR : M  Taille Fabricant : M '
 ---
 
 Ahora mismo tienes [Columbia Venture on Interchange Veste Femme Hardshell  Black  FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B0142IUIXE/?tag=tolees0d-21) a 95.99 EUR (original: 159.99 EUR) (40.00 %  de descuento) en el siguiente enlace!

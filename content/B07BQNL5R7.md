@@ -14,7 +14,7 @@ currency: EUR
 price: 29.9
 comparePrice: 39.9 EUR
 inStock: true
-prodname: Goliath - Boomtrix Multiball - Jeu de construction - à partir de 8 ans - Jeu de bille
+prodname: 'Goliath - Boomtrix Multiball - Jeu de construction - à partir de 8 ans - Jeu de bille'
 ---
 
 Ahora mismo tienes [Goliath - Boomtrix Multiball - Jeu de construction - à partir de 8 ans - Jeu de bille](https://www.amazon.fr/dp/B07BQNL5R7/?tag=tolees0d-21) a 29.9 EUR (original: 39.9 EUR) (25.06 %  de descuento) en el siguiente enlace!

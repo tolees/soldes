@@ -14,7 +14,7 @@ currency: EUR
 price: 330.8
 comparePrice: 502.8 EUR
 inStock: true
-prodname: Bosch Professional 18V System Scie circulaire sans fil GKS 18V-57 G  2 batteries 18V 4 0 Ah  Ø de lame : 165 mm  dans une L-BOXX 
+prodname: 'Bosch Professional 18V System Scie circulaire sans fil GKS 18V-57 G  2 batteries 18V 4 0 Ah  Ø de lame : 165 mm  dans une L-BOXX '
 ---
 
 Está [Bosch Professional 18V System Scie circulaire sans fil GKS 18V-57 G  2 batteries 18V 4 0 Ah  Ø de lame : 165 mm  dans une L-BOXX ](https://www.amazon.fr/dp/B07RCXK8HR/?tag=tolees0d-21) con 34.21 de descuento por 330.8 EUR (original: 502.8 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 988.79
 comparePrice: 1500.0 EUR
 inStock: true
-prodname: Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G 
+prodname: 'Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G '
 ---
 
 Está [Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G ](https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21) con 34.08 de descuento por 988.79 EUR (original: 1500.0 EUR) en el siguiente enlace!

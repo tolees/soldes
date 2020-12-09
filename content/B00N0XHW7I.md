@@ -14,7 +14,7 @@ currency: EUR
 price: 81.0
 comparePrice: 119.9 EUR
 inStock: true
-prodname: Cuisinart DBM18E Moulin à café programmable  noir et argent
+prodname: 'Cuisinart DBM18E Moulin à café programmable  noir et argent'
 ---
 
 Tienes [Cuisinart DBM18E Moulin à café programmable  noir et argent](https://www.amazon.fr/dp/B00N0XHW7I/?tag=tolees0d-21) con un 32.44 % de descuento con precio de oferta de 81.0 EUR (original: 119.9 EUR) en el siguiente enlace!

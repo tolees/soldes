@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: LIFX LZTV1MINT LED Light Strip  White
+prodname: 'LIFX LZTV1MINT LED Light Strip  White'
 ---
 
 Tienes [LIFX LZTV1MINT LED Light Strip  White](https://www.amazon.fr/dp/B07YFF1NSR/?tag=tolees0d-21) con un 35.72 % de descuento con precio de oferta de 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!

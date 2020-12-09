@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Accessoires Arlo Ultra et Pro 3 - Panneau Solaire waterproof  batteries rechargées en permanence sans contraintes  VMA5600 
+prodname: 'Accessoires Arlo Ultra et Pro 3 - Panneau Solaire waterproof  batteries rechargées en permanence sans contraintes  VMA5600 '
 ---
 
 Está [Accessoires Arlo Ultra et Pro 3 - Panneau Solaire waterproof  batteries rechargées en permanence sans contraintes  VMA5600 ](https://www.amazon.fr/dp/B07KCD2MYZ/?tag=tolees0d-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

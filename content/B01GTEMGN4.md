@@ -14,7 +14,7 @@ currency: EUR
 price: 79.23
 comparePrice: 185.97 EUR
 inStock: true
-prodname: SONAX 02465000  ProfiLine cutmax 5  l
+prodname: 'SONAX 02465000  ProfiLine cutmax 5  l'
 ---
 
 Está [SONAX 02465000  ProfiLine cutmax 5  l](https://www.amazon.fr/dp/B01GTEMGN4/?tag=tolees0d-21) con 57.40 de descuento por 79.23 EUR (original: 185.97 EUR) en el siguiente enlace!

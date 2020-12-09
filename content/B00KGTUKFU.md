@@ -14,7 +14,7 @@ currency: EUR
 price: 59.0
 comparePrice: 125.0 EUR
 inStock: true
-prodname: Fossil Femme Analogique Quartz Montre avec Bracelet en Acier Inoxydable ES3590
+prodname: 'Fossil Femme Analogique Quartz Montre avec Bracelet en Acier Inoxydable ES3590'
 ---
 
 Está [Fossil Femme Analogique Quartz Montre avec Bracelet en Acier Inoxydable ES3590](https://www.amazon.fr/dp/B00KGTUKFU/?tag=tolees0d-21) con 52.80 de descuento por 59.0 EUR (original: 125.0 EUR) en el siguiente enlace!

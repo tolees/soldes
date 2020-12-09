@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 10.02 EUR
 inStock: true
-prodname: Le Cercle littéraire de Guernesey
+prodname: 'Le Cercle littéraire de Guernesey'
 ---
 
 Ahora mismo tienes [Le Cercle littéraire de Guernesey](https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21) a 6.99 EUR (original: 10.02 EUR) (30.24 %  de descuento) en el siguiente enlace!

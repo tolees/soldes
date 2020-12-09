@@ -14,7 +14,7 @@ currency: EUR
 price: 34.5
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Kaspersky Total Security 2020 5 Postes/ 1An
+prodname: 'Kaspersky Total Security 2020 5 Postes/ 1An'
 ---
 
 Ahora mismo tienes [Kaspersky Total Security 2020 5 Postes/ 1An](https://www.amazon.fr/dp/B07VP5JQ9K/?tag=tolees0d-21) a 34.5 EUR (original: 79.99 EUR) (56.87 %  de descuento) en el siguiente enlace!

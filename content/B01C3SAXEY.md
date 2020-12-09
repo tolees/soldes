@@ -14,7 +14,7 @@ currency: EUR
 price: 70.89
 comparePrice: 99.9 EUR
 inStock: true
-prodname: Lowepro Ridgeline Pro Backpack 300 AW Sac à Dos Loisir  50 cm  25 L  Noir
+prodname: 'Lowepro Ridgeline Pro Backpack 300 AW Sac à Dos Loisir  50 cm  25 L  Noir'
 ---
 
 Está [Lowepro Ridgeline Pro Backpack 300 AW Sac à Dos Loisir  50 cm  25 L  Noir](https://www.amazon.fr/dp/B01C3SAXEY/?tag=tolees0d-21) con 29.04 de descuento por 70.89 EUR (original: 99.9 EUR) en el siguiente enlace!

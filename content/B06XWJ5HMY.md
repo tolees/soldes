@@ -14,7 +14,7 @@ currency: EUR
 price: 129.58
 comparePrice: 179.0 EUR
 inStock: true
-prodname: HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris  16 Go  2 Go de RAM  Android 7.0  Bluetooth 
+prodname: 'HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris  16 Go  2 Go de RAM  Android 7.0  Bluetooth '
 ---
 
 Está [HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris  16 Go  2 Go de RAM  Android 7.0  Bluetooth ](https://www.amazon.fr/dp/B06XWJ5HMY/?tag=tolees0d-21) con 27.61 de descuento por 129.58 EUR (original: 179.0 EUR) en el siguiente enlace!

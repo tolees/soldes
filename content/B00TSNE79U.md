@@ -14,7 +14,7 @@ currency: EUR
 price: 11.99
 comparePrice: 29.9 EUR
 inStock: true
-prodname: Lékué 0220100V06M017 Fromager Cheese Maker  Plastique  Multicolore  45x35x25 cm
+prodname: 'Lékué 0220100V06M017 Fromager Cheese Maker  Plastique  Multicolore  45x35x25 cm'
 ---
 
 Está [Lékué 0220100V06M017 Fromager Cheese Maker  Plastique  Multicolore  45x35x25 cm](https://www.amazon.fr/dp/B00TSNE79U/?tag=tolees0d-21) con 59.90 de descuento por 11.99 EUR (original: 29.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 99.9
 comparePrice: 159.57 EUR
 inStock: true
-prodname: Jacob Delafon Mitigeur lavabo haut Léonie
+prodname: 'Jacob Delafon Mitigeur lavabo haut Léonie'
 ---
 
 Tienes [Jacob Delafon Mitigeur lavabo haut Léonie](https://www.amazon.fr/dp/B07VF6TVRJ/?tag=tolees0d-21) con un 37.39 % de descuento con precio de oferta de 99.9 EUR (original: 159.57 EUR) en el siguiente enlace!

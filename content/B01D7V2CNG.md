@@ -14,7 +14,7 @@ currency: EUR
 price: 224.79
 comparePrice: 347.7 EUR
 inStock: true
-prodname: GPR EXHAUST SYSTEM GPREB .73.E Pot d échappement homologué FURORE NERO RC 390 2015/2016
+prodname: 'GPR EXHAUST SYSTEM GPREB .73.E Pot d échappement homologué FURORE NERO RC 390 2015/2016'
 ---
 
 Tienes [GPR EXHAUST SYSTEM GPREB .73.E Pot d échappement homologué FURORE NERO RC 390 2015/2016](https://www.amazon.fr/dp/B01D7V2CNG/?tag=tolees0d-21) con un 35.35 % de descuento con precio de oferta de 224.79 EUR (original: 347.7 EUR) en el siguiente enlace!

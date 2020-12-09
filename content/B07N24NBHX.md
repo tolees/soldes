@@ -14,7 +14,7 @@ currency: EUR
 price: 44.78
 comparePrice: 95.0 EUR
 inStock: true
-prodname: Kaporal - Blouson avec Capuche & Fausse Fourrure Amovibles - Babel - Garçon - 14A - Noir
+prodname: 'Kaporal - Blouson avec Capuche & Fausse Fourrure Amovibles - Babel - Garçon - 14A - Noir'
 ---
 
 Está [Kaporal - Blouson avec Capuche & Fausse Fourrure Amovibles - Babel - Garçon - 14A - Noir](https://www.amazon.fr/dp/B07N24NBHX/?tag=tolees0d-21) con 52.86 de descuento por 44.78 EUR (original: 95.0 EUR) en el siguiente enlace!

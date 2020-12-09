@@ -14,7 +14,7 @@ currency: EUR
 price: 97.26
 comparePrice: 159.0 EUR
 inStock: true
-prodname: Fossil Hommes Analogique Quartz Montre avec Bracelet en Cuir véritable FS5579
+prodname: 'Fossil Hommes Analogique Quartz Montre avec Bracelet en Cuir véritable FS5579'
 ---
 
 Ahora mismo tienes [Fossil Hommes Analogique Quartz Montre avec Bracelet en Cuir véritable FS5579](https://www.amazon.fr/dp/B07V9BPBNF/?tag=tolees0d-21) a 97.26 EUR (original: 159.0 EUR) (38.83 %  de descuento) en el siguiente enlace!

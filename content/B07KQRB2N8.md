@@ -14,7 +14,7 @@ currency: EUR
 price: 12.5
 comparePrice: 24.99 EUR
 inStock: true
-prodname: Play-Doh – Pate A Modeler – La Pizzeria
+prodname: 'Play-Doh – Pate A Modeler – La Pizzeria'
 ---
 
 Tienes [Play-Doh – Pate A Modeler – La Pizzeria](https://www.amazon.fr/dp/B07KQRB2N8/?tag=tolees0d-21) con un 49.98 % de descuento con precio de oferta de 12.5 EUR (original: 24.99 EUR) en el siguiente enlace!

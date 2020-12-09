@@ -14,7 +14,7 @@ currency: EUR
 price: 55.0
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Fossil Femme Chronographe Quartz Montre avec Bracelet en Cuir ES3625
+prodname: 'Fossil Femme Chronographe Quartz Montre avec Bracelet en Cuir ES3625'
 ---
 
 Está [Fossil Femme Chronographe Quartz Montre avec Bracelet en Cuir ES3625](https://www.amazon.fr/dp/B00KGTVZY0/?tag=tolees0d-21) con 57.36 de descuento por 55.0 EUR (original: 129.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 124.95
 comparePrice: 249.95 EUR
 inStock: true
-prodname: J&K Markets Couette Microfibre 240x260cm- 750gr/m² - Grand Confort - Très Chaude - Spécial Grand Froid
+prodname: 'J&K Markets Couette Microfibre 240x260cm- 750gr/m² - Grand Confort - Très Chaude - Spécial Grand Froid'
 ---
 
 Ahora mismo tienes [J&K Markets Couette Microfibre 240x260cm- 750gr/m² - Grand Confort - Très Chaude - Spécial Grand Froid](https://www.amazon.fr/dp/B07HRYG6F4/?tag=tolees0d-21) a 124.95 EUR (original: 249.95 EUR) (50.01 %  de descuento) en el siguiente enlace!

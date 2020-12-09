@@ -14,7 +14,7 @@ currency: EUR
 price: 34.54
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Marvel s Avengers  PC 
+prodname: 'Marvel s Avengers  PC '
 ---
 
 Está [Marvel s Avengers  PC ](https://www.amazon.fr/dp/B07TCB65GK/?tag=tolees0d-21) con 42.42 de descuento por 34.54 EUR (original: 59.99 EUR) en el siguiente enlace!

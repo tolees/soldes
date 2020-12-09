@@ -14,7 +14,7 @@ currency: EUR
 price: 118.9
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Tefal Batterie De Cuisine Poêles et Casseroles Brut 9 pièces Tous Feux Dont Induction C2649202  Aluminium  Noir  59 x 39 x 28 cm
+prodname: 'Tefal Batterie De Cuisine Poêles et Casseroles Brut 9 pièces Tous Feux Dont Induction C2649202  Aluminium  Noir  59 x 39 x 28 cm'
 ---
 
 Ahora mismo tienes [Tefal Batterie De Cuisine Poêles et Casseroles Brut 9 pièces Tous Feux Dont Induction C2649202  Aluminium  Noir  59 x 39 x 28 cm](https://www.amazon.fr/dp/B07BXSC8NC/?tag=tolees0d-21) a 118.9 EUR (original: 199.99 EUR) (40.55 %  de descuento) en el siguiente enlace!

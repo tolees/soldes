@@ -14,7 +14,7 @@ currency: EUR
 price: 32.49
 comparePrice: 65.21 EUR
 inStock: true
-prodname: Le Hobbit - Version Longue - La Trilogie - Coffret Blu-Ray [Version longue - Blu-ray] [Version longue - Blu-ray]
+prodname: 'Le Hobbit - Version Longue - La Trilogie - Coffret Blu-Ray [Version longue - Blu-ray] [Version longue - Blu-ray]'
 ---
 
 Ahora mismo tienes [Le Hobbit - Version Longue - La Trilogie - Coffret Blu-Ray [Version longue - Blu-ray] [Version longue - Blu-ray]](https://www.amazon.fr/dp/B013RIRV3U/?tag=tolees0d-21) a 32.49 EUR (original: 65.21 EUR) (50.18 %  de descuento) en el siguiente enlace!

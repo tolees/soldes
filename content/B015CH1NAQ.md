@@ -14,7 +14,7 @@ currency: EUR
 price: 10.69
 comparePrice: 18.99 EUR
 inStock: true
-prodname: SanDisk - SDCZ73-064G-G46 - Clé USB 3.0 Ultra Flair 64 Go allant jusqu à 150 Mo/s  Noir
+prodname: 'SanDisk - SDCZ73-064G-G46 - Clé USB 3.0 Ultra Flair 64 Go allant jusqu à 150 Mo/s  Noir'
 ---
 
 Está [SanDisk - SDCZ73-064G-G46 - Clé USB 3.0 Ultra Flair 64 Go allant jusqu à 150 Mo/s  Noir](https://www.amazon.fr/dp/B015CH1NAQ/?tag=tolees0d-21) con 43.71 de descuento por 10.69 EUR (original: 18.99 EUR) en el siguiente enlace!

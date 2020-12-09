@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Diesel Boxers UMBX-KORYTHREEPACK Homme  NOIR  BLACK/BLACK/BLACK 01-0BAOF   M  Lot de 3 
+prodname: 'Diesel Boxers UMBX-KORYTHREEPACK Homme  NOIR  BLACK/BLACK/BLACK 01-0BAOF   M  Lot de 3 '
 ---
 
 Ahora mismo tienes [Diesel Boxers UMBX-KORYTHREEPACK Homme  NOIR  BLACK/BLACK/BLACK 01-0BAOF   M  Lot de 3 ](https://www.amazon.fr/dp/B01LYRF6DD/?tag=tolees0d-21) a 16.99 EUR (original: 40.0 EUR) (57.53 %  de descuento) en el siguiente enlace!

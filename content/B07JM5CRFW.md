@@ -14,7 +14,7 @@ currency: EUR
 price: 24.9
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Playmobil - Hélicoptère de Secours - 70048
+prodname: 'Playmobil - Hélicoptère de Secours - 70048'
 ---
 
 Ahora mismo tienes [Playmobil - Hélicoptère de Secours - 70048](https://www.amazon.fr/dp/B07JM5CRFW/?tag=tolees0d-21) a 24.9 EUR (original: 39.99 EUR) (37.73 %  de descuento) en el siguiente enlace!

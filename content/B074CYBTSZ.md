@@ -14,7 +14,7 @@ currency: EUR
 price: 125.0
 comparePrice: 235.0 EUR
 inStock: true
-prodname: BSG Autoparts BSG 70 – 135 – 007 Filtre à air
+prodname: 'BSG Autoparts BSG 70 – 135 – 007 Filtre à air'
 ---
 
 Tienes [BSG Autoparts BSG 70 – 135 – 007 Filtre à air](https://www.amazon.fr/dp/B074CYBTSZ/?tag=tolees0d-21) con un 46.81 % de descuento con precio de oferta de 125.0 EUR (original: 235.0 EUR) en el siguiente enlace!

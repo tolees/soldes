@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: EasySMX Manettes pour Switch/Switch Lite  Manette sans Fil pour Nintendo Switch  6 Axes Manette Switch Pro avec Bluetooth/Turbo/Double Moteur pour Switch Pro  Switch Lite et PC  Rouge
+prodname: 'EasySMX Manettes pour Switch/Switch Lite  Manette sans Fil pour Nintendo Switch  6 Axes Manette Switch Pro avec Bluetooth/Turbo/Double Moteur pour Switch Pro  Switch Lite et PC  Rouge'
 ---
 
 Tienes [EasySMX Manettes pour Switch/Switch Lite  Manette sans Fil pour Nintendo Switch  6 Axes Manette Switch Pro avec Bluetooth/Turbo/Double Moteur pour Switch Pro  Switch Lite et PC  Rouge](https://www.amazon.fr/dp/B08DNZFYWJ/?tag=tolees0d-21) con un 62.51 % de descuento con precio de oferta de 29.99 EUR (original: 79.99 EUR) en el siguiente enlace!

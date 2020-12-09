@@ -14,7 +14,7 @@ currency: EUR
 price: 9.95
 comparePrice: 15.0 EUR
 inStock: true
-prodname: Pentel LR7 Recharges pour Rollers Energel Pentel BL57/77/107/117/407/TRL Noir - Lot de 12 1 - Pack
+prodname: 'Pentel LR7 Recharges pour Rollers Energel Pentel BL57/77/107/117/407/TRL Noir - Lot de 12 1 - Pack'
 ---
 
 Tienes [Pentel LR7 Recharges pour Rollers Energel Pentel BL57/77/107/117/407/TRL Noir - Lot de 12 1 - Pack](https://www.amazon.fr/dp/B002IYT1QK/?tag=tolees0d-21) con un 33.67 % de descuento con precio de oferta de 9.95 EUR (original: 15.0 EUR) en el siguiente enlace!

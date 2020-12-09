@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 78.47 EUR
 inStock: true
-prodname: Disque Dur Externe 1to  USB3.1 Type-C Disque Dur Externe Portable SATA HDD pour PC  Xbox One  Desktop  Laptop 1To Argent 
+prodname: 'Disque Dur Externe 1to  USB3.1 Type-C Disque Dur Externe Portable SATA HDD pour PC  Xbox One  Desktop  Laptop 1To Argent '
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to  USB3.1 Type-C Disque Dur Externe Portable SATA HDD pour PC  Xbox One  Desktop  Laptop 1To Argent ](https://www.amazon.fr/dp/B08N5XQSDZ/?tag=tolees0d-21) a 47.99 EUR (original: 78.47 EUR) (38.84 %  de descuento) en el siguiente enlace!

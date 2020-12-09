@@ -14,7 +14,7 @@ currency: EUR
 price: 569.99
 comparePrice: 899.0 EUR
 inStock: true
-prodname: Objectif Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3  zoom universel  compatible tout appareil Micro 4/3  modèles Olympus OM-D & PEN  Panasonic G-series   noir
+prodname: 'Objectif Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3  zoom universel  compatible tout appareil Micro 4/3  modèles Olympus OM-D & PEN  Panasonic G-series   noir'
 ---
 
 Está [Objectif Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3  zoom universel  compatible tout appareil Micro 4/3  modèles Olympus OM-D & PEN  Panasonic G-series   noir](https://www.amazon.fr/dp/B07NF4CWDY/?tag=tolees0d-21) con 36.60 de descuento por 569.99 EUR (original: 899.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 24.73
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Lansay - Toy Story 4 - Incroyable Buzz - 64432
+prodname: 'Lansay - Toy Story 4 - Incroyable Buzz - 64432'
 ---
 
 Está [Lansay - Toy Story 4 - Incroyable Buzz - 64432](https://www.amazon.fr/dp/B07TZ5LZJT/?tag=tolees0d-21) con 75.27 de descuento por 24.73 EUR (original: 99.99 EUR) en el siguiente enlace!

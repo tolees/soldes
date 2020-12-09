@@ -14,7 +14,7 @@ currency: EUR
 price: 100.03
 comparePrice: 189.95 EUR
 inStock: true
-prodname: UGG Female Mini Bailey Button II Classic Boot  Grey  9  UK 
+prodname: 'UGG Female Mini Bailey Button II Classic Boot  Grey  9  UK '
 ---
 
 Ahora mismo tienes [UGG Female Mini Bailey Button II Classic Boot  Grey  9  UK ](https://www.amazon.fr/dp/B01AY6CHA0/?tag=tolees0d-21) a 100.03 EUR (original: 189.95 EUR) (47.34 %  de descuento) en el siguiente enlace!

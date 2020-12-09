@@ -14,7 +14,7 @@ currency: EUR
 price: 42.58
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Naturino Falcotto Haley  Chaussures de Gymnastique Mixte bébé  Bleu  Navy/Celeste 1c28   25 EU
+prodname: 'Naturino Falcotto Haley  Chaussures de Gymnastique Mixte bébé  Bleu  Navy/Celeste 1c28   25 EU'
 ---
 
 Está [Naturino Falcotto Haley  Chaussures de Gymnastique Mixte bébé  Bleu  Navy/Celeste 1c28   25 EU](https://www.amazon.fr/dp/B07VWRH2HD/?tag=tolees0d-21) con 46.10 de descuento por 42.58 EUR (original: 79.0 EUR) en el siguiente enlace!

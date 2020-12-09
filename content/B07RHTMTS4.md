@@ -14,7 +14,7 @@ currency: EUR
 price: 23.83
 comparePrice: 34.9 EUR
 inStock: true
-prodname: Tommy Jeans TJM Logo Pocket Tee T-Shirt  Bleu  Blue Cbk   Large Homme
+prodname: 'Tommy Jeans TJM Logo Pocket Tee T-Shirt  Bleu  Blue Cbk   Large Homme'
 ---
 
 Ahora mismo tienes [Tommy Jeans TJM Logo Pocket Tee T-Shirt  Bleu  Blue Cbk   Large Homme](https://www.amazon.fr/dp/B07RHTMTS4/?tag=tolees0d-21) a 23.83 EUR (original: 34.9 EUR) (31.72 %  de descuento) en el siguiente enlace!

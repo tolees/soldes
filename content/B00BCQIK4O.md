@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Philips HP8232/00 Sèche-Cheveux DryCare Advanced  2200W  fonction ThermoProtect
+prodname: 'Philips HP8232/00 Sèche-Cheveux DryCare Advanced  2200W  fonction ThermoProtect'
 ---
 
 Está [Philips HP8232/00 Sèche-Cheveux DryCare Advanced  2200W  fonction ThermoProtect](https://www.amazon.fr/dp/B00BCQIK4O/?tag=tolees0d-21) con 43.35 de descuento por 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

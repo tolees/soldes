@@ -14,7 +14,7 @@ currency: EUR
 price: 44.0
 comparePrice: 99.0 EUR
 inStock: true
-prodname: HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   Large Homme
+prodname: 'HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   Large Homme'
 ---
 
 Está [HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   Large Homme](https://www.amazon.fr/dp/B07MJ7LSXM/?tag=tolees0d-21) con 55.56 de descuento por 44.0 EUR (original: 99.0 EUR) en el siguiente enlace!

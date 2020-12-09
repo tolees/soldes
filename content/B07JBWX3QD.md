@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Konix World Of Tanks K-70 - Clavier Gamers AZERTY Retro Éclairé - Switch Brown - Anti Ghosting - Clavier Mecanique Gaming PC - Repose Poignet - 5 Touches Programmable - Clavier Gamer LED Filaire
+prodname: 'Konix World Of Tanks K-70 - Clavier Gamers AZERTY Retro Éclairé - Switch Brown - Anti Ghosting - Clavier Mecanique Gaming PC - Repose Poignet - 5 Touches Programmable - Clavier Gamer LED Filaire'
 ---
 
 Ahora mismo tienes [Konix World Of Tanks K-70 - Clavier Gamers AZERTY Retro Éclairé - Switch Brown - Anti Ghosting - Clavier Mecanique Gaming PC - Repose Poignet - 5 Touches Programmable - Clavier Gamer LED Filaire](https://www.amazon.fr/dp/B07JBWX3QD/?tag=tolees0d-21) a 34.99 EUR (original: 69.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 84.9
 comparePrice: 122.17 EUR
 inStock: true
-prodname: HAUPTSTADTKOFFER Valises  75 cm  126 L  Bleu
+prodname: 'HAUPTSTADTKOFFER Valises  75 cm  126 L  Bleu'
 ---
 
 Tienes [HAUPTSTADTKOFFER Valises  75 cm  126 L  Bleu](https://www.amazon.fr/dp/B00T4LTSKO/?tag=tolees0d-21) con un 30.51 % de descuento con precio de oferta de 84.9 EUR (original: 122.17 EUR) en el siguiente enlace!

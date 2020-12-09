@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 17.99 EUR
 inStock: true
-prodname: Everyone Stares - The Police Inside Out [Blu-ray]
+prodname: 'Everyone Stares - The Police Inside Out [Blu-ray]'
 ---
 
 Ahora mismo tienes [Everyone Stares - The Police Inside Out [Blu-ray]](https://www.amazon.fr/dp/B07Q64NYKP/?tag=tolees0d-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!

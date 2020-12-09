@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 14.99 EUR
 inStock: true
-prodname: KATELUO 8 Pièces Cotton Craft Fabric  Tissu Patchwork Noel  Quilting Fabric  Tissu Carrés en Coton pour Patchwork Coton Tissu Diy  25 * 25CM 
+prodname: 'KATELUO 8 Pièces Cotton Craft Fabric  Tissu Patchwork Noel  Quilting Fabric  Tissu Carrés en Coton pour Patchwork Coton Tissu Diy  25 * 25CM '
 ---
 
 Tienes [KATELUO 8 Pièces Cotton Craft Fabric  Tissu Patchwork Noel  Quilting Fabric  Tissu Carrés en Coton pour Patchwork Coton Tissu Diy  25 * 25CM ](https://www.amazon.fr/dp/B08LGVKMKS/?tag=tolees0d-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

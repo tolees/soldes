@@ -14,7 +14,7 @@ currency: EUR
 price: 299.99
 comparePrice: 559.99 EUR
 inStock: true
-prodname: Krups Essential Machine à Café à Grain Machine à Café Broyeur Grain Cafetière Expresso Ecran LCD Nettoyage Automatique Buse Vapeur Cappuccino Noire YY8135FD
+prodname: 'Krups Essential Machine à Café à Grain Machine à Café Broyeur Grain Cafetière Expresso Ecran LCD Nettoyage Automatique Buse Vapeur Cappuccino Noire YY8135FD'
 ---
 
 Ahora mismo tienes [Krups Essential Machine à Café à Grain Machine à Café Broyeur Grain Cafetière Expresso Ecran LCD Nettoyage Automatique Buse Vapeur Cappuccino Noire YY8135FD](https://www.amazon.fr/dp/B00OCGDIAM/?tag=tolees0d-21) a 299.99 EUR (original: 559.99 EUR) (46.43 %  de descuento) en el siguiente enlace!

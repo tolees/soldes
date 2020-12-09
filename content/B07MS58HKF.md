@@ -14,7 +14,7 @@ currency: EUR
 price: 17.68
 comparePrice: 25.07 EUR
 inStock: true
-prodname: Les Animaux fantastiques : Les Crimes de Grindelwald [4K Ultra HD + Blu-Ray]
+prodname: 'Les Animaux fantastiques : Les Crimes de Grindelwald [4K Ultra HD + Blu-Ray]'
 ---
 
 Tienes [Les Animaux fantastiques : Les Crimes de Grindelwald [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B07MS58HKF/?tag=tolees0d-21) con un 29.48 % de descuento con precio de oferta de 17.68 EUR (original: 25.07 EUR) en el siguiente enlace!

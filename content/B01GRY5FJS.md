@@ -14,7 +14,7 @@ currency: EUR
 price: 5.99
 comparePrice: 7.99 EUR
 inStock: true
-prodname: WENKO Brosse de rechange en silicone - Porte-brosse WC  Silicone  7.5 x 9.3 x 7.5 cm  Noir
+prodname: 'WENKO Brosse de rechange en silicone - Porte-brosse WC  Silicone  7.5 x 9.3 x 7.5 cm  Noir'
 ---
 
 Tienes [WENKO Brosse de rechange en silicone - Porte-brosse WC  Silicone  7.5 x 9.3 x 7.5 cm  Noir](https://www.amazon.fr/dp/B01GRY5FJS/?tag=tolees0d-21) con un 25.03 % de descuento con precio de oferta de 5.99 EUR (original: 7.99 EUR) en el siguiente enlace!

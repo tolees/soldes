@@ -14,7 +14,7 @@ currency: EUR
 price: 12.55
 comparePrice: 37.7 EUR
 inStock: true
-prodname: sloggi Basic+ Maxi 3P  Culotte Gainante Femme  Paquet de 3  Noir  BLACK 0004   48 FR
+prodname: 'sloggi Basic+ Maxi 3P  Culotte Gainante Femme  Paquet de 3  Noir  BLACK 0004   48 FR'
 ---
 
 Tienes [sloggi Basic+ Maxi 3P  Culotte Gainante Femme  Paquet de 3  Noir  BLACK 0004   48 FR](https://www.amazon.fr/dp/B006YBLRAQ/?tag=tolees0d-21) con un 66.71 % de descuento con precio de oferta de 12.55 EUR (original: 37.7 EUR) en el siguiente enlace!

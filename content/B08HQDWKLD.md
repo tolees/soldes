@@ -14,7 +14,7 @@ currency: EUR
 price: 18.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: 12 Pièces de Bombes de Bain  Boules de Bain Moussantes AOXOI  Coffret Cadeau de Bombes de Bain aux Huiles Essentielles bio  Eexcellent Cadeau pour les Femmes  les Filles  Noël et les Anniversaires
+prodname: '12 Pièces de Bombes de Bain  Boules de Bain Moussantes AOXOI  Coffret Cadeau de Bombes de Bain aux Huiles Essentielles bio  Eexcellent Cadeau pour les Femmes  les Filles  Noël et les Anniversaires'
 ---
 
 Está [12 Pièces de Bombes de Bain  Boules de Bain Moussantes AOXOI  Coffret Cadeau de Bombes de Bain aux Huiles Essentielles bio  Eexcellent Cadeau pour les Femmes  les Filles  Noël et les Anniversaires](https://www.amazon.fr/dp/B08HQDWKLD/?tag=tolees0d-21) con 26.93 de descuento por 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 82.9
 comparePrice: 165.0 EUR
 inStock: true
-prodname: Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10 x 18 x 24 5 cm
+prodname: 'Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10 x 18 x 24 5 cm'
 ---
 
 Está [Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10 x 18 x 24 5 cm](https://www.amazon.fr/dp/B01AIOSHN4/?tag=tolees0d-21) con 49.76 de descuento por 82.9 EUR (original: 165.0 EUR) en el siguiente enlace!

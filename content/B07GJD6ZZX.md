@@ -14,7 +14,7 @@ currency: EUR
 price: 14.44
 comparePrice: 25.03 EUR
 inStock: true
-prodname: Le caveau de la Terreur [Édition Collector Blu-Ray + DVD + Livret]
+prodname: 'Le caveau de la Terreur [Édition Collector Blu-Ray + DVD + Livret]'
 ---
 
 Está [Le caveau de la Terreur [Édition Collector Blu-Ray + DVD + Livret]](https://www.amazon.fr/dp/B07GJD6ZZX/?tag=tolees0d-21) con 42.31 de descuento por 14.44 EUR (original: 25.03 EUR) en el siguiente enlace!

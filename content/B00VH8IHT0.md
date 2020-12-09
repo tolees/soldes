@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 120.5 EUR
 inStock: true
-prodname: Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes et Corps.
+prodname: 'Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes et Corps.'
 ---
 
 Ahora mismo tienes [Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes et Corps.](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21) a 49.99 EUR (original: 120.5 EUR) (58.51 %  de descuento) en el siguiente enlace!

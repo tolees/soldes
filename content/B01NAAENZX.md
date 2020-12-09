@@ -14,7 +14,7 @@ currency: EUR
 price: 40.36
 comparePrice: 59.9 EUR
 inStock: true
-prodname: Tommy Hilfiger H2285arlow 1d  Sneaker Basses Homme  Bleu  Midnight   41 EU
+prodname: 'Tommy Hilfiger H2285arlow 1d  Sneaker Basses Homme  Bleu  Midnight   41 EU'
 ---
 
 Tienes [Tommy Hilfiger H2285arlow 1d  Sneaker Basses Homme  Bleu  Midnight   41 EU](https://www.amazon.fr/dp/B01NAAENZX/?tag=tolees0d-21) con un 32.62 % de descuento con precio de oferta de 40.36 EUR (original: 59.9 EUR) en el siguiente enlace!

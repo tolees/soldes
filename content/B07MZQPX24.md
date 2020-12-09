@@ -14,7 +14,7 @@ currency: EUR
 price: 69.83
 comparePrice: 115.0 EUR
 inStock: true
-prodname: Pepe Jeans London Slate Pro Boot  Baskets Hautes Homme    Dark Grey 975   42 EU
+prodname: 'Pepe Jeans London Slate Pro Boot  Baskets Hautes Homme    Dark Grey 975   42 EU'
 ---
 
 Tienes [Pepe Jeans London Slate Pro Boot  Baskets Hautes Homme    Dark Grey 975   42 EU](https://www.amazon.fr/dp/B07MZQPX24/?tag=tolees0d-21) con un 39.28 % de descuento con precio de oferta de 69.83 EUR (original: 115.0 EUR) en el siguiente enlace!

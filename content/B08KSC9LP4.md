@@ -14,7 +14,7 @@ currency: EUR
 price: 10.98
 comparePrice: 17.98 EUR
 inStock: true
-prodname: HardGlas Galaxy S10 Film Protection Ecran Verre Trempé  [2 Pièces] Case Friendly  sans Bulles  Ultra Claire  Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S10
+prodname: 'HardGlas Galaxy S10 Film Protection Ecran Verre Trempé  [2 Pièces] Case Friendly  sans Bulles  Ultra Claire  Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S10'
 ---
 
 Está [HardGlas Galaxy S10 Film Protection Ecran Verre Trempé  [2 Pièces] Case Friendly  sans Bulles  Ultra Claire  Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S10](https://www.amazon.fr/dp/B08KSC9LP4/?tag=tolees0d-21) con 38.93 de descuento por 10.98 EUR (original: 17.98 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 42.99
 comparePrice: 69.72 EUR
 inStock: true
-prodname: alvorog Miroir de Maquillage avec 3 Modes de Couleur  5X Miroir Grossissant  Mise à Niveau Arrêt Automatique de 0 5 h  Pivotant et Extensible à 360 °  Alimenté par USB ou Batterie
+prodname: 'alvorog Miroir de Maquillage avec 3 Modes de Couleur  5X Miroir Grossissant  Mise à Niveau Arrêt Automatique de 0 5 h  Pivotant et Extensible à 360 °  Alimenté par USB ou Batterie'
 ---
 
 Ahora mismo tienes [alvorog Miroir de Maquillage avec 3 Modes de Couleur  5X Miroir Grossissant  Mise à Niveau Arrêt Automatique de 0 5 h  Pivotant et Extensible à 360 °  Alimenté par USB ou Batterie](https://www.amazon.fr/dp/B08B5SDDMC/?tag=tolees0d-21) a 42.99 EUR (original: 69.72 EUR) (38.34 %  de descuento) en el siguiente enlace!

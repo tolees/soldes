@@ -14,7 +14,7 @@ currency: EUR
 price: 29.59
 comparePrice: 65.63 EUR
 inStock: true
-prodname: BAITITON 2 5 Pouces SATA III Disque Flash SSD 256 Go Interne Solid State Drive Lecture 550Mo/s Ecriture 530Mo/s 256GB
+prodname: 'BAITITON 2 5 Pouces SATA III Disque Flash SSD 256 Go Interne Solid State Drive Lecture 550Mo/s Ecriture 530Mo/s 256GB'
 ---
 
 Está [BAITITON 2 5 Pouces SATA III Disque Flash SSD 256 Go Interne Solid State Drive Lecture 550Mo/s Ecriture 530Mo/s 256GB](https://www.amazon.fr/dp/B08F58NJFB/?tag=tolees0d-21) con 54.91 de descuento por 29.59 EUR (original: 65.63 EUR) en el siguiente enlace!

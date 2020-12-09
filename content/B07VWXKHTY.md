@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Asus PCE-AX58BT Carte Réseau Wi-Fi 6 PCIe 160 MHz avec Bluetooth 5.0  Ofdma  MU-MIMO  sécurité Wpa3  Adaptateur Profil Bas  Base Extensible d antennes
+prodname: 'Asus PCE-AX58BT Carte Réseau Wi-Fi 6 PCIe 160 MHz avec Bluetooth 5.0  Ofdma  MU-MIMO  sécurité Wpa3  Adaptateur Profil Bas  Base Extensible d antennes'
 ---
 
 Ahora mismo tienes [Asus PCE-AX58BT Carte Réseau Wi-Fi 6 PCIe 160 MHz avec Bluetooth 5.0  Ofdma  MU-MIMO  sécurité Wpa3  Adaptateur Profil Bas  Base Extensible d antennes](https://www.amazon.fr/dp/B07VWXKHTY/?tag=tolees0d-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

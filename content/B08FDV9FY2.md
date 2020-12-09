@@ -14,7 +14,7 @@ currency: EUR
 price: 25.9
 comparePrice: 39.9 EUR
 inStock: true
-prodname: FS - Écouteurs Premium Bluetooth sans Fil  Casque avec Plus de 160H d Autonomie  avec Étui de Chargement  Contrôle Tactile  Appariement Automatique  Microphones Intégrés pour Android  iOS et Windows
+prodname: 'FS - Écouteurs Premium Bluetooth sans Fil  Casque avec Plus de 160H d Autonomie  avec Étui de Chargement  Contrôle Tactile  Appariement Automatique  Microphones Intégrés pour Android  iOS et Windows'
 ---
 
 Tienes [FS - Écouteurs Premium Bluetooth sans Fil  Casque avec Plus de 160H d Autonomie  avec Étui de Chargement  Contrôle Tactile  Appariement Automatique  Microphones Intégrés pour Android  iOS et Windows](https://www.amazon.fr/dp/B08FDV9FY2/?tag=tolees0d-21) con un 35.09 % de descuento con precio de oferta de 25.9 EUR (original: 39.9 EUR) en el siguiente enlace!

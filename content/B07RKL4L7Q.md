@@ -14,7 +14,7 @@ currency: EUR
 price: 119.99
 comparePrice: 242.99 EUR
 inStock: true
-prodname: SanDisk Extreme PRO Carte Mémoire MicroSDXC + Adaptateur SD Jusqu à 170 Mo/s  Classe de Vitesse UHS 3  U3   V30 512 Go
+prodname: 'SanDisk Extreme PRO Carte Mémoire MicroSDXC + Adaptateur SD Jusqu à 170 Mo/s  Classe de Vitesse UHS 3  U3   V30 512 Go'
 ---
 
 Está [SanDisk Extreme PRO Carte Mémoire MicroSDXC + Adaptateur SD Jusqu à 170 Mo/s  Classe de Vitesse UHS 3  U3   V30 512 Go](https://www.amazon.fr/dp/B07RKL4L7Q/?tag=tolees0d-21) con 50.62 de descuento por 119.99 EUR (original: 242.99 EUR) en el siguiente enlace!

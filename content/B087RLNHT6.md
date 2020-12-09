@@ -14,7 +14,7 @@ currency: EUR
 price: 31.58
 comparePrice: 57.01 EUR
 inStock: true
-prodname: GXGPOW Wireless Controller for PC PS3 Android  Bluetooth Gamepad Joystick with Dual Motors Vibration Compatible for Windows 7/8/10  Android Smartphone and Sony Playstation 3
+prodname: 'GXGPOW Wireless Controller for PC PS3 Android  Bluetooth Gamepad Joystick with Dual Motors Vibration Compatible for Windows 7/8/10  Android Smartphone and Sony Playstation 3'
 ---
 
 Tienes [GXGPOW Wireless Controller for PC PS3 Android  Bluetooth Gamepad Joystick with Dual Motors Vibration Compatible for Windows 7/8/10  Android Smartphone and Sony Playstation 3](https://www.amazon.fr/dp/B087RLNHT6/?tag=tolees0d-21) con un 44.61 % de descuento con precio de oferta de 31.58 EUR (original: 57.01 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 139.99
 comparePrice: 219.99 EUR
 inStock: true
-prodname: Seagate Backup Plus Hub 8 To  Disque dur externe de bureau HDD  USB 3.0  pour PC et Mac  2 ports USB  abonnement de 2 mois à Adobe CC pour la Photo  STEL8000200 
+prodname: 'Seagate Backup Plus Hub 8 To  Disque dur externe de bureau HDD  USB 3.0  pour PC et Mac  2 ports USB  abonnement de 2 mois à Adobe CC pour la Photo  STEL8000200 '
 ---
 
 Tienes [Seagate Backup Plus Hub 8 To  Disque dur externe de bureau HDD  USB 3.0  pour PC et Mac  2 ports USB  abonnement de 2 mois à Adobe CC pour la Photo  STEL8000200 ](https://www.amazon.fr/dp/B01IAD5ZC6/?tag=tolees0d-21) con un 36.37 % de descuento con precio de oferta de 139.99 EUR (original: 219.99 EUR) en el siguiente enlace!

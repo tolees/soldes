@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 269.0 EUR
 inStock: true
-prodname: HP 25MX Moniteur  62  23 cm  24  5"  FHD  1 ms  1920 x 1080  400CD/M2  1 x HDMI  1 x dp  Noir
+prodname: 'HP 25MX Moniteur  62  23 cm  24  5"  FHD  1 ms  1920 x 1080  400CD/M2  1 x HDMI  1 x dp  Noir'
 ---
 
 Ahora mismo tienes [HP 25MX Moniteur  62  23 cm  24  5"  FHD  1 ms  1920 x 1080  400CD/M2  1 x HDMI  1 x dp  Noir](https://www.amazon.fr/dp/B07PY3JT5H/?tag=tolees0d-21) a 149.99 EUR (original: 269.0 EUR) (44.24 %  de descuento) en el siguiente enlace!

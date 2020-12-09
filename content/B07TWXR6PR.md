@@ -14,7 +14,7 @@ currency: EUR
 price: 11.93
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Lansay - Toy Story 4 - La Bergere Personnage Parlant - 64459
+prodname: 'Lansay - Toy Story 4 - La Bergere Personnage Parlant - 64459'
 ---
 
 Tienes [Lansay - Toy Story 4 - La Bergere Personnage Parlant - 64459](https://www.amazon.fr/dp/B07TWXR6PR/?tag=tolees0d-21) con un 70.17 % de descuento con precio de oferta de 11.93 EUR (original: 39.99 EUR) en el siguiente enlace!

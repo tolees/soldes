@@ -14,7 +14,7 @@ currency: EUR
 price: 129.99
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Vidéoprojecteur WiFi  5500 Lumens Full HD 1080P et Mini Projecteur Portable  Projecteur 720P natif pour iOS / Android / TV Stick / PS4 / PC  Outdoor Movie
+prodname: 'Vidéoprojecteur WiFi  5500 Lumens Full HD 1080P et Mini Projecteur Portable  Projecteur 720P natif pour iOS / Android / TV Stick / PS4 / PC  Outdoor Movie'
 ---
 
 Está [Vidéoprojecteur WiFi  5500 Lumens Full HD 1080P et Mini Projecteur Portable  Projecteur 720P natif pour iOS / Android / TV Stick / PS4 / PC  Outdoor Movie](https://www.amazon.fr/dp/B08D6HQHGH/?tag=tolees0d-21) con 27.78 de descuento por 129.99 EUR (original: 179.99 EUR) en el siguiente enlace!

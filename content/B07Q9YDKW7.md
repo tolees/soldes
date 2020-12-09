@@ -14,7 +14,7 @@ currency: EUR
 price: 20.79
 comparePrice: 169.99 EUR
 inStock: true
-prodname: LIGE Hommes Montre Noir Ultra-Mince Acier Inoxydable Montre Mode Simple Montre Hommes Affaires Analogique Quartz Montre
+prodname: 'LIGE Hommes Montre Noir Ultra-Mince Acier Inoxydable Montre Mode Simple Montre Hommes Affaires Analogique Quartz Montre'
 ---
 
 Está [LIGE Hommes Montre Noir Ultra-Mince Acier Inoxydable Montre Mode Simple Montre Hommes Affaires Analogique Quartz Montre](https://www.amazon.fr/dp/B07Q9YDKW7/?tag=tolees0d-21) con 87.77 de descuento por 20.79 EUR (original: 169.99 EUR) en el siguiente enlace!

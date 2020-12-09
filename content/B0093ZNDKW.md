@@ -14,7 +14,7 @@ currency: EUR
 price: 15.0
 comparePrice: 22.95 EUR
 inStock: true
-prodname: Arena Vortex Evolution Hand Paddle Équipement d’entraînement Mixte Adulte  Vert  L
+prodname: 'Arena Vortex Evolution Hand Paddle Équipement d’entraînement Mixte Adulte  Vert  L'
 ---
 
 Está [Arena Vortex Evolution Hand Paddle Équipement d’entraînement Mixte Adulte  Vert  L](https://www.amazon.fr/dp/B0093ZNDKW/?tag=tolees0d-21) con 34.64 de descuento por 15.0 EUR (original: 22.95 EUR) en el siguiente enlace!

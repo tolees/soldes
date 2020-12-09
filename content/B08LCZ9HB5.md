@@ -14,7 +14,7 @@ currency: EUR
 price: 18.49
 comparePrice: 28.99 EUR
 inStock: true
-prodname: eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -SFC Snes Classique EU
+prodname: 'eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -SFC Snes Classique EU'
 ---
 
 Tienes [eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS JoyCons Manette Contrôleur Housse de Protection DIY Remplacement Pas de Coque de Console -SFC Snes Classique EU](https://www.amazon.fr/dp/B08LCZ9HB5/?tag=tolees0d-21) con un 36.22 % de descuento con precio de oferta de 18.49 EUR (original: 28.99 EUR) en el siguiente enlace!

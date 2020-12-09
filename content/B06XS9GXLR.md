@@ -14,7 +14,7 @@ currency: EUR
 price: 149.0
 comparePrice: 299.0 EUR
 inStock: true
-prodname: Hugo Boss Homme Chronographe Quartz Montre avec Bracelet en Cuir 1513494
+prodname: 'Hugo Boss Homme Chronographe Quartz Montre avec Bracelet en Cuir 1513494'
 ---
 
 Tienes [Hugo Boss Homme Chronographe Quartz Montre avec Bracelet en Cuir 1513494](https://www.amazon.fr/dp/B06XS9GXLR/?tag=tolees0d-21) con un 50.17 % de descuento con precio de oferta de 149.0 EUR (original: 299.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.29
 comparePrice: 39.99 EUR
 inStock: true
-prodname: SanDisk iXpand 32 Go - Clé USB double connectique pour sauvegarde iPhone et iPad
+prodname: 'SanDisk iXpand 32 Go - Clé USB double connectique pour sauvegarde iPhone et iPad'
 ---
 
 Tienes [SanDisk iXpand 32 Go - Clé USB double connectique pour sauvegarde iPhone et iPad](https://www.amazon.fr/dp/B01CIEBU22/?tag=tolees0d-21) con un 41.76 % de descuento con precio de oferta de 23.29 EUR (original: 39.99 EUR) en el siguiente enlace!

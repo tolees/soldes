@@ -14,7 +14,7 @@ currency: EUR
 price: 6.99
 comparePrice: 10.02 EUR
 inStock: true
-prodname: Le pigeon
+prodname: 'Le pigeon'
 ---
 
 Está [Le pigeon](https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21) con 30.24 de descuento por 6.99 EUR (original: 10.02 EUR) en el siguiente enlace!

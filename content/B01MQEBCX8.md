@@ -14,7 +14,7 @@ currency: EUR
 price: 66.63
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Levi s 511 Slim  Jean slim Homme  Nightshine X  32W / 32L
+prodname: 'Levi s 511 Slim  Jean slim Homme  Nightshine X  32W / 32L'
 ---
 
 Tienes [Levi s 511 Slim  Jean slim Homme  Nightshine X  32W / 32L](https://www.amazon.fr/dp/B01MQEBCX8/?tag=tolees0d-21) con un 33.37 % de descuento con precio de oferta de 66.63 EUR (original: 100.0 EUR) en el siguiente enlace!

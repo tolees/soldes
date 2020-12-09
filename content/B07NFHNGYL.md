@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Russell Hobbs Mijoteur Electrique Programmable  Couvercle Verre  Cuve Amovible Céramique  Nettoyage Facile - 25570-56 Compact Home
+prodname: 'Russell Hobbs Mijoteur Electrique Programmable  Couvercle Verre  Cuve Amovible Céramique  Nettoyage Facile - 25570-56 Compact Home'
 ---
 
 Tienes [Russell Hobbs Mijoteur Electrique Programmable  Couvercle Verre  Cuve Amovible Céramique  Nettoyage Facile - 25570-56 Compact Home](https://www.amazon.fr/dp/B07NFHNGYL/?tag=tolees0d-21) con un 66.68 % de descuento con precio de oferta de 19.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 68.59
 comparePrice: 114.99 EUR
 inStock: true
-prodname: Peaktop - Fontaine d eau de jardinière de décor de jardin d extérieur Caractéristique d eau de fontaine VFD8207
+prodname: 'Peaktop - Fontaine d eau de jardinière de décor de jardin d extérieur Caractéristique d eau de fontaine VFD8207'
 ---
 
 Tienes [Peaktop - Fontaine d eau de jardinière de décor de jardin d extérieur Caractéristique d eau de fontaine VFD8207](https://www.amazon.fr/dp/B07CZPC9W7/?tag=tolees0d-21) con un 40.35 % de descuento con precio de oferta de 68.59 EUR (original: 114.99 EUR) en el siguiente enlace!

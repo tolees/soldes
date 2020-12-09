@@ -14,7 +14,7 @@ currency: EUR
 price: 70.64
 comparePrice: 100.91 EUR
 inStock: true
-prodname: Online USV Kit de rails pour armoire
+prodname: 'Online USV Kit de rails pour armoire'
 ---
 
 Ahora mismo tienes [Online USV Kit de rails pour armoire](https://www.amazon.fr/dp/B000JWCE7G/?tag=tolees0d-21) a 70.64 EUR (original: 100.91 EUR) (30.00 %  de descuento) en el siguiente enlace!

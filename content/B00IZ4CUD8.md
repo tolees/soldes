@@ -14,7 +14,7 @@ currency: EUR
 price: 45.53
 comparePrice: 65.0 EUR
 inStock: true
-prodname: Geomag - Mechanics 722  Jeu de Construction  6847  Multicolore  146 Pièces
+prodname: 'Geomag - Mechanics 722  Jeu de Construction  6847  Multicolore  146 Pièces'
 ---
 
 Ahora mismo tienes [Geomag - Mechanics 722  Jeu de Construction  6847  Multicolore  146 Pièces](https://www.amazon.fr/dp/B00IZ4CUD8/?tag=tolees0d-21) a 45.53 EUR (original: 65.0 EUR) (29.95 %  de descuento) en el siguiente enlace!

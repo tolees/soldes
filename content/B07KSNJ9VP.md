@@ -14,7 +14,7 @@ currency: EUR
 price: 24.26
 comparePrice: 47.28 EUR
 inStock: true
-prodname: Tigex Babyphone Easy Protect  Écoute-bébé Rechargeable avec mode Eco
+prodname: 'Tigex Babyphone Easy Protect  Écoute-bébé Rechargeable avec mode Eco'
 ---
 
 Está [Tigex Babyphone Easy Protect  Écoute-bébé Rechargeable avec mode Eco](https://www.amazon.fr/dp/B07KSNJ9VP/?tag=tolees0d-21) con 48.69 de descuento por 24.26 EUR (original: 47.28 EUR) en el siguiente enlace!

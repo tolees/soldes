@@ -14,7 +14,7 @@ currency: EUR
 price: 92.61
 comparePrice: 160.0 EUR
 inStock: true
-prodname: Berghaus Gore Tex Paclite Shell Pantalon Homme Jambe Courte-Small
+prodname: 'Berghaus Gore Tex Paclite Shell Pantalon Homme Jambe Courte-Small'
 ---
 
 Tienes [Berghaus Gore Tex Paclite Shell Pantalon Homme Jambe Courte-Small](https://www.amazon.fr/dp/B001E5UPNM/?tag=tolees0d-21) con un 42.12 % de descuento con precio de oferta de 92.61 EUR (original: 160.0 EUR) en el siguiente enlace!

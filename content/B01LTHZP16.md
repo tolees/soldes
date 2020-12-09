@@ -14,7 +14,7 @@ currency: EUR
 price: 21.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Playmobil - Hélicoptère de Police avec Projecteur de Recherche - 6921
+prodname: 'Playmobil - Hélicoptère de Police avec Projecteur de Recherche - 6921'
 ---
 
 Tienes [Playmobil - Hélicoptère de Police avec Projecteur de Recherche - 6921](https://www.amazon.fr/dp/B01LTHZP16/?tag=tolees0d-21) con un 26.68 % de descuento con precio de oferta de 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

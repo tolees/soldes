@@ -14,7 +14,7 @@ currency: EUR
 price: 9.43
 comparePrice: 15.2 EUR
 inStock: true
-prodname: Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir / Ecru  Lot Noeud Noir  - FR : 44  Taille fabricant : 44/46 
+prodname: 'Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir / Ecru  Lot Noeud Noir  - FR : 44  Taille fabricant : 44/46 '
 ---
 
 Ahora mismo tienes [Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir / Ecru  Lot Noeud Noir  - FR : 44  Taille fabricant : 44/46 ](https://www.amazon.fr/dp/B0163EJIOK/?tag=tolees0d-21) a 9.43 EUR (original: 15.2 EUR) (37.96 %  de descuento) en el siguiente enlace!

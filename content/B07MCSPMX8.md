@@ -14,7 +14,7 @@ currency: EUR
 price: 149.98
 comparePrice: 239.0 EUR
 inStock: true
-prodname: Napapijri Rainforest Pocket  Blouson Homme  Rot  High Risk Red Ra3    XL
+prodname: 'Napapijri Rainforest Pocket  Blouson Homme  Rot  High Risk Red Ra3    XL'
 ---
 
 Tienes [Napapijri Rainforest Pocket  Blouson Homme  Rot  High Risk Red Ra3    XL](https://www.amazon.fr/dp/B07MCSPMX8/?tag=tolees0d-21) con un 37.25 % de descuento con precio de oferta de 149.98 EUR (original: 239.0 EUR) en el siguiente enlace!

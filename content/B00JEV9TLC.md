@@ -14,7 +14,7 @@ currency: EUR
 price: 30.33
 comparePrice: 67.0 EUR
 inStock: true
-prodname: Rotring 800 Portemine 0.5 mm Silver Barrel
+prodname: 'Rotring 800 Portemine 0.5 mm Silver Barrel'
 ---
 
 Ahora mismo tienes [Rotring 800 Portemine 0.5 mm Silver Barrel](https://www.amazon.fr/dp/B00JEV9TLC/?tag=tolees0d-21) a 30.33 EUR (original: 67.0 EUR) (54.73 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 99.0
 comparePrice: 169.0 EUR
 inStock: true
-prodname: KATAHIRO KUBOTA Couteau Zen Santoku Damas  7 pouces 
+prodname: 'KATAHIRO KUBOTA Couteau Zen Santoku Damas  7 pouces '
 ---
 
 Tienes [KATAHIRO KUBOTA Couteau Zen Santoku Damas  7 pouces ](https://www.amazon.fr/dp/B01BK10JDK/?tag=tolees0d-21) con un 41.42 % de descuento con precio de oferta de 99.0 EUR (original: 169.0 EUR) en el siguiente enlace!

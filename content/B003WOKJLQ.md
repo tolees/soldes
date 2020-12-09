@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Remington Coffret Cheveux  Tondeuse Cheveux  10 Sabots  Lames Auto-Affûtées Céramique Avancée  Moteur Pro Puissant  Charge Rapide  Autonomie - HC5810
+prodname: 'Remington Coffret Cheveux  Tondeuse Cheveux  10 Sabots  Lames Auto-Affûtées Céramique Avancée  Moteur Pro Puissant  Charge Rapide  Autonomie - HC5810'
 ---
 
 Ahora mismo tienes [Remington Coffret Cheveux  Tondeuse Cheveux  10 Sabots  Lames Auto-Affûtées Céramique Avancée  Moteur Pro Puissant  Charge Rapide  Autonomie - HC5810](https://www.amazon.fr/dp/B003WOKJLQ/?tag=tolees0d-21) a 47.99 EUR (original: 69.99 EUR) (31.43 %  de descuento) en el siguiente enlace!

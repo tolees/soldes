@@ -14,7 +14,7 @@ currency: EUR
 price: 5.1
 comparePrice: 9.9 EUR
 inStock: true
-prodname: Foucaud Friction Sport Flacon Plastique
+prodname: 'Foucaud Friction Sport Flacon Plastique'
 ---
 
 Tienes [Foucaud Friction Sport Flacon Plastique](https://www.amazon.fr/dp/B005IYEMA2/?tag=tolees0d-21) con un 48.48 % de descuento con precio de oferta de 5.1 EUR (original: 9.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 12.4
 comparePrice: 20.0 EUR
 inStock: true
-prodname: Sony MDR-EX110LPW Ecouteurs Intra-auriculaires - Blanc
+prodname: 'Sony MDR-EX110LPW Ecouteurs Intra-auriculaires - Blanc'
 ---
 
 Tienes [Sony MDR-EX110LPW Ecouteurs Intra-auriculaires - Blanc](https://www.amazon.fr/dp/B00I3LUTBI/?tag=tolees0d-21) con un 38.00 % de descuento con precio de oferta de 12.4 EUR (original: 20.0 EUR) en el siguiente enlace!

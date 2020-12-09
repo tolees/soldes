@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Philips MG7745/15 Tondeuse Cheveux et Multi-Styles Series 7000 14-en-1
+prodname: 'Philips MG7745/15 Tondeuse Cheveux et Multi-Styles Series 7000 14-en-1'
 ---
 
 Tienes [Philips MG7745/15 Tondeuse Cheveux et Multi-Styles Series 7000 14-en-1](https://www.amazon.fr/dp/B07DM8QD2B/?tag=tolees0d-21) con un 60.01 % de descuento con precio de oferta de 39.99 EUR (original: 99.99 EUR) en el siguiente enlace!

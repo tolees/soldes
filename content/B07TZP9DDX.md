@@ -14,7 +14,7 @@ currency: EUR
 price: 11.95
 comparePrice: 19.95 EUR
 inStock: true
-prodname: Disney Enfants Coco Sac à Dos
+prodname: 'Disney Enfants Coco Sac à Dos'
 ---
 
 Ahora mismo tienes [Disney Enfants Coco Sac à Dos](https://www.amazon.fr/dp/B07TZP9DDX/?tag=tolees0d-21) a 11.95 EUR (original: 19.95 EUR) (40.10 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 6.0
 comparePrice: 9.6 EUR
 inStock: true
-prodname: Maybelline New-York - Fond de teint Fluide Fit Me Matte & Poreless - Peaux normales à grasses - Teinte : 118 Nude - 30 ml
+prodname: 'Maybelline New-York - Fond de teint Fluide Fit Me Matte & Poreless - Peaux normales à grasses - Teinte : 118 Nude - 30 ml'
 ---
 
 Ahora mismo tienes [Maybelline New-York - Fond de teint Fluide Fit Me Matte & Poreless - Peaux normales à grasses - Teinte : 118 Nude - 30 ml](https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21) a 6.0 EUR (original: 9.6 EUR) (37.50 %  de descuento) en el siguiente enlace!

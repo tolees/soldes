@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Philips MG3740/15 Tondeuse cheveux et Multi-Styles - Séries 3000 - 9 Accessoires
+prodname: 'Philips MG3740/15 Tondeuse cheveux et Multi-Styles - Séries 3000 - 9 Accessoires'
 ---
 
 Tienes [Philips MG3740/15 Tondeuse cheveux et Multi-Styles - Séries 3000 - 9 Accessoires](https://www.amazon.fr/dp/B074MGQF4K/?tag=tolees0d-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

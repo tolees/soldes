@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 86.0 EUR
 inStock: true
-prodname: Bosch TAT8613 Grille-Pain 860 W Noir / Inox
+prodname: 'Bosch TAT8613 Grille-Pain 860 W Noir / Inox'
 ---
 
 Está [Bosch TAT8613 Grille-Pain 860 W Noir / Inox](https://www.amazon.fr/dp/B003YFHYYS/?tag=tolees0d-21) con 41.87 de descuento por 49.99 EUR (original: 86.0 EUR) en el siguiente enlace!

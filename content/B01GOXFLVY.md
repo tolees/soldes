@@ -14,7 +14,7 @@ currency: EUR
 price: 20.0
 comparePrice: 39.98 EUR
 inStock: true
-prodname: Romy Schneider - La Collection : La banquière + Le train + Une femme à sa fenêtre + Les choses de la vie + César et Rosalie + Max et les ferrailleurs + La piscine + Le vieux fusil + L important c est d aimer + Christine
+prodname: 'Romy Schneider - La Collection : La banquière + Le train + Une femme à sa fenêtre + Les choses de la vie + César et Rosalie + Max et les ferrailleurs + La piscine + Le vieux fusil + L important c est d aimer + Christine'
 ---
 
 Tienes [Romy Schneider - La Collection : La banquière + Le train + Une femme à sa fenêtre + Les choses de la vie + César et Rosalie + Max et les ferrailleurs + La piscine + Le vieux fusil + L important c est d aimer + Christine](https://www.amazon.fr/dp/B01GOXFLVY/?tag=tolees0d-21) con un 49.97 % de descuento con precio de oferta de 20.0 EUR (original: 39.98 EUR) en el siguiente enlace!

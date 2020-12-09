@@ -14,7 +14,7 @@ currency: EUR
 price: 38.5
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Bosch MUZ9VL1 Accessoire optimum robot culinaire
+prodname: 'Bosch MUZ9VL1 Accessoire optimum robot culinaire'
 ---
 
 Ahora mismo tienes [Bosch MUZ9VL1 Accessoire optimum robot culinaire](https://www.amazon.fr/dp/B01ISTFVIU/?tag=tolees0d-21) a 38.5 EUR (original: 69.99 EUR) (44.99 %  de descuento) en el siguiente enlace!

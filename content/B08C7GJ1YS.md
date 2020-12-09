@@ -14,7 +14,7 @@ currency: EUR
 price: 14.95
 comparePrice: 25.99 EUR
 inStock: true
-prodname: Étui Rigide pour Sony Wh-CH510 / Sony WH-CH500  Casque sans Fil Bluetooth Sony MDR-ZX330BT  Sac de Rangement de Transport de Protection.  Cas Seulement .
+prodname: 'Étui Rigide pour Sony Wh-CH510 / Sony WH-CH500  Casque sans Fil Bluetooth Sony MDR-ZX330BT  Sac de Rangement de Transport de Protection.  Cas Seulement .'
 ---
 
 Tienes [Étui Rigide pour Sony Wh-CH510 / Sony WH-CH500  Casque sans Fil Bluetooth Sony MDR-ZX330BT  Sac de Rangement de Transport de Protection.  Cas Seulement .](https://www.amazon.fr/dp/B08C7GJ1YS/?tag=tolees0d-21) con un 42.48 % de descuento con precio de oferta de 14.95 EUR (original: 25.99 EUR) en el siguiente enlace!

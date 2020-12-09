@@ -14,7 +14,7 @@ currency: EUR
 price: 138.59
 comparePrice: 197.99 EUR
 inStock: true
-prodname: Medela Tire Lait Électrique Double Pompage Swing Maxi Flex  S Adapte au Sein et Améliore L Écoulement de Lait  Pivote à 360°
+prodname: 'Medela Tire Lait Électrique Double Pompage Swing Maxi Flex  S Adapte au Sein et Améliore L Écoulement de Lait  Pivote à 360°'
 ---
 
 Ahora mismo tienes [Medela Tire Lait Électrique Double Pompage Swing Maxi Flex  S Adapte au Sein et Améliore L Écoulement de Lait  Pivote à 360°](https://www.amazon.fr/dp/B07SPVYQTV/?tag=tolees0d-21) a 138.59 EUR (original: 197.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

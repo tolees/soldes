@@ -14,7 +14,7 @@ currency: EUR
 price: 100.67
 comparePrice: 250.0 EUR
 inStock: true
-prodname: BOSS Element Runn burs2 10214643 01  Sneakers Basses Homme  Noir  Black 001   43 EU
+prodname: 'BOSS Element Runn burs2 10214643 01  Sneakers Basses Homme  Noir  Black 001   43 EU'
 ---
 
 Está [BOSS Element Runn burs2 10214643 01  Sneakers Basses Homme  Noir  Black 001   43 EU](https://www.amazon.fr/dp/B07RQXR82Z/?tag=tolees0d-21) con 59.73 de descuento por 100.67 EUR (original: 250.0 EUR) en el siguiente enlace!

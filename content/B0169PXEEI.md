@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 119.9 EUR
 inStock: true
-prodname: Devolo dLAN 550 WiFi  Prise Réseau CPL WiFi  500 Mbit/s via CPL  2x Adaptateurs  1x Port Fast Ethernet  Amplificateur WiFi  augmenter Portée WiFi  Courant Porteur  WiFi Move  - Kit de Démarrage
+prodname: 'Devolo dLAN 550 WiFi  Prise Réseau CPL WiFi  500 Mbit/s via CPL  2x Adaptateurs  1x Port Fast Ethernet  Amplificateur WiFi  augmenter Portée WiFi  Courant Porteur  WiFi Move  - Kit de Démarrage'
 ---
 
 Está [Devolo dLAN 550 WiFi  Prise Réseau CPL WiFi  500 Mbit/s via CPL  2x Adaptateurs  1x Port Fast Ethernet  Amplificateur WiFi  augmenter Portée WiFi  Courant Porteur  WiFi Move  - Kit de Démarrage](https://www.amazon.fr/dp/B0169PXEEI/?tag=tolees0d-21) con 41.63 de descuento por 69.99 EUR (original: 119.9 EUR) en el siguiente enlace!

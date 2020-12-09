@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 30.99 EUR
 inStock: true
-prodname: Manette pour Nintendo Switch Manette Switch sans Fil Choc à 6 Axes Antidérapant Compatible avec Switch  Switch Lite
+prodname: 'Manette pour Nintendo Switch Manette Switch sans Fil Choc à 6 Axes Antidérapant Compatible avec Switch  Switch Lite'
 ---
 
 Tienes [Manette pour Nintendo Switch Manette Switch sans Fil Choc à 6 Axes Antidérapant Compatible avec Switch  Switch Lite](https://www.amazon.fr/dp/B0897KNWCC/?tag=tolees0d-21) con un 32.27 % de descuento con precio de oferta de 20.99 EUR (original: 30.99 EUR) en el siguiente enlace!

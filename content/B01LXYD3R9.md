@@ -14,7 +14,7 @@ currency: EUR
 price: 32.9
 comparePrice: 50.16 EUR
 inStock: true
-prodname: The  Burbs  Les Banlieusards  [Édition Coffret Ultra Collector-Blu-Ray + Dvd + Livre] [Édition Coffret Ultra Collector - Blu-ray + DVD + Livre]
+prodname: 'The  Burbs  Les Banlieusards  [Édition Coffret Ultra Collector-Blu-Ray + Dvd + Livre] [Édition Coffret Ultra Collector - Blu-ray + DVD + Livre]'
 ---
 
 Está [The  Burbs  Les Banlieusards  [Édition Coffret Ultra Collector-Blu-Ray + Dvd + Livre] [Édition Coffret Ultra Collector - Blu-ray + DVD + Livre]](https://www.amazon.fr/dp/B01LXYD3R9/?tag=tolees0d-21) con 34.41 de descuento por 32.9 EUR (original: 50.16 EUR) en el siguiente enlace!

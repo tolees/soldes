@@ -14,7 +14,7 @@ currency: EUR
 price: 14.0
 comparePrice: 19.99 EUR
 inStock: true
-prodname: La Reine des neiges 2 [Blu-Ray]
+prodname: 'La Reine des neiges 2 [Blu-Ray]'
 ---
 
 Está [La Reine des neiges 2 [Blu-Ray]](https://www.amazon.fr/dp/B081QLBNPX/?tag=tolees0d-21) con 29.96 de descuento por 14.0 EUR (original: 19.99 EUR) en el siguiente enlace!

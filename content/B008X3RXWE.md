@@ -14,7 +14,7 @@ currency: EUR
 price: 53.85
 comparePrice: 109.9 EUR
 inStock: true
-prodname: Geox U Federico W  Derbys Homme  Noir  Black   46 EU
+prodname: 'Geox U Federico W  Derbys Homme  Noir  Black   46 EU'
 ---
 
 Ahora mismo tienes [Geox U Federico W  Derbys Homme  Noir  Black   46 EU](https://www.amazon.fr/dp/B008X3RXWE/?tag=tolees0d-21) a 53.85 EUR (original: 109.9 EUR) (51.00 %  de descuento) en el siguiente enlace!

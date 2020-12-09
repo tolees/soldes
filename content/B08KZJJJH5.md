@@ -14,7 +14,7 @@ currency: EUR
 price: 61.99
 comparePrice: 111.16 EUR
 inStock: true
-prodname: Disque Dur Externe 2to  Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 2To Noir 
+prodname: 'Disque Dur Externe 2to  Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 2To Noir '
 ---
 
 Está [Disque Dur Externe 2to  Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 2To Noir ](https://www.amazon.fr/dp/B08KZJJJH5/?tag=tolees0d-21) con 44.23 de descuento por 61.99 EUR (original: 111.16 EUR) en el siguiente enlace!

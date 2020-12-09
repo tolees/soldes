@@ -14,7 +14,7 @@ currency: EUR
 price: 118.0
 comparePrice: 279.0 EUR
 inStock: true
-prodname: Michael Kors Femme Chronographe Quartz Montre avec Bracelet en Acier Inoxydable MK6174
+prodname: 'Michael Kors Femme Chronographe Quartz Montre avec Bracelet en Acier Inoxydable MK6174'
 ---
 
 Ahora mismo tienes [Michael Kors Femme Chronographe Quartz Montre avec Bracelet en Acier Inoxydable MK6174](https://www.amazon.fr/dp/B00XEJWHNM/?tag=tolees0d-21) a 118.0 EUR (original: 279.0 EUR) (57.71 %  de descuento) en el siguiente enlace!

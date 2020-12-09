@@ -14,7 +14,7 @@ currency: EUR
 price: 7.15
 comparePrice: 11.99 EUR
 inStock: true
-prodname: Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenne Blanc
+prodname: 'Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenne Blanc'
 ---
 
 Tienes [Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenne Blanc](https://www.amazon.fr/dp/B000WGVHZY/?tag=tolees0d-21) con un 40.37 % de descuento con precio de oferta de 7.15 EUR (original: 11.99 EUR) en el siguiente enlace!

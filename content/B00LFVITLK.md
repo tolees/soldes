@@ -14,7 +14,7 @@ currency: EUR
 price: 11.37
 comparePrice: 15.99 EUR
 inStock: true
-prodname: Transcend 32Go JetFlash 710 USB Clé 3.1 Gen 1 TS32GJF710S
+prodname: 'Transcend 32Go JetFlash 710 USB Clé 3.1 Gen 1 TS32GJF710S'
 ---
 
 Está [Transcend 32Go JetFlash 710 USB Clé 3.1 Gen 1 TS32GJF710S](https://www.amazon.fr/dp/B00LFVITLK/?tag=tolees0d-21) con 28.89 de descuento por 11.37 EUR (original: 15.99 EUR) en el siguiente enlace!

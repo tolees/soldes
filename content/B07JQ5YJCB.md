@@ -14,7 +14,7 @@ currency: EUR
 price: 32.97
 comparePrice: 54.95 EUR
 inStock: true
-prodname: adidas Tiro19 Training Jacket Veste d entraînement Homme  Dark Blue/Bold Blue/White  FR  Taille Fabricant : XL 
+prodname: 'adidas Tiro19 Training Jacket Veste d entraînement Homme  Dark Blue/Bold Blue/White  FR  Taille Fabricant : XL '
 ---
 
 Está [adidas Tiro19 Training Jacket Veste d entraînement Homme  Dark Blue/Bold Blue/White  FR  Taille Fabricant : XL ](https://www.amazon.fr/dp/B07JQ5YJCB/?tag=tolees0d-21) con 40.00 de descuento por 32.97 EUR (original: 54.95 EUR) en el siguiente enlace!

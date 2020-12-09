@@ -14,7 +14,7 @@ currency: EUR
 price: 46.3
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Levi s 501 Original Fit – Jean - Homme - Bleu  Bleu  Sponge   - 32W / 30L
+prodname: 'Levi s 501 Original Fit – Jean - Homme - Bleu  Bleu  Sponge   - 32W / 30L'
 ---
 
 Ahora mismo tienes [Levi s 501 Original Fit – Jean - Homme - Bleu  Bleu  Sponge   - 32W / 30L](https://www.amazon.fr/dp/B07D9FK7LB/?tag=tolees0d-21) a 46.3 EUR (original: 100.0 EUR) (53.70 %  de descuento) en el siguiente enlace!

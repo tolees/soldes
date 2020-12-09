@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX
+prodname: 'ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX'
 ---
 
 Está [ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

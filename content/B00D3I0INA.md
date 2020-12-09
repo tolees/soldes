@@ -14,7 +14,7 @@ currency: EUR
 price: 110.88
 comparePrice: 180.0 EUR
 inStock: true
-prodname: Tesmed Max 830 électrostimulateur musculaire professionnel avec 20 électrodes - 220 types de traitements - 99 programmes- abdominaux  ems  waims  massage tens
+prodname: 'Tesmed Max 830 électrostimulateur musculaire professionnel avec 20 électrodes - 220 types de traitements - 99 programmes- abdominaux  ems  waims  massage tens'
 ---
 
 Está [Tesmed Max 830 électrostimulateur musculaire professionnel avec 20 électrodes - 220 types de traitements - 99 programmes- abdominaux  ems  waims  massage tens](https://www.amazon.fr/dp/B00D3I0INA/?tag=tolees0d-21) con 38.40 de descuento por 110.88 EUR (original: 180.0 EUR) en el siguiente enlace!

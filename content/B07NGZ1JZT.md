@@ -14,7 +14,7 @@ currency: EUR
 price: 44.8
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Barbie Dreamtopia Licorne rose Lumières Magiques avec crinière arc-en-ciel  sons et lumières  poupée princesse incluse  jouet pour enfant  FXT26
+prodname: 'Barbie Dreamtopia Licorne rose Lumières Magiques avec crinière arc-en-ciel  sons et lumières  poupée princesse incluse  jouet pour enfant  FXT26'
 ---
 
 Está [Barbie Dreamtopia Licorne rose Lumières Magiques avec crinière arc-en-ciel  sons et lumières  poupée princesse incluse  jouet pour enfant  FXT26](https://www.amazon.fr/dp/B07NGZ1JZT/?tag=tolees0d-21) con 25.32 de descuento por 44.8 EUR (original: 59.99 EUR) en el siguiente enlace!

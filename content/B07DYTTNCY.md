@@ -14,7 +14,7 @@ currency: EUR
 price: 112.99
 comparePrice: 230.0 EUR
 inStock: true
-prodname: Columbia Homme Veste d Hiver  Marquam Peak Jacket  Polyester  Rouge  Red Spark   Taille S  1798922
+prodname: 'Columbia Homme Veste d Hiver  Marquam Peak Jacket  Polyester  Rouge  Red Spark   Taille S  1798922'
 ---
 
 Ahora mismo tienes [Columbia Homme Veste d Hiver  Marquam Peak Jacket  Polyester  Rouge  Red Spark   Taille S  1798922](https://www.amazon.fr/dp/B07DYTTNCY/?tag=tolees0d-21) a 112.99 EUR (original: 230.0 EUR) (50.87 %  de descuento) en el siguiente enlace!

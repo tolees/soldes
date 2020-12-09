@@ -14,7 +14,7 @@ currency: EUR
 price: 31.0
 comparePrice: 54.95 EUR
 inStock: true
-prodname: PUMA ESS Logo Hoody TR Sweat-Shirts Femme  Cotton Black  M
+prodname: 'PUMA ESS Logo Hoody TR Sweat-Shirts Femme  Cotton Black  M'
 ---
 
 Tienes [PUMA ESS Logo Hoody TR Sweat-Shirts Femme  Cotton Black  M](https://www.amazon.fr/dp/B07D6YHX5X/?tag=tolees0d-21) con un 43.59 % de descuento con precio de oferta de 31.0 EUR (original: 54.95 EUR) en el siguiente enlace!

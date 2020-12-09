@@ -14,7 +14,7 @@ currency: EUR
 price: 50.0
 comparePrice: 70.9 EUR
 inStock: true
-prodname: Honeywell Home THR092HRT evohome Tête thermostatique de radiateur sans fil pour système evohome  Europe  blanc  1 pièce 
+prodname: 'Honeywell Home THR092HRT evohome Tête thermostatique de radiateur sans fil pour système evohome  Europe  blanc  1 pièce '
 ---
 
 Ahora mismo tienes [Honeywell Home THR092HRT evohome Tête thermostatique de radiateur sans fil pour système evohome  Europe  blanc  1 pièce ](https://www.amazon.fr/dp/B00MPJER4E/?tag=tolees0d-21) a 50.0 EUR (original: 70.9 EUR) (29.48 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45 Heures] Pliable Casque Bluetooth avec Micro Intégré Anti Bruit CVC 6.0 Charge Rapide avec Étui Portable pour Cours en Ligne/Téléphone/PC
+prodname: 'Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45 Heures] Pliable Casque Bluetooth avec Micro Intégré Anti Bruit CVC 6.0 Charge Rapide avec Étui Portable pour Cours en Ligne/Téléphone/PC'
 ---
 
 Tienes [Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45 Heures] Pliable Casque Bluetooth avec Micro Intégré Anti Bruit CVC 6.0 Charge Rapide avec Étui Portable pour Cours en Ligne/Téléphone/PC](https://www.amazon.fr/dp/B07XKCTBVN/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

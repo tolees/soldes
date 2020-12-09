@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 99.99 EUR
 inStock: true
-prodname: Nero Platinum Unlimited
+prodname: 'Nero Platinum Unlimited'
 ---
 
 Está [Nero Platinum Unlimited](https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21) con 50.01 de descuento por 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

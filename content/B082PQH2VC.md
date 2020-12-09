@@ -14,7 +14,7 @@ currency: EUR
 price: 34.99
 comparePrice: 50.16 EUR
 inStock: true
-prodname: Baron Noir-Intégrale
+prodname: 'Baron Noir-Intégrale'
 ---
 
 Tienes [Baron Noir-Intégrale](https://www.amazon.fr/dp/B082PQH2VC/?tag=tolees0d-21) con un 30.24 % de descuento con precio de oferta de 34.99 EUR (original: 50.16 EUR) en el siguiente enlace!

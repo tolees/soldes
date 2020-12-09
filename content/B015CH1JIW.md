@@ -14,7 +14,7 @@ currency: EUR
 price: 7.41
 comparePrice: 10.99 EUR
 inStock: true
-prodname: Clé USB 3.0 SanDisk Ultra Flair 32 Go allant jusqu à 150 Mo/s
+prodname: 'Clé USB 3.0 SanDisk Ultra Flair 32 Go allant jusqu à 150 Mo/s'
 ---
 
 Está [Clé USB 3.0 SanDisk Ultra Flair 32 Go allant jusqu à 150 Mo/s](https://www.amazon.fr/dp/B015CH1JIW/?tag=tolees0d-21) con 32.58 de descuento por 7.41 EUR (original: 10.99 EUR) en el siguiente enlace!

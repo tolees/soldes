@@ -14,7 +14,7 @@ currency: EUR
 price: 999.0
 comparePrice: 1449.0 EUR
 inStock: true
-prodname: Microsoft Surface Laptop 2  13.5" tactile  Core i5  RAM 8 Go  SSD 256 Go  Windows 10  - Noir
+prodname: 'Microsoft Surface Laptop 2  13.5" tactile  Core i5  RAM 8 Go  SSD 256 Go  Windows 10  - Noir'
 ---
 
 Ahora mismo tienes [Microsoft Surface Laptop 2  13.5" tactile  Core i5  RAM 8 Go  SSD 256 Go  Windows 10  - Noir](https://www.amazon.fr/dp/B07MRVR3KL/?tag=tolees0d-21) a 999.0 EUR (original: 1449.0 EUR) (31.06 %  de descuento) en el siguiente enlace!

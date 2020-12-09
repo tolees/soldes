@@ -14,7 +14,7 @@ currency: EUR
 price: 89.99
 comparePrice: 119.99 EUR
 inStock: true
-prodname: NETGEAR Routeur WiFi intelligent Nighthawk  R6700-100PES  - AC1750 Vitesse sans fil  Jusqu’à1750 Mbps  | Couvre jusqu’à 140 m2 et 25 appareils | 4 Ports Ethernet 1G et 1 port USB  3.0| Antivirus Armor
+prodname: 'NETGEAR Routeur WiFi intelligent Nighthawk  R6700-100PES  - AC1750 Vitesse sans fil  Jusqu’à1750 Mbps  | Couvre jusqu’à 140 m2 et 25 appareils | 4 Ports Ethernet 1G et 1 port USB  3.0| Antivirus Armor'
 ---
 
 Tienes [NETGEAR Routeur WiFi intelligent Nighthawk  R6700-100PES  - AC1750 Vitesse sans fil  Jusqu’à1750 Mbps  | Couvre jusqu’à 140 m2 et 25 appareils | 4 Ports Ethernet 1G et 1 port USB  3.0| Antivirus Armor](https://www.amazon.fr/dp/B07NDBD9R6/?tag=tolees0d-21) con un 25.00 % de descuento con precio de oferta de 89.99 EUR (original: 119.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 120.0 EUR
 inStock: true
-prodname: Helly Hansen HH Dubliner – Veste de sport zippée et imperméable pour homme  pour utilisation quotidienne – Idéale pour les activités citadines et outdoor  à la mer comme à la montagne
+prodname: 'Helly Hansen HH Dubliner – Veste de sport zippée et imperméable pour homme  pour utilisation quotidienne – Idéale pour les activités citadines et outdoor  à la mer comme à la montagne'
 ---
 
 Ahora mismo tienes [Helly Hansen HH Dubliner – Veste de sport zippée et imperméable pour homme  pour utilisation quotidienne – Idéale pour les activités citadines et outdoor  à la mer comme à la montagne](https://www.amazon.fr/dp/B01EOX0B6Q/?tag=tolees0d-21) a 47.99 EUR (original: 120.0 EUR) (60.01 %  de descuento) en el siguiente enlace!

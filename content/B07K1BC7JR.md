@@ -14,7 +14,7 @@ currency: EUR
 price: 53.86
 comparePrice: 129.9 EUR
 inStock: true
-prodname: LLloyd Goliath  Derbys Homme  Marron  Cognac 3   40.5 EU
+prodname: 'LLloyd Goliath  Derbys Homme  Marron  Cognac 3   40.5 EU'
 ---
 
 Ahora mismo tienes [LLloyd Goliath  Derbys Homme  Marron  Cognac 3   40.5 EU](https://www.amazon.fr/dp/B07K1BC7JR/?tag=tolees0d-21) a 53.86 EUR (original: 129.9 EUR) (58.54 %  de descuento) en el siguiente enlace!

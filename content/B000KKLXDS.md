@@ -14,7 +14,7 @@ currency: EUR
 price: 19.45
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Eastpak The One Sac Bandoulière  21 cm  2.5 L  Noir  Black 
+prodname: 'Eastpak The One Sac Bandoulière  21 cm  2.5 L  Noir  Black '
 ---
 
 Tienes [Eastpak The One Sac Bandoulière  21 cm  2.5 L  Noir  Black ](https://www.amazon.fr/dp/B000KKLXDS/?tag=tolees0d-21) con un 35.17 % de descuento con precio de oferta de 19.45 EUR (original: 30.0 EUR) en el siguiente enlace!

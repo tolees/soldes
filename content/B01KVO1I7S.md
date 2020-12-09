@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 99.9 EUR
 inStock: true
-prodname: OMRON M7 IT Tensiomètre Électronique  Brassard Intelligent avec Technologie Intelli Wrap  Connexion Bluetooth pour l Application Smartphone OMRON Connect
+prodname: 'OMRON M7 IT Tensiomètre Électronique  Brassard Intelligent avec Technologie Intelli Wrap  Connexion Bluetooth pour l Application Smartphone OMRON Connect'
 ---
 
 Ahora mismo tienes [OMRON M7 IT Tensiomètre Électronique  Brassard Intelligent avec Technologie Intelli Wrap  Connexion Bluetooth pour l Application Smartphone OMRON Connect](https://www.amazon.fr/dp/B01KVO1I7S/?tag=tolees0d-21) a 49.99 EUR (original: 99.9 EUR) (49.96 %  de descuento) en el siguiente enlace!

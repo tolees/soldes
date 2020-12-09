@@ -14,7 +14,7 @@ currency: EUR
 price: 169.99
 comparePrice: 299.99 EUR
 inStock: true
-prodname: NETGEAR ORBI Système Wifi Mesh amplificateur intégrant assistant Alexa Echo et enceinte connectée Harman Kardon RBS40V V2 1 satellite extender additionnel  – Jusqu’à 125m² de couverture
+prodname: 'NETGEAR ORBI Système Wifi Mesh amplificateur intégrant assistant Alexa Echo et enceinte connectée Harman Kardon RBS40V V2 1 satellite extender additionnel  – Jusqu’à 125m² de couverture'
 ---
 
 Está [NETGEAR ORBI Système Wifi Mesh amplificateur intégrant assistant Alexa Echo et enceinte connectée Harman Kardon RBS40V V2 1 satellite extender additionnel  – Jusqu’à 125m² de couverture](https://www.amazon.fr/dp/B01MTX2W1T/?tag=tolees0d-21) con 43.33 de descuento por 169.99 EUR (original: 299.99 EUR) en el siguiente enlace!

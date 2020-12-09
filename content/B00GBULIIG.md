@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 89.99 EUR
 inStock: true
-prodname: NETGEAR  GS116E  Switch Ethernet 16 Ports RJ45 Métal Gigabit  10/100/1000    Smart Manageable  Bureau   Silencieux   Protection ProSAFE  Garantie à Vie Parfait pour les PME et TPE
+prodname: 'NETGEAR  GS116E  Switch Ethernet 16 Ports RJ45 Métal Gigabit  10/100/1000    Smart Manageable  Bureau   Silencieux   Protection ProSAFE  Garantie à Vie Parfait pour les PME et TPE'
 ---
 
 Está [NETGEAR  GS116E  Switch Ethernet 16 Ports RJ45 Métal Gigabit  10/100/1000    Smart Manageable  Bureau   Silencieux   Protection ProSAFE  Garantie à Vie Parfait pour les PME et TPE](https://www.amazon.fr/dp/B00GBULIIG/?tag=tolees0d-21) con 33.34 de descuento por 59.99 EUR (original: 89.99 EUR) en el siguiente enlace!

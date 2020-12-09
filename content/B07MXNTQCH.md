@@ -14,7 +14,7 @@ currency: EUR
 price: 48.0
 comparePrice: 99.0 EUR
 inStock: true
-prodname: DELSEY PARIS - COMETE - Valise rigide à doubles roues silencieuses et serrure TSA à combinaison intégrée - 55cm  35.4L  Noir
+prodname: 'DELSEY PARIS - COMETE - Valise rigide à doubles roues silencieuses et serrure TSA à combinaison intégrée - 55cm  35.4L  Noir'
 ---
 
 Tienes [DELSEY PARIS - COMETE - Valise rigide à doubles roues silencieuses et serrure TSA à combinaison intégrée - 55cm  35.4L  Noir](https://www.amazon.fr/dp/B07MXNTQCH/?tag=tolees0d-21) con un 51.52 % de descuento con precio de oferta de 48.0 EUR (original: 99.0 EUR) en el siguiente enlace!

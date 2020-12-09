@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 19.99 EUR
 inStock: true
-prodname: OMORC Bouteille de Sport Transparente sans BPA avec infuseur à Fruits  Rose
+prodname: 'OMORC Bouteille de Sport Transparente sans BPA avec infuseur à Fruits  Rose'
 ---
 
 Está [OMORC Bouteille de Sport Transparente sans BPA avec infuseur à Fruits  Rose](https://www.amazon.fr/dp/B073ZGGL1B/?tag=tolees0d-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

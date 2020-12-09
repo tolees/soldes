@@ -14,7 +14,7 @@ currency: EUR
 price: 5.9
 comparePrice: 20.06 EUR
 inStock: true
-prodname: Terreur Aveugle
+prodname: 'Terreur Aveugle'
 ---
 
 Tienes [Terreur Aveugle](https://www.amazon.fr/dp/B01KIJG3Q2/?tag=tolees0d-21) con un 70.59 % de descuento con precio de oferta de 5.9 EUR (original: 20.06 EUR) en el siguiente enlace!

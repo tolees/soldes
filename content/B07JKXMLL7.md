@@ -14,7 +14,7 @@ currency: EUR
 price: 65.99
 comparePrice: 95.0 EUR
 inStock: true
-prodname: LAGOSTINA SALVASPAZIO 012135040528 Poêle 28 cm Inox Tous feux dont induction  anses et poignés vendues séparemment 
+prodname: 'LAGOSTINA SALVASPAZIO 012135040528 Poêle 28 cm Inox Tous feux dont induction  anses et poignés vendues séparemment '
 ---
 
 Tienes [LAGOSTINA SALVASPAZIO 012135040528 Poêle 28 cm Inox Tous feux dont induction  anses et poignés vendues séparemment ](https://www.amazon.fr/dp/B07JKXMLL7/?tag=tolees0d-21) con un 30.54 % de descuento con precio de oferta de 65.99 EUR (original: 95.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 111.96 EUR
 inStock: true
-prodname: Disque Dur Externe 1to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  PS4  1to  Bleu 
+prodname: 'Disque Dur Externe 1to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  PS4  1to  Bleu '
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  PS4  1to  Bleu ](https://www.amazon.fr/dp/B08NTYTD6F/?tag=tolees0d-21) a 47.99 EUR (original: 111.96 EUR) (57.14 %  de descuento) en el siguiente enlace!

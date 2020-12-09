@@ -14,7 +14,7 @@ currency: EUR
 price: 53.48
 comparePrice: 76.4 EUR
 inStock: true
-prodname: Babymoov Doomoo Réducteur nouveau-né Cocoon Bear Grey  Evolutif  Respirant  0 - 8 Mois
+prodname: 'Babymoov Doomoo Réducteur nouveau-né Cocoon Bear Grey  Evolutif  Respirant  0 - 8 Mois'
 ---
 
 Está [Babymoov Doomoo Réducteur nouveau-né Cocoon Bear Grey  Evolutif  Respirant  0 - 8 Mois](https://www.amazon.fr/dp/B07XC5ZKX6/?tag=tolees0d-21) con 30.00 de descuento por 53.48 EUR (original: 76.4 EUR) en el siguiente enlace!

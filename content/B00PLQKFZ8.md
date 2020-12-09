@@ -14,7 +14,7 @@ currency: EUR
 price: 28.39
 comparePrice: 42.99 EUR
 inStock: true
-prodname: Sac besace Playstation BIO-MB128818SNY  Gris
+prodname: 'Sac besace Playstation BIO-MB128818SNY  Gris'
 ---
 
 Ahora mismo tienes [Sac besace Playstation BIO-MB128818SNY  Gris](https://www.amazon.fr/dp/B00PLQKFZ8/?tag=tolees0d-21) a 28.39 EUR (original: 42.99 EUR) (33.96 %  de descuento) en el siguiente enlace!

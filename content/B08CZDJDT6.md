@@ -14,7 +14,7 @@ currency: EUR
 price: 47.99
 comparePrice: 69.0 EUR
 inStock: true
-prodname: Disque Dur Externe 1to  Disque Dur Externe USB3.1 Type-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook  Xbox 360 1To Argent 
+prodname: 'Disque Dur Externe 1to  Disque Dur Externe USB3.1 Type-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook  Xbox 360 1To Argent '
 ---
 
 Tienes [Disque Dur Externe 1to  Disque Dur Externe USB3.1 Type-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook  Xbox 360 1To Argent ](https://www.amazon.fr/dp/B08CZDJDT6/?tag=tolees0d-21) con un 30.45 % de descuento con precio de oferta de 47.99 EUR (original: 69.0 EUR) en el siguiente enlace!

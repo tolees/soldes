@@ -14,7 +14,7 @@ currency: EUR
 price: 199.98
 comparePrice: 477.66 EUR
 inStock: true
-prodname: KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X 100mm IPX7 Étanche Bak4 FMC Film Longue Vue Trepied & Adaptateur Smartphone Monoculaire Telescope Vert Foncé
+prodname: 'KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X 100mm IPX7 Étanche Bak4 FMC Film Longue Vue Trepied & Adaptateur Smartphone Monoculaire Telescope Vert Foncé'
 ---
 
 Ahora mismo tienes [KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X 100mm IPX7 Étanche Bak4 FMC Film Longue Vue Trepied & Adaptateur Smartphone Monoculaire Telescope Vert Foncé](https://www.amazon.fr/dp/B08BCC2SY7/?tag=tolees0d-21) a 199.98 EUR (original: 477.66 EUR) (58.13 %  de descuento) en el siguiente enlace!

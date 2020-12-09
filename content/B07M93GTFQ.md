@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 179.99 EUR
 inStock: true
-prodname: L OR Barista LM8018/90 Machine à Café à Capsules avec Mousseur à Lait - Premium
+prodname: 'L OR Barista LM8018/90 Machine à Café à Capsules avec Mousseur à Lait - Premium'
 ---
 
 Está [L OR Barista LM8018/90 Machine à Café à Capsules avec Mousseur à Lait - Premium](https://www.amazon.fr/dp/B07M93GTFQ/?tag=tolees0d-21) con 44.45 de descuento por 99.99 EUR (original: 179.99 EUR) en el siguiente enlace!

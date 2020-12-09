@@ -14,7 +14,7 @@ currency: EUR
 price: 41.0
 comparePrice: 64.99 EUR
 inStock: true
-prodname: Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 + 8 filter
+prodname: 'Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 + 8 filter'
 ---
 
 Tienes [Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 + 8 filter](https://www.amazon.fr/dp/B01EAACFX0/?tag=tolees0d-21) con un 36.91 % de descuento con precio de oferta de 41.0 EUR (original: 64.99 EUR) en el siguiente enlace!

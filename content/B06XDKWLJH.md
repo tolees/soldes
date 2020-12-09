@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 75.99 EUR
 inStock: true
-prodname: WD Elements Disque dur portable externe - USB 3.0 1.5TB noir
+prodname: 'WD Elements Disque dur portable externe - USB 3.0 1.5TB noir'
 ---
 
 Ahora mismo tienes [WD Elements Disque dur portable externe - USB 3.0 1.5TB noir](https://www.amazon.fr/dp/B06XDKWLJH/?tag=tolees0d-21) a 54.99 EUR (original: 75.99 EUR) (27.64 %  de descuento) en el siguiente enlace!

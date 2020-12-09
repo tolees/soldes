@@ -14,7 +14,7 @@ currency: EUR
 price: 55.95
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Tommy Hilfiger - UM0UM00708 - Hoody Ls Hwk - Veste à capuche - Homme - Gris  Grey Heather 004  - Taille: S
+prodname: 'Tommy Hilfiger - UM0UM00708 - Hoody Ls Hwk - Veste à capuche - Homme - Gris  Grey Heather 004  - Taille: S'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger - UM0UM00708 - Hoody Ls Hwk - Veste à capuche - Homme - Gris  Grey Heather 004  - Taille: S](https://www.amazon.fr/dp/B0788BNRNK/?tag=tolees0d-21) a 55.95 EUR (original: 79.9 EUR) (29.97 %  de descuento) en el siguiente enlace!

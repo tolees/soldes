@@ -14,7 +14,7 @@ currency: EUR
 price: 40.68
 comparePrice: 69.99 EUR
 inStock: true
-prodname: APEMAN Caméra de Chasse 30MP 4K avec Vision Nocturne  Etanchéité IP66 pour la Nature  Le Jardin  la Surveillance et la sécurité de la Maison
+prodname: 'APEMAN Caméra de Chasse 30MP 4K avec Vision Nocturne  Etanchéité IP66 pour la Nature  Le Jardin  la Surveillance et la sécurité de la Maison'
 ---
 
 Tienes [APEMAN Caméra de Chasse 30MP 4K avec Vision Nocturne  Etanchéité IP66 pour la Nature  Le Jardin  la Surveillance et la sécurité de la Maison](https://www.amazon.fr/dp/B07D2BVMZS/?tag=tolees0d-21) con un 41.88 % de descuento con precio de oferta de 40.68 EUR (original: 69.99 EUR) en el siguiente enlace!

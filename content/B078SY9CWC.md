@@ -14,7 +14,7 @@ currency: EUR
 price: 64.48
 comparePrice: 90.0 EUR
 inStock: true
-prodname: Timberland Gateway Pier Casual  Chaussures Oxford Homme  Bleu  Navy Canvas   43 EU
+prodname: 'Timberland Gateway Pier Casual  Chaussures Oxford Homme  Bleu  Navy Canvas   43 EU'
 ---
 
 Ahora mismo tienes [Timberland Gateway Pier Casual  Chaussures Oxford Homme  Bleu  Navy Canvas   43 EU](https://www.amazon.fr/dp/B078SY9CWC/?tag=tolees0d-21) a 64.48 EUR (original: 90.0 EUR) (28.36 %  de descuento) en el siguiente enlace!

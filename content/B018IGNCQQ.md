@@ -14,7 +14,7 @@ currency: EUR
 price: 7.46
 comparePrice: 14.99 EUR
 inStock: true
-prodname: Amiibo  Animal Crossing  - Resetti
+prodname: 'Amiibo  Animal Crossing  - Resetti'
 ---
 
 Ahora mismo tienes [Amiibo  Animal Crossing  - Resetti](https://www.amazon.fr/dp/B018IGNCQQ/?tag=tolees0d-21) a 7.46 EUR (original: 14.99 EUR) (50.23 %  de descuento) en el siguiente enlace!

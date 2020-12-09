@@ -14,7 +14,7 @@ currency: EUR
 price: 27.99
 comparePrice: 42.22 EUR
 inStock: true
-prodname: Jojoin Appareil Photo Enfants  Appareil Photo Numérique pour Enfants 1080P HD 8.0MP avec Carte SD 32 Go  Cordon Lanyard  3-10 Ans Filles Garçons Cadeaux de Noël Nouvel an Jouets
+prodname: 'Jojoin Appareil Photo Enfants  Appareil Photo Numérique pour Enfants 1080P HD 8.0MP avec Carte SD 32 Go  Cordon Lanyard  3-10 Ans Filles Garçons Cadeaux de Noël Nouvel an Jouets'
 ---
 
 Está [Jojoin Appareil Photo Enfants  Appareil Photo Numérique pour Enfants 1080P HD 8.0MP avec Carte SD 32 Go  Cordon Lanyard  3-10 Ans Filles Garçons Cadeaux de Noël Nouvel an Jouets](https://www.amazon.fr/dp/B08JCRK9ZR/?tag=tolees0d-21) con 33.70 de descuento por 27.99 EUR (original: 42.22 EUR) en el siguiente enlace!

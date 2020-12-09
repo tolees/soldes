@@ -14,7 +14,7 @@ currency: EUR
 price: 14.74
 comparePrice: 19.95 EUR
 inStock: true
-prodname: You 2 Toys Backdoor Friend Godemiché L
+prodname: 'You 2 Toys Backdoor Friend Godemiché L'
 ---
 
 Está [You 2 Toys Backdoor Friend Godemiché L](https://www.amazon.fr/dp/B00GD21DCI/?tag=tolees0d-21) con 26.12 de descuento por 14.74 EUR (original: 19.95 EUR) en el siguiente enlace!

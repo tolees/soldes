@@ -14,7 +14,7 @@ currency: EUR
 price: 86.03
 comparePrice: 120.02 EUR
 inStock: true
-prodname: UMBRA Hub Mirror. Miroir mural rond Hub. Contour en caoutchouc noir. Diamètre 61cm  épaisseur 2cm.
+prodname: 'UMBRA Hub Mirror. Miroir mural rond Hub. Contour en caoutchouc noir. Diamètre 61cm  épaisseur 2cm.'
 ---
 
 Ahora mismo tienes [UMBRA Hub Mirror. Miroir mural rond Hub. Contour en caoutchouc noir. Diamètre 61cm  épaisseur 2cm.](https://www.amazon.fr/dp/B01N6LEAEZ/?tag=tolees0d-21) a 86.03 EUR (original: 120.02 EUR) (28.32 %  de descuento) en el siguiente enlace!

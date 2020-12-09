@@ -14,7 +14,7 @@ currency: EUR
 price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
-prodname: F1 2020 - Seventy Edition
+prodname: 'F1 2020 - Seventy Edition'
 ---
 
 Tienes [F1 2020 - Seventy Edition](https://www.amazon.fr/dp/B086PPHWB5/?tag=tolees0d-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

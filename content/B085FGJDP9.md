@@ -14,7 +14,7 @@ currency: EUR
 price: 63.5
 comparePrice: 100.29 EUR
 inStock: true
-prodname: Samsung EVO Select Carte mémoire microSDXC UHS-I U3 100 Mo/s Full HD et 4K UHD avec adaptateur SD  MB-ME512HA/EU 
+prodname: 'Samsung EVO Select Carte mémoire microSDXC UHS-I U3 100 Mo/s Full HD et 4K UHD avec adaptateur SD  MB-ME512HA/EU '
 ---
 
 Está [Samsung EVO Select Carte mémoire microSDXC UHS-I U3 100 Mo/s Full HD et 4K UHD avec adaptateur SD  MB-ME512HA/EU ](https://www.amazon.fr/dp/B085FGJDP9/?tag=tolees0d-21) con 36.68 de descuento por 63.5 EUR (original: 100.29 EUR) en el siguiente enlace!

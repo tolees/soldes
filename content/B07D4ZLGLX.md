@@ -14,7 +14,7 @@ currency: EUR
 price: 24.99
 comparePrice: 50.16 EUR
 inStock: true
-prodname: 10 FILMS CULTES DVD
+prodname: '10 FILMS CULTES DVD'
 ---
 
 Ahora mismo tienes [10 FILMS CULTES DVD](https://www.amazon.fr/dp/B07D4ZLGLX/?tag=tolees0d-21) a 24.99 EUR (original: 50.16 EUR) (50.18 %  de descuento) en el siguiente enlace!

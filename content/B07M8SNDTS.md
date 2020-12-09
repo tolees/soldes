@@ -14,7 +14,7 @@ currency: EUR
 price: 77.5
 comparePrice: 126.12 EUR
 inStock: true
-prodname: Onduleur Z3 ZenBox EX 500 VA  3 prises secourues  3 prises protégées
+prodname: 'Onduleur Z3 ZenBox EX 500 VA  3 prises secourues  3 prises protégées'
 ---
 
 Tienes [Onduleur Z3 ZenBox EX 500 VA  3 prises secourues  3 prises protégées](https://www.amazon.fr/dp/B07M8SNDTS/?tag=tolees0d-21) con un 38.55 % de descuento con precio de oferta de 77.5 EUR (original: 126.12 EUR) en el siguiente enlace!

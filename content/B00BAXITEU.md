@@ -14,7 +14,7 @@ currency: EUR
 price: 31.16
 comparePrice: 76.0 EUR
 inStock: true
-prodname: Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Moderne - 100ml
+prodname: 'Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Moderne - 100ml'
 ---
 
 Está [Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Moderne - 100ml](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21) con 59.00 de descuento por 31.16 EUR (original: 76.0 EUR) en el siguiente enlace!

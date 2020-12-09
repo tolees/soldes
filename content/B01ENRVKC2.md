@@ -14,7 +14,7 @@ currency: EUR
 price: 4.6
 comparePrice: 7.5 EUR
 inStock: true
-prodname: Laboratoire Puressentiel Huile Végétale Bio Argan
+prodname: 'Laboratoire Puressentiel Huile Végétale Bio Argan'
 ---
 
 Ahora mismo tienes [Laboratoire Puressentiel Huile Végétale Bio Argan](https://www.amazon.fr/dp/B01ENRVKC2/?tag=tolees0d-21) a 4.6 EUR (original: 7.5 EUR) (38.67 %  de descuento) en el siguiente enlace!

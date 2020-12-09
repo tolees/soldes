@@ -14,7 +14,7 @@ currency: EUR
 price: 19.9
 comparePrice: 34.9 EUR
 inStock: true
-prodname: BRITA  Carafe Filtrante  Marella  2.4L  3 Cartouches Filtrantes MAXTRA+ incluses Graphite
+prodname: 'BRITA  Carafe Filtrante  Marella  2.4L  3 Cartouches Filtrantes MAXTRA+ incluses Graphite'
 ---
 
 Ahora mismo tienes [BRITA  Carafe Filtrante  Marella  2.4L  3 Cartouches Filtrantes MAXTRA+ incluses Graphite](https://www.amazon.fr/dp/B01NCE5ZXR/?tag=tolees0d-21) a 19.9 EUR (original: 34.9 EUR) (42.98 %  de descuento) en el siguiente enlace!

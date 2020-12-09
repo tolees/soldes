@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 30.08 EUR
 inStock: true
-prodname: Jackie Chan  l essentiel-10 Films-Coffret n° 3
+prodname: 'Jackie Chan  l essentiel-10 Films-Coffret n° 3'
 ---
 
 Está [Jackie Chan  l essentiel-10 Films-Coffret n° 3](https://www.amazon.fr/dp/B07T4RYSWC/?tag=tolees0d-21) con 43.52 de descuento por 16.99 EUR (original: 30.08 EUR) en el siguiente enlace!

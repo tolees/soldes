@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.05 EUR
 inStock: true
-prodname: Le Coffret du Père Noël : La Magie de la poussière d étoiles + Les Livres des Enfants du Monde
+prodname: 'Le Coffret du Père Noël : La Magie de la poussière d étoiles + Les Livres des Enfants du Monde'
 ---
 
 Está [Le Coffret du Père Noël : La Magie de la poussière d étoiles + Les Livres des Enfants du Monde](https://www.amazon.fr/dp/B07W6CD3DM/?tag=tolees0d-21) con 33.62 de descuento por 9.99 EUR (original: 15.05 EUR) en el siguiente enlace!

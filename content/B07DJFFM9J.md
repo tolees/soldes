@@ -14,7 +14,7 @@ currency: EUR
 price: 42.0
 comparePrice: 69.95 EUR
 inStock: true
-prodname: adidas Trefoil Hoodie  Sweat-Shirt de Sport à Capuche Homme  Noir  Black Black   Medium
+prodname: 'adidas Trefoil Hoodie  Sweat-Shirt de Sport à Capuche Homme  Noir  Black Black   Medium'
 ---
 
 Tienes [adidas Trefoil Hoodie  Sweat-Shirt de Sport à Capuche Homme  Noir  Black Black   Medium](https://www.amazon.fr/dp/B07DJFFM9J/?tag=tolees0d-21) con un 39.96 % de descuento con precio de oferta de 42.0 EUR (original: 69.95 EUR) en el siguiente enlace!

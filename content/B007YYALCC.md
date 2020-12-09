@@ -14,7 +14,7 @@ currency: EUR
 price: 139.99
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Singer Initiale Machine à Coudre Blanche 18 Points Ajustables
+prodname: 'Singer Initiale Machine à Coudre Blanche 18 Points Ajustables'
 ---
 
 Tienes [Singer Initiale Machine à Coudre Blanche 18 Points Ajustables](https://www.amazon.fr/dp/B007YYALCC/?tag=tolees0d-21) con un 29.65 % de descuento con precio de oferta de 139.99 EUR (original: 199.0 EUR) en el siguiente enlace!

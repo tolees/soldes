@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Star Wars Jedi : Fallen Order - Code de Téléchargement pour PC
+prodname: 'Star Wars Jedi : Fallen Order - Code de Téléchargement pour PC'
 ---
 
 Tienes [Star Wars Jedi : Fallen Order - Code de Téléchargement pour PC](https://www.amazon.fr/dp/B07SD2DS9T/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 30.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Gamory Manette pour ps4 Manette pour ps4 sans Fil pour Playstation 4/PS4 Slim/Pro/PS3/PC Windows 7/8/10   Contrôleur PC USB contrôleur à écran Tactile avec Double Vibration à Six Axes et Audio
+prodname: 'Gamory Manette pour ps4 Manette pour ps4 sans Fil pour Playstation 4/PS4 Slim/Pro/PS3/PC Windows 7/8/10   Contrôleur PC USB contrôleur à écran Tactile avec Double Vibration à Six Axes et Audio'
 ---
 
 Ahora mismo tienes [Gamory Manette pour ps4 Manette pour ps4 sans Fil pour Playstation 4/PS4 Slim/Pro/PS3/PC Windows 7/8/10   Contrôleur PC USB contrôleur à écran Tactile avec Double Vibration à Six Axes et Audio](https://www.amazon.fr/dp/B08BLKNWH6/?tag=tolees0d-21) a 30.99 EUR (original: 49.99 EUR) (38.01 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 9.18
 comparePrice: 22.2 EUR
 inStock: true
-prodname: Sharpie Marqueur Pointe Fine Bleu Lot de 12
+prodname: 'Sharpie Marqueur Pointe Fine Bleu Lot de 12'
 ---
 
 Está [Sharpie Marqueur Pointe Fine Bleu Lot de 12](https://www.amazon.fr/dp/B0014GYMGM/?tag=tolees0d-21) con 58.65 de descuento por 9.18 EUR (original: 22.2 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Oddworld Munch s Oddyssee  Nintendo Switch 
+prodname: 'Oddworld Munch s Oddyssee  Nintendo Switch '
 ---
 
 Ahora mismo tienes [Oddworld Munch s Oddyssee  Nintendo Switch ](https://www.amazon.fr/dp/B089MVVRVG/?tag=tolees0d-21) a 20.99 EUR (original: 29.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

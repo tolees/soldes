@@ -14,7 +14,7 @@ currency: EUR
 price: 19.76
 comparePrice: 39.99 EUR
 inStock: true
-prodname: DCL - Drone Championship League
+prodname: 'DCL - Drone Championship League'
 ---
 
 Está [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21) con 50.59 de descuento por 19.76 EUR (original: 39.99 EUR) en el siguiente enlace!

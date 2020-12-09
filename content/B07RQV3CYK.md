@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 34.59 EUR
 inStock: true
-prodname: Oral-B Kids Brossettes De Rechange La Reine des Neiges De Disney x8  Enfants de 3 ans et plus  Format Spécial Boîte Aux Lettres  Recharge Originale Pour Brosse À Dents Électrique
+prodname: 'Oral-B Kids Brossettes De Rechange La Reine des Neiges De Disney x8  Enfants de 3 ans et plus  Format Spécial Boîte Aux Lettres  Recharge Originale Pour Brosse À Dents Électrique'
 ---
 
 Está [Oral-B Kids Brossettes De Rechange La Reine des Neiges De Disney x8  Enfants de 3 ans et plus  Format Spécial Boîte Aux Lettres  Recharge Originale Pour Brosse À Dents Électrique](https://www.amazon.fr/dp/B07RQV3CYK/?tag=tolees0d-21) con 42.21 de descuento por 19.99 EUR (original: 34.59 EUR) en el siguiente enlace!

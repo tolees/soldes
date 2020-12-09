@@ -14,7 +14,7 @@ currency: EUR
 price: 6.78
 comparePrice: 10.11 EUR
 inStock: true
-prodname: Funko- Figurines Pop Vinyle: Ready Player One: Sorrento  22055
+prodname: 'Funko- Figurines Pop Vinyle: Ready Player One: Sorrento  22055'
 ---
 
 Tienes [Funko- Figurines Pop Vinyle: Ready Player One: Sorrento  22055](https://www.amazon.fr/dp/B0772KVGFX/?tag=tolees0d-21) con un 32.94 % de descuento con precio de oferta de 6.78 EUR (original: 10.11 EUR) en el siguiente enlace!

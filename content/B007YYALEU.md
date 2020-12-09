@@ -14,7 +14,7 @@ currency: EUR
 price: 150.0
 comparePrice: 249.0 EUR
 inStock: true
-prodname: Singer Decorative Machine à Coudre Blanche 31 Points Ajustables
+prodname: 'Singer Decorative Machine à Coudre Blanche 31 Points Ajustables'
 ---
 
 Tienes [Singer Decorative Machine à Coudre Blanche 31 Points Ajustables](https://www.amazon.fr/dp/B007YYALEU/?tag=tolees0d-21) con un 39.76 % de descuento con precio de oferta de 150.0 EUR (original: 249.0 EUR) en el siguiente enlace!

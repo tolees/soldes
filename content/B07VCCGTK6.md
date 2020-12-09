@@ -14,7 +14,7 @@ currency: EUR
 price: 79.88
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Napapijri Rainforest S PKT 1 Jacket  Bleu Marine  1761   M Homme
+prodname: 'Napapijri Rainforest S PKT 1 Jacket  Bleu Marine  1761   M Homme'
 ---
 
 Ahora mismo tienes [Napapijri Rainforest S PKT 1 Jacket  Bleu Marine  1761   M Homme](https://www.amazon.fr/dp/B07VCCGTK6/?tag=tolees0d-21) a 79.88 EUR (original: 199.0 EUR) (59.86 %  de descuento) en el siguiente enlace!

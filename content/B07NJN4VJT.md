@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Casque LVL50 sans Fil pour Sony Playstation - noir
+prodname: 'Casque LVL50 sans Fil pour Sony Playstation - noir'
 ---
 
 Ahora mismo tienes [Casque LVL50 sans Fil pour Sony Playstation - noir](https://www.amazon.fr/dp/B07NJN4VJT/?tag=tolees0d-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

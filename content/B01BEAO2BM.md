@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 39.99 EUR
 inStock: true
-prodname: Lego Star Wars : le Réveil de la Force
+prodname: 'Lego Star Wars : le Réveil de la Force'
 ---
 
 Está [Lego Star Wars : le Réveil de la Force](https://www.amazon.fr/dp/B01BEAO2BM/?tag=tolees0d-21) con 62.52 de descuento por 14.99 EUR (original: 39.99 EUR) en el siguiente enlace!

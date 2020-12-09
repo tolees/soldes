@@ -14,7 +14,7 @@ currency: EUR
 price: 114.99
 comparePrice: 199.99 EUR
 inStock: true
-prodname: Tenda Système WiFi Mesh Bi-bande 6*Gigabit MW5G 3-Pack  pour Toute la Maison Routeur & Répéteur WiFi remplacement   Couverture WiFi de 300m²  Compatible avec Toutes les Box Internet  3 ans de Garantie
+prodname: 'Tenda Système WiFi Mesh Bi-bande 6*Gigabit MW5G 3-Pack  pour Toute la Maison Routeur & Répéteur WiFi remplacement   Couverture WiFi de 300m²  Compatible avec Toutes les Box Internet  3 ans de Garantie'
 ---
 
 Está [Tenda Système WiFi Mesh Bi-bande 6*Gigabit MW5G 3-Pack  pour Toute la Maison Routeur & Répéteur WiFi remplacement   Couverture WiFi de 300m²  Compatible avec Toutes les Box Internet  3 ans de Garantie](https://www.amazon.fr/dp/B07YZDGS7M/?tag=tolees0d-21) con 42.50 de descuento por 114.99 EUR (original: 199.99 EUR) en el siguiente enlace!

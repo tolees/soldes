@@ -14,7 +14,7 @@ currency: EUR
 price: 32.95
 comparePrice: 43.95 EUR
 inStock: true
-prodname: Collection Velocity Bleu bleu nuit Carry On
+prodname: 'Collection Velocity Bleu bleu nuit Carry On'
 ---
 
 Ahora mismo tienes [Collection Velocity Bleu bleu nuit Carry On](https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21) a 32.95 EUR (original: 43.95 EUR) (25.03 %  de descuento) en el siguiente enlace!

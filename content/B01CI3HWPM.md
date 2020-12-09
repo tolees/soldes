@@ -14,7 +14,7 @@ currency: EUR
 price: 109.9
 comparePrice: 169.98 EUR
 inStock: true
-prodname: Westinghouse Lighting 7214040 Bendan  Métal  R7s  80 W  Blanc
+prodname: 'Westinghouse Lighting 7214040 Bendan  Métal  R7s  80 W  Blanc'
 ---
 
 Tienes [Westinghouse Lighting 7214040 Bendan  Métal  R7s  80 W  Blanc](https://www.amazon.fr/dp/B01CI3HWPM/?tag=tolees0d-21) con un 35.35 % de descuento con precio de oferta de 109.9 EUR (original: 169.98 EUR) en el siguiente enlace!

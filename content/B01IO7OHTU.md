@@ -14,7 +14,7 @@ currency: EUR
 price: 8.0
 comparePrice: 15.98 EUR
 inStock: true
-prodname: The Beatles : Live At The Hollywood Bowl - Édition Digipack
+prodname: 'The Beatles : Live At The Hollywood Bowl - Édition Digipack'
 ---
 
 Está [The Beatles : Live At The Hollywood Bowl - Édition Digipack](https://www.amazon.fr/dp/B01IO7OHTU/?tag=tolees0d-21) con 49.94 de descuento por 8.0 EUR (original: 15.98 EUR) en el siguiente enlace!

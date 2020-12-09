@@ -14,7 +14,7 @@ currency: EUR
 price: 37.18
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Samsonite Paradiver L Disney - Sac à Dos Enfant S+  42 cm  10 L  Blanc  Stormtrooper White Mesh 
+prodname: 'Samsonite Paradiver L Disney - Sac à Dos Enfant S+  42 cm  10 L  Blanc  Stormtrooper White Mesh '
 ---
 
 Ahora mismo tienes [Samsonite Paradiver L Disney - Sac à Dos Enfant S+  42 cm  10 L  Blanc  Stormtrooper White Mesh ](https://www.amazon.fr/dp/B07YTP7W6D/?tag=tolees0d-21) a 37.18 EUR (original: 75.0 EUR) (50.43 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 46.0
 comparePrice: 120.0 EUR
 inStock: true
-prodname: AUBADE  Soutien-gorge triangle  Bretelles réglables  THE BOW COLLECTION  Rose  100E  OC12
+prodname: 'AUBADE  Soutien-gorge triangle  Bretelles réglables  THE BOW COLLECTION  Rose  100E  OC12'
 ---
 
 Ahora mismo tienes [AUBADE  Soutien-gorge triangle  Bretelles réglables  THE BOW COLLECTION  Rose  100E  OC12](https://www.amazon.fr/dp/B07Q2RKTPK/?tag=tolees0d-21) a 46.0 EUR (original: 120.0 EUR) (61.67 %  de descuento) en el siguiente enlace!

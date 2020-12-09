@@ -14,7 +14,7 @@ currency: EUR
 price: 30.91
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Sword Art Online: Hollow Realization - Deluxe Edition
+prodname: 'Sword Art Online: Hollow Realization - Deluxe Edition'
 ---
 
 Tienes [Sword Art Online: Hollow Realization - Deluxe Edition](https://www.amazon.fr/dp/B07PJLBN75/?tag=tolees0d-21) con un 48.47 % de descuento con precio de oferta de 30.91 EUR (original: 59.99 EUR) en el siguiente enlace!

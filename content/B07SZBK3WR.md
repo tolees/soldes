@@ -14,7 +14,7 @@ currency: EUR
 price: 60.0
 comparePrice: 120.4 EUR
 inStock: true
-prodname: Game of Thrones  Le Trône De Fer  -L intégrale des Saisons 1 à 8 [Blu-Ray]
+prodname: 'Game of Thrones  Le Trône De Fer  -L intégrale des Saisons 1 à 8 [Blu-Ray]'
 ---
 
 Ahora mismo tienes [Game of Thrones  Le Trône De Fer  -L intégrale des Saisons 1 à 8 [Blu-Ray]](https://www.amazon.fr/dp/B07SZBK3WR/?tag=tolees0d-21) a 60.0 EUR (original: 120.4 EUR) (50.17 %  de descuento) en el siguiente enlace!

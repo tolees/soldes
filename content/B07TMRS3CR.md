@@ -14,7 +14,7 @@ currency: EUR
 price: 11.42
 comparePrice: 28.98 EUR
 inStock: true
-prodname: Swiffer Balai Poussière  Kit complet 1 Balai + 8 Lingettes Sèches + 3 Lingettes Humides
+prodname: 'Swiffer Balai Poussière  Kit complet 1 Balai + 8 Lingettes Sèches + 3 Lingettes Humides'
 ---
 
 Tienes [Swiffer Balai Poussière  Kit complet 1 Balai + 8 Lingettes Sèches + 3 Lingettes Humides](https://www.amazon.fr/dp/B07TMRS3CR/?tag=tolees0d-21) con un 60.59 % de descuento con precio de oferta de 11.42 EUR (original: 28.98 EUR) en el siguiente enlace!

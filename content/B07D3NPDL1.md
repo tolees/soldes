@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Turtle Beach Recon 200 Blanc Casque Gaming avec amplificateur - PS4  PS5  Xbox One  Nintendo Switch et PC
+prodname: 'Turtle Beach Recon 200 Blanc Casque Gaming avec amplificateur - PS4  PS5  Xbox One  Nintendo Switch et PC'
 ---
 
 Ahora mismo tienes [Turtle Beach Recon 200 Blanc Casque Gaming avec amplificateur - PS4  PS5  Xbox One  Nintendo Switch et PC](https://www.amazon.fr/dp/B07D3NPDL1/?tag=tolees0d-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

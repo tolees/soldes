@@ -14,7 +14,7 @@ currency: EUR
 price: 19.2
 comparePrice: 44.95 EUR
 inStock: true
-prodname: Columbia Zero Rules  Haut à Manches Longues  Homme
+prodname: 'Columbia Zero Rules  Haut à Manches Longues  Homme'
 ---
 
 Está [Columbia Zero Rules  Haut à Manches Longues  Homme](https://www.amazon.fr/dp/B00V2QPEFW/?tag=tolees0d-21) con 57.29 de descuento por 19.2 EUR (original: 44.95 EUR) en el siguiente enlace!

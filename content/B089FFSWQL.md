@@ -14,7 +14,7 @@ currency: EUR
 price: 71.99
 comparePrice: 139.99 EUR
 inStock: true
-prodname: Vidéoprojecteur WiFi  YABER 5800 Lumens Mini Projecteur Soutien Full HD 1080P Rétroprojecteur avec Fonction de Zoom  Projecteur WiFi Home Cinéma Compatible iPhone  Android  TV Stick
+prodname: 'Vidéoprojecteur WiFi  YABER 5800 Lumens Mini Projecteur Soutien Full HD 1080P Rétroprojecteur avec Fonction de Zoom  Projecteur WiFi Home Cinéma Compatible iPhone  Android  TV Stick'
 ---
 
 Está [Vidéoprojecteur WiFi  YABER 5800 Lumens Mini Projecteur Soutien Full HD 1080P Rétroprojecteur avec Fonction de Zoom  Projecteur WiFi Home Cinéma Compatible iPhone  Android  TV Stick](https://www.amazon.fr/dp/B089FFSWQL/?tag=tolees0d-21) con 48.57 de descuento por 71.99 EUR (original: 139.99 EUR) en el siguiente enlace!

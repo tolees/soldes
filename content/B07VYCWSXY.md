@@ -14,7 +14,7 @@ currency: EUR
 price: 36.0
 comparePrice: 90.0 EUR
 inStock: true
-prodname: AUBADE  Haut de Maillot de Bain Triangle avec Coques Amovibles  Bretelles à Nouer Dans la Nuque  BEAUTÉ SUBLIME  Noir/Kaki  Taille : S  PR10
+prodname: 'AUBADE  Haut de Maillot de Bain Triangle avec Coques Amovibles  Bretelles à Nouer Dans la Nuque  BEAUTÉ SUBLIME  Noir/Kaki  Taille : S  PR10'
 ---
 
 Tienes [AUBADE  Haut de Maillot de Bain Triangle avec Coques Amovibles  Bretelles à Nouer Dans la Nuque  BEAUTÉ SUBLIME  Noir/Kaki  Taille : S  PR10](https://www.amazon.fr/dp/B07VYCWSXY/?tag=tolees0d-21) con un 60.00 % de descuento con precio de oferta de 36.0 EUR (original: 90.0 EUR) en el siguiente enlace!

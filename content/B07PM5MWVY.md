@@ -14,7 +14,7 @@ currency: EUR
 price: 59.44
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Polar OH1+ Capteur de Fréquence Cardiaque Optique Étanche  Compact et Polyvalent avec Bluetooth et ANT+
+prodname: 'Polar OH1+ Capteur de Fréquence Cardiaque Optique Étanche  Compact et Polyvalent avec Bluetooth et ANT+'
 ---
 
 Ahora mismo tienes [Polar OH1+ Capteur de Fréquence Cardiaque Optique Étanche  Compact et Polyvalent avec Bluetooth et ANT+](https://www.amazon.fr/dp/B07PM5MWVY/?tag=tolees0d-21) a 59.44 EUR (original: 79.9 EUR) (25.61 %  de descuento) en el siguiente enlace!

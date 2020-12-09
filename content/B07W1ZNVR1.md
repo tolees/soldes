@@ -14,7 +14,7 @@ currency: EUR
 price: 179.99
 comparePrice: 299.99 EUR
 inStock: true
-prodname: Rowenta Ultimate Experience Sèche-cheveux Moteur Digital Professionnel Performant Réduit l électricité statique et les frisottis Protège vos cheveux CV9820F0
+prodname: 'Rowenta Ultimate Experience Sèche-cheveux Moteur Digital Professionnel Performant Réduit l électricité statique et les frisottis Protège vos cheveux CV9820F0'
 ---
 
 Tienes [Rowenta Ultimate Experience Sèche-cheveux Moteur Digital Professionnel Performant Réduit l électricité statique et les frisottis Protège vos cheveux CV9820F0](https://www.amazon.fr/dp/B07W1ZNVR1/?tag=tolees0d-21) con un 40.00 % de descuento con precio de oferta de 179.99 EUR (original: 299.99 EUR) en el siguiente enlace!

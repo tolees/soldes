@@ -14,7 +14,7 @@ currency: EUR
 price: 45.98
 comparePrice: 79.0 EUR
 inStock: true
-prodname: Pepe Jeans SOHO Pants  10OZ Dark Used Worn H45  29W / 30L Femme
+prodname: 'Pepe Jeans SOHO Pants  10OZ Dark Used Worn H45  29W / 30L Femme'
 ---
 
 Tienes [Pepe Jeans SOHO Pants  10OZ Dark Used Worn H45  29W / 30L Femme](https://www.amazon.fr/dp/B00XMLG8ZA/?tag=tolees0d-21) con un 41.80 % de descuento con precio de oferta de 45.98 EUR (original: 79.0 EUR) en el siguiente enlace!

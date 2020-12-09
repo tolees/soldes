@@ -14,7 +14,7 @@ currency: EUR
 price: 149.99
 comparePrice: 199.99 EUR
 inStock: true
-prodname: ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura Sync - Connectique Type C
+prodname: 'ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura Sync - Connectique Type C'
 ---
 
 Está [ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura Sync - Connectique Type C](https://www.amazon.fr/dp/B07HBPDD5Y/?tag=tolees0d-21) con 25.00 de descuento por 149.99 EUR (original: 199.99 EUR) en el siguiente enlace!

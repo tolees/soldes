@@ -14,7 +14,7 @@ currency: EUR
 price: 44.52
 comparePrice: 80.46 EUR
 inStock: true
-prodname: Leitz Batterie externe pour imprimante d’étiquettes Wifi 12 h 2405 mAh
+prodname: 'Leitz Batterie externe pour imprimante d’étiquettes Wifi 12 h 2405 mAh'
 ---
 
 Tienes [Leitz Batterie externe pour imprimante d’étiquettes Wifi 12 h 2405 mAh](https://www.amazon.fr/dp/B00J6VV6QQ/?tag=tolees0d-21) con un 44.67 % de descuento con precio de oferta de 44.52 EUR (original: 80.46 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 39.95
 comparePrice: 84.95 EUR
 inStock: true
-prodname: LIVAN - Grand Sac/Cabas - Sac de Cours/Sac de Ville/Sac Lycéenne/Sac Etudiante - Porté main  avant-bras - Simili Cuir rigide strié - neuf
+prodname: 'LIVAN - Grand Sac/Cabas - Sac de Cours/Sac de Ville/Sac Lycéenne/Sac Etudiante - Porté main  avant-bras - Simili Cuir rigide strié - neuf'
 ---
 
 Ahora mismo tienes [LIVAN - Grand Sac/Cabas - Sac de Cours/Sac de Ville/Sac Lycéenne/Sac Etudiante - Porté main  avant-bras - Simili Cuir rigide strié - neuf](https://www.amazon.fr/dp/B073YQX2HB/?tag=tolees0d-21) a 39.95 EUR (original: 84.95 EUR) (52.97 %  de descuento) en el siguiente enlace!

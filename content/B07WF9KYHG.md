@@ -14,7 +14,7 @@ currency: EUR
 price: 14.09
 comparePrice: 21.0 EUR
 inStock: true
-prodname: Gillette Fusion Styler Tondeuse Cheveux Hommes Etanche 3-en-1  Tondeuse  Rasoir  et Sculpteuse  [OFFICIEL]
+prodname: 'Gillette Fusion Styler Tondeuse Cheveux Hommes Etanche 3-en-1  Tondeuse  Rasoir  et Sculpteuse  [OFFICIEL]'
 ---
 
 Tienes [Gillette Fusion Styler Tondeuse Cheveux Hommes Etanche 3-en-1  Tondeuse  Rasoir  et Sculpteuse  [OFFICIEL]](https://www.amazon.fr/dp/B07WF9KYHG/?tag=tolees0d-21) con un 32.90 % de descuento con precio de oferta de 14.09 EUR (original: 21.0 EUR) en el siguiente enlace!

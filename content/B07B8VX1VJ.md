@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 79.95 EUR
 inStock: true
-prodname: Clarks Linvale Jerica  Escarpins Femme  Noir  Black Leather   38 EU
+prodname: 'Clarks Linvale Jerica  Escarpins Femme  Noir  Black Leather   38 EU'
 ---
 
 Tienes [Clarks Linvale Jerica  Escarpins Femme  Noir  Black Leather   38 EU](https://www.amazon.fr/dp/B07B8VX1VJ/?tag=tolees0d-21) con un 49.98 % de descuento con precio de oferta de 39.99 EUR (original: 79.95 EUR) en el siguiente enlace!

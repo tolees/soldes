@@ -14,7 +14,7 @@ currency: EUR
 price: 21.0
 comparePrice: 30.0 EUR
 inStock: true
-prodname: Telemann/The Collection 13cd
+prodname: 'Telemann/The Collection 13cd'
 ---
 
 Ahora mismo tienes [Telemann/The Collection 13cd](https://www.amazon.fr/dp/B01MY6NF1S/?tag=tolees0d-21) a 21.0 EUR (original: 30.0 EUR) (30.00 %  de descuento) en el siguiente enlace!

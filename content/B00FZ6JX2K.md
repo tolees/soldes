@@ -14,7 +14,7 @@ currency: EUR
 price: 7.98
 comparePrice: 20.06 EUR
 inStock: true
-prodname: Dark Star [Édition Collector]
+prodname: 'Dark Star [Édition Collector]'
 ---
 
 Está [Dark Star [Édition Collector]](https://www.amazon.fr/dp/B00FZ6JX2K/?tag=tolees0d-21) con 60.22 de descuento por 7.98 EUR (original: 20.06 EUR) en el siguiente enlace!

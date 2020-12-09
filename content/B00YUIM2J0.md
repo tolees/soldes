@@ -14,7 +14,7 @@ currency: EUR
 price: 199.0
 comparePrice: 399.0 EUR
 inStock: true
-prodname: Logitech G29 Driving Force Volant de Course avec Pédales  Retour de Force Réaliste  Palettes au Volant en Acier Inoxydable  Volant en Cuir  Rotation du Volant à 900°  Prise EU  PS4/PS3/PC/Mac - Noir
+prodname: 'Logitech G29 Driving Force Volant de Course avec Pédales  Retour de Force Réaliste  Palettes au Volant en Acier Inoxydable  Volant en Cuir  Rotation du Volant à 900°  Prise EU  PS4/PS3/PC/Mac - Noir'
 ---
 
 Tienes [Logitech G29 Driving Force Volant de Course avec Pédales  Retour de Force Réaliste  Palettes au Volant en Acier Inoxydable  Volant en Cuir  Rotation du Volant à 900°  Prise EU  PS4/PS3/PC/Mac - Noir](https://www.amazon.fr/dp/B00YUIM2J0/?tag=tolees0d-21) con un 50.13 % de descuento con precio de oferta de 199.0 EUR (original: 399.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 45.99 EUR
 inStock: true
-prodname: David Jones - Petit Sac Bandoulière Crocodile Femme - Sac à Main Cuir PU Matelassé Croco Porté Epaule - Besace Sacoche Chaînes Pochette Soirée Demi Lune - Crossbody Bag Elégant Mode Tendance - Bleu
+prodname: 'David Jones - Petit Sac Bandoulière Crocodile Femme - Sac à Main Cuir PU Matelassé Croco Porté Epaule - Besace Sacoche Chaînes Pochette Soirée Demi Lune - Crossbody Bag Elégant Mode Tendance - Bleu'
 ---
 
 Tienes [David Jones - Petit Sac Bandoulière Crocodile Femme - Sac à Main Cuir PU Matelassé Croco Porté Epaule - Besace Sacoche Chaînes Pochette Soirée Demi Lune - Crossbody Bag Elégant Mode Tendance - Bleu](https://www.amazon.fr/dp/B085J3JNPY/?tag=tolees0d-21) con un 34.79 % de descuento con precio de oferta de 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

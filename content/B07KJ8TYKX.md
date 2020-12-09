@@ -14,7 +14,7 @@ currency: EUR
 price: 90.03
 comparePrice: 155.0 EUR
 inStock: true
-prodname: Love Moschino Jc4055pp18lg150a  Sac Messager Mixte Adulte  Rouge  Rosso/Verde   15x5x24 centimeters  W x H x L 
+prodname: 'Love Moschino Jc4055pp18lg150a  Sac Messager Mixte Adulte  Rouge  Rosso/Verde   15x5x24 centimeters  W x H x L '
 ---
 
 Está [Love Moschino Jc4055pp18lg150a  Sac Messager Mixte Adulte  Rouge  Rosso/Verde   15x5x24 centimeters  W x H x L ](https://www.amazon.fr/dp/B07KJ8TYKX/?tag=tolees0d-21) con 41.92 de descuento por 90.03 EUR (original: 155.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 149.0
 comparePrice: 279.0 EUR
 inStock: true
-prodname: Ring Video Doorbell Pro avec adaptateur secteur et Ring Chime  vidéo HD 1080p  système audio bidirectionnel  Wi-Fi  détection mouvements | Essai gratuit de 30 jours à l abonnement Ring Protect inclus
+prodname: 'Ring Video Doorbell Pro avec adaptateur secteur et Ring Chime  vidéo HD 1080p  système audio bidirectionnel  Wi-Fi  détection mouvements | Essai gratuit de 30 jours à l abonnement Ring Protect inclus'
 ---
 
 Tienes [Ring Video Doorbell Pro avec adaptateur secteur et Ring Chime  vidéo HD 1080p  système audio bidirectionnel  Wi-Fi  détection mouvements | Essai gratuit de 30 jours à l abonnement Ring Protect inclus](https://www.amazon.fr/dp/B08M2SXT6P/?tag=tolees0d-21) con un 46.59 % de descuento con precio de oferta de 149.0 EUR (original: 279.0 EUR) en el siguiente enlace!

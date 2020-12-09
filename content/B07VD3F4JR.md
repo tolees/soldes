@@ -14,7 +14,7 @@ currency: EUR
 price: 230.61
 comparePrice: 399.99 EUR
 inStock: true
-prodname: Samsung-Galaxy Watch 4G  R805  - Gris Acier- Version Française
+prodname: 'Samsung-Galaxy Watch 4G  R805  - Gris Acier- Version Française'
 ---
 
 Tienes [Samsung-Galaxy Watch 4G  R805  - Gris Acier- Version Française](https://www.amazon.fr/dp/B07VD3F4JR/?tag=tolees0d-21) con un 42.35 % de descuento con precio de oferta de 230.61 EUR (original: 399.99 EUR) en el siguiente enlace!

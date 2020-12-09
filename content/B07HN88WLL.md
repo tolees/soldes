@@ -14,7 +14,7 @@ currency: EUR
 price: 37.82
 comparePrice: 69.99 EUR
 inStock: true
-prodname: 8-Bit Armies - Limited Edition
+prodname: '8-Bit Armies - Limited Edition'
 ---
 
 Está [8-Bit Armies - Limited Edition](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21) con 45.96 de descuento por 37.82 EUR (original: 69.99 EUR) en el siguiente enlace!

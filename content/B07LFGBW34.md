@@ -14,7 +14,7 @@ currency: EUR
 price: 18.0
 comparePrice: 35.0 EUR
 inStock: true
-prodname: Levi s Slim 2pk Crewneck 1 T-Shirt  Multicolore  2 Pack White + Blue Y/D/Blue + White Y/D Staple Stripe 0005   Large  Lot de 2  Homme
+prodname: 'Levi s Slim 2pk Crewneck 1 T-Shirt  Multicolore  2 Pack White + Blue Y/D/Blue + White Y/D Staple Stripe 0005   Large  Lot de 2  Homme'
 ---
 
 Está [Levi s Slim 2pk Crewneck 1 T-Shirt  Multicolore  2 Pack White + Blue Y/D/Blue + White Y/D Staple Stripe 0005   Large  Lot de 2  Homme](https://www.amazon.fr/dp/B07LFGBW34/?tag=tolees0d-21) con 48.57 de descuento por 18.0 EUR (original: 35.0 EUR) en el siguiente enlace!

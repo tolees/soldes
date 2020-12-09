@@ -14,7 +14,7 @@ currency: EUR
 price: 94.27
 comparePrice: 159.9 EUR
 inStock: true
-prodname: Cristel - M24M - Marmite inox 24cm + couvercle - Collection Mutine
+prodname: 'Cristel - M24M - Marmite inox 24cm + couvercle - Collection Mutine'
 ---
 
 Tienes [Cristel - M24M - Marmite inox 24cm + couvercle - Collection Mutine](https://www.amazon.fr/dp/B00KGAOLJK/?tag=tolees0d-21) con un 41.04 % de descuento con precio de oferta de 94.27 EUR (original: 159.9 EUR) en el siguiente enlace!

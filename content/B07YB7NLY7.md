@@ -14,7 +14,7 @@ currency: EUR
 price: 189.0
 comparePrice: 349.9 EUR
 inStock: true
-prodname: Redmi Note 8 Pro 6 Go RAM+128Go stockage Grey EU
+prodname: 'Redmi Note 8 Pro 6 Go RAM+128Go stockage Grey EU'
 ---
 
 Está [Redmi Note 8 Pro 6 Go RAM+128Go stockage Grey EU](https://www.amazon.fr/dp/B07YB7NLY7/?tag=tolees0d-21) con 45.98 de descuento por 189.0 EUR (original: 349.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 179.99
 comparePrice: 299.99 EUR
 inStock: true
-prodname: Nouvelle Blink Outdoor  Caméra de surveillance HD sans fil  résistante aux intempéries  avec deux ans d autonomie et détection des mouvements | Kit 3 caméras
+prodname: 'Nouvelle Blink Outdoor  Caméra de surveillance HD sans fil  résistante aux intempéries  avec deux ans d autonomie et détection des mouvements | Kit 3 caméras'
 ---
 
 Ahora mismo tienes [Nouvelle Blink Outdoor  Caméra de surveillance HD sans fil  résistante aux intempéries  avec deux ans d autonomie et détection des mouvements | Kit 3 caméras](https://www.amazon.fr/dp/B086DKTYKH/?tag=tolees0d-21) a 179.99 EUR (original: 299.99 EUR) (40.00 %  de descuento) en el siguiente enlace!

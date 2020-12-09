@@ -14,7 +14,7 @@ currency: EUR
 price: 20.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: AOTOZE Oreiller orthopédique pour Genou  Coussin Jambes Ergonomique pour Les Hanches  Le Dos  Les Jambes  Les Genoux  Choix idéal pour Dormir sur Le côté
+prodname: 'AOTOZE Oreiller orthopédique pour Genou  Coussin Jambes Ergonomique pour Les Hanches  Le Dos  Les Jambes  Les Genoux  Choix idéal pour Dormir sur Le côté'
 ---
 
 Ahora mismo tienes [AOTOZE Oreiller orthopédique pour Genou  Coussin Jambes Ergonomique pour Les Hanches  Le Dos  Les Jambes  Les Genoux  Choix idéal pour Dormir sur Le côté](https://www.amazon.fr/dp/B07TV1XXVB/?tag=tolees0d-21) a 20.99 EUR (original: 49.99 EUR) (58.01 %  de descuento) en el siguiente enlace!

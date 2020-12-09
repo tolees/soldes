@@ -14,7 +14,7 @@ currency: EUR
 price: 22.65
 comparePrice: 31.2 EUR
 inStock: true
-prodname: Charrier Parfums Luxe Coffret Top Ten de 10 Eau de Parfums Miniatures Total 57 ml
+prodname: 'Charrier Parfums Luxe Coffret Top Ten de 10 Eau de Parfums Miniatures Total 57 ml'
 ---
 
 Está [Charrier Parfums Luxe Coffret Top Ten de 10 Eau de Parfums Miniatures Total 57 ml](https://www.amazon.fr/dp/B008KZBAII/?tag=tolees0d-21) con 27.40 de descuento por 22.65 EUR (original: 31.2 EUR) en el siguiente enlace!

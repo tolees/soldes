@@ -14,7 +14,7 @@ currency: EUR
 price: 59.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: BRIKSMAX Kit de LED pour Lego Ideas Grand Piano Compatible avec la Maquette Lego 21323  La Maquette de Construction n est Pas Incluse
+prodname: 'BRIKSMAX Kit de LED pour Lego Ideas Grand Piano Compatible avec la Maquette Lego 21323  La Maquette de Construction n est Pas Incluse'
 ---
 
 Tienes [BRIKSMAX Kit de LED pour Lego Ideas Grand Piano Compatible avec la Maquette Lego 21323  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21) con un 25.00 % de descuento con precio de oferta de 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!

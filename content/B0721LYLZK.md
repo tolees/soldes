@@ -14,7 +14,7 @@ currency: EUR
 price: 185.99
 comparePrice: 299.99 EUR
 inStock: true
-prodname: Greenworks Tondeuse à batterie G40LM35K2X  Li-Ion 40V 35cm largeur coupe jusqu à 500m² 2en1 paillage et tonte corbeille  réglage quintuple de la hauteur de coupe avec 2 batteries 2 Ah et chargeur 
+prodname: 'Greenworks Tondeuse à batterie G40LM35K2X  Li-Ion 40V 35cm largeur coupe jusqu à 500m² 2en1 paillage et tonte corbeille  réglage quintuple de la hauteur de coupe avec 2 batteries 2 Ah et chargeur '
 ---
 
 Está [Greenworks Tondeuse à batterie G40LM35K2X  Li-Ion 40V 35cm largeur coupe jusqu à 500m² 2en1 paillage et tonte corbeille  réglage quintuple de la hauteur de coupe avec 2 batteries 2 Ah et chargeur ](https://www.amazon.fr/dp/B0721LYLZK/?tag=tolees0d-21) con 38.00 de descuento por 185.99 EUR (original: 299.99 EUR) en el siguiente enlace!

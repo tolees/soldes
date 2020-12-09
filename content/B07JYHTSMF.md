@@ -14,7 +14,7 @@ currency: EUR
 price: 47.29
 comparePrice: 119.8 EUR
 inStock: true
-prodname: Tommy Hilfiger Short Sleeve Slim Polo   Cerulean 474   X-Large Femme
+prodname: 'Tommy Hilfiger Short Sleeve Slim Polo   Cerulean 474   X-Large Femme'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Short Sleeve Slim Polo   Cerulean 474   X-Large Femme](https://www.amazon.fr/dp/B07JYHTSMF/?tag=tolees0d-21) a 47.29 EUR (original: 119.8 EUR) (60.53 %  de descuento) en el siguiente enlace!

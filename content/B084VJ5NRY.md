@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Enceinte Bluetooth Portable  20W Haut-Parleur Bluetooth Enceinte Portable sans Fil  Pilote Double  Basses Puissantes  Mains Libres  24 Heures Playtime  5200mAh Charge pour Votre Téléphone
+prodname: 'Enceinte Bluetooth Portable  20W Haut-Parleur Bluetooth Enceinte Portable sans Fil  Pilote Double  Basses Puissantes  Mains Libres  24 Heures Playtime  5200mAh Charge pour Votre Téléphone'
 ---
 
 Está [Enceinte Bluetooth Portable  20W Haut-Parleur Bluetooth Enceinte Portable sans Fil  Pilote Double  Basses Puissantes  Mains Libres  24 Heures Playtime  5200mAh Charge pour Votre Téléphone](https://www.amazon.fr/dp/B084VJ5NRY/?tag=tolees0d-21) con 33.34 de descuento por 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

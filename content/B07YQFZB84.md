@@ -14,7 +14,7 @@ currency: EUR
 price: 1.85
 comparePrice: 3.45 EUR
 inStock: true
-prodname: Hansaplast Antiseptiques Alcool 70% Volume
+prodname: 'Hansaplast Antiseptiques Alcool 70% Volume'
 ---
 
 Ahora mismo tienes [Hansaplast Antiseptiques Alcool 70% Volume](https://www.amazon.fr/dp/B07YQFZB84/?tag=tolees0d-21) a 1.85 EUR (original: 3.45 EUR) (46.38 %  de descuento) en el siguiente enlace!

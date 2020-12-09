@@ -14,7 +14,7 @@ currency: EUR
 price: 139.9
 comparePrice: 349.9 EUR
 inStock: true
-prodname: Chicco - Siège-Auto Bébé Youniverse Fix - Groupe 1/2/3 de 9 à 36 kg - Jet Black
+prodname: 'Chicco - Siège-Auto Bébé Youniverse Fix - Groupe 1/2/3 de 9 à 36 kg - Jet Black'
 ---
 
 Tienes [Chicco - Siège-Auto Bébé Youniverse Fix - Groupe 1/2/3 de 9 à 36 kg - Jet Black](https://www.amazon.fr/dp/B07GXCBGVF/?tag=tolees0d-21) con un 60.02 % de descuento con precio de oferta de 139.9 EUR (original: 349.9 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 74.98
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Canadian Peak Parka Homme Antidote Kaki S
+prodname: 'Canadian Peak Parka Homme Antidote Kaki S'
 ---
 
 Tienes [Canadian Peak Parka Homme Antidote Kaki S](https://www.amazon.fr/dp/B0831PPWZX/?tag=tolees0d-21) con un 41.88 % de descuento con precio de oferta de 74.98 EUR (original: 129.0 EUR) en el siguiente enlace!

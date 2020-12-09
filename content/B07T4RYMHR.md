@@ -14,7 +14,7 @@ currency: EUR
 price: 25.99
 comparePrice: 40.13 EUR
 inStock: true
-prodname: Le Prince de Bel-Air-L intégrale des Saisons 1 à 6
+prodname: 'Le Prince de Bel-Air-L intégrale des Saisons 1 à 6'
 ---
 
 Tienes [Le Prince de Bel-Air-L intégrale des Saisons 1 à 6](https://www.amazon.fr/dp/B07T4RYMHR/?tag=tolees0d-21) con un 35.24 % de descuento con precio de oferta de 25.99 EUR (original: 40.13 EUR) en el siguiente enlace!

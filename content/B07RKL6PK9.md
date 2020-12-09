@@ -14,7 +14,7 @@ currency: EUR
 price: 221.23
 comparePrice: 565.99 EUR
 inStock: true
-prodname: SanDisk Extreme Pro Carte mémoire microSDXC 1 To + adaptateur SD jusqu à 170 Mo/s  classe de vitesse UHS 3  U3   V30
+prodname: 'SanDisk Extreme Pro Carte mémoire microSDXC 1 To + adaptateur SD jusqu à 170 Mo/s  classe de vitesse UHS 3  U3   V30'
 ---
 
 Está [SanDisk Extreme Pro Carte mémoire microSDXC 1 To + adaptateur SD jusqu à 170 Mo/s  classe de vitesse UHS 3  U3   V30](https://www.amazon.fr/dp/B07RKL6PK9/?tag=tolees0d-21) con 60.91 de descuento por 221.23 EUR (original: 565.99 EUR) en el siguiente enlace!

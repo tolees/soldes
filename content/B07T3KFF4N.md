@@ -14,7 +14,7 @@ currency: EUR
 price: 64.99
 comparePrice: 120.4 EUR
 inStock: true
-prodname: DC Extended Universe - Collection 7 films [4K Ultra HD + Blu-ray]
+prodname: 'DC Extended Universe - Collection 7 films [4K Ultra HD + Blu-ray]'
 ---
 
 Está [DC Extended Universe - Collection 7 films [4K Ultra HD + Blu-ray]](https://www.amazon.fr/dp/B07T3KFF4N/?tag=tolees0d-21) con 46.02 de descuento por 64.99 EUR (original: 120.4 EUR) en el siguiente enlace!

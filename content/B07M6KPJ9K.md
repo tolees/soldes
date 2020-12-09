@@ -14,7 +14,7 @@ currency: EUR
 price: 129.0
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Datacolor SpyderX Pro – SXP100
+prodname: 'Datacolor SpyderX Pro – SXP100'
 ---
 
 Ahora mismo tienes [Datacolor SpyderX Pro – SXP100](https://www.amazon.fr/dp/B07M6KPJ9K/?tag=tolees0d-21) a 129.0 EUR (original: 179.0 EUR) (27.93 %  de descuento) en el siguiente enlace!

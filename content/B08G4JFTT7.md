@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Housfurd Robinet en Acier Inoxydable 304  Rotation à 360 Degrés  Deux Modes de Sortie D eau  Robinet D évier de Cuisine. Grand robinets d’arc 
+prodname: 'Housfurd Robinet en Acier Inoxydable 304  Rotation à 360 Degrés  Deux Modes de Sortie D eau  Robinet D évier de Cuisine. Grand robinets d’arc '
 ---
 
 Tienes [Housfurd Robinet en Acier Inoxydable 304  Rotation à 360 Degrés  Deux Modes de Sortie D eau  Robinet D évier de Cuisine. Grand robinets d’arc ](https://www.amazon.fr/dp/B08G4JFTT7/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 39.99 EUR (original: 59.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 53.99
 comparePrice: 139.95 EUR
 inStock: true
-prodname: Puma Liga Sideline Bench Long Veste de survêtement Homme  Black White  XXL
+prodname: 'Puma Liga Sideline Bench Long Veste de survêtement Homme  Black White  XXL'
 ---
 
 Tienes [Puma Liga Sideline Bench Long Veste de survêtement Homme  Black White  XXL](https://www.amazon.fr/dp/B078TPBBPC/?tag=tolees0d-21) con un 61.42 % de descuento con precio de oferta de 53.99 EUR (original: 139.95 EUR) en el siguiente enlace!

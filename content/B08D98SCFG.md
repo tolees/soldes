@@ -14,7 +14,7 @@ currency: EUR
 price: 12.89
 comparePrice: 20.98 EUR
 inStock: true
-prodname: Masque Halloween  masque halloween led avec 3 modes d éclairage  masque purge pour costumes Halloween  cosplay  festival et fête  masque halloween led  masque led confortable toute la nuit  3 
+prodname: 'Masque Halloween  masque halloween led avec 3 modes d éclairage  masque purge pour costumes Halloween  cosplay  festival et fête  masque halloween led  masque led confortable toute la nuit  3 '
 ---
 
 Está [Masque Halloween  masque halloween led avec 3 modes d éclairage  masque purge pour costumes Halloween  cosplay  festival et fête  masque halloween led  masque led confortable toute la nuit  3 ](https://www.amazon.fr/dp/B08D98SCFG/?tag=tolees0d-21) con 38.56 de descuento por 12.89 EUR (original: 20.98 EUR) en el siguiente enlace!

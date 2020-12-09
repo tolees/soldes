@@ -14,7 +14,7 @@ currency: EUR
 price: 114.98
 comparePrice: 189.0 EUR
 inStock: true
-prodname: Replay Anbass Jean Slim  Bleu  Dark Blue 7   W28/L32  Taille Fabricant: 28  Homme
+prodname: 'Replay Anbass Jean Slim  Bleu  Dark Blue 7   W28/L32  Taille Fabricant: 28  Homme'
 ---
 
 Ahora mismo tienes [Replay Anbass Jean Slim  Bleu  Dark Blue 7   W28/L32  Taille Fabricant: 28  Homme](https://www.amazon.fr/dp/B07GVHDY66/?tag=tolees0d-21) a 114.98 EUR (original: 189.0 EUR) (39.16 %  de descuento) en el siguiente enlace!

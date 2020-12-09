@@ -14,7 +14,7 @@ currency: EUR
 price: 33.89
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire 
+prodname: 'Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire '
 ---
 
 Tienes [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire ](https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21) con un 43.51 % de descuento con precio de oferta de 33.89 EUR (original: 59.99 EUR) en el siguiente enlace!

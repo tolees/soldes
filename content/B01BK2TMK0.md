@@ -14,7 +14,7 @@ currency: EUR
 price: 40.99
 comparePrice: 64.99 EUR
 inStock: true
-prodname: LEGO-DUPLO L’île tropicale Pour Tout Petits  Fille et Garçon dès 2 Ans  73 Pièces 6 animaux 10906
+prodname: 'LEGO-DUPLO L’île tropicale Pour Tout Petits  Fille et Garçon dès 2 Ans  73 Pièces 6 animaux 10906'
 ---
 
 Está [LEGO-DUPLO L’île tropicale Pour Tout Petits  Fille et Garçon dès 2 Ans  73 Pièces 6 animaux 10906](https://www.amazon.fr/dp/B01BK2TMK0/?tag=tolees0d-21) con 36.93 de descuento por 40.99 EUR (original: 64.99 EUR) en el siguiente enlace!

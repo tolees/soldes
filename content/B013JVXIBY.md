@@ -14,7 +14,7 @@ currency: EUR
 price: 57.99
 comparePrice: 100.0 EUR
 inStock: true
-prodname: Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu  C00088 Pembroke 0142   W33/L32  Taille fabricant: W33/L32 
+prodname: 'Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu  C00088 Pembroke 0142   W33/L32  Taille fabricant: W33/L32 '
 ---
 
 Tienes [Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu  C00088 Pembroke 0142   W33/L32  Taille fabricant: W33/L32 ](https://www.amazon.fr/dp/B013JVXIBY/?tag=tolees0d-21) con un 42.01 % de descuento con precio de oferta de 57.99 EUR (original: 100.0 EUR) en el siguiente enlace!

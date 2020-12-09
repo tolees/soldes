@@ -14,7 +14,7 @@ currency: EUR
 price: 169.99
 comparePrice: 249.99 EUR
 inStock: true
-prodname: Garmin - Dash Cam 66W - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie - Grand angle 180°
+prodname: 'Garmin - Dash Cam 66W - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie - Grand angle 180°'
 ---
 
 Ahora mismo tienes [Garmin - Dash Cam 66W - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie - Grand angle 180°](https://www.amazon.fr/dp/B07RKXKHW9/?tag=tolees0d-21) a 169.99 EUR (original: 249.99 EUR) (32.00 %  de descuento) en el siguiente enlace!

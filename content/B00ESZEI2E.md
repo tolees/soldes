@@ -14,7 +14,7 @@ currency: EUR
 price: 44.99
 comparePrice: 77.99 EUR
 inStock: true
-prodname: Tefal PY559312 Crêpière Colormania 6 crêpes
+prodname: 'Tefal PY559312 Crêpière Colormania 6 crêpes'
 ---
 
 Está [Tefal PY559312 Crêpière Colormania 6 crêpes](https://www.amazon.fr/dp/B00ESZEI2E/?tag=tolees0d-21) con 42.31 de descuento por 44.99 EUR (original: 77.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 140.16
 comparePrice: 299.99 EUR
 inStock: true
-prodname: Razer Sila - Routeur WiFi Haute Vitesse
+prodname: 'Razer Sila - Routeur WiFi Haute Vitesse'
 ---
 
 Ahora mismo tienes [Razer Sila - Routeur WiFi Haute Vitesse](https://www.amazon.fr/dp/B07HR5YVKN/?tag=tolees0d-21) a 140.16 EUR (original: 299.99 EUR) (53.28 %  de descuento) en el siguiente enlace!

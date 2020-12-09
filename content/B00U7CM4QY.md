@@ -14,7 +14,7 @@ currency: EUR
 price: 73.49
 comparePrice: 135.0 EUR
 inStock: true
-prodname: Geox U Brayden 2Fit Abx D  Desert Boots homme  Marron  COFFEEC6009   43 EU
+prodname: 'Geox U Brayden 2Fit Abx D  Desert Boots homme  Marron  COFFEEC6009   43 EU'
 ---
 
 Está [Geox U Brayden 2Fit Abx D  Desert Boots homme  Marron  COFFEEC6009   43 EU](https://www.amazon.fr/dp/B00U7CM4QY/?tag=tolees0d-21) con 45.56 de descuento por 73.49 EUR (original: 135.0 EUR) en el siguiente enlace!

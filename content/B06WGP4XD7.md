@@ -14,7 +14,7 @@ currency: EUR
 price: 17.99
 comparePrice: 24.99 EUR
 inStock: true
-prodname: PlayStation 2 Console de Jeux Noir Portefeuille
+prodname: 'PlayStation 2 Console de Jeux Noir Portefeuille'
 ---
 
 Ahora mismo tienes [PlayStation 2 Console de Jeux Noir Portefeuille](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21) a 17.99 EUR (original: 24.99 EUR) (28.01 %  de descuento) en el siguiente enlace!

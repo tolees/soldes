@@ -14,7 +14,7 @@ currency: EUR
 price: 139.01
 comparePrice: 209.95 EUR
 inStock: true
-prodname: GORE WEAR C5 Active Veste Femme  Noir  FR : S  Taille Fabricant : 36 
+prodname: 'GORE WEAR C5 Active Veste Femme  Noir  FR : S  Taille Fabricant : 36 '
 ---
 
 Ahora mismo tienes [GORE WEAR C5 Active Veste Femme  Noir  FR : S  Taille Fabricant : 36 ](https://www.amazon.fr/dp/B075QM1KSB/?tag=tolees0d-21) a 139.01 EUR (original: 209.95 EUR) (33.79 %  de descuento) en el siguiente enlace!

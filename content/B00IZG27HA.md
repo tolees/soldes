@@ -14,7 +14,7 @@ currency: EUR
 price: 39.91
 comparePrice: 80.0 EUR
 inStock: true
-prodname: J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture
+prodname: 'J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture'
 ---
 
 Está [J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21) con 50.11 de descuento por 39.91 EUR (original: 80.0 EUR) en el siguiente enlace!

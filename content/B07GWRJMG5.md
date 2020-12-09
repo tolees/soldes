@@ -14,7 +14,7 @@ currency: EUR
 price: 34.0
 comparePrice: 74.0 EUR
 inStock: true
-prodname: FREEGUN Lot 5 DE Boxers Flag Homme Taille L …
+prodname: 'FREEGUN Lot 5 DE Boxers Flag Homme Taille L …'
 ---
 
 Ahora mismo tienes [FREEGUN Lot 5 DE Boxers Flag Homme Taille L …](https://www.amazon.fr/dp/B07GWRJMG5/?tag=tolees0d-21) a 34.0 EUR (original: 74.0 EUR) (54.05 %  de descuento) en el siguiente enlace!

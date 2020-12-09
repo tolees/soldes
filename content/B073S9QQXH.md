@@ -14,7 +14,7 @@ currency: EUR
 price: 106.46
 comparePrice: 219.99 EUR
 inStock: true
-prodname: Jabra Écouteurs Elite Sport – Écouteurs sans Fil avec Application de Fitness Intégrée pour les Appels et la Musique – Noir
+prodname: 'Jabra Écouteurs Elite Sport – Écouteurs sans Fil avec Application de Fitness Intégrée pour les Appels et la Musique – Noir'
 ---
 
 Ahora mismo tienes [Jabra Écouteurs Elite Sport – Écouteurs sans Fil avec Application de Fitness Intégrée pour les Appels et la Musique – Noir](https://www.amazon.fr/dp/B073S9QQXH/?tag=tolees0d-21) a 106.46 EUR (original: 219.99 EUR) (51.61 %  de descuento) en el siguiente enlace!

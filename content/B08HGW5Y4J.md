@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 49.99 EUR
 inStock: true
-prodname: Hoepaid Pèse Personne Électronique Balance de Salle de Bain Balance Connectée Glass Pèse-Personne Bluetooth avec 17 Données Corporelles
+prodname: 'Hoepaid Pèse Personne Électronique Balance de Salle de Bain Balance Connectée Glass Pèse-Personne Bluetooth avec 17 Données Corporelles'
 ---
 
 Tienes [Hoepaid Pèse Personne Électronique Balance de Salle de Bain Balance Connectée Glass Pèse-Personne Bluetooth avec 17 Données Corporelles](https://www.amazon.fr/dp/B08HGW5Y4J/?tag=tolees0d-21) con un 34.01 % de descuento con precio de oferta de 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

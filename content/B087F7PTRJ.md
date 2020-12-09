@@ -14,7 +14,7 @@ currency: EUR
 price: 7.99
 comparePrice: 12.99 EUR
 inStock: true
-prodname: CEEPUY Coque Airpods  Housses en Silicone Compatible pour AirPods 1&2 Case Cover Étuis en Protection Antichoc[Face Avant Visible] Violet
+prodname: 'CEEPUY Coque Airpods  Housses en Silicone Compatible pour AirPods 1&2 Case Cover Étuis en Protection Antichoc[Face Avant Visible] Violet'
 ---
 
 Tienes [CEEPUY Coque Airpods  Housses en Silicone Compatible pour AirPods 1&2 Case Cover Étuis en Protection Antichoc[Face Avant Visible] Violet](https://www.amazon.fr/dp/B087F7PTRJ/?tag=tolees0d-21) con un 38.49 % de descuento con precio de oferta de 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!

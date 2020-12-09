@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 42.42 EUR
 inStock: true
-prodname: Oral-B Crossaction Brossettes De Rechange CleanMaximiser x10  Recharge Originale Pour Brosse À Dents Électrique
+prodname: 'Oral-B Crossaction Brossettes De Rechange CleanMaximiser x10  Recharge Originale Pour Brosse À Dents Électrique'
 ---
 
 Tienes [Oral-B Crossaction Brossettes De Rechange CleanMaximiser x10  Recharge Originale Pour Brosse À Dents Électrique](https://www.amazon.fr/dp/B086TX9BWR/?tag=tolees0d-21) con un 36.37 % de descuento con precio de oferta de 26.99 EUR (original: 42.42 EUR) en el siguiente enlace!

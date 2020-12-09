@@ -14,7 +14,7 @@ currency: EUR
 price: 69.99
 comparePrice: 109.99 EUR
 inStock: true
-prodname: Razer Seiren X Mercury Microphone à Condensateur Pour eux Vidéo - Amortisseur de Chocs Intégré - Microphone Streaming de Qualité Professionnelle
+prodname: 'Razer Seiren X Mercury Microphone à Condensateur Pour eux Vidéo - Amortisseur de Chocs Intégré - Microphone Streaming de Qualité Professionnelle'
 ---
 
 Está [Razer Seiren X Mercury Microphone à Condensateur Pour eux Vidéo - Amortisseur de Chocs Intégré - Microphone Streaming de Qualité Professionnelle](https://www.amazon.fr/dp/B07R5NCDMY/?tag=tolees0d-21) con 36.37 de descuento por 69.99 EUR (original: 109.99 EUR) en el siguiente enlace!

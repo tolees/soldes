@@ -14,7 +14,7 @@ currency: EUR
 price: 37.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Manette sans fil pour Nintendo Switch  Maegoo mini Manettes Controleur de Jeu pour Switch Joy Con  Gamepad Joystick Manette de Jeu Bluetooth avec Dual shock pour Nintendo Switch  Bleu + Rouge 
+prodname: 'Manette sans fil pour Nintendo Switch  Maegoo mini Manettes Controleur de Jeu pour Switch Joy Con  Gamepad Joystick Manette de Jeu Bluetooth avec Dual shock pour Nintendo Switch  Bleu + Rouge '
 ---
 
 Está [Manette sans fil pour Nintendo Switch  Maegoo mini Manettes Controleur de Jeu pour Switch Joy Con  Gamepad Joystick Manette de Jeu Bluetooth avec Dual shock pour Nintendo Switch  Bleu + Rouge ](https://www.amazon.fr/dp/B08CSBGBP3/?tag=tolees0d-21) con 36.67 de descuento por 37.99 EUR (original: 59.99 EUR) en el siguiente enlace!

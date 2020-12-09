@@ -14,7 +14,7 @@ currency: EUR
 price: 61.99
 comparePrice: 119.0 EUR
 inStock: true
-prodname: AEG 005072 Outil de Diagnostic Auto OBD2 Evolution
+prodname: 'AEG 005072 Outil de Diagnostic Auto OBD2 Evolution'
 ---
 
 Tienes [AEG 005072 Outil de Diagnostic Auto OBD2 Evolution](https://www.amazon.fr/dp/B077YDLH3T/?tag=tolees0d-21) con un 47.91 % de descuento con precio de oferta de 61.99 EUR (original: 119.0 EUR) en el siguiente enlace!

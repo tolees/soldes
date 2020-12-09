@@ -14,7 +14,7 @@ currency: EUR
 price: 126.03
 comparePrice: 229.99 EUR
 inStock: true
-prodname: Capcom Home Arcade
+prodname: 'Capcom Home Arcade'
 ---
 
 Ahora mismo tienes [Capcom Home Arcade](https://www.amazon.fr/dp/B07RLHNDQK/?tag=tolees0d-21) a 126.03 EUR (original: 229.99 EUR) (45.20 %  de descuento) en el siguiente enlace!

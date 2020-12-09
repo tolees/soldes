@@ -14,7 +14,7 @@ currency: EUR
 price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Control - Xbox One
+prodname: 'Control - Xbox One'
 ---
 
 Ahora mismo tienes [Control - Xbox One](https://www.amazon.fr/dp/B07PYJ45TB/?tag=tolees0d-21) a 29.99 EUR (original: 59.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

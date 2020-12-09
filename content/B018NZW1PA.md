@@ -14,7 +14,7 @@ currency: EUR
 price: 68.63
 comparePrice: 160.0 EUR
 inStock: true
-prodname: G.H. Bass & Co. Penny  Mocassins Femme  Multicolore  Black & White Leather 001   37 EU
+prodname: 'G.H. Bass & Co. Penny  Mocassins Femme  Multicolore  Black & White Leather 001   37 EU'
 ---
 
 Está [G.H. Bass & Co. Penny  Mocassins Femme  Multicolore  Black & White Leather 001   37 EU](https://www.amazon.fr/dp/B018NZW1PA/?tag=tolees0d-21) con 57.11 de descuento por 68.63 EUR (original: 160.0 EUR) en el siguiente enlace!

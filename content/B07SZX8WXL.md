@@ -14,7 +14,7 @@ currency: EUR
 price: 32.5
 comparePrice: 75.0 EUR
 inStock: true
-prodname: Kickers Bonbon-2  Bottes & Bottines Mixte bébé  Vert  Vert Tricolore 63   26 EU
+prodname: 'Kickers Bonbon-2  Bottes & Bottines Mixte bébé  Vert  Vert Tricolore 63   26 EU'
 ---
 
 Está [Kickers Bonbon-2  Bottes & Bottines Mixte bébé  Vert  Vert Tricolore 63   26 EU](https://www.amazon.fr/dp/B07SZX8WXL/?tag=tolees0d-21) con 56.67 de descuento por 32.5 EUR (original: 75.0 EUR) en el siguiente enlace!

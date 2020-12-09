@@ -14,7 +14,7 @@ currency: EUR
 price: 110.99
 comparePrice: 200.3 EUR
 inStock: true
-prodname: Inspecteur Barnaby-Coffret Saisons 1 à 20
+prodname: 'Inspecteur Barnaby-Coffret Saisons 1 à 20'
 ---
 
 Está [Inspecteur Barnaby-Coffret Saisons 1 à 20](https://www.amazon.fr/dp/B07SZGT1CS/?tag=tolees0d-21) con 44.59 de descuento por 110.99 EUR (original: 200.3 EUR) en el siguiente enlace!

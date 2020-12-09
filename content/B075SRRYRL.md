@@ -14,7 +14,7 @@ currency: EUR
 price: 15.19
 comparePrice: 35.95 EUR
 inStock: true
-prodname: yoptote Fruits à Couper en Bois et Lègumes à Découper Jeu de Jouets de Coupe de Légumes en Bois pour Enfants Cadeau de Noël 3 4 5 Ans
+prodname: 'yoptote Fruits à Couper en Bois et Lègumes à Découper Jeu de Jouets de Coupe de Légumes en Bois pour Enfants Cadeau de Noël 3 4 5 Ans'
 ---
 
 Está [yoptote Fruits à Couper en Bois et Lègumes à Découper Jeu de Jouets de Coupe de Légumes en Bois pour Enfants Cadeau de Noël 3 4 5 Ans](https://www.amazon.fr/dp/B075SRRYRL/?tag=tolees0d-21) con 57.75 de descuento por 15.19 EUR (original: 35.95 EUR) en el siguiente enlace!

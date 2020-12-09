@@ -14,7 +14,7 @@ currency: EUR
 price: 104.9
 comparePrice: 165.0 EUR
 inStock: true
-prodname: Gong - Chau gong/Tam-tam gong traditionnel 16" : 40cm - Instrument de musique fabriqué main  qualité supérieure et son unique – Musique  méditation  relaxation  décoration
+prodname: 'Gong - Chau gong/Tam-tam gong traditionnel 16" : 40cm - Instrument de musique fabriqué main  qualité supérieure et son unique – Musique  méditation  relaxation  décoration'
 ---
 
 Está [Gong - Chau gong/Tam-tam gong traditionnel 16" : 40cm - Instrument de musique fabriqué main  qualité supérieure et son unique – Musique  méditation  relaxation  décoration](https://www.amazon.fr/dp/B07SJTG6VY/?tag=tolees0d-21) con 36.42 de descuento por 104.9 EUR (original: 165.0 EUR) en el siguiente enlace!

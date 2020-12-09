@@ -14,7 +14,7 @@ currency: EUR
 price: 75.57
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Pure Jongo T2 Enceinte Portable Bluetooth Piano
+prodname: 'Pure Jongo T2 Enceinte Portable Bluetooth Piano'
 ---
 
 Ahora mismo tienes [Pure Jongo T2 Enceinte Portable Bluetooth Piano](https://www.amazon.fr/dp/B00DWOXU44/?tag=tolees0d-21) a 75.57 EUR (original: 179.99 EUR) (58.01 %  de descuento) en el siguiente enlace!

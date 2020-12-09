@@ -14,7 +14,7 @@ currency: EUR
 price: 32.99
 comparePrice: 47.99 EUR
 inStock: true
-prodname: KESU 256Go SSD Interne-Jusqu’à 550 MB/s  3D NAND  SATA  2 5 Pouces  - Aleación de aluminio
+prodname: 'KESU 256Go SSD Interne-Jusqu’à 550 MB/s  3D NAND  SATA  2 5 Pouces  - Aleación de aluminio'
 ---
 
 Ahora mismo tienes [KESU 256Go SSD Interne-Jusqu’à 550 MB/s  3D NAND  SATA  2 5 Pouces  - Aleación de aluminio](https://www.amazon.fr/dp/B08DFZ6KF6/?tag=tolees0d-21) a 32.99 EUR (original: 47.99 EUR) (31.26 %  de descuento) en el siguiente enlace!

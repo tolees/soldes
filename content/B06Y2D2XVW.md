@@ -14,7 +14,7 @@ currency: EUR
 price: 19.95
 comparePrice: 37.07 EUR
 inStock: true
-prodname: Wella WLP165 Masque Fusion Intense Repair 500 ml
+prodname: 'Wella WLP165 Masque Fusion Intense Repair 500 ml'
 ---
 
 Tienes [Wella WLP165 Masque Fusion Intense Repair 500 ml](https://www.amazon.fr/dp/B06Y2D2XVW/?tag=tolees0d-21) con un 46.18 % de descuento con precio de oferta de 19.95 EUR (original: 37.07 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 71.89
 comparePrice: 169.0 EUR
 inStock: true
-prodname: Samsonite Valise  115776/1408  gris  Gris  - 115776/1408
+prodname: 'Samsonite Valise  115776/1408  gris  Gris  - 115776/1408'
 ---
 
 Tienes [Samsonite Valise  115776/1408  gris  Gris  - 115776/1408](https://www.amazon.fr/dp/B07N9JD7YB/?tag=tolees0d-21) con un 57.46 % de descuento con precio de oferta de 71.89 EUR (original: 169.0 EUR) en el siguiente enlace!

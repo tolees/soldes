@@ -14,7 +14,7 @@ currency: EUR
 price: 92.3
 comparePrice: 129.0 EUR
 inStock: true
-prodname: Polti Vaporella Simply VS10.12  Centrale Vapeur 6 5 BAR pompe  large réservoir amovible 1.5 L  fonction ECO  temps de chauffe 2 minutes
+prodname: 'Polti Vaporella Simply VS10.12  Centrale Vapeur 6 5 BAR pompe  large réservoir amovible 1.5 L  fonction ECO  temps de chauffe 2 minutes'
 ---
 
 Ahora mismo tienes [Polti Vaporella Simply VS10.12  Centrale Vapeur 6 5 BAR pompe  large réservoir amovible 1.5 L  fonction ECO  temps de chauffe 2 minutes](https://www.amazon.fr/dp/B07FZ3VX3P/?tag=tolees0d-21) a 92.3 EUR (original: 129.0 EUR) (28.45 %  de descuento) en el siguiente enlace!

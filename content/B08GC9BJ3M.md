@@ -14,7 +14,7 @@ currency: EUR
 price: 26.99
 comparePrice: 45.99 EUR
 inStock: true
-prodname: Tondeuse Cheveux Hommes  2 Vitesses Réglables Tondeuse Barbe et Cheveux de Précision 0mm - Sans Fil Tondeuse à Cheveux Professionnel avec Affichage LCD  pour Usage Domestique et Salon de Coiffure
+prodname: 'Tondeuse Cheveux Hommes  2 Vitesses Réglables Tondeuse Barbe et Cheveux de Précision 0mm - Sans Fil Tondeuse à Cheveux Professionnel avec Affichage LCD  pour Usage Domestique et Salon de Coiffure'
 ---
 
 Tienes [Tondeuse Cheveux Hommes  2 Vitesses Réglables Tondeuse Barbe et Cheveux de Précision 0mm - Sans Fil Tondeuse à Cheveux Professionnel avec Affichage LCD  pour Usage Domestique et Salon de Coiffure](https://www.amazon.fr/dp/B08GC9BJ3M/?tag=tolees0d-21) con un 41.31 % de descuento con precio de oferta de 26.99 EUR (original: 45.99 EUR) en el siguiente enlace!

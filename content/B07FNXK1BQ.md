@@ -14,7 +14,7 @@ currency: EUR
 price: 119.4
 comparePrice: 199.0 EUR
 inStock: true
-prodname: Seiko Horloge SUR271P1
+prodname: 'Seiko Horloge SUR271P1'
 ---
 
 Ahora mismo tienes [Seiko Horloge SUR271P1](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21) a 119.4 EUR (original: 199.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

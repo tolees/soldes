@@ -14,7 +14,7 @@ currency: EUR
 price: 168.94
 comparePrice: 229.99 EUR
 inStock: true
-prodname: LG UltraWide 29WL50S-B  Moniteur 21:9 Full HD IPS 29    2560x1080  5ms  sRGB 99%  HDMI  HDR  FreeSync  Hauts Parleurs 
+prodname: 'LG UltraWide 29WL50S-B  Moniteur 21:9 Full HD IPS 29    2560x1080  5ms  sRGB 99%  HDMI  HDR  FreeSync  Hauts Parleurs '
 ---
 
 Ahora mismo tienes [LG UltraWide 29WL50S-B  Moniteur 21:9 Full HD IPS 29    2560x1080  5ms  sRGB 99%  HDMI  HDR  FreeSync  Hauts Parleurs ](https://www.amazon.fr/dp/B07XTW5FPH/?tag=tolees0d-21) a 168.94 EUR (original: 229.99 EUR) (26.54 %  de descuento) en el siguiente enlace!

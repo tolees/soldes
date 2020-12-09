@@ -14,13 +14,15 @@ currency: EUR
 price: 289.04
 comparePrice: 459.0 EUR
 inStock: true
-prodname: Samyang 50 mm / F 1.4 AS UMC Objectifs
+prodname: 'Samyang 50 mm / F 1.4 AS UMC Objectifs'
 ---
 
-Ahora mismo tienes [Samyang 50 mm / F 1.4 AS UMC Objectifs](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21) a 289.04 EUR (original: 459.0 EUR) (37.03 %  de descuento) en el siguiente enlace!
+Está [Samyang 50 mm / F 1.4 AS UMC Objectifs](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21) con 37.03 de descuento por 289.04 EUR (original: 459.0 EUR) en el siguiente enlace!
 
 [![Samyang 50 mm / F 1.4 AS UMC Objectifs](https://m.media-amazon.com/images/I/51Gceewgo+L._SL200_.jpg)](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

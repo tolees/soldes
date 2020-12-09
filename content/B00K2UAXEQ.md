@@ -14,7 +14,7 @@ currency: EUR
 price: 21.1
 comparePrice: 40.0 EUR
 inStock: true
-prodname: Oral-B CrossAction Brossettes de Rechange pour Brosse à Dents Électrique x8
+prodname: 'Oral-B CrossAction Brossettes de Rechange pour Brosse à Dents Électrique x8'
 ---
 
 Está [Oral-B CrossAction Brossettes de Rechange pour Brosse à Dents Électrique x8](https://www.amazon.fr/dp/B00K2UAXEQ/?tag=tolees0d-21) con 47.25 de descuento por 21.1 EUR (original: 40.0 EUR) en el siguiente enlace!

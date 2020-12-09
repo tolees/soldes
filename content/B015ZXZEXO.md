@@ -14,7 +14,7 @@ currency: EUR
 price: 125.71
 comparePrice: 199.99 EUR
 inStock: true
-prodname: SteelSeries Siberia 650- Casque Gaming- Son Surround Dolby 7.1- Illumination RGB- Logiciel de configuration-  PC / Mac  - Blanc
+prodname: 'SteelSeries Siberia 650- Casque Gaming- Son Surround Dolby 7.1- Illumination RGB- Logiciel de configuration-  PC / Mac  - Blanc'
 ---
 
 Tienes [SteelSeries Siberia 650- Casque Gaming- Son Surround Dolby 7.1- Illumination RGB- Logiciel de configuration-  PC / Mac  - Blanc](https://www.amazon.fr/dp/B015ZXZEXO/?tag=tolees0d-21) con un 37.14 % de descuento con precio de oferta de 125.71 EUR (original: 199.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 35.99
 comparePrice: 68.99 EUR
 inStock: true
-prodname: SanDisk Extreme PRO 128 Go : clé USB 3.1 SSD avec vitesses de lecture jusqu à 420 Mo/s et vitesses d écriture jusqu à 380 Mo/s
+prodname: 'SanDisk Extreme PRO 128 Go : clé USB 3.1 SSD avec vitesses de lecture jusqu à 420 Mo/s et vitesses d écriture jusqu à 380 Mo/s'
 ---
 
 Ahora mismo tienes [SanDisk Extreme PRO 128 Go : clé USB 3.1 SSD avec vitesses de lecture jusqu à 420 Mo/s et vitesses d écriture jusqu à 380 Mo/s](https://www.amazon.fr/dp/B01MU8TZRV/?tag=tolees0d-21) a 35.99 EUR (original: 68.99 EUR) (47.83 %  de descuento) en el siguiente enlace!

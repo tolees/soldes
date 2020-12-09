@@ -14,7 +14,7 @@ currency: EUR
 price: 32.95
 comparePrice: 59.95 EUR
 inStock: true
-prodname: PUMA Carina L  Sneakers Basses Femme  White-White-Silver  39 EU
+prodname: 'PUMA Carina L  Sneakers Basses Femme  White-White-Silver  39 EU'
 ---
 
 Está [PUMA Carina L  Sneakers Basses Femme  White-White-Silver  39 EU](https://www.amazon.fr/dp/B07JGHHVS8/?tag=tolees0d-21) con 45.04 de descuento por 32.95 EUR (original: 59.95 EUR) en el siguiente enlace!

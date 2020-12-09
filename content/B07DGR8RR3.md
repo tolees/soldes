@@ -14,7 +14,7 @@ currency: EUR
 price: 129.66
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Philips Hue White Ambiance ADORE Barre de Spots salle de bain 3 x 5 5 W - Blanc  télécommande incluse 
+prodname: 'Philips Hue White Ambiance ADORE Barre de Spots salle de bain 3 x 5 5 W - Blanc  télécommande incluse '
 ---
 
 Está [Philips Hue White Ambiance ADORE Barre de Spots salle de bain 3 x 5 5 W - Blanc  télécommande incluse ](https://www.amazon.fr/dp/B07DGR8RR3/?tag=tolees0d-21) con 27.96 de descuento por 129.66 EUR (original: 179.99 EUR) en el siguiente enlace!

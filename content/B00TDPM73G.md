@@ -14,7 +14,7 @@ currency: EUR
 price: 36.49
 comparePrice: 112.47 EUR
 inStock: true
-prodname: Versa - Tabouret de chamdre avec Romantic Patchwork
+prodname: 'Versa - Tabouret de chamdre avec Romantic Patchwork'
 ---
 
 Está [Versa - Tabouret de chamdre avec Romantic Patchwork](https://www.amazon.fr/dp/B00TDPM73G/?tag=tolees0d-21) con 67.56 de descuento por 36.49 EUR (original: 112.47 EUR) en el siguiente enlace!

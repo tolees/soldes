@@ -14,7 +14,7 @@ currency: EUR
 price: 63.99
 comparePrice: 111.7 EUR
 inStock: true
-prodname: Disque Dur Externe 2to USB3.0 Disque Dur Externe Portable 2.5" HDD pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 2To Bleu 
+prodname: 'Disque Dur Externe 2to USB3.0 Disque Dur Externe Portable 2.5" HDD pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 2To Bleu '
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2to USB3.0 Disque Dur Externe Portable 2.5" HDD pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 2To Bleu ](https://www.amazon.fr/dp/B08LG95QDF/?tag=tolees0d-21) a 63.99 EUR (original: 111.7 EUR) (42.71 %  de descuento) en el siguiente enlace!

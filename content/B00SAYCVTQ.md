@@ -14,7 +14,7 @@ currency: EUR
 price: 64.29
 comparePrice: 99.99 EUR
 inStock: true
-prodname: HyperX KHX-HSCP-GM Cloud II - Casque Gaming avec Micro pour PC/PS4/Mac  Gris
+prodname: 'HyperX KHX-HSCP-GM Cloud II - Casque Gaming avec Micro pour PC/PS4/Mac  Gris'
 ---
 
 Ahora mismo tienes [HyperX KHX-HSCP-GM Cloud II - Casque Gaming avec Micro pour PC/PS4/Mac  Gris](https://www.amazon.fr/dp/B00SAYCVTQ/?tag=tolees0d-21) a 64.29 EUR (original: 99.99 EUR) (35.70 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 99.99
 comparePrice: 179.99 EUR
 inStock: true
-prodname: Philips HR2345/19 Machine à Pâte Automatique  4 Disques de Forme  Blanc
+prodname: 'Philips HR2345/19 Machine à Pâte Automatique  4 Disques de Forme  Blanc'
 ---
 
 Tienes [Philips HR2345/19 Machine à Pâte Automatique  4 Disques de Forme  Blanc](https://www.amazon.fr/dp/B06XBK78PZ/?tag=tolees0d-21) con un 44.45 % de descuento con precio de oferta de 99.99 EUR (original: 179.99 EUR) en el siguiente enlace!

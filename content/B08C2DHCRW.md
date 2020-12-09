@@ -14,7 +14,7 @@ currency: EUR
 price: 9.99
 comparePrice: 15.99 EUR
 inStock: true
-prodname: LK [2+2 Pièces Protection Écran pour Samsung Galaxy S20  6.2 Pouce  + Caméra Arrière Protecteur pour Samsung Galaxy S20 [Double Protection  Haute Transparence  Anti-Rayures] ，LK-X-20
+prodname: 'LK [2+2 Pièces Protection Écran pour Samsung Galaxy S20  6.2 Pouce  + Caméra Arrière Protecteur pour Samsung Galaxy S20 [Double Protection  Haute Transparence  Anti-Rayures] ，LK-X-20'
 ---
 
 Ahora mismo tienes [LK [2+2 Pièces Protection Écran pour Samsung Galaxy S20  6.2 Pouce  + Caméra Arrière Protecteur pour Samsung Galaxy S20 [Double Protection  Haute Transparence  Anti-Rayures] ，LK-X-20](https://www.amazon.fr/dp/B08C2DHCRW/?tag=tolees0d-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

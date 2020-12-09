@@ -14,7 +14,7 @@ currency: EUR
 price: 69.0
 comparePrice: 135.0 EUR
 inStock: true
-prodname: MVMT Homme Montre D-MC02-BLBL
+prodname: 'MVMT Homme Montre D-MC02-BLBL'
 ---
 
 Tienes [MVMT Homme Montre D-MC02-BLBL](https://www.amazon.fr/dp/B07FKC6RHG/?tag=tolees0d-21) con un 48.89 % de descuento con precio de oferta de 69.0 EUR (original: 135.0 EUR) en el siguiente enlace!

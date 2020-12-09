@@ -14,7 +14,7 @@ currency: EUR
 price: 35.9
 comparePrice: 70.0 EUR
 inStock: true
-prodname: Oral-B Junior Smart Brosse À Dents Électrique Par Braun
+prodname: 'Oral-B Junior Smart Brosse À Dents Électrique Par Braun'
 ---
 
 Ahora mismo tienes [Oral-B Junior Smart Brosse À Dents Électrique Par Braun](https://www.amazon.fr/dp/B07RVKRRPL/?tag=tolees0d-21) a 35.9 EUR (original: 70.0 EUR) (48.71 %  de descuento) en el siguiente enlace!

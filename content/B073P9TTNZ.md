@@ -14,7 +14,7 @@ currency: EUR
 price: 76.07
 comparePrice: 119.0 EUR
 inStock: true
-prodname: DJI - Care Refresh Garantie Pour Mavic Pro  Valide Pour 12 Mois  | Propose Deux Remplacements d Unités En Un An | Assistance Rapide | Garantie Pour Drone | Accessoires DJI Mavic Pro
+prodname: 'DJI - Care Refresh Garantie Pour Mavic Pro  Valide Pour 12 Mois  | Propose Deux Remplacements d Unités En Un An | Assistance Rapide | Garantie Pour Drone | Accessoires DJI Mavic Pro'
 ---
 
 Está [DJI - Care Refresh Garantie Pour Mavic Pro  Valide Pour 12 Mois  | Propose Deux Remplacements d Unités En Un An | Assistance Rapide | Garantie Pour Drone | Accessoires DJI Mavic Pro](https://www.amazon.fr/dp/B073P9TTNZ/?tag=tolees0d-21) con 36.08 de descuento por 76.07 EUR (original: 119.0 EUR) en el siguiente enlace!

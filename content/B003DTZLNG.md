@@ -14,7 +14,7 @@ currency: EUR
 price: 89.9
 comparePrice: 139.0 EUR
 inStock: true
-prodname: COGNAC CAMUS XO Elégance - 70cl 40° - Maison Indépendante Depuis 1863
+prodname: 'COGNAC CAMUS XO Elégance - 70cl 40° - Maison Indépendante Depuis 1863'
 ---
 
 Ahora mismo tienes [COGNAC CAMUS XO Elégance - 70cl 40° - Maison Indépendante Depuis 1863](https://www.amazon.fr/dp/B003DTZLNG/?tag=tolees0d-21) a 89.9 EUR (original: 139.0 EUR) (35.32 %  de descuento) en el siguiente enlace!

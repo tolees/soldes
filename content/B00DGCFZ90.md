@@ -14,7 +14,7 @@ currency: EUR
 price: 13.04
 comparePrice: 19.99 EUR
 inStock: true
-prodname: Robin des Bois [Blu-Ray]
+prodname: 'Robin des Bois [Blu-Ray]'
 ---
 
 Ahora mismo tienes [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21) a 13.04 EUR (original: 19.99 EUR) (34.77 %  de descuento) en el siguiente enlace!

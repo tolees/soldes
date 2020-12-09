@@ -14,7 +14,7 @@ currency: EUR
 price: 44.49
 comparePrice: 59.99 EUR
 inStock: true
-prodname: Pikmin 3 Deluxe  Nintendo Switch   Édition française
+prodname: 'Pikmin 3 Deluxe  Nintendo Switch   Édition française'
 ---
 
 Ahora mismo tienes [Pikmin 3 Deluxe  Nintendo Switch   Édition française](https://www.amazon.fr/dp/B08FCZQ54K/?tag=tolees0d-21) a 44.49 EUR (original: 59.99 EUR) (25.84 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 20.95
 comparePrice: 30.08 EUR
 inStock: true
-prodname: Strike Back : Project Dawn - Cinemax Saisons 1 & 2 - DVD - HBO
+prodname: 'Strike Back : Project Dawn - Cinemax Saisons 1 & 2 - DVD - HBO'
 ---
 
 Ahora mismo tienes [Strike Back : Project Dawn - Cinemax Saisons 1 & 2 - DVD - HBO](https://www.amazon.fr/dp/B00U7TBED6/?tag=tolees0d-21) a 20.95 EUR (original: 30.08 EUR) (30.35 %  de descuento) en el siguiente enlace!

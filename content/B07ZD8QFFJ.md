@@ -14,7 +14,7 @@ currency: EUR
 price: 199.99
 comparePrice: 299.99 EUR
 inStock: true
-prodname: CHiQ L32H7N HD Smart TV  32 Pouces  WiFi  Netflix  Youtube  Prime Video  Facebook  HDR  DVB-T2/C/S2 Frameless Design
+prodname: 'CHiQ L32H7N HD Smart TV  32 Pouces  WiFi  Netflix  Youtube  Prime Video  Facebook  HDR  DVB-T2/C/S2 Frameless Design'
 ---
 
 Tienes [CHiQ L32H7N HD Smart TV  32 Pouces  WiFi  Netflix  Youtube  Prime Video  Facebook  HDR  DVB-T2/C/S2 Frameless Design](https://www.amazon.fr/dp/B07ZD8QFFJ/?tag=tolees0d-21) con un 33.33 % de descuento con precio de oferta de 199.99 EUR (original: 299.99 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 45.45
 comparePrice: 64.95 EUR
 inStock: true
-prodname: Skechers GO Run 400 V2  Baskets Homme  Textile Noir Noir avec Bordure Grise synthétique  46 EU
+prodname: 'Skechers GO Run 400 V2  Baskets Homme  Textile Noir Noir avec Bordure Grise synthétique  46 EU'
 ---
 
 Ahora mismo tienes [Skechers GO Run 400 V2  Baskets Homme  Textile Noir Noir avec Bordure Grise synthétique  46 EU](https://www.amazon.fr/dp/B07XMFBTHD/?tag=tolees0d-21) a 45.45 EUR (original: 64.95 EUR) (30.02 %  de descuento) en el siguiente enlace!

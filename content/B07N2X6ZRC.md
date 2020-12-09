@@ -14,7 +14,7 @@ currency: EUR
 price: 39.0
 comparePrice: 79.9 EUR
 inStock: true
-prodname: Tommy Jeans TJM Tommy Classics Sweatpant Pantalon  Bleu  Black Iris Cbk   W32  Taille Fabricant: Large  Homme
+prodname: 'Tommy Jeans TJM Tommy Classics Sweatpant Pantalon  Bleu  Black Iris Cbk   W32  Taille Fabricant: Large  Homme'
 ---
 
 Está [Tommy Jeans TJM Tommy Classics Sweatpant Pantalon  Bleu  Black Iris Cbk   W32  Taille Fabricant: Large  Homme](https://www.amazon.fr/dp/B07N2X6ZRC/?tag=tolees0d-21) con 51.19 de descuento por 39.0 EUR (original: 79.9 EUR) en el siguiente enlace!

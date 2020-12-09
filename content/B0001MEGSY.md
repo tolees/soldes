@@ -14,7 +14,7 @@ currency: EUR
 price: 16.99
 comparePrice: 30.52 EUR
 inStock: true
-prodname: Sylvanian Families - Le Village - Le Mobilier Chambre enfants - 4254 - Meubles et Accessoires Poupée - Mini Poupées
+prodname: 'Sylvanian Families - Le Village - Le Mobilier Chambre enfants - 4254 - Meubles et Accessoires Poupée - Mini Poupées'
 ---
 
 Tienes [Sylvanian Families - Le Village - Le Mobilier Chambre enfants - 4254 - Meubles et Accessoires Poupée - Mini Poupées](https://www.amazon.fr/dp/B0001MEGSY/?tag=tolees0d-21) con un 44.33 % de descuento con precio de oferta de 16.99 EUR (original: 30.52 EUR) en el siguiente enlace!

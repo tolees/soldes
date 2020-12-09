@@ -14,7 +14,7 @@ currency: EUR
 price: 4.09
 comparePrice: 11.5 EUR
 inStock: true
-prodname: Diadermine - Lift+ Elastine -Crème de Jour Anti-Rides Ultra Tenseur - 50 ml
+prodname: 'Diadermine - Lift+ Elastine -Crème de Jour Anti-Rides Ultra Tenseur - 50 ml'
 ---
 
 Tienes [Diadermine - Lift+ Elastine -Crème de Jour Anti-Rides Ultra Tenseur - 50 ml](https://www.amazon.fr/dp/B004HB7HLS/?tag=tolees0d-21) con un 64.43 % de descuento con precio de oferta de 4.09 EUR (original: 11.5 EUR) en el siguiente enlace!

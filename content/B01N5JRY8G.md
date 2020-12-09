@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
-prodname: Joseph Joseph - Surface - Egouttoir à Couverts - Acier Inoxydable
+prodname: 'Joseph Joseph - Surface - Egouttoir à Couverts - Acier Inoxydable'
 ---
 
 Ahora mismo tienes [Joseph Joseph - Surface - Egouttoir à Couverts - Acier Inoxydable](https://www.amazon.fr/dp/B01N5JRY8G/?tag=tolees0d-21) a 19.99 EUR (original: 29.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 23.19
 comparePrice: 36.99 EUR
 inStock: true
-prodname: Prise Connectée Étanche Prise Intelligente Extérieure TECKIN 16A 4000W Prise WiFi 2 Port à Plein Air Prise Smart  Télécommande et Commande Vocale  Compatible avec Amazon Alexa  Google Home  Noir 
+prodname: 'Prise Connectée Étanche Prise Intelligente Extérieure TECKIN 16A 4000W Prise WiFi 2 Port à Plein Air Prise Smart  Télécommande et Commande Vocale  Compatible avec Amazon Alexa  Google Home  Noir '
 ---
 
 Ahora mismo tienes [Prise Connectée Étanche Prise Intelligente Extérieure TECKIN 16A 4000W Prise WiFi 2 Port à Plein Air Prise Smart  Télécommande et Commande Vocale  Compatible avec Amazon Alexa  Google Home  Noir ](https://www.amazon.fr/dp/B07RFN1V6L/?tag=tolees0d-21) a 23.19 EUR (original: 36.99 EUR) (37.31 %  de descuento) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 49.96
 comparePrice: 69.99 EUR
 inStock: true
-prodname: Roccat Kone Pure Ultra Souris de Jeu Ergonomique légère 16 000 dpi avec capteur Optique RGB éclairage Ultra léger Blanc
+prodname: 'Roccat Kone Pure Ultra Souris de Jeu Ergonomique légère 16 000 dpi avec capteur Optique RGB éclairage Ultra léger Blanc'
 ---
 
 Tienes [Roccat Kone Pure Ultra Souris de Jeu Ergonomique légère 16 000 dpi avec capteur Optique RGB éclairage Ultra léger Blanc](https://www.amazon.fr/dp/B07Z33TFYD/?tag=tolees0d-21) con un 28.62 % de descuento con precio de oferta de 49.96 EUR (original: 69.99 EUR) en el siguiente enlace!

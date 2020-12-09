@@ -14,7 +14,7 @@ currency: EUR
 price: 12.49
 comparePrice: 19.9 EUR
 inStock: true
-prodname: Lékué Coffret Vapeur 1-2 pers vert
+prodname: 'Lékué Coffret Vapeur 1-2 pers vert'
 ---
 
 Ahora mismo tienes [Lékué Coffret Vapeur 1-2 pers vert](https://www.amazon.fr/dp/B015O2CBNW/?tag=tolees0d-21) a 12.49 EUR (original: 19.9 EUR) (37.24 %  de descuento) en el siguiente enlace!

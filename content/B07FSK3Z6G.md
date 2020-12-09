@@ -14,7 +14,7 @@ currency: EUR
 price: 349.99
 comparePrice: 599.99 EUR
 inStock: true
-prodname: Philips BRI949/00 Lumea Prestige Epilateur à lumière pulsée avec 4 Embouts Corps/Visage/Maillot/Aisselles
+prodname: 'Philips BRI949/00 Lumea Prestige Epilateur à lumière pulsée avec 4 Embouts Corps/Visage/Maillot/Aisselles'
 ---
 
 Ahora mismo tienes [Philips BRI949/00 Lumea Prestige Epilateur à lumière pulsée avec 4 Embouts Corps/Visage/Maillot/Aisselles](https://www.amazon.fr/dp/B07FSK3Z6G/?tag=tolees0d-21) a 349.99 EUR (original: 599.99 EUR) (41.67 %  de descuento) en el siguiente enlace!

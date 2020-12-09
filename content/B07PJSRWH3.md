@@ -14,7 +14,7 @@ currency: EUR
 price: 30.29
 comparePrice: 79.0 EUR
 inStock: true
-prodname: KAPORAL Darko Jeans Homme  Bleu  Bleu  Moos    30W / 34L
+prodname: 'KAPORAL Darko Jeans Homme  Bleu  Bleu  Moos    30W / 34L'
 ---
 
 Está [KAPORAL Darko Jeans Homme  Bleu  Bleu  Moos    30W / 34L](https://www.amazon.fr/dp/B07PJSRWH3/?tag=tolees0d-21) con 61.66 de descuento por 30.29 EUR (original: 79.0 EUR) en el siguiente enlace!

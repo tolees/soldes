@@ -14,7 +14,7 @@ currency: EUR
 price: 22.45
 comparePrice: 29.95 EUR
 inStock: true
-prodname: sloggi Zero Feel Top EX  Brassière Femme  Écru  ANGORA 6308   S
+prodname: 'sloggi Zero Feel Top EX  Brassière Femme  Écru  ANGORA 6308   S'
 ---
 
 Ahora mismo tienes [sloggi Zero Feel Top EX  Brassière Femme  Écru  ANGORA 6308   S](https://www.amazon.fr/dp/B07DC7PLM1/?tag=tolees0d-21) a 22.45 EUR (original: 29.95 EUR) (25.04 %  de descuento) en el siguiente enlace!

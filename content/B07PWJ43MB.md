@@ -14,7 +14,7 @@ currency: EUR
 price: 54.99
 comparePrice: 79.99 EUR
 inStock: true
-prodname: Corsair Glaive PRO RGB FPS/MOBA Optique Souris Gaming  18000DPI Optique Capteur  Revêtements Antidérapants Interchangeables  Rétroéclairage LED RGB  - Noir
+prodname: 'Corsair Glaive PRO RGB FPS/MOBA Optique Souris Gaming  18000DPI Optique Capteur  Revêtements Antidérapants Interchangeables  Rétroéclairage LED RGB  - Noir'
 ---
 
 Ahora mismo tienes [Corsair Glaive PRO RGB FPS/MOBA Optique Souris Gaming  18000DPI Optique Capteur  Revêtements Antidérapants Interchangeables  Rétroéclairage LED RGB  - Noir](https://www.amazon.fr/dp/B07PWJ43MB/?tag=tolees0d-21) a 54.99 EUR (original: 79.99 EUR) (31.25 %  de descuento) en el siguiente enlace!

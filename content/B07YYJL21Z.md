@@ -14,7 +14,7 @@ currency: EUR
 price: 39.69
 comparePrice: 67.99 EUR
 inStock: true
-prodname: Clé USB à double connectique SanDisk Ultra Go pour les appareils USB Type-C  256 Go
+prodname: 'Clé USB à double connectique SanDisk Ultra Go pour les appareils USB Type-C  256 Go'
 ---
 
 Tienes [Clé USB à double connectique SanDisk Ultra Go pour les appareils USB Type-C  256 Go](https://www.amazon.fr/dp/B07YYJL21Z/?tag=tolees0d-21) con un 41.62 % de descuento con precio de oferta de 39.69 EUR (original: 67.99 EUR) en el siguiente enlace!

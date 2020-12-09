@@ -14,7 +14,7 @@ currency: EUR
 price: 19.99
 comparePrice: 35.99 EUR
 inStock: true
-prodname: BraceTek Cadre Empreintes Bébé  Kit Empreinte Bebe Mains pour Liste de Naissance  Souvenirs mémorable Décorations murale ou pour table  argile et cadres
+prodname: 'BraceTek Cadre Empreintes Bébé  Kit Empreinte Bebe Mains pour Liste de Naissance  Souvenirs mémorable Décorations murale ou pour table  argile et cadres'
 ---
 
 Está [BraceTek Cadre Empreintes Bébé  Kit Empreinte Bebe Mains pour Liste de Naissance  Souvenirs mémorable Décorations murale ou pour table  argile et cadres](https://www.amazon.fr/dp/B076CPGRGR/?tag=tolees0d-21) con 44.46 de descuento por 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!

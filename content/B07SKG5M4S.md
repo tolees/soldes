@@ -14,7 +14,7 @@ currency: EUR
 price: 14.99
 comparePrice: 25.99 EUR
 inStock: true
-prodname: RenFox Chalumeau de Cuisine Torche de Cuisine Butane Briquet Chalumeau Gaz Cuisine Verrou de Sécurité Réglable Flammes  pour Creme Brulee  Cuisson  Barbecue  Camping  DIY  Soudure
+prodname: 'RenFox Chalumeau de Cuisine Torche de Cuisine Butane Briquet Chalumeau Gaz Cuisine Verrou de Sécurité Réglable Flammes  pour Creme Brulee  Cuisson  Barbecue  Camping  DIY  Soudure'
 ---
 
 Tienes [RenFox Chalumeau de Cuisine Torche de Cuisine Butane Briquet Chalumeau Gaz Cuisine Verrou de Sécurité Réglable Flammes  pour Creme Brulee  Cuisson  Barbecue  Camping  DIY  Soudure](https://www.amazon.fr/dp/B07SKG5M4S/?tag=tolees0d-21) con un 42.32 % de descuento con precio de oferta de 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

@@ -14,15 +14,13 @@ currency: EUR
 price: 40.99
 comparePrice: 70.22 EUR
 inStock: true
-prodname: Gotham-Intégrale-Saisons 1 à 5 [DVD]
+prodname: 'Gotham-Intégrale-Saisons 1 à 5 [DVD]'
 ---
 
-Está [Gotham-Intégrale-Saisons 1 à 5 [DVD]](https://www.amazon.fr/dp/B0851LJVBC/?tag=tolees0d-21) con 41.63 de descuento por 40.99 EUR (original: 70.22 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gotham-Intégrale-Saisons 1 à 5 [DVD]](https://www.amazon.fr/dp/B0851LJVBC/?tag=tolees0d-21) a 40.99 EUR (original: 70.22 EUR) (41.63 %  de descuento) en el siguiente enlace!
 
 [![Gotham-Intégrale-Saisons 1 à 5 [DVD]](https://m.media-amazon.com/images/I/515JV7zyXOL._SL200_.jpg)](https://www.amazon.fr/dp/B0851LJVBC/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B0851LJVBC/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B0851LJVBC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

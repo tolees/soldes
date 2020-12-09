@@ -14,7 +14,7 @@ currency: EUR
 price: 121.77
 comparePrice: 179.0 EUR
 inStock: true
-prodname: Redskins Doudoune North Mountain Homme
+prodname: 'Redskins Doudoune North Mountain Homme'
 ---
 
 Está [Redskins Doudoune North Mountain Homme](https://www.amazon.fr/dp/B07RWKN6VM/?tag=tolees0d-21) con 31.97 de descuento por 121.77 EUR (original: 179.0 EUR) en el siguiente enlace!

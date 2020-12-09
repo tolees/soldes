@@ -14,7 +14,7 @@ currency: EUR
 price: 29.38
 comparePrice: 49.99 EUR
 inStock: true
-prodname: IMC Toys 7963 Lucy  Le Petit Chien Apprivoisé  Version Néerlandaise
+prodname: 'IMC Toys 7963 Lucy  Le Petit Chien Apprivoisé  Version Néerlandaise'
 ---
 
 Ahora mismo tienes [IMC Toys 7963 Lucy  Le Petit Chien Apprivoisé  Version Néerlandaise](https://www.amazon.fr/dp/B00D8BNWCQ/?tag=tolees0d-21) a 29.38 EUR (original: 49.99 EUR) (41.23 %  de descuento) en el siguiente enlace!

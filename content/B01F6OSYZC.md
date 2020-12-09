@@ -14,7 +14,7 @@ currency: EUR
 price: 85.99
 comparePrice: 169.9 EUR
 inStock: true
-prodname: Avidsen - Visiophone 2 fils Ylva 7 Blanc - Discussion possible avec votre invité
+prodname: 'Avidsen - Visiophone 2 fils Ylva 7 Blanc - Discussion possible avec votre invité'
 ---
 
 Tienes [Avidsen - Visiophone 2 fils Ylva 7 Blanc - Discussion possible avec votre invité](https://www.amazon.fr/dp/B01F6OSYZC/?tag=tolees0d-21) con un 49.39 % de descuento con precio de oferta de 85.99 EUR (original: 169.9 EUR) en el siguiente enlace!

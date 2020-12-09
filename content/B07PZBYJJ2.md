@@ -14,7 +14,7 @@ currency: EUR
 price: 123.0
 comparePrice: 275.0 EUR
 inStock: true
-prodname: Fer à lisser ionique - pour boucler et lisser
+prodname: 'Fer à lisser ionique - pour boucler et lisser'
 ---
 
 Ahora mismo tienes [Fer à lisser ionique - pour boucler et lisser](https://www.amazon.fr/dp/B07PZBYJJ2/?tag=tolees0d-21) a 123.0 EUR (original: 275.0 EUR) (55.27 %  de descuento) en el siguiente enlace!

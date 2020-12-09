@@ -14,7 +14,7 @@ currency: EUR
 price: 55.9
 comparePrice: 119.0 EUR
 inStock: true
-prodname: mello Arctic Ergo | Oreiller Gel rafraichissant à Mémoire de Forme avec Housse Coolmax Lavable et Ultra-Respirante | Oreiller Ergonomique  Coussin 60 x 35 cm 
+prodname: 'mello Arctic Ergo | Oreiller Gel rafraichissant à Mémoire de Forme avec Housse Coolmax Lavable et Ultra-Respirante | Oreiller Ergonomique  Coussin 60 x 35 cm '
 ---
 
 Tienes [mello Arctic Ergo | Oreiller Gel rafraichissant à Mémoire de Forme avec Housse Coolmax Lavable et Ultra-Respirante | Oreiller Ergonomique  Coussin 60 x 35 cm ](https://www.amazon.fr/dp/B075RZ5VPG/?tag=tolees0d-21) con un 53.03 % de descuento con precio de oferta de 55.9 EUR (original: 119.0 EUR) en el siguiente enlace!

@@ -14,7 +14,7 @@ currency: EUR
 price: 177.98
 comparePrice: 259.0 EUR
 inStock: true
-prodname: Barigo 386MSMA Marron Station météo numérique - Stations météo numériques  Marron 
+prodname: 'Barigo 386MSMA Marron Station météo numérique - Stations météo numériques  Marron '
 ---
 
 Tienes [Barigo 386MSMA Marron Station météo numérique - Stations météo numériques  Marron ](https://www.amazon.fr/dp/B007FRNHT2/?tag=tolees0d-21) con un 31.28 % de descuento con precio de oferta de 177.98 EUR (original: 259.0 EUR) en el siguiente enlace!

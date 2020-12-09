@@ -14,7 +14,7 @@ currency: EUR
 price: 27.64
 comparePrice: 47.4 EUR
 inStock: true
-prodname: COOLIFE Hard Case Trolley Trolley en ABS avec Serrure TSA et Valise à 4 roulettes Cabine Valise Valise Moyenne Grande Valise
+prodname: 'COOLIFE Hard Case Trolley Trolley en ABS avec Serrure TSA et Valise à 4 roulettes Cabine Valise Valise Moyenne Grande Valise'
 ---
 
 Está [COOLIFE Hard Case Trolley Trolley en ABS avec Serrure TSA et Valise à 4 roulettes Cabine Valise Valise Moyenne Grande Valise](https://www.amazon.fr/dp/B07HFMH62Y/?tag=tolees0d-21) con 41.69 de descuento por 27.64 EUR (original: 47.4 EUR) en el siguiente enlace!

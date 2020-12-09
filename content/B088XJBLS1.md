@@ -14,7 +14,7 @@ currency: EUR
 price: 109.99
 comparePrice: 169.99 EUR
 inStock: true
-prodname: Electrolux PowerForce TOPF65EB  Aspirateurs balais électriques  Plastic  Noir Ebène
+prodname: 'Electrolux PowerForce TOPF65EB  Aspirateurs balais électriques  Plastic  Noir Ebène'
 ---
 
 Tienes [Electrolux PowerForce TOPF65EB  Aspirateurs balais électriques  Plastic  Noir Ebène](https://www.amazon.fr/dp/B088XJBLS1/?tag=tolees0d-21) con un 35.30 % de descuento con precio de oferta de 109.99 EUR (original: 169.99 EUR) en el siguiente enlace!

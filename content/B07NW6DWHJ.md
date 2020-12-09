@@ -14,7 +14,7 @@ currency: EUR
 price: 139.16
 comparePrice: 189.99 EUR
 inStock: true
-prodname: Calor Centrale Vapeur Express Compact 5 7 Bars Effet Pressing jusqu à 350g /min Bleu SV7110C0
+prodname: 'Calor Centrale Vapeur Express Compact 5 7 Bars Effet Pressing jusqu à 350g /min Bleu SV7110C0'
 ---
 
 Está [Calor Centrale Vapeur Express Compact 5 7 Bars Effet Pressing jusqu à 350g /min Bleu SV7110C0](https://www.amazon.fr/dp/B07NW6DWHJ/?tag=tolees0d-21) con 26.75 de descuento por 139.16 EUR (original: 189.99 EUR) en el siguiente enlace!

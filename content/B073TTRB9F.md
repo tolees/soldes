@@ -14,7 +14,7 @@ currency: EUR
 price: 39.99
 comparePrice: 299.0 EUR
 inStock: true
-prodname: Sennheiser Ambeo Smart Headset  iOS  pour un son de vidéo en 3D Blanc
+prodname: 'Sennheiser Ambeo Smart Headset  iOS  pour un son de vidéo en 3D Blanc'
 ---
 
 Ahora mismo tienes [Sennheiser Ambeo Smart Headset  iOS  pour un son de vidéo en 3D Blanc](https://www.amazon.fr/dp/B073TTRB9F/?tag=tolees0d-21) a 39.99 EUR (original: 299.0 EUR) (86.63 %  de descuento) en el siguiente enlace!
