@@ -17,10 +17,12 @@ inStock: true
 prodname: 'La Petite Maison dans la Prairie-L intégrale'
 ---
 
-Ahora mismo tienes [La Petite Maison dans la Prairie-L intégrale](https://www.amazon.fr/dp/B07D4ZSQGZ/?tag=tolees0d-21) a 66.99 EUR (original: 89.99 EUR) (25.56 %  de descuento) en el siguiente enlace!
+Está [La Petite Maison dans la Prairie-L intégrale](https://www.amazon.fr/dp/B07D4ZSQGZ/?tag=tolees0d-21) con 25.56 de descuento por 66.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![La Petite Maison dans la Prairie-L intég](https://m.media-amazon.com/images/I/51CwhNTokgL._SL200_.jpg)](https://www.amazon.fr/dp/B07D4ZSQGZ/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07D4ZSQGZ/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07D4ZSQGZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Lego Star Wars : le Réveil de la Force - First Oder General : édition deluxe'
 ---
 
-Está [Lego Star Wars : le Réveil de la Force - First Oder General : édition deluxe](https://www.amazon.fr/dp/B01LY6A0OY/?tag=tolees0d-21) con 52.99 de descuento por 18.8 EUR (original: 39.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Lego Star Wars : le Réveil de la Force - First Oder General : édition deluxe](https://www.amazon.fr/dp/B01LY6A0OY/?tag=tolees0d-21) a 18.8 EUR (original: 39.99 EUR) (52.99 %  de descuento) en el siguiente enlace!
 
 [![Lego Star Wars : le Réveil de la Force -](https://m.media-amazon.com/images/I/61Bn2hB6j7L._SL200_.jpg)](https://www.amazon.fr/dp/B01LY6A0OY/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01LY6A0OY/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B01LY6A0OY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
