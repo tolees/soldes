@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 56.52 % en HERSITY Table d eveil Bébé Jouet Musical'
-date: 2020-12-08 03:25:50
+date: 2020-12-09 09:52:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vs+N2yJiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vs+N2yJiL._SL200_.jpg' ]
 comments: true
