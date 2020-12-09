@@ -14,12 +14,10 @@ comparePrice: 74.99 EUR
 inStock: true
 ---
 
-Está [BRIKSMAX Kit de LED pour Lego Architecture L’Empire State Compatible avec la Maquette Lego 21046  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B085G1VLWV/?tag=tolees0d-21) con 40.01 de descuento por 44.99 EUR (original: 74.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [BRIKSMAX Kit de LED pour Lego Architecture L’Empire State Compatible avec la Maquette Lego 21046  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B085G1VLWV/?tag=tolees0d-21) a 44.99 EUR (original: 74.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
 [![BRIKSMAX Kit de LED pour Lego Architectu](https://m.media-amazon.com/images/I/416V0m4IDVL._SL200_.jpg)](https://www.amazon.fr/dp/B085G1VLWV/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B085G1VLWV/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B085G1VLWV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

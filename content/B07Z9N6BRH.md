@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 26.38 % en Goliath - Super Zings Bakery Blast - à c'
-date: 2020-12-07 09:02:58
+date: 2020-12-09 03:47:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51qUKr-v3WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51qUKr-v3WL._SL200_.jpg' ]
 comments: true
