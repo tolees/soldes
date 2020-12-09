@@ -14,12 +14,10 @@ comparePrice: 144.0 EUR
 inStock: true
 ---
 
-Está [Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21) con 52.26 de descuento por 68.74 EUR (original: 144.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21) a 68.74 EUR (original: 144.0 EUR) (52.26 %  de descuento) en el siguiente enlace!
 
 [![Dolce&Gabbana - Collier - Acier Inoxydab](https://m.media-amazon.com/images/I/41w3Zb4aOPL._SL200_.jpg)](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

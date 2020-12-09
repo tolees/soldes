@@ -14,10 +14,12 @@ comparePrice: 69.99 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [Call of Duty : Modern Warfare pour Xbox One](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21) a 51.7 EUR (original: 69.99 EUR) (26.13 %  de descuento) en el siguiente enlace!
+Está [Call of Duty : Modern Warfare pour Xbox One](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21) con 26.13 de descuento por 51.7 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Call of Duty : Modern Warfare pour Xbox ](https://m.media-amazon.com/images/I/51ifee5XuxL._SL200_.jpg)](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -14,12 +14,10 @@ comparePrice: 15.02 EUR
 inStock: true
 ---
 
-Está [Hellraiser 2  Les écorchés [Blu-Ray]](https://www.amazon.fr/dp/B07JYQTKHT/?tag=tolees0d-21) con 54.19 de descuento por 6.88 EUR (original: 15.02 EUR) en el siguiente enlace!
+Ahora mismo tienes [Hellraiser 2  Les écorchés [Blu-Ray]](https://www.amazon.fr/dp/B07JYQTKHT/?tag=tolees0d-21) a 6.88 EUR (original: 15.02 EUR) (54.19 %  de descuento) en el siguiente enlace!
 
 [![Hellraiser 2  Les écorchés [Blu-Ray]](https://m.media-amazon.com/images/I/41mKaVdAkdL._SL200_.jpg)](https://www.amazon.fr/dp/B07JYQTKHT/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07JYQTKHT/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07JYQTKHT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
