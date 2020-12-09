@@ -14,10 +14,12 @@ comparePrice: 20.06 EUR
 inStock: true
 ---
 
-Ahora mismo tienes [The  Burbs  Les banlieusards  [Blu-Ray]](https://www.amazon.fr/dp/B01LYLSF6Y/?tag=tolees0d-21) a 7.41 EUR (original: 20.06 EUR) (63.06 %  de descuento) en el siguiente enlace!
+Está [The  Burbs  Les banlieusards  [Blu-Ray]](https://www.amazon.fr/dp/B01LYLSF6Y/?tag=tolees0d-21) con 63.06 de descuento por 7.41 EUR (original: 20.06 EUR) en el siguiente enlace!
 
 [![The  Burbs  Les banlieusards  [Blu-Ray]](https://m.media-amazon.com/images/I/51y9UChPk0L._SL200_.jpg)](https://www.amazon.fr/dp/B01LYLSF6Y/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01LYLSF6Y/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01LYLSF6Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
