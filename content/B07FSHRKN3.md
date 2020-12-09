@@ -10,8 +10,11 @@ author: ring
 slug: B07FSHRKN3
 description:
 actualPrice: 199.99 EUR
+currency: EUR
+price: 199.99
 comparePrice: 369.99 EUR
 inStock: true
+prodname: Philips BRI922/00 Lumea Advanced Epilateur à Lumière Pulsée  IPL   Epilation Semi-Définitive avec 2 Embouts Uniques pour Corps et Visage + Brosse Nettoyante Visage
 ---
 
 Tienes [Philips BRI922/00 Lumea Advanced Epilateur à Lumière Pulsée  IPL   Epilation Semi-Définitive avec 2 Embouts Uniques pour Corps et Visage + Brosse Nettoyante Visage](https://www.amazon.fr/dp/B07FSHRKN3/?tag=tolees0d-21) con un 45.95 % de descuento con precio de oferta de 199.99 EUR (original: 369.99 EUR) en el siguiente enlace!

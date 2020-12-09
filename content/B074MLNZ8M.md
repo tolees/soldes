@@ -10,8 +10,11 @@ author: ring
 slug: B074MLNZ8M
 description:
 actualPrice: 21.9 EUR
+currency: EUR
+price: 21.9
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Nights of Azure 2: Bride of the New Moon
 ---
 
 Tienes [Nights of Azure 2: Bride of the New Moon](https://www.amazon.fr/dp/B074MLNZ8M/?tag=tolees0d-21) con un 63.49 % de descuento con precio de oferta de 21.9 EUR (original: 59.99 EUR) en el siguiente enlace!

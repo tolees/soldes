@@ -10,8 +10,11 @@ author: ring
 slug: B07PPNSFBK
 description:
 actualPrice: 71.49 EUR
+currency: EUR
+price: 71.49
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Seagate Game Drive 2 To  Disque dur externe portable HDD  Compatible avec PS4  STGD2000200 
 ---
 
 Tienes [Seagate Game Drive 2 To  Disque dur externe portable HDD  Compatible avec PS4  STGD2000200 ](https://www.amazon.fr/dp/B07PPNSFBK/?tag=tolees0d-21) con un 28.50 % de descuento con precio de oferta de 71.49 EUR (original: 99.99 EUR) en el siguiente enlace!

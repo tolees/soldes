@@ -10,8 +10,11 @@ author: ring
 slug: B01DXQCMJ4
 description:
 actualPrice: 24.0 EUR
+currency: EUR
+price: 24.0
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Soy Luna - YLU32410 - Patins à Roulettes Entrainement - Pointure 36/37
 ---
 
 Está [Soy Luna - YLU32410 - Patins à Roulettes Entrainement - Pointure 36/37](https://www.amazon.fr/dp/B01DXQCMJ4/?tag=tolees0d-21) con 59.99 de descuento por 24.0 EUR (original: 59.99 EUR) en el siguiente enlace!

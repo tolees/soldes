@@ -10,8 +10,11 @@ author: ring
 slug: B072M7TRPB
 description:
 actualPrice: 41.2 EUR
+currency: EUR
+price: 41.2
 comparePrice: 65.0 EUR
 inStock: true
+prodname: Levi s - 35946 - Sweat a Capuche - Femme Gris  Sportswear Hoodie Smokestack Htr 0000  XS
 ---
 
 Está [Levi s - 35946 - Sweat a Capuche - Femme Gris  Sportswear Hoodie Smokestack Htr 0000  XS](https://www.amazon.fr/dp/B072M7TRPB/?tag=tolees0d-21) con 36.62 de descuento por 41.2 EUR (original: 65.0 EUR) en el siguiente enlace!

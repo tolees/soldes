@@ -10,8 +10,11 @@ author: ring
 slug: B07BB4QFY2
 description:
 actualPrice: 120.41 EUR
+currency: EUR
+price: 120.41
 comparePrice: 269.99 EUR
 inStock: true
+prodname: Marshall Mid Active Noise Cancelling  A.N.C.  Headphones with Bluetooth - Noir
 ---
 
 Está [Marshall Mid Active Noise Cancelling  A.N.C.  Headphones with Bluetooth - Noir](https://www.amazon.fr/dp/B07BB4QFY2/?tag=tolees0d-21) con 55.40 de descuento por 120.41 EUR (original: 269.99 EUR) en el siguiente enlace!

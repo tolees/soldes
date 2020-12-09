@@ -10,8 +10,11 @@ author: ring
 slug: B07SNPP6P3
 description:
 actualPrice: 57.99 EUR
+currency: EUR
+price: 57.99
 comparePrice: 116.99 EUR
 inStock: true
+prodname: Echo Show 8  Reconditionné Certifié  Tissu anthracite | Écran connecté HD 8" avec Alexa
 ---
 
 Tienes [Echo Show 8  Reconditionné Certifié  Tissu anthracite | Écran connecté HD 8" avec Alexa](https://www.amazon.fr/dp/B07SNPP6P3/?tag=tolees0d-21) con un 50.43 % de descuento con precio de oferta de 57.99 EUR (original: 116.99 EUR) en el siguiente enlace!

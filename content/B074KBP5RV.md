@@ -10,8 +10,11 @@ author: ring
 slug: B074KBP5RV
 description:
 actualPrice: 149.99 EUR
+currency: EUR
+price: 149.99
 comparePrice: 299.95 EUR
 inStock: true
+prodname: Fitbit Ionic La Montre-Coach Connectée pour Le Sport et La Forme  Gris Graphite
 ---
 
 Tienes [Fitbit Ionic La Montre-Coach Connectée pour Le Sport et La Forme  Gris Graphite](https://www.amazon.fr/dp/B074KBP5RV/?tag=tolees0d-21) con un 49.99 % de descuento con precio de oferta de 149.99 EUR (original: 299.95 EUR) en el siguiente enlace!

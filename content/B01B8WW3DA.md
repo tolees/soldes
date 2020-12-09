@@ -10,8 +10,11 @@ author: ring
 slug: B01B8WW3DA
 description:
 actualPrice: 4.0 EUR
+currency: EUR
+price: 4.0
 comparePrice: 12.15 EUR
 inStock: true
+prodname: Rubie s-déguisement officiel - Rubie s-Costume Miraculous Ladybug Yo-Yo and ClipOn Earrings- I-32930
 ---
 
 Tienes [Rubie s-déguisement officiel - Rubie s-Costume Miraculous Ladybug Yo-Yo and ClipOn Earrings- I-32930](https://www.amazon.fr/dp/B01B8WW3DA/?tag=tolees0d-21) con un 67.08 % de descuento con precio de oferta de 4.0 EUR (original: 12.15 EUR) en el siguiente enlace!

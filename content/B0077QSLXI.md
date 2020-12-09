@@ -10,8 +10,11 @@ author: ring
 slug: B0077QSLXI
 description:
 actualPrice: 72.99 EUR
+currency: EUR
+price: 72.99
 comparePrice: 124.99 EUR
 inStock: true
+prodname: Playmobil - 5221 - Jeu de Construction - Haras avec Chevaux et Enclos
 ---
 
 Tienes [Playmobil - 5221 - Jeu de Construction - Haras avec Chevaux et Enclos](https://www.amazon.fr/dp/B0077QSLXI/?tag=tolees0d-21) con un 41.60 % de descuento con precio de oferta de 72.99 EUR (original: 124.99 EUR) en el siguiente enlace!

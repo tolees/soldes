@@ -10,8 +10,11 @@ author: ring
 slug: B084QKY9DX
 description:
 actualPrice: 119.99 EUR
+currency: EUR
+price: 119.99
 comparePrice: 219.99 EUR
 inStock: true
+prodname: Marvel s Avengers Earth Mightiest Edition  PS4 
 ---
 
 Ahora mismo tienes [Marvel s Avengers Earth Mightiest Edition  PS4 ](https://www.amazon.fr/dp/B084QKY9DX/?tag=tolees0d-21) a 119.99 EUR (original: 219.99 EUR) (45.46 %  de descuento) en el siguiente enlace!

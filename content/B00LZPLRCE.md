@@ -10,8 +10,11 @@ author: ring
 slug: B00LZPLRCE
 description:
 actualPrice: 54.99 EUR
+currency: EUR
+price: 54.99
 comparePrice: 80.0 EUR
 inStock: true
+prodname: Braun Face 810 Épilateur Visage Et Brosse Nettoyante Visage Avec Pile Supplémentaire
 ---
 
 Ahora mismo tienes [Braun Face 810 Épilateur Visage Et Brosse Nettoyante Visage Avec Pile Supplémentaire](https://www.amazon.fr/dp/B00LZPLRCE/?tag=tolees0d-21) a 54.99 EUR (original: 80.0 EUR) (31.26 %  de descuento) en el siguiente enlace!

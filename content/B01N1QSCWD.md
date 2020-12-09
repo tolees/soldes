@@ -10,8 +10,11 @@ author: ring
 slug: B01N1QSCWD
 description:
 actualPrice: 10.9 EUR
+currency: EUR
+price: 10.9
 comparePrice: 18.0 EUR
 inStock: true
+prodname: Manix Skyn king size préservatifs - La boite de 20 préservatifs
 ---
 
 Tienes [Manix Skyn king size préservatifs - La boite de 20 préservatifs](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21) con un 39.44 % de descuento con precio de oferta de 10.9 EUR (original: 18.0 EUR) en el siguiente enlace!

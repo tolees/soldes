@@ -10,8 +10,11 @@ author: ring
 slug: B07LFG2SS9
 description:
 actualPrice: 21.0 EUR
+currency: EUR
+price: 21.0
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Levi s 2Pk Crewneck Graphic T-Shirt  2 Pack SW White/Mineral Black  3XL Homme
 ---
 
 Está [Levi s 2Pk Crewneck Graphic T-Shirt  2 Pack SW White/Mineral Black  3XL Homme](https://www.amazon.fr/dp/B07LFG2SS9/?tag=tolees0d-21) con 40.00 de descuento por 21.0 EUR (original: 35.0 EUR) en el siguiente enlace!

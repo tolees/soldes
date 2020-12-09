@@ -10,8 +10,11 @@ author: ring
 slug: B07CWWLP26
 description:
 actualPrice: 17.93 EUR
+currency: EUR
+price: 17.93
 comparePrice: 25.7 EUR
 inStock: true
+prodname: Bosch Home and Garden 2607017459 Coffret Bosch de 27 Accessoires pour visseuse sans Fil  Assortiment  Adaptateur  Porte-Embout Universel et cliquet 
 ---
 
 Está [Bosch Home and Garden 2607017459 Coffret Bosch de 27 Accessoires pour visseuse sans Fil  Assortiment  Adaptateur  Porte-Embout Universel et cliquet ](https://www.amazon.fr/dp/B07CWWLP26/?tag=tolees0d-21) con 30.23 de descuento por 17.93 EUR (original: 25.7 EUR) en el siguiente enlace!

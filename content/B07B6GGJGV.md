@@ -10,8 +10,11 @@ author: ring
 slug: B07B6GGJGV
 description:
 actualPrice: 439.0 EUR
+currency: EUR
+price: 439.0
 comparePrice: 699.0 EUR
 inStock: true
+prodname: iRobot Roomba 981  aspirateur robot  idéal pour les tapis avec forte puissance d aspiration  avec Power boost  navigation plusieurs pièces  connecté en WiFi et programmable via application
 ---
 
 Tienes [iRobot Roomba 981  aspirateur robot  idéal pour les tapis avec forte puissance d aspiration  avec Power boost  navigation plusieurs pièces  connecté en WiFi et programmable via application](https://www.amazon.fr/dp/B07B6GGJGV/?tag=tolees0d-21) con un 37.20 % de descuento con precio de oferta de 439.0 EUR (original: 699.0 EUR) en el siguiente enlace!

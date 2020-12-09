@@ -10,8 +10,11 @@ author: ring
 slug: B06XRMQS4S
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 15.05 EUR
 inStock: true
+prodname: Split [Blu-Ray]
 ---
 
 Está [Split [Blu-Ray]](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21) con 40.27 de descuento por 8.99 EUR (original: 15.05 EUR) en el siguiente enlace!

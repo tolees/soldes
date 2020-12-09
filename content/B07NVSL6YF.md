@@ -10,8 +10,11 @@ author: ring
 slug: B07NVSL6YF
 description:
 actualPrice: 55.0 EUR
+currency: EUR
+price: 55.0
 comparePrice: 125.0 EUR
 inStock: true
+prodname: Armor Lux  Pull Marin "Molene" Héritage Homme Multicolore  Ink Chiné/Nature Daf    Large  Taille fabricant: L 
 ---
 
 Está [Armor Lux  Pull Marin "Molene" Héritage Homme Multicolore  Ink Chiné/Nature Daf    Large  Taille fabricant: L ](https://www.amazon.fr/dp/B07NVSL6YF/?tag=tolees0d-21) con 56.00 de descuento por 55.0 EUR (original: 125.0 EUR) en el siguiente enlace!

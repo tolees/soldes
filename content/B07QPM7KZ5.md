@@ -10,8 +10,11 @@ author: ring
 slug: B07QPM7KZ5
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: NICOLE & DORIS Femmes Sacs à Main bandoulière Sac d épaule pour Dames Sacs Femmes de Mode Retro Sac à Main en Cuir PU Boule de Cheveux Violet Clair
 ---
 
 Ahora mismo tienes [NICOLE & DORIS Femmes Sacs à Main bandoulière Sac d épaule pour Dames Sacs Femmes de Mode Retro Sac à Main en Cuir PU Boule de Cheveux Violet Clair](https://www.amazon.fr/dp/B07QPM7KZ5/?tag=tolees0d-21) a 32.99 EUR (original: 49.99 EUR) (34.01 %  de descuento) en el siguiente enlace!

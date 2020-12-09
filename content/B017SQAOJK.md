@@ -10,8 +10,11 @@ author: ring
 slug: B017SQAOJK
 description:
 actualPrice: 120.75 EUR
+currency: EUR
+price: 120.75
 comparePrice: 198.34 EUR
 inStock: true
+prodname: Makita HS7601 Scie circulaire
 ---
 
 Ahora mismo tienes [Makita HS7601 Scie circulaire](https://www.amazon.fr/dp/B017SQAOJK/?tag=tolees0d-21) a 120.75 EUR (original: 198.34 EUR) (39.12 %  de descuento) en el siguiente enlace!

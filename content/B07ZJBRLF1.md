@@ -10,8 +10,11 @@ author: ring
 slug: B07ZJBRLF1
 description:
 actualPrice: 330.91 EUR
+currency: EUR
+price: 330.91
 comparePrice: 532.12 EUR
 inStock: true
+prodname: CHiQ L40H7N  40 Pouces  Téléviseur Full HD  Smart TV  1080p  WiFi  Bluetooth  Prime Video  Youtube  Netflix  3 HDMI  2 USB  Triple Tuner
 ---
 
 Tienes [CHiQ L40H7N  40 Pouces  Téléviseur Full HD  Smart TV  1080p  WiFi  Bluetooth  Prime Video  Youtube  Netflix  3 HDMI  2 USB  Triple Tuner](https://www.amazon.fr/dp/B07ZJBRLF1/?tag=tolees0d-21) con un 37.81 % de descuento con precio de oferta de 330.91 EUR (original: 532.12 EUR) en el siguiente enlace!

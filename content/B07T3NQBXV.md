@@ -10,8 +10,11 @@ author: ring
 slug: B07T3NQBXV
 description:
 actualPrice: 49.49 EUR
+currency: EUR
+price: 49.49
 comparePrice: 100.32 EUR
 inStock: true
+prodname: Game of Thrones  Le Trône De Fer  -L intégrale des Saisons 1 à 8
 ---
 
 Tienes [Game of Thrones  Le Trône De Fer  -L intégrale des Saisons 1 à 8](https://www.amazon.fr/dp/B07T3NQBXV/?tag=tolees0d-21) con un 50.67 % de descuento con precio de oferta de 49.49 EUR (original: 100.32 EUR) en el siguiente enlace!

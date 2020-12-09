@@ -10,8 +10,11 @@ author: ring
 slug: B01N2TYXKN
 description:
 actualPrice: 34.3 EUR
+currency: EUR
+price: 34.3
 comparePrice: 70.22 EUR
 inStock: true
+prodname: LES FILLES DE CALEB: ÉMILIE et BLANCHE
 ---
 
 Tienes [LES FILLES DE CALEB: ÉMILIE et BLANCHE](https://www.amazon.fr/dp/B01N2TYXKN/?tag=tolees0d-21) con un 51.15 % de descuento con precio de oferta de 34.3 EUR (original: 70.22 EUR) en el siguiente enlace!

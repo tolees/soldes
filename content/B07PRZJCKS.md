@@ -10,8 +10,11 @@ author: ring
 slug: B07PRZJCKS
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 100.32 EUR
 inStock: true
+prodname: The Big Bang Theory-Saisons 1 à 11
 ---
 
 Tienes [The Big Bang Theory-Saisons 1 à 11](https://www.amazon.fr/dp/B07PRZJCKS/?tag=tolees0d-21) con un 50.17 % de descuento con precio de oferta de 49.99 EUR (original: 100.32 EUR) en el siguiente enlace!

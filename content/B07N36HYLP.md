@@ -10,8 +10,11 @@ author: ring
 slug: B07N36HYLP
 description:
 actualPrice: 56.4 EUR
+currency: EUR
+price: 56.4
 comparePrice: 149.95 EUR
 inStock: true
+prodname: BRAX Golf Julius Veste de Sport  Bleu  Blau 25   X-Large Homme
 ---
 
 Ahora mismo tienes [BRAX Golf Julius Veste de Sport  Bleu  Blau 25   X-Large Homme](https://www.amazon.fr/dp/B07N36HYLP/?tag=tolees0d-21) a 56.4 EUR (original: 149.95 EUR) (62.39 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07TZ5MB4W
 description:
 actualPrice: 24.73 EUR
+currency: EUR
+price: 24.73
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Lansay - Toy Story 4- Incroyable Woody - 64431
 ---
 
 Está [Lansay - Toy Story 4- Incroyable Woody - 64431](https://www.amazon.fr/dp/B07TZ5MB4W/?tag=tolees0d-21) con 75.27 de descuento por 24.73 EUR (original: 99.99 EUR) en el siguiente enlace!

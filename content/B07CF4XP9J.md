@@ -10,8 +10,11 @@ author: ring
 slug: B07CF4XP9J
 description:
 actualPrice: 29.9 EUR
+currency: EUR
+price: 29.9
 comparePrice: 64.9 EUR
 inStock: true
+prodname: Highness Pantalon Homme Chino Un incontournable de Tout vestiaire Masculin - A Porter en Toutes circonstances avec des Baskets ou Chaussures en Cuir - Très Confortable-Camel -34 US = 44 FR
 ---
 
 Está [Highness Pantalon Homme Chino Un incontournable de Tout vestiaire Masculin - A Porter en Toutes circonstances avec des Baskets ou Chaussures en Cuir - Très Confortable-Camel -34 US = 44 FR](https://www.amazon.fr/dp/B07CF4XP9J/?tag=tolees0d-21) con 53.93 de descuento por 29.9 EUR (original: 64.9 EUR) en el siguiente enlace!

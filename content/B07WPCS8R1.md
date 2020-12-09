@@ -10,8 +10,11 @@ author: ring
 slug: B07WPCS8R1
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Homealexa Jouet Montessori Géoboard en Bois avec Cartes de Motifs et Rubber Band - 8x8 Épingles Pegboard avec Bande de Caoutchouc Puzzle de Forme Inspire l imagination et la Créativité de l enfant
 ---
 
 Ahora mismo tienes [Homealexa Jouet Montessori Géoboard en Bois avec Cartes de Motifs et Rubber Band - 8x8 Épingles Pegboard avec Bande de Caoutchouc Puzzle de Forme Inspire l imagination et la Créativité de l enfant](https://www.amazon.fr/dp/B07WPCS8R1/?tag=tolees0d-21) a 18.99 EUR (original: 49.99 EUR) (62.01 %  de descuento) en el siguiente enlace!

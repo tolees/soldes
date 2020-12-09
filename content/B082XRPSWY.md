@@ -10,8 +10,11 @@ author: ring
 slug: B082XRPSWY
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Tiges de son mâles lisses et durables en silicone  cathéters Tiges d irritation
 ---
 
 Tienes [Tiges de son mâles lisses et durables en silicone  cathéters Tiges d irritation](https://www.amazon.fr/dp/B082XRPSWY/?tag=tolees0d-21) con un 60.02 % de descuento con precio de oferta de 9.99 EUR (original: 24.99 EUR) en el siguiente enlace!

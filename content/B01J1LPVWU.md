@@ -10,8 +10,11 @@ author: ring
 slug: B01J1LPVWU
 description:
 actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Crocs Baya  Sabots Mixte Adulte  Rouge  Pepper  38/39 EU
 ---
 
 Tienes [Crocs Baya  Sabots Mixte Adulte  Rouge  Pepper  38/39 EU](https://www.amazon.fr/dp/B01J1LPVWU/?tag=tolees0d-21) con un 49.99 % de descuento con precio de oferta de 20.0 EUR (original: 39.99 EUR) en el siguiente enlace!

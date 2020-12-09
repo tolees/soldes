@@ -10,8 +10,11 @@ author: ring
 slug: B07PY7BJ3W
 description:
 actualPrice: 124.0 EUR
+currency: EUR
+price: 124.0
 comparePrice: 275.0 EUR
 inStock: true
+prodname: Fer à lisser ionique - pour boucler et lisser
 ---
 
 Tienes [Fer à lisser ionique - pour boucler et lisser](https://www.amazon.fr/dp/B07PY7BJ3W/?tag=tolees0d-21) con un 54.91 % de descuento con precio de oferta de 124.0 EUR (original: 275.0 EUR) en el siguiente enlace!

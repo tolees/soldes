@@ -10,8 +10,11 @@ author: ring
 slug: B083XGJSRQ
 description:
 actualPrice: 54.9 EUR
+currency: EUR
+price: 54.9
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Nioh 2 - PlayStation 4  Édition spéciale  Version française  Mode en ligne et multijoueur
 ---
 
 Ahora mismo tienes [Nioh 2 - PlayStation 4  Édition spéciale  Version française  Mode en ligne et multijoueur](https://www.amazon.fr/dp/B083XGJSRQ/?tag=tolees0d-21) a 54.9 EUR (original: 89.99 EUR) (38.99 %  de descuento) en el siguiente enlace!

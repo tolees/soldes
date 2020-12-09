@@ -10,8 +10,11 @@ author: ring
 slug: B08HQHXHCD
 description:
 actualPrice: 56.99 EUR
+currency: EUR
+price: 56.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Micro Casque Gaming PS4 sans Fil REDSTORM Wireless 2.4G Casque Gamer PC Stéréo RGB LED Lumière/Micro Anti-bruit Détachable/Contrôle du Volume sur Oreillette pour PC PS4 Mac Switch
 ---
 
 Tienes [Micro Casque Gaming PS4 sans Fil REDSTORM Wireless 2.4G Casque Gamer PC Stéréo RGB LED Lumière/Micro Anti-bruit Détachable/Contrôle du Volume sur Oreillette pour PC PS4 Mac Switch](https://www.amazon.fr/dp/B08HQHXHCD/?tag=tolees0d-21) con un 43.00 % de descuento con precio de oferta de 56.99 EUR (original: 99.99 EUR) en el siguiente enlace!

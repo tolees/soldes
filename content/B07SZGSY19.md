@@ -10,8 +10,11 @@ author: ring
 slug: B07SZGSY19
 description:
 actualPrice: 25.0 EUR
+currency: EUR
+price: 25.0
 comparePrice: 50.16 EUR
 inStock: true
+prodname: Batman Beyond-La Série animée [Blu-Ray]
 ---
 
 Tienes [Batman Beyond-La Série animée [Blu-Ray]](https://www.amazon.fr/dp/B07SZGSY19/?tag=tolees0d-21) con un 50.16 % de descuento con precio de oferta de 25.0 EUR (original: 50.16 EUR) en el siguiente enlace!

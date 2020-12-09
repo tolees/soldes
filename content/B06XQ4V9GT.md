@@ -10,8 +10,11 @@ author: ring
 slug: B06XQ4V9GT
 description:
 actualPrice: 7.32 EUR
+currency: EUR
+price: 7.32
 comparePrice: 15.02 EUR
 inStock: true
+prodname: SSSSNAKE [Blu-Ray]
 ---
 
 Tienes [SSSSNAKE [Blu-Ray]](https://www.amazon.fr/dp/B06XQ4V9GT/?tag=tolees0d-21) con un 51.26 % de descuento con precio de oferta de 7.32 EUR (original: 15.02 EUR) en el siguiente enlace!

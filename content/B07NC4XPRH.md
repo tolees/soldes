@@ -10,8 +10,11 @@ author: ring
 slug: B07NC4XPRH
 description:
 actualPrice: 77.4 EUR
+currency: EUR
+price: 77.4
 comparePrice: 129.0 EUR
 inStock: true
+prodname: Delsey Paris - Daily s - Sac Voyage  55 cm - Noir
 ---
 
 Tienes [Delsey Paris - Daily s - Sac Voyage  55 cm - Noir](https://www.amazon.fr/dp/B07NC4XPRH/?tag=tolees0d-21) con un 40.00 % de descuento con precio de oferta de 77.4 EUR (original: 129.0 EUR) en el siguiente enlace!

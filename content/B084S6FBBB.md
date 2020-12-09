@@ -10,8 +10,11 @@ author: ring
 slug: B084S6FBBB
 description:
 actualPrice: 27.99 EUR
+currency: EUR
+price: 27.99
 comparePrice: 49.89 EUR
 inStock: true
+prodname: Tommee Tippee Peluche Aide au Sommeil Grofriend Rechargeable Pip le Panda
 ---
 
 Está [Tommee Tippee Peluche Aide au Sommeil Grofriend Rechargeable Pip le Panda](https://www.amazon.fr/dp/B084S6FBBB/?tag=tolees0d-21) con 43.90 de descuento por 27.99 EUR (original: 49.89 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00JWVAW4C
 description:
 actualPrice: 6.54 EUR
+currency: EUR
+price: 6.54
 comparePrice: 10.9 EUR
 inStock: true
+prodname: Garnier 100% Ultra Blond Kit de Décoloration Sans Ammoniaque  Éclaircissement Maximum  Effet Anti-Paille
 ---
 
 Tienes [Garnier 100% Ultra Blond Kit de Décoloration Sans Ammoniaque  Éclaircissement Maximum  Effet Anti-Paille](https://www.amazon.fr/dp/B00JWVAW4C/?tag=tolees0d-21) con un 40.00 % de descuento con precio de oferta de 6.54 EUR (original: 10.9 EUR) en el siguiente enlace!

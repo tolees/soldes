@@ -10,8 +10,11 @@ author: ring
 slug: B08NDQ5YSN
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 31.99 EUR
 inStock: true
+prodname: Jenuos Housse Etui Samsung Galaxy S20 FE/S20 FE 5G en Cuir  Coque S20 FE Véritable Flip Portefeuille avec Fermeture Magnétique Rangements de Cartes Conçue pour S20 FE/S20 FE 5G- Noir  S20FE-EG-BK 
 ---
 
 Tienes [Jenuos Housse Etui Samsung Galaxy S20 FE/S20 FE 5G en Cuir  Coque S20 FE Véritable Flip Portefeuille avec Fermeture Magnétique Rangements de Cartes Conçue pour S20 FE/S20 FE 5G- Noir  S20FE-EG-BK ](https://www.amazon.fr/dp/B08NDQ5YSN/?tag=tolees0d-21) con un 28.13 % de descuento con precio de oferta de 22.99 EUR (original: 31.99 EUR) en el siguiente enlace!

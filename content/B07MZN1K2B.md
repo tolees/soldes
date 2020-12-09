@@ -10,8 +10,11 @@ author: ring
 slug: B07MZN1K2B
 description:
 actualPrice: 94.68 EUR
+currency: EUR
+price: 94.68
 comparePrice: 140.0 EUR
 inStock: true
+prodname: Pepe Jeans London Maddox Ess  Bottes Motardes Femme   Black 999   39 EU
 ---
 
 Tienes [Pepe Jeans London Maddox Ess  Bottes Motardes Femme   Black 999   39 EU](https://www.amazon.fr/dp/B07MZN1K2B/?tag=tolees0d-21) con un 32.37 % de descuento con precio de oferta de 94.68 EUR (original: 140.0 EUR) en el siguiente enlace!

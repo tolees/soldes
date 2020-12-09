@@ -10,8 +10,11 @@ author: ring
 slug: B07VCF6ZSD
 description:
 actualPrice: 69.95 EUR
+currency: EUR
+price: 69.95
 comparePrice: 159.0 EUR
 inStock: true
+prodname: Replay Anbass Jean Slim  Gris  Medium Grey 096   W30/L30  Taille Fabricant: 30  Homme
 ---
 
 Ahora mismo tienes [Replay Anbass Jean Slim  Gris  Medium Grey 096   W30/L30  Taille Fabricant: 30  Homme](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21) a 69.95 EUR (original: 159.0 EUR) (56.01 %  de descuento) en el siguiente enlace!

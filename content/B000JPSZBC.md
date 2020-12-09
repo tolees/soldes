@@ -10,8 +10,11 @@ author: ring
 slug: B000JPSZBC
 description:
 actualPrice: 4.99 EUR
+currency: EUR
+price: 4.99
 comparePrice: 7.99 EUR
 inStock: true
+prodname: Puma - PUMA UNISEX SNEAKER PLAIN 3P -Lot de 3 - Chaussettes de sport - Homme - Noir - 43/46
 ---
 
 Ahora mismo tienes [Puma - PUMA UNISEX SNEAKER PLAIN 3P -Lot de 3 - Chaussettes de sport - Homme - Noir - 43/46](https://www.amazon.fr/dp/B000JPSZBC/?tag=tolees0d-21) a 4.99 EUR (original: 7.99 EUR) (37.55 %  de descuento) en el siguiente enlace!

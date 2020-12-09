@@ -10,8 +10,11 @@ author: ring
 slug: B07KRLSJHC
 description:
 actualPrice: 47.52 EUR
+currency: EUR
+price: 47.52
 comparePrice: 100.0 EUR
 inStock: true
+prodname: New Balance 574v2  Baskets Homme  Bleu  Navy/White Navy/White   39.5 EU
 ---
 
 Ahora mismo tienes [New Balance 574v2  Baskets Homme  Bleu  Navy/White Navy/White   39.5 EU](https://www.amazon.fr/dp/B07KRLSJHC/?tag=tolees0d-21) a 47.52 EUR (original: 100.0 EUR) (52.48 %  de descuento) en el siguiente enlace!

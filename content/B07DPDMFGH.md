@@ -10,8 +10,11 @@ author: ring
 slug: B07DPDMFGH
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 38.99 EUR
 inStock: true
+prodname: Adaptateur HDMI pour Switch USB Type C vers 4K 1080 HDMI Convertisseur Cȃble pour Switch/Macbook Pro/Galaxy S8
 ---
 
 Ahora mismo tienes [Adaptateur HDMI pour Switch USB Type C vers 4K 1080 HDMI Convertisseur Cȃble pour Switch/Macbook Pro/Galaxy S8](https://www.amazon.fr/dp/B07DPDMFGH/?tag=tolees0d-21) a 21.99 EUR (original: 38.99 EUR) (43.60 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08CGQXF77
 description:
 actualPrice: 15.95 EUR
+currency: EUR
+price: 15.95
 comparePrice: 39.88 EUR
 inStock: true
+prodname: HERSITY 12 Pièces Dinosaure Figurine 17 5 cm Réaliste Dinosaure Enfant Jouet Jeux Éducatifs Cadeaux pour Garçons 3 4 5 6 Ans
 ---
 
 Tienes [HERSITY 12 Pièces Dinosaure Figurine 17 5 cm Réaliste Dinosaure Enfant Jouet Jeux Éducatifs Cadeaux pour Garçons 3 4 5 6 Ans](https://www.amazon.fr/dp/B08CGQXF77/?tag=tolees0d-21) con un 60.01 % de descuento con precio de oferta de 15.95 EUR (original: 39.88 EUR) en el siguiente enlace!

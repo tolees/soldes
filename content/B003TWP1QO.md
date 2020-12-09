@@ -10,8 +10,11 @@ author: ring
 slug: B003TWP1QO
 description:
 actualPrice: 5.9 EUR
+currency: EUR
+price: 5.9
 comparePrice: 8.81 EUR
 inStock: true
+prodname: Bosch x-Pro Line STS / 2607010629 Coffret de lames pour scie sauteuse 10 pièces Bois
 ---
 
 Ahora mismo tienes [Bosch x-Pro Line STS / 2607010629 Coffret de lames pour scie sauteuse 10 pièces Bois](https://www.amazon.fr/dp/B003TWP1QO/?tag=tolees0d-21) a 5.9 EUR (original: 8.81 EUR) (33.03 %  de descuento) en el siguiente enlace!

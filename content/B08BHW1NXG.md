@@ -10,8 +10,11 @@ author: ring
 slug: B08BHW1NXG
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 68.0 EUR
 inStock: true
+prodname: Disque Dur Externe 1to  Disque Dur Externe USB-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 1To Argent 
 ---
 
 Está [Disque Dur Externe 1to  Disque Dur Externe USB-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 1To Argent ](https://www.amazon.fr/dp/B08BHW1NXG/?tag=tolees0d-21) con 29.43 de descuento por 47.99 EUR (original: 68.0 EUR) en el siguiente enlace!

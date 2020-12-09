@@ -10,8 +10,11 @@ author: ring
 slug: B07D2XN5VJ
 description:
 actualPrice: 23.85 EUR
+currency: EUR
+price: 23.85
 comparePrice: 32.95 EUR
 inStock: true
+prodname: Kleenex FAMILY – Mouchoirs en papier - Lot de 15 Boîtes Maxi Format
 ---
 
 Tienes [Kleenex FAMILY – Mouchoirs en papier - Lot de 15 Boîtes Maxi Format](https://www.amazon.fr/dp/B07D2XN5VJ/?tag=tolees0d-21) con un 27.62 % de descuento con precio de oferta de 23.85 EUR (original: 32.95 EUR) en el siguiente enlace!

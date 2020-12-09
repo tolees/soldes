@@ -10,8 +10,11 @@ author: ring
 slug: B07MK1QJVD
 description:
 actualPrice: 86.24 EUR
+currency: EUR
+price: 86.24
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Napapijri Yupik FZH Maillot de survtement  Blanc  Whitecap Gray Ns5   XXL Homme
 ---
 
 Ahora mismo tienes [Napapijri Yupik FZH Maillot de survtement  Blanc  Whitecap Gray Ns5   XXL Homme](https://www.amazon.fr/dp/B07MK1QJVD/?tag=tolees0d-21) a 86.24 EUR (original: 199.0 EUR) (56.66 %  de descuento) en el siguiente enlace!

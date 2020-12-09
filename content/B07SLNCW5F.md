@@ -10,8 +10,11 @@ author: ring
 slug: B07SLNCW5F
 description:
 actualPrice: 144.99 EUR
+currency: EUR
+price: 144.99
 comparePrice: 240.0 EUR
 inStock: true
+prodname: Braun Series 8 8350s Nouvelle Génération  Rasoir Électrique Barbe Homme  Base de Recharge  Étui en Tissu  Argent
 ---
 
 Está [Braun Series 8 8350s Nouvelle Génération  Rasoir Électrique Barbe Homme  Base de Recharge  Étui en Tissu  Argent](https://www.amazon.fr/dp/B07SLNCW5F/?tag=tolees0d-21) con 39.59 de descuento por 144.99 EUR (original: 240.0 EUR) en el siguiente enlace!

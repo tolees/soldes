@@ -10,8 +10,11 @@ author: ring
 slug: B07XJZS6L2
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Dragon Ball Z: Kakarot  PS4 
 ---
 
 Tienes [Dragon Ball Z: Kakarot  PS4 ](https://www.amazon.fr/dp/B07XJZS6L2/?tag=tolees0d-21) con un 42.86 % de descuento con precio de oferta de 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!

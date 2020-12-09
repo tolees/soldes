@@ -10,8 +10,11 @@ author: ring
 slug: B07P8PJ1ZK
 description:
 actualPrice: 49.9 EUR
+currency: EUR
+price: 49.9
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Playmobil - Station Essence - 70201
 ---
 
 Tienes [Playmobil - Station Essence - 70201](https://www.amazon.fr/dp/B07P8PJ1ZK/?tag=tolees0d-21) con un 28.70 % de descuento con precio de oferta de 49.9 EUR (original: 69.99 EUR) en el siguiente enlace!

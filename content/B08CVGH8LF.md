@@ -10,8 +10,11 @@ author: ring
 slug: B08CVGH8LF
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Disque Dur Externe  Disque Dur Externe 1to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  1to Noir 
 ---
 
 Ahora mismo tienes [Disque Dur Externe  Disque Dur Externe 1to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  1to Noir ](https://www.amazon.fr/dp/B08CVGH8LF/?tag=tolees0d-21) a 47.99 EUR (original: 89.99 EUR) (46.67 %  de descuento) en el siguiente enlace!

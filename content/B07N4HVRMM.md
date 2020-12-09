@@ -10,8 +10,11 @@ author: ring
 slug: B07N4HVRMM
 description:
 actualPrice: 159.99 EUR
+currency: EUR
+price: 159.99
 comparePrice: 249.99 EUR
 inStock: true
+prodname: KidKraft- Uptown Elite Cuisine en Bois Enfant 3 Modes de Jeu  53437  Blanc
 ---
 
 Tienes [KidKraft- Uptown Elite Cuisine en Bois Enfant 3 Modes de Jeu  53437  Blanc](https://www.amazon.fr/dp/B07N4HVRMM/?tag=tolees0d-21) con un 36.00 % de descuento con precio de oferta de 159.99 EUR (original: 249.99 EUR) en el siguiente enlace!

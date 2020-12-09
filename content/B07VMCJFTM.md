@@ -10,8 +10,11 @@ author: ring
 slug: B07VMCJFTM
 description:
 actualPrice: 21.29 EUR
+currency: EUR
+price: 21.29
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Spa Luxetique Coffret de Bain  Coffret Cadeau pour Femme  8 Pièces Parfum de Vanille  Cadeau d’Anniversaire et Noël
 ---
 
 Tienes [Spa Luxetique Coffret de Bain  Coffret Cadeau pour Femme  8 Pièces Parfum de Vanille  Cadeau d’Anniversaire et Noël](https://www.amazon.fr/dp/B07VMCJFTM/?tag=tolees0d-21) con un 46.76 % de descuento con precio de oferta de 21.29 EUR (original: 39.99 EUR) en el siguiente enlace!

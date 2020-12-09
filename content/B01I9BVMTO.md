@@ -10,8 +10,11 @@ author: ring
 slug: B01I9BVMTO
 description:
 actualPrice: 44.0 EUR
+currency: EUR
+price: 44.0
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Swarovski Bracelet-Jonc Symbolic Evil Eye  Bleu  Finition Mix de Métal
 ---
 
 Está [Swarovski Bracelet-Jonc Symbolic Evil Eye  Bleu  Finition Mix de Métal](https://www.amazon.fr/dp/B01I9BVMTO/?tag=tolees0d-21) con 50.56 de descuento por 44.0 EUR (original: 89.0 EUR) en el siguiente enlace!

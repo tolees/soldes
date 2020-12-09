@@ -10,8 +10,11 @@ author: ring
 slug: B07TK2QJM5
 description:
 actualPrice: 75.58 EUR
+currency: EUR
+price: 75.58
 comparePrice: 269.99 EUR
 inStock: true
+prodname: Quiksilver EQYTJ03215 Veste de Ski/Snowboard Homme  Poinciana  FR  Taille Fabricant : XL 
 ---
 
 Está [Quiksilver EQYTJ03215 Veste de Ski/Snowboard Homme  Poinciana  FR  Taille Fabricant : XL ](https://www.amazon.fr/dp/B07TK2QJM5/?tag=tolees0d-21) con 72.01 de descuento por 75.58 EUR (original: 269.99 EUR) en el siguiente enlace!

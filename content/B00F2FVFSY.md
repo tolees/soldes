@@ -10,8 +10,11 @@ author: ring
 slug: B00F2FVFSY
 description:
 actualPrice: 502.99 EUR
+currency: EUR
+price: 502.99
 comparePrice: 799.0 EUR
 inStock: true
+prodname: Laurastar GO Centre de Repassage
 ---
 
 Tienes [Laurastar GO Centre de Repassage](https://www.amazon.fr/dp/B00F2FVFSY/?tag=tolees0d-21) con un 37.05 % de descuento con precio de oferta de 502.99 EUR (original: 799.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01ET4MX8O
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 130.0 EUR
 inStock: true
+prodname: Helly Hansen Aden Veste Femme  Blanc  FR  Taille Fabricant : XS 
 ---
 
 Tienes [Helly Hansen Aden Veste Femme  Blanc  FR  Taille Fabricant : XS ](https://www.amazon.fr/dp/B01ET4MX8O/?tag=tolees0d-21) con un 63.08 % de descuento con precio de oferta de 47.99 EUR (original: 130.0 EUR) en el siguiente enlace!

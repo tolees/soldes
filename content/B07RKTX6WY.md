@@ -10,8 +10,11 @@ author: ring
 slug: B07RKTX6WY
 description:
 actualPrice: 20.39 EUR
+currency: EUR
+price: 20.39
 comparePrice: 50.99 EUR
 inStock: true
+prodname: ChicSilver Bague Tube/Grande Bague en Argent Sterling 925/Anneau Large Bande Largeur 15MM Accessoires de Mode Anneau de Bande Ouverte Gravure Personnalisé
 ---
 
 Tienes [ChicSilver Bague Tube/Grande Bague en Argent Sterling 925/Anneau Large Bande Largeur 15MM Accessoires de Mode Anneau de Bande Ouverte Gravure Personnalisé](https://www.amazon.fr/dp/B07RKTX6WY/?tag=tolees0d-21) con un 60.01 % de descuento con precio de oferta de 20.39 EUR (original: 50.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07S6STTLP
 description:
 actualPrice: 29.0 EUR
+currency: EUR
+price: 29.0
 comparePrice: 90.0 EUR
 inStock: true
+prodname: Coffret à Bijoux Beige Velvet - 18 x 12 x 7 cm
 ---
 
 Ahora mismo tienes [Coffret à Bijoux Beige Velvet - 18 x 12 x 7 cm](https://www.amazon.fr/dp/B07S6STTLP/?tag=tolees0d-21) a 29.0 EUR (original: 90.0 EUR) (67.78 %  de descuento) en el siguiente enlace!

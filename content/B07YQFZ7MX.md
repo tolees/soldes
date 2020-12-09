@@ -10,8 +10,11 @@ author: ring
 slug: B07YQFZ7MX
 description:
 actualPrice: 2.18 EUR
+currency: EUR
+price: 2.18
 comparePrice: 3.2 EUR
 inStock: true
+prodname: Régilait Lait en Poudre Écrémé Vitalité 300 g
 ---
 
 Tienes [Régilait Lait en Poudre Écrémé Vitalité 300 g](https://www.amazon.fr/dp/B07YQFZ7MX/?tag=tolees0d-21) con un 31.87 % de descuento con precio de oferta de 2.18 EUR (original: 3.2 EUR) en el siguiente enlace!

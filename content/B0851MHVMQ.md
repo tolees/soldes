@@ -10,8 +10,11 @@ author: ring
 slug: B0851MHVMQ
 description:
 actualPrice: 19.24 EUR
+currency: EUR
+price: 19.24
 comparePrice: 30.04 EUR
 inStock: true
+prodname: Operation Peur  Baby Kill  [Édition Collector Blu-Ray + DVD + Livret]
 ---
 
 Tienes [Operation Peur  Baby Kill  [Édition Collector Blu-Ray + DVD + Livret]](https://www.amazon.fr/dp/B0851MHVMQ/?tag=tolees0d-21) con un 35.95 % de descuento con precio de oferta de 19.24 EUR (original: 30.04 EUR) en el siguiente enlace!

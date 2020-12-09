@@ -10,8 +10,11 @@ author: ring
 slug: B01MD1SKLL
 description:
 actualPrice: 22.9 EUR
+currency: EUR
+price: 22.9
 comparePrice: 31.9 EUR
 inStock: true
+prodname: TP-Link Répéteur WiFi RE305 Amplificateur WiFi AC1200  WiFi Extender  WiFi Booster  1 Port Ethernet  jusqu à 120㎡  Augmente la couverture wifi  Compatible avec toutes les box internet
 ---
 
 Ahora mismo tienes [TP-Link Répéteur WiFi RE305 Amplificateur WiFi AC1200  WiFi Extender  WiFi Booster  1 Port Ethernet  jusqu à 120㎡  Augmente la couverture wifi  Compatible avec toutes les box internet](https://www.amazon.fr/dp/B01MD1SKLL/?tag=tolees0d-21) a 22.9 EUR (original: 31.9 EUR) (28.21 %  de descuento) en el siguiente enlace!

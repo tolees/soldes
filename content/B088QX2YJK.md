@@ -10,8 +10,11 @@ author: ring
 slug: B088QX2YJK
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Eono by Amazon - Balance de Cuisine/pâtisserie numérique en Acier Inoxydable de Haute qualité  avec Fonction grammes et onces  Garantie de 15 Ans et Charge maximale de 10 kg par paliers de 2 g
 ---
 
 Ahora mismo tienes [Eono by Amazon - Balance de Cuisine/pâtisserie numérique en Acier Inoxydable de Haute qualité  avec Fonction grammes et onces  Garantie de 15 Ans et Charge maximale de 10 kg par paliers de 2 g](https://www.amazon.fr/dp/B088QX2YJK/?tag=tolees0d-21) a 14.99 EUR (original: 29.99 EUR) (50.02 %  de descuento) en el siguiente enlace!

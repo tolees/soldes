@@ -10,8 +10,11 @@ author: ring
 slug: B00DSF8XX0
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 24.99 EUR
 inStock: true
+prodname: Philips Sonicare HX6014/07 Pack Têtes de brosse ProResults Standard  X4 
 ---
 
 Está [Philips Sonicare HX6014/07 Pack Têtes de brosse ProResults Standard  X4 ](https://www.amazon.fr/dp/B00DSF8XX0/?tag=tolees0d-21) con 48.02 de descuento por 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!

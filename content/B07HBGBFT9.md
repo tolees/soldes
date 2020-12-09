@@ -10,8 +10,11 @@ author: ring
 slug: B07HBGBFT9
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: SteelSeries Arctis 3 Console - Casque de Jeu Filaire Stéréo - pour PlayStation 4  Xbox One  Nintendo Switch  RV  Android et iOS - Noir
 ---
 
 Tienes [SteelSeries Arctis 3 Console - Casque de Jeu Filaire Stéréo - pour PlayStation 4  Xbox One  Nintendo Switch  RV  Android et iOS - Noir](https://www.amazon.fr/dp/B07HBGBFT9/?tag=tolees0d-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

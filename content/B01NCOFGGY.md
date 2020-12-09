@@ -10,8 +10,11 @@ author: ring
 slug: B01NCOFGGY
 description:
 actualPrice: 419.99 EUR
+currency: EUR
+price: 419.99
 comparePrice: 649.0 EUR
 inStock: true
+prodname: Eve - matelas à mémoire de forme Eve Classic  matelas 2 personnes 140 x 200 cm  respirant  garanti 10 ans  fabriqué en France
 ---
 
 Tienes [Eve - matelas à mémoire de forme Eve Classic  matelas 2 personnes 140 x 200 cm  respirant  garanti 10 ans  fabriqué en France](https://www.amazon.fr/dp/B01NCOFGGY/?tag=tolees0d-21) con un 35.29 % de descuento con precio de oferta de 419.99 EUR (original: 649.0 EUR) en el siguiente enlace!

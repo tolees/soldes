@@ -10,8 +10,11 @@ author: ring
 slug: B085PRNVG9
 description:
 actualPrice: 15.77 EUR
+currency: EUR
+price: 15.77
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Sedhoom Mandoline de Cuisine  6 en 1 Mandoline Multifonctions  Mandoline Cuisine  des Decoupe legumes Rapidement et Uniformément
 ---
 
 Ahora mismo tienes [Sedhoom Mandoline de Cuisine  6 en 1 Mandoline Multifonctions  Mandoline Cuisine  des Decoupe legumes Rapidement et Uniformément](https://www.amazon.fr/dp/B085PRNVG9/?tag=tolees0d-21) a 15.77 EUR (original: 39.99 EUR) (60.57 %  de descuento) en el siguiente enlace!

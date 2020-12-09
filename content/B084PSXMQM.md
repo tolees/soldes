@@ -10,8 +10,11 @@ author: ring
 slug: B084PSXMQM
 description:
 actualPrice: 149.99 EUR
+currency: EUR
+price: 149.99
 comparePrice: 219.99 EUR
 inStock: true
+prodname: BISSELL SpotClean Pet Pro | Nettoyeur Compact Portable | 15585
 ---
 
 Ahora mismo tienes [BISSELL SpotClean Pet Pro | Nettoyeur Compact Portable | 15585](https://www.amazon.fr/dp/B084PSXMQM/?tag=tolees0d-21) a 149.99 EUR (original: 219.99 EUR) (31.82 %  de descuento) en el siguiente enlace!

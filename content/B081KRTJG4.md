@@ -10,8 +10,11 @@ author: ring
 slug: B081KRTJG4
 description:
 actualPrice: 16.33 EUR
+currency: EUR
+price: 16.33
 comparePrice: 25.03 EUR
 inStock: true
+prodname: Les Damnes - Mediabook DVD + Blu-Ray + Livret [Édition Collector Blu-ray + DVD + Livret]
 ---
 
 Está [Les Damnes - Mediabook DVD + Blu-Ray + Livret [Édition Collector Blu-ray + DVD + Livret]](https://www.amazon.fr/dp/B081KRTJG4/?tag=tolees0d-21) con 34.76 de descuento por 16.33 EUR (original: 25.03 EUR) en el siguiente enlace!

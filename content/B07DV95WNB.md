@@ -10,8 +10,11 @@ author: ring
 slug: B07DV95WNB
 description:
 actualPrice: 35.9 EUR
+currency: EUR
+price: 35.9
 comparePrice: 50.16 EUR
 inStock: true
+prodname: Le Seigneur des Anneaux-La trilogie [Version Longue]
 ---
 
 Está [Le Seigneur des Anneaux-La trilogie [Version Longue]](https://www.amazon.fr/dp/B07DV95WNB/?tag=tolees0d-21) con 28.43 de descuento por 35.9 EUR (original: 50.16 EUR) en el siguiente enlace!

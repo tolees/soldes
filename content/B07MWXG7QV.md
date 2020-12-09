@@ -10,8 +10,11 @@ author: ring
 slug: B07MWXG7QV
 description:
 actualPrice: 21.98 EUR
+currency: EUR
+price: 21.98
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Days Gone
 ---
 
 Ahora mismo tienes [Days Gone](https://www.amazon.fr/dp/B07MWXG7QV/?tag=tolees0d-21) a 21.98 EUR (original: 69.99 EUR) (68.60 %  de descuento) en el siguiente enlace!

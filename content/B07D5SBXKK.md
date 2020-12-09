@@ -10,8 +10,11 @@ author: ring
 slug: B07D5SBXKK
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 29.95 EUR
 inStock: true
+prodname: PUMA ESS Logo Leggings Pantalons Femme  Cotton Black  S
 ---
 
 Ahora mismo tienes [PUMA ESS Logo Leggings Pantalons Femme  Cotton Black  S](https://www.amazon.fr/dp/B07D5SBXKK/?tag=tolees0d-21) a 16.99 EUR (original: 29.95 EUR) (43.27 %  de descuento) en el siguiente enlace!

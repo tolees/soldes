@@ -10,8 +10,11 @@ author: ring
 slug: B07TKXYS2R
 description:
 actualPrice: 35.6 EUR
+currency: EUR
+price: 35.6
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Samsonite Rewind Sac à Dos Ordinateur Portable M  44 cm  23 L  Rouge  Capri Red Stripes 
 ---
 
 Ahora mismo tienes [Samsonite Rewind Sac à Dos Ordinateur Portable M  44 cm  23 L  Rouge  Capri Red Stripes ](https://www.amazon.fr/dp/B07TKXYS2R/?tag=tolees0d-21) a 35.6 EUR (original: 89.0 EUR) (60.00 %  de descuento) en el siguiente enlace!

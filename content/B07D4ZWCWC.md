@@ -10,8 +10,11 @@ author: ring
 slug: B07D4ZWCWC
 description:
 actualPrice: 41.99 EUR
+currency: EUR
+price: 41.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Dexter-L intégrale : Saisons 1 à 8
 ---
 
 Ahora mismo tienes [Dexter-L intégrale : Saisons 1 à 8](https://www.amazon.fr/dp/B07D4ZWCWC/?tag=tolees0d-21) a 41.99 EUR (original: 59.99 EUR) (30.01 %  de descuento) en el siguiente enlace!

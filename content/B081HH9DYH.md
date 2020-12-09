@@ -10,8 +10,11 @@ author: ring
 slug: B081HH9DYH
 description:
 actualPrice: 57.58 EUR
+currency: EUR
+price: 57.58
 comparePrice: 79.9 EUR
 inStock: true
+prodname: SAINT ALGUE Fer à Lisser Demeliss ONE - Titanium Cuivré - Prêt à Lisser en 10 secondes - Température Stable - Etui Premium inclus - Garantie 2 ans
 ---
 
 Tienes [SAINT ALGUE Fer à Lisser Demeliss ONE - Titanium Cuivré - Prêt à Lisser en 10 secondes - Température Stable - Etui Premium inclus - Garantie 2 ans](https://www.amazon.fr/dp/B081HH9DYH/?tag=tolees0d-21) con un 27.93 % de descuento con precio de oferta de 57.58 EUR (original: 79.9 EUR) en el siguiente enlace!

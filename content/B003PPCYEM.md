@@ -10,8 +10,11 @@ author: ring
 slug: B003PPCYEM
 description:
 actualPrice: 35.85 EUR
+currency: EUR
+price: 35.85
 comparePrice: 95.0 EUR
 inStock: true
+prodname: Eastpak Ultimate Sac à Dos  42 cm  42 L  Gris  Sunday Grey 
 ---
 
 Está [Eastpak Ultimate Sac à Dos  42 cm  42 L  Gris  Sunday Grey ](https://www.amazon.fr/dp/B003PPCYEM/?tag=tolees0d-21) con 62.26 de descuento por 35.85 EUR (original: 95.0 EUR) en el siguiente enlace!

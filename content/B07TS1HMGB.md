@@ -10,8 +10,11 @@ author: ring
 slug: B07TS1HMGB
 description:
 actualPrice: 25.16 EUR
+currency: EUR
+price: 25.16
 comparePrice: 59.99 EUR
 inStock: true
+prodname: climatiseur mobile  clim mobile  climatiseur portable  Moyen rapide et facile de refroidir un espace personnel  adapté au chevet  au bureau et à la salle d étude. Réglage du niveau de vent  clé USB
 ---
 
 Está [climatiseur mobile  clim mobile  climatiseur portable  Moyen rapide et facile de refroidir un espace personnel  adapté au chevet  au bureau et à la salle d étude. Réglage du niveau de vent  clé USB](https://www.amazon.fr/dp/B07TS1HMGB/?tag=tolees0d-21) con 58.06 de descuento por 25.16 EUR (original: 59.99 EUR) en el siguiente enlace!

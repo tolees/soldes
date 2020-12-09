@@ -10,8 +10,11 @@ author: ring
 slug: B07SXFS6K2
 description:
 actualPrice: 46.41 EUR
+currency: EUR
+price: 46.41
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Perceuse Visseuse à Percussion Professionnel sans Fil 18V  BLUE RIDGE BR2808K2 Marteau Perforateur avec 43pcs accessoires  Mandrin sans Clé 13mm Couple Maxi 42Nm   2 Batteries Lithium-ion 1 5Ah
 ---
 
 Ahora mismo tienes [Perceuse Visseuse à Percussion Professionnel sans Fil 18V  BLUE RIDGE BR2808K2 Marteau Perforateur avec 43pcs accessoires  Mandrin sans Clé 13mm Couple Maxi 42Nm   2 Batteries Lithium-ion 1 5Ah](https://www.amazon.fr/dp/B07SXFS6K2/?tag=tolees0d-21) a 46.41 EUR (original: 79.99 EUR) (41.98 %  de descuento) en el siguiente enlace!

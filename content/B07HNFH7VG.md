@@ -10,8 +10,11 @@ author: ring
 slug: B07HNFH7VG
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 15.05 EUR
 inStock: true
+prodname: Borsalino [Édition Prestige-Version Restaurée]
 ---
 
 Tienes [Borsalino [Édition Prestige-Version Restaurée]](https://www.amazon.fr/dp/B07HNFH7VG/?tag=tolees0d-21) con un 33.62 % de descuento con precio de oferta de 9.99 EUR (original: 15.05 EUR) en el siguiente enlace!

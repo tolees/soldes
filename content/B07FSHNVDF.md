@@ -10,8 +10,11 @@ author: ring
 slug: B07FSHNVDF
 description:
 actualPrice: 166.03 EUR
+currency: EUR
+price: 166.03
 comparePrice: 300.0 EUR
 inStock: true
+prodname: Oral-B Genius 10 Midnight Black Brosse À Dents Électrique Par Braun
 ---
 
 Está [Oral-B Genius 10 Midnight Black Brosse À Dents Électrique Par Braun](https://www.amazon.fr/dp/B07FSHNVDF/?tag=tolees0d-21) con 44.66 de descuento por 166.03 EUR (original: 300.0 EUR) en el siguiente enlace!

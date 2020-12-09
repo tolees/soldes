@@ -10,8 +10,11 @@ author: ring
 slug: B07TPYWFVS
 description:
 actualPrice: 53.12 EUR
+currency: EUR
+price: 53.12
 comparePrice: 110.0 EUR
 inStock: true
+prodname: Clarks Foxwell Hall  Derbys Homme  Noir  Black SDE Black SDE   43 EU
 ---
 
 Tienes [Clarks Foxwell Hall  Derbys Homme  Noir  Black SDE Black SDE   43 EU](https://www.amazon.fr/dp/B07TPYWFVS/?tag=tolees0d-21) con un 51.71 % de descuento con precio de oferta de 53.12 EUR (original: 110.0 EUR) en el siguiente enlace!

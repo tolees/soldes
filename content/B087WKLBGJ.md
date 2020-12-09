@@ -10,8 +10,11 @@ author: ring
 slug: B087WKLBGJ
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 58.99 EUR
 inStock: true
+prodname: AUKEY Écouteurs Bluetooth sans Fil avec USB-C Charge Rapide  IPX5 Étanche  25 Heures d Autonomie  Appariement Automatique  Stéréo Hi-FI Oreillette pour iPhone et Android
 ---
 
 Ahora mismo tienes [AUKEY Écouteurs Bluetooth sans Fil avec USB-C Charge Rapide  IPX5 Étanche  25 Heures d Autonomie  Appariement Automatique  Stéréo Hi-FI Oreillette pour iPhone et Android](https://www.amazon.fr/dp/B087WKLBGJ/?tag=tolees0d-21) a 33.99 EUR (original: 58.99 EUR) (42.38 %  de descuento) en el siguiente enlace!

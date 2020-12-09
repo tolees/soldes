@@ -10,8 +10,11 @@ author: ring
 slug: B06ZY2BWT5
 description:
 actualPrice: 56.0 EUR
+currency: EUR
+price: 56.0
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Tommy Hilfiger M2285Axwell 11C1  Baskets Basses Homme  Gris  Midnight   43 EU
 ---
 
 Ahora mismo tienes [Tommy Hilfiger M2285Axwell 11C1  Baskets Basses Homme  Gris  Midnight   43 EU](https://www.amazon.fr/dp/B06ZY2BWT5/?tag=tolees0d-21) a 56.0 EUR (original: 99.9 EUR) (43.94 %  de descuento) en el siguiente enlace!

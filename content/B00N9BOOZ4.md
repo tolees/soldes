@@ -10,8 +10,11 @@ author: ring
 slug: B00N9BOOZ4
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Beurer MP 62 Ensemble manucure/pédicure électrique  10 embouts  lumière LED et pochette de rangement  blanc
 ---
 
 Está [Beurer MP 62 Ensemble manucure/pédicure électrique  10 embouts  lumière LED et pochette de rangement  blanc](https://www.amazon.fr/dp/B00N9BOOZ4/?tag=tolees0d-21) con 53.76 de descuento por 36.99 EUR (original: 79.99 EUR) en el siguiente enlace!

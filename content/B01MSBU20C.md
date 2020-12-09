@@ -10,8 +10,11 @@ author: ring
 slug: B01MSBU20C
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: foodspring L-carnitine  120 gélules  Perdre du poids avec la L-carnitine
 ---
 
 Está [foodspring L-carnitine  120 gélules  Perdre du poids avec la L-carnitine](https://www.amazon.fr/dp/B01MSBU20C/?tag=tolees0d-21) con 33.34 de descuento por 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

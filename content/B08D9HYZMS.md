@@ -10,8 +10,11 @@ author: ring
 slug: B08D9HYZMS
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 149.99 EUR
 inStock: true
+prodname: Philips HD9252/90 Airfryer Compact Noir - Bien plus qu une friteuse : faites cuire  frire  rôtir et griller tous vos aliments
 ---
 
 Ahora mismo tienes [Philips HD9252/90 Airfryer Compact Noir - Bien plus qu une friteuse : faites cuire  frire  rôtir et griller tous vos aliments](https://www.amazon.fr/dp/B08D9HYZMS/?tag=tolees0d-21) a 99.99 EUR (original: 149.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

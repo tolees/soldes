@@ -10,8 +10,11 @@ author: ring
 slug: B00J9YQIMC
 description:
 actualPrice: 249.0 EUR
+currency: EUR
+price: 249.0
 comparePrice: 499.0 EUR
 inStock: true
+prodname: Samsonite Lite-Cube - Spinner L Valise  76 cm  96 L  Gris  Graphite 
 ---
 
 Ahora mismo tienes [Samsonite Lite-Cube - Spinner L Valise  76 cm  96 L  Gris  Graphite ](https://www.amazon.fr/dp/B00J9YQIMC/?tag=tolees0d-21) a 249.0 EUR (original: 499.0 EUR) (50.10 %  de descuento) en el siguiente enlace!

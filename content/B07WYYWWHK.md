@@ -10,8 +10,11 @@ author: ring
 slug: B07WYYWWHK
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: FITTOO Legging de Sport Femme Pantalon Yoga Athlétique Taille Haute Rayé Bande latérale Collant Elastique pour Jogging Gym Course Rose L
 ---
 
 Tienes [FITTOO Legging de Sport Femme Pantalon Yoga Athlétique Taille Haute Rayé Bande latérale Collant Elastique pour Jogging Gym Course Rose L](https://www.amazon.fr/dp/B07WYYWWHK/?tag=tolees0d-21) con un 30.78 % de descuento con precio de oferta de 17.99 EUR (original: 25.99 EUR) en el siguiente enlace!

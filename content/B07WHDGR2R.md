@@ -10,8 +10,11 @@ author: ring
 slug: B07WHDGR2R
 description:
 actualPrice: 599.0 EUR
+currency: EUR
+price: 599.0
 comparePrice: 799.0 EUR
 inStock: true
+prodname: Parrot Anafi - Pack Drone FPV - Quadricoptère Hyper Léger et Pliable - Lunettes FPV Cockpitglasses 3 pour Vols Immersifs en Live Streaming Full HD - Pack Complet et Compact avec Sac à Dos PF728050
 ---
 
 Está [Parrot Anafi - Pack Drone FPV - Quadricoptère Hyper Léger et Pliable - Lunettes FPV Cockpitglasses 3 pour Vols Immersifs en Live Streaming Full HD - Pack Complet et Compact avec Sac à Dos PF728050](https://www.amazon.fr/dp/B07WHDGR2R/?tag=tolees0d-21) con 25.03 de descuento por 599.0 EUR (original: 799.0 EUR) en el siguiente enlace!

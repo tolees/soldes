@@ -10,8 +10,11 @@ author: ring
 slug: B01BSISQR6
 description:
 actualPrice: 29.2 EUR
+currency: EUR
+price: 29.2
 comparePrice: 73.01 EUR
 inStock: true
+prodname: Tots by Smart Rike 240–108 Parure de lit classic  rose de melange
 ---
 
 Está [Tots by Smart Rike 240–108 Parure de lit classic  rose de melange](https://www.amazon.fr/dp/B01BSISQR6/?tag=tolees0d-21) con 60.01 de descuento por 29.2 EUR (original: 73.01 EUR) en el siguiente enlace!

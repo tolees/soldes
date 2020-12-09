@@ -10,8 +10,11 @@ author: ring
 slug: B001IBSI9A
 description:
 actualPrice: 127.99 EUR
+currency: EUR
+price: 127.99
 comparePrice: 172.8 EUR
 inStock: true
+prodname: Bosch Professional BT350 Tige Télescopique BT 350 Professional  Bleu
 ---
 
 Ahora mismo tienes [Bosch Professional BT350 Tige Télescopique BT 350 Professional  Bleu](https://www.amazon.fr/dp/B001IBSI9A/?tag=tolees0d-21) a 127.99 EUR (original: 172.8 EUR) (25.93 %  de descuento) en el siguiente enlace!

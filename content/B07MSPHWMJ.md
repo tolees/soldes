@@ -10,8 +10,11 @@ author: ring
 slug: B07MSPHWMJ
 description:
 actualPrice: 115.66 EUR
+currency: EUR
+price: 115.66
 comparePrice: 255.0 EUR
 inStock: true
+prodname: Hackett Army Polo Fzip Gilet  Vert  Forest Green 682   X-Large Homme
 ---
 
 Tienes [Hackett Army Polo Fzip Gilet  Vert  Forest Green 682   X-Large Homme](https://www.amazon.fr/dp/B07MSPHWMJ/?tag=tolees0d-21) con un 54.64 % de descuento con precio de oferta de 115.66 EUR (original: 255.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07PJSTBKQ
 description:
 actualPrice: 24.53 EUR
+currency: EUR
+price: 24.53
 comparePrice: 39.0 EUR
 inStock: true
+prodname: Kaporal - Jean Coupe Slim - Cego - Garçon - 12A - Bleu
 ---
 
 Está [Kaporal - Jean Coupe Slim - Cego - Garçon - 12A - Bleu](https://www.amazon.fr/dp/B07PJSTBKQ/?tag=tolees0d-21) con 37.10 de descuento por 24.53 EUR (original: 39.0 EUR) en el siguiente enlace!

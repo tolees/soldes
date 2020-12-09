@@ -10,8 +10,11 @@ author: ring
 slug: B07SVP1D6F
 description:
 actualPrice: 19.02 EUR
+currency: EUR
+price: 19.02
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Darksiders - Genesis
 ---
 
 Ahora mismo tienes [Darksiders - Genesis](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21) a 19.02 EUR (original: 39.99 EUR) (52.44 %  de descuento) en el siguiente enlace!

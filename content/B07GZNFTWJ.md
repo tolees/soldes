@@ -10,8 +10,11 @@ author: ring
 slug: B07GZNFTWJ
 description:
 actualPrice: 31.24 EUR
+currency: EUR
+price: 31.24
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Klorofil- Jouet D éveil  700200  Multicolore
 ---
 
 Tienes [Klorofil- Jouet D éveil  700200  Multicolore](https://www.amazon.fr/dp/B07GZNFTWJ/?tag=tolees0d-21) con un 37.39 % de descuento con precio de oferta de 31.24 EUR (original: 49.9 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08FQHXYBL
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: FIFA 21  Xbox One  - Version Xbox Series X incluse
 ---
 
 Está [FIFA 21  Xbox One  - Version Xbox Series X incluse](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21) con 51.44 de descuento por 33.99 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B000MPDQZE
 description:
 actualPrice: 77.5 EUR
+currency: EUR
+price: 77.5
 comparePrice: 108.97 EUR
 inStock: true
+prodname: Rayban Aviator Large Metal 001/3e Montures de Lunettes  Or  Gold   55 mm Mixte Adulte
 ---
 
 Está [Rayban Aviator Large Metal 001/3e Montures de Lunettes  Or  Gold   55 mm Mixte Adulte](https://www.amazon.fr/dp/B000MPDQZE/?tag=tolees0d-21) con 28.88 de descuento por 77.5 EUR (original: 108.97 EUR) en el siguiente enlace!

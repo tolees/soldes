@@ -10,8 +10,11 @@ author: ring
 slug: B07NPZ7CWR
 description:
 actualPrice: 54.44 EUR
+currency: EUR
+price: 54.44
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Hurley M Advantage Plus 1/1 Jacket Combinaisons De Surf Homme  Blue Force  FR : M  Taille Fabricant : M 
 ---
 
 Está [Hurley M Advantage Plus 1/1 Jacket Combinaisons De Surf Homme  Blue Force  FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B07NPZ7CWR/?tag=tolees0d-21) con 35.95 de descuento por 54.44 EUR (original: 85.0 EUR) en el siguiente enlace!

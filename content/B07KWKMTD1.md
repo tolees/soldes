@@ -10,8 +10,11 @@ author: ring
 slug: B07KWKMTD1
 description:
 actualPrice: 3.49 EUR
+currency: EUR
+price: 3.49
 comparePrice: 4.75 EUR
 inStock: true
+prodname: Le Petit Marseillais Spray Hydratant Pour Cheveux 2 en 1  Eau de Coco et Fleur d Oranger  200ml
 ---
 
 Está [Le Petit Marseillais Spray Hydratant Pour Cheveux 2 en 1  Eau de Coco et Fleur d Oranger  200ml](https://www.amazon.fr/dp/B07KWKMTD1/?tag=tolees0d-21) con 26.53 de descuento por 3.49 EUR (original: 4.75 EUR) en el siguiente enlace!

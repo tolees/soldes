@@ -10,8 +10,11 @@ author: ring
 slug: B07Z5CMDPN
 description:
 actualPrice: 14.97 EUR
+currency: EUR
+price: 14.97
 comparePrice: 29.95 EUR
 inStock: true
+prodname: G-STAR RAW Boxed Raw Graphic Straight T-Shirt  Indigo 336-857  Large Hommes
 ---
 
 Tienes [G-STAR RAW Boxed Raw Graphic Straight T-Shirt  Indigo 336-857  Large Hommes](https://www.amazon.fr/dp/B07Z5CMDPN/?tag=tolees0d-21) con un 50.02 % de descuento con precio de oferta de 14.97 EUR (original: 29.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B001SMSUNI
 description:
 actualPrice: 103.4 EUR
+currency: EUR
+price: 103.4
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Kryptonite New York Noose 1275 Antivol Haute sécurité avec Disque de Verrouillage à Barre transversale innovant
 ---
 
 Está [Kryptonite New York Noose 1275 Antivol Haute sécurité avec Disque de Verrouillage à Barre transversale innovant](https://www.amazon.fr/dp/B001SMSUNI/?tag=tolees0d-21) con 26.14 de descuento por 103.4 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08CZG69GB
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 134.18 EUR
 inStock: true
+prodname: Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Argent 
 ---
 
 Está [Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Argent ](https://www.amazon.fr/dp/B08CZG69GB/?tag=tolees0d-21) con 52.31 de descuento por 63.99 EUR (original: 134.18 EUR) en el siguiente enlace!

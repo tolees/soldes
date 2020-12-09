@@ -10,8 +10,11 @@ author: ring
 slug: B0887WZPWD
 description:
 actualPrice: 49.98 EUR
+currency: EUR
+price: 49.98
 comparePrice: 99.96 EUR
 inStock: true
+prodname: Teakpeak Maquette Architecture  1167pièces Fleur de Cerisier Mini Blocs de Construction - Jeu de Construction Architecture- Arbre Sakura Paysage Compatible avec Lego
 ---
 
 Tienes [Teakpeak Maquette Architecture  1167pièces Fleur de Cerisier Mini Blocs de Construction - Jeu de Construction Architecture- Arbre Sakura Paysage Compatible avec Lego](https://www.amazon.fr/dp/B0887WZPWD/?tag=tolees0d-21) con un 50.00 % de descuento con precio de oferta de 49.98 EUR (original: 99.96 EUR) en el siguiente enlace!

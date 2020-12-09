@@ -10,8 +10,11 @@ author: ring
 slug: B08DXSVP6V
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Masseur Sans Fil con 10 Modes de Vitesses Différentes  Double Moteur Silencieux  100% Étanche Masseur pour le cou  les épaules  le dos  les jambes  les pieds
 ---
 
 Está [Masseur Sans Fil con 10 Modes de Vitesses Différentes  Double Moteur Silencieux  100% Étanche Masseur pour le cou  les épaules  le dos  les jambes  les pieds](https://www.amazon.fr/dp/B08DXSVP6V/?tag=tolees0d-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

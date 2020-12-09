@@ -10,8 +10,11 @@ author: ring
 slug: B07TQ8CP7X
 description:
 actualPrice: 69.95 EUR
+currency: EUR
+price: 69.95
 comparePrice: 99.9 EUR
 inStock: true
+prodname: Calvin Klein Jeans Ckj 011 Mid Rise Skinny  Jean skinny Skinny Femme  Bleu  Amsterdam Blue Mid 911   24W/32L  Taille fabricant: 24W/32L 
 ---
 
 Tienes [Calvin Klein Jeans Ckj 011 Mid Rise Skinny  Jean skinny Skinny Femme  Bleu  Amsterdam Blue Mid 911   24W/32L  Taille fabricant: 24W/32L ](https://www.amazon.fr/dp/B07TQ8CP7X/?tag=tolees0d-21) con un 29.98 % de descuento con precio de oferta de 69.95 EUR (original: 99.9 EUR) en el siguiente enlace!

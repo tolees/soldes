@@ -10,8 +10,11 @@ author: ring
 slug: B01FINTCPC
 description:
 actualPrice: 18.87 EUR
+currency: EUR
+price: 18.87
 comparePrice: 40.13 EUR
 inStock: true
+prodname: Psycho-Pass-Saison 2 [Édition Létale Blu-Ray + DVD]
 ---
 
 Tienes [Psycho-Pass-Saison 2 [Édition Létale Blu-Ray + DVD]](https://www.amazon.fr/dp/B01FINTCPC/?tag=tolees0d-21) con un 52.98 % de descuento con precio de oferta de 18.87 EUR (original: 40.13 EUR) en el siguiente enlace!

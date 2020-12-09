@@ -10,8 +10,11 @@ author: ring
 slug: B08BNSQWPQ
 description:
 actualPrice: 11.49 EUR
+currency: EUR
+price: 11.49
 comparePrice: 15.99 EUR
 inStock: true
+prodname: RAMPOW Câble USB C vers USB C 100W 2m  Câble USB Type C Charge Rapide Power Delivery Nylon Tressé pour Macbook Pro  iPad Pro 2018  Nintendo Switch  Samsung S8/S9/S10  Google Pixel - Bleu Marine
 ---
 
 Está [RAMPOW Câble USB C vers USB C 100W 2m  Câble USB Type C Charge Rapide Power Delivery Nylon Tressé pour Macbook Pro  iPad Pro 2018  Nintendo Switch  Samsung S8/S9/S10  Google Pixel - Bleu Marine](https://www.amazon.fr/dp/B08BNSQWPQ/?tag=tolees0d-21) con 28.14 de descuento por 11.49 EUR (original: 15.99 EUR) en el siguiente enlace!

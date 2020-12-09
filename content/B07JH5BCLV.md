@@ -10,16 +10,17 @@ author: ring
 slug: B07JH5BCLV
 description:
 actualPrice: 78.39 EUR
+currency: EUR
+price: 78.39
 comparePrice: 173.59 EUR
 inStock: true
+prodname: Newton Gravity 8 Chaussure De Course à Pied - 41
 ---
 
-Está [Newton Gravity 8 Chaussure De Course à Pied - 41](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21) con 54.84 de descuento por 78.39 EUR (original: 173.59 EUR) en el siguiente enlace!
+Ahora mismo tienes [Newton Gravity 8 Chaussure De Course à Pied - 41](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21) a 78.39 EUR (original: 173.59 EUR) (54.84 %  de descuento) en el siguiente enlace!
 
 [![Newton Gravity 8 Chaussure De Course à P](https://m.media-amazon.com/images/I/517+D+nksNL._SL200_.jpg)](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

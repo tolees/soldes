@@ -10,8 +10,11 @@ author: ring
 slug: B07JY78KJY
 description:
 actualPrice: 11.98 EUR
+currency: EUR
+price: 11.98
 comparePrice: 15.98 EUR
 inStock: true
+prodname: Mini Modèle de Voiture Ensemble de Jouets de camions avec Tapis de Jeu pour les Enfants Garcon 3 ans
 ---
 
 Ahora mismo tienes [Mini Modèle de Voiture Ensemble de Jouets de camions avec Tapis de Jeu pour les Enfants Garcon 3 ans](https://www.amazon.fr/dp/B07JY78KJY/?tag=tolees0d-21) a 11.98 EUR (original: 15.98 EUR) (25.03 %  de descuento) en el siguiente enlace!

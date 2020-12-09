@@ -10,8 +10,11 @@ author: ring
 slug: B08LLBGZ7S
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Manette pour Switch sans Fil  EasySMX Manette Bluetooth pour Nintendo Switch Pro/Switch Lite  Manette Filaire pour PC Windows XP/10/7/8/8.1 avec Double Vibration et Turbo  Dragon
 ---
 
 Está [Manette pour Switch sans Fil  EasySMX Manette Bluetooth pour Nintendo Switch Pro/Switch Lite  Manette Filaire pour PC Windows XP/10/7/8/8.1 avec Double Vibration et Turbo  Dragon](https://www.amazon.fr/dp/B08LLBGZ7S/?tag=tolees0d-21) con 55.56 de descuento por 39.99 EUR (original: 89.99 EUR) en el siguiente enlace!

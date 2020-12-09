@@ -10,8 +10,11 @@ author: ring
 slug: B00UT9FOJE
 description:
 actualPrice: 5.02 EUR
+currency: EUR
+price: 5.02
 comparePrice: 30.08 EUR
 inStock: true
+prodname: Better Call Saul-Saison 1 [Blu-Ray + Copie Digitale]
 ---
 
 Está [Better Call Saul-Saison 1 [Blu-Ray + Copie Digitale]](https://www.amazon.fr/dp/B00UT9FOJE/?tag=tolees0d-21) con 83.31 de descuento por 5.02 EUR (original: 30.08 EUR) en el siguiente enlace!

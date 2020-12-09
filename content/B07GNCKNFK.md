@@ -10,8 +10,11 @@ author: ring
 slug: B07GNCKNFK
 description:
 actualPrice: 13.99 EUR
+currency: EUR
+price: 13.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: FITTOO Legging de Sport Femme Pantalon Yoga Collant Fitness Taille Haute Amincissant Tulle Gym Jogging Pantalon Moulant  #1 Gris  S
 ---
 
 Ahora mismo tienes [FITTOO Legging de Sport Femme Pantalon Yoga Collant Fitness Taille Haute Amincissant Tulle Gym Jogging Pantalon Moulant  #1 Gris  S](https://www.amazon.fr/dp/B07GNCKNFK/?tag=tolees0d-21) a 13.99 EUR (original: 25.99 EUR) (46.17 %  de descuento) en el siguiente enlace!

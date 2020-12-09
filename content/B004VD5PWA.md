@@ -10,8 +10,11 @@ author: ring
 slug: B004VD5PWA
 description:
 actualPrice: 25.45 EUR
+currency: EUR
+price: 25.45
 comparePrice: 51.87 EUR
 inStock: true
+prodname: Marie Brizard Curaçao Liqueur Triple Sec 700 ml
 ---
 
 Ahora mismo tienes [Marie Brizard Curaçao Liqueur Triple Sec 700 ml](https://www.amazon.fr/dp/B004VD5PWA/?tag=tolees0d-21) a 25.45 EUR (original: 51.87 EUR) (50.94 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00KBWBWIQ
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 18.0 EUR
 inStock: true
+prodname: Oral-B CrossAction Brossettes De Rechange Pour Brosse À Dents Électrique x3
 ---
 
 Ahora mismo tienes [Oral-B CrossAction Brossettes De Rechange Pour Brosse À Dents Électrique x3](https://www.amazon.fr/dp/B00KBWBWIQ/?tag=tolees0d-21) a 9.99 EUR (original: 18.0 EUR) (44.50 %  de descuento) en el siguiente enlace!

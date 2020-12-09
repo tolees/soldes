@@ -10,8 +10,11 @@ author: ring
 slug: B01H1OOU8K
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Death Stranding
 ---
 
 Está [Death Stranding](https://www.amazon.fr/dp/B01H1OOU8K/?tag=tolees0d-21) con 68.58 de descuento por 21.99 EUR (original: 69.99 EUR) en el siguiente enlace!

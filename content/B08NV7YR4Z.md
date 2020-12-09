@@ -10,8 +10,11 @@ author: ring
 slug: B08NV7YR4Z
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 133.39 EUR
 inStock: true
+prodname: Disque Dur Externe 2to USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Bleu 
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2to USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Bleu ](https://www.amazon.fr/dp/B08NV7YR4Z/?tag=tolees0d-21) a 63.99 EUR (original: 133.39 EUR) (52.03 %  de descuento) en el siguiente enlace!

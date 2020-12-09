@@ -10,16 +10,17 @@ author: ring
 slug: B004N3CACQ
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 115.72 EUR
 inStock: true
+prodname: Medisana MCN Housse de siège de massage Shiatsu avec 3 zones de massage  fonction chaleur  fonction lumière rouge  massage de la nuque réglable en hauteur  convient pour tout fauteuil
 ---
 
-Está [Medisana MCN Housse de siège de massage Shiatsu avec 3 zones de massage  fonction chaleur  fonction lumière rouge  massage de la nuque réglable en hauteur  convient pour tout fauteuil](https://www.amazon.fr/dp/B004N3CACQ/?tag=tolees0d-21) con 30.88 de descuento por 79.99 EUR (original: 115.72 EUR) en el siguiente enlace!
+Ahora mismo tienes [Medisana MCN Housse de siège de massage Shiatsu avec 3 zones de massage  fonction chaleur  fonction lumière rouge  massage de la nuque réglable en hauteur  convient pour tout fauteuil](https://www.amazon.fr/dp/B004N3CACQ/?tag=tolees0d-21) a 79.99 EUR (original: 115.72 EUR) (30.88 %  de descuento) en el siguiente enlace!
 
 [![Medisana MCN Housse de siège de massage ](https://m.media-amazon.com/images/I/4196mFJfOhL._SL200_.jpg)](https://www.amazon.fr/dp/B004N3CACQ/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B004N3CACQ/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B004N3CACQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -10,8 +10,11 @@ author: ring
 slug: B00BMMJUC4
 description:
 actualPrice: 41.97 EUR
+currency: EUR
+price: 41.97
 comparePrice: 109.9 EUR
 inStock: true
+prodname: Geox U Dublin B  Brogues Homme  Noir Blackc9999  45 EU
 ---
 
 Ahora mismo tienes [Geox U Dublin B  Brogues Homme  Noir Blackc9999  45 EU](https://www.amazon.fr/dp/B00BMMJUC4/?tag=tolees0d-21) a 41.97 EUR (original: 109.9 EUR) (61.81 %  de descuento) en el siguiente enlace!

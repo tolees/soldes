@@ -10,8 +10,11 @@ author: ring
 slug: B00MHRT16I
 description:
 actualPrice: 40.16 EUR
+currency: EUR
+price: 40.16
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Crèche des Bébés - Mini Poupées
 ---
 
 Está [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Crèche des Bébés - Mini Poupées](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21) con 33.06 de descuento por 40.16 EUR (original: 59.99 EUR) en el siguiente enlace!

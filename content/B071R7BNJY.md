@@ -10,8 +10,11 @@ author: ring
 slug: B071R7BNJY
 description:
 actualPrice: 82.7 EUR
+currency: EUR
+price: 82.7
 comparePrice: 215.0 EUR
 inStock: true
+prodname: Samsonite Flux - Spinner M Valise Extensible  68 cm  85 L  Noir  Black 
 ---
 
 Tienes [Samsonite Flux - Spinner M Valise Extensible  68 cm  85 L  Noir  Black ](https://www.amazon.fr/dp/B071R7BNJY/?tag=tolees0d-21) con un 61.53 % de descuento con precio de oferta de 82.7 EUR (original: 215.0 EUR) en el siguiente enlace!

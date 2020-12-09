@@ -10,8 +10,11 @@ author: ring
 slug: B07WC1MXN7
 description:
 actualPrice: 399.0 EUR
+currency: EUR
+price: 399.0
 comparePrice: 599.0 EUR
 inStock: true
+prodname: ECOVACS DEEBOT OZMO 950 – robot aspirateur 2 en 1 avec fonction d essuyage  navigation intelligente et détection d‘obstacles – Google Home  Alexa & App control
 ---
 
 Ahora mismo tienes [ECOVACS DEEBOT OZMO 950 – robot aspirateur 2 en 1 avec fonction d essuyage  navigation intelligente et détection d‘obstacles – Google Home  Alexa & App control](https://www.amazon.fr/dp/B07WC1MXN7/?tag=tolees0d-21) a 399.0 EUR (original: 599.0 EUR) (33.39 %  de descuento) en el siguiente enlace!

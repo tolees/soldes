@@ -10,8 +10,11 @@ author: ring
 slug: B005EI1LLK
 description:
 actualPrice: 8.55 EUR
+currency: EUR
+price: 8.55
 comparePrice: 17.05 EUR
 inStock: true
+prodname: Les Chaussons Rouges [Blu-Ray]
 ---
 
 Ahora mismo tienes [Les Chaussons Rouges [Blu-Ray]](https://www.amazon.fr/dp/B005EI1LLK/?tag=tolees0d-21) a 8.55 EUR (original: 17.05 EUR) (49.85 %  de descuento) en el siguiente enlace!

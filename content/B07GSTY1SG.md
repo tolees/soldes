@@ -10,8 +10,11 @@ author: ring
 slug: B07GSTY1SG
 description:
 actualPrice: 24.9 EUR
+currency: EUR
+price: 24.9
 comparePrice: 39.9 EUR
 inStock: true
+prodname: Hommes Mode Sneakers Confort Respirant Doux Maille De Sports De Plein Air Chaussures De Marche Vert 46 EU
 ---
 
 Está [Hommes Mode Sneakers Confort Respirant Doux Maille De Sports De Plein Air Chaussures De Marche Vert 46 EU](https://www.amazon.fr/dp/B07GSTY1SG/?tag=tolees0d-21) con 37.59 de descuento por 24.9 EUR (original: 39.9 EUR) en el siguiente enlace!

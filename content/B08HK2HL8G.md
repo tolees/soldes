@@ -10,8 +10,11 @@ author: ring
 slug: B08HK2HL8G
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 60.42 EUR
 inStock: true
+prodname: Dihope Survêtement Homme Ensemble de Sport 2 Pièces Casual Sweat-Shirt Zip à Capuche et Pantalon de Jogging Cordon de Serrage Sportwear Tenue de Fitness Running Gym
 ---
 
 Está [Dihope Survêtement Homme Ensemble de Sport 2 Pièces Casual Sweat-Shirt Zip à Capuche et Pantalon de Jogging Cordon de Serrage Sportwear Tenue de Fitness Running Gym](https://www.amazon.fr/dp/B08HK2HL8G/?tag=tolees0d-21) con 63.60 de descuento por 21.99 EUR (original: 60.42 EUR) en el siguiente enlace!

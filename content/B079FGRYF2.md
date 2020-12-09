@@ -10,8 +10,11 @@ author: ring
 slug: B079FGRYF2
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 50.16 EUR
 inStock: true
+prodname: Heavy Object-Intégrale-6 DVD
 ---
 
 Tienes [Heavy Object-Intégrale-6 DVD](https://www.amazon.fr/dp/B079FGRYF2/?tag=tolees0d-21) con un 34.23 % de descuento con precio de oferta de 32.99 EUR (original: 50.16 EUR) en el siguiente enlace!

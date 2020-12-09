@@ -10,8 +10,11 @@ author: ring
 slug: B004KZLA8M
 description:
 actualPrice: 6.99 EUR
+currency: EUR
+price: 6.99
 comparePrice: 9.9 EUR
 inStock: true
+prodname: Puressentiel - Respiratoire - Huiles Essentielles pour Diffusion - Diffuse Respi - 100% pures et naturelles - Aide à respirer librement - 30 ml
 ---
 
 Está [Puressentiel - Respiratoire - Huiles Essentielles pour Diffusion - Diffuse Respi - 100% pures et naturelles - Aide à respirer librement - 30 ml](https://www.amazon.fr/dp/B004KZLA8M/?tag=tolees0d-21) con 29.39 de descuento por 6.99 EUR (original: 9.9 EUR) en el siguiente enlace!

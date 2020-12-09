@@ -10,8 +10,11 @@ author: ring
 slug: B01N5HLNB8
 description:
 actualPrice: 61.0 EUR
+currency: EUR
+price: 61.0
 comparePrice: 94.95 EUR
 inStock: true
+prodname: Elizabeth Arden Advanced Ceramide Capsules Sérum Quotidien Rénovateur de Jeunesse 90 capsules
 ---
 
 Ahora mismo tienes [Elizabeth Arden Advanced Ceramide Capsules Sérum Quotidien Rénovateur de Jeunesse 90 capsules](https://www.amazon.fr/dp/B01N5HLNB8/?tag=tolees0d-21) a 61.0 EUR (original: 94.95 EUR) (35.76 %  de descuento) en el siguiente enlace!

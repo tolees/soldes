@@ -10,8 +10,11 @@ author: ring
 slug: B07KK3MBQY
 description:
 actualPrice: 99.95 EUR
+currency: EUR
+price: 99.95
 comparePrice: 139.0 EUR
 inStock: true
+prodname: Replay Anbass Jean Slim  Beige  Sand 10   W33/L34  Taille Fabricant: 33  Homme
 ---
 
 Ahora mismo tienes [Replay Anbass Jean Slim  Beige  Sand 10   W33/L34  Taille Fabricant: 33  Homme](https://www.amazon.fr/dp/B07KK3MBQY/?tag=tolees0d-21) a 99.95 EUR (original: 139.0 EUR) (28.09 %  de descuento) en el siguiente enlace!

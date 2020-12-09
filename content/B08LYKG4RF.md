@@ -10,8 +10,11 @@ author: ring
 slug: B08LYKG4RF
 description:
 actualPrice: 63.99 EUR
+currency: EUR
+price: 63.99
 comparePrice: 134.35 EUR
 inStock: true
+prodname: Disque Dur Externe 2to Type C USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Noir 
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2to Type C USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Noir ](https://www.amazon.fr/dp/B08LYKG4RF/?tag=tolees0d-21) a 63.99 EUR (original: 134.35 EUR) (52.37 %  de descuento) en el siguiente enlace!

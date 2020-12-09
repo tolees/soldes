@@ -10,8 +10,11 @@ author: ring
 slug: B07BDZG1TQ
 description:
 actualPrice: 14.25 EUR
+currency: EUR
+price: 14.25
 comparePrice: 21.99 EUR
 inStock: true
+prodname: Only ONLGEENA XO L/S Pullover KNT Noos Pull  Jaune  Golden Yellow Golden Yellow   38  Taille Fabricant: Small  Femme
 ---
 
 Ahora mismo tienes [Only ONLGEENA XO L/S Pullover KNT Noos Pull  Jaune  Golden Yellow Golden Yellow   38  Taille Fabricant: Small  Femme](https://www.amazon.fr/dp/B07BDZG1TQ/?tag=tolees0d-21) a 14.25 EUR (original: 21.99 EUR) (35.20 %  de descuento) en el siguiente enlace!

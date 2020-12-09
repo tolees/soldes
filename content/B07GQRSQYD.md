@@ -10,8 +10,11 @@ author: ring
 slug: B07GQRSQYD
 description:
 actualPrice: 65.99 EUR
+currency: EUR
+price: 65.99
 comparePrice: 100.32 EUR
 inStock: true
+prodname: Code Geass-Intégrale Série-4 BR [Édition Limitée]
 ---
 
 Ahora mismo tienes [Code Geass-Intégrale Série-4 BR [Édition Limitée]](https://www.amazon.fr/dp/B07GQRSQYD/?tag=tolees0d-21) a 65.99 EUR (original: 100.32 EUR) (34.22 %  de descuento) en el siguiente enlace!

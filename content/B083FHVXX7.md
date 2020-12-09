@@ -10,8 +10,11 @@ author: ring
 slug: B083FHVXX7
 description:
 actualPrice: 85.9 EUR
+currency: EUR
+price: 85.9
 comparePrice: 215.0 EUR
 inStock: true
+prodname: Lacoste Sport WH2049 Pantalon de survêtement  Marine/Blanc  L Homme
 ---
 
 Está [Lacoste Sport WH2049 Pantalon de survêtement  Marine/Blanc  L Homme](https://www.amazon.fr/dp/B083FHVXX7/?tag=tolees0d-21) con 60.05 de descuento por 85.9 EUR (original: 215.0 EUR) en el siguiente enlace!

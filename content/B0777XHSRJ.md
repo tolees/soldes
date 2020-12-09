@@ -10,8 +10,11 @@ author: ring
 slug: B0777XHSRJ
 description:
 actualPrice: 39.9 EUR
+currency: EUR
+price: 39.9
 comparePrice: 69.99 EUR
 inStock: true
+prodname: The Last of Us Part 2 sur PS4  Édition Standard  Version physique  VF  1 joueur
 ---
 
 Está [The Last of Us Part 2 sur PS4  Édition Standard  Version physique  VF  1 joueur](https://www.amazon.fr/dp/B0777XHSRJ/?tag=tolees0d-21) con 42.99 de descuento por 39.9 EUR (original: 69.99 EUR) en el siguiente enlace!

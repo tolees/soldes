@@ -10,8 +10,11 @@ author: ring
 slug: B06XMZ1JFB
 description:
 actualPrice: 41.25 EUR
+currency: EUR
+price: 41.25
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Ice-Watch - Ice Lo White Gold - Montre Blanche pour Femme avec Bracelet en Silicone - 013428  Small 
 ---
 
 Ahora mismo tienes [Ice-Watch - Ice Lo White Gold - Montre Blanche pour Femme avec Bracelet en Silicone - 013428  Small ](https://www.amazon.fr/dp/B06XMZ1JFB/?tag=tolees0d-21) a 41.25 EUR (original: 99.0 EUR) (58.33 %  de descuento) en el siguiente enlace!

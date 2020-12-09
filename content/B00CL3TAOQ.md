@@ -10,8 +10,11 @@ author: ring
 slug: B00CL3TAOQ
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Audio Technica ATH-ANC33IS Ecouteurs Intra-Auriculaires avec réduction de Bruit Jack 3 5 mm Noir
 ---
 
 Tienes [Audio Technica ATH-ANC33IS Ecouteurs Intra-Auriculaires avec réduction de Bruit Jack 3 5 mm Noir](https://www.amazon.fr/dp/B00CL3TAOQ/?tag=tolees0d-21) con un 60.01 % de descuento con precio de oferta de 33.99 EUR (original: 85.0 EUR) en el siguiente enlace!

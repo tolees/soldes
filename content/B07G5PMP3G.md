@@ -10,8 +10,11 @@ author: ring
 slug: B07G5PMP3G
 description:
 actualPrice: 104.41 EUR
+currency: EUR
+price: 104.41
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Fossil Montre Connectée FTW1161
 ---
 
 Ahora mismo tienes [Fossil Montre Connectée FTW1161](https://www.amazon.fr/dp/B07G5PMP3G/?tag=tolees0d-21) a 104.41 EUR (original: 199.0 EUR) (47.53 %  de descuento) en el siguiente enlace!

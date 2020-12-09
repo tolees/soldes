@@ -10,8 +10,11 @@ author: ring
 slug: B00JLRHOXY
 description:
 actualPrice: 5.45 EUR
+currency: EUR
+price: 5.45
 comparePrice: 12.22 EUR
 inStock: true
+prodname: Luminarc Pure Box Active Boîte de Conservation hermétique en verre  rectangulaire  1 97 L
 ---
 
 Ahora mismo tienes [Luminarc Pure Box Active Boîte de Conservation hermétique en verre  rectangulaire  1 97 L](https://www.amazon.fr/dp/B00JLRHOXY/?tag=tolees0d-21) a 5.45 EUR (original: 12.22 EUR) (55.40 %  de descuento) en el siguiente enlace!

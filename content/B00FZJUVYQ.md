@@ -10,8 +10,11 @@ author: ring
 slug: B00FZJUVYQ
 description:
 actualPrice: 47.97 EUR
+currency: EUR
+price: 47.97
 comparePrice: 79.95 EUR
 inStock: true
+prodname: Josef Seibel Fiona 04  Ballerines Bout Fermé Femme  Noir  600 Schwarz   42 EU
 ---
 
 Está [Josef Seibel Fiona 04  Ballerines Bout Fermé Femme  Noir  600 Schwarz   42 EU](https://www.amazon.fr/dp/B00FZJUVYQ/?tag=tolees0d-21) con 40.00 de descuento por 47.97 EUR (original: 79.95 EUR) en el siguiente enlace!

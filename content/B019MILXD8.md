@@ -10,8 +10,11 @@ author: ring
 slug: B019MILXD8
 description:
 actualPrice: 14.87 EUR
+currency: EUR
+price: 14.87
 comparePrice: 24.99 EUR
 inStock: true
+prodname: X-Socks - X100080 - Chaussettes de Randonnée - Femme - Gris  Anthracite/Noir/bleu  - 37-38
 ---
 
 Está [X-Socks - X100080 - Chaussettes de Randonnée - Femme - Gris  Anthracite/Noir/bleu  - 37-38](https://www.amazon.fr/dp/B019MILXD8/?tag=tolees0d-21) con 40.50 de descuento por 14.87 EUR (original: 24.99 EUR) en el siguiente enlace!

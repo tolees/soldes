@@ -10,8 +10,11 @@ author: ring
 slug: B07S1FB7FZ
 description:
 actualPrice: 42.99 EUR
+currency: EUR
+price: 42.99
 comparePrice: 80.0 EUR
 inStock: true
+prodname: LIGHTAILING Jeu De Lumières pour  Architecture San Francisco  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21043 Ne Figurant Pas sur Le Modèle 
 ---
 
 Ahora mismo tienes [LIGHTAILING Jeu De Lumières pour  Architecture San Francisco  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21043 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B07S1FB7FZ/?tag=tolees0d-21) a 42.99 EUR (original: 80.0 EUR) (46.26 %  de descuento) en el siguiente enlace!

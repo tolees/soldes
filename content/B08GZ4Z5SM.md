@@ -10,8 +10,11 @@ author: ring
 slug: B08GZ4Z5SM
 description:
 actualPrice: 44.49 EUR
+currency: EUR
+price: 44.49
 comparePrice: 69.99 EUR
 inStock: true
+prodname: SUPER MARIO 3D - ALL STARS
 ---
 
 Está [SUPER MARIO 3D - ALL STARS](https://www.amazon.fr/dp/B08GZ4Z5SM/?tag=tolees0d-21) con 36.43 de descuento por 44.49 EUR (original: 69.99 EUR) en el siguiente enlace!

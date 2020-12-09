@@ -10,8 +10,11 @@ author: ring
 slug: B08DKDPZBW
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 25.8 EUR
 inStock: true
+prodname: HHUIWIND Coque Xiaomi Redmi 9 + Verre Trempé Protection Etui Housse Xiaomi Redmi 9 Magnétique Portefeuille Flip Case Cover pour Xiaomi Redmi 9 Rouge01
 ---
 
 Ahora mismo tienes [HHUIWIND Coque Xiaomi Redmi 9 + Verre Trempé Protection Etui Housse Xiaomi Redmi 9 Magnétique Portefeuille Flip Case Cover pour Xiaomi Redmi 9 Rouge01](https://www.amazon.fr/dp/B08DKDPZBW/?tag=tolees0d-21) a 9.9 EUR (original: 25.8 EUR) (61.63 %  de descuento) en el siguiente enlace!

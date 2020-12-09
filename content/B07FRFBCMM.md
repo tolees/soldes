@@ -10,14 +10,19 @@ author: ring
 slug: B07FRFBCMM
 description:
 actualPrice: 21.9 EUR
+currency: EUR
+price: 21.9
 comparePrice: 33.28 EUR
 inStock: true
+prodname: G.H. Martel & C Champagne Brut Premier Cru 750 ml
 ---
 
-Ahora mismo tienes [G.H. Martel & C Champagne Brut Premier Cru 750 ml](https://www.amazon.fr/dp/B07FRFBCMM/?tag=tolees0d-21) a 21.9 EUR (original: 33.28 EUR) (34.19 %  de descuento) en el siguiente enlace!
+Está [G.H. Martel & C Champagne Brut Premier Cru 750 ml](https://www.amazon.fr/dp/B07FRFBCMM/?tag=tolees0d-21) con 34.19 de descuento por 21.9 EUR (original: 33.28 EUR) en el siguiente enlace!
 
 [![G.H. Martel & C Champagne Brut Premier C](https://m.media-amazon.com/images/I/31uKFbboqiL._SL200_.jpg)](https://www.amazon.fr/dp/B07FRFBCMM/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07FRFBCMM/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07FRFBCMM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -10,8 +10,11 @@ author: ring
 slug: B01FJN12FE
 description:
 actualPrice: 38.99 EUR
+currency: EUR
+price: 38.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Trust Gaming GXT 608 Enceinte PC Gamer 2.0 pour Ordinateur  36 Watt   Led Lumineuse - Noir
 ---
 
 Tienes [Trust Gaming GXT 608 Enceinte PC Gamer 2.0 pour Ordinateur  36 Watt   Led Lumineuse - Noir](https://www.amazon.fr/dp/B01FJN12FE/?tag=tolees0d-21) con un 35.01 % de descuento con precio de oferta de 38.99 EUR (original: 59.99 EUR) en el siguiente enlace!

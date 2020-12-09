@@ -10,8 +10,11 @@ author: ring
 slug: B000OLVQ3A
 description:
 actualPrice: 39.01 EUR
+currency: EUR
+price: 39.01
 comparePrice: 78.0 EUR
 inStock: true
+prodname: Converse Chuck Taylor All Star Core  Baskets Mixte Adulte  Blanc  40 EU
 ---
 
 Ahora mismo tienes [Converse Chuck Taylor All Star Core  Baskets Mixte Adulte  Blanc  40 EU](https://www.amazon.fr/dp/B000OLVQ3A/?tag=tolees0d-21) a 39.01 EUR (original: 78.0 EUR) (49.99 %  de descuento) en el siguiente enlace!

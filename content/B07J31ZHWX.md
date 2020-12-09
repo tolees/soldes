@@ -10,8 +10,11 @@ author: ring
 slug: B07J31ZHWX
 description:
 actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
 comparePrice: 40.0 EUR
 inStock: true
+prodname: Under Armour Scrimmage 2.0 Sac à Dos Mixte  Noir  Taille unique
 ---
 
 Ahora mismo tienes [Under Armour Scrimmage 2.0 Sac à Dos Mixte  Noir  Taille unique](https://www.amazon.fr/dp/B07J31ZHWX/?tag=tolees0d-21) a 20.0 EUR (original: 40.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

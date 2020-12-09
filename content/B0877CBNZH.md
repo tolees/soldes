@@ -10,8 +10,11 @@ author: ring
 slug: B0877CBNZH
 description:
 actualPrice: 119.99 EUR
+currency: EUR
+price: 119.99
 comparePrice: 165.99 EUR
 inStock: true
+prodname: Rowenta Dual Force 2en1 Aspirateur Balai Sans Fil Avec Aspirateur A Main Intégré RH6756WO
 ---
 
 Ahora mismo tienes [Rowenta Dual Force 2en1 Aspirateur Balai Sans Fil Avec Aspirateur A Main Intégré RH6756WO](https://www.amazon.fr/dp/B0877CBNZH/?tag=tolees0d-21) a 119.99 EUR (original: 165.99 EUR) (27.71 %  de descuento) en el siguiente enlace!

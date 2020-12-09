@@ -10,8 +10,11 @@ author: ring
 slug: B07MYLXPFW
 description:
 actualPrice: 53.47 EUR
+currency: EUR
+price: 53.47
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Kaporal - Doudoune Coupe Droite - Mopa - Homme - XL - Noir
 ---
 
 Tienes [Kaporal - Doudoune Coupe Droite - Mopa - Homme - XL - Noir](https://www.amazon.fr/dp/B07MYLXPFW/?tag=tolees0d-21) con un 45.99 % de descuento con precio de oferta de 53.47 EUR (original: 99.0 EUR) en el siguiente enlace!

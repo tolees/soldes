@@ -10,8 +10,11 @@ author: ring
 slug: B07DVGLTYC
 description:
 actualPrice: 23.99 EUR
+currency: EUR
+price: 23.99
 comparePrice: 40.13 EUR
 inStock: true
+prodname: Le Meilleur de l animation par Sony-15 Films
 ---
 
 Ahora mismo tienes [Le Meilleur de l animation par Sony-15 Films](https://www.amazon.fr/dp/B07DVGLTYC/?tag=tolees0d-21) a 23.99 EUR (original: 40.13 EUR) (40.22 %  de descuento) en el siguiente enlace!

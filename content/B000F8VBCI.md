@@ -10,8 +10,11 @@ author: ring
 slug: B000F8VBCI
 description:
 actualPrice: 91.9 EUR
+currency: EUR
+price: 91.9
 comparePrice: 126.0 EUR
 inStock: true
+prodname: Learning Resources Kit pour la Classe de Base 10 en Plastique rainuré  LER0932
 ---
 
 Tienes [Learning Resources Kit pour la Classe de Base 10 en Plastique rainuré  LER0932](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21) con un 27.06 % de descuento con precio de oferta de 91.9 EUR (original: 126.0 EUR) en el siguiente enlace!

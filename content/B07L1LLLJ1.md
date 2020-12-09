@@ -10,8 +10,11 @@ author: ring
 slug: B07L1LLLJ1
 description:
 actualPrice: 95.42 EUR
+currency: EUR
+price: 95.42
 comparePrice: 400.0 EUR
 inStock: true
+prodname: Spyder 193028 - Veste de ski - Femme - Rose  Berry  - Taille:8 / FR:40
 ---
 
 Está [Spyder 193028 - Veste de ski - Femme - Rose  Berry  - Taille:8 / FR:40](https://www.amazon.fr/dp/B07L1LLLJ1/?tag=tolees0d-21) con 76.14 de descuento por 95.42 EUR (original: 400.0 EUR) en el siguiente enlace!

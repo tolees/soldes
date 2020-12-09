@@ -10,8 +10,11 @@ author: ring
 slug: B00LBSUE1U
 description:
 actualPrice: 64.99 EUR
+currency: EUR
+price: 64.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Rocksmith 2014 + Câble
 ---
 
 Está [Rocksmith 2014 + Câble](https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21) con 27.78 de descuento por 64.99 EUR (original: 89.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07RWJTXZQ
 description:
 actualPrice: 48.95 EUR
+currency: EUR
+price: 48.95
 comparePrice: 89.0 EUR
 inStock: true
+prodname: Guess Painted/Active Lady/Leather Li  Chaussures de Gymnastique Femme  Noir  Black Black   40 EU
 ---
 
 Tienes [Guess Painted/Active Lady/Leather Li  Chaussures de Gymnastique Femme  Noir  Black Black   40 EU](https://www.amazon.fr/dp/B07RWJTXZQ/?tag=tolees0d-21) con un 45.00 % de descuento con precio de oferta de 48.95 EUR (original: 89.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08BJ54RXH
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 45.99 EUR
 inStock: true
+prodname: Casque Gaming EKSA E900 Casque PS4 Micro Casque Gamer PC Casque Audio Filaire avec Jack 3.5MM pour Xbox Nintendo Switch Podcast PC Tablette Smartphone
 ---
 
 Tienes [Casque Gaming EKSA E900 Casque PS4 Micro Casque Gamer PC Casque Audio Filaire avec Jack 3.5MM pour Xbox Nintendo Switch Podcast PC Tablette Smartphone](https://www.amazon.fr/dp/B08BJ54RXH/?tag=tolees0d-21) con un 34.79 % de descuento con precio de oferta de 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!

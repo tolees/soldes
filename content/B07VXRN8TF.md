@@ -10,8 +10,11 @@ author: ring
 slug: B07VXRN8TF
 description:
 actualPrice: 169.0 EUR
+currency: EUR
+price: 169.0
 comparePrice: 249.99 EUR
 inStock: true
+prodname: Garmin Swim 2 Montre GPS Connectée de Natation pour la Piscine et la Nage en Eau Libre - Noir
 ---
 
 Está [Garmin Swim 2 Montre GPS Connectée de Natation pour la Piscine et la Nage en Eau Libre - Noir](https://www.amazon.fr/dp/B07VXRN8TF/?tag=tolees0d-21) con 32.40 de descuento por 169.0 EUR (original: 249.99 EUR) en el siguiente enlace!

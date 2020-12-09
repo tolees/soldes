@@ -10,8 +10,11 @@ author: ring
 slug: B000FWGWQ4
 description:
 actualPrice: 120.21 EUR
+currency: EUR
+price: 120.21
 comparePrice: 199.0 EUR
 inStock: true
+prodname: Citizen - BM1290-54F - Montre Homme - Analogique - Bracelet Titane
 ---
 
 Ahora mismo tienes [Citizen - BM1290-54F - Montre Homme - Analogique - Bracelet Titane](https://www.amazon.fr/dp/B000FWGWQ4/?tag=tolees0d-21) a 120.21 EUR (original: 199.0 EUR) (39.59 %  de descuento) en el siguiente enlace!

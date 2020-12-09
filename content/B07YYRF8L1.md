@@ -10,8 +10,11 @@ author: ring
 slug: B07YYRF8L1
 description:
 actualPrice: 78.44 EUR
+currency: EUR
+price: 78.44
 comparePrice: 119.99 EUR
 inStock: true
+prodname: MILLET Tekapo Hoodie M Veste Polaire Homme  Black-Noir  FR : S  Taille Fabricant : S 
 ---
 
 Ahora mismo tienes [MILLET Tekapo Hoodie M Veste Polaire Homme  Black-Noir  FR : S  Taille Fabricant : S ](https://www.amazon.fr/dp/B07YYRF8L1/?tag=tolees0d-21) a 78.44 EUR (original: 119.99 EUR) (34.63 %  de descuento) en el siguiente enlace!

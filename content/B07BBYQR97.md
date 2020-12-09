@@ -10,8 +10,11 @@ author: ring
 slug: B07BBYQR97
 description:
 actualPrice: 16.5 EUR
+currency: EUR
+price: 16.5
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Call of Duty: Black Ops 4
 ---
 
 Ahora mismo tienes [Call of Duty: Black Ops 4](https://www.amazon.fr/dp/B07BBYQR97/?tag=tolees0d-21) a 16.5 EUR (original: 59.99 EUR) (72.50 %  de descuento) en el siguiente enlace!

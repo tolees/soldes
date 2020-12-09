@@ -10,8 +10,11 @@ author: ring
 slug: B07P9T3KKD
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Playmobil - Chambre avec Espace Couture - 70208
 ---
 
 Tienes [Playmobil - Chambre avec Espace Couture - 70208](https://www.amazon.fr/dp/B07P9T3KKD/?tag=tolees0d-21) con un 28.90 % de descuento con precio de oferta de 19.9 EUR (original: 27.99 EUR) en el siguiente enlace!

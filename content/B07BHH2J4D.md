@@ -10,8 +10,11 @@ author: ring
 slug: B07BHH2J4D
 description:
 actualPrice: 118.2 EUR
+currency: EUR
+price: 118.2
 comparePrice: 197.0 EUR
 inStock: true
+prodname: GHD - Styler Max - Lisseur Cheveux  Noir 
 ---
 
 Está [GHD - Styler Max - Lisseur Cheveux  Noir ](https://www.amazon.fr/dp/B07BHH2J4D/?tag=tolees0d-21) con 40.00 de descuento por 118.2 EUR (original: 197.0 EUR) en el siguiente enlace!

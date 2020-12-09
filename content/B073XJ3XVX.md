@@ -10,8 +10,11 @@ author: ring
 slug: B073XJ3XVX
 description:
 actualPrice: 75.0 EUR
+currency: EUR
+price: 75.0
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Timberland Magby Low Chelsea  Bottes Femme  Noir Black Full Grain  39.5 EU
 ---
 
 Tienes [Timberland Magby Low Chelsea  Bottes Femme  Noir Black Full Grain  39.5 EU](https://www.amazon.fr/dp/B073XJ3XVX/?tag=tolees0d-21) con un 50.00 % de descuento con precio de oferta de 75.0 EUR (original: 150.0 EUR) en el siguiente enlace!

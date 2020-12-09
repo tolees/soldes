@@ -10,8 +10,11 @@ author: ring
 slug: B00VLVEAHQ
 description:
 actualPrice: 99.9 EUR
+currency: EUR
+price: 99.9
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Playmobil - 5303 - Maison Traditionnelle
 ---
 
 Está [Playmobil - 5303 - Maison Traditionnelle](https://www.amazon.fr/dp/B00VLVEAHQ/?tag=tolees0d-21) con 28.64 de descuento por 99.9 EUR (original: 139.99 EUR) en el siguiente enlace!

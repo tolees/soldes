@@ -10,8 +10,11 @@ author: ring
 slug: B087JC4GBS
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 19.5 EUR
 inStock: true
+prodname: SMYTU Coque Xiaomi Redmi Note 9s/Note 9 Pro Gris Housse en Cuir Case Xiaomi Redmi Note 9s Protection Portefeuille TPU Silicone Case Cover de Magnétique for Xiaomi Redmi Note 9s/Note 9 Pro  B-Gris 
 ---
 
 Ahora mismo tienes [SMYTU Coque Xiaomi Redmi Note 9s/Note 9 Pro Gris Housse en Cuir Case Xiaomi Redmi Note 9s Protection Portefeuille TPU Silicone Case Cover de Magnétique for Xiaomi Redmi Note 9s/Note 9 Pro  B-Gris ](https://www.amazon.fr/dp/B087JC4GBS/?tag=tolees0d-21) a 9.9 EUR (original: 19.5 EUR) (49.23 %  de descuento) en el siguiente enlace!

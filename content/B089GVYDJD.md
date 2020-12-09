@@ -10,8 +10,11 @@ author: ring
 slug: B089GVYDJD
 description:
 actualPrice: 19.39 EUR
+currency: EUR
+price: 19.39
 comparePrice: 32.86 EUR
 inStock: true
+prodname: Xiaomi Mi AirDots Basic S
 ---
 
 Ahora mismo tienes [Xiaomi Mi AirDots Basic S](https://www.amazon.fr/dp/B089GVYDJD/?tag=tolees0d-21) a 19.39 EUR (original: 32.86 EUR) (40.99 %  de descuento) en el siguiente enlace!

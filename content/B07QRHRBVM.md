@@ -10,8 +10,11 @@ author: ring
 slug: B07QRHRBVM
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Instant Sports pour Nintendo Switch
 ---
 
 Ahora mismo tienes [Instant Sports pour Nintendo Switch](https://www.amazon.fr/dp/B07QRHRBVM/?tag=tolees0d-21) a 21.99 EUR (original: 29.99 EUR) (26.68 %  de descuento) en el siguiente enlace!

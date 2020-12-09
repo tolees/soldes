@@ -10,8 +10,11 @@ author: ring
 slug: B01ELMGVU0
 description:
 actualPrice: 7.8 EUR
+currency: EUR
+price: 7.8
 comparePrice: 12.22 EUR
 inStock: true
+prodname: Exacompta Porte vues Cristal rigide pochette lisse 60 vues Cristal
 ---
 
 Ahora mismo tienes [Exacompta Porte vues Cristal rigide pochette lisse 60 vues Cristal](https://www.amazon.fr/dp/B01ELMGVU0/?tag=tolees0d-21) a 7.8 EUR (original: 12.22 EUR) (36.17 %  de descuento) en el siguiente enlace!

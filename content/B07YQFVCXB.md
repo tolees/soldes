@@ -10,8 +10,11 @@ author: ring
 slug: B07YQFVCXB
 description:
 actualPrice: 40.99 EUR
+currency: EUR
+price: 40.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Philips Casque sport SH402BK/00 Wireless On Ear  Bluetooth  IPX4  40 mm driver  20 heures de lecture  Noir  TASH402BK/00  One Size
 ---
 
 Ahora mismo tienes [Philips Casque sport SH402BK/00 Wireless On Ear  Bluetooth  IPX4  40 mm driver  20 heures de lecture  Noir  TASH402BK/00  One Size](https://www.amazon.fr/dp/B07YQFVCXB/?tag=tolees0d-21) a 40.99 EUR (original: 69.99 EUR) (41.43 %  de descuento) en el siguiente enlace!

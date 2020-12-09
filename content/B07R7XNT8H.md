@@ -10,8 +10,11 @@ author: ring
 slug: B07R7XNT8H
 description:
 actualPrice: 72.5 EUR
+currency: EUR
+price: 72.5
 comparePrice: 169.99 EUR
 inStock: true
+prodname: Columbia Lake 22  Doudoune Longue à Capuche  Femme
 ---
 
 Tienes [Columbia Lake 22  Doudoune Longue à Capuche  Femme](https://www.amazon.fr/dp/B07R7XNT8H/?tag=tolees0d-21) con un 57.35 % de descuento con precio de oferta de 72.5 EUR (original: 169.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JQM2T6Z
 description:
 actualPrice: 12.52 EUR
+currency: EUR
+price: 12.52
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Under Armour Men s Official Tour Cap 3.0 Casquette Homme  Blanc  S/M
 ---
 
 Tienes [Under Armour Men s Official Tour Cap 3.0 Casquette Homme  Blanc  S/M](https://www.amazon.fr/dp/B07JQM2T6Z/?tag=tolees0d-21) con un 58.27 % de descuento con precio de oferta de 12.52 EUR (original: 30.0 EUR) en el siguiente enlace!

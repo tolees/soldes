@@ -10,8 +10,11 @@ author: ring
 slug: B08HRWGWY9
 description:
 actualPrice: 125.99 EUR
+currency: EUR
+price: 125.99
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Dittzz Architecture - Chalet Pier Blocs de Construction - Magasin des Pêcheurs - 2745 Pièces Jeu de Construction Compatible avec Lego
 ---
 
 Tienes [Dittzz Architecture - Chalet Pier Blocs de Construction - Magasin des Pêcheurs - 2745 Pièces Jeu de Construction Compatible avec Lego](https://www.amazon.fr/dp/B08HRWGWY9/?tag=tolees0d-21) con un 30.00 % de descuento con precio de oferta de 125.99 EUR (original: 179.99 EUR) en el siguiente enlace!

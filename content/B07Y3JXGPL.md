@@ -10,8 +10,11 @@ author: ring
 slug: B07Y3JXGPL
 description:
 actualPrice: 254.99 EUR
+currency: EUR
+price: 254.99
 comparePrice: 349.99 EUR
 inStock: true
+prodname: WD - My Book - Disque dur externe de bureau avec sauvegarde - 14 To
 ---
 
 Está [WD - My Book - Disque dur externe de bureau avec sauvegarde - 14 To](https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21) con 27.14 de descuento por 254.99 EUR (original: 349.99 EUR) en el siguiente enlace!

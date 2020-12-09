@@ -10,8 +10,11 @@ author: ring
 slug: B001CFGGBO
 description:
 actualPrice: 13.95 EUR
+currency: EUR
+price: 13.95
 comparePrice: 24.15 EUR
 inStock: true
+prodname: DE BUYER -5357.24 -tourtiere cannelee fd demon.tole bl.ø24
 ---
 
 Está [DE BUYER -5357.24 -tourtiere cannelee fd demon.tole bl.ø24](https://www.amazon.fr/dp/B001CFGGBO/?tag=tolees0d-21) con 42.24 de descuento por 13.95 EUR (original: 24.15 EUR) en el siguiente enlace!

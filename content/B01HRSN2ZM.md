@@ -10,8 +10,11 @@ author: ring
 slug: B01HRSN2ZM
 description:
 actualPrice: 129.64 EUR
+currency: EUR
+price: 129.64
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Sveltus Set Plyobox
 ---
 
 Tienes [Sveltus Set Plyobox](https://www.amazon.fr/dp/B01HRSN2ZM/?tag=tolees0d-21) con un 35.18 % de descuento con precio de oferta de 129.64 EUR (original: 199.99 EUR) en el siguiente enlace!

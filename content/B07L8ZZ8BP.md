@@ -10,8 +10,11 @@ author: ring
 slug: B07L8ZZ8BP
 description:
 actualPrice: 41.23 EUR
+currency: EUR
+price: 41.23
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Replay New Luz Jean Skinny  Bleu  Dark Blue 007   L30  Taille Fabricant: 24  Femme
 ---
 
 Ahora mismo tienes [Replay New Luz Jean Skinny  Bleu  Dark Blue 007   L30  Taille Fabricant: 24  Femme](https://www.amazon.fr/dp/B07L8ZZ8BP/?tag=tolees0d-21) a 41.23 EUR (original: 99.0 EUR) (58.35 %  de descuento) en el siguiente enlace!

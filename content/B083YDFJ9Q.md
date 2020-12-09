@@ -10,8 +10,11 @@ author: ring
 slug: B083YDFJ9Q
 description:
 actualPrice: 52.3 EUR
+currency: EUR
+price: 52.3
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Kipling Asseni Cabas  49 cm  20 Litres  Green Moss
 ---
 
 Ahora mismo tienes [Kipling Asseni Cabas  49 cm  20 Litres  Green Moss](https://www.amazon.fr/dp/B083YDFJ9Q/?tag=tolees0d-21) a 52.3 EUR (original: 85.0 EUR) (38.47 %  de descuento) en el siguiente enlace!

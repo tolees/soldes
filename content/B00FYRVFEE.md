@@ -10,8 +10,11 @@ author: ring
 slug: B00FYRVFEE
 description:
 actualPrice: 22.37 EUR
+currency: EUR
+price: 22.37
 comparePrice: 36.81 EUR
 inStock: true
+prodname: Oregon Yukon Casque de Sécurité pour Tronçonneuse avec Cache-oreilles de Protection et Visière en Maille  Casque de Protection Confortable Résistant aux Chocs  562412 
 ---
 
 Ahora mismo tienes [Oregon Yukon Casque de Sécurité pour Tronçonneuse avec Cache-oreilles de Protection et Visière en Maille  Casque de Protection Confortable Résistant aux Chocs  562412 ](https://www.amazon.fr/dp/B00FYRVFEE/?tag=tolees0d-21) a 22.37 EUR (original: 36.81 EUR) (39.23 %  de descuento) en el siguiente enlace!

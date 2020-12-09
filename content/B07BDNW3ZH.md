@@ -10,8 +10,11 @@ author: ring
 slug: B07BDNW3ZH
 description:
 actualPrice: 69.92 EUR
+currency: EUR
+price: 69.92
 comparePrice: 97.19 EUR
 inStock: true
+prodname: Delsey Paris - Montsouris 2.0 - Valise - Sac à Dos Trolley Resistante à l eau 53 cm - Protection PC 17.3" - Bleu
 ---
 
 Tienes [Delsey Paris - Montsouris 2.0 - Valise - Sac à Dos Trolley Resistante à l eau 53 cm - Protection PC 17.3" - Bleu](https://www.amazon.fr/dp/B07BDNW3ZH/?tag=tolees0d-21) con un 28.06 % de descuento con precio de oferta de 69.92 EUR (original: 97.19 EUR) en el siguiente enlace!

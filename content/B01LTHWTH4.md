@@ -10,8 +10,11 @@ author: ring
 slug: B01LTHWTH4
 description:
 actualPrice: 1.72 EUR
+currency: EUR
+price: 1.72
 comparePrice: 13.03 EUR
 inStock: true
+prodname: Brice 3 [Blu-Ray + Copie Digitale]
 ---
 
 Tienes [Brice 3 [Blu-Ray + Copie Digitale]](https://www.amazon.fr/dp/B01LTHWTH4/?tag=tolees0d-21) con un 86.80 % de descuento con precio de oferta de 1.72 EUR (original: 13.03 EUR) en el siguiente enlace!

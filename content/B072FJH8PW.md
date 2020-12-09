@@ -10,8 +10,11 @@ author: ring
 slug: B072FJH8PW
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 20.06 EUR
 inStock: true
+prodname: Soudain l été dernier [Blu-Ray]
 ---
 
 Ahora mismo tienes [Soudain l été dernier [Blu-Ray]](https://www.amazon.fr/dp/B072FJH8PW/?tag=tolees0d-21) a 7.99 EUR (original: 20.06 EUR) (60.17 %  de descuento) en el siguiente enlace!

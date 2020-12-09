@@ -10,8 +10,11 @@ author: ring
 slug: B00A0VCJPI
 description:
 actualPrice: 14.9 EUR
+currency: EUR
+price: 14.9
 comparePrice: 19.9 EUR
 inStock: true
+prodname: TP-Link Répéteur WiFi TL-WA850RE   Amplificateur WiFi N300  WiFi Extender  WiFi Booster  1 Port Ethernet  couvre jusqu à 90㎡  Compatible avec toutes les box internet
 ---
 
 Ahora mismo tienes [TP-Link Répéteur WiFi TL-WA850RE   Amplificateur WiFi N300  WiFi Extender  WiFi Booster  1 Port Ethernet  couvre jusqu à 90㎡  Compatible avec toutes les box internet](https://www.amazon.fr/dp/B00A0VCJPI/?tag=tolees0d-21) a 14.9 EUR (original: 19.9 EUR) (25.13 %  de descuento) en el siguiente enlace!

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 30.25 % en Bosch L5008 Batterie décharge lente 12V '
+title: 'Bosch L5008 Batterie décharge lente 12V  al 30.25 % de descuento'
 date: 2020-05-22 22:49:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZcwdgbfPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZcwdgbfPL._SL200_.jpg' ]
@@ -10,16 +10,17 @@ author: ring
 slug: B00E4A5UWA
 description:
 actualPrice: 124.51 EUR
+currency: EUR
+price: 124.51
 comparePrice: 178.5 EUR
 inStock: true
+prodname: Bosch L5008 Batterie décharge lente 12V  75 Ah  650A - Loisirs  Camping-Cars  Bateaux  …
 ---
 
-Tienes [Bosch L5008 Batterie décharge lente 12V  75 Ah  650A - Loisirs  Camping-Cars  Bateaux  …](https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21) con un 30.25 % de descuento con precio de oferta de 124.51 EUR (original: 178.5 EUR) en el siguiente enlace!
+Ahora mismo tienes [Bosch L5008 Batterie décharge lente 12V  75 Ah  650A - Loisirs  Camping-Cars  Bateaux  …](https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21) a 124.51 EUR (original: 178.5 EUR) (30.25 %  de descuento) en el siguiente enlace!
 
 [![Bosch L5008 Batterie décharge lente 12V ](https://m.media-amazon.com/images/I/41ZcwdgbfPL._SL200_.jpg)](https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

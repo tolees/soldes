@@ -10,8 +10,11 @@ author: ring
 slug: B01KUU61VQ
 description:
 actualPrice: 35.83 EUR
+currency: EUR
+price: 35.83
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Beurer EM 37 Ceinture abdominale  Entraînement abdominal EMS  Electrostimulation musculaire pour renforcer les muscles abdominaux - Noir/Orange
 ---
 
 Ahora mismo tienes [Beurer EM 37 Ceinture abdominale  Entraînement abdominal EMS  Electrostimulation musculaire pour renforcer les muscles abdominaux - Noir/Orange](https://www.amazon.fr/dp/B01KUU61VQ/?tag=tolees0d-21) a 35.83 EUR (original: 64.99 EUR) (44.87 %  de descuento) en el siguiente enlace!

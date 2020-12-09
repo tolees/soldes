@@ -1,26 +1,53 @@
-<meta charset="utf-8">
-{{ with .Title }}<title>{{ . }}</title>{{ end }}
-{{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
+<meta charset="utf-8"> 
+{{ with .Title }}
+<title>{{ . }}</title>
+{{ end }}
+{{ with .Site.Params.description }}
+<meta name="description" content="{{ . }}">
+{{ end }}
 <meta name="robots" content="all,follow">
 <meta name="googlebot" content="index,follow,snippet,archive">
 <link rel="shortcut icon" type="image/x-icon" href="{{ .Site.BaseURL }}img/favicon.ico">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<link rel="stylesheet" href="{{ "css/bootstrap.min.css" | absURL }}">
+<link rel="stylesheet" href='{{ "css/bootstrap.min.css" | absURL }}'>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.ga }}"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', '{{ .Site.Params.ga }}');
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', '{{ .Site.Params.ga }}');
 </script>
-{{ range .AlternativeOutputFormats -}}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+{{ range .AlternativeOutputFormats -}} 
+{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 {{ end -}}
 <meta name="yandex-verification" content="{{ .Site.Params.yandex }}" />
 
-<meta property="og:title" content="{{ .Params.title }}" />
-<meta property="og:type" content="article" />
+<meta property="og:title" content="{{ .Params.prodname }}" />
+<meta property="og:type" content="Product" />
 <meta property="og:url" content="{{ .Permalink | absURL }}" />
 <meta property="og:image" content="{{ .Params.thumbnailImage | absURL }}" />
+<script type="application/ld+json">
+    {
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        "name": "{{ .Params.prodname }}",
+        "image": [
+            "{{ .Params.thumbnailImage | absURL }}"
+        ],
+        {{ with.Params.summary }}
+          "description": "{{ . }}" > ,
+        {{ end }}
+        "sku": "{{ .Params.slug }}",
+        "offers": {
+            "@type": "Offer",
+            "url": "{{ .Permalink | absURL }}",
+            "priceCurrency": "{{ .Params.currency }}",
+            "price": "{{ .Params.price }}",
+            "itemCondition": "https://schema.org/NewCondition",
+            "availability": "https://schema.org/InStock"
+        }
+    }
+</script>

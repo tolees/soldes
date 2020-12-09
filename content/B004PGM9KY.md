@@ -10,8 +10,11 @@ author: ring
 slug: B004PGM9KY
 description:
 actualPrice: 199.99 EUR
+currency: EUR
+price: 199.99
 comparePrice: 399.0 EUR
 inStock: true
+prodname: Logitech Z906 Système de Haut-Parleurs avec Son Surround 5.1  Certifié THX  Dolby & DTS  1000 Watts en Puissance  Multi-Dispositifs  Entrées Multiples  Télécommande  Prise EU/France  PC/PS4/Xbox/TV
 ---
 
 Tienes [Logitech Z906 Système de Haut-Parleurs avec Son Surround 5.1  Certifié THX  Dolby & DTS  1000 Watts en Puissance  Multi-Dispositifs  Entrées Multiples  Télécommande  Prise EU/France  PC/PS4/Xbox/TV](https://www.amazon.fr/dp/B004PGM9KY/?tag=tolees0d-21) con un 49.88 % de descuento con precio de oferta de 199.99 EUR (original: 399.0 EUR) en el siguiente enlace!

@@ -10,16 +10,17 @@ author: ring
 slug: B07WFJ9GW5
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 25.07 EUR
 inStock: true
+prodname: Le Magicien The Wizard of Oz [4K Ultra HD + Blu-Ray]
 ---
 
-Está [Le Magicien The Wizard of Oz [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B07WFJ9GW5/?tag=tolees0d-21) con 48.19 de descuento por 12.99 EUR (original: 25.07 EUR) en el siguiente enlace!
+Ahora mismo tienes [Le Magicien The Wizard of Oz [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B07WFJ9GW5/?tag=tolees0d-21) a 12.99 EUR (original: 25.07 EUR) (48.19 %  de descuento) en el siguiente enlace!
 
 [![Le Magicien The Wizard of Oz [4K Ultra H](https://m.media-amazon.com/images/I/51mtGzdHGGL._SL200_.jpg)](https://www.amazon.fr/dp/B07WFJ9GW5/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07WFJ9GW5/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07WFJ9GW5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

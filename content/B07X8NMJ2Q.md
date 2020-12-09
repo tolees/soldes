@@ -10,8 +10,11 @@ author: ring
 slug: B07X8NMJ2Q
 description:
 actualPrice: 30.99 EUR
+currency: EUR
+price: 30.99
 comparePrice: 49.0 EUR
 inStock: true
+prodname: GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  8 Heures de Lecture  Blanc  Dot Non Inclus 
 ---
 
 Tienes [GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  8 Heures de Lecture  Blanc  Dot Non Inclus ](https://www.amazon.fr/dp/B07X8NMJ2Q/?tag=tolees0d-21) con un 36.76 % de descuento con precio de oferta de 30.99 EUR (original: 49.0 EUR) en el siguiente enlace!

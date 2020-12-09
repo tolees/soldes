@@ -10,8 +10,11 @@ author: ring
 slug: B08LKV5NT9
 description:
 actualPrice: 19.98 EUR
+currency: EUR
+price: 19.98
 comparePrice: 40.0 EUR
 inStock: true
+prodname: RuiDaXiang Jouets de Panier de Chariot pour Enfants Jeu de magasinage 80 pièces  Cuisine  Jeu de rôle Alimentaire  Jouet éducatif garçon/Fille de 3 Ans et Plus  Bleu 
 ---
 
 Está [RuiDaXiang Jouets de Panier de Chariot pour Enfants Jeu de magasinage 80 pièces  Cuisine  Jeu de rôle Alimentaire  Jouet éducatif garçon/Fille de 3 Ans et Plus  Bleu ](https://www.amazon.fr/dp/B08LKV5NT9/?tag=tolees0d-21) con 50.05 de descuento por 19.98 EUR (original: 40.0 EUR) en el siguiente enlace!

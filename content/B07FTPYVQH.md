@@ -10,8 +10,11 @@ author: ring
 slug: B07FTPYVQH
 description:
 actualPrice: 65.0 EUR
+currency: EUR
+price: 65.0
 comparePrice: 125.0 EUR
 inStock: true
+prodname: TBS GALAIS  Mokassins Hommes  Gris  Ebene E8015   43 EU
 ---
 
 Tienes [TBS GALAIS  Mokassins Hommes  Gris  Ebene E8015   43 EU](https://www.amazon.fr/dp/B07FTPYVQH/?tag=tolees0d-21) con un 48.00 % de descuento con precio de oferta de 65.0 EUR (original: 125.0 EUR) en el siguiente enlace!

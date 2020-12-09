@@ -10,8 +10,11 @@ author: ring
 slug: B07MJHVZDQ
 description:
 actualPrice: 27.4 EUR
+currency: EUR
+price: 27.4
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Playstation Digital Réveil LCD | PS4 Dualshock Controller Design | Utilisez Les Touches pour régler l heure et la Date.
 ---
 
 Está [Playstation Digital Réveil LCD | PS4 Dualshock Controller Design | Utilisez Les Touches pour régler l heure et la Date.](https://www.amazon.fr/dp/B07MJHVZDQ/?tag=tolees0d-21) con 31.48 de descuento por 27.4 EUR (original: 39.99 EUR) en el siguiente enlace!

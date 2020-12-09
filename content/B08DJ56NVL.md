@@ -10,8 +10,11 @@ author: ring
 slug: B08DJ56NVL
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Gris 
 ---
 
 Está [Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Gris ](https://www.amazon.fr/dp/B08DJ56NVL/?tag=tolees0d-21) con 52.01 de descuento por 47.99 EUR (original: 99.99 EUR) en el siguiente enlace!

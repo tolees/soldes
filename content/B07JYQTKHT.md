@@ -10,8 +10,11 @@ author: ring
 slug: B07JYQTKHT
 description:
 actualPrice: 6.88 EUR
+currency: EUR
+price: 6.88
 comparePrice: 15.02 EUR
 inStock: true
+prodname: Hellraiser 2  Les écorchés [Blu-Ray]
 ---
 
 Ahora mismo tienes [Hellraiser 2  Les écorchés [Blu-Ray]](https://www.amazon.fr/dp/B07JYQTKHT/?tag=tolees0d-21) a 6.88 EUR (original: 15.02 EUR) (54.19 %  de descuento) en el siguiente enlace!

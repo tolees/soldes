@@ -10,8 +10,11 @@ author: ring
 slug: B07V81PSJN
 description:
 actualPrice: 137.98 EUR
+currency: EUR
+price: 137.98
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Faure FKM-804MP1 Robot Pâtissier Magic Baker Premiuim - 800W transmission directe -Mouvement Planétaire - Bol Inox 5 2L - Coloris Rouge
 ---
 
 Tienes [Faure FKM-804MP1 Robot Pâtissier Magic Baker Premiuim - 800W transmission directe -Mouvement Planétaire - Bol Inox 5 2L - Coloris Rouge](https://www.amazon.fr/dp/B07V81PSJN/?tag=tolees0d-21) con un 53.85 % de descuento con precio de oferta de 137.98 EUR (original: 299.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L77JQFM
 description:
 actualPrice: 3.5 EUR
+currency: EUR
+price: 3.5
 comparePrice: 7.64 EUR
 inStock: true
+prodname: Funko Pocket Pop! Fortnite: Drift - Vinyl Figure Keychain Multicolore
 ---
 
 Tienes [Funko Pocket Pop! Fortnite: Drift - Vinyl Figure Keychain Multicolore](https://www.amazon.fr/dp/B07L77JQFM/?tag=tolees0d-21) con un 54.19 % de descuento con precio de oferta de 3.5 EUR (original: 7.64 EUR) en el siguiente enlace!

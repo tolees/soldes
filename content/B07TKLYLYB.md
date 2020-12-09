@@ -10,8 +10,11 @@ author: ring
 slug: B07TKLYLYB
 description:
 actualPrice: 129.9 EUR
+currency: EUR
+price: 129.9
 comparePrice: 179.9 EUR
 inStock: true
+prodname: MICHELIN MPX25EHDS Nettoyeur Haute Pression  Bleu
 ---
 
 Tienes [MICHELIN MPX25EHDS Nettoyeur Haute Pression  Bleu](https://www.amazon.fr/dp/B07TKLYLYB/?tag=tolees0d-21) con un 27.79 % de descuento con precio de oferta de 129.9 EUR (original: 179.9 EUR) en el siguiente enlace!

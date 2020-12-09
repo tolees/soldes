@@ -10,8 +10,11 @@ author: ring
 slug: B073WDMZVT
 description:
 actualPrice: 89.9 EUR
+currency: EUR
+price: 89.9
 comparePrice: 229.9 EUR
 inStock: true
+prodname: Polar - M430 - Montre Running GPS avec suivi de la Fréquence Cardiaque - Noir - Taille M-L
 ---
 
 Ahora mismo tienes [Polar - M430 - Montre Running GPS avec suivi de la Fréquence Cardiaque - Noir - Taille M-L](https://www.amazon.fr/dp/B073WDMZVT/?tag=tolees0d-21) a 89.9 EUR (original: 229.9 EUR) (60.90 %  de descuento) en el siguiente enlace!

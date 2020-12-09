@@ -10,8 +10,11 @@ author: ring
 slug: B0052JCHGE
 description:
 actualPrice: 84.95 EUR
+currency: EUR
+price: 84.95
 comparePrice: 176.84 EUR
 inStock: true
+prodname: Onduleur Eaton Ellipse ECO 650 FR - Off-line UPS - EL650FR - 650VA  4 prises FR 
 ---
 
 Tienes [Onduleur Eaton Ellipse ECO 650 FR - Off-line UPS - EL650FR - 650VA  4 prises FR ](https://www.amazon.fr/dp/B0052JCHGE/?tag=tolees0d-21) con un 51.96 % de descuento con precio de oferta de 84.95 EUR (original: 176.84 EUR) en el siguiente enlace!

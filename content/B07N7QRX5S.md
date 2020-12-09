@@ -10,8 +10,11 @@ author: ring
 slug: B07N7QRX5S
 description:
 actualPrice: 110.14 EUR
+currency: EUR
+price: 110.14
 comparePrice: 299.95 EUR
 inStock: true
+prodname: Camel Active Womenswear Feb-62 Blouson  Marron  Dark Brown 26   46  Taille Fabricant: 44  Femme
 ---
 
 Ahora mismo tienes [Camel Active Womenswear Feb-62 Blouson  Marron  Dark Brown 26   46  Taille Fabricant: 44  Femme](https://www.amazon.fr/dp/B07N7QRX5S/?tag=tolees0d-21) a 110.14 EUR (original: 299.95 EUR) (63.28 %  de descuento) en el siguiente enlace!

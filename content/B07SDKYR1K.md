@@ -10,8 +10,11 @@ author: ring
 slug: B07SDKYR1K
 description:
 actualPrice: 24.08 EUR
+currency: EUR
+price: 24.08
 comparePrice: 40.13 EUR
 inStock: true
+prodname: Lucifer-Saisons 1 à 3
 ---
 
 Está [Lucifer-Saisons 1 à 3](https://www.amazon.fr/dp/B07SDKYR1K/?tag=tolees0d-21) con 40.00 de descuento por 24.08 EUR (original: 40.13 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07FQ4XCR1
 description:
 actualPrice: 64.99 EUR
+currency: EUR
+price: 64.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Kindle  maintenant avec un éclairage frontal intégré  Noir
 ---
 
 Tienes [Kindle  maintenant avec un éclairage frontal intégré  Noir](https://www.amazon.fr/dp/B07FQ4XCR1/?tag=tolees0d-21) con un 27.78 % de descuento con precio de oferta de 64.99 EUR (original: 89.99 EUR) en el siguiente enlace!

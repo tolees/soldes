@@ -10,8 +10,11 @@ author: ring
 slug: B08LG3KPDY
 description:
 actualPrice: 42.99 EUR
+currency: EUR
+price: 42.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Manettes pour Switch  EasySMX Manette pour Nintendo Switch  Manette pour Switch sans Fil Bluetooth  6 Axes Manette pour Switch Pro avec Double Moteur pour Nintendo Switch Pro/Lite et PC  Cube de Rubic
 ---
 
 Ahora mismo tienes [Manettes pour Switch  EasySMX Manette pour Nintendo Switch  Manette pour Switch sans Fil Bluetooth  6 Axes Manette pour Switch Pro avec Double Moteur pour Nintendo Switch Pro/Lite et PC  Cube de Rubic](https://www.amazon.fr/dp/B08LG3KPDY/?tag=tolees0d-21) a 42.99 EUR (original: 99.99 EUR) (57.01 %  de descuento) en el siguiente enlace!

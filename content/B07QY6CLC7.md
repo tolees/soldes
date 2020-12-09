@@ -10,8 +10,11 @@ author: ring
 slug: B07QY6CLC7
 description:
 actualPrice: 73.48 EUR
+currency: EUR
+price: 73.48
 comparePrice: 115.0 EUR
 inStock: true
+prodname: Levi s 711 Skinny – Jean pour Femmes Moulant et Confortable  Bleu  Med Indigo - Flat Finish   28W/L30
 ---
 
 Está [Levi s 711 Skinny – Jean pour Femmes Moulant et Confortable  Bleu  Med Indigo - Flat Finish   28W/L30](https://www.amazon.fr/dp/B07QY6CLC7/?tag=tolees0d-21) con 36.10 de descuento por 73.48 EUR (original: 115.0 EUR) en el siguiente enlace!

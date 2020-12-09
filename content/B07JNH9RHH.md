@@ -10,8 +10,11 @@ author: ring
 slug: B07JNH9RHH
 description:
 actualPrice: 67.45 EUR
+currency: EUR
+price: 67.45
 comparePrice: 109.95 EUR
 inStock: true
+prodname: American Tourister Valise  88752/1269  Bleu Marine  Bleu  - 88752/1265
 ---
 
 Tienes [American Tourister Valise  88752/1269  Bleu Marine  Bleu  - 88752/1265](https://www.amazon.fr/dp/B07JNH9RHH/?tag=tolees0d-21) con un 38.65 % de descuento con precio de oferta de 67.45 EUR (original: 109.95 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01EJHK5YA
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Panasonic DMP-BDT167 Lecteur DVD Port USB
 ---
 
 Ahora mismo tienes [Panasonic DMP-BDT167 Lecteur DVD Port USB](https://www.amazon.fr/dp/B01EJHK5YA/?tag=tolees0d-21) a 69.99 EUR (original: 99.0 EUR) (29.30 %  de descuento) en el siguiente enlace!

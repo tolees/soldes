@@ -10,8 +10,11 @@ author: ring
 slug: B019DYT6DA
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 79.0 EUR
 inStock: true
+prodname: OMRON M3 Comfort Tensiomètre Bras  Technologie Brassard Intelli Wrap  Mesure Fiable dans Toutes les Positions  Mémoire Jusqu à 120 Mesures
 ---
 
 Está [OMRON M3 Comfort Tensiomètre Bras  Technologie Brassard Intelli Wrap  Mesure Fiable dans Toutes les Positions  Mémoire Jusqu à 120 Mesures](https://www.amazon.fr/dp/B019DYT6DA/?tag=tolees0d-21) con 49.38 de descuento por 39.99 EUR (original: 79.0 EUR) en el siguiente enlace!

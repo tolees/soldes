@@ -10,8 +10,11 @@ author: ring
 slug: B07GWVWYM1
 description:
 actualPrice: 34.0 EUR
+currency: EUR
+price: 34.0
 comparePrice: 74.0 EUR
 inStock: true
+prodname: FREEGUN Lot 5 DE Boxers Flag Homme Taille M …
 ---
 
 Ahora mismo tienes [FREEGUN Lot 5 DE Boxers Flag Homme Taille M …](https://www.amazon.fr/dp/B07GWVWYM1/?tag=tolees0d-21) a 34.0 EUR (original: 74.0 EUR) (54.05 %  de descuento) en el siguiente enlace!

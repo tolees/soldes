@@ -10,8 +10,11 @@ author: ring
 slug: B07TVNZBCL
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 69.98 EUR
 inStock: true
+prodname: BRIKSMAX Kit de LED pour Lego Architecture New York City  Compatible avec la Maquette Lego 21028  La Maquette de Construction n est Pas Incluse
 ---
 
 Tienes [BRIKSMAX Kit de LED pour Lego Architecture New York City  Compatible avec la Maquette Lego 21028  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B07TVNZBCL/?tag=tolees0d-21) con un 50.00 % de descuento con precio de oferta de 34.99 EUR (original: 69.98 EUR) en el siguiente enlace!

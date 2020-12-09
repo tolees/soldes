@@ -10,8 +10,11 @@ author: ring
 slug: B07JB1WM2V
 description:
 actualPrice: 26.32 EUR
+currency: EUR
+price: 26.32
 comparePrice: 57.9 EUR
 inStock: true
+prodname: find. Suede Kitten Heel Escarpins  Rouge Red   40 EU
 ---
 
 Ahora mismo tienes [find. Suede Kitten Heel Escarpins  Rouge Red   40 EU](https://www.amazon.fr/dp/B07JB1WM2V/?tag=tolees0d-21) a 26.32 EUR (original: 57.9 EUR) (54.54 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07T4GRSKJ
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: LAPASA Haut Thermique Femme sous-vêtement Maillot de Corps Doublure Laine Polaire Manches Longues Fin et Chaud L15  10. Noir  Fin/Droit   38/M 
 ---
 
 Tienes [LAPASA Haut Thermique Femme sous-vêtement Maillot de Corps Doublure Laine Polaire Manches Longues Fin et Chaud L15  10. Noir  Fin/Droit   38/M ](https://www.amazon.fr/dp/B07T4GRSKJ/?tag=tolees0d-21) con un 43.35 % de descuento con precio de oferta de 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01LZPBD3L
 description:
 actualPrice: 89.0 EUR
+currency: EUR
+price: 89.0
 comparePrice: 129.0 EUR
 inStock: true
+prodname: Samsonite Base Boost - Spinner M Valise Extensible  66 cm  67 5/73 5 L  Rouge  Red 
 ---
 
 Está [Samsonite Base Boost - Spinner M Valise Extensible  66 cm  67 5/73 5 L  Rouge  Red ](https://www.amazon.fr/dp/B01LZPBD3L/?tag=tolees0d-21) con 31.01 de descuento por 89.0 EUR (original: 129.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00GSUA40C
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 449.0 EUR
 inStock: true
+prodname: Zwilling Ménagère Nottingham  inox 18/10  mat  Acier inoxydable  68 pièces
 ---
 
 Ahora mismo tienes [Zwilling Ménagère Nottingham  inox 18/10  mat  Acier inoxydable  68 pièces](https://www.amazon.fr/dp/B00GSUA40C/?tag=tolees0d-21) a 99.99 EUR (original: 449.0 EUR) (77.73 %  de descuento) en el siguiente enlace!

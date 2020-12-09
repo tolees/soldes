@@ -10,8 +10,11 @@ author: ring
 slug: B07XYDB4VK
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: The Rolling Stones-Bridges to Buenos Aires Blu-Ray  SD upscalée 
 ---
 
 Ahora mismo tienes [The Rolling Stones-Bridges to Buenos Aires Blu-Ray  SD upscalée ](https://www.amazon.fr/dp/B07XYDB4VK/?tag=tolees0d-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!

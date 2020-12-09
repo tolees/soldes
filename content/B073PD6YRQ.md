@@ -10,8 +10,11 @@ author: ring
 slug: B073PD6YRQ
 description:
 actualPrice: 20.99 EUR
+currency: EUR
+price: 20.99
 comparePrice: 34.99 EUR
 inStock: true
+prodname: Philips QP230/50 Lames de Remplacement OneBlade x3  Durent Jusqu à 12 Mois 
 ---
 
 Tienes [Philips QP230/50 Lames de Remplacement OneBlade x3  Durent Jusqu à 12 Mois ](https://www.amazon.fr/dp/B073PD6YRQ/?tag=tolees0d-21) con un 40.01 % de descuento con precio de oferta de 20.99 EUR (original: 34.99 EUR) en el siguiente enlace!

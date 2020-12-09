@@ -10,8 +10,11 @@ author: ring
 slug: B08CVHKCXV
 description:
 actualPrice: 47.99 EUR
+currency: EUR
+price: 47.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  1to Argent 
 ---
 
 Tienes [Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  1to Argent ](https://www.amazon.fr/dp/B08CVHKCXV/?tag=tolees0d-21) con un 46.67 % de descuento con precio de oferta de 47.99 EUR (original: 89.99 EUR) en el siguiente enlace!

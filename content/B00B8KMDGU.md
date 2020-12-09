@@ -10,8 +10,11 @@ author: ring
 slug: B00B8KMDGU
 description:
 actualPrice: 8.0 EUR
+currency: EUR
+price: 8.0
 comparePrice: 15.4 EUR
 inStock: true
+prodname: De Buyer 3099.07 Cercle à Tarte Perforé Rond Valrhona - inox - Bord Droit - ht. 2 cm - Ø 18 5 cm
 ---
 
 Tienes [De Buyer 3099.07 Cercle à Tarte Perforé Rond Valrhona - inox - Bord Droit - ht. 2 cm - Ø 18 5 cm](https://www.amazon.fr/dp/B00B8KMDGU/?tag=tolees0d-21) con un 48.05 % de descuento con precio de oferta de 8.0 EUR (original: 15.4 EUR) en el siguiente enlace!

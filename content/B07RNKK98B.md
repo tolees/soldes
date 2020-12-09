@@ -10,8 +10,11 @@ author: ring
 slug: B07RNKK98B
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Multifonctionnelle Histoire Projecteur Enfant Histoire Torch Bonsoir Histoire Lampe de Poche  Veilleuse de nuit  8 Films de Contes de Fées 64 Glissières  Jouets éducatifs pour Les Tout-Petits
 ---
 
 Está [Multifonctionnelle Histoire Projecteur Enfant Histoire Torch Bonsoir Histoire Lampe de Poche  Veilleuse de nuit  8 Films de Contes de Fées 64 Glissières  Jouets éducatifs pour Les Tout-Petits](https://www.amazon.fr/dp/B07RNKK98B/?tag=tolees0d-21) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!

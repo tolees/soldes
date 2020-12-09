@@ -10,8 +10,11 @@ author: ring
 slug: B07R8BJ7SB
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 35.1 EUR
 inStock: true
+prodname: Coffret évasion 1 à 3 [Blu-Ray]
 ---
 
 Tienes [Coffret évasion 1 à 3 [Blu-Ray]](https://www.amazon.fr/dp/B07R8BJ7SB/?tag=tolees0d-21) con un 57.29 % de descuento con precio de oferta de 14.99 EUR (original: 35.1 EUR) en el siguiente enlace!

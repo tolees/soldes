@@ -10,8 +10,11 @@ author: ring
 slug: B07ZDM7PSH
 description:
 actualPrice: 195.0 EUR
+currency: EUR
+price: 195.0
 comparePrice: 279.9 EUR
 inStock: true
+prodname: Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces - 6Go RAM - 128Go Stockage - Double Nano-SIM  Quad Caméra – NFC  Gris minéral - Version Française - [Exclusivité Amazon]
 ---
 
 Está [Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces - 6Go RAM - 128Go Stockage - Double Nano-SIM  Quad Caméra – NFC  Gris minéral - Version Française - [Exclusivité Amazon]](https://www.amazon.fr/dp/B07ZDM7PSH/?tag=tolees0d-21) con 30.33 de descuento por 195.0 EUR (original: 279.9 EUR) en el siguiente enlace!

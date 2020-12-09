@@ -10,8 +10,11 @@ author: ring
 slug: B008YELYCW
 description:
 actualPrice: 76.78 EUR
+currency: EUR
+price: 76.78
 comparePrice: 109.99 EUR
 inStock: true
+prodname: OSRAM LEDriving PX-5 feux diurnes LEDDRL301 5 LED spots 5200K 1 paire
 ---
 
 Ahora mismo tienes [OSRAM LEDriving PX-5 feux diurnes LEDDRL301 5 LED spots 5200K 1 paire](https://www.amazon.fr/dp/B008YELYCW/?tag=tolees0d-21) a 76.78 EUR (original: 109.99 EUR) (30.19 %  de descuento) en el siguiente enlace!

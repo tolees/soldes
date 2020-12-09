@@ -10,8 +10,11 @@ author: ring
 slug: B085DNWNFN
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: AWANFI RC Batterie Rechargeable 8 4V NiMH 4200mAh de Grande Capacité avec Connecteur T pour Modélisme Voiture Camion Bateau
 ---
 
 Tienes [AWANFI RC Batterie Rechargeable 8 4V NiMH 4200mAh de Grande Capacité avec Connecteur T pour Modélisme Voiture Camion Bateau](https://www.amazon.fr/dp/B085DNWNFN/?tag=tolees0d-21) con un 37.50 % de descuento con precio de oferta de 49.99 EUR (original: 79.99 EUR) en el siguiente enlace!

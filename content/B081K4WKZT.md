@@ -10,8 +10,11 @@ author: ring
 slug: B081K4WKZT
 description:
 actualPrice: 95.19 EUR
+currency: EUR
+price: 95.19
 comparePrice: 149.9 EUR
 inStock: true
+prodname: Babymoov YOO Care Babyphone Ecoute-Bébé Vidéo - Orientable à 360° - Portée de 300m - Avec Talkie Walkie
 ---
 
 Está [Babymoov YOO Care Babyphone Ecoute-Bébé Vidéo - Orientable à 360° - Portée de 300m - Avec Talkie Walkie](https://www.amazon.fr/dp/B081K4WKZT/?tag=tolees0d-21) con 36.50 de descuento por 95.19 EUR (original: 149.9 EUR) en el siguiente enlace!

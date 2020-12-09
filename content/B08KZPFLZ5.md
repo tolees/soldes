@@ -10,8 +10,11 @@ author: ring
 slug: B08KZPFLZ5
 description:
 actualPrice: 8.9 EUR
+currency: EUR
+price: 8.9
 comparePrice: 18.5 EUR
 inStock: true
+prodname: HTDELEC Coque pour Samsung Galaxy A20s Rouge Housse en Cuir Premium Flip Case Portefeuille Etui avec Stand Support et Carte Slot Samsung Galaxy A20s T-Rouge 
 ---
 
 Está [HTDELEC Coque pour Samsung Galaxy A20s Rouge Housse en Cuir Premium Flip Case Portefeuille Etui avec Stand Support et Carte Slot Samsung Galaxy A20s T-Rouge ](https://www.amazon.fr/dp/B08KZPFLZ5/?tag=tolees0d-21) con 51.89 de descuento por 8.9 EUR (original: 18.5 EUR) en el siguiente enlace!

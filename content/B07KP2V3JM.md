@@ -10,8 +10,11 @@ author: ring
 slug: B07KP2V3JM
 description:
 actualPrice: 32.99 EUR
+currency: EUR
+price: 32.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: NICOLE & DORIS Mode Sacs à Main pour Femmes Sacs à bandoulière Classiques Sac Portés Epaule Rose
 ---
 
 Tienes [NICOLE & DORIS Mode Sacs à Main pour Femmes Sacs à bandoulière Classiques Sac Portés Epaule Rose](https://www.amazon.fr/dp/B07KP2V3JM/?tag=tolees0d-21) con un 34.01 % de descuento con precio de oferta de 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

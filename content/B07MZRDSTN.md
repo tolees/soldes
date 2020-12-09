@@ -10,8 +10,11 @@ author: ring
 slug: B07MZRDSTN
 description:
 actualPrice: 38.25 EUR
+currency: EUR
+price: 38.25
 comparePrice: 85.0 EUR
 inStock: true
+prodname: Pepe Jeans London Koko Archi  Baskets Hautes Femme   Black 999   41 EU
 ---
 
 Tienes [Pepe Jeans London Koko Archi  Baskets Hautes Femme   Black 999   41 EU](https://www.amazon.fr/dp/B07MZRDSTN/?tag=tolees0d-21) con un 55.00 % de descuento con precio de oferta de 38.25 EUR (original: 85.0 EUR) en el siguiente enlace!

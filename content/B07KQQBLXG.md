@@ -10,8 +10,11 @@ author: ring
 slug: B07KQQBLXG
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 70.0 EUR
 inStock: true
+prodname: Diesel ODERZO  Sac à dos Homme Noir  Black  5x22x18 cm  W x H x L 
 ---
 
 Ahora mismo tienes [Diesel ODERZO  Sac à dos Homme Noir  Black  5x22x18 cm  W x H x L ](https://www.amazon.fr/dp/B07KQQBLXG/?tag=tolees0d-21) a 34.99 EUR (original: 70.0 EUR) (50.01 %  de descuento) en el siguiente enlace!

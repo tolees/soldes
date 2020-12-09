@@ -10,8 +10,11 @@ author: ring
 slug: B01K4QOC8A
 description:
 actualPrice: 129.95 EUR
+currency: EUR
+price: 129.95
 comparePrice: 179.95 EUR
 inStock: true
+prodname: TomTom GPS Voiture GO 520 - 5 Pouces Cartographie Monde  Trafic  Zones de Danger via Smartphone  Appel Mains-Libres
 ---
 
 Tienes [TomTom GPS Voiture GO 520 - 5 Pouces Cartographie Monde  Trafic  Zones de Danger via Smartphone  Appel Mains-Libres](https://www.amazon.fr/dp/B01K4QOC8A/?tag=tolees0d-21) con un 27.79 % de descuento con precio de oferta de 129.95 EUR (original: 179.95 EUR) en el siguiente enlace!

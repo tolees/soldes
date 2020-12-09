@@ -10,8 +10,11 @@ author: ring
 slug: B07VMTNDMK
 description:
 actualPrice: 79.69 EUR
+currency: EUR
+price: 79.69
 comparePrice: 106.99 EUR
 inStock: true
+prodname: WD Black P10 2To - Disque dur portable externe gaming pour un accès mobile à votre bibliothèque de jeux  fonctionne sur console et PC
 ---
 
 Está [WD Black P10 2To - Disque dur portable externe gaming pour un accès mobile à votre bibliothèque de jeux  fonctionne sur console et PC](https://www.amazon.fr/dp/B07VMTNDMK/?tag=tolees0d-21) con 25.52 de descuento por 79.69 EUR (original: 106.99 EUR) en el siguiente enlace!

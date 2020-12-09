@@ -10,8 +10,11 @@ author: ring
 slug: B07QV3XGCP
 description:
 actualPrice: 330.99 EUR
+currency: EUR
+price: 330.99
 comparePrice: 554.99 EUR
 inStock: true
+prodname: Western Digital - WD Blue SSD - Disque SSD interne 2.5" SATA 4To 3D NAND
 ---
 
 Ahora mismo tienes [Western Digital - WD Blue SSD - Disque SSD interne 2.5" SATA 4To 3D NAND](https://www.amazon.fr/dp/B07QV3XGCP/?tag=tolees0d-21) a 330.99 EUR (original: 554.99 EUR) (40.36 %  de descuento) en el siguiente enlace!

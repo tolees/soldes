@@ -10,8 +10,11 @@ author: ring
 slug: B07YBQ6M8L
 description:
 actualPrice: 69.9 EUR
+currency: EUR
+price: 69.9
 comparePrice: 99.99 EUR
 inStock: true
+prodname: JBL Flip Essential - Enceinte Bluetooth portable robuste - Étanche IPX7 pour piscine & plage - Autonomie 10 hrs - Qualité audio JBL - Noir
 ---
 
 Está [JBL Flip Essential - Enceinte Bluetooth portable robuste - Étanche IPX7 pour piscine & plage - Autonomie 10 hrs - Qualité audio JBL - Noir](https://www.amazon.fr/dp/B07YBQ6M8L/?tag=tolees0d-21) con 30.09 de descuento por 69.9 EUR (original: 99.99 EUR) en el siguiente enlace!

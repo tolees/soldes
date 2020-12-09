@@ -10,8 +10,11 @@ author: ring
 slug: B00B1C0ZMY
 description:
 actualPrice: 13.34 EUR
+currency: EUR
+price: 13.34
 comparePrice: 20.79 EUR
 inStock: true
+prodname: Facom 113 A.8T – Clé en phosphate 8p
 ---
 
 Ahora mismo tienes [Facom 113 A.8T – Clé en phosphate 8p](https://www.amazon.fr/dp/B00B1C0ZMY/?tag=tolees0d-21) a 13.34 EUR (original: 20.79 EUR) (35.83 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07DJ7HK2Z
 description:
 actualPrice: 61.4 EUR
+currency: EUR
+price: 61.4
 comparePrice: 115.0 EUR
 inStock: true
+prodname: Geox - D Myria C - Baskets Hautes - Femme - Noir  Black C9999  - 40 EU
 ---
 
 Tienes [Geox - D Myria C - Baskets Hautes - Femme - Noir  Black C9999  - 40 EU](https://www.amazon.fr/dp/B07DJ7HK2Z/?tag=tolees0d-21) con un 46.61 % de descuento con precio de oferta de 61.4 EUR (original: 115.0 EUR) en el siguiente enlace!

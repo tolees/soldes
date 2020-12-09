@@ -10,8 +10,11 @@ author: ring
 slug: B07DJBFLTT
 description:
 actualPrice: 27.14 EUR
+currency: EUR
+price: 27.14
 comparePrice: 69.99 EUR
 inStock: true
+prodname: F1 2018 - Edition Headline
 ---
 
 Tienes [F1 2018 - Edition Headline](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21) con un 61.22 % de descuento con precio de oferta de 27.14 EUR (original: 69.99 EUR) en el siguiente enlace!

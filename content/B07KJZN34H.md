@@ -10,8 +10,11 @@ author: ring
 slug: B07KJZN34H
 description:
 actualPrice: 12.0 EUR
+currency: EUR
+price: 12.0
 comparePrice: 24.0 EUR
 inStock: true
+prodname: Under Armour Crossbody Sac De Sport Mixte Adulte  Noir  Taille Unique
 ---
 
 Ahora mismo tienes [Under Armour Crossbody Sac De Sport Mixte Adulte  Noir  Taille Unique](https://www.amazon.fr/dp/B07KJZN34H/?tag=tolees0d-21) a 12.0 EUR (original: 24.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

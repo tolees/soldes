@@ -10,8 +10,11 @@ author: ring
 slug: B07SS7JKH6
 description:
 actualPrice: 129.99 EUR
+currency: EUR
+price: 129.99
 comparePrice: 199.99 EUR
 inStock: true
+prodname: Leathario Sac Homme Porte Document en Cuir Véritable Besace Messager Sac Ordinateur Serviette pour Homme
 ---
 
 Ahora mismo tienes [Leathario Sac Homme Porte Document en Cuir Véritable Besace Messager Sac Ordinateur Serviette pour Homme](https://www.amazon.fr/dp/B07SS7JKH6/?tag=tolees0d-21) a 129.99 EUR (original: 199.99 EUR) (35.00 %  de descuento) en el siguiente enlace!

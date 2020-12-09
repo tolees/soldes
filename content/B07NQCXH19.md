@@ -10,8 +10,11 @@ author: ring
 slug: B07NQCXH19
 description:
 actualPrice: 30.99 EUR
+currency: EUR
+price: 30.99
 comparePrice: 62.99 EUR
 inStock: true
+prodname: Echo Dot  3ème génération  Reconditionné Certifié  Enceinte connectée avec horloge et Alexa  Tissu sable
 ---
 
 Está [Echo Dot  3ème génération  Reconditionné Certifié  Enceinte connectée avec horloge et Alexa  Tissu sable](https://www.amazon.fr/dp/B07NQCXH19/?tag=tolees0d-21) con 50.80 de descuento por 30.99 EUR (original: 62.99 EUR) en el siguiente enlace!

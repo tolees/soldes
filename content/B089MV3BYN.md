@@ -10,8 +10,11 @@ author: ring
 slug: B089MV3BYN
 description:
 actualPrice: 25.4 EUR
+currency: EUR
+price: 25.4
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Oddworld Munch s Oddyssee Edition Limitée  Nintendo Switch 
 ---
 
 Está [Oddworld Munch s Oddyssee Edition Limitée  Nintendo Switch ](https://www.amazon.fr/dp/B089MV3BYN/?tag=tolees0d-21) con 36.48 de descuento por 25.4 EUR (original: 39.99 EUR) en el siguiente enlace!

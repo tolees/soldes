@@ -10,8 +10,11 @@ author: ring
 slug: B07BQNJ1FH
 description:
 actualPrice: 7.98 EUR
+currency: EUR
+price: 7.98
 comparePrice: 13.03 EUR
 inStock: true
+prodname: Ready Player One - DVD
 ---
 
 Está [Ready Player One - DVD](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21) con 38.76 de descuento por 7.98 EUR (original: 13.03 EUR) en el siguiente enlace!

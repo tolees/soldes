@@ -10,8 +10,11 @@ author: ring
 slug: B07NXGNMPJ
 description:
 actualPrice: 169.99 EUR
+currency: EUR
+price: 169.99
 comparePrice: 279.99 EUR
 inStock: true
+prodname: Philips Sonicare HX9392/40 Lot de 2 Brosses à Dents Électriques Diamondclean - 1 Brosse Rose & or & 1 Brosse Noire
 ---
 
 Tienes [Philips Sonicare HX9392/40 Lot de 2 Brosses à Dents Électriques Diamondclean - 1 Brosse Rose & or & 1 Brosse Noire](https://www.amazon.fr/dp/B07NXGNMPJ/?tag=tolees0d-21) con un 39.29 % de descuento con precio de oferta de 169.99 EUR (original: 279.99 EUR) en el siguiente enlace!

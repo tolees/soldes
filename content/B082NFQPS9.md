@@ -10,8 +10,11 @@ author: ring
 slug: B082NFQPS9
 description:
 actualPrice: 32.05 EUR
+currency: EUR
+price: 32.05
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Wasteland 3 : Day One Edition pour Xbox One
 ---
 
 Ahora mismo tienes [Wasteland 3 : Day One Edition pour Xbox One](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21) a 32.05 EUR (original: 59.99 EUR) (46.57 %  de descuento) en el siguiente enlace!

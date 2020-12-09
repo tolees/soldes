@@ -10,8 +10,11 @@ author: ring
 slug: B07RXK29NY
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 40.13 EUR
 inStock: true
+prodname: Game Of Thrones  Le Trône de Fer  - Saison 8
 ---
 
 Tienes [Game Of Thrones  Le Trône de Fer  - Saison 8](https://www.amazon.fr/dp/B07RXK29NY/?tag=tolees0d-21) con un 42.71 % de descuento con precio de oferta de 22.99 EUR (original: 40.13 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B089MD9LCB
 description:
 actualPrice: 25.2 EUR
+currency: EUR
+price: 25.2
 comparePrice: 45.0 EUR
 inStock: true
+prodname: Meller - Bio Banna Minor Olive - Lunettes de Soleil pour homme et femme
 ---
 
 Tienes [Meller - Bio Banna Minor Olive - Lunettes de Soleil pour homme et femme](https://www.amazon.fr/dp/B089MD9LCB/?tag=tolees0d-21) con un 44.00 % de descuento con precio de oferta de 25.2 EUR (original: 45.0 EUR) en el siguiente enlace!

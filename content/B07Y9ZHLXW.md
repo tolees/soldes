@@ -10,8 +10,11 @@ author: ring
 slug: B07Y9ZHLXW
 description:
 actualPrice: 154.4 EUR
+currency: EUR
+price: 154.4
 comparePrice: 255.9 EUR
 inStock: true
+prodname: Redmi Note8 4+64Gb Black EU
 ---
 
 Tienes [Redmi Note8 4+64Gb Black EU](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21) con un 39.66 % de descuento con precio de oferta de 154.4 EUR (original: 255.9 EUR) en el siguiente enlace!

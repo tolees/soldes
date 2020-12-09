@@ -10,8 +10,11 @@ author: ring
 slug: B07RS12LTL
 description:
 actualPrice: 379.2 EUR
+currency: EUR
+price: 379.2
 comparePrice: 515.0 EUR
 inStock: true
+prodname: HUION New Kamvas 20 2019 Tablette Graphique avec écran  Version Améliorée du Moniteur de Dessin Kamvas GT-191 V2  120% sRGB Inclinaison de ± 60 °  sans Batterie PW507 Kamvas GT-191 V3
 ---
 
 Está [HUION New Kamvas 20 2019 Tablette Graphique avec écran  Version Améliorée du Moniteur de Dessin Kamvas GT-191 V2  120% sRGB Inclinaison de ± 60 °  sans Batterie PW507 Kamvas GT-191 V3](https://www.amazon.fr/dp/B07RS12LTL/?tag=tolees0d-21) con 26.37 de descuento por 379.2 EUR (original: 515.0 EUR) en el siguiente enlace!

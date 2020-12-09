@@ -10,8 +10,11 @@ author: ring
 slug: B07YGJYBRT
 description:
 actualPrice: 144.02 EUR
+currency: EUR
+price: 144.02
 comparePrice: 293.0 EUR
 inStock: true
+prodname: Chie Mihara Janis  Escarpins Bride Cheville Femmes  Rose  Goya Nude Ante Peach Goya Nude Ante Peach   40 EU
 ---
 
 Ahora mismo tienes [Chie Mihara Janis  Escarpins Bride Cheville Femmes  Rose  Goya Nude Ante Peach Goya Nude Ante Peach   40 EU](https://www.amazon.fr/dp/B07YGJYBRT/?tag=tolees0d-21) a 144.02 EUR (original: 293.0 EUR) (50.85 %  de descuento) en el siguiente enlace!

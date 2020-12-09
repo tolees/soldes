@@ -10,8 +10,11 @@ author: ring
 slug: B00WADKDES
 description:
 actualPrice: 51.05 EUR
+currency: EUR
+price: 51.05
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Le Noble Collection Wizard Jeu d échecs
 ---
 
 Ahora mismo tienes [Le Noble Collection Wizard Jeu d échecs](https://www.amazon.fr/dp/B00WADKDES/?tag=tolees0d-21) a 51.05 EUR (original: 69.99 EUR) (27.06 %  de descuento) en el siguiente enlace!

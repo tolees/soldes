@@ -10,8 +10,11 @@ author: ring
 slug: B01GTL5OUE
 description:
 actualPrice: 109.95 EUR
+currency: EUR
+price: 109.95
 comparePrice: 199.95 EUR
 inStock: true
+prodname: TomTom GPS Voiture VIA 62 - 6 Pouces  Cartographie Europe 49  Trafic Via Smartphone  Appel Mains-Libres
 ---
 
 Está [TomTom GPS Voiture VIA 62 - 6 Pouces  Cartographie Europe 49  Trafic Via Smartphone  Appel Mains-Libres](https://www.amazon.fr/dp/B01GTL5OUE/?tag=tolees0d-21) con 45.01 de descuento por 109.95 EUR (original: 199.95 EUR) en el siguiente enlace!

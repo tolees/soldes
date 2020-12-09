@@ -10,8 +10,11 @@ author: ring
 slug: B074F2TGTP
 description:
 actualPrice: 99.99 EUR
+currency: EUR
+price: 99.99
 comparePrice: 149.0 EUR
 inStock: true
+prodname: PANASONIC ER-SC40-K803 Tondeuse cheveux premium moteur linéaire professionnel à puissance constante
 ---
 
 Está [PANASONIC ER-SC40-K803 Tondeuse cheveux premium moteur linéaire professionnel à puissance constante](https://www.amazon.fr/dp/B074F2TGTP/?tag=tolees0d-21) con 32.89 de descuento por 99.99 EUR (original: 149.0 EUR) en el siguiente enlace!

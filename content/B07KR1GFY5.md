@@ -10,8 +10,11 @@ author: ring
 slug: B07KR1GFY5
 description:
 actualPrice: 48.99 EUR
+currency: EUR
+price: 48.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: Silicon Power SSD 512Go 3D NAND A55 SLC Cache Performance Boost 2.5 pouces SATA III 7mm  0.28"  Interne SSD
 ---
 
 Está [Silicon Power SSD 512Go 3D NAND A55 SLC Cache Performance Boost 2.5 pouces SATA III 7mm  0.28"  Interne SSD](https://www.amazon.fr/dp/B07KR1GFY5/?tag=tolees0d-21) con 38.75 de descuento por 48.99 EUR (original: 79.99 EUR) en el siguiente enlace!

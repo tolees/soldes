@@ -10,8 +10,11 @@ author: ring
 slug: B07VBM2DTH
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Alex Perry Cadeau collier femme argent fantaisie bijoux femme idee cadeau femme original cadeau maman bijoux femme bijoux pas cher collier personnalisé cadeau rigolo idee cadeau ado
 ---
 
 Tienes [Alex Perry Cadeau collier femme argent fantaisie bijoux femme idee cadeau femme original cadeau maman bijoux femme bijoux pas cher collier personnalisé cadeau rigolo idee cadeau ado](https://www.amazon.fr/dp/B07VBM2DTH/?tag=tolees0d-21) con un 74.01 % de descuento con precio de oferta de 25.99 EUR (original: 99.99 EUR) en el siguiente enlace!

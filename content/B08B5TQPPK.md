@@ -10,8 +10,11 @@ author: ring
 slug: B08B5TQPPK
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 50.99 EUR
 inStock: true
+prodname: eXtremeRate Kit de Coques avec Kit de Boutons pour Nintendo Switch Console Joycons DIY Housse de Remplacement pour NS Manette Contrôleur-Menthe Verte & Bleu Céleste & Blanc
 ---
 
 Ahora mismo tienes [eXtremeRate Kit de Coques avec Kit de Boutons pour Nintendo Switch Console Joycons DIY Housse de Remplacement pour NS Manette Contrôleur-Menthe Verte & Bleu Céleste & Blanc](https://www.amazon.fr/dp/B08B5TQPPK/?tag=tolees0d-21) a 36.99 EUR (original: 50.99 EUR) (27.46 %  de descuento) en el siguiente enlace!

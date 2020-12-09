@@ -10,8 +10,11 @@ author: ring
 slug: B01LQAIWKW
 description:
 actualPrice: 65.0 EUR
+currency: EUR
+price: 65.0
 comparePrice: 125.28 EUR
 inStock: true
+prodname: Timberland Killington Half Cab  Sneakers Montantes Homme  Gris Dark Grey Full Grain  41 EU
 ---
 
 Ahora mismo tienes [Timberland Killington Half Cab  Sneakers Montantes Homme  Gris Dark Grey Full Grain  41 EU](https://www.amazon.fr/dp/B01LQAIWKW/?tag=tolees0d-21) a 65.0 EUR (original: 125.28 EUR) (48.12 %  de descuento) en el siguiente enlace!

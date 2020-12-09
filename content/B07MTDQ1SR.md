@@ -10,8 +10,11 @@ author: ring
 slug: B07MTDQ1SR
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Zamkol Enceinte Bluetooth Portable  Waterproof Haut-Parleur Bluetooth Enceinte d extérieur sans Fil 24W  360° HD Bass Pilote Double  Bluetooth 4.2  étanche IPX6  Mains Libres et Technologie TWS
 ---
 
 Está [Zamkol Enceinte Bluetooth Portable  Waterproof Haut-Parleur Bluetooth Enceinte d extérieur sans Fil 24W  360° HD Bass Pilote Double  Bluetooth 4.2  étanche IPX6  Mains Libres et Technologie TWS](https://www.amazon.fr/dp/B07MTDQ1SR/?tag=tolees0d-21) con 50.01 de descuento por 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

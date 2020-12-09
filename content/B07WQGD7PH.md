@@ -10,8 +10,11 @@ author: ring
 slug: B07WQGD7PH
 description:
 actualPrice: 23.58 EUR
+currency: EUR
+price: 23.58
 comparePrice: 44.98 EUR
 inStock: true
+prodname: Mosaique Enfant Puzzle 3D - Jeu Construction Enfant Jouet Perceuse Electrique Loisirs Créatifs Centre D activités Jeux Montessori Educatif Jeu Bricolage Enfant Cadeau pour Garcon Fille 3 4 5 6 Ans
 ---
 
 Está [Mosaique Enfant Puzzle 3D - Jeu Construction Enfant Jouet Perceuse Electrique Loisirs Créatifs Centre D activités Jeux Montessori Educatif Jeu Bricolage Enfant Cadeau pour Garcon Fille 3 4 5 6 Ans](https://www.amazon.fr/dp/B07WQGD7PH/?tag=tolees0d-21) con 47.58 de descuento por 23.58 EUR (original: 44.98 EUR) en el siguiente enlace!

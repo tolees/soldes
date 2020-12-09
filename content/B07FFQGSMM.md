@@ -10,8 +10,11 @@ author: ring
 slug: B07FFQGSMM
 description:
 actualPrice: 38.26 EUR
+currency: EUR
+price: 38.26
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Fossil Homme Bracelet JF02934040
 ---
 
 Está [Fossil Homme Bracelet JF02934040](https://www.amazon.fr/dp/B07FFQGSMM/?tag=tolees0d-21) con 35.15 de descuento por 38.26 EUR (original: 59.0 EUR) en el siguiente enlace!

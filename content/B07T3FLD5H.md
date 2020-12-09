@@ -10,8 +10,11 @@ author: ring
 slug: B07T3FLD5H
 description:
 actualPrice: 22.22 EUR
+currency: EUR
+price: 22.22
 comparePrice: 35.0 EUR
 inStock: true
+prodname: Dead Cells - Action Game of The Year
 ---
 
 Tienes [Dead Cells - Action Game of The Year](https://www.amazon.fr/dp/B07T3FLD5H/?tag=tolees0d-21) con un 36.51 % de descuento con precio de oferta de 22.22 EUR (original: 35.0 EUR) en el siguiente enlace!

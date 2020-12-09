@@ -10,8 +10,11 @@ author: ring
 slug: B07TWW8LS9
 description:
 actualPrice: 79.99 EUR
+currency: EUR
+price: 79.99
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ronde 21 cm / 3 3L Induction E2230304
 ---
 
 Tienes [Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ronde 21 cm / 3 3L Induction E2230304](https://www.amazon.fr/dp/B07TWW8LS9/?tag=tolees0d-21) con un 42.86 % de descuento con precio de oferta de 79.99 EUR (original: 139.99 EUR) en el siguiente enlace!

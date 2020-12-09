@@ -10,8 +10,11 @@ author: ring
 slug: B07DNQX5H7
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Forza Horizon 4
 ---
 
 Tienes [Forza Horizon 4](https://www.amazon.fr/dp/B07DNQX5H7/?tag=tolees0d-21) con un 71.44 % de descuento con precio de oferta de 19.99 EUR (original: 69.99 EUR) en el siguiente enlace!

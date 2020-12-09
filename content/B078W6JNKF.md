@@ -10,8 +10,11 @@ author: ring
 slug: B078W6JNKF
 description:
 actualPrice: 71.46 EUR
+currency: EUR
+price: 71.46
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Corsair DARK CORE RGB Special Edition Optique Souris Gaming sans Fil avec recharge sans fil Qi  Rétroéclairage RGB Multicolore  16000 DPI  Noir
 ---
 
 Ahora mismo tienes [Corsair DARK CORE RGB Special Edition Optique Souris Gaming sans Fil avec recharge sans fil Qi  Rétroéclairage RGB Multicolore  16000 DPI  Noir](https://www.amazon.fr/dp/B078W6JNKF/?tag=tolees0d-21) a 71.46 EUR (original: 109.99 EUR) (35.03 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B081LPPV7G
 description:
 actualPrice: 28.82 EUR
+currency: EUR
+price: 28.82
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Solgaleo-GX SM104A Secrète Gold - #myboost X Sole E Luna 11.5 Destino Sfuggente - Coffret de 10 Cartes Pokémon Italiennes
 ---
 
 Está [Solgaleo-GX SM104A Secrète Gold - #myboost X Sole E Luna 11.5 Destino Sfuggente - Coffret de 10 Cartes Pokémon Italiennes](https://www.amazon.fr/dp/B081LPPV7G/?tag=tolees0d-21) con 51.96 de descuento por 28.82 EUR (original: 59.99 EUR) en el siguiente enlace!

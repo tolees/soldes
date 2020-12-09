@@ -10,8 +10,11 @@ author: ring
 slug: B08DCF8FKS
 description:
 actualPrice: 29.98 EUR
+currency: EUR
+price: 29.98
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Bluetooth Headset 5.0 écouteurs sans Fil Bluetooth 3D Stéréo HiFi Microphone intégré écouteurs Bluetooth IPX5 étanche couplage Automatique Compatible avec Samsung/Huawei/iphone/Airpods
 ---
 
 Está [Bluetooth Headset 5.0 écouteurs sans Fil Bluetooth 3D Stéréo HiFi Microphone intégré écouteurs Bluetooth IPX5 étanche couplage Automatique Compatible avec Samsung/Huawei/iphone/Airpods](https://www.amazon.fr/dp/B08DCF8FKS/?tag=tolees0d-21) con 70.02 de descuento por 29.98 EUR (original: 99.99 EUR) en el siguiente enlace!

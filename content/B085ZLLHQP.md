@@ -10,8 +10,11 @@ author: ring
 slug: B085ZLLHQP
 description:
 actualPrice: 7.99 EUR
+currency: EUR
+price: 7.99
 comparePrice: 12.99 EUR
 inStock: true
+prodname: CEEPUY Coque Airpods  Housses en Silicone Compatible pour AirPods 1&2 Case Cover Étuis en Protection Antichoc[Face Avant Visible] Bleu bébé
 ---
 
 Está [CEEPUY Coque Airpods  Housses en Silicone Compatible pour AirPods 1&2 Case Cover Étuis en Protection Antichoc[Face Avant Visible] Bleu bébé](https://www.amazon.fr/dp/B085ZLLHQP/?tag=tolees0d-21) con 38.49 de descuento por 7.99 EUR (original: 12.99 EUR) en el siguiente enlace!

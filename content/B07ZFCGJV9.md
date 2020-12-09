@@ -10,8 +10,11 @@ author: ring
 slug: B07ZFCGJV9
 description:
 actualPrice: 99.97 EUR
+currency: EUR
+price: 99.97
 comparePrice: 150.0 EUR
 inStock: true
+prodname: Meuleuse D angle Brushless 18V  POPOMAN Meuleuse angulaire sans fil 125mm 10000 RPM  4.0Ah avec Poignée Latérale Anti-Vibration  5 Roues de Meulage  Libération rapide Couvercle
 ---
 
 Tienes [Meuleuse D angle Brushless 18V  POPOMAN Meuleuse angulaire sans fil 125mm 10000 RPM  4.0Ah avec Poignée Latérale Anti-Vibration  5 Roues de Meulage  Libération rapide Couvercle](https://www.amazon.fr/dp/B07ZFCGJV9/?tag=tolees0d-21) con un 33.35 % de descuento con precio de oferta de 99.97 EUR (original: 150.0 EUR) en el siguiente enlace!

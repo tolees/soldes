@@ -10,8 +10,11 @@ author: ring
 slug: B00RCJXBCG
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 130.0 EUR
 inStock: true
+prodname: BLACK+DECKER MT218K-QW Perceuse-Visseuse Multievo - Outil multifonctions sans fil - Chargeur inclus - Un double embout de vissage - Livrée en coffret 850W  18V  Orange/Noir  1 batterie
 ---
 
 Está [BLACK+DECKER MT218K-QW Perceuse-Visseuse Multievo - Outil multifonctions sans fil - Chargeur inclus - Un double embout de vissage - Livrée en coffret 850W  18V  Orange/Noir  1 batterie](https://www.amazon.fr/dp/B00RCJXBCG/?tag=tolees0d-21) con 46.16 de descuento por 69.99 EUR (original: 130.0 EUR) en el siguiente enlace!

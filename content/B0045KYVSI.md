@@ -10,8 +10,11 @@ author: ring
 slug: B0045KYVSI
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 32.9 EUR
 inStock: true
+prodname: Bialetti 0002154 Cafetière Italienne  Aluminium  2 Tasses
 ---
 
 Ahora mismo tienes [Bialetti 0002154 Cafetière Italienne  Aluminium  2 Tasses](https://www.amazon.fr/dp/B0045KYVSI/?tag=tolees0d-21) a 21.99 EUR (original: 32.9 EUR) (33.16 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B06ZYLMBJS
 description:
 actualPrice: 37.26 EUR
+currency: EUR
+price: 37.26
 comparePrice: 119.95 EUR
 inStock: true
+prodname: GORE WEAR VWMYLW Gilet Homme Marron FR : L  Taille Fabricant : L 
 ---
 
 Tienes [GORE WEAR VWMYLW Gilet Homme Marron FR : L  Taille Fabricant : L ](https://www.amazon.fr/dp/B06ZYLMBJS/?tag=tolees0d-21) con un 68.94 % de descuento con precio de oferta de 37.26 EUR (original: 119.95 EUR) en el siguiente enlace!

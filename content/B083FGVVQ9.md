@@ -10,8 +10,11 @@ author: ring
 slug: B083FGVVQ9
 description:
 actualPrice: 230.98 EUR
+currency: EUR
+price: 230.98
 comparePrice: 350.0 EUR
 inStock: true
+prodname: Lacoste BH1966 Veste  Noir  56 Homme
 ---
 
 Ahora mismo tienes [Lacoste BH1966 Veste  Noir  56 Homme](https://www.amazon.fr/dp/B083FGVVQ9/?tag=tolees0d-21) a 230.98 EUR (original: 350.0 EUR) (34.01 %  de descuento) en el siguiente enlace!

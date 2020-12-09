@@ -10,8 +10,11 @@ author: ring
 slug: B000WGVMOU
 description:
 actualPrice: 21.93 EUR
+currency: EUR
+price: 21.93
 comparePrice: 57.36 EUR
 inStock: true
+prodname: Staedtler Mars Comfort 552 Compass Rapide
 ---
 
 Está [Staedtler Mars Comfort 552 Compass Rapide](https://www.amazon.fr/dp/B000WGVMOU/?tag=tolees0d-21) con 61.77 de descuento por 21.93 EUR (original: 57.36 EUR) en el siguiente enlace!

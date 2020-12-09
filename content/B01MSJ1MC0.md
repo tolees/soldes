@@ -10,8 +10,11 @@ author: ring
 slug: B01MSJ1MC0
 description:
 actualPrice: 6.46 EUR
+currency: EUR
+price: 6.46
 comparePrice: 15.05 EUR
 inStock: true
+prodname: Shining [Blu-Ray]
 ---
 
 Tienes [Shining [Blu-Ray]](https://www.amazon.fr/dp/B01MSJ1MC0/?tag=tolees0d-21) con un 57.08 % de descuento con precio de oferta de 6.46 EUR (original: 15.05 EUR) en el siguiente enlace!

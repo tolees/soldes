@@ -10,8 +10,11 @@ author: ring
 slug: B00P0ZJXEO
 description:
 actualPrice: 30.87 EUR
+currency: EUR
+price: 30.87
 comparePrice: 350.0 EUR
 inStock: true
+prodname: Italia Independent 0090CV-009-000 Lunettes de Soleil Unisex  Noir  Negro   50
 ---
 
 Ahora mismo tienes [Italia Independent 0090CV-009-000 Lunettes de Soleil Unisex  Noir  Negro   50](https://www.amazon.fr/dp/B00P0ZJXEO/?tag=tolees0d-21) a 30.87 EUR (original: 350.0 EUR) (91.18 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00H8LBYR2
 description:
 actualPrice: 38.7 EUR
+currency: EUR
+price: 38.7
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Tigex Support pour Baignoire Bébé Anatomy  Pliable  facilite le bain de Bébé  12kg Max  0-12 Mois 
 ---
 
 Tienes [Tigex Support pour Baignoire Bébé Anatomy  Pliable  facilite le bain de Bébé  12kg Max  0-12 Mois ](https://www.amazon.fr/dp/B00H8LBYR2/?tag=tolees0d-21) con un 44.71 % de descuento con precio de oferta de 38.7 EUR (original: 69.99 EUR) en el siguiente enlace!

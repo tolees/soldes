@@ -10,8 +10,11 @@ author: ring
 slug: B07ZVZLK3G
 description:
 actualPrice: 60.42 EUR
+currency: EUR
+price: 60.42
 comparePrice: 139.0 EUR
 inStock: true
+prodname: Tommee Tippee Kit couffin support Sleepee – Gris taupe
 ---
 
 Ahora mismo tienes [Tommee Tippee Kit couffin support Sleepee – Gris taupe](https://www.amazon.fr/dp/B07ZVZLK3G/?tag=tolees0d-21) a 60.42 EUR (original: 139.0 EUR) (56.53 %  de descuento) en el siguiente enlace!

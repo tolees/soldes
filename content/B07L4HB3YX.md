@@ -10,8 +10,11 @@ author: ring
 slug: B07L4HB3YX
 description:
 actualPrice: 219.97 EUR
+currency: EUR
+price: 219.97
 comparePrice: 367.97 EUR
 inStock: true
+prodname: TACKLIFE Broyeur Végétaux et Branches  2800W Broyeur de Végétaux  Largeur de Coupe 45mm  Système de Coupe à Rotor Réglable  Bac de Collecte 55L  Version Optimisée - PWS01A
 ---
 
 Tienes [TACKLIFE Broyeur Végétaux et Branches  2800W Broyeur de Végétaux  Largeur de Coupe 45mm  Système de Coupe à Rotor Réglable  Bac de Collecte 55L  Version Optimisée - PWS01A](https://www.amazon.fr/dp/B07L4HB3YX/?tag=tolees0d-21) con un 40.22 % de descuento con precio de oferta de 219.97 EUR (original: 367.97 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07JMCCF85
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 66.99 EUR
 inStock: true
+prodname: Playmobil - Grand Camping - 70087
 ---
 
 Está [Playmobil - Grand Camping - 70087](https://www.amazon.fr/dp/B07JMCCF85/?tag=tolees0d-21) con 25.38 de descuento por 49.99 EUR (original: 66.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00VVYQ8CI
 description:
 actualPrice: 49.55 EUR
+currency: EUR
+price: 49.55
 comparePrice: 129.95 EUR
 inStock: true
+prodname: G-STAR RAW 3301 Slim Jeans  DK Aged 5245-89  28W / 32L Homme
 ---
 
 Ahora mismo tienes [G-STAR RAW 3301 Slim Jeans  DK Aged 5245-89  28W / 32L Homme](https://www.amazon.fr/dp/B00VVYQ8CI/?tag=tolees0d-21) a 49.55 EUR (original: 129.95 EUR) (61.87 %  de descuento) en el siguiente enlace!

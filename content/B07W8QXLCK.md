@@ -10,8 +10,11 @@ author: ring
 slug: B07W8QXLCK
 description:
 actualPrice: 254.99 EUR
+currency: EUR
+price: 254.99
 comparePrice: 369.95 EUR
 inStock: true
+prodname: Bose Portable Smart Speaker - avec Contrôle Vocal Alexa Intégré  Noir
 ---
 
 Ahora mismo tienes [Bose Portable Smart Speaker - avec Contrôle Vocal Alexa Intégré  Noir](https://www.amazon.fr/dp/B07W8QXLCK/?tag=tolees0d-21) a 254.99 EUR (original: 369.95 EUR) (31.07 %  de descuento) en el siguiente enlace!

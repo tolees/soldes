@@ -10,8 +10,11 @@ author: ring
 slug: B01BPDXW8M
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Joseph Joseph Nest 9 Plus - Ensemble Compact Emboitable de Saladiers  Bols  Passoires  Chinois et Doseurs - Multicolore
 ---
 
 Tienes [Joseph Joseph Nest 9 Plus - Ensemble Compact Emboitable de Saladiers  Bols  Passoires  Chinois et Doseurs - Multicolore](https://www.amazon.fr/dp/B01BPDXW8M/?tag=tolees0d-21) con un 53.85 % de descuento con precio de oferta de 29.99 EUR (original: 64.99 EUR) en el siguiente enlace!

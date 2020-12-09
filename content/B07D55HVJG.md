@@ -10,8 +10,11 @@ author: ring
 slug: B07D55HVJG
 description:
 actualPrice: 41.99 EUR
+currency: EUR
+price: 41.99
 comparePrice: 69.98 EUR
 inStock: true
+prodname: Columbo-L intégrale
 ---
 
 Tienes [Columbo-L intégrale](https://www.amazon.fr/dp/B07D55HVJG/?tag=tolees0d-21) con un 40.00 % de descuento con precio de oferta de 41.99 EUR (original: 69.98 EUR) en el siguiente enlace!

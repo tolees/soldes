@@ -10,8 +10,11 @@ author: ring
 slug: B08BJ1DPKR
 description:
 actualPrice: 288.66 EUR
+currency: EUR
+price: 288.66
 comparePrice: 799.0 EUR
 inStock: true
+prodname: Vidéoprojecteur WiFi Full HD 1080P  WiMiUS 7200 Lumens Projecteur WiFi Full HD 1080P Rétroprojecteur Supporte 4K Audio Dolby Projecteur LED Home Cinéma pour Smartphone TV Stick PC PS4 HDMI USB VGA AV
 ---
 
 Está [Vidéoprojecteur WiFi Full HD 1080P  WiMiUS 7200 Lumens Projecteur WiFi Full HD 1080P Rétroprojecteur Supporte 4K Audio Dolby Projecteur LED Home Cinéma pour Smartphone TV Stick PC PS4 HDMI USB VGA AV](https://www.amazon.fr/dp/B08BJ1DPKR/?tag=tolees0d-21) con 63.87 de descuento por 288.66 EUR (original: 799.0 EUR) en el siguiente enlace!

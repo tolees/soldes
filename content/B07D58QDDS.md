@@ -10,8 +10,11 @@ author: ring
 slug: B07D58QDDS
 description:
 actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
 comparePrice: 25.07 EUR
 inStock: true
+prodname: Warren - Collection de 4 films - Annabelle et Conjuring - Coffret Blu-Ray
 ---
 
 Está [Warren - Collection de 4 films - Annabelle et Conjuring - Coffret Blu-Ray](https://www.amazon.fr/dp/B07D58QDDS/?tag=tolees0d-21) con 50.14 de descuento por 12.5 EUR (original: 25.07 EUR) en el siguiente enlace!

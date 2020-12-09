@@ -10,8 +10,11 @@ author: ring
 slug: B0823SDNFP
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Techole Switch HDMI 4K  3 Entrée vers 1 Sorties Commutateur HDMI UHD/3D/4K@30Hz/1080P@60Hz  HDMI Switch Supporte PC PS4 PS3 Xbox Lecteur Blu-Ray TV Box HDTV DVD Écran Projecteur
 ---
 
 Tienes [Techole Switch HDMI 4K  3 Entrée vers 1 Sorties Commutateur HDMI UHD/3D/4K@30Hz/1080P@60Hz  HDMI Switch Supporte PC PS4 PS3 Xbox Lecteur Blu-Ray TV Box HDTV DVD Écran Projecteur](https://www.amazon.fr/dp/B0823SDNFP/?tag=tolees0d-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

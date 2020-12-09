@@ -10,8 +10,11 @@ author: ring
 slug: B07QNVTMW8
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Coffret de Bain & Douche pour Femme  Body&Earth 6 Pièces Coffret Cadeau au Parfum de Rose  Parfait Cadeau pour l’Anniversaire et la Fête de Mères
 ---
 
 Ahora mismo tienes [Coffret de Bain & Douche pour Femme  Body&Earth 6 Pièces Coffret Cadeau au Parfum de Rose  Parfait Cadeau pour l’Anniversaire et la Fête de Mères](https://www.amazon.fr/dp/B07QNVTMW8/?tag=tolees0d-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

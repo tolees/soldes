@@ -10,8 +10,11 @@ author: ring
 slug: B088NSZC4F
 description:
 actualPrice: 28.99 EUR
+currency: EUR
+price: 28.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Manette Switch sans Fil  Manette Bluetooth pour Nintendo Switch Pro/Switch Lite  Manette Filaire pour PC Windows XP/10/7/8/8.1 avec Fonction Double Vibration et Turbo  Roue Dentée
 ---
 
 Está [Manette Switch sans Fil  Manette Bluetooth pour Nintendo Switch Pro/Switch Lite  Manette Filaire pour PC Windows XP/10/7/8/8.1 avec Fonction Double Vibration et Turbo  Roue Dentée](https://www.amazon.fr/dp/B088NSZC4F/?tag=tolees0d-21) con 58.58 de descuento por 28.99 EUR (original: 69.99 EUR) en el siguiente enlace!

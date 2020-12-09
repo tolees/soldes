@@ -10,8 +10,11 @@ author: ring
 slug: B07L8CJH3Q
 description:
 actualPrice: 117.72 EUR
+currency: EUR
+price: 117.72
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Riviera-et-Bar PPS650 Milxxer + Préparateur de Boissons Végétales
 ---
 
 Está [Riviera-et-Bar PPS650 Milxxer + Préparateur de Boissons Végétales](https://www.amazon.fr/dp/B07L8CJH3Q/?tag=tolees0d-21) con 34.60 de descuento por 117.72 EUR (original: 179.99 EUR) en el siguiente enlace!

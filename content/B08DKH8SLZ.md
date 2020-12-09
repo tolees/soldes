@@ -10,8 +10,11 @@ author: ring
 slug: B08DKH8SLZ
 description:
 actualPrice: 49.99 EUR
+currency: EUR
+price: 49.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: FKANT Montre Connectée Homme Femme  GPS Montre Sport 14 Modes étanche IP68 avec Fréquence Cardiaque Soins Sains  Moniteur de Sommeil Compteur de Calorie Alarme Bracelet Connectée pour iOS Android
 ---
 
 Tienes [FKANT Montre Connectée Homme Femme  GPS Montre Sport 14 Modes étanche IP68 avec Fréquence Cardiaque Soins Sains  Moniteur de Sommeil Compteur de Calorie Alarme Bracelet Connectée pour iOS Android](https://www.amazon.fr/dp/B08DKH8SLZ/?tag=tolees0d-21) con un 28.58 % de descuento con precio de oferta de 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

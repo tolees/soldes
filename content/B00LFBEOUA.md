@@ -10,8 +10,11 @@ author: ring
 slug: B00LFBEOUA
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Logitech G402 Hyperion Fury Souris Gamer Filaire  Suivi Optique 4000 PPP  Ultra-Léger  Ultra-rapide  8 Boutons Gaming Programmables  Idéale FPS  Compatible avec PC/Mac - Noire
 ---
 
 Tienes [Logitech G402 Hyperion Fury Souris Gamer Filaire  Suivi Optique 4000 PPP  Ultra-Léger  Ultra-rapide  8 Boutons Gaming Programmables  Idéale FPS  Compatible avec PC/Mac - Noire](https://www.amazon.fr/dp/B00LFBEOUA/?tag=tolees0d-21) con un 61.44 % de descuento con precio de oferta de 26.99 EUR (original: 69.99 EUR) en el siguiente enlace!

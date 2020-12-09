@@ -10,8 +10,11 @@ author: ring
 slug: B0897CFGZL
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: TQGOLD Chaussure de Securité Homme Femmes S3 Légères Chaussures de Travail avec Embout de Protection en Acier Bleu Taille 43
 ---
 
 Está [TQGOLD Chaussure de Securité Homme Femmes S3 Légères Chaussures de Travail avec Embout de Protection en Acier Bleu Taille 43](https://www.amazon.fr/dp/B0897CFGZL/?tag=tolees0d-21) con 32.01 de descuento por 33.99 EUR (original: 49.99 EUR) en el siguiente enlace!

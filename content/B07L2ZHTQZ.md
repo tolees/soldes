@@ -10,8 +10,11 @@ author: ring
 slug: B07L2ZHTQZ
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 40.99 EUR
 inStock: true
+prodname: Chemise Femme Manche Longue Basic Casual - éLéGant Bureau Tunique Femme Mode Tee Top Haut Blouse  EU36  Blanc 
 ---
 
 Ahora mismo tienes [Chemise Femme Manche Longue Basic Casual - éLéGant Bureau Tunique Femme Mode Tee Top Haut Blouse  EU36  Blanc ](https://www.amazon.fr/dp/B07L2ZHTQZ/?tag=tolees0d-21) a 22.99 EUR (original: 40.99 EUR) (43.91 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07WHTBL23
 description:
 actualPrice: 179.4 EUR
+currency: EUR
+price: 179.4
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Fossil Homme Écran Tactile Digital Montre Connectée avec Bracelet en Acier Inoxydable FTW4024
 ---
 
 Tienes [Fossil Homme Écran Tactile Digital Montre Connectée avec Bracelet en Acier Inoxydable FTW4024](https://www.amazon.fr/dp/B07WHTBL23/?tag=tolees0d-21) con un 40.00 % de descuento con precio de oferta de 179.4 EUR (original: 299.0 EUR) en el siguiente enlace!

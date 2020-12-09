@@ -10,8 +10,11 @@ author: ring
 slug: B07Y1RZVT8
 description:
 actualPrice: 9.9 EUR
+currency: EUR
+price: 9.9
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Gran Turismo Sport - PlayStation Hits  Version physique  En français  Mode multijoueur  1 à 2 Joueurs
 ---
 
 Está [Gran Turismo Sport - PlayStation Hits  Version physique  En français  Mode multijoueur  1 à 2 Joueurs](https://www.amazon.fr/dp/B07Y1RZVT8/?tag=tolees0d-21) con 50.48 de descuento por 9.9 EUR (original: 19.99 EUR) en el siguiente enlace!

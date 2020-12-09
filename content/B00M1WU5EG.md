@@ -10,8 +10,11 @@ author: ring
 slug: B00M1WU5EG
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 44.9 EUR
 inStock: true
+prodname: Devolo 9291 dLAN 550 Duo+  Prise Résau CPL  500 Mbit/s via CPL  1x Adaptateur  2x Ports Fast Ethernet  Prise Electrique Intégrée  Courant Porteur  Boitier CPL  - Module Complémentaire  Blanc
 ---
 
 Ahora mismo tienes [Devolo 9291 dLAN 550 Duo+  Prise Résau CPL  500 Mbit/s via CPL  1x Adaptateur  2x Ports Fast Ethernet  Prise Electrique Intégrée  Courant Porteur  Boitier CPL  - Module Complémentaire  Blanc](https://www.amazon.fr/dp/B00M1WU5EG/?tag=tolees0d-21) a 25.99 EUR (original: 44.9 EUR) (42.12 %  de descuento) en el siguiente enlace!

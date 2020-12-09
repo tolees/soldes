@@ -10,8 +10,11 @@ author: ring
 slug: B07TCH6HF8
 description:
 actualPrice: 74.95 EUR
+currency: EUR
+price: 74.95
 comparePrice: 139.99 EUR
 inStock: true
+prodname: Quiksilver Silvertip-Veste de Ski/Snowboard pour Garçon 8-16 Ans  Black Benzal Youth  FR : M  Taille Fabricant : 10/M 
 ---
 
 Está [Quiksilver Silvertip-Veste de Ski/Snowboard pour Garçon 8-16 Ans  Black Benzal Youth  FR : M  Taille Fabricant : 10/M ](https://www.amazon.fr/dp/B07TCH6HF8/?tag=tolees0d-21) con 46.46 de descuento por 74.95 EUR (original: 139.99 EUR) en el siguiente enlace!

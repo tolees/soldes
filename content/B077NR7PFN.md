@@ -10,8 +10,11 @@ author: ring
 slug: B077NR7PFN
 description:
 actualPrice: 4.89 EUR
+currency: EUR
+price: 4.89
 comparePrice: 6.99 EUR
 inStock: true
+prodname: Ty TY36889 Peluche Milo Le Lamantin
 ---
 
 Tienes [Ty TY36889 Peluche Milo Le Lamantin](https://www.amazon.fr/dp/B077NR7PFN/?tag=tolees0d-21) con un 30.04 % de descuento con precio de oferta de 4.89 EUR (original: 6.99 EUR) en el siguiente enlace!

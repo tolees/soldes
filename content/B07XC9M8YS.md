@@ -10,8 +10,11 @@ author: ring
 slug: B07XC9M8YS
 description:
 actualPrice: 8.75 EUR
+currency: EUR
+price: 8.75
 comparePrice: 12.5 EUR
 inStock: true
+prodname: Eau Jeune - L Échappée Belle Coffret Parfum
 ---
 
 Tienes [Eau Jeune - L Échappée Belle Coffret Parfum](https://www.amazon.fr/dp/B07XC9M8YS/?tag=tolees0d-21) con un 30.00 % de descuento con precio de oferta de 8.75 EUR (original: 12.5 EUR) en el siguiente enlace!

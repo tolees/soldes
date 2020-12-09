@@ -10,8 +10,11 @@ author: ring
 slug: B07TQX16FX
 description:
 actualPrice: 53.97 EUR
+currency: EUR
+price: 53.97
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Clarks Paulson Plain  Derbys Homme  Marron  Tan Suede Tan Suede   44.5 EU
 ---
 
 Ahora mismo tienes [Clarks Paulson Plain  Derbys Homme  Marron  Tan Suede Tan Suede   44.5 EU](https://www.amazon.fr/dp/B07TQX16FX/?tag=tolees0d-21) a 53.97 EUR (original: 89.95 EUR) (40.00 %  de descuento) en el siguiente enlace!

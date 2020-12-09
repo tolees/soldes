@@ -10,8 +10,11 @@ author: ring
 slug: B08BRCJPYR
 description:
 actualPrice: 65.59 EUR
+currency: EUR
+price: 65.59
 comparePrice: 96.99 EUR
 inStock: true
+prodname: CAMEL CROWN Veste Softshell Femme Imperméable 3 en 1 Veste Zippe Ski Coupe Vent avec Plusieurs Poches Polaire Détachable pour Hiver Automne
 ---
 
 Ahora mismo tienes [CAMEL CROWN Veste Softshell Femme Imperméable 3 en 1 Veste Zippe Ski Coupe Vent avec Plusieurs Poches Polaire Détachable pour Hiver Automne](https://www.amazon.fr/dp/B08BRCJPYR/?tag=tolees0d-21) a 65.59 EUR (original: 96.99 EUR) (32.37 %  de descuento) en el siguiente enlace!

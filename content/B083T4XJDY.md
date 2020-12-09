@@ -10,8 +10,11 @@ author: ring
 slug: B083T4XJDY
 description:
 actualPrice: 99.0 EUR
+currency: EUR
+price: 99.0
 comparePrice: 179.0 EUR
 inStock: true
+prodname: Casque sans fil Sennheiser HD 450BT  avec réduction active du bruit  Noir
 ---
 
 Tienes [Casque sans fil Sennheiser HD 450BT  avec réduction active du bruit  Noir](https://www.amazon.fr/dp/B083T4XJDY/?tag=tolees0d-21) con un 44.69 % de descuento con precio de oferta de 99.0 EUR (original: 179.0 EUR) en el siguiente enlace!

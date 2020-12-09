@@ -10,8 +10,11 @@ author: ring
 slug: B07FB67RGX
 description:
 actualPrice: 17.9 EUR
+currency: EUR
+price: 17.9
 comparePrice: 45.69 EUR
 inStock: true
+prodname: Chaussures Femmes Sport Trainers Confort Poids Léger Woven Mode Marchant Baskets - Noir3 - Taille 37 CN
 ---
 
 Ahora mismo tienes [Chaussures Femmes Sport Trainers Confort Poids Léger Woven Mode Marchant Baskets - Noir3 - Taille 37 CN](https://www.amazon.fr/dp/B07FB67RGX/?tag=tolees0d-21) a 17.9 EUR (original: 45.69 EUR) (60.82 %  de descuento) en el siguiente enlace!

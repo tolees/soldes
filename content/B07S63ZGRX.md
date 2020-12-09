@@ -10,8 +10,11 @@ author: ring
 slug: B07S63ZGRX
 description:
 actualPrice: 13.19 EUR
+currency: EUR
+price: 13.19
 comparePrice: 26.99 EUR
 inStock: true
+prodname: Crocs Classic Clog - Sabots Mixte Enfant - Orange  Cantaloupe 801  - 27/28 EU
 ---
 
 Está [Crocs Classic Clog - Sabots Mixte Enfant - Orange  Cantaloupe 801  - 27/28 EU](https://www.amazon.fr/dp/B07S63ZGRX/?tag=tolees0d-21) con 51.13 de descuento por 13.19 EUR (original: 26.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07SXBFPDD
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 59.99 EUR
 inStock: true
+prodname: Ubisoft Just Dance 2020 - Switch
 ---
 
 Tienes [Ubisoft Just Dance 2020 - Switch](https://www.amazon.fr/dp/B07SXBFPDD/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

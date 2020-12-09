@@ -10,8 +10,11 @@ author: ring
 slug: B07YGJ5L8C
 description:
 actualPrice: 51.0 EUR
+currency: EUR
+price: 51.0
 comparePrice: 149.0 EUR
 inStock: true
+prodname: Ice-Watch - Ice Steel Rose-Gold - Montre Rose-Gold pour Femme avec Bracelet en Metal - 017321  Small 
 ---
 
 Ahora mismo tienes [Ice-Watch - Ice Steel Rose-Gold - Montre Rose-Gold pour Femme avec Bracelet en Metal - 017321  Small ](https://www.amazon.fr/dp/B07YGJ5L8C/?tag=tolees0d-21) a 51.0 EUR (original: 149.0 EUR) (65.77 %  de descuento) en el siguiente enlace!

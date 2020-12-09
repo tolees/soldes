@@ -10,8 +10,11 @@ author: ring
 slug: B00V8ZQKGO
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 54.99 EUR
 inStock: true
+prodname: Tefal RK102811 Classic Cuiseur à Riz Noir Métallisé
 ---
 
 Ahora mismo tienes [Tefal RK102811 Classic Cuiseur à Riz Noir Métallisé](https://www.amazon.fr/dp/B00V8ZQKGO/?tag=tolees0d-21) a 34.99 EUR (original: 54.99 EUR) (36.37 %  de descuento) en el siguiente enlace!

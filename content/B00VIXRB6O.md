@@ -10,8 +10,11 @@ author: ring
 slug: B00VIXRB6O
 description:
 actualPrice: 84.99 EUR
+currency: EUR
+price: 84.99
 comparePrice: 183.99 EUR
 inStock: true
+prodname: PetSafe - Distributeur Automatique de Croquettes pour Chiens et Chats 5.6L Healthy Pet Simply Feed- Programmable jusqu à 12 Repas/Jour avec Ecran LCD  fonctionne avec 4 piles  non incluses 
 ---
 
 Ahora mismo tienes [PetSafe - Distributeur Automatique de Croquettes pour Chiens et Chats 5.6L Healthy Pet Simply Feed- Programmable jusqu à 12 Repas/Jour avec Ecran LCD  fonctionne avec 4 piles  non incluses ](https://www.amazon.fr/dp/B00VIXRB6O/?tag=tolees0d-21) a 84.99 EUR (original: 183.99 EUR) (53.81 %  de descuento) en el siguiente enlace!

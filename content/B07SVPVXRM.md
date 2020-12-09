@@ -10,8 +10,11 @@ author: ring
 slug: B07SVPVXRM
 description:
 actualPrice: 27.19 EUR
+currency: EUR
+price: 27.19
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Destroy All Humans
 ---
 
 Está [Destroy All Humans](https://www.amazon.fr/dp/B07SVPVXRM/?tag=tolees0d-21) con 32.01 de descuento por 27.19 EUR (original: 39.99 EUR) en el siguiente enlace!

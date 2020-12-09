@@ -10,8 +10,11 @@ author: ring
 slug: B005CAKZ6W
 description:
 actualPrice: 4.18 EUR
+currency: EUR
+price: 4.18
 comparePrice: 5.8 EUR
 inStock: true
+prodname: Pentel Lot de 12 BL77 EnerGel Roller gel rétractable séchage rapide pointe 0 7 mm Noir - Lot de 2
 ---
 
 Tienes [Pentel Lot de 12 BL77 EnerGel Roller gel rétractable séchage rapide pointe 0 7 mm Noir - Lot de 2](https://www.amazon.fr/dp/B005CAKZ6W/?tag=tolees0d-21) con un 27.93 % de descuento con precio de oferta de 4.18 EUR (original: 5.8 EUR) en el siguiente enlace!

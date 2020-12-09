@@ -10,8 +10,11 @@ author: ring
 slug: B08KZP2RTQ
 description:
 actualPrice: 8.9 EUR
+currency: EUR
+price: 8.9
 comparePrice: 18.5 EUR
 inStock: true
+prodname: HTDELEC Coque pour Samsung Galaxy A20s Violet Housse en Cuir Premium Flip Case Portefeuille Etui avec Stand Support et Carte Slot Samsung Galaxy A20s T-Violet 
 ---
 
 Tienes [HTDELEC Coque pour Samsung Galaxy A20s Violet Housse en Cuir Premium Flip Case Portefeuille Etui avec Stand Support et Carte Slot Samsung Galaxy A20s T-Violet ](https://www.amazon.fr/dp/B08KZP2RTQ/?tag=tolees0d-21) con un 51.89 % de descuento con precio de oferta de 8.9 EUR (original: 18.5 EUR) en el siguiente enlace!

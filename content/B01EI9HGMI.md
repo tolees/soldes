@@ -10,8 +10,11 @@ author: ring
 slug: B01EI9HGMI
 description:
 actualPrice: 62.98 EUR
+currency: EUR
+price: 62.98
 comparePrice: 120.0 EUR
 inStock: true
+prodname: adidas Gazelle  Sneakers basses mixte adulte  Bleu  Collegiate Navy/White/Gold Met   43 1/3 EU
 ---
 
 Ahora mismo tienes [adidas Gazelle  Sneakers basses mixte adulte  Bleu  Collegiate Navy/White/Gold Met   43 1/3 EU](https://www.amazon.fr/dp/B01EI9HGMI/?tag=tolees0d-21) a 62.98 EUR (original: 120.0 EUR) (47.52 %  de descuento) en el siguiente enlace!

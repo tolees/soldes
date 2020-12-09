@@ -10,8 +10,11 @@ author: ring
 slug: B07ZPLNXV9
 description:
 actualPrice: 59.9 EUR
+currency: EUR
+price: 59.9
 comparePrice: 84.99 EUR
 inStock: true
+prodname: Disney La Reine des Neiges 2 - Poupee Princesse Disney Elsa 30 cm et Son Cheval Nokk interactif 23cm
 ---
 
 Ahora mismo tienes [Disney La Reine des Neiges 2 - Poupee Princesse Disney Elsa 30 cm et Son Cheval Nokk interactif 23cm](https://www.amazon.fr/dp/B07ZPLNXV9/?tag=tolees0d-21) a 59.9 EUR (original: 84.99 EUR) (29.52 %  de descuento) en el siguiente enlace!

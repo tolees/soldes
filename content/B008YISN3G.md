@@ -10,8 +10,11 @@ author: ring
 slug: B008YISN3G
 description:
 actualPrice: 10.27 EUR
+currency: EUR
+price: 10.27
 comparePrice: 15.0 EUR
 inStock: true
+prodname: Peter Pan
 ---
 
 Ahora mismo tienes [Peter Pan](https://www.amazon.fr/dp/B008YISN3G/?tag=tolees0d-21) a 10.27 EUR (original: 15.0 EUR) (31.53 %  de descuento) en el siguiente enlace!

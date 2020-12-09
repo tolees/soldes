@@ -10,8 +10,11 @@ author: ring
 slug: B07FP2KPWV
 description:
 actualPrice: 20.7 EUR
+currency: EUR
+price: 20.7
 comparePrice: 34.99 EUR
 inStock: true
+prodname: LEGO® Technic L hélicoptère de secours Jeu de construction  8 Ans et Plus  325 Pièces 42092
 ---
 
 Tienes [LEGO® Technic L hélicoptère de secours Jeu de construction  8 Ans et Plus  325 Pièces 42092](https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21) con un 40.84 % de descuento con precio de oferta de 20.7 EUR (original: 34.99 EUR) en el siguiente enlace!

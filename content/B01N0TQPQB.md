@@ -10,8 +10,11 @@ author: ring
 slug: B01N0TQPQB
 description:
 actualPrice: 49.9 EUR
+currency: EUR
+price: 49.9
 comparePrice: 96.99 EUR
 inStock: true
+prodname: Kingston A400 SSD SA400S37/480G - SSD Interne 2.5" SATA 480GB
 ---
 
 Tienes [Kingston A400 SSD SA400S37/480G - SSD Interne 2.5" SATA 480GB](https://www.amazon.fr/dp/B01N0TQPQB/?tag=tolees0d-21) con un 48.55 % de descuento con precio de oferta de 49.9 EUR (original: 96.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01JTLBJFU
 description:
 actualPrice: 46.82 EUR
+currency: EUR
+price: 46.82
 comparePrice: 99.95 EUR
 inStock: true
+prodname: uvex Downhill 2000 FM lunettes de ski Unisex-Adult  Black Mat  one size
 ---
 
 Ahora mismo tienes [uvex Downhill 2000 FM lunettes de ski Unisex-Adult  Black Mat  one size](https://www.amazon.fr/dp/B01JTLBJFU/?tag=tolees0d-21) a 46.82 EUR (original: 99.95 EUR) (53.16 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07V6M6LCG
 description:
 actualPrice: 12.5 EUR
+currency: EUR
+price: 12.5
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Kaporal - T-Shirt à Manches Courtes  col v  Coupe ajustée - Rap - Femme - L - Rouge
 ---
 
 Ahora mismo tienes [Kaporal - T-Shirt à Manches Courtes  col v  Coupe ajustée - Rap - Femme - L - Rouge](https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21) a 12.5 EUR (original: 25.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

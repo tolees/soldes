@@ -10,8 +10,11 @@ author: ring
 slug: B07YBWR2DM
 description:
 actualPrice: 14.49 EUR
+currency: EUR
+price: 14.49
 comparePrice: 21.95 EUR
 inStock: true
+prodname: Carte Noire Café Ristretto - 96 capsules  6 packs de 16  compatibles Dolce Gusto
 ---
 
 Está [Carte Noire Café Ristretto - 96 capsules  6 packs de 16  compatibles Dolce Gusto](https://www.amazon.fr/dp/B07YBWR2DM/?tag=tolees0d-21) con 33.99 de descuento por 14.49 EUR (original: 21.95 EUR) en el siguiente enlace!

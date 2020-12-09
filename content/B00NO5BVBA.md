@@ -10,8 +10,11 @@ author: ring
 slug: B00NO5BVBA
 description:
 actualPrice: 8.01 EUR
+currency: EUR
+price: 8.01
 comparePrice: 15.3 EUR
 inStock: true
+prodname: Home for The Holidays [Blu-Ray]
 ---
 
 Tienes [Home for The Holidays [Blu-Ray]](https://www.amazon.fr/dp/B00NO5BVBA/?tag=tolees0d-21) con un 47.65 % de descuento con precio de oferta de 8.01 EUR (original: 15.3 EUR) en el siguiente enlace!

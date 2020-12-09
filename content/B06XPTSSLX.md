@@ -10,8 +10,11 @@ author: ring
 slug: B06XPTSSLX
 description:
 actualPrice: 6.83 EUR
+currency: EUR
+price: 6.83
 comparePrice: 10.0 EUR
 inStock: true
+prodname: Les Monstres Invisibles
 ---
 
 Tienes [Les Monstres Invisibles](https://www.amazon.fr/dp/B06XPTSSLX/?tag=tolees0d-21) con un 31.70 % de descuento con precio de oferta de 6.83 EUR (original: 10.0 EUR) en el siguiente enlace!

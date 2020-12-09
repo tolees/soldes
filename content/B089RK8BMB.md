@@ -10,8 +10,11 @@ author: ring
 slug: B089RK8BMB
 description:
 actualPrice: 9.99 EUR
+currency: EUR
+price: 9.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: Tondeuse Cheveux Hommes Professionnelle Kit  Precision Tondeuse Barbe Electrique Sans Fil Multi Fonction  Rechargeable
 ---
 
 Tienes [Tondeuse Cheveux Hommes Professionnelle Kit  Precision Tondeuse Barbe Electrique Sans Fil Multi Fonction  Rechargeable](https://www.amazon.fr/dp/B089RK8BMB/?tag=tolees0d-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

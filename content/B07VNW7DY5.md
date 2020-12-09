@@ -10,8 +10,11 @@ author: ring
 slug: B07VNW7DY5
 description:
 actualPrice: 89.95 EUR
+currency: EUR
+price: 89.95
 comparePrice: 161.74 EUR
 inStock: true
+prodname: Tommy Hilfiger Cory Funnel Packable Windbreaker Blouson  Vert  Sea Mist Mint Mah   40  Taille Fabricant: Large  Femme
 ---
 
 Tienes [Tommy Hilfiger Cory Funnel Packable Windbreaker Blouson  Vert  Sea Mist Mint Mah   40  Taille Fabricant: Large  Femme](https://www.amazon.fr/dp/B07VNW7DY5/?tag=tolees0d-21) con un 44.39 % de descuento con precio de oferta de 89.95 EUR (original: 161.74 EUR) en el siguiente enlace!

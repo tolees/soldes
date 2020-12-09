@@ -10,8 +10,11 @@ author: ring
 slug: B07PKL4B9N
 description:
 actualPrice: 41.99 EUR
+currency: EUR
+price: 41.99
 comparePrice: 69.0 EUR
 inStock: true
+prodname: Electrostimulateur Tens Anti Douleur Electrostimulateur Musculaire 12 Programmes de Massage 20 Niveaux d intensité
 ---
 
 Tienes [Electrostimulateur Tens Anti Douleur Electrostimulateur Musculaire 12 Programmes de Massage 20 Niveaux d intensité](https://www.amazon.fr/dp/B07PKL4B9N/?tag=tolees0d-21) con un 39.14 % de descuento con precio de oferta de 41.99 EUR (original: 69.0 EUR) en el siguiente enlace!

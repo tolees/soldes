@@ -10,8 +10,11 @@ author: ring
 slug: B07SCFYXP1
 description:
 actualPrice: 49.95 EUR
+currency: EUR
+price: 49.95
 comparePrice: 99.0 EUR
 inStock: true
+prodname: Ice-Watch - Ice Duo Chic Aqua Coral - Montre Verte pour Femme avec Bracelet en Silicone - 016981  Small 
 ---
 
 Está [Ice-Watch - Ice Duo Chic Aqua Coral - Montre Verte pour Femme avec Bracelet en Silicone - 016981  Small ](https://www.amazon.fr/dp/B07SCFYXP1/?tag=tolees0d-21) con 49.55 de descuento por 49.95 EUR (original: 99.0 EUR) en el siguiente enlace!

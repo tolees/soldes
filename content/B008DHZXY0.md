@@ -10,8 +10,11 @@ author: ring
 slug: B008DHZXY0
 description:
 actualPrice: 15.2 EUR
+currency: EUR
+price: 15.2
 comparePrice: 21.0 EUR
 inStock: true
+prodname: Stanley 1-93-981 Organiseur 39 Compartiments - Ossature En Polypropylène - Superposition Ou Fixation Murale possibles - 8 Étages - 33 6 X 16 X 44 5 cm
 ---
 
 Ahora mismo tienes [Stanley 1-93-981 Organiseur 39 Compartiments - Ossature En Polypropylène - Superposition Ou Fixation Murale possibles - 8 Étages - 33 6 X 16 X 44 5 cm](https://www.amazon.fr/dp/B008DHZXY0/?tag=tolees0d-21) a 15.2 EUR (original: 21.0 EUR) (27.62 %  de descuento) en el siguiente enlace!

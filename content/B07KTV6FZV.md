@@ -10,8 +10,11 @@ author: ring
 slug: B07KTV6FZV
 description:
 actualPrice: 50.12 EUR
+currency: EUR
+price: 50.12
 comparePrice: 69.08 EUR
 inStock: true
+prodname: LEGO®-DC Comics Super Heroes™ Batmobile™  la poursuite du Joker™ Jouet DC Comics Enfant 7 Ans et Plus  342 Pièces 76119
 ---
 
 Está [LEGO®-DC Comics Super Heroes™ Batmobile™  la poursuite du Joker™ Jouet DC Comics Enfant 7 Ans et Plus  342 Pièces 76119](https://www.amazon.fr/dp/B07KTV6FZV/?tag=tolees0d-21) con 27.45 de descuento por 50.12 EUR (original: 69.08 EUR) en el siguiente enlace!

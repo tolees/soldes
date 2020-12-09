@@ -10,8 +10,11 @@ author: ring
 slug: B071GDJG2B
 description:
 actualPrice: 98.02 EUR
+currency: EUR
+price: 98.02
 comparePrice: 199.0 EUR
 inStock: true
+prodname: KERBHOLZ Montre en Bois – Collection Masterpieces Franz Chronomètre pour Homme Analogique à Quartz  Boîtier en Bois  Bracelet en Cuir Ø 46mm
 ---
 
 Está [KERBHOLZ Montre en Bois – Collection Masterpieces Franz Chronomètre pour Homme Analogique à Quartz  Boîtier en Bois  Bracelet en Cuir Ø 46mm](https://www.amazon.fr/dp/B071GDJG2B/?tag=tolees0d-21) con 50.74 de descuento por 98.02 EUR (original: 199.0 EUR) en el siguiente enlace!

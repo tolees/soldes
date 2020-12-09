@@ -10,8 +10,11 @@ author: ring
 slug: B07GLLF2Z7
 description:
 actualPrice: 138.66 EUR
+currency: EUR
+price: 138.66
 comparePrice: 219.95 EUR
 inStock: true
+prodname: CYBEX Gold Siège Auto Solution S-Fix  Adapté aux Voitures Avec ou Sans Isofix  Groupes 2/3  15-36 kg   De 3 Ans à 12 Ans Environ  Urban Black
 ---
 
 Ahora mismo tienes [CYBEX Gold Siège Auto Solution S-Fix  Adapté aux Voitures Avec ou Sans Isofix  Groupes 2/3  15-36 kg   De 3 Ans à 12 Ans Environ  Urban Black](https://www.amazon.fr/dp/B07GLLF2Z7/?tag=tolees0d-21) a 138.66 EUR (original: 219.95 EUR) (36.96 %  de descuento) en el siguiente enlace!

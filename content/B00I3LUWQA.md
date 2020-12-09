@@ -10,8 +10,11 @@ author: ring
 slug: B00I3LUWQA
 description:
 actualPrice: 18.88 EUR
+currency: EUR
+price: 18.88
 comparePrice: 30.0 EUR
 inStock: true
+prodname: Sony MDR-ZX310B Casque Pliable - Noir
 ---
 
 Tienes [Sony MDR-ZX310B Casque Pliable - Noir](https://www.amazon.fr/dp/B00I3LUWQA/?tag=tolees0d-21) con un 37.07 % de descuento con precio de oferta de 18.88 EUR (original: 30.0 EUR) en el siguiente enlace!

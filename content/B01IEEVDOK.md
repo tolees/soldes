@@ -10,8 +10,11 @@ author: ring
 slug: B01IEEVDOK
 description:
 actualPrice: 329.0 EUR
+currency: EUR
+price: 329.0
 comparePrice: 649.0 EUR
 inStock: true
+prodname: iRobot Roomba 960  aspirateur robot avec forte puissance d aspiration  2 brosses anti-emmêlement  idéal pour animaux  capteurs de poussière  parfait sur tapis et sols  connecté  programmable via app
 ---
 
 Ahora mismo tienes [iRobot Roomba 960  aspirateur robot avec forte puissance d aspiration  2 brosses anti-emmêlement  idéal pour animaux  capteurs de poussière  parfait sur tapis et sols  connecté  programmable via app](https://www.amazon.fr/dp/B01IEEVDOK/?tag=tolees0d-21) a 329.0 EUR (original: 649.0 EUR) (49.31 %  de descuento) en el siguiente enlace!

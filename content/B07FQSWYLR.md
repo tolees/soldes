@@ -10,8 +10,11 @@ author: ring
 slug: B07FQSWYLR
 description:
 actualPrice: 57.36 EUR
+currency: EUR
+price: 57.36
 comparePrice: 109.0 EUR
 inStock: true
+prodname: Christian Lacroix Femme Analogique Quartz Montre avec Bracelet en Cuir CLWE56
 ---
 
 Tienes [Christian Lacroix Femme Analogique Quartz Montre avec Bracelet en Cuir CLWE56](https://www.amazon.fr/dp/B07FQSWYLR/?tag=tolees0d-21) con un 47.38 % de descuento con precio de oferta de 57.36 EUR (original: 109.0 EUR) en el siguiente enlace!

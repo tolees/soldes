@@ -10,8 +10,11 @@ author: ring
 slug: B07JMYSX4T
 description:
 actualPrice: 94.87 EUR
+currency: EUR
+price: 94.87
 comparePrice: 212.96 EUR
 inStock: true
+prodname: Bulova Montres Bracelet 97B172
 ---
 
 Ahora mismo tienes [Bulova Montres Bracelet 97B172](https://www.amazon.fr/dp/B07JMYSX4T/?tag=tolees0d-21) a 94.87 EUR (original: 212.96 EUR) (55.45 %  de descuento) en el siguiente enlace!

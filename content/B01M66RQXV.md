@@ -10,8 +10,11 @@ author: ring
 slug: B01M66RQXV
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 64.99 EUR
 inStock: true
+prodname: LIFX  E27  Ampoule LED connectée Wi-Fi  Ajustable  Multicouleur  Variable  Pas de Hub requis  Fonctionne avec Alexa  Apple HomeKit et Google Assistant [Classe énergétique A+]
 ---
 
 Está [LIFX  E27  Ampoule LED connectée Wi-Fi  Ajustable  Multicouleur  Variable  Pas de Hub requis  Fonctionne avec Alexa  Apple HomeKit et Google Assistant [Classe énergétique A+]](https://www.amazon.fr/dp/B01M66RQXV/?tag=tolees0d-21) con 38.47 de descuento por 39.99 EUR (original: 64.99 EUR) en el siguiente enlace!

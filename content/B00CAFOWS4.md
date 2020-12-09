@@ -10,8 +10,11 @@ author: ring
 slug: B00CAFOWS4
 description:
 actualPrice: 43.6 EUR
+currency: EUR
+price: 43.6
 comparePrice: 105.0 EUR
 inStock: true
+prodname: Aigle - Miss Juliette - Botte de pluie - Femme - Bleu  Marine/Rouge  - 40 EU  6.5 UK 
 ---
 
 Está [Aigle - Miss Juliette - Botte de pluie - Femme - Bleu  Marine/Rouge  - 40 EU  6.5 UK ](https://www.amazon.fr/dp/B00CAFOWS4/?tag=tolees0d-21) con 58.48 de descuento por 43.6 EUR (original: 105.0 EUR) en el siguiente enlace!

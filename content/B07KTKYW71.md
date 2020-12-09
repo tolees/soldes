@@ -10,8 +10,11 @@ author: ring
 slug: B07KTKYW71
 description:
 actualPrice: 192.16 EUR
+currency: EUR
+price: 192.16
 comparePrice: 269.99 EUR
 inStock: true
+prodname: Cressi Homme Apnea Complete 7 mm Freediving/Spearfishing Wetsuits Premium Soft Neoprene  Camouflage  L/4
 ---
 
 Ahora mismo tienes [Cressi Homme Apnea Complete 7 mm Freediving/Spearfishing Wetsuits Premium Soft Neoprene  Camouflage  L/4](https://www.amazon.fr/dp/B07KTKYW71/?tag=tolees0d-21) a 192.16 EUR (original: 269.99 EUR) (28.83 %  de descuento) en el siguiente enlace!

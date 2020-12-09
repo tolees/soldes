@@ -10,8 +10,11 @@ author: ring
 slug: B005NJOF2C
 description:
 actualPrice: 45.18 EUR
+currency: EUR
+price: 45.18
 comparePrice: 112.0 EUR
 inStock: true
+prodname: Waterman Expert stylo bille | noir mat avec attributs chromés | pointe moyenne | encre bleue | coffret cadeau
 ---
 
 Tienes [Waterman Expert stylo bille | noir mat avec attributs chromés | pointe moyenne | encre bleue | coffret cadeau](https://www.amazon.fr/dp/B005NJOF2C/?tag=tolees0d-21) con un 59.66 % de descuento con precio de oferta de 45.18 EUR (original: 112.0 EUR) en el siguiente enlace!

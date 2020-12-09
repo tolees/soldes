@@ -10,8 +10,11 @@ author: ring
 slug: B00X9SQC2U
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 79.99 EUR
 inStock: true
+prodname: BaByliss Lisseur I-Pro 230 Steam avec technologie Brillance pour un lissage ultime
 ---
 
 Tienes [BaByliss Lisseur I-Pro 230 Steam avec technologie Brillance pour un lissage ultime](https://www.amazon.fr/dp/B00X9SQC2U/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

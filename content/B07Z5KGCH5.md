@@ -10,8 +10,11 @@ author: ring
 slug: B07Z5KGCH5
 description:
 actualPrice: 94.99 EUR
+currency: EUR
+price: 94.99
 comparePrice: 139.9 EUR
 inStock: true
+prodname: Devolo Magic 2 LAN Triple : Starter Kit CPL  3 ports Ethernet  idéal pour TV connectée  PC et console de jeux
 ---
 
 Está [Devolo Magic 2 LAN Triple : Starter Kit CPL  3 ports Ethernet  idéal pour TV connectée  PC et console de jeux](https://www.amazon.fr/dp/B07Z5KGCH5/?tag=tolees0d-21) con 32.10 de descuento por 94.99 EUR (original: 139.9 EUR) en el siguiente enlace!

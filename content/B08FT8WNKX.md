@@ -10,8 +10,11 @@ author: ring
 slug: B08FT8WNKX
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Robinet de cuisine à tirette  3 Mode Single Level Stainless Steel Kitchen Sink Faucets with Pull Down Sprayer
 ---
 
 Está [Robinet de cuisine à tirette  3 Mode Single Level Stainless Steel Kitchen Sink Faucets with Pull Down Sprayer](https://www.amazon.fr/dp/B08FT8WNKX/?tag=tolees0d-21) con 66.12 de descuento por 19.99 EUR (original: 59.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00H2IMCO0
 description:
 actualPrice: 7.42 EUR
+currency: EUR
+price: 7.42
 comparePrice: 30.08 EUR
 inStock: true
+prodname: Glee-L intégrale de la Saison 4
 ---
 
 Está [Glee-L intégrale de la Saison 4](https://www.amazon.fr/dp/B00H2IMCO0/?tag=tolees0d-21) con 75.33 de descuento por 7.42 EUR (original: 30.08 EUR) en el siguiente enlace!

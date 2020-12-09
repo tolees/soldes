@@ -10,8 +10,11 @@ author: ring
 slug: B06XC7JTM3
 description:
 actualPrice: 24.08 EUR
+currency: EUR
+price: 24.08
 comparePrice: 39.95 EUR
 inStock: true
+prodname: G-STAR RAW Classic Trunk CLR 3 Pack Short  Multicolore  DK Flame/Deep Bordeaux/BL 8527   XS  Lot de 3  Homme
 ---
 
 Ahora mismo tienes [G-STAR RAW Classic Trunk CLR 3 Pack Short  Multicolore  DK Flame/Deep Bordeaux/BL 8527   XS  Lot de 3  Homme](https://www.amazon.fr/dp/B06XC7JTM3/?tag=tolees0d-21) a 24.08 EUR (original: 39.95 EUR) (39.72 %  de descuento) en el siguiente enlace!

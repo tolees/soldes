@@ -10,8 +10,11 @@ author: ring
 slug: B08MCHMNLQ
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Orzly Duocharger - Station d accueil Compatible avec Les Manettes pour Xbox Series X | S  Google Stadia  Playstation 5 et Nintendo Switch - USB-C Station de Chargement Édition Stealth Black [Noir]
 ---
 
 Tienes [Orzly Duocharger - Station d accueil Compatible avec Les Manettes pour Xbox Series X | S  Google Stadia  Playstation 5 et Nintendo Switch - USB-C Station de Chargement Édition Stealth Black [Noir]](https://www.amazon.fr/dp/B08MCHMNLQ/?tag=tolees0d-21) con un 43.35 % de descuento con precio de oferta de 16.99 EUR (original: 29.99 EUR) en el siguiente enlace!

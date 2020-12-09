@@ -10,8 +10,11 @@ author: ring
 slug: B07PZXBPYT
 description:
 actualPrice: 8.2 EUR
+currency: EUR
+price: 8.2
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Lansay- Toy Story 4-Woody Personnage Parlant Figurine  64613
 ---
 
 Ahora mismo tienes [Lansay- Toy Story 4-Woody Personnage Parlant Figurine  64613](https://www.amazon.fr/dp/B07PZXBPYT/?tag=tolees0d-21) a 8.2 EUR (original: 39.99 EUR) (79.49 %  de descuento) en el siguiente enlace!

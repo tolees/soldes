@@ -10,8 +10,11 @@ author: ring
 slug: B07P3SPZCV
 description:
 actualPrice: 19.9 EUR
+currency: EUR
+price: 19.9
 comparePrice: 29.95 EUR
 inStock: true
+prodname: Subliminal Mode - Chemise Homme Bicolore uni Manches Longues Coupe Slim Business RN44  -  L  -  Rose Fushia
 ---
 
 Tienes [Subliminal Mode - Chemise Homme Bicolore uni Manches Longues Coupe Slim Business RN44  -  L  -  Rose Fushia](https://www.amazon.fr/dp/B07P3SPZCV/?tag=tolees0d-21) con un 33.56 % de descuento con precio de oferta de 19.9 EUR (original: 29.95 EUR) en el siguiente enlace!

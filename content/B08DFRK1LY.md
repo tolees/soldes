@@ -10,8 +10,11 @@ author: ring
 slug: B08DFRK1LY
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 23.58 EUR
 inStock: true
+prodname: Ceintures de Sudation  Ceinture De Sudation Homme et Femme  Ceinture Abdominale Serre Taille Corset Sculptant Cincher réglable Belt Body Shaper Gaine Amincissante Ventre Plat
 ---
 
 Está [Ceintures de Sudation  Ceinture De Sudation Homme et Femme  Ceinture Abdominale Serre Taille Corset Sculptant Cincher réglable Belt Body Shaper Gaine Amincissante Ventre Plat](https://www.amazon.fr/dp/B08DFRK1LY/?tag=tolees0d-21) con 36.43 de descuento por 14.99 EUR (original: 23.58 EUR) en el siguiente enlace!

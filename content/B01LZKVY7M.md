@@ -10,8 +10,11 @@ author: ring
 slug: B01LZKVY7M
 description:
 actualPrice: 1.53 EUR
+currency: EUR
+price: 1.53
 comparePrice: 2.26 EUR
 inStock: true
+prodname: Knorr Assaisonnement en Poudre Secret D Arômes Plein Sud Tube 60g
 ---
 
 Tienes [Knorr Assaisonnement en Poudre Secret D Arômes Plein Sud Tube 60g](https://www.amazon.fr/dp/B01LZKVY7M/?tag=tolees0d-21) con un 32.30 % de descuento con precio de oferta de 1.53 EUR (original: 2.26 EUR) en el siguiente enlace!

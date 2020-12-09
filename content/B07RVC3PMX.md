@@ -10,8 +10,11 @@ author: ring
 slug: B07RVC3PMX
 description:
 actualPrice: 31.99 EUR
+currency: EUR
+price: 31.99
 comparePrice: 64.99 EUR
 inStock: true
+prodname: Baby Alive - Adore manger - Poupee cheveux blonds
 ---
 
 Ahora mismo tienes [Baby Alive - Adore manger - Poupee cheveux blonds](https://www.amazon.fr/dp/B07RVC3PMX/?tag=tolees0d-21) a 31.99 EUR (original: 64.99 EUR) (50.78 %  de descuento) en el siguiente enlace!

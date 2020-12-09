@@ -10,8 +10,11 @@ author: ring
 slug: B003VKTO2Q
 description:
 actualPrice: 7.0 EUR
+currency: EUR
+price: 7.0
 comparePrice: 10.0 EUR
 inStock: true
+prodname: Barbie-La Magie de la Mode
 ---
 
 Está [Barbie-La Magie de la Mode](https://www.amazon.fr/dp/B003VKTO2Q/?tag=tolees0d-21) con 30.00 de descuento por 7.0 EUR (original: 10.0 EUR) en el siguiente enlace!

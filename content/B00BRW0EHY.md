@@ -10,8 +10,11 @@ author: ring
 slug: B00BRW0EHY
 description:
 actualPrice: 79.0 EUR
+currency: EUR
+price: 79.0
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Jacob Delafon E72090-CP FAIRFAX Mitigeur de lavabo avec vidage en Métal  Chromé
 ---
 
 Ahora mismo tienes [Jacob Delafon E72090-CP FAIRFAX Mitigeur de lavabo avec vidage en Métal  Chromé](https://www.amazon.fr/dp/B00BRW0EHY/?tag=tolees0d-21) a 79.0 EUR (original: 299.0 EUR) (73.58 %  de descuento) en el siguiente enlace!

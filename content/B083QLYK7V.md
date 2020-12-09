@@ -10,8 +10,11 @@ author: ring
 slug: B083QLYK7V
 description:
 actualPrice: 46.42 EUR
+currency: EUR
+price: 46.42
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Sécateur sans fil Bosch - EasyPrune  3 6 V  Capacité de coupe jusqu’à 25 mm  Batterie 3 5 h 
 ---
 
 Ahora mismo tienes [Sécateur sans fil Bosch - EasyPrune  3 6 V  Capacité de coupe jusqu’à 25 mm  Batterie 3 5 h ](https://www.amazon.fr/dp/B083QLYK7V/?tag=tolees0d-21) a 46.42 EUR (original: 89.99 EUR) (48.42 %  de descuento) en el siguiente enlace!

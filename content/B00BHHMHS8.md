@@ -10,8 +10,11 @@ author: ring
 slug: B00BHHMHS8
 description:
 actualPrice: 18.89 EUR
+currency: EUR
+price: 18.89
 comparePrice: 48.0 EUR
 inStock: true
+prodname: Elizabeth Arden – 5th Avenue NYC – Eau de Parfum Femme Vaporisateur – Senteur Florale & Fruitée
 ---
 
 Ahora mismo tienes [Elizabeth Arden – 5th Avenue NYC – Eau de Parfum Femme Vaporisateur – Senteur Florale & Fruitée](https://www.amazon.fr/dp/B00BHHMHS8/?tag=tolees0d-21) a 18.89 EUR (original: 48.0 EUR) (60.65 %  de descuento) en el siguiente enlace!

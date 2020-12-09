@@ -10,8 +10,11 @@ author: ring
 slug: B01DSOO0B4
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 119.99 EUR
 inStock: true
+prodname: Rowenta Compact Power Cyclonic Aspirateur Sans Sac Performant Compact Léger Maniable Ergonomique Capacité 1 5L RO3731EA
 ---
 
 Está [Rowenta Compact Power Cyclonic Aspirateur Sans Sac Performant Compact Léger Maniable Ergonomique Capacité 1 5L RO3731EA](https://www.amazon.fr/dp/B01DSOO0B4/?tag=tolees0d-21) con 41.67 de descuento por 69.99 EUR (original: 119.99 EUR) en el siguiente enlace!

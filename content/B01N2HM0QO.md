@@ -10,8 +10,11 @@ author: ring
 slug: B01N2HM0QO
 description:
 actualPrice: 1.88 EUR
+currency: EUR
+price: 1.88
 comparePrice: 3.39 EUR
 inStock: true
+prodname: Air Wick Desodorisant Maison Bougie Parfumée Huiles Essentielles Anti-Tabac
 ---
 
 Tienes [Air Wick Desodorisant Maison Bougie Parfumée Huiles Essentielles Anti-Tabac](https://www.amazon.fr/dp/B01N2HM0QO/?tag=tolees0d-21) con un 44.54 % de descuento con precio de oferta de 1.88 EUR (original: 3.39 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08C6LZCSV
 description:
 actualPrice: 22.49 EUR
+currency: EUR
+price: 22.49
 comparePrice: 45.14 EUR
 inStock: true
+prodname: Coffret Godzilla : Roi des Monstres + Kong : Skull Island + Rampage-Hors de contrôle + en eaux Troubles + Pacific Rim [Blu-Ray]
 ---
 
 Ahora mismo tienes [Coffret Godzilla : Roi des Monstres + Kong : Skull Island + Rampage-Hors de contrôle + en eaux Troubles + Pacific Rim [Blu-Ray]](https://www.amazon.fr/dp/B08C6LZCSV/?tag=tolees0d-21) a 22.49 EUR (original: 45.14 EUR) (50.18 %  de descuento) en el siguiente enlace!

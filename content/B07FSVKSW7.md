@@ -10,8 +10,11 @@ author: ring
 slug: B07FSVKSW7
 description:
 actualPrice: 46.04 EUR
+currency: EUR
+price: 46.04
 comparePrice: 115.0 EUR
 inStock: true
+prodname: Rockport Madson Plain Toe  Derbys Homme  Marron  Cognac 003   42 EU
 ---
 
 Ahora mismo tienes [Rockport Madson Plain Toe  Derbys Homme  Marron  Cognac 003   42 EU](https://www.amazon.fr/dp/B07FSVKSW7/?tag=tolees0d-21) a 46.04 EUR (original: 115.0 EUR) (59.97 %  de descuento) en el siguiente enlace!

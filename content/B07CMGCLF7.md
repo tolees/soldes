@@ -10,8 +10,11 @@ author: ring
 slug: B07CMGCLF7
 description:
 actualPrice: 27.94 EUR
+currency: EUR
+price: 27.94
 comparePrice: 42.99 EUR
 inStock: true
+prodname: Nerf Zombie Ripchain et Flechettes Nerf Zombie Officielles
 ---
 
 Está [Nerf Zombie Ripchain et Flechettes Nerf Zombie Officielles](https://www.amazon.fr/dp/B07CMGCLF7/?tag=tolees0d-21) con 35.01 de descuento por 27.94 EUR (original: 42.99 EUR) en el siguiente enlace!

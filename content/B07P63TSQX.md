@@ -10,8 +10,11 @@ author: ring
 slug: B07P63TSQX
 description:
 actualPrice: 30.59 EUR
+currency: EUR
+price: 30.59
 comparePrice: 51.99 EUR
 inStock: true
+prodname: BAITITON 2 5 Pouces SATA III Disque Flash SSD 240 Go Interne Solid State Drive 240GB
 ---
 
 Tienes [BAITITON 2 5 Pouces SATA III Disque Flash SSD 240 Go Interne Solid State Drive 240GB](https://www.amazon.fr/dp/B07P63TSQX/?tag=tolees0d-21) con un 41.16 % de descuento con precio de oferta de 30.59 EUR (original: 51.99 EUR) en el siguiente enlace!

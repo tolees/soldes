@@ -10,8 +10,11 @@ author: ring
 slug: B07HL5TL3S
 description:
 actualPrice: 201.38 EUR
+currency: EUR
+price: 201.38
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Skagen Homme Écran Tactile Digital Montre Connectée avec Bracelet en Silicone SKT5100
 ---
 
 Tienes [Skagen Homme Écran Tactile Digital Montre Connectée avec Bracelet en Silicone SKT5100](https://www.amazon.fr/dp/B07HL5TL3S/?tag=tolees0d-21) con un 32.65 % de descuento con precio de oferta de 201.38 EUR (original: 299.0 EUR) en el siguiente enlace!

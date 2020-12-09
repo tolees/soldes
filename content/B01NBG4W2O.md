@@ -10,8 +10,11 @@ author: ring
 slug: B01NBG4W2O
 description:
 actualPrice: 531.69 EUR
+currency: EUR
+price: 531.69
 comparePrice: 800.0 EUR
 inStock: true
+prodname: Blue Microphone Ella Planar Magnétique Casque avec Amplificateur Intégré Audiophile
 ---
 
 Está [Blue Microphone Ella Planar Magnétique Casque avec Amplificateur Intégré Audiophile](https://www.amazon.fr/dp/B01NBG4W2O/?tag=tolees0d-21) con 33.54 de descuento por 531.69 EUR (original: 800.0 EUR) en el siguiente enlace!

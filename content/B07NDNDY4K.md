@@ -10,8 +10,11 @@ author: ring
 slug: B07NDNDY4K
 description:
 actualPrice: 93.78 EUR
+currency: EUR
+price: 93.78
 comparePrice: 229.95 EUR
 inStock: true
+prodname: BRAX Golf Tim Pull  Bleu  Dunkelblau 23   Medium Homme
 ---
 
 Ahora mismo tienes [BRAX Golf Tim Pull  Bleu  Dunkelblau 23   Medium Homme](https://www.amazon.fr/dp/B07NDNDY4K/?tag=tolees0d-21) a 93.78 EUR (original: 229.95 EUR) (59.22 %  de descuento) en el siguiente enlace!

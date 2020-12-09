@@ -10,8 +10,11 @@ author: ring
 slug: B077ZCTV7R
 description:
 actualPrice: 56.84 EUR
+currency: EUR
+price: 56.84
 comparePrice: 80.12 EUR
 inStock: true
+prodname: Un Village Francais-L intégrale des Saisons 1 à 7
 ---
 
 Tienes [Un Village Francais-L intégrale des Saisons 1 à 7](https://www.amazon.fr/dp/B077ZCTV7R/?tag=tolees0d-21) con un 29.06 % de descuento con precio de oferta de 56.84 EUR (original: 80.12 EUR) en el siguiente enlace!

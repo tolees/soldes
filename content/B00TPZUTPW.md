@@ -10,8 +10,11 @@ author: ring
 slug: B00TPZUTPW
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 40.13 EUR
 inStock: true
+prodname: Remi sans Famille [Blu-Ray]
 ---
 
 Tienes [Remi sans Famille [Blu-Ray]](https://www.amazon.fr/dp/B00TPZUTPW/?tag=tolees0d-21) con un 25.27 % de descuento con precio de oferta de 29.99 EUR (original: 40.13 EUR) en el siguiente enlace!

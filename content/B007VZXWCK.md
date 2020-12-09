@@ -10,8 +10,11 @@ author: ring
 slug: B007VZXWCK
 description:
 actualPrice: 119.99 EUR
+currency: EUR
+price: 119.99
 comparePrice: 219.99 EUR
 inStock: true
+prodname: FoodSaver Machine Sous Vide automatique  inclus sacs de mise sous vide assortis [FSFSSL3840]
 ---
 
 Tienes [FoodSaver Machine Sous Vide automatique  inclus sacs de mise sous vide assortis [FSFSSL3840]](https://www.amazon.fr/dp/B007VZXWCK/?tag=tolees0d-21) con un 45.46 % de descuento con precio de oferta de 119.99 EUR (original: 219.99 EUR) en el siguiente enlace!

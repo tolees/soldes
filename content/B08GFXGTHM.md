@@ -10,8 +10,11 @@ author: ring
 slug: B08GFXGTHM
 description:
 actualPrice: 25.99 EUR
+currency: EUR
+price: 25.99
 comparePrice: 38.99 EUR
 inStock: true
+prodname: AIMOS Carte De Capture Vidéo HDMI avec Boucle Out  4K 1080P USB 2.0 Vidéo Capture Carte pour Diffusion Enregistrement Vidéo pour N-Switch  PS3/4  Xbox One et Xbox 360
 ---
 
 Tienes [AIMOS Carte De Capture Vidéo HDMI avec Boucle Out  4K 1080P USB 2.0 Vidéo Capture Carte pour Diffusion Enregistrement Vidéo pour N-Switch  PS3/4  Xbox One et Xbox 360](https://www.amazon.fr/dp/B08GFXGTHM/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 25.99 EUR (original: 38.99 EUR) en el siguiente enlace!

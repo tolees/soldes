@@ -10,8 +10,11 @@ author: ring
 slug: B08JYCTJ3S
 description:
 actualPrice: 45.99 EUR
+currency: EUR
+price: 45.99
 comparePrice: 89.99 EUR
 inStock: true
+prodname: Disque Dur Externe  Disque Dur Externe 1to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  1to Rouge 
 ---
 
 Está [Disque Dur Externe  Disque Dur Externe 1to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  1to Rouge ](https://www.amazon.fr/dp/B08JYCTJ3S/?tag=tolees0d-21) con 48.89 de descuento por 45.99 EUR (original: 89.99 EUR) en el siguiente enlace!

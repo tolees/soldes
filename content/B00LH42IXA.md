@@ -10,8 +10,11 @@ author: ring
 slug: B00LH42IXA
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 70.22 EUR
 inStock: true
+prodname: Ma Sorciere Bien Aimee Integrale
 ---
 
 Tienes [Ma Sorciere Bien Aimee Integrale](https://www.amazon.fr/dp/B00LH42IXA/?tag=tolees0d-21) con un 50.17 % de descuento con precio de oferta de 34.99 EUR (original: 70.22 EUR) en el siguiente enlace!

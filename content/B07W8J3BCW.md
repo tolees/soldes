@@ -10,8 +10,11 @@ author: ring
 slug: B07W8J3BCW
 description:
 actualPrice: 165.14 EUR
+currency: EUR
+price: 165.14
 comparePrice: 249.0 EUR
 inStock: true
+prodname: Leitz TruSens Z-2000 HEPA Purificateur d air avec module de surveillance de la qualité de l’air SensorPod pour vous débarrasser des allergies  Contribue à faire circuler un air plus sain dans la maiso
 ---
 
 Está [Leitz TruSens Z-2000 HEPA Purificateur d air avec module de surveillance de la qualité de l’air SensorPod pour vous débarrasser des allergies  Contribue à faire circuler un air plus sain dans la maiso](https://www.amazon.fr/dp/B07W8J3BCW/?tag=tolees0d-21) con 33.68 de descuento por 165.14 EUR (original: 249.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MU3CCPL
 description:
 actualPrice: 6.96 EUR
+currency: EUR
+price: 6.96
 comparePrice: 12.6 EUR
 inStock: true
+prodname: Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC 5
 ---
 
 Ahora mismo tienes [Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC 5](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21) a 6.96 EUR (original: 12.6 EUR) (44.76 %  de descuento) en el siguiente enlace!

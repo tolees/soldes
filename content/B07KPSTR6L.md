@@ -10,8 +10,11 @@ author: ring
 slug: B07KPSTR6L
 description:
 actualPrice: 5.0 EUR
+currency: EUR
+price: 5.0
 comparePrice: 10.13 EUR
 inStock: true
+prodname: Marvel- Pop Bobble: Avengers Endgame: Black Widow Collectible Figure  36665  Multicolore
 ---
 
 Tienes [Marvel- Pop Bobble: Avengers Endgame: Black Widow Collectible Figure  36665  Multicolore](https://www.amazon.fr/dp/B07KPSTR6L/?tag=tolees0d-21) con un 50.64 % de descuento con precio de oferta de 5.0 EUR (original: 10.13 EUR) en el siguiente enlace!

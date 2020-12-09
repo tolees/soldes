@@ -10,8 +10,11 @@ author: ring
 slug: B07C1SJSC7
 description:
 actualPrice: 13.16 EUR
+currency: EUR
+price: 13.16
 comparePrice: 26.75 EUR
 inStock: true
+prodname: Parker Jotter stylo plume | acier inoxydable avec attributs chromés | pointe moyenne | encre bleue | coffret cadeau
 ---
 
 Ahora mismo tienes [Parker Jotter stylo plume | acier inoxydable avec attributs chromés | pointe moyenne | encre bleue | coffret cadeau](https://www.amazon.fr/dp/B07C1SJSC7/?tag=tolees0d-21) a 13.16 EUR (original: 26.75 EUR) (50.80 %  de descuento) en el siguiente enlace!

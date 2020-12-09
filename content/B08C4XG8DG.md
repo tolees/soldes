@@ -10,8 +10,11 @@ author: ring
 slug: B08C4XG8DG
 description:
 actualPrice: 33.99 EUR
+currency: EUR
+price: 33.99
 comparePrice: 46.99 EUR
 inStock: true
+prodname: Manette Sans Fil pour PS4 Manette pour Playstation 4 Gamepad pour PS4/ PS4 Slim/ PS4 Pro Console avec Double Vibration Moteur  Noir
 ---
 
 Está [Manette Sans Fil pour PS4 Manette pour Playstation 4 Gamepad pour PS4/ PS4 Slim/ PS4 Pro Console avec Double Vibration Moteur  Noir](https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21) con 27.67 de descuento por 33.99 EUR (original: 46.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01BYD7QQ2
 description:
 actualPrice: 145.3 EUR
+currency: EUR
+price: 145.3
 comparePrice: 300.0 EUR
 inStock: true
+prodname: Oral-B Genius Brosse À Dents Électrique Par Braun
 ---
 
 Tienes [Oral-B Genius Brosse À Dents Électrique Par Braun](https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21) con un 51.57 % de descuento con precio de oferta de 145.3 EUR (original: 300.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00H0RFYWU
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 139.98 EUR
 inStock: true
+prodname: Teakpeak Technic Voiture  1254pièces 1:14 Voiture de Courses-Voiture a Construire 10 Ans et Plus- Jeux de Construction Voiture - Compatible avec Lego  Statique  avec Luminous 
 ---
 
 Está [Teakpeak Technic Voiture  1254pièces 1:14 Voiture de Courses-Voiture a Construire 10 Ans et Plus- Jeux de Construction Voiture - Compatible avec Lego  Statique  avec Luminous ](https://www.amazon.fr/dp/B00H0RFYWU/?tag=tolees0d-21) con 50.00 de descuento por 69.99 EUR (original: 139.98 EUR) en el siguiente enlace!

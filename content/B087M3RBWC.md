@@ -10,8 +10,11 @@ author: ring
 slug: B087M3RBWC
 description:
 actualPrice: 699.99 EUR
+currency: EUR
+price: 699.99
 comparePrice: 999.99 EUR
 inStock: true
+prodname: HUAWEI MateBook 13 2020 PC Portable  Ecran 2K FullView  Intel Core i5-10210U  8Go de RAM  SSD de 512Go  Windows 10 Home  Clavier Français AZERTY  Space Grey
 ---
 
 Ahora mismo tienes [HUAWEI MateBook 13 2020 PC Portable  Ecran 2K FullView  Intel Core i5-10210U  8Go de RAM  SSD de 512Go  Windows 10 Home  Clavier Français AZERTY  Space Grey](https://www.amazon.fr/dp/B087M3RBWC/?tag=tolees0d-21) a 699.99 EUR (original: 999.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KQH2PJS
 description:
 actualPrice: 38.63 EUR
+currency: EUR
+price: 38.63
 comparePrice: 100.0 EUR
 inStock: true
+prodname: Levi s 711 Skinny Jeans  to The Nine  30W / 32L Femme
 ---
 
 Tienes [Levi s 711 Skinny Jeans  to The Nine  30W / 32L Femme](https://www.amazon.fr/dp/B07KQH2PJS/?tag=tolees0d-21) con un 61.37 % de descuento con precio de oferta de 38.63 EUR (original: 100.0 EUR) en el siguiente enlace!

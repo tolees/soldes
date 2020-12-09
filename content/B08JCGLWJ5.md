@@ -10,8 +10,11 @@ author: ring
 slug: B08JCGLWJ5
 description:
 actualPrice: 18.99 EUR
+currency: EUR
+price: 18.99
 comparePrice: 25.99 EUR
 inStock: true
+prodname: Antenne TV Intérieur Puissante  REDSTORM 2020 La Plus Récente Antenne TV Numérique HD d Intérieur Amplifiée 190+ km pour Les Chaînes Gratuites Locales 4K.
 ---
 
 Está [Antenne TV Intérieur Puissante  REDSTORM 2020 La Plus Récente Antenne TV Numérique HD d Intérieur Amplifiée 190+ km pour Les Chaînes Gratuites Locales 4K.](https://www.amazon.fr/dp/B08JCGLWJ5/?tag=tolees0d-21) con 26.93 de descuento por 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

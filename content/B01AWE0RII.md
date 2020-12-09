@@ -10,8 +10,11 @@ author: ring
 slug: B01AWE0RII
 description:
 actualPrice: 34.12 EUR
+currency: EUR
+price: 34.12
 comparePrice: 52.9 EUR
 inStock: true
+prodname: Pradel Excellence - I7202TI - Valise 12 Pièces Lame de Revêtement Titane
 ---
 
 Ahora mismo tienes [Pradel Excellence - I7202TI - Valise 12 Pièces Lame de Revêtement Titane](https://www.amazon.fr/dp/B01AWE0RII/?tag=tolees0d-21) a 34.12 EUR (original: 52.9 EUR) (35.50 %  de descuento) en el siguiente enlace!

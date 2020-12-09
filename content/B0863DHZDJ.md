@@ -10,8 +10,11 @@ author: ring
 slug: B0863DHZDJ
 description:
 actualPrice: 59.92 EUR
+currency: EUR
+price: 59.92
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Sabrent SSD Interne Rocket Q M.2 2280 NVMe PCIe Haute Performance de 500GB  SB-RKTQ-500 .
 ---
 
 Está [Sabrent SSD Interne Rocket Q M.2 2280 NVMe PCIe Haute Performance de 500GB  SB-RKTQ-500 .](https://www.amazon.fr/dp/B0863DHZDJ/?tag=tolees0d-21) con 45.52 de descuento por 59.92 EUR (original: 109.99 EUR) en el siguiente enlace!

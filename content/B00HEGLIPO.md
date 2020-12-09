@@ -10,8 +10,11 @@ author: ring
 slug: B00HEGLIPO
 description:
 actualPrice: 5.99 EUR
+currency: EUR
+price: 5.99
 comparePrice: 19.99 EUR
 inStock: true
+prodname: INTEX - 0774111 - Matelas Gonflable - Wave Rider - Ride-on
 ---
 
 Está [INTEX - 0774111 - Matelas Gonflable - Wave Rider - Ride-on](https://www.amazon.fr/dp/B00HEGLIPO/?tag=tolees0d-21) con 70.04 de descuento por 5.99 EUR (original: 19.99 EUR) en el siguiente enlace!

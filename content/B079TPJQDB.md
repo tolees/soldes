@@ -10,8 +10,11 @@ author: ring
 slug: B079TPJQDB
 description:
 actualPrice: 20.0 EUR
+currency: EUR
+price: 20.0
 comparePrice: 29.99 EUR
 inStock: true
+prodname: Monopoly Tricheurs - Jeu de societe - Jeu de plateau - Version française
 ---
 
 Está [Monopoly Tricheurs - Jeu de societe - Jeu de plateau - Version française](https://www.amazon.fr/dp/B079TPJQDB/?tag=tolees0d-21) con 33.31 de descuento por 20.0 EUR (original: 29.99 EUR) en el siguiente enlace!

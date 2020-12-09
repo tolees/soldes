@@ -10,8 +10,11 @@ author: ring
 slug: B07BJZGJM1
 description:
 actualPrice: 369.99 EUR
+currency: EUR
+price: 369.99
 comparePrice: 599.0 EUR
 inStock: true
+prodname: Pioneer VSX-933 B  Récepteur AV 7.2 canaux  Amplificateur HiFi 135 W/Kanal  Multiroom  WiFi  Bluetooth  Dolby Surround-Dolby Atmos-DTS:X  Services de Streaming Spotify  Deezer  Noir
 ---
 
 Tienes [Pioneer VSX-933 B  Récepteur AV 7.2 canaux  Amplificateur HiFi 135 W/Kanal  Multiroom  WiFi  Bluetooth  Dolby Surround-Dolby Atmos-DTS:X  Services de Streaming Spotify  Deezer  Noir](https://www.amazon.fr/dp/B07BJZGJM1/?tag=tolees0d-21) con un 38.23 % de descuento con precio de oferta de 369.99 EUR (original: 599.0 EUR) en el siguiente enlace!

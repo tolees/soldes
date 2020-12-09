@@ -10,8 +10,11 @@ author: ring
 slug: B0049PAWYQ
 description:
 actualPrice: 100.11 EUR
+currency: EUR
+price: 100.11
 comparePrice: 179.99 EUR
 inStock: true
+prodname: Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe d arrosage avec Débit de 4 000 L/h  Filtre Intégré  Faible Bruit  Haute Efficacité  Accessoires de Jardin pour Le Circuit d eau  1732-20 
 ---
 
 Ahora mismo tienes [Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe d arrosage avec Débit de 4 000 L/h  Filtre Intégré  Faible Bruit  Haute Efficacité  Accessoires de Jardin pour Le Circuit d eau  1732-20 ](https://www.amazon.fr/dp/B0049PAWYQ/?tag=tolees0d-21) a 100.11 EUR (original: 179.99 EUR) (44.38 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07XQJKBLB
 description:
 actualPrice: 129.99 EUR
+currency: EUR
+price: 129.99
 comparePrice: 229.99 EUR
 inStock: true
+prodname: Huawei Watch GT 2 Montre Connectée  GPS  boitier 42 mm  avec Bracelet Classique Marron
 ---
 
 Está [Huawei Watch GT 2 Montre Connectée  GPS  boitier 42 mm  avec Bracelet Classique Marron](https://www.amazon.fr/dp/B07XQJKBLB/?tag=tolees0d-21) con 43.48 de descuento por 129.99 EUR (original: 229.99 EUR) en el siguiente enlace!

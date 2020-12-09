@@ -10,8 +10,11 @@ author: ring
 slug: B00ULI8JQI
 description:
 actualPrice: 153.0 EUR
+currency: EUR
+price: 153.0
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Samsonite Neopulse - Spinner L Valise  75 cm  94 L  Bleu  Metallic Blue 
 ---
 
 Está [Samsonite Neopulse - Spinner L Valise  75 cm  94 L  Bleu  Metallic Blue ](https://www.amazon.fr/dp/B00ULI8JQI/?tag=tolees0d-21) con 48.83 de descuento por 153.0 EUR (original: 299.0 EUR) en el siguiente enlace!

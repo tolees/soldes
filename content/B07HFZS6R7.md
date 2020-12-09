@@ -10,8 +10,11 @@ author: ring
 slug: B07HFZS6R7
 description:
 actualPrice: 29.0 EUR
+currency: EUR
+price: 29.0
 comparePrice: 75.0 EUR
 inStock: true
+prodname: Collier argent et perles de culture Blanches et Noires"Elégant"
 ---
 
 Ahora mismo tienes [Collier argent et perles de culture Blanches et Noires"Elégant"](https://www.amazon.fr/dp/B07HFZS6R7/?tag=tolees0d-21) a 29.0 EUR (original: 75.0 EUR) (61.33 %  de descuento) en el siguiente enlace!

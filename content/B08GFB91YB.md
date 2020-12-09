@@ -10,8 +10,11 @@ author: ring
 slug: B08GFB91YB
 description:
 actualPrice: 17.99 EUR
+currency: EUR
+price: 17.99
 comparePrice: 27.99 EUR
 inStock: true
+prodname: Upworld Jouets de Bain  Jouets de Pulvérisation d eau 2 en 1 Arroseur Automatique de Baleine à Induction électrique Jouet avec Lumière Clignotante et Musique pour Enfants Tout-Petits Garçons.
 ---
 
 Está [Upworld Jouets de Bain  Jouets de Pulvérisation d eau 2 en 1 Arroseur Automatique de Baleine à Induction électrique Jouet avec Lumière Clignotante et Musique pour Enfants Tout-Petits Garçons.](https://www.amazon.fr/dp/B08GFB91YB/?tag=tolees0d-21) con 35.73 de descuento por 17.99 EUR (original: 27.99 EUR) en el siguiente enlace!

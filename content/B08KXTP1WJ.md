@@ -10,8 +10,11 @@ author: ring
 slug: B08KXTP1WJ
 description:
 actualPrice: 8.99 EUR
+currency: EUR
+price: 8.99
 comparePrice: 11.99 EUR
 inStock: true
+prodname: FLZONE 12 Feuilles Étiquette Cadeau Noël 108 Pièces D étiquettes D étiquettes de Noël Autocollants pour Sacs de Noël Cartes Etiquettes-Cadeaux D enveloppe Décorations de Vacances
 ---
 
 Tienes [FLZONE 12 Feuilles Étiquette Cadeau Noël 108 Pièces D étiquettes D étiquettes de Noël Autocollants pour Sacs de Noël Cartes Etiquettes-Cadeaux D enveloppe Décorations de Vacances](https://www.amazon.fr/dp/B08KXTP1WJ/?tag=tolees0d-21) con un 25.02 % de descuento con precio de oferta de 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!

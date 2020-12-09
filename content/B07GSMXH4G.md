@@ -10,8 +10,11 @@ author: ring
 slug: B07GSMXH4G
 description:
 actualPrice: 399.99 EUR
+currency: EUR
+price: 399.99
 comparePrice: 729.0 EUR
 inStock: true
+prodname: Neato Robotics D6 Aspirateur Robot Intelligent - Compatible avec Alexa - Robot aspirateur avec station de charge  Wi-Fi & App
 ---
 
 Tienes [Neato Robotics D6 Aspirateur Robot Intelligent - Compatible avec Alexa - Robot aspirateur avec station de charge  Wi-Fi & App](https://www.amazon.fr/dp/B07GSMXH4G/?tag=tolees0d-21) con un 45.13 % de descuento con precio de oferta de 399.99 EUR (original: 729.0 EUR) en el siguiente enlace!

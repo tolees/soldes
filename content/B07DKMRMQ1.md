@@ -10,8 +10,11 @@ author: ring
 slug: B07DKMRMQ1
 description:
 actualPrice: 36.1 EUR
+currency: EUR
+price: 36.1
 comparePrice: 69.99 EUR
 inStock: true
+prodname: NHL 19
 ---
 
 Ahora mismo tienes [NHL 19](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21) a 36.1 EUR (original: 69.99 EUR) (48.42 %  de descuento) en el siguiente enlace!

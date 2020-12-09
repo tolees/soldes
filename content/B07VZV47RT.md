@@ -10,8 +10,11 @@ author: ring
 slug: B07VZV47RT
 description:
 actualPrice: 34.5 EUR
+currency: EUR
+price: 34.5
 comparePrice: 110.03 EUR
 inStock: true
+prodname: HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse de couette et 2 taies d oreiller  Coton mélangé  multicolore  King
 ---
 
 Está [HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse de couette et 2 taies d oreiller  Coton mélangé  multicolore  King](https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21) con 68.64 de descuento por 34.5 EUR (original: 110.03 EUR) en el siguiente enlace!

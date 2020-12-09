@@ -10,8 +10,11 @@ author: ring
 slug: B07KM5S1NG
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 69.99 EUR
 inStock: true
+prodname: EZVIZ CTQ3W Caméra Surveillance WiFi Extérieure  Caméra Extérieure IP avec Alarme Sirène et Flash  30m Vision Nocturne  IP66 étanche  Audio Bidirectionnel  Détection de Mouvement Compatible Alexa
 ---
 
 Tienes [EZVIZ CTQ3W Caméra Surveillance WiFi Extérieure  Caméra Extérieure IP avec Alarme Sirène et Flash  30m Vision Nocturne  IP66 étanche  Audio Bidirectionnel  Détection de Mouvement Compatible Alexa](https://www.amazon.fr/dp/B07KM5S1NG/?tag=tolees0d-21) con un 42.86 % de descuento con precio de oferta de 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!

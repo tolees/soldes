@@ -10,8 +10,11 @@ author: ring
 slug: B07VKPSPZW
 description:
 actualPrice: 76.99 EUR
+currency: EUR
+price: 76.99
 comparePrice: 124.9 EUR
 inStock: true
+prodname: MICHELIN Chaines à neige Extrem Grip  Tension Automatique  N°120
 ---
 
 Tienes [MICHELIN Chaines à neige Extrem Grip  Tension Automatique  N°120](https://www.amazon.fr/dp/B07VKPSPZW/?tag=tolees0d-21) con un 38.36 % de descuento con precio de oferta de 76.99 EUR (original: 124.9 EUR) en el siguiente enlace!

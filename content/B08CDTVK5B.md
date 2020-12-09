@@ -10,8 +10,11 @@ author: ring
 slug: B08CDTVK5B
 description:
 actualPrice: 39.99 EUR
+currency: EUR
+price: 39.99
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Projecteur Ciel Etoile  Lampe Projecteur Télécommande Veilleuse Enfant Étoile avec Bluetooth Lecteur Musique Lampe Projection Bébé Minuterie Lampe de Chevet Idéal pour fête Noël Pâques Halloween
 ---
 
 Está [Projecteur Ciel Etoile  Lampe Projecteur Télécommande Veilleuse Enfant Étoile avec Bluetooth Lecteur Musique Lampe Projection Bébé Minuterie Lampe de Chevet Idéal pour fête Noël Pâques Halloween](https://www.amazon.fr/dp/B08CDTVK5B/?tag=tolees0d-21) con 60.01 de descuento por 39.99 EUR (original: 99.99 EUR) en el siguiente enlace!

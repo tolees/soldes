@@ -10,8 +10,11 @@ author: ring
 slug: B07MXXBP6F
 description:
 actualPrice: 53.49 EUR
+currency: EUR
+price: 53.49
 comparePrice: 89.16 EUR
 inStock: true
+prodname: Globe Fusion  Chaussures de Skateboard Hommes  Marron  Black/Brown/Khaki 20411   45 EU
 ---
 
 Ahora mismo tienes [Globe Fusion  Chaussures de Skateboard Hommes  Marron  Black/Brown/Khaki 20411   45 EU](https://www.amazon.fr/dp/B07MXXBP6F/?tag=tolees0d-21) a 53.49 EUR (original: 89.16 EUR) (40.01 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01MG5KKZY
 description:
 actualPrice: 77.03 EUR
+currency: EUR
+price: 77.03
 comparePrice: 129.71 EUR
 inStock: true
+prodname: Casque Bluetooth Plantronics BackBeat FIT – Noir Core-P.
 ---
 
 Está [Casque Bluetooth Plantronics BackBeat FIT – Noir Core-P.](https://www.amazon.fr/dp/B01MG5KKZY/?tag=tolees0d-21) con 40.61 de descuento por 77.03 EUR (original: 129.71 EUR) en el siguiente enlace!

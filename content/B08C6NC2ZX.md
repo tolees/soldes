@@ -10,8 +10,11 @@ author: ring
 slug: B08C6NC2ZX
 description:
 actualPrice: 34.99 EUR
+currency: EUR
+price: 34.99
 comparePrice: 60.19 EUR
 inStock: true
+prodname: La Famille Pierrafeu-L intégrale [Blu-Ray]
 ---
 
 Tienes [La Famille Pierrafeu-L intégrale [Blu-Ray]](https://www.amazon.fr/dp/B08C6NC2ZX/?tag=tolees0d-21) con un 41.87 % de descuento con precio de oferta de 34.99 EUR (original: 60.19 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00OB3XKIQ
 description:
 actualPrice: 83.0 EUR
+currency: EUR
+price: 83.0
 comparePrice: 119.9 EUR
 inStock: true
+prodname: Cuisinart CPK18E Bouilloire Multi-Températures  Température variable  Acier inoxydable brossé  3000 W  1.7L
 ---
 
 Está [Cuisinart CPK18E Bouilloire Multi-Températures  Température variable  Acier inoxydable brossé  3000 W  1.7L](https://www.amazon.fr/dp/B00OB3XKIQ/?tag=tolees0d-21) con 30.78 de descuento por 83.0 EUR (original: 119.9 EUR) en el siguiente enlace!

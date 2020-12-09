@@ -10,8 +10,11 @@ author: ring
 slug: B074MFGQVX
 description:
 actualPrice: 7.2 EUR
+currency: EUR
+price: 7.2
 comparePrice: 18.0 EUR
 inStock: true
+prodname: Havaianas Brasil Logo  Tongs Mixte Enfant  Noir  27/28 EU
 ---
 
 Está [Havaianas Brasil Logo  Tongs Mixte Enfant  Noir  27/28 EU](https://www.amazon.fr/dp/B074MFGQVX/?tag=tolees0d-21) con 60.00 de descuento por 7.2 EUR (original: 18.0 EUR) en el siguiente enlace!

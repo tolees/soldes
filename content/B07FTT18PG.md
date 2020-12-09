@@ -10,8 +10,11 @@ author: ring
 slug: B07FTT18PG
 description:
 actualPrice: 59.5 EUR
+currency: EUR
+price: 59.5
 comparePrice: 109.0 EUR
 inStock: true
+prodname: MBT Modena Slip on M  Sneakers Basses Homme  Bleu  Navy 12y   40.5 EU
 ---
 
 Tienes [MBT Modena Slip on M  Sneakers Basses Homme  Bleu  Navy 12y   40.5 EU](https://www.amazon.fr/dp/B07FTT18PG/?tag=tolees0d-21) con un 45.41 % de descuento con precio de oferta de 59.5 EUR (original: 109.0 EUR) en el siguiente enlace!

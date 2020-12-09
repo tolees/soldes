@@ -10,8 +10,11 @@ author: ring
 slug: B07RQV3CYT
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 59.0 EUR
 inStock: true
+prodname: Braun Oral-B Pro 2 - 2500 - Brosse à Dents Électrique Rechargeable  1 Manche avec Capteur de Pression Visible  1 Brossette  1 Étui de Voyage
 ---
 
 Ahora mismo tienes [Braun Oral-B Pro 2 - 2500 - Brosse à Dents Électrique Rechargeable  1 Manche avec Capteur de Pression Visible  1 Brossette  1 Étui de Voyage](https://www.amazon.fr/dp/B07RQV3CYT/?tag=tolees0d-21) a 26.99 EUR (original: 59.0 EUR) (54.25 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07SZBJZL6
 description:
 actualPrice: 45.0 EUR
+currency: EUR
+price: 45.0
 comparePrice: 90.3 EUR
 inStock: true
+prodname: Friends-L intégrale-Saisons 1 à 10 [Édition 25ème Anniversaire]
 ---
 
 Está [Friends-L intégrale-Saisons 1 à 10 [Édition 25ème Anniversaire]](https://www.amazon.fr/dp/B07SZBJZL6/?tag=tolees0d-21) con 50.17 de descuento por 45.0 EUR (original: 90.3 EUR) en el siguiente enlace!

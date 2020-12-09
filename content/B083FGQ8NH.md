@@ -10,8 +10,11 @@ author: ring
 slug: B083FGQ8NH
 description:
 actualPrice: 230.98 EUR
+currency: EUR
+price: 230.98
 comparePrice: 350.0 EUR
 inStock: true
+prodname: Lacoste BH1966 Veste  Noir  44 Homme
 ---
 
 Tienes [Lacoste BH1966 Veste  Noir  44 Homme](https://www.amazon.fr/dp/B083FGQ8NH/?tag=tolees0d-21) con un 34.01 % de descuento con precio de oferta de 230.98 EUR (original: 350.0 EUR) en el siguiente enlace!

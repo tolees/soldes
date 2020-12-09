@@ -10,8 +10,11 @@ author: ring
 slug: B07MXYZLSP
 description:
 actualPrice: 119.99 EUR
+currency: EUR
+price: 119.99
 comparePrice: 244.0 EUR
 inStock: true
+prodname: Braun Silk-épil Beauty Set 9 9-995 Deluxe Épilateur Électrique 9en1 Sans Fil Wet&Dry - Kit Épilateur  Rasoir  Exfoliation Et Nettoyage Visage Et Corps
 ---
 
 Tienes [Braun Silk-épil Beauty Set 9 9-995 Deluxe Épilateur Électrique 9en1 Sans Fil Wet&Dry - Kit Épilateur  Rasoir  Exfoliation Et Nettoyage Visage Et Corps](https://www.amazon.fr/dp/B07MXYZLSP/?tag=tolees0d-21) con un 50.82 % de descuento con precio de oferta de 119.99 EUR (original: 244.0 EUR) en el siguiente enlace!

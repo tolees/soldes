@@ -10,8 +10,11 @@ author: ring
 slug: B00DVPT34K
 description:
 actualPrice: 8.5 EUR
+currency: EUR
+price: 8.5
 comparePrice: 20.06 EUR
 inStock: true
+prodname: Voyage à Tokyo [Blu-Ray]
 ---
 
 Ahora mismo tienes [Voyage à Tokyo [Blu-Ray]](https://www.amazon.fr/dp/B00DVPT34K/?tag=tolees0d-21) a 8.5 EUR (original: 20.06 EUR) (57.63 %  de descuento) en el siguiente enlace!

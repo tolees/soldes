@@ -10,8 +10,11 @@ author: ring
 slug: B004KHZT2I
 description:
 actualPrice: 9.88 EUR
+currency: EUR
+price: 9.88
 comparePrice: 17.59 EUR
 inStock: true
+prodname: Exacompta - Réf. 50000E - Paquet 50 chemises à fenetre Forever - 22x31cm - Couleurs assorties
 ---
 
 Ahora mismo tienes [Exacompta - Réf. 50000E - Paquet 50 chemises à fenetre Forever - 22x31cm - Couleurs assorties](https://www.amazon.fr/dp/B004KHZT2I/?tag=tolees0d-21) a 9.88 EUR (original: 17.59 EUR) (43.83 %  de descuento) en el siguiente enlace!

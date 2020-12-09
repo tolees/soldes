@@ -10,8 +10,11 @@ author: ring
 slug: B07BNVVWNB
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 80.0 EUR
 inStock: true
+prodname: Columbia Canyon Point  Chaussures de randonnée imperméables femme  Beige  Pebble Sky Blue   41 EU
 ---
 
 Tienes [Columbia Canyon Point  Chaussures de randonnée imperméables femme  Beige  Pebble Sky Blue   41 EU](https://www.amazon.fr/dp/B07BNVVWNB/?tag=tolees0d-21) con un 53.76 % de descuento con precio de oferta de 36.99 EUR (original: 80.0 EUR) en el siguiente enlace!

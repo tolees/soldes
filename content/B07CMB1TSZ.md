@@ -10,8 +10,11 @@ author: ring
 slug: B07CMB1TSZ
 description:
 actualPrice: 95.74 EUR
+currency: EUR
+price: 95.74
 comparePrice: 157.99 EUR
 inStock: true
+prodname: Marvel Legends - Edition Collector - Casque Electronique Black Panther
 ---
 
 Tienes [Marvel Legends - Edition Collector - Casque Electronique Black Panther](https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21) con un 39.40 % de descuento con precio de oferta de 95.74 EUR (original: 157.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B015G1ERYW
 description:
 actualPrice: 49.91 EUR
+currency: EUR
+price: 49.91
 comparePrice: 160.0 EUR
 inStock: true
+prodname: DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil  Bleu  Blau   53.0 Homme
 ---
 
 Tienes [DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil  Bleu  Blau   53.0 Homme](https://www.amazon.fr/dp/B015G1ERYW/?tag=tolees0d-21) con un 68.81 % de descuento con precio de oferta de 49.91 EUR (original: 160.0 EUR) en el siguiente enlace!

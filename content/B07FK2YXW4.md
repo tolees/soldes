@@ -10,8 +10,11 @@ author: ring
 slug: B07FK2YXW4
 description:
 actualPrice: 359.99 EUR
+currency: EUR
+price: 359.99
 comparePrice: 600.0 EUR
 inStock: true
+prodname: Degré7 Touring Veste de Ski Homme  White  FR : L  Taille Fabricant : 52 
 ---
 
 Está [Degré7 Touring Veste de Ski Homme  White  FR : L  Taille Fabricant : 52 ](https://www.amazon.fr/dp/B07FK2YXW4/?tag=tolees0d-21) con 40.00 de descuento por 359.99 EUR (original: 600.0 EUR) en el siguiente enlace!

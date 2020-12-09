@@ -10,8 +10,11 @@ author: ring
 slug: B00HEQZ4S6
 description:
 actualPrice: 136.95 EUR
+currency: EUR
+price: 136.95
 comparePrice: 220.0 EUR
 inStock: true
+prodname: Timberland 6 pouces Premium Étanche  Bottes Femme  Noir  Black Nubuck   40 EU
 ---
 
 Tienes [Timberland 6 pouces Premium Étanche  Bottes Femme  Noir  Black Nubuck   40 EU](https://www.amazon.fr/dp/B00HEQZ4S6/?tag=tolees0d-21) con un 37.75 % de descuento con precio de oferta de 136.95 EUR (original: 220.0 EUR) en el siguiente enlace!

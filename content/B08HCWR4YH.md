@@ -10,8 +10,11 @@ author: ring
 slug: B08HCWR4YH
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 36.99 EUR
 inStock: true
+prodname: Manette Switch  Beexcellent Manette Sans Fil Bluetooth pour Nintendo Switch Rechargeable Turbo 6-Axis Gyro Double Moteur Compatible pour Nintendo Switch Nintendo Switch Lite et PC
 ---
 
 Ahora mismo tienes [Manette Switch  Beexcellent Manette Sans Fil Bluetooth pour Nintendo Switch Rechargeable Turbo 6-Axis Gyro Double Moteur Compatible pour Nintendo Switch Nintendo Switch Lite et PC](https://www.amazon.fr/dp/B08HCWR4YH/?tag=tolees0d-21) a 19.99 EUR (original: 36.99 EUR) (45.96 %  de descuento) en el siguiente enlace!

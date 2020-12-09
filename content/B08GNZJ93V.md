@@ -10,8 +10,11 @@ author: ring
 slug: B08GNZJ93V
 description:
 actualPrice: 22.99 EUR
+currency: EUR
+price: 22.99
 comparePrice: 31.19 EUR
 inStock: true
+prodname: BAITITON NVME 120GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD Interne 120Go Disque Dur Haute Performance Lecture 1800Mo/s Ecriture 600Mo/s
 ---
 
 Está [BAITITON NVME 120GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD Interne 120Go Disque Dur Haute Performance Lecture 1800Mo/s Ecriture 600Mo/s](https://www.amazon.fr/dp/B08GNZJ93V/?tag=tolees0d-21) con 26.29 de descuento por 22.99 EUR (original: 31.19 EUR) en el siguiente enlace!

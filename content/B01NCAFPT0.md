@@ -10,8 +10,11 @@ author: ring
 slug: B01NCAFPT0
 description:
 actualPrice: 50.68 EUR
+currency: EUR
+price: 50.68
 comparePrice: 89.95 EUR
 inStock: true
+prodname: Puma Basket Heart Patent  Baskets Basses Femme  Noir  Black-Black   38 EU
 ---
 
 Está [Puma Basket Heart Patent  Baskets Basses Femme  Noir  Black-Black   38 EU](https://www.amazon.fr/dp/B01NCAFPT0/?tag=tolees0d-21) con 43.66 de descuento por 50.68 EUR (original: 89.95 EUR) en el siguiente enlace!

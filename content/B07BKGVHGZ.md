@@ -10,8 +10,11 @@ author: ring
 slug: B07BKGVHGZ
 description:
 actualPrice: 418.0 EUR
+currency: EUR
+price: 418.0
 comparePrice: 599.99 EUR
 inStock: true
+prodname: Bosch Unlimited BBS1224 Aspirateur Balai Multifonction sans Fil 2400 W  0 4 L  Blanc
 ---
 
 Ahora mismo tienes [Bosch Unlimited BBS1224 Aspirateur Balai Multifonction sans Fil 2400 W  0 4 L  Blanc](https://www.amazon.fr/dp/B07BKGVHGZ/?tag=tolees0d-21) a 418.0 EUR (original: 599.99 EUR) (30.33 %  de descuento) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B01KIJG3QC
 description:
 actualPrice: 7.78 EUR
+currency: EUR
+price: 7.78
 comparePrice: 20.06 EUR
 inStock: true
+prodname: Terreur Aveugle [Blu-Ray]
 ---
 
 Tienes [Terreur Aveugle [Blu-Ray]](https://www.amazon.fr/dp/B01KIJG3QC/?tag=tolees0d-21) con un 61.22 % de descuento con precio de oferta de 7.78 EUR (original: 20.06 EUR) en el siguiente enlace!

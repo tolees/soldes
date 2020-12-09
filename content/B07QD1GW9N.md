@@ -10,8 +10,11 @@ author: ring
 slug: B07QD1GW9N
 description:
 actualPrice: 62.65 EUR
+currency: EUR
+price: 62.65
 comparePrice: 100.0 EUR
 inStock: true
+prodname: Nike WMNS AIR Max Motion 2  Chaussures de Running Femme  Multicolore  Pumice/MTLC Silver-Platinum Tint 203   36 EU
 ---
 
 Tienes [Nike WMNS AIR Max Motion 2  Chaussures de Running Femme  Multicolore  Pumice/MTLC Silver-Platinum Tint 203   36 EU](https://www.amazon.fr/dp/B07QD1GW9N/?tag=tolees0d-21) con un 37.35 % de descuento con precio de oferta de 62.65 EUR (original: 100.0 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B08BMG4KTZ
 description:
 actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
 comparePrice: 49.0 EUR
 inStock: true
+prodname: OUPOD Manette sans fil  Bluetooth  pour Pro Nintendo Switch connectée à l hôte du commutateur prend en charge les fonctions NFC  l induction de caractères Amiibo et la fonction de réveil.  bleu rouge 
 ---
 
 Está [OUPOD Manette sans fil  Bluetooth  pour Pro Nintendo Switch connectée à l hôte du commutateur prend en charge les fonctions NFC  l induction de caractères Amiibo et la fonction de réveil.  bleu rouge ](https://www.amazon.fr/dp/B08BMG4KTZ/?tag=tolees0d-21) con 38.80 de descuento por 29.99 EUR (original: 49.0 EUR) en el siguiente enlace!

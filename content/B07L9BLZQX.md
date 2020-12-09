@@ -10,8 +10,11 @@ author: ring
 slug: B07L9BLZQX
 description:
 actualPrice: 27.62 EUR
+currency: EUR
+price: 27.62
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Under Armour Rival Fleece Fz Hoodie Haut Homme Vert FR : XL  Taille Fabricant : XL 
 ---
 
 Está [Under Armour Rival Fleece Fz Hoodie Haut Homme Vert FR : XL  Taille Fabricant : XL ](https://www.amazon.fr/dp/B07L9BLZQX/?tag=tolees0d-21) con 53.97 de descuento por 27.62 EUR (original: 60.0 EUR) en el siguiente enlace!

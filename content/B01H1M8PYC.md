@@ -10,8 +10,11 @@ author: ring
 slug: B01H1M8PYC
 description:
 actualPrice: 29.95 EUR
+currency: EUR
+price: 29.95
 comparePrice: 39.99 EUR
 inStock: true
+prodname: Marvel s Spider-Man
 ---
 
 Tienes [Marvel s Spider-Man](https://www.amazon.fr/dp/B01H1M8PYC/?tag=tolees0d-21) con un 25.11 % de descuento con precio de oferta de 29.95 EUR (original: 39.99 EUR) en el siguiente enlace!

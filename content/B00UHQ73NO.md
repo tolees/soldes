@@ -10,8 +10,11 @@ author: ring
 slug: B00UHQ73NO
 description:
 actualPrice: 6.67 EUR
+currency: EUR
+price: 6.67
 comparePrice: 14.99 EUR
 inStock: true
+prodname: Drones
 ---
 
 Ahora mismo tienes [Drones](https://www.amazon.fr/dp/B00UHQ73NO/?tag=tolees0d-21) a 6.67 EUR (original: 14.99 EUR) (55.50 %  de descuento) en el siguiente enlace!

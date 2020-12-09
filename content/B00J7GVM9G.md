@@ -10,8 +10,11 @@ author: ring
 slug: B00J7GVM9G
 description:
 actualPrice: 149.9 EUR
+currency: EUR
+price: 149.9
 comparePrice: 339.0 EUR
 inStock: true
+prodname: Zwilling 66060-000 Passion Batterie de cuisine Acier Inoxydable Aluminium 5 pièces
 ---
 
 Tienes [Zwilling 66060-000 Passion Batterie de cuisine Acier Inoxydable Aluminium 5 pièces](https://www.amazon.fr/dp/B00J7GVM9G/?tag=tolees0d-21) con un 55.78 % de descuento con precio de oferta de 149.9 EUR (original: 339.0 EUR) en el siguiente enlace!

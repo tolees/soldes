@@ -10,8 +10,11 @@ author: ring
 slug: B07JKD8N3N
 description:
 actualPrice: 46.3 EUR
+currency: EUR
+price: 46.3
 comparePrice: 65.0 EUR
 inStock: true
+prodname: LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox Tous feux dont induction  anses et poignés vendues séparemment 
 ---
 
 Está [LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox Tous feux dont induction  anses et poignés vendues séparemment ](https://www.amazon.fr/dp/B07JKD8N3N/?tag=tolees0d-21) con 28.77 de descuento por 46.3 EUR (original: 65.0 EUR) en el siguiente enlace!

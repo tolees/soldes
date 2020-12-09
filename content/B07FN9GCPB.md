@@ -10,8 +10,11 @@ author: ring
 slug: B07FN9GCPB
 description:
 actualPrice: 137.88 EUR
+currency: EUR
+price: 137.88
 comparePrice: 269.95 EUR
 inStock: true
+prodname: MILLET ATNA Peak JKT Veste de Ski Homme  Ebony  FR : S  Taille Fabricant : S 
 ---
 
 Tienes [MILLET ATNA Peak JKT Veste de Ski Homme  Ebony  FR : S  Taille Fabricant : S ](https://www.amazon.fr/dp/B07FN9GCPB/?tag=tolees0d-21) con un 48.92 % de descuento con precio de oferta de 137.88 EUR (original: 269.95 EUR) en el siguiente enlace!

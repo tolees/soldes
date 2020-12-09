@@ -10,8 +10,11 @@ author: ring
 slug: B06X3VTY8P
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: GreedFall
 ---
 
 Ahora mismo tienes [GreedFall](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

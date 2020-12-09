@@ -10,8 +10,11 @@ author: ring
 slug: B075N4FRMZ
 description:
 actualPrice: 12.99 EUR
+currency: EUR
+price: 12.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Sylvanian Families - Le Village - Le Set Cuisine - 5289 - Meubles et Accessoires Poupée - Mini Poupées
 ---
 
 Tienes [Sylvanian Families - Le Village - Le Set Cuisine - 5289 - Meubles et Accessoires Poupée - Mini Poupées](https://www.amazon.fr/dp/B075N4FRMZ/?tag=tolees0d-21) con un 27.79 % de descuento con precio de oferta de 12.99 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B00C2VGB1W
 description:
 actualPrice: 8.31 EUR
+currency: EUR
+price: 8.31
 comparePrice: 13.03 EUR
 inStock: true
+prodname: Gatsby Le Magnifique B.O.F
 ---
 
 Está [Gatsby Le Magnifique B.O.F](https://www.amazon.fr/dp/B00C2VGB1W/?tag=tolees0d-21) con 36.22 de descuento por 8.31 EUR (original: 13.03 EUR) en el siguiente enlace!

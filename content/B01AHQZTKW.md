@@ -10,8 +10,11 @@ author: ring
 slug: B01AHQZTKW
 description:
 actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
 comparePrice: 94.99 EUR
 inStock: true
+prodname: Tefal INGENIO ESSENTIAL Scottish Batterie de Cuisine 10 Pièces Poêles 20/22/26 cm + Casseroles 16/18 cm + Wok 26 cm + Couvercles hermétiques 16/18 cm + Spatule + Poignée Gris L2149602
 ---
 
 Está [Tefal INGENIO ESSENTIAL Scottish Batterie de Cuisine 10 Pièces Poêles 20/22/26 cm + Casseroles 16/18 cm + Wok 26 cm + Couvercles hermétiques 16/18 cm + Spatule + Poignée Gris L2149602](https://www.amazon.fr/dp/B01AHQZTKW/?tag=tolees0d-21) con 26.32 de descuento por 69.99 EUR (original: 94.99 EUR) en el siguiente enlace!

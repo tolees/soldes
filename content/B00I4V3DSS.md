@@ -10,8 +10,11 @@ author: ring
 slug: B00I4V3DSS
 description:
 actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
 comparePrice: 100.1 EUR
 inStock: true
+prodname: Aquarius 6959 Distributeur d Essuie-Mains Roulés Blanc
 ---
 
 Ahora mismo tienes [Aquarius 6959 Distributeur d Essuie-Mains Roulés Blanc](https://www.amazon.fr/dp/B00I4V3DSS/?tag=tolees0d-21) a 24.99 EUR (original: 100.1 EUR) (75.03 %  de descuento) en el siguiente enlace!

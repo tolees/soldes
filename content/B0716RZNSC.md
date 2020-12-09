@@ -10,8 +10,11 @@ author: ring
 slug: B0716RZNSC
 description:
 actualPrice: 4.77 EUR
+currency: EUR
+price: 4.77
 comparePrice: 8.9 EUR
 inStock: true
+prodname: L’Oréal Paris – Masque anti-imperfections pour le visage – Argile pure – Anti-imperfections – 50 ml
 ---
 
 Está [L’Oréal Paris – Masque anti-imperfections pour le visage – Argile pure – Anti-imperfections – 50 ml](https://www.amazon.fr/dp/B0716RZNSC/?tag=tolees0d-21) con 46.40 de descuento por 4.77 EUR (original: 8.9 EUR) en el siguiente enlace!

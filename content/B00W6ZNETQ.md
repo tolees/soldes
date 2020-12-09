@@ -10,8 +10,11 @@ author: ring
 slug: B00W6ZNETQ
 description:
 actualPrice: 73.0 EUR
+currency: EUR
+price: 73.0
 comparePrice: 99.99 EUR
 inStock: true
+prodname: Riviera-et-Bar QP350A Plancha Extra Large
 ---
 
 Está [Riviera-et-Bar QP350A Plancha Extra Large](https://www.amazon.fr/dp/B00W6ZNETQ/?tag=tolees0d-21) con 26.99 de descuento por 73.0 EUR (original: 99.99 EUR) en el siguiente enlace!

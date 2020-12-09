@@ -10,8 +10,11 @@ author: ring
 slug: B07NJJ31VP
 description:
 actualPrice: 89.93 EUR
+currency: EUR
+price: 89.93
 comparePrice: 129.99 EUR
 inStock: true
+prodname: Krups Spécial T Machine à Thé Master T Théière Electrique à Capsules Rouge YY4124FD
 ---
 
 Ahora mismo tienes [Krups Spécial T Machine à Thé Master T Théière Electrique à Capsules Rouge YY4124FD](https://www.amazon.fr/dp/B07NJJ31VP/?tag=tolees0d-21) a 89.93 EUR (original: 129.99 EUR) (30.82 %  de descuento) en el siguiente enlace!

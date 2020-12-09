@@ -10,8 +10,11 @@ author: ring
 slug: B07G57JGFB
 description:
 actualPrice: 319.0 EUR
+currency: EUR
+price: 319.0
 comparePrice: 499.9 EUR
 inStock: true
+prodname: Polar Vantage V – Montre de Sport FC/GPS Premium pour Hommes et Femmes avec Batterie Très Longue Durée – Entraînement Multisport et Triathlon  Cardiofréquencemètre  étanche 
 ---
 
 Ahora mismo tienes [Polar Vantage V – Montre de Sport FC/GPS Premium pour Hommes et Femmes avec Batterie Très Longue Durée – Entraînement Multisport et Triathlon  Cardiofréquencemètre  étanche ](https://www.amazon.fr/dp/B07G57JGFB/?tag=tolees0d-21) a 319.0 EUR (original: 499.9 EUR) (36.19 %  de descuento) en el siguiente enlace!

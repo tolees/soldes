@@ -10,8 +10,11 @@ author: ring
 slug: B00VE3I2UW
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 34.5 EUR
 inStock: true
+prodname: Emsa Travel Mug  Mug isotherme  0 50 L 515615
 ---
 
 Tienes [Emsa Travel Mug  Mug isotherme  0 50 L 515615](https://www.amazon.fr/dp/B00VE3I2UW/?tag=tolees0d-21) con un 50.75 % de descuento con precio de oferta de 16.99 EUR (original: 34.5 EUR) en el siguiente enlace!

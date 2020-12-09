@@ -10,8 +10,11 @@ author: ring
 slug: B07PXMS56W
 description:
 actualPrice: 180.61 EUR
+currency: EUR
+price: 180.61
 comparePrice: 299.0 EUR
 inStock: true
+prodname: Orium 23624 Mesureur qualité de l air intérieur Complet Tower  Noir et Silver  8 x 8 x 18 cm
 ---
 
 Ahora mismo tienes [Orium 23624 Mesureur qualité de l air intérieur Complet Tower  Noir et Silver  8 x 8 x 18 cm](https://www.amazon.fr/dp/B07PXMS56W/?tag=tolees0d-21) a 180.61 EUR (original: 299.0 EUR) (39.60 %  de descuento) en el siguiente enlace!

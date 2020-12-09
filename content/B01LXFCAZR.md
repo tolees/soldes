@@ -10,8 +10,11 @@ author: ring
 slug: B01LXFCAZR
 description:
 actualPrice: 74.0 EUR
+currency: EUR
+price: 74.0
 comparePrice: 139.0 EUR
 inStock: true
+prodname: Samsonite Base Boost - Spinner L Valise Extensible  78 cm  105/112 5 L  Noir  Black 
 ---
 
 Ahora mismo tienes [Samsonite Base Boost - Spinner L Valise Extensible  78 cm  105/112 5 L  Noir  Black ](https://www.amazon.fr/dp/B01LXFCAZR/?tag=tolees0d-21) a 74.0 EUR (original: 139.0 EUR) (46.76 %  de descuento) en el siguiente enlace!

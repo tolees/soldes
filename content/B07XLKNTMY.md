@@ -10,8 +10,11 @@ author: ring
 slug: B07XLKNTMY
 description:
 actualPrice: 21.99 EUR
+currency: EUR
+price: 21.99
 comparePrice: 50.0 EUR
 inStock: true
+prodname: SAIAOBO Mandoline Coupe-Légumes 13 en 1  Trancheur de Légumes  Légumes Râpés  Hachoir de Graterie de Cuisine Multifonction à 7 Lames Réglable pour Trancher  Couper Les Légumes et râper
 ---
 
 Ahora mismo tienes [SAIAOBO Mandoline Coupe-Légumes 13 en 1  Trancheur de Légumes  Légumes Râpés  Hachoir de Graterie de Cuisine Multifonction à 7 Lames Réglable pour Trancher  Couper Les Légumes et râper](https://www.amazon.fr/dp/B07XLKNTMY/?tag=tolees0d-21) a 21.99 EUR (original: 50.0 EUR) (56.02 %  de descuento) en el siguiente enlace!

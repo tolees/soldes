@@ -10,8 +10,11 @@ author: ring
 slug: B07FJZBK71
 description:
 actualPrice: 8.9 EUR
+currency: EUR
+price: 8.9
 comparePrice: 12.99 EUR
 inStock: true
+prodname: Disney Princesses – Poupee Princesse Disney Poussière d’Etoiles Raiponce - 30 cm
 ---
 
 Está [Disney Princesses – Poupee Princesse Disney Poussière d’Etoiles Raiponce - 30 cm](https://www.amazon.fr/dp/B07FJZBK71/?tag=tolees0d-21) con 31.49 de descuento por 8.9 EUR (original: 12.99 EUR) en el siguiente enlace!

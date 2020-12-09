@@ -10,8 +10,11 @@ author: ring
 slug: B08CXK86DW
 description:
 actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
 comparePrice: 23.99 EUR
 inStock: true
+prodname: Carte du Monde à gratter Carte du Monde en Poster Extra Large et Personnalisé+Tapisserie de la carte de l Europe en Bonus. Inclut un Tube Cadeau Deluxe Personnalisé et 2 Cartes Détaillées
 ---
 
 Ahora mismo tienes [Carte du Monde à gratter Carte du Monde en Poster Extra Large et Personnalisé+Tapisserie de la carte de l Europe en Bonus. Inclut un Tube Cadeau Deluxe Personnalisé et 2 Cartes Détaillées](https://www.amazon.fr/dp/B08CXK86DW/?tag=tolees0d-21) a 16.99 EUR (original: 23.99 EUR) (29.18 %  de descuento) en el siguiente enlace!

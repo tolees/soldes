@@ -10,8 +10,11 @@ author: ring
 slug: B075L7ZKWB
 description:
 actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
 comparePrice: 27.99 EUR
 inStock: true
+prodname: URAQT Sac à Main Femme Bandoulière Sac  Pochette Sac portés Main en PU Cuir pour Les Cours  Noir  Cadeau De La Fête des Mères Kaki
 ---
 
 Tienes [URAQT Sac à Main Femme Bandoulière Sac  Pochette Sac portés Main en PU Cuir pour Les Cours  Noir  Cadeau De La Fête des Mères Kaki](https://www.amazon.fr/dp/B075L7ZKWB/?tag=tolees0d-21) con un 28.58 % de descuento con precio de oferta de 19.99 EUR (original: 27.99 EUR) en el siguiente enlace!

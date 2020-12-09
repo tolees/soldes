@@ -10,8 +10,11 @@ author: ring
 slug: B07JMCBRB4
 description:
 actualPrice: 12.91 EUR
+currency: EUR
+price: 12.91
 comparePrice: 17.99 EUR
 inStock: true
+prodname: Playmobil - Famille de Sirènes - 70100
 ---
 
 Ahora mismo tienes [Playmobil - Famille de Sirènes - 70100](https://www.amazon.fr/dp/B07JMCBRB4/?tag=tolees0d-21) a 12.91 EUR (original: 17.99 EUR) (28.24 %  de descuento) en el siguiente enlace!

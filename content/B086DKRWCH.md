@@ -10,8 +10,11 @@ author: ring
 slug: B086DKRWCH
 description:
 actualPrice: 71.49 EUR
+currency: EUR
+price: 71.49
 comparePrice: 109.99 EUR
 inStock: true
+prodname: Nouvelle Blink Outdoor  Caméra de surveillance HD sans fil  résistante aux intempéries  avec deux ans d autonomie et détection des mouvements | Caméra supplémentaire | Sync Module 2 requis
 ---
 
 Está [Nouvelle Blink Outdoor  Caméra de surveillance HD sans fil  résistante aux intempéries  avec deux ans d autonomie et détection des mouvements | Caméra supplémentaire | Sync Module 2 requis](https://www.amazon.fr/dp/B086DKRWCH/?tag=tolees0d-21) con 35.00 de descuento por 71.49 EUR (original: 109.99 EUR) en el siguiente enlace!

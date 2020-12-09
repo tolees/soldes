@@ -10,8 +10,11 @@ author: ring
 slug: B07HSKPHQR
 description:
 actualPrice: 6.47 EUR
+currency: EUR
+price: 6.47
 comparePrice: 20.06 EUR
 inStock: true
+prodname: La Nonne [Blu-Ray]
 ---
 
 Está [La Nonne [Blu-Ray]](https://www.amazon.fr/dp/B07HSKPHQR/?tag=tolees0d-21) con 67.75 de descuento por 6.47 EUR (original: 20.06 EUR) en el siguiente enlace!

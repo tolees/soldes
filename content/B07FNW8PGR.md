@@ -10,8 +10,11 @@ author: ring
 slug: B07FNW8PGR
 description:
 actualPrice: 11.99 EUR
+currency: EUR
+price: 11.99
 comparePrice: 17.99 EUR
 inStock: true
+prodname: LEGO® Speed Champions McLaren Senna Jeu de constructionvoiture  7 Ans et Plus  219 Pièces 75892
 ---
 
 Tienes [LEGO® Speed Champions McLaren Senna Jeu de constructionvoiture  7 Ans et Plus  219 Pièces 75892](https://www.amazon.fr/dp/B07FNW8PGR/?tag=tolees0d-21) con un 33.35 % de descuento con precio de oferta de 11.99 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07L3GHY8L
 description:
 actualPrice: 179.99 EUR
+currency: EUR
+price: 179.99
 comparePrice: 249.0 EUR
 inStock: true
+prodname: Audio-Technica ATH-MSR7b Casque Nomade
 ---
 
 Tienes [Audio-Technica ATH-MSR7b Casque Nomade](https://www.amazon.fr/dp/B07L3GHY8L/?tag=tolees0d-21) con un 27.71 % de descuento con precio de oferta de 179.99 EUR (original: 249.0 EUR) en el siguiente enlace!

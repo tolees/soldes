@@ -10,8 +10,11 @@ author: ring
 slug: B07CZFHN76
 description:
 actualPrice: 23.98 EUR
+currency: EUR
+price: 23.98
 comparePrice: 59.98 EUR
 inStock: true
+prodname: Brosse nettoyante sonique pour le visage en silicone  imperméable  rechargeable  brosse nettoyante pour tous les types de peau  nettoyage des pores en profondeur  exfoliation douce et massage AG-1788
 ---
 
 Está [Brosse nettoyante sonique pour le visage en silicone  imperméable  rechargeable  brosse nettoyante pour tous les types de peau  nettoyage des pores en profondeur  exfoliation douce et massage AG-1788](https://www.amazon.fr/dp/B07CZFHN76/?tag=tolees0d-21) con 60.02 de descuento por 23.98 EUR (original: 59.98 EUR) en el siguiente enlace!

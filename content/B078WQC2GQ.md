@@ -10,8 +10,11 @@ author: ring
 slug: B078WQC2GQ
 description:
 actualPrice: 45.45 EUR
+currency: EUR
+price: 45.45
 comparePrice: 69.99 EUR
 inStock: true
+prodname: Samsung MZ-N6E250BW SSD Interne 860 EVO - M.2 - 250 GO
 ---
 
 Ahora mismo tienes [Samsung MZ-N6E250BW SSD Interne 860 EVO - M.2 - 250 GO](https://www.amazon.fr/dp/B078WQC2GQ/?tag=tolees0d-21) a 45.45 EUR (original: 69.99 EUR) (35.06 %  de descuento) en el siguiente enlace!

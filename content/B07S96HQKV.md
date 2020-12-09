@@ -10,8 +10,11 @@ author: ring
 slug: B07S96HQKV
 description:
 actualPrice: 159.99 EUR
+currency: EUR
+price: 159.99
 comparePrice: 249.9 EUR
 inStock: true
+prodname: Stanley SXPW25DTSE Nettoyeur haute pression avec Dualtech System  2500 W  150 bars  810 l/h 
 ---
 
 Ahora mismo tienes [Stanley SXPW25DTSE Nettoyeur haute pression avec Dualtech System  2500 W  150 bars  810 l/h ](https://www.amazon.fr/dp/B07S96HQKV/?tag=tolees0d-21) a 159.99 EUR (original: 249.9 EUR) (35.98 %  de descuento) en el siguiente enlace!

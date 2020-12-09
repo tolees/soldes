@@ -10,8 +10,11 @@ author: ring
 slug: B08CJJ5XKR
 description:
 actualPrice: 43.99 EUR
+currency: EUR
+price: 43.99
 comparePrice: 63.99 EUR
 inStock: true
+prodname: Real Madrid Adidas Saison 2020/21 Maillot officiel pour enfant Blanc 104 cm
 ---
 
 Ahora mismo tienes [Real Madrid Adidas Saison 2020/21 Maillot officiel pour enfant Blanc 104 cm](https://www.amazon.fr/dp/B08CJJ5XKR/?tag=tolees0d-21) a 43.99 EUR (original: 63.99 EUR) (31.25 %  de descuento) en el siguiente enlace!

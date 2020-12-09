@@ -10,8 +10,11 @@ author: ring
 slug: B076PS4YQR
 description:
 actualPrice: 24.67 EUR
+currency: EUR
+price: 24.67
 comparePrice: 60.0 EUR
 inStock: true
+prodname: Sharpie 2025040 Boîte de 36 Marqueurs permanent pointe fine encre Noir
 ---
 
 Ahora mismo tienes [Sharpie 2025040 Boîte de 36 Marqueurs permanent pointe fine encre Noir](https://www.amazon.fr/dp/B076PS4YQR/?tag=tolees0d-21) a 24.67 EUR (original: 60.0 EUR) (58.88 %  de descuento) en el siguiente enlace!

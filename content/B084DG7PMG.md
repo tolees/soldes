@@ -10,8 +10,11 @@ author: ring
 slug: B084DG7PMG
 description:
 actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
 comparePrice: 20.06 EUR
 inStock: true
+prodname: Jumanji : Next Level
 ---
 
 Está [Jumanji : Next Level](https://www.amazon.fr/dp/B084DG7PMG/?tag=tolees0d-21) con 25.27 de descuento por 14.99 EUR (original: 20.06 EUR) en el siguiente enlace!

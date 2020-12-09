@@ -10,8 +10,11 @@ author: ring
 slug: B01N4LCTIY
 description:
 actualPrice: 17.5 EUR
+currency: EUR
+price: 17.5
 comparePrice: 25.0 EUR
 inStock: true
+prodname: Elizabeth Arden – White Tea – Crème pour le Corps Douceur Ultime – Action Hydratante – Senteur Florale & Musquée – 400 ml
 ---
 
 Está [Elizabeth Arden – White Tea – Crème pour le Corps Douceur Ultime – Action Hydratante – Senteur Florale & Musquée – 400 ml](https://www.amazon.fr/dp/B01N4LCTIY/?tag=tolees0d-21) con 30.00 de descuento por 17.5 EUR (original: 25.0 EUR) en el siguiente enlace!

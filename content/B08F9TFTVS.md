@@ -10,8 +10,11 @@ author: ring
 slug: B08F9TFTVS
 description:
 actualPrice: 20.27 EUR
+currency: EUR
+price: 20.27
 comparePrice: 39.34 EUR
 inStock: true
+prodname: Manette pour Nintendo Switch Pro  REDSTORM Manette pour Switch sans Fil avec Vibration Superbe  Connexion sans Fil jusqu à 8 Mètres  LED en 5 Niveau pour Nintendo Switch et PC  Dragon
 ---
 
 Está [Manette pour Nintendo Switch Pro  REDSTORM Manette pour Switch sans Fil avec Vibration Superbe  Connexion sans Fil jusqu à 8 Mètres  LED en 5 Niveau pour Nintendo Switch et PC  Dragon](https://www.amazon.fr/dp/B08F9TFTVS/?tag=tolees0d-21) con 48.47 de descuento por 20.27 EUR (original: 39.34 EUR) en el siguiente enlace!

@@ -10,8 +10,11 @@ author: ring
 slug: B07KSPW2T3
 description:
 actualPrice: 96.0 EUR
+currency: EUR
+price: 96.0
 comparePrice: 216.0 EUR
 inStock: true
+prodname: Love Moschino Brushed Jersey  Bottom Lace  Long Skirt Jupe   Green Q19   40  Taille Fabricant: 42  Femme
 ---
 
 Ahora mismo tienes [Love Moschino Brushed Jersey  Bottom Lace  Long Skirt Jupe   Green Q19   40  Taille Fabricant: 42  Femme](https://www.amazon.fr/dp/B07KSPW2T3/?tag=tolees0d-21) a 96.0 EUR (original: 216.0 EUR) (55.56 %  de descuento) en el siguiente enlace!

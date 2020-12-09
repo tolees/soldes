@@ -10,8 +10,11 @@ author: ring
 slug: B08BJDQH1R
 description:
 actualPrice: 36.99 EUR
+currency: EUR
+price: 36.99
 comparePrice: 49.99 EUR
 inStock: true
+prodname: Jump Force Deluxe Edition  Nintendo Switch 
 ---
 
 Ahora mismo tienes [Jump Force Deluxe Edition  Nintendo Switch ](https://www.amazon.fr/dp/B08BJDQH1R/?tag=tolees0d-21) a 36.99 EUR (original: 49.99 EUR) (26.01 %  de descuento) en el siguiente enlace!

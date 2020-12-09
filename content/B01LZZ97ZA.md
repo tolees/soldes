@@ -10,8 +10,11 @@ author: ring
 slug: B01LZZ97ZA
 description:
 actualPrice: 32.04 EUR
+currency: EUR
+price: 32.04
 comparePrice: 76.36 EUR
 inStock: true
+prodname: El Naturalista N413  Sandales Bout fermé Femme - Rouge  Tibet   41 EU
 ---
 
 Ahora mismo tienes [El Naturalista N413  Sandales Bout fermé Femme - Rouge  Tibet   41 EU](https://www.amazon.fr/dp/B01LZZ97ZA/?tag=tolees0d-21) a 32.04 EUR (original: 76.36 EUR) (58.04 %  de descuento) en el siguiente enlace!

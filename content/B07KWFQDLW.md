@@ -10,8 +10,11 @@ author: ring
 slug: B07KWFQDLW
 description:
 actualPrice: 26.99 EUR
+currency: EUR
+price: 26.99
 comparePrice: 49.9 EUR
 inStock: true
+prodname: Charmoni Grand Classique Portefeuille en Cuir Protection RFID Blocage Homme  Marron 06 Lisse 
 ---
 
 Está [Charmoni Grand Classique Portefeuille en Cuir Protection RFID Blocage Homme  Marron 06 Lisse ](https://www.amazon.fr/dp/B07KWFQDLW/?tag=tolees0d-21) con 45.91 de descuento por 26.99 EUR (original: 49.9 EUR) en el siguiente enlace!

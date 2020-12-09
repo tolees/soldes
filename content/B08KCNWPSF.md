@@ -10,8 +10,11 @@ author: ring
 slug: B08KCNWPSF
 description:
 actualPrice: 11.88 EUR
+currency: EUR
+price: 11.88
 comparePrice: 15.99 EUR
 inStock: true
+prodname: MonQi 24pcs Sacs de Cadeau de Noël en Papier Kraft 24 Etiquettes Noël  Boîtes Cadeau de Noël pour Bonbons Cadeaux de Noël  Mariage  Fête  Anniversaire Mariage 12 x 7 x 18.5cm   24pcs 
 ---
 
 Ahora mismo tienes [MonQi 24pcs Sacs de Cadeau de Noël en Papier Kraft 24 Etiquettes Noël  Boîtes Cadeau de Noël pour Bonbons Cadeaux de Noël  Mariage  Fête  Anniversaire Mariage 12 x 7 x 18.5cm   24pcs ](https://www.amazon.fr/dp/B08KCNWPSF/?tag=tolees0d-21) a 11.88 EUR (original: 15.99 EUR) (25.70 %  de descuento) en el siguiente enlace!

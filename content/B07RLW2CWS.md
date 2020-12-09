@@ -10,8 +10,11 @@ author: ring
 slug: B07RLW2CWS
 description:
 actualPrice: 42.25 EUR
+currency: EUR
+price: 42.25
 comparePrice: 99.95 EUR
 inStock: true
+prodname: bugatti 313625533500  Bottes & Bottines Classiques Homme  Noir  Schwarz 1000   44 EU
 ---
 
 Tienes [bugatti 313625533500  Bottes & Bottines Classiques Homme  Noir  Schwarz 1000   44 EU](https://www.amazon.fr/dp/B07RLW2CWS/?tag=tolees0d-21) con un 57.73 % de descuento con precio de oferta de 42.25 EUR (original: 99.95 EUR) en el siguiente enlace!
