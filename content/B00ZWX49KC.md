@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Au Revoir Les Enfants'
 ---
 
-Ahora mismo tienes [Au Revoir Les Enfants](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21) a 8.99 EUR (original: 13.01 EUR) (30.90 %  de descuento) en el siguiente enlace!
+Está [Au Revoir Les Enfants](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21) con 30.90 de descuento por 8.99 EUR (original: 13.01 EUR) en el siguiente enlace!
 
 [![Au Revoir Les Enfants](https://m.media-amazon.com/images/I/41FDdedfFlL._SL200_.jpg)](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

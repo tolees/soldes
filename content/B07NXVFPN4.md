@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Scorpio - Eau de Toilette - Unlimited – Format 75ml'
 ---
 
-Está [Scorpio - Eau de Toilette - Unlimited – Format 75ml](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21) con 25.00 de descuento por 9.45 EUR (original: 12.6 EUR) en el siguiente enlace!
+Ahora mismo tienes [Scorpio - Eau de Toilette - Unlimited – Format 75ml](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21) a 9.45 EUR (original: 12.6 EUR) (25.00 %  de descuento) en el siguiente enlace!
 
 [![Scorpio - Eau de Toilette - Unlimited – ](https://m.media-amazon.com/images/I/41cF6n1UMbL._SL200_.jpg)](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
