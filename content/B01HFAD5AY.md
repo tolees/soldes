@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Merrell Moab 2 GTX  Chaussures de Randonnée Basses Homme  Gris  Beluga   43.5 EU'
 ---
 
-Ahora mismo tienes [Merrell Moab 2 GTX  Chaussures de Randonnée Basses Homme  Gris  Beluga   43.5 EU](https://www.amazon.fr/dp/B01HFAD5AY/?tag=tolees0d-21) a 52.74 EUR (original: 130.0 EUR) (59.43 %  de descuento) en el siguiente enlace!
+Está [Merrell Moab 2 GTX  Chaussures de Randonnée Basses Homme  Gris  Beluga   43.5 EU](https://www.amazon.fr/dp/B01HFAD5AY/?tag=tolees0d-21) con 59.43 de descuento por 52.74 EUR (original: 130.0 EUR) en el siguiente enlace!
 
 [![Merrell Moab 2 GTX  Chaussures de Randon](https://m.media-amazon.com/images/I/41Q2ZjInd1L._SL200_.jpg)](https://www.amazon.fr/dp/B01HFAD5AY/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01HFAD5AY/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01HFAD5AY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

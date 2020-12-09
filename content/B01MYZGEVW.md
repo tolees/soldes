@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Les PEPITES'
 ---
 
-Está [Les PEPITES](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21) con 40.00 de descuento por 6.0 EUR (original: 10.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Les PEPITES](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21) a 6.0 EUR (original: 10.0 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![Les PEPITES](https://m.media-amazon.com/images/I/51Or5HXEGUL._SL200_.jpg)](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
