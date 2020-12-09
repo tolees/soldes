@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel 15432 Porte-mines P200 0.7 mm Emb al 28.12 % de descuento'
-date: 2020-12-08 03:38:11
+date: 2020-12-09 21:42:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hXeNAIsKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hXeNAIsKL._SL200_.jpg' ]
 comments: true
