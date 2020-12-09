@@ -17,10 +17,12 @@ inStock: true
 prodname: 'CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4'
 ---
 
-Ahora mismo tienes [CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21) a 38.1 EUR (original: 69.99 EUR) (45.56 %  de descuento) en el siguiente enlace!
+Está [CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21) con 45.56 de descuento por 38.1 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![CODEMASTERS- F1 2020 - Seventy Edition -](https://m.media-amazon.com/images/I/51ECRj7HZcL._SL200_.jpg)](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

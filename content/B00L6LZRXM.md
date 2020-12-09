@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Newpowa Panneau solaire polycristallin 100 W 12 V 100 W  1pc 100W Poly'
 ---
 
-Ahora mismo tienes [Newpowa Panneau solaire polycristallin 100 W 12 V 100 W  1pc 100W Poly](https://www.amazon.fr/dp/B00L6LZRXM/?tag=tolees0d-21) a 52.97 EUR (original: 78.89 EUR) (32.86 %  de descuento) en el siguiente enlace!
+Está [Newpowa Panneau solaire polycristallin 100 W 12 V 100 W  1pc 100W Poly](https://www.amazon.fr/dp/B00L6LZRXM/?tag=tolees0d-21) con 32.86 de descuento por 52.97 EUR (original: 78.89 EUR) en el siguiente enlace!
 
 [![Newpowa Panneau solaire polycristallin 1](https://m.media-amazon.com/images/I/51vNdJMTJ4L._SL200_.jpg)](https://www.amazon.fr/dp/B00L6LZRXM/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00L6LZRXM/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00L6LZRXM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

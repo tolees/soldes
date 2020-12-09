@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Alpha 7 II | Appareil Photo Numériq al 47.06 % de descuento'
+title: 'Descuento del 47.06 % en Sony Alpha 7 II | Appareil Photo Numériq'
 date: 2020-12-09 03:37:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eXsg6mKvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eXsg6mKvL._SL200_.jpg' ]
@@ -17,11 +17,11 @@ inStock: true
 prodname: 'Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Format   24 2 Mp  Autofocus Hybride Rapide  Stabilisation Interne 5 Axes  Format Vidéo Xavc S   ILCE7M2  A7M2 '
 ---
 
-Está [Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Format   24 2 Mp  Autofocus Hybride Rapide  Stabilisation Interne 5 Axes  Format Vidéo Xavc S   ILCE7M2  A7M2 ](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21) con 47.06 de descuento por 952.97 EUR (original: 1800.0 EUR) en el siguiente enlace!
+Tienes [Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Format   24 2 Mp  Autofocus Hybride Rapide  Stabilisation Interne 5 Axes  Format Vidéo Xavc S   ILCE7M2  A7M2 ](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21) con un 47.06 % de descuento con precio de oferta de 952.97 EUR (original: 1800.0 EUR) en el siguiente enlace!
 
 [![Sony Alpha 7 II | Appareil Photo Numériq](https://m.media-amazon.com/images/I/41eXsg6mKvL._SL200_.jpg)](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
