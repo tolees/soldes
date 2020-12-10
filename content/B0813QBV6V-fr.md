@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 25.05 % en LEGO® Harry Potter™ La Tour d’Astronomie'
-date: 2020-12-09 15:55:23
+date: 2020-12-10 19:48:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+4CsFSz+L._SL200_.jpg' ]
 comments: true

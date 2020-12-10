@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 73.24 % en LA Mort Vous VA SI Bien [Blu-Ray]'
-date: 2020-11-20 00:52:32
+title: 'Descuento del 54.66 % en LA Mort Vous VA SI Bien [Blu-Ray]'
+date: 2020-12-10 19:11:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51gPFMrVX8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51gPFMrVX8L._SL200_.jpg' ]
 comments: true
@@ -9,16 +9,16 @@ category: ofertas
 author: ring
 slug: 'B0733SVH2Z-fr'
 description:
-actualPrice: 4.02 EUR
+actualPrice: 6.81 EUR
 currency: EUR
-price: 4.02
+price: 6.81
 comparePrice: 15.02 EUR
 inStock: true
 prodname: 'LA Mort Vous VA SI Bien [Blu-Ray]'
 country: 'fr'
 ---
 
-Tienes [LA Mort Vous VA SI Bien [Blu-Ray]](https://www.amazon.fr/dp/B0733SVH2Z/?tag=tolees0d-21) con un 73.24 % de descuento con precio de oferta de 4.02 EUR (original: 15.02 EUR) en el siguiente enlace!
+Tienes [LA Mort Vous VA SI Bien [Blu-Ray]](https://www.amazon.fr/dp/B0733SVH2Z/?tag=tolees0d-21) con un 54.66 % de descuento con precio de oferta de 6.81 EUR (original: 15.02 EUR) en el siguiente enlace!
 
 [![LA Mort Vous VA SI Bien [Blu-Ray]](https://m.media-amazon.com/images/I/51gPFMrVX8L._SL200_.jpg)](https://www.amazon.fr/dp/B0733SVH2Z/?tag=tolees0d-21)
 

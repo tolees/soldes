@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 44.13 % en Sanitas - SHK 18 - Coussin Chauffant - L'
-date: 2020-11-19 21:17:13
+date: 2020-12-10 20:32:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/3101gKjZLNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3101gKjZLNL._SL200_.jpg' ]
 comments: true
