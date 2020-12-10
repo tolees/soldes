@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Geox D Mendi Stivali  Bottes femme - Noir - Schwarz  BLACKC9999   41 EU  7.5 Femme UK  EU'
 ---
 
-Ahora mismo tienes [Geox D Mendi Stivali  Bottes femme - Noir - Schwarz  BLACKC9999   41 EU  7.5 Femme UK  EU](https://www.amazon.fr/dp/B00EZQ67PC/?tag=tolees0d-21) a 70.61 EUR (original: 175.0 EUR) (59.65 %  de descuento) en el siguiente enlace!
+Está [Geox D Mendi Stivali  Bottes femme - Noir - Schwarz  BLACKC9999   41 EU  7.5 Femme UK  EU](https://www.amazon.fr/dp/B00EZQ67PC/?tag=tolees0d-21) con 59.65 de descuento por 70.61 EUR (original: 175.0 EUR) en el siguiente enlace!
 
 [![Geox D Mendi Stivali  Bottes femme - Noi](https://m.media-amazon.com/images/I/411EmTns0fL._SL200_.jpg)](https://www.amazon.fr/dp/B00EZQ67PC/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00EZQ67PC/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00EZQ67PC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

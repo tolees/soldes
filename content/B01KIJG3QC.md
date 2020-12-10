@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Terreur Aveugle [Blu-Ray]'
 ---
 
-Ahora mismo tienes [Terreur Aveugle [Blu-Ray]](https://www.amazon.fr/dp/B01KIJG3QC/?tag=tolees0d-21) a 7.78 EUR (original: 20.06 EUR) (61.22 %  de descuento) en el siguiente enlace!
+Está [Terreur Aveugle [Blu-Ray]](https://www.amazon.fr/dp/B01KIJG3QC/?tag=tolees0d-21) con 61.22 de descuento por 7.78 EUR (original: 20.06 EUR) en el siguiente enlace!
 
 [![Terreur Aveugle [Blu-Ray]](https://m.media-amazon.com/images/I/51UA9xXZypL._SL200_.jpg)](https://www.amazon.fr/dp/B01KIJG3QC/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01KIJG3QC/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01KIJG3QC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
