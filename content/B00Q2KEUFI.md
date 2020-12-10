@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Format   24 2 Mp  Autofocus Hybride Rapide  Stabilisation Interne 5 Axes  Format Vidéo Xavc S   ILCE7M2  A7M2 '
 ---
 
-Ahora mismo tienes [Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Format   24 2 Mp  Autofocus Hybride Rapide  Stabilisation Interne 5 Axes  Format Vidéo Xavc S   ILCE7M2  A7M2 ](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21) a 952.97 EUR (original: 1800.0 EUR) (47.06 %  de descuento) en el siguiente enlace!
+Está [Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Format   24 2 Mp  Autofocus Hybride Rapide  Stabilisation Interne 5 Axes  Format Vidéo Xavc S   ILCE7M2  A7M2 ](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21) con 47.06 de descuento por 952.97 EUR (original: 1800.0 EUR) en el siguiente enlace!
 
 [![Sony Alpha 7 II | Appareil Photo Numériq](https://m.media-amazon.com/images/I/41eXsg6mKvL._SL200_.jpg)](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

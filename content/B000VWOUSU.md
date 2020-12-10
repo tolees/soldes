@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Queen - Rock Montreal & Live Aid [Blu-ray]'
 ---
 
-Está [Queen - Rock Montreal & Live Aid [Blu-ray]](https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Queen - Rock Montreal & Live Aid [Blu-ray]](https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!
 
 [![Queen - Rock Montreal & Live Aid [Blu-ra](https://m.media-amazon.com/images/I/413cPQfAoBL._SL200_.jpg)](https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
