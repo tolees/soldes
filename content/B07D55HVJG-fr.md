@@ -18,12 +18,10 @@ prodname: 'Columbo-L intégrale'
 country: 'fr'
 ---
 
-Está [Columbo-L intégrale](https://www.amazon.fr/dp/B07D55HVJG/?tag=tolees0d-21) con 40.00 de descuento por 41.99 EUR (original: 69.98 EUR) en el siguiente enlace!
+Ahora mismo tienes [Columbo-L intégrale](https://www.amazon.fr/dp/B07D55HVJG/?tag=tolees0d-21) a 41.99 EUR (original: 69.98 EUR) (40.00 %  de descuento) en el siguiente enlace!
 
 [![Columbo-L intégrale](https://m.media-amazon.com/images/I/41SMrKIETQL._SL200_.jpg)](https://www.amazon.fr/dp/B07D55HVJG/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07D55HVJG/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07D55HVJG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

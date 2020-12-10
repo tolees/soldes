@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mon pays c est l amour  édition collecto al 44.47 % de descuento'
+title: 'Descuento del 44.47 % en Mon pays c est l amour  édition collecto'
 date: 2020-10-07 13:50:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Wst3+3g7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Wst3+3g7L._SL200_.jpg' ]
@@ -18,11 +18,11 @@ prodname: 'Mon pays c est l amour  édition collector '
 country: 'fr'
 ---
 
-Está [Mon pays c est l amour  édition collector ](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!
+Tienes [Mon pays c est l amour  édition collector ](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21) con un 44.47 % de descuento con precio de oferta de 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!
 
 [![Mon pays c est l amour  édition collecto](https://m.media-amazon.com/images/I/51Wst3+3g7L._SL200_.jpg)](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

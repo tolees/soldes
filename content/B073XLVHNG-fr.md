@@ -18,10 +18,12 @@ prodname: 'Stanley STHT9-77425 TLm30 Portée de 9m - Précision +/-6mm - Faiscea
 country: 'fr'
 ---
 
-Ahora mismo tienes [Stanley STHT9-77425 TLm30 Portée de 9m - Précision +/-6mm - Faisceau Très Visible - Classe 2 - Une Seule Touche - Très Précis - Ecran Rétroéclairé -Ergonomique et Caoutchouté - Batterie Li-on](https://www.amazon.fr/dp/B073XLVHNG/?tag=tolees0d-21) a 22.3 EUR (original: 36.0 EUR) (38.06 %  de descuento) en el siguiente enlace!
+Está [Stanley STHT9-77425 TLm30 Portée de 9m - Précision +/-6mm - Faisceau Très Visible - Classe 2 - Une Seule Touche - Très Précis - Ecran Rétroéclairé -Ergonomique et Caoutchouté - Batterie Li-on](https://www.amazon.fr/dp/B073XLVHNG/?tag=tolees0d-21) con 38.06 de descuento por 22.3 EUR (original: 36.0 EUR) en el siguiente enlace!
 
 [![Stanley STHT9-77425 TLm30 Portée de 9m -](https://m.media-amazon.com/images/I/41ZY4jk2QOL._SL200_.jpg)](https://www.amazon.fr/dp/B073XLVHNG/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B073XLVHNG/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B073XLVHNG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

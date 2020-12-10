@@ -18,12 +18,10 @@ prodname: 'Soudain l été dernier [Blu-Ray]'
 country: 'fr'
 ---
 
-Está [Soudain l été dernier [Blu-Ray]](https://www.amazon.fr/dp/B072FJH8PW/?tag=tolees0d-21) con 60.17 de descuento por 7.99 EUR (original: 20.06 EUR) en el siguiente enlace!
+Ahora mismo tienes [Soudain l été dernier [Blu-Ray]](https://www.amazon.fr/dp/B072FJH8PW/?tag=tolees0d-21) a 7.99 EUR (original: 20.06 EUR) (60.17 %  de descuento) en el siguiente enlace!
 
 [![Soudain l été dernier [Blu-Ray]](https://m.media-amazon.com/images/I/51rXssOh5CL._SL200_.jpg)](https://www.amazon.fr/dp/B072FJH8PW/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B072FJH8PW/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B072FJH8PW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

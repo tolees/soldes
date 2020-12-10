@@ -18,10 +18,12 @@ prodname: 'Jackie Chan  l essentiel-12 Films-Coffret n° 4 [Édition Spéciale]'
 country: 'fr'
 ---
 
-Ahora mismo tienes [Jackie Chan  l essentiel-12 Films-Coffret n° 4 [Édition Spéciale]](https://www.amazon.fr/dp/B089TWNP2M/?tag=tolees0d-21) a 20.99 EUR (original: 35.1 EUR) (40.20 %  de descuento) en el siguiente enlace!
+Está [Jackie Chan  l essentiel-12 Films-Coffret n° 4 [Édition Spéciale]](https://www.amazon.fr/dp/B089TWNP2M/?tag=tolees0d-21) con 40.20 de descuento por 20.99 EUR (original: 35.1 EUR) en el siguiente enlace!
 
 [![Jackie Chan  l essentiel-12 Films-Coffre](https://m.media-amazon.com/images/I/51exenOZBwL._SL200_.jpg)](https://www.amazon.fr/dp/B089TWNP2M/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B089TWNP2M/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B089TWNP2M/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
