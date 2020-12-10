@@ -22,6 +22,9 @@ Tienes [BaByliss Sèche-cheveux Travel Dry 2000 Compact Léger avec poignée pli
 
 [![BaByliss Sèche-cheveux Travel Dry 2000 C](https://m.media-amazon.com/images/I/31XMDseGKnL._SL200_.jpg)](https://www.amazon.fr/dp/B07W863RWN/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07W863RWN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Dare 2b Icecap Ergonomique  AEP Kinematics  Veste de Ski Fem
 
 [![Dare 2b Icecap Ergonomique  AEP Kinemati](https://m.media-amazon.com/images/I/41Sg-lmP97L._SL200_.jpg)](https://www.amazon.fr/dp/B07TZWFYV7/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07TZWFYV7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

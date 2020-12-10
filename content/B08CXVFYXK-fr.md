@@ -22,6 +22,9 @@ Ahora mismo tienes [[Modèle 2020] KKUYI Antenne TV Intérieure  Antenne Numéri
 
 [![[Modèle 2020] KKUYI Antenne TV Intérieur](https://m.media-amazon.com/images/I/41AZ2D-HkfL._SL200_.jpg)](https://www.amazon.fr/dp/B08CXVFYXK/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08CXVFYXK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

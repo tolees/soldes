@@ -22,6 +22,9 @@ Está [Moulinex DJ812510 Découpe Légumes Électrique Fresh Express Max 5 en 1 
 
 [![Moulinex DJ812510 Découpe Légumes Électr](https://m.media-amazon.com/images/I/41xtixgwnyL._SL200_.jpg)](https://www.amazon.fr/dp/B013B7HLN2/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B013B7HLN2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

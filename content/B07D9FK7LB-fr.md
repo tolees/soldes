@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s 501 Original Fit – Jean - Homme - Bleu  Bleu  Spong
 
 [![Levi s 501 Original Fit – Jean - Homme -](https://m.media-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg)](https://www.amazon.fr/dp/B07D9FK7LB/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07D9FK7LB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

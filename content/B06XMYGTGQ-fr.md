@@ -22,6 +22,9 @@ Tienes [Ice-Watch - Ice Lo White Blue - Montre Blanche pour Femme avec Bracelet 
 
 [![Ice-Watch - Ice Lo White Blue - Montre B](https://m.media-amazon.com/images/I/41n96uf1EHL._SL200_.jpg)](https://www.amazon.fr/dp/B06XMYGTGQ/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XMYGTGQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Bosch Professional Meuleuse d angle Filaire GWS 18–125 SL
 
 [![Bosch Professional Meuleuse d angle Fila](https://m.media-amazon.com/images/I/41QNMfDpJ2L._SL200_.jpg)](https://www.amazon.fr/dp/B07BRVL1FL/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07BRVL1FL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

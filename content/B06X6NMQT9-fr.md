@@ -22,6 +22,9 @@ Tienes [Playmobil - Parcours d Obstacles  - 6930](https://www.amazon.fr/dp/B06X6
 
 [![Playmobil - Parcours d Obstacles  - 6930](https://m.media-amazon.com/images/I/61LFyHd1bBL._SL200_.jpg)](https://www.amazon.fr/dp/B06X6NMQT9/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06X6NMQT9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [LEGO DUPLO La boîte de briques deluxe  Ensemble de construction avec ra
 
 [![LEGO DUPLO La boîte de briques deluxe  E](https://m.media-amazon.com/images/I/51B8-81aIqL._SL200_.jpg)](https://www.amazon.fr/dp/B07WLMV14S/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07WLMV14S/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

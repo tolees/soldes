@@ -22,6 +22,9 @@ Ahora mismo tienes [HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris  16 G
 
 [![HUAWEI MediaPad T3 10 Wi-Fi Tablette Tac](https://m.media-amazon.com/images/I/41X3qEjz0pL._SL200_.jpg)](https://www.amazon.fr/dp/B06XWJ5HMY/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B06XWJ5HMY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

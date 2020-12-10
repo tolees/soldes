@@ -22,6 +22,9 @@ Tienes [Kickers Bonbon-2  Bottes & Bottines Mixte bébé  Vert  Vert Tricolore 6
 
 [![Kickers Bonbon-2  Bottes & Bottines Mixt](https://m.media-amazon.com/images/I/41bKmlmxOAL._SL200_.jpg)](https://www.amazon.fr/dp/B07SZX8WXL/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07SZX8WXL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [CASINO Thon Entier à l Huile de Tournesol](https://www.amazon.fr/dp/B07
 
 [![CASINO Thon Entier à l Huile de Tourneso](https://m.media-amazon.com/images/I/51W9wv83wbL._SL200_.jpg)](https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

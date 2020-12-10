@@ -22,6 +22,9 @@ Ahora mismo tienes [Proscenic T21 Friteuse à air Grand écran LED Digital et mi
 
 [![Proscenic T21 Friteuse à air Grand écran](https://m.media-amazon.com/images/I/51g-5FJxO6L._SL200_.jpg)](https://www.amazon.fr/dp/B07X3RS4T3/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07X3RS4T3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Levi s 501 Coupe Originale - Jean - Homme - Bleu  Snoot 2744  - 34W / 34L
 
 [![Levi s 501 Coupe Originale - Jean - Homm](https://m.media-amazon.com/images/I/41prtsJ61sL._SL200_.jpg)](https://www.amazon.fr/dp/B07K6ZV81K/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07K6ZV81K/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

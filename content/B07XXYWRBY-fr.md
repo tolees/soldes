@@ -22,6 +22,9 @@ Está [3 Barils Fer à Boucler Fer à Onduler Professionnelle Support en Métal 
 
 [![3 Barils Fer à Boucler Fer à Onduler Pro](https://m.media-amazon.com/images/I/51W8Ys3i-oL._SL200_.jpg)](https://www.amazon.fr/dp/B07XXYWRBY/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07XXYWRBY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X 10
 
 [![KEXWAXX Longue Vue Tir Sportif Puissante](https://m.media-amazon.com/images/I/51Bh3Fcj18L._SL200_.jpg)](https://www.amazon.fr/dp/B08BCC2SY7/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08BCC2SY7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

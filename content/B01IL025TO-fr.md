@@ -22,6 +22,9 @@ Ahora mismo tienes [Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes  lot 
 
 [![Swiftpak 230 x 325 mm SelfSeal clair Pol](https://m.media-amazon.com/images/I/31cml8k2bXL._SL200_.jpg)](https://www.amazon.fr/dp/B01IL025TO/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01IL025TO/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

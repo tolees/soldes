@@ -22,6 +22,9 @@ Está [Belkin Hub Multimédia USB-C avec Câble USB-C Intégré  Dock USB-C pour
 
 [![Belkin Hub Multimédia USB-C avec Câble U](https://m.media-amazon.com/images/I/312dv23lg6L._SL200_.jpg)](https://www.amazon.fr/dp/B07Q3HP6KQ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07Q3HP6KQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

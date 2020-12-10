@@ -22,6 +22,9 @@ Tienes [Apple Watch Series 4  GPS + Cellular  Boîtier en Acier Inoxydable Or 
 
 [![Apple Watch Series 4  GPS + Cellular  Bo](https://m.media-amazon.com/images/I/41Ei0lC-vbL._SL200_.jpg)](https://www.amazon.fr/dp/B07JZQ9LD2/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07JZQ9LD2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Disque Dur Externe 2to  Portable USB3.1 Type-C Disque Dur Externe pour PC
 
 [![Disque Dur Externe 2to  Portable USB3.1 ](https://m.media-amazon.com/images/I/31mRLdTc6IL._SL200_.jpg)](https://www.amazon.fr/dp/B08BHSJ53M/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08BHSJ53M/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

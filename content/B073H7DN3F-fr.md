@@ -22,6 +22,9 @@ Ahora mismo tienes [Sandvik Coromant Qs-3–80ll202034–10 C Coroturn 300 QS 
 
 [![Sandvik Coromant Qs-3–80ll202034–10 C Co](https://m.media-amazon.com/images/I/414WOsP2i+L._SL200_.jpg)](https://www.amazon.fr/dp/B073H7DN3F/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B073H7DN3F/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Levi s 514 Jeans Droits Homme  Bleu  Dryers Supper Adv 1330   34W / 32L]
 
 [![Levi s 514 Jeans Droits Homme  Bleu  Dry](https://m.media-amazon.com/images/I/41j9SnufOdL._SL200_.jpg)](https://www.amazon.fr/dp/B07S2SXBJW/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07S2SXBJW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

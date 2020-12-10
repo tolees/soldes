@@ -22,6 +22,9 @@ Ahora mismo tienes [Beurer TL 90 Lampe de luminothérapie | 10 000 lux | Simulat
 
 [![Beurer TL 90 Lampe de luminothérapie | 1](https://m.media-amazon.com/images/I/219jJnOcj0L._SL200_.jpg)](https://www.amazon.fr/dp/B008TZBN90/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B008TZBN90/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

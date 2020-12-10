@@ -22,6 +22,9 @@ Está [eXtremeRate Coques avec ABXY Boutons de Direction pour Nintendo Switch NS
 
 [![eXtremeRate Coques avec ABXY Boutons de ](https://m.media-amazon.com/images/I/41en2I4Z5EL._SL200_.jpg)](https://www.amazon.fr/dp/B08B5T9D9P/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08B5T9D9P/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

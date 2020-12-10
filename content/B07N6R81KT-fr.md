@@ -22,6 +22,9 @@ Está [Love Moschino Scarpadonna Cassetta  Chaussures de Gymnastique Femme  Noir
 
 [![Love Moschino Scarpadonna Cassetta  Chau](https://m.media-amazon.com/images/I/31c1d0ajIfL._SL200_.jpg)](https://www.amazon.fr/dp/B07N6R81KT/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07N6R81KT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

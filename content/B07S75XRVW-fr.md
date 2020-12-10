@@ -22,6 +22,9 @@ Está [Crocs Classic Vacay Vibes Clog  Sabots Mixte Adulte  Orange  Cantaloupe 8
 
 [![Crocs Classic Vacay Vibes Clog  Sabots M](https://m.media-amazon.com/images/I/31ux4TRFydL._SL200_.jpg)](https://www.amazon.fr/dp/B07S75XRVW/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07S75XRVW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

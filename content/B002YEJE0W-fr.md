@@ -22,6 +22,9 @@ Ahora mismo tienes [Claude Dozorme 2.60.001.55 Coffret Hêtre 6 Couteaux Steak S
 
 [![Claude Dozorme 2.60.001.55 Coffret Hêtre](https://m.media-amazon.com/images/I/41GQWNopFaL._SL200_.jpg)](https://www.amazon.fr/dp/B002YEJE0W/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B002YEJE0W/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

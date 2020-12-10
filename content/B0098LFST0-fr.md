@@ -22,6 +22,9 @@ Ahora mismo tienes [Sharp R-742WW Four micro-ondes  Blanc](https://www.amazon.fr
 
 [![Sharp R-742WW Four micro-ondes  Blanc](https://m.media-amazon.com/images/I/41r9OuYXMzL._SL200_.jpg)](https://www.amazon.fr/dp/B0098LFST0/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0098LFST0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

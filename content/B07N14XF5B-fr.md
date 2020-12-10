@@ -22,6 +22,9 @@ Ahora mismo tienes [Guess W1231L1 Montre Femme](https://www.amazon.fr/dp/B07N14X
 
 [![Guess W1231L1 Montre Femme](https://m.media-amazon.com/images/I/41Ryve5qPEL._SL200_.jpg)](https://www.amazon.fr/dp/B07N14XF5B/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07N14XF5B/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

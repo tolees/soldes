@@ -22,6 +22,9 @@ Ahora mismo tienes [From The Vaults: No Security - San Jose 1999 -The Rolling St
 
 [![From The Vaults: No Security - San Jose ](https://m.media-amazon.com/images/I/51V-TsMpwxL._SL200_.jpg)](https://www.amazon.fr/dp/B001CC7GRK/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B001CC7GRK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Solgaleo-GX SM104A Secrète Gold - #myboost X Sole E Luna 11.5 Destino Sf
 
 [![Solgaleo-GX SM104A Secrète Gold - #myboo](https://m.media-amazon.com/images/I/41-ghBmw19L._SL200_.jpg)](https://www.amazon.fr/dp/B081LPPV7G/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B081LPPV7G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

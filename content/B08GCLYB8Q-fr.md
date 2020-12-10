@@ -22,6 +22,9 @@ Está [Ecouteur Bluetooth Casque Bluetooth sans Fil avec Micro Stereo 15 Heures 
 
 [![Ecouteur Bluetooth Casque Bluetooth sans](https://m.media-amazon.com/images/I/411ze3hhVjL._SL200_.jpg)](https://www.amazon.fr/dp/B08GCLYB8Q/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08GCLYB8Q/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

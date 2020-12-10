@@ -22,6 +22,9 @@ Ahora mismo tienes [Transmetteur FM Bluetooth 5.0 Adaptateur Radio sans Fil Kit 
 
 [![Transmetteur FM Bluetooth 5.0 Adaptateur](https://m.media-amazon.com/images/I/51LBBVRe43L._SL200_.jpg)](https://www.amazon.fr/dp/B08F59W1NQ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08F59W1NQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

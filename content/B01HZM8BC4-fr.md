@@ -22,6 +22,9 @@ Está [Montre Hommes - Pulsar - PQ2055X1](https://www.amazon.fr/dp/B01HZM8BC4/?t
 
 [![Montre Hommes - Pulsar - PQ2055X1](https://m.media-amazon.com/images/I/515zJnzeV4L._SL200_.jpg)](https://www.amazon.fr/dp/B01HZM8BC4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01HZM8BC4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

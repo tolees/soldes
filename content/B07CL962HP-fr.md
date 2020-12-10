@@ -22,6 +22,9 @@ Tienes [Giochi Preziosi – LOL Bigger Surprise  multicolore  llu46000 - Versi
 
 [![Giochi Preziosi – LOL Bigger Surprise  m](https://m.media-amazon.com/images/I/61qA5SGzZRL._SL200_.jpg)](https://www.amazon.fr/dp/B07CL962HP/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07CL962HP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

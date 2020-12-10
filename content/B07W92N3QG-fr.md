@@ -22,6 +22,9 @@ Tienes [Lexibook- Projecteur Planetarium  2-en-1 projette Constellations  étoil
 
 [![Lexibook- Projecteur Planetarium  2-en-1](https://m.media-amazon.com/images/I/41jJw4PskcL._SL200_.jpg)](https://www.amazon.fr/dp/B07W92N3QG/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07W92N3QG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

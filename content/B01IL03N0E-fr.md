@@ -22,6 +22,9 @@ Está [Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable Sacs  lot de 50
 
 [![Swiftpak Pro-loc 305 x 406 mm Heavy Duty](https://m.media-amazon.com/images/I/31Q4+xcRn9L._SL200_.jpg)](https://www.amazon.fr/dp/B01IL03N0E/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01IL03N0E/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

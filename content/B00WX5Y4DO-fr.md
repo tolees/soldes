@@ -22,6 +22,9 @@ Tienes [World Art TWAB20101 Papillons Lampe de Table de Nuit  Verre  E14  25 W  
 
 [![World Art TWAB20101 Papillons Lampe de T](https://m.media-amazon.com/images/I/51dPbclPj0L._SL200_.jpg)](https://www.amazon.fr/dp/B00WX5Y4DO/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00WX5Y4DO/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

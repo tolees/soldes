@@ -22,6 +22,9 @@ Tienes [Levi s 510 Skinny Fit Jeans  Noce Cool 1051  34W / 30L Homme](https://ww
 
 [![Levi s 510 Skinny Fit Jeans  Noce Cool 1](https://m.media-amazon.com/images/I/412b5umPcKL._SL200_.jpg)](https://www.amazon.fr/dp/B07TV6Z5GY/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07TV6Z5GY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

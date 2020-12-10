@@ -22,6 +22,9 @@ Está [XL Or Ensemble de Cadeaux Pierre a Whisky Exclusives en Acier Inoxydable 
 
 [![XL Or Ensemble de Cadeaux Pierre a Whisk](https://m.media-amazon.com/images/I/41dw0R-oAOL._SL200_.jpg)](https://www.amazon.fr/dp/B07FXHDN78/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FXHDN78/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

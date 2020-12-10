@@ -22,6 +22,9 @@ Está [WD - My Book - Disque dur externe de bureau avec sauvegarde - 14 To](http
 
 [![WD - My Book - Disque dur externe de bur](https://m.media-amazon.com/images/I/31RrHf4-TnL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

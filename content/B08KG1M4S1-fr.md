@@ -22,6 +22,9 @@ Ahora mismo tienes [TENGER Technic Excavatrice Blocs de Construction  2.4Ghz APP
 
 [![TENGER Technic Excavatrice Blocs de Cons](https://m.media-amazon.com/images/I/51q5SlfqGjL._SL200_.jpg)](https://www.amazon.fr/dp/B08KG1M4S1/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08KG1M4S1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

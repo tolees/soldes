@@ -22,6 +22,9 @@ Está [Boite Lumineuse Message avec 300 Lettres et Emojis  Télécommande  2 Mar
 
 [![Boite Lumineuse Message avec 300 Lettres](https://m.media-amazon.com/images/I/51hM6iM1VML._SL200_.jpg)](https://www.amazon.fr/dp/B07BPBKJPT/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07BPBKJPT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

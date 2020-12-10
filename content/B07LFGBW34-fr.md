@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s Slim 2pk Crewneck 1 T-Shirt  Multicolore  2 Pack Whit
 
 [![Levi s Slim 2pk Crewneck 1 T-Shirt  Mult](https://m.media-amazon.com/images/I/51XJLEWel8L._SL200_.jpg)](https://www.amazon.fr/dp/B07LFGBW34/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07LFGBW34/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

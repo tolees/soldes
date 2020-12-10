@@ -22,6 +22,9 @@ Está [Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe d arrosage ave
 
 [![Gardena Pompe d arrosage de Surface 4000](https://m.media-amazon.com/images/I/51t-k3G+trL._SL200_.jpg)](https://www.amazon.fr/dp/B0049PAWYQ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0049PAWYQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

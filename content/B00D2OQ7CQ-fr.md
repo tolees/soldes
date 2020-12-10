@@ -22,6 +22,9 @@ Tienes [Cressi HY788051 Sub S.p.A. Ac2 Compact Détendeur DIN](https://www.amazo
 
 [![Cressi HY788051 Sub S.p.A. Ac2 Compact D](https://m.media-amazon.com/images/I/41MkBNdhSlL._SL200_.jpg)](https://www.amazon.fr/dp/B00D2OQ7CQ/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00D2OQ7CQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

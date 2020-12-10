@@ -22,6 +22,9 @@ Tienes [Newton Gravity 8 Chaussure De Course à Pied - 41](https://www.amazon.fr
 
 [![Newton Gravity 8 Chaussure De Course à P](https://m.media-amazon.com/images/I/517+D+nksNL._SL200_.jpg)](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

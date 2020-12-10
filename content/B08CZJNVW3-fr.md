@@ -22,6 +22,9 @@ Ahora mismo tienes [Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Ma
 
 [![Disque Dur Externe 2to USB3.0 SATA  Stoc](https://m.media-amazon.com/images/I/41NqMq8OEoL._SL200_.jpg)](https://www.amazon.fr/dp/B08CZJNVW3/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08CZJNVW3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

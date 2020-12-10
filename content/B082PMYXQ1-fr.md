@@ -22,6 +22,9 @@ Ahora mismo tienes [OfficeWorld 502 XL Multipack Cartouche d encre compatible po
 
 [![OfficeWorld 502 XL Multipack Cartouche d](https://m.media-amazon.com/images/I/51GSsFi02KL._SL200_.jpg)](https://www.amazon.fr/dp/B082PMYXQ1/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B082PMYXQ1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

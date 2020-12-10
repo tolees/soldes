@@ -22,6 +22,9 @@ Ahora mismo tienes [Vidéoprojecteur  WiMiUS 7000 Lumens Full HD 1920x1080P Nati
 
 [![Vidéoprojecteur  WiMiUS 7000 Lumens Full](https://m.media-amazon.com/images/I/31yMVK+vLlL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y8DBKH8/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07Y8DBKH8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Inspire for homes Déshumidificateur & Purificateur d air 2 en 1 - Inspir
 
 [![Inspire for homes Déshumidificateur & Pu](https://m.media-amazon.com/images/I/41uCKMFFL7L._SL200_.jpg)](https://www.amazon.fr/dp/B07Q6GMCGR/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07Q6GMCGR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

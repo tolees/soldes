@@ -22,6 +22,9 @@ Está [G-Star Bronson Slim Chino Pantalon  Bleu  Mazarine Blue 5126-4213   32W /
 
 [![G-Star Bronson Slim Chino Pantalon  Bleu](https://m.media-amazon.com/images/I/31GeKzySh1L._SL200_.jpg)](https://www.amazon.fr/dp/B01BGTOIHY/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01BGTOIHY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

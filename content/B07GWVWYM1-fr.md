@@ -22,6 +22,9 @@ Ahora mismo tienes [FREEGUN Lot 5 DE Boxers Flag Homme Taille M …](https://www
 
 [![FREEGUN Lot 5 DE Boxers Flag Homme Taill](https://m.media-amazon.com/images/I/51aELWUTGDL._SL200_.jpg)](https://www.amazon.fr/dp/B07GWVWYM1/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07GWVWYM1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

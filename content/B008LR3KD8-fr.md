@@ -22,6 +22,9 @@ Está [Philips - HF3520/01 - Eveil Lumière avec Lampe LED - Fonction Red Shift]
 
 [![Philips - HF3520/01 - Eveil Lumière avec](https://m.media-amazon.com/images/I/41x+qqVsngL._SL200_.jpg)](https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

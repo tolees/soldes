@@ -22,6 +22,9 @@ Está [Replay Anbass Jean Slim  Beige  Sand 10   W33/L34  Taille Fabricant: 33  
 
 [![Replay Anbass Jean Slim  Beige  Sand 10 ](https://m.media-amazon.com/images/I/31wFeqe8ImL._SL200_.jpg)](https://www.amazon.fr/dp/B07KK3MBQY/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KK3MBQY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Schwarzkopf - Gliss - Masque Cheveux - Ultimate Repair - 200 ml](https://
 
 [![Schwarzkopf - Gliss - Masque Cheveux - U](https://m.media-amazon.com/images/I/51Ixxaii1uL._SL200_.jpg)](https://www.amazon.fr/dp/B082VSSPLM/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B082VSSPLM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

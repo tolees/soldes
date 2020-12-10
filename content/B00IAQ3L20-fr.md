@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony MDR-HW700DS Casque TV sans fil avec son Numérique Surr
 
 [![Sony MDR-HW700DS Casque TV sans fil avec](https://m.media-amazon.com/images/I/41unf3QqDWL._SL200_.jpg)](https://www.amazon.fr/dp/B00IAQ3L20/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00IAQ3L20/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

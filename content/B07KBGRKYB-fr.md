@@ -22,6 +22,9 @@ Está [Crocs Crocband Flip  Tongs Mixte Adulte  Bleu  Bright Cobalt/White   36/3
 
 [![Crocs Crocband Flip  Tongs Mixte Adulte ](https://m.media-amazon.com/images/I/514jASj8jPL._SL200_.jpg)](https://www.amazon.fr/dp/B07KBGRKYB/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KBGRKYB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

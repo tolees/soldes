@@ -22,6 +22,9 @@ Está [Versa - Tabouret de chamdre avec Romantic Patchwork](https://www.amazon.f
 
 [![Versa - Tabouret de chamdre avec Romanti](https://m.media-amazon.com/images/I/51o0qsmuznL._SL200_.jpg)](https://www.amazon.fr/dp/B00TDPM73G/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00TDPM73G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

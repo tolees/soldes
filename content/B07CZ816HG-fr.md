@@ -22,6 +22,9 @@ Está [Under Armour UA Roland Backpack Hydrofuge Pratique  Sac à Dos Polyvalent
 
 [![Under Armour UA Roland Backpack Hydrofug](https://m.media-amazon.com/images/I/4182KU5DfxL._SL200_.jpg)](https://www.amazon.fr/dp/B07CZ816HG/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07CZ816HG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

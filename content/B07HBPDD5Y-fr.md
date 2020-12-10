@@ -22,6 +22,9 @@ Tienes [ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura Sync - Connectiq
 
 [![ASUS - Casque Gamer ROG Delta 7.1 Virtue](https://m.media-amazon.com/images/I/41ldzkm9IbL._SL200_.jpg)](https://www.amazon.fr/dp/B07HBPDD5Y/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07HBPDD5Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

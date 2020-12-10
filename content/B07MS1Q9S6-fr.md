@@ -22,6 +22,9 @@ Ahora mismo tienes [RECCI sur Matelas a Memoire de Forme de 6cm  Surmatelas 90x2
 
 [![RECCI sur Matelas a Memoire de Forme de ](https://m.media-amazon.com/images/I/41bHxW1FTTL._SL200_.jpg)](https://www.amazon.fr/dp/B07MS1Q9S6/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07MS1Q9S6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

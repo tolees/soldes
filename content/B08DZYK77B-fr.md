@@ -22,6 +22,9 @@ Está [XIDISO Basket de Homme Chaussures de Sport Running Course Sport Fitness S
 
 [![XIDISO Basket de Homme Chaussures de Spo](https://m.media-amazon.com/images/I/41DXitt3MmL._SL200_.jpg)](https://www.amazon.fr/dp/B08DZYK77B/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08DZYK77B/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

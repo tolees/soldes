@@ -22,6 +22,9 @@ Está [Thomas Sabo montre CODE TS unisexe Acier inoxydable WA0338-201-202-40 mm]
 
 [![Thomas Sabo montre CODE TS unisexe Acier](https://m.media-amazon.com/images/I/41UnL0JrDUL._SL200_.jpg)](https://www.amazon.fr/dp/B07NGKZPYL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NGKZPYL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

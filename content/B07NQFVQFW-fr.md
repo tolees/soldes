@@ -22,6 +22,9 @@ Está [Lagostina 12143040122 Poêle à frire](https://www.amazon.fr/dp/B07NQFVQF
 
 [![Lagostina 12143040122 Poêle à frire](https://m.media-amazon.com/images/I/31xsagnqpfL._SL200_.jpg)](https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

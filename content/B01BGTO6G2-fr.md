@@ -22,6 +22,9 @@ Tienes [G-Star Bronson Slim Chino Pantalon  Grey  GS Grey 5126-1260   31W / 32L 
 
 [![G-Star Bronson Slim Chino Pantalon  Grey](https://m.media-amazon.com/images/I/31ZfTGAZ8FL._SL200_.jpg)](https://www.amazon.fr/dp/B01BGTO6G2/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01BGTO6G2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

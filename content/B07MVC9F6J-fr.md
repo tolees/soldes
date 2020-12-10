@@ -22,6 +22,9 @@ Está [Napapijri Axstral Blouson  Noir  Black 041   X-Large Homme](https://www.a
 
 [![Napapijri Axstral Blouson  Noir  Black 0](https://m.media-amazon.com/images/I/41cU+f6IKzL._SL200_.jpg)](https://www.amazon.fr/dp/B07MVC9F6J/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07MVC9F6J/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

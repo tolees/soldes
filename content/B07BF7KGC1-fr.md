@@ -22,6 +22,9 @@ Tienes [s.Oliver BLACK LABEL 02.899.73.4420 Pantalon De Costume  Bleu  Dark Blue
 
 [![s.Oliver BLACK LABEL 02.899.73.4420 Pant](https://m.media-amazon.com/images/I/41XZWugeYaL._SL200_.jpg)](https://www.amazon.fr/dp/B07BF7KGC1/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07BF7KGC1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

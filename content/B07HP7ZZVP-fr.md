@@ -22,6 +22,9 @@ Ahora mismo tienes [Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz  DDR4  DR
 
 [![Crucial Ballistix Sport LT BLS16G4D30BES](https://m.media-amazon.com/images/I/31-gjikzY4L._SL200_.jpg)](https://www.amazon.fr/dp/B07HP7ZZVP/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07HP7ZZVP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

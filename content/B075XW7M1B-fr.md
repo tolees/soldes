@@ -22,6 +22,9 @@ Ahora mismo tienes [Ultimate Ears Megablast Enceinte sans Fil Portable Connecté
 
 [![Ultimate Ears Megablast Enceinte sans Fi](https://m.media-amazon.com/images/I/41o9nDBmwML._SL200_.jpg)](https://www.amazon.fr/dp/B075XW7M1B/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B075XW7M1B/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

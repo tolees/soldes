@@ -22,6 +22,9 @@ Está [Trangoworld Bomio IP  Chaussures de Randonnée Basses Mixte Adulte  Marro
 
 [![Trangoworld Bomio IP  Chaussures de Rand](https://m.media-amazon.com/images/I/41IOX3VpCNL._SL200_.jpg)](https://www.amazon.fr/dp/B075YZG7TQ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B075YZG7TQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

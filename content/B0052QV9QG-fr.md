@@ -22,6 +22,9 @@ Está [EL1600USBFR ELLIP ECO 1600 USB](https://www.amazon.fr/dp/B0052QV9QG/?tag=
 
 [![EL1600USBFR ELLIP ECO 1600 USB](https://m.media-amazon.com/images/I/314QEYI3C0L._SL200_.jpg)](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

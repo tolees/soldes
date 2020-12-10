@@ -22,6 +22,9 @@ Está [VAUDE  12438 Sac à Dos Femme  Blueberry  52 L](https://www.amazon.fr/dp/
 
 [![VAUDE  12438 Sac à Dos Femme  Blueberry ](https://m.media-amazon.com/images/I/51Ts8Rb7EKL._SL200_.jpg)](https://www.amazon.fr/dp/B01M0I6FAW/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01M0I6FAW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

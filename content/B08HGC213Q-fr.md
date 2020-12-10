@@ -22,6 +22,9 @@ Ahora mismo tienes [LK Coque pour Xiaomi Mi Note 10 / Mi Note 10 Pro  avec [2 ×
 
 [![LK Coque pour Xiaomi Mi Note 10 / Mi Not](https://m.media-amazon.com/images/I/51zXYbC1csL._SL200_.jpg)](https://www.amazon.fr/dp/B08HGC213Q/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08HGC213Q/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

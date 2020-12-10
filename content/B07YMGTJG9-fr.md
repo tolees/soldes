@@ -22,6 +22,9 @@ Está [Chie Mihara abra  Sandales Bride Cheville Femmes  Noir  Ante Negro Ante S
 
 [![Chie Mihara abra  Sandales Bride Chevill](https://m.media-amazon.com/images/I/41LuYCad82L._SL200_.jpg)](https://www.amazon.fr/dp/B07YMGTJG9/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07YMGTJG9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

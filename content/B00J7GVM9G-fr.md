@@ -22,6 +22,9 @@ Está [Zwilling 66060-000 Passion Batterie de cuisine Acier Inoxydable Aluminium
 
 [![Zwilling 66060-000 Passion Batterie de c](https://m.media-amazon.com/images/I/41SCj0bjCRL._SL200_.jpg)](https://www.amazon.fr/dp/B00J7GVM9G/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00J7GVM9G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

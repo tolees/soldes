@@ -22,6 +22,9 @@ Está [Tommy Jeans Femma Nora Mr Skinny Ankle Zip Rnl Straight Jeans  Bleu  Rein
 
 [![Tommy Jeans Femma Nora Mr Skinny Ankle Z](https://m.media-amazon.com/images/I/41l6-XzJmOL._SL200_.jpg)](https://www.amazon.fr/dp/B07VZZ9ZFZ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07VZZ9ZFZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

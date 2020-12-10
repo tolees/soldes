@@ -22,6 +22,9 @@ Está [LK Coque pour Xiaomi Redmi 9A [Antidérapant] Souple Flexible Silicone Ge
 
 [![LK Coque pour Xiaomi Redmi 9A [Antidérap](https://m.media-amazon.com/images/I/51NT7SAb0zL._SL200_.jpg)](https://www.amazon.fr/dp/B08FFLLY2H/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08FFLLY2H/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

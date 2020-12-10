@@ -22,6 +22,9 @@ Tienes [DELSEY PARIS - SEGUR 2.0 - Valise cabine rigide à double roues et serru
 
 [![DELSEY PARIS - SEGUR 2.0 - Valise cabine](https://m.media-amazon.com/images/I/41WMbHAUiUL._SL200_.jpg)](https://www.amazon.fr/dp/B07NC41YPD/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07NC41YPD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

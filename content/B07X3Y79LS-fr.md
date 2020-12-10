@@ -22,6 +22,9 @@ Ahora mismo tienes [Pop Energizer Bunny Vinyl Figure](https://www.amazon.fr/dp/B
 
 [![Pop Energizer Bunny Vinyl Figure](https://m.media-amazon.com/images/I/414VePfq+0L._SL200_.jpg)](https://www.amazon.fr/dp/B07X3Y79LS/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07X3Y79LS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

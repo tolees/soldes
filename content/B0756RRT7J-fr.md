@@ -22,6 +22,9 @@ Está [KKmoon Oscilloscope de Signal 2CH Oscilloscope de Stockage Numérique +1 
 
 [![KKmoon Oscilloscope de Signal 2CH Oscill](https://m.media-amazon.com/images/I/41GUJ0CJwtL._SL200_.jpg)](https://www.amazon.fr/dp/B0756RRT7J/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0756RRT7J/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [LK 2 pièces Verre Trempé pour Samsung Galaxy A51 Protecteur d écran + 
 
 [![LK 2 pièces Verre Trempé pour Samsung Ga](https://m.media-amazon.com/images/I/51tAuGu-GxL._SL200_.jpg)](https://www.amazon.fr/dp/B08HD8WZHV/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08HD8WZHV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

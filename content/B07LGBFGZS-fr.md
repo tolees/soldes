@@ -22,6 +22,9 @@ Está [Nike WMNS Air Zoom Pegasus 36 Trail  Chaussure de Course Femme  Gris  Oil
 
 [![Nike WMNS Air Zoom Pegasus 36 Trail  Cha](https://m.media-amazon.com/images/I/41QoJ2rX6JL._SL200_.jpg)](https://www.amazon.fr/dp/B07LGBFGZS/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07LGBFGZS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [S72 / Sport Digital Camera](https://www.amazon.fr/dp/B0777P8
 
 [![S72 / Sport Digital Camera](https://m.media-amazon.com/images/I/41ixV5SodcL._SL200_.jpg)](https://www.amazon.fr/dp/B0777P8HCS/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0777P8HCS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

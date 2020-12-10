@@ -22,6 +22,9 @@ Está [St Marc  Lingettes Desinfectantes et Nettoyantes Parfum Agrumes Soleil de
 
 [![St Marc  Lingettes Desinfectantes et Net](https://m.media-amazon.com/images/I/41MM1qtXvaL._SL200_.jpg)](https://www.amazon.fr/dp/B07R6YJFMH/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07R6YJFMH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

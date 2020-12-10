@@ -22,6 +22,9 @@ Está [Streets of Rage 4](https://www.amazon.fr/dp/B0886WPWZX/?tag=tolees0d-21) 
 
 [![Streets of Rage 4](https://m.media-amazon.com/images/I/513Aw5p4TAL._SL200_.jpg)](https://www.amazon.fr/dp/B0886WPWZX/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0886WPWZX/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Britax Römer Poussette citadine | Naissance à 4 ans |  B-AGILE M | Navy
 
 [![Britax Römer Poussette citadine | Naissa](https://m.media-amazon.com/images/I/318KM2NDykL._SL200_.jpg)](https://www.amazon.fr/dp/B082J3Z6JD/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B082J3Z6JD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [MSI Pack Loot Box GE-GS RTX Gaming](https://www.amazon.fr/dp/B07RRDMM9W/?
 
 [![MSI Pack Loot Box GE-GS RTX Gaming](https://m.media-amazon.com/images/I/41IxGExbr1L._SL200_.jpg)](https://www.amazon.fr/dp/B07RRDMM9W/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RRDMM9W/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

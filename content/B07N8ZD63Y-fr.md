@@ -22,6 +22,9 @@ Tienes [Foscam - FI9902P - Caméra IP Wi-FI extérieure 1080P](https://www.amazo
 
 [![Foscam - FI9902P - Caméra IP Wi-FI extér](https://m.media-amazon.com/images/I/31kzWtVOKkL._SL200_.jpg)](https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

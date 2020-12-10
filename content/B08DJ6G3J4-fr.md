@@ -22,6 +22,9 @@ Tienes [Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe pour PC  Mac  Or
 
 [![Disque Dur Externe 1to Type C USB3.1 Dis](https://m.media-amazon.com/images/I/31WsZ9gz4KL._SL200_.jpg)](https://www.amazon.fr/dp/B08DJ6G3J4/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08DJ6G3J4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

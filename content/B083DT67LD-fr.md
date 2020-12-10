@@ -22,6 +22,9 @@ Tienes [TV Box Android 10.0  QPLOVE Q8 TV Box 【4G+128G】 Android  RK3318 Quad
 
 [![TV Box Android 10.0  QPLOVE Q8 TV Box 【4](https://m.media-amazon.com/images/I/51ILCKMMVDL._SL200_.jpg)](https://www.amazon.fr/dp/B083DT67LD/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B083DT67LD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

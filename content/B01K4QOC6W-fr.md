@@ -22,6 +22,9 @@ Ahora mismo tienes [TomTom GPS Voiture GO 6200 - 6 Pouces  Cartographie Monde  T
 
 [![TomTom GPS Voiture GO 6200 - 6 Pouces  C](https://m.media-amazon.com/images/I/51AIKJo1AcL._SL200_.jpg)](https://www.amazon.fr/dp/B01K4QOC6W/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01K4QOC6W/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [ATMOKO Masseur à Epaule et Cou avec Shiatsu 8 Nœuds  Appar
 
 [![ATMOKO Masseur à Epaule et Cou avec Shia](https://m.media-amazon.com/images/I/51c-XbyBw6L._SL200_.jpg)](https://www.amazon.fr/dp/B0721Q7KGW/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0721Q7KGW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

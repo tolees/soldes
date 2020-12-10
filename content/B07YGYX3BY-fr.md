@@ -22,6 +22,9 @@ Está [IKKS Junior Combi Short MC Combinaison  Vert  Kaki 56   8 Ans  Taille Fab
 
 [![IKKS Junior Combi Short MC Combinaison  ](https://m.media-amazon.com/images/I/31J97FxuabL._SL200_.jpg)](https://www.amazon.fr/dp/B07YGYX3BY/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07YGYX3BY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

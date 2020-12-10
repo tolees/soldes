@@ -22,6 +22,9 @@ Está [Pentel SESF30C Brush Sign Pen Artist Feutre Pinceau Pointe Extra Fine poc
 
 [![Pentel SESF30C Brush Sign Pen Artist Feu](https://m.media-amazon.com/images/I/41EaSrjkUoL._SL200_.jpg)](https://www.amazon.fr/dp/B07QC84PPP/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07QC84PPP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

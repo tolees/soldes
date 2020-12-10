@@ -22,6 +22,9 @@ Está [Hoopzi - Hang 5 - Suspension Luminaire Avec Cache Douille Acier - Lustre 
 
 [![Hoopzi - Hang 5 - Suspension Luminaire A](https://m.media-amazon.com/images/I/41djkmDeFrL._SL200_.jpg)](https://www.amazon.fr/dp/B0788BPG8K/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0788BPG8K/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

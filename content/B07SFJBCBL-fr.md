@@ -22,6 +22,9 @@ Está [Levi s WOODWARD L  Baskets Hommes  Blanc  Regular White 51   44 EU](https
 
 [![Levi s WOODWARD L  Baskets Hommes  Blanc](https://m.media-amazon.com/images/I/41odBMS+YuL._SL200_.jpg)](https://www.amazon.fr/dp/B07SFJBCBL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07SFJBCBL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

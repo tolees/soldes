@@ -22,6 +22,9 @@ Está [Disque Dur Externe 1to  Disque Dur Externe USB3.1 Type-C Portable pour PC
 
 [![Disque Dur Externe 1to  Disque Dur Exter](https://m.media-amazon.com/images/I/310nSvn-CsL._SL200_.jpg)](https://www.amazon.fr/dp/B08CZ8SHHK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08CZ8SHHK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

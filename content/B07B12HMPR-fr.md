@@ -22,6 +22,9 @@ Está [LEGO Unikitty - La voiture dans les nuages de Unikitty - 41451 - Jeu de c
 
 [![LEGO Unikitty - La voiture dans les nuag](https://m.media-amazon.com/images/I/51BX1T6ZcnL._SL200_.jpg)](https://www.amazon.fr/dp/B07B12HMPR/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07B12HMPR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

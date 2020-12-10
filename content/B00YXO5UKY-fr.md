@@ -22,6 +22,9 @@ Ahora mismo tienes [Turtle Beach Recon 50P Casque Gaming - PS4  PS5  Xbox One  N
 
 [![Turtle Beach Recon 50P Casque Gaming - P](https://m.media-amazon.com/images/I/41c6gKlbUvL._SL200_.jpg)](https://www.amazon.fr/dp/B00YXO5UKY/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00YXO5UKY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

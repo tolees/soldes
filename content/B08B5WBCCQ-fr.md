@@ -22,6 +22,9 @@ Está [ORICO Boîtier Disque Dur 2 5     Boîtier Externe Portable USB3.0 vers S
 
 [![ORICO Boîtier Disque Dur 2 5     Boîtier](https://m.media-amazon.com/images/I/41HGP0K4zvL._SL200_.jpg)](https://www.amazon.fr/dp/B08B5WBCCQ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08B5WBCCQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

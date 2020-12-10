@@ -22,6 +22,9 @@ Ahora mismo tienes [Playmobil - Grand Camping - 70087](https://www.amazon.fr/dp/
 
 [![Playmobil - Grand Camping - 70087](https://m.media-amazon.com/images/I/51eQQqBThUL._SL200_.jpg)](https://www.amazon.fr/dp/B07JMCCF85/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07JMCCF85/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

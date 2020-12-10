@@ -22,6 +22,9 @@ Está [DE BUYER -3125.16 -moule a charlotte inox 18/10s/couv.ø16](https://www.a
 
 [![DE BUYER -3125.16 -moule a charlotte ino](https://m.media-amazon.com/images/I/31BTdQV2w4L._SL200_.jpg)](https://www.amazon.fr/dp/B001CFI9A0/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B001CFI9A0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

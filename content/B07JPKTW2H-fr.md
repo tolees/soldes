@@ -22,6 +22,9 @@ Tienes [Amazon Essentials Half-Zip Active Jacket Outerwear  Rose  Large](https:/
 
 [![Amazon Essentials Half-Zip Active Jacket](https://m.media-amazon.com/images/I/417PvUXXrmL._SL200_.jpg)](https://www.amazon.fr/dp/B07JPKTW2H/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07JPKTW2H/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

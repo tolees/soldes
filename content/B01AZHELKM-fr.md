@@ -22,6 +22,9 @@ Está [New Balance 500 Core  Baskets Homme  Bleu  Navy/Grey Navy   43 EU](https:
 
 [![New Balance 500 Core  Baskets Homme  Ble](https://m.media-amazon.com/images/I/41JYhQNkPPL._SL200_.jpg)](https://www.amazon.fr/dp/B01AZHELKM/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01AZHELKM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

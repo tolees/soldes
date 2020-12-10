@@ -22,6 +22,9 @@ Está [Muzili Écouteurs Bluetooth sans Fil Sport Étanches IPX7 Anti-Bruit CVC 
 
 [![Muzili Écouteurs Bluetooth sans Fil Spor](https://m.media-amazon.com/images/I/41Cn1I27FUL._SL200_.jpg)](https://www.amazon.fr/dp/B0861CV1GZ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0861CV1GZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

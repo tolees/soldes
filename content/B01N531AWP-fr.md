@@ -22,6 +22,9 @@ Está [Fleximounts A04 Support Mural TV Ultra Pivotant et Inclinable pour Les é
 
 [![Fleximounts A04 Support Mural TV Ultra P](https://m.media-amazon.com/images/I/419q0dwXTbL._SL200_.jpg)](https://www.amazon.fr/dp/B01N531AWP/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01N531AWP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

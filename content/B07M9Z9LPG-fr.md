@@ -22,6 +22,9 @@ Está [Le Tanneur Gaspard TGAS4000  Hommes  Noir  Noir   7.5x30.5x38.5 cm  W x H
 
 [![Le Tanneur Gaspard TGAS4000  Hommes  Noi](https://m.media-amazon.com/images/I/41RT1R71LuL._SL200_.jpg)](https://www.amazon.fr/dp/B07M9Z9LPG/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07M9Z9LPG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

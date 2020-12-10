@@ -22,6 +22,9 @@ Está [Arlo Pro 2 | Caméra de surveillance 100% Sans Fils - Pack de 3  batterie
 
 [![Arlo Pro 2 | Caméra de surveillance 100%](https://m.media-amazon.com/images/I/31XT8u4J0rL._SL200_.jpg)](https://www.amazon.fr/dp/B0777TMW1Y/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0777TMW1Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

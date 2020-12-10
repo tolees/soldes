@@ -22,6 +22,9 @@ Está [Bluetooth Headset 5.0 écouteurs sans Fil Bluetooth 3D Stéréo HiFi Micr
 
 [![Bluetooth Headset 5.0 écouteurs sans Fil](https://m.media-amazon.com/images/I/51--fMILF6L._SL200_.jpg)](https://www.amazon.fr/dp/B08DCF8FKS/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08DCF8FKS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

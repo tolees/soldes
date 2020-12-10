@@ -22,6 +22,9 @@ Está [Tommy Hilfiger M2285Axwell 11C1  Baskets Basses Homme  Gris  Midnight   4
 
 [![Tommy Hilfiger M2285Axwell 11C1  Baskets](https://m.media-amazon.com/images/I/41xswluIufL._SL200_.jpg)](https://www.amazon.fr/dp/B06ZY2BWT5/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B06ZY2BWT5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

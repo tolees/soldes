@@ -22,6 +22,9 @@ Ahora mismo tienes [The Legend of Heroes: Trails of Cold Steel 2](https://www.am
 
 [![The Legend of Heroes: Trails of Cold Ste](https://m.media-amazon.com/images/I/51ePVOs48oL._SL200_.jpg)](https://www.amazon.fr/dp/B07M7VP6YX/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07M7VP6YX/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

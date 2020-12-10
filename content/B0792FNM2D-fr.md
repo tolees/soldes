@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips QP620/50 OneBlade Kit Lames Visage + Corps  2 Lames 
 
 [![Philips QP620/50 OneBlade Kit Lames Visa](https://m.media-amazon.com/images/I/51X-j3oCxML._SL200_.jpg)](https://www.amazon.fr/dp/B0792FNM2D/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0792FNM2D/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

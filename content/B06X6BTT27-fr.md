@@ -22,6 +22,9 @@ Tienes [Rowenta VU6620F0 Ventilateur Colonne sur Pied Eole Infinite 3 Vitesses T
 
 [![Rowenta VU6620F0 Ventilateur Colonne sur](https://m.media-amazon.com/images/I/31r5nSeM2uL._SL200_.jpg)](https://www.amazon.fr/dp/B06X6BTT27/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06X6BTT27/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

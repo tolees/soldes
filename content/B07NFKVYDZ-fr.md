@@ -22,6 +22,9 @@ Está [Kipling LICIA Cartable  49 cm  20 liters  Multicolore  Hearty Pink Met ](
 
 [![Kipling LICIA Cartable  49 cm  20 liters](https://m.media-amazon.com/images/I/41dzAPtmCLL._SL200_.jpg)](https://www.amazon.fr/dp/B07NFKVYDZ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NFKVYDZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

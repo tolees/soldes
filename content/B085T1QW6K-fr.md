@@ -22,6 +22,9 @@ Ahora mismo tienes [QITAYO Verre Trempé pour Xiaomi Mi 10 / Xiaomi Mi 10 Pro  K
 
 [![QITAYO Verre Trempé pour Xiaomi Mi 10 / ](https://m.media-amazon.com/images/I/51Vbr-6Ya0L._SL200_.jpg)](https://www.amazon.fr/dp/B085T1QW6K/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B085T1QW6K/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

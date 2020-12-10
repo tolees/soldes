@@ -22,6 +22,9 @@ Está [Lagrange 429002 Pâtes Créativ  Blanc 30 x 16 x 35 cm](https://www.amazo
 
 [![Lagrange 429002 Pâtes Créativ  Blanc 30 ](https://m.media-amazon.com/images/I/41DKgrPFZSL._SL200_.jpg)](https://www.amazon.fr/dp/B0105WQL1Y/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0105WQL1Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

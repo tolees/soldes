@@ -22,6 +22,9 @@ Tienes [Scotch & Soda AMS Blauw Light Weight Shirt with Contrast Print Details C
 
 [![Scotch & Soda AMS Blauw Light Weight Shi](https://m.media-amazon.com/images/I/317Pvgxa+oL._SL200_.jpg)](https://www.amazon.fr/dp/B07JNGKB5G/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07JNGKB5G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

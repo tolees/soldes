@@ -22,6 +22,9 @@ Está [Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba Collectible Figur
 
 [![Funko-Figurines Pop Vinyl: Disney: The L](https://m.media-amazon.com/images/I/41dH815KGcL._SL200_.jpg)](https://www.amazon.fr/dp/B07KPSBXR3/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KPSBXR3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [PROACC Tapis de Jeu pour Piano  Jouet de Tapis de Musique pour Piano pour
 
 [![PROACC Tapis de Jeu pour Piano  Jouet de](https://m.media-amazon.com/images/I/51BohdHJXdL._SL200_.jpg)](https://www.amazon.fr/dp/B07J6QKXFC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07J6QKXFC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Kickers - KICK COL 621514-30-92 - Bottes & bottines souples  Unisexe - Ma
 
 [![Kickers - KICK COL 621514-30-92 - Bottes](https://m.media-amazon.com/images/I/41qtMRGTNXL._SL200_.jpg)](https://www.amazon.fr/dp/B07KK11H4Y/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KK11H4Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

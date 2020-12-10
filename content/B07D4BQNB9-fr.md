@@ -22,6 +22,9 @@ Ahora mismo tienes [Monrinda Unisex Chaussure de Sport Femme Basket de Running F
 
 [![Monrinda Unisex Chaussure de Sport Femme](https://m.media-amazon.com/images/I/5115SiGMr4L._SL200_.jpg)](https://www.amazon.fr/dp/B07D4BQNB9/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07D4BQNB9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

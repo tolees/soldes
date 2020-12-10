@@ -22,6 +22,9 @@ Está [Aspirateur Souffleur Broyeur Bosch - ALS 30  3000W  jusqu à 300km/h  sac
 
 [![Aspirateur Souffleur Broyeur Bosch - ALS](https://m.media-amazon.com/images/I/41Q-Cxhx53L._SL200_.jpg)](https://www.amazon.fr/dp/B0119VB2PA/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0119VB2PA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à 15 6"  Rési
 
 [![HP Sacoche Classique 15.6 pour Ordinateu](https://m.media-amazon.com/images/I/41dWnOGxiDL._SL200_.jpg)](https://www.amazon.fr/dp/B06XVRX81R/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XVRX81R/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

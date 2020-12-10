@@ -22,6 +22,9 @@ Ahora mismo tienes [Tefal RK102811 Classic Cuiseur à Riz Noir Métallisé](http
 
 [![Tefal RK102811 Classic Cuiseur à Riz Noi](https://m.media-amazon.com/images/I/41uKluEDv4L._SL200_.jpg)](https://www.amazon.fr/dp/B00V8ZQKGO/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00V8ZQKGO/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

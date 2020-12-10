@@ -22,6 +22,9 @@ Está [Kaporal - T-Shirt à Manches Courtes  col v  Coupe ajustée - Rap - Femme
 
 [![Kaporal - T-Shirt à Manches Courtes  col](https://m.media-amazon.com/images/I/41DNq-+qq-L._SL200_.jpg)](https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

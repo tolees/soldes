@@ -22,6 +22,9 @@ Está [Geemarc Telecom TÉLÉPHONE SANS FIL AVEC 10 MÉMOIRES PHOTOS DIRECTES et
 
 [![Geemarc Telecom TÉLÉPHONE SANS FIL AVEC ](https://m.media-amazon.com/images/I/51t13ScxHBL._SL200_.jpg)](https://www.amazon.fr/dp/B0771R1NGV/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0771R1NGV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

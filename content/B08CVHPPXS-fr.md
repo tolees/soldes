@@ -22,6 +22,9 @@ Ahora mismo tienes [Disque Dur Externe 2to  Disque Dur Externe USB3.1/Type C pou
 
 [![Disque Dur Externe 2to  Disque Dur Exter](https://m.media-amazon.com/images/I/21-o91unJHL._SL200_.jpg)](https://www.amazon.fr/dp/B08CVHPPXS/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08CVHPPXS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

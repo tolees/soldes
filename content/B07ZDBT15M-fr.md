@@ -22,6 +22,9 @@ Está [DD SSD KINGSTON KC600 2.5 SATA3 512GO  SKC600/512G *0253](https://www.ama
 
 [![DD SSD KINGSTON KC600 2.5 SATA3 512GO  S](https://m.media-amazon.com/images/I/31mmmCmEM7L._SL200_.jpg)](https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

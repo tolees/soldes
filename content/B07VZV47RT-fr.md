@@ -22,6 +22,9 @@ Tienes [HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse de couette e
 
 [![HOHAI Parure de lit 3 pièces Marilyn Mon](https://m.media-amazon.com/images/I/51Asmu9idPL._SL200_.jpg)](https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

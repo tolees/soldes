@@ -22,6 +22,9 @@ Está [Sitram COCOTTE en Fonte d acier EMAILLE  Acier  Orange et Blanc  9L](http
 
 [![Sitram COCOTTE en Fonte d acier EMAILLE ](https://m.media-amazon.com/images/I/31rjaMcc0RL._SL200_.jpg)](https://www.amazon.fr/dp/B084M4RQPH/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B084M4RQPH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Skechers Go Run Steady  Baskets Femme  Noir Black Textile/Hot Pink Trim 
 
 [![Skechers Go Run Steady  Baskets Femme  N](https://m.media-amazon.com/images/I/41YtDbIK9oL._SL200_.jpg)](https://www.amazon.fr/dp/B07N14HG6J/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07N14HG6J/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Fossil Homme Bracelet JF02934040](https://www.amazon.fr/dp/B07FFQGSMM/?ta
 
 [![Fossil Homme Bracelet JF02934040](https://m.media-amazon.com/images/I/41GCKHeRhsL._SL200_.jpg)](https://www.amazon.fr/dp/B07FFQGSMM/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FFQGSMM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

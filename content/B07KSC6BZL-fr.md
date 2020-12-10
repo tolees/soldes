@@ -22,6 +22,9 @@ Está [Marc Cain Collections T- Shirt  Multicolore  Scarlet 272   40  Taille Fab
 
 [![Marc Cain Collections T- Shirt  Multicol](https://m.media-amazon.com/images/I/41UfmpBpNHL._SL200_.jpg)](https://www.amazon.fr/dp/B07KSC6BZL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KSC6BZL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

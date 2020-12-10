@@ -22,6 +22,9 @@ Está [Manfrotto MM290A4 Monopode pour Appareil photo Noir](https://www.amazon.f
 
 [![Manfrotto MM290A4 Monopode pour Appareil](https://m.media-amazon.com/images/I/31RoduHp6fL._SL200_.jpg)](https://www.amazon.fr/dp/B013SK0C6U/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B013SK0C6U/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

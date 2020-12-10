@@ -22,6 +22,9 @@ Ahora mismo tienes [Galuchon - Sac à Dos Lumineux  Clignotants et GPS connecté
 
 [![Galuchon - Sac à Dos Lumineux  Clignotan](https://m.media-amazon.com/images/I/41tR-R-2EJL._SL200_.jpg)](https://www.amazon.fr/dp/B07HY5XVM5/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07HY5XVM5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

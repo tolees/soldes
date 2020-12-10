@@ -22,6 +22,9 @@ Está [Azzaro Item  Bottes Chelsea homme  Marron  43 EU](https://www.amazon.fr/d
 
 [![Azzaro Item  Bottes Chelsea homme  Marro](https://m.media-amazon.com/images/I/31l5pG90xLL._SL200_.jpg)](https://www.amazon.fr/dp/B00GD97AHI/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00GD97AHI/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Columbia Homme Veste d Hiver  Marquam Peak Jacket  Polyester  Rouge  Red 
 
 [![Columbia Homme Veste d Hiver  Marquam Pe](https://m.media-amazon.com/images/I/41ajXJT7aRL._SL200_.jpg)](https://www.amazon.fr/dp/B07DYTTNCY/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07DYTTNCY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

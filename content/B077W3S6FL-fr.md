@@ -22,6 +22,9 @@ Ahora mismo tienes [ASICS Gel-Kayano 24  Chaussures de Running Homme  Bleu  Smok
 
 [![ASICS Gel-Kayano 24  Chaussures de Runni](https://m.media-amazon.com/images/I/51FjZJMLblL._SL200_.jpg)](https://www.amazon.fr/dp/B077W3S6FL/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B077W3S6FL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

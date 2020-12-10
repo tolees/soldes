@@ -22,6 +22,9 @@ Está [Onduleur Eaton Ellipse ECO 650 USB FR - Off-line UPS - EL650USBFR - 650VA
 
 [![Onduleur Eaton Ellipse ECO 650 USB FR - ](https://m.media-amazon.com/images/I/31KDPHegU6L._SL200_.jpg)](https://www.amazon.fr/dp/B0052QV9MK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0052QV9MK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

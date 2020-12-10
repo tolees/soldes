@@ -22,6 +22,9 @@ Está [Clarks Mena Blossom  Escarpins Femme  Argenté  Champagne-   41 EU](https
 
 [![Clarks Mena Blossom  Escarpins Femme  Ar](https://m.media-amazon.com/images/I/319zN8zFD9L._SL200_.jpg)](https://www.amazon.fr/dp/B07FQX675M/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FQX675M/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

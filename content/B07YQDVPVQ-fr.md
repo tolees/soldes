@@ -22,6 +22,9 @@ Está [Kipling Heart Backpack Sac à Dos Enfants  24 cm  9 litres  Robot Camo Pi
 
 [![Kipling Heart Backpack Sac à Dos Enfants](https://m.media-amazon.com/images/I/5177ww+nPHL._SL200_.jpg)](https://www.amazon.fr/dp/B07YQDVPVQ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07YQDVPVQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

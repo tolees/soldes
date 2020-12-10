@@ -22,6 +22,9 @@ Está [Be Cool Thunder Isofix Siège Auto Groupe 1/2/3 de 9 à 36 kg Isofix 4 Po
 
 [![Be Cool Thunder Isofix Siège Auto Groupe](https://m.media-amazon.com/images/I/31jwTXAh6bL._SL200_.jpg)](https://www.amazon.fr/dp/B07JR1FP29/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JR1FP29/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

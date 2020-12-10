@@ -22,6 +22,9 @@ Está [Design Antenne Full HDTV intérieure Amplifiée de One For All avec d Exc
 
 [![Design Antenne Full HDTV intérieure Ampl](https://m.media-amazon.com/images/I/41s3yboT06L._SL200_.jpg)](https://www.amazon.fr/dp/B07HNS411S/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07HNS411S/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

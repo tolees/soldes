@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction 
 
 [![Sony WF-1000XM3 Écouteurs sans fil Bluet](https://m.media-amazon.com/images/I/311Uk9N0xLL._SL200_.jpg)](https://www.amazon.fr/dp/B07T3HHM55/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07T3HHM55/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

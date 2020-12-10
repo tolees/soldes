@@ -22,6 +22,9 @@ Está [LLOYD Galvan  Desert Boots Homme  Gris  Graphit/Future Grey 1   48 EU](ht
 
 [![LLOYD Galvan  Desert Boots Homme  Gris  ](https://m.media-amazon.com/images/I/31oSULTEalL._SL200_.jpg)](https://www.amazon.fr/dp/B07NRJ49N5/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NRJ49N5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

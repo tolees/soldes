@@ -22,6 +22,9 @@ Ahora mismo tienes [Marc O Polo 90725426301300  Bottes & Bottines Classiques Hom
 
 [![Marc O Polo 90725426301300  Bottes & Bot](https://m.media-amazon.com/images/I/414iWc1AjqL._SL200_.jpg)](https://www.amazon.fr/dp/B07N1CRNRW/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07N1CRNRW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Thermaltake Water 3.0 360 Argb Sync Aio Liquid Cooling Kit](
 
 [![Thermaltake Water 3.0 360 Argb Sync Aio ](https://m.media-amazon.com/images/I/41RJrGEakAL._SL200_.jpg)](https://www.amazon.fr/dp/B07MLXKN25/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07MLXKN25/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

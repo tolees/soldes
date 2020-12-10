@@ -22,6 +22,9 @@ Está [Hurley U BLOCKADE II SOLID BP Sac à dos Homme Blue Force FR : Taille Uni
 
 [![Hurley U BLOCKADE II SOLID BP Sac à dos ](https://m.media-amazon.com/images/I/31jGu8pcDwL._SL200_.jpg)](https://www.amazon.fr/dp/B07SRYFWVT/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07SRYFWVT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

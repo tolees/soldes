@@ -22,6 +22,9 @@ Ahora mismo tienes [ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile 14
 
 [![ASUS Chromebook C423NA-EC0102 Ordinateur](https://m.media-amazon.com/images/I/41KQWViTlPL._SL200_.jpg)](https://www.amazon.fr/dp/B086QDTBQN/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B086QDTBQN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

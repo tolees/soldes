@@ -22,6 +22,9 @@ Está [Rosendahl - 43261 - Montre Femme - Quartz - Analogique - Bracelet Caoutch
 
 [![Rosendahl - 43261 - Montre Femme - Quart](https://m.media-amazon.com/images/I/31Li6kjfKLL._SL200_.jpg)](https://www.amazon.fr/dp/B004KEPYD0/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B004KEPYD0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

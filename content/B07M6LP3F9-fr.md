@@ -22,6 +22,9 @@ Está [1MORE écouteurs véritables sans fil  Bluetooth 5.0  lecture 24h / 24  �
 
 [![1MORE écouteurs véritables sans fil  Blu](https://m.media-amazon.com/images/I/41vMar8dgdL._SL200_.jpg)](https://www.amazon.fr/dp/B07M6LP3F9/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07M6LP3F9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

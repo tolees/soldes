@@ -22,6 +22,9 @@ Está [Brooks Brothers 100134408 Chemise Casual  Blanc  White 115   Large  Taill
 
 [![Brooks Brothers 100134408 Chemise Casual](https://m.media-amazon.com/images/I/4199EVfBJ5L._SL200_.jpg)](https://www.amazon.fr/dp/B07TGD8T4P/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07TGD8T4P/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

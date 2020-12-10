@@ -22,6 +22,9 @@ Ahora mismo tienes [RAMPOW Câble USB C vers USB C [Garantie à Vie] Câble USB 
 
 [![RAMPOW Câble USB C vers USB C [Garantie ](https://m.media-amazon.com/images/I/41ik+-TwJ0L._SL200_.jpg)](https://www.amazon.fr/dp/B089SXNJHT/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B089SXNJHT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

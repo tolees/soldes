@@ -22,6 +22,9 @@ Tienes [Dockers by Gerli 43lu001  Bottes Rangers Homme  Noir  Schwarz 100   44 E
 
 [![Dockers by Gerli 43lu001  Bottes Rangers](https://m.media-amazon.com/images/I/41r4sHLr5IL._SL200_.jpg)](https://www.amazon.fr/dp/B07Q8V6F6F/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07Q8V6F6F/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

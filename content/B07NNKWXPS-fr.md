@@ -22,6 +22,9 @@ Está [O bag Borsa Completa Glam 54  Sac à bandoulière Femme  Noir  Nero   8x2
 
 [![O bag Borsa Completa Glam 54  Sac à band](https://m.media-amazon.com/images/I/41JjCog-JiL._SL200_.jpg)](https://www.amazon.fr/dp/B07NNKWXPS/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NNKWXPS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

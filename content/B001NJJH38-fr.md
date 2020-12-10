@@ -22,6 +22,16 @@ Tienes [Sanitas - SHK 18 - Coussin Chauffant - Lavable/Cordon Détachable](https
 
 [![Sanitas - SHK 18 - Coussin Chauffant - L](https://m.media-amazon.com/images/I/3101gKjZLNL._SL200_.jpg)](https://www.amazon.fr/dp/B001NJJH38/?tag=tolees0d-21)
 
+Características principales:
+
+- Contrôle électronique de la température
+- Arrêt automatique au bout de 90 minutes
+- Garantie: 2 ans
+- 100 W / dimensions 40 x 30 cm
+- Nettoyage facile
+- 3 niveaux de température
+- Système de sécurité anti-surchauffe
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B001NJJH38/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

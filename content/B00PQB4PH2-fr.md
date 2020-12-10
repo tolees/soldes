@@ -22,6 +22,9 @@ Tienes [Safavieh Tapis Intérieur et Extérieur  Tissé Polypropylène Tapis en 
 
 [![Safavieh Tapis Intérieur et Extérieur  T](https://m.media-amazon.com/images/I/51QM0nvza+L._SL200_.jpg)](https://www.amazon.fr/dp/B00PQB4PH2/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00PQB4PH2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

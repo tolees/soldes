@@ -22,6 +22,9 @@ Tienes [Disney Aladdin Bracelet à Breloques plaqué Or Blanc Jasmine Princesse]
 
 [![Disney Aladdin Bracelet à Breloques plaq](https://m.media-amazon.com/images/I/41jyAr6qUJL._SL200_.jpg)](https://www.amazon.fr/dp/B07H6ZKW5P/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07H6ZKW5P/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

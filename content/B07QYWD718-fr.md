@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony WI-C200 Ecouteurs intra-auriculaires sans fil type tour
 
 [![Sony WI-C200 Ecouteurs intra-auriculaire](https://m.media-amazon.com/images/I/31WGZ2P975L._SL200_.jpg)](https://www.amazon.fr/dp/B07QYWD718/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07QYWD718/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

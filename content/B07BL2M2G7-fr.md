@@ -22,6 +22,9 @@ Tienes [New Balance 1500v5  Running Femme  Blanc  White/Green White/Green   37 E
 
 [![New Balance 1500v5  Running Femme  Blanc](https://m.media-amazon.com/images/I/41dxRDA2SWL._SL200_.jpg)](https://www.amazon.fr/dp/B07BL2M2G7/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07BL2M2G7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

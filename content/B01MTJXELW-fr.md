@@ -22,6 +22,9 @@ Está [Roccat Suora FX Clavier Gaming Mécanique Rétroéclairé RGB  AZERTY  To
 
 [![Roccat Suora FX Clavier Gaming Mécanique](https://m.media-amazon.com/images/I/41CNgcTMVtL._SL200_.jpg)](https://www.amazon.fr/dp/B01MTJXELW/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01MTJXELW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

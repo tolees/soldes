@@ -22,6 +22,9 @@ Está [SIMBA Protège Matelas - Alèse Imperméable et Respirant  150 x 200 cm ]
 
 [![SIMBA Protège Matelas - Alèse Imperméabl](https://m.media-amazon.com/images/I/31I2Dfbp6mL._SL200_.jpg)](https://www.amazon.fr/dp/B075R7FZZC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B075R7FZZC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

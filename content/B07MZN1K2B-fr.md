@@ -22,6 +22,9 @@ Está [Pepe Jeans London Maddox Ess  Bottes Motardes Femme   Black 999   39 EU](
 
 [![Pepe Jeans London Maddox Ess  Bottes Mot](https://m.media-amazon.com/images/I/41dfnEeZU8L._SL200_.jpg)](https://www.amazon.fr/dp/B07MZN1K2B/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07MZN1K2B/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

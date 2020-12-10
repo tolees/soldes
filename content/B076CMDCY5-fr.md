@@ -22,6 +22,9 @@ Tienes [SAMSONITE Orfeo - Spinner 69/25 Bagage cabine  69 cm  72 liters  Noir  I
 
 [![SAMSONITE Orfeo - Spinner 69/25 Bagage c](https://m.media-amazon.com/images/I/41fnDlA5XCL._SL200_.jpg)](https://www.amazon.fr/dp/B076CMDCY5/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B076CMDCY5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

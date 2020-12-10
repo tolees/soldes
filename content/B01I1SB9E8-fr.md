@@ -22,6 +22,9 @@ Está [B.K. Licht réglette LED orientable  platine LED 8 5W intégrée  1000Lm 
 
 [![B.K. Licht réglette LED orientable  plat](https://m.media-amazon.com/images/I/410X-i29sJL._SL200_.jpg)](https://www.amazon.fr/dp/B01I1SB9E8/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01I1SB9E8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

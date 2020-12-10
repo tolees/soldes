@@ -22,6 +22,9 @@ Tienes [HP 25MX Moniteur  62  23 cm  24  5"  FHD  1 ms  1920 x 1080  400CD/M2  1
 
 [![HP 25MX Moniteur  62  23 cm  24  5"  FHD](https://m.media-amazon.com/images/I/41QLdbpW-4L._SL200_.jpg)](https://www.amazon.fr/dp/B07PY3JT5H/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07PY3JT5H/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

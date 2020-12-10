@@ -22,6 +22,9 @@ Tienes [YUES Manette pour PS4 DUALSHOCK 4 pour Playstation 4/Pro/Slim/3/PC et Or
 
 [![YUES Manette pour PS4 DUALSHOCK 4 pour P](https://m.media-amazon.com/images/I/41PTBAffmwL._SL200_.jpg)](https://www.amazon.fr/dp/B08HH4Y9QL/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08HH4Y9QL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

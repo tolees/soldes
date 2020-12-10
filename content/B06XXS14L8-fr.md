@@ -22,6 +22,9 @@ Está [FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte  Noir](https://www.a
 
 [![FOLLOW UP Cruiser Skateboard Electrique ](https://m.media-amazon.com/images/I/315JEYBGrgL._SL200_.jpg)](https://www.amazon.fr/dp/B06XXS14L8/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B06XXS14L8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

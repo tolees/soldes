@@ -22,6 +22,9 @@ Está [Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K](https://www
 
 [![Transcend 128Go JetFlash 790 Clé USB 3.1](https://m.media-amazon.com/images/I/31I6qf8zTaL._SL200_.jpg)](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

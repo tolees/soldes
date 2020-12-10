@@ -22,6 +22,9 @@ Está [mountain buggy Poussette de Voyage Compacte 4 Roues Rouge](https://www.am
 
 [![mountain buggy Poussette de Voyage Compa](https://m.media-amazon.com/images/I/41Rl6qZOikL._SL200_.jpg)](https://www.amazon.fr/dp/B019DRIQV0/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B019DRIQV0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

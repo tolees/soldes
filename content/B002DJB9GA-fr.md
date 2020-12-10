@@ -22,6 +22,9 @@ Ahora mismo tienes [BÉABA  Transat Up & Down I  Transat Réglable par simple pr
 
 [![BÉABA  Transat Up & Down I  Transat Régl](https://m.media-amazon.com/images/I/41UDU3f3rgL._SL200_.jpg)](https://www.amazon.fr/dp/B002DJB9GA/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B002DJB9GA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

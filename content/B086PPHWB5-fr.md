@@ -22,6 +22,9 @@ Está [F1 2020 - Seventy Edition](https://www.amazon.fr/dp/B086PPHWB5/?tag=tolee
 
 [![F1 2020 - Seventy Edition](https://m.media-amazon.com/images/I/51JZ4AJASpL._SL200_.jpg)](https://www.amazon.fr/dp/B086PPHWB5/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B086PPHWB5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

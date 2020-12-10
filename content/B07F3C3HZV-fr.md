@@ -22,6 +22,9 @@ Está [Catapult PLAYR Smart Football Tracker - Veste GPS et Application de Suivi
 
 [![Catapult PLAYR Smart Football Tracker - ](https://m.media-amazon.com/images/I/41vRJ6Gp3RL._SL200_.jpg)](https://www.amazon.fr/dp/B07F3C3HZV/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07F3C3HZV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Seiko Horloge SUR271P1](https://www.amazon.fr/dp/B07FNXK1BQ/
 
 [![Seiko Horloge SUR271P1](https://m.media-amazon.com/images/I/41h88PREVcL._SL200_.jpg)](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

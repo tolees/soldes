@@ -22,6 +22,9 @@ Ahora mismo tienes [MXIN 7 Couleurs LED Photon Therapy faciales Traitement de la
 
 [![MXIN 7 Couleurs LED Photon Therapy facia](https://m.media-amazon.com/images/I/51e1lDQi6+L._SL200_.jpg)](https://www.amazon.fr/dp/B07FQF64TF/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07FQF64TF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

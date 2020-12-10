@@ -22,6 +22,9 @@ Está [iRobot Roomba 981  aspirateur robot  idéal pour les tapis avec forte pui
 
 [![iRobot Roomba 981  aspirateur robot  idé](https://m.media-amazon.com/images/I/41etxSRTTIL._SL200_.jpg)](https://www.amazon.fr/dp/B07B6GGJGV/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07B6GGJGV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

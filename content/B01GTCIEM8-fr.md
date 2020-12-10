@@ -22,6 +22,9 @@ Tienes [Montre CHRONOWATCH Automatique - Affichage Bracelet Métal et Cadran HB5
 
 [![Montre CHRONOWATCH Automatique - Afficha](https://m.media-amazon.com/images/I/41oH9Nic0mL._SL200_.jpg)](https://www.amazon.fr/dp/B01GTCIEM8/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01GTCIEM8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

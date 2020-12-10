@@ -22,6 +22,9 @@ Está [Geox U Nebula 4 X 4 B ABX A  Bottes Chukka Homme  Marron  Browncotto C600
 
 [![Geox U Nebula 4 X 4 B ABX A  Bottes Chuk](https://m.media-amazon.com/images/I/4124dINm+oL._SL200_.jpg)](https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [FirstE Enceinte Bluetooth Portable sans Fil  Enceintes Flott
 
 [![FirstE Enceinte Bluetooth Portable sans ](https://m.media-amazon.com/images/I/51xJsme0fbL._SL200_.jpg)](https://www.amazon.fr/dp/B089NB6SQD/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B089NB6SQD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

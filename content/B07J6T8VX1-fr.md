@@ -22,6 +22,9 @@ Está [Siméo PLC410 Plancha électrique](https://www.amazon.fr/dp/B07J6T8VX1/?t
 
 [![Siméo PLC410 Plancha électrique](https://m.media-amazon.com/images/I/41W34RRWFuL._SL200_.jpg)](https://www.amazon.fr/dp/B07J6T8VX1/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07J6T8VX1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

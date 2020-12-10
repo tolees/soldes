@@ -22,6 +22,9 @@ Tienes [K-Way K004BD0 - veste imperméable - Homme - Noir  Black  - Small](https
 
 [![K-Way K004BD0 - veste imperméable - Homm](https://m.media-amazon.com/images/I/41Wm3ti+doL._SL200_.jpg)](https://www.amazon.fr/dp/B00LS9HHVW/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00LS9HHVW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

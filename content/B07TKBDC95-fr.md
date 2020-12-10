@@ -22,6 +22,9 @@ Tienes [HP EliteBook 840 G2 - PC Portable - 14   -  Core i5-5300U / 2.30 GHz  8G
 
 [![HP EliteBook 840 G2 - PC Portable - 14  ](https://m.media-amazon.com/images/I/41wPLJM-2GL._SL200_.jpg)](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

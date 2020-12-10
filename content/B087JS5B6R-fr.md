@@ -22,6 +22,9 @@ Ahora mismo tienes [Casque de jeu avec micro pour Xbox One PS4 PC Switch Tablet 
 
 [![Casque de jeu avec micro pour Xbox One P](https://m.media-amazon.com/images/I/51rQQGJhPJL._SL200_.jpg)](https://www.amazon.fr/dp/B087JS5B6R/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B087JS5B6R/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

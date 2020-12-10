@@ -22,6 +22,9 @@ Está [Crosscall Shark-X3 Téléphone portable débloqué 3G+  Ecran: 2 4 pouces
 
 [![Crosscall Shark-X3 Téléphone portable dé](https://m.media-amazon.com/images/I/41euzorABUL._SL200_.jpg)](https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

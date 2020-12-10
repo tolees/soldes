@@ -22,6 +22,9 @@ Ahora mismo tienes [Perel E390F2 Prise Femelle-IP44-Terre Française  Multicolor
 
 [![Perel E390F2 Prise Femelle-IP44-Terre Fr](https://m.media-amazon.com/images/I/518tDS5C8zL._SL200_.jpg)](https://www.amazon.fr/dp/B00ZYU8HQA/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00ZYU8HQA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

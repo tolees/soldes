@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Gramercy Tapered Hw A Jean Droit  Bleu  Tana 913   W26/L32
 
 [![Tommy Hilfiger Gramercy Tapered Hw A Jea](https://m.media-amazon.com/images/I/311lPlRJRnL._SL200_.jpg)](https://www.amazon.fr/dp/B07JYHTCDJ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JYHTCDJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

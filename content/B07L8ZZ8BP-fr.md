@@ -22,6 +22,9 @@ Ahora mismo tienes [Replay New Luz Jean Skinny  Bleu  Dark Blue 007   L30  Taill
 
 [![Replay New Luz Jean Skinny  Bleu  Dark B](https://m.media-amazon.com/images/I/3181tQNB9dL._SL200_.jpg)](https://www.amazon.fr/dp/B07L8ZZ8BP/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07L8ZZ8BP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

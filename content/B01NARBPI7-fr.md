@@ -22,6 +22,9 @@ Ahora mismo tienes [Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de 
 
 [![Clé USB 3.1 Sandisk Extreme Go - 64 Go a](https://m.media-amazon.com/images/I/31hbPwe+bEL._SL200_.jpg)](https://www.amazon.fr/dp/B01NARBPI7/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01NARBPI7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

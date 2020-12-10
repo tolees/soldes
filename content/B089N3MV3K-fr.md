@@ -22,6 +22,9 @@ Ahora mismo tienes [Toozey Jouet Chien à Macher pour Grands Chiens Mâcheurs ag
 
 [![Toozey Jouet Chien à Macher pour Grands ](https://m.media-amazon.com/images/I/51uGn4pdj-L._SL200_.jpg)](https://www.amazon.fr/dp/B089N3MV3K/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B089N3MV3K/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

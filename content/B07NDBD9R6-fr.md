@@ -22,6 +22,9 @@ Está [NETGEAR Routeur WiFi intelligent Nighthawk  R6700-100PES  - AC1750 Vitess
 
 [![NETGEAR Routeur WiFi intelligent Nightha](https://m.media-amazon.com/images/I/31PPwK-7VlL._SL200_.jpg)](https://www.amazon.fr/dp/B07NDBD9R6/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NDBD9R6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

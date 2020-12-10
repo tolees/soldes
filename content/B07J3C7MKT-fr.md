@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour Scrimmage 2.0 Sac à Dos Mixte  Rouge  Taille u
 
 [![Under Armour Scrimmage 2.0 Sac à Dos Mix](https://m.media-amazon.com/images/I/41KW0JU5JXL._SL200_.jpg)](https://www.amazon.fr/dp/B07J3C7MKT/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07J3C7MKT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

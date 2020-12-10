@@ -22,6 +22,9 @@ Tienes [Philips Hue White Ambiance ADORE Barre de Spots salle de bain 3 x 5 5 W 
 
 [![Philips Hue White Ambiance ADORE Barre d](https://m.media-amazon.com/images/I/214wvyXvhIL._SL200_.jpg)](https://www.amazon.fr/dp/B07DGR8RR3/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07DGR8RR3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

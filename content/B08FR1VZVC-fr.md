@@ -22,6 +22,9 @@ Tienes [DEJIMAX 3200mAh Batterie S7 pour Samsung Galaxy S7  Haute Capacité Batt
 
 [![DEJIMAX 3200mAh Batterie S7 pour Samsung](https://m.media-amazon.com/images/I/41DTTb5EgcL._SL200_.jpg)](https://www.amazon.fr/dp/B08FR1VZVC/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08FR1VZVC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [LBLA Sac de Sport Femmes Grande Capacité Gym Fitness Sac av
 
 [![LBLA Sac de Sport Femmes Grande Capacité](https://m.media-amazon.com/images/I/41+Xhm-HfiL._SL200_.jpg)](https://www.amazon.fr/dp/B07QXNQ1BH/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07QXNQ1BH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

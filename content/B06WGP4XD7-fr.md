@@ -22,6 +22,9 @@ Ahora mismo tienes [PlayStation 2 Console de Jeux Noir Portefeuille](https://www
 
 [![PlayStation 2 Console de Jeux Noir Porte](https://m.media-amazon.com/images/I/516UgePFYzL._SL200_.jpg)](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

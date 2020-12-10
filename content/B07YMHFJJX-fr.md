@@ -22,6 +22,9 @@ Está [Chie Mihara zuleica36  Ballerines à Bride Cheville Femmes  Multicolore M
 
 [![Chie Mihara zuleica36  Ballerines à Brid](https://m.media-amazon.com/images/I/41c9fQLY8RL._SL200_.jpg)](https://www.amazon.fr/dp/B07YMHFJJX/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07YMHFJJX/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

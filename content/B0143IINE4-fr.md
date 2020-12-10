@@ -22,6 +22,9 @@ Tienes [Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s  Classe 10](h
 
 [![Carte Mémoire SDXC SanDisk Ultra 64 Go j](https://m.media-amazon.com/images/I/41XrTvZsS7L._SL200_.jpg)](https://www.amazon.fr/dp/B0143IINE4/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B0143IINE4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

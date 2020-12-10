@@ -22,6 +22,9 @@ Ahora mismo tienes [Pierre Cardin Smart Casual Sakko Michel2 Washed Denim Academ
 
 [![Pierre Cardin Smart Casual Sakko Michel2](https://m.media-amazon.com/images/I/41sJ94D3PkL._SL200_.jpg)](https://www.amazon.fr/dp/B07NPR4JXS/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07NPR4JXS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

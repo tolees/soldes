@@ -22,6 +22,9 @@ Está [GRANIONS Conceptio Homme - 90 Capsules + 30 Sachets = 30 J - Cpx Breveté
 
 [![GRANIONS Conceptio Homme - 90 Capsules +](https://m.media-amazon.com/images/I/41YNRG4agHL._SL200_.jpg)](https://www.amazon.fr/dp/B004CREO0Y/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B004CREO0Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

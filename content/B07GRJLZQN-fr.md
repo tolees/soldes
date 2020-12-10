@@ -22,6 +22,9 @@ Está [Tom Clancy s The Division 2 - Edition Gold](https://www.amazon.fr/dp/B07G
 
 [![Tom Clancy s The Division 2 - Edition Go](https://m.media-amazon.com/images/I/51xd2LqRwEL._SL200_.jpg)](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

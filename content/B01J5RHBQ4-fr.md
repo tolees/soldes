@@ -22,6 +22,9 @@ Está [Carte Mémoire SDHC Sandisk Extreme Pro 32 Go jusqu à 95 Mo/s  Classe 10
 
 [![Carte Mémoire SDHC Sandisk Extreme Pro 3](https://m.media-amazon.com/images/I/51vO6S-6HRL._SL200_.jpg)](https://www.amazon.fr/dp/B01J5RHBQ4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01J5RHBQ4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

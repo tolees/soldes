@@ -22,6 +22,9 @@ Está [Slendertone Biceps et Triceps Brassards H/F tonifiants Unisex-Adult  Noir
 
 [![Slendertone Biceps et Triceps Brassards ](https://m.media-amazon.com/images/I/41-bVXeJCrL._SL200_.jpg)](https://www.amazon.fr/dp/B07RDQJFJS/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RDQJFJS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

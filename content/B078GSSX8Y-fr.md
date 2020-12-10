@@ -22,6 +22,9 @@ Ahora mismo tienes [Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte  Dark Ste
 
 [![Marmot Ultra Elite 30 Sac de Couchage Mi](https://m.media-amazon.com/images/I/31Bxuf-X8fL._SL200_.jpg)](https://www.amazon.fr/dp/B078GSSX8Y/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B078GSSX8Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

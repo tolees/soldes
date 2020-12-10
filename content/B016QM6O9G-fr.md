@@ -22,6 +22,9 @@ Está [Tommy Hilfiger E367895041403 - Casquette de Baseball - Homme - Bleu Navy 
 
 [![Tommy Hilfiger E367895041403 - Casquette](https://m.media-amazon.com/images/I/41DgB5vJy1L._SL200_.jpg)](https://www.amazon.fr/dp/B016QM6O9G/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B016QM6O9G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

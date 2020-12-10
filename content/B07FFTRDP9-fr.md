@@ -22,6 +22,9 @@ Está [LETTAS Siège Auto 360° Pivotant Groupe 0+1/2/3  DE 0 à 36 kg/0 Mois 12
 
 [![LETTAS Siège Auto 360° Pivotant Groupe 0](https://m.media-amazon.com/images/I/41aKYXrd7DL._SL200_.jpg)](https://www.amazon.fr/dp/B07FFTRDP9/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FFTRDP9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

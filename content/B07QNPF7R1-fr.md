@@ -22,6 +22,9 @@ Tienes [Anesty- Affleureuse Défonceuse R0700 Trimmer Router 710 W  8mm 6.35mm C
 
 [![Anesty- Affleureuse Défonceuse R0700 Tri](https://m.media-amazon.com/images/I/41pQifMFUfL._SL200_.jpg)](https://www.amazon.fr/dp/B07QNPF7R1/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07QNPF7R1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

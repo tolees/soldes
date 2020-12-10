@@ -22,6 +22,9 @@ Está [GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note 8T Film Protection
 
 [![GiiYoon 3 Pièces Verre Trempé pour Xiaom](https://m.media-amazon.com/images/I/51pG2OpUAbL._SL200_.jpg)](https://www.amazon.fr/dp/B08CN5THZJ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08CN5THZJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

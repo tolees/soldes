@@ -22,6 +22,9 @@ Tienes [Arena Vortex Evolution Hand Paddle Équipement d’entraînement Mixte A
 
 [![Arena Vortex Evolution Hand Paddle Équip](https://m.media-amazon.com/images/I/51rb2IetZlL._SL200_.jpg)](https://www.amazon.fr/dp/B0093ZNDKW/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B0093ZNDKW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

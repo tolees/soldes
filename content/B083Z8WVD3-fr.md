@@ -22,6 +22,9 @@ Está [Ultenic Aspirateur Robot D5s  Connecté Wi-FI et Alexa  Nettoyage Efficac
 
 [![Ultenic Aspirateur Robot D5s  Connecté W](https://m.media-amazon.com/images/I/512LImW4s0L._SL200_.jpg)](https://www.amazon.fr/dp/B083Z8WVD3/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B083Z8WVD3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

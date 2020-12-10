@@ -22,6 +22,9 @@ Ahora mismo tienes [Art 1253 Becerro Creta  Sandales Bout Ouvert Femme  Marron  
 
 [![Art 1253 Becerro Creta  Sandales Bout Ou](https://m.media-amazon.com/images/I/41FeEIbUkXL._SL200_.jpg)](https://www.amazon.fr/dp/B07KRKVDC1/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07KRKVDC1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

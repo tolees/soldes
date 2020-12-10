@@ -22,6 +22,9 @@ Está [Bayonetta & Vanquish 10th Anniversary Bundle - Launch Edition pour Xbox O
 
 [![Bayonetta & Vanquish 10th Anniversary Bu](https://m.media-amazon.com/images/I/612giD4HlRL._SL200_.jpg)](https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

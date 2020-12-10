@@ -22,6 +22,9 @@ Está [Love MoschinoJc4027pp1afemmeSacs bandoulièreNoir  Nero 6x17x22 centimete
 
 [![Love MoschinoJc4027pp1afemmeSacs bandoul](https://m.media-amazon.com/images/I/41ottgK09gL._SL200_.jpg)](https://www.amazon.fr/dp/B07S48VF9D/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07S48VF9D/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

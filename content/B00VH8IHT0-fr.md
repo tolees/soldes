@@ -22,6 +22,9 @@ Ahora mismo tienes [Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes e
 
 [![Skull Shaver Butterfly Pro Rasoir Électr](https://m.media-amazon.com/images/I/3163TW+0yeL._SL200_.jpg)](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

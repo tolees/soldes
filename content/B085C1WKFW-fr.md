@@ -22,6 +22,9 @@ Ahora mismo tienes [Oacvien Récepteur Bluetooth 5.0 Adaptateur  Émetteur Réce
 
 [![Oacvien Récepteur Bluetooth 5.0 Adaptate](https://m.media-amazon.com/images/I/41Kj13c50LL._SL200_.jpg)](https://www.amazon.fr/dp/B085C1WKFW/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B085C1WKFW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

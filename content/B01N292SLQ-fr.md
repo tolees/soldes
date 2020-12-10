@@ -22,6 +22,9 @@ Ahora mismo tienes [camel active 5-Pocket Houston Jean Droit  Bleu  Bleue/Black 
 
 [![camel active 5-Pocket Houston Jean Droit](https://m.media-amazon.com/images/I/31mLdQf3YoL._SL200_.jpg)](https://www.amazon.fr/dp/B01N292SLQ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01N292SLQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Roy Robson 9.6019E+13 Blouson  Bleu  Small  Taille Fabricant:  Homme](htt
 
 [![Roy Robson 9.6019E+13 Blouson  Bleu  Sma](https://m.media-amazon.com/images/I/31b8rsDTfSL._SL200_.jpg)](https://www.amazon.fr/dp/B07NGWDHXV/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NGWDHXV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

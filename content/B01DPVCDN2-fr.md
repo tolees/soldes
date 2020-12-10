@@ -22,6 +22,9 @@ Tienes [Kyocera KTN-180-HIP  KIZUNA Couteau du chef Céramique Noir](https://www
 
 [![Kyocera KTN-180-HIP  KIZUNA Couteau du c](https://m.media-amazon.com/images/I/31Q5rM6k-zL._SL200_.jpg)](https://www.amazon.fr/dp/B01DPVCDN2/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01DPVCDN2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

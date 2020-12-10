@@ -22,6 +22,9 @@ Está [Game of Thrones  Le Trône de Fer  - L intégrale des saisons 1 à 7 - Bl
 
 [![Game of Thrones  Le Trône de Fer  - L in](https://m.media-amazon.com/images/I/51X96mmLUbL._SL200_.jpg)](https://www.amazon.fr/dp/B0757SD9CX/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0757SD9CX/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

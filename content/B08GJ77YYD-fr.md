@@ -22,6 +22,9 @@ Está [Coque Samsung S10 Cover Samsung Galaxy S10 Housse  Double Couche Renforc�
 
 [![Coque Samsung S10 Cover Samsung Galaxy S](https://m.media-amazon.com/images/I/41otA9tIdiL._SL200_.jpg)](https://www.amazon.fr/dp/B08GJ77YYD/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08GJ77YYD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

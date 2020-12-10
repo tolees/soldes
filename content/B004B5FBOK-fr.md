@@ -22,6 +22,9 @@ Tienes [STIGA Luge Bob Snowracer Supreme GT Luge Bobsleigh avec Volant et Frein 
 
 [![STIGA Luge Bob Snowracer Supreme GT Luge](https://m.media-amazon.com/images/I/41Hi6ZWTQAL._SL200_.jpg)](https://www.amazon.fr/dp/B004B5FBOK/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B004B5FBOK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

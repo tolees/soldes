@@ -22,6 +22,9 @@ Ahora mismo tienes [Écouteurs Bluetooth sans Fil Sport IPX7 Étanche  Casque Bl
 
 [![Écouteurs Bluetooth sans Fil Sport IPX7 ](https://m.media-amazon.com/images/I/4123vBe8F+L._SL200_.jpg)](https://www.amazon.fr/dp/B0888BML8X/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0888BML8X/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

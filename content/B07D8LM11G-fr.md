@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSS Soody Sweat-Shirt  Noir  Black 001   XX-Large Homme](ht
 
 [![BOSS Soody Sweat-Shirt  Noir  Black 001 ](https://m.media-amazon.com/images/I/31nhSfI3KUL._SL200_.jpg)](https://www.amazon.fr/dp/B07D8LM11G/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07D8LM11G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

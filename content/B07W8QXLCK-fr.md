@@ -22,6 +22,9 @@ Tienes [Bose Portable Smart Speaker - avec Contrôle Vocal Alexa Intégré  Noir
 
 [![Bose Portable Smart Speaker - avec Contr](https://m.media-amazon.com/images/I/4163O6ukQCL._SL200_.jpg)](https://www.amazon.fr/dp/B07W8QXLCK/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07W8QXLCK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

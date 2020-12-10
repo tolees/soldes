@@ -22,6 +22,9 @@ Está [Oral-B Genius Brosse À Dents Électrique Par Braun](https://www.amazon.f
 
 [![Oral-B Genius Brosse À Dents Électrique ](https://m.media-amazon.com/images/I/41Inw11DCaL._SL200_.jpg)](https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

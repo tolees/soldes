@@ -22,6 +22,9 @@ Está [HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne Bagages rigides avec
 
 [![HAUPTSTADTKOFFER - X-Berg - Valise de Ta](https://m.media-amazon.com/images/I/41YLNz2-NaL._SL200_.jpg)](https://www.amazon.fr/dp/B00T4KWECE/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00T4KWECE/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [NinkBox Android TV Box de Version Android 10.0  【4G+32G】
 
 [![NinkBox Android TV Box de Version Androi](https://m.media-amazon.com/images/I/512KTEG8ywL._SL200_.jpg)](https://www.amazon.fr/dp/B07RXRZBV1/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07RXRZBV1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

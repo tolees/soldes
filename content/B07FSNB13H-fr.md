@@ -22,6 +22,9 @@ Ahora mismo tienes [Philips GC8962/40 Centrale Vapeur PerfectCare Expert Plus 7 
 
 [![Philips GC8962/40 Centrale Vapeur Perfec](https://m.media-amazon.com/images/I/41TQvUZWoKL._SL200_.jpg)](https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

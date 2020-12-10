@@ -22,6 +22,9 @@ Tienes [Rowenta Compact Steam Extreme DG7521F0 Centrale Vapeur Haute Pression](h
 
 [![Rowenta Compact Steam Extreme DG7521F0 C](https://m.media-amazon.com/images/I/415kGq3qwDL._SL200_.jpg)](https://www.amazon.fr/dp/B06XCGRJZR/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XCGRJZR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

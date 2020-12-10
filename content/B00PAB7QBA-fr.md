@@ -22,6 +22,9 @@ Está [Champagne Pommery - Cuvée Louise Millésime 2004 Coffret Bouteille + Bou
 
 [![Champagne Pommery - Cuvée Louise Millési](https://m.media-amazon.com/images/I/41vSvHY-SdL._SL200_.jpg)](https://www.amazon.fr/dp/B00PAB7QBA/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00PAB7QBA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

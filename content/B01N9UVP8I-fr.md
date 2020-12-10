@@ -22,6 +22,9 @@ Tienes [Geox Uomo Symbol B  Sneakers Basses Homme  Noir  Black   39 EU](https://
 
 [![Geox Uomo Symbol B  Sneakers Basses Homm](https://m.media-amazon.com/images/I/41h5FyQI3dL._SL200_.jpg)](https://www.amazon.fr/dp/B01N9UVP8I/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01N9UVP8I/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [STEO Chaise Haute pour Bébé Enfant Siège  avec Ceinture De Sécurité
 
 [![STEO Chaise Haute pour Bébé Enfant Siège](https://m.media-amazon.com/images/I/41nHRalxWeL._SL200_.jpg)](https://www.amazon.fr/dp/B07H5KHFVL/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07H5KHFVL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

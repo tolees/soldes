@@ -22,6 +22,9 @@ Ahora mismo tienes [Levi s 511 Slim Fit – Jeans pour hommes à coupe ajustée 
 
 [![Levi s 511 Slim Fit – Jeans pour hommes ](https://m.media-amazon.com/images/I/41FyQpHbIQL._SL200_.jpg)](https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

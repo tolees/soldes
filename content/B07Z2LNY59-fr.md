@@ -22,6 +22,9 @@ Ahora mismo tienes [Enceinte Bluetooth Portable  Zamkol Bluetooth 5.0 Enceinte s
 
 [![Enceinte Bluetooth Portable  Zamkol Blue](https://m.media-amazon.com/images/I/512tcv64YdL._SL200_.jpg)](https://www.amazon.fr/dp/B07Z2LNY59/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07Z2LNY59/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

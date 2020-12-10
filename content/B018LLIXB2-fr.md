@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Core Hilfiger Regular Polo  Noir  Flag Black 
 
 [![Tommy Hilfiger Core Hilfiger Regular Pol](https://m.media-amazon.com/images/I/310TA3biZyL._SL200_.jpg)](https://www.amazon.fr/dp/B018LLIXB2/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B018LLIXB2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

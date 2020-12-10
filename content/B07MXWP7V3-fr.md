@@ -22,6 +22,9 @@ Ahora mismo tienes [Liebeskind Berlin Round Love Note - Belt BagfemmeSacs bandou
 
 [![Liebeskind Berlin Round Love Note - Belt](https://m.media-amazon.com/images/I/31+OemNaOaL._SL200_.jpg)](https://www.amazon.fr/dp/B07MXWP7V3/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07MXWP7V3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

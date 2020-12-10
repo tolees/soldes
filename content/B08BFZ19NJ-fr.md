@@ -22,6 +22,9 @@ Tienes [Écouteurs sans Fil Bluetooth avec réduction de Bruit Bluetooth 5.0 éc
 
 [![Écouteurs sans Fil Bluetooth avec réduct](https://m.media-amazon.com/images/I/31BWzhiYTIL._SL200_.jpg)](https://www.amazon.fr/dp/B08BFZ19NJ/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08BFZ19NJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

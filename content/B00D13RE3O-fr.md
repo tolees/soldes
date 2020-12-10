@@ -22,6 +22,9 @@ Está [Onduleur Eaton Ellipse PRO 1200 FR - Line interactive UPS - ELP1200FR - 1
 
 [![Onduleur Eaton Ellipse PRO 1200 FR - Lin](https://m.media-amazon.com/images/I/51mVg45eHoL._SL200_.jpg)](https://www.amazon.fr/dp/B00D13RE3O/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00D13RE3O/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

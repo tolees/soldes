@@ -22,6 +22,9 @@ Ahora mismo tienes [Peradix Draisienne Vélo Bébé Vélo Enfants de 1 an-36 Moi
 
 [![Peradix Draisienne Vélo Bébé Vélo Enfant](https://m.media-amazon.com/images/I/41sf6pEfV4L._SL200_.jpg)](https://www.amazon.fr/dp/B08DRJBXSD/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08DRJBXSD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

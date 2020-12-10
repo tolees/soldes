@@ -22,6 +22,9 @@ Tienes [Sonos Playbar Barre de son TV sans fil et enceinte wifi multiroom pour v
 
 [![Sonos Playbar Barre de son TV sans fil e](https://m.media-amazon.com/images/I/317vAV2EpYL._SL200_.jpg)](https://www.amazon.fr/dp/B00BEHTKWC/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00BEHTKWC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

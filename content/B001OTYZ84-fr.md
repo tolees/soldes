@@ -22,6 +22,9 @@ Está [Sorel Bottes d Hiver pour Hommes  Caribou WL  Marron foncé  Tobacco   Ta
 
 [![Sorel Bottes d Hiver pour Hommes  Caribo](https://m.media-amazon.com/images/I/51ZGYoV9UDL._SL200_.jpg)](https://www.amazon.fr/dp/B001OTYZ84/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B001OTYZ84/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

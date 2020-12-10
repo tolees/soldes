@@ -22,6 +22,9 @@ Está [adidas Tiro Dufflebag M Sac en toile Black/White FR : Taille Unique  Tail
 
 [![adidas Tiro Dufflebag M Sac en toile Bla](https://m.media-amazon.com/images/I/412eB3JrSjL._SL200_.jpg)](https://www.amazon.fr/dp/B07K16WJ2D/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07K16WJ2D/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

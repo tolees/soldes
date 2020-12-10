@@ -22,6 +22,9 @@ Tienes [Roccat Vulcan 122 - Clavier de Jeu Blanc  GAMING mécanique RGB  Rétro-
 
 [![Roccat Vulcan 122 - Clavier de Jeu Blanc](https://m.media-amazon.com/images/I/41vgZnpXcTL._SL200_.jpg)](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

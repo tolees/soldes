@@ -22,6 +22,9 @@ Tienes [Logitech G703 LIGHTSPEED Souris Gamer sans Fil  16000 PPP  RVB Gaming  U
 
 [![Logitech G703 LIGHTSPEED Souris Gamer sa](https://m.media-amazon.com/images/I/31k8NSk-7tL._SL200_.jpg)](https://www.amazon.fr/dp/B07S9DR8QG/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07S9DR8QG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

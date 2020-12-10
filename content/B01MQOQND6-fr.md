@@ -22,6 +22,9 @@ Está [Puma Basket Heart Patent  Baskets Basses Femme  Blanc  White-White   39 E
 
 [![Puma Basket Heart Patent  Baskets Basses](https://m.media-amazon.com/images/I/31SvNumr6TL._SL200_.jpg)](https://www.amazon.fr/dp/B01MQOQND6/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01MQOQND6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [MILLET ATNA Peak JKT Veste de Ski Homme  Ebony  FR : S  Taille Fabricant 
 
 [![MILLET ATNA Peak JKT Veste de Ski Homme ](https://m.media-amazon.com/images/I/41jsDl9gBBL._SL200_.jpg)](https://www.amazon.fr/dp/B07FN9GCPB/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FN9GCPB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

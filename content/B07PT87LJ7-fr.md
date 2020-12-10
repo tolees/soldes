@@ -22,6 +22,9 @@ Ahora mismo tienes [Unité de Séparation des Déchets et de Recyclage Joseph Jo
 
 [![Unité de Séparation des Déchets et de Re](https://m.media-amazon.com/images/I/31MKvRFNddL._SL200_.jpg)](https://www.amazon.fr/dp/B07PT87LJ7/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07PT87LJ7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

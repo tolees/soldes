@@ -22,6 +22,9 @@ Está [DJI RoboMaster S1  Support Éducatif  Construire Soit-Même  IA  Programm
 
 [![DJI RoboMaster S1  Support Éducatif  Con](https://m.media-amazon.com/images/I/319KWRlD+9L._SL200_.jpg)](https://www.amazon.fr/dp/B07ZHK48S3/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07ZHK48S3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

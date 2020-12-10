@@ -22,6 +22,9 @@ Está [CALVET Vin Mousseux Rose Celebration 75 cl](https://www.amazon.fr/dp/B07P
 
 [![CALVET Vin Mousseux Rose Celebration 75 ](https://m.media-amazon.com/images/I/31jBYl8AixL._SL200_.jpg)](https://www.amazon.fr/dp/B07PM67PG8/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07PM67PG8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

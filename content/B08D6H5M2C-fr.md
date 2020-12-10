@@ -22,6 +22,9 @@ Tienes [Disque Dur Externe 1 to  Disque Dur Externe Portable pour PC  Mac  MacBo
 
 [![Disque Dur Externe 1 to  Disque Dur Exte](https://m.media-amazon.com/images/I/41gkg3cH5fL._SL200_.jpg)](https://www.amazon.fr/dp/B08D6H5M2C/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08D6H5M2C/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

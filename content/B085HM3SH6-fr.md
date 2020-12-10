@@ -22,6 +22,9 @@ Está [Volvetwig Cheveux Humain Vierge Vrai 100% Perruque Lisse Cheveux Naturel 
 
 [![Volvetwig Cheveux Humain Vierge Vrai 100](https://m.media-amazon.com/images/I/41tkGs72OJL._SL200_.jpg)](https://www.amazon.fr/dp/B085HM3SH6/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B085HM3SH6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

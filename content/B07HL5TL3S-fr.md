@@ -22,6 +22,9 @@ Tienes [Skagen Homme Écran Tactile Digital Montre Connectée avec Bracelet en S
 
 [![Skagen Homme Écran Tactile Digital Montr](https://m.media-amazon.com/images/I/31NT0F+2BzL._SL200_.jpg)](https://www.amazon.fr/dp/B07HL5TL3S/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07HL5TL3S/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

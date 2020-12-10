@@ -22,6 +22,9 @@ Está [find. Suede Kitten Heel Escarpins  Rouge Red   40 EU](https://www.amazon.
 
 [![find. Suede Kitten Heel Escarpins  Rouge](https://m.media-amazon.com/images/I/41x-HlSMQVL._SL200_.jpg)](https://www.amazon.fr/dp/B07JB1WM2V/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JB1WM2V/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

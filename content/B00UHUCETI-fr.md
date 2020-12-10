@@ -22,6 +22,9 @@ Tienes [Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces](https://www.amazon.fr
 
 [![Wüsthof TR9867-2 Gourmet Bloc Couteaux 6](https://m.media-amazon.com/images/I/31-QKQT6S4L._SL200_.jpg)](https://www.amazon.fr/dp/B00UHUCETI/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00UHUCETI/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

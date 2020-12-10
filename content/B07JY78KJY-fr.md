@@ -22,6 +22,9 @@ Está [Mini Modèle de Voiture Ensemble de Jouets de camions avec Tapis de Jeu p
 
 [![Mini Modèle de Voiture Ensemble de Jouet](https://m.media-amazon.com/images/I/61DKPYulTfL._SL200_.jpg)](https://www.amazon.fr/dp/B07JY78KJY/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JY78KJY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

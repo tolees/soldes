@@ -22,6 +22,9 @@ Tienes [ROCCAT Kain 102 AIMO Souris Gaming RGB  capteur Pro-Optic R8 8.500 dpi  
 
 [![ROCCAT Kain 102 AIMO Souris Gaming RGB  ](https://m.media-amazon.com/images/I/31Pmd4bbUnL._SL200_.jpg)](https://www.amazon.fr/dp/B07SVNWPM2/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07SVNWPM2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

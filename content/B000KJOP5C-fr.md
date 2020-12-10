@@ -22,6 +22,9 @@ Ahora mismo tienes [HERMA - Film couvre-livres  400 mm x 10 m  en PP  transparen
 
 [![HERMA - Film couvre-livres  400 mm x 10 ](https://m.media-amazon.com/images/I/31OP1LbGLoL._SL200_.jpg)](https://www.amazon.fr/dp/B000KJOP5C/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B000KJOP5C/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

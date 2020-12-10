@@ -22,6 +22,9 @@ Está [Tondeuse Cheveux Hommes Professionnelle  DynaBliss HG4100 Tondeuse Barbe 
 
 [![Tondeuse Cheveux Hommes Professionnelle ](https://m.media-amazon.com/images/I/51XyW-+1thL._SL200_.jpg)](https://www.amazon.fr/dp/B088B8FQ7N/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B088B8FQ7N/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

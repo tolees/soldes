@@ -22,6 +22,9 @@ Está [Trio Leuchten 305100161 Jacob Suspension en métal pour 1 ampoule E27 non
 
 [![Trio Leuchten 305100161 Jacob Suspension](https://m.media-amazon.com/images/I/31uSg9DfbXL._SL200_.jpg)](https://www.amazon.fr/dp/B06XWNGHN7/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B06XWNGHN7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

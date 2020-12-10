@@ -22,6 +22,9 @@ Está [Sony DSCWX500B Appareils Photo Numérique  Capteur CMOS Exmor R  18.2 Mpi
 
 [![Sony DSCWX500B Appareils Photo Numérique](https://m.media-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg)](https://www.amazon.fr/dp/B00W46KROM/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00W46KROM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

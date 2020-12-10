@@ -22,6 +22,9 @@ Está [Flexson Supports Muraux pour Sonos One  One SL et Play:1 - Noir  Paire ](
 
 [![Flexson Supports Muraux pour Sonos One  ](https://m.media-amazon.com/images/I/41MP8GMO6QL._SL200_.jpg)](https://www.amazon.fr/dp/B076SSB24J/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B076SSB24J/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

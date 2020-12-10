@@ -22,6 +22,9 @@ Ahora mismo tienes [Trixie Scratching Post for Wall Mounting  80 x 11 cm  Grey](
 
 [![Trixie Scratching Post for Wall Mounting](https://m.media-amazon.com/images/I/31oXEZA-xwL._SL200_.jpg)](https://www.amazon.fr/dp/B01HKVD91I/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01HKVD91I/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Etekcity Balance Wifi  Balance Connectée Bluetooth Recharge
 
 [![Etekcity Balance Wifi  Balance Connectée](https://m.media-amazon.com/images/I/315dmSJf4rL._SL200_.jpg)](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

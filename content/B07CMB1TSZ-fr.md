@@ -22,6 +22,9 @@ Ahora mismo tienes [Marvel Legends - Edition Collector - Casque Electronique Bla
 
 [![Marvel Legends - Edition Collector - Cas](https://m.media-amazon.com/images/I/51NZbptia7L._SL200_.jpg)](https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

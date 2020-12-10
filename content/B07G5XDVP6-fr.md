@@ -22,6 +22,9 @@ Tienes [GPR Italie Jo.56.Vic Paire terminaux homologués avec raccord moto guzzi
 
 [![GPR Italie Jo.56.Vic Paire terminaux hom](https://m.media-amazon.com/images/I/518HFIxev9L._SL200_.jpg)](https://www.amazon.fr/dp/B07G5XDVP6/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07G5XDVP6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [AUBADE  Haut de maillot push-up coque  Attache au cou  DIVINE CLEOPATRE  
 
 [![AUBADE  Haut de maillot push-up coque  A](https://m.media-amazon.com/images/I/412z9YfbRkL._SL200_.jpg)](https://www.amazon.fr/dp/B07JWXVMB3/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JWXVMB3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

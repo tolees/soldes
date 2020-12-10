@@ -22,6 +22,9 @@ Está [EZVIZ CTQ3W Caméra Surveillance WiFi Extérieure  Caméra Extérieure IP
 
 [![EZVIZ CTQ3W Caméra Surveillance WiFi Ext](https://m.media-amazon.com/images/I/41hjBm7JZML._SL200_.jpg)](https://www.amazon.fr/dp/B07KM5S1NG/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KM5S1NG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

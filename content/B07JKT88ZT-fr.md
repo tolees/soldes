@@ -22,6 +22,9 @@ Ahora mismo tienes [Under Armour UA Roland Backpack Hydrofuge Pratique  Sac à D
 
 [![Under Armour UA Roland Backpack Hydrofug](https://m.media-amazon.com/images/I/41t8VcfMmKL._SL200_.jpg)](https://www.amazon.fr/dp/B07JKT88ZT/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07JKT88ZT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

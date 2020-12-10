@@ -22,6 +22,9 @@ Ahora mismo tienes [Learning Resources Kit pour la Classe de Base 10 en Plastiq
 
 [![Learning Resources Kit pour la Classe de](https://m.media-amazon.com/images/I/51MO5SymqAL._SL200_.jpg)](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

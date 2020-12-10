@@ -22,6 +22,9 @@ Ahora mismo tienes [Bionaire - BSF002 - ventilateur de bureau - modèle à oscil
 
 [![Bionaire - BSF002 - ventilateur de burea](https://m.media-amazon.com/images/I/51D6bPtZnaL._SL200_.jpg)](https://www.amazon.fr/dp/B01DPQ5SK2/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01DPQ5SK2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

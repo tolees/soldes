@@ -22,6 +22,9 @@ Tienes [Samyang 50 mm / F 1.4 AS UMC Objectifs](https://www.amazon.fr/dp/B00TS9F
 
 [![Samyang 50 mm / F 1.4 AS UMC Objectifs](https://m.media-amazon.com/images/I/51Gceewgo+L._SL200_.jpg)](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

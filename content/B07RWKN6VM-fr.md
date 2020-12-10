@@ -22,6 +22,9 @@ Está [Redskins Doudoune North Mountain Homme](https://www.amazon.fr/dp/B07RWKN6
 
 [![Redskins Doudoune North Mountain Homme](https://m.media-amazon.com/images/I/41zAnGTqlkL._SL200_.jpg)](https://www.amazon.fr/dp/B07RWKN6VM/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RWKN6VM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Gomyhom Rose  24K Rose Plaqué Or  élégante Fleur Romantiq
 
 [![Gomyhom Rose  24K Rose Plaqué Or  élégan](https://m.media-amazon.com/images/I/51t7RW9E7PL._SL200_.jpg)](https://www.amazon.fr/dp/B083SG6VGL/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B083SG6VGL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

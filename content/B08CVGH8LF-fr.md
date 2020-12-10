@@ -22,6 +22,9 @@ Está [Disque Dur Externe  Disque Dur Externe 1to USB3.0 pour Mac  PC  Windows  
 
 [![Disque Dur Externe  Disque Dur Externe 1](https://m.media-amazon.com/images/I/31ZYWUhKF4L._SL200_.jpg)](https://www.amazon.fr/dp/B08CVGH8LF/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08CVGH8LF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

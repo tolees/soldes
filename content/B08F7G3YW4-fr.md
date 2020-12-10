@@ -22,6 +22,9 @@ Está [Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3 Dual USB Ports
 
 [![Transmetteur FM Bluetooth 5.0 Adaptateur](https://m.media-amazon.com/images/I/41X6CoqT-VL._SL200_.jpg)](https://www.amazon.fr/dp/B08F7G3YW4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08F7G3YW4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

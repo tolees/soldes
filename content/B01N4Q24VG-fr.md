@@ -22,6 +22,9 @@ Ahora mismo tienes [YI Caméra de Surveillance Dôme 1080p Caméra IP Caméra S�
 
 [![YI Caméra de Surveillance Dôme 1080p Cam](https://m.media-amazon.com/images/I/41sa+JBBrQL._SL200_.jpg)](https://www.amazon.fr/dp/B01N4Q24VG/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01N4Q24VG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

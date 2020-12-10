@@ -22,6 +22,9 @@ Está [SweetLisS - Lisseur Libellule - Fer à lisser et à boucler avec Peigne i
 
 [![SweetLisS - Lisseur Libellule - Fer à li](https://m.media-amazon.com/images/I/510+m4oz9tL._SL200_.jpg)](https://www.amazon.fr/dp/B015HK3TG4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B015HK3TG4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

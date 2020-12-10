@@ -22,6 +22,9 @@ Está [RAMPOW Câble USB C vers USB C 1m - Câble USB Type C Charge Rapide 60W P
 
 [![RAMPOW Câble USB C vers USB C 1m - Câble](https://m.media-amazon.com/images/I/41OngLD+PKL._SL200_.jpg)](https://www.amazon.fr/dp/B08BNXZY8Y/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08BNXZY8Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

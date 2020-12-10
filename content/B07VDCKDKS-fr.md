@@ -22,6 +22,9 @@ Está [Napapijri K Rainforest Sum 2 Blouson  Violet  Clover Purple V021   164  T
 
 [![Napapijri K Rainforest Sum 2 Blouson  Vi](https://m.media-amazon.com/images/I/31mGM1psUWL._SL200_.jpg)](https://www.amazon.fr/dp/B07VDCKDKS/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07VDCKDKS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

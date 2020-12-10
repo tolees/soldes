@@ -22,6 +22,9 @@ Tienes [HyperX Impact DDR4 HX426S15IB2/8 Mémoire RAM 2666MHz CL15 SODIMM 8Go](h
 
 [![HyperX Impact DDR4 HX426S15IB2/8 Mémoire](https://m.media-amazon.com/images/I/41ZU5190R5L._SL200_.jpg)](https://www.amazon.fr/dp/B01N7K4CEU/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01N7K4CEU/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

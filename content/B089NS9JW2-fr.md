@@ -22,6 +22,9 @@ Está [Xiaomi Band 5 Smart Fitness Bracelet Cardiofréquence mètre  Bracelet é
 
 [![Xiaomi Band 5 Smart Fitness Bracelet Car](https://m.media-amazon.com/images/I/31dQMo0+r3L._SL200_.jpg)](https://www.amazon.fr/dp/B089NS9JW2/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B089NS9JW2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

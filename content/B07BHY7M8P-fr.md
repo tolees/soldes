@@ -22,6 +22,9 @@ Está [Jabra Elite Active 65 t Écouteurs de Sport Bluetooth à Isolation Passiv
 
 [![Jabra Elite Active 65 t Écouteurs de Spo](https://m.media-amazon.com/images/I/41mgsnY4w0L._SL200_.jpg)](https://www.amazon.fr/dp/B07BHY7M8P/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07BHY7M8P/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Recepteur Bluetooth Jack DUTISON récepteur Bluetooth Voitur
 
 [![Recepteur Bluetooth Jack DUTISON récepte](https://m.media-amazon.com/images/I/417-RpBF4nL._SL200_.jpg)](https://www.amazon.fr/dp/B07WPS4JBZ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07WPS4JBZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [US-TRONIC CONVERTISSEUR Pur Sinus 12V 220V - 1000 Watts + Sortie USB 2.1A
 
 [![US-TRONIC CONVERTISSEUR Pur Sinus 12V 22](https://m.media-amazon.com/images/I/41cn+v5FkwL._SL200_.jpg)](https://www.amazon.fr/dp/B083F2ZJGK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B083F2ZJGK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

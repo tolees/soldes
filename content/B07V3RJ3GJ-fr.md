@@ -22,6 +22,9 @@ Está [Correcteur de posture dos - redresse dos Homme et Femme - Ceinture dorsal
 
 [![Correcteur de posture dos - redresse dos](https://m.media-amazon.com/images/I/51zSK2fbSgL._SL200_.jpg)](https://www.amazon.fr/dp/B07V3RJ3GJ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07V3RJ3GJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

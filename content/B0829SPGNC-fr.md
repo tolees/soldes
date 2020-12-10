@@ -22,6 +22,9 @@ Está [Mafiti Tablette d écriture LCD 8.5 Pouces d écriture électronique Plan
 
 [![Mafiti Tablette d écriture LCD 8.5 Pouce](https://m.media-amazon.com/images/I/41LS-tNSI7L._SL200_.jpg)](https://www.amazon.fr/dp/B0829SPGNC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0829SPGNC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

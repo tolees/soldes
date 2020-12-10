@@ -22,6 +22,9 @@ Tienes [Onduleur Z3 ZenBox EX 500 VA  3 prises secourues  3 prises protégées](
 
 [![Onduleur Z3 ZenBox EX 500 VA  3 prises s](https://m.media-amazon.com/images/I/51I9TcVCB2L._SL200_.jpg)](https://www.amazon.fr/dp/B07M8SNDTS/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07M8SNDTS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

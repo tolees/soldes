@@ -22,6 +22,9 @@ Está [ORICO Boîtier Disque Dur 2.5  Adaptateur de Lecteur Externe USB3.0 vers 
 
 [![ORICO Boîtier Disque Dur 2.5  Adaptateur](https://m.media-amazon.com/images/I/51et421k6HL._SL200_.jpg)](https://www.amazon.fr/dp/B08B5W9HB6/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08B5W9HB6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

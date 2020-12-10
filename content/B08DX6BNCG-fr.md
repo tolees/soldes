@@ -22,6 +22,9 @@ Ahora mismo tienes [Disque Dur Externe 2to USB3.1 pour PC  Mac  Ordinateur de Bu
 
 [![Disque Dur Externe 2to USB3.1 pour PC  M](https://m.media-amazon.com/images/I/414vi2D8VdL._SL200_.jpg)](https://www.amazon.fr/dp/B08DX6BNCG/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08DX6BNCG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

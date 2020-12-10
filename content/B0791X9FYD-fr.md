@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Hilfiger Core Tommy Regular Polo  Blanc  Bright White 
 
 [![Tommy Hilfiger Core Tommy Regular Polo  ](https://m.media-amazon.com/images/I/319yAoA6n8L._SL200_.jpg)](https://www.amazon.fr/dp/B0791X9FYD/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0791X9FYD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

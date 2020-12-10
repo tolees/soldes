@@ -22,6 +22,9 @@ Está [Pioneer Club 7 Enceinte de Bluetooth  LED Éclarage  Voice Control  USB p
 
 [![Pioneer Club 7 Enceinte de Bluetooth  LE](https://m.media-amazon.com/images/I/41Y9qZQ+G7L._SL200_.jpg)](https://www.amazon.fr/dp/B07JP7R8K6/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JP7R8K6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

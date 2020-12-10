@@ -22,6 +22,9 @@ Está [Logitech G Driving Force Levier de Vitesse pour Volant de Course G29 et G
 
 [![Logitech G Driving Force Levier de Vites](https://m.media-amazon.com/images/I/41xwa5tyvHL._SL200_.jpg)](https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

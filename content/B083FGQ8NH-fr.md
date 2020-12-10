@@ -22,6 +22,9 @@ Está [Lacoste BH1966 Veste  Noir  44 Homme](https://www.amazon.fr/dp/B083FGQ8NH
 
 [![Lacoste BH1966 Veste  Noir  44 Homme](https://m.media-amazon.com/images/I/319r85I23uL._SL200_.jpg)](https://www.amazon.fr/dp/B083FGQ8NH/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B083FGQ8NH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

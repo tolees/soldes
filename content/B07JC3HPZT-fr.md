@@ -22,6 +22,9 @@ Está [LEGO®-DUPLO® Toy Story™ Le train de Toy Story Jeu de construction  2 
 
 [![LEGO®-DUPLO® Toy Story™ Le train de Toy ](https://m.media-amazon.com/images/I/51QImcD+fmL._SL200_.jpg)](https://www.amazon.fr/dp/B07JC3HPZT/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JC3HPZT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

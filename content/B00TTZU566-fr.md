@@ -22,6 +22,9 @@ Ahora mismo tienes [Visseuse sans fil Bosch -  IXO V Edition Classique  Livrée 
 
 [![Visseuse sans fil Bosch -  IXO V Edition](https://m.media-amazon.com/images/I/41xpByH-TyL._SL200_.jpg)](https://www.amazon.fr/dp/B00TTZU566/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00TTZU566/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

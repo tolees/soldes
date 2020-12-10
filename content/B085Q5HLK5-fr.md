@@ -22,6 +22,9 @@ Ahora mismo tienes [ORICO M200 3D NAND SSD Hard Solid Drive - mSATA - SATA III -
 
 [![ORICO M200 3D NAND SSD Hard Solid Drive ](https://m.media-amazon.com/images/I/41ysFNO99lL._SL200_.jpg)](https://www.amazon.fr/dp/B085Q5HLK5/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B085Q5HLK5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

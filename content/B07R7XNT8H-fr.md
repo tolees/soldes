@@ -22,6 +22,9 @@ Está [Columbia Lake 22  Doudoune Longue à Capuche  Femme](https://www.amazon.f
 
 [![Columbia Lake 22  Doudoune Longue à Capu](https://m.media-amazon.com/images/I/41W4wtULbRL._SL200_.jpg)](https://www.amazon.fr/dp/B07R7XNT8H/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07R7XNT8H/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

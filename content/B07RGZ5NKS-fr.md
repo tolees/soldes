@@ -22,6 +22,9 @@ Tienes [TOZO T6 Ecouteur Bluetooth sans Fil TWS avec contrôle Tactile et étui 
 
 [![TOZO T6 Ecouteur Bluetooth sans Fil TWS ](https://m.media-amazon.com/images/I/41NONK096RL._SL200_.jpg)](https://www.amazon.fr/dp/B07RGZ5NKS/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07RGZ5NKS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

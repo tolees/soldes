@@ -22,6 +22,9 @@ Está [OfficeWorld 603 XL Multipack Cartouche d encre compatible pour Epson 603 
 
 [![OfficeWorld 603 XL Multipack Cartouche d](https://m.media-amazon.com/images/I/51B3DPhOZ-L._SL200_.jpg)](https://www.amazon.fr/dp/B082PMVLWQ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B082PMVLWQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

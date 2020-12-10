@@ -22,6 +22,9 @@ Ahora mismo tienes [Faure FKM-901ME1 Robot Pâtissier Magic Baker Excellence - 8
 
 [![Faure FKM-901ME1 Robot Pâtissier Magic B](https://m.media-amazon.com/images/I/41EElUxcFgL._SL200_.jpg)](https://www.amazon.fr/dp/B07V4QXVYS/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07V4QXVYS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

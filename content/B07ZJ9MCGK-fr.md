@@ -22,6 +22,9 @@ Está [FBSPORT Airtrack 20 cm Épaisseur Air Spot Gonflable  100 cm Tapis de Gym
 
 [![FBSPORT Airtrack 20 cm Épaisseur Air Spo](https://m.media-amazon.com/images/I/413kKeOpZcL._SL200_.jpg)](https://www.amazon.fr/dp/B07ZJ9MCGK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07ZJ9MCGK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

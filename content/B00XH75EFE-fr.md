@@ -22,6 +22,9 @@ Tienes [TOKINA AT-X PRO FX 24-70mm F2.8 Objectif reflex pro haute résolution No
 
 [![TOKINA AT-X PRO FX 24-70mm F2.8 Objectif](https://m.media-amazon.com/images/I/418DTGEYI9L._SL200_.jpg)](https://www.amazon.fr/dp/B00XH75EFE/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00XH75EFE/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

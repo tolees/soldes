@@ -22,6 +22,9 @@ Está [ECCO Shape 55 Western  Santiags Femme  Noir  Black 1001   37 EU](https://
 
 [![ECCO Shape 55 Western  Santiags Femme  N](https://m.media-amazon.com/images/I/311OQy9G6rL._SL200_.jpg)](https://www.amazon.fr/dp/B07N3BT3RV/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07N3BT3RV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

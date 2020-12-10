@@ -22,6 +22,9 @@ Ahora mismo tienes [Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135 Lun
 
 [![Dsquared2 D Squared Brillengestelle DQ50](https://m.media-amazon.com/images/I/31E8WRTULfL._SL200_.jpg)](https://www.amazon.fr/dp/B005F0XYH6/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B005F0XYH6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

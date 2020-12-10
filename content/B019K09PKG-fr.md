@@ -22,6 +22,9 @@ Está [Pinypon - 700012739 - la Garderie des Animaux](https://www.amazon.fr/dp/B
 
 [![Pinypon - 700012739 - la Garderie des An](https://m.media-amazon.com/images/I/51zR6s2G1oL._SL200_.jpg)](https://www.amazon.fr/dp/B019K09PKG/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B019K09PKG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [New Balance homme 574v2 Core Baskets  Bleu  Navy   45 EU](https://www.ama
 
 [![New Balance homme 574v2 Core Baskets  Bl](https://m.media-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg)](https://www.amazon.fr/dp/B06Y2Y5NPN/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B06Y2Y5NPN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

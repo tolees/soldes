@@ -22,6 +22,9 @@ Está [Le Grand jour](https://www.amazon.fr/dp/B016E66ZJS/?tag=tolees0d-21) con 
 
 [![Le Grand jour](https://m.media-amazon.com/images/I/51mI1yHRfpL._SL200_.jpg)](https://www.amazon.fr/dp/B016E66ZJS/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B016E66ZJS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

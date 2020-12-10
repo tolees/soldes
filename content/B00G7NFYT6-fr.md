@@ -22,6 +22,9 @@ Está [Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert](https://www.a
 
 [![Star 898-43 Décoration pour le Mur 16 Lu](https://m.media-amazon.com/images/I/51rMd3OhdLL._SL200_.jpg)](https://www.amazon.fr/dp/B00G7NFYT6/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00G7NFYT6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

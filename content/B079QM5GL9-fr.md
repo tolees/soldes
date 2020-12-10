@@ -22,6 +22,9 @@ Tienes [iRobot Roomba 671  Aspirateur Robot pour Tapis et Sols Durs  Capteurs de
 
 [![iRobot Roomba 671  Aspirateur Robot pour](https://m.media-amazon.com/images/I/41KNCfY39eL._SL200_.jpg)](https://www.amazon.fr/dp/B079QM5GL9/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B079QM5GL9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

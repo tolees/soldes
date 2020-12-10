@@ -22,6 +22,9 @@ Está [Emartbuy Luxe Rigide Boîte-Cadeau de Présentation en Forme de Rectangle
 
 [![Emartbuy Luxe Rigide Boîte-Cadeau de Pré](https://m.media-amazon.com/images/I/31ivu0b4UuL._SL200_.jpg)](https://www.amazon.fr/dp/B07PY4ZGK8/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07PY4ZGK8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

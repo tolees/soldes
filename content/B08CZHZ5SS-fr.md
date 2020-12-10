@@ -22,6 +22,9 @@ Está [BAITITON 128GB MSATA III Disque Flash SSD 128 Go Interne Solid State Driv
 
 [![BAITITON 128GB MSATA III Disque Flash SS](https://m.media-amazon.com/images/I/41dcXBAPdaL._SL200_.jpg)](https://www.amazon.fr/dp/B08CZHZ5SS/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08CZHZ5SS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Makita Perceuse à percussion Ø 13 Mm 1010 W HP2071FJ](https://www.amaz
 
 [![Makita Perceuse à percussion Ø 13 Mm 101](https://m.media-amazon.com/images/I/31ssdBbuWnL._SL200_.jpg)](https://www.amazon.fr/dp/B00EBCT306/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00EBCT306/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

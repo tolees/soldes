@@ -22,6 +22,9 @@ Tienes [Columbia Powder Lite Hooded Veste à capuche-Homme Bleu  Dark Mountain  
 
 [![Columbia Powder Lite Hooded Veste à capu](https://m.media-amazon.com/images/I/41Mx-uzWmNL._SL200_.jpg)](https://www.amazon.fr/dp/B07R6TWP2D/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07R6TWP2D/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Cubicfun Piste de Voiture Jouet Enfant 2 3 4 5 6 ans  City R
 
 [![Cubicfun Piste de Voiture Jouet Enfant 2](https://m.media-amazon.com/images/I/51NBUO52b9L._SL200_.jpg)](https://www.amazon.fr/dp/B07W7ZGGKK/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07W7ZGGKK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

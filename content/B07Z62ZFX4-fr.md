@@ -22,6 +22,9 @@ Está [Herefun Bocs de Construction en Bois Tour Empilables Jeu à Empiler Jouet
 
 [![Herefun Bocs de Construction en Bois Tou](https://m.media-amazon.com/images/I/51UQpkDqn8L._SL200_.jpg)](https://www.amazon.fr/dp/B07Z62ZFX4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07Z62ZFX4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

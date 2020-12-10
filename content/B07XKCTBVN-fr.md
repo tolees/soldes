@@ -22,6 +22,9 @@ Está [Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45 Heures] Pli
 
 [![Mpow H17 Casque Bluetooth à Réduction de](https://m.media-amazon.com/images/I/41KDvep9xWL._SL200_.jpg)](https://www.amazon.fr/dp/B07XKCTBVN/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07XKCTBVN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

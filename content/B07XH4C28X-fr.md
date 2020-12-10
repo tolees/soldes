@@ -22,6 +22,9 @@ Tienes [POP! Marvel: Black Widow – Taskmaster w/ Shield](https://www.amazon.fr
 
 [![POP! Marvel: Black Widow – Taskmaster w/](https://m.media-amazon.com/images/I/41eG9Lgu+GL._SL200_.jpg)](https://www.amazon.fr/dp/B07XH4C28X/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07XH4C28X/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

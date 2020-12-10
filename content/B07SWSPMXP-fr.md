@@ -22,6 +22,9 @@ Está [Replay Anbass Jean Slim  Bleu  Dark Blue 7   W27/L30  Taille Fabricant: 2
 
 [![Replay Anbass Jean Slim  Bleu  Dark Blue](https://m.media-amazon.com/images/I/31-52ithbRL._SL200_.jpg)](https://www.amazon.fr/dp/B07SWSPMXP/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07SWSPMXP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

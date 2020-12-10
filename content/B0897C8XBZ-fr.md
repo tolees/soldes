@@ -22,6 +22,9 @@ Ahora mismo tienes [BOSCH - TAS6503 Tassimo My Way 2 - Cafetière à capsule - A
 
 [![BOSCH - TAS6503 Tassimo My Way 2 - Cafet](https://m.media-amazon.com/images/I/41PEW63px-L._SL200_.jpg)](https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

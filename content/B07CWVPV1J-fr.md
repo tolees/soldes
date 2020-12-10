@@ -22,6 +22,9 @@ Ahora mismo tienes [Cache-oreilles électriques avec Bluetooth  radio numérique
 
 [![Cache-oreilles électriques avec Bluetoot](https://m.media-amazon.com/images/I/41N3UM3T69L._SL200_.jpg)](https://www.amazon.fr/dp/B07CWVPV1J/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07CWVPV1J/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

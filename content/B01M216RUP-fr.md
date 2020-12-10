@@ -22,6 +22,9 @@ Está [Bosch Electroménager MUC22B42FR Multicuiseur  900 W  Anthracite](https:/
 
 [![Bosch Electroménager MUC22B42FR Multicui](https://m.media-amazon.com/images/I/41R7Loo0rNL._SL200_.jpg)](https://www.amazon.fr/dp/B01M216RUP/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01M216RUP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

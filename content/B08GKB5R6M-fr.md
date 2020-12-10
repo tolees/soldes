@@ -22,6 +22,9 @@ Está [Minuteur analogique visuel 60 minutes  compte à rebours sans bruit  outi
 
 [![Minuteur analogique visuel 60 minutes  c](https://m.media-amazon.com/images/I/41ul8dP-FsL._SL200_.jpg)](https://www.amazon.fr/dp/B08GKB5R6M/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08GKB5R6M/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

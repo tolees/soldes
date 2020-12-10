@@ -22,6 +22,9 @@ Está [HyperX Impact DDR4 HX424S14IBK2/32 Mémoire RAM 2400MHz CL14 SODIMM 32Go 
 
 [![HyperX Impact DDR4 HX424S14IBK2/32 Mémoi](https://m.media-amazon.com/images/I/51LDD9VoueL._SL200_.jpg)](https://www.amazon.fr/dp/B01BNJL8I4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01BNJL8I4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Hikole 2 en 1 Trottinette pour Enfants  Scooter avec Siège Pliage et 3 R
 
 [![Hikole 2 en 1 Trottinette pour Enfants  ](https://m.media-amazon.com/images/I/41QdC1DUs-L._SL200_.jpg)](https://www.amazon.fr/dp/B08DY9RV17/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08DY9RV17/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

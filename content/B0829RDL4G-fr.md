@@ -22,6 +22,9 @@ Ahora mismo tienes [PITAYA Adaptateur Bluetooth 5.0 Émetteur et Récepteur 3-en
 
 [![PITAYA Adaptateur Bluetooth 5.0 Émetteur](https://m.media-amazon.com/images/I/310BGaQGedL._SL200_.jpg)](https://www.amazon.fr/dp/B0829RDL4G/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0829RDL4G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

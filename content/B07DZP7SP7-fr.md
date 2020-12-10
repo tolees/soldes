@@ -22,6 +22,9 @@ Tienes [jolidon – Prelude – Maillot de Bain Une Pièce 100% Européen – Re
 
 [![jolidon – Prelude – Maillot de Bain Une ](https://m.media-amazon.com/images/I/41oNJLR1mNL._SL200_.jpg)](https://www.amazon.fr/dp/B07DZP7SP7/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07DZP7SP7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordina
 
 [![Disque Dur Externe 1to USB3.1 pour PC  M](https://m.media-amazon.com/images/I/31LY3gA4k4L._SL200_.jpg)](https://www.amazon.fr/dp/B08DJ56NVL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08DJ56NVL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

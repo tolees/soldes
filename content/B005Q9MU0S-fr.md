@@ -22,6 +22,12 @@ Ahora mismo tienes [Alpenheat FireGloveliner Heated Gloveliner Mixte Adulte  Bla
 
 [![Alpenheat FireGloveliner Heated Glovelin](https://m.media-amazon.com/images/I/41fWZ4uI6wL._SL200_.jpg)](https://www.amazon.fr/dp/B005Q9MU0S/?tag=tolees0d-21)
 
+Características:
+
+- Coupe-vent à lextrémité de larbre pour une meilleure isolation
+- La durée de la chaleur de 1, 5 heures à 5, 5 heures
+- 3 niveaux de chaleur
+
 [Visítala!!!](https://www.amazon.fr/dp/B005Q9MU0S/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Ardes - ARD.M240 - Masseur - Anti-Cellulite - Professionnel 
 
 [![Ardes - ARD.M240 - Masseur - Anti-Cellul](https://m.media-amazon.com/images/I/411OPvoHWCL._SL200_.jpg)](https://www.amazon.fr/dp/B002ALQGFK/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B002ALQGFK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

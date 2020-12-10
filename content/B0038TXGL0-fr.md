@@ -22,6 +22,9 @@ Ahora mismo tienes [Shea Moisture - Noix de Coco & Hibiscus Curl & Shine Shampoo
 
 [![Shea Moisture - Noix de Coco & Hibiscus ](https://m.media-amazon.com/images/I/312QFCTTH6L._SL200_.jpg)](https://www.amazon.fr/dp/B0038TXGL0/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0038TXGL0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

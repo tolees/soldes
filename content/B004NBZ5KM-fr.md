@@ -22,6 +22,9 @@ Tienes [Fossil Femme Analogique Quartz Montre avec Bracelet en Cuir ES2830](http
 
 [![Fossil Femme Analogique Quartz Montre av](https://m.media-amazon.com/images/I/41I6VrnGzCL._SL200_.jpg)](https://www.amazon.fr/dp/B004NBZ5KM/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B004NBZ5KM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Crocs Classic Clog Kids  Sabots mixte enfant - Vert  Grass Green   29/30 
 
 [![Crocs Classic Clog Kids  Sabots mixte en](https://m.media-amazon.com/images/I/41vOD4zxJGL._SL200_.jpg)](https://www.amazon.fr/dp/B072JLGB49/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B072JLGB49/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

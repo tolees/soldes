@@ -22,6 +22,9 @@ Tienes [AVANTEK D-3F 400m de Portée Sonnettes sans Fil Kit de Carillon Étanche
 
 [![AVANTEK D-3F 400m de Portée Sonnettes sa](https://m.media-amazon.com/images/I/31CgQhK+EFL._SL200_.jpg)](https://www.amazon.fr/dp/B06XYGLZTB/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XYGLZTB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

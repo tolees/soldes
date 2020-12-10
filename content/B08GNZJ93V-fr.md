@@ -22,6 +22,9 @@ Ahora mismo tienes [BAITITON NVME 120GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD I
 
 [![BAITITON NVME 120GB SSD M.2 2280 PCIe Ex](https://m.media-amazon.com/images/I/41T0KUB2bQL._SL200_.jpg)](https://www.amazon.fr/dp/B08GNZJ93V/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08GNZJ93V/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

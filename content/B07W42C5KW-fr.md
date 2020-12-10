@@ -22,6 +22,9 @@ Tienes [Fivejoy Tapis aquadoodle 150 x 100 cm de Dessin Eau Peinture Mats   Aqua
 
 [![Fivejoy Tapis aquadoodle 150 x 100 cm de](https://m.media-amazon.com/images/I/61cIMStArYL._SL200_.jpg)](https://www.amazon.fr/dp/B07W42C5KW/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07W42C5KW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Clarks Kaylin Cara  Escarpins Femme  Gris  Stone Stone   38 EU](https://
 
 [![Clarks Kaylin Cara  Escarpins Femme  Gri](https://m.media-amazon.com/images/I/41LSwLWZbjL._SL200_.jpg)](https://www.amazon.fr/dp/B07TKS4N1P/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07TKS4N1P/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

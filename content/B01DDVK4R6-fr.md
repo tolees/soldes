@@ -22,6 +22,9 @@ Ahora mismo tienes [Coussin à Mémoire de Forme GIANFAR | Oreiller Cervical Ort
 
 [![Coussin à Mémoire de Forme GIANFAR | Ore](https://m.media-amazon.com/images/I/41nSn8z8GmL._SL200_.jpg)](https://www.amazon.fr/dp/B01DDVK4R6/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01DDVK4R6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

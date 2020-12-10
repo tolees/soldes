@@ -22,6 +22,9 @@ Ahora mismo tienes [Herschel Pop Quiz Sac à dos unisexe pour adulte  Eclipse Cr
 
 [![Herschel Pop Quiz Sac à dos unisexe pour](https://m.media-amazon.com/images/I/41DFcSyKSvL._SL200_.jpg)](https://www.amazon.fr/dp/B01GDN4QOI/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01GDN4QOI/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

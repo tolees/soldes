@@ -22,6 +22,9 @@ Está [FS - Écouteurs Premium Bluetooth sans Fil  Casque avec Plus de 160H d Au
 
 [![FS - Écouteurs Premium Bluetooth sans Fi](https://m.media-amazon.com/images/I/51vrWltwyxL._SL200_.jpg)](https://www.amazon.fr/dp/B08FDV9FY2/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08FDV9FY2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

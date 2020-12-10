@@ -22,6 +22,9 @@ Ahora mismo tienes [Coque de Protection pour Switch en TPU Souple et 8 X Couvre 
 
 [![Coque de Protection pour Switch en TPU S](https://m.media-amazon.com/images/I/41rwgEiEMYL._SL200_.jpg)](https://www.amazon.fr/dp/B08GHTRBKN/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08GHTRBKN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

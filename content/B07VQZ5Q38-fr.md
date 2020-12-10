@@ -22,6 +22,9 @@ Ahora mismo tienes [Marmot Wm s Slingshot Jacket Veste de Neige en Duvet  Facteu
 
 [![Marmot Wm s Slingshot Jacket Veste de Ne](https://m.media-amazon.com/images/I/31Ch3CXO3jL._SL200_.jpg)](https://www.amazon.fr/dp/B07VQZ5Q38/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07VQZ5Q38/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Tots by Smart Rike 240–109 Parure de lit classic  gris de melange](htt
 
 [![Tots by Smart Rike 240–109 Parure de lit](https://m.media-amazon.com/images/I/41DXVpyR2KL._SL200_.jpg)](https://www.amazon.fr/dp/B01BSISRCA/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01BSISRCA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

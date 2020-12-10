@@ -22,6 +22,12 @@ Tienes [Under Armour Unstoppable Move Light Pantalon Homme Gris FR : L  Taille F
 
 [![Under Armour Unstoppable Move Light Pant](https://m.media-amazon.com/images/I/414+i4H6LVL._SL200_.jpg)](https://www.amazon.fr/dp/B07L9MD2HM/?tag=tolees0d-21)
 
+Características principales:
+
+- Taille: L
+- Couleur: Gris
+- Nom du modèle: Un Move light pant
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07L9MD2HM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

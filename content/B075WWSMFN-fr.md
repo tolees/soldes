@@ -22,6 +22,9 @@ Tienes [Kodak Printomatic - Appareil Photo à Impression Instantanée avec Papie
 
 [![Kodak Printomatic - Appareil Photo à Imp](https://m.media-amazon.com/images/I/31vLcKch+sL._SL200_.jpg)](https://www.amazon.fr/dp/B075WWSMFN/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B075WWSMFN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

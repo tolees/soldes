@@ -22,6 +22,9 @@ Tienes [Bosch L5008 Batterie décharge lente 12V  75 Ah  650A - Loisirs  Camping
 
 [![Bosch L5008 Batterie décharge lente 12V ](https://m.media-amazon.com/images/I/41ZcwdgbfPL._SL200_.jpg)](https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

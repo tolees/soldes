@@ -22,6 +22,9 @@ Está [Netac Carte mémoire microSDXC  256G Haute Vitesse UHS-I Carte Micro SD j
 
 [![Netac Carte mémoire microSDXC  256G Haut](https://m.media-amazon.com/images/I/41c18mSLTQL._SL200_.jpg)](https://www.amazon.fr/dp/B0832RCSZW/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0832RCSZW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

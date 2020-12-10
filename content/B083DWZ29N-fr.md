@@ -22,6 +22,9 @@ Está [Vistefly VX Aspirateur sans Fil  23KPA 250W Aspirateur Balai  Autonomie 5
 
 [![Vistefly VX Aspirateur sans Fil  23KPA 2](https://m.media-amazon.com/images/I/41wg2ljnA4L._SL200_.jpg)](https://www.amazon.fr/dp/B083DWZ29N/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B083DWZ29N/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

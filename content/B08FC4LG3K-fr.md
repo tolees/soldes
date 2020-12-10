@@ -22,6 +22,9 @@ Tienes [eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync Bout
 
 [![eXtremeRate LB RB LT RT Bumpers Triggers](https://m.media-amazon.com/images/I/41jFXjmBZ0L._SL200_.jpg)](https://www.amazon.fr/dp/B08FC4LG3K/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08FC4LG3K/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

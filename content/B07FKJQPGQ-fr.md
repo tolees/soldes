@@ -22,6 +22,9 @@ Está [The North Face Canyonlands Sweat à Capuche Homme  Gris  TNF Dark Grey He
 
 [![The North Face Canyonlands Sweat à Capuc](https://m.media-amazon.com/images/I/41IPbpMIeIL._SL200_.jpg)](https://www.amazon.fr/dp/B07FKJQPGQ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FKJQPGQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

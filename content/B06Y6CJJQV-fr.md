@@ -22,6 +22,9 @@ Tienes [Rhodia 117744C - carnet souple Rhodiarama Goalbook taupe  A5  14 8x21 cm
 
 [![Rhodia 117744C - carnet souple Rhodiaram](https://m.media-amazon.com/images/I/31U6iADHaLL._SL200_.jpg)](https://www.amazon.fr/dp/B06Y6CJJQV/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06Y6CJJQV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

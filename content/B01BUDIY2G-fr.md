@@ -22,6 +22,9 @@ Tienes [Wagner W100  2361508  Pistolet à peinture pour bois/métal](https://www
 
 [![Wagner W100  2361508  Pistolet à peintur](https://m.media-amazon.com/images/I/41WKQSL6l6L._SL200_.jpg)](https://www.amazon.fr/dp/B01BUDIY2G/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01BUDIY2G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

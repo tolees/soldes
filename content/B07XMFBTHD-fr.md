@@ -22,6 +22,9 @@ Está [Skechers GO Run 400 V2  Baskets Homme  Textile Noir Noir avec Bordure Gri
 
 [![Skechers GO Run 400 V2  Baskets Homme  T](https://m.media-amazon.com/images/I/41ex2TV+KzL._SL200_.jpg)](https://www.amazon.fr/dp/B07XMFBTHD/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07XMFBTHD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

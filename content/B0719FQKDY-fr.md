@@ -22,6 +22,9 @@ Ahora mismo tienes [Neutrogena Visibly Clear Gel Nettoyant Pamplemousse Rose –
 
 [![Neutrogena Visibly Clear Gel Nettoyant P](https://m.media-amazon.com/images/I/41Dm4AfHffL._SL200_.jpg)](https://www.amazon.fr/dp/B0719FQKDY/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0719FQKDY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G ](https://www.a
 
 [![Sony SEL70300G zoom  FE 70-300 mm F4 5-5](https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg)](https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Téfal Gourmet crêpière Deux plaques amovibles antiadhésives Tempéra
 
 [![Téfal Gourmet crêpière Deux plaques amov](https://m.media-amazon.com/images/I/31eX54wR4TL._SL200_.jpg)](https://www.amazon.fr/dp/B085JBQ6F8/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B085JBQ6F8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

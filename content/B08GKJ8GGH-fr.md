@@ -22,6 +22,9 @@ Está [RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite/cc
 
 [![RIIMUHIR Verre Trempé pour Xiaomi Mi Not](https://m.media-amazon.com/images/I/41ukwSSmHCL._SL200_.jpg)](https://www.amazon.fr/dp/B08GKJ8GGH/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08GKJ8GGH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

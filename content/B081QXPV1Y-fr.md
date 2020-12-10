@@ -22,6 +22,9 @@ Está [Razer Basilisk Ultimate - souris de jeu sans fil avec 11 boutons programm
 
 [![Razer Basilisk Ultimate - souris de jeu ](https://m.media-amazon.com/images/I/31sjJk7cZ2L._SL200_.jpg)](https://www.amazon.fr/dp/B081QXPV1Y/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B081QXPV1Y/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

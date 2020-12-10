@@ -22,6 +22,9 @@ Está [Les Tropéziennes par M. Belarbi HIRONDEL  Sandales Bride Cheville Femmes
 
 [![Les Tropéziennes par M. Belarbi HIRONDEL](https://m.media-amazon.com/images/I/41OyFviZJBL._SL200_.jpg)](https://www.amazon.fr/dp/B07BKZY63L/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07BKZY63L/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

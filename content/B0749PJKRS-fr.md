@@ -22,6 +22,9 @@ Ahora mismo tienes [CRAZYCHIC - Bague Elastique Taille Réglable Ajustable Femme
 
 [![CRAZYCHIC - Bague Elastique Taille Régla](https://m.media-amazon.com/images/I/41-bxKPCACL._SL200_.jpg)](https://www.amazon.fr/dp/B0749PJKRS/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0749PJKRS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

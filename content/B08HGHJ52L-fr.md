@@ -22,6 +22,9 @@ Tienes [LK Clair Coque pour Samsung Galaxy A71  [2 pièces Verre trempé Protect
 
 [![LK Clair Coque pour Samsung Galaxy A71  ](https://m.media-amazon.com/images/I/510JNvgsW6L._SL200_.jpg)](https://www.amazon.fr/dp/B08HGHJ52L/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08HGHJ52L/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

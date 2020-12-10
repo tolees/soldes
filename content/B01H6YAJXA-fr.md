@@ -22,6 +22,9 @@ Está [SweetLF Rasoir Electrique Homme Rechargeable Tondeuse Barbe IPX7 Etanche 
 
 [![SweetLF Rasoir Electrique Homme Recharge](https://m.media-amazon.com/images/I/41lzyml4boL._SL200_.jpg)](https://www.amazon.fr/dp/B01H6YAJXA/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01H6YAJXA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

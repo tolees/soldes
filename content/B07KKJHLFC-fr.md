@@ -22,6 +22,9 @@ Está [KRONENKRAFT Set d ustensiles de Cuisine en Acier Inoxydable de 26 pièces
 
 [![KRONENKRAFT Set d ustensiles de Cuisine ](https://m.media-amazon.com/images/I/51Rp42nbMSL._SL200_.jpg)](https://www.amazon.fr/dp/B07KKJHLFC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KKJHLFC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

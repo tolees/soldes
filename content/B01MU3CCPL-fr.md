@@ -22,6 +22,9 @@ Está [Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC 5](https
 
 [![Kärcher 6.295-941.0 Nettoyant pour sols ](https://m.media-amazon.com/images/I/41TyAnymDjL._SL200_.jpg)](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

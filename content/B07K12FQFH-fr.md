@@ -22,6 +22,9 @@ Está [RACER Paire de gants chauffants moto Femme HEAT 3 noir Taille M](https://
 
 [![RACER Paire de gants chauffants moto Fem](https://m.media-amazon.com/images/I/41DdJ8wabxL._SL200_.jpg)](https://www.amazon.fr/dp/B07K12FQFH/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07K12FQFH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

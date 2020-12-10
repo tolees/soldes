@@ -22,6 +22,9 @@ Está [Jabra Elite Active 45e – Casque de Sport Bluetooth sans Fil Waterproof 
 
 [![Jabra Elite Active 45e – Casque de Sport](https://m.media-amazon.com/images/I/31L8SOW3QXL._SL200_.jpg)](https://www.amazon.fr/dp/B07NPLVFNL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NPLVFNL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [ELYCO Verre Trempé pour Xiaomi Redmi Note 9  [2 Pièces] 9H Dureté sans
 
 [![ELYCO Verre Trempé pour Xiaomi Redmi Not](https://m.media-amazon.com/images/I/41BqMvfcOxL._SL200_.jpg)](https://www.amazon.fr/dp/B088FNPDQS/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B088FNPDQS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

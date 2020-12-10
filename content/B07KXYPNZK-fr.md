@@ -22,6 +22,9 @@ Está [Millet – Ubic 40 – Sac à Dos de Montagne Unisexe – Équipement pou
 
 [![Millet – Ubic 40 – Sac à Dos de Montagne](https://m.media-amazon.com/images/I/41e77a49xGL._SL200_.jpg)](https://www.amazon.fr/dp/B07KXYPNZK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KXYPNZK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

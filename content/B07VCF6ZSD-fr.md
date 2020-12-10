@@ -22,6 +22,9 @@ Está [Replay Anbass Jean Slim  Gris  Medium Grey 096   W30/L30  Taille Fabrican
 
 [![Replay Anbass Jean Slim  Gris  Medium Gr](https://m.media-amazon.com/images/I/418t0dmHMgL._SL200_.jpg)](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Alessi Mw28 Dressed in Wood Centre de Table en Bois de Hêtre avec Déco
 
 [![Alessi Mw28 Dressed in Wood Centre de Ta](https://m.media-amazon.com/images/I/41khXfuLx8L._SL200_.jpg)](https://www.amazon.fr/dp/B00TQQAHCK/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00TQQAHCK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Redmi Note8 4+64Gb Black EU](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tol
 
 [![Redmi Note8 4+64Gb Black EU](https://m.media-amazon.com/images/I/41B4HlPKEVL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

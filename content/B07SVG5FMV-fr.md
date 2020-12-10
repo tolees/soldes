@@ -22,6 +22,9 @@ Tienes [Pinko Rubino 3  Baskets Enfiler Femme  Multicolore  Rosa/Grigio Ni1   35
 
 [![Pinko Rubino 3  Baskets Enfiler Femme  M](https://m.media-amazon.com/images/I/41NH9XGPNdL._SL200_.jpg)](https://www.amazon.fr/dp/B07SVG5FMV/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07SVG5FMV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

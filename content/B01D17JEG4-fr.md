@@ -22,6 +22,9 @@ Está [Samsonite Paradiver Light - 15.6 Pouces Sac à Dos pour Ordinateur Portab
 
 [![Samsonite Paradiver Light - 15.6 Pouces ](https://m.media-amazon.com/images/I/412UF2aiGpL._SL200_.jpg)](https://www.amazon.fr/dp/B01D17JEG4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01D17JEG4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

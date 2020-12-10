@@ -22,6 +22,9 @@ Está [Xiaomi Redmi Note 5 Smartphone Portable Débloqué 4G  Ecran: 5 99 Pouces
 
 [![Xiaomi Redmi Note 5 Smartphone Portable ](https://m.media-amazon.com/images/I/31kHirTqGaL._SL200_.jpg)](https://www.amazon.fr/dp/B07CZS7T17/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07CZS7T17/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

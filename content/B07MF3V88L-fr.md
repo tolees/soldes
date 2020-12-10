@@ -22,6 +22,9 @@ Ahora mismo tienes [Hoover HF18MB Aspirateur balai sans fil multifonction H-Free
 
 [![Hoover HF18MB Aspirateur balai sans fil ](https://m.media-amazon.com/images/I/31A7XBTp-uL._SL200_.jpg)](https://www.amazon.fr/dp/B07MF3V88L/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07MF3V88L/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

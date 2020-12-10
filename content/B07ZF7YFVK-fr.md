@@ -22,6 +22,9 @@ Ahora mismo tienes [COOCHEER Purificateur d air avec Réel Filtre HEPA et Filtre
 
 [![COOCHEER Purificateur d air avec Réel Fi](https://m.media-amazon.com/images/I/51B0cjtxnuL._SL200_.jpg)](https://www.amazon.fr/dp/B07ZF7YFVK/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07ZF7YFVK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Playmobil - Maison de Lucky - 9475](https://www.amazon.fr/dp/B079N2CMRT/
 
 [![Playmobil - Maison de Lucky - 9475](https://m.media-amazon.com/images/I/51P27Vja8uL._SL200_.jpg)](https://www.amazon.fr/dp/B079N2CMRT/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B079N2CMRT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Jupiter Juicepresso 3in1 Slow Juicer extracteur de jus blanc](https://www
 
 [![Jupiter Juicepresso 3in1 Slow Juicer ext](https://m.media-amazon.com/images/I/31E8JTDPwaL._SL200_.jpg)](https://www.amazon.fr/dp/B00I0R1UMC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00I0R1UMC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

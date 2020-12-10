@@ -22,6 +22,9 @@ Tienes [EDMA 261255 Boule Chauffante  Argent](https://www.amazon.fr/dp/B00IF3OB5
 
 [![EDMA 261255 Boule Chauffante  Argent](https://m.media-amazon.com/images/I/31IvlcYRyyL._SL200_.jpg)](https://www.amazon.fr/dp/B00IF3OB54/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00IF3OB54/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

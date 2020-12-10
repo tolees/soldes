@@ -22,6 +22,9 @@ Ahora mismo tienes [Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray  SD up
 
 [![Freddie Mercury Tribute Concert [Blu-ray](https://m.media-amazon.com/images/I/516Zh18-DZL._SL200_.jpg)](https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

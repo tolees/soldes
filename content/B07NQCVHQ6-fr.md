@@ -22,6 +22,9 @@ Está [Echo Dot  3ème génération   Enceinte connectée avec horloge et Alexa 
 
 [![Echo Dot  3ème génération   Enceinte con](https://m.media-amazon.com/images/I/31sgzXkWcJL._SL200_.jpg)](https://www.amazon.fr/dp/B07NQCVHQ6/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NQCVHQ6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

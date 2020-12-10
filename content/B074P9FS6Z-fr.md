@@ -22,6 +22,9 @@ Ahora mismo tienes [Fitbit Aria 2 Balance Wi-Fi Intelligente Compteur de Calorie
 
 [![Fitbit Aria 2 Balance Wi-Fi Intelligente](https://m.media-amazon.com/images/I/31B4sNFOSZL._SL200_.jpg)](https://www.amazon.fr/dp/B074P9FS6Z/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B074P9FS6Z/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

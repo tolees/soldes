@@ -22,6 +22,9 @@ Ahora mismo tienes [Somfy 2400556 - Récepteur Portail/Porte de Garage extérieu
 
 [![Somfy 2400556 - Récepteur Portail/Porte ](https://m.media-amazon.com/images/I/31w+3Zj702L._SL200_.jpg)](https://www.amazon.fr/dp/B00OHMO8AA/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00OHMO8AA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

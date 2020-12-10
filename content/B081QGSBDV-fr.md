@@ -22,6 +22,9 @@ Tienes [Savon Le Naturel - Extra Pur de Marseille à la Fleur d Oranger - 500 ml
 
 [![Savon Le Naturel - Extra Pur de Marseill](https://m.media-amazon.com/images/I/21geQeZHS+L._SL200_.jpg)](https://www.amazon.fr/dp/B081QGSBDV/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B081QGSBDV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

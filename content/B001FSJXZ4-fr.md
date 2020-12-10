@@ -22,6 +22,9 @@ Ahora mismo tienes [Delonghi V550715 Bain d huile serie vento  Blanc](https://ww
 
 [![Delonghi V550715 Bain d huile serie vent](https://m.media-amazon.com/images/I/31+VcP8D7oL._SL200_.jpg)](https://www.amazon.fr/dp/B001FSJXZ4/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B001FSJXZ4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [MOONESS Coque Xiaomi Redmi 9 + Verre Trempé Housse en Cuir 
 
 [![MOONESS Coque Xiaomi Redmi 9 + Verre Tre](https://m.media-amazon.com/images/I/51mXGeCcrqL._SL200_.jpg)](https://www.amazon.fr/dp/B08DXYTDJF/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08DXYTDJF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

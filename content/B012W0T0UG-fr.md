@@ -22,6 +22,9 @@ Tienes [Philips S5400/06 Rasoir électrique Series 5000 étanche avec Tondeuse d
 
 [![Philips S5400/06 Rasoir électrique Serie](https://m.media-amazon.com/images/I/41os12AmC9L._SL200_.jpg)](https://www.amazon.fr/dp/B012W0T0UG/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B012W0T0UG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

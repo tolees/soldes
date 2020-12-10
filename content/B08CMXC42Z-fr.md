@@ -22,6 +22,9 @@ Ahora mismo tienes [Écouteur sans Fil Bluetooth Mini Casque Intra-auriculaire s
 
 [![Écouteur sans Fil Bluetooth Mini Casque ](https://m.media-amazon.com/images/I/31tKkdnaN5L._SL200_.jpg)](https://www.amazon.fr/dp/B08CMXC42Z/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08CMXC42Z/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

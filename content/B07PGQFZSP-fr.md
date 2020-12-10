@@ -22,6 +22,9 @@ Está [Chie Mihara Ventura  Escarpins Salomé Femmes  Noir  Ante Picasso Negro  
 
 [![Chie Mihara Ventura  Escarpins Salomé Fe](https://m.media-amazon.com/images/I/31Hp9wiM1eL._SL200_.jpg)](https://www.amazon.fr/dp/B07PGQFZSP/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07PGQFZSP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

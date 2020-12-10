@@ -22,6 +22,9 @@ Está [Projecteur multimédia LCD 1080p Full HD Nebula Prizm by Anker - Projecte
 
 [![Projecteur multimédia LCD 1080p Full HD ](https://m.media-amazon.com/images/I/41yTJb1WbYL._SL200_.jpg)](https://www.amazon.fr/dp/B07H9MM81L/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07H9MM81L/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

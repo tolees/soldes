@@ -22,6 +22,9 @@ Tienes [Vans Atwood Total  Baskets Basses Homme  Noir  Canvas Black/Black   43 E
 
 [![Vans Atwood Total  Baskets Basses Homme ](https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg)](https://www.amazon.fr/dp/B00B4GB23S/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00B4GB23S/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

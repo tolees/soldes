@@ -22,6 +22,9 @@ Ahora mismo tienes [BRIKSMAX Kit de LED pour Lego Architecture Dubai Compatible 
 
 [![BRIKSMAX Kit de LED pour Lego Architectu](https://m.media-amazon.com/images/I/417kyZnjprL._SL200_.jpg)](https://www.amazon.fr/dp/B0878YRL6Z/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0878YRL6Z/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Tommy Jeans TJM Logo Pocket Tee T-Shirt  Bleu  Blue Cbk   La
 
 [![Tommy Jeans TJM Logo Pocket Tee T-Shirt ](https://m.media-amazon.com/images/I/41VJfAGJrzL._SL200_.jpg)](https://www.amazon.fr/dp/B07RHTMTS4/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07RHTMTS4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

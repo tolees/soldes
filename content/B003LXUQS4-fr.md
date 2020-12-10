@@ -22,6 +22,9 @@ Está [Pradel Excellence - 31123 - Valise Cuisinier 22 Pièces - 15 Ustensiles e
 
 [![Pradel Excellence - 31123 - Valise Cuisi](https://m.media-amazon.com/images/I/5138p4EG7KL._SL200_.jpg)](https://www.amazon.fr/dp/B003LXUQS4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B003LXUQS4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Hot Wheels City T-Rex en Furie  coffret de jeu pour petites voitures à c
 
 [![Hot Wheels City T-Rex en Furie  coffret ](https://m.media-amazon.com/images/I/419qkA+06OL._SL200_.jpg)](https://www.amazon.fr/dp/B07NQDPYQC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NQDPYQC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

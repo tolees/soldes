@@ -22,6 +22,9 @@ Está [Hackett Army Polo Fzip Gilet  Vert  Forest Green 682   X-Large Homme](htt
 
 [![Hackett Army Polo Fzip Gilet  Vert  Fore](https://m.media-amazon.com/images/I/412U16R2lmL._SL200_.jpg)](https://www.amazon.fr/dp/B07MSPHWMJ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07MSPHWMJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

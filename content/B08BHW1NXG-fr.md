@@ -22,6 +22,9 @@ Tienes [Disque Dur Externe 1to  Disque Dur Externe USB-C Portable pour PC  Mac  
 
 [![Disque Dur Externe 1to  Disque Dur Exter](https://m.media-amazon.com/images/I/3110I5FcAyL._SL200_.jpg)](https://www.amazon.fr/dp/B08BHW1NXG/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08BHW1NXG/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

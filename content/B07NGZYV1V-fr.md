@@ -22,6 +22,9 @@ Ahora mismo tienes [Strellson Premium Cale-Madden Costume  Gris  Grey 019   48  
 
 [![Strellson Premium Cale-Madden Costume  G](https://m.media-amazon.com/images/I/31ywFFzOtWL._SL200_.jpg)](https://www.amazon.fr/dp/B07NGZYV1V/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07NGZYV1V/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

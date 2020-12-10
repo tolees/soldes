@@ -22,6 +22,9 @@ Está [Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis de couloir en
 
 [![Safavieh Tapis Moderne  Tissé Fibre de V](https://m.media-amazon.com/images/I/41gkrOeaRUL._SL200_.jpg)](https://www.amazon.fr/dp/B00NC1ZB9E/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00NC1ZB9E/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

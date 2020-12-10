@@ -22,6 +22,9 @@ Ahora mismo tienes [Skechers Men s Moreno Trainers  Beige  Taupe TPE   6.5 UK 40
 
 [![Skechers Men s Moreno Trainers  Beige  T](https://m.media-amazon.com/images/I/41POjtyt8nL._SL200_.jpg)](https://www.amazon.fr/dp/B07GPNB1LZ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07GPNB1LZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

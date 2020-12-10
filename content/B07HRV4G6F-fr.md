@@ -22,6 +22,9 @@ Ahora mismo tienes [Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec couver
 
 [![Cuisinox C61400WX13W09 Eclipse Faitout 2](https://m.media-amazon.com/images/I/31PEsUg51CL._SL200_.jpg)](https://www.amazon.fr/dp/B07HRV4G6F/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07HRV4G6F/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32 pouces Tun
 
 [![TV LED Full HD 80 cm Philips 32PFS5603 T](https://m.media-amazon.com/images/I/51pmiK0SOML._SL200_.jpg)](https://www.amazon.fr/dp/B0794SD8PZ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0794SD8PZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [Multi Mat Sophie la girafe - Tapis d éveil](https://www.amazon.fr/dp/B0
 
 [![Multi Mat Sophie la girafe - Tapis d éve](https://m.media-amazon.com/images/I/41AyMlyIk4L._SL200_.jpg)](https://www.amazon.fr/dp/B07GX95N3N/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07GX95N3N/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

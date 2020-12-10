@@ -22,6 +22,9 @@ Está [Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir / Ecru  
 
 [![Dim - Pockets Coton - Slip - Quotidien -](https://m.media-amazon.com/images/I/51bxoqlcb7L._SL200_.jpg)](https://www.amazon.fr/dp/B0163EJIOK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0163EJIOK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

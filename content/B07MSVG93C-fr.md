@@ -22,6 +22,9 @@ Está [Liu Jo Shoes Karlie 14 Sneaker Bordeaux  Sneakers Basses Femme  Rouge S17
 
 [![Liu Jo Shoes Karlie 14 Sneaker Bordeaux ](https://m.media-amazon.com/images/I/41AG5k2L+FL._SL200_.jpg)](https://www.amazon.fr/dp/B07MSVG93C/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07MSVG93C/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

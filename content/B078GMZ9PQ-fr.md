@@ -22,6 +22,9 @@ Tienes [Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation 
 
 [![Jabra Elite 65t Écouteurs - Écouteurs Bl](https://m.media-amazon.com/images/I/41y4-t59TBL._SL200_.jpg)](https://www.amazon.fr/dp/B078GMZ9PQ/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B078GMZ9PQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

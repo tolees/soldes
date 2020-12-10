@@ -22,6 +22,9 @@ Está [YOSHI S CRAFTED WORLD - SWITCH](https://www.amazon.fr/dp/B07N99CPT3/?tag=
 
 [![YOSHI S CRAFTED WORLD - SWITCH](https://m.media-amazon.com/images/I/5147hGlUDEL._SL200_.jpg)](https://www.amazon.fr/dp/B07N99CPT3/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07N99CPT3/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

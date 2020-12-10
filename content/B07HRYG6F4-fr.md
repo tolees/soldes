@@ -22,6 +22,9 @@ Ahora mismo tienes [J&K Markets Couette Microfibre 240x260cm- 750gr/m² - Grand 
 
 [![J&K Markets Couette Microfibre 240x260cm](https://m.media-amazon.com/images/I/41xpI6aII8L._SL200_.jpg)](https://www.amazon.fr/dp/B07HRYG6F4/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07HRYG6F4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

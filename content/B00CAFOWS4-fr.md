@@ -22,6 +22,9 @@ Está [Aigle - Miss Juliette - Botte de pluie - Femme - Bleu  Marine/Rouge  - 40
 
 [![Aigle - Miss Juliette - Botte de pluie -](https://m.media-amazon.com/images/I/412jsciOLBL._SL200_.jpg)](https://www.amazon.fr/dp/B00CAFOWS4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00CAFOWS4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

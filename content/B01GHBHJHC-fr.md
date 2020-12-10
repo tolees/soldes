@@ -22,6 +22,9 @@ Está [Qts Italy mi-to Distributeur de papier toilette Jumbo en aluminium sablé
 
 [![Qts Italy mi-to Distributeur de papier t](https://m.media-amazon.com/images/I/41sUv98xbwL._SL200_.jpg)](https://www.amazon.fr/dp/B01GHBHJHC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01GHBHJHC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

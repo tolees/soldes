@@ -22,6 +22,9 @@ Está [Tommy Hilfiger Diamond Quilted Bomber Blouson  Bleu  Maritime Blue 431   
 
 [![Tommy Hilfiger Diamond Quilted Bomber Bl](https://m.media-amazon.com/images/I/41T4-iCYz5L._SL200_.jpg)](https://www.amazon.fr/dp/B07JQVHKPB/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JQVHKPB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

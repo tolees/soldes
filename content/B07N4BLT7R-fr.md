@@ -22,6 +22,9 @@ Tienes [Catimini CP44005 Manteau  Noir  Black 02   4 Ans  Taille Fabricant:4A  F
 
 [![Catimini CP44005 Manteau  Noir  Black 02](https://m.media-amazon.com/images/I/51eA5ouUIBL._SL200_.jpg)](https://www.amazon.fr/dp/B07N4BLT7R/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07N4BLT7R/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

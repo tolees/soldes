@@ -22,6 +22,9 @@ Tienes [Bosch Professional Ponceuse Excentrique Filaire GEX 125-150 AVE  400 W  
 
 [![Bosch Professional Ponceuse Excentrique ](https://m.media-amazon.com/images/I/51DZZ54fbrL._SL200_.jpg)](https://www.amazon.fr/dp/B0050KAZ1O/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B0050KAZ1O/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

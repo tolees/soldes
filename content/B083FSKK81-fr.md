@@ -22,6 +22,9 @@ Ahora mismo tienes [BRIKSMAX Kit de LED pour Lego Hidden Side L’école hantée
 
 [![BRIKSMAX Kit de LED pour Lego Hidden Sid](https://m.media-amazon.com/images/I/51HzqdsP5LL._SL200_.jpg)](https://www.amazon.fr/dp/B083FSKK81/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B083FSKK81/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

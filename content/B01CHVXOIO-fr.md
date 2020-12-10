@@ -22,6 +22,9 @@ Está [Moulinex OW220830 Machine à Pain 17 Programmes Plastique Noir/Pourpre 31
 
 [![Moulinex OW220830 Machine à Pain 17 Prog](https://m.media-amazon.com/images/I/41-miVr3-LL._SL200_.jpg)](https://www.amazon.fr/dp/B01CHVXOIO/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01CHVXOIO/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,14 @@ Tienes [Therm-ic T45-0202-200 Chaussettes Chauffante Mixte Adulte  Noir  Taille 
 
 [![Therm-ic T45-0202-200 Chaussettes Chauff](https://m.media-amazon.com/images/I/41ZHxXyb65L._SL200_.jpg)](https://www.amazon.fr/dp/B076QBJT8K/?tag=tolees0d-21)
 
+Características principales:
+
+- Batteries fines et légères vous apportent jusquà 8 heures de chaleur
+- Chaussette de haute qualité développée avec la technologie x-socks
+- Gestion de la chauffe à distance en Bluetooth via votre smartphone
+- Chaussette chauffante haute + batteries THERM-IC s700 Bluetooth pour toutes vos activités extérieur
+- Elément chauffant imperceptible à lextérieur de la chaussette. Chaussette lavable en machine à 30°c.
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B076QBJT8K/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

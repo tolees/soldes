@@ -22,6 +22,9 @@ Tienes [Nike 894432 T-Shirt Men s  Bleu  Midnight Navy/White 411   FR : S  Taill
 
 [![Nike 894432 T-Shirt Men s  Bleu  Midnigh](https://m.media-amazon.com/images/I/41Ja6Tif0hL._SL200_.jpg)](https://www.amazon.fr/dp/B077VXM97G/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B077VXM97G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

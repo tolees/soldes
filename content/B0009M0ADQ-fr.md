@@ -22,6 +22,9 @@ Tienes [Canon CA-570 Chargeur de batterie pour caméscope Canon](https://www.ama
 
 [![Canon CA-570 Chargeur de batterie pour c](https://m.media-amazon.com/images/I/21ZwYrCs3nL._SL500_._SL200_.jpg)](https://www.amazon.fr/dp/B0009M0ADQ/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B0009M0ADQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

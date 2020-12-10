@@ -22,6 +22,9 @@ Está [Chicco -  Lit Cododo Next2Me Dream - Berceau bébé - Luna](https://www.a
 
 [![Chicco -  Lit Cododo Next2Me Dream - Ber](https://m.media-amazon.com/images/I/41maWoNvOFL._SL200_.jpg)](https://www.amazon.fr/dp/B07GJGKMVR/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07GJGKMVR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [El Naturalista Wakatiwai  Sandales Bout Ouvert Femme  Jaune  Curry Mixed 
 
 [![El Naturalista Wakatiwai  Sandales Bout ](https://m.media-amazon.com/images/I/41tRmV27zyL._SL200_.jpg)](https://www.amazon.fr/dp/B07F39H6PW/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07F39H6PW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

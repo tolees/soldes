@@ -22,6 +22,9 @@ Tienes [VAHDAM  Feuilles de Thé Vert de l Himalaya  50+ Tasses  | 100% BIO & NA
 
 [![VAHDAM  Feuilles de Thé Vert de l Himala](https://m.media-amazon.com/images/I/51f54c6wKiL._SL200_.jpg)](https://www.amazon.fr/dp/B00R65SD4C/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00R65SD4C/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

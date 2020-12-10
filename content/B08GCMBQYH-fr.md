@@ -22,6 +22,9 @@ Ahora mismo tienes [Ecouteur Bluetooth Casque Bluetooth sans Fil avec Micro Ster
 
 [![Ecouteur Bluetooth Casque Bluetooth sans](https://m.media-amazon.com/images/I/41eNDQ2C5zL._SL200_.jpg)](https://www.amazon.fr/dp/B08GCMBQYH/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08GCMBQYH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

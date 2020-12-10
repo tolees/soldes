@@ -22,6 +22,9 @@ Tienes [BIC Kids Kid Couleur Feutres de Coloriage à Pointe Moyenne - Couleurs A
 
 [![BIC Kids Kid Couleur Feutres de Coloriag](https://m.media-amazon.com/images/I/51AovIdRW0L._SL200_.jpg)](https://www.amazon.fr/dp/B06XDC48CM/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XDC48CM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

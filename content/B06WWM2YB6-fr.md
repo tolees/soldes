@@ -22,6 +22,9 @@ Ahora mismo tienes [Ice-Watch - ICE lo White turquoise - Montre blanche pour fem
 
 [![Ice-Watch - ICE lo White turquoise - Mon](https://m.media-amazon.com/images/I/41Mj+LrG0gL._SL200_.jpg)](https://www.amazon.fr/dp/B06WWM2YB6/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B06WWM2YB6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

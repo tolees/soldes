@@ -22,6 +22,9 @@ Está [Maegoo Manette PC PS3 TV sans Fil  2.4GHz Wireless Manette de Jeu Gamepad
 
 [![Maegoo Manette PC PS3 TV sans Fil  2.4GH](https://m.media-amazon.com/images/I/31PZXqVhvQL._SL200_.jpg)](https://www.amazon.fr/dp/B087PWBMD1/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B087PWBMD1/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

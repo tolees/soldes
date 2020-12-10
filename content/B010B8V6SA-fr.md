@@ -22,6 +22,9 @@ Tienes [Panasonic Lumix DMCG7/DMCG70 1442/3.55.6 Lumix G Vario OIS ASPH Appareil
 
 [![Panasonic Lumix DMCG7/DMCG70 1442/3.55.6](https://m.media-amazon.com/images/I/41DZEZ8-ZUL._SL200_.jpg)](https://www.amazon.fr/dp/B010B8V6SA/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B010B8V6SA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

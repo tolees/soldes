@@ -22,6 +22,9 @@ Tienes [Fer à lisser ionique - pour boucler et lisser](https://www.amazon.fr/dp
 
 [![Fer à lisser ionique - pour boucler et l](https://m.media-amazon.com/images/I/41UiEFmslPL._SL200_.jpg)](https://www.amazon.fr/dp/B07PZBYJJ2/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07PZBYJJ2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

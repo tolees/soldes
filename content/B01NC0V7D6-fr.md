@@ -22,6 +22,9 @@ Ahora mismo tienes [Russell Hobbs Toaster Grille-Pain  Cuisson Rapide et Uniform
 
 [![Russell Hobbs Toaster Grille-Pain  Cuiss](https://m.media-amazon.com/images/I/41f8GzC++oL._SL200_.jpg)](https://www.amazon.fr/dp/B01NC0V7D6/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01NC0V7D6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

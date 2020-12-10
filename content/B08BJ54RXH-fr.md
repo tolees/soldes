@@ -22,6 +22,9 @@ Ahora mismo tienes [Casque Gaming EKSA E900 Casque PS4 Micro Casque Gamer PC Cas
 
 [![Casque Gaming EKSA E900 Casque PS4 Micro](https://m.media-amazon.com/images/I/51LGmKTfu-L._SL200_.jpg)](https://www.amazon.fr/dp/B08BJ54RXH/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08BJ54RXH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

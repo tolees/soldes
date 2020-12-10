@@ -22,6 +22,9 @@ Está [Ruban LED  REDSTORM Bande LED TV Rétroéclairage Lumière Light Strip 3m
 
 [![Ruban LED  REDSTORM Bande LED TV Rétroéc](https://m.media-amazon.com/images/I/51KJ+f0BIeL._SL200_.jpg)](https://www.amazon.fr/dp/B08JHX2N3F/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08JHX2N3F/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

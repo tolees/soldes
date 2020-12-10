@@ -22,6 +22,9 @@ Tienes [LK Coque pour Xiaomi Redmi 9 [Antidérapant] Souple Flexible Silicone Ge
 
 [![LK Coque pour Xiaomi Redmi 9 [Antidérapa](https://m.media-amazon.com/images/I/515TszzLZVL._SL200_.jpg)](https://www.amazon.fr/dp/B08CXT1WHR/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08CXT1WHR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

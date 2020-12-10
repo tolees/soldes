@@ -22,6 +22,9 @@ Está [Split [Blu-Ray]](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21) co
 
 [![Split [Blu-Ray]](https://m.media-amazon.com/images/I/51cAOC9Z28L._SL200_.jpg)](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

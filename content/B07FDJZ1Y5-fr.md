@@ -22,6 +22,9 @@ Está [Christian Lacroix Femme Analogique Quartz Montre avec Bracelet en Cuir CL
 
 [![Christian Lacroix Femme Analogique Quart](https://m.media-amazon.com/images/I/41Lil+LBgIL._SL200_.jpg)](https://www.amazon.fr/dp/B07FDJZ1Y5/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FDJZ1Y5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

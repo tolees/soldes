@@ -22,6 +22,9 @@ Tienes [Cressi Apnea Wetsuit - Combinaisons de Plongée complètes pour Apnée/C
 
 [![Cressi Apnea Wetsuit - Combinaisons de P](https://m.media-amazon.com/images/I/31wVxt2DlYL._SL200_.jpg)](https://www.amazon.fr/dp/B07TC41LKP/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07TC41LKP/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

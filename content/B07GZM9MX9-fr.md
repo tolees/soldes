@@ -22,6 +22,9 @@ Está [GOAMZ Ustensiles de Cuisine 9 pcs Ustensiles de Cuisine en Silicone en An
 
 [![GOAMZ Ustensiles de Cuisine 9 pcs Ustens](https://m.media-amazon.com/images/I/51Q+3UqroIL._SL200_.jpg)](https://www.amazon.fr/dp/B07GZM9MX9/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07GZM9MX9/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

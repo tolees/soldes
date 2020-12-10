@@ -22,6 +22,9 @@ Tienes [Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector [Blu-Ray]](http
 
 [![Gankutsuou-Le Comte de Monte-Cristo-Inté](https://m.media-amazon.com/images/I/61Pzhu8zrAL._SL200_.jpg)](https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

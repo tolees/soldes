@@ -22,6 +22,9 @@ Tienes [Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert  Kaki - 40 EU
 
 [![Aigle - Parcours 2 Iso- Chaussure de cha](https://m.media-amazon.com/images/I/41gwoiqHR4L._SL200_.jpg)](https://www.amazon.fr/dp/B00942HVIE/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00942HVIE/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

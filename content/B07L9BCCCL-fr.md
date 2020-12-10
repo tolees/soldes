@@ -22,6 +22,9 @@ Está [ROYAL SLEEP Matelas viscoélastique 140x190 fermeté Moyenne  Haut de Gam
 
 [![ROYAL SLEEP Matelas viscoélastique 140x1](https://m.media-amazon.com/images/I/31UerK8YAjL._SL200_.jpg)](https://www.amazon.fr/dp/B07L9BCCCL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07L9BCCCL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

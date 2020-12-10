@@ -22,6 +22,9 @@ Tienes [Comma 8t.002.85.1022 Combinaison  Rosa  Powder Rose 8022   42 Femme](htt
 
 [![Comma 8t.002.85.1022 Combinaison  Rosa  ](https://m.media-amazon.com/images/I/31mK4mxlJTL._SL200_.jpg)](https://www.amazon.fr/dp/B07Z4BV7LB/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07Z4BV7LB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

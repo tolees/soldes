@@ -22,6 +22,9 @@ Ahora mismo tienes [Disque Dur Externe 1to USB3.1 Disque Dur Externe pour PC  Ma
 
 [![Disque Dur Externe 1to USB3.1 Disque Dur](https://m.media-amazon.com/images/I/21DhX91UUoL._SL200_.jpg)](https://www.amazon.fr/dp/B08DJ3PVRT/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08DJ3PVRT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

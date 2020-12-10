@@ -22,6 +22,9 @@ Ahora mismo tienes [Alex Perry Cadeau boucle d oreille femme argent idee cadeau 
 
 [![Alex Perry Cadeau boucle d oreille femme](https://m.media-amazon.com/images/I/410g+9C5RpL._SL200_.jpg)](https://www.amazon.fr/dp/B07Q568HGM/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07Q568HGM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

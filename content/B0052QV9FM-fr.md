@@ -22,6 +22,9 @@ Está [Onduleur Eaton Ellipse ECO 500 FR - Off-line UPS - EL500FR - 500VA  4 pri
 
 [![Onduleur Eaton Ellipse ECO 500 FR - Off-](https://m.media-amazon.com/images/I/31KDPHegU6L._SL200_.jpg)](https://www.amazon.fr/dp/B0052QV9FM/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0052QV9FM/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

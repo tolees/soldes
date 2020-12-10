@@ -22,6 +22,9 @@ Está [RenFox Flambé brûleur de Cuisine brûleur à gaz Butane  Serrure de sé
 
 [![RenFox Flambé brûleur de Cuisine brûleur](https://m.media-amazon.com/images/I/51JczPLufGL._SL200_.jpg)](https://www.amazon.fr/dp/B07KQY9GLH/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KQY9GLH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

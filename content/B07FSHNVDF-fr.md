@@ -22,6 +22,9 @@ Está [Oral-B Genius 10 Midnight Black Brosse À Dents Électrique Par Braun](ht
 
 [![Oral-B Genius 10 Midnight Black Brosse À](https://m.media-amazon.com/images/I/51-Kp95cbfL._SL200_.jpg)](https://www.amazon.fr/dp/B07FSHNVDF/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FSHNVDF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

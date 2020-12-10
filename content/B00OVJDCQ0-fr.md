@@ -22,6 +22,9 @@ Tienes [D-Link DWR-932 Routeur Mobile Wireless N150 4G LTE Cat4 - Module LTE/HSP
 
 [![D-Link DWR-932 Routeur Mobile Wireless N](https://m.media-amazon.com/images/I/41v4DWPgNQL._SL200_.jpg)](https://www.amazon.fr/dp/B00OVJDCQ0/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00OVJDCQ0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

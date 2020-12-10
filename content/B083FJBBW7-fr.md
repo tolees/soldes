@@ -22,6 +22,10 @@ Tienes [Lacoste Sport WH2049 Pantalon de survêtement  Marine/Blanc  S Homme](ht
 
 [![Lacoste Sport WH2049 Pantalon de survête](https://m.media-amazon.com/images/I/41aUsK6-g5L._SL200_.jpg)](https://www.amazon.fr/dp/B083FJBBW7/?tag=tolees0d-21)
 
+Características principales:
+
+- Creator of the first polo shirt in 1933, Lacoste has established itself as the only luxury casual wear brand combining French elegance and freedom of movement, inherited from its sports origins. The crocodile brand is one of the best known brands in the world and has established itself as the reference of polo shirt, constantly reinventing it in various forms, materials and styles. Presented in 120 countries, it offers a complete world of clothing, leather goods, perfumes, shoes, glasses, linens, watches and underwear, whose design meets its high standards of quality and responsibility.
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B083FJBBW7/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

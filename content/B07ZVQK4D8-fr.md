@@ -22,6 +22,9 @@ Está [Levi s Perfect V Neck T-Shirt  Annalise Stripe Sepia Rose  M Femme](https
 
 [![Levi s Perfect V Neck T-Shirt  Annalise ](https://m.media-amazon.com/images/I/31aL9VelL+L._SL200_.jpg)](https://www.amazon.fr/dp/B07ZVQK4D8/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07ZVQK4D8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,14 @@ Está [Helly Hansen HH Seven J Jacket – Veste de sport zippée et imperméable
 
 [![Helly Hansen HH Seven J Jacket – Veste d](https://m.media-amazon.com/images/I/41lRxrFVPLL._SL200_.jpg)](https://www.amazon.fr/dp/B006SWC88Q/?tag=tolees0d-21)
 
+Principales características:
+
+- Découvrez une protection totale grâce à la technologie Helly Tech Protection et au zip YKK de qualité - Coutures entièrement étanches et traitement hydrofuge durable (DWR)
+- Veste de pluie épurée adaptée à un grand nombre dactivités dextérieur - Poignets réglables, bas de veste réglable à laide dun cordon de serrage, protection menton anti-frottement
+- Cette veste comprend un rabat tempête, une capuche réglable et un mesh intérieur pour plus de confort - Sa coupe ajustable et ses poches à Zip sont très pratiques
+- Livraison : 1 x Helly Hansen HH Seven J Jacket Veste zippée et imperméable pour homme - Légère et confortable - Couleur : noir - Taille : 3XL
+- Pour une utilisation quotidienne ou pour les sorties sous la pluie, Helly Hansen vous présente la veste zippée et imperméable pour homme HH Seven J Jacket
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B006SWC88Q/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

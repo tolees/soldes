@@ -22,6 +22,9 @@ Está [eXtremeRate Coque Avant Housse Boîtier Kit de Remplacement avec Anneaux 
 
 [![eXtremeRate Coque Avant Housse Boîtier K](https://m.media-amazon.com/images/I/31p129kASvL._SL200_.jpg)](https://www.amazon.fr/dp/B08K8FZVCV/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08K8FZVCV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

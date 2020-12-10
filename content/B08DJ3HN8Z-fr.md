@@ -22,6 +22,9 @@ Está [Disque Dur Externe 2to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup 
 
 [![Disque Dur Externe 2to Type C USB3.1 pou](https://m.media-amazon.com/images/I/41APlDSwhyL._SL200_.jpg)](https://www.amazon.fr/dp/B08DJ3HN8Z/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08DJ3HN8Z/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

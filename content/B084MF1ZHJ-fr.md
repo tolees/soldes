@@ -22,6 +22,9 @@ Está [2020 Casque Bluetooth sans BYil avec Suppression du Bruit  Mini Casque Bl
 
 [![2020 Casque Bluetooth sans BYil avec Sup](https://m.media-amazon.com/images/I/41IWXXZS6tL._SL200_.jpg)](https://www.amazon.fr/dp/B084MF1ZHJ/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B084MF1ZHJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

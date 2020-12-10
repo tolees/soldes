@@ -22,6 +22,9 @@ Está [XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau Support [Fonct
 
 [![XIFAN Coque pour Xiaomi Poco X3 NFC Nouv](https://m.media-amazon.com/images/I/51efv1zNySL._SL200_.jpg)](https://www.amazon.fr/dp/B08HVC5FDF/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08HVC5FDF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Objectif Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R  zoom standard  co
 
 [![Objectif Olympus M.Zuiko Digital 14-42mm](https://m.media-amazon.com/images/I/41DaFsS3WPL._SL200_.jpg)](https://www.amazon.fr/dp/B0058G3ZNA/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0058G3ZNA/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

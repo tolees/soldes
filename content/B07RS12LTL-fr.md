@@ -22,6 +22,9 @@ Está [HUION New Kamvas 20 2019 Tablette Graphique avec écran  Version Amélior
 
 [![HUION New Kamvas 20 2019 Tablette Graphi](https://m.media-amazon.com/images/I/51LBuenYoML._SL200_.jpg)](https://www.amazon.fr/dp/B07RS12LTL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RS12LTL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

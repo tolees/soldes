@@ -22,6 +22,9 @@ Está [Carl Victor - Poêle Grill en Fonte 28 cm Poignée en Bois  Induction](ht
 
 [![Carl Victor - Poêle Grill en Fonte 28 cm](https://m.media-amazon.com/images/I/41oQ9NQDJAL._SL200_.jpg)](https://www.amazon.fr/dp/B076DCN9KB/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B076DCN9KB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

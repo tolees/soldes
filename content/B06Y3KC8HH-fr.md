@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsung Original Advanced Écouteurs Intra-Auriculaires avec
 
 [![Samsung Original Advanced Écouteurs Intr](https://m.media-amazon.com/images/I/41SMxS6nn+L._SL200_.jpg)](https://www.amazon.fr/dp/B06Y3KC8HH/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B06Y3KC8HH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

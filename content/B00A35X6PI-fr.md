@@ -22,6 +22,9 @@ Ahora mismo tienes [Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma](https:
 
 [![Sigma Objectif 35 mm F1 4 DG HSM ART - M](https://m.media-amazon.com/images/I/51FDyBrykSL._SL200_.jpg)](https://www.amazon.fr/dp/B00A35X6PI/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00A35X6PI/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

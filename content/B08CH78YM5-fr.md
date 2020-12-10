@@ -22,6 +22,9 @@ Está [Thermometre Frontal Adulte  KKmier Thermometre sans Contact avec Affichag
 
 [![Thermometre Frontal Adulte  KKmier Therm](https://m.media-amazon.com/images/I/41ZRPY9k9mL._SL200_.jpg)](https://www.amazon.fr/dp/B08CH78YM5/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08CH78YM5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

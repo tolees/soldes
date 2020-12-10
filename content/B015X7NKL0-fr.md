@@ -22,6 +22,9 @@ Está [Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent 26 x 39 x 25 c
 
 [![Moulinex MK812101 Multicuiseur Tradition](https://m.media-amazon.com/images/I/41sI8A5zZ3L._SL200_.jpg)](https://www.amazon.fr/dp/B015X7NKL0/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B015X7NKL0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Mano Sets de bagages MPTSET3 Noir 56.0 liters](https://www.amazon.fr/dp/B
 
 [![Mano Sets de bagages MPTSET3 Noir 56.0 l](https://m.media-amazon.com/images/I/4130gmLFF3L._SL200_.jpg)](https://www.amazon.fr/dp/B00LMCEW40/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B00LMCEW40/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

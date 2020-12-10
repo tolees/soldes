@@ -22,6 +22,9 @@ Tienes [Bosch L5013 Batterie décharge lente 12V  90Ah  800A - Loisirs  Camping-
 
 [![Bosch L5013 Batterie décharge lente 12V ](https://m.media-amazon.com/images/I/31dyGHpDqRL._SL200_.jpg)](https://www.amazon.fr/dp/B00E49YRU2/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00E49YRU2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [ENKLEN Hub USB C 12 en 1 pour MacBook Pro/Air 2019~2016  Adaptateur de Ty
 
 [![ENKLEN Hub USB C 12 en 1 pour MacBook Pr](https://m.media-amazon.com/images/I/510OjoCtZbL._SL200_.jpg)](https://www.amazon.fr/dp/B07VWMH6LH/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07VWMH6LH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [Amical 9 5 Pouces SuperG-Ṍ-d-és fémmḔ Vî-b-r-àňt pṌïňt g ḁ
 
 [![Amical 9 5 Pouces SuperG-Ṍ-d-és fémmḔ Vî](https://m.media-amazon.com/images/I/31+h02B4stL._SL200_.jpg)](https://www.amazon.fr/dp/B089ZSM77G/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B089ZSM77G/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

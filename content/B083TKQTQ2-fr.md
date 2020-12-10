@@ -22,6 +22,9 @@ Está [yobola Ecouteur Bluetooth  Écouteur sans Fil 5.0 24h de Lecture stéréo
 
 [![yobola Ecouteur Bluetooth  Écouteur sans](https://m.media-amazon.com/images/I/41vqEzbdquL._SL200_.jpg)](https://www.amazon.fr/dp/B083TKQTQ2/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B083TKQTQ2/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

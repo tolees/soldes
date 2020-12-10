@@ -22,6 +22,9 @@ Tienes [Levi s SS Original HM Tee T-Shirt  Multicolore  Cotton + Patch White 000
 
 [![Levi s SS Original HM Tee T-Shirt  Multi](https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg)](https://www.amazon.fr/dp/B07CHTTJ8B/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07CHTTJ8B/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [August DA100D Télévision Portable 10" 25 4cm  TNT HD - Téléviseur En
 
 [![August DA100D Télévision Portable 10" 25](https://m.media-amazon.com/images/I/51wJkre7erL._SL200_.jpg)](https://www.amazon.fr/dp/B001GHAMB8/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B001GHAMB8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

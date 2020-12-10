@@ -22,6 +22,9 @@ Está [Levi s Housemark Polo  Noir  Mineral Black 0080   Small Homme](https://ww
 
 [![Levi s Housemark Polo  Noir  Mineral Bla](https://m.media-amazon.com/images/I/311gvyZbOiL._SL200_.jpg)](https://www.amazon.fr/dp/B07KF67L2Z/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KF67L2Z/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

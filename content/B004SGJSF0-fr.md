@@ -22,6 +22,9 @@ Está [Puma - Suede Classic+ - Baskets mode - Mixte Adulte - Rouge  team regal r
 
 [![Puma - Suede Classic+ - Baskets mode - M](https://m.media-amazon.com/images/I/51LtCwQc1TL._SL200_.jpg)](https://www.amazon.fr/dp/B004SGJSF0/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B004SGJSF0/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

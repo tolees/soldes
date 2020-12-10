@@ -22,6 +22,9 @@ Tienes [Braun Silk·Expert Pro 5 PL5014 Épilateur Lumière Pulsée Intense IPL 
 
 [![Braun Silk·Expert Pro 5 PL5014 Épilateur](https://m.media-amazon.com/images/I/41rjs4DCJ9L._SL200_.jpg)](https://www.amazon.fr/dp/B07M8CYQWQ/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07M8CYQWQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

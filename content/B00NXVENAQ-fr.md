@@ -22,6 +22,9 @@ Tienes [Melitta Caffeo Passione  Argent  F53/0-101  Machine à Café et Boissons
 
 [![Melitta Caffeo Passione  Argent  F53/0-1](https://m.media-amazon.com/images/I/410Qy1WubfL._SL200_.jpg)](https://www.amazon.fr/dp/B00NXVENAQ/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00NXVENAQ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

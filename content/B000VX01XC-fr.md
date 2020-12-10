@@ -22,6 +22,9 @@ Está [Timberland Classic 2 Eye  Chaussures bateau Homme  Marron Rootbeer Smooth
 
 [![Timberland Classic 2 Eye  Chaussures bat](https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg)](https://www.amazon.fr/dp/B000VX01XC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B000VX01XC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

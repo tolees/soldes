@@ -22,6 +22,9 @@ Está [Polti Forzaspira AG220 Plus  Nettoyeur à Vitres sans Fil Rechargeable  B
 
 [![Polti Forzaspira AG220 Plus  Nettoyeur à](https://m.media-amazon.com/images/I/41mkfU7EBsL._SL200_.jpg)](https://www.amazon.fr/dp/B07MWHRRVC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07MWHRRVC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

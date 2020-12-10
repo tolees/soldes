@@ -22,6 +22,9 @@ Está [Team Kalorik Trancheuse Électrique  Molette de Réglage 0-15 mm  200 W  
 
 [![Team Kalorik Trancheuse Électrique  Mole](https://m.media-amazon.com/images/I/51lB96gkrhL._SL200_.jpg)](https://www.amazon.fr/dp/B077TZ2PFR/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B077TZ2PFR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

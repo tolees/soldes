@@ -22,6 +22,9 @@ Está [Galaxy S9 Film Protection Ecran Verre Trempé  [2 Pièces] [Full Coverage
 
 [![Galaxy S9 Film Protection Ecran Verre Tr](https://m.media-amazon.com/images/I/41tZt2f1e1L._SL200_.jpg)](https://www.amazon.fr/dp/B08H8BPMTH/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B08H8BPMTH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Tienes [VICTROLA CREATION MUSICALE Park Avenue  VTA-60-ESP-EU](https://www.amazo
 
 [![VICTROLA CREATION MUSICALE Park Avenue  ](https://m.media-amazon.com/images/I/41NBBThozfL._SL200_.jpg)](https://www.amazon.fr/dp/B07J5YD6FS/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07J5YD6FS/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

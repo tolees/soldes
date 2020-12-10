@@ -22,6 +22,9 @@ Ahora mismo tienes [Columbia Redmond  Bottes Mi-Hautes Imperméables Homme  Brun
 
 [![Columbia Redmond  Bottes Mi-Hautes Imper](https://m.media-amazon.com/images/I/41y6yS5MUGL._SL200_.jpg)](https://www.amazon.fr/dp/B00GUXGX8O/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B00GUXGX8O/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [ASUS Carte Mère Gaming Prime X570-PRO AMD AM4 Ryzen 3000  14 DrMOS power
 
 [![ASUS Carte Mère Gaming Prime X570-PRO AM](https://m.media-amazon.com/images/I/51YsM2GRPWL._SL200_.jpg)](https://www.amazon.fr/dp/B07TNMC2R4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07TNMC2R4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

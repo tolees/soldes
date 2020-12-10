@@ -22,6 +22,9 @@ Está [Schleich- Figurine Maman Grizzly avec Ourson Wild Life  42473  Multicolor
 
 [![Schleich- Figurine Maman Grizzly avec Ou](https://m.media-amazon.com/images/I/41DR8PRR2BL._SL200_.jpg)](https://www.amazon.fr/dp/B07G9GRVSK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07G9GRVSK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

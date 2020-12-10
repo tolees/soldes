@@ -22,6 +22,9 @@ Está [PetSafe - Système Anti-Fugue Sans Fil et Portatif avec Collier Anti-Fugu
 
 [![PetSafe - Système Anti-Fugue Sans Fil et](https://m.media-amazon.com/images/I/41WH5FziQyL._SL200_.jpg)](https://www.amazon.fr/dp/B0030DH1WE/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0030DH1WE/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

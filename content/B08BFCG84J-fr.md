@@ -22,6 +22,9 @@ Ahora mismo tienes [Elyco Grips cahoutchoutés  Kit e-Sport avec Grips Mousses d
 
 [![Elyco Grips cahoutchoutés  Kit e-Sport a](https://m.media-amazon.com/images/I/41OUYIzMG1L._SL200_.jpg)](https://www.amazon.fr/dp/B08BFCG84J/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08BFCG84J/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

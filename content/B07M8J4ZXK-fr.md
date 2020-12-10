@@ -22,6 +22,9 @@ Está [L OR Barista LM8012/60 machine à café à capsules Piano Noir](https://w
 
 [![L OR Barista LM8012/60 machine à café à ](https://m.media-amazon.com/images/I/416PQO3SKPL._SL200_.jpg)](https://www.amazon.fr/dp/B07M8J4ZXK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07M8J4ZXK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

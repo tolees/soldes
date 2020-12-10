@@ -22,6 +22,9 @@ Está [NUBWO Casque Gaming PS4 Xbox One Ecouteur de Jeux Stéréo avec Réductio
 
 [![NUBWO Casque Gaming PS4 Xbox One Ecouteu](https://m.media-amazon.com/images/I/41QZPT8lr6L._SL200_.jpg)](https://www.amazon.fr/dp/B07X3RGV9C/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07X3RGV9C/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

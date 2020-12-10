@@ -22,6 +22,9 @@ Ahora mismo tienes [Manette Switch  Manette sans Fil Bluetooth pour Nintendo Swi
 
 [![Manette Switch  Manette sans Fil Bluetoo](https://m.media-amazon.com/images/I/41vv8bcdOgL._SL200_.jpg)](https://www.amazon.fr/dp/B0896YDYBH/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B0896YDYBH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

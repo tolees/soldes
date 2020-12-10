@@ -22,6 +22,9 @@ Ahora mismo tienes [Prodisac Forte ® | Haute concentration de Gingsen + Maca + 
 
 [![Prodisac Forte ® | Haute concentration d](https://m.media-amazon.com/images/I/51twmHDKPrL._SL200_.jpg)](https://www.amazon.fr/dp/B08D3VDW3V/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B08D3VDW3V/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

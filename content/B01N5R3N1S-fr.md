@@ -22,6 +22,9 @@ Está [Bardahl 2002314A Nettoyant Vanne Erg](https://www.amazon.fr/dp/B01N5R3N1S
 
 [![Bardahl 2002314A Nettoyant Vanne Erg](https://m.media-amazon.com/images/I/41Qy4Pfx4AL._SL200_.jpg)](https://www.amazon.fr/dp/B01N5R3N1S/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01N5R3N1S/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

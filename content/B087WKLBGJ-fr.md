@@ -22,6 +22,9 @@ Tienes [AUKEY Écouteurs Bluetooth sans Fil avec USB-C Charge Rapide  IPX5 Étan
 
 [![AUKEY Écouteurs Bluetooth sans Fil avec ](https://m.media-amazon.com/images/I/31rR3ypJHxL._SL200_.jpg)](https://www.amazon.fr/dp/B087WKLBGJ/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B087WKLBGJ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

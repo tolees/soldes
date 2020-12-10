@@ -22,6 +22,9 @@ Tienes [Lenovo ThinkPad Helix Gen 2 11.6 pouces Full HD Touchscreen  5th Gen M5 
 
 [![Lenovo ThinkPad Helix Gen 2 11.6 pouces ](https://m.media-amazon.com/images/I/41ComlYxLeL._SL200_.jpg)](https://www.amazon.fr/dp/B07CSZ11BY/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07CSZ11BY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

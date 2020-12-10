@@ -22,6 +22,9 @@ Tienes [Brooks Brothers 100097653 Short  Beige  Beige 275   48  Taille Fabricant
 
 [![Brooks Brothers 100097653 Short  Beige  ](https://m.media-amazon.com/images/I/312Pm4cJF-L._SL200_.jpg)](https://www.amazon.fr/dp/B0774ZH6JW/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B0774ZH6JW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

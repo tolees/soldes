@@ -22,6 +22,9 @@ Está [Perceuse Visseuse Sans Fil Avec 105Pcs Accessoires  2 Batteries 2.0Ah  45
 
 [![Perceuse Visseuse Sans Fil Avec 105Pcs A](https://m.media-amazon.com/images/I/51y+pCQhkVL._SL200_.jpg)](https://www.amazon.fr/dp/B085DBYQNB/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B085DBYQNB/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

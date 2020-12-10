@@ -22,6 +22,9 @@ Está [G-Star 3301 Straight Tapered Jeans  Bleu  lt aged 7607-424   33W / 34L Ho
 
 [![G-Star 3301 Straight Tapered Jeans  Bleu](https://m.media-amazon.com/images/I/41klPAs3fmL._SL200_.jpg)](https://www.amazon.fr/dp/B01BGTJE9Q/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B01BGTJE9Q/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

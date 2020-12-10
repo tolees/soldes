@@ -22,6 +22,9 @@ Tienes [Bosch 2607019444 Cassette de 5 forets à béton Diamètre 4/5/6/8/10 mm]
 
 [![Bosch 2607019444 Cassette de 5 forets à ](https://m.media-amazon.com/images/I/414wF1vX8aL._SL200_.jpg)](https://www.amazon.fr/dp/B0012UNZ9K/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B0012UNZ9K/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

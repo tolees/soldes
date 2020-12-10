@@ -22,6 +22,9 @@ Ahora mismo tienes [Wrangler Regular Jacket  Homme   Bleu  Midstone 091   Small]
 
 [![Wrangler Regular Jacket  Homme   Bleu  M](https://m.media-amazon.com/images/I/41Ca9heV0xL._SL200_.jpg)](https://www.amazon.fr/dp/B078H9VVX5/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B078H9VVX5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

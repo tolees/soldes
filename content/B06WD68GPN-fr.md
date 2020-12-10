@@ -22,6 +22,9 @@ Ahora mismo tienes [Marvel Legends - Edition Collector Avengers - Marteau Deluxe
 
 [![Marvel Legends - Edition Collector Aveng](https://m.media-amazon.com/images/I/41DYf1PkA4L._SL200_.jpg)](https://www.amazon.fr/dp/B06WD68GPN/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B06WD68GPN/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

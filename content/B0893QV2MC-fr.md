@@ -22,6 +22,9 @@ Está [Volant de course de jeu Volant à force d entraînement de 270 degrés po
 
 [![Volant de course de jeu Volant à force d](https://m.media-amazon.com/images/I/41FX2+WFXIL._SL200_.jpg)](https://www.amazon.fr/dp/B0893QV2MC/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B0893QV2MC/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Ahora mismo tienes [Reebok Deck](https://www.amazon.fr/dp/B01KUX4KWK/?tag=tolees
 
 [![Reebok Deck](https://m.media-amazon.com/images/I/41wg2uaEBJL._SL200_.jpg)](https://www.amazon.fr/dp/B01KUX4KWK/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01KUX4KWK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

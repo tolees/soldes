@@ -22,6 +22,9 @@ Está [Beurer MP 100 Ensemble de Manucure Pédicure Blanc](https://www.amazon.fr
 
 [![Beurer MP 100 Ensemble de Manucure Pédic](https://m.media-amazon.com/images/I/411OfMeZmuL._SL200_.jpg)](https://www.amazon.fr/dp/B015YP7AXK/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B015YP7AXK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

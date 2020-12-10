@@ -22,6 +22,9 @@ Está [ROCCAT Kain 120 AIMO Souris Gaming RGB  nouveau capteur optique Owl-Eye 1
 
 [![ROCCAT Kain 120 AIMO Souris Gaming RGB  ](https://m.media-amazon.com/images/I/31odDJnEBwL._SL200_.jpg)](https://www.amazon.fr/dp/B07SVNX78P/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07SVNX78P/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

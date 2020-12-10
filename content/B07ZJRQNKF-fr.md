@@ -22,6 +22,9 @@ Está [Cartable 41 Tann s Les Chinés Teddy  Gris / Rouge](https://www.amazon.fr
 
 [![Cartable 41 Tann s Les Chinés Teddy  Gri](https://m.media-amazon.com/images/I/51elpqmDrzL._SL200_.jpg)](https://www.amazon.fr/dp/B07ZJRQNKF/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07ZJRQNKF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

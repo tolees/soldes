@@ -22,6 +22,9 @@ Ahora mismo tienes [SCHEPPACH PL285 Scie Plongeante légère avec Guide Laser de
 
 [![SCHEPPACH PL285 Scie Plongeante légère a](https://m.media-amazon.com/images/I/416NAcaz2VL._SL200_.jpg)](https://www.amazon.fr/dp/B015ZMZA5M/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B015ZMZA5M/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

@@ -22,6 +22,9 @@ Está [HoMedics Bain de Pieds avec Chauffage de l Eau](https://www.amazon.fr/dp/
 
 [![HoMedics Bain de Pieds avec Chauffage de](https://m.media-amazon.com/images/I/51o+AD0X9oL._SL200_.jpg)](https://www.amazon.fr/dp/B076LS2XL4/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B076LS2XL4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

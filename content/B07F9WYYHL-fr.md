@@ -22,6 +22,9 @@ Está [Le Tanneur Sophie Tsop1200  Femmes  Noir  Noir   6x21x15 cm  W x H x L ](
 
 [![Le Tanneur Sophie Tsop1200  Femmes  Noir](https://m.media-amazon.com/images/I/41L5SO1CUOL._SL200_.jpg)](https://www.amazon.fr/dp/B07F9WYYHL/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07F9WYYHL/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

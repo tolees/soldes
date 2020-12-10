@@ -22,6 +22,9 @@ Tienes [NONZERS Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/CC9 Pro  2 Piè
 
 [![NONZERS Verre Trempé pour Xiaomi Mi Note](https://m.media-amazon.com/images/I/51tQ9bgPetL._SL200_.jpg)](https://www.amazon.fr/dp/B08DQZHL4D/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08DQZHL4D/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

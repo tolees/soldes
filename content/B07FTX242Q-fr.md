@@ -22,6 +22,9 @@ Tienes [Millet - High Route GTX M - Chaussures Hautes de Randonnée - Homme - Me
 
 [![Millet - High Route GTX M - Chaussures H](https://m.media-amazon.com/images/I/413xgipLprL._SL200_.jpg)](https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

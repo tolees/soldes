@@ -22,6 +22,9 @@ Ahora mismo tienes [Makita UH 5570 Taille-haies](https://www.amazon.fr/dp/B001TW
 
 [![Makita UH 5570 Taille-haies](https://m.media-amazon.com/images/I/31WQuDp7aFL._SL200_.jpg)](https://www.amazon.fr/dp/B001TWVC4Q/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B001TWVC4Q/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

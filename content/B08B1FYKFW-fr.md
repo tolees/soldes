@@ -22,6 +22,9 @@ Tienes [Disque Dur Externe 1to  Disque Dur Externe pour PC  Mac  MacBook  Xbox O
 
 [![Disque Dur Externe 1to  Disque Dur Exter](https://m.media-amazon.com/images/I/41Ab-c0WE7L._SL200_.jpg)](https://www.amazon.fr/dp/B08B1FYKFW/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08B1FYKFW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

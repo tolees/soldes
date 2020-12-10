@@ -22,6 +22,9 @@ Está [Liu Jo Shoes Asia 06 Sneaker  Sneakers Basses Femme  Blanc  White 01111  
 
 [![Liu Jo Shoes Asia 06 Sneaker  Sneakers B](https://m.media-amazon.com/images/I/41q-rvj-f-L._SL200_.jpg)](https://www.amazon.fr/dp/B07MC84HQR/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07MC84HQR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

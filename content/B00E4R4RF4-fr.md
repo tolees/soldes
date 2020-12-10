@@ -22,6 +22,9 @@ Tienes [Piquadro Sac à dos loisir  Marron - CA2943OS](https://www.amazon.fr/dp/
 
 [![Piquadro Sac à dos loisir  Marron - CA29](https://m.media-amazon.com/images/I/51RL2A0f6CL._SL200_.jpg)](https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

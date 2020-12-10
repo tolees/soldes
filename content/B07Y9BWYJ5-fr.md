@@ -22,6 +22,9 @@ Tienes [Fauteuil à Bascule Gaming - Sony Geist - noir/bleu](https://www.amazon.
 
 [![Fauteuil à Bascule Gaming - Sony Geist -](https://m.media-amazon.com/images/I/41WmSMWN-5L._SL200_.jpg)](https://www.amazon.fr/dp/B07Y9BWYJ5/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07Y9BWYJ5/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

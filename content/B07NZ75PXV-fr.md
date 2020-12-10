@@ -22,6 +22,9 @@ Está [SENXINGYAN 8" Pouce LCD Horloge Numérique Calendrier avec Date Jour Et H
 
 [![SENXINGYAN 8" Pouce LCD Horloge Numériqu](https://m.media-amazon.com/images/I/51v80BgEftL._SL200_.jpg)](https://www.amazon.fr/dp/B07NZ75PXV/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NZ75PXV/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

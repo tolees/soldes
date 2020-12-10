@@ -22,6 +22,9 @@ Tienes [PHYLES Tapis Dessin Enfant  Tapis Doodle Matte 87*57cm  Aqua Tapis de De
 
 [![PHYLES Tapis Dessin Enfant  Tapis Doodle](https://m.media-amazon.com/images/I/515YXxe9PsL._SL200_.jpg)](https://www.amazon.fr/dp/B07GGN5PMF/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07GGN5PMF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

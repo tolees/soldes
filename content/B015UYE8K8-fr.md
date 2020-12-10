@@ -22,6 +22,9 @@ Está [Beurer TL 50 Lampe de luminothérapie - 10 000 Lux - Simulation de la Lum
 
 [![Beurer TL 50 Lampe de luminothérapie - 1](https://m.media-amazon.com/images/I/31+POWdqJpL._SL200_.jpg)](https://www.amazon.fr/dp/B015UYE8K8/?tag=tolees0d-21)
 
+Principales características:
+
+
 [Ver la oferta!!](https://www.amazon.fr/dp/B015UYE8K8/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

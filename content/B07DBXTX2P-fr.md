@@ -22,6 +22,9 @@ Tienes [PUMA Cali Wn s   Sneakers Basses femme - Blanc  Puma White-Puma Black 04
 
 [![PUMA Cali Wn s   Sneakers Basses femme -](https://m.media-amazon.com/images/I/31nSIQBlrUL._SL200_.jpg)](https://www.amazon.fr/dp/B07DBXTX2P/?tag=tolees0d-21)
 
+Características principales:
+
+
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07DBXTX2P/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

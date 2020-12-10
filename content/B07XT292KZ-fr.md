@@ -22,6 +22,9 @@ Ahora mismo tienes [BelleStyle Montessori Jouets  Jouet à Enfiler  Ananas Bois 
 
 [![BelleStyle Montessori Jouets  Jouet à En](https://m.media-amazon.com/images/I/41qGKzLTcXL._SL200_.jpg)](https://www.amazon.fr/dp/B07XT292KZ/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B07XT292KZ/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales

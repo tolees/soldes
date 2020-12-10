@@ -22,6 +22,9 @@ Ahora mismo tienes [Samsonite XBR Laptop Sac à Dos 17 3 Pouces Cartable  51 cm 
 
 [![Samsonite XBR Laptop Sac à Dos 17 3 Pouc](https://m.media-amazon.com/images/I/41hJfK-rnDL._SL200_.jpg)](https://www.amazon.fr/dp/B01D1J63IY/?tag=tolees0d-21)
 
+Características:
+
+
 [Visítala!!!](https://www.amazon.fr/dp/B01D1J63IY/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
