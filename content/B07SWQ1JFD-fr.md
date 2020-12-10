@@ -18,10 +18,12 @@ prodname: 'Christine [Blu-Ray]'
 country: 'fr'
 ---
 
-Ahora mismo tienes [Christine [Blu-Ray]](https://www.amazon.fr/dp/B07SWQ1JFD/?tag=tolees0d-21) a 9.99 EUR (original: 20.06 EUR) (50.20 %  de descuento) en el siguiente enlace!
+Está [Christine [Blu-Ray]](https://www.amazon.fr/dp/B07SWQ1JFD/?tag=tolees0d-21) con 50.20 de descuento por 9.99 EUR (original: 20.06 EUR) en el siguiente enlace!
 
 [![Christine [Blu-Ray]](https://m.media-amazon.com/images/I/41wpHlBPskL._SL200_.jpg)](https://www.amazon.fr/dp/B07SWQ1JFD/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07SWQ1JFD/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07SWQ1JFD/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

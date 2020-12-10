@@ -18,10 +18,12 @@ prodname: 'Castaner Dosalia/3/ss20032  Espadrilles Femme  Plata  36 EU'
 country: 'fr'
 ---
 
-Ahora mismo tienes [Castaner Dosalia/3/ss20032  Espadrilles Femme  Plata  36 EU](https://www.amazon.fr/dp/B07X3DMPQR/?tag=tolees0d-21) a 67.5 EUR (original: 135.0 EUR) (50.00 %  de descuento) en el siguiente enlace!
+Está [Castaner Dosalia/3/ss20032  Espadrilles Femme  Plata  36 EU](https://www.amazon.fr/dp/B07X3DMPQR/?tag=tolees0d-21) con 50.00 de descuento por 67.5 EUR (original: 135.0 EUR) en el siguiente enlace!
 
 [![Castaner Dosalia/3/ss20032  Espadrilles ](https://m.media-amazon.com/images/I/413dJYfWSrL._SL200_.jpg)](https://www.amazon.fr/dp/B07X3DMPQR/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07X3DMPQR/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07X3DMPQR/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

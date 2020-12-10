@@ -18,10 +18,12 @@ prodname: 'Basket Case 2'
 country: 'fr'
 ---
 
-Ahora mismo tienes [Basket Case 2](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21) a 7.39 EUR (original: 15.05 EUR) (50.90 %  de descuento) en el siguiente enlace!
+Está [Basket Case 2](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21) con 50.90 de descuento por 7.39 EUR (original: 15.05 EUR) en el siguiente enlace!
 
 [![Basket Case 2](https://m.media-amazon.com/images/I/51WFRJSD75L._SL200_.jpg)](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -18,10 +18,12 @@ prodname: 'Corsair HARPOON RGB Optique Souris Gaming  Rétro-Éclairge RGB Multi
 country: 'fr'
 ---
 
-Ahora mismo tienes [Corsair HARPOON RGB Optique Souris Gaming  Rétro-Éclairge RGB Multicolore  6000 DPI  Noir](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21) a 21.49 EUR (original: 29.99 EUR) (28.34 %  de descuento) en el siguiente enlace!
+Está [Corsair HARPOON RGB Optique Souris Gaming  Rétro-Éclairge RGB Multicolore  6000 DPI  Noir](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21) con 28.34 de descuento por 21.49 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Corsair HARPOON RGB Optique Souris Gamin](https://m.media-amazon.com/images/I/31zhDg6MN7L._SL200_.jpg)](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

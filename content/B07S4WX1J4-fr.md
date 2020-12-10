@@ -18,12 +18,10 @@ prodname: 'Game Of Thrones  Le Trône de Fer  - Saison 8 [Blu-ray]'
 country: 'fr'
 ---
 
-Está [Game Of Thrones  Le Trône de Fer  - Saison 8 [Blu-ray]](https://www.amazon.fr/dp/B07S4WX1J4/?tag=tolees0d-21) con 46.19 de descuento por 26.99 EUR (original: 50.16 EUR) en el siguiente enlace!
+Ahora mismo tienes [Game Of Thrones  Le Trône de Fer  - Saison 8 [Blu-ray]](https://www.amazon.fr/dp/B07S4WX1J4/?tag=tolees0d-21) a 26.99 EUR (original: 50.16 EUR) (46.19 %  de descuento) en el siguiente enlace!
 
 [![Game Of Thrones  Le Trône de Fer  - Sais](https://m.media-amazon.com/images/I/517TW2MsH3L._SL200_.jpg)](https://www.amazon.fr/dp/B07S4WX1J4/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07S4WX1J4/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07S4WX1J4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
