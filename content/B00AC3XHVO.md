@@ -17,10 +17,12 @@ inStock: true
 prodname: 'GYS - Gysmi 130P - Poste à Souder - inverter - MMA - Ø 1  6 à 3  2 mm - 230 V - Livré avec cables de masse et Porte Électrodes en Valise'
 ---
 
-Ahora mismo tienes [GYS - Gysmi 130P - Poste à Souder - inverter - MMA - Ø 1  6 à 3  2 mm - 230 V - Livré avec cables de masse et Porte Électrodes en Valise](https://www.amazon.fr/dp/B00AC3XHVO/?tag=tolees0d-21) a 187.22 EUR (original: 286.65 EUR) (34.69 %  de descuento) en el siguiente enlace!
+Está [GYS - Gysmi 130P - Poste à Souder - inverter - MMA - Ø 1  6 à 3  2 mm - 230 V - Livré avec cables de masse et Porte Électrodes en Valise](https://www.amazon.fr/dp/B00AC3XHVO/?tag=tolees0d-21) con 34.69 de descuento por 187.22 EUR (original: 286.65 EUR) en el siguiente enlace!
 
 [![GYS - Gysmi 130P - Poste à Souder - inve](https://m.media-amazon.com/images/I/41jbX-0Q+8L._SL200_.jpg)](https://www.amazon.fr/dp/B00AC3XHVO/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B00AC3XHVO/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00AC3XHVO/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
