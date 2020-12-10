@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'OMRON HeatTens Apporte Une Chaleur Apais al 49.65 % de descuento'
-date: 2020-11-08 16:44:59
+date: 2020-12-10 13:45:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GPMq41h8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GPMq41h8L._SL200_.jpg' ]
 comments: true

@@ -29,6 +29,7 @@
 <meta property="og:type" content="Product" />
 <meta property="og:url" content="{{ .Permalink | absURL }}" />
 <meta property="og:image" content="{{ .Params.thumbnailImage | absURL }}" />
+{{ if .Params.prodname }}
 <script type="application/ld+json">
     {
         "@context": "https://schema.org/",
@@ -51,3 +52,4 @@
         }
     }
 </script>
+{{ end }}

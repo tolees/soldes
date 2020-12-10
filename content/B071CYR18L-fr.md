@@ -18,10 +18,12 @@ prodname: 'Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6 Gigabit WiFi
 country: 'fr'
 ---
 
-Ahora mismo tienes [Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6 Gigabit WiFi AC 2 x SMA pour antenne externe  Noir ](https://www.amazon.fr/dp/B071CYR18L/?tag=tolees0d-21) a 131.23 EUR (original: 189.99 EUR) (30.93 %  de descuento) en el siguiente enlace!
+Está [Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6 Gigabit WiFi AC 2 x SMA pour antenne externe  Noir ](https://www.amazon.fr/dp/B071CYR18L/?tag=tolees0d-21) con 30.93 de descuento por 131.23 EUR (original: 189.99 EUR) en el siguiente enlace!
 
 [![Huawei B525s-23a noir Routeur 4G+ LTE LT](https://m.media-amazon.com/images/I/21atT9OLA8L._SL200_.jpg)](https://www.amazon.fr/dp/B071CYR18L/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B071CYR18L/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B071CYR18L/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

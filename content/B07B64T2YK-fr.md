@@ -18,12 +18,10 @@ prodname: 'Norah Jones - Live At Ronnie Scott s [Blu-ray]'
 country: 'fr'
 ---
 
-Está [Norah Jones - Live At Ronnie Scott s [Blu-ray]](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!
+Ahora mismo tienes [Norah Jones - Live At Ronnie Scott s [Blu-ray]](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!
 
 [![Norah Jones - Live At Ronnie Scott s [Bl](https://m.media-amazon.com/images/I/51Xgy3haDIL._SL200_.jpg)](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

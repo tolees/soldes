@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 25.00 % en Scorpio - Eau de Toilette - Unlimited – '
+title: 'Scorpio - Eau de Toilette - Unlimited –  al 25.00 % de descuento'
 date: 2020-12-03 13:18:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41cF6n1UMbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41cF6n1UMbL._SL200_.jpg' ]
@@ -18,11 +18,11 @@ prodname: 'Scorpio - Eau de Toilette - Unlimited – Format 75ml'
 country: 'fr'
 ---
 
-Tienes [Scorpio - Eau de Toilette - Unlimited – Format 75ml](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21) con un 25.00 % de descuento con precio de oferta de 9.45 EUR (original: 12.6 EUR) en el siguiente enlace!
+Está [Scorpio - Eau de Toilette - Unlimited – Format 75ml](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21) con 25.00 de descuento por 9.45 EUR (original: 12.6 EUR) en el siguiente enlace!
 
 [![Scorpio - Eau de Toilette - Unlimited – ](https://m.media-amazon.com/images/I/41cF6n1UMbL._SL200_.jpg)](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21)
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07NXVFPN4/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 

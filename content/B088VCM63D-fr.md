@@ -18,10 +18,12 @@ prodname: 'Colgate Kit blancheur au charbon avec 3 Dentifrice Colgate Max White 
 country: 'fr'
 ---
 
-Ahora mismo tienes [Colgate Kit blancheur au charbon avec 3 Dentifrice Colgate Max White Charbon Actif 75ml et la brosse à dents blancheur Colgate 360 Charbon](https://www.amazon.fr/dp/B088VCM63D/?tag=tolees0d-21) a 9.3 EUR (original: 13.29 EUR) (30.02 %  de descuento) en el siguiente enlace!
+Está [Colgate Kit blancheur au charbon avec 3 Dentifrice Colgate Max White Charbon Actif 75ml et la brosse à dents blancheur Colgate 360 Charbon](https://www.amazon.fr/dp/B088VCM63D/?tag=tolees0d-21) con 30.02 de descuento por 9.3 EUR (original: 13.29 EUR) en el siguiente enlace!
 
 [![Colgate Kit blancheur au charbon avec 3 ](https://m.media-amazon.com/images/I/51gVAlwcW8L._SL200_.jpg)](https://www.amazon.fr/dp/B088VCM63D/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B088VCM63D/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B088VCM63D/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
