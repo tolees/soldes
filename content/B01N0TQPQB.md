@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 48.55 % en Kingston A400 SSD SA400S37/480G - SSD In'
-date: 2020-12-08 03:39:44
+date: 2020-12-10 03:58:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UKoJx2tZL._SL200_.jpg' ]
 comments: true

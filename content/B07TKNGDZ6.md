@@ -17,12 +17,10 @@ inStock: true
 prodname: 'John Wick-La Trilogie [Blu-Ray]'
 ---
 
-Está [John Wick-La Trilogie [Blu-Ray]](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21) con 42.17 de descuento por 29.01 EUR (original: 50.16 EUR) en el siguiente enlace!
+Ahora mismo tienes [John Wick-La Trilogie [Blu-Ray]](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21) a 29.01 EUR (original: 50.16 EUR) (42.17 %  de descuento) en el siguiente enlace!
 
 [![John Wick-La Trilogie [Blu-Ray]](https://m.media-amazon.com/images/I/51oiGL6lwpL._SL200_.jpg)](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
