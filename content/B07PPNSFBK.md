@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 28.50 % en Seagate Game Drive 2 To  Disque dur exte'
-date: 2020-12-09 03:58:50
+date: 2020-12-10 10:12:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/313IsSJJWoL._SL200_.jpg' ]
 comments: true

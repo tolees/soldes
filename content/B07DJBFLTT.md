@@ -17,10 +17,12 @@ inStock: true
 prodname: 'F1 2018 - Edition Headline'
 ---
 
-Ahora mismo tienes [F1 2018 - Edition Headline](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21) a 27.14 EUR (original: 69.99 EUR) (61.22 %  de descuento) en el siguiente enlace!
+Está [F1 2018 - Edition Headline](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21) con 61.22 de descuento por 27.14 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![F1 2018 - Edition Headline](https://m.media-amazon.com/images/I/51gTZqqZdDL._SL200_.jpg)](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
