@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 40.99 % en Xiaomi Mi AirDots Basic S'
-date: 2020-12-09 03:48:19
+date: 2020-12-10 04:06:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31LQIIVZeJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31LQIIVZeJL._SL200_.jpg' ]
 comments: true

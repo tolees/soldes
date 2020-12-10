@@ -17,12 +17,10 @@ inStock: true
 prodname: 'Gatsby Le Magnifique B.O.F'
 ---
 
-Está [Gatsby Le Magnifique B.O.F](https://www.amazon.fr/dp/B00C2VGB1W/?tag=tolees0d-21) con 36.22 de descuento por 8.31 EUR (original: 13.03 EUR) en el siguiente enlace!
+Ahora mismo tienes [Gatsby Le Magnifique B.O.F](https://www.amazon.fr/dp/B00C2VGB1W/?tag=tolees0d-21) a 8.31 EUR (original: 13.03 EUR) (36.22 %  de descuento) en el siguiente enlace!
 
 [![Gatsby Le Magnifique B.O.F](https://m.media-amazon.com/images/I/615pI-KcrLL._SL200_.jpg)](https://www.amazon.fr/dp/B00C2VGB1W/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B00C2VGB1W/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B00C2VGB1W/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-
