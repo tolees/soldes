@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'PEAKY BLINDERS SAISON 1 à 5 - 11 DVD al 50.15 % de descuento'
+title: 'Descuento del 50.15 % en PEAKY BLINDERS SAISON 1 à 5 - 11 DVD'
 date: 2020-12-06 14:53:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xQ7H77rqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xQ7H77rqL._SL200_.jpg' ]
@@ -17,11 +17,11 @@ inStock: true
 prodname: 'PEAKY BLINDERS SAISON 1 à 5 - 11 DVD'
 ---
 
-Está [PEAKY BLINDERS SAISON 1 à 5 - 11 DVD](https://www.amazon.fr/dp/B07TNVXHMH/?tag=tolees0d-21) con 50.15 de descuento por 30.0 EUR (original: 60.18 EUR) en el siguiente enlace!
+Tienes [PEAKY BLINDERS SAISON 1 à 5 - 11 DVD](https://www.amazon.fr/dp/B07TNVXHMH/?tag=tolees0d-21) con un 50.15 % de descuento con precio de oferta de 30.0 EUR (original: 60.18 EUR) en el siguiente enlace!
 
 [![PEAKY BLINDERS SAISON 1 à 5 - 11 DVD](https://m.media-amazon.com/images/I/51xQ7H77rqL._SL200_.jpg)](https://www.amazon.fr/dp/B07TNVXHMH/?tag=tolees0d-21)
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07TNVXHMH/?tag=tolees0d-21)
+[Accede a la oferta!!](https://www.amazon.fr/dp/B07TNVXHMH/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
 
