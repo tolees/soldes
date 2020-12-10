@@ -17,10 +17,12 @@ inStock: true
 prodname: 'Blind Woman s Curse [Édition Collector Blu-Ray + DVD]'
 ---
 
-Ahora mismo tienes [Blind Woman s Curse [Édition Collector Blu-Ray + DVD]](https://www.amazon.fr/dp/B07DQ9LRQF/?tag=tolees0d-21) a 16.99 EUR (original: 25.03 EUR) (32.12 %  de descuento) en el siguiente enlace!
+Está [Blind Woman s Curse [Édition Collector Blu-Ray + DVD]](https://www.amazon.fr/dp/B07DQ9LRQF/?tag=tolees0d-21) con 32.12 de descuento por 16.99 EUR (original: 25.03 EUR) en el siguiente enlace!
 
 [![Blind Woman s Curse [Édition Collector B](https://m.media-amazon.com/images/I/513lcDWONzL._SL200_.jpg)](https://www.amazon.fr/dp/B07DQ9LRQF/?tag=tolees0d-21)
 
-[Visítala!!!](https://www.amazon.fr/dp/B07DQ9LRQF/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07DQ9LRQF/?tag=tolees0d-21)
 
 Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
