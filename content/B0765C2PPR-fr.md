@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'LEGO Friends - La grande course - 41352  al 29.90 % de descuento'
+date: 2020-12-08 07:11:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/51wdMdTISrL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51wdMdTISrL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0765C2PPR-fr'
+description:
+actualPrice: 45.56 EUR
+currency: EUR
+price: 45.56
+comparePrice: 64.99 EUR
+inStock: true
+prodname: 'LEGO Friends - La grande course - 41352 - Jeu de Construction'
+country: 'fr'
+---
+
+Está [LEGO Friends - La grande course - 41352 - Jeu de Construction](https://www.amazon.fr/dp/B0765C2PPR/?tag=tolees0d-21) con 29.90 de descuento por 45.56 EUR (original: 64.99 EUR) en el siguiente enlace!
+
+[![LEGO Friends - La grande course - 41352 ](https://m.media-amazon.com/images/I/51wdMdTISrL._SL200_.jpg)](https://www.amazon.fr/dp/B0765C2PPR/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B0765C2PPR/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

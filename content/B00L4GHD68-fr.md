@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Columbia Femme Sandales  SUNLIGHT VENT I al 49.95 % de descuento'
+date: 2020-10-13 09:47:42
+thumbnailImage: 'https://m.media-amazon.com/images/I/41zi21sWDRL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41zi21sWDRL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00L4GHD68-fr'
+description:
+actualPrice: 25.0 EUR
+currency: EUR
+price: 25.0
+comparePrice: 49.95 EUR
+inStock: true
+prodname: 'Columbia Femme Sandales  SUNLIGHT VENT II  Taille 37  Beige  Bluff  Sorbet '
+country: 'fr'
+---
+
+Ahora mismo tienes [Columbia Femme Sandales  SUNLIGHT VENT II  Taille 37  Beige  Bluff  Sorbet ](https://www.amazon.fr/dp/B00L4GHD68/?tag=tolees0d-21) a 25.0 EUR (original: 49.95 EUR) (49.95 %  de descuento) en el siguiente enlace!
+
+[![Columbia Femme Sandales  SUNLIGHT VENT I](https://m.media-amazon.com/images/I/41zi21sWDRL._SL200_.jpg)](https://www.amazon.fr/dp/B00L4GHD68/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B00L4GHD68/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

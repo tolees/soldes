@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Logitech K800 Clavier sans Fil avec Rétr al 40.00 % de descuento'
+date: 2020-12-08 01:30:40
+thumbnailImage: 'https://m.media-amazon.com/images/I/41SdsD523nL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41SdsD523nL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B003U51UTW-fr'
+description:
+actualPrice: 59.99 EUR
+currency: EUR
+price: 59.99
+comparePrice: 99.99 EUR
+inStock: true
+prodname: 'Logitech K800 Clavier sans Fil avec Rétro-Eclairage  2.4GHz avec Récepteur USB Unifying  Touches Gravées au Laser  Système PerfectStroke  Rechargeable  PC/Portable  Clavier QWERTZ Allemand - Noir'
+country: 'fr'
+---
+
+Ahora mismo tienes [Logitech K800 Clavier sans Fil avec Rétro-Eclairage  2.4GHz avec Récepteur USB Unifying  Touches Gravées au Laser  Système PerfectStroke  Rechargeable  PC/Portable  Clavier QWERTZ Allemand - Noir](https://www.amazon.fr/dp/B003U51UTW/?tag=tolees0d-21) a 59.99 EUR (original: 99.99 EUR) (40.00 %  de descuento) en el siguiente enlace!
+
+[![Logitech K800 Clavier sans Fil avec Rétr](https://m.media-amazon.com/images/I/41SdsD523nL._SL200_.jpg)](https://www.amazon.fr/dp/B003U51UTW/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B003U51UTW/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

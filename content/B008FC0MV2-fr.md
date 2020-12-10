@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 33.95 % en Facom ECR-Embout 1/4 1/4 Porte-Verres'
+date: 2020-11-22 09:48:07
+thumbnailImage: 'https://m.media-amazon.com/images/I/51Xyb8jnHfL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51Xyb8jnHfL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B008FC0MV2-fr'
+description:
+actualPrice: 6.81 EUR
+currency: EUR
+price: 6.81
+comparePrice: 10.31 EUR
+inStock: true
+prodname: 'Facom ECR-Embout 1/4 1/4 Porte-Verres'
+country: 'fr'
+---
+
+Tienes [Facom ECR-Embout 1/4 1/4 Porte-Verres](https://www.amazon.fr/dp/B008FC0MV2/?tag=tolees0d-21) con un 33.95 % de descuento con precio de oferta de 6.81 EUR (original: 10.31 EUR) en el siguiente enlace!
+
+[![Facom ECR-Embout 1/4 1/4 Porte-Verres](https://m.media-amazon.com/images/I/51Xyb8jnHfL._SL200_.jpg)](https://www.amazon.fr/dp/B008FC0MV2/?tag=tolees0d-21)
+
+[Accede a la oferta!!](https://www.amazon.fr/dp/B008FC0MV2/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

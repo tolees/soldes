@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Coleman Tente Kobuk Valley 4  tente de c al 50.55 % de descuento'
+date: 2020-12-06 19:46:38
+thumbnailImage: 'https://m.media-amazon.com/images/I/413FIw4BnlL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/413FIw4BnlL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B01M28ZX4F-fr'
+description:
+actualPrice: 89.01 EUR
+currency: EUR
+price: 89.01
+comparePrice: 179.99 EUR
+inStock: true
+prodname: 'Coleman Tente Kobuk Valley 4  tente de camping  toile de tente 4 personnes avec Technologie BlackOut Bedroom  tente festival  tente dôme ultra légère  tente familiale 4 places  100% imperméable'
+country: 'fr'
+---
+
+Está [Coleman Tente Kobuk Valley 4  tente de camping  toile de tente 4 personnes avec Technologie BlackOut Bedroom  tente festival  tente dôme ultra légère  tente familiale 4 places  100% imperméable](https://www.amazon.fr/dp/B01M28ZX4F/?tag=tolees0d-21) con 50.55 de descuento por 89.01 EUR (original: 179.99 EUR) en el siguiente enlace!
+
+[![Coleman Tente Kobuk Valley 4  tente de c](https://m.media-amazon.com/images/I/413FIw4BnlL._SL200_.jpg)](https://www.amazon.fr/dp/B01M28ZX4F/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B01M28ZX4F/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

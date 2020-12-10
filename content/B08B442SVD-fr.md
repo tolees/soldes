@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Sony SRS-XB43 | Enceinte Portable EXTRA  al 35.22 % de descuento'
+date: 2020-11-22 03:36:27
+thumbnailImage: 'https://m.media-amazon.com/images/I/41Df90lk-mL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41Df90lk-mL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B08B442SVD-fr'
+description:
+actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
+comparePrice: 230.0 EUR
+inStock: true
+prodname: 'Sony SRS-XB43 | Enceinte Portable EXTRA BASS Bluetooth Stéréo  Sans Fil  résistante aux chocs  étanche pour Plage et Piscine  Bleu Lagon'
+country: 'fr'
+---
+
+Ahora mismo tienes [Sony SRS-XB43 | Enceinte Portable EXTRA BASS Bluetooth Stéréo  Sans Fil  résistante aux chocs  étanche pour Plage et Piscine  Bleu Lagon](https://www.amazon.fr/dp/B08B442SVD/?tag=tolees0d-21) a 149.0 EUR (original: 230.0 EUR) (35.22 %  de descuento) en el siguiente enlace!
+
+[![Sony SRS-XB43 | Enceinte Portable EXTRA ](https://m.media-amazon.com/images/I/41Df90lk-mL._SL200_.jpg)](https://www.amazon.fr/dp/B08B442SVD/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B08B442SVD/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

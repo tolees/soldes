@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Le Coq Sportif Verdon Classic Dress Blue al 26.03 % de descuento'
+date: 2020-10-21 08:23:57
+thumbnailImage: 'https://m.media-amazon.com/images/I/31mdKqkB29L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31mdKqkB29L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0828JD9MP-fr'
+description:
+actualPrice: 55.48 EUR
+currency: EUR
+price: 55.48
+comparePrice: 75.0 EUR
+inStock: true
+prodname: 'Le Coq Sportif Verdon Classic Dress Blue  Basket Mixte  43 EU'
+country: 'fr'
+---
+
+Está [Le Coq Sportif Verdon Classic Dress Blue  Basket Mixte  43 EU](https://www.amazon.fr/dp/B0828JD9MP/?tag=tolees0d-21) con 26.03 de descuento por 55.48 EUR (original: 75.0 EUR) en el siguiente enlace!
+
+[![Le Coq Sportif Verdon Classic Dress Blue](https://m.media-amazon.com/images/I/31mdKqkB29L._SL200_.jpg)](https://www.amazon.fr/dp/B0828JD9MP/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B0828JD9MP/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

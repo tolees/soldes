@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 32.50 % en Asterix & Obelix XXL Romastered  Xbox On'
+date: 2020-11-05 05:00:46
+thumbnailImage: 'https://m.media-amazon.com/images/I/51z3+dVTLqL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51z3+dVTLqL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B08H2M19LK-fr'
+description:
+actualPrice: 27.0 EUR
+currency: EUR
+price: 27.0
+comparePrice: 40.0 EUR
+inStock: true
+prodname: 'Asterix & Obelix XXL Romastered  Xbox One '
+country: 'fr'
+---
+
+Tienes [Asterix & Obelix XXL Romastered  Xbox One ](https://www.amazon.fr/dp/B08H2M19LK/?tag=tolees0d-21) con un 32.50 % de descuento con precio de oferta de 27.0 EUR (original: 40.0 EUR) en el siguiente enlace!
+
+[![Asterix & Obelix XXL Romastered  Xbox On](https://m.media-amazon.com/images/I/51z3+dVTLqL._SL200_.jpg)](https://www.amazon.fr/dp/B08H2M19LK/?tag=tolees0d-21)
+
+[Accede a la oferta!!](https://www.amazon.fr/dp/B08H2M19LK/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

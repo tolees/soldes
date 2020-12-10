@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Rapid Agrafeuse F30  Ergonomique  30 feu al 26.45 % de descuento'
+date: 2020-10-16 07:03:29
+thumbnailImage: 'https://m.media-amazon.com/images/I/41HtFTeiHsL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41HtFTeiHsL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B000J69VMI-fr'
+description:
+actualPrice: 9.01 EUR
+currency: EUR
+price: 9.01
+comparePrice: 12.25 EUR
+inStock: true
+prodname: 'Rapid Agrafeuse F30  Ergonomique  30 feuilles  Plastique  FlatClinch  Fashion  Noir  23256500'
+country: 'fr'
+---
+
+Está [Rapid Agrafeuse F30  Ergonomique  30 feuilles  Plastique  FlatClinch  Fashion  Noir  23256500](https://www.amazon.fr/dp/B000J69VMI/?tag=tolees0d-21) con 26.45 de descuento por 9.01 EUR (original: 12.25 EUR) en el siguiente enlace!
+
+[![Rapid Agrafeuse F30  Ergonomique  30 feu](https://m.media-amazon.com/images/I/41HtFTeiHsL._SL200_.jpg)](https://www.amazon.fr/dp/B000J69VMI/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B000J69VMI/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

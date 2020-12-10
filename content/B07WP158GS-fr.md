@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'L Oréal Paris Barber Club Argile Modelan al 40.00 % de descuento'
+date: 2020-11-20 13:08:07
+thumbnailImage: 'https://m.media-amazon.com/images/I/416oQFG9h1L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/416oQFG9h1L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07WP158GS-fr'
+description:
+actualPrice: 3.42 EUR
+currency: EUR
+price: 3.42
+comparePrice: 5.7 EUR
+inStock: true
+prodname: 'L Oréal Paris Barber Club Argile Modelante Look Décoiffé'
+country: 'fr'
+---
+
+Ahora mismo tienes [L Oréal Paris Barber Club Argile Modelante Look Décoiffé](https://www.amazon.fr/dp/B07WP158GS/?tag=tolees0d-21) a 3.42 EUR (original: 5.7 EUR) (40.00 %  de descuento) en el siguiente enlace!
+
+[![L Oréal Paris Barber Club Argile Modelan](https://m.media-amazon.com/images/I/416oQFG9h1L._SL200_.jpg)](https://www.amazon.fr/dp/B07WP158GS/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B07WP158GS/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

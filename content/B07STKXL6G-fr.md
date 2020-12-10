@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'ROCCAT Kain 100 AIMO Souris Gaming RGB   al 40.01 % de descuento'
+date: 2020-09-22 15:59:01
+thumbnailImage: 'https://m.media-amazon.com/images/I/31WM1V+mZOL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31WM1V+mZOL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07STKXL6G-fr'
+description:
+actualPrice: 29.99 EUR
+currency: EUR
+price: 29.99
+comparePrice: 49.99 EUR
+inStock: true
+prodname: 'ROCCAT Kain 100 AIMO Souris Gaming RGB  capteur Pro-Optic R8 8.500 dpi  poids très léger de 89g  technologie Titan Click  noire'
+country: 'fr'
+---
+
+Está [ROCCAT Kain 100 AIMO Souris Gaming RGB  capteur Pro-Optic R8 8.500 dpi  poids très léger de 89g  technologie Titan Click  noire](https://www.amazon.fr/dp/B07STKXL6G/?tag=tolees0d-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!
+
+[![ROCCAT Kain 100 AIMO Souris Gaming RGB  ](https://m.media-amazon.com/images/I/31WM1V+mZOL._SL200_.jpg)](https://www.amazon.fr/dp/B07STKXL6G/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B07STKXL6G/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

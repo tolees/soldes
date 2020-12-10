@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Descuento del 42.48 % en Brabantia - 115189 - Poubelle Touch Bin '
+date: 2020-10-15 06:42:11
+thumbnailImage: 'https://m.media-amazon.com/images/I/31hFST+q00L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31hFST+q00L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B06X91XH7J-fr'
+description:
+actualPrice: 59.25 EUR
+currency: EUR
+price: 59.25
+comparePrice: 103.0 EUR
+inStock: true
+prodname: 'Brabantia - 115189 - Poubelle Touch Bin Unie New  30 L - Rouge Passion'
+country: 'fr'
+---
+
+Tienes [Brabantia - 115189 - Poubelle Touch Bin Unie New  30 L - Rouge Passion](https://www.amazon.fr/dp/B06X91XH7J/?tag=tolees0d-21) con un 42.48 % de descuento con precio de oferta de 59.25 EUR (original: 103.0 EUR) en el siguiente enlace!
+
+[![Brabantia - 115189 - Poubelle Touch Bin ](https://m.media-amazon.com/images/I/31hFST+q00L._SL200_.jpg)](https://www.amazon.fr/dp/B06X91XH7J/?tag=tolees0d-21)
+
+[Accede a la oferta!!](https://www.amazon.fr/dp/B06X91XH7J/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

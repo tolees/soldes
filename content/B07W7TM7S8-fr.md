@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'LEGO DUPLO Frozen II  Le goûter d Elsa e al 25.01 % de descuento'
+date: 2020-08-27 06:23:48
+thumbnailImage: 'https://m.media-amazon.com/images/I/51P84hLVmcL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51P84hLVmcL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07W7TM7S8-fr'
+description:
+actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
+comparePrice: 19.99 EUR
+inStock: true
+prodname: 'LEGO DUPLO Frozen II  Le goûter d Elsa et Olaf  Grand ensemble de briques avec cupcakes et théière pour tout-petits de 2 ans et plus  94 pièces 10920'
+country: 'fr'
+---
+
+Ahora mismo tienes [LEGO DUPLO Frozen II  Le goûter d Elsa et Olaf  Grand ensemble de briques avec cupcakes et théière pour tout-petits de 2 ans et plus  94 pièces 10920](https://www.amazon.fr/dp/B07W7TM7S8/?tag=tolees0d-21) a 14.99 EUR (original: 19.99 EUR) (25.01 %  de descuento) en el siguiente enlace!
+
+[![LEGO DUPLO Frozen II  Le goûter d Elsa e](https://m.media-amazon.com/images/I/51P84hLVmcL._SL200_.jpg)](https://www.amazon.fr/dp/B07W7TM7S8/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B07W7TM7S8/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

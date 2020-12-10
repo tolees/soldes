@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Cities Skylines : Parklife Edition pour  al 62.77 % de descuento'
+date: 2020-11-14 12:21:44
+thumbnailImage: 'https://m.media-amazon.com/images/I/51ukwumE0mL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51ukwumE0mL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07Y211FRM-fr'
+description:
+actualPrice: 14.89 EUR
+currency: EUR
+price: 14.89
+comparePrice: 39.99 EUR
+inStock: true
+prodname: 'Cities Skylines : Parklife Edition pour PS4'
+country: 'fr'
+---
+
+Está [Cities Skylines : Parklife Edition pour PS4](https://www.amazon.fr/dp/B07Y211FRM/?tag=tolees0d-21) con 62.77 de descuento por 14.89 EUR (original: 39.99 EUR) en el siguiente enlace!
+
+[![Cities Skylines : Parklife Edition pour ](https://m.media-amazon.com/images/I/51ukwumE0mL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y211FRM/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B07Y211FRM/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

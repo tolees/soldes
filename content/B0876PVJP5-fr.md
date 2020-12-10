@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'otumixx Balance Cuisine Electronique Bal al 56.42 % de descuento'
+date: 2020-10-15 00:46:08
+thumbnailImage: 'https://m.media-amazon.com/images/I/51qJ4qL4csL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51qJ4qL4csL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0876PVJP5-fr'
+description:
+actualPrice: 16.99 EUR
+currency: EUR
+price: 16.99
+comparePrice: 38.99 EUR
+inStock: true
+prodname: 'otumixx Balance Cuisine Electronique Balance de Precision  10kg/1g  Balance de Cuisine de Haute Précision  Acier Inoxydable  Tactile Sensible Écran LCD Rétro-éclairé  Fonction de Tare  Auto-arrêt'
+country: 'fr'
+---
+
+Está [otumixx Balance Cuisine Electronique Balance de Precision  10kg/1g  Balance de Cuisine de Haute Précision  Acier Inoxydable  Tactile Sensible Écran LCD Rétro-éclairé  Fonction de Tare  Auto-arrêt](https://www.amazon.fr/dp/B0876PVJP5/?tag=tolees0d-21) con 56.42 de descuento por 16.99 EUR (original: 38.99 EUR) en el siguiente enlace!
+
+[![otumixx Balance Cuisine Electronique Bal](https://m.media-amazon.com/images/I/51qJ4qL4csL._SL200_.jpg)](https://www.amazon.fr/dp/B0876PVJP5/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B0876PVJP5/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Kleenex FAMILY – Mouchoirs en papier - L al 27.62 % de descuento'
+date: 2020-12-10 09:55:39
+thumbnailImage: 'https://m.media-amazon.com/images/I/5130OmO3QVL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/5130OmO3QVL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07D2XN5VJ-fr'
+description:
+actualPrice: 23.85 EUR
+currency: EUR
+price: 23.85
+comparePrice: 32.95 EUR
+inStock: true
+prodname: 'Kleenex FAMILY – Mouchoirs en papier - Lot de 15 Boîtes Maxi Format'
+country: 'fr'
+---
+
+Ahora mismo tienes [Kleenex FAMILY – Mouchoirs en papier - Lot de 15 Boîtes Maxi Format](https://www.amazon.fr/dp/B07D2XN5VJ/?tag=tolees0d-21) a 23.85 EUR (original: 32.95 EUR) (27.62 %  de descuento) en el siguiente enlace!
+
+[![Kleenex FAMILY – Mouchoirs en papier - L](https://m.media-amazon.com/images/I/5130OmO3QVL._SL200_.jpg)](https://www.amazon.fr/dp/B07D2XN5VJ/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B07D2XN5VJ/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

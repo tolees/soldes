@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Vladimir Ashkenazy: The Complete Piano C al 26.32 % de descuento'
+date: 2020-09-30 06:40:50
+thumbnailImage: 'https://m.media-amazon.com/images/I/31riMYBYWqL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31riMYBYWqL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B06Y61X2WM-fr'
+description:
+actualPrice: 70.22 EUR
+currency: EUR
+price: 70.22
+comparePrice: 95.3 EUR
+inStock: true
+prodname: 'Vladimir Ashkenazy: The Complete Piano Concerto Recordings'
+country: 'fr'
+---
+
+Está [Vladimir Ashkenazy: The Complete Piano Concerto Recordings](https://www.amazon.fr/dp/B06Y61X2WM/?tag=tolees0d-21) con 26.32 de descuento por 70.22 EUR (original: 95.3 EUR) en el siguiente enlace!
+
+[![Vladimir Ashkenazy: The Complete Piano C](https://m.media-amazon.com/images/I/31riMYBYWqL._SL200_.jpg)](https://www.amazon.fr/dp/B06Y61X2WM/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B06Y61X2WM/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

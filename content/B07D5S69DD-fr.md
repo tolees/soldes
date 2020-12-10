@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Luxtude pointeur laser powerpoint  Téléc al 62.52 % de descuento'
+date: 2020-11-10 09:43:26
+thumbnailImage: 'https://m.media-amazon.com/images/I/31wsyF91ThL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31wsyF91ThL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07D5S69DD-fr'
+description:
+actualPrice: 14.99 EUR
+currency: EUR
+price: 14.99
+comparePrice: 39.99 EUR
+inStock: true
+prodname: 'Luxtude pointeur laser powerpoint  Télécommande de présentateur sans fil rechargeable multifonction 5 en 1 avec pointeur laser  Contrôleur 1 '
+country: 'fr'
+---
+
+Ahora mismo tienes [Luxtude pointeur laser powerpoint  Télécommande de présentateur sans fil rechargeable multifonction 5 en 1 avec pointeur laser  Contrôleur 1 ](https://www.amazon.fr/dp/B07D5S69DD/?tag=tolees0d-21) a 14.99 EUR (original: 39.99 EUR) (62.52 %  de descuento) en el siguiente enlace!
+
+[![Luxtude pointeur laser powerpoint  Téléc](https://m.media-amazon.com/images/I/31wsyF91ThL._SL200_.jpg)](https://www.amazon.fr/dp/B07D5S69DD/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B07D5S69DD/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

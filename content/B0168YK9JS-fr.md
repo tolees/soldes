@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Playmobil 1.2.3. - 6962 - Ferme transpor al 32.44 % de descuento'
+date: 2020-11-10 12:18:23
+thumbnailImage: 'https://m.media-amazon.com/images/I/51OXqTm6wwL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51OXqTm6wwL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B0168YK9JS-fr'
+description:
+actualPrice: 24.99 EUR
+currency: EUR
+price: 24.99
+comparePrice: 36.99 EUR
+inStock: true
+prodname: 'Playmobil 1.2.3. - 6962 - Ferme transportable avec animaux'
+country: 'fr'
+---
+
+Ahora mismo tienes [Playmobil 1.2.3. - 6962 - Ferme transportable avec animaux](https://www.amazon.fr/dp/B0168YK9JS/?tag=tolees0d-21) a 24.99 EUR (original: 36.99 EUR) (32.44 %  de descuento) en el siguiente enlace!
+
+[![Playmobil 1.2.3. - 6962 - Ferme transpor](https://m.media-amazon.com/images/I/51OXqTm6wwL._SL200_.jpg)](https://www.amazon.fr/dp/B0168YK9JS/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B0168YK9JS/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

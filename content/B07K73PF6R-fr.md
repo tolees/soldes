@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'American Tourister Bon Air - Spinner Med al 36.29 % de descuento'
+date: 2020-10-19 10:59:51
+thumbnailImage: 'https://m.media-amazon.com/images/I/31c4YiExUVL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31c4YiExUVL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07K73PF6R-fr'
+description:
+actualPrice: 85.97 EUR
+currency: EUR
+price: 85.97
+comparePrice: 134.95 EUR
+inStock: true
+prodname: 'American Tourister Bon Air - Spinner Medium Bagage cabine  66 cm  57.5 liters  Rose  Cherry Blossoms '
+country: 'fr'
+---
+
+Está [American Tourister Bon Air - Spinner Medium Bagage cabine  66 cm  57.5 liters  Rose  Cherry Blossoms ](https://www.amazon.fr/dp/B07K73PF6R/?tag=tolees0d-21) con 36.29 de descuento por 85.97 EUR (original: 134.95 EUR) en el siguiente enlace!
+
+[![American Tourister Bon Air - Spinner Med](https://m.media-amazon.com/images/I/31c4YiExUVL._SL200_.jpg)](https://www.amazon.fr/dp/B07K73PF6R/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B07K73PF6R/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

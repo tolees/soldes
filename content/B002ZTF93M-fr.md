@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Kidkraft - 65092 - Maison de Poupées en  al 46.16 % de descuento'
+date: 2020-11-27 19:07:30
+thumbnailImage: 'https://m.media-amazon.com/images/I/51ObE1LfYdL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/51ObE1LfYdL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B002ZTF93M-fr'
+description:
+actualPrice: 69.99 EUR
+currency: EUR
+price: 69.99
+comparePrice: 129.99 EUR
+inStock: true
+prodname: 'Kidkraft - 65092 - Maison de Poupées en Bois Kayla'
+country: 'fr'
+---
+
+Está [Kidkraft - 65092 - Maison de Poupées en Bois Kayla](https://www.amazon.fr/dp/B002ZTF93M/?tag=tolees0d-21) con 46.16 de descuento por 69.99 EUR (original: 129.99 EUR) en el siguiente enlace!
+
+[![Kidkraft - 65092 - Maison de Poupées en ](https://m.media-amazon.com/images/I/51ObE1LfYdL._SL200_.jpg)](https://www.amazon.fr/dp/B002ZTF93M/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B002ZTF93M/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

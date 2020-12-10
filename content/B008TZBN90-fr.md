@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'Beurer TL 90 Lampe de luminothérapie | 1 al 57.73 % de descuento'
+date: 2020-05-22 23:05:28
+thumbnailImage: 'https://m.media-amazon.com/images/I/219jJnOcj0L._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/219jJnOcj0L._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B008TZBN90-fr'
+description:
+actualPrice: 81.99 EUR
+currency: EUR
+price: 81.99
+comparePrice: 193.99 EUR
+inStock: true
+prodname: 'Beurer TL 90 Lampe de luminothérapie | 10 000 lux | Simulation de la lumière du jour | Réglage d inclinaison en continu | Affichage de la durée de traitement | CE médical'
+country: 'fr'
+---
+
+Está [Beurer TL 90 Lampe de luminothérapie | 10 000 lux | Simulation de la lumière du jour | Réglage d inclinaison en continu | Affichage de la durée de traitement | CE médical](https://www.amazon.fr/dp/B008TZBN90/?tag=tolees0d-21) con 57.73 de descuento por 81.99 EUR (original: 193.99 EUR) en el siguiente enlace!
+
+[![Beurer TL 90 Lampe de luminothérapie | 1](https://m.media-amazon.com/images/I/219jJnOcj0L._SL200_.jpg)](https://www.amazon.fr/dp/B008TZBN90/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B008TZBN90/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+

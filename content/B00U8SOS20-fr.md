@@ -1,0 +1,27 @@
+---
+layout: post
+title: 'Neutrogena Réparation Intense  Lait Hydr al 50.42 % de descuento'
+date: 2020-10-27 19:23:14
+thumbnailImage: 'https://m.media-amazon.com/images/I/41s3MxnBLGL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/41s3MxnBLGL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B00U8SOS20-fr'
+description:
+actualPrice: 3.57 EUR
+currency: EUR
+price: 3.57
+comparePrice: 7.2 EUR
+inStock: true
+prodname: 'Neutrogena Réparation Intense  Lait Hydratant Corps  Pour Peaux Extra Sèches – 1 flacon pompe de 400ml'
+country: 'fr'
+---
+
+Ahora mismo tienes [Neutrogena Réparation Intense  Lait Hydratant Corps  Pour Peaux Extra Sèches – 1 flacon pompe de 400ml](https://www.amazon.fr/dp/B00U8SOS20/?tag=tolees0d-21) a 3.57 EUR (original: 7.2 EUR) (50.42 %  de descuento) en el siguiente enlace!
+
+[![Neutrogena Réparation Intense  Lait Hydr](https://m.media-amazon.com/images/I/41s3MxnBLGL._SL200_.jpg)](https://www.amazon.fr/dp/B00U8SOS20/?tag=tolees0d-21)
+
+[Visítala!!!](https://www.amazon.fr/dp/B00U8SOS20/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales

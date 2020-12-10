@@ -1,0 +1,29 @@
+---
+layout: post
+title: 'PUMA Carina L  Baskets Femme  White-Whit al 40.03 % de descuento'
+date: 2020-11-11 12:47:00
+thumbnailImage: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg'
+images: [ 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg' ]
+comments: true
+category: ofertas
+author: ring
+slug: 'B07JH2YBH3-fr'
+description:
+actualPrice: 35.95 EUR
+currency: EUR
+price: 35.95
+comparePrice: 59.95 EUR
+inStock: true
+prodname: 'PUMA Carina L  Baskets Femme  White-White-Silver  38 EU'
+country: 'fr'
+---
+
+Está [PUMA Carina L  Baskets Femme  White-White-Silver  38 EU](https://www.amazon.fr/dp/B07JH2YBH3/?tag=tolees0d-21) con 40.03 de descuento por 35.95 EUR (original: 59.95 EUR) en el siguiente enlace!
+
+[![PUMA Carina L  Baskets Femme  White-Whit](https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg)](https://www.amazon.fr/dp/B07JH2YBH3/?tag=tolees0d-21)
+
+[Ver la oferta!!](https://www.amazon.fr/dp/B07JH2YBH3/?tag=tolees0d-21)
+
+Links participate in Amazon Associate program and might generate a comission on qualifying sales
+
+
