@@ -24,14 +24,14 @@ Está [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Crèche
 
 Principales características:
 
-- 35 pièces composent le set
+- Age minimum : 3 ans
+- Dimensions : 38 x 33 x 21,5 cm
 - Intérieur pour 6 élèves et un(e) instituteur(tric)
-- Dimensions : 38 x 33 x 21,5 cm
-- Dimensions : 38 x 33 x 21,5 cm
+- Intérieur pour 6 élèves et un(e) instituteur(tric)
+- 35 pièces composent le set
 - Age minimum : 3 ans
 - 35 pièces composent le set
-- Intérieur pour 6 élèves et un(e) instituteur(tric)
-- Age minimum : 3 ans
+- Dimensions : 38 x 33 x 21,5 cm
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21)
 

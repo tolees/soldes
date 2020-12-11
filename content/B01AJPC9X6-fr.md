@@ -24,13 +24,13 @@ Está [Playmobil - Commissariat de Police avec Prison - 6919](https://www.amazon
 
 Principales características:
 
-- Une hélisurface pour lhélicoptère réf. 6921 se situe sur le toit.
-- Le portail souvre en coulissant.
-- Dimensions : 63 x 45 x 26 cm (LxPxH).
 - Comprend un mur cassable pour lévasion.
-- Avec armoire de rangement pour les armes des policiers, vêtement de prisonnier, boîte pour prise dempreintes digitales et de nombreux accessoires.
-- La Voiture de policiers avec gyrophare et sirène réf. 6920 peut se garer dans la cour du commissariat.
 - Centre de commandement avec liaison radio.
+- Le portail souvre en coulissant.
+- Avec armoire de rangement pour les armes des policiers, vêtement de prisonnier, boîte pour prise dempreintes digitales et de nombreux accessoires.
+- Une hélisurface pour lhélicoptère réf. 6921 se situe sur le toit.
+- La Voiture de policiers avec gyrophare et sirène réf. 6920 peut se garer dans la cour du commissariat.
+- Dimensions : 63 x 45 x 26 cm (LxPxH).
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01AJPC9X6/?tag=tolees0d-21)
 
