@@ -24,11 +24,11 @@ Está [IMMORTALS FENYX RISING - Limited Edition - Version PS5 incluse](https://w
 
 Principales características:
 
-- Maniez les pouvoirs des dieux
-- Forgez votre légende
 - Explorez un magnifique monde ouvert
 - Affrontez des ennemis mythiques
+- Forgez votre légende
 - Surmontez des épreuves héroïques
+- Maniez les pouvoirs des dieux
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08HP4JB7X/?tag=tolees0d-21)
 
