@@ -24,11 +24,11 @@ Ahora mismo tienes [Sliktaa Chemises Hommes Habillées Plissés Classiques Slim 
 
 Características:
 
+- Care instructions: Hand or Machine Wash in cool water, no bleach, hang drying.
+- Occasions:daily,casual,formal,wedding,work,business,perfect gift for family,husband,friends and boyfriend
 - Mens Casual Shirts Formal Business Long Sleeves Shirt
 - High quality material provides a breathable and comfortable wearing experience in Summer, Spring, Autumn days
-- Care instructions: Hand or Machine Wash in cool water, no bleach, hang drying.
 - Slim Fit, Long Sleeve ,Turn Down Collar ,Soft& comfortable
-- Occasions:daily,casual,formal,wedding,work,business,perfect gift for family,husband,friends and boyfriend
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DL1HYJY/?tag=tolees0d-21)
 
