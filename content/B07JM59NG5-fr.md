@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Chaloupe des Pirates avec Mo al 26.15 % de descuento'
-date: 2020-12-09 03:44:48
+date: 2020-12-10 23:33:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RnSWRZ+OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RnSWRZ+OL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,11 @@ country: 'fr'
 Ahora mismo tienes [Playmobil - Chaloupe des Pirates avec Moteur Submersible - 70151](https://www.amazon.fr/dp/B07JM59NG5/?tag=tolees0d-21) a 25.84 EUR (original: 34.99 EUR) (26.15 %  de descuento) en el siguiente enlace!
 
 [![Playmobil - Chaloupe des Pirates avec Mo](https://m.media-amazon.com/images/I/51RnSWRZ+OL._SL200_.jpg)](https://www.amazon.fr/dp/B07JM59NG5/?tag=tolees0d-21)
+
+Características:
+
+- -Moteur submersible inclus
+- -Le bateau tire des projectiles
 
 [Visítala!!!](https://www.amazon.fr/dp/B07JM59NG5/?tag=tolees0d-21)
 

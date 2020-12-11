@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil - Clinique Équipée - 70191 al 29.95 % de descuento'
-date: 2020-12-09 03:39:19
+title: 'Playmobil - Clinique Équipée - 70191 al 34.99 % de descuento'
+date: 2020-12-10 23:33:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OPIpqs-0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OPIpqs-0L._SL200_.jpg' ]
 comments: true
@@ -9,18 +9,22 @@ category: ofertas
 author: ring
 slug: 'B07YLD7TQQ-fr'
 description:
-actualPrice: 60.24 EUR
+actualPrice: 55.9 EUR
 currency: EUR
-price: 60.24
+price: 55.9
 comparePrice: 85.99 EUR
 inStock: true
 prodname: 'Playmobil - Clinique Équipée - 70191'
 country: 'fr'
 ---
 
-Ahora mismo tienes [Playmobil - Clinique Équipée - 70191](https://www.amazon.fr/dp/B07YLD7TQQ/?tag=tolees0d-21) a 60.24 EUR (original: 85.99 EUR) (29.95 %  de descuento) en el siguiente enlace!
+Ahora mismo tienes [Playmobil - Clinique Équipée - 70191](https://www.amazon.fr/dp/B07YLD7TQQ/?tag=tolees0d-21) a 55.9 EUR (original: 85.99 EUR) (34.99 %  de descuento) en el siguiente enlace!
 
 [![Playmobil - Clinique Équipée - 70191](https://m.media-amazon.com/images/I/51OPIpqs-0L._SL200_.jpg)](https://www.amazon.fr/dp/B07YLD7TQQ/?tag=tolees0d-21)
+
+Características:
+
+- Furnished with beds
 
 [Visítala!!!](https://www.amazon.fr/dp/B07YLD7TQQ/?tag=tolees0d-21)
 
