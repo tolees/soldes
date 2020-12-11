@@ -26,9 +26,9 @@ Características:
 
 - Facile à remplacer en quelques secondes Redonnez à votre joystick son aspect neuf
 - 100% tout neuf et de haute qualité !!
-- Remplacez votre capuchon de contrôleur Sony PS4 Microsoft Xbox One usé ou cassé
 - 10 Pcs Contrôleur Analogique Thumb Stick Grip Thumbstick Cap Cover Pour PS4 XBOX ONE
 - Protégez votre manette de commande contre la poussière et la saleté
+- Remplacez votre capuchon de contrôleur Sony PS4 Microsoft Xbox One usé ou cassé
 
 [Visítala!!!](https://www.amazon.fr/dp/B08LVJD81V/?tag=tolees0d-21)
 
