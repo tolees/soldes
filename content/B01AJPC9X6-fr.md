@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Commissariat de Police avec  al 33.40 % de descuento'
-date: 2020-12-10 10:09:52
+date: 2020-12-11 11:50:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/61CON5uaqGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61CON5uaqGL._SL200_.jpg' ]
 comments: true
@@ -21,6 +21,16 @@ country: 'fr'
 Está [Playmobil - Commissariat de Police avec Prison - 6919](https://www.amazon.fr/dp/B01AJPC9X6/?tag=tolees0d-21) con 33.40 de descuento por 63.26 EUR (original: 94.99 EUR) en el siguiente enlace!
 
 [![Playmobil - Commissariat de Police avec ](https://m.media-amazon.com/images/I/61CON5uaqGL._SL200_.jpg)](https://www.amazon.fr/dp/B01AJPC9X6/?tag=tolees0d-21)
+
+Principales características:
+
+- Le portail souvre en coulissant.
+- Une hélisurface pour lhélicoptère réf. 6921 se situe sur le toit.
+- Comprend un mur cassable pour lévasion.
+- Dimensions : 63 x 45 x 26 cm (LxPxH).
+- Avec armoire de rangement pour les armes des policiers, vêtement de prisonnier, boîte pour prise dempreintes digitales et de nombreux accessoires.
+- La Voiture de policiers avec gyrophare et sirène réf. 6920 peut se garer dans la cour du commissariat.
+- Centre de commandement avec liaison radio.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01AJPC9X6/?tag=tolees0d-21)
 

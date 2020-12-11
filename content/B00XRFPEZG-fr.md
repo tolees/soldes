@@ -24,11 +24,11 @@ Tienes [Helly Hansen W Crew Midlayer  Blouson De Sport Femme  Bleu  Navy   L  Po
 
 Características principales:
 
-- Livraison : 1 x Helly Hansen HH W Crew Midlayer Jacket veste de voile pour femme - Coupe-vent et imperméable - Couleur : bleu marine - Taille : L
-- Pour une utilisation quotidienne et pour les activités nautiques, Helly Hansen vous présente la veste de voile pour femme W Crew Midlayer : lune des vestes préférées des équipes de voile
-- Polyvalente, elle peut être utilisée comme couche intermédiaire ou comme veste de protection – Avec une coupe cintrée pour une belle silhouette
-- Découvrez les atouts du système Helly Tech : une couche extérieure unique, imperméable, respirante, qui coupe le vent et vous maintient au sec tout en permettant la régulation de lhumidité
 - Idéale pour la navigation côtière, la voile et la vie en mer, cette veste a une doublure en polaire ainsi quun col et des poches pour vous protéger du froid - Très légère, elle pèse 580g
+- Découvrez les atouts du système Helly Tech : une couche extérieure unique, imperméable, respirante, qui coupe le vent et vous maintient au sec tout en permettant la régulation de lhumidité
+- Polyvalente, elle peut être utilisée comme couche intermédiaire ou comme veste de protection – Avec une coupe cintrée pour une belle silhouette
+- Pour une utilisation quotidienne et pour les activités nautiques, Helly Hansen vous présente la veste de voile pour femme W Crew Midlayer : lune des vestes préférées des équipes de voile
+- Livraison : 1 x Helly Hansen HH W Crew Midlayer Jacket veste de voile pour femme - Coupe-vent et imperméable - Couleur : bleu marine - Taille : L
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00XRFPEZG/?tag=tolees0d-21)
 
