@@ -28,11 +28,11 @@ Tienes [Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C pour Mac  PC  W
 
 Características principales:
 
-- ✔ SLIM ET PORTABLE: Poids de seulement 37 g. Le disque dur externe se glisse dans les poches et vous suit partout. Également avec coque en alliage daluminium et surface mate pour ajouter une touche de mode.
 - ✔ USB3.1 / TYPE C ULTRA FAST SPEED: Équipé de la technologie de transfert rapide avancée de type C / USB3.1, vous ne pouvez jamais vous soucier du branchement à lenvers. Le disque dur externe vous offre une expérience de transfert de données stable et rapide.
-- ✔ CE QUE VOUS OBTENEZ - 1 x disque dur externe, 1 x câble USB 3.1, 2 ans de garantie du fabricant.
-- ✔ COMPATIBILITÉ PUISSANTE: Convient pour (Windows) 10 / RT8.1 / RT / 8.1 / 8/7 (Mac OS X) 10.11 / 10.10 / 10.9 ou systèmes supérieurs. Le disque dur externe peut être utilisé pour Windows, PC, Mac, ordinateur de bureau, ordinateur portable, MacBook, Chromebook, Xbox One, Xbox 360 et plus de modèles.
 - ✔ PLUG AND PLAY: Pas besoin de logiciel, il suffit de brancher et de jouer avec un câble de données USB et de profiter du bon moment. (Lemballage contient un câble de données USB de type C vers A). Il est donc pratique de le mettre dans votre sac et de lemmener partout.
+- ✔ COMPATIBILITÉ PUISSANTE: Convient pour (Windows) 10 / RT8.1 / RT / 8.1 / 8/7 (Mac OS X) 10.11 / 10.10 / 10.9 ou systèmes supérieurs. Le disque dur externe peut être utilisé pour Windows, PC, Mac, ordinateur de bureau, ordinateur portable, MacBook, Chromebook, Xbox One, Xbox 360 et plus de modèles.
+- ✔ CE QUE VOUS OBTENEZ - 1 x disque dur externe, 1 x câble USB 3.1, 2 ans de garantie du fabricant.
+- ✔ SLIM ET PORTABLE: Poids de seulement 37 g. Le disque dur externe se glisse dans les poches et vous suit partout. Également avec coque en alliage daluminium et surface mate pour ajouter une touche de mode.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08MFKSC43/?tag=tolees0d-21)
 
