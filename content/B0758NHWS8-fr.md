@@ -28,10 +28,10 @@ Está [SanDisk Carte Mémoire MicroSDHC Ultra 256 Go + Adaptateur SD  Vitesse de
 
 Principales características:
 
-- Ne vous souciez plus de ce quil faut garder et de ce quil faut supprimer
-- Température de fonctionnement : -13ºF à 185ºF (-25ºC à 85ºC)
 - Rapide pour de meilleures images, performances des applications et vidéo Full HD
 - SanDisk Memory Zone App pour une gestion facile des fichiers
+- Température de fonctionnement : -13ºF à 185ºF (-25ºC à 85ºC)
+- Ne vous souciez plus de ce quil faut garder et de ce quil faut supprimer
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0758NHWS8/?tag=tolees0d-21)
 

@@ -28,11 +28,11 @@ Tienes [Volant Apex sans fil pour PS4/PC](https://www.amazon.fr/dp/B07TJJWSY8/?t
 
 Características principales:
 
-- 280 mm diamètre (1:1 échelle)
-- Compatible PC
-- Angle de rotation de 270º
 - Une immersion totale la technologie de vibration TouchSense
 - Officiellement licencié par Nintendo
+- Angle de rotation de 270º
+- Compatible PC
+- 280 mm diamètre (1:1 échelle)
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07TJJWSY8/?tag=tolees0d-21)
 

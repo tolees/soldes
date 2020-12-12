@@ -28,10 +28,10 @@ Ahora mismo tienes [Jacob Delafon E72318-CP ALEO+ Mitigeur de douche mural  Chro
 
 Características:
 
+- Débit limité à 5 l/mn.
+- Débit 14 l/min
 - Chrome brillant et résistant garanti 10 ans
 - Cartouche à disque céramique, excellente durabilité
-- Débit 14 l/min
-- Débit limité à 5 l/mn.
 
 [Visítala!!!](https://www.amazon.fr/dp/B01MY7QVKB/?tag=tolees0d-21)
 

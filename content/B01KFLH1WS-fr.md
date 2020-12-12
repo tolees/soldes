@@ -28,11 +28,11 @@ Ahora mismo tienes [PNY SSD7CS900-120-PB Disque Flash SSD interne 120 Go SATA II
 
 Características:
 
-- Interface Serial ATA III/6 GBPs
 - Capacité de 120 Go
+- Interface Serial ATA III/6 GBPs
 - Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
-- Format Slim 7 mm
 - Idéal pour booster le système et les applications de tous les types dordinateur
+- Format Slim 7 mm
 - Garantie 3 ans par le SAV PNY situé en France
 
 [Visítala!!!](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)

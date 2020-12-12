@@ -28,8 +28,8 @@ Ahora mismo tienes [Playmobil - Chaloupe des Pirates avec Moteur Submersible - 7
 
 Características:
 
-- -Le bateau tire des projectiles
 - -Moteur submersible inclus
+- -Le bateau tire des projectiles
 
 [Visítala!!!](https://www.amazon.fr/dp/B07JM59NG5/?tag=tolees0d-21)
 

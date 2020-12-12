@@ -28,11 +28,11 @@ Ahora mismo tienes [2 Batteries pour Manette Xbox One/One S/One X/One Elite 1200
 
 Características:
 
-- Les batteries sont compatibles avec manettes sans fil de Xbox One, Xbox One S, Xbox One X, Xbox One Elite. 【Notre cache de la batterie et notre câble de chargement ne sont pas compatibles avec Xbox Series S / Xbox Series X.】
-- Lots de 2 5ft USB câbles, 2 pièces batteries, 2 pièces couvercles, vous pouvez charger un tout en utilisant lautre.
 - Remarque: Notre batteries fabriqué par une société tierce, pas par officiel.
 - Haute qualité 2 pièces 1200mAh Ni-MH batteries avec la certification. Protection contre les surcharges, les surtensions, les surintensités et les courts-circuits. Batteries rechargeables plus durables, dites adieu à la batterie jetable AA.
 - Câble avec LED indicateur, lumière bleue: en veille ou complètement chargée. Lumière rouge: charge. Entièrement chargé en moins de 4 heures. Il supporte la charge pendant que vous jouez.
+- Lots de 2 5ft USB câbles, 2 pièces batteries, 2 pièces couvercles, vous pouvez charger un tout en utilisant lautre.
+- Les batteries sont compatibles avec manettes sans fil de Xbox One, Xbox One S, Xbox One X, Xbox One Elite. 【Notre cache de la batterie et notre câble de chargement ne sont pas compatibles avec Xbox Series S / Xbox Series X.】
 
 [Visítala!!!](https://www.amazon.fr/dp/B07G3Q1VVJ/?tag=tolees0d-21)
 

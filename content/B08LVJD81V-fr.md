@@ -28,10 +28,10 @@ Ahora mismo tienes [10 Pcs Silicone Anti-Poussière Anti-Saleté Contrôleur Ana
 
 Características:
 
-- 10 Pcs Contrôleur Analogique Thumb Stick Grip Thumbstick Cap Cover Pour PS4 XBOX ONE
-- Facile à remplacer en quelques secondes Redonnez à votre joystick son aspect neuf
-- Remplacez votre capuchon de contrôleur Sony PS4 Microsoft Xbox One usé ou cassé
 - Protégez votre manette de commande contre la poussière et la saleté
+- Facile à remplacer en quelques secondes Redonnez à votre joystick son aspect neuf
+- 10 Pcs Contrôleur Analogique Thumb Stick Grip Thumbstick Cap Cover Pour PS4 XBOX ONE
+- Remplacez votre capuchon de contrôleur Sony PS4 Microsoft Xbox One usé ou cassé
 - 100% tout neuf et de haute qualité !!
 
 [Visítala!!!](https://www.amazon.fr/dp/B08LVJD81V/?tag=tolees0d-21)
