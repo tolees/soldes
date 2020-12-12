@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste femme NF2731CE Chantaco Sac port al 37.95 % de descuento'
 date: 2020-10-05 14:27:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z5bb9Qi7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z5bb9Qi7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z5bb9Qi7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 195.0 EUR
 inStock: true
 prodname: 'Lacoste femme NF2731CE Chantaco Sac porte epaule Rose  Bittersweet '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TP696NK/?tag=tolees0d-21'
+descuento: '37.95'
+titulo: 'Lacoste femme NF2731CE Chantaco Sac port'
 ---
 
 Está [Lacoste femme NF2731CE Chantaco Sac porte epaule Rose  Bittersweet ](https://www.amazon.fr/dp/B07TP696NK/?tag=tolees0d-21) con 37.95 de descuento por 121.0 EUR (original: 195.0 EUR) en el siguiente enlace!

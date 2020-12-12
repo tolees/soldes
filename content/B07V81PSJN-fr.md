@@ -3,6 +3,7 @@ layout: post
 title: 'Faure FKM-804MP1 Robot Pâtissier Magic B al 53.85 % de descuento'
 date: 2020-08-07 07:07:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fePW7yPsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fePW7yPsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fePW7yPsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 299.0 EUR
 inStock: true
 prodname: 'Faure FKM-804MP1 Robot Pâtissier Magic Baker Premiuim - 800W transmission directe -Mouvement Planétaire - Bol Inox 5 2L - Coloris Rouge'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07V81PSJN/?tag=tolees0d-21'
+descuento: '53.85'
+titulo: 'Faure FKM-804MP1 Robot Pâtissier Magic B'
 ---
 
 Está [Faure FKM-804MP1 Robot Pâtissier Magic Baker Premiuim - 800W transmission directe -Mouvement Planétaire - Bol Inox 5 2L - Coloris Rouge](https://www.amazon.fr/dp/B07V81PSJN/?tag=tolees0d-21) con 53.85 de descuento por 137.98 EUR (original: 299.0 EUR) en el siguiente enlace!

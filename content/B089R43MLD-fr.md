@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.51 % en Colmanda Console de Jeu  Console de Jeu '
 date: 2020-08-15 00:28:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xXQp81nbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xXQp81nbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xXQp81nbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.99 EUR
 inStock: true
 prodname: 'Colmanda Console de Jeu  Console de Jeu Retro FC  3 Pouces Écran Couleur avec 500 Jeux Classiques  Prend en Charge la Connexion de TV  Chargement USB  pour Système de Divertissement - Bleu'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B089R43MLD/?tag=tolees0d-21'
+descuento: '37.51'
+titulo: 'Colmanda Console de Jeu  Console de Jeu '
 ---
 
 Tienes [Colmanda Console de Jeu  Console de Jeu Retro FC  3 Pouces Écran Couleur avec 500 Jeux Classiques  Prend en Charge la Connexion de TV  Chargement USB  pour Système de Divertissement - Bleu](https://www.amazon.fr/dp/B089R43MLD/?tag=tolees0d-21) con un 37.51 % de descuento con precio de oferta de 19.99 EUR (original: 31.99 EUR) en el siguiente enlace!

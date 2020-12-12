@@ -3,6 +3,7 @@ layout: post
 title: 'Oral-B Vitality 100 Brosse à Dents Élect al 40.04 % de descuento'
 date: 2020-09-27 10:40:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Etjkyc0FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Etjkyc0FL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Etjkyc0FL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Oral-B Vitality 100 Brosse à Dents Électrique Rechargeable par Braun  1 Manche Noir  1 Brossette CrossAction'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07DGMWKK9/?tag=tolees0d-21'
+descuento: '40.04'
+titulo: 'Oral-B Vitality 100 Brosse à Dents Élect'
 ---
 
 Está [Oral-B Vitality 100 Brosse à Dents Électrique Rechargeable par Braun  1 Manche Noir  1 Brossette CrossAction](https://www.amazon.fr/dp/B07DGMWKK9/?tag=tolees0d-21) con 40.04 de descuento por 14.99 EUR (original: 25.0 EUR) en el siguiente enlace!

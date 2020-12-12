@@ -3,6 +3,7 @@ layout: post
 title: 'ROYAL SLEEP Matelas viscoélastique 140x1 al 71.43 % de descuento'
 date: 2020-05-29 16:21:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31UerK8YAjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31UerK8YAjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31UerK8YAjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 531.97 EUR
 inStock: true
 prodname: 'ROYAL SLEEP Matelas viscoélastique 140x190 fermeté Moyenne  Haut de Gamme  Confort et adaptabilité Totale  Hauteur 24cm - Matelas Dormant Premium  Certifié Oeko-Tex  Certification ISO 9001'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07L9BCCCL/?tag=tolees0d-21'
+descuento: '71.43'
+titulo: 'ROYAL SLEEP Matelas viscoélastique 140x1'
 ---
 
 Está [ROYAL SLEEP Matelas viscoélastique 140x190 fermeté Moyenne  Haut de Gamme  Confort et adaptabilité Totale  Hauteur 24cm - Matelas Dormant Premium  Certifié Oeko-Tex  Certification ISO 9001](https://www.amazon.fr/dp/B07L9BCCCL/?tag=tolees0d-21) con 71.43 de descuento por 151.99 EUR (original: 531.97 EUR) en el siguiente enlace!

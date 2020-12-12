@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.00 % en Timberland Malibu Waves Ankle Strap   Sa'
 date: 2020-08-08 18:10:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-YgUBs0fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-YgUBs0fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-YgUBs0fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Timberland Malibu Waves Ankle Strap   Sandales Femme  Marron  Rust Nubuck   40 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B078SXQLZJ/?tag=tolees0d-21'
+descuento: '50.00'
+titulo: 'Timberland Malibu Waves Ankle Strap   Sa'
 ---
 
 Tienes [Timberland Malibu Waves Ankle Strap   Sandales Femme  Marron  Rust Nubuck   40 EU](https://www.amazon.fr/dp/B078SXQLZJ/?tag=tolees0d-21) con un 50.00 % de descuento con precio de oferta de 42.5 EUR (original: 85.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'adidas Tiro Dufflebag M Sac en toile Bla al 42.55 % de descuento'
 date: 2020-09-24 17:08:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/412eB3JrSjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412eB3JrSjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412eB3JrSjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.95 EUR
 inStock: true
 prodname: 'adidas Tiro Dufflebag M Sac en toile Black/White FR : Taille Unique  Taille Fabricant : Taille Unique  NoirBlack/White FR : Taille Unique  Taille Fabricant : Taille Unique '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07K16WJ2D/?tag=tolees0d-21'
+descuento: '42.55'
+titulo: 'adidas Tiro Dufflebag M Sac en toile Bla'
 ---
 
 Está [adidas Tiro Dufflebag M Sac en toile Black/White FR : Taille Unique  Taille Fabricant : Taille Unique  NoirBlack/White FR : Taille Unique  Taille Fabricant : Taille Unique ](https://www.amazon.fr/dp/B07K16WJ2D/?tag=tolees0d-21) con 42.55 de descuento por 22.95 EUR (original: 39.95 EUR) en el siguiente enlace!

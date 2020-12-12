@@ -3,6 +3,7 @@ layout: post
 title: 'HUAWEI MediaPad T3 10 Wi-Fi Tablette Tac al 27.61 % de descuento'
 date: 2020-10-02 09:12:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41X3qEjz0pL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X3qEjz0pL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41X3qEjz0pL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 179.0 EUR
 inStock: true
 prodname: 'HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris  16 Go  2 Go de RAM  Android 7.0  Bluetooth '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B06XWJ5HMY/?tag=tolees0d-21'
+descuento: '27.61'
+titulo: 'HUAWEI MediaPad T3 10 Wi-Fi Tablette Tac'
 ---
 
 Ahora mismo tienes [HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris  16 Go  2 Go de RAM  Android 7.0  Bluetooth ](https://www.amazon.fr/dp/B06XWJ5HMY/?tag=tolees0d-21) a 129.58 EUR (original: 179.0 EUR) (27.61 %  de descuento) en el siguiente enlace!

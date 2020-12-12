@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.28 % en Older'
 date: 2020-10-01 07:02:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zMd62JpyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zMd62JpyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zMd62JpyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.98 EUR
 inStock: true
 prodname: 'Older'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21'
+descuento: '45.28'
+titulo: 'Older'
 ---
 
 Tienes [Older](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21) con un 45.28 % de descuento con precio de oferta de 7.65 EUR (original: 13.98 EUR) en el siguiente enlace!

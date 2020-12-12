@@ -3,6 +3,7 @@ layout: post
 title: 'Plateau pour Chaise Carrie Tumble Form S al 60.00 % de descuento'
 date: 2020-08-10 08:27:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/31n3U0g2iTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31n3U0g2iTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31n3U0g2iTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 138.24 EUR
 inStock: true
 prodname: 'Plateau pour Chaise Carrie Tumble Form S2 Junior'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B013EBIJCM/?tag=tolees0d-21'
+descuento: '60.00'
+titulo: 'Plateau pour Chaise Carrie Tumble Form S'
 ---
 
 Está [Plateau pour Chaise Carrie Tumble Form S2 Junior](https://www.amazon.fr/dp/B013EBIJCM/?tag=tolees0d-21) con 60.00 de descuento por 55.3 EUR (original: 138.24 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.44 % en Casio G-SHOCK Homme Analogique-Digital Q'
 date: 2020-08-24 23:29:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-pWDSI5KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-pWDSI5KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-pWDSI5KL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec Bracelet en Plastique GA-100L-2AER'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01J8AO4L8/?tag=tolees0d-21'
+descuento: '43.44'
+titulo: 'Casio G-SHOCK Homme Analogique-Digital Q'
 ---
 
 Tienes [Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec Bracelet en Plastique GA-100L-2AER](https://www.amazon.fr/dp/B01J8AO4L8/?tag=tolees0d-21) con un 43.44 % de descuento con precio de oferta de 56.5 EUR (original: 99.9 EUR) en el siguiente enlace!

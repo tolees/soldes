@@ -3,6 +3,7 @@ layout: post
 title: 'Le Tanneur Sophie Tsop1200  Femmes  Noir al 52.54 % de descuento'
 date: 2020-08-07 16:04:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L5SO1CUOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L5SO1CUOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L5SO1CUOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'Le Tanneur Sophie Tsop1200  Femmes  Noir  Noir   6x21x15 cm  W x H x L '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07F9WYYHL/?tag=tolees0d-21'
+descuento: '52.54'
+titulo: 'Le Tanneur Sophie Tsop1200  Femmes  Noir'
 ---
 
 Está [Le Tanneur Sophie Tsop1200  Femmes  Noir  Noir   6x21x15 cm  W x H x L ](https://www.amazon.fr/dp/B07F9WYYHL/?tag=tolees0d-21) con 52.54 de descuento por 94.44 EUR (original: 199.0 EUR) en el siguiente enlace!

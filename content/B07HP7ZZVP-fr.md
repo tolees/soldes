@@ -3,6 +3,7 @@ layout: post
 title: 'Crucial Ballistix Sport LT BLS16G4D30BES al 26.47 % de descuento'
 date: 2020-08-04 18:55:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-gjikzY4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-gjikzY4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-gjikzY4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 81.59 EUR
 inStock: true
 prodname: 'Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz  DDR4  DRAM  Mémoire pour PC de Gamer  16Go  CL16  Gris '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07HP7ZZVP/?tag=tolees0d-21'
+descuento: '26.47'
+titulo: 'Crucial Ballistix Sport LT BLS16G4D30BES'
 ---
 
 Ahora mismo tienes [Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz  DDR4  DRAM  Mémoire pour PC de Gamer  16Go  CL16  Gris ](https://www.amazon.fr/dp/B07HP7ZZVP/?tag=tolees0d-21) a 59.99 EUR (original: 81.59 EUR) (26.47 %  de descuento) en el siguiente enlace!

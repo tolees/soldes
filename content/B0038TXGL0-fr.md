@@ -3,6 +3,7 @@ layout: post
 title: 'Shea Moisture - Noix de Coco & Hibiscus  al 32.35 % de descuento'
 date: 2020-10-07 13:51:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/312QFCTTH6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312QFCTTH6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312QFCTTH6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 21.02 EUR
 inStock: true
 prodname: 'Shea Moisture - Noix de Coco & Hibiscus Curl & Shine Shampooing - 384 ml'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0038TXGL0/?tag=tolees0d-21'
+descuento: '32.35'
+titulo: 'Shea Moisture - Noix de Coco & Hibiscus '
 ---
 
 Ahora mismo tienes [Shea Moisture - Noix de Coco & Hibiscus Curl & Shine Shampooing - 384 ml](https://www.amazon.fr/dp/B0038TXGL0/?tag=tolees0d-21) a 14.22 EUR (original: 21.02 EUR) (32.35 %  de descuento) en el siguiente enlace!

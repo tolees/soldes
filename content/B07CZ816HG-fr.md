@@ -3,6 +3,7 @@ layout: post
 title: 'Under Armour UA Roland Backpack Hydrofug al 25.00 % de descuento'
 date: 2020-08-18 17:44:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/4182KU5DfxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4182KU5DfxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4182KU5DfxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 30.0 EUR
 inStock: true
 prodname: 'Under Armour UA Roland Backpack Hydrofuge Pratique  Sac à Dos Polyvalent avec Compartiment à Ordinateur pour MacBook 15" ou Taille similaire Unisexe  Gris  Unique'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07CZ816HG/?tag=tolees0d-21'
+descuento: '25.00'
+titulo: 'Under Armour UA Roland Backpack Hydrofug'
 ---
 
 Está [Under Armour UA Roland Backpack Hydrofuge Pratique  Sac à Dos Polyvalent avec Compartiment à Ordinateur pour MacBook 15" ou Taille similaire Unisexe  Gris  Unique](https://www.amazon.fr/dp/B07CZ816HG/?tag=tolees0d-21) con 25.00 de descuento por 22.5 EUR (original: 30.0 EUR) en el siguiente enlace!

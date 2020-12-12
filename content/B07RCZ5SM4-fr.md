@@ -3,6 +3,7 @@ layout: post
 title: 'Pieces Pccollina Leather Bag  Sacs porté al 60.13 % de descuento'
 date: 2020-08-07 15:27:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jnr7kJUsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jnr7kJUsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jnr7kJUsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Pieces Pccollina Leather Bag  Sacs portés épaule femme  Multicolore  Beige   11 5x37x25 cm  B x H T '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07RCZ5SM4/?tag=tolees0d-21'
+descuento: '60.13'
+titulo: 'Pieces Pccollina Leather Bag  Sacs porté'
 ---
 
 Está [Pieces Pccollina Leather Bag  Sacs portés épaule femme  Multicolore  Beige   11 5x37x25 cm  B x H T ](https://www.amazon.fr/dp/B07RCZ5SM4/?tag=tolees0d-21) con 60.13 de descuento por 55.81 EUR (original: 139.99 EUR) en el siguiente enlace!

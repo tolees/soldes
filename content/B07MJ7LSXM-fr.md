@@ -3,6 +3,7 @@ layout: post
 title: 'HKT by Hackett Hkt Hz PLR FLC Sweat-Shir al 55.56 % de descuento'
 date: 2020-05-22 19:59:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/31FpQoRE8UL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31FpQoRE8UL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31FpQoRE8UL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   Large Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07MJ7LSXM/?tag=tolees0d-21'
+descuento: '55.56'
+titulo: 'HKT by Hackett Hkt Hz PLR FLC Sweat-Shir'
 ---
 
 Ahora mismo tienes [HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   Large Homme](https://www.amazon.fr/dp/B07MJ7LSXM/?tag=tolees0d-21) a 44.0 EUR (original: 99.0 EUR) (55.56 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'The Last Ship-L intégrale de la série al 46.81 % de descuento'
 date: 2020-09-22 14:43:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FYjV02oyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FYjV02oyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FYjV02oyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 82.7 EUR
 inStock: true
 prodname: 'The Last Ship-L intégrale de la série'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21'
+descuento: '46.81'
+titulo: 'The Last Ship-L intégrale de la série'
 ---
 
 Ahora mismo tienes [The Last Ship-L intégrale de la série](https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21) a 43.99 EUR (original: 82.7 EUR) (46.81 %  de descuento) en el siguiente enlace!

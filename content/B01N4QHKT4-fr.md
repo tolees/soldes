@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.58 % en Gillette Mach3 Start Lames de Rasoir Hom'
 date: 2020-09-28 10:02:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bOkPtnSHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bOkPtnSHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bOkPtnSHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 26.0 EUR
 inStock: true
 prodname: 'Gillette Mach3 Start Lames de Rasoir Homme  Pack de 12 Recharges [OFFICIEL]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01N4QHKT4/?tag=tolees0d-21'
+descuento: '36.58'
+titulo: 'Gillette Mach3 Start Lames de Rasoir Hom'
 ---
 
 Tienes [Gillette Mach3 Start Lames de Rasoir Homme  Pack de 12 Recharges [OFFICIEL]](https://www.amazon.fr/dp/B01N4QHKT4/?tag=tolees0d-21) con un 36.58 % de descuento con precio de oferta de 16.49 EUR (original: 26.0 EUR) en el siguiente enlace!

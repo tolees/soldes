@@ -3,6 +3,7 @@ layout: post
 title: 'Tefal EF351412 Appareil à Fondue Simply  al 35.00 % de descuento'
 date: 2020-10-04 18:30:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+JuFFAy8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+JuFFAy8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+JuFFAy8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Tefal EF351412 Appareil à Fondue Simply Invents 8 personnes'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B008P6XOJ0/?tag=tolees0d-21'
+descuento: '35.00'
+titulo: 'Tefal EF351412 Appareil à Fondue Simply '
 ---
 
 Ahora mismo tienes [Tefal EF351412 Appareil à Fondue Simply Invents 8 personnes](https://www.amazon.fr/dp/B008P6XOJ0/?tag=tolees0d-21) a 64.99 EUR (original: 99.99 EUR) (35.00 %  de descuento) en el siguiente enlace!

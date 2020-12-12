@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 61.70 % en Piquadro Sac à dos loisir  Marron - CA29'
 date: 2020-08-05 09:43:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RL2A0f6CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RL2A0f6CL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RL2A0f6CL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 349.0 EUR
 inStock: true
 prodname: 'Piquadro Sac à dos loisir  Marron - CA2943OS'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21'
+descuento: '61.70'
+titulo: 'Piquadro Sac à dos loisir  Marron - CA29'
 ---
 
 Tienes [Piquadro Sac à dos loisir  Marron - CA2943OS](https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21) con un 61.70 % de descuento con precio de oferta de 133.65 EUR (original: 349.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Moulinex OW220830 Machine à Pain 17 Prog al 35.00 % de descuento'
 date: 2020-08-17 10:12:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-miVr3-LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-miVr3-LL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-miVr3-LL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.99 EUR
 inStock: true
 prodname: 'Moulinex OW220830 Machine à Pain 17 Programmes Plastique Noir/Pourpre 31 x 29 x 29 cm'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01CHVXOIO/?tag=tolees0d-21'
+descuento: '35.00'
+titulo: 'Moulinex OW220830 Machine à Pain 17 Prog'
 ---
 
 Está [Moulinex OW220830 Machine à Pain 17 Programmes Plastique Noir/Pourpre 31 x 29 x 29 cm](https://www.amazon.fr/dp/B01CHVXOIO/?tag=tolees0d-21) con 35.00 de descuento por 90.99 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 67.90 % en Dsquared2 D Squared Brillengestelle DQ51'
 date: 2020-05-23 00:00:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/31hIW3LsdFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31hIW3LsdFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31hIW3LsdFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 240.0 EUR
 inStock: true
 prodname: 'Dsquared2 D Squared Brillengestelle DQ5137 045-49-20-145 Lunettes de soleil  Marron  Braun   49.0 Mixte Adulte'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N2Q1N8R/?tag=tolees0d-21'
+descuento: '67.90'
+titulo: 'Dsquared2 D Squared Brillengestelle DQ51'
 ---
 
 Tienes [Dsquared2 D Squared Brillengestelle DQ5137 045-49-20-145 Lunettes de soleil  Marron  Braun   49.0 Mixte Adulte](https://www.amazon.fr/dp/B07N2Q1N8R/?tag=tolees0d-21) con un 67.90 % de descuento con precio de oferta de 77.04 EUR (original: 240.0 EUR) en el siguiente enlace!

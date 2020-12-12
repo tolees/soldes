@@ -3,6 +3,7 @@ layout: post
 title: 'Kaporal - Doudoune Coupe Droite - Mopa - al 45.99 % de descuento'
 date: 2020-05-22 22:41:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wVSGRRMYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wVSGRRMYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wVSGRRMYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Kaporal - Doudoune Coupe Droite - Mopa - Homme - XL - Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07MYLXPFW/?tag=tolees0d-21'
+descuento: '45.99'
+titulo: 'Kaporal - Doudoune Coupe Droite - Mopa -'
 ---
 
 Está [Kaporal - Doudoune Coupe Droite - Mopa - Homme - XL - Noir](https://www.amazon.fr/dp/B07MYLXPFW/?tag=tolees0d-21) con 45.99 de descuento por 53.47 EUR (original: 99.0 EUR) en el siguiente enlace!

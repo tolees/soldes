@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en LEGO®-DUPLO® Les animaux du monde Jouet '
 date: 2020-10-03 05:59:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PhBRZru+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PhBRZru+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PhBRZru+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'LEGO®-DUPLO® Les animaux du monde Jouet d Aventure Incluant 15 Animaux pour Tout Petits  Fille et Garçon dès 2 Ans  121 Pièces de Construction 10907'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01BK2PXAS/?tag=tolees0d-21'
+descuento: '25.00'
+titulo: 'LEGO®-DUPLO® Les animaux du monde Jouet '
 ---
 
 Tienes [LEGO®-DUPLO® Les animaux du monde Jouet d Aventure Incluant 15 Animaux pour Tout Petits  Fille et Garçon dès 2 Ans  121 Pièces de Construction 10907](https://www.amazon.fr/dp/B01BK2PXAS/?tag=tolees0d-21) con un 25.00 % de descuento con precio de oferta de 74.99 EUR (original: 99.99 EUR) en el siguiente enlace!

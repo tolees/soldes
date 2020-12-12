@@ -3,6 +3,7 @@ layout: post
 title: 'PLDM by Palladium Caramba SUD  Bottes &  al 55.62 % de descuento'
 date: 2020-05-22 22:47:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QnQF0JwBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QnQF0JwBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QnQF0JwBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Femmes  Gris  Caribou 381   41 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07MZJHBF4/?tag=tolees0d-21'
+descuento: '55.62'
+titulo: 'PLDM by Palladium Caramba SUD  Bottes & '
 ---
 
 Ahora mismo tienes [PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Femmes  Gris  Caribou 381   41 EU](https://www.amazon.fr/dp/B07MZJHBF4/?tag=tolees0d-21) a 70.99 EUR (original: 159.95 EUR) (55.62 %  de descuento) en el siguiente enlace!

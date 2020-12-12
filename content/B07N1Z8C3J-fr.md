@@ -3,6 +3,7 @@ layout: post
 title: 'Vera Mont VM 0029/4825 Robe de soirée  R al 67.11 % de descuento'
 date: 2020-08-04 17:48:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/31G2epqqjZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31G2epqqjZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31G2epqqjZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 219.0 EUR
 inStock: true
 prodname: 'Vera Mont VM 0029/4825 Robe de soirée  Rose  Cozy Pink 4443   44  Taille Fabricant: 42  Femme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N1Z8C3J/?tag=tolees0d-21'
+descuento: '67.11'
+titulo: 'Vera Mont VM 0029/4825 Robe de soirée  R'
 ---
 
 Está [Vera Mont VM 0029/4825 Robe de soirée  Rose  Cozy Pink 4443   44  Taille Fabricant: 42  Femme](https://www.amazon.fr/dp/B07N1Z8C3J/?tag=tolees0d-21) con 67.11 de descuento por 72.02 EUR (original: 219.0 EUR) en el siguiente enlace!

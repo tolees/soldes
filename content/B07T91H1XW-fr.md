@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.90 % en CASINO Thon Entier à l Huile de Tourneso'
 date: 2020-06-12 00:37:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51W9wv83wbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51W9wv83wbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51W9wv83wbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 3.07 EUR
 inStock: true
 prodname: 'CASINO Thon Entier à l Huile de Tournesol'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21'
+descuento: '32.90'
+titulo: 'CASINO Thon Entier à l Huile de Tourneso'
 ---
 
 Tienes [CASINO Thon Entier à l Huile de Tournesol](https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21) con un 32.90 % de descuento con precio de oferta de 2.06 EUR (original: 3.07 EUR) en el siguiente enlace!

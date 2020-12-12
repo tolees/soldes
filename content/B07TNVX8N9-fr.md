@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Descuento del 35.67 % en Playmobil: The Movie  Original Motion Pi'
-date: 2020-12-10 23:36:24
+date: 2020-12-12 00:07:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/61JFkhmszOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61JFkhmszOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61JFkhmszOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'Playmobil: The Movie  Original Motion Picture Soundtrack '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TNVX8N9/?tag=tolees0d-21'
+descuento: '35.67'
+titulo: 'Playmobil: The Movie  Original Motion Pi'
 ---
 
 Tienes [Playmobil: The Movie  Original Motion Picture Soundtrack ](https://www.amazon.fr/dp/B07TNVX8N9/?tag=tolees0d-21) con un 35.67 % de descuento con precio de oferta de 9.0 EUR (original: 13.99 EUR) en el siguiente enlace!

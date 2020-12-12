@@ -3,6 +3,7 @@ layout: post
 title: 'OH MY BAG Sac porté épaule Cuir porté ép al 41.00 % de descuento'
 date: 2020-05-22 21:37:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NmVMzBtDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NmVMzBtDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NmVMzBtDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'OH MY BAG Sac porté épaule Cuir porté épaule et main femmes en véritable cuir fabriqué en Italie - modèle RANGOON Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01GTHYC1U/?tag=tolees0d-21'
+descuento: '41.00'
+titulo: 'OH MY BAG Sac porté épaule Cuir porté ép'
 ---
 
 Ahora mismo tienes [OH MY BAG Sac porté épaule Cuir porté épaule et main femmes en véritable cuir fabriqué en Italie - modèle RANGOON Noir](https://www.amazon.fr/dp/B01GTHYC1U/?tag=tolees0d-21) a 64.9 EUR (original: 110.0 EUR) (41.00 %  de descuento) en el siguiente enlace!

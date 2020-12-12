@@ -3,6 +3,7 @@ layout: post
 title: 'Coffret Christopher Nolan 7 Films : Dunk al 40.97 % de descuento'
 date: 2020-05-31 17:10:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51GM8EDWgqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GM8EDWgqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51GM8EDWgqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 130.43 EUR
 inStock: true
 prodname: 'Coffret Christopher Nolan 7 Films : Dunkerque / Interstellar / Inception / Batman Begins / The Dark Knight / The Dark Knight Rises / Le Prestige - Blu-Ray 4K'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B077NTCCHY/?tag=tolees0d-21'
+descuento: '40.97'
+titulo: 'Coffret Christopher Nolan 7 Films : Dunk'
 ---
 
 Ahora mismo tienes [Coffret Christopher Nolan 7 Films : Dunkerque / Interstellar / Inception / Batman Begins / The Dark Knight / The Dark Knight Rises / Le Prestige - Blu-Ray 4K](https://www.amazon.fr/dp/B077NTCCHY/?tag=tolees0d-21) a 76.99 EUR (original: 130.43 EUR) (40.97 %  de descuento) en el siguiente enlace!

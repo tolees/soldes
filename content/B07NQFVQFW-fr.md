@@ -3,6 +3,7 @@ layout: post
 title: 'Lagostina 12143040122 Poêle à frire al 33.59 % de descuento'
 date: 2020-10-12 04:15:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xsagnqpfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xsagnqpfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xsagnqpfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Lagostina 12143040122 Poêle à frire'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21'
+descuento: '33.59'
+titulo: 'Lagostina 12143040122 Poêle à frire'
 ---
 
 Está [Lagostina 12143040122 Poêle à frire](https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21) con 33.59 de descuento por 45.82 EUR (original: 69.0 EUR) en el siguiente enlace!

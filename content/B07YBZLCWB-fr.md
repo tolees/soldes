@@ -3,6 +3,7 @@ layout: post
 title: '2X Hochstern BL1860B 5500mAh batterie Re al 33.41 % de descuento'
 date: 2020-05-28 20:32:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/515p3BGHB5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515p3BGHB5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515p3BGHB5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: '2X Hochstern BL1860B 5500mAh batterie Remplacement pour Makita 18V Lithium Compatible avec BL1850B BL1850 BL1860 BL1840B BL1840 BL1830B BL1815B LXT-400 avec indicateur LED'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07YBZLCWB/?tag=tolees0d-21'
+descuento: '33.41'
+titulo: '2X Hochstern BL1860B 5500mAh batterie Re'
 ---
 
 Está [2X Hochstern BL1860B 5500mAh batterie Remplacement pour Makita 18V Lithium Compatible avec BL1850B BL1850 BL1860 BL1840B BL1840 BL1830B BL1815B LXT-400 avec indicateur LED](https://www.amazon.fr/dp/B07YBZLCWB/?tag=tolees0d-21) con 33.41 de descuento por 65.92 EUR (original: 99.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Lexibook- Projecteur Planetarium  2-en-1'
 date: 2020-08-28 11:33:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jJw4PskcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jJw4PskcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jJw4PskcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Lexibook- Projecteur Planetarium  2-en-1 projette Constellations  étoiles et Images spatiales  astonomie pour Enfants  STEM  avec Carte des constallations  Blanc/Bleu  NLJ150'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07W92N3QG/?tag=tolees0d-21'
+descuento: '33.34'
+titulo: 'Lexibook- Projecteur Planetarium  2-en-1'
 ---
 
 Tienes [Lexibook- Projecteur Planetarium  2-en-1 projette Constellations  étoiles et Images spatiales  astonomie pour Enfants  STEM  avec Carte des constallations  Blanc/Bleu  NLJ150](https://www.amazon.fr/dp/B07W92N3QG/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

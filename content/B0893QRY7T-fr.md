@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.23 % en SMYTU Coque Xiaomi Redmi Note 9 Goldrose'
 date: 2020-07-14 03:51:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cC0332w5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cC0332w5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cC0332w5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.5 EUR
 inStock: true
 prodname: 'SMYTU Coque Xiaomi Redmi Note 9 Goldrose Housse en Cuir Case Xiaomi Redmi Note 9 Protection Portefeuille TPU Silicone Case Cover de Magnétique for Xiaomi Redmi Note 9  B-Goldrose '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0893QRY7T/?tag=tolees0d-21'
+descuento: '49.23'
+titulo: 'SMYTU Coque Xiaomi Redmi Note 9 Goldrose'
 ---
 
 Tienes [SMYTU Coque Xiaomi Redmi Note 9 Goldrose Housse en Cuir Case Xiaomi Redmi Note 9 Protection Portefeuille TPU Silicone Case Cover de Magnétique for Xiaomi Redmi Note 9  B-Goldrose ](https://www.amazon.fr/dp/B0893QRY7T/?tag=tolees0d-21) con un 49.23 % de descuento con precio de oferta de 9.9 EUR (original: 19.5 EUR) en el siguiente enlace!

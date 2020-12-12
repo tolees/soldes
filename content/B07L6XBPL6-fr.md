@@ -3,6 +3,7 @@ layout: post
 title: 'Eider BROCKWELL JKT W Veste Femme  Purpl al 63.54 % de descuento'
 date: 2020-08-11 19:28:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/415RnGjkW-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415RnGjkW-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415RnGjkW-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Eider BROCKWELL JKT W Veste Femme  Purple Wild  FR : L  Taille Fabricant : L '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07L6XBPL6/?tag=tolees0d-21'
+descuento: '63.54'
+titulo: 'Eider BROCKWELL JKT W Veste Femme  Purpl'
 ---
 
 Está [Eider BROCKWELL JKT W Veste Femme  Purple Wild  FR : L  Taille Fabricant : L ](https://www.amazon.fr/dp/B07L6XBPL6/?tag=tolees0d-21) con 63.54 de descuento por 58.32 EUR (original: 159.95 EUR) en el siguiente enlace!

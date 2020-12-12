@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.39 % en ECOVACS DEEBOT OZMO 950 – robot aspirate'
 date: 2020-10-10 07:44:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tT+8PYbTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tT+8PYbTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tT+8PYbTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 599.0 EUR
 inStock: true
 prodname: 'ECOVACS DEEBOT OZMO 950 – robot aspirateur 2 en 1 avec fonction d essuyage  navigation intelligente et détection d‘obstacles – Google Home  Alexa & App control'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07WC1MXN7/?tag=tolees0d-21'
+descuento: '33.39'
+titulo: 'ECOVACS DEEBOT OZMO 950 – robot aspirate'
 ---
 
 Tienes [ECOVACS DEEBOT OZMO 950 – robot aspirateur 2 en 1 avec fonction d essuyage  navigation intelligente et détection d‘obstacles – Google Home  Alexa & App control](https://www.amazon.fr/dp/B07WC1MXN7/?tag=tolees0d-21) con un 33.39 % de descuento con precio de oferta de 399.0 EUR (original: 599.0 EUR) en el siguiente enlace!

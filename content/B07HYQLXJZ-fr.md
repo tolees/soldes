@@ -3,6 +3,7 @@ layout: post
 title: 'Nike WMNS Air Force 1 High  Chaussures d al 48.60 % de descuento'
 date: 2020-08-05 13:44:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/41H7ypX3bUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41H7ypX3bUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41H7ypX3bUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 115.0 EUR
 inStock: true
 prodname: 'Nike WMNS Air Force 1 High  Chaussures de Fitness Femme  Noir  Black/Black/Black 013   39 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07HYQLXJZ/?tag=tolees0d-21'
+descuento: '48.60'
+titulo: 'Nike WMNS Air Force 1 High  Chaussures d'
 ---
 
 Está [Nike WMNS Air Force 1 High  Chaussures de Fitness Femme  Noir  Black/Black/Black 013   39 EU](https://www.amazon.fr/dp/B07HYQLXJZ/?tag=tolees0d-21) con 48.60 de descuento por 59.11 EUR (original: 115.0 EUR) en el siguiente enlace!

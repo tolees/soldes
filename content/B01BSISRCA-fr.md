@@ -3,6 +3,7 @@ layout: post
 title: 'Tots by Smart Rike 240–109 Parure de lit al 60.00 % de descuento'
 date: 2020-08-04 11:39:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DXVpyR2KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DXVpyR2KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DXVpyR2KL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80.13 EUR
 inStock: true
 prodname: 'Tots by Smart Rike 240–109 Parure de lit classic  gris de melange'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01BSISRCA/?tag=tolees0d-21'
+descuento: '60.00'
+titulo: 'Tots by Smart Rike 240–109 Parure de lit'
 ---
 
 Está [Tots by Smart Rike 240–109 Parure de lit classic  gris de melange](https://www.amazon.fr/dp/B01BSISRCA/?tag=tolees0d-21) con 60.00 de descuento por 32.05 EUR (original: 80.13 EUR) en el siguiente enlace!

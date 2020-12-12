@@ -3,6 +3,7 @@ layout: post
 title: 'Orgakiddy SAC POUR VOMIR - Sachet de 3 al 42.86 % de descuento'
 date: 2020-09-25 14:35:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/51JLst7teSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JLst7teSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51JLst7teSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 3.5 EUR
 inStock: true
 prodname: 'Orgakiddy SAC POUR VOMIR - Sachet de 3'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00IONJQ82/?tag=tolees0d-21'
+descuento: '42.86'
+titulo: 'Orgakiddy SAC POUR VOMIR - Sachet de 3'
 ---
 
 Está [Orgakiddy SAC POUR VOMIR - Sachet de 3](https://www.amazon.fr/dp/B00IONJQ82/?tag=tolees0d-21) con 42.86 de descuento por 2.0 EUR (original: 3.5 EUR) en el siguiente enlace!

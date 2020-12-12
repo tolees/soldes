@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.47 % en TP-Link T2600G-18TS Switch administrable'
 date: 2020-07-25 16:55:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/3147IDYrHGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3147IDYrHGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3147IDYrHGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.0 EUR
 inStock: true
 prodname: 'TP-Link T2600G-18TS Switch administrable niveau 2 avec 16 ports Gigabit plus 2 emplacements combinés SFP'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0141JOKL0/?tag=tolees0d-21'
+descuento: '53.47'
+titulo: 'TP-Link T2600G-18TS Switch administrable'
 ---
 
 Tienes [TP-Link T2600G-18TS Switch administrable niveau 2 avec 16 ports Gigabit plus 2 emplacements combinés SFP](https://www.amazon.fr/dp/B0141JOKL0/?tag=tolees0d-21) con un 53.47 % de descuento con precio de oferta de 73.99 EUR (original: 159.0 EUR) en el siguiente enlace!

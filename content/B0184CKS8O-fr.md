@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.62 % en ABUS EC-SNP 30/50 Cylindre Débrayable po'
 date: 2020-09-27 03:14:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fKm7g71xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fKm7g71xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fKm7g71xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 74.04 EUR
 inStock: true
 prodname: 'ABUS EC-SNP 30/50 Cylindre Débrayable pour Portes Extérieures/Entrées d appartement  Nickelé Mat  30/50 mm'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0184CKS8O/?tag=tolees0d-21'
+descuento: '33.62'
+titulo: 'ABUS EC-SNP 30/50 Cylindre Débrayable po'
 ---
 
 Tienes [ABUS EC-SNP 30/50 Cylindre Débrayable pour Portes Extérieures/Entrées d appartement  Nickelé Mat  30/50 mm](https://www.amazon.fr/dp/B0184CKS8O/?tag=tolees0d-21) con un 33.62 % de descuento con precio de oferta de 49.15 EUR (original: 74.04 EUR) en el siguiente enlace!

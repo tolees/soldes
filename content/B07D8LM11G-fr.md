@@ -3,6 +3,7 @@ layout: post
 title: 'BOSS Soody Sweat-Shirt  Noir  Black 001  al 26.43 % de descuento'
 date: 2020-05-22 20:33:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/31nhSfI3KUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nhSfI3KUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31nhSfI3KUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.0 EUR
 inStock: true
 prodname: 'BOSS Soody Sweat-Shirt  Noir  Black 001   XX-Large Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07D8LM11G/?tag=tolees0d-21'
+descuento: '26.43'
+titulo: 'BOSS Soody Sweat-Shirt  Noir  Black 001 '
 ---
 
 Ahora mismo tienes [BOSS Soody Sweat-Shirt  Noir  Black 001   XX-Large Homme](https://www.amazon.fr/dp/B07D8LM11G/?tag=tolees0d-21) a 116.98 EUR (original: 159.0 EUR) (26.43 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.01 % en SanDisk iXpand 64 Go - Clé USB double co'
 date: 2020-09-11 08:27:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EAYC5RTgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EAYC5RTgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EAYC5RTgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'SanDisk iXpand 64 Go - Clé USB double connectique pour sauvegarde iPhone et iPad'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01CIEBS74/?tag=tolees0d-21'
+descuento: '40.01'
+titulo: 'SanDisk iXpand 64 Go - Clé USB double co'
 ---
 
 Tienes [SanDisk iXpand 64 Go - Clé USB double connectique pour sauvegarde iPhone et iPad](https://www.amazon.fr/dp/B01CIEBS74/?tag=tolees0d-21) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Emartbuy Luxe Rigide Boîte-Cadeau de Pré al 36.68 % de descuento'
 date: 2020-07-20 23:54:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ivu0b4UuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ivu0b4UuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ivu0b4UuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Emartbuy Luxe Rigide Boîte-Cadeau de Présentation en Forme de Rectangle  29 cm * 21 cm * 9 cm  Boîte Bourgogne Texturée Avec Couvercle Crème  Intérieur Brun Chocolat et Ruban Décoratif Satiné'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07PY4ZGK8/?tag=tolees0d-21'
+descuento: '36.68'
+titulo: 'Emartbuy Luxe Rigide Boîte-Cadeau de Pré'
 ---
 
 Está [Emartbuy Luxe Rigide Boîte-Cadeau de Présentation en Forme de Rectangle  29 cm * 21 cm * 9 cm  Boîte Bourgogne Texturée Avec Couvercle Crème  Intérieur Brun Chocolat et Ruban Décoratif Satiné](https://www.amazon.fr/dp/B07PY4ZGK8/?tag=tolees0d-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

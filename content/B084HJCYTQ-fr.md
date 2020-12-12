@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.19 % en Samurai Shodown'
 date: 2020-09-21 15:32:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XOZo0hp5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XOZo0hp5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XOZo0hp5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Samurai Shodown'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B084HJCYTQ/?tag=tolees0d-21'
+descuento: '40.19'
+titulo: 'Samurai Shodown'
 ---
 
 Tienes [Samurai Shodown](https://www.amazon.fr/dp/B084HJCYTQ/?tag=tolees0d-21) con un 40.19 % de descuento con precio de oferta de 29.9 EUR (original: 49.99 EUR) en el siguiente enlace!

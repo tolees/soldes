@@ -3,6 +3,7 @@ layout: post
 title: 'El Naturalista N5176  Bottes Classiques  al 59.00 % de descuento'
 date: 2020-05-28 16:34:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/41m1DTiGM-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41m1DTiGM-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41m1DTiGM-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 180.0 EUR
 inStock: true
 prodname: 'El Naturalista N5176  Bottes Classiques Femme  Marron  Brown Brown   41 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07NJH1W8W/?tag=tolees0d-21'
+descuento: '59.00'
+titulo: 'El Naturalista N5176  Bottes Classiques '
 ---
 
 Está [El Naturalista N5176  Bottes Classiques Femme  Marron  Brown Brown   41 EU](https://www.amazon.fr/dp/B07NJH1W8W/?tag=tolees0d-21) con 59.00 de descuento por 73.8 EUR (original: 180.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO®-DUPLO® Disney™ La maison de vacanc al 25.10 % de descuento'
 date: 2020-08-29 06:14:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51mOE84ERqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mOE84ERqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51mOE84ERqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 54.99 EUR
 inStock: true
 prodname: 'LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fille et Garçon 2 Ans et Plus  57 Pièces 10889'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07KTVF52Q/?tag=tolees0d-21'
+descuento: '25.10'
+titulo: 'LEGO®-DUPLO® Disney™ La maison de vacanc'
 ---
 
 Ahora mismo tienes [LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fille et Garçon 2 Ans et Plus  57 Pièces 10889](https://www.amazon.fr/dp/B07KTVF52Q/?tag=tolees0d-21) a 41.19 EUR (original: 54.99 EUR) (25.10 %  de descuento) en el siguiente enlace!

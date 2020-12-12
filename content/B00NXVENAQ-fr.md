@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.73 % en Melitta Caffeo Passione  Argent  F53/0-1'
 date: 2020-10-12 09:29:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/410Qy1WubfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410Qy1WubfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410Qy1WubfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 599.0 EUR
 inStock: true
 prodname: 'Melitta Caffeo Passione  Argent  F53/0-101  Machine à Café et Boissons Chaudes Automatique  Auto-Cappuccinatore'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00NXVENAQ/?tag=tolees0d-21'
+descuento: '36.73'
+titulo: 'Melitta Caffeo Passione  Argent  F53/0-1'
 ---
 
 Tienes [Melitta Caffeo Passione  Argent  F53/0-101  Machine à Café et Boissons Chaudes Automatique  Auto-Cappuccinatore](https://www.amazon.fr/dp/B00NXVENAQ/?tag=tolees0d-21) con un 36.73 % de descuento con precio de oferta de 379.0 EUR (original: 599.0 EUR) en el siguiente enlace!

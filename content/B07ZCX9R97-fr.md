@@ -3,6 +3,7 @@ layout: post
 title: 'Fairy Tail al 25.00 % de descuento'
 date: 2020-10-02 09:12:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OvIeDc0-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OvIeDc0-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OvIeDc0-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Fairy Tail'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21'
+descuento: '25.00'
+titulo: 'Fairy Tail'
 ---
 
 Ahora mismo tienes [Fairy Tail](https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21) a 52.49 EUR (original: 69.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

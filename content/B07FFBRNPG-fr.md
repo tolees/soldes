@@ -3,6 +3,7 @@ layout: post
 title: 'CYBEX Gold Sac à Langer Scuderia Ferrari al 39.57 % de descuento'
 date: 2020-10-02 13:07:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/31frny2W1lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31frny2W1lL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31frny2W1lL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'CYBEX Gold Sac à Langer Scuderia Ferrari  Victory Black'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FFBRNPG/?tag=tolees0d-21'
+descuento: '39.57'
+titulo: 'CYBEX Gold Sac à Langer Scuderia Ferrari'
 ---
 
 Está [CYBEX Gold Sac à Langer Scuderia Ferrari  Victory Black](https://www.amazon.fr/dp/B07FFBRNPG/?tag=tolees0d-21) con 39.57 de descuento por 72.48 EUR (original: 119.95 EUR) en el siguiente enlace!

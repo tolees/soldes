@@ -3,6 +3,7 @@ layout: post
 title: 'Sigma Objectif Macro 18-250 mm F3 5-6 3  al 50.08 % de descuento'
 date: 2020-05-22 21:14:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51uWpxqV73L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51uWpxqV73L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51uWpxqV73L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 599.0 EUR
 inStock: true
 prodname: 'Sigma Objectif Macro 18-250 mm F3 5-6 3 DC OS HSM - Monture Canon'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B008B48AAE/?tag=tolees0d-21'
+descuento: '50.08'
+titulo: 'Sigma Objectif Macro 18-250 mm F3 5-6 3 '
 ---
 
 Ahora mismo tienes [Sigma Objectif Macro 18-250 mm F3 5-6 3 DC OS HSM - Monture Canon](https://www.amazon.fr/dp/B008B48AAE/?tag=tolees0d-21) a 299.0 EUR (original: 599.0 EUR) (50.08 %  de descuento) en el siguiente enlace!

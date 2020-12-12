@@ -3,6 +3,7 @@ layout: post
 title: 'Invicta 3044 Pro Diver Montre Homme acie al 64.67 % de descuento'
 date: 2020-08-20 14:03:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CgauWY1xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CgauWY1xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CgauWY1xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 349.0 EUR
 inStock: true
 prodname: 'Invicta 3044 Pro Diver Montre Homme acier inoxydable Automatique Cadran noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B000FVE3A2/?tag=tolees0d-21'
+descuento: '64.67'
+titulo: 'Invicta 3044 Pro Diver Montre Homme acie'
 ---
 
 Ahora mismo tienes [Invicta 3044 Pro Diver Montre Homme acier inoxydable Automatique Cadran noir](https://www.amazon.fr/dp/B000FVE3A2/?tag=tolees0d-21) a 123.3 EUR (original: 349.0 EUR) (64.67 %  de descuento) en el siguiente enlace!

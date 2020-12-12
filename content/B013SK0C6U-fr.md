@@ -3,6 +3,7 @@ layout: post
 title: 'Manfrotto MM290A4 Monopode pour Appareil al 47.45 % de descuento'
 date: 2020-10-11 06:32:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31RoduHp6fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RoduHp6fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31RoduHp6fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 56.57 EUR
 inStock: true
 prodname: 'Manfrotto MM290A4 Monopode pour Appareil photo Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B013SK0C6U/?tag=tolees0d-21'
+descuento: '47.45'
+titulo: 'Manfrotto MM290A4 Monopode pour Appareil'
 ---
 
 Está [Manfrotto MM290A4 Monopode pour Appareil photo Noir](https://www.amazon.fr/dp/B013SK0C6U/?tag=tolees0d-21) con 47.45 de descuento por 29.73 EUR (original: 56.57 EUR) en el siguiente enlace!

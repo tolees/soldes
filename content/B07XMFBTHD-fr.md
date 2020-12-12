@@ -3,6 +3,7 @@ layout: post
 title: 'Skechers GO Run 400 V2  Baskets Homme  T al 30.02 % de descuento'
 date: 2020-08-05 17:43:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ex2TV+KzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ex2TV+KzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ex2TV+KzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers GO Run 400 V2  Baskets Homme  Textile Noir Noir avec Bordure Grise synthétique  46 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07XMFBTHD/?tag=tolees0d-21'
+descuento: '30.02'
+titulo: 'Skechers GO Run 400 V2  Baskets Homme  T'
 ---
 
 Está [Skechers GO Run 400 V2  Baskets Homme  Textile Noir Noir avec Bordure Grise synthétique  46 EU](https://www.amazon.fr/dp/B07XMFBTHD/?tag=tolees0d-21) con 30.02 de descuento por 45.45 EUR (original: 64.95 EUR) en el siguiente enlace!

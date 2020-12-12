@@ -3,6 +3,7 @@ layout: post
 title: 'DeWalt DCF887NT - TOOLSELECT Visseuse à  al 30.34 % de descuento'
 date: 2020-10-02 10:43:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ougiJfvIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ougiJfvIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ougiJfvIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 172.07 EUR
 inStock: true
 prodname: 'DeWalt DCF887NT - TOOLSELECT Visseuse à chocs 3 vitesses 18V XR Chargeur/batterie non inclus Mallette TSTAK incluse'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01BU0FNXW/?tag=tolees0d-21'
+descuento: '30.34'
+titulo: 'DeWalt DCF887NT - TOOLSELECT Visseuse à '
 ---
 
 Está [DeWalt DCF887NT - TOOLSELECT Visseuse à chocs 3 vitesses 18V XR Chargeur/batterie non inclus Mallette TSTAK incluse](https://www.amazon.fr/dp/B01BU0FNXW/?tag=tolees0d-21) con 30.34 de descuento por 119.87 EUR (original: 172.07 EUR) en el siguiente enlace!

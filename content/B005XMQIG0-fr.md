@@ -3,6 +3,7 @@ layout: post
 title: 'Dim - Pockets Coton - Slip - Quotidien - al 26.32 % de descuento'
 date: 2020-09-23 01:40:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/41egSYW9IDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41egSYW9IDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41egSYW9IDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.2 EUR
 inStock: true
 prodname: 'Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir  Lot Noir Logo  - FR : 40  Taille fabricant : 40/42 '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B005XMQIG0/?tag=tolees0d-21'
+descuento: '26.32'
+titulo: 'Dim - Pockets Coton - Slip - Quotidien -'
 ---
 
 Ahora mismo tienes [Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir  Lot Noir Logo  - FR : 40  Taille fabricant : 40/42 ](https://www.amazon.fr/dp/B005XMQIG0/?tag=tolees0d-21) a 11.2 EUR (original: 15.2 EUR) (26.32 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.46 % en XL Perform Tool 553902 Prise Métal Remor'
 date: 2020-09-23 22:51:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NQAGQfPXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NQAGQfPXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NQAGQfPXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 6.5 EUR
 inStock: true
 prodname: 'XL Perform Tool 553902 Prise Métal Remorque 7 Broches Mâle'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00BIGZ3IY/?tag=tolees0d-21'
+descuento: '26.46'
+titulo: 'XL Perform Tool 553902 Prise Métal Remor'
 ---
 
 Tienes [XL Perform Tool 553902 Prise Métal Remorque 7 Broches Mâle](https://www.amazon.fr/dp/B00BIGZ3IY/?tag=tolees0d-21) con un 26.46 % de descuento con precio de oferta de 4.78 EUR (original: 6.5 EUR) en el siguiente enlace!

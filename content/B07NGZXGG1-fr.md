@@ -3,6 +3,7 @@ layout: post
 title: 'Strellson S.C. Clifton  Blouson Homme  G al 60.23 % de descuento'
 date: 2020-08-06 18:51:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jh5ez8VtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jh5ez8VtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jh5ez8VtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 249.0 EUR
 inStock: true
 prodname: 'Strellson S.C. Clifton  Blouson Homme  Grün  Green 318   Medium  taille du fabricant: 48 '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07NGZXGG1/?tag=tolees0d-21'
+descuento: '60.23'
+titulo: 'Strellson S.C. Clifton  Blouson Homme  G'
 ---
 
 Ahora mismo tienes [Strellson S.C. Clifton  Blouson Homme  Grün  Green 318   Medium  taille du fabricant: 48 ](https://www.amazon.fr/dp/B07NGZXGG1/?tag=tolees0d-21) a 99.02 EUR (original: 249.0 EUR) (60.23 %  de descuento) en el siguiente enlace!

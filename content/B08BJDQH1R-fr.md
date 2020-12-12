@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.01 % en Jump Force Deluxe Edition  Nintendo Swit'
 date: 2020-10-11 18:28:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51OmvDf+Y6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51OmvDf+Y6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51OmvDf+Y6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Jump Force Deluxe Edition  Nintendo Switch '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08BJDQH1R/?tag=tolees0d-21'
+descuento: '26.01'
+titulo: 'Jump Force Deluxe Edition  Nintendo Swit'
 ---
 
 Tienes [Jump Force Deluxe Edition  Nintendo Switch ](https://www.amazon.fr/dp/B08BJDQH1R/?tag=tolees0d-21) con un 26.01 % de descuento con precio de oferta de 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!

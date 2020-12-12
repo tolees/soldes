@@ -3,6 +3,7 @@ layout: post
 title: 'Vidéoprojecteur  WiMiUS 7000 Lumens Vidé al 66.82 % de descuento'
 date: 2020-08-07 14:04:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rVO1045KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rVO1045KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rVO1045KL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 599.99 EUR
 inStock: true
 prodname: 'Vidéoprojecteur  WiMiUS 7000 Lumens Vidéoprojecteur Full HD 1080P Rétroprojecteur 4K Soutien  Correction Digitale 4D Dolby Audio Projecteur LED 90 000 Heures Home Cinéma TV Box PC PS4 HDMI VGA AV USB'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B081ZZSZT4/?tag=tolees0d-21'
+descuento: '66.82'
+titulo: 'Vidéoprojecteur  WiMiUS 7000 Lumens Vidé'
 ---
 
 Está [Vidéoprojecteur  WiMiUS 7000 Lumens Vidéoprojecteur Full HD 1080P Rétroprojecteur 4K Soutien  Correction Digitale 4D Dolby Audio Projecteur LED 90 000 Heures Home Cinéma TV Box PC PS4 HDMI VGA AV USB](https://www.amazon.fr/dp/B081ZZSZT4/?tag=tolees0d-21) con 66.82 de descuento por 199.05 EUR (original: 599.99 EUR) en el siguiente enlace!

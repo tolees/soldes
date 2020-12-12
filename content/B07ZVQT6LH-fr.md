@@ -3,6 +3,7 @@ layout: post
 title: 'Levis SS Original HM Tee T-shirt Homme   al 50.20 % de descuento'
 date: 2020-09-27 10:41:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Levis SS Original HM Tee T-shirt Homme  Bleu  Ueprint   M'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07ZVQT6LH/?tag=tolees0d-21'
+descuento: '50.20'
+titulo: 'Levis SS Original HM Tee T-shirt Homme  '
 ---
 
 Está [Levis SS Original HM Tee T-shirt Homme  Bleu  Ueprint   M](https://www.amazon.fr/dp/B07ZVQT6LH/?tag=tolees0d-21) con 50.20 de descuento por 12.45 EUR (original: 25.0 EUR) en el siguiente enlace!

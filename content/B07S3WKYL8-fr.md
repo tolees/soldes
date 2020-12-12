@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.97 % en Nappe carrée"Israël Story" Blanc/Violet '
 date: 2020-09-12 21:53:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bn-F+E1PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bn-F+E1PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bn-F+E1PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Nappe carrée"Israël Story" Blanc/Violet – Made in France - 100% coton – Lavable en machine – Dimension 160 x 160 cm - Art Judaica Roch Hachana hashanah souccoth souccot'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07S3WKYL8/?tag=tolees0d-21'
+descuento: '57.97'
+titulo: 'Nappe carrée"Israël Story" Blanc/Violet '
 ---
 
 Tienes [Nappe carrée"Israël Story" Blanc/Violet – Made in France - 100% coton – Lavable en machine – Dimension 160 x 160 cm - Art Judaica Roch Hachana hashanah souccoth souccot](https://www.amazon.fr/dp/B07S3WKYL8/?tag=tolees0d-21) con un 57.97 % de descuento con precio de oferta de 29.0 EUR (original: 69.0 EUR) en el siguiente enlace!

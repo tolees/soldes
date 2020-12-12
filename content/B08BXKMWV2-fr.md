@@ -3,6 +3,7 @@ layout: post
 title: 'HHUIWIND Coque Xiaomi Redmi Note 9 + Ver al 61.63 % de descuento'
 date: 2020-07-21 05:57:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QocfABwZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QocfABwZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QocfABwZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.8 EUR
 inStock: true
 prodname: 'HHUIWIND Coque Xiaomi Redmi Note 9 + Verre Trempé Protection Etui Housse Xiaomi Redmi Note 9 Magnétique Portefeuille Flip Case Cover pour Xiaomi Redmi Note 9 Rouge01'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08BXKMWV2/?tag=tolees0d-21'
+descuento: '61.63'
+titulo: 'HHUIWIND Coque Xiaomi Redmi Note 9 + Ver'
 ---
 
 Está [HHUIWIND Coque Xiaomi Redmi Note 9 + Verre Trempé Protection Etui Housse Xiaomi Redmi Note 9 Magnétique Portefeuille Flip Case Cover pour Xiaomi Redmi Note 9 Rouge01](https://www.amazon.fr/dp/B08BXKMWV2/?tag=tolees0d-21) con 61.63 de descuento por 9.9 EUR (original: 25.8 EUR) en el siguiente enlace!

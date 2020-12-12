@@ -3,6 +3,7 @@ layout: post
 title: 'Funko-Figurines Pop Vinyl: Disney: The L al 35.76 % de descuento'
 date: 2020-07-17 03:56:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dH815KGcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dH815KGcL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dH815KGcL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 14.99 EUR
 inStock: true
 prodname: 'Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba Collectible Figure  38543  Multi'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07KPSBXR3/?tag=tolees0d-21'
+descuento: '35.76'
+titulo: 'Funko-Figurines Pop Vinyl: Disney: The L'
 ---
 
 Está [Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba Collectible Figure  38543  Multi](https://www.amazon.fr/dp/B07KPSBXR3/?tag=tolees0d-21) con 35.76 de descuento por 9.63 EUR (original: 14.99 EUR) en el siguiente enlace!

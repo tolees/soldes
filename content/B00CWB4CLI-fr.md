@@ -3,6 +3,7 @@ layout: post
 title: 'Vans Atwood Total  Baskets Basses Homme  al 50.00 % de descuento'
 date: 2020-08-09 20:44:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60.0 EUR
 inStock: true
 prodname: 'Vans Atwood Total  Baskets Basses Homme  Noir  Canvas Black/Black   38.5 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00CWB4CLI/?tag=tolees0d-21'
+descuento: '50.00'
+titulo: 'Vans Atwood Total  Baskets Basses Homme '
 ---
 
 Está [Vans Atwood Total  Baskets Basses Homme  Noir  Canvas Black/Black   38.5 EU](https://www.amazon.fr/dp/B00CWB4CLI/?tag=tolees0d-21) con 50.00 de descuento por 30.0 EUR (original: 60.0 EUR) en el siguiente enlace!

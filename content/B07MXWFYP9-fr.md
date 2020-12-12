@@ -3,6 +3,7 @@ layout: post
 title: 'Liebeskind Berlin Round Love Note - Hobo al 29.74 % de descuento'
 date: 2020-05-22 22:03:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/31egG1H8ADL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31egG1H8ADL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31egG1H8ADL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 249.0 EUR
 inStock: true
 prodname: 'Liebeskind Berlin Round Love Note - Hobo LargefemmeSacs portés épauleNoir  Black  8x30x34 centimeters  B x H x T '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07MXWFYP9/?tag=tolees0d-21'
+descuento: '29.74'
+titulo: 'Liebeskind Berlin Round Love Note - Hobo'
 ---
 
 Está [Liebeskind Berlin Round Love Note - Hobo LargefemmeSacs portés épauleNoir  Black  8x30x34 centimeters  B x H x T ](https://www.amazon.fr/dp/B07MXWFYP9/?tag=tolees0d-21) con 29.74 de descuento por 174.95 EUR (original: 249.0 EUR) en el siguiente enlace!

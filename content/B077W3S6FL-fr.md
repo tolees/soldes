@@ -3,6 +3,7 @@ layout: post
 title: 'ASICS Gel-Kayano 24  Chaussures de Runni al 27.47 % de descuento'
 date: 2020-05-22 22:34:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/51FjZJMLblL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FjZJMLblL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51FjZJMLblL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 180.0 EUR
 inStock: true
 prodname: 'ASICS Gel-Kayano 24  Chaussures de Running Homme  Bleu  Smoke Blue/Smoke Blue/Dark Blue 5656   42 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B077W3S6FL/?tag=tolees0d-21'
+descuento: '27.47'
+titulo: 'ASICS Gel-Kayano 24  Chaussures de Runni'
 ---
 
 Ahora mismo tienes [ASICS Gel-Kayano 24  Chaussures de Running Homme  Bleu  Smoke Blue/Smoke Blue/Dark Blue 5656   42 EU](https://www.amazon.fr/dp/B077W3S6FL/?tag=tolees0d-21) a 130.56 EUR (original: 180.0 EUR) (27.47 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Aigle Parfield W Mtd  Bottes & Bottines  al 53.30 % de descuento'
 date: 2020-05-22 22:43:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31kKVW64HaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kKVW64HaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31kKVW64HaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 250.0 EUR
 inStock: true
 prodname: 'Aigle Parfield W Mtd  Bottes & Bottines Cavalieres Femme  Marron  Darkbrown   38 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07CQW69S7/?tag=tolees0d-21'
+descuento: '53.30'
+titulo: 'Aigle Parfield W Mtd  Bottes & Bottines '
 ---
 
 Ahora mismo tienes [Aigle Parfield W Mtd  Bottes & Bottines Cavalieres Femme  Marron  Darkbrown   38 EU](https://www.amazon.fr/dp/B07CQW69S7/?tag=tolees0d-21) a 116.74 EUR (original: 250.0 EUR) (53.30 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 77.50 % en Montre CHRONOWATCH Automatique - Afficha'
 date: 2020-05-30 14:37:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oH9Nic0mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oH9Nic0mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oH9Nic0mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 720.0 EUR
 inStock: true
 prodname: 'Montre CHRONOWATCH Automatique - Affichage Bracelet Métal et Cadran HB5150C2BM1'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01GTCIEM8/?tag=tolees0d-21'
+descuento: '77.50'
+titulo: 'Montre CHRONOWATCH Automatique - Afficha'
 ---
 
 Tienes [Montre CHRONOWATCH Automatique - Affichage Bracelet Métal et Cadran HB5150C2BM1](https://www.amazon.fr/dp/B01GTCIEM8/?tag=tolees0d-21) con un 77.50 % de descuento con precio de oferta de 162.0 EUR (original: 720.0 EUR) en el siguiente enlace!

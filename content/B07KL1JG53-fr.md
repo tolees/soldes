@@ -3,6 +3,7 @@ layout: post
 title: 'Victrola Empire Junior Chaîne Stéréo 4-e al 36.12 % de descuento'
 date: 2020-05-23 00:11:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/51TNhl3NQ0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TNhl3NQ0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51TNhl3NQ0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'Victrola Empire Junior Chaîne Stéréo 4-en-1 Platine Vinyle - Expresso'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07KL1JG53/?tag=tolees0d-21'
+descuento: '36.12'
+titulo: 'Victrola Empire Junior Chaîne Stéréo 4-e'
 ---
 
 Está [Victrola Empire Junior Chaîne Stéréo 4-en-1 Platine Vinyle - Expresso](https://www.amazon.fr/dp/B07KL1JG53/?tag=tolees0d-21) con 36.12 de descuento por 95.75 EUR (original: 149.9 EUR) en el siguiente enlace!

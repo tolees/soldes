@@ -3,6 +3,7 @@ layout: post
 title: 'Sorel Bottes d Hiver pour Hommes  Caribo al 26.48 % de descuento'
 date: 2020-05-22 19:51:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZGYoV9UDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZGYoV9UDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZGYoV9UDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 169.95 EUR
 inStock: true
 prodname: 'Sorel Bottes d Hiver pour Hommes  Caribou WL  Marron foncé  Tobacco   Taille : 45'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B001OTYZ84/?tag=tolees0d-21'
+descuento: '26.48'
+titulo: 'Sorel Bottes d Hiver pour Hommes  Caribo'
 ---
 
 Está [Sorel Bottes d Hiver pour Hommes  Caribou WL  Marron foncé  Tobacco   Taille : 45](https://www.amazon.fr/dp/B001OTYZ84/?tag=tolees0d-21) con 26.48 de descuento por 124.95 EUR (original: 169.95 EUR) en el siguiente enlace!

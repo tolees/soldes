@@ -3,6 +3,7 @@ layout: post
 title: 'camel active 5-Pocket Houston Jean Droit al 49.24 % de descuento'
 date: 2020-08-05 05:47:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mLdQf3YoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mLdQf3YoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mLdQf3YoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'camel active 5-Pocket Houston Jean Droit  Bleu  Bleue/Black Used 43   W44/L34  Taille Fabricant: 44/34  Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01N292SLQ/?tag=tolees0d-21'
+descuento: '49.24'
+titulo: 'camel active 5-Pocket Houston Jean Droit'
 ---
 
 Ahora mismo tienes [camel active 5-Pocket Houston Jean Droit  Bleu  Bleue/Black Used 43   W44/L34  Taille Fabricant: 44/34  Homme](https://www.amazon.fr/dp/B01N292SLQ/?tag=tolees0d-21) a 45.66 EUR (original: 89.95 EUR) (49.24 %  de descuento) en el siguiente enlace!

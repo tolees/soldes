@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling Heart Backpack Sac à Dos Enfants al 45.94 % de descuento'
 date: 2020-09-26 18:52:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/5177ww+nPHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5177ww+nPHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5177ww+nPHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Kipling Heart Backpack Sac à Dos Enfants  24 cm  9 litres  Robot Camo Pink'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07YQDVPVQ/?tag=tolees0d-21'
+descuento: '45.94'
+titulo: 'Kipling Heart Backpack Sac à Dos Enfants'
 ---
 
 Está [Kipling Heart Backpack Sac à Dos Enfants  24 cm  9 litres  Robot Camo Pink](https://www.amazon.fr/dp/B07YQDVPVQ/?tag=tolees0d-21) con 45.94 de descuento por 37.3 EUR (original: 69.0 EUR) en el siguiente enlace!

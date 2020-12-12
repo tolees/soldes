@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 32.33 % en DJI - Mavic Pro Fly More Combo Platinum '
 date: 2020-09-15 12:44:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cEBtJYpbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cEBtJYpbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cEBtJYpbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 1299.0 EUR
 inStock: true
 prodname: 'DJI - Mavic Pro Fly More Combo Platinum  Version UE  | Incl. 1 Drone Quadricoptère  3 Batteries de Vol Intelligente  1 Radiocommande  1 Chargeur Voiture & Autres | Photos & Vidéos en Haute Résolution'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B075FRZ3RL/?tag=tolees0d-21'
+descuento: '32.33'
+titulo: 'DJI - Mavic Pro Fly More Combo Platinum '
 ---
 
 Tienes [DJI - Mavic Pro Fly More Combo Platinum  Version UE  | Incl. 1 Drone Quadricoptère  3 Batteries de Vol Intelligente  1 Radiocommande  1 Chargeur Voiture & Autres | Photos & Vidéos en Haute Résolution](https://www.amazon.fr/dp/B075FRZ3RL/?tag=tolees0d-21) con un 32.33 % de descuento con precio de oferta de 879.0 EUR (original: 1299.0 EUR) en el siguiente enlace!

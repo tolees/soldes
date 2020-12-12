@@ -3,6 +3,7 @@ layout: post
 title: 'Marmot Ultra Elite 30 Sac de Couchage Mi al 57.23 % de descuento'
 date: 2020-05-23 22:14:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Bxuf-X8fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Bxuf-X8fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Bxuf-X8fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 200.0 EUR
 inStock: true
 prodname: 'Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte  Dark Steel/Military Green  FR Unique  Taille Fabricant : 183 cm '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B078GSSX8Y/?tag=tolees0d-21'
+descuento: '57.23'
+titulo: 'Marmot Ultra Elite 30 Sac de Couchage Mi'
 ---
 
 Ahora mismo tienes [Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte  Dark Steel/Military Green  FR Unique  Taille Fabricant : 183 cm ](https://www.amazon.fr/dp/B078GSSX8Y/?tag=tolees0d-21) a 85.53 EUR (original: 200.0 EUR) (57.23 %  de descuento) en el siguiente enlace!

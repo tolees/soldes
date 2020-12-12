@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.19 % en Femme Manteau Capuche Fille Hiver Mantea'
 date: 2020-10-02 15:21:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/417zVteB+PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417zVteB+PL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417zVteB+PL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 23.99 EUR
 inStock: true
 prodname: 'Femme Manteau Capuche Fille Hiver Manteau Long Robe Chaud Mode en Vrac Manches Longues Parka Veste Blouson Grande Taille S-5XL'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07WWZ26BW/?tag=tolees0d-21'
+descuento: '54.19'
+titulo: 'Femme Manteau Capuche Fille Hiver Mantea'
 ---
 
 Tienes [Femme Manteau Capuche Fille Hiver Manteau Long Robe Chaud Mode en Vrac Manches Longues Parka Veste Blouson Grande Taille S-5XL](https://www.amazon.fr/dp/B07WWZ26BW/?tag=tolees0d-21) con un 54.19 % de descuento con precio de oferta de 10.99 EUR (original: 23.99 EUR) en el siguiente enlace!

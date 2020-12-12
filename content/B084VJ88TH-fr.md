@@ -3,6 +3,7 @@ layout: post
 title: 'Motast Enceinte Bluetooth Portable  30 H al 40.66 % de descuento'
 date: 2020-09-22 01:38:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pym3olXGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pym3olXGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pym3olXGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 62.34 EUR
 inStock: true
 prodname: 'Motast Enceinte Bluetooth Portable  30 Heures De Lecture  Haut Parleur Bluetooth  5200mAh Power bank  Lumière LED  étanche IP67  Enceinte sans Fil Portable pour Lors balades à vélo en Solitaire'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B084VJ88TH/?tag=tolees0d-21'
+descuento: '40.66'
+titulo: 'Motast Enceinte Bluetooth Portable  30 H'
 ---
 
 Está [Motast Enceinte Bluetooth Portable  30 Heures De Lecture  Haut Parleur Bluetooth  5200mAh Power bank  Lumière LED  étanche IP67  Enceinte sans Fil Portable pour Lors balades à vélo en Solitaire](https://www.amazon.fr/dp/B084VJ88TH/?tag=tolees0d-21) con 40.66 de descuento por 36.99 EUR (original: 62.34 EUR) en el siguiente enlace!

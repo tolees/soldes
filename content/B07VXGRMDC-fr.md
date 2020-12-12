@@ -3,6 +3,7 @@ layout: post
 title: 'Maillot Cyclisme Kits Homme Vêtements Cy al 40.01 % de descuento'
 date: 2020-05-22 22:12:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/51aB5V80gWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51aB5V80gWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51aB5V80gWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Maillot Cyclisme Kits Homme Vêtements Cyclisme Tenue Cycliste Maillot Cycliste Homme Manche Courte MTB Jersey+9D Gel Pantalons Homme Été Cyclisme Vêtements Respirant Séchage Rapide'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07VXGRMDC/?tag=tolees0d-21'
+descuento: '40.01'
+titulo: 'Maillot Cyclisme Kits Homme Vêtements Cy'
 ---
 
 Está [Maillot Cyclisme Kits Homme Vêtements Cyclisme Tenue Cycliste Maillot Cycliste Homme Manche Courte MTB Jersey+9D Gel Pantalons Homme Été Cyclisme Vêtements Respirant Séchage Rapide](https://www.amazon.fr/dp/B07VXGRMDC/?tag=tolees0d-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

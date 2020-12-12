@@ -3,6 +3,7 @@ layout: post
 title: 'Snow al 49.20 % de descuento'
 date: 2020-10-12 08:21:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NFQqhA2NL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NFQqhA2NL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NFQqhA2NL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.76 EUR
 inStock: true
 prodname: 'Snow'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21'
+descuento: '49.20'
+titulo: 'Snow'
 ---
 
 Ahora mismo tienes [Snow](https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21) a 6.99 EUR (original: 13.76 EUR) (49.20 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Ice-Watch - ICE lo White turquoise - Mon al 50.00 % de descuento'
 date: 2020-09-26 02:09:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Mj+LrG0gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Mj+LrG0gL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Mj+LrG0gL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Ice-Watch - ICE lo White turquoise - Montre blanche pour femme avec bracelet en silicone - 013430  Medium '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B06WWM2YB6/?tag=tolees0d-21'
+descuento: '50.00'
+titulo: 'Ice-Watch - ICE lo White turquoise - Mon'
 ---
 
 Ahora mismo tienes [Ice-Watch - ICE lo White turquoise - Montre blanche pour femme avec bracelet en silicone - 013430  Medium ](https://www.amazon.fr/dp/B06WWM2YB6/?tag=tolees0d-21) a 49.5 EUR (original: 99.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

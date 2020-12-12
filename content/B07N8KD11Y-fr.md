@@ -3,6 +3,7 @@ layout: post
 title: 'Hugo Atom Runn neoem  Sneakers Basses Ho al 40.54 % de descuento'
 date: 2020-05-30 10:04:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/31JQL-xR9jL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31JQL-xR9jL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31JQL-xR9jL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 195.0 EUR
 inStock: true
 prodname: 'Hugo Atom Runn neoem  Sneakers Basses Homme  Bleu  Navy 401   39 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N8KD11Y/?tag=tolees0d-21'
+descuento: '40.54'
+titulo: 'Hugo Atom Runn neoem  Sneakers Basses Ho'
 ---
 
 Ahora mismo tienes [Hugo Atom Runn neoem  Sneakers Basses Homme  Bleu  Navy 401   39 EU](https://www.amazon.fr/dp/B07N8KD11Y/?tag=tolees0d-21) a 115.95 EUR (original: 195.0 EUR) (40.54 %  de descuento) en el siguiente enlace!

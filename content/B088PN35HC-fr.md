@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.01 % en PHOINIKAS Casque de Jeu PS4  Casque Gami'
 date: 2020-08-10 00:37:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sbvB76uLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sbvB76uLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sbvB76uLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'PHOINIKAS Casque de Jeu PS4  Casque Gaming Filaire pour Xbox One  PC  Casque de Musique sans Fil Bluetooth avec Microphone Antibruit et 7.1 Bass Surround  40H Playtime -Bleu'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B088PN35HC/?tag=tolees0d-21'
+descuento: '34.01'
+titulo: 'PHOINIKAS Casque de Jeu PS4  Casque Gami'
 ---
 
 Tienes [PHOINIKAS Casque de Jeu PS4  Casque Gaming Filaire pour Xbox One  PC  Casque de Musique sans Fil Bluetooth avec Microphone Antibruit et 7.1 Bass Surround  40H Playtime -Bleu](https://www.amazon.fr/dp/B088PN35HC/?tag=tolees0d-21) con un 34.01 % de descuento con precio de oferta de 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

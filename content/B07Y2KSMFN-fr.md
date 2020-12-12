@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Nero Platinum Unlimited'
 date: 2020-09-14 10:27:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SUPhEjKIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SUPhEjKIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SUPhEjKIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Nero Platinum Unlimited'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21'
+descuento: '50.01'
+titulo: 'Nero Platinum Unlimited'
 ---
 
 Tienes [Nero Platinum Unlimited](https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

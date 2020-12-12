@@ -3,6 +3,7 @@ layout: post
 title: 'Belkin Hub Multimédia USB-C avec Câble U al 30.38 % de descuento'
 date: 2020-09-12 17:09:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/312dv23lg6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312dv23lg6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312dv23lg6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Belkin Hub Multimédia USB-C avec Câble USB-C Intégré  Dock USB-C pour Ordinateurs Portables Équipés d un Port USB-C et Fonctionnant sous Mac OS ou sous Windows  1 port HDMI  1 port Gigabit Ethernet  '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07Q3HP6KQ/?tag=tolees0d-21'
+descuento: '30.38'
+titulo: 'Belkin Hub Multimédia USB-C avec Câble U'
 ---
 
 Está [Belkin Hub Multimédia USB-C avec Câble USB-C Intégré  Dock USB-C pour Ordinateurs Portables Équipés d un Port USB-C et Fonctionnant sous Mac OS ou sous Windows  1 port HDMI  1 port Gigabit Ethernet  ](https://www.amazon.fr/dp/B07Q3HP6KQ/?tag=tolees0d-21) con 30.38 de descuento por 69.61 EUR (original: 99.99 EUR) en el siguiente enlace!

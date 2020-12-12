@@ -3,6 +3,7 @@ layout: post
 title: 'Marque Amazon – BUTTONED DOWN Pull en co al 63.50 % de descuento'
 date: 2020-10-12 08:21:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Amk0X0jEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Amk0X0jEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Amk0X0jEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.45 EUR
 inStock: true
 prodname: 'Marque Amazon – BUTTONED DOWN Pull en coton supima léger avec col rond pour homme  bleu marine  US M  EU M '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07BCFL7R5/?tag=tolees0d-21'
+descuento: '63.50'
+titulo: 'Marque Amazon – BUTTONED DOWN Pull en co'
 ---
 
 Está [Marque Amazon – BUTTONED DOWN Pull en coton supima léger avec col rond pour homme  bleu marine  US M  EU M ](https://www.amazon.fr/dp/B07BCFL7R5/?tag=tolees0d-21) con 63.50 de descuento por 14.4 EUR (original: 39.45 EUR) en el siguiente enlace!

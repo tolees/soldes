@@ -3,6 +3,7 @@ layout: post
 title: 'JBL LIVE 500BT – Casque Audio Circum-Aur al 45.77 % de descuento'
 date: 2020-08-25 06:03:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41S2ujIystL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S2ujIystL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41S2ujIystL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.0 EUR
 inStock: true
 prodname: 'JBL LIVE 500BT – Casque Audio Circum-Auriculaire Sans Fil – Écouteurs Bluetooth avec Commande pour Appels – avec Amazon Alexa Intégrée – Autonomie jusqu à 30 Heures – Bluetooth  Rouge'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N9DWGVF/?tag=tolees0d-21'
+descuento: '45.77'
+titulo: 'JBL LIVE 500BT – Casque Audio Circum-Aur'
 ---
 
 Está [JBL LIVE 500BT – Casque Audio Circum-Auriculaire Sans Fil – Écouteurs Bluetooth avec Commande pour Appels – avec Amazon Alexa Intégrée – Autonomie jusqu à 30 Heures – Bluetooth  Rouge](https://www.amazon.fr/dp/B07N9DWGVF/?tag=tolees0d-21) con 45.77 de descuento por 80.8 EUR (original: 149.0 EUR) en el siguiente enlace!

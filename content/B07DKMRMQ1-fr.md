@@ -3,6 +3,7 @@ layout: post
 title: 'NHL 19 al 48.42 % de descuento'
 date: 2020-08-28 19:43:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IU3iTHAZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IU3iTHAZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IU3iTHAZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'NHL 19'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21'
+descuento: '48.42'
+titulo: 'NHL 19'
 ---
 
 Ahora mismo tienes [NHL 19](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21) a 36.1 EUR (original: 69.99 EUR) (48.42 %  de descuento) en el siguiente enlace!

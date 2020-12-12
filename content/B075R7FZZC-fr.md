@@ -3,6 +3,7 @@ layout: post
 title: 'SIMBA Protège Matelas - Alèse Imperméabl al 60.00 % de descuento'
 date: 2020-05-22 22:43:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31I2Dfbp6mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31I2Dfbp6mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31I2Dfbp6mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 55.0 EUR
 inStock: true
 prodname: 'SIMBA Protège Matelas - Alèse Imperméable et Respirant  150 x 200 cm '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B075R7FZZC/?tag=tolees0d-21'
+descuento: '60.00'
+titulo: 'SIMBA Protège Matelas - Alèse Imperméabl'
 ---
 
 Está [SIMBA Protège Matelas - Alèse Imperméable et Respirant  150 x 200 cm ](https://www.amazon.fr/dp/B075R7FZZC/?tag=tolees0d-21) con 60.00 de descuento por 22.0 EUR (original: 55.0 EUR) en el siguiente enlace!

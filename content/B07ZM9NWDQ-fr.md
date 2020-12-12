@@ -3,6 +3,7 @@ layout: post
 title: 'Masseur Cervical  Appareil de Massage Él al 27.78 % de descuento'
 date: 2020-08-29 06:41:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QEdvaAgRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QEdvaAgRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QEdvaAgRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Masseur Cervical  Appareil de Massage Électrique  Masseur de nuque portable  Massage par Impulsions Basse Fréquence 6 Types de Méthodes de Massage'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07ZM9NWDQ/?tag=tolees0d-21'
+descuento: '27.78'
+titulo: 'Masseur Cervical  Appareil de Massage Él'
 ---
 
 Está [Masseur Cervical  Appareil de Massage Électrique  Masseur de nuque portable  Massage par Impulsions Basse Fréquence 6 Types de Méthodes de Massage](https://www.amazon.fr/dp/B07ZM9NWDQ/?tag=tolees0d-21) con 27.78 de descuento por 21.66 EUR (original: 29.99 EUR) en el siguiente enlace!

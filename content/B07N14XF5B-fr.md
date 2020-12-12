@@ -3,6 +3,7 @@ layout: post
 title: 'Guess W1231L1 Montre Femme al 45.19 % de descuento'
 date: 2020-08-29 05:17:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Ryve5qPEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ryve5qPEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Ryve5qPEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 135.0 EUR
 inStock: true
 prodname: 'Guess W1231L1 Montre Femme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N14XF5B/?tag=tolees0d-21'
+descuento: '45.19'
+titulo: 'Guess W1231L1 Montre Femme'
 ---
 
 Ahora mismo tienes [Guess W1231L1 Montre Femme](https://www.amazon.fr/dp/B07N14XF5B/?tag=tolees0d-21) a 74.0 EUR (original: 135.0 EUR) (45.19 %  de descuento) en el siguiente enlace!

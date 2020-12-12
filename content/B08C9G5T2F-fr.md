@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.52 % en OFFRE DE LANCEMENT - Correcteur de Postu'
 date: 2020-08-23 05:07:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51IaTMpaGNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51IaTMpaGNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51IaTMpaGNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'OFFRE DE LANCEMENT - Correcteur de Posture Saona Concept® - Soulage les Douleurs de Dos  Cou  Épaules - Redresse Dos Homme Femme  L-XL '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08C9G5T2F/?tag=tolees0d-21'
+descuento: '62.52'
+titulo: 'OFFRE DE LANCEMENT - Correcteur de Postu'
 ---
 
 Tienes [OFFRE DE LANCEMENT - Correcteur de Posture Saona Concept® - Soulage les Douleurs de Dos  Cou  Épaules - Redresse Dos Homme Femme  L-XL ](https://www.amazon.fr/dp/B08C9G5T2F/?tag=tolees0d-21) con un 62.52 % de descuento con precio de oferta de 14.99 EUR (original: 39.99 EUR) en el siguiente enlace!

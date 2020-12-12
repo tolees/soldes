@@ -3,6 +3,7 @@ layout: post
 title: 'Sony DSCWX500B Appareils Photo Numérique al 35.59 % de descuento'
 date: 2020-05-22 23:56:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 399.0 EUR
 inStock: true
 prodname: 'Sony DSCWX500B Appareils Photo Numérique  Capteur CMOS Exmor R  18.2 Mpix  Zoom Optique 30x  Stabilisation 5 axes  Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00W46KROM/?tag=tolees0d-21'
+descuento: '35.59'
+titulo: 'Sony DSCWX500B Appareils Photo Numérique'
 ---
 
 Está [Sony DSCWX500B Appareils Photo Numérique  Capteur CMOS Exmor R  18.2 Mpix  Zoom Optique 30x  Stabilisation 5 axes  Noir](https://www.amazon.fr/dp/B00W46KROM/?tag=tolees0d-21) con 35.59 de descuento por 256.99 EUR (original: 399.0 EUR) en el siguiente enlace!

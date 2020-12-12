@@ -3,6 +3,7 @@ layout: post
 title: 'LIHAO Étui pour Nintendo Switch  Housse  al 50.02 % de descuento'
 date: 2020-07-09 05:34:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41L5XKgDktL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41L5XKgDktL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41L5XKgDktL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'LIHAO Étui pour Nintendo Switch  Housse de Transport Protection pour Console Nintendo Switch  Joy Con  Jeux et Accessoires'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B089Q3L2TD/?tag=tolees0d-21'
+descuento: '50.02'
+titulo: 'LIHAO Étui pour Nintendo Switch  Housse '
 ---
 
 Está [LIHAO Étui pour Nintendo Switch  Housse de Transport Protection pour Console Nintendo Switch  Joy Con  Jeux et Accessoires](https://www.amazon.fr/dp/B089Q3L2TD/?tag=tolees0d-21) con 50.02 de descuento por 14.99 EUR (original: 29.99 EUR) en el siguiente enlace!

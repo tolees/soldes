@@ -3,6 +3,7 @@ layout: post
 title: 'Sebago DAN Waxy Polaris  Mocassins  Loaf al 61.24 % de descuento'
 date: 2020-08-09 16:04:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/31I927u01xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31I927u01xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31I927u01xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 180.0 EUR
 inStock: true
 prodname: 'Sebago DAN Waxy Polaris  Mocassins  Loafer  Hommes  Marron  DK Brown 901   39 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N1BXTVN/?tag=tolees0d-21'
+descuento: '61.24'
+titulo: 'Sebago DAN Waxy Polaris  Mocassins  Loaf'
 ---
 
 Ahora mismo tienes [Sebago DAN Waxy Polaris  Mocassins  Loafer  Hommes  Marron  DK Brown 901   39 EU](https://www.amazon.fr/dp/B07N1BXTVN/?tag=tolees0d-21) a 69.77 EUR (original: 180.0 EUR) (61.24 %  de descuento) en el siguiente enlace!

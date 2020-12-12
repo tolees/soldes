@@ -3,6 +3,7 @@ layout: post
 title: 'Lagrange 429002 Pâtes Créativ  Blanc 30  al 31.60 % de descuento'
 date: 2020-05-22 22:25:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DKgrPFZSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DKgrPFZSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DKgrPFZSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 249.99 EUR
 inStock: true
 prodname: 'Lagrange 429002 Pâtes Créativ  Blanc 30 x 16 x 35 cm'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0105WQL1Y/?tag=tolees0d-21'
+descuento: '31.60'
+titulo: 'Lagrange 429002 Pâtes Créativ  Blanc 30 '
 ---
 
 Está [Lagrange 429002 Pâtes Créativ  Blanc 30 x 16 x 35 cm](https://www.amazon.fr/dp/B0105WQL1Y/?tag=tolees0d-21) con 31.60 de descuento por 170.99 EUR (original: 249.99 EUR) en el siguiente enlace!

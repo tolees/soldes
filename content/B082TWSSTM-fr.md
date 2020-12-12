@@ -3,6 +3,7 @@ layout: post
 title: 'Casque Bluetooth sans Fil 60 Heurs de Le al 50.01 % de descuento'
 date: 2020-08-31 23:08:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nxxdj0NwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nxxdj0NwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nxxdj0NwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Casque Bluetooth sans Fil 60 Heurs de Lecture Mpow 059 Pro Bluetooth 5.0 Casque Audio sans Fil avec Mic Bandeau Réglable Pliable Casque Circum-aural pour Téléphone /TV/iPad/ Ordinateur Portable'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B082TWSSTM/?tag=tolees0d-21'
+descuento: '50.01'
+titulo: 'Casque Bluetooth sans Fil 60 Heurs de Le'
 ---
 
 Está [Casque Bluetooth sans Fil 60 Heurs de Lecture Mpow 059 Pro Bluetooth 5.0 Casque Audio sans Fil avec Mic Bandeau Réglable Pliable Casque Circum-aural pour Téléphone /TV/iPad/ Ordinateur Portable](https://www.amazon.fr/dp/B082TWSSTM/?tag=tolees0d-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!

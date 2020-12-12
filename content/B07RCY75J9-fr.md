@@ -3,6 +3,7 @@ layout: post
 title: 'TEFAL Body Partner Pèse Personne Balance al 35.90 % de descuento'
 date: 2020-09-26 10:03:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qRUsl+dYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qRUsl+dYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qRUsl+dYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 155.99 EUR
 inStock: true
 prodname: 'TEFAL Body Partner Pèse Personne Balance Connectée Compatible Health Kit Google Fit - Coaching Sportif Et Nutritionnel Intégré YD3094S1'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07RCY75J9/?tag=tolees0d-21'
+descuento: '35.90'
+titulo: 'TEFAL Body Partner Pèse Personne Balance'
 ---
 
 Está [TEFAL Body Partner Pèse Personne Balance Connectée Compatible Health Kit Google Fit - Coaching Sportif Et Nutritionnel Intégré YD3094S1](https://www.amazon.fr/dp/B07RCY75J9/?tag=tolees0d-21) con 35.90 de descuento por 99.99 EUR (original: 155.99 EUR) en el siguiente enlace!

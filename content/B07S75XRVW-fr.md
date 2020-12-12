@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Classic Vacay Vibes Clog  Sabots M al 29.98 % de descuento'
 date: 2020-10-10 18:30:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ux4TRFydL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ux4TRFydL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ux4TRFydL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 42.99 EUR
 inStock: true
 prodname: 'Crocs Classic Vacay Vibes Clog  Sabots Mixte Adulte  Orange  Cantaloupe 801   38/39 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07S75XRVW/?tag=tolees0d-21'
+descuento: '29.98'
+titulo: 'Crocs Classic Vacay Vibes Clog  Sabots M'
 ---
 
 Está [Crocs Classic Vacay Vibes Clog  Sabots Mixte Adulte  Orange  Cantaloupe 801   38/39 EU](https://www.amazon.fr/dp/B07S75XRVW/?tag=tolees0d-21) con 29.98 de descuento por 30.1 EUR (original: 42.99 EUR) en el siguiente enlace!

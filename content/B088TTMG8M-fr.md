@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.03 % en eXtremeRate 3D Joysticks de Remplacement'
 date: 2020-06-11 07:27:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Gx6K3Hi4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Gx6K3Hi4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Gx6K3Hi4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'eXtremeRate 3D Joysticks de Remplacement Bicolores  Stick Analogique avec Tournevis Phillips pour Nintendo Switch Pro Manette Controller-Bleu Céleste & Blanc'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B088TTMG8M/?tag=tolees0d-21'
+descuento: '50.03'
+titulo: 'eXtremeRate 3D Joysticks de Remplacement'
 ---
 
 Tienes [eXtremeRate 3D Joysticks de Remplacement Bicolores  Stick Analogique avec Tournevis Phillips pour Nintendo Switch Pro Manette Controller-Bleu Céleste & Blanc](https://www.amazon.fr/dp/B088TTMG8M/?tag=tolees0d-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

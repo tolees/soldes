@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 47.55 % en Disney Pixar Toy Story Buzz et son Vaiss'
 date: 2020-07-06 20:22:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XJFyxs-WL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XJFyxs-WL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XJFyxs-WL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60.99 EUR
 inStock: true
 prodname: 'Disney Pixar Toy Story Buzz et son Vaisseau Spatial  53 cm x 51 cm  lumières et sons  avec figurine Buzz l’Éclair et projectiles  jouet pour enfant  GJB37'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07NQD9X44/?tag=tolees0d-21'
+descuento: '47.55'
+titulo: 'Disney Pixar Toy Story Buzz et son Vaiss'
 ---
 
 Tienes [Disney Pixar Toy Story Buzz et son Vaisseau Spatial  53 cm x 51 cm  lumières et sons  avec figurine Buzz l’Éclair et projectiles  jouet pour enfant  GJB37](https://www.amazon.fr/dp/B07NQD9X44/?tag=tolees0d-21) con un 47.55 % de descuento con precio de oferta de 31.99 EUR (original: 60.99 EUR) en el siguiente enlace!

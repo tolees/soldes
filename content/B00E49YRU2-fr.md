@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.63 % en Bosch L5013 Batterie décharge lente 12V '
 date: 2020-05-22 22:47:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/31dyGHpDqRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31dyGHpDqRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31dyGHpDqRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 219.75 EUR
 inStock: true
 prodname: 'Bosch L5013 Batterie décharge lente 12V  90Ah  800A - Loisirs  Camping-Cars  Bateaux  …'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00E49YRU2/?tag=tolees0d-21'
+descuento: '40.63'
+titulo: 'Bosch L5013 Batterie décharge lente 12V '
 ---
 
 Tienes [Bosch L5013 Batterie décharge lente 12V  90Ah  800A - Loisirs  Camping-Cars  Bateaux  …](https://www.amazon.fr/dp/B00E49YRU2/?tag=tolees0d-21) con un 40.63 % de descuento con precio de oferta de 130.46 EUR (original: 219.75 EUR) en el siguiente enlace!

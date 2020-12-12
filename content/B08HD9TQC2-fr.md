@@ -3,6 +3,7 @@ layout: post
 title: 'LEBE Coque pour Xiaomi Redmi Note 9 Pro  al 28.59 % de descuento'
 date: 2020-10-11 12:22:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kENk3ofNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kENk3ofNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kENk3ofNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 13.99 EUR
 inStock: true
 prodname: 'LEBE Coque pour Xiaomi Redmi Note 9 Pro Housse en Cuir Xiaomi Redmi Note 9S Étui Téléphone [Porte-Cartes de Crédit] [Fermeture Magnétique] pour Xiaomi Redmi Note 9 Pro/Redmi Note 9S- Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08HD9TQC2/?tag=tolees0d-21'
+descuento: '28.59'
+titulo: 'LEBE Coque pour Xiaomi Redmi Note 9 Pro '
 ---
 
 Está [LEBE Coque pour Xiaomi Redmi Note 9 Pro Housse en Cuir Xiaomi Redmi Note 9S Étui Téléphone [Porte-Cartes de Crédit] [Fermeture Magnétique] pour Xiaomi Redmi Note 9 Pro/Redmi Note 9S- Noir](https://www.amazon.fr/dp/B08HD9TQC2/?tag=tolees0d-21) con 28.59 de descuento por 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

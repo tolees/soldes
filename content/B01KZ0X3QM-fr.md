@@ -3,6 +3,7 @@ layout: post
 title: 'BLACK & DECKER FSMH1351SM-QS Balai Vapeu al 33.33 % de descuento'
 date: 2020-10-06 13:27:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yJZshNZqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yJZshNZqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yJZshNZqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 189.0 EUR
 inStock: true
 prodname: 'BLACK & DECKER FSMH1351SM-QS Balai Vapeur avec Nettoyeur à Main Gant SteaMitt Filaire - 1300W - Réservoir : 500 ml - Temps de Chauffe : 15 s - 9en1 Accessoires Gant Détachable'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01KZ0X3QM/?tag=tolees0d-21'
+descuento: '33.33'
+titulo: 'BLACK & DECKER FSMH1351SM-QS Balai Vapeu'
 ---
 
 Está [BLACK & DECKER FSMH1351SM-QS Balai Vapeur avec Nettoyeur à Main Gant SteaMitt Filaire - 1300W - Réservoir : 500 ml - Temps de Chauffe : 15 s - 9en1 Accessoires Gant Détachable](https://www.amazon.fr/dp/B01KZ0X3QM/?tag=tolees0d-21) con 33.33 de descuento por 126.0 EUR (original: 189.0 EUR) en el siguiente enlace!

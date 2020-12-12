@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.24 % en Le pigeon'
 date: 2020-10-03 07:02:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51R1MBB66dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51R1MBB66dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51R1MBB66dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 10.02 EUR
 inStock: true
 prodname: 'Le pigeon'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21'
+descuento: '30.24'
+titulo: 'Le pigeon'
 ---
 
 Tienes [Le pigeon](https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21) con un 30.24 % de descuento con precio de oferta de 6.99 EUR (original: 10.02 EUR) en el siguiente enlace!

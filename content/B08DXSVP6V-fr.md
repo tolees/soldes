@@ -3,6 +3,7 @@ layout: post
 title: 'Masseur Sans Fil con 10 Modes de Vitesse al 36.68 % de descuento'
 date: 2020-08-24 04:48:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZilTYqtdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZilTYqtdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZilTYqtdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Masseur Sans Fil con 10 Modes de Vitesses Différentes  Double Moteur Silencieux  100% Étanche Masseur pour le cou  les épaules  le dos  les jambes  les pieds'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08DXSVP6V/?tag=tolees0d-21'
+descuento: '36.68'
+titulo: 'Masseur Sans Fil con 10 Modes de Vitesse'
 ---
 
 Ahora mismo tienes [Masseur Sans Fil con 10 Modes de Vitesses Différentes  Double Moteur Silencieux  100% Étanche Masseur pour le cou  les épaules  le dos  les jambes  les pieds](https://www.amazon.fr/dp/B08DXSVP6V/?tag=tolees0d-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

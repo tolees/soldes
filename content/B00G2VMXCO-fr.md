@@ -3,6 +3,7 @@ layout: post
 title: 'Lerway Potence de Guidon Fourche Extense al 30.02 % de descuento'
 date: 2020-09-27 08:24:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/317o+HjZSqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317o+HjZSqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317o+HjZSqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Lerway Potence de Guidon Fourche Extenseur VTT Bicyclette Étendre Riser pour 1-1/8" 28.6mm Vélo Aluminium Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00G2VMXCO/?tag=tolees0d-21'
+descuento: '30.02'
+titulo: 'Lerway Potence de Guidon Fourche Extense'
 ---
 
 Ahora mismo tienes [Lerway Potence de Guidon Fourche Extenseur VTT Bicyclette Étendre Riser pour 1-1/8" 28.6mm Vélo Aluminium Noir](https://www.amazon.fr/dp/B00G2VMXCO/?tag=tolees0d-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.87 % en Canon CA-570 Chargeur de batterie pour c'
 date: 2020-09-16 09:23:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/21ZwYrCs3nL._SL500_._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21ZwYrCs3nL._SL500_._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21ZwYrCs3nL._SL500_._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Canon CA-570 Chargeur de batterie pour caméscope Canon'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0009M0ADQ/?tag=tolees0d-21'
+descuento: '33.87'
+titulo: 'Canon CA-570 Chargeur de batterie pour c'
 ---
 
 Tienes [Canon CA-570 Chargeur de batterie pour caméscope Canon](https://www.amazon.fr/dp/B0009M0ADQ/?tag=tolees0d-21) con un 33.87 % de descuento con precio de oferta de 52.9 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.24 % en EDMA 261255 Boule Chauffante  Argent'
 date: 2020-10-10 06:26:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/31IvlcYRyyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31IvlcYRyyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31IvlcYRyyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 34.7 EUR
 inStock: true
 prodname: 'EDMA 261255 Boule Chauffante  Argent'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00IF3OB54/?tag=tolees0d-21'
+descuento: '28.24'
+titulo: 'EDMA 261255 Boule Chauffante  Argent'
 ---
 
 Tienes [EDMA 261255 Boule Chauffante  Argent](https://www.amazon.fr/dp/B00IF3OB54/?tag=tolees0d-21) con un 28.24 % de descuento con precio de oferta de 24.9 EUR (original: 34.7 EUR) en el siguiente enlace!

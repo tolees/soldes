@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.04 % en NEW C Lot de 3  Verre Trempé pour Samsun'
 date: 2020-10-04 23:19:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+LVRs7iML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+LVRs7iML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+LVRs7iML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'NEW C Lot de 3  Verre Trempé pour Samsung Galaxy S10 Lite  Note 10 Lite  Film Protection écran - Anti Rayures - Ultra Résistant  0 33mm HD Ultra Transparent  Dureté 9H Glass'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08BCQG4ZT/?tag=tolees0d-21'
+descuento: '40.04'
+titulo: 'NEW C Lot de 3  Verre Trempé pour Samsun'
 ---
 
 Tienes [NEW C Lot de 3  Verre Trempé pour Samsung Galaxy S10 Lite  Note 10 Lite  Film Protection écran - Anti Rayures - Ultra Résistant  0 33mm HD Ultra Transparent  Dureté 9H Glass](https://www.amazon.fr/dp/B08BCQG4ZT/?tag=tolees0d-21) con un 40.04 % de descuento con precio de oferta de 5.99 EUR (original: 9.99 EUR) en el siguiente enlace!

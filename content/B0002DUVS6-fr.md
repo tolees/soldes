@@ -3,6 +3,7 @@ layout: post
 title: 'Rode RM2 Pince pour Microphone Classic/N al 33.61 % de descuento'
 date: 2020-09-24 09:50:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31l2IxFqNZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31l2IxFqNZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31l2IxFqNZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.0 EUR
 inStock: true
 prodname: 'Rode RM2 Pince pour Microphone Classic/NTK/K2/série NT Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0002DUVS6/?tag=tolees0d-21'
+descuento: '33.61'
+titulo: 'Rode RM2 Pince pour Microphone Classic/N'
 ---
 
 Ahora mismo tienes [Rode RM2 Pince pour Microphone Classic/NTK/K2/série NT Noir](https://www.amazon.fr/dp/B0002DUVS6/?tag=tolees0d-21) a 11.95 EUR (original: 18.0 EUR) (33.61 %  de descuento) en el siguiente enlace!

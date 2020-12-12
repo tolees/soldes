@@ -3,6 +3,7 @@ layout: post
 title: 'Hansaplast Antiseptiques Alcool 70% Volu al 46.38 % de descuento'
 date: 2020-10-04 03:25:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ArDuwcNBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ArDuwcNBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ArDuwcNBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 3.45 EUR
 inStock: true
 prodname: 'Hansaplast Antiseptiques Alcool 70% Volume'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07YQFZB84/?tag=tolees0d-21'
+descuento: '46.38'
+titulo: 'Hansaplast Antiseptiques Alcool 70% Volu'
 ---
 
 Está [Hansaplast Antiseptiques Alcool 70% Volume](https://www.amazon.fr/dp/B07YQFZB84/?tag=tolees0d-21) con 46.38 de descuento por 1.85 EUR (original: 3.45 EUR) en el siguiente enlace!

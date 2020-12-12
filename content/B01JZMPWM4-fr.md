@@ -3,6 +3,7 @@ layout: post
 title: 'Timberland Killington  Bottes & Bottines al 42.59 % de descuento'
 date: 2020-05-22 20:20:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/411yCv7Oo7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411yCv7Oo7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411yCv7Oo7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 74.03 EUR
 inStock: true
 prodname: 'Timberland Killington  Bottes & Bottines Classiques Mixte Enfant  Bleu  Black Iris Nubuck 19   38 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01JZMPWM4/?tag=tolees0d-21'
+descuento: '42.59'
+titulo: 'Timberland Killington  Bottes & Bottines'
 ---
 
 Ahora mismo tienes [Timberland Killington  Bottes & Bottines Classiques Mixte Enfant  Bleu  Black Iris Nubuck 19   38 EU](https://www.amazon.fr/dp/B01JZMPWM4/?tag=tolees0d-21) a 42.5 EUR (original: 74.03 EUR) (42.59 %  de descuento) en el siguiente enlace!

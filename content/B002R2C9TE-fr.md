@@ -3,6 +3,7 @@ layout: post
 title: 'Jusqu en Enfer [Blu-Ray] al 46.91 % de descuento'
 date: 2020-09-30 06:41:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/51sS3tDM8XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sS3tDM8XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51sS3tDM8XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.05 EUR
 inStock: true
 prodname: 'Jusqu en Enfer [Blu-Ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B002R2C9TE/?tag=tolees0d-21'
+descuento: '46.91'
+titulo: 'Jusqu en Enfer [Blu-Ray]'
 ---
 
 Está [Jusqu en Enfer [Blu-Ray]](https://www.amazon.fr/dp/B002R2C9TE/?tag=tolees0d-21) con 46.91 de descuento por 7.99 EUR (original: 15.05 EUR) en el siguiente enlace!

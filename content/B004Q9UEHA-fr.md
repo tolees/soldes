@@ -3,6 +3,7 @@ layout: post
 title: 'Philip Watch - R8253107765 - Montre Femm al 26.61 % de descuento'
 date: 2020-05-22 20:25:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41F8FU3wS-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41F8FU3wS-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41F8FU3wS-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 460.0 EUR
 inStock: true
 prodname: 'Philip Watch - R8253107765 - Montre Femme - Quartz - Analogique - Bracelet Acier Inoxydable Argent'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B004Q9UEHA/?tag=tolees0d-21'
+descuento: '26.61'
+titulo: 'Philip Watch - R8253107765 - Montre Femm'
 ---
 
 Está [Philip Watch - R8253107765 - Montre Femme - Quartz - Analogique - Bracelet Acier Inoxydable Argent](https://www.amazon.fr/dp/B004Q9UEHA/?tag=tolees0d-21) con 26.61 de descuento por 337.59 EUR (original: 460.0 EUR) en el siguiente enlace!

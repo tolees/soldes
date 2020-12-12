@@ -3,6 +3,7 @@ layout: post
 title: 'Lecteur DVD pour TV  DVD / CD / MP3 / MP al 27.84 % de descuento'
 date: 2020-08-15 12:22:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/51RBOB+lMFL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RBOB+lMFL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51RBOB+lMFL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.98 EUR
 inStock: true
 prodname: 'Lecteur DVD pour TV  DVD / CD / MP3 / MP4 avec Prise USB  Sortie HDMI et AV  câble HDMI et AV Inclus   télécommande  sans Blu-Ray '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08C5HWQLN/?tag=tolees0d-21'
+descuento: '27.84'
+titulo: 'Lecteur DVD pour TV  DVD / CD / MP3 / MP'
 ---
 
 Está [Lecteur DVD pour TV  DVD / CD / MP3 / MP4 avec Prise USB  Sortie HDMI et AV  câble HDMI et AV Inclus   télécommande  sans Blu-Ray ](https://www.amazon.fr/dp/B08C5HWQLN/?tag=tolees0d-21) con 27.84 de descuento por 28.85 EUR (original: 39.98 EUR) en el siguiente enlace!

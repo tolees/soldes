@@ -3,6 +3,7 @@ layout: post
 title: 'Manette Sans Fil pour Xbox 360 Double Vi al 51.37 % de descuento'
 date: 2020-08-05 12:04:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WoBJBBa6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WoBJBBa6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WoBJBBa6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'Manette Sans Fil pour Xbox 360 Double Vibration Contrôleur de Jeu pour Xbox 360 / PC'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07RNB522T/?tag=tolees0d-21'
+descuento: '51.37'
+titulo: 'Manette Sans Fil pour Xbox 360 Double Vi'
 ---
 
 Está [Manette Sans Fil pour Xbox 360 Double Vibration Contrôleur de Jeu pour Xbox 360 / PC](https://www.amazon.fr/dp/B07RNB522T/?tag=tolees0d-21) con 51.37 de descuento por 28.69 EUR (original: 59.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Galaxy S9 Film Protection Ecran Verre Tr al 44.49 % de descuento'
 date: 2020-10-03 03:08:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41tZt2f1e1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41tZt2f1e1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41tZt2f1e1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.98 EUR
 inStock: true
 prodname: 'Galaxy S9 Film Protection Ecran Verre Trempé  [2 Pièces] [Full Coverage] [Anti Rayures] [Ultra Claire] [Dureté 9H] Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S9'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08H8BPMTH/?tag=tolees0d-21'
+descuento: '44.49'
+titulo: 'Galaxy S9 Film Protection Ecran Verre Tr'
 ---
 
 Está [Galaxy S9 Film Protection Ecran Verre Trempé  [2 Pièces] [Full Coverage] [Anti Rayures] [Ultra Claire] [Dureté 9H] Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S9](https://www.amazon.fr/dp/B08H8BPMTH/?tag=tolees0d-21) con 44.49 de descuento por 9.98 EUR (original: 17.98 EUR) en el siguiente enlace!

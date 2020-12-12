@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.68 % en Casque Bluetooth sans Fil avec ANC - Aug'
 date: 2020-05-22 22:04:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41pSL6IyVrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pSL6IyVrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41pSL6IyVrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'Casque Bluetooth sans Fil avec ANC - August EP750 - Casque antibruit Actif pour Ordinateurs Portables/Smartphones/tablettes - Réduit Le Bruit du Moteur de Voyage aérien'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01N1T2MV5/?tag=tolees0d-21'
+descuento: '41.68'
+titulo: 'Casque Bluetooth sans Fil avec ANC - Aug'
 ---
 
 Tienes [Casque Bluetooth sans Fil avec ANC - August EP750 - Casque antibruit Actif pour Ordinateurs Portables/Smartphones/tablettes - Réduit Le Bruit du Moteur de Voyage aérien](https://www.amazon.fr/dp/B01N1T2MV5/?tag=tolees0d-21) con un 41.68 % de descuento con precio de oferta de 69.95 EUR (original: 119.95 EUR) en el siguiente enlace!

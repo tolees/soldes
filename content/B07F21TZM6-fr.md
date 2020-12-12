@@ -3,6 +3,7 @@ layout: post
 title: 'Blue Star Madrid Vanity  31 cm  12 L  Ch al 47.61 % de descuento'
 date: 2020-10-06 12:11:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31MG0m4kMYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MG0m4kMYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31MG0m4kMYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'Blue Star Madrid Vanity  31 cm  12 L  Champagne'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07F21TZM6/?tag=tolees0d-21'
+descuento: '47.61'
+titulo: 'Blue Star Madrid Vanity  31 cm  12 L  Ch'
 ---
 
 Está [Blue Star Madrid Vanity  31 cm  12 L  Champagne](https://www.amazon.fr/dp/B07F21TZM6/?tag=tolees0d-21) con 47.61 de descuento por 36.15 EUR (original: 69.0 EUR) en el siguiente enlace!

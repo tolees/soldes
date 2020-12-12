@@ -3,6 +3,7 @@ layout: post
 title: 'Josef Seibel  Fiona 04 Femme  Bleu Blue  al 28.76 % de descuento'
 date: 2020-09-24 09:49:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41leROgNODL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41leROgNODL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41leROgNODL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.95 EUR
 inStock: true
 prodname: 'Josef Seibel  Fiona 04 Femme  Bleu Blue 971 500  41 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0758NXNQ8/?tag=tolees0d-21'
+descuento: '28.76'
+titulo: 'Josef Seibel  Fiona 04 Femme  Bleu Blue '
 ---
 
 Está [Josef Seibel  Fiona 04 Femme  Bleu Blue 971 500  41 EU](https://www.amazon.fr/dp/B0758NXNQ8/?tag=tolees0d-21) con 28.76 de descuento por 56.96 EUR (original: 79.95 EUR) en el siguiente enlace!

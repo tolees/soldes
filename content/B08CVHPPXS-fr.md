@@ -3,6 +3,7 @@ layout: post
 title: 'Disque Dur Externe 2to  Disque Dur Exter al 28.89 % de descuento'
 date: 2020-08-18 11:14:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/21-o91unJHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21-o91unJHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21-o91unJHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Disque Dur Externe 2to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  2to Noir '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08CVHPPXS/?tag=tolees0d-21'
+descuento: '28.89'
+titulo: 'Disque Dur Externe 2to  Disque Dur Exter'
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  2to Noir ](https://www.amazon.fr/dp/B08CVHPPXS/?tag=tolees0d-21) a 63.99 EUR (original: 89.99 EUR) (28.89 %  de descuento) en el siguiente enlace!

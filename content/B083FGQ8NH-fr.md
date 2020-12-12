@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste BH1966 Veste  Noir  44 Homme al 34.01 % de descuento'
 date: 2020-10-07 19:00:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/319r85I23uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319r85I23uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319r85I23uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 350.0 EUR
 inStock: true
 prodname: 'Lacoste BH1966 Veste  Noir  44 Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B083FGQ8NH/?tag=tolees0d-21'
+descuento: '34.01'
+titulo: 'Lacoste BH1966 Veste  Noir  44 Homme'
 ---
 
 Está [Lacoste BH1966 Veste  Noir  44 Homme](https://www.amazon.fr/dp/B083FGQ8NH/?tag=tolees0d-21) con 34.01 de descuento por 230.98 EUR (original: 350.0 EUR) en el siguiente enlace!

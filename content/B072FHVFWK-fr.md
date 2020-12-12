@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 62.51 % en Otterbox Batterie externe Powerbank 20 0'
 date: 2020-08-27 12:28:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/410d3AaXfML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410d3AaXfML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410d3AaXfML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Otterbox Batterie externe Powerbank 20 000 mAh'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B072FHVFWK/?tag=tolees0d-21'
+descuento: '62.51'
+titulo: 'Otterbox Batterie externe Powerbank 20 0'
 ---
 
 Tienes [Otterbox Batterie externe Powerbank 20 000 mAh](https://www.amazon.fr/dp/B072FHVFWK/?tag=tolees0d-21) con un 62.51 % de descuento con precio de oferta de 29.99 EUR (original: 79.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'HAUPTSTADTKOFFER Valises  75 cm  126 L   al 30.51 % de descuento'
 date: 2020-09-28 15:28:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/411DiGmJ60L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411DiGmJ60L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/411DiGmJ60L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 122.17 EUR
 inStock: true
 prodname: 'HAUPTSTADTKOFFER Valises  75 cm  126 L  Bleu'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00T4LTSKO/?tag=tolees0d-21'
+descuento: '30.51'
+titulo: 'HAUPTSTADTKOFFER Valises  75 cm  126 L  '
 ---
 
 Está [HAUPTSTADTKOFFER Valises  75 cm  126 L  Bleu](https://www.amazon.fr/dp/B00T4LTSKO/?tag=tolees0d-21) con 30.51 de descuento por 84.9 EUR (original: 122.17 EUR) en el siguiente enlace!

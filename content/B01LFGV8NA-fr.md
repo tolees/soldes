@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.47 % en The Rolling Stones - Havana Moon [Blu-ra'
 date: 2020-10-10 06:26:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/510WF-1MMSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510WF-1MMSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510WF-1MMSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'The Rolling Stones - Havana Moon [Blu-ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21'
+descuento: '44.47'
+titulo: 'The Rolling Stones - Havana Moon [Blu-ra'
 ---
 
 Tienes [The Rolling Stones - Havana Moon [Blu-ray]](https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21) con un 44.47 % de descuento con precio de oferta de 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

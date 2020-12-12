@@ -3,6 +3,7 @@ layout: post
 title: 'Dimplex 206831 Cheminée electrique avec  al 49.79 % de descuento'
 date: 2020-05-28 09:08:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HGmYiXtDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HGmYiXtDL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HGmYiXtDL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 349.0 EUR
 inStock: true
 prodname: 'Dimplex 206831 Cheminée electrique avec Télécommande  1200 W  220 V  Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01MZC9X61/?tag=tolees0d-21'
+descuento: '49.79'
+titulo: 'Dimplex 206831 Cheminée electrique avec '
 ---
 
 Ahora mismo tienes [Dimplex 206831 Cheminée electrique avec Télécommande  1200 W  220 V  Noir](https://www.amazon.fr/dp/B01MZC9X61/?tag=tolees0d-21) a 175.22 EUR (original: 349.0 EUR) (49.79 %  de descuento) en el siguiente enlace!

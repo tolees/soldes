@@ -3,6 +3,7 @@ layout: post
 title: 'Manette Révolution Pro Controller 2 Naco al 31.53 % de descuento'
 date: 2020-05-22 22:25:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41oAmTZdHqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oAmTZdHqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41oAmTZdHqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Manette Révolution Pro Controller 2 Nacon pour PS4'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B075QFWVY4/?tag=tolees0d-21'
+descuento: '31.53'
+titulo: 'Manette Révolution Pro Controller 2 Naco'
 ---
 
 Está [Manette Révolution Pro Controller 2 Nacon pour PS4](https://www.amazon.fr/dp/B075QFWVY4/?tag=tolees0d-21) con 31.53 de descuento por 89.0 EUR (original: 129.99 EUR) en el siguiente enlace!

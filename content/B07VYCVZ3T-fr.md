@@ -3,6 +3,7 @@ layout: post
 title: 'AUBADE  Haut de Maillot de Bain Triangle al 60.00 % de descuento'
 date: 2020-08-08 21:04:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41th4CFxz9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41th4CFxz9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41th4CFxz9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 90.0 EUR
 inStock: true
 prodname: 'AUBADE  Haut de Maillot de Bain Triangle avec Coques Amovibles  Bretelles à Nouer Dans la Nuque  BEAUTÉ SUBLIME  Noir/Kaki  Taille : M  PR10'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07VYCVZ3T/?tag=tolees0d-21'
+descuento: '60.00'
+titulo: 'AUBADE  Haut de Maillot de Bain Triangle'
 ---
 
 Está [AUBADE  Haut de Maillot de Bain Triangle avec Coques Amovibles  Bretelles à Nouer Dans la Nuque  BEAUTÉ SUBLIME  Noir/Kaki  Taille : M  PR10](https://www.amazon.fr/dp/B07VYCVZ3T/?tag=tolees0d-21) con 60.00 de descuento por 36.0 EUR (original: 90.0 EUR) en el siguiente enlace!

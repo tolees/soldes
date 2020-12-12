@@ -3,6 +3,7 @@ layout: post
 title: 'Trixie Scratching Post for Wall Mounting al 48.78 % de descuento'
 date: 2020-10-07 13:51:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/31oXEZA-xwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31oXEZA-xwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31oXEZA-xwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 31.22 EUR
 inStock: true
 prodname: 'Trixie Scratching Post for Wall Mounting  80 x 11 cm  Grey'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01HKVD91I/?tag=tolees0d-21'
+descuento: '48.78'
+titulo: 'Trixie Scratching Post for Wall Mounting'
 ---
 
 Ahora mismo tienes [Trixie Scratching Post for Wall Mounting  80 x 11 cm  Grey](https://www.amazon.fr/dp/B01HKVD91I/?tag=tolees0d-21) a 15.99 EUR (original: 31.22 EUR) (48.78 %  de descuento) en el siguiente enlace!

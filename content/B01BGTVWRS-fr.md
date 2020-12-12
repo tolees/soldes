@@ -3,6 +3,7 @@ layout: post
 title: 'G-Star Rovic Zip 3D Straight Tapered Pan al 30.02 % de descuento'
 date: 2020-05-22 21:37:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'G-Star Rovic Zip 3D Straight Tapered Pantalon  Beige  Dune 5126-239   32W / 32L Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01BGTVWRS/?tag=tolees0d-21'
+descuento: '30.02'
+titulo: 'G-Star Rovic Zip 3D Straight Tapered Pan'
 ---
 
 Está [G-Star Rovic Zip 3D Straight Tapered Pantalon  Beige  Dune 5126-239   32W / 32L Homme](https://www.amazon.fr/dp/B01BGTVWRS/?tag=tolees0d-21) con 30.02 de descuento por 69.95 EUR (original: 99.95 EUR) en el siguiente enlace!

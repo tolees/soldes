@@ -3,6 +3,7 @@ layout: post
 title: 'AUBADE  Soutien-gorge Push-Up  Coussinet al 60.00 % de descuento'
 date: 2020-08-13 07:27:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41lrk95iZ8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41lrk95iZ8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41lrk95iZ8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 115.0 EUR
 inStock: true
 prodname: 'AUBADE  Soutien-gorge Push-Up  Coussinets Amovibles  FIEVRE DE GLACE  Blanc  Taille 90B  NC18 OPAL'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07H3QFDKJ/?tag=tolees0d-21'
+descuento: '60.00'
+titulo: 'AUBADE  Soutien-gorge Push-Up  Coussinet'
 ---
 
 Está [AUBADE  Soutien-gorge Push-Up  Coussinets Amovibles  FIEVRE DE GLACE  Blanc  Taille 90B  NC18 OPAL](https://www.amazon.fr/dp/B07H3QFDKJ/?tag=tolees0d-21) con 60.00 de descuento por 46.0 EUR (original: 115.0 EUR) en el siguiente enlace!

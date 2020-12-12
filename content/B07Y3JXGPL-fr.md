@@ -3,6 +3,7 @@ layout: post
 title: 'WD - My Book - Disque dur externe de bur al 27.14 % de descuento'
 date: 2020-06-02 06:37:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31RrHf4-TnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31RrHf4-TnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31RrHf4-TnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 349.99 EUR
 inStock: true
 prodname: 'WD - My Book - Disque dur externe de bureau avec sauvegarde - 14 To'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21'
+descuento: '27.14'
+titulo: 'WD - My Book - Disque dur externe de bur'
 ---
 
 Está [WD - My Book - Disque dur externe de bureau avec sauvegarde - 14 To](https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21) con 27.14 de descuento por 254.99 EUR (original: 349.99 EUR) en el siguiente enlace!

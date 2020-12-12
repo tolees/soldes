@@ -3,6 +3,7 @@ layout: post
 title: 'Instant Sports pour Nintendo Switch al 26.68 % de descuento'
 date: 2020-06-12 01:19:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tQv4RxlWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tQv4RxlWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tQv4RxlWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Instant Sports pour Nintendo Switch'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07QRHRBVM/?tag=tolees0d-21'
+descuento: '26.68'
+titulo: 'Instant Sports pour Nintendo Switch'
 ---
 
 Está [Instant Sports pour Nintendo Switch](https://www.amazon.fr/dp/B07QRHRBVM/?tag=tolees0d-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

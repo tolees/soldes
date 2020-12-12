@@ -3,6 +3,7 @@ layout: post
 title: 'DJI RoboMaster S1  Support Éducatif  Con al 34.61 % de descuento'
 date: 2020-09-16 16:41:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/319KWRlD+9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319KWRlD+9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/319KWRlD+9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 549.0 EUR
 inStock: true
 prodname: 'DJI RoboMaster S1  Support Éducatif  Construire Soit-Même  IA  Programmation Scratch et Python  Robotique  Multiples Modes de Combats  Conçu pour Gagner  DJIRMS1-EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07ZHK48S3/?tag=tolees0d-21'
+descuento: '34.61'
+titulo: 'DJI RoboMaster S1  Support Éducatif  Con'
 ---
 
 Está [DJI RoboMaster S1  Support Éducatif  Construire Soit-Même  IA  Programmation Scratch et Python  Robotique  Multiples Modes de Combats  Conçu pour Gagner  DJIRMS1-EU](https://www.amazon.fr/dp/B07ZHK48S3/?tag=tolees0d-21) con 34.61 de descuento por 359.0 EUR (original: 549.0 EUR) en el siguiente enlace!

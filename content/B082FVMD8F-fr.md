@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.90 % en Gardena 15005-47 SILENO city 300 Robot t'
 date: 2020-05-28 07:34:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qQBxGnttL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qQBxGnttL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qQBxGnttL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 799.0 EUR
 inStock: true
 prodname: 'Gardena 15005-47 SILENO city 300 Robot tondeuse  Gris foncé/gris clair/turquoise/orange'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B082FVMD8F/?tag=tolees0d-21'
+descuento: '26.90'
+titulo: 'Gardena 15005-47 SILENO city 300 Robot t'
 ---
 
 Tienes [Gardena 15005-47 SILENO city 300 Robot tondeuse  Gris foncé/gris clair/turquoise/orange](https://www.amazon.fr/dp/B082FVMD8F/?tag=tolees0d-21) con un 26.90 % de descuento con precio de oferta de 584.1 EUR (original: 799.0 EUR) en el siguiente enlace!

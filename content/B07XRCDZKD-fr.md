@@ -3,6 +3,7 @@ layout: post
 title: 'LIGE Montre Homme Mode Ultra-Mince Class al 84.71 % de descuento'
 date: 2020-09-28 20:21:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/51oCKcaUXCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51oCKcaUXCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51oCKcaUXCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 169.99 EUR
 inStock: true
 prodname: 'LIGE Montre Homme Mode Ultra-Mince Classique Noir Montre Simple Étanche Automatique Date Quartz Montre Affaires Robe Montre'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07XRCDZKD/?tag=tolees0d-21'
+descuento: '84.71'
+titulo: 'LIGE Montre Homme Mode Ultra-Mince Class'
 ---
 
 Está [LIGE Montre Homme Mode Ultra-Mince Classique Noir Montre Simple Étanche Automatique Date Quartz Montre Affaires Robe Montre](https://www.amazon.fr/dp/B07XRCDZKD/?tag=tolees0d-21) con 84.71 de descuento por 25.99 EUR (original: 169.99 EUR) en el siguiente enlace!

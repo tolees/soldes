@@ -3,6 +3,7 @@ layout: post
 title: 'HAUPTSTADTKOFFER - X-Berg - Valise de Ta al 39.84 % de descuento'
 date: 2020-08-05 15:03:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/41YLNz2-NaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YLNz2-NaL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41YLNz2-NaL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 107.05 EUR
 inStock: true
 prodname: 'HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne Bagages rigides avec extension  ABS  65 cm  90 L  Bourgogne'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00T4KWECE/?tag=tolees0d-21'
+descuento: '39.84'
+titulo: 'HAUPTSTADTKOFFER - X-Berg - Valise de Ta'
 ---
 
 Está [HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne Bagages rigides avec extension  ABS  65 cm  90 L  Bourgogne](https://www.amazon.fr/dp/B00T4KWECE/?tag=tolees0d-21) con 39.84 de descuento por 64.4 EUR (original: 107.05 EUR) en el siguiente enlace!

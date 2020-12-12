@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.95 % en Multi Mat Sophie la girafe - Tapis d éve'
 date: 2020-05-22 23:50:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AyMlyIk4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AyMlyIk4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AyMlyIk4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Multi Mat Sophie la girafe - Tapis d éveil'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07GX95N3N/?tag=tolees0d-21'
+descuento: '33.95'
+titulo: 'Multi Mat Sophie la girafe - Tapis d éve'
 ---
 
 Tienes [Multi Mat Sophie la girafe - Tapis d éveil](https://www.amazon.fr/dp/B07GX95N3N/?tag=tolees0d-21) con un 33.95 % de descuento con precio de oferta de 46.23 EUR (original: 69.99 EUR) en el siguiente enlace!

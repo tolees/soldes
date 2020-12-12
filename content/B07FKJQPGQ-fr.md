@@ -3,6 +3,7 @@ layout: post
 title: 'The North Face Canyonlands Sweat à Capuc al 59.94 % de descuento'
 date: 2020-10-08 10:54:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41IPbpMIeIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IPbpMIeIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41IPbpMIeIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'The North Face Canyonlands Sweat à Capuche Homme  Gris  TNF Dark Grey Heather   Medium'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FKJQPGQ/?tag=tolees0d-21'
+descuento: '59.94'
+titulo: 'The North Face Canyonlands Sweat à Capuc'
 ---
 
 Está [The North Face Canyonlands Sweat à Capuche Homme  Gris  TNF Dark Grey Heather   Medium](https://www.amazon.fr/dp/B07FKJQPGQ/?tag=tolees0d-21) con 59.94 de descuento por 44.07 EUR (original: 110.0 EUR) en el siguiente enlace!

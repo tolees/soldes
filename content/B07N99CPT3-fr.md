@@ -3,6 +3,7 @@ layout: post
 title: 'YOSHI S CRAFTED WORLD - SWITCH al 31.54 % de descuento'
 date: 2020-09-25 20:16:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/5147hGlUDEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5147hGlUDEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5147hGlUDEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.99 EUR
 inStock: true
 prodname: 'YOSHI S CRAFTED WORLD - SWITCH'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N99CPT3/?tag=tolees0d-21'
+descuento: '31.54'
+titulo: 'YOSHI S CRAFTED WORLD - SWITCH'
 ---
 
 Está [YOSHI S CRAFTED WORLD - SWITCH](https://www.amazon.fr/dp/B07N99CPT3/?tag=tolees0d-21) con 31.54 de descuento por 44.49 EUR (original: 64.99 EUR) en el siguiente enlace!

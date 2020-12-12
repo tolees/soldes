@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 63.49 % en HTDELEC Coque Xiaomi Redmi 9 Transparent'
 date: 2020-08-13 12:45:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41rCF6kSkRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rCF6kSkRL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41rCF6kSkRL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'HTDELEC Coque Xiaomi Redmi 9 Transparente + 2 × Verre trempé écran Silicone Souple étui Bumper Housse Clair TPU Gel Cover avec Quatre Coins Renforcés pour Xiaomi Redmi 9'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08CRBMZM1/?tag=tolees0d-21'
+descuento: '63.49'
+titulo: 'HTDELEC Coque Xiaomi Redmi 9 Transparent'
 ---
 
 Tienes [HTDELEC Coque Xiaomi Redmi 9 Transparente + 2 × Verre trempé écran Silicone Souple étui Bumper Housse Clair TPU Gel Cover avec Quatre Coins Renforcés pour Xiaomi Redmi 9](https://www.amazon.fr/dp/B08CRBMZM1/?tag=tolees0d-21) con un 63.49 % de descuento con precio de oferta de 6.9 EUR (original: 18.9 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Ampoule LED Standard Dépolie Cul al 67.13 % de descuento'
 date: 2020-09-26 22:59:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31S+MbvlriL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S+MbvlriL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31S+MbvlriL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 12.99 EUR
 inStock: true
 prodname: 'Philips Ampoule LED Standard Dépolie Culot E27 6 W Watts Consommés Équivalence Incandescence 40W'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00L5FBYVI/?tag=tolees0d-21'
+descuento: '67.13'
+titulo: 'Philips Ampoule LED Standard Dépolie Cul'
 ---
 
 Ahora mismo tienes [Philips Ampoule LED Standard Dépolie Culot E27 6 W Watts Consommés Équivalence Incandescence 40W](https://www.amazon.fr/dp/B00L5FBYVI/?tag=tolees0d-21) a 4.27 EUR (original: 12.99 EUR) (67.13 %  de descuento) en el siguiente enlace!

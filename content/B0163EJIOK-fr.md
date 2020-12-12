@@ -3,6 +3,7 @@ layout: post
 title: 'Dim - Pockets Coton - Slip - Quotidien - al 37.96 % de descuento'
 date: 2020-09-18 03:33:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bxoqlcb7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bxoqlcb7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bxoqlcb7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.2 EUR
 inStock: true
 prodname: 'Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir / Ecru  Lot Noeud Noir  - FR : 44  Taille fabricant : 44/46 '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0163EJIOK/?tag=tolees0d-21'
+descuento: '37.96'
+titulo: 'Dim - Pockets Coton - Slip - Quotidien -'
 ---
 
 Está [Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir / Ecru  Lot Noeud Noir  - FR : 44  Taille fabricant : 44/46 ](https://www.amazon.fr/dp/B0163EJIOK/?tag=tolees0d-21) con 37.96 de descuento por 9.43 EUR (original: 15.2 EUR) en el siguiente enlace!

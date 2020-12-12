@@ -3,6 +3,7 @@ layout: post
 title: 'BRAX Golf Julius Veste de Sport  Bleu  B al 62.39 % de descuento'
 date: 2020-08-10 15:55:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41wGicwDbfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wGicwDbfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41wGicwDbfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'BRAX Golf Julius Veste de Sport  Bleu  Blau 25   X-Large Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N36HYLP/?tag=tolees0d-21'
+descuento: '62.39'
+titulo: 'BRAX Golf Julius Veste de Sport  Bleu  B'
 ---
 
 Está [BRAX Golf Julius Veste de Sport  Bleu  Blau 25   X-Large Homme](https://www.amazon.fr/dp/B07N36HYLP/?tag=tolees0d-21) con 62.39 de descuento por 56.4 EUR (original: 149.95 EUR) en el siguiente enlace!

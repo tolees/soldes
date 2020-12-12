@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.25 % en Braun FS5100WH Cuiseur Vapeur Electrique'
 date: 2020-10-07 18:56:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Y1JfYn25L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Y1JfYn25L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Y1JfYn25L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x 31 x 19 5 cm'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00LPG0WRY/?tag=tolees0d-21'
+descuento: '31.25'
+titulo: 'Braun FS5100WH Cuiseur Vapeur Electrique'
 ---
 
 Tienes [Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x 31 x 19 5 cm](https://www.amazon.fr/dp/B00LPG0WRY/?tag=tolees0d-21) con un 31.25 % de descuento con precio de oferta de 55.0 EUR (original: 80.0 EUR) en el siguiente enlace!

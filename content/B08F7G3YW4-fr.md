@@ -3,6 +3,7 @@ layout: post
 title: 'Transmetteur FM Bluetooth 5.0 Adaptateur al 58.99 % de descuento'
 date: 2020-08-23 05:07:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/41X6CoqT-VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X6CoqT-VL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41X6CoqT-VL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 38.99 EUR
 inStock: true
 prodname: 'Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3 Dual USB Ports QC3.0 et 5V/1A Chargeur Voiture Appel Main Libre Affichage à LED Clé USB pour iOS et Android'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08F7G3YW4/?tag=tolees0d-21'
+descuento: '58.99'
+titulo: 'Transmetteur FM Bluetooth 5.0 Adaptateur'
 ---
 
 Está [Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3 Dual USB Ports QC3.0 et 5V/1A Chargeur Voiture Appel Main Libre Affichage à LED Clé USB pour iOS et Android](https://www.amazon.fr/dp/B08F7G3YW4/?tag=tolees0d-21) con 58.99 de descuento por 15.99 EUR (original: 38.99 EUR) en el siguiente enlace!

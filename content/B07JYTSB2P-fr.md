@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.94 % en Tommy Hilfiger Straight Denton Chino Gmd'
 date: 2020-05-22 20:51:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31Dk68FCKYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Dk68FCKYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31Dk68FCKYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.9 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Straight Denton Chino Gmd Flex  Pantalon Homme  Gris  SLEET048   W30/L32'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07JYTSB2P/?tag=tolees0d-21'
+descuento: '40.94'
+titulo: 'Tommy Hilfiger Straight Denton Chino Gmd'
 ---
 
 Tienes [Tommy Hilfiger Straight Denton Chino Gmd Flex  Pantalon Homme  Gris  SLEET048   W30/L32](https://www.amazon.fr/dp/B07JYTSB2P/?tag=tolees0d-21) con un 40.94 % de descuento con precio de oferta de 59.0 EUR (original: 99.9 EUR) en el siguiente enlace!

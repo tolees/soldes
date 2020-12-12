@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 34.42 % en DeWALT DCD785N-XJ Perceuse sans fil 18 V'
 date: 2020-08-23 16:17:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/41jqwyaKnJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41jqwyaKnJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41jqwyaKnJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.0 EUR
 inStock: true
 prodname: 'DeWALT DCD785N-XJ Perceuse sans fil 18 V'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B006XBSXHW/?tag=tolees0d-21'
+descuento: '34.42'
+titulo: 'DeWALT DCD785N-XJ Perceuse sans fil 18 V'
 ---
 
 Tienes [DeWALT DCD785N-XJ Perceuse sans fil 18 V](https://www.amazon.fr/dp/B006XBSXHW/?tag=tolees0d-21) con un 34.42 % de descuento con precio de oferta de 84.6 EUR (original: 129.0 EUR) en el siguiente enlace!

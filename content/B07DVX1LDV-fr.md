@@ -3,6 +3,7 @@ layout: post
 title: 'Chaussures de Trail Running al 45.09 % de descuento'
 date: 2020-05-28 14:06:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AcN+GSaKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41AcN+GSaKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AcN+GSaKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Chaussures de Trail Running'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21'
+descuento: '45.09'
+titulo: 'Chaussures de Trail Running'
 ---
 
 Ahora mismo tienes [Chaussures de Trail Running](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21) a 65.89 EUR (original: 119.99 EUR) (45.09 %  de descuento) en el siguiente enlace!

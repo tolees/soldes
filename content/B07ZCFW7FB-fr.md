@@ -3,6 +3,7 @@ layout: post
 title: 'YUCUN SSD 480 Go 2 5 Pouces SATA III Dis al 35.67 % de descuento'
 date: 2020-08-13 12:34:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31fYTppRYML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 68.89 EUR
 inStock: true
 prodname: 'YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD 480GB Interne Solid State Drive'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07ZCFW7FB/?tag=tolees0d-21'
+descuento: '35.67'
+titulo: 'YUCUN SSD 480 Go 2 5 Pouces SATA III Dis'
 ---
 
 Ahora mismo tienes [YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD 480GB Interne Solid State Drive](https://www.amazon.fr/dp/B07ZCFW7FB/?tag=tolees0d-21) a 44.32 EUR (original: 68.89 EUR) (35.67 %  de descuento) en el siguiente enlace!

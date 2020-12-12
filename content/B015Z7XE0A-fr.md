@@ -3,6 +3,7 @@ layout: post
 title: 'NONDA - USB-C/USB Mini-Adaptateur pour M al 25.41 % de descuento'
 date: 2020-10-07 13:50:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/31yCPa+plYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31yCPa+plYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31yCPa+plYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.11 EUR
 inStock: true
 prodname: 'NONDA - USB-C/USB Mini-Adaptateur pour MacBooks | Samsung | Chromebook | OnePlus2 | USB 3.0 | Transfert de Données Rapide | Accessoires pour Ordinateur Portable | Aluminium - Métallique - Gris'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B015Z7XE0A/?tag=tolees0d-21'
+descuento: '25.41'
+titulo: 'NONDA - USB-C/USB Mini-Adaptateur pour M'
 ---
 
 Está [NONDA - USB-C/USB Mini-Adaptateur pour MacBooks | Samsung | Chromebook | OnePlus2 | USB 3.0 | Transfert de Données Rapide | Accessoires pour Ordinateur Portable | Aluminium - Métallique - Gris](https://www.amazon.fr/dp/B015Z7XE0A/?tag=tolees0d-21) con 25.41 de descuento por 11.27 EUR (original: 15.11 EUR) en el siguiente enlace!

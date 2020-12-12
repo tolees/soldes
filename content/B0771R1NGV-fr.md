@@ -3,6 +3,7 @@ layout: post
 title: 'Geemarc Telecom TÉLÉPHONE SANS FIL AVEC  al 27.71 % de descuento'
 date: 2020-05-28 20:31:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51t13ScxHBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51t13ScxHBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51t13ScxHBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.9 EUR
 inStock: true
 prodname: 'Geemarc Telecom TÉLÉPHONE SANS FIL AVEC 10 MÉMOIRES PHOTOS DIRECTES et RÉPONDEUR'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0771R1NGV/?tag=tolees0d-21'
+descuento: '27.71'
+titulo: 'Geemarc Telecom TÉLÉPHONE SANS FIL AVEC '
 ---
 
 Está [Geemarc Telecom TÉLÉPHONE SANS FIL AVEC 10 MÉMOIRES PHOTOS DIRECTES et RÉPONDEUR](https://www.amazon.fr/dp/B0771R1NGV/?tag=tolees0d-21) con 27.71 de descuento por 64.99 EUR (original: 89.9 EUR) en el siguiente enlace!

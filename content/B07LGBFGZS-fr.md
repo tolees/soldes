@@ -3,6 +3,7 @@ layout: post
 title: 'Nike WMNS Air Zoom Pegasus 36 Trail  Cha al 35.92 % de descuento'
 date: 2020-08-04 17:33:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41QoJ2rX6JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QoJ2rX6JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41QoJ2rX6JL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 131.0 EUR
 inStock: true
 prodname: 'Nike WMNS Air Zoom Pegasus 36 Trail  Chaussure de Course Femme  Gris  Oil Grey/Barely Grey-Black-Wolf Grey 2   41 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07LGBFGZS/?tag=tolees0d-21'
+descuento: '35.92'
+titulo: 'Nike WMNS Air Zoom Pegasus 36 Trail  Cha'
 ---
 
 Está [Nike WMNS Air Zoom Pegasus 36 Trail  Chaussure de Course Femme  Gris  Oil Grey/Barely Grey-Black-Wolf Grey 2   41 EU](https://www.amazon.fr/dp/B07LGBFGZS/?tag=tolees0d-21) con 35.92 de descuento por 83.95 EUR (original: 131.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Dockers Alpha Original Khaki Skinny Pant al 42.01 % de descuento'
 date: 2020-05-22 22:44:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/31v5LwKiNAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31v5LwKiNAL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31v5LwKiNAL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100.0 EUR
 inStock: true
 prodname: 'Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu  C00088 Pembroke 0142   W33/L32  Taille fabricant: W33/L32 '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B013JVXIBY/?tag=tolees0d-21'
+descuento: '42.01'
+titulo: 'Dockers Alpha Original Khaki Skinny Pant'
 ---
 
 Está [Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu  C00088 Pembroke 0142   W33/L32  Taille fabricant: W33/L32 ](https://www.amazon.fr/dp/B013JVXIBY/?tag=tolees0d-21) con 42.01 de descuento por 57.99 EUR (original: 100.0 EUR) en el siguiente enlace!

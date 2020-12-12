@@ -3,6 +3,7 @@ layout: post
 title: 'Claude Dozorme 1.90.142.89 Liner Thiers  al 30.45 % de descuento'
 date: 2020-09-17 10:12:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rV4y1So8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rV4y1So8L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rV4y1So8L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 57.5 EUR
 inStock: true
 prodname: 'Claude Dozorme 1.90.142.89 Liner Thiers Couteau Grand Modèle Manche Olivier'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B002X03ADO/?tag=tolees0d-21'
+descuento: '30.45'
+titulo: 'Claude Dozorme 1.90.142.89 Liner Thiers '
 ---
 
 Ahora mismo tienes [Claude Dozorme 1.90.142.89 Liner Thiers Couteau Grand Modèle Manche Olivier](https://www.amazon.fr/dp/B002X03ADO/?tag=tolees0d-21) a 39.99 EUR (original: 57.5 EUR) (30.45 %  de descuento) en el siguiente enlace!

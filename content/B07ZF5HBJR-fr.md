@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.33 % en Aribest Lot de 2 Films de Protection en '
 date: 2020-08-10 06:21:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ok2KL2XyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ok2KL2XyL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ok2KL2XyL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.45 EUR
 inStock: true
 prodname: 'Aribest Lot de 2 Films de Protection en Verre trempé pour Nintendo Switch Lite 9H  sans Bulles  Film de Protection d écran Transparent pour Nintendo Switch Lite 2019'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07ZF5HBJR/?tag=tolees0d-21'
+descuento: '37.33'
+titulo: 'Aribest Lot de 2 Films de Protection en '
 ---
 
 Tienes [Aribest Lot de 2 Films de Protection en Verre trempé pour Nintendo Switch Lite 9H  sans Bulles  Film de Protection d écran Transparent pour Nintendo Switch Lite 2019](https://www.amazon.fr/dp/B07ZF5HBJR/?tag=tolees0d-21) con un 37.33 % de descuento con precio de oferta de 10.31 EUR (original: 16.45 EUR) en el siguiente enlace!

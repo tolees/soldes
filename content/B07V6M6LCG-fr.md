@@ -3,6 +3,7 @@ layout: post
 title: 'Kaporal - T-Shirt à Manches Courtes  col al 50.00 % de descuento'
 date: 2020-10-08 05:51:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DNq-+qq-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DNq-+qq-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DNq-+qq-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.0 EUR
 inStock: true
 prodname: 'Kaporal - T-Shirt à Manches Courtes  col v  Coupe ajustée - Rap - Femme - L - Rouge'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21'
+descuento: '50.00'
+titulo: 'Kaporal - T-Shirt à Manches Courtes  col'
 ---
 
 Está [Kaporal - T-Shirt à Manches Courtes  col v  Coupe ajustée - Rap - Femme - L - Rouge](https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21) con 50.00 de descuento por 12.5 EUR (original: 25.0 EUR) en el siguiente enlace!

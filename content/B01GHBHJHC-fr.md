@@ -3,6 +3,7 @@ layout: post
 title: 'Qts Italy mi-to Distributeur de papier t al 60.00 % de descuento'
 date: 2020-08-04 21:03:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41sUv98xbwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41sUv98xbwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41sUv98xbwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 91.81 EUR
 inStock: true
 prodname: 'Qts Italy mi-to Distributeur de papier toilette Jumbo en aluminium sablé'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01GHBHJHC/?tag=tolees0d-21'
+descuento: '60.00'
+titulo: 'Qts Italy mi-to Distributeur de papier t'
 ---
 
 Está [Qts Italy mi-to Distributeur de papier toilette Jumbo en aluminium sablé](https://www.amazon.fr/dp/B01GHBHJHC/?tag=tolees0d-21) con 60.00 de descuento por 36.72 EUR (original: 91.81 EUR) en el siguiente enlace!

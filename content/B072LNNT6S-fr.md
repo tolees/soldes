@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.26 % en Crocs Specialist Ii Clog  Sabots Mixte A'
 date: 2020-10-02 13:07:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GY0wpxs4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GY0wpxs4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GY0wpxs4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Crocs Specialist Ii Clog  Sabots Mixte Adulte  Bleu  Navy  39/40 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B072LNNT6S/?tag=tolees0d-21'
+descuento: '56.26'
+titulo: 'Crocs Specialist Ii Clog  Sabots Mixte A'
 ---
 
 Tienes [Crocs Specialist Ii Clog  Sabots Mixte Adulte  Bleu  Navy  39/40 EU](https://www.amazon.fr/dp/B072LNNT6S/?tag=tolees0d-21) con un 56.26 % de descuento con precio de oferta de 17.49 EUR (original: 39.99 EUR) en el siguiente enlace!

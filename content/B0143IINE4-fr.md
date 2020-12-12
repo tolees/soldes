@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 26.01 % en Carte Mémoire SDXC SanDisk Ultra 64 Go j'
 date: 2020-09-29 12:20:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41XrTvZsS7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XrTvZsS7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41XrTvZsS7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s  Classe 10'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0143IINE4/?tag=tolees0d-21'
+descuento: '26.01'
+titulo: 'Carte Mémoire SDXC SanDisk Ultra 64 Go j'
 ---
 
 Tienes [Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s  Classe 10](https://www.amazon.fr/dp/B0143IINE4/?tag=tolees0d-21) con un 26.01 % de descuento con precio de oferta de 14.79 EUR (original: 19.99 EUR) en el siguiente enlace!

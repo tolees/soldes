@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.66 % en Rhodia 117744C - carnet souple Rhodiaram'
 date: 2020-10-05 19:20:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/31U6iADHaLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31U6iADHaLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31U6iADHaLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 20.91 EUR
 inStock: true
 prodname: 'Rhodia 117744C - carnet souple Rhodiarama Goalbook taupe  A5  14 8x21 cm   240p  dot  pointillés   papier Clairefontaine ivoire 90 g/m²  2 rubans  fermeture élastique  simili cuir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B06Y6CJJQV/?tag=tolees0d-21'
+descuento: '30.66'
+titulo: 'Rhodia 117744C - carnet souple Rhodiaram'
 ---
 
 Tienes [Rhodia 117744C - carnet souple Rhodiarama Goalbook taupe  A5  14 8x21 cm   240p  dot  pointillés   papier Clairefontaine ivoire 90 g/m²  2 rubans  fermeture élastique  simili cuir](https://www.amazon.fr/dp/B06Y6CJJQV/?tag=tolees0d-21) con un 30.66 % de descuento con precio de oferta de 14.5 EUR (original: 20.91 EUR) en el siguiente enlace!

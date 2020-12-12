@@ -3,6 +3,7 @@ layout: post
 title: 'STAGLIFE Sac Bandoulière en Cuir Urbain  al 56.54 % de descuento'
 date: 2020-05-22 20:54:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/61uInT837OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61uInT837OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61uInT837OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.0 EUR
 inStock: true
 prodname: 'STAGLIFE Sac Bandoulière en Cuir Urbain pour Femme Sac de Selle Cadeaux pour Les Filles Adolescents  Marron  30 cm '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07VNFNQ9C/?tag=tolees0d-21'
+descuento: '56.54'
+titulo: 'STAGLIFE Sac Bandoulière en Cuir Urbain '
 ---
 
 Está [STAGLIFE Sac Bandoulière en Cuir Urbain pour Femme Sac de Selle Cadeaux pour Les Filles Adolescents  Marron  30 cm ](https://www.amazon.fr/dp/B07VNFNQ9C/?tag=tolees0d-21) con 56.54 de descuento por 29.99 EUR (original: 69.0 EUR) en el siguiente enlace!

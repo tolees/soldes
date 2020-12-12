@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Housemark Polo  Noir  Mineral Bla al 33.40 % de descuento'
 date: 2020-05-22 23:09:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/311gvyZbOiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/311gvyZbOiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/311gvyZbOiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40.0 EUR
 inStock: true
 prodname: 'Levi s Housemark Polo  Noir  Mineral Black 0080   Small Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07KF67L2Z/?tag=tolees0d-21'
+descuento: '33.40'
+titulo: 'Levi s Housemark Polo  Noir  Mineral Bla'
 ---
 
 Está [Levi s Housemark Polo  Noir  Mineral Black 0080   Small Homme](https://www.amazon.fr/dp/B07KF67L2Z/?tag=tolees0d-21) con 33.40 de descuento por 26.64 EUR (original: 40.0 EUR) en el siguiente enlace!

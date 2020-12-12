@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.01 % en Lecteur CD/DVD Externe  Cocopa USB 3.0 G'
 date: 2020-06-11 17:18:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41y5UUzyDKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41y5UUzyDKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41y5UUzyDKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Lecteur CD/DVD Externe  Cocopa USB 3.0 Graveur DVD Externe CD Enregistreur Portable RW/ROM Mince ROM Transmission Rapide Câble USB Intégrée Windows/MAC OS Apple/iMac/Macbook/Laptop/Desktops/PC'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07DYNQG8V/?tag=tolees0d-21'
+descuento: '50.01'
+titulo: 'Lecteur CD/DVD Externe  Cocopa USB 3.0 G'
 ---
 
 Tienes [Lecteur CD/DVD Externe  Cocopa USB 3.0 Graveur DVD Externe CD Enregistreur Portable RW/ROM Mince ROM Transmission Rapide Câble USB Intégrée Windows/MAC OS Apple/iMac/Macbook/Laptop/Desktops/PC](https://www.amazon.fr/dp/B07DYNQG8V/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

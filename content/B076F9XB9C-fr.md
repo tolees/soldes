@@ -3,6 +3,7 @@ layout: post
 title: 'Royal Bobbles - Bobble Head Michonne - T al 30.04 % de descuento'
 date: 2020-10-09 03:53:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/410e-9zVjPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410e-9zVjPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410e-9zVjPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'Royal Bobbles - Bobble Head Michonne - The Walking Dead'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B076F9XB9C/?tag=tolees0d-21'
+descuento: '30.04'
+titulo: 'Royal Bobbles - Bobble Head Michonne - T'
 ---
 
 Está [Royal Bobbles - Bobble Head Michonne - The Walking Dead](https://www.amazon.fr/dp/B076F9XB9C/?tag=tolees0d-21) con 30.04 de descuento por 25.18 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Melitta Machine à Café Automatique  Caff al 30.08 % de descuento'
 date: 2020-05-22 20:24:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41q+ONwgsXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41q+ONwgsXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41q+ONwgsXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 369.0 EUR
 inStock: true
 prodname: 'Melitta Machine à Café Automatique  Caffeo Solo  Noir Pure Black  E950-222'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00I3YL5T0/?tag=tolees0d-21'
+descuento: '30.08'
+titulo: 'Melitta Machine à Café Automatique  Caff'
 ---
 
 Ahora mismo tienes [Melitta Machine à Café Automatique  Caffeo Solo  Noir Pure Black  E950-222](https://www.amazon.fr/dp/B00I3YL5T0/?tag=tolees0d-21) a 257.99 EUR (original: 369.0 EUR) (30.08 %  de descuento) en el siguiente enlace!

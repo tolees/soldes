@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.13 % en Sunflair Dark Flower Tankinis  Multicolo'
 date: 2020-05-23 00:13:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41HB4Hxz7JL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HB4Hxz7JL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41HB4Hxz7JL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.0 EUR
 inStock: true
 prodname: 'Sunflair Dark Flower Tankinis  Multicolore  Nachtblau 30   100B  Taille Fabricant: 42B  Femme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07JW79M7X/?tag=tolees0d-21'
+descuento: '57.13'
+titulo: 'Sunflair Dark Flower Tankinis  Multicolo'
 ---
 
 Tienes [Sunflair Dark Flower Tankinis  Multicolore  Nachtblau 30   100B  Taille Fabricant: 42B  Femme](https://www.amazon.fr/dp/B07JW79M7X/?tag=tolees0d-21) con un 57.13 % de descuento con precio de oferta de 51.01 EUR (original: 119.0 EUR) en el siguiente enlace!

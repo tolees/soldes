@@ -3,6 +3,7 @@ layout: post
 title: 'Montre Hommes - Pulsar - PQ2055X1 al 36.36 % de descuento'
 date: 2020-05-22 21:05:10
 thumbnailImage: 'https://m.media-amazon.com/images/I/515zJnzeV4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515zJnzeV4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515zJnzeV4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 174.9 EUR
 inStock: true
 prodname: 'Montre Hommes - Pulsar - PQ2055X1'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01HZM8BC4/?tag=tolees0d-21'
+descuento: '36.36'
+titulo: 'Montre Hommes - Pulsar - PQ2055X1'
 ---
 
 Está [Montre Hommes - Pulsar - PQ2055X1](https://www.amazon.fr/dp/B01HZM8BC4/?tag=tolees0d-21) con 36.36 de descuento por 111.3 EUR (original: 174.9 EUR) en el siguiente enlace!

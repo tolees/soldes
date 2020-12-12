@@ -3,6 +3,7 @@ layout: post
 title: 'Correcteur de posture dos - redresse dos al 54.01 % de descuento'
 date: 2020-10-12 07:03:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/51zSK2fbSgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zSK2fbSgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51zSK2fbSgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Correcteur de posture dos - redresse dos Homme et Femme - Ceinture dorsale réglable pour maintien dos droit - Soutien la Colonne Vertébrale  Cyphose  Cou - Gratuit Sac+Ebook+Bande élastique'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07V3RJ3GJ/?tag=tolees0d-21'
+descuento: '54.01'
+titulo: 'Correcteur de posture dos - redresse dos'
 ---
 
 Está [Correcteur de posture dos - redresse dos Homme et Femme - Ceinture dorsale réglable pour maintien dos droit - Soutien la Colonne Vertébrale  Cyphose  Cou - Gratuit Sac+Ebook+Bande élastique](https://www.amazon.fr/dp/B07V3RJ3GJ/?tag=tolees0d-21) con 54.01 de descuento por 22.99 EUR (original: 49.99 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Sony WI-C200 Ecouteurs intra-auriculaire al 45.25 % de descuento'
 date: 2020-09-28 20:45:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31WGZ2P975L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31WGZ2P975L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31WGZ2P975L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 40.0 EUR
 inStock: true
 prodname: 'Sony WI-C200 Ecouteurs intra-auriculaires sans fil type tour de cou - Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07QYWD718/?tag=tolees0d-21'
+descuento: '45.25'
+titulo: 'Sony WI-C200 Ecouteurs intra-auriculaire'
 ---
 
 Ahora mismo tienes [Sony WI-C200 Ecouteurs intra-auriculaires sans fil type tour de cou - Noir](https://www.amazon.fr/dp/B07QYWD718/?tag=tolees0d-21) a 21.9 EUR (original: 40.0 EUR) (45.25 %  de descuento) en el siguiente enlace!

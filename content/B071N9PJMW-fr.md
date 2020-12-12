@@ -3,6 +3,7 @@ layout: post
 title: 'Louis Villiers Mixte Adulte Analogique Q al 77.78 % de descuento'
 date: 2020-09-26 17:43:17
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ten9xVAwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ten9xVAwL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ten9xVAwL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 295.0 EUR
 inStock: true
 prodname: 'Louis Villiers Mixte Adulte Analogique Quartz Montre avec Bracelet en Acier Inoxydable LV1013'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B071N9PJMW/?tag=tolees0d-21'
+descuento: '77.78'
+titulo: 'Louis Villiers Mixte Adulte Analogique Q'
 ---
 
 Ahora mismo tienes [Louis Villiers Mixte Adulte Analogique Quartz Montre avec Bracelet en Acier Inoxydable LV1013](https://www.amazon.fr/dp/B071N9PJMW/?tag=tolees0d-21) a 65.56 EUR (original: 295.0 EUR) (77.78 %  de descuento) en el siguiente enlace!

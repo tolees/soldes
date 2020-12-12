@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.13 % en BERING Montre 33440-227'
 date: 2020-05-22 22:19:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 249.0 EUR
 inStock: true
 prodname: 'BERING Montre 33440-227'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00IUJQP9S/?tag=tolees0d-21'
+descuento: '25.13'
+titulo: 'BERING Montre 33440-227'
 ---
 
 Tienes [BERING Montre 33440-227](https://www.amazon.fr/dp/B00IUJQP9S/?tag=tolees0d-21) con un 25.13 % de descuento con precio de oferta de 186.43 EUR (original: 249.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Philips QP620/50 OneBlade Kit Lames Visa al 46.98 % de descuento'
 date: 2020-10-09 07:55:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51X-j3oCxML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X-j3oCxML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51X-j3oCxML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Philips QP620/50 OneBlade Kit Lames Visage + Corps  2 Lames + 1 Système de Protection des Zones Sensibles + 1 Sabot Corps '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0792FNM2D/?tag=tolees0d-21'
+descuento: '46.98'
+titulo: 'Philips QP620/50 OneBlade Kit Lames Visa'
 ---
 
 Ahora mismo tienes [Philips QP620/50 OneBlade Kit Lames Visage + Corps  2 Lames + 1 Système de Protection des Zones Sensibles + 1 Sabot Corps ](https://www.amazon.fr/dp/B0792FNM2D/?tag=tolees0d-21) a 15.9 EUR (original: 29.99 EUR) (46.98 %  de descuento) en el siguiente enlace!

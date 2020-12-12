@@ -3,6 +3,7 @@ layout: post
 title: 'Camel Active Womenswear Feb-62 Blouson   al 63.28 % de descuento'
 date: 2020-08-08 21:43:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NPbjWXW-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NPbjWXW-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NPbjWXW-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 299.95 EUR
 inStock: true
 prodname: 'Camel Active Womenswear Feb-62 Blouson  Marron  Dark Brown 26   46  Taille Fabricant: 44  Femme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N7QRX5S/?tag=tolees0d-21'
+descuento: '63.28'
+titulo: 'Camel Active Womenswear Feb-62 Blouson  '
 ---
 
 Está [Camel Active Womenswear Feb-62 Blouson  Marron  Dark Brown 26   46  Taille Fabricant: 44  Femme](https://www.amazon.fr/dp/B07N7QRX5S/?tag=tolees0d-21) con 63.28 de descuento por 110.14 EUR (original: 299.95 EUR) en el siguiente enlace!

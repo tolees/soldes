@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 53.50 % en JBL LIVE 400BT – Casque audio supra-auri'
 date: 2020-05-22 22:25:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41klBZgrHjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41klBZgrHjL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41klBZgrHjL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.0 EUR
 inStock: true
 prodname: 'JBL LIVE 400BT – Casque audio supra-auriculaire sans fil – Écouteurs Bluetooth avec commande pour appels – avec Amazon Alexa intégrée – Autonomie jusqu à 24 heures – Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N9DW8BX/?tag=tolees0d-21'
+descuento: '53.50'
+titulo: 'JBL LIVE 400BT – Casque audio supra-auri'
 ---
 
 Tienes [JBL LIVE 400BT – Casque audio supra-auriculaire sans fil – Écouteurs Bluetooth avec commande pour appels – avec Amazon Alexa intégrée – Autonomie jusqu à 24 heures – Noir](https://www.amazon.fr/dp/B07N9DW8BX/?tag=tolees0d-21) con un 53.50 % de descuento con precio de oferta de 59.99 EUR (original: 129.0 EUR) en el siguiente enlace!

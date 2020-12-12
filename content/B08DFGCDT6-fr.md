@@ -3,6 +3,7 @@ layout: post
 title: 'Collection Velocity Bleu bleu nuit Carry al 25.03 % de descuento'
 date: 2020-08-09 08:44:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41kD4tz6NxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kD4tz6NxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41kD4tz6NxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 43.95 EUR
 inStock: true
 prodname: 'Collection Velocity Bleu bleu nuit Carry On'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21'
+descuento: '25.03'
+titulo: 'Collection Velocity Bleu bleu nuit Carry'
 ---
 
 Ahora mismo tienes [Collection Velocity Bleu bleu nuit Carry On](https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21) a 32.95 EUR (original: 43.95 EUR) (25.03 %  de descuento) en el siguiente enlace!

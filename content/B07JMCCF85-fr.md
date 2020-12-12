@@ -3,6 +3,7 @@ layout: post
 title: 'Playmobil - Grand Camping - 70087 al 25.38 % de descuento'
 date: 2020-10-04 10:56:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eQQqBThUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eQQqBThUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eQQqBThUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 66.99 EUR
 inStock: true
 prodname: 'Playmobil - Grand Camping - 70087'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07JMCCF85/?tag=tolees0d-21'
+descuento: '25.38'
+titulo: 'Playmobil - Grand Camping - 70087'
 ---
 
 Ahora mismo tienes [Playmobil - Grand Camping - 70087](https://www.amazon.fr/dp/B07JMCCF85/?tag=tolees0d-21) a 49.99 EUR (original: 66.99 EUR) (25.38 %  de descuento) en el siguiente enlace!

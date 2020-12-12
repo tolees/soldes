@@ -3,6 +3,7 @@ layout: post
 title: 'Philips HD6564/61 Machine à café à Doset al 30.00 % de descuento'
 date: 2020-10-06 10:55:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41fxeGnE0TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41fxeGnE0TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41fxeGnE0TL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Philips HD6564/61 Machine à café à Dosettes SENSEO Viva Café Duo Select Noir Scintillant'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FSRF6ZK/?tag=tolees0d-21'
+descuento: '30.00'
+titulo: 'Philips HD6564/61 Machine à café à Doset'
 ---
 
 Está [Philips HD6564/61 Machine à café à Dosettes SENSEO Viva Café Duo Select Noir Scintillant](https://www.amazon.fr/dp/B07FSRF6ZK/?tag=tolees0d-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

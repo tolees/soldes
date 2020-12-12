@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 38.68 % en Disque Dur Externe 1to  USB3.0 Disque Du'
 date: 2020-08-29 17:15:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/413F-j4XDhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413F-j4XDhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413F-j4XDhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 78.26 EUR
 inStock: true
 prodname: 'Disque Dur Externe 1to  USB3.0 Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Noir '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08CKM18P7/?tag=tolees0d-21'
+descuento: '38.68'
+titulo: 'Disque Dur Externe 1to  USB3.0 Disque Du'
 ---
 
 Tienes [Disque Dur Externe 1to  USB3.0 Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Noir ](https://www.amazon.fr/dp/B08CKM18P7/?tag=tolees0d-21) con un 38.68 % de descuento con precio de oferta de 47.99 EUR (original: 78.26 EUR) en el siguiente enlace!

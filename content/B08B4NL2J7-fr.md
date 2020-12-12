@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.32 % en Elyco Coque de Protection pour Nintendo '
 date: 2020-07-08 07:09:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51+dmvdl5qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+dmvdl5qL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51+dmvdl5qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 25.99 EUR
 inStock: true
 prodname: 'Elyco Coque de Protection pour Nintendo Switch  Grips Protection Poignée Main Housse Silicone Antidérapant  Étuis Housse Peau Gauche Droite Coquille pour Switch JoyCon Manettes'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08B4NL2J7/?tag=tolees0d-21'
+descuento: '42.32'
+titulo: 'Elyco Coque de Protection pour Nintendo '
 ---
 
 Tienes [Elyco Coque de Protection pour Nintendo Switch  Grips Protection Poignée Main Housse Silicone Antidérapant  Étuis Housse Peau Gauche Droite Coquille pour Switch JoyCon Manettes](https://www.amazon.fr/dp/B08B4NL2J7/?tag=tolees0d-21) con un 42.32 % de descuento con precio de oferta de 14.99 EUR (original: 25.99 EUR) en el siguiente enlace!

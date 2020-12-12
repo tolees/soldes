@@ -3,6 +3,7 @@ layout: post
 title: 'Remington Tondeuse Rasoir Corps Homme  5 al 30.01 % de descuento'
 date: 2020-10-07 12:44:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/5184f78SaTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5184f78SaTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5184f78SaTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Remington Tondeuse Rasoir Corps Homme  5 Sabots  Batterie Lithium - BHT6450 QuickGroom'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B079KHRR3X/?tag=tolees0d-21'
+descuento: '30.01'
+titulo: 'Remington Tondeuse Rasoir Corps Homme  5'
 ---
 
 Está [Remington Tondeuse Rasoir Corps Homme  5 Sabots  Batterie Lithium - BHT6450 QuickGroom](https://www.amazon.fr/dp/B079KHRR3X/?tag=tolees0d-21) con 30.01 de descuento por 41.99 EUR (original: 59.99 EUR) en el siguiente enlace!

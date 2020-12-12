@@ -3,6 +3,7 @@ layout: post
 title: 'Zelia - 41604F - Manteau Imperméable cir al 67.11 % de descuento'
 date: 2020-09-11 17:44:03
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Dara2iH9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Dara2iH9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Dara2iH9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.0 EUR
 inStock: true
 prodname: 'Zelia - 41604F - Manteau Imperméable ciré Femme Bleu Ciel Medium - Taille FR : 38'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07D3RPYKD/?tag=tolees0d-21'
+descuento: '67.11'
+titulo: 'Zelia - 41604F - Manteau Imperméable cir'
 ---
 
 Está [Zelia - 41604F - Manteau Imperméable ciré Femme Bleu Ciel Medium - Taille FR : 38](https://www.amazon.fr/dp/B07D3RPYKD/?tag=tolees0d-21) con 67.11 de descuento por 49.0 EUR (original: 149.0 EUR) en el siguiente enlace!

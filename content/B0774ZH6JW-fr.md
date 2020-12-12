@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 65.05 % en Brooks Brothers 100097653 Short  Beige  '
 date: 2020-08-11 21:03:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/312Pm4cJF-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/312Pm4cJF-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/312Pm4cJF-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Brooks Brothers 100097653 Short  Beige  Beige 275   48  Taille Fabricant: 36-  Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0774ZH6JW/?tag=tolees0d-21'
+descuento: '65.05'
+titulo: 'Brooks Brothers 100097653 Short  Beige  '
 ---
 
 Tienes [Brooks Brothers 100097653 Short  Beige  Beige 275   48  Taille Fabricant: 36-  Homme](https://www.amazon.fr/dp/B0774ZH6JW/?tag=tolees0d-21) con un 65.05 % de descuento con precio de oferta de 38.45 EUR (original: 110.0 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Disque Dur Externe 2to Type C USB3.1 pou al 46.67 % de descuento'
 date: 2020-08-27 04:08:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31rQcPx9r9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31rQcPx9r9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31rQcPx9r9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Disque Dur Externe 2to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Argent '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08DJ6VYTG/?tag=tolees0d-21'
+descuento: '46.67'
+titulo: 'Disque Dur Externe 2to Type C USB3.1 pou'
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Argent ](https://www.amazon.fr/dp/B08DJ6VYTG/?tag=tolees0d-21) a 63.99 EUR (original: 119.99 EUR) (46.67 %  de descuento) en el siguiente enlace!

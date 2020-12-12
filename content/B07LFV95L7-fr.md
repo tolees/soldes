@@ -3,6 +3,7 @@ layout: post
 title: 'Geox U Renan B  Sneakers Basses Homme  N al 40.00 % de descuento'
 date: 2020-05-27 11:40:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wrSr56PnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wrSr56PnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wrSr56PnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'Geox U Renan B  Sneakers Basses Homme  Noir  Black/Mud C9355   40 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07LFV95L7/?tag=tolees0d-21'
+descuento: '40.00'
+titulo: 'Geox U Renan B  Sneakers Basses Homme  N'
 ---
 
 Está [Geox U Renan B  Sneakers Basses Homme  Noir  Black/Mud C9355   40 EU](https://www.amazon.fr/dp/B07LFV95L7/?tag=tolees0d-21) con 40.00 de descuento por 66.0 EUR (original: 110.0 EUR) en el siguiente enlace!

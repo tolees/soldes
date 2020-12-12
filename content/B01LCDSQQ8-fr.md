@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 41.90 % en Sun Classic Sel Régénérant Pour Lave-Vai'
 date: 2020-06-12 00:11:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/41X5g1aPbnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41X5g1aPbnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41X5g1aPbnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 4.2 EUR
 inStock: true
 prodname: 'Sun Classic Sel Régénérant Pour Lave-Vaisselle 4kg'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01LCDSQQ8/?tag=tolees0d-21'
+descuento: '41.90'
+titulo: 'Sun Classic Sel Régénérant Pour Lave-Vai'
 ---
 
 Tienes [Sun Classic Sel Régénérant Pour Lave-Vaisselle 4kg](https://www.amazon.fr/dp/B01LCDSQQ8/?tag=tolees0d-21) con un 41.90 % de descuento con precio de oferta de 2.44 EUR (original: 4.2 EUR) en el siguiente enlace!

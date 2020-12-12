@@ -3,6 +3,7 @@ layout: post
 title: 'Micro Casque Gaming PS4 sans Fil REDSTOR al 43.00 % de descuento'
 date: 2020-10-03 15:35:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/412ygKAO48L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412ygKAO48L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412ygKAO48L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Micro Casque Gaming PS4 sans Fil REDSTORM Wireless 2.4G Casque Gamer PC Stéréo RGB LED Lumière/Micro Anti-bruit Détachable/Contrôle du Volume sur Oreillette pour PC PS4 Mac Switch'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08HQHXHCD/?tag=tolees0d-21'
+descuento: '43.00'
+titulo: 'Micro Casque Gaming PS4 sans Fil REDSTOR'
 ---
 
 Ahora mismo tienes [Micro Casque Gaming PS4 sans Fil REDSTORM Wireless 2.4G Casque Gamer PC Stéréo RGB LED Lumière/Micro Anti-bruit Détachable/Contrôle du Volume sur Oreillette pour PC PS4 Mac Switch](https://www.amazon.fr/dp/B08HQHXHCD/?tag=tolees0d-21) a 56.99 EUR (original: 99.99 EUR) (43.00 %  de descuento) en el siguiente enlace!

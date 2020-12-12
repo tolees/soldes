@@ -3,6 +3,7 @@ layout: post
 title: 'KEEN Explore Mid  IMPERMÉABLE  Chaussure al 54.44 % de descuento'
 date: 2020-08-10 13:07:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qlCD3UP7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qlCD3UP7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qlCD3UP7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.95 EUR
 inStock: true
 prodname: 'KEEN Explore Mid  IMPERMÉABLE  Chaussures de Randonnée Hautes Hommes  Noir  Magnet/Fiery Red 007   43 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07MSXRYZH/?tag=tolees0d-21'
+descuento: '54.44'
+titulo: 'KEEN Explore Mid  IMPERMÉABLE  Chaussure'
 ---
 
 Está [KEEN Explore Mid  IMPERMÉABLE  Chaussures de Randonnée Hautes Hommes  Noir  Magnet/Fiery Red 007   43 EU](https://www.amazon.fr/dp/B07MSXRYZH/?tag=tolees0d-21) con 54.44 de descuento por 54.65 EUR (original: 119.95 EUR) en el siguiente enlace!

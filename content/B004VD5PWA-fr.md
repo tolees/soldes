@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.94 % en Marie Brizard Curaçao Liqueur Triple Sec'
 date: 2020-05-22 20:42:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/417yd+CS0fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417yd+CS0fL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417yd+CS0fL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 51.87 EUR
 inStock: true
 prodname: 'Marie Brizard Curaçao Liqueur Triple Sec 700 ml'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B004VD5PWA/?tag=tolees0d-21'
+descuento: '50.94'
+titulo: 'Marie Brizard Curaçao Liqueur Triple Sec'
 ---
 
 Tienes [Marie Brizard Curaçao Liqueur Triple Sec 700 ml](https://www.amazon.fr/dp/B004VD5PWA/?tag=tolees0d-21) con un 50.94 % de descuento con precio de oferta de 25.45 EUR (original: 51.87 EUR) en el siguiente enlace!

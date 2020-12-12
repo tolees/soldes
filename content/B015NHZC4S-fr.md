@@ -3,6 +3,7 @@ layout: post
 title: 'Funko - Pocket POP Keychain: GOTG - Groo al 34.34 % de descuento'
 date: 2020-08-29 23:14:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31xxTC5LKQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31xxTC5LKQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31xxTC5LKQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 7.6 EUR
 inStock: true
 prodname: 'Funko - Pocket POP Keychain: GOTG - Groot'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B015NHZC4S/?tag=tolees0d-21'
+descuento: '34.34'
+titulo: 'Funko - Pocket POP Keychain: GOTG - Groo'
 ---
 
 Está [Funko - Pocket POP Keychain: GOTG - Groot](https://www.amazon.fr/dp/B015NHZC4S/?tag=tolees0d-21) con 34.34 de descuento por 4.99 EUR (original: 7.6 EUR) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 29.18 % en Tommy Hilfiger Montres bracelet 1781628'
 date: 2020-06-02 14:53:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/516XDOGg2SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516XDOGg2SL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516XDOGg2SL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 179.0 EUR
 inStock: true
 prodname: 'Tommy Hilfiger Montres bracelet 1781628'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B011IO79NC/?tag=tolees0d-21'
+descuento: '29.18'
+titulo: 'Tommy Hilfiger Montres bracelet 1781628'
 ---
 
 Tienes [Tommy Hilfiger Montres bracelet 1781628](https://www.amazon.fr/dp/B011IO79NC/?tag=tolees0d-21) con un 29.18 % de descuento con precio de oferta de 126.76 EUR (original: 179.0 EUR) en el siguiente enlace!

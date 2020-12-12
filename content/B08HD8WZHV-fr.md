@@ -3,6 +3,7 @@ layout: post
 title: 'LK 2 pièces Verre Trempé pour Samsung Ga al 31.27 % de descuento'
 date: 2020-09-24 02:30:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tAuGu-GxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tAuGu-GxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tAuGu-GxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 15.99 EUR
 inStock: true
 prodname: 'LK 2 pièces Verre Trempé pour Samsung Galaxy A51 Protecteur d écran + [2 Pack] Caméra Arrière Protecteur  Haute Transparence  [Anti-Rayures] Souple Silicone Gel TPU Bumper Housse Case Cover'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08HD8WZHV/?tag=tolees0d-21'
+descuento: '31.27'
+titulo: 'LK 2 pièces Verre Trempé pour Samsung Ga'
 ---
 
 Está [LK 2 pièces Verre Trempé pour Samsung Galaxy A51 Protecteur d écran + [2 Pack] Caméra Arrière Protecteur  Haute Transparence  [Anti-Rayures] Souple Silicone Gel TPU Bumper Housse Case Cover](https://www.amazon.fr/dp/B08HD8WZHV/?tag=tolees0d-21) con 31.27 de descuento por 10.99 EUR (original: 15.99 EUR) en el siguiente enlace!

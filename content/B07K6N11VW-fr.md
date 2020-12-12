@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.75 % en PHOTO MASTER NP-FZ100 Batterie de rechan'
 date: 2020-10-02 02:57:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41002mkrosL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41002mkrosL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41002mkrosL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 41.78 EUR
 inStock: true
 prodname: 'PHOTO MASTER NP-FZ100 Batterie de rechange  2280 mAh  pour appareil photo Sony Alpha 9  Alpha 9R  Alpha 9S  Sony A9  Sony A9R  Sony Alpha ILCE-9  Sony A7 III  Sony A7RIII  Sony A7R3  Sony 7RM3'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07K6N11VW/?tag=tolees0d-21'
+descuento: '42.75'
+titulo: 'PHOTO MASTER NP-FZ100 Batterie de rechan'
 ---
 
 Tienes [PHOTO MASTER NP-FZ100 Batterie de rechange  2280 mAh  pour appareil photo Sony Alpha 9  Alpha 9R  Alpha 9S  Sony A9  Sony A9R  Sony Alpha ILCE-9  Sony A7 III  Sony A7RIII  Sony A7R3  Sony 7RM3](https://www.amazon.fr/dp/B07K6N11VW/?tag=tolees0d-21) con un 42.75 % de descuento con precio de oferta de 23.92 EUR (original: 41.78 EUR) en el siguiente enlace!

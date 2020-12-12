@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Electroménager MUC22B42FR Multicui al 42.67 % de descuento'
 date: 2020-05-27 07:44:06
 thumbnailImage: 'https://m.media-amazon.com/images/I/41R7Loo0rNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41R7Loo0rNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41R7Loo0rNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Bosch Electroménager MUC22B42FR Multicuiseur  900 W  Anthracite'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01M216RUP/?tag=tolees0d-21'
+descuento: '42.67'
+titulo: 'Bosch Electroménager MUC22B42FR Multicui'
 ---
 
 Está [Bosch Electroménager MUC22B42FR Multicuiseur  900 W  Anthracite](https://www.amazon.fr/dp/B01M216RUP/?tag=tolees0d-21) con 42.67 de descuento por 85.99 EUR (original: 149.99 EUR) en el siguiente enlace!

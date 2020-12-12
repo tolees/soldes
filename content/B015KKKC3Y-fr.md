@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.00 % en Kappa Rocket  Baskets Basses Mixte Adult'
 date: 2020-05-22 21:07:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DBd5+ZKKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DBd5+ZKKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DBd5+ZKKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 45.0 EUR
 inStock: true
 prodname: 'Kappa Rocket  Baskets Basses Mixte Adulte  Noir  Black/White 1110   46 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B015KKKC3Y/?tag=tolees0d-21'
+descuento: '44.00'
+titulo: 'Kappa Rocket  Baskets Basses Mixte Adult'
 ---
 
 Tienes [Kappa Rocket  Baskets Basses Mixte Adulte  Noir  Black/White 1110   46 EU](https://www.amazon.fr/dp/B015KKKC3Y/?tag=tolees0d-21) con un 44.00 % de descuento con precio de oferta de 25.2 EUR (original: 45.0 EUR) en el siguiente enlace!

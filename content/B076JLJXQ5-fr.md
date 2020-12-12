@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.98 % en Braun Oral-B Pro 1 - 750 - Brosse à Dent'
 date: 2020-09-24 09:51:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/41olODRsr0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41olODRsr0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41olODRsr0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 60.0 EUR
 inStock: true
 prodname: 'Braun Oral-B Pro 1 - 750 - Brosse à Dents Électrique Rechargeable  1 Brossette  1 Étui de Voyage Offert'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B076JLJXQ5/?tag=tolees0d-21'
+descuento: '39.98'
+titulo: 'Braun Oral-B Pro 1 - 750 - Brosse à Dent'
 ---
 
 Tienes [Braun Oral-B Pro 1 - 750 - Brosse à Dents Électrique Rechargeable  1 Brossette  1 Étui de Voyage Offert](https://www.amazon.fr/dp/B076JLJXQ5/?tag=tolees0d-21) con un 39.98 % de descuento con precio de oferta de 36.01 EUR (original: 60.0 EUR) en el siguiente enlace!

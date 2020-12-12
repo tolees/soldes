@@ -3,6 +3,7 @@ layout: post
 title: 'HP Spectre 700 - Souris Rechargeable San al 50.01 % de descuento'
 date: 2020-10-02 16:43:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RHVlwHlsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RHVlwHlsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RHVlwHlsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'HP Spectre 700 - Souris Rechargeable Sans Fil Cuivre Luxe  USB et Bluetooth  1200 DPI  Easy-Switch  Ambidextre '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07F3N8GS7/?tag=tolees0d-21'
+descuento: '50.01'
+titulo: 'HP Spectre 700 - Souris Rechargeable San'
 ---
 
 Está [HP Spectre 700 - Souris Rechargeable Sans Fil Cuivre Luxe  USB et Bluetooth  1200 DPI  Easy-Switch  Ambidextre ](https://www.amazon.fr/dp/B07F3N8GS7/?tag=tolees0d-21) con 50.01 de descuento por 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

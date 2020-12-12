@@ -3,6 +3,7 @@ layout: post
 title: 'Le Tanneur femme Adele Sac bandouliere R al 60.83 % de descuento'
 date: 2020-08-07 16:04:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Vo8HE3cKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vo8HE3cKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Vo8HE3cKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 299.0 EUR
 inStock: true
 prodname: 'Le Tanneur femme Adele Sac bandouliere Rose  Poudre '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07MKS74R7/?tag=tolees0d-21'
+descuento: '60.83'
+titulo: 'Le Tanneur femme Adele Sac bandouliere R'
 ---
 
 Está [Le Tanneur femme Adele Sac bandouliere Rose  Poudre ](https://www.amazon.fr/dp/B07MKS74R7/?tag=tolees0d-21) con 60.83 de descuento por 117.12 EUR (original: 299.0 EUR) en el siguiente enlace!

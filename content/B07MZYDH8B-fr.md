@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 40.80 % en Skechers Women s GO Walk 5 Trainers  Bla'
 date: 2020-08-07 15:44:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/415XMdTdeEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415XMdTdeEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415XMdTdeEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 64.95 EUR
 inStock: true
 prodname: 'Skechers Women s GO Walk 5 Trainers  Black  Black Textile/White Trim BKW   6.5  39.5 EU '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07MZYDH8B/?tag=tolees0d-21'
+descuento: '40.80'
+titulo: 'Skechers Women s GO Walk 5 Trainers  Bla'
 ---
 
 Tienes [Skechers Women s GO Walk 5 Trainers  Black  Black Textile/White Trim BKW   6.5  39.5 EU ](https://www.amazon.fr/dp/B07MZYDH8B/?tag=tolees0d-21) con un 40.80 % de descuento con precio de oferta de 38.45 EUR (original: 64.95 EUR) en el siguiente enlace!

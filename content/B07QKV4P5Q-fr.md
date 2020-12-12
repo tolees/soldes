@@ -3,6 +3,7 @@ layout: post
 title: 'Britax Römer Siège-auto Naissance-18 kg  al 27.83 % de descuento'
 date: 2020-09-22 14:26:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qB5r8al3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qB5r8al3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qB5r8al3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 419.9 EUR
 inStock: true
 prodname: 'Britax Römer Siège-auto Naissance-18 kg | DUALFIX2 R | Isofix Groupe 0+/1 | Blue Marble'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07QKV4P5Q/?tag=tolees0d-21'
+descuento: '27.83'
+titulo: 'Britax Römer Siège-auto Naissance-18 kg '
 ---
 
 Está [Britax Römer Siège-auto Naissance-18 kg | DUALFIX2 R | Isofix Groupe 0+/1 | Blue Marble](https://www.amazon.fr/dp/B07QKV4P5Q/?tag=tolees0d-21) con 27.83 de descuento por 303.03 EUR (original: 419.9 EUR) en el siguiente enlace!

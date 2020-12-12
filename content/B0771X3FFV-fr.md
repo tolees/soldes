@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 36.96 % en Columbia XO0662 Short Homme Grill FR : 2'
 date: 2020-09-22 21:36:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/413JRZbJm-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413JRZbJm-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413JRZbJm-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Columbia XO0662 Short Homme Grill FR : 2XL  Taille Fabricant : W38/L19 '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0771X3FFV/?tag=tolees0d-21'
+descuento: '36.96'
+titulo: 'Columbia XO0662 Short Homme Grill FR : 2'
 ---
 
 Tienes [Columbia XO0662 Short Homme Grill FR : 2XL  Taille Fabricant : W38/L19 ](https://www.amazon.fr/dp/B0771X3FFV/?tag=tolees0d-21) con un 36.96 % de descuento con precio de oferta de 37.82 EUR (original: 59.99 EUR) en el siguiente enlace!

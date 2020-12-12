@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 51.46 % en Superdry Crater Padded Jacket Veste de S'
 date: 2020-05-22 22:44:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41+P-koJyML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+P-koJyML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41+P-koJyML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 139.9 EUR
 inStock: true
 prodname: 'Superdry Crater Padded Jacket Veste de Sport  Noir  Black 02a   Large Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FL5JJNX/?tag=tolees0d-21'
+descuento: '51.46'
+titulo: 'Superdry Crater Padded Jacket Veste de S'
 ---
 
 Tienes [Superdry Crater Padded Jacket Veste de Sport  Noir  Black 02a   Large Homme](https://www.amazon.fr/dp/B07FL5JJNX/?tag=tolees0d-21) con un 51.46 % de descuento con precio de oferta de 67.91 EUR (original: 139.9 EUR) en el siguiente enlace!

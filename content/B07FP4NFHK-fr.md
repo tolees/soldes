@@ -3,6 +3,7 @@ layout: post
 title: 'Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt al 39.47 % de descuento'
 date: 2020-08-25 17:28:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/41xOA3kH0dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xOA3kH0dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41xOA3kH0dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme  Bleu  Obsidian/White 451   FR : L  Taille Fabricant : L '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FP4NFHK/?tag=tolees0d-21'
+descuento: '39.47'
+titulo: 'Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt'
 ---
 
 Ahora mismo tienes [Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme  Bleu  Obsidian/White 451   FR : L  Taille Fabricant : L ](https://www.amazon.fr/dp/B07FP4NFHK/?tag=tolees0d-21) a 54.47 EUR (original: 89.99 EUR) (39.47 %  de descuento) en el siguiente enlace!

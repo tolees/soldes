@@ -3,6 +3,7 @@ layout: post
 title: 'Crocs Crocband II Kids  Sandales Bride C al 30.01 % de descuento'
 date: 2020-08-30 16:33:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/413KSP3gQIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413KSP3gQIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/413KSP3gQIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Crocs Crocband II Kids  Sandales Bride Cheville Mixte Enfant  Bleu  Bright Cobalt/Charcoal 4jn   24/25 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07K91P5XC/?tag=tolees0d-21'
+descuento: '30.01'
+titulo: 'Crocs Crocband II Kids  Sandales Bride C'
 ---
 
 Está [Crocs Crocband II Kids  Sandales Bride Cheville Mixte Enfant  Bleu  Bright Cobalt/Charcoal 4jn   24/25 EU](https://www.amazon.fr/dp/B07K91P5XC/?tag=tolees0d-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

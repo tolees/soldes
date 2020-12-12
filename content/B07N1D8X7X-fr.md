@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling Youri Spin 55 Luggage 33 L Black al 47.34 % de descuento'
 date: 2020-05-22 23:35:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41CC3wbFK-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41CC3wbFK-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41CC3wbFK-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 179.0 EUR
 inStock: true
 prodname: 'Kipling Youri Spin 55 Luggage 33 L Black Indigo'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07N1D8X7X/?tag=tolees0d-21'
+descuento: '47.34'
+titulo: 'Kipling Youri Spin 55 Luggage 33 L Black'
 ---
 
 Ahora mismo tienes [Kipling Youri Spin 55 Luggage 33 L Black Indigo](https://www.amazon.fr/dp/B07N1D8X7X/?tag=tolees0d-21) a 94.26 EUR (original: 179.0 EUR) (47.34 %  de descuento) en el siguiente enlace!

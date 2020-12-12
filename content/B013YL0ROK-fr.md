@@ -3,6 +3,7 @@ layout: post
 title: 'Golden Eagle brand new Superbe sculpture al 53.93 % de descuento'
 date: 2020-09-14 10:28:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yywYx40mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yywYx40mL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yywYx40mL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 144.0 EUR
 inStock: true
 prodname: 'Golden Eagle brand new Superbe sculpture de décoration en bronze Par Harriet Dunn'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B013YL0ROK/?tag=tolees0d-21'
+descuento: '53.93'
+titulo: 'Golden Eagle brand new Superbe sculpture'
 ---
 
 Está [Golden Eagle brand new Superbe sculpture de décoration en bronze Par Harriet Dunn](https://www.amazon.fr/dp/B013YL0ROK/?tag=tolees0d-21) con 53.93 de descuento por 66.34 EUR (original: 144.0 EUR) en el siguiente enlace!

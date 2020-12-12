@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.02 % en G-STAR RAW Boxed Raw Graphic Straight T-'
 date: 2020-08-25 17:10:40
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-SbnEPF+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-SbnEPF+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-SbnEPF+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.95 EUR
 inStock: true
 prodname: 'G-STAR RAW Boxed Raw Graphic Straight T-Shirt  Indigo 336-857  Large Hommes'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07Z5CMDPN/?tag=tolees0d-21'
+descuento: '50.02'
+titulo: 'G-STAR RAW Boxed Raw Graphic Straight T-'
 ---
 
 Tienes [G-STAR RAW Boxed Raw Graphic Straight T-Shirt  Indigo 336-857  Large Hommes](https://www.amazon.fr/dp/B07Z5CMDPN/?tag=tolees0d-21) con un 50.02 % de descuento con precio de oferta de 14.97 EUR (original: 29.95 EUR) en el siguiente enlace!

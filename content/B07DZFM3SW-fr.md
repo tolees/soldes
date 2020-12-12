@@ -3,6 +3,7 @@ layout: post
 title: 'jolidon – Lilly – Maillot de Bain Deux P al 38.71 % de descuento'
 date: 2020-10-09 11:43:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/31ktzrf6UlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ktzrf6UlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31ktzrf6UlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 81.5 EUR
 inStock: true
 prodname: 'jolidon – Lilly – Maillot de Bain Deux Pièces – Haut de Gamme – 100% Européen – Balconnet – Rembourré – Slip Taille Basse – Imprimé – Femme – B Cup – 38/40 - M'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07DZFM3SW/?tag=tolees0d-21'
+descuento: '38.71'
+titulo: 'jolidon – Lilly – Maillot de Bain Deux P'
 ---
 
 Está [jolidon – Lilly – Maillot de Bain Deux Pièces – Haut de Gamme – 100% Européen – Balconnet – Rembourré – Slip Taille Basse – Imprimé – Femme – B Cup – 38/40 - M](https://www.amazon.fr/dp/B07DZFM3SW/?tag=tolees0d-21) con 38.71 de descuento por 49.95 EUR (original: 81.5 EUR) en el siguiente enlace!

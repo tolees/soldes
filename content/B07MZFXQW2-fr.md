@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 60.06 % en PLDM by Palladium Caramba SUD  Bottes & '
 date: 2020-08-04 05:25:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51-PMFijRZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-PMFijRZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51-PMFijRZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Femmes  Marron  Date 149   37 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07MZFXQW2/?tag=tolees0d-21'
+descuento: '60.06'
+titulo: 'PLDM by Palladium Caramba SUD  Bottes & '
 ---
 
 Tienes [PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Femmes  Marron  Date 149   37 EU](https://www.amazon.fr/dp/B07MZFXQW2/?tag=tolees0d-21) con un 60.06 % de descuento con precio de oferta de 63.89 EUR (original: 159.95 EUR) en el siguiente enlace!

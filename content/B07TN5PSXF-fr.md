@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 80.01 % en UMtrade Mode Acier Inoxydable Hommes Chr'
 date: 2020-10-03 03:00:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GBLbBiyYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GBLbBiyYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GBLbBiyYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 29.97 EUR
 inStock: true
 prodname: 'UMtrade Mode Acier Inoxydable Hommes Christian Sideway Croix Bague Motard Bande Argent 17 mm'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TN5PSXF/?tag=tolees0d-21'
+descuento: '80.01'
+titulo: 'UMtrade Mode Acier Inoxydable Hommes Chr'
 ---
 
 Tienes [UMtrade Mode Acier Inoxydable Hommes Christian Sideway Croix Bague Motard Bande Argent 17 mm](https://www.amazon.fr/dp/B07TN5PSXF/?tag=tolees0d-21) con un 80.01 % de descuento con precio de oferta de 5.99 EUR (original: 29.97 EUR) en el siguiente enlace!

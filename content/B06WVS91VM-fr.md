@@ -3,6 +3,7 @@ layout: post
 title: 'Playmobil - Calèche avec Attelage - 6932 al 40.02 % de descuento'
 date: 2020-09-27 14:53:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/514lt75lwJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514lt75lwJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/514lt75lwJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 16.99 EUR
 inStock: true
 prodname: 'Playmobil - Calèche avec Attelage - 6932'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B06WVS91VM/?tag=tolees0d-21'
+descuento: '40.02'
+titulo: 'Playmobil - Calèche avec Attelage - 6932'
 ---
 
 Está [Playmobil - Calèche avec Attelage - 6932](https://www.amazon.fr/dp/B06WVS91VM/?tag=tolees0d-21) con 40.02 de descuento por 10.19 EUR (original: 16.99 EUR) en el siguiente enlace!

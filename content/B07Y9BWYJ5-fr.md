@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 25.00 % en Fauteuil à Bascule Gaming - Sony Geist -'
 date: 2020-10-01 17:28:20
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WmSMWN-5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WmSMWN-5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WmSMWN-5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'Fauteuil à Bascule Gaming - Sony Geist - noir/bleu'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07Y9BWYJ5/?tag=tolees0d-21'
+descuento: '25.00'
+titulo: 'Fauteuil à Bascule Gaming - Sony Geist -'
 ---
 
 Tienes [Fauteuil à Bascule Gaming - Sony Geist - noir/bleu](https://www.amazon.fr/dp/B07Y9BWYJ5/?tag=tolees0d-21) con un 25.00 % de descuento con precio de oferta de 89.99 EUR (original: 119.99 EUR) en el siguiente enlace!

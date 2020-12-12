@@ -3,6 +3,7 @@ layout: post
 title: 'Napapijri Nore Short  Bleu  Blu Marine 1 al 25.88 % de descuento'
 date: 2020-05-22 20:28:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mym+TinnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mym+TinnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mym+TinnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.0 EUR
 inStock: true
 prodname: 'Napapijri Nore Short  Bleu  Blu Marine 176   No Aplica  Taille Fabricant: 33  Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0796BWCX3/?tag=tolees0d-21'
+descuento: '25.88'
+titulo: 'Napapijri Nore Short  Bleu  Blu Marine 1'
 ---
 
 Está [Napapijri Nore Short  Bleu  Blu Marine 176   No Aplica  Taille Fabricant: 33  Homme](https://www.amazon.fr/dp/B0796BWCX3/?tag=tolees0d-21) con 25.88 de descuento por 65.97 EUR (original: 89.0 EUR) en el siguiente enlace!

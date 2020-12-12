@@ -3,6 +3,7 @@ layout: post
 title: 'Manette Sans Fil pour PS4 Manette pour P al 27.67 % de descuento'
 date: 2020-08-16 00:51:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41nAtXlPdOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nAtXlPdOL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41nAtXlPdOL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 46.99 EUR
 inStock: true
 prodname: 'Manette Sans Fil pour PS4 Manette pour Playstation 4 Gamepad pour PS4/ PS4 Slim/ PS4 Pro Console avec Double Vibration Moteur  Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21'
+descuento: '27.67'
+titulo: 'Manette Sans Fil pour PS4 Manette pour P'
 ---
 
 Ahora mismo tienes [Manette Sans Fil pour PS4 Manette pour Playstation 4 Gamepad pour PS4/ PS4 Slim/ PS4 Pro Console avec Double Vibration Moteur  Noir](https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21) a 33.99 EUR (original: 46.99 EUR) (27.67 %  de descuento) en el siguiente enlace!

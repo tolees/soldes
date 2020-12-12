@@ -3,6 +3,7 @@ layout: post
 title: 'TOPERSUN Distributeur Savon Mousse Autom al 59.88 % de descuento'
 date: 2020-08-17 11:08:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31e2Ke-CLIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e2Ke-CLIL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31e2Ke-CLIL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 35.99 EUR
 inStock: true
 prodname: 'TOPERSUN Distributeur Savon Mousse Automatique Distributeur de Savon Liquide 310ml avec Capteur Infrarouge Alimenté par 3 Piles AA pour Salle de Bain Cuisine École Bureau'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B085KW8NG2/?tag=tolees0d-21'
+descuento: '59.88'
+titulo: 'TOPERSUN Distributeur Savon Mousse Autom'
 ---
 
 Ahora mismo tienes [TOPERSUN Distributeur Savon Mousse Automatique Distributeur de Savon Liquide 310ml avec Capteur Infrarouge Alimenté par 3 Piles AA pour Salle de Bain Cuisine École Bureau](https://www.amazon.fr/dp/B085KW8NG2/?tag=tolees0d-21) a 14.44 EUR (original: 35.99 EUR) (59.88 %  de descuento) en el siguiente enlace!

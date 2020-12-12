@@ -3,6 +3,7 @@ layout: post
 title: 'MILLET Tekapo Hoodie M Veste Polaire Hom al 34.63 % de descuento'
 date: 2020-05-24 19:44:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-d90cq++L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-d90cq++L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-d90cq++L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 119.99 EUR
 inStock: true
 prodname: 'MILLET Tekapo Hoodie M Veste Polaire Homme  Black-Noir  FR : S  Taille Fabricant : S '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07YYRF8L1/?tag=tolees0d-21'
+descuento: '34.63'
+titulo: 'MILLET Tekapo Hoodie M Veste Polaire Hom'
 ---
 
 Está [MILLET Tekapo Hoodie M Veste Polaire Homme  Black-Noir  FR : S  Taille Fabricant : S ](https://www.amazon.fr/dp/B07YYRF8L1/?tag=tolees0d-21) con 34.63 de descuento por 78.44 EUR (original: 119.99 EUR) en el siguiente enlace!

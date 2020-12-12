@@ -3,6 +3,7 @@ layout: post
 title: 'Celio - NECETWO - Polo manches courtes - al 49.97 % de descuento'
 date: 2020-10-09 07:58:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/317FZo4kPhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317FZo4kPhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317FZo4kPhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Celio - NECETWO - Polo manches courtes - Coton Supima  Noir   Medium  Taille fabricant:M  Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07L25FNQB/?tag=tolees0d-21'
+descuento: '49.97'
+titulo: 'Celio - NECETWO - Polo manches courtes -'
 ---
 
 Ahora mismo tienes [Celio - NECETWO - Polo manches courtes - Coton Supima  Noir   Medium  Taille fabricant:M  Homme](https://www.amazon.fr/dp/B07L25FNQB/?tag=tolees0d-21) a 10.0 EUR (original: 19.99 EUR) (49.97 %  de descuento) en el siguiente enlace!

@@ -3,6 +3,7 @@ layout: post
 title: 'Tronsmart T6 Plus Enceinte Bluetooth 40W al 29.61 % de descuento'
 date: 2020-08-05 00:09:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/512yzZKAooL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512yzZKAooL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512yzZKAooL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.69 EUR
 inStock: true
 prodname: 'Tronsmart T6 Plus Enceinte Bluetooth 40W  Haut Parleur Portable d extérieur avec Powerbank  15 Heures Playtime  étanche IPX6  TWS Stéréo et Basses Puissantes  Speaker Bluetooth 5.0  Mains Libres'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07XQY8JZ2/?tag=tolees0d-21'
+descuento: '29.61'
+titulo: 'Tronsmart T6 Plus Enceinte Bluetooth 40W'
 ---
 
 Ahora mismo tienes [Tronsmart T6 Plus Enceinte Bluetooth 40W  Haut Parleur Portable d extérieur avec Powerbank  15 Heures Playtime  étanche IPX6  TWS Stéréo et Basses Puissantes  Speaker Bluetooth 5.0  Mains Libres](https://www.amazon.fr/dp/B07XQY8JZ2/?tag=tolees0d-21) a 56.09 EUR (original: 79.69 EUR) (29.61 %  de descuento) en el siguiente enlace!

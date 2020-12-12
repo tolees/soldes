@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.75 % en Bosch 2607019444 Cassette de 5 forets à '
 date: 2020-09-25 14:35:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/414wF1vX8aL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414wF1vX8aL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414wF1vX8aL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 9.65 EUR
 inStock: true
 prodname: 'Bosch 2607019444 Cassette de 5 forets à béton Diamètre 4/5/6/8/10 mm'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0012UNZ9K/?tag=tolees0d-21'
+descuento: '35.75'
+titulo: 'Bosch 2607019444 Cassette de 5 forets à '
 ---
 
 Tienes [Bosch 2607019444 Cassette de 5 forets à béton Diamètre 4/5/6/8/10 mm](https://www.amazon.fr/dp/B0012UNZ9K/?tag=tolees0d-21) con un 35.75 % de descuento con precio de oferta de 6.2 EUR (original: 9.65 EUR) en el siguiente enlace!

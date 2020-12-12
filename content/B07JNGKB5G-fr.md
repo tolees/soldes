@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.78 % en Scotch & Soda AMS Blauw Light Weight Shi'
 date: 2020-05-22 23:49:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/317Pvgxa+oL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317Pvgxa+oL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/317Pvgxa+oL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.95 EUR
 inStock: true
 prodname: 'Scotch & Soda AMS Blauw Light Weight Shirt with Contrast Print Details Chemise Casual   Blue 2344   Medium Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07JNGKB5G/?tag=tolees0d-21'
+descuento: '37.78'
+titulo: 'Scotch & Soda AMS Blauw Light Weight Shi'
 ---
 
 Tienes [Scotch & Soda AMS Blauw Light Weight Shirt with Contrast Print Details Chemise Casual   Blue 2344   Medium Homme](https://www.amazon.fr/dp/B07JNGKB5G/?tag=tolees0d-21) con un 37.78 % de descuento con precio de oferta de 43.52 EUR (original: 69.95 EUR) en el siguiente enlace!

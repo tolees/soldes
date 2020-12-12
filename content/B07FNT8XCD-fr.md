@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.19 % en LEGO Friends - Le spectacle d Andréa - 4'
 date: 2020-10-03 05:59:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/510V2fWbCnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/510V2fWbCnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/510V2fWbCnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'LEGO Friends - Le spectacle d Andréa - 41368 - Jeu de construction'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FNT8XCD/?tag=tolees0d-21'
+descuento: '31.19'
+titulo: 'LEGO Friends - Le spectacle d Andréa - 4'
 ---
 
 Tienes [LEGO Friends - Le spectacle d Andréa - 41368 - Jeu de construction](https://www.amazon.fr/dp/B07FNT8XCD/?tag=tolees0d-21) con un 31.19 % de descuento con precio de oferta de 34.4 EUR (original: 49.99 EUR) en el siguiente enlace!

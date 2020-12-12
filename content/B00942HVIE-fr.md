@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.54 % en Aigle - Parcours 2 Iso- Chaussure de cha'
 date: 2020-09-12 18:03:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/41gwoiqHR4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41gwoiqHR4L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41gwoiqHR4L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 185.0 EUR
 inStock: true
 prodname: 'Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert  Kaki - 40 EU  6.5 UK '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00942HVIE/?tag=tolees0d-21'
+descuento: '48.54'
+titulo: 'Aigle - Parcours 2 Iso- Chaussure de cha'
 ---
 
 Tienes [Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert  Kaki - 40 EU  6.5 UK ](https://www.amazon.fr/dp/B00942HVIE/?tag=tolees0d-21) con un 48.54 % de descuento con precio de oferta de 95.2 EUR (original: 185.0 EUR) en el siguiente enlace!

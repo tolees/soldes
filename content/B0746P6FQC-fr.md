@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Sonicare HX8491/01 AirFloss Ultr al 42.33 % de descuento'
 date: 2020-05-28 17:22:23
 thumbnailImage: 'https://m.media-amazon.com/images/I/31buTPSGwdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31buTPSGwdL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31buTPSGwdL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 259.99 EUR
 inStock: true
 prodname: 'Philips Sonicare HX8491/01 AirFloss Ultra et brosse à dents électrique Diamond Clean - Blanc'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0746P6FQC/?tag=tolees0d-21'
+descuento: '42.33'
+titulo: 'Philips Sonicare HX8491/01 AirFloss Ultr'
 ---
 
 Ahora mismo tienes [Philips Sonicare HX8491/01 AirFloss Ultra et brosse à dents électrique Diamond Clean - Blanc](https://www.amazon.fr/dp/B0746P6FQC/?tag=tolees0d-21) a 149.93 EUR (original: 259.99 EUR) (42.33 %  de descuento) en el siguiente enlace!

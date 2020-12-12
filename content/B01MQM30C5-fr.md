@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.89 % en Puma Basket Heart Patent  Baskets Basses'
 date: 2020-09-11 05:43:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41mKbK-tT9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mKbK-tT9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41mKbK-tT9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 89.95 EUR
 inStock: true
 prodname: 'Puma Basket Heart Patent  Baskets Basses Femme  Noir  Black-Black   36 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01MQM30C5/?tag=tolees0d-21'
+descuento: '58.89'
+titulo: 'Puma Basket Heart Patent  Baskets Basses'
 ---
 
 Tienes [Puma Basket Heart Patent  Baskets Basses Femme  Noir  Black-Black   36 EU](https://www.amazon.fr/dp/B01MQM30C5/?tag=tolees0d-21) con un 58.89 % de descuento con precio de oferta de 36.98 EUR (original: 89.95 EUR) en el siguiente enlace!

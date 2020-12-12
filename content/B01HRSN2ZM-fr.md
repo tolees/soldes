@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.18 % en Sveltus Set Plyobox'
 date: 2020-09-11 13:27:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ZUPKuVbsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ZUPKuVbsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ZUPKuVbsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Sveltus Set Plyobox'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01HRSN2ZM/?tag=tolees0d-21'
+descuento: '35.18'
+titulo: 'Sveltus Set Plyobox'
 ---
 
 Tienes [Sveltus Set Plyobox](https://www.amazon.fr/dp/B01HRSN2ZM/?tag=tolees0d-21) con un 35.18 % de descuento con precio de oferta de 129.64 EUR (original: 199.99 EUR) en el siguiente enlace!

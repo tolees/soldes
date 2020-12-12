@@ -3,6 +3,7 @@ layout: post
 title: 'SONOFF Mini Interrupteur WiFi Télécomman al 26.54 % de descuento'
 date: 2020-10-06 20:30:18
 thumbnailImage: 'https://m.media-amazon.com/images/I/41U9xUE0YlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41U9xUE0YlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41U9xUE0YlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 48.99 EUR
 inStock: true
 prodname: 'SONOFF Mini Interrupteur WiFi Télécommande 4 Pcs  sans Fil Module de Commutation Télécommande Domotique Minuteries Interrupteur Connecté Compatible avec Alexa Echo Google Home'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07YY1RLRX/?tag=tolees0d-21'
+descuento: '26.54'
+titulo: 'SONOFF Mini Interrupteur WiFi Télécomman'
 ---
 
 Ahora mismo tienes [SONOFF Mini Interrupteur WiFi Télécommande 4 Pcs  sans Fil Module de Commutation Télécommande Domotique Minuteries Interrupteur Connecté Compatible avec Alexa Echo Google Home](https://www.amazon.fr/dp/B07YY1RLRX/?tag=tolees0d-21) a 35.99 EUR (original: 48.99 EUR) (26.54 %  de descuento) en el siguiente enlace!

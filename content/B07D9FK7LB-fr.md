@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s 501 Original Fit – Jean - Homme - al 53.70 % de descuento'
 date: 2020-05-26 08:16:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 100.0 EUR
 inStock: true
 prodname: 'Levi s 501 Original Fit – Jean - Homme - Bleu  Bleu  Sponge   - 32W / 30L'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07D9FK7LB/?tag=tolees0d-21'
+descuento: '53.70'
+titulo: 'Levi s 501 Original Fit – Jean - Homme -'
 ---
 
 Ahora mismo tienes [Levi s 501 Original Fit – Jean - Homme - Bleu  Bleu  Sponge   - 32W / 30L](https://www.amazon.fr/dp/B07D9FK7LB/?tag=tolees0d-21) a 46.3 EUR (original: 100.0 EUR) (53.70 %  de descuento) en el siguiente enlace!

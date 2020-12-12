@@ -3,6 +3,7 @@ layout: post
 title: 'AUBADE  Soutien-gorge corbeille  Bretell al 58.18 % de descuento'
 date: 2020-08-25 20:27:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QkyrUOb7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QkyrUOb7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QkyrUOb7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 110.0 EUR
 inStock: true
 prodname: 'AUBADE  Soutien-gorge corbeille  Bretelles réglables  THE BOW COLLECTION  Rose  95B  OC14'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07PY54G7X/?tag=tolees0d-21'
+descuento: '58.18'
+titulo: 'AUBADE  Soutien-gorge corbeille  Bretell'
 ---
 
 Ahora mismo tienes [AUBADE  Soutien-gorge corbeille  Bretelles réglables  THE BOW COLLECTION  Rose  95B  OC14](https://www.amazon.fr/dp/B07PY54G7X/?tag=tolees0d-21) a 46.0 EUR (original: 110.0 EUR) (58.18 %  de descuento) en el siguiente enlace!

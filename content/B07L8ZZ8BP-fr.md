@@ -3,6 +3,7 @@ layout: post
 title: 'Replay New Luz Jean Skinny  Bleu  Dark B al 58.35 % de descuento'
 date: 2020-08-09 06:49:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/3181tQNB9dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3181tQNB9dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3181tQNB9dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'Replay New Luz Jean Skinny  Bleu  Dark Blue 007   L30  Taille Fabricant: 24  Femme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07L8ZZ8BP/?tag=tolees0d-21'
+descuento: '58.35'
+titulo: 'Replay New Luz Jean Skinny  Bleu  Dark B'
 ---
 
 Ahora mismo tienes [Replay New Luz Jean Skinny  Bleu  Dark Blue 007   L30  Taille Fabricant: 24  Femme](https://www.amazon.fr/dp/B07L8ZZ8BP/?tag=tolees0d-21) a 41.23 EUR (original: 99.0 EUR) (58.35 %  de descuento) en el siguiente enlace!

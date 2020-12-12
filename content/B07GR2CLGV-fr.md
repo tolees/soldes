@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 31.75 % en Oakwood Connecting Blouson  Marron  Viso'
 date: 2020-05-22 22:28:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/41UEPnqEycL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UEPnqEycL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41UEPnqEycL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 189.0 EUR
 inStock: true
 prodname: 'Oakwood Connecting Blouson  Marron  Vison 0559   XX-Large  Taille Fabricant: 2XL  Femme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07GR2CLGV/?tag=tolees0d-21'
+descuento: '31.75'
+titulo: 'Oakwood Connecting Blouson  Marron  Viso'
 ---
 
 Tienes [Oakwood Connecting Blouson  Marron  Vison 0559   XX-Large  Taille Fabricant: 2XL  Femme](https://www.amazon.fr/dp/B07GR2CLGV/?tag=tolees0d-21) con un 31.75 % de descuento con precio de oferta de 129.0 EUR (original: 189.0 EUR) en el siguiente enlace!

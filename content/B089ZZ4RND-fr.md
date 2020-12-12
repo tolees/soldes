@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.66 % en Casque de Jeu MAMBASNAKE  Casque stéréo '
 date: 2020-10-03 02:57:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/511X-+XSZhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511X-+XSZhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511X-+XSZhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.13 EUR
 inStock: true
 prodname: 'Casque de Jeu MAMBASNAKE  Casque stéréo avec Microphone rétractable de réduction du Bruit  Casque USB 3 5 mm au Plafond avec 7 rétroéclairages RVB pour PC  PS4  Camouflage Xbox One  Blanc et Vert '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B089ZZ4RND/?tag=tolees0d-21'
+descuento: '39.66'
+titulo: 'Casque de Jeu MAMBASNAKE  Casque stéréo '
 ---
 
 Tienes [Casque de Jeu MAMBASNAKE  Casque stéréo avec Microphone rétractable de réduction du Bruit  Casque USB 3 5 mm au Plafond avec 7 rétroéclairages RVB pour PC  PS4  Camouflage Xbox One  Blanc et Vert ](https://www.amazon.fr/dp/B089ZZ4RND/?tag=tolees0d-21) con un 39.66 % de descuento con precio de oferta de 19.99 EUR (original: 33.13 EUR) en el siguiente enlace!

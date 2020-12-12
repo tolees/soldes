@@ -3,6 +3,7 @@ layout: post
 title: 'New Balance 500 Core  Baskets Homme  Ble al 39.52 % de descuento'
 date: 2020-09-22 07:21:13
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JYhQNkPPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JYhQNkPPL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JYhQNkPPL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75.0 EUR
 inStock: true
 prodname: 'New Balance 500 Core  Baskets Homme  Bleu  Navy/Grey Navy   43 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01AZHELKM/?tag=tolees0d-21'
+descuento: '39.52'
+titulo: 'New Balance 500 Core  Baskets Homme  Ble'
 ---
 
 Está [New Balance 500 Core  Baskets Homme  Bleu  Navy/Grey Navy   43 EU](https://www.amazon.fr/dp/B01AZHELKM/?tag=tolees0d-21) con 39.52 de descuento por 45.36 EUR (original: 75.0 EUR) en el siguiente enlace!
