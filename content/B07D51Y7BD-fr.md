@@ -3,6 +3,7 @@ layout: post
 title: 'La Tribu Monchhichi-Coffret 2 DVD + Cade al 25.41 % de descuento'
 date: 2020-12-07 02:53:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/512hd3Th7hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512hd3Th7hL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512hd3Th7hL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'La Tribu Monchhichi-Coffret 2 DVD + Cadeau [Édition Limitée]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07D51Y7BD/?tag=tolees0d-21'
+descuento: '25.41'
+titulo: 'La Tribu Monchhichi-Coffret 2 DVD + Cade'
 ---
 
 Ahora mismo tienes [La Tribu Monchhichi-Coffret 2 DVD + Cadeau [Édition Limitée]](https://www.amazon.fr/dp/B07D51Y7BD/?tag=tolees0d-21) a 14.91 EUR (original: 19.99 EUR) (25.41 %  de descuento) en el siguiente enlace!
 
 [![La Tribu Monchhichi-Coffret 2 DVD + Cade](https://m.media-amazon.com/images/I/512hd3Th7hL._SL200_.jpg)](https://www.amazon.fr/dp/B07D51Y7BD/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07D51Y7BD/?tag=tolees0d-21)
 

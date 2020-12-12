@@ -3,6 +3,7 @@ layout: post
 title: 'Logitech M705 Souris sans Fil Marathon   al 60.01 % de descuento'
 date: 2020-12-05 12:26:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/31mR-zjRU+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mR-zjRU+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31mR-zjRU+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Logitech M705 Souris sans Fil Marathon  2 4 GHz avec Nano-Récepteur USB Unifying  Suivi Laser 1000 PPP  7 Boutons  2 Boutons Supplémentaires  Batterie Longue Durée 3 Ans  PC/Mac/Portable - Noire'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B003STDR1E/?tag=tolees0d-21'
+descuento: '60.01'
+titulo: 'Logitech M705 Souris sans Fil Marathon  '
 ---
 
 Está [Logitech M705 Souris sans Fil Marathon  2 4 GHz avec Nano-Récepteur USB Unifying  Suivi Laser 1000 PPP  7 Boutons  2 Boutons Supplémentaires  Batterie Longue Durée 3 Ans  PC/Mac/Portable - Noire](https://www.amazon.fr/dp/B003STDR1E/?tag=tolees0d-21) con 60.01 de descuento por 19.99 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Logitech M705 Souris sans Fil Marathon  ](https://m.media-amazon.com/images/I/31mR-zjRU+L._SL200_.jpg)](https://www.amazon.fr/dp/B003STDR1E/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B003STDR1E/?tag=tolees0d-21)
 

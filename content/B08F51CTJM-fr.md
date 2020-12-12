@@ -3,6 +3,7 @@ layout: post
 title: 'REDSTORM Manette pour Nintendo Switch Pr al 46.01 % de descuento'
 date: 2020-11-17 02:12:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Cbfm6q2xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Cbfm6q2xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Cbfm6q2xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'REDSTORM Manette pour Nintendo Switch Pro  Manette Zelda  Manette Switch sans Fil avec Bluetooth  6 Axes Vibration/Duble Moteur Intégré pour Nintendo Switch et PC'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08F51CTJM/?tag=tolees0d-21'
+descuento: '46.01'
+titulo: 'REDSTORM Manette pour Nintendo Switch Pr'
 ---
 
 Ahora mismo tienes [REDSTORM Manette pour Nintendo Switch Pro  Manette Zelda  Manette Switch sans Fil avec Bluetooth  6 Axes Vibration/Duble Moteur Intégré pour Nintendo Switch et PC](https://www.amazon.fr/dp/B08F51CTJM/?tag=tolees0d-21) a 21.59 EUR (original: 39.99 EUR) (46.01 %  de descuento) en el siguiente enlace!
 
 [![REDSTORM Manette pour Nintendo Switch Pr](https://m.media-amazon.com/images/I/41Cbfm6q2xL._SL200_.jpg)](https://www.amazon.fr/dp/B08F51CTJM/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B08F51CTJM/?tag=tolees0d-21)
 

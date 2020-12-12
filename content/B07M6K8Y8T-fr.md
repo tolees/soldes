@@ -3,6 +3,7 @@ layout: post
 title: 'Microsoft Surface Laptop 2  13.5" tactil al 28.89 % de descuento'
 date: 2020-10-13 09:48:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GBU2QM5bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GBU2QM5bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GBU2QM5bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 1449.0 EUR
 inStock: true
 prodname: 'Microsoft Surface Laptop 2  13.5" tactile  Core i5  RAM 8 Go  SSD 256 Go  Windows 10  - Bordeaux'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07M6K8Y8T/?tag=tolees0d-21'
+descuento: '28.89'
+titulo: 'Microsoft Surface Laptop 2  13.5" tactil'
 ---
 
 Ahora mismo tienes [Microsoft Surface Laptop 2  13.5" tactile  Core i5  RAM 8 Go  SSD 256 Go  Windows 10  - Bordeaux](https://www.amazon.fr/dp/B07M6K8Y8T/?tag=tolees0d-21) a 1030.32 EUR (original: 1449.0 EUR) (28.89 %  de descuento) en el siguiente enlace!
 
 [![Microsoft Surface Laptop 2  13.5" tactil](https://m.media-amazon.com/images/I/31GBU2QM5bL._SL200_.jpg)](https://www.amazon.fr/dp/B07M6K8Y8T/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07M6K8Y8T/?tag=tolees0d-21)
 

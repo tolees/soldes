@@ -3,6 +3,7 @@ layout: post
 title: 'Devolo 9639 dLAN 550 WiFi Kit Réseau CPL al 42.20 % de descuento'
 date: 2020-11-23 02:05:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31OcFUJoQ0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31OcFUJoQ0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31OcFUJoQ0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 179.9 EUR
 inStock: true
 prodname: 'Devolo 9639 dLAN 550 WiFi Kit Réseau CPL  Connexion Internet 500 Mbit/s via la Prise de Courant  300 Mbit/s via le Réseau WiFi 1 port Ethernet  3 Adaptateurs CPL  Amplificateur WiFi  WiFi Move  Blanc'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0169PXEIO/?tag=tolees0d-21'
+descuento: '42.20'
+titulo: 'Devolo 9639 dLAN 550 WiFi Kit Réseau CPL'
 ---
 
 Está [Devolo 9639 dLAN 550 WiFi Kit Réseau CPL  Connexion Internet 500 Mbit/s via la Prise de Courant  300 Mbit/s via le Réseau WiFi 1 port Ethernet  3 Adaptateurs CPL  Amplificateur WiFi  WiFi Move  Blanc](https://www.amazon.fr/dp/B0169PXEIO/?tag=tolees0d-21) con 42.20 de descuento por 103.99 EUR (original: 179.9 EUR) en el siguiente enlace!
 
 [![Devolo 9639 dLAN 550 WiFi Kit Réseau CPL](https://m.media-amazon.com/images/I/31OcFUJoQ0L._SL200_.jpg)](https://www.amazon.fr/dp/B0169PXEIO/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0169PXEIO/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Abody Bougie Parfumée Coffret  4 Cadeau  al 50.01 % de descuento'
 date: 2020-12-02 06:56:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AW6kztGmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AW6kztGmL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AW6kztGmL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Abody Bougie Parfumée Coffret  4 Cadeau Bougie Aromatique en Cire de soja Bougie avec Huile Essentielle  Naturelle pour Noël  l Aromathérapie  Mariage  Anniversaire  Bain  Yoga'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08FHQ2M84/?tag=tolees0d-21'
+descuento: '50.01'
+titulo: 'Abody Bougie Parfumée Coffret  4 Cadeau '
 ---
 
 Está [Abody Bougie Parfumée Coffret  4 Cadeau Bougie Aromatique en Cire de soja Bougie avec Huile Essentielle  Naturelle pour Noël  l Aromathérapie  Mariage  Anniversaire  Bain  Yoga](https://www.amazon.fr/dp/B08FHQ2M84/?tag=tolees0d-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Abody Bougie Parfumée Coffret  4 Cadeau ](https://m.media-amazon.com/images/I/51AW6kztGmL._SL200_.jpg)](https://www.amazon.fr/dp/B08FHQ2M84/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08FHQ2M84/?tag=tolees0d-21)
 

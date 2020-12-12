@@ -3,6 +3,7 @@ layout: post
 title: 'Peter Pan al 31.53 % de descuento'
 date: 2020-12-05 08:25:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/512kHcvUFHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512kHcvUFHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/512kHcvUFHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.0 EUR
 inStock: true
 prodname: 'Peter Pan'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B008YISN3G/?tag=tolees0d-21'
+descuento: '31.53'
+titulo: 'Peter Pan'
 ---
 
 Ahora mismo tienes [Peter Pan](https://www.amazon.fr/dp/B008YISN3G/?tag=tolees0d-21) a 10.27 EUR (original: 15.0 EUR) (31.53 %  de descuento) en el siguiente enlace!
 
 [![Peter Pan](https://m.media-amazon.com/images/I/512kHcvUFHL._SL200_.jpg)](https://www.amazon.fr/dp/B008YISN3G/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B008YISN3G/?tag=tolees0d-21)
 

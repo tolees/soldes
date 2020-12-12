@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 37.00 % en Bosch Outil Multifonctions - PMF 220 Ce '
 date: 2020-11-06 07:36:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/41bNoTKuPxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41bNoTKuPxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41bNoTKuPxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Bosch Outil Multifonctions - PMF 220 Ce  220w  Livré avec Accessoires  Interface Starlock  Vert'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01D080ILY/?tag=tolees0d-21'
+descuento: '37.00'
+titulo: 'Bosch Outil Multifonctions - PMF 220 Ce '
 ---
 
 Tienes [Bosch Outil Multifonctions - PMF 220 Ce  220w  Livré avec Accessoires  Interface Starlock  Vert](https://www.amazon.fr/dp/B01D080ILY/?tag=tolees0d-21) con un 37.00 % de descuento con precio de oferta de 62.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Bosch Outil Multifonctions - PMF 220 Ce ](https://m.media-amazon.com/images/I/41bNoTKuPxL._SL200_.jpg)](https://www.amazon.fr/dp/B01D080ILY/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01D080ILY/?tag=tolees0d-21)
 

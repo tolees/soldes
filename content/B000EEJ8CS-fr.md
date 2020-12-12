@@ -3,6 +3,7 @@ layout: post
 title: 'D Addario EJ16 Cordes en bronze phosphor al 48.06 % de descuento'
 date: 2020-10-13 09:47:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51vhmF2RJ-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vhmF2RJ-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51vhmF2RJ-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 10.8 EUR
 inStock: true
 prodname: 'D Addario EJ16 Cordes en bronze phosphoreux pour guitare acoustique Léger 12-53'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B000EEJ8CS/?tag=tolees0d-21'
+descuento: '48.06'
+titulo: 'D Addario EJ16 Cordes en bronze phosphor'
 ---
 
 Ahora mismo tienes [D Addario EJ16 Cordes en bronze phosphoreux pour guitare acoustique Léger 12-53](https://www.amazon.fr/dp/B000EEJ8CS/?tag=tolees0d-21) a 5.61 EUR (original: 10.8 EUR) (48.06 %  de descuento) en el siguiente enlace!
 
 [![D Addario EJ16 Cordes en bronze phosphor](https://m.media-amazon.com/images/I/51vhmF2RJ-L._SL200_.jpg)](https://www.amazon.fr/dp/B000EEJ8CS/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B000EEJ8CS/?tag=tolees0d-21)
 

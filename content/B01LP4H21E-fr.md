@@ -3,6 +3,7 @@ layout: post
 title: 'Bosch Professional Laser Combiné en Croi al 30.42 % de descuento'
 date: 2020-11-20 04:56:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51G6YWpxIJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51G6YWpxIJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51G6YWpxIJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 262.8 EUR
 inStock: true
 prodname: 'Bosch Professional Laser Combiné en Croix GCL 2-15 G  Laser Vert  pour l intérieur  avec points d’aplomb  Portée : 15 m  3 Piles 1 5 V   Support Rotatif RM 1  Cible Laser  Coffret de Transport '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01LP4H21E/?tag=tolees0d-21'
+descuento: '30.42'
+titulo: 'Bosch Professional Laser Combiné en Croi'
 ---
 
 Ahora mismo tienes [Bosch Professional Laser Combiné en Croix GCL 2-15 G  Laser Vert  pour l intérieur  avec points d’aplomb  Portée : 15 m  3 Piles 1 5 V   Support Rotatif RM 1  Cible Laser  Coffret de Transport ](https://www.amazon.fr/dp/B01LP4H21E/?tag=tolees0d-21) a 182.86 EUR (original: 262.8 EUR) (30.42 %  de descuento) en el siguiente enlace!
 
 [![Bosch Professional Laser Combiné en Croi](https://m.media-amazon.com/images/I/51G6YWpxIJL._SL200_.jpg)](https://www.amazon.fr/dp/B01LP4H21E/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B01LP4H21E/?tag=tolees0d-21)
 

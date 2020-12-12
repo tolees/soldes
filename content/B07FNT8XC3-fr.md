@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.49 % en LEGO® Minecraft™ L aventure du bateau pi'
 date: 2020-11-25 07:13:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'LEGO® Minecraft™ L aventure du bateau pirate Jeu de construction  8 Ans et Plus  386 Pièces 21152'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FNT8XC3/?tag=tolees0d-21'
+descuento: '33.49'
+titulo: 'LEGO® Minecraft™ L aventure du bateau pi'
 ---
 
 Tienes [LEGO® Minecraft™ L aventure du bateau pirate Jeu de construction  8 Ans et Plus  386 Pièces 21152](https://www.amazon.fr/dp/B07FNT8XC3/?tag=tolees0d-21) con un 33.49 % de descuento con precio de oferta de 39.9 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![LEGO® Minecraft™ L aventure du bateau pi](https://m.media-amazon.com/images/I/51nF6GdmqiL._SL200_.jpg)](https://www.amazon.fr/dp/B07FNT8XC3/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07FNT8XC3/?tag=tolees0d-21)
 

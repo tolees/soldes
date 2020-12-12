@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 52.50 % en Disney La Reine des Neiges 2 - L Extraor'
 date: 2020-10-30 17:38:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/518--wIriqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518--wIriqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/518--wIriqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'Disney La Reine des Neiges 2 - L Extraordinaire Château d Arendelle d Elsa et Anna - 1m50 de haut - 4 étages'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07M8SDQJH/?tag=tolees0d-21'
+descuento: '52.50'
+titulo: 'Disney La Reine des Neiges 2 - L Extraor'
 ---
 
 Tienes [Disney La Reine des Neiges 2 - L Extraordinaire Château d Arendelle d Elsa et Anna - 1m50 de haut - 4 étages](https://www.amazon.fr/dp/B07M8SDQJH/?tag=tolees0d-21) con un 52.50 % de descuento con precio de oferta de 94.99 EUR (original: 199.99 EUR) en el siguiente enlace!
 
 [![Disney La Reine des Neiges 2 - L Extraor](https://m.media-amazon.com/images/I/518--wIriqL._SL200_.jpg)](https://www.amazon.fr/dp/B07M8SDQJH/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07M8SDQJH/?tag=tolees0d-21)
 

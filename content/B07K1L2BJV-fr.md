@@ -3,6 +3,7 @@ layout: post
 title: 'Street Trash [Blu-Ray] al 44.07 % de descuento'
 date: 2020-10-27 19:24:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/51jNGGdV-iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jNGGdV-iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51jNGGdV-iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.02 EUR
 inStock: true
 prodname: 'Street Trash [Blu-Ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07K1L2BJV/?tag=tolees0d-21'
+descuento: '44.07'
+titulo: 'Street Trash [Blu-Ray]'
 ---
 
 Está [Street Trash [Blu-Ray]](https://www.amazon.fr/dp/B07K1L2BJV/?tag=tolees0d-21) con 44.07 de descuento por 8.4 EUR (original: 15.02 EUR) en el siguiente enlace!
 
 [![Street Trash [Blu-Ray]](https://m.media-amazon.com/images/I/51jNGGdV-iL._SL200_.jpg)](https://www.amazon.fr/dp/B07K1L2BJV/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07K1L2BJV/?tag=tolees0d-21)
 

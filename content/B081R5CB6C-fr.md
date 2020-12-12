@@ -3,6 +3,7 @@ layout: post
 title: 'MEIKEE Spot Exterieur led 12V DC 7W à Pi al 31.83 % de descuento'
 date: 2020-10-16 21:27:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51y-klsA-XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51y-klsA-XL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51y-klsA-XL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.59 EUR
 inStock: true
 prodname: 'MEIKEE Spot Exterieur led 12V DC 7W à Piquer  Lampe LED avec transformateur Blanc Chaud 3000K IP66 etance  Éclairage LED économique de basse tension sûr pour votre chemin  terrasse et jardin Lot de 4'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B081R5CB6C/?tag=tolees0d-21'
+descuento: '31.83'
+titulo: 'MEIKEE Spot Exterieur led 12V DC 7W à Pi'
 ---
 
 Ahora mismo tienes [MEIKEE Spot Exterieur led 12V DC 7W à Piquer  Lampe LED avec transformateur Blanc Chaud 3000K IP66 etance  Éclairage LED économique de basse tension sûr pour votre chemin  terrasse et jardin Lot de 4](https://www.amazon.fr/dp/B081R5CB6C/?tag=tolees0d-21) a 26.99 EUR (original: 39.59 EUR) (31.83 %  de descuento) en el siguiente enlace!
 
 [![MEIKEE Spot Exterieur led 12V DC 7W à Pi](https://m.media-amazon.com/images/I/51y-klsA-XL._SL200_.jpg)](https://www.amazon.fr/dp/B081R5CB6C/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B081R5CB6C/?tag=tolees0d-21)
 

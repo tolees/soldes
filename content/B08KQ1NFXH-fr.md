@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 48.02 % en eXtremeRate LB RB LT RT Bumpers Triggers'
 date: 2020-10-13 18:26:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/31XiBRYVnkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XiBRYVnkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31XiBRYVnkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync Boutons Kit de Boutons Kit de Réparation avec Outils pour Xbox One S & Xbox One X Manette Contrôleur  Modèle1708 -Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08KQ1NFXH/?tag=tolees0d-21'
+descuento: '48.02'
+titulo: 'eXtremeRate LB RB LT RT Bumpers Triggers'
 ---
 
 Tienes [eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync Boutons Kit de Boutons Kit de Réparation avec Outils pour Xbox One S & Xbox One X Manette Contrôleur  Modèle1708 -Noir](https://www.amazon.fr/dp/B08KQ1NFXH/?tag=tolees0d-21) con un 48.02 % de descuento con precio de oferta de 12.99 EUR (original: 24.99 EUR) en el siguiente enlace!
 
 [![eXtremeRate LB RB LT RT Bumpers Triggers](https://m.media-amazon.com/images/I/31XiBRYVnkL._SL200_.jpg)](https://www.amazon.fr/dp/B08KQ1NFXH/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08KQ1NFXH/?tag=tolees0d-21)
 

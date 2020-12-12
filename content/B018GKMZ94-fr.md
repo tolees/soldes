@@ -3,6 +3,7 @@ layout: post
 title: 'Mauboussin - Eau de Parfum Femme - Promi al 62.00 % de descuento'
 date: 2020-12-10 10:05:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41k-wYK8qlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41k-wYK8qlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41k-wYK8qlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Mauboussin - Eau de Parfum Femme - Promise Me - Senteur Chypré & Moderne - 90ml'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B018GKMZ94/?tag=tolees0d-21'
+descuento: '62.00'
+titulo: 'Mauboussin - Eau de Parfum Femme - Promi'
 ---
 
 Está [Mauboussin - Eau de Parfum Femme - Promise Me - Senteur Chypré & Moderne - 90ml](https://www.amazon.fr/dp/B018GKMZ94/?tag=tolees0d-21) con 62.00 de descuento por 32.3 EUR (original: 85.0 EUR) en el siguiente enlace!
 
 [![Mauboussin - Eau de Parfum Femme - Promi](https://m.media-amazon.com/images/I/41k-wYK8qlL._SL200_.jpg)](https://www.amazon.fr/dp/B018GKMZ94/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B018GKMZ94/?tag=tolees0d-21)
 

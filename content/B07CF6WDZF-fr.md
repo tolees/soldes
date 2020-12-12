@@ -3,6 +3,7 @@ layout: post
 title: 'Ocean s 8 - [Blu-ray] al 53.69 % de descuento'
 date: 2020-10-17 14:35:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/5177aP0Ak0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/5177aP0Ak0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/5177aP0Ak0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.05 EUR
 inStock: true
 prodname: 'Ocean s 8 - [Blu-ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07CF6WDZF/?tag=tolees0d-21'
+descuento: '53.69'
+titulo: 'Ocean s 8 - [Blu-ray]'
 ---
 
 Está [Ocean s 8 - [Blu-ray]](https://www.amazon.fr/dp/B07CF6WDZF/?tag=tolees0d-21) con 53.69 de descuento por 6.97 EUR (original: 15.05 EUR) en el siguiente enlace!
 
 [![Ocean s 8 - [Blu-ray]](https://m.media-amazon.com/images/I/5177aP0Ak0L._SL200_.jpg)](https://www.amazon.fr/dp/B07CF6WDZF/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07CF6WDZF/?tag=tolees0d-21)
 

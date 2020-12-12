@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 44.13 % en Sanitas - SHK 18 - Coussin Chauffant - L'
 date: 2020-12-10 20:32:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/3101gKjZLNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/3101gKjZLNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/3101gKjZLNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 33.99 EUR
 inStock: true
 prodname: 'Sanitas - SHK 18 - Coussin Chauffant - Lavable/Cordon Détachable'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B001NJJH38/?tag=tolees0d-21'
+descuento: '44.13'
+titulo: 'Sanitas - SHK 18 - Coussin Chauffant - L'
 ---
 
 Tienes [Sanitas - SHK 18 - Coussin Chauffant - Lavable/Cordon Détachable](https://www.amazon.fr/dp/B001NJJH38/?tag=tolees0d-21) con un 44.13 % de descuento con precio de oferta de 18.99 EUR (original: 33.99 EUR) en el siguiente enlace!
@@ -24,13 +28,13 @@ Tienes [Sanitas - SHK 18 - Coussin Chauffant - Lavable/Cordon Détachable](https
 
 Características principales:
 
+- 3 niveaux de température
+- Garantie: 2 ans
+- Contrôle électronique de la température
+- Arrêt automatique au bout de 90 minutes
+- Nettoyage facile
 - 100 W / dimensions 40 x 30 cm
 - Système de sécurité anti-surchauffe
-- Arrêt automatique au bout de 90 minutes
-- 3 niveaux de température
-- Contrôle électronique de la température
-- Garantie: 2 ans
-- Nettoyage facile
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B001NJJH38/?tag=tolees0d-21)
 

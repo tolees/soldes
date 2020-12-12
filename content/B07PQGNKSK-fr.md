@@ -3,6 +3,7 @@ layout: post
 title: 'Geomag Mechanics 762  Magnetic Motion  J al 50.01 % de descuento'
 date: 2020-12-05 15:43:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hYeJG13+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hYeJG13+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hYeJG13+L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Geomag Mechanics 762  Magnetic Motion  Jeu de Construction  146 Pièces'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07PQGNKSK/?tag=tolees0d-21'
+descuento: '50.01'
+titulo: 'Geomag Mechanics 762  Magnetic Motion  J'
 ---
 
 Está [Geomag Mechanics 762  Magnetic Motion  Jeu de Construction  146 Pièces](https://www.amazon.fr/dp/B07PQGNKSK/?tag=tolees0d-21) con 50.01 de descuento por 29.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Geomag Mechanics 762  Magnetic Motion  J](https://m.media-amazon.com/images/I/51hYeJG13+L._SL200_.jpg)](https://www.amazon.fr/dp/B07PQGNKSK/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07PQGNKSK/?tag=tolees0d-21)
 

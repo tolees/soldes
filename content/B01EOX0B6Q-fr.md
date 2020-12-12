@@ -3,6 +3,7 @@ layout: post
 title: 'Helly Hansen HH Dubliner – Veste de spor al 60.01 % de descuento'
 date: 2020-12-09 10:13:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ppTipWpNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ppTipWpNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ppTipWpNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 120.0 EUR
 inStock: true
 prodname: 'Helly Hansen HH Dubliner – Veste de sport zippée et imperméable pour homme  pour utilisation quotidienne – Idéale pour les activités citadines et outdoor  à la mer comme à la montagne'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01EOX0B6Q/?tag=tolees0d-21'
+descuento: '60.01'
+titulo: 'Helly Hansen HH Dubliner – Veste de spor'
 ---
 
 Está [Helly Hansen HH Dubliner – Veste de sport zippée et imperméable pour homme  pour utilisation quotidienne – Idéale pour les activités citadines et outdoor  à la mer comme à la montagne](https://www.amazon.fr/dp/B01EOX0B6Q/?tag=tolees0d-21) con 60.01 de descuento por 47.99 EUR (original: 120.0 EUR) en el siguiente enlace!
 
 [![Helly Hansen HH Dubliner – Veste de spor](https://m.media-amazon.com/images/I/41ppTipWpNL._SL200_.jpg)](https://www.amazon.fr/dp/B01EOX0B6Q/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01EOX0B6Q/?tag=tolees0d-21)
 

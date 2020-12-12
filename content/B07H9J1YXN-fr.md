@@ -3,6 +3,7 @@ layout: post
 title: 'Carte mémoire SDXC SanDisk Extreme PRO 6 al 37.11 % de descuento'
 date: 2020-11-30 06:50:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 30.99 EUR
 inStock: true
 prodname: 'Carte mémoire SDXC SanDisk Extreme PRO 64 Go jusqu à 170 Mo/s  Classe 10  U3  V30  4K UHD'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07H9J1YXN/?tag=tolees0d-21'
+descuento: '37.11'
+titulo: 'Carte mémoire SDXC SanDisk Extreme PRO 6'
 ---
 
 Ahora mismo tienes [Carte mémoire SDXC SanDisk Extreme PRO 64 Go jusqu à 170 Mo/s  Classe 10  U3  V30  4K UHD](https://www.amazon.fr/dp/B07H9J1YXN/?tag=tolees0d-21) a 19.49 EUR (original: 30.99 EUR) (37.11 %  de descuento) en el siguiente enlace!
 
 [![Carte mémoire SDXC SanDisk Extreme PRO 6](https://m.media-amazon.com/images/I/51eQxcYpAgL._SL200_.jpg)](https://www.amazon.fr/dp/B07H9J1YXN/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07H9J1YXN/?tag=tolees0d-21)
 

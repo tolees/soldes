@@ -3,6 +3,7 @@ layout: post
 title: 'Watch dogs Legion - Edition Limited Edit al 35.72 % de descuento'
 date: 2020-11-23 16:45:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Kw+kSjA-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Kw+kSjA-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Kw+kSjA-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Watch dogs Legion - Edition Limited Edition'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07SDPLV9S/?tag=tolees0d-21'
+descuento: '35.72'
+titulo: 'Watch dogs Legion - Edition Limited Edit'
 ---
 
 Está [Watch dogs Legion - Edition Limited Edition](https://www.amazon.fr/dp/B07SDPLV9S/?tag=tolees0d-21) con 35.72 de descuento por 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!
 
 [![Watch dogs Legion - Edition Limited Edit](https://m.media-amazon.com/images/I/51Kw+kSjA-L._SL200_.jpg)](https://www.amazon.fr/dp/B07SDPLV9S/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07SDPLV9S/?tag=tolees0d-21)
 

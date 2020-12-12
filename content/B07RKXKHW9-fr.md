@@ -3,6 +3,7 @@ layout: post
 title: 'Garmin - Dash Cam 66W - Caméra de condui al 32.00 % de descuento'
 date: 2020-11-24 06:38:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31zlFqjM3DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zlFqjM3DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31zlFqjM3DL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 249.99 EUR
 inStock: true
 prodname: 'Garmin - Dash Cam 66W - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie - Grand angle 180°'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07RKXKHW9/?tag=tolees0d-21'
+descuento: '32.00'
+titulo: 'Garmin - Dash Cam 66W - Caméra de condui'
 ---
 
 Está [Garmin - Dash Cam 66W - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie - Grand angle 180°](https://www.amazon.fr/dp/B07RKXKHW9/?tag=tolees0d-21) con 32.00 de descuento por 169.99 EUR (original: 249.99 EUR) en el siguiente enlace!
 
 [![Garmin - Dash Cam 66W - Caméra de condui](https://m.media-amazon.com/images/I/31zlFqjM3DL._SL200_.jpg)](https://www.amazon.fr/dp/B07RKXKHW9/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RKXKHW9/?tag=tolees0d-21)
 

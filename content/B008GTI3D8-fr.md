@@ -3,6 +3,7 @@ layout: post
 title: 'MTD 196-749A678 obturateur mulching sans al 46.70 % de descuento'
 date: 2020-11-06 12:43:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/51SWfTEL7ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SWfTEL7ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51SWfTEL7ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.0 EUR
 inStock: true
 prodname: 'MTD 196-749A678 obturateur mulching sans lames  Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B008GTI3D8/?tag=tolees0d-21'
+descuento: '46.70'
+titulo: 'MTD 196-749A678 obturateur mulching sans'
 ---
 
 Está [MTD 196-749A678 obturateur mulching sans lames  Noir](https://www.amazon.fr/dp/B008GTI3D8/?tag=tolees0d-21) con 46.70 de descuento por 52.77 EUR (original: 99.0 EUR) en el siguiente enlace!
 
 [![MTD 196-749A678 obturateur mulching sans](https://m.media-amazon.com/images/I/51SWfTEL7ZL._SL200_.jpg)](https://www.amazon.fr/dp/B008GTI3D8/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B008GTI3D8/?tag=tolees0d-21)
 

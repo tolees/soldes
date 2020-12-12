@@ -3,6 +3,7 @@ layout: post
 title: 'Azden AZEX503I Microphone omnidirectionn al 33.90 % de descuento'
 date: 2020-11-03 18:44:29
 thumbnailImage: 'https://m.media-amazon.com/images/I/41yCkt3Rj2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41yCkt3Rj2L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41yCkt3Rj2L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.0 EUR
 inStock: true
 prodname: 'Azden AZEX503I Microphone omnidirectionnel Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00KA4QFL4/?tag=tolees0d-21'
+descuento: '33.90'
+titulo: 'Azden AZEX503I Microphone omnidirectionn'
 ---
 
 Ahora mismo tienes [Azden AZEX503I Microphone omnidirectionnel Noir](https://www.amazon.fr/dp/B00KA4QFL4/?tag=tolees0d-21) a 39.0 EUR (original: 59.0 EUR) (33.90 %  de descuento) en el siguiente enlace!
 
 [![Azden AZEX503I Microphone omnidirectionn](https://m.media-amazon.com/images/I/41yCkt3Rj2L._SL200_.jpg)](https://www.amazon.fr/dp/B00KA4QFL4/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B00KA4QFL4/?tag=tolees0d-21)
 

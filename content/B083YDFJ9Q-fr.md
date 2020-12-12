@@ -3,6 +3,7 @@ layout: post
 title: 'Kipling Asseni Cabas  49 cm  20 Litres   al 38.47 % de descuento'
 date: 2020-10-27 07:17:49
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DaF9q2y-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DaF9q2y-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DaF9q2y-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Kipling Asseni Cabas  49 cm  20 Litres  Green Moss'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B083YDFJ9Q/?tag=tolees0d-21'
+descuento: '38.47'
+titulo: 'Kipling Asseni Cabas  49 cm  20 Litres  '
 ---
 
 Ahora mismo tienes [Kipling Asseni Cabas  49 cm  20 Litres  Green Moss](https://www.amazon.fr/dp/B083YDFJ9Q/?tag=tolees0d-21) a 52.3 EUR (original: 85.0 EUR) (38.47 %  de descuento) en el siguiente enlace!
 
 [![Kipling Asseni Cabas  49 cm  20 Litres  ](https://m.media-amazon.com/images/I/41DaF9q2y-L._SL200_.jpg)](https://www.amazon.fr/dp/B083YDFJ9Q/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B083YDFJ9Q/?tag=tolees0d-21)
 

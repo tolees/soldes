@@ -3,6 +3,7 @@ layout: post
 title: 'Capcom Home Arcade al 45.20 % de descuento'
 date: 2020-11-26 18:14:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/41t8rYkgonL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41t8rYkgonL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41t8rYkgonL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 229.99 EUR
 inStock: true
 prodname: 'Capcom Home Arcade'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07RLHNDQK/?tag=tolees0d-21'
+descuento: '45.20'
+titulo: 'Capcom Home Arcade'
 ---
 
 Está [Capcom Home Arcade](https://www.amazon.fr/dp/B07RLHNDQK/?tag=tolees0d-21) con 45.20 de descuento por 126.03 EUR (original: 229.99 EUR) en el siguiente enlace!
 
 [![Capcom Home Arcade](https://m.media-amazon.com/images/I/41t8rYkgonL._SL200_.jpg)](https://www.amazon.fr/dp/B07RLHNDQK/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RLHNDQK/?tag=tolees0d-21)
 

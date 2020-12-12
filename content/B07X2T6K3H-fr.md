@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 33.34 % en Sony WH-H910N Casque Bluetooth sans fil '
 date: 2020-10-14 10:22:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/31PujI2lo9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31PujI2lo9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31PujI2lo9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 300.0 EUR
 inStock: true
 prodname: 'Sony WH-H910N Casque Bluetooth sans fil à réduction de bruit hear compatible avec Alexa et Google Assistant - Vert'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07X2T6K3H/?tag=tolees0d-21'
+descuento: '33.34'
+titulo: 'Sony WH-H910N Casque Bluetooth sans fil '
 ---
 
 Tienes [Sony WH-H910N Casque Bluetooth sans fil à réduction de bruit hear compatible avec Alexa et Google Assistant - Vert](https://www.amazon.fr/dp/B07X2T6K3H/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 199.99 EUR (original: 300.0 EUR) en el siguiente enlace!
 
 [![Sony WH-H910N Casque Bluetooth sans fil ](https://m.media-amazon.com/images/I/31PujI2lo9L._SL200_.jpg)](https://www.amazon.fr/dp/B07X2T6K3H/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07X2T6K3H/?tag=tolees0d-21)
 

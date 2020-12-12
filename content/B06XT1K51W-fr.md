@@ -3,6 +3,7 @@ layout: post
 title: 'WisFox Landing Pad Drone Tapis D’atterri al 27.53 % de descuento'
 date: 2020-10-13 01:42:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/511gFa1VeLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511gFa1VeLL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/511gFa1VeLL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 26.15 EUR
 inStock: true
 prodname: 'WisFox Landing Pad Drone Tapis D’atterrissage Pliable et étanche Diamètre 75 cm pour DJI Mavic'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B06XT1K51W/?tag=tolees0d-21'
+descuento: '27.53'
+titulo: 'WisFox Landing Pad Drone Tapis D’atterri'
 ---
 
 Está [WisFox Landing Pad Drone Tapis D’atterrissage Pliable et étanche Diamètre 75 cm pour DJI Mavic](https://www.amazon.fr/dp/B06XT1K51W/?tag=tolees0d-21) con 27.53 de descuento por 18.95 EUR (original: 26.15 EUR) en el siguiente enlace!
 
 [![WisFox Landing Pad Drone Tapis D’atterri](https://m.media-amazon.com/images/I/511gFa1VeLL._SL200_.jpg)](https://www.amazon.fr/dp/B06XT1K51W/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B06XT1K51W/?tag=tolees0d-21)
 

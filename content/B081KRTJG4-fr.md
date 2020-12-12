@@ -3,6 +3,7 @@ layout: post
 title: 'Les Damnes - Mediabook DVD + Blu-Ray + L al 34.76 % de descuento'
 date: 2020-10-27 07:17:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/51AaPnssqvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AaPnssqvL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51AaPnssqvL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.03 EUR
 inStock: true
 prodname: 'Les Damnes - Mediabook DVD + Blu-Ray + Livret [Édition Collector Blu-ray + DVD + Livret]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B081KRTJG4/?tag=tolees0d-21'
+descuento: '34.76'
+titulo: 'Les Damnes - Mediabook DVD + Blu-Ray + L'
 ---
 
 Está [Les Damnes - Mediabook DVD + Blu-Ray + Livret [Édition Collector Blu-ray + DVD + Livret]](https://www.amazon.fr/dp/B081KRTJG4/?tag=tolees0d-21) con 34.76 de descuento por 16.33 EUR (original: 25.03 EUR) en el siguiente enlace!
 
 [![Les Damnes - Mediabook DVD + Blu-Ray + L](https://m.media-amazon.com/images/I/51AaPnssqvL._SL200_.jpg)](https://www.amazon.fr/dp/B081KRTJG4/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B081KRTJG4/?tag=tolees0d-21)
 

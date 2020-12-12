@@ -3,6 +3,7 @@ layout: post
 title: 'L  île au trésor al 55.18 % de descuento'
 date: 2020-12-05 18:40:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/61YlGaO64xL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/61YlGaO64xL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/61YlGaO64xL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 20.06 EUR
 inStock: true
 prodname: 'L  île au trésor'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00MEEP4AQ/?tag=tolees0d-21'
+descuento: '55.18'
+titulo: 'L  île au trésor'
 ---
 
 Está [L  île au trésor](https://www.amazon.fr/dp/B00MEEP4AQ/?tag=tolees0d-21) con 55.18 de descuento por 8.99 EUR (original: 20.06 EUR) en el siguiente enlace!
 
 [![L  île au trésor](https://m.media-amazon.com/images/I/61YlGaO64xL._SL200_.jpg)](https://www.amazon.fr/dp/B00MEEP4AQ/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00MEEP4AQ/?tag=tolees0d-21)
 

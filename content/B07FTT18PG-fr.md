@@ -3,6 +3,7 @@ layout: post
 title: 'MBT Modena Slip on M  Sneakers Basses Ho al 45.41 % de descuento'
 date: 2020-11-09 08:27:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41reomOaSEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41reomOaSEL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41reomOaSEL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 109.0 EUR
 inStock: true
 prodname: 'MBT Modena Slip on M  Sneakers Basses Homme  Bleu  Navy 12y   40.5 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FTT18PG/?tag=tolees0d-21'
+descuento: '45.41'
+titulo: 'MBT Modena Slip on M  Sneakers Basses Ho'
 ---
 
 Está [MBT Modena Slip on M  Sneakers Basses Homme  Bleu  Navy 12y   40.5 EU](https://www.amazon.fr/dp/B07FTT18PG/?tag=tolees0d-21) con 45.41 de descuento por 59.5 EUR (original: 109.0 EUR) en el siguiente enlace!
 
 [![MBT Modena Slip on M  Sneakers Basses Ho](https://m.media-amazon.com/images/I/41reomOaSEL._SL200_.jpg)](https://www.amazon.fr/dp/B07FTT18PG/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FTT18PG/?tag=tolees0d-21)
 

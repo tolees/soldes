@@ -3,6 +3,7 @@ layout: post
 title: 'BRIKSMAX Kit de LED pour Lego Ideas Gran al 25.00 % de descuento'
 date: 2020-10-30 17:26:15
 thumbnailImage: 'https://m.media-amazon.com/images/I/51UmrG1F7ZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51UmrG1F7ZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51UmrG1F7ZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'BRIKSMAX Kit de LED pour Lego Ideas Grand Piano Compatible avec la Maquette Lego 21323  La Maquette de Construction n est Pas Incluse'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21'
+descuento: '25.00'
+titulo: 'BRIKSMAX Kit de LED pour Lego Ideas Gran'
 ---
 
 Está [BRIKSMAX Kit de LED pour Lego Ideas Grand Piano Compatible avec la Maquette Lego 21323  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!
 
 [![BRIKSMAX Kit de LED pour Lego Ideas Gran](https://m.media-amazon.com/images/I/51UmrG1F7ZL._SL200_.jpg)](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21)
 

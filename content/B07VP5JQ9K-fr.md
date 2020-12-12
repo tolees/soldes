@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 56.26 % en Kaspersky Total Security 2021  5 Postes '
 date: 2020-12-11 21:03:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41JBd7v2pUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41JBd7v2pUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41JBd7v2pUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 79.99 EUR
 inStock: true
 prodname: 'Kaspersky Total Security 2021  5 Postes / 1 An '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07VP5JQ9K/?tag=tolees0d-21'
+descuento: '56.26'
+titulo: 'Kaspersky Total Security 2021  5 Postes '
 ---
 
 Tienes [Kaspersky Total Security 2021  5 Postes / 1 An ](https://www.amazon.fr/dp/B07VP5JQ9K/?tag=tolees0d-21) con un 56.26 % de descuento con precio de oferta de 34.99 EUR (original: 79.99 EUR) en el siguiente enlace!

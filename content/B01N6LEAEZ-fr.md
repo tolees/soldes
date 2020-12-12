@@ -3,6 +3,7 @@ layout: post
 title: 'UMBRA Hub Mirror. Miroir mural rond Hub. al 28.32 % de descuento'
 date: 2020-10-22 11:51:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hVs3BZ8KL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hVs3BZ8KL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hVs3BZ8KL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 120.02 EUR
 inStock: true
 prodname: 'UMBRA Hub Mirror. Miroir mural rond Hub. Contour en caoutchouc noir. Diamètre 61cm  épaisseur 2cm.'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01N6LEAEZ/?tag=tolees0d-21'
+descuento: '28.32'
+titulo: 'UMBRA Hub Mirror. Miroir mural rond Hub.'
 ---
 
 Está [UMBRA Hub Mirror. Miroir mural rond Hub. Contour en caoutchouc noir. Diamètre 61cm  épaisseur 2cm.](https://www.amazon.fr/dp/B01N6LEAEZ/?tag=tolees0d-21) con 28.32 de descuento por 86.03 EUR (original: 120.02 EUR) en el siguiente enlace!
 
 [![UMBRA Hub Mirror. Miroir mural rond Hub.](https://m.media-amazon.com/images/I/41hVs3BZ8KL._SL200_.jpg)](https://www.amazon.fr/dp/B01N6LEAEZ/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01N6LEAEZ/?tag=tolees0d-21)
 

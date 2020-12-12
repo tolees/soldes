@@ -3,6 +3,7 @@ layout: post
 title: 'Disque Dur Externe 1to Type C USB3.1 pou al 57.91 % de descuento'
 date: 2020-12-03 19:21:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/31KD5NADRlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31KD5NADRlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31KD5NADRlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 114.01 EUR
 inStock: true
 prodname: 'Disque Dur Externe 1to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Noir '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08NV4GBN7/?tag=tolees0d-21'
+descuento: '57.91'
+titulo: 'Disque Dur Externe 1to Type C USB3.1 pou'
 ---
 
 Está [Disque Dur Externe 1to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Noir ](https://www.amazon.fr/dp/B08NV4GBN7/?tag=tolees0d-21) con 57.91 de descuento por 47.99 EUR (original: 114.01 EUR) en el siguiente enlace!
 
 [![Disque Dur Externe 1to Type C USB3.1 pou](https://m.media-amazon.com/images/I/31KD5NADRlL._SL200_.jpg)](https://www.amazon.fr/dp/B08NV4GBN7/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08NV4GBN7/?tag=tolees0d-21)
 

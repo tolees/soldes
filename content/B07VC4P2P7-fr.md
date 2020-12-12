@@ -28,8 +28,8 @@ Ahora mismo tienes [Samsung Clear View Cover Rouge Galaxy Note 10](https://www.a
 
 Características:
 
-- included_components; Etui folio
 - Appuyez et faites glisser votre doigt pour contrôler votre téléphone, sans même ouvrir létui. Un UX dédié vous permet de répondre aux appels, de contrôler la musique et même de voir des informations importantes comme la date et lheure
+- included_components; Etui folio
 
 [Visítala!!!](https://www.amazon.fr/dp/B07VC4P2P7/?tag=tolees0d-21)
 

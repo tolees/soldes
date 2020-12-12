@@ -3,6 +3,7 @@ layout: post
 title: 'Kai Europe Shun / DM-0706 Couteau 20 cm al 37.58 % de descuento'
 date: 2020-11-25 16:48:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31wMQnVkL1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31wMQnVkL1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31wMQnVkL1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 200.09 EUR
 inStock: true
 prodname: 'Kai Europe Shun / DM-0706 Couteau 20 cm'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0000Y7KNQ/?tag=tolees0d-21'
+descuento: '37.58'
+titulo: 'Kai Europe Shun / DM-0706 Couteau 20 cm'
 ---
 
 Está [Kai Europe Shun / DM-0706 Couteau 20 cm](https://www.amazon.fr/dp/B0000Y7KNQ/?tag=tolees0d-21) con 37.58 de descuento por 124.9 EUR (original: 200.09 EUR) en el siguiente enlace!
 
 [![Kai Europe Shun / DM-0706 Couteau 20 cm](https://m.media-amazon.com/images/I/31wMQnVkL1L._SL200_.jpg)](https://www.amazon.fr/dp/B0000Y7KNQ/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0000Y7KNQ/?tag=tolees0d-21)
 

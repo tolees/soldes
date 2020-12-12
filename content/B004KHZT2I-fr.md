@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.83 % en Exacompta - Réf. 50000E - Paquet 50 chem'
 date: 2020-10-30 02:30:00
 thumbnailImage: 'https://m.media-amazon.com/images/I/417Efq4qe6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/417Efq4qe6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/417Efq4qe6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.59 EUR
 inStock: true
 prodname: 'Exacompta - Réf. 50000E - Paquet 50 chemises à fenetre Forever - 22x31cm - Couleurs assorties'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B004KHZT2I/?tag=tolees0d-21'
+descuento: '43.83'
+titulo: 'Exacompta - Réf. 50000E - Paquet 50 chem'
 ---
 
 Tienes [Exacompta - Réf. 50000E - Paquet 50 chemises à fenetre Forever - 22x31cm - Couleurs assorties](https://www.amazon.fr/dp/B004KHZT2I/?tag=tolees0d-21) con un 43.83 % de descuento con precio de oferta de 9.88 EUR (original: 17.59 EUR) en el siguiente enlace!
 
 [![Exacompta - Réf. 50000E - Paquet 50 chem](https://m.media-amazon.com/images/I/417Efq4qe6L._SL200_.jpg)](https://www.amazon.fr/dp/B004KHZT2I/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B004KHZT2I/?tag=tolees0d-21)
 

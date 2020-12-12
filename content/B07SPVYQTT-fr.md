@@ -3,6 +3,7 @@ layout: post
 title: 'Medela Tire Lait Électrique Simple Pompa al 30.00 % de descuento'
 date: 2020-11-24 14:53:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/315jcCBbhoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315jcCBbhoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/315jcCBbhoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 143.89 EUR
 inStock: true
 prodname: 'Medela Tire Lait Électrique Simple Pompage Swing Flex  S Adapte au Sein et Améliore L Écoulement de Lait  Pivote à 360°'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07SPVYQTT/?tag=tolees0d-21'
+descuento: '30.00'
+titulo: 'Medela Tire Lait Électrique Simple Pompa'
 ---
 
 Está [Medela Tire Lait Électrique Simple Pompage Swing Flex  S Adapte au Sein et Améliore L Écoulement de Lait  Pivote à 360°](https://www.amazon.fr/dp/B07SPVYQTT/?tag=tolees0d-21) con 30.00 de descuento por 100.72 EUR (original: 143.89 EUR) en el siguiente enlace!
 
 [![Medela Tire Lait Électrique Simple Pompa](https://m.media-amazon.com/images/I/315jcCBbhoL._SL200_.jpg)](https://www.amazon.fr/dp/B07SPVYQTT/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07SPVYQTT/?tag=tolees0d-21)
 

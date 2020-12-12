@@ -3,6 +3,7 @@ layout: post
 title: 'climatiseur mobile  clim mobile  climati al 58.06 % de descuento'
 date: 2020-11-21 20:18:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51O9lQHrzXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51O9lQHrzXL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51O9lQHrzXL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'climatiseur mobile  clim mobile  climatiseur portable  Moyen rapide et facile de refroidir un espace personnel  adapté au chevet  au bureau et à la salle d étude. Réglage du niveau de vent  clé USB'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TS1HMGB/?tag=tolees0d-21'
+descuento: '58.06'
+titulo: 'climatiseur mobile  clim mobile  climati'
 ---
 
 Ahora mismo tienes [climatiseur mobile  clim mobile  climatiseur portable  Moyen rapide et facile de refroidir un espace personnel  adapté au chevet  au bureau et à la salle d étude. Réglage du niveau de vent  clé USB](https://www.amazon.fr/dp/B07TS1HMGB/?tag=tolees0d-21) a 25.16 EUR (original: 59.99 EUR) (58.06 %  de descuento) en el siguiente enlace!
 
 [![climatiseur mobile  clim mobile  climati](https://m.media-amazon.com/images/I/51O9lQHrzXL._SL200_.jpg)](https://www.amazon.fr/dp/B07TS1HMGB/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TS1HMGB/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'WEB2O TIPI pour Enfants H. 160cm  Gris  al 50.06 % de descuento'
 date: 2020-12-08 12:44:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51wBb9dHNgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wBb9dHNgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51wBb9dHNgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 79.9 EUR
 inStock: true
 prodname: 'WEB2O TIPI pour Enfants H. 160cm  Gris '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B073DBWPTT/?tag=tolees0d-21'
+descuento: '50.06'
+titulo: 'WEB2O TIPI pour Enfants H. 160cm  Gris '
 ---
 
 Está [WEB2O TIPI pour Enfants H. 160cm  Gris ](https://www.amazon.fr/dp/B073DBWPTT/?tag=tolees0d-21) con 50.06 de descuento por 39.9 EUR (original: 79.9 EUR) en el siguiente enlace!
 
 [![WEB2O TIPI pour Enfants H. 160cm  Gris ](https://m.media-amazon.com/images/I/51wBb9dHNgL._SL200_.jpg)](https://www.amazon.fr/dp/B073DBWPTT/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B073DBWPTT/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Axcone Homme Femme Air Baskets Chaussure al 25.54 % de descuento'
 date: 2020-12-07 08:58:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41dZevN9VYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dZevN9VYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41dZevN9VYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 46.99 EUR
 inStock: true
 prodname: 'Axcone Homme Femme Air Baskets Chaussures Outdoor Running Gym Fitness Sport Sneakers Style Running Multicolore Respirante- 36EU-46EU  Blanc Noir  38 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07GTGY4Q2/?tag=tolees0d-21'
+descuento: '25.54'
+titulo: 'Axcone Homme Femme Air Baskets Chaussure'
 ---
 
 Está [Axcone Homme Femme Air Baskets Chaussures Outdoor Running Gym Fitness Sport Sneakers Style Running Multicolore Respirante- 36EU-46EU  Blanc Noir  38 EU](https://www.amazon.fr/dp/B07GTGY4Q2/?tag=tolees0d-21) con 25.54 de descuento por 34.99 EUR (original: 46.99 EUR) en el siguiente enlace!
 
 [![Axcone Homme Femme Air Baskets Chaussure](https://m.media-amazon.com/images/I/41dZevN9VYL._SL200_.jpg)](https://www.amazon.fr/dp/B07GTGY4Q2/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07GTGY4Q2/?tag=tolees0d-21)
 

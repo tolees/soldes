@@ -3,6 +3,7 @@ layout: post
 title: 'Manettes pour Switch  EasySMX Manette po al 64.01 % de descuento'
 date: 2020-11-25 11:05:33
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Go1C-ciQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Go1C-ciQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Go1C-ciQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Manettes pour Switch  EasySMX Manette pour Nintendo Switch  Manette pour Switch sans Fil Bluetooth  6 Axes Manette pour Switch Pro avec Double Moteur pour Nintendo Switch Pro/Lite et PC  Rose'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08LGBJ2SK/?tag=tolees0d-21'
+descuento: '64.01'
+titulo: 'Manettes pour Switch  EasySMX Manette po'
 ---
 
 Está [Manettes pour Switch  EasySMX Manette pour Nintendo Switch  Manette pour Switch sans Fil Bluetooth  6 Axes Manette pour Switch Pro avec Double Moteur pour Nintendo Switch Pro/Lite et PC  Rose](https://www.amazon.fr/dp/B08LGBJ2SK/?tag=tolees0d-21) con 64.01 de descuento por 35.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Manettes pour Switch  EasySMX Manette po](https://m.media-amazon.com/images/I/41Go1C-ciQL._SL200_.jpg)](https://www.amazon.fr/dp/B08LGBJ2SK/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08LGBJ2SK/?tag=tolees0d-21)
 

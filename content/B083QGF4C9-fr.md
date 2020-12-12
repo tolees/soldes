@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 49.77 % en 17Tek STEM 13 en 1 Robot solaire éducati'
 date: 2020-12-06 14:43:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/516yWR1CElL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516yWR1CElL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/516yWR1CElL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 46.37 EUR
 inStock: true
 prodname: '17Tek STEM 13 en 1 Robot solaire éducatif – 190 pièces DIY Construction Science Expérience Science Kit Alimenté par le Soleil'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B083QGF4C9/?tag=tolees0d-21'
+descuento: '49.77'
+titulo: '17Tek STEM 13 en 1 Robot solaire éducati'
 ---
 
 Tienes [17Tek STEM 13 en 1 Robot solaire éducatif – 190 pièces DIY Construction Science Expérience Science Kit Alimenté par le Soleil](https://www.amazon.fr/dp/B083QGF4C9/?tag=tolees0d-21) con un 49.77 % de descuento con precio de oferta de 23.29 EUR (original: 46.37 EUR) en el siguiente enlace!
 
 [![17Tek STEM 13 en 1 Robot solaire éducati](https://m.media-amazon.com/images/I/516yWR1CElL._SL200_.jpg)](https://www.amazon.fr/dp/B083QGF4C9/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B083QGF4C9/?tag=tolees0d-21)
 

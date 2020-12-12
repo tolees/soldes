@@ -3,6 +3,7 @@ layout: post
 title: 'Coffret intégrale Sherlock Holmes al 52.90 % de descuento'
 date: 2020-10-30 15:33:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Jqe17f3qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Jqe17f3qL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Jqe17f3qL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 40.13 EUR
 inStock: true
 prodname: 'Coffret intégrale Sherlock Holmes'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B019NQMD10/?tag=tolees0d-21'
+descuento: '52.90'
+titulo: 'Coffret intégrale Sherlock Holmes'
 ---
 
 Ahora mismo tienes [Coffret intégrale Sherlock Holmes](https://www.amazon.fr/dp/B019NQMD10/?tag=tolees0d-21) a 18.9 EUR (original: 40.13 EUR) (52.90 %  de descuento) en el siguiente enlace!
 
 [![Coffret intégrale Sherlock Holmes](https://m.media-amazon.com/images/I/51Jqe17f3qL._SL200_.jpg)](https://www.amazon.fr/dp/B019NQMD10/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B019NQMD10/?tag=tolees0d-21)
 

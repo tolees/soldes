@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 42.91 % en Lego Star Wars : le Réveil de la Force'
 date: 2020-12-02 12:56:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51Xl+jzZFhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Xl+jzZFhL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51Xl+jzZFhL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Lego Star Wars : le Réveil de la Force'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01BEAO2AS/?tag=tolees0d-21'
+descuento: '42.91'
+titulo: 'Lego Star Wars : le Réveil de la Force'
 ---
 
 Tienes [Lego Star Wars : le Réveil de la Force](https://www.amazon.fr/dp/B01BEAO2AS/?tag=tolees0d-21) con un 42.91 % de descuento con precio de oferta de 17.12 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Lego Star Wars : le Réveil de la Force](https://m.media-amazon.com/images/I/51Xl+jzZFhL._SL200_.jpg)](https://www.amazon.fr/dp/B01BEAO2AS/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01BEAO2AS/?tag=tolees0d-21)
 

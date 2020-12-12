@@ -3,6 +3,7 @@ layout: post
 title: 'Lansay - Toy Story 4- Incroyable Woody - al 75.27 % de descuento'
 date: 2020-11-09 07:29:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/416UM7ftKYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416UM7ftKYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/416UM7ftKYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Lansay - Toy Story 4- Incroyable Woody - 64431'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TZ5MB4W/?tag=tolees0d-21'
+descuento: '75.27'
+titulo: 'Lansay - Toy Story 4- Incroyable Woody -'
 ---
 
 Está [Lansay - Toy Story 4- Incroyable Woody - 64431](https://www.amazon.fr/dp/B07TZ5MB4W/?tag=tolees0d-21) con 75.27 de descuento por 24.73 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Lansay - Toy Story 4- Incroyable Woody -](https://m.media-amazon.com/images/I/416UM7ftKYL._SL200_.jpg)](https://www.amazon.fr/dp/B07TZ5MB4W/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07TZ5MB4W/?tag=tolees0d-21)
 

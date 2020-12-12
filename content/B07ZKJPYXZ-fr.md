@@ -3,6 +3,7 @@ layout: post
 title: 'ASUS - Casque Sans Fil ASUS ROG STRIX GO al 30.00 % de descuento'
 date: 2020-11-17 21:31:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/31pvVG2g3HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pvVG2g3HL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31pvVG2g3HL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'ASUS - Casque Sans Fil ASUS ROG STRIX GO 2.4 Ghz - Connexion sans fil avec USB-C - Réduction de bruit par Intelligence Artificielle - Compatible Multi-plateforme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07ZKJPYXZ/?tag=tolees0d-21'
+descuento: '30.00'
+titulo: 'ASUS - Casque Sans Fil ASUS ROG STRIX GO'
 ---
 
 Está [ASUS - Casque Sans Fil ASUS ROG STRIX GO 2.4 Ghz - Connexion sans fil avec USB-C - Réduction de bruit par Intelligence Artificielle - Compatible Multi-plateforme](https://www.amazon.fr/dp/B07ZKJPYXZ/?tag=tolees0d-21) con 30.00 de descuento por 139.99 EUR (original: 199.99 EUR) en el siguiente enlace!
 
 [![ASUS - Casque Sans Fil ASUS ROG STRIX GO](https://m.media-amazon.com/images/I/31pvVG2g3HL._SL200_.jpg)](https://www.amazon.fr/dp/B07ZKJPYXZ/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07ZKJPYXZ/?tag=tolees0d-21)
 

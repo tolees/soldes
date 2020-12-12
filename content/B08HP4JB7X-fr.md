@@ -3,6 +3,7 @@ layout: post
 title: 'IMMORTALS FENYX RISING - Limited Edition al 42.86 % de descuento'
 date: 2020-12-11 18:15:37
 thumbnailImage: 'https://m.media-amazon.com/images/I/51kSNVkKigL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51kSNVkKigL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51kSNVkKigL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'IMMORTALS FENYX RISING - Limited Edition - Version PS5 incluse'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08HP4JB7X/?tag=tolees0d-21'
+descuento: '42.86'
+titulo: 'IMMORTALS FENYX RISING - Limited Edition'
 ---
 
 Está [IMMORTALS FENYX RISING - Limited Edition - Version PS5 incluse](https://www.amazon.fr/dp/B08HP4JB7X/?tag=tolees0d-21) con 42.86 de descuento por 39.99 EUR (original: 69.99 EUR) en el siguiente enlace!
@@ -24,11 +28,11 @@ Está [IMMORTALS FENYX RISING - Limited Edition - Version PS5 incluse](https://w
 
 Principales características:
 
-- Explorez un magnifique monde ouvert
-- Affrontez des ennemis mythiques
-- Forgez votre légende
 - Surmontez des épreuves héroïques
+- Forgez votre légende
+- Affrontez des ennemis mythiques
 - Maniez les pouvoirs des dieux
+- Explorez un magnifique monde ouvert
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08HP4JB7X/?tag=tolees0d-21)
 

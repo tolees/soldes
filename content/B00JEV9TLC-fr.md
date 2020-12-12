@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 54.73 % en Rotring 800 Portemine 0.5 mm Silver Barr'
 date: 2020-11-23 02:04:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/31-I494LrqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-I494LrqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31-I494LrqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 67.0 EUR
 inStock: true
 prodname: 'Rotring 800 Portemine 0.5 mm Silver Barrel'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00JEV9TLC/?tag=tolees0d-21'
+descuento: '54.73'
+titulo: 'Rotring 800 Portemine 0.5 mm Silver Barr'
 ---
 
 Tienes [Rotring 800 Portemine 0.5 mm Silver Barrel](https://www.amazon.fr/dp/B00JEV9TLC/?tag=tolees0d-21) con un 54.73 % de descuento con precio de oferta de 30.33 EUR (original: 67.0 EUR) en el siguiente enlace!
 
 [![Rotring 800 Portemine 0.5 mm Silver Barr](https://m.media-amazon.com/images/I/31-I494LrqL._SL200_.jpg)](https://www.amazon.fr/dp/B00JEV9TLC/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00JEV9TLC/?tag=tolees0d-21)
 

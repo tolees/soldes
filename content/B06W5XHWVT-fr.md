@@ -3,6 +3,7 @@ layout: post
 title: 'Playmobil - Maison Moderne - 9266 al 27.25 % de descuento'
 date: 2020-12-11 11:58:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Playmobil - Maison Moderne - 9266'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21'
+descuento: '27.25'
+titulo: 'Playmobil - Maison Moderne - 9266'
 ---
 
 Ahora mismo tienes [Playmobil - Maison Moderne - 9266](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21) a 72.74 EUR (original: 99.99 EUR) (27.25 %  de descuento) en el siguiente enlace!

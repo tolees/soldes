@@ -3,6 +3,7 @@ layout: post
 title: 'MICHELIN 009555 Cric Hydraulique Rouleur al 31.55 % de descuento'
 date: 2020-12-11 07:03:16
 thumbnailImage: 'https://m.media-amazon.com/images/I/41O1+YpxO1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41O1+YpxO1L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41O1+YpxO1L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 149.0 EUR
 inStock: true
 prodname: 'MICHELIN 009555 Cric Hydraulique Rouleur SUV 2 25T'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FPC1DQ9/?tag=tolees0d-21'
+descuento: '31.55'
+titulo: 'MICHELIN 009555 Cric Hydraulique Rouleur'
 ---
 
 Ahora mismo tienes [MICHELIN 009555 Cric Hydraulique Rouleur SUV 2 25T](https://www.amazon.fr/dp/B07FPC1DQ9/?tag=tolees0d-21) a 101.99 EUR (original: 149.0 EUR) (31.55 %  de descuento) en el siguiente enlace!
@@ -24,11 +28,11 @@ Ahora mismo tienes [MICHELIN 009555 Cric Hydraulique Rouleur SUV 2 25T](https://
 
 Características:
 
-- Cric hydraulique maxi levage Michelin
-- Hauteur de levage: 150mm à 530mm
 - Idéal pour les SUV, 4x4, camping car, utilitaires
-- Capacité de levage: 2250 kg
+- Cric hydraulique maxi levage Michelin
 - Bras de levage Grande taille: 70cm
+- Capacité de levage: 2250 kg
+- Hauteur de levage: 150mm à 530mm
 
 [Visítala!!!](https://www.amazon.fr/dp/B07FPC1DQ9/?tag=tolees0d-21)
 

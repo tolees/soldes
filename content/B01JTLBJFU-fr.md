@@ -3,6 +3,7 @@ layout: post
 title: 'uvex Downhill 2000 FM lunettes de ski Un al 53.16 % de descuento'
 date: 2020-12-01 12:08:11
 thumbnailImage: 'https://m.media-amazon.com/images/I/41EeAqhaqUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EeAqhaqUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41EeAqhaqUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'uvex Downhill 2000 FM lunettes de ski Unisex-Adult  Black Mat  one size'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01JTLBJFU/?tag=tolees0d-21'
+descuento: '53.16'
+titulo: 'uvex Downhill 2000 FM lunettes de ski Un'
 ---
 
 Está [uvex Downhill 2000 FM lunettes de ski Unisex-Adult  Black Mat  one size](https://www.amazon.fr/dp/B01JTLBJFU/?tag=tolees0d-21) con 53.16 de descuento por 46.82 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![uvex Downhill 2000 FM lunettes de ski Un](https://m.media-amazon.com/images/I/41EeAqhaqUL._SL200_.jpg)](https://www.amazon.fr/dp/B01JTLBJFU/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01JTLBJFU/?tag=tolees0d-21)
 

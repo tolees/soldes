@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO® Movie L équipe spatiale de Benny J al 35.04 % de descuento'
 date: 2020-11-24 16:56:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rhgVBvSYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rhgVBvSYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rhgVBvSYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 9.99 EUR
 inStock: true
 prodname: 'LEGO® Movie L équipe spatiale de Benny Jeu de construction  5 Ans et Plus  68 Pièces 70841'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FP6QNPX/?tag=tolees0d-21'
+descuento: '35.04'
+titulo: 'LEGO® Movie L équipe spatiale de Benny J'
 ---
 
 Está [LEGO® Movie L équipe spatiale de Benny Jeu de construction  5 Ans et Plus  68 Pièces 70841](https://www.amazon.fr/dp/B07FP6QNPX/?tag=tolees0d-21) con 35.04 de descuento por 6.49 EUR (original: 9.99 EUR) en el siguiente enlace!
 
 [![LEGO® Movie L équipe spatiale de Benny J](https://m.media-amazon.com/images/I/51rhgVBvSYL._SL200_.jpg)](https://www.amazon.fr/dp/B07FP6QNPX/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FP6QNPX/?tag=tolees0d-21)
 

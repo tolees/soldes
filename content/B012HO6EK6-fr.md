@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.60 % en Pepe Jeans Gen Jeans  10oz STR 8dip Roya'
 date: 2020-11-30 06:35:01
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u-XlQiUKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u-XlQiUKL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u-XlQiUKL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 85.0 EUR
 inStock: true
 prodname: 'Pepe Jeans Gen Jeans  10oz STR 8dip Royal DK  26W / 30L Femme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B012HO6EK6/?tag=tolees0d-21'
+descuento: '30.60'
+titulo: 'Pepe Jeans Gen Jeans  10oz STR 8dip Roya'
 ---
 
 Tienes [Pepe Jeans Gen Jeans  10oz STR 8dip Royal DK  26W / 30L Femme](https://www.amazon.fr/dp/B012HO6EK6/?tag=tolees0d-21) con un 30.60 % de descuento con precio de oferta de 58.99 EUR (original: 85.0 EUR) en el siguiente enlace!
 
 [![Pepe Jeans Gen Jeans  10oz STR 8dip Roya](https://m.media-amazon.com/images/I/41u-XlQiUKL._SL200_.jpg)](https://www.amazon.fr/dp/B012HO6EK6/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B012HO6EK6/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'BRIKSMAX Kit de LED pour Lego Architectu al 50.00 % de descuento'
 date: 2020-12-09 03:59:53
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZywahHTbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZywahHTbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZywahHTbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.98 EUR
 inStock: true
 prodname: 'BRIKSMAX Kit de LED pour Lego Architecture New York City  Compatible avec la Maquette Lego 21028  La Maquette de Construction n est Pas Incluse'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TVNZBCL/?tag=tolees0d-21'
+descuento: '50.00'
+titulo: 'BRIKSMAX Kit de LED pour Lego Architectu'
 ---
 
 Está [BRIKSMAX Kit de LED pour Lego Architecture New York City  Compatible avec la Maquette Lego 21028  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B07TVNZBCL/?tag=tolees0d-21) con 50.00 de descuento por 34.99 EUR (original: 69.98 EUR) en el siguiente enlace!
 
 [![BRIKSMAX Kit de LED pour Lego Architectu](https://m.media-amazon.com/images/I/41ZywahHTbL._SL200_.jpg)](https://www.amazon.fr/dp/B07TVNZBCL/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07TVNZBCL/?tag=tolees0d-21)
 

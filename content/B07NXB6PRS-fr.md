@@ -3,6 +3,7 @@ layout: post
 title: 'Laser Lignes Bosch Quigo Green Set  Port al 33.00 % de descuento'
 date: 2020-12-02 22:43:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Z0gnPUagL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Z0gnPUagL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Z0gnPUagL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Laser Lignes Bosch Quigo Green Set  Portée 12m  livré avec trépied  2 piles 1 5 AAA '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07NXB6PRS/?tag=tolees0d-21'
+descuento: '33.00'
+titulo: 'Laser Lignes Bosch Quigo Green Set  Port'
 ---
 
 Está [Laser Lignes Bosch Quigo Green Set  Portée 12m  livré avec trépied  2 piles 1 5 AAA ](https://www.amazon.fr/dp/B07NXB6PRS/?tag=tolees0d-21) con 33.00 de descuento por 66.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Laser Lignes Bosch Quigo Green Set  Port](https://m.media-amazon.com/images/I/41Z0gnPUagL._SL200_.jpg)](https://www.amazon.fr/dp/B07NXB6PRS/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NXB6PRS/?tag=tolees0d-21)
 

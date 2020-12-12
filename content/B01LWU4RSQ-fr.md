@@ -3,6 +3,7 @@ layout: post
 title: 'DeWalt DCK795S2T-QW Perceuse visseuse pe al 30.41 % de descuento'
 date: 2020-12-04 09:43:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/517HkygEHBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517HkygEHBL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517HkygEHBL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 218.4 EUR
 inStock: true
 prodname: 'DeWalt DCK795S2T-QW Perceuse visseuse percussion compact 18V XR/ 1  5Ah avec malette TSTAK et accessoires'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01LWU4RSQ/?tag=tolees0d-21'
+descuento: '30.41'
+titulo: 'DeWalt DCK795S2T-QW Perceuse visseuse pe'
 ---
 
 Ahora mismo tienes [DeWalt DCK795S2T-QW Perceuse visseuse percussion compact 18V XR/ 1  5Ah avec malette TSTAK et accessoires](https://www.amazon.fr/dp/B01LWU4RSQ/?tag=tolees0d-21) a 151.99 EUR (original: 218.4 EUR) (30.41 %  de descuento) en el siguiente enlace!
 
 [![DeWalt DCK795S2T-QW Perceuse visseuse pe](https://m.media-amazon.com/images/I/517HkygEHBL._SL200_.jpg)](https://www.amazon.fr/dp/B01LWU4RSQ/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B01LWU4RSQ/?tag=tolees0d-21)
 

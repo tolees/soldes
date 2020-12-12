@@ -3,6 +3,7 @@ layout: post
 title: 'U2 : go HOME  Live From Slane Castle Ire al 30.66 % de descuento'
 date: 2020-11-21 05:12:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ypgQTB9tL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ypgQTB9tL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ypgQTB9tL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.98 EUR
 inStock: true
 prodname: 'U2 : go HOME  Live From Slane Castle Ireland'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0007DDPWK/?tag=tolees0d-21'
+descuento: '30.66'
+titulo: 'U2 : go HOME  Live From Slane Castle Ire'
 ---
 
 Está [U2 : go HOME  Live From Slane Castle Ireland](https://www.amazon.fr/dp/B0007DDPWK/?tag=tolees0d-21) con 30.66 de descuento por 9.0 EUR (original: 12.98 EUR) en el siguiente enlace!
 
 [![U2 : go HOME  Live From Slane Castle Ire](https://m.media-amazon.com/images/I/51ypgQTB9tL._SL200_.jpg)](https://www.amazon.fr/dp/B0007DDPWK/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0007DDPWK/?tag=tolees0d-21)
 

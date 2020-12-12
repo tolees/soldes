@@ -3,6 +3,7 @@ layout: post
 title: 'Yes Featuring Jon Anderson  Trevor Rabin al 44.47 % de descuento'
 date: 2020-10-14 10:23:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/51e-mUkIXiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51e-mUkIXiL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51e-mUkIXiL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 17.99 EUR
 inStock: true
 prodname: 'Yes Featuring Jon Anderson  Trevor Rabin  Rick Wakeman Live At The Apollo [Blu-ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07DV8WT5Z/?tag=tolees0d-21'
+descuento: '44.47'
+titulo: 'Yes Featuring Jon Anderson  Trevor Rabin'
 ---
 
 Ahora mismo tienes [Yes Featuring Jon Anderson  Trevor Rabin  Rick Wakeman Live At The Apollo [Blu-ray]](https://www.amazon.fr/dp/B07DV8WT5Z/?tag=tolees0d-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!
 
 [![Yes Featuring Jon Anderson  Trevor Rabin](https://m.media-amazon.com/images/I/51e-mUkIXiL._SL200_.jpg)](https://www.amazon.fr/dp/B07DV8WT5Z/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DV8WT5Z/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.61 % en Russell Hobbs Moulin à Café Réglable  Gr'
 date: 2020-11-30 06:49:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41W3nPCB6-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41W3nPCB6-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41W3nPCB6-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Russell Hobbs Moulin à Café Réglable  Grande Capacité 100g - 23120-56'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01521ENYK/?tag=tolees0d-21'
+descuento: '43.61'
+titulo: 'Russell Hobbs Moulin à Café Réglable  Gr'
 ---
 
 Tienes [Russell Hobbs Moulin à Café Réglable  Grande Capacité 100g - 23120-56](https://www.amazon.fr/dp/B01521ENYK/?tag=tolees0d-21) con un 43.61 % de descuento con precio de oferta de 28.19 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Russell Hobbs Moulin à Café Réglable  Gr](https://m.media-amazon.com/images/I/41W3nPCB6-L._SL200_.jpg)](https://www.amazon.fr/dp/B01521ENYK/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01521ENYK/?tag=tolees0d-21)
 

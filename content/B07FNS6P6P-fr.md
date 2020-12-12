@@ -3,6 +3,7 @@ layout: post
 title: 'LEGO® Marvel Super Heroes™ Le Quinjet de al 27.78 % de descuento'
 date: 2020-10-18 14:44:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51LF7FASdGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LF7FASdGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51LF7FASdGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'LEGO® Marvel Super Heroes™ Le Quinjet des Avengers Jeu de construction  8 Ans et Plus  840 Pièces  76126'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07FNS6P6P/?tag=tolees0d-21'
+descuento: '27.78'
+titulo: 'LEGO® Marvel Super Heroes™ Le Quinjet de'
 ---
 
 Está [LEGO® Marvel Super Heroes™ Le Quinjet des Avengers Jeu de construction  8 Ans et Plus  840 Pièces  76126](https://www.amazon.fr/dp/B07FNS6P6P/?tag=tolees0d-21) con 27.78 de descuento por 64.99 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![LEGO® Marvel Super Heroes™ Le Quinjet de](https://m.media-amazon.com/images/I/51LF7FASdGL._SL200_.jpg)](https://www.amazon.fr/dp/B07FNS6P6P/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FNS6P6P/?tag=tolees0d-21)
 

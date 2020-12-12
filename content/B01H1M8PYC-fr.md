@@ -3,6 +3,7 @@ layout: post
 title: 'Marvel s Spider-Man al 25.11 % de descuento'
 date: 2020-12-05 06:31:31
 thumbnailImage: 'https://m.media-amazon.com/images/I/513+lwwJLgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513+lwwJLgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513+lwwJLgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Marvel s Spider-Man'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01H1M8PYC/?tag=tolees0d-21'
+descuento: '25.11'
+titulo: 'Marvel s Spider-Man'
 ---
 
 Está [Marvel s Spider-Man](https://www.amazon.fr/dp/B01H1M8PYC/?tag=tolees0d-21) con 25.11 de descuento por 29.95 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Marvel s Spider-Man](https://m.media-amazon.com/images/I/513+lwwJLgL._SL200_.jpg)](https://www.amazon.fr/dp/B01H1M8PYC/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01H1M8PYC/?tag=tolees0d-21)
 

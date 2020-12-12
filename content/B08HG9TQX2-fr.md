@@ -3,6 +3,7 @@ layout: post
 title: 'Casque Gaming PS4  Casque Gamer Pro Ligh al 45.66 % de descuento'
 date: 2020-11-27 23:58:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51lTNriC8bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lTNriC8bL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51lTNriC8bL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'Casque Gaming PS4  Casque Gamer Pro Lightsync RVB pour PC Ultra-Léger Nouvel Bandeau de Suspension Stéréo Bass Anti Bruit Micro Compatible Xbox One'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08HG9TQX2/?tag=tolees0d-21'
+descuento: '45.66'
+titulo: 'Casque Gaming PS4  Casque Gamer Pro Ligh'
 ---
 
 Está [Casque Gaming PS4  Casque Gamer Pro Lightsync RVB pour PC Ultra-Léger Nouvel Bandeau de Suspension Stéréo Bass Anti Bruit Micro Compatible Xbox One](https://www.amazon.fr/dp/B08HG9TQX2/?tag=tolees0d-21) con 45.66 de descuento por 24.99 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![Casque Gaming PS4  Casque Gamer Pro Ligh](https://m.media-amazon.com/images/I/51lTNriC8bL._SL200_.jpg)](https://www.amazon.fr/dp/B08HG9TQX2/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08HG9TQX2/?tag=tolees0d-21)
 

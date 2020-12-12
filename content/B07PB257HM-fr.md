@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 43.74 % en Fitbit Versa Lite - Montres Connectées F'
 date: 2020-11-21 09:19:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41DY+nSmKML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DY+nSmKML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41DY+nSmKML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 159.95 EUR
 inStock: true
 prodname: 'Fitbit Versa Lite - Montres Connectées Forme  Sport et Bien-être : Plus de 4 Jours d’autonomie  Étanche  Suivi Fréquence Cardiaque  Charcoal/Silver Aluminum'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07PB257HM/?tag=tolees0d-21'
+descuento: '43.74'
+titulo: 'Fitbit Versa Lite - Montres Connectées F'
 ---
 
 Tienes [Fitbit Versa Lite - Montres Connectées Forme  Sport et Bien-être : Plus de 4 Jours d’autonomie  Étanche  Suivi Fréquence Cardiaque  Charcoal/Silver Aluminum](https://www.amazon.fr/dp/B07PB257HM/?tag=tolees0d-21) con un 43.74 % de descuento con precio de oferta de 89.99 EUR (original: 159.95 EUR) en el siguiente enlace!
 
 [![Fitbit Versa Lite - Montres Connectées F](https://m.media-amazon.com/images/I/41DY+nSmKML._SL200_.jpg)](https://www.amazon.fr/dp/B07PB257HM/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07PB257HM/?tag=tolees0d-21)
 

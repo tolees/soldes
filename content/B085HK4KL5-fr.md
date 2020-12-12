@@ -3,6 +3,7 @@ layout: post
 title: 'Nouvel Echo  4e génération   Avec son pr al 30.00 % de descuento'
 date: 2020-11-22 13:26:34
 thumbnailImage: 'https://m.media-amazon.com/images/I/517bKOiQ4IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/517bKOiQ4IL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/517bKOiQ4IL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.99 EUR
 inStock: true
 prodname: 'Nouvel Echo  4e génération   Avec son premium  hub connecté et Alexa  Bleu-gris'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B085HK4KL5/?tag=tolees0d-21'
+descuento: '30.00'
+titulo: 'Nouvel Echo  4e génération   Avec son pr'
 ---
 
 Está [Nouvel Echo  4e génération   Avec son premium  hub connecté et Alexa  Bleu-gris](https://www.amazon.fr/dp/B085HK4KL5/?tag=tolees0d-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
 
 [![Nouvel Echo  4e génération   Avec son pr](https://m.media-amazon.com/images/I/517bKOiQ4IL._SL200_.jpg)](https://www.amazon.fr/dp/B085HK4KL5/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B085HK4KL5/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Coque pour Xiaomi Redmi Note 9  Coloré S al 34.87 % de descuento'
 date: 2020-11-15 07:17:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/41b+8BJ2jZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41b+8BJ2jZL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41b+8BJ2jZL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 8.89 EUR
 inStock: true
 prodname: 'Coque pour Xiaomi Redmi Note 9  Coloré Souple Transparent TPU Silicone Anti-Chute Housse Étui avec Deux Verre Trempé Film Protection Écran pour Xiaomi Redmi Note 9  6 53 Pouces '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08LYVT467/?tag=tolees0d-21'
+descuento: '34.87'
+titulo: 'Coque pour Xiaomi Redmi Note 9  Coloré S'
 ---
 
 Está [Coque pour Xiaomi Redmi Note 9  Coloré Souple Transparent TPU Silicone Anti-Chute Housse Étui avec Deux Verre Trempé Film Protection Écran pour Xiaomi Redmi Note 9  6 53 Pouces ](https://www.amazon.fr/dp/B08LYVT467/?tag=tolees0d-21) con 34.87 de descuento por 5.79 EUR (original: 8.89 EUR) en el siguiente enlace!
 
 [![Coque pour Xiaomi Redmi Note 9  Coloré S](https://m.media-amazon.com/images/I/41b+8BJ2jZL._SL200_.jpg)](https://www.amazon.fr/dp/B08LYVT467/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08LYVT467/?tag=tolees0d-21)
 

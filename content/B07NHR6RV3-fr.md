@@ -3,6 +3,7 @@ layout: post
 title: 'DC Extended Universe - Collection 7 film al 30.24 % de descuento'
 date: 2020-10-24 17:27:45
 thumbnailImage: 'https://m.media-amazon.com/images/I/51hHMWDkA6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hHMWDkA6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51hHMWDkA6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 60.19 EUR
 inStock: true
 prodname: 'DC Extended Universe - Collection 7 films [Blu-ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07NHR6RV3/?tag=tolees0d-21'
+descuento: '30.24'
+titulo: 'DC Extended Universe - Collection 7 film'
 ---
 
 Está [DC Extended Universe - Collection 7 films [Blu-ray]](https://www.amazon.fr/dp/B07NHR6RV3/?tag=tolees0d-21) con 30.24 de descuento por 41.99 EUR (original: 60.19 EUR) en el siguiente enlace!
 
 [![DC Extended Universe - Collection 7 film](https://m.media-amazon.com/images/I/51hHMWDkA6L._SL200_.jpg)](https://www.amazon.fr/dp/B07NHR6RV3/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NHR6RV3/?tag=tolees0d-21)
 

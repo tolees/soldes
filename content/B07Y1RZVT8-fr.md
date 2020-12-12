@@ -3,6 +3,7 @@ layout: post
 title: 'Gran Turismo Sport - PlayStation Hits  V al 50.48 % de descuento'
 date: 2020-12-04 15:15:54
 thumbnailImage: 'https://m.media-amazon.com/images/I/51tzB9Dzn6L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tzB9Dzn6L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51tzB9Dzn6L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Gran Turismo Sport - PlayStation Hits  Version physique  En français  Mode multijoueur  1 à 2 Joueurs'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07Y1RZVT8/?tag=tolees0d-21'
+descuento: '50.48'
+titulo: 'Gran Turismo Sport - PlayStation Hits  V'
 ---
 
 Está [Gran Turismo Sport - PlayStation Hits  Version physique  En français  Mode multijoueur  1 à 2 Joueurs](https://www.amazon.fr/dp/B07Y1RZVT8/?tag=tolees0d-21) con 50.48 de descuento por 9.9 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Gran Turismo Sport - PlayStation Hits  V](https://m.media-amazon.com/images/I/51tzB9Dzn6L._SL200_.jpg)](https://www.amazon.fr/dp/B07Y1RZVT8/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07Y1RZVT8/?tag=tolees0d-21)
 

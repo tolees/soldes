@@ -3,6 +3,7 @@ layout: post
 title: 'Google WiFi Routeur sans Fil Bluetooth B al 38.86 % de descuento'
 date: 2020-12-08 09:44:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/21DC2q5iP3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21DC2q5iP3L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21DC2q5iP3L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.0 EUR
 inStock: true
 prodname: 'Google WiFi Routeur sans Fil Bluetooth Blanc'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B073SX31GP/?tag=tolees0d-21'
+descuento: '38.86'
+titulo: 'Google WiFi Routeur sans Fil Bluetooth B'
 ---
 
 Ahora mismo tienes [Google WiFi Routeur sans Fil Bluetooth Blanc](https://www.amazon.fr/dp/B073SX31GP/?tag=tolees0d-21) a 84.99 EUR (original: 139.0 EUR) (38.86 %  de descuento) en el siguiente enlace!
 
 [![Google WiFi Routeur sans Fil Bluetooth B](https://m.media-amazon.com/images/I/21DC2q5iP3L._SL200_.jpg)](https://www.amazon.fr/dp/B073SX31GP/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B073SX31GP/?tag=tolees0d-21)
 

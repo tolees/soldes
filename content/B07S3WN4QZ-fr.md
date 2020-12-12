@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Ls Baby Tee T-Shirt À Manches Lon al 60.14 % de descuento'
 date: 2020-11-19 20:32:43
 thumbnailImage: 'https://m.media-amazon.com/images/I/41127LCOlHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41127LCOlHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41127LCOlHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 35.0 EUR
 inStock: true
 prodname: 'Levi s Ls Baby Tee T-Shirt À Manches Longues  Multicolore  Agnes Stripe Forged Iron 0011   Large  Taille Fabricant: L  Femme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07S3WN4QZ/?tag=tolees0d-21'
+descuento: '60.14'
+titulo: 'Levi s Ls Baby Tee T-Shirt À Manches Lon'
 ---
 
 Ahora mismo tienes [Levi s Ls Baby Tee T-Shirt À Manches Longues  Multicolore  Agnes Stripe Forged Iron 0011   Large  Taille Fabricant: L  Femme](https://www.amazon.fr/dp/B07S3WN4QZ/?tag=tolees0d-21) a 13.95 EUR (original: 35.0 EUR) (60.14 %  de descuento) en el siguiente enlace!
 
 [![Levi s Ls Baby Tee T-Shirt À Manches Lon](https://m.media-amazon.com/images/I/41127LCOlHL._SL200_.jpg)](https://www.amazon.fr/dp/B07S3WN4QZ/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07S3WN4QZ/?tag=tolees0d-21)
 

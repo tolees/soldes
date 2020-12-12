@@ -3,6 +3,7 @@ layout: post
 title: 'Tefal Crispybake Moule 21 mini financier al 25.02 % de descuento'
 date: 2020-11-08 07:31:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/41eSjW1XaxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41eSjW1XaxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41eSjW1XaxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 11.99 EUR
 inStock: true
 prodname: 'Tefal Crispybake Moule 21 mini financiers silicone 29X21cm J4171314'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07NZYD546/?tag=tolees0d-21'
+descuento: '25.02'
+titulo: 'Tefal Crispybake Moule 21 mini financier'
 ---
 
 Está [Tefal Crispybake Moule 21 mini financiers silicone 29X21cm J4171314](https://www.amazon.fr/dp/B07NZYD546/?tag=tolees0d-21) con 25.02 de descuento por 8.99 EUR (original: 11.99 EUR) en el siguiente enlace!
 
 [![Tefal Crispybake Moule 21 mini financier](https://m.media-amazon.com/images/I/41eSjW1XaxL._SL200_.jpg)](https://www.amazon.fr/dp/B07NZYD546/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NZYD546/?tag=tolees0d-21)
 

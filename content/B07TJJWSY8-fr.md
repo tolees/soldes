@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 46.14 % en Volant Apex sans fil pour PS4/PC'
 date: 2020-12-11 21:27:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-BOJcfdYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-BOJcfdYL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-BOJcfdYL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 129.99 EUR
 inStock: true
 prodname: 'Volant Apex sans fil pour PS4/PC'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TJJWSY8/?tag=tolees0d-21'
+descuento: '46.14'
+titulo: 'Volant Apex sans fil pour PS4/PC'
 ---
 
 Tienes [Volant Apex sans fil pour PS4/PC](https://www.amazon.fr/dp/B07TJJWSY8/?tag=tolees0d-21) con un 46.14 % de descuento con precio de oferta de 70.01 EUR (original: 129.99 EUR) en el siguiente enlace!
@@ -25,9 +29,9 @@ Tienes [Volant Apex sans fil pour PS4/PC](https://www.amazon.fr/dp/B07TJJWSY8/?t
 Características principales:
 
 - 280 mm diamètre (1:1 échelle)
-- Une immersion totale la technologie de vibration TouchSense
-- Angle de rotation de 270º
 - Compatible PC
+- Angle de rotation de 270º
+- Une immersion totale la technologie de vibration TouchSense
 - Officiellement licencié par Nintendo
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07TJJWSY8/?tag=tolees0d-21)

@@ -3,6 +3,7 @@ layout: post
 title: 'Au Revoir Les Enfants al 30.90 % de descuento'
 date: 2020-10-14 10:22:30
 thumbnailImage: 'https://m.media-amazon.com/images/I/41FDdedfFlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FDdedfFlL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41FDdedfFlL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 13.01 EUR
 inStock: true
 prodname: 'Au Revoir Les Enfants'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21'
+descuento: '30.90'
+titulo: 'Au Revoir Les Enfants'
 ---
 
 Está [Au Revoir Les Enfants](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21) con 30.90 de descuento por 8.99 EUR (original: 13.01 EUR) en el siguiente enlace!
 
 [![Au Revoir Les Enfants](https://m.media-amazon.com/images/I/41FDdedfFlL._SL200_.jpg)](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00ZWX49KC/?tag=tolees0d-21)
 

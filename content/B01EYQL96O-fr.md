@@ -3,6 +3,7 @@ layout: post
 title: 'BERING Montre Hommes 14440-393 al 53.14 % de descuento'
 date: 2020-12-04 15:15:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/415EvUlNWCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/415EvUlNWCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/415EvUlNWCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 239.0 EUR
 inStock: true
 prodname: 'BERING Montre Hommes 14440-393'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01EYQL96O/?tag=tolees0d-21'
+descuento: '53.14'
+titulo: 'BERING Montre Hommes 14440-393'
 ---
 
 Está [BERING Montre Hommes 14440-393](https://www.amazon.fr/dp/B01EYQL96O/?tag=tolees0d-21) con 53.14 de descuento por 112.0 EUR (original: 239.0 EUR) en el siguiente enlace!
 
 [![BERING Montre Hommes 14440-393](https://m.media-amazon.com/images/I/415EvUlNWCL._SL200_.jpg)](https://www.amazon.fr/dp/B01EYQL96O/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01EYQL96O/?tag=tolees0d-21)
 

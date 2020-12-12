@@ -3,6 +3,7 @@ layout: post
 title: 'Yéti & Compagnie [Blu-Ray] al 46.31 % de descuento'
 date: 2020-10-27 23:22:46
 thumbnailImage: 'https://m.media-amazon.com/images/I/51QPpn0LFuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QPpn0LFuL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51QPpn0LFuL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.05 EUR
 inStock: true
 prodname: 'Yéti & Compagnie [Blu-Ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07KBT58JP/?tag=tolees0d-21'
+descuento: '46.31'
+titulo: 'Yéti & Compagnie [Blu-Ray]'
 ---
 
 Ahora mismo tienes [Yéti & Compagnie [Blu-Ray]](https://www.amazon.fr/dp/B07KBT58JP/?tag=tolees0d-21) a 8.08 EUR (original: 15.05 EUR) (46.31 %  de descuento) en el siguiente enlace!
 
 [![Yéti & Compagnie [Blu-Ray]](https://m.media-amazon.com/images/I/51QPpn0LFuL._SL200_.jpg)](https://www.amazon.fr/dp/B07KBT58JP/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07KBT58JP/?tag=tolees0d-21)
 

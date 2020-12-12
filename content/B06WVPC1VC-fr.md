@@ -3,6 +3,7 @@ layout: post
 title: 'Playmobil - Cavalier avec Van et Cheval  al 37.73 % de descuento'
 date: 2020-10-31 18:12:26
 thumbnailImage: 'https://m.media-amazon.com/images/I/515QU-wRQ7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/515QU-wRQ7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/515QU-wRQ7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Playmobil - Cavalier avec Van et Cheval - 6928'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B06WVPC1VC/?tag=tolees0d-21'
+descuento: '37.73'
+titulo: 'Playmobil - Cavalier avec Van et Cheval '
 ---
 
 Está [Playmobil - Cavalier avec Van et Cheval - 6928](https://www.amazon.fr/dp/B06WVPC1VC/?tag=tolees0d-21) con 37.73 de descuento por 24.9 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Playmobil - Cavalier avec Van et Cheval ](https://m.media-amazon.com/images/I/515QU-wRQ7L._SL200_.jpg)](https://www.amazon.fr/dp/B06WVPC1VC/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B06WVPC1VC/?tag=tolees0d-21)
 

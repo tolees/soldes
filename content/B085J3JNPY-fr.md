@@ -3,6 +3,7 @@ layout: post
 title: 'David Jones - Petit Sac Bandoulière Croc al 34.79 % de descuento'
 date: 2020-12-06 08:44:07
 thumbnailImage: 'https://m.media-amazon.com/images/I/412abHfyWgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412abHfyWgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/412abHfyWgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 45.99 EUR
 inStock: true
 prodname: 'David Jones - Petit Sac Bandoulière Crocodile Femme - Sac à Main Cuir PU Matelassé Croco Porté Epaule - Besace Sacoche Chaînes Pochette Soirée Demi Lune - Crossbody Bag Elégant Mode Tendance - Bleu'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B085J3JNPY/?tag=tolees0d-21'
+descuento: '34.79'
+titulo: 'David Jones - Petit Sac Bandoulière Croc'
 ---
 
 Está [David Jones - Petit Sac Bandoulière Crocodile Femme - Sac à Main Cuir PU Matelassé Croco Porté Epaule - Besace Sacoche Chaînes Pochette Soirée Demi Lune - Crossbody Bag Elégant Mode Tendance - Bleu](https://www.amazon.fr/dp/B085J3JNPY/?tag=tolees0d-21) con 34.79 de descuento por 29.99 EUR (original: 45.99 EUR) en el siguiente enlace!
 
 [![David Jones - Petit Sac Bandoulière Croc](https://m.media-amazon.com/images/I/412abHfyWgL._SL200_.jpg)](https://www.amazon.fr/dp/B085J3JNPY/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B085J3JNPY/?tag=tolees0d-21)
 

@@ -29,10 +29,10 @@ Tienes [Sylvanian Families - Les Vacances - La Cabane Dans Les Arbres - 5494 - M
 Características principales:
 
 - The swing can go up and down and work as a lift
-- Place log rides on the huge slide to make them slide down
-- Suitable for ages three years and above
 - Sylvanian Families miniature dollhouses playsets and figures are timeless and classic high-quality toys
+- Suitable for ages three years and above
 - There are so many ways to play with this fun tree house!
+- Place log rides on the huge slide to make them slide down
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B085GSXP5B/?tag=tolees0d-21)
 

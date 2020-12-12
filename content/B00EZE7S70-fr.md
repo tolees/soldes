@@ -3,6 +3,7 @@ layout: post
 title: 'Philips Ampoule LED Standard Culot E27 1 al 58.54 % de descuento'
 date: 2020-11-26 21:27:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31acEQAQaoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31acEQAQaoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31acEQAQaoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 24.99 EUR
 inStock: true
 prodname: 'Philips Ampoule LED Standard Culot E27 13W Consommés Équivalence Incandescence 75W'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00EZE7S70/?tag=tolees0d-21'
+descuento: '58.54'
+titulo: 'Philips Ampoule LED Standard Culot E27 1'
 ---
 
 Ahora mismo tienes [Philips Ampoule LED Standard Culot E27 13W Consommés Équivalence Incandescence 75W](https://www.amazon.fr/dp/B00EZE7S70/?tag=tolees0d-21) a 10.36 EUR (original: 24.99 EUR) (58.54 %  de descuento) en el siguiente enlace!
 
 [![Philips Ampoule LED Standard Culot E27 1](https://m.media-amazon.com/images/I/31acEQAQaoL._SL200_.jpg)](https://www.amazon.fr/dp/B00EZE7S70/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B00EZE7S70/?tag=tolees0d-21)
 

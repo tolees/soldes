@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 45.96 % en Manette Switch  Beexcellent Manette Sans'
 date: 2020-10-29 23:31:05
 thumbnailImage: 'https://m.media-amazon.com/images/I/41s6Ku-Q52L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s6Ku-Q52L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41s6Ku-Q52L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 36.99 EUR
 inStock: true
 prodname: 'Manette Switch  Beexcellent Manette Sans Fil Bluetooth pour Nintendo Switch Rechargeable Turbo 6-Axis Gyro Double Moteur Compatible pour Nintendo Switch Nintendo Switch Lite et PC'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08HCWR4YH/?tag=tolees0d-21'
+descuento: '45.96'
+titulo: 'Manette Switch  Beexcellent Manette Sans'
 ---
 
 Tienes [Manette Switch  Beexcellent Manette Sans Fil Bluetooth pour Nintendo Switch Rechargeable Turbo 6-Axis Gyro Double Moteur Compatible pour Nintendo Switch Nintendo Switch Lite et PC](https://www.amazon.fr/dp/B08HCWR4YH/?tag=tolees0d-21) con un 45.96 % de descuento con precio de oferta de 19.99 EUR (original: 36.99 EUR) en el siguiente enlace!
 
 [![Manette Switch  Beexcellent Manette Sans](https://m.media-amazon.com/images/I/41s6Ku-Q52L._SL200_.jpg)](https://www.amazon.fr/dp/B08HCWR4YH/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08HCWR4YH/?tag=tolees0d-21)
 

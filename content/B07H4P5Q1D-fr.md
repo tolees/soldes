@@ -3,6 +3,7 @@ layout: post
 title: 'Moulinex Robot Pâtissier Masterchef Gran al 50.00 % de descuento'
 date: 2020-12-01 14:05:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/31GUeasHm5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31GUeasHm5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31GUeasHm5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 599.99 EUR
 inStock: true
 prodname: 'Moulinex Robot Pâtissier Masterchef Grande Finition en Fonte d Aluminium Brossé 8 vitesses Robot Cuisine Capacité 6 7L Kit Pâtisserie  fouet  batteur et pétrin  1500 W QA810D01'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07H4P5Q1D/?tag=tolees0d-21'
+descuento: '50.00'
+titulo: 'Moulinex Robot Pâtissier Masterchef Gran'
 ---
 
 Ahora mismo tienes [Moulinex Robot Pâtissier Masterchef Grande Finition en Fonte d Aluminium Brossé 8 vitesses Robot Cuisine Capacité 6 7L Kit Pâtisserie  fouet  batteur et pétrin  1500 W QA810D01](https://www.amazon.fr/dp/B07H4P5Q1D/?tag=tolees0d-21) a 299.99 EUR (original: 599.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![Moulinex Robot Pâtissier Masterchef Gran](https://m.media-amazon.com/images/I/31GUeasHm5L._SL200_.jpg)](https://www.amazon.fr/dp/B07H4P5Q1D/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07H4P5Q1D/?tag=tolees0d-21)
 

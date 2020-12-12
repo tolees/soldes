@@ -3,6 +3,7 @@ layout: post
 title: 'Lansay- Toy Story-Buzz l Eclair Collecti al 33.79 % de descuento'
 date: 2020-11-19 22:03:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/51pt1DkhWoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51pt1DkhWoL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51pt1DkhWoL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.99 EUR
 inStock: true
 prodname: 'Lansay- Toy Story-Buzz l Eclair Collection Signature Pixar 4 Figurine  64511'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07PXNNHGV/?tag=tolees0d-21'
+descuento: '33.79'
+titulo: 'Lansay- Toy Story-Buzz l Eclair Collecti'
 ---
 
 Está [Lansay- Toy Story-Buzz l Eclair Collection Signature Pixar 4 Figurine  64511](https://www.amazon.fr/dp/B07PXNNHGV/?tag=tolees0d-21) con 33.79 de descuento por 59.58 EUR (original: 89.99 EUR) en el siguiente enlace!
 
 [![Lansay- Toy Story-Buzz l Eclair Collecti](https://m.media-amazon.com/images/I/51pt1DkhWoL._SL200_.jpg)](https://www.amazon.fr/dp/B07PXNNHGV/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07PXNNHGV/?tag=tolees0d-21)
 

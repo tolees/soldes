@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 68.81 % en Under Armour Unstoppable Move Light Pant'
 date: 2020-12-10 20:31:04
 thumbnailImage: 'https://m.media-amazon.com/images/I/414+i4H6LVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414+i4H6LVL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/414+i4H6LVL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 75.0 EUR
 inStock: true
 prodname: 'Under Armour Unstoppable Move Light Pantalon Homme Gris FR : L  Taille Fabricant : LG '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07L9MD2HM/?tag=tolees0d-21'
+descuento: '68.81'
+titulo: 'Under Armour Unstoppable Move Light Pant'
 ---
 
 Tienes [Under Armour Unstoppable Move Light Pantalon Homme Gris FR : L  Taille Fabricant : LG ](https://www.amazon.fr/dp/B07L9MD2HM/?tag=tolees0d-21) con un 68.81 % de descuento con precio de oferta de 23.39 EUR (original: 75.0 EUR) en el siguiente enlace!
@@ -25,8 +29,8 @@ Tienes [Under Armour Unstoppable Move Light Pantalon Homme Gris FR : L  Taille F
 Características principales:
 
 - Couleur: Gris
-- Taille: L
 - Nom du modèle: Un Move light pant
+- Taille: L
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07L9MD2HM/?tag=tolees0d-21)
 

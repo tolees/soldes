@@ -3,6 +3,7 @@ layout: post
 title: 'Duel au Soleil [Édition Coffret Ultra Co al 25.26 % de descuento'
 date: 2020-10-26 06:55:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/610EOXUcYWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/610EOXUcYWL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/610EOXUcYWL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 50.16 EUR
 inStock: true
 prodname: 'Duel au Soleil [Édition Coffret Ultra Collector-Blu-Ray + DVD + Livre]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0788XVVMS/?tag=tolees0d-21'
+descuento: '25.26'
+titulo: 'Duel au Soleil [Édition Coffret Ultra Co'
 ---
 
 Ahora mismo tienes [Duel au Soleil [Édition Coffret Ultra Collector-Blu-Ray + DVD + Livre]](https://www.amazon.fr/dp/B0788XVVMS/?tag=tolees0d-21) a 37.49 EUR (original: 50.16 EUR) (25.26 %  de descuento) en el siguiente enlace!
 
 [![Duel au Soleil [Édition Coffret Ultra Co](https://m.media-amazon.com/images/I/610EOXUcYWL._SL200_.jpg)](https://www.amazon.fr/dp/B0788XVVMS/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B0788XVVMS/?tag=tolees0d-21)
 

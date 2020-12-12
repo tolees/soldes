@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 39.46 % en Sony WH-1000XM3 Casque Bluetooth à réduc'
 date: 2020-12-11 11:50:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,6 +17,9 @@ comparePrice: 379.9 EUR
 inStock: true
 prodname: 'Sony WH-1000XM3 Casque Bluetooth à réduction de bruit sans fil avec micro pour appels téléphoniques  Alexa et Google Assistant intégrés  Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21'
+descuento: '39.46'
+titulo: 'Sony WH-1000XM3 Casque Bluetooth à réduc'
 ---
 
 Tienes [Sony WH-1000XM3 Casque Bluetooth à réduction de bruit sans fil avec micro pour appels téléphoniques  Alexa et Google Assistant intégrés  Noir](https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21) con un 39.46 % de descuento con precio de oferta de 229.99 EUR (original: 379.9 EUR) en el siguiente enlace!
@@ -25,14 +29,14 @@ Tienes [Sony WH-1000XM3 Casque Bluetooth à réduction de bruit sans fil avec mi
 Características principales:
 
 - Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
-- Jusquà 30h dautonomie avec la fonction de réduction de bruit activée
-- Fonction Quick Attention pour réduire instantanément le volume de votre musique et pouvoir suivre une conversation
-- Profil: A2DP, AVRCP, HFP, HSP
-- Sensitivities (dB/mW): 104.5 dB/mW (1 kHz)
-- Réponse en fréquence (communication Bluetooth): 20 Hz – 20 000 Hz (échantillonnage : 44,1 kHz) / 20 Hz – 40 000 Hz (échantillonnage : 96 kHz LDAC, 990 kbit/s)
-- Mode charge rapide (15 min = 8h de lecture). Style de port: Circumaural
 - La meilleure réduction de bruit du marché, encore améliorée. Profil Bluetooth: A2DP, AVRCP, HFP, HSP
+- Réponse en fréquence (communication Bluetooth): 20 Hz – 20 000 Hz (échantillonnage : 44,1 kHz) / 20 Hz – 40 000 Hz (échantillonnage : 96 kHz LDAC, 990 kbit/s)
+- Jusquà 30h dautonomie avec la fonction de réduction de bruit activée
+- Sensitivities (dB/mW): 104.5 dB/mW (1 kHz)
 - Contrôle facile de lecture de la musique par simple contact sur loreillette
+- Profil: A2DP, AVRCP, HFP, HSP
+- Mode charge rapide (15 min = 8h de lecture). Style de port: Circumaural
+- Fonction Quick Attention pour réduire instantanément le volume de votre musique et pouvoir suivre une conversation
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21)
 

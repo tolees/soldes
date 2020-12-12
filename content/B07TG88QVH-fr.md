@@ -3,6 +3,7 @@ layout: post
 title: 'LIGHTAILING Jeu De Lumières pour  Archit al 58.76 % de descuento'
 date: 2020-10-25 10:46:19
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ZLesxuRUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ZLesxuRUL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ZLesxuRUL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'LIGHTAILING Jeu De Lumières pour  Architecture Shanghai  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21039 Ne Figurant Pas sur Le Modèle '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TG88QVH/?tag=tolees0d-21'
+descuento: '58.76'
+titulo: 'LIGHTAILING Jeu De Lumières pour  Archit'
 ---
 
 Ahora mismo tienes [LIGHTAILING Jeu De Lumières pour  Architecture Shanghai  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21039 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B07TG88QVH/?tag=tolees0d-21) a 32.99 EUR (original: 80.0 EUR) (58.76 %  de descuento) en el siguiente enlace!
 
 [![LIGHTAILING Jeu De Lumières pour  Archit](https://m.media-amazon.com/images/I/41ZLesxuRUL._SL200_.jpg)](https://www.amazon.fr/dp/B07TG88QVH/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TG88QVH/?tag=tolees0d-21)
 

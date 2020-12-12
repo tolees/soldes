@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.48 % en Uncharted : The Nathan Drake Collection '
 date: 2020-12-05 18:40:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/6194SBcU6vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/6194SBcU6vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/6194SBcU6vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 19.99 EUR
 inStock: true
 prodname: 'Uncharted : The Nathan Drake Collection HITS'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07K11MSQ6/?tag=tolees0d-21'
+descuento: '50.48'
+titulo: 'Uncharted : The Nathan Drake Collection '
 ---
 
 Tienes [Uncharted : The Nathan Drake Collection HITS](https://www.amazon.fr/dp/B07K11MSQ6/?tag=tolees0d-21) con un 50.48 % de descuento con precio de oferta de 9.9 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![Uncharted : The Nathan Drake Collection ](https://m.media-amazon.com/images/I/6194SBcU6vL._SL200_.jpg)](https://www.amazon.fr/dp/B07K11MSQ6/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07K11MSQ6/?tag=tolees0d-21)
 

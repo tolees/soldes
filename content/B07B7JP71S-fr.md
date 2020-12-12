@@ -3,6 +3,7 @@ layout: post
 title: 'New bee Main Libre Bluetooth Oreillette  al 53.77 % de descuento'
 date: 2020-11-17 20:09:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/41viaYKgQ9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41viaYKgQ9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41viaYKgQ9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.73 EUR
 inStock: true
 prodname: 'New bee Main Libre Bluetooth Oreillette  Casque sans Fil Bluetooth avec Microphone 60 Jours en Veille Casque Mains Libres avec Microphone Casque pour iPhone Samsung  HTC  LG  Sony  PC  Noir '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07B7JP71S/?tag=tolees0d-21'
+descuento: '53.77'
+titulo: 'New bee Main Libre Bluetooth Oreillette '
 ---
 
 Está [New bee Main Libre Bluetooth Oreillette  Casque sans Fil Bluetooth avec Microphone 60 Jours en Veille Casque Mains Libres avec Microphone Casque pour iPhone Samsung  HTC  LG  Sony  PC  Noir ](https://www.amazon.fr/dp/B07B7JP71S/?tag=tolees0d-21) con 53.77 de descuento por 22.99 EUR (original: 49.73 EUR) en el siguiente enlace!
 
 [![New bee Main Libre Bluetooth Oreillette ](https://m.media-amazon.com/images/I/41viaYKgQ9L._SL200_.jpg)](https://www.amazon.fr/dp/B07B7JP71S/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07B7JP71S/?tag=tolees0d-21)
 

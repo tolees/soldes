@@ -3,6 +3,7 @@ layout: post
 title: 'CCCP/Trendy Element Montre GUREVICH ~ CP al 50.00 % de descuento'
 date: 2020-11-21 10:28:09
 thumbnailImage: 'https://m.media-amazon.com/images/I/513-2MzDvTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513-2MzDvTL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513-2MzDvTL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 650.0 EUR
 inStock: true
 prodname: 'CCCP/Trendy Element Montre GUREVICH ~ CP-7052-03 Marron'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B084BX61QX/?tag=tolees0d-21'
+descuento: '50.00'
+titulo: 'CCCP/Trendy Element Montre GUREVICH ~ CP'
 ---
 
 Está [CCCP/Trendy Element Montre GUREVICH ~ CP-7052-03 Marron](https://www.amazon.fr/dp/B084BX61QX/?tag=tolees0d-21) con 50.00 de descuento por 325.0 EUR (original: 650.0 EUR) en el siguiente enlace!
 
 [![CCCP/Trendy Element Montre GUREVICH ~ CP](https://m.media-amazon.com/images/I/513-2MzDvTL._SL200_.jpg)](https://www.amazon.fr/dp/B084BX61QX/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B084BX61QX/?tag=tolees0d-21)
 

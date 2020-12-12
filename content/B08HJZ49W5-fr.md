@@ -3,6 +3,7 @@ layout: post
 title: 'HTDELEC Coque Xiaomi Redmi 9A Transparen al 58.20 % de descuento'
 date: 2020-10-13 06:55:59
 thumbnailImage: 'https://m.media-amazon.com/images/I/41SnnYJG4DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SnnYJG4DL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41SnnYJG4DL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 18.9 EUR
 inStock: true
 prodname: 'HTDELEC Coque Xiaomi Redmi 9A Transparente + 2 × Verre trempé écran Silicone Souple étui Bumper Housse Clair TPU Gel Cover avec Quatre Coins Renforcés pour Xiaomi Redmi 9A'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08HJZ49W5/?tag=tolees0d-21'
+descuento: '58.20'
+titulo: 'HTDELEC Coque Xiaomi Redmi 9A Transparen'
 ---
 
 Ahora mismo tienes [HTDELEC Coque Xiaomi Redmi 9A Transparente + 2 × Verre trempé écran Silicone Souple étui Bumper Housse Clair TPU Gel Cover avec Quatre Coins Renforcés pour Xiaomi Redmi 9A](https://www.amazon.fr/dp/B08HJZ49W5/?tag=tolees0d-21) a 7.9 EUR (original: 18.9 EUR) (58.20 %  de descuento) en el siguiente enlace!
 
 [![HTDELEC Coque Xiaomi Redmi 9A Transparen](https://m.media-amazon.com/images/I/41SnnYJG4DL._SL200_.jpg)](https://www.amazon.fr/dp/B08HJZ49W5/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B08HJZ49W5/?tag=tolees0d-21)
 

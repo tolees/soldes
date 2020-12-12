@@ -3,6 +3,7 @@ layout: post
 title: 'Thor +2D [4K Ultra HD + Blu-Ray] al 26.74 % de descuento'
 date: 2020-11-03 14:27:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51iT9Kb6PCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51iT9Kb6PCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51iT9Kb6PCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Thor +2D [4K Ultra HD + Blu-Ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07RX2L49H/?tag=tolees0d-21'
+descuento: '26.74'
+titulo: 'Thor +2D [4K Ultra HD + Blu-Ray]'
 ---
 
 Está [Thor +2D [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B07RX2L49H/?tag=tolees0d-21) con 26.74 de descuento por 21.97 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![Thor +2D [4K Ultra HD + Blu-Ray]](https://m.media-amazon.com/images/I/51iT9Kb6PCL._SL200_.jpg)](https://www.amazon.fr/dp/B07RX2L49H/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RX2L49H/?tag=tolees0d-21)
 

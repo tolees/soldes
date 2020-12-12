@@ -3,6 +3,7 @@ layout: post
 title: 'Cotek Convertisseur 24v 220v Pur Sinus   al 33.36 % de descuento'
 date: 2020-10-13 10:37:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WHrydq3iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WHrydq3iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WHrydq3iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.9 EUR
 inStock: true
 prodname: 'Cotek Convertisseur 24v 220v Pur Sinus  350 Watts '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07D4H9Z3V/?tag=tolees0d-21'
+descuento: '33.36'
+titulo: 'Cotek Convertisseur 24v 220v Pur Sinus  '
 ---
 
 Ahora mismo tienes [Cotek Convertisseur 24v 220v Pur Sinus  350 Watts ](https://www.amazon.fr/dp/B07D4H9Z3V/?tag=tolees0d-21) a 99.9 EUR (original: 149.9 EUR) (33.36 %  de descuento) en el siguiente enlace!
 
 [![Cotek Convertisseur 24v 220v Pur Sinus  ](https://m.media-amazon.com/images/I/41WHrydq3iL._SL200_.jpg)](https://www.amazon.fr/dp/B07D4H9Z3V/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07D4H9Z3V/?tag=tolees0d-21)
 

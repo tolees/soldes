@@ -3,6 +3,7 @@ layout: post
 title: 'Samsung MZ-N6E250BW SSD Interne 860 EVO  al 35.06 % de descuento'
 date: 2020-10-18 14:32:27
 thumbnailImage: 'https://m.media-amazon.com/images/I/4142XmUCA-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4142XmUCA-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/4142XmUCA-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Samsung MZ-N6E250BW SSD Interne 860 EVO - M.2 - 250 GO'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B078WQC2GQ/?tag=tolees0d-21'
+descuento: '35.06'
+titulo: 'Samsung MZ-N6E250BW SSD Interne 860 EVO '
 ---
 
 Ahora mismo tienes [Samsung MZ-N6E250BW SSD Interne 860 EVO - M.2 - 250 GO](https://www.amazon.fr/dp/B078WQC2GQ/?tag=tolees0d-21) a 45.45 EUR (original: 69.99 EUR) (35.06 %  de descuento) en el siguiente enlace!
 
 [![Samsung MZ-N6E250BW SSD Interne 860 EVO ](https://m.media-amazon.com/images/I/4142XmUCA-L._SL200_.jpg)](https://www.amazon.fr/dp/B078WQC2GQ/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B078WQC2GQ/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Orzly Duocharger - Station d accueil Com al 43.35 % de descuento'
 date: 2020-12-10 04:08:50
 thumbnailImage: 'https://m.media-amazon.com/images/I/41u0dhaj9iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41u0dhaj9iL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41u0dhaj9iL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 29.99 EUR
 inStock: true
 prodname: 'Orzly Duocharger - Station d accueil Compatible avec Les Manettes pour Xbox Series X | S  Google Stadia  Playstation 5 et Nintendo Switch - USB-C Station de Chargement Édition Stealth Black [Noir]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B08MCHMNLQ/?tag=tolees0d-21'
+descuento: '43.35'
+titulo: 'Orzly Duocharger - Station d accueil Com'
 ---
 
 Ahora mismo tienes [Orzly Duocharger - Station d accueil Compatible avec Les Manettes pour Xbox Series X | S  Google Stadia  Playstation 5 et Nintendo Switch - USB-C Station de Chargement Édition Stealth Black [Noir]](https://www.amazon.fr/dp/B08MCHMNLQ/?tag=tolees0d-21) a 16.99 EUR (original: 29.99 EUR) (43.35 %  de descuento) en el siguiente enlace!
 
 [![Orzly Duocharger - Station d accueil Com](https://m.media-amazon.com/images/I/41u0dhaj9iL._SL200_.jpg)](https://www.amazon.fr/dp/B08MCHMNLQ/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B08MCHMNLQ/?tag=tolees0d-21)
 

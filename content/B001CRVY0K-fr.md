@@ -3,6 +3,7 @@ layout: post
 title: 'Pulp Fiction [Blu-ray] al 63.46 % de descuento'
 date: 2020-11-05 11:08:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/51bop8VOc-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bop8VOc-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51bop8VOc-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.05 EUR
 inStock: true
 prodname: 'Pulp Fiction [Blu-ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B001CRVY0K/?tag=tolees0d-21'
+descuento: '63.46'
+titulo: 'Pulp Fiction [Blu-ray]'
 ---
 
 Está [Pulp Fiction [Blu-ray]](https://www.amazon.fr/dp/B001CRVY0K/?tag=tolees0d-21) con 63.46 de descuento por 5.5 EUR (original: 15.05 EUR) en el siguiente enlace!
 
 [![Pulp Fiction [Blu-ray]](https://m.media-amazon.com/images/I/51bop8VOc-L._SL200_.jpg)](https://www.amazon.fr/dp/B001CRVY0K/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B001CRVY0K/?tag=tolees0d-21)
 

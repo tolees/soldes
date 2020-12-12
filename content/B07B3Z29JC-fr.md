@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 75.18 % en Fila Disruptor Men  Sneakers Basses Homm'
 date: 2020-12-01 07:43:51
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ys3qWjvCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ys3qWjvCL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ys3qWjvCL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 99.95 EUR
 inStock: true
 prodname: 'Fila Disruptor Men  Sneakers Basses Homme  Blanc  White-1FG   44 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07B3Z29JC/?tag=tolees0d-21'
+descuento: '75.18'
+titulo: 'Fila Disruptor Men  Sneakers Basses Homm'
 ---
 
 Tienes [Fila Disruptor Men  Sneakers Basses Homme  Blanc  White-1FG   44 EU](https://www.amazon.fr/dp/B07B3Z29JC/?tag=tolees0d-21) con un 75.18 % de descuento con precio de oferta de 24.81 EUR (original: 99.95 EUR) en el siguiente enlace!
 
 [![Fila Disruptor Men  Sneakers Basses Homm](https://m.media-amazon.com/images/I/41ys3qWjvCL._SL200_.jpg)](https://www.amazon.fr/dp/B07B3Z29JC/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07B3Z29JC/?tag=tolees0d-21)
 

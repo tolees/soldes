@@ -3,6 +3,7 @@ layout: post
 title: 'Tommee Tippee Kit couffin support Sleepe al 56.53 % de descuento'
 date: 2020-11-01 21:31:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/410HqbTh9dL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/410HqbTh9dL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/410HqbTh9dL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 139.0 EUR
 inStock: true
 prodname: 'Tommee Tippee Kit couffin support Sleepee – Gris taupe'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07ZVZLK3G/?tag=tolees0d-21'
+descuento: '56.53'
+titulo: 'Tommee Tippee Kit couffin support Sleepe'
 ---
 
 Está [Tommee Tippee Kit couffin support Sleepee – Gris taupe](https://www.amazon.fr/dp/B07ZVZLK3G/?tag=tolees0d-21) con 56.53 de descuento por 60.42 EUR (original: 139.0 EUR) en el siguiente enlace!
 
 [![Tommee Tippee Kit couffin support Sleepe](https://m.media-amazon.com/images/I/410HqbTh9dL._SL200_.jpg)](https://www.amazon.fr/dp/B07ZVZLK3G/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07ZVZLK3G/?tag=tolees0d-21)
 

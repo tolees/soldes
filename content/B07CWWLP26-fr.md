@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 30.23 % en Bosch Home and Garden 2607017459 Coffret'
 date: 2020-10-22 11:51:47
 thumbnailImage: 'https://m.media-amazon.com/images/I/41Djq0gibHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Djq0gibHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41Djq0gibHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 25.7 EUR
 inStock: true
 prodname: 'Bosch Home and Garden 2607017459 Coffret Bosch de 27 Accessoires pour visseuse sans Fil  Assortiment  Adaptateur  Porte-Embout Universel et cliquet '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07CWWLP26/?tag=tolees0d-21'
+descuento: '30.23'
+titulo: 'Bosch Home and Garden 2607017459 Coffret'
 ---
 
 Tienes [Bosch Home and Garden 2607017459 Coffret Bosch de 27 Accessoires pour visseuse sans Fil  Assortiment  Adaptateur  Porte-Embout Universel et cliquet ](https://www.amazon.fr/dp/B07CWWLP26/?tag=tolees0d-21) con un 30.23 % de descuento con precio de oferta de 17.93 EUR (original: 25.7 EUR) en el siguiente enlace!
 
 [![Bosch Home and Garden 2607017459 Coffret](https://m.media-amazon.com/images/I/41Djq0gibHL._SL200_.jpg)](https://www.amazon.fr/dp/B07CWWLP26/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07CWWLP26/?tag=tolees0d-21)
 

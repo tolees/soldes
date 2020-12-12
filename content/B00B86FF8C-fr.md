@@ -3,6 +3,7 @@ layout: post
 title: 'Ray-Ban 0OX3128 Lunettes de soleil  Noir al 40.85 % de descuento'
 date: 2020-11-27 15:06:22
 thumbnailImage: 'https://m.media-amazon.com/images/I/21sBNc7+dbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21sBNc7+dbL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21sBNc7+dbL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 253.0 EUR
 inStock: true
 prodname: 'Ray-Ban 0OX3128 Lunettes de soleil  Noir  Satin Black   53 Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00B86FF8C/?tag=tolees0d-21'
+descuento: '40.85'
+titulo: 'Ray-Ban 0OX3128 Lunettes de soleil  Noir'
 ---
 
 Está [Ray-Ban 0OX3128 Lunettes de soleil  Noir  Satin Black   53 Homme](https://www.amazon.fr/dp/B00B86FF8C/?tag=tolees0d-21) con 40.85 de descuento por 149.66 EUR (original: 253.0 EUR) en el siguiente enlace!
 
 [![Ray-Ban 0OX3128 Lunettes de soleil  Noir](https://m.media-amazon.com/images/I/21sBNc7+dbL._SL200_.jpg)](https://www.amazon.fr/dp/B00B86FF8C/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00B86FF8C/?tag=tolees0d-21)
 

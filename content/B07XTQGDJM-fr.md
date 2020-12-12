@@ -3,6 +3,7 @@ layout: post
 title: 'HUAWEI Band 4 - Tracker d activité Fitne al 50.01 % de descuento'
 date: 2020-12-01 12:30:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41S3yL1nl5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41S3yL1nl5L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41S3yL1nl5L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'HUAWEI Band 4 - Tracker d activité Fitness avec Écran Couleur de 0.96 Pouce  Moniteur de Sommeil  GPS  Étanche 5ATM  Plus de 6 Jours d utilisation  Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07XTQGDJM/?tag=tolees0d-21'
+descuento: '50.01'
+titulo: 'HUAWEI Band 4 - Tracker d activité Fitne'
 ---
 
 Está [HUAWEI Band 4 - Tracker d activité Fitness avec Écran Couleur de 0.96 Pouce  Moniteur de Sommeil  GPS  Étanche 5ATM  Plus de 6 Jours d utilisation  Noir](https://www.amazon.fr/dp/B07XTQGDJM/?tag=tolees0d-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![HUAWEI Band 4 - Tracker d activité Fitne](https://m.media-amazon.com/images/I/41S3yL1nl5L._SL200_.jpg)](https://www.amazon.fr/dp/B07XTQGDJM/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07XTQGDJM/?tag=tolees0d-21)
 

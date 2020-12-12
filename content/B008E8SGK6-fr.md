@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Homme Polo  manches courtes L123 al 37.51 % de descuento'
 date: 2020-12-06 20:56:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/31R1mrC1ayL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31R1mrC1ayL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31R1mrC1ayL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 80.0 EUR
 inStock: true
 prodname: 'Lacoste Homme Polo  manches courtes L1230 Sport - Noir  Noir  - Small  FR: 3 '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B008E8SGK6/?tag=tolees0d-21'
+descuento: '37.51'
+titulo: 'Lacoste Homme Polo  manches courtes L123'
 ---
 
 Está [Lacoste Homme Polo  manches courtes L1230 Sport - Noir  Noir  - Small  FR: 3 ](https://www.amazon.fr/dp/B008E8SGK6/?tag=tolees0d-21) con 37.51 de descuento por 49.99 EUR (original: 80.0 EUR) en el siguiente enlace!
 
 [![Lacoste Homme Polo  manches courtes L123](https://m.media-amazon.com/images/I/31R1mrC1ayL._SL200_.jpg)](https://www.amazon.fr/dp/B008E8SGK6/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B008E8SGK6/?tag=tolees0d-21)
 

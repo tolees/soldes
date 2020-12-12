@@ -3,6 +3,7 @@ layout: post
 title: 'Casque DJ  OneOdio P-10 Casque Audio Stu al 40.01 % de descuento'
 date: 2020-11-28 16:27:36
 thumbnailImage: 'https://m.media-amazon.com/images/I/41-PF+DsNzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-PF+DsNzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41-PF+DsNzL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.99 EUR
 inStock: true
 prodname: 'Casque DJ  OneOdio P-10 Casque Audio Studio Professionnel  Casque Filaire  Casque de Monitoring  Son Parfait pour Synthétiseur PC TV Tablette Smartphone  Noir '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B079JWJR7S/?tag=tolees0d-21'
+descuento: '40.01'
+titulo: 'Casque DJ  OneOdio P-10 Casque Audio Stu'
 ---
 
 Ahora mismo tienes [Casque DJ  OneOdio P-10 Casque Audio Studio Professionnel  Casque Filaire  Casque de Monitoring  Son Parfait pour Synthétiseur PC TV Tablette Smartphone  Noir ](https://www.amazon.fr/dp/B079JWJR7S/?tag=tolees0d-21) a 29.99 EUR (original: 49.99 EUR) (40.01 %  de descuento) en el siguiente enlace!
 
 [![Casque DJ  OneOdio P-10 Casque Audio Stu](https://m.media-amazon.com/images/I/41-PF+DsNzL._SL200_.jpg)](https://www.amazon.fr/dp/B079JWJR7S/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B079JWJR7S/?tag=tolees0d-21)
 

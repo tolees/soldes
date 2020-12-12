@@ -3,6 +3,7 @@ layout: post
 title: 'Swarovski Bracelet-Jonc Symbolic Evil Ey al 50.56 % de descuento'
 date: 2020-12-04 15:14:21
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ba+fPPrxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ba+fPPrxL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ba+fPPrxL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 89.0 EUR
 inStock: true
 prodname: 'Swarovski Bracelet-Jonc Symbolic Evil Eye  Bleu  Finition Mix de Métal'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01I9BVMTO/?tag=tolees0d-21'
+descuento: '50.56'
+titulo: 'Swarovski Bracelet-Jonc Symbolic Evil Ey'
 ---
 
 Está [Swarovski Bracelet-Jonc Symbolic Evil Eye  Bleu  Finition Mix de Métal](https://www.amazon.fr/dp/B01I9BVMTO/?tag=tolees0d-21) con 50.56 de descuento por 44.0 EUR (original: 89.0 EUR) en el siguiente enlace!
 
 [![Swarovski Bracelet-Jonc Symbolic Evil Ey](https://m.media-amazon.com/images/I/41ba+fPPrxL._SL200_.jpg)](https://www.amazon.fr/dp/B01I9BVMTO/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01I9BVMTO/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Dragon Ball Z: Kakarot  Xbox One  al 28.58 % de descuento'
 date: 2020-11-07 11:37:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/51rU15JK3vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51rU15JK3vL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51rU15JK3vL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 69.99 EUR
 inStock: true
 prodname: 'Dragon Ball Z: Kakarot  Xbox One '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07XL54Z1H/?tag=tolees0d-21'
+descuento: '28.58'
+titulo: 'Dragon Ball Z: Kakarot  Xbox One '
 ---
 
 Ahora mismo tienes [Dragon Ball Z: Kakarot  Xbox One ](https://www.amazon.fr/dp/B07XL54Z1H/?tag=tolees0d-21) a 49.99 EUR (original: 69.99 EUR) (28.58 %  de descuento) en el siguiente enlace!
 
 [![Dragon Ball Z: Kakarot  Xbox One ](https://m.media-amazon.com/images/I/51rU15JK3vL._SL200_.jpg)](https://www.amazon.fr/dp/B07XL54Z1H/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07XL54Z1H/?tag=tolees0d-21)
 

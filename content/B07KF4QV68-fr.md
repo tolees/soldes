@@ -3,6 +3,7 @@ layout: post
 title: 'Levi s Type 3 Veste en Jean  Noir  Berk  al 30.02 % de descuento'
 date: 2020-10-19 20:52:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 130.0 EUR
 inStock: true
 prodname: 'Levi s Type 3 Veste en Jean  Noir  Berk Sherpa Trucker 0100   Medium Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07KF4QV68/?tag=tolees0d-21'
+descuento: '30.02'
+titulo: 'Levi s Type 3 Veste en Jean  Noir  Berk '
 ---
 
 Está [Levi s Type 3 Veste en Jean  Noir  Berk Sherpa Trucker 0100   Medium Homme](https://www.amazon.fr/dp/B07KF4QV68/?tag=tolees0d-21) con 30.02 de descuento por 90.98 EUR (original: 130.0 EUR) en el siguiente enlace!
 
 [![Levi s Type 3 Veste en Jean  Noir  Berk ](https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg)](https://www.amazon.fr/dp/B07KF4QV68/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KF4QV68/?tag=tolees0d-21)
 

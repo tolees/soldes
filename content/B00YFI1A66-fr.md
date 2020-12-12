@@ -3,6 +3,7 @@ layout: post
 title: 'Clé USB 3.0 SanDisk Ultra 256 Go avec un al 50.80 % de descuento'
 date: 2020-11-04 14:52:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31DdaxPyDML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31DdaxPyDML._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31DdaxPyDML._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 62.99 EUR
 inStock: true
 prodname: 'Clé USB 3.0 SanDisk Ultra 256 Go avec une vitesse de lecture allant jusqu à 130 Mo/s'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00YFI1A66/?tag=tolees0d-21'
+descuento: '50.80'
+titulo: 'Clé USB 3.0 SanDisk Ultra 256 Go avec un'
 ---
 
 Está [Clé USB 3.0 SanDisk Ultra 256 Go avec une vitesse de lecture allant jusqu à 130 Mo/s](https://www.amazon.fr/dp/B00YFI1A66/?tag=tolees0d-21) con 50.80 de descuento por 30.99 EUR (original: 62.99 EUR) en el siguiente enlace!
 
 [![Clé USB 3.0 SanDisk Ultra 256 Go avec un](https://m.media-amazon.com/images/I/31DdaxPyDML._SL200_.jpg)](https://www.amazon.fr/dp/B00YFI1A66/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00YFI1A66/?tag=tolees0d-21)
 

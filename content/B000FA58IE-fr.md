@@ -3,6 +3,7 @@ layout: post
 title: 'Writer s Block al 72.13 % de descuento'
 date: 2020-10-17 06:18:25
 thumbnailImage: 'https://m.media-amazon.com/images/I/51XgvMHQf-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51XgvMHQf-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51XgvMHQf-L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 12.56 EUR
 inStock: true
 prodname: 'Writer s Block'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B000FA58IE/?tag=tolees0d-21'
+descuento: '72.13'
+titulo: 'Writer s Block'
 ---
 
 Está [Writer s Block](https://www.amazon.fr/dp/B000FA58IE/?tag=tolees0d-21) con 72.13 de descuento por 3.5 EUR (original: 12.56 EUR) en el siguiente enlace!
 
 [![Writer s Block](https://m.media-amazon.com/images/I/51XgvMHQf-L._SL200_.jpg)](https://www.amazon.fr/dp/B000FA58IE/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B000FA58IE/?tag=tolees0d-21)
 

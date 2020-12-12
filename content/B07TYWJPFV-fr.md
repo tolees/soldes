@@ -3,6 +3,7 @@ layout: post
 title: 'Roleadro Lampe Led Horticole Floraison a al 39.80 % de descuento'
 date: 2020-11-25 13:27:41
 thumbnailImage: 'https://m.media-amazon.com/images/I/51YuuVZ-DeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51YuuVZ-DeL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51YuuVZ-DeL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 132.88 EUR
 inStock: true
 prodname: 'Roleadro Lampe Led Horticole Floraison avec Veg / Bloom Fuction  1000W Led Culture avec IR UV Lumière pour Plante Croissance Floraison'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07TYWJPFV/?tag=tolees0d-21'
+descuento: '39.80'
+titulo: 'Roleadro Lampe Led Horticole Floraison a'
 ---
 
 Está [Roleadro Lampe Led Horticole Floraison avec Veg / Bloom Fuction  1000W Led Culture avec IR UV Lumière pour Plante Croissance Floraison](https://www.amazon.fr/dp/B07TYWJPFV/?tag=tolees0d-21) con 39.80 de descuento por 79.99 EUR (original: 132.88 EUR) en el siguiente enlace!
 
 [![Roleadro Lampe Led Horticole Floraison a](https://m.media-amazon.com/images/I/51YuuVZ-DeL._SL200_.jpg)](https://www.amazon.fr/dp/B07TYWJPFV/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07TYWJPFV/?tag=tolees0d-21)
 

@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 28.40 % en Salomon Speedcross 4 GTX Chaussures de T'
 date: 2020-11-29 20:03:57
 thumbnailImage: 'https://m.media-amazon.com/images/I/41ejw0ltXqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ejw0ltXqL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41ejw0ltXqL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.95 EUR
 inStock: true
 prodname: 'Salomon Speedcross 4 GTX Chaussures de Trail Imperméables pour Homme   Bleu  Sky Diver/Indigo Bunting/Black    44 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07D11WGV3/?tag=tolees0d-21'
+descuento: '28.40'
+titulo: 'Salomon Speedcross 4 GTX Chaussures de T'
 ---
 
 Tienes [Salomon Speedcross 4 GTX Chaussures de Trail Imperméables pour Homme   Bleu  Sky Diver/Indigo Bunting/Black    44 EU](https://www.amazon.fr/dp/B07D11WGV3/?tag=tolees0d-21) con un 28.40 % de descuento con precio de oferta de 107.37 EUR (original: 149.95 EUR) en el siguiente enlace!
 
 [![Salomon Speedcross 4 GTX Chaussures de T](https://m.media-amazon.com/images/I/41ejw0ltXqL._SL200_.jpg)](https://www.amazon.fr/dp/B07D11WGV3/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07D11WGV3/?tag=tolees0d-21)
 

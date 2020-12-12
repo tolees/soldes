@@ -3,6 +3,7 @@ layout: post
 title: 'Puma - Suede Classic - Baskets Mode - Mi al 69.25 % de descuento'
 date: 2020-12-03 09:07:28
 thumbnailImage: 'https://m.media-amazon.com/images/I/41aIKhtPdQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aIKhtPdQL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41aIKhtPdQL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 73.0 EUR
 inStock: true
 prodname: 'Puma - Suede Classic - Baskets Mode - Mixte Adulte - Bleu  Peacoat/White 51  - 37 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00PAJNQ7U/?tag=tolees0d-21'
+descuento: '69.25'
+titulo: 'Puma - Suede Classic - Baskets Mode - Mi'
 ---
 
 Está [Puma - Suede Classic - Baskets Mode - Mixte Adulte - Bleu  Peacoat/White 51  - 37 EU](https://www.amazon.fr/dp/B00PAJNQ7U/?tag=tolees0d-21) con 69.25 de descuento por 22.45 EUR (original: 73.0 EUR) en el siguiente enlace!
 
 [![Puma - Suede Classic - Baskets Mode - Mi](https://m.media-amazon.com/images/I/41aIKhtPdQL._SL200_.jpg)](https://www.amazon.fr/dp/B00PAJNQ7U/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00PAJNQ7U/?tag=tolees0d-21)
 

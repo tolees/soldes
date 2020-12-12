@@ -3,6 +3,7 @@ layout: post
 title: 'JBL E65BTNC Casque Circum-Auriculaire -  al 49.75 % de descuento'
 date: 2020-10-16 07:03:02
 thumbnailImage: 'https://m.media-amazon.com/images/I/31TS2DRHSHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31TS2DRHSHL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31TS2DRHSHL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.0 EUR
 inStock: true
 prodname: 'JBL E65BTNC Casque Circum-Auriculaire - Écouteurs Sans Fil à Réduction de Bruit - Avec Kit Mains-Libres - Autonomie jusqu’à 24 hrs  Bluetooth  Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0765Z1NWV/?tag=tolees0d-21'
+descuento: '49.75'
+titulo: 'JBL E65BTNC Casque Circum-Auriculaire - '
 ---
 
 Está [JBL E65BTNC Casque Circum-Auriculaire - Écouteurs Sans Fil à Réduction de Bruit - Avec Kit Mains-Libres - Autonomie jusqu’à 24 hrs  Bluetooth  Noir](https://www.amazon.fr/dp/B0765Z1NWV/?tag=tolees0d-21) con 49.75 de descuento por 99.99 EUR (original: 199.0 EUR) en el siguiente enlace!
 
 [![JBL E65BTNC Casque Circum-Auriculaire - ](https://m.media-amazon.com/images/I/31TS2DRHSHL._SL200_.jpg)](https://www.amazon.fr/dp/B0765Z1NWV/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0765Z1NWV/?tag=tolees0d-21)
 

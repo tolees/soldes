@@ -3,6 +3,7 @@ layout: post
 title: 'Razer Viper Ultimate - Souris de jeu Esp al 46.67 % de descuento'
 date: 2020-12-06 12:08:38
 thumbnailImage: 'https://m.media-amazon.com/images/I/21t1F+8gqSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21t1F+8gqSL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/21t1F+8gqSL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 149.99 EUR
 inStock: true
 prodname: 'Razer Viper Ultimate - Souris de jeu Esports  souris gamer ambidextre sans fil avec un poids de 74 g  câble Speedflex  mise au point optique + capteur  mémoire DPI intégrée et éclairage chroma RVB '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B081QXQ86Y/?tag=tolees0d-21'
+descuento: '46.67'
+titulo: 'Razer Viper Ultimate - Souris de jeu Esp'
 ---
 
 Ahora mismo tienes [Razer Viper Ultimate - Souris de jeu Esports  souris gamer ambidextre sans fil avec un poids de 74 g  câble Speedflex  mise au point optique + capteur  mémoire DPI intégrée et éclairage chroma RVB ](https://www.amazon.fr/dp/B081QXQ86Y/?tag=tolees0d-21) a 79.99 EUR (original: 149.99 EUR) (46.67 %  de descuento) en el siguiente enlace!
 
 [![Razer Viper Ultimate - Souris de jeu Esp](https://m.media-amazon.com/images/I/21t1F+8gqSL._SL200_.jpg)](https://www.amazon.fr/dp/B081QXQ86Y/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B081QXQ86Y/?tag=tolees0d-21)
 

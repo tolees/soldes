@@ -3,6 +3,7 @@ layout: post
 title: 'True Blood - L intégrale de la série - D al 42.70 % de descuento'
 date: 2020-12-07 16:36:35
 thumbnailImage: 'https://m.media-amazon.com/images/I/51CvimjTMnL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51CvimjTMnL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51CvimjTMnL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 80.26 EUR
 inStock: true
 prodname: 'True Blood - L intégrale de la série - DVD - HBO'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00LUKX8Z8/?tag=tolees0d-21'
+descuento: '42.70'
+titulo: 'True Blood - L intégrale de la série - D'
 ---
 
 Está [True Blood - L intégrale de la série - DVD - HBO](https://www.amazon.fr/dp/B00LUKX8Z8/?tag=tolees0d-21) con 42.70 de descuento por 45.99 EUR (original: 80.26 EUR) en el siguiente enlace!
 
 [![True Blood - L intégrale de la série - D](https://m.media-amazon.com/images/I/51CvimjTMnL._SL200_.jpg)](https://www.amazon.fr/dp/B00LUKX8Z8/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00LUKX8Z8/?tag=tolees0d-21)
 

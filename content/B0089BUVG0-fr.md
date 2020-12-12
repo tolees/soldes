@@ -3,6 +3,7 @@ layout: post
 title: 'Sony DSC-RX100 Appareil Photo Expert Lar al 40.64 % de descuento'
 date: 2020-12-10 03:58:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/41RBj7NuUJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RBj7NuUJL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41RBj7NuUJL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 470.0 EUR
 inStock: true
 prodname: 'Sony DSC-RX100 Appareil Photo Expert Large Capteur 1   CMOS Exmor  20 2 Mpix  Optique Lumineuse'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0089BUVG0/?tag=tolees0d-21'
+descuento: '40.64'
+titulo: 'Sony DSC-RX100 Appareil Photo Expert Lar'
 ---
 
 Ahora mismo tienes [Sony DSC-RX100 Appareil Photo Expert Large Capteur 1   CMOS Exmor  20 2 Mpix  Optique Lumineuse](https://www.amazon.fr/dp/B0089BUVG0/?tag=tolees0d-21) a 278.99 EUR (original: 470.0 EUR) (40.64 %  de descuento) en el siguiente enlace!
 
 [![Sony DSC-RX100 Appareil Photo Expert Lar](https://m.media-amazon.com/images/I/41RBj7NuUJL._SL200_.jpg)](https://www.amazon.fr/dp/B0089BUVG0/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B0089BUVG0/?tag=tolees0d-21)
 

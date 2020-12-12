@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 50.16 % en Batman - l Intégrale de la Série Animée '
 date: 2020-12-07 06:04:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NFPeIdj0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51NFPeIdj0L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NFPeIdj0L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 100.32 EUR
 inStock: true
 prodname: 'Batman - l Intégrale de la Série Animée - Edition Prestige - Coffret DVD'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B00D4AXO5Q/?tag=tolees0d-21'
+descuento: '50.16'
+titulo: 'Batman - l Intégrale de la Série Animée '
 ---
 
 Tienes [Batman - l Intégrale de la Série Animée - Edition Prestige - Coffret DVD](https://www.amazon.fr/dp/B00D4AXO5Q/?tag=tolees0d-21) con un 50.16 % de descuento con precio de oferta de 50.0 EUR (original: 100.32 EUR) en el siguiente enlace!
 
 [![Batman - l Intégrale de la Série Animée ](https://m.media-amazon.com/images/I/51NFPeIdj0L._SL200_.jpg)](https://www.amazon.fr/dp/B00D4AXO5Q/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00D4AXO5Q/?tag=tolees0d-21)
 

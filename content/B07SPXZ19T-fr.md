@@ -3,6 +3,7 @@ layout: post
 title: 'DOOGEE N20 Téléphone Portable Débloqué 4 al 50.00 % de descuento'
 date: 2020-10-14 09:08:42
 thumbnailImage: 'https://m.media-amazon.com/images/I/41x4zzxASGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41x4zzxASGL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41x4zzxASGL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 199.99 EUR
 inStock: true
 prodname: 'DOOGEE N20 Téléphone Portable Débloqué 4G Double SIM  2019 Android 9.0 Smartphone Octa-Core 4 Go+64 Go  6 3 Pouces FHD+ Waterdrop Écran  16MP+8MP+8MP+16MP 4350mAh Face ID+Empreinte Digitale  Violet'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07SPXZ19T/?tag=tolees0d-21'
+descuento: '50.00'
+titulo: 'DOOGEE N20 Téléphone Portable Débloqué 4'
 ---
 
 Ahora mismo tienes [DOOGEE N20 Téléphone Portable Débloqué 4G Double SIM  2019 Android 9.0 Smartphone Octa-Core 4 Go+64 Go  6 3 Pouces FHD+ Waterdrop Écran  16MP+8MP+8MP+16MP 4350mAh Face ID+Empreinte Digitale  Violet](https://www.amazon.fr/dp/B07SPXZ19T/?tag=tolees0d-21) a 99.99 EUR (original: 199.99 EUR) (50.00 %  de descuento) en el siguiente enlace!
 
 [![DOOGEE N20 Téléphone Portable Débloqué 4](https://m.media-amazon.com/images/I/41x4zzxASGL._SL200_.jpg)](https://www.amazon.fr/dp/B07SPXZ19T/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B07SPXZ19T/?tag=tolees0d-21)
 

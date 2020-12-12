@@ -3,6 +3,7 @@ layout: post
 title: 'Lansay- Toy Story 4-Woody Personnage Par al 79.49 % de descuento'
 date: 2020-11-09 07:28:12
 thumbnailImage: 'https://m.media-amazon.com/images/I/41WekXNl1OL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41WekXNl1OL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41WekXNl1OL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Lansay- Toy Story 4-Woody Personnage Parlant Figurine  64613'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07PZXBPYT/?tag=tolees0d-21'
+descuento: '79.49'
+titulo: 'Lansay- Toy Story 4-Woody Personnage Par'
 ---
 
 Está [Lansay- Toy Story 4-Woody Personnage Parlant Figurine  64613](https://www.amazon.fr/dp/B07PZXBPYT/?tag=tolees0d-21) con 79.49 de descuento por 8.2 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Lansay- Toy Story 4-Woody Personnage Par](https://m.media-amazon.com/images/I/41WekXNl1OL._SL200_.jpg)](https://www.amazon.fr/dp/B07PZXBPYT/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07PZXBPYT/?tag=tolees0d-21)
 

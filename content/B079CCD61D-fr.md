@@ -3,6 +3,7 @@ layout: post
 title: 'Jack & Jones Jjebasic Polo SS Noos  Bleu al 30.07 % de descuento'
 date: 2020-10-30 13:55:48
 thumbnailImage: 'https://m.media-amazon.com/images/I/318lpwn81TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318lpwn81TL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/318lpwn81TL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.0 EUR
 inStock: true
 prodname: 'Jack & Jones Jjebasic Polo SS Noos  Bleu  Navy Blazer Detail: Slim Fit   X-Large Homme'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B079CCD61D/?tag=tolees0d-21'
+descuento: '30.07'
+titulo: 'Jack & Jones Jjebasic Polo SS Noos  Bleu'
 ---
 
 Ahora mismo tienes [Jack & Jones Jjebasic Polo SS Noos  Bleu  Navy Blazer Detail: Slim Fit   X-Large Homme](https://www.amazon.fr/dp/B079CCD61D/?tag=tolees0d-21) a 10.49 EUR (original: 15.0 EUR) (30.07 %  de descuento) en el siguiente enlace!
 
 [![Jack & Jones Jjebasic Polo SS Noos  Bleu](https://m.media-amazon.com/images/I/318lpwn81TL._SL200_.jpg)](https://www.amazon.fr/dp/B079CCD61D/?tag=tolees0d-21)
+
+Características:
+
 
 [Visítala!!!](https://www.amazon.fr/dp/B079CCD61D/?tag=tolees0d-21)
 

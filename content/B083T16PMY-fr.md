@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 58.34 % en Resident Evil 3 - Edition lenticulaire E'
 date: 2020-11-26 18:17:56
 thumbnailImage: 'https://m.media-amazon.com/images/I/41qAD9icPtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qAD9icPtL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41qAD9icPtL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 59.99 EUR
 inStock: true
 prodname: 'Resident Evil 3 - Edition lenticulaire Exclusivité Amazon'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B083T16PMY/?tag=tolees0d-21'
+descuento: '58.34'
+titulo: 'Resident Evil 3 - Edition lenticulaire E'
 ---
 
 Tienes [Resident Evil 3 - Edition lenticulaire Exclusivité Amazon](https://www.amazon.fr/dp/B083T16PMY/?tag=tolees0d-21) con un 58.34 % de descuento con precio de oferta de 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Resident Evil 3 - Edition lenticulaire E](https://m.media-amazon.com/images/I/41qAD9icPtL._SL200_.jpg)](https://www.amazon.fr/dp/B083T16PMY/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B083T16PMY/?tag=tolees0d-21)
 

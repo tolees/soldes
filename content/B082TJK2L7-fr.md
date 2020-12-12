@@ -3,6 +3,7 @@ layout: post
 title: 'Lacoste Chaymon 0120 2 CMA  Basket Homme al 32.22 % de descuento'
 date: 2020-10-23 18:44:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/31eUteeWP9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eUteeWP9L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31eUteeWP9L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 115.0 EUR
 inStock: true
 prodname: 'Lacoste Chaymon 0120 2 CMA  Basket Homme  Blanc  WHT/NVY/Red   40 EU'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B082TJK2L7/?tag=tolees0d-21'
+descuento: '32.22'
+titulo: 'Lacoste Chaymon 0120 2 CMA  Basket Homme'
 ---
 
 Está [Lacoste Chaymon 0120 2 CMA  Basket Homme  Blanc  WHT/NVY/Red   40 EU](https://www.amazon.fr/dp/B082TJK2L7/?tag=tolees0d-21) con 32.22 de descuento por 77.95 EUR (original: 115.0 EUR) en el siguiente enlace!
 
 [![Lacoste Chaymon 0120 2 CMA  Basket Homme](https://m.media-amazon.com/images/I/31eUteeWP9L._SL200_.jpg)](https://www.amazon.fr/dp/B082TJK2L7/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B082TJK2L7/?tag=tolees0d-21)
 

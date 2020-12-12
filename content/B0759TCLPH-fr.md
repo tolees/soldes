@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 35.63 % en RT100 Platine'
 date: 2020-11-27 09:48:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/31tAgSysZkL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31tAgSysZkL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/31tAgSysZkL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 299.0 EUR
 inStock: true
 prodname: 'RT100 Platine'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B0759TCLPH/?tag=tolees0d-21'
+descuento: '35.63'
+titulo: 'RT100 Platine'
 ---
 
 Tienes [RT100 Platine](https://www.amazon.fr/dp/B0759TCLPH/?tag=tolees0d-21) con un 35.63 % de descuento con precio de oferta de 192.48 EUR (original: 299.0 EUR) en el siguiente enlace!
 
 [![RT100 Platine](https://m.media-amazon.com/images/I/31tAgSysZkL._SL200_.jpg)](https://www.amazon.fr/dp/B0759TCLPH/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B0759TCLPH/?tag=tolees0d-21)
 

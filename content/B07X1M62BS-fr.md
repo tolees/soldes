@@ -3,6 +3,7 @@ layout: post
 title: 'Lego Ninjago  Les maîtres du Spinjitzu-S al 50.16 % de descuento'
 date: 2020-12-07 17:05:39
 thumbnailImage: 'https://m.media-amazon.com/images/I/51PVHXrP1kL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51PVHXrP1kL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51PVHXrP1kL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 60.19 EUR
 inStock: true
 prodname: 'Lego Ninjago  Les maîtres du Spinjitzu-Saisons 3 à 9'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07X1M62BS/?tag=tolees0d-21'
+descuento: '50.16'
+titulo: 'Lego Ninjago  Les maîtres du Spinjitzu-S'
 ---
 
 Está [Lego Ninjago  Les maîtres du Spinjitzu-Saisons 3 à 9](https://www.amazon.fr/dp/B07X1M62BS/?tag=tolees0d-21) con 50.16 de descuento por 30.0 EUR (original: 60.19 EUR) en el siguiente enlace!
 
 [![Lego Ninjago  Les maîtres du Spinjitzu-S](https://m.media-amazon.com/images/I/51PVHXrP1kL._SL200_.jpg)](https://www.amazon.fr/dp/B07X1M62BS/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07X1M62BS/?tag=tolees0d-21)
 

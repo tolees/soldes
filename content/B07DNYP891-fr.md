@@ -3,6 +3,7 @@ layout: post
 title: 'Roccat Vulcan 120 - Clavier de Jeu Noir  al 37.53 % de descuento'
 date: 2020-11-27 09:05:24
 thumbnailImage: 'https://m.media-amazon.com/images/I/513Pa2lWhfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513Pa2lWhfL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/513Pa2lWhfL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 159.99 EUR
 inStock: true
 prodname: 'Roccat Vulcan 120 - Clavier de Jeu Noir  gaming mécanique RGB  Rétro-Éclarage LED Aimo Multicolore touche par touche  Switchs Titan  Conception Durable  Plaque Supérieure en aluminium '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07DNYP891/?tag=tolees0d-21'
+descuento: '37.53'
+titulo: 'Roccat Vulcan 120 - Clavier de Jeu Noir '
 ---
 
 Está [Roccat Vulcan 120 - Clavier de Jeu Noir  gaming mécanique RGB  Rétro-Éclarage LED Aimo Multicolore touche par touche  Switchs Titan  Conception Durable  Plaque Supérieure en aluminium ](https://www.amazon.fr/dp/B07DNYP891/?tag=tolees0d-21) con 37.53 de descuento por 99.94 EUR (original: 159.99 EUR) en el siguiente enlace!
 
 [![Roccat Vulcan 120 - Clavier de Jeu Noir ](https://m.media-amazon.com/images/I/513Pa2lWhfL._SL200_.jpg)](https://www.amazon.fr/dp/B07DNYP891/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07DNYP891/?tag=tolees0d-21)
 

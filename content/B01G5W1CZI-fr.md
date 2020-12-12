@@ -3,6 +3,7 @@ layout: post
 title: 'Basket Case 2  Frère de Sang 2  [Blu-Ray al 53.89 % de descuento'
 date: 2020-12-01 04:30:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/51cPpJ9IcsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cPpJ9IcsL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51cPpJ9IcsL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.05 EUR
 inStock: true
 prodname: 'Basket Case 2  Frère de Sang 2  [Blu-Ray]'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B01G5W1CZI/?tag=tolees0d-21'
+descuento: '53.89'
+titulo: 'Basket Case 2  Frère de Sang 2  [Blu-Ray'
 ---
 
 Está [Basket Case 2  Frère de Sang 2  [Blu-Ray]](https://www.amazon.fr/dp/B01G5W1CZI/?tag=tolees0d-21) con 53.89 de descuento por 6.94 EUR (original: 15.05 EUR) en el siguiente enlace!
 
 [![Basket Case 2  Frère de Sang 2  [Blu-Ray](https://m.media-amazon.com/images/I/51cPpJ9IcsL._SL200_.jpg)](https://www.amazon.fr/dp/B01G5W1CZI/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01G5W1CZI/?tag=tolees0d-21)
 

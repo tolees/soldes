@@ -3,6 +3,7 @@ layout: post
 title: 'Charmoni Grand Classique Portefeuille en al 45.91 % de descuento'
 date: 2020-11-03 22:48:55
 thumbnailImage: 'https://m.media-amazon.com/images/I/41NKUD5w7uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NKUD5w7uL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41NKUD5w7uL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 49.9 EUR
 inStock: true
 prodname: 'Charmoni Grand Classique Portefeuille en Cuir Protection RFID Blocage Homme  Marron 06 Lisse '
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07KWFQDLW/?tag=tolees0d-21'
+descuento: '45.91'
+titulo: 'Charmoni Grand Classique Portefeuille en'
 ---
 
 Está [Charmoni Grand Classique Portefeuille en Cuir Protection RFID Blocage Homme  Marron 06 Lisse ](https://www.amazon.fr/dp/B07KWFQDLW/?tag=tolees0d-21) con 45.91 de descuento por 26.99 EUR (original: 49.9 EUR) en el siguiente enlace!
 
 [![Charmoni Grand Classique Portefeuille en](https://m.media-amazon.com/images/I/41NKUD5w7uL._SL200_.jpg)](https://www.amazon.fr/dp/B07KWFQDLW/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KWFQDLW/?tag=tolees0d-21)
 

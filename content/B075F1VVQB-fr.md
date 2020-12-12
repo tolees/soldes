@@ -3,6 +3,7 @@ layout: post
 title: 'Trust Gaming GXT 138 X-Ray Souris Gamer  al 37.51 % de descuento'
 date: 2020-12-09 18:17:08
 thumbnailImage: 'https://m.media-amazon.com/images/I/41vbiY0ZBgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vbiY0ZBgL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41vbiY0ZBgL._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 39.99 EUR
 inStock: true
 prodname: 'Trust Gaming GXT 138 X-Ray Souris Gamer Illuminée  4000 dpi  10 Boutons  Led Lumineuse - Noir'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B075F1VVQB/?tag=tolees0d-21'
+descuento: '37.51'
+titulo: 'Trust Gaming GXT 138 X-Ray Souris Gamer '
 ---
 
 Está [Trust Gaming GXT 138 X-Ray Souris Gamer Illuminée  4000 dpi  10 Boutons  Led Lumineuse - Noir](https://www.amazon.fr/dp/B075F1VVQB/?tag=tolees0d-21) con 37.51 de descuento por 24.99 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Trust Gaming GXT 138 X-Ray Souris Gamer ](https://m.media-amazon.com/images/I/41vbiY0ZBgL._SL200_.jpg)](https://www.amazon.fr/dp/B075F1VVQB/?tag=tolees0d-21)
+
+Principales características:
+
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B075F1VVQB/?tag=tolees0d-21)
 

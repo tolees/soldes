@@ -3,6 +3,7 @@ layout: post
 title: 'Descuento del 57.28 % en Tomb Raider  2018  – Blu-Ray'
 date: 2020-11-05 11:11:44
 thumbnailImage: 'https://m.media-amazon.com/images/I/51xR+7LQt7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51xR+7LQt7L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51xR+7LQt7L._SL200_.jpg' ]
 comments: true
 category: ofertas
@@ -16,11 +17,17 @@ comparePrice: 15.05 EUR
 inStock: true
 prodname: 'Tomb Raider  2018  – Blu-Ray'
 country: 'fr'
+buyurl: 'https://www.amazon.fr/dp/B07BHFB8TB/?tag=tolees0d-21'
+descuento: '57.28'
+titulo: 'Tomb Raider  2018  – Blu-Ray'
 ---
 
 Tienes [Tomb Raider  2018  – Blu-Ray](https://www.amazon.fr/dp/B07BHFB8TB/?tag=tolees0d-21) con un 57.28 % de descuento con precio de oferta de 6.43 EUR (original: 15.05 EUR) en el siguiente enlace!
 
 [![Tomb Raider  2018  – Blu-Ray](https://m.media-amazon.com/images/I/51xR+7LQt7L._SL200_.jpg)](https://www.amazon.fr/dp/B07BHFB8TB/?tag=tolees0d-21)
+
+Características principales:
+
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07BHFB8TB/?tag=tolees0d-21)
 
