@@ -26,7 +26,7 @@ Tienes [Nintendo NINTENDO NES Console Bi-Fold Wallet  Multi-Colour  MW270709NTN 
 
 - Emplacements pour cartes et carte didentité pliable.
 - Produit sous licence officielle Nintendo.
-- Qualité supérieure.
 - 70 % polyuréthane, 30 % polyester
+- Qualité supérieure.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B078MGGWBZ/?tag=tolees0d-21)

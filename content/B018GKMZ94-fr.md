@@ -24,10 +24,10 @@ Está [Mauboussin - Eau de Parfum Femme - Promise Me - Senteur Chypré & Moderne
 
 ℹ️:
 
+- UNE SENTEUR INTEMPORELLE : Une eau de parfum sacrée à la puissance dun sement.
 - UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour.
 - LES NOTES OLFACTIVES : Notes de tête : mandarine de Sicile ; Notes de coeur : rose, heliotrope blanc ; Note de fond : patchouli.
-- UN PARFUM BIJOU : Puissance et majesté sont dédiées à ce flacon-cadenas signé par l’élégance de la bague MAUBOUSSIN « le premier jour».
-- UNE SENTEUR INTEMPORELLE : Une eau de parfum sacrée à la puissance dun sement.
 - UNE FRAGRANCE UNIQUE : une fragrance addictive et racée, signée par une pointe de patchouli rare d’Indonésie qui crée un sillage saisissant.
+- UN PARFUM BIJOU : Puissance et majesté sont dédiées à ce flacon-cadenas signé par l’élégance de la bague MAUBOUSSIN « le premier jour».
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B018GKMZ94/?tag=tolees0d-21)
