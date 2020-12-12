@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 57.06 % en HP EliteBook 840 G2 - PC Portable - 14  '
 date: 2020-06-12 01:08:42
-thumbnailImage: 'https://m.media-amazon.com/images/I/41wPLJM-2GL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41wPLJM-2GL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41wPLJM-2GL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07TKBDC95-fr'
-description:
 actualPrice: 429.0 EUR
 currency: EUR
 price: 429.0
 comparePrice: 999.0 EUR
-inStock: true
 prodname: 'HP EliteBook 840 G2 - PC Portable - 14   -  Core i5-5300U / 2.30 GHz  8Go de RAM  Disque SSD 180Go SSD  WiFi  Windows 10  Bluetooth  AZERTY Clavier  Modèle très Rapide  Reconditionné '
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21'
 descuento: '57.06'
-titulo: 'HP EliteBook 840 G2 - PC Portable - 14  '
 ---
 
 Tienes [HP EliteBook 840 G2 - PC Portable - 14   -  Core i5-5300U / 2.30 GHz  8Go de RAM  Disque SSD 180Go SSD  WiFi  Windows 10  Bluetooth  AZERTY Clavier  Modèle très Rapide  Reconditionné ](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21) con un 57.06 % de descuento con precio de oferta de 429.0 EUR (original: 999.0 EUR) en el siguiente enlace!
 
 [![HP EliteBook 840 G2 - PC Portable - 14  ](https://m.media-amazon.com/images/I/41wPLJM-2GL._SL200_.jpg)](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

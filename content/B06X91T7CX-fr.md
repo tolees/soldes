@@ -2,33 +2,27 @@
 layout: post
 title: 'GreedFall al 59.13 % de descuento'
 date: 2020-10-02 13:06:56
-thumbnailImage: 'https://m.media-amazon.com/images/I/51Mq+1D6AVL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51Mq+1D6AVL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51Mq+1D6AVL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B06X91T7CX-fr'
-description:
 actualPrice: 20.43 EUR
 currency: EUR
 price: 20.43
 comparePrice: 49.99 EUR
-inStock: true
 prodname: 'GreedFall'
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21'
 descuento: '59.13'
-titulo: 'GreedFall'
 ---
 
 Ahora mismo tienes [GreedFall](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21) a 20.43 EUR (original: 49.99 EUR) (59.13 %  de descuento) en el siguiente enlace!
 
 [![GreedFall](https://m.media-amazon.com/images/I/51Mq+1D6AVL._SL200_.jpg)](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

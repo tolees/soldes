@@ -2,33 +2,27 @@
 layout: post
 title: 'FIFA 20 - Standard Edition al 57.21 % de descuento'
 date: 2020-12-04 20:04:56
-thumbnailImage: 'https://m.media-amazon.com/images/I/51gnv2KJj8L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51gnv2KJj8L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51gnv2KJj8L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07SRF26S8-fr'
-description:
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95
 comparePrice: 69.99 EUR
-inStock: true
 prodname: 'FIFA 20 - Standard Edition'
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SRF26S8/?tag=tolees0d-21'
 descuento: '57.21'
-titulo: 'FIFA 20 - Standard Edition'
 ---
 
 Ahora mismo tienes [FIFA 20 - Standard Edition](https://www.amazon.fr/dp/B07SRF26S8/?tag=tolees0d-21) a 29.95 EUR (original: 69.99 EUR) (57.21 %  de descuento) en el siguiente enlace!
 
 [![FIFA 20 - Standard Edition](https://m.media-amazon.com/images/I/51gnv2KJj8L._SL200_.jpg)](https://www.amazon.fr/dp/B07SRF26S8/?tag=tolees0d-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07SRF26S8/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

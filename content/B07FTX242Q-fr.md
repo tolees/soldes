@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 51.12 % en Millet - High Route GTX M - Chaussures H'
 date: 2020-08-10 21:03:43
-thumbnailImage: 'https://m.media-amazon.com/images/I/413xgipLprL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/413xgipLprL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/413xgipLprL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07FTX242Q-fr'
-description:
 actualPrice: 97.74 EUR
 currency: EUR
 price: 97.74
 comparePrice: 199.95 EUR
-inStock: true
 prodname: 'Millet - High Route GTX M - Chaussures Hautes de Randonnée - Homme - Membrane Gore-Tex Imperméable Respirante - Semelle Vibram - Noir - 48'
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21'
 descuento: '51.12'
-titulo: 'Millet - High Route GTX M - Chaussures H'
 ---
 
 Tienes [Millet - High Route GTX M - Chaussures Hautes de Randonnée - Homme - Membrane Gore-Tex Imperméable Respirante - Semelle Vibram - Noir - 48](https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21) con un 51.12 % de descuento con precio de oferta de 97.74 EUR (original: 199.95 EUR) en el siguiente enlace!
 
 [![Millet - High Route GTX M - Chaussures H](https://m.media-amazon.com/images/I/413xgipLprL._SL200_.jpg)](https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

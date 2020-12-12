@@ -2,35 +2,27 @@
 layout: post
 title: 'Icebreaker Victory LS Zip Veste Homme Je al 53.78 % de descuento'
 date: 2020-08-04 18:04:33
-thumbnailImage: 'https://m.media-amazon.com/images/I/41EZj+ouNpL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41EZj+ouNpL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41EZj+ouNpL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07W1J5CN3-fr'
-description:
 actualPrice: 64.68 EUR
 currency: EUR
 price: 64.68
 comparePrice: 139.95 EUR
-inStock: true
 prodname: 'Icebreaker Victory LS Zip Veste Homme Jet HTHR FR : M  Taille Fabricant : M '
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W1J5CN3/?tag=tolees0d-21'
 descuento: '53.78'
-titulo: 'Icebreaker Victory LS Zip Veste Homme Je'
 ---
 
 Está [Icebreaker Victory LS Zip Veste Homme Jet HTHR FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B07W1J5CN3/?tag=tolees0d-21) con 53.78 de descuento por 64.68 EUR (original: 139.95 EUR) en el siguiente enlace!
 
 [![Icebreaker Victory LS Zip Veste Homme Je](https://m.media-amazon.com/images/I/41EZj+ouNpL._SL200_.jpg)](https://www.amazon.fr/dp/B07W1J5CN3/?tag=tolees0d-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07W1J5CN3/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

@@ -2,35 +2,27 @@
 layout: post
 title: 'Jabra BIZ™ 2400 II Duo  NOUVELLE GENERAT al 28.12 % de descuento'
 date: 2020-05-22 23:54:16
-thumbnailImage: 'https://m.media-amazon.com/images/I/4161smxiOxL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/4161smxiOxL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/4161smxiOxL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B00W2B4XY4-fr'
-description:
 actualPrice: 190.48 EUR
 currency: EUR
 price: 190.48
 comparePrice: 264.99 EUR
-inStock: true
 prodname: 'Jabra BIZ™ 2400 II Duo  NOUVELLE GENERATION - Type: 72 UNC  UNC = Ultra-Noise-Cancelling  microphone ultra anti-bruit'
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21'
 descuento: '28.12'
-titulo: 'Jabra BIZ™ 2400 II Duo  NOUVELLE GENERAT'
 ---
 
 Está [Jabra BIZ™ 2400 II Duo  NOUVELLE GENERATION - Type: 72 UNC  UNC = Ultra-Noise-Cancelling  microphone ultra anti-bruit](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21) con 28.12 de descuento por 190.48 EUR (original: 264.99 EUR) en el siguiente enlace!
 
 [![Jabra BIZ™ 2400 II Duo  NOUVELLE GENERAT](https://m.media-amazon.com/images/I/4161smxiOxL._SL200_.jpg)](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21)
 
-Principales características:
+ℹ️:
 
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

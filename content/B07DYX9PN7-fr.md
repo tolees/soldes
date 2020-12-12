@@ -2,33 +2,27 @@
 layout: post
 title: 'Columbia Powder Lite Veste Polaire Femme al 47.78 % de descuento'
 date: 2020-11-12 21:54:39
-thumbnailImage: 'https://m.media-amazon.com/images/I/31GjU-HmJrL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/31GjU-HmJrL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/31GjU-HmJrL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07DYX9PN7-fr'
-description:
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99
 comparePrice: 89.99 EUR
-inStock: true
 prodname: 'Columbia Powder Lite Veste Polaire Femme'
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DYX9PN7/?tag=tolees0d-21'
 descuento: '47.78'
-titulo: 'Columbia Powder Lite Veste Polaire Femme'
 ---
 
 Ahora mismo tienes [Columbia Powder Lite Veste Polaire Femme](https://www.amazon.fr/dp/B07DYX9PN7/?tag=tolees0d-21) a 46.99 EUR (original: 89.99 EUR) (47.78 %  de descuento) en el siguiente enlace!
 
 [![Columbia Powder Lite Veste Polaire Femme](https://m.media-amazon.com/images/I/31GjU-HmJrL._SL200_.jpg)](https://www.amazon.fr/dp/B07DYX9PN7/?tag=tolees0d-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DYX9PN7/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

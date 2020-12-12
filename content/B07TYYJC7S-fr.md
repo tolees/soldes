@@ -2,38 +2,32 @@
 layout: post
 title: 'BRIKSMAX Kit de LED pour Lego Architectu al 61.01 % de descuento'
 date: 2020-12-12 00:10:51
-thumbnailImage: 'https://m.media-amazon.com/images/I/51VYx4OQQRL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51VYx4OQQRL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51VYx4OQQRL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07TYYJC7S-fr'
-description:
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99
 comparePrice: 99.99 EUR
-inStock: true
 prodname: 'BRIKSMAX Kit de LED pour Lego Architecture Trafalgar Square  Compatible avec la Maquette Lego 21045  La Maquette de Construction n est Pas Incluse'
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TYYJC7S/?tag=tolees0d-21'
 descuento: '61.01'
-titulo: 'BRIKSMAX Kit de LED pour Lego Architectu'
 ---
 
 Ahora mismo tienes [BRIKSMAX Kit de LED pour Lego Architecture Trafalgar Square  Compatible avec la Maquette Lego 21045  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B07TYYJC7S/?tag=tolees0d-21) a 38.99 EUR (original: 99.99 EUR) (61.01 %  de descuento) en el siguiente enlace!
 
 [![BRIKSMAX Kit de LED pour Lego Architectu](https://m.media-amazon.com/images/I/51VYx4OQQRL._SL200_.jpg)](https://www.amazon.fr/dp/B07TYYJC7S/?tag=tolees0d-21)
 
-Características:
+ℹ️:
 
-- Conçu pour la maquette Lego 21045, avec ce kit déclairage, vous pouvez faire passer votre LEGO Architecture Trafalgar Square de lobscurité à la lumière, lui donner vie.
-- Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
 - Le paquet contient les bit lights,les bandes lumineuses, les panneaux dexpansion, les câbles, un bloc-pile (piles non incluses), les carrés adhésifs, le manuel dinstructions.
 - Avec les instructions étape par étape, vous trouverez un moyen plus facile de faire de magnifiques améliorations sur votre kit de construction préféré.
+- Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
 - Veuillez noter que seule les lumières LED sont incluses. Tous les sets LEGO montrés en images et vidéos ne sont pas inclus.
+- Conçu pour la maquette Lego 21045, avec ce kit déclairage, vous pouvez faire passer votre LEGO Architecture Trafalgar Square de lobscurité à la lumière, lui donner vie.
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TYYJC7S/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales

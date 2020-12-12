@@ -17,7 +17,7 @@ jobs:
         with:
           version: latest
           extended: false
-          args:  --minify --verbose
+          args: --minify --verbose
       -
         name: Deploy to GitHub Pages
         if: success() && github.event_name != 'pull_request'

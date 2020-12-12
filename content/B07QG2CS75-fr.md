@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 33.34 % en BRIKSMAX Kit de LED pour Architecture Lo'
 date: 2020-12-09 21:47:18
-thumbnailImage: 'https://m.media-amazon.com/images/I/51G5apoWP-L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51G5apoWP-L._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51G5apoWP-L._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QG2CS75-fr'
-description:
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99
 comparePrice: 68.99 EUR
-inStock: true
 prodname: 'BRIKSMAX Kit de LED pour Architecture Londres  Compatible avec la Maquette Lego 21034  La Maquette de Construction n est Pas Incluse'
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QG2CS75/?tag=tolees0d-21'
 descuento: '33.34'
-titulo: 'BRIKSMAX Kit de LED pour Architecture Lo'
 ---
 
 Tienes [BRIKSMAX Kit de LED pour Architecture Londres  Compatible avec la Maquette Lego 21034  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B07QG2CS75/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 45.99 EUR (original: 68.99 EUR) en el siguiente enlace!
 
 [![BRIKSMAX Kit de LED pour Architecture Lo](https://m.media-amazon.com/images/I/51G5apoWP-L._SL200_.jpg)](https://www.amazon.fr/dp/B07QG2CS75/?tag=tolees0d-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07QG2CS75/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

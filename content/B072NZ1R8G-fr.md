@@ -2,35 +2,27 @@
 layout: post
 title: 'Descuento del 30.12 % en Scie coupe droite sans fil Bosch - Easyc'
 date: 2020-05-26 21:54:29
-thumbnailImage: 'https://m.media-amazon.com/images/I/51JA0dRRvCL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51JA0dRRvCL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/51JA0dRRvCL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B072NZ1R8G-fr'
-description:
 actualPrice: 97.82 EUR
 currency: EUR
 price: 97.82
 comparePrice: 139.99 EUR
-inStock: true
 prodname: 'Scie coupe droite sans fil Bosch - Easycut 12  Livré avec une batterie 12V-2 5Ah et coffret  une lame NanoBlade bois  profondeur de coupe: 65mm '
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B072NZ1R8G/?tag=tolees0d-21'
 descuento: '30.12'
-titulo: 'Scie coupe droite sans fil Bosch - Easyc'
 ---
 
 Tienes [Scie coupe droite sans fil Bosch - Easycut 12  Livré avec une batterie 12V-2 5Ah et coffret  une lame NanoBlade bois  profondeur de coupe: 65mm ](https://www.amazon.fr/dp/B072NZ1R8G/?tag=tolees0d-21) con un 30.12 % de descuento con precio de oferta de 97.82 EUR (original: 139.99 EUR) en el siguiente enlace!
 
 [![Scie coupe droite sans fil Bosch - Easyc](https://m.media-amazon.com/images/I/51JA0dRRvCL._SL200_.jpg)](https://www.amazon.fr/dp/B072NZ1R8G/?tag=tolees0d-21)
 
-Características principales:
+ℹ️:
 
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B072NZ1R8G/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
-
-

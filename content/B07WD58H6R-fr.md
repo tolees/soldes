@@ -2,33 +2,27 @@
 layout: post
 title: 'Sony WH-CH510 Casque Sans Fil Bluetooth  al 28.02 % de descuento'
 date: 2020-12-07 02:57:02
-thumbnailImage: 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL200_.jpg'
-images: [ 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL200_.jpg' ]
 comments: true
 category: ofertas
 author: ring
 slug: 'B07WD58H6R-fr'
-description:
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99
 comparePrice: 50.0 EUR
-inStock: true
 prodname: 'Sony WH-CH510 Casque Sans Fil Bluetooth avec micro intégré et appels mains libres - Noir'
 country: 'fr'
+flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21'
 descuento: '28.02'
-titulo: 'Sony WH-CH510 Casque Sans Fil Bluetooth '
 ---
 
 Ahora mismo tienes [Sony WH-CH510 Casque Sans Fil Bluetooth avec micro intégré et appels mains libres - Noir](https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21) a 35.99 EUR (original: 50.0 EUR) (28.02 %  de descuento) en el siguiente enlace!
 
 [![Sony WH-CH510 Casque Sans Fil Bluetooth ](https://m.media-amazon.com/images/I/41SNAhNcaDL._SL200_.jpg)](https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21)
 
-Características:
+ℹ️:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21)
-
-Links participate in Amazon Associate program and might generate a comission on qualifying sales
