@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 1to USB 3.0 Disque Dur Externe pour PC  M
 
 [![Disque Dur Externe 1to USB 3.0 Disque Du](https://m.media-amazon.com/images/I/41e++9OBNcL._SL200_.jpg)](https://www.amazon.fr/dp/B08GLBSWNX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08GLBSWNX/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips GC7933/30 Centrale Vapeur PerfectCare Compact Plus s
 
 [![Philips GC7933/30 Centrale Vapeur Perfec](https://m.media-amazon.com/images/I/41xsfHTF6sL._SL200_.jpg)](https://www.amazon.fr/dp/B07MMSWP7C/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07MMSWP7C/?tag=tolees0d-21)

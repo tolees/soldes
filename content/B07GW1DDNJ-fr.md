@@ -22,7 +22,7 @@ Ahora mismo tienes [Just Dance 2019 - Edition Amazon pour Nintendo Switch](https
 
 [![Just Dance 2019 - Edition Amazon pour Ni](https://m.media-amazon.com/images/I/41mmRXnp23L._SL200_.jpg)](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21)

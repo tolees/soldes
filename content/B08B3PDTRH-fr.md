@@ -22,7 +22,7 @@ Ahora mismo tienes [Rasoir électrique pour hommes  rasoir électrique rotatif r
 
 [![Rasoir électrique pour hommes  rasoir él](https://m.media-amazon.com/images/I/41ASW7ASCcL._SL200_.jpg)](https://www.amazon.fr/dp/B08B3PDTRH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08B3PDTRH/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Safavieh Tapis Texturé  Tufté à la main la Laine Tapis en
 
 [![Safavieh Tapis Texturé  Tufté à la main ](https://m.media-amazon.com/images/I/611ghUW6JyL._SL200_.jpg)](https://www.amazon.fr/dp/B00OCXSFF8/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00OCXSFF8/?tag=tolees0d-21)

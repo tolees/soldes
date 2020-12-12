@@ -22,7 +22,7 @@ Ahora mismo tienes [Art 1330 Memphis Güell  Sandales Bout Ouvert Femme  Marron 
 
 [![Art 1330 Memphis Güell  Sandales Bout Ou](https://m.media-amazon.com/images/I/41RFRq7Gw8L._SL200_.jpg)](https://www.amazon.fr/dp/B07KRS928D/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07KRS928D/?tag=tolees0d-21)

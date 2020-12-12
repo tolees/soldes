@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 2 to  Disque Dur Externe Portable pour PC
 
 [![Disque Dur Externe 2 to  Disque Dur Exte](https://m.media-amazon.com/images/I/41dndfM6dTL._SL200_.jpg)](https://www.amazon.fr/dp/B08D63F6FQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08D63F6FQ/?tag=tolees0d-21)

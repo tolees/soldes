@@ -22,7 +22,7 @@ Ahora mismo tienes [Reshias Coque pour Sony Xperia 10 II  Souple Transparent TPU
 
 [![Reshias Coque pour Sony Xperia 10 II  So](https://m.media-amazon.com/images/I/513oCw9HPVL._SL200_.jpg)](https://www.amazon.fr/dp/B08JCH3YMN/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08JCH3YMN/?tag=tolees0d-21)

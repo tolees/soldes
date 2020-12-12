@@ -22,7 +22,7 @@ Ahora mismo tienes [Lemnoi 7.5" Pouce LCD Horloge Numérique Calendrier avec Dat
 
 [![Lemnoi 7.5" Pouce LCD Horloge Numérique ](https://m.media-amazon.com/images/I/41E+pgUygmL._SL200_.jpg)](https://www.amazon.fr/dp/B088NPM97G/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B088NPM97G/?tag=tolees0d-21)

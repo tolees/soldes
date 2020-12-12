@@ -22,7 +22,7 @@ Ahora mismo tienes [Manix Skyn king size préservatifs - La boite de 20 préserv
 
 [![Manix Skyn king size préservatifs - La b](https://m.media-amazon.com/images/I/413RAfSlYxL._SL200_.jpg)](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21)

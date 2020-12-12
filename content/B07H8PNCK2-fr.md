@@ -22,7 +22,7 @@ Ahora mismo tienes [Nero Platinum 2019](https://www.amazon.fr/dp/B07H8PNCK2/?tag
 
 [![Nero Platinum 2019](https://m.media-amazon.com/images/I/41UrYjUxzAL._SL200_.jpg)](https://www.amazon.fr/dp/B07H8PNCK2/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07H8PNCK2/?tag=tolees0d-21)

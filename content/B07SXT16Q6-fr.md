@@ -22,7 +22,7 @@ Ahora mismo tienes [Geox D TABELYA A  Sneakers Basses Femme  Beige  Cream/Lt Gol
 
 [![Geox D TABELYA A  Sneakers Basses Femme ](https://m.media-amazon.com/images/I/41faKShfkfL._SL200_.jpg)](https://www.amazon.fr/dp/B07SXT16Q6/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07SXT16Q6/?tag=tolees0d-21)

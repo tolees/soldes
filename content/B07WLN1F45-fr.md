@@ -22,7 +22,7 @@ Ahora mismo tienes [LIVOO DOP142N Robot culinaire Chauffant](https://www.amazon.
 
 [![LIVOO DOP142N Robot culinaire Chauffant](https://m.media-amazon.com/images/I/418gWdkXGxL._SL200_.jpg)](https://www.amazon.fr/dp/B07WLN1F45/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07WLN1F45/?tag=tolees0d-21)

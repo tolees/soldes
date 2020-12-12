@@ -22,7 +22,7 @@ Ahora mismo tienes [Objectif Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3  zoom 
 
 [![Objectif Olympus M.Zuiko Digital ED 12-2](https://m.media-amazon.com/images/I/41a3YP8BETL._SL200_.jpg)](https://www.amazon.fr/dp/B07NF4CWDY/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07NF4CWDY/?tag=tolees0d-21)

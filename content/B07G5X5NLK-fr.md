@@ -22,7 +22,7 @@ Ahora mismo tienes [Holy Stone HS160 RC Drone Pliable avec Caméra HD 720P WiFi 
 
 [![Holy Stone HS160 RC Drone Pliable avec C](https://m.media-amazon.com/images/I/41QobUYHk3L._SL200_.jpg)](https://www.amazon.fr/dp/B07G5X5NLK/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07G5X5NLK/?tag=tolees0d-21)

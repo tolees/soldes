@@ -22,7 +22,7 @@ Ahora mismo tienes [Vansuny Disque Dur Externe SSD 250Go  SSD Portable USB 3.1 G
 
 [![Vansuny Disque Dur Externe SSD 250Go  SS](https://m.media-amazon.com/images/I/313cIGGH3WL._SL200_.jpg)](https://www.amazon.fr/dp/B08BZ9BYGY/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08BZ9BYGY/?tag=tolees0d-21)

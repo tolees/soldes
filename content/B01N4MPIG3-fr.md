@@ -22,7 +22,7 @@ Ahora mismo tienes [Bracelet Magnétique Avec 15 Puissants Aimants Cadeau Homme 
 
 [![Bracelet Magnétique Avec 15 Puissants Ai](https://m.media-amazon.com/images/I/51OTYMI--0L._SL200_.jpg)](https://www.amazon.fr/dp/B01N4MPIG3/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01N4MPIG3/?tag=tolees0d-21)

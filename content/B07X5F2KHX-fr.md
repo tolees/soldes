@@ -22,7 +22,7 @@ Ahora mismo tienes [Moulinex Multicuiseur Intelligent Cookeo+ 6L 6 Modes de Cuis
 
 [![Moulinex Multicuiseur Intelligent Cookeo](https://m.media-amazon.com/images/I/41AdAMm+JoL._SL200_.jpg)](https://www.amazon.fr/dp/B07X5F2KHX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07X5F2KHX/?tag=tolees0d-21)

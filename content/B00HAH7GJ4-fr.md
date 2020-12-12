@@ -22,7 +22,7 @@ Ahora mismo tienes [Slave to The Sword](https://www.amazon.fr/dp/B00HAH7GJ4/?tag
 
 [![Slave to The Sword](https://m.media-amazon.com/images/I/519vaRKegOL._SL200_.jpg)](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)

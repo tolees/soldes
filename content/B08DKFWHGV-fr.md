@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 2to USB3.0 pour PC  Mac  Ordinateur de Bu
 
 [![Disque Dur Externe 2to USB3.0 pour PC  M](https://m.media-amazon.com/images/I/41ECABb6Z8L._SL200_.jpg)](https://www.amazon.fr/dp/B08DKFWHGV/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DKFWHGV/?tag=tolees0d-21)

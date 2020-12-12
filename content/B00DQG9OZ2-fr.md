@@ -22,7 +22,7 @@ Ahora mismo tienes [Clé USB 3.0 SanDisk Ultra 32 Go avec une vitesse de lecture
 
 [![Clé USB 3.0 SanDisk Ultra 32 Go avec une](https://m.media-amazon.com/images/I/31GrSr60FYL._SL200_.jpg)](https://www.amazon.fr/dp/B00DQG9OZ2/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00DQG9OZ2/?tag=tolees0d-21)

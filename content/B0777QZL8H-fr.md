@@ -22,7 +22,7 @@ Ahora mismo tienes [SEC24 CWL401S - Qualité WiFi Système de Surveillance et de
 
 [![SEC24 CWL401S - Qualité WiFi Système de ](https://m.media-amazon.com/images/I/41k4BQ0XhAL._SL200_.jpg)](https://www.amazon.fr/dp/B0777QZL8H/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0777QZL8H/?tag=tolees0d-21)

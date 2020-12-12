@@ -22,7 +22,7 @@ Ahora mismo tienes [Dsquared2 D Squared Brillengestelle DQ5203 005-54-15-140 Lun
 
 [![Dsquared2 D Squared Brillengestelle DQ52](https://m.media-amazon.com/images/I/316o49vjqAL._SL200_.jpg)](https://www.amazon.fr/dp/B01E4RTERE/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01E4RTERE/?tag=tolees0d-21)

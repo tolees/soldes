@@ -22,7 +22,7 @@ Ahora mismo tienes [Seagate Portable 2 To  Disque dur externe portable HDD – 
 
 [![Seagate Portable 2 To  Disque dur extern](https://m.media-amazon.com/images/I/31pd3ZoIb3L._SL200_.jpg)](https://www.amazon.fr/dp/B07DQ91XNK/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DQ91XNK/?tag=tolees0d-21)

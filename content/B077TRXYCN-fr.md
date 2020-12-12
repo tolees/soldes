@@ -22,7 +22,7 @@ Ahora mismo tienes [Mixcder E7 Casque Bluetooth à Réduction Active de Bruit Ov
 
 [![Mixcder E7 Casque Bluetooth à Réduction ](https://m.media-amazon.com/images/I/41gH+wWHBLL._SL200_.jpg)](https://www.amazon.fr/dp/B077TRXYCN/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B077TRXYCN/?tag=tolees0d-21)

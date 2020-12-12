@@ -22,7 +22,7 @@ Ahora mismo tienes [Celio - NECETWO - Polo manches courtes - Coton Supima  Noir 
 
 [![Celio - NECETWO - Polo manches courtes -](https://m.media-amazon.com/images/I/317FZo4kPhL._SL200_.jpg)](https://www.amazon.fr/dp/B07L25FNQB/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07L25FNQB/?tag=tolees0d-21)

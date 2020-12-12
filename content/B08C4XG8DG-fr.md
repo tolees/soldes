@@ -22,7 +22,7 @@ Ahora mismo tienes [Manette Sans Fil pour PS4 Manette pour Playstation 4 Gamepad
 
 [![Manette Sans Fil pour PS4 Manette pour P](https://m.media-amazon.com/images/I/41nAtXlPdOL._SL200_.jpg)](https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21)

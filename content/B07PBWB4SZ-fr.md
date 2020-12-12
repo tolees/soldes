@@ -22,7 +22,7 @@ Ahora mismo tienes [Rafraîchisseur d air compact  avec télécommande et écran
 
 [![Rafraîchisseur d air compact  avec téléc](https://m.media-amazon.com/images/I/31z5WgBq5HL._SL200_.jpg)](https://www.amazon.fr/dp/B07PBWB4SZ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07PBWB4SZ/?tag=tolees0d-21)

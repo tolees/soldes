@@ -22,7 +22,7 @@ Ahora mismo tienes [EasySMX Manette Switch  Manette Switch Pro pour Nintendo Swi
 
 [![EasySMX Manette Switch  Manette Switch P](https://m.media-amazon.com/images/I/51FMpydElIL._SL200_.jpg)](https://www.amazon.fr/dp/B08DNZZS3W/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DNZZS3W/?tag=tolees0d-21)

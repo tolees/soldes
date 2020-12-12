@@ -22,7 +22,7 @@ Ahora mismo tienes [Robot Blender Mixeur Multifonction - Power Blender Greenis F
 
 [![Robot Blender Mixeur Multifonction - Pow](https://m.media-amazon.com/images/I/41ch27pmlvL._SL200_.jpg)](https://www.amazon.fr/dp/B07JWF82BQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07JWF82BQ/?tag=tolees0d-21)

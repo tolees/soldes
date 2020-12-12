@@ -22,7 +22,7 @@ Ahora mismo tienes [REDSTORM Casque Gaming pour PS4 Nintendo Switch  Casque Game
 
 [![REDSTORM Casque Gaming pour PS4 Nintendo](https://m.media-amazon.com/images/I/51b2Ef0NcUL._SL200_.jpg)](https://www.amazon.fr/dp/B08F7C4WZ1/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08F7C4WZ1/?tag=tolees0d-21)

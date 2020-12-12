@@ -22,7 +22,7 @@ Ahora mismo tienes [Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra
 
 [![Sony WH-XB900N Casque Bluetooth à réduct](https://m.media-amazon.com/images/I/31j9S6d40BL._SL200_.jpg)](https://www.amazon.fr/dp/B07RT5YMF5/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07RT5YMF5/?tag=tolees0d-21)

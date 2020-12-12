@@ -22,7 +22,7 @@ Ahora mismo tienes [Écouteurs sans Fil véritables  GT1 Bluetooth 5.0 Sports HD
 
 [![Écouteurs sans Fil véritables  GT1 Bluet](https://m.media-amazon.com/images/I/41JX0CYQ6KL._SL200_.jpg)](https://www.amazon.fr/dp/B084V89DMC/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B084V89DMC/?tag=tolees0d-21)

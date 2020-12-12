@@ -22,7 +22,7 @@ Ahora mismo tienes [Chaussures de Trail Running](https://www.amazon.fr/dp/B07DVX
 
 [![Chaussures de Trail Running](https://m.media-amazon.com/images/I/41AcN+GSaKL._SL200_.jpg)](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21)

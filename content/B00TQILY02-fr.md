@@ -22,7 +22,7 @@ Ahora mismo tienes [Moulinex Cookeo Multicuiseur Intelligent 100 Recettes Prépr
 
 [![Moulinex Cookeo Multicuiseur Intelligent](https://m.media-amazon.com/images/I/41UrWgJxe2L._SL200_.jpg)](https://www.amazon.fr/dp/B00TQILY02/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00TQILY02/?tag=tolees0d-21)

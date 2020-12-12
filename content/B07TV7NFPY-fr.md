@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s Graphic Tee Maillot Une pièce  Noir  Feminine Logo B
 
 [![Levi s Graphic Tee Maillot Une pièce  No](https://m.media-amazon.com/images/I/41RPpGL75lL._SL200_.jpg)](https://www.amazon.fr/dp/B07TV7NFPY/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TV7NFPY/?tag=tolees0d-21)

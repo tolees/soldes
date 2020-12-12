@@ -22,7 +22,7 @@ Ahora mismo tienes [Enceinte Bluetooth Portable  20W Haut-Parleur Bluetooth Ence
 
 [![Enceinte Bluetooth Portable  20W Haut-Pa](https://m.media-amazon.com/images/I/51C3VJPtNqL._SL200_.jpg)](https://www.amazon.fr/dp/B084VJ5NRY/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B084VJ5NRY/?tag=tolees0d-21)

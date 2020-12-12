@@ -22,7 +22,7 @@ Ahora mismo tienes [Logitech G502 HERO Souris Gamer Filaire Haute Performance  C
 
 [![Logitech G502 HERO Souris Gamer Filaire ](https://m.media-amazon.com/images/I/41bAGtQpALL._SL200_.jpg)](https://www.amazon.fr/dp/B07GS6ZB7T/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07GS6ZB7T/?tag=tolees0d-21)

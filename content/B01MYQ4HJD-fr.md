@@ -22,7 +22,7 @@ Ahora mismo tienes [Logitech G203 Prodigy Souris Gamer Filaire  8000 PPP  RVB Mu
 
 [![Logitech G203 Prodigy Souris Gamer Filai](https://m.media-amazon.com/images/I/31ofNXPBhRL._SL200_.jpg)](https://www.amazon.fr/dp/B01MYQ4HJD/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01MYQ4HJD/?tag=tolees0d-21)

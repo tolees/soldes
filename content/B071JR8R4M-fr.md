@@ -22,7 +22,7 @@ Ahora mismo tienes [HP OMEN 100 - Tapis de Souris Gaming Noir  36 cm x 30 cm  Ul
 
 [![HP OMEN 100 - Tapis de Souris Gaming Noi](https://m.media-amazon.com/images/I/31BoLsnjmiL._SL200_.jpg)](https://www.amazon.fr/dp/B071JR8R4M/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B071JR8R4M/?tag=tolees0d-21)

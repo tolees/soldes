@@ -22,7 +22,7 @@ Ahora mismo tienes [Écouteurs sans Fil Bluetooth avec réduction de Bruit Bluet
 
 [![Écouteurs sans Fil Bluetooth avec réduct](https://m.media-amazon.com/images/I/41lmBkVmvLL._SL200_.jpg)](https://www.amazon.fr/dp/B08DHTD27J/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DHTD27J/?tag=tolees0d-21)

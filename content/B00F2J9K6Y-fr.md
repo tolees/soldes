@@ -22,7 +22,7 @@ Ahora mismo tienes [Stanley STST1-71983 Organiseur Click & Connect 50 cm](https:
 
 [![Stanley STST1-71983 Organiseur Click & C](https://m.media-amazon.com/images/I/41IuPZZUeuL._SL200_.jpg)](https://www.amazon.fr/dp/B00F2J9K6Y/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00F2J9K6Y/?tag=tolees0d-21)

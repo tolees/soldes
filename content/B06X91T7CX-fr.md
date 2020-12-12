@@ -22,7 +22,7 @@ Ahora mismo tienes [GreedFall](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d
 
 [![GreedFall](https://m.media-amazon.com/images/I/51Mq+1D6AVL._SL200_.jpg)](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [RAMPOW Chargeur USB C 18W Power Delivery [Garantie à Vie] C
 
 [![RAMPOW Chargeur USB C 18W Power Delivery](https://m.media-amazon.com/images/I/31ZajHPQmhL._SL200_.jpg)](https://www.amazon.fr/dp/B08BLJWP9F/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08BLJWP9F/?tag=tolees0d-21)

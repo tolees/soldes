@@ -22,7 +22,7 @@ Ahora mismo tienes [VIEWTEK Micro:bit Mini Smart Robot Car V2.0 for Arduino  No 
 
 [![VIEWTEK Micro:bit Mini Smart Robot Car V](https://m.media-amazon.com/images/I/51cYr8C25iL._SL200_.jpg)](https://www.amazon.fr/dp/B07QZ2FT2D/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07QZ2FT2D/?tag=tolees0d-21)

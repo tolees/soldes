@@ -22,7 +22,7 @@ Ahora mismo tienes [Columbia Zero Rules  Haut à Manches Longues  Homme](https:/
 
 [![Columbia Zero Rules  Haut à Manches Long](https://m.media-amazon.com/images/I/41ugGYkk4hL._SL200_.jpg)](https://www.amazon.fr/dp/B00V2QPEFW/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00V2QPEFW/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Marque Amazon – Goodthreads Pantalon cargo extensible vint
 
 [![Marque Amazon – Goodthreads Pantalon car](https://m.media-amazon.com/images/I/416UF63DkpL._SL200_.jpg)](https://www.amazon.fr/dp/B07JMP217G/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07JMP217G/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Récepteur Bluetooth 5.0 Adaptateur  USB Bluetooth Dongle 2-
 
 [![Récepteur Bluetooth 5.0 Adaptateur  USB ](https://m.media-amazon.com/images/I/41LpbuO3nKL._SL200_.jpg)](https://www.amazon.fr/dp/B08GC6YVR6/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08GC6YVR6/?tag=tolees0d-21)

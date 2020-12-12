@@ -22,7 +22,7 @@ Ahora mismo tienes [PowerA Boîtier de Protection/Pochette de Transport - Pokém
 
 [![PowerA Boîtier de Protection/Pochette de](https://m.media-amazon.com/images/I/41AQuztD74L._SL200_.jpg)](https://www.amazon.fr/dp/B07VNB4SZB/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07VNB4SZB/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [OSRAM - Applique extérieure LED ENDURA STYLE UpDoWn Flex - 
 
 [![OSRAM - Applique extérieure LED ENDURA S](https://m.media-amazon.com/images/I/31iMn7yt5VL._SL200_.jpg)](https://www.amazon.fr/dp/B07FDG2TK2/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07FDG2TK2/?tag=tolees0d-21)

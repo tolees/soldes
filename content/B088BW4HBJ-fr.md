@@ -22,7 +22,7 @@ Ahora mismo tienes [Elyco 2 PCS Brassards de Contrôle pour Nintendo Switch  Bra
 
 [![Elyco 2 PCS Brassards de Contrôle pour N](https://m.media-amazon.com/images/I/51XMdT+11PL._SL200_.jpg)](https://www.amazon.fr/dp/B088BW4HBJ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B088BW4HBJ/?tag=tolees0d-21)

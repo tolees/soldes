@@ -22,7 +22,7 @@ Ahora mismo tienes [RAMPOW Chargeur Secteur USB 24W 2 Ports [Garantie à Vie] Ch
 
 [![RAMPOW Chargeur Secteur USB 24W 2 Ports ](https://m.media-amazon.com/images/I/31803WMyK8L._SL200_.jpg)](https://www.amazon.fr/dp/B08BLKBBXM/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08BLKBBXM/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [DENTAVIE Dentifrice Soin Blancheur Bicarbonate/Cristaux de M
 
 [![DENTAVIE Dentifrice Soin Blancheur Bicar](https://m.media-amazon.com/images/I/41pfWniM90L._SL200_.jpg)](https://www.amazon.fr/dp/B07V2JQV5K/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07V2JQV5K/?tag=tolees0d-21)

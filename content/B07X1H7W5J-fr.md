@@ -22,7 +22,7 @@ Ahora mismo tienes [Tipmant Montre Connectée Femmes Homme Enfant IP68 Etanche B
 
 [![Tipmant Montre Connectée Femmes Homme En](https://m.media-amazon.com/images/I/51X2koWPcIL._SL200_.jpg)](https://www.amazon.fr/dp/B07X1H7W5J/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07X1H7W5J/?tag=tolees0d-21)

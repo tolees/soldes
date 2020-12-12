@@ -22,7 +22,7 @@ Ahora mismo tienes [Philips Sonicare HX8491/01 AirFloss Ultra et brosse à dents
 
 [![Philips Sonicare HX8491/01 AirFloss Ultr](https://m.media-amazon.com/images/I/31buTPSGwdL._SL200_.jpg)](https://www.amazon.fr/dp/B0746P6FQC/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0746P6FQC/?tag=tolees0d-21)

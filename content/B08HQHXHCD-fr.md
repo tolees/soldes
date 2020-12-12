@@ -22,7 +22,7 @@ Ahora mismo tienes [Micro Casque Gaming PS4 sans Fil REDSTORM Wireless 2.4G Casq
 
 [![Micro Casque Gaming PS4 sans Fil REDSTOR](https://m.media-amazon.com/images/I/412ygKAO48L._SL200_.jpg)](https://www.amazon.fr/dp/B08HQHXHCD/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08HQHXHCD/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Logitech iPad Air Étui Clavier  3e Génération  | Slim Fol
 
 [![Logitech iPad Air Étui Clavier  3e Génér](https://m.media-amazon.com/images/I/41S0rVt7reL._SL200_.jpg)](https://www.amazon.fr/dp/B07W8MHW71/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07W8MHW71/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW Rackam Mimemis  Sneakers Basses Homme  Multicolor
 
 [![G-STAR RAW Rackam Mimemis  Sneakers Bass](https://m.media-amazon.com/images/I/41sV-7cHstL._SL200_.jpg)](https://www.amazon.fr/dp/B07X4HFQDZ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07X4HFQDZ/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Thule 962100 Barres de Toit WingBar 962 en Aluminium-Argent�
 
 [![Thule 962100 Barres de Toit WingBar 962 ](https://m.media-amazon.com/images/I/31-98vNOyuL._SL200_.jpg)](https://www.amazon.fr/dp/B005VNFHYK/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B005VNFHYK/?tag=tolees0d-21)

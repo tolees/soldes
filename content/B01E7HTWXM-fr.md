@@ -22,7 +22,7 @@ Ahora mismo tienes [Schott NYC JKTAC Blouson  Vert  Kaki Kaki   X-Small  Taille 
 
 [![Schott NYC JKTAC Blouson  Vert  Kaki Kak](https://m.media-amazon.com/images/I/41upnQrIiKL._SL200_.jpg)](https://www.amazon.fr/dp/B01E7HTWXM/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01E7HTWXM/?tag=tolees0d-21)

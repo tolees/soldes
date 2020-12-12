@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO®-Star Wars™ Action Battle L attaque du générateur 
 
 [![LEGO®-Star Wars™ Action Battle L attaque](https://m.media-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg)](https://www.amazon.fr/dp/B07FP76GMV/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07FP76GMV/?tag=tolees0d-21)

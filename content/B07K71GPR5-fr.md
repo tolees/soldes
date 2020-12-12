@@ -22,7 +22,7 @@ Ahora mismo tienes [Levi s 501 Coupe Originale - Jean - Homme - Bleu  Snoot 2744
 
 [![Levi s 501 Coupe Originale - Jean - Homm](https://m.media-amazon.com/images/I/41prtsJ61sL._SL200_.jpg)](https://www.amazon.fr/dp/B07K71GPR5/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07K71GPR5/?tag=tolees0d-21)

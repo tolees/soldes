@@ -22,7 +22,7 @@ Ahora mismo tienes [IKOHS AIRCALM DC - Ventilateur de Plafond Fonction Hiver/ét
 
 [![IKOHS AIRCALM DC - Ventilateur de Plafon](https://m.media-amazon.com/images/I/31fRscmlaQL._SL200_.jpg)](https://www.amazon.fr/dp/B083WQNWBH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B083WQNWBH/?tag=tolees0d-21)

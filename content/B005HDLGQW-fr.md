@@ -22,7 +22,7 @@ Ahora mismo tienes [Beurer TL 80 Lampe de Luminothérapie - 10.000 Lux - Combatt
 
 [![Beurer TL 80 Lampe de Luminothérapie - 1](https://m.media-amazon.com/images/I/21j5FZaPQJL._SL200_.jpg)](https://www.amazon.fr/dp/B005HDLGQW/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B005HDLGQW/?tag=tolees0d-21)

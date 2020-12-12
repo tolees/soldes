@@ -22,7 +22,7 @@ Ahora mismo tienes [BONNYCO Tableau Magique Enfant A4 et A5  6 Pochoirs et 2 Sty
 
 [![BONNYCO Tableau Magique Enfant A4 et A5 ](https://m.media-amazon.com/images/I/51nBWF6wWFL._SL200_.jpg)](https://www.amazon.fr/dp/B0821RTSMV/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0821RTSMV/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pin’s Guitare Geepins | Magnifique Broche Miniature Fender
 
 [![Pin’s Guitare Geepins | Magnifique Broch](https://m.media-amazon.com/images/I/31RS2uoYcjL._SL200_.jpg)](https://www.amazon.fr/dp/B087V4MV7G/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B087V4MV7G/?tag=tolees0d-21)

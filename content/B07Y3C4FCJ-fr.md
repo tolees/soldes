@@ -22,7 +22,7 @@ Ahora mismo tienes [ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX](https://www.ama
 
 [![ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR ](https://m.media-amazon.com/images/I/51eGCC4MGKL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Pure Jongo T2 Enceinte Portable Bluetooth Piano](https://www
 
 [![Pure Jongo T2 Enceinte Portable Bluetoot](https://m.media-amazon.com/images/I/31sQHTj8CIL._SL200_.jpg)](https://www.amazon.fr/dp/B00DWOXU44/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00DWOXU44/?tag=tolees0d-21)

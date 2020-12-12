@@ -22,7 +22,7 @@ Ahora mismo tienes [GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème G�
 
 [![GGMM D3 Base de Batterie Portable pour E](https://m.media-amazon.com/images/I/51uc1LpW4wL._SL200_.jpg)](https://www.amazon.fr/dp/B07X8NMJ2Q/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07X8NMJ2Q/?tag=tolees0d-21)

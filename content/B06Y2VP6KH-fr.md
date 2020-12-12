@@ -22,7 +22,7 @@ Ahora mismo tienes [Stanley Sxpw18E Nettoyeur Haute Pression  1800 W  135 Bar  
 
 [![Stanley Sxpw18E Nettoyeur Haute Pression](https://m.media-amazon.com/images/I/41UeNCfsqDL._SL200_.jpg)](https://www.amazon.fr/dp/B06Y2VP6KH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B06Y2VP6KH/?tag=tolees0d-21)

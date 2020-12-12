@@ -22,7 +22,7 @@ Ahora mismo tienes [Castaner Dosalia/3/ss20007  Espadrilles Femme  Tostado  38 E
 
 [![Castaner Dosalia/3/ss20007  Espadrilles ](https://m.media-amazon.com/images/I/416kuy24XEL._SL200_.jpg)](https://www.amazon.fr/dp/B07X4HXRPS/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07X4HXRPS/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Carte mémoire SDXC SanDisk Extreme 256 Go jusqu à 150 Mo
 
 [![Carte mémoire SDXC SanDisk Extreme 256 G](https://m.media-amazon.com/images/I/51WQyHS3InL._SL200_.jpg)](https://www.amazon.fr/dp/B07H4BPZZG/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07H4BPZZG/?tag=tolees0d-21)

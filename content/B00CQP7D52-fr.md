@@ -22,7 +22,7 @@ Ahora mismo tienes [Triplite 3x 16A triangulaire - Blanc - Zenitech](https://www
 
 [![Triplite 3x 16A triangulaire - Blanc - Z](https://m.media-amazon.com/images/I/31Hufcer1mL._SL200_.jpg)](https://www.amazon.fr/dp/B00CQP7D52/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00CQP7D52/?tag=tolees0d-21)

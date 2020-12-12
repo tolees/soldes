@@ -22,7 +22,7 @@ Ahora mismo tienes [8-Bit Armies - Limited Edition](https://www.amazon.fr/dp/B07
 
 [![8-Bit Armies - Limited Edition](https://m.media-amazon.com/images/I/41Nj61tdhnL._SL200_.jpg)](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21)

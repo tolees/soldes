@@ -22,7 +22,7 @@ Ahora mismo tienes [IHEX Galaxy S9 Plus Verre Trempé  [2 Pièces] [Full Coverag
 
 [![IHEX Galaxy S9 Plus Verre Trempé  [2 Piè](https://m.media-amazon.com/images/I/41OMS86h0ML._SL200_.jpg)](https://www.amazon.fr/dp/B08H534JMH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08H534JMH/?tag=tolees0d-21)

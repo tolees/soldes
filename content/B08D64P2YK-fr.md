@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 1 to USB 3.0 pour PC  Mac  MacBook  Xbox 
 
 [![Disque Dur Externe 1 to USB 3.0 pour PC ](https://m.media-amazon.com/images/I/41y8-4egn6L._SL200_.jpg)](https://www.amazon.fr/dp/B08D64P2YK/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08D64P2YK/?tag=tolees0d-21)

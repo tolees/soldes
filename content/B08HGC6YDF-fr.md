@@ -22,7 +22,7 @@ Ahora mismo tienes [Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch](https:
 
 [![Amiibo Cat Mario Cat Peach 2en1 pour Nin](https://m.media-amazon.com/images/I/51sPFdwaNVL._SL200_.jpg)](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)

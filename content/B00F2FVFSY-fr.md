@@ -22,7 +22,7 @@ Ahora mismo tienes [Laurastar GO Centre de Repassage](https://www.amazon.fr/dp/B
 
 [![Laurastar GO Centre de Repassage](https://m.media-amazon.com/images/I/41-+nPB9fvL._SL200_.jpg)](https://www.amazon.fr/dp/B00F2FVFSY/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00F2FVFSY/?tag=tolees0d-21)

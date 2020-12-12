@@ -22,7 +22,7 @@ Ahora mismo tienes [LOKAKA Coque pour Sony Xperia 10 II Coque Pochette Housse Et
 
 [![LOKAKA Coque pour Sony Xperia 10 II Coqu](https://m.media-amazon.com/images/I/519xyOqOHCL._SL200_.jpg)](https://www.amazon.fr/dp/B08FHS21RZ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08FHS21RZ/?tag=tolees0d-21)

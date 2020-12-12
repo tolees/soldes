@@ -22,7 +22,7 @@ Ahora mismo tienes [Dimplex 206831 Cheminée electrique avec Télécommande  120
 
 [![Dimplex 206831 Cheminée electrique avec ](https://m.media-amazon.com/images/I/41HGmYiXtDL._SL200_.jpg)](https://www.amazon.fr/dp/B01MZC9X61/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01MZC9X61/?tag=tolees0d-21)

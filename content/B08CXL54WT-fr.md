@@ -22,7 +22,7 @@ Ahora mismo tienes [Écouteur Bluetooth 5.0 Écouteur sans Fil avec réduction d
 
 [![Écouteur Bluetooth 5.0 Écouteur sans Fil](https://m.media-amazon.com/images/I/31w6bJ7sicL._SL200_.jpg)](https://www.amazon.fr/dp/B08CXL54WT/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08CXL54WT/?tag=tolees0d-21)

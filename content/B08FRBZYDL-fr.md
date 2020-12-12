@@ -22,7 +22,7 @@ Ahora mismo tienes [eXtremeRate 2 Pcs Verres Trempé pour Nintendo Switch Lite.F
 
 [![eXtremeRate 2 Pcs Verres Trempé pour Nin](https://m.media-amazon.com/images/I/41T1FYesxiL._SL200_.jpg)](https://www.amazon.fr/dp/B08FRBZYDL/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08FRBZYDL/?tag=tolees0d-21)

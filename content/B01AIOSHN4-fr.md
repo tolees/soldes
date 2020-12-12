@@ -22,7 +22,7 @@ Ahora mismo tienes [Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10 x 
 
 [![Hozelock 2216 1240 Programmateur d Arros](https://m.media-amazon.com/images/I/31EcAonWJSL._SL200_.jpg)](https://www.amazon.fr/dp/B01AIOSHN4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01AIOSHN4/?tag=tolees0d-21)

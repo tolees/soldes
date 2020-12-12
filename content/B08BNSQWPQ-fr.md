@@ -22,7 +22,7 @@ Ahora mismo tienes [RAMPOW Câble USB C vers USB C 100W 2m  Câble USB Type C Ch
 
 [![RAMPOW Câble USB C vers USB C 100W 2m  C](https://m.media-amazon.com/images/I/41G9cCG8DwL._SL200_.jpg)](https://www.amazon.fr/dp/B08BNSQWPQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08BNSQWPQ/?tag=tolees0d-21)

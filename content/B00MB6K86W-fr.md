@@ -22,7 +22,7 @@ Ahora mismo tienes [Russell Hobbs 21480-56 Blender Chauffant 1 75L 2en1 Programm
 
 [![Russell Hobbs 21480-56 Blender Chauffant](https://m.media-amazon.com/images/I/41n7PTAhNAL._SL200_.jpg)](https://www.amazon.fr/dp/B00MB6K86W/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00MB6K86W/?tag=tolees0d-21)

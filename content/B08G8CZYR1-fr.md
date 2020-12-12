@@ -22,7 +22,7 @@ Ahora mismo tienes [Maegoo Manette PS4 sans Fil  Bluetooth Dualshock 4 Manette J
 
 [![Maegoo Manette PS4 sans Fil  Bluetooth D](https://m.media-amazon.com/images/I/418I9NKVamL._SL200_.jpg)](https://www.amazon.fr/dp/B08G8CZYR1/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08G8CZYR1/?tag=tolees0d-21)

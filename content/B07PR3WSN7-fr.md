@@ -22,7 +22,7 @@ Ahora mismo tienes [Legging anti Cellulite  Pantalon de Sudation  Legging Femmes
 
 [![Legging anti Cellulite  Pantalon de Suda](https://m.media-amazon.com/images/I/41j1G8v5ugL._SL200_.jpg)](https://www.amazon.fr/dp/B07PR3WSN7/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07PR3WSN7/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [CASIO Montre Femme LTS-100D-7AVEF](https://www.amazon.fr/dp/
 
 [![CASIO Montre Femme LTS-100D-7AVEF](https://m.media-amazon.com/images/I/41RKXrIzrjL._SL200_.jpg)](https://www.amazon.fr/dp/B07NJ5GS2R/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07NJ5GS2R/?tag=tolees0d-21)

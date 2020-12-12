@@ -22,7 +22,7 @@ Ahora mismo tienes [Schott NYC Tornado Blouson  Noir  Black   S Homme](https://w
 
 [![Schott NYC Tornado Blouson  Noir  Black ](https://m.media-amazon.com/images/I/518Pcg3-TJL._SL200_.jpg)](https://www.amazon.fr/dp/B011SDBCBI/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B011SDBCBI/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Raise The Dead / Masters of Madness Tour 2013   2 CD + Blu R
 
 [![Raise The Dead / Masters of Madness Tour](https://m.media-amazon.com/images/I/51MTo7VciZL._SL200_.jpg)](https://www.amazon.fr/dp/B00N2TYOXA/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00N2TYOXA/?tag=tolees0d-21)

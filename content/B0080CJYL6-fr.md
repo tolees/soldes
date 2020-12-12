@@ -22,7 +22,7 @@ Ahora mismo tienes [Gre CIPROV611 - Couverture d’hiver pour piscine ovale ou e
 
 [![Gre CIPROV611 - Couverture d’hiver pour ](https://m.media-amazon.com/images/I/5149QubCr4L._SL200_.jpg)](https://www.amazon.fr/dp/B0080CJYL6/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0080CJYL6/?tag=tolees0d-21)

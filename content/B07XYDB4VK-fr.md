@@ -22,7 +22,7 @@ Ahora mismo tienes [The Rolling Stones-Bridges to Buenos Aires Blu-Ray  SD upsca
 
 [![The Rolling Stones-Bridges to Buenos Air](https://m.media-amazon.com/images/I/51We5nhq-QL._SL200_.jpg)](https://www.amazon.fr/dp/B07XYDB4VK/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07XYDB4VK/?tag=tolees0d-21)

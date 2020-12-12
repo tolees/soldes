@@ -22,7 +22,7 @@ Ahora mismo tienes [CHiQ 43 Pouces Android 9.0 Smart TV  U43H7A  UHD  4K  WiFi  
 
 [![CHiQ 43 Pouces Android 9.0 Smart TV  U43](https://m.media-amazon.com/images/I/51VzCdb-gFL._SL200_.jpg)](https://www.amazon.fr/dp/B07ZHJFH4W/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07ZHJFH4W/?tag=tolees0d-21)

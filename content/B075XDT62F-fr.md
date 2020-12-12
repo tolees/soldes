@@ -22,7 +22,7 @@ Ahora mismo tienes [Norsens Sac à Dos Ordinateur Portable 17/15.6 Pouces Antivo
 
 [![Norsens Sac à Dos Ordinateur Portable 17](https://m.media-amazon.com/images/I/41nlzEn8TZL._SL200_.jpg)](https://www.amazon.fr/dp/B075XDT62F/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B075XDT62F/?tag=tolees0d-21)

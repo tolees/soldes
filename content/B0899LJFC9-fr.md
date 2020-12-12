@@ -22,7 +22,7 @@ Ahora mismo tienes [【2020 dernière】 Barre de Son  2.1 Canaux avec Subwoofer
 
 [![【2020 dernière】 Barre de Son  2.1 Canaux](https://m.media-amazon.com/images/I/31qGX6wJEGL._SL200_.jpg)](https://www.amazon.fr/dp/B0899LJFC9/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0899LJFC9/?tag=tolees0d-21)

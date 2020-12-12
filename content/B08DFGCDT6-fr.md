@@ -22,7 +22,7 @@ Ahora mismo tienes [Collection Velocity Bleu bleu nuit Carry On](https://www.ama
 
 [![Collection Velocity Bleu bleu nuit Carry](https://m.media-amazon.com/images/I/41kD4tz6NxL._SL200_.jpg)](https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21)

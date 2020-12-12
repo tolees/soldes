@@ -22,7 +22,7 @@ Ahora mismo tienes [BAITITON 2 5 Pouces SATA III Disque Flash SSD 60 Go Interne 
 
 [![BAITITON 2 5 Pouces SATA III Disque Flas](https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg)](https://www.amazon.fr/dp/B07CNVHL7M/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07CNVHL7M/?tag=tolees0d-21)

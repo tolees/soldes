@@ -22,7 +22,7 @@ Ahora mismo tienes [COOLJOY Puzzles en Bois Magnétique 100 + Pièces Animaux Do
 
 [![COOLJOY Puzzles en Bois Magnétique 100 +](https://m.media-amazon.com/images/I/515bpDYcDtL._SL200_.jpg)](https://www.amazon.fr/dp/B089ZNJPMS/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B089ZNJPMS/?tag=tolees0d-21)

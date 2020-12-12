@@ -22,7 +22,7 @@ Ahora mismo tienes [Rode RM2 Pince pour Microphone Classic/NTK/K2/série NT Noir
 
 [![Rode RM2 Pince pour Microphone Classic/N](https://m.media-amazon.com/images/I/31l2IxFqNZL._SL200_.jpg)](https://www.amazon.fr/dp/B0002DUVS6/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0002DUVS6/?tag=tolees0d-21)

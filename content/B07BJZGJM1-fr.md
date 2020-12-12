@@ -22,7 +22,7 @@ Ahora mismo tienes [Pioneer VSX-933 B  Récepteur AV 7.2 canaux  Amplificateur H
 
 [![Pioneer VSX-933 B  Récepteur AV 7.2 cana](https://m.media-amazon.com/images/I/319rB8Lba-L._SL200_.jpg)](https://www.amazon.fr/dp/B07BJZGJM1/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07BJZGJM1/?tag=tolees0d-21)

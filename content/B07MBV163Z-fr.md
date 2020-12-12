@@ -22,7 +22,7 @@ Ahora mismo tienes [PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition G
 
 [![PNY GeForce® RTX 2060 6GB XLR8 Gaming Ov](https://m.media-amazon.com/images/I/51RLddCJrnL._SL200_.jpg)](https://www.amazon.fr/dp/B07MBV163Z/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07MBV163Z/?tag=tolees0d-21)

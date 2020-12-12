@@ -22,7 +22,7 @@ Ahora mismo tienes [Manette sans fil pour Nintendo Switch  Maegoo mini Manettes 
 
 [![Manette sans fil pour Nintendo Switch  M](https://m.media-amazon.com/images/I/41Pjxs8McbL._SL200_.jpg)](https://www.amazon.fr/dp/B08CSBGBP3/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08CSBGBP3/?tag=tolees0d-21)

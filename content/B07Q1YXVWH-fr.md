@@ -22,7 +22,7 @@ Ahora mismo tienes [DOQAUS Casque Bluetooth sans Fil  [Jusqu 52 Heures] Pliable 
 
 [![DOQAUS Casque Bluetooth sans Fil  [Jusqu](https://m.media-amazon.com/images/I/41WRvfCJfZL._SL200_.jpg)](https://www.amazon.fr/dp/B07Q1YXVWH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07Q1YXVWH/?tag=tolees0d-21)

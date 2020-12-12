@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe pour
 
 [![Disque Dur Externe 1to Type C USB3.1 Dis](https://m.media-amazon.com/images/I/31hPCk1khqL._SL200_.jpg)](https://www.amazon.fr/dp/B08DH25W8M/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DH25W8M/?tag=tolees0d-21)

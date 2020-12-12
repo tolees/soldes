@@ -22,7 +22,7 @@ Ahora mismo tienes [Collier argent et perles de culture Blanches et Noires"Elég
 
 [![Collier argent et perles de culture Blan](https://m.media-amazon.com/images/I/31ONJGJ7QkL._SL200_.jpg)](https://www.amazon.fr/dp/B07HFZS6R7/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07HFZS6R7/?tag=tolees0d-21)

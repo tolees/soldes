@@ -22,7 +22,7 @@ Ahora mismo tienes [Ecouteur Bluetooth  Écouteur sans Fil 150h de Lecture stér
 
 [![Ecouteur Bluetooth  Écouteur sans Fil 15](https://m.media-amazon.com/images/I/51xEbldE2FL._SL200_.jpg)](https://www.amazon.fr/dp/B0824V6ZCR/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0824V6ZCR/?tag=tolees0d-21)

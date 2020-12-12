@@ -22,7 +22,7 @@ Ahora mismo tienes [CubicFun 3D Puzzle Harry Potter Poudlard Castle School  Kits
 
 [![CubicFun 3D Puzzle Harry Potter Poudlard](https://m.media-amazon.com/images/I/51Hm8eFgQoL._SL200_.jpg)](https://www.amazon.fr/dp/B086RLQRNX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B086RLQRNX/?tag=tolees0d-21)

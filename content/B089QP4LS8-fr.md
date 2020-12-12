@@ -22,7 +22,7 @@ Ahora mismo tienes [RAMPOW Câble USB C vers USB C 3m [Garantie à Vie] Câble U
 
 [![RAMPOW Câble USB C vers USB C 3m [Garant](https://m.media-amazon.com/images/I/41ik+-TwJ0L._SL200_.jpg)](https://www.amazon.fr/dp/B089QP4LS8/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B089QP4LS8/?tag=tolees0d-21)

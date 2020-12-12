@@ -22,7 +22,7 @@ Ahora mismo tienes [REVENT HD Blue](https://www.amazon.fr/dp/B07W1X3Q3V/?tag=tol
 
 [![REVENT HD Blue](https://m.media-amazon.com/images/I/31zksVupMPL._SL200_.jpg)](https://www.amazon.fr/dp/B07W1X3Q3V/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07W1X3Q3V/?tag=tolees0d-21)

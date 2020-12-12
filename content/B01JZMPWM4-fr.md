@@ -22,7 +22,7 @@ Ahora mismo tienes [Timberland Killington  Bottes & Bottines Classiques Mixte En
 
 [![Timberland Killington  Bottes & Bottines](https://m.media-amazon.com/images/I/411yCv7Oo7L._SL200_.jpg)](https://www.amazon.fr/dp/B01JZMPWM4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01JZMPWM4/?tag=tolees0d-21)

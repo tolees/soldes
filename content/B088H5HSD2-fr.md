@@ -22,7 +22,7 @@ Ahora mismo tienes [RAMPOW Chargeur USB C 36W Power Delivery 3.0  Chargeur Secte
 
 [![RAMPOW Chargeur USB C 36W Power Delivery](https://m.media-amazon.com/images/I/31FA4SUOG6L._SL200_.jpg)](https://www.amazon.fr/dp/B088H5HSD2/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B088H5HSD2/?tag=tolees0d-21)

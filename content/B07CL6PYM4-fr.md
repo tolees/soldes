@@ -22,7 +22,7 @@ Ahora mismo tienes [Only NOS Onlroyal Reg SK DNM Jeans Bj312 Noos  Dark Grey Den
 
 [![Only NOS Onlroyal Reg SK DNM Jeans Bj312](https://m.media-amazon.com/images/I/31h+pqBYAxL._SL200_.jpg)](https://www.amazon.fr/dp/B07CL6PYM4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07CL6PYM4/?tag=tolees0d-21)

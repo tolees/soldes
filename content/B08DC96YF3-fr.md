@@ -22,7 +22,7 @@ Ahora mismo tienes [Torche Lampe de Poche LED Rechargeable JUNKER Lampe Torche l
 
 [![Torche Lampe de Poche LED Rechargeable J](https://m.media-amazon.com/images/I/411QQHHhH0L._SL200_.jpg)](https://www.amazon.fr/dp/B08DC96YF3/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DC96YF3/?tag=tolees0d-21)

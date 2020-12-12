@@ -22,7 +22,7 @@ Ahora mismo tienes [OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche 
 
 [![OSRAM Smart+ Prise Extérieure Connectée ](https://m.media-amazon.com/images/I/41x2Vfq5UQL._SL200_.jpg)](https://www.amazon.fr/dp/B0776YGHFN/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0776YGHFN/?tag=tolees0d-21)

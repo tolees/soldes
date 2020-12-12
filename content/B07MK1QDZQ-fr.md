@@ -22,7 +22,7 @@ Ahora mismo tienes [Napapijri BAUNT FZ Maillot de survêtement  Bleu Marine  176
 
 [![Napapijri BAUNT FZ Maillot de survêtemen](https://m.media-amazon.com/images/I/41b2KnXzQ7L._SL200_.jpg)](https://www.amazon.fr/dp/B07MK1QDZQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07MK1QDZQ/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Syncwire Cable Optique Audio Numérique Cordon Fibre Optique
 
 [![Syncwire Cable Optique Audio Numérique C](https://m.media-amazon.com/images/I/51pen7Vy9uL._SL200_.jpg)](https://www.amazon.fr/dp/B089VVBZDD/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B089VVBZDD/?tag=tolees0d-21)

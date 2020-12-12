@@ -22,7 +22,7 @@ Ahora mismo tienes [Razer Nari Essential – Casque Gamer Sans Fil  Bluetooth Ca
 
 [![Razer Nari Essential – Casque Gamer Sans](https://m.media-amazon.com/images/I/41mSY0jv-FL._SL200_.jpg)](https://www.amazon.fr/dp/B07GXKDT55/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07GXKDT55/?tag=tolees0d-21)

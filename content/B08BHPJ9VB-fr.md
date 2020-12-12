@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 2to  Portable USB3.1 Type-C Disque Dur Ex
 
 [![Disque Dur Externe 2to  Portable USB3.1 ](https://m.media-amazon.com/images/I/317A9Kb3OiL._SL200_.jpg)](https://www.amazon.fr/dp/B08BHPJ9VB/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08BHPJ9VB/?tag=tolees0d-21)

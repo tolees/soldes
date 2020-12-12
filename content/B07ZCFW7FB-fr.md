@@ -22,7 +22,7 @@ Ahora mismo tienes [YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD 480GB 
 
 [![YUCUN SSD 480 Go 2 5 Pouces SATA III Dis](https://m.media-amazon.com/images/I/31fYTppRYML._SL200_.jpg)](https://www.amazon.fr/dp/B07ZCFW7FB/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07ZCFW7FB/?tag=tolees0d-21)

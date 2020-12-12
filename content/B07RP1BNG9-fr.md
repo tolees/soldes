@@ -22,7 +22,7 @@ Ahora mismo tienes [Figurine - Ghost Recon: Breakpoint - Nomad](https://www.amaz
 
 [![Figurine - Ghost Recon: Breakpoint - Nom](https://m.media-amazon.com/images/I/61q2obwvMWL._SL200_.jpg)](https://www.amazon.fr/dp/B07RP1BNG9/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07RP1BNG9/?tag=tolees0d-21)

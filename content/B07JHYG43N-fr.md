@@ -22,7 +22,7 @@ Ahora mismo tienes [Amazon Essentials Pantalon extensible pour homme Coupe ajust
 
 [![Amazon Essentials Pantalon extensible po](https://m.media-amazon.com/images/I/319XsDe-D-L._SL200_.jpg)](https://www.amazon.fr/dp/B07JHYG43N/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07JHYG43N/?tag=tolees0d-21)

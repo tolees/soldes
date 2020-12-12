@@ -22,7 +22,7 @@ Ahora mismo tienes [Pitch Perfect 2](https://www.amazon.fr/dp/B014UY9AWU/?tag=to
 
 [![Pitch Perfect 2](https://m.media-amazon.com/images/I/51xPbvdt0SL._SL200_.jpg)](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21)

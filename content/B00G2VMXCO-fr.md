@@ -22,7 +22,7 @@ Ahora mismo tienes [Lerway Potence de Guidon Fourche Extenseur VTT Bicyclette É
 
 [![Lerway Potence de Guidon Fourche Extense](https://m.media-amazon.com/images/I/317o+HjZSqL._SL200_.jpg)](https://www.amazon.fr/dp/B00G2VMXCO/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00G2VMXCO/?tag=tolees0d-21)

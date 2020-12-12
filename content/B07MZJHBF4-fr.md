@@ -22,7 +22,7 @@ Ahora mismo tienes [PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Fem
 
 [![PLDM by Palladium Caramba SUD  Bottes & ](https://m.media-amazon.com/images/I/51QnQF0JwBL._SL200_.jpg)](https://www.amazon.fr/dp/B07MZJHBF4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07MZJHBF4/?tag=tolees0d-21)

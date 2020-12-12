@@ -22,7 +22,7 @@ Ahora mismo tienes [TECLAST Tablette 10 1 Pouces Android 10 P20HD FHD 1920x1200 
 
 [![TECLAST Tablette 10 1 Pouces Android 10 ](https://m.media-amazon.com/images/I/41HbuhUguAL._SL200_.jpg)](https://www.amazon.fr/dp/B08CXGYHNX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08CXGYHNX/?tag=tolees0d-21)

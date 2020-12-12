@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas CV4694 Polo Homme  Vert  Sefrye    FR : S  Taille Fab
 
 [![adidas CV4694 Polo Homme  Vert  Sefrye  ](https://m.media-amazon.com/images/I/317nQsKViPL._SL200_.jpg)](https://www.amazon.fr/dp/B078YG9Z8P/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B078YG9Z8P/?tag=tolees0d-21)

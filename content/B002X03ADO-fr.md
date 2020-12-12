@@ -22,7 +22,7 @@ Ahora mismo tienes [Claude Dozorme 1.90.142.89 Liner Thiers Couteau Grand Modèl
 
 [![Claude Dozorme 1.90.142.89 Liner Thiers ](https://m.media-amazon.com/images/I/31rV4y1So8L._SL200_.jpg)](https://www.amazon.fr/dp/B002X03ADO/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B002X03ADO/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [La Bonne Paye – Jeu de societe familial - Jeu de plateau �
 
 [![La Bonne Paye – Jeu de societe familial ](https://m.media-amazon.com/images/I/61r5PXrKmRL._SL200_.jpg)](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)

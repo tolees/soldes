@@ -22,7 +22,7 @@ Ahora mismo tienes [Original Dovpo Odin 200W Mod alimenté par une double batter
 
 [![Original Dovpo Odin 200W Mod alimenté pa](https://m.media-amazon.com/images/I/31LoxleKolL._SL200_.jpg)](https://www.amazon.fr/dp/B085NQPW7D/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B085NQPW7D/?tag=tolees0d-21)

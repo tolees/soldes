@@ -22,7 +22,7 @@ Ahora mismo tienes [Puma ESS Logo Tee T-Shirt Femme  White  S](https://www.amazo
 
 [![Puma ESS Logo Tee T-Shirt Femme  White  ](https://m.media-amazon.com/images/I/41yeGKT51jL._SL200_.jpg)](https://www.amazon.fr/dp/B07D5VCJ2Q/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07D5VCJ2Q/?tag=tolees0d-21)

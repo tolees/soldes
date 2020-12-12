@@ -22,7 +22,7 @@ Ahora mismo tienes [Darksiders - Genesis](https://www.amazon.fr/dp/B07SVP1D6F/?t
 
 [![Darksiders - Genesis](https://m.media-amazon.com/images/I/518r0-K3BzL._SL200_.jpg)](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21)

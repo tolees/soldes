@@ -22,7 +22,7 @@ Ahora mismo tienes [VTech - Kidicom Advance noir - le portable sécurisé et san
 
 [![VTech - Kidicom Advance noir - le portab](https://m.media-amazon.com/images/I/51VSswFxjAL._SL200_.jpg)](https://www.amazon.fr/dp/B07TNVG4TX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TNVG4TX/?tag=tolees0d-21)

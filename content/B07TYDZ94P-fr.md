@@ -22,7 +22,7 @@ Ahora mismo tienes [Vera Mont VM 8028/4000 Robe de soirée  Bleu  Night Sky 8541
 
 [![Vera Mont VM 8028/4000 Robe de soirée  B](https://m.media-amazon.com/images/I/310E-EvvKpL._SL200_.jpg)](https://www.amazon.fr/dp/B07TYDZ94P/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TYDZ94P/?tag=tolees0d-21)

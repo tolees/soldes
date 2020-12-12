@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 1to Type C USB3.1 pour PC  Mac  Ordinateu
 
 [![Disque Dur Externe 1to Type C USB3.1 pou](https://m.media-amazon.com/images/I/41APlDSwhyL._SL200_.jpg)](https://www.amazon.fr/dp/B08DJ24CLS/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DJ24CLS/?tag=tolees0d-21)

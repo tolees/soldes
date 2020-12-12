@@ -22,7 +22,7 @@ Ahora mismo tienes [Écouteurs sans Fil Bluetooth 5.0  IPX5 écouteurs étanches
 
 [![Écouteurs sans Fil Bluetooth 5.0  IPX5 é](https://m.media-amazon.com/images/I/41PH7FMEu1L._SL200_.jpg)](https://www.amazon.fr/dp/B089QJXVNR/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B089QJXVNR/?tag=tolees0d-21)

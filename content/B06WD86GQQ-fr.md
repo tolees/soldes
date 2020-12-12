@@ -22,7 +22,7 @@ Ahora mismo tienes [Krups YY2931FD Machine à Bière Pression Beertender Avec Co
 
 [![Krups YY2931FD Machine à Bière Pression ](https://m.media-amazon.com/images/I/41o7mHxKOyL._SL200_.jpg)](https://www.amazon.fr/dp/B06WD86GQQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B06WD86GQQ/?tag=tolees0d-21)

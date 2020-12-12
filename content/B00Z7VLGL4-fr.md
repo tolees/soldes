@@ -22,7 +22,7 @@ Ahora mismo tienes [EXZACT Balance de Cuisine Électronique à Grand Écran avec
 
 [![EXZACT Balance de Cuisine Électronique à](https://m.media-amazon.com/images/I/41TxwZCqcIL._SL200_.jpg)](https://www.amazon.fr/dp/B00Z7VLGL4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00Z7VLGL4/?tag=tolees0d-21)

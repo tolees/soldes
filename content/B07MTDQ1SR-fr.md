@@ -22,7 +22,7 @@ Ahora mismo tienes [Zamkol Enceinte Bluetooth Portable  Waterproof Haut-Parleur 
 
 [![Zamkol Enceinte Bluetooth Portable  Wate](https://m.media-amazon.com/images/I/51b-Re4spzL._SL200_.jpg)](https://www.amazon.fr/dp/B07MTDQ1SR/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07MTDQ1SR/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Lowepro 250 AW Slingshot Edge sac de transport pour Appareil
 
 [![Lowepro 250 AW Slingshot Edge sac de tra](https://m.media-amazon.com/images/I/410xE1wA8xL._SL200_.jpg)](https://www.amazon.fr/dp/B013MC8H2A/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B013MC8H2A/?tag=tolees0d-21)

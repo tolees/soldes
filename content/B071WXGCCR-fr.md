@@ -22,7 +22,7 @@ Ahora mismo tienes [L Echelle de Jacob [Blu-Ray]](https://www.amazon.fr/dp/B071W
 
 [![L Echelle de Jacob [Blu-Ray]](https://m.media-amazon.com/images/I/51jQdyh6i-L._SL200_.jpg)](https://www.amazon.fr/dp/B071WXGCCR/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B071WXGCCR/?tag=tolees0d-21)

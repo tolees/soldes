@@ -22,7 +22,7 @@ Ahora mismo tienes [Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD Ma
 
 [![Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 ](https://m.media-amazon.com/images/I/41xU2IzU8HL._SL200_.jpg)](https://www.amazon.fr/dp/B08F7G2PHY/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08F7G2PHY/?tag=tolees0d-21)

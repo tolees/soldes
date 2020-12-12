@@ -24,10 +24,10 @@ Está [Goliath - Croc Dog - Jeux d enfants - à partir de 4 ans- Jeu de sociét�
 
 ℹ️:
 
+- Croc Dog veille jalousement sur sa gamelle remplie d’os!
 - Essaye de chiper des os dans sa gamelle sans le réveiller! Mais attention ! Quand on touche à son os, il devient féroce !
 - Age minimun: 4 ans et plus
-- Temps de partie: 10 minutes
 - 2 joueurs et +
-- Croc Dog veille jalousement sur sa gamelle remplie d’os!
+- Temps de partie: 10 minutes
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NY9HM3L/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [BONTEC Support Ecran PC Double Support Moniteur 2 Moniteurs 
 
 [![BONTEC Support Ecran PC Double Support M](https://m.media-amazon.com/images/I/31EF0NVdq9L._SL200_.jpg)](https://www.amazon.fr/dp/B01MR397OH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01MR397OH/?tag=tolees0d-21)

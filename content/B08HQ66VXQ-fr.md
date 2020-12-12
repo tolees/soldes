@@ -22,7 +22,7 @@ Ahora mismo tienes [Ruban LED Sylvwin Bande LED 5m RGB avec Télécommande 5050 
 
 [![Ruban LED Sylvwin Bande LED 5m RGB avec ](https://m.media-amazon.com/images/I/51kJ4NEld5L._SL200_.jpg)](https://www.amazon.fr/dp/B08HQ66VXQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08HQ66VXQ/?tag=tolees0d-21)

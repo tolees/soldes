@@ -22,7 +22,7 @@ Ahora mismo tienes [Kipling Teagan Xs Luggage 33 L Black Indigo](https://www.ama
 
 [![Kipling Teagan Xs Luggage 33 L Black Ind](https://m.media-amazon.com/images/I/41KkTaSLmfL._SL200_.jpg)](https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21)

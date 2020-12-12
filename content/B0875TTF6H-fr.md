@@ -22,7 +22,7 @@ Ahora mismo tienes [Manette PC PS3 Filaire  Manette PC  Manette PS3 avec Double 
 
 [![Manette PC PS3 Filaire  Manette PC  Mane](https://m.media-amazon.com/images/I/41aqxFewIwL._SL200_.jpg)](https://www.amazon.fr/dp/B0875TTF6H/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0875TTF6H/?tag=tolees0d-21)

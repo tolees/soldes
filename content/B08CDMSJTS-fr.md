@@ -22,7 +22,7 @@ Ahora mismo tienes [eXtremeRate Joystick de Remplacement 3D Bicolores  Stick Ana
 
 [![eXtremeRate Joystick de Remplacement 3D ](https://m.media-amazon.com/images/I/31HK0iigQqL._SL200_.jpg)](https://www.amazon.fr/dp/B08CDMSJTS/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08CDMSJTS/?tag=tolees0d-21)

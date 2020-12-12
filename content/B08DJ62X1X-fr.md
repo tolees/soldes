@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bu
 
 [![Disque Dur Externe 1to USB3.1 pour PC  M](https://m.media-amazon.com/images/I/31AMIeeru9L._SL200_.jpg)](https://www.amazon.fr/dp/B08DJ62X1X/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DJ62X1X/?tag=tolees0d-21)

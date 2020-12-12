@@ -22,7 +22,7 @@ Ahora mismo tienes [EasySMX Manettes Switch  Manette pour Nintendo Switch  Manet
 
 [![EasySMX Manettes Switch  Manette pour Ni](https://m.media-amazon.com/images/I/51mlgm-SbsL._SL200_.jpg)](https://www.amazon.fr/dp/B0875ZZNVS/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0875ZZNVS/?tag=tolees0d-21)

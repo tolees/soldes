@@ -22,7 +22,7 @@ Ahora mismo tienes [CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4](http
 
 [![CODEMASTERS- F1 2020 - Seventy Edition -](https://m.media-amazon.com/images/I/51ECRj7HZcL._SL200_.jpg)](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)

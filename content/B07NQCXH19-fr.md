@@ -22,7 +22,7 @@ Ahora mismo tienes [Echo Dot  3ème génération  Reconditionné Certifié  Ence
 
 [![Echo Dot  3ème génération  Reconditionné](https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg)](https://www.amazon.fr/dp/B07NQCXH19/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07NQCXH19/?tag=tolees0d-21)

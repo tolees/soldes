@@ -22,7 +22,7 @@ Ahora mismo tienes [Trust Gaming GXT 890 Cada Clavier AZERTY Gamer Mécanique RG
 
 [![Trust Gaming GXT 890 Cada Clavier AZERTY](https://m.media-amazon.com/images/I/41ABQM4043L._SL200_.jpg)](https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21)

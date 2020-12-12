@@ -22,7 +22,7 @@ Ahora mismo tienes [ivencase Coque Xiaomi Redmi Note 9S Note 9 Pro Étui avec 4 
 
 [![ivencase Coque Xiaomi Redmi Note 9S Note](https://m.media-amazon.com/images/I/51tTuJYNuFL._SL200_.jpg)](https://www.amazon.fr/dp/B084MH4RY7/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B084MH4RY7/?tag=tolees0d-21)

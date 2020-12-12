@@ -22,7 +22,7 @@ Ahora mismo tienes [Pierre Cardin Fieldjacket Airtouch Mit UV-Protect Blouson  B
 
 [![Pierre Cardin Fieldjacket Airtouch Mit U](https://m.media-amazon.com/images/I/41Diyto8yXL._SL200_.jpg)](https://www.amazon.fr/dp/B07GPKMXW7/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07GPKMXW7/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [HEYSTOP Coque pour Nintendo Switch  Coque de Protection en T
 
 [![HEYSTOP Coque pour Nintendo Switch  Coqu](https://m.media-amazon.com/images/I/513N1JyepqL._SL200_.jpg)](https://www.amazon.fr/dp/B08CVKKSSZ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08CVKKSSZ/?tag=tolees0d-21)

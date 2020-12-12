@@ -22,7 +22,7 @@ Ahora mismo tienes [Super Mario Maker 2 - édition limitée](https://www.amazon.
 
 [![Super Mario Maker 2 - édition limitée](https://m.media-amazon.com/images/I/51Tmr4VD6eL._SL200_.jpg)](https://www.amazon.fr/dp/B07R58KMSQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07R58KMSQ/?tag=tolees0d-21)

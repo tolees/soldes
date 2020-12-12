@@ -22,7 +22,7 @@ Ahora mismo tienes [eXtremeRate D-Pad Triggers R1 L1 R2 L2 Touchpad Action Home 
 
 [![eXtremeRate D-Pad Triggers R1 L1 R2 L2 T](https://m.media-amazon.com/images/I/515XLfWof7L._SL200_.jpg)](https://www.amazon.fr/dp/B08BX5FQT4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08BX5FQT4/?tag=tolees0d-21)

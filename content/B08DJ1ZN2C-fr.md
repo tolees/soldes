@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 2to  Disque Dur Externe Portable HDD USB3
 
 [![Disque Dur Externe 2to  Disque Dur Exter](https://m.media-amazon.com/images/I/31mY3kbdI8L._SL200_.jpg)](https://www.amazon.fr/dp/B08DJ1ZN2C/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DJ1ZN2C/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fil
 
 [![LEGO®-DUPLO® Disney™ La maison de vacanc](https://m.media-amazon.com/images/I/51mOE84ERqL._SL200_.jpg)](https://www.amazon.fr/dp/B07KTVF52Q/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07KTVF52Q/?tag=tolees0d-21)

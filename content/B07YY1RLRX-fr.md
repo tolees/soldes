@@ -22,7 +22,7 @@ Ahora mismo tienes [SONOFF Mini Interrupteur WiFi Télécommande 4 Pcs  sans Fil
 
 [![SONOFF Mini Interrupteur WiFi Télécomman](https://m.media-amazon.com/images/I/41U9xUE0YlL._SL200_.jpg)](https://www.amazon.fr/dp/B07YY1RLRX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07YY1RLRX/?tag=tolees0d-21)

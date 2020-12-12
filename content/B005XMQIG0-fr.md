@@ -22,7 +22,7 @@ Ahora mismo tienes [Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - 
 
 [![Dim - Pockets Coton - Slip - Quotidien -](https://m.media-amazon.com/images/I/41egSYW9IDL._SL200_.jpg)](https://www.amazon.fr/dp/B005XMQIG0/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B005XMQIG0/?tag=tolees0d-21)

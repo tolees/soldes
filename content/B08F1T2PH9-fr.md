@@ -22,7 +22,7 @@ Ahora mismo tienes [Nativi Troll Bluetooth Écouteurs sans Fil Casques sans Fil 
 
 [![Nativi Troll Bluetooth Écouteurs sans Fi](https://m.media-amazon.com/images/I/41pki7w97TL._SL200_.jpg)](https://www.amazon.fr/dp/B08F1T2PH9/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08F1T2PH9/?tag=tolees0d-21)

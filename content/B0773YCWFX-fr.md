@@ -22,7 +22,7 @@ Ahora mismo tienes [adidas NMD R2  Baskets Homme  Noir  Core Black/Core Black/Co
 
 [![adidas NMD R2  Baskets Homme  Noir  Core](https://m.media-amazon.com/images/I/41rpZMJ0UQL._SL200_.jpg)](https://www.amazon.fr/dp/B0773YCWFX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0773YCWFX/?tag=tolees0d-21)

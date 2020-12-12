@@ -22,7 +22,7 @@ Ahora mismo tienes [REDSTORM Manette PC/PS3  Manette Switch  5 Niveaux de LED R�
 
 [![REDSTORM Manette PC/PS3  Manette Switch ](https://m.media-amazon.com/images/I/41aqxFewIwL._SL200_.jpg)](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21)

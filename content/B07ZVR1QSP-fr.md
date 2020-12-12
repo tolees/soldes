@@ -22,7 +22,7 @@ Ahora mismo tienes [FBSPORT Airtrack 20 cm Épaisseur Tapis de Gymnastique Gonfl
 
 [![FBSPORT Airtrack 20 cm Épaisseur Tapis d](https://m.media-amazon.com/images/I/413kKeOpZcL._SL200_.jpg)](https://www.amazon.fr/dp/B07ZVR1QSP/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07ZVR1QSP/?tag=tolees0d-21)

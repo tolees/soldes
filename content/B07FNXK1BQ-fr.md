@@ -22,7 +22,7 @@ Ahora mismo tienes [Seiko Horloge SUR271P1](https://www.amazon.fr/dp/B07FNXK1BQ/
 
 [![Seiko Horloge SUR271P1](https://m.media-amazon.com/images/I/41h88PREVcL._SL200_.jpg)](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bracelet Femme Orné de Cristaux de Swarovski Collection"Mil
 
 [![Bracelet Femme Orné de Cristaux de Swaro](https://m.media-amazon.com/images/I/41f2LGXjhcL._SL200_.jpg)](https://www.amazon.fr/dp/B07TC883ZZ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TC883ZZ/?tag=tolees0d-21)

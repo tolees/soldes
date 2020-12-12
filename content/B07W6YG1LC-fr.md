@@ -22,7 +22,7 @@ Ahora mismo tienes [ECOVACS OZMO920 Robot Aspirateur Laveur  2-en-1 avec Technol
 
 [![ECOVACS OZMO920 Robot Aspirateur Laveur ](https://m.media-amazon.com/images/I/51S0xe49h7L._SL200_.jpg)](https://www.amazon.fr/dp/B07W6YG1LC/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07W6YG1LC/?tag=tolees0d-21)

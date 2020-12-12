@@ -22,7 +22,7 @@ Ahora mismo tienes [Kipling Youri Spin 55 Luggage 33 L Black Indigo](https://www
 
 [![Kipling Youri Spin 55 Luggage 33 L Black](https://m.media-amazon.com/images/I/41CC3wbFK-L._SL200_.jpg)](https://www.amazon.fr/dp/B07N1D8X7X/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07N1D8X7X/?tag=tolees0d-21)

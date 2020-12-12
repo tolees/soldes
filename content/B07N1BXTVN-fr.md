@@ -22,7 +22,7 @@ Ahora mismo tienes [Sebago DAN Waxy Polaris  Mocassins  Loafer  Hommes  Marron  
 
 [![Sebago DAN Waxy Polaris  Mocassins  Loaf](https://m.media-amazon.com/images/I/31I927u01xL._SL200_.jpg)](https://www.amazon.fr/dp/B07N1BXTVN/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07N1BXTVN/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Nike Air Max Thea  Chaussures de Running Femme  Noir  Black/
 
 [![Nike Air Max Thea  Chaussures de Running](https://m.media-amazon.com/images/I/41pULgNHF3L._SL200_.jpg)](https://www.amazon.fr/dp/B00KJ2TVQI/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00KJ2TVQI/?tag=tolees0d-21)

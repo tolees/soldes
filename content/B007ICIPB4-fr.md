@@ -22,7 +22,7 @@ Ahora mismo tienes [Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexab
 
 [![Sandvik Coromant A880-d2500lx38–03 Corod](https://m.media-amazon.com/images/I/31slBtk0DHL._SL200_.jpg)](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)

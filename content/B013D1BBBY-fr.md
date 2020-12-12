@@ -22,7 +22,7 @@ Ahora mismo tienes [Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://www.amazon.f
 
 [![Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://m.media-amazon.com/images/I/412MzAw6NCL._SL200_.jpg)](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21)

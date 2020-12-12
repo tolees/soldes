@@ -22,7 +22,7 @@ Ahora mismo tienes [2 X 1200mAh Batteries pour Manette Xbox One / S / X / Elite 
 
 [![2 X 1200mAh Batteries pour Manette Xbox ](https://m.media-amazon.com/images/I/411f94Uw8vL._SL200_.jpg)](https://www.amazon.fr/dp/B0899L6GKH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B0899L6GKH/?tag=tolees0d-21)

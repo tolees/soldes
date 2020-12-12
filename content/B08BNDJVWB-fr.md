@@ -22,7 +22,7 @@ Ahora mismo tienes [eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Ba
 
 [![eXtremeRate LB RB LT RT Bumpers Triggers](https://m.media-amazon.com/images/I/31NYJO4JnML._SL200_.jpg)](https://www.amazon.fr/dp/B08BNDJVWB/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08BNDJVWB/?tag=tolees0d-21)

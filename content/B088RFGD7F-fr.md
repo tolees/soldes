@@ -22,7 +22,7 @@ Ahora mismo tienes [BESTBOMG Tondeuse Cheveux Hommes Professionnelle Tondeuse Ba
 
 [![BESTBOMG Tondeuse Cheveux Hommes Profess](https://m.media-amazon.com/images/I/51CiqVue-kL._SL200_.jpg)](https://www.amazon.fr/dp/B088RFGD7F/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B088RFGD7F/?tag=tolees0d-21)

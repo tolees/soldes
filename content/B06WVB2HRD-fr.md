@@ -22,12 +22,12 @@ Ahora mismo tienes [Presse-agrumes Princess 201852 Champion – Levier professio
 
 [![Presse-agrumes Princess 201852 Champion ](https://m.media-amazon.com/images/I/315XB7v6aEL._SL200_.jpg)](https://www.amazon.fr/dp/B06WVB2HRD/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
-- Faites-vous plaisir avec ce presse-agrumes semi-professionnel doté d’un levier extra robuste pour faciliter lextraction du jus
-- Avec un cône universel que vous pouvez utiliser pour les agrumes petits et gros
 - Vous pouvez laisser le jus couler directement dans votre verre, vous pouvez ainsi continuer à presser
-- Le puissant moteur de 160 W vous assure un rendement optimal et est toujours très silencieux
 - Facile à nettoyer avec ses pièces résistantes au lave-vaisselle
+- Le puissant moteur de 160 W vous assure un rendement optimal et est toujours très silencieux
+- Avec un cône universel que vous pouvez utiliser pour les agrumes petits et gros
+- Faites-vous plaisir avec ce presse-agrumes semi-professionnel doté d’un levier extra robuste pour faciliter lextraction du jus
 
 [Visítala!!!](https://www.amazon.fr/dp/B06WVB2HRD/?tag=tolees0d-21)

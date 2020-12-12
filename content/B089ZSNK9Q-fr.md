@@ -22,7 +22,7 @@ Ahora mismo tienes [Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit B
 
 [![Écouteurs sans Fil Bluetooth 5.0 avec ré](https://m.media-amazon.com/images/I/41yOdV5KclL._SL200_.jpg)](https://www.amazon.fr/dp/B089ZSNK9Q/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B089ZSNK9Q/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Bosch Professional 06015A1002 12V System Scie Sauteuse sans-
 
 [![Bosch Professional 06015A1002 12V System](https://m.media-amazon.com/images/I/41F1B8m6ReL._SL200_.jpg)](https://www.amazon.fr/dp/B00XLUA5GU/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00XLUA5GU/?tag=tolees0d-21)

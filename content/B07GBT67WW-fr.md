@@ -22,7 +22,7 @@ Ahora mismo tienes [Pulsar Horloge PG8283X1](https://www.amazon.fr/dp/B07GBT67WW
 
 [![Pulsar Horloge PG8283X1](https://m.media-amazon.com/images/I/4133zVHJHRL._SL200_.jpg)](https://www.amazon.fr/dp/B07GBT67WW/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07GBT67WW/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [NHL 19](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21
 
 [![NHL 19](https://m.media-amazon.com/images/I/51IU3iTHAZL._SL200_.jpg)](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)

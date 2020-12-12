@@ -22,7 +22,7 @@ Ahora mismo tienes [B.Catcher Collier en Argent  Zircone cubique  Pendentif Gemi
 
 [![B.Catcher Collier en Argent  Zircone cub](https://m.media-amazon.com/images/I/51s6mTQGGHL._SL200_.jpg)](https://www.amazon.fr/dp/B01MTYM940/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01MTYM940/?tag=tolees0d-21)

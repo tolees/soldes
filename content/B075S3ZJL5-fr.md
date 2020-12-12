@@ -22,7 +22,7 @@ Ahora mismo tienes [GORE WEAR C3 GORE WINDSTOPPER PHANTOM Veste zip-off Veste zi
 
 [![GORE WEAR C3 GORE WINDSTOPPER PHANTOM Ve](https://m.media-amazon.com/images/I/41HmtZd9YbL._SL200_.jpg)](https://www.amazon.fr/dp/B075S3ZJL5/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B075S3ZJL5/?tag=tolees0d-21)

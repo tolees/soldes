@@ -22,7 +22,7 @@ Ahora mismo tienes [Chi Chi London Chi Delia Dress Robe  Bleu  Navy Navy   38  T
 
 [![Chi Chi London Chi Delia Dress Robe  Ble](https://m.media-amazon.com/images/I/31ch7wdrVDL._SL200_.jpg)](https://www.amazon.fr/dp/B07MH5X5QN/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07MH5X5QN/?tag=tolees0d-21)

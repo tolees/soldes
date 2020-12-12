@@ -22,7 +22,7 @@ Ahora mismo tienes [Ready Player One - DVD](https://www.amazon.fr/dp/B07BQNJ1FH/
 
 [![Ready Player One - DVD](https://m.media-amazon.com/images/I/51lHJP2agML._SL200_.jpg)](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21)

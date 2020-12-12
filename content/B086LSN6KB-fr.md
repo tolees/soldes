@@ -22,7 +22,7 @@ Ahora mismo tienes [Bioshock : The Collection](https://www.amazon.fr/dp/B086LSN6
 
 [![Bioshock : The Collection](https://m.media-amazon.com/images/I/414eSFAf-UL._SL200_.jpg)](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)

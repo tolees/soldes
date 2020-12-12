@@ -22,7 +22,7 @@ Ahora mismo tienes [/ Mḁs-tûr-bḁtḔûr HṎ-mmḔ RḔ-ḁlistḔ PṎ-ûr
 
 [![/ Mḁs-tûr-bḁtḔûr HṎ-mmḔ RḔ-ḁlistḔ PṎ-ûr ](https://m.media-amazon.com/images/I/41q8xXmY28L._SL200_.jpg)](https://www.amazon.fr/dp/B08FQVHCTV/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08FQVHCTV/?tag=tolees0d-21)

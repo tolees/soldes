@@ -22,7 +22,7 @@ Ahora mismo tienes [G-STAR RAW 3301 Slim Jeans  DK Aged 5245-89  28W / 32L Homme
 
 [![G-STAR RAW 3301 Slim Jeans  DK Aged 5245](https://m.media-amazon.com/images/I/31b1mfkSEDL._SL200_.jpg)](https://www.amazon.fr/dp/B00VVYQ8CI/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00VVYQ8CI/?tag=tolees0d-21)

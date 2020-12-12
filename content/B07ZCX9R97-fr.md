@@ -22,7 +22,7 @@ Ahora mismo tienes [Fairy Tail](https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0
 
 [![Fairy Tail](https://m.media-amazon.com/images/I/51OvIeDc0-L._SL200_.jpg)](https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21)

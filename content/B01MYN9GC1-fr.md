@@ -22,7 +22,7 @@ Ahora mismo tienes [Replay Anbass  Jean Slim Homme  Gris  Grey Denim 9   W32/L30
 
 [![Replay Anbass  Jean Slim Homme  Gris  Gr](https://m.media-amazon.com/images/I/31wGltfna-L._SL200_.jpg)](https://www.amazon.fr/dp/B01MYN9GC1/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01MYN9GC1/?tag=tolees0d-21)

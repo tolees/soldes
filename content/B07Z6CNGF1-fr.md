@@ -22,7 +22,7 @@ Ahora mismo tienes [Manettes pour Switch/Switch Lite  Manette sans Fil pour Nint
 
 [![Manettes pour Switch/Switch Lite  Manett](https://m.media-amazon.com/images/I/41FXux8T3EL._SL200_.jpg)](https://www.amazon.fr/dp/B07Z6CNGF1/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07Z6CNGF1/?tag=tolees0d-21)

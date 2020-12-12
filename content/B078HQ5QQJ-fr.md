@@ -22,7 +22,7 @@ Ahora mismo tienes [Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Co
 
 [![Bang & Olufsen Beoplay H8i Casque sans F](https://m.media-amazon.com/images/I/41H8psDe8BL._SL200_.jpg)](https://www.amazon.fr/dp/B078HQ5QQJ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B078HQ5QQJ/?tag=tolees0d-21)

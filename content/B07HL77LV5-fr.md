@@ -22,7 +22,7 @@ Ahora mismo tienes [Nautica Competition Short Sport  Rouge Fire Red 6ey  36  Tai
 
 [![Nautica Competition Short Sport  Rouge F](https://m.media-amazon.com/images/I/313G89ivNwL._SL200_.jpg)](https://www.amazon.fr/dp/B07HL77LV5/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07HL77LV5/?tag=tolees0d-21)

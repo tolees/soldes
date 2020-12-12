@@ -22,7 +22,7 @@ Ahora mismo tienes [HUION Kamvas Pro 13 Tablette Graphique avec écran  Moniteur
 
 [![HUION Kamvas Pro 13 Tablette Graphique a](https://m.media-amazon.com/images/I/41sEpcTchoL._SL200_.jpg)](https://www.amazon.fr/dp/B07G1TC12R/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07G1TC12R/?tag=tolees0d-21)

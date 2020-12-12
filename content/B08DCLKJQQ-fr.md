@@ -22,7 +22,7 @@ Ahora mismo tienes [Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E A
 
 [![Chargeur Secteur Usb Rapide pour Samsung](https://m.media-amazon.com/images/I/516HOUn9zJL._SL200_.jpg)](https://www.amazon.fr/dp/B08DCLKJQQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DCLKJQQ/?tag=tolees0d-21)

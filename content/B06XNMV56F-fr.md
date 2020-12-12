@@ -22,7 +22,7 @@ Ahora mismo tienes [Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poigne
 
 [![Garmin vívosmart 3 - Bracelet de Fitness](https://m.media-amazon.com/images/I/41mWLUnRmKL._SL200_.jpg)](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   L
 
 [![HKT by Hackett Hkt Hz PLR FLC Sweat-Shir](https://m.media-amazon.com/images/I/31FpQoRE8UL._SL200_.jpg)](https://www.amazon.fr/dp/B07MJ7LSXM/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07MJ7LSXM/?tag=tolees0d-21)

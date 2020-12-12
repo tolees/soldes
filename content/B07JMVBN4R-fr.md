@@ -22,7 +22,7 @@ Ahora mismo tienes [Trust Gaming GXT 865 Asta Clavier Mécanique Gamer RGB  Comm
 
 [![Trust Gaming GXT 865 Asta Clavier Mécani](https://m.media-amazon.com/images/I/41mjeSZ5lNL._SL200_.jpg)](https://www.amazon.fr/dp/B07JMVBN4R/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07JMVBN4R/?tag=tolees0d-21)

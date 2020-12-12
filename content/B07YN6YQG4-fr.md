@@ -22,7 +22,7 @@ Ahora mismo tienes [Lottusse T2470  Brogues Homme  Noir  Duca Negro Duca Negro  
 
 [![Lottusse T2470  Brogues Homme  Noir  Duc](https://m.media-amazon.com/images/I/31MliBXdeNL._SL200_.jpg)](https://www.amazon.fr/dp/B07YN6YQG4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07YN6YQG4/?tag=tolees0d-21)

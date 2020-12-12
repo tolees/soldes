@@ -22,7 +22,7 @@ Ahora mismo tienes [Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6 Gig
 
 [![Huawei B525s-23a noir Routeur 4G+ LTE LT](https://m.media-amazon.com/images/I/21atT9OLA8L._SL200_.jpg)](https://www.amazon.fr/dp/B071CYR18L/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B071CYR18L/?tag=tolees0d-21)

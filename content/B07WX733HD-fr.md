@@ -22,7 +22,7 @@ Ahora mismo tienes [The Last Ship-L intégrale de la série](https://www.amazon.
 
 [![The Last Ship-L intégrale de la série](https://m.media-amazon.com/images/I/51FYjV02oyL._SL200_.jpg)](https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21)

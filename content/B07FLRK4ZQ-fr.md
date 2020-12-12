@@ -22,7 +22,7 @@ Ahora mismo tienes [David Jones - Grand Sac à Main Femme - Cabas Fourre-Tout Cu
 
 [![David Jones - Grand Sac à Main Femme - C](https://m.media-amazon.com/images/I/413McffAtTL._SL200_.jpg)](https://www.amazon.fr/dp/B07FLRK4ZQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07FLRK4ZQ/?tag=tolees0d-21)

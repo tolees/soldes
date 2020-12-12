@@ -22,7 +22,7 @@ Ahora mismo tienes [Ponceuse à Bande 75 mm Ryobi 18V Oneplus sans Batterie Ni C
 
 [![Ponceuse à Bande 75 mm Ryobi 18V Oneplus](https://m.media-amazon.com/images/I/51p7xkW2UPL._SL200_.jpg)](https://www.amazon.fr/dp/B073FDC4YN/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B073FDC4YN/?tag=tolees0d-21)

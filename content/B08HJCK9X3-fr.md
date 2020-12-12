@@ -22,7 +22,7 @@ Ahora mismo tienes [Montre Connectée Femmes Homme Bracelet Connecté Cardiofré
 
 [![Montre Connectée Femmes Homme Bracelet C](https://m.media-amazon.com/images/I/41SGgVshlLL._SL200_.jpg)](https://www.amazon.fr/dp/B08HJCK9X3/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08HJCK9X3/?tag=tolees0d-21)

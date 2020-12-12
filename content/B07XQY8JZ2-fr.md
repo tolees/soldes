@@ -22,7 +22,7 @@ Ahora mismo tienes [Tronsmart T6 Plus Enceinte Bluetooth 40W  Haut Parleur Porta
 
 [![Tronsmart T6 Plus Enceinte Bluetooth 40W](https://m.media-amazon.com/images/I/512yzZKAooL._SL200_.jpg)](https://www.amazon.fr/dp/B07XQY8JZ2/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07XQY8JZ2/?tag=tolees0d-21)

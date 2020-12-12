@@ -22,7 +22,7 @@ Ahora mismo tienes [L Oréal Paris  Super Liner Matmatic Eye Liner Extra-Noir](
 
 [![L Oréal Paris  Super Liner Matmatic Eye ](https://m.media-amazon.com/images/I/31ZAWs8QRdL._SL200_.jpg)](https://www.amazon.fr/dp/B00FBO44XO/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00FBO44XO/?tag=tolees0d-21)

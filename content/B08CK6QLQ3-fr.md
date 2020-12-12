@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 1to  Disque Dur Externe pour PC  Mac  Mac
 
 [![Disque Dur Externe 1to  Disque Dur Exter](https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg)](https://www.amazon.fr/dp/B08CK6QLQ3/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08CK6QLQ3/?tag=tolees0d-21)

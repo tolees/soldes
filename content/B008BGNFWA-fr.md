@@ -22,7 +22,7 @@ Ahora mismo tienes [Lansay - 75024 - Jeu de Société - Les Mystères de Pékin]
 
 [![Lansay - 75024 - Jeu de Société - Les My](https://m.media-amazon.com/images/I/61xXc8k70kL._SL200_.jpg)](https://www.amazon.fr/dp/B008BGNFWA/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B008BGNFWA/?tag=tolees0d-21)

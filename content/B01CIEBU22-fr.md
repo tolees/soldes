@@ -22,7 +22,7 @@ Ahora mismo tienes [SanDisk iXpand 32 Go - Clé USB double connectique pour sauv
 
 [![SanDisk iXpand 32 Go - Clé USB double co](https://m.media-amazon.com/images/I/41XRcfD13EL._SL200_.jpg)](https://www.amazon.fr/dp/B01CIEBU22/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01CIEBU22/?tag=tolees0d-21)

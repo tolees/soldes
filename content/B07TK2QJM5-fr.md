@@ -22,7 +22,7 @@ Ahora mismo tienes [Quiksilver EQYTJ03215 Veste de Ski/Snowboard Homme  Poincian
 
 [![Quiksilver EQYTJ03215 Veste de Ski/Snowb](https://m.media-amazon.com/images/I/41b9pLw+MXL._SL200_.jpg)](https://www.amazon.fr/dp/B07TK2QJM5/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TK2QJM5/?tag=tolees0d-21)

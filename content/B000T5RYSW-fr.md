@@ -22,7 +22,7 @@ Ahora mismo tienes [Mauviel 270501 Penderie en cuivre  orange/jaune  1 cm](https
 
 [![Mauviel 270501 Penderie en cuivre  orang](https://m.media-amazon.com/images/I/41w7jIQzd+L._SL200_.jpg)](https://www.amazon.fr/dp/B000T5RYSW/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B000T5RYSW/?tag=tolees0d-21)

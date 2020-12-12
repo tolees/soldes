@@ -22,7 +22,7 @@ Ahora mismo tienes [Sauter Spi4362x - Plaque à Induction - Encastrable - 3 Foye
 
 [![Sauter Spi4362x - Plaque à Induction - E](https://m.media-amazon.com/images/I/41X6XT2yYEL._SL200_.jpg)](https://www.amazon.fr/dp/B00X95RSVM/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00X95RSVM/?tag=tolees0d-21)

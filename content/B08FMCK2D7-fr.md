@@ -22,7 +22,7 @@ Ahora mismo tienes [GRDE Montre Connectée Smartwatch  Bluetooth Montre Sport av
 
 [![GRDE Montre Connectée Smartwatch  Blueto](https://m.media-amazon.com/images/I/411IVaeWvnL._SL200_.jpg)](https://www.amazon.fr/dp/B08FMCK2D7/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08FMCK2D7/?tag=tolees0d-21)

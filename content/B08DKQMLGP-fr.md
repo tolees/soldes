@@ -22,7 +22,7 @@ Ahora mismo tienes [HHUIWIND Coque Xiaomi Redmi 9 + Verre Trempé Protection Etu
 
 [![HHUIWIND Coque Xiaomi Redmi 9 + Verre Tr](https://m.media-amazon.com/images/I/51kNyUF14UL._SL200_.jpg)](https://www.amazon.fr/dp/B08DKQMLGP/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DKQMLGP/?tag=tolees0d-21)

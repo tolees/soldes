@@ -22,7 +22,7 @@ Ahora mismo tienes [HONOR MagicWatch 2 42 mm - Montre Connectée - Moniteur de F
 
 [![HONOR MagicWatch 2 42 mm - Montre Connec](https://m.media-amazon.com/images/I/416lS32ZSOL._SL200_.jpg)](https://www.amazon.fr/dp/B083WYD99J/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B083WYD99J/?tag=tolees0d-21)

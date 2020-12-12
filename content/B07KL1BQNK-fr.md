@@ -22,7 +22,7 @@ Ahora mismo tienes [PAUL & JOE Jpaullove T-Shirt  Blanc  Blanc/White 01   40  Ta
 
 [![PAUL & JOE Jpaullove T-Shirt  Blanc  Bla](https://m.media-amazon.com/images/I/41S4gG0yoWL._SL200_.jpg)](https://www.amazon.fr/dp/B07KL1BQNK/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07KL1BQNK/?tag=tolees0d-21)

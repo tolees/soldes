@@ -22,7 +22,7 @@ Ahora mismo tienes [USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10  8  
 
 [![USB Bluetooth Mini Adaptateur Dongle pou](https://m.media-amazon.com/images/I/41RLWGQIy1L._SL200_.jpg)](https://www.amazon.fr/dp/B08FHSQQCX/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08FHSQQCX/?tag=tolees0d-21)

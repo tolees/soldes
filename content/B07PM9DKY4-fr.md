@@ -22,7 +22,7 @@ Ahora mismo tienes [Abody Sèche-Cheveux 2200W Ionique  Sèche Cheveux Salon Pro
 
 [![Abody Sèche-Cheveux 2200W Ionique  Sèche](https://m.media-amazon.com/images/I/31Mdv4N3JkL._SL200_.jpg)](https://www.amazon.fr/dp/B07PM9DKY4/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07PM9DKY4/?tag=tolees0d-21)

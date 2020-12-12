@@ -22,7 +22,7 @@ Ahora mismo tienes [Rotary Montres Bracelet GB08300/01](https://www.amazon.fr/dp
 
 [![Rotary Montres Bracelet GB08300/01](https://m.media-amazon.com/images/I/51m7Rx3KmmL._SL200_.jpg)](https://www.amazon.fr/dp/B075NKVV5X/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B075NKVV5X/?tag=tolees0d-21)

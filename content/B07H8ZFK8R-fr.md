@@ -22,7 +22,7 @@ Ahora mismo tienes [Nero Standard 2019](https://www.amazon.fr/dp/B07H8ZFK8R/?tag
 
 [![Nero Standard 2019](https://m.media-amazon.com/images/I/41nRRbSfZzL._SL200_.jpg)](https://www.amazon.fr/dp/B07H8ZFK8R/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07H8ZFK8R/?tag=tolees0d-21)

@@ -22,7 +22,7 @@ Ahora mismo tienes [Carte Mémoire SDHC Sandisk Extreme 32 Go jusqu à 90 Mo/s
 
 [![Carte Mémoire SDHC Sandisk Extreme 32 Go](https://m.media-amazon.com/images/I/512Bzx8YRDL._SL200_.jpg)](https://www.amazon.fr/dp/B01LORO7Z6/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01LORO7Z6/?tag=tolees0d-21)

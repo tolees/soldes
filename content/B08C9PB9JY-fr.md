@@ -22,7 +22,7 @@ Ahora mismo tienes [BOBOO Mini RC Drone pour Enfants  Quadcopter RC Pliable avec
 
 [![BOBOO Mini RC Drone pour Enfants  Quadco](https://m.media-amazon.com/images/I/51iOTo1aztL._SL200_.jpg)](https://www.amazon.fr/dp/B08C9PB9JY/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08C9PB9JY/?tag=tolees0d-21)

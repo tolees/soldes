@@ -22,7 +22,7 @@ Ahora mismo tienes [Zéfal Z Traveler sacoche de porte-bagage](https://www.amazo
 
 [![Zéfal Z Traveler sacoche de porte-bagage](https://m.media-amazon.com/images/I/41ziDU2n3vL._SL200_.jpg)](https://www.amazon.fr/dp/B01K7VORFU/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B01K7VORFU/?tag=tolees0d-21)

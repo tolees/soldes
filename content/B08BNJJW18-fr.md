@@ -22,7 +22,7 @@ Ahora mismo tienes [YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps 8
 
 [![YIWENTEC DP vers 2*DP Bi-direction haute](https://m.media-amazon.com/images/I/41H9jGHus-L._SL200_.jpg)](https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21)

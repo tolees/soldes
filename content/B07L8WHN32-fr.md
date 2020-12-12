@@ -22,7 +22,7 @@ Ahora mismo tienes [Replay M1005 .000.573 584 Jean Droit  Bleu  Medium Blue 9   
 
 [![Replay M1005 .000.573 584 Jean Droit  Bl](https://m.media-amazon.com/images/I/41pBCcY492L._SL200_.jpg)](https://www.amazon.fr/dp/B07L8WHN32/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07L8WHN32/?tag=tolees0d-21)

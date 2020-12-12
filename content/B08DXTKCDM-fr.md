@@ -22,7 +22,7 @@ Ahora mismo tienes [Disque Dur Externe 1to USB3.0 SATA  Stockage HDD pour PC  Ma
 
 [![Disque Dur Externe 1to USB3.0 SATA  Stoc](https://m.media-amazon.com/images/I/41H7Q85D1FL._SL200_.jpg)](https://www.amazon.fr/dp/B08DXTKCDM/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B08DXTKCDM/?tag=tolees0d-21)

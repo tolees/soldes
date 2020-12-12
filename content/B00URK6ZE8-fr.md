@@ -22,7 +22,7 @@ Ahora mismo tienes [Remington IPL6750 Epilateur Lumière Pulsée 300000 Flashs I
 
 [![Remington IPL6750 Epilateur Lumière Puls](https://m.media-amazon.com/images/I/41KGLK8m+ZL._SL200_.jpg)](https://www.amazon.fr/dp/B00URK6ZE8/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00URK6ZE8/?tag=tolees0d-21)

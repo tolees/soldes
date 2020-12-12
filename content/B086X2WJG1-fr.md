@@ -22,7 +22,7 @@ Ahora mismo tienes [Fort Boyard Nouvelle Edition](https://www.amazon.fr/dp/B086X
 
 [![Fort Boyard Nouvelle Edition](https://m.media-amazon.com/images/I/51bYts5NSGL._SL200_.jpg)](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21)

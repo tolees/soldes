@@ -22,7 +22,7 @@ Ahora mismo tienes [Kit d’apprentissage scientifique OSOYOO  Ensemble d’exp�
 
 [![Kit d’apprentissage scientifique OSOYOO ](https://m.media-amazon.com/images/I/51s7EZOJ+HL._SL200_.jpg)](https://www.amazon.fr/dp/B00UYZOWR8/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00UYZOWR8/?tag=tolees0d-21)

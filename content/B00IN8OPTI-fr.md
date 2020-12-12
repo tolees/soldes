@@ -22,7 +22,7 @@ Ahora mismo tienes [Dsquared2 D Squared Brillengestelle DQ5122 071-55-16-140 Lun
 
 [![Dsquared2 D Squared Brillengestelle DQ51](https://m.media-amazon.com/images/I/31OqDZDpB7L._SL200_.jpg)](https://www.amazon.fr/dp/B00IN8OPTI/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B00IN8OPTI/?tag=tolees0d-21)

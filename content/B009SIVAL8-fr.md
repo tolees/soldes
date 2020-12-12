@@ -22,7 +22,7 @@ Ahora mismo tienes [Samsonite S Cure - Spinner S Bagage à Main  55 cm  34 L  Bl
 
 [![Samsonite S Cure - Spinner S Bagage à Ma](https://m.media-amazon.com/images/I/41cw9ylPb8L._SL200_.jpg)](https://www.amazon.fr/dp/B009SIVAL8/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B009SIVAL8/?tag=tolees0d-21)

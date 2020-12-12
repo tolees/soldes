@@ -22,7 +22,7 @@ Ahora mismo tienes [Neato Robotics D6 Aspirateur Robot Intelligent - Compatible 
 
 [![Neato Robotics D6 Aspirateur Robot Intel](https://m.media-amazon.com/images/I/41hMkCqq0uL._SL200_.jpg)](https://www.amazon.fr/dp/B07GSMXH4G/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
 [Visítala!!!](https://www.amazon.fr/dp/B07GSMXH4G/?tag=tolees0d-21)
