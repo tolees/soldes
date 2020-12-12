@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WEB2O TIPI pour Enfants H. 160cm  Gris  al 50.06 % de descuento'
-date: 2020-12-08 12:44:02
+date: 2020-12-12 20:05:03
 image: 'https://m.media-amazon.com/images/I/51wBb9dHNgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,8 @@ Está [WEB2O TIPI pour Enfants H. 160cm  Gris ](https://www.amazon.fr/dp/B073DBW
 
 ℹ️:
 
+- L. 120 x l. 160 x H. 120 cm
+- POLYESTER et BOIS
+- Tipi pour enfant
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B073DBWPTT/?tag=tolees0d-21)
