@@ -24,8 +24,8 @@ Está [WEB2O TIPI pour Enfants H. 160cm  Gris ](https://www.amazon.fr/dp/B073DBW
 
 ℹ️:
 
-- L. 120 x l. 160 x H. 120 cm
 - POLYESTER et BOIS
+- L. 120 x l. 160 x H. 120 cm
 - Tipi pour enfant
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B073DBWPTT/?tag=tolees0d-21)

@@ -24,12 +24,12 @@ Está [Air and Me POLA0001 Télécommande](https://www.amazon.fr/dp/B07DCL9RTV/?
 
 ℹ️:
 
-- Roulettes multi directionnelles
 - 3 vitesses et 3 modes (normal, natural wind, nuit)
-- Pain de glace et filtre à poussières
-- Timer de 1 à 8h
+- Panneau de contrôle tactile
 - Débit d’air (m3/h) : 483
 - Réservoir de 4 Litres
-- Panneau de contrôle tactile
+- Roulettes multi directionnelles
+- Pain de glace et filtre à poussières
+- Timer de 1 à 8h
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07DCL9RTV/?tag=tolees0d-21)
