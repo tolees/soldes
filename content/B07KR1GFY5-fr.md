@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Silicon Power SSD 512Go 3D NAND A55 SLC  al 38.75 % de descuento'
-date: 2020-12-02 13:12:06
+date: 2020-12-12 17:58:41
 image: 'https://m.media-amazon.com/images/I/51wTtyJ1zsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Está [Silicon Power SSD 512Go 3D NAND A55 SLC Cache Performance Boost 2.5 pouce
 
 ℹ️:
 
+- Performance améliorée grce à la technologie 3D NAND flash.
+- 7mm Slim design, adapté pour Ultrabooks et ultra-Slim Notebooks. Antichoc et résistant aux vibrations.
+- Technologies avancées incluses qui des performances optimisées et une sécurité de transmission de données plus élevée.: Bad Block Management, TRIM command, Garbage Collection, S.M.A.R.T. monitoring system et ECC technology (Error Checking & Correction).
+- de 3 ans. (veuillez enregistrez votre produit via SP site officiel pour obtenir le fabricant complet des services de , le support du produit et plus.)
+- Technologie de cache SLC: Boost de performance et une durée de vie plus longue avec temps de démarrage court et le chargement rapide de lapplication.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KR1GFY5/?tag=tolees0d-21)
