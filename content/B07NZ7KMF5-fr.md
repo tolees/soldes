@@ -29,9 +29,9 @@ Está [BISSELL EV675 | Aspirateur robot multi-surfaces | autonomie de 100 minute
 Principales características:
 
 - Les capteurs de vide permettent de détecter les escaliers ou les autres points de chute en approche ainsi que les faibles niveaux de batterie afin que lappareil revienne vers la station afin de se recharger
-- Le système de nettoyage à triple action comporte deux brosses latérales, une brosse-rouleau rotative, et est doté dune forte puissance daspiration pour un nettoyage parfait des poils danimaux et autres saletés sur votre sol
 - Batterie Li-ion 18 V pour une autonomie jusquà 100 minutes sur les sols durs
 - Son adaptabilité multisurface permet de nettoyer bien des surfaces, que ce soit tapis, moquettes et sols durs
+- Le système de nettoyage à triple action comporte deux brosses latérales, une brosse-rouleau rotative, et est doté dune forte puissance daspiration pour un nettoyage parfait des poils danimaux et autres saletés sur votre sol
 - Programmation du nettoyage grâce à une télécommande. Elle permet de contrôler et de personnaliser le nettoyage depuis votre canapé
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07NZ7KMF5/?tag=tolees0d-21)

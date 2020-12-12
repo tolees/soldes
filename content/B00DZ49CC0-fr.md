@@ -28,8 +28,8 @@ Está [Sac à Dos  Nintendo  - Grande Manette Nes - Gris](https://www.amazon.fr/
 
 Principales características:
 
-- Sac à dos Nintendo manette nes
 - Grande capacité
+- Sac à dos Nintendo manette nes
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00DZ49CC0/?tag=tolees0d-21)
 

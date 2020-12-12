@@ -28,9 +28,9 @@ Ahora mismo tienes [Alpenheat FireGloveliner Heated Gloveliner Mixte Adulte  Bla
 
 Características:
 
-- La durée de la chaleur de 1, 5 heures à 5, 5 heures
-- Coupe-vent à lextrémité de larbre pour une meilleure isolation
 - 3 niveaux de chaleur
+- Coupe-vent à lextrémité de larbre pour une meilleure isolation
+- La durée de la chaleur de 1, 5 heures à 5, 5 heures
 
 [Visítala!!!](https://www.amazon.fr/dp/B005Q9MU0S/?tag=tolees0d-21)
 

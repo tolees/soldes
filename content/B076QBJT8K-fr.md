@@ -30,9 +30,9 @@ Características principales:
 
 - Chaussette de haute qualité développée avec la technologie x-socks
 - Batteries fines et légères vous apportent jusquà 8 heures de chaleur
-- Gestion de la chauffe à distance en Bluetooth via votre smartphone
 - Elément chauffant imperceptible à lextérieur de la chaussette. Chaussette lavable en machine à 30°c.
 - Chaussette chauffante haute + batteries THERM-IC s700 Bluetooth pour toutes vos activités extérieur
+- Gestion de la chauffe à distance en Bluetooth via votre smartphone
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B076QBJT8K/?tag=tolees0d-21)
 

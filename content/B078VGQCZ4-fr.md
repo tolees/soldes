@@ -28,15 +28,15 @@ Está [Sony WH-CH700N Casque Sans Fil Bluetooth à Réduction de Bruit - Noir  a
 
 Principales características:
 
-- Appuyez sur le bouton NC pour activer la réduction de bruit
 - Aimant: Néodyme
 - Ecouteurs pivotants pour un transport facile
-- Prolongez votre écoute avec la charge rapide et une autonomie de la batterie pouvant atteindre 35 heures
-- Diffusion sans fil avec une connexion Bluetooth
 - Sensibilités (dB/mW): 98 dB/mW
-- Impédance (ohm): 220 ohms (connexion via le câble pour casque audio, avec lunité allumée), 48 ohms (à 1 kHz) (connexion via le câble pour casque audio, avec lunité éteinte)
+- Appuyez sur le bouton NC pour activer la réduction de bruit
 - Entendez tout grâce aux diaphragmes de 40 mm
 - Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Prolongez votre écoute avec la charge rapide et une autonomie de la batterie pouvant atteindre 35 heures
+- Diffusion sans fil avec une connexion Bluetooth
+- Impédance (ohm): 220 ohms (connexion via le câble pour casque audio, avec lunité allumée), 48 ohms (à 1 kHz) (connexion via le câble pour casque audio, avec lunité éteinte)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21)
 

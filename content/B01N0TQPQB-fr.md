@@ -28,9 +28,9 @@ Está [Kingston A400 SSD SA400S37/480G - SSD Interne 2.5" SATA 480GB](https://ww
 
 Principales características:
 
-- Plusieurs capacités avec assez despace pour des applications ou remplacer un disque dur
 - Démarrages, chargements et transferts de fichiers plus rapides
 - Plus fiable et plus durable quun disque dur
+- Plusieurs capacités avec assez despace pour des applications ou remplacer un disque dur
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01N0TQPQB/?tag=tolees0d-21)
 

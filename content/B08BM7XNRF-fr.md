@@ -29,8 +29,8 @@ Tienes [Crash Bandicoot 4 : It s About Time  Xbox One ](https://www.amazon.fr/dp
 Características principales:
 
 - Nouvelles compétences? Oui. Plus de personnages jouables? Tout à fait.
-- Une sauce fantastique? Parfaite pour vos nuggets de jort. Eh, ça existe les jorts? Pas dans cet univers !
 - Des dimensions alternatives? Évidemment. Des boss ridicules? Forcément.
+- Une sauce fantastique? Parfaite pour vos nuggets de jort. Eh, ça existe les jorts? Pas dans cet univers !
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08BM7XNRF/?tag=tolees0d-21)
 

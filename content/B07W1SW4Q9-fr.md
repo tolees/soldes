@@ -28,11 +28,11 @@ Tienes [Samsung Galaxy Note 10 - Smartphone Portable débloqué 4G  Ecran: 6 3 p
 
 Características principales:
 
-- Charge ultra rapide 25W
 - S Pen connecté navigation par gestes
+- Stockage 256 Go
 - Écran Infinité 6,3" dynamique AMOLED
 - Une recharge de 30 minutes pour durer toute la journée
-- Stockage 256 Go
+- Charge ultra rapide 25W
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07W1SW4Q9/?tag=tolees0d-21)
 

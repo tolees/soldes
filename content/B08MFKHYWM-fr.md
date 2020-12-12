@@ -28,11 +28,11 @@ Ahora mismo tienes [Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C Sto
 
 Características:
 
+- ❉Disque dur externe, largement compatible avec Apple MAC, WIN7 / 8 / 8.1 / 10, Android et autres systèmes, presque utilisable avec 99% des PC!
 - ❉Disque dur externe Type-C / USB3.1 amélioré, dont la vitesse de transmission est jusquà 100 Mo / S, très efficace et stable!
+- ❉Le disque dur externe se glisse facilement dans diverses poches, si portable que vous trouverez vos photos, vidéos, musiques ou tout ce qui est toujours là pour vous!
 - ❉Conception portable avec taille mini - Portable et mince spécialement conçu, facile à transporter.
 - ❉Ce disque dur sallume pour indication lorsquil est branché, prend également en charge la mise en veille automatique lorsquil nest pas utilisé pendant 10 minutes, afin de réduire la chaleur corporelle et dajouter la sécurité des données.
-- ❉Disque dur externe, largement compatible avec Apple MAC, WIN7 / 8 / 8.1 / 10, Android et autres systèmes, presque utilisable avec 99% des PC!
-- ❉Le disque dur externe se glisse facilement dans diverses poches, si portable que vous trouverez vos photos, vidéos, musiques ou tout ce qui est toujours là pour vous!
 
 [Visítala!!!](https://www.amazon.fr/dp/B08MFKHYWM/?tag=tolees0d-21)
 

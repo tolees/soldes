@@ -28,11 +28,11 @@ Ahora mismo tienes [Sliktaa Chemises Hommes Habillées Plissés Classiques Slim 
 
 Características:
 
-- Les chemises des hommes occasionnels, disponibles pour les couleurs noir, blanc, rouge
-- Le blanc pourrait parfaitement adapté aux costumes, smokings, veste, manteau, pantalon. La chemise noire et chemise rouge pourrait donner dautres sentiments comme mature et cool.
-- Shirts fonction: Coupe près du corps, manches longues, bouton vers le bas, poignets doubles, la conception de couleur unie
 - Parfait pour un usage occasionnel, smoking, dîner, soirée, mariage et occasions formelles
 - Matériel: coton, il pourrait absorber lhumidité et la libération des sueurs et vraiment à laise pour vous de porter pendant quatre saisons printemps, été, automne et hiver.
+- Le blanc pourrait parfaitement adapté aux costumes, smokings, veste, manteau, pantalon. La chemise noire et chemise rouge pourrait donner dautres sentiments comme mature et cool.
+- Les chemises des hommes occasionnels, disponibles pour les couleurs noir, blanc, rouge
+- Shirts fonction: Coupe près du corps, manches longues, bouton vers le bas, poignets doubles, la conception de couleur unie
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DL1SHZQ/?tag=tolees0d-21)
 

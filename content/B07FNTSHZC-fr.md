@@ -29,14 +29,14 @@ Está [LEGO® DUPLO® Rescue Le commissariat de police Jeu de construction  2 An
 Principales características:
 
 - Permet daider son enfant à maîtriser des compétences de construction de base avec ce modèle facile à construire.
-- Comprend un commissariat de police de facile à construire avec une porte de cellule qui s’ouvre et une voiture de police avec des lumières et une sirène sonore.
-- Il y a plusieurs produits de la ville LEGO DUPLO à collectionner pour recréer la vie quotidienne de son enfant dans un univers DUPLO familier.
-- Ce jouet sur la police est un cadeau idéal pour les enfants dâge préscolaire.
-- Possibilité dappuyer sur le bouton pour activer la sirène et les lumières de la voiture de police.
-- Il faut attraper le bandit et lemmener au commissariat de police pour aller en prison.
 - Les accessoires incluent une tasse, ainsi que des briques décorées de beignets et une caméra de sécurité.
+- Il y a plusieurs produits de la ville LEGO DUPLO à collectionner pour recréer la vie quotidienne de son enfant dans un univers DUPLO familier.
+- Il faut attraper le bandit et lemmener au commissariat de police pour aller en prison.
+- Possibilité dappuyer sur le bouton pour activer la sirène et les lumières de la voiture de police.
 - On peut utiliser les personnages modernes, les accessoires et les briques décorées pour samuser avec son enfant tout en l’aidant à découvrir la police.
+- Ce jouet sur la police est un cadeau idéal pour les enfants dâge préscolaire.
 - Les produits LEGO DUPLO sont amusants et sûrs pour les jeunes enfants.
+- Comprend un commissariat de police de facile à construire avec une porte de cellule qui s’ouvre et une voiture de police avec des lumières et une sirène sonore.
 - Inclut 3 figurines LEGO DUPLO : 2 policiers et un bandit.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FNTSHZC/?tag=tolees0d-21)
