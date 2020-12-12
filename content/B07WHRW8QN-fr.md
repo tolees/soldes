@@ -28,11 +28,11 @@ Tienes [NAVISKAUTO 12 Pouce Double Lecteur DVD Voiture Grand Ecrans d’Appui t�
 
 Características principales:
 
-- 🍩Nous offrons également une garantie de 18 mois sans soucis,ainsi que le service à la clientèle amical qui rendra votre achat absolument sûr.
-- 🍩DVD Pour Voiture supporte USB / SD / MMC (jusquà 128 Go FAT32), vous permet de lire tous vos médias téléchargés sur les deux écrans.
+- 🍩Lecteur dvd portatif voiture équippé avec 2 sangles de fixation, pratique pour installer et ajuster dans différentes tailles appui-tête. Conception de clamshell, commode pour changer des disques avec le joueur monté.
 - 🍩Lecteur dvd Double ecrans voiture AV OUT/AV IN,via le câble AV,vous pouvez regarder le même films sur les deux écrans;AV OUT peut être sortie sur le téléviseur.
 - 🍩Lecteur dvd portable enfant,la batterie peut être partagée entre le lecteur dvd et le moniteur, ce qui signifie sans une prise de courant, les deux ecrans pourrait fonctionner ensemble.
-- 🍩Lecteur dvd portatif voiture équippé avec 2 sangles de fixation, pratique pour installer et ajuster dans différentes tailles appui-tête. Conception de clamshell, commode pour changer des disques avec le joueur monté.
+- 🍩Nous offrons également une garantie de 18 mois sans soucis,ainsi que le service à la clientèle amical qui rendra votre achat absolument sûr.
+- 🍩DVD Pour Voiture supporte USB / SD / MMC (jusquà 128 Go FAT32), vous permet de lire tous vos médias téléchargés sur les deux écrans.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07WHRW8QN/?tag=tolees0d-21)
 
