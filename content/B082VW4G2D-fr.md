@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars 9 : L Ascension de Skywalker [ al 40.00 % de descuento'
-date: 2020-12-11 12:02:18
+date: 2020-12-12 18:02:45
 image: 'https://m.media-amazon.com/images/I/51zX1husj6L._SL200_.jpg'
 comments: true
 category: ofertas
