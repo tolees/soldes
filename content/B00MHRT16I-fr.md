@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Le Village - L Écol al 33.06 % de descuento'
-date: 2020-12-11 11:57:53
+date: 2020-12-12 12:03:52
 thumbnailImage: 'https://m.media-amazon.com/images/I/51NhcqYBV+L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51NhcqYBV+L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51NhcqYBV+L._SL200_.jpg' ]
@@ -29,13 +29,13 @@ Está [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Crèche
 Principales características:
 
 - Age minimum : 3 ans
-- Intérieur pour 6 élèves et un(e) instituteur(tric)
 - 35 pièces composent le set
+- 35 pièces composent le set
+- Dimensions : 38 x 33 x 21,5 cm
 - Age minimum : 3 ans
-- Dimensions : 38 x 33 x 21,5 cm
+- Intérieur pour 6 élèves et un(e) instituteur(tric)
 - Dimensions : 38 x 33 x 21,5 cm
 - Intérieur pour 6 élèves et un(e) instituteur(tric)
-- 35 pièces composent le set
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21)
 

@@ -28,9 +28,9 @@ Está [adidas Continental 80  Chaussures de Fitness Homme  Blanc  Ftwbla/Escarl/
 
 Principales características:
 
-- Style vintage.
 - Tige en cuir lisse.
 - Chaussures de sport.
+- Style vintage.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07K1M8FCY/?tag=tolees0d-21)
 

@@ -28,10 +28,10 @@ Ahora mismo tienes [LEGO Star Wars   Le chasseur X-wing de Poe Dameron  Set de c
 
 Características:
 
+- Inclut 3 figurines - Poe Dameron, Knight of Ren et Jannah avec de nouvelles fonctionnalités et armes annoncées pour janvier 2020, plus un droïde R2-D2 LEGO
 - Ce set se combine brillamment avec LAscension de Skywalker : le chasseur TIE Sith (75272) pour des batailles épiques du Premier Ordre contre la Résistance
 - Les ailes réglables du X-wing fighter montent ou descendent en  modes de croisière et dattaque et tirent des fusils à tenons et des missiles à ressort
 - Les enfants peuvent combattre le Premier Ordre avec Poe Dameron dans ce vaisseau spatial ou affronter le Chevalier de Ren au sol avec les formidables armes de Jannah
-- Inclut 3 figurines - Poe Dameron, Knight of Ren et Jannah avec de nouvelles fonctionnalités et armes annoncées pour janvier 2020, plus un droïde R2-D2 LEGO
 - Possède un cockpit ouvrant pour figurine, un espace pour abriter R2-D2, des ailes réglables, des fusils à tenons et à ressort ainsi quun train datterrissage rétractable
 
 [Visítala!!!](https://www.amazon.fr/dp/B07W7TMLFY/?tag=tolees0d-21)

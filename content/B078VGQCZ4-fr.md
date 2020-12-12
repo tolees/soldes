@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-CH700N Casque Sans Fil Bluetooth al 44.97 % de descuento'
-date: 2020-12-11 12:01:36
+date: 2020-12-12 12:04:58
 thumbnailImage: 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg' ]
@@ -28,15 +28,15 @@ Está [Sony WH-CH700N Casque Sans Fil Bluetooth à Réduction de Bruit - Noir  a
 
 Principales características:
 
-- Entendez tout grâce aux diaphragmes de 40 mm
 - Appuyez sur le bouton NC pour activer la réduction de bruit
 - Aimant: Néodyme
-- Sensibilités (dB/mW): 98 dB/mW
-- Prolongez votre écoute avec la charge rapide et une autonomie de la batterie pouvant atteindre 35 heures
-- Impédance (ohm): 220 ohms (connexion via le câble pour casque audio, avec lunité allumée), 48 ohms (à 1 kHz) (connexion via le câble pour casque audio, avec lunité éteinte)
-- Diffusion sans fil avec une connexion Bluetooth
-- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
 - Ecouteurs pivotants pour un transport facile
+- Prolongez votre écoute avec la charge rapide et une autonomie de la batterie pouvant atteindre 35 heures
+- Diffusion sans fil avec une connexion Bluetooth
+- Sensibilités (dB/mW): 98 dB/mW
+- Impédance (ohm): 220 ohms (connexion via le câble pour casque audio, avec lunité allumée), 48 ohms (à 1 kHz) (connexion via le câble pour casque audio, avec lunité éteinte)
+- Entendez tout grâce aux diaphragmes de 40 mm
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21)
 

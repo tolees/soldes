@@ -30,8 +30,8 @@ Características:
 
 - Les figurines sont très détaillées avec différentes armes et position et sont reproduites à identiques à partir des fichier numériques de disney-pixar.
 - Taille des soldats: 6 cm environ
-- Contient: 72 soldats
 - Retrouve les aventures de Toy Story avec le célèbre seau de soldats version "signature". Le seau contient 72 soldats dont 2 avec parachutes en plastique.
+- Contient: 72 soldats
 
 [Visítala!!!](https://www.amazon.fr/dp/B07PXNNBQ1/?tag=tolees0d-21)
 

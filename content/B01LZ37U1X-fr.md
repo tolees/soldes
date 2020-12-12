@@ -29,10 +29,10 @@ Tienes [Playmobil - Bateau de Pirates - 9118](https://www.amazon.fr/dp/B01LZ37U1
 Características principales:
 
 - Avec Playmobil 1.2.3 les tout petits voient grand
-- Très réaliste, le bateau de pirates 1.2.3 est doté dune voile ornée dune tête de mort
 - Convient aux enfants de plus de 1 an et demi
 - Le bateau de pirates flotte et le grand canon « tire » de leau. Dimensions : 29 x 13 x 14 cm (LxPxH)
 - Avec le nouveau bateau de pirates de 1.2.3, les tout-petits peuvent désormais également profiter dun des grands classiques de Playmobil adapté à leur âge
+- Très réaliste, le bateau de pirates 1.2.3 est doté dune voile ornée dune tête de mort
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01LZ37U1X/?tag=tolees0d-21)
 

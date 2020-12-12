@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 27.18 % en Playmobil - Famille et Barbecue Estival '
-date: 2020-12-10 10:00:37
+date: 2020-12-12 12:08:32
 thumbnailImage: 'https://m.media-amazon.com/images/I/51ylnMUJ3zL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51ylnMUJ3zL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51ylnMUJ3zL._SL200_.jpg' ]
@@ -28,6 +28,9 @@ Tienes [Playmobil - Famille et Barbecue Estival - 9272](https://www.amazon.fr/dp
 
 Características principales:
 
+- Les quatre lampions de la guirlande lumineuse fonctionnement réellement  grâce à des crochets, la guirlande peut être fixée, dun côté, à un arbre et, de lautre, au barbecue
+- Le câble passe derrière le barbecue et se fixe dans son socle
+- Contient 6 personnages, 1 barbecue, 1 guirlande lumineuse, 1 arbre, 1 balançoire, 1 piscine pour enfants, 2 tables, 1 poussette, de la nourriture, de la vaisselle, des jouets
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06X6NMC57/?tag=tolees0d-21)
 

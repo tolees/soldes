@@ -28,9 +28,9 @@ Tienes [Riva776Yale Boîte de présentation en acrylique pour Lego Ideas Pirates
 
 Características principales:
 
-- Écran anti-poussière : spécialement conçu pour les Pirates de Barracuda Bay 21322.
-- Remarque : 1. Présentoir uniquement, le modèle Lego nest pas inclus. 2. Il y a un film sur la planche acrylique pour protéger lexpédition, il peut être déchiré après réception.
 - Excellent service après-vente. Les pièces cassées sont libres.
+- Remarque : 1. Présentoir uniquement, le modèle Lego nest pas inclus. 2. Il y a un film sur la planche acrylique pour protéger lexpédition, il peut être déchiré après réception.
+- Écran anti-poussière : spécialement conçu pour les Pirates de Barracuda Bay 21322.
 - Excellente protection : pour le protéger contre les dommages, un excellent choix pour les collectionneurs de modélisme.
 - Belle apparence : haute transparence, lintérieur peut être clairement affiché. La structure de type combiné est utilisée.
 

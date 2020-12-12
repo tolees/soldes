@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Maison Moderne - 9266 al 27.25 % de descuento'
-date: 2020-12-11 11:58:50
+date: 2020-12-12 12:05:14
 thumbnailImage: 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg'
 image: 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg'
 images: [ 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg' ]
@@ -28,9 +28,9 @@ Ahora mismo tienes [Playmobil - Maison Moderne - 9266](https://www.amazon.fr/dp/
 
 Características:
 
-- Toutes les portes peuvent être ouvertes dans les deux directions
-- Comprend du mobilier pour la terrasse
 - Contient 1 maison, 2 personnages, 1 chien et des accessoires (barbecue, table, chaises, transat, pot de fleurs Lechuza, vaisselle)
+- Comprend du mobilier pour la terrasse
+- Toutes les portes peuvent être ouvertes dans les deux directions
 
 [Visítala!!!](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)
 

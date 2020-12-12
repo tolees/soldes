@@ -28,12 +28,12 @@ Tienes [Peppa Pig  Maison de Luxe avec 2 Personnages  Grande Maison Dépliable a
 
 Características principales:
 
-- DESSIN ANIMÉ : Retrouve lunivers joyeux du dessin animé Peppa Pig.
-- AGE : pour les enfants à partir de 3 ans.
+- RANGEMENT PRATIQUE : la maison souvre lorsque lheure du jeu est arrivée et se referme lorsquil est temps de ranger. Idéal pour ne perdre aucun accessoire ou figurine.
 - GRANDE MAISON : amuse-toi avec la grande maison Peppa Pig, comme dans le dessin animé ! Avec 5 pièces et un jardin.
 - 2 PERSONNAGES : il y a 2 figurines de la famille Pig à lintérieur du coffret.
 - ACCESSOIRES : nombreux meubles et accessoires pour inventer plein de nouvelles histoires.
-- RANGEMENT PRATIQUE : la maison souvre lorsque lheure du jeu est arrivée et se referme lorsquil est temps de ranger. Idéal pour ne perdre aucun accessoire ou figurine.
+- AGE : pour les enfants à partir de 3 ans.
+- DESSIN ANIMÉ : Retrouve lunivers joyeux du dessin animé Peppa Pig.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00E0JMRGM/?tag=tolees0d-21)
 

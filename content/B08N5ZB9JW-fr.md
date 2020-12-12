@@ -29,9 +29,9 @@ Está [Verre Trempé pour Galaxy S20  [2 Pièces] [Haute Définition] [Dureté 9
 Principales características:
 
 - 【Installation Simple】Installation sans bulle, prenez seulement quelques secondes. Maintenir la longévité et la durabilité tout en empêchant le protecteur décran de se détacher.
+- 【Protection Ecran】 Film de protection ecran en verre trempe Samsung Galaxy S20. Fabriqué en verre trempé de haute qualité, couvre complètement, donner la défense tous azimuts.
 - 【Très Grande Dureté】Ultra Résistant Résiste aux impacts jusquà 9H (plus dur que dun couteau) est assez fort pour protéger votre Samsung Galaxy S20 des gouttes, des fissures et des rayures.
 - 【Un service de qualité】Merci davoir acheté notre produit. Si vous avez des questions ou des problèmes concernant nos produits, veuillez nous contacter par e-mail. Nous ferons de notre mieux pour résoudre votre problème.
-- 【Protection Ecran】 Film de protection ecran en verre trempe Samsung Galaxy S20. Fabriqué en verre trempé de haute qualité, couvre complètement, donner la défense tous azimuts.
 - 【Extremement Clair】Verre ultra-mince avec des trou précis, montrer lecran original. Transparence Touche haute sensibilité.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08N5ZB9JW/?tag=tolees0d-21)
