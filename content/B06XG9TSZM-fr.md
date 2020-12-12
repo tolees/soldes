@@ -24,10 +24,10 @@ Tienes [LOSMILE Unisexe Vintage Canvas Messenger Sacs Petit Sac Bandoulière.30c
 
 ℹ️:
 
-- GARANTIE: 3 mois, Si vous recevez un article défectueux, nous contacter Sil vous plaît, nous prendrons la responsabilité de votre commande.
-- Dimensions: 30cm (L) x 10cm (W) x 26cm (H), Il peut contenir une tablette 10", iPad, appareil photo, 12.3 Surface Pro 4 / 3. Poids net: 0,75 kg.
 - Un total de 26 poches: 1 principale poche à fermeture éclaire,1 poche sur le devant, 1 poche zippée arrière, ces deux poches contiennent de nombreux compartiments fonctionnels, 2 petites poches latérales.
-- Matériel: tissu importé toile épaisse + Doublure en Polyester PU, durable et design à la mode, résistant à labrasion et Zippes en métal SBS. Processus de couture précis.
+- GARANTIE: 3 mois, Si vous recevez un article défectueux, nous contacter Sil vous plaît, nous prendrons la responsabilité de votre commande.
 - Sangle réglable pour un transport confortable et sadapter à toutes le tailles (réglable de 28,7 pouces / 73cm à 54,3 pouces / 138cm), fermeture à glissière en métal vous permet de compresser le sac en douceur et protéger vos articles.
+- Matériel: tissu importé toile épaisse + Doublure en Polyester PU, durable et design à la mode, résistant à labrasion et Zippes en métal SBS. Processus de couture précis.
+- Dimensions: 30cm (L) x 10cm (W) x 26cm (H), Il peut contenir une tablette 10", iPad, appareil photo, 12.3 Surface Pro 4 / 3. Poids net: 0,75 kg.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XG9TSZM/?tag=tolees0d-21)

@@ -24,11 +24,11 @@ Tienes [Art Amsterdam  Sandales Bride Arriere Femme  Marron  Cuero Cuero   41 EU
 
 ℹ️:
 
-- Matériau de semelle : bois
 - Semelle intérieure : fourrure
-- Dessus : autres cuir
-- Doublure : non doublé
 - Fermeture : boucle
 - Type de talons : bloc
+- Doublure : non doublé
+- Dessus : autres cuir
+- Matériau de semelle : bois
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B0771SZSDK/?tag=tolees0d-21)

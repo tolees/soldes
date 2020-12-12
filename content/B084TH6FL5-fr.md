@@ -24,8 +24,8 @@ Ahora mismo tienes [Marvel s Avengers Deluxe Edition  Xbox One ](https://www.ama
 
 🔎:
 
-- Rassemblez votre propre équipe des plus grands héros de la Terre, explorez vos pouvoirs, et réalisez vos rêves de super-héros.
-- Rassemblez-vous pour former des équipes allant jusquà quatre joueurs, apprenez à maîtriser des capacités extraordinaires, obtenez de nouveaux héros et personnalisez-les.
 - Lépopée de Marvels Avengers continue avec la sortie régulière de nouveaux héros et de nouvelles histoires. Découvrez lexpérience de jeu Avengers ultime.
+- Rassemblez-vous pour former des équipes allant jusquà quatre joueurs, apprenez à maîtriser des capacités extraordinaires, obtenez de nouveaux héros et personnalisez-les.
+- Rassemblez votre propre équipe des plus grands héros de la Terre, explorez vos pouvoirs, et réalisez vos rêves de super-héros.
 
 [Visítala!!!](https://www.amazon.fr/dp/B084TH6FL5/?tag=tolees0d-21)
