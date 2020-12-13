@@ -24,10 +24,10 @@ Ahora mismo tienes [iClosam Pull Chaud à Col Roulé Homme Pullover Basique à M
 
 🔎:
 
-- Style: ce pull homme basique à col haut décontracté peut être associé à un jean ou un pantalon moderne pour un look cool et génial.
 - Caractéristique: col rond pull homme, poids léger, coupe relax, décontracté, différentes couleurs, pulls de base modernes conçus par temps froid.
-- Matériel:70%polyester 30%nylon. Tissu de bonne qualité, bonne capacité de douceur et offrant un confort lors du port.
+- Style: ce pull homme basique à col haut décontracté peut être associé à un jean ou un pantalon moderne pour un look cool et génial.
 - Sil vous plaît vérifier attentivement la taille et les informations sur le produit avant dacheter. Si vous avez des questions, nhésitez pas à nous contacter. Le service client est en ligne 24h.
+- Matériel:70%polyester 30%nylon. Tissu de bonne qualité, bonne capacité de douceur et offrant un confort lors du port.
 - Occasion: décontracté pour une activité en plein air, fête de la mode au quotidien. Convient pour lautomne et la saison dhiver.
 
 [Visítala!!!](https://www.amazon.fr/dp/B07X1QS8Y4/?tag=tolees0d-21)
