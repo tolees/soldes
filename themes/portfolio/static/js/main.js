@@ -2,9 +2,6 @@ $(function() {
     initializeLazyLoadOfImages();
 })
 
-
-$('img').removeAttr('width');
-
 function initializeLazyLoadOfImages() {
     var bLazy = new Blazy();
 
@@ -23,6 +20,7 @@ function initializeLazyLoadOfImages() {
                 // then we remove the "loading" class which holds the loader image
                 var parent = element.parentNode;
                 parent.className = parent.className.replace(/\bloading\b/, '');
+                element.removeAttr('width').removeAttr('height');
             }, 200);
         }
     });
