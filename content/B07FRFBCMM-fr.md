@@ -24,7 +24,7 @@ Está [G.H. Martel & C Champagne Brut Premier Cru 750 ml](https://www.amazon.fr/
 
 ℹ️:
 
-- Une bouche puissante et onctueuse, fruitée, fraîche, avec de subtiles touches rondes de miel.
 - Nez fin, élégant, porté sur le fruit frais comme la pêche blanche.
+- Une bouche puissante et onctueuse, fruitée, fraîche, avec de subtiles touches rondes de miel.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FRFBCMM/?tag=tolees0d-21)
