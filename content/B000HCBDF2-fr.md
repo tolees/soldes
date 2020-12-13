@@ -24,10 +24,10 @@ Ahora mismo tienes [OXO Good Grips 1067247MLNYK Steamer avec poignée extensible
 
 🔎:
 
+- Passe au lave-vaisselle
+- La poignée rétractable est facile à atteindre et permet un rangement compact
+- Les pieds se replient pour faciliter le rangement
 - Les pieds de 4,4 cm surélèvent le panier cuit-vapeur au-dessus de leau
 - Sadapte aux casseroles de 20 cm de diamètre et plus
-- Passe au lave-vaisselle
-- Les pieds se replient pour faciliter le rangement
-- La poignée rétractable est facile à atteindre et permet un rangement compact
 
 [Visítala!!!](https://www.amazon.fr/dp/B000HCBDF2/?tag=tolees0d-21)

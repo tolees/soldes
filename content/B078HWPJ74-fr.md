@@ -24,8 +24,8 @@ Ahora mismo tienes [Mon premier poupon Corolle -  FBN07 - Mini bain jaune](https
 
 🔎:
 
-- Mini poupon 20 cm
 - Compagnon idéal pour les jeux deaux
+- Mini poupon 20 cm
 - Délicate senteur de vanille
 - Corps souple
 - Dès 18 mois
