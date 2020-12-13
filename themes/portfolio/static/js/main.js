@@ -3,7 +3,7 @@ $(function() {
 })
 
 
-$('img').removeAttr('width').removeAttr('height').addClass('img-responsive');
+$('img').removeAttr('width').removeAttr('height');
 
 function initializeLazyLoadOfImages() {
     var bLazy = new Blazy();
