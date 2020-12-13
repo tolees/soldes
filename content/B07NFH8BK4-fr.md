@@ -24,8 +24,8 @@ Está [Focus A Plague Tale : Innocence](https://www.amazon.fr/dp/B07NFH8BK4/?tag
 
 ℹ️:
 
-- Un mélange d’aventures, d’actions, et d’infiltrations vous entraîne au plus profond d’un monde moyenâgeux au bord du chaos.
 - JEU ENTIÈREMENT DOUBLE EN FRANÇAIS
+- Un mélange d’aventures, d’actions, et d’infiltrations vous entraîne au plus profond d’un monde moyenâgeux au bord du chaos.
 - Survivez aux terrifiants dangers qui se dressent dans ce monde brutal et impitoyable ; faites face à de mystérieuses hordes de rats, dévorant tout sur leur passage
 - Découvrez un conte original et puissant centré sur le voyage initiatique de la jeune noble Amicia de Rune et de son intrépide petit frère Hugo
 

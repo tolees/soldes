@@ -26,8 +26,8 @@ Ahora mismo tienes [LEGO® Technic Porsche 911 RSR Jeu voiture  10 Ans et Plus  
 
 - La réplique du modèle Porsche 911 RSR avec une multitude de caractéristiques authentiques, y compris une aile arrière avec des supports « col de cygne », un diffuseur arrière étendu et des rétroviseurs aérodynamiques, plus des jantes à rayons noires et des phares avant et arrière réalistes. Comprend également une cabine détaillée, un différentiel qui fonctionne, une suspension indépendante et un moteur six cylindres à plat avec des pistons mobiles positionnés devant l’essieu arrière.
 - 1580 pièces pour les enfants de 10 ans et plus.
-- La Porsche 911 RSR mesure plus de 13 cm de haut, 50 cm de long et 20 cm de large.
-- Construisez la Porsche 911 RSR LEGO Technic, développée en partenariat avec Porsche, cette réplique authentique démontre l’aspect puissant du véhicule avec ses contours tranchants et ses détails aérodynamiques
 - Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- Construisez la Porsche 911 RSR LEGO Technic, développée en partenariat avec Porsche, cette réplique authentique démontre l’aspect puissant du véhicule avec ses contours tranchants et ses détails aérodynamiques
+- La Porsche 911 RSR mesure plus de 13 cm de haut, 50 cm de long et 20 cm de large.
 
 [Visítala!!!](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)

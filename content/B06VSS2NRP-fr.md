@@ -24,11 +24,11 @@ Ahora mismo tienes [SanDisk Ultra 256Go Dual Drive m3.0 Clé double connectique 
 
 🔎:
 
-- The item is not compatible with USB C
-- High-speed USB 3.0 performance with up to 150MB/s file transfer from drive to computer, SanDisk Memory Zone application (available on Google Play) lets you easily manage your photos and videos
 - Compatible with most Android devices Enabled for OTG. The Dual Unit m3.0 SanDisk Ultra is compatible with most Android smartphones and tablets, and includes support for USB on the move (OTG)
-- SanDisk Ultra Dual Drive m3.0 is compatible with Android smartphones and tablets featuring OTG (On-The-Go) USB support
+- High-speed USB 3.0 performance with up to 150MB/s file transfer from drive to computer, SanDisk Memory Zone application (available on Google Play) lets you easily manage your photos and videos
 - Free up space on your OTG Android Phone. Back up photos, videos and contacts
 - Retractable design with dual micro USB and USB 3.0 connectors
+- The item is not compatible with USB C
+- SanDisk Ultra Dual Drive m3.0 is compatible with Android smartphones and tablets featuring OTG (On-The-Go) USB support
 
 [Visítala!!!](https://www.amazon.fr/dp/B06VSS2NRP/?tag=tolees0d-21)
