@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 50.80 % en Parker Jotter stylo plume | acier inoxyd'
-date: 2020-11-21 05:12:32
+date: 2020-12-13 12:23:47
 image: 'https://m.media-amazon.com/images/I/31cJnx8Yg1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,5 +24,10 @@ Tienes [Parker Jotter stylo plume | acier inoxydable avec attributs chromés | p
 
 ℹ️:
 
+- Pointe moyenne ; inclut 2 petites cartouches d’encre bleue à base d’eau
+- Le design emblématique du Jotter désormais en version stylo plume
+- Un corps en acier inoxydable au design élégant et raffiné
+- Une pointe délicate et élancée pour découvrir le plaisir d’écrire au stylo plume
+- Présenté dans un superbe coffret cadeau Parker
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07C1SJSC7/?tag=tolees0d-21)
