@@ -7,7 +7,7 @@ disqusShortname = ""
 
 
 [sitemap]
-  changefreq = "daily"
+  changefreq = "hourly"
   filename = "sitemap.xml"
   priority = 0.5
 

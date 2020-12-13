@@ -30,7 +30,7 @@
                         <a href="{{ .Permalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         {{ end }}
                         <div class="loading">
-                            <img width="200px" height="200px" alt=".Params.prodname" class="b-lazy img-responsive" data-src="{{.Params.image | absURL}}" src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' />
+                            <img style="max-height:200px;max-width:200px"  height="200px" width="200px" alt=".Params.prodname" class="b-lazy img-responsive" data-src="{{.Params.image | absURL}}" src='data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==' />
                         </div>
                         </a>
                       {{ end }}
