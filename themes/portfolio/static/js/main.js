@@ -3,7 +3,7 @@ $(function() {
 })
 
 
-$('img').removeAttr('width').removeAttr('height');
+$('img').removeAttr('width');
 
 function initializeLazyLoadOfImages() {
     var bLazy = new Blazy();
