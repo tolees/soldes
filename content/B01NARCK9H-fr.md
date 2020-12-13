@@ -25,8 +25,8 @@ Está [SuSenGo Titanic Building Block Kit 1021 Pcs](https://www.amazon.fr/dp/B01
 ℹ️:
 
 - Des instructions détaillées sur les couleurs, passez un bon moment.
-- Le kit de construction Titanic contient 1021 blocs! Ensemble énorme!
 - 24h service en ligne, avez des questions, sil vous plaît nhésitez pas à nous contacter.
+- Le kit de construction Titanic contient 1021 blocs! Ensemble énorme!
 - Construisez chez vous un projet spectaculaire, compatible avec les grandes marques.
 - Emballé dans une boîte colorée, cadeau incroyable à votre ami, bébé.
 
