@@ -24,10 +24,10 @@ Tienes [Parker Jotter stylo bille Jotter | Noir Bond Street | pointe moyenne | e
 
 ℹ️:
 
-- Acier inoxydable brossé et vernis
-- Présenté dans son élégant étui Parker
-- Équipé dune recharge bille Quinkflow pour un flux dencre optimal et une écriture douce; encre bleue
-- Agrafe en forme de flèche en acier inoxydable poli
 - Rétractable avec bouton poussoir
+- Acier inoxydable brossé et vernis
+- Équipé dune recharge bille Quinkflow pour un flux dencre optimal et une écriture douce; encre bleue
+- Présenté dans son élégant étui Parker
+- Agrafe en forme de flèche en acier inoxydable poli
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01DJBH8SS/?tag=tolees0d-21)
