@@ -24,12 +24,12 @@ Ahora mismo tienes [Logitech G560 Haut-parleurs Gaming PC - Son Surround DTS:X U
 
 🔎:
 
-- Une puissance de crête explosive de 240 watts et un transducteur au design unique offrent un environnement sonore exceptionnel pour une expérience de jeu intensifiée
-- Sensibilité: 84 dB à 1 m/1 w
 - Léclairage LIGHTSYNC RGB intégré projette des couleurs déclairage piloté par le jeu et des effets activés par le son de nombreux jeux populaires
-- Configuration requise: Windows 10, Windows 8.1 ou Windows 7. Mac OS X (DTS:X non pris en charge)
-- Deux satellites et un caisson de basses orienté vers le bas produisent un son incroyablement détaillé avec des aigus clairs, des médiums riches et des graves retentissantes
+- Une puissance de crête explosive de 240 watts et un transducteur au design unique offrent un environnement sonore exceptionnel pour une expérience de jeu intensifiée
 - Le son surround DTS:X Ultra offre un son positionnel en 3D, pour une perception de votre environnement de jeu sous tous les angles
+- Deux satellites et un caisson de basses orienté vers le bas produisent un son incroyablement détaillé avec des aigus clairs, des médiums riches et des graves retentissantes
 - Connectez et basculez entre quatre dispositifs grâce à la connectivité polyvalente USB, 3,5 mm et sans fil Bluetooth pour les jeux, la musique et bien plus encore
+- Sensibilité: 84 dB à 1 m/1 w
+- Configuration requise: Windows 10, Windows 8.1 ou Windows 7. Mac OS X (DTS:X non pris en charge)
 
 [Visítala!!!](https://www.amazon.fr/dp/B079VVQS1R/?tag=tolees0d-21)
