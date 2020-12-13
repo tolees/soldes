@@ -24,9 +24,9 @@ Está [Ice-Watch - Ice Crystal White Rose-Gold - Montre Blanche pour Femme avec 
 
 ℹ️:
 
-- Collection ICE crystal
-- Le chic s’empare du design phare de la marque Ice-Watch avec le lancement de la collection ICE crystal Une montre blanche de taille moyenne dont le cadran transparent aux détails rose-gold renferme une pluie de 400 cristaux Swarovski virevoltant librement au rythme de vos mouvements Hypnotisante, miroitante, incroyablement élégante, la montre ICE crystal allie détails en acier et bracelet en silicone pour un résultat on ne peut plus sophistiqué !
 - Livré avec un manuel dinstructions et une boîte de présentation
+- Le chic s’empare du design phare de la marque Ice-Watch avec le lancement de la collection ICE crystal Une montre blanche de taille moyenne dont le cadran transparent aux détails rose-gold renferme une pluie de 400 cristaux Swarovski virevoltant librement au rythme de vos mouvements Hypnotisante, miroitante, incroyablement élégante, la montre ICE crystal allie détails en acier et bracelet en silicone pour un résultat on ne peut plus sophistiqué !
+- Collection ICE crystal
 - Boitier en plastique de taille medium (40mm) avec bracelet en silicone
 - Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
 

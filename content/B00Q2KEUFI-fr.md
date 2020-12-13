@@ -24,11 +24,11 @@ Ahora mismo tienes [Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Fo
 
 🔎:
 
-- Détails précis : capteur plein format 24 mp pour fournir des images exceptionnelles
+- Partagez vos créations : partagez facilement sur vos appareils mobiles grâce à lapplication imaging edge (wi-fi/bluetooth)
 - Des vidéos expressives : créez des films dune grange qualité visuelle et sonore avec un flou darrière plan puissant et la sensibilité nécessaire pour donner vie à des scènes en basses lumières
 - Pride de vue stable : stabilisation de limage par le capteur sur 5 axes pour les photos et les vidéos afin de compenser les tremblements de lappareil
 - Rapide et précis : la7ii dispose dun af hybride rapide, pour une mise au point optimale la prise de vue en rafale à 5 images/seconde vous aide à capturer linstant
+- Détails précis : capteur plein format 24 mp pour fournir des images exceptionnelles
 - Température de fonctionnement: 0 - 40°C
-- Partagez vos créations : partagez facilement sur vos appareils mobiles grâce à lapplication imaging edge (wi-fi/bluetooth)
 
 [Visítala!!!](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21)
