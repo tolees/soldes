@@ -25,10 +25,10 @@ Está [Siméo TCE610 Thermal Cooker](https://www.amazon.fr/dp/B07WWGCM6H/?tag=to
 ℹ️:
 
 - NOMADE : débutez la cuisson à la maison et dégustez en pique-nique, en sortie ou au travail un repas toujours chaud.
-- Garantie 2 ans pièces et main dœuvre
-- SECURITE TOTALE : le Thermal Cooker peut être laissé sans surveillance pour la cuisson passive.
-- Cuves compatibles tous feux dont induction.
 - ECO-PRODUIT : jusquà 90 % de consommation électrique économisée pour le même résultat de cuisson.
+- Garantie 2 ans pièces et main dœuvre
+- Cuves compatibles tous feux dont induction.
+- SECURITE TOTALE : le Thermal Cooker peut être laissé sans surveillance pour la cuisson passive.
 - Cuve principale capacité 4 L et seconde cuve pour les cuissons combinées capacité 1 L.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07WWGCM6H/?tag=tolees0d-21)

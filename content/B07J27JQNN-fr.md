@@ -24,12 +24,12 @@ Está [Sodastream Pack Spécial Machine Crystal en Alu Brossé Gris/Noir + 2 Car
 
 ℹ️:
 
-- Gazéifier uniquement de l’eau sans aucun additif
 - Lavable en lave-vaisselle et réutilisable à l’infini
-- 1 carafe en verre supplémentaire de 0.60L, passable au lave-vaisselle
-- Les plus produits : une plus longue conservation des bulles de votre eau fraîchement gazéifiée, une simplicité d’utilisation et d’entretien. L économie à l’utilisation
-- Pack Spécial comprenant :
 - La nouvelle machine Sodastream Crystal titan/noir prête à lemploi avec cylindre de C0² alimentaire permettant de réaliser 60L deau pétillante + 1 x carafe 0,6 Litre en verre
+- Les plus produits : une plus longue conservation des bulles de votre eau fraîchement gazéifiée, une simplicité d’utilisation et d’entretien. L économie à l’utilisation
+- Gazéifier uniquement de l’eau sans aucun additif
 - Ne nécessite ni pile ni électricité
+- Pack Spécial comprenant :
+- 1 carafe en verre supplémentaire de 0.60L, passable au lave-vaisselle
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07J27JQNN/?tag=tolees0d-21)

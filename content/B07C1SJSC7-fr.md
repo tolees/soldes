@@ -24,8 +24,8 @@ Tienes [Parker Jotter stylo plume | acier inoxydable avec attributs chromés | p
 
 ℹ️:
 
-- Présenté dans un superbe coffret cadeau Parker
 - Un corps en acier inoxydable au design élégant et raffiné
+- Présenté dans un superbe coffret cadeau Parker
 - Une pointe délicate et élancée pour découvrir le plaisir d’écrire au stylo plume
 - Pointe moyenne ; inclut 2 petites cartouches d’encre bleue à base d’eau
 - Le design emblématique du Jotter désormais en version stylo plume

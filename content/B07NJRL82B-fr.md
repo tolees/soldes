@@ -27,7 +27,7 @@ Ahora mismo tienes [Ice-Watch - Ice Steel Light Blue With Stones - Montre Argent
 - Livré avec un manuel dinstructions et une boîte de présentation
 - Boitier en acier inoxydable de taille medium (40mm) avec bracelet en metal
 - Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
-- Lumineuse et robuste, cette montre argentée en acier confère un style tout particulier à vos tenues du quotidien Grâce à son cadran au fond bleu ciel à détails blancs orné de cristaux de Swarovski en guise d’index et à son bracelet argenté en mailles métalliques, cette montre agrémentera votre poignet d’une touche féminine et moderne
 - Collection ICE steel
+- Lumineuse et robuste, cette montre argentée en acier confère un style tout particulier à vos tenues du quotidien Grâce à son cadran au fond bleu ciel à détails blancs orné de cristaux de Swarovski en guise d’index et à son bracelet argenté en mailles métalliques, cette montre agrémentera votre poignet d’une touche féminine et moderne
 
 [Visítala!!!](https://www.amazon.fr/dp/B07NJRL82B/?tag=tolees0d-21)

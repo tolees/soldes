@@ -24,10 +24,10 @@ Tienes [Barbie Mobilier Coffret Supermarché fourni avec poupée à robe fleurie
 
 ℹ️:
 
-- La poupée Barbie porte une robe-combinaison noire avec un imprimé fleuri et des baskets blanches
-- Votre enfant diversifie ses histoire et alimente son jeu avec Barbie; Son monde est grand, tout comme celui de votre enfant car avec Barbie, il peut être tout ce quil veut (Tous vendus séparément. Certains produits peuvent ne pas être commercialisés)
-- Barbie fait ses courses : trois côtés ont des étagères pour les aliments, il y a un panier pour les produits et une balance qui bouge pour alimenter le jeu de rôle
 - Déposez vos achats sur le tapis roulant du comptoir-caisse et faites glisser le levier pour les déplacer jusquà les faire tomber dans le sac de course suspendu au crochet à lautre bout
+- La poupée Barbie porte une robe-combinaison noire avec un imprimé fleuri et des baskets blanches
+- Barbie fait ses courses : trois côtés ont des étagères pour les aliments, il y a un panier pour les produits et une balance qui bouge pour alimenter le jeu de rôle
+- Votre enfant diversifie ses histoire et alimente son jeu avec Barbie; Son monde est grand, tout comme celui de votre enfant car avec Barbie, il peut être tout ce quil veut (Tous vendus séparément. Certains produits peuvent ne pas être commercialisés)
 - Linventaire comprend 20 éléments produits, comme le lait, les oeufs, les pommes, le yaourt, le miel et les fleurs. Certains éléments ont des poignées pour tenir dans la main de la poupée Barbie et sont dotés de tige pour être fixés au coffret et rester en place pour faciliter le jeu dynamique
 - Votre enfant emmène sa poupée Barbie faire un tour à lépicerie grâce à ce coffret Supermarché qui dispose de tous les ingrédients pour samuser : Inclut une poupée Barbie, un comptoir-caisse et son tapis roulant, un présentoir, un caddie roulant, des accessoires produits à ranger sur les étagères
 

@@ -25,9 +25,9 @@ Está [Carte Mémoire microSDXC SanDisk Extreme 400 Go + Adaptateur SD avec Perf
 ℹ️:
 
 - Idéale pour les smartphones et tablettes Android, ainsi que pour les caméras daction et les drones
-- Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
-- Jusquà 160 Mo/s en lecture et 90 Mo/s en écriture pour des prises et transferts rapides
 - Homologuée A2 pour des performances applicatives et des chargements plus rapides
+- Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
+- Jusquà 160 Mo/s en lecture et 90 Mo/s en écriture pour des prises et transferts rapides
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FCQRN9K/?tag=tolees0d-21)
