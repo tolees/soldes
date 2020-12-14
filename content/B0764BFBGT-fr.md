@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Enceinte MEGABOOM Édition Limitée sans f al 46.12 % de descuento'
-date: 2020-11-27 07:26:45
+date: 2020-12-13 22:12:59
 image: 'https://m.media-amazon.com/images/I/41E6w5JeU6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,13 @@ Ahora mismo tienes [Enceinte MEGABOOM Édition Limitée sans fil/Bluetooth  Éta
 
 [![Enceinte MEGABOOM Édition Limitée sans f](https://m.media-amazon.com/images/I/41E6w5JeU6L._SL200_.jpg)](https://www.amazon.fr/dp/B0764BFBGT/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
+- Le revêtement acoustique coloré plasma rend lenceinte UE MEGABOOM étanche et résistante aux taches
+- La batterie rechargeable de 20 heures de lenceinte portable te permet découter de la musique en continu
+- Connecte tes enceintes Bluetooth portables avec Echo Dot (2ème génération) pour une commande vocale mains libres de lenceinte Ultimate Ears MEGABOOM avec Alexa, pour écouter de la musique sur Amazon, Spotify, Pandora, iHeartRadio
+- Réponse en fréquence: 65 - 20000 Hz | Impédance: 4 Ω | Sensibilité: 90 dB
+- UE MEGABOOM est une enceinte à 360 degrés sans fil Bluetooth capable de produire un son ample et immersif dans toutes les directions
+- Système denceintes sans fil Ultimate Ears avec transducteurs double performance qui diffusent des médiums clairs et des aigus vibrants
 
 [Visítala!!!](https://www.amazon.fr/dp/B0764BFBGT/?tag=tolees0d-21)
