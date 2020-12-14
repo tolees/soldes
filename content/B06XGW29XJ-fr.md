@@ -24,10 +24,10 @@ Ahora mismo tienes [Helly Hansen Dubliner Imperméable e Isolée Veste d hiver H
 
 🔎:
 
-- The Hood C pack into the collar for When i not raining
-- Helly tech protection - fully waterproof, windproof and breathable
-- Prima loft Black 100g Synthetic insolation offre thermal properties and water repellency - a great alternative to USING Down
-- Line for confort
 - Total protection from the éléments whilst being confortable on the inside
+- Line for confort
+- The Hood C pack into the collar for When i not raining
+- Prima loft Black 100g Synthetic insolation offre thermal properties and water repellency - a great alternative to USING Down
+- Helly tech protection - fully waterproof, windproof and breathable
 
 [Visítala!!!](https://www.amazon.fr/dp/B06XGW29XJ/?tag=tolees0d-21)
