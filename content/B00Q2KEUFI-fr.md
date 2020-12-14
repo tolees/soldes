@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7 II | Appareil Photo Numériq al 47.22 % de descuento'
-date: 2020-12-13 06:22:29
+date: 2020-12-14 06:37:51
 image: 'https://m.media-amazon.com/images/I/41eXsg6mKvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -24,8 +24,8 @@ Ahora mismo tienes [Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Fo
 
 🔎:
 
-- Rapide et précis : la7ii dispose dun af hybride rapide, pour une mise au point optimale la prise de vue en rafale à 5 images/seconde vous aide à capturer linstant
 - Détails précis : capteur plein format 24 mp pour fournir des images exceptionnelles
+- Rapide et précis : la7ii dispose dun af hybride rapide, pour une mise au point optimale la prise de vue en rafale à 5 images/seconde vous aide à capturer linstant
 - Température de fonctionnement: 0 - 40°C
 - Pride de vue stable : stabilisation de limage par le capteur sur 5 axes pour les photos et les vidéos afin de compenser les tremblements de lappareil
 - Des vidéos expressives : créez des films dune grange qualité visuelle et sonore avec un flou darrière plan puissant et la sensibilité nécessaire pour donner vie à des scènes en basses lumières
