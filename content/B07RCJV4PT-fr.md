@@ -24,9 +24,9 @@ Ahora mismo tienes [Garmin Forerunner 245  Gps  Eu  Noir/ardoise](https://www.am
 
 🔎:
 
-- Marque - garmin
+- Dimensions du produit (L x l x h) - 4,2 x 4,2 x 1,2 cm
 - Garantie constructeur - 2
 - Forerunner 245, GPS, eu, black/slate
-- Dimensions du produit (L x l x h) - 4,2 x 4,2 x 1,2 cm
+- Marque - garmin
 
 [Visítala!!!](https://www.amazon.fr/dp/B07RCJV4PT/?tag=tolees0d-21)
