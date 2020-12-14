@@ -25,10 +25,10 @@ Tienes [Horizon Zero Dawn - PlayStation Hits  Version physique  En français  1 
 
 ℹ️:
 
-- Jeu RPG daction Horizon Zero Dawn sur PlayStation 4, Histoire des aventures dAloy, une jeune chasseuse, dans un monde où les humains ne sont plus lespèce dominante, Pour les gamers et les fans de jeu daction et de RPG
+- Compatible avec les consoles PS4 et PS4 Pro pour une expérience de jeu plus intense et optimisée grâce à la résolution 4k de la console
 - Des graphismes à couper le souffle avec un jeu en open-world post-apocalyptique dynamique, Incarnez une chasseuses agile armée dun tir à larc dans des combats variés face aux machines et aux tribues rivales dans un monde redevenu sauvage
 - Contenu de la livraison : 1 x Jeu Horizon Zero Dawn sur PlayStation 4, Gamme : PS Hits, Version physique, Jaquette en français, Art. : 9706212
+- Jeu RPG daction Horizon Zero Dawn sur PlayStation 4, Histoire des aventures dAloy, une jeune chasseuse, dans un monde où les humains ne sont plus lespèce dominante, Pour les gamers et les fans de jeu daction et de RPG
 - Caractéristiques : Entrée du jeu Horizon Zero Dawn dans la gamme PS Hits, Version physique, 1 Joueur, Disponible en audio et en version sous-titrée français et anglais
-- Compatible avec les consoles PS4 et PS4 Pro pour une expérience de jeu plus intense et optimisée grâce à la résolution 4k de la console
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07TBLGT8J/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Está [Philips HQ203/50 Lots de 3 flacons de nettoyage Jet Clean pour têtes de 
 
 ℹ️:
 
-- Remplacez le liquide après chaque cycle de nettoyage
-- Pack économique de 3 flacons de 300 ml pour 3 mois
-- La solution Jet Clean nettoie et lubrifie vos têtes de rasage
 - Conserve votre rasoir en parfait état pour des performances de rasage optimales
 - Laisse vos têtes de rasage parfumées pour une sensation de fraîcheur
+- La solution Jet Clean nettoie et lubrifie vos têtes de rasage
+- Pack économique de 3 flacons de 300 ml pour 3 mois
+- Remplacez le liquide après chaque cycle de nettoyage
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B005F2OUT0/?tag=tolees0d-21)

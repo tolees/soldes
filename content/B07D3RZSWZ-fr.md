@@ -25,10 +25,10 @@ Está [Zelia - 41604F - Manteau Imperméable ciré Femme Noir Medium - Taille FR
 
 ℹ️:
 
-- manteau
-- pluie
-- ciré
 - capuche
+- pluie
 - imperméable
+- ciré
+- manteau
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07D3RZSWZ/?tag=tolees0d-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [MediEvil PS4](https://www.amazon.fr/dp/B07S31PDMW/?tag=tolee
 
 🔎:
 
-- Sony PS4
-- 2 ans
 - 19MEDIE2
+- 2 ans
+- Sony PS4
 
 [Visítala!!!](https://www.amazon.fr/dp/B07S31PDMW/?tag=tolees0d-21)

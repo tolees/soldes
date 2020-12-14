@@ -25,10 +25,10 @@ Ahora mismo tienes [Uncharted 4 - PlayStation Hits  Version physique  En frança
 
 🔎:
 
-- Jeu daction et daventure Uncharted 4 sur PlayStation 4, Vivez le nouveau périple de Nathan Drake aux côtés de son frère dans leur quête au trésor du Capitaine Henry Avery, Pour les fans de jeux vidéos daction et daventure
-- Contenu de la livraison : 1 x Jeu Uncharted 4 sur PlayStation 4, Gamme : PS Hits, Version physique, Jaquette en français
-- Évolution du jeu : un gameplay plus moderne, un système de combat amélioré, des nouvelles animations le tout dans des environnements plus vastes pour plus dexploration et de stratégie
-- Compatible avec les consoles PS4 et PS4 Pro pour une expérience de jeu plus intense et optimisée grâce à la résolution 4k de la console
 - Caractéristiques : Entrée du jeu Uncharted 4 dans la gamme PS Hits, Version physique, 1 Joueur, Mode multijoueur disponible, En version audio et sous-titrée français et anglais
+- Compatible avec les consoles PS4 et PS4 Pro pour une expérience de jeu plus intense et optimisée grâce à la résolution 4k de la console
+- Contenu de la livraison : 1 x Jeu Uncharted 4 sur PlayStation 4, Gamme : PS Hits, Version physique, Jaquette en français
+- Jeu daction et daventure Uncharted 4 sur PlayStation 4, Vivez le nouveau périple de Nathan Drake aux côtés de son frère dans leur quête au trésor du Capitaine Henry Avery, Pour les fans de jeux vidéos daction et daventure
+- Évolution du jeu : un gameplay plus moderne, un système de combat amélioré, des nouvelles animations le tout dans des environnements plus vastes pour plus dexploration et de stratégie
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DXQ67LL/?tag=tolees0d-21)

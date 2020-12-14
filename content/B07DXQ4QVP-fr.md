@@ -26,9 +26,9 @@ Ahora mismo tienes [LittleBigPlanet 3 HITS](https://www.amazon.fr/dp/B07DXQ4QVP/
 🔎:
 
 - Préparez-vous à vivre une toute nouvelle expérience LittleBigPlanet, dans laquelle Sackboy fait équipe avec ses meilleurs amis dans la plus grande aventure de plate-forme jamais créée
-- 3 nouveaux personnages jouables et entièrement personnalisables : Chaque personnage possède des compétences uniques qui donnent aux joueurs de nouvelles possibilités de Gameplay notamment en co-op
-- Du fun infini : Accédez à plus de 8,5 millions de niveaux créés par les joueurs dès le lancement du jeu. Créez plus facilement que jamais grâce à de nouveaux outils de création plus puissants, simples d’accès et intuitifs
 - Un monde plus grand et riche : Explorez des environnements plus grands et percez les mystères de Bunkum grâce à une narration plus présente que dans les opus précédents
+- Du fun infini : Accédez à plus de 8,5 millions de niveaux créés par les joueurs dès le lancement du jeu. Créez plus facilement que jamais grâce à de nouveaux outils de création plus puissants, simples d’accès et intuitifs
+- 3 nouveaux personnages jouables et entièrement personnalisables : Chaque personnage possède des compétences uniques qui donnent aux joueurs de nouvelles possibilités de Gameplay notamment en co-op
 - Une expérience nouvelle génération sur PS4: Retrouvez des graphismes en full HD 1080p, créez facilement à l’aide du pavé tactile de la manette DUALSHOCK 4, partagez vos derniers exploits, modifiez et publiez vos vidéos directement depuis le jeu grâce à la touche Share
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DXQ4QVP/?tag=tolees0d-21)

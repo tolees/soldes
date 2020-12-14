@@ -25,10 +25,10 @@ Tienes [Astro Bot - PlayStation VR  Version physique  En français  1 Joueur](ht
 
 ℹ️:
 
-- Caractéristiques : Version physique du jeu créé par Japan Studio ASOBI!, Exclusivité PlayStation VR, Game Award du meilleur jeu VR 2018,1 Joueur, Disponible en version sous-titrée français et anglais
-- Contenu de la livraison : 1 x Jeu Astro Bot sur PlayStation 4, Gamme : PS VR, Jaquette en français, Version phyisque, Art. : 9762010
-- Compatibilités : consoles PS4, PS4 Pro et PSVR, Accessoires PSVR obligatoires : PlayStation Casque VR, PlayStation Camera et manette sans fil DUALSHOCK4 ou manettes PlayStation Move pour une expérience de réalité virtuelle à son maximum
 - Jeu daction et de plateforme Astro Robot sur PS VR, Menez le sauvetage de votre équipe en incarnant le capitaine Astro dans cette aventure épique, Pour les fans de 3D et daction
+- Contenu de la livraison : 1 x Jeu Astro Bot sur PlayStation 4, Gamme : PS VR, Jaquette en français, Version phyisque, Art. : 9762010
+- Caractéristiques : Version physique du jeu créé par Japan Studio ASOBI!, Exclusivité PlayStation VR, Game Award du meilleur jeu VR 2018,1 Joueur, Disponible en version sous-titrée français et anglais
+- Compatibilités : consoles PS4, PS4 Pro et PSVR, Accessoires PSVR obligatoires : PlayStation Casque VR, PlayStation Camera et manette sans fil DUALSHOCK4 ou manettes PlayStation Move pour une expérience de réalité virtuelle à son maximum
 - Histoire : découverte dun monde pleins de secrets dans la peau du capitaine Astro lors de sa mission sauvetage délicate, Exéprience VR à son maximum : vue à 360° pour ressentir des sauts spéctaculaires, Audio 3D immersif pour des appels avec léquipe
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07H2Y6RPL/?tag=tolees0d-21)

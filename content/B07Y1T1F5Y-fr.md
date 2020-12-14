@@ -25,8 +25,8 @@ Ahora mismo tienes [Uncharted : The Lost Legacy Hits pour PS4](https://www.amazo
 
 🔎:
 
+- Sony PS4
 - 19UNCLEP2
 - 2 ans
-- Sony PS4
 
 [Visítala!!!](https://www.amazon.fr/dp/B07Y1T1F5Y/?tag=tolees0d-21)

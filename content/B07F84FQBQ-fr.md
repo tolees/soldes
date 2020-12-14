@@ -25,10 +25,10 @@ Está [Firewall - PlayStation VR  Version physique  En français  Mode multijoue
 
 ℹ️:
 
+- Contenu de la livraison : 1 x Jeu Firewall sur PlayStation 4, Gamme : PS VR, Jaquette en français, Version phyisque, Art. : 9389576
 - Jeu de tir à la première personne Firewall Zero Hours sur PS VR, Rejoignez une équipe de mercenaires pour un jeu pleins de combats et de secrets, Pour les gamers fans de FPS et de jeux en ligne
+- Caractéristiques : Version physique du jeu créé par First Contact Entertainment, Exclusivité PlayStation VR, 1 Joueur, Mode multijoueur (jusqà 8 joueurs) disponible en réseau, En version sous-titrée français et anglais
 - Compatibilités : consoles PS4, PS4 Pro et PSVR, Accessoires PSVR obligatoires : PlayStation Casque VR, PlayStation Camera et manette sans fil DUALSHOCK4 ou manettes PlayStation Move pour une expérience de réalité virtuelle à son maximum, Mise à jour régulière pour de nouvelles opérations, cartes, personnages et armes
 - 3 modes de jeux principaux, 2 modes "Entrainement" : un joueur ou multijoueur coopératif public ou privé, 1 mode "Contrats" : multijoueur compétitif public ou privé
-- Contenu de la livraison : 1 x Jeu Firewall sur PlayStation 4, Gamme : PS VR, Jaquette en français, Version phyisque, Art. : 9389576
-- Caractéristiques : Version physique du jeu créé par First Contact Entertainment, Exclusivité PlayStation VR, 1 Joueur, Mode multijoueur (jusqà 8 joueurs) disponible en réseau, En version sous-titrée français et anglais
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07F84FQBQ/?tag=tolees0d-21)

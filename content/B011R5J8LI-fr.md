@@ -25,8 +25,8 @@ Tienes [Helldivers : super-earth - Ultimate Edition](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- La galaxie est à la merci des griffes de la tyrannie extraterrestre
 - Récoltez des données sur le terrain pour construire des armes encore plus grosses et plus puissantes
+- La galaxie est à la merci des griffes de la tyrannie extraterrestre
 - Plate-forme : PlayStation 4
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B011R5J8LI/?tag=tolees0d-21)

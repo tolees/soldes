@@ -25,10 +25,10 @@ Ahora mismo tienes [Nioh 2 - PlayStation 4  Édition spéciale  Version françai
 
 🔎:
 
-- Deux modes disponibles sur PS4 Pro : « fluidité » en 60 fps et 1080p et « graphisme » en 30 fps et 2160p
+- Maîtrisez les arts mortels du samouraï dans la peau dun mystérieux guerrier mi-humain, mi-yokai aux pouvoirs surnaturels, dans ce RPG daction exigeant
 - Compatible avec les consoles PS4 et PS4 Pro pour plus dexpérience de jeu en ligne
 - Nouvelles armes et système de combat amélioré, Mode multijoueur en ligne jusqu’à 3 joueurs pour une expérience de jeu encore plus palpitante et connectée
 - Contenu : 1 x Jeu Nioh 2 Édition Spéciale pour PlayStation 4, 1 x Art book, 1 x Boitier métallique steelbook, 1 x Code promotionnel pour le season pass, Jaquette en français
-- Maîtrisez les arts mortels du samouraï dans la peau dun mystérieux guerrier mi-humain, mi-yokai aux pouvoirs surnaturels, dans ce RPG daction exigeant
+- Deux modes disponibles sur PS4 Pro : « fluidité » en 60 fps et 1080p et « graphisme » en 30 fps et 2160p
 
 [Visítala!!!](https://www.amazon.fr/dp/B083XGJSRQ/?tag=tolees0d-21)
