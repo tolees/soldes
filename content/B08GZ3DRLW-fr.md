@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GAME WATCH SM BROS SYSTEM al 25.07 % de descuento'
-date: 2020-12-12 12:18:03
+date: 2020-12-14 00:55:01
 image: 'https://m.media-amazon.com/images/I/41A88oIeaqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,7 @@ Ahora mismo tienes [GAME WATCH SM BROS SYSTEM](https://www.amazon.fr/dp/B08GZ3DR
 
 [![GAME WATCH SM BROS SYSTEM](https://m.media-amazon.com/images/I/41A88oIeaqL._SL200_.jpg)](https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 - Avis aux nostalgiques: la game & watch est de retour !
 - Avis aux nostalgiques: la game & watch est de retour !

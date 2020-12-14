@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Garmin Forerunner 245  Gps  Eu  Noir/ard al 33.66 % de descuento'
-date: 2020-11-30 12:30:34
+date: 2020-12-14 01:06:17
 image: 'https://m.media-amazon.com/images/I/41qpNOjIk-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -22,7 +22,11 @@ Ahora mismo tienes [Garmin Forerunner 245  Gps  Eu  Noir/ardoise](https://www.am
 
 [![Garmin Forerunner 245  Gps  Eu  Noir/ard](https://m.media-amazon.com/images/I/41qpNOjIk-L._SL200_.jpg)](https://www.amazon.fr/dp/B07RCJV4PT/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
+- Forerunner 245, GPS, eu, black/slate
+- Dimensions du produit (L x l x h) - 4,2 x 4,2 x 1,2 cm
+- Garantie constructeur - 2
+- Marque - garmin
 
 [Visítala!!!](https://www.amazon.fr/dp/B07RCJV4PT/?tag=tolees0d-21)
