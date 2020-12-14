@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony  Ghost of Tsushima sur PS4  Jeu d action et d aventure 
 
 🔎:
 
-- Jeu daction et daventure pour PS4 réalisé par le studio Sucker Punch (inFAMOUS, Sly Raccoon) avec une histoire inspirée de faits réels
-- Contenu : 1 x Jeu Ghost of Tsushima Édition Standard sur PlayStation 4, Version physique, Jaquette en français, Bonus de précommande à télécharger : Mini bande-son numérique, Thème dynamique Jin Ghost of Tsushima, Avatar Jin, Art : 9363903
-- Jeu en Open World avec des graphismes à couper le souffle, Gameplay immersif : combat au corps à corps à larme blanche et à distance
 - Caractéristiques du jeu : 1 joueur, Version physique, Disponible en français et en anglais, Exclusivité PlayStation 4
+- Contenu : 1 x Jeu Ghost of Tsushima Édition Standard sur PlayStation 4, Version physique, Jaquette en français, Bonus de précommande à télécharger : Mini bande-son numérique, Thème dynamique Jin Ghost of Tsushima, Avatar Jin, Art : 9363903
 - Compatible avec les consoles PS4 et PS4 Pro et avec les manettes DUALSHOCK 4
+- Jeu daction et daventure pour PS4 réalisé par le studio Sucker Punch (inFAMOUS, Sly Raccoon) avec une histoire inspirée de faits réels
+- Jeu en Open World avec des graphismes à couper le souffle, Gameplay immersif : combat au corps à corps à larme blanche et à distance
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DPB7SKF/?tag=tolees0d-21)

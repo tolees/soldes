@@ -25,10 +25,10 @@ Tienes [The Last Guardian](https://www.amazon.fr/dp/B00ZQXLABO/?tag=tolees0d-21)
 
 ℹ️:
 
-- En travaillant ensemble, le jeune garçon et la mystérieuse créature Trico devront communiquer lun avec lautre pour surmonter de terribles obstacles et découvrir les secrets de leur merveilleux monde fantastique.
 - Découvrez le voyage de toute une vie dans cette histoire touchante et émouvante reposant sur lamitié et la confiance
-- Une histoire inoubliable de camaraderie, de confiance et daventures extraordinaires dans un pays étrange et mystique signée Japan Studio.
-- Plongez dans le monde de Trico dune manière complètement nouvelle et captivante
 - Une histoire inoubliable de camaraderie, de confiance et daventures extraordinaires dans un pays étrange et mystique signée Japan Studio
+- Plongez dans le monde de Trico dune manière complètement nouvelle et captivante
+- En travaillant ensemble, le jeune garçon et la mystérieuse créature Trico devront communiquer lun avec lautre pour surmonter de terribles obstacles et découvrir les secrets de leur merveilleux monde fantastique.
+- Une histoire inoubliable de camaraderie, de confiance et daventures extraordinaires dans un pays étrange et mystique signée Japan Studio.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00ZQXLABO/?tag=tolees0d-21)

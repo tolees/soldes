@@ -26,8 +26,8 @@ Ahora mismo tienes [Hidden Agenda - Gamme PlayLink](https://www.amazon.fr/dp/B07
 🔎:
 
 - Nouveau titre de la gamme PlayLink pour PlayStation4, Hidden Agenda vous plonge avec jusquà 5 de vos amis dans une enquête criminelle sordide pour essayer darrêter le célèbre tueur surnommé le Piégeur
-- Mode rivalité : De deux à six joueurs ; Lun dentre vous a reçu une « intention cachée » sur son smartphone. Arriverez-vous à remplir cette mission secrète contre vos amis, où serez-vous découvert
 - Mode histoire : De deux à six joueurs ; Menez une enquête avec jusquà 5 amis et répondez aux questions qui vous sont posées sur vos partenaire
+- Mode rivalité : De deux à six joueurs ; Lun dentre vous a reçu une « intention cachée » sur son smartphone. Arriverez-vous à remplir cette mission secrète contre vos amis, où serez-vous découvert
 - Utilisez votre smartphone ou tablette comme manette pour poser des questions, chercher des indices et recevoir des messages privés ou objectifs secrets qui vous aideront à résoudre ce mystère ou à mettre des bâtons dans les roues de vos adversaires
 
 [Visítala!!!](https://www.amazon.fr/dp/B075TJ47BM/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Tienes [Ratchet & Clank - PlayStation Hits  Version physique  En français  1 Jo
 
 ℹ️:
 
+- Un gameplay réinventé avec une nouvelle histoire inspirée du fillm danimation Ratchet & Clank, Des graphismes surréalistes qui rappellent ceux du film à voir sur grand écran
 - Compatible avec les consoles PS4 et PS4 Pro pour une expérience de jeu plus intense et optimisée, Un guide en ligne pour tout savoir sur les gadgets, les personnages et les coulisses du jeu
+- Caractéristiques : Entrée du jeu Ratchet & Clank dans la gamme PS Hits, Version physique, 1 Joueur, Version audio et sous-titrée français et anglais
 - Contenu de la livraison : 1 x Jeu Ratchet & Clank sur PlayStation 4, Gamme : PS Hits, Version physique, Jaquette en français
 - Jeu de plates-formes et daventure Ratchet et Clank sur PlayStation 4, La suite des aventures de Ratchet et de ses camarades à découvrir ou redécouvrir en famille, Pour les enfants, les parents et les fans du premier volet
-- Caractéristiques : Entrée du jeu Ratchet & Clank dans la gamme PS Hits, Version physique, 1 Joueur, Version audio et sous-titrée français et anglais
-- Un gameplay réinventé avec une nouvelle histoire inspirée du fillm danimation Ratchet & Clank, Des graphismes surréalistes qui rappellent ceux du film à voir sur grand écran
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07DXS2NPZ/?tag=tolees0d-21)

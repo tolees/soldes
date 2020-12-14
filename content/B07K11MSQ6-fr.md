@@ -26,9 +26,9 @@ Tienes [Uncharted : The Nathan Drake Collection HITS](https://www.amazon.fr/dp/B
 ℹ️:
 
 - Des séquences d’action dignes des plus grands blockbusters
-- De nouveaux trophées
-- Un gameplay amélioré
-- Les modes solo des 3 épisodes remasterisés en 1080p et 60 FPS
 - Un nouveau mode photo
+- Un gameplay amélioré
+- De nouveaux trophées
+- Les modes solo des 3 épisodes remasterisés en 1080p et 60 FPS
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07K11MSQ6/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Tienes [Shadow of the Colossus](https://www.amazon.fr/dp/B071GCR61M/?tag=tolees0
 
 ℹ️:
 
+- Shadow of the Colossus revient en 2018 sur PS4 dans une version remastered
+- Pourchassez 16 gigantesques colosses à travers des paysages merveilleux, avant de les affronter lors de combats épiques en 1 contre 1
 - Des graphismes améliorés pour un rendu optimal sur PS4
 - Équipez-vous d’un tout nouveau costume et d’un arc pour mener à bien votre combat
-- Pourchassez 16 gigantesques colosses à travers des paysages merveilleux, avant de les affronter lors de combats épiques en 1 contre 1
-- Shadow of the Colossus revient en 2018 sur PS4 dans une version remastered
 - Escaladez la bête gargantuesque pour découvrir sa faiblesse, et tenez bon pour en venir à bout grâce à votre lame
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B071GCR61M/?tag=tolees0d-21)
