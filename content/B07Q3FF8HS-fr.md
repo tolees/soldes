@@ -24,10 +24,10 @@ Tienes [Sylvanian Families - Le Village - La Grande Maison de Ville - 5365 - Mai
 
 ℹ️:
 
-- Découvrez le superbe balcon de lautre côté de la porte.
-- Stella, la grande sœur lapin chocolat vit dans cette élégante maison de ville à deux étages
-- Ce coffret vient enrichir la collection Sylvanian pour encore plus de divertissement.
-- Un magnifique lustre orne le plafond du 2ème étage.
 - Elle y invite ses amies à prendre le thé.
+- Un magnifique lustre orne le plafond du 2ème étage.
+- Stella, la grande sœur lapin chocolat vit dans cette élégante maison de ville à deux étages
+- Découvrez le superbe balcon de lautre côté de la porte.
+- Ce coffret vient enrichir la collection Sylvanian pour encore plus de divertissement.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07Q3FF8HS/?tag=tolees0d-21)
