@@ -2,7 +2,7 @@
     {{ partial "mobile_nav_toggle.html" . }}
     <div class="grid">
         <div class="row">
-          {{ range .Data.Pages }}
+          {{ range .Data.Pages.ByPublishDate.Reverse }}
           {{ if .Params.actualPrice }}
 {{ $.Scratch.Set "minimumPrice" (.Params.actualPrice | string) }}
 {{ else }}
