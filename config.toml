@@ -4,7 +4,7 @@ theme = "portfolio"
 languageCode = "es-es"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
-
+paginate = 20
 
 [sitemap]
   changefreq = "hourly"
