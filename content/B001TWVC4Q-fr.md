@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B001TWVC4Q/?tag=tolees0d-21'
 descuento: '36.88'
+average: '95.94'
 ---
 
 Ahora mismo tienes [Makita UH 5570 Taille-haies](https://www.amazon.fr/dp/B001TWVC4Q/?tag=tolees0d-21) a 95.94 EUR (original: 152.0 EUR) (36.88 %  de descuento) en el siguiente enlace!

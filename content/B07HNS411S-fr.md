@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HNS411S/?tag=tolees0d-21'
 descuento: '28.53'
+average: '70.76'
 ---
 
 Está [Design Antenne Full HDTV intérieure Amplifiée de One For All avec d Excellente Performance pour  DVB-T  TNT Numérique et Analogique TV Signaux - à 25km Range - Noire - SV9494](https://www.amazon.fr/dp/B07HNS411S/?tag=tolees0d-21) con 28.53 de descuento por 70.76 EUR (original: 99.0 EUR) en el siguiente enlace!

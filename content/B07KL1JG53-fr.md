@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KL1JG53/?tag=tolees0d-21'
 descuento: '36.12'
+average: '95.75'
 ---
 
 Está [Victrola Empire Junior Chaîne Stéréo 4-en-1 Platine Vinyle - Expresso](https://www.amazon.fr/dp/B07KL1JG53/?tag=tolees0d-21) con 36.12 de descuento por 95.75 EUR (original: 149.9 EUR) en el siguiente enlace!

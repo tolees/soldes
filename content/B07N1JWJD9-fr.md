@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N1JWJD9/?tag=tolees0d-21'
 descuento: '50.03'
+average: '74.95'
 ---
 
 Ahora mismo tienes [Clarks Un Venturehi  Botines Femme  Noir  Black Combi Black Combi   37 EU](https://www.amazon.fr/dp/B07N1JWJD9/?tag=tolees0d-21) a 74.95 EUR (original: 150.0 EUR) (50.03 %  de descuento) en el siguiente enlace!

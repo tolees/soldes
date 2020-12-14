@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07G5XDVP6/?tag=tolees0d-21'
 descuento: '43.05'
+average: '485.69'
 ---
 
 Tienes [GPR Italie Jo.56.Vic Paire terminaux homologués avec raccord moto guzzi v7 racer 2010/16 vintacone](https://www.amazon.fr/dp/B07G5XDVP6/?tag=tolees0d-21) con un 43.05 % de descuento con precio de oferta de 485.69 EUR (original: 852.78 EUR) en el siguiente enlace!

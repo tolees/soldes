@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21'
 descuento: '37.50'
+average: '6.0'
 ---
 
 Tienes [Maybelline New-York - Fond de teint Fluide Fit Me Matte & Poreless - Peaux normales à grasses - Teinte : 118 Nude - 30 ml](https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21) con un 37.50 % de descuento con precio de oferta de 6.0 EUR (original: 9.6 EUR) en el siguiente enlace!

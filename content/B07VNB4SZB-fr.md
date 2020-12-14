@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VNB4SZB/?tag=tolees0d-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Ahora mismo tienes [PowerA Boîtier de Protection/Pochette de Transport - Pokémon Pikachu pour Nintendo Switch](https://www.amazon.fr/dp/B07VNB4SZB/?tag=tolees0d-21) a 9.99 EUR (original: 19.99 EUR) (50.03 %  de descuento) en el siguiente enlace!

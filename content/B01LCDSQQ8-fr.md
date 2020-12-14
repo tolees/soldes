@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01LCDSQQ8/?tag=tolees0d-21'
 descuento: '41.90'
+average: '2.44'
 ---
 
 Tienes [Sun Classic Sel Régénérant Pour Lave-Vaisselle 4kg](https://www.amazon.fr/dp/B01LCDSQQ8/?tag=tolees0d-21) con un 41.90 % de descuento con precio de oferta de 2.44 EUR (original: 4.2 EUR) en el siguiente enlace!

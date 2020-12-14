@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21'
 descuento: '46.57'
+average: '32.05'
 ---
 
 Está [Wasteland 3 : Day One Edition pour Xbox One](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21) con 46.57 de descuento por 32.05 EUR (original: 59.99 EUR) en el siguiente enlace!

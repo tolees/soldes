@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KXYPNZK/?tag=tolees0d-21'
 descuento: '48.24'
+average: '82.79'
 ---
 
 Está [Millet – Ubic 40 – Sac à Dos de Montagne Unisexe – Équipement pour Randonnée et Trekking – Volume Moyen 40 L – Couleur : Urban Chic](https://www.amazon.fr/dp/B07KXYPNZK/?tag=tolees0d-21) con 48.24 de descuento por 82.79 EUR (original: 159.95 EUR) en el siguiente enlace!

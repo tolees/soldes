@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZHK48S3/?tag=tolees0d-21'
 descuento: '34.61'
+average: '359.0'
 ---
 
 Está [DJI RoboMaster S1  Support Éducatif  Construire Soit-Même  IA  Programmation Scratch et Python  Robotique  Multiples Modes de Combats  Conçu pour Gagner  DJIRMS1-EU](https://www.amazon.fr/dp/B07ZHK48S3/?tag=tolees0d-21) con 34.61 de descuento por 359.0 EUR (original: 549.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Y6V63HG/?tag=tolees0d-21'
 descuento: '79.87'
+average: '159.0'
 ---
 
 Está [Louis Cottier - Montre Tradition Skelette Automatique - HB3020C1BC1](https://www.amazon.fr/dp/B07Y6V63HG/?tag=tolees0d-21) con 79.87 de descuento por 159.0 EUR (original: 790.0 EUR) en el siguiente enlace!

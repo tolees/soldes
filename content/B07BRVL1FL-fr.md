@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BRVL1FL/?tag=tolees0d-21'
 descuento: '32.40'
+average: '193.88'
 ---
 
 Ahora mismo tienes [Bosch Professional Meuleuse d angle Filaire GWS 18–125 SL  1800 W  Disque Ø : 125 mm  Vitesse à Vide : 2800–12000 min  en Carton ](https://www.amazon.fr/dp/B07BRVL1FL/?tag=tolees0d-21) a 193.88 EUR (original: 286.8 EUR) (32.40 %  de descuento) en el siguiente enlace!

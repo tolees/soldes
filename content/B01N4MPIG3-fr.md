@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N4MPIG3/?tag=tolees0d-21'
 descuento: '37.65'
+average: '9.97'
 ---
 
 Ahora mismo tienes [Bracelet Magnétique Avec 15 Puissants Aimants Cadeau Homme Original Ceinture Porte Outil Tenir Petits Outils  Vis  Clous  Boulons  Mèches De Perceuse Cadeau Homme Original Bricolage Cadeaux Noel Homme](https://www.amazon.fr/dp/B01N4MPIG3/?tag=tolees0d-21) a 9.97 EUR (original: 15.99 EUR) (37.65 %  de descuento) en el siguiente enlace!

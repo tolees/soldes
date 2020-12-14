@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00JLOWUIG/?tag=tolees0d-21'
 descuento: '26.01'
+average: '372.0'
 ---
 
 Tienes [Bosch Professional Défonceuse Filaire GOF 1250 CE  1250 W  régime à vide: 10 000-24000 tr/min  Ø de l outil: 370x170x270mm  pack d accessoires  coffret ](https://www.amazon.fr/dp/B00JLOWUIG/?tag=tolees0d-21) con un 26.01 % de descuento con precio de oferta de 372.0 EUR (original: 502.8 EUR) en el siguiente enlace!

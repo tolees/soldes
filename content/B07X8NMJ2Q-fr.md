@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07X8NMJ2Q/?tag=tolees0d-21'
 descuento: '36.76'
+average: '30.99'
 ---
 
 Ahora mismo tienes [GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  8 Heures de Lecture  Blanc  Dot Non Inclus ](https://www.amazon.fr/dp/B07X8NMJ2Q/?tag=tolees0d-21) a 30.99 EUR (original: 49.0 EUR) (36.76 %  de descuento) en el siguiente enlace!

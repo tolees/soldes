@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21'
 descuento: '41.44'
+average: '46.85'
 ---
 
 Está [Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - X-Large  FR: 6 ](https://www.amazon.fr/dp/B008E8SGSS/?tag=tolees0d-21) con 41.44 de descuento por 46.85 EUR (original: 80.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21'
 descuento: '49.20'
+average: '6.99'
 ---
 
 Ahora mismo tienes [Snow](https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21) a 6.99 EUR (original: 13.76 EUR) (49.20 %  de descuento) en el siguiente enlace!

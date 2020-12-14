@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00A35X6PI/?tag=tolees0d-21'
 descuento: '29.29'
+average: '600.37'
 ---
 
 Ahora mismo tienes [Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma](https://www.amazon.fr/dp/B00A35X6PI/?tag=tolees0d-21) a 600.37 EUR (original: 849.0 EUR) (29.29 %  de descuento) en el siguiente enlace!

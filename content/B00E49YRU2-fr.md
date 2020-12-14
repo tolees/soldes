@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00E49YRU2/?tag=tolees0d-21'
 descuento: '40.63'
+average: '130.46'
 ---
 
 Tienes [Bosch L5013 Batterie décharge lente 12V  90Ah  800A - Loisirs  Camping-Cars  Bateaux  …](https://www.amazon.fr/dp/B00E49YRU2/?tag=tolees0d-21) con un 40.63 % de descuento con precio de oferta de 130.46 EUR (original: 219.75 EUR) en el siguiente enlace!

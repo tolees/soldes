@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06VXNWDQF/?tag=tolees0d-21'
 descuento: '36.26'
+average: '89.23'
 ---
 
 Tienes [Furreal Friends - Tyler Le Tigre Joueur - Peluche Interactive](https://www.amazon.fr/dp/B06VXNWDQF/?tag=tolees0d-21) con un 36.26 % de descuento con precio de oferta de 89.23 EUR (original: 139.99 EUR) en el siguiente enlace!

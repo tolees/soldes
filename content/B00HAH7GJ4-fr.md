@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21'
 descuento: '41.76'
+average: '8.73'
 ---
 
 Ahora mismo tienes [Slave to The Sword](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21) a 8.73 EUR (original: 14.99 EUR) (41.76 %  de descuento) en el siguiente enlace!

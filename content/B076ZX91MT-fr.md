@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B076ZX91MT/?tag=tolees0d-21'
 descuento: '62.35'
+average: '67.77'
 ---
 
 Ahora mismo tienes [Shark Casque jet ATV-DRAK blanc Taille M](https://www.amazon.fr/dp/B076ZX91MT/?tag=tolees0d-21) a 67.77 EUR (original: 179.99 EUR) (62.35 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QD1GW9N/?tag=tolees0d-21'
 descuento: '37.35'
+average: '62.65'
 ---
 
 Ahora mismo tienes [Nike WMNS AIR Max Motion 2  Chaussures de Running Femme  Multicolore  Pumice/MTLC Silver-Platinum Tint 203   36 EU](https://www.amazon.fr/dp/B07QD1GW9N/?tag=tolees0d-21) a 62.65 EUR (original: 100.0 EUR) (37.35 %  de descuento) en el siguiente enlace!

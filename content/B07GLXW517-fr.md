@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GLXW517/?tag=tolees0d-21'
 descuento: '44.04'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Moulinex moule à gâteaux XA609001 pour les multicuiseurs Cookeo Gourmet Connect USB](https://www.amazon.fr/dp/B07GLXW517/?tag=tolees0d-21) a 13.99 EUR (original: 25.0 EUR) (44.04 %  de descuento) en el siguiente enlace!

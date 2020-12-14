@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21'
 descuento: '25.03'
+average: '132.285'
 ---
 
 Tienes [Roccat Vulcan 122 - Clavier de Jeu Blanc  GAMING mécanique RGB  Rétro-Éclarage LED Aimo Multicolore touche par touche  Switchs Titan  Conception Durable  Plaque Supérieure en aluminium ](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21) con un 25.03 % de descuento con precio de oferta de 119.95 EUR (original: 159.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0080CJYL6/?tag=tolees0d-21'
 descuento: '30.39'
+average: '54.99'
 ---
 
 Ahora mismo tienes [Gre CIPROV611 - Couverture d’hiver pour piscine ovale ou en forme de huit   Noir  610 x 375 cm](https://www.amazon.fr/dp/B0080CJYL6/?tag=tolees0d-21) a 54.99 EUR (original: 79.0 EUR) (30.39 %  de descuento) en el siguiente enlace!

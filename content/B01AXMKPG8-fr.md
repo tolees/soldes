@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01AXMKPG8/?tag=tolees0d-21'
 descuento: '40.51'
+average: '36.637499999999996'
 ---
 
 Tienes [Philips QP6510/30 OneBlade Pro avec sabot réglable 12 hauteurs de coupe](https://www.amazon.fr/dp/B01AXMKPG8/?tag=tolees0d-21) con un 40.51 % de descuento con precio de oferta de 35.69 EUR (original: 59.99 EUR) en el siguiente enlace!

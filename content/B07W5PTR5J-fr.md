@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W5PTR5J/?tag=tolees0d-21'
 descuento: '26.16'
+average: '47.99'
 ---
 
 Ahora mismo tienes [LEGO DUPLO Town Ensemble Maison modulable 3in1  Maison de poupées pour filles et garçons de 2 ans et plus avec personnages et animaux pour tout-petits  117 pièces  10929](https://www.amazon.fr/dp/B07W5PTR5J/?tag=tolees0d-21) a 47.99 EUR (original: 64.99 EUR) (26.16 %  de descuento) en el siguiente enlace!

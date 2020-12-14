@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01LORO7Z6/?tag=tolees0d-21'
 descuento: '37.52'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Carte Mémoire SDHC Sandisk Extreme 32 Go jusqu à 90 Mo/s  Classe 10  U3  V30](https://www.amazon.fr/dp/B01LORO7Z6/?tag=tolees0d-21) a 9.99 EUR (original: 15.99 EUR) (37.52 %  de descuento) en el siguiente enlace!

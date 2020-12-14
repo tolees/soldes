@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FSRF6ZK/?tag=tolees0d-21'
 descuento: '30.00'
+average: '69.99'
 ---
 
 Está [Philips HD6564/61 Machine à café à Dosettes SENSEO Viva Café Duo Select Noir Scintillant](https://www.amazon.fr/dp/B07FSRF6ZK/?tag=tolees0d-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07P8KXX4B/?tag=tolees0d-21'
 descuento: '25.00'
+average: '44.99'
 ---
 
 Está [Silicon Power 256GB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3  100/1  100 Mo/s SSD](https://www.amazon.fr/dp/B07P8KXX4B/?tag=tolees0d-21) con 25.00 de descuento por 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!

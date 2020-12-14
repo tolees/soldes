@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07S48VF9D/?tag=tolees0d-21'
 descuento: '49.36'
+average: '77.93'
 ---
 
 Está [Love MoschinoJc4027pp1afemmeSacs bandoulièreNoir  Nero 6x17x22 centimeters  W x H x L ](https://www.amazon.fr/dp/B07S48VF9D/?tag=tolees0d-21) con 49.36 de descuento por 77.93 EUR (original: 153.9 EUR) en el siguiente enlace!

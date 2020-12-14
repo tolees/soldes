@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W8QXLCK/?tag=tolees0d-21'
 descuento: '31.07'
+average: '254.99'
 ---
 
 Tienes [Bose Portable Smart Speaker - avec Contrôle Vocal Alexa Intégré  Noir](https://www.amazon.fr/dp/B07W8QXLCK/?tag=tolees0d-21) con un 31.07 % de descuento con precio de oferta de 254.99 EUR (original: 369.95 EUR) en el siguiente enlace!

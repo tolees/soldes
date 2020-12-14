@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N9MQ2QL/?tag=tolees0d-21'
 descuento: '37.28'
+average: '59.58'
 ---
 
 Tienes [Samsonite Sac à dos loisir  116873/1041  Jaune foncé  Jaune  - 116873/2251](https://www.amazon.fr/dp/B07N9MQ2QL/?tag=tolees0d-21) con un 37.28 % de descuento con precio de oferta de 59.58 EUR (original: 95.0 EUR) en el siguiente enlace!

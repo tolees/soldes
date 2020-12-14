@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07K6ZV81K/?tag=tolees0d-21'
 descuento: '39.11'
+average: '66.98'
 ---
 
 Está [Levi s 501 Coupe Originale - Jean - Homme - Bleu  Snoot 2744  - 34W / 34L](https://www.amazon.fr/dp/B07K6ZV81K/?tag=tolees0d-21) con 39.11 de descuento por 66.98 EUR (original: 110.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B088RFGD7F/?tag=tolees0d-21'
 descuento: '28.58'
+average: '49.99'
 ---
 
 Ahora mismo tienes [BESTBOMG Tondeuse Cheveux Hommes Professionnelle Tondeuse Barbe Cheveux Sans Fil Tondeuse Cheveux Kit 5500rpm 8 protections d accessoires colorées 2 Vitesses Ajustées  pour les Enfants et la Famille](https://www.amazon.fr/dp/B088RFGD7F/?tag=tolees0d-21) a 49.99 EUR (original: 69.99 EUR) (28.58 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B007FOH7UK/?tag=tolees0d-21'
 descuento: '44.47'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Secret World [Blu-ray]](https://www.amazon.fr/dp/B007FOH7UK/?tag=tolees0d-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!

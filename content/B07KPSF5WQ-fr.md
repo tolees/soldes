@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KPSF5WQ/?tag=tolees0d-21'
 descuento: '39.16'
+average: '114.98'
 ---
 
 Tienes [Replay Anbass Jean Slim  Bleu  Dark Blue 7   W31/L30  Taille Fabricant: 31  Homme](https://www.amazon.fr/dp/B07KPSF5WQ/?tag=tolees0d-21) con un 39.16 % de descuento con precio de oferta de 114.98 EUR (original: 189.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00Q4MYZW2/?tag=tolees0d-21'
 descuento: '33.44'
+average: '33.7272'
 ---
 
 Tienes [Lacoste - TH7618 - T-Shirt - Homme - Noir  Noir 031  - FR:4  M ](https://www.amazon.fr/dp/B00Q4MYZW2/?tag=tolees0d-21) con un 33.44 % de descuento con precio de oferta de 29.95 EUR (original: 45.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Q9SQZYG/?tag=tolees0d-21'
 descuento: '49.17'
+average: '253.65'
 ---
 
 Está [Braun Series 9 9299cc Rasoir Électrique Homme  Station Clean & Charge Et Pochette De Voyage – Édition Cadeau Or](https://www.amazon.fr/dp/B07Q9SQZYG/?tag=tolees0d-21) con 49.17 de descuento por 253.65 EUR (original: 499.0 EUR) en el siguiente enlace!

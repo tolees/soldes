@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08BJ1DPKR/?tag=tolees0d-21'
 descuento: '63.87'
+average: '289.1033333333334'
 ---
 
 Tienes [Vidéoprojecteur WiFi Full HD 1080P  WiMiUS 7200 Lumens Projecteur WiFi Full HD 1080P Rétroprojecteur Supporte 4K Audio Dolby Projecteur LED Home Cinéma pour Smartphone TV Stick PC PS4 HDMI USB VGA AV](https://www.amazon.fr/dp/B08BJ1DPKR/?tag=tolees0d-21) con un 63.87 % de descuento con precio de oferta de 288.66 EUR (original: 799.0 EUR) en el siguiente enlace!

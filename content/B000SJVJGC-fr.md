@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000SJVJGC/?tag=tolees0d-21'
 descuento: '27.03'
+average: '26.99'
 ---
 
 Tienes [GYMNIC - 70.12 - Cheval Gonflable - Rody en Jaune](https://www.amazon.fr/dp/B000SJVJGC/?tag=tolees0d-21) con un 27.03 % de descuento con precio de oferta de 26.99 EUR (original: 36.99 EUR) en el siguiente enlace!

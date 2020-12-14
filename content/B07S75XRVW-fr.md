@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07S75XRVW/?tag=tolees0d-21'
 descuento: '29.98'
+average: '30.1'
 ---
 
 Está [Crocs Classic Vacay Vibes Clog  Sabots Mixte Adulte  Orange  Cantaloupe 801   38/39 EU](https://www.amazon.fr/dp/B07S75XRVW/?tag=tolees0d-21) con 29.98 de descuento por 30.1 EUR (original: 42.99 EUR) en el siguiente enlace!

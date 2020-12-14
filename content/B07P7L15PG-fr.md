@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07P7L15PG/?tag=tolees0d-21'
 descuento: '25.94'
+average: '19.99'
 ---
 
 Ahora mismo tienes [Dreamon Coffrets de Bijoux et Cosmétiques pour Enfants Filles Mallette Coiffure Jouet Cadeau pour Princesse Rosa](https://www.amazon.fr/dp/B07P7L15PG/?tag=tolees0d-21) a 19.99 EUR (original: 26.99 EUR) (25.94 %  de descuento) en el siguiente enlace!

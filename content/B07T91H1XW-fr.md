@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21'
 descuento: '32.90'
+average: '2.06'
 ---
 
 Tienes [CASINO Thon Entier à l Huile de Tournesol](https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21) con un 32.90 % de descuento con precio de oferta de 2.06 EUR (original: 3.07 EUR) en el siguiente enlace!

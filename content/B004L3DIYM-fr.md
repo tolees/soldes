@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004L3DIYM/?tag=tolees0d-21'
 descuento: '30.49'
+average: '145.98'
 ---
 
 Está [Timberland Rugged 6 inch Plain Toe Waterproof  Bottes Homme Marron  Medium Brown  45 EU](https://www.amazon.fr/dp/B004L3DIYM/?tag=tolees0d-21) con 30.49 de descuento por 145.98 EUR (original: 210.0 EUR) en el siguiente enlace!

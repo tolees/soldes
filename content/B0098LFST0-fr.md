@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0098LFST0/?tag=tolees0d-21'
 descuento: '26.32'
+average: '104.0'
 ---
 
 Ahora mismo tienes [Sharp R-742WW Four micro-ondes  Blanc](https://www.amazon.fr/dp/B0098LFST0/?tag=tolees0d-21) a 104.0 EUR (original: 141.15 EUR) (26.32 %  de descuento) en el siguiente enlace!

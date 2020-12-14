@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004KZLA8M/?tag=tolees0d-21'
 descuento: '29.39'
+average: '6.99'
 ---
 
 Tienes [Puressentiel - Respiratoire - Huiles Essentielles pour Diffusion - Diffuse Respi - 100% pures et naturelles - Aide à respirer librement - 30 ml](https://www.amazon.fr/dp/B004KZLA8M/?tag=tolees0d-21) con un 29.39 % de descuento con precio de oferta de 6.99 EUR (original: 9.9 EUR) en el siguiente enlace!

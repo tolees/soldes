@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QCPP9ZN/?tag=tolees0d-21'
 descuento: '29.85'
+average: '20.99'
 ---
 
 Está [Blocs de Construction Magnétiques – Cadeaux de pour Les Enfants – Blocs de constructions aimantés - Jeux pour garçons et Filles - Créatif et éducatif pour Enfants de 2  3  4  5  6  7 Ans](https://www.amazon.fr/dp/B07QCPP9ZN/?tag=tolees0d-21) con 29.85 de descuento por 20.99 EUR (original: 29.92 EUR) en el siguiente enlace!

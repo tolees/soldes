@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08B5Z8T2J/?tag=tolees0d-21'
 descuento: '32.27'
+average: '20.99'
 ---
 
 Ahora mismo tienes [ProCase Coque à Rabat + 2 Film d Écran pour Nintendo Switch Lite en 2019  Étui Antichoc de Protection Flip Cover  Battant Détachable  Verre Trempé Installer Facile  Minimaliste et Assez Sobre-Corail](https://www.amazon.fr/dp/B08B5Z8T2J/?tag=tolees0d-21) a 20.99 EUR (original: 30.99 EUR) (32.27 %  de descuento) en el siguiente enlace!

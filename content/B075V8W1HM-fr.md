@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075V8W1HM/?tag=tolees0d-21'
 descuento: '43.08'
+average: '56.35'
 ---
 
 Tienes [Trust 22055 GXT 383 DION 7.1 BASS Vibration Kits Oreillette](https://www.amazon.fr/dp/B075V8W1HM/?tag=tolees0d-21) con un 43.08 % de descuento con precio de oferta de 56.35 EUR (original: 98.99 EUR) en el siguiente enlace!

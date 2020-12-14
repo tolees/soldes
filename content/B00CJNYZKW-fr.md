@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00CJNYZKW/?tag=tolees0d-21'
 descuento: '73.96'
+average: '4.5'
 ---
 
 Tienes [Purflux L358A filtre à huile](https://www.amazon.fr/dp/B00CJNYZKW/?tag=tolees0d-21) con un 73.96 % de descuento con precio de oferta de 4.5 EUR (original: 17.28 EUR) en el siguiente enlace!

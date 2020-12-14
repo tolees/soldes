@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07P8V9N1M/?tag=tolees0d-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Está [My time at Portia - Nintendo Switch](https://www.amazon.fr/dp/B07P8V9N1M/?tag=tolees0d-21) con 50.01 de descuento por 19.99 EUR (original: 39.99 EUR) en el siguiente enlace!

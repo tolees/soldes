@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NPZ7CWR/?tag=tolees0d-21'
 descuento: '35.95'
+average: '54.44'
 ---
 
 Ahora mismo tienes [Hurley M Advantage Plus 1/1 Jacket Combinaisons De Surf Homme  Blue Force  FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B07NPZ7CWR/?tag=tolees0d-21) a 54.44 EUR (original: 85.0 EUR) (35.95 %  de descuento) en el siguiente enlace!

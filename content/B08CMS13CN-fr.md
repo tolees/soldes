@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CMS13CN/?tag=tolees0d-21'
 descuento: '36.63'
+average: '44.99'
 ---
 
 Tienes [Disque Dur Externe 1to  USB-C Disque Dur Externe pour PC  Mac  Xbox One  Xbox 360 1To Rouge ](https://www.amazon.fr/dp/B08CMS13CN/?tag=tolees0d-21) con un 36.63 % de descuento con precio de oferta de 44.99 EUR (original: 71.0 EUR) en el siguiente enlace!

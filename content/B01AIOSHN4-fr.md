@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01AIOSHN4/?tag=tolees0d-21'
 descuento: '49.76'
+average: '82.9'
 ---
 
 Ahora mismo tienes [Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10 x 18 x 24 5 cm](https://www.amazon.fr/dp/B01AIOSHN4/?tag=tolees0d-21) a 82.9 EUR (original: 165.0 EUR) (49.76 %  de descuento) en el siguiente enlace!

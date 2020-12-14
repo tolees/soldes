@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00KJ8FB1Q/?tag=tolees0d-21'
 descuento: '44.34'
+average: '24.99'
 ---
 
 Tienes [OMRON M2 Basic Tensiomètre Bras Électronique  détection de pulsations cardiaques irrégulières  technologie IntelliSense pour une mesure précise et confortable](https://www.amazon.fr/dp/B00KJ8FB1Q/?tag=tolees0d-21) con un 44.34 % de descuento con precio de oferta de 24.99 EUR (original: 44.9 EUR) en el siguiente enlace!

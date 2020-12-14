@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07R2XRVC8/?tag=tolees0d-21'
 descuento: '46.15'
+average: '43.08'
 ---
 
 Ahora mismo tienes [Under Armour Forefront Rain Veste Homme  Bleu  XL](https://www.amazon.fr/dp/B07R2XRVC8/?tag=tolees0d-21) a 43.08 EUR (original: 80.0 EUR) (46.15 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00EBCT306/?tag=tolees0d-21'
 descuento: '36.85'
+average: '172.6'
 ---
 
 Tienes [Makita Perceuse à percussion Ø 13 Mm 1010 W HP2071FJ](https://www.amazon.fr/dp/B00EBCT306/?tag=tolees0d-21) con un 36.85 % de descuento con precio de oferta de 172.6 EUR (original: 273.32 EUR) en el siguiente enlace!

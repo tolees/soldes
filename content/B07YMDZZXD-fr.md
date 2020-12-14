@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21'
 descuento: '35.24'
+average: '12.99'
 ---
 
 Está [Joker](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21) con 35.24 de descuento por 12.99 EUR (original: 20.06 EUR) en el siguiente enlace!

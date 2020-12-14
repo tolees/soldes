@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DBXTX2P/?tag=tolees0d-21'
 descuento: '36.98'
+average: '58.85750000000001'
 ---
 
 Tienes [PUMA Cali Wn s   Sneakers Basses femme - Blanc  Puma White-Puma Black 04   38 EU](https://www.amazon.fr/dp/B07DBXTX2P/?tag=tolees0d-21) con un 36.98 % de descuento con precio de oferta de 62.99 EUR (original: 99.95 EUR) en el siguiente enlace!

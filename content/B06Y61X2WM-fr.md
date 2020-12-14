@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06Y61X2WM/?tag=tolees0d-21'
 descuento: '26.32'
+average: '70.22'
 ---
 
 Tienes [Vladimir Ashkenazy: The Complete Piano Concerto Recordings](https://www.amazon.fr/dp/B06Y61X2WM/?tag=tolees0d-21) con un 26.32 % de descuento con precio de oferta de 70.22 EUR (original: 95.3 EUR) en el siguiente enlace!

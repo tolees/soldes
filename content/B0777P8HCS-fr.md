@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0777P8HCS/?tag=tolees0d-21'
 descuento: '64.00'
+average: '71.99'
 ---
 
 Ahora mismo tienes [S72 / Sport Digital Camera](https://www.amazon.fr/dp/B0777P8HCS/?tag=tolees0d-21) a 71.99 EUR (original: 200.0 EUR) (64.00 %  de descuento) en el siguiente enlace!

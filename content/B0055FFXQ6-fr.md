@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0055FFXQ6/?tag=tolees0d-21'
 descuento: '31.54'
+average: '44.49'
 ---
 
 Está [New Super Mario Bros. U Deluxe](https://www.amazon.fr/dp/B0055FFXQ6/?tag=tolees0d-21) con 31.54 de descuento por 44.49 EUR (original: 64.99 EUR) en el siguiente enlace!

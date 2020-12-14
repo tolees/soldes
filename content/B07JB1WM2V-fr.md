@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JB1WM2V/?tag=tolees0d-21'
 descuento: '54.54'
+average: '26.32'
 ---
 
 Está [find. Suede Kitten Heel Escarpins  Rouge Red   40 EU](https://www.amazon.fr/dp/B07JB1WM2V/?tag=tolees0d-21) con 54.54 de descuento por 26.32 EUR (original: 57.9 EUR) en el siguiente enlace!

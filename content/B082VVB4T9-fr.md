@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082VVB4T9/?tag=tolees0d-21'
 descuento: '43.46'
+average: '4.41'
 ---
 
 Ahora mismo tienes [Mixa BIO - La Crème Visage des Peaux Sensibles - 100 ml](https://www.amazon.fr/dp/B082VVB4T9/?tag=tolees0d-21) a 4.41 EUR (original: 7.8 EUR) (43.46 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08F7G3YW4/?tag=tolees0d-21'
 descuento: '58.99'
+average: '15.99'
 ---
 
 Está [Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3 Dual USB Ports QC3.0 et 5V/1A Chargeur Voiture Appel Main Libre Affichage à LED Clé USB pour iOS et Android](https://www.amazon.fr/dp/B08F7G3YW4/?tag=tolees0d-21) con 58.99 de descuento por 15.99 EUR (original: 38.99 EUR) en el siguiente enlace!

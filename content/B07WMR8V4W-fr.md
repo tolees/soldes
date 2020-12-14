@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07WMR8V4W/?tag=tolees0d-21'
 descuento: '49.91'
+average: '25.04'
 ---
 
 Está [Yageshark Pantalon de Jogging Homme Coton Mode Training Pantalon de Survêtement Taille Élastique Casual Activewear Pantalons  Noir Large ](https://www.amazon.fr/dp/B07WMR8V4W/?tag=tolees0d-21) con 49.91 de descuento por 25.04 EUR (original: 49.99 EUR) en el siguiente enlace!

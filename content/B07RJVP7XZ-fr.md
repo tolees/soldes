@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21'
 descuento: '49.10'
+average: '55.99'
 ---
 
 Ahora mismo tienes [Etekcity Balance Wifi  Balance Connectée Bluetooth Rechargeable USB  Analyse de la Composition Corporelle  Plate-forme Extra Large 37 5x30cm  Verre Conducteur ITO  180kg](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21) a 55.99 EUR (original: 109.99 EUR) (49.10 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01NA9J2FK/?tag=tolees0d-21'
 descuento: '25.94'
+average: '19.99'
 ---
 
 Tienes [Mâche-Mots - Jeu de societe Mâche-Mots Enfants Contre Parents - Jeu drole de rapidité - Version française](https://www.amazon.fr/dp/B01NA9J2FK/?tag=tolees0d-21) con un 25.94 % de descuento con precio de oferta de 19.99 EUR (original: 26.99 EUR) en el siguiente enlace!

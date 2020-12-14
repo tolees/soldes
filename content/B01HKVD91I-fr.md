@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01HKVD91I/?tag=tolees0d-21'
 descuento: '48.78'
+average: '15.99'
 ---
 
 Ahora mismo tienes [Trixie Scratching Post for Wall Mounting  80 x 11 cm  Grey](https://www.amazon.fr/dp/B01HKVD91I/?tag=tolees0d-21) a 15.99 EUR (original: 31.22 EUR) (48.78 %  de descuento) en el siguiente enlace!

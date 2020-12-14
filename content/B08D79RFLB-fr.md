@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08D79RFLB/?tag=tolees0d-21'
 descuento: '36.24'
+average: '43.99'
 ---
 
 Tienes [ARCHEER Enceinte PC  Haut-parleurs PC RGB 10W Multimédia 2.0 Système de Stéréo Volume Contrôle avec LED Lumineux Barre de Son pour TV PC MP3 MP4 Karaoké Ordinateur Smartphone Tablette](https://www.amazon.fr/dp/B08D79RFLB/?tag=tolees0d-21) con un 36.24 % de descuento con precio de oferta de 43.99 EUR (original: 68.99 EUR) en el siguiente enlace!

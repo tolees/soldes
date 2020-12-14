@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0084EILJG/?tag=tolees0d-21'
 descuento: '53.64'
+average: '31.99'
 ---
 
 Tienes [Water2buy Filtre à Eau Universel à 5 étapes pour Osmose Inverse Blanc](https://www.amazon.fr/dp/B0084EILJG/?tag=tolees0d-21) con un 53.64 % de descuento con precio de oferta de 31.99 EUR (original: 69.0 EUR) en el siguiente enlace!

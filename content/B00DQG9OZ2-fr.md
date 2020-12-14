@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00DQG9OZ2/?tag=tolees0d-21'
 descuento: '34.03'
+average: '7.593333333333334'
 ---
 
 Ahora mismo tienes [Clé USB 3.0 SanDisk Ultra 32 Go avec une vitesse de lecture allant jusqu à 130 Mo/s](https://www.amazon.fr/dp/B00DQG9OZ2/?tag=tolees0d-21) a 7.25 EUR (original: 10.99 EUR) (34.03 %  de descuento) en el siguiente enlace!

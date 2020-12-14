@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XDC48CM/?tag=tolees0d-21'
 descuento: '58.46'
+average: '5.4'
 ---
 
 Tienes [BIC Kids Kid Couleur Feutres de Coloriage à Pointe Moyenne - Couleurs Assorties  Etui Carton de 36](https://www.amazon.fr/dp/B06XDC48CM/?tag=tolees0d-21) con un 58.46 % de descuento con precio de oferta de 5.4 EUR (original: 13.0 EUR) en el siguiente enlace!

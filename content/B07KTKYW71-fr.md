@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KTKYW71/?tag=tolees0d-21'
 descuento: '28.83'
+average: '192.16'
 ---
 
 Tienes [Cressi Homme Apnea Complete 7 mm Freediving/Spearfishing Wetsuits Premium Soft Neoprene  Camouflage  L/4](https://www.amazon.fr/dp/B07KTKYW71/?tag=tolees0d-21) con un 28.83 % de descuento con precio de oferta de 192.16 EUR (original: 269.99 EUR) en el siguiente enlace!

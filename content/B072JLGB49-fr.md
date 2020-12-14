@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B072JLGB49/?tag=tolees0d-21'
 descuento: '50.02'
+average: '13.49'
 ---
 
 Está [Crocs Classic Clog Kids  Sabots mixte enfant - Vert  Grass Green   29/30 EU](https://www.amazon.fr/dp/B072JLGB49/?tag=tolees0d-21) con 50.02 de descuento por 13.49 EUR (original: 26.99 EUR) en el siguiente enlace!

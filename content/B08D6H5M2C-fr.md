@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08D6H5M2C/?tag=tolees0d-21'
 descuento: '30.45'
+average: '47.99'
 ---
 
 Tienes [Disque Dur Externe 1 to  Disque Dur Externe Portable pour PC  Mac  MacBook  Xbox One  1To Bleu ](https://www.amazon.fr/dp/B08D6H5M2C/?tag=tolees0d-21) con un 30.45 % de descuento con precio de oferta de 47.99 EUR (original: 69.0 EUR) en el siguiente enlace!

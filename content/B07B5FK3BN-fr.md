@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07B5FK3BN/?tag=tolees0d-21'
 descuento: '53.51'
+average: '92.99'
 ---
 
 Tienes [Oral-B Combiné Dentaire : Oral-B PRO 2000 + Hydropulseur Oxyjet](https://www.amazon.fr/dp/B07B5FK3BN/?tag=tolees0d-21) con un 53.51 % de descuento con precio de oferta de 92.99 EUR (original: 200.0 EUR) en el siguiente enlace!

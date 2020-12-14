@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07H8HV6VY/?tag=tolees0d-21'
 descuento: '50.04'
+average: '59.95'
 ---
 
 Tienes [Nike Air Zoom Wildhorse 5  Chaussures de Running Homme  Noir  Black/Barely Grey/Thunder Grey/Wolf Grey 001   47 EU](https://www.amazon.fr/dp/B07H8HV6VY/?tag=tolees0d-21) con un 50.04 % de descuento con precio de oferta de 59.95 EUR (original: 120.0 EUR) en el siguiente enlace!

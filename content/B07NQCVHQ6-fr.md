@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NQCVHQ6/?tag=tolees0d-21'
 descuento: '50.01'
+average: '56.41857142857143'
 ---
 
 Está [Echo Dot  3ème génération   Enceinte connectée avec horloge et Alexa  Tissu sable](https://www.amazon.fr/dp/B07NQCVHQ6/?tag=tolees0d-21) con 50.01 de descuento por 34.99 EUR (original: 69.99 EUR) en el siguiente enlace!

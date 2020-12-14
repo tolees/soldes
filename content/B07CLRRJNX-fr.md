@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CLRRJNX/?tag=tolees0d-21'
 descuento: '59.19'
+average: '53.05'
 ---
 
 Está [ECCO Soft 7 Ladies  Botines Femme   Black Stone Metallic 51380   40 EU](https://www.amazon.fr/dp/B07CLRRJNX/?tag=tolees0d-21) con 59.19 de descuento por 53.05 EUR (original: 130.0 EUR) en el siguiente enlace!

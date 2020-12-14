@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NX4XKL8/?tag=tolees0d-21'
 descuento: '46.66'
+average: '48.0'
 ---
 
 Está [BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2 Batteries - 26 Nm - 40 accessoires - Livrée en boite à outil  10.8V](https://www.amazon.fr/dp/B07NX4XKL8/?tag=tolees0d-21) con 46.66 de descuento por 48.0 EUR (original: 89.99 EUR) en el siguiente enlace!

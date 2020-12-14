@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07X3RS4T3/?tag=tolees0d-21'
 descuento: '25.00'
+average: '96.74'
 ---
 
 Ahora mismo tienes [Proscenic T21 Friteuse à air Grand écran LED Digital et minuterie et Maintien au Chaud sans Huile  Facile à Utiliser  5.5 liters](https://www.amazon.fr/dp/B07X3RS4T3/?tag=tolees0d-21) a 96.74 EUR (original: 128.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

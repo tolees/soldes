@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000FVE3A2/?tag=tolees0d-21'
 descuento: '64.67'
+average: '133.86666666666667'
 ---
 
 Ahora mismo tienes [Invicta 3044 Pro Diver Montre Homme acier inoxydable Automatique Cadran noir](https://www.amazon.fr/dp/B000FVE3A2/?tag=tolees0d-21) a 123.3 EUR (original: 349.0 EUR) (64.67 %  de descuento) en el siguiente enlace!

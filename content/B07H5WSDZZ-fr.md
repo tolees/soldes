@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07H5WSDZZ/?tag=tolees0d-21'
 descuento: '27.01'
+average: '145.95'
 ---
 
 Tienes [Sac à dos Thule Crossover 2 20L Noir  ordinateur 13 - 14   C2BP-114 BLACK](https://www.amazon.fr/dp/B07H5WSDZZ/?tag=tolees0d-21) con un 27.01 % de descuento con precio de oferta de 145.95 EUR (original: 199.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06X6JCBBR/?tag=tolees0d-21'
 descuento: '50.01'
+average: '49.99'
 ---
 
 Tienes [Ultimates Ears Wonderboom enceinte portable Bluetooth  Son étonnamment puissant  Etanche  Connectez deux enceintes pour un son plus puissant  Batterie 10h - Noire](https://www.amazon.fr/dp/B06X6JCBBR/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

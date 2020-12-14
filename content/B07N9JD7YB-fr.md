@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N9JD7YB/?tag=tolees0d-21'
 descuento: '57.46'
+average: '71.89'
 ---
 
 Ahora mismo tienes [Samsonite Valise  115776/1408  gris  Gris  - 115776/1408](https://www.amazon.fr/dp/B07N9JD7YB/?tag=tolees0d-21) a 71.89 EUR (original: 169.0 EUR) (57.46 %  de descuento) en el siguiente enlace!

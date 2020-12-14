@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07X48WBHN/?tag=tolees0d-21'
 descuento: '25.00'
+average: '111.75'
 ---
 
 Está [Ledger Backup Pack - Nano S + Nano X - Portefeuille de Cryptomonnaies](https://www.amazon.fr/dp/B07X48WBHN/?tag=tolees0d-21) con 25.00 de descuento por 111.75 EUR (original: 149.0 EUR) en el siguiente enlace!

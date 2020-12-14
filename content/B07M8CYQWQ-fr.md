@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07M8CYQWQ/?tag=tolees0d-21'
 descuento: '55.71'
+average: '189.99'
 ---
 
 Tienes [Braun Silk·Expert Pro 5 PL5014 Épilateur Lumière Pulsée Intense IPL Dernière Génération Pour Femme et pour Homme  Épilation Permanente  Pour Femme et pour Homme  Blanc/Doré](https://www.amazon.fr/dp/B07M8CYQWQ/?tag=tolees0d-21) con un 55.71 % de descuento con precio de oferta de 189.99 EUR (original: 429.0 EUR) en el siguiente enlace!

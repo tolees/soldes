@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CSPWN2W/?tag=tolees0d-21'
 descuento: '69.12'
+average: '5.99'
 ---
 
 Tienes [TOMALL 4 pcs unique tête Tire Valve Stem Core Remover Repair Tool](https://www.amazon.fr/dp/B07CSPWN2W/?tag=tolees0d-21) con un 69.12 % de descuento con precio de oferta de 5.99 EUR (original: 19.4 EUR) en el siguiente enlace!

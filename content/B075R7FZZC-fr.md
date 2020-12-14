@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075R7FZZC/?tag=tolees0d-21'
 descuento: '60.00'
+average: '22.0'
 ---
 
 Está [SIMBA Protège Matelas - Alèse Imperméable et Respirant  150 x 200 cm ](https://www.amazon.fr/dp/B075R7FZZC/?tag=tolees0d-21) con 60.00 de descuento por 22.0 EUR (original: 55.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Q4W6SM1/?tag=tolees0d-21'
 descuento: '26.93'
+average: '18.99'
 ---
 
 Tienes [WOTEK Bande Élastique Fitness Élastique Musculation Bande de Resistance Élastique Sport Élastique Pilates- 3xRésistance Élastiques pour Rééducation Physique et Motrice Élastique Musculation](https://www.amazon.fr/dp/B07Q4W6SM1/?tag=tolees0d-21) con un 26.93 % de descuento con precio de oferta de 18.99 EUR (original: 25.99 EUR) en el siguiente enlace!

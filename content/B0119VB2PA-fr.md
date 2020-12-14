@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0119VB2PA/?tag=tolees0d-21'
 descuento: '41.75'
+average: '69.9'
 ---
 
 Está [Aspirateur Souffleur Broyeur Bosch - ALS 30  3000W  jusqu à 300km/h  sac de 45L ](https://www.amazon.fr/dp/B0119VB2PA/?tag=tolees0d-21) con 41.75 de descuento por 69.9 EUR (original: 119.99 EUR) en el siguiente enlace!

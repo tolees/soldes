@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01CIEBS74/?tag=tolees0d-21'
 descuento: '40.01'
+average: '29.99'
 ---
 
 Tienes [SanDisk iXpand 64 Go - Clé USB double connectique pour sauvegarde iPhone et iPad](https://www.amazon.fr/dp/B01CIEBS74/?tag=tolees0d-21) con un 40.01 % de descuento con precio de oferta de 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

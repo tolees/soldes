@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B083HFL5T2/?tag=tolees0d-21'
 descuento: '51.85'
+average: '14.44'
 ---
 
 Tienes [TEEHON® Portefeuille Homme en Cuir Véritable Porte-Monnaie avec Blocage RFID/NFC 13 Porte Carte Crédit  2 Compartiment à Billets  Grande Poche à Monnaie  Classique Porte Feuille Boîte Cadeau Noir](https://www.amazon.fr/dp/B083HFL5T2/?tag=tolees0d-21) con un 51.85 % de descuento con precio de oferta de 14.44 EUR (original: 29.99 EUR) en el siguiente enlace!

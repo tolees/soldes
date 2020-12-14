@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21'
 descuento: '50.01'
+average: '22.99'
 ---
 
 Ahora mismo tienes [REDSTORM Manette PC/PS3  Manette Switch  5 Niveaux de LED Réglables et Double Rétroaction Vibratoire  Rafale Automatique TURBO  Manette pour Téléphone Android/PS3/OTG/PC/Android TV/TV Box](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21) a 22.99 EUR (original: 45.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

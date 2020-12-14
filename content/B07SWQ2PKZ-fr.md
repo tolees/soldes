@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SWQ2PKZ/?tag=tolees0d-21'
 descuento: '44.20'
+average: '27.99'
 ---
 
 Tienes [Better Call Saul-Saisons 1 à 4](https://www.amazon.fr/dp/B07SWQ2PKZ/?tag=tolees0d-21) con un 44.20 % de descuento con precio de oferta de 27.99 EUR (original: 50.16 EUR) en el siguiente enlace!

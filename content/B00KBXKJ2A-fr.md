@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00KBXKJ2A/?tag=tolees0d-21'
 descuento: '33.96'
+average: '92.39'
 ---
 
 Ahora mismo tienes [EDISION HDMI MODULATOR single DVB-T  Full HD MPEG4  RF-IN  HDTV  USB  OLED 4-line display  noir](https://www.amazon.fr/dp/B00KBXKJ2A/?tag=tolees0d-21) a 92.39 EUR (original: 139.9 EUR) (33.96 %  de descuento) en el siguiente enlace!

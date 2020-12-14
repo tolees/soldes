@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00WIBVHCE/?tag=tolees0d-21'
 descuento: '50.39'
+average: '77.69'
 ---
 
 Tienes [Grohe Mitigeur Évier Eurosmart 32223002  Import Allemagne ](https://www.amazon.fr/dp/B00WIBVHCE/?tag=tolees0d-21) con un 50.39 % de descuento con precio de oferta de 77.69 EUR (original: 156.6 EUR) en el siguiente enlace!

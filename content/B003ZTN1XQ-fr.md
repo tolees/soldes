@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B003ZTN1XQ/?tag=tolees0d-21'
 descuento: '60.00'
+average: '68.96'
 ---
 
 Está [Inox Robinet mitigeur douche en acier inoxydable haut de gamme satinée neuf](https://www.amazon.fr/dp/B003ZTN1XQ/?tag=tolees0d-21) con 60.00 de descuento por 68.96 EUR (original: 172.39 EUR) en el siguiente enlace!

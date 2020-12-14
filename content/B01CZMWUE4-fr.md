@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01CZMWUE4/?tag=tolees0d-21'
 descuento: '63.04'
+average: '14.78'
 ---
 
 Ahora mismo tienes [CRAZE- Disney Perles à Repasser  54384  Bleu](https://www.amazon.fr/dp/B01CZMWUE4/?tag=tolees0d-21) a 14.78 EUR (original: 39.99 EUR) (63.04 %  de descuento) en el siguiente enlace!

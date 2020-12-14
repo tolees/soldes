@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B088BGK38Y/?tag=tolees0d-21'
 descuento: '68.46'
+average: '5.99'
 ---
 
 Tienes [LK Verre Trempé pour Xiaomi Redmi Note 9S / Note 9 Pro/Note 9 Pro Max Protection écran  [3 Pièces] [avec Kit Installation Offert] [Dureté 9H  3D-Touch] Protection d écran Verre trempe Vitre](https://www.amazon.fr/dp/B088BGK38Y/?tag=tolees0d-21) con un 68.46 % de descuento con precio de oferta de 5.99 EUR (original: 18.99 EUR) en el siguiente enlace!

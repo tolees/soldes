@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B011SDBCBI/?tag=tolees0d-21'
 descuento: '59.20'
+average: '81.6'
 ---
 
 Ahora mismo tienes [Schott NYC Tornado Blouson  Noir  Black   S Homme](https://www.amazon.fr/dp/B011SDBCBI/?tag=tolees0d-21) a 81.6 EUR (original: 200.0 EUR) (59.20 %  de descuento) en el siguiente enlace!

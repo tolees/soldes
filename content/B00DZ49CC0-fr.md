@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sac à Dos  Nintendo  - Grande Manette Ne al 32.63 % de descuento'
-date: 2020-12-12 12:11:56
+date: 2020-12-14 12:44:32
 image: 'https://m.media-amazon.com/images/I/41vsngjujgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00DZ49CC0/?tag=tolees0d-21'
 descuento: '32.63'
+average: '26.94'
 ---
 
 Está [Sac à Dos  Nintendo  - Grande Manette Nes - Gris](https://www.amazon.fr/dp/B00DZ49CC0/?tag=tolees0d-21) con 32.63 de descuento por 26.94 EUR (original: 39.99 EUR) en el siguiente enlace!

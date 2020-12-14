@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N4BLT7R/?tag=tolees0d-21'
 descuento: '25.47'
+average: '96.14'
 ---
 
 Tienes [Catimini CP44005 Manteau  Noir  Black 02   4 Ans  Taille Fabricant:4A  Fille](https://www.amazon.fr/dp/B07N4BLT7R/?tag=tolees0d-21) con un 25.47 % de descuento con precio de oferta de 96.14 EUR (original: 129.0 EUR) en el siguiente enlace!

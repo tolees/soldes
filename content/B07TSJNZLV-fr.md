@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TSJNZLV/?tag=tolees0d-21'
 descuento: '25.52'
+average: '59.58'
 ---
 
 Está [Only Onlally Boucle Wool Coat CC OTW Manteau  Rouge  Merlot Detail: Melange   S Femme](https://www.amazon.fr/dp/B07TSJNZLV/?tag=tolees0d-21) con 25.52 de descuento por 59.58 EUR (original: 79.99 EUR) en el siguiente enlace!

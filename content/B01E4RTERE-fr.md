@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01E4RTERE/?tag=tolees0d-21'
 descuento: '47.53'
+average: '78.71'
 ---
 
 Ahora mismo tienes [Dsquared2 D Squared Brillengestelle DQ5203 005-54-15-140 Lunettes de Soleil  Marron  Braun   54.0 Femme](https://www.amazon.fr/dp/B01E4RTERE/?tag=tolees0d-21) a 78.71 EUR (original: 150.0 EUR) (47.53 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075WWSMFN/?tag=tolees0d-21'
 descuento: '50.01'
+average: '49.99'
 ---
 
 Tienes [Kodak Printomatic - Appareil Photo à Impression Instantanée avec Papier Autocollant Zink 5 cm x 7 6 cm  Gris](https://www.amazon.fr/dp/B075WWSMFN/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00S6F1UBY/?tag=tolees0d-21'
 descuento: '26.19'
+average: '58.94142857142857'
 ---
 
 Está [Sylvanian Families - 5206 - Le bateau de croisière](https://www.amazon.fr/dp/B00S6F1UBY/?tag=tolees0d-21) con 26.19 de descuento por 59.04 EUR (original: 79.99 EUR) en el siguiente enlace!

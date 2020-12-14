@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XHLHNHZ/?tag=tolees0d-21'
 descuento: '60.20'
+average: '51.73'
 ---
 
 Tienes [Team Kalorik Four Rétro 19.5 Litres avec Pince  Plateaux et Grille  0-230°C   1300 W  Métal/Verre  Rouge  TKG OT 2500 R](https://www.amazon.fr/dp/B06XHLHNHZ/?tag=tolees0d-21) con un 60.20 % de descuento con precio de oferta de 51.73 EUR (original: 129.99 EUR) en el siguiente enlace!

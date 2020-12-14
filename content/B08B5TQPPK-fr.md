@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08B5TQPPK/?tag=tolees0d-21'
 descuento: '27.46'
+average: '36.99'
 ---
 
 Está [eXtremeRate Kit de Coques avec Kit de Boutons pour Nintendo Switch Console Joycons DIY Housse de Remplacement pour NS Manette Contrôleur-Menthe Verte & Bleu Céleste & Blanc](https://www.amazon.fr/dp/B08B5TQPPK/?tag=tolees0d-21) con 27.46 de descuento por 36.99 EUR (original: 50.99 EUR) en el siguiente enlace!

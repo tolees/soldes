@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07B4SMTCT/?tag=tolees0d-21'
 descuento: '25.33'
+average: '134.36'
 ---
 
 Ahora mismo tienes [PUMA Ignite PWRADAPT Disc  Chaussures de Golf Homme  Gris  Quiet Shade-Quiet Shade 03   44.5 EU](https://www.amazon.fr/dp/B07B4SMTCT/?tag=tolees0d-21) a 134.36 EUR (original: 179.95 EUR) (25.33 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PJZKWV4/?tag=tolees0d-21'
 descuento: '58.96'
+average: '135.43'
 ---
 
 Ahora mismo tienes [Chie Mihara Nino  botines Femmes  Noir  Barna West Negro   39 EU](https://www.amazon.fr/dp/B07PJZKWV4/?tag=tolees0d-21) a 135.43 EUR (original: 330.0 EUR) (58.96 %  de descuento) en el siguiente enlace!

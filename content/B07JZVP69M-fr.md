@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21'
 descuento: '53.37'
+average: '6.99'
 ---
 
 Está [Feral roots](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21) con 53.37 de descuento por 6.99 EUR (original: 14.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08726HHHW/?tag=tolees0d-21'
 descuento: '78.58'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Montre Connectée Intelligente Femmes Homme Enfant Smartwatch Etanche Bracelet Connecté Podometre Cardio fréquencemètre et Ecouteur Bluetooth Sport pour iPhone/Samsung/Huawei  Bleu ](https://www.amazon.fr/dp/B08726HHHW/?tag=tolees0d-21) a 29.99 EUR (original: 139.99 EUR) (78.58 %  de descuento) en el siguiente enlace!

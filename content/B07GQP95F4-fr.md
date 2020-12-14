@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GQP95F4/?tag=tolees0d-21'
 descuento: '41.68'
+average: '69.99'
 ---
 
 Está [Feisui Collier Dressage Chien  800 Mètres Collier d entraînement à Distance avec Niveaux de Chocs et Vibrations  Modes de Lumière  Rechargeables et 100% Imperméables  pour Deux Chiens  3 Chiens ](https://www.amazon.fr/dp/B07GQP95F4/?tag=tolees0d-21) con 41.68 de descuento por 69.99 EUR (original: 120.0 EUR) en el siguiente enlace!

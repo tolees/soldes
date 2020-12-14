@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07L1LLLJ1/?tag=tolees0d-21'
 descuento: '76.14'
+average: '95.42'
 ---
 
 Tienes [Spyder 193028 - Veste de ski - Femme - Rose  Berry  - Taille:8 / FR:40](https://www.amazon.fr/dp/B07L1LLLJ1/?tag=tolees0d-21) con un 76.14 % de descuento con precio de oferta de 95.42 EUR (original: 400.0 EUR) en el siguiente enlace!

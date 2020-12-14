@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QH3P14R/?tag=tolees0d-21'
 descuento: '47.13'
+average: '184.53'
 ---
 
 Tienes [Michael Kors Femme Écran Tactile Digital Montre Connectée avec Bracelet en Silicone MKT5069](https://www.amazon.fr/dp/B07QH3P14R/?tag=tolees0d-21) con un 47.13 % de descuento con precio de oferta de 184.53 EUR (original: 349.0 EUR) en el siguiente enlace!

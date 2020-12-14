@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000JWCE7G/?tag=tolees0d-21'
 descuento: '30.00'
+average: '70.64'
 ---
 
 Está [Online USV Kit de rails pour armoire](https://www.amazon.fr/dp/B000JWCE7G/?tag=tolees0d-21) con 30.00 de descuento por 70.64 EUR (original: 100.91 EUR) en el siguiente enlace!

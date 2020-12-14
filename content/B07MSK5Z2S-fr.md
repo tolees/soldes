@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MSK5Z2S/?tag=tolees0d-21'
 descuento: '62.54'
+average: '37.44'
 ---
 
 Ahora mismo tienes [Clarks Ronnie Limit  Brogues Homme  Cuir Brun  43 EU](https://www.amazon.fr/dp/B07MSK5Z2S/?tag=tolees0d-21) a 37.44 EUR (original: 99.95 EUR) (62.54 %  de descuento) en el siguiente enlace!

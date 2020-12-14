@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SXT16Q6/?tag=tolees0d-21'
 descuento: '59.63'
+average: '50.46'
 ---
 
 Ahora mismo tienes [Geox D TABELYA A  Sneakers Basses Femme  Beige  Cream/Lt Gold C5k2l   39 EU](https://www.amazon.fr/dp/B07SXT16Q6/?tag=tolees0d-21) a 50.46 EUR (original: 125.0 EUR) (59.63 %  de descuento) en el siguiente enlace!

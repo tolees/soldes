@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08B5SDDMC/?tag=tolees0d-21'
 descuento: '38.34'
+average: '42.99'
 ---
 
 Está [alvorog Miroir de Maquillage avec 3 Modes de Couleur  5X Miroir Grossissant  Mise à Niveau Arrêt Automatique de 0 5 h  Pivotant et Extensible à 360 °  Alimenté par USB ou Batterie](https://www.amazon.fr/dp/B08B5SDDMC/?tag=tolees0d-21) con 38.34 de descuento por 42.99 EUR (original: 69.72 EUR) en el siguiente enlace!

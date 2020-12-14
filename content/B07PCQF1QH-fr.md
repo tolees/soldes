@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PCQF1QH/?tag=tolees0d-21'
 descuento: '30.02'
+average: '13.99'
 ---
 
 Ahora mismo tienes [INPHIC Souris Bluetooth  Trois Modes Souris sans Fil Bluetooth silencieuse Rechargeable  BT 5.0/3.0 + 2.4G sans Fil   Souris Portable 1600DPI pour Mac  Ordinateur  PC  iPadOS  Windows](https://www.amazon.fr/dp/B07PCQF1QH/?tag=tolees0d-21) a 13.99 EUR (original: 19.99 EUR) (30.02 %  de descuento) en el siguiente enlace!

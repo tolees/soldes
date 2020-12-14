@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MZBVWFN/?tag=tolees0d-21'
 descuento: '40.00'
+average: '59.99'
 ---
 
 Está [Philips HR3556/00 Blender  900 W  Noir  Métal](https://www.amazon.fr/dp/B01MZBVWFN/?tag=tolees0d-21) con 40.00 de descuento por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!

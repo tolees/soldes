@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01DKL0EP6/?tag=tolees0d-21'
 descuento: '35.72'
+average: '53.32333333333334'
 ---
 
 Está [NETGEAR Répéteur WiFi  EX6130   Amplificateur WiFi AC1200  WiFi Booster  jusqu à 90m² et 20 appareils  Transformez Les Zones Mortes en Zones Couvertes  Prise de Courant Intégrée  compatible toutes Box](https://www.amazon.fr/dp/B01DKL0EP6/?tag=tolees0d-21) con 35.72 de descuento por 44.99 EUR (original: 69.99 EUR) en el siguiente enlace!

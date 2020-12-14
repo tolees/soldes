@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N5HLNB8/?tag=tolees0d-21'
 descuento: '35.76'
+average: '63.72500000000001'
 ---
 
 Ahora mismo tienes [Elizabeth Arden Advanced Ceramide Capsules Sérum Quotidien Rénovateur de Jeunesse 90 capsules](https://www.amazon.fr/dp/B01N5HLNB8/?tag=tolees0d-21) a 61.0 EUR (original: 94.95 EUR) (35.76 %  de descuento) en el siguiente enlace!

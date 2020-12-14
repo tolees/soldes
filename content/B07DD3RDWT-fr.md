@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DD3RDWT/?tag=tolees0d-21'
 descuento: '52.03'
+average: '23.96'
 ---
 
 Está [Pinypon Action- Famosa Lot de 5 Figurines  700014490  Multicolore](https://www.amazon.fr/dp/B07DD3RDWT/?tag=tolees0d-21) con 52.03 de descuento por 23.96 EUR (original: 49.95 EUR) en el siguiente enlace!

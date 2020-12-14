@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07K11RC1X/?tag=tolees0d-21'
 descuento: '42.96'
+average: '74.12'
 ---
 
 Está [adidas I-5923 Chaussures de Gymnastique homme - Blanc  Ftwr White   46 EU  11 UK ](https://www.amazon.fr/dp/B07K11RC1X/?tag=tolees0d-21) con 42.96 de descuento por 74.12 EUR (original: 129.95 EUR) en el siguiente enlace!

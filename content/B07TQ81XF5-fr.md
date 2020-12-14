@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TQ81XF5/?tag=tolees0d-21'
 descuento: '31.70'
+average: '42.34'
 ---
 
 Tienes [VTech RockIt Twist - Console de jeux éducative pour enfant  vert translucide](https://www.amazon.fr/dp/B07TQ81XF5/?tag=tolees0d-21) con un 31.70 % de descuento con precio de oferta de 42.34 EUR (original: 61.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XDRHWPW/?tag=tolees0d-21'
 descuento: '49.76'
+average: '45.19'
 ---
 
 Tienes [HAUPTSTADTKOFFER - Spree - Valise de Taille Moyenne  Bagage de soute rigide  ABS  TSA  extensible  extra léger  4 roues  65 cm  74 L  Vert](https://www.amazon.fr/dp/B06XDRHWPW/?tag=tolees0d-21) con un 49.76 % de descuento con precio de oferta de 45.19 EUR (original: 89.95 EUR) en el siguiente enlace!

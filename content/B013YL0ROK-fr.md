@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013YL0ROK/?tag=tolees0d-21'
 descuento: '53.93'
+average: '66.34'
 ---
 
 Está [Golden Eagle brand new Superbe sculpture de décoration en bronze Par Harriet Dunn](https://www.amazon.fr/dp/B013YL0ROK/?tag=tolees0d-21) con 53.93 de descuento por 66.34 EUR (original: 144.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07J5PZT43/?tag=tolees0d-21'
 descuento: '71.80'
+average: '12.97'
 ---
 
 Está [Chartres Basket Métropole Chartres Métropole Basket Short Officiel Extérieur Saison 2018-2019 Basketball Mixte Adulte  Bleu Marine  FR  Taille Fabricant : XL ](https://www.amazon.fr/dp/B07J5PZT43/?tag=tolees0d-21) con 71.80 de descuento por 12.97 EUR (original: 46.0 EUR) en el siguiente enlace!

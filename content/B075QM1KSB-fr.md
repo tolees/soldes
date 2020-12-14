@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075QM1KSB/?tag=tolees0d-21'
 descuento: '33.79'
+average: '139.01'
 ---
 
 Está [GORE WEAR C5 Active Veste Femme  Noir  FR : S  Taille Fabricant : 36 ](https://www.amazon.fr/dp/B075QM1KSB/?tag=tolees0d-21) con 33.79 de descuento por 139.01 EUR (original: 209.95 EUR) en el siguiente enlace!

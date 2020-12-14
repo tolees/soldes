@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00DJM0C54/?tag=tolees0d-21'
 descuento: '41.27'
+average: '36.22'
 ---
 
 Tienes [Dragonball GT - Box 3 [Import allemand]](https://www.amazon.fr/dp/B00DJM0C54/?tag=tolees0d-21) con un 41.27 % de descuento con precio de oferta de 36.22 EUR (original: 61.67 EUR) en el siguiente enlace!

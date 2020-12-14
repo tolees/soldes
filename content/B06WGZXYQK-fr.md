@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06WGZXYQK/?tag=tolees0d-21'
 descuento: '27.29'
+average: '15.99'
 ---
 
 Tienes [Playmobil - 4X4 avec Coffre de Toit - 9281](https://www.amazon.fr/dp/B06WGZXYQK/?tag=tolees0d-21) con un 27.29 % de descuento con precio de oferta de 15.99 EUR (original: 21.99 EUR) en el siguiente enlace!

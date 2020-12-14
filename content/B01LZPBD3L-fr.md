@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01LZPBD3L/?tag=tolees0d-21'
 descuento: '31.01'
+average: '89.0'
 ---
 
 Está [Samsonite Base Boost - Spinner M Valise Extensible  66 cm  67 5/73 5 L  Rouge  Red ](https://www.amazon.fr/dp/B01LZPBD3L/?tag=tolees0d-21) con 31.01 de descuento por 89.0 EUR (original: 129.0 EUR) en el siguiente enlace!

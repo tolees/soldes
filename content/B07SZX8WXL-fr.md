@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SZX8WXL/?tag=tolees0d-21'
 descuento: '56.67'
+average: '32.5'
 ---
 
 Tienes [Kickers Bonbon-2  Bottes & Bottines Mixte bébé  Vert  Vert Tricolore 63   26 EU](https://www.amazon.fr/dp/B07SZX8WXL/?tag=tolees0d-21) con un 56.67 % de descuento con precio de oferta de 32.5 EUR (original: 75.0 EUR) en el siguiente enlace!

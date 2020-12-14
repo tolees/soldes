@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00OTVLNX4/?tag=tolees0d-21'
 descuento: '57.80'
+average: '64.99'
 ---
 
 Está [Beurer UB 68 XXL Chauffe-lit Surmatelas Chauffant pour 2 Personnes](https://www.amazon.fr/dp/B00OTVLNX4/?tag=tolees0d-21) con 57.80 de descuento por 64.99 EUR (original: 153.99 EUR) en el siguiente enlace!

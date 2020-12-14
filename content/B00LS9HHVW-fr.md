@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00LS9HHVW/?tag=tolees0d-21'
 descuento: '29.34'
+average: '69.95'
 ---
 
 Tienes [K-Way K004BD0 - veste imperméable - Homme - Noir  Black  - Small](https://www.amazon.fr/dp/B00LS9HHVW/?tag=tolees0d-21) con un 29.34 % de descuento con precio de oferta de 69.95 EUR (original: 99.0 EUR) en el siguiente enlace!

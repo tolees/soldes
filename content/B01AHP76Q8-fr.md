@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01AHP76Q8/?tag=tolees0d-21'
 descuento: '40.00'
+average: '119.99'
 ---
 
 Está [Razor Power Core E90 E90-Trottinette électrique-Rose Enfant](https://www.amazon.fr/dp/B01AHP76Q8/?tag=tolees0d-21) con 40.00 de descuento por 119.99 EUR (original: 199.99 EUR) en el siguiente enlace!

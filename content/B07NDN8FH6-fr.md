@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NDN8FH6/?tag=tolees0d-21'
 descuento: '49.14'
+average: '71.21'
 ---
 
 Tienes [Brooks Brothers Ni Oxford Solid Milano Chemise Casual  Bleu  Blue Blue   Large  Taille Fabricant: L-  Homme](https://www.amazon.fr/dp/B07NDN8FH6/?tag=tolees0d-21) con un 49.14 % de descuento con precio de oferta de 71.21 EUR (original: 140.0 EUR) en el siguiente enlace!

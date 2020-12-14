@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01NCVQ9OT/?tag=tolees0d-21'
 descuento: '55.52'
+average: '64.5'
 ---
 
 Está [El Naturalista S.A N097 Soft Grain Yggdrasil  Bottes Classiques femme  Noir  Black   40 EU](https://www.amazon.fr/dp/B01NCVQ9OT/?tag=tolees0d-21) con 55.52 de descuento por 64.5 EUR (original: 145.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004VD5PWA/?tag=tolees0d-21'
 descuento: '50.94'
+average: '25.45'
 ---
 
 Tienes [Marie Brizard Curaçao Liqueur Triple Sec 700 ml](https://www.amazon.fr/dp/B004VD5PWA/?tag=tolees0d-21) con un 50.94 % de descuento con precio de oferta de 25.45 EUR (original: 51.87 EUR) en el siguiente enlace!

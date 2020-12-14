@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01J5FGW66/?tag=tolees0d-21'
 descuento: '47.50'
+average: '146.99'
 ---
 
 Tienes [Philips GC8735/80 Centrale vapeur PerfectCare Performer 6 5 bar effet pressing jusqu à 420g](https://www.amazon.fr/dp/B01J5FGW66/?tag=tolees0d-21) con un 47.50 % de descuento con precio de oferta de 146.99 EUR (original: 279.99 EUR) en el siguiente enlace!

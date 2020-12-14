@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00V2QPEFW/?tag=tolees0d-21'
 descuento: '57.29'
+average: '19.369999999999997'
 ---
 
 Ahora mismo tienes [Columbia Zero Rules  Haut à Manches Longues  Homme](https://www.amazon.fr/dp/B00V2QPEFW/?tag=tolees0d-21) a 19.2 EUR (original: 44.95 EUR) (57.29 %  de descuento) en el siguiente enlace!

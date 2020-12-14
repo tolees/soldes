@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KRS928D/?tag=tolees0d-21'
 descuento: '44.07'
+average: '67.12'
 ---
 
 Ahora mismo tienes [Art 1330 Memphis Güell  Sandales Bout Ouvert Femme  Marron  Brown Brown   40 EU](https://www.amazon.fr/dp/B07KRS928D/?tag=tolees0d-21) a 67.12 EUR (original: 120.0 EUR) (44.07 %  de descuento) en el siguiente enlace!

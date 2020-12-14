@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013MC8H2A/?tag=tolees0d-21'
 descuento: '33.31'
+average: '75.49'
 ---
 
 Ahora mismo tienes [Lowepro 250 AW Slingshot Edge sac de transport pour Appareil photo Noir](https://www.amazon.fr/dp/B013MC8H2A/?tag=tolees0d-21) a 75.49 EUR (original: 113.2 EUR) (33.31 %  de descuento) en el siguiente enlace!

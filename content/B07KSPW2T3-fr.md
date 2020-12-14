@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KSPW2T3/?tag=tolees0d-21'
 descuento: '55.56'
+average: '96.0'
 ---
 
 Tienes [Love Moschino Brushed Jersey  Bottom Lace  Long Skirt Jupe   Green Q19   40  Taille Fabricant: 42  Femme](https://www.amazon.fr/dp/B07KSPW2T3/?tag=tolees0d-21) con un 55.56 % de descuento con precio de oferta de 96.0 EUR (original: 216.0 EUR) en el siguiente enlace!

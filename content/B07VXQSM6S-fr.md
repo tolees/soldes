@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VXQSM6S/?tag=tolees0d-21'
 descuento: '46.16'
+average: '90.17333333333333'
 ---
 
 Está [Samsung - Écouteurs sans Fil Galaxy Buds - Argent - Version Française](https://www.amazon.fr/dp/B07VXQSM6S/?tag=tolees0d-21) con 46.16 de descuento por 80.76 EUR (original: 149.99 EUR) en el siguiente enlace!

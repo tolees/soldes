@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B079LNW2RF/?tag=tolees0d-21'
 descuento: '55.13'
+average: '80.74'
 ---
 
 Tienes [cbx Poussette Yoki  Ultra-Compacte  Habillage pluie inclus  Dès la Naissance jusqu à 15 kg  Smoky Anthracite](https://www.amazon.fr/dp/B079LNW2RF/?tag=tolees0d-21) con un 55.13 % de descuento con precio de oferta de 80.74 EUR (original: 179.95 EUR) en el siguiente enlace!

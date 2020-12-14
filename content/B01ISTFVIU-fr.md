@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01ISTFVIU/?tag=tolees0d-21'
 descuento: '44.99'
+average: '38.5'
 ---
 
 Está [Bosch MUZ9VL1 Accessoire optimum robot culinaire](https://www.amazon.fr/dp/B01ISTFVIU/?tag=tolees0d-21) con 44.99 de descuento por 38.5 EUR (original: 69.99 EUR) en el siguiente enlace!

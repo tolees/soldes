@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B079QM5GL9/?tag=tolees0d-21'
 descuento: '42.98'
+average: '199.0'
 ---
 
 Tienes [iRobot Roomba 671  Aspirateur Robot pour Tapis et Sols Durs  Capteurs de Poussière Dirt Detect  Système de Nettoyage en 3 Étapes  Connecté en WiFi et Programmable via Application](https://www.amazon.fr/dp/B079QM5GL9/?tag=tolees0d-21) con un 42.98 % de descuento con precio de oferta de 199.0 EUR (original: 349.0 EUR) en el siguiente enlace!

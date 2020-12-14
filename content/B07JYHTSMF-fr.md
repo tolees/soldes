@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JYHTSMF/?tag=tolees0d-21'
 descuento: '60.53'
+average: '47.29'
 ---
 
 Está [Tommy Hilfiger Short Sleeve Slim Polo   Cerulean 474   X-Large Femme](https://www.amazon.fr/dp/B07JYHTSMF/?tag=tolees0d-21) con 60.53 de descuento por 47.29 EUR (original: 119.8 EUR) en el siguiente enlace!

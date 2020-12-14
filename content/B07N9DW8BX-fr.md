@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N9DW8BX/?tag=tolees0d-21'
 descuento: '53.50'
+average: '59.99'
 ---
 
 Tienes [JBL LIVE 400BT – Casque audio supra-auriculaire sans fil – Écouteurs Bluetooth avec commande pour appels – avec Amazon Alexa intégrée – Autonomie jusqu à 24 heures – Noir](https://www.amazon.fr/dp/B07N9DW8BX/?tag=tolees0d-21) con un 53.50 % de descuento con precio de oferta de 59.99 EUR (original: 129.0 EUR) en el siguiente enlace!

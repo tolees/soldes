@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VQZ5Q38/?tag=tolees0d-21'
 descuento: '47.39'
+average: '173.61'
 ---
 
 Ahora mismo tienes [Marmot Wm s Slingshot Jacket Veste de Neige en Duvet  Facteur de Gonflement de 700  vêtement de Ski et Snowboard  Coupe-Vent  imperméable à l eau  Respirante Femme Black FR: M  Taille Fabricant: M ](https://www.amazon.fr/dp/B07VQZ5Q38/?tag=tolees0d-21) a 173.61 EUR (original: 330.0 EUR) (47.39 %  de descuento) en el siguiente enlace!

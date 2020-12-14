@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00FBO44XO/?tag=tolees0d-21'
 descuento: '41.76'
+average: '4.95'
 ---
 
 Ahora mismo tienes [L Oréal Paris  Super Liner Matmatic Eye Liner Extra-Noir](https://www.amazon.fr/dp/B00FBO44XO/?tag=tolees0d-21) a 4.95 EUR (original: 8.5 EUR) (41.76 %  de descuento) en el siguiente enlace!

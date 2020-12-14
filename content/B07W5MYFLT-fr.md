@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W5MYFLT/?tag=tolees0d-21'
 descuento: '55.19'
+average: '41.71'
 ---
 
 Tienes [Tommy Hilfiger Basic Embroidered Hoody Sweat-Shirt  Bleu  Desert Sky   Large  Taille Fabricant:  Homme](https://www.amazon.fr/dp/B07W5MYFLT/?tag=tolees0d-21) con un 55.19 % de descuento con precio de oferta de 41.71 EUR (original: 93.09 EUR) en el siguiente enlace!

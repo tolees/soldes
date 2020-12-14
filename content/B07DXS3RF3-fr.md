@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21'
 descuento: '30.24'
+average: '6.99'
 ---
 
 Está [Le Cercle littéraire de Guernesey](https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21) con 30.24 de descuento por 6.99 EUR (original: 10.02 EUR) en el siguiente enlace!

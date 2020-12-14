@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QRHRBVM/?tag=tolees0d-21'
 descuento: '26.68'
+average: '21.99'
 ---
 
 Está [Instant Sports pour Nintendo Switch](https://www.amazon.fr/dp/B07QRHRBVM/?tag=tolees0d-21) con 26.68 de descuento por 21.99 EUR (original: 29.99 EUR) en el siguiente enlace!

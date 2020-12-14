@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0746P6FQC/?tag=tolees0d-21'
 descuento: '42.33'
+average: '149.93'
 ---
 
 Ahora mismo tienes [Philips Sonicare HX8491/01 AirFloss Ultra et brosse à dents électrique Diamond Clean - Blanc](https://www.amazon.fr/dp/B0746P6FQC/?tag=tolees0d-21) a 149.93 EUR (original: 259.99 EUR) (42.33 %  de descuento) en el siguiente enlace!

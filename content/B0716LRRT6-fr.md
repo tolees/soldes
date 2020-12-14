@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0716LRRT6/?tag=tolees0d-21'
 descuento: '37.50'
+average: '12.5'
 ---
 
 Ahora mismo tienes [Levi s The Perfect Tee T-Shirt - Femme-Gris  Better Batwing Smokestack Smokestack Htr 263 -Large](https://www.amazon.fr/dp/B0716LRRT6/?tag=tolees0d-21) a 12.5 EUR (original: 20.0 EUR) (37.50 %  de descuento) en el siguiente enlace!

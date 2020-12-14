@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21'
 descuento: '38.76'
+average: '7.98'
 ---
 
 Ahora mismo tienes [Ready Player One - DVD](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21) a 7.98 EUR (original: 13.03 EUR) (38.76 %  de descuento) en el siguiente enlace!

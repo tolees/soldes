@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07P63TSQX/?tag=tolees0d-21'
 descuento: '41.16'
+average: '30.915000000000003'
 ---
 
 Está [BAITITON 2 5 Pouces SATA III Disque Flash SSD 240 Go Interne Solid State Drive 240GB](https://www.amazon.fr/dp/B07P63TSQX/?tag=tolees0d-21) con 41.16 de descuento por 30.59 EUR (original: 51.99 EUR) en el siguiente enlace!

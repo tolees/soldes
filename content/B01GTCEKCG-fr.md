@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01GTCEKCG/?tag=tolees0d-21'
 descuento: '73.12'
+average: '172.0'
 ---
 
 Está [Montre Louis Cottier Homme Automatique - 43 mm - Cadran Argenté - Bracelet Cuir Noir - HB34330C2BC1](https://www.amazon.fr/dp/B01GTCEKCG/?tag=tolees0d-21) con 73.12 de descuento por 172.0 EUR (original: 640.0 EUR) en el siguiente enlace!

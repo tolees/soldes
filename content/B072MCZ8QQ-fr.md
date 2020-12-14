@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B072MCZ8QQ/?tag=tolees0d-21'
 descuento: '27.56'
+average: '130.39'
 ---
 
 Ahora mismo tienes [Microsoft Clavier Type Cover pour  Surface Pro Bleu Cobalt - AZERTY](https://www.amazon.fr/dp/B072MCZ8QQ/?tag=tolees0d-21) a 130.39 EUR (original: 179.99 EUR) (27.56 %  de descuento) en el siguiente enlace!

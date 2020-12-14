@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B001ANXIGE/?tag=tolees0d-21'
 descuento: '25.72'
+average: '27.26'
 ---
 
 Está [BIC Kids Decoralo Feutres de Coloriage à Pointe Extra Large - Couleurs Assorties  Classpack de 48](https://www.amazon.fr/dp/B001ANXIGE/?tag=tolees0d-21) con 25.72 de descuento por 27.26 EUR (original: 36.7 EUR) en el siguiente enlace!

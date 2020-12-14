@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078WT24HD/?tag=tolees0d-21'
 descuento: '28.18'
+average: '79.0'
 ---
 
 Tienes [Seb YG660100 Yaourtière Multi Délices Express 6 Pots 600W Rouge et Blanc](https://www.amazon.fr/dp/B078WT24HD/?tag=tolees0d-21) con un 28.18 % de descuento con precio de oferta de 79.0 EUR (original: 109.99 EUR) en el siguiente enlace!

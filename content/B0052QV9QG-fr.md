@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21'
 descuento: '44.47'
+average: '259.89'
 ---
 
 Está [EL1600USBFR ELLIP ECO 1600 USB](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21) con 44.47 de descuento por 259.89 EUR (original: 467.99 EUR) en el siguiente enlace!

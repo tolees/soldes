@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MC84HQR/?tag=tolees0d-21'
 descuento: '50.72'
+average: '86.19'
 ---
 
 Está [Liu Jo Shoes Asia 06 Sneaker  Sneakers Basses Femme  Blanc  White 01111   40 EU](https://www.amazon.fr/dp/B07MC84HQR/?tag=tolees0d-21) con 50.72 de descuento por 86.19 EUR (original: 174.9 EUR) en el siguiente enlace!

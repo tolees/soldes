@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DFPRQ4N/?tag=tolees0d-21'
 descuento: '36.67'
+average: '37.99'
 ---
 
 Tienes [jpantech Montre Connectée Smartwatch Femmes Homme Montre Sport Podometre Cardio Frequencemètre Chronomètres  Bracelet Connecté Etanche 50 Mètres  Montre Tactile pour Android iOS Téléphone Noir ](https://www.amazon.fr/dp/B08DFPRQ4N/?tag=tolees0d-21) con un 36.67 % de descuento con precio de oferta de 37.99 EUR (original: 59.99 EUR) en el siguiente enlace!

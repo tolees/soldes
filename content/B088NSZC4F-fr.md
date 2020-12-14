@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B088NSZC4F/?tag=tolees0d-21'
 descuento: '58.58'
+average: '30.59'
 ---
 
 Ahora mismo tienes [Manette Switch sans Fil  Manette Bluetooth pour Nintendo Switch Pro/Switch Lite  Manette Filaire pour PC Windows XP/10/7/8/8.1 avec Fonction Double Vibration et Turbo  Roue Dentée](https://www.amazon.fr/dp/B088NSZC4F/?tag=tolees0d-21) a 28.99 EUR (original: 69.99 EUR) (58.58 %  de descuento) en el siguiente enlace!

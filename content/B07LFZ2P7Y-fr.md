@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07LFZ2P7Y/?tag=tolees0d-21'
 descuento: '40.00'
+average: '66.0'
 ---
 
 Está [Geox U Renan B  Sneakers Basses Homme  Noir  Black/Mud C9355   43 EU](https://www.amazon.fr/dp/B07LFZ2P7Y/?tag=tolees0d-21) con 40.00 de descuento por 66.0 EUR (original: 110.0 EUR) en el siguiente enlace!

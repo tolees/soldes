@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B079N2CMRT/?tag=tolees0d-21'
 descuento: '28.93'
+average: '69.64'
 ---
 
 Tienes [Playmobil - Maison de Lucky - 9475](https://www.amazon.fr/dp/B079N2CMRT/?tag=tolees0d-21) con un 28.93 % de descuento con precio de oferta de 69.64 EUR (original: 97.99 EUR) en el siguiente enlace!

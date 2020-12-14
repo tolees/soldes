@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075KQFQQ9/?tag=tolees0d-21'
 descuento: '75.00'
+average: '65.0'
 ---
 
 Tienes [Boucles d oreilles or tricolore"Trianon"](https://www.amazon.fr/dp/B075KQFQQ9/?tag=tolees0d-21) con un 75.00 % de descuento con precio de oferta de 65.0 EUR (original: 260.0 EUR) en el siguiente enlace!

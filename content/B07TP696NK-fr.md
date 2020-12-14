@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TP696NK/?tag=tolees0d-21'
 descuento: '37.95'
+average: '121.0'
 ---
 
 Está [Lacoste femme NF2731CE Chantaco Sac porte epaule Rose  Bittersweet ](https://www.amazon.fr/dp/B07TP696NK/?tag=tolees0d-21) con 37.95 de descuento por 121.0 EUR (original: 195.0 EUR) en el siguiente enlace!

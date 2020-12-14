@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W4LX6T4/?tag=tolees0d-21'
 descuento: '51.17'
+average: '62.99'
 ---
 
 Tienes [LIVOO DOP201 Super Blender  1200 W  1.8 liters](https://www.amazon.fr/dp/B07W4LX6T4/?tag=tolees0d-21) con un 51.17 % de descuento con precio de oferta de 62.99 EUR (original: 129.0 EUR) en el siguiente enlace!

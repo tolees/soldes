@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00I3LUUYO/?tag=tolees0d-21'
 descuento: '32.40'
+average: '16.9'
 ---
 
 Tienes [Sony MDR-EX110APW Ecouteurs Intra-auriculaires avec Microphone - Blanc](https://www.amazon.fr/dp/B00I3LUUYO/?tag=tolees0d-21) con un 32.40 % de descuento con precio de oferta de 16.9 EUR (original: 25.0 EUR) en el siguiente enlace!

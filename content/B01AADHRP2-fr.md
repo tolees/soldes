@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01AADHRP2/?tag=tolees0d-21'
 descuento: '25.04'
+average: '18.74'
 ---
 
 Tienes [Nike - W NSW lggng Club logo2 - Collant pour femme - Noir/Blanc - Taille: XL](https://www.amazon.fr/dp/B01AADHRP2/?tag=tolees0d-21) con un 25.04 % de descuento con precio de oferta de 18.74 EUR (original: 25.0 EUR) en el siguiente enlace!

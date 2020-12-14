@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FKJQPGQ/?tag=tolees0d-21'
 descuento: '59.94'
+average: '44.07'
 ---
 
 Está [The North Face Canyonlands Sweat à Capuche Homme  Gris  TNF Dark Grey Heather   Medium](https://www.amazon.fr/dp/B07FKJQPGQ/?tag=tolees0d-21) con 59.94 de descuento por 44.07 EUR (original: 110.0 EUR) en el siguiente enlace!

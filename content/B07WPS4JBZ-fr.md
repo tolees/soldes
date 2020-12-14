@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07WPS4JBZ/?tag=tolees0d-21'
 descuento: '36.68'
+average: '18.99'
 ---
 
 Ahora mismo tienes [Recepteur Bluetooth Jack DUTISON récepteur Bluetooth Voiture pour Voiture / Camion sans Fonction Bluetooth;avec 3.5mm emetteur Bluetooth AUX & USB transmetteur Bluetooth Voiture  45 cm  Plug & Play ](https://www.amazon.fr/dp/B07WPS4JBZ/?tag=tolees0d-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

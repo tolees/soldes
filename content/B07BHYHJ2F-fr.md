@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BHYHJ2F/?tag=tolees0d-21'
 descuento: '37.50'
+average: '99.99'
 ---
 
 Tienes [Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation Passive du Bruit avec Technologie à 4 Microphones - Noir Cuivre](https://www.amazon.fr/dp/B07BHYHJ2F/?tag=tolees0d-21) con un 37.50 % de descuento con precio de oferta de 99.99 EUR (original: 159.99 EUR) en el siguiente enlace!

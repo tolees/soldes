@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00940JHII/?tag=tolees0d-21'
 descuento: '48.54'
+average: '95.2'
 ---
 
 Está [Aigle - Parcours 2 Iso- Chaussure de chasse - Femme - Vert  Kaki - 37 EU  4 UK ](https://www.amazon.fr/dp/B00940JHII/?tag=tolees0d-21) con 48.54 de descuento por 95.2 EUR (original: 185.0 EUR) en el siguiente enlace!

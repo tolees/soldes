@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B083FGVVQ9/?tag=tolees0d-21'
 descuento: '34.01'
+average: '230.98'
 ---
 
 Ahora mismo tienes [Lacoste BH1966 Veste  Noir  56 Homme](https://www.amazon.fr/dp/B083FGVVQ9/?tag=tolees0d-21) a 230.98 EUR (original: 350.0 EUR) (34.01 %  de descuento) en el siguiente enlace!

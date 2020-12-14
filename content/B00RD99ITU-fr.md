@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00RD99ITU/?tag=tolees0d-21'
 descuento: '49.99'
+average: '22.5'
 ---
 
 Tienes [Crocs Crocband  Sabots Mixte Adulte  Rose  Pearl Pink/Wild Orchid   39/40 EU](https://www.amazon.fr/dp/B00RD99ITU/?tag=tolees0d-21) con un 49.99 % de descuento con precio de oferta de 22.5 EUR (original: 44.99 EUR) en el siguiente enlace!

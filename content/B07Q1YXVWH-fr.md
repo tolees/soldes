@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Q1YXVWH/?tag=tolees0d-21'
 descuento: '52.57'
+average: '36.99'
 ---
 
 Ahora mismo tienes [DOQAUS Casque Bluetooth sans Fil  [Jusqu 52 Heures] Pliable Casque Stéréo sans Fil Hi-FI  3 Modes EQ  Protège-Oreilles Mous de Protéines  Microphone intégré ＆ Mode Filaire  pour PC/Phone/iPad  Noir ](https://www.amazon.fr/dp/B07Q1YXVWH/?tag=tolees0d-21) a 36.99 EUR (original: 77.99 EUR) (52.57 %  de descuento) en el siguiente enlace!

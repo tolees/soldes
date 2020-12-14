@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0010YVK1I/?tag=tolees0d-21'
 descuento: '39.29'
+average: '85.0'
 ---
 
 Ahora mismo tienes [Timberland Classic 2-Eye  Chaussures Bateau Femme  Bleu  MD Blue Full Grain   42 EU](https://www.amazon.fr/dp/B0010YVK1I/?tag=tolees0d-21) a 85.0 EUR (original: 140.0 EUR) (39.29 %  de descuento) en el siguiente enlace!

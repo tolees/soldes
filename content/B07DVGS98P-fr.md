@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DVGS98P/?tag=tolees0d-21'
 descuento: '45.20'
+average: '21.99'
 ---
 
 Tienes [Coffret Films issus de Jeux Vidéo : Rampage-Hors de contrôle + Tomb Raider + Ready Player One + Resident Evil + Need for Speed [Blu-Ray]](https://www.amazon.fr/dp/B07DVGS98P/?tag=tolees0d-21) con un 45.20 % de descuento con precio de oferta de 21.99 EUR (original: 40.13 EUR) en el siguiente enlace!

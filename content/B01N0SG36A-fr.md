@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N0SG36A/?tag=tolees0d-21'
 descuento: '38.62'
+average: '41.73'
 ---
 
 Está [FIBARO Homekit enabled Multisensor/ Détecteur de Mouvement](https://www.amazon.fr/dp/B01N0SG36A/?tag=tolees0d-21) con 38.62 de descuento por 41.73 EUR (original: 67.99 EUR) en el siguiente enlace!

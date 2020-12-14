@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07R7XNT8H/?tag=tolees0d-21'
 descuento: '57.35'
+average: '72.5'
 ---
 
 Está [Columbia Lake 22  Doudoune Longue à Capuche  Femme](https://www.amazon.fr/dp/B07R7XNT8H/?tag=tolees0d-21) con 57.35 de descuento por 72.5 EUR (original: 169.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B088PN35HC/?tag=tolees0d-21'
 descuento: '34.01'
+average: '32.99'
 ---
 
 Tienes [PHOINIKAS Casque de Jeu PS4  Casque Gaming Filaire pour Xbox One  PC  Casque de Musique sans Fil Bluetooth avec Microphone Antibruit et 7.1 Bass Surround  40H Playtime -Bleu](https://www.amazon.fr/dp/B088PN35HC/?tag=tolees0d-21) con un 34.01 % de descuento con precio de oferta de 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

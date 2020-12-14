@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DY9RV17/?tag=tolees0d-21'
 descuento: '28.99'
+average: '48.99'
 ---
 
 Está [Hikole 2 en 1 Trottinette pour Enfants  Scooter avec Siège Pliage et 3 Roues Lumineuses pour 1.5 à 8 Ans  Modèle Pliable  Poignées Ajustable](https://www.amazon.fr/dp/B08DY9RV17/?tag=tolees0d-21) con 28.99 de descuento por 48.99 EUR (original: 68.99 EUR) en el siguiente enlace!

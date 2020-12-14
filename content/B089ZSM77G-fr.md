@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089ZSM77G/?tag=tolees0d-21'
 descuento: '60.57'
+average: '27.99'
 ---
 
 Está [Amical 9 5 Pouces SuperG-Ṍ-d-és fémmḔ Vî-b-r-àňt pṌïňt g ḁ-n-ḁ-le pṌṺr G-Ṍ-d-é vé-ň-t-ṌṺse c-é-ï-ňtṺré Ḋ-ḯ-Ḷ-Ḋo GṌ-d-é-mḯÇhét Vîbr-Ṍ-m-àsséṺr Çlḯ-t-Ṍ-rïdïéň sḯlé-ň-Ç-ieṺx Vî-b-r-àtéṺr ṌéṺf g sàňs FḯḶ](https://www.amazon.fr/dp/B089ZSM77G/?tag=tolees0d-21) con 60.57 de descuento por 27.99 EUR (original: 70.99 EUR) en el siguiente enlace!

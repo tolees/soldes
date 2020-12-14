@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06WVS91VM/?tag=tolees0d-21'
 descuento: '40.02'
+average: '10.19'
 ---
 
 Está [Playmobil - Calèche avec Attelage - 6932](https://www.amazon.fr/dp/B06WVS91VM/?tag=tolees0d-21) con 40.02 de descuento por 10.19 EUR (original: 16.99 EUR) en el siguiente enlace!

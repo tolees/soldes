@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YYZBVYF/?tag=tolees0d-21'
 descuento: '33.33'
+average: '199.99'
 ---
 
 Está [Casque Beats Solo Pro sans fil avec réduction du bruit - Puce Apple H1 pour casques et écouteurs  Bluetooth classe 1  mode Réduction active du bruit  mode Transparence  22 heures d écoute - Gris](https://www.amazon.fr/dp/B07YYZBVYF/?tag=tolees0d-21) con 33.33 de descuento por 199.99 EUR (original: 299.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01EAACFX0/?tag=tolees0d-21'
 descuento: '36.91'
+average: '41.0'
 ---
 
 Está [Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 + 8 filter](https://www.amazon.fr/dp/B01EAACFX0/?tag=tolees0d-21) con 36.91 de descuento por 41.0 EUR (original: 64.99 EUR) en el siguiente enlace!

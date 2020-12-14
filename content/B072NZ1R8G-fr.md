@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B072NZ1R8G/?tag=tolees0d-21'
 descuento: '30.12'
+average: '97.82'
 ---
 
 Tienes [Scie coupe droite sans fil Bosch - Easycut 12  Livré avec une batterie 12V-2 5Ah et coffret  une lame NanoBlade bois  profondeur de coupe: 65mm ](https://www.amazon.fr/dp/B072NZ1R8G/?tag=tolees0d-21) con un 30.12 % de descuento con precio de oferta de 97.82 EUR (original: 139.99 EUR) en el siguiente enlace!

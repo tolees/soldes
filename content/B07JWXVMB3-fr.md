@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JWXVMB3/?tag=tolees0d-21'
 descuento: '44.66'
+average: '54.79'
 ---
 
 Está [AUBADE  Haut de maillot push-up coque  Attache au cou  DIVINE CLEOPATRE  Noir  95B  NT08 NOIR](https://www.amazon.fr/dp/B07JWXVMB3/?tag=tolees0d-21) con 44.66 de descuento por 54.79 EUR (original: 99.0 EUR) en el siguiente enlace!

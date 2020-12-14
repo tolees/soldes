@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07H2WSKVK/?tag=tolees0d-21'
 descuento: '33.34'
+average: '99.99'
 ---
 
 Tienes [Echo Plus  2ème génération   Tissu anthracite + Ampoule connectée Philips Hue](https://www.amazon.fr/dp/B07H2WSKVK/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!

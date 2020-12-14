@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21'
 descuento: '30.01'
+average: '27.99'
 ---
 
 Tienes [Alimentation pour Xbox One   Version Nouvelle  AC Adaptateur Secteur Brique Bloc pour Xbox One Console](https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21) con un 30.01 % de descuento con precio de oferta de 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

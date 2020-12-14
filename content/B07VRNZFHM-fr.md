@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VRNZFHM/?tag=tolees0d-21'
 descuento: '38.48'
+average: '15.99'
 ---
 
 Está [FITTOO Costume da Bagno Donna Bikini Brasiliana Un Pezzo Sexy Monokini Slim Intero Sexy U-Collo Costume Intero Mare Push UP](https://www.amazon.fr/dp/B07VRNZFHM/?tag=tolees0d-21) con 38.48 de descuento por 15.99 EUR (original: 25.99 EUR) en el siguiente enlace!

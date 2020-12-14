@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NM4R6ZS/?tag=tolees0d-21'
 descuento: '42.12'
+average: '665.0'
 ---
 
 Ahora mismo tienes [AVIC-Z820DAB](https://www.amazon.fr/dp/B07NM4R6ZS/?tag=tolees0d-21) a 665.0 EUR (original: 1149.0 EUR) (42.12 %  de descuento) en el siguiente enlace!

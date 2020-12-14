@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01K4QOC6W/?tag=tolees0d-21'
 descuento: '37.10'
+average: '245.99666666666667'
 ---
 
 Ahora mismo tienes [TomTom GPS Voiture GO 6200 - 6 Pouces  Cartographie Monde  Trafic  Zones de Danger via Carte SIM Incluse  Appel Mains-Libres](https://www.amazon.fr/dp/B01K4QOC6W/?tag=tolees0d-21) a 239.0 EUR (original: 379.95 EUR) (37.10 %  de descuento) en el siguiente enlace!

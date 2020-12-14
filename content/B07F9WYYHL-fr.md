@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07F9WYYHL/?tag=tolees0d-21'
 descuento: '52.54'
+average: '94.44'
 ---
 
 Está [Le Tanneur Sophie Tsop1200  Femmes  Noir  Noir   6x21x15 cm  W x H x L ](https://www.amazon.fr/dp/B07F9WYYHL/?tag=tolees0d-21) con 52.54 de descuento por 94.44 EUR (original: 199.0 EUR) en el siguiente enlace!

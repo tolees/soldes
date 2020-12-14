@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07LGPLJ6S/?tag=tolees0d-21'
 descuento: '38.94'
+average: '77.01'
 ---
 
 Está [Onduleur Z1 Zenergy Cube EX 600 VA  3 prises secourues](https://www.amazon.fr/dp/B07LGPLJ6S/?tag=tolees0d-21) con 38.94 de descuento por 77.01 EUR (original: 126.12 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B081NNSQGQ/?tag=tolees0d-21'
 descuento: '46.71'
+average: '15.96'
 ---
 
 Tienes [Garcinia cambogia + L-Carnitine + Thé vert. Brûleur de Graisse  100% naturelle  Haute Concentration 60% HCA  pour perdre du poids et couper la faim  180 gélules végétales.](https://www.amazon.fr/dp/B081NNSQGQ/?tag=tolees0d-21) con un 46.71 % de descuento con precio de oferta de 15.96 EUR (original: 29.95 EUR) en el siguiente enlace!

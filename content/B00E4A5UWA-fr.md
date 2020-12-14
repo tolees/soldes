@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21'
 descuento: '30.25'
+average: '124.51'
 ---
 
 Tienes [Bosch L5008 Batterie décharge lente 12V  75 Ah  650A - Loisirs  Camping-Cars  Bateaux  …](https://www.amazon.fr/dp/B00E4A5UWA/?tag=tolees0d-21) con un 30.25 % de descuento con precio de oferta de 124.51 EUR (original: 178.5 EUR) en el siguiente enlace!

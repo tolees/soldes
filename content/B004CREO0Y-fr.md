@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004CREO0Y/?tag=tolees0d-21'
 descuento: '33.58'
+average: '25.394736842105264'
 ---
 
 Está [GRANIONS Conceptio Homme - 90 Capsules + 30 Sachets = 30 J - Cpx Breveté enzy Ox  Coenzyme Q10  Vitamine E   L-Carnitine  Dha  Oligoéléments - Fertilité Masculine Laboratoire des Granions](https://www.amazon.fr/dp/B004CREO0Y/?tag=tolees0d-21) con 33.58 de descuento por 26.5 EUR (original: 39.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CK6QLQ3/?tag=tolees0d-21'
 descuento: '38.68'
+average: '47.99'
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to  Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Bleu ](https://www.amazon.fr/dp/B08CK6QLQ3/?tag=tolees0d-21) a 47.99 EUR (original: 78.26 EUR) (38.68 %  de descuento) en el siguiente enlace!

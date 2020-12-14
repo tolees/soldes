@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W1ZNVR1/?tag=tolees0d-21'
 descuento: '40.00'
+average: '179.99'
 ---
 
 Tienes [Rowenta Ultimate Experience Sèche-cheveux Moteur Digital Professionnel Performant Réduit l électricité statique et les frisottis Protège vos cheveux CV9820F0](https://www.amazon.fr/dp/B07W1ZNVR1/?tag=tolees0d-21) con un 40.00 % de descuento con precio de oferta de 179.99 EUR (original: 299.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00PAB7QBA/?tag=tolees0d-21'
 descuento: '25.74'
+average: '97.435'
 ---
 
 Está [Champagne Pommery - Cuvée Louise Millésime 2004 Coffret Bouteille + Bouchon 2004 0  75 L](https://www.amazon.fr/dp/B00PAB7QBA/?tag=tolees0d-21) con 25.74 de descuento por 96.54 EUR (original: 130.0 EUR) en el siguiente enlace!

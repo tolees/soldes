@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FNT8XCD/?tag=tolees0d-21'
 descuento: '31.19'
+average: '36.529999999999994'
 ---
 
 Tienes [LEGO Friends - Le spectacle d Andréa - 41368 - Jeu de construction](https://www.amazon.fr/dp/B07FNT8XCD/?tag=tolees0d-21) con un 31.19 % de descuento con precio de oferta de 34.4 EUR (original: 49.99 EUR) en el siguiente enlace!

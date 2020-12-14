@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082FVMD8F/?tag=tolees0d-21'
 descuento: '26.90'
+average: '584.1'
 ---
 
 Tienes [Gardena 15005-47 SILENO city 300 Robot tondeuse  Gris foncé/gris clair/turquoise/orange](https://www.amazon.fr/dp/B082FVMD8F/?tag=tolees0d-21) con un 26.90 % de descuento con precio de oferta de 584.1 EUR (original: 799.0 EUR) en el siguiente enlace!

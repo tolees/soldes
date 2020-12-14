@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08HD9TQC2/?tag=tolees0d-21'
 descuento: '28.59'
+average: '9.99'
 ---
 
 Está [LEBE Coque pour Xiaomi Redmi Note 9 Pro Housse en Cuir Xiaomi Redmi Note 9S Étui Téléphone [Porte-Cartes de Crédit] [Fermeture Magnétique] pour Xiaomi Redmi Note 9 Pro/Redmi Note 9S- Noir](https://www.amazon.fr/dp/B08HD9TQC2/?tag=tolees0d-21) con 28.59 de descuento por 9.99 EUR (original: 13.99 EUR) en el siguiente enlace!

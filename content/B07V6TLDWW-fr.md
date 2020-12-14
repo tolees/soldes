@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07V6TLDWW/?tag=tolees0d-21'
 descuento: '39.99'
+average: '53.95'
 ---
 
 Está [Tommy Hilfiger Iconic Material Mix Runner  Sneakers Basses Homme  Gris  Antique Silver Prt   42 EU](https://www.amazon.fr/dp/B07V6TLDWW/?tag=tolees0d-21) con 39.99 de descuento por 53.95 EUR (original: 89.9 EUR) en el siguiente enlace!

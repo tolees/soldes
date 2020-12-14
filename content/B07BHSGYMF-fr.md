@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BHSGYMF/?tag=tolees0d-21'
 descuento: '54.22'
+average: '113.99'
 ---
 
 Está [Cube lumineux enceinte bluetooth sans fil LED blanc/multicolore dimmable CARRY PLAY 40cm avec télécommande](https://www.amazon.fr/dp/B07BHSGYMF/?tag=tolees0d-21) con 54.22 de descuento por 113.99 EUR (original: 249.0 EUR) en el siguiente enlace!

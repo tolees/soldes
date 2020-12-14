@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B074YC7Q6H/?tag=tolees0d-21'
 descuento: '60.00'
+average: '241.92'
 ---
 
 Tienes [Saint Honoré Femme Analogique Quartz Montre avec Bracelet en Cuir 7210238YADR](https://www.amazon.fr/dp/B074YC7Q6H/?tag=tolees0d-21) con un 60.00 % de descuento con precio de oferta de 241.92 EUR (original: 604.8 EUR) en el siguiente enlace!

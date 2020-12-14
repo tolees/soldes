@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01CIEBU22/?tag=tolees0d-21'
 descuento: '41.76'
+average: '23.29'
 ---
 
 Ahora mismo tienes [SanDisk iXpand 32 Go - Clé USB double connectique pour sauvegarde iPhone et iPad](https://www.amazon.fr/dp/B01CIEBU22/?tag=tolees0d-21) a 23.29 EUR (original: 39.99 EUR) (41.76 %  de descuento) en el siguiente enlace!

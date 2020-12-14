@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082J3Z6JD/?tag=tolees0d-21'
 descuento: '26.99'
+average: '159.9'
 ---
 
 Está [Britax Römer Poussette citadine | Naissance à 4 ans |  B-AGILE M | Navy Ink](https://www.amazon.fr/dp/B082J3Z6JD/?tag=tolees0d-21) con 26.99 de descuento por 159.9 EUR (original: 219.0 EUR) en el siguiente enlace!

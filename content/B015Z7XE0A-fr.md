@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015Z7XE0A/?tag=tolees0d-21'
 descuento: '25.41'
+average: '11.215'
 ---
 
 Está [NONDA - USB-C/USB Mini-Adaptateur pour MacBooks | Samsung | Chromebook | OnePlus2 | USB 3.0 | Transfert de Données Rapide | Accessoires pour Ordinateur Portable | Aluminium - Métallique - Gris](https://www.amazon.fr/dp/B015Z7XE0A/?tag=tolees0d-21) con 25.41 de descuento por 11.27 EUR (original: 15.11 EUR) en el siguiente enlace!

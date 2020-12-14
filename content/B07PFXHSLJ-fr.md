@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PFXHSLJ/?tag=tolees0d-21'
 descuento: '61.12'
+average: '66.07'
 ---
 
 Está [Pikolinos Bottines en Cuir Le Mans 838](https://www.amazon.fr/dp/B07PFXHSLJ/?tag=tolees0d-21) con 61.12 de descuento por 66.07 EUR (original: 169.95 EUR) en el siguiente enlace!

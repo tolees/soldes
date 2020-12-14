@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08HLP97WK/?tag=tolees0d-21'
 descuento: '30.24'
+average: '29.99'
 ---
 
 Tienes [Dittzz Tank Militaire Jouet  Char Jeu de Construction  508 Pièces Blocs de Construction Compatible avec Lego Cadeau pour Enfants et Adultes](https://www.amazon.fr/dp/B08HLP97WK/?tag=tolees0d-21) con un 30.24 % de descuento con precio de oferta de 29.99 EUR (original: 42.99 EUR) en el siguiente enlace!

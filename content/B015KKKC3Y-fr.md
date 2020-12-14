@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015KKKC3Y/?tag=tolees0d-21'
 descuento: '44.00'
+average: '25.2'
 ---
 
 Tienes [Kappa Rocket  Baskets Basses Mixte Adulte  Noir  Black/White 1110   46 EU](https://www.amazon.fr/dp/B015KKKC3Y/?tag=tolees0d-21) con un 44.00 % de descuento con precio de oferta de 25.2 EUR (original: 45.0 EUR) en el siguiente enlace!

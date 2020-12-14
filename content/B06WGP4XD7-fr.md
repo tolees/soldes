@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21'
 descuento: '28.01'
+average: '17.99'
 ---
 
 Ahora mismo tienes [PlayStation 2 Console de Jeux Noir Portefeuille](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21) a 17.99 EUR (original: 24.99 EUR) (28.01 %  de descuento) en el siguiente enlace!

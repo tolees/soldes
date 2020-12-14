@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N9UVP8I/?tag=tolees0d-21'
 descuento: '55.16'
+average: '44.8'
 ---
 
 Tienes [Geox Uomo Symbol B  Sneakers Basses Homme  Noir  Black   39 EU](https://www.amazon.fr/dp/B01N9UVP8I/?tag=tolees0d-21) con un 55.16 % de descuento con precio de oferta de 44.8 EUR (original: 99.9 EUR) en el siguiente enlace!

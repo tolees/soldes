@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B071N9PJMW/?tag=tolees0d-21'
 descuento: '77.78'
+average: '65.56'
 ---
 
 Ahora mismo tienes [Louis Villiers Mixte Adulte Analogique Quartz Montre avec Bracelet en Acier Inoxydable LV1013](https://www.amazon.fr/dp/B071N9PJMW/?tag=tolees0d-21) a 65.56 EUR (original: 295.0 EUR) (77.78 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MZJHBF4/?tag=tolees0d-21'
 descuento: '55.62'
+average: '70.99'
 ---
 
 Ahora mismo tienes [PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Femmes  Gris  Caribou 381   41 EU](https://www.amazon.fr/dp/B07MZJHBF4/?tag=tolees0d-21) a 70.99 EUR (original: 159.95 EUR) (55.62 %  de descuento) en el siguiente enlace!

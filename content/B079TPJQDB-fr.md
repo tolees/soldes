@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B079TPJQDB/?tag=tolees0d-21'
 descuento: '33.31'
+average: '19.997500000000002'
 ---
 
 Está [Monopoly Tricheurs - Jeu de societe - Jeu de plateau - Version française](https://www.amazon.fr/dp/B079TPJQDB/?tag=tolees0d-21) con 33.31 de descuento por 20.0 EUR (original: 29.99 EUR) en el siguiente enlace!

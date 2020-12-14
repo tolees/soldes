@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DC96YF3/?tag=tolees0d-21'
 descuento: '35.02'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Torche Lampe de Poche LED Rechargeable JUNKER Lampe Torche led 2000 Lumens Super Grande Lampe de Torche Militaire Tactique 5 Modes Ajustable Zoomable étanche Lampe Torche 18650 batterie incluse ](https://www.amazon.fr/dp/B08DC96YF3/?tag=tolees0d-21) a 12.99 EUR (original: 19.99 EUR) (35.02 %  de descuento) en el siguiente enlace!

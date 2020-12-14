@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07G5PMP3G/?tag=tolees0d-21'
 descuento: '47.53'
+average: '104.41'
 ---
 
 Tienes [Fossil Montre Connectée FTW1161](https://www.amazon.fr/dp/B07G5PMP3G/?tag=tolees0d-21) con un 47.53 % de descuento con precio de oferta de 104.41 EUR (original: 199.0 EUR) en el siguiente enlace!

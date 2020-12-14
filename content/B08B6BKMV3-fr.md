@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08B6BKMV3/?tag=tolees0d-21'
 descuento: '32.21'
+average: '18.98'
 ---
 
 Ahora mismo tienes [OUPOD Clavier numérique Bluetooth  Pavé Numérique sans Fil  Portable  Ultra Fin  28 Touches pour iMac  MacBook  Ordinateurs de Bureau et appareils Bluetooth  Noir](https://www.amazon.fr/dp/B08B6BKMV3/?tag=tolees0d-21) a 18.98 EUR (original: 28.0 EUR) (32.21 %  de descuento) en el siguiente enlace!

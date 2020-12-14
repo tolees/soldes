@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XX594ML/?tag=tolees0d-21'
 descuento: '55.57'
+average: '39.99'
 ---
 
 Tienes [New Balance WL574  Baskets Femme  Bleu  Navy  40 EU](https://www.amazon.fr/dp/B06XX594ML/?tag=tolees0d-21) con un 55.57 % de descuento con precio de oferta de 39.99 EUR (original: 90.0 EUR) en el siguiente enlace!

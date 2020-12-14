@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00GY4XH60/?tag=tolees0d-21'
 descuento: '48.77'
+average: '30.73'
 ---
 
 Está [PKparis K 1 Clé USB 3.0 64 Go Blanc](https://www.amazon.fr/dp/B00GY4XH60/?tag=tolees0d-21) con 48.77 de descuento por 30.73 EUR (original: 59.99 EUR) en el siguiente enlace!

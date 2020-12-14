@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015G1ERYW/?tag=tolees0d-21'
 descuento: '68.81'
+average: '49.91'
 ---
 
 Está [DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil  Bleu  Blau   53.0 Homme](https://www.amazon.fr/dp/B015G1ERYW/?tag=tolees0d-21) con 68.81 de descuento por 49.91 EUR (original: 160.0 EUR) en el siguiente enlace!

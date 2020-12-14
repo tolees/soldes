@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ND83D6D/?tag=tolees0d-21'
 descuento: '60.31'
+average: '51.2'
 ---
 
 Tienes [Replay Grover Jean Droit   Medium Blue 9   W30/L36  Taille Fabricant: 30  Homme](https://www.amazon.fr/dp/B07ND83D6D/?tag=tolees0d-21) con un 60.31 % de descuento con precio de oferta de 51.2 EUR (original: 129.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000KJOP5C/?tag=tolees0d-21'
 descuento: '27.03'
+average: '6.56'
 ---
 
 Ahora mismo tienes [HERMA - Film couvre-livres  400 mm x 10 m  en PP  transparent non autocollant  7386 ](https://www.amazon.fr/dp/B000KJOP5C/?tag=tolees0d-21) a 6.56 EUR (original: 8.99 EUR) (27.03 %  de descuento) en el siguiente enlace!

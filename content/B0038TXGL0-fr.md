@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0038TXGL0/?tag=tolees0d-21'
 descuento: '32.35'
+average: '14.22'
 ---
 
 Ahora mismo tienes [Shea Moisture - Noix de Coco & Hibiscus Curl & Shine Shampooing - 384 ml](https://www.amazon.fr/dp/B0038TXGL0/?tag=tolees0d-21) a 14.22 EUR (original: 21.02 EUR) (32.35 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B083SG6VGL/?tag=tolees0d-21'
 descuento: '31.07'
+average: '33.589999999999996'
 ---
 
 Ahora mismo tienes [Gomyhom Rose  24K Rose Plaqué Or  élégante Fleur Romantique éternelle avec Boîte Cadeau de Idéal pour Amie Saint Valentin  Fête des Mères  Anniversaire  Mariage  Gros Rouge ](https://www.amazon.fr/dp/B083SG6VGL/?tag=tolees0d-21) a 32.99 EUR (original: 47.86 EUR) (31.07 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KK12MT3/?tag=tolees0d-21'
 descuento: '38.10'
+average: '65.0'
 ---
 
 Está [Kickers - KICK COL 621514-30-92 - Bottes & bottines souples  Unisexe - Marron  Marron Fonce Perm 92  - 38 EU](https://www.amazon.fr/dp/B07KK12MT3/?tag=tolees0d-21) con 38.10 de descuento por 65.0 EUR (original: 105.0 EUR) en el siguiente enlace!

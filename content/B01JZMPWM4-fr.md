@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01JZMPWM4/?tag=tolees0d-21'
 descuento: '42.59'
+average: '42.5'
 ---
 
 Ahora mismo tienes [Timberland Killington  Bottes & Bottines Classiques Mixte Enfant  Bleu  Black Iris Nubuck 19   38 EU](https://www.amazon.fr/dp/B01JZMPWM4/?tag=tolees0d-21) a 42.5 EUR (original: 74.03 EUR) (42.59 %  de descuento) en el siguiente enlace!

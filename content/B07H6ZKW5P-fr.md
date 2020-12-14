@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07H6ZKW5P/?tag=tolees0d-21'
 descuento: '71.53'
+average: '19.9'
 ---
 
 Tienes [Disney Aladdin Bracelet à Breloques plaqué Or Blanc Jasmine Princesse](https://www.amazon.fr/dp/B07H6ZKW5P/?tag=tolees0d-21) con un 71.53 % de descuento con precio de oferta de 19.9 EUR (original: 69.9 EUR) en el siguiente enlace!

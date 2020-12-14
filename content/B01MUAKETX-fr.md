@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MUAKETX/?tag=tolees0d-21'
 descuento: '60.30'
+average: '79.0'
 ---
 
 Está [Sennheiser M2 IEBT Micro-Casque Momentum Sans fil Intra-Auriculaire  Noir](https://www.amazon.fr/dp/B01MUAKETX/?tag=tolees0d-21) con 60.30 de descuento por 79.0 EUR (original: 199.0 EUR) en el siguiente enlace!
@@ -24,10 +25,10 @@ Está [Sennheiser M2 IEBT Micro-Casque Momentum Sans fil Intra-Auriculaire  Noir
 
 ℹ️:
 
+- 10 heures dautonomie sur batterie avec recharge USB rapide en 1,5 heure
 - Précision acoustique supérieure et le son caractéristique Momentum
 - Conception tour de cou ergonomique et robuste pour lécoute tout au long de la journée
 - Appairage NFC par simple contact pour une connexion immédiate aux appareils intelligents
 - Technologie sans fil Bluetooth 4.1
-- 10 heures dautonomie sur batterie avec recharge USB rapide en 1,5 heure
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01MUAKETX/?tag=tolees0d-21)

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JMYSX4T/?tag=tolees0d-21'
 descuento: '55.45'
+average: '109.41333333333334'
 ---
 
 Ahora mismo tienes [Bulova Montres Bracelet 97B172](https://www.amazon.fr/dp/B07JMYSX4T/?tag=tolees0d-21) a 94.87 EUR (original: 212.96 EUR) (55.45 %  de descuento) en el siguiente enlace!

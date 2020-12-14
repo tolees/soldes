@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01BK2TMK0/?tag=tolees0d-21'
 descuento: '36.93'
+average: '48.96'
 ---
 
 Tienes [LEGO-DUPLO L’île tropicale Pour Tout Petits  Fille et Garçon dès 2 Ans  73 Pièces 6 animaux 10906](https://www.amazon.fr/dp/B01BK2TMK0/?tag=tolees0d-21) con un 36.93 % de descuento con precio de oferta de 40.99 EUR (original: 64.99 EUR) en el siguiente enlace!

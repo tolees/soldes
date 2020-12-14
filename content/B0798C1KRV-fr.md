@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0798C1KRV/?tag=tolees0d-21'
 descuento: '33.95'
+average: '111.63'
 ---
 
 Está [LIVALL Bh60se Musik  Rücklicht  Blinker  Navigation  Anruffunktion Und Sos-System Casque de vélo Mixte  Blanc  55-61cm](https://www.amazon.fr/dp/B0798C1KRV/?tag=tolees0d-21) con 33.95 de descuento por 111.63 EUR (original: 169.0 EUR) en el siguiente enlace!

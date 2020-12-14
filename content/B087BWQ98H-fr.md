@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B087BWQ98H/?tag=tolees0d-21'
 descuento: '65.24'
+average: '23.98'
 ---
 
 Ahora mismo tienes [VICTOOM Electrostimulateur Musculaire  EMS Stimulateur Ceinture Abdominale Electrostimulation ABS Stimulateur Musculaire Femme Homme Entraînement Abdominal pour Abdomen Bras Jambes](https://www.amazon.fr/dp/B087BWQ98H/?tag=tolees0d-21) a 23.98 EUR (original: 68.98 EUR) (65.24 %  de descuento) en el siguiente enlace!

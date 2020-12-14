@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DJ28JBW/?tag=tolees0d-21'
 descuento: '28.89'
+average: '63.99'
 ---
 
 Tienes [Disque Dur Externe 2to Disque Dur Externe USB3.0-2.5’’ pour Mac  PC  Windows  MacBook  Ordinateur de Bureau  Xbox One  2to Rouge ](https://www.amazon.fr/dp/B08DJ28JBW/?tag=tolees0d-21) con un 28.89 % de descuento con precio de oferta de 63.99 EUR (original: 89.99 EUR) en el siguiente enlace!

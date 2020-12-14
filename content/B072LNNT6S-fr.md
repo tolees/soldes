@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B072LNNT6S/?tag=tolees0d-21'
 descuento: '56.26'
+average: '25.984999999999996'
 ---
 
 Tienes [Crocs Specialist Ii Clog  Sabots Mixte Adulte  Bleu  Navy  39/40 EU](https://www.amazon.fr/dp/B072LNNT6S/?tag=tolees0d-21) con un 56.26 % de descuento con precio de oferta de 17.49 EUR (original: 39.99 EUR) en el siguiente enlace!

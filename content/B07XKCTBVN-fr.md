@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XKCTBVN/?tag=tolees0d-21'
 descuento: '50.01'
+average: '46.32333333333334'
 ---
 
 Está [Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45 Heures] Pliable Casque Bluetooth avec Micro Intégré Anti Bruit CVC 6.0 Charge Rapide avec Étui Portable pour Cours en Ligne/Téléphone/PC](https://www.amazon.fr/dp/B07XKCTBVN/?tag=tolees0d-21) con 50.01 de descuento por 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21'
 descuento: '27.06'
+average: '91.9'
 ---
 
 Ahora mismo tienes [Learning Resources Kit pour la Classe de Base 10 en Plastique rainuré  LER0932](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21) a 91.9 EUR (original: 126.0 EUR) (27.06 %  de descuento) en el siguiente enlace!

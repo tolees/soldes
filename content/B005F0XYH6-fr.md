@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B005F0XYH6/?tag=tolees0d-21'
 descuento: '69.06'
+average: '77.04'
 ---
 
 Ahora mismo tienes [Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135 Lunettes de Soleil  Noir  Schwarz   54.0 Mixte Adulte](https://www.amazon.fr/dp/B005F0XYH6/?tag=tolees0d-21) a 77.04 EUR (original: 249.0 EUR) (69.06 %  de descuento) en el siguiente enlace!

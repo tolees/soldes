@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BF7KGC1/?tag=tolees0d-21'
 descuento: '53.72'
+average: '37.02'
 ---
 
 Tienes [s.Oliver BLACK LABEL 02.899.73.4420 Pantalon De Costume  Bleu  Dark Blue 5884   W22  Taille Fabricant: 52  Homme](https://www.amazon.fr/dp/B07BF7KGC1/?tag=tolees0d-21) con un 53.72 % de descuento con precio de oferta de 37.02 EUR (original: 79.99 EUR) en el siguiente enlace!

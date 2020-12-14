@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NR87V4Z/?tag=tolees0d-21'
 descuento: '29.49'
+average: '140.95'
 ---
 
 Ahora mismo tienes [LLOYD Villod Gore-tex  Bottes & Bottines Classiques Homme  Noir  Schwarz 0   42 EU](https://www.amazon.fr/dp/B07NR87V4Z/?tag=tolees0d-21) a 140.95 EUR (original: 199.9 EUR) (29.49 %  de descuento) en el siguiente enlace!

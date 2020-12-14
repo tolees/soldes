@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N0OVJJO/?tag=tolees0d-21'
 descuento: '30.94'
+average: '27.28'
 ---
 
 Está [Ahava Deadsea Salt Body Firming Duo  Body Shaper  200 ml + Crème pour le corps  200 ml ](https://www.amazon.fr/dp/B01N0OVJJO/?tag=tolees0d-21) con 30.94 de descuento por 27.28 EUR (original: 39.5 EUR) en el siguiente enlace!

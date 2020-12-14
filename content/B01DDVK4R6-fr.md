@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01DDVK4R6/?tag=tolees0d-21'
 descuento: '53.35'
+average: '69.95'
 ---
 
 Ahora mismo tienes [Coussin à Mémoire de Forme GIANFAR | Oreiller Cervical Orthopédique et Ergonomique | Mousse Viscoélastique | Idéal pour Dormir sur Le Côté | Taie avec Thermorégulation |  60x40x12/10cm](https://www.amazon.fr/dp/B01DDVK4R6/?tag=tolees0d-21) a 69.95 EUR (original: 149.95 EUR) (53.35 %  de descuento) en el siguiente enlace!

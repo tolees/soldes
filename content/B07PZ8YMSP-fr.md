@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PZ8YMSP/?tag=tolees0d-21'
 descuento: '50.87'
+average: '44.22'
 ---
 
 Tienes [AUBADE  Soutien-gorge push-up coussinet  Bretelles réglables  AU BAL DE FLORE  Blanc  85E  OF18](https://www.amazon.fr/dp/B07PZ8YMSP/?tag=tolees0d-21) con un 50.87 % de descuento con precio de oferta de 44.22 EUR (original: 90.0 EUR) en el siguiente enlace!

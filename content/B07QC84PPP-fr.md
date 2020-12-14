@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QC84PPP/?tag=tolees0d-21'
 descuento: '33.05'
+average: '17.51'
 ---
 
 Está [Pentel SESF30C Brush Sign Pen Artist Feutre Pinceau Pointe Extra Fine pochette Funny x6 Couleurs](https://www.amazon.fr/dp/B07QC84PPP/?tag=tolees0d-21) con 33.05 de descuento por 15.74 EUR (original: 23.51 EUR) en el siguiente enlace!

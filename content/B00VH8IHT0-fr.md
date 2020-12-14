@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21'
 descuento: '58.51'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes et Corps.](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21) a 49.99 EUR (original: 120.5 EUR) (58.51 %  de descuento) en el siguiente enlace!

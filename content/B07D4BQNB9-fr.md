@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07D4BQNB9/?tag=tolees0d-21'
 descuento: '40.98'
+average: '32.99'
 ---
 
 Ahora mismo tienes [Monrinda Unisex Chaussure de Sport Femme Basket de Running Fitness Course Homme Sneakers Jogging Casual](https://www.amazon.fr/dp/B07D4BQNB9/?tag=tolees0d-21) a 32.99 EUR (original: 55.9 EUR) (40.98 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00THOYRN6/?tag=tolees0d-21'
 descuento: '27.75'
+average: '979.0'
 ---
 
 Tienes [Sigma Objectif 150-600 mm F5-6.3 DG OS HSM Contemporary - Monture Canon](https://www.amazon.fr/dp/B00THOYRN6/?tag=tolees0d-21) con un 27.75 % de descuento con precio de oferta de 979.0 EUR (original: 1355.0 EUR) en el siguiente enlace!

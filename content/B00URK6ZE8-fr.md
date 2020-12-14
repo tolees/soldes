@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00URK6ZE8/?tag=tolees0d-21'
 descuento: '42.86'
+average: '204.565'
 ---
 
 Ahora mismo tienes [Remington IPL6750 Epilateur Lumière Pulsée 300000 Flashs I-Light  Epilation Définitive Corps Visage Maillot - Rose](https://www.amazon.fr/dp/B00URK6ZE8/?tag=tolees0d-21) a 199.99 EUR (original: 349.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

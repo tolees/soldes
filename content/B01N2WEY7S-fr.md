@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N2WEY7S/?tag=tolees0d-21'
 descuento: '30.02'
+average: '49.43333333333333'
 ---
 
 Está [Reebok Club C 85  Sneakers Basses Homme - Blanc  Intense White/Green 0  - 42.5 EU](https://www.amazon.fr/dp/B01N2WEY7S/?tag=tolees0d-21) con 30.02 de descuento por 55.95 EUR (original: 79.95 EUR) en el siguiente enlace!

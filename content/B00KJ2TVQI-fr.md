@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00KJ2TVQI/?tag=tolees0d-21'
 descuento: '46.81'
+average: '65.95'
 ---
 
 Ahora mismo tienes [Nike Air Max Thea  Chaussures de Running Femme  Noir  Black/White 028   37.5 EU](https://www.amazon.fr/dp/B00KJ2TVQI/?tag=tolees0d-21) a 65.95 EUR (original: 124.0 EUR) (46.81 %  de descuento) en el siguiente enlace!

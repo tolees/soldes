@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21'
 descuento: '50.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21) a 19.99 EUR (original: 39.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

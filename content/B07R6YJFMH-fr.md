@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07R6YJFMH/?tag=tolees0d-21'
 descuento: '39.20'
+average: '6.05'
 ---
 
 Está [St Marc  Lingettes Desinfectantes et Nettoyantes Parfum Agrumes Soleil de Corse - 200 lingettes](https://www.amazon.fr/dp/B07R6YJFMH/?tag=tolees0d-21) con 39.20 de descuento por 6.05 EUR (original: 9.95 EUR) en el siguiente enlace!

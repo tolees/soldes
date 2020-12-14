@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YLBCS8C/?tag=tolees0d-21'
 descuento: '38.86'
+average: '61.13'
 ---
 
 Tienes [s.Oliver BLACK LABEL 01.899.82.6408 Robe  Noir  Black AOP 99e7   48  Taille Fabricant: 46  Femme](https://www.amazon.fr/dp/B07YLBCS8C/?tag=tolees0d-21) con un 38.86 % de descuento con precio de oferta de 61.13 EUR (original: 99.99 EUR) en el siguiente enlace!

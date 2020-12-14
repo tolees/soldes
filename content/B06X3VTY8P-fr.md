@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21'
 descuento: '60.01'
+average: '19.99'
 ---
 
 Ahora mismo tienes [GreedFall](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

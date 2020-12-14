@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B072FHVFWK/?tag=tolees0d-21'
 descuento: '62.51'
+average: '29.99'
 ---
 
 Tienes [Otterbox Batterie externe Powerbank 20 000 mAh](https://www.amazon.fr/dp/B072FHVFWK/?tag=tolees0d-21) con un 62.51 % de descuento con precio de oferta de 29.99 EUR (original: 79.99 EUR) en el siguiente enlace!

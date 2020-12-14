@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KYW4HS4/?tag=tolees0d-21'
 descuento: '36.26'
+average: '67.52'
 ---
 
 Tienes [INFOSEC- Onduleur Z1 Zenergy Cube EX 400 VA  3 prises secourues  Noir](https://www.amazon.fr/dp/B07KYW4HS4/?tag=tolees0d-21) con un 36.26 % de descuento con precio de oferta de 65.09 EUR (original: 102.12 EUR) en el siguiente enlace!

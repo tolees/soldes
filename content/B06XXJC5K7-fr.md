@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XXJC5K7/?tag=tolees0d-21'
 descuento: '39.34'
+average: '53.99'
 ---
 
 Tienes [Astone Helmets - Casque de moto MINI CROSS monocolor - Casque jet au look enduro - Casque de moto look cross - casque de ville compact - matt black M](https://www.amazon.fr/dp/B06XXJC5K7/?tag=tolees0d-21) con un 39.34 % de descuento con precio de oferta de 53.99 EUR (original: 89.0 EUR) en el siguiente enlace!

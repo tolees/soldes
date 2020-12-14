@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01NALIZ0W/?tag=tolees0d-21'
 descuento: '47.44'
+average: '65.04'
 ---
 
 Está [Bébé Confort Sac à Langer Black Raven](https://www.amazon.fr/dp/B01NALIZ0W/?tag=tolees0d-21) con 47.44 de descuento por 65.04 EUR (original: 123.75 EUR) en el siguiente enlace!

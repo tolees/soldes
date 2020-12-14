@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00ZCMIGJS/?tag=tolees0d-21'
 descuento: '55.38'
+average: '116.0'
 ---
 
 Tienes [Fendi Brillengestelle FF 0110 H1T/16-53-16-135 Lunettes de Soleil  Rouge  Rot   53.0 Femme](https://www.amazon.fr/dp/B00ZCMIGJS/?tag=tolees0d-21) con un 55.38 % de descuento con precio de oferta de 116.0 EUR (original: 260.0 EUR) en el siguiente enlace!

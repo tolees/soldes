@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B076MJY7B1/?tag=tolees0d-21'
 descuento: '26.37'
+average: '21.348947368421054'
 ---
 
 Tienes [Fisher-Price Puppy Eveil Progressif jouet bébé  peluche interactive  plus de 50 chansons et 3 niveaux d apprentissage  version française  6 mois et plus  FPM44](https://www.amazon.fr/dp/B076MJY7B1/?tag=tolees0d-21) con un 26.37 % de descuento con precio de oferta de 18.4 EUR (original: 24.99 EUR) en el siguiente enlace!

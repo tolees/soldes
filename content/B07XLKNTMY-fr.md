@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XLKNTMY/?tag=tolees0d-21'
 descuento: '56.02'
+average: '21.99'
 ---
 
 Está [SAIAOBO Mandoline Coupe-Légumes 13 en 1  Trancheur de Légumes  Légumes Râpés  Hachoir de Graterie de Cuisine Multifonction à 7 Lames Réglable pour Trancher  Couper Les Légumes et râper](https://www.amazon.fr/dp/B07XLKNTMY/?tag=tolees0d-21) con 56.02 de descuento por 21.99 EUR (original: 50.0 EUR) en el siguiente enlace!

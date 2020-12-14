@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VCJT7VX/?tag=tolees0d-21'
 descuento: '63.28'
+average: '58.73'
 ---
 
 Ahora mismo tienes [camel active Womenswear Jacke Jacket  Vert  Menthe poivrée 39   46 Femme](https://www.amazon.fr/dp/B07VCJT7VX/?tag=tolees0d-21) a 58.73 EUR (original: 159.95 EUR) (63.28 %  de descuento) en el siguiente enlace!

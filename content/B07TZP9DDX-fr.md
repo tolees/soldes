@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TZP9DDX/?tag=tolees0d-21'
 descuento: '40.10'
+average: '11.95'
 ---
 
 Está [Disney Enfants Coco Sac à Dos](https://www.amazon.fr/dp/B07TZP9DDX/?tag=tolees0d-21) con 40.10 de descuento por 11.95 EUR (original: 19.95 EUR) en el siguiente enlace!

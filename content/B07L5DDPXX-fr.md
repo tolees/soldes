@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07L5DDPXX/?tag=tolees0d-21'
 descuento: '27.79'
+average: '25.99'
 ---
 
 Tienes [Microsoft – Modern Mobile Mouse – Souris Bluetooth pour PC  ordinateurs portables  tablettes compatible Windows  macOS  Chrome OS  fine  légère  transportable  – Noire  KTF-00002 ](https://www.amazon.fr/dp/B07L5DDPXX/?tag=tolees0d-21) con un 27.79 % de descuento con precio de oferta de 25.99 EUR (original: 35.99 EUR) en el siguiente enlace!

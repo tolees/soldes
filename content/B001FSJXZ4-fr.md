@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B001FSJXZ4/?tag=tolees0d-21'
 descuento: '39.34'
+average: '53.99'
 ---
 
 Ahora mismo tienes [Delonghi V550715 Bain d huile serie vento  Blanc](https://www.amazon.fr/dp/B001FSJXZ4/?tag=tolees0d-21) a 53.99 EUR (original: 89.0 EUR) (39.34 %  de descuento) en el siguiente enlace!

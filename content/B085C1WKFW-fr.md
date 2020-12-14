@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B085C1WKFW/?tag=tolees0d-21'
 descuento: '64.60'
+average: '17.089999999999996'
 ---
 
 Ahora mismo tienes [Oacvien Récepteur Bluetooth 5.0 Adaptateur  Émetteur Récepteur Bluetooth 2-en-1Transmetteur Audio Bluetooth Sortie Stéréo RCA & 3.5mm  Faible Latence  pour Casque Voiture/TV/PC/Voiture Système Audio](https://www.amazon.fr/dp/B085C1WKFW/?tag=tolees0d-21) a 16.14 EUR (original: 45.59 EUR) (64.60 %  de descuento) en el siguiente enlace!

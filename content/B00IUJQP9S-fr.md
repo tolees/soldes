@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00IUJQP9S/?tag=tolees0d-21'
 descuento: '25.13'
+average: '186.43'
 ---
 
 Tienes [BERING Montre 33440-227](https://www.amazon.fr/dp/B00IUJQP9S/?tag=tolees0d-21) con un 25.13 % de descuento con precio de oferta de 186.43 EUR (original: 249.0 EUR) en el siguiente enlace!

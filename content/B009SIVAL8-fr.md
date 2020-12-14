@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B009SIVAL8/?tag=tolees0d-21'
 descuento: '41.34'
+average: '105.0'
 ---
 
 Ahora mismo tienes [Samsonite S Cure - Spinner S Bagage à Main  55 cm  34 L  Blue  Aqua Blue ](https://www.amazon.fr/dp/B009SIVAL8/?tag=tolees0d-21) a 105.0 EUR (original: 179.0 EUR) (41.34 %  de descuento) en el siguiente enlace!

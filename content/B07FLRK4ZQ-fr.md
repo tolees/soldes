@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FLRK4ZQ/?tag=tolees0d-21'
 descuento: '28.34'
+average: '42.99'
 ---
 
 Ahora mismo tienes [David Jones - Grand Sac à Main Femme - Cabas Fourre-Tout Cuir PU Rigide - Sac Elégant Ville Travail Poches Multiples - Shopper Porté Epaule Bandoulière Grande Capacité A4 - Mode Chic - Noir](https://www.amazon.fr/dp/B07FLRK4ZQ/?tag=tolees0d-21) a 42.99 EUR (original: 59.99 EUR) (28.34 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NR8SBRY/?tag=tolees0d-21'
 descuento: '32.65'
+average: '64.66'
 ---
 
 Tienes [Eminence Heritage Ensemble de Pyjama  Bleu  Bleu Rayure 2286   XXX-Large  Taille Fabricant:7  Homme](https://www.amazon.fr/dp/B07NR8SBRY/?tag=tolees0d-21) con un 32.65 % de descuento con precio de oferta de 64.66 EUR (original: 96.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Y8QWZDW/?tag=tolees0d-21'
 descuento: '28.63'
+average: '49.95'
 ---
 
 Tienes [Souris de jeu sans fil Razer Basilisk X Hyperspeed  souris de jeu sans fil  avec technologie Razer HyperSpeed  capteur optique 5G avancé et 6 boutons configurables ](https://www.amazon.fr/dp/B07Y8QWZDW/?tag=tolees0d-21) con un 28.63 % de descuento con precio de oferta de 49.95 EUR (original: 69.99 EUR) en el siguiente enlace!

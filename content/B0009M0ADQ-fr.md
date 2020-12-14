@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0009M0ADQ/?tag=tolees0d-21'
 descuento: '33.87'
+average: '52.9'
 ---
 
 Tienes [Canon CA-570 Chargeur de batterie pour caméscope Canon](https://www.amazon.fr/dp/B0009M0ADQ/?tag=tolees0d-21) con un 33.87 % de descuento con precio de oferta de 52.9 EUR (original: 79.99 EUR) en el siguiente enlace!

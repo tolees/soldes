@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HQH8XXB/?tag=tolees0d-21'
 descuento: '62.69'
+average: '25.0'
 ---
 
 Tienes [Cadisen Montres pour Homme Minimaliste Mode Noir Montres étanche Calendrier Business Casual pour Homme Poignet Montres avec lanière de Cuir](https://www.amazon.fr/dp/B07HQH8XXB/?tag=tolees0d-21) con un 62.69 % de descuento con precio de oferta de 25.0 EUR (original: 67.0 EUR) en el siguiente enlace!

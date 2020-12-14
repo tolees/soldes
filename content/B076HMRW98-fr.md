@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B076HMRW98/?tag=tolees0d-21'
 descuento: '30.16'
+average: '27.919999999999998'
 ---
 
 Tienes [adidas Core 18 Hoody Sweat-Shirt à Capuche Homme Black/White FR: S  Taille Fabricant: S ](https://www.amazon.fr/dp/B076HMRW98/?tag=tolees0d-21) con un 30.16 % de descuento con precio de oferta de 27.9 EUR (original: 39.95 EUR) en el siguiente enlace!

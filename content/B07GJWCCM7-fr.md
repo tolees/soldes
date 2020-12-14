@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GJWCCM7/?tag=tolees0d-21'
 descuento: '42.86'
+average: '187.27'
 ---
 
 Ahora mismo tienes [Philips HR2382/10 Machine à Pâtes Automatique  Balance Intégrée  Huit Disques de Forme  Noir](https://www.amazon.fr/dp/B07GJWCCM7/?tag=tolees0d-21) a 159.99 EUR (original: 279.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

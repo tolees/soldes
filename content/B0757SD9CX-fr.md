@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0757SD9CX/?tag=tolees0d-21'
 descuento: '39.10'
+average: '63.61'
 ---
 
 Está [Game of Thrones  Le Trône de Fer  - L intégrale des saisons 1 à 7 - Blu-ray - HBO [BLURAY] [BLURAY]](https://www.amazon.fr/dp/B0757SD9CX/?tag=tolees0d-21) con 39.10 de descuento por 54.99 EUR (original: 90.3 EUR) en el siguiente enlace!

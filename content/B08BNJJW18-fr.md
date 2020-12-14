@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21'
 descuento: '43.01'
+average: '29.99'
 ---
 
 Ahora mismo tienes [YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps 8K 4K DP Switch 1.4 Splitter 8 K.](https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21) a 29.99 EUR (original: 52.62 EUR) (43.01 %  de descuento) en el siguiente enlace!

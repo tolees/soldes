@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GPNB1LZ/?tag=tolees0d-21'
 descuento: '45.69'
+average: '37.99'
 ---
 
 Ahora mismo tienes [Skechers Men s Moreno Trainers  Beige  Taupe TPE   6.5 UK 40 EU](https://www.amazon.fr/dp/B07GPNB1LZ/?tag=tolees0d-21) a 37.99 EUR (original: 69.95 EUR) (45.69 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21'
 descuento: '38.20'
+average: '67.98'
 ---
 
 Ahora mismo tienes [Levi s 511 Slim Fit – Jeans pour hommes à coupe ajustée avec stretch Bleu  Aegean Adapt 3407  33W/32L](https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21) a 67.98 EUR (original: 110.0 EUR) (38.20 %  de descuento) en el siguiente enlace!

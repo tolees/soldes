@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N6X2SXW/?tag=tolees0d-21'
 descuento: '57.25'
+average: '76.9'
 ---
 
 Tienes [Tommy Hilfiger Cosy High Heel Leather Bootie  Botines Femme   Black 990   38 EU](https://www.amazon.fr/dp/B07N6X2SXW/?tag=tolees0d-21) con un 57.25 % de descuento con precio de oferta de 76.9 EUR (original: 179.9 EUR) en el siguiente enlace!

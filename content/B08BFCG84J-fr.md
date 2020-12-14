@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08BFCG84J/?tag=tolees0d-21'
 descuento: '61.56'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Elyco Grips cahoutchoutés  Kit e-Sport avec Grips Mousses de précision de précision et gâchettes quickfire pour Manette/Gâchettes pour PS4/Pro/Xbox/Switch](https://www.amazon.fr/dp/B08BFCG84J/?tag=tolees0d-21) a 9.99 EUR (original: 25.99 EUR) (61.56 %  de descuento) en el siguiente enlace!

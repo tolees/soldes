@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B085DBYQNB/?tag=tolees0d-21'
 descuento: '50.00'
+average: '99.99'
 ---
 
 Está [Perceuse Visseuse Sans Fil Avec 105Pcs Accessoires  2 Batteries 2.0Ah  45Nm Couple  20 Foret pour Perçage  13mm Mandrin Auto-serrant  2 Vitesses  1H Rapide Chargeur-BHD700B](https://www.amazon.fr/dp/B085DBYQNB/?tag=tolees0d-21) con 50.00 de descuento por 99.99 EUR (original: 199.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078HQ5QQJ/?tag=tolees0d-21'
 descuento: '38.77'
+average: '244.93'
 ---
 
 Ahora mismo tienes [Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Contrôle Actif du Bruit   Noir](https://www.amazon.fr/dp/B078HQ5QQJ/?tag=tolees0d-21) a 244.93 EUR (original: 400.0 EUR) (38.77 %  de descuento) en el siguiente enlace!

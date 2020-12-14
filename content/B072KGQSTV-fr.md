@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B072KGQSTV/?tag=tolees0d-21'
 descuento: '58.34'
+average: '24.99'
 ---
 
 Tienes [Mario + The Lapins Crétins: Kingdom Battle](https://www.amazon.fr/dp/B072KGQSTV/?tag=tolees0d-21) con un 58.34 % de descuento con precio de oferta de 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!

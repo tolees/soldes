@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01M216RUP/?tag=tolees0d-21'
 descuento: '42.67'
+average: '85.99'
 ---
 
 Está [Bosch Electroménager MUC22B42FR Multicuiseur  900 W  Anthracite](https://www.amazon.fr/dp/B01M216RUP/?tag=tolees0d-21) con 42.67 de descuento por 85.99 EUR (original: 149.99 EUR) en el siguiente enlace!

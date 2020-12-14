@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FFQGSMM/?tag=tolees0d-21'
 descuento: '35.15'
+average: '38.26'
 ---
 
 Está [Fossil Homme Bracelet JF02934040](https://www.amazon.fr/dp/B07FFQGSMM/?tag=tolees0d-21) con 35.15 de descuento por 38.26 EUR (original: 59.0 EUR) en el siguiente enlace!

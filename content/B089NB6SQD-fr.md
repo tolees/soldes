@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089NB6SQD/?tag=tolees0d-21'
 descuento: '37.92'
+average: '28.99'
 ---
 
 Ahora mismo tienes [FirstE Enceinte Bluetooth Portable sans Fil  Enceintes Flottante avec Lumières Colorées  IPX7 Étanche Haut Parleur de Douche  Son Stéréo Cristallin  Mains Libres Enceinte Spa pour Piscine Fête Plage](https://www.amazon.fr/dp/B089NB6SQD/?tag=tolees0d-21) a 28.99 EUR (original: 46.7 EUR) (37.92 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DXYTDJF/?tag=tolees0d-21'
 descuento: '52.63'
+average: '9.9'
 ---
 
 Ahora mismo tienes [MOONESS Coque Xiaomi Redmi 9 + Verre Trempé Housse en Cuir Xiaomi Redmi 9 Magnetique Flip Case Portefeuille Etui pour Xiaomi Redmi 9 Cover Gris](https://www.amazon.fr/dp/B08DXYTDJF/?tag=tolees0d-21) a 9.9 EUR (original: 20.9 EUR) (52.63 %  de descuento) en el siguiente enlace!

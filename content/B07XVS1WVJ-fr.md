@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XVS1WVJ/?tag=tolees0d-21'
 descuento: '50.90'
+average: '48.12'
 ---
 
 Ahora mismo tienes [L Intervalle NOMERO  Mocassins Femme  Noir  Black Leather 001   40 EU](https://www.amazon.fr/dp/B07XVS1WVJ/?tag=tolees0d-21) a 48.12 EUR (original: 98.0 EUR) (50.90 %  de descuento) en el siguiente enlace!

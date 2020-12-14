@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075S3ZJL5/?tag=tolees0d-21'
 descuento: '58.72'
+average: '78.42'
 ---
 
 Ahora mismo tienes [GORE WEAR C3 GORE WINDSTOPPER PHANTOM Veste zip-off Veste zip-off Homme red/black FR: XL  Taille Fabricant: XL ](https://www.amazon.fr/dp/B075S3ZJL5/?tag=tolees0d-21) a 78.42 EUR (original: 189.95 EUR) (58.72 %  de descuento) en el siguiente enlace!

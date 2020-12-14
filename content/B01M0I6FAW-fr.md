@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01M0I6FAW/?tag=tolees0d-21'
 descuento: '55.65'
+average: '79.83'
 ---
 
 Está [VAUDE  12438 Sac à Dos Femme  Blueberry  52 L](https://www.amazon.fr/dp/B01M0I6FAW/?tag=tolees0d-21) con 55.65 de descuento por 79.83 EUR (original: 180.0 EUR) en el siguiente enlace!

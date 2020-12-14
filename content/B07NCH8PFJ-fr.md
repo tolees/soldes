@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NCH8PFJ/?tag=tolees0d-21'
 descuento: '50.00'
+average: '59.9'
 ---
 
 Tienes [Tommy Hilfiger Th Essential Reg Polo SS  Blanc  Classic White 100   XX-Large Femme](https://www.amazon.fr/dp/B07NCH8PFJ/?tag=tolees0d-21) con un 50.00 % de descuento con precio de oferta de 59.9 EUR (original: 119.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00VLVEAHQ/?tag=tolees0d-21'
 descuento: '28.64'
+average: '99.9'
 ---
 
 Tienes [Playmobil - 5303 - Maison Traditionnelle](https://www.amazon.fr/dp/B00VLVEAHQ/?tag=tolees0d-21) con un 28.64 % de descuento con precio de oferta de 99.9 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00D13RE3O/?tag=tolees0d-21'
 descuento: '48.06'
+average: '205.0'
 ---
 
 Está [Onduleur Eaton Ellipse PRO 1200 FR - Line interactive UPS - ELP1200FR - 1200VA  8 prises FR  - Régulation tension  AVR ](https://www.amazon.fr/dp/B00D13RE3O/?tag=tolees0d-21) con 48.06 de descuento por 205.0 EUR (original: 394.7 EUR) en el siguiente enlace!

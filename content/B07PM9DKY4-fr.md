@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PM9DKY4/?tag=tolees0d-21'
 descuento: '74.01'
+average: '25.99'
 ---
 
 Ahora mismo tienes [Abody Sèche-Cheveux 2200W Ionique  Sèche Cheveux Salon Professionnel avec 2 Vitesses et 3 Températures ÉquiperBouton D’air Froid  Inclus Diffuseur et Concentreur D’air Chaud](https://www.amazon.fr/dp/B07PM9DKY4/?tag=tolees0d-21) a 25.99 EUR (original: 99.99 EUR) (74.01 %  de descuento) en el siguiente enlace!

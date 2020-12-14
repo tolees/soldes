@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00W6ZNETQ/?tag=tolees0d-21'
 descuento: '26.99'
+average: '82.06666666666666'
 ---
 
 Tienes [Riviera-et-Bar QP350A Plancha Extra Large](https://www.amazon.fr/dp/B00W6ZNETQ/?tag=tolees0d-21) con un 26.99 % de descuento con precio de oferta de 73.0 EUR (original: 99.99 EUR) en el siguiente enlace!

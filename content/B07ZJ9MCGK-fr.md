@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZJ9MCGK/?tag=tolees0d-21'
 descuento: '37.79'
+average: '87.09'
 ---
 
 Está [FBSPORT Airtrack 20 cm Épaisseur Air Spot Gonflable  100 cm Tapis de Gymnastique Gonflable  Piste d air Gonflable avec Pompe](https://www.amazon.fr/dp/B07ZJ9MCGK/?tag=tolees0d-21) con 37.79 de descuento por 87.09 EUR (original: 139.99 EUR) en el siguiente enlace!

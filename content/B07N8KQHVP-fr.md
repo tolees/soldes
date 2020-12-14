@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N8KQHVP/?tag=tolees0d-21'
 descuento: '25.73'
+average: '259.95'
 ---
 
 Tienes [Hugo Uptown Bootie55-s  Botines Femme  Noir  Black 001   39 EU](https://www.amazon.fr/dp/B07N8KQHVP/?tag=tolees0d-21) con un 25.73 % de descuento con precio de oferta de 259.95 EUR (original: 350.0 EUR) en el siguiente enlace!

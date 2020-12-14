@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08F1T2PH9/?tag=tolees0d-21'
 descuento: '60.02'
+average: '17.485'
 ---
 
 Ahora mismo tienes [Nativi Troll Bluetooth Écouteurs sans Fil Casques sans Fil de Sport  Bluetooth 5.0 Lecture stéréo 3D Bluetooth in-Ear Écouteurs avec Micro Intégré  Ecouteur Bluetooth Sport pour Gym - Blanc](https://www.amazon.fr/dp/B08F1T2PH9/?tag=tolees0d-21) a 11.99 EUR (original: 29.99 EUR) (60.02 %  de descuento) en el siguiente enlace!

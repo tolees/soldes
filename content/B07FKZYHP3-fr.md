@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FKZYHP3/?tag=tolees0d-21'
 descuento: '37.26'
+average: '37.92'
 ---
 
 Está [find. Fur Lined Hiker Chaussures de Randonnée Basses Marron Brown   41 EU](https://www.amazon.fr/dp/B07FKZYHP3/?tag=tolees0d-21) con 37.26 de descuento por 37.92 EUR (original: 60.44 EUR) en el siguiente enlace!

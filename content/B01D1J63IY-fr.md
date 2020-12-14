@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01D1J63IY/?tag=tolees0d-21'
 descuento: '31.10'
+average: '99.9'
 ---
 
 Ahora mismo tienes [Samsonite XBR Laptop Sac à Dos 17 3 Pouces Cartable  51 cm  29 L  Noir](https://www.amazon.fr/dp/B01D1J63IY/?tag=tolees0d-21) a 99.9 EUR (original: 145.0 EUR) (31.10 %  de descuento) en el siguiente enlace!

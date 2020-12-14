@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PY4ZGK8/?tag=tolees0d-21'
 descuento: '36.68'
+average: '18.99'
 ---
 
 Está [Emartbuy Luxe Rigide Boîte-Cadeau de Présentation en Forme de Rectangle  29 cm * 21 cm * 9 cm  Boîte Bourgogne Texturée Avec Couvercle Crème  Intérieur Brun Chocolat et Ruban Décoratif Satiné](https://www.amazon.fr/dp/B07PY4ZGK8/?tag=tolees0d-21) con 36.68 de descuento por 18.99 EUR (original: 29.99 EUR) en el siguiente enlace!

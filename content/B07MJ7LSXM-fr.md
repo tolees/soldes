@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MJ7LSXM/?tag=tolees0d-21'
 descuento: '55.56'
+average: '44.0'
 ---
 
 Ahora mismo tienes [HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   Large Homme](https://www.amazon.fr/dp/B07MJ7LSXM/?tag=tolees0d-21) a 44.0 EUR (original: 99.0 EUR) (55.56 %  de descuento) en el siguiente enlace!

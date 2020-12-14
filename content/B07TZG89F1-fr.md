@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TZG89F1/?tag=tolees0d-21'
 descuento: '42.04'
+average: '39.99'
 ---
 
 Está [ENJOHOS Lampe Loupe d Atelier Esthetique à pince Agrandissement 2 Dioptries 74 LED Bras Pliable/Réglable pour Salon de Beauté  Cliniques  Cabinet Médicale  Style 2 ](https://www.amazon.fr/dp/B07TZG89F1/?tag=tolees0d-21) con 42.04 de descuento por 39.99 EUR (original: 68.99 EUR) en el siguiente enlace!

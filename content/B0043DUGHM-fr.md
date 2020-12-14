@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0043DUGHM/?tag=tolees0d-21'
 descuento: '28.37'
+average: '249.99'
 ---
 
 Está [Yamaha CD-S300 Lecteur CD mp3 wma USB Noir](https://www.amazon.fr/dp/B0043DUGHM/?tag=tolees0d-21) con 28.37 de descuento por 249.99 EUR (original: 349.0 EUR) en el siguiente enlace!

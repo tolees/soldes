@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01J5RHBQ4/?tag=tolees0d-21'
 descuento: '27.79'
+average: '12.99'
 ---
 
 Está [Carte Mémoire SDHC Sandisk Extreme Pro 32 Go jusqu à 95 Mo/s  Classe 10  U3  V30  4K UHD](https://www.amazon.fr/dp/B01J5RHBQ4/?tag=tolees0d-21) con 27.79 de descuento por 12.99 EUR (original: 17.99 EUR) en el siguiente enlace!

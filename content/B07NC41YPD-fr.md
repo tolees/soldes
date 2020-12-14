@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NC41YPD/?tag=tolees0d-21'
 descuento: '44.19'
+average: '87.6'
 ---
 
 Tienes [DELSEY PARIS - SEGUR 2.0 - Valise cabine rigide à double roues et serrure TSA intégrée - 55cm  42.9L  Gris](https://www.amazon.fr/dp/B07NC41YPD/?tag=tolees0d-21) con un 44.19 % de descuento con precio de oferta de 99.9 EUR (original: 179.0 EUR) en el siguiente enlace!

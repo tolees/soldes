@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004NBZ5KM/?tag=tolees0d-21'
 descuento: '27.00'
+average: '73.0'
 ---
 
 Tienes [Fossil Femme Analogique Quartz Montre avec Bracelet en Cuir ES2830](https://www.amazon.fr/dp/B004NBZ5KM/?tag=tolees0d-21) con un 27.00 % de descuento con precio de oferta de 73.0 EUR (original: 100.0 EUR) en el siguiente enlace!

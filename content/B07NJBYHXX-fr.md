@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NJBYHXX/?tag=tolees0d-21'
 descuento: '30.00'
+average: '67.38714285714286'
 ---
 
 Está [Krups Spécial T Machine à Thé Mini T Théière Electrique à Capsules Noir YY4121FD](https://www.amazon.fr/dp/B07NJBYHXX/?tag=tolees0d-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!

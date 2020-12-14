@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TC883ZZ/?tag=tolees0d-21'
 descuento: '74.56'
+average: '13.99'
 ---
 
 Ahora mismo tienes [Bracelet Femme Orné de Cristaux de Swarovski Collection"Mille Eclats"  Bracelet tennis - blanc ](https://www.amazon.fr/dp/B07TC883ZZ/?tag=tolees0d-21) a 13.99 EUR (original: 54.99 EUR) (74.56 %  de descuento) en el siguiente enlace!

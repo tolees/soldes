@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VWRH2HD/?tag=tolees0d-21'
 descuento: '46.10'
+average: '42.58'
 ---
 
 Tienes [Naturino Falcotto Haley  Chaussures de Gymnastique Mixte bébé  Bleu  Navy/Celeste 1c28   25 EU](https://www.amazon.fr/dp/B07VWRH2HD/?tag=tolees0d-21) con un 46.10 % de descuento con precio de oferta de 42.58 EUR (original: 79.0 EUR) en el siguiente enlace!

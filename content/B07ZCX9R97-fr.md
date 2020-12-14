@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21'
 descuento: '25.00'
+average: '52.49'
 ---
 
 Ahora mismo tienes [Fairy Tail](https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21) a 52.49 EUR (original: 69.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

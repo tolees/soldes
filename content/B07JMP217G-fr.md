@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JMP217G/?tag=tolees0d-21'
 descuento: '45.00'
+average: '16.22'
 ---
 
 Ahora mismo tienes [Marque Amazon – Goodthreads Pantalon cargo extensible vintage à coupe athlétique et confortable pour homme  camouflage  30W x 28L](https://www.amazon.fr/dp/B07JMP217G/?tag=tolees0d-21) a 16.22 EUR (original: 29.49 EUR) (45.00 %  de descuento) en el siguiente enlace!

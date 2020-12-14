@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RH2XSBG/?tag=tolees0d-21'
 descuento: '33.42'
+average: '10.3225'
 ---
 
 Tienes [Signal Integral 8 Dentifrice Complet Antibactérien  Protection Caries Gencives Renforcées  Action Blancheur Haleine Fraîche  Action Anti-Plaque Anti-Tartre  Lot de 6x75ml ](https://www.amazon.fr/dp/B07RH2XSBG/?tag=tolees0d-21) con un 33.42 % de descuento con precio de oferta de 7.99 EUR (original: 12.0 EUR) en el siguiente enlace!

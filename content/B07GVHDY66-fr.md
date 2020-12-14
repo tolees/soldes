@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GVHDY66/?tag=tolees0d-21'
 descuento: '39.16'
+average: '114.98'
 ---
 
 Está [Replay Anbass Jean Slim  Bleu  Dark Blue 7   W28/L32  Taille Fabricant: 28  Homme](https://www.amazon.fr/dp/B07GVHDY66/?tag=tolees0d-21) con 39.16 de descuento por 114.98 EUR (original: 189.0 EUR) en el siguiente enlace!

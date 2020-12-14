@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DJ62X1X/?tag=tolees0d-21'
 descuento: '52.01'
+average: '47.99'
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Argent ](https://www.amazon.fr/dp/B08DJ62X1X/?tag=tolees0d-21) a 47.99 EUR (original: 99.99 EUR) (52.01 %  de descuento) en el siguiente enlace!

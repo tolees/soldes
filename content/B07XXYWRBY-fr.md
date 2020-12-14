@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XXYWRBY/?tag=tolees0d-21'
 descuento: '53.18'
+average: '22.89'
 ---
 
 Está [3 Barils Fer à Boucler Fer à Onduler Professionnelle Support en Métal 2m Cordon Pivotant 360° 110-220V Température 180 ° C / 210 ° C Gant Anti-brûlure  Automatique Iron Bigoudis Homme Femme](https://www.amazon.fr/dp/B07XXYWRBY/?tag=tolees0d-21) con 53.18 de descuento por 22.89 EUR (original: 48.89 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21'
 descuento: '28.12'
+average: '190.48'
 ---
 
 Está [Jabra BIZ™ 2400 II Duo  NOUVELLE GENERATION - Type: 72 UNC  UNC = Ultra-Noise-Cancelling  microphone ultra anti-bruit](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21) con 28.12 de descuento por 190.48 EUR (original: 264.99 EUR) en el siguiente enlace!

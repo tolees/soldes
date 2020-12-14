@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B016DJ9BBU/?tag=tolees0d-21'
 descuento: '72.69'
+average: '109.52'
 ---
 
 Está [Safavieh Tapis d inspiration Vintage  Tissé Polyester Tapis en Vert / Multicolore  120 X 180 cm](https://www.amazon.fr/dp/B016DJ9BBU/?tag=tolees0d-21) con 72.69 de descuento por 109.52 EUR (original: 400.99 EUR) en el siguiente enlace!

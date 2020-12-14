@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015OH9KF4/?tag=tolees0d-21'
 descuento: '28.55'
+average: '19.65'
 ---
 
 Está [Filofax 115023 Carnet de note A4 avec feuille repositionnable Rouge](https://www.amazon.fr/dp/B015OH9KF4/?tag=tolees0d-21) con 28.55 de descuento por 19.65 EUR (original: 27.5 EUR) en el siguiente enlace!

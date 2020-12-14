@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21'
 descuento: '50.00'
+average: '149.99'
 ---
 
 Ahora mismo tienes [Philips GC8962/40 Centrale Vapeur PerfectCare Expert Plus 7 5 bar effet pressing jusqu à 520g](https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21) a 149.99 EUR (original: 299.99 EUR) (50.00 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07K91P5XC/?tag=tolees0d-21'
 descuento: '30.01'
+average: '20.99'
 ---
 
 Está [Crocs Crocband II Kids  Sandales Bride Cheville Mixte Enfant  Bleu  Bright Cobalt/Charcoal 4jn   24/25 EU](https://www.amazon.fr/dp/B07K91P5XC/?tag=tolees0d-21) con 30.01 de descuento por 20.99 EUR (original: 29.99 EUR) en el siguiente enlace!

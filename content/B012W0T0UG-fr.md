@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B012W0T0UG/?tag=tolees0d-21'
 descuento: '42.04'
+average: '59.64333333333333'
 ---
 
 Tienes [Philips S5400/06 Rasoir électrique Series 5000 étanche avec Tondeuse de Précision](https://www.amazon.fr/dp/B012W0T0UG/?tag=tolees0d-21) con un 42.04 % de descuento con precio de oferta de 57.95 EUR (original: 99.99 EUR) en el siguiente enlace!

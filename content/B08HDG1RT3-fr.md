@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08HDG1RT3/?tag=tolees0d-21'
 descuento: '50.05'
+average: '9.98'
 ---
 
 Tienes [Galaxy S8 Film Protection Ecran Verre Trempé  [2 Pièces] [Dureté 9H] [Sans Bulles] [Ultra Claire] [Anti Rayures] Film Protecteur en Verre Trempé écran pour Samsung Galaxy S8](https://www.amazon.fr/dp/B08HDG1RT3/?tag=tolees0d-21) con un 50.05 % de descuento con precio de oferta de 9.98 EUR (original: 19.98 EUR) en el siguiente enlace!

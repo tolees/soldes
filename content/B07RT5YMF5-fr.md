@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RT5YMF5/?tag=tolees0d-21'
 descuento: '40.40'
+average: '149.0'
 ---
 
 Ahora mismo tienes [Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra Bass avec micro pour appels téléphoniques  Optimisé pour Google Assistant et Amazon Alexa  Bleu](https://www.amazon.fr/dp/B07RT5YMF5/?tag=tolees0d-21) a 149.0 EUR (original: 250.0 EUR) (40.40 %  de descuento) en el siguiente enlace!

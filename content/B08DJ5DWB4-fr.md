@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DJ5DWB4/?tag=tolees0d-21'
 descuento: '54.01'
+average: '45.99'
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox（1to， Bleu）](https://www.amazon.fr/dp/B08DJ5DWB4/?tag=tolees0d-21) a 45.99 EUR (original: 99.99 EUR) (54.01 %  de descuento) en el siguiente enlace!

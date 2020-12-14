@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07M8SNDTS/?tag=tolees0d-21'
 descuento: '38.55'
+average: '77.5'
 ---
 
 Tienes [Onduleur Z3 ZenBox EX 500 VA  3 prises secourues  3 prises protégées](https://www.amazon.fr/dp/B07M8SNDTS/?tag=tolees0d-21) con un 38.55 % de descuento con precio de oferta de 77.5 EUR (original: 126.12 EUR) en el siguiente enlace!

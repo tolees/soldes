@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00GSUA40C/?tag=tolees0d-21'
 descuento: '77.73'
+average: '99.99'
 ---
 
 Está [Zwilling Ménagère Nottingham  inox 18/10  mat  Acier inoxydable  68 pièces](https://www.amazon.fr/dp/B00GSUA40C/?tag=tolees0d-21) con 77.73 de descuento por 99.99 EUR (original: 449.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SXL45X2/?tag=tolees0d-21'
 descuento: '50.01'
+average: '39.99'
 ---
 
 Tienes [Death Stranding - Special Edition](https://www.amazon.fr/dp/B07SXL45X2/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 39.99 EUR (original: 79.99 EUR) en el siguiente enlace!

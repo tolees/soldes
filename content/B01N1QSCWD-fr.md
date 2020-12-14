@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21'
 descuento: '39.44'
+average: '10.9'
 ---
 
 Ahora mismo tienes [Manix Skyn king size préservatifs - La boite de 20 préservatifs](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21) a 10.9 EUR (original: 18.0 EUR) (39.44 %  de descuento) en el siguiente enlace!

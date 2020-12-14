@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B003KJTZYK/?tag=tolees0d-21'
 descuento: '64.08'
+average: '81.63'
 ---
 
 Tienes [D-Link DGS-1210-10P Switch Smart Web Manageable 10 Ports Gigabit 10/100/1000mbps avec POE - Idéal pour Entreprise Administration et Réseaux Gérés](https://www.amazon.fr/dp/B003KJTZYK/?tag=tolees0d-21) con un 64.08 % de descuento con precio de oferta de 81.63 EUR (original: 227.27 EUR) en el siguiente enlace!

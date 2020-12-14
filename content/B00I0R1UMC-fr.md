@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00I0R1UMC/?tag=tolees0d-21'
 descuento: '27.10'
+average: '269.0'
 ---
 
 Está [Jupiter Juicepresso 3in1 Slow Juicer extracteur de jus blanc](https://www.amazon.fr/dp/B00I0R1UMC/?tag=tolees0d-21) con 27.10 de descuento por 269.0 EUR (original: 369.0 EUR) en el siguiente enlace!

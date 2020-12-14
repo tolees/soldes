@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MYRGKGX/?tag=tolees0d-21'
 descuento: '36.25'
+average: '51.0'
 ---
 
 Está [New Balance ML373BN  Baskets Homme  Rouge  Burgundy/Silver   44.5 EU](https://www.amazon.fr/dp/B01MYRGKGX/?tag=tolees0d-21) con 36.25 de descuento por 51.0 EUR (original: 80.0 EUR) en el siguiente enlace!

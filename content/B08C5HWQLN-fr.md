@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08C5HWQLN/?tag=tolees0d-21'
 descuento: '27.84'
+average: '28.85'
 ---
 
 Está [Lecteur DVD pour TV  DVD / CD / MP3 / MP4 avec Prise USB  Sortie HDMI et AV  câble HDMI et AV Inclus   télécommande  sans Blu-Ray ](https://www.amazon.fr/dp/B08C5HWQLN/?tag=tolees0d-21) con 27.84 de descuento por 28.85 EUR (original: 39.98 EUR) en el siguiente enlace!

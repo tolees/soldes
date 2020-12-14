@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21'
 descuento: '33.40'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray  SD upscalée ] [SD Blu-ray  SD upscalée ]](https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21) a 9.99 EUR (original: 15.0 EUR) (33.40 %  de descuento) en el siguiente enlace!

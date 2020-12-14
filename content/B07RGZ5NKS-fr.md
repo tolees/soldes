@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RGZ5NKS/?tag=tolees0d-21'
 descuento: '54.03'
+average: '39.99'
 ---
 
 Tienes [TOZO T6 Ecouteur Bluetooth sans Fil TWS avec contrôle Tactile et étui de boîtier de charge IPX8 Étanche avec Micro Casque intégré Premium Deep Bass pour Sport Noir](https://www.amazon.fr/dp/B07RGZ5NKS/?tag=tolees0d-21) con un 54.03 % de descuento con precio de oferta de 39.99 EUR (original: 86.99 EUR) en el siguiente enlace!

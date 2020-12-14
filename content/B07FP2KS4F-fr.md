@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FP2KS4F/?tag=tolees0d-21'
 descuento: '50.20'
+average: '14.95'
 ---
 
 Está [LEGO® Movie L atelier « Construire et réparer » d Emmet et Benny ! Jeu de construction  4 Ans et Plus  117 Pièces  70821](https://www.amazon.fr/dp/B07FP2KS4F/?tag=tolees0d-21) con 50.20 de descuento por 14.95 EUR (original: 30.02 EUR) en el siguiente enlace!

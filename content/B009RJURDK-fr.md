@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B009RJURDK/?tag=tolees0d-21'
 descuento: '32.35'
+average: '101.48'
 ---
 
 Tienes [Cat Footwear Colorado  Bottes Homme  Beige Honey  42 EU](https://www.amazon.fr/dp/B009RJURDK/?tag=tolees0d-21) con un 32.35 % de descuento con precio de oferta de 101.48 EUR (original: 150.0 EUR) en el siguiente enlace!

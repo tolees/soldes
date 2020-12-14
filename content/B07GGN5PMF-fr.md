@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GGN5PMF/?tag=tolees0d-21'
 descuento: '48.59'
+average: '16.704285714285714'
 ---
 
 Tienes [PHYLES Tapis Dessin Enfant  Tapis Doodle Matte 87*57cm  Aqua Tapis de Dessin 6 Couleurs Loisir Créatif - Jouets Éducatifs pour Enfants  la Norme  87*57cm  ](https://www.amazon.fr/dp/B07GGN5PMF/?tag=tolees0d-21) con un 48.59 % de descuento con precio de oferta de 17.99 EUR (original: 34.99 EUR) en el siguiente enlace!

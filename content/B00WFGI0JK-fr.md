@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00WFGI0JK/?tag=tolees0d-21'
 descuento: '36.38'
+average: '89.0'
 ---
 
 Tienes [Babymoov - Nutribaby Classic  Robot Multifonctions  Cuiseur Mixeur pour Bébé  Cherry](https://www.amazon.fr/dp/B00WFGI0JK/?tag=tolees0d-21) con un 36.38 % de descuento con precio de oferta de 89.0 EUR (original: 139.9 EUR) en el siguiente enlace!

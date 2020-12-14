@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21'
 descuento: '48.42'
+average: '36.1'
 ---
 
 Ahora mismo tienes [NHL 19](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21) a 36.1 EUR (original: 69.99 EUR) (48.42 %  de descuento) en el siguiente enlace!

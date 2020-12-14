@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HG6XZB8/?tag=tolees0d-21'
 descuento: '43.93'
+average: '49.9'
 ---
 
 Tienes [mello Plaid canape Grande Taille | Plaid Fourrure Reversible Peau de Mouton  Couvre lit 220x240 | Plaid Polaire Tout Doux  Couverture Polaire pour jeté de canapé  Dessus de lit | Lavable  Gris](https://www.amazon.fr/dp/B07HG6XZB8/?tag=tolees0d-21) con un 43.93 % de descuento con precio de oferta de 49.9 EUR (original: 89.0 EUR) en el siguiente enlace!

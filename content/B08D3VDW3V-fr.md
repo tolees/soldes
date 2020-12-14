@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08D3VDW3V/?tag=tolees0d-21'
 descuento: '30.04'
+average: '27.95'
 ---
 
 Ahora mismo tienes [Prodisac Forte ® | Haute concentration de Gingsen + Maca + Ginkgo Biloba + Zinc | Effet Immédiat | Complément alimentaire 100% naturel | 60 Gélules végétales sans Contre-indications.](https://www.amazon.fr/dp/B08D3VDW3V/?tag=tolees0d-21) a 27.95 EUR (original: 39.95 EUR) (30.04 %  de descuento) en el siguiente enlace!

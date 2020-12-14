@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08F7C4WZ1/?tag=tolees0d-21'
 descuento: '51.12'
+average: '43.99'
 ---
 
 Ahora mismo tienes [REDSTORM Casque Gaming pour PS4 Nintendo Switch  Casque Gamer Filaire Militaire Anti-Bruit avec Micro et Lumières LED pour PC  Xbox One X/S  PC – Camouflage](https://www.amazon.fr/dp/B08F7C4WZ1/?tag=tolees0d-21) a 43.99 EUR (original: 89.99 EUR) (51.12 %  de descuento) en el siguiente enlace!

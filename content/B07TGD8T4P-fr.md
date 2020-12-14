@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TGD8T4P/?tag=tolees0d-21'
 descuento: '66.83'
+average: '46.44'
 ---
 
 Está [Brooks Brothers 100134408 Chemise Casual  Blanc  White 115   Large  Taille Fabricant: L-  Homme](https://www.amazon.fr/dp/B07TGD8T4P/?tag=tolees0d-21) con 66.83 de descuento por 46.44 EUR (original: 140.0 EUR) en el siguiente enlace!

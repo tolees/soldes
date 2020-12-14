@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YBZLCWB/?tag=tolees0d-21'
 descuento: '33.41'
+average: '65.92'
 ---
 
 Está [2X Hochstern BL1860B 5500mAh batterie Remplacement pour Makita 18V Lithium Compatible avec BL1850B BL1850 BL1860 BL1840B BL1840 BL1830B BL1815B LXT-400 avec indicateur LED](https://www.amazon.fr/dp/B07YBZLCWB/?tag=tolees0d-21) con 33.41 de descuento por 65.92 EUR (original: 99.0 EUR) en el siguiente enlace!

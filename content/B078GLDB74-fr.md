@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078GLDB74/?tag=tolees0d-21'
 descuento: '40.07'
+average: '59.9'
 ---
 
 Ahora mismo tienes [Einhell Coupe-bordures sans fil GE-CT 36/30 Li E - Solo - Système Power X-Change  2x18 V  double fil : 30 cm  Longueur du fil : 800 cm  VERSION SOLO LIVRE SANS BATTERIE NI CHARGEUR](https://www.amazon.fr/dp/B078GLDB74/?tag=tolees0d-21) a 59.9 EUR (original: 99.95 EUR) (40.07 %  de descuento) en el siguiente enlace!

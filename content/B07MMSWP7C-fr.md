@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MMSWP7C/?tag=tolees0d-21'
 descuento: '45.46'
+average: '119.99'
 ---
 
 Ahora mismo tienes [Philips GC7933/30 Centrale Vapeur PerfectCare Compact Plus sans réglage 6 5 bar effet pressing jusqu à 450g](https://www.amazon.fr/dp/B07MMSWP7C/?tag=tolees0d-21) a 119.99 EUR (original: 219.99 EUR) (45.46 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N356GSH/?tag=tolees0d-21'
 descuento: '38.99'
+average: '86.99'
 ---
 
 Tienes [Mizuno Wave Inspire 15  Chaussures de Running Homme  Blanc Noir Bleu  43 EU](https://www.amazon.fr/dp/B07N356GSH/?tag=tolees0d-21) con un 38.99 % de descuento con precio de oferta de 86.99 EUR (original: 142.59 EUR) en el siguiente enlace!

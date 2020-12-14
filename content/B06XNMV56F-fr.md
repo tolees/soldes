@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21'
 descuento: '36.74'
+average: '50.6'
 ---
 
 Ahora mismo tienes [Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poignet - Taille M - Noir](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21) a 50.6 EUR (original: 79.99 EUR) (36.74 %  de descuento) en el siguiente enlace!

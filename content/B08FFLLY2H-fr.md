@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08FFLLY2H/?tag=tolees0d-21'
 descuento: '43.78'
+average: '8.99'
 ---
 
 Está [LK Coque pour Xiaomi Redmi 9A [Antidérapant] Souple Flexible Silicone Gel TPU Housse Case Cover avec Verre Trempé Protection d écran[2 Pièces] pour Xiaomi Redmi 9A - Clair](https://www.amazon.fr/dp/B08FFLLY2H/?tag=tolees0d-21) con 43.78 de descuento por 8.99 EUR (original: 15.99 EUR) en el siguiente enlace!

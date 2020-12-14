@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TMP7FKS/?tag=tolees0d-21'
 descuento: '34.66'
+average: '91.47'
 ---
 
 Ahora mismo tienes [Nike Zoom Air Vapor X HC  Chaussures de Tennis Homme  Blanc  White/Laser Crimson-Oracle AQU 108   44 EU](https://www.amazon.fr/dp/B07TMP7FKS/?tag=tolees0d-21) a 91.47 EUR (original: 139.99 EUR) (34.66 %  de descuento) en el siguiente enlace!

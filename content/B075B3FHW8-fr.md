@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075B3FHW8/?tag=tolees0d-21'
 descuento: '48.63'
+average: '71.4'
 ---
 
 Ahora mismo tienes [Hugo Boss Orange Homme Analogique Classique Quartz Montre avec Bracelet en Cuir 1550054](https://www.amazon.fr/dp/B075B3FHW8/?tag=tolees0d-21) a 71.4 EUR (original: 139.0 EUR) (48.63 %  de descuento) en el siguiente enlace!

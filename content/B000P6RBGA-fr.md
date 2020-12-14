@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21'
 descuento: '30.24'
+average: '6.99'
 ---
 
 Tienes [Le pigeon](https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21) con un 30.24 % de descuento con precio de oferta de 6.99 EUR (original: 10.02 EUR) en el siguiente enlace!

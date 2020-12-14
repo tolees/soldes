@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01EZ0X23W/?tag=tolees0d-21'
 descuento: '30.09'
+average: '10.48'
 ---
 
 Tienes [Sandisk SDDDC2-032G-G46 Clé USB 3.1 Type-C à Double Connectique Sandisk Ultra 32 go](https://www.amazon.fr/dp/B01EZ0X23W/?tag=tolees0d-21) con un 30.09 % de descuento con precio de oferta de 10.48 EUR (original: 14.99 EUR) en el siguiente enlace!

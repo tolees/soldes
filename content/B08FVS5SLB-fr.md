@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08FVS5SLB/?tag=tolees0d-21'
 descuento: '79.70'
+average: '28.656666666666666'
 ---
 
 Está [Écouteurs sans Fil Bluetooth avec réduction de Bruit Bluetooth 5.0 écouteurs Sportifs avec IPX7 Écouteurs stéréo étanches dans l oreille Intégré HD Mic Casques  avec étui de Chargement Portable](https://www.amazon.fr/dp/B08FVS5SLB/?tag=tolees0d-21) con 79.70 de descuento por 25.99 EUR (original: 128.0 EUR) en el siguiente enlace!

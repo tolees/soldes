@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DYTTNCY/?tag=tolees0d-21'
 descuento: '50.87'
+average: '112.99'
 ---
 
 Está [Columbia Homme Veste d Hiver  Marquam Peak Jacket  Polyester  Rouge  Red Spark   Taille S  1798922](https://www.amazon.fr/dp/B07DYTTNCY/?tag=tolees0d-21) con 50.87 de descuento por 112.99 EUR (original: 230.0 EUR) en el siguiente enlace!

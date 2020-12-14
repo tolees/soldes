@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08F58NJFB/?tag=tolees0d-21'
 descuento: '54.91'
+average: '29.59'
 ---
 
 Tienes [BAITITON 2 5 Pouces SATA III Disque Flash SSD 256 Go Interne Solid State Drive Lecture 550Mo/s Ecriture 530Mo/s 256GB](https://www.amazon.fr/dp/B08F58NJFB/?tag=tolees0d-21) con un 54.91 % de descuento con precio de oferta de 29.59 EUR (original: 65.63 EUR) en el siguiente enlace!

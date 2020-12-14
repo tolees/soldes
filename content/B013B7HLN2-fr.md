@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013B7HLN2/?tag=tolees0d-21'
 descuento: '43.92'
+average: '83.97'
 ---
 
 Está [Moulinex DJ812510 Découpe Légumes Électrique Fresh Express Max 5 en 1 Râper Fin Épais Trancher Gratter Fromage Mandoline Légumes Fruits Glace Pilée 260W Rouge](https://www.amazon.fr/dp/B013B7HLN2/?tag=tolees0d-21) con 43.92 de descuento por 61.12 EUR (original: 108.99 EUR) en el siguiente enlace!

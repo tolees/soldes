@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NXVM65C/?tag=tolees0d-21'
 descuento: '35.00'
+average: '13.0'
 ---
 
 Tienes [Hairdorables  Poupée  Serie 2  avec 11 Accessoires Surprises  Cheveux à Coiffer  Modèles Aléatoires  26 poupées à Collectionner  Jouet pour Enfants dès 3 Ans  HAA03](https://www.amazon.fr/dp/B07NXVM65C/?tag=tolees0d-21) con un 35.00 % de descuento con precio de oferta de 13.0 EUR (original: 20.0 EUR) en el siguiente enlace!

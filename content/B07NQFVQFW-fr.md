@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21'
 descuento: '33.59'
+average: '45.82'
 ---
 
 Está [Lagostina 12143040122 Poêle à frire](https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21) con 33.59 de descuento por 45.82 EUR (original: 69.0 EUR) en el siguiente enlace!

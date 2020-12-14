@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21'
 descuento: '29.48'
+average: '186.87'
 ---
 
 Está [Yamaha - FX310AII - Guitare Folk](https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21) con 29.48 de descuento por 186.87 EUR (original: 265.0 EUR) en el siguiente enlace!

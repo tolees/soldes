@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B084HJCYTQ/?tag=tolees0d-21'
 descuento: '40.19'
+average: '29.9'
 ---
 
 Tienes [Samurai Shodown](https://www.amazon.fr/dp/B084HJCYTQ/?tag=tolees0d-21) con un 40.19 % de descuento con precio de oferta de 29.9 EUR (original: 49.99 EUR) en el siguiente enlace!

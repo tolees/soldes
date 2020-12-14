@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YN9TP7J/?tag=tolees0d-21'
 descuento: '50.25'
+average: '99.0'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Watch 1782143](https://www.amazon.fr/dp/B07YN9TP7J/?tag=tolees0d-21) a 99.0 EUR (original: 199.0 EUR) (50.25 %  de descuento) en el siguiente enlace!

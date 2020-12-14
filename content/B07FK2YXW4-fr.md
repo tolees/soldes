@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FK2YXW4/?tag=tolees0d-21'
 descuento: '40.00'
+average: '359.99'
 ---
 
 Está [Degré7 Touring Veste de Ski Homme  White  FR : L  Taille Fabricant : 52 ](https://www.amazon.fr/dp/B07FK2YXW4/?tag=tolees0d-21) con 40.00 de descuento por 359.99 EUR (original: 600.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08GLNL6J8/?tag=tolees0d-21'
 descuento: '50.03'
+average: '7.99'
 ---
 
 Está [UniqueMe [2 pièces Protection écran pour Xiaomi Mi Note 10 et [3 pièces] Caméra Arrière Protecteur pour Xiaomi Mi Note 10 Caméra  [sans Bulles] TPU Film Protection écran](https://www.amazon.fr/dp/B08GLNL6J8/?tag=tolees0d-21) con 50.03 de descuento por 7.99 EUR (original: 15.99 EUR) en el siguiente enlace!

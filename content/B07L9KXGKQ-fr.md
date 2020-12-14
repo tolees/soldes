@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07L9KXGKQ/?tag=tolees0d-21'
 descuento: '66.58'
+average: '40.11'
 ---
 
 Está [Under Armour Accelerate Terrace II Veste Homme  Noir  L](https://www.amazon.fr/dp/B07L9KXGKQ/?tag=tolees0d-21) con 66.58 de descuento por 40.11 EUR (original: 120.0 EUR) en el siguiente enlace!

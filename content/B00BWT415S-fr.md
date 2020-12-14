@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00BWT415S/?tag=tolees0d-21'
 descuento: '34.86'
+average: '3.7'
 ---
 
 Está [Schneider Electric SC5S262204 Interrupteur ou va et vient 10 ampères Ovalis complet 230 V](https://www.amazon.fr/dp/B00BWT415S/?tag=tolees0d-21) con 34.86 de descuento por 3.7 EUR (original: 5.68 EUR) en el siguiente enlace!

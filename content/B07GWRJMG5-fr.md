@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GWRJMG5/?tag=tolees0d-21'
 descuento: '54.05'
+average: '34.0'
 ---
 
 Tienes [FREEGUN Lot 5 DE Boxers Flag Homme Taille L …](https://www.amazon.fr/dp/B07GWRJMG5/?tag=tolees0d-21) con un 54.05 % de descuento con precio de oferta de 34.0 EUR (original: 74.0 EUR) en el siguiente enlace!

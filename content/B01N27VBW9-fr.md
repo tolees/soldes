@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N27VBW9/?tag=tolees0d-21'
 descuento: '46.56'
+average: '1.63'
 ---
 
 Está [Cajoline Adoucissant Concentré Doux Pur Hypoallergénique 750ml](https://www.amazon.fr/dp/B01N27VBW9/?tag=tolees0d-21) con 46.56 de descuento por 1.63 EUR (original: 3.05 EUR) en el siguiente enlace!

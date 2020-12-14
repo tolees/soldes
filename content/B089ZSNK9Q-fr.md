@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089ZSNK9Q/?tag=tolees0d-21'
 descuento: '50.13'
+average: '19.9'
 ---
 
 Ahora mismo tienes [Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit Binaural Couplage Automatique écouteurs Sportifs IPX5 Écouteurs stéréo étanches Intégré HD Mic Casques pour iPhone Android/Airpods](https://www.amazon.fr/dp/B089ZSNK9Q/?tag=tolees0d-21) a 19.9 EUR (original: 39.9 EUR) (50.13 %  de descuento) en el siguiente enlace!

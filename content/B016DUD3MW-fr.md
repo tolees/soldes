@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B016DUD3MW/?tag=tolees0d-21'
 descuento: '48.40'
+average: '51.08'
 ---
 
 Está [Hoover CAN1700R Nettoyeur Vapeur Balai Steam Capsule Brosse Slim rangement compact](https://www.amazon.fr/dp/B016DUD3MW/?tag=tolees0d-21) con 48.40 de descuento por 51.08 EUR (original: 99.0 EUR) en el siguiente enlace!

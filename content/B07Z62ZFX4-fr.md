@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Z62ZFX4/?tag=tolees0d-21'
 descuento: '27.60'
+average: '20.99'
 ---
 
 Está [Herefun Bocs de Construction en Bois Tour Empilables Jeu à Empiler Jouets  D Empilage Jeux d empilement Tour Jeu d Ambiance pour Les Enfants  Cadeau à Filles et Garçons - 55 Pièces](https://www.amazon.fr/dp/B07Z62ZFX4/?tag=tolees0d-21) con 27.60 de descuento por 20.99 EUR (original: 28.99 EUR) en el siguiente enlace!

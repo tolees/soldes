@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07R5NCDMY/?tag=tolees0d-21'
 descuento: '36.37'
+average: '69.99'
 ---
 
 Tienes [Razer Seiren X Mercury Microphone à Condensateur Pour eux Vidéo - Amortisseur de Chocs Intégré - Microphone Streaming de Qualité Professionnelle](https://www.amazon.fr/dp/B07R5NCDMY/?tag=tolees0d-21) con un 36.37 % de descuento con precio de oferta de 69.99 EUR (original: 109.99 EUR) en el siguiente enlace!

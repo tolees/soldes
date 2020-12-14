@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06WD68GPN/?tag=tolees0d-21'
 descuento: '50.86'
+average: '114.99'
 ---
 
 Ahora mismo tienes [Marvel Legends - Edition Collector Avengers - Marteau Deluxe de Thor](https://www.amazon.fr/dp/B06WD68GPN/?tag=tolees0d-21) a 114.99 EUR (original: 233.99 EUR) (50.86 %  de descuento) en el siguiente enlace!

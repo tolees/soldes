@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21'
 descuento: '37.50'
+average: '74.99'
 ---
 
 Ahora mismo tienes [BOSCH - TAS6503 Tassimo My Way 2 - Cafetière à capsule - Avec système de filtration BRITA et interface tactile - Personnalisation de boissons - 1500 W - 1 3 litre -  Rouge](https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21) a 74.99 EUR (original: 119.99 EUR) (37.50 %  de descuento) en el siguiente enlace!

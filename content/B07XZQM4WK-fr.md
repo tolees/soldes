@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XZQM4WK/?tag=tolees0d-21'
 descuento: '41.15'
+average: '353.08'
 ---
 
 Ahora mismo tienes [Arlo Pro3 Caméra de surveillance Wifi extérieure. Caméra IP 2K HDR  rechargeable. Grand angle 160°  Audio Bi-directionnel Eclairage spotlight intégré  IP65 - Pack de 2 caméras  VMS4240P ](https://www.amazon.fr/dp/B07XZQM4WK/?tag=tolees0d-21) a 353.08 EUR (original: 599.99 EUR) (41.15 %  de descuento) en el siguiente enlace!

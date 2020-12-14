@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NDNDY4K/?tag=tolees0d-21'
 descuento: '59.22'
+average: '93.78'
 ---
 
 Ahora mismo tienes [BRAX Golf Tim Pull  Bleu  Dunkelblau 23   Medium Homme](https://www.amazon.fr/dp/B07NDNDY4K/?tag=tolees0d-21) a 93.78 EUR (original: 229.95 EUR) (59.22 %  de descuento) en el siguiente enlace!

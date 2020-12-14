@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KSJF3MD/?tag=tolees0d-21'
 descuento: '28.34'
+average: '235.8492307692308'
 ---
 
 Está [Samsung SSD interne 860 QVO 2.5’’ SATA  2 TERA  - MZ-76Q2T0BW](https://www.amazon.fr/dp/B07KSJF3MD/?tag=tolees0d-21) con 28.34 de descuento por 248.58 EUR (original: 346.9 EUR) en el siguiente enlace!

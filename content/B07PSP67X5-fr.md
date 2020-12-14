@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PSP67X5/?tag=tolees0d-21'
 descuento: '37.36'
+average: '14.4'
 ---
 
 Está [Bakugan Starter Pack Set Assortment  Assort   6045144  Multicolor](https://www.amazon.fr/dp/B07PSP67X5/?tag=tolees0d-21) con 37.36 de descuento por 14.4 EUR (original: 22.99 EUR) en el siguiente enlace!

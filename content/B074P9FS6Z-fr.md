@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B074P9FS6Z/?tag=tolees0d-21'
 descuento: '43.76'
+average: '73.08'
 ---
 
 Ahora mismo tienes [Fitbit Aria 2 Balance Wi-Fi Intelligente Compteur de Calories  Noir](https://www.amazon.fr/dp/B074P9FS6Z/?tag=tolees0d-21) a 73.08 EUR (original: 129.95 EUR) (43.76 %  de descuento) en el siguiente enlace!

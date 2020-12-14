@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N2X6ZRC/?tag=tolees0d-21'
 descuento: '51.19'
+average: '39.0'
 ---
 
 Tienes [Tommy Jeans TJM Tommy Classics Sweatpant Pantalon  Bleu  Black Iris Cbk   W32  Taille Fabricant: Large  Homme](https://www.amazon.fr/dp/B07N2X6ZRC/?tag=tolees0d-21) con un 51.19 % de descuento con precio de oferta de 39.0 EUR (original: 79.9 EUR) en el siguiente enlace!

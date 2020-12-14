@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MQIC9AK/?tag=tolees0d-21'
 descuento: '56.73'
+average: '119.0'
 ---
 
 Está [Golden Curl GL506 Boucleur de Cheveux Curl Fer a Friser Curly Professionnel pour tous types de cheveux - Garantie 5 ans  Girafe ](https://www.amazon.fr/dp/B01MQIC9AK/?tag=tolees0d-21) con 56.73 de descuento por 119.0 EUR (original: 275.0 EUR) en el siguiente enlace!

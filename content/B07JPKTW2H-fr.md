@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JPKTW2H/?tag=tolees0d-21'
 descuento: '54.72'
+average: '6.24'
 ---
 
 Tienes [Amazon Essentials Half-Zip Active Jacket Outerwear  Rose  Large](https://www.amazon.fr/dp/B07JPKTW2H/?tag=tolees0d-21) con un 54.72 % de descuento con precio de oferta de 6.24 EUR (original: 13.78 EUR) en el siguiente enlace!

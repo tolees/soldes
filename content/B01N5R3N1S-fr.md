@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N5R3N1S/?tag=tolees0d-21'
 descuento: '57.13'
+average: '30.99'
 ---
 
 Está [Bardahl 2002314A Nettoyant Vanne Erg](https://www.amazon.fr/dp/B01N5R3N1S/?tag=tolees0d-21) con 57.13 de descuento por 30.99 EUR (original: 72.29 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21'
 descuento: '46.81'
+average: '43.99'
 ---
 
 Ahora mismo tienes [The Last Ship-L intégrale de la série](https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21) a 43.99 EUR (original: 82.7 EUR) (46.81 %  de descuento) en el siguiente enlace!

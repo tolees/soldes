@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B077XMYDJ7/?tag=tolees0d-21'
 descuento: '68.72'
+average: '31.28'
 ---
 
 Tienes [Under Armour UA Stormcyclone Sweat à Capuche Homme  Artillery Green/Black  357   FR : S  Taille Fabricant : SM ](https://www.amazon.fr/dp/B077XMYDJ7/?tag=tolees0d-21) con un 68.72 % de descuento con precio de oferta de 31.28 EUR (original: 100.0 EUR) en el siguiente enlace!

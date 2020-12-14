@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W7ZGGKK/?tag=tolees0d-21'
 descuento: '44.11'
+average: '27.94'
 ---
 
 Ahora mismo tienes [Cubicfun Piste de Voiture Jouet Enfant 2 3 4 5 6 ans  City Rescue Car Piste Aventure de Voiture Jouet avec Hélicoptère  Bus  Voiture pour Enfant Garçon Fille](https://www.amazon.fr/dp/B07W7ZGGKK/?tag=tolees0d-21) a 27.94 EUR (original: 49.99 EUR) (44.11 %  de descuento) en el siguiente enlace!

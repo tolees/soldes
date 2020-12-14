@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QNVTMW8/?tag=tolees0d-21'
 descuento: '35.02'
+average: '12.99'
 ---
 
 Tienes [Coffret de Bain & Douche pour Femme  Body&Earth 6 Pièces Coffret Cadeau au Parfum de Rose  Parfait Cadeau pour l’Anniversaire et la Fête de Mères](https://www.amazon.fr/dp/B07QNVTMW8/?tag=tolees0d-21) con un 35.02 % de descuento con precio de oferta de 12.99 EUR (original: 19.99 EUR) en el siguiente enlace!

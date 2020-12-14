@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01C47BS9I/?tag=tolees0d-21'
 descuento: '82.69'
+average: '7.79'
 ---
 
 Tienes [TRANSFORMERS Robots In Disguise - Robot électronique Bumblebee 30cm - Jouet transformable 2 en 1](https://www.amazon.fr/dp/B01C47BS9I/?tag=tolees0d-21) con un 82.69 % de descuento con precio de oferta de 7.79 EUR (original: 44.99 EUR) en el siguiente enlace!

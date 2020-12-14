@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N2Y2XJY/?tag=tolees0d-21'
 descuento: '45.94'
+average: '151.38'
 ---
 
 Ahora mismo tienes [Orient Horloge FAC0000CA0](https://www.amazon.fr/dp/B07N2Y2XJY/?tag=tolees0d-21) a 151.38 EUR (original: 280.0 EUR) (45.94 %  de descuento) en el siguiente enlace!

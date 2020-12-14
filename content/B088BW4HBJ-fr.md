@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B088BW4HBJ/?tag=tolees0d-21'
 descuento: '40.93'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Elyco 2 PCS Brassards de Contrôle pour Nintendo Switch  Brassard de Bande de Danse pour Just Dance 2020/2019 Brassard Bracelet élastique réglable avec Emplacement pour Manette Joy-Cons](https://www.amazon.fr/dp/B088BW4HBJ/?tag=tolees0d-21) a 12.99 EUR (original: 21.99 EUR) (40.93 %  de descuento) en el siguiente enlace!

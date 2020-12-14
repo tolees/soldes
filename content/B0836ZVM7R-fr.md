@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0836ZVM7R/?tag=tolees0d-21'
 descuento: '31.24'
+average: '23.4'
 ---
 
 Tienes [Difuzed The Legend of Zelda Snap Back Cap Link s Awakening Nintendo Beanies Caps](https://www.amazon.fr/dp/B0836ZVM7R/?tag=tolees0d-21) con un 31.24 % de descuento con precio de oferta de 23.4 EUR (original: 34.03 EUR) en el siguiente enlace!

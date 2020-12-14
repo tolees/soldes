@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078SXQLZJ/?tag=tolees0d-21'
 descuento: '50.00'
+average: '42.5'
 ---
 
 Tienes [Timberland Malibu Waves Ankle Strap   Sandales Femme  Marron  Rust Nubuck   40 EU](https://www.amazon.fr/dp/B078SXQLZJ/?tag=tolees0d-21) con un 50.00 % de descuento con precio de oferta de 42.5 EUR (original: 85.0 EUR) en el siguiente enlace!

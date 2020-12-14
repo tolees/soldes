@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NJN4VJT/?tag=tolees0d-21'
 descuento: '25.00'
+average: '59.99'
 ---
 
 Ahora mismo tienes [Casque LVL50 sans Fil pour Sony Playstation - noir](https://www.amazon.fr/dp/B07NJN4VJT/?tag=tolees0d-21) a 59.99 EUR (original: 79.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

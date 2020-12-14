@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QKGWN2Y/?tag=tolees0d-21'
 descuento: '39.47'
+average: '45.94'
 ---
 
 Tienes [Kimberfeel RACE Chaussure de Trail running pour Homme de la marque Kimberfeel  Jaune  43 EU](https://www.amazon.fr/dp/B07QKGWN2Y/?tag=tolees0d-21) con un 39.47 % de descuento con precio de oferta de 45.94 EUR (original: 75.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GPKMXW7/?tag=tolees0d-21'
 descuento: '62.31'
+average: '75.37'
 ---
 
 Ahora mismo tienes [Pierre Cardin Fieldjacket Airtouch Mit UV-Protect Blouson  Beige  Zinc 2605   Large  Taille Fabricant: 52  Homme](https://www.amazon.fr/dp/B07GPKMXW7/?tag=tolees0d-21) a 75.37 EUR (original: 199.99 EUR) (62.31 %  de descuento) en el siguiente enlace!

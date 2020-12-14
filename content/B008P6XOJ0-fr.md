@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008P6XOJ0/?tag=tolees0d-21'
 descuento: '35.00'
+average: '69.49'
 ---
 
 Ahora mismo tienes [Tefal EF351412 Appareil à Fondue Simply Invents 8 personnes](https://www.amazon.fr/dp/B008P6XOJ0/?tag=tolees0d-21) a 64.99 EUR (original: 99.99 EUR) (35.00 %  de descuento) en el siguiente enlace!

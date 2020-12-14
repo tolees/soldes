@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0829SLJSF/?tag=tolees0d-21'
 descuento: '29.98'
+average: '69.95'
 ---
 
 Está [Corsair A500  Ventirad à Double Ventilateur Haute Performance  Refroidissent jusqu’à 250W TDP  Système de Support pour Ventilateur Intuitif de type glissière  Deux Ventilateurs Corsair ML120  Noir](https://www.amazon.fr/dp/B0829SLJSF/?tag=tolees0d-21) con 29.98 de descuento por 69.95 EUR (original: 99.9 EUR) en el siguiente enlace!

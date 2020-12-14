@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RWKN6VM/?tag=tolees0d-21'
 descuento: '31.97'
+average: '121.77'
 ---
 
 Está [Redskins Doudoune North Mountain Homme](https://www.amazon.fr/dp/B07RWKN6VM/?tag=tolees0d-21) con 31.97 de descuento por 121.77 EUR (original: 179.0 EUR) en el siguiente enlace!

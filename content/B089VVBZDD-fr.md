@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089VVBZDD/?tag=tolees0d-21'
 descuento: '60.03'
+average: '7.99'
 ---
 
 Ahora mismo tienes [Syncwire Cable Optique Audio Numérique Cordon Fibre Optique Toslink Digital 24K Platinum Male à Male pour HiFi Home Cinéma  Sound Bar  TV  PS4  Xbox  Amplificateur  Playstation  Freebox - 1M Noir](https://www.amazon.fr/dp/B089VVBZDD/?tag=tolees0d-21) a 7.99 EUR (original: 19.99 EUR) (60.03 %  de descuento) en el siguiente enlace!

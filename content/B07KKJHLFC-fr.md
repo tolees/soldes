@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KKJHLFC/?tag=tolees0d-21'
 descuento: '34.35'
+average: '45.95'
 ---
 
 Está [KRONENKRAFT Set d ustensiles de Cuisine en Acier Inoxydable de 26 pièces Accessoires de Cuisine  Set de Cuisson  Ensemble Complet d accessoires de Cuisine](https://www.amazon.fr/dp/B07KKJHLFC/?tag=tolees0d-21) con 34.35 de descuento por 45.95 EUR (original: 69.99 EUR) en el siguiente enlace!

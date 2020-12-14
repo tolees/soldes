@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PM67PG8/?tag=tolees0d-21'
 descuento: '46.15'
+average: '21.39'
 ---
 
 Está [CALVET Vin Mousseux Rose Celebration 75 cl](https://www.amazon.fr/dp/B07PM67PG8/?tag=tolees0d-21) con 46.15 de descuento por 23.1 EUR (original: 42.9 EUR) en el siguiente enlace!

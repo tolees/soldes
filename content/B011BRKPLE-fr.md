@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B011BRKPLE/?tag=tolees0d-21'
 descuento: '25.00'
+average: '44.99'
 ---
 
 Ahora mismo tienes [HUAWEI Surfstick  Clé USB E3372H-320 LTE  jusqu à 150 Mbit/s  - Noir](https://www.amazon.fr/dp/B011BRKPLE/?tag=tolees0d-21) a 44.99 EUR (original: 59.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

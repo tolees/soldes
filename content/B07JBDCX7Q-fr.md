@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JBDCX7Q/?tag=tolees0d-21'
 descuento: '34.32'
+average: '19.665'
 ---
 
 Ahora mismo tienes [Zéfal Z Handlebar Mount Support vélo/Moto pour Smartphone et caméra Mixte Adulte  Noir](https://www.amazon.fr/dp/B07JBDCX7Q/?tag=tolees0d-21) a 19.67 EUR (original: 29.95 EUR) (34.32 %  de descuento) en el siguiente enlace!

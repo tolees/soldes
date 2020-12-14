@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B083BMHYFF/?tag=tolees0d-21'
 descuento: '59.16'
+average: '31.44'
 ---
 
 Ahora mismo tienes [Machine à Café Filtre  HOMEVER 1 5L Cafetiere Filtre Jusque 12 Tasses Cafetier Programmable avec Minuterie  Affichage LCD  Filtre Permanent Incl Rapide Cuillère Dosette  Plaque Chaude Argenté  argent ](https://www.amazon.fr/dp/B083BMHYFF/?tag=tolees0d-21) a 31.44 EUR (original: 76.99 EUR) (59.16 %  de descuento) en el siguiente enlace!

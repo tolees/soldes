@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21'
 descuento: '30.01'
+average: '27.99'
 ---
 
 Está [Bayonetta & Vanquish 10th Anniversary Bundle - Launch Edition pour Xbox One](https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

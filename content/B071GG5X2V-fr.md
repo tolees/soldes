@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B071GG5X2V/?tag=tolees0d-21'
 descuento: '66.78'
+average: '2.99'
 ---
 
 Tienes [Oral-B Répare Gencives Et Émail Original Dentifrice 75 ml](https://www.amazon.fr/dp/B071GG5X2V/?tag=tolees0d-21) con un 66.78 % de descuento con precio de oferta de 2.99 EUR (original: 9.0 EUR) en el siguiente enlace!

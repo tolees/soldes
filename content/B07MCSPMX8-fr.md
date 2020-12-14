@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MCSPMX8/?tag=tolees0d-21'
 descuento: '37.25'
+average: '149.98'
 ---
 
 Tienes [Napapijri Rainforest Pocket  Blouson Homme  Rot  High Risk Red Ra3    XL](https://www.amazon.fr/dp/B07MCSPMX8/?tag=tolees0d-21) con un 37.25 % de descuento con precio de oferta de 149.98 EUR (original: 239.0 EUR) en el siguiente enlace!

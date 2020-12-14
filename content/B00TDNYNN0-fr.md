@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00TDNYNN0/?tag=tolees0d-21'
 descuento: '31.25'
+average: '329.99'
 ---
 
 Tienes [Arlo | Caméra de surveillance 100% Sans Fils  Pack de 3 HD Jour/Nuit Etanche IP65  Intérieur/Extérieur  Fixation Aimantée - Stockage gratuit dans le Cloud  VMS3330 ](https://www.amazon.fr/dp/B00TDNYNN0/?tag=tolees0d-21) con un 31.25 % de descuento con precio de oferta de 329.99 EUR (original: 479.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B073ZFGL21/?tag=tolees0d-21'
 descuento: '33.36'
+average: '39.98'
 ---
 
 Está [Russell Hobbs Bouilloire en Verre 1 7L  Ultra Résistante - 21600-57 Glass](https://www.amazon.fr/dp/B073ZFGL21/?tag=tolees0d-21) con 33.36 de descuento por 39.98 EUR (original: 59.99 EUR) en el siguiente enlace!

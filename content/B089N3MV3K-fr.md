@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089N3MV3K/?tag=tolees0d-21'
 descuento: '60.74'
+average: '10.99'
 ---
 
 Ahora mismo tienes [Toozey Jouet Chien à Macher pour Grands Chiens Mâcheurs agressifs Indestructibles - Jouets pour Chiens Chiot Petits Chiens Moyens - Saveur de bœuf en Caoutchouc Naturel Non Toxique](https://www.amazon.fr/dp/B089N3MV3K/?tag=tolees0d-21) a 10.99 EUR (original: 27.99 EUR) (60.74 %  de descuento) en el siguiente enlace!

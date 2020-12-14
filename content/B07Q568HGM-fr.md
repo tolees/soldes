@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Q568HGM/?tag=tolees0d-21'
 descuento: '77.01'
+average: '22.036511627906975'
 ---
 
 Ahora mismo tienes [Alex Perry Cadeau boucle d oreille femme argent idee cadeau femme original bijoux femme swarovski bijoux femme bijoux pas cher cadeau maman cadeau rigolo idee cadeau ado fille](https://www.amazon.fr/dp/B07Q568HGM/?tag=tolees0d-21) a 22.99 EUR (original: 99.99 EUR) (77.01 %  de descuento) en el siguiente enlace!

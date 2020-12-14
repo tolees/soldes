@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N99CPT3/?tag=tolees0d-21'
 descuento: '31.54'
+average: '44.49'
 ---
 
 Está [YOSHI S CRAFTED WORLD - SWITCH](https://www.amazon.fr/dp/B07N99CPT3/?tag=tolees0d-21) con 31.54 de descuento por 44.49 EUR (original: 64.99 EUR) en el siguiente enlace!

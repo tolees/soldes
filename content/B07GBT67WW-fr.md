@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GBT67WW/?tag=tolees0d-21'
 descuento: '50.44'
+average: '63.93'
 ---
 
 Ahora mismo tienes [Pulsar Horloge PG8283X1](https://www.amazon.fr/dp/B07GBT67WW/?tag=tolees0d-21) a 63.93 EUR (original: 129.0 EUR) (50.44 %  de descuento) en el siguiente enlace!

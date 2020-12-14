@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KPSBXR3/?tag=tolees0d-21'
 descuento: '35.76'
+average: '9.63'
 ---
 
 Está [Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba Collectible Figure  38543  Multi](https://www.amazon.fr/dp/B07KPSBXR3/?tag=tolees0d-21) con 35.76 de descuento por 9.63 EUR (original: 14.99 EUR) en el siguiente enlace!

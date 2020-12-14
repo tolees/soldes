@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21'
 descuento: '51.57'
+average: '145.3'
 ---
 
 Está [Oral-B Genius Brosse À Dents Électrique Par Braun](https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21) con 51.57 de descuento por 145.3 EUR (original: 300.0 EUR) en el siguiente enlace!

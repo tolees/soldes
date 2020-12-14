@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SDKX584/?tag=tolees0d-21'
 descuento: '39.09'
+average: '15.27'
 ---
 
 Tienes [Pokémon-Détective Pikachu [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B07SDKX584/?tag=tolees0d-21) con un 39.09 % de descuento con precio de oferta de 15.27 EUR (original: 25.07 EUR) en el siguiente enlace!

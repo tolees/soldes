@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06VVNC778/?tag=tolees0d-21'
 descuento: '42.11'
+average: '65.99'
 ---
 
 Está [Brabantia - 115301 - Poubelle Touch Bin Unie New  30 L - Noir mat](https://www.amazon.fr/dp/B06VVNC778/?tag=tolees0d-21) con 42.11 de descuento por 65.99 EUR (original: 114.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00HEGLIPO/?tag=tolees0d-21'
 descuento: '70.04'
+average: '5.99'
 ---
 
 Tienes [INTEX - 0774111 - Matelas Gonflable - Wave Rider - Ride-on](https://www.amazon.fr/dp/B00HEGLIPO/?tag=tolees0d-21) con un 70.04 % de descuento con precio de oferta de 5.99 EUR (original: 19.99 EUR) en el siguiente enlace!

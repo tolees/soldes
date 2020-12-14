@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NCJYGXS/?tag=tolees0d-21'
 descuento: '29.61'
+average: '80.95'
 ---
 
 Está [HÖGL Gently  Escarpins Femme  Noir  Schwarz 0100   41 EU](https://www.amazon.fr/dp/B07NCJYGXS/?tag=tolees0d-21) con 29.61 de descuento por 80.95 EUR (original: 115.0 EUR) en el siguiente enlace!

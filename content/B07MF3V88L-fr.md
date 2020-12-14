@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MF3V88L/?tag=tolees0d-21'
 descuento: '56.17'
+average: '129.73'
 ---
 
 Ahora mismo tienes [Hoover HF18MB Aspirateur balai sans fil multifonction H-Free ultra léger et maniable](https://www.amazon.fr/dp/B07MF3V88L/?tag=tolees0d-21) a 95.99 EUR (original: 219.0 EUR) (56.17 %  de descuento) en el siguiente enlace!

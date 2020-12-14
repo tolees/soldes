@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N7QRX5S/?tag=tolees0d-21'
 descuento: '63.28'
+average: '110.14'
 ---
 
 Está [Camel Active Womenswear Feb-62 Blouson  Marron  Dark Brown 26   46  Taille Fabricant: 44  Femme](https://www.amazon.fr/dp/B07N7QRX5S/?tag=tolees0d-21) con 63.28 de descuento por 110.14 EUR (original: 299.95 EUR) en el siguiente enlace!

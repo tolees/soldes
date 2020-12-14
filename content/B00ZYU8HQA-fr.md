@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00ZYU8HQA/?tag=tolees0d-21'
 descuento: '32.42'
+average: '2.46'
 ---
 
 Ahora mismo tienes [Perel E390F2 Prise Femelle-IP44-Terre Française  Multicolore](https://www.amazon.fr/dp/B00ZYU8HQA/?tag=tolees0d-21) a 2.46 EUR (original: 3.64 EUR) (32.42 %  de descuento) en el siguiente enlace!

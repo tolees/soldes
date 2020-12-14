@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FQSWYLR/?tag=tolees0d-21'
 descuento: '47.38'
+average: '57.36'
 ---
 
 Está [Christian Lacroix Femme Analogique Quartz Montre avec Bracelet en Cuir CLWE56](https://www.amazon.fr/dp/B07FQSWYLR/?tag=tolees0d-21) con 47.38 de descuento por 57.36 EUR (original: 109.0 EUR) en el siguiente enlace!

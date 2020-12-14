@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YQJ34H7/?tag=tolees0d-21'
 descuento: '50.01'
+average: '49.99'
 ---
 
 Tienes [Roccat Kain 202 Aimo Wireless Souris Gaming RGB  Nouveau capteur Optique Owl-Eye 16.000 dpi  Technologie Titan Click  Blanche ROC-11-615-BK](https://www.amazon.fr/dp/B07YQJ34H7/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 49.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CDZD8B7/?tag=tolees0d-21'
 descuento: '54.36'
+average: '68.46'
 ---
 
 Está [Marshall Major III Casque Audio Bluetooth - Noir](https://www.amazon.fr/dp/B07CDZD8B7/?tag=tolees0d-21) con 54.36 de descuento por 68.46 EUR (original: 149.99 EUR) en el siguiente enlace!

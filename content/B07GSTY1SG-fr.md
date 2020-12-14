@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GSTY1SG/?tag=tolees0d-21'
 descuento: '37.59'
+average: '24.9'
 ---
 
 Ahora mismo tienes [Hommes Mode Sneakers Confort Respirant Doux Maille De Sports De Plein Air Chaussures De Marche Vert 46 EU](https://www.amazon.fr/dp/B07GSTY1SG/?tag=tolees0d-21) a 24.9 EUR (original: 39.9 EUR) (37.59 %  de descuento) en el siguiente enlace!

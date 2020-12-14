@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01NARBPI7/?tag=tolees0d-21'
 descuento: '36.68'
+average: '18.99'
 ---
 
 Ahora mismo tienes [Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de lecture allant jusqu à 200 Mo/s](https://www.amazon.fr/dp/B01NARBPI7/?tag=tolees0d-21) a 18.99 EUR (original: 29.99 EUR) (36.68 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PY54G7X/?tag=tolees0d-21'
 descuento: '58.18'
+average: '46.0'
 ---
 
 Ahora mismo tienes [AUBADE  Soutien-gorge corbeille  Bretelles réglables  THE BOW COLLECTION  Rose  95B  OC14](https://www.amazon.fr/dp/B07PY54G7X/?tag=tolees0d-21) a 46.0 EUR (original: 110.0 EUR) (58.18 %  de descuento) en el siguiente enlace!

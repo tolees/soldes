@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CJ2M37R/?tag=tolees0d-21'
 descuento: '60.30'
+average: '61.54'
 ---
 
 Está [El Naturalista Rice Field  Bottes Classiques Femme  Marron  Wood Wood   40 EU](https://www.amazon.fr/dp/B07CJ2M37R/?tag=tolees0d-21) con 60.30 de descuento por 61.54 EUR (original: 155.0 EUR) en el siguiente enlace!

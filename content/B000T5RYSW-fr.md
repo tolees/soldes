@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000T5RYSW/?tag=tolees0d-21'
 descuento: '42.51'
+average: '160.34'
 ---
 
 Ahora mismo tienes [Mauviel 270501 Penderie en cuivre  orange/jaune  1 cm](https://www.amazon.fr/dp/B000T5RYSW/?tag=tolees0d-21) a 160.34 EUR (original: 278.9 EUR) (42.51 %  de descuento) en el siguiente enlace!

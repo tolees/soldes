@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B005VNFH86/?tag=tolees0d-21'
 descuento: '37.12'
+average: '70.43'
 ---
 
 Está [THULE 960100 Barres de toit WingBar 960 en aluminium - Argenté Longueur 108 cm](https://www.amazon.fr/dp/B005VNFH86/?tag=tolees0d-21) con 37.12 de descuento por 70.43 EUR (original: 112.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CK4WXYW/?tag=tolees0d-21'
 descuento: '48.01'
+average: '63.99'
 ---
 
 Tienes [Disque Dur Externe 2to  USB-C Disque Dur Externe pour PC  Mac  Xbox One  Xbox 360 2To Noir ](https://www.amazon.fr/dp/B08CK4WXYW/?tag=tolees0d-21) con un 48.01 % de descuento con precio de oferta de 63.99 EUR (original: 123.07 EUR) en el siguiente enlace!

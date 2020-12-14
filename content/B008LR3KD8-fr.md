@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21'
 descuento: '39.29'
+average: '84.99'
 ---
 
 Está [Philips - HF3520/01 - Eveil Lumière avec Lampe LED - Fonction Red Shift](https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21) con 39.29 de descuento por 84.99 EUR (original: 139.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0875ZZNVS/?tag=tolees0d-21'
 descuento: '42.86'
+average: '39.99'
 ---
 
 Ahora mismo tienes [EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  6 Axes Manette Switch Pro avec Double Moteur Intégré pour Nintendo Switch Pro/Lite et PC  Blanc](https://www.amazon.fr/dp/B0875ZZNVS/?tag=tolees0d-21) a 39.99 EUR (original: 69.99 EUR) (42.86 %  de descuento) en el siguiente enlace!

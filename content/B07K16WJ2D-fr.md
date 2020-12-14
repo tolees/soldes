@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07K16WJ2D/?tag=tolees0d-21'
 descuento: '42.55'
+average: '22.95'
 ---
 
 Está [adidas Tiro Dufflebag M Sac en toile Black/White FR : Taille Unique  Taille Fabricant : Taille Unique  NoirBlack/White FR : Taille Unique  Taille Fabricant : Taille Unique ](https://www.amazon.fr/dp/B07K16WJ2D/?tag=tolees0d-21) con 42.55 de descuento por 22.95 EUR (original: 39.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01B4KG7EC/?tag=tolees0d-21'
 descuento: '44.00'
+average: '90.05'
 ---
 
 Tienes [Antitaches bois composite - WoodGuard Bois Composite - 5L](https://www.amazon.fr/dp/B01B4KG7EC/?tag=tolees0d-21) con un 44.00 % de descuento con precio de oferta de 90.05 EUR (original: 160.8 EUR) en el siguiente enlace!

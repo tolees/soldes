@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TNVG4TX/?tag=tolees0d-21'
 descuento: '25.00'
+average: '104.99'
 ---
 
 Ahora mismo tienes [VTech - Kidicom Advance noir - le portable sécurisé et sans forfait dès 6 ans  186605 ](https://www.amazon.fr/dp/B07TNVG4TX/?tag=tolees0d-21) a 104.99 EUR (original: 139.99 EUR) (25.00 %  de descuento) en el siguiente enlace!

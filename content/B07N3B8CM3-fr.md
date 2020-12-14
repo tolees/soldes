@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N3B8CM3/?tag=tolees0d-21'
 descuento: '56.84'
+average: '68.63'
 ---
 
 Tienes [DELSEY PARIS - BELMONT PLUS - Valise rigide à double roues multi directionnelles et serrure TSA intégrée - 70cm  80.5L  Orange](https://www.amazon.fr/dp/B07N3B8CM3/?tag=tolees0d-21) con un 56.84 % de descuento con precio de oferta de 68.63 EUR (original: 159.0 EUR) en el siguiente enlace!

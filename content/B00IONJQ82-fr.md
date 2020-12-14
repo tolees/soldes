@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00IONJQ82/?tag=tolees0d-21'
 descuento: '42.86'
+average: '2.0'
 ---
 
 Está [Orgakiddy SAC POUR VOMIR - Sachet de 3](https://www.amazon.fr/dp/B00IONJQ82/?tag=tolees0d-21) con 42.86 de descuento por 2.0 EUR (original: 3.5 EUR) en el siguiente enlace!

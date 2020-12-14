@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XBT91Q9/?tag=tolees0d-21'
 descuento: '26.78'
+average: '18.87'
 ---
 
 Ahora mismo tienes [Finish Pastilles Lave-Vaisselle Powerball Quantum Ultimate - 105 Tablettes Lave-Vaisselle](https://www.amazon.fr/dp/B07XBT91Q9/?tag=tolees0d-21) a 18.87 EUR (original: 25.77 EUR) (26.78 %  de descuento) en el siguiente enlace!

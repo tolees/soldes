@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21'
 descuento: '66.16'
+average: '33.84'
 ---
 
 Está [Tom Clancy s The Division 2 - Edition Gold](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21) con 66.16 de descuento por 33.84 EUR (original: 99.99 EUR) en el siguiente enlace!

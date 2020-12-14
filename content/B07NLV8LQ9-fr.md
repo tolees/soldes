@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NLV8LQ9/?tag=tolees0d-21'
 descuento: '30.00'
+average: '38.5'
 ---
 
 Tienes [Nike Revolution 5  Chaussures de Running Compétition Homme  Noir  Black/White-Anthracite 002   44 EU](https://www.amazon.fr/dp/B07NLV8LQ9/?tag=tolees0d-21) con un 30.00 % de descuento con precio de oferta de 38.5 EUR (original: 55.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06ZY2BWT5/?tag=tolees0d-21'
 descuento: '43.94'
+average: '56.0'
 ---
 
 Está [Tommy Hilfiger M2285Axwell 11C1  Baskets Basses Homme  Gris  Midnight   43 EU](https://www.amazon.fr/dp/B06ZY2BWT5/?tag=tolees0d-21) con 43.94 de descuento por 56.0 EUR (original: 99.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B071GDJG2B/?tag=tolees0d-21'
 descuento: '50.74'
+average: '98.02'
 ---
 
 Está [KERBHOLZ Montre en Bois – Collection Masterpieces Franz Chronomètre pour Homme Analogique à Quartz  Boîtier en Bois  Bracelet en Cuir Ø 46mm](https://www.amazon.fr/dp/B071GDJG2B/?tag=tolees0d-21) con 50.74 de descuento por 98.02 EUR (original: 199.0 EUR) en el siguiente enlace!

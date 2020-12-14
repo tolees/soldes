@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B087WKLBGJ/?tag=tolees0d-21'
 descuento: '42.38'
+average: '33.99'
 ---
 
 Tienes [AUKEY Écouteurs Bluetooth sans Fil avec USB-C Charge Rapide  IPX5 Étanche  25 Heures d Autonomie  Appariement Automatique  Stéréo Hi-FI Oreillette pour iPhone et Android](https://www.amazon.fr/dp/B087WKLBGJ/?tag=tolees0d-21) con un 42.38 % de descuento con precio de oferta de 33.99 EUR (original: 58.99 EUR) en el siguiente enlace!

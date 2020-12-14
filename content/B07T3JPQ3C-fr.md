@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07T3JPQ3C/?tag=tolees0d-21'
 descuento: '35.22'
+average: '38.99'
 ---
 
 Está [Clint Eastwood-Coffret 10 Films](https://www.amazon.fr/dp/B07T3JPQ3C/?tag=tolees0d-21) con 35.22 de descuento por 38.99 EUR (original: 60.19 EUR) en el siguiente enlace!

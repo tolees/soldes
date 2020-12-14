@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0093ZNDKW/?tag=tolees0d-21'
 descuento: '34.64'
+average: '15.0'
 ---
 
 Tienes [Arena Vortex Evolution Hand Paddle Équipement d’entraînement Mixte Adulte  Vert  L](https://www.amazon.fr/dp/B0093ZNDKW/?tag=tolees0d-21) con un 34.64 % de descuento con precio de oferta de 15.0 EUR (original: 22.95 EUR) en el siguiente enlace!

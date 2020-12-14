@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MBV163Z/?tag=tolees0d-21'
 descuento: '25.61'
+average: '334.96'
 ---
 
 Ahora mismo tienes [PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition Graphics Card](https://www.amazon.fr/dp/B07MBV163Z/?tag=tolees0d-21) a 334.96 EUR (original: 450.26 EUR) (25.61 %  de descuento) en el siguiente enlace!

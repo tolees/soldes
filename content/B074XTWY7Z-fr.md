@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B074XTWY7Z/?tag=tolees0d-21'
 descuento: '65.01'
+average: '34.99'
 ---
 
 Tienes [Airavata Homme Ensemble Pantalon de Sport Sweatshirt à capuche Jogging Survêtement - Bleu6 - XX-Large](https://www.amazon.fr/dp/B074XTWY7Z/?tag=tolees0d-21) con un 65.01 % de descuento con precio de oferta de 34.99 EUR (original: 99.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00I96M4RY/?tag=tolees0d-21'
 descuento: '33.68'
+average: '63.0'
 ---
 
 Está [Tefal SW853D12 Snack Collection Machine à Gaufres et Croques Noir/Inox](https://www.amazon.fr/dp/B00I96M4RY/?tag=tolees0d-21) con 33.68 de descuento por 63.0 EUR (original: 94.99 EUR) en el siguiente enlace!

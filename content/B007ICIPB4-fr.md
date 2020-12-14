@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21'
 descuento: '30.00'
+average: '63.08'
 ---
 
 Ahora mismo tienes [Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable Insert perceuse](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21) a 63.08 EUR (original: 90.12 EUR) (30.00 %  de descuento) en el siguiente enlace!

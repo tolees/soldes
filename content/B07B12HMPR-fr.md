@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07B12HMPR/?tag=tolees0d-21'
 descuento: '26.68'
+average: '10.99'
 ---
 
 Está [LEGO Unikitty - La voiture dans les nuages de Unikitty - 41451 - Jeu de construction](https://www.amazon.fr/dp/B07B12HMPR/?tag=tolees0d-21) con 26.68 de descuento por 10.99 EUR (original: 14.99 EUR) en el siguiente enlace!

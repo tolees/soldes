@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0874BF8YK/?tag=tolees0d-21'
 descuento: '63.01'
+average: '36.99'
 ---
 
 Tienes [Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  Manette Switch Pro pour Nintendo Switch Pro/ Lite et PC  Blanc](https://www.amazon.fr/dp/B0874BF8YK/?tag=tolees0d-21) con un 63.01 % de descuento con precio de oferta de 36.99 EUR (original: 99.99 EUR) en el siguiente enlace!

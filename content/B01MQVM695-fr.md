@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MQVM695/?tag=tolees0d-21'
 descuento: '52.85'
+average: '32.99'
 ---
 
 Tienes [Twinz up - Tire bouchon électrique sans-fil - Coffret avec coupe-capsule et socle de recharge - Cadeau idéal pour les amateurs de vins](https://www.amazon.fr/dp/B01MQVM695/?tag=tolees0d-21) con un 52.85 % de descuento con precio de oferta de 32.99 EUR (original: 69.97 EUR) en el siguiente enlace!

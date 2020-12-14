@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DGMWKK9/?tag=tolees0d-21'
 descuento: '40.04'
+average: '14.99'
 ---
 
 Está [Oral-B Vitality 100 Brosse à Dents Électrique Rechargeable par Braun  1 Manche Noir  1 Brossette CrossAction](https://www.amazon.fr/dp/B07DGMWKK9/?tag=tolees0d-21) con 40.04 de descuento por 14.99 EUR (original: 25.0 EUR) en el siguiente enlace!

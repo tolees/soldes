@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MKS74R7/?tag=tolees0d-21'
 descuento: '60.83'
+average: '117.12'
 ---
 
 Está [Le Tanneur femme Adele Sac bandouliere Rose  Poudre ](https://www.amazon.fr/dp/B07MKS74R7/?tag=tolees0d-21) con 60.83 de descuento por 117.12 EUR (original: 299.0 EUR) en el siguiente enlace!

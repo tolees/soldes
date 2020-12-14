@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B077XBPRM1/?tag=tolees0d-21'
 descuento: '40.54'
+average: '9.677692307692311'
 ---
 
 Tienes [Fruitman stylo multifonction idee cadeau homme original gadget high tech de coffret cadeau pour papa ou femme idée personnalisé rigolo cadeau insolite homme bricolage outillage pour accessoire](https://www.amazon.fr/dp/B077XBPRM1/?tag=tolees0d-21) con un 40.54 % de descuento con precio de oferta de 9.99 EUR (original: 16.8 EUR) en el siguiente enlace!

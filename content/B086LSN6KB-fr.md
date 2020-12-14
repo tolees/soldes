@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21'
 descuento: '40.19'
+average: '29.9'
 ---
 
 Ahora mismo tienes [Bioshock : The Collection](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21) a 29.9 EUR (original: 49.99 EUR) (40.19 %  de descuento) en el siguiente enlace!

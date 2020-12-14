@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B081QGSBDV/?tag=tolees0d-21'
 descuento: '35.14'
+average: '2.4'
 ---
 
 Tienes [Savon Le Naturel - Extra Pur de Marseille à la Fleur d Oranger - 500 ml](https://www.amazon.fr/dp/B081QGSBDV/?tag=tolees0d-21) con un 35.14 % de descuento con precio de oferta de 2.4 EUR (original: 3.7 EUR) en el siguiente enlace!

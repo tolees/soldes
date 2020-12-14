@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00PH28XW8/?tag=tolees0d-21'
 descuento: '85.36'
+average: '94.99'
 ---
 
 Tienes [Jean Bellecour - REDS3 - Travel - Montre Homme - Automatique Analogique - Cadran Noir - Bracelet Acier Noir](https://www.amazon.fr/dp/B00PH28XW8/?tag=tolees0d-21) con un 85.36 % de descuento con precio de oferta de 94.99 EUR (original: 649.0 EUR) en el siguiente enlace!

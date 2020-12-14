@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21'
 descuento: '44.47'
+average: '9.99'
 ---
 
 Está [Norah Jones - Live At Ronnie Scott s [Blu-ray]](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

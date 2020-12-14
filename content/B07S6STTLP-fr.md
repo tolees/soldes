@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07S6STTLP/?tag=tolees0d-21'
 descuento: '67.78'
+average: '29.0'
 ---
 
 Está [Coffret à Bijoux Beige Velvet - 18 x 12 x 7 cm](https://www.amazon.fr/dp/B07S6STTLP/?tag=tolees0d-21) con 67.78 de descuento por 29.0 EUR (original: 90.0 EUR) en el siguiente enlace!

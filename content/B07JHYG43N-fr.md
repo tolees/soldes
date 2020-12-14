@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JHYG43N/?tag=tolees0d-21'
 descuento: '57.27'
+average: '8.97'
 ---
 
 Ahora mismo tienes [Amazon Essentials Pantalon extensible pour homme Coupe ajustée Treillis  stone  36W x 33L](https://www.amazon.fr/dp/B07JHYG43N/?tag=tolees0d-21) a 8.97 EUR (original: 20.99 EUR) (57.27 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21'
 descuento: '27.67'
+average: '33.90523809523809'
 ---
 
 Ahora mismo tienes [Manette Sans Fil pour PS4 Manette pour Playstation 4 Gamepad pour PS4/ PS4 Slim/ PS4 Pro Console avec Double Vibration Moteur  Noir](https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21) a 33.99 EUR (original: 46.99 EUR) (27.67 %  de descuento) en el siguiente enlace!

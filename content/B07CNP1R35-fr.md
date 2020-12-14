@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CNP1R35/?tag=tolees0d-21'
 descuento: '32.55'
+average: '323.09'
 ---
 
 Está [YAMAHA RX-V485 – Amplificateur Home Cinema 145W – Système Bluetooth  Wifi  Airplay  Multiroom – Compatible avec smartphones et ordinateurs – Noir](https://www.amazon.fr/dp/B07CNP1R35/?tag=tolees0d-21) con 32.55 de descuento por 323.09 EUR (original: 479.0 EUR) en el siguiente enlace!

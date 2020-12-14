@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08F4STSVN/?tag=tolees0d-21'
 descuento: '51.72'
+average: '63.99'
 ---
 
 Tienes [Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Rouge ](https://www.amazon.fr/dp/B08F4STSVN/?tag=tolees0d-21) con un 51.72 % de descuento con precio de oferta de 63.99 EUR (original: 132.53 EUR) en el siguiente enlace!

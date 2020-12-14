@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B009U3FGC0/?tag=tolees0d-21'
 descuento: '59.99'
+average: '26.66'
 ---
 
 Tienes [Terratrend Job 4696/S/6310 Parka Taille S Gris Foncé/Noir](https://www.amazon.fr/dp/B009U3FGC0/?tag=tolees0d-21) con un 59.99 % de descuento con precio de oferta de 26.66 EUR (original: 66.64 EUR) en el siguiente enlace!

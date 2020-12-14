@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21'
 descuento: '40.61'
+average: '35.63'
 ---
 
 Tienes [Wasteland 3 : Day One Edition pour PS4](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21) con un 40.61 % de descuento con precio de oferta de 35.63 EUR (original: 59.99 EUR) en el siguiente enlace!

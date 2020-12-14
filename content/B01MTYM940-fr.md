@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MTYM940/?tag=tolees0d-21'
 descuento: '53.66'
+average: '16.09'
 ---
 
 Ahora mismo tienes [B.Catcher Collier en Argent  Zircone cubique  Pendentif Gemini  La fête Des Mères  Pour les fêtes  les anniversaires  les mariages](https://www.amazon.fr/dp/B01MTYM940/?tag=tolees0d-21) a 10.19 EUR (original: 21.99 EUR) (53.66 %  de descuento) en el siguiente enlace!

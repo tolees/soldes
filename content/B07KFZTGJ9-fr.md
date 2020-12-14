@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KFZTGJ9/?tag=tolees0d-21'
 descuento: '72.35'
+average: '22.11'
 ---
 
 Está [PUMA PUMA ONE 5.3 IT Futsal Shoes Unisex Adults’  Black  Puma Black-Nrgy Red-Puma Aged Silver   4 UK](https://www.amazon.fr/dp/B07KFZTGJ9/?tag=tolees0d-21) con 72.35 de descuento por 22.11 EUR (original: 79.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000KKLXDS/?tag=tolees0d-21'
 descuento: '35.17'
+average: '19.018181818181816'
 ---
 
 Tienes [Eastpak The One Sac Bandoulière  21 cm  2.5 L  Noir  Black ](https://www.amazon.fr/dp/B000KKLXDS/?tag=tolees0d-21) con un 35.17 % de descuento con precio de oferta de 19.45 EUR (original: 30.0 EUR) en el siguiente enlace!

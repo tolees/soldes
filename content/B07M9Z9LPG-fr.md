@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07M9Z9LPG/?tag=tolees0d-21'
 descuento: '56.21'
+average: '113.42'
 ---
 
 Está [Le Tanneur Gaspard TGAS4000  Hommes  Noir  Noir   7.5x30.5x38.5 cm  W x H x L ](https://www.amazon.fr/dp/B07M9Z9LPG/?tag=tolees0d-21) con 56.21 de descuento por 113.42 EUR (original: 259.0 EUR) en el siguiente enlace!

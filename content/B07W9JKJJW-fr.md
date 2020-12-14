@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W9JKJJW/?tag=tolees0d-21'
 descuento: '45.29'
+average: '19.69'
 ---
 
 Está [Balance Pèse Personne  iTeknic Pèse Personne Impédancemètre Balance Connectée Pèse Personnes Bluetooth Électronique Numérique Poids Masse Graisseuse et Muscle Graisse Musculaire IMC  Version 2019 ](https://www.amazon.fr/dp/B07W9JKJJW/?tag=tolees0d-21) con 45.29 de descuento por 19.69 EUR (original: 35.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00VFQU9KE/?tag=tolees0d-21'
 descuento: '40.08'
+average: '305.0'
 ---
 
 Tienes [Samsonite Lite-Shock - Spinner XL Valise  81 cm  124 L  Noir  Black ](https://www.amazon.fr/dp/B00VFQU9KE/?tag=tolees0d-21) con un 40.08 % de descuento con precio de oferta de 305.0 EUR (original: 509.0 EUR) en el siguiente enlace!

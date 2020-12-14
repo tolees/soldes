@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21'
 descuento: '61.70'
+average: '159.59'
 ---
 
 Tienes [Piquadro Sac à dos loisir  Marron - CA2943OS](https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21) con un 61.70 % de descuento con precio de oferta de 133.65 EUR (original: 349.0 EUR) en el siguiente enlace!

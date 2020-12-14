@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0861CV1GZ/?tag=tolees0d-21'
 descuento: '66.01'
+average: '33.99'
 ---
 
 Está [Muzili Écouteurs Bluetooth sans Fil Sport Étanches IPX7 Anti-Bruit CVC 8.0 Écouteurs 5.0 Intra-Auriculaires 36H Playtime Stéréo Son Casques de Sport Stéréo Hi-FI pour Gym Fitness](https://www.amazon.fr/dp/B0861CV1GZ/?tag=tolees0d-21) con 66.01 de descuento por 33.99 EUR (original: 99.99 EUR) en el siguiente enlace!

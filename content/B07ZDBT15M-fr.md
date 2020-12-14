@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21'
 descuento: '32.29'
+average: '75.15'
 ---
 
 Está [DD SSD KINGSTON KC600 2.5 SATA3 512GO  SKC600/512G *0253](https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21) con 32.29 de descuento por 75.15 EUR (original: 110.99 EUR) en el siguiente enlace!

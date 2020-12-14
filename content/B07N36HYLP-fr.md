@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N36HYLP/?tag=tolees0d-21'
 descuento: '62.39'
+average: '56.4'
 ---
 
 Está [BRAX Golf Julius Veste de Sport  Bleu  Blau 25   X-Large Homme](https://www.amazon.fr/dp/B07N36HYLP/?tag=tolees0d-21) con 62.39 de descuento por 56.4 EUR (original: 149.95 EUR) en el siguiente enlace!

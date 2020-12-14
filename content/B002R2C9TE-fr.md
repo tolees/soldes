@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B002R2C9TE/?tag=tolees0d-21'
 descuento: '46.91'
+average: '7.99'
 ---
 
 Está [Jusqu en Enfer [Blu-Ray]](https://www.amazon.fr/dp/B002R2C9TE/?tag=tolees0d-21) con 46.91 de descuento por 7.99 EUR (original: 15.05 EUR) en el siguiente enlace!

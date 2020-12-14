@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07V2J3LMK/?tag=tolees0d-21'
 descuento: '29.95'
+average: '69.98'
 ---
 
 Tienes [Tommy Hilfiger Corporate Material Mix Cupsole  Sneakers Basses Homme  Blanc  White Ybs   45 EU](https://www.amazon.fr/dp/B07V2J3LMK/?tag=tolees0d-21) con un 29.95 % de descuento con precio de oferta de 69.98 EUR (original: 99.9 EUR) en el siguiente enlace!

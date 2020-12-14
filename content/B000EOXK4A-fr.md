@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000EOXK4A/?tag=tolees0d-21'
 descuento: '31.86'
+average: '71.55'
 ---
 
 Está [Cat Footwear HAYCOX  Baskets Homme  Marron  Bistro 0   44 EU](https://www.amazon.fr/dp/B000EOXK4A/?tag=tolees0d-21) con 31.86 de descuento por 71.55 EUR (original: 105.0 EUR) en el siguiente enlace!

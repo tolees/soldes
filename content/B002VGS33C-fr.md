@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B002VGS33C/?tag=tolees0d-21'
 descuento: '43.33'
+average: '130.11'
 ---
 
 Ahora mismo tienes [Optima Red Top Rt S 4.2 Batterie Démarrage Sprial Cell  12V 50Ah 815 Amps  En ](https://www.amazon.fr/dp/B002VGS33C/?tag=tolees0d-21) a 130.11 EUR (original: 229.58 EUR) (43.33 %  de descuento) en el siguiente enlace!

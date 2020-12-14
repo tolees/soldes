@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B076CPGRGR/?tag=tolees0d-21'
 descuento: '44.46'
+average: '18.831666666666667'
 ---
 
 Está [BraceTek Cadre Empreintes Bébé  Kit Empreinte Bebe Mains pour Liste de Naissance  Souvenirs mémorable Décorations murale ou pour table  argile et cadres](https://www.amazon.fr/dp/B076CPGRGR/?tag=tolees0d-21) con 44.46 de descuento por 19.99 EUR (original: 35.99 EUR) en el siguiente enlace!

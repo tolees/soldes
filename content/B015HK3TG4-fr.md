@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015HK3TG4/?tag=tolees0d-21'
 descuento: '43.17'
+average: '79.0'
 ---
 
 Está [SweetLisS - Lisseur Libellule - Fer à lisser et à boucler avec Peigne intégré](https://www.amazon.fr/dp/B015HK3TG4/?tag=tolees0d-21) con 43.17 de descuento por 79.0 EUR (original: 139.0 EUR) en el siguiente enlace!

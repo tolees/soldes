@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00ULNHS9M/?tag=tolees0d-21'
 descuento: '55.59'
+average: '79.5'
 ---
 
 Tienes [Samsonite S Cure - Spinner S Bagage à Main  55 cm  34 L  Argent  Silver ](https://www.amazon.fr/dp/B00ULNHS9M/?tag=tolees0d-21) con un 55.59 % de descuento con precio de oferta de 79.5 EUR (original: 179.0 EUR) en el siguiente enlace!

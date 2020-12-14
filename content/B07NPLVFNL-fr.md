@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NPLVFNL/?tag=tolees0d-21'
 descuento: '40.00'
+average: '59.99'
 ---
 
 Está [Jabra Elite Active 45e – Casque de Sport Bluetooth sans Fil Waterproof pour les Appels et la Musique – Noir](https://www.amazon.fr/dp/B07NPLVFNL/?tag=tolees0d-21) con 40.00 de descuento por 59.99 EUR (original: 99.99 EUR) en el siguiente enlace!

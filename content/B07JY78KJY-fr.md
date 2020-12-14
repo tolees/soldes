@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JY78KJY/?tag=tolees0d-21'
 descuento: '25.03'
+average: '11.713333333333333'
 ---
 
 Está [Mini Modèle de Voiture Ensemble de Jouets de camions avec Tapis de Jeu pour les Enfants Garcon 3 ans](https://www.amazon.fr/dp/B07JY78KJY/?tag=tolees0d-21) con 25.03 de descuento por 11.98 EUR (original: 15.98 EUR) en el siguiente enlace!

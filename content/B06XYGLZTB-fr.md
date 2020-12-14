@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XYGLZTB/?tag=tolees0d-21'
 descuento: '25.56'
+average: '16.37'
 ---
 
 Tienes [AVANTEK D-3F 400m de Portée Sonnettes sans Fil Kit de Carillon Étanche avec 1 Récepteur Enfichables  52 Mélodies  Blanc](https://www.amazon.fr/dp/B06XYGLZTB/?tag=tolees0d-21) con un 25.56 % de descuento con precio de oferta de 16.37 EUR (original: 21.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FQF64TF/?tag=tolees0d-21'
 descuento: '52.53'
+average: '65.99'
 ---
 
 Ahora mismo tienes [MXIN 7 Couleurs LED Photon Therapy faciales Traitement de la lumière beauté Soins beauté Anti vieillissement  Rides  collagène Anti-âge Masque de beauté supprimer la Ligne Fine et rétrécir Les Pores.](https://www.amazon.fr/dp/B07FQF64TF/?tag=tolees0d-21) a 65.99 EUR (original: 139.0 EUR) (52.53 %  de descuento) en el siguiente enlace!

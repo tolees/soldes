@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GPJ3W91/?tag=tolees0d-21'
 descuento: '55.40'
+average: '71.35'
 ---
 
 Ahora mismo tienes [Pierre Cardin Steppjacke Airtouch Techno Daune Blouson  Bleu  Granat 3050   Large  Taille Fabricant: 54  Homme](https://www.amazon.fr/dp/B07GPJ3W91/?tag=tolees0d-21) a 71.35 EUR (original: 159.99 EUR) (55.40 %  de descuento) en el siguiente enlace!

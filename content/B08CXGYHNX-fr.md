@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CXGYHNX/?tag=tolees0d-21'
 descuento: '34.09'
+average: '115.99'
 ---
 
 Ahora mismo tienes [TECLAST Tablette 10 1 Pouces Android 10 P20HD FHD 1920x1200 Bluetooth 5.0 4 Go RAM + 64 Go ROM  Octa Core  4G Dual SIM/SD  Type-C  5.0 + 2.0 MP Cámara  WiFi+Mobile+GPS  Batterie 6000mAh](https://www.amazon.fr/dp/B08CXGYHNX/?tag=tolees0d-21) a 115.99 EUR (original: 175.99 EUR) (34.09 %  de descuento) en el siguiente enlace!

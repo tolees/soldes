@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00MAGDPPY/?tag=tolees0d-21'
 descuento: '34.46'
+average: '43.97'
 ---
 
 Tienes [Maisonnerie 1316-503-91 Campus Armoire Murale Miroir Meuble Salle de Bain Chêne de San Remo Claire/Blanc LxHxP 60 x 80 x 15 cm](https://www.amazon.fr/dp/B00MAGDPPY/?tag=tolees0d-21) con un 34.46 % de descuento con precio de oferta de 42.6 EUR (original: 65.0 EUR) en el siguiente enlace!

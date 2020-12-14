@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RQV3HQ5/?tag=tolees0d-21'
 descuento: '46.23'
+average: '63.99'
 ---
 
 Tienes [Oral-B Pro 2 2900 Brosses À Dents Électriques](https://www.amazon.fr/dp/B07RQV3HQ5/?tag=tolees0d-21) con un 46.23 % de descuento con precio de oferta de 63.99 EUR (original: 119.0 EUR) en el siguiente enlace!

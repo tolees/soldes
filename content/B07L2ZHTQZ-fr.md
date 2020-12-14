@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07L2ZHTQZ/?tag=tolees0d-21'
 descuento: '43.91'
+average: '22.99'
 ---
 
 Tienes [Chemise Femme Manche Longue Basic Casual - éLéGant Bureau Tunique Femme Mode Tee Top Haut Blouse  EU36  Blanc ](https://www.amazon.fr/dp/B07L2ZHTQZ/?tag=tolees0d-21) con un 43.91 % de descuento con precio de oferta de 22.99 EUR (original: 40.99 EUR) en el siguiente enlace!

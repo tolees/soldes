@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B003LXUQS4/?tag=tolees0d-21'
 descuento: '39.91'
+average: '57.99'
 ---
 
 Está [Pradel Excellence - 31123 - Valise Cuisinier 22 Pièces - 15 Ustensiles et 7 Couteaux de Cuisine](https://www.amazon.fr/dp/B003LXUQS4/?tag=tolees0d-21) con 39.91 de descuento por 57.99 EUR (original: 96.5 EUR) en el siguiente enlace!

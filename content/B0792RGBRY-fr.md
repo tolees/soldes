@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0792RGBRY/?tag=tolees0d-21'
 descuento: '26.51'
+average: '22.04'
 ---
 
 Tienes [LEGO Harry Potter - L évasion de Grindelwald - 75951 - Jeu de Construction](https://www.amazon.fr/dp/B0792RGBRY/?tag=tolees0d-21) con un 26.51 % de descuento con precio de oferta de 22.04 EUR (original: 29.99 EUR) en el siguiente enlace!

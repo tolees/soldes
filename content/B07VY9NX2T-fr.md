@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VY9NX2T/?tag=tolees0d-21'
 descuento: '61.83'
+average: '53.42'
 ---
 
 Tienes [Icebreaker Victory LS Zip Veste Femme Jet HTHR FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B07VY9NX2T/?tag=tolees0d-21) con un 61.83 % de descuento con precio de oferta de 53.42 EUR (original: 139.95 EUR) en el siguiente enlace!

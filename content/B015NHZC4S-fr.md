@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015NHZC4S/?tag=tolees0d-21'
 descuento: '34.34'
+average: '4.99'
 ---
 
 Está [Funko - Pocket POP Keychain: GOTG - Groot](https://www.amazon.fr/dp/B015NHZC4S/?tag=tolees0d-21) con 34.34 de descuento por 4.99 EUR (original: 7.6 EUR) en el siguiente enlace!

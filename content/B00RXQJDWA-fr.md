@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00RXQJDWA/?tag=tolees0d-21'
 descuento: '31.94'
+average: '29.94'
 ---
 
 Tienes [Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de maintien au chaud](https://www.amazon.fr/dp/B00RXQJDWA/?tag=tolees0d-21) con un 31.94 % de descuento con precio de oferta de 29.94 EUR (original: 43.99 EUR) en el siguiente enlace!

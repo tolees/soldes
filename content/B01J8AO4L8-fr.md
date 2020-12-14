@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01J8AO4L8/?tag=tolees0d-21'
 descuento: '43.44'
+average: '56.5'
 ---
 
 Tienes [Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec Bracelet en Plastique GA-100L-2AER](https://www.amazon.fr/dp/B01J8AO4L8/?tag=tolees0d-21) con un 43.44 % de descuento con precio de oferta de 56.5 EUR (original: 99.9 EUR) en el siguiente enlace!

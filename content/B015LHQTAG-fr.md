@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015LHQTAG/?tag=tolees0d-21'
 descuento: '66.32'
+average: '66.71333333333334'
 ---
 
 Tienes [Beurer FC 90 Pureo Ionic Soin du Visage Anti-âge - Brosse Cosmétique - Solution en 4 étapes - Diffusion de Chaleur et de Froid - Ecran LCD - Fonctionnement sur Secteur](https://www.amazon.fr/dp/B015LHQTAG/?tag=tolees0d-21) con un 66.32 % de descuento con precio de oferta de 55.24 EUR (original: 163.99 EUR) en el siguiente enlace!

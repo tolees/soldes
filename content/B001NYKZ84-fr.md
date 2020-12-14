@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B001NYKZ84/?tag=tolees0d-21'
 descuento: '40.98'
+average: '63.74'
 ---
 
 Está [Reebok Classic Leather  Baskets Basses Femme  Noir  Black   38 EU](https://www.amazon.fr/dp/B001NYKZ84/?tag=tolees0d-21) con 40.98 de descuento por 63.74 EUR (original: 108.0 EUR) en el siguiente enlace!

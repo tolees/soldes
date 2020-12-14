@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MF3RT29/?tag=tolees0d-21'
 descuento: '25.09'
+average: '209.0'
 ---
 
 Tienes [Hoover H-Free 700 HF722PTLG  Aspirateur balai sans fil multifonction  Titane et Bleu](https://www.amazon.fr/dp/B07MF3RT29/?tag=tolees0d-21) con un 25.09 % de descuento con precio de oferta de 209.0 EUR (original: 279.0 EUR) en el siguiente enlace!

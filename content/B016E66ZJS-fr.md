@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B016E66ZJS/?tag=tolees0d-21'
 descuento: '50.10'
+average: '4.99'
 ---
 
 Está [Le Grand jour](https://www.amazon.fr/dp/B016E66ZJS/?tag=tolees0d-21) con 50.10 de descuento por 4.99 EUR (original: 10.0 EUR) en el siguiente enlace!

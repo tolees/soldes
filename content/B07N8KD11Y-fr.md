@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N8KD11Y/?tag=tolees0d-21'
 descuento: '40.54'
+average: '115.95'
 ---
 
 Ahora mismo tienes [Hugo Atom Runn neoem  Sneakers Basses Homme  Bleu  Navy 401   39 EU](https://www.amazon.fr/dp/B07N8KD11Y/?tag=tolees0d-21) a 115.95 EUR (original: 195.0 EUR) (40.54 %  de descuento) en el siguiente enlace!

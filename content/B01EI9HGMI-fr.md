@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01EI9HGMI/?tag=tolees0d-21'
 descuento: '47.52'
+average: '62.98'
 ---
 
 Está [adidas Gazelle  Sneakers basses mixte adulte  Bleu  Collegiate Navy/White/Gold Met   43 1/3 EU](https://www.amazon.fr/dp/B01EI9HGMI/?tag=tolees0d-21) con 47.52 de descuento por 62.98 EUR (original: 120.0 EUR) en el siguiente enlace!

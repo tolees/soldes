@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01I1SB9E8/?tag=tolees0d-21'
 descuento: '40.04'
+average: '29.95'
 ---
 
 Está [B.K. Licht réglette LED orientable  platine LED 8 5W intégrée  1000Lm  blanche neutre 4000K  éclairage dressing placard cuisine  230V  IP20  titane](https://www.amazon.fr/dp/B01I1SB9E8/?tag=tolees0d-21) con 40.04 de descuento por 29.95 EUR (original: 49.95 EUR) en el siguiente enlace!

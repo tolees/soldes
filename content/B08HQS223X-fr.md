@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08HQS223X/?tag=tolees0d-21'
 descuento: '31.63'
+average: '12.99'
 ---
 
 Tienes [Coque Xiaomi Note 10  Double Couche Renforcée Défense Bumper  Coque de Protection Robuste Anti-Choc avec Béquille pour Xiaomi Note 10/note10 Pro/Note 10 Lite/CC9 Pro  Rouge ](https://www.amazon.fr/dp/B08HQS223X/?tag=tolees0d-21) con un 31.63 % de descuento con precio de oferta de 12.99 EUR (original: 19.0 EUR) en el siguiente enlace!

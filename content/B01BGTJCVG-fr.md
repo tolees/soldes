@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01BGTJCVG/?tag=tolees0d-21'
 descuento: '30.82'
+average: '82.98'
 ---
 
 Está [G-Star 3301 Straight Tapered Jeans  Bleu  lt Aged 7607-424   30W / 32L Homme](https://www.amazon.fr/dp/B01BGTJCVG/?tag=tolees0d-21) con 30.82 de descuento por 82.98 EUR (original: 119.95 EUR) en el siguiente enlace!

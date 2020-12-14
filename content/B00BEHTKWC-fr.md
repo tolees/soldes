@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00BEHTKWC/?tag=tolees0d-21'
 descuento: '37.55'
+average: '499.0'
 ---
 
 Tienes [Sonos Playbar Barre de son TV sans fil et enceinte wifi multiroom pour vos films  jeux vidéo et musique en streaming - compatible dolby digital  apple tv et gaming - Noir](https://www.amazon.fr/dp/B00BEHTKWC/?tag=tolees0d-21) con un 37.55 % de descuento con precio de oferta de 499.0 EUR (original: 799.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01M08BFBH/?tag=tolees0d-21'
 descuento: '44.65'
+average: '271.2'
 ---
 
 Tienes [LUCIEN ROCHAT Horloge R0473604002](https://www.amazon.fr/dp/B01M08BFBH/?tag=tolees0d-21) con un 44.65 % de descuento con precio de oferta de 271.2 EUR (original: 490.0 EUR) en el siguiente enlace!

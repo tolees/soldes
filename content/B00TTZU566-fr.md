@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00TTZU566/?tag=tolees0d-21'
 descuento: '27.26'
+average: '40.0'
 ---
 
 Ahora mismo tienes [Visseuse sans fil Bosch -  IXO V Edition Classique  Livrée avec chargeur et 10 embouts de vissage  boîte en métal ](https://www.amazon.fr/dp/B00TTZU566/?tag=tolees0d-21) a 40.0 EUR (original: 54.99 EUR) (27.26 %  de descuento) en el siguiente enlace!

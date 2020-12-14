@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HL77LV5/?tag=tolees0d-21'
 descuento: '44.83'
+average: '38.07'
 ---
 
 Ahora mismo tienes [Nautica Competition Short Sport  Rouge Fire Red 6ey  36  Taille Fabricant: Medium  Homme](https://www.amazon.fr/dp/B07HL77LV5/?tag=tolees0d-21) a 38.07 EUR (original: 69.0 EUR) (44.83 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B001CFI9A0/?tag=tolees0d-21'
 descuento: '31.57'
+average: '23.61'
 ---
 
 Está [DE BUYER -3125.16 -moule a charlotte inox 18/10s/couv.ø16](https://www.amazon.fr/dp/B001CFI9A0/?tag=tolees0d-21) con 31.57 de descuento por 23.61 EUR (original: 34.5 EUR) en el siguiente enlace!

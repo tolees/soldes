@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BKZY63L/?tag=tolees0d-21'
 descuento: '50.00'
+average: '34.95'
 ---
 
 Está [Les Tropéziennes par M. Belarbi HIRONDEL  Sandales Bride Cheville Femmes  Marron  Tan/Or 797   39 EU](https://www.amazon.fr/dp/B07BKZY63L/?tag=tolees0d-21) con 50.00 de descuento por 34.95 EUR (original: 69.9 EUR) en el siguiente enlace!

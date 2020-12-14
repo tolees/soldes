@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0781ZSSM2/?tag=tolees0d-21'
 descuento: '35.00'
+average: '67.23'
 ---
 
 Tienes [MILLET Vector Grid JKT  Polaire Alpinisme  Homme](https://www.amazon.fr/dp/B0781ZSSM2/?tag=tolees0d-21) con un 35.00 % de descuento con precio de oferta de 67.23 EUR (original: 103.43 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JN95HHT/?tag=tolees0d-21'
 descuento: '50.44'
+average: '49.51'
 ---
 
 Tienes [Buffalo Cali  Sneakers Basses Femme  Multicolore  Pink/White 000   36 EU](https://www.amazon.fr/dp/B07JN95HHT/?tag=tolees0d-21) con un 50.44 % de descuento con precio de oferta de 49.51 EUR (original: 99.9 EUR) en el siguiente enlace!

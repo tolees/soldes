@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FFBRNPG/?tag=tolees0d-21'
 descuento: '39.57'
+average: '72.48'
 ---
 
 Está [CYBEX Gold Sac à Langer Scuderia Ferrari  Victory Black](https://www.amazon.fr/dp/B07FFBRNPG/?tag=tolees0d-21) con 39.57 de descuento por 72.48 EUR (original: 119.95 EUR) en el siguiente enlace!

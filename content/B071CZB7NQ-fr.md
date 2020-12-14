@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B071CZB7NQ/?tag=tolees0d-21'
 descuento: '38.34'
+average: '36.99'
 ---
 
 Tienes [Enceinte Haut-parleur Bluetooth Portable Lampe de Chevet LED avec Contrôle Tactile  Lampe de Table Couleur Changeant la Lumière de Nuit avec le Réveil pour la Chambre](https://www.amazon.fr/dp/B071CZB7NQ/?tag=tolees0d-21) con un 38.34 % de descuento con precio de oferta de 36.99 EUR (original: 59.99 EUR) en el siguiente enlace!

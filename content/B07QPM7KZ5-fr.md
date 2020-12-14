@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QPM7KZ5/?tag=tolees0d-21'
 descuento: '34.01'
+average: '32.99'
 ---
 
 Está [NICOLE & DORIS Femmes Sacs à Main bandoulière Sac d épaule pour Dames Sacs Femmes de Mode Retro Sac à Main en Cuir PU Boule de Cheveux Violet Clair](https://www.amazon.fr/dp/B07QPM7KZ5/?tag=tolees0d-21) con 34.01 de descuento por 32.99 EUR (original: 49.99 EUR) en el siguiente enlace!

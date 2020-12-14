@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08HVC5FDF/?tag=tolees0d-21'
 descuento: '33.36'
+average: '7.99'
 ---
 
 Está [XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau Support [Fonctionne avec Support De Voiture Magnétique] Étui Housse  Rouge + 2 Pack Verre Trempé Écran Protecteur](https://www.amazon.fr/dp/B08HVC5FDF/?tag=tolees0d-21) con 33.36 de descuento por 7.99 EUR (original: 11.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06ZZWSSD7/?tag=tolees0d-21'
 descuento: '37.41'
+average: '143.9'
 ---
 
 Está [Morphy Richards Supervac Deluxe 32 V](https://www.amazon.fr/dp/B06ZZWSSD7/?tag=tolees0d-21) con 37.41 de descuento por 143.9 EUR (original: 229.9 EUR) en el siguiente enlace!

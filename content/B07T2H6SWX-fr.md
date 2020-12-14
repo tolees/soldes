@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07T2H6SWX/?tag=tolees0d-21'
 descuento: '32.73'
+average: '53.99'
 ---
 
 Tienes [The Mentalist-L intégrale de la série](https://www.amazon.fr/dp/B07T2H6SWX/?tag=tolees0d-21) con un 32.73 % de descuento con precio de oferta de 53.99 EUR (original: 80.26 EUR) en el siguiente enlace!

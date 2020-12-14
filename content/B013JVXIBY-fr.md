@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013JVXIBY/?tag=tolees0d-21'
 descuento: '42.01'
+average: '57.99'
 ---
 
 Está [Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu  C00088 Pembroke 0142   W33/L32  Taille fabricant: W33/L32 ](https://www.amazon.fr/dp/B013JVXIBY/?tag=tolees0d-21) con 42.01 de descuento por 57.99 EUR (original: 100.0 EUR) en el siguiente enlace!

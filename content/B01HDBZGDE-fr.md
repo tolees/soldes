@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01HDBZGDE/?tag=tolees0d-21'
 descuento: '44.47'
+average: '9.99'
 ---
 
 Está [Live at Montreux 1991 [Blu-ray]](https://www.amazon.fr/dp/B01HDBZGDE/?tag=tolees0d-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

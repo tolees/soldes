@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07D9FK7LB/?tag=tolees0d-21'
 descuento: '53.70'
+average: '46.3'
 ---
 
 Ahora mismo tienes [Levi s 501 Original Fit – Jean - Homme - Bleu  Bleu  Sponge   - 32W / 30L](https://www.amazon.fr/dp/B07D9FK7LB/?tag=tolees0d-21) a 46.3 EUR (original: 100.0 EUR) (53.70 %  de descuento) en el siguiente enlace!

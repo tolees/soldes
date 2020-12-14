@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01891LZBY/?tag=tolees0d-21'
 descuento: '29.90'
+average: '62.96'
 ---
 
 Está [Rowenta Ventilateur sur pied 16  /40 cm Turbo Silence Extrême VU5640F0](https://www.amazon.fr/dp/B01891LZBY/?tag=tolees0d-21) con 29.90 de descuento por 62.96 EUR (original: 89.82 EUR) en el siguiente enlace!

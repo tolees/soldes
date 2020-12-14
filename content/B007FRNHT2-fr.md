@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B007FRNHT2/?tag=tolees0d-21'
 descuento: '31.28'
+average: '177.98'
 ---
 
 Tienes [Barigo 386MSMA Marron Station météo numérique - Stations météo numériques  Marron ](https://www.amazon.fr/dp/B007FRNHT2/?tag=tolees0d-21) con un 31.28 % de descuento con precio de oferta de 177.98 EUR (original: 259.0 EUR) en el siguiente enlace!

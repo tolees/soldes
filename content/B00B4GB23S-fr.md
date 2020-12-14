@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00B4GB23S/?tag=tolees0d-21'
 descuento: '50.00'
+average: '30.0'
 ---
 
 Tienes [Vans Atwood Total  Baskets Basses Homme  Noir  Canvas Black/Black   43 EU](https://www.amazon.fr/dp/B00B4GB23S/?tag=tolees0d-21) con un 50.00 % de descuento con precio de oferta de 30.0 EUR (original: 60.0 EUR) en el siguiente enlace!

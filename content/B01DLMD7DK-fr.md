@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21'
 descuento: '34.08'
+average: '988.79'
 ---
 
 Ahora mismo tienes [Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G ](https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21) a 988.79 EUR (original: 1500.0 EUR) (34.08 %  de descuento) en el siguiente enlace!

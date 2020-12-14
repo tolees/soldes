@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01EJHK5YA/?tag=tolees0d-21'
 descuento: '29.30'
+average: '69.99'
 ---
 
 Tienes [Panasonic DMP-BDT167 Lecteur DVD Port USB](https://www.amazon.fr/dp/B01EJHK5YA/?tag=tolees0d-21) con un 29.30 % de descuento con precio de oferta de 69.99 EUR (original: 99.0 EUR) en el siguiente enlace!

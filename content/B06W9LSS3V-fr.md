@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06W9LSS3V/?tag=tolees0d-21'
 descuento: '42.10'
+average: '55.0'
 ---
 
 Tienes [Honeywell HYF260E4 Ventilateur Tour QuietSet Puissant et Ultra Silencieux-avec télécommande-HYF260E  Blanc](https://www.amazon.fr/dp/B06W9LSS3V/?tag=tolees0d-21) con un 42.10 % de descuento con precio de oferta de 55.0 EUR (original: 94.99 EUR) en el siguiente enlace!

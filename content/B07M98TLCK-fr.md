@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07M98TLCK/?tag=tolees0d-21'
 descuento: '25.00'
+average: '89.99'
 ---
 
 Tienes [Blink XT2 | Caméra de sécurité connectée  Intérieur/extérieur  avec stockage dans le Cloud  système audio bidirectionnel  2 ans d autonomie de la batterie | Kit 1 caméra](https://www.amazon.fr/dp/B07M98TLCK/?tag=tolees0d-21) con un 25.00 % de descuento con precio de oferta de 89.99 EUR (original: 119.99 EUR) en el siguiente enlace!

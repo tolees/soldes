@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MSVG93C/?tag=tolees0d-21'
 descuento: '48.26'
+average: '90.5'
 ---
 
 Está [Liu Jo Shoes Karlie 14 Sneaker Bordeaux  Sneakers Basses Femme  Rouge S1703  41 EU](https://www.amazon.fr/dp/B07MSVG93C/?tag=tolees0d-21) con 48.26 de descuento por 90.5 EUR (original: 174.9 EUR) en el siguiente enlace!

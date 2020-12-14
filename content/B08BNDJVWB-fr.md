@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08BNDJVWB/?tag=tolees0d-21'
 descuento: '48.02'
+average: '12.99'
 ---
 
 Ahora mismo tienes [eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync Boutons  Kit de Boutons Kit de Réparation avec Outils pour Xbox One S & Xbox One X Manette Contrôleur  Modèle1708 -Blanc](https://www.amazon.fr/dp/B08BNDJVWB/?tag=tolees0d-21) a 12.99 EUR (original: 24.99 EUR) (48.02 %  de descuento) en el siguiente enlace!

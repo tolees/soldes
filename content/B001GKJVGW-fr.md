@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21'
 descuento: '52.26'
+average: '68.74'
 ---
 
 Está [Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21) con 52.26 de descuento por 68.74 EUR (original: 144.0 EUR) en el siguiente enlace!

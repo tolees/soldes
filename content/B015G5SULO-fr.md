@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015G5SULO/?tag=tolees0d-21'
 descuento: '58.53'
+average: '95.39'
 ---
 
 Ahora mismo tienes [Tod s Tod’S Brillengestelle To5116 Lunettes de soleil  Bleu  Blau   53.0 Homme](https://www.amazon.fr/dp/B015G5SULO/?tag=tolees0d-21) a 95.39 EUR (original: 230.0 EUR) (58.53 %  de descuento) en el siguiente enlace!

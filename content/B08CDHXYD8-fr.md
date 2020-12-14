@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CDHXYD8/?tag=tolees0d-21'
 descuento: '41.39'
+average: '16.99'
 ---
 
 Está [Kit Soins Barbe pour Hommes  Derma Roller+Sérum Activateur de croissance de Barbe+Baume à Barbe+Peigne à Barbe+Ciseaux à Barbe 5 en 1 Cadeau de soins de Barbe pour Homme](https://www.amazon.fr/dp/B08CDHXYD8/?tag=tolees0d-21) con 41.39 de descuento por 16.99 EUR (original: 28.99 EUR) en el siguiente enlace!

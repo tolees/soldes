@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07F3C3HZV/?tag=tolees0d-21'
 descuento: '25.00'
+average: '149.99'
 ---
 
 Está [Catapult PLAYR Smart Football Tracker - Veste GPS et Application de Suivi et amélioration des Performances - pour iPhone and Android  XXS ](https://www.amazon.fr/dp/B07F3C3HZV/?tag=tolees0d-21) con 25.00 de descuento por 149.99 EUR (original: 199.99 EUR) en el siguiente enlace!

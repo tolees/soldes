@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W6YG1LC/?tag=tolees0d-21'
 descuento: '43.64'
+average: '309.98'
 ---
 
 Ahora mismo tienes [ECOVACS OZMO920 Robot Aspirateur Laveur  2-en-1 avec Technologie Laser Smart Navi 3.0  Nettoyage Personnalisé  Cartographie multi-étages  Barrières Virtuelles  sur les Tapis  Moquettes et Sols Durs](https://www.amazon.fr/dp/B07W6YG1LC/?tag=tolees0d-21) a 309.98 EUR (original: 549.99 EUR) (43.64 %  de descuento) en el siguiente enlace!

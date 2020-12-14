@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075XDT62F/?tag=tolees0d-21'
 descuento: '75.02'
+average: '9.99'
 ---
 
 Ahora mismo tienes [Norsens Sac à Dos Ordinateur Portable 17/15.6 Pouces Antivol pour Homme Imperméable Sac a Dos PC Portable pour Loisirs/Affaire/Scolaire Noir](https://www.amazon.fr/dp/B075XDT62F/?tag=tolees0d-21) a 9.99 EUR (original: 39.99 EUR) (75.02 %  de descuento) en el siguiente enlace!

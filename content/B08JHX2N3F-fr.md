@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08JHX2N3F/?tag=tolees0d-21'
 descuento: '25.01'
+average: '14.99'
 ---
 
 Está [Ruban LED  REDSTORM Bande LED TV Rétroéclairage Lumière Light Strip 3m  Eclairage Multicolor 5050 RGB  Bande Lumineuse 16 Couleurs Statiques et 4 Modes Dynamiques avec IR Télécommande Alimenté par USB](https://www.amazon.fr/dp/B08JHX2N3F/?tag=tolees0d-21) con 25.01 de descuento por 14.99 EUR (original: 19.99 EUR) en el siguiente enlace!

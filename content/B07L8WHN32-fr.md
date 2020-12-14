@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07L8WHN32/?tag=tolees0d-21'
 descuento: '37.22'
+average: '80.98'
 ---
 
 Ahora mismo tienes [Replay M1005 .000.573 584 Jean Droit  Bleu  Medium Blue 9   W29/L34  Taille Fabricant: 29  Homme](https://www.amazon.fr/dp/B07L8WHN32/?tag=tolees0d-21) a 80.98 EUR (original: 129.0 EUR) (37.22 %  de descuento) en el siguiente enlace!

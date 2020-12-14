@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089NS9JW2/?tag=tolees0d-21'
 descuento: '41.17'
+average: '36.96652173913043'
 ---
 
 Está [Xiaomi Band 5 Smart Fitness Bracelet Cardiofréquence mètre  Bracelet étanche de Sport  2020 Dernier écran Bluetooth 5.0 Couleur AMOLED  Noir  Mi Bande 5  Noir M](https://www.amazon.fr/dp/B089NS9JW2/?tag=tolees0d-21) con 41.17 de descuento por 29.41 EUR (original: 49.99 EUR) en el siguiente enlace!

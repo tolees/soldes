@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B019K09PKG/?tag=tolees0d-21'
 descuento: '52.06'
+average: '12.295'
 ---
 
 Está [Pinypon - 700012739 - la Garderie des Animaux](https://www.amazon.fr/dp/B019K09PKG/?tag=tolees0d-21) con 52.06 de descuento por 11.98 EUR (original: 24.99 EUR) en el siguiente enlace!

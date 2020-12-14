@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00LMCEW40/?tag=tolees0d-21'
 descuento: '60.00'
+average: '42.17'
 ---
 
 Está [Mano Sets de bagages MPTSET3 Noir 56.0 liters](https://www.amazon.fr/dp/B00LMCEW40/?tag=tolees0d-21) con 60.00 de descuento por 42.17 EUR (original: 105.43 EUR) en el siguiente enlace!

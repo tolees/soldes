@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08GLC4P3B/?tag=tolees0d-21'
 descuento: '52.53'
+average: '63.99'
 ---
 
 Tienes [Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Noir ](https://www.amazon.fr/dp/B08GLC4P3B/?tag=tolees0d-21) con un 52.53 % de descuento con precio de oferta de 63.99 EUR (original: 134.81 EUR) en el siguiente enlace!

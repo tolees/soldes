@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08BLHR4HF/?tag=tolees0d-21'
 descuento: '25.01'
+average: '59.99'
 ---
 
 Tienes [LIGHTAILING Jeu De Lumières pour  Architecture La Maison Blanche  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21054 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B08BLHR4HF/?tag=tolees0d-21) con un 25.01 % de descuento con precio de oferta de 59.99 EUR (original: 80.0 EUR) en el siguiente enlace!

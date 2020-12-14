@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089QJXVNR/?tag=tolees0d-21'
 descuento: '43.66'
+average: '33.8'
 ---
 
 Ahora mismo tienes [Écouteurs sans Fil Bluetooth 5.0  IPX5 écouteurs étanches Sportifs  Binaural Couplage Automatique  3D Stéréo HiFi  Microphone intégré  pour/iPhone Android/Apple Airpods Pro/Huawei/Samsung/Xiaomi](https://www.amazon.fr/dp/B089QJXVNR/?tag=tolees0d-21) a 33.8 EUR (original: 59.99 EUR) (43.66 %  de descuento) en el siguiente enlace!

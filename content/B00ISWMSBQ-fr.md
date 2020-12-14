@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21'
 descuento: '35.59'
+average: '38.0'
 ---
 
 Tienes [Fossil Femme Collier JF01146040](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21) con un 35.59 % de descuento con precio de oferta de 38.0 EUR (original: 59.0 EUR) en el siguiente enlace!

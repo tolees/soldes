@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00VI3MK4M/?tag=tolees0d-21'
 descuento: '36.93'
+average: '161.01088888888893'
 ---
 
 Está [Smartphone Xiaomi Redmi Note 8T  6.3   - 4 GB - 64 GB - Blue ](https://www.amazon.fr/dp/B00VI3MK4M/?tag=tolees0d-21) con 36.93 de descuento por 145.0 EUR (original: 229.9 EUR) en el siguiente enlace!

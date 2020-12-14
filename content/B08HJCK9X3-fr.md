@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08HJCK9X3/?tag=tolees0d-21'
 descuento: '60.62'
+average: '12.99'
 ---
 
 Ahora mismo tienes [Montre Connectée Femmes Homme Bracelet Connecté Cardiofréquencemètre Etanche IP67 Smartwatch Sport Fitness Tracker Podometre Marche Sommeil Calorie](https://www.amazon.fr/dp/B08HJCK9X3/?tag=tolees0d-21) a 12.99 EUR (original: 32.99 EUR) (60.62 %  de descuento) en el siguiente enlace!

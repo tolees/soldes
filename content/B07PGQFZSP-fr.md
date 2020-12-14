@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PGQFZSP/?tag=tolees0d-21'
 descuento: '58.37'
+average: '111.56'
 ---
 
 Está [Chie Mihara Ventura  Escarpins Salomé Femmes  Noir  Ante Picasso Negro   39 EU](https://www.amazon.fr/dp/B07PGQFZSP/?tag=tolees0d-21) con 58.37 de descuento por 111.56 EUR (original: 268.0 EUR) en el siguiente enlace!

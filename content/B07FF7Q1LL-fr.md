@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FF7Q1LL/?tag=tolees0d-21'
 descuento: '38.25'
+average: '24.99'
 ---
 
 Tienes [Huawei 55030207 Creative Capacity Pen pour Mediapad M5 lite 10" Gris](https://www.amazon.fr/dp/B07FF7Q1LL/?tag=tolees0d-21) con un 38.25 % de descuento con precio de oferta de 24.99 EUR (original: 40.47 EUR) en el siguiente enlace!

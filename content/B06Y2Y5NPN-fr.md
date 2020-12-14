@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06Y2Y5NPN/?tag=tolees0d-21'
 descuento: '48.00'
+average: '52.0'
 ---
 
 Está [New Balance homme 574v2 Core Baskets  Bleu  Navy   45 EU](https://www.amazon.fr/dp/B06Y2Y5NPN/?tag=tolees0d-21) con 48.00 de descuento por 52.0 EUR (original: 100.0 EUR) en el siguiente enlace!

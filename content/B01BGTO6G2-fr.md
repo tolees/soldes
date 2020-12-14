@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01BGTO6G2/?tag=tolees0d-21'
 descuento: '38.00'
+average: '61.97'
 ---
 
 Tienes [G-Star Bronson Slim Chino Pantalon  Grey  GS Grey 5126-1260   31W / 32L Homme](https://www.amazon.fr/dp/B01BGTO6G2/?tag=tolees0d-21) con un 38.00 % de descuento con precio de oferta de 61.97 EUR (original: 99.95 EUR) en el siguiente enlace!

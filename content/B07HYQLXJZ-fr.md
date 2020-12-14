@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HYQLXJZ/?tag=tolees0d-21'
 descuento: '48.60'
+average: '59.11'
 ---
 
 Está [Nike WMNS Air Force 1 High  Chaussures de Fitness Femme  Noir  Black/Black/Black 013   39 EU](https://www.amazon.fr/dp/B07HYQLXJZ/?tag=tolees0d-21) con 48.60 de descuento por 59.11 EUR (original: 115.0 EUR) en el siguiente enlace!

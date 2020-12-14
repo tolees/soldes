@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21'
 descuento: '68.64'
+average: '34.5'
 ---
 
 Tienes [HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse de couette et 2 taies d oreiller  Coton mélangé  multicolore  King](https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21) con un 68.64 % de descuento con precio de oferta de 34.5 EUR (original: 110.03 EUR) en el siguiente enlace!

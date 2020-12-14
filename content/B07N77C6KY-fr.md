@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N77C6KY/?tag=tolees0d-21'
 descuento: '34.46'
+average: '59.98'
 ---
 
 Tienes [Carte Uhs-I Lexar Professional 633x 512 Go Microsdxc](https://www.amazon.fr/dp/B07N77C6KY/?tag=tolees0d-21) con un 34.46 % de descuento con precio de oferta de 59.98 EUR (original: 91.51 EUR) en el siguiente enlace!

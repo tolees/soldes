@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CXNJ5S3/?tag=tolees0d-21'
 descuento: '40.93'
+average: '12.99'
 ---
 
 Está [Chargeur Voiture USB C Rapide pour Samsung S20 Plus Ultra S10 S9 S8 A70 A71 A50 A70 Note 20 10 9 8 Huawei P20 P30 Lite Xiaomi Redmi Note 9 8 7 Pro Mi 10 9 A3 36W:PD 3.0+Quick Charge 3.0+1M PD Cable](https://www.amazon.fr/dp/B08CXNJ5S3/?tag=tolees0d-21) con 40.93 de descuento por 12.99 EUR (original: 21.99 EUR) en el siguiente enlace!

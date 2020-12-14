@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21'
 descuento: '52.44'
+average: '19.02'
 ---
 
 Ahora mismo tienes [Darksiders - Genesis](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21) a 19.02 EUR (original: 39.99 EUR) (52.44 %  de descuento) en el siguiente enlace!

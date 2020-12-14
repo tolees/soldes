@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21'
 descuento: '28.34'
+average: '21.49'
 ---
 
 Tienes [Corsair HARPOON RGB Optique Souris Gaming  Rétro-Éclairge RGB Multicolore  6000 DPI  Noir](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21) con un 28.34 % de descuento con precio de oferta de 21.49 EUR (original: 29.99 EUR) en el siguiente enlace!

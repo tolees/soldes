@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00I96MDR0/?tag=tolees0d-21'
 descuento: '36.37'
+average: '69.99'
 ---
 
 Tienes [Calor FV9960C0 Fer à Repasser Vapeur Sans Fil Freemove Effet Pressing jusqu’à 150g/min Anti-Goutte Anti-Calcaire 2400W Bleu](https://www.amazon.fr/dp/B00I96MDR0/?tag=tolees0d-21) con un 36.37 % de descuento con precio de oferta de 69.99 EUR (original: 109.99 EUR) en el siguiente enlace!

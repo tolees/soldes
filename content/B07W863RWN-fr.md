@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W863RWN/?tag=tolees0d-21'
 descuento: '50.25'
+average: '9.915'
 ---
 
 Tienes [BaByliss Sèche-cheveux Travel Dry 2000 Compact Léger avec poignée pliante](https://www.amazon.fr/dp/B07W863RWN/?tag=tolees0d-21) con un 50.25 % de descuento con precio de oferta de 9.9 EUR (original: 19.9 EUR) en el siguiente enlace!

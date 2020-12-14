@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01HZM8BC4/?tag=tolees0d-21'
 descuento: '36.36'
+average: '111.3'
 ---
 
 Está [Montre Hommes - Pulsar - PQ2055X1](https://www.amazon.fr/dp/B01HZM8BC4/?tag=tolees0d-21) con 36.36 de descuento por 111.3 EUR (original: 174.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21'
 descuento: '40.27'
+average: '8.99'
 ---
 
 Está [Split [Blu-Ray]](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21) con 40.27 de descuento por 8.99 EUR (original: 15.05 EUR) en el siguiente enlace!

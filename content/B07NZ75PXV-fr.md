@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NZ75PXV/?tag=tolees0d-21'
 descuento: '27.50'
+average: '57.99'
 ---
 
 Está [SENXINGYAN 8" Pouce LCD Horloge Numérique Calendrier avec Date Jour Et Heure Horloge Non-Abrégée Auto Dimming 8 Langues HD Display Rappel pour Alzheimer Les Personnes âgées et Les Enfants  argenté](https://www.amazon.fr/dp/B07NZ75PXV/?tag=tolees0d-21) con 27.50 de descuento por 57.99 EUR (original: 79.99 EUR) en el siguiente enlace!

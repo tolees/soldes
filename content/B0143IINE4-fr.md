@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0143IINE4/?tag=tolees0d-21'
 descuento: '26.01'
+average: '14.79'
 ---
 
 Tienes [Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s  Classe 10](https://www.amazon.fr/dp/B0143IINE4/?tag=tolees0d-21) con un 26.01 % de descuento con precio de oferta de 14.79 EUR (original: 19.99 EUR) en el siguiente enlace!

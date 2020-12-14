@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MZYDH8B/?tag=tolees0d-21'
 descuento: '40.80'
+average: '38.45'
 ---
 
 Tienes [Skechers Women s GO Walk 5 Trainers  Black  Black Textile/White Trim BKW   6.5  39.5 EU ](https://www.amazon.fr/dp/B07MZYDH8B/?tag=tolees0d-21) con un 40.80 % de descuento con precio de oferta de 38.45 EUR (original: 64.95 EUR) en el siguiente enlace!

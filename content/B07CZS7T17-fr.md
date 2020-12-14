@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CZS7T17/?tag=tolees0d-21'
 descuento: '31.97'
+average: '170.0'
 ---
 
 Está [Xiaomi Redmi Note 5 Smartphone Portable Débloqué 4G  Ecran: 5 99 Pouces - 64 Go - Nano-SIM - Android  Or -](https://www.amazon.fr/dp/B07CZS7T17/?tag=tolees0d-21) con 31.97 de descuento por 170.0 EUR (original: 249.9 EUR) en el siguiente enlace!

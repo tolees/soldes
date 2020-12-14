@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HFZS6R7/?tag=tolees0d-21'
 descuento: '61.33'
+average: '29.0'
 ---
 
 Ahora mismo tienes [Collier argent et perles de culture Blanches et Noires"Elégant"](https://www.amazon.fr/dp/B07HFZS6R7/?tag=tolees0d-21) a 29.0 EUR (original: 75.0 EUR) (61.33 %  de descuento) en el siguiente enlace!

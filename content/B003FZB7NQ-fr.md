@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B003FZB7NQ/?tag=tolees0d-21'
 descuento: '30.01'
+average: '34.99'
 ---
 
 Está [Lexibook D800FR Dictionnaire électronique Larousse](https://www.amazon.fr/dp/B003FZB7NQ/?tag=tolees0d-21) con 30.01 de descuento por 34.99 EUR (original: 49.99 EUR) en el siguiente enlace!

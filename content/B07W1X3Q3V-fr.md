@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W1X3Q3V/?tag=tolees0d-21'
 descuento: '33.47'
+average: '106.44'
 ---
 
 Ahora mismo tienes [REVENT HD Blue](https://www.amazon.fr/dp/B07W1X3Q3V/?tag=tolees0d-21) a 106.44 EUR (original: 159.99 EUR) (33.47 %  de descuento) en el siguiente enlace!

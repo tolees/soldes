@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MZRDSTN/?tag=tolees0d-21'
 descuento: '55.00'
+average: '38.25'
 ---
 
 Está [Pepe Jeans London Koko Archi  Baskets Hautes Femme   Black 999   41 EU](https://www.amazon.fr/dp/B07MZRDSTN/?tag=tolees0d-21) con 55.00 de descuento por 38.25 EUR (original: 85.0 EUR) en el siguiente enlace!

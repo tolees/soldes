@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N3BT3RV/?tag=tolees0d-21'
 descuento: '48.84'
+average: '76.74'
 ---
 
 Está [ECCO Shape 55 Western  Santiags Femme  Noir  Black 1001   37 EU](https://www.amazon.fr/dp/B07N3BT3RV/?tag=tolees0d-21) con 48.84 de descuento por 76.74 EUR (original: 150.0 EUR) en el siguiente enlace!

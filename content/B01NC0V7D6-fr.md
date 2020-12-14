@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01NC0V7D6/?tag=tolees0d-21'
 descuento: '54.76'
+average: '19.9'
 ---
 
 Ahora mismo tienes [Russell Hobbs Toaster Grille-Pain  Cuisson Rapide et Uniforme - 23311-56 Victory](https://www.amazon.fr/dp/B01NC0V7D6/?tag=tolees0d-21) a 19.9 EUR (original: 43.99 EUR) (54.76 %  de descuento) en el siguiente enlace!

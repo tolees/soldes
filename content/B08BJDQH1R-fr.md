@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08BJDQH1R/?tag=tolees0d-21'
 descuento: '26.01'
+average: '36.99'
 ---
 
 Tienes [Jump Force Deluxe Edition  Nintendo Switch ](https://www.amazon.fr/dp/B08BJDQH1R/?tag=tolees0d-21) con un 26.01 % de descuento con precio de oferta de 36.99 EUR (original: 49.99 EUR) en el siguiente enlace!

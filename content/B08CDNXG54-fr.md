@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CDNXG54/?tag=tolees0d-21'
 descuento: '37.64'
+average: '47.99'
 ---
 
 Ahora mismo tienes [Disque Dur Externe 1to Disque Dur Externe USB3.1 Type-C pour PC  Mac  Xbox One  Xbox 360 1To Noir ](https://www.amazon.fr/dp/B08CDNXG54/?tag=tolees0d-21) a 47.99 EUR (original: 76.96 EUR) (37.64 %  de descuento) en el siguiente enlace!

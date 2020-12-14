@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21'
 descuento: '45.96'
+average: '37.82'
 ---
 
 Ahora mismo tienes [8-Bit Armies - Limited Edition](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21) a 37.82 EUR (original: 69.99 EUR) (45.96 %  de descuento) en el siguiente enlace!

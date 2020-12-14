@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XVRX81R/?tag=tolees0d-21'
 descuento: '44.07'
+average: '11.18'
 ---
 
 Tienes [HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à 15 6"  Résistante à l Eau  41 x 31 x 8 5 cm  - Noire](https://www.amazon.fr/dp/B06XVRX81R/?tag=tolees0d-21) con un 44.07 % de descuento con precio de oferta de 11.18 EUR (original: 19.99 EUR) en el siguiente enlace!

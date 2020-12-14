@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01KUX4KWK/?tag=tolees0d-21'
 descuento: '37.22'
+average: '121.17'
 ---
 
 Ahora mismo tienes [Reebok Deck](https://www.amazon.fr/dp/B01KUX4KWK/?tag=tolees0d-21) a 121.17 EUR (original: 193.0 EUR) (37.22 %  de descuento) en el siguiente enlace!

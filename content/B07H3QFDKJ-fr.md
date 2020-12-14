@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07H3QFDKJ/?tag=tolees0d-21'
 descuento: '60.00'
+average: '46.0'
 ---
 
 Está [AUBADE  Soutien-gorge Push-Up  Coussinets Amovibles  FIEVRE DE GLACE  Blanc  Taille 90B  NC18 OPAL](https://www.amazon.fr/dp/B07H3QFDKJ/?tag=tolees0d-21) con 60.00 de descuento por 46.0 EUR (original: 115.0 EUR) en el siguiente enlace!

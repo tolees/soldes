@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YQDVPVQ/?tag=tolees0d-21'
 descuento: '45.94'
+average: '37.3'
 ---
 
 Está [Kipling Heart Backpack Sac à Dos Enfants  24 cm  9 litres  Robot Camo Pink](https://www.amazon.fr/dp/B07YQDVPVQ/?tag=tolees0d-21) con 45.94 de descuento por 37.3 EUR (original: 69.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08B5W9HB6/?tag=tolees0d-21'
 descuento: '52.97'
+average: '7.99'
 ---
 
 Está [ORICO Boîtier Disque Dur 2.5  Adaptateur de Lecteur Externe USB3.0 vers SATA Portable pour Disque Dur SSD 7 mm/9 5 mm  Prise en Charge sans Outil Max 4 to avec UASP Compatible pour Seagate  PS4  Xbox](https://www.amazon.fr/dp/B08B5W9HB6/?tag=tolees0d-21) con 52.97 de descuento por 7.99 EUR (original: 16.99 EUR) en el siguiente enlace!

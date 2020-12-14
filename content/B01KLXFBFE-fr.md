@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01KLXFBFE/?tag=tolees0d-21'
 descuento: '63.34'
+average: '32.99'
 ---
 
 Está [Remington Fer à lisser  Lisseur  Glide Céramique  Glisse Facile  Température Constante et Ciblée - S9100 Proluxe](https://www.amazon.fr/dp/B01KLXFBFE/?tag=tolees0d-21) con 63.34 de descuento por 32.99 EUR (original: 89.99 EUR) en el siguiente enlace!

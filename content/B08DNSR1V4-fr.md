@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DNSR1V4/?tag=tolees0d-21'
 descuento: '28.53'
+average: '28.58'
 ---
 
 Está [JACK & JONES JCORETAIL Sweat Hood SEP Sweatshirt à Capuche  Noir  M Homme](https://www.amazon.fr/dp/B08DNSR1V4/?tag=tolees0d-21) con 28.53 de descuento por 28.58 EUR (original: 39.99 EUR) en el siguiente enlace!

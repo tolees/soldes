@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0749PJKRS/?tag=tolees0d-21'
 descuento: '41.20'
+average: '9.99'
 ---
 
 Ahora mismo tienes [CRAZYCHIC - Bague Elastique Taille Réglable Ajustable Femme - Bague Emaillée Forme Fleur - Métal Argent - Bijoux Fantaisie Mode Tendance - Fashion Ring - Argenté](https://www.amazon.fr/dp/B0749PJKRS/?tag=tolees0d-21) a 9.99 EUR (original: 16.99 EUR) (41.20 %  de descuento) en el siguiente enlace!

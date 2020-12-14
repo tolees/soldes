@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21'
 descuento: '44.47'
+average: '9.99'
 ---
 
 Tienes [The Rolling Stones - Havana Moon [Blu-ray]](https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21) con un 44.47 % de descuento con precio de oferta de 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

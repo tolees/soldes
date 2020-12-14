@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00N2TYOXA/?tag=tolees0d-21'
 descuento: '43.14'
+average: '11.94'
 ---
 
 Ahora mismo tienes [Raise The Dead / Masters of Madness Tour 2013   2 CD + Blu Ray ](https://www.amazon.fr/dp/B00N2TYOXA/?tag=tolees0d-21) a 11.94 EUR (original: 21.0 EUR) (43.14 %  de descuento) en el siguiente enlace!

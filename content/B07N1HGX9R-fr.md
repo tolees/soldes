@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21'
 descuento: '44.87'
+average: '60.09'
 ---
 
 Ahora mismo tienes [Kipling Teagan Xs Luggage 33 L Black Indigo](https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21) a 60.09 EUR (original: 109.0 EUR) (44.87 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GTBRSCY/?tag=tolees0d-21'
 descuento: '40.01'
+average: '21.7175'
 ---
 
 Está [Sony SRS-XB01 Enceinte portable ultra compacte résistante à l eau - Noire](https://www.amazon.fr/dp/B07GTBRSCY/?tag=tolees0d-21) con 40.01 de descuento por 20.99 EUR (original: 34.99 EUR) en el siguiente enlace!

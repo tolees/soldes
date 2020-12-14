@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W42C5KW/?tag=tolees0d-21'
 descuento: '49.03'
+average: '25.99'
 ---
 
 Tienes [Fivejoy Tapis aquadoodle 150 x 100 cm de Dessin Eau Peinture Mats   Aqua Magic Doodle pour 4 à 6 Enfants - Divers Accessoires  Jouet Éducatif pour Bébé Enfant pour Noël  Anniversaire](https://www.amazon.fr/dp/B07W42C5KW/?tag=tolees0d-21) con un 49.03 % de descuento con precio de oferta de 25.99 EUR (original: 50.99 EUR) en el siguiente enlace!

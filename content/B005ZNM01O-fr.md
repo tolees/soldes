@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B005ZNM01O/?tag=tolees0d-21'
 descuento: '41.20'
+average: '9.99'
 ---
 
 Tienes [Queen-Days of Our Lives [Blu-Ray]](https://www.amazon.fr/dp/B005ZNM01O/?tag=tolees0d-21) con un 41.20 % de descuento con precio de oferta de 9.99 EUR (original: 16.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00A0OVN48/?tag=tolees0d-21'
 descuento: '55.65'
+average: '62.07'
 ---
 
 Tienes [Sorel Bottes d Hiver pour Femmes  1964 Pac 2  Gris  Coal   Taille : 36 1/2](https://www.amazon.fr/dp/B00A0OVN48/?tag=tolees0d-21) con un 55.65 % de descuento con precio de oferta de 62.07 EUR (original: 139.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08C9G5T2F/?tag=tolees0d-21'
 descuento: '62.52'
+average: '14.99'
 ---
 
 Tienes [OFFRE DE LANCEMENT - Correcteur de Posture Saona Concept® - Soulage les Douleurs de Dos  Cou  Épaules - Redresse Dos Homme Femme  L-XL ](https://www.amazon.fr/dp/B08C9G5T2F/?tag=tolees0d-21) con un 62.52 % de descuento con precio de oferta de 14.99 EUR (original: 39.99 EUR) en el siguiente enlace!

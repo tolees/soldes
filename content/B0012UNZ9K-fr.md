@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0012UNZ9K/?tag=tolees0d-21'
 descuento: '35.75'
+average: '6.2'
 ---
 
 Tienes [Bosch 2607019444 Cassette de 5 forets à béton Diamètre 4/5/6/8/10 mm](https://www.amazon.fr/dp/B0012UNZ9K/?tag=tolees0d-21) con un 35.75 % de descuento con precio de oferta de 6.2 EUR (original: 9.65 EUR) en el siguiente enlace!

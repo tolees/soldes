@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B079Z2CCJ8/?tag=tolees0d-21'
 descuento: '38.70'
+average: '97.44'
 ---
 
 Ahora mismo tienes [Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp 2017 Echelle 1/18  18S305  Bleu/ Rouge/ Jaune](https://www.amazon.fr/dp/B079Z2CCJ8/?tag=tolees0d-21) a 97.44 EUR (original: 158.95 EUR) (38.70 %  de descuento) en el siguiente enlace!

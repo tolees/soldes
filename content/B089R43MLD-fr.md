@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089R43MLD/?tag=tolees0d-21'
 descuento: '37.51'
+average: '19.99'
 ---
 
 Tienes [Colmanda Console de Jeu  Console de Jeu Retro FC  3 Pouces Écran Couleur avec 500 Jeux Classiques  Prend en Charge la Connexion de TV  Chargement USB  pour Système de Divertissement - Bleu](https://www.amazon.fr/dp/B089R43MLD/?tag=tolees0d-21) con un 37.51 % de descuento con precio de oferta de 19.99 EUR (original: 31.99 EUR) en el siguiente enlace!

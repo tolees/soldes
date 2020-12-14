@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07K86T2RR/?tag=tolees0d-21'
 descuento: '66.82'
+average: '16.59'
 ---
 
 Ahora mismo tienes [Poitiers Basket 86 Maillot Officiel Extérieur 2018-2019 Basketball Mixte Enfant  Bleu  FR : XXS  Taille Fabricant : 12 Ans ](https://www.amazon.fr/dp/B07K86T2RR/?tag=tolees0d-21) a 16.59 EUR (original: 50.0 EUR) (66.82 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QNRH3NY/?tag=tolees0d-21'
 descuento: '32.96'
+average: '119.99'
 ---
 
 Está [G-Technology ArmorATD 4 To: Disque dur externe robuste  résistant aux chocs et à l humidité - USB-C  Thunderbolt 3  USB 3.0](https://www.amazon.fr/dp/B07QNRH3NY/?tag=tolees0d-21) con 32.96 de descuento por 119.99 EUR (original: 178.99 EUR) en el siguiente enlace!

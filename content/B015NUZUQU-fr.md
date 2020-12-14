@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21'
 descuento: '33.54'
+average: '19.99'
 ---
 
 Tienes [Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector [Blu-Ray]](https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21) con un 33.54 % de descuento con precio de oferta de 19.99 EUR (original: 30.08 EUR) en el siguiente enlace!

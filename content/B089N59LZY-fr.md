@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B089N59LZY/?tag=tolees0d-21'
 descuento: '65.17'
+average: '12.99'
 ---
 
 Está [Toozey Jouets pour Chiens - 6 PCS Jouets Chiot Jouet Chien Indestructible Jouets Chien Jouet pour Chiots & Petits Chiens - Jouet à Mâcher Corde et Chiot en Peluche pour Chien - Coton Naturel](https://www.amazon.fr/dp/B089N59LZY/?tag=tolees0d-21) con 65.17 de descuento por 12.99 EUR (original: 37.3 EUR) en el siguiente enlace!

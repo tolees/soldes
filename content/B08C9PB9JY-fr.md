@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08C9PB9JY/?tag=tolees0d-21'
 descuento: '43.40'
+average: '29.99'
 ---
 
 Ahora mismo tienes [BOBOO Mini RC Drone pour Enfants  Quadcopter RC Pliable avec Mode de Maintien d altitude  décollage et atterrissage à Une Touche  Flips 3D et Mode sans tête  Facile à Piloter pour Les débutants](https://www.amazon.fr/dp/B08C9PB9JY/?tag=tolees0d-21) a 29.99 EUR (original: 52.99 EUR) (43.40 %  de descuento) en el siguiente enlace!

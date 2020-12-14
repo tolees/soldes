@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08FJ327LW/?tag=tolees0d-21'
 descuento: '35.31'
+average: '10.99'
 ---
 
 Ahora mismo tienes [100PCS Clips Câbles Adhésif 3M Durables  Rangement de Cordon Serre-Câbles  Gestion de Câble Support Organiseur de Fils Electriques Réglable pour Bureau/Maison/TV/Chargeur/Voiture/PC  Noir ](https://www.amazon.fr/dp/B08FJ327LW/?tag=tolees0d-21) a 10.99 EUR (original: 16.99 EUR) (35.31 %  de descuento) en el siguiente enlace!

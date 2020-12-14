@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CVGH8LF/?tag=tolees0d-21'
 descuento: '46.67'
+average: '47.99'
 ---
 
 Está [Disque Dur Externe  Disque Dur Externe 1to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  1to Noir ](https://www.amazon.fr/dp/B08CVGH8LF/?tag=tolees0d-21) con 46.67 de descuento por 47.99 EUR (original: 89.99 EUR) en el siguiente enlace!

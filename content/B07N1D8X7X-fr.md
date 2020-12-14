@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N1D8X7X/?tag=tolees0d-21'
 descuento: '47.34'
+average: '94.26'
 ---
 
 Ahora mismo tienes [Kipling Youri Spin 55 Luggage 33 L Black Indigo](https://www.amazon.fr/dp/B07N1D8X7X/?tag=tolees0d-21) a 94.26 EUR (original: 179.0 EUR) (47.34 %  de descuento) en el siguiente enlace!

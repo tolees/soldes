@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0868SR8KX/?tag=tolees0d-21'
 descuento: '33.17'
+average: '42.69'
 ---
 
 Tienes [DishyKooker M65 RC Drone avec Caméra 4K HD FPV WiFi Altitude Hold Pliable Réglable RC Quadcopter Selife Drone RC Avion pour Adultes Débutants Jouets](https://www.amazon.fr/dp/B0868SR8KX/?tag=tolees0d-21) con un 33.17 % de descuento con precio de oferta de 42.69 EUR (original: 63.88 EUR) en el siguiente enlace!

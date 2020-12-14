@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0794SD8PZ/?tag=tolees0d-21'
 descuento: '35.13'
+average: '219.99'
 ---
 
 Está [TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32 pouces Tuner TNT/CÃ¢ble/Satellite](https://www.amazon.fr/dp/B0794SD8PZ/?tag=tolees0d-21) con 35.13 de descuento por 219.99 EUR (original: 339.15 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07D5SQKHB/?tag=tolees0d-21'
 descuento: '43.27'
+average: '16.99'
 ---
 
 Tienes [PUMA ESS Logo Leggings Pantalons Femme  Cotton Black  XS](https://www.amazon.fr/dp/B07D5SQKHB/?tag=tolees0d-21) con un 43.27 % de descuento con precio de oferta de 16.99 EUR (original: 29.95 EUR) en el siguiente enlace!

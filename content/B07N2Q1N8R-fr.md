@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N2Q1N8R/?tag=tolees0d-21'
 descuento: '67.90'
+average: '77.04'
 ---
 
 Tienes [Dsquared2 D Squared Brillengestelle DQ5137 045-49-20-145 Lunettes de soleil  Marron  Braun   49.0 Mixte Adulte](https://www.amazon.fr/dp/B07N2Q1N8R/?tag=tolees0d-21) con un 67.90 % de descuento con precio de oferta de 77.04 EUR (original: 240.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W92N3QG/?tag=tolees0d-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Tienes [Lexibook- Projecteur Planetarium  2-en-1 projette Constellations  étoiles et Images spatiales  astonomie pour Enfants  STEM  avec Carte des constallations  Blanc/Bleu  NLJ150](https://www.amazon.fr/dp/B07W92N3QG/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

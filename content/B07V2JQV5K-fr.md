@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07V2JQV5K/?tag=tolees0d-21'
 descuento: '29.09'
+average: '2.34'
 ---
 
 Ahora mismo tienes [DENTAVIE Dentifrice Soin Blancheur Bicarbonate/Cristaux de Menthol Bio](https://www.amazon.fr/dp/B07V2JQV5K/?tag=tolees0d-21) a 2.34 EUR (original: 3.3 EUR) (29.09 %  de descuento) en el siguiente enlace!

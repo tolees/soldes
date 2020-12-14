@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B006ZML8D0/?tag=tolees0d-21'
 descuento: '63.01'
+average: '55.48'
 ---
 
 Ahora mismo tienes [Helly Hansen HH Crew Midlayer Jacket – Veste imperméable et isolante pour homme   Noir L](https://www.amazon.fr/dp/B006ZML8D0/?tag=tolees0d-21) a 55.48 EUR (original: 150.0 EUR) (63.01 %  de descuento) en el siguiente enlace!

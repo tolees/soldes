@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21'
 descuento: '50.00'
+average: '12.5'
 ---
 
 Está [Kaporal - T-Shirt à Manches Courtes  col v  Coupe ajustée - Rap - Femme - L - Rouge](https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21) con 50.00 de descuento por 12.5 EUR (original: 25.0 EUR) en el siguiente enlace!

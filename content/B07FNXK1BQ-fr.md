@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21'
 descuento: '40.00'
+average: '132.66666666666669'
 ---
 
 Ahora mismo tienes [Seiko Horloge SUR271P1](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21) a 119.4 EUR (original: 199.0 EUR) (40.00 %  de descuento) en el siguiente enlace!

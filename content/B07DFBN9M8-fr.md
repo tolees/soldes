@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DFBN9M8/?tag=tolees0d-21'
 descuento: '39.47'
+average: '4.54'
 ---
 
 Tienes [Lenor Unstoppables Parfum de Linge en Perles  Parfum Aérien avec une Fraîcheur Longue Durée  210g](https://www.amazon.fr/dp/B07DFBN9M8/?tag=tolees0d-21) con un 39.47 % de descuento con precio de oferta de 4.54 EUR (original: 7.5 EUR) en el siguiente enlace!

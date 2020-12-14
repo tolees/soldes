@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00ZUGMQBA/?tag=tolees0d-21'
 descuento: '34.72'
+average: '9.76'
 ---
 
 Tienes [Champion Legacy Performance Crew  Lot de 6 paires de Chaussettes  Homme Noir  39-42](https://www.amazon.fr/dp/B00ZUGMQBA/?tag=tolees0d-21) con un 34.72 % de descuento con precio de oferta de 9.76 EUR (original: 14.95 EUR) en el siguiente enlace!

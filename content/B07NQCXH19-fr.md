@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NQCXH19/?tag=tolees0d-21'
 descuento: '50.80'
+average: '30.99'
 ---
 
 Ahora mismo tienes [Echo Dot  3ème génération  Reconditionné Certifié  Enceinte connectée avec horloge et Alexa  Tissu sable](https://www.amazon.fr/dp/B07NQCXH19/?tag=tolees0d-21) a 30.99 EUR (original: 62.99 EUR) (50.80 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RY3DC5T/?tag=tolees0d-21'
 descuento: '34.56'
+average: '245.39'
 ---
 
 Tienes [Redskins Blouson Cuir Melrose Wonder Homme](https://www.amazon.fr/dp/B07RY3DC5T/?tag=tolees0d-21) con un 34.56 % de descuento con precio de oferta de 245.39 EUR (original: 375.0 EUR) en el siguiente enlace!

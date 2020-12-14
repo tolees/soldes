@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00MB6K86W/?tag=tolees0d-21'
 descuento: '29.00'
+average: '70.99'
 ---
 
 Ahora mismo tienes [Russell Hobbs 21480-56 Blender Chauffant 1 75L 2en1 Programmable Soup and Blend  8 Programmes Préréglés Soupe  Smoothie  Sauce  etc](https://www.amazon.fr/dp/B00MB6K86W/?tag=tolees0d-21) a 70.99 EUR (original: 99.99 EUR) (29.00 %  de descuento) en el siguiente enlace!

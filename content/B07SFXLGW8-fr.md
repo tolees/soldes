@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21'
 descuento: '25.23'
+average: '29.8375'
 ---
 
 Tienes [Spyro Reignited Trilogy  Switch ](https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21) con un 25.23 % de descuento con precio de oferta de 29.9 EUR (original: 39.99 EUR) en el siguiente enlace!

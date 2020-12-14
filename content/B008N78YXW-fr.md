@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008N78YXW/?tag=tolees0d-21'
 descuento: '25.27'
+average: '86.99'
 ---
 
 Ahora mismo tienes [Repusel 3002 Rétroviseur Extérieur pour Caravane Universel](https://www.amazon.fr/dp/B008N78YXW/?tag=tolees0d-21) a 86.99 EUR (original: 116.4 EUR) (25.27 %  de descuento) en el siguiente enlace!

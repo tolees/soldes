@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21'
 descuento: '34.73'
+average: '65.2'
 ---
 
 Tienes [Foscam - FI9902P - Caméra IP Wi-FI extérieure 1080P](https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21) con un 34.73 % de descuento con precio de oferta de 65.2 EUR (original: 99.9 EUR) en el siguiente enlace!

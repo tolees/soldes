@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00F2FVFSY/?tag=tolees0d-21'
 descuento: '37.05'
+average: '502.99'
 ---
 
 Ahora mismo tienes [Laurastar GO Centre de Repassage](https://www.amazon.fr/dp/B00F2FVFSY/?tag=tolees0d-21) a 502.99 EUR (original: 799.0 EUR) (37.05 %  de descuento) en el siguiente enlace!

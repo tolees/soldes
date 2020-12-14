@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01GKPTMIO/?tag=tolees0d-21'
 descuento: '67.84'
+average: '112.24'
 ---
 
 Está [Safavieh Tapis d inspiration Vintage  Tissé Polypropylène Tapis en Gris / Gris Clair  120 X 180 cm](https://www.amazon.fr/dp/B01GKPTMIO/?tag=tolees0d-21) con 67.84 de descuento por 112.24 EUR (original: 348.99 EUR) en el siguiente enlace!

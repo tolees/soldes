@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N2TYXKN/?tag=tolees0d-21'
 descuento: '51.15'
+average: '34.3'
 ---
 
 Tienes [LES FILLES DE CALEB: ÉMILIE et BLANCHE](https://www.amazon.fr/dp/B01N2TYXKN/?tag=tolees0d-21) con un 51.15 % de descuento con precio de oferta de 34.3 EUR (original: 70.22 EUR) en el siguiente enlace!

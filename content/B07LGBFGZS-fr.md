@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07LGBFGZS/?tag=tolees0d-21'
 descuento: '35.92'
+average: '83.95'
 ---
 
 Está [Nike WMNS Air Zoom Pegasus 36 Trail  Chaussure de Course Femme  Gris  Oil Grey/Barely Grey-Black-Wolf Grey 2   41 EU](https://www.amazon.fr/dp/B07LGBFGZS/?tag=tolees0d-21) con 35.92 de descuento por 83.95 EUR (original: 131.0 EUR) en el siguiente enlace!

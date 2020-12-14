@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082PMYXQ1/?tag=tolees0d-21'
 descuento: '34.22'
+average: '16.9'
 ---
 
 Ahora mismo tienes [OfficeWorld 502 XL Multipack Cartouche d encre compatible pour Epson 502 502XL avec Epson Expression Home XP-5100 XP-5105 XP-5115 Workforce WF-2860DWF WF-2865DWF  Pack de 4  Noir Cyan Magenta Jaune ](https://www.amazon.fr/dp/B082PMYXQ1/?tag=tolees0d-21) a 16.9 EUR (original: 25.69 EUR) (34.22 %  de descuento) en el siguiente enlace!

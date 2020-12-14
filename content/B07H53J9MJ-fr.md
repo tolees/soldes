@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21'
 descuento: '44.47'
+average: '9.99'
 ---
 
 Tienes [Mon pays c est l amour  édition collector ](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21) con un 44.47 % de descuento con precio de oferta de 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07R6TWP2D/?tag=tolees0d-21'
 descuento: '44.70'
+average: '71.89'
 ---
 
 Tienes [Columbia Powder Lite Hooded Veste à capuche-Homme Bleu  Dark Mountain  M](https://www.amazon.fr/dp/B07R6TWP2D/?tag=tolees0d-21) con un 44.70 % de descuento con precio de oferta de 71.89 EUR (original: 129.99 EUR) en el siguiente enlace!

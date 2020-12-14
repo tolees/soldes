@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CH3PQ8P/?tag=tolees0d-21'
 descuento: '25.01'
+average: '29.99'
 ---
 
 Está [Immortal Realms : Vampire Wars  Nintendo Switch ](https://www.amazon.fr/dp/B08CH3PQ8P/?tag=tolees0d-21) con 25.01 de descuento por 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

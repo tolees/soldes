@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MR1ES53/?tag=tolees0d-21'
 descuento: '31.82'
+average: '74.99'
 ---
 
 Está [Razer Ornata Chroma Clavier de Jeu avec Touches à Membrane Mecha  Rétroéclairage Rvb Chroma  Design Ergonomique  Fr-Layout](https://www.amazon.fr/dp/B01MR1ES53/?tag=tolees0d-21) con 31.82 de descuento por 74.99 EUR (original: 109.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21'
 descuento: '39.40'
+average: '95.74'
 ---
 
 Ahora mismo tienes [Marvel Legends - Edition Collector - Casque Electronique Black Panther](https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21) a 95.74 EUR (original: 157.99 EUR) (39.40 %  de descuento) en el siguiente enlace!

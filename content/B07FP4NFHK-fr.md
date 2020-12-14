@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FP4NFHK/?tag=tolees0d-21'
 descuento: '39.47'
+average: '54.47'
 ---
 
 Ahora mismo tienes [Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme  Bleu  Obsidian/White 451   FR : L  Taille Fabricant : L ](https://www.amazon.fr/dp/B07FP4NFHK/?tag=tolees0d-21) a 54.47 EUR (original: 89.99 EUR) (39.47 %  de descuento) en el siguiente enlace!

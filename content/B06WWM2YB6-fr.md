@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06WWM2YB6/?tag=tolees0d-21'
 descuento: '50.00'
+average: '49.5'
 ---
 
 Ahora mismo tienes [Ice-Watch - ICE lo White turquoise - Montre blanche pour femme avec bracelet en silicone - 013430  Medium ](https://www.amazon.fr/dp/B06WWM2YB6/?tag=tolees0d-21) a 49.5 EUR (original: 99.0 EUR) (50.00 %  de descuento) en el siguiente enlace!

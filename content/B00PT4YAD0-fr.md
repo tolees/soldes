@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21'
 descuento: '32.14'
+average: '6.8'
 ---
 
 Está [SILS Maria](https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21) con 32.14 de descuento por 6.8 EUR (original: 10.02 EUR) en el siguiente enlace!

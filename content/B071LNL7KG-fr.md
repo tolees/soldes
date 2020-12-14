@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B071LNL7KG/?tag=tolees0d-21'
 descuento: '50.17'
+average: '15.396666666666667'
 ---
 
 Tienes [Sine Mora EX](https://www.amazon.fr/dp/B071LNL7KG/?tag=tolees0d-21) con un 50.17 % de descuento con precio de oferta de 14.95 EUR (original: 30.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PT87LJ7/?tag=tolees0d-21'
 descuento: '43.24'
+average: '129.99'
 ---
 
 Ahora mismo tienes [Unité de Séparation des Déchets et de Recyclage Joseph Joseph totem Compact 40 litres - Acier Inoxydable](https://www.amazon.fr/dp/B07PT87LJ7/?tag=tolees0d-21) a 129.99 EUR (original: 229.0 EUR) (43.24 %  de descuento) en el siguiente enlace!

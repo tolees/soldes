@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B074MGQF4K/?tag=tolees0d-21'
 descuento: '25.01'
+average: '29.99'
 ---
 
 Tienes [Philips MG3740/15 Tondeuse cheveux et Multi-Styles - Séries 3000 - 9 Accessoires](https://www.amazon.fr/dp/B074MGQF4K/?tag=tolees0d-21) con un 25.01 % de descuento con precio de oferta de 29.99 EUR (original: 39.99 EUR) en el siguiente enlace!

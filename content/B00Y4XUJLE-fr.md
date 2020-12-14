@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00Y4XUJLE/?tag=tolees0d-21'
 descuento: '33.55'
+average: '66.45'
 ---
 
 Está [Lacoste PH4014-00 - Polo - Homme  Bleu  Marine 166   Medium](https://www.amazon.fr/dp/B00Y4XUJLE/?tag=tolees0d-21) con 33.55 de descuento por 66.45 EUR (original: 100.0 EUR) en el siguiente enlace!

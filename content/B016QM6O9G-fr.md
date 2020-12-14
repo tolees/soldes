@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B016QM6O9G/?tag=tolees0d-21'
 descuento: '29.93'
+average: '23.715217391304346'
 ---
 
 Está [Tommy Hilfiger E367895041403 - Casquette de Baseball - Homme - Bleu Navy Midnight  - Taille unique  Taille fabricant: One Size ](https://www.amazon.fr/dp/B016QM6O9G/?tag=tolees0d-21) con 29.93 de descuento por 20.95 EUR (original: 29.9 EUR) en el siguiente enlace!

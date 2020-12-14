@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0149QBQE4/?tag=tolees0d-21'
 descuento: '42.98'
+average: '19.95'
 ---
 
 Tienes [Corsair MM200 Tapis de Souris Gaming  Extended  Tissu  Noir](https://www.amazon.fr/dp/B0149QBQE4/?tag=tolees0d-21) con un 42.98 % de descuento con precio de oferta de 19.95 EUR (original: 34.99 EUR) en el siguiente enlace!

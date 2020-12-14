@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00TQILY02/?tag=tolees0d-21'
 descuento: '30.43'
+average: '160.0'
 ---
 
 Ahora mismo tienes [Moulinex Cookeo Multicuiseur Intelligent 100 Recettes Préprogrammées 6 L Jusqu à 6 personnes 6 Modes de Cuisson  Guide Pas à Pas Facile et Rapide 1200W Blanc CE704110](https://www.amazon.fr/dp/B00TQILY02/?tag=tolees0d-21) a 160.0 EUR (original: 229.99 EUR) (30.43 %  de descuento) en el siguiente enlace!

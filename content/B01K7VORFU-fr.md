@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01K7VORFU/?tag=tolees0d-21'
 descuento: '54.52'
+average: '24.99'
 ---
 
 Ahora mismo tienes [Zéfal Z Traveler sacoche de porte-bagage](https://www.amazon.fr/dp/B01K7VORFU/?tag=tolees0d-21) a 24.99 EUR (original: 54.95 EUR) (54.52 %  de descuento) en el siguiente enlace!

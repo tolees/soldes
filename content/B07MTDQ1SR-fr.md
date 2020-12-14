@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MTDQ1SR/?tag=tolees0d-21'
 descuento: '50.01'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Zamkol Enceinte Bluetooth Portable  Waterproof Haut-Parleur Bluetooth Enceinte d extérieur sans Fil 24W  360° HD Bass Pilote Double  Bluetooth 4.2  étanche IPX6  Mains Libres et Technologie TWS](https://www.amazon.fr/dp/B07MTDQ1SR/?tag=tolees0d-21) a 49.99 EUR (original: 99.99 EUR) (50.01 %  de descuento) en el siguiente enlace!

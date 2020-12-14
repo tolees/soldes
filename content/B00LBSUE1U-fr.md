@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21'
 descuento: '27.78'
+average: '64.99'
 ---
 
 Está [Rocksmith 2014 + Câble](https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21) con 27.78 de descuento por 64.99 EUR (original: 89.99 EUR) en el siguiente enlace!

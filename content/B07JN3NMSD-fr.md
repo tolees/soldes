@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JN3NMSD/?tag=tolees0d-21'
 descuento: '72.65'
+average: '28.99'
 ---
 
 Está [CCcollections Combinaison en Coton Naturel et Tons ocres pour Femme. Tenue décontractée bohémienne. Cou en V  Confortable et élégante  Blanc  Small ](https://www.amazon.fr/dp/B07JN3NMSD/?tag=tolees0d-21) con 72.65 de descuento por 28.99 EUR (original: 105.99 EUR) en el siguiente enlace!

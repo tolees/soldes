@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BRSNTBX/?tag=tolees0d-21'
 descuento: '56.69'
+average: '12.99'
 ---
 
 Está [Manette pour Nintendo Switch iConic - Zelda Link](https://www.amazon.fr/dp/B07BRSNTBX/?tag=tolees0d-21) con 56.69 de descuento por 12.99 EUR (original: 29.99 EUR) en el siguiente enlace!

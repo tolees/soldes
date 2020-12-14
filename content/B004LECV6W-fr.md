@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004LECV6W/?tag=tolees0d-21'
 descuento: '27.98'
+average: '57.0'
 ---
 
 Está [Cuisinart YM400E Yaourtière & Fromagère  6 pots 125 ml + 2 pots](https://www.amazon.fr/dp/B004LECV6W/?tag=tolees0d-21) con 27.98 de descuento por 57.0 EUR (original: 79.15 EUR) en el siguiente enlace!

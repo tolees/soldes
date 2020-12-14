@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MR397OH/?tag=tolees0d-21'
 descuento: '38.01'
+average: '30.99'
 ---
 
 Ahora mismo tienes [BONTEC Support Ecran PC Double Support Moniteur 2 Moniteurs de 13-27 Pouces pour Bureau Réglable en Hauteur Inclinable et Pivotant Ergonomique – Charge Maximal de 10kg VESA 75x75-100x100 mm](https://www.amazon.fr/dp/B01MR397OH/?tag=tolees0d-21) a 30.99 EUR (original: 49.99 EUR) (38.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01D8Z9DE2/?tag=tolees0d-21'
 descuento: '42.78'
+average: '113.29'
 ---
 
 Ahora mismo tienes [Thomas Sabo Montre pour Homme Rebel Spirit Argenté Noir Analogique Quartz](https://www.amazon.fr/dp/B01D8Z9DE2/?tag=tolees0d-21) a 113.29 EUR (original: 198.0 EUR) (42.78 %  de descuento) en el siguiente enlace!

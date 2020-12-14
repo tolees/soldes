@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0052QV9MK/?tag=tolees0d-21'
 descuento: '39.79'
+average: '97.95'
 ---
 
 Está [Onduleur Eaton Ellipse ECO 650 USB FR - Off-line UPS - EL650USBFR - 650VA  4 prises FR ](https://www.amazon.fr/dp/B0052QV9MK/?tag=tolees0d-21) con 39.79 de descuento por 97.95 EUR (original: 162.69 EUR) en el siguiente enlace!

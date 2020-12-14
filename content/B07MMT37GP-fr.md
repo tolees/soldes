@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MMT37GP/?tag=tolees0d-21'
 descuento: '33.34'
+average: '79.99'
 ---
 
 Ahora mismo tienes [L OR Barista LM8016/90 machine à café à capsules Noir Mat et Finition métallisée](https://www.amazon.fr/dp/B07MMT37GP/?tag=tolees0d-21) a 79.99 EUR (original: 119.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

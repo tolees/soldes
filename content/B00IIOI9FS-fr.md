@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00IIOI9FS/?tag=tolees0d-21'
 descuento: '25.02'
+average: '52.41'
 ---
 
 Tienes [OMRON M3 Tensiomètre Électronique Compact  Détection de Pulsations Cardiaques Irrégulières  Technologie IntelliSense  Validé Cliniquement](https://www.amazon.fr/dp/B00IIOI9FS/?tag=tolees0d-21) con un 25.02 % de descuento con precio de oferta de 52.41 EUR (original: 69.9 EUR) en el siguiente enlace!

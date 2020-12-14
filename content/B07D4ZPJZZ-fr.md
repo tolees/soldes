@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07D4ZPJZZ/?tag=tolees0d-21'
 descuento: '43.82'
+average: '84.55'
 ---
 
 Ahora mismo tienes [POP CULTURE ANTHOLOGY  20 FILMS CULTES DVD/BR [Édition Limitée collector]](https://www.amazon.fr/dp/B07D4ZPJZZ/?tag=tolees0d-21) a 84.55 EUR (original: 150.49 EUR) (43.82 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KC3HPVN/?tag=tolees0d-21'
 descuento: '30.02'
+average: '15.099375000000004'
 ---
 
 Está [ACCUWEIGHT Balance de Cuisine Électronique Balance Multifonctionnelle Numérique avec Écran LCD Rétro-éclairé Balances Postales avec Plateforme en Verre Trempé  Arrêt Automatique  Fonction de Tare](https://www.amazon.fr/dp/B07KC3HPVN/?tag=tolees0d-21) con 30.02 de descuento por 13.99 EUR (original: 19.99 EUR) en el siguiente enlace!

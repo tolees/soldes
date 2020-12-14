@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07S2SXBJW/?tag=tolees0d-21'
 descuento: '56.96'
+average: '49.5'
 ---
 
 Tienes [Levi s 514 Jeans Droits Homme  Bleu  Dryers Supper Adv 1330   34W / 32L](https://www.amazon.fr/dp/B07S2SXBJW/?tag=tolees0d-21) con un 56.96 % de descuento con precio de oferta de 49.5 EUR (original: 115.0 EUR) en el siguiente enlace!

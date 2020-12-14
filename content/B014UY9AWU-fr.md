@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21'
 descuento: '40.12'
+average: '6.0'
 ---
 
 Ahora mismo tienes [Pitch Perfect 2](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21) a 6.0 EUR (original: 10.02 EUR) (40.12 %  de descuento) en el siguiente enlace!

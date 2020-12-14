@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000J6EVO6/?tag=tolees0d-21'
 descuento: '46.07'
+average: '9.6'
 ---
 
 Tienes [Rotring S0676580 Sanford Compas à réglage rapide 360 / 170 mm  Argenté   Import Allemagne ](https://www.amazon.fr/dp/B000J6EVO6/?tag=tolees0d-21) con un 46.07 % de descuento con precio de oferta de 9.6 EUR (original: 17.8 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YTP7W6D/?tag=tolees0d-21'
 descuento: '50.43'
+average: '37.18'
 ---
 
 Ahora mismo tienes [Samsonite Paradiver L Disney - Sac à Dos Enfant S+  42 cm  10 L  Blanc  Stormtrooper White Mesh ](https://www.amazon.fr/dp/B07YTP7W6D/?tag=tolees0d-21) a 37.18 EUR (original: 75.0 EUR) (50.43 %  de descuento) en el siguiente enlace!

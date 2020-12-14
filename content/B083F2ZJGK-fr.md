@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B083F2ZJGK/?tag=tolees0d-21'
 descuento: '33.34'
+average: '199.9'
 ---
 
 Está [US-TRONIC CONVERTISSEUR Pur Sinus 12V 220V - 1000 Watts + Sortie USB 2.1A - Télécommandable - Recommandé pour Tous Les appareils électriques dans la Limite des 1000 Watts.](https://www.amazon.fr/dp/B083F2ZJGK/?tag=tolees0d-21) con 33.34 de descuento por 199.9 EUR (original: 299.9 EUR) en el siguiente enlace!

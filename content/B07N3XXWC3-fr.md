@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N3XXWC3/?tag=tolees0d-21'
 descuento: '29.30'
+average: '69.99'
 ---
 
 Está [Audio Technica ATH-ANC500BTBK Bluetooth Wireless Active Noise-Cancelling Over-Ear Headphones with Microphone  Black ](https://www.amazon.fr/dp/B07N3XXWC3/?tag=tolees0d-21) con 29.30 de descuento por 69.99 EUR (original: 99.0 EUR) en el siguiente enlace!

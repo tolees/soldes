@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B014ZS2BWW/?tag=tolees0d-21'
 descuento: '72.49'
+average: '102.88'
 ---
 
 Está [Safavieh Tapis Shag  Tufté à la main Fibre de Polyester Tapis en Perle  120 X 180 cm](https://www.amazon.fr/dp/B014ZS2BWW/?tag=tolees0d-21) con 72.49 de descuento por 102.88 EUR (original: 373.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21'
 descuento: '39.66'
+average: '153.48745762711863'
 ---
 
 Está [Redmi Note8 4+64Gb Black EU](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21) con 39.66 de descuento por 154.4 EUR (original: 255.9 EUR) en el siguiente enlace!

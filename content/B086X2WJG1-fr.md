@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21'
 descuento: '32.73'
+average: '26.9'
 ---
 
 Ahora mismo tienes [Fort Boyard Nouvelle Edition](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21) a 26.9 EUR (original: 39.99 EUR) (32.73 %  de descuento) en el siguiente enlace!

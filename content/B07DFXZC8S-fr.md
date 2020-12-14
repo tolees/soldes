@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DFXZC8S/?tag=tolees0d-21'
 descuento: '49.96'
+average: '19.99'
 ---
 
 Tienes [Puma Active Leggings Pantalon de Sport Femme  Black  XL](https://www.amazon.fr/dp/B07DFXZC8S/?tag=tolees0d-21) con un 49.96 % de descuento con precio de oferta de 19.99 EUR (original: 39.95 EUR) en el siguiente enlace!

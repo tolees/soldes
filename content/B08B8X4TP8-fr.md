@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08B8X4TP8/?tag=tolees0d-21'
 descuento: '44.02'
+average: '13.99'
 ---
 
 Está [Bricolage Bracelet Magnetique Cadeau Homme - Meilleurs Cadeau Homme pour Ceinture Outil avec 15 Puissants Aimants  Cadeau Homme Père Anniversaire Bracelet Aimanté pour Vis de Maintien etc](https://www.amazon.fr/dp/B08B8X4TP8/?tag=tolees0d-21) con 44.02 de descuento por 13.99 EUR (original: 24.99 EUR) en el siguiente enlace!

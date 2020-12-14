@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00ABIPJ3Y/?tag=tolees0d-21'
 descuento: '33.62'
+average: '9.99'
 ---
 
 Tienes [Arrête-Moi si tu Peux [Blu-Ray]](https://www.amazon.fr/dp/B00ABIPJ3Y/?tag=tolees0d-21) con un 33.62 % de descuento con precio de oferta de 9.99 EUR (original: 15.05 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07F21TZM6/?tag=tolees0d-21'
 descuento: '47.61'
+average: '36.15'
 ---
 
 Está [Blue Star Madrid Vanity  31 cm  12 L  Champagne](https://www.amazon.fr/dp/B07F21TZM6/?tag=tolees0d-21) con 47.61 de descuento por 36.15 EUR (original: 69.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21'
 descuento: '40.00'
+average: '6.0'
 ---
 
 Está [Les PEPITES](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21) con 40.00 de descuento por 6.0 EUR (original: 10.0 EUR) en el siguiente enlace!

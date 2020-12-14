@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VMRN2FJ/?tag=tolees0d-21'
 descuento: '57.85'
+average: '210.77'
 ---
 
 Tienes [Marmot Riverfront Parka Manteau isolé  Veste d extérieur Chaude  Anorak déperlant  Coupe-Vent Homme  Crocodile  FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B07VMRN2FJ/?tag=tolees0d-21) con un 57.85 % de descuento con precio de oferta de 210.77 EUR (original: 500.0 EUR) en el siguiente enlace!

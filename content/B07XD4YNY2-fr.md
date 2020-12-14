@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XD4YNY2/?tag=tolees0d-21'
 descuento: '36.48'
+average: '6.46'
 ---
 
 Está [POP! Marvel: Black Widow – Taskmaster w/ bow](https://www.amazon.fr/dp/B07XD4YNY2/?tag=tolees0d-21) con 36.48 de descuento por 6.46 EUR (original: 10.17 EUR) en el siguiente enlace!

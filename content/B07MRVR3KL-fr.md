@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MRVR3KL/?tag=tolees0d-21'
 descuento: '31.06'
+average: '999.0'
 ---
 
 Está [Microsoft Surface Laptop 2  13.5" tactile  Core i5  RAM 8 Go  SSD 256 Go  Windows 10  - Noir](https://www.amazon.fr/dp/B07MRVR3KL/?tag=tolees0d-21) con 31.06 de descuento por 999.0 EUR (original: 1449.0 EUR) en el siguiente enlace!

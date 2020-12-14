@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21'
 descuento: '57.06'
+average: '429.0'
 ---
 
 Tienes [HP EliteBook 840 G2 - PC Portable - 14   -  Core i5-5300U / 2.30 GHz  8Go de RAM  Disque SSD 180Go SSD  WiFi  Windows 10  Bluetooth  AZERTY Clavier  Modèle très Rapide  Reconditionné ](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21) con un 57.06 % de descuento con precio de oferta de 429.0 EUR (original: 999.0 EUR) en el siguiente enlace!

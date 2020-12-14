@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0105WQL1Y/?tag=tolees0d-21'
 descuento: '31.60'
+average: '170.99'
 ---
 
 Está [Lagrange 429002 Pâtes Créativ  Blanc 30 x 16 x 35 cm](https://www.amazon.fr/dp/B0105WQL1Y/?tag=tolees0d-21) con 31.60 de descuento por 170.99 EUR (original: 249.99 EUR) en el siguiente enlace!

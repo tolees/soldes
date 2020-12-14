@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07L6XBPL6/?tag=tolees0d-21'
 descuento: '63.54'
+average: '58.32'
 ---
 
 Está [Eider BROCKWELL JKT W Veste Femme  Purple Wild  FR : L  Taille Fabricant : L ](https://www.amazon.fr/dp/B07L6XBPL6/?tag=tolees0d-21) con 63.54 de descuento por 58.32 EUR (original: 159.95 EUR) en el siguiente enlace!

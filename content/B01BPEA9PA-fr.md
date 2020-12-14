@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01BPEA9PA/?tag=tolees0d-21'
 descuento: '42.01'
+average: '28.99'
 ---
 
 Está [7 Bombes de Bain BIO à l Huile Essentielle - Coffret Cadeau Femme - Idée Cadeau Femme de Luxe avec Nœud en Satin - Boules de Bain Senteur Relaxante pour Bain Moussant - Coffret Cadeau pour le Bain](https://www.amazon.fr/dp/B01BPEA9PA/?tag=tolees0d-21) con 42.01 de descuento por 28.99 EUR (original: 49.99 EUR) en el siguiente enlace!

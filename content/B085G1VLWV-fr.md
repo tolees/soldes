@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B085G1VLWV/?tag=tolees0d-21'
 descuento: '40.01'
+average: '44.99'
 ---
 
 Ahora mismo tienes [BRIKSMAX Kit de LED pour Lego Architecture L’Empire State Compatible avec la Maquette Lego 21046  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B085G1VLWV/?tag=tolees0d-21) a 44.99 EUR (original: 74.99 EUR) (40.01 %  de descuento) en el siguiente enlace!

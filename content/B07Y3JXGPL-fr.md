@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21'
 descuento: '27.14'
+average: '254.99'
 ---
 
 Está [WD - My Book - Disque dur externe de bureau avec sauvegarde - 14 To](https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21) con 27.14 de descuento por 254.99 EUR (original: 349.99 EUR) en el siguiente enlace!

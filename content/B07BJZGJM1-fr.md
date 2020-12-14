@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BJZGJM1/?tag=tolees0d-21'
 descuento: '38.23'
+average: '369.99'
 ---
 
 Ahora mismo tienes [Pioneer VSX-933 B  Récepteur AV 7.2 canaux  Amplificateur HiFi 135 W/Kanal  Multiroom  WiFi  Bluetooth  Dolby Surround-Dolby Atmos-DTS:X  Services de Streaming Spotify  Deezer  Noir](https://www.amazon.fr/dp/B07BJZGJM1/?tag=tolees0d-21) a 369.99 EUR (original: 599.0 EUR) (38.23 %  de descuento) en el siguiente enlace!

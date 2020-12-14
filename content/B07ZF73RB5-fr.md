@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZF73RB5/?tag=tolees0d-21'
 descuento: '42.86'
+average: '79.99'
 ---
 
 Está [TICTID Raspberry Pi 4 Modèle B  4 B  1Go Upgraded for Raspberry Pi 3 Starter Kit 2019 Version 32Go Classe 10 Micro SD Carte Alimentation Interrupteur Marche/Arrêt Ventilateur Boîtier Noir Dissipateur](https://www.amazon.fr/dp/B07ZF73RB5/?tag=tolees0d-21) con 42.86 de descuento por 79.99 EUR (original: 139.99 EUR) en el siguiente enlace!

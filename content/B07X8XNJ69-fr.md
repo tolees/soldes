@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07X8XNJ69/?tag=tolees0d-21'
 descuento: '30.43'
+average: '96.0'
 ---
 
 Tienes [iBaby-Fish Nettoyeur de Dents d animal familier  retirez Le calcul Dentaire  3 têtes Propres  avec la lumière de LED  Facile à enlever Le tartre de Chien à la Maison ou à la Clinique](https://www.amazon.fr/dp/B07X8XNJ69/?tag=tolees0d-21) con un 30.43 % de descuento con precio de oferta de 96.0 EUR (original: 138.0 EUR) en el siguiente enlace!

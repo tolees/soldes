@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082QY8GWH/?tag=tolees0d-21'
 descuento: '31.32'
+average: '67.99'
 ---
 
 Tienes [Moniteur de Fréquence Cardiaque  Traqueur de Forme Physique de Montre de Smart Watch IP67 Imperméable et Compteur-BL14](https://www.amazon.fr/dp/B082QY8GWH/?tag=tolees0d-21) con un 31.32 % de descuento con precio de oferta de 67.99 EUR (original: 99.0 EUR) en el siguiente enlace!

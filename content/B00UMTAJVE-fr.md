@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00UMTAJVE/?tag=tolees0d-21'
 descuento: '52.77'
+average: '61.4'
 ---
 
 Tienes [little tikes  Tricycle 5-in-1 Deluxe Ride & Relax  Rouge](https://www.amazon.fr/dp/B00UMTAJVE/?tag=tolees0d-21) con un 52.77 % de descuento con precio de oferta de 61.4 EUR (original: 129.99 EUR) en el siguiente enlace!

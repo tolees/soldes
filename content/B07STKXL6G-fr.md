@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07STKXL6G/?tag=tolees0d-21'
 descuento: '40.01'
+average: '29.99'
 ---
 
 Está [ROCCAT Kain 100 AIMO Souris Gaming RGB  capteur Pro-Optic R8 8.500 dpi  poids très léger de 89g  technologie Titan Click  noire](https://www.amazon.fr/dp/B07STKXL6G/?tag=tolees0d-21) con 40.01 de descuento por 29.99 EUR (original: 49.99 EUR) en el siguiente enlace!

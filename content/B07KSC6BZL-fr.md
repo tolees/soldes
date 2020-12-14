@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KSC6BZL/?tag=tolees0d-21'
 descuento: '53.60'
+average: '78.84'
 ---
 
 Está [Marc Cain Collections T- Shirt  Multicolore  Scarlet 272   40  Taille Fabricant: 3  Femme](https://www.amazon.fr/dp/B07KSC6BZL/?tag=tolees0d-21) con 53.60 de descuento por 78.84 EUR (original: 169.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08D63F6FQ/?tag=tolees0d-21'
 descuento: '35.36'
+average: '63.99'
 ---
 
 Ahora mismo tienes [Disque Dur Externe 2 to  Disque Dur Externe Portable pour PC  Mac  MacBook  Xbox One  2To Rouge ](https://www.amazon.fr/dp/B08D63F6FQ/?tag=tolees0d-21) a 63.99 EUR (original: 99.0 EUR) (35.36 %  de descuento) en el siguiente enlace!

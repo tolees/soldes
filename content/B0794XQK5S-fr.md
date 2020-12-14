@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0794XQK5S/?tag=tolees0d-21'
 descuento: '33.34'
+average: '99.99'
 ---
 
 Está [Echo Plus  2ème génération   Son de qualité premium avec un hub maison connectée intégré  Tissu anthracite](https://www.amazon.fr/dp/B0794XQK5S/?tag=tolees0d-21) con 33.34 de descuento por 99.99 EUR (original: 149.99 EUR) en el siguiente enlace!

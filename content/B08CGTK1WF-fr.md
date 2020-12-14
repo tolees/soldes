@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CGTK1WF/?tag=tolees0d-21'
 descuento: '49.40'
+average: '89.99'
 ---
 
 Tienes [NIUDINNG Meches Body Wave Lot 3 Tissage Bresilienne Ondule Longue Extension Tissage Cheveux Humain Ondule Soft Hair Bundels 300g Pour Femme 24 26 28 Pouces](https://www.amazon.fr/dp/B08CGTK1WF/?tag=tolees0d-21) con un 49.40 % de descuento con precio de oferta de 89.99 EUR (original: 177.85 EUR) en el siguiente enlace!

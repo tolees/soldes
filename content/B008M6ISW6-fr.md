@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008M6ISW6/?tag=tolees0d-21'
 descuento: '51.76'
+average: '95.2'
 ---
 
 Ahora mismo tienes [Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert  Bronze - 40 EU  6.5 UK ](https://www.amazon.fr/dp/B008M6ISW6/?tag=tolees0d-21) a 89.25 EUR (original: 185.0 EUR) (51.76 %  de descuento) en el siguiente enlace!

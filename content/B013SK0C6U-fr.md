@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013SK0C6U/?tag=tolees0d-21'
 descuento: '47.45'
+average: '29.73'
 ---
 
 Está [Manfrotto MM290A4 Monopode pour Appareil photo Noir](https://www.amazon.fr/dp/B013SK0C6U/?tag=tolees0d-21) con 47.45 de descuento por 29.73 EUR (original: 56.57 EUR) en el siguiente enlace!

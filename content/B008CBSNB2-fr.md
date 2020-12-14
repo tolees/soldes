@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008CBSNB2/?tag=tolees0d-21'
 descuento: '63.37'
+average: '14.06'
 ---
 
 Está [Triumph TRI-Action Fitness F Soutien-Gorge de Sport  Blanc  85A Femme](https://www.amazon.fr/dp/B008CBSNB2/?tag=tolees0d-21) con 63.37 de descuento por 14.06 EUR (original: 38.38 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FSVKSW7/?tag=tolees0d-21'
 descuento: '59.97'
+average: '46.04'
 ---
 
 Ahora mismo tienes [Rockport Madson Plain Toe  Derbys Homme  Marron  Cognac 003   42 EU](https://www.amazon.fr/dp/B07FSVKSW7/?tag=tolees0d-21) a 46.04 EUR (original: 115.0 EUR) (59.97 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01CHVXOIO/?tag=tolees0d-21'
 descuento: '35.00'
+average: '90.99'
 ---
 
 Está [Moulinex OW220830 Machine à Pain 17 Programmes Plastique Noir/Pourpre 31 x 29 x 29 cm](https://www.amazon.fr/dp/B01CHVXOIO/?tag=tolees0d-21) con 35.00 de descuento por 90.99 EUR (original: 139.99 EUR) en el siguiente enlace!

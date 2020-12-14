@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DDCCPYX/?tag=tolees0d-21'
 descuento: '39.90'
+average: '11.99'
 ---
 
 Está [Puma ESS Logo Tee T-Shirt Femme  Noir  Cotton Black   L](https://www.amazon.fr/dp/B07DDCCPYX/?tag=tolees0d-21) con 39.90 de descuento por 11.99 EUR (original: 19.95 EUR) en el siguiente enlace!

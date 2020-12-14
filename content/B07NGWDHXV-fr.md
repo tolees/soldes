@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NGWDHXV/?tag=tolees0d-21'
 descuento: '59.89'
+average: '80.19'
 ---
 
 Está [Roy Robson 9.6019E+13 Blouson  Bleu  Small  Taille Fabricant:  Homme](https://www.amazon.fr/dp/B07NGWDHXV/?tag=tolees0d-21) con 59.89 de descuento por 80.19 EUR (original: 199.95 EUR) en el siguiente enlace!

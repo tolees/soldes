@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B006YBLRBA/?tag=tolees0d-21'
 descuento: '66.71'
+average: '12.55'
 ---
 
 Tienes [sloggi Basic+ Maxi 3P  Culotte Gainante Femme  Paquet de 3  Noir  BLACK 0004   44 FR](https://www.amazon.fr/dp/B006YBLRBA/?tag=tolees0d-21) con un 66.71 % de descuento con precio de oferta de 12.55 EUR (original: 37.7 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GZMSH3Y/?tag=tolees0d-21'
 descuento: '49.18'
+average: '212.92'
 ---
 
 Está [Michael Kors Montre Connectée MKT5052](https://www.amazon.fr/dp/B07GZMSH3Y/?tag=tolees0d-21) con 49.18 de descuento por 212.92 EUR (original: 419.0 EUR) en el siguiente enlace!

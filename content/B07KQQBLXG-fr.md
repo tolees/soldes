@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KQQBLXG/?tag=tolees0d-21'
 descuento: '50.01'
+average: '34.99'
 ---
 
 Está [Diesel ODERZO  Sac à dos Homme Noir  Black  5x22x18 cm  W x H x L ](https://www.amazon.fr/dp/B07KQQBLXG/?tag=tolees0d-21) con 50.01 de descuento por 34.99 EUR (original: 70.0 EUR) en el siguiente enlace!

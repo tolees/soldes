@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NJ5GS2R/?tag=tolees0d-21'
 descuento: '46.62'
+average: '42.65'
 ---
 
 Ahora mismo tienes [CASIO Montre Femme LTS-100D-7AVEF](https://www.amazon.fr/dp/B07NJ5GS2R/?tag=tolees0d-21) a 42.65 EUR (original: 79.9 EUR) (46.62 %  de descuento) en el siguiente enlace!

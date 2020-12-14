@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N1BW9TH/?tag=tolees0d-21'
 descuento: '57.51'
+average: '63.71'
 ---
 
 Ahora mismo tienes [Marc O Polo 90725005001300  Bottes & Bottines Classiques Homme  Marron  Cognac 720   43 EU](https://www.amazon.fr/dp/B07N1BW9TH/?tag=tolees0d-21) a 63.71 EUR (original: 149.95 EUR) (57.51 %  de descuento) en el siguiente enlace!

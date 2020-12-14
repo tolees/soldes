@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00T4LTSKO/?tag=tolees0d-21'
 descuento: '30.51'
+average: '84.9'
 ---
 
 Está [HAUPTSTADTKOFFER Valises  75 cm  126 L  Bleu](https://www.amazon.fr/dp/B00T4LTSKO/?tag=tolees0d-21) con 30.51 de descuento por 84.9 EUR (original: 122.17 EUR) en el siguiente enlace!

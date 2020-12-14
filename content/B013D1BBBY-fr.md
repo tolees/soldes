@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21'
 descuento: '30.04'
+average: '594.0'
 ---
 
 Ahora mismo tienes [Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21) a 594.0 EUR (original: 849.0 EUR) (30.04 %  de descuento) en el siguiente enlace!

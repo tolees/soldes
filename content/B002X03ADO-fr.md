@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B002X03ADO/?tag=tolees0d-21'
 descuento: '30.45'
+average: '39.99'
 ---
 
 Ahora mismo tienes [Claude Dozorme 1.90.142.89 Liner Thiers Couteau Grand Modèle Manche Olivier](https://www.amazon.fr/dp/B002X03ADO/?tag=tolees0d-21) a 39.99 EUR (original: 57.5 EUR) (30.45 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XWNGHN7/?tag=tolees0d-21'
 descuento: '32.21'
+average: '47.45'
 ---
 
 Está [Trio Leuchten 305100161 Jacob Suspension en métal pour 1 ampoule E27 non incluse Gris vieilli](https://www.amazon.fr/dp/B06XWNGHN7/?tag=tolees0d-21) con 32.21 de descuento por 47.45 EUR (original: 70.0 EUR) en el siguiente enlace!

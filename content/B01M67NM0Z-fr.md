@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01M67NM0Z/?tag=tolees0d-21'
 descuento: '25.01'
+average: '17.99'
 ---
 
 Ahora mismo tienes [Protection auditive pour les bébés et les enfants Senner KidsPro. Des bébés de 3 mois jusqu aux enfants de 16 ans ou plus vieux  menthe/turquoise ](https://www.amazon.fr/dp/B01M67NM0Z/?tag=tolees0d-21) a 17.99 EUR (original: 23.99 EUR) (25.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NGV3SHC/?tag=tolees0d-21'
 descuento: '60.48'
+average: '39.52'
 ---
 
 Está [Derhy BISCOTTE Robe  Or  Or 11   44  Taille Fabricant:XL  Femme](https://www.amazon.fr/dp/B07NGV3SHC/?tag=tolees0d-21) con 60.48 de descuento por 39.52 EUR (original: 100.0 EUR) en el siguiente enlace!

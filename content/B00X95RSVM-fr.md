@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00X95RSVM/?tag=tolees0d-21'
 descuento: '26.32'
+average: '294.0'
 ---
 
 Ahora mismo tienes [Sauter Spi4362x - Plaque à Induction - Encastrable - 3 Foyers - 7200w - L60 x P52cm - Revêtement Verre - Inox - Fabrication Française](https://www.amazon.fr/dp/B00X95RSVM/?tag=tolees0d-21) a 294.0 EUR (original: 399.0 EUR) (26.32 %  de descuento) en el siguiente enlace!

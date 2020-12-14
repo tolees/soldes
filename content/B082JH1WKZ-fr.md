@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082JH1WKZ/?tag=tolees0d-21'
 descuento: '37.76'
+average: '74.06'
 ---
 
 Ahora mismo tienes [Hom Thomas Long Sleepwear Ensemble de Pijama  Haut: rayé Marine et Blanc  Bas: Marine  L Homme](https://www.amazon.fr/dp/B082JH1WKZ/?tag=tolees0d-21) a 74.06 EUR (original: 119.0 EUR) (37.76 %  de descuento) en el siguiente enlace!

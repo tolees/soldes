@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FN9GCPB/?tag=tolees0d-21'
 descuento: '48.92'
+average: '137.88'
 ---
 
 Está [MILLET ATNA Peak JKT Veste de Ski Homme  Ebony  FR : S  Taille Fabricant : S ](https://www.amazon.fr/dp/B07FN9GCPB/?tag=tolees0d-21) con 48.92 de descuento por 137.88 EUR (original: 269.95 EUR) en el siguiente enlace!

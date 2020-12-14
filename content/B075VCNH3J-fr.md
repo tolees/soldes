@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075VCNH3J/?tag=tolees0d-21'
 descuento: '29.42'
+average: '127.01'
 ---
 
 Tienes [Extech SL510 Sonomètre  Vert](https://www.amazon.fr/dp/B075VCNH3J/?tag=tolees0d-21) con un 29.42 % de descuento con precio de oferta de 127.01 EUR (original: 179.94 EUR) en el siguiente enlace!

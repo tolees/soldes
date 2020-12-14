@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078WQJXND/?tag=tolees0d-21'
 descuento: '33.46'
+average: '86.49'
 ---
 
 Tienes [Samsung SSD Interne 860 PRO  256 Go  - MZ-76P256B/EU](https://www.amazon.fr/dp/B078WQJXND/?tag=tolees0d-21) con un 33.46 % de descuento con precio de oferta de 86.49 EUR (original: 129.99 EUR) en el siguiente enlace!

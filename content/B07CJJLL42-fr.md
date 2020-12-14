@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CJJLL42/?tag=tolees0d-21'
 descuento: '37.61'
+average: '286.98'
 ---
 
 Está [SONY- Pack HX60 + Batterie Rechargeable](https://www.amazon.fr/dp/B07CJJLL42/?tag=tolees0d-21) con 37.61 de descuento por 286.98 EUR (original: 460.0 EUR) en el siguiente enlace!

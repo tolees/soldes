@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B088TTMG8M/?tag=tolees0d-21'
 descuento: '50.03'
+average: '9.99'
 ---
 
 Tienes [eXtremeRate 3D Joysticks de Remplacement Bicolores  Stick Analogique avec Tournevis Phillips pour Nintendo Switch Pro Manette Controller-Bleu Céleste & Blanc](https://www.amazon.fr/dp/B088TTMG8M/?tag=tolees0d-21) con un 50.03 % de descuento con precio de oferta de 9.99 EUR (original: 19.99 EUR) en el siguiente enlace!

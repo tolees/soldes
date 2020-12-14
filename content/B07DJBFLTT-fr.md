@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21'
 descuento: '61.22'
+average: '27.14'
 ---
 
 Está [F1 2018 - Edition Headline](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21) con 61.22 de descuento por 27.14 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DQ91XNK/?tag=tolees0d-21'
 descuento: '33.34'
+average: '59.99'
 ---
 
 Ahora mismo tienes [Seagate Portable 2 To  Disque dur externe portable HDD – USB 3.0 pour PC portable et Mac  STGX2000400   Noir](https://www.amazon.fr/dp/B07DQ91XNK/?tag=tolees0d-21) a 59.99 EUR (original: 89.99 EUR) (33.34 %  de descuento) en el siguiente enlace!

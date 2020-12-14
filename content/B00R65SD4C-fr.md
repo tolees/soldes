@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00R65SD4C/?tag=tolees0d-21'
 descuento: '33.36'
+average: '9.99'
 ---
 
 Tienes [VAHDAM  Feuilles de Thé Vert de l Himalaya  50+ Tasses  | 100% BIO & NATUREL | ANTIOXYDANTS PUISSANTS | Servir GLACÉ ou Chaud | Thé Kombucha | Feuilles de Thé Vert Minceur Pur  100g](https://www.amazon.fr/dp/B00R65SD4C/?tag=tolees0d-21) con un 33.36 % de descuento con precio de oferta de 9.99 EUR (original: 14.99 EUR) en el siguiente enlace!

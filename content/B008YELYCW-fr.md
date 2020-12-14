@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008YELYCW/?tag=tolees0d-21'
 descuento: '30.19'
+average: '76.78'
 ---
 
 Ahora mismo tienes [OSRAM LEDriving PX-5 feux diurnes LEDDRL301 5 LED spots 5200K 1 paire](https://www.amazon.fr/dp/B008YELYCW/?tag=tolees0d-21) a 76.78 EUR (original: 109.99 EUR) (30.19 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B076LS2XL4/?tag=tolees0d-21'
 descuento: '37.43'
+average: '49.99'
 ---
 
 Está [HoMedics Bain de Pieds avec Chauffage de l Eau](https://www.amazon.fr/dp/B076LS2XL4/?tag=tolees0d-21) con 37.43 de descuento por 49.99 EUR (original: 79.9 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06WD86GQQ/?tag=tolees0d-21'
 descuento: '28.09'
+average: '172.57'
 ---
 
 Ahora mismo tienes [Krups YY2931FD Machine à Bière Pression Beertender Avec Coffret 2 Verres Tireuse Pompe à biere Fût 5L Argent Chrome](https://www.amazon.fr/dp/B06WD86GQQ/?tag=tolees0d-21) a 172.57 EUR (original: 239.99 EUR) (28.09 %  de descuento) en el siguiente enlace!

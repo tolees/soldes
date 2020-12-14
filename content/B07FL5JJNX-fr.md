@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FL5JJNX/?tag=tolees0d-21'
 descuento: '51.46'
+average: '67.91'
 ---
 
 Tienes [Superdry Crater Padded Jacket Veste de Sport  Noir  Black 02a   Large Homme](https://www.amazon.fr/dp/B07FL5JJNX/?tag=tolees0d-21) con un 51.46 % de descuento con precio de oferta de 67.91 EUR (original: 139.9 EUR) en el siguiente enlace!

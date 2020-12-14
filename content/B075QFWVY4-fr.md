@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075QFWVY4/?tag=tolees0d-21'
 descuento: '31.53'
+average: '89.0'
 ---
 
 Está [Manette Révolution Pro Controller 2 Nacon pour PS4](https://www.amazon.fr/dp/B075QFWVY4/?tag=tolees0d-21) con 31.53 de descuento por 89.0 EUR (original: 129.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GXKDT55/?tag=tolees0d-21'
 descuento: '30.00'
+average: '79.99'
 ---
 
 Ahora mismo tienes [Razer Nari Essential – Casque Gamer Sans Fil  Bluetooth Casque de Jeu Sans Fil avec THX Spatial Audio 360°  Coussin de Gel Rafraîchissant pour PC  PS4  & Switch ](https://www.amazon.fr/dp/B07GXKDT55/?tag=tolees0d-21) a 69.99 EUR (original: 99.99 EUR) (30.00 %  de descuento) en el siguiente enlace!

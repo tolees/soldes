@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CZ8SG25/?tag=tolees0d-21'
 descuento: '70.25'
+average: '29.75'
 ---
 
 Está [Under Armour UA Qualifier Storm Packable Jacket Veste Homme  Bleu  S](https://www.amazon.fr/dp/B07CZ8SG25/?tag=tolees0d-21) con 70.25 de descuento por 29.75 EUR (original: 100.0 EUR) en el siguiente enlace!

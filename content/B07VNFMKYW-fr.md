@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VNFMKYW/?tag=tolees0d-21'
 descuento: '31.58'
+average: '129.99'
 ---
 
 Está [NUTRIBULLET Balance 1200 W – Blender Connecté – Technologie Cyclonique Brevetée – Extracteur de Jus – Repas Healthy  Plastique  Noir](https://www.amazon.fr/dp/B07VNFMKYW/?tag=tolees0d-21) con 31.58 de descuento por 129.99 EUR (original: 189.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CZ43WW9/?tag=tolees0d-21'
 descuento: '29.10'
+average: '38.99'
 ---
 
 Tienes [Elyco Wireless Manette pour Nintendo Switch  Bluetooth sans Fil Contrôleur Joypad Joystick Joycon Gamepad Remplacer Compatible avec Switch Wireless Controller](https://www.amazon.fr/dp/B08CZ43WW9/?tag=tolees0d-21) con un 29.10 % de descuento con precio de oferta de 38.99 EUR (original: 54.99 EUR) en el siguiente enlace!

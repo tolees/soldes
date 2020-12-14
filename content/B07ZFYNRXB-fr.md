@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZFYNRXB/?tag=tolees0d-21'
 descuento: '48.00'
+average: '389.99'
 ---
 
 Está [CHiQ U55H7L UHD 4K Smart TV  55 Pouces 139cm   HDR10/hlg  WiFi  Bluetooth  Prime Video  Netflix 5 1  Youtube Kids 3 HDMI 2 USB Frameless](https://www.amazon.fr/dp/B07ZFYNRXB/?tag=tolees0d-21) con 48.00 de descuento por 389.99 EUR (original: 749.99 EUR) en el siguiente enlace!

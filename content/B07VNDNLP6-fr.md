@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VNDNLP6/?tag=tolees0d-21'
 descuento: '37.05'
+average: '16.27421052631579'
 ---
 
 Está [LA BELLEFÉE Coffret Bougies Parfumées Les Quatre Saisons Bougie à la Cire de Soja Naturelle Idée Cadeau pour Anniversaire Mariage et Décoration pour l Intérieur - Heure Durée 30h x 4](https://www.amazon.fr/dp/B07VNDNLP6/?tag=tolees0d-21) con 37.05 de descuento por 16.99 EUR (original: 26.99 EUR) en el siguiente enlace!

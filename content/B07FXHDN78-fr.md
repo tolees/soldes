@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FXHDN78/?tag=tolees0d-21'
 descuento: '44.01'
+average: '27.99'
 ---
 
 Está [XL Or Ensemble de Cadeaux Pierre a Whisky Exclusives en Acier Inoxydable - Haute Technologie de Refroidissement – Cadeau Homme 6 Glaçons Reutilisables en Forme de Balle - Whiskey Cadeau Papa](https://www.amazon.fr/dp/B07FXHDN78/?tag=tolees0d-21) con 44.01 de descuento por 27.99 EUR (original: 49.99 EUR) en el siguiente enlace!

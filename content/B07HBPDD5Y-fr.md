@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HBPDD5Y/?tag=tolees0d-21'
 descuento: '25.00'
+average: '149.99'
 ---
 
 Tienes [ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura Sync - Connectique Type C](https://www.amazon.fr/dp/B07HBPDD5Y/?tag=tolees0d-21) con un 25.00 % de descuento con precio de oferta de 149.99 EUR (original: 199.99 EUR) en el siguiente enlace!

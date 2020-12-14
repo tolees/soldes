@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01IL025TO/?tag=tolees0d-21'
 descuento: '60.01'
+average: '27.52'
 ---
 
 Ahora mismo tienes [Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes  lot de 1000 ](https://www.amazon.fr/dp/B01IL025TO/?tag=tolees0d-21) a 27.52 EUR (original: 68.81 EUR) (60.01 %  de descuento) en el siguiente enlace!

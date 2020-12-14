@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B077W3S6FL/?tag=tolees0d-21'
 descuento: '27.47'
+average: '130.56'
 ---
 
 Ahora mismo tienes [ASICS Gel-Kayano 24  Chaussures de Running Homme  Bleu  Smoke Blue/Smoke Blue/Dark Blue 5656   42 EU](https://www.amazon.fr/dp/B077W3S6FL/?tag=tolees0d-21) a 130.56 EUR (original: 180.0 EUR) (27.47 %  de descuento) en el siguiente enlace!

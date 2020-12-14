@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FTPYVQH/?tag=tolees0d-21'
 descuento: '48.00'
+average: '65.0'
 ---
 
 Está [TBS GALAIS  Mokassins Hommes  Gris  Ebene E8015   43 EU](https://www.amazon.fr/dp/B07FTPYVQH/?tag=tolees0d-21) con 48.00 de descuento por 65.0 EUR (original: 125.0 EUR) en el siguiente enlace!

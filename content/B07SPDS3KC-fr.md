@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SPDS3KC/?tag=tolees0d-21'
 descuento: '37.13'
+average: '193.64'
 ---
 
 Está [R Roncato Flight Set Da 3 Trolley Mallette Ordinateur à roulettes 76 Centimeters Bleu  Azzurro ](https://www.amazon.fr/dp/B07SPDS3KC/?tag=tolees0d-21) con 37.13 de descuento por 193.64 EUR (original: 308.0 EUR) en el siguiente enlace!

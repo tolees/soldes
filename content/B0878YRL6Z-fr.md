@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0878YRL6Z/?tag=tolees0d-21'
 descuento: '57.78'
+average: '37.99'
 ---
 
 Ahora mismo tienes [BRIKSMAX Kit de LED pour Lego Architecture Dubai Compatible avec la Maquette Lego 21052  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B0878YRL6Z/?tag=tolees0d-21) a 37.99 EUR (original: 89.99 EUR) (57.78 %  de descuento) en el siguiente enlace!

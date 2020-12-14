@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0796BWCX3/?tag=tolees0d-21'
 descuento: '25.88'
+average: '65.97'
 ---
 
 Está [Napapijri Nore Short  Bleu  Blu Marine 176   No Aplica  Taille Fabricant: 33  Homme](https://www.amazon.fr/dp/B0796BWCX3/?tag=tolees0d-21) con 25.88 de descuento por 65.97 EUR (original: 89.0 EUR) en el siguiente enlace!

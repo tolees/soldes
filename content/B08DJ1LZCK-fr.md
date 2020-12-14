@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DJ1LZCK/?tag=tolees0d-21'
 descuento: '28.89'
+average: '63.99'
 ---
 
 Tienes [Disque Dur Externe 2to  Disque Dur Externe Portable HDD USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  2to Or ](https://www.amazon.fr/dp/B08DJ1LZCK/?tag=tolees0d-21) con un 28.89 % de descuento con precio de oferta de 63.99 EUR (original: 89.99 EUR) en el siguiente enlace!

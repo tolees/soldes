@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07D6YHX5X/?tag=tolees0d-21'
 descuento: '43.59'
+average: '31.0'
 ---
 
 Tienes [PUMA ESS Logo Hoody TR Sweat-Shirts Femme  Cotton Black  M](https://www.amazon.fr/dp/B07D6YHX5X/?tag=tolees0d-21) con un 43.59 % de descuento con precio de oferta de 31.0 EUR (original: 54.95 EUR) en el siguiente enlace!

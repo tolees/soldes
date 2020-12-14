@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00JZLBNU6/?tag=tolees0d-21'
 descuento: '28.41'
+average: '92.99'
 ---
 
 Tienes [BLACK+DECKER PV1820L-QW Aspirateur à Main sans fil-18 V-Autonomie : 10 Min-Charge complète : 4h-Prolongateur intégré et Brosse rétractable  440 milliliters  Chrome](https://www.amazon.fr/dp/B00JZLBNU6/?tag=tolees0d-21) con un 28.41 % de descuento con precio de oferta de 92.99 EUR (original: 129.9 EUR) en el siguiente enlace!

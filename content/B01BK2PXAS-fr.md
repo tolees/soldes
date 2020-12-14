@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01BK2PXAS/?tag=tolees0d-21'
 descuento: '25.00'
+average: '67.13333333333333'
 ---
 
 Tienes [LEGO®-DUPLO® Les animaux du monde Jouet d Aventure Incluant 15 Animaux pour Tout Petits  Fille et Garçon dès 2 Ans  121 Pièces de Construction 10907](https://www.amazon.fr/dp/B01BK2PXAS/?tag=tolees0d-21) con un 25.00 % de descuento con precio de oferta de 74.99 EUR (original: 99.99 EUR) en el siguiente enlace!

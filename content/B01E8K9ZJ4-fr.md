@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01E8K9ZJ4/?tag=tolees0d-21'
 descuento: '28.10'
+average: '17.25'
 ---
 
 Está [Ayotu Étui pour Kindle Paperwhite 2018 - Étui de Protection en Cuir PU avec Fonction réveil/Veille Automatique pour Amazon Kindle Paperwhite  10ème génération - 2018  Le garçon et Le Renard](https://www.amazon.fr/dp/B01E8K9ZJ4/?tag=tolees0d-21) con 28.10 de descuento por 17.25 EUR (original: 23.99 EUR) en el siguiente enlace!

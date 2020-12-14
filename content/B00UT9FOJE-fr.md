@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00UT9FOJE/?tag=tolees0d-21'
 descuento: '83.31'
+average: '5.02'
 ---
 
 Tienes [Better Call Saul-Saison 1 [Blu-Ray + Copie Digitale]](https://www.amazon.fr/dp/B00UT9FOJE/?tag=tolees0d-21) con un 83.31 % de descuento con precio de oferta de 5.02 EUR (original: 30.08 EUR) en el siguiente enlace!

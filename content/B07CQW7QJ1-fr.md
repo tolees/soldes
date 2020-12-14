@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CQW7QJ1/?tag=tolees0d-21'
 descuento: '64.19'
+average: '89.53'
 ---
 
 Tienes [Aigle Parfield W Mtd  Bottes & Bottines Cavalieres Femme  Marron  Darkbrown   37 EU](https://www.amazon.fr/dp/B07CQW7QJ1/?tag=tolees0d-21) con un 64.19 % de descuento con precio de oferta de 89.53 EUR (original: 250.0 EUR) en el siguiente enlace!

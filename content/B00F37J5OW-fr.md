@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00F37J5OW/?tag=tolees0d-21'
 descuento: '30.00'
+average: '992.6433333333333'
 ---
 
 Tienes [Euroclinic Source de lumière LED](https://www.amazon.fr/dp/B00F37J5OW/?tag=tolees0d-21) con un 30.00 % de descuento con precio de oferta de 883.35 EUR (original: 1261.93 EUR) en el siguiente enlace!

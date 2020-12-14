@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07N14HG6J/?tag=tolees0d-21'
 descuento: '46.64'
+average: '39.99'
 ---
 
 Tienes [Skechers Go Run Steady  Baskets Femme  Noir Black Textile/Hot Pink Trim Bkhp   38 EU](https://www.amazon.fr/dp/B07N14HG6J/?tag=tolees0d-21) con un 46.64 % de descuento con precio de oferta de 39.99 EUR (original: 74.95 EUR) en el siguiente enlace!

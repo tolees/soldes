@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FR6GHVX/?tag=tolees0d-21'
 descuento: '25.06'
+average: '97.42'
 ---
 
 Está [Clarks Tri Native  Sneakers Basses Homme  Noir  Black -   41.5 EU](https://www.amazon.fr/dp/B07FR6GHVX/?tag=tolees0d-21) con 25.06 de descuento por 97.42 EUR (original: 130.0 EUR) en el siguiente enlace!

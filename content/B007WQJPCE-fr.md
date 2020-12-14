@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B007WQJPCE/?tag=tolees0d-21'
 descuento: '60.00'
+average: '79.6'
 ---
 
 Está [Samsonite S Cure - Spinner M Valise  69 cm  79 L  Noir  Black ](https://www.amazon.fr/dp/B007WQJPCE/?tag=tolees0d-21) con 60.00 de descuento por 79.6 EUR (original: 199.0 EUR) en el siguiente enlace!

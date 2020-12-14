@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07R58KMSQ/?tag=tolees0d-21'
 descuento: '40.12'
+average: '41.91'
 ---
 
 Ahora mismo tienes [Super Mario Maker 2 - édition limitée](https://www.amazon.fr/dp/B07R58KMSQ/?tag=tolees0d-21) a 41.91 EUR (original: 69.99 EUR) (40.12 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07HF2JSK7/?tag=tolees0d-21'
 descuento: '42.28'
+average: '86.58'
 ---
 
 Está [TIMACO Robinet de cuisine avec douchette à ressort en acier inoxydable brossé Robinet de cuisine pivotant à 360 ° en acier inoxydable](https://www.amazon.fr/dp/B07HF2JSK7/?tag=tolees0d-21) con 42.28 de descuento por 86.58 EUR (original: 150.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07359JBKG/?tag=tolees0d-21'
 descuento: '60.47'
+average: '50.99'
 ---
 
 Tienes [RIDER-TEC – Blouson Moto Urban Girly SoftShell Black – Protections Homologuées CE Incluses – Léger & Respirant  - Taille-S](https://www.amazon.fr/dp/B07359JBKG/?tag=tolees0d-21) con un 60.47 % de descuento con precio de oferta de 50.99 EUR (original: 129.0 EUR) en el siguiente enlace!

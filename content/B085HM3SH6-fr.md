@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B085HM3SH6/?tag=tolees0d-21'
 descuento: '38.30'
+average: '57.99'
 ---
 
 Está [Volvetwig Cheveux Humain Vierge Vrai 100% Perruque Lisse Cheveux Naturel Bresilienne 13x4 Lace Wig Straight 130% Densité Court 14 pouces](https://www.amazon.fr/dp/B085HM3SH6/?tag=tolees0d-21) con 38.30 de descuento por 57.99 EUR (original: 93.99 EUR) en el siguiente enlace!

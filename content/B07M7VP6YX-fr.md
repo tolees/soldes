@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07M7VP6YX/?tag=tolees0d-21'
 descuento: '30.28'
+average: '27.88'
 ---
 
 Ahora mismo tienes [The Legend of Heroes: Trails of Cold Steel 2](https://www.amazon.fr/dp/B07M7VP6YX/?tag=tolees0d-21) a 27.88 EUR (original: 39.99 EUR) (30.28 %  de descuento) en el siguiente enlace!

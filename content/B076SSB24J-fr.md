@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B076SSB24J/?tag=tolees0d-21'
 descuento: '31.24'
+average: '44.69'
 ---
 
 Está [Flexson Supports Muraux pour Sonos One  One SL et Play:1 - Noir  Paire ](https://www.amazon.fr/dp/B076SSB24J/?tag=tolees0d-21) con 31.24 de descuento por 44.69 EUR (original: 64.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01F64GE1I/?tag=tolees0d-21'
 descuento: '47.38'
+average: '116.275'
 ---
 
 Tienes [Oakwood 60901 - Veste en cuir - Col à boutons - Manches longues - Homme - Marron  Tabacco   Small  Taille Fabricant: S ](https://www.amazon.fr/dp/B01F64GE1I/?tag=tolees0d-21) con un 47.38 % de descuento con precio de oferta de 120.49 EUR (original: 229.0 EUR) en el siguiente enlace!

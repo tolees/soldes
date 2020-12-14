@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VN9SPHW/?tag=tolees0d-21'
 descuento: '32.99'
+average: '76.99'
 ---
 
 Está [MICHELIN Chaines à neige Extrem Grip  Tension Automatique  N°90](https://www.amazon.fr/dp/B07VN9SPHW/?tag=tolees0d-21) con 32.99 de descuento por 76.99 EUR (original: 114.9 EUR) en el siguiente enlace!

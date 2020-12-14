@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B011IO79NC/?tag=tolees0d-21'
 descuento: '29.18'
+average: '126.76'
 ---
 
 Tienes [Tommy Hilfiger Montres bracelet 1781628](https://www.amazon.fr/dp/B011IO79NC/?tag=tolees0d-21) con un 29.18 % de descuento con precio de oferta de 126.76 EUR (original: 179.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06Y3KC8HH/?tag=tolees0d-21'
 descuento: '60.43'
+average: '59.31'
 ---
 
 Ahora mismo tienes [Samsung Original Advanced Écouteurs Intra-Auriculaires avec Réduction du Bruit - Noir](https://www.amazon.fr/dp/B06Y3KC8HH/?tag=tolees0d-21) a 59.31 EUR (original: 149.9 EUR) (60.43 %  de descuento) en el siguiente enlace!

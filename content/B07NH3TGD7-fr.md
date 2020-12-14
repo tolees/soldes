@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NH3TGD7/?tag=tolees0d-21'
 descuento: '62.03'
+average: '86.96'
 ---
 
 Ahora mismo tienes [Strellson Premium Allen2.0 Amf2 12 Veste De Costume  Bleu  Dark Blue 402   52  Taille Fabricant: 50  Homme](https://www.amazon.fr/dp/B07NH3TGD7/?tag=tolees0d-21) a 86.96 EUR (original: 229.0 EUR) (62.03 %  de descuento) en el siguiente enlace!

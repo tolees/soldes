@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07V7XQM9V/?tag=tolees0d-21'
 descuento: '40.00'
+average: '41.94'
 ---
 
 Ahora mismo tienes [Tommy Hilfiger Essential Nautical Sneaker  Sneakers Basses Femme  Bleu  Desert Sky Dw5   39 EU](https://www.amazon.fr/dp/B07V7XQM9V/?tag=tolees0d-21) a 41.94 EUR (original: 69.9 EUR) (40.00 %  de descuento) en el siguiente enlace!

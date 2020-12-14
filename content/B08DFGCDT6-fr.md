@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21'
 descuento: '25.03'
+average: '32.95'
 ---
 
 Ahora mismo tienes [Collection Velocity Bleu bleu nuit Carry On](https://www.amazon.fr/dp/B08DFGCDT6/?tag=tolees0d-21) a 32.95 EUR (original: 43.95 EUR) (25.03 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CWVPV1J/?tag=tolees0d-21'
 descuento: '41.79'
+average: '74.9'
 ---
 
 Ahora mismo tienes [Cache-oreilles électriques avec Bluetooth  radio numérique FM / AM et microphone intégré  écouteurs à réduction de bruit Rechargeable Protear pour le travail et l industrie  SNR 30dB](https://www.amazon.fr/dp/B07CWVPV1J/?tag=tolees0d-21) a 74.9 EUR (original: 128.67 EUR) (41.79 %  de descuento) en el siguiente enlace!

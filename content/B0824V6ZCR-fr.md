@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0824V6ZCR/?tag=tolees0d-21'
 descuento: '28.58'
+average: '29.99'
 ---
 
 Ahora mismo tienes [Ecouteur Bluetooth  Écouteur sans Fil 150h de Lecture stéréo 6D CVC 8.0 Oreillette Bluetooth 5.0 avec Affichage LED Commande Tactile  Auriculaires Sport IP8 Étanche avec 3500mA Étui de Chargement](https://www.amazon.fr/dp/B0824V6ZCR/?tag=tolees0d-21) a 29.99 EUR (original: 41.99 EUR) (28.58 %  de descuento) en el siguiente enlace!

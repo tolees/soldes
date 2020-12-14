@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008UHA58M/?tag=tolees0d-21'
 descuento: '54.12'
+average: '43.58'
 ---
 
 Tienes [Beurer FM 60 Appareil de massage des pieds Shiatsu](https://www.amazon.fr/dp/B008UHA58M/?tag=tolees0d-21) con un 54.12 % de descuento con precio de oferta de 43.58 EUR (original: 94.99 EUR) en el siguiente enlace!

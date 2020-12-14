@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0829RDL4G/?tag=tolees0d-21'
 descuento: '33.35'
+average: '17.99'
 ---
 
 Ahora mismo tienes [PITAYA Adaptateur Bluetooth 5.0 Émetteur et Récepteur 3-en-1 Transmetteur Récepteur Bluetooth sans Fil 3.5mm pour Voiture/TV/PC/système Audio](https://www.amazon.fr/dp/B0829RDL4G/?tag=tolees0d-21) a 17.99 EUR (original: 26.99 EUR) (33.35 %  de descuento) en el siguiente enlace!

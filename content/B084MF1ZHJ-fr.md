@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B084MF1ZHJ/?tag=tolees0d-21'
 descuento: '68.37'
+average: '24.99'
 ---
 
 Está [2020 Casque Bluetooth sans BYil avec Suppression du Bruit  Mini Casque Bluetooth Interne de 15 Heures pour Android iOS # BY57](https://www.amazon.fr/dp/B084MF1ZHJ/?tag=tolees0d-21) con 68.37 de descuento por 24.99 EUR (original: 79.0 EUR) en el siguiente enlace!

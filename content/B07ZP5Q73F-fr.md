@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZP5Q73F/?tag=tolees0d-21'
 descuento: '30.01'
+average: '27.99'
 ---
 
 Está [Rolimate Jeu de pêche Magnétique en Bois 4 en 1 Jeux Montessori Jeux Empilés et Jouets trieuse perlée Compétence Motrice Jouets d éveil et 1er âge pour Les Jouets Anniversaire Cadeaux pour 3 4 5+ Ans](https://www.amazon.fr/dp/B07ZP5Q73F/?tag=tolees0d-21) con 30.01 de descuento por 27.99 EUR (original: 39.99 EUR) en el siguiente enlace!

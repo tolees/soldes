@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00KGAOLJK/?tag=tolees0d-21'
 descuento: '41.04'
+average: '94.27'
 ---
 
 Tienes [Cristel - M24M - Marmite inox 24cm + couvercle - Collection Mutine](https://www.amazon.fr/dp/B00KGAOLJK/?tag=tolees0d-21) con un 41.04 % de descuento con precio de oferta de 94.27 EUR (original: 159.9 EUR) en el siguiente enlace!

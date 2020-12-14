@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JKD8N3N/?tag=tolees0d-21'
 descuento: '28.77'
+average: '46.3'
 ---
 
 Tienes [LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox Tous feux dont induction  anses et poignés vendues séparemment ](https://www.amazon.fr/dp/B07JKD8N3N/?tag=tolees0d-21) con un 28.77 % de descuento con precio de oferta de 46.3 EUR (original: 65.0 EUR) en el siguiente enlace!

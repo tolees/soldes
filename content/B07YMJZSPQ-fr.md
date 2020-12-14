@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YMJZSPQ/?tag=tolees0d-21'
 descuento: '58.81'
+average: '120.7'
 ---
 
 Está [Chie Mihara Edit  Sandales Bride Cheville Femmes  Or  Dias Gold Ante Negro Ante Cloud Dias Gold Ante Negro Ante Cloud   39 EU](https://www.amazon.fr/dp/B07YMJZSPQ/?tag=tolees0d-21) con 58.81 de descuento por 120.7 EUR (original: 293.0 EUR) en el siguiente enlace!

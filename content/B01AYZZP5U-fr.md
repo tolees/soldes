@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01AYZZP5U/?tag=tolees0d-21'
 descuento: '66.58'
+average: '154.37333333333333'
 ---
 
 Tienes [Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-Fidélité  Noir/Argent](https://www.amazon.fr/dp/B01AYZZP5U/?tag=tolees0d-21) con un 66.58 % de descuento con precio de oferta de 119.99 EUR (original: 359.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MXXBP6F/?tag=tolees0d-21'
 descuento: '40.01'
+average: '53.49'
 ---
 
 Está [Globe Fusion  Chaussures de Skateboard Hommes  Marron  Black/Brown/Khaki 20411   45 EU](https://www.amazon.fr/dp/B07MXXBP6F/?tag=tolees0d-21) con 40.01 de descuento por 53.49 EUR (original: 89.16 EUR) en el siguiente enlace!

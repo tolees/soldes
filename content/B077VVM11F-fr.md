@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B077VVM11F/?tag=tolees0d-21'
 descuento: '41.76'
+average: '49.5'
 ---
 
 Está [Nike 894432 T-Shirt Men s  Bleu  Midnight Navy/White 411   FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B077VVM11F/?tag=tolees0d-21) con 41.76 de descuento por 49.5 EUR (original: 85.0 EUR) en el siguiente enlace!

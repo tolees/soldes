@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B077YDLH3T/?tag=tolees0d-21'
 descuento: '47.91'
+average: '61.99'
 ---
 
 Ahora mismo tienes [AEG 005072 Outil de Diagnostic Auto OBD2 Evolution](https://www.amazon.fr/dp/B077YDLH3T/?tag=tolees0d-21) a 61.99 EUR (original: 119.0 EUR) (47.91 %  de descuento) en el siguiente enlace!

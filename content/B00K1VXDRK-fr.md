@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00K1VXDRK/?tag=tolees0d-21'
 descuento: '49.71'
+average: '100.07'
 ---
 
 Está [Montre Femme - Calvin Klein K4U23126](https://www.amazon.fr/dp/B00K1VXDRK/?tag=tolees0d-21) con 49.71 de descuento por 100.07 EUR (original: 199.0 EUR) en el siguiente enlace!

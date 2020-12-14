@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004KEPYD0/?tag=tolees0d-21'
 descuento: '54.42'
+average: '63.35'
 ---
 
 Está [Rosendahl - 43261 - Montre Femme - Quartz - Analogique - Bracelet Caoutchouc noir](https://www.amazon.fr/dp/B004KEPYD0/?tag=tolees0d-21) con 54.42 de descuento por 63.35 EUR (original: 139.0 EUR) en el siguiente enlace!

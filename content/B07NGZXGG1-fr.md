@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NGZXGG1/?tag=tolees0d-21'
 descuento: '60.23'
+average: '99.02'
 ---
 
 Ahora mismo tienes [Strellson S.C. Clifton  Blouson Homme  Grün  Green 318   Medium  taille du fabricant: 48 ](https://www.amazon.fr/dp/B07NGZXGG1/?tag=tolees0d-21) a 99.02 EUR (original: 249.0 EUR) (60.23 %  de descuento) en el siguiente enlace!

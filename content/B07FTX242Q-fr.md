@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21'
 descuento: '51.12'
+average: '97.74'
 ---
 
 Tienes [Millet - High Route GTX M - Chaussures Hautes de Randonnée - Homme - Membrane Gore-Tex Imperméable Respirante - Semelle Vibram - Noir - 48](https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21) con un 51.12 % de descuento con precio de oferta de 97.74 EUR (original: 199.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RRDMM9W/?tag=tolees0d-21'
 descuento: '66.74'
+average: '70.36'
 ---
 
 Está [MSI Pack Loot Box GE-GS RTX Gaming](https://www.amazon.fr/dp/B07RRDMM9W/?tag=tolees0d-21) con 66.74 de descuento por 70.36 EUR (original: 211.57 EUR) en el siguiente enlace!

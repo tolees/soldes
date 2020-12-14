@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MSBU20C/?tag=tolees0d-21'
 descuento: '33.34'
+average: '19.99'
 ---
 
 Tienes [foodspring L-carnitine  120 gélules  Perdre du poids avec la L-carnitine](https://www.amazon.fr/dp/B01MSBU20C/?tag=tolees0d-21) con un 33.34 % de descuento con precio de oferta de 19.99 EUR (original: 29.99 EUR) en el siguiente enlace!

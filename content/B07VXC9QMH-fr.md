@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VXC9QMH/?tag=tolees0d-21'
 descuento: '44.25'
+average: '117.806875'
 ---
 
 Está [Kingston A2000 - Disque SSD - chiffré - 1 To - interne - M.2 2280 - PCI Express 3.0 x4  NVMe  - AES 256 bits](https://www.amazon.fr/dp/B07VXC9QMH/?tag=tolees0d-21) con 44.25 de descuento por 113.17 EUR (original: 202.99 EUR) en el siguiente enlace!

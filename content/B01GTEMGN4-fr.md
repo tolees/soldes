@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01GTEMGN4/?tag=tolees0d-21'
 descuento: '57.40'
+average: '79.23'
 ---
 
 Ahora mismo tienes [SONAX 02465000  ProfiLine cutmax 5  l](https://www.amazon.fr/dp/B01GTEMGN4/?tag=tolees0d-21) a 79.23 EUR (original: 185.97 EUR) (57.40 %  de descuento) en el siguiente enlace!

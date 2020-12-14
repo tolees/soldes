@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08FDV9FY2/?tag=tolees0d-21'
 descuento: '35.09'
+average: '25.9'
 ---
 
 Está [FS - Écouteurs Premium Bluetooth sans Fil  Casque avec Plus de 160H d Autonomie  avec Étui de Chargement  Contrôle Tactile  Appariement Automatique  Microphones Intégrés pour Android  iOS et Windows](https://www.amazon.fr/dp/B08FDV9FY2/?tag=tolees0d-21) con 35.09 de descuento por 25.9 EUR (original: 39.9 EUR) en el siguiente enlace!

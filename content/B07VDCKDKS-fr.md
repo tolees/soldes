@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VDCKDKS/?tag=tolees0d-21'
 descuento: '60.79'
+average: '50.58'
 ---
 
 Está [Napapijri K Rainforest Sum 2 Blouson  Violet  Clover Purple V021   164  Taille Fabricant: 14  Garçon](https://www.amazon.fr/dp/B07VDCKDKS/?tag=tolees0d-21) con 60.79 de descuento por 50.58 EUR (original: 129.0 EUR) en el siguiente enlace!

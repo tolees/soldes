@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00GUXGX8O/?tag=tolees0d-21'
 descuento: '30.07'
+average: '69.9'
 ---
 
 Ahora mismo tienes [Columbia Redmond  Bottes Mi-Hautes Imperméables Homme  Brun  Cordovan  Dark Banana 231   40 5 EU](https://www.amazon.fr/dp/B00GUXGX8O/?tag=tolees0d-21) a 69.9 EUR (original: 99.95 EUR) (30.07 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XFNHPS4/?tag=tolees0d-21'
 descuento: '42.56'
+average: '201.04'
 ---
 
 Está [Schott NYC LC300 Blouson  Marron  Rust Rust   Large  Taille Fabricant:L  Homme](https://www.amazon.fr/dp/B06XFNHPS4/?tag=tolees0d-21) con 42.56 de descuento por 201.04 EUR (original: 350.0 EUR) en el siguiente enlace!

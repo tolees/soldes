@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21'
 descuento: '44.76'
+average: '6.96'
 ---
 
 Está [Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC 5](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21) con 44.76 de descuento por 6.96 EUR (original: 12.6 EUR) en el siguiente enlace!

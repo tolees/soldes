@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZM9NWDQ/?tag=tolees0d-21'
 descuento: '27.78'
+average: '21.66'
 ---
 
 Está [Masseur Cervical  Appareil de Massage Électrique  Masseur de nuque portable  Massage par Impulsions Basse Fréquence 6 Types de Méthodes de Massage](https://www.amazon.fr/dp/B07ZM9NWDQ/?tag=tolees0d-21) con 27.78 de descuento por 21.66 EUR (original: 29.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RCZ5SM4/?tag=tolees0d-21'
 descuento: '60.13'
+average: '55.81'
 ---
 
 Está [Pieces Pccollina Leather Bag  Sacs portés épaule femme  Multicolore  Beige   11 5x37x25 cm  B x H T ](https://www.amazon.fr/dp/B07RCZ5SM4/?tag=tolees0d-21) con 60.13 de descuento por 55.81 EUR (original: 139.99 EUR) en el siguiente enlace!

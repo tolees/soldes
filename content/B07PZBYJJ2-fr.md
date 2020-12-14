@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PZBYJJ2/?tag=tolees0d-21'
 descuento: '55.27'
+average: '123.0'
 ---
 
 Tienes [Fer à lisser ionique - pour boucler et lisser](https://www.amazon.fr/dp/B07PZBYJJ2/?tag=tolees0d-21) con un 55.27 % de descuento con precio de oferta de 123.0 EUR (original: 275.0 EUR) en el siguiente enlace!

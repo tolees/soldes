@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082F5CKKF/?tag=tolees0d-21'
 descuento: '60.17'
+average: '23.86'
 ---
 
 Tienes [Fer à Lisser Professionnel Lissara - Plaques Larges en Titane et flottantes - Jusqu à 230°C - Special Lissage Brésilien  Wide Evolv Violet ](https://www.amazon.fr/dp/B082F5CKKF/?tag=tolees0d-21) con un 60.17 % de descuento con precio de oferta de 23.86 EUR (original: 59.9 EUR) en el siguiente enlace!

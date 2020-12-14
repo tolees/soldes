@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RNB522T/?tag=tolees0d-21'
 descuento: '51.37'
+average: '28.69'
 ---
 
 Está [Manette Sans Fil pour Xbox 360 Double Vibration Contrôleur de Jeu pour Xbox 360 / PC](https://www.amazon.fr/dp/B07RNB522T/?tag=tolees0d-21) con 51.37 de descuento por 28.69 EUR (original: 59.0 EUR) en el siguiente enlace!

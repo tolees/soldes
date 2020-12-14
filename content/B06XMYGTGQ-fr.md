@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XMYGTGQ/?tag=tolees0d-21'
 descuento: '26.67'
+average: '85.89230769230768'
 ---
 
 Tienes [Ice-Watch - Ice Lo White Blue - Montre Blanche pour Femme avec Bracelet en Silicone - 013425  Small ](https://www.amazon.fr/dp/B06XMYGTGQ/?tag=tolees0d-21) con un 26.67 % de descuento con precio de oferta de 72.6 EUR (original: 99.0 EUR) en el siguiente enlace!

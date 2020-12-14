@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21'
 descuento: '56.01'
+average: '69.95'
 ---
 
 Está [Replay Anbass Jean Slim  Gris  Medium Grey 096   W30/L30  Taille Fabricant: 30  Homme](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21) con 56.01 de descuento por 69.95 EUR (original: 159.0 EUR) en el siguiente enlace!

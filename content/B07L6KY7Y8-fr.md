@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07L6KY7Y8/?tag=tolees0d-21'
 descuento: '45.52'
+average: '70.82'
 ---
 
 Está [Under Armour Armour Insulated Hooded Veste Femme Noir FR : XS  Taille Fabricant : Taille XS ](https://www.amazon.fr/dp/B07L6KY7Y8/?tag=tolees0d-21) con 45.52 de descuento por 70.82 EUR (original: 130.0 EUR) en el siguiente enlace!

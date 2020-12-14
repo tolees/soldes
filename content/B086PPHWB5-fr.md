@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B086PPHWB5/?tag=tolees0d-21'
 descuento: '28.58'
+average: '57.09307692307693'
 ---
 
 Está [F1 2020 - Seventy Edition](https://www.amazon.fr/dp/B086PPHWB5/?tag=tolees0d-21) con 28.58 de descuento por 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!

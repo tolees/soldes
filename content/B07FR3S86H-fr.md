@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FR3S86H/?tag=tolees0d-21'
 descuento: '57.98'
+average: '29.39'
 ---
 
 Tienes [Clarks Street Spark Y  Mocassins bébé garçon  Noir  Black Leather-   41.5 EU](https://www.amazon.fr/dp/B07FR3S86H/?tag=tolees0d-21) con un 57.98 % de descuento con precio de oferta de 29.39 EUR (original: 69.95 EUR) en el siguiente enlace!

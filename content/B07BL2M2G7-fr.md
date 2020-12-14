@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BL2M2G7/?tag=tolees0d-21'
 descuento: '39.20'
+average: '72.9'
 ---
 
 Tienes [New Balance 1500v5  Running Femme  Blanc  White/Green White/Green   37 EU](https://www.amazon.fr/dp/B07BL2M2G7/?tag=tolees0d-21) con un 39.20 % de descuento con precio de oferta de 72.9 EUR (original: 119.9 EUR) en el siguiente enlace!

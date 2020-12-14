@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0047DPGM8/?tag=tolees0d-21'
 descuento: '44.23'
+average: '19.34'
 ---
 
 Está [Tiger LEC7-BK Support pour PC et Projecteur - Noir](https://www.amazon.fr/dp/B0047DPGM8/?tag=tolees0d-21) con 44.23 de descuento por 19.34 EUR (original: 34.68 EUR) en el siguiente enlace!

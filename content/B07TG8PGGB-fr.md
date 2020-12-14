@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TG8PGGB/?tag=tolees0d-21'
 descuento: '50.01'
+average: '39.99'
 ---
 
 Tienes [LIGHTAILING Jeu De Lumières pour  Architecture New York  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21028 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B07TG8PGGB/?tag=tolees0d-21) con un 50.01 % de descuento con precio de oferta de 39.99 EUR (original: 80.0 EUR) en el siguiente enlace!

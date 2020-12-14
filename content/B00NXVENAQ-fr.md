@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00NXVENAQ/?tag=tolees0d-21'
 descuento: '36.73'
+average: '379.0'
 ---
 
 Tienes [Melitta Caffeo Passione  Argent  F53/0-101  Machine à Café et Boissons Chaudes Automatique  Auto-Cappuccinatore](https://www.amazon.fr/dp/B00NXVENAQ/?tag=tolees0d-21) con un 36.73 % de descuento con precio de oferta de 379.0 EUR (original: 599.0 EUR) en el siguiente enlace!

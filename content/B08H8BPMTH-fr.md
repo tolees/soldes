@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08H8BPMTH/?tag=tolees0d-21'
 descuento: '44.49'
+average: '9.98'
 ---
 
 Está [Galaxy S9 Film Protection Ecran Verre Trempé  [2 Pièces] [Full Coverage] [Anti Rayures] [Ultra Claire] [Dureté 9H] Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S9](https://www.amazon.fr/dp/B08H8BPMTH/?tag=tolees0d-21) con 44.49 de descuento por 9.98 EUR (original: 17.98 EUR) en el siguiente enlace!

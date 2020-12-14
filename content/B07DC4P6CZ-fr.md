@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DC4P6CZ/?tag=tolees0d-21'
 descuento: '25.04'
+average: '22.45'
 ---
 
 Ahora mismo tienes [sloggi Zero Feel Top EX  Brassière Femme  Écru  ANGORA 6308   M](https://www.amazon.fr/dp/B07DC4P6CZ/?tag=tolees0d-21) a 22.45 EUR (original: 29.95 EUR) (25.04 %  de descuento) en el siguiente enlace!

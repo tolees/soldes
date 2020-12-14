@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B081ZZSZT4/?tag=tolees0d-21'
 descuento: '66.82'
+average: '199.05'
 ---
 
 Está [Vidéoprojecteur  WiMiUS 7000 Lumens Vidéoprojecteur Full HD 1080P Rétroprojecteur 4K Soutien  Correction Digitale 4D Dolby Audio Projecteur LED 90 000 Heures Home Cinéma TV Box PC PS4 HDMI VGA AV USB](https://www.amazon.fr/dp/B081ZZSZT4/?tag=tolees0d-21) con 66.82 de descuento por 199.05 EUR (original: 599.99 EUR) en el siguiente enlace!

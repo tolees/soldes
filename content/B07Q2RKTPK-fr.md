@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Q2RKTPK/?tag=tolees0d-21'
 descuento: '61.67'
+average: '46.0'
 ---
 
 Tienes [AUBADE  Soutien-gorge triangle  Bretelles réglables  THE BOW COLLECTION  Rose  100E  OC12](https://www.amazon.fr/dp/B07Q2RKTPK/?tag=tolees0d-21) con un 61.67 % de descuento con precio de oferta de 46.0 EUR (original: 120.0 EUR) en el siguiente enlace!

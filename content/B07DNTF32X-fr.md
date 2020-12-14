@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21'
 descuento: '29.39'
+average: '49.42'
 ---
 
 Tienes [Doom Eternal](https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21) con un 29.39 % de descuento con precio de oferta de 49.42 EUR (original: 69.99 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07DD8HZP2/?tag=tolees0d-21'
 descuento: '30.09'
+average: '55.93'
 ---
 
 Ahora mismo tienes [Spirit  Coffret Spirit Deluxe avec Poupée et Accessoires  une poupée Lucky 29 cm  Nombreux Accessoires  Jouet pour Enfants dès 3 Ans  PRT03](https://www.amazon.fr/dp/B07DD8HZP2/?tag=tolees0d-21) a 55.93 EUR (original: 80.0 EUR) (30.09 %  de descuento) en el siguiente enlace!

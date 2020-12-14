@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JNGKB5G/?tag=tolees0d-21'
 descuento: '37.78'
+average: '43.52'
 ---
 
 Tienes [Scotch & Soda AMS Blauw Light Weight Shirt with Contrast Print Details Chemise Casual   Blue 2344   Medium Homme](https://www.amazon.fr/dp/B07JNGKB5G/?tag=tolees0d-21) con un 37.78 % de descuento con precio de oferta de 43.52 EUR (original: 69.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B073SWC3Y8/?tag=tolees0d-21'
 descuento: '58.12'
+average: '36.02'
 ---
 
 Tienes [BODY WRAP - Body Retro Sculptant avec Armatures et Bretelles Ajustables - Affine Rehausse et Galbe - Invisible sans Couture - Femme - Beige 38-40](https://www.amazon.fr/dp/B073SWC3Y8/?tag=tolees0d-21) con un 58.12 % de descuento con precio de oferta de 36.02 EUR (original: 86.0 EUR) en el siguiente enlace!

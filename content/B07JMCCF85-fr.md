@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JMCCF85/?tag=tolees0d-21'
 descuento: '25.38'
+average: '49.99'
 ---
 
 Ahora mismo tienes [Playmobil - Grand Camping - 70087](https://www.amazon.fr/dp/B07JMCCF85/?tag=tolees0d-21) a 49.99 EUR (original: 66.99 EUR) (25.38 %  de descuento) en el siguiente enlace!

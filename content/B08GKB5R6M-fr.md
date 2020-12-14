@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08GKB5R6M/?tag=tolees0d-21'
 descuento: '29.91'
+average: '19.99'
 ---
 
 Está [Minuteur analogique visuel 60 minutes  compte à rebours sans bruit  outil de gestion du temps pour enfants  Minuterie pour travail à domicile  examen  regarder la télévision  jeu pour les garçons Bleu](https://www.amazon.fr/dp/B08GKB5R6M/?tag=tolees0d-21) con 29.91 de descuento por 19.99 EUR (original: 28.52 EUR) en el siguiente enlace!

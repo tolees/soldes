@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075NKVV5X/?tag=tolees0d-21'
 descuento: '48.48'
+average: '100.47'
 ---
 
 Ahora mismo tienes [Rotary Montres Bracelet GB08300/01](https://www.amazon.fr/dp/B075NKVV5X/?tag=tolees0d-21) a 100.47 EUR (original: 195.0 EUR) (48.48 %  de descuento) en el siguiente enlace!

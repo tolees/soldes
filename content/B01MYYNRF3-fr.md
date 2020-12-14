@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MYYNRF3/?tag=tolees0d-21'
 descuento: '39.39'
+average: '59.97'
 ---
 
 Está [Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en Résine DW-5600HR-1ER](https://www.amazon.fr/dp/B01MYYNRF3/?tag=tolees0d-21) con 39.39 de descuento por 60.0 EUR (original: 99.0 EUR) en el siguiente enlace!

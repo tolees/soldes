@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZHJFH4W/?tag=tolees0d-21'
 descuento: '42.00'
+average: '289.99'
 ---
 
 Ahora mismo tienes [CHiQ 43 Pouces Android 9.0 Smart TV  U43H7A  UHD  4K  WiFi  Bluetooth  Google Play Store  Google Assistant  Chromecast bulit-in  Netflix  Video  Youtube](https://www.amazon.fr/dp/B07ZHJFH4W/?tag=tolees0d-21) a 289.99 EUR (original: 499.99 EUR) (42.00 %  de descuento) en el siguiente enlace!

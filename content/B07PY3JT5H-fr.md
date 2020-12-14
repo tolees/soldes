@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07PY3JT5H/?tag=tolees0d-21'
 descuento: '44.24'
+average: '149.99'
 ---
 
 Tienes [HP 25MX Moniteur  62  23 cm  24  5"  FHD  1 ms  1920 x 1080  400CD/M2  1 x HDMI  1 x dp  Noir](https://www.amazon.fr/dp/B07PY3JT5H/?tag=tolees0d-21) con un 44.24 % de descuento con precio de oferta de 149.99 EUR (original: 269.0 EUR) en el siguiente enlace!

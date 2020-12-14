@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00GOY1V0Y/?tag=tolees0d-21'
 descuento: '38.02'
+average: '58.085'
 ---
 
 Está [Singleton of dufftown Réserve Collection Trinité avec emballage cadeau Whisky  1 x 1 l ](https://www.amazon.fr/dp/B00GOY1V0Y/?tag=tolees0d-21) con 38.02 de descuento por 45.92 EUR (original: 74.09 EUR) en el siguiente enlace!

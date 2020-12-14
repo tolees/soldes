@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01GE3ZR6S/?tag=tolees0d-21'
 descuento: '37.77'
+average: '12.44'
 ---
 
 Está [Le Monde de Dory [Blu-Ray]](https://www.amazon.fr/dp/B01GE3ZR6S/?tag=tolees0d-21) con 37.77 de descuento por 12.44 EUR (original: 19.99 EUR) en el siguiente enlace!

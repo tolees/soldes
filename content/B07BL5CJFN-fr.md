@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07BL5CJFN/?tag=tolees0d-21'
 descuento: '41.77'
+average: '456.52'
 ---
 
 Tienes [Sika Firestop profilé HD  Profilé pour calfeutrer des joints coupe-feu  40m  Gris](https://www.amazon.fr/dp/B07BL5CJFN/?tag=tolees0d-21) con un 41.77 % de descuento con precio de oferta de 456.52 EUR (original: 784.0 EUR) en el siguiente enlace!

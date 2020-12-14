@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08FQVHCTV/?tag=tolees0d-21'
 descuento: '60.01'
+average: '21.99'
 ---
 
 Ahora mismo tienes [/ Mḁs-tûr-bḁtḔûr HṎ-mmḔ RḔ-ḁlistḔ PṎ-ûr AûtṎ-mḁtiqùḔ ElḔ-çtriqüḔ ḁ-nüs Disçret và Vient Màs-türbàtéurs Màs-çülins](https://www.amazon.fr/dp/B08FQVHCTV/?tag=tolees0d-21) a 21.99 EUR (original: 54.99 EUR) (60.01 %  de descuento) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B076CMDCY5/?tag=tolees0d-21'
 descuento: '30.14'
+average: '153.0'
 ---
 
 Tienes [SAMSONITE Orfeo - Spinner 69/25 Bagage cabine  69 cm  72 liters  Noir  Ink Black ](https://www.amazon.fr/dp/B076CMDCY5/?tag=tolees0d-21) con un 30.14 % de descuento con precio de oferta de 153.0 EUR (original: 219.0 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0829SPGNC/?tag=tolees0d-21'
 descuento: '44.47'
+average: '9.24'
 ---
 
 Está [Mafiti Tablette d écriture LCD 8.5 Pouces d écriture électronique Planche à Dessin numérique Tablette Graphique de Dessin Convenant aux Enfants  à la Maison  à l école et au Bureau  Rose ](https://www.amazon.fr/dp/B0829SPGNC/?tag=tolees0d-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!

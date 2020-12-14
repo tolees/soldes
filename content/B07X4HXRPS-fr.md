@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07X4HXRPS/?tag=tolees0d-21'
 descuento: '46.64'
+average: '77.37'
 ---
 
 Ahora mismo tienes [Castaner Dosalia/3/ss20007  Espadrilles Femme  Tostado  38 EU](https://www.amazon.fr/dp/B07X4HXRPS/?tag=tolees0d-21) a 77.37 EUR (original: 145.0 EUR) (46.64 %  de descuento) en el siguiente enlace!

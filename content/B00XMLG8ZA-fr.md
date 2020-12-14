@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00XMLG8ZA/?tag=tolees0d-21'
 descuento: '41.80'
+average: '45.98'
 ---
 
 Ahora mismo tienes [Pepe Jeans SOHO Pants  10OZ Dark Used Worn H45  29W / 30L Femme](https://www.amazon.fr/dp/B00XMLG8ZA/?tag=tolees0d-21) a 45.98 EUR (original: 79.0 EUR) (41.80 %  de descuento) en el siguiente enlace!

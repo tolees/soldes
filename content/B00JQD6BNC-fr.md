@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00JQD6BNC/?tag=tolees0d-21'
 descuento: '36.03'
+average: '95.15'
 ---
 
 Tienes [Dé géant aux changements de couleurs - Tora](https://www.amazon.fr/dp/B00JQD6BNC/?tag=tolees0d-21) con un 36.03 % de descuento con precio de oferta de 95.15 EUR (original: 148.73 EUR) en el siguiente enlace!

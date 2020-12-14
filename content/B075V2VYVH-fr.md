@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21'
 descuento: '32.59'
+average: '59.99'
 ---
 
 Ahora mismo tienes [Trust Gaming GXT 890 Cada Clavier AZERTY Gamer Mécanique RGB  Interrupteurs Blancs Outemu  Anti Ghosting  Touches Macros Programmables - AZERTY](https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21) a 59.99 EUR (original: 88.99 EUR) (32.59 %  de descuento) en el siguiente enlace!

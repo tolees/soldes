@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01DPVCDN2/?tag=tolees0d-21'
 descuento: '35.69'
+average: '257.16'
 ---
 
 Tienes [Kyocera KTN-180-HIP  KIZUNA Couteau du chef Céramique Noir](https://www.amazon.fr/dp/B01DPVCDN2/?tag=tolees0d-21) con un 35.69 % de descuento con precio de oferta de 257.16 EUR (original: 399.9 EUR) en el siguiente enlace!

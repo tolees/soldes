@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RCNXS3Y/?tag=tolees0d-21'
 descuento: '45.79'
+average: '75.89'
 ---
 
 Está [Columbia Lake 22  Doudoune à Capuche  Homme - Noir  Black  - L](https://www.amazon.fr/dp/B07RCNXS3Y/?tag=tolees0d-21) con 45.79 de descuento por 75.89 EUR (original: 139.99 EUR) en el siguiente enlace!

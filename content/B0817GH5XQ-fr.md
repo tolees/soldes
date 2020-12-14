@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0817GH5XQ/?tag=tolees0d-21'
 descuento: '59.89'
+average: '12.03'
 ---
 
 Tienes [Columbia Klamath Range II Polaire Demi-zippée Homme](https://www.amazon.fr/dp/B0817GH5XQ/?tag=tolees0d-21) con un 59.89 % de descuento con precio de oferta de 12.03 EUR (original: 29.99 EUR) en el siguiente enlace!

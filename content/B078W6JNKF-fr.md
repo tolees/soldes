@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078W6JNKF/?tag=tolees0d-21'
 descuento: '35.03'
+average: '71.46'
 ---
 
 Tienes [Corsair DARK CORE RGB Special Edition Optique Souris Gaming sans Fil avec recharge sans fil Qi  Rétroéclairage RGB Multicolore  16000 DPI  Noir](https://www.amazon.fr/dp/B078W6JNKF/?tag=tolees0d-21) con un 35.03 % de descuento con precio de oferta de 71.46 EUR (original: 109.99 EUR) en el siguiente enlace!

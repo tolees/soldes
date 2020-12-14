@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00307PJFQ/?tag=tolees0d-21'
 descuento: '33.10'
+average: '90.28'
 ---
 
 Está [Diaper Champ Poubelle a couche - Large - capacite +/- 75 couches](https://www.amazon.fr/dp/B00307PJFQ/?tag=tolees0d-21) con 33.10 de descuento por 90.28 EUR (original: 134.95 EUR) en el siguiente enlace!

@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KRKVDC1/?tag=tolees0d-21'
 descuento: '48.13'
+average: '46.68'
 ---
 
 Ahora mismo tienes [Art 1253 Becerro Creta  Sandales Bout Ouvert Femme  Marron  Cuero Cuero   37 EU](https://www.amazon.fr/dp/B07KRKVDC1/?tag=tolees0d-21) a 46.68 EUR (original: 90.0 EUR) (48.13 %  de descuento) en el siguiente enlace!

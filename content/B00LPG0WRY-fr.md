@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00LPG0WRY/?tag=tolees0d-21'
 descuento: '31.25'
+average: '55.0'
 ---
 
 Tienes [Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x 31 x 19 5 cm](https://www.amazon.fr/dp/B00LPG0WRY/?tag=tolees0d-21) con un 31.25 % de descuento con precio de oferta de 55.0 EUR (original: 80.0 EUR) en el siguiente enlace!

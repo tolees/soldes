@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008B48AAE/?tag=tolees0d-21'
 descuento: '50.08'
+average: '299.0'
 ---
 
 Ahora mismo tienes [Sigma Objectif Macro 18-250 mm F3 5-6 3 DC OS HSM - Monture Canon](https://www.amazon.fr/dp/B008B48AAE/?tag=tolees0d-21) a 299.0 EUR (original: 599.0 EUR) (50.08 %  de descuento) en el siguiente enlace!

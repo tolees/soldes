@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01MV9L4ZJ/?tag=tolees0d-21'
 descuento: '27.36'
+average: '39.95'
 ---
 
 Ahora mismo tienes [Lacoste TH6709 T-Shirt Homme  Bleu  Marine 166   S](https://www.amazon.fr/dp/B01MV9L4ZJ/?tag=tolees0d-21) a 39.95 EUR (original: 55.0 EUR) (27.36 %  de descuento) en el siguiente enlace!

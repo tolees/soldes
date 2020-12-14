@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21'
 descuento: '45.28'
+average: '7.950000000000001'
 ---
 
 Tienes [Older](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21) con un 45.28 % de descuento con precio de oferta de 7.65 EUR (original: 13.98 EUR) en el siguiente enlace!

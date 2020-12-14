@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00TTJF86E/?tag=tolees0d-21'
 descuento: '25.02'
+average: '59.95'
 ---
 
 Ahora mismo tienes [Clarks Tilden Walk  Derbys Homme  Noir  Black Leather   42.5 EU](https://www.amazon.fr/dp/B00TTJF86E/?tag=tolees0d-21) a 59.95 EUR (original: 79.95 EUR) (25.02 %  de descuento) en el siguiente enlace!

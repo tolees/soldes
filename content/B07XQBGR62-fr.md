@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XQBGR62/?tag=tolees0d-21'
 descuento: '37.88'
+average: '40.99'
 ---
 
 Tienes [JOYXEON Pneu Plein Compatible avec Xiaomi M365  Cellulaire Absorption des Chocs  Anti-Dérapant  8 5 Pouces Pneu de Rechange Solide  8 1/2X2 pour Avant/Arrière de Pneu+ Kit de démonte-pneus  270mm ](https://www.amazon.fr/dp/B07XQBGR62/?tag=tolees0d-21) con un 37.88 % de descuento con precio de oferta de 40.99 EUR (original: 65.99 EUR) en el siguiente enlace!

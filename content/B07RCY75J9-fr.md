@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07RCY75J9/?tag=tolees0d-21'
 descuento: '35.90'
+average: '99.99'
 ---
 
 Está [TEFAL Body Partner Pèse Personne Balance Connectée Compatible Health Kit Google Fit - Coaching Sportif Et Nutritionnel Intégré YD3094S1](https://www.amazon.fr/dp/B07RCY75J9/?tag=tolees0d-21) con 35.90 de descuento por 99.99 EUR (original: 155.99 EUR) en el siguiente enlace!
