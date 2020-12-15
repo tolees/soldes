@@ -25,8 +25,8 @@ Está [IK Multimedia iKlip2Mini Support d adaptateur pour iPad mini Noir](https:
 
 ℹ️:
 
-- iKlip 2 Mini - adaptateur pied de micro universel / support iPad Mini
 - Usage adapté: Universel
+- iKlip 2 Mini - adaptateur pied de micro universel / support iPad Mini
 - Type: Actif
 - Type dappareil mobile: Tablet/UMPC
 

@@ -26,9 +26,9 @@ Ahora mismo tienes [PNY SSD7CS900-120-PB Disque Flash SSD interne 120 Go SATA II
 🔎:
 
 - Idéal pour booster le système et les applications de tous les types dordinateur
-- Garantie 3 ans par le SAV PNY situé en France
 - Capacité de 120 Go
 - Format Slim 7 mm
+- Garantie 3 ans par le SAV PNY situé en France
 - Interface Serial ATA III/6 GBPs
 - Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
 
