@@ -25,10 +25,10 @@ Está [HD6566/51 Machine à café à dosettes SENSEO Viva Café Duo Select](http
 
 ℹ️:
 
+- Sélecteur dintensité (2 longueurs de café)
 - Technologie Booster darômes
 - Technologie Crema Plus
-- Nouvelle technologie : Duo Select : variez le goût du café, un café plus riche en goût
-- Sélecteur dintensité (2 longueurs de café)
 - 1 à 2 tasses à la fois
+- Nouvelle technologie : Duo Select : variez le goût du café, un café plus riche en goût
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07L1M4S1W/?tag=tolees0d-21)
