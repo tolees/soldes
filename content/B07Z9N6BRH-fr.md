@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath - Super Zings Bakery Blast - à c al 26.38 % de descuento'
-date: 2020-12-14 06:32:57
+date: 2020-12-15 13:02:09
 image: 'https://m.media-amazon.com/images/I/51qUKr-v3WL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Z9N6BRH/?tag=tolees0d-21'
 descuento: '26.38'
+average: '17.57430232558139'
 ---
 
 Está [Goliath - Super Zings Bakery Blast - à collectionner - à partir de 5 ans](https://www.amazon.fr/dp/B07Z9N6BRH/?tag=tolees0d-21) con 26.38 de descuento por 14.65 EUR (original: 19.9 EUR) en el siguiente enlace!
@@ -24,9 +25,9 @@ Está [Goliath - Super Zings Bakery Blast - à collectionner - à partir de 5 an
 
 ℹ️:
 
-- 1+
-- Age minimum: 5 ans
 - Après un succès fulgurant en Angleterre et en Espagne, le phénomène superzings débarquent en France !
+- 1+
 - Superzings est une gamme de figurines à collectionner d’une hauteur de 3cm environ.
+- Age minimum: 5 ans
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07Z9N6BRH/?tag=tolees0d-21)
