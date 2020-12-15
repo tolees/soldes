@@ -25,10 +25,10 @@ Tienes [Mauboussin - Eau de Parfum Homme - Pour Lui In Black - Senteur Boisée &
 
 ℹ️:
 
-- UN PARFUM BIJOU : Le cadran et les aiguilles rythment son quotidien. À l’instant T, il prend le volant de tous ses excès. Se dépasser, vivre l’extrême. Il ne vit plus qu’à travers ses addictions.
-- UNE SENTEUR INTEMPORELLE : Une fragrance sensuelle et puissante qui joue sur les codes de la virilité et de la séduction.
-- UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour.
-- LES NOTES OLFACTIVES : Notes de tête : menthe fraiche ; Notes de coeur : violette noire ; Note de fond : bois de gaiac, caramel.
 - UNE FRAGRANCE UNIQUE : Une fragrance qui évolue dans la profondeur des pétales de violette noire ; vit au travers des éclats de menthe fraîche et perdure dans la force des essences du bois de gaïac.
+- UNE SENTEUR INTEMPORELLE : Une fragrance sensuelle et puissante qui joue sur les codes de la virilité et de la séduction.
+- UN PARFUM BIJOU : Le cadran et les aiguilles rythment son quotidien. À l’instant T, il prend le volant de tous ses excès. Se dépasser, vivre l’extrême. Il ne vit plus qu’à travers ses addictions.
+- LES NOTES OLFACTIVES : Notes de tête : menthe fraiche ; Notes de coeur : violette noire ; Note de fond : bois de gaiac, caramel.
+- UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00PZ9HWIE/?tag=tolees0d-21)
