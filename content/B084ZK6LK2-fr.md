@@ -25,11 +25,11 @@ Ahora mismo tienes [Aussie  Routine Capillaire  Hydrate Miracle  à l Huile de M
 
 🔎:
 
-- Ce lot est composé dun shampoing Hydrate 300ml, dun après-shampoing Hydrate 200 ml et dun Soin Intensif 3 Minute Miracle Hydrate 250 ml
 - Laissez vous tenter par la collection Hydrate Miracle dAussie
-- Cette collection hydratante d’Aussie transforme les cheveux secs et abîmés en de magnifiques boucles hydratées
+- Avec lhuile de Macadamia d’Australie pour revitaliser en profondeur les cheveux secs et abîmés
+- Ce lot est composé dun shampoing Hydrate 300ml, dun après-shampoing Hydrate 200 ml et dun Soin Intensif 3 Minute Miracle Hydrate 250 ml
 - Étanchez la soif de vos cheveux grâce au shampoing, laprès-shampoing et le soin intensif Hydrate Miracle dAussie
 - A fait référence à Aussie, une abréaviation dAustralie. Retrouvez dans nos collections lauthenticité des ingrédients Australiens
-- Avec lhuile de Macadamia d’Australie pour revitaliser en profondeur les cheveux secs et abîmés
+- Cette collection hydratante d’Aussie transforme les cheveux secs et abîmés en de magnifiques boucles hydratées
 
 [Visítala!!!](https://www.amazon.fr/dp/B084ZK6LK2/?tag=tolees0d-21)

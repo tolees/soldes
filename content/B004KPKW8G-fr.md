@@ -25,13 +25,13 @@ Tienes [Melissa & Doug - 12505 - Maison En Bois À Sonnettes](https://www.amazon
 
 ℹ️:
 
-- Dimensions: 25.4x19.05x18.288 cm
-- Descriptif Produit: Ding Dong. Fun is at the door of this “sound”ly-built wooden doorbell house. Four electronic doorbell sounds, four unique locks with matching keys, and four pose-able play people are included with this charming cottage. The keys are attached to the house, so they won’t get lost, and the sturdy handle allows this exciting house party to go wherever children go.
-- Facile à transporter à l’aide des poignées de transport fixées !
-- Age minimum: 36 mois
+- Quatre portes s’ouvrent sur des charnières durables.
 - Construction robuste en bois
 - Comprend quatre personnages de jeu !
-- Quatre portes s’ouvrent sur des charnières durables.
+- Age minimum: 36 mois
+- Facile à transporter à l’aide des poignées de transport fixées !
 - Quatre sonnettes à actionner : quatre paires de serrure et clé
+- Dimensions: 25.4x19.05x18.288 cm
+- Descriptif Produit: Ding Dong. Fun is at the door of this “sound”ly-built wooden doorbell house. Four electronic doorbell sounds, four unique locks with matching keys, and four pose-able play people are included with this charming cottage. The keys are attached to the house, so they won’t get lost, and the sturdy handle allows this exciting house party to go wherever children go.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B004KPKW8G/?tag=tolees0d-21)

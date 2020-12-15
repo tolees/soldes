@@ -25,13 +25,13 @@ Está [Cristel - WOKT20Q - Wok inox 20cm sans poignée amovible - Collection Cas
 
 ℹ️:
 
+- corps thermodiffuseur Multiply (voir illustration) compatible tous feux+ induction
+- Garantie à vie contre tous vices de fabrication
+- Intérieur inox 18/10
+- température four : 300°C
+- Origine France Garantie
+- Vendu sans poignée amovible et sans couvercle
 - Passe au lave-vaisselle
 - Inox 18/10 - finition brillante
-- Vendu sans poignée amovible et sans couvercle
-- Origine France Garantie
-- température four : 300°C
-- Garantie à vie contre tous vices de fabrication
-- corps thermodiffuseur Multiply (voir illustration) compatible tous feux+ induction
-- Intérieur inox 18/10
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00BQV72Y4/?tag=tolees0d-21)
