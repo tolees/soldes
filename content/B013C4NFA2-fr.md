@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Adidas Originals Stan Smith  Baskets Mod al 25.35 % de descuento'
-date: 2020-12-12 12:03:13
+date: 2020-12-15 01:24:54
 image: 'https://m.media-amazon.com/images/I/31RzTRmN2CL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013C4NFA2/?tag=tolees0d-21'
 descuento: '25.35'
+average: '65.3'
 ---
 
 Está [Adidas Originals Stan Smith  Baskets Mode Mixte Adulte  Blanc  Footwear White/Footwear White/Footwear White   42 EU](https://www.amazon.fr/dp/B013C4NFA2/?tag=tolees0d-21) con 25.35 de descuento por 63.45 EUR (original: 85.0 EUR) en el siguiente enlace!

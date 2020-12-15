@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.79 % en Lego Star Wars : Les Nouvelles chronique'
-date: 2020-12-14 00:51:13
+date: 2020-12-15 01:28:26
 image: 'https://m.media-amazon.com/images/I/51+8mRcxBuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013EXYK5K/?tag=tolees0d-21'
 descuento: '29.79'
+average: '7.0'
 ---
 
 Tienes [Lego Star Wars : Les Nouvelles chroniques de Yoda-Volume 1](https://www.amazon.fr/dp/B013EXYK5K/?tag=tolees0d-21) con un 29.79 % de descuento con precio de oferta de 7.0 EUR (original: 9.97 EUR) en el siguiente enlace!
