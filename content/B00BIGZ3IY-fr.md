@@ -25,7 +25,7 @@ Tienes [XL Perform Tool 553902 Prise Métal Remorque 7 Broches Mâle](https://ww
 
 ℹ️:
 
-- prise remorque
 - 7 broches
+- prise remorque
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00BIGZ3IY/?tag=tolees0d-21)

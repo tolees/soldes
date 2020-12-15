@@ -25,12 +25,12 @@ Ahora mismo tienes [Rainbow Jellies - 6056248 - Jouet Enfant - Loisirs Créatifs
 
 🔎:
 
-- CRÉE TES PERSONNAGES GÉLIFIÉS : place le visage et les cheveux que tu as choisis dans le moule puis insère la pâte magique. Après 45 minutes dattente, ouvre le moule pour découvrir ton personnage Rainbow Jellies
-- CHOISIS TES COMBINAISONS : dans chaque coffret, plus 100 combinaisons sont possibles avec les différents moules, visages, mèches de cheveux arc-en-ciel, porte-clés et la gelée magique à paillettes pour créer tes propres Jellies
+- A partir de 6 ans
 - Le cadeau danniversaire ou de Noël idéal
+- CRÉE TES PERSONNAGES GÉLIFIÉS : place le visage et les cheveux que tu as choisis dans le moule puis insère la pâte magique. Après 45 minutes dattente, ouvre le moule pour découvrir ton personnage Rainbow Jellies
 - Un kit de création complet pour des heures de jeu
 - CONTENU : 4 moules en forme de nuage, 4 visages, 4 mèches de cheveux, 4 recharges de pâte magique et 4 attaches porte-clés
 - Contenu : 4 moules en forme de nuage, 4 porte-clés, 4 visages, 4 mèches de cheveux, 4 charms pour cheveux, 4 gelées magiques, 1 nuage Rainbow Jellies, 1 mode demploi
-- A partir de 6 ans
+- CHOISIS TES COMBINAISONS : dans chaque coffret, plus 100 combinaisons sont possibles avec les différents moules, visages, mèches de cheveux arc-en-ciel, porte-clés et la gelée magique à paillettes pour créer tes propres Jellies
 
 [Visítala!!!](https://www.amazon.fr/dp/B085BMR7HX/?tag=tolees0d-21)

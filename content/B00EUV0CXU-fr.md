@@ -25,10 +25,10 @@ Tienes [KÖNIG EASY-FIT SUV 230 - Chaînes à Neige  Set de 2](https://www.amazo
 
 ℹ️:
 
-- Encombrement 10 mm.
-- Boutons de protection anti-griffure pour les jantes en alu (mise en place optionnelle).
-- Ne pas utiliser en hors-piste.
 - Homologations/Certifications/Conformités: Ö-Norm 5117, UNI 11313, TÜV.
+- Boutons de protection anti-griffure pour les jantes en alu (mise en place optionnelle).
 - 215/75-15, 225/70-15, 215/65-16, 205/70-16
+- Encombrement 10 mm.
+- Ne pas utiliser en hors-piste.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00EUV0CXU/?tag=tolees0d-21)

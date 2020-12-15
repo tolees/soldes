@@ -25,10 +25,10 @@ Está [Duracraft DO1100E Ventilateur tour oscillant Blanc](https://www.amazon.fr
 
 ℹ️:
 
-- Pas de montage , Base solide
-- 3 Réglages : Bas / Moyen / Haut
-- 60 ° oscillant
 - Compact, peu de place au sol; Poignée pratique Facile à transporter
+- Pas de montage , Base solide
+- 60 ° oscillant
+- 3 Réglages : Bas / Moyen / Haut
 - Panneau de contrôle facile à utiliser avec un cadran
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01BLO9SXI/?tag=tolees0d-21)
