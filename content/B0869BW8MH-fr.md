@@ -25,10 +25,10 @@ Está [PNY CS2130 M.2 NVMe SSD Interne 500GB - jusqu à 3500 MB/s](https://www.a
 
 ℹ️:
 
-- Démarrage et lancement plus rapide des applications
-- Mise à niveau NVMe à partir dun disque dur SATA (SSD) dans un ordinateur de bureau ou portable PC ou MAC compatible NVMe
-- Lecture séquentielle jusquà 3500 Mo/s et écriture séquentielle jusquà 925 Mo/s
-- Faible consommation dénergie, fonctionnement froid et silencieux
 - Jusquà 6 fois plus performant que les SSD SATA
+- Mise à niveau NVMe à partir dun disque dur SATA (SSD) dans un ordinateur de bureau ou portable PC ou MAC compatible NVMe
+- Faible consommation dénergie, fonctionnement froid et silencieux
+- Lecture séquentielle jusquà 3500 Mo/s et écriture séquentielle jusquà 925 Mo/s
+- Démarrage et lancement plus rapide des applications
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0869BW8MH/?tag=tolees0d-21)

@@ -26,9 +26,9 @@ Está [Fossil Montre Homme FS5268](https://www.amazon.fr/dp/B01MRRSJGS/?tag=tole
 ℹ️:
 
 - Livré dans une boîte cadeau métal Fossil illustrée collector (divers motifs)
-- Cadran bleu double épaisseur avec chiffres romains dorés - Mouvement chronographe avec affichage 24h - Aiguilles dorées et luminescentes - Verre minéral
 - Montre FOSSIL homme - Boîtier rond (diam. 44 mm) en acier inoxydable doré, finition polie et brossée - Etanche 5 ATM - Lunette dorée avec insert en aluminium bleu
-- Bracelet en cuir véritable marron - Boucle ardillon. Circonférence: 200 +/- 5mm
+- Cadran bleu double épaisseur avec chiffres romains dorés - Mouvement chronographe avec affichage 24h - Aiguilles dorées et luminescentes - Verre minéral
 - Le design des boîtes à montres Fossil se renouvelle à chaque saison
+- Bracelet en cuir véritable marron - Boucle ardillon. Circonférence: 200 +/- 5mm
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01MRRSJGS/?tag=tolees0d-21)
