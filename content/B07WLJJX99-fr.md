@@ -26,10 +26,10 @@ Está [LEGO Super-Héros Marvel  L attaque du camion des Avengers avec figurines
 ℹ️:
 
 - Comprend un motor-trike avec une grande roue avant, un drone et limpressionnant camion des Avengers blindé, muni de son arme cachée
-- Comprend 4 figurines : Captain America avec son bouclier, Hawkeye avec son arc et 2 agents AIM, avec un pistolet, un lance-flammes et un jet-pack
 - Les enfants pressent le levier pour révéler larme secrète, et
 voient apparaitre une énorme arbalète à 6 coups avec ses canons à tenons qui sortent lorsquon la tourne
-- Cest une embuscade  Lorsque le camion Marvel Avengers est piégé par 2 agents AIM, les enfants doivent aider Captain America et Hawkeye à se frayer un chemin et séchapper de lembuscade
 - Les jeunes peuvent assembler ce set de construction facile, ou utiliser les instructions simples pour commencer ; le camion aura une fière allure lorsquils lexposeront dans leur chambre
+- Cest une embuscade  Lorsque le camion Marvel Avengers est piégé par 2 agents AIM, les enfants doivent aider Captain America et Hawkeye à se frayer un chemin et séchapper de lembuscade
+- Comprend 4 figurines : Captain America avec son bouclier, Hawkeye avec son arc et 2 agents AIM, avec un pistolet, un lance-flammes et un jet-pack
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07WLJJX99/?tag=tolees0d-21)

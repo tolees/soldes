@@ -25,10 +25,10 @@ Está [Nerf Elite 2.0 Commander RD-6 et Flechettes Nerf Elite Officielles](https
 
 ℹ️:
 
+- TIR À RÉPÉTITION : On actionne la glissière damorçage et on appuie sur la détente pour tirer une fléchette. On peut rapidement tirer les 6 fléchettes en maintenant la détente enfoncée et en actionnant la glissière à répétition
 - INCLUT 12 FLÉCHETTES NERF : Est vendu avec 2x plus de fléchettes que le NERF Elite Disruptor, soit 12 fléchettes Nerf Elite officielles permettant de remplir le barillet 6 fléchettes 2 fois.
 - PORTÉE DE 27 MÈTRES : Ce blaster peut tirer des fléchettes jusquà une distance de 27 mètres
-- BLASTER PRÊT À ÊTRE PERSONNALISÉ : On peut personnaliser le blaster pour toute situation en utilisant les 2 rails tactiques et les points de fixation pour crosse et pour canon (crosse et rallonge de crosse non incluses)
-- TIR À RÉPÉTITION : On actionne la glissière damorçage et on appuie sur la détente pour tirer une fléchette. On peut rapidement tirer les 6 fléchettes en maintenant la détente enfoncée et en actionnant la glissière à répétition
 - Valeur éducative de Nerf: se dépenser, améliorer son agilité et sa précision, inventer des histoires. Nerf, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 8 ans, 9 ans, 10 ans et plus.
+- BLASTER PRÊT À ÊTRE PERSONNALISÉ : On peut personnaliser le blaster pour toute situation en utilisant les 2 rails tactiques et les points de fixation pour crosse et pour canon (crosse et rallonge de crosse non incluses)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07ZYCNZTZ/?tag=tolees0d-21)
