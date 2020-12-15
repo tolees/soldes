@@ -25,9 +25,9 @@ Ahora mismo tienes [PGYTECH Accessoires Combo pour DJI Mavic 2 Pro Drone](https:
 
 🔎:
 
-- Marchent avec le drone DJI Mavic 2 Pro
-- Filtres en verre de haute qualité avec plusieures couches de revêtement
 - Facile à emporter
 - Contenu: Carrying Case Mini, Landing Gear Extension, Propeller Holder, Lens Hood, Control Stick Protector, Landing Pad Pro, Filtres ND8, ND16, ND32 et ND64
+- Marchent avec le drone DJI Mavic 2 Pro
+- Filtres en verre de haute qualité avec plusieures couches de revêtement
 
 [Visítala!!!](https://www.amazon.fr/dp/B07KFZ766L/?tag=tolees0d-21)
