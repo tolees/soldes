@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HD6566/51 Machine à café à dosettes SENS al 30.00 % de descuento'
-date: 2020-12-06 13:49:20
+date: 2020-12-15 20:27:43
 image: 'https://m.media-amazon.com/images/I/41I6y+PtL0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07L1M4S1W/?tag=tolees0d-21'
 descuento: '30.00'
+average: '69.99'
 ---
 
 Está [HD6566/51 Machine à café à dosettes SENSEO Viva Café Duo Select](https://www.amazon.fr/dp/B07L1M4S1W/?tag=tolees0d-21) con 30.00 de descuento por 69.99 EUR (original: 99.99 EUR) en el siguiente enlace!
@@ -24,5 +25,10 @@ Está [HD6566/51 Machine à café à dosettes SENSEO Viva Café Duo Select](http
 
 ℹ️:
 
+- Technologie Booster darômes
+- Technologie Crema Plus
+- Nouvelle technologie : Duo Select : variez le goût du café, un café plus riche en goût
+- Sélecteur dintensité (2 longueurs de café)
+- 1 à 2 tasses à la fois
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07L1M4S1W/?tag=tolees0d-21)

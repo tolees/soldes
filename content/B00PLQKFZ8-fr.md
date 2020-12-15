@@ -25,10 +25,10 @@ Ahora mismo tienes [Sac besace Playstation BIO-MB128818SNY  Gris](https://www.am
 
 🔎:
 
-- Includes main storage compartment, front zip-up pocket and adjustable strap
-- Officially licensed
-- Sony Playstation Console Messenger Bag
-- Features the iconic console design with Hook and loop fastener flap fastener
 - Ideal collectable for video game fans
+- Sony Playstation Console Messenger Bag
+- Includes main storage compartment, front zip-up pocket and adjustable strap
+- Features the iconic console design with Hook and loop fastener flap fastener
+- Officially licensed
 
 [Visítala!!!](https://www.amazon.fr/dp/B00PLQKFZ8/?tag=tolees0d-21)
