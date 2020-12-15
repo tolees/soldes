@@ -1,28 +1,34 @@
 ---
 layout: post
-title: 'Sony Manette PlayStation 4 officielle  D al 43.51 % de descuento'
-date: 2020-12-09 03:40:21
+title: 'Sony Manette PlayStation 4 officielle  D al 41.86 % de descuento'
+date: 2020-12-15 07:08:25
 image: 'https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01GVQUX3U-fr'
-actualPrice: 33.89 EUR
+actualPrice: 34.88 EUR
 currency: EUR
-price: 33.89
+price: 34.88
 comparePrice: 59.99 EUR
 prodname: 'Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire '
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21'
-descuento: '43.51'
+descuento: '41.86'
+average: '50.803125'
 ---
 
-Está [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire ](https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21) con 43.51 de descuento por 33.89 EUR (original: 59.99 EUR) en el siguiente enlace!
+Está [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire ](https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21) con 41.86 de descuento por 34.88 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Sony Manette PlayStation 4 officielle  D](https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg)](https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21)
 
 ℹ️:
 
+- Manette DUALSHOCK 4 sans fil pour PS4, Pour plus de sensibilité et des meilleures expériences de jeu, Compatible avec pc (Windows, Mac OS, Android, IOS)
+- Batterie rechargeable intégrée, Possibilité de jouer et de recharger la batterie simultanément
+- Technologie Share : partage et diffusion en streaming de vidéos de vos meilleures parties avec les autres joueurs
+- Caractéristiques : Haut-parleur mono intégré, Moteur de vibration intense, Pavé tactile, Détection de mouvements six axes, Port USB et d’extension, Sortie de casque stéréo
+- Contenu : 1 x Sony Manette DUALSHOCK 4 sans fil pour PS4, Dimensions : 16,2x5,2x9,8 cm (LxPxH), Poids : 210 g, Batterie rechargeable, Capacité de la batterie : 1000 mAh, Guide d’utilisation, Matériau : Plastique, Couleur : Noire
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21)
