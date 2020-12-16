@@ -26,9 +26,9 @@ Está [Sika Imper Mur  Resine pour traitement des murs humides  anti-salpêtre  
 ℹ️:
 
 - Presque invisible après séchage, il peut être recouvert de peinture ou de papier peint, une fois lImper Mur sec au toucher
-- Produit PRÊT A LEMPLOI il forme une barrière imperméable anti-salpêtre, anti-moisissure et anti-humidité. Empêche le cloquage des peintures et le décollement des papiers peints
 - Cette résine est un traitement pour les MURS intérieurs DEGRADES et murs HUMIDES. Agit contre lhumidité en provenant des supports
-- SECHAGE RAPIDE. Pénètre profondément dans le support
 - CONSOMMATION : 2L = environ 6 à 10m². Fabriqué en France
+- Produit PRÊT A LEMPLOI il forme une barrière imperméable anti-salpêtre, anti-moisissure et anti-humidité. Empêche le cloquage des peintures et le décollement des papiers peints
+- SECHAGE RAPIDE. Pénètre profondément dans le support
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01D1ORRE8/?tag=tolees0d-21)

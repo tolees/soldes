@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Star Wars 9 : L Ascension de Skywalker [ al 40.00 % de descuento'
-date: 2020-12-15 19:16:58
+date: 2020-12-16 19:33:13
 image: 'https://m.media-amazon.com/images/I/51zX1husj6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082VW4G2D/?tag=tolees0d-21'
 descuento: '40.00'
-average: '14.66380952380952'
+average: '14.679090909090906'
 ---
 
 Está [Star Wars 9 : L Ascension de Skywalker [Blu-Ray]](https://www.amazon.fr/dp/B082VW4G2D/?tag=tolees0d-21) con 40.00 de descuento por 15.0 EUR (original: 25.0 EUR) en el siguiente enlace!

@@ -25,10 +25,10 @@ Tienes [Feutre à dessin - STABILO Pen 68 - Boîte métal x 40 feutres pointe mo
 
 ℹ️:
 
-- Its robust medium tip has a line width of 1 mm.
-- You are able to leave the cap off until 24 hours and the pen wont dry out.
-- The colour-intensive premium fibre pen has a water-based ink.
 - The STABILO Pen 68 is well known for its high brilliance and luminosity.
+- The colour-intensive premium fibre pen has a water-based ink.
+- Its robust medium tip has a line width of 1 mm.
 - Benefit from the colour-intensive premium felt tip pen for strong lines and large areas.
+- You are able to leave the cap off until 24 hours and the pen wont dry out.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B000WGRVWM/?tag=tolees0d-21)

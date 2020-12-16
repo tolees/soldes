@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nouvelle Bouteille De Parfum En Cristal  al 37.49 % de descuento'
-date: 2020-12-12 12:03:51
+date: 2020-12-16 19:32:01
 image: 'https://m.media-amazon.com/images/I/410J-iU4oSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01GYKGXIC/?tag=tolees0d-21'
 descuento: '37.49'
+average: '11.99'
 ---
 
 Está [Nouvelle Bouteille De Parfum En Cristal Vintage Rose Atomiseur De Pulvérisation Cadeau Verre Réutilisable](https://www.amazon.fr/dp/B01GYKGXIC/?tag=tolees0d-21) con 37.49 de descuento por 11.99 EUR (original: 19.18 EUR) en el siguiente enlace!
