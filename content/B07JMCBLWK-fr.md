@@ -25,10 +25,10 @@ Está [Playmobil - Tente et Campeurs - 70089](https://www.amazon.fr/dp/B07JMCBLW
 
 ℹ️:
 
-- Features a spacious family toy tent
-- With portable stove
 - With folding table and chairs
+- With portable stove
 - With crockery, pots and pans and food
 - Includes 3 blankets
+- Features a spacious family toy tent
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JMCBLWK/?tag=tolees0d-21)

@@ -26,9 +26,9 @@ Ahora mismo tienes [HeysTop Compatible Nintendo Switch Dock avec câble HDMI Cha
 🔎:
 
 - Conception légère et portable: Contrairement au dock de commutation Nintendo original, lourd et encombrant, ce dock est beaucoup plus petit, facile à transporter et fonctionne aussi bien que le dock standard de Switch.
-- Extra 4 magasins GameCard: sortez vos cartes de jeu préférées à tout moment, nimporte où et jouez aux jeux avec vos amis ou votre famille. Ceci est très pratique et améliore votre expérience de jeu.
-- ONE-KEY Switching: Commutation de l’affichage à une touche (bouton de conversion à l’arrière), permuter librement entre l’hôte et l’interface d’affichage du téléviseur. Et utilise le schéma de sortie HDMI pour rendre l’écran de jeu plus clair. Et suggérez-vous d’utiliser l’adaptateur secteur Nintendo original. Pour jouer et charger en même temps, vous avez besoin d’une alimentation 15V / 2.6A.
 - Extension USB 3.0: le port USB 3.0 prend en charge la transmission de données haute vitesse jusquà 5 Gbps (5120 Mbit / s), adapté aux disques U, au contrôleur de manette de jeu filaire, à la souris et à dautres périphériques USB.
+- ONE-KEY Switching: Commutation de l’affichage à une touche (bouton de conversion à l’arrière), permuter librement entre l’hôte et l’interface d’affichage du téléviseur. Et utilise le schéma de sortie HDMI pour rendre l’écran de jeu plus clair. Et suggérez-vous d’utiliser l’adaptateur secteur Nintendo original. Pour jouer et charger en même temps, vous avez besoin d’une alimentation 15V / 2.6A.
 - Paquet: 1 * mini station daccueil, 1 * câble HDMI (3.2 ft), veuillez noter: vous devez retirer le boîtier pour utiliser cette station daccueil
+- Extra 4 magasins GameCard: sortez vos cartes de jeu préférées à tout moment, nimporte où et jouez aux jeux avec vos amis ou votre famille. Ceci est très pratique et améliore votre expérience de jeu.
 
 [Visítala!!!](https://www.amazon.fr/dp/B07YXRC7LQ/?tag=tolees0d-21)

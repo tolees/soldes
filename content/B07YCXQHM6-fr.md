@@ -25,8 +25,8 @@ Está [Call of Duty : Modern Warfare pour Xbox One](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
-- Call of duty: modern warfare
 - Sur Xbox one
 - Version standard
+- Call of duty: modern warfare
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)
