@@ -25,10 +25,10 @@ Está [adidas Sport RPT-01 Bluetooth Casque d écoute - Gris  Night Grey ](https
 
 ℹ️:
 
-- Coussinets d’oreille tricotés et bandeau intérieur lavables
-- Indice de protection IPX4 contre la transpiration et les éclaboussures
-- Boutons de contrôle et d’activation avec possibilités de raccourcis personnalisés
 - Plus de 40 heures d’autonomie avec chargement USB-C ultra rapide
+- Boutons de contrôle et d’activation avec possibilités de raccourcis personnalisés
+- Indice de protection IPX4 contre la transpiration et les éclaboussures
 - Design ergonomique avec un arceau pivotant à 360 degrés pour un ajustement polyvalent
+- Coussinets d’oreille tricotés et bandeau intérieur lavables
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07WLSF114/?tag=tolees0d-21)
