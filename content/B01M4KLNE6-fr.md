@@ -27,9 +27,9 @@ Ahora mismo tienes [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil
 
 - Caractéristiques : Haut-parleur mono intégré, Moteur de vibration intense, Pavé tactile, Détection de mouvements six axes, Port USB et d’extension, Sortie de casque stéréo
 - Manette DUALSHOCK 4 sans fil pour PS4, Pour plus de sensibilité et des meilleures expériences de jeu, Compatible avec pc (Windows, Mac OS, Android, IOS)
-- Batterie rechargeable intégrée, Possibilité de jouer et de recharger la batterie simultanément
 - Tension: 3,7 V CC
-- Contenu : 1 x Sony Manette DUALSHOCK 4 sans fil pour PS4, Dimensions : 16,2x5,2x9,8 cm (LxPxH), Poids : 210 g, Batterie rechargeable, Capacité de la batterie : 1000 mAh, Guide d’utilisation, Matériau : Plastique, Couleur : Rouge
+- Batterie rechargeable intégrée, Possibilité de jouer et de recharger la batterie simultanément
 - Technologie Share : partage et diffusion en streaming de vidéos de vos meilleures parties avec les autres joueurs
+- Contenu : 1 x Sony Manette DUALSHOCK 4 sans fil pour PS4, Dimensions : 16,2x5,2x9,8 cm (LxPxH), Poids : 210 g, Batterie rechargeable, Capacité de la batterie : 1000 mAh, Guide d’utilisation, Matériau : Plastique, Couleur : Rouge
 
 [Visítala!!!](https://www.amazon.fr/dp/B01M4KLNE6/?tag=tolees0d-21)
