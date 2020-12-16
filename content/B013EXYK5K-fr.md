@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.79 % en Lego Star Wars : Les Nouvelles chronique'
-date: 2020-12-15 01:28:26
+date: 2020-12-16 01:37:19
 image: 'https://m.media-amazon.com/images/I/51+8mRcxBuL._SL200_.jpg'
 comments: true
 category: ofertas

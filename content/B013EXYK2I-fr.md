@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 29.79 % en Lego Star Wars : Les Nouvelles chronique'
-date: 2020-12-15 01:27:17
+date: 2020-12-16 01:35:21
 image: 'https://m.media-amazon.com/images/I/51vave0Ls8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,6 @@ Tienes [Lego Star Wars : Les Nouvelles chroniques de Yoda-Volume 2](https://www.
 
 ℹ️:
 
+- The disk has French audio and subtitles.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B013EXYK2I/?tag=tolees0d-21)
