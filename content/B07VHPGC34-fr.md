@@ -25,12 +25,12 @@ Ahora mismo tienes [Krups Spécial T Machine à Thé Mini T Théière Electrique
 
 🔎:
 
+- Système de reconnaissance de la capsule: Détecte automatiquement chaque capsule de thé afin de permettre une infusion au degré et à la seconde près
 - Simplicité dutilisation: un seul bouton pour obetnir un thé parfatitement infusé , brassage dynamique: un léger mouvement de l’eau infuse les feuilles entières de thé pour révéler toutes leurs saveurs
+- Brassage dynamique: un léger mouvement de l’eau infuse les feuilles entières de thé pour révéler toutes leurs saveurs
+- Puissance:1480
 - Bac d’égouttage amovible et taille réglable de la tasse: parfaitement adapté aux grandes tasses ou à votre mug de voyage spécial.T
 - Filtre à eau: purifie leau pour un thé infusé de grande qualité., Eco Speed: réchauffe l’eau instantanément et passe en mode veille après 5 minutes
 - Une  large collection de thé, infusion et Rooibos, élaborée à partir de feuilles de thés entières
-- Système de reconnaissance de la capsule: Détecte automatiquement chaque capsule de thé afin de permettre une infusion au degré et à la seconde près
-- Puissance:1480
-- Brassage dynamique: un léger mouvement de l’eau infuse les feuilles entières de thé pour révéler toutes leurs saveurs
 
 [Visítala!!!](https://www.amazon.fr/dp/B07VHPGC34/?tag=tolees0d-21)
