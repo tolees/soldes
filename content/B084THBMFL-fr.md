@@ -25,8 +25,8 @@ Tienes [Marvel s Avengers Deluxe Edition  PS4 ](https://www.amazon.fr/dp/B084THB
 
 ℹ️:
 
+- Rassemblez votre propre équipe des plus grands héros de la terre, explorez vos pouvoirs, et réalisez vos rêves de super-héros.
 - Lépopée de marvels Avengers continue avec la sortie régulière de nouveaux héros et de nouvelles histoires. Découvrez lexpérience de jeu Avengers ultime.
 - Rassemblez-vous pour former des équipes allant jusquà quatre joueurs, apprenez à maîtriser des capacités extraordinaires, obtenez de nouveaux héros et personnalisez-les.
-- Rassemblez votre propre équipe des plus grands héros de la terre, explorez vos pouvoirs, et réalisez vos rêves de super-héros.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B084THBMFL/?tag=tolees0d-21)
