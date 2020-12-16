@@ -25,12 +25,12 @@ Tienes [Echo Show 5  Restez en contact avec l aide d Alexa  Blanc](https://www.a
 
 ℹ️:
 
-- Personnalisez votre appareil en sélectionnant votre cadran dhorloge préféré ou une photo. Créez des routines et des alarmes pour commencer votre journée.
-- Regardez des films, des séries et les nouvelles. Regardez des chaînes TV en direct avec Molotov. Écoutez des chansons, des stations de radio et des livres audio.
-- Contrôlez des appareils connectés par simple commande vocale ou gérez-les en utilisant lécran.
-- Écran connecté compact de 5,5" avec Alexa prête à vous aider
-- Gérez votre calendrier, créez des listes de choses à faire, obtenez la météo et les infos trafic, et cuisinez en suivant des recettes étape par étape.
-- Contrôlez vos informations personnelles avec le bouton Micro/Caméra (marche/arrêt) ou le cache-caméra intégré.
 - Passez un appel vocal ou vidéo à vos proches qui possèdent un appareil Echo compatible ou lapplication Alexa.
+- Contrôlez vos informations personnelles avec le bouton Micro/Caméra (marche/arrêt) ou le cache-caméra intégré.
+- Gérez votre calendrier, créez des listes de choses à faire, obtenez la météo et les infos trafic, et cuisinez en suivant des recettes étape par étape.
+- Regardez des films, des séries et les nouvelles. Regardez des chaînes TV en direct avec Molotov. Écoutez des chansons, des stations de radio et des livres audio.
+- Personnalisez votre appareil en sélectionnant votre cadran dhorloge préféré ou une photo. Créez des routines et des alarmes pour commencer votre journée.
+- Écran connecté compact de 5,5" avec Alexa prête à vous aider
+- Contrôlez des appareils connectés par simple commande vocale ou gérez-les en utilisant lécran.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07KDBC1L7/?tag=tolees0d-21)

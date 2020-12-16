@@ -25,10 +25,10 @@ Está [Airelec AIRA694337 - Panneau rayonnant - 2000 Watts - Gris - Gamme Loreda
 
 ℹ️:
 
-- Détecteur de fenêtre ouverte
 - 3 programmes préenregistrés
 - origine France
-- Système anti-salissures sas
+- Détecteur de fenêtre ouverte
 - IP24
+- Système anti-salissures sas
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KSNK3W3/?tag=tolees0d-21)
