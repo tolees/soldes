@@ -25,8 +25,8 @@ Ahora mismo tienes [Helly Hansen W Aden Long Jacket Rain Femme  Black  FR : M  T
 
 🔎:
 
-- Helly tech protection | doublure à séchage rapide |
 - Capuche repliable | poches chauffe-main | manches réglables par boutons-pression |
+- Helly tech protection | doublure à séchage rapide |
 - Longueur dos centrale (taille m) : 86 cm
 
 [Visítala!!!](https://www.amazon.fr/dp/B01ET4MTK6/?tag=tolees0d-21)

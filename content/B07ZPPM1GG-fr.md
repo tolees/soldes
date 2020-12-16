@@ -25,10 +25,10 @@ Ahora mismo tienes [Ice-Watch - Ice Star White Deep Blue - Montre Blanche pour F
 
 🔎:
 
-- Laissez-vous éblouir par l’éclat miroitant de la montre ICE star white deep blue smooth! Cette montre blanche de taille moyenne dont le cadran aux détails argentés est orné d’étincelants cristaux Swarovski illumine votre poignet pour un effet sophistiqué! Lumineuse, féminine et incroyablement chic, on succombe à la profondeur de son cadran bleu nuit satiné
-- Livré avec un manuel dinstructions et une boîte de présentation
-- Boitier en plastique de taille medium (40mm) avec bracelet en silicone
-- Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
 - Collection ICE star
+- Livré avec un manuel dinstructions et une boîte de présentation
+- Laissez-vous éblouir par l’éclat miroitant de la montre ICE star white deep blue smooth! Cette montre blanche de taille moyenne dont le cadran aux détails argentés est orné d’étincelants cristaux Swarovski illumine votre poignet pour un effet sophistiqué! Lumineuse, féminine et incroyablement chic, on succombe à la profondeur de son cadran bleu nuit satiné
+- Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
+- Boitier en plastique de taille medium (40mm) avec bracelet en silicone
 
 [Visítala!!!](https://www.amazon.fr/dp/B07ZPPM1GG/?tag=tolees0d-21)
