@@ -25,11 +25,11 @@ Ahora mismo tienes [Braun Oral-B Smart 4 - 4000N - Brosse à Dents Électrique R
 
 🔎:
 
-- La batterie dure plus de 2 semaines avec 1 recharge grâce à la batterie au lithium-ion
-- Protège votre bouche contre la plaque dentaire bactérienne, élimine jusquà 100% de plaque dentaire bactérienne en plus par rapport à une brosse à dents manuelle
-- 3 MODES DE BROSSAGE : Propreté, Douceur, Blancheur
-- Nettoyage supérieur et gencives plus saines grâce aux retours en temps réel qui vous aident pendant le brossage
-- PROTÉGEZ VOS GENCIVES : Le contrôle de la pression sur les gencives les protège et vous avertit lorsque vous brossez trop fort
 - Contenu : 1 manche avec minuteur de 2 minutes, 1 chargeur, 2 brossettes
+- Protège votre bouche contre la plaque dentaire bactérienne, élimine jusquà 100% de plaque dentaire bactérienne en plus par rapport à une brosse à dents manuelle
+- La batterie dure plus de 2 semaines avec 1 recharge grâce à la batterie au lithium-ion
+- Nettoyage supérieur et gencives plus saines grâce aux retours en temps réel qui vous aident pendant le brossage
+- 3 MODES DE BROSSAGE : Propreté, Douceur, Blancheur
+- PROTÉGEZ VOS GENCIVES : Le contrôle de la pression sur les gencives les protège et vous avertit lorsque vous brossez trop fort
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DGHM7DQ/?tag=tolees0d-21)
