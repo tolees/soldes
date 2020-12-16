@@ -25,10 +25,10 @@ Ahora mismo tienes [LIGE Montre Homme Mode Sport Étanche Analogique Quartz Mont
 
 🔎:
 
-- Purchase without Worry: Please dont worry any problem. All lige men watch are enjoy 12 months product quality maintenance and 30-day replacement . Come with a black stylish box and a microfiber .
 - Best Gift: watches are presented in a watch box. Whether it is a present for yourself or a gift for a friend or relative, you wont be disappointed.
-- Accurate Time Keeping:High quality Japanese movement with analog display, provide precise time keeping.Clean and simple dial makes it easy to tell the time at a quick glance
 - Stainless Steel Watch: Comfortable, durable and adjustable stainless steel strap, which is great for daily wear. A free link remover is provided with this watch to adjust strap.
+- Purchase without Worry: Please dont worry any problem. All lige men watch are enjoy 12 months product quality maintenance and 30-day replacement . Come with a black stylish box and a microfiber .
+- Accurate Time Keeping:High quality Japanese movement with analog display, provide precise time keeping.Clean and simple dial makes it easy to tell the time at a quick glance
 - Waterproof Watch (30 M):handwash,swimming, no problem ! NOTE: Please DO NOT press any buttons in the water or wear this watch for longtime underwater activities such as diving, ect.
 
 [Visítala!!!](https://www.amazon.fr/dp/B07YFX4TGT/?tag=tolees0d-21)

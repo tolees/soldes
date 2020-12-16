@@ -25,10 +25,10 @@ Está [PUMA Carina L  Baskets Femme  White-White-Silver  38.5 EU](https://www.am
 
 ℹ️:
 
-- PUMA Formstrip overlay at sides
 - Full lace closure
 - Woven PUMA label at tongue
-- Texturized rubber platform midsole
+- PUMA Formstrip overlay at sides
 - Fabric type: Synthetic
+- Texturized rubber platform midsole
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JGP7TN2/?tag=tolees0d-21)
