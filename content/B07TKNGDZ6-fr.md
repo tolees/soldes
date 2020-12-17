@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'John Wick-La Trilogie [Blu-Ray] al 30.24 % de descuento'
-date: 2020-12-16 19:48:18
+date: 2020-12-17 20:13:47
 image: 'https://m.media-amazon.com/images/I/51oiGL6lwpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21'
 descuento: '30.24'
-average: '30.314'
+average: '30.66037037037037'
 ---
 
 Está [John Wick-La Trilogie [Blu-Ray]](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21) con 30.24 de descuento por 34.99 EUR (original: 50.16 EUR) en el siguiente enlace!
