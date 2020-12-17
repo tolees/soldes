@@ -25,10 +25,10 @@ Ahora mismo tienes [Lacoste Hommes Analogique Quartz Montre avec Bracelet en Sil
 
 🔎:
 
-- Résistance à leau 5 ATM
-- Cadran Blanc
 - Mouvement à 3 yeux
-- Bracelet blanc en silicone avec motif petit piqué
+- Résistance à leau 5 ATM
 - Épaisseur du boîtier 11,1mm
+- Cadran Blanc
+- Bracelet blanc en silicone avec motif petit piqué
 
 [Visítala!!!](https://www.amazon.fr/dp/B07G4TKB6P/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sikagard Protection Sol MAT  Hydrofuge   al 47.13 % de descuento'
-date: 2020-12-16 21:21:41
+date: 2020-12-17 21:37:14
 image: 'https://m.media-amazon.com/images/I/41I6U0EU8TL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Ahora mismo tienes [Sikagard Protection Sol MAT  Hydrofuge  Imperméabilisant ef
 
 🔎:
 
+- Liquide blanc qui devient INCOLORE et MAT après séchage.
 - ☑️Utilisation sur de nombreux SUPPORTS POREUX tels que les sols bruts en ciment (teinté ou pas), les dalles béton, les pierres naturelles poreuses ou reconstituées, les pavés autobloquants et les blocs.
 - CONSOMMATION: Bidon de 20L (quantité suffisante pour 100m²).
 - Sapplique en 1 seule couche au rouleau ou à la brosse en EXTERIEUR.
 - Produit IMPERMEABILISANT et ANTI-TACHES pour sol à ☑️ EFFET MAT, prêt à l’emploi
-- Liquide blanc qui devient INCOLORE et MAT après séchage.
 
 [Visítala!!!](https://www.amazon.fr/dp/B01D1OS3YG/?tag=tolees0d-21)

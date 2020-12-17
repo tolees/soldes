@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Dublin B  Brogues Homme  Noir Bla al 61.81 % de descuento'
-date: 2020-12-16 17:17:09
+date: 2020-12-17 21:37:12
 image: 'https://m.media-amazon.com/images/I/41ZKmK54V2L._SL200_.jpg'
 comments: true
 category: ofertas
