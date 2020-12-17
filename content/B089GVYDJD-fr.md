@@ -26,8 +26,8 @@ Ahora mismo tienes [Xiaomi Mi AirDots Basic S](https://www.amazon.fr/dp/B089GVYD
 🔎:
 
 - Commandes intégrées pour le réglage du volume, la lecture de musique et les appels. Reconnaissance de contrôle à grande vitesse, contrôle rapide et facile dune seule main
-- BT5.0, son cristallin fourni par un haut-parleur pénétrant
 - Conception intra-auriculaire ergonomique avec écouteurs en silicone souple à bec de poisson, apportez la musique directement dans la cavité de loreille et isolez le bruit extérieur, réconfortant également vos oreilles
+- BT5.0, son cristallin fourni par un haut-parleur pénétrant
 - Écouteur stéréo sans fil magnétique avec Powerbank 300 mAh Optimisation de haute qualité du brevet exclusif, Cet écouteur présente un design ultra élégant, une finition exquise, léger et portable, facile à transporter
 
 [Visítala!!!](https://www.amazon.fr/dp/B089GVYDJD/?tag=tolees0d-21)
