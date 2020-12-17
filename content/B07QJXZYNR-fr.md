@@ -25,10 +25,10 @@ Está [Nerf Fortnite TS et Flechettes Nerf Mega Fortnite Officielles](https://ww
 
 ℹ️:
 
-- Les fléchettes NERF officielles: conçues pour la distance, composées de mousse durable et pourvues dembouts creux et souples, les fléchettes NERF officielles sont testées et approuvées pour leur performance et leur qualité.
-- Valeur éducative de NERF: se dépenser, améliorer son agilité et sa précision, inventer des histoires. NERF fortnite Taille S, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 8 ans, 9 ans, 10 ans et plus.
 - Blaster lance-fléchettes réplique du blaster de fortnite: le blaster NERF fortnite Taille S est inspiré du blaster utilisé dans le jeu vidéo populaire de battle royale fortnite.
 - Tire 4 fléchettes de suite: ce blaster à pompe permet de tirer 4 fléchettes de suite. Opération manuelle (Aucune pile requise).
+- Valeur éducative de NERF: se dépenser, améliorer son agilité et sa précision, inventer des histoires. NERF fortnite Taille S, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 8 ans, 9 ans, 10 ans et plus.
+- Les fléchettes NERF officielles: conçues pour la distance, composées de mousse durable et pourvues dembouts creux et souples, les fléchettes NERF officielles sont testées et approuvées pour leur performance et leur qualité.
 - 8 fléchettes et crosse de rangement : inclut 8 fléchettes NERF méga officielles et un rangement pour 4 fléchettes dans la crosse pour garder des fléchettes de rechange à portée de main.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07QJXZYNR/?tag=tolees0d-21)

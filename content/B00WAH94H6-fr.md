@@ -25,7 +25,7 @@ Está [Armor Lux  Pull Marin Rayé "Fouesnant" Homme  Bleu  X-Large  Taille Fabr
 
 ℹ️:
 
-- Depuis 1938
 - La marque de qualité
+- Depuis 1938
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00WAH94H6/?tag=tolees0d-21)
