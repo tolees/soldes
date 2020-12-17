@@ -25,13 +25,13 @@ Ahora mismo tienes [New Balance 500  Baskets Femme  Noir Black Rose Gold Br Blac
 
 🔎:
 
-- Largeur de la chaussure : normal
-- Semelle : basse
-- Matériau de semelle : synthétique
-- Fermeture : lacets
 - Doublure : synthétique
-- Type de talons : plat
+- Matériau de semelle : synthétique
 - Semelle intérieure : synthétique
+- Type de talons : plat
 - Dessus : cuir - synthétique/PU
+- Semelle : basse
+- Largeur de la chaussure : normal
+- Fermeture : lacets
 
 [Visítala!!!](https://www.amazon.fr/dp/B01IJ6H4SM/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Está [Pentel XFRH/3-BMF - FRH - Pinceau à  Réserve d Eau - Pinceaux Pointes 
 
 ℹ️:
 
-- Il suffit de presser délicatement le corps du pinceau pour augmenter le débit et obtenir leffet souhaité
-- Lot de 3 pinceaux : pointe fine/moyenne/large
+- Pinceau avec réservoir deau idéal pour les amateurs dart
 - Idéal pour technique humide: aquarelle, pastel, gouache
 - Pinceau à pointe synthétique avec réservoir deau rechargeable
-- Pinceau avec réservoir deau idéal pour les amateurs dart
+- Lot de 3 pinceaux : pointe fine/moyenne/large
+- Il suffit de presser délicatement le corps du pinceau pour augmenter le débit et obtenir leffet souhaité
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B002JIN2Q0/?tag=tolees0d-21)
