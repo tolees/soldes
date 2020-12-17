@@ -25,12 +25,12 @@ Tienes [Sun Tablettes Lave-Vaisselle Classique Fabriqué en France 180 Lavages  
 
 ℹ️:
 
-- Grâce à ses agents Cleanboost, la tablette Sun Classic permet déconomiser de leau et de lélectricité : efficace en cycle court et à basse température, pas besoin de pré-rincer
+- Les tablettes lave-vaisselle Sun Classic, efficaces mêmes en cycle court
 - Lot de 3x60 tablettes
 - Lexpertise Sun au service du lavage de votre vaisselle, dans un emballage recyclé et recyclable
-- La tablette Sun Classic est protégée contre lhumidité. Enlevez lemballage avant utilisation.
-- Les tablettes lave-vaisselle Sun Classic, efficaces mêmes en cycle court
 - Pour des résultats impeccables sur votre vaisselle, utiliser la combinaison des 3 produits : tablette pour nettoyer, liquide de rinçage pour faire briller, et sel pour lutter contre le calcaire
+- Grâce à ses agents Cleanboost, la tablette Sun Classic permet déconomiser de leau et de lélectricité : efficace en cycle court et à basse température, pas besoin de pré-rincer
+- La tablette Sun Classic est protégée contre lhumidité. Enlevez lemballage avant utilisation.
 - Nos tablettes Sun Classic sont sans phosphates et fabriquées en France, dans une usine engagée pour une planète plus verte
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07BZC8B3B/?tag=tolees0d-21)
