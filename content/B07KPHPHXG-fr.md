@@ -25,9 +25,9 @@ Está [Funko Figurines POP! Vinyl: Disney: Toy Story 4: Ducky One-Size Multi](ht
 
 ℹ️:
 
-- Emballé dans une boîte illustrée qui laisse apparaître le personnage
-- Fabriqué en:- Chine
-- Âge recommandé : Ne convient pas aux enfants de moins de 3 ans.
 - Dimensions de lemballage : 160 x 115 x 160 mm
+- Emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Âge recommandé : Ne convient pas aux enfants de moins de 3 ans.
+- Fabriqué en:- Chine
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KPHPHXG/?tag=tolees0d-21)

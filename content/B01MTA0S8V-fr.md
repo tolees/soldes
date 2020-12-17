@@ -26,8 +26,8 @@ Tienes [EXTEL - 710016 Interphone collectif - Multipro 3](https://www.amazon.fr/
 ℹ️:
 
 - Possibilité d’installer jusqu’à 8 combinés sur 1 seule platine de rue
-- Ne nécessite pas d’alimentation supplémentaire pour la commande d’une gâche ou serrure électrique
 - Fonction intercommunication entre 2 combinés du même logement
+- Ne nécessite pas d’alimentation supplémentaire pour la commande d’une gâche ou serrure électrique
 - Double commande gâche/serrure électrique et automatisme de portail
 - Référence fournisseur Extel : 710016
 
