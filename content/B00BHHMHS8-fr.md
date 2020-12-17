@@ -25,9 +25,9 @@ Ahora mismo tienes [Elizabeth Arden – 5th Avenue NYC – Eau de Parfum Femme V
 
 🔎:
 
-- 5th Avenue NYC eau de parfum spray
+- Note de fond : ambre, vanille, tonka, musc et bois de santal
 - Note de tête : bergamote, pêche et pomme
 - Note de cœur : Cassis, Jasmin, Pivoine et prunier
-- Note de fond : ambre, vanille, tonka, musc et bois de santal
+- 5th Avenue NYC eau de parfum spray
 
 [Visítala!!!](https://www.amazon.fr/dp/B00BHHMHS8/?tag=tolees0d-21)

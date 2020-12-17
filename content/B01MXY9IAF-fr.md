@@ -25,9 +25,9 @@ Está [L HOMME DU PICARDIE - L intégrale  boîtier SCANAVO ](https://www.amazon
 
 ℹ️:
 
-- Date de sortie marché : 11/05/2006
-- Réalisateur : Ertaud Jacques
-- Pays : FRANCE
 - Année de sortie : 1968
+- Réalisateur : Ertaud Jacques
+- Date de sortie marché : 11/05/2006
+- Pays : FRANCE
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01MXY9IAF/?tag=tolees0d-21)

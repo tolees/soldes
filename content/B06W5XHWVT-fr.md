@@ -25,8 +25,8 @@ Ahora mismo tienes [Playmobil - Maison Moderne - 9266](https://www.amazon.fr/dp/
 
 🔎:
 
+- Toutes les portes peuvent être ouvertes dans les deux directions
 - Contient 1 maison, 2 personnages, 1 chien et des accessoires (barbecue, table, chaises, transat, pot de fleurs Lechuza, vaisselle)
 - Comprend du mobilier pour la terrasse
-- Toutes les portes peuvent être ouvertes dans les deux directions
 
 [Visítala!!!](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)

@@ -26,9 +26,9 @@ Está [Swarovski Collier Attract Round  Blanc  Métal Rhodié](https://www.amazo
 ℹ️:
 
 - Designed to last: Swarovski jewellery features the extraordinary brilliance of Swarovski crystals and durable metals - to ensure the life of your jewellery avoid contact with water, lotions or perfume
+- Items delivered: 1 x Swarovski Attract collection necklace for women, 38 cm long with sparkling radiant clear crystal and a rhodium plated chain, with Swarovski necklace box
 - Stand out from the crowd: A charming gift for you or a loved one, this eye-catching necklace has been crafted to complement any outfit, adding a luxurious, stylish touch, whatever the occasion
 - Stunning and unique: This timeless piece features a dazzling circle cut Swarovski crystal on a dainty rhodium plated setting with matching chain
 - Brilliant and timeless: The Swarovski Attract necklace features an elegant and classic design with a sparkling white crystal - for those looking to wear something discreet yet stunning
-- Items delivered: 1 x Swarovski Attract collection necklace for women, 38 cm long with sparkling radiant clear crystal and a rhodium plated chain, with Swarovski necklace box
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B078SCH7SB/?tag=tolees0d-21)
