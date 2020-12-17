@@ -25,10 +25,10 @@ Está [LEADSTAR Jouet Démonter  Voiture de Course Take Apart Toy Construction K
 
 ℹ️:
 
-- FACILITÉ À ASSEMBLER: L’assemblage requiert un niveau de concentration élémentaire pour favoriser le développement de la capacité de concentration de l’attention de votre enfant, de sa coordination œil-main, de sa mémoire et de ses compétences en résolution de problèmes.Inclus pièces de voiture, pièces de modification, pneus, perceuse électrique (utilisation 2) x 1.5V piles de haute qualité incluses), foret et vis. Toutes les pièces sont grandes et faciles à utiliser.
+- SONS ET LUMIÈRES RÉALISTES: Il suffit de mettre le moteur en marche pour que le son et les lumières soient réalistes. Cest le cadeau de construction idéal pour tout enfant de plus de 3 ans.
 - STURDY AND SAFE: Livré dans des couleurs vives attrayantes pour vos petits enfants. Bien fait pour ne pas casser facilement avec les soins appropriés. Fabriqué en plastique ABS respectueux de lenvironnement, non toxique et durable.
 - CADEAU IDÉAL: Offrez à vos enfants la plus grande surprise de leur anniversaire, de leurs bas de Noël ou de tout autre jour férié, envoyez-le à une personne très chère, mais au loin, juste votre façon simple de donner votre opinion.
 - SUPERB FUN: jouet de construction amusant pour les enfants qui peuvent le construire, le démonter et tout recommencer. Les enfants amélioreront leur concentration et leur habileté à la main tout en jouant avec ce brillant jouet à démonter.
-- SONS ET LUMIÈRES RÉALISTES: Il suffit de mettre le moteur en marche pour que le son et les lumières soient réalistes. Cest le cadeau de construction idéal pour tout enfant de plus de 3 ans.
+- FACILITÉ À ASSEMBLER: L’assemblage requiert un niveau de concentration élémentaire pour favoriser le développement de la capacité de concentration de l’attention de votre enfant, de sa coordination œil-main, de sa mémoire et de ses compétences en résolution de problèmes.Inclus pièces de voiture, pièces de modification, pneus, perceuse électrique (utilisation 2) x 1.5V piles de haute qualité incluses), foret et vis. Toutes les pièces sont grandes et faciles à utiliser.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JQ6G6GF/?tag=tolees0d-21)
