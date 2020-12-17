@@ -25,10 +25,10 @@ Está [Geox U Federico W  Derbys Homme  Noir  Black   42 EU](https://www.amazon.
 
 ℹ️:
 
-- Le talon des chaussures basses à lacets pour homme fait 2 cm de haut.
 - Lacets à la mode comme fermeture – assortis à la couleur noire des chaussures basses à lacets.
+- Le talon des chaussures basses à lacets pour homme fait 2 cm de haut.
 - Cuir comme matériau intérieur des chaussures basses à lacets.
-- Semelle en caoutchouc résistante, respirante et imperméable.
 - Cuir comme matériau extérieur des chaussures basses à lacets.
+- Semelle en caoutchouc résistante, respirante et imperméable.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B008X3RW2A/?tag=tolees0d-21)

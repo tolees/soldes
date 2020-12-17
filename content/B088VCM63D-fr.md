@@ -26,9 +26,9 @@ Está [Colgate Kit blancheur au charbon avec 3 Dentifrice Colgate Max White Char
 ℹ️:
 
 - Grâce à des brins à pointe fine, la brosse à dents blancheur au charbon atteint les zones difficiles daccès entre les dents et le long du sillon gingival*
-- Testée cliniquement, la formule du dentifrice au charbon actif contient du charbon actif et des microparticules minérales douces pour éliminer jusquà 100 % des taches de surface et restaurer la blancheur naturelles de vos dents
-- Le kit Colgate blancheur au charbon contient le dentifrice Colgate Max White Charbon Actif et la brosse à dents blancheur 360 Charbon
 - Le dentifrice blancheur au charbon actif rafraîchit lhaleine
 - La brosse à dents blancheur au charbon possède un gratte joue et langue afin déliminer les bactéries responsables de la mauvaise haleine
+- Le kit Colgate blancheur au charbon contient le dentifrice Colgate Max White Charbon Actif et la brosse à dents blancheur 360 Charbon
+- Testée cliniquement, la formule du dentifrice au charbon actif contient du charbon actif et des microparticules minérales douces pour éliminer jusquà 100 % des taches de surface et restaurer la blancheur naturelles de vos dents
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B088VCM63D/?tag=tolees0d-21)
