@@ -25,8 +25,8 @@ Ahora mismo tienes [adidas Continental 80  Chaussures de Fitness Homme  Blanc  F
 
 🔎:
 
-- Style vintage
 - Chaussures de sport
 - Tige en cuir lisse
+- Style vintage
 
 [Visítala!!!](https://www.amazon.fr/dp/B07K1GYHWN/?tag=tolees0d-21)
