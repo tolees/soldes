@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 70.37 % en Modelco - VR goggles - VRSE - Jeu Vidéo '
-date: 2020-12-13 14:03:49
+date: 2020-12-18 09:03:27
 image: 'https://m.media-amazon.com/images/I/41J8vtvZ6lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21'
 descuento: '70.37'
+average: '23.7'
 ---
 
 Tienes [Modelco - VR goggles - VRSE - Jeu Vidéo - Réalité Virtuelle - Batman](https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21) con un 70.37 % de descuento con precio de oferta de 23.7 EUR (original: 79.99 EUR) en el siguiente enlace!

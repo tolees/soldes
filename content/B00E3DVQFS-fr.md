@@ -25,12 +25,12 @@ Tienes [Duracell Piles Rechargeables AA 2500 mAh idéales pour les manettes Xbox
 
 ℹ️:
 
-- Les piles rechargeables Duracell AA 2500mAh restent chargées jusquà 12 mois lorsquelles ne sont pas utilisées
-- Disponibles en format AA 2500mAh, AAA 900mAh, C 3000mAh, D 3000mAh et 9V 170mAh.
+- Les piles rechargeables Duracell AA 2500mAh sont couvertes par une garantie de 5 ans
+- Les piles rechargeables Duracell AA 2500mAh sont pré-chargées, prêtes à lemploi
+- Les piles rechargeables Duracell AA 2500mAh sont nos piles qui durent le plus longtemps par charge (pour le format AA rechargeable, par charge dans le même appareil)
 - Les piles rechargeables Duracell AA 2500mAh peuvent être rechargées jusquà 100 fois
 - Elles sont parfaites pour les manettes de jeux vidéo sans fil, les jouets, les appareils électroniques sans fil et bien dautres
-- Les piles rechargeables Duracell AA 2500mAh sont couvertes par une garantie de 5 ans
-- Les piles rechargeables Duracell AA 2500mAh sont nos piles qui durent le plus longtemps par charge (pour le format AA rechargeable, par charge dans le même appareil)
-- Les piles rechargeables Duracell AA 2500mAh sont pré-chargées, prêtes à lemploi
+- Disponibles en format AA 2500mAh, AAA 900mAh, C 3000mAh, D 3000mAh et 9V 170mAh.
+- Les piles rechargeables Duracell AA 2500mAh restent chargées jusquà 12 mois lorsquelles ne sont pas utilisées
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00E3DVQFS/?tag=tolees0d-21)
