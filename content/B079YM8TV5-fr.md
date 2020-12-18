@@ -26,7 +26,7 @@ Ahora mismo tienes [Funko- Pixar Pop 3 Figurine  29201](https://www.amazon.fr/dp
 🔎:
 
 - Pop 3
-- Disney: the Incredible 2
 - Figurines POP! vinyle
+- Disney: the Incredible 2
 
 [Visítala!!!](https://www.amazon.fr/dp/B079YM8TV5/?tag=tolees0d-21)

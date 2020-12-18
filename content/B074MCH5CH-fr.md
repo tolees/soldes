@@ -25,10 +25,10 @@ Está [EAFIT Boisson Energétique +3H Neutre 500 g](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
+- Marque Française
+- Action anti-oxydante
+- Contribue au métabolisme énergétique
 - Association de glucides simples et complexes à diffusion lente pour une énergie différée et durable
 - Respect de la Norme afnor et du Code Mondial Anti-Dopage
-- Marque Française
-- Contribue au métabolisme énergétique
-- Action anti-oxydante
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B074MCH5CH/?tag=tolees0d-21)
