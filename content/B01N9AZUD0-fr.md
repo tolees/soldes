@@ -26,9 +26,9 @@ Está [Devolo GigaGate  Bridge Wi-FI  2 Gbit/s  1x Port Gigabit  4X Ports Fast E
 ℹ️:
 
 - Couverture Wi-Fi optimale avec un point daccès Wi-Fi supplémentaire
+- 1x port Gigabit haut débit pour connecter des appareils hautes performances et 4x ports Fast Ethernet assurant la connexion filaire en haut débit dappareils multimédia supplémentaires
 - Technologie « Quantenna 4x4 » la plus moderne pour une connexion point à point performante et ciblée dans la bande des 5 GHz, permet la transmission de données sans perte de performance dun appartement à l’autre ou vers un autre bâtiment
 - Bridge Wi-Fi haut débit atteignant une vitesse de 2 Gbits/s entre la Base et le Satellite pour des transmissions ultra rapides dans le réseau domestique et une sécurité maximale des données via le cryptage AES 128
 - Idéal pour lutilisation simultanée des consoles, TV connectées, ordinateurs, tablettes, smartphones, NAS, cloud, serveurs etc.
-- 1x port Gigabit haut débit pour connecter des appareils hautes performances et 4x ports Fast Ethernet assurant la connexion filaire en haut débit dappareils multimédia supplémentaires
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01N9AZUD0/?tag=tolees0d-21)
