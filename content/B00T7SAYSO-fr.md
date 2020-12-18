@@ -25,10 +25,10 @@ Está [LEGO DUPLO - L aéroport - 10871 - Jeu de Construction](https://www.amazo
 
 ℹ️:
 
+- Inclut 3 figurines LEGO DUPLO : un pilote, un papa et son enfant
+- Laéroport mesure plus de 22 cm de haut, 14 cm de large et 11 cm de profondeur ; Lavion mesure plus de 9 cm de haut, 18 cm de long et 17 cm de large
 - Les ensembles LEGO Duplo Ma ville sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Ce jeu de construction est adapté aux enfants âgés de 2 à 5 ans
 - Construisez un aéroport avec un tapis à bagages, une porte dembarquement et la tour de contrôle aérien rotative, plus un avion avec des roues
-- Inclut 3 figurines LEGO DUPLO : un pilote, un papa et son enfant
-- Laéroport mesure plus de 22 cm de haut, 14 cm de large et 11 cm de profondeur ; Lavion mesure plus de 9 cm de haut, 18 cm de long et 17 cm de large
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00T7SAYSO/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [LEGO Friends - La grande course - 41352 - Jeu de Constructio
 
 🔎:
 
-- 648 pièces pour les garçons et les filles de 7 à 12 ans
-- Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Construisez une course de kart épique à Heartlake City !
 - Inclut les mini-poupées Stéphanie, Mia et Vicky, chacune équipée d’un casque et d’une tenue de pilote de course, ainsi que les figurines de Vega le chat, Dash le chien et Twister le lapin Comprend un bâtiment de course à 2 niveaux, avec un vestiaire, des toilettes, un salon VIP pour les animaux et un podium avec une fonction de feu dartifice, ainsi quune ligne de départ, un drone et 3 karts avec lanceurs
+- 648 pièces pour les garçons et les filles de 7 à 12 ans
 - Le bâtiment de la course mesure plus de 25 cm de haut, 12 cm de large et 9 cm de profondeur
+- Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 
 [Visítala!!!](https://www.amazon.fr/dp/B0765C2PPR/?tag=tolees0d-21)
