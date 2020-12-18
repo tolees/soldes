@@ -25,8 +25,8 @@ Tienes [Modelco - VR goggles - VRSE - Jeu Vidéo - Réalité Virtuelle - Batman]
 
 ℹ️:
 
-- PAS BESOIN de console!
-- Arcade et histoire
 - 2 modes
+- Arcade et histoire
+- PAS BESOIN de console!
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21)

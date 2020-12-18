@@ -26,9 +26,9 @@ Ahora mismo tienes [Geox U Federico Y  Derbys Homme  Noir  Black   44 EU](https:
 🔎:
 
 - Matériau extérieur : cuir.
-- Doublure : cuir.
 - Matériau de la semelle : caoutchouc.
-- Fermeture : à lacets.
 - Type de talon : sans talon.
+- Doublure : cuir.
+- Fermeture : à lacets.
 
 [Visítala!!!](https://www.amazon.fr/dp/B005DXEEEC/?tag=tolees0d-21)

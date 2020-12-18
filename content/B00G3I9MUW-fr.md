@@ -25,10 +25,10 @@ Tienes [Juvamine TONIFIANT SEXUEL - MACA GINSENG GINGEMBRE  40 comprimés](https
 
 ℹ️:
 
-- La Maca est une tubercule traditionnellement reconnue pour ses propriétés stimulantes, tonifiantes et revitalisantes.
-- Contient 40 comprimés.
-- Le Ginseng de Sibérie est une plante également appelée Eleuthérocoque. Il est connu pour ses propriétés de tonifiant physique et intellectuel, en cas de fatigue.
-- Le Gingembre aide à la vitalité de lorganisme.
 - Complément alimentaire à base de maca, de gingembre, et de ginseng de Sibérie. Ces ingrédients permettent de maintenir le bien-être intime du couple de façon naturelle.
+- Contient 40 comprimés.
+- La Maca est une tubercule traditionnellement reconnue pour ses propriétés stimulantes, tonifiantes et revitalisantes.
+- Le Gingembre aide à la vitalité de lorganisme.
+- Le Ginseng de Sibérie est une plante également appelée Eleuthérocoque. Il est connu pour ses propriétés de tonifiant physique et intellectuel, en cas de fatigue.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00G3I9MUW/?tag=tolees0d-21)
