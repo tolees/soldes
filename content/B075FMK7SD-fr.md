@@ -25,10 +25,10 @@ Está [AFTERSHOKZ Trekz Air Sport Bluetooth Bone Conduction Ecouteurs Conduction
 
 ℹ️:
 
-- Le Trekz Air est 20 % plus léger que le Trekz Titanium. Il est également doté dun arceau ergonomique en titane, de microphones améliorés et dune technologie de conduction osseuse mise à jour
+- La technologie osseuse Aftershokz primée, a obtenu 80 brevets dans le monde entier au fil des années. La technologie Premium Pitch + élargit la banque de fréquence et améliore la réponse des graves alors que la technologie exclusive LeakSlayer réduit les fuites acoustiques de 70%. Enfin, TitaniumFit assure un ajustement sûr et un contact solide avec la conduction osseuse
+- Rien ne bouche ni ne recouvre vos oreilles. Grâce aux transducteurs à conduction osseuse qui transmettent la musique par les os des pommettes, vos oreilles restent libres. Cela vous permet d’entendre la musique et le monde qui vous entoure
 - Compatible avec la norme Bluetooth 4.2, il permet une utilisation en continu pendant 6 heures, pour passer des appels ou écouter de la musique. Il dispose également de deux microphones qui éliminent le bruit et améliorent la voix notamment du guide vocal AudreySay
 - Grâce à son design hermétique et à son revêtement nano-technologique, il est conforme à la norme IP55 pour résister à l’eau et à la transpiration
-- Rien ne bouche ni ne recouvre vos oreilles. Grâce aux transducteurs à conduction osseuse qui transmettent la musique par les os des pommettes, vos oreilles restent libres. Cela vous permet d’entendre la musique et le monde qui vous entoure
-- La technologie osseuse Aftershokz primée, a obtenu 80 brevets dans le monde entier au fil des années. La technologie Premium Pitch + élargit la banque de fréquence et améliore la réponse des graves alors que la technologie exclusive LeakSlayer réduit les fuites acoustiques de 70%. Enfin, TitaniumFit assure un ajustement sûr et un contact solide avec la conduction osseuse
+- Le Trekz Air est 20 % plus léger que le Trekz Titanium. Il est également doté dun arceau ergonomique en titane, de microphones améliorés et dune technologie de conduction osseuse mise à jour
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B075FMK7SD/?tag=tolees0d-21)

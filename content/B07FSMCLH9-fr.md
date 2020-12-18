@@ -25,10 +25,10 @@ Está [VATOS Jouets de Construction STEM Kit de Jouets d apprentissage Ensemble 
 
 ℹ️:
 
-- YOUR CHILDS SAFTY IS PARAMOUNT PRIORITY - Each bright, colorful building toys are certified non-toxic and BPA-free. Easy to wash. We invested in child-friendly materials and rigorous lab tests to make sure your kids are 100% safe from harmful chemicals. Great learning toys and educational birthday gift for 6-9+years old kids.
-- SIMULTANEOUSLY BUILD 5 ITEMS AT ONCE - If you want build several items at the same time, you dont have to take apart what they just made because the package comes with 550 pcs building blocks, which will enhance their confidence and sense of achivement.
-- SOLVING & CREATIVE PLAY - Vatos building blocks offers a wide array of project ideas and easy to assemble. A good resource to encourage early science, engineering, art, and math skills by challenging them to build their own cars, robots and anything they can imagine!
-- STEP BY STEP INSTRUCTION WITH 10 FUN TOY DESIGNS - Encourage your child to learn through play! Vatos STEM TOYS created to help your child develop hand-eye coordination, master fine motor skills, improve logical thinking, & boost problem solving skills.
 - DEVELOP CHILDRENS HANDS-ON SKILLS WITH 3 WAY SCREW TOOLS STEAM TOYS - It comes with hand screwer, electric screwdriver and wrench. More Children can play at the same time, help to promotes kids teamwork & collaboration. We offer MORE tools, MORE blocks and MORE plates than other traditional STEM construction engineering building blocks.
+- SOLVING & CREATIVE PLAY - Vatos building blocks offers a wide array of project ideas and easy to assemble. A good resource to encourage early science, engineering, art, and math skills by challenging them to build their own cars, robots and anything they can imagine!
+- YOUR CHILDS SAFTY IS PARAMOUNT PRIORITY - Each bright, colorful building toys are certified non-toxic and BPA-free. Easy to wash. We invested in child-friendly materials and rigorous lab tests to make sure your kids are 100% safe from harmful chemicals. Great learning toys and educational birthday gift for 6-9+years old kids.
+- STEP BY STEP INSTRUCTION WITH 10 FUN TOY DESIGNS - Encourage your child to learn through play! Vatos STEM TOYS created to help your child develop hand-eye coordination, master fine motor skills, improve logical thinking, & boost problem solving skills.
+- SIMULTANEOUSLY BUILD 5 ITEMS AT ONCE - If you want build several items at the same time, you dont have to take apart what they just made because the package comes with 550 pcs building blocks, which will enhance their confidence and sense of achivement.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07FSMCLH9/?tag=tolees0d-21)
