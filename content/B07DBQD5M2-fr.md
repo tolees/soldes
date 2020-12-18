@@ -26,7 +26,7 @@ Ahora mismo tienes [Lolita Lempicka Mon Premier Parfum EDP 30ml](https://www.ama
 🔎:
 
 - Facile à Application
-- Parfum pour femme
 - Nouveau et frais.
+- Parfum pour femme
 
 [Visítala!!!](https://www.amazon.fr/dp/B07DBQD5M2/?tag=tolees0d-21)

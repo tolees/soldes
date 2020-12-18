@@ -26,10 +26,10 @@ Tienes [New Balance femme 574v2 Core Sneakers Basses  Gris  Grey   37 EU](https:
 ℹ️:
 
 - Matériau de semelle : synthétique
-- Semelle intérieure : synthétique
-- Dessus : en tissu
 - Largeur de la chaussure : regular
-- Doublure : synthétique
 - Type de talons : plat
+- Dessus : en tissu
+- Doublure : synthétique
+- Semelle intérieure : synthétique
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XXC747M/?tag=tolees0d-21)
