@@ -25,10 +25,10 @@ Tienes [Scie circulaire filaire Bosch - PKS 66 AF  1600W  livrée avec lame de s
 
 ℹ️:
 
+- Travail propre car 80 % des copeaux sont récupérés par le boîtier CleanSystem fourni
 - "Permet aussi d’effectuer des coupes longues très précises avec le rail de guidage fourni
+- Scie circulaire PKS 66 AF avec rail de guidage : puissance et précision pour les coupes droites
 - Livré avec : PKS 66 AF, boîtier CleanSystem, guide de coupe CutControl, trois éléments de rail de guidage (de 35 cm chacun), lame Speedline Wood (diamètre 190 mm), butée parallèle, carton
 - Accepte les lames de scie circulaire avec un diamètre nominal de 190 mm
-- Scie circulaire PKS 66 AF avec rail de guidage : puissance et précision pour les coupes droites
-- Travail propre car 80 % des copeaux sont récupérés par le boîtier CleanSystem fourni
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B002EX4VB0/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Tienes [Russell Hobbs Moulin à Café Réglable  Grande Capacité 100g - 23120-5
 
 ℹ️:
 
-- Lames en inox
-- Meule plate
+- Bouton illuminé
 - Grande capacité de mouture : 100g - Broyeur et bac amovibles avec cran de sûreté
 - Moulin à cafépuissant 140W réglable pour une mouture fine ou grossière
-- Bouton illuminé
+- Meule plate
+- Lames en inox
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01521ENYK/?tag=tolees0d-21)

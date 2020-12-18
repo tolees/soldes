@@ -25,14 +25,14 @@ Está [Microsoft – Souris Arc – souris Bluetooth pour PC  ordinateurs portab
 
 ℹ️:
 
-- Technologie sans fil Bluetooth Smart 4.0
-- Compatible Windows et Mac
-- Technologie Bluetrack
-- Autonomie : jusqu’à 6 mois
-- Ultrafine et légère
-- Utilisation confortable et ambidextre
 - Pavé tactile pour défilements verticaux et horizontaux
-- S’aplatit pour être transportée facilement
 - Non compatible : Mac OS 10.10.5, Mac OS 10.11.1, Mac OS 10.11.4. Android : Android 5.0, Nexus 9, Android 4.4.4, Nexus 5, Android 4.2.iOS : iOS 9, iOS 8
+- S’aplatit pour être transportée facilement
+- Ultrafine et légère
+- Technologie Bluetrack
+- Compatible Windows et Mac
+- Autonomie : jusqu’à 6 mois
+- Technologie sans fil Bluetooth Smart 4.0
+- Utilisation confortable et ambidextre
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B073VG9ZSV/?tag=tolees0d-21)
