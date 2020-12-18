@@ -25,10 +25,10 @@ Está [Clementoni- Porteur 100% recyclé  17308](https://www.amazon.fr/dp/B083PS
 
 ℹ️:
 
-- 100% fabriqué en Italie.
-- Un porteur fabriqué à 100% en matériaux recyclés ! Avec son style vintage, il séduira les enfants aussi bien que les parents.
 - Agè conseillée: 12 mois et plus.
-- Des roues diréctrices pour faciliter la conduite et un klaxon à actionner par pression pour stimuler limagination et vivre de belles aventures.
+- 100% fabriqué en Italie.
 - Idéal pour développer la motricité, la coordination et la perception de lespace.
+- Un porteur fabriqué à 100% en matériaux recyclés ! Avec son style vintage, il séduira les enfants aussi bien que les parents.
+- Des roues diréctrices pour faciliter la conduite et un klaxon à actionner par pression pour stimuler limagination et vivre de belles aventures.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B083PSFTH8/?tag=tolees0d-21)
