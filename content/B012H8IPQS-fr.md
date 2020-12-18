@@ -25,10 +25,10 @@ Ahora mismo tienes [Garmin - Ceinture Cardio-Fréqeuncemètre HRM - Tri - Noir/B
 
 🔎:
 
-- Lightweight and comfortable
-- Up to 18 months battery life
 - Transfers data to your Garmin compatible device
-- Stores up to 20 hours of heart rate data
 - Designed for running, cycling and swimming
+- Up to 18 months battery life
+- Stores up to 20 hours of heart rate data
+- Lightweight and comfortable
 
 [Visítala!!!](https://www.amazon.fr/dp/B012H8IPQS/?tag=tolees0d-21)

@@ -26,14 +26,14 @@ Está [Polar Vantage V – Montre de Sport FC/GPS Premium pour Hommes et Femmes 
 ℹ️:
 
 - Mode Navigation (import d’itinéraires, tracés de navigation, retour au point de départ)
-- Batterie Li-pol 320 mAh
-- Mesure avancée de la Fréquence Cardiaque même en natation, avec la nouvelle technologie Polar Precision Prime OHR 9 LEDS
-- Longue autonomie quel que soit le mode : Jusqu’à 40h en mode entrainement
-- Mesure de la puissance de course au poignet
 - Montre GPS et GLONASS et baromètre intégré
 - Fournie avec une solution avancée de suivi de la charge d’entraînement et de la récupération
-- Notifications téléphone (messages, appels)
-- Montre multisport pro, optimisée pour le triathlon et la course ; + 130 profils sportifs (Multisports inclus)
 - Ecran tactile et matériaux premium (gorilla glass, acier inoxydable)
+- Longue autonomie quel que soit le mode : Jusqu’à 40h en mode entrainement
+- Montre multisport pro, optimisée pour le triathlon et la course ; + 130 profils sportifs (Multisports inclus)
+- Mesure avancée de la Fréquence Cardiaque même en natation, avec la nouvelle technologie Polar Precision Prime OHR 9 LEDS
+- Notifications téléphone (messages, appels)
+- Batterie Li-pol 320 mAh
+- Mesure de la puissance de course au poignet
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07G57JGFB/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Ahora mismo tienes [Anker PowerPort Solar - Chargeur Solaire Portable 21W 2 Port
 
 🔎:
 
-- Technologie PowerIQ pour une charge plus rapide : obtenez une puissance de charge allant jusquà 2.4A par port ou 3A au total sous lumière directe du soleil. Ses panneaux solaires 21 watt mono-cristallins ont un rendement énergétique de 21.5-23.5% et permettent de fournir un courant suffisant pour charger deux appareils en même temps.
-- Lavantage Anker : rejoignez les 10 millions dutilisateurs qui ont choisi la marque de chargeurs n°1 aux Etats-Unis.
 - Ce Que Vous Recevrez : notre chargeur solaire Anker PowerPort Solar, un câble Micro USB de 90 cm, un guide dutilisation, notre garantie 18 mois et un service client toujours à votre écoute.
 - Incroyablement Durable : les panneaux en PET renforcé et cousus dans une toile robuste en polyester offrent une résistance aux intempéries pour une utilisation en extérieur.
 - Pliable & Facile à Transporter : ses dimensions sont de 16 x 28.2 cm plié et 67 x 28.2 cm ouvert. Ses 4 encoches en inox lui permettent de saccrocher facilement à un sac à dos, un arbre ou une tente. Son poids (400 g) et son design ultra fin (épaisseur de 2.8 cm plié) font de lui lallié idéal pour de longs treks.
+- Technologie PowerIQ pour une charge plus rapide : obtenez une puissance de charge allant jusquà 2.4A par port ou 3A au total sous lumière directe du soleil. Ses panneaux solaires 21 watt mono-cristallins ont un rendement énergétique de 21.5-23.5% et permettent de fournir un courant suffisant pour charger deux appareils en même temps.
+- Lavantage Anker : rejoignez les 10 millions dutilisateurs qui ont choisi la marque de chargeurs n°1 aux Etats-Unis.
 
 [Visítala!!!](https://www.amazon.fr/dp/B012VL20GW/?tag=tolees0d-21)
