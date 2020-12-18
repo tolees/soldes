@@ -25,10 +25,10 @@ Está [Corsair M65 Elite RGB Optique FPS Souris Gaming  18 000 DPI Optique Capte
 
 ℹ️:
 
+- Système de personnalisation du poids avancé: définissez le centre de gravité selon votre style de jeu.
 - Capteur haute précision de 18 000 dpi: capteur personnalisé, taillé pour le jeu, précis au pixel près
 - Positionnement optimisé du bouton Sniper: exploitez le potentiel du réglage des dpi à la volée pour adapter immédiatement la vitesse de la souris aux impératifs de jouabilité
 - Utilitaire de personnalisation de létalonnage de surface: Optimise la précision et la réactivité du capteur en fonction de la surface de jeu.
-- Système de personnalisation du poids avancé: définissez le centre de gravité selon votre style de jeu.
 - Structure en aluminium inspirée de lindustrie aéronautique: poids plume, extrêmement robuste et répartition de la masse optimale
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KM9MBFD/?tag=tolees0d-21)

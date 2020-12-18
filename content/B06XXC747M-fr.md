@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 60.01 % en New Balance femme 574v2 Core Sneakers Ba'
-date: 2020-12-06 06:05:59
+date: 2020-12-18 06:03:32
 image: 'https://m.media-amazon.com/images/I/41Esz8t+uOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B06XXC747M/?tag=tolees0d-21'
 descuento: '60.01'
+average: '39.99'
 ---
 
 Tienes [New Balance femme 574v2 Core Sneakers Basses  Gris  Grey   37 EU](https://www.amazon.fr/dp/B06XXC747M/?tag=tolees0d-21) con un 60.01 % de descuento con precio de oferta de 39.99 EUR (original: 100.0 EUR) en el siguiente enlace!
@@ -24,5 +25,11 @@ Tienes [New Balance femme 574v2 Core Sneakers Basses  Gris  Grey   37 EU](https:
 
 ℹ️:
 
+- Type de talons : plat
+- Largeur de la chaussure : regular
+- Matériau de semelle : synthétique
+- Doublure : synthétique
+- Semelle intérieure : synthétique
+- Dessus : en tissu
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XXC747M/?tag=tolees0d-21)
