@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Balance 500  Baskets Femme  Noir Bla al 30.07 % de descuento'
-date: 2020-12-17 01:41:44
+date: 2020-12-18 02:16:13
 image: 'https://m.media-amazon.com/images/I/41fA9ktIQpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,13 +25,13 @@ Ahora mismo tienes [New Balance 500  Baskets Femme  Noir Black Rose Gold Br Blac
 
 🔎:
 
+- Fermeture : lacets
 - Type de talons : plat
-- Doublure : synthétique
 - Matériau de semelle : synthétique
+- Semelle : basse
+- Doublure : synthétique
 - Dessus : cuir - synthétique/PU
 - Semelle intérieure : synthétique
-- Semelle : basse
 - Largeur de la chaussure : normal
-- Fermeture : lacets
 
 [Visítala!!!](https://www.amazon.fr/dp/B01IJ6H4SM/?tag=tolees0d-21)
