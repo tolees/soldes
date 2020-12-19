@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elizabeth Arden – 5th Avenue NYC – Eau d al 60.65 % de descuento'
-date: 2020-12-18 13:41:16
+date: 2020-12-19 14:02:39
 image: 'https://m.media-amazon.com/images/I/411AcobWjKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Ahora mismo tienes [Elizabeth Arden – 5th Avenue NYC – Eau de Parfum Femme V
 
 🔎:
 
-- 5th Avenue NYC eau de parfum spray
 - Note de fond : ambre, vanille, tonka, musc et bois de santal
-- Note de tête : bergamote, pêche et pomme
+- 5th Avenue NYC eau de parfum spray
 - Note de cœur : Cassis, Jasmin, Pivoine et prunier
+- Note de tête : bergamote, pêche et pomme
 
 [Visítala!!!](https://www.amazon.fr/dp/B00BHHMHS8/?tag=tolees0d-21)
