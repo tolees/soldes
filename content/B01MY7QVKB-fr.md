@@ -25,8 +25,8 @@ Ahora mismo tienes [Jacob Delafon E72318-CP ALEO+ Mitigeur de douche mural  Chro
 
 🔎:
 
-- Débit 14 l/min
 - Cartouche à disque céramique, excellente durabilité
+- Débit 14 l/min
 - Débit limité à 5 l/mn.
 - Chrome brillant et résistant garanti 10 ans
 
