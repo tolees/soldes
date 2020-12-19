@@ -25,8 +25,8 @@ Está [BOSS Hommes Trunk 3P CO/EL Lot de Trois Boxers en Coton Stretch ornés du
 
 ℹ️:
 
-- Taille standard
 - Emballage : boîte
+- Taille standard
 - 95% coton, 5% élasthanne
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07CZW7QK5/?tag=tolees0d-21)
