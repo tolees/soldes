@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Cartable 38 Tann s Les Signatures Diane  al 44.90 % de descuento'
-date: 2020-12-04 16:27:51
+date: 2020-12-19 07:25:04
 image: 'https://m.media-amazon.com/images/I/41TbndYPWhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZJSS43V/?tag=tolees0d-21'
 descuento: '44.90'
+average: '36.64'
 ---
 
 Ahora mismo tienes [Cartable 38 Tann s Les Signatures Diane Rose](https://www.amazon.fr/dp/B07ZJSS43V/?tag=tolees0d-21) a 36.64 EUR (original: 66.5 EUR) (44.90 %  de descuento) en el siguiente enlace!
 
 [![Cartable 38 Tann s Les Signatures Diane ](https://m.media-amazon.com/images/I/41TbndYPWhL._SL200_.jpg)](https://www.amazon.fr/dp/B07ZJSS43V/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
+- Couleur unie
+- Deux compartiments et une poche avant
+- Matière principale fabriquée à partir de bouteilles recyclées
+- Dessous renforcé
+- Sangles réglables
 
 [Visítala!!!](https://www.amazon.fr/dp/B07ZJSS43V/?tag=tolees0d-21)

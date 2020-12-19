@@ -25,15 +25,15 @@ Ahora mismo tienes [Nespresso Krups Machine Expresso Vertuo Plus Titane  Machine
 
 🔎:
 
-- Garantie 2 ans
 - ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
+- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
+- UN SYSTÈME D’EXTRACTION EXCLUSIF, la CENTRIFUSION, alliant infusion et force centrifuge pour un café de haute qualité
+- Garantie 2 ans
 - EJECTION AUTOMATIQUE DES CAPSULES
 - CAPSULES : 28 VARIETES DE CAFE Vertuo dans 5 longueurs de tasses : 40ml, 80ml, 150ml, 230ml, 410ml
-- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
 - 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à l’Alto, en passant par le Mug
-- UN SYSTÈME D’EXTRACTION EXCLUSIF, la CENTRIFUSION, alliant infusion et force centrifuge pour un café de haute qualité
+- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur de café choisie
 - OUVERTURE ET FERMETURE ELECTRONIQUES
 - RESERVOIR DEAU MODULABLE
-- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur de café choisie
 
 [Visítala!!!](https://www.amazon.fr/dp/B01N7IKJ6L/?tag=tolees0d-21)
