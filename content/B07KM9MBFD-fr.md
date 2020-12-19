@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair M65 Elite RGB Optique FPS Souris al 35.72 % de descuento'
-date: 2020-12-18 05:40:46
+date: 2020-12-19 08:42:07
 image: 'https://m.media-amazon.com/images/I/31fhTixC9fL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,11 @@ Está [Corsair M65 Elite RGB Optique FPS Souris Gaming  18 000 DPI Optique Capte
 
 ℹ️:
 
-- Structure en aluminium inspirée de lindustrie aéronautique: poids plume, extrêmement robuste et répartition de la masse optimale
-- Capteur haute précision de 18 000 dpi: capteur personnalisé, taillé pour le jeu, précis au pixel près
-- Positionnement optimisé du bouton Sniper: exploitez le potentiel du réglage des dpi à la volée pour adapter immédiatement la vitesse de la souris aux impératifs de jouabilité
-- Utilitaire de personnalisation de létalonnage de surface: Optimise la précision et la réactivité du capteur en fonction de la surface de jeu.
-- Système de personnalisation du poids avancé: définissez le centre de gravité selon votre style de jeu.
+- Eight fully programmable buttons enable completely custom configurations to help you get the most from your games
+- Advanced tuneable weight system allows you to adjust M65 RGB Elites centre of gravity or reduce its weight to just 97 g
+- Premium, durable anodized aluminium frame built to withstand a lifetime of gaming
+- Ultra-durable Omron switches rated for more than 50 million clicks
+- Corsairs most enhanced optical gaming sensor; native 18, 000 DPI, adjustable in 1 DPI resolution steps, gives you total sensitivity customisation and ultra-accurate tracking
+- Compatible with Xbox One, Xbox One S and Xbox One X systems
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KM9MBFD/?tag=tolees0d-21)
