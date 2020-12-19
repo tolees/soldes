@@ -25,11 +25,11 @@ Ahora mismo tienes [HUAWEI MateBook X Pro 2019 PC Portable  Ecran Tactile FullVi
 
 🔎:
 
-- Huawei Share OneHop: Partage de fichiers, Partage de presse-papiers, enregistrement de lécran
-- Carte graphique NVIDIA GeForce MX250 avec 2Go GDDR5
 - Autonomie longue durée, 13 heures en lecture de vidéo locale (1080p). Batterie de 57,4Wh (valeur typique)
-- Chassis en métal ultra fin de 14,6mm, poids ultra-portable de 1,33kg
+- Huawei Share OneHop: Partage de fichiers, Partage de presse-papiers, enregistrement de lécran
 - Ecran tacile FullView de 13,9 pouces, résolution 3K, format 3:2. Taux doccupation de lécran de 91%. Contrôle par gestes intuitifs
+- Carte graphique NVIDIA GeForce MX250 avec 2Go GDDR5
+- Chassis en métal ultra fin de 14,6mm, poids ultra-portable de 1,33kg
 - Processeur Intel Core i5-8265U de 8ème génération. Toujours plus de performances sur votre Ultrabook
 - Le bouton dalimentation doté dun capteur dempreinte digitale, pour allumer et déverrouiller votre PC en une seule action
 
