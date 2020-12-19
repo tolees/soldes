@@ -25,11 +25,11 @@ Tienes [Sony SEL 50-F18F Objectif 50 mm Ouverture F1.8 pour Monture E Sony](http
 
 ℹ️:
 
-- Résistance à la poussière et humidité
-- FE 50mm F1,8. Rapport de grossissement maximum (x): 0,14 x
 - Ouverture circulaire jusquà F1,8 pour un superbe effet de bokeh
 - Ultra légère (186g) et compacte
-- Angle de vue (APS-C): 32 °
+- Résistance à la poussière et humidité
 - Angle de vue (35 mm): 47°
+- FE 50mm F1,8. Rapport de grossissement maximum (x): 0,14 x
+- Angle de vue (APS-C): 32 °
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B01DLMD5O6/?tag=tolees0d-21)
