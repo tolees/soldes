@@ -25,8 +25,8 @@ Está [Bosch TWK8611P Chauffe-Eau Styline  2 400 W  Sélection de la Températur
 
 ℹ️:
 
-- Température control: 4 niveaux de températures réglables: 70, 80, 90, 100c
-- Keep warm fonction: maintien au chaud 30mn
 - 3 arrêts automatique : a ébullition, a louverture du couvercle et lors du soulèvement du socle
+- Keep warm fonction: maintien au chaud 30mn
+- Température control: 4 niveaux de températures réglables: 70, 80, 90, 100c
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00NJXYP7Y/?tag=tolees0d-21)

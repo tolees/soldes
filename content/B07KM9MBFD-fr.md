@@ -25,11 +25,11 @@ Está [Corsair M65 Elite RGB Optique FPS Souris Gaming  18 000 DPI Optique Capte
 
 ℹ️:
 
-- Eight fully programmable buttons enable completely custom configurations to help you get the most from your games
-- Advanced tuneable weight system allows you to adjust M65 RGB Elites centre of gravity or reduce its weight to just 97 g
 - Premium, durable anodized aluminium frame built to withstand a lifetime of gaming
+- Eight fully programmable buttons enable completely custom configurations to help you get the most from your games
+- Compatible with Xbox One, Xbox One S and Xbox One X systems
 - Ultra-durable Omron switches rated for more than 50 million clicks
 - Corsairs most enhanced optical gaming sensor; native 18, 000 DPI, adjustable in 1 DPI resolution steps, gives you total sensitivity customisation and ultra-accurate tracking
-- Compatible with Xbox One, Xbox One S and Xbox One X systems
+- Advanced tuneable weight system allows you to adjust M65 RGB Elites centre of gravity or reduce its weight to just 97 g
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07KM9MBFD/?tag=tolees0d-21)

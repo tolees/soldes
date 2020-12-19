@@ -25,10 +25,10 @@ Ahora mismo tienes [Cartable 38 Tann s Les Signatures Diane Rose](https://www.am
 
 🔎:
 
+- Couleur unie
 - Dessous renforcé
 - Sangles réglables
-- Couleur unie
-- Matière principale fabriquée à partir de bouteilles recyclées
 - Deux compartiments et une poche avant
+- Matière principale fabriquée à partir de bouteilles recyclées
 
 [Visítala!!!](https://www.amazon.fr/dp/B07ZJSS43V/?tag=tolees0d-21)

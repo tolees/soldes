@@ -25,10 +25,10 @@ Tienes [Invicta 14124 Pro Diver Montre Unisex acier inoxydable Quartz Cadran or]
 
 ℹ️:
 
+- LInvicta 14124 a un boîtier en acier inoxydable de 40 millimètres avec un cadran or
+- Résistance à leau de 20 bars ; cette montre Invicta est dotée dune couronne sans vis : tirer la couronne pour régler lheure et la date
 - Modèle issu de la collection Invicta Pro Diver
 - Mouvement à quartz précis
 - 2 ans de garantie Invicta
-- LInvicta 14124 a un boîtier en acier inoxydable de 40 millimètres avec un cadran or
-- Résistance à leau de 20 bars ; cette montre Invicta est dotée dune couronne sans vis : tirer la couronne pour régler lheure et la date
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00ATUHGGW/?tag=tolees0d-21)
