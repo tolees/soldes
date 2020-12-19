@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony MHC-V13 | Système Audio Portable High Power Bluetooth 
 
 🔎:
 
+- Profitez des avantages de la radio numérique DAB+ avec un son clair sans grésillement et un large choix de stations de radios. Ecoutez votre musique quelque soit la source connectez vos périphériques via Bluetooth pour streamer vos morceaux préférés, branchez une clé USB / câble jack ou utiliser le lecteur pour vos CDs favoris.
 - Un son puissant : Technologie « Jet Bass Booster » qui propulse les basses et tweeters «High Efficiency» qui améliorent la clarté des aigus et la pression sonore.
 - Additionnez les watts grâce au Wireless Party Chain qui vous permettra d’appairer une multitude de systèmes audio/enceintes sans fil à votre MHC V13 (jusqu’à cinquante!).
-- Encore plus de fun grâce à l’application Fiestable (via Music Center) qui vous permettra d’animer vos soirées avec différentes fonctionnalités ludiques et conçues pour la fête: effets sonores, jeux de lumières , contrôle vocal, partage de playlists, défi karaoké etc.
 - Effets lumineux multi couleurs installés sur le haut parleur qui se synchronisent au rythme de la musique pour des soirées encore plus fun
-- Profitez des avantages de la radio numérique DAB+ avec un son clair sans grésillement et un large choix de stations de radios. Ecoutez votre musique quelque soit la source connectez vos périphériques via Bluetooth pour streamer vos morceaux préférés, branchez une clé USB / câble jack ou utiliser le lecteur pour vos CDs favoris.
+- Encore plus de fun grâce à l’application Fiestable (via Music Center) qui vous permettra d’animer vos soirées avec différentes fonctionnalités ludiques et conçues pour la fête: effets sonores, jeux de lumières , contrôle vocal, partage de playlists, défi karaoké etc.
 
 [Visítala!!!](https://www.amazon.fr/dp/B08GF5P4TF/?tag=tolees0d-21)

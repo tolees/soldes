@@ -25,10 +25,10 @@ Tienes [Fila Disruptor Men  Sneakers Basses Homme  Blanc  White-1FG   44 EU](htt
 
 ℹ️:
 
-- Fermeture : Lacets
-- Couleur : Blanc
 - Saison : Printemps Été
-- Matière : Cuir
 - Taille : 44 EU
+- Matière : Cuir
+- Couleur : Blanc
+- Fermeture : Lacets
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07B3Z29JC/?tag=tolees0d-21)

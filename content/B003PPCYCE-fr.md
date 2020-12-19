@@ -26,9 +26,9 @@ Tienes [Eastpak The One Sac Bandoulière  21 cm  2.5 L  Gris  Sunday Grey ](http
 ℹ️:
 
 - Hauteur : 21 cm, Largeur : 16,5 cm, Profondeur : 5,5 cm
+- Fabriqué dans un mélange 60% nylon 40% polyester
+- La sangle dépaule ajustable a été conçue pour un port confortable
 - Grand compartiment principal avec une poche frontale zippée pour vos documents de voyage
 - Les poches avant, arrière et intérieures à glissière vous permettent de bien organiser votre journée
-- La sangle dépaule ajustable a été conçue pour un port confortable
-- Fabriqué dans un mélange 60% nylon 40% polyester
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B003PPCYCE/?tag=tolees0d-21)

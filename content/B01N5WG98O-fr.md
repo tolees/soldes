@@ -25,10 +25,10 @@ Ahora mismo tienes [Sony XDR-S41D Radio Portable Digitale DAB/ DAB+/ FM RDS Noir
 
 🔎:
 
-- Ecoutez également votre musique avec des écouteurs grâce à la prise jack.
-- Fonction réveil et fonction veille programmée
-- Radio DAB, DAB+, FM (RDS), 5 boutons favoris, son de qualité
-- Radio portable à piles, idéale pour la mobilité
 - Ecran LCD 4 lignes permettant dafficher des informations telles que le nom de la radio, lheure etc
+- Radio DAB, DAB+, FM (RDS), 5 boutons favoris, son de qualité
+- Fonction réveil et fonction veille programmée
+- Radio portable à piles, idéale pour la mobilité
+- Ecoutez également votre musique avec des écouteurs grâce à la prise jack.
 
 [Visítala!!!](https://www.amazon.fr/dp/B01N5WG98O/?tag=tolees0d-21)

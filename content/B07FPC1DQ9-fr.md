@@ -26,8 +26,8 @@ Ahora mismo tienes [MICHELIN 009555 Cric Hydraulique Rouleur SUV 2 25T](https://
 🔎:
 
 - Bras de levage Grande taille: 70cm
-- Idéal pour les SUV, 4x4, camping car, utilitaires
 - Cric hydraulique maxi levage Michelin
+- Idéal pour les SUV, 4x4, camping car, utilitaires
 - Capacité de levage: 2250 kg
 - Hauteur de levage: 150mm à 530mm
 
