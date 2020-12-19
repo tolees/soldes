@@ -25,8 +25,8 @@ Está [WEB2O TIPI pour Enfants H. 160cm  Rose ](https://www.amazon.fr/dp/B073DCN
 
 ℹ️:
 
+- POLYESTER et BOIS
 - Tipi pour enfant
 - L. 120 x l. 160 x H. 120 cm
-- POLYESTER et BOIS
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B073DCNHX6/?tag=tolees0d-21)

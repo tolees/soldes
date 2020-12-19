@@ -25,10 +25,10 @@ Ahora mismo tienes [DIVACORE - Bloop - Enceinte Portable sans Fil - Solide et Wa
 
 🔎:
 
-- ENCEINTE OUTDOOR : Solide et waterproof, lenceinte sans fil Bloop se connecte en Bluetooth, en filaire ou par technologie NFC à votre téléphone, votre PC, votre tablette, pour vous accompagner dans tous vos déplacements.
-- UN SON DEXCEPTION : Le système stéréo 2.1 apporte dynamisme et clarté tandis que les haut-parleurs à haut rendement et le large woofer délivrent des basses rondes et profondes. Le micro amélioré permet de prendre vos appels.
-- DESIGN COMPACT ET HAUTE RÉSISTANCE : Ultra-fine (30 mm), lenceinte possède un boîtier en aluminium résistant à la poussière et aux projections (IPX7). Conçue pour durer, elle peut vous suivre partout, même au bord de leau.
 - LAUDIO NOMADE À PORTÉE DE TOUS : Reconnue pour la performance de ses systèmes audio aux prix ultra-compétitifs, la marque française Divacore se distingue avec ses enceintes et ses casques sans fil parmi les meilleurs du marché.
+- DESIGN COMPACT ET HAUTE RÉSISTANCE : Ultra-fine (30 mm), lenceinte possède un boîtier en aluminium résistant à la poussière et aux projections (IPX7). Conçue pour durer, elle peut vous suivre partout, même au bord de leau.
 - VOTRE MUSIQUE PARTOUT OÙ VOUS ALLEZ : Offrant une autonomie de 10 heures pour profiter de votre son toute la journée, où que vous soyez, cette enceinte est livrée avec un câble USB pour la recharger rapidement.
+- UN SON DEXCEPTION : Le système stéréo 2.1 apporte dynamisme et clarté tandis que les haut-parleurs à haut rendement et le large woofer délivrent des basses rondes et profondes. Le micro amélioré permet de prendre vos appels.
+- ENCEINTE OUTDOOR : Solide et waterproof, lenceinte sans fil Bloop se connecte en Bluetooth, en filaire ou par technologie NFC à votre téléphone, votre PC, votre tablette, pour vous accompagner dans tous vos déplacements.
 
 [Visítala!!!](https://www.amazon.fr/dp/B01N2K35AI/?tag=tolees0d-21)
