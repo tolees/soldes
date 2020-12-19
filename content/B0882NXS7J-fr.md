@@ -25,10 +25,10 @@ Está [Assassin’s Creed Valhalla - Drakkar Edition](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Un monde ouvert situé dans les ges obscurs du moyen ge
 - Écrivez votre propre saga viking
-- Menez des raids épiques
 - Faites grandir votre colonie
 - Un système de combat viscéral
+- Menez des raids épiques
+- Un monde ouvert situé dans les ges obscurs du moyen ge
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0882NXS7J/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Está [Playmobil - Camion de Marché - 70134](https://www.amazon.fr/dp/B07JXHQWY
 
 ℹ️:
 
-- With 2 Playmobil toy figures
-- The roof of the vehicle can be pushed up to reveal the produce inside
-- Includes a tow bar
 - Both rear doors of the toy vehicle can be opened
 - The roof of the toy van is removable
+- The roof of the vehicle can be pushed up to reveal the produce inside
+- Includes a tow bar
+- With 2 Playmobil toy figures
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07JXHQWYB/?tag=tolees0d-21)

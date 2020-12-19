@@ -25,10 +25,10 @@ Ahora mismo tienes [DANIEL HECHTER Ecrin Collection Couture Black Eau de Parfum 
 
 🔎:
 
-- Idée cadeau incontournable disponible en édition limitée, Emballage soigné et distingué, Format économique et avantageux par rapport à l’achat à l’unité
-- Contenu : 1x Coffret homme Collection Couture Black Daniel Hechter, Eau de Parfum 100 ml, Déodorant 150 ml
-- Astuce : vaporiser le parfum sur le cou et les poignets, Harmonie olfactive préservée et odeur prolongée par l’association des deux produits, Tenue longue durée sur la peau et sur les vêtements
 - Parfum aux notes aromatiques, boisées et ambrées, Note de tête Bergamote, Note de cœur Patchouli
+- Contenu : 1x Coffret homme Collection Couture Black Daniel Hechter, Eau de Parfum 100 ml, Déodorant 150 ml
 - Coffret 2-en-1 eau de toilette et déodorant pensé pour les hommes modernes et élégants en toutes circonstances, Réinterprétation des plus belles matières du vestiaire masculin
+- Astuce : vaporiser le parfum sur le cou et les poignets, Harmonie olfactive préservée et odeur prolongée par l’association des deux produits, Tenue longue durée sur la peau et sur les vêtements
+- Idée cadeau incontournable disponible en édition limitée, Emballage soigné et distingué, Format économique et avantageux par rapport à l’achat à l’unité
 
 [Visítala!!!](https://www.amazon.fr/dp/B07GVZY4JT/?tag=tolees0d-21)

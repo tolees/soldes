@@ -25,10 +25,10 @@ Ahora mismo tienes [SNAPTAIN H823H Mini Drone Enfant  Drone Jouet  21 Mins Auton
 
 🔎:
 
-- ✈【Rapide et Agile】 Vous pouvez contrôler le drone dans toutes les directions avec la télécommande. Le drone mini est capable de réaliser des figures acrobatiques, des flips à 360º .
-- ✈【Facile à piloter】 Avec le maintien daltitude, le mode sans tête et le décollage / atterrissage par un bouton, vous pouvez le piloter sans vous soucier de le perdre et le contrôler plus facilement.
 - ✈【Drone Ergonomique】 Conception et matériel antichoc garantit la durée de vie du drone. Le corp du drone est équipé de coque de protection, drone jouet solide et protégé. Plus jamais à se soucier des collisions.
+- ✈【Rapide et Agile】 Vous pouvez contrôler le drone dans toutes les directions avec la télécommande. Le drone mini est capable de réaliser des figures acrobatiques, des flips à 360º .
 - ✈【Mini et Durable】Petite taille comme une paume dun enfant, vous pouvez lapporter partout. Drone sécuritaire et performant pour votre enfant de jouer et bien développer la sensation de 3D. Cadeau danniversaire/de Noël idéal !
 - ✈【Voler Plus Longtemps】Temps de vol peut atteindre jusquà 21mn. 3 batteries détachables et 3 niveaux de vitesse réglables offrent une expérience de vol inimaginable pour les enfants et les débutants.
+- ✈【Facile à piloter】 Avec le maintien daltitude, le mode sans tête et le décollage / atterrissage par un bouton, vous pouvez le piloter sans vous soucier de le perdre et le contrôler plus facilement.
 
 [Visítala!!!](https://www.amazon.fr/dp/B089SX1N2T/?tag=tolees0d-21)

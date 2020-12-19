@@ -25,9 +25,9 @@ Tienes [Samsung MB-MC128GA/EU Carte mémoire MicroSD Evo Plus 128G avec adaptate
 
 ℹ️:
 
-- Vous pouvez enregistrer des vidéos 4K UHD super détaillées
 - Carte microSD Idéal pour utilisation dans les appareils photo, caméras full HD action et drones à 360 °
 - Tension d’exploitation:2.7~3.6V
 - Carte rapide, convient pour les enregistrements UHD 4 K
+- Vous pouvez enregistrer des vidéos 4K UHD super détaillées
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B06XFHQGB9/?tag=tolees0d-21)

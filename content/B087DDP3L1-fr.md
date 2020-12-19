@@ -25,10 +25,10 @@ Está [Samsung T7 1 To USB 3.2 SSD externe rouge métallique - MU-PC1T0R/WW](htt
 
 ℹ️:
 
+- Compatibilité multi-OS (Android, MacOS, Windows)
 - Sécurisation des données par mot de passe
 - USB type C - USB 3.2 Gen.2 (10 Gbps)
 - Design léger et compact en aluminium
 - Technologie NVMe pour des débits jusquà 1050 Mo/s
-- Compatibilité multi-OS (Android, MacOS, Windows)
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B087DDP3L1/?tag=tolees0d-21)

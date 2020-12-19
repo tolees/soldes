@@ -25,10 +25,10 @@ Está [Sun Tablettes Lave-Vaisselle Tout-En-1 Action Intégrale Standard Fabriqu
 
 ℹ️:
 
-- Packaging is recyclable card containing 85% recycled cardboard.
 - Protection of the machine and the washing up.
-- Made in France.
+- Packaging is recyclable card containing 85% recycled cardboard.
 - Without prior rinse.
 - 1 Action in just 1 wash: removes grease, anti-traces, salt and rinsing liquid.
+- Made in France.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07CBLSGLY/?tag=tolees0d-21)

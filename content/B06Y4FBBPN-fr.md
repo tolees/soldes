@@ -25,8 +25,8 @@ Está [L Oréal Professionnel Série Expert Inforcer Shampoing Pour Cheveux Cass
 
 ℹ️:
 
-- Shampooing renforcateur anti-casse.
 - Répartir sur cheveux mouillés. Emulsionner. Rincer.
 - Action anti-casse immédiate. Apporte force, douceur et souplesse aux cheveux.
+- Shampooing renforcateur anti-casse.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B06Y4FBBPN/?tag=tolees0d-21)
