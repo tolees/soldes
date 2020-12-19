@@ -26,7 +26,7 @@ Ahora mismo tienes ["L Aventure LaytonTM : Katrielle et la conspiration des mill
 🔎:
 
 - NINTENDO
-- 10002053
 - 2 ans
+- 10002053
 
 [Visítala!!!](https://www.amazon.fr/dp/B07TTHJVT7/?tag=tolees0d-21)

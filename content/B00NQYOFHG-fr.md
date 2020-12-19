@@ -25,10 +25,10 @@ Tienes [Le Creuset  Cocotte Signature en Fonte Émaillée avec Couvercle  Ø 24 
 
 ℹ️:
 
-- Fonte économe en énergie pour des résultats de cuisson optimaux, Compatible avec toutes les sources de chaleur, y compris linduction, Finitions intérieures en émail résistant à lusure
+- Contenu : 1 Cocotte Signature en fonte émaillée avec couvercle Le Creuset, Ronde, Ø 24 cm, Dimensions avec poignées et couvercle : 32.5 x 25.2 x 16.6 cm, Poids : 4.305 kg, Couleur : Noir
+- Cocotte ronde en fonte idéale pour la préparation de délicieux plats mijotés, Couvercle en fonte émaillée avec bouton en inox résistant à la chaleur
 - Poignées dassistance pour une manipulation et un transport faciles, même avec des gants de cuisine
 - Fabriqué en France, Entretien facile grâce à son intérieur en émail de haute qualité, Passe au lave-vaisselle, Garantie à vie
-- Cocotte ronde en fonte idéale pour la préparation de délicieux plats mijotés, Couvercle en fonte émaillée avec bouton en inox résistant à la chaleur
-- Contenu : 1 Cocotte Signature en fonte émaillée avec couvercle Le Creuset, Ronde, Ø 24 cm, Dimensions avec poignées et couvercle : 32.5 x 25.2 x 16.6 cm, Poids : 4.305 kg, Couleur : Noir
+- Fonte économe en énergie pour des résultats de cuisson optimaux, Compatible avec toutes les sources de chaleur, y compris linduction, Finitions intérieures en émail résistant à lusure
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B00NQYOFHG/?tag=tolees0d-21)

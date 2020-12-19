@@ -25,10 +25,10 @@ Está [IMMORTALS FENYX RISING GOLD XBOX ONE & XBOX SERIES X](https://www.amazon.
 
 ℹ️:
 
+- Explorez un magnifique monde ouvert
+- Surmontez des épreuves héroïques
 - Affrontez des ennemis mythiques
 - Forgez votre légende
-- Explorez un magnifique monde ouvert
 - Maniez les pouvoirs des dieux
-- Surmontez des épreuves héroïques
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08HW1X2G5/?tag=tolees0d-21)

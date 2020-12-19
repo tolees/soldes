@@ -25,11 +25,11 @@ Ahora mismo tienes [Gillette Fusion5 Proshield Lames de Rasoir Homme  Pack de 11
 
 🔎:
 
-- Lame de finition à l’arrière, idéale pour retoucher les zones difficiles d’accès (nez et pattes)
-- Les lames de rasoir pour homme sont dotées d’une technologie Chill qui apporte une sensation rafraîchissante pendant le rasage
 - 1 recharge de lame de rasoir correspond à un mois de rasage
-- Lames de rasoir Gillette dotées de 5 lames anti-friction, pour un rasage comme une caresse
-- Des bandes lubrifiantes à l’avant et à l’arrière des lames dressent un bouclier contre les irritations lors du rasage
 - Le Micro-peigne aide à guider la barbe vers les lames
+- Des bandes lubrifiantes à l’avant et à l’arrière des lames dressent un bouclier contre les irritations lors du rasage
+- Lame de finition à l’arrière, idéale pour retoucher les zones difficiles d’accès (nez et pattes)
+- Lames de rasoir Gillette dotées de 5 lames anti-friction, pour un rasage comme une caresse
+- Les lames de rasoir pour homme sont dotées d’une technologie Chill qui apporte une sensation rafraîchissante pendant le rasage
 
 [Visítala!!!](https://www.amazon.fr/dp/B018M3GD8Y/?tag=tolees0d-21)

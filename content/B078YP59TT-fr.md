@@ -25,12 +25,12 @@ Ahora mismo tienes [Echo Auto  Ajoutez Alexa à votre voiture](https://www.amazo
 
 🔎:
 
+- Echo Auto is also designed to protect your privacy: You can press the Microphone Off button to electronically disconnect the microphones.
+- Add Alexa to your car: connects to the Alexa app on your phone and plays through your car speakers via auxiliary input jack or your smartphones Bluetooth connection. Includes air vent mount.
+- Check for compatibility. Echo Auto is not compatible with all cars and phones. See if it will work for you below.
+- Do More with Auto Mode – Turn your phone into a driver-friendly display that complements your Echo Auto. See whats playing and save time with easy-touch shortcuts to your favourite places, people and content.
+- Designed for the road: with 8 microphones and far-field technology, Echo Auto can hear you over music, air conditioning and road noise.
 - Just ask – Use your voice to play music, check the news, make calls, add to your to-do list, set reminders, check petrol prices and more.
 - Go beyond car radio: voice control Echo Auto through the Alexa app to stream from Audible, Amazon Music, Apple Music, Spotify, Deezer or radio stations from around the world with TuneIn.
-- Designed for the road: with 8 microphones and far-field technology, Echo Auto can hear you over music, air conditioning and road noise.
-- Add Alexa to your car: connects to the Alexa app on your phone and plays through your car speakers via auxiliary input jack or your smartphones Bluetooth connection. Includes air vent mount.
-- Do More with Auto Mode – Turn your phone into a driver-friendly display that complements your Echo Auto. See whats playing and save time with easy-touch shortcuts to your favourite places, people and content.
-- Check for compatibility. Echo Auto is not compatible with all cars and phones. See if it will work for you below.
-- Echo Auto is also designed to protect your privacy: You can press the Microphone Off button to electronically disconnect the microphones.
 
 [Visítala!!!](https://www.amazon.fr/dp/B078YP59TT/?tag=tolees0d-21)

@@ -26,11 +26,11 @@ Ahora mismo tienes [Découvrez Blink Mini  Caméra de surveillance d intérieur 
 🔎:
 
 - Recevez des notifications sur votre smartphone dès quun mouvement est détecté ou personnalisez les zones de détection de mouvements pour voir les événements qui vous intéressent vraiment.
-- Configuration en quelques minutes : branchez simplement la caméra, connectez-la au Wi-Fi et ajoutez-la à votre application Blink Home Monitor.
 - Blink Mini fonctionne également avec une mémoire de stockage locale. Enregistrez et stockez localement des clips vidéo chez vous. Blink Sync Module 2 requis (vendu séparemment). Bientôt disponible.
-- Caméra de surveillance dintérieur HD 1080p, qui se branche sur une prise électrique, avec détection de mouvements et système audio bidirectionnel pour surveiller votre maison de jour comme de nuit.
-- Blink Mini inclut une période dessai gratuit à labonnement Blink jusquau 31 mars 2021.
-- Regardez et écoutez les personnes et animaux de compagnie présents dans votre maison, et parlez avec eux depuis votre smartphone grâce à la fonctionnalité Vidéo en direct et au système audio bidirectionnel de Blink Mini (la fonctionnalité Vidéo en direct nest pas activée en continu).
 - Pour une plus grande facilité dutilisation, jumelez Blink Mini avec un appareil avec Alexa intégré compatible pour activer la Vidéo en direct, voir des vidéos enregistrées et armer ou désarmer la caméra, par simple commande vocale.
+- Caméra de surveillance dintérieur HD 1080p, qui se branche sur une prise électrique, avec détection de mouvements et système audio bidirectionnel pour surveiller votre maison de jour comme de nuit.
+- Regardez et écoutez les personnes et animaux de compagnie présents dans votre maison, et parlez avec eux depuis votre smartphone grâce à la fonctionnalité Vidéo en direct et au système audio bidirectionnel de Blink Mini (la fonctionnalité Vidéo en direct nest pas activée en continu).
+- Configuration en quelques minutes : branchez simplement la caméra, connectez-la au Wi-Fi et ajoutez-la à votre application Blink Home Monitor.
+- Blink Mini inclut une période dessai gratuit à labonnement Blink jusquau 31 mars 2021.
 
 [Visítala!!!](https://www.amazon.fr/dp/B07X37DT9M/?tag=tolees0d-21)

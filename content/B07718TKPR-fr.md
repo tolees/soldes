@@ -25,11 +25,11 @@ Ahora mismo tienes [Xiaomi 17061 Vacuum Cleaner Robot Aspirateur  blanc](https:
 
 🔎:
 
+- Fonctions: aspiration, balayage
 - Planification de litinéraire intelligente, contournement des obstacles jusquà 1, 5 cm de haut, capteurs de chute
+- Jusquà 2, 5 heures dautonomie (env. 250Qm), batterie 5200 mAh, auto rechargeable.
+- Puissance daspiration 1800 Pa, Wi-Fi, contrôle via lapplication "mi Home".
 - Contenu de la livraison: aspirateur Xiaomi mi robot avec station de charge, Câble dalimentation, peigne de nettoyage à brosse et guide de démarrage rapide
 - Application compatible Android et iOS
-- Fonctions: aspiration, balayage
-- Puissance daspiration 1800 Pa, Wi-Fi, contrôle via lapplication "mi Home".
-- Jusquà 2, 5 heures dautonomie (env. 250Qm), batterie 5200 mAh, auto rechargeable.
 
 [Visítala!!!](https://www.amazon.fr/dp/B07718TKPR/?tag=tolees0d-21)
