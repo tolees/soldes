@@ -26,9 +26,9 @@ Está [Samsung Galaxy A20e 5 8 "  ?cran 32 GB extensible  3 GB de RAM  Batterie 
 ℹ️:
 
 - Vivez une exp?rience de visualisation totalement immersive avec l?cran Galaxy A20e Infinity-V 5.8
-- Le Galaxy A20e est ?quip? dune m?moire interne de 32 GB, extensible via microSD jusqu? 512 GB, pour vous fournir tout lespace dont vous avez besoin
-- Prot?gez votre contenu le plus pr?cieux avec le lecteur d?empreintes digitales qui garantit un d?verrouillage rapide et s?r
 - Capturez des d?tails riches en photos avec la double cam?ra arri?re du Galaxy A20e et capturez des panoramas plus grands gr?ce ? lobjectif ? tr?s grand angle
+- Prot?gez votre contenu le plus pr?cieux avec le lecteur d?empreintes digitales qui garantit un d?verrouillage rapide et s?r
 - Galaxy A20e prend en charge la technologie 15W Quick Charge qui ram?ne votre smartphone ? 100% en un ?clair
+- Le Galaxy A20e est ?quip? dune m?moire interne de 32 GB, extensible via microSD jusqu? 512 GB, pour vous fournir tout lespace dont vous avez besoin
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RFLTQSL/?tag=tolees0d-21)

@@ -25,8 +25,8 @@ Ahora mismo tienes [Geox U Nebula A  Baskets Basses homme  Noir  C9999   46 EU](
 
 🔎:
 
-- Geox U Nebula A Mens Leather Trainers / Shoes
-- garantie de remboursement de satisfaction
 - Geox
+- garantie de remboursement de satisfaction
+- Geox U Nebula A Mens Leather Trainers / Shoes
 
 [Visítala!!!](https://www.amazon.fr/dp/B00OB8MSDY/?tag=tolees0d-21)

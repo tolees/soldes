@@ -25,10 +25,10 @@ Está [IDEAPARK RC Voiture Télécommandée  4WD Stunt Car à 360°Rotation avec
 
 ℹ️:
 
-- 【Full-functional Toy】2.4GHz transmitter and far control distance up to 60m, enable multiple players to race with the RC car at the same time.
 - 【360 ​​degree flip RC Car】Double sides running, The Stunt Car can move in all directions and do extreme 360 ​​degree spins and flip on both sides.
-- 【Safety and Quality】 This remote control stunt car is made of ABS plastic and non-toxic and explosion-proof PVC material, which has anti-fall and waterproof functions, and is suitable for children to play.
 - 【4 Wheel Drive】This Remote Control Car is equipped with 2 powerful motor, can break land, beach, grass easily through.
+- 【Safety and Quality】 This remote control stunt car is made of ABS plastic and non-toxic and explosion-proof PVC material, which has anti-fall and waterproof functions, and is suitable for children to play.
 - 【Long Playing Time】Equipped with a 4.8V 700mAh rechargeable powerful output car battery, this Remote Control Car creates much fun for you.
+- 【Full-functional Toy】2.4GHz transmitter and far control distance up to 60m, enable multiple players to race with the RC car at the same time.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08CN3W23F/?tag=tolees0d-21)

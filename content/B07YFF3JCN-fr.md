@@ -25,10 +25,10 @@ Está [WD Bleu SN550 500 Go  SSD NVMe  Gén. 3 x4 PCIe  M.2 2280  3D NAND](http
 
 ℹ️:
 
-- Créez des PC à la fois compacts et puissants avec un disque SSD NVMe fin et à face unique m.2 2280 PCIe Gén. 3 x4.
 - La NVMe devient accessible au grand public avec une puissante solution de stockage économique ajoutant à la fiabilité dun disque SSD.
-- Bénéficiez dune vitesse de lecture séquentielle stupéfiante pouvant atteindre 2 400 mo/s afin Améliorez votre productivité, peu importe ce que vous faites ou créez.
-- Matériel NVMe évolutif, architecture accélérée pour de hautes performances et faible consommation dénergie.
 - Contrôleur et micrologiciel conçus par Western Digital associés à notre toute dernière technologie 3D NAND pour des performances constantes et optimisées.
+- Matériel NVMe évolutif, architecture accélérée pour de hautes performances et faible consommation dénergie.
+- Créez des PC à la fois compacts et puissants avec un disque SSD NVMe fin et à face unique m.2 2280 PCIe Gén. 3 x4.
+- Bénéficiez dune vitesse de lecture séquentielle stupéfiante pouvant atteindre 2 400 mo/s afin Améliorez votre productivité, peu importe ce que vous faites ou créez.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07YFF3JCN/?tag=tolees0d-21)

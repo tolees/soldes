@@ -25,10 +25,10 @@ Está [Assassin’s Creed Valhalla - Drakkar Edition](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Écrivez votre propre saga viking
-- Faites grandir votre colonie
-- Un système de combat viscéral
-- Menez des raids épiques
 - Un monde ouvert situé dans les ges obscurs du moyen ge
+- Faites grandir votre colonie
+- Menez des raids épiques
+- Écrivez votre propre saga viking
+- Un système de combat viscéral
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0882NXS7J/?tag=tolees0d-21)
