@@ -25,9 +25,9 @@ Está [V Tech - Ordi Genius Kid  Rose - Version FR](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
+- Personnalisable : prénom, âge, mélodie, avatar et aliments préférés de l’enfant
 - 20 activités pour découvrir les formes, les animaux, la logique, le vocabulaire
 - 30 mélodies et différents modes musicaux : rock, jazz et country
-- Personnalisable : prénom, âge, mélodie, avatar et aliments préférés de l’enfant
 - Différents niveaux de progression : plus l’enfant joue, plus la difficulté augmente
 - Ecran interactif rétro-éclairé, animations amusantes, clavier abécédaire, 10 touches Chiffre
 

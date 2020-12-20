@@ -25,11 +25,11 @@ Ahora mismo tienes [Fire TV Stick Lite avec télécommande vocale Alexa ǀ Lite 
 
 🔎:
 
-- Cette offre groupée comprend un appareil Fire TV Stick Lite et sa télécommande vocale Alexa ǀ Lite (sans boutons de contrôle de la TV), et un câble dalimentation USB « Made for Amazon » Mission.
-- Fini les câbles qui pendent et les prises encombrées : alimentez votre Fire TV Stick directement depuis le port USB de votre TV grâce à notre câble dalimentation « Made for Amazon » certifié.
-- Le câble dalimentation USB Mission est compatible avec tous les ports USB alimentés.
-- Notre Fire TV Stick le plus abordable : profitez dun streaming rapide en Full HD. Livré avec la télécommande vocale Alexa | Lite.
-- Appuyez et demandez à Alexa : utilisez votre voix pour chercher et lancer facilement du contenu depuis de nombreuses applications.
 - Câble dalimentation USB Mission doté dun circuit spécial de gestion de lalimentation qui améliore la capacité de puissance de crête du port USB en stockant lexcédent dénergie puis en le libérant selon les besoins.
+- Fini les câbles qui pendent et les prises encombrées : alimentez votre Fire TV Stick directement depuis le port USB de votre TV grâce à notre câble dalimentation « Made for Amazon » certifié.
+- Cette offre groupée comprend un appareil Fire TV Stick Lite et sa télécommande vocale Alexa ǀ Lite (sans boutons de contrôle de la TV), et un câble dalimentation USB « Made for Amazon » Mission.
+- Appuyez et demandez à Alexa : utilisez votre voix pour chercher et lancer facilement du contenu depuis de nombreuses applications.
+- Notre Fire TV Stick le plus abordable : profitez dun streaming rapide en Full HD. Livré avec la télécommande vocale Alexa | Lite.
+- Le câble dalimentation USB Mission est compatible avec tous les ports USB alimentés.
 
 [Visítala!!!](https://www.amazon.fr/dp/B08P5YHR7W/?tag=tolees0d-21)

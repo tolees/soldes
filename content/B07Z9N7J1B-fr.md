@@ -25,9 +25,9 @@ Tienes [Goliath - Super Zings- Blister 10 - à collectionner - à partir de 5 an
 
 ℹ️:
 
-- Age minimum: 5 ans
 - 1+
-- Superzings est une gamme de figurines à collectionner d’une hauteur de 3cm environ.
 - Après un succès fulgurant en Angleterre et en Espagne, le phénomène superzings débarquent en France !
+- Superzings est une gamme de figurines à collectionner d’une hauteur de 3cm environ.
+- Age minimum: 5 ans
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07Z9N7J1B/?tag=tolees0d-21)

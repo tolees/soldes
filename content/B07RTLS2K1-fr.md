@@ -26,8 +26,8 @@ Está [Funko Pop! Figurine Moment: Game of Thrones - Daenerys & Jorah B2B w/Swor
 ℹ️:
 
 - Funko POP! Figurine en vinyle est le jouet 2018 de lannée
-- Chaque personnage mesure environ 15 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Découvrez tous les autres produits Funko dédiés à lunivers Game of Thrones Collectionnez-les tous
+- Chaque personnage mesure environ 15 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Issue de la gamme Game of Thrones, la figurine Daenerys & Jorah B2B w/Swords rejoint la collection Funko POP Movie Moment
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07RTLS2K1/?tag=tolees0d-21)
