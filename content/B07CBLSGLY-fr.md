@@ -25,9 +25,9 @@ Está [Sun Tablettes Lave-Vaisselle Tout-En-1 Action Intégrale Standard Fabriqu
 
 ℹ️:
 
-- Fabriqué en France
 - Tablette lave vaisselle avec 30 % dingrédients dorigine naturelle. Film Hydrosoluble biodégradable.
 - Lot de 3x52 Lavages
+- Fabriqué en France
 - Le produit Sun protège votre vaisselle ainsi que votre lave-vaisselle
 - Pour intensifier la puissance de lavage ou si votre eau est dure, la pastille lave vaisselle est compatible avec le liquide de rinçage Sun Shine Boost et Sun Sel Régénérant
 - Action 4 en 1 en un seul lavage : dégraisse, anti-traces, sel et liquide de rinçage. Sans pré-rinçage.

@@ -25,13 +25,13 @@ Está [Nouvelle Manette Xbox Sans Fil - Carbon Black](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- *Informations importantes : Compatible avec certains appareils et versions des systèmes d’exploitation. Certaines fonctionnalités ne sont pas prises en charge sur Android ou via Bluetooth. Rendez-vous sur xbox.com/controller-compatibility pour plus d’informations. Réattribution des boutons avec l’application Accessoires Xbox pour XboxSeriesX, XboxOne et Windows10.
-- Nouvelle croix multidirectionnelle pour une prise en main précise
-- Surface antidérapante sur les gâchettes et larrière de la manette
 - Prise casque 3,5 mm
-- Personnalisation des boutons avec lapplication Xbox Accessories
 - Découvrez le design modernisé de la manette sans fil Xbox – Carbon Black, avec ses surfaces texturées et sa géométrie raffinée, pour un confort de jeu accru
-- Technologie Xbox sans fil et Bluetooth*
+- *Informations importantes : Compatible avec certains appareils et versions des systèmes d’exploitation. Certaines fonctionnalités ne sont pas prises en charge sur Android ou via Bluetooth. Rendez-vous sur xbox.com/controller-compatibility pour plus d’informations. Réattribution des boutons avec l’application Accessoires Xbox pour XboxSeriesX, XboxOne et Windows10.
+- Personnalisation des boutons avec lapplication Xbox Accessories
 - Bouton de partage : Enregistrez et partagez du contenu facilement, avec le nouveau bouton de partage
+- Nouvelle croix multidirectionnelle pour une prise en main précise
+- Technologie Xbox sans fil et Bluetooth*
+- Surface antidérapante sur les gâchettes et larrière de la manette
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07SDFLVKD/?tag=tolees0d-21)

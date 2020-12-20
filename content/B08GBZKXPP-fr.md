@@ -25,10 +25,10 @@ Ahora mismo tienes [Samsung Galaxy A31 Noir AMAZON](https://www.amazon.fr/dp/B08
 
 🔎:
 
-- QUADRUPLE CAPTEUR PHOTO Avec capteur principal 48 MP
 - PERFORMANCES OPTIMISEES Stockage 64 Go + Lecteur d’empreinte sous l’écran
-- included_components: Smartphone - kit piéton-bloc de charge - cable USB type C- guide dutilisation
 - ÉCRAN PANORAMIQUE 6,4’’ Super AMOLED
+- QUADRUPLE CAPTEUR PHOTO Avec capteur principal 48 MP
+- included_components: Smartphone - kit piéton-bloc de charge - cable USB type C- guide dutilisation
 - BATTERIE LONGUE DURÉÉ 5000 mAh + charge rapide
 
 [Visítala!!!](https://www.amazon.fr/dp/B08GBZKXPP/?tag=tolees0d-21)

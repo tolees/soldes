@@ -25,10 +25,10 @@ Ahora mismo tienes [Rasoir Electrique Homme  PURKOO Rasoir Electrique Tondeuse B
 
 🔎:
 
-- Pop-up Tondeuse Barbe: À larrière des rasoirs électriques, une seule touche pour ouvrir la tondeuse pop-up pour couper et détailler votre barbe et vos favoris, votre moustache
 - Rotatives Rasoir: Les rasoirs électriques rotatifs pour hommes PURKOO sont équipés de 3 têtes de rasage flottantes qui suivent chaque contour de votre visage, la feuille à double piste assure un rasage confortable et de près, rasage de près efficace et respectueux de la peau
-- USB Charge Rapide et Pratique: À utiliser 60 minutes après 1 heure de charge
 - Wet & Dry Use: Rasoir avec IPX7 étanche. Vous pouvez vous raser sous la douche avec du gel ou de la mousse. En outre, les têtes flottantes peuvent être ouvertes en un seul bouton, ce qui est facile à nettoyer sous leau
+- Pop-up Tondeuse Barbe: À larrière des rasoirs électriques, une seule touche pour ouvrir la tondeuse pop-up pour couper et détailler votre barbe et vos favoris, votre moustache
 - Intellegent Affichage à DEL: Laffichage à LED indique le temps de charge et le temps dutilisation, Montre la puissance de la batterie et le verrou de voyage, verrou de 3 secondes et ouvert de 3 secondes
+- USB Charge Rapide et Pratique: À utiliser 60 minutes après 1 heure de charge
 
 [Visítala!!!](https://www.amazon.fr/dp/B08CXQS6RR/?tag=tolees0d-21)

@@ -25,8 +25,8 @@ Tienes [Console Nintendo Switch Lite Turquoise + Animal Crossing : New Horizon +
 
 ℹ️:
 
-- 1 code de téléchargement pour Animal Crossing : New Horizon
-- Console Nintendo Switch Lite Turquoise
 - 1 Abonnement Individuel de 3 mois au service Nintendo Switch Online
+- Console Nintendo Switch Lite Turquoise
+- 1 code de téléchargement pour Animal Crossing : New Horizon
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B08NG3X5N8/?tag=tolees0d-21)

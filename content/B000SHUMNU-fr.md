@@ -25,10 +25,10 @@ Tienes [Pentel N50 Lot de 12 Marqueurs Permanents Pointe Conique Noir](https://w
 
 ℹ️:
 
-- Robust aluminium barrel
 - Will write on almost any surface including cardboard, plastic, metal, wood and glass
-- One of the UKs favouriet permanent markers
 - Bonded fibre tips retain their shape
+- Robust aluminium barrel
 - Vivid waterproof ink
+- One of the UKs favouriet permanent markers
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B000SHUMNU/?tag=tolees0d-21)
