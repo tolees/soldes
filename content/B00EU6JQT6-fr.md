@@ -25,9 +25,9 @@ Tienes [Eau Jeune - Coffret L Orientale - Eau de Toilette 75 ml - Spray Déodora
 
 ℹ️:
 
+- Coffret composé dune eau de toilette et dun déodorant au parfum coordonné, Un véritable éveil des sens avec une fragrance sensuelle et irrésistible
 - Contenu : 1x Coffret LOrientale Belle Eau Jeune, Eau de toilette 75 ml, Spray déodorant 150 ml
 - Notes de tête : grenade, amaretto et carambole, Notes de fond : myrrhe et fève tonka, Notes de cœur : hibiscus rouge, jasmin et pivoine
-- Coffret composé dune eau de toilette et dun déodorant au parfum coordonné, Un véritable éveil des sens avec une fragrance sensuelle et irrésistible
 - Accord grenade, pivoine, myrrhe et jasmin, pour un souffle de mystère et de sensualité venu dOrient
 - Une fragrance pleine de volupté et de séduction, pour la plus sensuelle des eaux de toilette Eau Jeune
 

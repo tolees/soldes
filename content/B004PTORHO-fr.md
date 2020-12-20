@@ -25,8 +25,8 @@ Está [Pentel 15432 Porte-mines P200 0.7 mm Embout agrafe Métalliques 4 mm Mage
 
 ℹ️:
 
-- Gomme intégrée
 - 4 mm tube de guidage pour travail de précision avec une règle ou pochoir
+- Gomme intégrée
 - Clip amovible
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21)

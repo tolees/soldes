@@ -26,10 +26,10 @@ Está [Sony SRS-XB12 Enceinte Bluetooth Portable Extra Bass Waterproof – Noir]
 ℹ️:
 
 - Compact & lightweight, but powerful
-- Battery life of up to 16 hours
-- Pair two SRS-XB12 speakers together for stereo sound
+- EXTRA BASS technology for powerful sound
 - Waterproof, dustproof, sandproof and mudproof (IP67 rated)
 - Bluetooth compatible
-- EXTRA BASS technology for powerful sound
+- Battery life of up to 16 hours
+- Pair two SRS-XB12 speakers together for stereo sound
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07MF9Q21L/?tag=tolees0d-21)

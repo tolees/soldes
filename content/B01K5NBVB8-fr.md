@@ -25,10 +25,10 @@ Ahora mismo tienes [Dim Ecodim  Chaussettes  Lot de 5 paires  Homme  Noir  FR: 4
 
 🔎:
 
-- Retour 100 jours
+- Livraison gratuite dès 25 €
 - Le spécialiste du legwear
 - N°1 en France
 - 43/46
-- Livraison gratuite dès 25 €
+- Retour 100 jours
 
 [Visítala!!!](https://www.amazon.fr/dp/B01K5NBVB8/?tag=tolees0d-21)

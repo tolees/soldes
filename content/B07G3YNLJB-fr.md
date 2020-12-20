@@ -26,8 +26,8 @@ Está [Crucial BX500 240Go CT240BX500SSD1 SSD Interne-jusqu’à 540 MB/s  3D NA
 ℹ️:
 
 - Micron 3D NAND – enhancing the worlds memory and storage technology for 40 years
-- Improves battery life because it’s 45 times more energy efficient than a typical hard drive
 - Boot up faster; load files quicker; improve overall system responsiveness
+- Improves battery life because it’s 45 times more energy efficient than a typical hard drive
 - Sequential reads/writes up to 540/500 MB/s on all file types
 - 300 Percent faster than a typical hard drive
 
