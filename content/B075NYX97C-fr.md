@@ -25,10 +25,10 @@ Está [Hoover TE80PET Aspirateur Traineau avec Sac Telios Plus Silencieux A+Aaa 
 
 ℹ️:
 
-- Performances exceptionnelles de nettoyage sur tous types de sols
-- Grande capacité 3,5L avec filtre EPA10 lavable à leau
-- Spécial animaux : brosse spéciale pour aspirer les cheveux et poils danimaux
 - Brosse spéciale parquet et brosse spéciale tapis/moquettes
+- Performances exceptionnelles de nettoyage sur tous types de sols
+- Spécial animaux : brosse spéciale pour aspirer les cheveux et poils danimaux
 - Silencieux : seulement 66 dBA
+- Grande capacité 3,5L avec filtre EPA10 lavable à leau
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B075NYX97C/?tag=tolees0d-21)

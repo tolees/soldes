@@ -25,8 +25,8 @@ Ahora mismo tienes [POP! Disney: Frozen 2 - Elsa  Epilogue ](https://www.amazon.
 
 🔎:
 
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Issue de la gamme Frozen 2, la figurine Elsa (Epilogue) rejoint la collection Funko POP!
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Découvrez tous les autres produits Funko dédiés à lunivers Frozen 2! Collectionnez-les tous!
 
