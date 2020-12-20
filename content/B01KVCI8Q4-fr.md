@@ -25,9 +25,9 @@ Está [Maybelline New York Master Strobing Stick Illuminateur 100 Light Iridesce
 
 ℹ️:
 
-- Un geste simple, en quelques touches votre teint sillumine
 - Un rendu délicat et discret, grâce au subtil fini lumineux
 - Appliquez sur les zones de votre visage que vous souhaitez mettre en valeur : le menton, larc de cupidon, larête du nez, le haut des pommettes, larcade sourcilière et le front. Estompez au doigt pour un rendu naturel.
+- Un geste simple, en quelques touches votre teint sillumine
 - Obtenir un effet naturel et lumineux devient un jeu denfant avec le master strobing stick. Sa texture crémeuse apporte  une touche de lumière délicate et irisée à  votre teint
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B01KVCI8Q4/?tag=tolees0d-21)
