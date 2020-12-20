@@ -25,10 +25,10 @@ Tienes [Anpro 15PCS Maquillâge Enfant Jouet Fille Trousse à Maquillage Fille J
 
 ℹ️:
 
-- CADEAU ORIGINAL: ce kit de maquillage pour des petites filles qui adore le maquillage etpeuvent jouer avec ses copines à se maquiller,comme un cadeau de lanniversaire,Noël ,la trousse cosmétique est un jouet dimitation qui avec un peu dappréhension face à sa réaction
-- TRANSPORTER & REALITE: Tous les accessoires qui sont rangés dans une trousse de maquillage violet, facile à stocker et à transporter dans un voyage,cette jolie trousse, très ressemblant à du vrai maquillage, cela évite quelle réclame du maquillage de maman
-- LAVABLE& GARANRIE: Essuyez avec un essuie-tout ou la boule de coton, puis lavez-le avec du savon ou lotion nettoyante à leau tiède.Si vous avez toute question et bienvenu à votre message, la réponse pendant 24 heures, sans souci la bonne solution est notre plaisir, Bien sûr, trousse à Maquillage est préférable de lutiliser sous la surveillance dun adulte pour des enfants plus petits
 - MAQUILLAGE COMPLET: Il y a tout ce qu’il faut pour maquille 15PCS Ensemble de Maquillâge comprend 1 * trousse de maquillage violet avec licorne, 1 * fard à paupières de 6 couleurs, 2 * fard à joues, 2 * vernis à ongles, 1 * autocollant pour les ongles, 1 * séparateur dongles, 1 * lime à ongles, 2 * paillettes, 1 * rouge à lèvres, 1 * huile à lèvres, 1 * crayon à lèvres de 4 couleurs, 1 * Pinceau blush
 - CERTIFICATION DE SECURITE: Anpro Maquillage pour fillette est bien en sécurité et non toxique à lutilisation des enfants comme jouet,la matière est Respectueux de lenvironnement qui possède de des certifications des FDA, EN71,7P, CRSP
+- TRANSPORTER & REALITE: Tous les accessoires qui sont rangés dans une trousse de maquillage violet, facile à stocker et à transporter dans un voyage,cette jolie trousse, très ressemblant à du vrai maquillage, cela évite quelle réclame du maquillage de maman
+- LAVABLE& GARANRIE: Essuyez avec un essuie-tout ou la boule de coton, puis lavez-le avec du savon ou lotion nettoyante à leau tiède.Si vous avez toute question et bienvenu à votre message, la réponse pendant 24 heures, sans souci la bonne solution est notre plaisir, Bien sûr, trousse à Maquillage est préférable de lutiliser sous la surveillance dun adulte pour des enfants plus petits
+- CADEAU ORIGINAL: ce kit de maquillage pour des petites filles qui adore le maquillage etpeuvent jouer avec ses copines à se maquiller,comme un cadeau de lanniversaire,Noël ,la trousse cosmétique est un jouet dimitation qui avec un peu dappréhension face à sa réaction
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07Z7WZ52G/?tag=tolees0d-21)
