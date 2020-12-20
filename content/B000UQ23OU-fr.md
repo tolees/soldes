@@ -25,10 +25,10 @@ Ahora mismo tienes [Invicta 3644 Speedway Montre Unisex acier inoxydable Quartz 
 
 🔎:
 
-- Modèle issu de la collection Invicta Speedway
+- Cette montre Invicta est dotée dune couronne de type verouillage à vis : tourner la couronne dans le sens contraire des aiguilles dune montre puis tirer la couronne pour régler lheure et la date
 - Résistance à leau de 20 bars
 - Mouvement à quartz précis
 - LInvicta 3644 a un boîtier en acier inoxydable de 39 millimètres avec un cadran bleu
-- Cette montre Invicta est dotée dune couronne de type verouillage à vis : tourner la couronne dans le sens contraire des aiguilles dune montre puis tirer la couronne pour régler lheure et la date
+- Modèle issu de la collection Invicta Speedway
 
 [Visítala!!!](https://www.amazon.fr/dp/B000UQ23OU/?tag=tolees0d-21)
