@@ -26,7 +26,7 @@ Ahora mismo tienes [VADIGRAN Savic Caesar Deluxe Cage en Chrome pour Rongeur Gri
 🔎:
 
 - Le Caesar3 double est une cage rongeur. Plate-forme, mangeoire, biberon, râtelier et échelle en bois. Les râtelier, mangeoire et biberon sont intégrés dans les panneaux latéraux.
-- Le rez de chaussée a une grande porte pour un accès et un nettoyage facile. Le dernier étage dispose dune porte dentrée et une porte supérieure pour laccès et le nettoyage.
 - Caesar 3 double est une cage emballée de manière compacte, réduit le volume de transport (0,114 m³).
+- Le rez de chaussée a une grande porte pour un accès et un nettoyage facile. Le dernier étage dispose dune porte dentrée et une porte supérieure pour laccès et le nettoyage.
 
 [Visítala!!!](https://www.amazon.fr/dp/B00MOSSF2G/?tag=tolees0d-21)
