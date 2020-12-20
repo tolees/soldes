@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Descuento del 30.96 % en Police to be or not to be eau de toilett'
-date: 2020-12-19 02:09:01
+date: 2020-12-20 02:47:07
 image: 'https://m.media-amazon.com/images/I/41bT7+198UL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Tienes [Police to be or not to be eau de toilette pour homme 125 ml](https://www
 
 ℹ️:
 
-- 125 ml
-- Eau de Toilette
 - Police To Be - pour Homme
+- Eau de Toilette
 - Eau de toilette Homme Police
 - 125ml Vapo
+- 125 ml
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B007GX5FSG/?tag=tolees0d-21)

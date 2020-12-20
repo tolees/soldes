@@ -25,10 +25,10 @@ Está [Dremel MS50 Lot de 5 lames de découpe latérale rapide dans le bois pour
 
 ℹ️:
 
+- Contenu : 5x Lames découpe latérale rapide bois MS50
+- A utiliser exclusivement avec la scie à chantourner Dremel Motosaw MS20
 - Matériaux compatibles : bois dur, bois tendre, aggloméré, panneaux de bibre, plastiques, PVC, contreplaqué, parquet
 - Découpez rapidement jusquà 18mm de manière latérale, ce qui vous évite dêtre bloqué par le col de cygne de la scie à chantourner
 - La fixation se fait facilement grâce aux ergots des lames (longueur de 100mm)
-- Contenu : 5x Lames découpe latérale rapide bois MS50
-- A utiliser exclusivement avec la scie à chantourner Dremel Motosaw MS20
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00BULW556/?tag=tolees0d-21)

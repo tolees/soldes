@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Le Village - L Écol al 33.06 % de descuento'
-date: 2020-12-19 02:28:05
+date: 2020-12-20 02:41:12
 image: 'https://m.media-amazon.com/images/I/51NhcqYBV+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21'
 descuento: '33.06'
-average: '48.6286206896552'
+average: '48.53238636363639'
 ---
 
 Está [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Crèche des Bébés - Mini Poupées](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21) con 33.06 de descuento por 40.16 EUR (original: 59.99 EUR) en el siguiente enlace!
@@ -25,9 +25,13 @@ Está [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Crèche
 
 ℹ️:
 
-- The tree and school building can be connected in various ways
-- Stimulating imaginative role-play in children
-- Suitable for ages 4 years to 14 years
-- Contains: One school classroom, one tree, two desks, six chairs, one teachers desk, one whiteboard, one bench, assorted accessories
+- Intérieur pour 6 élèves et un(e) instituteur(tric)
+- Age minimum : 3 ans
+- Dimensions : 38 x 33 x 21,5 cm
+- 35 pièces composent le set
+- 35 pièces composent le set
+- Intérieur pour 6 élèves et un(e) instituteur(tric)
+- Dimensions : 38 x 33 x 21,5 cm
+- Age minimum : 3 ans
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21)

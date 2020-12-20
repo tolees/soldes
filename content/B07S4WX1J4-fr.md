@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Game Of Thrones  Le Trône de Fer  - Sais al 50.20 % de descuento'
-date: 2020-12-19 02:31:16
+date: 2020-12-20 02:53:27
 image: 'https://m.media-amazon.com/images/I/517TW2MsH3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07S4WX1J4/?tag=tolees0d-21'
 descuento: '50.20'
-average: '25.88285714285714'
+average: '25.804347826086953'
 ---
 
 Está [Game Of Thrones  Le Trône de Fer  - Saison 8 [Blu-ray]](https://www.amazon.fr/dp/B07S4WX1J4/?tag=tolees0d-21) con 50.20 de descuento por 24.98 EUR (original: 50.16 EUR) en el siguiente enlace!

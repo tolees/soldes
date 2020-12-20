@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Assassin’s Creed Valhalla - Drakkar Edit al 28.58 % de descuento'
-date: 2020-12-19 02:19:46
+date: 2020-12-20 02:43:55
 image: 'https://m.media-amazon.com/images/I/51NgIc5NeQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0882NXS7J/?tag=tolees0d-21'
 descuento: '28.58'
-average: '65.74757575757575'
+average: '65.2841176470588'
 ---
 
 Está [Assassin’s Creed Valhalla - Drakkar Edition](https://www.amazon.fr/dp/B0882NXS7J/?tag=tolees0d-21) con 28.58 de descuento por 49.99 EUR (original: 69.99 EUR) en el siguiente enlace!
@@ -25,10 +25,10 @@ Está [Assassin’s Creed Valhalla - Drakkar Edition](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Un monde ouvert situé dans les ges obscurs du moyen ge
-- Faites grandir votre colonie
-- Menez des raids épiques
 - Écrivez votre propre saga viking
+- Menez des raids épiques
+- Faites grandir votre colonie
 - Un système de combat viscéral
+- Un monde ouvert situé dans les ges obscurs du moyen ge
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B0882NXS7J/?tag=tolees0d-21)

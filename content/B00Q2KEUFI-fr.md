@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Alpha 7 II | Appareil Photo Numériq al 50.06 % de descuento'
-date: 2020-12-19 02:10:12
+date: 2020-12-20 02:47:08
 image: 'https://m.media-amazon.com/images/I/41eXsg6mKvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21'
 descuento: '50.06'
-average: '1055.2533333333329'
+average: '1052.8677862595416'
 ---
 
 Ahora mismo tienes [Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Format   24 2 Mp  Autofocus Hybride Rapide  Stabilisation Interne 5 Axes  Format Vidéo Xavc S   ILCE7M2  A7M2 ](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21) a 899.0 EUR (original: 1800.0 EUR) (50.06 %  de descuento) en el siguiente enlace!
@@ -26,10 +26,10 @@ Ahora mismo tienes [Sony Alpha 7 II | Appareil Photo Numérique Hybride Plein Fo
 🔎:
 
 - Des vidéos expressives : créez des films dune grange qualité visuelle et sonore avec un flou darrière plan puissant et la sensibilité nécessaire pour donner vie à des scènes en basses lumières
-- Détails précis : capteur plein format 24 mp pour fournir des images exceptionnelles
-- Pride de vue stable : stabilisation de limage par le capteur sur 5 axes pour les photos et les vidéos afin de compenser les tremblements de lappareil
 - Rapide et précis : la7ii dispose dun af hybride rapide, pour une mise au point optimale la prise de vue en rafale à 5 images/seconde vous aide à capturer linstant
-- Partagez vos créations : partagez facilement sur vos appareils mobiles grâce à lapplication imaging edge (wi-fi/bluetooth)
 - Température de fonctionnement: 0 - 40°C
+- Partagez vos créations : partagez facilement sur vos appareils mobiles grâce à lapplication imaging edge (wi-fi/bluetooth)
+- Pride de vue stable : stabilisation de limage par le capteur sur 5 axes pour les photos et les vidéos afin de compenser les tremblements de lappareil
+- Détails précis : capteur plein format 24 mp pour fournir des images exceptionnelles
 
 [Visítala!!!](https://www.amazon.fr/dp/B00Q2KEUFI/?tag=tolees0d-21)

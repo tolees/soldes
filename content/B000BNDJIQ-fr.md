@@ -25,10 +25,10 @@ Tienes [Alessi 9090/3 Cafetière Espresso en Acier Inoxydable 18/10 Brillant  Fo
 
 ℹ️:
 
-- Alessi 9090/3 cafetière sspresso en acier inoxydable 18/10 brillant, fond en acier magnétique compatible avec la cuisson par induction, trois tasses
 - Couleur : marron
 - Poids de larticle : 200 g
-- Dimensions du produit (L x l x h) : 1,1 x 2,2 x 1,1 cm
+- Alessi 9090/3 cafetière sspresso en acier inoxydable 18/10 brillant, fond en acier magnétique compatible avec la cuisson par induction, trois tasses
 - Volume : 1 L
+- Dimensions du produit (L x l x h) : 1,1 x 2,2 x 1,1 cm
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B000BNDJIQ/?tag=tolees0d-21)
