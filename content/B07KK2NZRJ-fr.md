@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Columbia Peakfreak Venture S II Mid WP   al 18.14 % de descuento'
+title: 'Discount of 18.14 % for Columbia Peakfreak Venture S II Mid WP  '
 date: 2020-05-23 00:06:40
 image: 'https://m.media-amazon.com/images/I/41b1Fc0IQ-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.14'
 average: '106.41'
 ---
 
-Ahora mismo tienes [Columbia Peakfreak Venture S II Mid WP  Chaussures Multisport Homme  Beige  Elk  Flame   43 EU](https://www.amazon.fr/dp/B07KK2NZRJ/?tag=tolees0d-21) a 106.41 EUR (original: 129.99 EUR) (18.14 %  de descuento) en el siguiente enlace!
+You've got [Columbia Peakfreak Venture S II Mid WP  Chaussures Multisport Homme  Beige  Elk  Flame   43 EU](https://www.amazon.fr/dp/B07KK2NZRJ/?tag=tolees0d-21) with a  18.14 % discount, with final price of 106.41 EUR (original: 129.99 EUR) at the following link:
 
 [![Columbia Peakfreak Venture S II Mid WP  ](https://m.media-amazon.com/images/I/41b1Fc0IQ-L._SL200_.jpg)](https://www.amazon.fr/dp/B07KK2NZRJ/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07KK2NZRJ/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07KK2NZRJ/?tag=tolees0d-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Captain Tsubasa: Rise of New Champions - con un 17.64 % de descuento'
+title: 'Captain Tsubasa: Rise of New Champions - at 17.64 % discount'
 date: 2020-08-21 04:55:33
 image: 'https://m.media-amazon.com/images/I/5132ovgMuOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.64'
 average: '131.468'
 ---
 
-En este momento está [Captain Tsubasa: Rise of New Champions - Edition Collector  Nintendo Switch ](https://www.amazon.fr/dp/B0896NHKF8/?tag=tolees0d-21) a 123.53 EUR (original: 149.99 EUR) (17.64 %  de descuento) en el siguiente enlace!
+With a final price of 123.53 EUR (original: 149.99 EUR) you can find [Captain Tsubasa: Rise of New Champions - Edition Collector  Nintendo Switch ](https://www.amazon.fr/dp/B0896NHKF8/?tag=tolees0d-21) with a  17.64 % discount here:
 
 [![Captain Tsubasa: Rise of New Champions -](https://m.media-amazon.com/images/I/5132ovgMuOL._SL200_.jpg)](https://www.amazon.fr/dp/B0896NHKF8/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B0896NHKF8/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B0896NHKF8/?tag=tolees0d-21)

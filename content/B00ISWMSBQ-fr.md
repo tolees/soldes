@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 35.59 % en Fossil Femme Collier JF01146040'
+title: 'Discount of 35.59 % for Fossil Femme Collier JF01146040'
 date: 2020-09-14 22:52:34
 image: 'https://m.media-amazon.com/images/I/31e8B4jjQwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.59'
 average: '38.0'
 ---
 
-Tienes [Fossil Femme Collier JF01146040](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21) con un 35.59 % de descuento con precio de oferta de 38.0 EUR (original: 59.0 EUR) en el siguiente enlace!
+You've got [Fossil Femme Collier JF01146040](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21) with a  35.59 % discount, with final price of 38.0 EUR (original: 59.0 EUR) at the following link:
 
 [![Fossil Femme Collier JF01146040](https://m.media-amazon.com/images/I/31e8B4jjQwL._SL200_.jpg)](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21)

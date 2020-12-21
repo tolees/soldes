@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Deadly Premonition 2 : A Blessing in Dis con un 20.00 % de descuento'
+title: 'Discount of 20.00 % for Deadly Premonition 2 : A Blessing in Dis'
 date: 2020-08-12 00:23:22
 image: 'https://m.media-amazon.com/images/I/51MLYPTaA8L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '39.99'
 ---
 
-En este momento está [Deadly Premonition 2 : A Blessing in Disguise](https://www.amazon.fr/dp/B088MVX8RY/?tag=tolees0d-21) a 39.99 EUR (original: 49.99 EUR) (20.00 %  de descuento) en el siguiente enlace!
+You've got [Deadly Premonition 2 : A Blessing in Disguise](https://www.amazon.fr/dp/B088MVX8RY/?tag=tolees0d-21) with a  20.00 % discount, with final price of 39.99 EUR (original: 49.99 EUR) at the following link:
 
 [![Deadly Premonition 2 : A Blessing in Dis](https://m.media-amazon.com/images/I/51MLYPTaA8L._SL200_.jpg)](https://www.amazon.fr/dp/B088MVX8RY/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B088MVX8RY/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B088MVX8RY/?tag=tolees0d-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Objectif Olympus M.Zuiko Digital ED 12-2 al 36.60 % de rebaja'
+title: '36.60 % deal for Objectif Olympus M.Zuiko Digital ED 12-2'
 date: 2020-05-29 05:49:37
 image: 'https://m.media-amazon.com/images/I/41a3YP8BETL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.60'
 average: '569.99'
 ---
 
-Tienes [Objectif Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3  zoom universel  compatible tout appareil Micro 4/3  modèles Olympus OM-D & PEN  Panasonic G-series   noir](https://www.amazon.fr/dp/B07NF4CWDY/?tag=tolees0d-21) con precio final de  569.99 EUR (original: 899.0 EUR) (36.60 %  de rebaja) aqui!
+There's a deal [Objectif Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3  zoom universel  compatible tout appareil Micro 4/3  modèles Olympus OM-D & PEN  Panasonic G-series   noir](https://www.amazon.fr/dp/B07NF4CWDY/?tag=tolees0d-21)  with  36.60 % discount, final price tag of  569.99 EUR (original: 899.0 EUR) here:
 
 [![Objectif Olympus M.Zuiko Digital ED 12-2](https://m.media-amazon.com/images/I/41a3YP8BETL._SL200_.jpg)](https://www.amazon.fr/dp/B07NF4CWDY/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B07NF4CWDY/?tag=tolees0d-21)
+[Buy it now!!](https://www.amazon.fr/dp/B07NF4CWDY/?tag=tolees0d-21)

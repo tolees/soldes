@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wasteland 3 : Day One Edition pour Xbox  al 46.57 % de rebaja'
+title: 'Wasteland 3 : Day One Edition pour Xbox  at 46.57 % discount'
 date: 2020-10-02 10:34:32
 image: 'https://m.media-amazon.com/images/I/51bwJ8ztUdL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '46.57'
 average: '32.05'
 ---
 
-Tienes [Wasteland 3 : Day One Edition pour Xbox One](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21) con precio final de  32.05 EUR (original: 59.99 EUR) (46.57 %  de rebaja) aqui!
+With a final price of 32.05 EUR (original: 59.99 EUR) you can find [Wasteland 3 : Day One Edition pour Xbox One](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21) with a  46.57 % discount here:
 
 [![Wasteland 3 : Day One Edition pour Xbox ](https://m.media-amazon.com/images/I/51bwJ8ztUdL._SL200_.jpg)](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21)

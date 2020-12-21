@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Disque Dur SSD HP S700-500Go SATA 2" 1/2 al 19.75 % de descuento'
+title: 'Discount of 19.75 % for Disque Dur SSD HP S700-500Go SATA 2" 1/2'
 date: 2020-09-22 20:23:28
 image: 'https://m.media-amazon.com/images/I/31vSFadoVaL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.75'
 average: '64.19'
 ---
 
-Está [Disque Dur SSD HP S700-500Go SATA 2" 1/2](https://www.amazon.fr/dp/B072K6RNL6/?tag=tolees0d-21) con 19.75 de descuento por 64.19 EUR (original: 79.99 EUR) en el siguiente enlace!
+You've got [Disque Dur SSD HP S700-500Go SATA 2" 1/2](https://www.amazon.fr/dp/B072K6RNL6/?tag=tolees0d-21) with a  19.75 % discount, with final price of 64.19 EUR (original: 79.99 EUR) at the following link:
 
 [![Disque Dur SSD HP S700-500Go SATA 2" 1/2](https://m.media-amazon.com/images/I/31vSFadoVaL._SL200_.jpg)](https://www.amazon.fr/dp/B072K6RNL6/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B072K6RNL6/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B072K6RNL6/?tag=tolees0d-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Eastpak Tranverz L Valise  79 cm  121 L  al 24.12 % de descuento'
+title: 'Eastpak Tranverz L Valise  79 cm  121 L  at 24.12 % discount'
 date: 2020-10-05 17:41:24
 image: 'https://m.media-amazon.com/images/I/41RUjJK4RrL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '24.12'
 average: '129.0'
 ---
 
-Está [Eastpak Tranverz L Valise  79 cm  121 L  Gris  Sunday Grey ](https://www.amazon.fr/dp/B0771JPT1D/?tag=tolees0d-21) con 24.12 de descuento por 129.0 EUR (original: 170.0 EUR) en el siguiente enlace!
+With a final price of 129.0 EUR (original: 170.0 EUR) you can find [Eastpak Tranverz L Valise  79 cm  121 L  Gris  Sunday Grey ](https://www.amazon.fr/dp/B0771JPT1D/?tag=tolees0d-21) with a  24.12 % discount here:
 
 [![Eastpak Tranverz L Valise  79 cm  121 L ](https://m.media-amazon.com/images/I/41RUjJK4RrL._SL200_.jpg)](https://www.amazon.fr/dp/B0771JPT1D/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B0771JPT1D/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B0771JPT1D/?tag=tolees0d-21)

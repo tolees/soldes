@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brooks Brothers Ni Oxford Solid Milano C al 49.14 % de descuento'
+title: 'Discount of 49.14 % for Brooks Brothers Ni Oxford Solid Milano C'
 date: 2020-05-22 22:57:55
 image: 'https://m.media-amazon.com/images/I/31TJ-efuRAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '49.14'
 average: '71.21'
 ---
 
-Está [Brooks Brothers Ni Oxford Solid Milano Chemise Casual  Bleu  Blue Blue   Large  Taille Fabricant: L-  Homme](https://www.amazon.fr/dp/B07NDN8FH6/?tag=tolees0d-21) con 49.14 de descuento por 71.21 EUR (original: 140.0 EUR) en el siguiente enlace!
+You've got [Brooks Brothers Ni Oxford Solid Milano Chemise Casual  Bleu  Blue Blue   Large  Taille Fabricant: L-  Homme](https://www.amazon.fr/dp/B07NDN8FH6/?tag=tolees0d-21) with a  49.14 % discount, with final price of 71.21 EUR (original: 140.0 EUR) at the following link:
 
 [![Brooks Brothers Ni Oxford Solid Milano C](https://m.media-amazon.com/images/I/31TJ-efuRAL._SL200_.jpg)](https://www.amazon.fr/dp/B07NDN8FH6/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07NDN8FH6/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07NDN8FH6/?tag=tolees0d-21)

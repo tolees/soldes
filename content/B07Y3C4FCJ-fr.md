@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR  al 50.01 % de rebaja'
+title: '50.01 % deal for ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR '
 date: 2020-07-21 18:04:34
 image: 'https://m.media-amazon.com/images/I/51eGCC4MGKL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.01'
 average: '19.99'
 ---
 
-Tienes [ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21) con precio final de  19.99 EUR (original: 39.99 EUR) (50.01 %  de rebaja) aqui!
+There's a deal [ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)  with  50.01 % discount, final price tag of  19.99 EUR (original: 39.99 EUR) here:
 
 [![ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR ](https://m.media-amazon.com/images/I/51eGCC4MGKL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)
+[Buy it now!!](https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21)

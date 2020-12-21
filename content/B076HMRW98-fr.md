@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'adidas Core 18 Hoody Sweat-Shirt à Capuc con un 30.16 % de descuento'
+title: 'Discount of 30.16 % for adidas Core 18 Hoody Sweat-Shirt à Capuc'
 date: 2020-09-25 20:10:28
 image: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.16'
 average: '27.919999999999998'
 ---
 
-En este momento está [adidas Core 18 Hoody Sweat-Shirt à Capuche Homme Black/White FR: S  Taille Fabricant: S ](https://www.amazon.fr/dp/B076HMRW98/?tag=tolees0d-21) a 27.9 EUR (original: 39.95 EUR) (30.16 %  de descuento) en el siguiente enlace!
+You've got [adidas Core 18 Hoody Sweat-Shirt à Capuche Homme Black/White FR: S  Taille Fabricant: S ](https://www.amazon.fr/dp/B076HMRW98/?tag=tolees0d-21) with a  30.16 % discount, with final price of 27.9 EUR (original: 39.95 EUR) at the following link:
 
 [![adidas Core 18 Hoody Sweat-Shirt à Capuc](https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg)](https://www.amazon.fr/dp/B076HMRW98/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B076HMRW98/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B076HMRW98/?tag=tolees0d-21)

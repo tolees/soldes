@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Trussardi Jeans Sophie Cross Body Md Eco al 59.95 % de descuento'
+title: 'Discount of 59.95 % for Trussardi Jeans Sophie Cross Body Md Eco'
 date: 2020-08-03 22:19:07
 image: 'https://m.media-amazon.com/images/I/41Y5zVjpekL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '59.95'
 average: '51.66'
 ---
 
-Ahora mismo tienes [Trussardi Jeans Sophie Cross Body Md Ecoleathe  femme  Gris  Gunmetal   18x10.5x29 cm  W x H L ](https://www.amazon.fr/dp/B07L167FDP/?tag=tolees0d-21) a 51.66 EUR (original: 129.0 EUR) (59.95 %  de descuento) en el siguiente enlace!
+You've got [Trussardi Jeans Sophie Cross Body Md Ecoleathe  femme  Gris  Gunmetal   18x10.5x29 cm  W x H L ](https://www.amazon.fr/dp/B07L167FDP/?tag=tolees0d-21) with a  59.95 % discount, with final price of 51.66 EUR (original: 129.0 EUR) at the following link:
 
 [![Trussardi Jeans Sophie Cross Body Md Eco](https://m.media-amazon.com/images/I/41Y5zVjpekL._SL200_.jpg)](https://www.amazon.fr/dp/B07L167FDP/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07L167FDP/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07L167FDP/?tag=tolees0d-21)

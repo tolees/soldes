@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 22.60 % en VAUDE Farley Stretch T-Zip Pantalon II H'
+title: 'Discount of 22.60 % for VAUDE Farley Stretch T-Zip Pantalon II H'
 date: 2020-05-22 20:43:31
 image: 'https://m.media-amazon.com/images/I/31bBDxivFqL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '22.60'
 average: '85.14'
 ---
 
-Tienes [VAUDE Farley Stretch T-Zip Pantalon II Homme  Black  FR : M  Taille Fabricant : 50-Long ](https://www.amazon.fr/dp/B00CWVAWX0/?tag=tolees0d-21) con un 22.60 % de descuento con precio de oferta de 85.14 EUR (original: 110.0 EUR) en el siguiente enlace!
+You've got [VAUDE Farley Stretch T-Zip Pantalon II Homme  Black  FR : M  Taille Fabricant : 50-Long ](https://www.amazon.fr/dp/B00CWVAWX0/?tag=tolees0d-21) with a  22.60 % discount, with final price of 85.14 EUR (original: 110.0 EUR) at the following link:
 
 [![VAUDE Farley Stretch T-Zip Pantalon II H](https://m.media-amazon.com/images/I/31bBDxivFqL._SL200_.jpg)](https://www.amazon.fr/dp/B00CWVAWX0/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00CWVAWX0/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00CWVAWX0/?tag=tolees0d-21)

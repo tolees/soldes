@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Joker al 35.24 % de descuento'
+title: 'Joker at 35.24 % discount'
 date: 2020-06-12 01:18:40
 image: 'https://m.media-amazon.com/images/I/51Qnx+ijrwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.24'
 average: '12.99'
 ---
 
-Ahora mismo tienes [Joker](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21) a 12.99 EUR (original: 20.06 EUR) (35.24 %  de descuento) en el siguiente enlace!
+With a final price of 12.99 EUR (original: 20.06 EUR) you can find [Joker](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21) with a  35.24 % discount here:
 
 [![Joker](https://m.media-amazon.com/images/I/51Qnx+ijrwL._SL200_.jpg)](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Rolling Stones - Havana Moon [Blu-ra con un 44.47 % de descuento'
+title: 'Discount of 44.47 % for The Rolling Stones - Havana Moon [Blu-ra'
 date: 2020-10-10 06:26:55
 image: 'https://m.media-amazon.com/images/I/510WF-1MMSL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '44.47'
 average: '9.99'
 ---
 
-En este momento está [The Rolling Stones - Havana Moon [Blu-ray]](https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21) a 9.99 EUR (original: 17.99 EUR) (44.47 %  de descuento) en el siguiente enlace!
+You've got [The Rolling Stones - Havana Moon [Blu-ray]](https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21) with a  44.47 % discount, with final price of 9.99 EUR (original: 17.99 EUR) at the following link:
 
 [![The Rolling Stones - Havana Moon [Blu-ra](https://m.media-amazon.com/images/I/510WF-1MMSL._SL200_.jpg)](https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21)

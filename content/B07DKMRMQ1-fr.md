@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'NHL 19 al 48.42 % de descuento'
+title: '48.42 % deal for NHL 19'
 date: 2020-08-28 19:43:51
 image: 'https://m.media-amazon.com/images/I/51IU3iTHAZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '48.42'
 average: '36.1'
 ---
 
-Está [NHL 19](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21) con 48.42 de descuento por 36.1 EUR (original: 69.99 EUR) en el siguiente enlace!
+There's a deal [NHL 19](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)  with  48.42 % discount, final price tag of  36.1 EUR (original: 69.99 EUR) here:
 
 [![NHL 19](https://m.media-amazon.com/images/I/51IU3iTHAZL._SL200_.jpg)](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)
+[Buy it now!!](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)

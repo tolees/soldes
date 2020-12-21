@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 54.84 % en Newton Gravity 8 Chaussure De Course à P'
+title: 'Discount of 54.84 % for Newton Gravity 8 Chaussure De Course à P'
 date: 2020-09-16 09:29:14
 image: 'https://m.media-amazon.com/images/I/517+D+nksNL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '54.84'
 average: '78.39'
 ---
 
-Tienes [Newton Gravity 8 Chaussure De Course à Pied - 41](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21) con un 54.84 % de descuento con precio de oferta de 78.39 EUR (original: 173.59 EUR) en el siguiente enlace!
+You've got [Newton Gravity 8 Chaussure De Course à Pied - 41](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21) with a  54.84 % discount, with final price of 78.39 EUR (original: 173.59 EUR) at the following link:
 
 [![Newton Gravity 8 Chaussure De Course à P](https://m.media-amazon.com/images/I/517+D+nksNL._SL200_.jpg)](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21)

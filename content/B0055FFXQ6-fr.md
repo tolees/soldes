@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'New Super Mario Bros. U Deluxe al 31.54 % de descuento'
+title: 'New Super Mario Bros. U Deluxe at 31.54 % discount'
 date: 2020-10-09 06:39:42
 image: 'https://m.media-amazon.com/images/I/51Czz5T9ERL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '31.54'
 average: '44.49'
 ---
 
-Está [New Super Mario Bros. U Deluxe](https://www.amazon.fr/dp/B0055FFXQ6/?tag=tolees0d-21) con 31.54 de descuento por 44.49 EUR (original: 64.99 EUR) en el siguiente enlace!
+With a final price of 44.49 EUR (original: 64.99 EUR) you can find [New Super Mario Bros. U Deluxe](https://www.amazon.fr/dp/B0055FFXQ6/?tag=tolees0d-21) with a  31.54 % discount here:
 
 [![New Super Mario Bros. U Deluxe](https://m.media-amazon.com/images/I/51Czz5T9ERL._SL200_.jpg)](https://www.amazon.fr/dp/B0055FFXQ6/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B0055FFXQ6/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B0055FFXQ6/?tag=tolees0d-21)

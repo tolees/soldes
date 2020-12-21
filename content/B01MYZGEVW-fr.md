@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Les PEPITES al 40.00 % de descuento'
+title: 'Les PEPITES at 40.00 % discount'
 date: 2020-10-03 07:02:59
 image: 'https://m.media-amazon.com/images/I/51Or5HXEGUL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.00'
 average: '6.0'
 ---
 
-Está [Les PEPITES](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21) con 40.00 de descuento por 6.0 EUR (original: 10.0 EUR) en el siguiente enlace!
+With a final price of 6.0 EUR (original: 10.0 EUR) you can find [Les PEPITES](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21) with a  40.00 % discount here:
 
 [![Les PEPITES](https://m.media-amazon.com/images/I/51Or5HXEGUL._SL200_.jpg)](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 18.80 % en Sylvanian Families - 4370 - Le chalet'
+title: 'Discount of 18.80 % for Sylvanian Families - 4370 - Le chalet'
 date: 2020-08-11 18:13:40
 image: 'https://m.media-amazon.com/images/I/51vqlV8G8sL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.80'
 average: '40.59'
 ---
 
-Tienes [Sylvanian Families - 4370 - Le chalet](https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21) con un 18.80 % de descuento con precio de oferta de 40.59 EUR (original: 49.99 EUR) en el siguiente enlace!
+You've got [Sylvanian Families - 4370 - Le chalet](https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21) with a  18.80 % discount, with final price of 40.59 EUR (original: 49.99 EUR) at the following link:
 
 [![Sylvanian Families - 4370 - Le chalet](https://m.media-amazon.com/images/I/51vqlV8G8sL._SL200_.jpg)](https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21)

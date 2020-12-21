@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'BIC Mini Fun Gommes Blanches - Formes As al 17.22 % de rebaja'
+title: 'Discount of 17.22 % for BIC Mini Fun Gommes Blanches - Formes As'
 date: 2020-08-04 13:03:00
 image: 'https://m.media-amazon.com/images/I/51bcr4yb2KL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '17.22'
 average: '13.08'
 ---
 
-Tienes [BIC Mini Fun Gommes Blanches - Formes Assorties  Tubo de 36](https://www.amazon.fr/dp/B00STQV5M4/?tag=tolees0d-21) con precio final de  13.08 EUR (original: 15.8 EUR) (17.22 %  de rebaja) aqui!
+You've got [BIC Mini Fun Gommes Blanches - Formes Assorties  Tubo de 36](https://www.amazon.fr/dp/B00STQV5M4/?tag=tolees0d-21) with a  17.22 % discount, with final price of 13.08 EUR (original: 15.8 EUR) at the following link:
 
 [![BIC Mini Fun Gommes Blanches - Formes As](https://m.media-amazon.com/images/I/51bcr4yb2KL._SL200_.jpg)](https://www.amazon.fr/dp/B00STQV5M4/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B00STQV5M4/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00STQV5M4/?tag=tolees0d-21)

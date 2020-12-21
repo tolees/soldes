@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'KingDian 60GB 120GB 240GB 480GB 1TB 2TB  al 15.00 % de descuento'
+title: 'Discount of 15.00 % for KingDian 60GB 120GB 240GB 480GB 1TB 2TB '
 date: 2020-09-07 13:45:50
 image: 'https://m.media-amazon.com/images/I/31pWkY4ROML._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.00'
 average: '118.99'
 ---
 
-Está [KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D NAND SSD Solid State Drive S280 2TB ](https://www.amazon.fr/dp/B08D9GR91F/?tag=tolees0d-21) con 15.00 de descuento por 118.99 EUR (original: 139.99 EUR) en el siguiente enlace!
+You've got [KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D NAND SSD Solid State Drive S280 2TB ](https://www.amazon.fr/dp/B08D9GR91F/?tag=tolees0d-21) with a  15.00 % discount, with final price of 118.99 EUR (original: 139.99 EUR) at the following link:
 
 [![KingDian 60GB 120GB 240GB 480GB 1TB 2TB ](https://m.media-amazon.com/images/I/31pWkY4ROML._SL200_.jpg)](https://www.amazon.fr/dp/B08D9GR91F/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B08D9GR91F/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B08D9GR91F/?tag=tolees0d-21)

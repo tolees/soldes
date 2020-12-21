@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 34.56 % en Redskins Blouson Cuir Melrose Wonder Hom'
+title: 'Discount of 34.56 % for Redskins Blouson Cuir Melrose Wonder Hom'
 date: 2020-05-22 22:07:38
 image: 'https://m.media-amazon.com/images/I/41vPWhiiXSL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.56'
 average: '245.39'
 ---
 
-Tienes [Redskins Blouson Cuir Melrose Wonder Homme](https://www.amazon.fr/dp/B07RY3DC5T/?tag=tolees0d-21) con un 34.56 % de descuento con precio de oferta de 245.39 EUR (original: 375.0 EUR) en el siguiente enlace!
+You've got [Redskins Blouson Cuir Melrose Wonder Homme](https://www.amazon.fr/dp/B07RY3DC5T/?tag=tolees0d-21) with a  34.56 % discount, with final price of 245.39 EUR (original: 375.0 EUR) at the following link:
 
 [![Redskins Blouson Cuir Melrose Wonder Hom](https://m.media-amazon.com/images/I/41vPWhiiXSL._SL200_.jpg)](https://www.amazon.fr/dp/B07RY3DC5T/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07RY3DC5T/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07RY3DC5T/?tag=tolees0d-21)

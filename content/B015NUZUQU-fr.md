@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 33.54 % en Gankutsuou-Le Comte de Monte-Cristo-Inté'
+title: 'Discount of 33.54 % for Gankutsuou-Le Comte de Monte-Cristo-Inté'
 date: 2020-09-22 15:27:53
 image: 'https://m.media-amazon.com/images/I/61Pzhu8zrAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.54'
 average: '19.99'
 ---
 
-Tienes [Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector [Blu-Ray]](https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21) con un 33.54 % de descuento con precio de oferta de 19.99 EUR (original: 30.08 EUR) en el siguiente enlace!
+You've got [Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector [Blu-Ray]](https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21) with a  33.54 % discount, with final price of 19.99 EUR (original: 30.08 EUR) at the following link:
 
 [![Gankutsuou-Le Comte de Monte-Cristo-Inté](https://m.media-amazon.com/images/I/61Pzhu8zrAL._SL200_.jpg)](https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21)

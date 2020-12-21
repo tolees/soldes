@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Arrête-Moi si tu Peux [Blu-Ray] con un 33.62 % de descuento'
+title: 'Discount of 33.62 % for Arrête-Moi si tu Peux [Blu-Ray]'
 date: 2020-10-04 03:25:23
 image: 'https://m.media-amazon.com/images/I/51Ig-mCVY-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.62'
 average: '9.99'
 ---
 
-En este momento está [Arrête-Moi si tu Peux [Blu-Ray]](https://www.amazon.fr/dp/B00ABIPJ3Y/?tag=tolees0d-21) a 9.99 EUR (original: 15.05 EUR) (33.62 %  de descuento) en el siguiente enlace!
+You've got [Arrête-Moi si tu Peux [Blu-Ray]](https://www.amazon.fr/dp/B00ABIPJ3Y/?tag=tolees0d-21) with a  33.62 % discount, with final price of 9.99 EUR (original: 15.05 EUR) at the following link:
 
 [![Arrête-Moi si tu Peux [Blu-Ray]](https://m.media-amazon.com/images/I/51Ig-mCVY-L._SL200_.jpg)](https://www.amazon.fr/dp/B00ABIPJ3Y/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B00ABIPJ3Y/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00ABIPJ3Y/?tag=tolees0d-21)

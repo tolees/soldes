@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 20.00 % en Helly Hansen 76493 369-C44 Bridgewater P'
+title: 'Discount of 20.00 % for Helly Hansen 76493 369-C44 Bridgewater P'
 date: 2020-08-07 21:27:35
 image: 'https://m.media-amazon.com/images/I/41m+YEA-MtL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '50.15'
 ---
 
-Tienes [Helly Hansen 76493 369-C44 Bridgewater Pantalon de pirate Taille C44 Jaune/Gris Foncé](https://www.amazon.fr/dp/B00DYRSYIG/?tag=tolees0d-21) con un 20.00 % de descuento con precio de oferta de 50.15 EUR (original: 62.69 EUR) en el siguiente enlace!
+You've got [Helly Hansen 76493 369-C44 Bridgewater Pantalon de pirate Taille C44 Jaune/Gris Foncé](https://www.amazon.fr/dp/B00DYRSYIG/?tag=tolees0d-21) with a  20.00 % discount, with final price of 50.15 EUR (original: 62.69 EUR) at the following link:
 
 [![Helly Hansen 76493 369-C44 Bridgewater P](https://m.media-amazon.com/images/I/41m+YEA-MtL._SL200_.jpg)](https://www.amazon.fr/dp/B00DYRSYIG/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00DYRSYIG/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00DYRSYIG/?tag=tolees0d-21)

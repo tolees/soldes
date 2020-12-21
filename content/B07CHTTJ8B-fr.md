@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Levi s SS Original HM Tee T-Shirt  Multi con un 30.00 % de descuento'
+title: 'Discount of 30.00 % for Levi s SS Original HM Tee T-Shirt  Multi'
 date: 2020-09-18 03:34:35
 image: 'https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '17.5'
 ---
 
-En este momento está [Levi s SS Original HM Tee T-Shirt  Multicolore  Cotton + Patch White 0000   Medium Homme](https://www.amazon.fr/dp/B07CHTTJ8B/?tag=tolees0d-21) a 17.5 EUR (original: 25.0 EUR) (30.00 %  de descuento) en el siguiente enlace!
+You've got [Levi s SS Original HM Tee T-Shirt  Multicolore  Cotton + Patch White 0000   Medium Homme](https://www.amazon.fr/dp/B07CHTTJ8B/?tag=tolees0d-21) with a  30.00 % discount, with final price of 17.5 EUR (original: 25.0 EUR) at the following link:
 
 [![Levi s SS Original HM Tee T-Shirt  Multi](https://m.media-amazon.com/images/I/41DZrzX3xzL._SL200_.jpg)](https://www.amazon.fr/dp/B07CHTTJ8B/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B07CHTTJ8B/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07CHTTJ8B/?tag=tolees0d-21)

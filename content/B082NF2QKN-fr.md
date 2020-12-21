@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Wasteland 3 : Day One Edition pour PS4 al 40.61 % de descuento'
+title: 'Discount of 40.61 % for Wasteland 3 : Day One Edition pour PS4'
 date: 2020-10-04 21:12:01
 image: 'https://m.media-amazon.com/images/I/51D8bBm9vnL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.61'
 average: '35.63'
 ---
 
-Ahora mismo tienes [Wasteland 3 : Day One Edition pour PS4](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21) a 35.63 EUR (original: 59.99 EUR) (40.61 %  de descuento) en el siguiente enlace!
+You've got [Wasteland 3 : Day One Edition pour PS4](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21) with a  40.61 % discount, with final price of 35.63 EUR (original: 59.99 EUR) at the following link:
 
 [![Wasteland 3 : Day One Edition pour PS4](https://m.media-amazon.com/images/I/51D8bBm9vnL._SL200_.jpg)](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21)

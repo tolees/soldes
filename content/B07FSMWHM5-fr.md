@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 23.00 % en Philips SH90/70 Têtes de Rasoir pour Ser'
+title: 'Discount of 23.00 % for Philips SH90/70 Têtes de Rasoir pour Ser'
 date: 2020-09-11 22:49:12
 image: 'https://m.media-amazon.com/images/I/513FHBKIu8L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '23.00'
 average: '46.19'
 ---
 
-Tienes [Philips SH90/70 Têtes de Rasoir pour Series 9000](https://www.amazon.fr/dp/B07FSMWHM5/?tag=tolees0d-21) con un 23.00 % de descuento con precio de oferta de 46.19 EUR (original: 59.99 EUR) en el siguiente enlace!
+You've got [Philips SH90/70 Têtes de Rasoir pour Series 9000](https://www.amazon.fr/dp/B07FSMWHM5/?tag=tolees0d-21) with a  23.00 % discount, with final price of 46.19 EUR (original: 59.99 EUR) at the following link:
 
 [![Philips SH90/70 Têtes de Rasoir pour Ser](https://m.media-amazon.com/images/I/513FHBKIu8L._SL200_.jpg)](https://www.amazon.fr/dp/B07FSMWHM5/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07FSMWHM5/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07FSMWHM5/?tag=tolees0d-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'GreedFall con un 60.01 % de descuento'
+title: '60.01 % deal for GreedFall'
 date: 2020-10-11 09:27:14
 image: 'https://m.media-amazon.com/images/I/51BLAoseh0L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '60.01'
 average: '19.99'
 ---
 
-En este momento está [GreedFall](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21) a 19.99 EUR (original: 49.99 EUR) (60.01 %  de descuento) en el siguiente enlace!
+There's a deal [GreedFall](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)  with  60.01 % discount, final price tag of  19.99 EUR (original: 49.99 EUR) here:
 
 [![GreedFall](https://m.media-amazon.com/images/I/51BLAoseh0L._SL200_.jpg)](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)
+[Buy it now!!](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)

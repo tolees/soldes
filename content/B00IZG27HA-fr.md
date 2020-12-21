@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'J.S. Staedtler - Accessoires - Etui en c al 50.11 % de descuento'
+title: 'Discount of 50.11 % for J.S. Staedtler - Accessoires - Etui en c'
 date: 2020-08-10 16:54:20
 image: 'https://m.media-amazon.com/images/I/41utsmU0fHL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.11'
 average: '39.91'
 ---
 
-Ahora mismo tienes [J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21) a 39.91 EUR (original: 80.0 EUR) (50.11 %  de descuento) en el siguiente enlace!
+You've got [J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21) with a  50.11 % discount, with final price of 39.91 EUR (original: 80.0 EUR) at the following link:
 
 [![J.S. Staedtler - Accessoires - Etui en c](https://m.media-amazon.com/images/I/41utsmU0fHL._SL200_.jpg)](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00IZG27HA/?tag=tolees0d-21)

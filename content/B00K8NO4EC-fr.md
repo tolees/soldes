@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Hudson Houghton 2  Bottes Chukka Homme   al 57.18 % de rebaja'
+title: 'Discount of 57.18 % for Hudson Houghton 2  Bottes Chukka Homme  '
 date: 2020-05-22 23:49:47
 image: 'https://m.media-amazon.com/images/I/41Ls2pHNRrL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '57.18'
 average: '53.53'
 ---
 
-Tienes [Hudson Houghton 2  Bottes Chukka Homme  Marron  Calf Tan   44 EU](https://www.amazon.fr/dp/B00K8NO4EC/?tag=tolees0d-21) con precio final de  53.53 EUR (original: 125.0 EUR) (57.18 %  de rebaja) aqui!
+You've got [Hudson Houghton 2  Bottes Chukka Homme  Marron  Calf Tan   44 EU](https://www.amazon.fr/dp/B00K8NO4EC/?tag=tolees0d-21) with a  57.18 % discount, with final price of 53.53 EUR (original: 125.0 EUR) at the following link:
 
 [![Hudson Houghton 2  Bottes Chukka Homme  ](https://m.media-amazon.com/images/I/41Ls2pHNRrL._SL200_.jpg)](https://www.amazon.fr/dp/B00K8NO4EC/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B00K8NO4EC/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00K8NO4EC/?tag=tolees0d-21)

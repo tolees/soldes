@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kavalan Yilan County Amontillado Single  al 15.97 % de descuento'
+title: 'Kavalan Yilan County Amontillado Single  at 15.97 % discount'
 date: 2020-05-22 21:49:19
 image: 'https://m.media-amazon.com/images/I/41Hcplyu9RL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.97'
 average: '281.83'
 ---
 
-Está [Kavalan Yilan County Amontillado Single Malt Whisky 700 ml](https://www.amazon.fr/dp/B01LXRVBSF/?tag=tolees0d-21) con 15.97 de descuento por 281.83 EUR (original: 335.39 EUR) en el siguiente enlace!
+With a final price of 281.83 EUR (original: 335.39 EUR) you can find [Kavalan Yilan County Amontillado Single Malt Whisky 700 ml](https://www.amazon.fr/dp/B01LXRVBSF/?tag=tolees0d-21) with a  15.97 % discount here:
 
 [![Kavalan Yilan County Amontillado Single ](https://m.media-amazon.com/images/I/41Hcplyu9RL._SL200_.jpg)](https://www.amazon.fr/dp/B01LXRVBSF/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01LXRVBSF/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B01LXRVBSF/?tag=tolees0d-21)

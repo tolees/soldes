@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Kipling College Up Cartable  42 cm  32 l con un 23.23 % de descuento'
+title: 'Discount of 23.23 % for Kipling College Up Cartable  42 cm  32 l'
 date: 2020-05-22 20:29:04
 image: 'https://m.media-amazon.com/images/I/51pMBOuoKwL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '23.23'
 average: '99.72'
 ---
 
-En este momento está [Kipling College Up Cartable  42 cm  32 liters  Turquoise  Bright Aqua C ](https://www.amazon.fr/dp/B07BHST5C3/?tag=tolees0d-21) a 99.72 EUR (original: 129.9 EUR) (23.23 %  de descuento) en el siguiente enlace!
+You've got [Kipling College Up Cartable  42 cm  32 liters  Turquoise  Bright Aqua C ](https://www.amazon.fr/dp/B07BHST5C3/?tag=tolees0d-21) with a  23.23 % discount, with final price of 99.72 EUR (original: 129.9 EUR) at the following link:
 
 [![Kipling College Up Cartable  42 cm  32 l](https://m.media-amazon.com/images/I/51pMBOuoKwL._SL200_.jpg)](https://www.amazon.fr/dp/B07BHST5C3/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B07BHST5C3/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07BHST5C3/?tag=tolees0d-21)

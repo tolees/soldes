@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Captain Tsubasa : Rise of New Champions  al 25.00 % de descuento'
+title: 'Discount of 25.00 % for Captain Tsubasa : Rise of New Champions '
 date: 2020-08-08 06:04:30
 image: 'https://m.media-amazon.com/images/I/51zDvdQjqaL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.00'
 average: '44.99'
 ---
 
-Está [Captain Tsubasa : Rise of New Champions Nintendo Switch](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21) con 25.00 de descuento por 44.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+You've got [Captain Tsubasa : Rise of New Champions Nintendo Switch](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21) with a  25.00 % discount, with final price of 44.99 EUR (original: 59.99 EUR) at the following link:
 
 [![Captain Tsubasa : Rise of New Champions ](https://m.media-amazon.com/images/I/51zDvdQjqaL._SL200_.jpg)](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)

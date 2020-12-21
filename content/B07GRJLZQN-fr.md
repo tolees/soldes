@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tom Clancy s The Division 2 - Edition Go al 66.16 % de descuento'
+title: 'Tom Clancy s The Division 2 - Edition Go at 66.16 % discount'
 date: 2020-05-22 22:40:37
 image: 'https://m.media-amazon.com/images/I/51xd2LqRwEL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '66.16'
 average: '33.84'
 ---
 
-Ahora mismo tienes [Tom Clancy s The Division 2 - Edition Gold](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21) a 33.84 EUR (original: 99.99 EUR) (66.16 %  de descuento) en el siguiente enlace!
+With a final price of 33.84 EUR (original: 99.99 EUR) you can find [Tom Clancy s The Division 2 - Edition Gold](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21) with a  66.16 % discount here:
 
 [![Tom Clancy s The Division 2 - Edition Go](https://m.media-amazon.com/images/I/51xd2LqRwEL._SL200_.jpg)](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 32.14 % en SILS Maria'
+title: 'SILS Maria at 32.14 % discount'
 date: 2020-10-02 21:48:15
 image: 'https://m.media-amazon.com/images/I/41LOY3kUb-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '32.14'
 average: '6.8'
 ---
 
-Tienes [SILS Maria](https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21) con un 32.14 % de descuento con precio de oferta de 6.8 EUR (original: 10.02 EUR) en el siguiente enlace!
+With a final price of 6.8 EUR (original: 10.02 EUR) you can find [SILS Maria](https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21) with a  32.14 % discount here:
 
 [![SILS Maria](https://m.media-amazon.com/images/I/41LOY3kUb-L._SL200_.jpg)](https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21)

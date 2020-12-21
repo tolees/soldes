@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Merrell Thermo Freeze Mid WP  Chaussures con un 20.05 % de descuento'
+title: 'Discount of 20.05 % for Merrell Thermo Freeze Mid WP  Chaussures'
 date: 2020-05-22 21:20:31
 image: 'https://m.media-amazon.com/images/I/41QtrSXZrJL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.05'
 average: '151.9'
 ---
 
-En este momento está [Merrell Thermo Freeze Mid WP  Chaussures de Randonnée Hautes Homme  Noir  Black   44.5 EU](https://www.amazon.fr/dp/B078NGCJ3N/?tag=tolees0d-21) a 151.9 EUR (original: 190.0 EUR) (20.05 %  de descuento) en el siguiente enlace!
+You've got [Merrell Thermo Freeze Mid WP  Chaussures de Randonnée Hautes Homme  Noir  Black   44.5 EU](https://www.amazon.fr/dp/B078NGCJ3N/?tag=tolees0d-21) with a  20.05 % discount, with final price of 151.9 EUR (original: 190.0 EUR) at the following link:
 
 [![Merrell Thermo Freeze Mid WP  Chaussures](https://m.media-amazon.com/images/I/41QtrSXZrJL._SL200_.jpg)](https://www.amazon.fr/dp/B078NGCJ3N/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B078NGCJ3N/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B078NGCJ3N/?tag=tolees0d-21)

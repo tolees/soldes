@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Pitch Perfect 2 al 40.12 % de rebaja'
+title: '40.12 % deal for Pitch Perfect 2'
 date: 2020-10-03 11:13:02
 image: 'https://m.media-amazon.com/images/I/51xPbvdt0SL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.12'
 average: '6.0'
 ---
 
-Tienes [Pitch Perfect 2](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21) con precio final de  6.0 EUR (original: 10.02 EUR) (40.12 %  de rebaja) aqui!
+There's a deal [Pitch Perfect 2](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21)  with  40.12 % discount, final price tag of  6.0 EUR (original: 10.02 EUR) here:
 
 [![Pitch Perfect 2](https://m.media-amazon.com/images/I/51xPbvdt0SL._SL200_.jpg)](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21)
+[Buy it now!!](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21)

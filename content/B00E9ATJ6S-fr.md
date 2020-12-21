@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Certina c026.407.16.037.00 Montre pour H al 20.00 % de descuento'
+title: 'Discount of 20.00 % for Certina c026.407.16.037.00 Montre pour H'
 date: 2020-08-06 07:04:09
 image: 'https://m.media-amazon.com/images/I/41Rh5QQvJ+L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '370.62'
 ---
 
-Está [Certina c026.407.16.037.00 Montre pour Hommes en Cuir analogique Automatique Taille XL](https://www.amazon.fr/dp/B00E9ATJ6S/?tag=tolees0d-21) con 20.00 de descuento por 370.62 EUR (original: 463.27 EUR) en el siguiente enlace!
+You've got [Certina c026.407.16.037.00 Montre pour Hommes en Cuir analogique Automatique Taille XL](https://www.amazon.fr/dp/B00E9ATJ6S/?tag=tolees0d-21) with a  20.00 % discount, with final price of 370.62 EUR (original: 463.27 EUR) at the following link:
 
 [![Certina c026.407.16.037.00 Montre pour H](https://m.media-amazon.com/images/I/41Rh5QQvJ+L._SL200_.jpg)](https://www.amazon.fr/dp/B00E9ATJ6S/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B00E9ATJ6S/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00E9ATJ6S/?tag=tolees0d-21)

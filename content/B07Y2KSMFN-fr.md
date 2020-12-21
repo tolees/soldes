@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Nero Platinum Unlimited al 50.01 % de descuento'
+title: 'Discount of 50.01 % for Nero Platinum Unlimited'
 date: 2020-09-14 10:27:43
 image: 'https://m.media-amazon.com/images/I/41SUPhEjKIL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.01'
 average: '49.99'
 ---
 
-Ahora mismo tienes [Nero Platinum Unlimited](https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21) a 49.99 EUR (original: 99.99 EUR) (50.01 %  de descuento) en el siguiente enlace!
+You've got [Nero Platinum Unlimited](https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21) with a  50.01 % discount, with final price of 49.99 EUR (original: 99.99 EUR) at the following link:
 
 [![Nero Platinum Unlimited](https://m.media-amazon.com/images/I/41SUPhEjKIL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21)

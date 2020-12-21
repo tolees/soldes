@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mennekes 101700017 bases Schuko. 16 A/23 al 60.02 % de descuento'
+title: 'Discount of 60.02 % for Mennekes 101700017 bases Schuko. 16 A/23'
 date: 2020-08-05 21:04:09
 image: 'https://m.media-amazon.com/images/I/41Hc3neQejL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '60.02'
 average: '9.72'
 ---
 
-Está [Mennekes 101700017 bases Schuko. 16 A/230 V  prise de courant  degré de protection IP 68  10 Package  Bleu](https://www.amazon.fr/dp/B000UXF36I/?tag=tolees0d-21) con 60.02 de descuento por 9.72 EUR (original: 24.31 EUR) en el siguiente enlace!
+You've got [Mennekes 101700017 bases Schuko. 16 A/230 V  prise de courant  degré de protection IP 68  10 Package  Bleu](https://www.amazon.fr/dp/B000UXF36I/?tag=tolees0d-21) with a  60.02 % discount, with final price of 9.72 EUR (original: 24.31 EUR) at the following link:
 
 [![Mennekes 101700017 bases Schuko. 16 A/23](https://m.media-amazon.com/images/I/41Hc3neQejL._SL200_.jpg)](https://www.amazon.fr/dp/B000UXF36I/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B000UXF36I/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B000UXF36I/?tag=tolees0d-21)

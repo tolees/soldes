@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LIGHTAILING Jeu De Lumières pour  Archit con un 50.01 % de descuento'
+title: 'Discount of 50.01 % for LIGHTAILING Jeu De Lumières pour  Archit'
 date: 2020-08-04 06:33:07
 image: 'https://m.media-amazon.com/images/I/41UeB4nIs7L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.01'
 average: '39.99'
 ---
 
-En este momento está [LIGHTAILING Jeu De Lumières pour  Architecture New York  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21028 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B07TG8PGGB/?tag=tolees0d-21) a 39.99 EUR (original: 80.0 EUR) (50.01 %  de descuento) en el siguiente enlace!
+You've got [LIGHTAILING Jeu De Lumières pour  Architecture New York  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21028 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B07TG8PGGB/?tag=tolees0d-21) with a  50.01 % discount, with final price of 39.99 EUR (original: 80.0 EUR) at the following link:
 
 [![LIGHTAILING Jeu De Lumières pour  Archit](https://m.media-amazon.com/images/I/41UeB4nIs7L._SL200_.jpg)](https://www.amazon.fr/dp/B07TG8PGGB/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B07TG8PGGB/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07TG8PGGB/?tag=tolees0d-21)

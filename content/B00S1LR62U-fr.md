@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Older al 45.28 % de descuento'
+title: 'Discount of 45.28 % for Older'
 date: 2020-10-01 07:02:05
 image: 'https://m.media-amazon.com/images/I/31zMd62JpyL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.28'
 average: '7.950000000000001'
 ---
 
-Ahora mismo tienes [Older](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21) a 7.65 EUR (original: 13.98 EUR) (45.28 %  de descuento) en el siguiente enlace!
+You've got [Older](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21) with a  45.28 % discount, with final price of 7.65 EUR (original: 13.98 EUR) at the following link:
 
 [![Older](https://m.media-amazon.com/images/I/31zMd62JpyL._SL200_.jpg)](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21)

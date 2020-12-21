@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Spyro Reignited Trilogy  Switch  con un 25.23 % de descuento'
+title: 'Discount of 25.23 % for Spyro Reignited Trilogy  Switch '
 date: 2020-10-02 21:36:25
 image: 'https://m.media-amazon.com/images/I/51ymPcfTVAL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '25.23'
 average: '29.8375'
 ---
 
-En este momento está [Spyro Reignited Trilogy  Switch ](https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21) a 29.9 EUR (original: 39.99 EUR) (25.23 %  de descuento) en el siguiente enlace!
+You've got [Spyro Reignited Trilogy  Switch ](https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21) with a  25.23 % discount, with final price of 29.9 EUR (original: 39.99 EUR) at the following link:
 
 [![Spyro Reignited Trilogy  Switch ](https://m.media-amazon.com/images/I/51ymPcfTVAL._SL200_.jpg)](https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21)

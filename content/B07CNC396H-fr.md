@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'DJI - Tello GameSir - Manette pour Tello al 21.00 % de descuento'
+title: 'DJI - Tello GameSir - Manette pour Tello at 21.00 % discount'
 date: 2020-08-28 11:24:06
 image: 'https://m.media-amazon.com/images/I/41p6Aam2aTL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '21.00'
 average: '29.675000000000004'
 ---
 
-Está [DJI - Tello GameSir - Manette pour Tello - Radiocommande Dron Tello - Control à distance - Compatible iOs et Android - Connexion GCM - Noir](https://www.amazon.fr/dp/B07CNC396H/?tag=tolees0d-21) con 21.00 de descuento por 26.86 EUR (original: 34.0 EUR) en el siguiente enlace!
+With a final price of 26.86 EUR (original: 34.0 EUR) you can find [DJI - Tello GameSir - Manette pour Tello - Radiocommande Dron Tello - Control à distance - Compatible iOs et Android - Connexion GCM - Noir](https://www.amazon.fr/dp/B07CNC396H/?tag=tolees0d-21) with a  21.00 % discount here:
 
 [![DJI - Tello GameSir - Manette pour Tello](https://m.media-amazon.com/images/I/41p6Aam2aTL._SL200_.jpg)](https://www.amazon.fr/dp/B07CNC396H/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07CNC396H/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B07CNC396H/?tag=tolees0d-21)

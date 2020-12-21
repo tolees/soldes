@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Tony Hawk s Pro Skater 1+2 - Exclusif Am con un 15.22 % de descuento'
+title: '15.22 % deal for Tony Hawk s Pro Skater 1+2 - Exclusif Am'
 date: 2020-08-11 18:21:22
 image: 'https://m.media-amazon.com/images/I/61lNZ1vmkXL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '15.22'
 average: '38.99'
 ---
 
-En este momento está [Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox One ](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21) a 38.99 EUR (original: 45.99 EUR) (15.22 %  de descuento) en el siguiente enlace!
+There's a deal [Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox One ](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)  with  15.22 % discount, final price tag of  38.99 EUR (original: 45.99 EUR) here:
 
 [![Tony Hawk s Pro Skater 1+2 - Exclusif Am](https://m.media-amazon.com/images/I/61lNZ1vmkXL._SL200_.jpg)](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)
+[Buy it now!!](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)

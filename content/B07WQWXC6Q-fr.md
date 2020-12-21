@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'ALLPOWERS 50W 12V 18V Monocrystalline So al 50.00 % de descuento'
+title: 'ALLPOWERS 50W 12V 18V Monocrystalline So at 50.00 % discount'
 date: 2020-08-07 06:27:13
 image: 'https://m.media-amazon.com/images/I/51Xn8vFOuGL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.00'
 average: '149.99'
 ---
 
-Está [ALLPOWERS 50W 12V 18V Monocrystalline Solar Panel with Zipper  Adjustable Pet Stand  Dual 5V USB 18V DC Output Foldable Solar Charger Waterproof for Laptop Cell Phone Tablet Camera Power Bank](https://www.amazon.fr/dp/B07WQWXC6Q/?tag=tolees0d-21) con 50.00 de descuento por 149.99 EUR (original: 299.99 EUR) en el siguiente enlace!
+With a final price of 149.99 EUR (original: 299.99 EUR) you can find [ALLPOWERS 50W 12V 18V Monocrystalline Solar Panel with Zipper  Adjustable Pet Stand  Dual 5V USB 18V DC Output Foldable Solar Charger Waterproof for Laptop Cell Phone Tablet Camera Power Bank](https://www.amazon.fr/dp/B07WQWXC6Q/?tag=tolees0d-21) with a  50.00 % discount here:
 
 [![ALLPOWERS 50W 12V 18V Monocrystalline So](https://m.media-amazon.com/images/I/51Xn8vFOuGL._SL200_.jpg)](https://www.amazon.fr/dp/B07WQWXC6Q/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07WQWXC6Q/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B07WQWXC6Q/?tag=tolees0d-21)

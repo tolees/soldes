@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'POC Spine VPD air Vest Protective Mixte  al 33.52 % de descuento'
+title: 'Discount of 33.52 % for POC Spine VPD air Vest Protective Mixte '
 date: 2020-05-22 21:41:42
 image: 'https://m.media-amazon.com/images/I/41Kxy2EUFtL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '33.52'
 average: '99.68'
 ---
 
-Ahora mismo tienes [POC Spine VPD air Vest Protective Mixte Adulte  Uranium Black  Large Slim](https://www.amazon.fr/dp/B01GTNK2KY/?tag=tolees0d-21) a 99.68 EUR (original: 149.95 EUR) (33.52 %  de descuento) en el siguiente enlace!
+You've got [POC Spine VPD air Vest Protective Mixte Adulte  Uranium Black  Large Slim](https://www.amazon.fr/dp/B01GTNK2KY/?tag=tolees0d-21) with a  33.52 % discount, with final price of 99.68 EUR (original: 149.95 EUR) at the following link:
 
 [![POC Spine VPD air Vest Protective Mixte ](https://m.media-amazon.com/images/I/41Kxy2EUFtL._SL200_.jpg)](https://www.amazon.fr/dp/B01GTNK2KY/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B01GTNK2KY/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B01GTNK2KY/?tag=tolees0d-21)

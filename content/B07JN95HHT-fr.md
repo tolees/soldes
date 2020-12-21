@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 50.44 % en Buffalo Cali  Sneakers Basses Femme  Mul'
+title: 'Discount of 50.44 % for Buffalo Cali  Sneakers Basses Femme  Mul'
 date: 2020-05-22 23:45:34
 image: 'https://m.media-amazon.com/images/I/41wYmD59gcL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '50.44'
 average: '49.51'
 ---
 
-Tienes [Buffalo Cali  Sneakers Basses Femme  Multicolore  Pink/White 000   36 EU](https://www.amazon.fr/dp/B07JN95HHT/?tag=tolees0d-21) con un 50.44 % de descuento con precio de oferta de 49.51 EUR (original: 99.9 EUR) en el siguiente enlace!
+You've got [Buffalo Cali  Sneakers Basses Femme  Multicolore  Pink/White 000   36 EU](https://www.amazon.fr/dp/B07JN95HHT/?tag=tolees0d-21) with a  50.44 % discount, with final price of 49.51 EUR (original: 99.9 EUR) at the following link:
 
 [![Buffalo Cali  Sneakers Basses Femme  Mul](https://m.media-amazon.com/images/I/41wYmD59gcL._SL200_.jpg)](https://www.amazon.fr/dp/B07JN95HHT/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07JN95HHT/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07JN95HHT/?tag=tolees0d-21)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Brothers in Bamako [Import Allemand] al 45.43 % de descuento'
+title: 'Discount of 45.43 % for Brothers in Bamako [Import Allemand]'
 date: 2020-10-05 19:20:05
 image: 'https://m.media-amazon.com/images/I/51TGnZnHaHL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.43'
 average: '9.25'
 ---
 
-Está [Brothers in Bamako [Import Allemand]](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21) con 45.43 de descuento por 9.25 EUR (original: 16.95 EUR) en el siguiente enlace!
+You've got [Brothers in Bamako [Import Allemand]](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21) with a  45.43 % discount, with final price of 9.25 EUR (original: 16.95 EUR) at the following link:
 
 [![Brothers in Bamako [Import Allemand]](https://m.media-amazon.com/images/I/51TGnZnHaHL._SL200_.jpg)](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21)

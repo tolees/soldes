@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Astérix & Obélix XXL 3 : le Menhir de Cr al 36.50 % de rebaja'
+title: '36.50 % deal for Astérix & Obélix XXL 3 : le Menhir de Cr'
 date: 2020-08-28 00:11:35
 image: 'https://m.media-amazon.com/images/I/510wUeNcevL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '36.50'
 average: '31.75'
 ---
 
-Tienes [Astérix & Obélix XXL 3 : le Menhir de Cristal Edition Limitée pour Xbox One](https://www.amazon.fr/dp/B07WHC394C/?tag=tolees0d-21) con precio final de  31.75 EUR (original: 50.0 EUR) (36.50 %  de rebaja) aqui!
+There's a deal [Astérix & Obélix XXL 3 : le Menhir de Cristal Edition Limitée pour Xbox One](https://www.amazon.fr/dp/B07WHC394C/?tag=tolees0d-21)  with  36.50 % discount, final price tag of  31.75 EUR (original: 50.0 EUR) here:
 
 [![Astérix & Obélix XXL 3 : le Menhir de Cr](https://m.media-amazon.com/images/I/510wUeNcevL._SL200_.jpg)](https://www.amazon.fr/dp/B07WHC394C/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B07WHC394C/?tag=tolees0d-21)
+[Buy it now!!](https://www.amazon.fr/dp/B07WHC394C/?tag=tolees0d-21)

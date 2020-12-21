@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Feral roots al 53.37 % de rebaja'
+title: 'Feral roots at 53.37 % discount'
 date: 2020-09-15 05:53:47
 image: 'https://m.media-amazon.com/images/I/61-5nvd51dL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '53.37'
 average: '6.99'
 ---
 
-Tienes [Feral roots](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21) con precio final de  6.99 EUR (original: 14.99 EUR) (53.37 %  de rebaja) aqui!
+With a final price of 6.99 EUR (original: 14.99 EUR) you can find [Feral roots](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21) with a  53.37 % discount here:
 
 [![Feral roots](https://m.media-amazon.com/images/I/61-5nvd51dL._SL200_.jpg)](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21)

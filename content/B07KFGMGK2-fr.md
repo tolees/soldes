@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Truma 30090-00042 Set d allumage piézo al 20.00 % de descuento'
+title: 'Discount of 20.00 % for Truma 30090-00042 Set d allumage piézo'
 date: 2020-08-07 18:38:29
 image: 'https://m.media-amazon.com/images/I/31O-2ieV+2L._SL500_._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '49.39'
 ---
 
-Ahora mismo tienes [Truma 30090-00042 Set d allumage piézo](https://www.amazon.fr/dp/B07KFGMGK2/?tag=tolees0d-21) a 49.39 EUR (original: 61.74 EUR) (20.00 %  de descuento) en el siguiente enlace!
+You've got [Truma 30090-00042 Set d allumage piézo](https://www.amazon.fr/dp/B07KFGMGK2/?tag=tolees0d-21) with a  20.00 % discount, with final price of 49.39 EUR (original: 61.74 EUR) at the following link:
 
 [![Truma 30090-00042 Set d allumage piézo](https://m.media-amazon.com/images/I/31O-2ieV+2L._SL500_._SL200_.jpg)](https://www.amazon.fr/dp/B07KFGMGK2/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07KFGMGK2/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07KFGMGK2/?tag=tolees0d-21)

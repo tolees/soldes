@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Sony Objectif SAL-1650 Monture A APS-C 1 con un 18.45 % de descuento'
+title: '18.45 % deal for Sony Objectif SAL-1650 Monture A APS-C 1'
 date: 2020-05-22 23:05:41
 image: 'https://m.media-amazon.com/images/I/41Im1-zbCmL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '18.45'
 average: '570.83'
 ---
 
-En este momento está [Sony Objectif SAL-1650 Monture A APS-C 16-50mm F2.8](https://www.amazon.fr/dp/B005NGH1A8/?tag=tolees0d-21) a 570.83 EUR (original: 700.0 EUR) (18.45 %  de descuento) en el siguiente enlace!
+There's a deal [Sony Objectif SAL-1650 Monture A APS-C 16-50mm F2.8](https://www.amazon.fr/dp/B005NGH1A8/?tag=tolees0d-21)  with  18.45 % discount, final price tag of  570.83 EUR (original: 700.0 EUR) here:
 
 [![Sony Objectif SAL-1650 Monture A APS-C 1](https://m.media-amazon.com/images/I/41Im1-zbCmL._SL200_.jpg)](https://www.amazon.fr/dp/B005NGH1A8/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B005NGH1A8/?tag=tolees0d-21)
+[Buy it now!!](https://www.amazon.fr/dp/B005NGH1A8/?tag=tolees0d-21)

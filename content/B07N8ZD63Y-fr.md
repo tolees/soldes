@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Foscam - FI9902P - Caméra IP Wi-FI extér con un 34.73 % de descuento'
+title: 'Discount of 34.73 % for Foscam - FI9902P - Caméra IP Wi-FI extér'
 date: 2020-10-05 19:19:10
 image: 'https://m.media-amazon.com/images/I/31kzWtVOKkL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '34.73'
 average: '65.2'
 ---
 
-En este momento está [Foscam - FI9902P - Caméra IP Wi-FI extérieure 1080P](https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21) a 65.2 EUR (original: 99.9 EUR) (34.73 %  de descuento) en el siguiente enlace!
+You've got [Foscam - FI9902P - Caméra IP Wi-FI extérieure 1080P](https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21) with a  34.73 % discount, with final price of 65.2 EUR (original: 99.9 EUR) at the following link:
 
 [![Foscam - FI9902P - Caméra IP Wi-FI extér](https://m.media-amazon.com/images/I/31kzWtVOKkL._SL200_.jpg)](https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Aquí!!!](https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21)

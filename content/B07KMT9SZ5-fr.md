@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Descuento del 20.00 % en Kaba Cylindre Haute sécurité + Renfort M'
+title: 'Discount of 20.00 % for Kaba Cylindre Haute sécurité + Renfort M'
 date: 2020-08-05 14:43:56
 image: 'https://m.media-amazon.com/images/I/31v-vNfFqjL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '81.54'
 ---
 
-Tienes [Kaba Cylindre Haute sécurité + Renfort Matrix 30 x 50 Laiton 5 clés LK Double EMB+ Lame  Doré  0](https://www.amazon.fr/dp/B07KMT9SZ5/?tag=tolees0d-21) con un 20.00 % de descuento con precio de oferta de 81.54 EUR (original: 101.92 EUR) en el siguiente enlace!
+You've got [Kaba Cylindre Haute sécurité + Renfort Matrix 30 x 50 Laiton 5 clés LK Double EMB+ Lame  Doré  0](https://www.amazon.fr/dp/B07KMT9SZ5/?tag=tolees0d-21) with a  20.00 % discount, with final price of 81.54 EUR (original: 101.92 EUR) at the following link:
 
 [![Kaba Cylindre Haute sécurité + Renfort M](https://m.media-amazon.com/images/I/31v-vNfFqjL._SL200_.jpg)](https://www.amazon.fr/dp/B07KMT9SZ5/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07KMT9SZ5/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07KMT9SZ5/?tag=tolees0d-21)

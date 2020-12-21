@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO® Marvel Super Heroes™ Captain Ameri al 20.01 % de descuento'
+title: 'Discount of 20.01 % for LEGO® Marvel Super Heroes™ Captain Ameri'
 date: 2020-09-03 22:20:58
 image: 'https://m.media-amazon.com/images/I/51hgxCHT9iL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.01'
 average: '19.99'
 ---
 
-Está [LEGO® Marvel Super Heroes™ Captain America et l attaque des Outriders Jeu 6 Ans et Plus  167 Pièces  76123](https://www.amazon.fr/dp/B07FNTTF41/?tag=tolees0d-21) con 20.01 de descuento por 19.99 EUR (original: 24.99 EUR) en el siguiente enlace!
+You've got [LEGO® Marvel Super Heroes™ Captain America et l attaque des Outriders Jeu 6 Ans et Plus  167 Pièces  76123](https://www.amazon.fr/dp/B07FNTTF41/?tag=tolees0d-21) with a  20.01 % discount, with final price of 19.99 EUR (original: 24.99 EUR) at the following link:
 
 [![LEGO® Marvel Super Heroes™ Captain Ameri](https://m.media-amazon.com/images/I/51hgxCHT9iL._SL200_.jpg)](https://www.amazon.fr/dp/B07FNTTF41/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07FNTTF41/?tag=tolees0d-21)
+[Check the deal!!](https://www.amazon.fr/dp/B07FNTTF41/?tag=tolees0d-21)

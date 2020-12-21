@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Split [Blu-Ray] al 40.27 % de rebaja'
+title: 'Split [Blu-Ray] at 40.27 % discount'
 date: 2020-10-04 03:25:05
 image: 'https://m.media-amazon.com/images/I/51cAOC9Z28L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.27'
 average: '8.99'
 ---
 
-Tienes [Split [Blu-Ray]](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21) con precio final de  8.99 EUR (original: 15.05 EUR) (40.27 %  de rebaja) aqui!
+With a final price of 8.99 EUR (original: 15.05 EUR) you can find [Split [Blu-Ray]](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21) with a  40.27 % discount here:
 
 [![Split [Blu-Ray]](https://m.media-amazon.com/images/I/51cAOC9Z28L._SL200_.jpg)](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Comprar!!!](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B06XRMQS4S/?tag=tolees0d-21)

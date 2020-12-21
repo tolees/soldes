@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Live at Montreux 1991 [Blu-ray] al 44.47 % de descuento'
+title: 'Live at Montreux 1991 [Blu-ray] at 44.47 % discount'
 date: 2020-10-12 07:38:15
 image: 'https://m.media-amazon.com/images/I/51R-fXuhZZL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '44.47'
 average: '9.99'
 ---
 
-Está [Live at Montreux 1991 [Blu-ray]](https://www.amazon.fr/dp/B01HDBZGDE/?tag=tolees0d-21) con 44.47 de descuento por 9.99 EUR (original: 17.99 EUR) en el siguiente enlace!
+With a final price of 9.99 EUR (original: 17.99 EUR) you can find [Live at Montreux 1991 [Blu-ray]](https://www.amazon.fr/dp/B01HDBZGDE/?tag=tolees0d-21) with a  44.47 % discount here:
 
 [![Live at Montreux 1991 [Blu-ray]](https://m.media-amazon.com/images/I/51R-fXuhZZL._SL200_.jpg)](https://www.amazon.fr/dp/B01HDBZGDE/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B01HDBZGDE/?tag=tolees0d-21)
+[Buy it!!](https://www.amazon.fr/dp/B01HDBZGDE/?tag=tolees0d-21)
