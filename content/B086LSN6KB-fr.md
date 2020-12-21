@@ -19,11 +19,11 @@ descuento: '40.19'
 average: '29.9'
 ---
 
-Ahora mismo tienes [Bioshock : The Collection](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21) a 29.9 EUR (original: 49.99 EUR) (40.19 %  de descuento) en el siguiente enlace!
+Está [Bioshock : The Collection](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21) con 40.19 de descuento por 29.9 EUR (original: 49.99 EUR) en el siguiente enlace!
 
 [![Bioshock : The Collection](https://m.media-amazon.com/images/I/414eSFAf-UL._SL200_.jpg)](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)

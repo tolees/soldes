@@ -19,11 +19,11 @@ descuento: '45.00'
 average: '48.95'
 ---
 
-Está [Guess Painted/Active Lady/Leather Li  Chaussures de Gymnastique Femme  Noir  Black Black   40 EU](https://www.amazon.fr/dp/B07RWJTXZQ/?tag=tolees0d-21) con 45.00 de descuento por 48.95 EUR (original: 89.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Guess Painted/Active Lady/Leather Li  Chaussures de Gymnastique Femme  Noir  Black Black   40 EU](https://www.amazon.fr/dp/B07RWJTXZQ/?tag=tolees0d-21) a 48.95 EUR (original: 89.0 EUR) (45.00 %  de descuento) en el siguiente enlace!
 
 [![Guess Painted/Active Lady/Leather Li  Ch](https://m.media-amazon.com/images/I/41v2Ug7L2FL._SL200_.jpg)](https://www.amazon.fr/dp/B07RWJTXZQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07RWJTXZQ/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07RWJTXZQ/?tag=tolees0d-21)

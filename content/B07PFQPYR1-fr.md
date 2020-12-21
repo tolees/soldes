@@ -19,11 +19,11 @@ descuento: '20.18'
 average: '95.75'
 ---
 
-Ahora mismo tienes [GT Spirit- Voiture Miniature de Collection  GT217  British Racing Green](https://www.amazon.fr/dp/B07PFQPYR1/?tag=tolees0d-21) a 95.75 EUR (original: 119.95 EUR) (20.18 %  de descuento) en el siguiente enlace!
+Está [GT Spirit- Voiture Miniature de Collection  GT217  British Racing Green](https://www.amazon.fr/dp/B07PFQPYR1/?tag=tolees0d-21) con 20.18 de descuento por 95.75 EUR (original: 119.95 EUR) en el siguiente enlace!
 
 [![GT Spirit- Voiture Miniature de Collecti](https://m.media-amazon.com/images/I/41a6clmu8BL._SL200_.jpg)](https://www.amazon.fr/dp/B07PFQPYR1/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07PFQPYR1/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07PFQPYR1/?tag=tolees0d-21)

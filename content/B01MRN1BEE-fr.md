@@ -19,11 +19,11 @@ descuento: '15.01'
 average: '16.99'
 ---
 
-Ahora mismo tienes [VTECH - 80-502805 - Formes à  trier et à  empiler - 1 2 3 Petit Dalmatien](https://www.amazon.fr/dp/B01MRN1BEE/?tag=tolees0d-21) a 16.99 EUR (original: 19.99 EUR) (15.01 %  de descuento) en el siguiente enlace!
+Está [VTECH - 80-502805 - Formes à  trier et à  empiler - 1 2 3 Petit Dalmatien](https://www.amazon.fr/dp/B01MRN1BEE/?tag=tolees0d-21) con 15.01 de descuento por 16.99 EUR (original: 19.99 EUR) en el siguiente enlace!
 
 [![VTECH - 80-502805 - Formes à  trier et à](https://m.media-amazon.com/images/I/411PD2PrtQL._SL200_.jpg)](https://www.amazon.fr/dp/B01MRN1BEE/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B01MRN1BEE/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B01MRN1BEE/?tag=tolees0d-21)

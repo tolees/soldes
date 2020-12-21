@@ -19,11 +19,11 @@ descuento: '33.62'
 average: '9.99'
 ---
 
-Ahora mismo tienes [L Echelle de Jacob [Blu-Ray]](https://www.amazon.fr/dp/B071WXGCCR/?tag=tolees0d-21) a 9.99 EUR (original: 15.05 EUR) (33.62 %  de descuento) en el siguiente enlace!
+Está [L Echelle de Jacob [Blu-Ray]](https://www.amazon.fr/dp/B071WXGCCR/?tag=tolees0d-21) con 33.62 de descuento por 9.99 EUR (original: 15.05 EUR) en el siguiente enlace!
 
 [![L Echelle de Jacob [Blu-Ray]](https://m.media-amazon.com/images/I/51jQdyh6i-L._SL200_.jpg)](https://www.amazon.fr/dp/B071WXGCCR/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B071WXGCCR/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B071WXGCCR/?tag=tolees0d-21)

@@ -19,11 +19,11 @@ descuento: '17.07'
 average: '9.155000000000001'
 ---
 
-Ahora mismo tienes [A Star is Born [DVD]](https://www.amazon.fr/dp/B07HSK1LKQ/?tag=tolees0d-21) a 8.31 EUR (original: 10.02 EUR) (17.07 %  de descuento) en el siguiente enlace!
+Está [A Star is Born [DVD]](https://www.amazon.fr/dp/B07HSK1LKQ/?tag=tolees0d-21) con 17.07 de descuento por 8.31 EUR (original: 10.02 EUR) en el siguiente enlace!
 
 [![A Star is Born [DVD]](https://m.media-amazon.com/images/I/51DK7ez4tFL._SL200_.jpg)](https://www.amazon.fr/dp/B07HSK1LKQ/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07HSK1LKQ/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07HSK1LKQ/?tag=tolees0d-21)

@@ -19,11 +19,11 @@ descuento: '25.97'
 average: '65.89'
 ---
 
-Ahora mismo tienes [Maison Lejaby Sin Soutien-Gorge à Armature  Noir  Noir 04    Taille Fabricant:100D  Femme](https://www.amazon.fr/dp/B07H5ZFK11/?tag=tolees0d-21) a 65.89 EUR (original: 89.0 EUR) (25.97 %  de descuento) en el siguiente enlace!
+Está [Maison Lejaby Sin Soutien-Gorge à Armature  Noir  Noir 04    Taille Fabricant:100D  Femme](https://www.amazon.fr/dp/B07H5ZFK11/?tag=tolees0d-21) con 25.97 de descuento por 65.89 EUR (original: 89.0 EUR) en el siguiente enlace!
 
 [![Maison Lejaby Sin Soutien-Gorge à Armatu](https://m.media-amazon.com/images/I/41corK2SsaL._SL200_.jpg)](https://www.amazon.fr/dp/B07H5ZFK11/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07H5ZFK11/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07H5ZFK11/?tag=tolees0d-21)

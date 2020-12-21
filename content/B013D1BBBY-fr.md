@@ -19,11 +19,11 @@ descuento: '30.04'
 average: '594.0'
 ---
 
-Ahora mismo tienes [Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21) a 594.0 EUR (original: 849.0 EUR) (30.04 %  de descuento) en el siguiente enlace!
+Está [Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21) con 30.04 de descuento por 594.0 EUR (original: 849.0 EUR) en el siguiente enlace!
 
 [![Nikon AF-S Nikkor Objectif 24 mm f/1 8](https://m.media-amazon.com/images/I/412MzAw6NCL._SL200_.jpg)](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21)

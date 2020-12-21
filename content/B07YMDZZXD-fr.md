@@ -19,11 +19,11 @@ descuento: '35.24'
 average: '12.99'
 ---
 
-Está [Joker](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21) con 35.24 de descuento por 12.99 EUR (original: 20.06 EUR) en el siguiente enlace!
+Ahora mismo tienes [Joker](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21) a 12.99 EUR (original: 20.06 EUR) (35.24 %  de descuento) en el siguiente enlace!
 
 [![Joker](https://m.media-amazon.com/images/I/51Qnx+ijrwL._SL200_.jpg)](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)

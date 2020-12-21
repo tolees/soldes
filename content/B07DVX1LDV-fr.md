@@ -19,11 +19,11 @@ descuento: '45.09'
 average: '65.89'
 ---
 
-Ahora mismo tienes [Chaussures de Trail Running](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21) a 65.89 EUR (original: 119.99 EUR) (45.09 %  de descuento) en el siguiente enlace!
+Está [Chaussures de Trail Running](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21) con 45.09 de descuento por 65.89 EUR (original: 119.99 EUR) en el siguiente enlace!
 
 [![Chaussures de Trail Running](https://m.media-amazon.com/images/I/41AcN+GSaKL._SL200_.jpg)](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21)

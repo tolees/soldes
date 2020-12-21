@@ -19,11 +19,11 @@ descuento: '30.23'
 average: '119.99'
 ---
 
-Ahora mismo tienes [TENGER Technic Excavatrice Blocs de Construction  2.4Ghz APP Double Télécommande Pelleteuse   1830+Pièces Jeu de Construction Compatible avec Lego Technic](https://www.amazon.fr/dp/B08KG1M4S1/?tag=tolees0d-21) a 119.99 EUR (original: 171.99 EUR) (30.23 %  de descuento) en el siguiente enlace!
+Está [TENGER Technic Excavatrice Blocs de Construction  2.4Ghz APP Double Télécommande Pelleteuse   1830+Pièces Jeu de Construction Compatible avec Lego Technic](https://www.amazon.fr/dp/B08KG1M4S1/?tag=tolees0d-21) con 30.23 de descuento por 119.99 EUR (original: 171.99 EUR) en el siguiente enlace!
 
 [![TENGER Technic Excavatrice Blocs de Cons](https://m.media-amazon.com/images/I/51q5SlfqGjL._SL200_.jpg)](https://www.amazon.fr/dp/B08KG1M4S1/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B08KG1M4S1/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B08KG1M4S1/?tag=tolees0d-21)

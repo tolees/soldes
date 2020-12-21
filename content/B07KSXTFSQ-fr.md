@@ -19,11 +19,11 @@ descuento: '20.74'
 average: '96.7'
 ---
 
-Está [Love Moschino Logo Badge Short Sleeve Polo   White A00   Medium Homme](https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21) con 20.74 de descuento por 96.7 EUR (original: 122.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Love Moschino Logo Badge Short Sleeve Polo   White A00   Medium Homme](https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21) a 96.7 EUR (original: 122.0 EUR) (20.74 %  de descuento) en el siguiente enlace!
 
 [![Love Moschino Logo Badge Short Sleeve Po](https://m.media-amazon.com/images/I/31XsjlvSWUL._SL200_.jpg)](https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21)

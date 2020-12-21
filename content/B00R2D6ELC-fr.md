@@ -19,11 +19,11 @@ descuento: '33.64'
 average: '19.9'
 ---
 
-Ahora mismo tienes [La Bonne Paye – Jeu de societe familial - Jeu de plateau – Version française](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21) a 19.9 EUR (original: 29.99 EUR) (33.64 %  de descuento) en el siguiente enlace!
+Está [La Bonne Paye – Jeu de societe familial - Jeu de plateau – Version française](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21) con 33.64 de descuento por 19.9 EUR (original: 29.99 EUR) en el siguiente enlace!
 
 [![La Bonne Paye – Jeu de societe familial ](https://m.media-amazon.com/images/I/61r5PXrKmRL._SL200_.jpg)](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)

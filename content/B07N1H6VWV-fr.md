@@ -19,11 +19,11 @@ descuento: '18.83'
 average: '169.64'
 ---
 
-Ahora mismo tienes [Kipling Youri Spin 68 Luggage 71 L Black Indigo](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21) a 169.64 EUR (original: 209.0 EUR) (18.83 %  de descuento) en el siguiente enlace!
+Está [Kipling Youri Spin 68 Luggage 71 L Black Indigo](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21) con 18.83 de descuento por 169.64 EUR (original: 209.0 EUR) en el siguiente enlace!
 
 [![Kipling Youri Spin 68 Luggage 71 L Black](https://m.media-amazon.com/images/I/41Lxcx9oq2L._SL200_.jpg)](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21)

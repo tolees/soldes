@@ -19,11 +19,11 @@ descuento: '27.83'
 average: '82.99'
 ---
 
-Ahora mismo tienes [Cat Footwear HAYCOX  Baskets Homme  Marron  Haricot 0   43 EU](https://www.amazon.fr/dp/B005B2ZV1K/?tag=tolees0d-21) a 82.99 EUR (original: 115.0 EUR) (27.83 %  de descuento) en el siguiente enlace!
+Está [Cat Footwear HAYCOX  Baskets Homme  Marron  Haricot 0   43 EU](https://www.amazon.fr/dp/B005B2ZV1K/?tag=tolees0d-21) con 27.83 de descuento por 82.99 EUR (original: 115.0 EUR) en el siguiente enlace!
 
 [![Cat Footwear HAYCOX  Baskets Homme  Marr](https://m.media-amazon.com/images/I/31XfllhhcTL._SL200_.jpg)](https://www.amazon.fr/dp/B005B2ZV1K/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B005B2ZV1K/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B005B2ZV1K/?tag=tolees0d-21)

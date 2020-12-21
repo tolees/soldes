@@ -19,11 +19,11 @@ descuento: '52.44'
 average: '19.02'
 ---
 
-Ahora mismo tienes [Darksiders - Genesis](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21) a 19.02 EUR (original: 39.99 EUR) (52.44 %  de descuento) en el siguiente enlace!
+Está [Darksiders - Genesis](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21) con 52.44 de descuento por 19.02 EUR (original: 39.99 EUR) en el siguiente enlace!
 
 [![Darksiders - Genesis](https://m.media-amazon.com/images/I/518r0-K3BzL._SL200_.jpg)](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21)

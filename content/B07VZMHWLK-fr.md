@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '119.98'
 ---
 
-Está [Vernee M7 Telephone Portable Débloqués  4Go + 64Go Dual SIM 4G Smartphone Android 9.0  MTK6761 Quad-Core 13MP/8MP 3 Caméra arrière 6.1" Écran Batterie 3500mAh Mobile - Visage ID+Empreinte Digitale](https://www.amazon.fr/dp/B07VZMHWLK/?tag=tolees0d-21) con 20.00 de descuento por 119.98 EUR (original: 149.98 EUR) en el siguiente enlace!
+Ahora mismo tienes [Vernee M7 Telephone Portable Débloqués  4Go + 64Go Dual SIM 4G Smartphone Android 9.0  MTK6761 Quad-Core 13MP/8MP 3 Caméra arrière 6.1" Écran Batterie 3500mAh Mobile - Visage ID+Empreinte Digitale](https://www.amazon.fr/dp/B07VZMHWLK/?tag=tolees0d-21) a 119.98 EUR (original: 149.98 EUR) (20.00 %  de descuento) en el siguiente enlace!
 
 [![Vernee M7 Telephone Portable Débloqués  ](https://m.media-amazon.com/images/I/417p8jjL4cL._SL200_.jpg)](https://www.amazon.fr/dp/B07VZMHWLK/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07VZMHWLK/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07VZMHWLK/?tag=tolees0d-21)

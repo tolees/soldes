@@ -19,11 +19,11 @@ descuento: '58.34'
 average: '24.99'
 ---
 
-Ahora mismo tienes [Just Dance 2019 - Edition Amazon pour Nintendo Switch](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21) a 24.99 EUR (original: 59.99 EUR) (58.34 %  de descuento) en el siguiente enlace!
+Está [Just Dance 2019 - Edition Amazon pour Nintendo Switch](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21) con 58.34 de descuento por 24.99 EUR (original: 59.99 EUR) en el siguiente enlace!
 
 [![Just Dance 2019 - Edition Amazon pour Ni](https://m.media-amazon.com/images/I/41mmRXnp23L._SL200_.jpg)](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21)

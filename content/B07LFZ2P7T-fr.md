@@ -19,11 +19,11 @@ descuento: '45.00'
 average: '82.5'
 ---
 
-Está [Geox U Nebula 4 X 4 B ABX A  Bottes Chukka Homme  Marron  Browncotto C6003   41 EU](https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21) con 45.00 de descuento por 82.5 EUR (original: 150.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [Geox U Nebula 4 X 4 B ABX A  Bottes Chukka Homme  Marron  Browncotto C6003   41 EU](https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21) a 82.5 EUR (original: 150.0 EUR) (45.00 %  de descuento) en el siguiente enlace!
 
 [![Geox U Nebula 4 X 4 B ABX A  Bottes Chuk](https://m.media-amazon.com/images/I/4124dINm+oL._SL200_.jpg)](https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21)

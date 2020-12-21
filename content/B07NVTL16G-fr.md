@@ -19,11 +19,11 @@ descuento: '28.80'
 average: '98.97'
 ---
 
-Ahora mismo tienes [Armor Lux  Pull Marin "Goulenez" Homme  Multicolore  X-Small  Taille Fabricant: XS ](https://www.amazon.fr/dp/B07NVTL16G/?tag=tolees0d-21) a 98.97 EUR (original: 139.0 EUR) (28.80 %  de descuento) en el siguiente enlace!
+Está [Armor Lux  Pull Marin "Goulenez" Homme  Multicolore  X-Small  Taille Fabricant: XS ](https://www.amazon.fr/dp/B07NVTL16G/?tag=tolees0d-21) con 28.80 de descuento por 98.97 EUR (original: 139.0 EUR) en el siguiente enlace!
 
 [![Armor Lux  Pull Marin "Goulenez" Homme  ](https://m.media-amazon.com/images/I/415LgObouBL._SL200_.jpg)](https://www.amazon.fr/dp/B07NVTL16G/?tag=tolees0d-21)
 
-🔎:
+ℹ️:
 
 
-[Visítala!!!](https://www.amazon.fr/dp/B07NVTL16G/?tag=tolees0d-21)
+[Ver la oferta!!](https://www.amazon.fr/dp/B07NVTL16G/?tag=tolees0d-21)

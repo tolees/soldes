@@ -19,11 +19,11 @@ descuento: '52.48'
 average: '47.52'
 ---
 
-Está [New Balance 574v2  Baskets Homme  Bleu  Navy/White Navy/White   39.5 EU](https://www.amazon.fr/dp/B07KRLSJHC/?tag=tolees0d-21) con 52.48 de descuento por 47.52 EUR (original: 100.0 EUR) en el siguiente enlace!
+Ahora mismo tienes [New Balance 574v2  Baskets Homme  Bleu  Navy/White Navy/White   39.5 EU](https://www.amazon.fr/dp/B07KRLSJHC/?tag=tolees0d-21) a 47.52 EUR (original: 100.0 EUR) (52.48 %  de descuento) en el siguiente enlace!
 
 [![New Balance 574v2  Baskets Homme  Bleu  ](https://m.media-amazon.com/images/I/417lAXeVcRL._SL200_.jpg)](https://www.amazon.fr/dp/B07KRLSJHC/?tag=tolees0d-21)
 
-ℹ️:
+🔎:
 
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07KRLSJHC/?tag=tolees0d-21)
+[Visítala!!!](https://www.amazon.fr/dp/B07KRLSJHC/?tag=tolees0d-21)
