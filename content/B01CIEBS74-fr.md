@@ -25,8 +25,8 @@ Tienes [Clé USB SanDisk 64 Go iXpand pour iPhone et iPad](https://www.amazon.fr
 
 🔎:
 
-- Regardez des vidéos dans un format populaire directement depuis la clé
 - Libérez de lespace sur votre iPhone et sauvegardez automatiquement vos photos et vidéos
+- Regardez des vidéos dans un format populaire directement depuis la clé
 - Compatibilité avec : iPhone 5 et plus récent, iPhone 5c, iPhone 5s, iPhone SE, iPhone 6, iPhone 6 Plus, iPhone 6s, iPhone 6s Plus, iPad Air, iPad mini, iPad mini 4, iPad Pro, iPad avec écran Retina, iPod 5e génération et ultérieure (Support: iPhone 5 et plus récent)
 - Conçue avec un connecteur flexible pour sadapter à la plupart des étuis pour iPhone
 

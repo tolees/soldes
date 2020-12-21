@@ -25,9 +25,9 @@ Ahora mismo tienes [Xiaomi 23853 / FJY4031GL Mi Air Purificateur 3H Blanc  Uniqu
 
 🔎:
 
-- Contrôle intelligent contrôlez à distance en utilisant lapplication Mi Home pour créer une maison intelligente avec dautres produits Mi Smart
 - Écran tactile OLED
 - Équipé dun filtre HEPA pour éliminer 99 % de particules jusquà 0 3 microns
+- Contrôle intelligent contrôlez à distance en utilisant lapplication Mi Home pour créer une maison intelligente avec dautres produits Mi Smart
 - Compatible avec alexa et google assistance
 
 [Visítala!!!](https://www.amazon.fr/dp/B07ZV7BDXZ/?tag=tolees0d-21)

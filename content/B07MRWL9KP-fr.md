@@ -26,9 +26,9 @@ Tienes [Bang & Olufsen Beoplay E8 2.0 Écouteurs haut de gamme Bluetooth entièr
 🔎:
 
 - ENTIEREMENT SANS FIL: Les écouteurs BEOPLAY E8 2.0 vous offrent une liberté totale grâce à leur fonctionnement sans-fil. Ces élégants écouteurs intra-auriculaires dotés du rechargement sans fil Qi sont faciles à emporter et ultra-compacts.
-- UNE ÉCOUTE PROLONGÉE: Grâce à leur autonomie pouvant aller jusquà 16 heures découte (quatre heures par recharge complète), les écouteurs sans fil BEOPLAY E8 2.0 sont conçus pour votre mode de vie ultra-nomade. Le boîtier de rechargement sans fil vous permet dobtenir trois charges supplémentaires complètes pour que vous ne soyez jamais à court de musique.
-- UN RECHARGEMENT FACILE: Les écouteurs BEOPLAY E8 2.0 sont livrés avec un boîtier de rechargement rapide, sans fil, Qi, en cuir, pour un rechargement sans faille lors de tous vos déplacements. Ajoutez à votre boîtier une base de rechargement Qi en option pour expérience complètement sans-fil.
 - DES COMMANDES TACTILES: Gérez votre écoute en toute simplicité avec ces écouteurs intra-auriculaires entièrement sans fil. Tapotez pour changer de piste, prendre vos appels et activer le mode transparence ou les commandes vocales.
+- UNE ÉCOUTE PROLONGÉE: Grâce à leur autonomie pouvant aller jusquà 16 heures découte (quatre heures par recharge complète), les écouteurs sans fil BEOPLAY E8 2.0 sont conçus pour votre mode de vie ultra-nomade. Le boîtier de rechargement sans fil vous permet dobtenir trois charges supplémentaires complètes pour que vous ne soyez jamais à court de musique.
 - LA SIGNATURE SONORE BANG & OLUFSEN: Lacoustique de ces écouteurs intra-auriculaires très élégants est le fruit du travail d’exception des ingénieurs B&O, née de leur volonté d’offrir à chacun une expérience sonore riche et authentique.. Profitez dune puissante qualité sonore en toute simplicité avec ces écouteurs high Tech.
+- UN RECHARGEMENT FACILE: Les écouteurs BEOPLAY E8 2.0 sont livrés avec un boîtier de rechargement rapide, sans fil, Qi, en cuir, pour un rechargement sans faille lors de tous vos déplacements. Ajoutez à votre boîtier une base de rechargement Qi en option pour expérience complètement sans-fil.
 
 [Comprar!!!](https://www.amazon.fr/dp/B07MRWL9KP/?tag=tolees0d-21)
