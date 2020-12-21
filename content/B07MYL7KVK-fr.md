@@ -25,11 +25,11 @@ Ahora mismo tienes [WD Red  Disque dur interne NAS 6 TB - 5400 rpm  SATA 6 Gb
 
 🔎:
 
-- Prend en charge un taux de charge de travail allant jusqu’à 180 To/an. Taux de charge de travail annualisé (To transférés x [8760/heures de fonctionnement enregistrées par an]). Le taux de charge de travail varie en fonction de votre matériel, de vos logiciels et de votre configuration.
+- Technologie NASware pour la compatibilité
 - Cycles de chargement/déchargement 600 000
 - Spécialement conçu pour les systèmes NAS comprenant jusqu’à 8 baies
-- Technologie NASware pour la compatibilité
 - Systèmes NAS prévus pour les petites entreprises et les bureaux à domicile et pour un fonctionnement continu 24 h/24 et 7 j/7
 - Température de fonctionnement: 0°C - 65°C
+- Prend en charge un taux de charge de travail allant jusqu’à 180 To/an. Taux de charge de travail annualisé (To transférés x [8760/heures de fonctionnement enregistrées par an]). Le taux de charge de travail varie en fonction de votre matériel, de vos logiciels et de votre configuration.
 
 [Visítala!!!](https://www.amazon.fr/dp/B07MYL7KVK/?tag=tolees0d-21)
