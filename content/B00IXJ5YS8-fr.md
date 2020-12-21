@@ -25,10 +25,10 @@ Está [Q.ACOUSTICS enceinte bibliotheque Q3000 – American WalNutt – La paire
 
 ℹ️:
 
-- Petite taille au prix abordable
-- Ultra compacte; filtrage audiophiles; caisson de basses de 100 mm
-- Le nouveau 3010 convient à la fois à la musique Hifi et au home-cinéma
 - Fonctionne parfaitement bien avec la voie centrale 3090C
 - Le 3010 peut être monté sur pied ou fixé au mur
+- Le nouveau 3010 convient à la fois à la musique Hifi et au home-cinéma
+- Petite taille au prix abordable
+- Ultra compacte; filtrage audiophiles; caisson de basses de 100 mm
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B00IXJ5YS8/?tag=tolees0d-21)
