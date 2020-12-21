@@ -25,10 +25,10 @@ C'est en vente [Montre pour Homme  Montres analogiques à Quartz d affaires Clas
 
 ℹ️:
 
-- ☎Purchase without Worry☎: Each watch comes with a 24-month warranty and 30-day 100% money back full refund guarantee. We care about our customers, If you have any dissatisfaction, please send message to us on Amazon, we will do our best to you
 - ⌚Easy to Wear: Sport Watch Unique Bracelet Design Genuine Leather Strap Provide Comfortable Wear, Great for all kinds of business, leisure, indoor and outdoor activities and daily use, this is a perfect
-- ★30M Daily Waterproof★: Daily life waterproof, can bear sweat, accidental rain or water splash, but not suitable for bathing, swimming, diving and so on
 - ⌚Movement and Battery⌚: Japanese quartz movement and battery provide accurate time keeping
 - ★Genuine Leather Band★: Durable and breathable brown genuine leather band fits to daily wear. Band length: Mens standard, Band width: 23mm
+- ★30M Daily Waterproof★: Daily life waterproof, can bear sweat, accidental rain or water splash, but not suitable for bathing, swimming, diving and so on
+- ☎Purchase without Worry☎: Each watch comes with a 24-month warranty and 30-day 100% money back full refund guarantee. We care about our customers, If you have any dissatisfaction, please send message to us on Amazon, we will do our best to you
 
 [Achète-le!!](https://www.amazon.fr/dp/B07CNDKRMC/?tag=tolees0d-21)

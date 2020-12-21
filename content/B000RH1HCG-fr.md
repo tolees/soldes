@@ -25,10 +25,10 @@ C'est en vente [Stanley 1-55-099 Marteau multifonction  Noir/Argent](https://www
 
 ℹ️:
 
+- Outil 4-en-1 : marteau, pince à décoffrer, arrache clous et pied de biche
+- Denture des mâchoires pour prendre du bois - Double mâchoires
 - Gamme STANLEY FATMAX  : encore plus robuste et ergonomique, pour les usages intensifs
 - Poignée ergonomique pour plus de confort et un contrôle optimal
 - Barre en acier d’une seule pièce pour une solidité maximale
-- Denture des mâchoires pour prendre du bois - Double mâchoires
-- Outil 4-en-1 : marteau, pince à décoffrer, arrache clous et pied de biche
 
 [Achète-le!!](https://www.amazon.fr/dp/B000RH1HCG/?tag=tolees0d-21)
