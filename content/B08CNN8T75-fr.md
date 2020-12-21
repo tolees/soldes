@@ -25,9 +25,9 @@ Está [NBA 2K21 PS4 + DLC - Exclusivité Amazon  PS4 ](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Dlc exclusif Amazon o 6 boosts de compétence pour améliorez votre joueur
 - Bonus de précommande exclusif Amazon: o 1 pack mon équipe o 6 boosts de compétence pour améliorer votre joueur o 3 boosts de gatorade
 - Nba 2k21 est le dernier opus de la série des jeux de basket nba 2k au succès mondial, développés par visual concepts et édités par 2K
 - Bonus de précommande o 5 000 vc + 5 000 points mon équipe o 9 boosts mon joueur o 10 packs hebdomadaires pour mon équipe o 5 paires de chaussures o bundle déléments numériques Damian lillard
+- Dlc exclusif Amazon o 6 boosts de compétence pour améliorez votre joueur
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B08CNN8T75/?tag=tolees0d-21)

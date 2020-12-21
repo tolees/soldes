@@ -26,7 +26,7 @@ Está [ANGOOL Culottes Sculptantes Femme Taille Haute Minceur Gainante Amincissa
 ℹ️:
 
 - Combine it with strong spandex stretch fabric for a flatter stomach. Obtain beautiful curves and improve your confidence in you.
-- High waist shorts with immediate flat tummy effect thanks to an elasticated waistband that refines the silhouette and shapes the hips and stomach.
 - The thoughtful design, high waisted with 4 steel bones in a honeycomb structure and double lining, ensures you a comfortable wear.
+- High waist shorts with immediate flat tummy effect thanks to an elasticated waistband that refines the silhouette and shapes the hips and stomach.
 
 [Ver la oferta!!](https://www.amazon.fr/dp/B07VYSRRM9/?tag=tolees0d-21)

@@ -25,11 +25,11 @@ Tienes [Kindle Oasis  Maintenant avec température d éclairage ajustable  Rési
 
 ℹ️:
 
-- Température déclairage ajustable pour régler la teinte de lécran de blanc à ambre.
 - Résistant à leau (IPX8) afin que vous puissiez lire dans le bain ou au bord de la piscine.
-- Notre meilleur écran Paperwhite lisse de 7" et 300 ppp.
 - Se lit comme un livre papier et doté de la dernière technologie e-ink.
+- Notre meilleur écran Paperwhite lisse de 7" et 300 ppp.
 - Design fin, léger et ergonomique avec boutons de changement de page.
+- Température déclairage ajustable pour régler la teinte de lécran de blanc à ambre.
 - Accès instantané à des millions de livres et journaux.
 
 [Accede a la oferta!!](https://www.amazon.fr/dp/B07L5GDTYY/?tag=tolees0d-21)
