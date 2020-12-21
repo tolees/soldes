@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Castaner Carina/8/ss20033  Espadrille  C at 47.10 % discount'
+title: '47.10 % rabais sur Castaner Carina/8/ss20033  Espadrille  C'
 date: 2020-08-10 06:24:58
 image: 'https://m.media-amazon.com/images/I/41GUSNgTDVL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '47.10'
 average: '66.12'
 ---
 
-With a final price of 66.12 EUR (original: 125.0 EUR) you can find [Castaner Carina/8/ss20033  Espadrille  Carina Femme  Natural  41 EU](https://www.amazon.fr/dp/B07X6JJ8Y4/?tag=tolees0d-21) with a  47.10 % discount here:
+Vous avez [Castaner Carina/8/ss20033  Espadrille  Carina Femme  Natural  41 EU](https://www.amazon.fr/dp/B07X6JJ8Y4/?tag=tolees0d-21)  à  47.10 % de réduction, prix final  66.12 EUR (original: 125.0 EUR) ici:
 
 [![Castaner Carina/8/ss20033  Espadrille  C](https://m.media-amazon.com/images/I/41GUSNgTDVL._SL200_.jpg)](https://www.amazon.fr/dp/B07X6JJ8Y4/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.fr/dp/B07X6JJ8Y4/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X6JJ8Y4/?tag=tolees0d-21)

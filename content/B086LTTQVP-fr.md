@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '20.00 % deal for Borderlands Legendary Collection'
+title: '20.00 % rabais sur Borderlands Legendary Collection'
 date: 2020-06-12 01:25:19
 image: 'https://m.media-amazon.com/images/I/51WWdNZEF1L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.00'
 average: '39.99'
 ---
 
-There's a deal [Borderlands Legendary Collection](https://www.amazon.fr/dp/B086LTTQVP/?tag=tolees0d-21)  with  20.00 % discount, final price tag of  39.99 EUR (original: 49.99 EUR) here:
+Vous avez [Borderlands Legendary Collection](https://www.amazon.fr/dp/B086LTTQVP/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  39.99 EUR (original: 49.99 EUR) ici:
 
 [![Borderlands Legendary Collection](https://m.media-amazon.com/images/I/51WWdNZEF1L._SL200_.jpg)](https://www.amazon.fr/dp/B086LTTQVP/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.fr/dp/B086LTTQVP/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B086LTTQVP/?tag=tolees0d-21)

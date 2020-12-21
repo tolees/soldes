@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 20.33 % for Canon Objectif EF-50mm F/1 4 USM'
+title: 'Canon Objectif EF-50mm F/1 4 USM avec 20.33 % rabais '
 date: 2020-05-22 21:44:17
 image: 'https://m.media-amazon.com/images/I/517W0-gDK1L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.33'
 average: '358.49'
 ---
 
-You've got [Canon Objectif EF-50mm F/1 4 USM](https://www.amazon.fr/dp/B00009XVCZ/?tag=tolees0d-21) with a  20.33 % discount, with final price of 358.49 EUR (original: 449.99 EUR) at the following link:
+C'est en vente [Canon Objectif EF-50mm F/1 4 USM](https://www.amazon.fr/dp/B00009XVCZ/?tag=tolees0d-21)  à  20.33 % de réduction, prix final  358.49 EUR (original: 449.99 EUR) ici:
 
 [![Canon Objectif EF-50mm F/1 4 USM](https://m.media-amazon.com/images/I/517W0-gDK1L._SL200_.jpg)](https://www.amazon.fr/dp/B00009XVCZ/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.fr/dp/B00009XVCZ/?tag=tolees0d-21)
+[Achète-le!!](https://www.amazon.fr/dp/B00009XVCZ/?tag=tolees0d-21)

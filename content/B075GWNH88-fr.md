@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'LEGO Classic - La plaque de base bleue - at 52.16 % discount'
+title: '52.16 % rabais sur LEGO Classic - La plaque de base bleue -'
 date: 2020-05-22 14:56:45
 image: 'https://m.media-amazon.com/images/I/51FoL+kO-TL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '52.16'
 average: '7.99'
 ---
 
-With a final price of 7.99 EUR (original: 16.7 EUR) you can find [LEGO Classic - La plaque de base bleue - 10714 - Jeu de Construction](https://www.amazon.fr/dp/B075GWNH88/?tag=tolees0d-21) with a  52.16 % discount here:
+Vous avez [LEGO Classic - La plaque de base bleue - 10714 - Jeu de Construction](https://www.amazon.fr/dp/B075GWNH88/?tag=tolees0d-21)  à  52.16 % de réduction, prix final  7.99 EUR (original: 16.7 EUR) ici:
 
 [![LEGO Classic - La plaque de base bleue -](https://m.media-amazon.com/images/I/51FoL+kO-TL._SL200_.jpg)](https://www.amazon.fr/dp/B075GWNH88/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.fr/dp/B075GWNH88/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B075GWNH88/?tag=tolees0d-21)

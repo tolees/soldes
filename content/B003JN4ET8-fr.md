@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 35.97 % for Exacompta - Réf. 5900E - Etui carton de '
+title: '35.97 % rabais sur Exacompta - Réf. 5900E - Etui carton de '
 date: 2020-10-12 04:15:07
 image: 'https://m.media-amazon.com/images/I/414qijbftKL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '35.97'
 average: '7.44'
 ---
 
-You've got [Exacompta - Réf. 5900E - Etui carton de 100 pochettes perforées polypropylène lisse haute résistance 9/100e - A4 - Cristal](https://www.amazon.fr/dp/B003JN4ET8/?tag=tolees0d-21) with a  35.97 % discount, with final price of 7.44 EUR (original: 11.62 EUR) at the following link:
+Vous avez [Exacompta - Réf. 5900E - Etui carton de 100 pochettes perforées polypropylène lisse haute résistance 9/100e - A4 - Cristal](https://www.amazon.fr/dp/B003JN4ET8/?tag=tolees0d-21)  à  35.97 % de réduction, prix final  7.44 EUR (original: 11.62 EUR) ici:
 
 [![Exacompta - Réf. 5900E - Etui carton de ](https://m.media-amazon.com/images/I/414qijbftKL._SL200_.jpg)](https://www.amazon.fr/dp/B003JN4ET8/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.fr/dp/B003JN4ET8/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B003JN4ET8/?tag=tolees0d-21)

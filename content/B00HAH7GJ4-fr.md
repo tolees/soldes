@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '41.76 % deal for Slave to The Sword'
+title: '41.76 % rabais sur Slave to The Sword'
 date: 2020-09-30 05:39:10
 image: 'https://m.media-amazon.com/images/I/519vaRKegOL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '41.76'
 average: '8.73'
 ---
 
-There's a deal [Slave to The Sword](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)  with  41.76 % discount, final price tag of  8.73 EUR (original: 14.99 EUR) here:
+Vous avez [Slave to The Sword](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)  à  41.76 % de réduction, prix final  8.73 EUR (original: 14.99 EUR) ici:
 
 [![Slave to The Sword](https://m.media-amazon.com/images/I/519vaRKegOL._SL200_.jpg)](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)

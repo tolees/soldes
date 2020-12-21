@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 19.85 % for Rockport Westbrook Oxford  Richelieus Ho'
+title: '19.85 % rabais sur Rockport Westbrook Oxford  Richelieus Ho'
 date: 2020-05-22 21:40:56
 image: 'https://m.media-amazon.com/images/I/31Yz1YsTQ-L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '19.85'
 average: '95.96'
 ---
 
-You've got [Rockport Westbrook Oxford  Richelieus Homme  Marron  Cocoa Lea 001   42 EU](https://www.amazon.fr/dp/B07N8XSZDH/?tag=tolees0d-21) with a  19.85 % discount, with final price of 95.96 EUR (original: 119.72 EUR) at the following link:
+Vous avez [Rockport Westbrook Oxford  Richelieus Homme  Marron  Cocoa Lea 001   42 EU](https://www.amazon.fr/dp/B07N8XSZDH/?tag=tolees0d-21)  à  19.85 % de réduction, prix final  95.96 EUR (original: 119.72 EUR) ici:
 
 [![Rockport Westbrook Oxford  Richelieus Ho](https://m.media-amazon.com/images/I/31Yz1YsTQ-L._SL200_.jpg)](https://www.amazon.fr/dp/B07N8XSZDH/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.fr/dp/B07N8XSZDH/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N8XSZDH/?tag=tolees0d-21)

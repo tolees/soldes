@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '40.19 % deal for Bioshock : The Collection'
+title: '40.19 % rabais sur Bioshock : The Collection'
 date: 2020-09-13 03:12:08
 image: 'https://m.media-amazon.com/images/I/414eSFAf-UL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '40.19'
 average: '29.9'
 ---
 
-There's a deal [Bioshock : The Collection](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)  with  40.19 % discount, final price tag of  29.9 EUR (original: 49.99 EUR) here:
+Vous avez [Bioshock : The Collection](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)  à  40.19 % de réduction, prix final  29.9 EUR (original: 49.99 EUR) ici:
 
 [![Bioshock : The Collection](https://m.media-amazon.com/images/I/414eSFAf-UL._SL200_.jpg)](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)

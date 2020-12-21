@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 30.24 % for Le pigeon'
+title: '30.24 % rabais sur Le pigeon'
 date: 2020-10-03 07:02:05
 image: 'https://m.media-amazon.com/images/I/51R1MBB66dL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.24'
 average: '6.99'
 ---
 
-You've got [Le pigeon](https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21) with a  30.24 % discount, with final price of 6.99 EUR (original: 10.02 EUR) at the following link:
+Vous avez [Le pigeon](https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21)  à  30.24 % de réduction, prix final  6.99 EUR (original: 10.02 EUR) ici:
 
 [![Le pigeon](https://m.media-amazon.com/images/I/51R1MBB66dL._SL200_.jpg)](https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21)

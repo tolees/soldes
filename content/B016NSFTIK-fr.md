@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Gitzo GT1545T - Trépied Traveler Série 1 at 20.54 % discount'
+title: '20.54 % rabais sur Gitzo GT1545T - Trépied Traveler Série 1'
 date: 2020-05-22 23:31:33
 image: 'https://m.media-amazon.com/images/I/41VtvtpG2bL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '20.54'
 average: '649.0'
 ---
 
-With a final price of 649.0 EUR (original: 816.78 EUR) you can find [Gitzo GT1545T - Trépied Traveler Série 1 à 4 Sections Compact  Repliable et Léger à Colonne Courte pour les Prises de Vue au Niveau du Sol - Fibre de Carbone](https://www.amazon.fr/dp/B016NSFTIK/?tag=tolees0d-21) with a  20.54 % discount here:
+Vous avez [Gitzo GT1545T - Trépied Traveler Série 1 à 4 Sections Compact  Repliable et Léger à Colonne Courte pour les Prises de Vue au Niveau du Sol - Fibre de Carbone](https://www.amazon.fr/dp/B016NSFTIK/?tag=tolees0d-21)  à  20.54 % de réduction, prix final  649.0 EUR (original: 816.78 EUR) ici:
 
 [![Gitzo GT1545T - Trépied Traveler Série 1](https://m.media-amazon.com/images/I/41VtvtpG2bL._SL200_.jpg)](https://www.amazon.fr/dp/B016NSFTIK/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it!!](https://www.amazon.fr/dp/B016NSFTIK/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B016NSFTIK/?tag=tolees0d-21)

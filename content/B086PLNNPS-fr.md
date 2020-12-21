@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '45.56 % deal for CODEMASTERS- F1 2020 - Seventy Edition -'
+title: '45.56 % rabais sur CODEMASTERS- F1 2020 - Seventy Edition -'
 date: 2020-10-02 05:03:24
 image: 'https://m.media-amazon.com/images/I/51ECRj7HZcL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '45.56'
 average: '38.1'
 ---
 
-There's a deal [CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)  with  45.56 % discount, final price tag of  38.1 EUR (original: 69.99 EUR) here:
+Vous avez [CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)  à  45.56 % de réduction, prix final  38.1 EUR (original: 69.99 EUR) ici:
 
 [![CODEMASTERS- F1 2020 - Seventy Edition -](https://m.media-amazon.com/images/I/51ECRj7HZcL._SL200_.jpg)](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)

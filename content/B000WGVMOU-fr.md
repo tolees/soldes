@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 61.77 % for Staedtler Mars Comfort 552 Compass Rapid'
+title: '61.77 % rabais sur Staedtler Mars Comfort 552 Compass Rapid'
 date: 2020-10-02 00:54:30
 image: 'https://m.media-amazon.com/images/I/41BGCiEaczL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '61.77'
 average: '21.93'
 ---
 
-You've got [Staedtler Mars Comfort 552 Compass Rapide](https://www.amazon.fr/dp/B000WGVMOU/?tag=tolees0d-21) with a  61.77 % discount, with final price of 21.93 EUR (original: 57.36 EUR) at the following link:
+Vous avez [Staedtler Mars Comfort 552 Compass Rapide](https://www.amazon.fr/dp/B000WGVMOU/?tag=tolees0d-21)  à  61.77 % de réduction, prix final  21.93 EUR (original: 57.36 EUR) ici:
 
 [![Staedtler Mars Comfort 552 Compass Rapid](https://m.media-amazon.com/images/I/41BGCiEaczL._SL200_.jpg)](https://www.amazon.fr/dp/B000WGVMOU/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.fr/dp/B000WGVMOU/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B000WGVMOU/?tag=tolees0d-21)

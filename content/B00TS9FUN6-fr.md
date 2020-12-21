@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 37.03 % for Samyang 50 mm / F 1.4 AS UMC Objectifs'
+title: '37.03 % rabais sur Samyang 50 mm / F 1.4 AS UMC Objectifs'
 date: 2020-09-26 22:59:21
 image: 'https://m.media-amazon.com/images/I/51Gceewgo+L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '37.03'
 average: '289.04'
 ---
 
-You've got [Samyang 50 mm / F 1.4 AS UMC Objectifs](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21) with a  37.03 % discount, with final price of 289.04 EUR (original: 459.0 EUR) at the following link:
+Vous avez [Samyang 50 mm / F 1.4 AS UMC Objectifs](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)  à  37.03 % de réduction, prix final  289.04 EUR (original: 459.0 EUR) ici:
 
 [![Samyang 50 mm / F 1.4 AS UMC Objectifs](https://m.media-amazon.com/images/I/51Gceewgo+L._SL200_.jpg)](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)

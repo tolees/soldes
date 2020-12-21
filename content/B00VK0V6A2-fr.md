@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '23.15 % deal for De Longhi Machine à Café à Pompe et Cafe'
+title: '23.15 % rabais sur De Longhi Machine à Café à Pompe et Cafe'
 date: 2020-05-22 23:36:43
 image: 'https://m.media-amazon.com/images/I/41wPcjf9j7L._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '23.15'
 average: '99.9'
 ---
 
-There's a deal [De Longhi Machine à Café à Pompe et Cafetière Filtre 2-en-1  Machine Expresso BCO260CD.1  Noir](https://www.amazon.fr/dp/B00VK0V6A2/?tag=tolees0d-21)  with  23.15 % discount, final price tag of  99.9 EUR (original: 129.99 EUR) here:
+Vous avez [De Longhi Machine à Café à Pompe et Cafetière Filtre 2-en-1  Machine Expresso BCO260CD.1  Noir](https://www.amazon.fr/dp/B00VK0V6A2/?tag=tolees0d-21)  à  23.15 % de réduction, prix final  99.9 EUR (original: 129.99 EUR) ici:
 
 [![De Longhi Machine à Café à Pompe et Cafe](https://m.media-amazon.com/images/I/41wPcjf9j7L._SL200_.jpg)](https://www.amazon.fr/dp/B00VK0V6A2/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.fr/dp/B00VK0V6A2/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VK0V6A2/?tag=tolees0d-21)

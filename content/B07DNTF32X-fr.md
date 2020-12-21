@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Discount of 29.39 % for Doom Eternal'
+title: '29.39 % rabais sur Doom Eternal'
 date: 2020-05-29 18:46:01
 image: 'https://m.media-amazon.com/images/I/516Kc2oP6dL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '29.39'
 average: '49.42'
 ---
 
-You've got [Doom Eternal](https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21) with a  29.39 % discount, with final price of 49.42 EUR (original: 69.99 EUR) at the following link:
+Vous avez [Doom Eternal](https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21)  à  29.39 % de réduction, prix final  49.42 EUR (original: 69.99 EUR) ici:
 
 [![Doom Eternal](https://m.media-amazon.com/images/I/516Kc2oP6dL._SL200_.jpg)](https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Check the deal!!](https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21)

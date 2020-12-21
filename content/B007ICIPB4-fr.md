@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '30.00 % deal for Sandvik Coromant A880-d2500lx38–03 Corod'
+title: '30.00 % rabais sur Sandvik Coromant A880-d2500lx38–03 Corod'
 date: 2020-08-10 17:16:41
 image: 'https://m.media-amazon.com/images/I/31slBtk0DHL._SL200_.jpg'
 comments: true
@@ -19,11 +19,11 @@ descuento: '30.00'
 average: '63.08'
 ---
 
-There's a deal [Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable Insert perceuse](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)  with  30.00 % discount, final price tag of  63.08 EUR (original: 90.12 EUR) here:
+Vous avez [Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable Insert perceuse](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  63.08 EUR (original: 90.12 EUR) ici:
 
 [![Sandvik Coromant A880-d2500lx38–03 Corod](https://m.media-amazon.com/images/I/31slBtk0DHL._SL200_.jpg)](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Buy it now!!](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)
