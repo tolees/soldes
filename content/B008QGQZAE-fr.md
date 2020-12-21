@@ -25,8 +25,8 @@ Vous avez [Kingston DataTraveler SE9 -DTSE9H/32Go Clé USB  32Go  Argent](https:
 
 ℹ️:
 
+- Un anneau permet de l’attacher au dispositif utilisé
 - Durable — Boîtier solide et anneau robuste
 - Compacte — Format de poche, sans capuchon, facile à transporter
-- Un anneau permet de l’attacher au dispositif utilisé
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B008QGQZAE/?tag=tolees0d-21)
