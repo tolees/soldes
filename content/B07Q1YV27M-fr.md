@@ -25,10 +25,10 @@ C'est en vente [Lansay- Toy Story 4-Pistolet Laser de Buzz Ranger de l espace Pi
 
 ℹ️:
 
-- Fonctionne avec 2 piles LR03 incluses.
 - Retrouve les aventures de Toy Story 4 avec ce pistolet laser de buzz.
+- Fonctionne avec 2 piles LR03 incluses.
+- Dès 4 ans.
 - Super ! le pistolet sillumine et émet des sons lorsque tu appuies sur la gâchette, comme dans le film !
 - Contient: 1 pistolet
-- Dès 4 ans.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07Q1YV27M/?tag=tolees0d-21)
