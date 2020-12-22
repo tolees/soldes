@@ -25,11 +25,11 @@ C'est en vente [Levi s Type 3 Veste en Jean  Roadster Sherpa Trucker  S Homme](h
 
 ℹ️:
 
+- 2 poches avant typiques
+- 84 % coton.
+- Doublure : 70 % polyester, 16 % viscose, 14 % acrylique.
+- Doublure manches : 100 % polyamide.
 - Type 3 Sherpa Trucker.
 - Il ne faut pas que lHimalaya soit le même - La veste Sherpa Trucker de type 3 fait également bonne figure sur les sentiers de shopping : classique sur ce modèle en 84% coton, les 2 poches typiques à lavant, les surpiqûres doublées et les légendaires boutons Trucker. Ce qui fait une différence, cest la coupe qui a été modifiée et qui rend la veste de type 3 Sherpa Trucker plus moulante et plus mince. Look décontracté pour chaque sherpa de ville.
-- Doublure manches : 100 % polyamide.
-- 2 poches avant typiques
-- Doublure : 70 % polyester, 16 % viscose, 14 % acrylique.
-- 84 % coton.
 
 [Achète-le!!](https://www.amazon.fr/dp/B08239QVKS/?tag=tolees0d-21)
