@@ -25,8 +25,8 @@ Vous avez [Dogit Fontaine à Chien 6 L](https://www.amazon.fr/dp/B004OHQUUY/?tag
 
 ℹ️:
 
-- Contenance : 6 Litres
 - Labreuvoir Fresh & Clear Dogit Design fournit une source continue deau fraîche et propre à votre chien.
 - Prise US, nécessite un adaptateur pour prise française.
+- Contenance : 6 Litres
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B004OHQUUY/?tag=tolees0d-21)

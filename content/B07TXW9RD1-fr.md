@@ -25,10 +25,10 @@ C'est en vente [Roxy Rising High-Pantalon de Ski/Snowboard Taille Haute pour Fem
 
 ℹ️:
 
-- Imperméabilité: technologie Roxy Dry Flight 15K pour une imperméabilité optimale [15.000 mm/10.000 g]
-- Shell
 - Indice Warm flight: 1/3 pour une chaleur ultralégère et respirant
-- Une coupe décontractée avec taille côtelée et bas élastique
+- Shell
+- Imperméabilité: technologie Roxy Dry Flight 15K pour une imperméabilité optimale [15.000 mm/10.000 g]
 - Doublure en polaire brossée sur lenvers et système DATTACHE de la veste au pantalon.
+- Une coupe décontractée avec taille côtelée et bas élastique
 
 [Achète-le!!](https://www.amazon.fr/dp/B07TXW9RD1/?tag=tolees0d-21)
