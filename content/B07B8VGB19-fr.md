@@ -25,8 +25,8 @@ C'est en vente [Aubade Romantique Soutien-Gorge  Noir Venu  Taille Fabricant: 85
 
 ℹ️:
 
-- Magnifique soutien-gorge corbeille, poitrine élégamment dégagée.
 - Adorné de broderies luxueuses et de coutures élégantes pour plus de romantisme.
+- Magnifique soutien-gorge corbeille, poitrine élégamment dégagée.
 - Bonnets subtilement rembourrés offrant une poitrine rebondie et réhaussée au décolleté flatteur.
 - Faites-vous plaisir dès maintenant en complétant votre ensemble avec nos culottes assorties.
 

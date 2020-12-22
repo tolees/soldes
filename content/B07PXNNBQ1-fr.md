@@ -25,9 +25,9 @@ C'est en vente [Lansay- Toy Story-Seau de 72 Soldats 4 Figurine- 64517](https://
 
 ℹ️:
 
-- Contient: 72 soldats
-- Les figurines sont très détaillées avec différentes armes et position et sont reproduites à identiques à partir des fichier numériques de disney-pixar.
-- Retrouve les aventures de Toy Story avec le célèbre seau de soldats version "signature". Le seau contient 72 soldats dont 2 avec parachutes en plastique.
 - Taille des soldats: 6 cm environ
+- Les figurines sont très détaillées avec différentes armes et position et sont reproduites à identiques à partir des fichier numériques de disney-pixar.
+- Contient: 72 soldats
+- Retrouve les aventures de Toy Story avec le célèbre seau de soldats version "signature". Le seau contient 72 soldats dont 2 avec parachutes en plastique.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07PXNNBQ1/?tag=tolees0d-21)

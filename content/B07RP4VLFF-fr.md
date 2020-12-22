@@ -26,8 +26,8 @@ Vous avez [Monster Hunter World: Iceborne Master Edition - PlayStation 4](https:
 ℹ️:
 
 - Poursuivez votre aventure débutée dans Monster Hunter : World en parcourant les terres enneigées de Givre Eternel.
-- Un niveau de difficulté supérieur : affrontez des monstres plus féroces que jamais grâce au niveau de difficulté Rang de Maître.
 - Un volume de contenu massif : Découvrez la plus grande région du jeu à ce jour et de nombreux nouveaux contenus avec de toutes nouvelles quêtes.
 - De nouvelles stratégies passionnantes : agrémentez vos épiques chasses de mécaniques de gameplay inédites ! Chacun des 14 types d’armes recevra de nouveaux combos et une profondeur de combat épique.
+- Un niveau de difficulté supérieur : affrontez des monstres plus féroces que jamais grâce au niveau de difficulté Rang de Maître.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RP4VLFF/?tag=tolees0d-21)
