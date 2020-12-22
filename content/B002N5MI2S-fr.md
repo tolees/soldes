@@ -25,10 +25,10 @@ Vous avez [Bed Head for Men by Tigi Matte Separation Cire coiffante pour homme  
 
 ℹ️:
 
-- Fixation forte mais souple, permettant de recoiffer si besoin
 - La cire coiffante résiste à l’humidité pour une coupe durable
-- Cette cire coiffante matte apporte texture et définition à vos coiffures
 - La cire coiffante Bed Head for Men Matte Separation est idéale pour coiffer les cheveux courts à mi-longs
 - Cire coiffante à fixation forte avec finition matte
+- Cette cire coiffante matte apporte texture et définition à vos coiffures
+- Fixation forte mais souple, permettant de recoiffer si besoin
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B002N5MI2S/?tag=tolees0d-21)

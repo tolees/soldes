@@ -27,8 +27,8 @@ C'est en vente [Mantona Trépied flottant pour Action Cams comme Rollei  GoPro H
 
 - pour filmer sans secousses et en toute tranquillité
 - très léger et compact
-- steadycam pour caméras daction et caméscopes
 - niveau à bulle
+- steadycam pour caméras daction et caméscopes
 - steadycam pour caméras daction et caméscopes
 
 [Achète-le!!](https://www.amazon.fr/dp/B00M3SYNVO/?tag=tolees0d-21)
