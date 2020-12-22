@@ -25,11 +25,11 @@ C'est en vente [LEGO® Movie Les meilleurs amis d Unikitty ! Jeu de construction
 
 ℹ️:
 
-- Issu de lunivers du film The LEGO Movie 2
-- 76 pièces pour les filles et les garçons de 5 ans et plus
 - Construisez le set Les meilleurs amis d’Unikitty ! issu de la suite du film danimation culte LA GRANDE AVENTURE LEGO 2
 - La figurine d’Unikitty mesure plus de 5 cm de hauteur Cornet de glace mesure plus de 5cm de hauteur Barre au chocolat mesure plus de 5 cm de hauteur La table roulante mesure plus de 5 cm de haut, 3 cm de long et 3 cm de large
-- Cet ensemble Unikitty LEGO comprend 3 personnages de LA GRANDE AVENTURE LEGO 2 : Unikitty avec 2 visages interchangeables, Cornet de glace et Barre au chocolat, plus une table roulante
 - Les ensembles LEGO MOVIE 2 sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Issu de lunivers du film The LEGO Movie 2
+- Cet ensemble Unikitty LEGO comprend 3 personnages de LA GRANDE AVENTURE LEGO 2 : Unikitty avec 2 visages interchangeables, Cornet de glace et Barre au chocolat, plus une table roulante
+- 76 pièces pour les filles et les garçons de 5 ans et plus
 
 [Achète-le!!](https://www.amazon.fr/dp/B07FNS6J93/?tag=tolees0d-21)
