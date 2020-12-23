@@ -25,12 +25,12 @@ Vous avez [Ponceuse excentrique sans fil Bosch - Advancedorbit 18  Livré sans b
 
 ℹ️:
 
+- power4all : une seule batterie de 18V interchangeable (non fournie). puce syneon : capacité dendurance maximale et puissance optimale.
 - Travail sans fatigue – contrôle optimal (témoin LED de niveau de charge) et grand confort d’utilisation. Polyvalente : sélection de la vitesse pour adapter selon le matériau.
-- Niveau de pression acoustique: 77 dB (A) | Niveau de puissance acoustique: 88 dB (A) | Incertitude K: 3 dB
-- Oscillations (osc/min) : 3.000 – 10.800
-- La liberté du sans fil, pour tous vos travaux de ponçage sur de moyennes ou grandes surfaces.
 - Travail propre - système intégré aspiration de poussière avec microfilm réduisant la production de poussière et le travail de nettoyage.
 - NOTEZ: la batterie et le chargeur sont vendus séparément
-- power4all : une seule batterie de 18V interchangeable (non fournie). puce syneon : capacité dendurance maximale et puissance optimale.
+- Oscillations (osc/min) : 3.000 – 10.800
+- La liberté du sans fil, pour tous vos travaux de ponçage sur de moyennes ou grandes surfaces.
+- Niveau de pression acoustique: 77 dB (A) | Niveau de puissance acoustique: 88 dB (A) | Incertitude K: 3 dB
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XCMVTPZ/?tag=tolees0d-21)
