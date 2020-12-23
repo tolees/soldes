@@ -25,8 +25,8 @@ C'est en vente [Napapijri Rainforest M Sum 1 Blouson  Gris  Volcano H74   Large 
 
 ℹ️:
 
-- Sustainability: Fluorocarbon (PFC) Free
 - Material: 100% Polyamide
 - Jacket Type: Waterproof
+- Sustainability: Fluorocarbon (PFC) Free
 
 [Achète-le!!](https://www.amazon.fr/dp/B0796CH3BM/?tag=tolees0d-21)

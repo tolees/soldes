@@ -25,10 +25,10 @@ C'est en vente [Mobilis Sac à Dos Rolltop avec Poche Avant 14-16" - Noir](https
 
 ℹ️:
 
-- Pour PC jusquà 16"
+- Ouverture toploading
 - 1 grand compartiment
 - Ouverture/fermeture type Roll-up pour un volume 100% ajustable
+- Pour PC jusquà 16"
 - 1 poche avant avec organiser
-- Ouverture toploading
 
 [Achète-le!!](https://www.amazon.fr/dp/B07ZKF19QW/?tag=tolees0d-21)
