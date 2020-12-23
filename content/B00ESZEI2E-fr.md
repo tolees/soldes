@@ -25,13 +25,13 @@ Vous avez [Tefal Crep Party Colormania  Crêpier  Surface Antiadhésive  Fonctio
 
 ℹ️:
 
-- Le crêpier Colormania est parfait pour partager un moment convivial en famille ou avec vos amis
+- Contour thermoplastique pour une utilisation sécurisée
+- Garantie 2 ans
 - Fabriqué en France
 - Revêtement antiadhésif Pro métal longue durée et résistant
-- Garantie 2 ans
-- Système de rangement sous lappareil
-- Contour thermoplastique pour une utilisation sécurisée
-- Accessoires inclus : 6 spatules et une louche
+- Le crêpier Colormania est parfait pour partager un moment convivial en famille ou avec vos amis
 - Indicateur Thermo- spot pour une cuisson idéale
+- Accessoires inclus : 6 spatules et une louche
+- Système de rangement sous lappareil
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ESZEI2E/?tag=tolees0d-21)

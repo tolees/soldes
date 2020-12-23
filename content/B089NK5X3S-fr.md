@@ -27,8 +27,8 @@ C'est en vente [Kit Rehaussement de Cils SKEY  33 PCS Rehaussement de Cil pour p
 
 - ❤ 【Abordable】 Dites adieu aux salons de beauté coûteux. Les cils SKEY Rehaussement Cils peuvent être utilisés jusquà 20 fois, ce qui vous évite le coût dachat dautres Eyelash Lift Kit.
 - ❤ 【Matériaux sûrs et de haute qualité】 Rehaussement de Cil fabriqué à partir de matières premières naturelles douces et non irritantes et de coussins en silicone de haute qualité. Une variété de coussinets en silicone sadaptera à différents types de globes oculaires, et les gens peuvent obtenir un bon effet de coiffage des cils.
-- ❤ 【Style longue durée】 Après avoir utilisé le Kit Rehaussement de Cils, les cils resteront courbés pendant 1 mois. Vous obtiendrez de charmants cils recourbés semi-permanents, et cest mieux pour les faux cils. Cest un choix important pour votre rendez-vous.
 - ❤ 【Avertissement】: Veuillez fixer les cils après avoir appliqué le colorant pour cils et attendre 30 secondes avant de passer à létape suivante. De cette façon, les cils ont un meilleur effet de curling. Sinon, vous obtiendrez un résultat insatisfaisant.
 - ❤ 【Cils 3D】 Tout type de cils peut créer un bon effet et vous donner une paire dyeux 3D naturels et charmants. Et les ingrédients naturels de la solution nutritive peuvent également nourrir les cils et favoriser la croissance des cils.
+- ❤ 【Style longue durée】 Après avoir utilisé le Kit Rehaussement de Cils, les cils resteront courbés pendant 1 mois. Vous obtiendrez de charmants cils recourbés semi-permanents, et cest mieux pour les faux cils. Cest un choix important pour votre rendez-vous.
 
 [Achète-le!!](https://www.amazon.fr/dp/B089NK5X3S/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ C'est en vente [Montre de Poche Mécanique - Dream Dragon ManChDa Squelette Cadr
 
 ℹ️:
 
-- [ BATTERY NEEDLESS ] - No need to use battery, Twisting the top button on the spin, Tightening a walk for 24 hours, Please keep the watch away from magnet to avoid making the watch stop working.
-- [ UNIQUE DESIGN ] - Classical pocket watch with double cases. Dream Dragon pattern half hunter, black Skeleton Dial blue Roman with Luminous pointers. Dream dragon stands for powerful, husky and courageous. Fashionable and attractive! Fluorescent pointers, allow to read the times in dimly environment.
+- [ FASHION ACCESSORY ] - Pocket Watch Chain which suitable for VEST. Attractive Steampunk design, Its an eye-catcher at the suit, pants or dress of gentleman and lady! Fit for casual environment and business occasion.
 - [ PERFECT CHOICE ]- Comes with a nice gift BOX, A microfiber cloth for easy cleaning, Perfect present for friends, families, lovers or yourself. Best Valentine Gift, Superb Christmas Gift, Birthday Gift, Wedding Gift etc.
 - [ HEIGH QUALITY ] - 100% brand new with excellent workmanship, Precise blue mechanical movement. Please wind up the watch before every usage. For safety, the front face is made of Acrylic instead of Glass.
-- [ FASHION ACCESSORY ] - Pocket Watch Chain which suitable for VEST. Attractive Steampunk design, Its an eye-catcher at the suit, pants or dress of gentleman and lady! Fit for casual environment and business occasion.
+- [ UNIQUE DESIGN ] - Classical pocket watch with double cases. Dream Dragon pattern half hunter, black Skeleton Dial blue Roman with Luminous pointers. Dream dragon stands for powerful, husky and courageous. Fashionable and attractive! Fluorescent pointers, allow to read the times in dimly environment.
+- [ BATTERY NEEDLESS ] - No need to use battery, Twisting the top button on the spin, Tightening a walk for 24 hours, Please keep the watch away from magnet to avoid making the watch stop working.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07F68RH9H/?tag=tolees0d-21)
