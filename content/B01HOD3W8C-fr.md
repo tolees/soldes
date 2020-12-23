@@ -25,8 +25,8 @@ Vous avez [Shea Moisture Shampoing Hydratant au Beurre de Karité Brut pour Chev
 
 ℹ️:
 
-- Le shampoing hydratant au beurre de karité brut SheaMoisture convient aux cheveux secs qui ont été endommagés, trop traités ou en transition
 - Ce shampoing fortifiant et revitalisant vous aide a hydrater et nourir les cheveux
 - Ce shampoing est idéal pour les types de cheveux 3A à 4C ainsi que pour les cheveux secs, abîmés, en transition et naturels
+- Le shampoing hydratant au beurre de karité brut SheaMoisture convient aux cheveux secs qui ont été endommagés, trop traités ou en transition
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HOD3W8C/?tag=tolees0d-21)

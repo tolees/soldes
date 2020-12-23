@@ -25,9 +25,9 @@ Vous avez [Brabantia - 117268 - Égouttoir à vaisselle compact  Gris foncé](ht
 
 ℹ️:
 
+- Fabriqué à partir de matériaux qui résistent à la corrosion.
 - Panier à couverts amovible pour un rangement facilité.
 - Garantie 5 ans.
 - La solution idéale si lespace de votre plan de travail est limité.
-- Fabriqué à partir de matériaux qui résistent à la corrosion.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B079PKC56L/?tag=tolees0d-21)
