@@ -25,10 +25,10 @@ Vous avez [Playmobil - Maison de Ville - 70014](https://www.amazon.fr/dp/B07JMCB
 
 ℹ️:
 
-- Contents: 1x PLAYMOBIL City Life My Townhouse 196-piece playset with instructions: 1 townhouse, 2 figures, 193 accessories, Material: Plastic, L x W x H: 26 x 33 x 40 cm, 70014
-- Explore your own fun town: PLAYMOBIL My Townhouse with detailed accessories and exchangable elements for combining and building
-- Roof, floors, windows, doors, Combine with PLAYMOBIL My Hair Salon (70376), My Café (70015), My Flower Shop (70016), My Fashion Boutique (70017), Supermarket (70375) - all sold separately
 - Can be used everyday: Instructions for assembly with parents, High quality and robust design, Clean the parts (without stickers) under running water without chemical agents
+- Contents: 1x PLAYMOBIL City Life My Townhouse 196-piece playset with instructions: 1 townhouse, 2 figures, 193 accessories, Material: Plastic, L x W x H: 26 x 33 x 40 cm, 70014
+- Roof, floors, windows, doors, Combine with PLAYMOBIL My Hair Salon (70376), My Café (70015), My Flower Shop (70016), My Fashion Boutique (70017), Supermarket (70375) - all sold separately
+- Explore your own fun town: PLAYMOBIL My Townhouse with detailed accessories and exchangable elements for combining and building
 - Playset for children ages 4+, Ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JMCBSX4/?tag=tolees0d-21)

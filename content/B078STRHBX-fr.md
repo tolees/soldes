@@ -25,10 +25,10 @@ Vous avez [SanDisk Extreme Portable SSD 1TB - Disque SSD externe jusqu à 550Mo/
 
 ℹ️:
 
-- Compact et portable
-- Cœur de SSD résistant aux chocs pour une plus grande durabilité
-- Pour les utilisateurs de PC et Mac
 - Les transferts à vitesse élevée, jusquà 550 Mo/s, vous permettent de déplacer vos photos et vidéos haute résolution rapidement
 - Robuste, résistant à leau et à la poussière (indice IP55)
+- Compact et portable
+- Pour les utilisateurs de PC et Mac
+- Cœur de SSD résistant aux chocs pour une plus grande durabilité
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B078STRHBX/?tag=tolees0d-21)

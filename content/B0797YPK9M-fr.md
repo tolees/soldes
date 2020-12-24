@@ -26,9 +26,9 @@ C'est en vente [Sylvanian Families - La Ville - Le Grand Magasin de Ville - 6017
 ℹ️:
 
 - Great for stimulating imaginative role-play in children
+- The Grand Department Store is an iconic department store in town with fancy decorations and eye-catching engravings
+- Well-made with fine attention to detail
 - The set comes with a two-storey department store building, an entrance tower and a real working lift and revolving door – there’s also a lookout balcony
 - New item from Sylvanian Families
-- Well-made with fine attention to detail
-- The Grand Department Store is an iconic department store in town with fancy decorations and eye-catching engravings
 
 [Achète-le!!](https://www.amazon.fr/dp/B0797YPK9M/?tag=tolees0d-21)

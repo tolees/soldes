@@ -25,10 +25,10 @@ C'est en vente [tech rc Drone avec Caméra HD  Drone Caméra Temps de Vol de 20 
 
 ℹ️:
 
-- Wifi FPV Drone : built in camera let you able to see real time view from airspace much high above, also capable of taking photos and videos during flight, which could store in your phone for sharing.
 - Durable and Safe: The sturdy structure and four covered propeller shields ensure flight safety, thereby protecting your child from the physical damage caused by the propellers. High-quality flexible ABS material can withstand numerous impacts or drops. Very durable and safe drone for children and beginners.
 - User-friendly: You can fly up/land drone with just one button; switch three speeds(high-medium-low) while flight; with the headless mode, you dont need to worry about the direction; the altitude hold function keeps the drone hover stably in the air automatically, all these features make the drone extremely easy for use.
 - Fun Play: Featuring with 3D flip & roll and high-speed spin function, let it fly up in your hand will always amaze kids, having fun with your family and friends. NOTE: Best flying performance indoors.
+- Wifi FPV Drone : built in camera let you able to see real time view from airspace much high above, also capable of taking photos and videos during flight, which could store in your phone for sharing.
 - Extended flight time: 2 rechargeable batteries included prolong your flight time up to 20 minutes, provide you with robust flight experience. And we choose the module battery which is specially designed for convenient removable/insert.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07SW3YYTQ/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ C'est en vente [Sabrent 1TB Rocket Nvme PCIe 4.0 M.2 2280 Internal SSD Maximum P
 
 ℹ️:
 
-- Wear leveling avancé, gestion des blocs, technologie de correction des erreurs, et over-provisioning.
-- Pour un clonage facile, tous les SSD Sabrent sont livrés gratuitement avec le logiciel Acronis True Image pour logiciel Sabrent. Pour les personnes qui nécessitent une taille de secteur spécifique afin de cloner leur SSD existant : Un nouvel utilitaire Sabrent permet aux utilisateurs de reformater le disque Rocket et de choisir la taille quils préfèrent, soit 512 bytes, soit 4K bytes.
 - Interface M.2 NVME PCIe Gen4 x4. Compatible PCIe 4.0 / NVMe 1.3.
-- Prise en charge des commandes SMART et TRIM. Prise en charge des interfaces ONFi 2.3, ONFi 3.0, ONFI 3.2 et ONFi 4.0.
+- Wear leveling avancé, gestion des blocs, technologie de correction des erreurs, et over-provisioning.
 - Gestion d’alimentation pour APST / ASPM / L1.2.
+- Pour un clonage facile, tous les SSD Sabrent sont livrés gratuitement avec le logiciel Acronis True Image pour logiciel Sabrent. Pour les personnes qui nécessitent une taille de secteur spécifique afin de cloner leur SSD existant : Un nouvel utilitaire Sabrent permet aux utilisateurs de reformater le disque Rocket et de choisir la taille quils préfèrent, soit 512 bytes, soit 4K bytes.
+- Prise en charge des commandes SMART et TRIM. Prise en charge des interfaces ONFi 2.3, ONFi 3.0, ONFI 3.2 et ONFi 4.0.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07TLYWMYW/?tag=tolees0d-21)

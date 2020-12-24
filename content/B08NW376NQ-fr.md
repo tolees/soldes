@@ -25,10 +25,10 @@ Vous avez [TUTUO 2er-Set Manette pour Switch  Bluetooth sans Fil Wireless Replac
 
 ℹ️:
 
-- 【Fonction étendue】La poignée est équipée dun gyroscope à 6 axes pour une visée et une prise de vue précises. Chaque contrôleur contient un accéléromètre et un capteur gyroscopique qui conviennent à tous les types de jeux de course, de tir et de course à pied.
-- 【Haute performance】Il prend en charge la double vibration et les gyroscopes intégrés dans chaque manette et chaque manette de jeu dispose dun ensemble complet de boutons. Bouton de capture décran pour obtenir et enregistrer des captures décran. Nous vous proposons une expérience de jeu agréable.
 - 【Port de charge de type C】Les contrôleurs gauche et droit sont équipés dune batterie de 300 mAh qui offre 4 heures de lecture avec vibration et 8 heures de lecture sans vibration. Autonomie de la batterie rechargeable denviron 4 heures et 8 heures pour des sessions de jeu sans vibrations; chargé par console ou mirco USB.
+- 【Haute performance】Il prend en charge la double vibration et les gyroscopes intégrés dans chaque manette et chaque manette de jeu dispose dun ensemble complet de boutons. Bouton de capture décran pour obtenir et enregistrer des captures décran. Nous vous proposons une expérience de jeu agréable.
 - 【Prise en charge de la fonction filaire】La conception simple à insérer sécurise votre contrôleur de commutateur et est facile à installer et à retirer. Prise en charge de la connexion filaire, faites glisser le contrôleur sur la console du commutateur et le contrôleur se connectera automatiquement à la console. Si le contrôleur nest pas alimenté, la console chargera le contrôleur lorsque la console est connectée par câble.
 - 【Console Nintendo Switch】Cette manette de jeu professionnelle sans fil est compatible avec Nintendo Switch. Compatible avec la dernière version de Nintendo Switch 11.0.0. Remarque: non compatible avec les accessoires Joy-cons.Les joysticks gauche et droit peuvent être utilisés séparément pour répondre à vos besoins individuels. Partagez un Joy-Con avec votre ami, le vôtre peut mendier ou coopérer à tout moment.
+- 【Fonction étendue】La poignée est équipée dun gyroscope à 6 axes pour une visée et une prise de vue précises. Chaque contrôleur contient un accéléromètre et un capteur gyroscopique qui conviennent à tous les types de jeux de course, de tir et de course à pied.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08NW376NQ/?tag=tolees0d-21)

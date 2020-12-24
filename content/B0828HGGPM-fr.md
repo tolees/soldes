@@ -25,10 +25,10 @@ Vous avez [FUNKO Pop! FUNKOVERSE: Harry Potter 102- 4PK](https://www.amazon.fr/d
 
 ℹ️:
 
-- Harry Potter 102 Expand alone 2 player game
-- Contains Funko POP. Vinyl collectible figures.
-- Funk verse strategy board game from Funko
 - Including 2 x Pint Sized Funko POP. only available with this game
+- Contains Funko POP. Vinyl collectible figures.
+- Harry Potter 102 Expand alone 2 player game
 - This game can be played as a standalone or as an extension to other Funk verse games
+- Funk verse strategy board game from Funko
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0828HGGPM/?tag=tolees0d-21)

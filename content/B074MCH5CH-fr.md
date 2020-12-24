@@ -25,10 +25,10 @@ C'est en vente [EAFIT Boisson Energétique +3H Neutre 500 g](https://www.amazon.
 
 ℹ️:
 
+- LEADING FRENCH PHARMACEUTICAL BRAND: EAFIT has been specialising in sports nutrition since 1991. Our products are formulated in the laboratory by our nutrition specialists and doctors
 - Assists energy metabolism
 - Action anti-oxydante
-- LEADING FRENCH PHARMACEUTICAL BRAND: EAFIT has been specialising in sports nutrition since 1991. Our products are formulated in the laboratory by our nutrition specialists and doctors
-- AFNOR CERTIFIED - ANTI-DOPING STANDARD: Complies with the AFNOR NF V 94-001 standard and the anti-doping regulations in place on the date of manufacture of the batch.
 - Combination of simple and complex slow-release carbohydrates for delayed and long-lasting energy
+- AFNOR CERTIFIED - ANTI-DOPING STANDARD: Complies with the AFNOR NF V 94-001 standard and the anti-doping regulations in place on the date of manufacture of the batch.
 
 [Achète-le!!](https://www.amazon.fr/dp/B074MCH5CH/?tag=tolees0d-21)

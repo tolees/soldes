@@ -25,10 +25,10 @@ C'est en vente [Tommy Hilfiger Eton Cc Am0am00651  Porte-Monnaie - Noir  002   T
 
 ℹ️:
 
-- Matière : Cuir
-- Série : Eton
 - Emplacements pour carte de crédit : 4
 - Dimensions exterieures (L x l x h): 12.5cm x 9.5cm x 2cm
 - Type de fermeture : ouvert
+- Série : Eton
+- Matière : Cuir
 
 [Achète-le!!](https://www.amazon.fr/dp/B00X0W9WZY/?tag=tolees0d-21)

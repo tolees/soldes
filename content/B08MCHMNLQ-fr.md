@@ -25,10 +25,10 @@ Vous avez [Orzly Duocharger - Station d accueil Compatible avec Les Manettes pou
 
 ℹ️:
 
-- CHARGEMENT INTELLIGENT: Les protocoles de charge intelligents intégrés offrent une protection contre les surcharges qui peuvent endommager la durée de vie de la batterie de votre manette. Les voyants LED affichent létat de charge. Le voyant rouge indique que votre contrôleur est en cours de chargement et le voyant vert confirme la fin.
+- COMPATIBLE AVEC DIFFÉRENTS MANETTES DE JEUX: Ce Duo-Charger Orzly est compatible avec les manettes pour PlayStation 5 / Xbox Series X | S / Stadia / et Nintendo Switch Pro-Controller. 
+- SUPPORT DE CHARGEMENT & DE RANGEMENT: la station daccueil garantit que vos manettes restent conserves et se rechargent en toute sécurité lorsquils ne sont pas utilisés. Avec le câble de chargement USB fourni, branchez simplement la station daccueil à une source dalimentation (non incluse) telle que la console, le PC, la banque dalimentation ou ladaptateur USB.
 - COMMODITÉ ESSENTIELLE: LOrzly Duo-Charger offre un moyen rapide et facile de charger et de ranger vos manettes. Il faudra environ 2,5 heures pour charger un manette et environ 3 heures pour charger deux manettes (le temps de charge varie en fonction de la source dalimentation utilisée).
 - STATION DE CHARGE DE TYPE-C: Inclus sont deux connecteurs USB-C amovibles que nous recommandons de laisser branché afin quils ne se perdent pas. La connexion USB-C permet à ce dock de fonctionner avec des manettes de différentes consoles de jeu.
-- SUPPORT DE CHARGEMENT & DE RANGEMENT: la station daccueil garantit que vos manettes restent conserves et se rechargent en toute sécurité lorsquils ne sont pas utilisés. Avec le câble de chargement USB fourni, branchez simplement la station daccueil à une source dalimentation (non incluse) telle que la console, le PC, la banque dalimentation ou ladaptateur USB.
-- COMPATIBLE AVEC DIFFÉRENTS MANETTES DE JEUX: Ce Duo-Charger Orzly est compatible avec les manettes pour PlayStation 5 / Xbox Series X | S / Stadia / et Nintendo Switch Pro-Controller. 
+- CHARGEMENT INTELLIGENT: Les protocoles de charge intelligents intégrés offrent une protection contre les surcharges qui peuvent endommager la durée de vie de la batterie de votre manette. Les voyants LED affichent létat de charge. Le voyant rouge indique que votre contrôleur est en cours de chargement et le voyant vert confirme la fin.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08MCHMNLQ/?tag=tolees0d-21)

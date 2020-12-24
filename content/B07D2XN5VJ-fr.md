@@ -25,9 +25,9 @@ C'est en vente [Kleenex FAMILY – Mouchoirs en papier - Lot de 15 Boîtes Maxi 
 
 ℹ️:
 
-- per pack certified FSC (Forest Stewardship Council).
+- It is the ideal size for the needs of your home. Various and varied by its high capacity (140 tissues), it will respond to the needs of each individual.
 - The maxi format for the whole family. This new box of Kleenex is the faithful partner for the whole family.
 - Thanks to its Level Indicator, you can efficiently manage your intake of tissues.
-- It is the ideal size for the needs of your home. Various and varied by its high capacity (140 tissues), it will respond to the needs of each individual.
+- per pack certified FSC (Forest Stewardship Council).
 
 [Achète-le!!](https://www.amazon.fr/dp/B07D2XN5VJ/?tag=tolees0d-21)
