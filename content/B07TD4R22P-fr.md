@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 46.26 % en LIGHTAILING Jeu De Lumières pour  Archit'
-date: 2020-11-25 16:57:05
+title: '46.26 % rabais sur LIGHTAILING Jeu De Lumières pour  Archit'
+date: 2020-12-24 09:50:17
 image: 'https://m.media-amazon.com/images/I/41MSRa8oHuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TD4R22P/?tag=tolees0d-21'
 descuento: '46.26'
+average: '42.99'
 ---
 
-Tienes [LIGHTAILING Jeu De Lumières pour  Architecture Paris  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21044 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B07TD4R22P/?tag=tolees0d-21) con un 46.26 % de descuento con precio de oferta de 42.99 EUR (original: 80.0 EUR) en el siguiente enlace!
+Vous avez [LIGHTAILING Jeu De Lumières pour  Architecture Paris  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21044 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B07TD4R22P/?tag=tolees0d-21)  à  46.26 % de réduction, prix final  42.99 EUR (original: 80.0 EUR) ici:
 
 [![LIGHTAILING Jeu De Lumières pour  Archit](https://m.media-amazon.com/images/I/41MSRa8oHuL._SL200_.jpg)](https://www.amazon.fr/dp/B07TD4R22P/?tag=tolees0d-21)
 
 ℹ️:
 
+- A PROPOS DE NOUS: Spécialisé dans la conception de jouets déclairage sur mesure, nous visons à fournir à nos clients des produits de qualité et des services de qualité. Rendez vos créations uniques avec votre imagination et votre créativité. Allumez vos briques et apportez leur une nouvelle énergie. Si vous avez des problèmes, nhésitez pas à nous contacter. Passez une bonne expérience de magasinage!
+- CARACTÉRISTIQUE DU PRODUIT: La Lumière Est Faite A Partir De Matériaux Dorigine Purement Faits A La Main. Il Contient 1 Kit De Lumière Usb, Mode Demploi, Boîte A Piles. Brancher Lalimentation, Et Eclairer Vos Blocs De Construction Avec Notre Conception Etonnante!
+- INSTRUCTION DE MONTAGE: Linstallation de lensemble déclairage se fait selon vos préférences. Veuillez installer votre lampe à led avec soin, sans tirer fort et sans avoir besoin de la tordre ou de la secouer.
+- CONSEILS: Préparer trois piles AA, ou le chargeur USB et la tension doit être inférieure à 5V pour éviter de brûler.
+- USAGE: lensemble de lumière est utilisé pour Eclairer Architecture Paris (à lexception de lensemble lego).
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07TD4R22P/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TD4R22P/?tag=tolees0d-21)

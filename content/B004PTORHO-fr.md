@@ -1,32 +1,32 @@
 ---
 layout: post
-title: 'Pentel 15432 Porte-mines P200 0.7 mm Emb al 28.12 % de descuento'
-date: 2020-12-20 02:38:58
+title: '40.51 % rabais sur Pentel 15432 Porte-mines P200 0.7 mm Emb'
+date: 2020-12-24 09:55:30
 image: 'https://m.media-amazon.com/images/I/41hXeNAIsKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B004PTORHO-fr'
-actualPrice: 6.44 EUR
+actualPrice: 5.33 EUR
 currency: EUR
-price: 6.44
+price: 5.33
 comparePrice: 8.96 EUR
 prodname: 'Pentel 15432 Porte-mines P200 0.7 mm Embout agrafe Métalliques 4 mm Magenta'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21'
-descuento: '28.12'
-average: '6.291951219512195'
+descuento: '40.51'
+average: '6.269047619047619'
 ---
 
-Está [Pentel 15432 Porte-mines P200 0.7 mm Embout agrafe Métalliques 4 mm Magenta](https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21) con 28.12 de descuento por 6.44 EUR (original: 8.96 EUR) en el siguiente enlace!
+Vous avez [Pentel 15432 Porte-mines P200 0.7 mm Embout agrafe Métalliques 4 mm Magenta](https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21)  à  40.51 % de réduction, prix final  5.33 EUR (original: 8.96 EUR) ici:
 
 [![Pentel 15432 Porte-mines P200 0.7 mm Emb](https://m.media-amazon.com/images/I/41hXeNAIsKL._SL200_.jpg)](https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21)
 
 ℹ️:
 
-- 4 mm tube de guidage pour travail de précision avec une règle ou pochoir
-- Clip amovible
-- Gomme intégrée
+- Pentel automatic pencil
+- Made in United Kingdom
+- Brand : PENTEL
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21)

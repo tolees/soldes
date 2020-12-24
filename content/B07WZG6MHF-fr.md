@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Sony Xperia 5 Smartphone débloqué 4G  Ec al 37.42 % de descuento'
-date: 2020-12-19 14:17:36
+title: '37.42 % rabais sur Sony Xperia 5 Smartphone débloqué 4G  Ec'
+date: 2020-12-24 09:55:23
 image: 'https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,15 +19,15 @@ descuento: '37.42'
 average: '449.2'
 ---
 
-Está [Sony Xperia 5 Smartphone débloqué 4G  Ecran 21: 9 Cinemawide OLED de 6  1" 128 Go Double SIM Android Pie   Noir](https://www.amazon.fr/dp/B07WZG6MHF/?tag=tolees0d-21) con 37.42 de descuento por 500.0 EUR (original: 799.0 EUR) en el siguiente enlace!
+Vous avez [Sony Xperia 5 Smartphone débloqué 4G  Ecran 21: 9 Cinemawide OLED de 6  1" 128 Go Double SIM Android Pie   Noir](https://www.amazon.fr/dp/B07WZG6MHF/?tag=tolees0d-21)  à  37.42 % de réduction, prix final  500.0 EUR (original: 799.0 EUR) ici:
 
 [![Sony Xperia 5 Smartphone débloqué 4G  Ec](https://m.media-amazon.com/images/I/31nOjlFz8ZL._SL200_.jpg)](https://www.amazon.fr/dp/B07WZG6MHF/?tag=tolees0d-21)
 
 ℹ️:
 
+- Batterie: 3140mAh.Angle de prise de vue: Angle de 130°
 - Regardez des films fidèles à la vision de leurs créateurs: lécran cinemawide 6, 1"fhd+ HDR OLED reproduit les scènes avec le plus grand réalisme, fidèles à la vision de leur créateur.
 - Trois caméras, trois objectifs, des possibilités infinies: avec un objectif super grand angle de 16 mm, un 26 mm polyvalent et un téléobjectif 52 mm pour les portraits, vous êtes parés à toute situation.
-- Batterie: 3140mAh.Angle de prise de vue: Angle de 130°
 - Précision absolue eye AF: mise au point plus rapide pour des images inoubliables avec la précision de lautofocus eye AF. Formats vidéo pris en charge: MPEG-4 Video, H.263, H.264, H.265, VP8, VP9
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07WZG6MHF/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WZG6MHF/?tag=tolees0d-21)
