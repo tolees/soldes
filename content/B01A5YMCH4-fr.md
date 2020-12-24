@@ -25,10 +25,10 @@ Vous avez [Learning Resources Code & Go - Kit d Activités Souris Robot](https:/
 
 ℹ️:
 
-- Fonctionne avec 3 piles AAA (non fournies).
 - Guide dactivités multilingue inclus.
 - Introduction aux compétences pratiques de codage.
 - Initiation au STEM.
 - 10 fiches dactivités et 30 cartes de codage incluses.
+- Fonctionne avec 3 piles AAA (non fournies).
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01A5YMCH4/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [Crucial CT2000X8SSD9 X8 2To Portable SSD – Vitesses atteignant 1050
 
 ℹ️:
 
-- Des performances incroyables avec des vitesses de lecture atteignant 1050 Mo/s
-- Un produit élégant et durable, pourvu d’une coque en aluminium anodisé
-- Un produit Micron, l’un des plus grands fabricants de stockage flash au monde
-- Résistant aux chutes jusqu’à 2 m. Résistant aux températures extrêmes, aux chocs et aux vibrations
 - Compatible avec Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4, et Xbox One avec les connecteurs USB-C 3.2 Gen2 et USB-A
+- Un produit Micron, l’un des plus grands fabricants de stockage flash au monde
+- Un produit élégant et durable, pourvu d’une coque en aluminium anodisé
+- Des performances incroyables avec des vitesses de lecture atteignant 1050 Mo/s
+- Résistant aux chutes jusqu’à 2 m. Résistant aux températures extrêmes, aux chocs et aux vibrations
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08C3XVP2P/?tag=tolees0d-21)

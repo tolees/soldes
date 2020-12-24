@@ -26,10 +26,10 @@ Vous avez [Sony WH-CH510 Casque Sans Fil Bluetooth avec micro intégré et appel
 ℹ️:
 
 - Profitez jusqu’à 35h d’écoute sans fil en Bluetooth et dune recharge rapide (10min = 90min de musique) via USB-C
-- Design fin et coques pivotantes pour plus de mobilité
-- Casque très léger avec seulement 132g
-- Prenez vos appels mains libres à tout moment grce au microphone intégré. Réglez votre musique directement sur l’oreillette
 - Temps de charge de la batterie: Environ 4,5 heures (charge complète)
+- Design fin et coques pivotantes pour plus de mobilité
+- Prenez vos appels mains libres à tout moment grce au microphone intégré. Réglez votre musique directement sur l’oreillette
 - Le plaisir de la musique sans fil en toute liberté grce à la technologie Bluetooth
+- Casque très léger avec seulement 132g
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21)

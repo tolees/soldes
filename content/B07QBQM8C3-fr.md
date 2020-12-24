@@ -25,9 +25,9 @@ C'est en vente [Funko Pop! Bobble Vinyle Marvel: Holiday - Captain America  Mult
 
 ℹ️:
 
-- Issue de la gamme Marvel, la figurine Captain America rejoint la collection Funko POP
 - Découvrez tous les autres produits Funko dédiés à lunivers Marvel Collectionnez-les tous
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Issue de la gamme Marvel, la figurine Captain America rejoint la collection Funko POP
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 
 [Achète-le!!](https://www.amazon.fr/dp/B07QBQM8C3/?tag=tolees0d-21)

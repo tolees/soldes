@@ -25,11 +25,11 @@ C'est en vente [Sony SRS-XB12 Enceinte Bluetooth Portable Extra Bass Waterproof 
 
 ℹ️:
 
+- Dotée de la technologie EXTRA BASS pour un son puissant. Profils compatibles Bluetooth: A2DP / AVRCP / HFP / HSP
 - Portée de communication maximale: 10 m
+- Lenceinte résiste à leau, à la poussière, au sable et à la boue (norme IP67), et a jusquà 16h dautonomie
 - Jouez votre musique préférée grâce à la fonction Bluetooth
 - Fréquence de transmission: 20 Hz – 20 000 Hz (fréquence déchantillonnage : 44,1 kHz)
 - Facilement transportable grâce au design petit, léger et compact
-- Lenceinte résiste à leau, à la poussière, au sable et à la boue (norme IP67), et a jusquà 16h dautonomie
-- Dotée de la technologie EXTRA BASS pour un son puissant. Profils compatibles Bluetooth: A2DP / AVRCP / HFP / HSP
 
 [Achète-le!!](https://www.amazon.fr/dp/B07MF9Q21L/?tag=tolees0d-21)
