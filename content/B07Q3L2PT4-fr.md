@@ -26,7 +26,7 @@ Vous avez [Charrier Parfums Coffret de 5 Eaux de Parfum Luxe Miniatures Total 60
 ℹ️:
 
 - 100 % Made in France par Charrier Parfums, parfumeur depuis 1888
-- Coffret Cadeau contenant 5 Eaux de Parfums Miniatures
 - Un choix de Parfums différents et raffinés, modernes ou traditionnels
+- Coffret Cadeau contenant 5 Eaux de Parfums Miniatures
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q3L2PT4/?tag=tolees0d-21)

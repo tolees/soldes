@@ -25,10 +25,10 @@ Vous avez [Lacoste Polo  Homme  L1212  Bordeaux  L](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
+- Lavage en machine
+- Multipack: 1
 - Fit Classic
 - Coupe classique
 - 100% coton
-- Lavage en machine
-- Multipack: 1
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B002LU5DP4/?tag=tolees0d-21)

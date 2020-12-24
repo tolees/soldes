@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'BRIKSMAX Kit de LED pour Lego Ideas Gran al 25.00 % de descuento'
-date: 2020-10-30 17:26:15
+title: '25.00 % rabais sur BRIKSMAX Kit de LED pour Lego Ideas Gran'
+date: 2020-12-24 16:04:08
 image: 'https://m.media-amazon.com/images/I/51UmrG1F7ZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,19 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21'
 descuento: '25.00'
+average: '59.99'
 ---
 
-Está [BRIKSMAX Kit de LED pour Lego Ideas Grand Piano Compatible avec la Maquette Lego 21323  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21) con 25.00 de descuento por 59.99 EUR (original: 79.99 EUR) en el siguiente enlace!
+Vous avez [BRIKSMAX Kit de LED pour Lego Ideas Grand Piano Compatible avec la Maquette Lego 21323  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21)  à  25.00 % de réduction, prix final  59.99 EUR (original: 79.99 EUR) ici:
 
 [![BRIKSMAX Kit de LED pour Lego Ideas Gran](https://m.media-amazon.com/images/I/51UmrG1F7ZL._SL200_.jpg)](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21)
 
 ℹ️:
 
+- Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
+- Le paquet contient les bit lights,les bandes lumineuses, les panneaux dexpansion, les câbles, un bloc-pile (piles non incluses), les carrés adhésifs, le manuel dinstructions.
+- Veuillez noter que seule les lumières LED sont incluses. Tous les sets LEGO montrés en images et vidéos ne sont pas inclus.
+- Avec les instructions étape par étape, vous trouverez un moyen plus facile de faire de magnifiques améliorations sur votre kit de construction préféré.
+- Conçu pour la maquette Lego 21323,avec ce kit déclairage, vous pouvez faire passer votre LEGO Ideas Grand Piano de lobscurité à la lumière, lui donner vie.
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GH8SYFH/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [TotalMount Support mural pour Nintendo Switch](https://www.amazon.fr/
 
 ℹ️:
 
-- Permet d’installer la Nintendo Switch au mur ou sur un meuble
-- Protection contre la surchauffe et clips de sécurité
-- Compatible avec la Nintendo Switch
 - TotalMount crée des supports de très haute qualité pour de nombreux appareils
+- Compatible avec la Nintendo Switch
+- Protection contre la surchauffe et clips de sécurité
 - Installation sans perçage et rapide grâce à un niveau à bulle intégré
+- Permet d’installer la Nintendo Switch au mur ou sur un meuble
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B071HLJL4Q/?tag=tolees0d-21)
