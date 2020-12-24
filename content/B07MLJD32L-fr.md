@@ -25,8 +25,8 @@ Vous avez [Samsung SSD Interne 970 EVO Plus NVMe M.2  2 To  - MZ-V7S2T0BW](https
 
 ℹ️:
 
-- Format M.2 2280, se connecte directement sur votre carte-mère (nous vous invitons à consulter au préalable la compatibilité de votre matériel)
 - 20x plus rapide quun disque dur grâce à linterface NVMe
+- Format M.2 2280, se connecte directement sur votre carte-mère (nous vous invitons à consulter au préalable la compatibilité de votre matériel)
 - Une endurance exceptionnelle avec une garantie de 5 ans ou jusquà 1200 To écrits
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MLJD32L/?tag=tolees0d-21)
