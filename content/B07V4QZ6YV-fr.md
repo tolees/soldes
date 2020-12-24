@@ -25,15 +25,15 @@ Vous avez [FaureFV-508MC1 Aspirateur balai Magic Clean 2.0 multi cyclonique sans
 
 ℹ️:
 
-- Type de brosse aspirateur / nettoyeur: Brosse éclairée, Brosse motorisée
-- Autonomie jusquà 60mn
 - 4 Cyclones
-- Volume bac à poussière - 650ml
-- Batterie lithium - 25,2V - Amovible
-- Temps de charge - 4 heures
+- Autonomie jusquà 60mn
+- Accessoires intégrés dans le support de charge
 - Moteur numérique Smart engine
 - 2 vitesses
-- Accessoires intégrés dans le support de charge
+- Batterie lithium - 25,2V - Amovible
+- Type de brosse aspirateur / nettoyeur: Brosse éclairée, Brosse motorisée
+- Temps de charge - 4 heures
+- Volume bac à poussière - 650ml
 - Eclairage 6 LED
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V4QZ6YV/?tag=tolees0d-21)
