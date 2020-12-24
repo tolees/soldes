@@ -25,8 +25,8 @@ Vous avez [Nintendo Nes 3D Console & Controller Keychain  Chaîne de clé Mixte 
 
 ℹ️:
 
+- New Officially Licensed Product
 - Great gift for any fan
 - Quality Keyring
-- New Officially Licensed Product
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XQJ4TKW/?tag=tolees0d-21)
