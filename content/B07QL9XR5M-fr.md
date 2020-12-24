@@ -25,8 +25,8 @@ C'est en vente [Mes-bijoux.fr Bracelet jonc Ouvert Ethnique Acier ONDULATION](ht
 
 ℹ️:
 
+- Bracelet rigide en acier - Finition argentée
 - Jonc ouvert - Diamètre 6 cm
 - Conception originale - Inspiration ethnique et tendance
-- Bracelet rigide en acier - Finition argentée
 
 [Achète-le!!](https://www.amazon.fr/dp/B07QL9XR5M/?tag=tolees0d-21)
