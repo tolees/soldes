@@ -25,8 +25,8 @@ Vous avez [Pentel 15432 Porte-mines P200 0.7 mm Embout agrafe Métalliques 4 mm 
 
 ℹ️:
 
-- Pentel automatic pencil
 - Made in United Kingdom
 - Brand : PENTEL
+- Pentel automatic pencil
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21)

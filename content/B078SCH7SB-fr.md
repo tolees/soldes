@@ -25,11 +25,11 @@ C'est en vente [Swarovski Collier Attract Round  Blanc  Métal Rhodié](https://
 
 ℹ️:
 
-- Sa passion inébranlable pour l’innovation et le design en a fait la première marque mondiale de bijoux et d’accessoires en cristal taillé
 - Depuis 1895, le savoir-faire du fondateur Daniel Swarovski en matière de taille du cristal a défini la société
 - Intemporel et élégant, ce design en métal rhodié est idéal pour toutes les occasions et constitue un superbe cadeau
 - Les bijoux Swarovski alimentent véritablement l’expression créative de soi-même
-- Coordonnez-les avec d’autres bijoux Swarovski pour exprimer votre style unique
 - Longueur : 38 cm
+- Sa passion inébranlable pour l’innovation et le design en a fait la première marque mondiale de bijoux et d’accessoires en cristal taillé
+- Coordonnez-les avec d’autres bijoux Swarovski pour exprimer votre style unique
 
 [Achète-le!!](https://www.amazon.fr/dp/B078SCH7SB/?tag=tolees0d-21)

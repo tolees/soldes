@@ -25,10 +25,10 @@ C'est en vente [SuSenGo Titanic Building Block Kit 1021 Pcs](https://www.amazon.
 
 ℹ️:
 
-- 24h online service, have any questions, please feel free to contact us.
-- Build a spectacular project at home, compatible with major brands.
-- Titanic building block kit, contains 1021 pcs blocks! Huge Set!
 - Detailed color instruction, have a happy buidling time.
 - Packed in a colorful box, amazing gift to your friend, baby.
+- Build a spectacular project at home, compatible with major brands.
+- Titanic building block kit, contains 1021 pcs blocks! Huge Set!
+- 24h online service, have any questions, please feel free to contact us.
 
 [Achète-le!!](https://www.amazon.fr/dp/B01NARCK9H/?tag=tolees0d-21)

@@ -25,11 +25,11 @@ C'est en vente [Sun Tablettes Lave-Vaisselle Tout-En-1 Action Intégrale Standar
 
 ℹ️:
 
-- Action 4 en 1 en un seul lavage : dégraisse, anti-traces, sel et liquide de rinçage. Sans pré-rinçage.
 - Tablette lave vaisselle avec 30 % dingrédients dorigine naturelle. Film Hydrosoluble biodégradable.
+- Action 4 en 1 en un seul lavage : dégraisse, anti-traces, sel et liquide de rinçage. Sans pré-rinçage.
 - Fabriqué en France
+- Pour intensifier la puissance de lavage ou si votre eau est dure, la pastille lave vaisselle est compatible avec le liquide de rinçage Sun Shine Boost et Sun Sel Régénérant
 - Le produit Sun protège votre vaisselle ainsi que votre lave-vaisselle
 - Lot de 3x52 Lavages
-- Pour intensifier la puissance de lavage ou si votre eau est dure, la pastille lave vaisselle est compatible avec le liquide de rinçage Sun Shine Boost et Sun Sel Régénérant
 
 [Achète-le!!](https://www.amazon.fr/dp/B07CBLSGLY/?tag=tolees0d-21)

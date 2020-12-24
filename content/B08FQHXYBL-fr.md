@@ -25,9 +25,9 @@ Vous avez [FIFA 21  Xbox One  - Version Xbox Series X incluse](https://www.amazo
 
 ℹ️:
 
-- Country of origin: China
 - Package weight: 70 g
 - Packaging dimensions (L × W × H): 1.2 cm 13.5 cm 17.0 am
+- Country of origin: China
 - 5.03094E+12
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)

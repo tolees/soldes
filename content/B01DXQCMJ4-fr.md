@@ -25,13 +25,13 @@ Vous avez [Soy Luna - YLU32410 - Patins à Roulettes Entrainement - Pointure 36/
 
 ℹ️:
 
-- Apprends et amuse-toi à patiner avec tes super patins à roulettes
+- Platine plastique
 - Age minimum : 3 ans
 - Roulements haute performance
-- Laçage rapide avec oeillets métal
-- Platine plastique
-- Comme Soy Luna dans la série
+- Apprends et amuse-toi à patiner avec tes super patins à roulettes
 - Chausson confortable
+- Laçage rapide avec oeillets métal
+- Comme Soy Luna dans la série
 - Frein polyuréthane
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DXQCMJ4/?tag=tolees0d-21)
