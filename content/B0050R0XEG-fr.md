@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.33 % rabais sur LEGO Creator - 10220 - Jeu de Constructi'
-date: 2020-12-23 22:15:53
+date: 2020-12-24 22:34:22
 image: 'https://m.media-amazon.com/images/I/61zHuRzCSgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0050R0XEG/?tag=tolees0d-21'
 descuento: '15.33'
-average: '113.74765363128488'
+average: '113.92712707182316'
 ---
 
 Vous avez [LEGO Creator - 10220 - Jeu de Construction - Le Camping-Car - Volkswagen T1](https://www.amazon.fr/dp/B0050R0XEG/?tag=tolees0d-21)  à  15.33 % de réduction, prix final  129.99 EUR (original: 153.53 EUR) ici:
