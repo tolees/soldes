@@ -25,15 +25,15 @@ C'est en vente [Nespresso Krups Vertuo Next Gris Clair  Machine Expresso  Machin
 
 ℹ️:
 
-- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
-- Réparabilité 10 ans, Garantie 2 ans
-- CONNECTIVITE VIA BLUETOOTH et WI-FI
-- UN SYSTEME DEXTRACTION EXCLUSIF, la Centrifusion, alliant infusion et force centrifuge pour un café de haute qualité
 - CAPSULES : 28 VARIETES DE CAFE VERTUO dans 5 longueurs de tasses : 40ml, 80ml, 150ml, 230ml, 410ml
-- Se met en MODE ECONOMIE D ENERGIE APRES 2 MINUTES DINUTILISATION
-- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur choisie
-- 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos envies : de l’Espresso jusqu’à l’Alto, en passant par le Mug
 - TEMPS DE PRECHAUFFAGE de la machine de 30 secondes
+- CONNECTIVITE VIA BLUETOOTH et WI-FI
+- 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos envies : de l’Espresso jusqu’à l’Alto, en passant par le Mug
+- Réparabilité 10 ans, Garantie 2 ans
 - EJECTION AUTOMATIQUE des capsules
+- Se met en MODE ECONOMIE D ENERGIE APRES 2 MINUTES DINUTILISATION
+- UN SYSTEME DEXTRACTION EXCLUSIF, la Centrifusion, alliant infusion et force centrifuge pour un café de haute qualité
+- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
+- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur choisie
 
 [Achète-le!!](https://www.amazon.fr/dp/B089BPVJRP/?tag=tolees0d-21)
