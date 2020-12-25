@@ -25,15 +25,15 @@ C'est en vente [LEGO Star Wars AT-AT- Jeu de construction d’un superbe marcheu
 
 ℹ️:
 
-- Un modèle emblématique à construire et à exposer lorsqu’il est à larrêt entre deux combats
-- Fusils à ressort, treuil, speeder bike et bien plus encore, pour un jeu réaliste
-- Ce jouet à construire sans piles stimule l’imagination des enfants
-- Il y en a pour tous les âges dans l’excellentissime gamme LEGO Star Wars
 - Inclut des instructions étape par étape pour réaliser cette construction difficile
-- Pas besoin d’avoir recours à la Force avec les briques LEGO – elles s’assemblent et se séparent facilement
-- Fantastique cadeau d’anniversaire ou de Noël pour les enfants de 10 ans et plus
-- Un modèle de marcheur AT-AT à construire pour le plus grand plaisir des fans de la trilogie Star Wars originale
-- Les composants LEGO sont testés pour répondre aux normes de sécurité galactiques les plus élevées
 - 6 figurines LEGO – dont Luke Skywalker – et des armes pour une action épique
+- Les composants LEGO sont testés pour répondre aux normes de sécurité galactiques les plus élevées
+- Fusils à ressort, treuil, speeder bike et bien plus encore, pour un jeu réaliste
+- Un modèle de marcheur AT-AT à construire pour le plus grand plaisir des fans de la trilogie Star Wars originale
+- Ce jouet à construire sans piles stimule l’imagination des enfants
+- Pas besoin d’avoir recours à la Force avec les briques LEGO – elles s’assemblent et se séparent facilement
+- Il y en a pour tous les âges dans l’excellentissime gamme LEGO Star Wars
+- Fantastique cadeau d’anniversaire ou de Noël pour les enfants de 10 ans et plus
+- Un modèle emblématique à construire et à exposer lorsqu’il est à larrêt entre deux combats
 
 [Achète-le!!](https://www.amazon.fr/dp/B0813Q5JKX/?tag=tolees0d-21)
