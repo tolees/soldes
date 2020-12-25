@@ -25,12 +25,12 @@ C'est en vente [Arlo Pro 3 | Caméra de surveillance Wifi extérieure. Caméra I
 
 ℹ️:
 
-- AUDIO BIDIRECTIONNEL: laudio bidirectionnel vous permet dentendre les visiteurs et de leur parler, et donc de contrôler la protection de votre propriété
-- SIRÈNE INTÉGRÉE: prenez les commandes de votre sécurité à distance et déclenchez la sirène pour dissuader les intrus indésirables
-- VISION NOCTURNE COULEUR: capturez des informations importantes, même la nuit, grâce à une vision nocturne aux couleurs vives
-- PROJECTEUR INTÉGRÉ: le projecteur puissant illumine lactivité spécifique pour vous permettre de voir clairement ce qui se passe, de jour comme de nuit
-- VIDÉO 2K AVEC HDR: qualité dimage supérieure qui vous permet de capturer les détails avec clarté
-- ANGLE DE VUE DE 160 DEGRÉS: concentrez-vous sur les endroits les plus vulnérables de votre propriété, grâce à langle de vue de 160 degrés
 - SANS FIL ET RÉSISTANTE AUX INTEMPÉRIES: 100 % sans fil et résistante aux intempéries, pour une protection instantanée sur laquelle vous pouvez compter
+- AUDIO BIDIRECTIONNEL: laudio bidirectionnel vous permet dentendre les visiteurs et de leur parler, et donc de contrôler la protection de votre propriété
+- VISION NOCTURNE COULEUR: capturez des informations importantes, même la nuit, grâce à une vision nocturne aux couleurs vives
+- SIRÈNE INTÉGRÉE: prenez les commandes de votre sécurité à distance et déclenchez la sirène pour dissuader les intrus indésirables
+- ANGLE DE VUE DE 160 DEGRÉS: concentrez-vous sur les endroits les plus vulnérables de votre propriété, grâce à langle de vue de 160 degrés
+- VIDÉO 2K AVEC HDR: qualité dimage supérieure qui vous permet de capturer les détails avec clarté
+- PROJECTEUR INTÉGRÉ: le projecteur puissant illumine lactivité spécifique pour vous permettre de voir clairement ce qui se passe, de jour comme de nuit
 
 [Achète-le!!](https://www.amazon.fr/dp/B083YDPCQW/?tag=tolees0d-21)
