@@ -26,11 +26,11 @@ C'est en vente [Transcend Carte Mémoire SDXC 300S 128 Go - UHS-I Classe 3 - 3D 
 ℹ️:
 
 - Logiciel de récupération de données RecoveRx
-- Lecture max. 95 Mo ; Ecriture max. 45 Mo
 - Testées pour résister à des conditions extrêmes
 - Idéal pour un enregistrement quotidien des appareils photo numériques
 - Capacité de stockage jusquà 480 Go
 - Conforme aux normes UHS-II U3 et V30
 - Parfait pour une capture vidéo 4K fluide et sans interruption
+- Lecture max. 95 Mo ; Ecriture max. 45 Mo
 
 [Achète-le!!](https://www.amazon.fr/dp/B07BSRJKF1/?tag=tolees0d-21)
