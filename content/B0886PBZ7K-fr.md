@@ -25,11 +25,11 @@ C'est en vente [Jointown Masque Facial en Polypropylène à 3 Couches  Paquet de
 
 ℹ️:
 
-- Paquet de 50 pièces
-- Ces masques doivent être jetés après chaque utilisation.
-- Ce masque nest pas destiné à un usage médical et il na pas été prouvé quil réduisait la transmission des maladies.
-- 3 couches, avec une couche de filtration en polypropylène soufflé à létat fondu.
 - Gardez le côté bleu à lextérieur et la pince à nez sur le côté supérieur.
+- Paquet de 50 pièces
+- 3 couches, avec une couche de filtration en polypropylène soufflé à létat fondu.
+- Ces masques doivent être jetés après chaque utilisation.
 - Il sagit dun masque facial à usage général.
+- Ce masque nest pas destiné à un usage médical et il na pas été prouvé quil réduisait la transmission des maladies.
 
 [Achète-le!!](https://www.amazon.fr/dp/B0886PBZ7K/?tag=tolees0d-21)
