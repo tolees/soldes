@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Disque SSD SanDisk Ultra 3D 1To offrant  avec 24.62 % rabais '
-date: 2020-12-24 15:46:54
+date: 2020-12-25 22:26:28
 image: 'https://m.media-amazon.com/images/I/31hTcxZSGVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B071KGRXRG/?tag=tolees0d-21'
 descuento: '24.62'
-average: '110.91575539568343'
+average: '110.73241134751771'
 ---
 
 C'est en vente [Disque SSD SanDisk Ultra 3D 1To offrant jusqu à 560 Mo/s en vitesse de lecture / jusqu à 530 Mo/s en vitesse d écriture](https://www.amazon.fr/dp/B071KGRXRG/?tag=tolees0d-21)  à  24.62 % de réduction, prix final  97.99 EUR (original: 129.99 EUR) ici:
@@ -25,11 +25,11 @@ C'est en vente [Disque SSD SanDisk Ultra 3D 1To offrant jusqu à 560 Mo/s en vit
 
 ℹ️:
 
-- Vibration : 5 gRMS, 10-2000 HZ / 4.9 gRMS, 7-800 HZ
-- Résistance jusquà 1500 G @ 0.5 m/sec
-- Technologie 3D NAND avancée pour lendurance légendaire
 - Accélérez votre PC avec jusquà 560 Mo / s
+- Technologie 3D NAND avancée pour lendurance légendaire
+- Vibration : 5 gRMS, 10-2000 HZ / 4.9 gRMS, 7-800 HZ
 - Température de fonctionnement: 32ºF à 158ºF (0ºC à 70 ºC)
 - Des vitesses de rafale plus rapides grâce à la technologie nCache 2.0
+- Résistance jusquà 1500 G @ 0.5 m/sec
 
 [Achète-le!!](https://www.amazon.fr/dp/B071KGRXRG/?tag=tolees0d-21)

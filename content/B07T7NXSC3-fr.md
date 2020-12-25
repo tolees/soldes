@@ -25,8 +25,8 @@ C'est en vente [Marvel s Avengers  PS4 ](https://www.amazon.fr/dp/B07T7NXSC3/?ta
 
 ℹ️:
 
-- Rassemblez-vous pour former des équipes allant jusquà quatre joueurs, apprenez à maîtriser des capacités extraordinaires, obtenez de nouveaux héros et personnalisez-les.
 - Lépopée de marvels Avengers continue avec la sortie régulière de nouveaux héros et de nouvelles histoires. Découvrez lexpérience de jeu Avengers ultime.
 - Rassemblez votre propre équipe des plus grands héros de la terre, explorez vos pouvoirs, et réalisez vos rêves de super-héros.
+- Rassemblez-vous pour former des équipes allant jusquà quatre joueurs, apprenez à maîtriser des capacités extraordinaires, obtenez de nouveaux héros et personnalisez-les.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07T7NXSC3/?tag=tolees0d-21)

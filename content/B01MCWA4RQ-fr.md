@@ -25,12 +25,12 @@ Vous avez [Cuisinart STM1000E Cuiseur à vapeur professionnel en verre  capacit�
 
 ℹ️:
 
-- Fonctions de maintien au chaud, de réchauffe et de pause
-- Affichage numérique avec compte à rebours et préréglages pour le poisson, la volaille, les légumes ou les céréales
 - Prise en charge de 3 ans
-- Chauffage ultra-rapide - prêt en 30 secondes
 - Verre de 5L pour la cuisson à la vapeur et le plat de service
 - Pièces lavables au lave-vaisselle
+- Fonctions de maintien au chaud, de réchauffe et de pause
+- Chauffage ultra-rapide - prêt en 30 secondes
 - Comprend un plateau de cuisson à la vapeur en acier inoxydable
+- Affichage numérique avec compte à rebours et préréglages pour le poisson, la volaille, les légumes ou les céréales
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MCWA4RQ/?tag=tolees0d-21)

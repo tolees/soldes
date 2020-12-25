@@ -25,10 +25,10 @@ C'est en vente [Sylvanian Families - Le Village - Le Théâtre de Danse et Balle
 
 ℹ️:
 
-- The theatre can play the music from swan lake and the nutcracker
-- Place figures on the stage and turn the handle to make them twirl
-- Ballet theatre includes special chocolate rabbit girl figure wearing pointe shoes and tutu
 - Suitable for ages 3 years to 12 years
+- The theatre can play the music from swan lake and the nutcracker
+- Ballet theatre includes special chocolate rabbit girl figure wearing pointe shoes and tutu
+- Place figures on the stage and turn the handle to make them twirl
 - Well-made with fine attention to detail; good for stimulating imaginative role-play in children
 
 [Achète-le!!](https://www.amazon.fr/dp/B06X9VM3QR/?tag=tolees0d-21)

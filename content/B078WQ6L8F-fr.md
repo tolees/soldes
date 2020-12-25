@@ -25,9 +25,9 @@ Vous avez [FILA Disruptor WMN  Baskets Femme  White 1Fg  38 EU](https://www.amaz
 
 ℹ️:
 
-- Women
 - Disruptor Low Wmn
 - Synthetic Leather
+- Women
 - Fila Shoes Disruptor Low Wmn
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WQ6L8F/?tag=tolees0d-21)

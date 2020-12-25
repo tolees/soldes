@@ -25,10 +25,10 @@ C'est en vente [Sylvanian Families - Le Village - La Grande Maison Éclairée - 
 
 ℹ️:
 
-- Accessible grâce à lescalier, elle possède un grand balcon entouré de balustrades.
-- Elle peut être connectée avec le cosy cottage du village (5303).
 - Les chambres peuvent être éclairées.
+- Accessible grâce à lescalier, elle possède un grand balcon entouré de balustrades.
 - Le plateau du rez-de-chaussée permet de créer une grande terrasse.
+- Elle peut être connectée avec le cosy cottage du village (5303).
 - Cette grande maison peut souvrir de moitié ou même totalement.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07WVD15QP/?tag=tolees0d-21)

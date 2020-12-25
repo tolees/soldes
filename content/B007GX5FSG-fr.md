@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Police to be or not to be eau de toilett avec 51.08 % rabais '
-date: 2020-12-24 10:04:46
+date: 2020-12-25 22:10:07
 image: 'https://m.media-amazon.com/images/I/41bT7+198UL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B007GX5FSG/?tag=tolees0d-21'
 descuento: '51.08'
-average: '30.54333333333333'
+average: '29.604285714285712'
 ---
 
 C'est en vente [Police to be or not to be eau de toilette pour homme 125 ml](https://www.amazon.fr/dp/B007GX5FSG/?tag=tolees0d-21)  à  51.08 % de réduction, prix final  23.97 EUR (original: 49.0 EUR) ici:
@@ -25,10 +25,10 @@ C'est en vente [Police to be or not to be eau de toilette pour homme 125 ml](htt
 
 ℹ️:
 
-- Eau de toilette Homme Police
+- Police To Be - pour Homme
 - Eau de Toilette
 - 125 ml
-- Police To Be - pour Homme
 - 125ml Vapo
+- Eau de toilette Homme Police
 
 [Achète-le!!](https://www.amazon.fr/dp/B007GX5FSG/?tag=tolees0d-21)
