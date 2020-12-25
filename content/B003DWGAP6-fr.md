@@ -25,10 +25,10 @@ Vous avez [Silverline 380956 Étau pour perceuse à dégagement rapide 100 mm](h
 
 ℹ️:
 
-- Mâchoires trempées
 - Fonte daluminium résistante
 - Support de forage et établi
-- Bouton de dégagement pour action de serrage rapide
 - 100 mm
+- Bouton de dégagement pour action de serrage rapide
+- Mâchoires trempées
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B003DWGAP6/?tag=tolees0d-21)
