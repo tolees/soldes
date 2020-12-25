@@ -25,13 +25,13 @@ Vous avez [New Balance 500  Baskets Femme  Noir Black Rose Gold Br Black  38 EU]
 
 ℹ️:
 
-- Type de talons : plat
-- Semelle intérieure : synthétique
-- Doublure : synthétique
-- Fermeture : lacets
-- Semelle : basse
-- Matériau de semelle : synthétique
-- Dessus : cuir - synthétique/PU
 - Largeur de la chaussure : normal
+- Fermeture : lacets
+- Matériau de semelle : synthétique
+- Semelle intérieure : synthétique
+- Dessus : cuir - synthétique/PU
+- Semelle : basse
+- Doublure : synthétique
+- Type de talons : plat
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01IJ6H4SM/?tag=tolees0d-21)
