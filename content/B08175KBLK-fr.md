@@ -1,25 +1,25 @@
 ---
 layout: post
-title: 'Playmobil - Chaloupe des Soldats - 70412 avec 37.35 % rabais '
-date: 2020-12-24 09:45:14
+title: 'Playmobil - Chaloupe des Soldats - 70412 avec 33.53 % rabais '
+date: 2020-12-25 21:48:34
 image: 'https://m.media-amazon.com/images/I/61Aoq2i7mTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08175KBLK-fr'
-actualPrice: 27.56 EUR
+actualPrice: 29.24 EUR
 currency: EUR
-price: 27.56
+price: 29.24
 comparePrice: 43.99 EUR
 prodname: 'Playmobil - Chaloupe des Soldats - 70412'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08175KBLK/?tag=tolees0d-21'
-descuento: '37.35'
-average: '27.56'
+descuento: '33.53'
+average: '28.68'
 ---
 
-C'est en vente [Playmobil - Chaloupe des Soldats - 70412](https://www.amazon.fr/dp/B08175KBLK/?tag=tolees0d-21)  à  37.35 % de réduction, prix final  27.56 EUR (original: 43.99 EUR) ici:
+C'est en vente [Playmobil - Chaloupe des Soldats - 70412](https://www.amazon.fr/dp/B08175KBLK/?tag=tolees0d-21)  à  33.53 % de réduction, prix final  29.24 EUR (original: 43.99 EUR) ici:
 
 [![Playmobil - Chaloupe des Soldats - 70412](https://m.media-amazon.com/images/I/61Aoq2i7mTL._SL200_.jpg)](https://www.amazon.fr/dp/B08175KBLK/?tag=tolees0d-21)
 

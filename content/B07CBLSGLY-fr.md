@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sun Tablettes Lave-Vaisselle Tout-En-1 A avec 43.07 % rabais '
-date: 2020-12-24 09:36:29
+date: 2020-12-25 21:42:49
 image: 'https://m.media-amazon.com/images/I/51KcFXsBobL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07CBLSGLY/?tag=tolees0d-21'
 descuento: '43.07'
-average: '24.126249999999995'
+average: '23.91575757575757'
 ---
 
 C'est en vente [Sun Tablettes Lave-Vaisselle Tout-En-1 Action Intégrale Standard Fabriqué en France 156 Lavages  Lot de 3x52 Tablettes ](https://www.amazon.fr/dp/B07CBLSGLY/?tag=tolees0d-21)  à  43.07 % de réduction, prix final  17.18 EUR (original: 30.18 EUR) ici:
@@ -25,11 +25,10 @@ C'est en vente [Sun Tablettes Lave-Vaisselle Tout-En-1 Action Intégrale Standar
 
 ℹ️:
 
-- Tablette lave vaisselle avec 30 % dingrédients dorigine naturelle. Film Hydrosoluble biodégradable.
-- Fabriqué en France
-- Action 4 en 1 en un seul lavage : dégraisse, anti-traces, sel et liquide de rinçage. Sans pré-rinçage.
-- Lot de 3x52 Lavages
-- Pour intensifier la puissance de lavage ou si votre eau est dure, la pastille lave vaisselle est compatible avec le liquide de rinçage Sun Shine Boost et Sun Sel Régénérant
-- Le produit Sun protège votre vaisselle ainsi que votre lave-vaisselle
+- Packaging is recyclable card containing 85% recycled cardboard.
+- Made in France.
+- Without prior rinse.
+- Protection of the machine and the washing up.
+- 1 Action in just 1 wash: removes grease, anti-traces, salt and rinsing liquid.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07CBLSGLY/?tag=tolees0d-21)
