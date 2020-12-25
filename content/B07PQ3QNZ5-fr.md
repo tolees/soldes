@@ -25,10 +25,10 @@ C'est en vente [Riviera-et-Bar BCE450 Machine Expresso Automatique](https://www.
 
 ℹ️:
 
+- Dimensions réduites grâce à sa largeur de 14cm
+- Fonction expresso automatique avec 2 volumes de café programmables
 - Réservoir deau de 1,4 L
 - Compatibles dosettes papier souples et compactes et café moulu
 - Pompte haute pression 19 bars et préhumidification de la mouture
-- Fonction expresso automatique avec 2 volumes de café programmables
-- Dimensions réduites grâce à sa largeur de 14cm
 
 [Achète-le!!](https://www.amazon.fr/dp/B07PQ3QNZ5/?tag=tolees0d-21)
