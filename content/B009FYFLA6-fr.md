@@ -25,10 +25,10 @@ Vous avez [Born To Die : The Paradise Edition  2 CD ](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Diet Mountain Dew
-- Blue Jeans
-- Off To The Races
-- Born To Die
 - Video Games
+- Born To Die
+- Diet Mountain Dew
+- Off To The Races
+- Blue Jeans
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B009FYFLA6/?tag=tolees0d-21)

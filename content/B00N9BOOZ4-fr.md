@@ -26,9 +26,9 @@ Vous avez [Beurer MP 62 Ensemble manucure/pédicure électrique  10 embouts  lum
 ℹ️:
 
 - Traitement professionnel à la maison : Le puissant set de manucure (5 400 tr / min) dispose d’un réglage de vitesse progressif, une rotation dans le sens horaire et anti-horaire ainsi qu’un capuchon de protection contre la poussière d‘ongles
-- Pour des mains et des pieds soignés : Kit de soin des ongles professionnel comprenant dix accessoires de haute qualité en saphir et feutre et un étui pour ranger les accessoires - idéal en voyage
-- Un soin comme en institut : Pour raccourcir, limer, façonner et polir les ongles et pour enlever les callosités, les cuticules, les callosités et les cors - ne convient pas aux ongles en gel ni aux faux ongles
 - Le plus produit : Cet appareil pour le soin des mains et des pieds convient également aux diabétiques
 - Écran magic-led et design ergonomique : La surface de préhension à prise douce rend le dispositif agréable à tenir dans la main, la lumière LED permet toujours des conditions déclairage optimales
+- Pour des mains et des pieds soignés : Kit de soin des ongles professionnel comprenant dix accessoires de haute qualité en saphir et feutre et un étui pour ranger les accessoires - idéal en voyage
+- Un soin comme en institut : Pour raccourcir, limer, façonner et polir les ongles et pour enlever les callosités, les cuticules, les callosités et les cors - ne convient pas aux ongles en gel ni aux faux ongles
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00N9BOOZ4/?tag=tolees0d-21)

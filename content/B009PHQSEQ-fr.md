@@ -25,9 +25,9 @@ C'est en vente [KÖNIG CB-12 102 - Chaînes à Neige  Set de 2](https://www.amaz
 
 ℹ️:
 
-- La chaîne à tension manuelle simple et robuste.
-- 215/65-16, 225/60-16, 235/50-17, 245/45-17, 255/40-17, 265/40-17, 215/50-18, 235/45-18, 245/40-18, 255/35-18, 225/40-19, 235/40-19, 245/35-19, 255/30-19
-- Encombrement 12 mm.
 - Homologations/Certifications/Conformités: Ö-Norm 5117, UNI 11313, TÜV.
+- Encombrement 12 mm.
+- 215/65-16, 225/60-16, 235/50-17, 245/45-17, 255/40-17, 265/40-17, 215/50-18, 235/45-18, 245/40-18, 255/35-18, 225/40-19, 235/40-19, 245/35-19, 255/30-19
+- La chaîne à tension manuelle simple et robuste.
 
 [Achète-le!!](https://www.amazon.fr/dp/B009PHQSEQ/?tag=tolees0d-21)
