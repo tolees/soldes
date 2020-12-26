@@ -26,9 +26,9 @@ Vous avez [LEGO® Technic L hélicoptère de secours Jeu de construction  8 Ans 
 ℹ️:
 
 - Build a realistic Rescue Helicopter toy designed to provide an immersive and rewarding building experience.
+- LEGO Technic sets feature realistic movement and mechanisms that introduce young LEGO builders to the universe of engineering in an approachable and realistic way.
 - This easy to build 2-in-1 LEGO Technic toy helicopter rebuilds into afuturistic Concept Plane.
 - Check out the cool red, white and black colour scheme.
 - Rescue Helicopter toy features spinning rotors, opening side and rear doors, working winch and a rescue stretcher.
-- LEGO Technic sets feature realistic movement and mechanisms that introduce young LEGO builders to the universe of engineering in an approachable and realistic way.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21)

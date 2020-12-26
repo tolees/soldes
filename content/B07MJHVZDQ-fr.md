@@ -25,10 +25,10 @@ C'est en vente [Playstation Digital Réveil LCD | PS4 Dualshock Controller Desig
 
 ℹ️:
 
-- ★ Réveil alimenté par USB au design de la manette classique PlayStation★
-- ★ Fabriqué à partir de matières plastiques – il est naturellement démonté et recyclable dans les décharges ★
 - ★ Produit officiel sous licence PlayStation★
 - ★ Vue arrière LCD avec rétro-éclairage et alarme sonore (câble USB inclus) ★
+- ★ Fabriqué à partir de matières plastiques – il est naturellement démonté et recyclable dans les décharges ★
+- ★ Réveil alimenté par USB au design de la manette classique PlayStation★
 - ★ Contrôlez le réveil avec les touches D Pad, X et Circle ★
 
 [Achète-le!!](https://www.amazon.fr/dp/B07MJHVZDQ/?tag=tolees0d-21)

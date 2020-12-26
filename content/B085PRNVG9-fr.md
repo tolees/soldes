@@ -26,9 +26,9 @@ C'est en vente [Sedhoom Mandoline de Cuisine  6 en 1 Mandoline Multifonctions  M
 ℹ️:
 
 - Simple operation: You only need a few steps to get a variety of foods you want, super simple and super convenient. It is a must for every kitchen.
+- High quality products: All products use materials harmless to the human body, allowing you to enjoy a super healthy diet with peace of mind.
+- Version 2020: Do you always care about the tedious preparation of healthy foods? Do you want to quickly master the chefs cutting skills? Sedhoom Multi-Purpose Vegetable Cutter can help you solve these problems.
 - VIP after-sales service: We offer a 24 month warranty and an unconditional 30-day refund service. If you are not satisfied with our products, please contact us as soon as possible and we will do our best to resolve the problem.
 - Convenient cleaning: just rinse with a water tap for a few seconds, no cleaning problems.
-- Version 2020: Do you always care about the tedious preparation of healthy foods? Do you want to quickly master the chefs cutting skills? Sedhoom Multi-Purpose Vegetable Cutter can help you solve these problems.
-- High quality products: All products use materials harmless to the human body, allowing you to enjoy a super healthy diet with peace of mind.
 
 [Achète-le!!](https://www.amazon.fr/dp/B085PRNVG9/?tag=tolees0d-21)

@@ -25,11 +25,11 @@ Vous avez [Perforateur Bosch "Universal" PBH 2500 SRE avec coffret  mandrin auto
 
 ℹ️:
 
-- Fonction de burinage intégrée avec Vario-Lock : position de travail du burin variable
-- Perforation sans effort dans le béton et la maçonnerie, burinage, perçage et vissage avec une puissance de 600 W
+- Mécanisme de frappe pneumatique Bosch doté dune puissance de frappe de 1,9 J : puissance de frappe élevée dans les matériaux durs, indépendamment de la pression appliquée
 - Système SDS-plus Bosch : changement rapide et sans outil de laccessoire
 - Ergonomie poussée : faible poids (2,2 kg), design compact (Slimline) et poignée Softgrip pour un travail sans effort
-- Mécanisme de frappe pneumatique Bosch doté dune puissance de frappe de 1,9 J : puissance de frappe élevée dans les matériaux durs, indépendamment de la pression appliquée
+- Fonction de burinage intégrée avec Vario-Lock : position de travail du burin variable
 - Un outil polyvalent : fourni avec un mandrin pour forets et embouts classiques
+- Perforation sans effort dans le béton et la maçonnerie, burinage, perçage et vissage avec une puissance de 600 W
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0087OTTB2/?tag=tolees0d-21)

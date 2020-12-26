@@ -25,10 +25,10 @@ C'est en vente [LEGO Classic Boîte de briques créatives deluxe 10698 Jeu de Co
 
 ℹ️:
 
+- Nombre de pièces : 790 Âges : 4-99
 - La première plaque de base verte mesure 15 cm de long et de large et la seconde 10 cm de long et 5 cm de large
 - Crée toutes sortes dincroyables bâtiments avec cette grande boîte de briques LEGO classiques de 33 couleurs différentes.
-- Nombre de pièces : 790 Âges : 4-99
-- Comprend 8 types de fenêtres et de portes différents avec 8 cadres différents, 2 plaques de base verte
 - Les jouets LEGO Creative Brick sont compatibles avec les autres packs de construction LEGO
+- Comprend 8 types de fenêtres et de portes différents avec 8 cadres différents, 2 plaques de base verte
 
 [Achète-le!!](https://www.amazon.fr/dp/B00PY3EYQO/?tag=tolees0d-21)
