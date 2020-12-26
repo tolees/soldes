@@ -26,7 +26,7 @@ Vous avez [Lolita Lempicka Mon Premier Parfum EDP 30ml](https://www.amazon.fr/dp
 ℹ️:
 
 - Products by Lolita Lempicka
-- Mens - Perfumes - Eau de Toilette
 - Beauty products
+- Mens - Perfumes - Eau de Toilette
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DBQD5M2/?tag=tolees0d-21)

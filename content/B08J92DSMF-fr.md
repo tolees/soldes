@@ -25,10 +25,10 @@ Vous avez [L Oréal Paris Men Expert - Trousse Cadeau de Noël Homme Vitalift - 
 
 ℹ️:
 
-- Résultats : Une peau hydratée et protégée contre les 5 signes du vieillissement, des rides atténuées, des poches dégonflées et un teint dynamisé, Une protection contre la transpiration pendant 48h
 - Contenu : 1 x Trousse 3 produits anti-âge Vitalift LOréal Men Expert, Inclus : 1 x Soin Hydratant Anti-Âge Global (50 ml), 1 x Soin Yeux Anti-Âge (15 ml), 1 x Déodorant à bille Stop Stress (50 ml)
-- Coffret de soins anti-âge pour homme composé dune trousse pratique, dun soin pour le visage, dun soin pour le contour des yeux et dun déodorant anti-transpirant
-- Conseils dutilisation : Appliquer le soin hydratant anti-âge matin et/ou soir sur un visage propre en massant fermement, ainsi quune goutte de soin yeux anti-âge autour de chaque œil, Appliquer le déodorant en glissant sa bille sous vos aisselles
 - Routine avec formule enrichie à lextrait de vigne connu pour ses pouvoirs anti-oxydants, Soins anti-âge à la texture légère, non grasse et non collante, Soin hydratant visage idéal pour calmer le feu du rasoir après rasage
+- Conseils dutilisation : Appliquer le soin hydratant anti-âge matin et/ou soir sur un visage propre en massant fermement, ainsi quune goutte de soin yeux anti-âge autour de chaque œil, Appliquer le déodorant en glissant sa bille sous vos aisselles
+- Coffret de soins anti-âge pour homme composé dune trousse pratique, dun soin pour le visage, dun soin pour le contour des yeux et dun déodorant anti-transpirant
+- Résultats : Une peau hydratée et protégée contre les 5 signes du vieillissement, des rides atténuées, des poches dégonflées et un teint dynamisé, Une protection contre la transpiration pendant 48h
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08J92DSMF/?tag=tolees0d-21)

@@ -26,7 +26,7 @@ C'est en vente [Playmobil - Scooby-Doo! Histoires dans Le Manoir Hanté - 70361]
 ℹ️:
 
 - Avec une porte secrète.
-- Lescalier est transformable en toboggan.
 - Le lustre est amovible.
+- Lescalier est transformable en toboggan.
 
 [Achète-le!!](https://www.amazon.fr/dp/B081HQ3JBF/?tag=tolees0d-21)

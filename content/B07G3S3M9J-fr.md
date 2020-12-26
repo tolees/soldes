@@ -25,10 +25,10 @@ C'est en vente [LEGO Harry Potter™ La tour de l’horloge de Poudlard 9 Ans et
 
 ℹ️:
 
-- Construisez la tour de lhorloge du château de Poudlard LEGO à 3 niveaux avec des lieux emblématiques et 8 figurines extraites des films de Harry Potter
-- Les lieux incluent la salle de classe Défense contre les forces du mal, le bureau de Dumbledore, l’aile de l’hôpital, la salle de bains des préfets et une scène de bal de Noël
-- Comporte un mécanisme de changement d’horloge pour créer des aventures dans le temps Time-Turner, et une fonction de «danse» pour que le bal de Noël bouge vraiment
-- Toutes les figurines viennent avec des baguettes et leurs costumes de boule de Noël avec une scène comprenant 2 tables glacées, une sculpture glacée constructible et un sapin de Noël
 - La tour de l’horloge de Poudlard mesure 35 cm de haut, 34 cm de long et 18 cm de large; contient 922 pièces.
+- Comporte un mécanisme de changement d’horloge pour créer des aventures dans le temps Time-Turner, et une fonction de «danse» pour que le bal de Noël bouge vraiment
+- Les lieux incluent la salle de classe Défense contre les forces du mal, le bureau de Dumbledore, l’aile de l’hôpital, la salle de bains des préfets et une scène de bal de Noël
+- Toutes les figurines viennent avec des baguettes et leurs costumes de boule de Noël avec une scène comprenant 2 tables glacées, une sculpture glacée constructible et un sapin de Noël
+- Construisez la tour de lhorloge du château de Poudlard LEGO à 3 niveaux avec des lieux emblématiques et 8 figurines extraites des films de Harry Potter
 
 [Achète-le!!](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)

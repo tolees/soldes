@@ -25,8 +25,8 @@ Vous avez [WD BLACK P10 Game Drive for Xbox One 5 To pour avoir accès à vos 
 
 ℹ️:
 
-- TEMPÉRATURE DE FONCTIONNEMENT: 5 °C À 35 °C
 - Jusqu’à 5 to pouvant contenir jusqu’à 125 jeux, vous pouvez ainsi enregistrer vos vieux favoris tout en gardant de l’espace pour de nouveaux titres.
+- TEMPÉRATURE DE FONCTIONNEMENT: 5 °C À 35 °C
 - Format portable offrant un accès rapide à votre bibliothèque de jeux, où que vous soyez.
 - Disque dur hautes performances avec un débit jusqu’à 140 mo/s pour optimiser votre expérience de jeu sur console ou sur PC et gérer votre jeu.
 - Conçu spécialement pour les joueurs, sur la base de la qualité et de la fiabilité de wd_black, pour vous permettre de jouer sans limites.
