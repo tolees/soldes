@@ -26,8 +26,8 @@ C'est en vente [Samsung Galaxy A51 5G 128Go Rose + BON D ACHAT AMAZON - Smartpho
 ℹ️:
 
 - AUTONOMIE PROLONGÉE 4500 mAh Charge rapide
+- ÉCRAN INFINITY-O 6,5’’ Super AMOLED
 - QUADRUPLE CAPTEUR PHOTO Capteur principal 48 MP + Ultra Grand Angle
 - PRÊT POUR LA 5G Un débit ultra rapide
-- ÉCRAN INFINITY-O 6,5’’ Super AMOLED
 
 [Achète-le!!](https://www.amazon.fr/dp/B089WCG7GG/?tag=tolees0d-21)

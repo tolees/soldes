@@ -25,13 +25,13 @@ C'est en vente [Sony HDR-CX405 Caméscope Full HD Zoom Optique 30x 2.29 Mpix](ht
 
 ℹ️:
 
-- Angle douverture max. : 90°.Angle de braquage max. : 270°
-- Enregistrement XAVC S (HD 50 Mbit/s) et AVCHD
-- Zoom 60x haute résolution
-- Stabilisateur optique SteadyShot™ avec mode Actif intelligent
 - Objectif grand angle Zeiss® 26,8 mm avec zoom optique 30x
 - Capteur CMOS Exmor R™ Recharge USB: DC 5 V 800 mA
+- Enregistrement XAVC S (HD 50 Mbit/s) et AVCHD
 - Le courant électrique: 3.6V ( bloc de piles), 5.0V (adaptateur secteur)
 - Contenu de la boîte: Appareil-photo, Chargeur et Batterie
+- Stabilisateur optique SteadyShot™ avec mode Actif intelligent
+- Angle douverture max. : 90°.Angle de braquage max. : 270°
+- Zoom 60x haute résolution
 
 [Achète-le!!](https://www.amazon.fr/dp/B00RK7ODDG/?tag=tolees0d-21)
