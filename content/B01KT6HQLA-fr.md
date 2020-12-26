@@ -25,10 +25,10 @@ Vous avez [Candy CMXW22DS Micro-ondes Solo Electronique 22L Silver Facile d util
 
 ℹ️:
 
-- Application Cook-in : grâce à lapplication gratuite Cook-In APP dédiée aux micro-ondes Candy, bénéficiez de conseils pour utiliser votre micro-ondes, mais aussi dun choix de recette pour cuisiner tous types de plats au micro-ondes - Trucs & Astuces / Idées de recettes / Aide à lutilisation et à lentretien.
-- Puissance du micro-onde : 800W
 - Capacité : 22 L
-- Programmateur digital : Les micro-ondes Candy sont équipés dun bandeau de commande intuitif pour une programmation facile et rapide.
+- Application Cook-in : grâce à lapplication gratuite Cook-In APP dédiée aux micro-ondes Candy, bénéficiez de conseils pour utiliser votre micro-ondes, mais aussi dun choix de recette pour cuisiner tous types de plats au micro-ondes - Trucs & Astuces / Idées de recettes / Aide à lutilisation et à lentretien.
 - Four à micro-ondes Candy CMXW22DS SILVER simple dutilisation
+- Programmateur digital : Les micro-ondes Candy sont équipés dun bandeau de commande intuitif pour une programmation facile et rapide.
+- Puissance du micro-onde : 800W
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01KT6HQLA/?tag=tolees0d-21)
