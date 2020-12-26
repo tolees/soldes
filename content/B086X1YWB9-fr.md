@@ -25,8 +25,8 @@ C'est en vente [FM London Hipster Caleçon Boxeur  Noir  L  9-10   Lot de 8  Gar
 
 ℹ️:
 
+- Coupe confortable.
 - Construction durable et durable.
 - Design contrasté
-- Coupe confortable.
 
 [Achète-le!!](https://www.amazon.fr/dp/B086X1YWB9/?tag=tolees0d-21)
