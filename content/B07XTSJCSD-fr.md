@@ -25,9 +25,9 @@ C'est en vente [Lowepro LP37272-PWW Accessoire Appareil Photo Sac à Dos Outdoor
 
 ℹ️:
 
-- Conçu pour voyager : protège le matériel avec un format compact et transportable. Faites-le rouler dans les aéroports ou convertissez-le en sac à dos dans les zones difficiles d’accès
-- Tous vos besoins : rangez aisément deux boîtiers Pro dont un avec objectif monté, cinq objectifs ou flashs, tablette ou PC portable 15 pouces, dispositif Wacom, Smartphone, trépied, accessoires
 - Prêt pour lexpédition : un grand confort avec les sangles d’épaule, le panneau dorsal Activezone, la sangle ventrale porte-accessoires, les poches à bouteille et la housse de pluie
+- Tous vos besoins : rangez aisément deux boîtiers Pro dont un avec objectif monté, cinq objectifs ou flashs, tablette ou PC portable 15 pouces, dispositif Wacom, Smartphone, trépied, accessoires
+- Conçu pour voyager : protège le matériel avec un format compact et transportable. Faites-le rouler dans les aéroports ou convertissez-le en sac à dos dans les zones difficiles d’accès
 - Travaillez mieux : stockez jusqu’à trois écrans ou appareils dans les poches Cradlefit rembourrées. Emmenez les outils dont vous avez besoin pour mieux travailler sur le terrain
 - Stockage maximal : système Maxfit permettant demporter le maximum. Deux sangles et module Sliplock pour trépied standard. Accès rapide aux effets personnels via deux poches à fermeture à glissière
 

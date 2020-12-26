@@ -25,10 +25,10 @@ C'est en vente [Levi s 711 Skinny Jeans  to The Nine  26W / 30L Femme](https://w
 
 ℹ️:
 
-- Contenu de la livraison : 1 x jean pour femme 711 Skinny de Levis avec jambes étroites / Composition : 84 % coton, 14 % polyester, 2 % élasthanne / Couleur : To The Nine – Bleu foncé.
-- Le jean skinny avec jambes étroites et hauteur moyenne au niveau de la taille assure un ajustement optimal aux hanches et aux cuisses.
-- Louverture étroite au niveau des jambes donne à la silhouette un contour supplémentaire - Les détails tendance sont les poches arrières plaquées avec le légendaire écusson Levi.
-- Flatte la silhouette féminine : le jean étroit est parfaitement ajusté et souligne les bons endroits.
 - Que vous soyez sportif ou chic : le jean moulant pour femme sadapte à nimporte quel look et se porte confortablement toute la journée.
+- Flatte la silhouette féminine : le jean étroit est parfaitement ajusté et souligne les bons endroits.
+- Louverture étroite au niveau des jambes donne à la silhouette un contour supplémentaire - Les détails tendance sont les poches arrières plaquées avec le légendaire écusson Levi.
+- Le jean skinny avec jambes étroites et hauteur moyenne au niveau de la taille assure un ajustement optimal aux hanches et aux cuisses.
+- Contenu de la livraison : 1 x jean pour femme 711 Skinny de Levis avec jambes étroites / Composition : 84 % coton, 14 % polyester, 2 % élasthanne / Couleur : To The Nine – Bleu foncé.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07L6Q1LFB/?tag=tolees0d-21)

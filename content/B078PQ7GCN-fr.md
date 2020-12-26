@@ -27,7 +27,7 @@ C'est en vente [Vans Ward  Sneakers Basses Femme  Noir  Suede/Canvas  Black/Whit
 
 - Semelle : caoutchouc.
 - Matériau extérieur : cuir.
-- Intérieur : textile.
 - Fermeture : lacets.
+- Intérieur : textile.
 
 [Achète-le!!](https://www.amazon.fr/dp/B078PQ7GCN/?tag=tolees0d-21)
