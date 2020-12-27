@@ -27,7 +27,7 @@ Vous avez [Elemis Pro-Collagen Baume Nettoyant  20 g](https://www.amazon.fr/dp/B
 
 - La peau est plus ferme, hydratée et lisse d’aspect et au toucher
 - Réchauffer dans les paumes puis masser sur le visage, le cou et le décolleté avec de légers mouvements de massage circulaires
-- Cleansing Balm
 - Treatment Balm
+- Cleansing Balm
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CFHYYIA/?tag=tolees0d-21)
