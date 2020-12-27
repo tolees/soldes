@@ -25,10 +25,10 @@ Vous avez [Ultimate Ears Power Up Socle de Chargement sans Fil Bluetooth pour En
 
 ℹ️:
 
-- Always ready to go: Keeps your speaker charged and ready for any adventure
 - Listen to music and more while charging
+- Works with: Ultimate Ears BOOM 3, MEGABOOM 3, BLAST and MEGABLAST wireless speakers
+- Always ready to go: Keeps your speaker charged and ready for any adventure
 - Convenient home base: Makes charging your speaker easier than ever
 - Sleek design: Fits into any home and looks stunning with any of the BOOM 3, MEGABOOM 3, BLAST and MEGABLAST colors
-- Works with: Ultimate Ears BOOM 3, MEGABOOM 3, BLAST and MEGABLAST wireless speakers
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G6B2SGF/?tag=tolees0d-21)

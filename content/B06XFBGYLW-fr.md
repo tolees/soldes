@@ -25,9 +25,9 @@ Vous avez [Samsung Mo de md64ga/EU Carte mémoire  64 Go Transparent](https://w
 
 ℹ️:
 
+- Garantie 10 ans
 - Carte rapide, convient pour les enregistrements UHD 4 K
 - Carte Micro SD avec adaptateur parfait pour utilisation dans les appareil photo reflex numérique
 - Carte microSD avec une vitesse de transfert de 100 Mo/s en lecture et de 90 Mo/s schreibend
-- Garantie 10 ans
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XFBGYLW/?tag=tolees0d-21)
