@@ -25,10 +25,10 @@ C'est en vente [Crucial 500Go CT500MX500SSD1 SSD interne MX500-jusqu’à 560 Mo
 
 ℹ️:
 
-- La fonctionnalité de Protection contre les coupures de courant intégrée préserve tous vos travaux enregistrés en cas de coupure de courant inattendue
+- Vitesse améliorée grce à la technologie NAND 3D de Micron
+- Le cryptage sur base matérielle AES 256-bit protège vos données des hackers et des pirates
 - Vitesse de lecture/décriture séquentielle pouvant atteindre 560/510 Mo/s pour tout type de fichier et Vitesse de lecture/décriture aléatoire pouvant atteindre 95k/90k pour tout type de fichier
 - Enregistrements et transferts de fichiers plus rapides grce à laccélération décriture dynamique
-- Le cryptage sur base matérielle AES 256-bit protège vos données des hackers et des pirates
-- Vitesse améliorée grce à la technologie NAND 3D de Micron
+- La fonctionnalité de Protection contre les coupures de courant intégrée préserve tous vos travaux enregistrés en cas de coupure de courant inattendue
 
 [Achète-le!!](https://www.amazon.fr/dp/B0786QNS9B/?tag=tolees0d-21)

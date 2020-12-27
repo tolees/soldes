@@ -25,10 +25,10 @@ Vous avez [Sony MDR-ZX110B Casque Pliable - Noir](https://www.amazon.fr/dp/B00NB
 
 ℹ️:
 
-- High energy neodymium magnets deliver powerful sound
-- Choice of colours to suit your style
 - 30 mm dome drivers for balanced sound
-- 12-22 kHz frequency range
 - Padded ear cups for comfortable listening
+- High energy neodymium magnets deliver powerful sound
+- 12-22 kHz frequency range
+- Choice of colours to suit your style
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21)

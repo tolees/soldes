@@ -25,10 +25,10 @@ C'est en vente [SNAPTAIN SP500 Drone avec Caméra GPS 1080P Pliable  30 Mins Aut
 
 ℹ️:
 
-- 【1080P FHD and 5G WiFi Transmission】1080P FHD camera with 110°FOV and 40° adjustable angle, which allows you to capture clearer and clearer photos and videos. 5G Wi-Fi makes transmission faster but more stable.
 - 【Smart Gesture Control】Release your hands, gesture control allows you to stand in front of the camera to trigger the drone take. Now you can free your hands and record good times past.
-- 【Full interest and creativity】Enjoy GPS leisure, different shooting modes are available for more creative aerial photographs. Such as follow me mode, pointe of interest, GPS waypoint
-- 【2 beats and easy to use】2 modular batteries can support 30 minutes of flight time, headless mode, GPS altitude and one remove/landing button make it easy for children or beginners.
 - Smart GPS and Flight Safety】With GPS localization, the drone will enter the starting point when the battery is low, if the signal is lost or if you want to recover it. Never lose your drone.
+- 【1080P FHD and 5G WiFi Transmission】1080P FHD camera with 110°FOV and 40° adjustable angle, which allows you to capture clearer and clearer photos and videos. 5G Wi-Fi makes transmission faster but more stable.
+- 【2 beats and easy to use】2 modular batteries can support 30 minutes of flight time, headless mode, GPS altitude and one remove/landing button make it easy for children or beginners.
+- 【Full interest and creativity】Enjoy GPS leisure, different shooting modes are available for more creative aerial photographs. Such as follow me mode, pointe of interest, GPS waypoint
 
 [Achète-le!!](https://www.amazon.fr/dp/B07YYC89WV/?tag=tolees0d-21)

@@ -25,8 +25,8 @@ Vous avez [Marvel s Avengers  Xbox One ](https://www.amazon.fr/dp/B07TDFSRQ4/?ta
 
 ℹ️:
 
-- Rassemblez-vous pour former des équipes allant jusquà quatre joueurs, apprenez à maîtriser des capacités extraordinaires, obtenez de nouveaux héros et personnalisez-les.
 - Rassemblez votre propre équipe des plus grands héros de la terre, explorez vos pouvoirs, et réalisez vos rêves de super-héros.
 - Lépopée de marvels Avengers continue avec la sortie régulière de nouveaux héros et de nouvelles histoires. Découvrez lexpérience de jeu Avengers ultime.
+- Rassemblez-vous pour former des équipes allant jusquà quatre joueurs, apprenez à maîtriser des capacités extraordinaires, obtenez de nouveaux héros et personnalisez-les.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TDFSRQ4/?tag=tolees0d-21)

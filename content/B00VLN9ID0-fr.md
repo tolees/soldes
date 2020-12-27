@@ -25,13 +25,13 @@ Vous avez [Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC H215-
 
 ℹ️:
 
-- Machine Wash
-- 100% Cotton
-- Short Sleeve
-- Regular Fit
-- 17783
-- Brand New and Genuine We are an authorised seller of Levis
 - Collar Style: Club
+- Short Sleeve
+- 100% Cotton
+- Regular Fit
+- Brand New and Genuine We are an authorised seller of Levis
+- 17783
+- Machine Wash
 - Levis Blue Red Tab Logo T-Shirt
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VLN9ID0/?tag=tolees0d-21)

@@ -25,9 +25,9 @@ C'est en vente [VTECH- Lancelot L ELEPHANT Eau Baby Jouets Premier Age  80-51530
 
 ℹ️:
 
-- Un éléphant au look fun pour stimuler bébé à l’heure du bain
 - Nombreuses interactions lorsque bébé asperge son éléphant avec l’eau (mouvements, jets d’eau et sons).
 - Bouton électronique et lumineux sur les yeux. + de 50 mélodies, sons et phrases rigolos.
+- Un éléphant au look fun pour stimuler bébé à l’heure du bain
 - Permet à bébé de développer sa motricité fine en manipulant les différents éléments sur les oreilles, les bras et les jambes de l’éléphant.
 - Amusant: Bébé verse de l’eau sur la tête de l’éléphant et l’éléphant asperge par sa trompe.
 

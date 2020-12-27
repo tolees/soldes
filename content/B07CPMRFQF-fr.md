@@ -25,10 +25,10 @@ C'est en vente [BelleStyle Montessori Activité Bois Fromage Jouet  Enfants Enfa
 
 ℹ️:
 
-- Aidez les enfants à développer leur imagination et leur flexibilité, à entraîner la coordination main-œil et la coordination des deux mains. Promouvoir le développement du cerveau.
-- Les enfants peuvent pousser la souris à travers les différents trous dans le bloc de bois pendant que la ficelle senroule. Quand ils nont plus de ficelle, ils peuvent se détendre et jouer à nouveau!
-- Recommander lâge: Convient pour garçon / fille 3 ans et plus. Nous fournissons un service complet avant-vente et après-vente. Si vous avez des questions ou des préoccupations, nhésitez pas à nous le faire savoir et nous ferons tout ce qui est en notre pouvoir pour y remédier!
-- Taille (de façon appropriée): longueur x hauteur: 10.5cm x 5cm / 4.1 "× 2".
 - Fait de bois respectueux de lenvironnement, surface lisse et matériel de peintures non-toxiques. Ne cause aucun mal à ton bébé.
+- Recommander lâge: Convient pour garçon / fille 3 ans et plus. Nous fournissons un service complet avant-vente et après-vente. Si vous avez des questions ou des préoccupations, nhésitez pas à nous le faire savoir et nous ferons tout ce qui est en notre pouvoir pour y remédier!
+- Les enfants peuvent pousser la souris à travers les différents trous dans le bloc de bois pendant que la ficelle senroule. Quand ils nont plus de ficelle, ils peuvent se détendre et jouer à nouveau!
+- Taille (de façon appropriée): longueur x hauteur: 10.5cm x 5cm / 4.1 "× 2".
+- Aidez les enfants à développer leur imagination et leur flexibilité, à entraîner la coordination main-œil et la coordination des deux mains. Promouvoir le développement du cerveau.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07CPMRFQF/?tag=tolees0d-21)
