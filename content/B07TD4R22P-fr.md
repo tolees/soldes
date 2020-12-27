@@ -25,10 +25,10 @@ Vous avez [LIGHTAILING Jeu De Lumières pour  Architecture Paris  Modèle en Blo
 
 ℹ️:
 
+- INSTALLATION INSTRUCTION: The light set installation is done to your preference. Please install your led light carefully, no hard pulling and no need to bend or shake it.
+- PORDUCT FEATURE: The Light is made use of original material purely handmade. It contains 1 USB Light kit ,Instruction guide, battery box. Plug in power, and light up your building blocks with our amazing design!
+- ABOUT US: Specialized in custom-designed Lighting Kit toys, we aim to supply customer with good products and quality services. Make your creations unique with your rich imagination and creativity. Let s light up your bricks and bring them new vitality. If you have any problems, please do not hesitate to contact us. Have a happy shopping experience!
 - TIPS: Prepare three AA Batteries, or USB Charger and Voltage should be less than 5V to avoid burning.
 - USAGE: The Light Set is used to light up Architecture Paris (NOT include the Lego Set).
-- ABOUT US: Specialized in custom-designed Lighting Kit toys, we aim to supply customer with good products and quality services. Make your creations unique with your rich imagination and creativity. Let s light up your bricks and bring them new vitality. If you have any problems, please do not hesitate to contact us. Have a happy shopping experience!
-- PORDUCT FEATURE: The Light is made use of original material purely handmade. It contains 1 USB Light kit ,Instruction guide, battery box. Plug in power, and light up your building blocks with our amazing design!
-- INSTALLATION INSTRUCTION: The light set installation is done to your preference. Please install your led light carefully, no hard pulling and no need to bend or shake it.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TD4R22P/?tag=tolees0d-21)

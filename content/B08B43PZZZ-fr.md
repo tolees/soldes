@@ -25,10 +25,10 @@ C'est en vente [Sony SRS-XB23 | Enceinte Portable EXTRA BASS Bluetooth Stéréo 
 
 ℹ️:
 
-- The SRS-XB23 is compact, lightweight and easy to carry, featuring a convenient strap to hang your speaker from wherever you like
 - Experience powerful sound, enhanced bass and vocal clarity
-- This portable speaker is waterproof, dustproof, rustproof (IP67), saltwater resistant, and shockproof (up to 1.2 m) with up to 12 hours battery life
 - Control your party speaker from your phone via the Sony | Music Center and Fiestable apps
 - Make your party even bigger - connect up to 100 compatible wireless speakers or stereo pair
+- This portable speaker is waterproof, dustproof, rustproof (IP67), saltwater resistant, and shockproof (up to 1.2 m) with up to 12 hours battery life
+- The SRS-XB23 is compact, lightweight and easy to carry, featuring a convenient strap to hang your speaker from wherever you like
 
 [Achète-le!!](https://www.amazon.fr/dp/B08B43PZZZ/?tag=tolees0d-21)
