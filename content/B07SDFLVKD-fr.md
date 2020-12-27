@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nouvelle Manette Xbox Sans Fil - Carbon  avec 16.67 % rabais '
-date: 2020-12-26 10:12:17
+date: 2020-12-27 10:13:52
 image: 'https://m.media-amazon.com/images/I/414ZFHo8wUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07SDFLVKD/?tag=tolees0d-21'
 descuento: '16.67'
-average: '56.941785714285714'
+average: '56.780116279069766'
 ---
 
 C'est en vente [Nouvelle Manette Xbox Sans Fil - Carbon Black](https://www.amazon.fr/dp/B07SDFLVKD/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  49.99 EUR (original: 59.99 EUR) ici:
@@ -25,13 +25,13 @@ C'est en vente [Nouvelle Manette Xbox Sans Fil - Carbon Black](https://www.amazo
 
 ℹ️:
 
-- Bouton de partage : Enregistrez et partagez du contenu facilement, avec le nouveau bouton de partage
-- Technologie Xbox sans fil et Bluetooth*
-- Prise casque 3,5 mm
-- *Informations importantes : Compatible avec certains appareils et versions des systèmes d’exploitation. Certaines fonctionnalités ne sont pas prises en charge sur Android ou via Bluetooth. Rendez-vous sur xbox.com/controller-compatibility pour plus d’informations. Réattribution des boutons avec l’application Accessoires Xbox pour XboxSeriesX, XboxOne et Windows10.
 - Découvrez le design modernisé de la manette sans fil Xbox – Carbon Black, avec ses surfaces texturées et sa géométrie raffinée, pour un confort de jeu accru
+- Technologie Xbox sans fil et Bluetooth*
+- *Informations importantes : Compatible avec certains appareils et versions des systèmes d’exploitation. Certaines fonctionnalités ne sont pas prises en charge sur Android ou via Bluetooth. Rendez-vous sur xbox.com/controller-compatibility pour plus d’informations. Réattribution des boutons avec l’application Accessoires Xbox pour XboxSeriesX, XboxOne et Windows10.
+- Prise casque 3,5 mm
 - Personnalisation des boutons avec lapplication Xbox Accessories
-- Surface antidérapante sur les gâchettes et larrière de la manette
 - Nouvelle croix multidirectionnelle pour une prise en main précise
+- Bouton de partage : Enregistrez et partagez du contenu facilement, avec le nouveau bouton de partage
+- Surface antidérapante sur les gâchettes et larrière de la manette
 
 [Achète-le!!](https://www.amazon.fr/dp/B07SDFLVKD/?tag=tolees0d-21)

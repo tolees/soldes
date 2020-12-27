@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '34.76 % rabais sur Lacoste Polo  Homme  L1212  Bordeaux  L'
-date: 2020-12-26 09:55:36
+date: 2020-12-27 10:11:47
 image: 'https://m.media-amazon.com/images/I/31ZZLyAA-AL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Vous avez [Lacoste Polo  Homme  L1212  Bordeaux  L](https://www.amazon.fr/dp/B00
 ℹ️:
 
 - Multipack: 1
-- Coupe classique
 - Fit Classic
-- Lavage en machine
+- Coupe classique
 - 100% coton
+- Lavage en machine
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B002LU5DP4/?tag=tolees0d-21)
