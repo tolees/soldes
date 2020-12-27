@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.17 % rabais sur Crucial CT1000X8SSD9 X8 1To Portable SSD'
-date: 2020-12-26 10:17:43
+date: 2020-12-27 16:26:52
 image: 'https://m.media-amazon.com/images/I/31dqRycAe3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YD5TK4F/?tag=tolees0d-21'
 descuento: '23.17'
-average: '156.94630952380953'
+average: '156.31941860465116'
 ---
 
 Vous avez [Crucial CT1000X8SSD9 X8 1To Portable SSD – Vitesses atteignant 1050Mo/s – USB 3.2 – Lecteur d’état solide externe  USB-C  USB-A](https://www.amazon.fr/dp/B07YD5TK4F/?tag=tolees0d-21)  à  23.17 % de réduction, prix final  129.99 EUR (original: 169.19 EUR) ici:
@@ -26,9 +26,9 @@ Vous avez [Crucial CT1000X8SSD9 X8 1To Portable SSD – Vitesses atteignant 1050
 ℹ️:
 
 - Des performances incroyables avec des vitesses de lecture atteignant 1050 Mo/s
-- Compatible avec Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4, et Xbox One avec les connecteurs USB-C 3.2 Gen2 et USB-A
-- Un produit élégant et durable, pourvu d’une coque en aluminium anodisé. Résistant aux chutes jusqu’à 2 mètre
 - Un produit Micron, l’un des plus grands fabricants de stockage flash au monde
+- Un produit élégant et durable, pourvu d’une coque en aluminium anodisé. Résistant aux chutes jusqu’à 2 mètre
+- Compatible avec Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4, et Xbox One avec les connecteurs USB-C 3.2 Gen2 et USB-A
 - Résistant aux températures extrêmes, aux chocs et aux vibrations
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YD5TK4F/?tag=tolees0d-21)
