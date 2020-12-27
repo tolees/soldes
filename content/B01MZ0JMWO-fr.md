@@ -25,10 +25,10 @@ Vous avez [KidKraft Dînette en Couleurs Brillantes](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Évier amovible pour faciliter le nettoyage.
 - Les portes du four, du micro-ondes et du lave-vaisselle souvrent et se ferment.
 - Instructions détaillées (français non garanti).
-- Structure en bois astucieuse et robuste.
 - Illustrations colorées et durables.
+- Évier amovible pour faciliter le nettoyage.
+- Structure en bois astucieuse et robuste.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MZ0JMWO/?tag=tolees0d-21)
