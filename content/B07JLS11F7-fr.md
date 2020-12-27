@@ -26,9 +26,9 @@ C'est en vente [Playmobil - Starterpack Sirènes avec Carrosse - 70033](https://
 ℹ️:
 
 - Rejoins-nous dans les aventures magiques du palais de cristal !
+- Que lexploration sous-marine commence !
 - Les sirènes explorent la mer avec le carrosse.
 - Contient 2 figurines dautres accessoires.
-- Que lexploration sous-marine commence !
 - Convient aux enfants à partir de 4 ans.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07JLS11F7/?tag=tolees0d-21)
