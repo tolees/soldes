@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SNAPTAIN SP500 Drone avec Caméra GPS 108 avec 22.37 % rabais '
-date: 2020-12-25 21:45:25
+date: 2020-12-27 03:59:40
 image: 'https://m.media-amazon.com/images/I/41YdPJkcPKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YYC89WV/?tag=tolees0d-21'
 descuento: '22.37'
-average: '140.39897959183682'
+average: '140.15686868686876'
 ---
 
 C'est en vente [SNAPTAIN SP500 Drone avec Caméra GPS 1080P Pliable  30 Mins Autonomie 2 Batteires Suivez-Moi Auto Rentrer à la Maison  Smartcapture](https://www.amazon.fr/dp/B07YYC89WV/?tag=tolees0d-21)  à  22.37 % de réduction, prix final  116.43 EUR (original: 149.99 EUR) ici:
@@ -25,10 +25,10 @@ C'est en vente [SNAPTAIN SP500 Drone avec Caméra GPS 1080P Pliable  30 Mins Aut
 
 ℹ️:
 
-- ✈【Contrôle Gestuel Smart】Relâchez vos mains, le contrôle gestuel vous permet de poser devant lappareil photo pour déclencher la prise du drone. Maintenant, vous pouvez libérer vos mains et enregistrer des bons moments passés.
-- ✈【Plein dintérêt et de Créativité】Profitez les loisirs de GPS, différents modes de prise de vue sont disponibles pour les photographies aériennes plus créatives.Telles que mode suivez-moi, pointe of interest, GPS waypoint
-- ✈【2 Batteires et Facile à Utiliser】2 batteries modulaires peuvent prendre en charge 30 minutes de temps de vol , le mode Sans Tête, GPS Altitude et Un Bouton Décoller / Atterrir facilitent laccès aux enfants ou aux débutants.
-- ✈【1080P FHD et 5G WiFi Transmission】Caméra FHD 1080p avec 110°FOV et 40° angle réglable, ce qui permet de capturer des photos et des vidéos plus nettes et claires. 5G Wi-Fi rend la transmission plus rapide mais plus stable.
-- ✈【Smart GPS et Sécurité en Vol】Grâce à la GPS localisation, le drone va rentrer au point de départ lorsque la batterie est faible, si le signal est perdu ou si vous souhaitez le récupérer. Ne perdez jamais votre drone.
+- 【1080P FHD and 5G WiFi Transmission】1080P FHD camera with 110°FOV and 40° adjustable angle, which allows you to capture clearer and clearer photos and videos. 5G Wi-Fi makes transmission faster but more stable.
+- 【Smart Gesture Control】Release your hands, gesture control allows you to stand in front of the camera to trigger the drone take. Now you can free your hands and record good times past.
+- 【Full interest and creativity】Enjoy GPS leisure, different shooting modes are available for more creative aerial photographs. Such as follow me mode, pointe of interest, GPS waypoint
+- 【2 beats and easy to use】2 modular batteries can support 30 minutes of flight time, headless mode, GPS altitude and one remove/landing button make it easy for children or beginners.
+- Smart GPS and Flight Safety】With GPS localization, the drone will enter the starting point when the battery is low, if the signal is lost or if you want to recover it. Never lose your drone.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07YYC89WV/?tag=tolees0d-21)

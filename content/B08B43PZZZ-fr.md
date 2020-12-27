@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB23 | Enceinte Portable EXTRA  avec 20.01 % rabais '
-date: 2020-12-25 21:47:04
+date: 2020-12-27 04:23:34
 image: 'https://m.media-amazon.com/images/I/41aYDiuQIOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,10 @@ C'est en vente [Sony SRS-XB23 | Enceinte Portable EXTRA BASS Bluetooth Stéréo 
 
 ℹ️:
 
-- X-Balanced Speaker : un haut-parleur dune nouvelle forme qui produit un son de haute qualité et une pression acoustique puissante.
-- Conçue pour durer : Grâce à son indice de protection IP67, vous pouvez emporter la SRS-XB23 à la plage, en forêt, dans le désert, et plus encore... Sa conception lui permet de fonctionner partout, elle est étanche et résistante à leau salée.
-- Un son stéréo puissant et percutant : la puissance de cette enceinte EXTRA BASS réside dans sa conception. Les deux radiateurs passifs fonctionnent de pair avec les haut-parleurs large bande pour optimiser les graves et renforcer les basses.; included_components: Cable de recharge USB C
-- Un son stéréo puissant et percutant : la puissance de cette enceinte EXTRA BASS réside dans sa conception. Les deux radiateurs passifs fonctionnent de pair avec les haut-parleurs large bande pour optimiser les graves et renforcer les basses.
-- Format ultraportable : glissez lenceinte dans votre sac à dos, dans le porte bidon de votre vélo et accrochez-la partout grâce à sa dragonne (incluse).
-- Grande autonomie : Avec ses 12 heures dautonomie, la SRS-XB23 aura de lénergie même quand vous nen aurez plus. En mode EXTRA BASS , vous pouvez faire la fête pendant 10 h.
+- Make your party even bigger - connect up to 100 compatible wireless speakers or stereo pair
+- Control your party speaker from your phone via the Sony | Music Center and Fiestable apps
+- Experience powerful sound, enhanced bass and vocal clarity
+- This portable speaker is waterproof, dustproof, rustproof (IP67), saltwater resistant, and shockproof (up to 1.2 m) with up to 12 hours battery life
+- The SRS-XB23 is compact, lightweight and easy to carry, featuring a convenient strap to hang your speaker from wherever you like
 
 [Achète-le!!](https://www.amazon.fr/dp/B08B43PZZZ/?tag=tolees0d-21)

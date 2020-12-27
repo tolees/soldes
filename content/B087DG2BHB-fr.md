@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.57 % rabais sur SAMSUNG T7 500 Go USB 3.2 SSD externe bl'
-date: 2020-12-25 03:38:28
+date: 2020-12-27 04:06:08
 image: 'https://m.media-amazon.com/images/I/31ht1eviRrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Vous avez [SAMSUNG T7 500 Go USB 3.2 SSD externe bleu - MU-PC500H/WW-](https://w
 
 ℹ️:
 
-- Design léger et compact en aluminium
-- Compatibilité multi-OS (Android, MacOS, Windows). Prend en charge le mode UASP
-- USB type C - USB 3.2 Gen.2 (10 Gbps)
 - Sécurisation des données par mot de passe
+- Compatibilité multi-OS (Android, MacOS, Windows). Prend en charge le mode UASP
 - Technologie NVMe pour des débits jusquà 1050 Mo/s
+- USB type C - USB 3.2 Gen.2 (10 Gbps)
+- Design léger et compact en aluminium
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B087DG2BHB/?tag=tolees0d-21)

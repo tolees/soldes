@@ -1,34 +1,34 @@
 ---
 layout: post
-title: '40.84 % rabais sur LEGO® Technic L hélicoptère de secours J'
-date: 2020-12-25 21:43:43
+title: '27.26 % rabais sur LEGO® Technic L hélicoptère de secours J'
+date: 2020-12-27 04:00:40
 image: 'https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07FP2KPWV-fr'
-actualPrice: 20.7 EUR
+actualPrice: 25.45 EUR
 currency: EUR
-price: 20.7
+price: 25.45
 comparePrice: 34.99 EUR
 prodname: 'LEGO® Technic L hélicoptère de secours Jeu de construction  8 Ans et Plus  325 Pièces 42092'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21'
-descuento: '40.84'
-average: '23.59206278026906'
+descuento: '27.26'
+average: '23.608577777777782'
 ---
 
-Vous avez [LEGO® Technic L hélicoptère de secours Jeu de construction  8 Ans et Plus  325 Pièces 42092](https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21)  à  40.84 % de réduction, prix final  20.7 EUR (original: 34.99 EUR) ici:
+Vous avez [LEGO® Technic L hélicoptère de secours Jeu de construction  8 Ans et Plus  325 Pièces 42092](https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21)  à  27.26 % de réduction, prix final  25.45 EUR (original: 34.99 EUR) ici:
 
 [![LEGO® Technic L hélicoptère de secours J](https://m.media-amazon.com/images/I/51-++QdoDNL._SL200_.jpg)](https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21)
 
 ℹ️:
 
-- Build a realistic Rescue Helicopter toy designed to provide an immersive and rewarding building experience.
-- LEGO Technic sets feature realistic movement and mechanisms that introduce young LEGO builders to the universe of engineering in an approachable and realistic way.
-- This easy to build 2-in-1 LEGO Technic toy helicopter rebuilds into afuturistic Concept Plane.
-- Check out the cool red, white and black colour scheme.
-- Rescue Helicopter toy features spinning rotors, opening side and rear doors, working winch and a rescue stretcher.
+- Comprend des rotors qui tournent, des portes latérales et arrière qui s’ouvrent, un treuil qui fonctionne et une civière de secours.
+- Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- 325 pièces pour les filles et les garçons de 8 ans et plus.
+- L’hélicoptère de secours mesure plus de 12 cm de haut, 29 cm de long et 23 cm de large. L’avion futuriste mesure plus de 7 cm de haut, 27 cm de long et 30 cm de large.
+- Construisez lhélicoptère de secours LEGO Technic 2-in-1.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21)

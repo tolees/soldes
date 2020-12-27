@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '32.43 % rabais sur Lolita Lempicka Mon Premier Parfum EDP 3'
-date: 2020-12-25 22:05:29
+date: 2020-12-27 04:10:43
 image: 'https://m.media-amazon.com/images/I/41XmR0xrpML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Vous avez [Lolita Lempicka Mon Premier Parfum EDP 30ml](https://www.amazon.fr/dp
 
 ℹ️:
 
+- Mens - Perfumes - Eau de Toilette
 - Products by Lolita Lempicka
 - Beauty products
-- Mens - Perfumes - Eau de Toilette
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DBQD5M2/?tag=tolees0d-21)
