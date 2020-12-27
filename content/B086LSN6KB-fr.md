@@ -25,8 +25,8 @@ Vous avez [Bioshock : The Collection](https://www.amazon.fr/dp/B086LSN6KB/?tag=t
 
 ℹ️:
 
-- Le pack inclut les trois jeux bioshock remastered, bioshock 2 remastered et bioshock infinite complète édition, avec tout le contenu additionnel de jeu solo pour chacun d’eux.
 - Cartouche + code
 - Nintendo switch
+- Le pack inclut les trois jeux bioshock remastered, bioshock 2 remastered et bioshock infinite complète édition, avec tout le contenu additionnel de jeu solo pour chacun d’eux.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B086LSN6KB/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [KidKraft Dînette en Couleurs Brillantes](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Instructions détaillées (français non garanti).
-- Les portes du four, du micro-ondes et du lave-vaisselle souvrent et se ferment.
 - Évier amovible pour faciliter le nettoyage.
-- Illustrations colorées et durables.
+- Les portes du four, du micro-ondes et du lave-vaisselle souvrent et se ferment.
+- Instructions détaillées (français non garanti).
 - Structure en bois astucieuse et robuste.
+- Illustrations colorées et durables.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MZ0JMWO/?tag=tolees0d-21)
