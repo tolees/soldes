@@ -26,9 +26,9 @@ C'est en vente [LEGO® Speed Champions Mini Cooper Rally 1967 et Mini John Coope
 ℹ️:
 
 - Les ensembles LEGO Speed Champions sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Inclut 4 figurines : un pilote de Mini Cooper S Rally, un pilote de MINI John Cooper Works Buggy un contrôleur de course et un mécanicien
 - La voiture Mini Cooper S Rally de 1967 mesure plus de 6 cm de haut, 9 cm de long et 4 cm de large
-- 481 pièces pour les filles et les garçons de 8 ans et plus
 - Construisez une course de rallye inoubliable avec les voitures: la Mini Cooper S Rally de 1967 et la Mini John Cooper Works Buggy de 2018 LEGO Speed Champions
+- Inclut 4 figurines : un pilote de Mini Cooper S Rally, un pilote de MINI John Cooper Works Buggy un contrôleur de course et un mécanicien
+- 481 pièces pour les filles et les garçons de 8 ans et plus
 
 [Achète-le!!](https://www.amazon.fr/dp/B07FNTMWMT/?tag=tolees0d-21)

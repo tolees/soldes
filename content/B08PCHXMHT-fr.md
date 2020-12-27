@@ -25,10 +25,10 @@ Vous avez [Disque Dur Externe 2to USB3.0 pour PC  Mac  Ordinateur de Bureaup  Or
 
 ℹ️:
 
-- 【Mini disque dur portable】 Cest un disque dur externe portable avec un corps ultra mince, facile à coucher dans votre paume ou à glisser dans la poche.
 - 【Ce que vous obtenez】 1 x disque dur externe portable, 1 x câble USB 3.0, garantie du fabricant dun an.
-- 【Disque dur externe à vitesse rapide】 Avec une vitesse de transmission très élevée, 5 fois plus rapide quun disque dur externe portable habituel lors de la lecture et plus dune fois plus rapide lors de lécriture, assurez-vous daugmenter considérablement votre efficacité de travail!
-- 【Compatibilité supérieure】 Sa forte compatibilité le rend utilisable avec 99% des systèmes PC, y compris Microsoft Windows 10 / Windows 8.1 / Windows 8 / Windows 7 / Apple MAC / Android et plus encore!
 - 【Grande capacité】 La grande capacité de 1 To ou 2 To et la fonction déconomie dénergie, cest vraiment votre base de données mobile idéale pour partager des photos haute résolution, des vidéos 3D, de la musique sans perte et plus encore nimporte où et nimporte quand.
+- 【Compatibilité supérieure】 Sa forte compatibilité le rend utilisable avec 99% des systèmes PC, y compris Microsoft Windows 10 / Windows 8.1 / Windows 8 / Windows 7 / Apple MAC / Android et plus encore!
+- 【Mini disque dur portable】 Cest un disque dur externe portable avec un corps ultra mince, facile à coucher dans votre paume ou à glisser dans la poche.
+- 【Disque dur externe à vitesse rapide】 Avec une vitesse de transmission très élevée, 5 fois plus rapide quun disque dur externe portable habituel lors de la lecture et plus dune fois plus rapide lors de lécriture, assurez-vous daugmenter considérablement votre efficacité de travail!
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08PCHXMHT/?tag=tolees0d-21)
