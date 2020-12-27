@@ -26,8 +26,8 @@ Vous avez [Elizabeth Arden – 5th Avenue NYC – Eau de Parfum Femme Vaporisate
 ℹ️:
 
 - Note de tête : bergamote, pêche et pomme
-- Note de cœur : Cassis, Jasmin, Pivoine et prunier
 - 5th Avenue NYC eau de parfum spray
 - Note de fond : ambre, vanille, tonka, musc et bois de santal
+- Note de cœur : Cassis, Jasmin, Pivoine et prunier
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BHHMHS8/?tag=tolees0d-21)

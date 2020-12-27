@@ -25,10 +25,10 @@ Vous avez [Bohend Mode En couches Collier long Or Forme en Y Étoile Colliers Mu
 
 ℹ️:
 
-- Taille: La taille est réglable .Les colliers ajustables conviennent à tous les décolletés
-- Les colliers de mode adaptés à la vie quotidienne, au shopping, à la fête, au bal ou autres.Ils vous rendront élégant et charmant.
 - Grand cadeau: Les Neacklades bohèmes seront un excellent cadeau pour morther, ami, petite amie, fille, soeur ...
 - Conseils: la chaîne de cou a une bonne élasticité et nest pas facile à casser. Il peut être utilisé pendant une longue période.
+- Taille: La taille est réglable .Les colliers ajustables conviennent à tous les décolletés
+- Les colliers de mode adaptés à la vie quotidienne, au shopping, à la fête, au bal ou autres.Ils vous rendront élégant et charmant.
 - Le collier est fabriqué en alliage. Il convient à plus de femmes et de filles.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D6BCVCF/?tag=tolees0d-21)
