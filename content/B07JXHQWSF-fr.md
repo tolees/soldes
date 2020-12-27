@@ -25,8 +25,8 @@ C'est en vente [Playmobil - Scooter Marin S.H.A.R.K Team - 70007](https://www.am
 
 ℹ️:
 
-- Le scooter flotte
-- - Le moteur submersible réf. 5159 ou réf. 7350 peut être ajouté.
 - Les lance-missiles tirent des projectiles
+- - Le moteur submersible réf. 5159 ou réf. 7350 peut être ajouté.
+- Le scooter flotte
 
 [Achète-le!!](https://www.amazon.fr/dp/B07JXHQWSF/?tag=tolees0d-21)
