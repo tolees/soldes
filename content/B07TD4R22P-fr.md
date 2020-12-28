@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '46.26 % rabais sur LIGHTAILING Jeu De Lumières pour  Archit'
-date: 2020-12-27 04:09:56
+date: 2020-12-28 05:02:57
 image: 'https://m.media-amazon.com/images/I/41MSRa8oHuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Vous avez [LIGHTAILING Jeu De Lumières pour  Architecture Paris  Modèle en Blo
 
 ℹ️:
 
-- INSTALLATION INSTRUCTION: The light set installation is done to your preference. Please install your led light carefully, no hard pulling and no need to bend or shake it.
-- PORDUCT FEATURE: The Light is made use of original material purely handmade. It contains 1 USB Light kit ,Instruction guide, battery box. Plug in power, and light up your building blocks with our amazing design!
-- ABOUT US: Specialized in custom-designed Lighting Kit toys, we aim to supply customer with good products and quality services. Make your creations unique with your rich imagination and creativity. Let s light up your bricks and bring them new vitality. If you have any problems, please do not hesitate to contact us. Have a happy shopping experience!
-- TIPS: Prepare three AA Batteries, or USB Charger and Voltage should be less than 5V to avoid burning.
-- USAGE: The Light Set is used to light up Architecture Paris (NOT include the Lego Set).
+- A PROPOS DE NOUS: Spécialisé dans la conception de jouets déclairage sur mesure, nous visons à fournir à nos clients des produits de qualité et des services de qualité. Rendez vos créations uniques avec votre imagination et votre créativité. Allumez vos briques et apportez leur une nouvelle énergie. Si vous avez des problèmes, nhésitez pas à nous contacter. Passez une bonne expérience de magasinage!
+- CARACTÉRISTIQUE DU PRODUIT: La Lumière Est Faite A Partir De Matériaux Dorigine Purement Faits A La Main. Il Contient 1 Kit De Lumière Usb, Mode Demploi, Boîte A Piles. Brancher Lalimentation, Et Eclairer Vos Blocs De Construction Avec Notre Conception Etonnante!
+- INSTRUCTION DE MONTAGE: Linstallation de lensemble déclairage se fait selon vos préférences. Veuillez installer votre lampe à led avec soin, sans tirer fort et sans avoir besoin de la tordre ou de la secouer.
+- CONSEILS: Préparer trois piles AA, ou le chargeur USB et la tension doit être inférieure à 5V pour éviter de brûler.
+- USAGE: lensemble de lumière est utilisé pour Eclairer Architecture Paris (à lexception de lensemble lego).
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TD4R22P/?tag=tolees0d-21)

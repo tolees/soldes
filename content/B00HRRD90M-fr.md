@@ -26,9 +26,9 @@ Vous avez [Sylvanian Families - Le Village - Le Tricycle et Mini Voiture Bébés
 ℹ️:
 
 - Well-made with fine attention to detail
+- Suitable for ages 3 years to 10 years
 - Set included three figures and accessories
 - Included milk rabbit mother and two babies figures and babies rides
-- Suitable for ages 3 years to 10 years
 - Stimulating imaginative role-play in children
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HRRD90M/?tag=tolees0d-21)
