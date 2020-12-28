@@ -25,10 +25,10 @@ C'est en vente [L.O.L. Surprise! Poupée à Collectionner - Plus de 60 Surprises
 
 ℹ️:
 
-- ÉTUI PAILLETÉ - Létui pailleté avec poignée sert de rangement, permettant aux enfants demporter leur collection. Dimensions - 34,93 x 40,01 x 34,29 cm. Contient de petites pièces pouvant être avalées. Ne convient pas aux enfants moins de 36 mois.
+- DEBALLEZ DES TENUES A LA MODE & HABILLEZ-MOI - Tous les membres de la famille ont des vêtements et des accessoires fabuleux. Mélangez, assortissez et habillez-les pour samuser énormément!
 - COMPREND 60+ SURPRISES - Déballez plus de 60 surprises, dont 5 poupées exclusives avec la Plus Grande Suprise Winter Disco de L.O.L. Surprise! Découvrez la famille exclusive en édition limitée!
 - INCLUT AUSSI - Une poupée mannequin O.M.G exclusive L.O.L.Surprise! aux traits magnifiques, une poupée garçon L.O.L. Surprise! un animal et une petite soeur, avec des tenues et accessoires. Les personnages de garçon sont anatomiquement corrects
-- DEBALLEZ DES TENUES A LA MODE & HABILLEZ-MOI - Tous les membres de la famille ont des vêtements et des accessoires fabuleux. Mélangez, assortissez et habillez-les pour samuser énormément!
+- ÉTUI PAILLETÉ - Létui pailleté avec poignée sert de rangement, permettant aux enfants demporter leur collection. Dimensions - 34,93 x 40,01 x 34,29 cm. Contient de petites pièces pouvant être avalées. Ne convient pas aux enfants moins de 36 mois.
 - PRESENTATION DU SOCLE DE POUPEE - Comprend également un socle de poupée pour que votre poupée surprise puisse prendre une pose fabuleuse avec sa famille!
 
 [Achète-le!!](https://www.amazon.fr/dp/B07R7XGBQ5/?tag=tolees0d-21)
