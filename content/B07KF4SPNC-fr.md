@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.14 % rabais sur Levi s 2Pack Shirt  2 Pack Tee White +/S'
-date: 2020-12-27 04:10:49
+date: 2020-12-28 04:44:44
 image: 'https://m.media-amazon.com/images/I/414Wg+nDU-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Vous avez [Levi s 2Pack Shirt  2 Pack Tee White +/Smokestack HTR  L Femme](https
 
 ℹ️:
 
-- Type de col : à capuche
 - 100% coton
-- Manches longues
 - Lavage en machine, 30° max.
+- Manches longues
+- Type de col : à capuche
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KF4SPNC/?tag=tolees0d-21)

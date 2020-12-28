@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.60 % rabais sur Sony MDR-ZX110B Casque Pliable - Noir'
-date: 2020-12-27 04:11:57
+date: 2020-12-28 04:50:27
 image: 'https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21'
 descuento: '22.60'
-average: '15.169999999999998'
+average: '15.192142857142857'
 ---
 
 Vous avez [Sony MDR-ZX110B Casque Pliable - Noir](https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21)  à  22.60 % de réduction, prix final  15.48 EUR (original: 20.0 EUR) ici:
@@ -25,10 +25,9 @@ Vous avez [Sony MDR-ZX110B Casque Pliable - Noir](https://www.amazon.fr/dp/B00NB
 
 ℹ️:
 
-- 12-22 kHz frequency range
-- Choice of colours to suit your style
-- 30 mm dome drivers for balanced sound
-- High energy neodymium magnets deliver powerful sound
-- Padded ear cups for comfortable listening
+- Diaphragmes de 30 mm en forme de dôme pour un son équilibré
+- Gamme de fréquences de 12 à 22 kHz
+- Oreillettes rembourrées pour un grand confort découte
+- Des aimants en néodyme offrent un son puissant
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21)
