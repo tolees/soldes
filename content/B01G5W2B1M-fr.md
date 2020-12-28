@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.90 % en Basket Case 2'
-date: 2020-11-06 07:34:35
+title: 'Basket Case 2 avec 50.90 % rabais '
+date: 2020-12-28 12:32:26
 image: 'https://m.media-amazon.com/images/I/51WFRJSD75L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,14 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21'
 descuento: '50.90'
+average: '7.39'
 ---
 
-Tienes [Basket Case 2](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21) con un 50.90 % de descuento con precio de oferta de 7.39 EUR (original: 15.05 EUR) en el siguiente enlace!
+C'est en vente [Basket Case 2](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21)  à  50.90 % de réduction, prix final  7.39 EUR (original: 15.05 EUR) ici:
 
 [![Basket Case 2](https://m.media-amazon.com/images/I/51WFRJSD75L._SL200_.jpg)](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21)
+[Achète-le!!](https://www.amazon.fr/dp/B01G5W2B1M/?tag=tolees0d-21)

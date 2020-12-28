@@ -25,8 +25,8 @@ Vous avez [Google WiFi Pack de 2 Routeurs sans Fil Bluetooth Blanc GA00190-FR](h
 
 ℹ️:
 
-- Sécurité: WPA2-PSK et Mises à jour de sécurité automatiques
 - R?seau optimis? sans aucune configuration manuelle. Mat?riel: Plastique
+- Sécurité: WPA2-PSK et Mises à jour de sécurité automatiques
 - S?curit? optimale. Interface avec lordinateur: WAN - Gigabit Ethernet - RJ45 , Wi-Fi
 - Configuration et contr?le simplifi?s
 

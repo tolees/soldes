@@ -26,8 +26,8 @@ C'est en vente [WD Black P10 2To - Disque dur portable externe gaming pour un ac
 ℹ️:
 
 - Format portable et durable offrant un accès rapide à votre bibliothèque de jeux, où que vous soyez.
-- Jusquà 5 to pouvant contenir jusquà 125 jeux, vous pouvez ainsi enregistrer vos vieux favoris tout en gardant de l’espace pour de nouveaux titres.
-- Conçu spécialement pour les joueurs, sur la base de la qualité et de la fiabilité de wd_black, pour vous permettre de jouer sans limites.
 - Disque dur hautes performances pour optimiser votre expérience de jeu sur console ou sur PC et gérer votre jeu.
+- Conçu spécialement pour les joueurs, sur la base de la qualité et de la fiabilité de wd_black, pour vous permettre de jouer sans limites.
+- Jusquà 5 to pouvant contenir jusquà 125 jeux, vous pouvez ainsi enregistrer vos vieux favoris tout en gardant de l’espace pour de nouveaux titres.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07VMTNDMK/?tag=tolees0d-21)

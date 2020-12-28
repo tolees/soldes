@@ -25,10 +25,10 @@ Vous avez [Levi s 711 Skinny Jeans  to The Nine  29W / 30L Femme](https://www.am
 
 ℹ️:
 
-- Grâce à sa taille mi-haute et sa coupe skinny, ce pantalon assure un ajustement optimal sur les hanches et les cuisses
-- La coupe ajustée des jambes galbe la silhouette / Braguette zippée et patch en cuir emblématique à larrière - Levis prête attention à tous les détails
 - Sportif ou élégant : le jean pour femme qui est conçu pour maintenir, remodeler et sublimer les courbes, sadapte à tous les looks et apporte confort au quotidien
 - Flatte la silhouette féminine : le jean skinny sadapte idéalement et souligne parfaitement les formes féminines.
+- La coupe ajustée des jambes galbe la silhouette / Braguette zippée et patch en cuir emblématique à larrière - Levis prête attention à tous les détails
+- Grâce à sa taille mi-haute et sa coupe skinny, ce pantalon assure un ajustement optimal sur les hanches et les cuisses
 - Livraison : 1 x Jeans 711 Skinny Femme de Levis / Pantalon skinny / Matière : 84% coton, 14% polyester & 2% élasthanne / Couleur : To The Nine - noir
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07L6PTYZW/?tag=tolees0d-21)
