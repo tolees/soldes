@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.54 % rabais sur New Super Mario Bros. U Deluxe'
-date: 2020-10-09 06:39:42
+date: 2020-12-28 06:04:13
 image: 'https://m.media-amazon.com/images/I/51Czz5T9ERL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,6 @@ Vous avez [New Super Mario Bros. U Deluxe](https://www.amazon.fr/dp/B0055FFXQ6/?
 
 ℹ️:
 
+- NEW SUPER MARIO BROS DELUXE - SWITCH
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0055FFXQ6/?tag=tolees0d-21)

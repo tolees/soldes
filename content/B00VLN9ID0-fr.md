@@ -25,9 +25,9 @@ Vous avez [Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC H215-
 
 ℹ️:
 
-- 100 % coton
-- Col rond
 - Coupe Regular
+- Col rond
+- 100 % coton
 - Logo imprimé sérigraphié sur l’avant
 - Manches courtes
 

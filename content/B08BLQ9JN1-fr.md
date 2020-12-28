@@ -25,10 +25,10 @@ C'est en vente [Magicfun 139 Pièces Jouets de Cuisine  Jeu D imitation Jouet de
 
 ℹ️:
 
-- ✿ PERFECT GIFTS - Vibrant color, realistic design and smaller size all make this portable pretend play food set a perfect gift choice for children’s birthday, holiday or anniversary on Christmas, Easter etc. Make the novelty gift for your little boys and girls!
-- ✿ EDUCATIONAL TOYS - By pretending cooking and eating, this food playset helps a lot to improve kids’ color recognition ability, hand-eye coordination and creativity that would need for preschool education. Suitable for toddlers to play both indoors and outdoors.
-- ✿ GREAT VARIETY - Comes with a great variety of 139 food toys including 6 kinds of cans, 10 kinds of beverages, 11 kinds of fruits, 10 kinds of vegetables, 12 kinds of fast food, 12 kinds of snacks etc. The food toys contains everything kids need to have great fun!
 - ✿ NOTICE & SERVICE - Please PAY ATTENTION to the small parts included. And children under 3 should play the kitchen playset under the supervision of adults. 24-hour service is provides by us, so if you have any questions, please feel free to contact us!
 - ✿ SAFE MATERIAL - The pretend play food set is made of high quality ABS plastic that’s durable, washable and crush-resistant. Being non-toxic and tasteless, all the materials are environmental friendly, which is 100% safe for your children to play with.
+- ✿ GREAT VARIETY - Comes with a great variety of 139 food toys including 6 kinds of cans, 10 kinds of beverages, 11 kinds of fruits, 10 kinds of vegetables, 12 kinds of fast food, 12 kinds of snacks etc. The food toys contains everything kids need to have great fun!
+- ✿ EDUCATIONAL TOYS - By pretending cooking and eating, this food playset helps a lot to improve kids’ color recognition ability, hand-eye coordination and creativity that would need for preschool education. Suitable for toddlers to play both indoors and outdoors.
+- ✿ PERFECT GIFTS - Vibrant color, realistic design and smaller size all make this portable pretend play food set a perfect gift choice for children’s birthday, holiday or anniversary on Christmas, Easter etc. Make the novelty gift for your little boys and girls!
 
 [Achète-le!!](https://www.amazon.fr/dp/B08BLQ9JN1/?tag=tolees0d-21)
