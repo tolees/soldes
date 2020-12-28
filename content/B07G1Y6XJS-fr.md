@@ -25,15 +25,15 @@ Vous avez [Arcade 1 up - Borne de jeu d Arcade Street Fighter II](https://www.am
 
 ℹ️:
 
-- Les sons et les graphiques sont d’origine.
-- 3 Jeux Street Fighter II en 1 (Street Fighter II Champion Edition, Street Fighter II The New Challengers, Street Fighter II Turbo)
-- Surélevez la borne d’arcade à l’aide de son rehausseur pour jouer debout (Rehausseur vendu séparément)
-- Dimensions : 49x59x116 cm; poids : 27kg, Ecran couleur LCD de 43 cm
-- Facile et rapide à assembler, en seulement 30 minutes
-- Ne nécessite pas de jetons, vous pouvez jouer en continu à votre jeu préféré.
-- Jouer seul ou défiez vos amis avec le mode multi-player.
-- Une borne de jeu d’arcade authentique.
-- 2 joysticks et boutons de contrôle de style retro.
 - La taille de l’arcade est idéale pour tout type d’espace même les plus petites chambres.
+- Une borne de jeu d’arcade authentique.
+- Ne nécessite pas de jetons, vous pouvez jouer en continu à votre jeu préféré.
+- Les sons et les graphiques sont d’origine.
+- 2 joysticks et boutons de contrôle de style retro.
+- Surélevez la borne d’arcade à l’aide de son rehausseur pour jouer debout (Rehausseur vendu séparément)
+- Jouer seul ou défiez vos amis avec le mode multi-player.
+- Facile et rapide à assembler, en seulement 30 minutes
+- 3 Jeux Street Fighter II en 1 (Street Fighter II Champion Edition, Street Fighter II The New Challengers, Street Fighter II Turbo)
+- Dimensions : 49x59x116 cm; poids : 27kg, Ecran couleur LCD de 43 cm
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G1Y6XJS/?tag=tolees0d-21)

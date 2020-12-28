@@ -25,9 +25,9 @@ Vous avez [Accessoires Arlo Ultra et Pro 3 - Panneau Solaire waterproof  batteri
 
 ℹ️:
 
-- Câble dalimentation magnétique de 2,44 m et son support réglable rendent son installation aisée où vous en avez réellement besoin
-- Panneau solaire blanc - Maintient votre batterie chargée avec la lumière directe du soleil
 - Sa conception résistante aux intempéries IP65 parfaite pour lextérieur
 - Compatible avec les caméras Arlo Pro 3, Arlo Pro 3 floodlight et Arlo Ultra
+- Panneau solaire blanc - Maintient votre batterie chargée avec la lumière directe du soleil
+- Câble dalimentation magnétique de 2,44 m et son support réglable rendent son installation aisée où vous en avez réellement besoin
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KCD2MYZ/?tag=tolees0d-21)
