@@ -26,7 +26,7 @@ C'est en vente [Playmobil - 6979 - Ile avec Vacancier](https://www.amazon.fr/dp/
 ℹ️:
 
 - Comprend un toboggan vers la mer et une grotte dans les rochers pour la tortue ainsi que de nombreux accessoires.
-- L’île avec vacanciers est une ile paradisiaque
 - A partir de 3 ans.
+- L’île avec vacanciers est une ile paradisiaque
 
 [Achète-le!!](https://www.amazon.fr/dp/B01EKBCUJI/?tag=tolees0d-21)

@@ -25,11 +25,11 @@ C'est en vente [OMRON E3 Électrostimulateur TENS  Appareil Antidouleur sans Med
 
 ℹ️:
 
-- 3 modes de massage
-- Coussinets lavables
-- Programmes automatiques pour des zones corporelles dédiées
 - Portable
+- 3 modes de massage
+- Programmes automatiques pour des zones corporelles dédiées
 - Soulagement de la douleur sans médicament
 - 15 niveaux de puissance
+- Coussinets lavables
 
 [Achète-le!!](https://www.amazon.fr/dp/B014RO5MPW/?tag=tolees0d-21)

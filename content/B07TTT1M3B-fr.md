@@ -25,9 +25,9 @@ C'est en vente [Figurine Cable Guy Borderlands Support pour Manette/Smartphone](
 
 ℹ️:
 
-- 20 cm de hauteur
-- Collectionnez-les tous !
-- Figurine de votre personnage préféré pour maintenir et charger votre manette ou smartphone
 - Livré avec un câble micro-USB de 2M
+- 20 cm de hauteur
+- Figurine de votre personnage préféré pour maintenir et charger votre manette ou smartphone
+- Collectionnez-les tous !
 
 [Achète-le!!](https://www.amazon.fr/dp/B07TTT1M3B/?tag=tolees0d-21)

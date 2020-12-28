@@ -25,10 +25,10 @@ Vous avez [Silverline 481938 Lot de 4 sangles d arrimage 250 kg 4 m x 25 mm](htt
 
 ℹ️:
 
-- 350kg lashing capacity with 725kg-rated breaking strain
 - Automatic-locking ratchet & quick-release tensioner
-- For securing large, bulky & awkwardly-shaped loads during transit & storage
-- Weather, cut & abrasion-resistant polyester webbing with strong steel hooks
+- 350kg lashing capacity with 725kg-rated breaking strain
 - Ideal for use with vans, trailers & roof racks
+- Weather, cut & abrasion-resistant polyester webbing with strong steel hooks
+- For securing large, bulky & awkwardly-shaped loads during transit & storage
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000LFU06I/?tag=tolees0d-21)

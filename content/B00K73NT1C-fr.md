@@ -25,10 +25,10 @@ C'est en vente [Transcend 128 Go Carte d expansion pour Mac - Compatible avec Ma
 
 ℹ️:
 
-- Compatible avec MacBook Pro (Retina) 15" (Mi 2012 ~ Début 2013)
-- Capacités disponibles: 128 Go et 256 Go
-- Spécialement conçue pour être insérée dans le port SD de votre MacBook Pro.
 - Jusquà 95 Mo/s de lecture; 55 Mo/s écriture
+- Capacités disponibles: 128 Go et 256 Go
+- Compatible avec MacBook Pro (Retina) 15" (Mi 2012 ~ Début 2013)
 - ECC intégré (Error Correction Code)
+- Spécialement conçue pour être insérée dans le port SD de votre MacBook Pro.
 
 [Achète-le!!](https://www.amazon.fr/dp/B00K73NT1C/?tag=tolees0d-21)
