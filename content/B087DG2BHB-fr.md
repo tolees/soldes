@@ -25,10 +25,10 @@ Vous avez [SAMSUNG T7 500 Go USB 3.2 SSD externe bleu - MU-PC500H/WW-](https://w
 
 ℹ️:
 
+- Design léger et compact en aluminium
+- Compatibilité multi-OS (Android, MacOS, Windows). Prend en charge le mode UASP
+- Sécurisation des données par mot de passe
 - Technologie NVMe pour des débits jusquà 1050 Mo/s
 - USB type C - USB 3.2 Gen.2 (10 Gbps)
-- Design léger et compact en aluminium
-- Sécurisation des données par mot de passe
-- Compatibilité multi-OS (Android, MacOS, Windows). Prend en charge le mode UASP
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B087DG2BHB/?tag=tolees0d-21)

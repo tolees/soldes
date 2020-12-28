@@ -25,10 +25,10 @@ Vous avez [Antenne TV Intérieur Blanc Elliptique Antenne Intérieure 200KM Gamm
 
 ℹ️:
 
-- 📺Indoor/Outdoor Simple Installation—TV Aerial made of quality waterproof material with detachable cable which is a easy installation. Lay it on the table, or plug on window and wall by adhesive sticks, or hung it under the outdoor roof with the screws. Please connect the extension line when you use it in outdoor！
-- 📺Best Service for You—We provide a 30-day full refund and 30-day warranty for all buyers. Quality products and satisfactory service is our promise to you! With any problem please feel free to contact us. Your problem will be solved within 12 hours.
-- 📺Amplified 200KM Signal reception—Advanced Smart Boost technology optimize the best signal transmission protection. If your are close to the TV tower, adjust amplifier to "short range". If the signal is weak, adjust it to "long range". After each adjustment, please rescan the TV.
 - 📺10M(33ft) Coaxial Cable with Extension Line—Extra long Detachable Performance coaxial cable. It helps to get good signal reception Whether it used in indoors or outdoors. This durable construction eliminates signal interference, increases antenna life and strong signal reception.
+- 📺Indoor/Outdoor Simple Installation—TV Aerial made of quality waterproof material with detachable cable which is a easy installation. Lay it on the table, or plug on window and wall by adhesive sticks, or hung it under the outdoor roof with the screws. Please connect the extension line when you use it in outdoor！
+- 📺Amplified 200KM Signal reception—Advanced Smart Boost technology optimize the best signal transmission protection. If your are close to the TV tower, adjust amplifier to "short range". If the signal is weak, adjust it to "long range". After each adjustment, please rescan the TV.
 - 📺Free HD Channels—Cut the cord, stop paying huge bills on TVs！Ts-ant TV Aerial help receive local HD program include ABC, CBS, NBC, HSN,CW, Fox BBC News ect. Digital HD Antenna Support 720p, 1080i, 1080p and 4K HD signal transmission. Buy it starts to access the news, kids and sports programs!
+- 📺Best Service for You—We provide a 30-day full refund and 30-day warranty for all buyers. Quality products and satisfactory service is our promise to you! With any problem please feel free to contact us. Your problem will be solved within 12 hours.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F4JRGFT/?tag=tolees0d-21)
