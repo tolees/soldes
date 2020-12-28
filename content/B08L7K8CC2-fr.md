@@ -25,10 +25,10 @@ Vous avez [Aerku Verre Trempé pour Xiaomi Mi 10T Lite 5G [2 Pièces] + Caméra 
 
 ℹ️:
 
-- [Garantie à vie: ] - Si, pour une raison quelconque, vous nêtes pas complètement satisfait, nous vous fournirons un remplacement ou un remboursement.
-- [Installation facile] - Compatible avec Xiaomi Mi 10T Lite 5G. Installation facile et aucun résidu quand il est enlevé. Avoir un effet antibactérien et toucher confortable. Protégez lécran de votre téléphone contre la poussière, les chutes dimpact élevées, les rayures, les éraflures et les bosses.
 - [Haute Transparence] - 99% de transparence, est entièrement compatible avec la sensibilité de lécran tactile et vous permet de profiter pleinement de votre écran. Ultra Clair,sans bulles, sans poussière, sans empreintes digitales, verre ultra-mince (0,3 mm) il a un revêtement oléophobique qui empêche les empreintes digitales et dautres contaminants et rend le film facile à nettoyer.
-- [Recommandé]- Attachez dabord le téléphone au film en acier, puis entrez lempreinte digitale. Certaines des empreintes digitales ayant été introduites pour la première fois, le verre a été réfracté dans le f ce qui a pour conséquence que le déverrouillage n’est pas aussi lisse.
+- [Installation facile] - Compatible avec Xiaomi Mi 10T Lite 5G. Installation facile et aucun résidu quand il est enlevé. Avoir un effet antibactérien et toucher confortable. Protégez lécran de votre téléphone contre la poussière, les chutes dimpact élevées, les rayures, les éraflures et les bosses.
 - [Protection parfaite] -Le film de verre trempé recouvre lécran, 9H de roche,anti-rayure, résistant à lusure, anti-choc; trois fois plus forte que le film de verre ordinaire, offrant donc une protection maximale à votre Xiaomi Mi 10T Lite 5G.
+- [Recommandé]- Attachez dabord le téléphone au film en acier, puis entrez lempreinte digitale. Certaines des empreintes digitales ayant été introduites pour la première fois, le verre a été réfracté dans le f ce qui a pour conséquence que le déverrouillage n’est pas aussi lisse.
+- [Garantie à vie: ] - Si, pour une raison quelconque, vous nêtes pas complètement satisfait, nous vous fournirons un remplacement ou un remboursement.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08L7K8CC2/?tag=tolees0d-21)

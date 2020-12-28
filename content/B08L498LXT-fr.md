@@ -25,10 +25,10 @@ Vous avez [John Wick Hex  Nintendo Switch ](https://www.amazon.fr/dp/B08L498LXT/
 
 ℹ️:
 
-- Bande-son electrifiante : John Wick Hex reprend le style graphique noir des films et propose une bande-son dans la continuité de cela, composé par Austin Wintory
-- Vivez une nouvelle une histoire inédite prenant place en amont des films, où vous retrouverez John dans une mission desespérée pour sauver Winston et Charon dun dangereux adversaire
+- Un mix unique de combats et stratégie, John Wick Hex capture lessentiel du combat tactique au coeur des films John Wick et ladapte en jeu vidéo, à mi-chemin entre stratégie et action
 - John Wick Hex est un jeu alliant stratégie et action en reprenant le style "gun-fu" emblématique de la série et qui vous plonge dans la peau de John Wick, le tueur à gages incarné par Keanu Reeves
 - Lhistoire est racontée en VO sous titré en français par des voix iconiques du cinéma, Ian McShane, Lance Reddick, reprenant leurs rôles dans les films, ainsi que le légendaire doubleur Troy Baker
-- Un mix unique de combats et stratégie, John Wick Hex capture lessentiel du combat tactique au coeur des films John Wick et ladapte en jeu vidéo, à mi-chemin entre stratégie et action
+- Vivez une nouvelle une histoire inédite prenant place en amont des films, où vous retrouverez John dans une mission desespérée pour sauver Winston et Charon dun dangereux adversaire
+- Bande-son electrifiante : John Wick Hex reprend le style graphique noir des films et propose une bande-son dans la continuité de cela, composé par Austin Wintory
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08L498LXT/?tag=tolees0d-21)

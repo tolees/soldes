@@ -25,10 +25,10 @@ Vous avez [Disque Dur Externe 1to  Disque Dur Externe Aluminium Stockage HDD USB
 
 ℹ️:
 
-- 【Plug & Play】 Ce disque dur externe est prêt à être utilisé sans alimentation externe ni installation de logiciel nécessaire. Stockage supplémentaire idéal pour votre ordinateur et votre console de jeux.
 - 【Conception métallique ultra mince et robuste】 Disque dur externe de seulement 0,35 pouce dépaisseur. Le modèle anti-rayures tout en aluminium offre une résistance et une durabilité remarquables, ce qui permet à ce disque dur externe de fonctionner au frais et au silence
+- 【Plug & Play】 Ce disque dur externe est prêt à être utilisé sans alimentation externe ni installation de logiciel nécessaire. Stockage supplémentaire idéal pour votre ordinateur et votre console de jeux.
 - 【Compatibilité du système】 Le disque dur externe est compatible avec Microsoft Windows 10 / Windows 8.1 / Windows 8 / Windows 7 / Apple MAC / Android et plus encore!
-- 【Ce qui est inclus】 Disque dur externe portable, câble de disque dur USB 3.1, garantie fabricant dun an avec service dassistance technique gratuit.
 - 【Améliorez les performances du PC】 Alimenté par la technologie USB 3.1, ce disque dur externe est beaucoup plus rapide que - mais toujours compatible avec - le lecteur de sauvegarde USB 2.0, permettant une vitesse de transfert ultra rapide.
+- 【Ce qui est inclus】 Disque dur externe portable, câble de disque dur USB 3.1, garantie fabricant dun an avec service dassistance technique gratuit.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08NZKFBLF/?tag=tolees0d-21)
