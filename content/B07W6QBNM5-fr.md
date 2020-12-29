@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Turbo Wheels  L atelier de tun avec 28.00 % rabais '
-date: 2020-12-25 22:48:19
+date: 2020-12-29 06:19:59
 image: 'https://m.media-amazon.com/images/I/513MI2NXYvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21'
 descuento: '28.00'
-average: '74.49893719806762'
+average: '74.48687499999998'
 ---
 
 C'est en vente [LEGO City Turbo Wheels  L atelier de tuning  Set de construction avec depanneuse  Hot Rod moto  207 pièces  60258](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)  à  28.00 % de réduction, prix final  71.99 EUR (original: 99.99 EUR) ici:
@@ -25,10 +25,10 @@ C'est en vente [LEGO City Turbo Wheels  L atelier de tuning  Set de construction
 
 ℹ️:
 
-- Les garagistes en herbe tirent le levier pour préparer les voitures au remorquage et tournent le cadran pour faire fonctionner le treuil à moteur avec des fonctions de levage
-- Inclut un garage, une roulotte de camping et 6 véhicules fascinants, notamment une dépanneuse, un Hot Rod et une moto propulsée par des fusées, ainsi quune niche de chien
-- Les accessoires comprennent une clé, un vérin de voiture, une tasse, un billet de banque, une boîte à pizza, une assiette et des saucisses, du matériel de soudage, une fraiseuse et bien plus encore
-- Les enfants peuvent faire fonctionner le treuil à moteur dans latelier, soulever des voitures avec le vérin, récupérer les véhicules en panne avec la dépanneuse et bien plus encore
-- Le set comporte 7 figurines, dont les personnages de la série télévisée de LEGO City Hari Hubbs Tread Octane, 2 garagistes, 3 clients et la figurine du bouledogue Jawis
+- Kids can operate the engine hoist in the workshop, lift car toys with the jack, rescue broken-down vehicles with the tow truck and much more
+- Comes with 7 minifigures, including City TV’s shows Harl Hubbs and Tread Octane, 2 mechanics, 3 customers and Jawls the Bulldog figure
+- Features a toy garage, camping trailer and 6 cool vehicles, including a breakdown truck, hotrod, a rocket-powered motorbike plus a doghouse
+- Budding mechanics pull the lever to prepare cars for towing and turn the dial to operate the engine hoist with uplifting functions
+- Accessories include a wrench, car jack, cup, banknote, pizza box, plate and sausage, welding equipment, milling machine plus many more
 
 [Achète-le!!](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)

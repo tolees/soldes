@@ -25,12 +25,12 @@ Vous avez [Sony MDR-1AM2 Casque Hi-Res Audio - Noir](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
+- Profitez de votre musique dans sa qualité originale grâce au Hi-Res Audio. Type de cordon: OFC détachable / argenté. Style dusure: Circumaural
+- Des basses puissantes avec la technologie Beat Response Control
+- Le design enveloppant et fermé retient le son à lintérieur. Diaphragme: LCP revêtu daluminium
 - Diaphragme en film polymère à cristaux liquides réactif pour plus de clarté
 - Longueur de la corde:47-1 / 4 "
-- Des basses puissantes avec la technologie Beat Response Control
-- Sensibilités (dB/mW): 98 dB/mW
-- Le design enveloppant et fermé retient le son à lintérieur. Diaphragme: LCP revêtu daluminium
 - Oreillettes pivotantes pour un transport aisé; Coussinets anti-pression pour un confort total
-- Profitez de votre musique dans sa qualité originale grâce au Hi-Res Audio. Type de cordon: OFC détachable / argenté. Style dusure: Circumaural
+- Sensibilités (dB/mW): 98 dB/mW
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21)

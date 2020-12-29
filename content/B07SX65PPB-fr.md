@@ -25,10 +25,10 @@ C'est en vente [Montre Homme  LIGE Chronographe étanche Sport Militaire Quartz 
 
 ℹ️:
 
-- 3ATM/30M étanchef: En général, résiste aux éclaboussures ou à une brève immersion dans leau. Nappuyez sur aucun bouton dans leau.
 - Mode et confortable: la montre à gros visage avec bracelet en cuir souple, très confortable au poignet. Un excellent cadeau pour vous, votre famille ou vos amis
-- Meilleur service: 100% neuf, 24 mois de garantie, remboursement de 30 jours, pour tout problème concernant la montre, nhésitez pas à nous contacter par e-mail :)
 - Montre multifonction: tous les cadrans de la montre homme sont fonctionnels; chronomètre; chronographe; date automatique; aiguilles lumineuses; résistant à leau
+- Meilleur service: 100% neuf, 24 mois de garantie, remboursement de 30 jours, pour tout problème concernant la montre, nhésitez pas à nous contacter par e-mail :)
 - Matériau de la montre: mouvement à quartz japonais, indication de lheure précise, boîtier en acier inoxydable pour une durabilité extrême
+- 3ATM/30M étanchef: En général, résiste aux éclaboussures ou à une brève immersion dans leau. Nappuyez sur aucun bouton dans leau.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07SX65PPB/?tag=tolees0d-21)

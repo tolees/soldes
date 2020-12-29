@@ -25,10 +25,10 @@ C'est en vente [Splash Toys - Malo Chiko - Jeu Enfants Famille - Dès 4 ans - Je
 
 ℹ️:
 
-- Mais attention de ne pas te faire mordre ! Si tu touches son appareil en métal, il risque de relâcher sa terrible mâchoire sur toi !
 - Âge : 4+
-- Contenu de la boîte : 1 loup motorisé + 12 objets en plastique + 1 spinner + 1 pince reliée au loup
 - À laide de la pince, retire délicatement lobjet de la couleur indiquée par la flèche du snipper
+- Contenu de la boîte : 1 loup motorisé + 12 objets en plastique + 1 spinner + 1 pince reliée au loup
+- Mais attention de ne pas te faire mordre ! Si tu touches son appareil en métal, il risque de relâcher sa terrible mâchoire sur toi !
 - Ce loup a mangé vraiment nimporte quoi, et des objets sont coincés dans sa gueule
 
 [Achète-le!!](https://www.amazon.fr/dp/B00ZOK1BNQ/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.73 % rabais sur LEGO Creator - 10220 - Jeu de Constructi'
-date: 2020-12-25 22:44:38
+date: 2020-12-29 06:08:56
 image: 'https://m.media-amazon.com/images/I/61zHuRzCSgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Vous avez [LEGO Creator - 10220 - Jeu de Construction - Le Camping-Car - Volkswa
 
 ℹ️:
 
-- Contenu du packaging: 1332 éléments
-- Description du produit: Cet authentique camping - car est une réplique du camping - car Volkswagen classique de 1962. Il contient tous les détails qui en ont fait une légende! À l’extérieur, on retrouve les trois « v » du logo à l’avant, le toit et les encadrements de fenêtre arrondis, le pare - brise safari en deux parties, les portes qui s’ouvrent, le célèbre toit relevable avec rideau de toile tout autour, le porte - bagages de toit, les prises dentrée d’air à l’arrière et bien d’autres choses encore! À l’intérieur, le réalisme est tout aussi impressionnant: authentique moteur boxer quatre cylindres à plat refroidi par air, banquette avant, levier de vitesse et tableau de bord incliné avec compteur de vitesse sphérique. Lego a, en outre, ajouté quelques détails pour personnaliser l’ensemble: banquette arrière dépliante, table rabattable, placard avec miroir et même un tableau!
-- Nécessite des piles: Non
+- Batteries required: no
+- Box contents: 1332 parts
+- Product description: this authentic camper van is a replica of the classic 1962 Volkswagen Camper Van. It contains all of the iconic features which made it legendary. On the outside, there are the three "V"s on the logo at the front, the rounded roof and window frames, the two-part safari-style windscreen, opening doors, the iconic pop-up roof with textile curtain surround, the roof rack, the rear air intake vents and lots more. The realistic details is equally impressive on the inside: authentic air-cooled flat 4-cylinder boxer engine, front cabin bench seat, gear stick, angled dashboard and spherical speedometer. LEGO has also added some extra details to personalise the model: folding rear bench seat, pull-out table, closet with mirror, and even a painting.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0050R0XEG/?tag=tolees0d-21)
