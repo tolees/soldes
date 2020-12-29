@@ -25,9 +25,9 @@ Vous avez [Star Wars Jedi : Fallen Order pour PS4](https://www.amazon.fr/dp/B07S
 
 ℹ️:
 
-- Forêts séculaires, falaises balayées par les vents ou encore jungles surnaturelles sont autant d’écosystèmes uniques en leur genre que vous pourrez explorer sans limites dans Jedi: Fallen Order
 - Devenir un Jedi n’est plus un rêve inaccessible avec Jedi : Fallen Order, qui vous propose un système de combat au sabre laser novateur mêlant frappes, parades, esquives et capacités dévastatrices liées à la Force
 - Ancien Padawan fuyant l’Empire, vous devrez terminer votre entraînement avant que les Inquisiteurs impériaux ne découvrent vos plans pour rétablir l’Ordre Jedi
 - Précommandez Star Wars Jedi : Fallen Order et obtenez des équipements cosmétiques inédits pour votre sabre laser et votre compagnon droïde
+- Forêts séculaires, falaises balayées par les vents ou encore jungles surnaturelles sont autant d’écosystèmes uniques en leur genre que vous pourrez explorer sans limites dans Jedi: Fallen Order
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S6PWDXM/?tag=tolees0d-21)
