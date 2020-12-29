@@ -25,8 +25,8 @@ Vous avez [LEGO Creator - 10220 - Jeu de Construction - Le Camping-Car - Volkswa
 
 ℹ️:
 
-- Product description: this authentic camper van is a replica of the classic 1962 Volkswagen Camper Van. It contains all of the iconic features which made it legendary. On the outside, there are the three "V"s on the logo at the front, the rounded roof and window frames, the two-part safari-style windscreen, opening doors, the iconic pop-up roof with textile curtain surround, the roof rack, the rear air intake vents and lots more. The realistic details is equally impressive on the inside: authentic air-cooled flat 4-cylinder boxer engine, front cabin bench seat, gear stick, angled dashboard and spherical speedometer. LEGO has also added some extra details to personalise the model: folding rear bench seat, pull-out table, closet with mirror, and even a painting.
 - Box contents: 1332 parts
 - Batteries required: no
+- Product description: this authentic camper van is a replica of the classic 1962 Volkswagen Camper Van. It contains all of the iconic features which made it legendary. On the outside, there are the three "V"s on the logo at the front, the rounded roof and window frames, the two-part safari-style windscreen, opening doors, the iconic pop-up roof with textile curtain surround, the roof rack, the rear air intake vents and lots more. The realistic details is equally impressive on the inside: authentic air-cooled flat 4-cylinder boxer engine, front cabin bench seat, gear stick, angled dashboard and spherical speedometer. LEGO has also added some extra details to personalise the model: folding rear bench seat, pull-out table, closet with mirror, and even a painting.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0050R0XEG/?tag=tolees0d-21)

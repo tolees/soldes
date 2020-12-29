@@ -26,9 +26,9 @@ Vous avez [Emma Matelas Original 200x200 | 25 cm épaisseur | Matelas à mémoir
 ℹ️:
 
 - Le matelas Emma est le plus primé d’Europe : 8 tests d’association de consommateurs l’ont élu meilleur matelas
-- Indépendance de couchage garantie pour les couples
 - Conçu et fabriqué à 100% en Europe. Nos matelas sont strictement contrôlés afin de garantir une qualité supérieure et sont certifiés OEKO-Tex 100
-- 100 nuits d’essai : Comme il nest pas possible de juger en 10 minutes si un matelas est fait pour vous, découvrez Emma matelas pendant 100 nuits. Nous assurons un remboursement intégral et récupérons votre matelas à votre domicile.
 - Le matelas 200x200 cm à mémoire de forme sadapte parfaitement aux courbes de votre corps. Il convient à toutes les morphologies.
+- 100 nuits d’essai : Comme il nest pas possible de juger en 10 minutes si un matelas est fait pour vous, découvrez Emma matelas pendant 100 nuits. Nous assurons un remboursement intégral et récupérons votre matelas à votre domicile.
+- Indépendance de couchage garantie pour les couples
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B077J1Z4DB/?tag=tolees0d-21)
