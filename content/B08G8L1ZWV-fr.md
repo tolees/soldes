@@ -25,10 +25,10 @@ C'est en vente [Loolinn | Drone Enfant - Cadeau de Noël  Mini Drone Télécomma
 
 ℹ️:
 
-- 🔥【 12 Month Warranty 】-- We offer a free 12 month warranty. Also if you are not satisfied in any way with this kids drone we are happy to fully refund or send you a replacement. No need to worry, try this one and your kids will love it!!!
 - 🔥 【 Safe 】 -- All the propellers are fully covered by a durable shell for kids safety. There is no worry of injury to small fingers. It is safe to play for kids.
-- 🔥 【 Great Auto Anti-Collision Technology 】 -- Infrared sensors built-in that automatically keep the drone from crashing into walls, TVs or people, avoiding any breakages.
 - 🔥 【 Up To 30 Minutes Flight Time 】 -- This kids drone comes with three upgraded batteries. Its total flight time can be up to 30 minutes while other similar drones are only 21 minutes. Its flight time is increased by 40%.
+- 🔥 【 Great Auto Anti-Collision Technology 】 -- Infrared sensors built-in that automatically keep the drone from crashing into walls, TVs or people, avoiding any breakages.
+- 🔥【 12 Month Warranty 】-- We offer a free 12 month warranty. Also if you are not satisfied in any way with this kids drone we are happy to fully refund or send you a replacement. No need to worry, try this one and your kids will love it!!!
 - 🔥 【 Easy To Fly 】 -- It’s very simple to set up and easy to fly so you can let your kids have a go without any worries whatsoever. Also, it can fly without the controller and be controlled just with your hands. Very easy to fly and so much fun.
 
 [Achète-le!!](https://www.amazon.fr/dp/B08G8L1ZWV/?tag=tolees0d-21)

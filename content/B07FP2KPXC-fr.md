@@ -25,10 +25,10 @@ Vous avez [LEGO® Speed Champions Ferrari F40 Competizione Jeu voiture  7 Ans et
 
 ℹ️:
 
-- Les ensembles LEGO Speed Champions sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- La voiture Ferrari F40 Competizione mesure plus de 4 cm de haut, 13 cm de long et 5 cm de large
 - Inclut une figurine de pilote de course Ferrari
 - Construisez la voiture Ferrari F40 Competizione LEGO Speed Champions
+- La voiture Ferrari F40 Competizione mesure plus de 4 cm de haut, 13 cm de long et 5 cm de large
 - 198 pièces pour les filles et les garçons à partir de 7 ans
+- Les ensembles LEGO Speed Champions sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FP2KPXC/?tag=tolees0d-21)
