@@ -25,11 +25,11 @@ Vous avez [Micro-ondes Compact Design 20L VIO8 Noir H.Koenig Puissant 700W  Plat
 
 ℹ️:
 
-- Capacité : 20 L
-- Garantie 2 ans (atelier SAV en France)
 - Puissance : 700 W
+- Garantie 2 ans (atelier SAV en France)
+- Minuterie jusqu’à 30 min
+- Capacité : 20 L
 - Diamètre de la plaque tournante : 24,5 cm
 - 6 modes de cuisson : 5 niveaux de chauffe, décongélation
-- Minuterie jusqu’à 30 min
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B087X96PXR/?tag=tolees0d-21)

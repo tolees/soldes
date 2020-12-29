@@ -25,14 +25,14 @@ C'est en vente [Tommy Hilfiger Heritage Zip-Through Hoodie Sweat-Shirt À Capuch
 
 ℹ️:
 
-- Bande décorative typique de la marque à lintérieur de lencolure.
-- Fermeture Éclair intégrale.
-- Rayures typiques de la marque sur lourlet.
-- Coton mélangé.
-- Coupe classique.
 - Capuche avec cordon de serrage.
 - 2 poches avant.
-- Broderie Tommy Hilfiger sur la poitrine.
 - Poignets élastiques.
+- Rayures typiques de la marque sur lourlet.
+- Broderie Tommy Hilfiger sur la poitrine.
+- Coton mélangé.
+- Bande décorative typique de la marque à lintérieur de lencolure.
+- Coupe classique.
+- Fermeture Éclair intégrale.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07N8QH1HV/?tag=tolees0d-21)
