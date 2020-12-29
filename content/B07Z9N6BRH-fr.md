@@ -25,9 +25,9 @@ Vous avez [Goliath - Super Zings Bakery Blast - à collectionner - à partir de 
 
 ℹ️:
 
+- 1+
 - Superzings est une gamme de figurines à collectionner d’une hauteur de 3cm environ.
 - Age minimum: 5 ans
-- 1+
 - Après un succès fulgurant en Angleterre et en Espagne, le phénomène superzings débarquent en France !
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Z9N6BRH/?tag=tolees0d-21)

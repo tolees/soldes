@@ -25,11 +25,11 @@ Vous avez [Xiaomi -Caméra de Sécurité Domestique 360° 1080P- Blanc](https://
 
 ℹ️:
 
-- panorama à 360 degrés apporte un sentiment décran immersif
 - Résolution 1080P, filmer des vidéos de haute qualité et fluides
+- Audio bi-directionnel
+- panorama à 360 degrés apporte un sentiment décran immersif
+- Microphone intégré et haut-parleur
 - Pas de fiche, seulement un câble USB
 - Support Android 4, 0 et supérieur, iOS 7, 0 et supérieur
-- Microphone intégré et haut-parleur
-- Audio bi-directionnel
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KCZ1J2V/?tag=tolees0d-21)
