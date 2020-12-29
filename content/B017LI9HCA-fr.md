@@ -25,10 +25,10 @@ C'est en vente [V-MODA Zn Ecouteurs Intra-Auriculaires 3-Bouton](https://www.ama
 
 ℹ️:
 
-- Les crochets doreilles brevetés ActiveFlex assurent une stabilité idéale quel que soit le sport que vous pratiquez, et placent le Zn en compagnon idéal pour les audiophiles modernes et nomades
-- Des coques dalliage de zinc, moulées par un procédé breveté, qui permet dobtenir un design unique et une précision microscopique nécessaire pour produire une qualité acoustique permanente sans contraintes
 - Les tout bon et incroyables haut-parleurs de 8 mm qui procurent une haute précision acoustique avec un très faible taux de distorsion, réglés pour compenser la limite de variance de loreille humaine (± 2 dB)
 - Un micro intégré spécialement optimisé pour les conversations téléphoniques et la reconnaissance vocale, compatible avec tous les types de smartphones, tablettes et ordinateurs portables
+- Les crochets doreilles brevetés ActiveFlex assurent une stabilité idéale quel que soit le sport que vous pratiquez, et placent le Zn en compagnon idéal pour les audiophiles modernes et nomades
 - Un câble Diamondback anti torsades, compromis idéal entre style et robustesse extrême, 20 fois plus solide que les standards industriels
+- Des coques dalliage de zinc, moulées par un procédé breveté, qui permet dobtenir un design unique et une précision microscopique nécessaire pour produire une qualité acoustique permanente sans contraintes
 
 [Achète-le!!](https://www.amazon.fr/dp/B017LI9HCA/?tag=tolees0d-21)
