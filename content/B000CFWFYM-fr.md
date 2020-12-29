@@ -25,9 +25,9 @@ Vous avez [UNO Deluxe jeu de société et de cartes  K0888](https://www.amazon.f
 
 ℹ️:
 
-- La version de luxe contient un carnet de scores et un sabot de distribution, très pratique pour ranger les cartes après la partie
 - Attention aux cartes action et aux coups de bluff que chacun peut tenter à tout instant
 - 2 à 10 joueurs
+- La version de luxe contient un carnet de scores et un sabot de distribution, très pratique pour ranger les cartes après la partie
 - Recouvrir la carte jouée précédemment avec une carte de la même couleur ou avec le même symbole
 - À partir de sept ans
 

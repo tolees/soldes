@@ -25,10 +25,10 @@ C'est en vente [Funko- Pop Vinyl: Hasbro-Popple w/Chase  Styles Vary  Figurine d
 
 ℹ️:
 
-- (Edition spéciale)
 - Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Issue de la gamme Hasbro, la figurine Popple w/Chase (Styles vary) rejoint la collection Funko POP
-- Découvrez tous les autres produits Funko dédiés à lunivers Hasbro! Collectionnez-les tous!
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Découvrez tous les autres produits Funko dédiés à lunivers Hasbro! Collectionnez-les tous!
+- (Edition spéciale)
 
 [Achète-le!!](https://www.amazon.fr/dp/B087N7CD9J/?tag=tolees0d-21)

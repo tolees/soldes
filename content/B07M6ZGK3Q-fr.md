@@ -25,13 +25,13 @@ C'est en vente [Sylvanian Families - Le Village - La Grande Roue des Bébés - 5
 
 ℹ️:
 
-- Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions, la famille, La nature et lamour. Ils sont des jouets parfaits pour imaginer des histoires et sépanouir.
-- Compatible avec les aires de jeu de la crèche.
-- Une grande roue très mignonne composée de 3 nacelles.
 - Des souvenirs pour la vie !
-- Elle est décorée de notes de musiques et d’une jolie fleur en son centre.
-- À partir de 3 ans.
 - Milo, le bébé Caniche
 - Jouet mécanique.
+- À partir de 3 ans.
+- Compatible avec les aires de jeu de la crèche.
+- Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions, la famille, La nature et lamour. Ils sont des jouets parfaits pour imaginer des histoires et sépanouir.
+- Elle est décorée de notes de musiques et d’une jolie fleur en son centre.
+- Une grande roue très mignonne composée de 3 nacelles.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07M6ZGK3Q/?tag=tolees0d-21)
