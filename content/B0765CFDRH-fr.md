@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO DUPLO - Le train de marchandises  - avec 26.93 % rabais '
-date: 2020-12-27 07:32:44
+date: 2020-12-28 23:18:46
 image: 'https://m.media-amazon.com/images/I/51ps1QlFcXL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ C'est en vente [LEGO DUPLO - Le train de marchandises  - 10875 - Jeu de Construc
 
 ℹ️:
 
+- Les jouets LEGO DUPLO sont compatibles avec les autres ensembles de construction DUPLO pour une construction créative
 - 105 pièces pour les garçons et filles de 2 à 5 ans
 - La dragonne Firstbourne comprend une selle pour figurine amovible avec des rênes, des ailes décorées et repliables avec une fonction de battement, des mâchoires, un cou et des pattes amovibles, et une fonction de coup de queue
-- Les jouets LEGO DUPLO sont compatibles avec les autres ensembles de construction DUPLO pour une construction créative
 - Le train de marchandises avec les camions de marchandises mesure plus de 10 cm de haut, 47 cm de long et 8 cm de large
 - Construisez le train de marchandises LEGO DUPLO
 
