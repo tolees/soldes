@@ -25,8 +25,8 @@ C'est en vente [Lanvin L Homme Eau de Toilette 100 ml](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Eau de Toilette- L Homme - Lanvin
 - Eau de Toilette- L Homme -Homme
+- Eau de Toilette- L Homme - Lanvin
 - un produit unique et exclusif de la marque Lanvin
 
 [Achète-le!!](https://www.amazon.fr/dp/B000C1Z7UK/?tag=tolees0d-21)
