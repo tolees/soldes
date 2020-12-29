@@ -25,11 +25,11 @@ C'est en vente [OMRON M2 Basic Tensiomètre Bras Électronique  Détection de Pu
 
 ℹ️:
 
-- Compact et facile à transporter
+- Validé cliniquement
 - Possède la technologie exclusive IntelliSense développée par OMRON
-- Dimension: Longueur (cm): 13,00 , Hauteur (cm): 17,00 , Profondeur (cm): 12,00
+- Compact et facile à transporter
 - Garde en mémoire la dernière mesure
 - Brassard M 22-32 cm
-- Validé cliniquement
+- Dimension: Longueur (cm): 13,00 , Hauteur (cm): 17,00 , Profondeur (cm): 12,00
 
 [Achète-le!!](https://www.amazon.fr/dp/B00KJ8FB1Q/?tag=tolees0d-21)
