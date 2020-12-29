@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.23 % rabais sur Animal Crossing : New Horizons pour Nint'
-date: 2020-12-28 04:59:05
+date: 2020-12-29 05:52:32
 image: 'https://m.media-amazon.com/images/I/51N3f-bcjpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B0821XHJB6/?tag=tolees0d-21'
 descuento: '28.23'
-average: '44.97309278350513'
+average: '44.970615384615364'
 ---
 
 Vous avez [Animal Crossing : New Horizons pour Nintendo Switch](https://www.amazon.fr/dp/B0821XHJB6/?tag=tolees0d-21)  à  28.23 % de réduction, prix final  44.49 EUR (original: 61.99 EUR) ici:
@@ -25,9 +25,6 @@ Vous avez [Animal Crossing : New Horizons pour Nintendo Switch](https://www.amaz
 
 ℹ️:
 
-- Détendez-vous en jardinant, en pêchant, en faisant de la décoration ou encore en nouant des relations avec dadorables personnages !
-- Huit joueurs peuvent jouer ensemble sur lîle de lun des joueurs grâce au multijoueur en ligne ou au multijoueur local sans fil !
-- Jusquà huit joueurs peuvent vivre sur une île; quatre résidents dune même île peuvent jouer ensemble simultanément sur une seule console Nintendo switch.
-- Le jeu propose un tout nouveau système dartisanat : collectez des matériaux sur votre île pour tout construire, des meubles jusquaux outils !
+- ANIMAL CROSSING NEW HORIZONS - SWITCH
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0821XHJB6/?tag=tolees0d-21)
