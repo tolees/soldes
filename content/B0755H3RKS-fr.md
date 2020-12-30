@@ -25,10 +25,10 @@ C'est en vente [Michael Kors Femme Analogique Quartz Montre avec Bracelet en Aci
 
 ℹ️:
 
+- Largeur du bracelet : 14 mm, longueur du bracelet : 175 +/-5 mm
+- Présenté dans un coffret cadeau Michael Kors
 - Étanchéité : 5 ATM
 - Matière du bracelet : acier inoxydable
 - Épaisseur du boîtier : 7 mm, taille du boîtier : 38 mm
-- Présenté dans un coffret cadeau Michael Kors
-- Largeur du bracelet : 14 mm, longueur du bracelet : 175 +/-5 mm
 
 [Achète-le!!](https://www.amazon.fr/dp/B0755H3RKS/?tag=tolees0d-21)

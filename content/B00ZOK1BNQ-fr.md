@@ -25,11 +25,11 @@ C'est en vente [Splash Toys - Malo Chiko - Jeu Enfants Famille - Dès 4 ans - Je
 
 ℹ️:
 
-- Package contents:-1 motorised wolf, 12 plastic objects, 1 spinner and 1 pair of pliers connected to the wolf.
 - Uses 3 x LR06 batteries (not included).
-- The wolf has eaten just about everything and the objects are stuck in his mouth.
-- But be careful not to get bitten and if you touch his metal braces, he may unleash his terrible jaws on you.
 - Minimum age:4+.
 - Use the pliers to carefully remove an item that is the same colour as the colour indicated by the spinner.
+- But be careful not to get bitten and if you touch his metal braces, he may unleash his terrible jaws on you.
+- The wolf has eaten just about everything and the objects are stuck in his mouth.
+- Package contents:-1 motorised wolf, 12 plastic objects, 1 spinner and 1 pair of pliers connected to the wolf.
 
 [Achète-le!!](https://www.amazon.fr/dp/B00ZOK1BNQ/?tag=tolees0d-21)
