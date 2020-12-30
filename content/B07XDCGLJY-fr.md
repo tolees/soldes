@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DCL - Drone Championship League avec 45.51 % rabais '
-date: 2020-12-24 15:55:08
+date: 2020-12-29 23:10:07
 image: 'https://m.media-amazon.com/images/I/51lcAGWvJwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XDCGLJY/?tag=tolees0d-21'
 descuento: '45.51'
-average: '20.775192307692308'
+average: '20.81277777777778'
 ---
 
 C'est en vente [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XDCGLJY/?tag=tolees0d-21)  à  45.51 % de réduction, prix final  21.79 EUR (original: 39.99 EUR) ici:
