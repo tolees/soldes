@@ -26,7 +26,7 @@ Vous avez [Converse Chuck Taylor All Star Core Lea Ox  Baskets mode mixte adulte
 ℹ️:
 
 - Silhouette caractéristique
-- Semelle en caoutchouc vulcanisé
 - Embout en caoutchouc renforcé
+- Semelle en caoutchouc vulcanisé
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B006M6AZJM/?tag=tolees0d-21)
