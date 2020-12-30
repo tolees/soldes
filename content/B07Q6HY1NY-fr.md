@@ -25,10 +25,10 @@ C'est en vente [TaoTronics Humidificateur Bébé Ultrasonique 27dB Max Humidific
 
 ℹ️:
 
-- ★ Sattaque aux Grands Espaces : Délivre une brume à longue portée, via une buse rotative à 360°, à une hauteur allant jusquà 60cm, pour humidifier efficacement une pièce de 20 à 40 m².
 - ★ Ultra-Silencieux 27dB pour les Chambres : Pas de lumière perturbatrice. Humidifie lair à un faible niveau sonore d’à peine 27dB, vous assurant un sommeil plus réparateur.
-- ★ Réservoir Grande Capacité 4L : Contenant une quantité impressionnante de 4 litres d’eau, ajustez le débit de brume entre 60 et 300 ml/h pour rafraîchir n’importe quelle pièce sans interruption pendant 12 à 50 heures.
-- ★ Sûr et Stable : Arrêt automatique quand toute leau est vidée. Le nano-revêtement protège les cartes des circuits imprimés de lhumidité, afin que lhumidificateur puisse durer des années.
 - ★ Facile à Nettoyer et Remplir : La grande ouverture du réservoir deau rend très facile à nettoyer et garantit un air sain pour votre famille, et le dessus du réservoir plat rend facile à remplir deau en déposant le réservoir sur la table, sans besoins de le tenir toujours au cours de remplissage.
+- ★ Sattaque aux Grands Espaces : Délivre une brume à longue portée, via une buse rotative à 360°, à une hauteur allant jusquà 60cm, pour humidifier efficacement une pièce de 20 à 40 m².
+- ★ Sûr et Stable : Arrêt automatique quand toute leau est vidée. Le nano-revêtement protège les cartes des circuits imprimés de lhumidité, afin que lhumidificateur puisse durer des années.
+- ★ Réservoir Grande Capacité 4L : Contenant une quantité impressionnante de 4 litres d’eau, ajustez le débit de brume entre 60 et 300 ml/h pour rafraîchir n’importe quelle pièce sans interruption pendant 12 à 50 heures.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07Q6HY1NY/?tag=tolees0d-21)

@@ -25,8 +25,8 @@ C'est en vente [Cokin Kit Expert M Ensemble de 3 filtres densité neutre avec mi
 
 ℹ️:
 
-- Développez votre créativité
 - 3 filtres COKIN CREATIVE, 1 porte-filtre M, 4 bagues ddaptation, 1 microfibre
+- Développez votre créativité
 - 3 filtres, 1 ND et 2 dégradés ND
 - Porte-filtre M + 4 bague (52, 55, 58 et 62mm)
 
