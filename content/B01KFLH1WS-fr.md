@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY SSD7CS900-120-PB Disque Flash SSD in avec 26.68 % rabais '
-date: 2020-12-29 05:29:25
+date: 2020-12-30 06:35:48
 image: 'https://m.media-amazon.com/images/I/51OPxD-Vv3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21'
 descuento: '26.68'
-average: '20.879718309859147'
+average: '20.895138888888884'
 ---
 
 C'est en vente [PNY SSD7CS900-120-PB Disque Flash SSD interne 120 Go SATA III Noir](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)  à  26.68 % de réduction, prix final  21.99 EUR (original: 29.99 EUR) ici:
@@ -25,11 +25,11 @@ C'est en vente [PNY SSD7CS900-120-PB Disque Flash SSD interne 120 Go SATA III No
 
 ℹ️:
 
-- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
 - Capacité de 120 Go
-- Format Slim 7 mm
 - Idéal pour booster le système et les applications de tous les types dordinateur
-- Garantie 3 ans par le SAV PNY situé en France
 - Interface Serial ATA III/6 GBPs
+- Format Slim 7 mm
+- Garantie 3 ans par le SAV PNY situé en France
+- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
 
 [Achète-le!!](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)

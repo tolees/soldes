@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Splash Toys - Malo Chiko - Jeu Enfants F avec 20.77 % rabais '
-date: 2020-12-29 05:36:55
+date: 2020-12-30 06:41:44
 image: 'https://m.media-amazon.com/images/I/51zdpZmZ0LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,11 @@ C'est en vente [Splash Toys - Malo Chiko - Jeu Enfants Famille - Dès 4 ans - Je
 
 ℹ️:
 
-- À laide de la pince, retire délicatement lobjet de la couleur indiquée par la flèche du snipper
-- Âge : 4+
-- Mais attention de ne pas te faire mordre ! Si tu touches son appareil en métal, il risque de relâcher sa terrible mâchoire sur toi !
-- Ce loup a mangé vraiment nimporte quoi, et des objets sont coincés dans sa gueule
-- Contenu de la boîte : 1 loup motorisé + 12 objets en plastique + 1 spinner + 1 pince reliée au loup
+- Package contents:-1 motorised wolf, 12 plastic objects, 1 spinner and 1 pair of pliers connected to the wolf.
+- Minimum age:4+.
+- Uses 3 x LR06 batteries (not included).
+- Use the pliers to carefully remove an item that is the same colour as the colour indicated by the spinner.
+- The wolf has eaten just about everything and the objects are stuck in his mouth.
+- But be careful not to get bitten and if you touch his metal braces, he may unleash his terrible jaws on you.
 
 [Achète-le!!](https://www.amazon.fr/dp/B00ZOK1BNQ/?tag=tolees0d-21)

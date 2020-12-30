@@ -1,25 +1,25 @@
 ---
 layout: post
-title: '59.34 % rabais sur Mauboussin - Eau de Parfum Homme - Pour '
-date: 2020-12-29 05:25:26
+title: '58.68 % rabais sur Mauboussin - Eau de Parfum Homme - Pour '
+date: 2020-12-30 06:16:35
 image: 'https://m.media-amazon.com/images/I/41mUx2mK3PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00BAXITEU-fr'
-actualPrice: 30.9 EUR
+actualPrice: 31.4 EUR
 currency: EUR
-price: 30.9
+price: 31.4
 comparePrice: 76.0 EUR
 prodname: 'Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Moderne - 100ml'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21'
-descuento: '59.34'
-average: '26.736'
+descuento: '58.68'
+average: '27.16'
 ---
 
-Vous avez [Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Moderne - 100ml](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21)  à  59.34 % de réduction, prix final  30.9 EUR (original: 76.0 EUR) ici:
+Vous avez [Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Moderne - 100ml](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21)  à  58.68 % de réduction, prix final  31.4 EUR (original: 76.0 EUR) ici:
 
 [![Mauboussin - Eau de Parfum Homme - Pour ](https://m.media-amazon.com/images/I/41mUx2mK3PL._SL200_.jpg)](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21)
 

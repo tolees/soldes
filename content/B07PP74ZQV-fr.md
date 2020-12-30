@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.43 % rabais sur PowerA Pokémon Manette sans fil de Ninte'
-date: 2020-12-29 05:42:03
+date: 2020-12-30 06:27:06
 image: 'https://m.media-amazon.com/images/I/41dzjEmySfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Vous avez [PowerA Pokémon Manette sans fil de Nintendo Switch - Style GameCube:
 
 ℹ️:
 
-- Détection de mouvements et boutons système compatibles avec tous les jeux de Nintendo Switch
 - Deux piles AA offrant 30 heures de jeu maximum
+- Idéale pour Super Smash Bros Ultimate
 - Design GameCube classique, croix directionnelle plus grande, nouvelle gâchette gauche
 - Liberté sans fil du Bluetooth
-- Idéale pour Super Smash Bros Ultimate
+- Détection de mouvements et boutons système compatibles avec tous les jeux de Nintendo Switch
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PP74ZQV/?tag=tolees0d-21)

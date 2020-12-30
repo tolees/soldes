@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.20 % rabais sur WD BLACK P10 Game Drive for Xbox One 5 T'
-date: 2020-12-29 05:25:38
+date: 2020-12-30 06:13:45
 image: 'https://m.media-amazon.com/images/I/41HSbkzMX6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,11 @@ Vous avez [WD BLACK P10 Game Drive for Xbox One 5 To pour avoir accès à vos 
 
 ℹ️:
 
-- Portable form factor that provides fast access to your gaming library, anywhere you go
-- Comes with a free 2-months membership of Xbox game pass ultimate, giving you access to over 100+ game titles and Xbox Live gold. (2-Month trial offer of Xbox game pass ultimate. Available for a limited TIME. See Product packaging for full details)
-- Up to 5TB that can hold up to 125 Games, so that you can save old favorites and still have room for new titles
-- High-performance HDD in speeds up to 140MB/s to optimize your console or PC gaming experience and drive your game
-- Purpose-built for gamers based on wd_black quality and reliability so you can play without limits
+- Avec un abonnement gratuit de 2 mois à Xbox Game pass ULTIMATE, vous donnant accès à plus de 100 titres de jeux et à Xbox Live Gold. (Offre d’essai de 2 mois de Xbox Game pass ULTIMATE. Disponible pour un temps limité. Veuillez consulter l’emballage du produit pour plus de détails).
+- Disque dur hautes performances avec un débit jusqu’à 140 mo/s pour optimiser votre expérience de jeu sur console ou sur PC et gérer votre jeu.
+- Jusqu’à 5 to pouvant contenir jusqu’à 125 jeux, vous pouvez ainsi enregistrer vos vieux favoris tout en gardant de l’espace pour de nouveaux titres.
+- TEMPÉRATURE DE FONCTIONNEMENT: 5 °C À 35 °C
+- Conçu spécialement pour les joueurs, sur la base de la qualité et de la fiabilité de wd_black, pour vous permettre de jouer sans limites.
+- Format portable offrant un accès rapide à votre bibliothèque de jeux, où que vous soyez.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VQ8Q3L4/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.14 % rabais sur Levi s 2Pack Shirt  2 Pack Tee White +/S'
-date: 2020-12-29 05:31:08
+date: 2020-12-30 06:36:58
 image: 'https://m.media-amazon.com/images/I/414Wg+nDU-L._SL200_.jpg'
 comments: true
 category: ofertas
