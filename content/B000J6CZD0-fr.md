@@ -25,13 +25,13 @@ Vous avez [Sharpie China Marker Marqueur Polyvalent Pointe Fine Noir Lot de 12](
 
 ℹ️:
 
-- Type de pointe : Pointe Fine
+- Soluble dans leau.
+- Garantie :
+- Effaçable avec un chiffon humide.
+- Idéal pour marquer la porcelaine, le verre, le métal et le plastique.
 - Dureté de la mine :
 - Rétractable :
-- Effaçable avec un chiffon humide.
 - Marque de nombreuses surfaces, poreuses et non poreuses.
-- Garantie :
-- Soluble dans leau.
-- Idéal pour marquer la porcelaine, le verre, le métal et le plastique.
+- Type de pointe : Pointe Fine
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000J6CZD0/?tag=tolees0d-21)

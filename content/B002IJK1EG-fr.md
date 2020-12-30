@@ -25,11 +25,11 @@ C'est en vente [Bosch lame segment à concrétion carbure ACZ 85 RT3  accessoire
 
 ℹ️:
 
+- Bosch 2609256952 Lame pour Scie segment 85 mm accessoire Starlock
+- Modèle : ACZ 85 RT3 85 mm.
+- Vibration réduite de la lame pour permettre une coupe précise et contrôlée grâce au support robuste. Précision, régularité de coupe et moins de cassures des dents sur les côtés grâce à la technologie Curved-Tec.
 - Accessoire avec système de fixation Starlock pour outils multifonctions.
 - Détail dapplication : déjointage mortier et colle < 2,5 mm, petites découpes faïence tendre, saignées thermopierre/béton cellulaire.
 - Description à améliorer
-- Modèle : ACZ 85 RT3 85 mm.
-- Vibration réduite de la lame pour permettre une coupe précise et contrôlée grâce au support robuste. Précision, régularité de coupe et moins de cassures des dents sur les côtés grâce à la technologie Curved-Tec.
-- Bosch 2609256952 Lame pour Scie segment 85 mm accessoire Starlock
 
 [Achète-le!!](https://www.amazon.fr/dp/B002IJK1EG/?tag=tolees0d-21)

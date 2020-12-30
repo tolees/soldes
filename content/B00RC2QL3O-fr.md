@@ -25,10 +25,10 @@ C'est en vente [Silverline 309049 Plateau de ponçage eva 93 mm  Gris](https://w
 
 ℹ️:
 
+- Abrasif auto-agrippant
+- Éthylène vinyle acétate
+- Compatible avec les outils multifonctions oscillants silverline, gmc et triton
 - Compatible avec les appareils multifonctions avec changement de lame sans outil
 - Conception universelle à dos ouvert
-- Compatible avec les outils multifonctions oscillants silverline, gmc et triton
-- Éthylène vinyle acétate
-- Abrasif auto-agrippant
 
 [Achète-le!!](https://www.amazon.fr/dp/B00RC2QL3O/?tag=tolees0d-21)
