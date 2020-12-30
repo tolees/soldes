@@ -26,7 +26,7 @@ Vous avez [Vans Ward  Sneakers Basses Homme Noir   Suede/Canvas  Black/White C4R
 ℹ️:
 
 - Voir la description de produit ci-dessous pour plus dinformations.
-- Neuf et authentique. Nous sommes un vendeur autorisé de Vans.
 - Vans Noir Baskets en toile suède Ward
+- Neuf et authentique. Nous sommes un vendeur autorisé de Vans.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XHNV236/?tag=tolees0d-21)

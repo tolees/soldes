@@ -25,10 +25,10 @@ Vous avez [PowerA Pokémon Manette sans fil de Nintendo Switch - Style GameCube:
 
 ℹ️:
 
-- Deux piles AA offrant 30 heures de jeu maximum
 - Idéale pour Super Smash Bros Ultimate
 - Design GameCube classique, croix directionnelle plus grande, nouvelle gâchette gauche
 - Liberté sans fil du Bluetooth
 - Détection de mouvements et boutons système compatibles avec tous les jeux de Nintendo Switch
+- Deux piles AA offrant 30 heures de jeu maximum
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PP74ZQV/?tag=tolees0d-21)

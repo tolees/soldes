@@ -26,10 +26,10 @@ Vous avez [WD BLACK P10 Game Drive for Xbox One 5 To pour avoir accès à vos 
 ℹ️:
 
 - Avec un abonnement gratuit de 2 mois à Xbox Game pass ULTIMATE, vous donnant accès à plus de 100 titres de jeux et à Xbox Live Gold. (Offre d’essai de 2 mois de Xbox Game pass ULTIMATE. Disponible pour un temps limité. Veuillez consulter l’emballage du produit pour plus de détails).
+- Format portable offrant un accès rapide à votre bibliothèque de jeux, où que vous soyez.
 - Disque dur hautes performances avec un débit jusqu’à 140 mo/s pour optimiser votre expérience de jeu sur console ou sur PC et gérer votre jeu.
 - Jusqu’à 5 to pouvant contenir jusqu’à 125 jeux, vous pouvez ainsi enregistrer vos vieux favoris tout en gardant de l’espace pour de nouveaux titres.
 - TEMPÉRATURE DE FONCTIONNEMENT: 5 °C À 35 °C
 - Conçu spécialement pour les joueurs, sur la base de la qualité et de la fiabilité de wd_black, pour vous permettre de jouer sans limites.
-- Format portable offrant un accès rapide à votre bibliothèque de jeux, où que vous soyez.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VQ8Q3L4/?tag=tolees0d-21)
