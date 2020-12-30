@@ -25,10 +25,10 @@ Vous avez [Lansay - Toy Story 4- Incroyable Woody - 64431](https://www.amazon.fr
 
 ℹ️:
 
-- Retrouve les aventures de TOY STORY 4 avec cette Incroyable figurine Woody
 - Fonctionne avec 4 piles LR03 incluses. Taille du personnage : 40 cm environ. Contient : 1 personnage Woody. A partir de 4 ans
-- Son chapeau, sa ceinture, ses bottes et son étui, sa boucle de ceinture et ses bottes sont en plastique dur
 - Tu peux également tirer sur la ficelle dans son dos pour activer son mode "jouet". Super ! Pour la toute première fois, Woody tient debout tout seul ! Son corps est en tissu doux
+- Retrouve les aventures de TOY STORY 4 avec cette Incroyable figurine Woody
+- Son chapeau, sa ceinture, ses bottes et son étui, sa boucle de ceinture et ses bottes sont en plastique dur
 - Lorsque tu lui annonces que quelquun arrive, Woody sétale par-terre comme dans le film ! Woody est interactif: parle-lui et il te répondra !
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TZ5MB4W/?tag=tolees0d-21)
