@@ -25,8 +25,8 @@ Vous avez [HyperX Predator HX432C16PB3K2/16 Mémoire RAM 3200MHz DDR4 CL16 DIMM 
 
 ℹ️:
 
-- Dissipateur de chaleur en aluminium noir agressif
 - Intel XMP et AMD Ryzen Compatible
+- Dissipateur de chaleur en aluminium noir agressif
 - 100% testée à toutes les fréquences
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GCWQ8VO/?tag=tolees0d-21)

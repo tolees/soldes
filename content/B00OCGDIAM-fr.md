@@ -25,11 +25,11 @@ Vous avez [Krups Essential Machine à Café à Grain Machine à Café Broyeur Gr
 
 ℹ️:
 
-- UNE MACHINE TOUJOURS PRETE : personnalisez et enregistrez vos boissons préférées grâce au mode memo
 - UN SAVOIR FAIRE TOUJOURS FRANCAIS : machine fabriquée en France, à Mayenne, garantie 2 ans, produit réparable avec mise à disposition rapide des pièces à coût limité pendant 10 ans et plus
 - UN CAFE TOUJOURS PARFAIT : machine à café à grain automatique avec broyeur pour des espressos et cafés allongés de qualité professionnelle, contrôle du broyage et de la température, 2 tasses simultané
-- UNE MACHINE TOUJOURS ADAPTEE : grande capacité du réservoir à eau (1,7L) et du réservoir à grains (260g)
 - UNE MACHINE TOUJOURS PROPRE : un nettoyage complet et automatique de la machine ultra simple, sans intervention humaine : insérez une pastille et lancez le programme, la machine soccupe de tout
+- UNE MACHINE TOUJOURS PRETE : personnalisez et enregistrez vos boissons préférées grâce au mode memo
+- UNE MACHINE TOUJOURS ADAPTEE : grande capacité du réservoir à eau (1,7L) et du réservoir à grains (260g)
 - UNE UTILISATION ULTRA FACILE grâce à lécran LCD intuitif ; buse vapeur intégrée pour réaliser des cappuccinos en toute simplicité
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OCGDIAM/?tag=tolees0d-21)
