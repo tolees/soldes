@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.22 % rabais sur Nintendo Switch Paire de manettes Joy-Co'
-date: 2020-12-29 17:16:44
+date: 2020-12-30 17:29:35
 image: 'https://m.media-amazon.com/images/I/41Ev7BJMd7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B072BZ66JL/?tag=tolees0d-21'
 descuento: '22.22'
-average: '67.5939130434783'
+average: '67.66140845070426'
 ---
 
 Vous avez [Nintendo Switch Paire de manettes Joy-Con gauche vert néon & droite rose néon](https://www.amazon.fr/dp/B072BZ66JL/?tag=tolees0d-21)  à  22.22 % de réduction, prix final  69.99 EUR (original: 89.99 EUR) ici:
