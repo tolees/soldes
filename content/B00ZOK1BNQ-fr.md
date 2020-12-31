@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Splash Toys - Malo Chiko - Jeu Enfants F avec 20.77 % rabais '
-date: 2020-12-30 06:41:44
+date: 2020-12-31 11:48:37
 image: 'https://m.media-amazon.com/images/I/51zdpZmZ0LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00ZOK1BNQ/?tag=tolees0d-21'
 descuento: '20.77'
-average: '19.853333333333335'
+average: '19.84'
 ---
 
 C'est en vente [Splash Toys - Malo Chiko - Jeu Enfants Famille - Dès 4 ans - Jeu D action Et De Réflexe](https://www.amazon.fr/dp/B00ZOK1BNQ/?tag=tolees0d-21)  à  20.77 % de réduction, prix final  19.8 EUR (original: 24.99 EUR) ici:
@@ -25,11 +25,10 @@ C'est en vente [Splash Toys - Malo Chiko - Jeu Enfants Famille - Dès 4 ans - Je
 
 ℹ️:
 
-- Uses 3 x LR06 batteries (not included).
-- Minimum age:4+.
-- Use the pliers to carefully remove an item that is the same colour as the colour indicated by the spinner.
-- But be careful not to get bitten and if you touch his metal braces, he may unleash his terrible jaws on you.
-- The wolf has eaten just about everything and the objects are stuck in his mouth.
-- Package contents:-1 motorised wolf, 12 plastic objects, 1 spinner and 1 pair of pliers connected to the wolf.
+- Mais attention de ne pas te faire mordre ! Si tu touches son appareil en métal, il risque de relâcher sa terrible mâchoire sur toi !
+- Contenu de la boîte : 1 loup motorisé + 12 objets en plastique + 1 spinner + 1 pince reliée au loup
+- Ce loup a mangé vraiment nimporte quoi, et des objets sont coincés dans sa gueule
+- Âge : 4+
+- À laide de la pince, retire délicatement lobjet de la couleur indiquée par la flèche du snipper
 
 [Achète-le!!](https://www.amazon.fr/dp/B00ZOK1BNQ/?tag=tolees0d-21)

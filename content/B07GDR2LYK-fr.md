@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.39 % rabais sur Sony WH-1000XM3 Casque Bluetooth à réduc'
-date: 2020-12-30 06:33:29
+date: 2020-12-31 11:59:12
 image: 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21'
 descuento: '16.39'
-average: '241.01081967213108'
+average: '241.29587301587296'
 ---
 
 Vous avez [Sony WH-1000XM3 Casque Bluetooth à réduction de bruit sans fil avec micro pour appels téléphoniques  Alexa et Google Assistant intégrés  Noir](https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21)  à  16.39 % de réduction, prix final  249.99 EUR (original: 299.0 EUR) ici:
@@ -25,14 +25,14 @@ Vous avez [Sony WH-1000XM3 Casque Bluetooth à réduction de bruit sans fil avec
 
 ℹ️:
 
-- Contrôle facile de lecture de la musique par simple contact sur loreillette
-- Mode charge rapide (15 min = 8h de lecture). Style de port: Circumaural
-- Sensitivities (dB/mW): 104.5 dB/mW (1 kHz)
 - Profil: A2DP, AVRCP, HFP, HSP
-- Réponse en fréquence (communication Bluetooth): 20 Hz – 20 000 Hz (échantillonnage : 44,1 kHz) / 20 Hz – 40 000 Hz (échantillonnage : 96 kHz LDAC, 990 kbit/s)
-- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
 - Jusquà 30h dautonomie avec la fonction de réduction de bruit activée
-- La meilleure réduction de bruit du marché, encore améliorée. Profil Bluetooth: A2DP, AVRCP, HFP, HSP
+- Contrôle facile de lecture de la musique par simple contact sur loreillette
 - Fonction Quick Attention pour réduire instantanément le volume de votre musique et pouvoir suivre une conversation
+- Mode charge rapide (15 min = 8h de lecture). Style de port: Circumaural
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Réponse en fréquence (communication Bluetooth): 20 Hz – 20 000 Hz (échantillonnage : 44,1 kHz) / 20 Hz – 40 000 Hz (échantillonnage : 96 kHz LDAC, 990 kbit/s)
+- Sensitivities (dB/mW): 104.5 dB/mW (1 kHz)
+- La meilleure réduction de bruit du marché, encore améliorée. Profil Bluetooth: A2DP, AVRCP, HFP, HSP
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '43.64 % rabais sur Timberland 6 pouces Premium Étanche  Bot'
-date: 2020-12-30 06:11:39
+date: 2020-12-31 11:38:32
 image: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,6 +25,10 @@ Vous avez [Timberland 6 pouces Premium Étanche  Bottes Femme  Jaune  Wheat Nubu
 
 ℹ️:
 
-- Nettoyant
+- Logo embossed at side heel
+- Classic boot in waterproof leather featuring lace-up front with rustproof hexagonal eyelets and heavily-padded collar
+- Direct-attach construction
+- Padded collar for a comfortable fit around the ankle
+- Lugged outsole for traction
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21)

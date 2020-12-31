@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Camion de Marché - 70134 avec 42.63 % rabais '
-date: 2020-12-30 06:33:33
+date: 2020-12-31 11:49:28
 image: 'https://m.media-amazon.com/images/I/51CczTv7JVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JXHQWYB/?tag=tolees0d-21'
 descuento: '42.63'
-average: '28.303'
+average: '28.266190476190477'
 ---
 
 C'est en vente [Playmobil - Camion de Marché - 70134](https://www.amazon.fr/dp/B07JXHQWYB/?tag=tolees0d-21)  à  42.63 % de réduction, prix final  27.53 EUR (original: 47.99 EUR) ici:

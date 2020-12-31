@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '46.84 % rabais sur 1917 [Blu-Ray]'
-date: 2020-12-30 06:34:16
+date: 2020-12-31 12:09:29
 image: 'https://m.media-amazon.com/images/I/514krHZB12L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B083XNNR58/?tag=tolees0d-21'
 descuento: '46.84'
-average: '11.63225806451613'
+average: '11.412121212121212'
 ---
 
 Vous avez [1917 [Blu-Ray]](https://www.amazon.fr/dp/B083XNNR58/?tag=tolees0d-21)  à  46.84 % de réduction, prix final  8.0 EUR (original: 15.05 EUR) ici:
