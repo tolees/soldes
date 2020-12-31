@@ -25,9 +25,9 @@ Vous avez [Columbia Carson Pass II  Veste Femme](https://www.amazon.fr/dp/B0814C
 
 ℹ️:
 
-- Contenu : 1x Columbia Carson Pass II, Veste femme, Extérieur : Legacy Dobby 72 % nylon, 28 % polyester ; Doublure : Omni-Heat réfléchissante Microtex Light 100 % polyester ; Isolation : 100g Omni-Heat Thermo-réfléchissante 50% polyester, 50% polyester recyclé, Couleur : Elk, Taille : XL, Art, No 1515501
 - Capuche attenante et amovible pour apporter plus de protection contre les éléments, Poche chauffe-main et poche média zippées
 - Doudoune avec technologie Omni-Heat réfléchissante qui permet une meilleure isolation pour vous garder au chaud, même lors des jours les plus froids
+- Contenu : 1x Columbia Carson Pass II, Veste femme, Extérieur : Legacy Dobby 72 % nylon, 28 % polyester ; Doublure : Omni-Heat réfléchissante Microtex Light 100 % polyester ; Isolation : 100g Omni-Heat Thermo-réfléchissante 50% polyester, 50% polyester recyclé, Couleur : Elk, Taille : XL, Art, No 1515501
 - Veste classique et moderne pour femme avec ceinture et fausse fourrure pour un style urbain et chic
 - La technologie Omni-Tech et ses coutures étanches combinent une haute imperméabilité et une haute respirabilité, Peu importe les conditions, vous restez au frais et au sec
 
