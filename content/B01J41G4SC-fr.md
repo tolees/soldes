@@ -25,10 +25,10 @@ Vous avez [LEGO City - Le poste de commandement mobile - 60139 - Jeu de Construc
 
 ℹ️:
 
-- La cabine du camion mesure plus de 8 cm de haut, 13 cm de long et 7 cm de large
 - Construisez un camion de police qui souvre sur un poste de commandement mobile, avec une cabine détachable, une cellule de prison, une salle de contrôle, une antenne parabolique et d’autres chouettes fonctions !
 - Comprend quatre figurines : deux policiers et deux voleurs, plus une figurine de chien policier
 - Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - 374 pièces pour les garçons et les filles de 6 à 12 ans
+- La cabine du camion mesure plus de 8 cm de haut, 13 cm de long et 7 cm de large
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J41G4SC/?tag=tolees0d-21)

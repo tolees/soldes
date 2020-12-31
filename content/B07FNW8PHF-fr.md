@@ -26,9 +26,9 @@ Vous avez [LEGO City - La voiture de patrouille de la police - 60239 - Jeu de co
 ℹ️:
 
 - Construisez la voiture de patrouile de la police et gardez les rues de votre ville LEGO City.
-- La voiture de patrouille mesure plus de 4 cm de haut, 12 cm de long et 5 cm de large.
-- Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
-- 92 pièces pour les filles et les garçons de 5 ans et plus.
 - Comprend une figurine d’officier de police de LEGO. Comprend une voiture de police LEGO avec un toit amovible, de la place à l’intérieur pour une figurine et des décorations emblématiques. Inclut également 2 cônes de circulation de police.
+- Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- La voiture de patrouille mesure plus de 4 cm de haut, 12 cm de long et 5 cm de large.
+- 92 pièces pour les filles et les garçons de 5 ans et plus.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNW8PHF/?tag=tolees0d-21)
