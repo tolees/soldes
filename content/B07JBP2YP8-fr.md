@@ -26,7 +26,7 @@ Vous avez [Lee Rider Short  Bleu  Flick Dark Ka   31W Homme](https://www.amazon.
 ℹ️:
 
 - Coutures classiques.
-- Design décontracté et confortable.
 - Logo Lee à larrière.
+- Design décontracté et confortable.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JBP2YP8/?tag=tolees0d-21)

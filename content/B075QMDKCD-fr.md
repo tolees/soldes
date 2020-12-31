@@ -25,8 +25,8 @@ C'est en vente [FIBARO FGBHCD-001 Capteur pour Home Kit Blanc](https://www.amazo
 
 ℹ️:
 
-- capteur de monoxyde de carbone certifié
-- Facilité dutilisation et dinstallation
 - compatible Home Kit
+- Facilité dutilisation et dinstallation
+- capteur de monoxyde de carbone certifié
 
 [Achète-le!!](https://www.amazon.fr/dp/B075QMDKCD/?tag=tolees0d-21)

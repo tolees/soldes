@@ -25,11 +25,11 @@ C'est en vente [Philips Sonicare HX6851/34 ProtectiveClean 5100 Lot de 2 brosses
 
 ℹ️:
 
-- Pour un nettoyage en douceur, la brosse à dents vous alerte lorsque vous appuyez trop fort grâce à une légère vibration
-- Tension secteur: 110 à 220V
-- Contenu de la livraison : 2 x brosse à dents sonique (1 x blanc et 1 x bleu), 2 x brosse à dents W2 Optimal White (1 x blanc et 1 x noir), 2 x étui de voyage (1 x blanc et 1 x noir), 1 x station de chargement/jusquà 2 semaines dautonomie/lot de 2
-- Elimine jusquà 7 fois plus de plaque dentaire quune brosse à dent manuelle
 - Afin de garantir une efficacité optimale, la technologie BrushSync vous alerte lorsque votre tête de brosse doit être remplacée
+- Tension secteur: 110 à 220V
+- Elimine jusquà 7 fois plus de plaque dentaire quune brosse à dent manuelle
+- Pour un nettoyage en douceur, la brosse à dents vous alerte lorsque vous appuyez trop fort grâce à une légère vibration
 - Nettoyage doux et efficace grâce à la technologie Sonicare avec 62 000 mouvements de la tête de brosse par minute
+- Contenu de la livraison : 2 x brosse à dents sonique (1 x blanc et 1 x bleu), 2 x brosse à dents W2 Optimal White (1 x blanc et 1 x noir), 2 x étui de voyage (1 x blanc et 1 x noir), 1 x station de chargement/jusquà 2 semaines dautonomie/lot de 2
 
 [Achète-le!!](https://www.amazon.fr/dp/B07DMJCSK5/?tag=tolees0d-21)
