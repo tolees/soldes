@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.06 % rabais sur Tommy Hilfiger New Danny - Ceinture - Fe'
-date: 2020-12-28 10:39:07
+date: 2020-12-31 05:16:58
 image: 'https://m.media-amazon.com/images/I/41VYhv-KnbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Vous avez [Tommy Hilfiger New Danny - Ceinture - Femme - Noir  Masters Black  - 
 ℹ️:
 
 - Fermeture à boucle
-- Cuir véritable
 - 100 % cuir
+- Cuir véritable
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00XDYNPO8/?tag=tolees0d-21)
