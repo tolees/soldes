@@ -25,8 +25,8 @@ Vous avez [Console Nintendo Switch Lite Corail + Animal Crossing : New Horizon +
 
 ℹ️:
 
-- Console Nintendo Switch Lite Corail
 - 1 Abonnement Individuel de 3 mois au service Nintendo Switch Online
+- Console Nintendo Switch Lite Corail
 - 1 code de téléchargement pour Animal Crossing : New Horizon
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08NG46RKF/?tag=tolees0d-21)

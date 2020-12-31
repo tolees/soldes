@@ -26,7 +26,7 @@ C'est en vente [Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - Large 
 ℹ️:
 
 - 100% Coton
-- Regular Fit
 - Sport
+- Regular Fit
 
 [Achète-le!!](https://www.amazon.fr/dp/B008AW8V1K/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [Timberland 6 pouces Premium Étanche  Bottes Femme  Jaune  Wheat Nubu
 
 ℹ️:
 
-- Logo embossed at side heel
-- Classic boot in waterproof leather featuring lace-up front with rustproof hexagonal eyelets and heavily-padded collar
-- Direct-attach construction
 - Padded collar for a comfortable fit around the ankle
 - Lugged outsole for traction
+- Direct-attach construction
+- Logo embossed at side heel
+- Classic boot in waterproof leather featuring lace-up front with rustproof hexagonal eyelets and heavily-padded collar
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21)
