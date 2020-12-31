@@ -25,9 +25,9 @@ Vous avez [Samsung Galaxy A31 Bleu AMAZON](https://www.amazon.fr/dp/B08GC2GBYS/?
 
 ℹ️:
 
-- QUADRUPLE CAPTEUR PHOTO Avec capteur principal 48 MP
 - PERFORMANCES OPTIMISEES Stockage 64 Go + Lecteur d’empreinte sous l’écran
-- BATTERIE LONGUE DURÉÉ 5000 mAh + charge rapide
 - ÉCRAN PANORAMIQUE 6,4’’ Super AMOLED
+- BATTERIE LONGUE DURÉÉ 5000 mAh + charge rapide
+- QUADRUPLE CAPTEUR PHOTO Avec capteur principal 48 MP
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GC2GBYS/?tag=tolees0d-21)
