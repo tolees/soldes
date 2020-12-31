@@ -25,11 +25,11 @@ C'est en vente [HP Chargeur de voyage USB-C 65W X7W50AA#ABB  Ordinateurs Portabl
 
 ℹ️:
 
-- Convient pour: Ordinateur portable. Couleur: Noir. Largeur: 74 mm
-- Puissance de sortie: 65 W. Type dalimentation dénergie: Intérieur
 - Profondeur: 74 mm
 - HP USB-C Travel Power Adapter 65W. Tension dentrée: 100-240
-- Fréquence dentrée: 50/60
 - Hauteur: 28,5 mm
+- Fréquence dentrée: 50/60
+- Convient pour: Ordinateur portable. Couleur: Noir. Largeur: 74 mm
+- Puissance de sortie: 65 W. Type dalimentation dénergie: Intérieur
 
 [Achète-le!!](https://www.amazon.fr/dp/B01M3NMEZO/?tag=tolees0d-21)
