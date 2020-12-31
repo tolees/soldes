@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '59.91 % rabais sur Lee Rider Short  Bleu  Flick Dark Ka   3'
-date: 2020-12-30 12:31:58
+date: 2020-12-31 15:19:15
 image: 'https://m.media-amazon.com/images/I/41u0l1wdoUL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,7 +26,7 @@ Vous avez [Lee Rider Short  Bleu  Flick Dark Ka   31W Homme](https://www.amazon.
 ℹ️:
 
 - Coutures classiques.
-- Logo Lee à larrière.
 - Design décontracté et confortable.
+- Logo Lee à larrière.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JBP2YP8/?tag=tolees0d-21)
