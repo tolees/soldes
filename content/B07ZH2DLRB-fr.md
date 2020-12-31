@@ -25,10 +25,10 @@ Vous avez [Silicon Power PCIe M.2 NVMe SSD 512GB Gen3x4 R/W up to 2  200/1  600M
 
 ℹ️:
 
-- PCIe Gen 3x4 interface with read speeds up to 2,200MB/s and write speeds up to 1,600MB/s
-- Supports NVMe 1.3, Host Memory Buffer (HMB), and SLC Cache to deliver high and efficient performance
 - LDPC (Low-Density Parity Check) error correction code (ECC) technology, End-To-End (E2E) data protection, and RAID engine for enhanced data integrity and stability
+- PCIe Gen 3x4 interface with read speeds up to 2,200MB/s and write speeds up to 1,600MB/s
 - Small form factor M.2 2280 (80mm) allows for easy installation in laptops, small form factor PC systems, and some ultrabooks
+- Supports NVMe 1.3, Host Memory Buffer (HMB), and SLC Cache to deliver high and efficient performance
 - To support a Silicon Power PCIe SSD, the system must have an M.2 connector with only an M key. The Silicon Power PCIe SSD does not have a B notch and therefore, the B key on the SSD connector will prevent it from being inserted.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ZH2DLRB/?tag=tolees0d-21)

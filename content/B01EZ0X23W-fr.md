@@ -25,12 +25,12 @@ C'est en vente [Sandisk SDDDC2-032G-G46 Clé USB 3.1 Type-C à Double Connectiqu
 
 ℹ️:
 
+- température de fonctionnement: 32° - 113° F (0° – 45° C)
+- Lapplication SanDisk Memory Zone pour Android (disponible sur Google Play) vous permet de gérer et sauvegarder facilement le contenu de vos smartphones et tablettes
 - Performances USB 3.1 haute vitesse atteignant jusquà 150 Mo/s
 - Compatible avec des appareils avec USB Type-C et On-The-Go (OTG)
 - Conception rétractable avec connecteur USB Type-C réversible et connecteur USB traditionnel
 - Libérez de lespace sur votre smartphone Android avec 16 Go, 32 Go, 64 Go ou 128 Go despace de stockage instantané pour les appareils USB Type-C
-- température de fonctionnement: 32° - 113° F (0° – 45° C)
 - Transférez facilement vos fichiers entre vos smartphones, tablettes et ordinateurs
-- Lapplication SanDisk Memory Zone pour Android (disponible sur Google Play) vous permet de gérer et sauvegarder facilement le contenu de vos smartphones et tablettes
 
 [Achète-le!!](https://www.amazon.fr/dp/B01EZ0X23W/?tag=tolees0d-21)
