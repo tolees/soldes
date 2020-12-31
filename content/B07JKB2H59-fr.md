@@ -25,13 +25,13 @@ C'est en vente [UNO Flip jeu de société et de cartes  GDR44](https://www.amazo
 
 ℹ️:
 
-- Lorsqu’un joueur pose la carte Action Retourner, il retourne toutes les cartes, même celles de la pioche, pour révéler de nouveaux chiffres et de nouvelles couleurs au verso
-- Nouvelle version du jeu de cartes UNO: Faites preuve d’encore plus de stratégie pour utiliser à votre avantage les cartes recto verso et la nouvelle carte Retourner
-- Comprend 112 cartes ainsi que la règle du jeu. Idéal pour jouer en famille
-- UNO FLIP ! est une nouvelle version délirante du traditionnel jeu de cartes
 - Jeu de cartes dès 7 ans
 - Avec ce jeu de société pour enfants, prévoyez de folles après-midi de divertissement
-- UNO FLIP ! inclut aussi de nouvelles cartes Action étonnantes, comme le +5 et la carte Tout Le Monde Passe Son Tour. Un jeu amusant qui ravira les enfants
+- Comprend 112 cartes ainsi que la règle du jeu. Idéal pour jouer en famille
+- UNO FLIP ! est une nouvelle version délirante du traditionnel jeu de cartes
+- Lorsqu’un joueur pose la carte Action Retourner, il retourne toutes les cartes, même celles de la pioche, pour révéler de nouveaux chiffres et de nouvelles couleurs au verso
 - Quand il ne reste plus qu’une carte, il faut crier « UNO » ! Rires et bonne humeur seront au rendez-vous
+- UNO FLIP ! inclut aussi de nouvelles cartes Action étonnantes, comme le +5 et la carte Tout Le Monde Passe Son Tour. Un jeu amusant qui ravira les enfants
+- Nouvelle version du jeu de cartes UNO: Faites preuve d’encore plus de stratégie pour utiliser à votre avantage les cartes recto verso et la nouvelle carte Retourner
 
 [Achète-le!!](https://www.amazon.fr/dp/B07JKB2H59/?tag=tolees0d-21)
