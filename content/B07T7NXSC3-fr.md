@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Marvel s Avengers  PS4  avec 57.15 % rabais '
-date: 2020-12-25 20:04:09
+date: 2020-12-31 14:43:56
 image: 'https://m.media-amazon.com/images/I/51xLOXWYhOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07T7NXSC3/?tag=tolees0d-21'
 descuento: '57.15'
-average: '33.005'
+average: '32.57428571428572'
 ---
 
 C'est en vente [Marvel s Avengers  PS4 ](https://www.amazon.fr/dp/B07T7NXSC3/?tag=tolees0d-21)  à  57.15 % de réduction, prix final  29.99 EUR (original: 69.99 EUR) ici:

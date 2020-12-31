@@ -26,9 +26,9 @@ C'est en vente [Emma Le protège-Matelas 80x190 cm - Antibactérien et Anti-alle
 ℹ️:
 
 - Livraison et retours gratuits: Il y a de fortes chances pour que le protège-matelas Emma devienne votre protège-matelas préféré. Ce nest pas le cas ? Il suffit de nous contacter et de nous le renvoyer dans son emballage dorigine. Gratuitement.
-- -100 nuits dessai: Choisir son protège-matelas en 10 minutes, sous les yeux dun vendeur ? Chez Emma, nous savons que ce nest pas possible ! Afin que vous puissiez choisir le protège-matelas qui vous convient le mieux, nous vous laissons essayer nos produits pendant 100 nuit, chez vous - et sous les yeux de qui vous voulez.
 - -Imperméable et respirant: Le protège-matelas Emma est consistué de tissu tricoté 3D Cairfull (100% polyester) avec application de la technologie Puretex. Cette composition empêche lhumidité datteindre le coeur du matelas. Grâce à la structure 3D des matériaux utilisés, le protège-matelas Emma est également très respirant.
-- -Probiotique: Le protège-matelas Emma est 100% probiotique. Des micro-organismes sont introduits directement dans les matériaux le composant afin de réduire lhumidité et prévenir le risque dallergies.
+- -100 nuits dessai: Choisir son protège-matelas en 10 minutes, sous les yeux dun vendeur ? Chez Emma, nous savons que ce nest pas possible ! Afin que vous puissiez choisir le protège-matelas qui vous convient le mieux, nous vous laissons essayer nos produits pendant 100 nuit, chez vous - et sous les yeux de qui vous voulez.
 - -Remboursement intégral: Si vous choisissez de retourner votre protège-matelas, nous vous remboursons la totalité du montant. Il n’y a pas de coûts cachés.
+- -Probiotique: Le protège-matelas Emma est 100% probiotique. Des micro-organismes sont introduits directement dans les matériaux le composant afin de réduire lhumidité et prévenir le risque dallergies.
 
 [Achète-le!!](https://www.amazon.fr/dp/B083ZGRD3P/?tag=tolees0d-21)
