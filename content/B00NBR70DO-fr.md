@@ -1,33 +1,33 @@
 ---
 layout: post
-title: '22.60 % rabais sur Sony MDR-ZX110B Casque Pliable - Noir'
-date: 2020-12-30 06:13:30
+title: '25.05 % rabais sur Sony MDR-ZX110B Casque Pliable - Noir'
+date: 2020-12-31 18:04:42
 image: 'https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00NBR70DO-fr'
-actualPrice: 15.48 EUR
+actualPrice: 14.99 EUR
 currency: EUR
-price: 15.48
+price: 14.99
 comparePrice: 20.0 EUR
 prodname: 'Sony MDR-ZX110B Casque Pliable - Noir'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21'
-descuento: '22.60'
-average: '15.22'
+descuento: '25.05'
+average: '15.206060606060607'
 ---
 
-Vous avez [Sony MDR-ZX110B Casque Pliable - Noir](https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21)  à  22.60 % de réduction, prix final  15.48 EUR (original: 20.0 EUR) ici:
+Vous avez [Sony MDR-ZX110B Casque Pliable - Noir](https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21)  à  25.05 % de réduction, prix final  14.99 EUR (original: 20.0 EUR) ici:
 
 [![Sony MDR-ZX110B Casque Pliable - Noir](https://m.media-amazon.com/images/I/31CJo2WQhSL._SL200_.jpg)](https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21)
 
 ℹ️:
 
 - Des aimants en néodyme offrent un son puissant
-- Diaphragmes de 30 mm en forme de dôme pour un son équilibré
 - Oreillettes rembourrées pour un grand confort découte
 - Gamme de fréquences de 12 à 22 kHz
+- Diaphragmes de 30 mm en forme de dôme pour un son équilibré
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21)

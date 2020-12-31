@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s Calypso Ceinture  Schwarz  Regula avec 18.00 % rabais '
-date: 2020-12-30 17:24:09
+date: 2020-12-31 18:05:35
 image: 'https://m.media-amazon.com/images/I/41W16-+EeVL._SL200_.jpg'
 comments: true
 category: ofertas
