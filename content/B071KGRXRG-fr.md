@@ -26,10 +26,10 @@ C'est en vente [Disque SSD SanDisk Ultra 3D 1To offrant jusqu à 560 Mo/s en vit
 ℹ️:
 
 - Vibration : 5 gRMS, 10-2000 HZ / 4.9 gRMS, 7-800 HZ
-- Des vitesses de rafale plus rapides grâce à la technologie nCache 2.0
-- Accélérez votre PC avec jusquà 560 Mo / s
-- Température de fonctionnement: 32ºF à 158ºF (0ºC à 70 ºC)
-- Résistance jusquà 1500 G @ 0.5 m/sec
 - Technologie 3D NAND avancée pour lendurance légendaire
+- Des vitesses de rafale plus rapides grâce à la technologie nCache 2.0
+- Résistance jusquà 1500 G @ 0.5 m/sec
+- Température de fonctionnement: 32ºF à 158ºF (0ºC à 70 ºC)
+- Accélérez votre PC avec jusquà 560 Mo / s
 
 [Achète-le!!](https://www.amazon.fr/dp/B071KGRXRG/?tag=tolees0d-21)
