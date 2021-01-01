@@ -25,10 +25,10 @@ Vous avez [LEGO® Speed Champions McLaren Senna Jeu de constructionvoiture  7 An
 
 ℹ️:
 
-- La voiture McLaren Senna mesure plus de 4 cm de haut, 15 cm de long et 5 cm de large Le tunnel aérodynamique mesure plus de 5 cm de haut, 6 cm de large et 4 cm de profondeur
-- Inclut une figurine de pilote de course McLaren dans une combinaison de course comprenant les logos McLaren Senna et Pirelli
-- Les ensembles LEGO Speed Champions sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Construisez la voiture McLaren Senna LEGO Speed Champions
 - 219 pièces pour les filles et les garçons à partir de 7 ans
+- Construisez la voiture McLaren Senna LEGO Speed Champions
+- Inclut une figurine de pilote de course McLaren dans une combinaison de course comprenant les logos McLaren Senna et Pirelli
+- La voiture McLaren Senna mesure plus de 4 cm de haut, 15 cm de long et 5 cm de large Le tunnel aérodynamique mesure plus de 5 cm de haut, 6 cm de large et 4 cm de profondeur
+- Les ensembles LEGO Speed Champions sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNW8PGR/?tag=tolees0d-21)

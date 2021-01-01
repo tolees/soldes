@@ -25,10 +25,10 @@ C'est en vente [LEGO® Speed Champions La voiture de course Chevrolet Camaro ZL1
 
 ℹ️:
 
-- Inclut une figurine de pilote de course Camaro
-- Construisez la Chevrolet Camaro ZL1 LEGO Speed Champions
-- Les ensembles LEGO Speed Champions sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Mesure plus de 4 cm de haut, 14 cm de long et 5 cm de large
 - 198 pièces pour les filles et les garçons à partir de 7 ans
+- Les ensembles LEGO Speed Champions sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Construisez la Chevrolet Camaro ZL1 LEGO Speed Champions
+- Inclut une figurine de pilote de course Camaro
 
 [Achète-le!!](https://www.amazon.fr/dp/B07FP711YW/?tag=tolees0d-21)

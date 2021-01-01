@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.46 % rabais sur Xiaomi -Caméra de Sécurité Domestique 36'
-date: 2020-12-31 11:56:13
+date: 2021-01-01 12:01:16
 image: 'https://m.media-amazon.com/images/I/21v1rodN3DL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KCZ1J2V/?tag=tolees0d-21'
 descuento: '23.46'
-average: '31.338037974683548'
+average: '31.328937500000002'
 ---
 
 Vous avez [Xiaomi -Caméra de Sécurité Domestique 360° 1080P- Blanc](https://www.amazon.fr/dp/B07KCZ1J2V/?tag=tolees0d-21)  à  23.46 % de réduction, prix final  30.61 EUR (original: 39.99 EUR) ici:
@@ -25,11 +25,11 @@ Vous avez [Xiaomi -Caméra de Sécurité Domestique 360° 1080P- Blanc](https://
 
 ℹ️:
 
-- Support Android 4, 0 et supérieur, iOS 7, 0 et supérieur
 - panorama à 360 degrés apporte un sentiment décran immersif
+- Support Android 4, 0 et supérieur, iOS 7, 0 et supérieur
+- Audio bi-directionnel
 - Résolution 1080P, filmer des vidéos de haute qualité et fluides
 - Microphone intégré et haut-parleur
 - Pas de fiche, seulement un câble USB
-- Audio bi-directionnel
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KCZ1J2V/?tag=tolees0d-21)
