@@ -25,10 +25,10 @@ C'est en vente [LG - Televiseurs oled LG OLED 55 BX 6 LB - OLED 55 BX 6 LB](http
 
 ℹ️:
 
-- TV OLED 55 Pouces/140 cm UHD 4K Smart TV
 - Processeur α7 de troisième génération 4K
-- IA ThinQ, Une véritable expérience cinématographique
 - OLED auto-émissif
+- TV OLED 55 Pouces/140 cm UHD 4K Smart TV
 - Divertissement illimité
+- IA ThinQ, Une véritable expérience cinématographique
 
 [Achète-le!!](https://www.amazon.fr/dp/B08HKJ9XBN/?tag=tolees0d-21)

@@ -25,9 +25,9 @@ Vous avez [Pentel N50 Lot de 12 Marqueurs Permanents Pointe Conique Noir](https:
 
 ℹ️:
 
+- Corps métal
 - Pointe conique 4,3mm
 - Résistance extrême. 1000m décriture possible.
-- Corps métal
 - Tous supports, tous usages
 - Marqueur permanent Pentel Pen N50 encre noire
 
