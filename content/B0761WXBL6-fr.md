@@ -25,8 +25,8 @@ Vous avez [WearAll - Femmes Tricoté Joyeux Noël Noël Flocon De Neige Dames Re
 
 ℹ️:
 
-- Manches Longues Avec Col Rond
 - Authentic & Original Seulement De WearAll
+- Manches Longues Avec Col Rond
 - Le Célèbre Motif De Rennes Et De Flocons De Neige
 - 3D Pom Pom Embellissements
 - Longueur 72cm

@@ -25,10 +25,10 @@ C'est en vente [AUKEY Écouteurs Bluetooth sans Fil avec USB-C Charge Rapide  IP
 
 ℹ️:
 
-- Performance de basse puissante : Les haut-parleurs dynamiques de 6 mm améliorés offrent un son de haute fidélité, plus clair que la qualité CD avec des basses plus riches
-- Connexion plus facile : ouvrez le couvercle du boîtier de chargement et les écouteurs se connecteront automatiquement à vos appareils Bluetooth couplés. Le Bluetooth 5 crée une connexion stable entre votre appareil et les écouteurs sans fil pour un son sans saut, même dans les espaces bondés (Remettez les écouteurs dans létui de chargement et fermez le couvercle, puis les écouteurs séteindront et commenceront à se charger)
-- Autonomie 25 heures : les écouteurs diffusent un son stéréo Hi-Fi pendant 5 heures maximum sur une seule charge. Il y a 20 heures d’utilisation supplémentaires dans le boîtier de charge compact qui se recharge rapidement en USB-C
-- Adapté à toutes les conditions : résistance à l’eau IPX5 pour résister à la transpiration lors des entraînements intenses et toutes les conditions météorologiques
 - Contenu de la boîte : AUKEY EP-T25 écouteurs sans fil, boîtier de charge, 3 paires d’embouts auriculaires (S/M/L), câble USB-A vers USB-C, manuel d’utilisation, Guide de démarrage rapide, Garantie de remboursement de 45 jours et carte de garantie de remplacement du produit de 24 mois
+- Autonomie 25 heures : les écouteurs diffusent un son stéréo Hi-Fi pendant 5 heures maximum sur une seule charge. Il y a 20 heures d’utilisation supplémentaires dans le boîtier de charge compact qui se recharge rapidement en USB-C
+- Connexion plus facile : ouvrez le couvercle du boîtier de chargement et les écouteurs se connecteront automatiquement à vos appareils Bluetooth couplés. Le Bluetooth 5 crée une connexion stable entre votre appareil et les écouteurs sans fil pour un son sans saut, même dans les espaces bondés (Remettez les écouteurs dans létui de chargement et fermez le couvercle, puis les écouteurs séteindront et commenceront à se charger)
+- Performance de basse puissante : Les haut-parleurs dynamiques de 6 mm améliorés offrent un son de haute fidélité, plus clair que la qualité CD avec des basses plus riches
+- Adapté à toutes les conditions : résistance à l’eau IPX5 pour résister à la transpiration lors des entraînements intenses et toutes les conditions météorologiques
 
 [Achète-le!!](https://www.amazon.fr/dp/B087WKLBGJ/?tag=tolees0d-21)

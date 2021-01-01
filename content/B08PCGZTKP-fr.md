@@ -25,10 +25,10 @@ Vous avez [Disque Dur Externe 1to USB3.0 pour PC  Mac  Ordinateur de Bureaup  Or
 
 ℹ️:
 
+- TRANSFERTS DE DATES ULTRA-RAPIDES --- Les transferts à grande vitesse avec des vitesses de lecture allant jusquà 100 Mo / s vous permettent de déplacer rapidement des photos et des vidéos haute résolution (selon des tests internes; les performances peuvent être inférieures en fonction de la capacité du lecteur, du périphérique hôte, du système dexploitation et de lapplication)
+- GRANDE CAPACITÉ --- Il y a 1 To et 2 To pour vos choix, tous assez énormes pour stocker dénormes quantités de données. Son port de type C prend en charge linsertion gratuite des deux côtés, améliorant la durée de vie et votre confort dutilisation.
+- PLUG AND PLAY --- Sans logiciel à installer, branchez-le et cest parti.Ce disque dur externe sallume pour indiquer quil est branché, prend également en charge la veille automatique lorsquil nest pas utilisé pendant 10 minutes, afin de réduire la chaleur corporelle et dajouter la sécurité des données .
 - COMPATIBILITÉ DU SYSTÈME --- Largement compatible avec Apple MAC, WIN7 / 8 / 8.1 / 10, Android et autres systèmes, presque réalisable avec 99% des PC! Enseignants, étudiants, navetteurs ou toute personne nécessitant une base de données mobile, cest un bon choix!
 - DISQUE DUR EXTÉRIEUR ULTRA MINCE --- Conception métallique ultra mince et robuste avec surface mate, offrant une excellente dissipation de la chaleur.Le corps ultra mince se glissera facilement dans diverses poches, si portable que vous trouverez vos photos, vidéos, musique préférées ou quoi que ce soit toujours être là pour toi!
-- TRANSFERTS DE DATES ULTRA-RAPIDES --- Les transferts à grande vitesse avec des vitesses de lecture allant jusquà 100 Mo / s vous permettent de déplacer rapidement des photos et des vidéos haute résolution (selon des tests internes; les performances peuvent être inférieures en fonction de la capacité du lecteur, du périphérique hôte, du système dexploitation et de lapplication)
-- PLUG AND PLAY --- Sans logiciel à installer, branchez-le et cest parti.Ce disque dur externe sallume pour indiquer quil est branché, prend également en charge la veille automatique lorsquil nest pas utilisé pendant 10 minutes, afin de réduire la chaleur corporelle et dajouter la sécurité des données .
-- GRANDE CAPACITÉ --- Il y a 1 To et 2 To pour vos choix, tous assez énormes pour stocker dénormes quantités de données. Son port de type C prend en charge linsertion gratuite des deux côtés, améliorant la durée de vie et votre confort dutilisation.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08PCGZTKP/?tag=tolees0d-21)
