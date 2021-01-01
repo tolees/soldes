@@ -1,34 +1,30 @@
 ---
 layout: post
-title: '43.64 % rabais sur Timberland 6 pouces Premium Étanche  Bot'
-date: 2020-12-31 11:38:32
+title: '35.30 % rabais sur Timberland 6 pouces Premium Étanche  Bot'
+date: 2021-01-01 11:57:48
 image: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B000LEQMF2-fr'
-actualPrice: 123.99 EUR
+actualPrice: 142.33 EUR
 currency: EUR
-price: 123.99
+price: 142.33
 comparePrice: 220.0 EUR
 prodname: 'Timberland 6 pouces Premium Étanche  Bottes Femme  Jaune  Wheat Nubuck   38 EU'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21'
-descuento: '43.64'
-average: '128.42499999999998'
+descuento: '35.30'
+average: '131.206'
 ---
 
-Vous avez [Timberland 6 pouces Premium Étanche  Bottes Femme  Jaune  Wheat Nubuck   38 EU](https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21)  à  43.64 % de réduction, prix final  123.99 EUR (original: 220.0 EUR) ici:
+Vous avez [Timberland 6 pouces Premium Étanche  Bottes Femme  Jaune  Wheat Nubuck   38 EU](https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21)  à  35.30 % de réduction, prix final  142.33 EUR (original: 220.0 EUR) ici:
 
 [![Timberland 6 pouces Premium Étanche  Bot](https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg)](https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21)
 
 ℹ️:
 
-- Padded collar for a comfortable fit around the ankle
-- Lugged outsole for traction
-- Direct-attach construction
-- Logo embossed at side heel
-- Classic boot in waterproof leather featuring lace-up front with rustproof hexagonal eyelets and heavily-padded collar
+- Nettoyant
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21)

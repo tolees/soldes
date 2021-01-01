@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.06 % rabais sur SanDisk Extreme Portable SSD 1TB - Disqu'
-date: 2020-12-31 11:50:35
+date: 2021-01-01 11:56:14
 image: 'https://m.media-amazon.com/images/I/51ZM-ej7bIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078STRHBX/?tag=tolees0d-21'
 descuento: '21.06'
-average: '154.2831521739129'
+average: '154.3218279569891'
 ---
 
 Vous avez [SanDisk Extreme Portable SSD 1TB - Disque SSD externe jusqu à 550Mo/s en lecture](https://www.amazon.fr/dp/B078STRHBX/?tag=tolees0d-21)  à  21.06 % de réduction, prix final  157.88 EUR (original: 199.99 EUR) ici:
@@ -25,10 +25,10 @@ Vous avez [SanDisk Extreme Portable SSD 1TB - Disque SSD externe jusqu à 550Mo/
 
 ℹ️:
 
+- Robuste, résistant à leau et à la poussière (indice IP55)
 - Pour les utilisateurs de PC et Mac
+- Les transferts à vitesse élevée, jusquà 550 Mo/s, vous permettent de déplacer vos photos et vidéos haute résolution rapidement
 - Compact et portable
 - Cœur de SSD résistant aux chocs pour une plus grande durabilité
-- Les transferts à vitesse élevée, jusquà 550 Mo/s, vous permettent de déplacer vos photos et vidéos haute résolution rapidement
-- Robuste, résistant à leau et à la poussière (indice IP55)
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B078STRHBX/?tag=tolees0d-21)

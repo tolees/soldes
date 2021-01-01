@@ -25,10 +25,10 @@ Vous avez [Russell Hobbs Appareil Raclette Multifonction 1200W 8 Personnes  Pier
 
 ℹ️:
 
-- 8 poêlons inclus. Plaques et poêlons amovibles, compatibles au lave-vaisselle.
-- Thermostat réglable
-- Poêlons avec poignée thermo-isolée et revêtement antiadhésif
 - Appareil à raclette pour 8 personnes - 1200W.
 - Pierre à griller, plaque grill, plaques pour grandes crêpes et pour mini crêpes.
+- Thermostat réglable
+- Poêlons avec poignée thermo-isolée et revêtement antiadhésif
+- 8 poêlons inclus. Plaques et poêlons amovibles, compatibles au lave-vaisselle.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MGADKAE/?tag=tolees0d-21)
