@@ -25,8 +25,8 @@ Vous avez [Nike Park VII Jersey SS Maillot Homme  Pine Green/ White   FR  Taille
 
 ℹ️:
 
-- 100% polyester
-- Maillot
 - Park VII jersey ss
+- Maillot
+- 100% polyester
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WC84RF2/?tag=tolees0d-21)
