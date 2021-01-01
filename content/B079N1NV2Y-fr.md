@@ -26,7 +26,7 @@ Vous avez [Playmobil - Ecole Aménagée - 9453](https://www.amazon.fr/dp/B079N1N
 ℹ️:
 
 - Les deux toilettes sont assez grandes pour le fauteuil roulant et accessibles par une rampe.
-- Les cartables se rangent dans les casiers.
 - Ascenseur est également accessible par une rampe au rez-de-chaussée et disponible pour les utilisateurs de fauteuils roulants.
+- Les cartables se rangent dans les casiers.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B079N1NV2Y/?tag=tolees0d-21)

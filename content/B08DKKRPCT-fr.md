@@ -25,10 +25,10 @@ Vous avez [Dittzz Jeu de Construction - Restaurant - Architecture Maison de Vill
 
 ℹ️:
 
-- Profitez de lassemblage: 2527 pièces, livré avec un manuel facile à suivre, vous permettant de construire un modèle en suivant le manuel.
 - Recommandation dâge: Plus de 6 ans. Ce jouet de construction favorisera la coordination oil-main des gens, leur pensée divergente et leur capacité à résoudre des problèmes
-- Cadeau idéal: cadeau parfait pour anniversaire, fête des enfants, Noël, Hanoukka, Pâques, STEM, activités de camp dété, retour à lécole, Thanksgiving Day ect ..
 - Cet ensemble est le complément parfait à tout kit de construction et peut être joué avec ou utilisé pour laffichage.
+- Profitez de lassemblage: 2527 pièces, livré avec un manuel facile à suivre, vous permettant de construire un modèle en suivant le manuel.
 - Matériel: ABS; Pas de bavures et de coins pointus, confortable au toucher
+- Cadeau idéal: cadeau parfait pour anniversaire, fête des enfants, Noël, Hanoukka, Pâques, STEM, activités de camp dété, retour à lécole, Thanksgiving Day ect ..
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DKKRPCT/?tag=tolees0d-21)
