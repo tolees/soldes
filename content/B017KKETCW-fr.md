@@ -26,9 +26,9 @@ C'est en vente [30seven Gants Chauffants pour Hommes et Femmes avec Batteries Re
 ℹ️:
 
 - NAYEZ PLUS JAMAIS FROID Les gants chauffants avec batterie lithium-ion rechargeable gardent les doigts au chaud lors de toutes les activités de plein air telles que le cyclisme, la moto, le ski, la randonnée ou la chasse. Ce sont les gants dhiver et dautomne parfaits pour hommes et femmes.
-- ENSEMBLE COMPLET CONTIENT. Le paquet comprend 2 gants pour hommes ou pour femmes + 2 batteries lithium-ion rechargeables + 1 chargeur double. Lensemble est également parfait pour un cadeau.
-- TOP QUALITÉ. Les gants avec batterie sont constitués dun mélange de matériaux comprenant des manchons intérieurs en tissu molletonné et un matériau extérieur de coupe-vent. Ils sont dotés dun bouton permettant 3 réglages de chaleur. Il y a 3 zones de chauffage où les doigts sont également réchauffés.
-- ENTRETIEN FACILE et DURABLE. Les gants sont lavables à 30 degrés. Les batteries ont une durée de fonctionnement de 3 à 7 heures, en fonction du niveau de chauffage. Nous garantissons au moins 1000 charges complètes
 - PRATIQUE. Le gant chauffant avec batterie est doté dune bande velcro réglable et dun élastique intégré au poignet. Les gants ont un rembourrage de la poignée absorbant les chocs sur la paume des mains et la couche extérieure est en matériau durable.
+- TOP QUALITÉ. Les gants avec batterie sont constitués dun mélange de matériaux comprenant des manchons intérieurs en tissu molletonné et un matériau extérieur de coupe-vent. Ils sont dotés dun bouton permettant 3 réglages de chaleur. Il y a 3 zones de chauffage où les doigts sont également réchauffés.
+- ENSEMBLE COMPLET CONTIENT. Le paquet comprend 2 gants pour hommes ou pour femmes + 2 batteries lithium-ion rechargeables + 1 chargeur double. Lensemble est également parfait pour un cadeau.
+- ENTRETIEN FACILE et DURABLE. Les gants sont lavables à 30 degrés. Les batteries ont une durée de fonctionnement de 3 à 7 heures, en fonction du niveau de chauffage. Nous garantissons au moins 1000 charges complètes
 
 [Achète-le!!](https://www.amazon.fr/dp/B017KKETCW/?tag=tolees0d-21)
