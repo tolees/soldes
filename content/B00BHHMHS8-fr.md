@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '60.65 % rabais sur Elizabeth Arden – 5th Avenue NYC – Eau d'
-date: 2020-12-30 17:23:16
+date: 2020-12-31 23:26:10
 image: 'https://m.media-amazon.com/images/I/411AcobWjKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Vous avez [Elizabeth Arden – 5th Avenue NYC – Eau de Parfum Femme Vaporisate
 
 ℹ️:
 
-- Note de tête : bergamote, pêche et pomme
-- Note de cœur : Cassis, Jasmin, Pivoine et prunier
 - 5th Avenue NYC eau de parfum spray
 - Note de fond : ambre, vanille, tonka, musc et bois de santal
+- Note de tête : bergamote, pêche et pomme
+- Note de cœur : Cassis, Jasmin, Pivoine et prunier
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BHHMHS8/?tag=tolees0d-21)
