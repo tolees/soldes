@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.75 % rabais sur Adidas Stan Smith Basket Mode Garçon Bla'
-date: 2020-12-31 05:07:31
+date: 2021-01-01 06:22:51
 image: 'https://m.media-amazon.com/images/I/41VQhRpgVOL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,7 +25,7 @@ Vous avez [Adidas Stan Smith Basket Mode Garçon Blanc  Footwear White/Footwear 
 
 ℹ️:
 
-- Material - Upper: Leather
 - Shoe Style: Lo Top
+- Material - Upper: Leather
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B071K8K4ZL/?tag=tolees0d-21)

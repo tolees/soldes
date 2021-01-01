@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.20 % rabais sur Levi s Perfect Tee T-Shirt-Femme-Blanc  '
-date: 2020-12-30 23:41:54
+date: 2021-01-01 06:10:44
 image: 'https://m.media-amazon.com/images/I/41NADDb3KHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Vous avez [Levi s Perfect Tee T-Shirt-Femme-Blanc  White Cn-100xx 0006 -Medium](
 
 ℹ️:
 
-- Poche poitrine sur la gauche
+- Jersey
 - Manches courtes
 - Chiné
-- Jersey
 - 100 % coton
+- Poche poitrine sur la gauche
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B077VLC96K/?tag=tolees0d-21)
