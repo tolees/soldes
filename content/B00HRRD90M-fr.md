@@ -26,10 +26,10 @@ Vous avez [Sylvanian Families - Le Village - Le Tricycle et Mini Voiture Bébés
 ℹ️:
 
 - 1 pelle
-- Il comprend 3 figurines : maman, bébé lapin crème et bébé écureuil roux
-- 1 mini voiture
 - 1 petit arrosoir
+- Il comprend 3 figurines : maman, bébé lapin crème et bébé écureuil roux
 - 1 tricycle
+- 1 mini voiture
 - Ce set vient enrichir la collection Sylvanian pour encore plus de divertissement.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HRRD90M/?tag=tolees0d-21)

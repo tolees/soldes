@@ -25,7 +25,7 @@ C'est en vente [Playmobil - Scooby-Doo! Mystery Machine - 70286](https://www.ama
 
 ℹ️:
 
-- La camionnette souvre à larrière.
 - Possibilité de retirer le toit et le pare-brise
+- La camionnette souvre à larrière.
 
 [Achète-le!!](https://www.amazon.fr/dp/B08175VGYQ/?tag=tolees0d-21)
