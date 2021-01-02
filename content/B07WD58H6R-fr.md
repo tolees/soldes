@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.20 % rabais sur Sony WH-CH510 Casque Sans Fil Bluetooth '
-date: 2021-01-01 18:14:29
+date: 2021-01-02 18:43:46
 image: 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21'
 descuento: '20.20'
-average: '37.42967320261438'
+average: '37.46154838709678'
 ---
 
 Vous avez [Sony WH-CH510 Casque Sans Fil Bluetooth avec micro intégré et appels mains libres - Noir](https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21)  à  20.20 % de réduction, prix final  39.9 EUR (original: 50.0 EUR) ici:
@@ -25,11 +25,11 @@ Vous avez [Sony WH-CH510 Casque Sans Fil Bluetooth avec micro intégré et appel
 
 ℹ️:
 
-- Casque très léger avec seulement 132g
 - Design fin et coques pivotantes pour plus de mobilité
+- Prenez vos appels mains libres à tout moment grce au microphone intégré. Réglez votre musique directement sur l’oreillette
+- Temps de charge de la batterie: Environ 4,5 heures (charge complète)
 - Profitez jusqu’à 35h d’écoute sans fil en Bluetooth et dune recharge rapide (10min = 90min de musique) via USB-C
 - Le plaisir de la musique sans fil en toute liberté grce à la technologie Bluetooth
-- Temps de charge de la batterie: Environ 4,5 heures (charge complète)
-- Prenez vos appels mains libres à tout moment grce au microphone intégré. Réglez votre musique directement sur l’oreillette
+- Casque très léger avec seulement 132g
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21)

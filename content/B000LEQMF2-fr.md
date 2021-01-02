@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.30 % rabais sur Timberland 6 pouces Premium Étanche  Bot'
-date: 2021-01-01 11:57:48
+date: 2021-01-02 18:29:28
 image: 'https://m.media-amazon.com/images/I/411VqEFNLnL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21'
 descuento: '35.30'
-average: '131.206'
+average: '133.06'
 ---
 
 Vous avez [Timberland 6 pouces Premium Étanche  Bottes Femme  Jaune  Wheat Nubuck   38 EU](https://www.amazon.fr/dp/B000LEQMF2/?tag=tolees0d-21)  à  35.30 % de réduction, prix final  142.33 EUR (original: 220.0 EUR) ici:

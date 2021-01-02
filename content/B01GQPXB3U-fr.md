@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY CS1050 Elite 480 Go SSD externe - US avec 17.66 % rabais '
-date: 2021-01-01 12:09:40
+date: 2021-01-02 18:34:53
 image: 'https://m.media-amazon.com/images/I/41bkV1yVJtL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,9 +27,9 @@ C'est en vente [PNY CS1050 Elite 480 Go SSD externe - USB 3.1](https://www.amazo
 
 - Performances exceptionnelles et fiables offrant jusquà 430 Mo/s seq. En lecture et 400 Mo/s seq. En vitesses décriture
 - Boîtier en aluminium durable et ultra-compact
-- Transfert de fichiers plus rapide que les clés USB 3.0 traditionnelles
-- Température d’exploitation: 0°C ~ 70°C
-- Transférez de gros fichiers à une vitesse fulgurante
 - Compatible avec Windows et Mac OS X.
+- Température d’exploitation: 0°C ~ 70°C
+- Transfert de fichiers plus rapide que les clés USB 3.0 traditionnelles
+- Transférez de gros fichiers à une vitesse fulgurante
 
 [Achète-le!!](https://www.amazon.fr/dp/B01GQPXB3U/?tag=tolees0d-21)
