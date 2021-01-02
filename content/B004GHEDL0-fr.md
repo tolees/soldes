@@ -25,10 +25,10 @@ Vous avez [Claessens  Kid - CK0011-KSCL-P - L horloge - Réveil Enfant Educatif 
 
 ℹ️:
 
+- Le son monte en volume progressivement à lheure programmée, pour un réveil efficace mais en douceur.
+- Bouton champignon « Snooze alarm » permettant d’éclairer l’écran pendant la nuit mais aussi de stopper l’alarme pendant quelques minutes lorsque qu’elle se déclenche à l’heure prévue.
+- 3 choix dalarme possibles: Train, coucou ou chants doiseaux.
 - Affichage digital et Éclairage complet de lécran possible
 - Le dessin est illuminée en position de sommeil, lenfant sait que cest encore lheure de dormir. A lheure réglée, elle passe en position réveillée, cest lheure de se lever!
-- Le son monte en volume progressivement à lheure programmée, pour un réveil efficace mais en douceur.
-- 3 choix dalarme possibles: Train, coucou ou chants doiseaux.
-- Bouton champignon « Snooze alarm » permettant d’éclairer l’écran pendant la nuit mais aussi de stopper l’alarme pendant quelques minutes lorsque qu’elle se déclenche à l’heure prévue.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B004GHEDL0/?tag=tolees0d-21)
