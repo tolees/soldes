@@ -25,8 +25,8 @@ C'est en vente [Aigle Tenere Light  Chaussures de Randonnée Hautes homme  Beige
 
 ℹ️:
 
-- Semelle intérieure : synthétique
 - Description sur mesure : choisir votre taille
+- Semelle intérieure : synthétique
 - Dessus : toile
 - Doublure : synthétique
 
