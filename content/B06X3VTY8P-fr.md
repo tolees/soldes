@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '60.01 % rabais sur GreedFall'
-date: 2020-10-11 09:27:14
+date: 2021-01-02 00:10:25
 image: 'https://m.media-amazon.com/images/I/51BLAoseh0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,8 @@ Vous avez [GreedFall](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)  à 
 
 ℹ️:
 
+- Influencez le cours de lhistoire par vos choix
+- Explorez un monde mystérieux empli de magie
+- Plongez au cœur dune véritable expérience RPG
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)

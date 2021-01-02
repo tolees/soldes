@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '38.99 % rabais sur Le Train des épouvantes [Édition Collect'
-date: 2020-12-27 12:15:50
-image: 'https://m.media-amazon.com/images/I/513mpbjE5hL._SL200_.jpg'
+date: 2021-01-02 00:09:14
+image: 'https://m.media-amazon.com/images/I/51cQEBp3ilL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -21,7 +21,7 @@ average: '15.27'
 
 Vous avez [Le Train des épouvantes [Édition Collector Blu-Ray + DVD + Livret]](https://www.amazon.fr/dp/B07GJ5G48P/?tag=tolees0d-21)  à  38.99 % de réduction, prix final  15.27 EUR (original: 25.03 EUR) ici:
 
-[![Le Train des épouvantes [Édition Collect](https://m.media-amazon.com/images/I/513mpbjE5hL._SL200_.jpg)](https://www.amazon.fr/dp/B07GJ5G48P/?tag=tolees0d-21)
+[![Le Train des épouvantes [Édition Collect](https://m.media-amazon.com/images/I/51cQEBp3ilL._SL200_.jpg)](https://www.amazon.fr/dp/B07GJ5G48P/?tag=tolees0d-21)
 
 ℹ️:
 

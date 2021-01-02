@@ -25,8 +25,8 @@ Vous avez [The Outer Worlds Switch](https://www.amazon.fr/dp/B084J28MYQ/?tag=tol
 
 ℹ️:
 
-- Produit switch
-- Sortie le 05/06/2020
 - Cartouche
+- Sortie le 05/06/2020
+- Produit switch
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B084J28MYQ/?tag=tolees0d-21)
