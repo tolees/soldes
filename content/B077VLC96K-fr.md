@@ -25,10 +25,10 @@ Vous avez [Levi s Perfect Tee T-Shirt-Femme-Blanc  White Cn-100xx 0006 -Medium](
 
 ℹ️:
 
-- Manches courtes
 - Poche poitrine sur la gauche
 - Jersey
 - Chiné
 - 100 % coton
+- Manches courtes
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B077VLC96K/?tag=tolees0d-21)
