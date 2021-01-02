@@ -25,7 +25,7 @@ C'est en vente [Jack & Jones NOS Jjecorp Logo Sweat Hood Noos Shirt À Capuche  
 
 ℹ️:
 
-- Cotton mixture
 - Sweater with logo
+- Cotton mixture
 
 [Achète-le!!](https://www.amazon.fr/dp/B07VBNBJZD/?tag=tolees0d-21)
