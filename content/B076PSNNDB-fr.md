@@ -25,10 +25,10 @@ Vous avez [Brother Imprimante Standard Multifonctions  Monochrome Noir/Gris Mult
 
 ℹ️:
 
-- Toner supplémentaires tn2410 1.200 pages et tn2420 à 3.000 pages
 - Toner en dotation 700 pages
-- Bac de 250 feuilles et chargeur automatique de 50 feuilles
-- Duplex pour limpression recto verso automatique
+- Toner supplémentaires tn2410 1.200 pages et tn2420 à 3.000 pages
 - Vitesse jusquà 30 pages par minute
+- Duplex pour limpression recto verso automatique
+- Bac de 250 feuilles et chargeur automatique de 50 feuilles
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B076PSNNDB/?tag=tolees0d-21)

@@ -25,15 +25,15 @@ Vous avez [Lexibook IParty Enceinte karaoké Bluetooth iParty  Sur roulettes ave
 
 ℹ️:
 
-- Haut-parleur (1 woofer et 1 tweeter) : 18 watts musicaux pour un son de haute qualité !
 - Alimentation: batterie rechargeable avec adaptateur secteur (inclus)
 - Fonctionne sans fil avec tous les appareils équipés de la fonction Bluetooth
-- 1 prise de connexion 6.3mm pour micro
+- Prise Aux-IN 3.5mm pour connecter n’importe quel lecteur audio externe (câble inclus)
+- Port USB et de carte TF pour écouter vos musiques
 - 1 micro inclus avec réglage de la fonction écho
+- Effets lumineux multicolores sur le haut-parleur
+- 1 prise de connexion 6.3mm pour micro
+- Haut-parleur (1 woofer et 1 tweeter) : 18 watts musicaux pour un son de haute qualité !
 - Chariot avec roulettes intégrées pour l’emporter partout avec vous !
 - Ajustements des graves et des aigus
-- Prise Aux-IN 3.5mm pour connecter n’importe quel lecteur audio externe (câble inclus)
-- Effets lumineux multicolores sur le haut-parleur
-- Port USB et de carte TF pour écouter vos musiques
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0743K8CYH/?tag=tolees0d-21)
