@@ -25,10 +25,10 @@ Vous avez [Playmobil - Famille de Sirènes - 70100](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
-- Promenade sous-marine avec toute la famille.
 - Rejoins-nous dans les aventures magiques du palais de cristal !
-- Convient aux enfants à partir de 4 ans.
-- Le bébé dans son landau profite du paysage et la tortue se dégourdit les nageoires.
 - Contient 4 personnages et une perle à collectionner
+- Convient aux enfants à partir de 4 ans.
+- Promenade sous-marine avec toute la famille.
+- Le bébé dans son landau profite du paysage et la tortue se dégourdit les nageoires.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JMCBRB4/?tag=tolees0d-21)

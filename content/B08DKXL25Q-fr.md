@@ -25,11 +25,11 @@ C'est en vente [Samsung Galaxy Note 20 - Smartphone Portable débloqué 4G  Ecra
 
 ℹ️:
 
-- GRAND ÉCRAN 6, 7’’
-- Certification IP68
 - STOCKAGE 256GO
-- Composants inclus : Smartphone - kit piéton-bloc de charge - câble USB type C- guide dutilisation
+- Certification IP68
 - COMME UN ORDINATEUR
 - S PEN CONNECTÉ
+- GRAND ÉCRAN 6, 7’’
+- Composants inclus : Smartphone - kit piéton-bloc de charge - câble USB type C- guide dutilisation
 
 [Achète-le!!](https://www.amazon.fr/dp/B08DKXL25Q/?tag=tolees0d-21)

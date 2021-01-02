@@ -26,9 +26,9 @@ C'est en vente [Disque Dur Externe 2to  USB3.1 Type-C Disque Dur Externe Ultra F
 ℹ️:
 
 - Plug and Play, aucun logiciel à installer.Corps ultra fin de poche (8,5 mm, 37 g) pour un transport facile.
-- Le port de type C permet une insertion aveugle des deux côtés. Fonction veille automatique pour éviter la chaleur corporelle et réduire la consommation.
 - Coque en alliage daluminium, noyau solide résistant aux chocs pour une plus grande durabilité.
 - Compatibilité du système : Windows / Linux / Android OS.
+- Le port de type C permet une insertion aveugle des deux côtés. Fonction veille automatique pour éviter la chaleur corporelle et réduire la consommation.
 - Transfert USB 3.1 haute vitesse avec jusquà 100 Mo/s de vitesse de lecture (compatible avec 3.0).
 
 [Achète-le!!](https://www.amazon.fr/dp/B08PYPY795/?tag=tolees0d-21)

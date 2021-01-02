@@ -25,11 +25,11 @@ Vous avez [Protéine pour maigrir extreme | Shake diététique pauvre en graisse
 
 ℹ️:
 
-- Riche en protéines : chaque shake contient jusquà 22 g de protéines de première qualité.
-- Faible teneur en matières grasses et en calories : Aussi peu que 1,7g de graisse et 109 calories par shake !
-- Plein de vitamines : Formulé avec le mélange de vitamines TPW contenant des vitamines et des minéraux essentiels.
-- Mélange de protéines TRI : Contient du concentré de protéines de Whey, de la protéine de soja, de la protéine de lait et de lisolat de protéines de Whey pour contribuer au maintien dos normaux.
 - Un shake riche en protéines et faible en matières grasses pour favoriser les régimes et la perte de poids.
 - Comprend des extraits populaires pour la perte de poids : Extrait de thé vert et N Acétyl L-Carnitine.
+- Faible teneur en matières grasses et en calories : Aussi peu que 1,7g de graisse et 109 calories par shake !
+- Mélange de protéines TRI : Contient du concentré de protéines de Whey, de la protéine de soja, de la protéine de lait et de lisolat de protéines de Whey pour contribuer au maintien dos normaux.
+- Riche en protéines : chaque shake contient jusquà 22 g de protéines de première qualité.
+- Plein de vitamines : Formulé avec le mélange de vitamines TPW contenant des vitamines et des minéraux essentiels.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PCN0BOA/?tag=tolees0d-21)
