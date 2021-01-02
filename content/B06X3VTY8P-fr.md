@@ -26,7 +26,7 @@ Vous avez [GreedFall](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)  à 
 ℹ️:
 
 - Plongez au cœur dune véritable expérience RPG
-- Explorez un monde mystérieux empli de magie
 - Influencez le cours de lhistoire par vos choix
+- Explorez un monde mystérieux empli de magie
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X3VTY8P/?tag=tolees0d-21)

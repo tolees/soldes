@@ -25,8 +25,8 @@ C'est en vente [Derwent Carnet de Croquis Feuilles A4 110 g/m² 86  Import Royau
 
 ℹ️:
 
-- Pratique pour dessiner
-- Couverture cartonnée très résistante permet de se passer de support
 - Le papier pour un usage simple est de bonne qualité
+- Couverture cartonnée très résistante permet de se passer de support
+- Pratique pour dessiner
 
 [Achète-le!!](https://www.amazon.fr/dp/B000TMB9OK/?tag=tolees0d-21)

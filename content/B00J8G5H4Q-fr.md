@@ -25,10 +25,10 @@ Vous avez [Premier Housewares Poubelle Tri Selectif- Lot de 3 Bacs à Tri Select
 
 ℹ️:
 
+- Faites votre part pour lenvironnement grâce à un ensemble de 3 sacs en plastiques de tri sélectif. Ces trois sacs de tri que lon peut fixer lun à lautre vous permettent de trier papier, verre et plastique et de le porter à la poubelle de façon aisée grâce aux anses solides. Ces sacs lavables en machine restent propre. Pratique, ils tiennent debout seul même à vide. Dimensions : Haut. 44cm x larg. 31cm x prof. 30cm. Couleur : Vert, Bleu, Jaune. Matière : Plastique
+- La bâche en polyéthylène assure la durabilité, tandis que chaque sac est de couleur assortie, ce qui permet didentifier dun seul coup dœil quel sac est lequel.
 - MULTICOLORE : Vert pour le verre, jaune pour le plastique et bleu pour le papier.
 - Les deux anses de transport vous permettront dapporter facilement votre matériel dans les poubelles de recyclage.
-- La bâche en polyéthylène assure la durabilité, tandis que chaque sac est de couleur assortie, ce qui permet didentifier dun seul coup dœil quel sac est lequel.
-- Faites votre part pour lenvironnement grâce à un ensemble de 3 sacs en plastiques de tri sélectif. Ces trois sacs de tri que lon peut fixer lun à lautre vous permettent de trier papier, verre et plastique et de le porter à la poubelle de façon aisée grâce aux anses solides. Ces sacs lavables en machine restent propre. Pratique, ils tiennent debout seul même à vide. Dimensions : Haut. 44cm x larg. 31cm x prof. 30cm. Couleur : Vert, Bleu, Jaune. Matière : Plastique
 - Les sacs sont également lavables, ce qui vous permet de les utiliser pendant de nombreuses années et garantit un stockage plus hygiénique.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00J8G5H4Q/?tag=tolees0d-21)

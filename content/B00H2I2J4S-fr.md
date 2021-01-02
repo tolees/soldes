@@ -25,8 +25,8 @@ Vous avez [Lee Daren - Jeans - Droit - Homme Bleu W30/L34](https://www.amazon.fr
 
 ℹ️:
 
-- 5 poches.
-- Jean pour homme
 - Vous avez un écusson en cuir à larrière avec le logo de la marque Lee.
+- Jean pour homme
+- 5 poches.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00H2I2J4S/?tag=tolees0d-21)
