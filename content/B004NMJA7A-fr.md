@@ -25,8 +25,8 @@ C'est en vente [Minichamps- Miniature-Focus WRC Rossi/Cassina  400078446  Blanc]
 
 ℹ️:
 
-- Age minimum : 14 ans
-- Descriptif produit: Fabricant : MINICHAMPS/Marque : FORD/Type : Focus RS WRC - Monza Rally 2007/Année : 2007/Echelle : 43/Couleur : Blanc/Matière : MT/Référence Fabricant : 400078446/Numéro de Course : 46/Pilotes : Rossi / Cassina/Remarque : Rallye de Monza 2007
 - Dimensions : 10x4x4 cm
+- Descriptif produit: Fabricant : MINICHAMPS/Marque : FORD/Type : Focus RS WRC - Monza Rally 2007/Année : 2007/Echelle : 43/Couleur : Blanc/Matière : MT/Référence Fabricant : 400078446/Numéro de Course : 46/Pilotes : Rossi / Cassina/Remarque : Rallye de Monza 2007
+- Age minimum : 14 ans
 
 [Achète-le!!](https://www.amazon.fr/dp/B004NMJA7A/?tag=tolees0d-21)
