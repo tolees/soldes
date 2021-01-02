@@ -25,14 +25,14 @@ Vous avez [Etagère-Déco-Corps blanc et noir/7068A2176X00](https://www.amazon.f
 
 ℹ️:
 
-- Panneaux de particules mélaminés
-- notice téléchargeable dans la rubrique "détails sur le produit"
 - Contenu du packaging : 1
-- Facile à monter
-- Item_length : 89.0 centimeters
 - item_width : 25.0 centimeters
-- Garantie : 1 an
 - Design contemporain
+- notice téléchargeable dans la rubrique "détails sur le produit"
+- Item_length : 89.0 centimeters
+- Garantie : 1 an
+- Facile à monter
+- Panneaux de particules mélaminés
 - item_height : 165.0 centimeters
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B009H2NVKI/?tag=tolees0d-21)
