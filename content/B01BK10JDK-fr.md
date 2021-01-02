@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.42 % rabais sur KATAHIRO KUBOTA Couteau Zen Santoku Dama'
-date: 2020-12-22 20:53:20
+date: 2021-01-02 15:43:14
 image: 'https://m.media-amazon.com/images/I/31U++I3XViL._SL200_.jpg'
 comments: true
 category: ofertas
