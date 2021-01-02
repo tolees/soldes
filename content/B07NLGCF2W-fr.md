@@ -25,11 +25,11 @@ Vous avez [Fisher-Price Linkimals Matthieu le Paresseux  jouet bébé interactif
 
 ℹ️:
 
+- Baby toy from 9 months
+- Matthieu The Lazy Interactive Toy for Children Traps in His Hands and Moves Head in Rhythm with Lights, Songs and Music
 - Baby presses buttons and hears songs and phrases about numbers, colors, opposites and alphabet
 - When other Linkimals friends are placed next to each other, they interact (All sold separately. Some products may not be marketed)
-- With this musical and awakening toy, baby is driven by the rhythm and develops its overall motor skills and sensory abilities
-- Baby toy from 9 months
 - Mathieu the Parresseux is a bright toy that will amaze baby. Its belly illuminates with colourful and attractive lights
-- Matthieu The Lazy Interactive Toy for Children Traps in His Hands and Moves Head in Rhythm with Lights, Songs and Music
+- With this musical and awakening toy, baby is driven by the rhythm and develops its overall motor skills and sensory abilities
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NLGCF2W/?tag=tolees0d-21)

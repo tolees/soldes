@@ -26,11 +26,11 @@ C'est en vente [Samsung Galaxy Montre SM-R800NZSADBT 46mm  Bluetooth   Argent - 
 ℹ️:
 
 - Montre connectée au design classique
-- Fonctionnement intuitif via la lunette tournante
 - Processeur: 1.15GHz
-- Possibilité découter de la musique sans smartphone et de passer de la musique en streamen2 (version LTE)
 - Jusquà 7 jours dautonomie
+- Possibilité découter de la musique sans smartphone et de passer de la musique en streamen2 (version LTE)
 - De la marque Samsung
 - Lecteur MP3 intégré pour des centaines de morceaux préférés au poignet
+- Fonctionnement intuitif via la lunette tournante
 
 [Achète-le!!](https://www.amazon.fr/dp/B07G3VKSJB/?tag=tolees0d-21)

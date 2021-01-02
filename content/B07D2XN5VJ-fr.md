@@ -25,8 +25,8 @@ C'est en vente [Kleenex FAMILY – Mouchoirs en papier - Lot de 15 Boîtes Maxi 
 
 ℹ️:
 
-- Boîte Maxi-Format avec indicateur de remplissage
 - Mouchoirs en papier certifiés FSC (Forest Stewardship Council). En achetant ces mouchoirs, vous contribuez à la protection des forêts
+- Boîte Maxi-Format avec indicateur de remplissage
 - Fabriqué en France, 100% composés de fibres vierges
 - Avec sa grande contenance, cest le format idéal pour toute la famille
 - Lot de 15 boîtes de mouchoirs en papier, 1 boîte contient 140 mouchoirs
