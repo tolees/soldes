@@ -26,10 +26,10 @@ Vous avez [Samsung Galaxy Note 20 Ultra - Smartphone Portable débloqué 5G  Ecr
 ℹ️:
 
 - STOCKAGE 256 GO + PORT MICROSD
-- S PEN CONNECTÉ
 - Triple capteur
-- Certification IP68
 - GRAND ÉCRAN 6,9’’ SUPER AMOLED
+- S PEN CONNECTÉ
+- Certification IP68
 - Capteur principal: 108 MP Dual Pixelf/1,8 (1/1,33’’)
 - Android 10
 

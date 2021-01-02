@@ -25,10 +25,10 @@ C'est en vente [WD Black SN750 NVMe - Disque SSD interne haute-performance pour 
 
 ℹ️:
 
-- Dissipateur thermique élégant conçu pour personnaliser et améliorer votre ordinateur de jeu tout en maintenant son rendement optimal.
-- Disponible dans des capacités allant de 500 Go à 2 To
-- Le tableau de bord exclusif du disque SSD WD Black améliore les performances de jeu
 - Pour les PC de bureau uniquement. Veuillez vérifier les caractéristiques de votre carte mère et celles de notre disque WD Black avec dissipateur thermique pour vous assurer quils sont compatibles
 - Des vitesses de transfert allant jusquà 3 470 Mo/s pour des temps de chargement améliorés
+- Dissipateur thermique élégant conçu pour personnaliser et améliorer votre ordinateur de jeu tout en maintenant son rendement optimal.
+- Le tableau de bord exclusif du disque SSD WD Black améliore les performances de jeu
+- Disponible dans des capacités allant de 500 Go à 2 To
 
 [Achète-le!!](https://www.amazon.fr/dp/B07MC2Q81D/?tag=tolees0d-21)

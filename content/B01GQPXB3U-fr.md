@@ -25,11 +25,11 @@ C'est en vente [PNY CS1050 Elite 480 Go SSD externe - USB 3.1](https://www.amazo
 
 ℹ️:
 
-- Boîtier en aluminium durable et ultra-compact
-- Transfert de fichiers plus rapide que les clés USB 3.0 traditionnelles
-- Transférez de gros fichiers à une vitesse fulgurante
-- Compatible avec Windows et Mac OS X.
 - Température d’exploitation: 0°C ~ 70°C
+- Boîtier en aluminium durable et ultra-compact
+- Compatible avec Windows et Mac OS X.
 - Performances exceptionnelles et fiables offrant jusquà 430 Mo/s seq. En lecture et 400 Mo/s seq. En vitesses décriture
+- Transférez de gros fichiers à une vitesse fulgurante
+- Transfert de fichiers plus rapide que les clés USB 3.0 traditionnelles
 
 [Achète-le!!](https://www.amazon.fr/dp/B01GQPXB3U/?tag=tolees0d-21)
