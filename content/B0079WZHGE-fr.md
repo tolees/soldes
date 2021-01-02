@@ -25,9 +25,9 @@ C'est en vente [Laguna Pompe d Ornement Max Flo 2000 Débit 7600 L/H](https://ww
 
 ℹ️:
 
-- piles requises: non
 - Débit: 7600 L/H
 - produits de haute qualité
 - Débit deau maximum : 7 5 L/h
+- piles requises: non
 
 [Achète-le!!](https://www.amazon.fr/dp/B0079WZHGE/?tag=tolees0d-21)
