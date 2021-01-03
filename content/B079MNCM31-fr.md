@@ -25,11 +25,11 @@ C'est en vente [Philips HD6563/31 Machine à Café à Dosettes SENSEO Viva Café
 
 ℹ️:
 
-- Sélecteur dintensité: 2 longueurs de café, court et serré ou long et doux
-- Capacité du réservoir: 8 tasses (0, 9 L) et voyant du réservoir vide
 - Crema plus: une couche de mousse plus onctueuse et plus fine
-- Fréquence: 50 Hz | Tension: 220-240 Hz
+- Capacité du réservoir: 8 tasses (0, 9 L) et voyant du réservoir vide
 - 1 ou 2 tasses à la fois
+- Sélecteur dintensité: 2 longueurs de café, court et serré ou long et doux
+- Fréquence: 50 Hz | Tension: 220-240 Hz
 - Technologie booster darômes pour plus de saveurs
 
 [Achète-le!!](https://www.amazon.fr/dp/B079MNCM31/?tag=tolees0d-21)
