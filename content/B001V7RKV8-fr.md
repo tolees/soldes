@@ -25,15 +25,15 @@ Vous avez [Safety 1st 2 Pare Soleil Enrouleur](https://www.amazon.fr/dp/B001V7RK
 
 ℹ️:
 
-- Nécessite des Piles: Non
-- Pliage compact pour le voyage et le rangement.
+- Déroulage facile par simple pression.
 - Dimensions: 42 x 6 x 9.5cm
-- Le pare-soleil enrouleur a été conçu pour protéger lenfant des rayons dangereux du soleil. Bouton sur le côté pour relever automatiquement le pare-soleil.Déroulage facile par simple pression. Pliage compact pour le voyage et le rangement.Taille universelle. Se fixe au moyen de 3 ventouses
+- Descriptif Produit: Le pare-soleil enrouleur a été conçu pour protéger lenfant des rayons dangereux du soleil.
 - Se fixe au moyen de 3 ventouses.
 - Taille universelle.
-- Descriptif Produit: Le pare-soleil enrouleur a été conçu pour protéger lenfant des rayons dangereux du soleil.
-- Bouton sur le côté pour relever automatiquement le pare-soleil.
+- Pliage compact pour le voyage et le rangement.
+- Nécessite des Piles: Non
 - <a href="http://www.bebeconfort.com/fr-fr/Carfittinglist.aspx" target="_blank">Votre voiture est-elle compatible avec ce siège auto ?</a>
-- Déroulage facile par simple pression.
+- Le pare-soleil enrouleur a été conçu pour protéger lenfant des rayons dangereux du soleil. Bouton sur le côté pour relever automatiquement le pare-soleil.Déroulage facile par simple pression. Pliage compact pour le voyage et le rangement.Taille universelle. Se fixe au moyen de 3 ventouses
+- Bouton sur le côté pour relever automatiquement le pare-soleil.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B001V7RKV8/?tag=tolees0d-21)

@@ -25,11 +25,11 @@ Vous avez [PanPastel - Peinture Pastel pour Artiste - Lot de 20 couleurs - Coffr
 
 ℹ️:
 
-- Concentration pigmentaire très élevée : couleurs intenses et lumineuses. Texture riche et onctueuse qui permet de prélever aisément la couleur et de lappliquer très facilement.
-- Taille : Set de 20 couleurs
-- Contenu de la boîte : Ce produit comprend 20 godets PANPASTEL, 1 mini-applicateurs, 2 applicateurs pour couteau N° 3 et une éponge.
-- Production minimum de déchets poudreux. Compatible et complémentaire aux pastels tendres traditionnels.
-- Résistance renforcée à la lumière.
 - Applications variées : aplats, mélanges, dégradés, superpositions avec outils et accessoires soft.
+- Résistance renforcée à la lumière.
+- Contenu de la boîte : Ce produit comprend 20 godets PANPASTEL, 1 mini-applicateurs, 2 applicateurs pour couteau N° 3 et une éponge.
+- Taille : Set de 20 couleurs
+- Production minimum de déchets poudreux. Compatible et complémentaire aux pastels tendres traditionnels.
+- Concentration pigmentaire très élevée : couleurs intenses et lumineuses. Texture riche et onctueuse qui permet de prélever aisément la couleur et de lappliquer très facilement.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000VTJWNG/?tag=tolees0d-21)

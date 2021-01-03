@@ -25,8 +25,8 @@ C'est en vente [Clé USB 2.0 SanDisk Cruzer Blade 64 Go](https://www.amazon.fr/d
 
 ℹ️:
 
-- Taille du disque dur : 64 GB
 - Transportez vos vidéos, musiques et fichiers personnels importants
 - Sa conception compacte lui permet de tenir dans votre poche
+- Taille du disque dur : 64 GB
 
 [Achète-le!!](https://www.amazon.fr/dp/B00BX5FOCK/?tag=tolees0d-21)
