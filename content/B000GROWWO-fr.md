@@ -25,8 +25,8 @@ Vous avez [METZELER METZELER 130/70 R18 63H ME 880 MARATHON - 70/70/R18 63H - A/
 
 ℹ️:
 
-- Pneu emballé correctement avec plastique
 - Pneus dété
 - Pneu moto
+- Pneu emballé correctement avec plastique
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000GROWWO/?tag=tolees0d-21)
