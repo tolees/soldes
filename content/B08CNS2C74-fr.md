@@ -25,9 +25,9 @@ Vous avez [NBA 2K21 Switch + DLC - Exclusivité Amazon  Nintendo Switch ](https:
 
 ℹ️:
 
-- Dlc exclusif Amazon o 6 boosts de compétence pour améliorez votre joueur
-- Bonus de précommande o 5 000 vc + 5 000 points mon équipe o 9 boosts mon joueur o 10 packs hebdomadaires pour mon équipe o 5 paires de chaussures o bundle déléments numériques Damian lillard
 - Bonus de précommande exclusif Amazon: o 1 pack mon équipe o 6 boosts de compétence pour améliorer votre joueur o 3 boosts de gatorade
+- Bonus de précommande o 5 000 vc + 5 000 points mon équipe o 9 boosts mon joueur o 10 packs hebdomadaires pour mon équipe o 5 paires de chaussures o bundle déléments numériques Damian lillard
+- Dlc exclusif Amazon o 6 boosts de compétence pour améliorez votre joueur
 - Nba 2k21 est le dernier opus de la série des jeux de basket nba 2k au succès mondial, développés par visual concepts et édités par 2K
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CNS2C74/?tag=tolees0d-21)
