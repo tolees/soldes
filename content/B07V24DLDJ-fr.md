@@ -25,10 +25,10 @@ Vous avez [Funko- Pop Funkoverse: Battle in The Wizarding World Board Game  4347
 
 ℹ️:
 
-- Jeu de plateau sous licence officielle
-- Contient: 4 mini Funko Pop! Vinyle Harry Potter exclusives, 1 jeu de plateau, 1 jeu de carte à jouer et 1 dé.
-- 2-4 joueurs
 - Durée d´une partie: 20 - 60 minutes
+- Contient: 4 mini Funko Pop! Vinyle Harry Potter exclusives, 1 jeu de plateau, 1 jeu de carte à jouer et 1 dé.
 - Redécouvrez le plaisir de jouer avec les personnages de lunivers Harry Potter avec ce jeu de plateau!
+- 2-4 joueurs
+- Jeu de plateau sous licence officielle
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V24DLDJ/?tag=tolees0d-21)

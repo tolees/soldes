@@ -25,12 +25,12 @@ C'est en vente [Samsung - Montre Galaxy Watch 3 R840 - 45 mm Version Bluetooth -
 
 ℹ️:
 
+- Modèles de téléphones compatibles : Smartphone Android 5.0 et versions ultérieures avec 1,5 GO de RAM
+- personnalisation cadran et bracelet
+- Bluetooth 5.0
+- fonctionnalités sport et bien-être
 - Composants inclus : Galaxy Watch 3, bracelet en cuir, brins en taille M/L, socle de charge sans fil, guide de prise en main
 - Etanche IP68 et GPS intégré
-- fonctionnalités sport et bien-être
-- Bluetooth 5.0
-- personnalisation cadran et bracelet
 - Design affirmé avec lunette rotative
-- Modèles de téléphones compatibles : Smartphone Android 5.0 et versions ultérieures avec 1,5 GO de RAM
 
 [Achète-le!!](https://www.amazon.fr/dp/B08DY3TD53/?tag=tolees0d-21)
