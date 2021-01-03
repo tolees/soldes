@@ -25,10 +25,10 @@ Vous avez [Manettes pour Nintendo Switch  EasySMX Manette pour Switch sans Fil B
 
 ℹ️:
 
+- 🎮【5 Niveaux de réglage de lintensité des vibrations du moteur】Ces boutons(Bouton TURBO + Bouton Croisé) fonctionnent simultanément pour régler l’intensité de vibration de la manette, soit 5 niveaux de réglage de l’intensité de vibration
+- 🎮【Double réponse de vibration】Les moteurs asymétriques intégrés produisent des vibrations à intensité variable qui vous permettant de ressentir chaque choc, chaque tir, afin de vous transportez directement au coeur de la bataille
 - 🎮【5 Niveaux de réglage de la luminosité du rétroéclairage led】Ces boutons(Bouton ZL + Bouton ZR + Bouton R3 + Bouton Croisé) fonctionnent simultanément pour régler l’intensité lumineuse de la manette; La lumière led cool est à la mode et impressionnante; ATTENTION: Appuyez sur la touche L + R pendant 5 secondes pour allumer la lumière
 - 🎮【Manette bluetooth sans fil pour nintendo switch et manette filaire pc】Deux connections: connection bluetooth sans fil pour Nintendo Switch et connexion usb filaire pour pc
-- 🎮【Double réponse de vibration】Les moteurs asymétriques intégrés produisent des vibrations à intensité variable qui vous permettant de ressentir chaque choc, chaque tir, afin de vous transportez directement au coeur de la bataille
 - 🎮【Grande compatibilité】EasySMX manette pour nintendo switch sans fil fonctionne avec Nintendo Switch (Nintendo Switch Pro et Nintendo Switch Lite), ainsi que sur PC Windows XP/10/7/8/8.1. Parfait pour jeux mario, zelda, mario kart 8 deluxe , mario odyssey, mario paper, mario party, minecraft, luigi mansion 3, animal crossing, super smash bros switch, pokemon, splatoon 2 etc
-- 🎮【5 Niveaux de réglage de lintensité des vibrations du moteur】Ces boutons(Bouton TURBO + Bouton Croisé) fonctionnent simultanément pour régler l’intensité de vibration de la manette, soit 5 niveaux de réglage de l’intensité de vibration
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0893DPSX8/?tag=tolees0d-21)

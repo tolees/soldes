@@ -25,9 +25,9 @@ Vous avez [Levi s 2Pack Shirt  2 Pack Tee White +/Smokestack HTR  L Femme](https
 
 ℹ️:
 
-- 100% coton
-- Lavage en machine, 30° max.
 - Type de col : à capuche
 - Manches longues
+- 100% coton
+- Lavage en machine, 30° max.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KF4SPNC/?tag=tolees0d-21)
