@@ -25,10 +25,10 @@ C'est en vente [Targus STRIKE Gaming Sac à dos pour ordinateur portable 17 3"  
 
 ℹ️:
 
-- IMPERMÉABLE – Une housse de protection réfléchissante est intégrée et permet de protéger le sac PC portable en cas de pluie; des bandes réfléchissantes assurent plus de visibilité.
 - ORGANISATION – Emportez tout votre équipement dans ce sac gamer doté de poches et brides spéciales pour kit de jeu : souris, disque dur, clavier, lunettes, casque, clé USB, etc.
-- CONFORT OPTIMAL – Ce sac ordinateur 17 pouces dispose de sangles de poitrine, dun rembourrage dorsal aéré et de bandoulières rembourrées pour vous garantir un confort optimal.
-- PROTECTION OPTIMALE – Ce sac à dos Targus de 26 l est doté dun compartiment rembourré pour protéger des ordinateurs portables jusquà 17,3 pouces et des consoles.
 - GARANTIE À VIE LIMITÉE – Les sacs Targus disposent dune garantie à vie limitée pour vous offrir une tranquillité desprit et une totale confiance en la qualité de tous nos sacs.
+- PROTECTION OPTIMALE – Ce sac à dos Targus de 26 l est doté dun compartiment rembourré pour protéger des ordinateurs portables jusquà 17,3 pouces et des consoles.
+- CONFORT OPTIMAL – Ce sac ordinateur 17 pouces dispose de sangles de poitrine, dun rembourrage dorsal aéré et de bandoulières rembourrées pour vous garantir un confort optimal.
+- IMPERMÉABLE – Une housse de protection réfléchissante est intégrée et permet de protéger le sac PC portable en cas de pluie; des bandes réfléchissantes assurent plus de visibilité.
 
 [Achète-le!!](https://www.amazon.fr/dp/B01KIUEBWY/?tag=tolees0d-21)
