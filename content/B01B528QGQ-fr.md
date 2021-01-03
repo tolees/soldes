@@ -27,8 +27,8 @@ Vous avez [Hugo Boss Homme Chronographe Quartz Montres bracelet avec bracelet en
 
 - Mouvement à quartz
 - Mouvement multifonctions chronographique
-- Montre en acier inoxydable dotée dun bracelet en caoutchouc
 - Étanche
+- Montre en acier inoxydable dotée dun bracelet en caoutchouc
 - Cadran noir
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01B528QGQ/?tag=tolees0d-21)
