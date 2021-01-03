@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 45.01 % en NBA 2K21 Switch + DLC - Exclusivité Amaz'
-date: 2020-11-18 08:20:44
+title: '45.01 % rabais sur NBA 2K21 Switch + DLC - Exclusivité Amaz'
+date: 2021-01-03 06:09:55
 image: 'https://m.media-amazon.com/images/I/41uMNN6P+mL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,18 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08CNS2C74/?tag=tolees0d-21'
 descuento: '45.01'
+average: '33.02666666666667'
 ---
 
-Tienes [NBA 2K21 Switch + DLC - Exclusivité Amazon  Nintendo Switch ](https://www.amazon.fr/dp/B08CNS2C74/?tag=tolees0d-21) con un 45.01 % de descuento con precio de oferta de 32.99 EUR (original: 59.99 EUR) en el siguiente enlace!
+Vous avez [NBA 2K21 Switch + DLC - Exclusivité Amazon  Nintendo Switch ](https://www.amazon.fr/dp/B08CNS2C74/?tag=tolees0d-21)  à  45.01 % de réduction, prix final  32.99 EUR (original: 59.99 EUR) ici:
 
 [![NBA 2K21 Switch + DLC - Exclusivité Amaz](https://m.media-amazon.com/images/I/41uMNN6P+mL._SL200_.jpg)](https://www.amazon.fr/dp/B08CNS2C74/?tag=tolees0d-21)
 
 ℹ️:
 
+- Dlc exclusif Amazon o 6 boosts de compétence pour améliorez votre joueur
+- Bonus de précommande o 5 000 vc + 5 000 points mon équipe o 9 boosts mon joueur o 10 packs hebdomadaires pour mon équipe o 5 paires de chaussures o bundle déléments numériques Damian lillard
+- Bonus de précommande exclusif Amazon: o 1 pack mon équipe o 6 boosts de compétence pour améliorer votre joueur o 3 boosts de gatorade
+- Nba 2k21 est le dernier opus de la série des jeux de basket nba 2k au succès mondial, développés par visual concepts et édités par 2K
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B08CNS2C74/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CNS2C74/?tag=tolees0d-21)
