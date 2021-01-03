@@ -25,10 +25,10 @@ C'est en vente [Bébé Confort Zelia  Poussette naissance  citadine et légère 
 
 ℹ️:
 
-- Guidon reglable en hauteur
 - Très grand panier pour ranger facilement toutes vos affaires, Habillage pluie et couvre jambe inclus
-- Poussette légère et aisément transportable
 - S’utilise comme landau en transformant le hamac en nacelle, permet également d’installer un cosi Bébé Confort (vendu séparément) sur le châssis pour obtenir une solution de mobilité complète utilisable dès la naissance
+- Guidon reglable en hauteur
+- Poussette légère et aisément transportable
 - Assise reversible et complètement inclinable
 - Poussette citadine utilisable de la naissance à environ 3,5 ans (0-15 kg)
 
