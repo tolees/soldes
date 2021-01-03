@@ -25,10 +25,10 @@ C'est en vente [Kimberfeel - Aponi - Botte de Neige pour Femme  Taille 38  Blanc
 
 ℹ️:
 
+- Semelle de propreté chaude polyester
+- Semelle en gomme thermoplastique
 - Doublure chaude polyester dotée d’une membrane Kimbertex
 - Tige en polyuréthane
 - Idéale pour affronter lhiver
-- Semelle de propreté chaude polyester
-- Semelle en gomme thermoplastique
 
 [Achète-le!!](https://www.amazon.fr/dp/B077Y4H3PL/?tag=tolees0d-21)

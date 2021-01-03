@@ -25,8 +25,8 @@ C'est en vente [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XDC
 
 ℹ️:
 
-- 27 circuits différents
 - DCL The Game reproduit fidèlement les mouvements de vrais drones
 - Classement en ligne : Un classement en ligne est établi pour chaque plateforme
+- 27 circuits différents
 
 [Achète-le!!](https://www.amazon.fr/dp/B07XDCGLJY/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [LEBE Coque pour Sony Xperia L4 Housse en Cuir Sony Xperia L4  Étui T
 
 ℹ️:
 
-- Fonction Stand：Cet coque Sony Xperia L4 peut être mis en position horizontale et agir en tant que support,La conception flexible de la béquille vous permet de regarder des vidéos ou denregistrer de différentes perspectives avec les mains libres.
-- Compatiblité：Cette housse est compatible que avec Sony Xperia L4.Veuillez vérifier votre modèle de téléphone portable avant de lacheter.
-- Multifonction：Cet Étui Housse Sony Xperia L4 vient avec 3 emplacements pour cartes et 1 poche pour largent; vous pouvez transporter votre ID, vos cartes de crédit et votre argent, sans prendre votre portefeuille avec vous. Le haut de notre élégante coque de téléphone est un trou où vous pouvez fixer une dragonne pour un transport facile.
-- Protection Totale : coque en cuir Sony Xperia L4 est fait de cuir synthétique de haute qualité et TPU silicone flexible; il protège votre smartphone des rayures, des chocs, de la poussière et des chutes accidentelles.
 - Garantie de satisfaction：Veuillez noter que cet étui est fait sur mesure pour le Sony Xperia L4! Votre achat sera entièrement protégé une fois que votre commande est validée et n’hésitez pas à nous contacter si vous avez des questions ou des suggestions. Nous résoudrons toujours votre problème.
+- Protection Totale : coque en cuir Sony Xperia L4 est fait de cuir synthétique de haute qualité et TPU silicone flexible; il protège votre smartphone des rayures, des chocs, de la poussière et des chutes accidentelles.
+- Fonction Stand：Cet coque Sony Xperia L4 peut être mis en position horizontale et agir en tant que support,La conception flexible de la béquille vous permet de regarder des vidéos ou denregistrer de différentes perspectives avec les mains libres.
+- Multifonction：Cet Étui Housse Sony Xperia L4 vient avec 3 emplacements pour cartes et 1 poche pour largent; vous pouvez transporter votre ID, vos cartes de crédit et votre argent, sans prendre votre portefeuille avec vous. Le haut de notre élégante coque de téléphone est un trou où vous pouvez fixer une dragonne pour un transport facile.
+- Compatiblité：Cette housse est compatible que avec Sony Xperia L4.Veuillez vérifier votre modèle de téléphone portable avant de lacheter.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HD7K8JG/?tag=tolees0d-21)
