@@ -1,28 +1,30 @@
 ---
 layout: post
-title: 'Descuento del 34.77 % en Robin des Bois [Blu-Ray]'
-date: 2020-10-15 02:31:13
+title: '20.01 % rabais sur Robin des Bois [Blu-Ray]'
+date: 2021-01-03 00:41:27
 image: 'https://m.media-amazon.com/images/I/512fAezF1UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B00DGCFZ90-fr'
-actualPrice: 13.04 EUR
+actualPrice: 15.99 EUR
 currency: EUR
-price: 13.04
+price: 15.99
 comparePrice: 19.99 EUR
 prodname: 'Robin des Bois [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21'
-descuento: '34.77'
+descuento: '20.01'
+average: '14.515'
 ---
 
-Tienes [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21) con un 34.77 % de descuento con precio de oferta de 13.04 EUR (original: 19.99 EUR) en el siguiente enlace!
+Vous avez [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  15.99 EUR (original: 19.99 EUR) ici:
 
 [![Robin des Bois [Blu-Ray]](https://m.media-amazon.com/images/I/512fAezF1UL._SL200_.jpg)](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)
 
 ℹ️:
 
+- De Reitherman Wolfgang - Avec Bedford Brian - Ustinov Peter - Harris Phil
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)

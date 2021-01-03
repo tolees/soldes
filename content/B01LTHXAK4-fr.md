@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '65.63 % rabais sur Prestige 3D + Blu-Ray 2D + Figurines Pop'
-date: 2021-01-01 23:49:56
+date: 2021-01-03 00:37:05
 image: 'https://m.media-amazon.com/images/I/51xIZJAC74L._SL200_.jpg'
 comments: true
 category: ofertas

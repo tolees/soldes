@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Paladone PP5852PS mini lampe  75 W  Mult avec 34.22 % rabais '
-date: 2021-01-01 18:20:41
+date: 2021-01-03 00:41:31
 image: 'https://m.media-amazon.com/images/I/41+J0iZPenL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XRP3PCW/?tag=tolees0d-21'
 descuento: '34.22'
-average: '27.92080246913581'
+average: '27.885060975609765'
 ---
 
 C'est en vente [Paladone PP5852PS mini lampe  75 W  Multicolore](https://www.amazon.fr/dp/B07XRP3PCW/?tag=tolees0d-21)  à  34.22 % de réduction, prix final  24.99 EUR (original: 37.99 EUR) ici:
@@ -25,9 +25,9 @@ C'est en vente [Paladone PP5852PS mini lampe  75 W  Multicolore](https://www.ama
 
 ℹ️:
 
-- 3 modes déclairage : fixe, phasage-couleur et réactive au son.
 - Cest une lampe en forme dicônes sur le thème de la Playstation
 - Marchandise Playstation en plastique biodégradable sous licence officielle
 - Les icônes des boutons de la PS sont empilées sur une base grise classique
+- 3 modes déclairage : fixe, phasage-couleur et réactive au son.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07XRP3PCW/?tag=tolees0d-21)
