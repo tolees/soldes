@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.56 % rabais sur FIFA 21  Xbox One  - Version Xbox Series'
-date: 2021-01-03 12:28:41
+date: 2021-01-04 14:05:23
 image: 'https://m.media-amazon.com/images/I/51b1G789XJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21'
 descuento: '37.56'
-average: '47.26772727272726'
+average: '47.21447761194029'
 ---
 
 Vous avez [FIFA 21  Xbox One  - Version Xbox Series X incluse](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)  à  37.56 % de réduction, prix final  43.7 EUR (original: 69.99 EUR) ici:

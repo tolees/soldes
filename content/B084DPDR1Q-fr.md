@@ -25,11 +25,11 @@ C'est en vente [Jabra Elite 45h Casque Sans Fil Supra-Auriculaire – Casque Com
 
 ℹ️:
 
-- Design compact, pliable et léger : Conçus pour sadapter à votre style de vie, les coussinets doreilles en mousse à mémoire de forme, souples et modulables, garantissent un confort et un ajustement à vos oreilles exceptionnels
-- Expérience sonore personnalisée avec MySound : Lultime technologie Jabra personnalise le son de la musique pour une expérience individualisée
-- Une qualité audio supérieure grâce aux haut-parleurs de technologie avancée: Les haut-parleurs exceptionnellement grands vous permettent de bénéficier dun son et dune musique dune clarté supérieure
 - Ce produit est garanti 2 ans
 - Autonomie longue durée des batteries : Obtenez jusquà 50 heures dautonomie avec une seule charge, ce qui vous laisse plus de temps pour écouter et apprécier votre musique
+- Une qualité audio supérieure grâce aux haut-parleurs de technologie avancée: Les haut-parleurs exceptionnellement grands vous permettent de bénéficier dun son et dune musique dune clarté supérieure
+- Expérience sonore personnalisée avec MySound : Lultime technologie Jabra personnalise le son de la musique pour une expérience individualisée
+- Design compact, pliable et léger : Conçus pour sadapter à votre style de vie, les coussinets doreilles en mousse à mémoire de forme, souples et modulables, garantissent un confort et un ajustement à vos oreilles exceptionnels
 - Contenu de la livraison : Casque Jabra Elite 45 h, câble de chargement USB, pochette de rangement – Couleur : noir – Poids : 160 grammes – Dimensions : L 186 mm x l 157 mm x H 60,5 mm
 
 [Achète-le!!](https://www.amazon.fr/dp/B084DPDR1Q/?tag=tolees0d-21)
