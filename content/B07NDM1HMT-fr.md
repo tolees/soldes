@@ -25,8 +25,8 @@ C'est en vente [Nixon Horloge A1266-897-00](https://www.amazon.fr/dp/B07NDM1HMT/
 
 ℹ️:
 
-- Boîtier de 34 mm en acier inoxydable moulé par injection avec boutons et boîtier perforé pour haut-parleur en acier inoxydable et port de charge micro USB.
-- Fonctions : heure, date, alarme et rétroéclairage EL.
 - Module numérique LCD avec haut-parleur indiquant lheure. *Pour le moment, Dork Too ne parle que langlais.
+- Fonctions : heure, date, alarme et rétroéclairage EL.
+- Boîtier de 34 mm en acier inoxydable moulé par injection avec boutons et boîtier perforé pour haut-parleur en acier inoxydable et port de charge micro USB.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07NDM1HMT/?tag=tolees0d-21)

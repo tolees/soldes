@@ -26,9 +26,9 @@ Vous avez [Columbia Last Tracks  Veste  Noir  Black   M](https://www.amazon.fr/d
 ℹ️:
 
 - Protection complète et capuche ajustable, Poignets ajustables et confortables, Ourlet réglable par cordon
-- Chaleur diffuse grâce à la technologie Omni-Heat thermo-réfléchissante, Jupe pare-neige ajustable et matière Omni-Tech respirante et imperméable avec coutures étanches pour empêcher lhumidité de pénétrer le tissu
-- Contenu : 1x Columbia Last Track veste homme, Extérieur : O-T Gen Dobby nylon et Legacy Dobby 72% nylon/28% polyester ; Doublure : O-H Refl. polyester ; Isolation : 80g Microtemp XF II and 60g Microtemp XF II, Polyester, Black, M
-- Veste dhiver chaude et polyvalente avec capuche amovible, Solution idéale pour les activités de montagne, Coupe Active Fit avec tissu extensible chaîne et trame
 - Stockez lessentiel grâce aux poches chauffe-mains zippées, à la poche forfait de ski, à la poche de sécurité intérieure, la poche masque et au crochet pour clés
+- Contenu : 1x Columbia Last Track veste homme, Extérieur : O-T Gen Dobby nylon et Legacy Dobby 72% nylon/28% polyester ; Doublure : O-H Refl. polyester ; Isolation : 80g Microtemp XF II and 60g Microtemp XF II, Polyester, Black, M
+- Chaleur diffuse grâce à la technologie Omni-Heat thermo-réfléchissante, Jupe pare-neige ajustable et matière Omni-Tech respirante et imperméable avec coutures étanches pour empêcher lhumidité de pénétrer le tissu
+- Veste dhiver chaude et polyvalente avec capuche amovible, Solution idéale pour les activités de montagne, Coupe Active Fit avec tissu extensible chaîne et trame
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0814B6HFV/?tag=tolees0d-21)
