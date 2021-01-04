@@ -25,11 +25,11 @@ C'est en vente [Barbie Dreamtopia Licorne Arc-en-ciel sons et lumières avec cri
 
 ℹ️:
 
-- ​The Barbie Dreamtopia Brush n Sparkle Unicorn adds magic to playtime with four different lights and sounds to add surprise and delight
 - ​Easy activation means kids can repeat the action over and over again for storytelling surprises and magical effect
+- ​The Barbie Dreamtopia Brush n Sparkle Unicorn adds magic to playtime with four different lights and sounds to add surprise and delight
 - ​Ride into storytelling fun with Barbie Dreamtopia Brush n Sparkle Unicorn - collect all the Barbie Dreamtopia dolls and toys to recreate favorite scenes or tell your own fairytales and sail away with Chelsea and her big sister Barbie (each sold separately, subject to availability)
+- ​There are two ways to play - brush the unicorns long pink mane with the included brush or press the button on the unicorns body; however, you do it, the effect is always magical
 - ​A shimmery white body with cut-out colour-rimmed stars showcases the lights, while the pink mane and tail and blue hoofs add even more fantasy fun
 - ​With so many ways to play, the Barbie unicorn makes a great gift for kids, especially those who love unicorns, horses and all animals, fantasy or real
-- ​There are two ways to play - brush the unicorns long pink mane with the included brush or press the button on the unicorns body; however, you do it, the effect is always magical
 
 [Achète-le!!](https://www.amazon.fr/dp/B07FDFBZVR/?tag=tolees0d-21)
