@@ -25,15 +25,15 @@ C'est en vente [LEGO® DUPLO® Rescue Le commissariat de police Jeu de construct
 
 ℹ️:
 
-- Comprend un commissariat de police de facile à construire avec une porte de cellule qui s’ouvre et une voiture de police avec des lumières et une sirène sonore.
-- Il y a plusieurs produits de la ville LEGO DUPLO à collectionner pour recréer la vie quotidienne de son enfant dans un univers DUPLO familier.
-- Les produits LEGO DUPLO sont amusants et sûrs pour les jeunes enfants.
-- On peut utiliser les personnages modernes, les accessoires et les briques décorées pour samuser avec son enfant tout en l’aidant à découvrir la police.
-- Possibilité dappuyer sur le bouton pour activer la sirène et les lumières de la voiture de police.
-- Permet daider son enfant à maîtriser des compétences de construction de base avec ce modèle facile à construire.
 - Ce jouet sur la police est un cadeau idéal pour les enfants dâge préscolaire.
-- Inclut 3 figurines LEGO DUPLO : 2 policiers et un bandit.
-- Les accessoires incluent une tasse, ainsi que des briques décorées de beignets et une caméra de sécurité.
+- Les produits LEGO DUPLO sont amusants et sûrs pour les jeunes enfants.
 - Il faut attraper le bandit et lemmener au commissariat de police pour aller en prison.
+- Comprend un commissariat de police de facile à construire avec une porte de cellule qui s’ouvre et une voiture de police avec des lumières et une sirène sonore.
+- Possibilité dappuyer sur le bouton pour activer la sirène et les lumières de la voiture de police.
+- Les accessoires incluent une tasse, ainsi que des briques décorées de beignets et une caméra de sécurité.
+- Permet daider son enfant à maîtriser des compétences de construction de base avec ce modèle facile à construire.
+- On peut utiliser les personnages modernes, les accessoires et les briques décorées pour samuser avec son enfant tout en l’aidant à découvrir la police.
+- Il y a plusieurs produits de la ville LEGO DUPLO à collectionner pour recréer la vie quotidienne de son enfant dans un univers DUPLO familier.
+- Inclut 3 figurines LEGO DUPLO : 2 policiers et un bandit.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07FNTSHZC/?tag=tolees0d-21)
