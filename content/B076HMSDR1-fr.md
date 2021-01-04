@@ -25,10 +25,10 @@ C'est en vente [adidas Core18 Sweater Hoody à capuche Homme - Noir  black/white
 
 ℹ️:
 
-- CORE18 HOODY
-- Homme
-- TEAMLINE FOOTBALL APP GENERIC ADIDAS
-- black/white
 - HOODED SWEAT
+- TEAMLINE FOOTBALL APP GENERIC ADIDAS
+- Homme
+- black/white
+- CORE18 HOODY
 
 [Achète-le!!](https://www.amazon.fr/dp/B076HMSDR1/?tag=tolees0d-21)

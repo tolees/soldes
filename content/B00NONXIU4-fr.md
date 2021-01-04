@@ -25,7 +25,7 @@ Vous avez [Tommy Hilfiger New Denton 4.0  Ceinture Homme  Noir  Black 090   90](
 
 ℹ️:
 
-- Non lavable
 - 100% cuir
+- Non lavable
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NONXIU4/?tag=tolees0d-21)
