@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '43.19 % rabais sur Maniac Cop [Blu-Ray]'
-date: 2021-01-02 20:02:12
+date: 2021-01-04 04:20:05
 image: 'https://m.media-amazon.com/images/I/51M7wHwt1hL._SL200_.jpg'
 comments: true
 category: ofertas
