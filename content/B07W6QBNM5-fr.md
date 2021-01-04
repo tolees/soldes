@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Turbo Wheels  L atelier de tun avec 28.00 % rabais '
-date: 2021-01-03 19:37:43
+date: 2021-01-04 20:40:35
 image: 'https://m.media-amazon.com/images/I/513MI2NXYvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21'
 descuento: '28.00'
-average: '74.37233944954127'
+average: '74.35068181818181'
 ---
 
 C'est en vente [LEGO City Turbo Wheels  L atelier de tuning  Set de construction avec depanneuse  Hot Rod moto  207 pièces  60258](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)  à  28.00 % de réduction, prix final  71.99 EUR (original: 99.99 EUR) ici:
