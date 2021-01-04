@@ -25,7 +25,7 @@ C'est en vente [Levi s Turner  Baskets Hommes  Marron  Brown 28   45 EU](https:/
 
 ℹ️:
 
-- Cette chaussure est un classique masculin
 - Elle affiche une silhouette Oxford élégante et est confectionnée à partir d’un cuir robuste et durable
+- Cette chaussure est un classique masculin
 
 [Achète-le!!](https://www.amazon.fr/dp/B07DZZG5QL/?tag=tolees0d-21)

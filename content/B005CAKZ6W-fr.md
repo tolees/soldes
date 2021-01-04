@@ -27,8 +27,8 @@ Vous avez [Pentel Lot de 12 BL77 EnerGel Roller gel rétractable séchage rapide
 
 - Pointe 0,7mm, écriture moyenne
 - Lot de 2 rollers gel rétractables Pentel Energel BL77
+- Séchage très rapide de lencre, idéal pour gauchers
 - Grand confort et douceur décriture
 - Encre de couleur noire,
-- Séchage très rapide de lencre, idéal pour gauchers
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B005CAKZ6W/?tag=tolees0d-21)

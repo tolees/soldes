@@ -26,9 +26,9 @@ C'est en vente [Disque Dur Externe 2to Type C USB3.0 pour PC  Mac  Ordinateur de
 ℹ️:
 
 - Contenu : 1 disque dur externe portable, 1 câble USB 3.0.
-- Disque dur externe 6,3 cm : ultra fin, boîtier en métal, étanche, résistant aux chutes, résistant aux rayures.
-- Transfert de données rapide avec SuperSpeed USB 3.0 : la vitesse de transfert de données est jusquà 5 Gbit/s (625 Mo/s), soit environ dix fois plus rapide que la norme USB 2.0. Et le disque dur externe compatible avec 2.0
 - Disque dur externe compatible avec Microsoft Windows 10, Windows 8.1, Windows 8, Windows 7 reformés pour Mac OS.
+- Disque dur externe 6,3 cm : ultra fin, boîtier en métal, étanche, résistant aux chutes, résistant aux rayures.
 - Prêt à lemploi pour PC Windows, Mac, ordinateur de bureau, ordinateur portable, MacBook, Chromebook, Xbox One, Xbox 360.
+- Transfert de données rapide avec SuperSpeed USB 3.0 : la vitesse de transfert de données est jusquà 5 Gbit/s (625 Mo/s), soit environ dix fois plus rapide que la norme USB 2.0. Et le disque dur externe compatible avec 2.0
 
 [Achète-le!!](https://www.amazon.fr/dp/B08QHF1VS1/?tag=tolees0d-21)
