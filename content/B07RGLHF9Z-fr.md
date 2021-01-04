@@ -26,7 +26,7 @@ C'est en vente [My Kronoz ZESPORT 2 Montre connectée Adulte Unisexe  Blanc](htt
 ℹ️:
 
 - Accéléromètre 6 axes, capteur cardiaque optique, GPS intégré et un altimètre
-- ZeSport2 est une montre multisport polyvalente et élégante qui suit votre activité journalière en temps réel
 - ZeSport2 propose un ensemble complet de fonctionnalités connectées comme les notifications smartphone, rappels et contrôle de la musique, devenant ainsi le compagnon parfait pour toutes vos aventures.
+- ZeSport2 est une montre multisport polyvalente et élégante qui suit votre activité journalière en temps réel
 
 [Achète-le!!](https://www.amazon.fr/dp/B07RGLHF9Z/?tag=tolees0d-21)
