@@ -25,11 +25,11 @@ Vous avez [Samsung - Montre Galaxy Watch Active 2 4G - Acier 44 mm - Argent Glac
 
 ℹ️:
 
+- Robuste, boitier en acier inoxydable 316L
+- Lunette rotative numérique
+- Connectivité cellulaire
 - Fine 10,9 mm
 - Grand écran aux bords fins
 - La Galaxy Watch Active2 suit votre rythme grâce à ses certifications IP68 et 5ATM
-- Robuste, boitier en acier inoxydable 316L
-- Connectivité cellulaire
-- Lunette rotative numérique
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W7N34FJ/?tag=tolees0d-21)

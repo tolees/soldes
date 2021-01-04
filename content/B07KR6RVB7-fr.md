@@ -25,10 +25,10 @@ C'est en vente [Clarks Un Costa Lace  Derbys Homme  Cuir Marron Clair  43 EU](ht
 
 ℹ️:
 
-- Doublure : cuir
 - Semelle intérieure amovible : true
-- Matériau de semelle : synthétique
-- Semelle intérieure : cuir
 - Dessus : autres cuir
+- Semelle intérieure : cuir
+- Doublure : cuir
+- Matériau de semelle : synthétique
 
 [Achète-le!!](https://www.amazon.fr/dp/B07KR6RVB7/?tag=tolees0d-21)

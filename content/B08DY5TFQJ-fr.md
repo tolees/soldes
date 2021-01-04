@@ -25,10 +25,10 @@ C'est en vente [Samsung - Montre Galaxy Watch 3 R855 - 41 mm Version 4G - Mystic
 
 ℹ️:
 
+- fonctionnalités sport et bien-être
 - personnalisation cadran et bracelet
 - Design affirmé avec lunette rotative
-- Etanche IP68 et GPS intégré
 - Bluetooth 5.0
-- fonctionnalités sport et bien-être
+- Etanche IP68 et GPS intégré
 
 [Achète-le!!](https://www.amazon.fr/dp/B08DY5TFQJ/?tag=tolees0d-21)
