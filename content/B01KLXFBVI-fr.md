@@ -25,10 +25,10 @@ C'est en vente [Remington Sèche-Cheveux Professionnel Ionique 2400W  Températu
 
 ℹ️:
 
-- Technologie intelligente Opti Heat et fonction Style Shot qui adapte la chaleur intelligemment pour former, sculpter et fixer votre coiffure. Technologie ionique pour un résultat sans frisottis.
-- 1 concentrateur 7mm, 1 diffuseur, grille arrière amovible.
-- Puissance 2400W, moteur AC, 2 vitesses.
 - Fonction Style : augmente la puissance de 400W et diffuse la chaleur là où il faut pour un style plus en volume.
 - 3 Températures, air froid pour une tenue longue durée.
+- Technologie intelligente Opti Heat et fonction Style Shot qui adapte la chaleur intelligemment pour former, sculpter et fixer votre coiffure. Technologie ionique pour un résultat sans frisottis.
+- Puissance 2400W, moteur AC, 2 vitesses.
+- 1 concentrateur 7mm, 1 diffuseur, grille arrière amovible.
 
 [Achète-le!!](https://www.amazon.fr/dp/B01KLXFBVI/?tag=tolees0d-21)

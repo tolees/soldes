@@ -25,8 +25,8 @@ Vous avez [Romance of the Three Kingdoms XIV pour PS4](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Retrouvez plus de 1000 personnages historiques repris de la Romance des trois royaumes
 - Devenez maître dans l’art de la guerre
+- Retrouvez plus de 1000 personnages historiques repris de la Romance des trois royaumes
 - Recrutez vos officiers préférés et formez votre armée idéale
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Z75QZ4K/?tag=tolees0d-21)
