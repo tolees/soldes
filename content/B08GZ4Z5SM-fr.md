@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SUPER MARIO 3D - ALL STARS avec 36.43 % rabais '
-date: 2021-01-03 18:53:04
+date: 2021-01-04 19:58:49
 image: 'https://m.media-amazon.com/images/I/51TSMkXij3L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08GZ4Z5SM/?tag=tolees0d-21'
 descuento: '36.43'
-average: '47.02496402877697'
+average: '46.98900709219858'
 ---
 
 C'est en vente [SUPER MARIO 3D - ALL STARS](https://www.amazon.fr/dp/B08GZ4Z5SM/?tag=tolees0d-21)  à  36.43 % de réduction, prix final  44.49 EUR (original: 69.99 EUR) ici:

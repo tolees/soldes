@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PUMA Smash v2 Leather  Baskets Femme  Wh avec 34.30 % rabais '
-date: 2021-01-03 18:36:56
+date: 2021-01-04 19:45:00
 image: 'https://m.media-amazon.com/images/I/31CtiC1XhuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B077MLPMX1/?tag=tolees0d-21'
 descuento: '34.30'
-average: '38.30762711864407'
+average: '38.21666666666667'
 ---
 
 C'est en vente [PUMA Smash v2 Leather  Baskets Femme  White White  38 EU](https://www.amazon.fr/dp/B077MLPMX1/?tag=tolees0d-21)  à  34.30 % de réduction, prix final  32.85 EUR (original: 50.0 EUR) ici:
@@ -26,10 +26,10 @@ C'est en vente [PUMA Smash v2 Leather  Baskets Femme  White White  38 EU](https:
 ℹ️:
 
 - Fermeture: Lacets
-- Matériau de semelle: Caoutchouc
-- Doublure: Mesh
 - Semelle intérieure: Synthétique
-- Type de talons: Plat
+- Matériau de semelle: Caoutchouc
 - Dessus: Autres Cuir
+- Type de talons: Plat
+- Doublure: Mesh
 
 [Achète-le!!](https://www.amazon.fr/dp/B077MLPMX1/?tag=tolees0d-21)
