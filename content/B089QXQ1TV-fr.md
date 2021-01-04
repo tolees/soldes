@@ -25,9 +25,9 @@ C'est en vente [Samsung 870 QVO 1 To 2 5   SATA III SSD interne  MZ-77Q1T0BW ](h
 
 ℹ️:
 
-- Seconde génération de la gamme QVO, plus performant et encore plus rapide
-- Garantie 3 ans
 - Performances améliorées de 15% (par rapport au précédent modèle)
 - Disponible jusquà 8 To
+- Seconde génération de la gamme QVO, plus performant et encore plus rapide
+- Garantie 3 ans
 
 [Achète-le!!](https://www.amazon.fr/dp/B089QXQ1TV/?tag=tolees0d-21)

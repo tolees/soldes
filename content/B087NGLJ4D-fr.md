@@ -25,9 +25,9 @@ Vous avez [Funko- Pop Lakers-10 NBA 10" Lebron James Purple Jersey  Figurine de 
 
 ℹ️:
 
-- Découvrez tous les autres produits Funko dédiés à lunivers NBA! Collectionnez-les tous!
-- Issue de la gamme NBA, la figurine 10" LeBron James(Purple Jersey) rejoint la collection Funko POP
 - Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Chaque personnage mesure environ 25 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Issue de la gamme NBA, la figurine 10" LeBron James(Purple Jersey) rejoint la collection Funko POP
+- Découvrez tous les autres produits Funko dédiés à lunivers NBA! Collectionnez-les tous!
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B087NGLJ4D/?tag=tolees0d-21)

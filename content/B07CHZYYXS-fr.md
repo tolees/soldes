@@ -25,9 +25,9 @@ C'est en vente [Levi s SS Original HM Tee T-Shirt  Cotton + Patch Black  L Homme
 
 ℹ️:
 
+- 100 % coton
 - Manches courtes
 - Col rond
-- 100 % coton
 - Jersey
 - Col rond
 

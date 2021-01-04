@@ -25,7 +25,7 @@ C'est en vente [MAKITA 195563-0 - Base de dos manos para modelo RT0700](https://
 
 ℹ️:
 
-- Fabrication sous des contrôles stricts
 - MAKITA 195563-0 - Base de dos manos para modelo RT0700
+- Fabrication sous des contrôles stricts
 
 [Achète-le!!](https://www.amazon.fr/dp/B00BCWA5PU/?tag=tolees0d-21)
