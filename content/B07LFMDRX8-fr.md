@@ -25,10 +25,10 @@ Vous avez [Motorola Baby Comfort 75 - Babyphone Vidéo avec Écran 5.0"  Éco-Mo
 
 ℹ️:
 
-- Technologie sans fil 2.4 ghz fhss ✔ babyphone avec technologie sans interférences 2.4 ghz fhss et éco mode pour réduire la puissance de transmission et pour augmenter autonomie de la batterie
-- Micro à haute sensibilité ✔ avec haut-parleur et microphone intégrés, vous permet de parler et rassurer votre bébé depuis une autre pièce, sans avoir à se déplacer
 - Commande à distance: zoom ✔ le commande à distance de panorama, inclinaison digital et zoom et vision nocturne infrarouge vous donnent une vue complète de toute la pièce
 - Affichage de la température ambiante ✔ capteur de température qui vous permet de savoir la température de la chambre du bébé
+- Technologie sans fil 2.4 ghz fhss ✔ babyphone avec technologie sans interférences 2.4 ghz fhss et éco mode pour réduire la puissance de transmission et pour augmenter autonomie de la batterie
+- Micro à haute sensibilité ✔ avec haut-parleur et microphone intégrés, vous permet de parler et rassurer votre bébé depuis une autre pièce, sans avoir à se déplacer
 - Écran couleur de 5.0” ✔ avec un écran couleur de 5.0 ", Vous pouvez surveiller votre bébé nimporte où dans la maison
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LFMDRX8/?tag=tolees0d-21)

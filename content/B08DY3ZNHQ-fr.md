@@ -25,9 +25,9 @@ C'est en vente [Samsung - Montre Galaxy Watch 3 R855 - 41 mm Version 4G- Mystic 
 
 ℹ️:
 
-- fonctionnalités sport et bien-être
-- personnalisation cadran et bracelet
 - Bluetooth 5.0
+- personnalisation cadran et bracelet
+- fonctionnalités sport et bien-être
 - Modèles de téléphones compatibles : Smartphone Android 5.0 et versions ultérieures avec 1,5 GO de RAM
 - Composants inclus : Galaxy Watch 3, bracelet en cuir, brins en taille M/L, socle de charge sans fil, guide de prise en main
 - Etanche IP68 et GPS intégré
