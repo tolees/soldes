@@ -28,7 +28,7 @@ Vous avez [Oral-B Répare Gencives Et Émail Original Dentifrice 75 ml](https:/
 - Il traite les gencives grâce à une action antibactérienne
 - Aide à revitaliser les gencives et à réparer l’émail en 2 semaines
 - Dentifrice pour dents sensibles
-- Il protège les dents contre l’érosion acide et aide à réparer l’émail
 - Dentifrice avec un arôme plus neutre et une texture plus douce
+- Il protège les dents contre l’érosion acide et aide à réparer l’émail
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B071GG5X2V/?tag=tolees0d-21)

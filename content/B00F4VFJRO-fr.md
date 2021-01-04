@@ -25,8 +25,8 @@ Vous avez [Peppa Pig Peppa Pig Classroom Playset](https://www.amazon.fr/dp/B00F4
 
 ℹ️:
 
-- Peppa Pig
-- Peppas classmates
 - Role Play
+- Peppas classmates
+- Peppa Pig
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00F4VFJRO/?tag=tolees0d-21)
