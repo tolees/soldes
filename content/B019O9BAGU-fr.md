@@ -25,11 +25,11 @@ C'est en vente [Under Armour UA TAC Performance Polo Chemise Homme  Noir  M](htt
 
 ℹ️:
 
-- Poche à stylos sur le bras gauche
 - L’indice de protection UV SPF 3 protège votre peau des rayons nocifs du soleil
+- Poche à stylos sur le bras gauche
 - Logo ton sur ton au dos
-- La technologie anti-odeur empêche la prolifération des microbes responsables des mauvaises odeurs
 - Le système Moisture Transport d’Under Armour élimine la transpiration et sèche rapidement
+- La technologie anti-odeur empêche la prolifération des microbes responsables des mauvaises odeurs
 - La matière 4-Way Stretch procure une plus grande liberté de mouvement, quelle que soit la direction
 
 [Achète-le!!](https://www.amazon.fr/dp/B019O9BAGU/?tag=tolees0d-21)
