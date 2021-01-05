@@ -1,25 +1,25 @@
 ---
 layout: post
-title: '27.38 % rabais sur FILA Disruptor WMN  Baskets Femme  White'
-date: 2021-01-04 00:48:59
+title: '27.36 % rabais sur FILA Disruptor WMN  Baskets Femme  White'
+date: 2021-01-05 02:15:06
 image: 'https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B078WQ6L8F-fr'
-actualPrice: 72.58 EUR
+actualPrice: 72.6 EUR
 currency: EUR
-price: 72.58
+price: 72.6
 comparePrice: 99.95 EUR
 prodname: 'FILA Disruptor WMN  Baskets Femme  White 1Fg  38 EU'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078WQ6L8F/?tag=tolees0d-21'
-descuento: '27.38'
-average: '68.56360000000001'
+descuento: '27.36'
+average: '68.86259259259259'
 ---
 
-Vous avez [FILA Disruptor WMN  Baskets Femme  White 1Fg  38 EU](https://www.amazon.fr/dp/B078WQ6L8F/?tag=tolees0d-21)  à  27.38 % de réduction, prix final  72.58 EUR (original: 99.95 EUR) ici:
+Vous avez [FILA Disruptor WMN  Baskets Femme  White 1Fg  38 EU](https://www.amazon.fr/dp/B078WQ6L8F/?tag=tolees0d-21)  à  27.36 % de réduction, prix final  72.6 EUR (original: 99.95 EUR) ici:
 
 [![FILA Disruptor WMN  Baskets Femme  White](https://m.media-amazon.com/images/I/41+FgQPGBjL._SL200_.jpg)](https://www.amazon.fr/dp/B078WQ6L8F/?tag=tolees0d-21)
 
