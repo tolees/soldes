@@ -25,10 +25,10 @@ Vous avez [Sylvanian Families - Le Village - La Salle A Manger - 5340 - Meubles 
 
 ℹ️:
 
-- Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions: la famille, La nature et lamour. Ce sont des jouets parfaits pour imaginer des histoires et sépanouir.
-- Des souvenirs pour la vie !
-- Mobilier idéal pour laménagement des maisons de Mini-poupées (environ 8cm)
 - À partir de 3 ans.
+- Des souvenirs pour la vie !
 - Contient 19 pièces de meubles et accessoires.
+- Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions: la famille, La nature et lamour. Ce sont des jouets parfaits pour imaginer des histoires et sépanouir.
+- Mobilier idéal pour laménagement des maisons de Mini-poupées (environ 8cm)
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MSLD684/?tag=tolees0d-21)

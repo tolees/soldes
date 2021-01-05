@@ -25,8 +25,8 @@ Vous avez [Fisher-Price Linkimals Matthieu le Paresseux  jouet bébé interactif
 
 ℹ️:
 
-- Lorsque les autres amis Linkimals sont placés les uns à coté des autres, ils intéragissent (Tous vendus séparément. Certains produits peuvent ne pas être commercialisés)
 - Avec à ce jouet déveil et musical, bébé est entrainé par le rythme et développe sa motricité globale et ses capacité sensorielles
+- Lorsque les autres amis Linkimals sont placés les uns à coté des autres, ils intéragissent (Tous vendus séparément. Certains produits peuvent ne pas être commercialisés)
 - Bébé appuie sur les boutons et il entend des chansons et des expressions sur les chiffres, les couleurs, les contraires et l’alphabet
 - Jouet pour bébé dès 9 mois
 - Mathieu le Parresseux est un jouet lumineux qui émerveillera bébé. Son ventre sillumine de lumières colorées et attrayantes
