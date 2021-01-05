@@ -25,9 +25,9 @@ C'est en vente [La Pat  Patrouille - 6058329 - Jeu Jouet enfant - Mega Véhicule
 
 ℹ️:
 
+- VÉHICULE INTERACTIF : le méga véhicule de Police dispose deffets sonores et lumineux pour partir en mission
 - PARS EN MISSION SUR TOUS LES TERRAINS : lance les 2 motos à toute vitesse, pars en mission maritime avec le bateau et déploie lhélicoptère pour une mission aérienne
 - CONTENU : 4 mini véhicules dont 2 motos, un bateau et un hélicoptère avec hélice motorisée + une figurine de Chase
 - MEGA VEHICULE DE POLICE 5 EN 1 : il peut accueillir les 6 chiots de la Pat Patrouille et dispose de 4 mini-véhicules : 2 motos, un bateau et un hélicoptère
-- VÉHICULE INTERACTIF : le méga véhicule de Police dispose deffets sonores et lumineux pour partir en mission
 
 [Achète-le!!](https://www.amazon.fr/dp/B0848H7XDX/?tag=tolees0d-21)

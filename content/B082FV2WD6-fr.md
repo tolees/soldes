@@ -25,9 +25,9 @@ Vous avez [Replay New Luz Jeans  009 Medium Blue  30W x 28L Femme](https://www.a
 
 ℹ️:
 
-- Design tendance.
 - Aspect denim authentique
 - Haute qualité
 - Confortable à porter.
+- Design tendance.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B082FV2WD6/?tag=tolees0d-21)
