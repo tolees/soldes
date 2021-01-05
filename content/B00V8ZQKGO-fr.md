@@ -25,14 +25,14 @@ Vous avez [Tefal Classic 2 Cuiseur A Riz 3L Cuve Anti-Adhesive Arrêt Automatiqu
 
 ℹ️:
 
-- Garantie 2 ans Réparabilité 10 ans
 - NETTOYAGE FACILE : cuve amovible anti-adhésive
-- ACCESSOIRES : panier vapeur, cuillère à riz, verre doseur
-- CAPACITE : capacité totale de 3L
-- PRATIQUE : cuiseur à riz 3L et cuiseur vapeur
+- FACILE A RANGER : compact
+- Garantie 2 ans Réparabilité 10 ans
 - CUISSON SANS SURVEILLANCE : cuisson et maintien au chaud automatique
+- ACCESSOIRES : panier vapeur, cuillère à riz, verre doseur
 - COMPATIBLE LAVE VAISSELLE : couvercle, panier vapeur, cuve
 - Possibilité de cuire jusquà 6 tasses ou 1L de riz cru (pour trois fois son volume cuit) ; 1 tasse = environ 150 gr ou 180 ml de riz cru
-- FACILE A RANGER : compact
+- PRATIQUE : cuiseur à riz 3L et cuiseur vapeur
+- CAPACITE : capacité totale de 3L
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00V8ZQKGO/?tag=tolees0d-21)
