@@ -25,10 +25,10 @@ Vous avez [eXtremeRate 2 Kits de Béquille de Remplacement pour Nintendo Switch 
 
 ℹ️:
 
-- Différentes conceptions pour correspondre à la coque arrière de votre console Switch personnalisée deXtremeRate.
-- Fabriqué en plastique solide durable de haute qualité; Facile à installer et à détacher.
 - Idéal pour remplacer vos pièces dorigine cassées, endommagées, fissurées.
-- L’Emballage Inclut 2 * béquilles pour Nintendo Switch, 2 * support fixe en métal, 4 * vis, 1 * tournevis PH00. (Remarque: la console nest pas incluse.)
+- Différentes conceptions pour correspondre à la coque arrière de votre console Switch personnalisée deXtremeRate.
 - Béquille de remplacement conçue pour sadapter parfaitement à Nintendo Switch Console.
+- Fabriqué en plastique solide durable de haute qualité; Facile à installer et à détacher.
+- L’Emballage Inclut 2 * béquilles pour Nintendo Switch, 2 * support fixe en métal, 4 * vis, 1 * tournevis PH00. (Remarque: la console nest pas incluse.)
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08QCW85L8/?tag=tolees0d-21)

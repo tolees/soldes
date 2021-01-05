@@ -25,9 +25,9 @@ Vous avez [LBL Sweat Polaire Homme Chaud Hiver à Capuche zippé Veste de Manche
 
 ℹ️:
 
+- Taille S, M, L, XL, 2XL pour vous à choisir.V euillez consulter la tableau des tailles avant l’achat. Si vous avez des questions, nous serons heureux de pouvoir vous rendre service.
+- Style sportif et moderne : Dessin imprimé de l’épaule gauche, simple et à la mode. Parfait pour la vie quotidienne, la course, le sport, les fêtes et les voyages.
 - Sweat Hiver Chaud : Tissu de 100% polyester de haute qualité, l’intérieur en polaire, bien chaude et toute douce, Il vous fait sentir à laise et chaud. Les poignets et lourlet de veste ont une construction côtelée pour vous garder au chaud dans le temps froid. Ce veste est indispensable pour passer lhiver.
 - Poches Zippés de haute qualité et design simple, pour éviter que les objets dans les poches ne tombent, très pratique dans votre vie quotidienne.
-- Style sportif et moderne : Dessin imprimé de l’épaule gauche, simple et à la mode. Parfait pour la vie quotidienne, la course, le sport, les fêtes et les voyages.
-- Taille S, M, L, XL, 2XL pour vous à choisir.V euillez consulter la tableau des tailles avant l’achat. Si vous avez des questions, nous serons heureux de pouvoir vous rendre service.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F2CWZGV/?tag=tolees0d-21)

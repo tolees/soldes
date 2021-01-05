@@ -25,15 +25,15 @@ Vous avez [Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU](https://ww
 
 ℹ️:
 
-- Poids Max 50.0g
-- NAND Type: Samsung V-NAND 3bit MLC
-- Garantie: 5ans. Température de fonctionnement: 0 - 70℃
-- Capacité: 250 Go (la capacité réelle peut être inférieure (une certaine partie de la capacité peut être utilisée par le formatage, le système d’exploitation ou d’autres applications)
 - Interface : SATA 6 Go/s (compatible avec SATA 3 Go/s et SATA 1,5 Go/s). TRIM pris en charge
+- Capacité: 250 Go (la capacité réelle peut être inférieure (une certaine partie de la capacité peut être utilisée par le formatage, le système d’exploitation ou d’autres applications)
+- Garantie: 5ans. Température de fonctionnement: 0 - 70℃
+- NAND Type: Samsung V-NAND 3bit MLC
 - Jusquà 550Mo/s de lecture séquentielle et 520Mo/s décriture séquentielle
-- 1.5 Million Hours Reliability (MTBF)
-- Mémoire cache: 512 Mo LPDDR4
 - Chocs: 1,500G & 0,5ms
+- Mémoire cache: 512 Mo LPDDR4
+- 1.5 Million Hours Reliability (MTBF)
+- Poids Max 50.0g
 - Lecture aléatoire (4Ko, QD1):Jusquà 10000 IOPS et écriture aléatoire (4Ko, QD1): Jusquà 42 000 IOPS (les performances de lecture et décriture aléatoires peuvent varier en fonction du matériel et de la configuration du système)
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21)

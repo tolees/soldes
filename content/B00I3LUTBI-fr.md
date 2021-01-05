@@ -25,9 +25,9 @@ C'est en vente [Sony MDR-EX110LPW Ecouteurs Intra-auriculaires - Blanc](https://
 
 ℹ️:
 
-- Diaphragmes en néodyme de 9 mm
-- Télécommande / micro intégrés au cordon pour les smartphones
 - Ecouteurs intra-auriculaires avec diaphragmes en néodymes de 9 mm et télécommande / micro intégrés au cordon pour les smartphones
 - Gamme de fréquences 5-24 000Hz
+- Diaphragmes en néodyme de 9 mm
+- Télécommande / micro intégrés au cordon pour les smartphones
 
 [Achète-le!!](https://www.amazon.fr/dp/B00I3LUTBI/?tag=tolees0d-21)
