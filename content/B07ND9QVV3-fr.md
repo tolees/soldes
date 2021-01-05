@@ -25,10 +25,10 @@ C'est en vente [LEGO®-Disney Princess™ La boîte à bijoux d Elsa Inspiré du
 
 ℹ️:
 
-- Construisez ne boîte à bijoux La Reine des neiges II de Disney, pour ranger précieusement tous les petits trésors
 - Issu de lunivers du film La Reine des Neige 2
-- 300 pièces pour les filles et les garçons de 6 ans et plus
 - Inclut une mini-poupée Elsa et un Nokk Lego
 - Les ensembles Lego Disney Princess sont compatibles avec les autres ensembles de construction Lego pour une expérience de construction sans limite
+- 300 pièces pour les filles et les garçons de 6 ans et plus
+- Construisez ne boîte à bijoux La Reine des neiges II de Disney, pour ranger précieusement tous les petits trésors
 
 [Achète-le!!](https://www.amazon.fr/dp/B07ND9QVV3/?tag=tolees0d-21)
