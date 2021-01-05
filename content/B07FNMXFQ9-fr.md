@@ -25,10 +25,10 @@ C'est en vente [LEGO City - La chargeuse - 60219 - Jeu de construction](https://
 
 ℹ️:
 
-- Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
-- 88 pièces pour les filles et les garçons de 5 ans et plus.
-- Construisez la robuste chargeuse LEGO City.
-- Comprend une figurine d’ouvrier sur la route LEGO City.
 - La chargeuse mesure plus de 7 cm de haut, 12 cm de long et 5 cm de large. La clôture et le pieu en béton mesurent plus de 4 cm de large.
+- Comprend une figurine d’ouvrier sur la route LEGO City.
+- Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- Construisez la robuste chargeuse LEGO City.
+- 88 pièces pour les filles et les garçons de 5 ans et plus.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07FNMXFQ9/?tag=tolees0d-21)
