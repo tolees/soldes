@@ -25,10 +25,10 @@ C'est en vente [Richard Strauss - Salome / Stratas  Weikl  Varnay  Beirer  VPO  
 
 ℹ️:
 
-- Catalog#: 00440 0734339
 - Country Of Release: NLD
-- Record Label: Deutsche Grammophon
 - Notes: Ntsc/All Regions // W/Wiener Philharmoniker/Karl Bohm
 - Year Of Release: 2007
+- Record Label: Deutsche Grammophon
+- Catalog#: 00440 0734339
 
 [Achète-le!!](https://www.amazon.fr/dp/B000NVL49W/?tag=tolees0d-21)
