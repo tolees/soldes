@@ -26,8 +26,8 @@ Vous avez [Makita HG650CKIT Décapeur Thermique avec Coffret de Rangement](https
 ℹ️:
 
 - Dimensions des colis darticles : 9.6 x 29.6 x 29.8 cm
-- Couleur : Bleu
 - Poids du colis de larticle : 1.66 kg
+- Couleur : Bleu
 - Fabriqué en France
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B003VEGC8G/?tag=tolees0d-21)

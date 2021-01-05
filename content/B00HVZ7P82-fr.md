@@ -25,8 +25,8 @@ Vous avez [BLACK+DECKER BL2018-XJ Batterie lithium  18V  Noir ](https://www.amaz
 
 ℹ️:
 
-- Une batterie au poids plume qui garantit une compacité et une légèreté hors du commun
-- Technologie lithium pas deffet mémoire et faible autodécharge
 - Cette batterie 18V est interchangeable avec tous les outils sans fil black&decker, aussi bien en bricolage quen jardin. un vrai plus !
+- Technologie lithium pas deffet mémoire et faible autodécharge
+- Une batterie au poids plume qui garantit une compacité et une légèreté hors du commun
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HVZ7P82/?tag=tolees0d-21)

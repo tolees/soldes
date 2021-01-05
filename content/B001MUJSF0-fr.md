@@ -25,8 +25,8 @@ Vous avez [Rued Langgaard : Les symphonies](https://www.amazon.fr/dp/B001MUJSF0/
 
 ℹ️:
 
-- Catalog#: 6200001
 - Record Label: Naxos
 - Year Of Release: 2008
+- Catalog#: 6200001
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B001MUJSF0/?tag=tolees0d-21)

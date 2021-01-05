@@ -25,10 +25,10 @@ C'est en vente [HoMedics - HM NOMA-2000 - Coussin Masseur Shiatsu Multizone sans
 
 ℹ️:
 
-- Coussin massant multizones: dos, nuque, jambes
-- Massage shiatsu personnalisable pour dénouer les muscles: 2 sens de rotation et 3 vitesses de rotation
 - Fonction chaleur apaisante pour un bien-être total
+- Massage shiatsu personnalisable pour dénouer les muscles: 2 sens de rotation et 3 vitesses de rotation
 - Batterie lithium intégré pour un massage sans fil (12 heures dautonomie) où vous le voulez
+- Coussin massant multizones: dos, nuque, jambes
 - Télécommande pratique
 
 [Achète-le!!](https://www.amazon.fr/dp/B07CYW93B5/?tag=tolees0d-21)
