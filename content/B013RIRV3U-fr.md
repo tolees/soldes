@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Le Hobbit - Version Longue - La Trilogie al 50.18 % de descuento'
-date: 2020-12-07 18:27:19
+title: 'Le Hobbit - Version Longue - La Trilogie avec 50.18 % rabais '
+date: 2021-01-06 11:28:05
 image: 'https://m.media-amazon.com/images/I/517UBXfjmfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,15 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B013RIRV3U/?tag=tolees0d-21'
 descuento: '50.18'
+average: '32.49'
 ---
 
-Está [Le Hobbit - Version Longue - La Trilogie - Coffret Blu-Ray [Version longue - Blu-ray] [Version longue - Blu-ray]](https://www.amazon.fr/dp/B013RIRV3U/?tag=tolees0d-21) con 50.18 de descuento por 32.49 EUR (original: 65.21 EUR) en el siguiente enlace!
+C'est en vente [Le Hobbit - Version Longue - La Trilogie - Coffret Blu-Ray [Version longue - Blu-ray] [Version longue - Blu-ray]](https://www.amazon.fr/dp/B013RIRV3U/?tag=tolees0d-21)  à  50.18 % de réduction, prix final  32.49 EUR (original: 65.21 EUR) ici:
 
 [![Le Hobbit - Version Longue - La Trilogie](https://m.media-amazon.com/images/I/517UBXfjmfL._SL200_.jpg)](https://www.amazon.fr/dp/B013RIRV3U/?tag=tolees0d-21)
 
 ℹ️:
 
+- filtre
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B013RIRV3U/?tag=tolees0d-21)
+[Achète-le!!](https://www.amazon.fr/dp/B013RIRV3U/?tag=tolees0d-21)
