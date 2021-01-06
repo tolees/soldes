@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'James Bond 007-La Collection Daniel Crai avec 46.44 % rabais '
-date: 2021-01-04 15:03:51
+date: 2021-01-06 15:50:41
 image: 'https://m.media-amazon.com/images/I/41iKqa84iFL._SL200_.jpg'
 comments: true
 category: ofertas
