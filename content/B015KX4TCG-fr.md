@@ -25,8 +25,8 @@ Vous avez [Martini Rosso 100cl - Lot de 6](https://www.amazon.fr/dp/B015KX4TCG/?
 
 ℹ️:
 
-- Découvrez notre initiative Slow Drinking : un art de vivre qui consiste à prendre le temps de préparer, partager et savourer un cocktail. Cette dégustation permet alors à la qualité, celle de la boisson et du moment, de prendre le pas sur la quantité pour favoriser une consommation modérée, seule véritable source de plaisir.
 - Il doit sa couleur rouge au caramel utilisé lors de son assemblage selon un procédé unique.
+- Découvrez notre initiative Slow Drinking : un art de vivre qui consiste à prendre le temps de préparer, partager et savourer un cocktail. Cette dégustation permet alors à la qualité, celle de la boisson et du moment, de prendre le pas sur la quantité pour favoriser une consommation modérée, seule véritable source de plaisir.
 - Le vermouth MARTINI Rosso se distingue par la douceur de son goût aux notes dorange et dagrumes.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B015KX4TCG/?tag=tolees0d-21)
