@@ -26,9 +26,9 @@ C'est en vente [Thule VeloSpace XT 2  Porte-vélos sur boule d attelage polyvale
 ℹ️:
 
 - Nombre max. de vélos : 2 à 3 vélos / Convient aux cadres de dimensions : 22-80 mm
-- Dimensions du porte-vélo : 135 x 69 x 79 cm / Dimensions du porte-vélo plié : 135 x 74 x 25 cm
+- Porte-vélos polyvalent pour tout type de vélos, des vélos électriques aux vélos de grande taille en passant par les vélos pour enfants.
 - Distance entre les vélos : 25 cm VeloSpace XT 2 (13 broches) pour 2 vélos (Adaptateur nécessaire pour passer à 3 vélos) à monter sur boule dattelage
 - Poids du porte-vélo : 18.7 kg / Capacité de charge : 60 Kg / Poids max. par vélo : 30 kg
-- Porte-vélos polyvalent pour tout type de vélos, des vélos électriques aux vélos de grande taille en passant par les vélos pour enfants.
+- Dimensions du porte-vélo : 135 x 69 x 79 cm / Dimensions du porte-vélo plié : 135 x 74 x 25 cm
 
 [Achète-le!!](https://www.amazon.fr/dp/B077ZBTBVB/?tag=tolees0d-21)

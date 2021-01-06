@@ -25,10 +25,10 @@ Vous avez [OSRAM Smart+ Lot de 4 Spots LED Connectées | Culot GU10 | Dimmable |
 
 ℹ️:
 
-- Culot : GU10
 - Compatible avec la commande vocale "Alexa" de AMAZON via Echos Plus ou Echo Show (2G). Non compatible avec la commande vocale "Dis Siri" de APPLE
-- Fonctions disponibles par défaut ; allumage On/Off ; réduire/augmenter la luminosité ; changement de couleur ; création de groupes de périphériques ; mise en place des scénarios
+- Culot : GU10
 - Puissance : 6 Watts, équivalent à 50 Watts (350 Lumens)
+- Fonctions disponibles par défaut ; allumage On/Off ; réduire/augmenter la luminosité ; changement de couleur ; création de groupes de périphériques ; mise en place des scénarios
 - Technologie Zigbee : nécessite une passerelle compatible (non incluse) comme AMAZON Echo Plus / Echo Show (2G) ou PHILIPS Hue
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B077X6PRHJ/?tag=tolees0d-21)
