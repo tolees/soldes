@@ -26,9 +26,9 @@ Vous avez [Just Dance 2021  Xbox One/Series X ](https://www.amazon.fr/dp/B08GYSG
 ℹ️:
 
 - Ne ratez pas l’occasion de danser !
+- Just Dance 2021 propose plus de 40 nouveaux hits.
+- Affrontez et dansez avec des joueurs du monde entier avec le mode World Dance Floor !
 - Choisissez le mode de jeu adapté à vos envies !
 - Utilisez votre smartphone comme manette avec l’application Just Dance Controller !
-- Affrontez et dansez avec des joueurs du monde entier avec le mode World Dance Floor !
-- Just Dance 2021 propose plus de 40 nouveaux hits.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GYSGWGS/?tag=tolees0d-21)
