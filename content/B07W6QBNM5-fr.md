@@ -25,10 +25,10 @@ C'est en vente [LEGO City Turbo Wheels  L atelier de tuning  Set de construction
 
 ℹ️:
 
+- Inclut un garage, une roulotte de camping et 6 véhicules fascinants, notamment une dépanneuse, un Hot Rod et une moto propulsée par des fusées, ainsi quune niche de chien
+- Les accessoires comprennent une clé, un vérin de voiture, une tasse, un billet de banque, une boîte à pizza, une assiette et des saucisses, du matériel de soudage, une fraiseuse et bien plus encore
 - Le set comporte 7 figurines, dont les personnages de la série télévisée de LEGO City Hari Hubbs Tread Octane, 2 garagistes, 3 clients et la figurine du bouledogue Jawis
 - Les enfants peuvent faire fonctionner le treuil à moteur dans latelier, soulever des voitures avec le vérin, récupérer les véhicules en panne avec la dépanneuse et bien plus encore
 - Les garagistes en herbe tirent le levier pour préparer les voitures au remorquage et tournent le cadran pour faire fonctionner le treuil à moteur avec des fonctions de levage
-- Les accessoires comprennent une clé, un vérin de voiture, une tasse, un billet de banque, une boîte à pizza, une assiette et des saucisses, du matériel de soudage, une fraiseuse et bien plus encore
-- Inclut un garage, une roulotte de camping et 6 véhicules fascinants, notamment une dépanneuse, un Hot Rod et une moto propulsée par des fusées, ainsi quune niche de chien
 
 [Achète-le!!](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)
