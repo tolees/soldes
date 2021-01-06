@@ -25,12 +25,12 @@ C'est en vente [Moulinex Multicuiseur 12 Programmes  Cuiseur Riz  Cuiseur Vapeur
 
 ℹ️:
 
-- Réparabilté 10 ans, Garantie 2 ans
-- Accessoires inclus : panier vapeur, cuillère, verre doseur et livre de recettes
-- La technologie du Multicuiseur 12 en 1 calcule automatiquement les paramètres de cuisson pour une performance optimale
-- 12 programmes qui simplifient les repas du quotidien : risotto, riz, réchauffage, mijotage, cuisson lente, vapeur, soupe, pâtisserie, raviolis, dorage, confiture, yaourts, maintien au chaud et bien plus encore
-- Cuve amovible avec revêtement antiadhésif pour de meilleurs résultats de cuisson
-- Départ différé et maintien au chaud automatique jusquà 24 heures
 - Eléments amovibles compatibles au lave-vaisselle pour faciliter le nettoyage
+- Réparabilté 10 ans, Garantie 2 ans
+- Cuve amovible avec revêtement antiadhésif pour de meilleurs résultats de cuisson
+- La technologie du Multicuiseur 12 en 1 calcule automatiquement les paramètres de cuisson pour une performance optimale
+- Départ différé et maintien au chaud automatique jusquà 24 heures
+- Accessoires inclus : panier vapeur, cuillère, verre doseur et livre de recettes
+- 12 programmes qui simplifient les repas du quotidien : risotto, riz, réchauffage, mijotage, cuisson lente, vapeur, soupe, pâtisserie, raviolis, dorage, confiture, yaourts, maintien au chaud et bien plus encore
 
 [Achète-le!!](https://www.amazon.fr/dp/B0171WOLBS/?tag=tolees0d-21)
