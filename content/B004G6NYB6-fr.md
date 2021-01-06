@@ -26,7 +26,7 @@ Vous avez [Piles LR6 au lithium Energizer Industrial Ultimate  Import Royaume Un
 ℹ️:
 
 - Qualité supérieure.
-- Jetables
 - Marque dorigine
+- Jetables
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B004G6NYB6/?tag=tolees0d-21)
