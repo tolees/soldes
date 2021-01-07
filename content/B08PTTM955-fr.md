@@ -25,10 +25,10 @@ C'est en vente [Disque Dur Externe 1to USB3.1 Type-C Disque Dur Externe Tout-Alu
 
 ℹ️:
 
+- Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi. Lextrémité de type C permet une insertion aveugle des deux côtés.
 - Compatibilité Universelle:TV, Xbox, Windows, Linux, Desktop, Laptop, Android.
-- Pas de pièce détachée et un corps métallique robuste, Waterproof, résistant à la chute. Corps ultra-mince, oids de 37 g seulement, vous pouvez lemporter nimporte où.
 - Ultra-Rapides: USB 3.1( compatible USB 3.0) jusquà 100MB/S, Le protocole UASP augmente la vitesse de 20% par rapport à lUSB3.0 traditionnel.
 - Indicateur LED allume toujours quand il est alimenté, Sil ny a pas dopérations dans 10 minutes, il sera en mode veille pour économiser lénergie. 2 ans de garantie du fabricant.
-- Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi. Lextrémité de type C permet une insertion aveugle des deux côtés.
+- Pas de pièce détachée et un corps métallique robuste, Waterproof, résistant à la chute. Corps ultra-mince, oids de 37 g seulement, vous pouvez lemporter nimporte où.
 
 [Achète-le!!](https://www.amazon.fr/dp/B08PTTM955/?tag=tolees0d-21)
