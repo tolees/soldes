@@ -26,7 +26,7 @@ C'est en vente [Marvel s Avengers  PC ](https://www.amazon.fr/dp/B07TCB65GK/?tag
 ℹ️:
 
 - Rassemblez-vous pour former des équipes allant jusquà quatre joueurs, apprenez à maîtriser des capacités extraordinaires, obtenez de nouveaux héros et personnalisez-les.
-- Lépopée de Marvels Avengers continue avec la sortie régulière de nouveaux héros et de nouvelles histoires. Découvrez lexpérience de jeu Avengers ultime.
 - Rassemblez votre propre équipe des plus grands héros de la Terre, explorez vos pouvoirs, et réalisez vos rêves de super-héros.
+- Lépopée de Marvels Avengers continue avec la sortie régulière de nouveaux héros et de nouvelles histoires. Découvrez lexpérience de jeu Avengers ultime.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07TCB65GK/?tag=tolees0d-21)
