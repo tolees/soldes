@@ -25,10 +25,10 @@ Vous avez [TUTUO Chargeur pour Manette PS5  Rapide de Charge et LED Écran de Vi
 
 ℹ️:
 
-- 【Chargez 2 contrôleurs PS5】 Chargez jusquà 2 contrôleurs ps5 sans fil en même temps sans avoir à les connecter à votre console ps5, économisez de lespace et stockez les deux stations de chargement pour contrôleur sans fil dualsense.
-- 【Conception optimisée】 La station de charge dispose dune puce de protection intégrée et dune fonction de protection contre les surcharges. Le circuit intelligent peut couper lalimentation automatiquement pour assurer la sécurité sans se soucier du processus de charge en cours pendant une longue période et affectant les commandes. Les quatre coins sont équipés de patins antidérapants pour placer de manière stable la manette ps5.
 - 【Démontage facile】 2 dongles USB * C séparés sont inclus, qui peuvent être facilement démontés, et le contrôleur DualSense peut être facilement connecté sans rayer le contrôleur ps5. Un récepteur de charge séparé est plus pratique pour le contrôleur PS5.
-- 【Affichage LED intelligent】 Il y a un indicateur LED bicolore sur lécran de police. Licône dindication correspondante devient rouge lors de la charge et devient verte lorsquelle est complètement chargée / en veille. Apprenez rapidement que la manette a terminé les réglages de charge et continuez lhappy hour du jeu.
+- 【Conception optimisée】 La station de charge dispose dune puce de protection intégrée et dune fonction de protection contre les surcharges. Le circuit intelligent peut couper lalimentation automatiquement pour assurer la sécurité sans se soucier du processus de charge en cours pendant une longue période et affectant les commandes. Les quatre coins sont équipés de patins antidérapants pour placer de manière stable la manette ps5.
+- 【Chargez 2 contrôleurs PS5】 Chargez jusquà 2 contrôleurs ps5 sans fil en même temps sans avoir à les connecter à votre console ps5, économisez de lespace et stockez les deux stations de chargement pour contrôleur sans fil dualsense.
 - 【Charge efficace】 Veuillez utiliser ladaptateur secteur 5V / 2A pour fournir lalimentation. Vous pouvez charger complètement deux contrôleurs ps5 en même temps dans les 4 heures. Pas besoin dattendre. Si la source dalimentation est inférieure à 1,5 A, lindicateur de charge peut clignoter sans charge. [Remarque:] Ladaptateur mural nest pas inclus.
+- 【Affichage LED intelligent】 Il y a un indicateur LED bicolore sur lécran de police. Licône dindication correspondante devient rouge lors de la charge et devient verte lorsquelle est complètement chargée / en veille. Apprenez rapidement que la manette a terminé les réglages de charge et continuez lhappy hour du jeu.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08QMG8LWN/?tag=tolees0d-21)

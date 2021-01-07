@@ -25,7 +25,7 @@ C'est en vente [Bosch 2609256D19 Plateau de ponçage pour Bosch PSM 200 AES  185
 
 ℹ️:
 
-- Système crampon
 - Pays dorigine : Hongrie
+- Système crampon
 
 [Achète-le!!](https://www.amazon.fr/dp/B014T1DFZM/?tag=tolees0d-21)

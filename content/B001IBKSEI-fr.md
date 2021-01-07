@@ -25,8 +25,8 @@ C'est en vente [Bosch Valise de transport en plastique   405 X 350 X 214](https:
 
 ℹ️:
 
-- Permet le stockage et le transport en toute sécurité des outils électriques bosch
-- Valise de transport en coloris vert
 - Il est en plastique léger
+- Valise de transport en coloris vert
+- Permet le stockage et le transport en toute sécurité des outils électriques bosch
 
 [Achète-le!!](https://www.amazon.fr/dp/B001IBKSEI/?tag=tolees0d-21)

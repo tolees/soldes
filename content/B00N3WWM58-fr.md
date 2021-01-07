@@ -25,9 +25,9 @@ Vous avez [Sony MDR-ZX110NAB Casque à Réduction de Bruit - Noir](https://www.a
 
 ℹ️:
 
-- noir**
 - Réponse en fréquence: 10 Hz - 22 000 Hz
 - Sony Casque Micro Jack 3,5Mm Mdrzx110 Noise Cancelling Noir**
+- noir**
 - casque micro jack 3, 5mm mdrzx110 noise cancelling
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00N3WWM58/?tag=tolees0d-21)

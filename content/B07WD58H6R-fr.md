@@ -25,10 +25,10 @@ Vous avez [Sony WH-CH510 Casque Sans Fil Bluetooth avec micro intégré et appel
 
 ℹ️:
 
-- Sleek, swivel fold design for compact on-ear style
-- Built-in microphone, enabling hands free voice calls
-- 10 minutes Quick Charge for 90 minutes playback
-- Connects to your smartphone voice assistant
 - Up to 35 hours long battery life
+- Built-in microphone, enabling hands free voice calls
+- Sleek, swivel fold design for compact on-ear style
+- Connects to your smartphone voice assistant
+- 10 minutes Quick Charge for 90 minutes playback
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21)
