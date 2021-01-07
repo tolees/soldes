@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Richard Strauss - Salome / Stratas  Weik avec 54.49 % rabais '
-date: 2021-01-05 21:45:29
+date: 2021-01-06 23:55:04
 image: 'https://m.media-amazon.com/images/I/41Qg9wEw6ZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ C'est en vente [Richard Strauss - Salome / Stratas  Weikl  Varnay  Beirer  VPO  
 
 ℹ️:
 
-- Year Of Release: 2007
 - Notes: Ntsc/All Regions // W/Wiener Philharmoniker/Karl Bohm
-- Country Of Release: NLD
 - Record Label: Deutsche Grammophon
 - Catalog#: 00440 0734339
+- Country Of Release: NLD
+- Year Of Release: 2007
 
 [Achète-le!!](https://www.amazon.fr/dp/B000NVL49W/?tag=tolees0d-21)

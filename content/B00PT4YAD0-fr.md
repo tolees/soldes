@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '86.63 % rabais sur SILS Maria'
-date: 2021-01-05 21:45:31
+date: 2021-01-06 23:54:12
 image: 'https://m.media-amazon.com/images/I/41LOY3kUb-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21'
 descuento: '86.63'
-average: '4.069999999999999'
+average: '3.1599999999999997'
 ---
 
 Vous avez [SILS Maria](https://www.amazon.fr/dp/B00PT4YAD0/?tag=tolees0d-21)  à  86.63 % de réduction, prix final  1.34 EUR (original: 10.02 EUR) ici:
