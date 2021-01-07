@@ -25,11 +25,11 @@ Vous avez [Sloggi Zero Modal Short Boxer  Noir  Black 04   S Femme](https://www.
 
 ℹ️:
 
-- 1 paire
-- Lavable en machine à 40 °C
-- Numéro du modèle : 1QR44
 - Toucher soyeux et presque invisible sous les vêtements
+- 1 paire
+- Numéro du modèle : 1QR44
 - Bords surélevés
+- Lavable en machine à 40 °C
 - 75 % modal, 25 % élasthanne
 - Finition sans coutures
 

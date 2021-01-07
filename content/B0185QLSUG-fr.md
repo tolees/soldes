@@ -25,10 +25,10 @@ C'est en vente [SONGMICS Pouf Coffre de Rangement Banc Tabouret Pliable tissu Gr
 
 ℹ️:
 
+- Grande capacité - Pouf de rangement grande capacité de 86 L, c’est aussi une banquette pour 2 personnes. Il vous permettra de ranger toutes vos affaires qui pourraient encombrer la chambre
 - Design moderne - La désign est très simple et moderne. Il peut bien s’associer les autres meubles
 - Plus solide - Structure fabriqué en panneaux de fibres de la classe E1. Les bordures sont protégées en pilou pour réduire le frottement. Stable et solide, résistant à la déformation. Charge max. de 300 kg. Poids de 6,62 kg
-- Plus confortable - La couverture est en tissu en sisa et rembourée en mousse de haute qualité, très confortable. La base est anti-frottement et anti-humide
-- Grande capacité - Pouf de rangement grande capacité de 86 L, c’est aussi une banquette pour 2 personnes. Il vous permettra de ranger toutes vos affaires qui pourraient encombrer la chambre
 - Utilisation pratique - Ce banquette de rangement est pliable et prend de petit d’espace. Avec ce coffre de rangement, Vous pourrez y ranger très facilement magazines, jeux, albums, DVD et faire de la place dans votre pièce
+- Plus confortable - La couverture est en tissu en sisa et rembourée en mousse de haute qualité, très confortable. La base est anti-frottement et anti-humide
 
 [Achète-le!!](https://www.amazon.fr/dp/B0185QLSUG/?tag=tolees0d-21)
