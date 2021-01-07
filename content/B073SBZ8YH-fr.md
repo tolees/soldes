@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.43 % rabais sur Western Digital - WD Blue SSD - Disque S'
-date: 2021-01-04 19:42:35
+date: 2021-01-07 07:53:43
 image: 'https://m.media-amazon.com/images/I/41L99Y-L4bL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B073SBZ8YH/?tag=tolees0d-21'
 descuento: '21.43'
-average: '61.19482142857142'
+average: '61.16724444444444'
 ---
 
 Vous avez [Western Digital - WD Blue SSD - Disque SSD interne 2.5" SATA 500Go 3D NAND](https://www.amazon.fr/dp/B073SBZ8YH/?tag=tolees0d-21)  à  21.43 % de réduction, prix final  54.99 EUR (original: 69.99 EUR) ici:
@@ -25,10 +25,16 @@ Vous avez [Western Digital - WD Blue SSD - Disque SSD interne 2.5" SATA 500Go 3D
 
 ℹ️:
 
-- Consommation dénergie active jusquà 25 % plus faible que les générations précédentes de SSD WD Blue
-- SSD SATA NAND 3D pour une capacité maximale de 2 To et une fiabilité accrue
-- Vitesse de lecture séquentielle jusquà 560 Mo/s et vitesse décriture séquentielle jusquà 530 Mo/s
-- Certification WD F.I.T. Lab pour une compatibilité avec une large gamme dordinateurs
-- Durée moyenne de bon fonctionnement entre pannes (MTTF) de 1,75 million dheures, parmi les meilleures du marché, et taux dendurance pouvant atteindre jusquà 500 téraoctets écrits (TBW) pour une fiabilité accrue
+- Monitor your drive’s available capacity, operating temperatures, SMART attributes and more with the WD SSD Dashboard. Acronis True Image WD Edition software
+- Uses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.
+- 5-year limited warranty
+- An SSD is designed with no moving parts to help protect against data loss if it is accidentally bumped or dropped
+- Offering improved endurance, a WD Blue 3D NAND SATA SSD features an active power draw up to 25% lower2 than previous generations of WD Blue SSDs
+- Sequential read speeds up to 560MB/s and sequential write speeds up to 530MB/s
+- 3D NAND SATA SSD for capacities up to 2TB with enhanced reliability
+- An industry-leading 1.75M hours mean time to failure (MTTF) and up to 500 terabytes written (TBW) for enhanced reliability
+- For high-end computing applications like gaming, HD media playback, or creative software
+- An active power draw up to 25% lower than previous generations of WD Blue SSD
+- WD F.I.T. Lab certification for compatibility with a wide range of computers
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SBZ8YH/?tag=tolees0d-21)
