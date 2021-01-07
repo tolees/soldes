@@ -25,8 +25,8 @@ Vous avez [Tommy Hilfiger New Danny - Ceinture - Femme - Noir  Masters Black  - 
 
 ℹ️:
 
-- Fermeture à boucle
-- Cuir véritable
 - 100 % cuir
+- Cuir véritable
+- Fermeture à boucle
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00XDYNPO8/?tag=tolees0d-21)
