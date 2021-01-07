@@ -25,14 +25,14 @@ C'est en vente [Corsair K55 Clavier Gaming  Rétro-Éclairage RGB Multicolore  A
 
 ℹ️:
 
-- Touches silencieuses et réactives : discrétion maximale et confort optimal sans sacrifier la performance
-- Compatibilité : Windows 10, Windows 8, Windows 7, et Windows Vista (non compatible PS4).Taux de rapport clavier HID: 1000Hz
+- Taux de rapport de clavier HID: 1000Hz.Logiciel Keyboard CUE: Pris en charge en iCUE
 - Commandes de volume et multimédia dédiées : réglez le volume audio à la volée sans interrompre votre partie
 - Boutons de volume et multimédia dédiés : réglez vos paramétres audio sans arréter de jouer grâce à un accés direct aux touches volume et lecture multimédia
-- Taux de rapport de clavier HID: 1000Hz.Logiciel Keyboard CUE: Pris en charge en iCUE
-- Rétroéclairage RGB dynamique à trois zones : plus de dix modes déclairage RGB vifs préconfigurés vous permettent de choisir entre un rétroéclairage statique multicolore et des effets lumineux de toute beauté
-- 6 touches de macros programmables : assignez de simples touches ou des combos multitouches plus complexes aux 6 touches de macros dédiées et ce, à la volée, sans passer par un logiciel. Dimensions du clavier: 480.2mm x 166.3mm x 34.6mm
 - Anti-ghosting multitouches : vos commandes et vos combinaisons de touches simultanées produisent leffet escompté
+- Touches silencieuses et réactives : discrétion maximale et confort optimal sans sacrifier la performance
+- 6 touches de macros programmables : assignez de simples touches ou des combos multitouches plus complexes aux 6 touches de macros dédiées et ce, à la volée, sans passer par un logiciel. Dimensions du clavier: 480.2mm x 166.3mm x 34.6mm
+- Compatibilité : Windows 10, Windows 8, Windows 7, et Windows Vista (non compatible PS4).Taux de rapport clavier HID: 1000Hz
+- Rétroéclairage RGB dynamique à trois zones : plus de dix modes déclairage RGB vifs préconfigurés vous permettent de choisir entre un rétroéclairage statique multicolore et des effets lumineux de toute beauté
 - Type de produit : clavier de jeu pour PC.Matrix: 111 clé
 
 [Achète-le!!](https://www.amazon.fr/dp/B01NAL5CUN/?tag=tolees0d-21)
