@@ -25,9 +25,9 @@ C'est en vente [WD Black SN750 NVMe - Disque SSD interne haute-performance pour 
 
 ℹ️:
 
-- A sleek design to customize your gaming rig
-- An exclusive WD black SSD dashboard improves game performance
 - Available in capacities ranging from 250 GB to 1 TB
 - Transfer speeds up to 3470 MB/s for improved load times
+- An exclusive WD black SSD dashboard improves game performance
+- A sleek design to customize your gaming rig
 
 [Achète-le!!](https://www.amazon.fr/dp/B07MH2P5ZD/?tag=tolees0d-21)

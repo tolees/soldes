@@ -1,25 +1,25 @@
 ---
 layout: post
-title: '20.08 % rabais sur Star Wars 9 : L Ascension de Skywalker ['
-date: 2021-01-05 02:18:18
+title: '40.00 % rabais sur Star Wars 9 : L Ascension de Skywalker ['
+date: 2021-01-07 08:22:26
 image: 'https://m.media-amazon.com/images/I/51zX1husj6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B082VW4G2D-fr'
-actualPrice: 19.98 EUR
+actualPrice: 15.0 EUR
 currency: EUR
-price: 19.98
+price: 15.0
 comparePrice: 25.0 EUR
 prodname: 'Star Wars 9 : L Ascension de Skywalker [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B082VW4G2D/?tag=tolees0d-21'
-descuento: '20.08'
-average: '14.931267605633801'
+descuento: '40.00'
+average: '14.933150684931505'
 ---
 
-Vous avez [Star Wars 9 : L Ascension de Skywalker [Blu-Ray]](https://www.amazon.fr/dp/B082VW4G2D/?tag=tolees0d-21)  à  20.08 % de réduction, prix final  19.98 EUR (original: 25.0 EUR) ici:
+Vous avez [Star Wars 9 : L Ascension de Skywalker [Blu-Ray]](https://www.amazon.fr/dp/B082VW4G2D/?tag=tolees0d-21)  à  40.00 % de réduction, prix final  15.0 EUR (original: 25.0 EUR) ici:
 
 [![Star Wars 9 : L Ascension de Skywalker [](https://m.media-amazon.com/images/I/51zX1husj6L._SL200_.jpg)](https://www.amazon.fr/dp/B082VW4G2D/?tag=tolees0d-21)
 

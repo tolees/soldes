@@ -25,16 +25,16 @@ Vous avez [Western Digital - WD Blue SSD - Disque SSD interne 2.5" SATA 500Go 3D
 
 ℹ️:
 
-- Monitor your drive’s available capacity, operating temperatures, SMART attributes and more with the WD SSD Dashboard. Acronis True Image WD Edition software
-- Uses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.
-- 5-year limited warranty
-- An SSD is designed with no moving parts to help protect against data loss if it is accidentally bumped or dropped
-- Offering improved endurance, a WD Blue 3D NAND SATA SSD features an active power draw up to 25% lower2 than previous generations of WD Blue SSDs
-- Sequential read speeds up to 560MB/s and sequential write speeds up to 530MB/s
-- 3D NAND SATA SSD for capacities up to 2TB with enhanced reliability
-- An industry-leading 1.75M hours mean time to failure (MTTF) and up to 500 terabytes written (TBW) for enhanced reliability
-- For high-end computing applications like gaming, HD media playback, or creative software
-- An active power draw up to 25% lower than previous generations of WD Blue SSD
 - WD F.I.T. Lab certification for compatibility with a wide range of computers
+- 5-year limited warranty
+- Monitor your drive’s available capacity, operating temperatures, SMART attributes and more with the WD SSD Dashboard. Acronis True Image WD Edition software
+- Sequential read speeds up to 560MB/s and sequential write speeds up to 530MB/s
+- An industry-leading 1.75M hours mean time to failure (MTTF) and up to 500 terabytes written (TBW) for enhanced reliability
+- 3D NAND SATA SSD for capacities up to 2TB with enhanced reliability
+- An active power draw up to 25% lower than previous generations of WD Blue SSD
+- For high-end computing applications like gaming, HD media playback, or creative software
+- An SSD is designed with no moving parts to help protect against data loss if it is accidentally bumped or dropped
+- Uses 3D NAND technology not only for higher capacities (up to 2TB) than the previous generation WD Blue SSDs, but also to help reduce cell-to-cell interference for enhanced reliability.
+- Offering improved endurance, a WD Blue 3D NAND SATA SSD features an active power draw up to 25% lower2 than previous generations of WD Blue SSDs
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SBZ8YH/?tag=tolees0d-21)

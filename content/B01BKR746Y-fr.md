@@ -26,9 +26,9 @@ Vous avez [Invision Support TV Mural pour Écrans de 24 à 55 Pouces  Max VESA 4
 ℹ️:
 
 - Precisely fitting of 55mm to 500mm + maximum load of 36 2kg (80lb)
-- Quick and easy installation.
 - Holder compatible with VESA 100 mm x 100 mm to 400 mm x 400 mm
-- High-speed HDMI cable 1080p + threefold axis 6in
 - Please note the holes in the VESA check structure of your TV before any purchase
+- High-speed HDMI cable 1080p + threefold axis 6in
+- Quick and easy installation.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BKR746Y/?tag=tolees0d-21)

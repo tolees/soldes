@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.20 % rabais sur Sony WH-CH510 Casque Sans Fil Bluetooth '
-date: 2021-01-04 19:54:52
+date: 2021-01-07 08:25:27
 image: 'https://m.media-amazon.com/images/I/41SNAhNcaDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,11 +25,10 @@ Vous avez [Sony WH-CH510 Casque Sans Fil Bluetooth avec micro intégré et appel
 
 ℹ️:
 
-- Design fin et coques pivotantes pour plus de mobilité
-- Le plaisir de la musique sans fil en toute liberté grce à la technologie Bluetooth
-- Prenez vos appels mains libres à tout moment grce au microphone intégré. Réglez votre musique directement sur l’oreillette
-- Casque très léger avec seulement 132g
-- Temps de charge de la batterie: Environ 4,5 heures (charge complète)
-- Profitez jusqu’à 35h d’écoute sans fil en Bluetooth et dune recharge rapide (10min = 90min de musique) via USB-C
+- Up to 35 hours long battery life
+- 10 minutes Quick Charge for 90 minutes playback
+- Connects to your smartphone voice assistant
+- Built-in microphone, enabling hands free voice calls
+- Sleek, swivel fold design for compact on-ear style
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WD58H6R/?tag=tolees0d-21)

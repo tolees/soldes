@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '47.33 % rabais sur Sony WF-XB700 Ecouteurs Bluetooth sans F'
-date: 2021-01-04 13:48:26
+date: 2021-01-07 08:02:25
 image: 'https://m.media-amazon.com/images/I/31ATCxtDIdL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B086LKXYMD/?tag=tolees0d-21'
 descuento: '47.33'
-average: '88.23964071856291'
+average: '88.18464285714289'
 ---
 
 Vous avez [Sony WF-XB700 Ecouteurs Bluetooth sans Fil  18 Heures d Autonomie et Fonction Charge Rapide et Compatible Assistants Vocaux  Noir](https://www.amazon.fr/dp/B086LKXYMD/?tag=tolees0d-21)  à  47.33 % de réduction, prix final  79.0 EUR (original: 150.0 EUR) ici:
@@ -25,10 +25,10 @@ Vous avez [Sony WF-XB700 Ecouteurs Bluetooth sans Fil  18 Heures d Autonomie et 
 
 ℹ️:
 
-- Écoutez jusquà 18 heures de musique grâce à létui de chargement pratique (9 heures + 9 heures). Et si vous êtes pressé, une recharge rapide de 10 minutes vous offre jusquà 60 minutes de lecture de musique.
-- La puce Bluetooth transmet le son aux oreilles gauche et droite en simultané et, associée à une conception dantenne optimisée, assure une connexion stable et une écoute exceptionnelle. La faible latence audio permet également de profiter des vidéos.
-- Grâce à la technologie EXTRA BASS, les WF-XB700 offrent des graves puissants et percutants. Vos lignes de basse préférées nont jamais aussi bien sonné.
-- Lindice IPX43 de résistance à leau garantit que ni les éclaboussures ni la sueur narrêteront ces écouteurs. Vous pouvez continuer à bouger en musique.
-- Les écouteurs WF-XB700 allient une liberté totale sans fil à un look unique et audacieux. Leur design ergonomique assure un confort longue durée et un maintien impeccable.
+- Big on streaming? Our latest Bluetooth headphones chip transmits sound to the left and right wireless earbuds simultaneously providing a seamlessly stable and reliable connection to overcome vocal delays
+- These truely wireless earphones feature an Ergonomic Tri-hold structure for a secure and comfortable fit
+- Headphones ready for every eventuality, with an IPX4 water resistance rating splashes and sweat wont stop these true wireless sports headphones
+- Easy-to-operate buttons let you control playback, access your smartphones Voice Assistant and make hands-free calls on your Sony headphones
+- Up to 9h of battery life per single charge + additional full charge from the case, for up to 18h of unconfined playback on the WF-XB700 wireless earphones
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B086LKXYMD/?tag=tolees0d-21)

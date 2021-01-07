@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GAME WATCH SM BROS SYSTEM avec 16.67 % rabais '
-date: 2021-01-05 02:22:45
+date: 2021-01-07 08:04:48
 image: 'https://m.media-amazon.com/images/I/41A88oIeaqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21'
 descuento: '16.67'
-average: '48.089200000000005'
+average: '48.11913385826772'
 ---
 
 C'est en vente [GAME WATCH SM BROS SYSTEM](https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  49.99 EUR (original: 59.99 EUR) ici:

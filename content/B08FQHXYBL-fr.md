@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.56 % rabais sur FIFA 21  Xbox One  - Version Xbox Series'
-date: 2021-01-04 14:05:23
+date: 2021-01-07 08:02:24
 image: 'https://m.media-amazon.com/images/I/51b1G789XJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,9 @@ Vous avez [FIFA 21  Xbox One  - Version Xbox Series X incluse](https://www.amazo
 
 ℹ️:
 
-- Gérez chaque moment dans le mode Carrière de FIFA 21 avec des innovations qui renforceront la richesse et la profondeur des matchs, des transferts et de l’entraînement afin de vous donner encore plus de maîtrise pour faire triompher votre équipe et faciliter vos débuts dans votre carrière d’entraîneur.
-- La Personnalisation du placement élève encore plus l’intelligence de jeu pour la rendre encore plus réaliste avec une meilleure analyse du temps et de l’espace.
-- Créez-vous plus d’occasions de but que jamais avec les tout nouveaux systèmes offensifs dynamiques mis au service de la jouabilité FIFA la plus intelligente à ce jour.
+- Packaging dimensions (L × W × H): 1.2 cm 13.5 cm 17.0 am
+- Package weight: 70 g
+- 5.03094E+12
+- Country of origin: China
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)
