@@ -25,9 +25,9 @@ Vous avez [Belkin Batterie externe USB-C PD 10K  ports USB-C et USB  capacité d
 
 ℹ️:
 
-- Poids du colis darticle : 0.32 kg
 - Dimensions de lemballage : 4.95 x 9.91 x 15.85 cm
 - Couleur : Noir
 - Fabriqué en Chine
+- Poids du colis darticle : 0.32 kg
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B086R4ZSMR/?tag=tolees0d-21)

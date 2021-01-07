@@ -26,9 +26,9 @@ Vous avez [KERBL 81540 Dolomit Tofana Arbre à Chat Mural Gris 168 x 75 cm](http
 ℹ️:
 
 - woven fabric cushion with Velcro strap, removable. Incl. screws
+- with wall mounting
 - post: ø 10 cm. Sisal glued to the posts
 - height: 168 cm. Cave: ø 40 x 30 cm
 - hammock: 40 x 30 cm. Lie down area: ø 45 cm
-- with wall mounting
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GTTCJY0/?tag=tolees0d-21)

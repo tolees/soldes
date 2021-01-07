@@ -25,7 +25,7 @@ Vous avez [Bosch 1605411029 Sac à poussière Pour modèles 46/54/66](https://ww
 
 ℹ️:
 
-- Gamme grise de bosch
 - Accessoire professionnel pour outillage électroportatif
+- Gamme grise de bosch
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000NDKUJ0/?tag=tolees0d-21)
