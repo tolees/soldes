@@ -26,9 +26,9 @@ C'est en vente [Dumbo Disney - Parure de Lit Bébé - Housse de Couette Coton](h
 ℹ️:
 
 - Une Housse de couette 100 x 135 cm
-- Une taie doreiller 60 x 40 cm
-- 100% coton, Lavable en machine
 - Pour lit à barreaux ou évolutif, ne convient pas à un lit 1 personne
+- 100% coton, Lavable en machine
+- Une taie doreiller 60 x 40 cm
 - Dumbo - Parure de Lit bébé - Housse de couette Coton
 
 [Achète-le!!](https://www.amazon.fr/dp/B07WSFMFPY/?tag=tolees0d-21)

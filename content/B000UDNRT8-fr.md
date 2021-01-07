@@ -25,9 +25,9 @@ Vous avez [Eastpak Doggy Bag Sac Banane  27 cm  3 L  Noir  Black ](https://www.a
 
 ℹ️:
 
-- Hauteur : 18 cm, Largeur : 27 cm, Profondeur : 9 cm
 - Dispose dune ceinture ajustable afin que vous puissiez le porter comme vous le souhaitez
 - Grand compartiment principal avec une poche zippée sécurisée à larrière
+- Hauteur : 18 cm, Largeur : 27 cm, Profondeur : 9 cm
 - Fabrication 100% nylon ultra-résistant
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000UDNRT8/?tag=tolees0d-21)

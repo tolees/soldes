@@ -25,11 +25,11 @@ Vous avez [Sylvanian Families - Le Village - La Voiture Rouge - 5448 - Véhicule
 
 ℹ️:
 
+- Le toit est décapotable et le coffre peut souvrir !
+- Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : la famille, La nature et lamour.
 - Jouer avec Sylvanian Families, c’est se constituer des souvenirs pour la vie !
 - Peut contenir jusquà 5 personnages.
 - A partir de 3 ans.
-- Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : la famille, La nature et lamour.
-- Le toit est décapotable et le coffre peut souvrir !
 - La nouvelle voiture des Sylvanian Families !
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B082QW6NRC/?tag=tolees0d-21)

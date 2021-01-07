@@ -26,9 +26,9 @@ Vous avez [Clé USB 3.0 SanDisk Ultra 256 Go avec une vitesse de lecture allant 
 ℹ️:
 
 - Operating temperature 0 degree to 45 degree in Celsius. Storage temperature minus 10 degree to 70 degree in Celsius
-- USB 3.0 enabled (USB 2.0 compatible) - up to 10x faster than standard USB 2.0
 - Transfer a full-length movie in less than 40 seconds
 - Password-protects and encrypts private files with SanDisk SecureAccess software
 - Available in 16 GB, 32 GB, 64 GB, 128 GB and 256 GB capacities
+- USB 3.0 enabled (USB 2.0 compatible) - up to 10x faster than standard USB 2.0
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YFI1A66/?tag=tolees0d-21)

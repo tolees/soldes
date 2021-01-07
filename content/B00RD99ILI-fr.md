@@ -26,8 +26,8 @@ C'est en vente [Crocs Crocband  Sabots Mixte Adulte  Rose  Pearl Pink/Wild Orchi
 ℹ️:
 
 - Semelle intermédiaire sportive inspirée du style vulcanisé classique.
-- Résistant aux odeurs, facile dentretien et séchage rapide.
 - Les chaussures Crocs affichent les tailles américaines.
 - Les tailles de semelle sont américaines. Létiquette montre le Royaume-Uni. M = homme W = femme.
+- Résistant aux odeurs, facile dentretien et séchage rapide.
 
 [Achète-le!!](https://www.amazon.fr/dp/B00RD99ILI/?tag=tolees0d-21)

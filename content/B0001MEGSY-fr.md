@@ -25,9 +25,9 @@ C'est en vente [Sylvanian Families - Le Village - Le Mobilier Chambre enfants - 
 
 ℹ️:
 
+- Basic furniture for your Sylvanian family home
 - Helpful for stimulating imaginative role play in children
 - Suitable for ages 3 years to 10 years
-- Basic furniture for your Sylvanian family home
 - Includes bunk beds and chest for children
 - Well made with attention to detail
 

@@ -25,8 +25,8 @@ Vous avez [Eurofarm 37117 Palan manuel capacité 4 tonnes  diamètre 6 mm 3 m](h
 
 ℹ️:
 
-- Attention : ne pas utiliser pour levage de charges
 - Câble acier trois m, levier charge lourde, triple mécanisme de déblocage, crochet acier verrouillable pivotable 360°, effet de levier 15/1, testé CE
 - Utilisation universelle en agriculture, exploitation forestière ainsi quen camping
+- Attention : ne pas utiliser pour levage de charges
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B001CLN6X4/?tag=tolees0d-21)

@@ -25,8 +25,8 @@ Vous avez [Bosch 2609256989 Set d accessoires pour Uneo](https://www.amazon.fr/d
 
 ℹ️:
 
-- Le perçage innovant
 - Set de démarrage pour Uneo
 - Set Uneo
+- Le perçage innovant
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B004MKNKQU/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU](https://ww
 
 ℹ️:
 
-- Available Capacity: up to 4 TB
-- Designed for mainstream PCs and laptops for personal, gaming and business use
-- Form Factor: 2.5 Inch
-- Sequential Read/Write speeds up to 550/520 MB/s respectively; performance varies based on system hardware configuration
 - Interface: SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
+- Sequential Read/Write speeds up to 550/520 MB/s respectively; performance varies based on system hardware configuration
+- Available Capacity: up to 4 TB
+- Form Factor: 2.5 Inch
+- Designed for mainstream PCs and laptops for personal, gaming and business use
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21)

@@ -25,8 +25,8 @@ Vous avez [Elizabeth Arden – 5th Avenue – Eau de Parfum Femme Vaporisateur �
 
 ℹ️:
 
+- Laissez-vous envelopper par une fragrance immuable pour une célébration parfumée de la femme dynamique, à l’image de la vibrante New-York. 5th Avenue capture l’énergie de la plus belle avenue du monde pour un cadeau inestimable aux notes olfactives raffinées offrant des possibilités infinies.
 - Vaporisez sur les points chauds du corps. Brumisez devant vous pour plus de légèreté et laissez-vous happer par ce rêve parfumé.
 - Intemporelle, l’eau de parfum renferme une odeur florale et boisée, à la fois fraîche et pétillante, aux effluves poudrées tel un nuage parfumé intense qui enivrera vos sens.
-- Laissez-vous envelopper par une fragrance immuable pour une célébration parfumée de la femme dynamique, à l’image de la vibrante New-York. 5th Avenue capture l’énergie de la plus belle avenue du monde pour un cadeau inestimable aux notes olfactives raffinées offrant des possibilités infinies.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0010MG8NU/?tag=tolees0d-21)

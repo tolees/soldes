@@ -25,8 +25,8 @@ C'est en vente [Bosch Home and Garden 1600A001GG Pistolet à Peinture Bosch 3000
 
 ℹ️:
 
-- Pour Bosch PSF 3000-2, PFS 5000 E
 - Récipient à peinture
+- Pour Bosch PSF 3000-2, PFS 5000 E
 - Capacité : 1000 ml
 
 [Achète-le!!](https://www.amazon.fr/dp/B00KCK7UQK/?tag=tolees0d-21)
