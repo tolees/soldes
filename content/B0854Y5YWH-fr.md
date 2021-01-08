@@ -25,10 +25,10 @@ C'est en vente [Sony SEL20F18G - Objectif FE 20mm F1.8 G Plein Format - Objectif
 
 ℹ️:
 
-- Distance minimale de mise au point de seulement 19 cm (ou 18 cm en mise au point manuelle)
 - Focale équivalente de 30 mm sur les boîtiers APS-C
+- Deux éléments AA et trois verres ED sassocient pour obtenir une haute résolution sur lensemble de limage
+- Distance minimale de mise au point de seulement 19 cm (ou 18 cm en mise au point manuelle)
 - Compact et léger
 - AF et tracking rapide, précis et silencieux - alimenté par deux moteurs XD linéaires (extrêmement dynamiques)
-- Deux éléments AA et trois verres ED sassocient pour obtenir une haute résolution sur lensemble de limage
 
 [Achète-le!!](https://www.amazon.fr/dp/B0854Y5YWH/?tag=tolees0d-21)
