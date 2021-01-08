@@ -25,10 +25,10 @@ C'est en vente [Devolo Magic 2 LAN Triple : Starter Kit CPL  3 ports Ethernet  i
 
 ℹ️:
 
-- Excellent réseau internet haut débit via le réseau électrique du domicile
 - 2 prises CPL et 4 ports Ethernet Gigabit pour les utilisateurs intensifs de réseau. Compatibles avec tous les adaptateurs Magic et toutes les box internet. Les CPL devolo dLAN et HomePlug AV ne sont pas compatibles
-- Profitez simultanément de streaming, jeux en ligne et téléchargement jusquà 2400 Mbits/s
-- Grâce aux 3 puissants ports Ethernet, plus besoin dun commutateur supplémentaire
 - Kit CPL le plus rapide du monde grâce à la technologie CPL évolutive (norme g.Hn) par le leader du marché
+- Profitez simultanément de streaming, jeux en ligne et téléchargement jusquà 2400 Mbits/s
+- Excellent réseau internet haut débit via le réseau électrique du domicile
+- Grâce aux 3 puissants ports Ethernet, plus besoin dun commutateur supplémentaire
 
 [Achète-le!!](https://www.amazon.fr/dp/B07Z5KGCH5/?tag=tolees0d-21)

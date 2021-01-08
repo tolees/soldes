@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Harry Potter - l Intégrale des 8 Films - avec 50.16 % rabais '
-date: 2021-01-07 08:35:25
+date: 2021-01-08 14:11:20
 image: 'https://m.media-amazon.com/images/I/51IDtBm4yhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21'
 descuento: '50.16'
-average: '31.655352112676063'
+average: '31.336027397260278'
 ---
 
 C'est en vente [Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers de J.K. Rowling - Coffret Blu-Ray](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)  à  50.16 % de réduction, prix final  20.0 EUR (original: 40.13 EUR) ici:
@@ -26,9 +26,9 @@ C'est en vente [Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers 
 ℹ️:
 
 - année 6 : Flemish, Slovak, Catalan, English, Portuguese from Brasilia, Dutch, French, German, Italian, Castilian
-- année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
 - année 2 à 5 : English, French, French from Quebec, Castilian, Catalan, Danish, Dutch, Flemish, German, Italian, Spanish, Swedish
 - Disques Bluray
 - année 7 : English, French, Italian, German,Flemish, Dutch
+- année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
 
 [Achète-le!!](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)
