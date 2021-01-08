@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SanDisk Carte microSDXC UHS-I pour Ninte avec 19.27 % rabais '
-date: 2021-01-07 08:14:25
+date: 2021-01-08 20:31:54
 image: 'https://m.media-amazon.com/images/I/51Mw7Ct5imL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QD6R5L7/?tag=tolees0d-21'
 descuento: '19.27'
-average: '57.88285714285714'
+average: '59.08266666666667'
 ---
 
 C'est en vente [SanDisk Carte microSDXC UHS-I pour Nintendo Switch 256 Go - Produit sous licence Nintendo](https://www.amazon.fr/dp/B07QD6R5L7/?tag=tolees0d-21)  à  19.27 % de réduction, prix final  75.88 EUR (original: 93.99 EUR) ici:

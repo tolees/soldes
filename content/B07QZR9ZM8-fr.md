@@ -1,29 +1,34 @@
 ---
 layout: post
-title: '30.01 % rabais sur Alimentation pour Xbox One   Version Nou'
-date: 2020-08-05 00:11:07
-image: 'https://m.media-amazon.com/images/I/41DsChQ1L+L._SL200_.jpg'
+title: '27.51 % rabais sur Alimentation pour Xbox One   Version Nou'
+date: 2021-01-08 20:39:19
+image: 'https://m.media-amazon.com/images/I/418K+TxlDNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07QZR9ZM8-fr'
-actualPrice: 27.99 EUR
+actualPrice: 28.99 EUR
 currency: EUR
-price: 27.99
+price: 28.99
 comparePrice: 39.99 EUR
 prodname: 'Alimentation pour Xbox One   Version Nouvelle  AC Adaptateur Secteur Brique Bloc pour Xbox One Console'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21'
-descuento: '30.01'
-average: '27.99'
+descuento: '27.51'
+average: '28.656666666666666'
 ---
 
-Vous avez [Alimentation pour Xbox One   Version Nouvelle  AC Adaptateur Secteur Brique Bloc pour Xbox One Console](https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21)  à  30.01 % de réduction, prix final  27.99 EUR (original: 39.99 EUR) ici:
+Vous avez [Alimentation pour Xbox One   Version Nouvelle  AC Adaptateur Secteur Brique Bloc pour Xbox One Console](https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21)  à  27.51 % de réduction, prix final  28.99 EUR (original: 39.99 EUR) ici:
 
-[![Alimentation pour Xbox One   Version Nou](https://m.media-amazon.com/images/I/41DsChQ1L+L._SL200_.jpg)](https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21)
+[![Alimentation pour Xbox One   Version Nou](https://m.media-amazon.com/images/I/418K+TxlDNL._SL200_.jpg)](https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21)
 
 ℹ️:
 
+- Fabriqué avec le matériau de haute qualité, un dissipateur de chaleur en métal et de grands trous de ventilation protègent la sécurité du travail dalimentation, Excellente conception, pas de souci de la dissipation de chaleur.
+- Avec des puces intelligentes intégrées, protection contre les surcharges, les surintensités, les courts-circuits, etc.
+- Alimentation pour Xbox One Console, Cette adaptateur est un remplacement parfait pour votre source dalimentation dorigine.
+- Remarque: Notre alimentation fabriqué par une société tierce, pas par officiel.
+- La tension dentrée: AC 100-240V ~ 2A 47-63Hz, la tension de sortie: DC 135W 12V - 17.9A; 5VSB - 1A. Létat de LED: vert-sous tension, orange-en mode veille.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21)
