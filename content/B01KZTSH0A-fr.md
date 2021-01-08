@@ -26,9 +26,9 @@ Vous avez [Calor FV9710C0 Fer à Repasser Vapeur Ultimate Effet Pressing jusqu�
 ℹ️:
 
 - Réservoir deau de 350 ml pour un confort de repassage. Attention: un tampon abrasif ou un bâtonnet nettoyant endommagé par le nettoyage autonettoyant de votre semelle
-- Contrôle automatique de la vapeur et jet de vapeur jusquà 210g/min pour cibler et éliminer tous les plis, même les plus récalcitrants
 - Semelle Durilium Autoclean : autonettoyante pour une glisse préservée et une durée de vie allongée
-- Puissance de 2800W pour un temps de chauffe rapide et une performance vapeur puissante. Longueur du cordon électrique: 2,5 m
 - Fabriqué en France
+- Puissance de 2800W pour un temps de chauffe rapide et une performance vapeur puissante. Longueur du cordon électrique: 2,5 m
+- Contrôle automatique de la vapeur et jet de vapeur jusquà 210g/min pour cibler et éliminer tous les plis, même les plus récalcitrants
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01KZTSH0A/?tag=tolees0d-21)
