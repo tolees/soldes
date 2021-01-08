@@ -25,10 +25,10 @@ C'est en vente [MOULINEX FOUR ACIER INOXYDABLE OPTIMO Noir  1380 W  19L Cuisson 
 
 ℹ️:
 
-- Four avec fonctions mécaniques pour une utilisation facile
+- Chaleur tournante, chaleur traditionnelle, gril, pâtisserie, bain marie, fonction décongélation
 - Accessoires inclus : Grille réversible et lèche frite pour une cuisine simplifiée
 - Un four compact dune grande capacité 19L qui sintègre  facilement dans votre cuisine
+- Four avec fonctions mécaniques pour une utilisation facile
 - 6 modes de cuisson pour cuisiner tous les types de recettes que vous souhaitez : entrées, viandes, poissons, pizzas, gratins, desserts
-- Chaleur tournante, chaleur traditionnelle, gril, pâtisserie, bain marie, fonction décongélation
 
 [Achète-le!!](https://www.amazon.fr/dp/B01CI2JX5U/?tag=tolees0d-21)
