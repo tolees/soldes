@@ -25,8 +25,8 @@ C'est en vente ["L Aventure LaytonTM : Katrielle et la conspiration des millionn
 
 ℹ️:
 
-- 2 ans
 - NINTENDO
 - 10002053
+- 2 ans
 
 [Achète-le!!](https://www.amazon.fr/dp/B07TTHJVT7/?tag=tolees0d-21)
