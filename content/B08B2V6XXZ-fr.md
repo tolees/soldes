@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.16 % rabais sur Jumanji Trilogie 3 Films [4K Ultra Hd + '
-date: 2021-01-05 06:13:51
+date: 2021-01-08 06:07:16
 image: 'https://m.media-amazon.com/images/I/5125lNBbmmL._SL200_.jpg'
 comments: true
 category: ofertas
