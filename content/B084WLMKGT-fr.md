@@ -25,8 +25,8 @@ Vous avez [Trust Gaming Casque Gamer PS4 et PS5 avec Licence officielle pour Pla
 
 ℹ️:
 
-- Casque gamer avec la licence officielle pour PlayStation4, Accessoire de PS4 indispensable. Niveau de réduction du bruit: 12 dB
 - Casque filaire avec cable tressé en nylon de 1,2 m, dune longueur idéale pour la connexion à votre manette PS4
+- Casque gamer avec la licence officielle pour PlayStation4, Accessoire de PS4 indispensable. Niveau de réduction du bruit: 12 dB
 - Régler le volume du son de votre casque, en branchant le casque sur la prise jack 3.5mm de votre manette DUALSHOCK 4
 - Microphone gaming flexible, repliable avec mode mise en sourdine
 - Haut-parleurs puissants de 50 mm, coussinets circum-auraux souples, confortables et arceau renforcé réglable

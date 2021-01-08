@@ -25,8 +25,8 @@ Vous avez [Alimentation pour Xbox One   Version Nouvelle  AC Adaptateur Secteur 
 
 ℹ️:
 
-- La tension dentrée: AC 100-240V ~ 2A 47-63Hz, la tension de sortie: DC 135W 12V - 17.9A; 5VSB - 1A. Létat de LED: vert-sous tension, orange-en mode veille.
 - Alimentation pour Xbox One Console, Cette adaptateur est un remplacement parfait pour votre source dalimentation dorigine.
+- La tension dentrée: AC 100-240V ~ 2A 47-63Hz, la tension de sortie: DC 135W 12V - 17.9A; 5VSB - 1A. Létat de LED: vert-sous tension, orange-en mode veille.
 - Fabriqué avec le matériau de haute qualité, un dissipateur de chaleur en métal et de grands trous de ventilation protègent la sécurité du travail dalimentation, Excellente conception, pas de souci de la dissipation de chaleur.
 - Remarque: Notre alimentation fabriqué par une société tierce, pas par officiel.
 - Avec des puces intelligentes intégrées, protection contre les surcharges, les surintensités, les courts-circuits, etc.

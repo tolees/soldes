@@ -25,14 +25,14 @@ C'est en vente [Bosch L5008 Batterie décharge lente 12V  75 Ah  650A - Loisirs 
 
 ℹ️:
 
-- Angle de montage jusquà 45°
-- Batterie optimale pour des demandes énergétiques plus importantes pour le système et les équipements
+- 12V, 75 Ah, 650A
 - Polarité : 0
 - Dimensions : 27,8 x 17,5 x 19
-- 12V, 75 Ah, 650A
 - Batterie dalimentation et de traction grâce à la technologie Deep Cycle
-- Grâce à sa très faible autodécharge la batterie L5008 se prête idéalement à un usage saisonnier.
 - Supporte jusquà 2 fois plus de cycles de charge et décharge que les batteries classiques
+- Grâce à sa très faible autodécharge la batterie L5008 se prête idéalement à un usage saisonnier.
+- Batterie optimale pour des demandes énergétiques plus importantes pour le système et les équipements
+- Angle de montage jusquà 45°
 - Haut niveau de sécurité grâce au couvercle à labyrinthe
 - Idéale pour les applications mobiles : camping-cars, caravanes, bateaux electriques, bateaux à moteur, voilier, …
 

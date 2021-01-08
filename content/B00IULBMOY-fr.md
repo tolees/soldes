@@ -25,8 +25,8 @@ Vous avez [NeXtime 8162 Romana Horloge Plastic Blanc](https://www.amazon.fr/dp/B
 
 ℹ️:
 
+- Diamètre : 43.0
 - Célèbre pour ces chiffres romains
 - Piles : AA
-- Diamètre : 43.0
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IULBMOY/?tag=tolees0d-21)
