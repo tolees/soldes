@@ -25,8 +25,8 @@ C'est en vente [TOKYO MIRAGE SESSIONS #FE ENCORE - SWITCH](https://www.amazon.fr
 
 ℹ️:
 
-- Cette nouvelle version comporte une chanson inédite !
 - Donnez-le meilleur de vous-même dans de fabuleux combats au tour par tour !
 - Nouveaux éléments de scénario !
+- Cette nouvelle version comporte une chanson inédite !
 
 [Achète-le!!](https://www.amazon.fr/dp/B0821XNW7B/?tag=tolees0d-21)
