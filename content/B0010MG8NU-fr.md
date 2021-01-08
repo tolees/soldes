@@ -25,10 +25,10 @@ Vous avez [Elizabeth Arden – 5th Avenue – Eau de Parfum Femme Vaporisateur �
 
 ℹ️:
 
+- Ladies
 - American classic
 - From Elizabeth Arden
-- Anytime wear
 - Floral
-- Ladies
+- Anytime wear
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0010MG8NU/?tag=tolees0d-21)

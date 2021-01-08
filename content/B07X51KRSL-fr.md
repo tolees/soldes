@@ -25,10 +25,10 @@ C'est en vente [Sony NW-A55L Lecteur Audio MP3 Walkman High-Resolution 16Go Bleu
 
 ℹ️:
 
-- Up to 45 hours of playback (MP3 128kbps)
-- Truly authentic sound with High-Resolution Audio
 - 16GB internal memory and x1 expandable m+X2:Z6icroSD slot
-- Bluetooth technology with LDAC to preserve wireless audio quality
 - 3.1 inch touch screen & Side keys for an intuitive operation
+- Bluetooth technology with LDAC to preserve wireless audio quality
+- Truly authentic sound with High-Resolution Audio
+- Up to 45 hours of playback (MP3 128kbps)
 
 [Achète-le!!](https://www.amazon.fr/dp/B07X51KRSL/?tag=tolees0d-21)
