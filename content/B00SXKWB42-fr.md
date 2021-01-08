@@ -25,10 +25,10 @@ Vous avez [L Oréal Paris - Fond de Teint Fluide Accord Parfait - Peaux Sèches 
 
 ℹ️:
 
-- Contenu : x1 Fond de teint fluide LOréal Paris Accord Parfait, Teinte : Beige Doré (3.D), Contenance : 30 ml
 - Fond de teint fluide et fondant avec effet seconde peau pour un teint sublimé et homogène, Couvrance ajustable et application uniforme sur peaux sèches à normales pour dissimuler les imperfections sans effet masque
-- Flacon pompe en verre, Disponible en 48 teintes sur-mesure pour un résultat parfaitement accordé à la texture et aux tonalités naturelles de votre peau, Sans démarcation
+- Contenu : x1 Fond de teint fluide LOréal Paris Accord Parfait, Teinte : Beige Doré (3.D), Contenance : 30 ml
 - Astuces : Agiter avant emploi, À appliquer au pinceau ou au beauty blender en complément du soin correcteur Accord Parfait pour une routine teint complète et perfectrice
 - Nouvelle formule infusée en Acide Hyaluronique et en Aloe Vera contenant 80% de soin hydratant pour une hydratation 24H, Protection contre les agressions extérieures (pollution et UVs), Texture fine et non grasse, Non comédogène
+- Flacon pompe en verre, Disponible en 48 teintes sur-mesure pour un résultat parfaitement accordé à la texture et aux tonalités naturelles de votre peau, Sans démarcation
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00SXKWB42/?tag=tolees0d-21)
