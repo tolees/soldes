@@ -26,8 +26,8 @@ Vous avez [Sabrent Disque SSD interne Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 1 To]
 ℹ️:
 
 - Interface NVMe M.2 PCIe Gen4 x4. Compatible PCIe 4.0 / NVMe 1.3.
-- Prend en charge les commandes SMART et TRIM. Prend en charge linterface ONFi 2.3, ONFi 3.0, ONFi 3.2 et ONFi 4.0.
 - Tous les SSD Sabrent sont livrés avec un logiciel Sabrent Acronis True Image pour un clonage facile. Pour ceux qui ont besoin dune taille de secteur spécifique pour cloner leurs SSD existants : un nouvel utilitaire Sabrent permet aux utilisateurs de reformater le lecteur Rocket et de choisir la taille du secteur de leur choix, soit 512 octets ou 4 K.
+- Prend en charge les commandes SMART et TRIM. Prend en charge linterface ONFi 2.3, ONFi 3.0, ONFi 3.2 et ONFi 4.0.
 - Prise en charge de la gestion de lalimentation pour APST / ASPM / L1.2.
 - Nivellement avancé de lusure, gestion des mauvais blocs, code de correction derreur et surapprovisionnement.
 

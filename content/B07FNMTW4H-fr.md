@@ -25,9 +25,9 @@ Vous avez [LEGO City - L arrestation en parachute - 60208 - Jeu de construction]
 
 ℹ️:
 
+- Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - Inclut 4 figurines LEGO City : 2 policiers et 2 voleurs.
 - Construisez l’ensemble génial de l’arrestation en parachute et patrouillez dans les rues de LEGO City depuis le ciel.
-- Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - 218 pièces pour les filles et les garçons de 5 ans et plus.
 - Le jet de la police mesure plus de 7 cm de haut, 22 cm de long et 20 cm de large. Le parachute du voleur mesure plus de 29 cm de haut et 20 cm de large. Le buggy d’évasion du voleur mesure plus de 4 cm de haut, 9 cm de long et 4 cm de large.
 
