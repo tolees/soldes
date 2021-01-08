@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '34.30 % rabais sur Levi s Type 3 Sherpa Trucker Veste en Je'
-date: 2021-01-07 08:21:24
+date: 2021-01-08 08:54:42
 image: 'https://m.media-amazon.com/images/I/41hAv9E8DNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KF4QV68/?tag=tolees0d-21'
 descuento: '34.30'
-average: '94.20400000000001'
+average: '93.83333333333334'
 ---
 
 Vous avez [Levi s Type 3 Sherpa Trucker Veste en Jean Homme  Berk Sherpa Trucker  M](https://www.amazon.fr/dp/B07KF4QV68/?tag=tolees0d-21)  à  34.30 % de réduction, prix final  91.98 EUR (original: 140.0 EUR) ici:
@@ -25,8 +25,8 @@ Vous avez [Levi s Type 3 Sherpa Trucker Veste en Jean Homme  Berk Sherpa Trucker
 
 ℹ️:
 
-- 76% Coton, 24% lyocell
 - Type de col: Col Chemise Classique
+- 100% Cotton
 - Lavage en machine
 - Fermeture: Bouton
 
