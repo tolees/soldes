@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.04 % rabais sur Sabrent Disque SSD interne Rocket 4 Plus'
-date: 2021-01-08 14:31:25
+date: 2021-01-09 15:37:27
 image: 'https://m.media-amazon.com/images/I/41E+UHnZw-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08P2B6JKV/?tag=tolees0d-21'
 descuento: '20.04'
-average: '199.94'
+average: '199.92333333333335'
 ---
 
 Vous avez [Sabrent Disque SSD interne Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 1 To](https://www.amazon.fr/dp/B08P2B6JKV/?tag=tolees0d-21)  à  20.04 % de réduction, prix final  199.89 EUR (original: 249.99 EUR) ici:
@@ -25,8 +25,8 @@ Vous avez [Sabrent Disque SSD interne Rocket 4 Plus NVMe 4.0 Gen4 PCIe M.2 1 To]
 
 ℹ️:
 
-- Interface NVMe M.2 PCIe Gen4 x4. Compatible PCIe 4.0 / NVMe 1.3.
 - Tous les SSD Sabrent sont livrés avec un logiciel Sabrent Acronis True Image pour un clonage facile. Pour ceux qui ont besoin dune taille de secteur spécifique pour cloner leurs SSD existants : un nouvel utilitaire Sabrent permet aux utilisateurs de reformater le lecteur Rocket et de choisir la taille du secteur de leur choix, soit 512 octets ou 4 K.
+- Interface NVMe M.2 PCIe Gen4 x4. Compatible PCIe 4.0 / NVMe 1.3.
 - Prend en charge les commandes SMART et TRIM. Prend en charge linterface ONFi 2.3, ONFi 3.0, ONFi 3.2 et ONFi 4.0.
 - Prise en charge de la gestion de lalimentation pour APST / ASPM / L1.2.
 - Nivellement avancé de lusure, gestion des mauvais blocs, code de correction derreur et surapprovisionnement.

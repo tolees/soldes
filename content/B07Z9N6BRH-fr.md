@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.38 % rabais sur Goliath - Super Zings Bakery Blast - à c'
-date: 2021-01-08 14:30:19
+date: 2021-01-09 15:56:05
 image: 'https://m.media-amazon.com/images/I/51qUKr-v3WL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07Z9N6BRH/?tag=tolees0d-21'
 descuento: '26.38'
-average: '16.763361344537802'
+average: '16.728429752066102'
 ---
 
 Vous avez [Goliath - Super Zings Bakery Blast - à collectionner - à partir de 5 ans](https://www.amazon.fr/dp/B07Z9N6BRH/?tag=tolees0d-21)  à  26.38 % de réduction, prix final  14.65 EUR (original: 19.9 EUR) ici:

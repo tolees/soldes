@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.58 % rabais sur Call of Duty : Modern Warfare pour Xbox '
-date: 2021-01-04 16:04:03
+date: 2021-01-09 14:57:27
 image: 'https://m.media-amazon.com/images/I/51ifee5XuxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21'
 descuento: '28.58'
-average: '51.358000000000004'
+average: '51.13'
 ---
 
 Vous avez [Call of Duty : Modern Warfare pour Xbox One](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)  à  28.58 % de réduction, prix final  49.99 EUR (original: 69.99 EUR) ici:
@@ -25,8 +25,8 @@ Vous avez [Call of Duty : Modern Warfare pour Xbox One](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Call of duty: modern warfare
-- Sur Xbox one
 - Version standard
+- Sur Xbox one
+- Call of duty: modern warfare
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)
