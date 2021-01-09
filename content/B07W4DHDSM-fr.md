@@ -25,14 +25,14 @@ Vous avez [Samsung - Montre Galaxy Watch Active 2 Bluetooth - Aluminium 40 mm - 
 
 ℹ️:
 
-- Fonctions bien-être & sport avancées
-- Lunette rotative numérique
 - Connectivité - Wi-Fi : Wi-Fi 802.11 b/g/n | Bluetooth : Bluetooth 5.0 | NFC : Oui
-- La Galaxy Watch Active2 est compatible non seulement avec les smartphones Galaxy mais aussi avec les smartphones Android et iOS
 - Système dexploitation : Tizen OS 4.0
+- Lunette rotative numérique
 - Fine 10,9 mm
-- Certification IP68
+- Fonctions bien-être & sport avancées
+- La Galaxy Watch Active2 est compatible non seulement avec les smartphones Galaxy mais aussi avec les smartphones Android et iOS
 - Grand écran aux bords fins
 - Définition de lécran : 360 x 360 pixels
+- Certification IP68
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W4DHDSM/?tag=tolees0d-21)

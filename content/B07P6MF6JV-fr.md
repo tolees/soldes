@@ -25,11 +25,11 @@ Vous avez [Samsung - Ecouteurs sans fil Galaxy Buds - Noir - Version française]
 
 ℹ️:
 
-- Microphone intra-auriculaire
-- Technologie Bluetooth 5.0
-- 6 h dautonomie
-- Capacité de la batterie standard: 58 mAh
 - Son signature AKG
+- Microphone intra-auriculaire
 - Conception IPX2
+- Technologie Bluetooth 5.0
+- Capacité de la batterie standard: 58 mAh
+- 6 h dautonomie
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P6MF6JV/?tag=tolees0d-21)

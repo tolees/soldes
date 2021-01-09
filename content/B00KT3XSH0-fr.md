@@ -25,10 +25,10 @@ Vous avez [Mauboussin - Eau de Parfum Femme - Elixir Pour Elle - Senteur Orienta
 
 ℹ️:
 
-- UNE SENTEUR INTEMPORELLE : Une eau de parfum signature au sillage élégant et envoûtant.
+- UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour
 - UN PARFUM BIJOU : On dit de ce partum qu’il serait un véritable philtre possédant des vertus magiques propres à inspirer l’amour et à en exhaler sa volupté.
 - LES NOTES OLFACTIVES : Notes de tête : cassis ; Notes de coeur : rose rouge, jasmin ; Note de fond : bois de oud.
-- UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour
 - UNE FRAGRANCE UNIQUE : En notes de tête explose le cassis sucré et pétillant. Le cœur de rose rouge donne à la fragrance de généreuses facettes. En note de fond l’accord oud apporte sillage et puissance à cet élixir si mystérieux...
+- UNE SENTEUR INTEMPORELLE : Une eau de parfum signature au sillage élégant et envoûtant.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KT3XSH0/?tag=tolees0d-21)

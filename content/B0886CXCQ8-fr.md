@@ -25,10 +25,10 @@ Vous avez [Dittzz Kit de LED Lumière pour Blocs De Construction  Jeu de Lumièr
 
 ℹ️:
 
+- Application:lensemble de lumière est utilisé pour Eclairer LEGO 76896 GT-R NISMO (Les modèles Lego ne sont pas inclus)
+- Conception innovante: combinez les blocs de construction avec des lumières colorées pour rendre les blocs de construction plus attrayants
+- Installation simple: Les accessoires déclairage sont faciles à fixer et sont équipés dinstructions électroniques. Veuillez demander au vendeur après lachat de vous aider à installer de manière plus intuitive.
 - Matériel: ABS; Surface lisse sans bavures. Insérez fermement sans desserrer
 - Alimentation: alimentée par le boîtier de la batterie, vous devez préparer la batterie vous-même
-- Conception innovante: combinez les blocs de construction avec des lumières colorées pour rendre les blocs de construction plus attrayants
-- Application:lensemble de lumière est utilisé pour Eclairer LEGO 76896 GT-R NISMO (Les modèles Lego ne sont pas inclus)
-- Installation simple: Les accessoires déclairage sont faciles à fixer et sont équipés dinstructions électroniques. Veuillez demander au vendeur après lachat de vous aider à installer de manière plus intuitive.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0886CXCQ8/?tag=tolees0d-21)

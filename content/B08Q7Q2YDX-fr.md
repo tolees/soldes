@@ -25,10 +25,10 @@ Vous avez [Disque Dur Externe 2to Disque Dur Externe USB3.0 pour PC  Xbox One  D
 
 ℹ️:
 
-- Ce que vous obtenez: 1 x disque dur externe, 1 x câble USB C, 1 x manuel de lutilisateur, 2 ans de garantie du fabricant.
+- Boîtier en aluminium robuste et monobloc, Waterproof, résistant à la chute, et une dissipation efficace de la chaleur.
 - Supporte Plug-Play, Aucun pilote nest nécessaire.
 - Compatibilité du système: TV, Xbox , Windows , Linux , Android.
-- Boîtier en aluminium robuste et monobloc, Waterproof, résistant à la chute, et une dissipation efficace de la chaleur.
 - Compatibilité USB 3.0 et USB 2.0, Jusquà 625 Mo / s Vitesse de transfert.
+- Ce que vous obtenez: 1 x disque dur externe, 1 x câble USB C, 1 x manuel de lutilisateur, 2 ans de garantie du fabricant.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08Q7Q2YDX/?tag=tolees0d-21)
