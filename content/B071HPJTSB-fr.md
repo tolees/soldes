@@ -25,11 +25,11 @@ C'est en vente [Tommy Hilfiger Core Stretch Slim Vneck Tee T-Shirt  Bleu  Navy B
 
 ℹ️:
 
-- Coupe ajustée
-- Col en V
+- Bande décorative typique de la marque à lintérieur de lencolure
 - Cette coupe cintrée avec col en V est le choix parfait.
 - Coton stretch
-- Bande décorative typique de la marque à lintérieur de lencolure
+- Coupe ajustée
 - Broderie Tommy Hilfiger sur la poitrine
+- Col en V
 
 [Achète-le!!](https://www.amazon.fr/dp/B071HPJTSB/?tag=tolees0d-21)

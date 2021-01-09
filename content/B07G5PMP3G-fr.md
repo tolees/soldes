@@ -25,10 +25,10 @@ C'est en vente [Fossil Montre Connectée FTW1161](https://www.amazon.fr/dp/B07G5
 
 ℹ️:
 
-- Présenté dans un coffret Fossil Q
-- Matière du bracelet: Acier inoxydable; Étanchéité: 5 ATM
 - Suiveur d’activités: Oui; Matériau du boîtier: Acier inoxydable; Fréquence cardiaque: Non; Suivi du sommeil: Oui; Interchangeable: Oui; Notifications: Oui; Écran tactile: Non
+- Matière du bracelet: Acier inoxydable; Étanchéité: 5 ATM
 - Épaisseur du boîtier: 13mm; Taille du boîtier: 42mm; Largeur du bracelet: 22mm; Longueur du bracelet: 200+/- 5mm
+- Présenté dans un coffret Fossil Q
 - Autonomie de la batterie: Jusqu’à 6 mois* *Selon l’utilisation; Compatibilité: Android OS 5.0+, iPhone 5/iOS 9.0+, Smartphone App; Connectivité: Bluetooth Smart/4.1 faible consommation
 
 [Achète-le!!](https://www.amazon.fr/dp/B07G5PMP3G/?tag=tolees0d-21)
