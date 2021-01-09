@@ -25,7 +25,7 @@ C'est en vente [Jack & Jones Jcorocky Jacket Noos Blouson  Noir  Black Pattern: 
 
 ℹ️:
 
-- Season Jacket
 - Biker Jacket
+- Season Jacket
 
 [Achète-le!!](https://www.amazon.fr/dp/B07JZXLYZB/?tag=tolees0d-21)

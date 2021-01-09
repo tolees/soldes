@@ -25,10 +25,10 @@ Vous avez [FERM Tuyau à air 10m - avec connexion rapide - pour compresseur](htt
 
 ℹ️:
 
-- Equipé de douille de connexion DIN et des Raccords Rapides Universels
-- Pour tous les compresseurs FERM et les outils dair
 - peut être raccordé à des compresseurs et des outils pneumatiques avec une pression maximale de 8 Bar
-- Longueur tuyau dair: 10 m
 - Matériaux: Plastique
+- Equipé de douille de connexion DIN et des Raccords Rapides Universels
+- Longueur tuyau dair: 10 m
+- Pour tous les compresseurs FERM et les outils dair
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00AFW0EEK/?tag=tolees0d-21)

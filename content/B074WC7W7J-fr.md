@@ -27,8 +27,8 @@ C'est en vente [Tefal Ingenio Elegance Set de 3 Casseroles 16/18/20 cm  1 5/2 1/
 
 - Le revêtement Titanium Force, sans PFOA et sans cadmium, offre une résistance importante grace à une couche minérale ultra renforcée et une couche protectrice renforcée en particules de titane
 - Fabriqué en France par Tefal, N°1 mondial des articles culinaires* ; *Source : Euromonitor International Limited; édition Home and Garden 2019, valeur de la marque en magasin (RSP), données 2018
-- Nettoyage facile grace à sa surface anti-adhésive
 - Avec sa poignée amovible, cuisinez de la plaque au four et servez directement à table. Profitez aussi de sa parfaite empilabilité pour un gain de place maximal dans vos placards
+- Nettoyage facile grace à sa surface anti-adhésive
 - Indicateur de température Thermo-Spot de Tefal
 
 [Achète-le!!](https://www.amazon.fr/dp/B074WC7W7J/?tag=tolees0d-21)
