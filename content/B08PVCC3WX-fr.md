@@ -26,9 +26,9 @@ C'est en vente [Disque Dur Externe 1to Disque Dur Externe Portable USB3.0 SATA  
 ℹ️:
 
 - Compatibilité Du Système - Windows / Linux / Android.
-- Ultra Slim disque dur externe, Boîtier en Métal, Étanche, Résistant Aux Chutes, Résistant Aux Rayures.
 - USB 3.0 Transferts de données Ultra-Rapides - jusquà 5 Gbit / s, mais toujours compatible USB 2.0, prête à sauvegarder des données volumineuses en quelques secondes.
-- Plug-and-play: Il nest pas nécessaire dinstaller des drivers/pilotes, il suffit de le brancher et le disque est prêt à lemploi.
 - Ce que vous obtenez: 1 x disque dur externe, 1 x câble USB C, 1 x manuel de lutilisateur, 2 ans de garantie du fabricant.
+- Ultra Slim disque dur externe, Boîtier en Métal, Étanche, Résistant Aux Chutes, Résistant Aux Rayures.
+- Plug-and-play: Il nest pas nécessaire dinstaller des drivers/pilotes, il suffit de le brancher et le disque est prêt à lemploi.
 
 [Achète-le!!](https://www.amazon.fr/dp/B08PVCC3WX/?tag=tolees0d-21)

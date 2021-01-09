@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '46.67 % rabais sur Disque Dur Externe 2to USB 3.1 pour PC  '
-date: 2021-01-08 14:27:06
+date: 2021-01-09 22:04:31
 image: 'https://m.media-amazon.com/images/I/414vi2D8VdL._SL200_.jpg'
 comments: true
 category: ofertas

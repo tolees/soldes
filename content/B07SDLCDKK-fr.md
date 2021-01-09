@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LIGHTAILING Jeu De Lumières pour  Archit avec 41.26 % rabais '
-date: 2021-01-08 20:44:51
+date: 2021-01-09 22:04:21
 image: 'https://m.media-amazon.com/images/I/41Vk0OFmDCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ C'est en vente [LIGHTAILING Jeu De Lumières pour  Architecture Statue de la Lib
 
 ℹ️:
 
+- A PROPOS DE NOUS: Spécialisé dans la conception de jouets déclairage sur mesure, nous visons à fournir à nos clients des produits de qualité et des services de qualité. Rendez vos créations uniques avec votre imagination et votre créativité. Allumez vos briques et apportez leur une nouvelle énergie. Si vous avez des problèmes, nhésitez pas à nous contacter. Passez une bonne expérience de magasinage!
+- CONSEILS: Utilisez les petites pinces et trois piles AAA, ou le chargeur USB et la tension doit être inférieure à 5V pour éviter de brûler.
+- USAGE: lensemble de lumière est utilisé pour Eclairer Architecture Statue Liberté (à lexception de lensemble lego).
 - CARACTÉRISTIQUE DU PRODUIT: La Lumière Est Faite A Partir De Matériaux Dorigine Purement Faits A La Main. Il Contient 1 Kit De Lumière Usb, Mode Demploi, Boîte A Piles. Brancher Lalimentation, Et Eclairer Vos Blocs De Construction Avec Notre Conception Etonnante!
 - INSTRUCTION DE MONTAGE: Linstallation de lensemble déclairage se fait selon vos préférences. Veuillez installer votre lampe à led avec soin, sans tirer fort et sans avoir besoin de la tordre ou de la secouer.
-- USAGE: lensemble de lumière est utilisé pour Eclairer Architecture Statue Liberté (à lexception de lensemble lego).
-- CONSEILS: Utilisez les petites pinces et trois piles AAA, ou le chargeur USB et la tension doit être inférieure à 5V pour éviter de brûler.
-- A PROPOS DE NOUS: Spécialisé dans la conception de jouets déclairage sur mesure, nous visons à fournir à nos clients des produits de qualité et des services de qualité. Rendez vos créations uniques avec votre imagination et votre créativité. Allumez vos briques et apportez leur une nouvelle énergie. Si vous avez des problèmes, nhésitez pas à nous contacter. Passez une bonne expérience de magasinage!
 
 [Achète-le!!](https://www.amazon.fr/dp/B07SDLCDKK/?tag=tolees0d-21)

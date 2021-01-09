@@ -26,9 +26,9 @@ C'est en vente [The Last of Us Part 2 sur PS4  Édition Standard  Version physiq
 ℹ️:
 
 - Jeu daction et daventure The Last of Us Part II, Pour découvrir la suite tant attendue du jeu qui à marqué une génération de joueurs
-- Fonctionnalités améliorées : système de combat au corps à corps à haute intensité et système de furtivité dynamique pour vous mettre au coeur de laction
 - Contenu : 1 x Jeu The Last of Us Part II Édition Standard
 - Graphismes : des personnages, des ennemis et un univers encore plus réalistes et méticuleusement détaillés grâce au nouveau moteur de Naughty Dog
 - Caractéristiques du jeu : 1 joueur, Version physique, Disponible en français et en anglais, Compatibilités : consoles PS4 et PS4 Pro
+- Fonctionnalités améliorées : système de combat au corps à corps à haute intensité et système de furtivité dynamique pour vous mettre au coeur de laction
 
 [Achète-le!!](https://www.amazon.fr/dp/B0777XHSRJ/?tag=tolees0d-21)
