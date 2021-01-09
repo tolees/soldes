@@ -25,12 +25,12 @@ Vous avez [Samsung - Galaxy Buds Live R180 - Ecouteurs sans fil avec réduction 
 
 ℹ️:
 
-- Excellente tenue dans loreille
-- Réduction Active de bruit
-- Composants inclus : Galaxy Buds Live, étui de rangement/charge USB type C, 2 paires dembouts, Câble type C, guide de prise en main
-- Modèles de téléphones compatibles : Smartphone, tablettes et smartwatch Android 5.0 et versions ultérieures avec 1,5 GO de RAM
-- Bluetooth 5.0
 - 3 Micros pour des appels clairs
+- Réduction Active de bruit
+- Bluetooth 5.0
+- Modèles de téléphones compatibles : Smartphone, tablettes et smartwatch Android 5.0 et versions ultérieures avec 1,5 GO de RAM
+- Composants inclus : Galaxy Buds Live, étui de rangement/charge USB type C, 2 paires dembouts, Câble type C, guide de prise en main
+- Excellente tenue dans loreille
 - Autonomie longue durée et charge sans fil
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DRQNBY8/?tag=tolees0d-21)

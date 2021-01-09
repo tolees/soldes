@@ -25,10 +25,10 @@ C'est en vente [Maxesla Bluetooth 4.0 Adaptateur Clé Bluetooth pour PC  Casque 
 
 ℹ️:
 
-- Haute Compatibilite: Connectez des claviers et des souris Bluetooth (appareils NON 2.4G), des imprimantes, des projecteurs, manettes PS4 / Xbox One S et les autres équipements BLE (Bluetooth Low Energy). Pour certaines manettes et suivant les logiciels / jeux utilisés, vous devrez peut-être installer des pilotes spécifiques tiers afin de configurer correctement les boutons. Attention : manettes Xbox One ou consoles Nintendo non supportées.
 - Bluetooth V4.0 & 20m Bluetooth Signal: Bluetooth dongle adopte la version Bluetooth 4.0 pour offrir une vitesse élevée jusquà 3mbps sans fil permet la connectivité à longue portée jusquà 20 m dans un espace ouvert.Il est rétrocompatible avec Bluetooth V3.0 / 2.1 / 2.0 / 1.1.
 - Faible Consommation Dénergie: USB 2.0 a une consommation dénergie plus faible et il est compatible avec USB 1,1. Lindicateur LED vous permet de savoir si cela fonctionne ou non.
 - Utilisation Multiple: Adaptateur dongle USB Bluetooth peut ajouter facilement la fonctionnalité Bluetooth pour votre ordinateur, permet à lordinateur de connecter sans fil plus de périphériques Bluetooth tels que casque Bluetooth, haut-parleur, récepteur, clavier, souris, smartphone, tablette, imprimante, projecteur, et plus de périphériques BLE (Bluetooth Low Energy).
 - Facile à Utiliser: Avant de brancher ladaptateur de clé USB 4.0 Bluetooth sur le port USB, installez dabord les pilotes via un CD MINI, ou téléchargez le pilote à partir de https://a.ei72.com/ju9p. Une fois que vous avez exécuté le logiciel, vous pouvez simplement insérer l’adaptateur pour vous connecter.
+- Haute Compatibilite: Connectez des claviers et des souris Bluetooth (appareils NON 2.4G), des imprimantes, des projecteurs, manettes PS4 / Xbox One S et les autres équipements BLE (Bluetooth Low Energy). Pour certaines manettes et suivant les logiciels / jeux utilisés, vous devrez peut-être installer des pilotes spécifiques tiers afin de configurer correctement les boutons. Attention : manettes Xbox One ou consoles Nintendo non supportées.
 
 [Achète-le!!](https://www.amazon.fr/dp/B0126XU9CM/?tag=tolees0d-21)

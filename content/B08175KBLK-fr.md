@@ -26,9 +26,9 @@ C'est en vente [Playmobil - Chaloupe des Soldats - 70412](https://www.amazon.fr/
 ℹ️:
 
 - Fun for little pirates: Playmobil Redcoat Caravel with two soldiers as well as pirate raft and many detailed accessories
-- Everyday use: Instructions for assembly (with parents), high quality and robust design, to clean the parts (not including stickers), place pieces under running water containing no chemical agents
-- Contents: 1 x Playmobil Redcoat Caravel, 87-piece playset with instructions: 1 Sailing boat, 3 figures, 83 accessories, material: Plastic, L x D x H: 40 x 17 x 30 cm, 70412
 - Two Redcoats with telescope and much more, floating caravel with anchor and cannons, can be upgraded with the Underwater Motor (7350 sold separately), raft with projectile and one pirate
 - Playset for children ages 5+, fits ideally in childrens hands due to age-appropriate size pieces, easy to hold thanks to its rounded edges
+- Everyday use: Instructions for assembly (with parents), high quality and robust design, to clean the parts (not including stickers), place pieces under running water containing no chemical agents
+- Contents: 1 x Playmobil Redcoat Caravel, 87-piece playset with instructions: 1 Sailing boat, 3 figures, 83 accessories, material: Plastic, L x D x H: 40 x 17 x 30 cm, 70412
 
 [Achète-le!!](https://www.amazon.fr/dp/B08175KBLK/?tag=tolees0d-21)

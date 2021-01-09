@@ -25,10 +25,10 @@ C'est en vente [LEGO Technic  La voiture de rallye contrôlée  CONTROL+ RC Raci
 
 ℹ️:
 
+- Fonctionne via un appareil intelligent avec 3 écrans: fonction et contrôle gyroscopique ainsi que des réalisationsAllez sur LEGOcom/devicecheck pour les appareils compatibles
+- La fonctionnalité complète nécessite 6 piles AA 1,5 V dans le Smart Hub Cet ensemble nest pas compatible avec les systèmes LEGO Power Functions
 - Comprend un contrôle gyroscopique multifonction, une palette de couleurs impressionnante avec des autocollants et des détails idéals idéals pour les enfants qui aiment les jouets de course
 - Ce modèle de voiture de rallye est contrôlé via lapplication LEGO Technic CONTROL+ et propulsé par un Smart Hub avancé avec 1 moteur XL et 1 moteur L
 - Avec ce modèle de construction avancé, les conducteurs peuvent avancer, reculer, diriger, accélérer, freiner, jouer des effets sonores et obtenir une rétroaction en temps réel
-- La fonctionnalité complète nécessite 6 piles AA 1,5 V dans le Smart Hub Cet ensemble nest pas compatible avec les systèmes LEGO Power Functions
-- Fonctionne via un appareil intelligent avec 3 écrans: fonction et contrôle gyroscopique ainsi que des réalisationsAllez sur LEGOcom/devicecheck pour les appareils compatibles
 
 [Achète-le!!](https://www.amazon.fr/dp/B07W7V6R7D/?tag=tolees0d-21)

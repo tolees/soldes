@@ -25,12 +25,12 @@ Vous avez [Total Super Garage Station-Service Complète-Dès 3 Ans-Fabrication e
 
 ℹ️:
 
-- ⭐ 1 parking, 4 niveaux
-- ⭐ Entretiens et répare ta voiture ! Fais le plein dessence avant de partir vers de nouvelles aventures !
 - ⭐ Super garage Total avec station service complète !
 - ⭐ 1 atelier de réparation + 1 Station de lavage +1 ascenseur
-- ⭐ Dimensions : 35 x 55 x 44 cm
+- ⭐ Entretiens et répare ta voiture ! Fais le plein dessence avant de partir vers de nouvelles aventures !
 - ⭐ Idéal pour samuser seul ou à plusieurs
+- ⭐ Dimensions : 35 x 55 x 44 cm
+- ⭐ 1 parking, 4 niveaux
 - ⭐Conception Française & fabrication Européenne
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JK6C6WX/?tag=tolees0d-21)
