@@ -26,9 +26,9 @@ C'est en vente [G-STAR RAW Roxic Tapered Cargo Pantalon  Noir  Raven 4893-976   
 ℹ️:
 
 - Poches profondes sur le devant au niveau des cuisses, poches à rabat à larrière
-- Ourlet ajustable à la jambe avec ruban
 - Fermeture zippée et boutonnée
 - Taille mi-haute
+- Ourlet ajustable à la jambe avec ruban
 - Fermeture zippée et boutonnée
 
 [Achète-le!!](https://www.amazon.fr/dp/B07QFQWS9D/?tag=tolees0d-21)
