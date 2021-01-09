@@ -26,13 +26,13 @@ Vous avez [Emsa Travel Mug  Mug isotherme  0 36 L  100% sûr  100% hermétique  
 ℹ️:
 
 - Ouverture pour boire à 360° : pratique pour boire sans chercher la bonne position
-- Garantie 5 ans
-- Se démonte et passe au lave-vaisselle : nettoyage facile
-- Revêtement silicone attractif permettant une bonne prise en main, base antidérapante
-- Sintègre dans les porte-gobelets standards des voitures
-- Conservation optimale grâce à son ampoule sous vide en inox à double paroi isolante : 8h au froid, 4h au chaud
 - 100 % hermétique pour un transport 100 % sûr
+- Garantie 5 ans
+- Conservation optimale grâce à son ampoule sous vide en inox à double paroi isolante : 8h au froid, 4h au chaud
+- Revêtement silicone attractif permettant une bonne prise en main, base antidérapante
 - Sans BPA
+- Se démonte et passe au lave-vaisselle : nettoyage facile
 - Un design tendance
+- Sintègre dans les porte-gobelets standards des voitures
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B008TLGIA8/?tag=tolees0d-21)
