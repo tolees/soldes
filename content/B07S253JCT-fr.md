@@ -25,8 +25,8 @@ C'est en vente [MXGP 2019](https://www.amazon.fr/dp/B07S253JCT/?tag=tolees0d-21)
 
 ℹ️:
 
-- 2 ans
 - BANDAI NAMCO
 - E03359
+- 2 ans
 
 [Achète-le!!](https://www.amazon.fr/dp/B07S253JCT/?tag=tolees0d-21)
