@@ -25,10 +25,10 @@ Vous avez [eXtremeRate Coque Avant de Remplacement pour Xbox Séries X Manette C
 
 ℹ️:
 
-- S’adapter Parfaitement: S’adapter le meilleur de loin; Sadapter complètement à ras de tous les côtés; Asseyez-vous correctement sur tous les clips.
 - Modèle de Compatibilité: Seulement convient aux manettes Xbox Séries X et Xbox Séries S;Non compatible avec les autres manettes Xbox One. Vérifiez la deuxième photo du listing avant lachat.
-- Facile à Installer: Démontez simplement votre coque dorigine de la manette, puis remplacez-la par la coque eXtremeRate; Obtenez un guide vidéo dinstallation en recherchant sur Youtube.
 - Caractéristique personnalisée: la couleur est superbe; Excellente prise en main, douce dans la main et soyeuse; Antidérapant, sans transpiration pour une longue période de jeu
+- S’adapter Parfaitement: S’adapter le meilleur de loin; Sadapter complètement à ras de tous les côtés; Asseyez-vous correctement sur tous les clips.
+- Facile à Installer: Démontez simplement votre coque dorigine de la manette, puis remplacez-la par la coque eXtremeRate; Obtenez un guide vidéo dinstallation en recherchant sur Youtube.
 - L’emballage Inclut: 1 * Coque Avant; 1 * Tournevis T8H; 5 * Vis. (Important: La manette et les autres pièces ne sont pas inclus.)
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08QCSDS82/?tag=tolees0d-21)
