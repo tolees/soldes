@@ -25,10 +25,10 @@ C'est en vente [COSY HOMEER Tapis de Cuisine avec Support antidérapant pour Tap
 
 ℹ️:
 
-- 【CUSTOMER SERVICE】: Our brand is always looking for customer satisfaction as the top priority. We are happy to receive more suggestions from our customers, if the kitchen mats have problems, we will process any customer request within 24 hours, and the replacement will be paid by us for any quality issue.
+- 【Anti-slip】: The back of the kitchen mats is made of TPR material, which is much more durable than the rubber bottom and TPR increases the friction between the mat and the floor. You can feel safe to use without worrying too much about slipping.
 - 【High Quality】 The COSY HOMEER door mat is made of 100% polypropylene, which is great for providing a barrier against moisture and dirt, and this magical non-slip kitchen mat serves as an entrance mat to make your life easier.
 - 【WASHABLE】: The kitchen mats are easy to clean, you can simply use a vacuum cleaner to clean it daily. If it has been used for a long time, the customer can use a washing machine to clean the carpets. Different from other poor quality kitchen mats, our rug is more durable and must be strictly tested before marketing.
+- 【CUSTOMER SERVICE】: Our brand is always looking for customer satisfaction as the top priority. We are happy to receive more suggestions from our customers, if the kitchen mats have problems, we will process any customer request within 24 hours, and the replacement will be paid by us for any quality issue.
 - 【Stain Resistant】: The floor mat is made of 100% polypropylene, which is durable and difficult to stain the surface. Every day, customers just have to vacuum on the carpet. If the carpet cushion has been used too long, customers could put it in the washing machine.
-- 【Anti-slip】: The back of the kitchen mats is made of TPR material, which is much more durable than the rubber bottom and TPR increases the friction between the mat and the floor. You can feel safe to use without worrying too much about slipping.
 
 [Achète-le!!](https://www.amazon.fr/dp/B08F1MLQDQ/?tag=tolees0d-21)

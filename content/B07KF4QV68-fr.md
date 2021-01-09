@@ -25,9 +25,9 @@ Vous avez [Levi s Type 3 Sherpa Trucker Veste en Jean Homme  Berk Sherpa Trucker
 
 ℹ️:
 
-- Type de col: Col Chemise Classique
+- Lavage en machine
 - 100% Cotton
 - Fermeture: Bouton
-- Lavage en machine
+- Type de col: Col Chemise Classique
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KF4QV68/?tag=tolees0d-21)

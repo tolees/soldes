@@ -26,9 +26,9 @@ C'est en vente [Playmobil - Camion de Marché - 70134](https://www.amazon.fr/dp/
 ℹ️:
 
 - Convient aux enfants à partir de 4 ans.
-- Participe à la vie de la ferme avec tous ces animaux !
 - Le camion magasin avec toit dépliant propose des produits de la ferme.
-- Le camion magasin à toit dépliant propose des produits de la ferme tels que des légumes, des œufs, du lait, du miel, etc. Avec deux personnages.
+- Participe à la vie de la ferme avec tous ces animaux !
 - De délicieux légumes et fruits sont là !
+- Le camion magasin à toit dépliant propose des produits de la ferme tels que des légumes, des œufs, du lait, du miel, etc. Avec deux personnages.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07JXHQWYB/?tag=tolees0d-21)

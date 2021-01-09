@@ -26,8 +26,8 @@ Vous avez [Maybelline New York EyeStudio - Palette Ombre à Paupières - 12 Tein
 ℹ️:
 
 - Succombez à la tendance du nude : palette de fards à paupières contenant 12 fards nudes aux fragments de lumière or et rose
-- Contenu : 1x Palette Fards à Paupières The Blushed Nudes de Maybelline New York, applicateur inclus, nombre de fards : 12
 - Contenant au format pratique pour le glisser dans votre sac à main, Pack avec miroir et applicateur intégrés
+- Contenu : 1x Palette Fards à Paupières The Blushed Nudes de Maybelline New York, applicateur inclus, nombre de fards : 12
 - Applicateur pratique pour dégrader et fondre les teintes entre elles
 - Déposer dabord la couleur la plus claire sur lensemble de la paupière jusquà la ligne du sourcil puis assombrir la paupière mobile, possibilité de mélanger les teintes pour créer différents looks
 

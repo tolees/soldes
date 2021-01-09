@@ -25,10 +25,10 @@ C'est en vente [LEGO® Harry Potter™ Hedwige 75979 - Superbe Modèle de Collec
 
 ℹ️:
 
+- Enjoy the rewarding building experience and the detail of the completed Hedwig model on display with her big, round, golden eyes
+- Turn the handle to witness the cleverly designed jointed wings flapping effortlessly, bringing Hedwig the owl to life
 - This collectible Hedwig is a wonderful addition to any LEGO Harry Potter collection, as everyone loves this cheeky white pet
 - Features a detachable Harry Potter minifigure display in Gryffindor colours, with a wand and a smaller Hedwig figure with wings spread
 - Display Hedwig at home in all her snowy glory, carrying a Hogwarts letter, atop a sturdy base with nameplate in typical Harry Potter font
-- Enjoy the rewarding building experience and the detail of the completed Hedwig model on display with her big, round, golden eyes
-- Turn the handle to witness the cleverly designed jointed wings flapping effortlessly, bringing Hedwig the owl to life
 
 [Achète-le!!](https://www.amazon.fr/dp/B0813S3VDM/?tag=tolees0d-21)
