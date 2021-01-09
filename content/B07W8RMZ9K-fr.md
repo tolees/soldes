@@ -25,11 +25,11 @@ C'est en vente [Samsung - Montre Galaxy Watch Active 2 Bluetooth - Aluminium 44 
 
 ℹ️:
 
-- Fine 10,9 mm
-- Fonctions bien-être & sport avancées
-- Durabilité : 5ATM et IP68, MIL-STD-810G
-- Grand écran aux bords fins
 - Certification IP68
+- Fonctions bien-être & sport avancées
+- Grand écran aux bords fins
+- Durabilité : 5ATM et IP68, MIL-STD-810G
+- Fine 10,9 mm
 - Lunette rotative numérique
 
 [Achète-le!!](https://www.amazon.fr/dp/B07W8RMZ9K/?tag=tolees0d-21)
