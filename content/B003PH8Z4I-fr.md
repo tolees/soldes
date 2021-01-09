@@ -25,7 +25,7 @@ Vous avez [Casio Graph 25+ EII Calculatrice graphique avec mode examen](https://
 
 ℹ️:
 
-- Connexion possible à une autre calculatrice graphique (via câble 3 broches), Mode examen : restriction d’accès à la mémoire utilisateur pendant l’examen
 - Écran 8 lignes x 21 caractères, Mémoire utilisateur de 20 Ko, Menu à icônes, Langage de programmation type Basic, Couvercle coulissant de protection
+- Connexion possible à une autre calculatrice graphique (via câble 3 broches), Mode examen : restriction d’accès à la mémoire utilisateur pendant l’examen
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B003PH8Z4I/?tag=tolees0d-21)
