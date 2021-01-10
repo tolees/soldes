@@ -25,7 +25,7 @@ Vous avez [G-STAR RAW Swando Loose T-Shirt  Blanc  White 110   Large Homme](http
 
 ℹ️:
 
-- Associez votre t-shirt à un blazer ou une veste, ou portez-le seul avec votre jean préféré.
 - Conjugue confort et originalité avec son logo graphique sur la poitrine et sa coupe facile à porter
+- Associez votre t-shirt à un blazer ou une veste, ou portez-le seul avec votre jean préféré.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TPY1S2S/?tag=tolees0d-21)
