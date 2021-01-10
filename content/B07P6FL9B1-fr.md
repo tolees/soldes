@@ -26,7 +26,7 @@ C'est en vente [Forteresse volcanique des Burnham Raiders](https://www.amazon.fr
 ℹ️:
 
 - Jet de boule de feu.
-- Contient une trappe.
 - Le mur est cassable.
+- Contient une trappe.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07P6FL9B1/?tag=tolees0d-21)
