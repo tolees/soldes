@@ -25,10 +25,10 @@ C'est en vente [Disque Dur Externe 2to Type C USB3.1 Disque Dur Externe pour PC 
 
 ℹ️:
 
-- 【Haute vitesse】 Disque dur externe. Alimenté par la technologie USB 3.1, permettant une vitesse de transfert ultra rapide jusquà 5 Gbit / s
-- 【Garantie】 Garantie constructeur dun an avec service dassistance technique gratuit
-- 【Compatibilité du système】 Compatibilité NTFS formaté pour Windows 10, Windows 8.1, Windows 7; Un reformatage peut être nécessaire pour dautres systèmes dexploitation;
 - 【Plug and Play】 Ce lecteur externe est prêt à être utilisé sans alimentation externe ni installation de logiciel nécessaire. Stockage supplémentaire idéal pour votre ordinateur et votre console de jeu
 - 【Mince et durable】 Disque dur externe portable ultra mince protégé par un boîtier robuste et durable, léger et pratique, sadapte confortablement à votre paume ou se glisse dans la poche.
+- 【Haute vitesse】 Disque dur externe. Alimenté par la technologie USB 3.1, permettant une vitesse de transfert ultra rapide jusquà 5 Gbit / s
+- 【Compatibilité du système】 Compatibilité NTFS formaté pour Windows 10, Windows 8.1, Windows 7; Un reformatage peut être nécessaire pour dautres systèmes dexploitation;
+- 【Garantie】 Garantie constructeur dun an avec service dassistance technique gratuit
 
 [Achète-le!!](https://www.amazon.fr/dp/B08QV1RRZW/?tag=tolees0d-21)
