@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ring Fit Adventure pour Nintendo Switch avec 15.66 % rabais '
-date: 2021-01-09 21:59:30
+date: 2021-01-10 22:20:47
 image: 'https://m.media-amazon.com/images/I/51J7xUJ9avL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XTVTRLZ/?tag=tolees0d-21'
 descuento: '15.66'
-average: '69.09513157894736'
+average: '69.10291304347825'
 ---
 
 C'est en vente [Ring Fit Adventure pour Nintendo Switch](https://www.amazon.fr/dp/B07XTVTRLZ/?tag=tolees0d-21)  à  15.66 % de réduction, prix final  69.99 EUR (original: 82.99 EUR) ici:

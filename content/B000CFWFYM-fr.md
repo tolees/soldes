@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.46 % rabais sur UNO Deluxe jeu de société et de cartes  '
-date: 2021-01-09 15:37:21
+date: 2021-01-10 22:20:50
 image: 'https://m.media-amazon.com/images/I/51bS2RrPb7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ Vous avez [UNO Deluxe jeu de société et de cartes  K0888](https://www.amazon.f
 
 - À partir de sept ans
 - La version de luxe contient un carnet de scores et un sabot de distribution, très pratique pour ranger les cartes après la partie
-- 2 à 10 joueurs
 - Recouvrir la carte jouée précédemment avec une carte de la même couleur ou avec le même symbole
+- 2 à 10 joueurs
 - Attention aux cartes action et aux coups de bluff que chacun peut tenter à tout instant
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B000CFWFYM/?tag=tolees0d-21)

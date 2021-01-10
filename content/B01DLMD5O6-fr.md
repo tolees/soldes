@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.22 % rabais sur Sony SEL 50-F18F Objectif 50 mm Ouvertur'
-date: 2021-01-09 21:48:01
+date: 2021-01-10 22:23:38
 image: 'https://m.media-amazon.com/images/I/41LS1wijtQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01DLMD5O6/?tag=tolees0d-21'
 descuento: '35.22'
-average: '187.81740157480309'
+average: '187.21558139534875'
 ---
 
 Vous avez [Sony SEL 50-F18F Objectif 50 mm Ouverture F1.8 pour Monture E Sony](https://www.amazon.fr/dp/B01DLMD5O6/?tag=tolees0d-21)  à  35.22 % de réduction, prix final  149.0 EUR (original: 230.0 EUR) ici:
@@ -25,11 +25,11 @@ Vous avez [Sony SEL 50-F18F Objectif 50 mm Ouverture F1.8 pour Monture E Sony](h
 
 ℹ️:
 
-- Ultra légère (186g) et compacte
-- FE 50mm F1,8. Rapport de grossissement maximum (x): 0,14 x
-- Résistance à la poussière et humidité
-- Ouverture circulaire jusquà F1,8 pour un superbe effet de bokeh
 - Angle de vue (APS-C): 32 °
+- FE 50mm F1,8. Rapport de grossissement maximum (x): 0,14 x
+- Ouverture circulaire jusquà F1,8 pour un superbe effet de bokeh
 - Angle de vue (35 mm): 47°
+- Résistance à la poussière et humidité
+- Ultra légère (186g) et compacte
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DLMD5O6/?tag=tolees0d-21)
