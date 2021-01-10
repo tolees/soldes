@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Descuento del 50.16 % en Westerns de légende 2-12 DVD'
-date: 2020-12-06 13:04:06
+title: 'Westerns de légende 2-12 DVD avec 50.16 % rabais '
+date: 2021-01-10 21:01:54
 image: 'https://m.media-amazon.com/images/I/51zBW5NCEbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,13 +16,14 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07T5WBHZW/?tag=tolees0d-21'
 descuento: '50.16'
+average: '25.0'
 ---
 
-Tienes [Westerns de légende 2-12 DVD](https://www.amazon.fr/dp/B07T5WBHZW/?tag=tolees0d-21) con un 50.16 % de descuento con precio de oferta de 25.0 EUR (original: 50.16 EUR) en el siguiente enlace!
+C'est en vente [Westerns de légende 2-12 DVD](https://www.amazon.fr/dp/B07T5WBHZW/?tag=tolees0d-21)  à  50.16 % de réduction, prix final  25.0 EUR (original: 50.16 EUR) ici:
 
 [![Westerns de légende 2-12 DVD](https://m.media-amazon.com/images/I/51zBW5NCEbL._SL200_.jpg)](https://www.amazon.fr/dp/B07T5WBHZW/?tag=tolees0d-21)
 
 ℹ️:
 
 
-[Accede a la oferta!!](https://www.amazon.fr/dp/B07T5WBHZW/?tag=tolees0d-21)
+[Achète-le!!](https://www.amazon.fr/dp/B07T5WBHZW/?tag=tolees0d-21)
