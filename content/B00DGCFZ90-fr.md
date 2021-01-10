@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % rabais sur Robin des Bois [Blu-Ray]'
-date: 2021-01-09 08:33:10
+date: 2021-01-10 09:57:50
 image: 'https://m.media-amazon.com/images/I/512fAezF1UL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21'
 descuento: '20.01'
-average: '15.453636363636363'
+average: '15.536153846153846'
 ---
 
 Vous avez [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  15.99 EUR (original: 19.99 EUR) ici:
