@@ -25,10 +25,10 @@ C'est en vente [Playmobil - Chambre avec Espace Couture - 70208](https://www.ama
 
 ℹ️:
 
-- La couture a toujours fait partie des passe-temps préférés de maman !
-- Une belle et grande maison pour accueillir toute la famille et y faire plein dactivités !
-- Lampes fonctionnelles (Nécessite 3 piles de 1,5 V AAA non fournies)
 - Convient aux enfants à partir de 4 ans.
+- Lampes fonctionnelles (Nécessite 3 piles de 1,5 V AAA non fournies)
+- Une belle et grande maison pour accueillir toute la famille et y faire plein dactivités !
+- La couture a toujours fait partie des passe-temps préférés de maman !
 - Dans la nouvelle maison, elle a pu installer son propre coin couture dans la chambre.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07P9T3KKD/?tag=tolees0d-21)

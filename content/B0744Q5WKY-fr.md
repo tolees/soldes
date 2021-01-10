@@ -25,10 +25,10 @@ C'est en vente [Bioworld Nintendo - Sac à Dos - Cartouche Nes](https://www.amaz
 
 ℹ️:
 
-- Compartiment intérieur spacieux (zippé).
-- Qualité supérieure.
 - Produit sous licence officielle Nintendo.
-- Composition : 70 % polyuréthane, 30 % polyester
+- Compartiment intérieur spacieux (zippé).
 - Bretelles réglables.
+- Composition : 70 % polyuréthane, 30 % polyester
+- Qualité supérieure.
 
 [Achète-le!!](https://www.amazon.fr/dp/B0744Q5WKY/?tag=tolees0d-21)

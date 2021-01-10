@@ -25,10 +25,10 @@ C'est en vente [Spa Luxetique Crème pour Mains Sèches  6PC Crème de Mains  Pa
 
 ℹ️:
 
-- 6 fragrances agréables: fleur de cerisier, lavande, thé vert, amande de karité, rose, océan. Choisissez votre parfum préféré en fonction de votre humeur parmi nos 6 fragrances naturelles.
-- Crème pour les mains ultra-nourrissante: Cette crème pour les mains riche, hydrate les mains, laisse les mains soyeuses, lisses et rajeunies. La formule non grasse pénètre rapidement et vous fait confortables toute la journée.
-- Ingrédients naturels de lotion pour les mains: Les lotions mains sont formulées avec du beurre de karité enrichissant, de laloès naturel et de la vitamine E. Sans cruauté et respectueux de tous les types de peau.
-- Format voyage – Les lotions pour les mains convient à votre sac à main. Facile à transporter.
 - Un coffret crème de mains dans la Saint-Valentin - Nos emballages exquis et nos produits haut de gamme sont parfaits comme coffret crème de mains pour un être cher ou vous-même. Il fait un merveilleux cadeau pour la Saint-Valentin.
+- Format voyage – Les lotions pour les mains convient à votre sac à main. Facile à transporter.
+- Ingrédients naturels de lotion pour les mains: Les lotions mains sont formulées avec du beurre de karité enrichissant, de laloès naturel et de la vitamine E. Sans cruauté et respectueux de tous les types de peau.
+- Crème pour les mains ultra-nourrissante: Cette crème pour les mains riche, hydrate les mains, laisse les mains soyeuses, lisses et rajeunies. La formule non grasse pénètre rapidement et vous fait confortables toute la journée.
+- 6 fragrances agréables: fleur de cerisier, lavande, thé vert, amande de karité, rose, océan. Choisissez votre parfum préféré en fonction de votre humeur parmi nos 6 fragrances naturelles.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07LBKWM5M/?tag=tolees0d-21)
