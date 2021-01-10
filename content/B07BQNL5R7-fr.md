@@ -25,11 +25,11 @@ C'est en vente [Goliath - Boomtrix Multiball - Jeu de construction - à partir d
 
 ℹ️:
 
-- Cascades spectaculaires.
-- A partir de 8 ans
-- Grâce à elle vous pourrez relâcher jusqu’à 15 billes en même temps pour une réalisation de parcours encore plus impressionnante !
 - Possibilités de parcours illimitées.
+- Grâce à elle vous pourrez relâcher jusqu’à 15 billes en même temps pour une réalisation de parcours encore plus impressionnante !
 - Contenu : 1 Ramp tower, 1 trampoline de lancement, 5 trampolines, 3 pieds de trampoline, 1 anneau, 3 murs, 1 but, 8 billes
+- A partir de 8 ans
+- Cascades spectaculaires.
 - Ce pack ultime vous donne accès à la tour de lancement multi-bille.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07BQNL5R7/?tag=tolees0d-21)
