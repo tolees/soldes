@@ -25,9 +25,9 @@ Vous avez [Levi s Type 3 Sherpa Trucker Veste en Jean Homme  Mayze Sherpa Trucke
 
 ℹ️:
 
-- Lavage en machine
-- Type de col: Col Chemise Classique
 - Fermeture: Bouton
+- Type de col: Col Chemise Classique
+- Lavage en machine
 - 76% Cotton/24% Lyocell
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07K5L7XV6/?tag=tolees0d-21)

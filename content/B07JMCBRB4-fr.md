@@ -25,10 +25,10 @@ Vous avez [Playmobil - Famille de Sirènes - 70100](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
-- Contient 4 personnages et une perle à collectionner
-- Le bébé dans son landau profite du paysage et la tortue se dégourdit les nageoires.
-- Rejoins-nous dans les aventures magiques du palais de cristal !
 - Promenade sous-marine avec toute la famille.
+- Le bébé dans son landau profite du paysage et la tortue se dégourdit les nageoires.
 - Convient aux enfants à partir de 4 ans.
+- Contient 4 personnages et une perle à collectionner
+- Rejoins-nous dans les aventures magiques du palais de cristal !
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JMCBRB4/?tag=tolees0d-21)
