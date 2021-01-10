@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.06 % rabais sur Batman-4 Films Collection 1989-1997 [4K '
-date: 2021-01-09 15:43:54
+date: 2021-01-10 16:48:15
 image: 'https://m.media-amazon.com/images/I/41wOmRIdTTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07WJR8QRG/?tag=tolees0d-21'
 descuento: '44.06'
-average: '45.2175'
+average: '45.153999999999996'
 ---
 
 Vous avez [Batman-4 Films Collection 1989-1997 [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B07WJR8QRG/?tag=tolees0d-21)  à  44.06 % de réduction, prix final  44.9 EUR (original: 80.26 EUR) ici:
