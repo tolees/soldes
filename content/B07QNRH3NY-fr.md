@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'G-Technology ArmorATD 4 To: Disque dur e avec 32.96 % rabais '
-date: 2020-10-02 09:12:10
+date: 2021-01-10 23:48:12
 image: 'https://m.media-amazon.com/images/I/415Yj65SRxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,10 @@ C'est en vente [G-Technology ArmorATD 4 To: Disque dur externe robuste  résista
 
 ℹ️:
 
+- Fonctionne nativement avec macOS et Windows.
+- Résistance à la pluie et à la poussière ainsi qu’à une pression pouvant aller jusquà 453 kg
+- Trois couches de résistance aux chocs grâce à des supports antichocs internes et une bande de protection en caoutchouc
+- Jusqu’à 5 To d’espace de stockage pour vos photos et vos vidéos réalisées sur le terrain
+- Compatibilité USB-C native, USB 3.0 et Thunderbolt 3 ; Adaptateur USB-C vers USB-A inclus
 
 [Achète-le!!](https://www.amazon.fr/dp/B07QNRH3NY/?tag=tolees0d-21)

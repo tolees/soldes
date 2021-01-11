@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.73 % rabais sur SanDisk Carte Mémoire microSDXC Ultra 12'
-date: 2021-01-09 12:17:40
+date: 2021-01-10 23:48:10
 image: 'https://m.media-amazon.com/images/I/41gsJVD7zKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Vous avez [SanDisk Carte Mémoire microSDXC Ultra 128 Go + Adaptateur SD. Vitess
 
 ℹ️:
 
-- Jusquà 1 To pour stocker encore plus de vidéos Full HD
-- Un chargement des applis plus rapide grâce à des performances de classe A1
-- Idéale pour les smartphones et tablettes Android, et les appareils photo hybrides
-- Des vitesses de transfert jusquà 120 Mo/s pour déplacer jusquà 1 000 photos par minute
 - Classe 10 pour enregistrer et visionner des vidéos Full HD
+- Des vitesses de transfert jusquà 120 Mo/s pour déplacer jusquà 1 000 photos par minute
+- Jusquà 1 To pour stocker encore plus de vidéos Full HD
+- Idéale pour les smartphones et tablettes Android, et les appareils photo hybrides
+- Un chargement des applis plus rapide grâce à des performances de classe A1
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GYKNCCP/?tag=tolees0d-21)
