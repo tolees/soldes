@@ -26,9 +26,9 @@ C'est en vente [Facom 006115 Super lubrifiant. 250ml](https://www.amazon.fr/dp/B
 ℹ️:
 
 - Excellente adhérence et longue durée de lubrification.
-- Performant contre les frictions, réduit lusure. Protège de la rouille.
-- Lubrifiant renforcé de particules anti-frictions PTFE.
 - Forme un film lubrifiant fin et propre, ne colle pas les poussières.
+- Lubrifiant renforcé de particules anti-frictions PTFE.
+- Performant contre les frictions, réduit lusure. Protège de la rouille.
 - Lubrifiant. Aérosol 250ml (net).
 
 [Achète-le!!](https://www.amazon.fr/dp/B01E44N1WQ/?tag=tolees0d-21)
