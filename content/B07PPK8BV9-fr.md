@@ -25,9 +25,9 @@ C'est en vente [Ticwatch E2 Montre Intelligente  Moniteur de fréquence Cardiaqu
 
 ℹ️:
 
-- Léger & Confortable La conception légère et les sangles à silicone permettent de porter facilement durant toute la journée
-- GPS intégré Système de navigation multiple (GPS, GLONASS, Beidou) pour un positionnement réactif et précis
 - Composants inclus : TicWatch E2, USB charging dock, User manual
+- GPS intégré Système de navigation multiple (GPS, GLONASS, Beidou) pour un positionnement réactif et précis
+- Léger & Confortable La conception légère et les sangles à silicone permettent de porter facilement durant toute la journée
 - Wear OS par Google Aide proactive depuis Google Assistant. Des milliers dapplications du Play store.
 - Modes sportifs proactifs Suivi sportif auto-guidé, pris en charge par les algorithmes TicMotion AI
 

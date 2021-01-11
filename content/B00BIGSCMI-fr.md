@@ -25,9 +25,9 @@ Vous avez [Facom 006064 Nettoyant contact](https://www.amazon.fr/dp/B00BIGSCMI/?
 
 ℹ️:
 
-- Supprime les dépôts de gras, les poussières, lhumidité et loxydation responsables de mauvais contacts sur les circuits électriques et électroniques
 - Protège les performances électriques à long terme
-- Nettoyant connecteurs, contacteurs, interrupteurs, borniers, douilles, relais, sondes ...
 - Aérosol de 250ml
+- Nettoyant connecteurs, contacteurs, interrupteurs, borniers, douilles, relais, sondes ...
+- Supprime les dépôts de gras, les poussières, lhumidité et loxydation responsables de mauvais contacts sur les circuits électriques et électroniques
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BIGSCMI/?tag=tolees0d-21)

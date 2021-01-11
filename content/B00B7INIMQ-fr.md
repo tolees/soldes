@@ -25,11 +25,11 @@ C'est en vente [Facom - Lubrifiant Silicone](https://www.amazon.fr/dp/B00B7INIMQ
 
 ℹ️:
 
-- Anti-adhérent réduisant le frottement
 - Facom 006100 Lubrifiant Silicone spécial Plastique et Caoutchouc
-- Ne coule pas et sans odeur après application
+- Anti-adhérent réduisant le frottement
 - Lubrifiant incolore pour matière plastique et caoutchouc
 - Protège de lusure, du gel et du dessèchement
 - Hydrofuge, il imperméabilise et empêche lhumidité de pénétrer
+- Ne coule pas et sans odeur après application
 
 [Achète-le!!](https://www.amazon.fr/dp/B00B7INIMQ/?tag=tolees0d-21)
