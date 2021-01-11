@@ -25,11 +25,11 @@ C'est en vente [ma Corolle - 210730 - 2 leggings pour poupée ma Corolle](https:
 
 ℹ️:
 
-- Dès 4 ans
-- Lavable à la main
-- ma Corolle : Ma poupée, MES histoires !
-- Poupée vendue séparément
-- 2 leggings
 - Vêtement pour poupée ma Corolle 36 cm
+- 2 leggings
+- Lavable à la main
+- Poupée vendue séparément
+- ma Corolle : Ma poupée, MES histoires !
+- Dès 4 ans
 
 [Achète-le!!](https://www.amazon.fr/dp/B07LBBMZ69/?tag=tolees0d-21)

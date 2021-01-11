@@ -25,10 +25,10 @@ Vous avez [Crocs Crocband  Sabots Mixte Adulte  Gris  Charcoal/Ocean   42/43 EU]
 
 ℹ️:
 
-- Fermeture : sans fermeture.
-- Talon plat, composition 100% Croslite
-- Doublure : sans doublure.
 - Matériau extérieur : synthétique.
+- Doublure : sans doublure.
+- Talon plat, composition 100% Croslite
+- Fermeture : sans fermeture.
 - Matériau de la semelle : caoutchouc.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B007B9MI0S/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ C'est en vente [Grohe 27923001 Tempesta 100 Douchet te À Main 1 Jet   Chrome](h
 
 ℹ️:
 
+- GROHE EcoJoy débit limité 8 l/min
 - Douchette 1 jet Pluie
-- GROHE StarLight chrome éclatant et durable. Import Allemagne
 - Procédé anticalcaire SpeedClean
 - GROHE DreamSpray jet parfaitement uniforme
-- GROHE EcoJoy débit limité 8 l/min
+- GROHE StarLight chrome éclatant et durable. Import Allemagne
 
 [Achète-le!!](https://www.amazon.fr/dp/B075RCPMF5/?tag=tolees0d-21)
