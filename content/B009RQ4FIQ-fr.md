@@ -26,9 +26,9 @@ Vous avez [Bosch 2609256986 Adaptateur d aspiration pour Outil multifonctions 10
 ℹ️:
 
 - Accessoire avec système de fixation Starlock pour outils multifonctions.
+- Bosch 2609256986 Adaptateur daspiration pour Outil multifonctions 10,8 LI accessoire Starlock
 - Pas dimages dapplications Description à améliorer
 - Pour aspirer la poussière de ponçage.
 - Adaptateur daspiration pour PMF 10,8 LI
-- Bosch 2609256986 Adaptateur daspiration pour Outil multifonctions 10,8 LI accessoire Starlock
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B009RQ4FIQ/?tag=tolees0d-21)

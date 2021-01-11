@@ -25,10 +25,10 @@ C'est en vente [Nissin NI-HDI701S Flash pour Sony Noir](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Soutient la synchro ultra-rapide (hSS)
 - À commander sans fil avec émetteur Air 1 en full TTL
-- Puissant, nombre guide de 54
 - La tête zoom peut sincliner vers le haut de 90 ° et de 7° vers le bas
 - Nombre guide de 54 (100ISO, 200mm) et une tête zoom de 24 mm jusquà pas moins de 200 mm
+- Puissant, nombre guide de 54
+- Soutient la synchro ultra-rapide (hSS)
 
 [Achète-le!!](https://www.amazon.fr/dp/B00TQ3FYOO/?tag=tolees0d-21)

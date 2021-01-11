@@ -25,9 +25,9 @@ C'est en vente [Nivea Men Baume Après-Rasage Peau Sensible 100 ml](https://www.
 
 ℹ️:
 
-- Conseils d’application – Appliquez généreusement le baume réparateur 0% alcool, à la texture non collante et au parfum neutre sur la peau fraîchement rasée.
 - Apaise la peau – Ce soin cutané apaise les 5 signes dirritation causés par le rasage : rougeurs, sècheresse, échauffement, tiraillement et démangeaisons.
 - Emballage – NIVEA MEN Peau Sensible Baume Après-Rasage, crème Apaisante Après-Rasage, soin réparateur anti-tiraillements, sans alcool, 1 x 100 ml, numéro d’article : 81306.
+- Conseils d’application – Appliquez généreusement le baume réparateur 0% alcool, à la texture non collante et au parfum neutre sur la peau fraîchement rasée.
 - Formule extra douce – Enrichi en Camomille & Hamamélis, ce baume visage formulé spécifiquement pour les peaux sensibles apaise instantanément les tiraillements.
 - Après-rasage – Grâce à la vitamine E, le soin émollient calme immédiatement le feu du rasoir. La peau est apaisée, réparée et protégée pour la journée.
 

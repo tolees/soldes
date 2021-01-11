@@ -25,10 +25,10 @@ C'est en vente [Samsung 870 QVO 2 To 2 5   SATA III SSD interne  MZ-77Q2T0BW ](h
 
 ℹ️:
 
-- Température de fonctionnement: 0 - 70°C
-- Garantie 3 ans
-- Disponible jusquà 8 To
-- Seconde génération de la gamme QVO, plus performant et encore plus rapide
 - Performances améliorées de 15% (par rapport au précédent modèle)
+- Garantie 3 ans
+- Seconde génération de la gamme QVO, plus performant et encore plus rapide
+- Température de fonctionnement: 0 - 70°C
+- Disponible jusquà 8 To
 
 [Achète-le!!](https://www.amazon.fr/dp/B089R1C9HV/?tag=tolees0d-21)

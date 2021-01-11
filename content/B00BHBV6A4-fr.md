@@ -25,9 +25,9 @@ Vous avez [Bosch 2609256B55 Standard Lame de scie circulaire 24 dents carbure Di
 
 ℹ️:
 
-- Alésage avec bague de réduction : 20/16 mm
-- Nombre de dents : 24
 - Largeur de coupe : 1,6 mm
+- Alésage avec bague de réduction : 20/16 mm
 - Diamètre de la feuille : 165 mm
+- Nombre de dents : 24
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BHBV6A4/?tag=tolees0d-21)
