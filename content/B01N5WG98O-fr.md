@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.78 % rabais sur Sony XDR-S41D Radio Portable Digitale DA'
-date: 2021-01-03 00:38:14
+date: 2021-01-11 17:12:00
 image: 'https://m.media-amazon.com/images/I/41teNDQxOzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,9 +26,9 @@ Vous avez [Sony XDR-S41D Radio Portable Digitale DAB/ DAB+/ FM RDS Noir](https:/
 ℹ️:
 
 - Radio DAB, DAB+, FM (RDS), 5 boutons favoris, son de qualité
-- Ecran LCD 4 lignes permettant dafficher des informations telles que le nom de la radio, lheure etc
-- Radio portable à piles, idéale pour la mobilité
 - Fonction réveil et fonction veille programmée
+- Radio portable à piles, idéale pour la mobilité
 - Ecoutez également votre musique avec des écouteurs grâce à la prise jack.
+- Ecran LCD 4 lignes permettant dafficher des informations telles que le nom de la radio, lheure etc
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N5WG98O/?tag=tolees0d-21)

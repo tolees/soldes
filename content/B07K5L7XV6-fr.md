@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.62 % rabais sur Levi s Type 3 Sherpa Trucker Veste en Je'
-date: 2021-01-10 16:49:14
+date: 2021-01-11 17:56:08
 image: 'https://m.media-amazon.com/images/I/51zmowXDK-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Vous avez [Levi s Type 3 Sherpa Trucker Veste en Jean Homme  Mayze Sherpa Trucke
 
 ℹ️:
 
-- Fermeture: Bouton
 - Type de col: Col Chemise Classique
 - Lavage en machine
 - 76% Cotton/24% Lyocell
+- Fermeture: Bouton
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07K5L7XV6/?tag=tolees0d-21)

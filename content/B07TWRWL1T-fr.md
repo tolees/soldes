@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de LED pour Lego Architectu avec 43.11 % rabais '
-date: 2021-01-03 12:12:53
+date: 2021-01-11 17:42:04
 image: 'https://m.media-amazon.com/images/I/41JL91uT1KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ C'est en vente [BRIKSMAX Kit de LED pour Lego Architecture Arc De Triomphe  Comp
 
 ℹ️:
 
-- Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
-- Veuillez noter que seule les lumières LED sont incluses. Tous les sets LEGO montrés en images et vidéos ne sont pas inclus.
-- Avec les instructions étape par étape, vous trouverez un moyen plus facile de faire de magnifiques améliorations sur votre kit de construction préféré.
-- Le paquet contient les bit lights,les bandes lumineuses, les panneaux dexpansion, les câbles, un bloc-pile (piles non incluses), les carrés adhésifs, le manuel dinstructions.
-- Conçu pour la maquette Lego 21036, avec ce kit déclairage, vous pouvez faire passer votre LEGO Architecture Arc De Triomphe de lobscurité à la lumière, lui donner vie.
+- Please note that only LED light set. All LEGO sets showed in images and videos are not included.
+- With a step-by-step instruction, you will find an easier way to make a huge upgrade to your favorite building kit.
+- Package contains dot lights, strip light, expansion boards, connecting cables, battery holder(batteries not included), adhesive squares, and instruction.
+- Designed for Lego 21036,with this light kit, you can bring your LEGO Architecture Arc De Triomphe from dark to bright, make it come to life.
+- If you have difficulties with your product, please send us an email, we are always here for assistance.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07TWRWL1T/?tag=tolees0d-21)
