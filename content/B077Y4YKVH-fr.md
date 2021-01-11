@@ -25,10 +25,10 @@ Vous avez [Columbia Bugaboo II  Veste Polaire Interchange](https://www.amazon.fr
 
 ℹ️:
 
-- Attached and adjustable hood for additional protection from the elements, Zippered hand pockets to keep your belongings safe and your hands warm
-- Contents: 1 x Columbia Womens Bugaboo II Fleece Interchange Jacket, Shell: Omni-Tech Generation Dobby 100 Percent nylon; Lining: Omni-Heat Reflective 100 Percent polyester; Liner: Hourglass High Pile Fleece 100 Percent polyester, Colour: Black, Size: XL , Art.No. 1799241
-- Omni-Heat Technology manages body heat by regulating your temperature with little silver dots that reflect and retain the warmth your body generates. Its breathable fabric also dissipates moisture and excess heat
 - Thanks to Omni-Wick moisture management technology, sweat and moisture evaporate quickly, keeping you dry and comfortable all day long
+- Contents: 1 x Columbia Womens Bugaboo II Fleece Interchange Jacket, Shell: Omni-Tech Generation Dobby 100 Percent nylon; Lining: Omni-Heat Reflective 100 Percent polyester; Liner: Hourglass High Pile Fleece 100 Percent polyester, Colour: Black, Size: XL , Art.No. 1799241
 - Womens 3-in-1 jacket with two distinct layers that can be worn alone or together, A tough outer shell and soft inner zip-in fleece
+- Attached and adjustable hood for additional protection from the elements, Zippered hand pockets to keep your belongings safe and your hands warm
+- Omni-Heat Technology manages body heat by regulating your temperature with little silver dots that reflect and retain the warmth your body generates. Its breathable fabric also dissipates moisture and excess heat
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B077Y4YKVH/?tag=tolees0d-21)

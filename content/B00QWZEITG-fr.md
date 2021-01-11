@@ -25,10 +25,10 @@ Vous avez [Portefeuille  Playstation  - forme Bifold](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- 100% official Sony licensed PlayStation merchandise
-- Grey Sony PlayStation Console Mens Wallet
-- 4 x card slots, zip coin pocket, 4 x small inner pockets and 2 x note compartments
-- Measures approx. 11.5cm (L) x 11cm (W) x 1.5cm (D) when closed
 - Made from PU with Polyester inner lining
+- Grey Sony PlayStation Console Mens Wallet
+- Measures approx. 11.5cm (L) x 11cm (W) x 1.5cm (D) when closed
+- 4 x card slots, zip coin pocket, 4 x small inner pockets and 2 x note compartments
+- 100% official Sony licensed PlayStation merchandise
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00QWZEITG/?tag=tolees0d-21)

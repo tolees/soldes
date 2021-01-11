@@ -25,8 +25,8 @@ C'est en vente [Batman: Arkham Collection  Inclus Earth 2 Dark Knight Skin - Ste
 
 ℹ️:
 
-- Comprend un emballage steelbook exclusif, le jeu batman arkham: knight goty et le retour à arkham
 - Pour la première fois au royaume-uni, profitez du skin batman: arkham knight "earth to dark knight" Exclusivement pour Ps4
 - La collection batman: arkham vous offre les versions définitives des jeux de trilogie arkham de rocksteady, y compris tout le contenu post-lancement, dans une collection complète
+- Comprend un emballage steelbook exclusif, le jeu batman arkham: knight goty et le retour à arkham
 
 [Achète-le!!](https://www.amazon.fr/dp/B083PKWKJH/?tag=tolees0d-21)

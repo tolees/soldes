@@ -25,10 +25,10 @@ C'est en vente [Kiano Elegance TV 50" Pouces 4K UHD HDR10 Metal Case  Android TV
 
 ℹ️:
 
+- PVR - Enregistrez la vidéo et laudio numériquement sur un disque dur, Miracast / Eshare - Vidéo du smartphone jusquà 1080p
 - Voir plus: High Dynamic Range (HDR10) permet des contrastes et des couleurs réalistes
 - Télévision presque sans cadre - Veuillez vous asseoir et profiter de la liberté de limage comme au cinéma - Android TV 9.0 2GB RAM
 - Triple tuner: DVB-C, DVB-S2, DVB-T2, emplacement CI (CI +), WiFi, Ethernet, HDMI X3, USB X2, Smart TV: NETFLIX, Ipla, Player, YouTube, Facebook, Twitter, Miracast / Eshare
 - Smart TV 4K Ultra HD (UHD) TV, écran diagonal 127 cm (50 pouces), Plus de détails - plus de détails que les précédents téléviseurs Full HD
-- PVR - Enregistrez la vidéo et laudio numériquement sur un disque dur, Miracast / Eshare - Vidéo du smartphone jusquà 1080p
 
 [Achète-le!!](https://www.amazon.fr/dp/B08HGYYX5X/?tag=tolees0d-21)

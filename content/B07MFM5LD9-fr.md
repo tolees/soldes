@@ -25,10 +25,10 @@ C'est en vente [Orient Montres Bracelet FAC0000EW0](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
-- Cadran gris et sangle marron
-- Classique
 - Mouvement automatique
-- 30 meters
+- Classique
 - Homme cuir analogique
+- Cadran gris et sangle marron
+- 30 meters
 
 [Achète-le!!](https://www.amazon.fr/dp/B07MFM5LD9/?tag=tolees0d-21)

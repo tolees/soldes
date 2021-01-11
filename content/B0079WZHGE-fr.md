@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Laguna Pompe d Ornement Max Flo 2000 Déb avec 52.02 % rabais '
-date: 2021-01-02 15:27:32
+date: 2021-01-11 19:13:40
 image: 'https://m.media-amazon.com/images/I/41fjktaS7mL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ C'est en vente [Laguna Pompe d Ornement Max Flo 2000 Débit 7600 L/H](https://ww
 
 ℹ️:
 
-- Débit: 7600 L/H
-- produits de haute qualité
 - Débit deau maximum : 7 5 L/h
+- produits de haute qualité
 - piles requises: non
+- Débit: 7600 L/H
 
 [Achète-le!!](https://www.amazon.fr/dp/B0079WZHGE/?tag=tolees0d-21)

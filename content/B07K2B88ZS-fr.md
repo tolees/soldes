@@ -25,8 +25,8 @@ Vous avez [Foscam FI9902P Caméra de Surveillance IP sans Fil Full HD P2P avec V
 
 ℹ️:
 
-- Notifications de détection de mouvement. Soutien de la transmission audio, les messages, le double flux sont seulement certains de nombreuses fonctionnalités utiles qui vous sont disponibles sur ce modèle. Grce à la P2P et lapplication Foscam de la maison, La caméra est très facile à utiliser et vous pouvez accéder de partout dans le monde où internet est disponible.
 - La sécurité des données est également associée à Foscam: utilise des techniques de chiffrement avancées,
 - Le nouveau FI9902P est le modèle actuel de la marque Foscam et vous offre la qualité et la fiabilité habituelles en combinaison avec un excellent rapport qualité-prix. La résolution Full HD, la fonction briqué dynamique Range et la vision nocturne puissante vous offrent une surveillance claire et détaillée de votre propriété à tout moment De la journée.
+- Notifications de détection de mouvement. Soutien de la transmission audio, les messages, le double flux sont seulement certains de nombreuses fonctionnalités utiles qui vous sont disponibles sur ce modèle. Grce à la P2P et lapplication Foscam de la maison, La caméra est très facile à utiliser et vous pouvez accéder de partout dans le monde où internet est disponible.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07K2B88ZS/?tag=tolees0d-21)

@@ -27,7 +27,7 @@ Vous avez [Animal Crossing : New Horizons pour Nintendo Switch](https://www.amaz
 
 - Jusquà huit joueurs peuvent vivre sur une île; quatre résidents dune même île peuvent jouer ensemble simultanément sur une seule console Nintendo switch.
 - Huit joueurs peuvent jouer ensemble sur lîle de lun des joueurs grâce au multijoueur en ligne ou au multijoueur local sans fil !
-- Le jeu propose un tout nouveau système dartisanat : collectez des matériaux sur votre île pour tout construire, des meubles jusquaux outils !
 - Détendez-vous en jardinant, en pêchant, en faisant de la décoration ou encore en nouant des relations avec dadorables personnages !
+- Le jeu propose un tout nouveau système dartisanat : collectez des matériaux sur votre île pour tout construire, des meubles jusquaux outils !
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0821XHJB6/?tag=tolees0d-21)

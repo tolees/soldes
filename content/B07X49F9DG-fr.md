@@ -25,12 +25,12 @@ C'est en vente [Grohe Mitigeur Monocommande Evier Bec C Bauloop 31368001  Import
 
 ℹ️:
 
-- Bec orientable pour une utilisation simple
-- Zone de rotation de 360° pour une flexibilité complète
-- Systèmes dacheminement deau séparés pour une eau claire et potable
 - Grohe longlife – performance durable, utilisation sans effort
 - Système dinstallation simple – fait de linstallation des robinetteries un jeu denfant
-- Grohe starlight – brillant et simple à nettoyer
+- Bec orientable pour une utilisation simple
+- Zone de rotation de 360° pour une flexibilité complète
 - Bec haut – idéal pour les tâches de cuisine
+- Systèmes dacheminement deau séparés pour une eau claire et potable
+- Grohe starlight – brillant et simple à nettoyer
 
 [Achète-le!!](https://www.amazon.fr/dp/B07X49F9DG/?tag=tolees0d-21)
