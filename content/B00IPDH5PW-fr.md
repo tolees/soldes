@@ -25,8 +25,8 @@ C'est en vente [Ryobi RC18627 Station de charge 18 V ONE + 6 stations](https://w
 
 ℹ️:
 
-- Compatible avec toutes les batteries au lithium ONE + 18 V
 - Lindicateur lumineux indique létat de la batterie
+- Compatible avec toutes les batteries au lithium ONE + 18 V
 - Le système de surveillance intelligent surveille la tension et la température de chaque cellule individuelle pour la plus longue durée de vie
 
 [Achète-le!!](https://www.amazon.fr/dp/B00IPDH5PW/?tag=tolees0d-21)

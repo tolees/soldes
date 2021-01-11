@@ -25,7 +25,7 @@ C'est en vente [MyKronoz ZESPORT2 - La Montre connectée GPS Multisport alliée 
 
 ℹ️:
 
-- Composants inclus : Montre, câble, notice
 - 0
+- Composants inclus : Montre, câble, notice
 
 [Achète-le!!](https://www.amazon.fr/dp/B07PTLQS7L/?tag=tolees0d-21)
