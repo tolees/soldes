@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.92 % rabais sur Samsung 980 Pro 500 Go M.2 NVMe Internal'
-date: 2021-01-10 22:37:16
+date: 2021-01-11 22:49:26
 image: 'https://m.media-amazon.com/images/I/31clVphjpQL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08GS4FTL6/?tag=tolees0d-21'
 descuento: '27.92'
-average: '152.55230769230766'
+average: '152.4678571428571'
 ---
 
 Vous avez [Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive  SSD   MZ-V8P500BW ](https://www.amazon.fr/dp/B08GS4FTL6/?tag=tolees0d-21)  à  27.92 % de réduction, prix final  151.37 EUR (original: 209.99 EUR) ici:

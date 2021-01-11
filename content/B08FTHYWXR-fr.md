@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.35 % rabais sur Westworld-Saison 3 [Blu-Ray]'
-date: 2021-01-10 22:40:32
+date: 2021-01-11 22:53:12
 image: 'https://m.media-amazon.com/images/I/41ht11KT2cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08FTHYWXR/?tag=tolees0d-21'
 descuento: '20.35'
-average: '41.16230769230769'
+average: '41.103170731707316'
 ---
 
 Vous avez [Westworld-Saison 3 [Blu-Ray]](https://www.amazon.fr/dp/B08FTHYWXR/?tag=tolees0d-21)  à  20.35 % de réduction, prix final  39.95 EUR (original: 50.16 EUR) ici:

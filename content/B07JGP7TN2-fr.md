@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'PUMA Carina L  Baskets Femme  White-Whit al 26.66 % de descuento'
-date: 2020-12-20 02:36:21
+title: '26.66 % rabais sur PUMA Carina L  Baskets Femme  White-Whit'
+date: 2021-01-11 22:29:01
 image: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,10 +16,10 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JGP7TN2/?tag=tolees0d-21'
 descuento: '26.66'
-average: '40.50592105263159'
+average: '40.5947435897436'
 ---
 
-Está [PUMA Carina L  Baskets Femme  White-White-Silver  38.5 EU](https://www.amazon.fr/dp/B07JGP7TN2/?tag=tolees0d-21) con 26.66 de descuento por 43.97 EUR (original: 59.95 EUR) en el siguiente enlace!
+Vous avez [PUMA Carina L  Baskets Femme  White-White-Silver  38.5 EU](https://www.amazon.fr/dp/B07JGP7TN2/?tag=tolees0d-21)  à  26.66 % de réduction, prix final  43.97 EUR (original: 59.95 EUR) ici:
 
 [![PUMA Carina L  Baskets Femme  White-Whit](https://m.media-amazon.com/images/I/31MuZb5xrsL._SL200_.jpg)](https://www.amazon.fr/dp/B07JGP7TN2/?tag=tolees0d-21)
 
@@ -27,4 +27,4 @@ Está [PUMA Carina L  Baskets Femme  White-White-Silver  38.5 EU](https://www.am
 
 - material_composition; Leder
 
-[Ver la oferta!!](https://www.amazon.fr/dp/B07JGP7TN2/?tag=tolees0d-21)
+[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JGP7TN2/?tag=tolees0d-21)

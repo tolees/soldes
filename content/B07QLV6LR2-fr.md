@@ -25,10 +25,10 @@ Vous avez [mello - Protège Matelas MicroMat - Protege Matelas 180x200 Imperméa
 
 ℹ️:
 
-- PROLONGE LA VIE DE VOTRE MATELAS et ⭐️GARANTI 3 ANS⭐️ : Le protege matelas est une protection contre les liquides. Il est garanti 3 ans afin de vous fournir la meilleure expérience du sommeil !
-- 💤MATELASSÉ💤 : Protege matelas moelleux grâce au rembourrage de fibres creuses (200g/m2). Une protection idéale le confort en plus
 - 💦IMPERMÉABLE 💦: 100% Waterproof. Protège votre matelas contre les liquides, les acariens…Tout en laissant votre matelas respirer.
 - ✅FACILE ✅ : Le protège-matelas avec sa forme drap housse (30cm) est facile à installer. Il passe en machine et au sèche linge (basse température).
 - 🚫HYPOALLERGÉNIQUE🚫 : Protège contre les acariens. Idéal pour les personnes sujettes aux allergies grâce à sa composition anti allergènes.
+- 💤MATELASSÉ💤 : Protege matelas moelleux grâce au rembourrage de fibres creuses (200g/m2). Une protection idéale le confort en plus
+- PROLONGE LA VIE DE VOTRE MATELAS et ⭐️GARANTI 3 ANS⭐️ : Le protege matelas est une protection contre les liquides. Il est garanti 3 ans afin de vous fournir la meilleure expérience du sommeil !
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07QLV6LR2/?tag=tolees0d-21)
