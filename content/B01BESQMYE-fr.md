@@ -25,10 +25,10 @@ C'est en vente [Michael Kors Femme Analogique Quartz Montre avec Bracelet en Aci
 
 ℹ️:
 
-- Diamètre boîtier : 33 mm - Épaisseur boîtier : 8 mm
 - Largeur bracelet : 18 mm - Circonférence bracelet : 175 +/-5 mm
 - Livré dans une boîte cadeau MICHAEL KORS
 - Le design des boîtes à montres Michael Kors se renouvelle à chaque saison
 - Matière bracelet : acier inoxydable - Mouvement : quartz
+- Diamètre boîtier : 33 mm - Épaisseur boîtier : 8 mm
 
 [Achète-le!!](https://www.amazon.fr/dp/B01BESQMYE/?tag=tolees0d-21)
