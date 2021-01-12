@@ -25,11 +25,11 @@ Vous avez [Razer Raiju Tournament Edition  2019 : Manette de jeu PC filaire et s
 
 ℹ️:
 
-- Boutons daction Méca-Tactile Razer Un toucher agréable avec une sensation tactile
-- Autonomie de la batterie jusquà 19 heures — En une seule charge
 - Connexion Bluetooth et filaire Pour un jeu décontracté et les tournois
-- Une configuration des boutons multifonctions ergonomique Pour une personnalisation avancée
-- Mode sensibilité maximale Pour un avantage compétitif
 - Configuration de lapplication mobile Pour un contrôle facile à portée de vos doigts
+- Autonomie de la batterie jusquà 19 heures — En une seule charge
+- Boutons daction Méca-Tactile Razer Un toucher agréable avec une sensation tactile
+- Mode sensibilité maximale Pour un avantage compétitif
+- Une configuration des boutons multifonctions ergonomique Pour une personnalisation avancée
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07R4N12ZJ/?tag=tolees0d-21)

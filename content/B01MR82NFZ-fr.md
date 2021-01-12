@@ -25,10 +25,10 @@ Vous avez [YI Camera Surveillance Wifi Intérieur 1080P Caméra IP Sans Fil Avec
 
 ℹ️:
 
-- ALERTES DACTIVITÉ PERSONNALISABLES : Fréquence dalerte et niveau de sensibilité réglables. Délimitation de zone dactivité. SÉCURITÉ AVANCÉE : Protection par code PIN en option pour accéder à votre caméra.
 - FONCTIONNE AVEC ALEXA (ECHO SHOW) : Activez la skill YI Home sur votre application Amazon Alexa et combinez les deux appareils pour voir le flux en direct de votre caméra Wi-Fi sur lécran de votre Echo Show, à laide dune simple commande vocale ou dune sélection manuelle.
+- RÉSOLUTION FULL HD & VISION NOCTURNE NON-INVASIVE : Video en 1080P à 20fps - 110° grand angle avec zoom numérique 4x - Vision nocturne non-invasive avec lumières infrarouge ajustables et état des LED (idéal pour un sommeil ininterrompu).
 - DÉTECTION DACTIVITÉ AVEC INTELLIGENCE ARTIFICIELLE: Détection de mouvement et humaine jusquà 20 fps propulsé por Intelligence Artificielle - Détection des pleurs de bébé - Notifications push sur smartphone avec vidéo de 6 secondes de lactivité détectée via lapplication YI Home.
 - STOCKAGE CLOUD SÛR ET GRATUIT : Les vidéos de lactivité détectée sont stockées de manière sécurisées pendant 7 jours gratuitement dans YI Cloud avec un cryptage end-to-end pour protéger pleinement votre privacy - STOCKAGE LOCAL : Cartes micro-SD prises en charge de 4 à 128 Go.
-- RÉSOLUTION FULL HD & VISION NOCTURNE NON-INVASIVE : Video en 1080P à 20fps - 110° grand angle avec zoom numérique 4x - Vision nocturne non-invasive avec lumières infrarouge ajustables et état des LED (idéal pour un sommeil ininterrompu).
+- ALERTES DACTIVITÉ PERSONNALISABLES : Fréquence dalerte et niveau de sensibilité réglables. Délimitation de zone dactivité. SÉCURITÉ AVANCÉE : Protection par code PIN en option pour accéder à votre caméra.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MR82NFZ/?tag=tolees0d-21)
