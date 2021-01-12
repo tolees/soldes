@@ -25,8 +25,8 @@ C'est en vente [TP-Link UH700 HUB USB 3.0 7 Ports Noir](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
-- Les ports USB 3,0 offrent des débits de près de 5 Gbps soit 10 fois plus rapides que les ports USB2,0
 - Les sept ports disponibles vous permettent de ne pas avoir à déconnecter un périphérique pour en connecter un autre
+- Les ports USB 3,0 offrent des débits de près de 5 Gbps soit 10 fois plus rapides que les ports USB2,0
+- Support technique assuré par des conseillers francophones experts sur les produits TP-LINK, joignable par téléphone ou par courrier électronique
 
 [Achète-le!!](https://www.amazon.fr/dp/B00LI4O9EA/?tag=tolees0d-21)

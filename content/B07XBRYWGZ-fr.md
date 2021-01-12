@@ -25,10 +25,10 @@ C'est en vente [Microsoft Surface Pro 7  Windows 10  écran tactile 12.3"  Intel
 
 ℹ️:
 
-- Écran exceptionnel PixelSense de 12.3’’
 - Une nouvelle expérience audio avec les micros studio et l’activation à la voix de nouveaux coloris tendances pour les accessoires Surface
 - Performances plus rapides et graphisme amélioré grâce aux processeurs Intel iRNUM 10ème génération
-- Autonomie de batterie pour toute la journée; un design irréprochable, à l’image de la gamme Surface
+- Écran exceptionnel PixelSense de 12.3’’
 - Ports USB-A ainsi qu’un nouveau port USB-C remplaçant le mini Display Port pour les vidéos, les données et pour le chargement
+- Autonomie de batterie pour toute la journée; un design irréprochable, à l’image de la gamme Surface
 
 [Achète-le!!](https://www.amazon.fr/dp/B07XBRYWGZ/?tag=tolees0d-21)

@@ -25,11 +25,11 @@ Vous avez [SCS Sentinel 3760074136520 Motorisation portail battant 24v  Blanc](h
 
 ℹ️:
 
-- Ampèremètre 24v
-- Motorisation silencieuse
-- Fiabilité et robustesse
 - Motorisation 100% design !
+- Fiabilité et robustesse
+- Motorisation silencieuse
 - Simplicité dutilisation et dinstallation
+- Ampèremètre 24v
 - Kit de motorisation 24v à vérins pour portail battant de 3m et 300kg avec 2 télécommandes 4 canaux
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01D36YYOU/?tag=tolees0d-21)

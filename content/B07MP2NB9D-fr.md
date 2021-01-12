@@ -25,9 +25,9 @@ C'est en vente [PowerBar Ride Energy Coco Hazelnut Caramel 18x55g - Barre de Pro
 
 ℹ️:
 
-- Avec des glucides et 10 g de protéines de haute qualité par barre
-- Avec du magnésium pour contribuer à un métabolisme énergétique normal
 - Sans agents colorants ni conservateurs (conformément à la loi)
+- Avec des glucides et 10 g de protéines de haute qualité par barre
 - Convient aux régimes végétariens
+- Avec du magnésium pour contribuer à un métabolisme énergétique normal
 
 [Achète-le!!](https://www.amazon.fr/dp/B07MP2NB9D/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [KNIPEX 86 05 180 Pince-clé pince et clé à la fois chromée avec ga
 
 ℹ️:
 
-- Réglage à même la pièce par simple pression du bouton
-- Outil de vissage réglable
-- Mâchoires lisses ménageant les robinetteries chromées au montage!
-- Convient aussi parfaitement pour saisir, tenir, presser et mettre en forme
 - Remplace tout un jeu de clés plates, métriques et en pouces
+- Mâchoires lisses ménageant les robinetteries chromées au montage!
+- Outil de vissage réglable
+- Réglage à même la pièce par simple pression du bouton
+- Convient aussi parfaitement pour saisir, tenir, presser et mettre en forme
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0001P0CJS/?tag=tolees0d-21)
