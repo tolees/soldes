@@ -26,9 +26,9 @@ Vous avez [Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Mode
 ℹ️:
 
 - UN PARFUM BIJOU : Une fragrance où la masculinité est un mélange subtil entre la puissance et l’expression sensible des émotions.
-- UNE SENTEUR INTEMPORELLE : Une eau de parfum originale, sensuelle et tenace. Une symphonie vibrante et riche de notes nuancées où la fraîcheur d’une lavande fusante mêlée à la puissance de l’absinthe anisée évoluent sur un fond de bois d’ébène ambré.
-- UNE FRAGRANCE UNIQUE : Une eau de parfum originale, sensuelle et tenace où la lavande fusante et labsolu dabsinthe anisée évoluent sur un fond de bois débène ambré.
 - LES NOTES OLFACTIVES : Notes de tête : lavande ; Notes de coeur : absinthe ; Note de fond : bois débène.
+- UNE SENTEUR INTEMPORELLE : Une eau de parfum originale, sensuelle et tenace. Une symphonie vibrante et riche de notes nuancées où la fraîcheur d’une lavande fusante mêlée à la puissance de l’absinthe anisée évoluent sur un fond de bois d’ébène ambré.
 - UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour
+- UNE FRAGRANCE UNIQUE : Une eau de parfum originale, sensuelle et tenace où la lavande fusante et labsolu dabsinthe anisée évoluent sur un fond de bois débène ambré.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21)

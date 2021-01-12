@@ -27,8 +27,8 @@ C'est en vente [PlayVital Blue Nebula Ensemble complet de stickers en vinyle pou
 
 - Les autocollants de protection sont fabriqués en vinyle de haute qualité, découpés avec précision et parfaitement adaptés pour protéger votre PS5 des rayures et de la poussière
 - Contenu de lemballage : 1 x peau pour console PS5, 1 x peau pour manette PS5, 1 x peau pour station de recharge, 1 x peau pour casque, 1 x peau pour télécommande multimédia. (Remarque : ce sont uniquement des autocollants, la console, la manette et les autres ne sont pas inclus)
-- Les autocollants personnalisés sont spécialement conçus pour la console PlayStation 5 Digital Edition, le contrôleur, la station de charge, les écouteurs et la télécommande multimédia
 - Facile à utiliser et à coller, facile à enlever, sans laisser de résidus. Obtenez un guide vidéo dinstallation en recherchant « PlayVital Sticker for PS5 Digital Edition » sur YouTube
+- Les autocollants personnalisés sont spécialement conçus pour la console PlayStation 5 Digital Edition, le contrôleur, la station de charge, les écouteurs et la télécommande multimédia
 - Une variété de motifs au choix, lensemble complet dautocollants personnalisés rendra votre PS5 différente
 
 [Achète-le!!](https://www.amazon.fr/dp/B08P5G3QXL/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ C'est en vente [Coque compatible Nintendo Switch  [Pack 2 accessoires] Housse Ma
 
 ℹ️:
 
-- ✅ 𝙐𝙇𝙏𝙍𝘼𝘿𝙄𝙎𝘾𝙍𝙀𝙏𝙀 : Housse switch nintendo case transparente pour ne pas dénaturer le design de votre console nitendo scwitch.
 - ✅ 𝘾𝙊𝙈𝙋𝘼𝙏𝙄𝘽𝙇𝙀𝘼𝙑𝙀𝘾𝙇𝙀𝙎𝙈𝘼𝙉𝙀𝙏𝙏𝙀𝙎 : nintendo switch protection détachale pour protéger les manettes de votre console contre les chocs. Elles resteront ainsi en état de marche longtemps.
-- ✅ 𝙎𝘼𝙏𝙄𝙎𝙁𝘼𝙄𝙏𝙊𝙐𝙍𝙀𝙈𝘽𝙊𝙐𝙍𝙎𝙀 : Nous vous offrons 30 jours Satisfait ou remboursé sur votre nouvel housse pour switch + protection écran switch.
 - ✅ 𝙋𝙍𝙊𝙏𝙀𝘾𝙏𝙄𝙊𝙉𝙄𝙉𝙏𝙀𝙂𝙍𝘼𝙇𝙀 : Notre Pack accessoire switch nintendo comprend une coque transparente + un verre trempé nintendo switch
+- ✅ 𝙎𝘼𝙏𝙄𝙎𝙁𝘼𝙄𝙏𝙊𝙐𝙍𝙀𝙈𝘽𝙊𝙐𝙍𝙎𝙀 : Nous vous offrons 30 jours Satisfait ou remboursé sur votre nouvel housse pour switch + protection écran switch.
 - ✅ 𝘼𝙉𝙏𝙄𝙍𝘼𝙔𝙐𝙍𝙀: verre trempe switch en verre transparent. Cette protection nintendo switch vous évitera ainsi la rayure fatale sur votre écran
+- ✅ 𝙐𝙇𝙏𝙍𝘼𝘿𝙄𝙎𝘾𝙍𝙀𝙏𝙀 : Housse switch nintendo case transparente pour ne pas dénaturer le design de votre console nitendo scwitch.
 
 [Achète-le!!](https://www.amazon.fr/dp/B07MQSGX39/?tag=tolees0d-21)
