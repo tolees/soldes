@@ -25,8 +25,8 @@ Vous avez [Sos Fantomes Diptyque 2 Films [Blu-Ray]](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
-- Date de sortie : 2015-06-12
 - productGroup : DVD
+- Date de sortie : 2015-06-12
 - numberOfDiscs : 2
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00QTMEA6I/?tag=tolees0d-21)
