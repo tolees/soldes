@@ -25,9 +25,9 @@ Vous avez [Rubson Mastic Anti-Fuites 280 ml Transparent](https://www.amazon.fr/d
 
 ℹ️:
 
+- Adhérence sur la plupart des supports: aluminium, métal, zinc, plomb, bois, béton, maçonnerie, pierre, verre, bitume, shingle
 - Résiste au vieillissement
 - Ne contient pas de silicone
-- Adhérence sur la plupart des supports: aluminium, métal, zinc, plomb, bois, béton, maçonnerie, pierre, verre, bitume, shingle
 - Excellente résistance à limmersion
 - 15 mètres de joint
 - Mastic pour réparer, colmater et raccorder de nombreux matériaux.
