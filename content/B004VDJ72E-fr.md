@@ -25,10 +25,10 @@ Vous avez [Soldering irons & accesories Station de soudage 48 W 100-450º](http
 
 ℹ️:
 
-- Pointe standard incluse : Ø 0.5 mm
-- Station soudure Velleman, avec résistance céramique de 48 W
 - Avec interrupteur on/off et indicateur LED
+- Pointe standard incluse : Ø 0.5 mm
 - Pour électronique générale et réparations
+- Station soudure Velleman, avec résistance céramique de 48 W
 - Température : 150 °C – 450 °C
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B004VDJ72E/?tag=tolees0d-21)
