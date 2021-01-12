@@ -25,8 +25,8 @@ C'est en vente [Carte Mémoire SDHC 16 Go SanDisk Ultra jusqu à 80 Mo/s  Clas
 
 ℹ️:
 
-- Des performances denregistrement vidéo exceptionnelles de Classe 10 pour des vidéos Full HD (1080p)
-- Un excellent choix pour les appareils photo automatiques compacts ou de gamme intermédiaire
 - De 16 Go à 128 Go pour stocker des tonnes de photos et des vitesses de transfert élevées allant jusquà 80 Mo/s
+- Un excellent choix pour les appareils photo automatiques compacts ou de gamme intermédiaire
+- Des performances denregistrement vidéo exceptionnelles de Classe 10 pour des vidéos Full HD (1080p)
 
 [Achète-le!!](https://www.amazon.fr/dp/B0143RTB1E/?tag=tolees0d-21)

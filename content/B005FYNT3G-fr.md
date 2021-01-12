@@ -25,8 +25,8 @@ C'est en vente [Clé USB 2.0 SanDisk Cruzer Blade 32 Go](https://www.amazon.fr/d
 
 ℹ️:
 
-- Transportez vos vidéos, musiques et fichiers personnels importants
 - Taille du disque dur : 32 Go
+- Transportez vos vidéos, musiques et fichiers personnels importants
 - Sa conception compacte lui permet de tenir dans votre poche
 
 [Achète-le!!](https://www.amazon.fr/dp/B005FYNT3G/?tag=tolees0d-21)

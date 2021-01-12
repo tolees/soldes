@@ -26,10 +26,10 @@ Vous avez [LEGO Harry Potter La Grande Salle du château de Poudlard 75954 Jeu d
 ℹ️:
 
 - Issu de lunivers des films Harry Potter
-- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - La grande salle du châteaude Poudlard mesure plus de 37 cm de haut, 30 cm de large et 18 cm de profondeur
-- Ensemble comprenant 10 figurines : Harry Potter, Ron Weasley, Hermione Granger, Drago Malefoy, Susan Bones, le professeur McGonagall, le Professeur Quirrell avec le visage double de Lord Voldemort , Hagrid, Albus Dumbledore, Nick Quasi Sans-Tête, les créatures Basilic et Fumseck, et les figurines Hedwige et Croûtard
 - 878 pièces  pour les filles et les garçons de 9 à 14 ans
 - Construisez la grande salle du château de Poudlard
+- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Ensemble comprenant 10 figurines : Harry Potter, Ron Weasley, Hermione Granger, Drago Malefoy, Susan Bones, le professeur McGonagall, le Professeur Quirrell avec le visage double de Lord Voldemort , Hagrid, Albus Dumbledore, Nick Quasi Sans-Tête, les créatures Basilic et Fumseck, et les figurines Hedwige et Croûtard
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792RDN2V/?tag=tolees0d-21)
