@@ -25,11 +25,11 @@ C'est en vente [LEGO® NINJAGO® Le supersonic de Jay Jeu de construction  9 Ans
 
 ℹ️:
 
-- Le Supersonic de Jay mesure plus de 8 cm de haut, 28 cm de long et 30 cm de large
 - 490 pièces pour les filles et les garçons à partir de 9 ans
-- Inclut 4 figurines LEGO NINJAGO : Jay, Nya, Pythor et Lasha
-- Issu de lunivers de la série LEGO NINJAGO
 - Construisez le jet supersonic de Jay LEGO NINJAGO Legacy
+- Inclut 4 figurines LEGO NINJAGO : Jay, Nya, Pythor et Lasha
+- Le Supersonic de Jay mesure plus de 8 cm de haut, 28 cm de long et 30 cm de large
+- Issu de lunivers de la série LEGO NINJAGO
 - Les ensembles LEGO NINJAGO sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 
 [Achète-le!!](https://www.amazon.fr/dp/B07FNTTF3B/?tag=tolees0d-21)

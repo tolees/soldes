@@ -25,8 +25,8 @@ Vous avez [Bosch 2605438286 Valise de transport en plastique 380 x 300 x 110 mm]
 
 ℹ️:
 
-- Il est en plastique léger
 - Permet le stockage et le transport en toute sécurité des outils électriques bosch
+- Il est en plastique léger
 - Valise de transport en coloris bleu
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B0014GR0BQ/?tag=tolees0d-21)
