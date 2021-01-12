@@ -25,10 +25,10 @@ C'est en vente [Ice-Watch - Ice Crystal White Gold - Montre Blanche pour Femme a
 
 ℹ️:
 
-- Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
-- Le chic s’empare du design phare de la marque Ice-Watch avec le lancement de la collection ICE crystal Une montre blanche de taille moyenne dont le cadran transparent aux détails dorés renferme une pluie de 400 cristaux Swarovski virevoltant librement au rythme de vos mouvements Hypnotisante, miroitante, incroyablement élégante, la montre ICE crystal allie détails en acier et bracelet en silicone pour un résultat on ne peut plus sophistiqué !
-- Livré avec un manuel dinstructions et une boîte de présentation
-- Boitier en plastique de taille medium (40mm) avec bracelet en silicone
 - Collection ICE crystal
+- Le chic s’empare du design phare de la marque Ice-Watch avec le lancement de la collection ICE crystal Une montre blanche de taille moyenne dont le cadran transparent aux détails dorés renferme une pluie de 400 cristaux Swarovski virevoltant librement au rythme de vos mouvements Hypnotisante, miroitante, incroyablement élégante, la montre ICE crystal allie détails en acier et bracelet en silicone pour un résultat on ne peut plus sophistiqué !
+- Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
+- Boitier en plastique de taille medium (40mm) avec bracelet en silicone
+- Livré avec un manuel dinstructions et une boîte de présentation
 
 [Achète-le!!](https://www.amazon.fr/dp/B0815VN7XJ/?tag=tolees0d-21)
