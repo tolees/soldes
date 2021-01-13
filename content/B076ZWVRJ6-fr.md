@@ -25,9 +25,9 @@ Vous avez [G-STAR RAW Daplin R T S/s T-Shirt  Multicolore  Black HTR 390   Small
 
 ℹ️:
 
-- 100% coton
-- Type de col : col rond
 - Manche courte
 - Lavage en machine
+- 100% coton
+- Type de col : col rond
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076ZWVRJ6/?tag=tolees0d-21)
