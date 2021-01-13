@@ -25,10 +25,10 @@ Vous avez [Cooler Master MasterLiquid ML360R RGB Refroidisseur liquide CPU  sync
 
 ℹ️:
 
-- QUALITÉ COOLER MASTER - Avec son montage simple et sa garantie de 2 ans, la série MasterLiquid ARGB combine un éclairage adressable avancé, un refroidissement liquide haute performance et une installation facile dans un tout-en-un système de refroidissement. Comprend pâte thermique.
 - ECLAIRAGE ARGB - Les LED RVB adressables situées dans le diffuseur de la pompe et les 3 ventilateurs MF120R ARGB offrent un éclairage entièrement personnalisable qui peut être synchronisé avec les cartes mères certifiées RVB ou attribué via le contrôleur manuel (inclus) et le logiciel MasterPlus +.
-- POMPE A CHAMBRE DOUBLE LOW PROFILE - Utilisant du PPS et un boîtier en fibre de verre, la pompe à chambre double est légère et 100% imperméable à loxydation et à la corrosion. Léchangeur de chaleur en cuivre primaire comprend des centaines de microcanaux en interne pour maximiser la surface et augmenter la conductivité thermique.
 - TUBE STYLÉ - Dissimulé sous une gaine filetée de qualité supérieure, le tube FEB ondulé extra-épais permet des angles vifs ou des virages serrés sans compromettre le profil interne pour assurer un débit deau ininterrompu.
+- QUALITÉ COOLER MASTER - Avec son montage simple et sa garantie de 2 ans, la série MasterLiquid ARGB combine un éclairage adressable avancé, un refroidissement liquide haute performance et une installation facile dans un tout-en-un système de refroidissement. Comprend pâte thermique.
+- POMPE A CHAMBRE DOUBLE LOW PROFILE - Utilisant du PPS et un boîtier en fibre de verre, la pompe à chambre double est légère et 100% imperméable à loxydation et à la corrosion. Léchangeur de chaleur en cuivre primaire comprend des centaines de microcanaux en interne pour maximiser la surface et augmenter la conductivité thermique.
 - RADIATEUR A 3 VENTILATEURS - Avec son radiateur Low Profile triple longueur soutenu par 3 ventilateurs 120R ARGB avec lames hybrides, protection contre les bourrages, roulement de radiateur (max. 31 dBA, 650-2000 tr / min) et un support en amortissant les vibrations, MasterLiquid ML360R offre une capacité maximale pour une utilisation intensive.
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GKSFC6J/?tag=tolees0d-21)

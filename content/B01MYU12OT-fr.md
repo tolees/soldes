@@ -25,10 +25,10 @@ Vous avez [Stabat Mater](https://www.amazon.fr/dp/B01MYU12OT/?tag=tolees0d-21)  
 
 ℹ️:
 
-- (registrazioni dal 1986 al 2016)
 - Stabat Mater a quattro voci
-- Stabat Mater op 58 (1876 77)
-- Stabat Mater G 532 op 61 (1781)
 - Stabat Mater
+- Stabat Mater G 532 op 61 (1781)
+- Stabat Mater op 58 (1876 77)
+- (registrazioni dal 1986 al 2016)
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MYU12OT/?tag=tolees0d-21)

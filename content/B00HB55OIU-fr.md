@@ -25,7 +25,7 @@ C'est en vente [Crocs Classic U  Sabots Mixte Adulte  Rouge  Pepper   39/40 EU](
 
 ℹ️:
 
-- Doublure : synthétique
 - Dessus: Caoutchouc
+- Doublure : synthétique
 
 [Achète-le!!](https://www.amazon.fr/dp/B00HB55OIU/?tag=tolees0d-21)
