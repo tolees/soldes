@@ -27,8 +27,8 @@ Vous avez [Philips GC026/30 Rasoir Anti-bouloche et Anti-Peluche - Violet](https
 
 - Fonctionne avec 2 piles AA
 - Grand réservoir de peluches amovible facile à laver
-- Rasoir tous textiles, pour des pulls & couvertures commes neufs !
 - 2 hauteurs de coupe pour ne pas abimer les vêtements
+- Rasoir tous textiles, pour des pulls & couvertures commes neufs !
 - Compatible avec nombreux tissus : cachemire, laine, coton, fibres synthétiques…
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IVEPHQ4/?tag=tolees0d-21)
