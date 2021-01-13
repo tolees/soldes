@@ -25,10 +25,10 @@ Vous avez [Bosch 2609255026 Foret métal HSS-R Diamètre 16 0 mm](https://www.am
 
 ℹ️:
 
-- Diamètre : 16,0 mm
-- Pour le fer, lacier allié et non allié, les métaux non ferreux, la fonte et le plastique dur
-- Convient à toute marque
 - Universel, faible risque de casse
+- Convient à toute marque
 - Foret en métal polyvalent et robuste
+- Pour le fer, lacier allié et non allié, les métaux non ferreux, la fonte et le plastique dur
+- Diamètre : 16,0 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004WO6N6U/?tag=tolees0d-21)
