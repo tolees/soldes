@@ -25,10 +25,10 @@ Vous avez [Mandrin excentré Bosch - Adaptateur pour perceuse/visseuse IXO avec 
 
 ℹ️:
 
-- Compatible avec IXO 4e, 5e et 6e générations
 - Fixation de perçage pour IXO - non seulement vis, mais aussi perçage
-- Mandrin excentré Bosch - Adaptateur pour perceuse/visseuse IXO avec jeu de forets
 - Les utilisations possibles de lIXO sont particulièrement diverses grâce aux divers accessoires de la collection IXO
 - Perce de petits trous jusquà 5 mm de diamètre dans le bois, le plastique et le plâtre
+- Mandrin excentré Bosch - Adaptateur pour perceuse/visseuse IXO avec jeu de forets
+- Compatible avec IXO 4e, 5e et 6e générations
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B016MZVHMG/?tag=tolees0d-21)

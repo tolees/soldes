@@ -25,10 +25,10 @@ Vous avez [Geox J Borealis Boy A  Sandales Bout Fermé Garçon  Bleu  Navy/DK Ye
 
 ℹ️:
 
-- Garçons
 - CHAUSSURES ENFANTS
-- GEOX
 - CHAUSSURES ENFANTS Garçons
+- GEOX
 - CHAUSSURES GEOX J020RA Taille : 34 EU
+- Garçons
 
 [Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SXSMV6L/?tag=tolees0d-21)
