@@ -26,4 +26,4 @@ C'est en vente [Kenwood Hachoir à Viande Electrique MG700  Semi- Pro  Puissance
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B002PCZ1VE/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B002PCZ1VE/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [BOSCH - TAS6503 Tassimo My Way 2 - Cafetière à capsule - Avec syst�
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21)

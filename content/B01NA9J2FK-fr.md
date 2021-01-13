@@ -26,4 +26,4 @@ Vous avez [Mâche-Mots - Jeu de societe Mâche-Mots Enfants Contre Parents - Jeu
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01NA9J2FK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01NA9J2FK/?tag=tolees0d-21)

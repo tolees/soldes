@@ -26,4 +26,4 @@ Vous avez [Cuisinart YM400E Yaourtière & Fromagère  6 pots 125 ml + 2 pots](ht
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B004LECV6W/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004LECV6W/?tag=tolees0d-21)

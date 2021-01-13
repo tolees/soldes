@@ -26,4 +26,4 @@ Vous avez [Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable Insert
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B007ICIPB4/?tag=tolees0d-21)

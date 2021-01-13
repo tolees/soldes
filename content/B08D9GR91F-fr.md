@@ -26,4 +26,4 @@ C'est en vente [KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D NAND SS
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08D9GR91F/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08D9GR91F/?tag=tolees0d-21)

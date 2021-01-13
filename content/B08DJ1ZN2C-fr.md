@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 2to  Disque Dur Externe Portable HDD USB3.1/Type C
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DJ1ZN2C/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DJ1ZN2C/?tag=tolees0d-21)

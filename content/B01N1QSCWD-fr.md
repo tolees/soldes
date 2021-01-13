@@ -26,4 +26,4 @@ C'est en vente [Manix Skyn king size préservatifs - La boite de 20 préservatif
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21)

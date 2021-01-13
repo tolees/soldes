@@ -26,4 +26,4 @@ Vous avez [Bamoer Support Tablette  Support Tablette Réglable - Support Dock po
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B088R1RZ4Z/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088R1RZ4Z/?tag=tolees0d-21)

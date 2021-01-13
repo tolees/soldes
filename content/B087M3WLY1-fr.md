@@ -26,4 +26,4 @@ C'est en vente [ERUW LCD Tablette D écriture 8.5 Pouces  Ardoise Magique Tablea
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B087M3WLY1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B087M3WLY1/?tag=tolees0d-21)

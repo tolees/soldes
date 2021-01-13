@@ -26,4 +26,4 @@ Vous avez [FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte  Noir](https://w
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XXS14L8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XXS14L8/?tag=tolees0d-21)

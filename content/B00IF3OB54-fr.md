@@ -26,4 +26,4 @@ Vous avez [EDMA 261255 Boule Chauffante  Argent](https://www.amazon.fr/dp/B00IF3
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IF3OB54/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IF3OB54/?tag=tolees0d-21)

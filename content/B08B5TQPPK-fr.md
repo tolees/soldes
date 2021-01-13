@@ -26,4 +26,4 @@ C'est en vente [eXtremeRate Kit de Coques avec Kit de Boutons pour Nintendo Swit
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08B5TQPPK/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08B5TQPPK/?tag=tolees0d-21)

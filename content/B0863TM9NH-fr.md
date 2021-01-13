@@ -26,4 +26,4 @@ C'est en vente [Birds of Prey et la fantabuleuse Histoire de Harley Quinn](https
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0863TM9NH/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0863TM9NH/?tag=tolees0d-21)

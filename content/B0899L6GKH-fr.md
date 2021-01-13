@@ -26,4 +26,4 @@ Vous avez [2 X 1200mAh Batteries pour Manette Xbox One / S / X / Elite   Recharg
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0899L6GKH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0899L6GKH/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Beelink BT3 Pro II Mini PC Computer Windows 10 4 Go de RAM DDR3 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07PVG9KQL/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07PVG9KQL/?tag=tolees0d-21)

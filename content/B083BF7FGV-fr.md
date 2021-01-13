@@ -26,4 +26,4 @@ C'est en vente [TUTUO Manette pour Nintendo Switch  Switch Pro sans Fil Contrôl
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B083BF7FGV/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B083BF7FGV/?tag=tolees0d-21)

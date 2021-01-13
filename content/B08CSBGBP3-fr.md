@@ -26,4 +26,4 @@ C'est en vente [Manette sans fil pour Nintendo Switch  Maegoo mini Manettes Cont
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08CSBGBP3/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CSBGBP3/?tag=tolees0d-21)

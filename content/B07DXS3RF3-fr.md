@@ -26,4 +26,4 @@ C'est en vente [Le Cercle littéraire de Guernesey](https://www.amazon.fr/dp/B07
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21)

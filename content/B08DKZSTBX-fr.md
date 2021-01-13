@@ -26,4 +26,4 @@ Vous avez [Montre Connectée  Fitness Tracker étanche IP68 avec Fréquence Card
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DKZSTBX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DKZSTBX/?tag=tolees0d-21)

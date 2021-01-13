@@ -26,4 +26,4 @@ C'est en vente [Corsair A500  Ventirad à Double Ventilateur Haute Performance  
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0829SLJSF/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0829SLJSF/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [OMRON VIVA : Pèse-personne intelligent Bluetooth  avec moniteur de c
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CLRK7Y8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CLRK7Y8/?tag=tolees0d-21)

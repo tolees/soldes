@@ -26,4 +26,4 @@ C'est en vente [GreedFall](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21)
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21)

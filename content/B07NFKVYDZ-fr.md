@@ -26,4 +26,4 @@ C'est en vente [Kipling LICIA Cartable  49 cm  20 liters  Multicolore  Hearty Pi
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07NFKVYDZ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07NFKVYDZ/?tag=tolees0d-21)

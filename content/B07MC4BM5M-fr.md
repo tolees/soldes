@@ -26,4 +26,4 @@ C'est en vente [TOM TAILOR MY TRUE ME Plussize T-shirt  Femme  Multicolor  48](h
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07MC4BM5M/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07MC4BM5M/?tag=tolees0d-21)

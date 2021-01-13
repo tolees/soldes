@@ -26,4 +26,4 @@ Vous avez [Thetford 92814 Potti Potti 345 Toilette Portable  Blanc-Gris 330 x 38
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B006JSIHQQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006JSIHQQ/?tag=tolees0d-21)

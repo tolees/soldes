@@ -26,4 +26,4 @@ C'est en vente [Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba Collecti
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07KPSBXR3/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KPSBXR3/?tag=tolees0d-21)

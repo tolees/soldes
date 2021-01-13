@@ -26,4 +26,4 @@ C'est en vente [Shifu Orboot : Le globe éducatif basé sur la réalité augment
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B075WW3JKQ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B075WW3JKQ/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [NETGEAR Répéteur WiFi  EX6130   Amplificateur WiFi AC1200  WiFi Boo
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DKL0EP6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DKL0EP6/?tag=tolees0d-21)

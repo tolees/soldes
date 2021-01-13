@@ -26,4 +26,4 @@ Vous avez [Sauter SPI4360X - Plaque à induction - Encastrable - 3 Foyers - 7200
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B010OTZZBA/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B010OTZZBA/?tag=tolees0d-21)

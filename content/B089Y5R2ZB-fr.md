@@ -26,4 +26,4 @@ Vous avez [SAWAKE Mandoline Cuisine Multifonctions  6 en 1 Trancheuse à Légume
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B089Y5R2ZB/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089Y5R2ZB/?tag=tolees0d-21)

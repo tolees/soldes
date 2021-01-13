@@ -26,4 +26,4 @@ C'est en vente [Slendertone Biceps et Triceps Brassards H/F tonifiants Unisex-Ad
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07RDQJFJS/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07RDQJFJS/?tag=tolees0d-21)

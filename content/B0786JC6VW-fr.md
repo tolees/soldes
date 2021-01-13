@@ -26,4 +26,4 @@ Vous avez [8Bitdo Adaptateur Bluetooth sans fil pour Windows/Mac/Raspberry Pi/Ni
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0786JC6VW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0786JC6VW/?tag=tolees0d-21)

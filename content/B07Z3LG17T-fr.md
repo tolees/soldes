@@ -26,4 +26,4 @@ C'est en vente [YUCUN SSD 240 Go 2 5 Pouces SATA III Disque Flash SSD 240GB Inte
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07Z3LG17T/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07Z3LG17T/?tag=tolees0d-21)

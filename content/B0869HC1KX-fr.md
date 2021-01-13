@@ -26,4 +26,4 @@ C'est en vente [Manette sans Fil pour Nintendo Switch  Manettes pour Switch  Reg
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0869HC1KX/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0869HC1KX/?tag=tolees0d-21)

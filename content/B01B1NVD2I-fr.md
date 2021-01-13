@@ -26,4 +26,4 @@ Vous avez [Philips QP220/50 Lames de Remplacement OneBlade x2  Durent Jusqu à 8
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01B1NVD2I/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01B1NVD2I/?tag=tolees0d-21)

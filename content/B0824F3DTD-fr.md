@@ -26,4 +26,4 @@ C'est en vente [Persona 5 Royal - Phantom Thieves Edition](https://www.amazon.fr
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0824F3DTD/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0824F3DTD/?tag=tolees0d-21)

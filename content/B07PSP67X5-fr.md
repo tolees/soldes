@@ -26,4 +26,4 @@ C'est en vente [Bakugan Starter Pack Set Assortment  Assort   6045144  Multicolo
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07PSP67X5/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07PSP67X5/?tag=tolees0d-21)

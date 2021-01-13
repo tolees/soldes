@@ -26,4 +26,4 @@ Vous avez [Masseur Sans Fil con 10 Modes de Vitesses Différentes  Double Moteur
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DXSVP6V/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DXSVP6V/?tag=tolees0d-21)

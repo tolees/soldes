@@ -26,4 +26,4 @@ C'est en vente [Liebeskind Berlin Round Love Note - Belt BagfemmeSacs bandouliè
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07MXWP7V3/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07MXWP7V3/?tag=tolees0d-21)

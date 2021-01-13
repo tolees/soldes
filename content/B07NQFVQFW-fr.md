@@ -26,4 +26,4 @@ C'est en vente [Lagostina 12143040122 Poêle à frire](https://www.amazon.fr/dp/
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21)

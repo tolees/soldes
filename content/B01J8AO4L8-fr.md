@@ -26,4 +26,4 @@ Vous avez [Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec Bracelet en
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J8AO4L8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J8AO4L8/?tag=tolees0d-21)

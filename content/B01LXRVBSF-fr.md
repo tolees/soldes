@@ -26,4 +26,4 @@ C'est en vente [Kavalan Yilan County Amontillado Single Malt Whisky 700 ml](http
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01LXRVBSF/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01LXRVBSF/?tag=tolees0d-21)

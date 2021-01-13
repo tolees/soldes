@@ -26,4 +26,4 @@ Vous avez [Disque Dur SSD HP S700-500Go SATA 2" 1/2](https://www.amazon.fr/dp/B0
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B072K6RNL6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072K6RNL6/?tag=tolees0d-21)

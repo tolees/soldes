@@ -26,4 +26,4 @@ Vous avez [Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de maintien
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00RXQJDWA/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00RXQJDWA/?tag=tolees0d-21)

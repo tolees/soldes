@@ -26,4 +26,4 @@ C'est en vente [Hazet 1952-28 Massette en Plastique longueur  269 mm](https://w
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B001C9T7KC/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B001C9T7KC/?tag=tolees0d-21)

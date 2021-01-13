@@ -26,4 +26,4 @@ C'est en vente [Ready Player One - DVD](https://www.amazon.fr/dp/B07BQNJ1FH/?tag
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21)

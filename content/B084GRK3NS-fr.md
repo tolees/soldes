@@ -26,4 +26,4 @@ C'est en vente [AICOK Batteur Électrique de Cuisine 2 en 1 Batteur à Main avec
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B084GRK3NS/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B084GRK3NS/?tag=tolees0d-21)

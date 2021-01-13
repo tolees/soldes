@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 2to USB3.0 SATA  Stockage HDD Disque Dur Exte
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08HJ5C9FZ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08HJ5C9FZ/?tag=tolees0d-21)

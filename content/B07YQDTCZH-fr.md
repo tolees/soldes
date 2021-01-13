@@ -26,4 +26,4 @@ C'est en vente [Kipling BTS Sac d école Carlow Robot Camo Bleu](https://www.ama
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07YQDTCZH/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07YQDTCZH/?tag=tolees0d-21)

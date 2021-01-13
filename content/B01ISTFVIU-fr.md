@@ -26,4 +26,4 @@ C'est en vente [Bosch MUZ9VL1 Accessoire optimum robot culinaire](https://www.am
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01ISTFVIU/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01ISTFVIU/?tag=tolees0d-21)

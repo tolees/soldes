@@ -26,4 +26,4 @@ Vous avez [Philips MG3740/15 Tondeuse cheveux et Multi-Styles - Séries 3000 - 9
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B074MGQF4K/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074MGQF4K/?tag=tolees0d-21)

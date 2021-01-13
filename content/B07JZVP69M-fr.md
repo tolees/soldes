@@ -26,4 +26,4 @@ C'est en vente [Feral roots](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-2
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21)

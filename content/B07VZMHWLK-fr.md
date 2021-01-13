@@ -26,4 +26,4 @@ C'est en vente [Vernee M7 Telephone Portable Débloqués  4Go + 64Go Dual SIM 4G
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07VZMHWLK/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07VZMHWLK/?tag=tolees0d-21)

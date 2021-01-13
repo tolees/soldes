@@ -26,4 +26,4 @@ C'est en vente [HTDELEC Coque Xiaomi Redmi 9 Transparente + 2 × Verre trempé �
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08CRBMZM1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CRBMZM1/?tag=tolees0d-21)

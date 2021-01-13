@@ -26,4 +26,4 @@ Vous avez [Death Stranding - Special Edition](https://www.amazon.fr/dp/B07SXL45X
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SXL45X2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SXL45X2/?tag=tolees0d-21)

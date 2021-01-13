@@ -26,4 +26,4 @@ C'est en vente [Sine Mora EX](https://www.amazon.fr/dp/B071LNL7KG/?tag=tolees0d-
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B071LNL7KG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B071LNL7KG/?tag=tolees0d-21)

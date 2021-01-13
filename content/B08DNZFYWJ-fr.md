@@ -26,4 +26,4 @@ Vous avez [EasySMX Manettes pour Switch/Switch Lite  Manette sans Fil pour Ninte
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DNZFYWJ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DNZFYWJ/?tag=tolees0d-21)

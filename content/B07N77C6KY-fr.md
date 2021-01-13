@@ -26,4 +26,4 @@ Vous avez [Carte Uhs-I Lexar Professional 633x 512 Go Microsdxc](https://www.ama
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N77C6KY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N77C6KY/?tag=tolees0d-21)

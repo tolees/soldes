@@ -26,4 +26,4 @@ Vous avez [Kipling Youri Spin 68 Luggage 71 L Black Indigo](https://www.amazon.f
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [2 Batteries pour Xbox One Manette Sans Fil avec 2 en 1 Câble de Char
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TKV38KX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TKV38KX/?tag=tolees0d-21)

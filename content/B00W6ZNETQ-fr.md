@@ -26,4 +26,4 @@ Vous avez [Riviera-et-Bar QP350A Plancha Extra Large](https://www.amazon.fr/dp/B
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00W6ZNETQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00W6ZNETQ/?tag=tolees0d-21)

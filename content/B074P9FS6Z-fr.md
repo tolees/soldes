@@ -26,4 +26,4 @@ Vous avez [Fitbit Aria 2 Balance Wi-Fi Intelligente Compteur de Calories  Noir](
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B074P9FS6Z/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074P9FS6Z/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Bluefin Paddle Board Gonflable 427 cm à Position Debout | 15 cm
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07C2TD5PV/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07C2TD5PV/?tag=tolees0d-21)

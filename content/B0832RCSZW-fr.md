@@ -26,4 +26,4 @@ Vous avez [Netac Carte mémoire microSDXC  256G Haute Vitesse UHS-I Carte Micro 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0832RCSZW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0832RCSZW/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB eMMC Windows 10 Quad Core Int
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VSP4NTW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VSP4NTW/?tag=tolees0d-21)

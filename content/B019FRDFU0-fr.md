@@ -26,4 +26,4 @@ Vous avez [Crucial CT4G4DFS824A 4Go  DDR4  2400 MT/s  PC4-19200  Single Rank x8 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B019FRDFU0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B019FRDFU0/?tag=tolees0d-21)

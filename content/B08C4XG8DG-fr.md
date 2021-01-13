@@ -26,4 +26,4 @@ Vous avez [Manette Sans Fil pour PS4 Manette pour Playstation 4 Gamepad pour PS4
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21)

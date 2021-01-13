@@ -26,4 +26,4 @@ C'est en vente [VISSQH 20pcs micro interrupteur fin de course  NO-NC 3Broches SP
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08G1WKND9/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08G1WKND9/?tag=tolees0d-21)

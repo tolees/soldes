@@ -26,4 +26,4 @@ Vous avez [Samsung SSD Interne 860 PRO  256 Go  - MZ-76P256B/EU](https://www.ama
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WQJXND/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WQJXND/?tag=tolees0d-21)

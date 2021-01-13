@@ -26,4 +26,4 @@ C'est en vente [NUTRIBULLET Balance 1200 W – Blender Connecté – Technologie
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07VNFMKYW/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07VNFMKYW/?tag=tolees0d-21)

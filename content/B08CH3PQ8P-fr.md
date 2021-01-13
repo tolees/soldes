@@ -26,4 +26,4 @@ Vous avez [Immortal Realms : Vampire Wars  Nintendo Switch ](https://www.amazon.
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CH3PQ8P/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CH3PQ8P/?tag=tolees0d-21)

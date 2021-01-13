@@ -26,4 +26,4 @@ Vous avez [Laurastar GO Centre de Repassage](https://www.amazon.fr/dp/B00F2FVFSY
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00F2FVFSY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00F2FVFSY/?tag=tolees0d-21)

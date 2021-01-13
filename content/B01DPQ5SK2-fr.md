@@ -26,4 +26,4 @@ Vous avez [Bionaire - BSF002 - ventilateur de bureau - modèle à oscillation - 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DPQ5SK2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DPQ5SK2/?tag=tolees0d-21)

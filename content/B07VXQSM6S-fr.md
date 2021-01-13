@@ -26,4 +26,4 @@ Vous avez [Samsung - Écouteurs sans Fil Galaxy Buds - Argent - Version Françai
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VXQSM6S/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VXQSM6S/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [TP-Link TL-SG1024D Switch 24 Ports Gigabit  Bureau/Rackable  Boîtier
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B003UWXFM0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003UWXFM0/?tag=tolees0d-21)

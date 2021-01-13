@@ -26,4 +26,4 @@ C'est en vente [Legging anti Cellulite  Pantalon de Sudation  Legging Femmes Tai
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07PR3WSN7/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07PR3WSN7/?tag=tolees0d-21)

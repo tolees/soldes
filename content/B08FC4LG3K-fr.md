@@ -26,4 +26,4 @@ C'est en vente [eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back S
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08FC4LG3K/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08FC4LG3K/?tag=tolees0d-21)

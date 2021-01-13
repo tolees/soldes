@@ -26,4 +26,4 @@ Vous avez [Seagate Backup Plus Hub 8 To  Disque dur externe de bureau HDD  USB 3
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01IAD5ZC6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01IAD5ZC6/?tag=tolees0d-21)

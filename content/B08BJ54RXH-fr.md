@@ -26,4 +26,4 @@ Vous avez [Casque Gaming EKSA E900 Casque PS4 Micro Casque Gamer PC Casque Audio
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BJ54RXH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BJ54RXH/?tag=tolees0d-21)

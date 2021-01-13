@@ -26,4 +26,4 @@ Vous avez [Team Kalorik Trancheuse Électrique  Molette de Réglage 0-15 mm  200
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B077TZ2PFR/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077TZ2PFR/?tag=tolees0d-21)

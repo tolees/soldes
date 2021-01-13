@@ -26,4 +26,4 @@ Vous avez [Philips S5400/06 Rasoir électrique Series 5000 étanche avec Tondeus
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B012W0T0UG/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012W0T0UG/?tag=tolees0d-21)

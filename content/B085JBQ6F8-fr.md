@@ -26,4 +26,4 @@ Vous avez [Téfal Gourmet crêpière Deux plaques amovibles antiadhésives Temp�
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B085JBQ6F8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085JBQ6F8/?tag=tolees0d-21)

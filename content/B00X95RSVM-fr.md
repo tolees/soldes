@@ -26,4 +26,4 @@ C'est en vente [Sauter Spi4362x - Plaque à Induction - Encastrable - 3 Foyers -
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B00X95RSVM/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B00X95RSVM/?tag=tolees0d-21)

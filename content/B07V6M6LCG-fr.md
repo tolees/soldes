@@ -26,4 +26,4 @@ Vous avez [Kaporal - T-Shirt à Manches Courtes  col v  Coupe ajustée - Rap - F
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V6M6LCG/?tag=tolees0d-21)

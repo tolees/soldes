@@ -26,4 +26,4 @@ Vous avez [Trust Gaming GXT 865 Asta Clavier Mécanique Gamer RGB  Commutateurs 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JMVBN4R/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JMVBN4R/?tag=tolees0d-21)

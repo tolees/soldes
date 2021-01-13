@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 1to USB3.0 SATA  Disque Dur Externe pour PC  
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08H239JQC/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08H239JQC/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Dé géant aux changements de couleurs - Tora](https://www.amazon.fr/
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JQD6BNC/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JQD6BNC/?tag=tolees0d-21)

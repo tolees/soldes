@@ -26,4 +26,4 @@ Vous avez [Manette sans Fil pour Nintendo Switch REDSTORM Manette pour Nintendo 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D9MQ36Y/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D9MQ36Y/?tag=tolees0d-21)

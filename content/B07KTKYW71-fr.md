@@ -26,4 +26,4 @@ C'est en vente [Cressi Homme Apnea Complete 7 mm Freediving/Spearfishing Wetsuit
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07KTKYW71/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KTKYW71/?tag=tolees0d-21)

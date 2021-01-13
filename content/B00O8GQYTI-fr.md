@@ -26,4 +26,4 @@ Vous avez [Dim Coton Plus Stretch Feminine - Lot de 2 Slips Midi - Femme - Noir 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00O8GQYTI/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00O8GQYTI/?tag=tolees0d-21)

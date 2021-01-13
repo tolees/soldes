@@ -26,4 +26,4 @@ Vous avez [Wagner W100  2361508  Pistolet à peinture pour bois/métal](https://
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BUDIY2G/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BUDIY2G/?tag=tolees0d-21)

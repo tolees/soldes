@@ -26,4 +26,4 @@ C'est en vente [BAITITON 2 5 Pouces SATA III Disque Flash SSD 240 Go Interne Sol
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07P63TSQX/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07P63TSQX/?tag=tolees0d-21)

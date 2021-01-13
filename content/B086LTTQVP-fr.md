@@ -26,4 +26,4 @@ Vous avez [Borderlands Legendary Collection](https://www.amazon.fr/dp/B086LTTQVP
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B086LTTQVP/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086LTTQVP/?tag=tolees0d-21)

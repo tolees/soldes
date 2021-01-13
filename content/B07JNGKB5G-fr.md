@@ -26,4 +26,4 @@ C'est en vente [Scotch & Soda AMS Blauw Light Weight Shirt with Contrast Print D
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07JNGKB5G/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07JNGKB5G/?tag=tolees0d-21)

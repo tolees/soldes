@@ -26,4 +26,4 @@ Vous avez [JBL LIVE 400BT – Casque Audio Supra-Auriculaire Sans Fil – Écout
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N9C2PVL/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N9C2PVL/?tag=tolees0d-21)

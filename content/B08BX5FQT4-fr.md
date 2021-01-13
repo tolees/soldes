@@ -26,4 +26,4 @@ Vous avez [eXtremeRate D-Pad Triggers R1 L1 R2 L2 Touchpad Action Home Share Opt
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BX5FQT4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BX5FQT4/?tag=tolees0d-21)

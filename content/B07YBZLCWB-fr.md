@@ -26,4 +26,4 @@ C'est en vente [2X Hochstern BL1860B 5500mAh batterie Remplacement pour Makita 1
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07YBZLCWB/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07YBZLCWB/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Siméo PLC410 Plancha électrique](https://www.amazon.fr/dp/B07J
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07J6T8VX1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07J6T8VX1/?tag=tolees0d-21)

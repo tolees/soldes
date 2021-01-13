@@ -26,4 +26,4 @@ C'est en vente [eXtremeRate D-Pad Boutons SR SL L R ZR ZL Trigger Touches Kit de
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08B5YFPRH/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08B5YFPRH/?tag=tolees0d-21)

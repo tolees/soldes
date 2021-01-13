@@ -26,4 +26,4 @@ Vous avez [Masthome Planche à découper en bambou Idéal pour la viande  les l�
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MD5B94Z/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MD5B94Z/?tag=tolees0d-21)

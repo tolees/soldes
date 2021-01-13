@@ -26,4 +26,4 @@ Vous avez [Coussin à Mémoire de Forme GIANFAR | Oreiller Cervical Orthopédiqu
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DDVK4R6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DDVK4R6/?tag=tolees0d-21)

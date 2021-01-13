@@ -26,4 +26,4 @@ C'est en vente [BaByliss Sèche-cheveux Travel Dry 2000 Compact Léger avec poig
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07W863RWN/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07W863RWN/?tag=tolees0d-21)

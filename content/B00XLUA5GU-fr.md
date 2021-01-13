@@ -26,4 +26,4 @@ C'est en vente [Bosch Professional 06015A1002 12V System Scie Sauteuse sans-fil 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B00XLUA5GU/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B00XLUA5GU/?tag=tolees0d-21)

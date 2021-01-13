@@ -26,4 +26,4 @@ Vous avez [Huawei Watch GT 2 Montre Connectée  GPS  Boîtier 46 mm   Écran AMO
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XFDH6MD/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XFDH6MD/?tag=tolees0d-21)

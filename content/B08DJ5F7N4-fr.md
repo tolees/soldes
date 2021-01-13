@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 1to  Disque Dur Externe pour PC  Mac  MacBook  Xbo
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DJ5F7N4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DJ5F7N4/?tag=tolees0d-21)

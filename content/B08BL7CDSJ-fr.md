@@ -26,4 +26,4 @@ C'est en vente [YUCUN 2 5 Pouces SATA III Disque Flash 2To SSD 2TB Interne Solid
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08BL7CDSJ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08BL7CDSJ/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Lunii  Fabrique à Histoires](https://www.amazon.fr/dp/B01LZRWNR
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01LZRWNRC/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01LZRWNRC/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Razer Huntsman-Clavier Gaming Mécanique avec Touche Opto-Mécan
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07CYW741S/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07CYW741S/?tag=tolees0d-21)

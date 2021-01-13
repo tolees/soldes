@@ -26,4 +26,4 @@ Vous avez [Final Fantasy VII: Remake - Edition Deluxe](https://www.amazon.fr/dp/
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SRF34DL/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SRF34DL/?tag=tolees0d-21)

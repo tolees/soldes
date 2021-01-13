@@ -26,4 +26,4 @@ Vous avez [Fanny Fouks Mousse EVA thermoformable 40x60 cm - Jaune - APLI AGIPA](
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B018QCGM50/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B018QCGM50/?tag=tolees0d-21)

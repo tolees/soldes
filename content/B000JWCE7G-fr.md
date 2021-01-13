@@ -26,4 +26,4 @@ C'est en vente [Online USV Kit de rails pour armoire](https://www.amazon.fr/dp/B
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B000JWCE7G/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B000JWCE7G/?tag=tolees0d-21)

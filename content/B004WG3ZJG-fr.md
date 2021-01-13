@@ -26,4 +26,4 @@ C'est en vente [Bionaire - BT19 - colonne ventilateur - modèle à oscillation a
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B004WG3ZJG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B004WG3ZJG/?tag=tolees0d-21)

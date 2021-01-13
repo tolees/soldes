@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 1to USB 3.0 Disque Dur Externe pour PC  Mac  Ordin
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GLBSWNX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GLBSWNX/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Levi s 501 Original Fit Jeans Homme  Bleu  Snoot   32W / 32L](ht
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07K5LQCQX/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07K5LQCQX/?tag=tolees0d-21)

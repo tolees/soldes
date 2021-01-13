@@ -26,4 +26,4 @@ C'est en vente [PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition Graph
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07MBV163Z/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07MBV163Z/?tag=tolees0d-21)

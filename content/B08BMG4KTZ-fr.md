@@ -26,4 +26,4 @@ Vous avez [OUPOD Manette sans fil  Bluetooth  pour Pro Nintendo Switch connecté
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BMG4KTZ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BMG4KTZ/?tag=tolees0d-21)

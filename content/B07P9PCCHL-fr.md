@@ -26,4 +26,4 @@ C'est en vente [Silicon Power 1TB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3  400/
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07P9PCCHL/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07P9PCCHL/?tag=tolees0d-21)

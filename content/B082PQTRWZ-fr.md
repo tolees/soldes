@@ -26,4 +26,4 @@ Vous avez [Sword Art Online Alicization Lycoris  Xbox One ](https://www.amazon.f
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B082PQTRWZ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082PQTRWZ/?tag=tolees0d-21)

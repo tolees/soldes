@@ -26,4 +26,4 @@ Vous avez [Chargeur Secteur et Câble USB C pour Xiaomi Redmi Note 9 Pro/8 Pro 8
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B1QVL42/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B1QVL42/?tag=tolees0d-21)

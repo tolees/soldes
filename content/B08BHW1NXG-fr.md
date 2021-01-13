@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 1to  Disque Dur Externe USB-C Portable pour P
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08BHW1NXG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08BHW1NXG/?tag=tolees0d-21)

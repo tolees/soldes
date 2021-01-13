@@ -26,4 +26,4 @@ Vous avez [Calor SV6035C0 Centrale Vapeur Sans Cuve Haute Pression Fasteo 5 2 ba
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XFWYHBY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XFWYHBY/?tag=tolees0d-21)

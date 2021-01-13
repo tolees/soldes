@@ -26,4 +26,4 @@ Vous avez [RAMPOW Câble USB C vers USB C 100W 2m  Câble USB Type C Charge Rapi
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNSQWPQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNSQWPQ/?tag=tolees0d-21)

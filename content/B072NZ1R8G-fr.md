@@ -26,4 +26,4 @@ Vous avez [Scie coupe droite sans fil Bosch - Easycut 12  Livré avec une batter
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B072NZ1R8G/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072NZ1R8G/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Fort Boyard Nouvelle Edition](https://www.amazon.fr/dp/B086X2WJG
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21)

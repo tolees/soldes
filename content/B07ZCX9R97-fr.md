@@ -26,4 +26,4 @@ C'est en vente [Fairy Tail](https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Moniteur de Fréquence Cardiaque  Traqueur de Forme Physique de Montr
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B082QY8GWH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082QY8GWH/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Récepteur Bluetooth 5.0 Adaptateur  USB Bluetooth Dongle 2-en-1 Éme
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GC6YVR6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GC6YVR6/?tag=tolees0d-21)

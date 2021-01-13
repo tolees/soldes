@@ -26,4 +26,4 @@ Vous avez [GXGPOW Wireless Controller for PC PS3 Android  Bluetooth Gamepad Joys
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B087RLNHT6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B087RLNHT6/?tag=tolees0d-21)

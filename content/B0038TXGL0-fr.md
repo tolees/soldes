@@ -26,4 +26,4 @@ Vous avez [Shea Moisture - Noix de Coco & Hibiscus Curl & Shine Shampooing - 384
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0038TXGL0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0038TXGL0/?tag=tolees0d-21)

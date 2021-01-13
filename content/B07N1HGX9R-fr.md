@@ -26,4 +26,4 @@ C'est en vente [Kipling Teagan Xs Luggage 33 L Black Indigo](https://www.amazon.
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21)

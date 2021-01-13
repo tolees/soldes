@@ -26,4 +26,4 @@ C'est en vente [TICTID Raspberry Pi 4 Modèle B  4 B  1Go Upgraded for Raspberry
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07ZF73RB5/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZF73RB5/?tag=tolees0d-21)

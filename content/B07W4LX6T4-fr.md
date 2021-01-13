@@ -26,4 +26,4 @@ Vous avez [LIVOO DOP201 Super Blender  1200 W  1.8 liters](https://www.amazon.fr
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W4LX6T4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W4LX6T4/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Bosch Professional Meuleuse d angle Filaire GWS 18–125 SL  18
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07BRVL1FL/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07BRVL1FL/?tag=tolees0d-21)

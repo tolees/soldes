@@ -26,4 +26,4 @@ Vous avez [Norah Jones - Live At Ronnie Scott s [Blu-ray]](https://www.amazon.fr
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21)

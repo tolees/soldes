@@ -26,4 +26,4 @@ C'est en vente [Seagate Backup Plus Portable 5 To  Disque dur externe HDD  Roug
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07QQZ5PJW/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07QQZ5PJW/?tag=tolees0d-21)

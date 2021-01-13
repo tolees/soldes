@@ -26,4 +26,4 @@ Vous avez [NONZERS Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/CC9 Pro  2 P
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DQZHL4D/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DQZHL4D/?tag=tolees0d-21)

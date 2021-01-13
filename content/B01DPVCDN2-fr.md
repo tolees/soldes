@@ -26,4 +26,4 @@ Vous avez [Kyocera KTN-180-HIP  KIZUNA Couteau du chef Céramique Noir](https://
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DPVCDN2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DPVCDN2/?tag=tolees0d-21)

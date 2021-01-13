@@ -26,4 +26,4 @@ C'est en vente [Wasteland 3 : Day One Edition pour Xbox One](https://www.amazon.
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B082NFQPS9/?tag=tolees0d-21)

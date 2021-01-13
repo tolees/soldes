@@ -26,4 +26,4 @@ C'est en vente [KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X 100mm 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08BCC2SY7/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08BCC2SY7/?tag=tolees0d-21)

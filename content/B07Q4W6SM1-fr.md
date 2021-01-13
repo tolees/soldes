@@ -26,4 +26,4 @@ C'est en vente [WOTEK Bande Élastique Fitness Élastique Musculation Bande de R
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07Q4W6SM1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q4W6SM1/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Russell Hobbs 21480-56 Blender Chauffant 1 75L 2en1 Programmable Soup
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MB6K86W/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MB6K86W/?tag=tolees0d-21)

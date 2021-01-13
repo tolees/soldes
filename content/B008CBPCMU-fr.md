@@ -26,4 +26,4 @@ Vous avez [sloggi Chic Maxi 4P  Culotte Femme  Lot de 4 Noir  BLACK 0004  FR:48 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B008CBPCMU/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008CBPCMU/?tag=tolees0d-21)

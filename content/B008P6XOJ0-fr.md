@@ -26,4 +26,4 @@ Vous avez [Tefal EF351412 Appareil à Fondue Simply Invents 8 personnes](https:/
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B008P6XOJ0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008P6XOJ0/?tag=tolees0d-21)

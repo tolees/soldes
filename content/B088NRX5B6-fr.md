@@ -26,4 +26,4 @@ Vous avez [EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B088NRX5B6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088NRX5B6/?tag=tolees0d-21)

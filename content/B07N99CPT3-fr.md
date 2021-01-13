@@ -26,4 +26,4 @@ C'est en vente [YOSHI S CRAFTED WORLD - SWITCH](https://www.amazon.fr/dp/B07N99C
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07N99CPT3/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07N99CPT3/?tag=tolees0d-21)

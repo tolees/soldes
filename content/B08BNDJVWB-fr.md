@@ -26,4 +26,4 @@ Vous avez [eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync B
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNDJVWB/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNDJVWB/?tag=tolees0d-21)

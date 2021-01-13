@@ -26,4 +26,4 @@ C'est en vente [Fer à lisser ionique - pour boucler et lisser](https://www.amaz
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07PY7BJ3W/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07PY7BJ3W/?tag=tolees0d-21)

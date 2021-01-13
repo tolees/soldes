@@ -26,4 +26,4 @@ C'est en vente [Razer Basilisk Ultimate - souris de jeu sans fil avec 11 boutons
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B081QXPV1Y/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B081QXPV1Y/?tag=tolees0d-21)

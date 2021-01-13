@@ -26,4 +26,4 @@ Vous avez [Remington IPL6750 Epilateur Lumière Pulsée 300000 Flashs I-Light  E
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00URK6ZE8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00URK6ZE8/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordina
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CZFDFKY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CZFDFKY/?tag=tolees0d-21)

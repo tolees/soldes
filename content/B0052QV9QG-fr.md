@@ -26,4 +26,4 @@ C'est en vente [EL1600USBFR ELLIP ECO 1600 USB](https://www.amazon.fr/dp/B0052QV
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)

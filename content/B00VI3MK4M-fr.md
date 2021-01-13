@@ -26,4 +26,4 @@ Vous avez [Smartphone Xiaomi Redmi Note 8T  6.3   - 4 GB - 64 GB - Blue ](https:
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VI3MK4M/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VI3MK4M/?tag=tolees0d-21)

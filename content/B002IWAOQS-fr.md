@@ -26,4 +26,4 @@ Vous avez [Staub 1313906 Wok Cerise avec Couvercle Verre 37 Cm](https://www.amaz
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B002IWAOQS/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002IWAOQS/?tag=tolees0d-21)

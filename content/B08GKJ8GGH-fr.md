@@ -26,4 +26,4 @@ Vous avez [RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lit
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GKJ8GGH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GKJ8GGH/?tag=tolees0d-21)

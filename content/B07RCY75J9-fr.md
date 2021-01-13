@@ -26,4 +26,4 @@ C'est en vente [TEFAL Body Partner Pèse Personne Balance Connectée Compatible 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07RCY75J9/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07RCY75J9/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Clé USB 3.0 SanDisk Ultra 128 Go avec une vitesse de lecture allant 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P8XQPY4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P8XQPY4/?tag=tolees0d-21)

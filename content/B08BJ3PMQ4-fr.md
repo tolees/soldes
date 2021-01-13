@@ -26,4 +26,4 @@ Vous avez [Smartphone Portable CUBOT. P40  Ecran 6 2 Pouces  4 Go RAM 128 Go ROM
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BJ3PMQ4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BJ3PMQ4/?tag=tolees0d-21)

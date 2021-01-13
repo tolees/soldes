@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 2to  Disque Dur Externe USB3.1 Type-C Portabl
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08CZ46X9G/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CZ46X9G/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Fissler Vitavit Edition Design / Autocuiseur En Acier Inoxydable  6 L
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00WVLPT4I/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00WVLPT4I/?tag=tolees0d-21)

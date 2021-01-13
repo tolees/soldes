@@ -26,4 +26,4 @@ C'est en vente [LIVOO DOC208 Barbecue Gaz Gril et Plancha](https://www.amazon.fr
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07NSN13KC/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07NSN13KC/?tag=tolees0d-21)

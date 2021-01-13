@@ -26,4 +26,4 @@ Vous avez [8-Bit Armies - Limited Edition](https://www.amazon.fr/dp/B07HN88WLL/?
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21)

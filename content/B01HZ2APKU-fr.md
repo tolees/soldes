@@ -26,4 +26,4 @@ Vous avez [Thrustmaster T-16000M FCS FLIGHT PACK joystick  manette des gaz et pa
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HZ2APKU/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HZ2APKU/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Darksiders - Genesis](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21)

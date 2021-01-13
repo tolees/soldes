@@ -26,4 +26,4 @@ C'est en vente [Tondeuse Cheveux Hommes Professionnelle  DynaBliss HG4100 Tondeu
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B088B8FQ7N/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B088B8FQ7N/?tag=tolees0d-21)

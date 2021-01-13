@@ -26,4 +26,4 @@ Vous avez [IQE-Storage TB-HS5 Coffret de transport  2 fermetures de type levier-
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B075V8WNGX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075V8WNGX/?tag=tolees0d-21)

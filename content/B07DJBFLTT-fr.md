@@ -26,4 +26,4 @@ C'est en vente [F1 2018 - Edition Headline](https://www.amazon.fr/dp/B07DJBFLTT/
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21)

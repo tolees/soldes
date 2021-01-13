@@ -26,4 +26,4 @@ Vous avez [eXtremeRate ABXY Boutons de Remplacement Colorés DIY Boutons de Dire
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CVCQ1B4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CVCQ1B4/?tag=tolees0d-21)

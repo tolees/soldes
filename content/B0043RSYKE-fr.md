@@ -26,4 +26,4 @@ C'est en vente [Staub 1103425 Cocotte Ronde Noir Mat 34 cm](https://www.amazon.f
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0043RSYKE/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0043RSYKE/?tag=tolees0d-21)

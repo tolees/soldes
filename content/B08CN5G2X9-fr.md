@@ -26,4 +26,4 @@ C'est en vente [GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note 9S/Redmi 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08CN5G2X9/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CN5G2X9/?tag=tolees0d-21)

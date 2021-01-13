@@ -26,4 +26,4 @@ Vous avez [PKparis K 1 Clé USB 3.0 64 Go Blanc](https://www.amazon.fr/dp/B00GY4
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GY4XH60/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GY4XH60/?tag=tolees0d-21)

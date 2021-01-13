@@ -26,4 +26,4 @@ C'est en vente [Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis de c
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B00NC1ZB9E/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B00NC1ZB9E/?tag=tolees0d-21)

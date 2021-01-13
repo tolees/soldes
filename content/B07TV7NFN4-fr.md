@@ -26,4 +26,4 @@ Vous avez [Levi s 501 Crop Jean Droit  Blanc  in The Clouds 0032   W23/L26 Femme
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TV7NFN4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TV7NFN4/?tag=tolees0d-21)

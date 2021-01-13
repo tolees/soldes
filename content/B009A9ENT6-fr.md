@@ -26,4 +26,4 @@ Vous avez [Brothers in Bamako [Import Allemand]](https://www.amazon.fr/dp/B009A9
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21)

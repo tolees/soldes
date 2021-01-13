@@ -26,4 +26,4 @@ C'est en vente [Seagate Portable 2 To  Disque dur externe portable HDD – USB 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07DQ91XNK/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DQ91XNK/?tag=tolees0d-21)

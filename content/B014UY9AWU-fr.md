@@ -26,4 +26,4 @@ C'est en vente [Pitch Perfect 2](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21)

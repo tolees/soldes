@@ -26,4 +26,4 @@ Vous avez [eXtremeRate Support Vertical Noir pour Xbox One X Console](https://ww
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B078BG4RJD/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078BG4RJD/?tag=tolees0d-21)

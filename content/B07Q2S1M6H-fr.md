@@ -26,4 +26,4 @@ Vous avez [Hatteker Tondeuse Barbe Tondeuse Cheveux Hommes Rasoir Tondeuse Corps
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q2S1M6H/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q2S1M6H/?tag=tolees0d-21)

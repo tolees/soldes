@@ -26,4 +26,4 @@ C'est en vente [HONOR MagicWatch 2 42 mm - Montre Connectée - Moniteur de Fréq
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B083WYD99J/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B083WYD99J/?tag=tolees0d-21)

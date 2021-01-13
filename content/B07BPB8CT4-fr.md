@@ -26,4 +26,4 @@ Vous avez [Wrangler Slider Jeans Homme  Bleu  Blue Charm 24Z   32W / 34L](https:
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BPB8CT4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BPB8CT4/?tag=tolees0d-21)

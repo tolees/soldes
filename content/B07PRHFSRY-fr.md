@@ -26,4 +26,4 @@ C'est en vente [Manette filaire PowerA Pokémon pour Nintendo Switch - Charmande
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07PRHFSRY/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07PRHFSRY/?tag=tolees0d-21)

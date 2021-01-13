@@ -26,4 +26,4 @@ Vous avez [Beurer HD50 Cape chauffante 100 W beige  marron](https://www.amazon.f
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BRA4O6W/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BRA4O6W/?tag=tolees0d-21)

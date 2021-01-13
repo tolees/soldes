@@ -26,4 +26,4 @@ C'est en vente [Senya SYBF-CJ018C extracteur de jus de fruits et legumes Healthy
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07KQK257L/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KQK257L/?tag=tolees0d-21)

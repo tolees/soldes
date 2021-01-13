@@ -26,4 +26,4 @@ C'est en vente [Fauteuil à Bascule Gaming - Sony Geist - noir/bleu](https://www
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07Y9BWYJ5/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y9BWYJ5/?tag=tolees0d-21)

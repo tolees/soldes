@@ -26,4 +26,4 @@ Vous avez [BaByliss Lisseur I-Pro 230 Steam avec technologie Brillance pour un l
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00X9SQC2U/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00X9SQC2U/?tag=tolees0d-21)

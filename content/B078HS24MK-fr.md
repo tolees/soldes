@@ -26,4 +26,4 @@ Vous avez [Braun Silk-épil 9 9/990 SkinSpa SensoSmart Épilateur Électrique O
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B078HS24MK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078HS24MK/?tag=tolees0d-21)

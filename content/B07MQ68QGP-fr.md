@@ -26,4 +26,4 @@ Vous avez [CASIO CDP-S100BK](https://www.amazon.fr/dp/B07MQ68QGP/?tag=tolees0d-2
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MQ68QGP/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MQ68QGP/?tag=tolees0d-21)

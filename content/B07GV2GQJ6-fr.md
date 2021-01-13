@@ -26,4 +26,4 @@ Vous avez [Diablo III : Eternal Collection pour Nintendo Switch](https://www.ama
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GV2GQJ6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GV2GQJ6/?tag=tolees0d-21)

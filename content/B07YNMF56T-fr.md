@@ -26,4 +26,4 @@ Vous avez [Roccat Vulcan 122 - Clavier de Jeu Blanc  GAMING mécanique RGB  Rét
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21)

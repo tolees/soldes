@@ -26,4 +26,4 @@ C'est en vente [Bosch MultiTalent 8 MC812W501 – Robot de cuisine polyvalent av
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07GRQSHNJ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07GRQSHNJ/?tag=tolees0d-21)

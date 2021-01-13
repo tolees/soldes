@@ -26,4 +26,4 @@ C'est en vente [Captain Tsubasa : Rise of New Champions Nintendo Switch](https:/
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)

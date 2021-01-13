@@ -26,4 +26,4 @@ C'est en vente [Cressi Apnea Wetsuit - Combinaisons de Plongée complètes pour 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07TC41LKP/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07TC41LKP/?tag=tolees0d-21)

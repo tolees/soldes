@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 1to Disque Dur Externe USB3.0-2.5’’ pour 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08DJ25N1V/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08DJ25N1V/?tag=tolees0d-21)

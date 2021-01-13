@@ -26,4 +26,4 @@ Vous avez [Abody Sèche-Cheveux 2200W Ionique  Sèche Cheveux Salon Professionne
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PM9DKY4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PM9DKY4/?tag=tolees0d-21)

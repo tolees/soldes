@@ -26,4 +26,4 @@ C'est en vente [Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0163EJIOK/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0163EJIOK/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Upworld Kit de Slime  Bricolage Kit de Fabrication de Slime avec 18 C
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B088GPWXZP/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088GPWXZP/?tag=tolees0d-21)

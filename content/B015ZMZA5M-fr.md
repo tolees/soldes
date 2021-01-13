@@ -26,4 +26,4 @@ C'est en vente [SCHEPPACH PL285 Scie Plongeante légère avec Guide Laser de Pr�
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B015ZMZA5M/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B015ZMZA5M/?tag=tolees0d-21)

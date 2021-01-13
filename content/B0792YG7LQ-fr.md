@@ -26,4 +26,4 @@ C'est en vente [Bluefin Fitness Plateforme Vibrante & Oscillante à Doubles Mote
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0792YG7LQ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0792YG7LQ/?tag=tolees0d-21)

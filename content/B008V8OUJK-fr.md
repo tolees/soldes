@@ -26,4 +26,4 @@ Vous avez [GATOR Cases G-Tour pour pedalboard 17" x 11"](https://www.amazon.fr/d
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B008V8OUJK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008V8OUJK/?tag=tolees0d-21)

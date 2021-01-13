@@ -26,4 +26,4 @@ C'est en vente [OUPOD Paire de manettes pour Nintendo Switch  remplacement Joy-C
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08G1Q65ZX/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08G1Q65ZX/?tag=tolees0d-21)

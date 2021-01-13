@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 2to Type C USB3.1 pour PC  Mac  Ordinateur de Bure
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DJ2MJSH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DJ2MJSH/?tag=tolees0d-21)

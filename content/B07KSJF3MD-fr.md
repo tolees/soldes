@@ -26,4 +26,4 @@ C'est en vente [Samsung SSD interne 860 QVO 2.5’’ SATA  2 TERA  - MZ-76Q2T0B
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07KSJF3MD/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KSJF3MD/?tag=tolees0d-21)

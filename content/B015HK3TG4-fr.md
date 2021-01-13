@@ -26,4 +26,4 @@ Vous avez [SweetLisS - Lisseur Libellule - Fer à lisser et à boucler avec Peig
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B015HK3TG4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015HK3TG4/?tag=tolees0d-21)

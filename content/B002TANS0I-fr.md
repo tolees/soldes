@@ -26,4 +26,4 @@ Vous avez [APC Back-UPS ES - BE700G-FR - Onduleur 700VA  8 Prises FR ](https://w
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B002TANS0I/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002TANS0I/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Vladimir Ashkenazy: The Complete Piano Concerto Recordings](https://w
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y61X2WM/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y61X2WM/?tag=tolees0d-21)

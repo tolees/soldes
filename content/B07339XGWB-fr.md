@@ -26,4 +26,4 @@ C'est en vente [Logitech G703 LIGHTSPEED Souris Gamer sans Fil  12000 PPP  RVB G
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07339XGWB/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07339XGWB/?tag=tolees0d-21)

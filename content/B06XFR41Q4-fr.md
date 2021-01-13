@@ -26,4 +26,4 @@ Vous avez [Seb Clipsominut  Easy Cocotte-minute 7 5 L Induction + Livre 100 Rece
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XFR41Q4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XFR41Q4/?tag=tolees0d-21)

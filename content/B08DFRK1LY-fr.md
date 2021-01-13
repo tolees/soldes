@@ -26,4 +26,4 @@ C'est en vente [Ceintures de Sudation  Ceinture De Sudation Homme et Femme  Cein
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08DFRK1LY/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08DFRK1LY/?tag=tolees0d-21)

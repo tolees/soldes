@@ -26,4 +26,4 @@ C'est en vente [ASUS TUF Gaming VG279QM - Ecran PC Gamer eSport 27" FHD - Dalle 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B083S89GJR/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B083S89GJR/?tag=tolees0d-21)

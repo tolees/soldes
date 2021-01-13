@@ -26,4 +26,4 @@ C'est en vente [NHL 19](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)  �
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21)

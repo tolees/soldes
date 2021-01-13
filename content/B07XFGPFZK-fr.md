@@ -26,4 +26,4 @@ C'est en vente [Sabrent SSD interne Rocket 500GB Nvme PCIe 4.0 M.2 2280 Solid St
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07XFGPFZK/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07XFGPFZK/?tag=tolees0d-21)

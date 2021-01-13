@@ -26,4 +26,4 @@ C'est en vente [Masseur Cervical  Appareil de Massage Électrique  Masseur de nu
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07ZM9NWDQ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZM9NWDQ/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Simm Jouets 50410 – Standard GS Moteur pour remplacer](https://ww
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B000JWIJZW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000JWIJZW/?tag=tolees0d-21)

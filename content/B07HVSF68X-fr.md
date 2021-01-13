@@ -26,4 +26,4 @@ Vous avez [YUCUN Disque Flash 240 Go SSD M.2 2280 PCIe Express GEN3.0x4 NVMe Int
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HVSF68X/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HVSF68X/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [NEWYES NYWT850 Tablette d Ecriture LCD  8.5 Pouces de Longueur - Diff
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B071J4PW4C/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071J4PW4C/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps 8K 4K DP S
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNJJW18/?tag=tolees0d-21)

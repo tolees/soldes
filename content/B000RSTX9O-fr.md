@@ -26,4 +26,4 @@ C'est en vente [TP-Link TL-SG1024 Switch 24 Ports Gigabit  Rackable  Boîtier M�
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B000RSTX9O/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B000RSTX9O/?tag=tolees0d-21)

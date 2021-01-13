@@ -26,4 +26,4 @@ Vous avez [TP-Link T2600G-18TS Switch administrable niveau 2 avec 16 ports Gigab
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0141JOKL0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0141JOKL0/?tag=tolees0d-21)

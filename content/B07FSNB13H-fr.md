@@ -26,4 +26,4 @@ C'est en vente [Philips GC8962/40 Centrale Vapeur PerfectCare Expert Plus 7 5 ba
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21)

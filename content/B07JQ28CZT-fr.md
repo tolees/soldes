@@ -26,4 +26,4 @@ Vous avez [Levi s 724 High Rise Straight Jean droit  Femme  Bleu  Two The Nine 0
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JQ28CZT/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JQ28CZT/?tag=tolees0d-21)

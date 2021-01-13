@@ -26,4 +26,4 @@ C'est en vente [Kingston A2000 - Disque SSD - chiffré - 1 To - interne - M.2 22
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07VXC9QMH/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07VXC9QMH/?tag=tolees0d-21)

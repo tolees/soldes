@@ -26,4 +26,4 @@ Vous avez [Ahava Deadsea Salt Body Firming Duo  Body Shaper  200 ml + Crème pou
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N0OVJJO/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N0OVJJO/?tag=tolees0d-21)

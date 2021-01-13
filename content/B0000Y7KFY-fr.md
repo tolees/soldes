@@ -26,4 +26,4 @@ C'est en vente [Kai DM.0701 Couteau Universel](https://www.amazon.fr/dp/B0000Y7K
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0000Y7KFY/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0000Y7KFY/?tag=tolees0d-21)

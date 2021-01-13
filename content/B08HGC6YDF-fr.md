@@ -26,4 +26,4 @@ Vous avez [Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch](https://www.ama
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)

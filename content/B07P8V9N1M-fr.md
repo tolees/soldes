@@ -26,4 +26,4 @@ C'est en vente [My time at Portia - Nintendo Switch](https://www.amazon.fr/dp/B0
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07P8V9N1M/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07P8V9N1M/?tag=tolees0d-21)

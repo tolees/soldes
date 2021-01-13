@@ -26,4 +26,4 @@ C'est en vente [Jupiter Juicepresso 3in1 Slow Juicer extracteur de jus blanc](ht
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B00I0R1UMC/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B00I0R1UMC/?tag=tolees0d-21)

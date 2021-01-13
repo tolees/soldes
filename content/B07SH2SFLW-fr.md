@@ -26,4 +26,4 @@ Vous avez [Honeycomb Aeronautical Alpha Flight Controls Yoke & Switch Panel](htt
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SH2SFLW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SH2SFLW/?tag=tolees0d-21)

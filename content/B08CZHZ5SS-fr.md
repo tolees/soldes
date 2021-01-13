@@ -26,4 +26,4 @@ C'est en vente [BAITITON 128GB MSATA III Disque Flash SSD 128 Go Interne Solid S
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08CZHZ5SS/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CZHZ5SS/?tag=tolees0d-21)

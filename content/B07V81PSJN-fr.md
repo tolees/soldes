@@ -26,4 +26,4 @@ C'est en vente [Faure FKM-804MP1 Robot Pâtissier Magic Baker Premiuim - 800W tr
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07V81PSJN/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07V81PSJN/?tag=tolees0d-21)

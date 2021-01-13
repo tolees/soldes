@@ -26,4 +26,4 @@ Vous avez [RAMPOW Chargeur Secteur USB 24W 2 Ports [Garantie à Vie] Chargeur US
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BLKBBXM/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BLKBBXM/?tag=tolees0d-21)

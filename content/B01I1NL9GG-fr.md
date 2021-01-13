@@ -26,4 +26,4 @@ C'est en vente [FAGOR FG293 Aspirateur balai 2 en 1 Rouge 0 5 L 1800 W](https://
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01I1NL9GG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01I1NL9GG/?tag=tolees0d-21)

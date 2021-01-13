@@ -26,4 +26,4 @@ C'est en vente [Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en Rési
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01MYYNRF3/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MYYNRF3/?tag=tolees0d-21)

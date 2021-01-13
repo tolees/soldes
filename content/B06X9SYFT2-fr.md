@@ -26,4 +26,4 @@ Vous avez [Perfection - Jeu de Societe - Jeu de rapidité - Version Française](
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X9SYFT2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X9SYFT2/?tag=tolees0d-21)

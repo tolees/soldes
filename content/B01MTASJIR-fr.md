@@ -26,4 +26,4 @@ C'est en vente [Trilobite Jean de Moto](https://www.amazon.fr/dp/B01MTASJIR/?tag
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01MTASJIR/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MTASJIR/?tag=tolees0d-21)

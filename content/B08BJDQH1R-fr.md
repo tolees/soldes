@@ -26,4 +26,4 @@ C'est en vente [Jump Force Deluxe Edition  Nintendo Switch ](https://www.amazon.
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08BJDQH1R/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08BJDQH1R/?tag=tolees0d-21)

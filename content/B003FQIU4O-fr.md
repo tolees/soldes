@@ -26,4 +26,4 @@ Vous avez [Cuisinart CH4DCE Mini-Préparateur Double sens Rotation  Hacher  Mixe
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B003FQIU4O/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003FQIU4O/?tag=tolees0d-21)

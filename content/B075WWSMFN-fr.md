@@ -26,4 +26,4 @@ C'est en vente [Kodak Printomatic - Appareil Photo à Impression Instantanée av
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B075WWSMFN/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B075WWSMFN/?tag=tolees0d-21)

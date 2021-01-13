@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 2 to USB 3.0 pour PC  Mac  MacBook  Xbox One 2To P
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D68BVQN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D68BVQN/?tag=tolees0d-21)

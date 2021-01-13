@@ -26,4 +26,4 @@ C'est en vente [LIVOO DOP142N Robot culinaire Chauffant](https://www.amazon.fr/d
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07WLN1F45/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07WLN1F45/?tag=tolees0d-21)

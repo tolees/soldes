@@ -26,4 +26,4 @@ C'est en vente [eXtremeRate Kit de Coques avec Boutons Colorés pour Nintendo Sw
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08JQF6DL5/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08JQF6DL5/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Ledger Backup Pack - Nano S + Nano X - Portefeuille de Cryptomonnaies
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X48WBHN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X48WBHN/?tag=tolees0d-21)

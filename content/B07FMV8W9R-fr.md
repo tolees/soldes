@@ -26,4 +26,4 @@ C'est en vente [VTechKidizoom Smartwatch Connect DX2 – Framboise – Montre Co
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07FMV8W9R/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07FMV8W9R/?tag=tolees0d-21)

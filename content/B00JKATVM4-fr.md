@@ -26,4 +26,4 @@ Vous avez [Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K](https:/
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)

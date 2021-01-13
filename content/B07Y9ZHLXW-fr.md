@@ -26,4 +26,4 @@ C'est en vente [Redmi Note8 4+64Gb Black EU](https://www.amazon.fr/dp/B07Y9ZHLXW
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y9ZHLXW/?tag=tolees0d-21)

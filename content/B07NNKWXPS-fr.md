@@ -26,4 +26,4 @@ C'est en vente [O bag Borsa Completa Glam 54  Sac à bandoulière Femme  Noir  N
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07NNKWXPS/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07NNKWXPS/?tag=tolees0d-21)

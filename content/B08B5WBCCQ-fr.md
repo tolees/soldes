@@ -26,4 +26,4 @@ C'est en vente [ORICO Boîtier Disque Dur 2 5     Boîtier Externe Portable USB3
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08B5WBCCQ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08B5WBCCQ/?tag=tolees0d-21)

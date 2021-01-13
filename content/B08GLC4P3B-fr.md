@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC  Mac  
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08GLC4P3B/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08GLC4P3B/?tag=tolees0d-21)

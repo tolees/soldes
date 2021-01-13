@@ -26,4 +26,4 @@ C'est en vente [SanDisk iXpand 128 Go - Clé USB double connectique pour sauvega
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07VNGVKGF/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07VNGVKGF/?tag=tolees0d-21)

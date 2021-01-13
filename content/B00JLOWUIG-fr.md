@@ -26,4 +26,4 @@ Vous avez [Bosch Professional Défonceuse Filaire GOF 1250 CE  1250 W  régime �
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JLOWUIG/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JLOWUIG/?tag=tolees0d-21)

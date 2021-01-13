@@ -26,4 +26,4 @@ Vous avez [Sabrent SSD Interne Rocket Q M.2 2280 NVMe PCIe Haute Performance de 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0829DZH2W/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0829DZH2W/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Original Dovpo Odin 200W Mod alimenté par une double batterie 2
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B085NQPW7D/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B085NQPW7D/?tag=tolees0d-21)

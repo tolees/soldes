@@ -26,4 +26,4 @@ Vous avez [Samsung SSD 850 EVO   1 To  - SSD Interne SATA III 2.5" - MZ-75E1T0
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P738MUU/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P738MUU/?tag=tolees0d-21)

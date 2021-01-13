@@ -26,4 +26,4 @@ C'est en vente [GROSFILLEX Vega Table  Taupe  118 x 77 x 72 cm](https://www.amaz
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B00E0L5QRC/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B00E0L5QRC/?tag=tolees0d-21)

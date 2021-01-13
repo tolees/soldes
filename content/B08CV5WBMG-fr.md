@@ -26,4 +26,4 @@ C'est en vente [Yizhet Dongle USB Bluetooth Adaptateur Mini clé USB Bluetooth 5
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08CV5WBMG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CV5WBMG/?tag=tolees0d-21)

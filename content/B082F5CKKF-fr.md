@@ -26,4 +26,4 @@ C'est en vente [Fer à Lisser Professionnel Lissara - Plaques Larges en Titane e
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B082F5CKKF/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B082F5CKKF/?tag=tolees0d-21)

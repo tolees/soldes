@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe pour PC 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08DJ697NB/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08DJ697NB/?tag=tolees0d-21)

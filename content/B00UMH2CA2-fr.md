@@ -26,4 +26,4 @@ Vous avez [DWE4237-QS - Mini-amoladora 125mm 1.400W](https://www.amazon.fr/dp/B0
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UMH2CA2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UMH2CA2/?tag=tolees0d-21)

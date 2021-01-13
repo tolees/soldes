@@ -26,4 +26,4 @@ C'est en vente [TBS GALAIS  Mokassins Hommes  Gris  Ebene E8015   43 EU](https:/
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07FTPYVQH/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07FTPYVQH/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD 480GB Inte
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07ZCFW7FB/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZCFW7FB/?tag=tolees0d-21)

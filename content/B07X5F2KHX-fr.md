@@ -26,4 +26,4 @@ Vous avez [Moulinex Multicuiseur Intelligent Cookeo+ 6L 6 Modes de Cuisson 150 R
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X5F2KHX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X5F2KHX/?tag=tolees0d-21)

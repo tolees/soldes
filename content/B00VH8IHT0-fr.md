@@ -26,4 +26,4 @@ Vous avez [Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes et Corps.]
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VH8IHT0/?tag=tolees0d-21)

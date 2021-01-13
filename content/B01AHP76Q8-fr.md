@@ -26,4 +26,4 @@ Vous avez [Razor Power Core E90 E90-Trottinette électrique-Rose Enfant](https:/
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AHP76Q8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AHP76Q8/?tag=tolees0d-21)

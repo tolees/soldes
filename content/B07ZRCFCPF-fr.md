@@ -26,4 +26,4 @@ C'est en vente [XL-S MEDICAL Solution Buvable - Aide à la Perte de Poids – Go
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07ZRCFCPF/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZRCFCPF/?tag=tolees0d-21)

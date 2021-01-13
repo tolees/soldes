@@ -26,4 +26,4 @@ C'est en vente [FUNLAB Premium Étui de jeux pour Nintendo Switch  Portable et M
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07L3VQ1RL/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07L3VQ1RL/?tag=tolees0d-21)

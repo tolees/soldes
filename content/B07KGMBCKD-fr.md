@@ -26,4 +26,4 @@ C'est en vente [Sabrent SSD interne Rocket NVMe PCIe M.2 2280 de 512GB. Solid St
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07KGMBCKD/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KGMBCKD/?tag=tolees0d-21)

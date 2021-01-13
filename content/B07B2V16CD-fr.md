@@ -26,4 +26,4 @@ Vous avez [FLEXISPOT E5W Bureau Réglable Electrique en Hauteur Bureau Assis-Deb
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B2V16CD/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B2V16CD/?tag=tolees0d-21)

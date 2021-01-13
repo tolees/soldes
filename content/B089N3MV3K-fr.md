@@ -26,4 +26,4 @@ C'est en vente [Toozey Jouet Chien à Macher pour Grands Chiens Mâcheurs agress
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B089N3MV3K/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B089N3MV3K/?tag=tolees0d-21)

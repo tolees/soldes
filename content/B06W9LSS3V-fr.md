@@ -26,4 +26,4 @@ C'est en vente [Honeywell HYF260E4 Ventilateur Tour QuietSet Puissant et Ultra S
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B06W9LSS3V/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B06W9LSS3V/?tag=tolees0d-21)

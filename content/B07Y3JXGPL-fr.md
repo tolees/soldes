@@ -26,4 +26,4 @@ C'est en vente [WD - My Book - Disque dur externe de bureau avec sauvegarde - 14
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21)

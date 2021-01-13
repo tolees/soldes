@@ -26,4 +26,4 @@ Vous avez [Jabra BIZ™ 2400 II Duo  NOUVELLE GENERATION - Type: 72 UNC  UNC = U
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21)

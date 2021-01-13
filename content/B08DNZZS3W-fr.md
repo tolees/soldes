@@ -26,4 +26,4 @@ C'est en vente [EasySMX Manette Switch  Manette Switch Pro pour Nintendo Switch/
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08DNZZS3W/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08DNZZS3W/?tag=tolees0d-21)

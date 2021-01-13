@@ -26,4 +26,4 @@ Vous avez [Havaianas Slim Brasil Logo Tongs-Femme  Bleu  Bleu Marin   39/40 EU](
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B074MK6MP4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074MK6MP4/?tag=tolees0d-21)

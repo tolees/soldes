@@ -26,4 +26,4 @@ Vous avez [Fossil Femme Collier JF01146040](https://www.amazon.fr/dp/B00ISWMSBQ/
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21)

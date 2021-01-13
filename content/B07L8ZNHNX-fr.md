@@ -26,4 +26,4 @@ Vous avez [Replay Anbass Jean Slim  Bleu  Super Light Blue 11   W30/L34  Taille 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07L8ZNHNX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07L8ZNHNX/?tag=tolees0d-21)

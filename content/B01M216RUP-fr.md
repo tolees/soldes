@@ -26,4 +26,4 @@ Vous avez [Bosch Electroménager MUC22B42FR Multicuiseur  900 W  Anthracite](htt
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M216RUP/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M216RUP/?tag=tolees0d-21)

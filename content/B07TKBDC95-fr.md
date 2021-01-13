@@ -26,4 +26,4 @@ C'est en vente [HP EliteBook 840 G2 - PC Portable - 14   -  Core i5-5300U / 2.30
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07TKBDC95/?tag=tolees0d-21)

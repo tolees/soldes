@@ -26,4 +26,4 @@ C'est en vente [Panasonic DMP-BDT167 Lecteur DVD Port USB](https://www.amazon.fr
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01EJHK5YA/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01EJHK5YA/?tag=tolees0d-21)

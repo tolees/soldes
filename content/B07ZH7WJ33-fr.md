@@ -26,4 +26,4 @@ C'est en vente [OSOYOO Starter Updated Version Kit for Micro:bit Include Micro:b
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07ZH7WJ33/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZH7WJ33/?tag=tolees0d-21)

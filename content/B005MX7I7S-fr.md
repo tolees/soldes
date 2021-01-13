@@ -26,4 +26,4 @@ C'est en vente [Slendertone Short d électrostimulation femme Noir  Taille 34-40
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B005MX7I7S/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B005MX7I7S/?tag=tolees0d-21)

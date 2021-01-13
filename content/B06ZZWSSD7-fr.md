@@ -26,4 +26,4 @@ C'est en vente [Morphy Richards Supervac Deluxe 32 V](https://www.amazon.fr/dp/B
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B06ZZWSSD7/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B06ZZWSSD7/?tag=tolees0d-21)

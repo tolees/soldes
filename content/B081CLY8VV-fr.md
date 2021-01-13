@@ -26,4 +26,4 @@ Vous avez [Pèse Personne Impédancemètre  Balance Connecté  Pèse-Personne Sa
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B081CLY8VV/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B081CLY8VV/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poignet - Taill
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XNMV56F/?tag=tolees0d-21)

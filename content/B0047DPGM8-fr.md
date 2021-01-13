@@ -26,4 +26,4 @@ Vous avez [Tiger LEC7-BK Support pour PC et Projecteur - Noir](https://www.amazo
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0047DPGM8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0047DPGM8/?tag=tolees0d-21)

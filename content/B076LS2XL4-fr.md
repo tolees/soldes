@@ -26,4 +26,4 @@ Vous avez [HoMedics Bain de Pieds avec Chauffage de l Eau](https://www.amazon.fr
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B076LS2XL4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076LS2XL4/?tag=tolees0d-21)

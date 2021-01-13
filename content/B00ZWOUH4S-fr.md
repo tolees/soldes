@@ -26,4 +26,4 @@ Vous avez [Logitech G Driving Force Levier de Vitesse pour Volant de Course G29 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21)

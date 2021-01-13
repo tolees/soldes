@@ -26,4 +26,4 @@ C'est en vente [Levi s 511 Slim Fit – Jeans pour hommes à coupe ajustée avec
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21)

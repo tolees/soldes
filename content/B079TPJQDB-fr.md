@@ -26,4 +26,4 @@ C'est en vente [Monopoly Tricheurs - Jeu de societe - Jeu de plateau - Version f
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B079TPJQDB/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B079TPJQDB/?tag=tolees0d-21)

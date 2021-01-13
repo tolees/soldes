@@ -26,4 +26,4 @@ Vous avez [Dell SE2216H Ecran de PC 22" Full HD LCD  VA  60 Hz  12 ms](https://w
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B015P6ITQ0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015P6ITQ0/?tag=tolees0d-21)

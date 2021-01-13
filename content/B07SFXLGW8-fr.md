@@ -26,4 +26,4 @@ Vous avez [Spyro Reignited Trilogy  Switch ](https://www.amazon.fr/dp/B07SFXLGW8
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21)

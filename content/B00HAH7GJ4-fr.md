@@ -26,4 +26,4 @@ Vous avez [Slave to The Sword](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Levi s 501 Crop Jean Droit  Bleu  Montgomery Baked 0074   W26/L26 Fem
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KF3FT56/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KF3FT56/?tag=tolees0d-21)

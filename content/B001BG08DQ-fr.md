@@ -26,4 +26,4 @@ Vous avez [Juki MO-654DE Surjeteuse  Métal  Blanc  34 x 27 x 29 5 cm](https://w
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B001BG08DQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001BG08DQ/?tag=tolees0d-21)

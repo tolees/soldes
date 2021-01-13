@@ -26,4 +26,4 @@ Vous avez [Maison Lejaby Mandala Cerclé Soutien-Gorge à Armature  Rose  Corset
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CFYLMD6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CFYLMD6/?tag=tolees0d-21)

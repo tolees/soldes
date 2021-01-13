@@ -26,4 +26,4 @@ Vous avez [Kit d’apprentissage scientifique OSOYOO  Ensemble d’expériences 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UYZOWR8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UYZOWR8/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Siméo PF200 Sorbetière](https://www.amazon.fr/dp/B00ZPLL3ZU/?t
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B00ZPLL3ZU/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B00ZPLL3ZU/?tag=tolees0d-21)

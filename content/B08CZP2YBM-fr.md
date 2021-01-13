@@ -26,4 +26,4 @@ Vous avez [Màsséur Électrique Vîbrómasséur Vîbrạnt pour Fémme Portable
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CZP2YBM/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CZP2YBM/?tag=tolees0d-21)

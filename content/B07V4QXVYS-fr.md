@@ -26,4 +26,4 @@ Vous avez [Faure FKM-901ME1 Robot Pâtissier Magic Baker Excellence - 800W trans
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V4QXVYS/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V4QXVYS/?tag=tolees0d-21)

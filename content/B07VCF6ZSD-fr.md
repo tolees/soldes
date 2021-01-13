@@ -26,4 +26,4 @@ Vous avez [Replay Anbass Jean Slim  Gris  Medium Grey 096   W30/L30  Taille Fabr
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21)

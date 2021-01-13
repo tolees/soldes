@@ -26,4 +26,4 @@ C'est en vente [Philips HR2382/10 Machine à Pâtes Automatique  Balance Intégr
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07GJWCCM7/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07GJWCCM7/?tag=tolees0d-21)

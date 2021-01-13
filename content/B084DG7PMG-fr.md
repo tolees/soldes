@@ -26,4 +26,4 @@ C'est en vente [Jumanji : Next Level](https://www.amazon.fr/dp/B084DG7PMG/?tag=t
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B084DG7PMG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B084DG7PMG/?tag=tolees0d-21)

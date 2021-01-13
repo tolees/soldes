@@ -26,4 +26,4 @@ C'est en vente [Vileda – Balai vapeur Steam XXL – Nettoyeur vapeur multi-sur
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07KQS8N55/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KQS8N55/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6 Gbit/
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B087QDVPLV/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B087QDVPLV/?tag=tolees0d-21)

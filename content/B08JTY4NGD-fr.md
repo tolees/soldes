@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 1to  USB3.0 Disque Dur Externe pour PC  Mac  MacBo
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JTY4NGD/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JTY4NGD/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Manette Révolution Pro Controller 2 Nacon pour PS4](https://www.amaz
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B075QFWVY4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075QFWVY4/?tag=tolees0d-21)

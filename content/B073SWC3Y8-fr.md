@@ -26,4 +26,4 @@ Vous avez [BODY WRAP - Body Retro Sculptant avec Armatures et Bretelles Ajustabl
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SWC3Y8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SWC3Y8/?tag=tolees0d-21)

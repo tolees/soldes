@@ -26,4 +26,4 @@ Vous avez [Safavieh Tapis Shag  Tufté à la main Fibre de Polyester Tapis en Pe
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B014ZS2BWW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014ZS2BWW/?tag=tolees0d-21)

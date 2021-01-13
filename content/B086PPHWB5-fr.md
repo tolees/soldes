@@ -26,4 +26,4 @@ C'est en vente [F1 2020 - Seventy Edition](https://www.amazon.fr/dp/B086PPHWB5/?
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B086PPHWB5/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B086PPHWB5/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [LK Coque pour Xiaomi Mi Note 10 / Mi Note 10 Pro  avec [2 × Pro
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08HGC213Q/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08HGC213Q/?tag=tolees0d-21)

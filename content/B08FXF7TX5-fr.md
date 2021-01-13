@@ -26,4 +26,4 @@ C'est en vente [RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 1
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08FXF7TX5/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08FXF7TX5/?tag=tolees0d-21)

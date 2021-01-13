@@ -26,4 +26,4 @@ C'est en vente [Truck Driver pour PS4](https://www.amazon.fr/dp/B07FDKWPLS/?tag=
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07FDKWPLS/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07FDKWPLS/?tag=tolees0d-21)

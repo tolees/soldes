@@ -26,4 +26,4 @@ Vous avez [Philips QP620/50 OneBlade Kit Lames Visage + Corps  2 Lames + 1 Syst�
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792FNM2D/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792FNM2D/?tag=tolees0d-21)

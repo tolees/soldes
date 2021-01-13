@@ -26,4 +26,4 @@ C'est en vente [DD SSD KINGSTON KC600 2.5 SATA3 512GO  SKC600/512G *0253](https:
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21)

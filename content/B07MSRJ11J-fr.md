@@ -26,4 +26,4 @@ C'est en vente [HP 27fwa – moniteur de 27 " FHD  enceintes intégrés .1920
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07MSRJ11J/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07MSRJ11J/?tag=tolees0d-21)

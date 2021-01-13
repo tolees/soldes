@@ -26,4 +26,4 @@ C'est en vente [Instant Sports pour Nintendo Switch](https://www.amazon.fr/dp/B0
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07QRHRBVM/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07QRHRBVM/?tag=tolees0d-21)

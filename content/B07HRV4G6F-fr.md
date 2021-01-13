@@ -26,4 +26,4 @@ Vous avez [Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec couvercle](http
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HRV4G6F/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HRV4G6F/?tag=tolees0d-21)

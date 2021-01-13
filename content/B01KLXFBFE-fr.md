@@ -26,4 +26,4 @@ C'est en vente [Remington Fer à lisser  Lisseur  Glide Céramique  Glisse Facil
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01KLXFBFE/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01KLXFBFE/?tag=tolees0d-21)

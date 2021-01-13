@@ -26,4 +26,4 @@ Vous avez [RAMPOW Câble USB C vers USB C 1m - Câble USB Type C Charge Rapide 6
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNXZY8Y/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BNXZY8Y/?tag=tolees0d-21)

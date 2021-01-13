@@ -26,4 +26,4 @@ Vous avez [Philips QP6510/30 OneBlade Pro avec sabot réglable 12 hauteurs de co
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AXMKPG8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AXMKPG8/?tag=tolees0d-21)

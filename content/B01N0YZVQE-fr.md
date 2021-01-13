@@ -26,4 +26,4 @@ Vous avez [Clé USB 3.1 Sandisk Extreme Go - 128 Go avec une vitesse de lecture 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N0YZVQE/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N0YZVQE/?tag=tolees0d-21)

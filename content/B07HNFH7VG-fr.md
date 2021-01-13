@@ -26,4 +26,4 @@ C'est en vente [Borsalino [Édition Prestige-Version Restaurée]](https://www.am
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07HNFH7VG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07HNFH7VG/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Logitech G Saitek X52 Pro Flight Système 3M avec Commande de Gaz à 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M5F8SB6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M5F8SB6/?tag=tolees0d-21)

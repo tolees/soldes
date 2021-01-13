@@ -26,4 +26,4 @@ C'est en vente [Logitech iPad Air Étui Clavier  3e Génération  | Slim Folio a
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07W8MHW71/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07W8MHW71/?tag=tolees0d-21)

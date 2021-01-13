@@ -26,4 +26,4 @@ Vous avez [Safavieh Tapis Texturé  Tufté à la main la Laine Tapis en Gris Cla
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OCXSFF8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OCXSFF8/?tag=tolees0d-21)

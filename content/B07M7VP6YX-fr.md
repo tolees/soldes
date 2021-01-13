@@ -26,4 +26,4 @@ Vous avez [The Legend of Heroes: Trails of Cold Steel 2](https://www.amazon.fr/d
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M7VP6YX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M7VP6YX/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10  8  8.1  7 Tr
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FHSQQCX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FHSQQCX/?tag=tolees0d-21)

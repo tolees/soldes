@@ -26,4 +26,4 @@ C'est en vente [Chartres Basket Métropole Chartres Métropole Basket Short Offi
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07J5PZT43/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07J5PZT43/?tag=tolees0d-21)

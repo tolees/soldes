@@ -26,4 +26,4 @@ C'est en vente [Rasoir électrique pour hommes  rasoir électrique rotatif recha
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08B3PDTRH/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08B3PDTRH/?tag=tolees0d-21)

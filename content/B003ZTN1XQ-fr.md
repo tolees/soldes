@@ -26,4 +26,4 @@ C'est en vente [Inox Robinet mitigeur douche en acier inoxydable haut de gamme s
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B003ZTN1XQ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B003ZTN1XQ/?tag=tolees0d-21)

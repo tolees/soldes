@@ -26,4 +26,4 @@ Vous avez [Trust Gaming GXT 890 Cada Clavier AZERTY Gamer Mécanique RGB  Interr
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21)

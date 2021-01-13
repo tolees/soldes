@@ -26,4 +26,4 @@ Vous avez [Wëasy Mannequin Automatique Magic Pressing  Séchage et Repassage Ch
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0876CLCDN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0876CLCDN/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [EmtecECSSD480GX150 - Disque SSDInterne - 2.5   - SATA - Collection X1
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01C2JJB0G/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01C2JJB0G/?tag=tolees0d-21)

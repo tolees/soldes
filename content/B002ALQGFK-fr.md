@@ -26,4 +26,4 @@ Vous avez [Ardes - ARD.M240 - Masseur - Anti-Cellulite - Professionnel 4 en 1](h
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B002ALQGFK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002ALQGFK/?tag=tolees0d-21)

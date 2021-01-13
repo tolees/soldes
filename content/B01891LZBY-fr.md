@@ -26,4 +26,4 @@ C'est en vente [Rowenta Ventilateur sur pied 16  /40 cm Turbo Silence Extrême V
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01891LZBY/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01891LZBY/?tag=tolees0d-21)

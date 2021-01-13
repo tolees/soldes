@@ -26,4 +26,4 @@ Vous avez [Legrand LEG92727 Tableau Chauffe Eau](https://www.amazon.fr/dp/B009E6
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B009E6JR4G/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009E6JR4G/?tag=tolees0d-21)

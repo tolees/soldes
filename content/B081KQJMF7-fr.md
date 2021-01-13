@@ -26,4 +26,4 @@ C'est en vente [Bayonetta & Vanquish 10th Anniversary Bundle - Launch Edition po
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21)

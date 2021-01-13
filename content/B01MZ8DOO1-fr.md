@@ -26,4 +26,4 @@ C'est en vente [Philips BRI956/00 Lumea Prestige Epilateur à Lumière Pulsée a
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01MZ8DOO1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MZ8DOO1/?tag=tolees0d-21)

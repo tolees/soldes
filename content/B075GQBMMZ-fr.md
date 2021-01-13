@@ -26,4 +26,4 @@ C'est en vente [LEGO DUPLO - Les animaux de la ferme - 10870 - Jeu de Constructi
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B075GQBMMZ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B075GQBMMZ/?tag=tolees0d-21)

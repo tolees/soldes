@@ -26,4 +26,4 @@ Vous avez [EasySMX Manette PC/PS3 sans Fil Rechargeable  9110 2.4G Manette PC  M
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B089QN5JX8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089QN5JX8/?tag=tolees0d-21)

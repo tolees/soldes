@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 1to  Disque Dur Externe pour PC  Mac  MacBook
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08HZ43YVQ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08HZ43YVQ/?tag=tolees0d-21)

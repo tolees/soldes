@@ -26,4 +26,4 @@ C'est en vente [IKOHS Pro Wellness - Pèse Personne  Blanc ](https://www.amazon.
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07NY3GSWX/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07NY3GSWX/?tag=tolees0d-21)

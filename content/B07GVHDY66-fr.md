@@ -26,4 +26,4 @@ Vous avez [Replay Anbass Jean Slim  Bleu  Dark Blue 7   W28/L32  Taille Fabrican
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GVHDY66/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GVHDY66/?tag=tolees0d-21)

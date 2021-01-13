@@ -26,4 +26,4 @@ Vous avez [AUBADE  Soutien-gorge triangle  Bretelles réglables  THE BOW COLLECT
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q2RKTPK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q2RKTPK/?tag=tolees0d-21)

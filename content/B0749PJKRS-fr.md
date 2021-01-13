@@ -26,4 +26,4 @@ C'est en vente [CRAZYCHIC - Bague Elastique Taille Réglable Ajustable Femme - B
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0749PJKRS/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0749PJKRS/?tag=tolees0d-21)

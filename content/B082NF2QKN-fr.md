@@ -26,4 +26,4 @@ Vous avez [Wasteland 3 : Day One Edition pour PS4](https://www.amazon.fr/dp/B082
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21)

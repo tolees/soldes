@@ -26,4 +26,4 @@ C'est en vente [Sika Firestop profilé HD  Profilé pour calfeutrer des joints c
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07BL5CJFN/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07BL5CJFN/?tag=tolees0d-21)

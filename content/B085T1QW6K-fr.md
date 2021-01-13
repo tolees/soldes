@@ -26,4 +26,4 @@ Vous avez [QITAYO Verre Trempé pour Xiaomi Mi 10 / Xiaomi Mi 10 Pro  Kit Instal
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B085T1QW6K/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085T1QW6K/?tag=tolees0d-21)

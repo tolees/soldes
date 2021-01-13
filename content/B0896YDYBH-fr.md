@@ -26,4 +26,4 @@ Vous avez [Manette Switch  Manette sans Fil Bluetooth pour Nintendo Switch Pro/S
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0896YDYBH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0896YDYBH/?tag=tolees0d-21)

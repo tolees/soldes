@@ -26,4 +26,4 @@ C'est en vente [Dix de Chute - Jeu de societe de stratégie - Version française
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B071ZXV99Z/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B071ZXV99Z/?tag=tolees0d-21)

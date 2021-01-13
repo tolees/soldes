@@ -26,4 +26,4 @@ Vous avez [SweetLF Rasoir Electrique Homme Rechargeable Tondeuse Barbe IPX7 Etan
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01H6YAJXA/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01H6YAJXA/?tag=tolees0d-21)

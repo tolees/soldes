@@ -26,4 +26,4 @@ C'est en vente [Figurine - Ghost Recon: Breakpoint - Nomad](https://www.amazon.f
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07RP1BNG9/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07RP1BNG9/?tag=tolees0d-21)

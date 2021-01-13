@@ -26,4 +26,4 @@ C'est en vente [Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595](h
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21)

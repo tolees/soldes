@@ -26,4 +26,4 @@ Vous avez [TECLAST Tablette 10 1 Pouces Android 10 P20HD FHD 1920x1200 Bluetooth
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CXGYHNX/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CXGYHNX/?tag=tolees0d-21)

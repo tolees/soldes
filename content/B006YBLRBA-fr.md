@@ -26,4 +26,4 @@ Vous avez [sloggi Basic+ Maxi 3P  Culotte Gainante Femme  Paquet de 3  Noir  BLA
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B006YBLRBA/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006YBLRBA/?tag=tolees0d-21)

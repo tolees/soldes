@@ -26,4 +26,4 @@ Vous avez [HUION New Kamvas 20 2019 Tablette Graphique avec écran  Version Amé
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RS12LTL/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RS12LTL/?tag=tolees0d-21)

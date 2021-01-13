@@ -26,4 +26,4 @@ Vous avez [Onduleur Z1 Zenergy Cube EX 600 VA  3 prises secourues](https://www.a
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LGPLJ6S/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LGPLJ6S/?tag=tolees0d-21)

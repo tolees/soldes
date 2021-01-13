@@ -26,4 +26,4 @@ C'est en vente [Beurer MP 100 Ensemble de Manucure Pédicure Blanc](https://www.
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B015YP7AXK/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B015YP7AXK/?tag=tolees0d-21)

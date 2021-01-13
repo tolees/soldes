@@ -26,4 +26,4 @@ Vous avez [Deadly Premonition 2 : A Blessing in Disguise](https://www.amazon.fr/
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B088MVX8RY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088MVX8RY/?tag=tolees0d-21)

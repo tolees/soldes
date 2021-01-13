@@ -26,4 +26,4 @@ Vous avez [Microsoft Clavier Type Cover pour  Surface Pro Bleu Cobalt - AZERTY](
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B072MCZ8QQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072MCZ8QQ/?tag=tolees0d-21)

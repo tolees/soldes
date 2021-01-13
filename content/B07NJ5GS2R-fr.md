@@ -26,4 +26,4 @@ Vous avez [CASIO Montre Femme LTS-100D-7AVEF](https://www.amazon.fr/dp/B07NJ5GS2
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NJ5GS2R/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NJ5GS2R/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [PlayStation 2 Console de Jeux Noir Portefeuille](https://www.ama
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21)

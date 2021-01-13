@@ -26,4 +26,4 @@ Vous avez [Astérix & Obélix XXL 3 : le Menhir de Cristal Edition Limitée pour
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WHC394C/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WHC394C/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Rowenta VU6620F0 Ventilateur Colonne sur Pied Eole Infinite 3 Vi
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B06X6BTT27/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B06X6BTT27/?tag=tolees0d-21)

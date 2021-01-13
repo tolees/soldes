@@ -26,4 +26,4 @@ Vous avez [Levi s Perfect V Neck T-Shirt  Blanc  White + 0002   Large Femme](htt
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S2G2TK2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S2G2TK2/?tag=tolees0d-21)

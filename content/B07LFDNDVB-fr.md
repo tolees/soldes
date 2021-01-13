@@ -26,4 +26,4 @@ C'est en vente [Levi s 514 Straight Jeans  Ivy ADV 1209  31W / 32L Homme](https:
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07LFDNDVB/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07LFDNDVB/?tag=tolees0d-21)

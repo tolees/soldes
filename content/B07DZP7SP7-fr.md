@@ -26,4 +26,4 @@ C'est en vente [jolidon – Prelude – Maillot de Bain Une Pièce 100% Europée
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07DZP7SP7/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07DZP7SP7/?tag=tolees0d-21)

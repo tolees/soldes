@@ -26,4 +26,4 @@ C'est en vente [Kipling Youri Spin 55 Luggage 33 L Black Indigo](https://www.ama
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07N1D8X7X/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07N1D8X7X/?tag=tolees0d-21)

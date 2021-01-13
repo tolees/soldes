@@ -26,4 +26,4 @@ C'est en vente [Lenovo ThinkPad Helix Gen 2 11.6 pouces Full HD Touchscreen  5th
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07CSZ11BY/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07CSZ11BY/?tag=tolees0d-21)

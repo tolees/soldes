@@ -26,4 +26,4 @@ C'est en vente [Cartable 41 Tann s Les Chinés Teddy  Gris / Rouge](https://www.
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07ZJRQNKF/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZJRQNKF/?tag=tolees0d-21)

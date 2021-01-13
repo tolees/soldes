@@ -26,4 +26,4 @@ C'est en vente [Just Dance 2019 - Edition Amazon pour Nintendo Switch](https://w
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [LK Verre Trempé pour Xiaomi Redmi Note 9S / Note 9 Pro/Note 9 Pro Ma
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B088BGK38Y/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088BGK38Y/?tag=tolees0d-21)

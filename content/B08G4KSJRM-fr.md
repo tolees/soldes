@@ -26,4 +26,4 @@ Vous avez [Maegoo Manette Switch Joycon  Joycon Switch Pro Manettes pour Nintend
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G4KSJRM/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G4KSJRM/?tag=tolees0d-21)

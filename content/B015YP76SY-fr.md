@@ -26,4 +26,4 @@ Vous avez [Beurer Me 90 Electrocardiographe Connecté avec USB/Bluetooth](https:
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B015YP76SY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015YP76SY/?tag=tolees0d-21)

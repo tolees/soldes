@@ -26,4 +26,4 @@ Vous avez [ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile 14   FHD  I
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B086QDTBQN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086QDTBQN/?tag=tolees0d-21)

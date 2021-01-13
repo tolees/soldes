@@ -26,4 +26,4 @@ Vous avez [Dragonball GT - Box 3 [Import allemand]](https://www.amazon.fr/dp/B00
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DJM0C54/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DJM0C54/?tag=tolees0d-21)

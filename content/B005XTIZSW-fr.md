@@ -26,4 +26,4 @@ C'est en vente [Dim - Body Touch - Culotte - Séduction - Uni - Femme - Noir - F
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B005XTIZSW/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B005XTIZSW/?tag=tolees0d-21)

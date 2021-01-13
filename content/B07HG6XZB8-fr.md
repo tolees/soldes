@@ -26,4 +26,4 @@ Vous avez [mello Plaid canape Grande Taille | Plaid Fourrure Reversible Peau de 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HG6XZB8/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HG6XZB8/?tag=tolees0d-21)

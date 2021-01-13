@@ -26,4 +26,4 @@ Vous avez [ASUS Carte Mère Gaming Prime X570-PRO AMD AM4 Ryzen 3000  14 DrMOS p
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TNMC2R4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TNMC2R4/?tag=tolees0d-21)

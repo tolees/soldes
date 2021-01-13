@@ -26,4 +26,4 @@ C'est en vente [Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz  DDR4  DRAM  
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07HP7ZZVP/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07HP7ZZVP/?tag=tolees0d-21)

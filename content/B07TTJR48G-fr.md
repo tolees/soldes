@@ -26,4 +26,4 @@ Vous avez [ASUS TUF Gaming VG32VQ - Ecran PC Gamer eSport 31 5" WQHD - Dalle VA 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TTJR48G/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TTJR48G/?tag=tolees0d-21)

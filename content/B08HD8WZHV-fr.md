@@ -26,4 +26,4 @@ Vous avez [LK 2 pièces Verre Trempé pour Samsung Galaxy A51 Protecteur d écra
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HD8WZHV/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HD8WZHV/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Manettes pour Switch/Switch Lite  Manette sans Fil pour Nintendo
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07Z6CNGF1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07Z6CNGF1/?tag=tolees0d-21)

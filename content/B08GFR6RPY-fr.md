@@ -26,4 +26,4 @@ Vous avez [AIMOS Commutateur KVM DVI  2 Ports KVM Switch Boîtier De Commutation
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GFR6RPY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GFR6RPY/?tag=tolees0d-21)

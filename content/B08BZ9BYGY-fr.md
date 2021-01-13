@@ -26,4 +26,4 @@ C'est en vente [Vansuny Disque Dur Externe SSD 250Go  SSD Portable USB 3.1 Gen2 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08BZ9BYGY/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08BZ9BYGY/?tag=tolees0d-21)

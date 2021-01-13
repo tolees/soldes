@@ -26,4 +26,4 @@ C'est en vente [BAITITON NVME 512GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD Inter
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08CDH4QD3/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CDH4QD3/?tag=tolees0d-21)

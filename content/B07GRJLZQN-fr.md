@@ -26,4 +26,4 @@ C'est en vente [Tom Clancy s The Division 2 - Edition Gold](https://www.amazon.f
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21)

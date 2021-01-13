@@ -26,4 +26,4 @@ C'est en vente [Mon pays c est l amour  édition collector ](https://www.amazon.
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07H53J9MJ/?tag=tolees0d-21)

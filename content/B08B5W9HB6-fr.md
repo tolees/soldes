@@ -26,4 +26,4 @@ Vous avez [ORICO Boîtier Disque Dur 2.5  Adaptateur de Lecteur Externe USB3.0 v
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B5W9HB6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B5W9HB6/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Lintelek Montre Connectée Intelligente Homme Femme Ecran Tactil
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B082D87HGH/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B082D87HGH/?tag=tolees0d-21)

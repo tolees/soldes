@@ -26,4 +26,4 @@ C'est en vente [ACCUWEIGHT Balance de Cuisine Électronique Balance Multifonctio
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07KC3HPVN/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07KC3HPVN/?tag=tolees0d-21)

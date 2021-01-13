@@ -26,4 +26,4 @@ Vous avez [Trust Gaming GXT 608 Enceinte PC Gamer 2.0 pour Ordinateur  36 Watt  
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01FJN12FE/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01FJN12FE/?tag=tolees0d-21)

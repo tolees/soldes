@@ -26,4 +26,4 @@ Vous avez [VZATT Go Swing Ouvre-Boîte  Topless Can Opener  Ouvre-boîtes Manuel
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CDL3BD2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CDL3BD2/?tag=tolees0d-21)

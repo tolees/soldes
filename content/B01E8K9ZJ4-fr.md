@@ -26,4 +26,4 @@ Vous avez [Ayotu Étui pour Kindle Paperwhite 2018 - Étui de Protection en Cuir
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01E8K9ZJ4/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01E8K9ZJ4/?tag=tolees0d-21)

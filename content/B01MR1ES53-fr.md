@@ -26,4 +26,4 @@ C'est en vente [Razer Ornata Chroma Clavier de Jeu avec Touches à Membrane Mech
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B01MR1ES53/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01MR1ES53/?tag=tolees0d-21)

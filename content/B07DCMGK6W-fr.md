@@ -26,4 +26,4 @@ Vous avez [Adaptateur Secteur pour Switch / Switch Lite Support le Mode TV Charg
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DCMGK6W/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DCMGK6W/?tag=tolees0d-21)

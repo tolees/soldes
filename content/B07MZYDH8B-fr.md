@@ -26,4 +26,4 @@ Vous avez [Skechers Women s GO Walk 5 Trainers  Black  Black Textile/White Trim 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MZYDH8B/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MZYDH8B/?tag=tolees0d-21)

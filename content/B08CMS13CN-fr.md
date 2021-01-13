@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 1to  USB-C Disque Dur Externe pour PC  Mac  X
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08CMS13CN/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08CMS13CN/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Souris de jeu sans fil Razer Basilisk X Hyperspeed  souris de jeu san
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Y8QWZDW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Y8QWZDW/?tag=tolees0d-21)

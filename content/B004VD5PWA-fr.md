@@ -26,4 +26,4 @@ C'est en vente [Marie Brizard Curaçao Liqueur Triple Sec 700 ml](https://www.am
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B004VD5PWA/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B004VD5PWA/?tag=tolees0d-21)

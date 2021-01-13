@@ -26,4 +26,4 @@ C'est en vente [Lexibook D800FR Dictionnaire électronique Larousse](https://www
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B003FZB7NQ/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B003FZB7NQ/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Le Tanneur femme Adele Sac bandouliere Rose  Poudre ](https://ww
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07MKS74R7/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07MKS74R7/?tag=tolees0d-21)

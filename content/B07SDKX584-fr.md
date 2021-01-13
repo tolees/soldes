@@ -26,4 +26,4 @@ Vous avez [Pokémon-Détective Pikachu [4K Ultra HD + Blu-Ray]](https://www.amaz
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SDKX584/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SDKX584/?tag=tolees0d-21)

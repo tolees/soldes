@@ -26,4 +26,4 @@ C'est en vente [CASINO Thon Entier à l Huile de Tournesol](https://www.amazon.f
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21)

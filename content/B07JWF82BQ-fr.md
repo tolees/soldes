@@ -26,4 +26,4 @@ Vous avez [Robot Blender Mixeur Multifonction - Power Blender Greenis FGR-8830 d
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JWF82BQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JWF82BQ/?tag=tolees0d-21)

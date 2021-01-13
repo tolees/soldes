@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 2to Disque Dur Externe USB3.0-2.5’’ pour Mac  
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DJ28JBW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DJ28JBW/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ C'est en vente [Calvin Klein 3p Low Rise Trunk  Caleçon  Bleu  Black/Blue Shado
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07D7VKPLP/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07D7VKPLP/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent 26 x 39 x 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B015X7NKL0/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015X7NKL0/?tag=tolees0d-21)

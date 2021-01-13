@@ -26,4 +26,4 @@ C'est en vente [LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox Tous feu
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07JKD8N3N/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07JKD8N3N/?tag=tolees0d-21)

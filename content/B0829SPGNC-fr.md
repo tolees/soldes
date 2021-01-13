@@ -26,4 +26,4 @@ C'est en vente [Mafiti Tablette d écriture LCD 8.5 Pouces d écriture électron
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0829SPGNC/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0829SPGNC/?tag=tolees0d-21)

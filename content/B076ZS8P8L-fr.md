@@ -26,4 +26,4 @@ Vous avez [DUAL 28 Days Detox Tea🌱🍵Thé Minceur Infusion pour Perte de Poi
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B076ZS8P8L/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076ZS8P8L/?tag=tolees0d-21)

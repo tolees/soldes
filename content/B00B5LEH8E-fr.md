@@ -26,4 +26,4 @@ Vous avez [Fender Cruz Tools Custom Shop Kit d outillage pour Guitare](https://w
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00B5LEH8E/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00B5LEH8E/?tag=tolees0d-21)

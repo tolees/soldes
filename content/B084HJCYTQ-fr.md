@@ -26,4 +26,4 @@ Vous avez [Samurai Shodown](https://www.amazon.fr/dp/B084HJCYTQ/?tag=tolees0d-21
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B084HJCYTQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084HJCYTQ/?tag=tolees0d-21)

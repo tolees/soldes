@@ -26,4 +26,4 @@ C'est en vente [Rocksmith 2014 + Câble](https://www.amazon.fr/dp/B00LBSUE1U/?ta
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21)

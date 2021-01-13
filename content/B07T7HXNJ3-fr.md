@@ -26,4 +26,4 @@ C'est en vente [LINDY Switch de Présentation Pro avec Extender HDBaseT](https:/
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07T7HXNJ3/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07T7HXNJ3/?tag=tolees0d-21)

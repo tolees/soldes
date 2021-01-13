@@ -26,4 +26,4 @@ C'est en vente [Adaptateur pour Nintendo Switch  Timoom 2 en 1 Bluetooth 5.0 Swi
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08B4LQV7M/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08B4LQV7M/?tag=tolees0d-21)

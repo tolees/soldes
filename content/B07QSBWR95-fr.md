@@ -26,4 +26,4 @@ C'est en vente [Funko- Pop Star Wars The Rise of Skywalker: BB-8 Figurine de Col
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07QSBWR95/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07QSBWR95/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [BAITITON 2 5 Pouces SATA III Disque Flash SSD 128 Go Interne Solid St
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F59B8KH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F59B8KH/?tag=tolees0d-21)

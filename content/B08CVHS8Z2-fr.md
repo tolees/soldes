@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C pour Mac  PC
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CVHS8Z2/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CVHS8Z2/?tag=tolees0d-21)

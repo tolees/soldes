@@ -26,4 +26,4 @@ C'est en vente [Bosch Professional Ponceuse Excentrique Filaire GEX 125-150 AVE 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B0050KAZ1O/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B0050KAZ1O/?tag=tolees0d-21)

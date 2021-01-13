@@ -26,4 +26,4 @@ Vous avez [Asus VivoBook S S532FA-BQ064T PC Portable 15" FHD  Intel Core i5-8265
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V12HGRH/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V12HGRH/?tag=tolees0d-21)

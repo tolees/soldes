@@ -26,4 +26,4 @@ Vous avez [Mano Sets de bagages MPTSET3 Noir 56.0 liters](https://www.amazon.fr/
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LMCEW40/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LMCEW40/?tag=tolees0d-21)

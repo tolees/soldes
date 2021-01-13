@@ -26,4 +26,4 @@ Vous avez [Panasonic Lumix DMCG7/DMCG70 1442/3.55.6 Lumix G Vario OIS ASPH Appar
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B010B8V6SA/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B010B8V6SA/?tag=tolees0d-21)

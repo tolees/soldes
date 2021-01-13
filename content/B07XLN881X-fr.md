@@ -26,4 +26,4 @@ C'est en vente [Alienware AW3420DW Ecran PC Gaming 34" Full HD 3440 x 1440  IPS 
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07XLN881X/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07XLN881X/?tag=tolees0d-21)

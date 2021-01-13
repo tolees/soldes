@@ -26,4 +26,4 @@ Vous avez [Learning Resources Kit pour la Classe de Base 10 en Plastique rainur
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000F8VBCI/?tag=tolees0d-21)

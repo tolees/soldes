@@ -26,4 +26,4 @@ Vous avez [sloggi Basic+ Midi 3P  Culotte Femme  Blanc  Taille 46  Lot de 3](htt
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B006ZIDSWI/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006ZIDSWI/?tag=tolees0d-21)

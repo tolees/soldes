@@ -26,4 +26,4 @@ Vous avez [RoWrite Royole Smart Digital Véritable Papier Notepad Folio avec Sty
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FLVR6YM/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FLVR6YM/?tag=tolees0d-21)

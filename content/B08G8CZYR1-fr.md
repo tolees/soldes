@@ -26,4 +26,4 @@ C'est en vente [Maegoo Manette PS4 sans Fil  Bluetooth Dualshock 4 Manette Joyst
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08G8CZYR1/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08G8CZYR1/?tag=tolees0d-21)

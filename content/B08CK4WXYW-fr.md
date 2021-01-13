@@ -26,4 +26,4 @@ Vous avez [Disque Dur Externe 2to  USB-C Disque Dur Externe pour PC  Mac  Xbox O
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CK4WXYW/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CK4WXYW/?tag=tolees0d-21)

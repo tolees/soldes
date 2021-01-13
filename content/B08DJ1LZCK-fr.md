@@ -26,4 +26,4 @@ C'est en vente [Disque Dur Externe 2to  Disque Dur Externe Portable HDD USB3.1/T
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08DJ1LZCK/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08DJ1LZCK/?tag=tolees0d-21)

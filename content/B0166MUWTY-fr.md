@@ -26,4 +26,4 @@ Vous avez [Yamaha - FX310AII - Guitare Folk](https://www.amazon.fr/dp/B0166MUWTY
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21)

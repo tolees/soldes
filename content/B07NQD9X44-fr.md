@@ -26,4 +26,4 @@ Vous avez [Disney Pixar Toy Story Buzz et son Vaisseau Spatial  53 cm x 51 cm  l
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NQD9X44/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NQD9X44/?tag=tolees0d-21)

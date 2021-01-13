@@ -26,4 +26,4 @@ Vous avez [LK Clair Coque pour Samsung Galaxy A71  [2 pièces Verre trempé Prot
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HGHJ52L/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HGHJ52L/?tag=tolees0d-21)

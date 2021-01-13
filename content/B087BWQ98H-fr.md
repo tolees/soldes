@@ -26,4 +26,4 @@ Vous avez [VICTOOM Electrostimulateur Musculaire  EMS Stimulateur Ceinture Abdom
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B087BWQ98H/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B087BWQ98H/?tag=tolees0d-21)

@@ -26,4 +26,4 @@ Vous avez [LK Verre Trempé pour Xiaomi Redmi Note 9 Pro Protection écran  [3 P
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08C4WHNPN/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08C4WHNPN/?tag=tolees0d-21)

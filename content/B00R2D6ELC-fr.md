@@ -26,4 +26,4 @@ Vous avez [La Bonne Paye – Jeu de societe familial - Jeu de plateau – Versio
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21)

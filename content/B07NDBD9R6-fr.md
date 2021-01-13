@@ -26,4 +26,4 @@ Vous avez [NETGEAR Routeur WiFi intelligent Nighthawk  R6700-100PES  - AC1750 Vi
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NDBD9R6/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NDBD9R6/?tag=tolees0d-21)

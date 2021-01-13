@@ -26,4 +26,4 @@ C'est en vente [Mauviel 270501 Penderie en cuivre  orange/jaune  1 cm](https://w
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B000T5RYSW/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B000T5RYSW/?tag=tolees0d-21)

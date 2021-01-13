@@ -26,4 +26,4 @@ Vous avez [Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E A42 5G S9 
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DCLKJQQ/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DCLKJQQ/?tag=tolees0d-21)
