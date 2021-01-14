@@ -25,8 +25,8 @@ C'est en vente [Modelco - VR goggles - VRSE - Jeu Vidéo - Réalité Virtuelle -
 
 ℹ️:
 
-- Arcade et histoire
 - 2 modes
+- Arcade et histoire
 - PAS BESOIN de console!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21)

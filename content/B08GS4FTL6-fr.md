@@ -25,9 +25,9 @@ Vous avez [Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive  SSD   MZ-
 
 ℹ️:
 
-- Get the ultimate sustainable performance: The 980 PRO delivers up to 500 MB with a 5-year limited warranty
 - Designed for tech enthusiasts, hardcore gamers and professionals who need reliability
 - Performance that puts you in command: PCIe Gen 4.0 x4, NVMe 1.3c Interface
+- Get the ultimate sustainable performance: The 980 PRO delivers up to 500 MB with a 5-year limited warranty
 - Fearless performance: Sequential Read speeds up to 6,900 MB/s *Performance may vary based on system hardware & configuration
 - Experience the best: M.2 (2280) form factor surpass the demands of tech enthusiasts and professionals
 

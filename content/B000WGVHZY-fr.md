@@ -26,9 +26,9 @@ Vous avez [Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenn
 ℹ️:
 
 - Peinture blanche couvrante indélébile et opaque
+- Utilisation sur tous supports: caoutchouc, plastique, verre, métal
+- Système dalimentation de lencre à soupape
 - Marqueur à peinture blanche permanente PENTEL WHITE
 - Pointe conique moyenne, tracé 2,5mm
-- Système dalimentation de lencre à soupape
-- Utilisation sur tous supports: caoutchouc, plastique, verre, métal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000WGVHZY/?tag=tolees0d-21)
