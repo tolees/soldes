@@ -25,15 +25,15 @@ C'est en vente [Kipling CLASS ROOM Cartable  43 cm  28 liters  Multicolore  Hear
 
 ℹ️:
 
-- Bretelles ajustables et matelassées
-- Compartiment pour ordinateur 15 pouces
-- Quatre compartiments fonctionnels (téléphone + stylo + portefeuille + ordinateur)
-- Une poche interne (zippée)
-- Deux compartiments principaux (zippés)
-- Résistant à leau
-- Dos matelassé ergonomique
-- Logo Kipling rond
-- Poignée matelassée
 - Bande réfléchissante
+- Quatre compartiments fonctionnels (téléphone + stylo + portefeuille + ordinateur)
+- Deux compartiments principaux (zippés)
+- Poignée matelassée
+- Bretelles ajustables et matelassées
+- Résistant à leau
+- Logo Kipling rond
+- Compartiment pour ordinateur 15 pouces
+- Dos matelassé ergonomique
+- Une poche interne (zippée)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NFGFS5G/?tag=tolees0d-21)
