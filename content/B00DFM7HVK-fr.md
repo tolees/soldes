@@ -25,15 +25,15 @@ C'est en vente [LEGO Technic le Tombereau Articulé Volvo 6x6  42114 - Kit de Co
 
 ℹ️:
 
-- Des instructions imprimées sont incluses pour que le plaisir de construire ce superbe set pour enfants commence immédiatement.
-- La construction peut commencer sans piles, mais pour profiter de toute la puissance et des fonctions techniques fascinantes de ce modèle télécommandé, 6 piles AA 1,5 V sont nécessaires.
-- Ce modèle regorge de détails authentiques. L’application LEGO Technic CONTROL+ met les enfants aux commandes et leur permet de parcourir les différents écrans, défis, réalisations et contenus exclusifs de l’application.
-- Chaque set LEGO Technic est conforme aux normes industrielles les plus élevées, ce qui garantit que chaque véhicule sassemble facilement à chaque fois.
-- Les kits de construction LEGO Technic sont parfaits pour les enfants qui aiment construire et veulent relever de nouveaux défis. Avec sa gamme de jouets amusants à construire, l’univers LEGO Technic fait le bonheur des enfants et des adultes.
-- Avec ce kit LEGO Technic Le tombereau articulé Volvo 6x6 (42114), les enfants découvrent les secrets dun énorme engin de construction et utilisent lapplication pour le diriger, basculer la benne ou changer de vitesse.
 - À la recherche d’un superbe camion télécommandé
+- Les kits de construction LEGO Technic sont parfaits pour les enfants qui aiment construire et veulent relever de nouveaux défis. Avec sa gamme de jouets amusants à construire, l’univers LEGO Technic fait le bonheur des enfants et des adultes.
 - Cette réplique dun camion Volvo mesure plus de 20 cm de haut, 60 cm de long et 20 cm de large, des dimensions idéales pour le jeu de rôle sur le thème du chantier de construction. À associer à d’autres sets sur le thème de la construction pour plus de possibilités.
-- Les enfants vont adorer construire leur propre réplique du tombereau articulé A60H classique de Volvo. Et avec les fonctions amusantes proposées dans l’application LEGO Technic CONTROL+, le plaisir se poursuit longtemps après la construction du modèle.
+- Avec ce kit LEGO Technic Le tombereau articulé Volvo 6x6 (42114), les enfants découvrent les secrets dun énorme engin de construction et utilisent lapplication pour le diriger, basculer la benne ou changer de vitesse.
+- La construction peut commencer sans piles, mais pour profiter de toute la puissance et des fonctions techniques fascinantes de ce modèle télécommandé, 6 piles AA 1,5 V sont nécessaires.
 - Le jeu créatif passe au niveau supérieur avec cet incroyable modèle LEGO Technic Volvo commandé par application ! Un superbe cadeau danniversaire pour tout jeune constructeur de 11 ans et plus.
+- Les enfants vont adorer construire leur propre réplique du tombereau articulé A60H classique de Volvo. Et avec les fonctions amusantes proposées dans l’application LEGO Technic CONTROL+, le plaisir se poursuit longtemps après la construction du modèle.
+- Chaque set LEGO Technic est conforme aux normes industrielles les plus élevées, ce qui garantit que chaque véhicule sassemble facilement à chaque fois.
+- Des instructions imprimées sont incluses pour que le plaisir de construire ce superbe set pour enfants commence immédiatement.
+- Ce modèle regorge de détails authentiques. L’application LEGO Technic CONTROL+ met les enfants aux commandes et leur permet de parcourir les différents écrans, défis, réalisations et contenus exclusifs de l’application.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00DFM7HVK/?tag=tolees0d-21)

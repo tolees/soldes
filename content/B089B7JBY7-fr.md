@@ -25,8 +25,8 @@ C'est en vente [Funko- Pop Ride: Dumb & Dumber-Lloyd w/Bicycle Figurine de Colle
 
 ℹ️:
 
-- Découvrez tous les autres produits Funko dédiés à lunivers Dumb & Dumber! Collectionnez-les tous!
 - Chaque personnage mesure environ 16 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Découvrez tous les autres produits Funko dédiés à lunivers Dumb & Dumber! Collectionnez-les tous!
 - Issue de la gamme Dumb & Dumber, la figurine Lloyd w/Bicycle rejoint la collection Funko POP Rides
 - Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 

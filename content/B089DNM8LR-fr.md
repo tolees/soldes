@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.48 % rabais sur Crucial P2 CT1000P2SSD8 SSD Interne 1To '
-date: 2021-01-14 19:59:28
+date: 2021-01-14 19:59:29
 image: 'https://m.media-amazon.com/images/I/41H49yowmIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,9 +25,9 @@ Vous avez [Crucial P2 CT1000P2SSD8 SSD Interne 1To  Vitesses atteignant 2400 Mo/
 
 ℹ️:
 
-- Includes SSD management software for performance optimization, data security, and firmware updates
-- Capacities up to 2TB with sequential reads/writes up to 2,400/1,900 MB/s
-- NVMe PCIe interface, marking the next step in storage innovation
 - 5-year limited warranty
+- Includes SSD management software for performance optimization, data security, and firmware updates
+- NVMe PCIe interface, marking the next step in storage innovation
+- Capacities up to 2TB with sequential reads/writes up to 2,400/1,900 MB/s
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089DNM8LR/?tag=tolees0d-21)

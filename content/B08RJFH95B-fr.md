@@ -26,9 +26,9 @@ C'est en vente [eXtremeRate Coques avec ABXY Boutons de Direction pour Nintendo 
 ℹ️:
 
 - Conception des coques de remplacement pour s’adapter parfaitement à Switch Joycons. Les Boutons ergonomiques du D-Pad peut considérablement améliorer votre fonction Joycon gauche, parfait pour les jeux intensifs du D-Pad
-- La couleur métallique chromé brillante est excellente, votre Switch sera cool.
-- Les processus de l’installation demande aux clients d’avoir les experiences de modification électroniques. Obtenez la guide dinstallation vidéo sur YouTube en recherchant "JoyCon Dpad Guide Extremerate" ou "cTajxu8ZpzI".Regardez la vidéo en demi-vitesse. Nous recommandons de regarder, de suspendre, de faire et de répéter.
 - Lemballage inclut les coques de remplacement pour Nintendo Switch Joycons (les pièces électroniques sont exclus), kit de boutons, PH00 and Y00 tournevis, Tri-wing et Philips vis.Noter que linstallation de cette coque annulera la garantie de votre Switch.
 - Coque de remplacement unique pour ajouter beaucoup plus de personnalité à votre Switch, il n’y a plus de couleur grise ennuyeuse standard.
+- Les processus de l’installation demande aux clients d’avoir les experiences de modification électroniques. Obtenez la guide dinstallation vidéo sur YouTube en recherchant "JoyCon Dpad Guide Extremerate" ou "cTajxu8ZpzI".Regardez la vidéo en demi-vitesse. Nous recommandons de regarder, de suspendre, de faire et de répéter.
+- La couleur métallique chromé brillante est excellente, votre Switch sera cool.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08RJFH95B/?tag=tolees0d-21)

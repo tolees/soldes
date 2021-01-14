@@ -25,10 +25,10 @@ Vous avez [Crucial CT1000X8SSD9 X8 1To Portable SSD – Vitesses atteignant 1050
 
 ℹ️:
 
-- Compatible avec Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4, et Xbox One avec les connecteurs USB-C 3.2 Gen2 et USB-A
-- Un produit élégant et durable, pourvu d’une coque en aluminium anodisé. Résistant aux chutes jusqu’à 2 mètre
-- Un produit Micron, l’un des plus grands fabricants de stockage flash au monde
 - Résistant aux températures extrêmes, aux chocs et aux vibrations
+- Compatible avec Windows, Mac, iPad Pro, Chromebook, Android, Linux, PS4, et Xbox One avec les connecteurs USB-C 3.2 Gen2 et USB-A
 - Des performances incroyables avec des vitesses de lecture atteignant 1050 Mo/s
+- Un produit Micron, l’un des plus grands fabricants de stockage flash au monde
+- Un produit élégant et durable, pourvu d’une coque en aluminium anodisé. Résistant aux chutes jusqu’à 2 mètre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YD5TK4F/?tag=tolees0d-21)

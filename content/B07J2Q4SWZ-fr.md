@@ -25,10 +25,10 @@ Vous avez [Crucial P1 1To CT1000P1SSD8 SSD Interne-jusqu’à 2000 MB/s  3D NAND
 
 ℹ️:
 
-- 3D NAND Micron – 40 ans d’innovation en matière de mémoire et de stockage
 - Des capacités allant jusqu’à 2To avec des vitesses de lecture/écriture séquentielle allant jusqu’à 2000/1700 Mo/s
+- 3D NAND Micron – 40 ans d’innovation en matière de mémoire et de stockage
 - Redundant Array of Independent NAND (RAIN)
-- L’interface NVMe PCIe marque un tournant dans l’innovation en matière de stockage
 - NVMe standard Self-Monitoring and Reporting Technology (SMART)
+- L’interface NVMe PCIe marque un tournant dans l’innovation en matière de stockage
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07J2Q4SWZ/?tag=tolees0d-21)
