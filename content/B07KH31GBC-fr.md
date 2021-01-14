@@ -25,9 +25,9 @@ C'est en vente [Under Armour EU Tech Pantalon Homme  Marron  34W / 32L](https://
 
 ℹ️:
 
-- Matière qui élimine la transpiration et sèche très rapidement
-- Matière tissée stretch, lisse et légère, tout en ayant une bonne tenue
-- Matière bi-stretch extensible dans tous les sens
 - Devant sans pinces, avec 4 poches
+- Matière bi-stretch extensible dans tous les sens
+- Matière tissée stretch, lisse et légère, tout en ayant une bonne tenue
+- Matière qui élimine la transpiration et sèche très rapidement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KH31GBC/?tag=tolees0d-21)
