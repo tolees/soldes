@@ -25,10 +25,10 @@ C'est en vente [Tondeuse à barbe rotative avec rasoir électrique pour rasoir �
 
 ℹ️:
 
+- ✔ Affichage à DEL - Montre la puissance de la batterie et le verrou de voyage, verrou de 3 secondes et ouvert de 3 secondes;
 - ✔ IPX7 Waterproof & Wet & Dry-Le rasoir est 100% imperméable, peut être utilisé sous la douche;
 - ✔ Chargement USB et longue durée dutilisation - À utiliser 60 minutes après 1 heure de charge.
 - ✔ Quallez-vous obtenir? - Un rasoir électrique Aesfee, un câble de chargement USB, un guide de l’utilisateur, un sac portable, une brosse de nettoyage. Si vous avez des questions sur lutilisation du produit, nhésitez pas à nous contacter et nous nous ferons un plaisir de vous répondre.
 - ✔Tête de rasoir 3D - Les têtes rotatives aux contours dynamiques 3D vous procurent un rasage confortable.
-- ✔ Affichage à DEL - Montre la puissance de la batterie et le verrou de voyage, verrou de 3 secondes et ouvert de 3 secondes;
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q6MZD57/?tag=tolees0d-21)
