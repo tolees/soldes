@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.67 % rabais sur Roll The Bones'
-date: 2021-01-13 12:36:26
+date: 2021-01-14 15:07:02
 image: 'https://m.media-amazon.com/images/I/61JsuDIZr5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,7 +27,7 @@ Vous avez [Roll The Bones](https://www.amazon.fr/dp/B0002NRQU2/?tag=tolees0d-21)
 
 - Year Of Release: 2004
 - Country Of Release: NLD
-- Catalog#: 7567837372
 - Record Label: Atlantic
+- Catalog#: 7567837372
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0002NRQU2/?tag=tolees0d-21)
