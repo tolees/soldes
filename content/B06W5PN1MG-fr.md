@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Modelco - VR goggles - VRSE - Jeu Vidéo  avec 70.37 % rabais '
-date: 2021-01-04 07:30:34
+date: 2021-01-14 18:03:11
 image: 'https://m.media-amazon.com/images/I/41J8vtvZ6lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ C'est en vente [Modelco - VR goggles - VRSE - Jeu Vidéo - Réalité Virtuelle -
 
 ℹ️:
 
-- PAS BESOIN de console!
 - Arcade et histoire
 - 2 modes
+- PAS BESOIN de console!
 
-[Achète-le!!](https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21)

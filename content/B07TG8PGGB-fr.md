@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.01 % rabais sur LIGHTAILING Jeu De Lumières pour  Archit'
-date: 2020-08-04 06:33:07
+date: 2021-01-14 18:40:13
 image: 'https://m.media-amazon.com/images/I/41UeB4nIs7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,5 +25,10 @@ Vous avez [LIGHTAILING Jeu De Lumières pour  Architecture New York  Modèle en 
 
 ℹ️:
 
+- CARACTÉRISTIQUE DU PRODUIT: La Lumière Est Faite A Partir De Matériaux Dorigine Purement Faits A La Main. Il Contient 1 Kit De Lumière Usb, Mode Demploi, Boîte A Piles. Brancher Lalimentation, Et Eclairer Vos Blocs De Construction Avec Notre Conception Etonnante!
+- INSTRUCTION DE MONTAGE: Linstallation de lensemble déclairage se fait selon vos préférences. Veuillez installer votre lampe à led avec soin, sans tirer fort et sans avoir besoin de la tordre ou de la secouer.
+- CONSEILS: Préparer trois piles AA, ou le chargeur USB et la tension doit être inférieure à 5V pour éviter de brûler.
+- A PROPOS DE NOUS: Spécialisé dans la conception de jouets déclairage sur mesure, nous visons à fournir à nos clients des produits de qualité et des services de qualité. Rendez vos créations uniques avec votre imagination et votre créativité. Allumez vos briques et apportez leur une nouvelle énergie. Si vous avez des problèmes, nhésitez pas à nous contacter. Passez une bonne expérience de magasinage!
+- USAGE: lensemble de lumière est utilisé pour Eclairer Architecture New York (à lexception de lensemble lego).
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TG8PGGB/?tag=tolees0d-21)

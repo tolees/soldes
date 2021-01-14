@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'DCL - Drone Championship League avec 45.51 % rabais '
-date: 2021-01-03 18:47:08
+date: 2021-01-14 18:38:42
 image: 'https://m.media-amazon.com/images/I/51lcAGWvJwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07XDCGLJY/?tag=tolees0d-21'
 descuento: '45.51'
-average: '20.84767857142857'
+average: '20.8801724137931'
 ---
 
 C'est en vente [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XDCGLJY/?tag=tolees0d-21)  à  45.51 % de réduction, prix final  21.79 EUR (original: 39.99 EUR) ici:
@@ -25,8 +25,8 @@ C'est en vente [DCL - Drone Championship League](https://www.amazon.fr/dp/B07XDC
 
 ℹ️:
 
-- DCL The Game reproduit fidèlement les mouvements de vrais drones
 - Classement en ligne : Un classement en ligne est établi pour chaque plateforme
 - 27 circuits différents
+- DCL The Game reproduit fidèlement les mouvements de vrais drones
 
-[Achète-le!!](https://www.amazon.fr/dp/B07XDCGLJY/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07XDCGLJY/?tag=tolees0d-21)

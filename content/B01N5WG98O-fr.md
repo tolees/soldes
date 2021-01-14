@@ -1,34 +1,34 @@
 ---
 layout: post
-title: '27.78 % rabais sur Sony XDR-S41D Radio Portable Digitale DA'
-date: 2021-01-11 17:12:00
+title: '16.67 % rabais sur Sony XDR-S41D Radio Portable Digitale DA'
+date: 2021-01-14 18:33:32
 image: 'https://m.media-amazon.com/images/I/41teNDQxOzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01N5WG98O-fr'
-actualPrice: 64.99 EUR
+actualPrice: 74.99 EUR
 currency: EUR
-price: 64.99
+price: 74.99
 comparePrice: 89.99 EUR
 prodname: 'Sony XDR-S41D Radio Portable Digitale DAB/ DAB+/ FM RDS Noir'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N5WG98O/?tag=tolees0d-21'
-descuento: '27.78'
-average: '64.99'
+descuento: '16.67'
+average: '66.41857142857143'
 ---
 
-Vous avez [Sony XDR-S41D Radio Portable Digitale DAB/ DAB+/ FM RDS Noir](https://www.amazon.fr/dp/B01N5WG98O/?tag=tolees0d-21)  à  27.78 % de réduction, prix final  64.99 EUR (original: 89.99 EUR) ici:
+Vous avez [Sony XDR-S41D Radio Portable Digitale DAB/ DAB+/ FM RDS Noir](https://www.amazon.fr/dp/B01N5WG98O/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  74.99 EUR (original: 89.99 EUR) ici:
 
 [![Sony XDR-S41D Radio Portable Digitale DA](https://m.media-amazon.com/images/I/41teNDQxOzL._SL200_.jpg)](https://www.amazon.fr/dp/B01N5WG98O/?tag=tolees0d-21)
 
 ℹ️:
 
-- Radio portable à piles, idéale pour la mobilité
 - Ecoutez également votre musique avec des écouteurs grâce à la prise jack.
 - Radio DAB, DAB+, FM (RDS), 5 boutons favoris, son de qualité
-- Fonction réveil et fonction veille programmée
 - Ecran LCD 4 lignes permettant dafficher des informations telles que le nom de la radio, lheure etc
+- Fonction réveil et fonction veille programmée
+- Radio portable à piles, idéale pour la mobilité
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N5WG98O/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N5WG98O/?tag=tolees0d-21)
