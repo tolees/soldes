@@ -25,10 +25,10 @@ C'est en vente [eXtremeRate PlayVital Capuchons pour manette Joy-Con Motif étoi
 
 ℹ️:
 
-- Remarque : cette coque ne convient pas aux manettes PS4, Switch Pro, Xbox One. Si vous rencontrez des problèmes (dommages, rayures, saleté, etc. ), nhésitez pas à nous contacter. Notre boutique sefforce toujours de satisfaire les clients et de satisfaire les besoins des clients avec une meilleure qualité.
+- Ce capuchon en silicone est spécialement conçu pour Nintendo Switch Joy-Con & Switch Lite, ce qui peut fournir une protection efficace pour vos sticks analogiques.
 - Facile à installer, il suffit de quelques secondes pour installer les capuchons de poignée sur la manette de la console. Sadapte parfaitement, compact avec le joystick après linstallation, vous ne vous inquiétez pas quil tombe.
 - Plusieurs combinaisons de couleurs au choix, chaque capuchon de joystick a un design détoile blanche, frais et charmant. Vous pouvez combiner la coque eXtremeRate pour personnaliser votre commutateur ou Switch Lite.
+- Remarque : cette coque ne convient pas aux manettes PS4, Switch Pro, Xbox One. Si vous rencontrez des problèmes (dommages, rayures, saleté, etc. ), nhésitez pas à nous contacter. Notre boutique sefforce toujours de satisfaire les clients et de satisfaire les besoins des clients avec une meilleure qualité.
 - Le capuchon de pouce est fabriqué en silicone de haute qualité, doux et confortable. Il peut bien protéger votre joystick contre les rayures, les chocs, la saleté ou dautres dommages.
-- Ce capuchon en silicone est spécialement conçu pour Nintendo Switch Joy-Con & Switch Lite, ce qui peut fournir une protection efficace pour vos sticks analogiques.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KS3RQSR/?tag=tolees0d-21)
