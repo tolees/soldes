@@ -25,10 +25,10 @@ C'est en vente [BlackSad: Under the Skin édition limitée pour Switch](https://
 
 ℹ️:
 
-- Plus de 30 personnages inédits et d’autres déjà connus, ayant chacun leur propre histoire et quêtes secondaires.
-- Un univers immense accompagné d’une bande-son Jazz digne des meilleurs polar noir hollywoodien
-- Un jeu qui ravira autant les fans de jeux d’aventure par son gameplay et sa narration, que les amoureux de la bande dessinée qui retrouveront les personnages et le style graphique de cet univers unique.
 - Un jeu narratif d’investigation au gameplay mélangeant enquêtes, puzzles, Quick Time Event (QTE) et dialogues à choix multiples
+- Plus de 30 personnages inédits et d’autres déjà connus, ayant chacun leur propre histoire et quêtes secondaires.
+- Un jeu qui ravira autant les fans de jeux d’aventure par son gameplay et sa narration, que les amoureux de la bande dessinée qui retrouveront les personnages et le style graphique de cet univers unique.
+- Un univers immense accompagné d’une bande-son Jazz digne des meilleurs polar noir hollywoodien
 - Une histoire officielle et inédite pour BLACKSAD, dans l’univers singulier de la bande dessinée parfaitement retranscrit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QZ4H1LM/?tag=tolees0d-21)

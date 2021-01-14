@@ -25,19 +25,19 @@ C'est en vente [Lékué Coffret Vapeur 1-2 pers rouge](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- 1-2 personnes
-- <b>Contenu du packaging</b>: 1
 - <b>Matière</b>: 100% Silicone Platinium
+- Anti-adhérent
 - <b>Dimensions</b>: 24 x 5 x 12,4 cm
+- Cuisson au four et micro-ondes, lavable au lave vaisselle
+- Convient pour lave-vaisselle
 - <b>Description détaillée</b>: Les aliments cuisent au four ou au micro-ondes dans leur propre jus et les saveurs sentremêlent en exprimant tous les arômes naturels.
 - Réutilisable
-- Cuisson au four et micro-ondes, lavable au lave vaisselle
-- <b>Garantie</b>: 2 ans
 - <b>Points forts</b>: Comprend un livret de recettes
-- Anti-adhérent
+- <b>Contenu du packaging</b>: 1
+- <b>Contenance</b>: 650 ml
+- 1-2 personnes
+- <b>Garantie</b>: 2 ans
 - Résistant jusquà max +260°C et -60°C.
 - Matériel: Plastique
-- <b>Contenance</b>: 650 ml
-- Convient pour lave-vaisselle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001AC5DUO/?tag=tolees0d-21)
