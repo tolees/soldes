@@ -25,9 +25,9 @@ C'est en vente [Sur écoute - L intégrale de la série - Blu-ray - HBO [Blu-ray
 
 ℹ️:
 
+- Format:blu_ray
 - édition :Blu-ray + Copie digitale
 - langue: français;anglais
-- Format:blu_ray
 - Nombre darticles:20
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00UNR7MXS/?tag=tolees0d-21)
