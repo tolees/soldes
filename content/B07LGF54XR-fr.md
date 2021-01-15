@@ -27,8 +27,8 @@ Vous avez [Sabrent M.2 NVME SSD  1TB ](https://www.amazon.fr/dp/B07LGF54XR/?tag=
 
 - Interface PCIe M.2 Gen3 x 4.
 - Prise en charge des commandes SMART et TRIM ainsi que des interfaces ONFi 2.3, ONFi 3.0, ONFi 3.2 et ONFi 4.0.
+- Gestion de l’alimentation pour APST / ASPM / M1.2.
 - Conforme PCIe 3.1 / NVMe 1.3.
 - Pour un clonage facile, tous les SSD Sabrent sont livrés gratuitement avec le logiciel Acronis True Image pour logiciel Sabrent. Pour les personnes qui nécessitent une taille de secteur spécifique afin de cloner leur SSD existant : Un nouvel utilitaire Sabrent permet aux utilisateurs de reformater le disque Rocket et de choisir la taille quils préfèrent, soit 512 bytes, soit 4K bytes.
-- Gestion de l’alimentation pour APST / ASPM / M1.2.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LGF54XR/?tag=tolees0d-21)
