@@ -25,10 +25,10 @@ Vous avez [Subsonic - Manette Colorz avec câble ultra long de 3 mètres  vibrat
 
 ℹ️:
 
-- Gyroscope et vibration intégrés pour une expérience de jeu optimum
 - Manette spécialement conçue pour Nintendo Switch au design et couleurs Fun! (existe en bleu ou rouge néon)
-- Afin dassurer son bon fonctionnement cette manette peut nécessiter une mise à jour sur le site du constructeur (vous pouvez également télécharger la notice de mise à jour sur cette page article)
 - Joysticks analogiques concaves pour une meilleure précision
+- Gyroscope et vibration intégrés pour une expérience de jeu optimum
 - Gâchettes arrière incurvées pour une prise en main parfaite
+- Afin dassurer son bon fonctionnement cette manette peut nécessiter une mise à jour sur le site du constructeur (vous pouvez également télécharger la notice de mise à jour sur cette page article)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CD2KZ96/?tag=tolees0d-21)

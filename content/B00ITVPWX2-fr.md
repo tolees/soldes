@@ -25,8 +25,8 @@ Vous avez [ASTIGARRAGA - CAB005.99 - Tréteau Réglable Architecte - Marron  Boi
 
 ℹ️:
 
-- Tréteau inclinable permettant une inclinaison suffisante pour une position droite du dos
-- Pin massif certifié FSC
 - Sans vernis, sans colorant
+- Pin massif certifié FSC
+- Tréteau inclinable permettant une inclinaison suffisante pour une position droite du dos
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ITVPWX2/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ C'est en vente [Philips HD6592/61 Machine à café SENSEO Switch 2 en 1 Noir  ma
 
 ℹ️:
 
-- Technologie 2 en 1: préparation dun café filtre ou café à dosettes en une seule machine
+- Technologie Crema Plus
 - Sélecteur dintensité (2 longueurs de café)
 - Verseuse isotherme en acier inoxydable
 - 1 à 2 tasses à la fois
-- Technologie Crema Plus
+- Technologie 2 en 1: préparation dun café filtre ou café à dosettes en une seule machine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FSNCGKW/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ C'est en vente [Polly Pocket Coffret Surprise Aventures à la Plage avec 2 mini-
 
 ℹ️:
 
+- Le coffret Aventure Surprise à la Plage souvre sur une plage de sable et des zones de détente conviviales pour passer des journées à samuser sous le soleil au bord de leau !
 - Il renferme également dautres secrets, les mini-figurines Polly et Shani, un mini-bateau hors-bord, ainsi que des accessoires de plage et de nourriture ​
 - Idéal pour emmener Polly Pocket à laventure, partout, à tout moment ! ​
 - Découvrez de nouvelles façons de jouer avec Polly Pocket et partez à laventure et à la découverte de nouveaux endroits grâce à ces coffrets surprises !
 - Le coffret souvre pour dévoiler tout un univers de jeu et de nombreuses surprises ! ​
-- Le coffret Aventure Surprise à la Plage souvre sur une plage de sable et des zones de détente conviviales pour passer des journées à samuser sous le soleil au bord de leau !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079KNHDKH/?tag=tolees0d-21)
