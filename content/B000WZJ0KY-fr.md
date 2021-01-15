@@ -25,10 +25,10 @@ Vous avez [Mauboussin - Eau de Parfum Femme - L Original Femme - Senteur Orienta
 
 ℹ️:
 
-- UNE SENTEUR INTEMPORELLE : MAUBOUSSIN pare les femmes avec des pierres précieuses et a inventé une fragrance qui prolonge leur magie.
 - UNE FRAGRANCE UNIQUE : En tête, un cocktail de fruits très rafraîchissant dynamise un cœur de jasmin envoûtant. En fond, lambre gris laisse un sillage très sensuel sur la peau.
-- UN PARFUM BIJOU : Dans son flacon facetté comme un diamant taillé sur mesure, symbole absolu du luxe, c’est un effluve envoûtant...
-- LES NOTES OLFACTIVES : Notes de tête : prune dorée ; Notes de coeur : jasmin des Indes ; Note de fond : ambre gris.
 - UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour.
+- LES NOTES OLFACTIVES : Notes de tête : prune dorée ; Notes de coeur : jasmin des Indes ; Note de fond : ambre gris.
+- UN PARFUM BIJOU : Dans son flacon facetté comme un diamant taillé sur mesure, symbole absolu du luxe, c’est un effluve envoûtant...
+- UNE SENTEUR INTEMPORELLE : MAUBOUSSIN pare les femmes avec des pierres précieuses et a inventé une fragrance qui prolonge leur magie.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000WZJ0KY/?tag=tolees0d-21)

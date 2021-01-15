@@ -26,9 +26,9 @@ C'est en vente [AUKEY Récepteur Bluetooth 5 Adaptateur Audio sans Fil avec 18 H
 ℹ️:
 
 - Plug & Play : appairer et connecter plus rapidement à votre appareil Bluetooth. Jusquà 18 heures de lecture ou conversation et 1000 heures en veille grâce à la batterie rechargeable intégrée
-- Soutiens la connexion avec deux périphériques Bluetooth en même temps avec la technologie A2DP, le récepteur permet la commutation entre deux dispositifs pour entendre de la musique ou prendre des appels téléphoniques
-- Appels mains libres avec microphone intégré, profitez de la communication facile et libre avec vos amis ou familles
-- Contenu du lemballage : AUKEY BR-C1 Récepteur Bluetooth, un Câble audio de 3,5mm, un câble RCA de 3,5 mm, un câble USB de charge, un mode demploi et Garantie de remplacement du produit pour une durée de 24 mois et Service à la clientèle amical et réactif
 - Transformer la musique sans fil depuis votre téléphone, iPhone, PC ou tablette jusquà la distance bluetooth de 10m, idéal pour les systèmes audio véhicule ou maison
+- Contenu du lemballage : AUKEY BR-C1 Récepteur Bluetooth, un Câble audio de 3,5mm, un câble RCA de 3,5 mm, un câble USB de charge, un mode demploi et Garantie de remplacement du produit pour une durée de 24 mois et Service à la clientèle amical et réactif
+- Appels mains libres avec microphone intégré, profitez de la communication facile et libre avec vos amis ou familles
+- Soutiens la connexion avec deux périphériques Bluetooth en même temps avec la technologie A2DP, le récepteur permet la commutation entre deux dispositifs pour entendre de la musique ou prendre des appels téléphoniques
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00QPZI25O/?tag=tolees0d-21)
