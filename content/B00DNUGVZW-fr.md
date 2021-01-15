@@ -25,9 +25,9 @@ Vous avez [Sizzix Plateforme Magnétique pour Matrices Fines 656499  Multicolore
 
 ℹ️:
 
-- La plateforme magnétique Sizzix utilise des aimant De haute qualité pour maintenir les Thinlits, Framelits et autres matrices fines en métal en place lors de la découpe.
-- Dimensions du produit: 15.6cm x 1.6cm x 22.5cm.
 - Les instructions pour composer votre sandwich facilement sont imprimées sur la plateforme pour vous guider
 - Elle est compatible avec toutes les machines Bige Shoot
+- La plateforme magnétique Sizzix utilise des aimant De haute qualité pour maintenir les Thinlits, Framelits et autres matrices fines en métal en place lors de la découpe.
+- Dimensions du produit: 15.6cm x 1.6cm x 22.5cm.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DNUGVZW/?tag=tolees0d-21)
