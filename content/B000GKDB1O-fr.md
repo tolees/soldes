@@ -25,10 +25,10 @@ C'est en vente [lavera Men Sensitiv Baume Après-Rasage Apaisant - vegan - Cosm�
 
 ℹ️:
 
-- Vegan, BIO, Natrue - 100 % sans silicones, paraffines & huiles minérales - développé et produit au sein dun site unique en Allemagne.
-- Le Baume Après-Rasage apaisant détend la peau fatiguée par le rasage et prévient les irritations et les rougeurs de la peau.
 - Agréées par des laboratoires de test indépendants, nos formules concentrées et naturelles sont un élixir de douceur et defficacité pour la peau.
 - La formule légère au bambou bio et à laloe vera bio : raffrîchit la peau rasée, prévient des irritations et hydrate la peau.
 - 100% cosmétiques naturels certifiés, formulés à base dingrédients végétaux naturels et dextraits de plantes bio ou dhuiles végétales bio.
+- Le Baume Après-Rasage apaisant détend la peau fatiguée par le rasage et prévient les irritations et les rougeurs de la peau.
+- Vegan, BIO, Natrue - 100 % sans silicones, paraffines & huiles minérales - développé et produit au sein dun site unique en Allemagne.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000GKDB1O/?tag=tolees0d-21)

@@ -25,9 +25,9 @@ C'est en vente [Maries Deux Enfants Integrale 11 Saisons](https://www.amazon.fr/
 
 ℹ️:
 
-- productGroup : DVD
-- Date de sortie : 2012-10-16
-- numberOfDiscs : 33
 - regionCode : 2
+- productGroup : DVD
+- numberOfDiscs : 33
+- Date de sortie : 2012-10-16
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21)
