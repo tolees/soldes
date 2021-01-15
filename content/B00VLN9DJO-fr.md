@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s GRAPHIC SET-IN NECK  T-Shirt Homm avec 36.20 % rabais '
-date: 2021-01-14 18:43:53
+date: 2021-01-15 19:12:42
 image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ C'est en vente [Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC 
 
 ℹ️:
 
-- Col rond
-- Coupe Regular
-- Logo imprimé sérigraphié sur l’avant
-- Manches courtes
 - 100 % coton
+- Manches courtes
+- Logo imprimé sérigraphié sur l’avant
+- Coupe Regular
+- Col rond
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00VLN9DJO/?tag=tolees0d-21)
