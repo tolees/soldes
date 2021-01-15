@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % rabais sur Robin des Bois [Blu-Ray]'
-date: 2021-01-11 17:16:05
+date: 2021-01-15 12:13:59
 image: 'https://m.media-amazon.com/images/I/512fAezF1UL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21'
 descuento: '20.01'
-average: '15.596666666666668'
+average: '15.64294117647059'
 ---
 
 Vous avez [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  15.99 EUR (original: 19.99 EUR) ici:
@@ -25,6 +25,9 @@ Vous avez [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=to
 
 ℹ️:
 
-- De Reitherman Wolfgang - Avec Bedford Brian - Ustinov Peter - Harris Phil
+- Titre : Robin des Bois
+- Date de sortie marché : Octobre 2013
+- Langue(s) audio : Français, Anglais
+- Date de sortie marché : 16 Octobre 2013
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)

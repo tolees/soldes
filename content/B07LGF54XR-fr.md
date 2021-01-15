@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.59 % rabais sur Sabrent M.2 NVME SSD  1TB '
-date: 2021-01-10 10:10:22
+date: 2021-01-15 12:18:40
 image: 'https://m.media-amazon.com/images/I/41sSCev1mgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ Vous avez [Sabrent M.2 NVME SSD  1TB ](https://www.amazon.fr/dp/B07LGF54XR/?tag=
 
 ℹ️:
 
-- Interface PCIe M.2 Gen3 x 4.
 - Pour un clonage facile, tous les SSD Sabrent sont livrés gratuitement avec le logiciel Acronis True Image pour logiciel Sabrent. Pour les personnes qui nécessitent une taille de secteur spécifique afin de cloner leur SSD existant : Un nouvel utilitaire Sabrent permet aux utilisateurs de reformater le disque Rocket et de choisir la taille quils préfèrent, soit 512 bytes, soit 4K bytes.
-- Prise en charge des commandes SMART et TRIM ainsi que des interfaces ONFi 2.3, ONFi 3.0, ONFi 3.2 et ONFi 4.0.
-- Gestion de l’alimentation pour APST / ASPM / M1.2.
 - Conforme PCIe 3.1 / NVMe 1.3.
+- Interface PCIe M.2 Gen3 x 4.
+- Gestion de l’alimentation pour APST / ASPM / M1.2.
+- Prise en charge des commandes SMART et TRIM ainsi que des interfaces ONFi 2.3, ONFi 3.0, ONFi 3.2 et ONFi 4.0.
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LGF54XR/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LGF54XR/?tag=tolees0d-21)
