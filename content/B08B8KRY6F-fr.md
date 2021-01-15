@@ -27,8 +27,8 @@ Vous avez [Kepae Modèle de Construction pour Adulte  Maison pour Mini Figurines
 
 - cest un excellent jouet et un très beau cadeau à offrir, soit pour ado soit pour adulte.
 - Le livret technique de montage fourni avec est très clair et précis.
-- Adapté aux enfants à partir de 8 ans et plus
 - Dimensions du produit: 19,2 x 17,5 x 25,5 cm
+- Adapté aux enfants à partir de 8 ans et plus
 - Grande Architecture de1326 pièces
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B8KRY6F/?tag=tolees0d-21)
