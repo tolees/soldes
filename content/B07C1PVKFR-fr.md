@@ -25,10 +25,10 @@ C'est en vente [PolarPro QuartzLine ND100K appareil photo filtre 77mm  filtre à
 
 ℹ️:
 
-- Neutralité parfaite des couleurs - Nouveau procédé de revêtement pour un changement de couleur nul
 - Comprend - Filtre, étui rigide, étui souple, chiffon de nettoyage
-- Élément en verre de quartz fondu - Résout les capteurs jusquà 100 MP
-- Cadre en laiton - Filetage lisse et durabilité accrue
 - 16 couches de revêtement - Revêtements anti-rayures / anti-huile / hydrophobes
+- Cadre en laiton - Filetage lisse et durabilité accrue
+- Élément en verre de quartz fondu - Résout les capteurs jusquà 100 MP
+- Neutralité parfaite des couleurs - Nouveau procédé de revêtement pour un changement de couleur nul
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07C1PVKFR/?tag=tolees0d-21)
