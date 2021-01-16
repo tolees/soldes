@@ -26,7 +26,7 @@ C'est en vente [Nike NK BRSLA M Duff - 9.0  60L  Sac de Gym Mixte Adulte  Bleu  
 ℹ️:
 
 - Sac dentraînement
-- Doubles Poignées et bandoulière amovible
 - Dimensions: 71, 1 cm l x 27, 9 cm B x 33 cm h
+- Doubles Poignées et bandoulière amovible
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KQY159C/?tag=tolees0d-21)
