@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Technic  La voiture de rallye contr avec 28.82 % rabais '
-date: 2021-01-14 18:58:08
+date: 2021-01-16 00:34:00
 image: 'https://m.media-amazon.com/images/I/51CSmFWtivL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W7V6R7D/?tag=tolees0d-21'
 descuento: '28.82'
-average: '111.98556250000003'
+average: '111.90894409937891'
 ---
 
 C'est en vente [LEGO Technic  La voiture de rallye contrôlée  CONTROL+ RC Racing Cars  115 pièces  42109](https://www.amazon.fr/dp/B07W7V6R7D/?tag=tolees0d-21)  à  28.82 % de réduction, prix final  99.65 EUR (original: 139.99 EUR) ici:
@@ -25,10 +25,10 @@ C'est en vente [LEGO Technic  La voiture de rallye contrôlée  CONTROL+ RC Raci
 
 ℹ️:
 
-- Fonctionne via un appareil intelligent avec 3 écrans: fonction et contrôle gyroscopique ainsi que des réalisationsAllez sur LEGOcom/devicecheck pour les appareils compatibles
-- Ce modèle de voiture de rallye est contrôlé via lapplication LEGO Technic CONTROL+ et propulsé par un Smart Hub avancé avec 1 moteur XL et 1 moteur L
-- Avec ce modèle de construction avancé, les conducteurs peuvent avancer, reculer, diriger, accélérer, freiner, jouer des effets sonores et obtenir une rétroaction en temps réel
-- La fonctionnalité complète nécessite 6 piles AA 1,5 V dans le Smart Hub Cet ensemble nest pas compatible avec les systèmes LEGO Power Functions
-- Comprend un contrôle gyroscopique multifonction, une palette de couleurs impressionnante avec des autocollants et des détails idéals idéals pour les enfants qui aiment les jouets de course
+- With this advanced building model, drivers can go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback
+- Features multi-function gyro control, awesome colour scheme with stickers and amazing details perfect for kids who love racing toys
+- This toy rally car model is controlled via the LEGO Technic CONTROL+ app and powered by an advanced Smart Hub with 1 XL motor and 1 L motor
+- Operated via a smart device with 3 screens: Function and gyro control plus achievements
+- Build the car; download the app; get ready for action; take on challenges in the free LEGO Technic CONTROL+ App
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7V6R7D/?tag=tolees0d-21)

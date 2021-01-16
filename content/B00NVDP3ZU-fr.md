@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Classic 10696 Boîte à Briques Créat avec 16.97 % rabais '
-date: 2021-01-14 19:58:45
+date: 2021-01-16 00:34:19
 image: 'https://m.media-amazon.com/images/I/51I7tDbzWFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ C'est en vente [LEGO Classic 10696 Boîte à Briques Créative Moyenne  Jeu de C
 
 ℹ️:
 
-- Comprend 18 pneus et 18 jantes ainsi quune plaque de base verte
-- LEGO Classic est conçu pour servir dinspiration à une créativité sans fin lors de la construction avec des briques LEGO
-- Contient une large gamme de briques LEGO de 35 couleurs différentes
 - Tous les modèles illustrés peuvent être construits à partir de cet ensemble en même temps
 - Les éléments spéciaux comprennent une plaque de base de 8 x 16 cm, une fenêtre avec cadre et 3 paires dyeux
+- Contient une large gamme de briques LEGO de 35 couleurs différentes
+- LEGO Classic est conçu pour servir dinspiration à une créativité sans fin lors de la construction avec des briques LEGO
+- Comprend 18 pneus et 18 jantes ainsi quune plaque de base verte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00NVDP3ZU/?tag=tolees0d-21)
