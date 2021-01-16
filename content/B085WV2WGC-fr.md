@@ -27,8 +27,8 @@ Vous avez [LEGO 75318 Star Wars: The Mandalorian  figurine de l’enfant Bébé 
 
 - Ce jouet de construction LEGO Star Wars de 1 073 pièces à collectionner constitue le plus beau cadeau pour un anniversaire, Noël ou une occasion spéciale pour les enfants de 10 ans et plus et pour tous les fans du film Star Wars : The Mandalorian.
 - Ce jouet de construction LEGO Star Wars de 1 073 pièces à collectionner constitue le plus beau cadeau pour un anniversaire, Noël ou une occasion spéciale pour les enfants de 10 ans et plus et pour tous les fans du film Star Wars : The Mandalorian.
+- Ce modèle à construire (nouveauté de novembre 2020) reproduit les adorables caractéristiques de ce petit personnage très populaire de Star Wars, avec sa tête, ses oreilles et sa bouche articulées pour lui donner différentes expressions.
 - Le set inclut la boule d’une manette de vaisseau – le jouet préféré de l’Enfant – qui peut être placée dans sa main, ainsi qu’un écriteau et la figurine LEGO de l’Enfant et constitue une magnifique pièce à exposer.
 - Les fans peuvent construire un superbe modèle en briques de L’Enfant (75318) tiré du film Star Wars : The Mandalorian, reproduisant des détails authentiques dans le style LEGO pour réaliser une fascinante pièce à exposer.
-- Ce modèle à construire (nouveauté de novembre 2020) reproduit les adorables caractéristiques de ce petit personnage très populaire de Star Wars, avec sa tête, ses oreilles et sa bouche articulées pour lui donner différentes expressions.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085WV2WGC/?tag=tolees0d-21)

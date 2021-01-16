@@ -25,9 +25,9 @@ Vous avez [Les Aventures de Bernard et Bianca [Blu-Ray]](https://www.amazon.fr/d
 
 ℹ️:
 
-- Date de sortie marché : 24/10/2012
 - Pays : ETATS-UNIS
 - Support : Blu-Ray
+- Date de sortie marché : 24/10/2012
 - Edition : DISNEY
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008M8HE2O/?tag=tolees0d-21)

@@ -25,8 +25,8 @@ C'est en vente [Sylvanian Families - Le Village - Le Théâtre de Danse et Balle
 
 ℹ️:
 
-- Les barres à suspension peuvent être retournées et transformer en un bureau. Le théâtre de danse peut également être utilisé pour des défilés de mode, des récitals scolaires ou des pièces de théâtre.
-- Le bâtiment peut Jouer la musique du lac des cygnes et de casse-noisette. Vous pouvez également connecter un lecteur audio et ainsi lire votre musique préférée grâce aux haut-parleurs.
 - Livré avec une version exclusive de la fille lapin chocolat portant des ballerines de danse. Placez les figurines sur la scène et tournez la poignée pour les faire danser.
+- Le bâtiment peut Jouer la musique du lac des cygnes et de casse-noisette. Vous pouvez également connecter un lecteur audio et ainsi lire votre musique préférée grâce aux haut-parleurs.
+- Les barres à suspension peuvent être retournées et transformer en un bureau. Le théâtre de danse peut également être utilisé pour des défilés de mode, des récitals scolaires ou des pièces de théâtre.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06X9VM3QR/?tag=tolees0d-21)

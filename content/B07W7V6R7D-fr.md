@@ -25,10 +25,10 @@ C'est en vente [LEGO Technic  La voiture de rallye contrôlée  CONTROL+ RC Raci
 
 ℹ️:
 
+- Operated via a smart device with 3 screens: Function and gyro control plus achievements
 - This toy rally car model is controlled via the LEGO Technic CONTROL+ app and powered by an advanced Smart Hub with 1 XL motor and 1 L motor
+- With this advanced building model, drivers can go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback
 - Build the car; download the app; get ready for action; take on challenges in the free LEGO Technic CONTROL+ App
 - Features multi-function gyro control, awesome colour scheme with stickers and amazing details perfect for kids who love racing toys
-- Operated via a smart device with 3 screens: Function and gyro control plus achievements
-- With this advanced building model, drivers can go forward, reverse, steer, accelerate, brake, play sound effects and get real-time feedback
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7V6R7D/?tag=tolees0d-21)
