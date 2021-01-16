@@ -25,10 +25,10 @@ C'est en vente [Birkenstock Arizona Sfb Cuir Suède  Sandales Bout ouvert Homme 
 
 ℹ️:
 
+- Couleur : Vert olive
+- Saison : Printemps Été
 - Fermeture : A boucles
 - Matière : Cuir
-- Saison : Printemps Été
 - Taille : 41 EU
-- Couleur : Vert olive
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DNDMFNY/?tag=tolees0d-21)

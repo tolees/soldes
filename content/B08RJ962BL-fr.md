@@ -26,9 +26,9 @@ Vous avez [eXtremeRate Kit Coques et Boutons Remplacement avec Kit d’Outils To
 ℹ️:
 
 - L’emballage inclut: Coque avant, coque arrière, Boutons ABXY / guide, Boutons Démarrer / Arrière, joysticks, D-Pad, pare-chocs, vis et outils (outil d’ouverte, tournevis T8H et T6).
-- Ce sont des kits de remplacement impressionnants pour actualiser votre contrôleur. Remplacement idéal pour votre shell de contrôleur Xbox One cassé ou dysfonctionnel.
-- Visitez notre boutique pour choisir les autres kits dont vous pourriez avoir besoin.
 - Modèle compatible: manette Xbox One avec prise casque 3,5 mm. vérifier la modèle avant lachat pour éviter toute déception et les retours.
 - Haute qualité. 100% convient pour le contrôleur Xbox One avec prise casque 3,5 mm.
+- Visitez notre boutique pour choisir les autres kits dont vous pourriez avoir besoin.
+- Ce sont des kits de remplacement impressionnants pour actualiser votre contrôleur. Remplacement idéal pour votre shell de contrôleur Xbox One cassé ou dysfonctionnel.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08RJ962BL/?tag=tolees0d-21)
