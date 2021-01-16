@@ -25,10 +25,10 @@ Vous avez [Havaianas Brasil Mix  Tongs Mixte Adulte  Multicolore  Steel Grey/Whi
 
 ℹ️:
 
-- Dessus : caoutchouc
-- Semelle intérieure : sans matériel intérieur
-- Matériau de semelle : caoutchouc
 - Doublure : non doublé
 - Type de talons : plat
+- Dessus : caoutchouc
+- Matériau de semelle : caoutchouc
+- Semelle intérieure : sans matériel intérieur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015SGE9G6/?tag=tolees0d-21)
