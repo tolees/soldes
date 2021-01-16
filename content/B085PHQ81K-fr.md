@@ -25,9 +25,9 @@ C'est en vente [Funko- Pop Keychain Potter Holiday-Harry S11 Figurine de Collect
 
 ℹ️:
 
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
-- Chaque porte-clé mesure environ 5 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Issue de la gamme Harry Potter Holiday la figurine Harry rejoint la collection Funko POP Keychain
+- Chaque porte-clé mesure environ 5 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Découvrez tous les autres produits Funko dédiés à lunivers Harry Potter Holiday
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085PHQ81K/?tag=tolees0d-21)

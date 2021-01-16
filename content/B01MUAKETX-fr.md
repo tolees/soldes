@@ -25,10 +25,10 @@ C'est en vente [Sennheiser M2 IEBT Micro-Casque Momentum Sans fil Intra-Auricula
 
 ℹ️:
 
-- Conception tour de cou ergonomique et robuste pour lécoute tout au long de la journée
-- Appairage NFC par simple contact pour une connexion immédiate aux appareils intelligents
 - Technologie sans fil Bluetooth 4.1
-- 10 heures dautonomie sur batterie avec recharge USB rapide en 1,5 heure
 - Précision acoustique supérieure et le son caractéristique Momentum
+- Appairage NFC par simple contact pour une connexion immédiate aux appareils intelligents
+- Conception tour de cou ergonomique et robuste pour lécoute tout au long de la journée
+- 10 heures dautonomie sur batterie avec recharge USB rapide en 1,5 heure
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MUAKETX/?tag=tolees0d-21)

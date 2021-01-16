@@ -25,10 +25,10 @@ Vous avez [Disque Dur Externe 1to Portable Disque Dur Externe USB3.0 SATA  Stock
 
 ℹ️:
 
-- Compatibilidad del sistema: Windows / Linux / Android OS.
 - Plug and Play - Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi.
+- Compatibilidad del sistema: Windows / Linux / Android OS.
 - Le Disque Dur Externe Doté Dune Technologie Spéciale Assure un Fonctionnement Silencieux à Tout Moment.
-- Disque dur Externe Transferts de données ultra-rapides avec USB 3.0 (compatibilité avec les ports USB 2.0 à la vitesse de transfert USB 2.0).
 - Disque Dur Externe 2,5 ": Ultra Slim, Boîtier en Métal, Étanche, Résistant Aux Chutes, Résistant Aux Rayures.
+- Disque dur Externe Transferts de données ultra-rapides avec USB 3.0 (compatibilité avec les ports USB 2.0 à la vitesse de transfert USB 2.0).
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08PXNTBSG/?tag=tolees0d-21)
