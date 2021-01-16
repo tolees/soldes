@@ -25,10 +25,10 @@ C'est en vente [Le Creuset  Gril Géant en Fonte Émaillée  Rond  Ø 32 cm  Com
 
 ℹ️:
 
+- Fabriqué en France, Nettoyage à la main recommandé, Passe au lave-vaisselle, Garantie à vie
+- Gril rond en fonte émaillée idéal pour griller vos viandes, poissons ou encore des légumes, Intérieur en émail noir mat
 - Contenu : 1 Gril en fonte émaillée Le Creuset, Rond, Ø 32 cm, Dimensions : 37 x 32 x 3.2 cm, Poids : 3.18 kg, Couleur : Cerise
 - Fonte économe en énergie pour des résultats de cuisson optimaux, Compatible avec toutes sources de chaleur, y compris linduction et le four
-- Gril rond en fonte émaillée idéal pour griller vos viandes, poissons ou encore des légumes, Intérieur en émail noir mat
 - Surface de cuisson rainurée permettant de recueillir lexcès de graisse des aliments de graisse, Format peu épais pour un rangement peu encombrant
-- Fabriqué en France, Nettoyage à la main recommandé, Passe au lave-vaisselle, Garantie à vie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00B4UP3VG/?tag=tolees0d-21)
