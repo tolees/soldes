@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars   Le chasseur X-wing de P avec 36.45 % rabais '
-date: 2021-01-15 18:43:29
+date: 2021-01-16 18:59:32
 image: 'https://m.media-amazon.com/images/I/51nR6aGMpkL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07W7TMLFY/?tag=tolees0d-21'
 descuento: '36.45'
-average: '86.5011440677966'
+average: '86.36163865546219'
 ---
 
 C'est en vente [LEGO Star Wars   Le chasseur X-wing de Poe Dameron  Set de construction  Collection L Ascension de Skywalker  127 pièces  75273](https://www.amazon.fr/dp/B07W7TMLFY/?tag=tolees0d-21)  à  36.45 % de réduction, prix final  69.9 EUR (original: 109.99 EUR) ici:
@@ -25,10 +25,10 @@ C'est en vente [LEGO Star Wars   Le chasseur X-wing de Poe Dameron  Set de const
 
 ℹ️:
 
-- Les ailes réglables du X-wing fighter montent ou descendent en  modes de croisière et dattaque et tirent des fusils à tenons et des missiles à ressort
+- Les enfants peuvent combattre le Premier Ordre avec Poe Dameron dans ce vaisseau spatial ou affronter le Chevalier de Ren au sol avec les formidables armes de Jannah
 - Ce set se combine brillamment avec LAscension de Skywalker : le chasseur TIE Sith (75272) pour des batailles épiques du Premier Ordre contre la Résistance
 - Possède un cockpit ouvrant pour figurine, un espace pour abriter R2-D2, des ailes réglables, des fusils à tenons et à ressort ainsi quun train datterrissage rétractable
 - Inclut 3 figurines - Poe Dameron, Knight of Ren et Jannah avec de nouvelles fonctionnalités et armes annoncées pour janvier 2020, plus un droïde R2-D2 LEGO
-- Les enfants peuvent combattre le Premier Ordre avec Poe Dameron dans ce vaisseau spatial ou affronter le Chevalier de Ren au sol avec les formidables armes de Jannah
+- Les ailes réglables du X-wing fighter montent ou descendent en  modes de croisière et dattaque et tirent des fusils à tenons et des missiles à ressort
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7TMLFY/?tag=tolees0d-21)
