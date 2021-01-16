@@ -25,7 +25,7 @@ Vous avez [Adidas Stan Smith Basket Mode Garçon Blanc  Footwear White/Footwear 
 
 ℹ️:
 
-- Shoe Style: Lo Top
 - Material - Upper: Leather
+- Shoe Style: Lo Top
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071K8K4ZL/?tag=tolees0d-21)

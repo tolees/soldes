@@ -25,10 +25,10 @@ C'est en vente [Puma SF Drift Cat 5 Ultra II 306422-03  Sneakers Basses Homme Bl
 
 ℹ️:
 
-- ActivityGroup: Auto
-- Semelle extérieure en caoutchouc adhérente
-- Logo Ferrari sur la face extérieure
 - Logo PUMA Cat à lavant, sur la languette et la semelle
+- Semelle extérieure en caoutchouc adhérente
 - Laçage classique pour un maintien en sécurité
+- ActivityGroup: Auto
+- Logo Ferrari sur la face extérieure
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QHNYV1Z/?tag=tolees0d-21)

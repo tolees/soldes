@@ -25,10 +25,10 @@ C'est en vente [Sylvanian Families - Le Village - La Crèche des Bébés - 5316 
 
 ℹ️:
 
-- Over 26 pieces included
 - Well-made with fine attention to detail
-- Good for stimulating imaginative role-play in children
 - Fully connectable to other playsets for expanded play capabilities
 - Multi-use playground equipment included; Slide can be raised higher, bench turns into a seesaw
+- Good for stimulating imaginative role-play in children
+- Over 26 pieces included
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CVKM1WJ/?tag=tolees0d-21)
