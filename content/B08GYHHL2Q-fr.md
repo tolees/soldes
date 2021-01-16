@@ -1,0 +1,34 @@
+---
+layout: post
+title: '36.73 % rabais sur Samsung Galaxy Z Flip 256Go noir - Smart'
+date: 2021-01-16 06:26:49
+image: 'https://m.media-amazon.com/images/I/31qmD1HZuvL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B08GYHHL2Q-fr'
+actualPrice: 949.0 EUR
+currency: EUR
+price: 949.0
+comparePrice: 1500.0 EUR
+prodname: 'Samsung Galaxy Z Flip 256Go noir - Smartphone 4G Portable débloqué - Compatible Réseau Français - Ecran 6 7 pouces - Double Nano SIM - Android'
+country: 'fr'
+flag: '🇫🇷'
+buyurl: 'https://www.amazon.fr/dp/B08GYHHL2Q/?tag=tolees0d-21'
+descuento: '36.73'
+average: '949.0'
+---
+
+Vous avez [Samsung Galaxy Z Flip 256Go noir - Smartphone 4G Portable débloqué - Compatible Réseau Français - Ecran 6 7 pouces - Double Nano SIM - Android](https://www.amazon.fr/dp/B08GYHHL2Q/?tag=tolees0d-21)  à  36.73 % de réduction, prix final  949.0 EUR (original: 1500.0 EUR) ici:
+
+[![Samsung Galaxy Z Flip 256Go noir - Smart](https://m.media-amazon.com/images/I/31qmD1HZuvL._SL200_.jpg)](https://www.amazon.fr/dp/B08GYHHL2Q/?tag=tolees0d-21)
+
+ℹ️:
+
+- Ecran AMOLED - 6,7 " Infinity Flex
+- Charnière à position libre - Photographier ou communiquer sans les mains
+- 8Go ram / 256Go rom
+- Désign révolutionnaire Cool & ultra-compact
+- Influencer ready - Une interface pensée pour le partage
+
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GYHHL2Q/?tag=tolees0d-21)
