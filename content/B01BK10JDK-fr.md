@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.42 % rabais sur KATAHIRO KUBOTA Couteau Zen Santoku Dama'
-date: 2021-01-10 21:24:15
+date: 2021-01-16 16:31:27
 image: 'https://m.media-amazon.com/images/I/31U++I3XViL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,4 +27,4 @@ Vous avez [KATAHIRO KUBOTA Couteau Zen Santoku Damas  7 pouces ](https://www.ama
 
 - Version 7 pouces: longueur totale 30,8 cm; Longueur de la lame: 17,6 cm, longueur de la poignée 13,2, épaisseur de la lame: 2,1 mm, poids: 281g
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BK10JDK/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BK10JDK/?tag=tolees0d-21)

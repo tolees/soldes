@@ -26,9 +26,9 @@ Vous avez [Kitchen Craft WFITWB World of Flavours Italian Olive Wood Serving Boa
 ℹ️:
 
 - Handwash only
-- Hand carved from olive wood
-- Measures 30cm length by 17cm width
-- World of flavours Italian antipasti/serving board
 - Chop, slice and dice using this olive wood chopping board
+- Measures 30cm length by 17cm width
+- Hand carved from olive wood
+- World of flavours Italian antipasti/serving board
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BU9Z1V8/?tag=tolees0d-21)
