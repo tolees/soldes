@@ -25,10 +25,10 @@ C'est en vente [Disque Dur Externe 2to USB3.0 Disque Dur Externe pour Mac  PC  W
 
 ℹ️:
 
-- 【Disque dur externe】 Disque dur externe 1 To / 2 To avec 200 Mo / S (vitesse maximale). Compatible avec 99% des systèmes PC, y compris Apple MAC, WIN7 / 8 / 8.1 / 10, Android et plus encore!
-- 【Fin et compact】 Petit et fin, ce disque dur externe au design spécial le rend facile à transporter. Le disque dur externe est ultra mince et extra léger, suffisamment portable pour être transporté dans des sacs ou des poches.
+- 【Service après-vente】 Si vous rencontrez un problème, nhésitez pas à nous contacter. Nous ferons de notre mieux pour vous apporter une solution satisfaisante.
 - 【Disque dur externe 3.0】 La conception USB 3.0 lui confère une vitesse de transmission rapide et est compatible avec lUSB 2.0. 5 fois plus rapide que les disques durs habituels lors de la lecture et plus dune fois plus rapide lors de lécriture, améliore considérablement votre efficacité de travail.
 - 【Plug and Play】 Plus de logiciel, il suffit de brancher et de jouer. Le disque dur portable est prêt à être utilisé immédiatement. Connectez simplement le câble USB à votre ordinateur et vous êtes prêt à commencer à envoyer des fichiers.
-- 【Service après-vente】 Si vous rencontrez un problème, nhésitez pas à nous contacter. Nous ferons de notre mieux pour vous apporter une solution satisfaisante.
+- 【Fin et compact】 Petit et fin, ce disque dur externe au design spécial le rend facile à transporter. Le disque dur externe est ultra mince et extra léger, suffisamment portable pour être transporté dans des sacs ou des poches.
+- 【Disque dur externe】 Disque dur externe 1 To / 2 To avec 200 Mo / S (vitesse maximale). Compatible avec 99% des systèmes PC, y compris Apple MAC, WIN7 / 8 / 8.1 / 10, Android et plus encore!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08R1KHNKJ/?tag=tolees0d-21)

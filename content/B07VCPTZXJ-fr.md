@@ -25,10 +25,10 @@ C'est en vente [Emporio Armani Homme Chronographe Quartz Montre avec Bracelet en
 
 ℹ️:
 
-- Épaisseur du boîtier: 12 mm; Taille du boîtier: 43 mm
-- Étanchéité: 3 ATM
-- Matière du bracelet: Cuir
-- Largeur du bracelet: 22 mm; Longueur du bracelet: 200+/- 5mm
 - Présenté dans un coffret cadeau Emporio Armani
+- Matière du bracelet: Cuir
+- Épaisseur du boîtier: 12 mm; Taille du boîtier: 43 mm
+- Largeur du bracelet: 22 mm; Longueur du bracelet: 200+/- 5mm
+- Étanchéité: 3 ATM
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VCPTZXJ/?tag=tolees0d-21)
