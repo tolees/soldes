@@ -25,10 +25,10 @@ Vous avez [eXtremeRate PlayVital Coque de protection personnalisée pour Nintend
 
 ℹ️:
 
-- La coque rigide rose Mandys Swith Lite est superbe ; excellente prise en main, douce au toucher et soyeuse ; antidérapante, sans sueur pour une longue période de jeu.
-- Le boîtier robuste est fabriqué en polycarbonate doux pour la peau et anti-rayures, protège entièrement votre Switch Lite des chocs quotidiens, des rayures, de la poussière, des traces de doigts, et prolonge la durée de vie de lappareil.
 - Coque de protection spécialement conçue pour sadapter parfaitement à la Nintendo Switch Lite. Coque antidérapante unique combinée avec le protecteur d’écran blanc qui ajoutera beaucoup plus de personnalité à votre console Switch Lite.
 - Facile à installer et à enlever sans endommager lappareil. Tous les boutons et ports sont parfaitement adaptés pour permettre un chargement direct et le remplacement de cartes de jeu sans démontage.
 - Contenu : 1 coque avant pour Nintendo Switch Lite, 1 coque arrière pour Nintendo Switch Lite, 1 protection décran en verre et 1 kit de nettoyage. Si vous avez des questions sur nos produits, nhésitez pas à nous contacter, nous résoudrons votre problème dans les 24 heures.
+- Le boîtier robuste est fabriqué en polycarbonate doux pour la peau et anti-rayures, protège entièrement votre Switch Lite des chocs quotidiens, des rayures, de la poussière, des traces de doigts, et prolonge la durée de vie de lappareil.
+- La coque rigide rose Mandys Swith Lite est superbe ; excellente prise en main, douce au toucher et soyeuse ; antidérapante, sans sueur pour une longue période de jeu.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DR9M84K/?tag=tolees0d-21)
