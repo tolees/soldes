@@ -25,8 +25,8 @@ Vous avez [Bosch 2607017161 Forets universels-Set Mini X-Line 14 Pièces  Argent
 
 ℹ️:
 
-- Set pratique de forets universels pour perçages dans le carrelage, le bois, la pierre, le béton et le métal
-- Avec pointe de perçage spécial percussion pour une longévité élevée
 - Inclut 8 embouts de vissage standard et un porte-embout universel magnétique
+- Avec pointe de perçage spécial percussion pour une longévité élevée
+- Set pratique de forets universels pour perçages dans le carrelage, le bois, la pierre, le béton et le métal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0088NJLNI/?tag=tolees0d-21)

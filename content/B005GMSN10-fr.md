@@ -25,9 +25,9 @@ Vous avez [Essential](https://www.amazon.fr/dp/B005GMSN10/?tag=tolees0d-21)  à 
 
 ℹ️:
 
-- Year Of Release: 2011
-- Catalog#: 50999 6802582
 - Record Label: Emi
 - Country Of Release: NLD
+- Year Of Release: 2011
+- Catalog#: 50999 6802582
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005GMSN10/?tag=tolees0d-21)
