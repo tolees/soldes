@@ -25,10 +25,10 @@ C'est en vente [SteelSeries Arctis 9 - Casque Gaming Double sans Fil - Audio san
 
 ℹ️:
 
-- Microphone certifié Discord: Le microphone ClearCast dispose d’une conception bidirectionnelle garantissant une suppression du bruit plus performante
+- Bluetooth simultané: Connectez-vous à vos appareils mobiles par Bluetooth pour passer des appels, écouter de la musique et discuter en VoIP tout en écoutant le son de vos jeux
 - Le son emblématique Arctis: L’environnement sonore emblématique Arctis vous permet d’entendre chaque détail, vous offrant un avantage audio
 - Audio sans fil 2,4 GHz sans perte: Technologie sans fil à très faible latence, pour de l’audio haute fidélité et sans délai dans les jeux pour PC et PlayStation
+- Microphone certifié Discord: Le microphone ClearCast dispose d’une conception bidirectionnelle garantissant une suppression du bruit plus performante
 - Autonomie de la batterie supérieure à 20 heures: Optimisé pour plus de 20 heures d’utilisation continue sans fil, avec une seule charge
-- Bluetooth simultané: Connectez-vous à vos appareils mobiles par Bluetooth pour passer des appels, écouter de la musique et discuter en VoIP tout en écoutant le son de vos jeux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GDHCB49/?tag=tolees0d-21)
