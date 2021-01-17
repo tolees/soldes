@@ -25,15 +25,15 @@ Vous avez [Finnlo AB & Back Trainer Mixte Adulte  Noir/Antharcite](https://www.a
 
 ℹ️:
 
-- Composé dun siège réglable ainsi que dun dossier de 50 mm dépaisseur pour plus de confort.
-- Compact et polyvalent vous bénéficier dune bonne posture droite du dos pour des exercices sans douleur.
-- - Dimensions Pliés : 118 x 68 x 33cm - Poids non inclus.
-- Dossier ajustable en 7 positions avec une capacité de charge maximale de 150 kg.
-- - Banc abdos-lombaires multifonction. - Position du corps optimisée. - Douleurs au niveau de la colonne vertébrale et des lombaires évitées.
-- Le siège est pliable pour un gain de place et possède un angle négatif pour des exercices diversifiés.
 - - Châssis compact. - Stable et robuste. - Réglage facile. - Sellerie de grande qualité. - Stabilisateurs en caoutchouc.
 - Pour plus de facilité un rangement est prévu pour vos haltères (non inclus) sous le banc pour plus de confort.
-- Dossier ajustable en 7 positions (angle négatif) - 6 réglages pour les jambes - 6 réglages pour laccoudoir - Poids max. de charge : 150 kg
 - Avec lAB & Back Trainer vous avez un équipement de fitness à domicile parfait pour entraîner les abdominaux, le dos, les fesses et les bras de manière efficace.
+- - Dimensions Pliés : 118 x 68 x 33cm - Poids non inclus.
+- Dossier ajustable en 7 positions (angle négatif) - 6 réglages pour les jambes - 6 réglages pour laccoudoir - Poids max. de charge : 150 kg
+- Le siège est pliable pour un gain de place et possède un angle négatif pour des exercices diversifiés.
+- Composé dun siège réglable ainsi que dun dossier de 50 mm dépaisseur pour plus de confort.
+- Compact et polyvalent vous bénéficier dune bonne posture droite du dos pour des exercices sans douleur.
+- Dossier ajustable en 7 positions avec une capacité de charge maximale de 150 kg.
+- - Banc abdos-lombaires multifonction. - Position du corps optimisée. - Douleurs au niveau de la colonne vertébrale et des lombaires évitées.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00F40WFD6/?tag=tolees0d-21)

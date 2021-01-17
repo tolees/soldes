@@ -25,13 +25,13 @@ Vous avez [Cool Maker - 6046941 - Jouet Enfant - Loisirs Créatifs - Go Glam Nai
 
 ℹ️:
 
-- 1 machine, 5 cartouches de motifs, 2 vernis et 1 protège-vernis inclus pour décorer jusquà 125 ongles
-- La machine s’adapte à toutes tailles d’ongles
-- Le cadeau danniversaire ou de Noël idéal
 - Vernis qui s’enlève à l’eau, spécialement conçu pour les enfants
-- Un top coat est fourni pour finaliser la manucure et donner un effet brillant et glamour
-- Une superbe trousse pour ranger la machine et ses accessoires fournis
 - A partir de 8 ans
+- Un top coat est fourni pour finaliser la manucure et donner un effet brillant et glamour
+- La machine s’adapte à toutes tailles d’ongles
+- 1 machine, 5 cartouches de motifs, 2 vernis et 1 protège-vernis inclus pour décorer jusquà 125 ongles
+- Une superbe trousse pour ranger la machine et ses accessoires fournis
 - Choisis ta couleur de vernis et applique un motif pour réaliser une manucure parfaite
+- Le cadeau danniversaire ou de Noël idéal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P5ZWT6L/?tag=tolees0d-21)

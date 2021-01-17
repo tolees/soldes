@@ -25,10 +25,10 @@ Vous avez [Babymoov Doomoo Nid - Transat Bébé - Pouf Evolutif & Multifonctions
 
 ℹ️:
 
-- TRANSAT BEBE EVOLUTIF : le doomoo Nid sutilise dès la naissance de votre bébé et jusquà ses 30 kg
-- CONFORT MAXIMAL : son remplissage unique en microbilles assure un confort optimal à votre bébé. Les microbilles épousent parfaitement le corps de votre enfant quel que soit son âge
-- 2EME ÂGE : le plateau 2ème âge transforme le transat. Votre enfant lutilise aussi bien dans sa chambre que dans le salon. Votre enfant est bien installé à vos côtés
-- ENTRETIEN FACILE : les plateaux doomoo Nid se lavent en machine (30°)
 - 1ER ÂGE : le plateau 1er âge intègre une ceinture de maintien pour une sécurité maximale (jusquà 9kg). En coton ultra doux, il respecte la peau fragile de votre bébé
+- ENTRETIEN FACILE : les plateaux doomoo Nid se lavent en machine (30°)
+- TRANSAT BEBE EVOLUTIF : le doomoo Nid sutilise dès la naissance de votre bébé et jusquà ses 30 kg
+- 2EME ÂGE : le plateau 2ème âge transforme le transat. Votre enfant lutilise aussi bien dans sa chambre que dans le salon. Votre enfant est bien installé à vos côtés
+- CONFORT MAXIMAL : son remplissage unique en microbilles assure un confort optimal à votre bébé. Les microbilles épousent parfaitement le corps de votre enfant quel que soit son âge
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M5EA2ZE/?tag=tolees0d-21)
