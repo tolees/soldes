@@ -25,9 +25,9 @@ Vous avez [Peradix Cadeaux Appareil Photo Enfants 4 en 1 Appareil Photo Numeriqu
 
 ℹ️:
 
-- 【Mini caméra 】Convient aux enfants de 3 à 10 ans ou aux petits appareils photo, La taille de la caméra enfant peradix est de 10,5 * 10,5 cm et son poids est de 160 G. Photos de soutien, vidéos, jeux (tels que des serpents, etc.), À laide dune dragonne, lappareil photo dun enfant peut être transporté confortablement pour enregistrer les meilleurs moments et les partager avec les autres.
 - 【Le cadeau de Noël parfait】le petit appareil photo pour enfants convient aux garçons et aux filles âgés de 3 à 10 ans pour enregistrer la croissance des enfants. Cest le meilleur cadeau danniversaire / Noël / vacances pour les enfants.
 - 【Caméra Numérique】 ➤Lappareil photo des enfants a une variété de résolutions photo, jusquà 40M.➤ les pixels vidéo sur 1920 * 1080,➤carte SD de 32 Go. ➤Plus de 15 filtres sont utilisés pour que les enfants prennent des photos; les enfants peuvent enregistrer de bons moments en prenant des photos. Formez de jeunes photographes!
+- 【Mini caméra 】Convient aux enfants de 3 à 10 ans ou aux petits appareils photo, La taille de la caméra enfant peradix est de 10,5 * 10,5 cm et son poids est de 160 G. Photos de soutien, vidéos, jeux (tels que des serpents, etc.), À laide dune dragonne, lappareil photo dun enfant peut être transporté confortablement pour enregistrer les meilleurs moments et les partager avec les autres.
 - 【Batterie intégrée et caméra rechargeable pour enfants】 Batterie au lithium rechargeable intégrée de 600 mAh, En général une charge de 2,5 heures,Veuillez noter quune utilisation intensive des batteries se déchargera rapidement.aucune batterie supplémentaire nest requise. Le petit appareil photo est compatible avec la plupart des ordinateurs, ordinateurs portables, chargeurs portables et autres appareils avec sortie USB
 - 【Silicone sûr et matériau antichoc】 Utilisez un matériau non toxique en silicone respectueux de lenvironnement, une coque de protection antichoc, durable et sans danger pour les enfants. Fournir aux enfants un moyen confortable de prendre des photos ou denregistrer une vidéo avec la caméra pour enfants.
 
