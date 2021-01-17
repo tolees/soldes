@@ -25,9 +25,9 @@ Vous avez [lavera Men Sensitiv Crème Hydratante - vegan - Cosmétiques naturels
 
 ℹ️:
 
-- Sa texture légère réhydrate durablement la peau, pénètre rapidement & donne un aspect frais et soigné.
-- 100% cosmétiques naturels certifiés, formulés à base dingrédients végétaux naturels et dextraits de plantes bio ou dhuiles végétales bio.
 - La Crème Hydratante au ginkgo et au bambou bio renforce la résistance naturelle de la peau.
+- 100% cosmétiques naturels certifiés, formulés à base dingrédients végétaux naturels et dextraits de plantes bio ou dhuiles végétales bio.
+- Sa texture légère réhydrate durablement la peau, pénètre rapidement & donne un aspect frais et soigné.
 - Agréées par des laboratoires de test indépendants, nos formules concentrées et naturelles sont un élixir de douceur et defficacité pour la peau.
 - Vegan, BIO, Natrue - 100 % sans silicones, paraffines & huiles minérales - développé et produit au sein dun site unique en Allemagne.
 
