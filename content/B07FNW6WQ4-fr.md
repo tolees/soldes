@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.23 % rabais sur LEGO® Technic Chevrolet Corvette ZR1 Jeu'
-date: 2021-01-16 00:36:54
+date: 2021-01-17 01:03:16
 image: 'https://m.media-amazon.com/images/I/51pftFY6tTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21'
 descuento: '30.23'
-average: '33.352763157894735'
+average: '33.317124183006534'
 ---
 
 Vous avez [LEGO® Technic Chevrolet Corvette ZR1 Jeu de construction voiture 9 Ans et Plus  579 Pièces 42093](https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21)  à  30.23 % de réduction, prix final  27.9 EUR (original: 39.99 EUR) ici:
@@ -25,10 +25,10 @@ Vous avez [LEGO® Technic Chevrolet Corvette ZR1 Jeu de construction voiture 9 A
 
 ℹ️:
 
-- La Chevrolet Corvette mesure plus de 8 cm de haut, 29 cm de long et 12 cm de large. Le Hot Rod mesure plus de 8 cm de haut, 23 cm de long et 12 cm de large.
-- Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
-- Réplique exclusive de la Chevrolet Corvette ZR1 avec une multitude de caractéristiques réalistes, y compris un grand aileron arrière, 4 pots d’échappement, des jantes noires à rayons avec des pneus à profil bas, une direction qui fonctionne et un moteur V8 détaillé avec des pistons mobiles.
-- 579 pièces pour les filles et les garçons à partir de 9 ans.
-- Construisez la Chevrolet Corvette ZR1 LEGO Technic, modèle exclusif, développé en partenariat avec Corvette.
+- 2-in-1 LEGO Technic set : rebuilds into a Hot Rod replica model
+- This LEGO Technic Chevrolet Corvette ZR1 42093 set can be built together with all other original LEGO sets and LEGO bricks for creative building
+- Build and experience an iconic supercar - the LEGO Technic Chevrolet Corvette ZR1 toy car
+- Features an authentic orange and black colour scheme plus a cool sticker sheet for additional detailing
+- This collectible car model features a large rear wing, 4 tailpipes, black spoked rims with low-profile tyres, working steering and visible moving V8 pistons
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21)

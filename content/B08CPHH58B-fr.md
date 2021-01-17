@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.76 % rabais sur Le garçu [Blu-Ray]'
-date: 2021-01-03 14:15:44
+date: 2021-01-17 01:52:26
 image: 'https://m.media-amazon.com/images/I/41fCaMuDRKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -26,4 +26,4 @@ Vous avez [Le garçu [Blu-Ray]](https://www.amazon.fr/dp/B08CPHH58B/?tag=tolees0
 ℹ️:
 
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CPHH58B/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CPHH58B/?tag=tolees0d-21)

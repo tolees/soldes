@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.02 % rabais sur Levi s 712 Jean Slim  Black Sheep  30W/3'
-date: 2021-01-16 00:59:52
+date: 2021-01-17 01:19:27
 image: 'https://m.media-amazon.com/images/I/318g+pTK0cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Vous avez [Levi s 712 Jean Slim  Black Sheep  30W/30L Femme](https://www.amazon.
 
 ℹ️:
 
-- Sadapte à votre silhouette sans serrer
 - Un jean avec une coupe étroite et un chic intemporel
+- Sadapte à votre silhouette sans serrer
 - Le jean ultime pour votre look fantastique flatte votre silhouette, sadapte parfaitement et souligne les bons endroits
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014HPMTUW/?tag=tolees0d-21)

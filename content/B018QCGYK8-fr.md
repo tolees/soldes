@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.42 % rabais sur Fanny Fouks Mousse EVA thermoformable 40'
-date: 2021-01-16 00:42:19
+date: 2021-01-17 01:03:52
 image: 'https://m.media-amazon.com/images/I/31y5+LFNzuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,8 +25,8 @@ Vous avez [Fanny Fouks Mousse EVA thermoformable 40x60 cm - Losange - APLI AGIPA
 
 ℹ️:
 
-- Bracelet
 - Multicolore - assort.
+- Bracelet
 - Bijoux femme
 - Bracelet vert et turquoise - Fanny Fouks
 - Bois
