@@ -25,7 +25,7 @@ Vous avez [Sac à Dos  Nintendo  - Grande Manette Nes - Gris](https://www.amazon
 
 ℹ️:
 
-- Grande capacité
 - Sac à dos Nintendo manette nes
+- Grande capacité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DZ49CC0/?tag=tolees0d-21)

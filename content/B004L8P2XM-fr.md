@@ -25,8 +25,8 @@ Vous avez [Royal Canin Gastro intestinal Junior Nourriture pour Chien 2 5 kg](ht
 
 ℹ️:
 
+- faciles à humidifier
 - teneur élevée en énergie
 - grande sécurité digestive
-- faciles à humidifier
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004L8P2XM/?tag=tolees0d-21)

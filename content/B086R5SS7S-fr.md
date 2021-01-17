@@ -25,10 +25,10 @@ C'est en vente [Xiaomi Mi 10 Lite 5G Smartphone 6GB 128GB 6.57   AMOLED 48MP Qua
 
 ℹ️:
 
-- Écran AMOLED True Color de 6,57 pouces, écran plus grand, meilleurs visuels.
-- IR Blaster. Les climatiseurs et téléviseurs nont plus besoin de télécommande, tout peut être contrôlé par votre smartphone!
-- Qualcomm Snapdragon 765G avec 5G, Que vous diffusiez des vidéos ou jouiez à des jeux, vous pouvez vous attendre à des performances plus puissantes et à un Internet plus rapide à lère de la 5G.
 - NFC multifonctionnel. À partir de maintenant, vous pouvez simplement utiliser votre smartphone pour utiliser les transports en commun, accéder à votre domicile ou au parking.
+- IR Blaster. Les climatiseurs et téléviseurs nont plus besoin de télécommande, tout peut être contrôlé par votre smartphone!
+- Écran AMOLED True Color de 6,57 pouces, écran plus grand, meilleurs visuels.
 - Caméra principale 48MP. Le module dobjectif de niveau phare, couplé à lalgorithme AI, peut reconnaître intelligemment la scène et vous assurer que vos photos sont vives et pleines de détails.
+- Qualcomm Snapdragon 765G avec 5G, Que vous diffusiez des vidéos ou jouiez à des jeux, vous pouvez vous attendre à des performances plus puissantes et à un Internet plus rapide à lère de la 5G.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B086R5SS7S/?tag=tolees0d-21)
