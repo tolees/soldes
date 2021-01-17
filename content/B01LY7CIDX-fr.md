@@ -25,10 +25,10 @@ C'est en vente [Leelbox Mini Clavier Français AZERTY Clavier Sans-fil PC Portab
 
 ℹ️:
 
-- [Touchpad Multifonctionnel et DPI Réglable] - Son Touchpad supporte les gestes «Multi Touch» et le défilement des pages, et il possède des touches multimédia, vous pouvez régler sa sensibilité (DPI) selon vos besoins
-- [Note] - La methode à résoudre le probleme sur les lettres qui ne correspondent pas à sa place: allez dans "more setting" - "langue et saisie"- "clavier physique" -et ensuite sélectionné le bon clavier avec le bon language. Si vous avez des questions sur lajustage, nhésitez pas à nous contacter, nous sommes toujours à votre disposition
 - [Batterie Lithium Rechargeable] - Leelbox mini clavier i8 fonctionne avec une batterie Lithium. Rechargez-le avec votre PC ou avec le chargeur de votre smartphone. (Câble de recharge USB vers Micro USB inclus). Grâce à son mode déconomie dénergie, le i8 séteint automatiquement lorsque vous ne lutilisez pas
 - [Design Sans Fil et Pratique] - Le Leelbox i8 est un mini-clavier AZERTY (Français) sans fil (2,4 GHz), 92 touches avec un pavé (Pad) directionnel et la surface tactile ultra-sensible. Il assure les présentations professionnelles ou prend le contrôle dune Box Tv de votre canapé
+- [Touchpad Multifonctionnel et DPI Réglable] - Son Touchpad supporte les gestes «Multi Touch» et le défilement des pages, et il possède des touches multimédia, vous pouvez régler sa sensibilité (DPI) selon vos besoins
+- [Note] - La methode à résoudre le probleme sur les lettres qui ne correspondent pas à sa place: allez dans "more setting" - "langue et saisie"- "clavier physique" -et ensuite sélectionné le bon clavier avec le bon language. Si vous avez des questions sur lajustage, nhésitez pas à nous contacter, nous sommes toujours à votre disposition
 - [Utilisation Facile] - Branchez le dongle récepteur sur un port USB et profitez immédiatement de votre Mini-clavier avec une portée maximale de 10 mètres et aucune contrainte de direction (pas besion de pointer le clavier vers le périphérique cible)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LY7CIDX/?tag=tolees0d-21)
