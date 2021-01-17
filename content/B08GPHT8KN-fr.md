@@ -25,12 +25,12 @@ Vous avez [Samsung Galaxy M51 - Smartphone débloqué 4G - Noir - Version Franç
 
 ℹ️:
 
-- jusqu’à 512 go avec carte micro sd, mémoire extensible pour photos, musique et plus
-- batterie : batterie hors du commun de 7 000 mah compatible charge rapide 25w
-- smartphone android ave système d’exploitation android 10
-- appareil photo : capteur principal 64 mp, mode portrait 5 mp, capteur ultra grand-angle 12 mp, mode macro 5 mp et capteur frontal 32 mp
-- inclus : téléphone portable / adaptateur de voyage / câble de données / outil de retrait de carte sim / carte de garantie
 - included_components: Câble USB, chargeur, écouteurs filaires, broche d éjection de la carte SIM, guide de démarrage rapide
+- inclus : téléphone portable / adaptateur de voyage / câble de données / outil de retrait de carte sim / carte de garantie
+- batterie : batterie hors du commun de 7 000 mah compatible charge rapide 25w
 - ecran : écran infinity-o super amoled fhd+ 6,7 pouces
+- jusqu’à 512 go avec carte micro sd, mémoire extensible pour photos, musique et plus
+- appareil photo : capteur principal 64 mp, mode portrait 5 mp, capteur ultra grand-angle 12 mp, mode macro 5 mp et capteur frontal 32 mp
+- smartphone android ave système d’exploitation android 10
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GPHT8KN/?tag=tolees0d-21)

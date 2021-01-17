@@ -25,9 +25,9 @@ Vous avez [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Cr�
 
 ℹ️:
 
-- Contains: One school classroom, one tree, two desks, six chairs, one teachers desk, one whiteboard, one bench, assorted accessories
-- The tree and school building can be connected in various ways
 - Suitable for ages 4 years to 14 years
+- The tree and school building can be connected in various ways
+- Contains: One school classroom, one tree, two desks, six chairs, one teachers desk, one whiteboard, one bench, assorted accessories
 - Stimulating imaginative role-play in children
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21)

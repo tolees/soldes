@@ -25,10 +25,10 @@ C'est en vente [Philips luminaire extérieur applique Hedgehog anthracite](https
 
 ℹ️:
 
-- Aluminium et matière synthétique de qualité supérieure
 - Indice de protection: IP44, protection contre les objets de plus de 1 mm, protection contre les projections deau
+- Aluminium et matière synthétique de qualité supérieure
 - Installation facile
-- Éclairage compatible avec les ampoules de classe: A++ à E
 - Résiste aux intempéries
+- Éclairage compatible avec les ampoules de classe: A++ à E
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XCWYFM5/?tag=tolees0d-21)
