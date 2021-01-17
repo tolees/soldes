@@ -26,9 +26,9 @@ C'est en vente [AZZARO Remake  Derbys Hommes  Marron  Cognac 47   42 EU](https:/
 ℹ️:
 
 - Homme
-- AH 2019-2020
-- Cuir
 - Ces Chaussures à lacets en Cuir se composent dune tige en Cuir et dune hauteur de talon de 2 cm
+- Cuir
 - AZZARO
+- AH 2019-2020
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BQ41JFM/?tag=tolees0d-21)
