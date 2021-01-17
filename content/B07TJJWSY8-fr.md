@@ -25,10 +25,10 @@ Vous avez [Racing Wheel Apex Manette sans Fil pour PS4/PC](https://www.amazon.fr
 
 ℹ️:
 
-- Compatible PC
-- Une immersion totale la technologie de vibration TouchSense
 - 280 mm diamètre (1:1 échelle)
-- Officiellement licencié par Nintendo
+- Une immersion totale la technologie de vibration TouchSense
 - Angle de rotation de 270º
+- Compatible PC
+- Officiellement licencié par Nintendo
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TJJWSY8/?tag=tolees0d-21)

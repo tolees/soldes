@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '60.39 % rabais sur Soldering irons & accesories Station de '
-date: 2021-01-12 12:20:13
+date: 2021-01-17 08:16:23
 image: 'https://m.media-amazon.com/images/I/41ouli8lMvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B004VDJ72E/?tag=tolees0d-21'
 descuento: '60.39'
-average: '13.105'
+average: '13.1'
 ---
 
 Vous avez [Soldering irons & accesories Station de soudage 48 W 100-450º](https://www.amazon.fr/dp/B004VDJ72E/?tag=tolees0d-21)  à  60.39 % de réduction, prix final  13.09 EUR (original: 33.05 EUR) ici:
@@ -25,10 +25,10 @@ Vous avez [Soldering irons & accesories Station de soudage 48 W 100-450º](http
 
 ℹ️:
 
-- Pour électronique générale et réparations
 - Avec interrupteur on/off et indicateur LED
-- Station soudure Velleman, avec résistance céramique de 48 W
 - Pointe standard incluse : Ø 0.5 mm
 - Température : 150 °C – 450 °C
+- Station soudure Velleman, avec résistance céramique de 48 W
+- Pour électronique générale et réparations
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B004VDJ72E/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004VDJ72E/?tag=tolees0d-21)
