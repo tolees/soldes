@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.06 % rabais sur Sylvanian Families - Le Village - L Écol'
-date: 2021-01-16 00:32:56
+date: 2021-01-17 00:55:43
 image: 'https://m.media-amazon.com/images/I/51NhcqYBV+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,13 +25,9 @@ Vous avez [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Cr�
 
 ℹ️:
 
-- Dimensions : 38 x 33 x 21,5 cm
-- Intérieur pour 6 élèves et un(e) instituteur(tric)
-- Age minimum : 3 ans
-- 35 pièces composent le set
-- Age minimum : 3 ans
-- 35 pièces composent le set
-- Intérieur pour 6 élèves et un(e) instituteur(tric)
-- Dimensions : 38 x 33 x 21,5 cm
+- Stimulating imaginative role-play in children
+- Suitable for ages 4 years to 14 years
+- Contains: One school classroom, one tree, two desks, six chairs, one teachers desk, one whiteboard, one bench, assorted accessories
+- The tree and school building can be connected in various ways
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21)
