@@ -25,8 +25,8 @@ C'est en vente [Tommy Hilfiger SS Tee Logo  T-shirt Homme  Blanc  White 100   Sm
 
 ℹ️:
 
-- Neuf et authentique. Nous sommes un vendeur autorisé de Tommy Hilfiger.
-- Tommy Hilfiger blanc T-shirt avec logo arqué
 - Voir la description de produit ci-dessous pour plus dinformations.
+- Tommy Hilfiger blanc T-shirt avec logo arqué
+- Neuf et authentique. Nous sommes un vendeur autorisé de Tommy Hilfiger.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N9WIV71/?tag=tolees0d-21)
