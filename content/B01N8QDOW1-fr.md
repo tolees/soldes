@@ -25,8 +25,8 @@ C'est en vente [La Noble Collection de Batte de Baseball Harley Quinn [Video Gam
 
 ℹ️:
 
-- Fabriqué avec des détails exquis
 - Créé par The Noble Collection
 - Produit sous licence officielle
+- Fabriqué avec des détails exquis
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N8QDOW1/?tag=tolees0d-21)

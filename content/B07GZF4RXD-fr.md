@@ -25,10 +25,10 @@ Vous avez [Thrustmaster T-Racing Scuderia Ferrari Edition Gaming Heaset casque g
 
 ℹ️:
 
-- Le son haute performance du microphone est unidirectionnel, à réduction de bruit ainsi que détachable. Le bouton du réglage du volume est situé sur l’écouteur comme pour les vrais casques utilisés dans les paddocks de l’écurie
-- Le niveau de pression acoustique de 116dbSPL prévient des distorsions sonores (taux de distorsion à ≤1%)
-- Il dispose de drivers de 50mm permettant la retranscription d’un son clair et sans saturation
-- Sous licence officielle Ferrari, le T.Racing Scuderia Ferrari edition a un design exclusif inspiré de celui des réels paddocks de l’écurie Scuderia Ferrari
 - L’alliance entre performance audio et confort avec ses coussinets en mémoire de forme et une couche de gel permet une isolation passive efficace
+- Sous licence officielle Ferrari, le T.Racing Scuderia Ferrari edition a un design exclusif inspiré de celui des réels paddocks de l’écurie Scuderia Ferrari
+- Il dispose de drivers de 50mm permettant la retranscription d’un son clair et sans saturation
+- Le niveau de pression acoustique de 116dbSPL prévient des distorsions sonores (taux de distorsion à ≤1%)
+- Le son haute performance du microphone est unidirectionnel, à réduction de bruit ainsi que détachable. Le bouton du réglage du volume est situé sur l’écouteur comme pour les vrais casques utilisés dans les paddocks de l’écurie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GZF4RXD/?tag=tolees0d-21)

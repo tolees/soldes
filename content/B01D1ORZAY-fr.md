@@ -25,9 +25,9 @@ C'est en vente [Sikagard Protection Sol SATINE  Imperméabilisant  hydrofuge ant
 
 ℹ️:
 
-- Protection hydrofuge imperméabilisante qui limite la pénétration de leau, des huiles et la plupart des tâches (graisse, salissure, gazoil)
 - CONSOMMATION : un bidon de 5L = 25 à 35m² selon le support. Fabriqué en France
 - SUPPORTS : Peut être appliqué sur : pavés, pavés autobloquants, pierres reconstituées, sols béton, béton désactivé, dalles à motifs, pierres naturelles poreuses
+- Protection hydrofuge imperméabilisante qui limite la pénétration de leau, des huiles et la plupart des tâches (graisse, salissure, gazoil)
 - DOMAINE DAPPLICATION : Sikagard Protection Sol Satiné est adapté dans les endroits suivants : espaces piétons, terrasses, balcons, allées de jardin, patios, trottoirs, parking, zones commerciales
 - DURABILITE : Résiste aux UV et aux intempéries ( améliore la résistance des cycles gel/dégel). Ravive le support avec un effet SATINE. Facilite le nettoyage et lentretien. En durcisseur de joint de sable limite la pousse des mauvaises herbes et améliore la résistance à lérosion des joints
 
