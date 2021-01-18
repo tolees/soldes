@@ -25,10 +25,10 @@ Vous avez [Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces - 6Go
 
 ℹ️:
 
-- Quatre caméras arrière, caméra principale ultra HD 64MP
 - Navigation et positionnement: GPS/A-GPS/Galileo/Glonass/Beidou
-- Écran 6.53” FHD+ dot drop display
 - Processeur G90T liquidcool system
+- Écran 6.53” FHD+ dot drop display
+- Quatre caméras arrière, caméra principale ultra HD 64MP
 - Résolution daffichage: 2340 x 1080
 - 4500mAh (Typa) high-capacité batterie
 

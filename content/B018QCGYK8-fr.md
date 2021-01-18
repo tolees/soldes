@@ -25,10 +25,10 @@ Vous avez [Fanny Fouks Mousse EVA thermoformable 40x60 cm - Losange - APLI AGIPA
 
 ℹ️:
 
-- Bijoux femme
-- Multicolore - assort.
-- Bracelet vert et turquoise - Fanny Fouks
 - Bois
+- Bracelet vert et turquoise - Fanny Fouks
 - Bracelet
+- Multicolore - assort.
+- Bijoux femme
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B018QCGYK8/?tag=tolees0d-21)

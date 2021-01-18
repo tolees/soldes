@@ -25,10 +25,10 @@ Vous avez [AGPTEK Montre Connectée Femme  Smartwatch Bluetooth 5.0 Tracker d Ac
 
 ℹ️:
 
-- 💌【Female Health Tracking & Message Notification】Not only supports real-time dynamic heart rate monitoring and sleep tracking, but also a unique reminder function of the menstrual cycle and pregnancy readiness are added. After connecting with the APP, you can receive real-time notifications from WhatsApp, LinkedIn, Instagram and Twitter.
+- 🏃 【8 Sports Modes & IP68 Waterproof】 The sports watch offers 8 sports modes, such as walking, running, yoga, swimming, etc. This smart watch is water resistant to 50 meters, you can wear it while washing your hands, taking a shower, swimming.
 - ⌚ 【HD Screen & Custom Style】 Adopt 1.3 inch round full color screen, bring a better visual experience more than square. And it supports to choose any picture you want on your phone as wallpaper, show your personal style.
 - ⌚ 【More Practical Functions】 The smart watch, can be used as activity monitors, has multi-sport mode. Monitor sleep, heart rate, steps and calorie consumption, health reminder, sedentary reminder, call reminder, meeting reminder, alarm etc. Its all about creating a healthier lifestyle.
 - ⏳ 【Long Lasting & Great Compatibility】 The smart watch can be used for 8-12 days or 30 days standby when charged for 2 hours. This smartwatch is suitable for almost all smart phones, like Huawei, Samsung, iPhone and so on.
-- 🏃 【8 Sports Modes & IP68 Waterproof】 The sports watch offers 8 sports modes, such as walking, running, yoga, swimming, etc. This smart watch is water resistant to 50 meters, you can wear it while washing your hands, taking a shower, swimming.
+- 💌【Female Health Tracking & Message Notification】Not only supports real-time dynamic heart rate monitoring and sleep tracking, but also a unique reminder function of the menstrual cycle and pregnancy readiness are added. After connecting with the APP, you can receive real-time notifications from WhatsApp, LinkedIn, Instagram and Twitter.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HMRY8NG/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [Disque Dur Externe 1to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordina
 
 ℹ️:
 
-- Disque dur externe 6,3 cm : ultra fin, boîtier en métal, étanche, résistant aux chutes, résistant aux rayures.
-- Transfert de données rapide avec SuperSpeed USB 3.0 : la vitesse de transfert de données est jusquà 5 Gbit/s (625 Mo/s), soit environ dix fois plus rapide que la norme USB 2.0. Et le disque dur externe compatible avec 2.0
-- Prêt à lemploi pour PC Windows, Mac, ordinateur de bureau, ordinateur portable, MacBook, Chromebook, Xbox One, Xbox 360.
-- Disque dur externe compatible avec Microsoft Windows 10, Windows 8.1, Windows 8, Windows 7 reformés pour Mac OS.
 - Contenu : 1 disque dur externe portable, 1 câble USB 3.0.
+- Transfert de données rapide avec SuperSpeed USB 3.0 : la vitesse de transfert de données est jusquà 5 Gbit/s (625 Mo/s), soit environ dix fois plus rapide que la norme USB 2.0. Et le disque dur externe compatible avec 2.0
+- Disque dur externe compatible avec Microsoft Windows 10, Windows 8.1, Windows 8, Windows 7 reformés pour Mac OS.
+- Disque dur externe 6,3 cm : ultra fin, boîtier en métal, étanche, résistant aux chutes, résistant aux rayures.
+- Prêt à lemploi pour PC Windows, Mac, ordinateur de bureau, ordinateur portable, MacBook, Chromebook, Xbox One, Xbox 360.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08QZH4MPG/?tag=tolees0d-21)

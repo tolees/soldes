@@ -25,10 +25,10 @@ C'est en vente [eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch NS J
 
 ℹ️:
 
-- Les processus de l’installation demande aux clients d’avoir les experiences de modification électroniques. Obtenez une guide vidéo dinstallation sur YouTube en recherchant « ExtremeRate Switch Joycon New Horizon Style » ou « o8QPB2uTbHk ». Regardez la vidéo en demi-vitesse. Nous recommandons de regarder, de suspendre, de faire et de répéter.
-- Le style rétro classique de 1989 GB DMG-01 vous ramène à 1989.La conception est excellente, elle est très speciale. Excellent joysticks lisse, anti-dérapant, vous sentirez doux et soyeux, il ne reste pas de sueur en jouant au jeu.
-- Conception de remplacement coques et kit de boutons pour s’adapter à Nintendo Switch Joycons. Marcher comme les coques d’origines de Nintendo Switch.
 - Coque de remplacement unique pour ajouter beaucoup plus de personnalité à votre Switch, il n’y a plus de couleur grise ennuyeuse standard.
+- Le style rétro classique de 1989 GB DMG-01 vous ramène à 1989.La conception est excellente, elle est très speciale. Excellent joysticks lisse, anti-dérapant, vous sentirez doux et soyeux, il ne reste pas de sueur en jouant au jeu.
 - Lemballage inclut les coques de remplacement pour Nintendo Switch Joycons (les pièces électroniques sont exclus), kit de boutons colorés, PH00 and Y00 tournevis, Tri-wing et Philips vis.Noter que linstallation de cette coque annulera la garantie de votre Switch.
+- Conception de remplacement coques et kit de boutons pour s’adapter à Nintendo Switch Joycons. Marcher comme les coques d’origines de Nintendo Switch.
+- Les processus de l’installation demande aux clients d’avoir les experiences de modification électroniques. Obtenez une guide vidéo dinstallation sur YouTube en recherchant « ExtremeRate Switch Joycon New Horizon Style » ou « o8QPB2uTbHk ». Regardez la vidéo en demi-vitesse. Nous recommandons de regarder, de suspendre, de faire et de répéter.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08L8PX5M3/?tag=tolees0d-21)
