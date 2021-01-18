@@ -26,8 +26,8 @@ Vous avez [Xiaomi Band 5 Smart Fitness Bracelet Cardiofréquence mètre  Bracele
 ℹ️:
 
 - 24-hour sleep monitoring
-- 24-hour heart rate monitoring
 - 50m water resistance
+- 24-hour heart rate monitoring
 - 11 sports modes
 - Large dynamic colour-display
 

@@ -25,10 +25,10 @@ Vous avez [Disque Dur Externe 1to  Type-C Disque Dur Externe Portable USB3.1 SAT
 
 ℹ️:
 
-- Plug and Play: Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi.
-- Lextrémité de type C permet une insertion aveugle des deux côtés. Compatibilité Universelle: TV, Xbox, Windows, Linux, Desktop, Laptop, Chromebook, Android.
 - Sommeil Automatique: Indicateur LED allume toujours quand il est alimenté, Sil ny a pas dopérations dans 10 minutes, il sera en mode veille pour économiser lénergie. 2 ans de garantie du fabricant.
 - Ultra-Rapides: USB 3.1( compatible USB 3.0) jusquà 100MB/S, Le protocole UASP augmente la vitesse de 20% par rapport à lUSB3.0 traditionnel.
+- Plug and Play: Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi.
+- Lextrémité de type C permet une insertion aveugle des deux côtés. Compatibilité Universelle: TV, Xbox, Windows, Linux, Desktop, Laptop, Chromebook, Android.
 - Disque Dur Externe Solide et Ultra Compacte: Pas de pièce détachée et un corps métallique robuste, Waterproof, résistant à la chute.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08PRZ6RZS/?tag=tolees0d-21)

@@ -26,9 +26,9 @@ C'est en vente [Amazfit GTS Smartwatch Homme Femme Montre Connectée avec 12 Mod
 ℹ️:
 
 - Jusquà 14 jours dautonomie de la batterie en utilisation quotidienne typique et 46 jours en mode montre basique.
-- 9,4 mm fine et 24,8 g légère avec un corps en alliage daluminium de qualité aéronautique la rendant à la fois robuste et légère. Elle sera confortable et élégante. à votre poignet.
-- Conçue pour résister à toutes vos activités, cette montre est certifiée 5 ATM, ce qui équivaut à environ 80 PSI, 164 pieds ou une pression équivalant à 50 mètres de profondeur.
 - Huami-PAI (INTELLIGENCE DACTIVITÉ PERSONNELLE). Transforme les données de fréquence cardiaque en un score unique et personnel, indiquant aux utilisateurs la quantité dactivité dont ils ont besoin pour rester en bonne santé.
+- Conçue pour résister à toutes vos activités, cette montre est certifiée 5 ATM, ce qui équivaut à environ 80 PSI, 164 pieds ou une pression équivalant à 50 mètres de profondeur.
+- 9,4 mm fine et 24,8 g légère avec un corps en alliage daluminium de qualité aéronautique la rendant à la fois robuste et légère. Elle sera confortable et élégante. à votre poignet.
 - 1 cadran de montre digital modulaire et 1 cadran de montre analogique modulaire avec respectivement 5 et 7 modules personnalisables (widgets) à choisir parmi 17 options.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YJWTCFM/?tag=tolees0d-21)
