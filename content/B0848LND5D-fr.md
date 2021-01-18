@@ -25,10 +25,10 @@ C'est en vente [Tommy Hilfiger Womens Analogique Quartz Montre avec Bracelet en 
 
 ℹ️:
 
-- Mouvement à 2 yeux
+- Cadran Sunray or jaune
 - Épaisseur du boîtier 7,1 mm / diamètre du boîtier 35 mm
 - Bracelet en Mesh plaqué or jaune
 - Résistance à leau 3 ATM
-- Cadran Sunray or jaune
+- Mouvement à 2 yeux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0848LND5D/?tag=tolees0d-21)

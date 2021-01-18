@@ -25,10 +25,10 @@ C'est en vente [SanDisk SDCZ73-256G-G46 Clé USB 3.0](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Des performances USB 3.0 et des vitesses élevées atteignant 150 Mo/s
 - Un boîtier en métal élégant et résistant
+- Transférez un film entier en moins de 30 secondes
+- Des performances USB 3.0 et des vitesses élevées atteignant 150 Mo/s
 - Transférez sur la clé jusquà 15 fois plus vite quavec une clé USB 2.0 standard
 - Une protection par mot de passe simple demploi pour vos fichiers personnels, garantie de 5 ans
-- Transférez un film entier en moins de 30 secondes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XG9XP49/?tag=tolees0d-21)
