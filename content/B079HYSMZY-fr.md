@@ -25,10 +25,10 @@ C'est en vente [Candice Cooper Rock  Baskets Femme  Crust  43 EU](https://www.am
 
 ℹ️:
 
+- Couleur du fabricant : Bianco.
+- Type de chaussure : baskets.
+- Semelle intérieure : cuir (amovible).
 - Doublure : cuir.
 - Matériau extérieur : cuir.
-- Couleur du fabricant : Bianco.
-- Semelle intérieure : cuir (amovible).
-- Type de chaussure : baskets.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079HYSMZY/?tag=tolees0d-21)
