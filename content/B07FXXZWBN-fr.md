@@ -26,9 +26,9 @@ C'est en vente [Laurastar S Plus Système de Repassage  Vapeur Hygiénique Elimi
 ℹ️:
 
 - Fer à repasser professionnel équipé dune semelle professionnelle qui émet une vapeur particulièrement fine et puissante.
-- Le réservoir deau amovible peut être rempli pendant lutilisation et permet ainsi un repassage sans interruption.
-- Les roulettes intégrées facilitent le transport de votre planche à repasser Laurastar.
 - Planche à repasser active équipée dune fonction aspiration et soufflerie pour un résultat parfait sans plis.
+- Les roulettes intégrées facilitent le transport de votre planche à repasser Laurastar.
+- Le réservoir deau amovible peut être rempli pendant lutilisation et permet ainsi un repassage sans interruption.
 - Mise en route rapide avec arrêt automatique prêt à lemploi en 3 minutes. Séteint automatiquement après 15 minutes dinactivité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FXXZWBN/?tag=tolees0d-21)
