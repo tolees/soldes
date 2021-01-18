@@ -25,10 +25,10 @@ C'est en vente [Splash Toys ANNA Fancy Poupée à coiffer  30167](https://www.am
 
 ℹ️:
 
-- Fancy est le phénomène girly !!!
-- Tire à nouveau dessus si tu préfères quand ta poupée a les cheveux plus courts. So pretty, so Fancy !
-- Contenu: 1 poupée Fancy + ses accessoires
 - Tu peux alors lui faire plein de coiffures super tendances grâce aux accessoires inclus.
+- Tire à nouveau dessus si tu préfères quand ta poupée a les cheveux plus courts. So pretty, so Fancy !
 - Ouvre vite la boîte en forme de diamant pour découvrir quelle poupée sy cache… waaah, ses cheveux sont ultra colorés, sentent vraiment trop bon et sont magiques ! génial, tire dessus pour les rendre plus longs !
+- Fancy est le phénomène girly !!!
+- Contenu: 1 poupée Fancy + ses accessoires
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TBDYVCX/?tag=tolees0d-21)
