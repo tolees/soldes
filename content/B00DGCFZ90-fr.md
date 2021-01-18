@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % rabais sur Robin des Bois [Blu-Ray]'
-date: 2021-01-16 18:49:02
+date: 2021-01-18 07:49:37
 image: 'https://m.media-amazon.com/images/I/512fAezF1UL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21'
 descuento: '20.01'
-average: '15.679473684210526'
+average: '15.695'
 ---
 
 Vous avez [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  15.99 EUR (original: 19.99 EUR) ici:
@@ -25,9 +25,6 @@ Vous avez [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=to
 
 ℹ️:
 
-- Langue(s) audio : Français, Anglais
-- Date de sortie marché : Octobre 2013
-- Titre : Robin des Bois
-- Date de sortie marché : 16 Octobre 2013
+- The disk has English audio and subtitles.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)

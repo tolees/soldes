@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.73 % rabais sur Samsung SSD Interne 970 EVO Plus NVMe M.'
-date: 2021-01-17 00:54:41
+date: 2021-01-18 07:07:15
 image: 'https://m.media-amazon.com/images/I/41Uwa5+y75L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07MBQPQ62/?tag=tolees0d-21'
 descuento: '22.73'
-average: '187.74302521008406'
+average: '187.44958677685952'
 ---
 
 Vous avez [Samsung SSD Interne 970 EVO Plus NVMe M.2  1 To  - MZ-V7S1T0BW  Noir/Orange](https://www.amazon.fr/dp/B07MBQPQ62/?tag=tolees0d-21)  à  22.73 % de réduction, prix final  169.99 EUR (original: 219.99 EUR) ici:
@@ -25,11 +25,11 @@ Vous avez [Samsung SSD Interne 970 EVO Plus NVMe M.2  1 To  - MZ-V7S1T0BW  Noir/
 
 ℹ️:
 
-- Facteur de forme 2.5 pouces est idéal pour ordinateurs portables qui fixe
-- Tension admissible: 3.3 V ± 5 %
-- Lecture aléatoire (4KB, qd32) et jusquà 600 000 IOPS, Écriture aléatoire (4KB qd32) jusquà 550.000 IOPS
 - Interface SATA 6 Gb/s et rétrocompatible avec SATA 3 Gbps et SATA 1.5 Gbps
 - SSD avec technologie V-Nand Samsung. Consommation électrique (ralenti): Max. 30 mW * La consommation électrique réelle peut varier en fonction du matériel et de la configuration du système
 - Vitesse de lecture séquentielle jusquà 3.500 MB/sec et vitesse décriture séquentielle jusquà 3 300 Mo/sec
+- Tension admissible: 3.3 V ± 5 %
+- Facteur de forme 2.5 pouces est idéal pour ordinateurs portables qui fixe
+- Lecture aléatoire (4KB, qd32) et jusquà 600 000 IOPS, Écriture aléatoire (4KB qd32) jusquà 550.000 IOPS
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MBQPQ62/?tag=tolees0d-21)

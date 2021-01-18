@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"L Aventure LaytonTM : Katrielle et la c avec 25.59 % rabais '
-date: 2021-01-17 01:09:13
+date: 2021-01-18 07:29:52
 image: 'https://m.media-amazon.com/images/I/51XF2UNgLLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TTHJVT7/?tag=tolees0d-21'
 descuento: '25.59'
-average: '32.45333333333333'
+average: '32.43838709677419'
 ---
 
 C'est en vente ["L Aventure LaytonTM : Katrielle et la conspiration des millionnaires - Édition Deluxe"](https://www.amazon.fr/dp/B07TTHJVT7/?tag=tolees0d-21)  à  25.59 % de réduction, prix final  31.99 EUR (original: 42.99 EUR) ici:
