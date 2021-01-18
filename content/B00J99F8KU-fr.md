@@ -25,8 +25,8 @@ Vous avez [Krups - KP100B - Cafetière à capsules  1500 watts  Anthracite](http
 
 ℹ️:
 
-- Poids du produit: 2,5 kilogrammes
 - Disponibilité des pièces de rechange après achat du produit : 5 ans
+- Poids du produit: 2,5 kilogrammes
 - Garantie: 1 an(s)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00J99F8KU/?tag=tolees0d-21)
