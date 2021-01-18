@@ -1,34 +1,34 @@
 ---
 layout: post
-title: '20.01 % rabais sur KLIM Light V2 Clavier sans Fil AZERTY FR'
-date: 2021-01-12 09:35:14
+title: '18.88 % rabais sur KLIM Light V2 Clavier sans Fil AZERTY FR'
+date: 2021-01-18 18:05:08
 image: 'https://m.media-amazon.com/images/I/41CGMMahXXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B085ZS4YJT-fr'
-actualPrice: 39.97 EUR
+actualPrice: 42.97 EUR
 currency: EUR
-price: 39.97
-comparePrice: 49.97 EUR
+price: 42.97
+comparePrice: 52.97 EUR
 prodname: 'KLIM Light V2 Clavier sans Fil AZERTY FR + Fin  Ergonomique  Discret  Waterproof  Silencieux + Clavier Gamer rétroéclairé pour PC Mac PS4 Xbox One + Batterie Intégrée Longue Durée + Nouveauté 2021'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B085ZS4YJT/?tag=tolees0d-21'
-descuento: '20.01'
-average: '39.97'
+descuento: '18.88'
+average: '40.97'
 ---
 
-Vous avez [KLIM Light V2 Clavier sans Fil AZERTY FR + Fin  Ergonomique  Discret  Waterproof  Silencieux + Clavier Gamer rétroéclairé pour PC Mac PS4 Xbox One + Batterie Intégrée Longue Durée + Nouveauté 2021](https://www.amazon.fr/dp/B085ZS4YJT/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  39.97 EUR (original: 49.97 EUR) ici:
+Vous avez [KLIM Light V2 Clavier sans Fil AZERTY FR + Fin  Ergonomique  Discret  Waterproof  Silencieux + Clavier Gamer rétroéclairé pour PC Mac PS4 Xbox One + Batterie Intégrée Longue Durée + Nouveauté 2021](https://www.amazon.fr/dp/B085ZS4YJT/?tag=tolees0d-21)  à  18.88 % de réduction, prix final  42.97 EUR (original: 52.97 EUR) ici:
 
 [![KLIM Light V2 Clavier sans Fil AZERTY FR](https://m.media-amazon.com/images/I/41CGMMahXXL._SL200_.jpg)](https://www.amazon.fr/dp/B085ZS4YJT/?tag=tolees0d-21)
 
 ℹ️:
 
-- ✅ CLAVIER AZERTY + ANTIGHOSTING. Ce clavier sans fil est au format AZERTY (FR). Equipé dune technologie dantighosting avancée, vous naurez aucun conflit entre les touches.📘BONUS : recevez un exemplaire gratuit de lEbook "Augmentez votre productivité et niveau de jeu en tapant plus vite" après votre achat.
-- ✅ HAUTE PERFORMANCE + SIMPLE DUTILISATION + LIBERTÉ TOTALE. Avec son taux de réponse très bas, le KLIM Light V2 figure parmi les meilleurs claviers sans fil du marché grâce à ses touches à membrane. Pour le configurer, rien de plus simple : branchez le récepteur USB et pressez linterrupteur sous le clavier. Vous pouvez lutiliser jusquà 10m de votre ordinateur ! Ce modèle a également une touche Fonction qui vous permettra daccéder à de nombreux raccourcis pratiques.
 - ✅ UN INVESTISSEMENT + VALEUR SÛRE + GARANTIE DE 5 ANS. Vous passez chaque jour des heures sur votre ordinateur. Ce clavier ergonomique dispose du meilleur rapport qualité/prix, pour que vous puissiez améliorer votre productivité et vos conditions de jeu sans vous ruiner. Chez KLIM, nous sommes très confiants quant à la qualité de nos produits, ce pourquoi nous vous offrons une garantie 5 ans ! Cest un achat sans risque. Notre Service Client se tient à votre disposition et vous répond sous 24h.
+- ✅ CLAVIER AZERTY + ANTIGHOSTING. Ce clavier sans fil est au format AZERTY (FR). Equipé dune technologie dantighosting avancée, vous naurez aucun conflit entre les touches.📘BONUS : recevez un exemplaire gratuit de lEbook "Augmentez votre productivité et niveau de jeu en tapant plus vite" après votre achat.
 - ✅ CONÇU POUR DURER + BATTERIE À DURÉE DE VIE ÉTENDUE. Les touches ont une durée de vie de 10 000 000 de frappes, elles dureront toute une décennie ! Ce clavier rétroéclairé est fait de plastique ABS durable et est plutôt léger : seulement 560. Contrairement à beaucoup de claviers sans fil, le KLIM Light V2 a une batterie intégrée longue durée, vous naurez pas à en racheter ! Chargez-le simplement environ 4 heures avec le câble USB fourni. *Note : baisser la luminosité augmente lautonomie.
+- ✅ HAUTE PERFORMANCE + SIMPLE DUTILISATION + LIBERTÉ TOTALE. Avec son taux de réponse très bas, le KLIM Light V2 figure parmi les meilleurs claviers sans fil du marché grâce à ses touches à membrane. Pour le configurer, rien de plus simple : branchez le récepteur USB et pressez linterrupteur sous le clavier. Vous pouvez lutiliser jusquà 10m de votre ordinateur ! Ce modèle a également une touche Fonction qui vous permettra daccéder à de nombreux raccourcis pratiques.
 - ✅ ESTHÉTIQUE. Le clavier est une pièce essentielle de léquipement de nimporte quel ordinateur. Il occupe une position proéminente sur votre bureau, alors autant quil soit agréable à lœil ! Les couleurs du rétroéclairage ne sont pas personnalisables mais vous sera utile lors de la frappe si jamais la luminosité ambiante est faible. La luminosité peut être ajustée et le clavier dispose dune fonction déconomie dénergie qui le met en veille après 2 minutes dinactivité.
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B085ZS4YJT/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085ZS4YJT/?tag=tolees0d-21)
