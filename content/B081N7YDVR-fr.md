@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31SJQpz31-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081N7YDVR-fr Avidsen 127003 Camera IP motorisée  Blanc'
+slug: 'B081N7YDVR-fr Avidsen 127003 Camera IP motorisée Blanc'
+tags: 
 actualPrice: 47.19 EUR
 currency: EUR
 price: 47.19

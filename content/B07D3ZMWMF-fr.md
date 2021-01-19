@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413faag10uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3ZMWMF-fr Adidas NMD R1 Basket Mode Homme - Noir  Core Black/Core Black/Gum 3  - 44 2/3 EU'
+slug: 'B07D3ZMWMF-fr Adidas NMD R1 Basket Mode Homme - Noir Core Black/Core...'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

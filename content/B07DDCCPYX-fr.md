@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4168yqv0ncL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDCCPYX-fr Puma ESS Logo Tee T-Shirt Femme  Noir  Cotton Black   L'
+slug: 'B07DDCCPYX-fr Puma ESS Logo Tee T-Shirt Femme Noir Cotton Black L'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

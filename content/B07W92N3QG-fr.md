@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jJw4PskcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W92N3QG-fr Lexibook- Projecteur Planetarium  2-en-1 projette Constellations  étoiles et Images spatiales  astonomie pour Enfants  STEM  avec Carte des constallations  Blanc/Bleu  NLJ150'
+slug: 'B07W92N3QG-fr Lexibook- Projecteur Planetarium 2-en-1 projette...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

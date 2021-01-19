@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mHdQggooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2QU93B-fr Extel - Interphone vidéo Quattro 2 Blanc - Ecran de 7 pouces  18 cm '
+slug: 'B01N2QU93B-fr Extel - Interphone vidéo Quattro 2 Blanc - Ecran de 7...'
+tags: 
 actualPrice: 148.9 EUR
 currency: EUR
 price: 148.9

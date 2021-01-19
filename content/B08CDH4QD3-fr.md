@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SiusqKrLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDH4QD3-fr BAITITON NVME 512GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD Interne 512Go Disque Dur Haute Performance'
+slug: 'B08CDH4QD3-fr BAITITON NVME 512GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD...'
+tags: 
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

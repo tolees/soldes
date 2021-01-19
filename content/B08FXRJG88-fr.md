@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414Cgf0ce2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FXRJG88-fr ehua® Roue Arrière Complète avec Disque  Pneu Plein Xiaomi Trottinette M365 Pro EXCLUSIVEMENT  Dure Anti Crevaison Anti dérapant Increvable Solide 8 5 Pouces Outils Inclus '
+slug: 'B08FXRJG88-fr ehua® Roue Arrière Complète avec Disque Pneu Plein Xiaomi...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

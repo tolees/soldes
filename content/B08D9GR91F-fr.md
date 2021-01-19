@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pWkY4ROML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D9GR91F-fr KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D NAND SSD Solid State Drive S280 2TB '
+slug: 'B08D9GR91F-fr KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D...'
+tags: 
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

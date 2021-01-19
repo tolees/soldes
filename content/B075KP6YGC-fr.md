@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ze0R6-a1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KP6YGC-fr Sophie la Girafe- tuyaux Folies  523425'
+slug: 'B075KP6YGC-fr Sophie la Girafe- tuyaux Folies 523425'
+tags: 
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

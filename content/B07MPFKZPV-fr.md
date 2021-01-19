@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xz4tgHquL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MPFKZPV-fr Montre Intelligente Femme Hommes Moniteur de fréquence Cardiaque avec écran Couleur  IP68 étanche Réveil Automatique écran Montre Intelligente téléphone Mobile pour iPhone Android  Black '
+slug: 'B07MPFKZPV-fr Montre Intelligente Femme Hommes Moniteur de fréquence...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

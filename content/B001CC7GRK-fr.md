@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51V-TsMpwxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CC7GRK-fr From The Vaults: No Security - San Jose 1999 -The Rolling Stones [Blu-ray] [SD Blu-ray  SD upscalée ]'
+slug: 'B001CC7GRK-fr From The Vaults: No Security - San Jose 1999 -The Rolling...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

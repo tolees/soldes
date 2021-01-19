@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41eXG3tt8zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U1V6IE0-fr Panasonic Lumix Appareil Photo Compact Zoom Puissant DMCTZ57EFK  Capteur 16MP  Zoom Lumix 20x F3.36.4  Ecran Inclinable  Vidéo Full HD  Modes Selfies  Stabilisé  Noir â€“ Version Française'
+slug: 'B00U1V6IE0-fr Panasonic Lumix Appareil Photo Compact Zoom Puissant...'
+tags: 
 actualPrice: 156.99 EUR
 currency: EUR
 price: 156.99

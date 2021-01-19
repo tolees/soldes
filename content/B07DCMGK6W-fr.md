@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41enk4YjmoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DCMGK6W-fr Adaptateur Secteur pour Switch / Switch Lite Support le Mode TV Charge Rapide USB Type C Chargeur pour Switch / Switch Lite'
+slug: 'B07DCMGK6W-fr Adaptateur Secteur pour Switch / Switch Lite Support le...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

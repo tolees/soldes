@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416HNqQnJeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PPV29CY-fr Maxesla USB Bluetooth 4.0 Adaptateur Clé Bluetooth pour PC Portable  Casque Bluetooth  Mobile  PDA Transmetteur Bluetooth et Récepteur Plug and Play pour Windows 10/8 / 7 / Vista/XP'
+slug: 'B07PPV29CY-fr Maxesla USB Bluetooth 4.0 Adaptateur Clé Bluetooth pour PC...'
+tags: 
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

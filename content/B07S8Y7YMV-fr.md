@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417KDkLy0WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S8Y7YMV-fr Petzl E095BA00 Lampe Frontale Swift RL Noir  7.8 W'
+slug: 'B07S8Y7YMV-fr Petzl E095BA00 Lampe Frontale Swift RL Noir 7.8 W'
+tags: 
 actualPrice: 80.46 EUR
 currency: EUR
 price: 80.46

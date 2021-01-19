@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51C5j1j3WdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HTMF0ZQ-fr Salewa MS Rapace Gore-TEX  Chaussures de Trekking et randonnée Homme  Noir  Night Black/Kamille 0960   39 EU'
+slug: 'B01HTMF0ZQ-fr Salewa MS Rapace Gore-TEX Chaussures de Trekking et...'
+tags: 
 actualPrice: 123.77 EUR
 currency: EUR
 price: 123.77

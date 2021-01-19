@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ukwSSmHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FXF7TX5-fr RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite [2 pièce]  Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite [HD et Transparent] [sans Bulles] [Anti Rayures]'
+slug: 'B08FXF7TX5-fr RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

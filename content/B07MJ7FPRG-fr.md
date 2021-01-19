@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Gyw8b1LRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ7FPRG-fr Clarks Desert Boot Bottes Classiques pour Homme - Marron - Cuir Marron Chestnut Chestnut  44 EU'
+slug: 'B07MJ7FPRG-fr Clarks Desert Boot Bottes Classiques pour Homme - Marron -...'
+tags: 
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

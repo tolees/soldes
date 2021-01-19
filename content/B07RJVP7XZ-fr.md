@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315dmSJf4rL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RJVP7XZ-fr Etekcity Balance Wifi  Balance Connectée Bluetooth Rechargeable USB  Analyse de la Composition Corporelle  Plate-forme Extra Large 37 5x30cm  Verre Conducteur ITO  180kg'
+slug: 'B07RJVP7XZ-fr Etekcity Balance Wifi Balance Connectée Bluetooth...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

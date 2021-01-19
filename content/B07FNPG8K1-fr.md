@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNPG8K1-fr No Tourists'
+tags: 
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

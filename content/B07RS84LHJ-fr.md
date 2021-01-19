@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EUMO7GZOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RS84LHJ-fr Tommy Hilfiger Classic Straight Hw C Balt Jean Droit  Bleu  Denim 1A4   90  Taille Fabricant: NI34  Femme'
+slug: 'B07RS84LHJ-fr Tommy Hilfiger Classic Straight Hw C Balt Jean Droit Bleu...'
+tags: 
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

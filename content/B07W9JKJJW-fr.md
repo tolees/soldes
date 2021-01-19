@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41w0TMzaCfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W9JKJJW-fr Balance Pèse Personne  iTeknic Pèse Personne Impédancemètre Balance Connectée Pèse Personnes Bluetooth Électronique Numérique Poids Masse Graisseuse et Muscle Graisse Musculaire IMC  Version 2019 '
+slug: 'B07W9JKJJW-fr Balance Pèse Personne iTeknic Pèse Personne Impédancemètre...'
+tags: 
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ldzkm9IbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBPDD5Y-fr ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura Sync - Connectique Type C'
+slug: 'B07HBPDD5Y-fr ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura...'
+tags: 
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

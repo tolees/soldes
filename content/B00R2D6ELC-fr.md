@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61r5PXrKmRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R2D6ELC-fr La Bonne Paye – Jeu de societe familial - Jeu de plateau – Version française'
+slug: 'B00R2D6ELC-fr La Bonne Paye – Jeu de societe familial - Jeu de plateau –...'
+tags: 
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31q81C9P55L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8DZG6J-fr BOSS Hyper holdall  Sac porté main homme  Noir  Black   22x30x50 cm  B x H T '
+slug: 'B07N8DZG6J-fr BOSS Hyper holdall Sac porté main homme Noir Black...'
+tags: 
 actualPrice: 114.48 EUR
 currency: EUR
 price: 114.48

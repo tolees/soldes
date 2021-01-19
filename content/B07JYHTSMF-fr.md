@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413wA0W2CuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYHTSMF-fr Tommy Hilfiger Short Sleeve Slim Polo   Cerulean 474   X-Large Femme'
+slug: 'B07JYHTSMF-fr Tommy Hilfiger Short Sleeve Slim Polo Cerulean 474 X-Large...'
+tags: 
 actualPrice: 47.29 EUR
 currency: EUR
 price: 47.29

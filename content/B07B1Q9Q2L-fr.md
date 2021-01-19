@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZvB0o3xdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B1Q9Q2L-fr Newbestyle Femme Hoodies Sweatshirt Manches Longues à Capuche Veste Femmes'
+slug: 'B07B1Q9Q2L-fr Newbestyle Femme Hoodies Sweatshirt Manches Longues à...'
+tags: 
 actualPrice: 20.49 EUR
 currency: EUR
 price: 20.49

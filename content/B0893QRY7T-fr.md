@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cC0332w5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0893QRY7T-fr SMYTU Coque Xiaomi Redmi Note 9 Goldrose Housse en Cuir Case Xiaomi Redmi Note 9 Protection Portefeuille TPU Silicone Case Cover de Magnétique for Xiaomi Redmi Note 9  B-Goldrose '
+slug: 'B0893QRY7T-fr SMYTU Coque Xiaomi Redmi Note 9 Goldrose Housse en Cuir...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

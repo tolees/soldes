@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41m4wA3MNjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DC4P6CZ-fr sloggi Zero Feel Top EX  Brassière Femme  Écru  ANGORA 6308   M'
+slug: 'B07DC4P6CZ-fr sloggi Zero Feel Top EX Brassière Femme Écru ANGORA 6308 M'
+tags: 
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

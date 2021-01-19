@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41td60tG3IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXC9QMH-fr Kingston A2000 - Disque SSD - chiffré - 1 To - interne - M.2 2280 - PCI Express 3.0 x4  NVMe  - AES 256 bits'
+slug: 'B07VXC9QMH-fr Kingston A2000 - Disque SSD - chiffré - 1 To - interne -...'
+tags: 
 actualPrice: 113.17 EUR
 currency: EUR
 price: 113.17

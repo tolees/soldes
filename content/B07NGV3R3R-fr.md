@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xLUGBUBDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGV3R3R-fr Derhy DAGADGET Parka  Bleu  Marine 300   40  Taille Fabricant:M  Femme'
+slug: 'B07NGV3R3R-fr Derhy DAGADGET Parka Bleu Marine 300 40 Taille Fabricant:M...'
+tags: 
 actualPrice: 85.09 EUR
 currency: EUR
 price: 85.09

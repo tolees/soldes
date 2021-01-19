@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Tew0ZQvtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPDCPZ6-fr GANT The Original Full Zip Hoodie Veste Sweat  Bleu  Evening Blue 433   Large Homme'
+slug: 'B07KPDCPZ6-fr GANT The Original Full Zip Hoodie Veste Sweat Bleu Evening...'
+tags: 
 actualPrice: 66.26 EUR
 currency: EUR
 price: 66.26

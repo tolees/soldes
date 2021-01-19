@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wYmD59gcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN95HHT-fr Buffalo Cali  Sneakers Basses Femme  Multicolore  Pink/White 000   36 EU'
+slug: 'B07JN95HHT-fr Buffalo Cali Sneakers Basses Femme Multicolore Pink/White...'
+tags: 
 actualPrice: 49.51 EUR
 currency: EUR
 price: 49.51

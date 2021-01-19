@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UnL0JrDUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGKZPYL-fr Thomas Sabo montre CODE TS unisexe Acier inoxydable WA0338-201-202-40 mm'
+slug: 'B07NGKZPYL-fr Thomas Sabo montre CODE TS unisexe Acier inoxydable...'
+tags: 
 actualPrice: 114.92 EUR
 currency: EUR
 price: 114.92

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j9SnufOdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2SXBJW-fr Levi s 514 Jeans Droits Homme  Bleu  Dryers Supper Adv 1330   34W / 32L'
+slug: 'B07S2SXBJW-fr Levi s 514 Jeans Droits Homme Bleu Dryers Supper Adv 1330...'
+tags: 
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

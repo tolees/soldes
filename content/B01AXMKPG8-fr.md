@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Jqnmv5ZxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXMKPG8-fr Philips QP6510/30 OneBlade Pro avec sabot réglable 12 hauteurs de coupe'
+slug: 'B01AXMKPG8-fr Philips QP6510/30 OneBlade Pro avec sabot réglable 12...'
+tags: 
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

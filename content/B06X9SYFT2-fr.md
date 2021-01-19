@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QZL4scY4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X9SYFT2-fr Perfection - Jeu de Societe - Jeu de rapidité - Version Française'
+slug: 'B06X9SYFT2-fr Perfection - Jeu de Societe - Jeu de rapidité - Version...'
+tags: 
 actualPrice: 20.67 EUR
 currency: EUR
 price: 20.67

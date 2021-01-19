@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rpZMJ0UQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0773YCWFX-fr adidas NMD R2  Baskets Homme  Noir  Core Black/Core Black/Core Black 0   40 2/3 EU'
+slug: 'B0773YCWFX-fr adidas NMD R2 Baskets Homme Noir Core Black/Core...'
+tags: 
 actualPrice: 61.38 EUR
 currency: EUR
 price: 61.38

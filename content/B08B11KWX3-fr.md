@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B11KWX3-fr Disque Dur Externe 2to  USB3.0 Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop  Chromebook 2To Bleu '
+slug: 'B08B11KWX3-fr Disque Dur Externe 2to USB3.0 Disque Dur Externe pour PC...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

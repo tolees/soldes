@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61NWPuT13sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH7WJ33-fr OSOYOO Starter Updated Version Kit for Micro:bit Include Micro:bit Board  Development Board and 20 Sensor modules Used for Classroom Teaching and for DIY Beginners  STEM KIT with Micro Board '
+slug: 'B07ZH7WJ33-fr OSOYOO Starter Updated Version Kit for Micro:bit Include...'
+tags: 
 actualPrice: 78.54 EUR
 currency: EUR
 price: 78.54

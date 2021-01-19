@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51sbvB76uLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085WST8C4-fr PHOINIKAS Casque de Jeu PS4  Casque Gaming Filaire pour Xbox One  PC  Casque de Musique sans Fil Bluetooth avec Microphone Antibruit et 7.1 Bass Surround  40H Playtime -Bleu'
+slug: 'B085WST8C4-fr PHOINIKAS Casque de Jeu PS4 Casque Gaming Filaire pour...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

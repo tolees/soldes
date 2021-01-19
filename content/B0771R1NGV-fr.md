@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t13ScxHBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771R1NGV-fr Geemarc Telecom TÉLÉPHONE SANS FIL AVEC 10 MÉMOIRES PHOTOS DIRECTES et RÉPONDEUR'
+slug: 'B0771R1NGV-fr Geemarc Telecom TÉLÉPHONE SANS FIL AVEC 10 MÉMOIRES PHOTOS...'
+tags: 
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

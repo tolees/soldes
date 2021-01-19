@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YNRG4agHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004CREO0Y-fr GRANIONS Conceptio Homme - 90 Capsules + 30 Sachets = 30 J - Cpx Breveté enzy Ox  Coenzyme Q10  Vitamine E   L-Carnitine  Dha  Oligoéléments - Fertilité Masculine Laboratoire des Granions'
+slug: 'B004CREO0Y-fr GRANIONS Conceptio Homme - 90 Capsules + 30 Sachets = 30 J...'
+tags: 
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

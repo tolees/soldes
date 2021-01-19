@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RS2uoYcjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087V4MV7G-fr Pin’s Guitare Geepins | Magnifique Broche Miniature Fender Tele | 52 mm | À Porter sur un Sac à Dos  une Chemise  une Veste  un Revers  ou un Chapeau | Présenté dans Très Joli Étui à Guitare'
+slug: 'B087V4MV7G-fr Pin’s Guitare Geepins | Magnifique Broche Miniature Fender...'
+tags: 
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

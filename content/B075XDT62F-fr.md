@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nlzEn8TZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XDT62F-fr Norsens Sac à Dos Ordinateur Portable 17/15.6 Pouces Antivol pour Homme Imperméable Sac a Dos PC Portable pour Loisirs/Affaire/Scolaire Noir'
+slug: 'B075XDT62F-fr Norsens Sac à Dos Ordinateur Portable 17/15.6 Pouces...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

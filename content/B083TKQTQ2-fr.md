@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vqEzbdquL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083TKQTQ2-fr yobola Ecouteur Bluetooth  Écouteur sans Fil 5.0 24h de Lecture stéréo 3D HD Oreillette sans Fil avec Mic  Touch Control  Auriculaires Bluetooth avec Étui de Chargement sans Fil'
+slug: 'B083TKQTQ2-fr yobola Ecouteur Bluetooth Écouteur sans Fil 5.0 24h de...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

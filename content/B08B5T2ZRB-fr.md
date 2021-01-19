@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FiVUGDLJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5T2ZRB-fr eXtremeRate Coques avec ABXY Boutons de Direction pour Nintendo Switch NS JoyCons Manette Contrôleur DIY Housse de Remplacement Pas de Coque de Console -Corail'
+slug: 'B08B5T2ZRB-fr eXtremeRate Coques avec ABXY Boutons de Direction pour...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

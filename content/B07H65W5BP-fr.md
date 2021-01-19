@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RIuEtmMeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H65W5BP-fr Emsa M5262000 Click & Grow Smart Garden 9 Jardinière d intérieur Gris Potager d intérieur'
+slug: 'B07H65W5BP-fr Emsa M5262000 Click & Grow Smart Garden 9 Jardinière d...'
+tags: 
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

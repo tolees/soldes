@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51S0xe49h7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6YG1LC-fr ECOVACS OZMO920 Robot Aspirateur Laveur  2-en-1 avec Technologie Laser Smart Navi 3.0  Nettoyage Personnalisé  Cartographie multi-étages  Barrières Virtuelles  sur les Tapis  Moquettes et Sols Durs'
+slug: 'B07W6YG1LC-fr ECOVACS OZMO920 Robot Aspirateur Laveur 2-en-1 avec...'
+tags: 
 actualPrice: 309.98 EUR
 currency: EUR
 price: 309.98

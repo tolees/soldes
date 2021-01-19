@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/310nSvn-CsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZ8SHHK-fr Disque Dur Externe 1to  Disque Dur Externe USB3.1 Type-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook  Xbox 360 1To Doré '
+slug: 'B08CZ8SHHK-fr Disque Dur Externe 1to Disque Dur Externe USB3.1 Type-C...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

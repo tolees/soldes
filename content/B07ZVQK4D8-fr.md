@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aL9VelL+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQK4D8-fr Levi s Perfect V Neck T-Shirt  Annalise Stripe Sepia Rose  M Femme'
+slug: 'B07ZVQK4D8-fr Levi s Perfect V Neck T-Shirt Annalise Stripe Sepia Rose M...'
+tags: 
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

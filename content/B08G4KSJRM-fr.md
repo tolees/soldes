@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ppJ-QssUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G4KSJRM-fr Maegoo Manette Switch Joycon  Joycon Switch Pro Manettes pour Nintendo Switch  Bluetooth sans Fil Joy Con Switch Gamepad Joysticks Joypads avec Double Shock and 6 Axis Gyro'
+slug: 'B08G4KSJRM-fr Maegoo Manette Switch Joycon Joycon Switch Pro Manettes...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

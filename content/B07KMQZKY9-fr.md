@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DRMcysH7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMQZKY9-fr Adidas W E 3S Short Femme Noir/Blanc FR  Taille Fabricant : XS '
+slug: 'B07KMQZKY9-fr Adidas W E 3S Short Femme Noir/Blanc FR Taille Fabricant : XS'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZCX9R97-fr Fairy Tail'
+tags: 
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

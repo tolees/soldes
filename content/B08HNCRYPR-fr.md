@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61o1w6qHX9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HNCRYPR-fr Orzly Lot d accessoires pour console Nintendo Switch avec poignées de manette et roues de course  bandes de danse de poignet  raquettes de tennis'
+slug: 'B08HNCRYPR-fr Orzly Lot d accessoires pour console Nintendo Switch avec...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

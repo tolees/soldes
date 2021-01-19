@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4168A1wYFgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015JIA97Q-fr Polaroid Snap - Appareil Photo Numérique Instantané avec la Technologie d Impression Zink Zero Ink  10 Mp  Bluetooth  Micro Sd  5 x 7 6 cm  Noir'
+slug: 'B015JIA97Q-fr Polaroid Snap - Appareil Photo Numérique Instantané avec...'
+tags: 
 actualPrice: 96.78 EUR
 currency: EUR
 price: 96.78

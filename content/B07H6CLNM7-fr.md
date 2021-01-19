@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hWGCunCGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H6CLNM7-fr Maison Lejaby Tropical UNI Haut de maillot de bain Femme Noir 04   Taille Fabricant:85B '
+slug: 'B07H6CLNM7-fr Maison Lejaby Tropical UNI Haut de maillot de bain Femme...'
+tags: 
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514rYNDZldL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GGSQ5X-fr OCDAY Voiture Telecommandé  Voiture Telecommandé Tout Terrain  Rotation 360° Gauche et Droite et Debout  Course Debout et Marche Inversée  Rotation et Dérive Gauche et Droite  Cadeau Jouet'
+slug: 'B089GGSQ5X-fr OCDAY Voiture Telecommandé Voiture Telecommandé Tout...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

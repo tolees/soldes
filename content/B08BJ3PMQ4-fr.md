@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bnbzbj+lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ3PMQ4-fr Smartphone Portable CUBOT. P40  Ecran 6 2 Pouces  4 Go RAM 128 Go ROM  AI Caméra Avant 20 MP  Caméra Arrière 12MP+5MP  Batterie 4200mAh  Dual SIM 4G  Reconnaissance Faciale  NFC  Type C  Version EU '
+slug: 'B08BJ3PMQ4-fr Smartphone Portable CUBOT. P40 Ecran 6 2 Pouces 4 Go RAM...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

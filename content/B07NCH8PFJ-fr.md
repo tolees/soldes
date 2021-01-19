@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+rtqvLI1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCH8PFJ-fr Tommy Hilfiger Th Essential Reg Polo SS  Blanc  Classic White 100   XX-Large Femme'
+slug: 'B07NCH8PFJ-fr Tommy Hilfiger Th Essential Reg Polo SS Blanc Classic...'
+tags: 
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

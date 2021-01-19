@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KQWViTlPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QDTBQN-fr ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile 14   FHD  Intel pentium N4200  RAM 8Go  64Go EMMC  Chrome OS  Clavier AZERTY Français'
+slug: 'B086QDTBQN-fr ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile...'
+tags: 
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

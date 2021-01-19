@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LZbK1ARqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0051QGCIW-fr Diesel Homme Analogique Quartz Montre avec Bracelet en Silicone DZ1437'
+slug: 'B0051QGCIW-fr Diesel Homme Analogique Quartz Montre avec Bracelet en...'
+tags: 
 actualPrice: 64.35 EUR
 currency: EUR
 price: 64.35

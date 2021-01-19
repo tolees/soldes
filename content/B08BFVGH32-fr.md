@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-E7IZMn1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFVGH32-fr Hommie Montre Connectée Femme Tracker d Activité Cardio Fréquence Montre Intelligente Etanche IP67 Smartwatch Sport avec Moniteur de Sommeil Réveil  Bracelet Intelligent Podomètre pour Android iOS'
+slug: 'B08BFVGH32-fr Hommie Montre Connectée Femme Tracker d Activité Cardio...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

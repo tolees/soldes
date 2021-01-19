@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DYf1PkA4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WD68GPN-fr Marvel Legends - Edition Collector Avengers - Marteau Deluxe de Thor'
+slug: 'B06WD68GPN-fr Marvel Legends - Edition Collector Avengers - Marteau...'
+tags: 
 actualPrice: 114.99 EUR
 currency: EUR
 price: 114.99

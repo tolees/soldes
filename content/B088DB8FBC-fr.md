@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BOtUTf0xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088DB8FBC-fr EgoIggo Tapis de Yoga Mat en TPE Matériaux Tapis de Sport Sol Antiderapant Ecologique avec Sac de Transport pour Fitness Pilates Gym 181x61cm  6mm'
+slug: 'B088DB8FBC-fr EgoIggo Tapis de Yoga Mat en TPE Matériaux Tapis de Sport...'
+tags: 
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

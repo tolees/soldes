@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FmrehgsRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YJHWDQS-fr FORMIZON Apprentissage des Mathématiques Jeu Monkey Match  Compter Les Jouets  Jeu Montessori Singe Échelle Équilibre  Balance Numérique pour Outil Éducatif STEM Cadeau Enfants  Chien '
+slug: 'B07YJHWDQS-fr FORMIZON Apprentissage des Mathématiques Jeu Monkey Match...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

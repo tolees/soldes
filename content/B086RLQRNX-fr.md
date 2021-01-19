@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Hm8eFgQoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RLQRNX-fr CubicFun 3D Puzzle Harry Potter Poudlard Castle School  Kits de Construction de modèles  Jouets de Construction de Bricolage Cadeaux pour Adultes et Enfants  197 pièces'
+slug: 'B086RLQRNX-fr CubicFun 3D Puzzle Harry Potter Poudlard Castle School...'
+tags: 
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

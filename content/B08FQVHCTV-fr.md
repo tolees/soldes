@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q8xXmY28L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FQVHCTV-fr / Mḁs-tûr-bḁtḔûr HṎ-mmḔ RḔ-ḁlistḔ PṎ-ûr AûtṎ-mḁtiqùḔ ElḔ-çtriqüḔ ḁ-nüs Disçret và Vient Màs-türbàtéurs Màs-çülins'
+slug: 'B08FQVHCTV-fr / Mḁs-tûr-bḁtḔûr HṎ-mmḔ RḔ-ḁlistḔ PṎ-ûr AûtṎ-mḁtiqùḔ ElḔ-...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

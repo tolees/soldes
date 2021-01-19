@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31jwTXAh6bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JR1FP29-fr Be Cool Thunder Isofix Siège Auto Groupe 1/2/3 de 9 à 36 kg Isofix 4 Positions Inclinables Appui-Tête/Harnais Réglables 1 Unité  Noir 755U-693'
+slug: 'B07JR1FP29-fr Be Cool Thunder Isofix Siège Auto Groupe 1/2/3 de 9 à 36...'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

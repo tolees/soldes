@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CFI9A0-fr DE BUYER -3125.16 -moule a charlotte inox 18/10s/couv.ø16'
+tags: 
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

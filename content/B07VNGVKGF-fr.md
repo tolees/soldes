@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317t17SbgLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNGVKGF-fr SanDisk iXpand 128 Go - Clé USB double connectique pour sauvegarde iPhone et iPad'
+slug: 'B07VNGVKGF-fr SanDisk iXpand 128 Go - Clé USB double connectique pour...'
+tags: 
 actualPrice: 45.46 EUR
 currency: EUR
 price: 45.46

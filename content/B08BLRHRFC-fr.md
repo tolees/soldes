@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mdnKzAYQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLRHRFC-fr Casque Gaming  TedGem 3.5mm Casque PS4  Surround Stéréo Casque Gamer  LED Casque Gamer PC pour PS4/ Xbox One/PC/Mac/Ordinateur/Tablette'
+slug: 'B08BLRHRFC-fr Casque Gaming TedGem 3.5mm Casque PS4 Surround Stéréo...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

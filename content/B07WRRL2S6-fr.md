@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DRmYdgBTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WRRL2S6-fr Chumian Gilet de Sudation pour Femme Sauna Sport Gaine Amincissante Débardeur Minceur Ventre Plat Fitness Waist Trainer  Noir  L '
+slug: 'B07WRRL2S6-fr Chumian Gilet de Sudation pour Femme Sauna Sport Gaine...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

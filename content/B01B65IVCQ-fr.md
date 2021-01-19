@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51P5AGsH7IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B65IVCQ-fr Pinypon - 700012914 - Mini Poupée - Coffret Clinique Vétérinaire + 2 Figurines'
+slug: 'B01B65IVCQ-fr Pinypon - 700012914 - Mini Poupée - Coffret Clinique...'
+tags: 
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

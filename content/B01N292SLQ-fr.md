@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mLdQf3YoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N292SLQ-fr camel active 5-Pocket Houston Jean Droit  Bleu  Bleue/Black Used 43   W44/L34  Taille Fabricant: 44/34  Homme'
+slug: 'B01N292SLQ-fr camel active 5-Pocket Houston Jean Droit Bleu Bleue/Black...'
+tags: 
 actualPrice: 45.66 EUR
 currency: EUR
 price: 45.66

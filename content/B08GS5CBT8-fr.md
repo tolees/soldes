@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oc1VmjKQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GS5CBT8-fr L K [4 pièces 2 pièces Verre Trempé pour Xiaomi Redmi Note 9s/Note 9 Pro/Note 9 Pro Max  2 pièces Caméra Arrière Protecteur  [sans Bulles] [Anti-Rayures] Protection Écran'
+slug: 'B08GS5CBT8-fr L K [4 pièces 2 pièces Verre Trempé pour Xiaomi Redmi Note...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

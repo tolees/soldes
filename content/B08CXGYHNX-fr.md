@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HbuhUguAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXGYHNX-fr TECLAST Tablette 10 1 Pouces Android 10 P20HD FHD 1920x1200 Bluetooth 5.0 4 Go RAM + 64 Go ROM  Octa Core  4G Dual SIM/SD  Type-C  5.0 + 2.0 MP Cámara  WiFi+Mobile+GPS  Batterie 6000mAh'
+slug: 'B08CXGYHNX-fr TECLAST Tablette 10 1 Pouces Android 10 P20HD FHD...'
+tags: 
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

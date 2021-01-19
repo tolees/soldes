@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IaTMpaGNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9G5T2F-fr OFFRE DE LANCEMENT - Correcteur de Posture Saona Concept® - Soulage les Douleurs de Dos  Cou  Épaules - Redresse Dos Homme Femme  L-XL '
+slug: 'B08C9G5T2F-fr OFFRE DE LANCEMENT - Correcteur de Posture Saona Concept®...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

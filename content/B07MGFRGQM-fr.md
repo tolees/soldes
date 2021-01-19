@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419N9Wf3SCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MGFRGQM-fr Napapijri Skidoo WOM EF 2 Jacket  Rose  Pink Blush P79   XL Femme'
+slug: 'B07MGFRGQM-fr Napapijri Skidoo WOM EF 2 Jacket Rose Pink Blush P79 XL Femme'
+tags: 
 actualPrice: 173.06 EUR
 currency: EUR
 price: 173.06

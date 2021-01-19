@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xZJ04+++L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C2TD5PV-fr Bluefin Paddle Board Gonflable 427 cm à Position Debout | 15 cm d’Épaisseur | Pagaie Légère en Fibre de Verre | Tous Les Accessoires | Garantie 5 Ans'
+slug: 'B07C2TD5PV-fr Bluefin Paddle Board Gonflable 427 cm à Position Debout |...'
+tags: 
 actualPrice: 559.0 EUR
 currency: EUR
 price: 559.0

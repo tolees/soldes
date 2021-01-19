@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311Uk9N0xLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3HHM55-fr Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction de Bruit True Wireless avec boitier de rechargement compatibles iOS et Android  Argent  avec Amazon Alexa Intégrée'
+slug: 'B07T3HHM55-fr Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction...'
+tags: 
 actualPrice: 186.45 EUR
 currency: EUR
 price: 186.45

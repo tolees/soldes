@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WMbHAUiUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC41YPD-fr DELSEY PARIS - SEGUR 2.0 - Valise cabine rigide à double roues et serrure TSA intégrée - 55cm  42.9L  Gris'
+slug: 'B07NC41YPD-fr DELSEY PARIS - SEGUR 2.0 - Valise cabine rigide à double...'
+tags: 
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IGYJNN89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P9PCCHL-fr Silicon Power 1TB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3  400/3  000Mo/s SSD'
+slug: 'B07P9PCCHL-fr Silicon Power 1TB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3...'
+tags: 
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

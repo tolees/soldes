@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AsRKfcACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HS24MK-fr Braun Silk-épil 9 9/990 SkinSpa SensoSmart Épilateur Électrique Or Rose et 13 Accessoires'
+slug: 'B078HS24MK-fr Braun Silk-épil 9 9/990 SkinSpa SensoSmart Épilateur...'
+tags: 
 actualPrice: 181.35 EUR
 currency: EUR
 price: 181.35

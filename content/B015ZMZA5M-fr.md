@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416NAcaz2VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015ZMZA5M-fr SCHEPPACH PL285 Scie Plongeante légère avec Guide Laser de Précision et 3 Lames de Scie  600W de Puissance  Bleu'
+slug: 'B015ZMZA5M-fr SCHEPPACH PL285 Scie Plongeante légère avec Guide Laser de...'
+tags: 
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

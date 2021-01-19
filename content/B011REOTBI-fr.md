@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hpNC7NdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011REOTBI-fr Aigostar - Ampoules LED B5 T3 3U E27  Grosse Vis ， 9W Consommés Équivalent 60W， lumière blanche froide 6400K， angle de 360°， 810 lumens. Lot de 5 Ampoule LED.'
+slug: 'B011REOTBI-fr Aigostar - Ampoules LED B5 T3 3U E27 Grosse Vis ， 9W...'
+tags: 
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D2OQ7CQ-fr Cressi HY788051 Sub S.p.A. Ac2 Compact Détendeur DIN'
+tags: 
 actualPrice: 124.94 EUR
 currency: EUR
 price: 124.94

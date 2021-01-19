@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JWDxMXKrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0YZVQE-fr Clé USB 3.1 Sandisk Extreme Go - 128 Go avec une vitesse de lecture allant jusqu à 200 Mo/s'
+slug: 'B01N0YZVQE-fr Clé USB 3.1 Sandisk Extreme Go - 128 Go avec une vitesse...'
+tags: 
 actualPrice: 38.57 EUR
 currency: EUR
 price: 38.57

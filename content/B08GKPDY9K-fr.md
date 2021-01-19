@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31EhSXtKKpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GKPDY9K-fr Casque Bluetooth 5.0 avec [boîte de Chargement 24 Heures]  Microphone HD intégré et Son 3D stéréo  IPX7 étanche  Convient pour Android Samsung/Huawei/Phone/Airpods Pro'
+slug: 'B08GKPDY9K-fr Casque Bluetooth 5.0 avec [boîte de Chargement 24 Heures]...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XZWugeYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BF5MR2W-fr s.Oliver BLACK LABEL 02.899.73.4420 Pantalon De Costume  Bleu  Dark Blue 5884   W22  Taille Fabricant: 50  Homme'
+slug: 'B07BF5MR2W-fr s.Oliver BLACK LABEL 02.899.73.4420 Pantalon De Costume...'
+tags: 
 actualPrice: 37.02 EUR
 currency: EUR
 price: 37.02

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41th4CFxz9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VYCWSXY-fr AUBADE  Haut de Maillot de Bain Triangle avec Coques Amovibles  Bretelles à Nouer Dans la Nuque  BEAUTÉ SUBLIME  Noir/Kaki  Taille : S  PR10'
+slug: 'B07VYCWSXY-fr AUBADE Haut de Maillot de Bain Triangle avec Coques...'
+tags: 
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

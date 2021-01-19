@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jWeAV3khL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR6GHVX-fr Clarks Tri Native  Sneakers Basses Homme  Noir  Black -   41.5 EU'
+slug: 'B07FR6GHVX-fr Clarks Tri Native Sneakers Basses Homme Noir Black - 41.5 EU'
+tags: 
 actualPrice: 97.42 EUR
 currency: EUR
 price: 97.42

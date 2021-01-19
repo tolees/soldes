@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uQSZU5sGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MFAED0E-fr Babymoov - Nutribaby +   Robot Multifonctions 5 en 1  Grande Capacité pour Bébé  Gris'
+slug: 'B01MFAED0E-fr Babymoov - Nutribaby + Robot Multifonctions 5 en 1 Grande...'
+tags: 
 actualPrice: 129.9 EUR
 currency: EUR
 price: 129.9

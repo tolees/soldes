@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51JGCo1QX2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYQMTMJ-fr Jojoin Instruments de Musique pour Enfants  25Pcs Set en Bois Percussion pour Bébé avec Xylophone  Tambourin  Triangle et Autre Instrument Jouets avec Sac de Transport'
+slug: 'B07TYQMTMJ-fr Jojoin Instruments de Musique pour Enfants 25Pcs Set en...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

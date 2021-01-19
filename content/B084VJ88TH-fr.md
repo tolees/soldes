@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pym3olXGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VJ88TH-fr Motast Enceinte Bluetooth Portable  30 Heures De Lecture  Haut Parleur Bluetooth  5200mAh Power bank  Lumière LED  étanche IP67  Enceinte sans Fil Portable pour Lors balades à vélo en Solitaire'
+slug: 'B084VJ88TH-fr Motast Enceinte Bluetooth Portable 30 Heures De Lecture...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

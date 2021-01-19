@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mkfU7EBsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWHRRVC-fr Polti Forzaspira AG220 Plus  Nettoyeur à Vitres sans Fil Rechargeable  Batterie Lithium Ion 3 6 Volt  30 Minutes d’autonomie  avec Manche Télescopique  Bouteille Spray avec Chiffon en Microfibres.'
+slug: 'B07MWHRRVC-fr Polti Forzaspira AG220 Plus Nettoyeur à Vitres sans Fil...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qQj2v9SnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AADHRP2-fr Nike - W NSW lggng Club logo2 - Collant pour femme - Noir/Blanc - Taille: XL'
+slug: 'B01AADHRP2-fr Nike - W NSW lggng Club logo2 - Collant pour femme -...'
+tags: 
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

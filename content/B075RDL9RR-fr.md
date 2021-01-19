@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311XWzEtyKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RDL9RR-fr DELSEY PARIS - TURENNE - Valise trolley - 4 doubles roues  70 Cm - Gris'
+slug: 'B075RDL9RR-fr DELSEY PARIS - TURENNE - Valise trolley - 4 doubles roues...'
+tags: 
 actualPrice: 190.25 EUR
 currency: EUR
 price: 190.25

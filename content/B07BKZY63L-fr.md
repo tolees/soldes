@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OyFviZJBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKZY63L-fr Les Tropéziennes par M. Belarbi HIRONDEL  Sandales Bride Cheville Femmes  Marron  Tan/Or 797   39 EU'
+slug: 'B07BKZY63L-fr Les Tropéziennes par M. Belarbi HIRONDEL Sandales Bride...'
+tags: 
 actualPrice: 34.95 EUR
 currency: EUR
 price: 34.95

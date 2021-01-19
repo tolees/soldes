@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p9gISR6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R3JBYMH-fr Ultimate Ears Megaboom Enceinte sans Fil Portable Bluetooth  Basses Puissantes  Etanche  Flottante  Connexion Multiple  Batterie 20h - Grise Foncée'
+slug: 'B07R3JBYMH-fr Ultimate Ears Megaboom Enceinte sans Fil Portable...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

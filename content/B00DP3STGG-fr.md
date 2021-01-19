@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xLsxfKB5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DP3STGG-fr AutoStyle IA 78040 Ressorts d abaissement pour'
+slug: 'B00DP3STGG-fr AutoStyle IA 78040 Ressorts d abaissement pour'
+tags: 
 actualPrice: 106.56 EUR
 currency: EUR
 price: 106.56

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31FA4SUOG6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088H5HSD2-fr RAMPOW Chargeur USB C 36W Power Delivery 3.0  Chargeur Secteur Mural USB Type C 2 Ports pour iPhone 11/11 Pro / 11 Pro Max  iPad Pro  Airpods Pro  Xiaomi  Oneplus  Huawei - Blanc'
+slug: 'B088H5HSD2-fr RAMPOW Chargeur USB C 36W Power Delivery 3.0 Chargeur...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

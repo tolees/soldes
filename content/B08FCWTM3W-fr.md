@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61lNZ1vmkXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FCWTM3W-fr Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox One '
+slug: 'B08FCWTM3W-fr Tony Hawk s Pro Skater 1+2 - Exclusif Amazon Xbox One'
+tags: 
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

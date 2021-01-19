@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51rb2IetZlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0093ZNDKW-fr Arena Vortex Evolution Hand Paddle Équipement d’entraînement Mixte Adulte  Vert  L'
+slug: 'B0093ZNDKW-fr Arena Vortex Evolution Hand Paddle Équipement...'
+tags: 
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

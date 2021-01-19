@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412IF5H5VaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BL5CJFN-fr Sika Firestop profilé HD  Profilé pour calfeutrer des joints coupe-feu  40m  Gris'
+slug: 'B07BL5CJFN-fr Sika Firestop profilé HD Profilé pour calfeutrer des...'
+tags: 
 actualPrice: 456.52 EUR
 currency: EUR
 price: 456.52

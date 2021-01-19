@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OZLbdP6hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TWBFQGW-fr Levi s The Perfect Tee T-Shirt - Femme-Rouge  Bw T2 Tomato 0792 -Medium'
+slug: 'B07TWBFQGW-fr Levi s The Perfect Tee T-Shirt - Femme-Rouge Bw T2 Tomato...'
+tags: 
 actualPrice: 22.27 EUR
 currency: EUR
 price: 22.27

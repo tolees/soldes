@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513X9JxSGLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMPL269-fr Clavier Gaming  WisFox Clavier Filaire USB Rétroéclairé à LED Arc en Ciel Coloré  Clavier d Ordinateur Ultra-mince avec Panneau Tout en Métal avec Conception Anti-éclaboussures pour PC Fans de Jeux'
+slug: 'B07TMPL269-fr Clavier Gaming WisFox Clavier Filaire USB Rétroéclairé à...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

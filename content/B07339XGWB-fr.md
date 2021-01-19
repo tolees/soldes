@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pOSuMuefL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07339XGWB-fr Logitech G703 LIGHTSPEED Souris Gamer sans Fil  12000 PPP  RVB Gaming  Ultra-Léger  6 Boutons Programmables  Mémoire Intégrée  Batterie Longue Durée  Compatible avec PC/Mac - Version Allemande - Noire'
+slug: 'B07339XGWB-fr Logitech G703 LIGHTSPEED Souris Gamer sans Fil 12000 PPP...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

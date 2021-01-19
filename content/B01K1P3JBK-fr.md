@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nQcJlTRCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K1P3JBK-fr St Marc Lingettes Nettoyantes Désinfectantes et Antibactériennes - 40 Lingettes Extra-Larges - Lot de 3'
+slug: 'B01K1P3JBK-fr St Marc Lingettes Nettoyantes Désinfectantes et...'
+tags: 
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

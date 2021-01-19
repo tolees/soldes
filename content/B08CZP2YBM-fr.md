@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yEivVAGtL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZP2YBM-fr Màsséur Électrique Vîbrómasséur Vîbrạnt pour Fémme Portable  10 Modes de Màssagé  2 Moteurs 100% Imperméable  USB Rechargeable  Silicone Médical'
+slug: 'B08CZP2YBM-fr Màsséur Électrique Vîbrómasséur Vîbrạnt pour Fémme...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

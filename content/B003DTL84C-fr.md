@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a6k72rmmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003DTL84C-fr Thule EuroRide 2 13-pin  Porte-vélos sur boule d attelage fonctionnel répondant à tous vos besoins de base  pour 2 vélos .'
+slug: 'B003DTL84C-fr Thule EuroRide 2 13-pin Porte-vélos sur boule d attelage...'
+tags: 
 actualPrice: 243.41 EUR
 currency: EUR
 price: 243.41

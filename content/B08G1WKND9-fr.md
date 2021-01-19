@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tgvdUwM8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1WKND9-fr VISSQH 20pcs micro interrupteur fin de course  NO-NC 3Broches SPDT Micro Switch Momentané micro interrupteur levier pour Arduino Équipement Électronique ect micro interrupteur 12v'
+slug: 'B08G1WKND9-fr VISSQH 20pcs micro interrupteur fin de course NO-NC...'
+tags: 
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NGmU8Il+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VFQU9KE-fr Samsonite Lite-Shock - Spinner XL Valise  81 cm  124 L  Noir  Black '
+slug: 'B00VFQU9KE-fr Samsonite Lite-Shock - Spinner XL Valise 81 cm 124 L Noir...'
+tags: 
 actualPrice: 305.0 EUR
 currency: EUR
 price: 305.0

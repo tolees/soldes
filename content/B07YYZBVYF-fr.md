@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YqYce8p9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYZBVYF-fr Casque Beats Solo Pro sans fil avec réduction du bruit - Puce Apple H1 pour casques et écouteurs  Bluetooth classe 1  mode Réduction active du bruit  mode Transparence  22 heures d écoute - Gris'
+slug: 'B07YYZBVYF-fr Casque Beats Solo Pro sans fil avec réduction du bruit -...'
+tags: 
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

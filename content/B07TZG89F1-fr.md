@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tOiEeEITL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TZG89F1-fr ENJOHOS Lampe Loupe d Atelier Esthetique à pince Agrandissement 2 Dioptries 74 LED Bras Pliable/Réglable pour Salon de Beauté  Cliniques  Cabinet Médicale  Style 2 '
+slug: 'B07TZG89F1-fr ENJOHOS Lampe Loupe d Atelier Esthetique à pince...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

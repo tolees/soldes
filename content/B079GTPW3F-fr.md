@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DGJV6tj8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079GTPW3F-fr NUNCAD Bague Homme/Femme en Tungstène avec I Love You Or Rose/Bleu/Noir/Argenté/Noir/Brun 8mm Taille  50-76 '
+slug: 'B079GTPW3F-fr NUNCAD Bague Homme/Femme en Tungstène avec I Love You Or...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

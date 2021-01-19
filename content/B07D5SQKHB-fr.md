@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D5SQKHB-fr PUMA ESS Logo Leggings Pantalons Femme  Cotton Black  XS'
+slug: 'B07D5SQKHB-fr PUMA ESS Logo Leggings Pantalons Femme Cotton Black XS'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

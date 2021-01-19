@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xSUeDfKLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2S1M6H-fr Hatteker Tondeuse Barbe Tondeuse Cheveux Hommes Rasoir Tondeuse Corps Nez-Oreilles Impermeable 5 In 1'
+slug: 'B07Q2S1M6H-fr Hatteker Tondeuse Barbe Tondeuse Cheveux Hommes Rasoir...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

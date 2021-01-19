@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rjs4DCJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8CYQWQ-fr Braun Silk·Expert Pro 5 PL5014 Épilateur Lumière Pulsée Intense IPL Dernière Génération Pour Femme et pour Homme  Épilation Permanente  Pour Femme et pour Homme  Blanc/Doré'
+slug: 'B07M8CYQWQ-fr Braun Silk·Expert Pro 5 PL5014 Épilateur Lumière Pulsée...'
+tags: 
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bSb5-jJwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP76GMV-fr LEGO®-Star Wars™ Action Battle L attaque du générateur de Hoth™ Jeu de construction  7 Ans et Plus  235 Pièces 75239'
+slug: 'B07FP76GMV-fr LEGO®-Star Wars™ Action Battle L attaque du générateur de...'
+tags: 
 actualPrice: 22.18 EUR
 currency: EUR
 price: 22.18

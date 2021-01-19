@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oF2nlk9VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015P6ITQ0-fr Dell SE2216H Ecran de PC 22" Full HD LCD  VA  60 Hz  12 ms'
+slug: 'B015P6ITQ0-fr Dell SE2216H Ecran de PC 22" Full HD LCD VA 60 Hz 12 ms'
+tags: 
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

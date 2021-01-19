@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rpStcimaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DRGVYKL-fr Tiffany Rose Maternity Eden Maxi Robe  Rose poudré  46 Femme'
+slug: 'B07DRGVYKL-fr Tiffany Rose Maternity Eden Maxi Robe Rose poudré 46 Femme'
+tags: 
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31cml8k2bXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IL025TO-fr Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes  lot de 1000 '
+slug: 'B01IL025TO-fr Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes lot...'
+tags: 
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bHxW1FTTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MS1Q9S6-fr RECCI sur Matelas a Memoire de Forme de 6cm  Surmatelas 90x200  Matelas Mousse Housse en Bambou hypoallergénique - Amovible et Lavable en Machine  CertiPUR-EU  90 x 200 x 6cm '
+slug: 'B07MS1Q9S6-fr RECCI sur Matelas a Memoire de Forme de 6cm Surmatelas...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

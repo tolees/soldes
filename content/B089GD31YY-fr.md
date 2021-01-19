@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51c-aWzoFhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089GD31YY-fr Toozey Jouet pour Chien - 12 PCS Jouets pour Chiens Indestructible Animalerie pour Chien Jouet pour Chiots & Petits Chiens - Jouet à Mâcher Corde et Chiot en Peluche pour Chien - Coton Naturel'
+slug: 'B089GD31YY-fr Toozey Jouet pour Chien - 12 PCS Jouets pour Chiens...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

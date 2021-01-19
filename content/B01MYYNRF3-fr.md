@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415L3zlU0xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYYNRF3-fr Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en Résine DW-5600HR-1ER'
+slug: 'B01MYYNRF3-fr Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en...'
+tags: 
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

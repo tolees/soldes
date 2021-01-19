@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416FbZa9iOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6JWVSL-fr Under Armour Coldgear Reactor Performance Hybrid Veste Homme  Noir  L'
+slug: 'B07L6JWVSL-fr Under Armour Coldgear Reactor Performance Hybrid Veste...'
+tags: 
 actualPrice: 99.62 EUR
 currency: EUR
 price: 99.62

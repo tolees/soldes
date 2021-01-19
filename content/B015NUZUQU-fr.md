@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Pzhu8zrAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015NUZUQU-fr Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector [Blu-Ray]'
+slug: 'B015NUZUQU-fr Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

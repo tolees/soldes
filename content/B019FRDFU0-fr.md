@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zySoEDZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019FRDFU0-fr Crucial CT4G4DFS824A 4Go  DDR4  2400 MT/s  PC4-19200  Single Rank x8  DIMM  288-Pin  Mémoire'
+slug: 'B019FRDFU0-fr Crucial CT4G4DFS824A 4Go DDR4 2400 MT/s PC4-19200 Single...'
+tags: 
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

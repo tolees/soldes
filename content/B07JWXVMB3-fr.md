@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412z9YfbRkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWXVMB3-fr AUBADE  Haut de maillot push-up coque  Attache au cou  DIVINE CLEOPATRE  Noir  95B  NT08 NOIR'
+slug: 'B07JWXVMB3-fr AUBADE Haut de maillot push-up coque Attache au cou DIVINE...'
+tags: 
 actualPrice: 54.79 EUR
 currency: EUR
 price: 54.79

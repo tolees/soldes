@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RBOB+lMFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C5HWQLN-fr Lecteur DVD pour TV  DVD / CD / MP3 / MP4 avec Prise USB  Sortie HDMI et AV  câble HDMI et AV Inclus   télécommande  sans Blu-Ray '
+slug: 'B08C5HWQLN-fr Lecteur DVD pour TV DVD / CD / MP3 / MP4 avec Prise USB...'
+tags: 
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

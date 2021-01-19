@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VF6TVRJ-fr Jacob Delafon Mitigeur lavabo haut Léonie'
+tags: 
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

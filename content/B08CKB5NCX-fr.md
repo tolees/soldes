@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yW8sFKkaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKB5NCX-fr Lumière Solaire Extérieur-POLARTAIL-[140 LED-4Pack-2000mAh]- Lampe Solaire étanche avec Détecteur de Mouvement-Éclairage Solaire sans Fil-3 Modes Intelligent lampe mural-Jardin Garage.'
+slug: 'B08CKB5NCX-fr Lumière Solaire Extérieur-POLARTAIL-[140...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

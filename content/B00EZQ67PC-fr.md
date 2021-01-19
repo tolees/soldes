@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411EmTns0fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EZQ67PC-fr Geox D Mendi Stivali  Bottes femme - Noir - Schwarz  BLACKC9999   41 EU  7.5 Femme UK  EU'
+slug: 'B00EZQ67PC-fr Geox D Mendi Stivali Bottes femme - Noir - Schwarz...'
+tags: 
 actualPrice: 70.61 EUR
 currency: EUR
 price: 70.61

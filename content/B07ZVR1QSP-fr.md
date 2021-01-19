@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413kKeOpZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVR1QSP-fr FBSPORT Airtrack 20 cm Épaisseur Tapis de Gymnastique Gonflable  140 cm Air Spot Gonflable  Piste d air Gonflable  Tapis de Entraînement'
+slug: 'B07ZVR1QSP-fr FBSPORT Airtrack 20 cm Épaisseur Tapis de Gymnastique...'
+tags: 
 actualPrice: 103.51 EUR
 currency: EUR
 price: 103.51

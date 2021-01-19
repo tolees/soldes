@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61Srf6fdELL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CZMWUE4-fr CRAZE- Disney Perles à Repasser  54384  Bleu'
+slug: 'B01CZMWUE4-fr CRAZE- Disney Perles à Repasser 54384 Bleu'
+tags: 
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

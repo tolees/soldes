@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31p9fYUYNEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007WQJPYW-fr Samsonite S Cure - Spinner M Valise  69 cm  79 L  Crimson Rouge  Red '
+slug: 'B007WQJPYW-fr Samsonite S Cure - Spinner M Valise 69 cm 79 L Crimson...'
+tags: 
 actualPrice: 79.6 EUR
 currency: EUR
 price: 79.6

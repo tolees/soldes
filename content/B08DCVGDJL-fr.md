@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pSKjxOVoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCVGDJL-fr Montre Connectée Homme  UMIDIGI Uwatch 2S Smartwatch Femmes 5ATM Etanche Bracelet Connecté Montre Sport Moniteur de Fréquence Cardiaque Compteur de Pas Fitness Tracker pour iPhone et Android'
+slug: 'B08DCVGDJL-fr Montre Connectée Homme UMIDIGI Uwatch 2S Smartwatch Femmes...'
+tags: 
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

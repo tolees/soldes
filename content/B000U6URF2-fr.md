@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PUVsnTjAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000U6URF2-fr Clarks Funny Dream  Derbys Femme  Noir  Black Leather   38 EU'
+slug: 'B000U6URF2-fr Clarks Funny Dream Derbys Femme Noir Black Leather 38 EU'
+tags: 
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

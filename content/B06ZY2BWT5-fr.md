@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xswluIufL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06ZY2BWT5-fr Tommy Hilfiger M2285Axwell 11C1  Baskets Basses Homme  Gris  Midnight   43 EU'
+slug: 'B06ZY2BWT5-fr Tommy Hilfiger M2285Axwell 11C1 Baskets Basses Homme Gris...'
+tags: 
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

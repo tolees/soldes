@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IWficp05L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8ZRTCF-fr Replay M8006 .000.83406 Blouson  Noir  Black 98   Large Homme'
+slug: 'B07L8ZRTCF-fr Replay M8006 .000.83406 Blouson Noir Black 98 Large Homme'
+tags: 
 actualPrice: 80.98 EUR
 currency: EUR
 price: 80.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000BC7QMM-fr D-Link DGS-105 Switch 5 Ports Gigabit Metallique 10/100/1000mbps - Idéal Partage de Connexion et Mise en Réseau Small/Home Office'
+slug: 'B000BC7QMM-fr D-Link DGS-105 Switch 5 Ports Gigabit Metallique...'
+tags: 
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

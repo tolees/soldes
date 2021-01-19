@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51CtuEyN2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZP5Q73F-fr Rolimate Jeu de pêche Magnétique en Bois 4 en 1 Jeux Montessori Jeux Empilés et Jouets trieuse perlée Compétence Motrice Jouets d éveil et 1er âge pour Les Jouets Anniversaire Cadeaux pour 3 4 5+ Ans'
+slug: 'B07ZP5Q73F-fr Rolimate Jeu de pêche Magnétique en Bois 4 en 1 Jeux...'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

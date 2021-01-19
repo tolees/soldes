@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HPnmLJLXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004KZLA8M-fr Puressentiel - Respiratoire - Huiles Essentielles pour Diffusion - Diffuse Respi - 100% pures et naturelles - Aide à respirer librement - 30 ml'
+slug: 'B004KZLA8M-fr Puressentiel - Respiratoire - Huiles Essentielles pour...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

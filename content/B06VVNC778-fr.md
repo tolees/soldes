@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21JwCeBJumL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VVNC778-fr Brabantia - 115301 - Poubelle Touch Bin Unie New  30 L - Noir mat'
+slug: 'B06VVNC778-fr Brabantia - 115301 - Poubelle Touch Bin Unie New 30 L -...'
+tags: 
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

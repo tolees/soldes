@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413Pll-7fCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MDKFB2X-fr Lacoste BJ8097 Blouson  Bleu  Sinople/Marine Dq5   14 Ans  Taille Fabricant:14A  Garçon'
+slug: 'B07MDKFB2X-fr Lacoste BJ8097 Blouson Bleu Sinople/Marine Dq5 14 Ans...'
+tags: 
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MyqJJvokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D7V3H8K-fr GPR EXHAUST SYSTEM GPREB .68.E Pot d échappement homologué catalysée FURORE NERO DUKE 390 2013/16'
+slug: 'B01D7V3H8K-fr GPR EXHAUST SYSTEM GPREB .68.E Pot d échappement homologué...'
+tags: 
 actualPrice: 229.33 EUR
 currency: EUR
 price: 229.33

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31j9S6d40BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RT5YMF5-fr Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra Bass avec micro pour appels téléphoniques  Optimisé pour Google Assistant et Amazon Alexa  Bleu'
+slug: 'B07RT5YMF5-fr Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra...'
+tags: 
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

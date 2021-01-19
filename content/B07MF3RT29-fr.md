@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OmchTJ+6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MF3RT29-fr Hoover H-Free 700 HF722PTLG  Aspirateur balai sans fil multifonction  Titane et Bleu'
+slug: 'B07MF3RT29-fr Hoover H-Free 700 HF722PTLG Aspirateur balai sans fil...'
+tags: 
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FG3i1Uz0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9FK7LB-fr Levi s 501 Original Fit – Jean - Homme - Bleu  Bleu  Sponge   - 32W / 30L'
+slug: 'B07D9FK7LB-fr Levi s 501 Original Fit – Jean - Homme - Bleu Bleu Sponge...'
+tags: 
 actualPrice: 46.3 EUR
 currency: EUR
 price: 46.3

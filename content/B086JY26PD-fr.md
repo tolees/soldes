@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hSIWO7HNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086JY26PD-fr SEELOK Masques de Super-héros à Gratter Scratch Art 24 Feuilles de Papier Spiderman Masque à Gratter Enfants Adulte Femme Cadeaux pour Déguisements Fête d anniversaire Cosplay Dress Up Artisanat'
+slug: 'B086JY26PD-fr SEELOK Masques de Super-héros à Gratter Scratch Art 24...'
+tags: 
 actualPrice: 11.97 EUR
 currency: EUR
 price: 11.97

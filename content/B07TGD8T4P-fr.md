@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4199EVfBJ5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TGD8T4P-fr Brooks Brothers 100134408 Chemise Casual  Blanc  White 115   Large  Taille Fabricant: L-  Homme'
+slug: 'B07TGD8T4P-fr Brooks Brothers 100134408 Chemise Casual Blanc White 115...'
+tags: 
 actualPrice: 46.44 EUR
 currency: EUR
 price: 46.44

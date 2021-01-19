@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Q4+xcRn9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01IL03N0E-fr Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable Sacs  lot de 500 '
+slug: 'B01IL03N0E-fr Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable...'
+tags: 
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

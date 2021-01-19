@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Q+3UqroIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZM9MX9-fr GOAMZ Ustensiles de Cuisine 9 pcs Ustensiles de Cuisine en Silicone en Antiadhésif et Anti-rayures avec un Pot de Rangement Ustensiles de Cuisine en Acier Inoxydable Tous Avoir Set spatule en Silicone'
+slug: 'B07GZM9MX9-fr GOAMZ Ustensiles de Cuisine 9 pcs Ustensiles de Cuisine en...'
+tags: 
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

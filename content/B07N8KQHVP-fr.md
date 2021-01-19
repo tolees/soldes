@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ae2ifSKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8KQHVP-fr Hugo Uptown Bootie55-s  Botines Femme  Noir  Black 001   39 EU'
+slug: 'B07N8KQHVP-fr Hugo Uptown Bootie55-s Botines Femme Noir Black 001 39 EU'
+tags: 
 actualPrice: 259.95 EUR
 currency: EUR
 price: 259.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s6mTQGGHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTYM940-fr B.Catcher Collier en Argent  Zircone cubique  Pendentif Gemini  La fête Des Mères  Pour les fêtes  les anniversaires  les mariages'
+slug: 'B01MTYM940-fr B.Catcher Collier en Argent Zircone cubique Pendentif...'
+tags: 
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

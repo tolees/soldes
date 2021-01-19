@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZaQK5lWEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JZLBNU6-fr BLACK+DECKER PV1820L-QW Aspirateur à Main sans fil-18 V-Autonomie : 10 Min-Charge complète : 4h-Prolongateur intégré et Brosse rétractable  440 milliliters  Chrome'
+slug: 'B00JZLBNU6-fr BLACK+DECKER PV1820L-QW Aspirateur à Main sans fil-18...'
+tags: 
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

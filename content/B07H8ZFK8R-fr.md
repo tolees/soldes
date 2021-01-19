@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8ZFK8R-fr Nero Standard 2019'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

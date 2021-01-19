@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNFH7VG-fr Borsalino [Édition Prestige-Version Restaurée]'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

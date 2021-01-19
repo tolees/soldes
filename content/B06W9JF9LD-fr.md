@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZuTA-BkdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9JF9LD-fr LUDI – Tapis de sol épais pour l’éveil de bébé – 10006 - puzzle géant aux motifs Animaux – dès 10 mois – lot de 9 dalles en mousse multicolores et 44 éléments amovibles pour un tapis de jeu ou parc'
+slug: 'B06W9JF9LD-fr LUDI – Tapis de sol épais pour l’éveil de bébé – 10006 -...'
+tags: 
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

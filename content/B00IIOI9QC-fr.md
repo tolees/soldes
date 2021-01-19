@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414lgnWKjLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IIOI9QC-fr OMRON M6 Comfort Tensiomètre Bras Électronique  Technologie Brassard Intelli Wrap  Mesure fiable dans toutes les positions  Mémoire jusqu à 200 mesures'
+slug: 'B00IIOI9QC-fr OMRON M6 Comfort Tensiomètre Bras Électronique Technologie...'
+tags: 
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

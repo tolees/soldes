@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OX8RyrcYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016DUD3MW-fr Hoover CAN1700R Nettoyeur Vapeur Balai Steam Capsule Brosse Slim rangement compact'
+slug: 'B016DUD3MW-fr Hoover CAN1700R Nettoyeur Vapeur Balai Steam Capsule...'
+tags: 
 actualPrice: 51.08 EUR
 currency: EUR
 price: 51.08

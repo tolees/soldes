@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31b8rsDTfSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGWDHXV-fr Roy Robson 9.6019E+13 Blouson  Bleu  Small  Taille Fabricant:  Homme'
+slug: 'B07NGWDHXV-fr Roy Robson 9.6019E+13 Blouson Bleu Small Taille Fabricant:...'
+tags: 
 actualPrice: 80.19 EUR
 currency: EUR
 price: 80.19

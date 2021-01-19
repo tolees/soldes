@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kj13c50LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085C1WKFW-fr Oacvien Récepteur Bluetooth 5.0 Adaptateur  Émetteur Récepteur Bluetooth 2-en-1Transmetteur Audio Bluetooth Sortie Stéréo RCA & 3.5mm  Faible Latence  pour Casque Voiture/TV/PC/Voiture Système Audio'
+slug: 'B085C1WKFW-fr Oacvien Récepteur Bluetooth 5.0 Adaptateur Émetteur...'
+tags: 
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

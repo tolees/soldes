@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hl+eXaKxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899S3DPR-fr HOMEVER Balance Cuisine HOMEVER15kg/33lb Balance Alimentaire Large Plateforme 6.3 * 0.79in  Balance Cuisine Électronique Précision de 1g/0.1oz  Acier Inoxydable  Écran LCD Rétroéclairé'
+slug: 'B0899S3DPR-fr HOMEVER Balance Cuisine HOMEVER15kg/33lb Balance...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

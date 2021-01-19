@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BL7CDSJ-fr YUCUN 2 5 Pouces SATA III Disque Flash 2To SSD 2TB Interne Solid State Drive Grande Endurance Grande Vitesse jusqu à 550 Mo/s'
+slug: 'B08BL7CDSJ-fr YUCUN 2 5 Pouces SATA III Disque Flash 2To SSD 2TB Interne...'
+tags: 
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

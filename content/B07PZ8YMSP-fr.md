@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iCDiPn9IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZ8YMSP-fr AUBADE  Soutien-gorge push-up coussinet  Bretelles réglables  AU BAL DE FLORE  Blanc  85E  OF18'
+slug: 'B07PZ8YMSP-fr AUBADE Soutien-gorge push-up coussinet Bretelles réglables...'
+tags: 
 actualPrice: 44.22 EUR
 currency: EUR
 price: 44.22

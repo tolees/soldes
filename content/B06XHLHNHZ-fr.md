@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bZxm-r0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XHLHNHZ-fr Team Kalorik Four Rétro 19.5 Litres avec Pince  Plateaux et Grille  0-230°C   1300 W  Métal/Verre  Rouge  TKG OT 2500 R'
+slug: 'B06XHLHNHZ-fr Team Kalorik Four Rétro 19.5 Litres avec Pince Plateaux et...'
+tags: 
 actualPrice: 51.73 EUR
 currency: EUR
 price: 51.73

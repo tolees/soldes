@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417ozdovJEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HQH8XXB-fr Cadisen Montres pour Homme Minimaliste Mode Noir Montres étanche Calendrier Business Casual pour Homme Poignet Montres avec lanière de Cuir'
+slug: 'B07HQH8XXB-fr Cadisen Montres pour Homme Minimaliste Mode Noir Montres...'
+tags: 
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

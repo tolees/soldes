@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5138p4EG7KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003LXUQS4-fr Pradel Excellence - 31123 - Valise Cuisinier 22 Pièces - 15 Ustensiles et 7 Couteaux de Cuisine'
+slug: 'B003LXUQS4-fr Pradel Excellence - 31123 - Valise Cuisinier 22 Pièces -...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

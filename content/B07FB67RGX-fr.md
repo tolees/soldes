@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51qHG-InN5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FB67RGX-fr Chaussures Femmes Sport Trainers Confort Poids Léger Woven Mode Marchant Baskets - Noir3 - Taille 37 CN'
+slug: 'B07FB67RGX-fr Chaussures Femmes Sport Trainers Confort Poids Léger Woven...'
+tags: 
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

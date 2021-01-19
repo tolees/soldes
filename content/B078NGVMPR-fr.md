@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IsQXVhnEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NGVMPR-fr Merrell Siren Edge Q2  Chaussures de Randonnée Basses Femme  Noir  Black Black   37 EU'
+slug: 'B078NGVMPR-fr Merrell Siren Edge Q2 Chaussures de Randonnée Basses Femme...'
+tags: 
 actualPrice: 74.29 EUR
 currency: EUR
 price: 74.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qhHrszj1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0823XYZ9S-fr Britax Römer Siège-auto 9 - 36 kg | ADVANSAFIX Z-LINE | Isofix | Cosmos Black'
+slug: 'B0823XYZ9S-fr Britax Römer Siège-auto 9 - 36 kg | ADVANSAFIX Z-LINE |...'
+tags: 
 actualPrice: 250.99 EUR
 currency: EUR
 price: 250.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ABQM4043L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075V2VYVH-fr Trust Gaming GXT 890 Cada Clavier AZERTY Gamer Mécanique RGB  Interrupteurs Blancs Outemu  Anti Ghosting  Touches Macros Programmables - AZERTY'
+slug: 'B075V2VYVH-fr Trust Gaming GXT 890 Cada Clavier AZERTY Gamer Mécanique...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

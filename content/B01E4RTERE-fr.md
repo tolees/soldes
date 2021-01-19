@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/316o49vjqAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E4RTERE-fr Dsquared2 D Squared Brillengestelle DQ5203 005-54-15-140 Lunettes de Soleil  Marron  Braun   54.0 Femme'
+slug: 'B01E4RTERE-fr Dsquared2 D Squared Brillengestelle DQ5203 005-54-15-140...'
+tags: 
 actualPrice: 78.71 EUR
 currency: EUR
 price: 78.71

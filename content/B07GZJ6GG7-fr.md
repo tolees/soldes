@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zaHJUsA5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZJ6GG7-fr Coolskins Cool008 Chapka  Noir  Negro 08   Taille Unique Mixte'
+slug: 'B07GZJ6GG7-fr Coolskins Cool008 Chapka Noir Negro 08 Taille Unique Mixte'
+tags: 
 actualPrice: 128.52 EUR
 currency: EUR
 price: 128.52

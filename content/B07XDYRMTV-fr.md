@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iJ+f-TqhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDYRMTV-fr Microsoft Surface Laptop 3 – PC Ultra-Portable  écran 15 pouces  processeur AMD Ryzen 5  8Go de RAM  256Go de stockage SSD  – Platine  métal '
+slug: 'B07XDYRMTV-fr Microsoft Surface Laptop 3 – PC Ultra-Portable écran 15...'
+tags: 
 actualPrice: 1399.0 EUR
 currency: EUR
 price: 1399.0

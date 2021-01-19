@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-miVr3-LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01CHVXOIO-fr Moulinex OW220830 Machine à Pain 17 Programmes Plastique Noir/Pourpre 31 x 29 x 29 cm'
+slug: 'B01CHVXOIO-fr Moulinex OW220830 Machine à Pain 17 Programmes Plastique...'
+tags: 
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KtNnzgrCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGZCT94-fr Rowenta Ventilateur sur Pied Mosquito Silence avec Télécommande Silence 4 Vitesses Protection contre les Moustiques VU6410FD'
+slug: 'B07NGZCT94-fr Rowenta Ventilateur sur Pied Mosquito Silence avec...'
+tags: 
 actualPrice: 107.0 EUR
 currency: EUR
 price: 107.0

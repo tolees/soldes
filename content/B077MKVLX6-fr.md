@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417Hszw2UbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MKVLX6-fr PUMA Viz Runner  Chaussures de Running Compétition Homme  Black White  43 EU'
+slug: 'B077MKVLX6-fr PUMA Viz Runner Chaussures de Running Compétition Homme...'
+tags: 
 actualPrice: 48.11 EUR
 currency: EUR
 price: 48.11

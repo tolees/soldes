@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gH+wWHBLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TRXYCN-fr Mixcder E7 Casque Bluetooth à Réduction Active de Bruit Over-Ear Audio Stéréo Écouteurs Circum Auriculaire ANC sans Fil avec Micro Basses Puissantes  Léger  20h de Jeu  pour PC Smartphone TV - Noir'
+slug: 'B077TRXYCN-fr Mixcder E7 Casque Bluetooth à Réduction Active de Bruit...'
+tags: 
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

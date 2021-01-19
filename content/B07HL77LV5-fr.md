@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/313G89ivNwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL77LV5-fr Nautica Competition Short Sport  Rouge Fire Red 6ey  36  Taille Fabricant: Medium  Homme'
+slug: 'B07HL77LV5-fr Nautica Competition Short Sport Rouge Fire Red 6ey 36...'
+tags: 
 actualPrice: 38.07 EUR
 currency: EUR
 price: 38.07

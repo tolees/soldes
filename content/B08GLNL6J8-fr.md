@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PIVGdk7hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GLNL6J8-fr UniqueMe [2 pièces Protection écran pour Xiaomi Mi Note 10 et [3 pièces] Caméra Arrière Protecteur pour Xiaomi Mi Note 10 Caméra  [sans Bulles] TPU Film Protection écran'
+slug: 'B08GLNL6J8-fr UniqueMe [2 pièces Protection écran pour Xiaomi Mi Note 10...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

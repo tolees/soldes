@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ImpEjenLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005MX7I7S-fr Slendertone Short d électrostimulation femme Noir  Taille 34-40  tour de taille: 61-81cm/hanches: 81-97cm '
+slug: 'B005MX7I7S-fr Slendertone Short d électrostimulation femme Noir Taille...'
+tags: 
 actualPrice: 136.0 EUR
 currency: EUR
 price: 136.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31u98L0zJeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PX3QHKT-fr Pop! Figurine en Vinyle: Harry Potter: Harry Potter - Minerva McGonagall  Yule '
+slug: 'B07PX3QHKT-fr Pop! Figurine en Vinyle: Harry Potter: Harry Potter -...'
+tags: 
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

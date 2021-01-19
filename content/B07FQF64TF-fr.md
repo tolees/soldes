@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51e1lDQi6+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FQF64TF-fr MXIN 7 Couleurs LED Photon Therapy faciales Traitement de la lumière beauté Soins beauté Anti vieillissement  Rides  collagène Anti-âge Masque de beauté supprimer la Ligne Fine et rétrécir Les Pores.'
+slug: 'B07FQF64TF-fr MXIN 7 Couleurs LED Photon Therapy faciales Traitement de...'
+tags: 
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

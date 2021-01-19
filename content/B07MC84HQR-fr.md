@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q-rvj-f-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MC84HQR-fr Liu Jo Shoes Asia 06 Sneaker  Sneakers Basses Femme  Blanc  White 01111   40 EU'
+slug: 'B07MC84HQR-fr Liu Jo Shoes Asia 06 Sneaker Sneakers Basses Femme Blanc...'
+tags: 
 actualPrice: 86.19 EUR
 currency: EUR
 price: 86.19

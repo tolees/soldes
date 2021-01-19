@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+OemNaOaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXWP7V3-fr Liebeskind Berlin Round Love Note - Belt BagfemmeSacs bandoulièreBleu  Mood Indigo  4x16x20 centimeters  B x H x T '
+slug: 'B07MXWP7V3-fr Liebeskind Berlin Round Love Note - Belt BagfemmeSacs...'
+tags: 
 actualPrice: 86.29 EUR
 currency: EUR
 price: 86.29

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oh9aGPy3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MPSH43-fr Puma Puma Smash v2  Sneakers Basses mixte adulte - Noir  Puma Black-Puma White-Puma Silver   42 EU'
+slug: 'B077MPSH43-fr Puma Puma Smash v2 Sneakers Basses mixte adulte - Noir...'
+tags: 
 actualPrice: 42.65 EUR
 currency: EUR
 price: 42.65

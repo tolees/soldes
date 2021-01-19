@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fvoz2Ta8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07C54YPZV-fr ABUS 8077 2.0 Bloque-Disque Alarme Moto Homologué SRA  Noir'
+slug: 'B07C54YPZV-fr ABUS 8077 2.0 Bloque-Disque Alarme Moto Homologué SRA Noir'
+tags: 
 actualPrice: 105.76 EUR
 currency: EUR
 price: 105.76

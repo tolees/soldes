@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tZt2f1e1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H8BPMTH-fr Galaxy S9 Film Protection Ecran Verre Trempé  [2 Pièces] [Full Coverage] [Anti Rayures] [Ultra Claire] [Dureté 9H] Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S9'
+slug: 'B08H8BPMTH-fr Galaxy S9 Film Protection Ecran Verre Trempé [2 Pièces]...'
+tags: 
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

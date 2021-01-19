@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QZPT8lr6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3RGV9C-fr NUBWO Casque Gaming PS4 Xbox One Ecouteur de Jeux Stéréo avec Réduction de Bruit et Contrôle en Fil pour PS4/Xbox 1/PC'
+slug: 'B07X3RGV9C-fr NUBWO Casque Gaming PS4 Xbox One Ecouteur de Jeux Stéréo...'
+tags: 
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

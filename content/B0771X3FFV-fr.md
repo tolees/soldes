@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413JRZbJm-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0771X3FFV-fr Columbia XO0662 Short Homme Grill FR : 2XL  Taille Fabricant : W38/L19 '
+slug: 'B0771X3FFV-fr Columbia XO0662 Short Homme Grill FR : 2XL Taille...'
+tags: 
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

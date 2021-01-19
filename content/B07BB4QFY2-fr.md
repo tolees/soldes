@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+ac7blNCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BB4QFY2-fr Marshall Mid Active Noise Cancelling  A.N.C.  Headphones with Bluetooth - Noir'
+slug: 'B07BB4QFY2-fr Marshall Mid Active Noise Cancelling A.N.C. Headphones...'
+tags: 
 actualPrice: 120.41 EUR
 currency: EUR
 price: 120.41

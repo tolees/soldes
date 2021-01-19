@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PLNNPS-fr CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4'
+tags: 
 actualPrice: 38.1 EUR
 currency: EUR
 price: 38.1

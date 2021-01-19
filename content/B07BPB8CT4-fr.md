@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uO-yviaJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPB8CT4-fr Wrangler Slider Jeans Homme  Bleu  Blue Charm 24Z   32W / 34L'
+slug: 'B07BPB8CT4-fr Wrangler Slider Jeans Homme Bleu Blue Charm 24Z 32W / 34L'
+tags: 
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

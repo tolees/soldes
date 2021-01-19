@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009E6JR4G-fr Legrand LEG92727 Tableau Chauffe Eau'
+tags: 
 actualPrice: 137.62 EUR
 currency: EUR
 price: 137.62

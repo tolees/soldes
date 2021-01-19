@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rBq0+SG1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ZML8D0-fr Helly Hansen HH Crew Midlayer Jacket – Veste imperméable et isolante pour homme   Noir L'
+slug: 'B006ZML8D0-fr Helly Hansen HH Crew Midlayer Jacket – Veste imperméable...'
+tags: 
 actualPrice: 55.48 EUR
 currency: EUR
 price: 55.48

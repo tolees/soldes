@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QImcD+fmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JC3HPZT-fr LEGO®-DUPLO® Toy Story™ Le train de Toy Story Jeu de construction  2 Ans et Plus  21 Pièces 10894'
+slug: 'B07JC3HPZT-fr LEGO®-DUPLO® Toy Story™ Le train de Toy Story Jeu de...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

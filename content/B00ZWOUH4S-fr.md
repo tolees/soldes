@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xwa5tyvHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZWOUH4S-fr Logitech G Driving Force Levier de Vitesse pour Volant de Course G29 et G920  6 Vitesses  Enclenchement de la Marche Arrière par Pression  Conception Acier et Cuir  PS4/Xbox One/PC/Mac - Noir'
+slug: 'B00ZWOUH4S-fr Logitech G Driving Force Levier de Vitesse pour Volant de...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

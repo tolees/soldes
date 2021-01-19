@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JX0CYQ6KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084V89DMC-fr Écouteurs sans Fil véritables  GT1 Bluetooth 5.0 Sports HD Contrôle Tactile stéréo avec IPX5 Étanche/Connexion Rapide/Mini boîtier  Seulement 30 g  / Temps de Lecture Total de 12 Heures  Noir '
+slug: 'B084V89DMC-fr Écouteurs sans Fil véritables GT1 Bluetooth 5.0 Sports HD...'
+tags: 
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

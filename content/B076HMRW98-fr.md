@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076HMRW98-fr adidas Core 18 Hoody Sweat-Shirt à Capuche Homme Black/White FR: S  Taille Fabricant: S '
+slug: 'B076HMRW98-fr adidas Core 18 Hoody Sweat-Shirt à Capuche Homme...'
+tags: 
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

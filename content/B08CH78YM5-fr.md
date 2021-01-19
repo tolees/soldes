@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZRPY9k9mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CH78YM5-fr Thermometre Frontal Adulte  KKmier Thermometre sans Contact avec Affichage à LCD  Thermomètre Frontal Infrarouge Bébé Enfant Adulte  Thermometre Infrarouge avec Lecteur Rapide 99 Données Enregistrées'
+slug: 'B08CH78YM5-fr Thermometre Frontal Adulte KKmier Thermometre sans Contact...'
+tags: 
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

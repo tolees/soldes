@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412UF2aiGpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D17JEG4-fr Samsonite Paradiver Light - 15.6 Pouces Sac à Dos pour Ordinateur Portable L+  43 cm  24 L  Jaune  Yellow '
+slug: 'B01D17JEG4-fr Samsonite Paradiver Light - 15.6 Pouces Sac à Dos pour...'
+tags: 
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

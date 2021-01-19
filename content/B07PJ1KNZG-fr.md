@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cESdu4wJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PJ1KNZG-fr Louis Cottier - Montre Supersize Automatique Bracelet Cuir - Boitier Acier 47 mm - HA3401C1BC1'
+slug: 'B07PJ1KNZG-fr Louis Cottier - Montre Supersize Automatique Bracelet Cuir...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41odB5s4NzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081YPWFHC-fr Aschef Ensemble d Ustensiles de Cuisine en Slicone  Lot de 11 Ustensile de Cuisine Pratique et Robuste avce le Rangement  Anti-Adhésive  Kit Ustensile Cuisine Complet avec Spatule  Couleur Bleu'
+slug: 'B081YPWFHC-fr Aschef Ensemble d Ustensiles de Cuisine en Slicone Lot de...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

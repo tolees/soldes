@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yXPmlWqZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JPB6FS-fr Sac à Bandoulière Sac à Dos  JOSEKO Sac à Main en Toile Occasionnel Multifonctionnel de Mode Sac à Dos de Voyage pour Femmes Filles Dames  Grande capacité'
+slug: 'B079JPB6FS-fr Sac à Bandoulière Sac à Dos JOSEKO Sac à Main en Toile...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

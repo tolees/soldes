@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4127kulq7yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K86T2RR-fr Poitiers Basket 86 Maillot Officiel Extérieur 2018-2019 Basketball Mixte Enfant  Bleu  FR : XXS  Taille Fabricant : 12 Ans '
+slug: 'B07K86T2RR-fr Poitiers Basket 86 Maillot Officiel Extérieur 2018-2019...'
+tags: 
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

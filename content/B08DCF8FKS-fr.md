@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51--fMILF6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCF8FKS-fr Bluetooth Headset 5.0 écouteurs sans Fil Bluetooth 3D Stéréo HiFi Microphone intégré écouteurs Bluetooth IPX5 étanche couplage Automatique Compatible avec Samsung/Huawei/iphone/Airpods'
+slug: 'B08DCF8FKS-fr Bluetooth Headset 5.0 écouteurs sans Fil Bluetooth 3D...'
+tags: 
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ok2KL2XyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZF5HBJR-fr Aribest Lot de 2 Films de Protection en Verre trempé pour Nintendo Switch Lite 9H  sans Bulles  Film de Protection d écran Transparent pour Nintendo Switch Lite 2019'
+slug: 'B07ZF5HBJR-fr Aribest Lot de 2 Films de Protection en Verre trempé pour...'
+tags: 
 actualPrice: 10.31 EUR
 currency: EUR
 price: 10.31

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YLNz2-NaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T4KWECE-fr HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne Bagages rigides avec extension  ABS  65 cm  90 L  Bourgogne'
+slug: 'B00T4KWECE-fr HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne...'
+tags: 
 actualPrice: 64.4 EUR
 currency: EUR
 price: 64.4

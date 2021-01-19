@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wgzb47BoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DXT8MLD-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit  écouteurs Sportifs avec IPX7 Écouteurs stéréo étanches dans l oreille Intégré HD Mic Casques pour iPhone/Android/Apple Airpods Pro/Samsung'
+slug: 'B08DXT8MLD-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

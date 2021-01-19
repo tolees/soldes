@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H9jGHus-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNJJW18-fr YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps 8K 4K DP Switch 1.4 Splitter 8 K.'
+slug: 'B08BNJJW18-fr YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

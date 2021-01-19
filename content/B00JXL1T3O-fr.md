@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61ph+vnP0vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JXL1T3O-fr Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis en Gris Pierre / Anthracite  120 X 180 cm'
+slug: 'B00JXL1T3O-fr Safavieh Tapis Moderne Tissé Fibre de Viscose douce Tapis...'
+tags: 
 actualPrice: 98.89 EUR
 currency: EUR
 price: 98.89

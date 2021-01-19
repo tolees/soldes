@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412jsciOLBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CAFOWS4-fr Aigle - Miss Juliette - Botte de pluie - Femme - Bleu  Marine/Rouge  - 40 EU  6.5 UK '
+slug: 'B00CAFOWS4-fr Aigle - Miss Juliette - Botte de pluie - Femme - Bleu...'
+tags: 
 actualPrice: 43.6 EUR
 currency: EUR
 price: 43.6

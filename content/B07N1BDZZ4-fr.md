@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nd54hx7uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1BDZZ4-fr True Religion Cropped Hoody Print Dusty Olive Sweat-Shirt À Capuche  Vert 3501  38  Taille Fabricant: Small  Femme'
+slug: 'B07N1BDZZ4-fr True Religion Cropped Hoody Print Dusty Olive Sweat-Shirt...'
+tags: 
 actualPrice: 138.99 EUR
 currency: EUR
 price: 138.99

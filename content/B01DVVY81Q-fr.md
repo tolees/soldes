@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312Lq6UUdYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DVVY81Q-fr Arlo | Caméra de surveillance 100% Sans Fils  Pack de 4 HD Jour/Nuit Etanche IP65  Intérieur/Extérieur  Fixation Aimantée - Stockage gratuit dans le Cloud  VMS3430 '
+slug: 'B01DVVY81Q-fr Arlo | Caméra de surveillance 100% Sans Fils Pack de 4 HD...'
+tags: 
 actualPrice: 335.95 EUR
 currency: EUR
 price: 335.95

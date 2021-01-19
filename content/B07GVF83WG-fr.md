@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ldhXYonVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GVF83WG-fr Replay Anbass Jean Slim  Noir  Black 7   W34/L32  Taille Fabricant: 34  Homme'
+slug: 'B07GVF83WG-fr Replay Anbass Jean Slim Noir Black 7 W34/L32 Taille...'
+tags: 
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

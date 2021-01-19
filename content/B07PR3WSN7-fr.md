@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41j1G8v5ugL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PR3WSN7-fr Legging anti Cellulite  Pantalon de Sudation  Legging Femmes Taille Haute avec Nanotechnologie pour Tonifier des Cuisses et Obtenir Un Ventre Plat pendant Yoga/Jogging/Pilates/Fitness  XL  Black01 '
+slug: 'B07PR3WSN7-fr Legging anti Cellulite Pantalon de Sudation Legging Femmes...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

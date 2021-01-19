@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nJLuEyyuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EAACFX0-fr Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 + 8 filter'
+slug: 'B01EAACFX0-fr Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 +...'
+tags: 
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B6sYfcKpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULNHS9M-fr Samsonite S Cure - Spinner S Bagage à Main  55 cm  34 L  Argent  Silver '
+slug: 'B00ULNHS9M-fr Samsonite S Cure - Spinner S Bagage à Main 55 cm 34 L...'
+tags: 
 actualPrice: 79.5 EUR
 currency: EUR
 price: 79.5

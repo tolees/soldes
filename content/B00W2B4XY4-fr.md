@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4161smxiOxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W2B4XY4-fr Jabra BIZ™ 2400 II Duo  NOUVELLE GENERATION - Type: 72 UNC  UNC = Ultra-Noise-Cancelling  microphone ultra anti-bruit'
+slug: 'B00W2B4XY4-fr Jabra BIZ™ 2400 II Duo NOUVELLE GENERATION - Type: 72 UNC...'
+tags: 
 actualPrice: 190.48 EUR
 currency: EUR
 price: 190.48

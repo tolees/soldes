@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RX7X6hFPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QN5JX8-fr EasySMX Manette PC/PS3 sans Fil Rechargeable  9110 2.4G Manette PC  Manette PS3 avec Dualshock et Turbo  Compatible pour PC  PS3 et Nintendo Switch  Multicolore'
+slug: 'B089QN5JX8-fr EasySMX Manette PC/PS3 sans Fil Rechargeable 9110 2.4G...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

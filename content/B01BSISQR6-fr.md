@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414q5dA-fcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSISQR6-fr Tots by Smart Rike 240–108 Parure de lit classic  rose de melange'
+slug: 'B01BSISQR6-fr Tots by Smart Rike 240–108 Parure de lit classic rose de...'
+tags: 
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

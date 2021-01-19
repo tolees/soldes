@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BohdHJXdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6QKXFC-fr PROACC Tapis de Jeu pour Piano  Jouet de Tapis de Musique pour Piano pour Enfants  Tapis de Danse drôle de Grande Taille  39 * 14 Pouces  pour bébés  Cadeau garçons et Filles pour Tout-Petits'
+slug: 'B07J6QKXFC-fr PROACC Tapis de Jeu pour Piano Jouet de Tapis de Musique...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

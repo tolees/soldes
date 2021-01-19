@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qmYG05iSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CF4XP9J-fr Highness Pantalon Homme Chino Un incontournable de Tout vestiaire Masculin - A Porter en Toutes circonstances avec des Baskets ou Chaussures en Cuir - Très Confortable-Camel -34 US = 44 FR'
+slug: 'B07CF4XP9J-fr Highness Pantalon Homme Chino Un incontournable de Tout...'
+tags: 
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

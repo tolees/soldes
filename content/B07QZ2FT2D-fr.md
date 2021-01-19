@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cYr8C25iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QZ2FT2D-fr VIEWTEK Micro:bit Mini Smart Robot Car V2.0 for Arduino  No Micro:bit Main Board '
+slug: 'B07QZ2FT2D-fr VIEWTEK Micro:bit Mini Smart Robot Car V2.0 for Arduino No...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

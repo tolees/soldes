@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QocfABwZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BXKMWV2-fr HHUIWIND Coque Xiaomi Redmi Note 9 + Verre Trempé Protection Etui Housse Xiaomi Redmi Note 9 Magnétique Portefeuille Flip Case Cover pour Xiaomi Redmi Note 9 Rouge01'
+slug: 'B08BXKMWV2-fr HHUIWIND Coque Xiaomi Redmi Note 9 + Verre Trempé...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

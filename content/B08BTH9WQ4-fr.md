@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZpiMOdfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BTH9WQ4-fr SGILE RC Voiture Télécommandée - 4WD Stunt Car avec Batterie Rechargeable  Rotation à 360 Degrés Camion Radiocommandée  Voiture Jouet Cadeaux pour Enfants de 6 à 12 Ans  Rouge'
+slug: 'B08BTH9WQ4-fr SGILE RC Voiture Télécommandée - 4WD Stunt Car avec...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

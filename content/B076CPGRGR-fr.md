@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FwLiNes1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CPGRGR-fr BraceTek Cadre Empreintes Bébé  Kit Empreinte Bebe Mains pour Liste de Naissance  Souvenirs mémorable Décorations murale ou pour table  argile et cadres'
+slug: 'B076CPGRGR-fr BraceTek Cadre Empreintes Bébé Kit Empreinte Bebe Mains...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

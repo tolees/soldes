@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+NR0TP3GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFVZB6H-fr Microsoft Surface Laptop 3 – PC Ultra-Portable  écran 13 pouces  Intel Core i5  8Go de RAM  256Go de stockage SSD  – Bleu Cobalt  finition Alcantara '
+slug: 'B07XFVZB6H-fr Microsoft Surface Laptop 3 – PC Ultra-Portable écran 13...'
+tags: 
 actualPrice: 1229.0 EUR
 currency: EUR
 price: 1229.0

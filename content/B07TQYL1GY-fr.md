@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TsFSaIQmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQYL1GY-fr NIMASO Câble USB C vers USB C[Lot de 3:0.3M+1M+2M] Câble USB Type C Charge Rapide PD Nylon Tressé pour iPad Pro 2020/2018 MacBook Pro Samsung Galaxy S20/S10 Note 10 A70  Nintendo Switch Google Pixel'
+slug: 'B07TQYL1GY-fr NIMASO Câble USB C vers USB C[Lot de 3:0.3M+1M+2M] Câble...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

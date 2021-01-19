@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pBCcY492L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8WHN32-fr Replay M1005 .000.573 584 Jean Droit  Bleu  Medium Blue 9   W29/L34  Taille Fabricant: 29  Homme'
+slug: 'B07L8WHN32-fr Replay M1005 .000.573 584 Jean Droit Bleu Medium Blue 9...'
+tags: 
 actualPrice: 80.98 EUR
 currency: EUR
 price: 80.98

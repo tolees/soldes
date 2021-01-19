@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Kgcq2p-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073C7F7HB-fr Fisher-Price Singe 1-2-3 joue avec moi  jouet musical et lumineux avec miroir  pour bébé dès 3 mois  FHF75'
+slug: 'B073C7F7HB-fr Fisher-Price Singe 1-2-3 joue avec moi jouet musical et...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

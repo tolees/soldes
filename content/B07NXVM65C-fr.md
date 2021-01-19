@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MJx82g+PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NXVM65C-fr Hairdorables  Poupée  Serie 2  avec 11 Accessoires Surprises  Cheveux à Coiffer  Modèles Aléatoires  26 poupées à Collectionner  Jouet pour Enfants dès 3 Ans  HAA03'
+slug: 'B07NXVM65C-fr Hairdorables Poupée Serie 2 avec 11 Accessoires Surprises...'
+tags: 
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

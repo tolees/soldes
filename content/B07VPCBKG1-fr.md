@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QbhTih3uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VPCBKG1-fr Spa Luxetique Coffret Cadeau Crème Mains  Cadeau Anniversaire Femme  Hydratant pour Mains Sèches  Crème pour les Mains à l Aloès Naturel et à la Vitamine E  Format Voyage de 6'
+slug: 'B07VPCBKG1-fr Spa Luxetique Coffret Cadeau Crème Mains Cadeau...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

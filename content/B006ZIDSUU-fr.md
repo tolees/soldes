@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DO3x0A19L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ZIDSUU-fr sloggi Basic+ Midi 3P  Culotte Femme  Blanc  Taille 44  Lot de 3'
+slug: 'B006ZIDSUU-fr sloggi Basic+ Midi 3P Culotte Femme Blanc Taille 44 Lot de 3'
+tags: 
 actualPrice: 27.64 EUR
 currency: EUR
 price: 27.64

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319r85I23uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FGQ8NH-fr Lacoste BH1966 Veste  Noir  44 Homme'
+slug: 'B083FGQ8NH-fr Lacoste BH1966 Veste Noir 44 Homme'
+tags: 
 actualPrice: 230.98 EUR
 currency: EUR
 price: 230.98

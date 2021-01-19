@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41UrWgJxe2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TQILY02-fr Moulinex Cookeo Multicuiseur Intelligent 100 Recettes Préprogrammées 6 L Jusqu à 6 personnes 6 Modes de Cuisson  Guide Pas à Pas Facile et Rapide 1200W Blanc CE704110'
+slug: 'B00TQILY02-fr Moulinex Cookeo Multicuiseur Intelligent 100 Recettes...'
+tags: 
 actualPrice: 160.0 EUR
 currency: EUR
 price: 160.0

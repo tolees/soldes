@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-Kp95cbfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSHNVDF-fr Oral-B Genius 10 Midnight Black Brosse À Dents Électrique Par Braun'
+slug: 'B07FSHNVDF-fr Oral-B Genius 10 Midnight Black Brosse À Dents Électrique...'
+tags: 
 actualPrice: 166.03 EUR
 currency: EUR
 price: 166.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31B7ZcmPjKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BKGVHGZ-fr Bosch Unlimited BBS1224 Aspirateur Balai Multifonction sans Fil 2400 W  0 4 L  Blanc'
+slug: 'B07BKGVHGZ-fr Bosch Unlimited BBS1224 Aspirateur Balai Multifonction...'
+tags: 
 actualPrice: 418.0 EUR
 currency: EUR
 price: 418.0

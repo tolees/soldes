@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EHps+Qx-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081NC75NV-fr Android 9.0 TV Box【4G+32G】 Android TV Box H6 Quadcore Cortex-A53 Smart TV Box 3D / 6K Full HD/H.265 / USB3.0 Android Smart TV Box Streaming Media Player'
+slug: 'B081NC75NV-fr Android 9.0 TV Box【4G+32G】 Android TV Box H6 Quadcore...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

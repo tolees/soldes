@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KW0JU5JXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J3C7MKT-fr Under Armour Scrimmage 2.0 Sac à Dos Mixte  Rouge  Taille unique'
+slug: 'B07J3C7MKT-fr Under Armour Scrimmage 2.0 Sac à Dos Mixte Rouge Taille...'
+tags: 
 actualPrice: 17.34 EUR
 currency: EUR
 price: 17.34

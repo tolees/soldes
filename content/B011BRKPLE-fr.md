@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21nVCN5yKdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011BRKPLE-fr HUAWEI Surfstick  Clé USB E3372H-320 LTE  jusqu à 150 Mbit/s  - Noir'
+slug: 'B011BRKPLE-fr HUAWEI Surfstick Clé USB E3372H-320 LTE jusqu à 150 Mbit/s...'
+tags: 
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NwiBpt0dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DLMD7DK-fr Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G '
+slug: 'B01DLMD7DK-fr Sony SEL70300G zoom FE 70-300 mm F4 5-5 6 G'
+tags: 
 actualPrice: 988.79 EUR
 currency: EUR
 price: 988.79

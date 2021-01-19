@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3181tQNB9dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8ZZ8BP-fr Replay New Luz Jean Skinny  Bleu  Dark Blue 007   L30  Taille Fabricant: 24  Femme'
+slug: 'B07L8ZZ8BP-fr Replay New Luz Jean Skinny Bleu Dark Blue 007 L30 Taille...'
+tags: 
 actualPrice: 41.23 EUR
 currency: EUR
 price: 41.23

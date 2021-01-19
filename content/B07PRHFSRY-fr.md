@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dIlPWwTnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PRHFSRY-fr Manette filaire PowerA Pokémon pour Nintendo Switch - Charmander Blaze'
+slug: 'B07PRHFSRY-fr Manette filaire PowerA Pokémon pour Nintendo Switch -...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

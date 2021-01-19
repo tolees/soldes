@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41TTbKNIsjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0892GVF5B-fr Zamkol Enceinte Bluetooth Protable  30 W Enceinte sans Fil  Bluetooth 5.0  10-15 Heures  Qualité Sonore EQ  IPX6 Waterproof pour IntéRieur Et ExtéRieur'
+slug: 'B0892GVF5B-fr Zamkol Enceinte Bluetooth Protable 30 W Enceinte sans Fil...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

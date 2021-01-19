@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fKm7g71xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0184CKS8O-fr ABUS EC-SNP 30/50 Cylindre Débrayable pour Portes Extérieures/Entrées d appartement  Nickelé Mat  30/50 mm'
+slug: 'B0184CKS8O-fr ABUS EC-SNP 30/50 Cylindre Débrayable pour Portes...'
+tags: 
 actualPrice: 49.15 EUR
 currency: EUR
 price: 49.15

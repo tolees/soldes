@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KAf0GVLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFWGKZ4-fr Logitech G513 Clavier Gaming Mécanique avec Repose-Poignets  Eclairage RVB Lightsync  Switchs GX Blue  Alliage Aluminium 5052  Personnalisable  Relais USB  Clavier Anglais QWERTY - Noir'
+slug: 'B07DFWGKZ4-fr Logitech G513 Clavier Gaming Mécanique avec Repose-...'
+tags: 
 actualPrice: 146.43 EUR
 currency: EUR
 price: 146.43

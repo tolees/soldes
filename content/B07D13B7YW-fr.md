@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514dIphPsvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D13B7YW-fr Romanticist 28Pcs Kit d accessoires pour Barbecue à Griller - Accessoires de Barbecue en Acier Inoxydable pour Le Camping en Plein Air Barbecue - Cadeau d anniversaire Idéal pour Papa'
+slug: 'B07D13B7YW-fr Romanticist 28Pcs Kit d accessoires pour Barbecue à...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

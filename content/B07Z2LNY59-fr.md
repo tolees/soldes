@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512tcv64YdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z2LNY59-fr Enceinte Bluetooth Portable  Zamkol Bluetooth 5.0 Enceinte sans Fil  10 Heures De Lecture  Son à 360 Degrés  Basses Améliorées X 30W  IPX6 étanche  Haut-Parleur TWS pour Les Voyages Et Fête'
+slug: 'B07Z2LNY59-fr Enceinte Bluetooth Portable Zamkol Bluetooth 5.0 Enceinte...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4106Kh1V-+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WT4TMQ-fr Morph Gonflable Costume  Homme  MCROIUN  Monter sur Licorne Adultes  Taille Unique'
+slug: 'B078WT4TMQ-fr Morph Gonflable Costume Homme MCROIUN Monter sur Licorne...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

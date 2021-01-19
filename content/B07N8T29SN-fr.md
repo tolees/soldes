@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/418SKOgwSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8T29SN-fr Tommy Hilfiger Essential Computer Bag  Sacs pour ordinateur portable homme  Noir  Black  '
+slug: 'B07N8T29SN-fr Tommy Hilfiger Essential Computer Bag Sacs pour ordinateur...'
+tags: 
 actualPrice: 100.91 EUR
 currency: EUR
 price: 100.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513DzLcRQJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XBPRM1-fr Fruitman stylo multifonction idee cadeau homme original gadget high tech de coffret cadeau pour papa ou femme idée personnalisé rigolo cadeau insolite homme bricolage outillage pour accessoire'
+slug: 'B077XBPRM1-fr Fruitman stylo multifonction idee cadeau homme original...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

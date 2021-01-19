@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZhMuMBLzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S3NNK5-fr GORE Wear C5 Homme Veste de cyclisme GORE-TEX  S  Noir/Rouge'
+slug: 'B075S3NNK5-fr GORE Wear C5 Homme Veste de cyclisme GORE-TEX S Noir/Rouge'
+tags: 
 actualPrice: 162.94 EUR
 currency: EUR
 price: 162.94

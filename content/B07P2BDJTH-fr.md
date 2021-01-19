@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41GmU3AhZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P2BDJTH-fr Superdry Sphere Padded Ultimate Blouson  Noir  Worn Black UIG   XS  Taille Fabricant:8  Femme'
+slug: 'B07P2BDJTH-fr Superdry Sphere Padded Ultimate Blouson Noir Worn Black...'
+tags: 
 actualPrice: 65.57 EUR
 currency: EUR
 price: 65.57

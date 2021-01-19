@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZsMvzNlPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQJ34H7-fr Roccat Kain 202 Aimo Wireless Souris Gaming RGB  Nouveau capteur Optique Owl-Eye 16.000 dpi  Technologie Titan Click  Blanche ROC-11-615-BK'
+slug: 'B07YQJ34H7-fr Roccat Kain 202 Aimo Wireless Souris Gaming RGB Nouveau...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

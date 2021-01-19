@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/517bTyEBVkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KLXFBFE-fr Remington Fer à lisser  Lisseur  Glide Céramique  Glisse Facile  Température Constante et Ciblée - S9100 Proluxe'
+slug: 'B01KLXFBFE-fr Remington Fer à lisser Lisseur Glide Céramique Glisse...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

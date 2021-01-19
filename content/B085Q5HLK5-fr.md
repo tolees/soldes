@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ysFNO99lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085Q5HLK5-fr ORICO M200 3D NAND SSD Hard Solid Drive - mSATA - SATA III - 6Gbps-512Go Interne Solid State Drive for Desktop Laptop'
+slug: 'B085Q5HLK5-fr ORICO M200 3D NAND SSD Hard Solid Drive - mSATA - SATA III...'
+tags: 
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416lS32ZSOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083WYD99J-fr HONOR MagicWatch 2 42 mm - Montre Connectée - Moniteur de Fréquence Cardiaque et de Stress – GPS Intégré – 4Go de Mémoire Interne - Noir'
+slug: 'B083WYD99J-fr HONOR MagicWatch 2 42 mm - Montre Connectée - Moniteur de...'
+tags: 
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

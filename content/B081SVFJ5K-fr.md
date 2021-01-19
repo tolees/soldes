@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nIlXVh6pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081SVFJ5K-fr Telephone Portable 4G  Blackview A80 Pro  2020  Smartphone Débloqué 64Go +4Go Ecran 6 49 Pouces  Double Nano SIM  4680 mAh  13MP/ 8MP Quatre Caméra  Android 9.0  Fingerprint  Bleu'
+slug: 'B081SVFJ5K-fr Telephone Portable 4G Blackview A80 Pro 2020 Smartphone...'
+tags: 
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: '33.47 % rabais sur Samsung EHS64 3 5 mm écouteurs Intra-Aur'
-date: 2021-01-17 13:04:09
+date: 2021-01-19 13:38:06
 image: 'https://m.media-amazon.com/images/I/41d71fUe-eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GSPGJCE-fr'
+slug: 'B00GSPGJCE-fr Samsung EHS64 3 5 mm écouteurs Intra-Auriculaires avec...'
+tags: 
 actualPrice: 3.32 EUR
 currency: EUR
 price: 3.32

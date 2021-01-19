@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41EZj+ouNpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1J5CN3-fr Icebreaker Victory LS Zip Veste Homme Jet HTHR FR : M  Taille Fabricant : M '
+slug: 'B07W1J5CN3-fr Icebreaker Victory LS Zip Veste Homme Jet HTHR FR : M...'
+tags: 
 actualPrice: 64.68 EUR
 currency: EUR
 price: 64.68

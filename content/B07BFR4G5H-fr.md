@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41zwB-jpLQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BFR4G5H-fr The Bellies - Poupon Interactive Pinky-Twink  Famosa 700014563   Multicouleur'
+slug: 'B07BFR4G5H-fr The Bellies - Poupon Interactive Pinky-Twink Famosa...'
+tags: 
 actualPrice: 21.54 EUR
 currency: EUR
 price: 21.54

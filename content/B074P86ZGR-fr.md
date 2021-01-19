@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41euzorABUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074P86ZGR-fr Crosscall Shark-X3 Téléphone portable débloqué 3G+  Ecran: 2 4 pouces - 64 Go ROM - Single SIM  Noir'
+slug: 'B074P86ZGR-fr Crosscall Shark-X3 Téléphone portable débloqué 3G+ Ecran:...'
+tags: 
 actualPrice: 58.5 EUR
 currency: EUR
 price: 58.5

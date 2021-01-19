@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21+uwWbLchL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0149QBQE4-fr Corsair MM200 Tapis de Souris Gaming  Extended  Tissu  Noir'
+slug: 'B0149QBQE4-fr Corsair MM200 Tapis de Souris Gaming Extended Tissu Noir'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

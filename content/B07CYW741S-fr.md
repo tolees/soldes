@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pzEbffs3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CYW741S-fr Razer Huntsman-Clavier Gaming Mécanique avec Touche Opto-Mécanique Razer Nouvelle Touche Opto-Mécanique Barre d Assise de Touche  Mémoire Hybride Intégrée  RGB Chroma Eclairage & AZERTY-Layout '
+slug: 'B07CYW741S-fr Razer Huntsman-Clavier Gaming Mécanique avec Touche Opto-...'
+tags: 
 actualPrice: 120.22 EUR
 currency: EUR
 price: 120.22

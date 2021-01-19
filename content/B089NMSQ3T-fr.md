@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Xqed8Kg5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NMSQ3T-fr bakibo Écouteurs sans Fil Bluetooth 5.1  Stéréo Sport Casque avec Mic Auto Appariement TWS IPX7 Oreillette avec 800 mAh LCD Étui De Charge Portable  40 Heure de Fonctionnement  Contrôle Tactile'
+slug: 'B089NMSQ3T-fr bakibo Écouteurs sans Fil Bluetooth 5.1 Stéréo Sport...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

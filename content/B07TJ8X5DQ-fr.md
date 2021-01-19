@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DET9saYaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TJ8X5DQ-fr FM London Fitted Boxer Shorty  Multicolore  Classic Mix 10   Small  Lot de 8  Homme'
+slug: 'B07TJ8X5DQ-fr FM London Fitted Boxer Shorty Multicolore Classic Mix 10...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

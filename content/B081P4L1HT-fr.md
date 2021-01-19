@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MM3xAvOUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081P4L1HT-fr Nike PSG M NK BRT STAD JSY SS 4R T-Shirt Homme  Black/ White   Full Sponsor   FR  Taille Fabricant : XS '
+slug: 'B081P4L1HT-fr Nike PSG M NK BRT STAD JSY SS 4R T-Shirt Homme Black/...'
+tags: 
 actualPrice: 46.71 EUR
 currency: EUR
 price: 46.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31LbH5bX+tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N24NBHX-fr Kaporal - Blouson avec Capuche & Fausse Fourrure Amovibles - Babel - Garçon - 14A - Noir'
+slug: 'B07N24NBHX-fr Kaporal - Blouson avec Capuche & Fausse Fourrure Amovibles...'
+tags: 
 actualPrice: 44.78 EUR
 currency: EUR
 price: 44.78

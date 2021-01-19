@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41SGg88mXbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A0OVN48-fr Sorel Bottes d Hiver pour Femmes  1964 Pac 2  Gris  Coal   Taille : 36 1/2'
+slug: 'B00A0OVN48-fr Sorel Bottes d Hiver pour Femmes 1964 Pac 2 Gris Coal...'
+tags: 
 actualPrice: 62.07 EUR
 currency: EUR
 price: 62.07

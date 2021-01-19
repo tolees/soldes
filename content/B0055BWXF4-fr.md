@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fymv7cP5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0055BWXF4-fr Fossil Homme Chronographe Quartz Montre avec Bracelet en Cuir FS4656'
+slug: 'B0055BWXF4-fr Fossil Homme Chronographe Quartz Montre avec Bracelet en...'
+tags: 
 actualPrice: 86.13 EUR
 currency: EUR
 price: 86.13

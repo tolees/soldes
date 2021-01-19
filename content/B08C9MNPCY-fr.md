@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41C-HgbrMwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9MNPCY-fr ZIYOULANG Souris de jeu filaire 69G en nid d abeille légère avec 6400 DPI  6 boutons de souris de jeu USB programmable pour les joueurs PC  Xbox et PS4 Blanc'
+slug: 'B08C9MNPCY-fr ZIYOULANG Souris de jeu filaire 69G en nid d abeille...'
+tags: 
 actualPrice: 24.76 EUR
 currency: EUR
 price: 24.76

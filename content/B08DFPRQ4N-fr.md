@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wKfqLUCSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFPRQ4N-fr jpantech Montre Connectée Smartwatch Femmes Homme Montre Sport Podometre Cardio Frequencemètre Chronomètres  Bracelet Connecté Etanche 50 Mètres  Montre Tactile pour Android iOS Téléphone Noir '
+slug: 'B08DFPRQ4N-fr jpantech Montre Connectée Smartwatch Femmes Homme Montre...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

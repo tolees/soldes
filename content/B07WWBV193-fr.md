@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51oM6x9MOsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWBV193-fr Bouteille d eau en Acier Inoxydable Isotherme Bouteille Réutilisable Gourde Inox sans BPA isolé à Double Paroi Gourde Isotherme 500/750/1000ml - Froides Pendant 24heures  Chaudes Pendant 12 Heures'
+slug: 'B07WWBV193-fr Bouteille d eau en Acier Inoxydable Isotherme Bouteille...'
+tags: 
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

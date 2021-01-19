@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416UF63DkpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMP217G-fr Marque Amazon – Goodthreads Pantalon cargo extensible vintage à coupe athlétique et confortable pour homme  camouflage  30W x 28L'
+slug: 'B07JMP217G-fr Marque Amazon – Goodthreads Pantalon cargo extensible...'
+tags: 
 actualPrice: 16.22 EUR
 currency: EUR
 price: 16.22

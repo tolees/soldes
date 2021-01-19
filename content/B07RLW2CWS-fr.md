@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y3UjoAwFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLW2CWS-fr bugatti 313625533500  Bottes & Bottines Classiques Homme  Noir  Schwarz 1000   44 EU'
+slug: 'B07RLW2CWS-fr bugatti 313625533500 Bottes & Bottines Classiques Homme...'
+tags: 
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

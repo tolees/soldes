@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-CRorhvgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KQQBLXG-fr Diesel ODERZO  Sac à dos Homme Noir  Black  5x22x18 cm  W x H x L '
+slug: 'B07KQQBLXG-fr Diesel ODERZO Sac à dos Homme Noir Black 5x22x18 cm W x H x L'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

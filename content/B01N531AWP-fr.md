@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419q0dwXTbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N531AWP-fr Fleximounts A04 Support Mural TV Ultra Pivotant et Inclinable pour Les écrans Plats de 32"-65"  81cm-165cm  LED  LCD  HD 4K Plasma'
+slug: 'B01N531AWP-fr Fleximounts A04 Support Mural TV Ultra Pivotant et...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

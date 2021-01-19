@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412jXfMiGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RLNHT6-fr GXGPOW Wireless Controller for PC PS3 Android  Bluetooth Gamepad Joystick with Dual Motors Vibration Compatible for Windows 7/8/10  Android Smartphone and Sony Playstation 3'
+slug: 'B087RLNHT6-fr GXGPOW Wireless Controller for PC PS3 Android Bluetooth...'
+tags: 
 actualPrice: 31.58 EUR
 currency: EUR
 price: 31.58

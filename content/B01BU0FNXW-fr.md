@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ougiJfvIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BU0FNXW-fr DeWalt DCF887NT - TOOLSELECT Visseuse à chocs 3 vitesses 18V XR Chargeur/batterie non inclus Mallette TSTAK incluse'
+slug: 'B01BU0FNXW-fr DeWalt DCF887NT - TOOLSELECT Visseuse à chocs 3 vitesses...'
+tags: 
 actualPrice: 119.87 EUR
 currency: EUR
 price: 119.87

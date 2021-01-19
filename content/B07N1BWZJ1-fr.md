@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uOQVOFCNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1BWZJ1-fr Legero Novara  Bottes de Neige femme - Noir  Schwarz  Schwarz  00   38 EU  5 UK '
+slug: 'B07N1BWZJ1-fr Legero Novara Bottes de Neige femme - Noir Schwarz Schwarz...'
+tags: 
 actualPrice: 116.68 EUR
 currency: EUR
 price: 116.68

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QnQF0JwBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZJHBF4-fr PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Femmes  Gris  Caribou 381   41 EU'
+slug: 'B07MZJHBF4-fr PLDM by Palladium Caramba SUD Bottes & Bottines Souples...'
+tags: 
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

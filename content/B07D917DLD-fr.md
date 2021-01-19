@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PU0jrLiEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D917DLD-fr Curvy Kate Sheer Class Maillot Une Pièce  Noir  Black Black   105E  Taille Fabricant: 40DD  Femme'
+slug: 'B07D917DLD-fr Curvy Kate Sheer Class Maillot Une Pièce Noir Black Black...'
+tags: 
 actualPrice: 59.74 EUR
 currency: EUR
 price: 59.74

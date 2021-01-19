@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZUPte4bWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LB9G8PS-fr Love Moschino Portafogli Quilted Nappa Pu  Portefeuilles femme  Ecru  Avorio   3x10x19 cm  W x H L '
+slug: 'B07LB9G8PS-fr Love Moschino Portafogli Quilted Nappa Pu Portefeuilles...'
+tags: 
 actualPrice: 93.71 EUR
 currency: EUR
 price: 93.71

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wVxt2DlYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TC41LKP-fr Cressi Apnea Wetsuit - Combinaisons de Plongée complètes pour Apnée/Chasse Sous-marine  Néoprène souple'
+slug: 'B07TC41LKP-fr Cressi Apnea Wetsuit - Combinaisons de Plongée complètes...'
+tags: 
 actualPrice: 154.63 EUR
 currency: EUR
 price: 154.63

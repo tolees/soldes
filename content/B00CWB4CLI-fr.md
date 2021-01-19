@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CWB4CLI-fr Vans Atwood Total  Baskets Basses Homme  Noir  Canvas Black/Black   38.5 EU'
+slug: 'B00CWB4CLI-fr Vans Atwood Total Baskets Basses Homme Noir Canvas...'
+tags: 
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

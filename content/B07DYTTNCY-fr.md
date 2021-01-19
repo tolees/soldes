@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ajXJT7aRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DYTTNCY-fr Columbia Homme Veste d Hiver  Marquam Peak Jacket  Polyester  Rouge  Red Spark   Taille S  1798922'
+slug: 'B07DYTTNCY-fr Columbia Homme Veste d Hiver Marquam Peak Jacket Polyester...'
+tags: 
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

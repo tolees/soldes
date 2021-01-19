@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31TJ-efuRAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDN8FH6-fr Brooks Brothers Ni Oxford Solid Milano Chemise Casual  Bleu  Blue Blue   Large  Taille Fabricant: L-  Homme'
+slug: 'B07NDN8FH6-fr Brooks Brothers Ni Oxford Solid Milano Chemise Casual Bleu...'
+tags: 
 actualPrice: 71.21 EUR
 currency: EUR
 price: 71.21

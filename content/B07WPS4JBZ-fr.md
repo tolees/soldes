@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417-RpBF4nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WPS4JBZ-fr Recepteur Bluetooth Jack DUTISON récepteur Bluetooth Voiture pour Voiture / Camion sans Fonction Bluetooth;avec 3.5mm emetteur Bluetooth AUX & USB transmetteur Bluetooth Voiture  45 cm  Plug & Play '
+slug: 'B07WPS4JBZ-fr Recepteur Bluetooth Jack DUTISON récepteur Bluetooth...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

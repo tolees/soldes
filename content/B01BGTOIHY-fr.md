@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GeKzySh1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTOIHY-fr G-Star Bronson Slim Chino Pantalon  Bleu  Mazarine Blue 5126-4213   32W / 30L Homme'
+slug: 'B01BGTOIHY-fr G-Star Bronson Slim Chino Pantalon Bleu Mazarine Blue...'
+tags: 
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XsfK833UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DW47HCA-fr Tommy Hilfiger - New Chiara Str Pq Polo SSPolo - Femme - Blanc  100 Classic White  - FR : 36  Taille fabricant : S '
+slug: 'B00DW47HCA-fr Tommy Hilfiger - New Chiara Str Pq Polo SSPolo - Femme -...'
+tags: 
 actualPrice: 50.52 EUR
 currency: EUR
 price: 50.52

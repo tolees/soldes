@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FXux8T3EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z6CNGF1-fr Manettes pour Switch/Switch Lite  Manette sans Fil pour Nintendo Switch  6 Axes Manette Pro Switch de Jeu avec Bluetooth/Turbo/Double Moteur pour Switch Pro  Switch Lite et PC'
+slug: 'B07Z6CNGF1-fr Manettes pour Switch/Switch Lite Manette sans Fil pour...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

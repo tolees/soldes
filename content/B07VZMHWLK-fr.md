@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417p8jjL4cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZMHWLK-fr Vernee M7 Telephone Portable Débloqués  4Go + 64Go Dual SIM 4G Smartphone Android 9.0  MTK6761 Quad-Core 13MP/8MP 3 Caméra arrière 6.1" Écran Batterie 3500mAh Mobile - Visage ID+Empreinte Digitale'
+slug: 'B07VZMHWLK-fr Vernee M7 Telephone Portable Débloqués 4Go + 64Go Dual SIM...'
+tags: 
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

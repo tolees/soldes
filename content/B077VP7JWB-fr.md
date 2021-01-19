@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31r1WLpJwJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VP7JWB-fr BaByliss Paris - C1500E - Boucleur automatique Curl Secret Digital Sensor'
+slug: 'B077VP7JWB-fr BaByliss Paris - C1500E - Boucleur automatique Curl Secret...'
+tags: 
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

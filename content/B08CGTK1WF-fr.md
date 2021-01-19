@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nFx7qSheL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CGTK1WF-fr NIUDINNG Meches Body Wave Lot 3 Tissage Bresilienne Ondule Longue Extension Tissage Cheveux Humain Ondule Soft Hair Bundels 300g Pour Femme 24 26 28 Pouces'
+slug: 'B08CGTK1WF-fr NIUDINNG Meches Body Wave Lot 3 Tissage Bresilienne Ondule...'
+tags: 
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WYSvwlVAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W46KROM-fr Sony DSCWX500B Appareils Photo Numérique  Capteur CMOS Exmor R  18.2 Mpix  Zoom Optique 30x  Stabilisation 5 axes  Noir'
+slug: 'B00W46KROM-fr Sony DSCWX500B Appareils Photo Numérique Capteur CMOS...'
+tags: 
 actualPrice: 256.99 EUR
 currency: EUR
 price: 256.99

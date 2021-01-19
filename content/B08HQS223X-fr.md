@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RVffG4cnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HQS223X-fr Coque Xiaomi Note 10  Double Couche Renforcée Défense Bumper  Coque de Protection Robuste Anti-Choc avec Béquille pour Xiaomi Note 10/note10 Pro/Note 10 Lite/CC9 Pro  Rouge '
+slug: 'B08HQS223X-fr Coque Xiaomi Note 10 Double Couche Renforcée Défense...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

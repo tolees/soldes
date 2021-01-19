@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ten9xVAwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071N9PJMW-fr Louis Villiers Mixte Adulte Analogique Quartz Montre avec Bracelet en Acier Inoxydable LV1013'
+slug: 'B071N9PJMW-fr Louis Villiers Mixte Adulte Analogique Quartz Montre avec...'
+tags: 
 actualPrice: 65.56 EUR
 currency: EUR
 price: 65.56

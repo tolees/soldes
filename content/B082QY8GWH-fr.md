@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Fu-gysZpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082QY8GWH-fr Moniteur de Fréquence Cardiaque  Traqueur de Forme Physique de Montre de Smart Watch IP67 Imperméable et Compteur-BL14'
+slug: 'B082QY8GWH-fr Moniteur de Fréquence Cardiaque Traqueur de Forme Physique...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

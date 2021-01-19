@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413odfWNXGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0812GM4NL-fr Asics Gel-Nimbus 22 Lite-Show  Running Shoe Womens  Sheet Rock/Sheet Rock  40 EU'
+slug: 'B0812GM4NL-fr Asics Gel-Nimbus 22 Lite-Show Running Shoe Womens Sheet...'
+tags: 
 actualPrice: 131.5 EUR
 currency: EUR
 price: 131.5

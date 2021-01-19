@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gwoiqHR4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00940JHII-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Femme - Vert  Kaki - 37 EU  4 UK '
+slug: 'B00940JHII-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Femme - Vert...'
+tags: 
 actualPrice: 95.2 EUR
 currency: EUR
 price: 95.2

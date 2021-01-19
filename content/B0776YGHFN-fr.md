@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41x2Vfq5UQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0776YGHFN-fr OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche IP65 - Zigbee - Compatible Android & Amazon Alexa [Classe énergétique A+]'
+slug: 'B0776YGHFN-fr OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche...'
+tags: 
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

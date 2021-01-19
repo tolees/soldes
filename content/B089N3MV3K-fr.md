@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uGn4pdj-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089N3MV3K-fr Toozey Jouet Chien à Macher pour Grands Chiens Mâcheurs agressifs Indestructibles - Jouets pour Chiens Chiot Petits Chiens Moyens - Saveur de bœuf en Caoutchouc Naturel Non Toxique'
+slug: 'B089N3MV3K-fr Toozey Jouet Chien à Macher pour Grands Chiens Mâcheurs...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

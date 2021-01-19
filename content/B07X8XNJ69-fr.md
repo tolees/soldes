@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yCfhA6nxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X8XNJ69-fr iBaby-Fish Nettoyeur de Dents d animal familier  retirez Le calcul Dentaire  3 têtes Propres  avec la lumière de LED  Facile à enlever Le tartre de Chien à la Maison ou à la Clinique'
+slug: 'B07X8XNJ69-fr iBaby-Fish Nettoyeur de Dents d animal familier retirez Le...'
+tags: 
 actualPrice: 96.0 EUR
 currency: EUR
 price: 96.0

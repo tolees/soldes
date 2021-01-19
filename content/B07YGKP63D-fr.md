@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21yOaKxDPQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGKP63D-fr Joseph Joseph 30091 Totem Pop 60L Unité de tri sélectif des déchets-Pierre  60 L'
+slug: 'B07YGKP63D-fr Joseph Joseph 30091 Totem Pop 60L Unité de tri sélectif...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

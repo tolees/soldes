@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Lv9Cs5fSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK3KB9R-fr Corsair HS35 Casque de Gaming Stéréo  Écouteurs Néodyme de 50 mm  Microphone Unidirectionnel Amovible  Conception Légère avec PC  Xbox One  PS4  Nintendo Switch et Mobiles Compatibilité  - Carbone'
+slug: 'B07SK3KB9R-fr Corsair HS35 Casque de Gaming Stéréo Écouteurs Néodyme de...'
+tags: 
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

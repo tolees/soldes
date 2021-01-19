@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41z+0rMY9LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W88MPQD-fr Orfeld Aspirateur Balai Sans Fil  18000Pa 2 en 1 Aspirateur Puissant  Autonomie 50 min  Batterie Amovible  2 Vitesses Modurable  Silencieux et Ultraléger  Bleu  Bleu '
+slug: 'B07W88MPQD-fr Orfeld Aspirateur Balai Sans Fil 18000Pa 2 en 1 Aspirateur...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

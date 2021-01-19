@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tRmV27zyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F39H6PW-fr El Naturalista Wakatiwai  Sandales Bout Ouvert Femme  Jaune  Curry Mixed Curry Mixed   39 EU'
+slug: 'B07F39H6PW-fr El Naturalista Wakatiwai Sandales Bout Ouvert Femme Jaune...'
+tags: 
 actualPrice: 55.26 EUR
 currency: EUR
 price: 55.26

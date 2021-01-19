@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51lqBLT4ocL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D3LJCYS-fr Samyang SAM24TSSONY Objectif 24 mm  F3.5 pour Sony Noir'
+slug: 'B00D3LJCYS-fr Samyang SAM24TSSONY Objectif 24 mm F3.5 pour Sony Noir'
+tags: 
 actualPrice: 609.99 EUR
 currency: EUR
 price: 609.99

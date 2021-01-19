@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wWMmhbE1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015OH9KF4-fr Filofax 115023 Carnet de note A4 avec feuille repositionnable Rouge'
+slug: 'B015OH9KF4-fr Filofax 115023 Carnet de note A4 avec feuille...'
+tags: 
 actualPrice: 19.65 EUR
 currency: EUR
 price: 19.65

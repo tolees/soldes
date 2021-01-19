@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qCIOc0moL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015G1ERYW-fr DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil  Bleu  Blau   53.0 Homme'
+slug: 'B015G1ERYW-fr DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil...'
+tags: 
 actualPrice: 49.91 EUR
 currency: EUR
 price: 49.91

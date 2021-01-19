@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Mdv4N3JkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM9DKY4-fr Abody Sèche-Cheveux 2200W Ionique  Sèche Cheveux Salon Professionnel avec 2 Vitesses et 3 Températures ÉquiperBouton D’air Froid  Inclus Diffuseur et Concentreur D’air Chaud'
+slug: 'B07PM9DKY4-fr Abody Sèche-Cheveux 2200W Ionique Sèche Cheveux Salon...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OqDZDpB7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IN8OPTI-fr Dsquared2 D Squared Brillengestelle DQ5122 071-55-16-140 Lunettes de soleil  Marron  Braun   55.0 Homme'
+slug: 'B00IN8OPTI-fr Dsquared2 D Squared Brillengestelle DQ5122 071-55-16-140...'
+tags: 
 actualPrice: 77.21 EUR
 currency: EUR
 price: 77.21

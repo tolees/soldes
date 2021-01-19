@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wUtK7kVbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFDH6MD-fr Huawei Watch GT 2 Montre Connectée  GPS  Boîtier 46 mm   Écran AMOLED 1 39 pouces avec Écran en Verre 3D  Autonomie de 2 Semaines  GPS  15 Modes Sportifs  Smartwatch de Bluetooth  Marron Pebble'
+slug: 'B07XFDH6MD-fr Huawei Watch GT 2 Montre Connectée GPS Boîtier 46 mm Écran...'
+tags: 
 actualPrice: 167.98 EUR
 currency: EUR
 price: 167.98

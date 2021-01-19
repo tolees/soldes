@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31amEdyn8IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E0L5QRC-fr GROSFILLEX Vega Table  Taupe  118 x 77 x 72 cm'
+slug: 'B00E0L5QRC-fr GROSFILLEX Vega Table Taupe 118 x 77 x 72 cm'
+tags: 
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

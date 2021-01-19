@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vo8HE3cKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MKS74R7-fr Le Tanneur femme Adele Sac bandouliere Rose  Poudre '
+slug: 'B07MKS74R7-fr Le Tanneur femme Adele Sac bandouliere Rose Poudre'
+tags: 
 actualPrice: 117.12 EUR
 currency: EUR
 price: 117.12

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319zShstfXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R5NCDMY-fr Razer Seiren X Mercury Microphone à Condensateur Pour eux Vidéo - Amortisseur de Chocs Intégré - Microphone Streaming de Qualité Professionnelle'
+slug: 'B07R5NCDMY-fr Razer Seiren X Mercury Microphone à Condensateur Pour eux...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

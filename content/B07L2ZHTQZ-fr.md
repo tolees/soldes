@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mxI2gZTIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L2ZHTQZ-fr Chemise Femme Manche Longue Basic Casual - éLéGant Bureau Tunique Femme Mode Tee Top Haut Blouse  EU36  Blanc '
+slug: 'B07L2ZHTQZ-fr Chemise Femme Manche Longue Basic Casual - éLéGant Bureau...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

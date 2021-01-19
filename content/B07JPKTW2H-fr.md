@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417PvUXXrmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPKTW2H-fr Amazon Essentials Half-Zip Active Jacket Outerwear  Rose  Large'
+slug: 'B07JPKTW2H-fr Amazon Essentials Half-Zip Active Jacket Outerwear Rose Large'
+tags: 
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

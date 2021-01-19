@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qpTANUULL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F9B5QMT-fr Superdry ORANGE Label Vintage EMB Tee T-Shirt pour Homme  Blanc  Weiß  optic white  26C   X-Large'
+slug: 'B07F9B5QMT-fr Superdry ORANGE Label Vintage EMB Tee T-Shirt pour Homme...'
+tags: 
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

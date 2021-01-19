@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41fxeGnE0TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSRF6ZK-fr Philips HD6564/61 Machine à café à Dosettes SENSEO Viva Café Duo Select Noir Scintillant'
+slug: 'B07FSRF6ZK-fr Philips HD6564/61 Machine à café à Dosettes SENSEO Viva...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

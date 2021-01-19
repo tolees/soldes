@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000WGVMOU-fr Staedtler Mars Comfort 552 Compass Rapide'
+tags: 
 actualPrice: 21.93 EUR
 currency: EUR
 price: 21.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZUXvYu8TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F1XML6B-fr Écouteurs Bluetooth 5.0 Écouteur sans Fil avec réduction de Bruit  écouteurs Sportifs avec IPX5 Écouteurs 3D stéréo étanches dans l oreille Intégré HD Mic Casques  pour Android Samsung/iPhone/Airpods'
+slug: 'B08F1XML6B-fr Écouteurs Bluetooth 5.0 Écouteur sans Fil avec réduction...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

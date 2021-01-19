@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51owKAdZmHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CSBBJZ5-fr REDSTORM Manettes pour Nintendo Switch/Switch Lite  Manette sans Fil pour Nintendo Switch  6 Axes Manette Pro Switch de Jeu avec Bluetooth/Turbo/Double Moteur pour Switch Pro et Switch Lite'
+slug: 'B08CSBBJZ5-fr REDSTORM Manettes pour Nintendo Switch/Switch Lite Manette...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

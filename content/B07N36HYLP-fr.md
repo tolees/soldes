@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wGicwDbfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N36HYLP-fr BRAX Golf Julius Veste de Sport  Bleu  Blau 25   X-Large Homme'
+slug: 'B07N36HYLP-fr BRAX Golf Julius Veste de Sport Bleu Blau 25 X-Large Homme'
+tags: 
 actualPrice: 56.4 EUR
 currency: EUR
 price: 56.4

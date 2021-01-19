@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51EGtUN2rZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC7G3QM-fr LK Verre Trempé pour Xiaomi Mi 10 Lite Protection écran [3 Pièces] [2.5D/9H Dureté] [Haute Définition - sans Bulles] Film de Protection d écran pour Xiaomi Mi 10 Lite'
+slug: 'B08FC7G3QM-fr LK Verre Trempé pour Xiaomi Mi 10 Lite Protection écran [3...'
+tags: 
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31n4V87V2GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019H6MPAA-fr Belkin - Power Rockstar - Batterie Externe Premium 10000 mAh pour Smartphones et Tablettes avec Câbles micro-USB & Lightning - 15 cm - Gris  Compatible iPhone 7/7+  8/8+ et iPhone X - Certifié MFi '
+slug: 'B019H6MPAA-fr Belkin - Power Rockstar - Batterie Externe Premium 10000...'
+tags: 
 actualPrice: 32.97 EUR
 currency: EUR
 price: 32.97

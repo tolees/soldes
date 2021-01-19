@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DxCej0ixL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002VGS33C-fr Optima Red Top Rt S 4.2 Batterie Démarrage Sprial Cell  12V 50Ah 815 Amps  En '
+slug: 'B002VGS33C-fr Optima Red Top Rt S 4.2 Batterie Démarrage Sprial Cell 12V...'
+tags: 
 actualPrice: 130.11 EUR
 currency: EUR
 price: 130.11

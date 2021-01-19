@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51YxAziGT+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9YG42C-fr Arkmiido Chevalet Enfants Tableau Ardoise Double Face Tableau Blanc et Noir Chevalet Peinture en Bois avec Accessoires Jouet Educatif Cadeau pour Garçons et Filles'
+slug: 'B07Q9YG42C-fr Arkmiido Chevalet Enfants Tableau Ardoise Double Face...'
+tags: 
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

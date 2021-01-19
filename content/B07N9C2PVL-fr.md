@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RFBBxC6IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9C2PVL-fr JBL LIVE 400BT – Casque Audio Supra-Auriculaire Sans Fil – Écouteurs Bluetooth avec Commande pour Appels – avec Amazon Alexa Intégrée – Autonomie jusqu à 24 Heures – Bluetooth  Bleu'
+slug: 'B07N9C2PVL-fr JBL LIVE 400BT – Casque Audio Supra-Auriculaire Sans Fil –...'
+tags: 
 actualPrice: 78.89 EUR
 currency: EUR
 price: 78.89

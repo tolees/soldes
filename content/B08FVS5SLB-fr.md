@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d8E6G065L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FVS5SLB-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit Bluetooth 5.0 écouteurs Sportifs avec IPX7 Écouteurs stéréo étanches dans l oreille Intégré HD Mic Casques  avec étui de Chargement Portable'
+slug: 'B08FVS5SLB-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
+tags: 
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

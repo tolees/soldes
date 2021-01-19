@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318wiLobOcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKD8N3N-fr LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox Tous feux dont induction  anses et poignés vendues séparemment '
+slug: 'B07JKD8N3N-fr LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox...'
+tags: 
 actualPrice: 46.3 EUR
 currency: EUR
 price: 46.3

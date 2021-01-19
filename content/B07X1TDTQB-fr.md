@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31DoVwhLukL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1TDTQB-fr Sony WI-XB400 Écouteurs Intra-Auriculaires sans Fil Extra Bass – Noir'
+slug: 'B07X1TDTQB-fr Sony WI-XB400 Écouteurs Intra-Auriculaires sans Fil Extra...'
+tags: 
 actualPrice: 46.97 EUR
 currency: EUR
 price: 46.97

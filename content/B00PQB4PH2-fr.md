@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QM0nvza+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PQB4PH2-fr Safavieh Tapis Intérieur et Extérieur  Tissé Polypropylène Tapis en Gris Clair / Ivoire  120 X 180 cm'
+slug: 'B00PQB4PH2-fr Safavieh Tapis Intérieur et Extérieur Tissé Polypropylène...'
+tags: 
 actualPrice: 71.21 EUR
 currency: EUR
 price: 71.21

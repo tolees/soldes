@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ILCKMMVDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DT67LD-fr TV Box Android 10.0  QPLOVE Q8 TV Box 【4G+128G】 Android  RK3318 Quad-Core 64bit Cortex-A53/ Wi-FI 2.4G/5Ghz LAN 100M  4K Boitier Android TV'
+slug: 'B083DT67LD-fr TV Box Android 10.0 QPLOVE Q8 TV Box 【4G+128G】 Android...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

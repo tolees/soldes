@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D64P2YK-fr Disque Dur Externe 1 to USB 3.0 pour PC  Mac  MacBook  Xbox One 1To Bleu '
+slug: 'B08D64P2YK-fr Disque Dur Externe 1 to USB 3.0 pour PC Mac MacBook Xbox...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

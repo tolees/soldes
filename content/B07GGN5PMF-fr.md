@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/515YXxe9PsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GGN5PMF-fr PHYLES Tapis Dessin Enfant  Tapis Doodle Matte 87*57cm  Aqua Tapis de Dessin 6 Couleurs Loisir Créatif - Jouets Éducatifs pour Enfants  la Norme  87*57cm  '
+slug: 'B07GGN5PMF-fr PHYLES Tapis Dessin Enfant Tapis Doodle Matte 87*57cm Aqua...'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

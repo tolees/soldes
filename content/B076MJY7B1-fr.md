@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nY9fl8o9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076MJY7B1-fr Fisher-Price Puppy Eveil Progressif jouet bébé  peluche interactive  plus de 50 chansons et 3 niveaux d apprentissage  version française  6 mois et plus  FPM44'
+slug: 'B076MJY7B1-fr Fisher-Price Puppy Eveil Progressif jouet bébé peluche...'
+tags: 
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

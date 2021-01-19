@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+P-koJyML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FL5JJNX-fr Superdry Crater Padded Jacket Veste de Sport  Noir  Black 02a   Large Homme'
+slug: 'B07FL5JJNX-fr Superdry Crater Padded Jacket Veste de Sport Noir Black...'
+tags: 
 actualPrice: 67.91 EUR
 currency: EUR
 price: 67.91

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51yQS0FmRfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794XQK5S-fr Echo Plus  2ème génération   Son de qualité premium avec un hub maison connectée intégré  Tissu anthracite'
+slug: 'B0794XQK5S-fr Echo Plus 2ème génération Son de qualité premium avec un...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cw9ylPb8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009SIVAL8-fr Samsonite S Cure - Spinner S Bagage à Main  55 cm  34 L  Blue  Aqua Blue '
+slug: 'B009SIVAL8-fr Samsonite S Cure - Spinner S Bagage à Main 55 cm 34 L Blue...'
+tags: 
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

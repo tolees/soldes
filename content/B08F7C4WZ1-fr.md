@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51b2Ef0NcUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7C4WZ1-fr REDSTORM Casque Gaming pour PS4 Nintendo Switch  Casque Gamer Filaire Militaire Anti-Bruit avec Micro et Lumières LED pour PC  Xbox One X/S  PC – Camouflage'
+slug: 'B08F7C4WZ1-fr REDSTORM Casque Gaming pour PS4 Nintendo Switch Casque...'
+tags: 
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

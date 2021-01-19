@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31o1-zNdmjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MV9L4ZJ-fr Lacoste TH6709 T-Shirt Homme  Bleu  Marine 166   S'
+slug: 'B01MV9L4ZJ-fr Lacoste TH6709 T-Shirt Homme Bleu Marine 166 S'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

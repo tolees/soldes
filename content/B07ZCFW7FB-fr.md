@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCFW7FB-fr YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD 480GB Interne Solid State Drive'
+slug: 'B07ZCFW7FB-fr YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD...'
+tags: 
 actualPrice: 44.32 EUR
 currency: EUR
 price: 44.32

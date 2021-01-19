@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nDFRxKrXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZF5N9M-fr Enchantimals Mini-poupée Tamika Grenouille et Figurine Animale Burst  aux cheveux bleus avec jupe à motifs en tissu  jouet enfant  GFN43'
+slug: 'B07MZF5N9M-fr Enchantimals Mini-poupée Tamika Grenouille et Figurine...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

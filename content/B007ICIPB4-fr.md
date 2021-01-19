@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31slBtk0DHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007ICIPB4-fr Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable Insert perceuse'
+slug: 'B007ICIPB4-fr Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable...'
+tags: 
 actualPrice: 63.08 EUR
 currency: EUR
 price: 63.08

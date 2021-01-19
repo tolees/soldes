@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RaU7e6NJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N9JD7YB-fr Samsonite Valise  115776/1408  gris  Gris  - 115776/1408'
+slug: 'B07N9JD7YB-fr Samsonite Valise 115776/1408 gris Gris - 115776/1408'
+tags: 
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

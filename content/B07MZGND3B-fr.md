@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rGE04EG+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZGND3B-fr PLDM by Palladium Ranch SUD  Bottes & Bottines Souples Femmes  Gris  Caribou 381   40 EU'
+slug: 'B07MZGND3B-fr PLDM by Palladium Ranch SUD Bottes & Bottines Souples...'
+tags: 
 actualPrice: 57.36 EUR
 currency: EUR
 price: 57.36

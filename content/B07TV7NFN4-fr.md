@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aejabSkdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV7NFN4-fr Levi s 501 Crop Jean Droit  Blanc  in The Clouds 0032   W23/L26 Femme'
+slug: 'B07TV7NFN4-fr Levi s 501 Crop Jean Droit Blanc in The Clouds 0032...'
+tags: 
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

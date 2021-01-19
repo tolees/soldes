@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RLWGQIy1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FHSQQCX-fr USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10  8  8.1  7 Transmetteur Récepteur Bluetooth 5.0 Plug & Play pour Casque  PC  Smartphone  Tablette'
+slug: 'B08FHSQQCX-fr USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10 8...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

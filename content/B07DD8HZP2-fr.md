@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41J0N7aQ-6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD8HZP2-fr Spirit  Coffret Spirit Deluxe avec Poupée et Accessoires  une poupée Lucky 29 cm  Nombreux Accessoires  Jouet pour Enfants dès 3 Ans  PRT03'
+slug: 'B07DD8HZP2-fr Spirit Coffret Spirit Deluxe avec Poupée et Accessoires...'
+tags: 
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

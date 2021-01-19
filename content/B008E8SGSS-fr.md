@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008E8SGSS-fr Lacoste - Polo - L1230-00 - Sport - Homme - Noir  Noir  - X-Large  FR: 6 '
+slug: 'B008E8SGSS-fr Lacoste - Polo - L1230-00 - Sport - Homme - Noir Noir -...'
+tags: 
 actualPrice: 46.85 EUR
 currency: EUR
 price: 46.85

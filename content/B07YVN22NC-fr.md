@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41aeTjo3wEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YVN22NC-fr Philips Hue White & Color Ambiance Spot Fugato x2 Noir Compatible Bluetooth  Fonctionne avec Alexa'
+slug: 'B07YVN22NC-fr Philips Hue White & Color Ambiance Spot Fugato x2 Noir...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

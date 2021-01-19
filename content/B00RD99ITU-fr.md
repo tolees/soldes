@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31RQxWZR3SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RD99ITU-fr Crocs Crocband  Sabots Mixte Adulte  Rose  Pearl Pink/Wild Orchid   39/40 EU'
+slug: 'B00RD99ITU-fr Crocs Crocband Sabots Mixte Adulte Rose Pearl Pink/Wild...'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

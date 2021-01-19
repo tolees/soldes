@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qDJsd5eBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSW666H-fr Hommes Mode Sneakers Confort Respirant Doux Maille De Sports De Plein Air Chaussures De Marche Rouge 39 EU'
+slug: 'B07GSW666H-fr Hommes Mode Sneakers Confort Respirant Doux Maille De...'
+tags: 
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

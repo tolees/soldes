@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512LTJ6cSJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQBGR62-fr JOYXEON Pneu Plein Compatible avec Xiaomi M365  Cellulaire Absorption des Chocs  Anti-Dérapant  8 5 Pouces Pneu de Rechange Solide  8 1/2X2 pour Avant/Arrière de Pneu+ Kit de démonte-pneus  270mm '
+slug: 'B07XQBGR62-fr JOYXEON Pneu Plein Compatible avec Xiaomi M365 Cellulaire...'
+tags: 
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

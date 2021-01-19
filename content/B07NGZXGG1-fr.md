@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jh5ez8VtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGZXGG1-fr Strellson S.C. Clifton  Blouson Homme  Grün  Green 318   Medium  taille du fabricant: 48 '
+slug: 'B07NGZXGG1-fr Strellson S.C. Clifton Blouson Homme Grün Green 318 Medium...'
+tags: 
 actualPrice: 99.02 EUR
 currency: EUR
 price: 99.02

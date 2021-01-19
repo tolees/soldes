@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-pWDSI5KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J8AO4L8-fr Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec Bracelet en Plastique GA-100L-2AER'
+slug: 'B01J8AO4L8-fr Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec...'
+tags: 
 actualPrice: 56.5 EUR
 currency: EUR
 price: 56.5

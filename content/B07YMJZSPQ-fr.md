@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jPvGvDOhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMJZSPQ-fr Chie Mihara Edit  Sandales Bride Cheville Femmes  Or  Dias Gold Ante Negro Ante Cloud Dias Gold Ante Negro Ante Cloud   39 EU'
+slug: 'B07YMJZSPQ-fr Chie Mihara Edit Sandales Bride Cheville Femmes Or Dias...'
+tags: 
 actualPrice: 120.7 EUR
 currency: EUR
 price: 120.7

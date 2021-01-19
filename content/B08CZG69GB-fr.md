@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z4w2ns7HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZG69GB-fr Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Argent '
+slug: 'B08CZG69GB-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD pour PC...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

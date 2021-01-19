@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41+4IKPy8WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSRJ11J-fr HP 27fwa – moniteur de 27 " FHD  enceintes intégrés .1920 X 1080. 5 MS. HDMI. IPS avec rétroéclairage LED. 16 : 9  Blanc neige'
+slug: 'B07MSRJ11J-fr HP 27fwa – moniteur de 27 " FHD enceintes intégrés .1920 X...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YtDbIK9oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N14HG6J-fr Skechers Go Run Steady  Baskets Femme  Noir Black Textile/Hot Pink Trim Bkhp   38 EU'
+slug: 'B07N14HG6J-fr Skechers Go Run Steady Baskets Femme Noir Black...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

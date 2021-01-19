@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mgsnY4w0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHY7M8P-fr Jabra Elite Active 65 t Écouteurs de Sport Bluetooth à Isolation Passive du Bruit avec Capteur de Mouvement pour le Suivi - Sans Fil - Bleu Cuivre'
+slug: 'B07BHY7M8P-fr Jabra Elite Active 65 t Écouteurs de Sport Bluetooth à...'
+tags: 
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

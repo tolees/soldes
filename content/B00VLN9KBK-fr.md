@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLN9KBK-fr Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC H215-HM DRESS BLUES GRAPHIC H215-HM 36.3   Medium'
+slug: 'B00VLN9KBK-fr Levi s GRAPHIC SET-IN NECK T-Shirt Homme Bleu C18977...'
+tags: 
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

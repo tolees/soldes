@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dndfM6dTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D63F6FQ-fr Disque Dur Externe 2 to  Disque Dur Externe Portable pour PC  Mac  MacBook  Xbox One  2To Rouge '
+slug: 'B08D63F6FQ-fr Disque Dur Externe 2 to Disque Dur Externe Portable pour...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

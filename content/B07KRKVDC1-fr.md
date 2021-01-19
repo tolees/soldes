@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FeEIbUkXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRKVDC1-fr Art 1253 Becerro Creta  Sandales Bout Ouvert Femme  Marron  Cuero Cuero   37 EU'
+slug: 'B07KRKVDC1-fr Art 1253 Becerro Creta Sandales Bout Ouvert Femme Marron...'
+tags: 
 actualPrice: 46.68 EUR
 currency: EUR
 price: 46.68

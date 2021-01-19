@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QoJ2rX6JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LGBFGZS-fr Nike WMNS Air Zoom Pegasus 36 Trail  Chaussure de Course Femme  Gris  Oil Grey/Barely Grey-Black-Wolf Grey 2   41 EU'
+slug: 'B07LGBFGZS-fr Nike WMNS Air Zoom Pegasus 36 Trail Chaussure de Course...'
+tags: 
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

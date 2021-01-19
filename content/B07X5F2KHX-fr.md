@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41AdAMm+JoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X5F2KHX-fr Moulinex Multicuiseur Intelligent Cookeo+ 6L 6 Modes de Cuisson 150 Recettes Préprogrammées Jusqu à 6 Personnes Blanc CE851110'
+slug: 'B07X5F2KHX-fr Moulinex Multicuiseur Intelligent Cookeo+ 6L 6 Modes de...'
+tags: 
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

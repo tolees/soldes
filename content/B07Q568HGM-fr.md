@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410g+9C5RpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q568HGM-fr Alex Perry Cadeau boucle d oreille femme argent idee cadeau femme original bijoux femme swarovski bijoux femme bijoux pas cher cadeau maman cadeau rigolo idee cadeau ado fille'
+slug: 'B07Q568HGM-fr Alex Perry Cadeau boucle d oreille femme argent idee...'
+tags: 
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

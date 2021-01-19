@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41lrk95iZ8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H3QFDKJ-fr AUBADE  Soutien-gorge Push-Up  Coussinets Amovibles  FIEVRE DE GLACE  Blanc  Taille 90B  NC18 OPAL'
+slug: 'B07H3QFDKJ-fr AUBADE Soutien-gorge Push-Up Coussinets Amovibles FIEVRE...'
+tags: 
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

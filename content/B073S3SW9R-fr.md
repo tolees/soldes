@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31a4o4AEGZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073S3SW9R-fr Déshumidificateur Electrique Aidodo d air Deshumidificateurs Absorbeurs d Humidite 900ml Réservoir d eau Mini Portable Dehumidifier pour la Maison  Salle de Bains  Chambre  Bureau  Placard  Cuisine'
+slug: 'B073S3SW9R-fr Déshumidificateur Electrique Aidodo d air...'
+tags: 
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yCPa+plYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015Z7XE0A-fr NONDA - USB-C/USB Mini-Adaptateur pour MacBooks | Samsung | Chromebook | OnePlus2 | USB 3.0 | Transfert de Données Rapide | Accessoires pour Ordinateur Portable | Aluminium - Métallique - Gris'
+slug: 'B015Z7XE0A-fr NONDA - USB-C/USB Mini-Adaptateur pour MacBooks | Samsung...'
+tags: 
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

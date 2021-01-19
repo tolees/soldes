@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B3DPhOZ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082PMVLWQ-fr OfficeWorld 603 XL Multipack Cartouche d encre compatible pour Epson 603 603XL avec Epson Expression Home XP-2100 XP-2105 XP-3100 XP-3105 XP-4100 XP-4105 Workforce WF-2810DWF WF-2830DWF WF-2850DWF'
+slug: 'B082PMVLWQ-fr OfficeWorld 603 XL Multipack Cartouche d encre compatible...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

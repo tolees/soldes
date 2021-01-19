@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514Ujz1FObL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NBIC3HS-fr Lacoste Homme Analogique Classique Quartz Montres bracelet avec bracelet en Cuir - 2010888'
+slug: 'B01NBIC3HS-fr Lacoste Homme Analogique Classique Quartz Montres bracelet...'
+tags: 
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

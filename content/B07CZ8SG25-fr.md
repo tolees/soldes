@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FgPf4ouzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ8SG25-fr Under Armour UA Qualifier Storm Packable Jacket Veste Homme  Bleu  S'
+slug: 'B07CZ8SG25-fr Under Armour UA Qualifier Storm Packable Jacket Veste...'
+tags: 
 actualPrice: 29.75 EUR
 currency: EUR
 price: 29.75

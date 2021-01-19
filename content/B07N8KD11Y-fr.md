@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31JQL-xR9jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8KD11Y-fr Hugo Atom Runn neoem  Sneakers Basses Homme  Bleu  Navy 401   39 EU'
+slug: 'B07N8KD11Y-fr Hugo Atom Runn neoem Sneakers Basses Homme Bleu Navy 401...'
+tags: 
 actualPrice: 115.95 EUR
 currency: EUR
 price: 115.95

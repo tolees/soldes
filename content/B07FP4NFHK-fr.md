@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xOA3kH0dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP4NFHK-fr Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme  Bleu  Obsidian/White 451   FR : L  Taille Fabricant : L '
+slug: 'B07FP4NFHK-fr Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme Bleu...'
+tags: 
 actualPrice: 54.47 EUR
 currency: EUR
 price: 54.47

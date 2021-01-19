@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ct+0ZOqwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2VCS5D-fr KRUPS - YY4127FD - Machine expresso Nespresso - PIXIE TITANE- Cafetière à dosettes - Machine à café - Cafetière expresso'
+slug: 'B07N2VCS5D-fr KRUPS - YY4127FD - Machine expresso Nespresso - PIXIE...'
+tags: 
 actualPrice: 100.0 EUR
 currency: EUR
 price: 100.0

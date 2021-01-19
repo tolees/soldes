@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51C3VJPtNqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084VJ5NRY-fr Enceinte Bluetooth Portable  20W Haut-Parleur Bluetooth Enceinte Portable sans Fil  Pilote Double  Basses Puissantes  Mains Libres  24 Heures Playtime  5200mAh Charge pour Votre Téléphone'
+slug: 'B084VJ5NRY-fr Enceinte Bluetooth Portable 20W Haut-Parleur Bluetooth...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

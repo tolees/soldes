@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PYPUPlm+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TSJNZLV-fr Only Onlally Boucle Wool Coat CC OTW Manteau  Rouge  Merlot Detail: Melange   S Femme'
+slug: 'B07TSJNZLV-fr Only Onlally Boucle Wool Coat CC OTW Manteau Rouge Merlot...'
+tags: 
 actualPrice: 59.58 EUR
 currency: EUR
 price: 59.58

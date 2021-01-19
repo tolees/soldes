@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wYhMjXARL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008CBSNB2-fr Triumph TRI-Action Fitness F Soutien-Gorge de Sport  Blanc  85A Femme'
+slug: 'B008CBSNB2-fr Triumph TRI-Action Fitness F Soutien-Gorge de Sport Blanc...'
+tags: 
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

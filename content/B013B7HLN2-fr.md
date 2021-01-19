@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xtixgwnyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013B7HLN2-fr Moulinex DJ812510 Découpe Légumes Électrique Fresh Express Max 5 en 1 Râper Fin Épais Trancher Gratter Fromage Mandoline Légumes Fruits Glace Pilée 260W Rouge'
+slug: 'B013B7HLN2-fr Moulinex DJ812510 Découpe Légumes Électrique Fresh Express...'
+tags: 
 actualPrice: 61.12 EUR
 currency: EUR
 price: 61.12

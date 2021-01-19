@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+AGl9P1IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08726HHHW-fr Montre Connectée Intelligente Femmes Homme Enfant Smartwatch Etanche Bracelet Connecté Podometre Cardio fréquencemètre et Ecouteur Bluetooth Sport pour iPhone/Samsung/Huawei  Bleu '
+slug: 'B08726HHHW-fr Montre Connectée Intelligente Femmes Homme Enfant...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

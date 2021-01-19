@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fKrAbBXhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5ZTKYL-fr MOONESS Coque Xiaomi Redmi Note 9s + Verre Trempé Housse en Cuir Xiaomi Redmi Note 9s/Note 9 Pro Magnetique Flip Case Portefeuille Etui pour Xiaomi Redmi Note 9s/Note 9 Pro Cover Marron'
+slug: 'B08B5ZTKYL-fr MOONESS Coque Xiaomi Redmi Note 9s + Verre Trempé Housse...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

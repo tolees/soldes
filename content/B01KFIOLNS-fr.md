@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hcLetHG7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KFIOLNS-fr Songmics Chaise Gamer Fauteuil de Bureau Racing Sport avec Support Lombaire et Coussin Noir RCG001  Polyester  86x65x35 CM'
+slug: 'B01KFIOLNS-fr Songmics Chaise Gamer Fauteuil de Bureau Racing Sport avec...'
+tags: 
 actualPrice: 152.0 EUR
 currency: EUR
 price: 152.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uym8K+29L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089W3HQ3P-fr ELUTENG Ventilateur 120mm DC Puissant et Silencieux Double Ventilateurs 120 mm 12V 1A 3 Vitesses Réglables avec Contrôleur 12CM Cooling Fan pour PC Ordinateur Xbox One Playstation PS4 PS3  Noir'
+slug: 'B089W3HQ3P-fr ELUTENG Ventilateur 120mm DC Puissant et Silencieux Double...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

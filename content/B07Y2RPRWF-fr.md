@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mCHFflpzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2RPRWF-fr Montre Connectée Femmes Montre Intelligente Homme IP68Etanche Bracelet Connecté Cardio Podometre Smartwatch Sport Fitness Tracker d Activité Contrôle de la Musique pour Android iPhone  Noir '
+slug: 'B07Y2RPRWF-fr Montre Connectée Femmes Montre Intelligente Homme...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

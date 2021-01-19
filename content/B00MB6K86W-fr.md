@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41n7PTAhNAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MB6K86W-fr Russell Hobbs 21480-56 Blender Chauffant 1 75L 2en1 Programmable Soup and Blend  8 Programmes Préréglés Soupe  Smoothie  Sauce  etc'
+slug: 'B00MB6K86W-fr Russell Hobbs 21480-56 Blender Chauffant 1 75L 2en1...'
+tags: 
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DKgrPFZSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0105WQL1Y-fr Lagrange 429002 Pâtes Créativ  Blanc 30 x 16 x 35 cm'
+slug: 'B0105WQL1Y-fr Lagrange 429002 Pâtes Créativ Blanc 30 x 16 x 35 cm'
+tags: 
 actualPrice: 170.99 EUR
 currency: EUR
 price: 170.99

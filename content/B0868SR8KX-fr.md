@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QiLHyxYSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0868SR8KX-fr DishyKooker M65 RC Drone avec Caméra 4K HD FPV WiFi Altitude Hold Pliable Réglable RC Quadcopter Selife Drone RC Avion pour Adultes Débutants Jouets'
+slug: 'B0868SR8KX-fr DishyKooker M65 RC Drone avec Caméra 4K HD FPV WiFi...'
+tags: 
 actualPrice: 42.69 EUR
 currency: EUR
 price: 42.69

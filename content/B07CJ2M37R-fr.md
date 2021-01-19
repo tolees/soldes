@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vUwGN+P7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CJ2M37R-fr El Naturalista Rice Field  Bottes Classiques Femme  Marron  Wood Wood   40 EU'
+slug: 'B07CJ2M37R-fr El Naturalista Rice Field Bottes Classiques Femme Marron...'
+tags: 
 actualPrice: 61.54 EUR
 currency: EUR
 price: 61.54

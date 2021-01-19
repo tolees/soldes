@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FEX5t40LL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GG2VNW9-fr SteelSeries Arctis 5 - Casque de Jeu à Éclairage RVB - Son Surround DTS Headphone:X v2.0 pour PC et PlayStation 4 - Noir'
+slug: 'B07GG2VNW9-fr SteelSeries Arctis 5 - Casque de Jeu à Éclairage RVB - Son...'
+tags: 
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

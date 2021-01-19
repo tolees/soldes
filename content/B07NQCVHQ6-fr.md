@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sgzXkWcJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQCVHQ6-fr Echo Dot  3ème génération   Enceinte connectée avec horloge et Alexa  Tissu sable'
+slug: 'B07NQCVHQ6-fr Echo Dot 3ème génération Enceinte connectée avec horloge...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

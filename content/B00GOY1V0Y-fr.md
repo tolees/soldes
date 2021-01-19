@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41g5a7pfqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GOY1V0Y-fr Singleton of dufftown Réserve Collection Trinité avec emballage cadeau Whisky  1 x 1 l '
+slug: 'B00GOY1V0Y-fr Singleton of dufftown Réserve Collection Trinité avec...'
+tags: 
 actualPrice: 45.92 EUR
 currency: EUR
 price: 45.92

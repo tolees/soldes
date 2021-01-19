@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Vbr-6Ya0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085T1QW6K-fr QITAYO Verre Trempé pour Xiaomi Mi 10 / Xiaomi Mi 10 Pro  Kit Installation Offert  3D Couverture complète  Verre Rrempé écran Protecteur pour Xiaomi Mi 10 / Mi 10 Pro [2 Pièces]'
+slug: 'B085T1QW6K-fr QITAYO Verre Trempé pour Xiaomi Mi 10 / Xiaomi Mi 10 Pro...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

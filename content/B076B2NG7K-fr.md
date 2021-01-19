@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QfvTfmMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076B2NG7K-fr Hugo Boss Homme Analogique Classique Quartz Montre avec Bracelet en Acier Inoxydable 1513542'
+slug: 'B076B2NG7K-fr Hugo Boss Homme Analogique Classique Quartz Montre avec...'
+tags: 
 actualPrice: 199.2 EUR
 currency: EUR
 price: 199.2

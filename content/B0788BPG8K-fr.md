@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41djkmDeFrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0788BPG8K-fr Hoopzi - Hang 5 - Suspension Luminaire Avec Cache Douille Acier - Lustre Araignée pour Salon  Chambre  Cuisine - 4 Mètres - 5 Douilles E27-4 Couleurs - Fil Electrique en Tissu - Métal'
+slug: 'B0788BPG8K-fr Hoopzi - Hang 5 - Suspension Luminaire Avec Cache Douille...'
+tags: 
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

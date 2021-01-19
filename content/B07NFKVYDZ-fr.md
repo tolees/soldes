@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dzAPtmCLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFKVYDZ-fr Kipling LICIA Cartable  49 cm  20 liters  Multicolore  Hearty Pink Met '
+slug: 'B07NFKVYDZ-fr Kipling LICIA Cartable 49 cm 20 liters Multicolore Hearty...'
+tags: 
 actualPrice: 91.51 EUR
 currency: EUR
 price: 91.51

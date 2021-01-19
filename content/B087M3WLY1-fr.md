@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VggpYD94L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087M3WLY1-fr ERUW LCD Tablette D écriture 8.5 Pouces  Ardoise Magique Tableau Portable pour l écriture et Le Dessin sans Papier Enfants et Adultes Écriture Dessin Jouet Educatif électronique Memo Board  Red '
+slug: 'B087M3WLY1-fr ERUW LCD Tablette D écriture 8.5 Pouces Ardoise Magique...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

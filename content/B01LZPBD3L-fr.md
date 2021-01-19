@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uGfhnvFFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZPBD3L-fr Samsonite Base Boost - Spinner M Valise Extensible  66 cm  67 5/73 5 L  Rouge  Red '
+slug: 'B01LZPBD3L-fr Samsonite Base Boost - Spinner M Valise Extensible 66 cm...'
+tags: 
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

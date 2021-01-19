@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MfCwQG0GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089B5TGYS-fr Lampe Frontale Super Brillante Lampe à 8 Del de 18000 Lumens Rechargeable USB Imperméable réglable pour Le Camping  la Pêche  la Cave  Le Jogging et la Randonnée'
+slug: 'B089B5TGYS-fr Lampe Frontale Super Brillante Lampe à 8 Del de 18000...'
+tags: 
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41f2LGXjhcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TC883ZZ-fr Bracelet Femme Orné de Cristaux de Swarovski Collection"Mille Eclats"  Bracelet tennis - blanc '
+slug: 'B07TC883ZZ-fr Bracelet Femme Orné de Cristaux de Swarovski...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

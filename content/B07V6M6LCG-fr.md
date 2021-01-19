@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DNq-+qq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6M6LCG-fr Kaporal - T-Shirt à Manches Courtes  col v  Coupe ajustée - Rap - Femme - L - Rouge'
+slug: 'B07V6M6LCG-fr Kaporal - T-Shirt à Manches Courtes col v Coupe ajustée -...'
+tags: 
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

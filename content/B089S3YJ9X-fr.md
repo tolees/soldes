@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pyDS9eAnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089S3YJ9X-fr Montre Connectée Femmes Montre Sport Homme 9 Modes Sportif  GPS  Podometre  Calories  Chronometre  Notification Message  Sommeil Cardiofréquencemètre  Montre Homme Etanche IP68 Contrôle Musique'
+slug: 'B089S3YJ9X-fr Montre Connectée Femmes Montre Sport Homme 9 Modes Sportif...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

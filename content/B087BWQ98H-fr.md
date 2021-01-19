@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512RYWh72OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087BWQ98H-fr VICTOOM Electrostimulateur Musculaire  EMS Stimulateur Ceinture Abdominale Electrostimulation ABS Stimulateur Musculaire Femme Homme Entraînement Abdominal pour Abdomen Bras Jambes'
+slug: 'B087BWQ98H-fr VICTOOM Electrostimulateur Musculaire EMS Stimulateur...'
+tags: 
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

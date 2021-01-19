@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413bQkJJozL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GFR6RPY-fr AIMOS Commutateur KVM DVI  2 Ports KVM Switch Boîtier De Commutation  DVI 2 en 1 Sortie pour 2 Ordinateurs Partager Clavier et Souris  Pas de Raccourci Clavier  Prise en Charge de 1920 * 1200P@60Hz'
+slug: 'B08GFR6RPY-fr AIMOS Commutateur KVM DVI 2 Ports KVM Switch Boîtier De...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

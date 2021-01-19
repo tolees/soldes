@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519dph1gaNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016DJ9BBU-fr Safavieh Tapis d inspiration Vintage  Tissé Polyester Tapis en Vert / Multicolore  120 X 180 cm'
+slug: 'B016DJ9BBU-fr Safavieh Tapis d inspiration Vintage Tissé Polyester Tapis...'
+tags: 
 actualPrice: 109.52 EUR
 currency: EUR
 price: 109.52

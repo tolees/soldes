@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRF34DL-fr Final Fantasy VII: Remake - Edition Deluxe'
+tags: 
 actualPrice: 72.09 EUR
 currency: EUR
 price: 72.09

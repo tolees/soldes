@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31s6LiMBkKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGTYHWL-fr Derhy Nation Robe  Noir 6  38  Taille Fabricant:S  Femme'
+slug: 'B07NGTYHWL-fr Derhy Nation Robe Noir 6 38 Taille Fabricant:S Femme'
+tags: 
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

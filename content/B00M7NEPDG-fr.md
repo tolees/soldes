@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41r8-FZsgML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00M7NEPDG-fr Fossil Femme Analogique Quartz Montre avec Bracelet en Nylon ES3713'
+slug: 'B00M7NEPDG-fr Fossil Femme Analogique Quartz Montre avec Bracelet en...'
+tags: 
 actualPrice: 125.3 EUR
 currency: EUR
 price: 125.3

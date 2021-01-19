@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qQBxGnttL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FVMD8F-fr Gardena 15005-47 SILENO city 300 Robot tondeuse  Gris foncé/gris clair/turquoise/orange'
+slug: 'B082FVMD8F-fr Gardena 15005-47 SILENO city 300 Robot tondeuse Gris...'
+tags: 
 actualPrice: 584.1 EUR
 currency: EUR
 price: 584.1

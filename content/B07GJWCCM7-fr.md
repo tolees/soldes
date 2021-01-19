@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bFY6yBgIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJWCCM7-fr Philips HR2382/10 Machine à Pâtes Automatique  Balance Intégrée  Huit Disques de Forme  Noir'
+slug: 'B07GJWCCM7-fr Philips HR2382/10 Machine à Pâtes Automatique Balance...'
+tags: 
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

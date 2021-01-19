@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31G2epqqjZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1Z8C3J-fr Vera Mont VM 0029/4825 Robe de soirée  Rose  Cozy Pink 4443   44  Taille Fabricant: 42  Femme'
+slug: 'B07N1Z8C3J-fr Vera Mont VM 0029/4825 Robe de soirée Rose Cozy Pink 4443...'
+tags: 
 actualPrice: 72.02 EUR
 currency: EUR
 price: 72.02

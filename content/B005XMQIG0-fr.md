@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41egSYW9IDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XMQIG0-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir  Lot Noir Logo  - FR : 40  Taille fabricant : 40/42 '
+slug: 'B005XMQIG0-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme...'
+tags: 
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

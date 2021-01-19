@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DdJ8wabxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K12FQFH-fr RACER Paire de gants chauffants moto Femme HEAT 3 noir Taille M'
+slug: 'B07K12FQFH-fr RACER Paire de gants chauffants moto Femme HEAT 3 noir...'
+tags: 
 actualPrice: 214.99 EUR
 currency: EUR
 price: 214.99

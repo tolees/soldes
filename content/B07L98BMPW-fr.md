@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RPyizGDjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L98BMPW-fr Under Armour Armour Insulated Hooded Veste Homme Noir FR : L  Taille Fabricant : Taille LG '
+slug: 'B07L98BMPW-fr Under Armour Armour Insulated Hooded Veste Homme Noir FR :...'
+tags: 
 actualPrice: 57.72 EUR
 currency: EUR
 price: 57.72

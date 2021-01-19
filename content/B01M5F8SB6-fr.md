@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41FCo9ynVqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M5F8SB6-fr Logitech G Saitek X52 Pro Flight Système 3M avec Commande de Gaz à Pièces Métalliques et Joystick de Simulation  Ecran LCD  Double Suspension  Boutons Lumineux  2 Connexions USB - Noir'
+slug: 'B01M5F8SB6-fr Logitech G Saitek X52 Pro Flight Système 3M avec Commande...'
+tags: 
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51a44VhAVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGTJC7Z-fr Derhy ARALIA Top à Manches Longues  Multicolore  Couleurs 700   44  Taille Fabricant:XL  Femme'
+slug: 'B07NGTJC7Z-fr Derhy ARALIA Top à Manches Longues Multicolore Couleurs...'
+tags: 
 actualPrice: 51.63 EUR
 currency: EUR
 price: 51.63

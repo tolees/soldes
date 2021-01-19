@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412b5umPcKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV6Z5GY-fr Levi s 510 Skinny Fit Jeans  Noce Cool 1051  34W / 30L Homme'
+slug: 'B07TV6Z5GY-fr Levi s 510 Skinny Fit Jeans Noce Cool 1051 34W / 30L Homme'
+tags: 
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

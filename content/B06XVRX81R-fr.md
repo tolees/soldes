@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dWnOGxiDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XVRX81R-fr HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à 15 6"  Résistante à l Eau  41 x 31 x 8 5 cm  - Noire'
+slug: 'B06XVRX81R-fr HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à...'
+tags: 
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

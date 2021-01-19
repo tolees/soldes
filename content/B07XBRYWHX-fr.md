@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OUqOfKrKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBRYWHX-fr Microsoft Surface Pro 7 – PC Hybride  écran 12.3 pouces  Intel Core i7  16Go de RAM  512Go de stockage SSD  – Platine'
+slug: 'B07XBRYWHX-fr Microsoft Surface Pro 7 – PC Hybride écran 12.3 pouces...'
+tags: 
 actualPrice: 1709.78 EUR
 currency: EUR
 price: 1709.78

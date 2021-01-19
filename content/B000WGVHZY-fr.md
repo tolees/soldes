@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P1L4gA8aL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000WGVHZY-fr Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenne Blanc'
+slug: 'B000WGVHZY-fr Pentel 100 WM Marqueur peinture Indélébile à Pointe...'
+tags: 
 actualPrice: 7.06 EUR
 currency: EUR
 price: 7.06
@@ -25,10 +26,10 @@ Vous avez [Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenn
 
 ℹ️:
 
-- Peinture blanche couvrante indélébile et opaque
 - Marqueur à peinture blanche permanente PENTEL WHITE
 - Utilisation sur tous supports: caoutchouc, plastique, verre, métal
-- Système dalimentation de lencre à soupape
 - Pointe conique moyenne, tracé 2,5mm
+- Système dalimentation de lencre à soupape
+- Peinture blanche couvrante indélébile et opaque
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000WGVHZY/?tag=tolees0d-21)

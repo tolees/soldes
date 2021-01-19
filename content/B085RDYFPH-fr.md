@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VVz4dTB8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085RDYFPH-fr Rolimate Puzzles en Bois Jouet Bébé 3D Puzzles  Jouets Montessori Enfant 3 4 5 6 Ans  Bébés Animaux Jeux Educatif Apprentissage pour Bébé Puzzle à Encastrements Cadeau d anniversaire'
+slug: 'B085RDYFPH-fr Rolimate Puzzles en Bois Jouet Bébé 3D Puzzles Jouets...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

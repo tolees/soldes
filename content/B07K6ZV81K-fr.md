@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41prtsJ61sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6ZV81K-fr Levi s 501 Coupe Originale - Jean - Homme - Bleu  Snoot 2744  - 34W / 34L'
+slug: 'B07K6ZV81K-fr Levi s 501 Coupe Originale - Jean - Homme - Bleu Snoot...'
+tags: 
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

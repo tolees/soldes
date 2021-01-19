@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c6gKlbUvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YXO5UKY-fr Turtle Beach Recon 50P Casque Gaming - PS4  PS5  Xbox One  Nintendo Switch et PC'
+slug: 'B00YXO5UKY-fr Turtle Beach Recon 50P Casque Gaming - PS4 PS5 Xbox One...'
+tags: 
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31eiJuE3R1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WIBVHCE-fr Grohe Mitigeur Évier Eurosmart 32223002  Import Allemagne '
+slug: 'B00WIBVHCE-fr Grohe Mitigeur Évier Eurosmart 32223002 Import Allemagne'
+tags: 
 actualPrice: 77.69 EUR
 currency: EUR
 price: 77.69

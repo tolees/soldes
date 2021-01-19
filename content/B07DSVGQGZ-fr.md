@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-IQXpJCbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DSVGQGZ-fr Philips HD3720/25 PerfectDraft  Tireuse à Bière Domestique  Fûts de 6 litres'
+slug: 'B07DSVGQGZ-fr Philips HD3720/25 PerfectDraft Tireuse à Bière Domestique...'
+tags: 
 actualPrice: 239.98 EUR
 currency: EUR
 price: 239.98

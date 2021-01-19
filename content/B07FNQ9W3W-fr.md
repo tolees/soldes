@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c2aJ6U14L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNQ9W3W-fr Seafolly Water Garden Twist Halter Singlet Haut De Maillot  Noir  Black Black   38  Taille Fabricant: 10  Femme'
+slug: 'B07FNQ9W3W-fr Seafolly Water Garden Twist Halter Singlet Haut De Maillot...'
+tags: 
 actualPrice: 82.67 EUR
 currency: EUR
 price: 82.67

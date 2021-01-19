@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51TNhl3NQ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL1JG53-fr Victrola Empire Junior Chaîne Stéréo 4-en-1 Platine Vinyle - Expresso'
+slug: 'B07KL1JG53-fr Victrola Empire Junior Chaîne Stéréo 4-en-1 Platine Vinyle...'
+tags: 
 actualPrice: 95.75 EUR
 currency: EUR
 price: 95.75

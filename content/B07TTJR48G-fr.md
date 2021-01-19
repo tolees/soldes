@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511EzYvAUdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTJR48G-fr ASUS TUF Gaming VG32VQ - Ecran PC Gamer eSport 31 5" WQHD - Dalle VA incurvée 1800R - 16:9 - 144Hz - 1ms - 2560x1440 - 400cd/m² - Display Port & HDMI - Haut-parleurs - AMD FreeSync - ELMB - HDR 10'
+slug: 'B07TTJR48G-fr ASUS TUF Gaming VG32VQ - Ecran PC Gamer eSport 31 5" WQHD...'
+tags: 
 actualPrice: 391.95 EUR
 currency: EUR
 price: 391.95

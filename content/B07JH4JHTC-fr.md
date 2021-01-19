@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH4JHTC-fr Fluval 307 External Filter'
+tags: 
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c9fQLY8RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMHFJJX-fr Chie Mihara zuleica36  Ballerines à Bride Cheville Femmes  Multicolore Mambo Natur Titanio Ante Curry  40 EU'
+slug: 'B07YMHFJJX-fr Chie Mihara zuleica36 Ballerines à Bride Cheville Femmes...'
+tags: 
 actualPrice: 131.13 EUR
 currency: EUR
 price: 131.13

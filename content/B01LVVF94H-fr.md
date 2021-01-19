@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Ei2S3dDeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LVVF94H-fr Casque supra-auriculaire filaire Beats EP - Sans batterie pour une écoute sans limite  micro et commandes intégrées - Noir'
+slug: 'B01LVVF94H-fr Casque supra-auriculaire filaire Beats EP - Sans batterie...'
+tags: 
 actualPrice: 80.58 EUR
 currency: EUR
 price: 80.58

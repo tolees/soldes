@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41e++9OBNcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GLC4P3B-fr Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Noir '
+slug: 'B08GLC4P3B-fr Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

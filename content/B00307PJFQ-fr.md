@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21-JRRSOK4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00307PJFQ-fr Diaper Champ Poubelle a couche - Large - capacite +/- 75 couches'
+slug: 'B00307PJFQ-fr Diaper Champ Poubelle a couche - Large - capacite +/- 75...'
+tags: 
 actualPrice: 90.28 EUR
 currency: EUR
 price: 90.28

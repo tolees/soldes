@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/5177ww+nPHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQDVPVQ-fr Kipling Heart Backpack Sac à Dos Enfants  24 cm  9 litres  Robot Camo Pink'
+slug: 'B07YQDVPVQ-fr Kipling Heart Backpack Sac à Dos Enfants 24 cm 9 litres...'
+tags: 
 actualPrice: 37.3 EUR
 currency: EUR
 price: 37.3

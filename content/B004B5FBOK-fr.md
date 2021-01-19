@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Hi6ZWTQAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004B5FBOK-fr STIGA Luge Bob Snowracer Supreme GT Luge Bobsleigh avec Volant et Frein  noir/blanc'
+slug: 'B004B5FBOK-fr STIGA Luge Bob Snowracer Supreme GT Luge Bobsleigh avec...'
+tags: 
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

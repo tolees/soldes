@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014UY9AWU-fr Pitch Perfect 2'
+tags: 
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

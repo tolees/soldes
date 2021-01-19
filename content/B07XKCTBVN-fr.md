@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KDvep9xWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XKCTBVN-fr Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45 Heures] Pliable Casque Bluetooth avec Micro Intégré Anti Bruit CVC 6.0 Charge Rapide avec Étui Portable pour Cours en Ligne/Téléphone/PC'
+slug: 'B07XKCTBVN-fr Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

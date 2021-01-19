@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41W2LHYt+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FY39QXD-fr 2 x Volant Poignées pour Switch  Kit de Poignées à L usure pour Manette de Switch Joy-con Noir '
+slug: 'B08FY39QXD-fr 2 x Volant Poignées pour Switch Kit de Poignées à L usure...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

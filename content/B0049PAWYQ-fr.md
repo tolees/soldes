@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t-k3G+trL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0049PAWYQ-fr Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe d arrosage avec Débit de 4 000 L/h  Filtre Intégré  Faible Bruit  Haute Efficacité  Accessoires de Jardin pour Le Circuit d eau  1732-20 '
+slug: 'B0049PAWYQ-fr Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe...'
+tags: 
 actualPrice: 100.11 EUR
 currency: EUR
 price: 100.11

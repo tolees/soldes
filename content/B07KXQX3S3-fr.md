@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wuFwHgE9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXQX3S3-fr SanDisk Carte microSDXC UHS-I pour Nintendo Switch 128 Go - Produit sous licence Nintendo'
+slug: 'B07KXQX3S3-fr SanDisk Carte microSDXC UHS-I pour Nintendo Switch 128 Go...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99
@@ -25,10 +26,10 @@ C'est en vente [SanDisk Carte microSDXC UHS-I pour Nintendo Switch 128 Go - Prod
 
 ℹ️:
 
-- Stockez des jeux numériques et du contenu supplémentaire en un seul endroit pour y jouer nimporte où
+- Température de fonctionnement: -25ºC à 85ºC (-13ºF à 185ºF).Température de stockage -40°F à 185°F (-40°C à 85°C)
 - Ajoutez instantanément jusquà 128 Go despace de stockage supplémentaire
+- Stockez des jeux numériques et du contenu supplémentaire en un seul endroit pour y jouer nimporte où
 - Carte mémoire sous licence Nintendo pour la console Nintendo Switch
 - Taux de transfert jusquà 100 Mo/s pour charger les jeux rapidement
-- Température de fonctionnement: -25ºC à 85ºC (-13ºF à 185ºF).Température de stockage -40°F à 185°F (-40°C à 85°C)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KXQX3S3/?tag=tolees0d-21)

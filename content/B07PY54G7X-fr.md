@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51QkyrUOb7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY54G7X-fr AUBADE  Soutien-gorge corbeille  Bretelles réglables  THE BOW COLLECTION  Rose  95B  OC14'
+slug: 'B07PY54G7X-fr AUBADE Soutien-gorge corbeille Bretelles réglables THE BOW...'
+tags: 
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

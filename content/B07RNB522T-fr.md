@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WoBJBBa6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RNB522T-fr Manette Sans Fil pour Xbox 360 Double Vibration Contrôleur de Jeu pour Xbox 360 / PC'
+slug: 'B07RNB522T-fr Manette Sans Fil pour Xbox 360 Double Vibration Contrôleur...'
+tags: 
 actualPrice: 28.69 EUR
 currency: EUR
 price: 28.69

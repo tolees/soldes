@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51LsjTjkK4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RWV152K-fr Transformers Rescue Bots - Coffret de 4 Robots Secouristes 12cm - Jouet transformable 2 en 1'
+slug: 'B07RWV152K-fr Transformers Rescue Bots - Coffret de 4 Robots Secouristes...'
+tags: 
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

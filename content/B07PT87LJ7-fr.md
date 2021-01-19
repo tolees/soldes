@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MKvRFNddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PT87LJ7-fr Unité de Séparation des Déchets et de Recyclage Joseph Joseph totem Compact 40 litres - Acier Inoxydable'
+slug: 'B07PT87LJ7-fr Unité de Séparation des Déchets et de Recyclage Joseph...'
+tags: 
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

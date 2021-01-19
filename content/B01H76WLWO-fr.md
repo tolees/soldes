@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Dz-Sz177L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H76WLWO-fr 7 for all mankind MID RISE ROXANNE  Jeans Femme  Bleu  Bair Rinsed Indigo   W26/L33  Taille fabricant: 26 '
+slug: 'B01H76WLWO-fr 7 for all mankind MID RISE ROXANNE Jeans Femme Bleu Bair...'
+tags: 
 actualPrice: 67.93 EUR
 currency: EUR
 price: 67.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vGJVXPCYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GBVP3J3-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit Couplage Automatique  IPX7 écouteurs Sportifs stéréo étanches Intégré HD Mic Casques Surround 3D stéréo  Étanche Écouteurs sans Fil - Blanc'
+slug: 'B08GBVP3J3-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

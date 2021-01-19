@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410czjA7b4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RSSCY4V-fr Axcone Homme Femme Air Running Baskets Chaussures Outdoor Running Gym Fitness Sport Sneakers Style Multicolore Respirante - 34EU-46EU  Rose1  38 EU'
+slug: 'B07RSSCY4V-fr Axcone Homme Femme Air Running Baskets Chaussures Outdoor...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

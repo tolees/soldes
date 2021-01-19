@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BN8ySBbzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q4W6SM1-fr WOTEK Bande Élastique Fitness Élastique Musculation Bande de Resistance Élastique Sport Élastique Pilates- 3xRésistance Élastiques pour Rééducation Physique et Motrice Élastique Musculation'
+slug: 'B07Q4W6SM1-fr WOTEK Bande Élastique Fitness Élastique Musculation Bande...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

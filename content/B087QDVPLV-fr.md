@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31xyzfINx1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087QDVPLV-fr ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6 Gbit/s-1To pour Ordinateur de Bureau'
+slug: 'B087QDVPLV-fr ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6...'
+tags: 
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

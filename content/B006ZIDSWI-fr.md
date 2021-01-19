@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Zyog8N3dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ZIDSWI-fr sloggi Basic+ Midi 3P  Culotte Femme  Blanc  Taille 46  Lot de 3'
+slug: 'B006ZIDSWI-fr sloggi Basic+ Midi 3P Culotte Femme Blanc Taille 46 Lot de 3'
+tags: 
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

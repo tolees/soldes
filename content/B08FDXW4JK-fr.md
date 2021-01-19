@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51+3iONKZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FDXW4JK-fr LED Projecteur étoile  veilleuse télécommandée  lecteur de musique à changement de couleur avec Bluetooth et minuterie  cadeaux de décoration de chambre pour adultes et enfants [Grade A + Energy]'
+slug: 'B08FDXW4JK-fr LED Projecteur étoile veilleuse télécommandée lecteur de...'
+tags: 
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

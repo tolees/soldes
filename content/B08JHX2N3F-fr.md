@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51KJ+f0BIeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JHX2N3F-fr Ruban LED  REDSTORM Bande LED TV Rétroéclairage Lumière Light Strip 3m  Eclairage Multicolor 5050 RGB  Bande Lumineuse 16 Couleurs Statiques et 4 Modes Dynamiques avec IR Télécommande Alimenté par USB'
+slug: 'B08JHX2N3F-fr Ruban LED REDSTORM Bande LED TV Rétroéclairage Lumière...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

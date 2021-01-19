@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sN+XNicIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6X2SXW-fr Tommy Hilfiger Cosy High Heel Leather Bootie  Botines Femme   Black 990   38 EU'
+slug: 'B07N6X2SXW-fr Tommy Hilfiger Cosy High Heel Leather Bootie Botines Femme...'
+tags: 
 actualPrice: 76.9 EUR
 currency: EUR
 price: 76.9

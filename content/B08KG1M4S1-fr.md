@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51q5SlfqGjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08KG1M4S1-fr TENGER Technic Excavatrice Blocs de Construction  2.4Ghz APP Double Télécommande Pelleteuse   1830+Pièces Jeu de Construction Compatible avec Lego Technic'
+slug: 'B08KG1M4S1-fr TENGER Technic Excavatrice Blocs de Construction 2.4Ghz...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

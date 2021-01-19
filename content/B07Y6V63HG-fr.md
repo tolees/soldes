@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416lzowNrtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y6V63HG-fr Louis Cottier - Montre Tradition Skelette Automatique - HB3020C1BC1'
+slug: 'B07Y6V63HG-fr Louis Cottier - Montre Tradition Skelette Automatique -...'
+tags: 
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51kipJFoUtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T35HR8Q-fr Sérum Vitamine C Premium de visage avec l’acide hyaluronique – Cliniquement prouvé- Le meilleur sérum anti-âge et anti-rides – Nos clients l’appelle le lifting sans les aiguilles! Ce sérum vitamine C va engraisser  hydrater et remplir les lignes fines et les rides sur votre visage.'
+slug: 'B00T35HR8Q-fr Sérum Vitamine C Premium de visage avec l’acide...'
+tags: 
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

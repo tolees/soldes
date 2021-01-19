@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ULCYNxUhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5SDDMC-fr alvorog Miroir de Maquillage avec 3 Modes de Couleur  5X Miroir Grossissant  Mise à Niveau Arrêt Automatique de 0 5 h  Pivotant et Extensible à 360 °  Alimenté par USB ou Batterie'
+slug: 'B08B5SDDMC-fr alvorog Miroir de Maquillage avec 3 Modes de Couleur 5X...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

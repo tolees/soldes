@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qqsfEMHsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SKG5M4S-fr RenFox Chalumeau de Cuisine Torche de Cuisine Butane Briquet Chalumeau Gaz Cuisine Verrou de Sécurité Réglable Flammes  pour Creme Brulee  Cuisson  Barbecue  Camping  DIY  Soudure'
+slug: 'B07SKG5M4S-fr RenFox Chalumeau de Cuisine Torche de Cuisine Butane...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

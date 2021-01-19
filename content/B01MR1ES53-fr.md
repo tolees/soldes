@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41jBP2FpzEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MR1ES53-fr Razer Ornata Chroma Clavier de Jeu avec Touches à Membrane Mecha  Rétroéclairage Rvb Chroma  Design Ergonomique  Fr-Layout'
+slug: 'B01MR1ES53-fr Razer Ornata Chroma Clavier de Jeu avec Touches à Membrane...'
+tags: 
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

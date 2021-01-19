@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41RFRq7Gw8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KRS928D-fr Art 1330 Memphis Güell  Sandales Bout Ouvert Femme  Marron  Brown Brown   40 EU'
+slug: 'B07KRS928D-fr Art 1330 Memphis Güell Sandales Bout Ouvert Femme Marron...'
+tags: 
 actualPrice: 67.12 EUR
 currency: EUR
 price: 67.12

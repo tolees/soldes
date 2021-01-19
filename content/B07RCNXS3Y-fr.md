@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41i+t+slHpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCNXS3Y-fr Columbia Lake 22  Doudoune à Capuche  Homme - Noir  Black  - L'
+slug: 'B07RCNXS3Y-fr Columbia Lake 22 Doudoune à Capuche Homme - Noir Black - L'
+tags: 
 actualPrice: 75.89 EUR
 currency: EUR
 price: 75.89

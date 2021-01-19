@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ywFFzOtWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGZYV1V-fr Strellson Premium Cale-Madden Costume  Gris  Grey 019   48  Taille Fabricant: 46  Homme'
+slug: 'B07NGZYV1V-fr Strellson Premium Cale-Madden Costume Gris Grey 019 48...'
+tags: 
 actualPrice: 156.13 EUR
 currency: EUR
 price: 156.13

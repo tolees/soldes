@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tR-R-2EJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HY5XVM5-fr Galuchon - Sac à Dos Lumineux  Clignotants et GPS connecté | sécurité Vélo  Trottinette | Imperméable  Antivol  13L | Modèle : Sport Polyester Gris'
+slug: 'B07HY5XVM5-fr Galuchon - Sac à Dos Lumineux Clignotants et GPS connecté...'
+tags: 
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

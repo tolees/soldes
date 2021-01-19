@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NGlI6VgXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PB044EW-fr BIC Cristal Fun Stylos-Bille Pointe Large  1 6 mm  - Violet  Boîte de 20'
+slug: 'B00PB044EW-fr BIC Cristal Fun Stylos-Bille Pointe Large 1 6 mm - Violet...'
+tags: 
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

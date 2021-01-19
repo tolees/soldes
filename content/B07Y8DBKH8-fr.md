@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yMVK+vLlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8DBKH8-fr Vidéoprojecteur  WiMiUS 7000 Lumens Full HD 1920x1080P Natif Vidéo Projecteur Supporte 4K Son AC3 HiFi SoundBar Rétroprojecteur  Réglage Digital 4D  avec VGA HDMI AV USB pour Home Cinéma PS4 PPT'
+slug: 'B07Y8DBKH8-fr Vidéoprojecteur WiMiUS 7000 Lumens Full HD 1920x1080P...'
+tags: 
 actualPrice: 186.99 EUR
 currency: EUR
 price: 186.99

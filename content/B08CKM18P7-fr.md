@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413F-j4XDhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CKM18P7-fr Disque Dur Externe 1to  USB3.0 Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Noir '
+slug: 'B08CKM18P7-fr Disque Dur Externe 1to USB3.0 Disque Dur Externe pour PC...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

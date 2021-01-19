@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DZEZ8-ZUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010B8V6SA-fr Panasonic Lumix DMCG7/DMCG70 1442/3.55.6 Lumix G Vario OIS ASPH Appareils Photo Numériques 16.84 Mpix Noir  Version française'
+slug: 'B010B8V6SA-fr Panasonic Lumix DMCG7/DMCG70 1442/3.55.6 Lumix G Vario OIS...'
+tags: 
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

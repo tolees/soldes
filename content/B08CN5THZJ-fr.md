@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pG2OpUAbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CN5THZJ-fr GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note 8T Film Protection [Couverture Complète] [Garantie à Vie]  [Vitre Protecteur 9H Dureté] [sans Bulles]  Vitre pour Xiaomi Redmi Note 8T'
+slug: 'B08CN5THZJ-fr GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note 8T...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

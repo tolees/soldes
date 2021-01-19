@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AIKJo1AcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K4QOC6W-fr TomTom GPS Voiture GO 6200 - 6 Pouces  Cartographie Monde  Trafic  Zones de Danger via Carte SIM Incluse  Appel Mains-Libres'
+slug: 'B01K4QOC6W-fr TomTom GPS Voiture GO 6200 - 6 Pouces Cartographie Monde...'
+tags: 
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

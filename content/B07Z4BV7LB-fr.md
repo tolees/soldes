@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mK4mxlJTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z4BV7LB-fr Comma 8t.002.85.1022 Combinaison  Rosa  Powder Rose 8022   42 Femme'
+slug: 'B07Z4BV7LB-fr Comma 8t.002.85.1022 Combinaison Rosa Powder Rose 8022 42...'
+tags: 
 actualPrice: 74.28 EUR
 currency: EUR
 price: 74.28

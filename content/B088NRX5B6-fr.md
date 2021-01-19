@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51VLRJMRZSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088NRX5B6-fr EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  6 Axes Manette Switch Pro avec Double Moteur Intégré pour Nintendo Switch Pro/Lite et PC  Dragon'
+slug: 'B088NRX5B6-fr EasySMX Manettes Switch Manette pour Nintendo Switch...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

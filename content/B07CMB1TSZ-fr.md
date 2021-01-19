@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51NZbptia7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CMB1TSZ-fr Marvel Legends - Edition Collector - Casque Electronique Black Panther'
+slug: 'B07CMB1TSZ-fr Marvel Legends - Edition Collector - Casque Electronique...'
+tags: 
 actualPrice: 95.74 EUR
 currency: EUR
 price: 95.74

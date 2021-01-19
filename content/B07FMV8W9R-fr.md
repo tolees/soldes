@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51O5jirOpML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FMV8W9R-fr VTechKidizoom Smartwatch Connect DX2 – Framboise – Montre Connectée Pour Enfants'
+slug: 'B07FMV8W9R-fr VTechKidizoom Smartwatch Connect DX2 – Framboise – Montre...'
+tags: 
 actualPrice: 61.79 EUR
 currency: EUR
 price: 61.79

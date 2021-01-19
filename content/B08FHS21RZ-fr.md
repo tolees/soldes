@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/519xyOqOHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FHS21RZ-fr LOKAKA Coque pour Sony Xperia 10 II Coque Pochette Housse Etui [Porte Carte Credit Ticket Metro]  [Fonction Stand Video] [Fermeture Magnetique] - Rouge'
+slug: 'B08FHS21RZ-fr LOKAKA Coque pour Sony Xperia 10 II Coque Pochette Housse...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/510+m4oz9tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015HK3TG4-fr SweetLisS - Lisseur Libellule - Fer à lisser et à boucler avec Peigne intégré'
+slug: 'B015HK3TG4-fr SweetLisS - Lisseur Libellule - Fer à lisser et à boucler...'
+tags: 
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

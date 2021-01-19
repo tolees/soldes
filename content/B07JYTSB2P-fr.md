@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Dk68FCKYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYTSB2P-fr Tommy Hilfiger Straight Denton Chino Gmd Flex  Pantalon Homme  Gris  SLEET048   W30/L32'
+slug: 'B07JYTSB2P-fr Tommy Hilfiger Straight Denton Chino Gmd Flex Pantalon...'
+tags: 
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

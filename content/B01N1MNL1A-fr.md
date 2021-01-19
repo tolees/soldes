@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yXw88tBgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1MNL1A-fr Thule EasyFold XT 2  Porte-vélos sur boule d’attelage entièrement pliable  compact  facile à utiliser et compatible avec tous les types de vélos.'
+slug: 'B01N1MNL1A-fr Thule EasyFold XT 2 Porte-vélos sur boule d’attelage...'
+tags: 
 actualPrice: 568.2 EUR
 currency: EUR
 price: 568.2

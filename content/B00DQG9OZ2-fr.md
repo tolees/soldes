@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31GrSr60FYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DQG9OZ2-fr Clé USB 3.0 SanDisk Ultra 32 Go avec une vitesse de lecture allant jusqu à 130 Mo/s'
+slug: 'B00DQG9OZ2-fr Clé USB 3.0 SanDisk Ultra 32 Go avec une vitesse de...'
+tags: 
 actualPrice: 7.25 EUR
 currency: EUR
 price: 7.25

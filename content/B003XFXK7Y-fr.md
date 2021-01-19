@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ovNhfnEPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003XFXK7Y-fr Lacoste - L1312 - Polo - Homme -  Rouge  Bordeaux  - Large  Taille fabricant: 5 '
+slug: 'B003XFXK7Y-fr Lacoste - L1312 - Polo - Homme - Rouge Bordeaux - Large...'
+tags: 
 actualPrice: 84.61 EUR
 currency: EUR
 price: 84.61

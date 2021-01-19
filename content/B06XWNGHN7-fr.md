@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31uSg9DfbXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XWNGHN7-fr Trio Leuchten 305100161 Jacob Suspension en métal pour 1 ampoule E27 non incluse Gris vieilli'
+slug: 'B06XWNGHN7-fr Trio Leuchten 305100161 Jacob Suspension en métal pour 1...'
+tags: 
 actualPrice: 47.45 EUR
 currency: EUR
 price: 47.45

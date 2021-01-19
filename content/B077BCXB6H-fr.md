@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41HYpw-qNLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077BCXB6H-fr Calvin Klein Homme - Lot de 3 aille mi-haute boxers - Cotton Stretch  Noir  Black W. Black Wb Xwb   M'
+slug: 'B077BCXB6H-fr Calvin Klein Homme - Lot de 3 aille mi-haute boxers -...'
+tags: 
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

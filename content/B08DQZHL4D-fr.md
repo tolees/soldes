@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tQ9bgPetL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DQZHL4D-fr NONZERS Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/CC9 Pro  2 Pièces  9H Dureté  HD Clear Protecteur d Écran en Verre Trempé  Anti-Rayures  Preuve d huile  Verre Xiaomi Mi Note 10'
+slug: 'B08DQZHL4D-fr NONZERS Verre Trempé pour Xiaomi Mi Note 10/Note 10...'
+tags: 
 actualPrice: 9.85 EUR
 currency: EUR
 price: 9.85

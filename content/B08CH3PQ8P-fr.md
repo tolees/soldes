@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41k5y8N0rdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CH3PQ8P-fr Immortal Realms : Vampire Wars  Nintendo Switch '
+slug: 'B08CH3PQ8P-fr Immortal Realms : Vampire Wars Nintendo Switch'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

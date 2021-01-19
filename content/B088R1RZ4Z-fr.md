@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51V-7uENQjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088R1RZ4Z-fr Bamoer Support Tablette  Support Tablette Réglable - Support Dock pour 2020 iPad Pro 9.7  Pro 10.5  iPad Air Mini 2 3 4  Phone  Nintendo Switch  Samsung Tab  d autres Smartphones - Noir'
+slug: 'B088R1RZ4Z-fr Bamoer Support Tablette Support Tablette Réglable -...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

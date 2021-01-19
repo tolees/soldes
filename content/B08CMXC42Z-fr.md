@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tKkdnaN5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CMXC42Z-fr Écouteur sans Fil Bluetooth Mini Casque Intra-auriculaire sans Fil Oreillettes de Sport étanche IPX5 Microphone stéréo boîtier de Charge Portable Noir'
+slug: 'B08CMXC42Z-fr Écouteur sans Fil Bluetooth Mini Casque Intra-auriculaire...'
+tags: 
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wUfkr2ezL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003DZ13JG-fr Scie sauteuse filaire Bosch - PST 900 PEL  620W  livrée avec lame  pare-Éclats  cutcontrol  capot de protection transparent  range-Lame  coffret de rangement '
+slug: 'B003DZ13JG-fr Scie sauteuse filaire Bosch - PST 900 PEL 620W livrée avec...'
+tags: 
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

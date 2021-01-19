@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Bzch9d0ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XVS1WVJ-fr L Intervalle NOMERO  Mocassins Femme  Noir  Black Leather 001   40 EU'
+slug: 'B07XVS1WVJ-fr L Intervalle NOMERO Mocassins Femme Noir Black Leather 001...'
+tags: 
 actualPrice: 48.12 EUR
 currency: EUR
 price: 48.12

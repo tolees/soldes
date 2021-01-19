@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61K78n+LByL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GEGD334-fr Paco Home Tapis De Créateur Décorations Modernes Motif Tapis De Salon Gris Bleu  Dimension:120x170 cm'
+slug: 'B01GEGD334-fr Paco Home Tapis De Créateur Décorations Modernes Motif...'
+tags: 
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

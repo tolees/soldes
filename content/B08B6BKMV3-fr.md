@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41VnKeHSPZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B6BKMV3-fr OUPOD Clavier numérique Bluetooth  Pavé Numérique sans Fil  Portable  Ultra Fin  28 Touches pour iMac  MacBook  Ordinateurs de Bureau et appareils Bluetooth  Noir'
+slug: 'B08B6BKMV3-fr OUPOD Clavier numérique Bluetooth Pavé Numérique sans Fil...'
+tags: 
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31BYypFZy0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003FQIU4O-fr Cuisinart CH4DCE Mini-Préparateur Double sens Rotation  Hacher  Mixer  Fouetter  Émulsionner  Moudre'
+slug: 'B003FQIU4O-fr Cuisinart CH4DCE Mini-Préparateur Double sens Rotation...'
+tags: 
 actualPrice: 62.78 EUR
 currency: EUR
 price: 62.78

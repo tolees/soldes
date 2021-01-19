@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51xJsme0fbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089NB6SQD-fr FirstE Enceinte Bluetooth Portable sans Fil  Enceintes Flottante avec Lumières Colorées  IPX7 Étanche Haut Parleur de Douche  Son Stéréo Cristallin  Mains Libres Enceinte Spa pour Piscine Fête Plage'
+slug: 'B089NB6SQD-fr FirstE Enceinte Bluetooth Portable sans Fil Enceintes...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xU2IzU8HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7G2PHY-fr Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD Maximum Performance Solid State Drive with Heatsink |R/W 4700/1800 MB/s  SB-RKTQ4-HTSS-1TB '
+slug: 'B08F7G2PHY-fr Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD...'
+tags: 
 actualPrice: 149.89 EUR
 currency: EUR
 price: 149.89

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41nxxdj0NwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082TWSSTM-fr Casque Bluetooth sans Fil 60 Heurs de Lecture Mpow 059 Pro Bluetooth 5.0 Casque Audio sans Fil avec Mic Bandeau Réglable Pliable Casque Circum-aural pour Téléphone /TV/iPad/ Ordinateur Portable'
+slug: 'B082TWSSTM-fr Casque Bluetooth sans Fil 60 Heurs de Lecture Mpow 059 Pro...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

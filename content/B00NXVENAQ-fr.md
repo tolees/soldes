@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410Qy1WubfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NXVENAQ-fr Melitta Caffeo Passione  Argent  F53/0-101  Machine à Café et Boissons Chaudes Automatique  Auto-Cappuccinatore'
+slug: 'B00NXVENAQ-fr Melitta Caffeo Passione Argent F53/0-101 Machine à Café et...'
+tags: 
 actualPrice: 379.0 EUR
 currency: EUR
 price: 379.0

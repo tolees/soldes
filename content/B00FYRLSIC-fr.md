@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NkthxLEXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FYRLSIC-fr Sony Objectif Zeiss SEL-2470Z Monture E Plein Format 24-70 mm F4.0'
+slug: 'B00FYRLSIC-fr Sony Objectif Zeiss SEL-2470Z Monture E Plein Format 24-70...'
+tags: 
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

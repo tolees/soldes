@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gkrOeaRUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00NC1ZB9E-fr Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis de couloir en Gris Pierre / Anthracite  62 X 240 cm'
+slug: 'B00NC1ZB9E-fr Safavieh Tapis Moderne Tissé Fibre de Viscose douce Tapis...'
+tags: 
 actualPrice: 72.6 EUR
 currency: EUR
 price: 72.6

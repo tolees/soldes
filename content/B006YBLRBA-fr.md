@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iqrR+dtLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006YBLRBA-fr sloggi Basic+ Maxi 3P  Culotte Gainante Femme  Paquet de 3  Noir  BLACK 0004   44 FR'
+slug: 'B006YBLRBA-fr sloggi Basic+ Maxi 3P Culotte Gainante Femme Paquet de 3...'
+tags: 
 actualPrice: 12.55 EUR
 currency: EUR
 price: 12.55

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41R6naqMBNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HDLN59B-fr Android TV Box Android 7.1 2G+16G Boitier Android TV Mini Smart TV Box 4K HD/3D/Amlogic Quad Core S905W 64 Bits/2.4GHz WiFi/LAN10/100M Media Player'
+slug: 'B08HDLN59B-fr Android TV Box Android 7.1 2G+16G Boitier Android TV Mini...'
+tags: 
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

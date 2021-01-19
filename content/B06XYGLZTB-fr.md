@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31CgQhK+EFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XYGLZTB-fr AVANTEK D-3F 400m de Portée Sonnettes sans Fil Kit de Carillon Étanche avec 1 Récepteur Enfichables  52 Mélodies  Blanc'
+slug: 'B06XYGLZTB-fr AVANTEK D-3F 400m de Portée Sonnettes sans Fil Kit de...'
+tags: 
 actualPrice: 16.37 EUR
 currency: EUR
 price: 16.37

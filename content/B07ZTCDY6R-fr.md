@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51DnJ-nZxRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZTCDY6R-fr Diswoe Manette sans Fil pour Nintendo Switch  Bluetooth Manette Switch Pro  Switch Controller avec Batterie Rechargeable/Turbo/6-Axis Gyro/Double Moteur pour Switch Lite et Nintendo Switch Pro'
+slug: 'B07ZTCDY6R-fr Diswoe Manette sans Fil pour Nintendo Switch Bluetooth...'
+tags: 
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

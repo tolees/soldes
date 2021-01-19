@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31buTPSGwdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0746P6FQC-fr Philips Sonicare HX8491/01 AirFloss Ultra et brosse à dents électrique Diamond Clean - Blanc'
+slug: 'B0746P6FQC-fr Philips Sonicare HX8491/01 AirFloss Ultra et brosse à...'
+tags: 
 actualPrice: 149.93 EUR
 currency: EUR
 price: 149.93

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51jhZhV1xBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001GHV3AM-fr Fiskars Aiguiseur à ciseaux  Pour ciseaux de droitier  Pierre à aiguiser en céramique/Support plastique  Noir/Gris  Clip-Sharp  1000812'
+slug: 'B001GHV3AM-fr Fiskars Aiguiseur à ciseaux Pour ciseaux de droitier...'
+tags: 
 actualPrice: 10.03 EUR
 currency: EUR
 price: 10.03

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/511X-+XSZhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089ZZ4RND-fr Casque de Jeu MAMBASNAKE  Casque stéréo avec Microphone rétractable de réduction du Bruit  Casque USB 3 5 mm au Plafond avec 7 rétroéclairages RVB pour PC  PS4  Camouflage Xbox One  Blanc et Vert '
+slug: 'B089ZZ4RND-fr Casque de Jeu MAMBASNAKE Casque stéréo avec Microphone...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A7M2WORVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ECEVGN0-fr Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash SanDisk Extreme Pro 128 Go UDMA7 - Noir'
+slug: 'B00ECEVGN0-fr Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash...'
+tags: 
 actualPrice: 103.92 EUR
 currency: EUR
 price: 103.92

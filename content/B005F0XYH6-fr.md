@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31E8WRTULfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005F0XYH6-fr Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135 Lunettes de Soleil  Noir  Schwarz   54.0 Mixte Adulte'
+slug: 'B005F0XYH6-fr Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135...'
+tags: 
 actualPrice: 77.04 EUR
 currency: EUR
 price: 77.04

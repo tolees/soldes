@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414sA9nq8-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G1Q65ZX-fr OUPOD Paire de manettes pour Nintendo Switch  remplacement Joy-Con   avec le support de poignée pouvant transformer en manette Pro  avec 6-Axis/Vibration fonction.  Couleur: Noir et Or '
+slug: 'B08G1Q65ZX-fr OUPOD Paire de manettes pour Nintendo Switch remplacement...'
+tags: 
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZGYoV9UDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001OTYZ84-fr Sorel Bottes d Hiver pour Hommes  Caribou WL  Marron foncé  Tobacco   Taille : 45'
+slug: 'B001OTYZ84-fr Sorel Bottes d Hiver pour Hommes Caribou WL Marron foncé...'
+tags: 
 actualPrice: 124.95 EUR
 currency: EUR
 price: 124.95

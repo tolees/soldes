@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NPbjWXW-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N7QRX5S-fr Camel Active Womenswear Feb-62 Blouson  Marron  Dark Brown 26   46  Taille Fabricant: 44  Femme'
+slug: 'B07N7QRX5S-fr Camel Active Womenswear Feb-62 Blouson Marron Dark Brown...'
+tags: 
 actualPrice: 110.14 EUR
 currency: EUR
 price: 110.14

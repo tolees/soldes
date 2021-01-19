@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LTM5tc9OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRNZFHM-fr FITTOO Costume da Bagno Donna Bikini Brasiliana Un Pezzo Sexy Monokini Slim Intero Sexy U-Collo Costume Intero Mare Push UP'
+slug: 'B07VRNZFHM-fr FITTOO Costume da Bagno Donna Bikini Brasiliana Un Pezzo...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

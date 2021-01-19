@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PZXqVhvQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087PWBMD1-fr Maegoo Manette PC PS3 TV sans Fil  2.4GHz Wireless Manette de Jeu Gamepad Joystick avec Double Vibration Rechargeable pour Sony Playstation 3 et PC Windows 10 XP 7 8 Android TV/TV Box  Blanc+Noir '
+slug: 'B087PWBMD1-fr Maegoo Manette PC PS3 TV sans Fil 2.4GHz Wireless Manette...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

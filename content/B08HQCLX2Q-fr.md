@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31PN-7fHbYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HQCLX2Q-fr eXtremeRate Coque Avant Housse Boîtier de Remplacement pour Xbox One S/X Manette Contrôleur Modèle 1708 -Nouvel Espoir Gris'
+slug: 'B08HQCLX2Q-fr eXtremeRate Coque Avant Housse Boîtier de Remplacement...'
+tags: 
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

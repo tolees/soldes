@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31h+44wJoML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQ28CZT-fr Levi s 724 High Rise Straight Jean droit  Femme  Bleu  Two The Nine 0015   W32/L30'
+slug: 'B07JQ28CZT-fr Levi s 724 High Rise Straight Jean droit Femme Bleu Two...'
+tags: 
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

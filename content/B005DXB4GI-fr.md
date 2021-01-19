@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tQO-+avkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005DXB4GI-fr Geox U Monet Art.V  Mocassins  Loafers  Homme  Noir  Blackc9999   46 EU'
+slug: 'B005DXB4GI-fr Geox U Monet Art.V Mocassins Loafers Homme Noir Blackc9999...'
+tags: 
 actualPrice: 101.12 EUR
 currency: EUR
 price: 101.12

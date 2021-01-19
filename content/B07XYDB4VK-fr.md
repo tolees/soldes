@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51We5nhq-QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XYDB4VK-fr The Rolling Stones-Bridges to Buenos Aires Blu-Ray  SD upscalée '
+slug: 'B07XYDB4VK-fr The Rolling Stones-Bridges to Buenos Aires Blu-Ray SD...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

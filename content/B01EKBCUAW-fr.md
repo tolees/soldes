@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EKBCUAW-fr Playmobil - 6978 - Jeu - Bateau de Croisière'
+tags: 
 actualPrice: 91.98 EUR
 currency: EUR
 price: 91.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ioZvU751L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AT9TM3M-fr Etekcity Thermomètre Infrarouge sans Contact Laser de -50°C à 380°C  Précision Haute  Lecture Instantanée  Arrêt Automatique  Ecran LCD Rétroéclairé  Impossible de mesurer la température corporelle'
+slug: 'B01AT9TM3M-fr Etekcity Thermomètre Infrarouge sans Contact Laser de...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

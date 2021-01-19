@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pZQQqeY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L91DC7T-fr Replay W7525 .000.83534 Manteau  Beige 10  Large Femme'
+slug: 'B07L91DC7T-fr Replay W7525 .000.83534 Manteau Beige 10 Large Femme'
+tags: 
 actualPrice: 123.7 EUR
 currency: EUR
 price: 123.7

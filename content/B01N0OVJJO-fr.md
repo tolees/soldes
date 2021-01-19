@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415JqhuTZKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0OVJJO-fr Ahava Deadsea Salt Body Firming Duo  Body Shaper  200 ml + Crème pour le corps  200 ml '
+slug: 'B01N0OVJJO-fr Ahava Deadsea Salt Body Firming Duo Body Shaper 200 ml +...'
+tags: 
 actualPrice: 27.28 EUR
 currency: EUR
 price: 27.28

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iLTJg64hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B4SMTCT-fr PUMA Ignite PWRADAPT Disc  Chaussures de Golf Homme  Gris  Quiet Shade-Quiet Shade 03   44.5 EU'
+slug: 'B07B4SMTCT-fr PUMA Ignite PWRADAPT Disc Chaussures de Golf Homme Gris...'
+tags: 
 actualPrice: 134.36 EUR
 currency: EUR
 price: 134.36

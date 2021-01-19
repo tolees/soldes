@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21R5zt+3BsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FF7Q1LL-fr Huawei 55030207 Creative Capacity Pen pour Mediapad M5 lite 10" Gris'
+slug: 'B07FF7Q1LL-fr Huawei 55030207 Creative Capacity Pen pour Mediapad M5...'
+tags: 
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Je960lHWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015YVJ2K8-fr Ecco ECCO JARED  Derby homme - Noir  Black 01001  - 43 EU'
+slug: 'B015YVJ2K8-fr Ecco ECCO JARED Derby homme - Noir Black 01001 - 43 EU'
+tags: 
 actualPrice: 125.25 EUR
 currency: EUR
 price: 125.25

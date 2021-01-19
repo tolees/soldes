@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gPKFbuqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1BW9TH-fr Marc O Polo 90725005001300  Bottes & Bottines Classiques Homme  Marron  Cognac 720   43 EU'
+slug: 'B07N1BW9TH-fr Marc O Polo 90725005001300 Bottes & Bottines Classiques...'
+tags: 
 actualPrice: 63.71 EUR
 currency: EUR
 price: 63.71

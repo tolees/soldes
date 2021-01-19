@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Bh3Fcj18L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BCC2SY7-fr KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X 100mm IPX7 Étanche Bak4 FMC Film Longue Vue Trepied & Adaptateur Smartphone Monoculaire Telescope Vert Foncé'
+slug: 'B08BCC2SY7-fr KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X...'
+tags: 
 actualPrice: 199.98 EUR
 currency: EUR
 price: 199.98

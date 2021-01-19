@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pSL6IyVrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N1T2MV5-fr Casque Bluetooth sans Fil avec ANC - August EP750 - Casque antibruit Actif pour Ordinateurs Portables/Smartphones/tablettes - Réduit Le Bruit du Moteur de Voyage aérien'
+slug: 'B01N1T2MV5-fr Casque Bluetooth sans Fil avec ANC - August EP750 - Casque...'
+tags: 
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cDSK5XABL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VHMQ3K-fr ZD-O Wired Gaming Controller 6 Remappable Multi-Function Buttons for Steam Nintendo Switch Lapto/PC Win7-Win10  Android Smartphone Tablet VR TV Box'
+slug: 'B082VHMQ3K-fr ZD-O Wired Gaming Controller 6 Remappable Multi-Function...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

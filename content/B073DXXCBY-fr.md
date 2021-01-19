@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ttRwoMaYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073DXXCBY-fr FLORA GUARD Outils de Jardinage en Aluminium de 3 pièces avec imprimé Violet - truelle  Transplanter  sécateur  Ensemble-Cadeau pour Le Jardinage  Violet '
+slug: 'B073DXXCBY-fr FLORA GUARD Outils de Jardinage en Aluminium de 3 pièces...'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

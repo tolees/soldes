@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LS-tNSI7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829SPGNC-fr Mafiti Tablette d écriture LCD 8.5 Pouces d écriture électronique Planche à Dessin numérique Tablette Graphique de Dessin Convenant aux Enfants  à la Maison  à l école et au Bureau  Rose '
+slug: 'B0829SPGNC-fr Mafiti Tablette d écriture LCD 8.5 Pouces d écriture...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

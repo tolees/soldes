@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DV95WNB-fr Le Seigneur des Anneaux-La trilogie [Version Longue]'
+tags: 
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

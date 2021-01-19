@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41tXlG46ttL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HVSF68X-fr YUCUN Disque Flash 240 Go SSD M.2 2280 PCIe Express GEN3.0x4 NVMe Interne Solid State Drive'
+slug: 'B07HVSF68X-fr YUCUN Disque Flash 240 Go SSD M.2 2280 PCIe Express...'
+tags: 
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

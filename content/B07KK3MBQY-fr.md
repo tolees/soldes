@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31wFeqe8ImL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK3MBQY-fr Replay Anbass Jean Slim  Beige  Sand 10   W33/L34  Taille Fabricant: 33  Homme'
+slug: 'B07KK3MBQY-fr Replay Anbass Jean Slim Beige Sand 10 W33/L34 Taille...'
+tags: 
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mY3kbdI8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ1ZN2C-fr Disque Dur Externe 2to  Disque Dur Externe Portable HDD USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  2to Bleu '
+slug: 'B08DJ1ZN2C-fr Disque Dur Externe 2to Disque Dur Externe Portable HDD...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

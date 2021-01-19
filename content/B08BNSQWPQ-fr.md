@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41G9cCG8DwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNSQWPQ-fr RAMPOW Câble USB C vers USB C 100W 2m  Câble USB Type C Charge Rapide Power Delivery Nylon Tressé pour Macbook Pro  iPad Pro 2018  Nintendo Switch  Samsung S8/S9/S10  Google Pixel - Bleu Marine'
+slug: 'B08BNSQWPQ-fr RAMPOW Câble USB C vers USB C 100W 2m Câble USB Type C...'
+tags: 
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

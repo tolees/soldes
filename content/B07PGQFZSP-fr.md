@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Hp9wiM1eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PGQFZSP-fr Chie Mihara Ventura  Escarpins Salomé Femmes  Noir  Ante Picasso Negro   39 EU'
+slug: 'B07PGQFZSP-fr Chie Mihara Ventura Escarpins Salomé Femmes Noir Ante...'
+tags: 
 actualPrice: 111.56 EUR
 currency: EUR
 price: 111.56

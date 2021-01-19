@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31yeMN9wQOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00MAGDPPY-fr Maisonnerie 1316-503-91 Campus Armoire Murale Miroir Meuble Salle de Bain Chêne de San Remo Claire/Blanc LxHxP 60 x 80 x 15 cm'
+slug: 'B00MAGDPPY-fr Maisonnerie 1316-503-91 Campus Armoire Murale Miroir...'
+tags: 
 actualPrice: 42.6 EUR
 currency: EUR
 price: 42.6

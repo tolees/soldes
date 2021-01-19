@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Dl96KM4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084MLTTZM-fr Kiano Elegance 6.1 Pro 4/64GB LTE 6" Smartphone [Android Pie  Téléphone Portable  Android 9.0] Fingerprint  FaceID  8-Core   Li-Poly 3300 mah  8 Mpx / 13 Mpx  4G: B1/B3/B5/B7/B8/B20  WI-FI Hotspot'
+slug: 'B084MLTTZM-fr Kiano Elegance 6.1 Pro 4/64GB LTE 6" Smartphone [Android...'
+tags: 
 actualPrice: 64.75 EUR
 currency: EUR
 price: 64.75

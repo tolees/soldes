@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51zhj34O8EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0831GFCHZ-fr Montre Connectée Homme Montre Intelligente Sport Moniteur de Fréquence Cardiaque Écran Tactile Etanche Montre Bracelet Connecté Podomètre Calories Fitness Tracker d Activité pour Android IOS1'
+slug: 'B0831GFCHZ-fr Montre Connectée Homme Montre Intelligente Sport Moniteur...'
+tags: 
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

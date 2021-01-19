@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F59B8KH-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 128 Go Interne Solid State Drive Lecture 550Mo/s Ecriture 530Mo/s 128GB'
+slug: 'B08F59B8KH-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 128 Go...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/3163TW+0yeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VH8IHT0-fr Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes et Corps.'
+slug: 'B00VH8IHT0-fr Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

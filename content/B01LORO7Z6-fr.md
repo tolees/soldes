@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512Bzx8YRDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LORO7Z6-fr Carte Mémoire SDHC Sandisk Extreme 32 Go jusqu à 90 Mo/s  Classe 10  U3  V30'
+slug: 'B01LORO7Z6-fr Carte Mémoire SDHC Sandisk Extreme 32 Go jusqu à 90 Mo/s...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

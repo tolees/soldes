@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31J1RxWDnOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ2NZD7-fr Disque Dur Externe 1to USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Rouge '
+slug: 'B08DJ2NZD7-fr Disque Dur Externe 1to USB3.1 Disque Dur Externe pour PC...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

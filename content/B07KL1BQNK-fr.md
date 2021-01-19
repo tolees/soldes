@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S4gG0yoWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KL1BQNK-fr PAUL & JOE Jpaullove T-Shirt  Blanc  Blanc/White 01   40  Taille Fabricant: 3  Femme'
+slug: 'B07KL1BQNK-fr PAUL & JOE Jpaullove T-Shirt Blanc Blanc/White 01 40...'
+tags: 
 actualPrice: 42.94 EUR
 currency: EUR
 price: 42.94

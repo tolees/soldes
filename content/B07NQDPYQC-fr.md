@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419qkA+06OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NQDPYQC-fr Hot Wheels City T-Rex en Furie  coffret de jeu pour petites voitures à connecter avec circuit et pistes  jouet pour enfant  GFH88'
+slug: 'B07NQDPYQC-fr Hot Wheels City T-Rex en Furie coffret de jeu pour petites...'
+tags: 
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

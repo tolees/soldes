@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/411QQHHhH0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DC96YF3-fr Torche Lampe de Poche LED Rechargeable JUNKER Lampe Torche led 2000 Lumens Super Grande Lampe de Torche Militaire Tactique 5 Modes Ajustable Zoomable étanche Lampe Torche 18650 batterie incluse '
+slug: 'B08DC96YF3-fr Torche Lampe de Poche LED Rechargeable JUNKER Lampe Torche...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

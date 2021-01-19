@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JV9y51qjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3YBGRB-fr Hackett AMR MLT Wings Polo  Multicolore  Navy/White 5DJ   Large Homme'
+slug: 'B07N3YBGRB-fr Hackett AMR MLT Wings Polo Multicolore Navy/White 5DJ...'
+tags: 
 actualPrice: 97.86 EUR
 currency: EUR
 price: 97.86

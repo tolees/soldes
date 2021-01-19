@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41no5rtaAnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6HGBZB-fr HAUPTSTADTKOFFER - Alex - Bagage Rigide Valise Grande Taille  Trolley avec 4 Roues multidirectionnelles  75 cm  119 litres  Titan'
+slug: 'B01N6HGBZB-fr HAUPTSTADTKOFFER - Alex - Bagage Rigide Valise Grande...'
+tags: 
 actualPrice: 60.67 EUR
 currency: EUR
 price: 60.67

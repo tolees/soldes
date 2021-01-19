@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QdC1DUs-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DY9RV17-fr Hikole 2 en 1 Trottinette pour Enfants  Scooter avec Siège Pliage et 3 Roues Lumineuses pour 1.5 à 8 Ans  Modèle Pliable  Poignées Ajustable'
+slug: 'B08DY9RV17-fr Hikole 2 en 1 Trottinette pour Enfants Scooter avec Siège...'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

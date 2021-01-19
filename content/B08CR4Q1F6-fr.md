@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wKhG2RqhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CR4Q1F6-fr Elyco Étui pour Nintendo Switch  Protection Housse Switch Coque Housse Accessoires with Joystick Thumb Grip Cap Joycon Compatible avec Switch/Switch Lite'
+slug: 'B08CR4Q1F6-fr Elyco Étui pour Nintendo Switch Protection Housse Switch...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

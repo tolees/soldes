@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iLIYknIPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0763FFNNL-fr NIVEA PURE SKIN Brosse Nettoyante Électrique Visage Kit  Brosse pour le Visage  Brosse Nettoyante pour le Visage'
+slug: 'B0763FFNNL-fr NIVEA PURE SKIN Brosse Nettoyante Électrique Visage Kit...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

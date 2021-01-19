@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416TgAEj+UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GA2ABU0-fr KLIM Voice Microphone à Pied USB pour Ordinateur - Micro de Bureau Professionnel - Microphone de Gamer PC PS4 - Nouvelle Version 2020 - Bleu'
+slug: 'B01GA2ABU0-fr KLIM Voice Microphone à Pied USB pour Ordinateur - Micro...'
+tags: 
 actualPrice: 19.97 EUR
 currency: EUR
 price: 19.97

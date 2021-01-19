@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/414WOsP2i+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073H7DN3F-fr Sandvik Coromant Qs-3–80ll202034–10 C Coroturn 300 QS Tige Outil pour Consulter'
+slug: 'B073H7DN3F-fr Sandvik Coromant Qs-3–80ll202034–10 C Coroturn 300 QS Tige...'
+tags: 
 actualPrice: 147.62 EUR
 currency: EUR
 price: 147.62

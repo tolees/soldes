@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/514SigvPPaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YB75P8T-fr FUNINGEEK Micro Casque Gaming PS4  Casque Gaming Switch avec Micro Anti Bruit Casque Gamer Xbox One Filaire LED Lampe Stéréo Bass Microphone Réglable avec Micro 3.5mm Jack'
+slug: 'B07YB75P8T-fr FUNINGEEK Micro Casque Gaming PS4 Casque Gaming Switch...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

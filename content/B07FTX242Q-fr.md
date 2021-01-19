@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/413xgipLprL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTX242Q-fr Millet - High Route GTX M - Chaussures Hautes de Randonnée - Homme - Membrane Gore-Tex Imperméable Respirante - Semelle Vibram - Noir - 48'
+slug: 'B07FTX242Q-fr Millet - High Route GTX M - Chaussures Hautes de Randonnée...'
+tags: 
 actualPrice: 97.74 EUR
 currency: EUR
 price: 97.74

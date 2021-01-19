@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51WQPdCDThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q2RKTPK-fr AUBADE  Soutien-gorge triangle  Bretelles réglables  THE BOW COLLECTION  Rose  100E  OC12'
+slug: 'B07Q2RKTPK-fr AUBADE Soutien-gorge triangle Bretelles réglables THE BOW...'
+tags: 
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

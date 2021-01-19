@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4163O6ukQCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8QXLCK-fr Bose Portable Smart Speaker - avec Contrôle Vocal Alexa Intégré  Noir'
+slug: 'B07W8QXLCK-fr Bose Portable Smart Speaker - avec Contrôle Vocal Alexa...'
+tags: 
 actualPrice: 254.99 EUR
 currency: EUR
 price: 254.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/412jns2jjLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGJYBRT-fr Chie Mihara Janis  Escarpins Bride Cheville Femmes  Rose  Goya Nude Ante Peach Goya Nude Ante Peach   40 EU'
+slug: 'B07YGJYBRT-fr Chie Mihara Janis Escarpins Bride Cheville Femmes Rose...'
+tags: 
 actualPrice: 144.02 EUR
 currency: EUR
 price: 144.02

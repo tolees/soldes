@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ojZo0fhyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SQQ3K9X-fr ARCORA Robinet de Cuisine avec Douchette Extensible Mitigeur Cuisine En Acier Inoxydable 304 Mitigeur d évier Rotatif à 360° Robinet Evier de débits Equipé de Neoperl Mousseur ABS Anti-éclaboussures'
+slug: 'B07SQQ3K9X-fr ARCORA Robinet de Cuisine avec Douchette Extensible...'
+tags: 
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319kPmBn9wL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1GQ7RY-fr Tigex Baignoire pour Bébé  Pliable Ultra Compacte  0-12 Mois  Max 15 kg   Gris'
+slug: 'B07N1GQ7RY-fr Tigex Baignoire pour Bébé Pliable Ultra Compacte 0-12 Mois...'
+tags: 
 actualPrice: 23.03 EUR
 currency: EUR
 price: 23.03

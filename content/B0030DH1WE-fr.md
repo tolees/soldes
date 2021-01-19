@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41WH5FziQyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0030DH1WE-fr PetSafe - Système Anti-Fugue Sans Fil et Portatif avec Collier Anti-Fugue Imperméable à 5 niveaux de Stimulation Sans Danger - Rayon de Sécurité de 27.5m max  Utilisation Facile - A Pile'
+slug: 'B0030DH1WE-fr PetSafe - Système Anti-Fugue Sans Fil et Portatif avec...'
+tags: 
 actualPrice: 229.49 EUR
 currency: EUR
 price: 229.49

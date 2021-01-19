@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CK6QLQ3-fr Disque Dur Externe 1to  Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Bleu '
+slug: 'B08CK6QLQ3-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
+tags: 
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

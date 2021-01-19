@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dH815KGcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KPSBXR3-fr Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba Collectible Figure  38543  Multi'
+slug: 'B07KPSBXR3-fr Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba...'
+tags: 
 actualPrice: 9.63 EUR
 currency: EUR
 price: 9.63

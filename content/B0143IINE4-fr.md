@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XrTvZsS7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0143IINE4-fr Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s  Classe 10'
+slug: 'B0143IINE4-fr Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s...'
+tags: 
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

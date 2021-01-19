@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41-Br5iw2TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H7ZMC8L-fr Galaxy S8 Film Protection Ecran Verre Trempé  [2 Pièces] [Full Coverage] [Anti Rayures] [Ultra Claire] [Dureté 9H] Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S8'
+slug: 'B08H7ZMC8L-fr Galaxy S8 Film Protection Ecran Verre Trempé [2 Pièces]...'
+tags: 
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

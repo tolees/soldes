@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-vOpJeNFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HZGBGB7-fr EMPEER ▪ Lot de 2 Sacs Rangement Bouteilles Toile de Jute Rouge Bonhomme de Neige Vert Père noël Drole Insolite Idées Cadeaux Soiree Porte Sac Oenologie Bonnes Soirées Fêtes'
+slug: 'B08HZGBGB7-fr EMPEER ▪ Lot de 2 Sacs Rangement Bouteilles Toile de Jute...'
+tags: 
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

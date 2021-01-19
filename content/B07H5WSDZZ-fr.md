@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gUs1ViOdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5WSDZZ-fr Sac à dos Thule Crossover 2 20L Noir  ordinateur 13 - 14   C2BP-114 BLACK'
+slug: 'B07H5WSDZZ-fr Sac à dos Thule Crossover 2 20L Noir ordinateur 13 - 14...'
+tags: 
 actualPrice: 145.95 EUR
 currency: EUR
 price: 145.95

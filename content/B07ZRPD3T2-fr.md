@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Nl3U2FTOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRPD3T2-fr Aspirateur Balai sans Fil sans Sac  Aspirateur à Main Aspirateur Multifonction 20000 PA Puissant  Batterie 2500mAh pour Autonomie 45 Min et 2 Vitesses Modurable  Ideal pour Maison  Bureau  Voiture'
+slug: 'B07ZRPD3T2-fr Aspirateur Balai sans Fil sans Sac Aspirateur à Main...'
+tags: 
 actualPrice: 136.79 EUR
 currency: EUR
 price: 136.79

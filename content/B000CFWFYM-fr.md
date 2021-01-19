@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51bS2RrPb7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000CFWFYM-fr UNO Deluxe jeu de société et de cartes  K0888'
+slug: 'B000CFWFYM-fr UNO Deluxe jeu de société et de cartes K0888'
+tags: 
 actualPrice: 13.05 EUR
 currency: EUR
 price: 13.05
@@ -25,10 +26,10 @@ Vous avez [UNO Deluxe jeu de société et de cartes  K0888](https://www.amazon.f
 
 ℹ️:
 
-- Recouvrir la carte jouée précédemment avec une carte de la même couleur ou avec le même symbole
 - La version de luxe contient un carnet de scores et un sabot de distribution, très pratique pour ranger les cartes après la partie
-- À partir de sept ans
-- 2 à 10 joueurs
 - Attention aux cartes action et aux coups de bluff que chacun peut tenter à tout instant
+- 2 à 10 joueurs
+- À partir de sept ans
+- Recouvrir la carte jouée précédemment avec une carte de la même couleur ou avec le même symbole
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000CFWFYM/?tag=tolees0d-21)

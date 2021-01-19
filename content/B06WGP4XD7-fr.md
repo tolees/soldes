@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGP4XD7-fr PlayStation 2 Console de Jeux Noir Portefeuille'
+tags: 
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

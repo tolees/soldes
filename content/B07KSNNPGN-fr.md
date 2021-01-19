@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31C+pL0JxvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSNNPGN-fr Love Moschino Love Mode Print Short Sleeve T-Shirt   White A00   40  Taille Fabricant: 42  Femme'
+slug: 'B07KSNNPGN-fr Love Moschino Love Mode Print Short Sleeve T-Shirt White...'
+tags: 
 actualPrice: 87.2 EUR
 currency: EUR
 price: 87.2

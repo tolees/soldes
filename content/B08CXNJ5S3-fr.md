@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rCrp4n+4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXNJ5S3-fr Chargeur Voiture USB C Rapide pour Samsung S20 Plus Ultra S10 S9 S8 A70 A71 A50 A70 Note 20 10 9 8 Huawei P20 P30 Lite Xiaomi Redmi Note 9 8 7 Pro Mi 10 9 A3 36W:PD 3.0+Quick Charge 3.0+1M PD Cable'
+slug: 'B08CXNJ5S3-fr Chargeur Voiture USB C Rapide pour Samsung S20 Plus Ultra...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

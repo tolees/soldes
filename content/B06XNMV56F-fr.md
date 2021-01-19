@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mWLUnRmKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XNMV56F-fr Garmin vívosmart 3 - Bracelet de Fitness avec Cardio Poignet - Taille M - Noir'
+slug: 'B06XNMV56F-fr Garmin vívosmart 3 - Bracelet de Fitness avec Cardio...'
+tags: 
 actualPrice: 50.6 EUR
 currency: EUR
 price: 50.6

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31YuF3q6mcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015LHQTAG-fr Beurer FC 90 Pureo Ionic Soin du Visage Anti-âge - Brosse Cosmétique - Solution en 4 étapes - Diffusion de Chaleur et de Froid - Ecran LCD - Fonctionnement sur Secteur'
+slug: 'B015LHQTAG-fr Beurer FC 90 Pureo Ionic Soin du Visage Anti-âge - Brosse...'
+tags: 
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

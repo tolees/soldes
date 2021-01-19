@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51t7RW9E7PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SG6VGL-fr Gomyhom Rose  24K Rose Plaqué Or  élégante Fleur Romantique éternelle avec Boîte Cadeau de Idéal pour Amie Saint Valentin  Fête des Mères  Anniversaire  Mariage  Gros Rouge '
+slug: 'B083SG6VGL-fr Gomyhom Rose 24K Rose Plaqué Or élégante Fleur Romantique...'
+tags: 
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

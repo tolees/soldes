@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ShdRsnbkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DKXTBCM-fr Lavazza A Modo Mio Café Espresso Passionale Capsules  100% Arabica  Paquet de 36 capsules monodoses de café moulu'
+slug: 'B00DKXTBCM-fr Lavazza A Modo Mio Café Espresso Passionale Capsules 100%...'
+tags: 
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

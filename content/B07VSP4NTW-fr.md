@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DEmt-5i+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSP4NTW-fr COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB eMMC Windows 10 Quad Core Intel Celeron N3450 Processor Desktop Computer HDMI/VGA Port Support 2242 SSD BT 4.2 3X USB 3.0 Auto Power on Linux'
+slug: 'B07VSP4NTW-fr COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB eMMC Windows 10...'
+tags: 
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

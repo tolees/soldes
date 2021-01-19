@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AV34ATNfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GKPTMIO-fr Safavieh Tapis d inspiration Vintage  Tissé Polypropylène Tapis en Gris / Gris Clair  120 X 180 cm'
+slug: 'B01GKPTMIO-fr Safavieh Tapis d inspiration Vintage Tissé Polypropylène...'
+tags: 
 actualPrice: 112.24 EUR
 currency: EUR
 price: 112.24

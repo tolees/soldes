@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XcwmUVeWL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZZVQK8-fr yuehu Cotton Cotton Square Decorative Throw Pillowcase Playstation Buttons Housses de Coussin  50cmx50cm '
+slug: 'B07VZZVQK8-fr yuehu Cotton Cotton Square Decorative Throw Pillowcase...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

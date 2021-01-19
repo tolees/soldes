@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oXEZA-xwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HKVD91I-fr Trixie Scratching Post for Wall Mounting  80 x 11 cm  Grey'
+slug: 'B01HKVD91I-fr Trixie Scratching Post for Wall Mounting 80 x 11 cm Grey'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

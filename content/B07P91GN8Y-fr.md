@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ZzUQ+DAfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P91GN8Y-fr Frock and Frill Godiva Mandarin Collar Embellied Maxi Dress Robe de soirée  Bleu  Navy #000080   36  Taille Fabricant: 8  Femme'
+slug: 'B07P91GN8Y-fr Frock and Frill Godiva Mandarin Collar Embellied Maxi...'
+tags: 
 actualPrice: 77.64 EUR
 currency: EUR
 price: 77.64

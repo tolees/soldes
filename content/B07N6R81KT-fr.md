@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c1d0ajIfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6R81KT-fr Love Moschino Scarpadonna Cassetta  Chaussures de Gymnastique Femme  Noir  Nero 000   37 EU'
+slug: 'B07N6R81KT-fr Love Moschino Scarpadonna Cassetta Chaussures de...'
+tags: 
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

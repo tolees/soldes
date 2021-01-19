@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41q+ONwgsXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I3YL5T0-fr Melitta Machine à Café Automatique  Caffeo Solo  Noir Pure Black  E950-222'
+slug: 'B00I3YL5T0-fr Melitta Machine à Café Automatique Caffeo Solo Noir Pure...'
+tags: 
 actualPrice: 257.99 EUR
 currency: EUR
 price: 257.99

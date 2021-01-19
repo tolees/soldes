@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4180Ju6zNML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P7KKCNS-fr Playmobil - Playmobil The Movie Rex Dasher  Porsche Mission E - 70078'
+slug: 'B07P7KKCNS-fr Playmobil - Playmobil The Movie Rex Dasher Porsche Mission...'
+tags: 
 actualPrice: 55.43 EUR
 currency: EUR
 price: 55.43

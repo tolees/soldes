@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uyNhywvrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N43J6SV-fr Tommy Hilfiger Mixed Media Zip Trhough Sweat-Shirt   Sky Captain Cjm   Small Homme'
+slug: 'B07N43J6SV-fr Tommy Hilfiger Mixed Media Zip Trhough Sweat-Shirt Sky...'
+tags: 
 actualPrice: 144.8 EUR
 currency: EUR
 price: 144.8

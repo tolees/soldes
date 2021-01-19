@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51cc8xmNMLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B7JRM6R-fr havit Clavier Gaming et Souris Filaire  avec LED lumière  4 Niveaux DPI  8 Touches Multimédia et 19 Touches Anti-ghosting Clavier AZERTY'
+slug: 'B07B7JRM6R-fr havit Clavier Gaming et Souris Filaire avec LED lumière 4...'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

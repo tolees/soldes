@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Scyern4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079Z2CCJ8-fr Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp 2017 Echelle 1/18  18S305  Bleu/ Rouge/ Jaune'
+slug: 'B079Z2CCJ8-fr Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp...'
+tags: 
 actualPrice: 97.44 EUR
 currency: EUR
 price: 97.44

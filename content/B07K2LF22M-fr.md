@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41hELWNaypL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K2LF22M-fr Under Armour UA SC 3ZER0 III  Chaussures de Basketball Homme  Gris  Halo Gray/Ash Gray/Teal Rush  101  101   48 EU'
+slug: 'B07K2LF22M-fr Under Armour UA SC 3ZER0 III Chaussures de Basketball...'
+tags: 
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

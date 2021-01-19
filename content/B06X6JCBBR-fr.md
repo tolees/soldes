@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51k1sj7YWFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6JCBBR-fr Ultimates Ears Wonderboom enceinte portable Bluetooth  Son étonnamment puissant  Etanche  Connectez deux enceintes pour un son plus puissant  Batterie 10h - Noire'
+slug: 'B06X6JCBBR-fr Ultimates Ears Wonderboom enceinte portable Bluetooth Son...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

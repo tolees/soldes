@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/419jOVcg6iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012P0CPS2-fr De Longhi Machine à Café à Pompe et Cafetière Filtre 2-en-1  Machine Expresso BCO264.1  Noir'
+slug: 'B012P0CPS2-fr De Longhi Machine à Café à Pompe et Cafetière Filtre...'
+tags: 
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

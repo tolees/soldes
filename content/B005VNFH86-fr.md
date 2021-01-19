@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31+OTetpxxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005VNFH86-fr THULE 960100 Barres de toit WingBar 960 en aluminium - Argenté Longueur 108 cm'
+slug: 'B005VNFH86-fr THULE 960100 Barres de toit WingBar 960 en aluminium -...'
+tags: 
 actualPrice: 70.43 EUR
 currency: EUR
 price: 70.43

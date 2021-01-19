@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51mOE84ERqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KTVF52Q-fr LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fille et Garçon 2 Ans et Plus  57 Pièces 10889'
+slug: 'B07KTVF52Q-fr LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fille...'
+tags: 
 actualPrice: 41.19 EUR
 currency: EUR
 price: 41.19

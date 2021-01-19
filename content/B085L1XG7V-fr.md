@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51PF0b-rILL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085L1XG7V-fr Casque de Sommeil -Anti Bruit Sommeil Bandeau Bluetooth avec Ultra-Fins HD Stéréo Haut-parleurs  étanche Casque Anti Bruit pour Dormir Cadeau Parfait pour Sport Dormeurs Latéraux Voyage et Relaxation'
+slug: 'B085L1XG7V-fr Casque de Sommeil -Anti Bruit Sommeil Bandeau Bluetooth...'
+tags: 
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

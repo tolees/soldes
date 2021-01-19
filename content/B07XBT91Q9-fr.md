@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51x-XwPZ-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XBT91Q9-fr Finish Pastilles Lave-Vaisselle Powerball Quantum Ultimate - 105 Tablettes Lave-Vaisselle'
+slug: 'B07XBT91Q9-fr Finish Pastilles Lave-Vaisselle Powerball Quantum Ultimate...'
+tags: 
 actualPrice: 18.87 EUR
 currency: EUR
 price: 18.87

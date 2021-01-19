@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31vLcKch+sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WWSMFN-fr Kodak Printomatic - Appareil Photo à Impression Instantanée avec Papier Autocollant Zink 5 cm x 7 6 cm  Gris'
+slug: 'B075WWSMFN-fr Kodak Printomatic - Appareil Photo à Impression...'
+tags: 
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

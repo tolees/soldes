@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4128tamasKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081H7CTCW-fr Pèse Personne Impédancemètre  Balance Connecté  Pèse-Personne Électronique  Balance Impédancemètre de Haute Précision avec 13 Données Corporelles  Verre Trempée et Smartphone APP 180kg'
+slug: 'B081H7CTCW-fr Pèse Personne Impédancemètre Balance Connecté Pèse-...'
+tags: 
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084DG7PMG-fr Jumanji : Next Level'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

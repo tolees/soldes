@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51fwNy89aTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001ANXIGE-fr BIC Kids Decoralo Feutres de Coloriage à Pointe Extra Large - Couleurs Assorties  Classpack de 48'
+slug: 'B001ANXIGE-fr BIC Kids Decoralo Feutres de Coloriage à Pointe Extra...'
+tags: 
 actualPrice: 27.26 EUR
 currency: EUR
 price: 27.26

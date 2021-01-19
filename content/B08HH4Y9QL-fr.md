@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PTBAffmwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HH4Y9QL-fr YUES Manette pour PS4 DUALSHOCK 4 pour Playstation 4/Pro/Slim/3/PC et Ordinateur Portable. Sans Fil Contrôleur de jeu avec Ecran Tactile à Double Vibration et Fonction Audio et Barre Lumineuse  Rouge'
+slug: 'B08HH4Y9QL-fr YUES Manette pour PS4 DUALSHOCK 4 pour Playstation...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31F-71ernsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1LLLJ1-fr Spyder 193028 - Veste de ski - Femme - Rose  Berry  - Taille:8 / FR:40'
+slug: 'B07L1LLLJ1-fr Spyder 193028 - Veste de ski - Femme - Rose Berry -...'
+tags: 
 actualPrice: 95.42 EUR
 currency: EUR
 price: 95.42

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31mRLdTc6IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHSJ53M-fr Disque Dur Externe 2to  Portable USB3.1 Type-C Disque Dur Externe pour PC  Mac  Xbox One  Xbox 360 2To Bleu '
+slug: 'B08BHSJ53M-fr Disque Dur Externe 2to Portable USB3.1 Type-C Disque Dur...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

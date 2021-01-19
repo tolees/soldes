@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51HmsPPtUuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WGN5X92-fr Royal Walk Parapluie de golf automatique pour homme et femme résistant aux tempêtes  coupe-vent  léger  classique pour 2 personnes  poignée en bois  imperméable  16 baleines unisexe  noir 120 cm'
+slug: 'B06WGN5X92-fr Royal Walk Parapluie de golf automatique pour homme et...'
+tags: 
 actualPrice: 28.08 EUR
 currency: EUR
 price: 28.08

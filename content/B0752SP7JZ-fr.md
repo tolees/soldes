@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31S0SWi+SdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752SP7JZ-fr Ridgebake Hauptkollektion Sac à Dos Loisir 51 Centimeters 29 Noir  Cavier '
+slug: 'B0752SP7JZ-fr Ridgebake Hauptkollektion Sac à Dos Loisir 51 Centimeters...'
+tags: 
 actualPrice: 58.23 EUR
 currency: EUR
 price: 58.23

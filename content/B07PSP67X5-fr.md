@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51F0D-9OTsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PSP67X5-fr Bakugan Starter Pack Set Assortment  Assort   6045144  Multicolor'
+slug: 'B07PSP67X5-fr Bakugan Starter Pack Set Assortment Assort 6045144 Multicolor'
+tags: 
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

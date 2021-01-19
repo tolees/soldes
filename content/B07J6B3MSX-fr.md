@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PvWt6o8lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6B3MSX-fr FR Femme Montre-Bracelet parlante française Montre-Bracelet en Cuir Heure du Jour Date de la Semaine Réveil Montre Senior Horloge Lunaire Sortie vocale Aveugle  Bracelet Femme en Cuir doré '
+slug: 'B07J6B3MSX-fr FR Femme Montre-Bracelet parlante française Montre-...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

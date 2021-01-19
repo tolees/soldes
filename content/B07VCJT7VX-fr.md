@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OZDgR5wVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VCJT7VX-fr camel active Womenswear Jacke Jacket  Vert  Menthe poivrée 39   46 Femme'
+slug: 'B07VCJT7VX-fr camel active Womenswear Jacke Jacket Vert Menthe poivrée...'
+tags: 
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

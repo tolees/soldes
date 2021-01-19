@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51efv1zNySL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HVC5FDF-fr XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau Support [Fonctionne avec Support De Voiture Magnétique] Étui Housse  Rouge + 2 Pack Verre Trempé Écran Protecteur'
+slug: 'B08HVC5FDF-fr XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau...'
+tags: 
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

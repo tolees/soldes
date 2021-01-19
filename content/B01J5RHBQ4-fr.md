@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51vO6S-6HRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01J5RHBQ4-fr Carte Mémoire SDHC Sandisk Extreme Pro 32 Go jusqu à 95 Mo/s  Classe 10  U3  V30  4K UHD'
+slug: 'B01J5RHBQ4-fr Carte Mémoire SDHC Sandisk Extreme Pro 32 Go jusqu à 95...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

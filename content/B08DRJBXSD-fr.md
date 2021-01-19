@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sf6pEfV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DRJBXSD-fr Peradix Draisienne Vélo Bébé Vélo Enfants de 1 an-36 Mois  Jouet d Equitation pour Garçons Premier Vélo de Bébé Premier Cadeau d anniversaire Vélo sans Pédale pour Bébé'
+slug: 'B08DRJBXSD-fr Peradix Draisienne Vélo Bébé Vélo Enfants de 1 an-36 Mois...'
+tags: 
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317pWXJ4bPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAHE2RJ-fr Timberland Adventure 2.0 Cupsole  Baskets Montantes Homme  Marron  Glazed Ginger Roughcut   41 EU'
+slug: 'B01NAHE2RJ-fr Timberland Adventure 2.0 Cupsole Baskets Montantes Homme...'
+tags: 
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

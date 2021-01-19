@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Z+Q8264VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003ZTN1XQ-fr Inox Robinet mitigeur douche en acier inoxydable haut de gamme satinée neuf'
+slug: 'B003ZTN1XQ-fr Inox Robinet mitigeur douche en acier inoxydable haut de...'
+tags: 
 actualPrice: 68.96 EUR
 currency: EUR
 price: 68.96

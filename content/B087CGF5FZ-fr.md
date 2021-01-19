@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Vr7OODksL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087CGF5FZ-fr Mini PC  Intel Celeron Processor J3455 8 Go DDR4 / 64 Go eMMC Mini Desktop Computer avec Windows 10 Pro  Connexion HDMI et VGA  WiFi Double Bande  BT 4.2  3 * USB 3.0  Support VESA'
+slug: 'B087CGF5FZ-fr Mini PC Intel Celeron Processor J3455 8 Go DDR4 / 64 Go...'
+tags: 
 actualPrice: 161.49 EUR
 currency: EUR
 price: 161.49

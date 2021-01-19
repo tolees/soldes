@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sI8A5zZ3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015X7NKL0-fr Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent 26 x 39 x 25 cm 5 L'
+slug: 'B015X7NKL0-fr Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

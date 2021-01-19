@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/518gQx05GgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BXX74OS-fr Thomas 788568 Aspirateur filtre à eau Orange/Gris 1 8 L 1600 W'
+slug: 'B00BXX74OS-fr Thomas 788568 Aspirateur filtre à eau Orange/Gris 1 8 L...'
+tags: 
 actualPrice: 239.9 EUR
 currency: EUR
 price: 239.9

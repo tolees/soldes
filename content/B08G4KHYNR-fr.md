@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41uyLyjJ46L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G4KHYNR-fr TUTUO Manette Switch  Manette Pro sans Fil pour Nintendo Switch  Bluetooth Remplacement Joy Con Switch Gamepad Joysticks Gauche et Droite Joypads avec Double Shock and 6-Axis Gyro'
+slug: 'B08G4KHYNR-fr TUTUO Manette Switch Manette Pro sans Fil pour Nintendo...'
+tags: 
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

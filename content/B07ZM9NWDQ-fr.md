@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QEdvaAgRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZM9NWDQ-fr Masseur Cervical  Appareil de Massage Électrique  Masseur de nuque portable  Massage par Impulsions Basse Fréquence 6 Types de Méthodes de Massage'
+slug: 'B07ZM9NWDQ-fr Masseur Cervical Appareil de Massage Électrique Masseur de...'
+tags: 
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

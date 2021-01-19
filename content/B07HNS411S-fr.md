@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s3yboT06L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HNS411S-fr Design Antenne Full HDTV intérieure Amplifiée de One For All avec d Excellente Performance pour  DVB-T  TNT Numérique et Analogique TV Signaux - à 25km Range - Noire - SV9494'
+slug: 'B07HNS411S-fr Design Antenne Full HDTV intérieure Amplifiée de One For...'
+tags: 
 actualPrice: 70.76 EUR
 currency: EUR
 price: 70.76

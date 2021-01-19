@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nMrL9fBbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002SJSWKG-fr Samsonite Aeris - Spinner XL Valise  81 cm  118 5 L  Rouge  Red '
+slug: 'B002SJSWKG-fr Samsonite Aeris - Spinner XL Valise 81 cm 118 5 L Rouge Red'
+tags: 
 actualPrice: 185.17 EUR
 currency: EUR
 price: 185.17

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31L7mwj+ZtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NCJYGXS-fr HÖGL Gently  Escarpins Femme  Noir  Schwarz 0100   41 EU'
+slug: 'B07NCJYGXS-fr HÖGL Gently Escarpins Femme Noir Schwarz 0100 41 EU'
+tags: 
 actualPrice: 80.95 EUR
 currency: EUR
 price: 80.95

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417jFYWRU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5Z8T2J-fr ProCase Coque à Rabat + 2 Film d Écran pour Nintendo Switch Lite en 2019  Étui Antichoc de Protection Flip Cover  Battant Détachable  Verre Trempé Installer Facile  Minimaliste et Assez Sobre-Corail'
+slug: 'B08B5Z8T2J-fr ProCase Coque à Rabat + 2 Film d Écran pour Nintendo...'
+tags: 
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

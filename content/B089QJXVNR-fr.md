@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41PH7FMEu1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089QJXVNR-fr Écouteurs sans Fil Bluetooth 5.0  IPX5 écouteurs étanches Sportifs  Binaural Couplage Automatique  3D Stéréo HiFi  Microphone intégré  pour/iPhone Android/Apple Airpods Pro/Huawei/Samsung/Xiaomi'
+slug: 'B089QJXVNR-fr Écouteurs sans Fil Bluetooth 5.0 IPX5 écouteurs étanches...'
+tags: 
 actualPrice: 33.8 EUR
 currency: EUR
 price: 33.8

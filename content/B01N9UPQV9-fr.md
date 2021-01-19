@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Wf0Yg9VCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N9UPQV9-fr Levi s The Perfect Tee T-Shirt - Femme-Blanc  Sportswear Logo White 0297 -Small'
+slug: 'B01N9UPQV9-fr Levi s The Perfect Tee T-Shirt - Femme-Blanc Sportswear...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Only NOS Onlqueen L/s Long Cardigan KNT  avec 33.34 % rabais '
-date: 2021-01-16 11:54:42
+date: 2021-01-19 13:52:18
 image: 'https://m.media-amazon.com/images/I/41fH9UfdAfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DDT9GFG-fr'
+slug: 'B07DDT9GFG-fr Only NOS Onlqueen L/s Long Cardigan KNT Noos Gilet...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -25,7 +26,7 @@ C'est en vente [Only NOS Onlqueen L/s Long Cardigan KNT Noos Gilet  Multicolore 
 
 ℹ️:
 
-- Cardigan
 - Tricot
+- Cardigan
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DDT9GFG/?tag=tolees0d-21)

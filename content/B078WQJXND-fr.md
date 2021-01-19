@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41dSOsgwqnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WQJXND-fr Samsung SSD Interne 860 PRO  256 Go  - MZ-76P256B/EU'
+slug: 'B078WQJXND-fr Samsung SSD Interne 860 PRO 256 Go - MZ-76P256B/EU'
+tags: 
 actualPrice: 86.49 EUR
 currency: EUR
 price: 86.49

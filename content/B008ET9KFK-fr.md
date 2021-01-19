@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41p9045mxnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ET9KFK-fr KS TOOLS 999.0120 Caisse à outils métallique  5 compartiments - 430 x 200 x 200 mm'
+slug: 'B008ET9KFK-fr KS TOOLS 999.0120 Caisse à outils métallique 5...'
+tags: 
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

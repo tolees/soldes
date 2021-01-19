@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZVQT6LH-fr Levis SS Original HM Tee T-shirt Homme  Bleu  Ueprint   M'
+slug: 'B07ZVQT6LH-fr Levis SS Original HM Tee T-shirt Homme Bleu Ueprint M'
+tags: 
 actualPrice: 12.45 EUR
 currency: EUR
 price: 12.45

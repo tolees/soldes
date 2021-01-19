@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51nQlkezYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HMRP9ZD-fr Jouet Chat  Jouet Poisson Electronique  Jouet Pour Chat Poisson Qui Bouge Avec Cataire  Jouet à Macher Interactif Jouet De Poisso Pour Chats  Jouet Chaton  Chargement Usb  Lavable Pour Mordre  Mâcher'
+slug: 'B08HMRP9ZD-fr Jouet Chat Jouet Poisson Electronique Jouet Pour Chat...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

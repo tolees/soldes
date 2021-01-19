@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RjjdP56RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MHZPYLP-fr MEGIR Montres Hommes étanche Chronographe Sport Analogique Quartz Montres Homme Date Mode Les Loisirs Montre en Cuir Bleu De Haute Qualité'
+slug: 'B07MHZPYLP-fr MEGIR Montres Hommes étanche Chronographe Sport Analogique...'
+tags: 
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

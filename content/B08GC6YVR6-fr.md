@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LpbuO3nKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GC6YVR6-fr Récepteur Bluetooth 5.0 Adaptateur  USB Bluetooth Dongle 2-en-1 Émetteur Récepteur BluetoothTransmetteur Audio Bluetooth avec RCA & 3.5mm  Faible Latence  pour TV/PC/Voiture Système Audio'
+slug: 'B08GC6YVR6-fr Récepteur Bluetooth 5.0 Adaptateur USB Bluetooth Dongle...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

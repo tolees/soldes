@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41oH9Nic0mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTCIEM8-fr Montre CHRONOWATCH Automatique - Affichage Bracelet Métal et Cadran HB5150C2BM1'
+slug: 'B01GTCIEM8-fr Montre CHRONOWATCH Automatique - Affichage Bracelet Métal...'
+tags: 
 actualPrice: 162.0 EUR
 currency: EUR
 price: 162.0

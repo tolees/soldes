@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31hPCk1khqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DH25W8M-fr Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox（1to， Noir）'
+slug: 'B08DH25W8M-fr Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

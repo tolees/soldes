@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OTYMI--0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N4MPIG3-fr Bracelet Magnétique Avec 15 Puissants Aimants Cadeau Homme Original Ceinture Porte Outil Tenir Petits Outils  Vis  Clous  Boulons  Mèches De Perceuse Cadeau Homme Original Bricolage Cadeaux Noel Homme'
+slug: 'B01N4MPIG3-fr Bracelet Magnétique Avec 15 Puissants Aimants Cadeau Homme...'
+tags: 
 actualPrice: 9.97 EUR
 currency: EUR
 price: 9.97

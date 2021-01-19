@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MP8GMO6QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076SSB24J-fr Flexson Supports Muraux pour Sonos One  One SL et Play:1 - Noir  Paire '
+slug: 'B076SSB24J-fr Flexson Supports Muraux pour Sonos One One SL et Play:1 -...'
+tags: 
 actualPrice: 44.69 EUR
 currency: EUR
 price: 44.69

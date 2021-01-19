@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31Um8omOV+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CW7VZWP-fr Riviera & Bar PEJ537 Extracteur de jus  200 W  Rouge'
+slug: 'B07CW7VZWP-fr Riviera & Bar PEJ537 Extracteur de jus 200 W Rouge'
+tags: 
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

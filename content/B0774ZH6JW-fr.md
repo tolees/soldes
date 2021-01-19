@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/312Pm4cJF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0774ZH6JW-fr Brooks Brothers 100097653 Short  Beige  Beige 275   48  Taille Fabricant: 36-  Homme'
+slug: 'B0774ZH6JW-fr Brooks Brothers 100097653 Short Beige Beige 275 48 Taille...'
+tags: 
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41pki7w97TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F1T2PH9-fr Nativi Troll Bluetooth Écouteurs sans Fil Casques sans Fil de Sport  Bluetooth 5.0 Lecture stéréo 3D Bluetooth in-Ear Écouteurs avec Micro Intégré  Ecouteur Bluetooth Sport pour Gym - Blanc'
+slug: 'B08F1T2PH9-fr Nativi Troll Bluetooth Écouteurs sans Fil Casques sans Fil...'
+tags: 
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

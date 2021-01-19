@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31-TiRILDfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B2V16CD-fr FLEXISPOT E5W Bureau Réglable Electrique en Hauteur Bureau Assis-Debout Cadre Seul à 3 Etages  Bureau en Acier Inoxydable avec Panneau Automatique  Travail à Domicile  Blanc '
+slug: 'B07B2V16CD-fr FLEXISPOT E5W Bureau Réglable Electrique en Hauteur Bureau...'
+tags: 
 actualPrice: 379.99 EUR
 currency: EUR
 price: 379.99

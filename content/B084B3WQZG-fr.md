@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/311genZ2qsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084B3WQZG-fr Nouvelle Ring Video Doorbell 3 | Vidéo HD  détection de mouvements personnalisable et installation facile | Essai gratuit de 30 jours à l abonnement Ring Protect inclus'
+slug: 'B084B3WQZG-fr Nouvelle Ring Video Doorbell 3 | Vidéo HD détection de...'
+tags: 
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

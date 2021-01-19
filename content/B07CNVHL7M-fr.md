@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNVHL7M-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 60 Go Interne Solid State Drive Lecture 550Mo/s Ecriture 530Mo/s 60GB'
+slug: 'B07CNVHL7M-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 60 Go...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

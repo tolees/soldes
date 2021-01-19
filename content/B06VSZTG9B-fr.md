@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41exVuyMjJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06VSZTG9B-fr EIVOTOR Localisateur d objets  Localisateur de Clé Key Finder Anti-Perte Clé CherTrouve-clés  Portefeuilles  Animaux avec LED  1 Émetteur RF et 4 Récepteur'
+slug: 'B06VSZTG9B-fr EIVOTOR Localisateur d objets Localisateur de Clé Key...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

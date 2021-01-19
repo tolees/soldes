@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4156XclY4QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTB55WH-fr Anker Enceinte Bluetooth  SoundCore 2 Haut Parleur Portable sans fil avec basses puissantes  autonomie de 24 heures  porté Bluetooth de 20 m  étanche waterproof IPX7 et microphone intégré - Noir'
+slug: 'B01MTB55WH-fr Anker Enceinte Bluetooth SoundCore 2 Haut Parleur Portable...'
+tags: 
 actualPrice: 31.19 EUR
 currency: EUR
 price: 31.19

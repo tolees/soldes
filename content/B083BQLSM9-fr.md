@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pE65wxz8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BQLSM9-fr Toozey Jouets Chat 24 Pièces Jouet Chat Jouet à Plumes pour Chat Jouet Chaton et Kitty avec Plumes  Tunnel  Balles  Souris et Boules avec Sac de Rangement'
+slug: 'B083BQLSM9-fr Toozey Jouets Chat 24 Pièces Jouet Chat Jouet à Plumes...'
+tags: 
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

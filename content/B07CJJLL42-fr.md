@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CJJLL42-fr SONY- Pack HX60 + Batterie Rechargeable'
+tags: 
 actualPrice: 286.98 EUR
 currency: EUR
 price: 286.98

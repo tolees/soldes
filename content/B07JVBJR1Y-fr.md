@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Etsy5eLSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVBJR1Y-fr Siemens EQ.9 Plus Connect s500 TI9553X1RW – Machine à café automatique connectée avec écran tactile – Permet de préparer deux tasses simultanément – Mode Barista – Couleur : Inox'
+slug: 'B07JVBJR1Y-fr Siemens EQ.9 Plus Connect s500 TI9553X1RW – Machine à café...'
+tags: 
 actualPrice: 1750.0 EUR
 currency: EUR
 price: 1750.0

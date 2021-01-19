@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wLZlohFaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KGAOLJK-fr Cristel - M24M - Marmite inox 24cm + couvercle - Collection Mutine'
+slug: 'B00KGAOLJK-fr Cristel - M24M - Marmite inox 24cm + couvercle -...'
+tags: 
 actualPrice: 94.27 EUR
 currency: EUR
 price: 94.27

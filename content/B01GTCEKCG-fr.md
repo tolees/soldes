@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41cyKU4uD7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTCEKCG-fr Montre Louis Cottier Homme Automatique - 43 mm - Cadran Argenté - Bracelet Cuir Noir - HB34330C2BC1'
+slug: 'B01GTCEKCG-fr Montre Louis Cottier Homme Automatique - 43 mm - Cadran...'
+tags: 
 actualPrice: 172.0 EUR
 currency: EUR
 price: 172.0

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/215hBdVh35L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQU5UBN-fr Elgato Thunderbolt 3 Dock - Avec câble de 50 cm  40 Gbit/s  2 ports Thunderbolt 3  USB-C   3 ports USB 3.0  entrée et sortie audio  Gigabit Ethernet'
+slug: 'B01MQU5UBN-fr Elgato Thunderbolt 3 Dock - Avec câble de 50 cm 40 Gbit/s...'
+tags: 
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

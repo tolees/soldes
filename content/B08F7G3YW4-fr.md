@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41X6CoqT-VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F7G3YW4-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3 Dual USB Ports QC3.0 et 5V/1A Chargeur Voiture Appel Main Libre Affichage à LED Clé USB pour iOS et Android'
+slug: 'B08F7G3YW4-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

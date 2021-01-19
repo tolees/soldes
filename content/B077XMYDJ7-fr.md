@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41NNB4U22+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077XMYDJ7-fr Under Armour UA Stormcyclone Sweat à Capuche Homme  Artillery Green/Black  357   FR : S  Taille Fabricant : SM '
+slug: 'B077XMYDJ7-fr Under Armour UA Stormcyclone Sweat à Capuche Homme...'
+tags: 
 actualPrice: 31.28 EUR
 currency: EUR
 price: 31.28

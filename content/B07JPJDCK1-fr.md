@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/319mxucy9vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JPJDCK1-fr Scotch & Soda Maison Club Nomade Basic Sweat Shirt  Red 3127  X-Small Femme'
+slug: 'B07JPJDCK1-fr Scotch & Soda Maison Club Nomade Basic Sweat Shirt Red...'
+tags: 
 actualPrice: 65.76 EUR
 currency: EUR
 price: 65.76

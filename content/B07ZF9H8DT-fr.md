@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/513wa39h4NL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZF9H8DT-fr Rolimate Jeu de Grenouille interactif Marteler des Jouets martelants Aide à la motricité Fine  Jouet de développement pour 3  4  5  6  7  8 Ans garçons Filles bébé Enfant en Bas âge [2 marteaux]'
+slug: 'B07ZF9H8DT-fr Rolimate Jeu de Grenouille interactif Marteler des Jouets...'
+tags: 
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

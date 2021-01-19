@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06ZZWSSD7-fr Morphy Richards Supervac Deluxe 32 V'
+tags: 
 actualPrice: 143.9 EUR
 currency: EUR
 price: 143.9

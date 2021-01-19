@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51pHq7T+uhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01B1NVD2I-fr Philips QP220/50 Lames de Remplacement OneBlade x2  Durent Jusqu à 8 Mois '
+slug: 'B01B1NVD2I-fr Philips QP220/50 Lames de Remplacement OneBlade x2 Durent...'
+tags: 
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pd3ZoIb3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DQ91XNK-fr Seagate Portable 2 To  Disque dur externe portable HDD – USB 3.0 pour PC portable et Mac  STGX2000400   Noir'
+slug: 'B07DQ91XNK-fr Seagate Portable 2 To Disque dur externe portable HDD –...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

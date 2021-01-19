@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41gc5SHRlFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FY31XK2-fr Office 365 Famille  maintenant Microsoft 365 Famille  | jusqu’à 6 utilisateurs | 1 an | PC ou Mac | téléchargement  envoi par la poste '
+slug: 'B07FY31XK2-fr Office 365 Famille maintenant Microsoft 365 Famille |...'
+tags: 
 actualPrice: 53.49 EUR
 currency: EUR
 price: 53.49

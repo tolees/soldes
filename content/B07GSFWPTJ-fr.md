@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41bkgAlsw4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSFWPTJ-fr Neato Robotics D4 Aspirateur Robot Intelligent - Compatible avec Alexa - Robot aspirateur avec station de charge  Wi-Fi & App'
+slug: 'B07GSFWPTJ-fr Neato Robotics D4 Aspirateur Robot Intelligent -...'
+tags: 
 actualPrice: 355.99 EUR
 currency: EUR
 price: 355.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51OxEXyD0yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GH8DSST-fr ARRYNN Coque pour Xiaomi Redmi Note 9 + Film Protection écran en Verre trempé  Housse Ultra Premium TPU Silicone Liquide Flexible pour Xiaomi Redmi Note 9-Vert'
+slug: 'B08GH8DSST-fr ARRYNN Coque pour Xiaomi Redmi Note 9 + Film Protection...'
+tags: 
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y1JfYn25L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LPG0WRY-fr Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x 31 x 19 5 cm'
+slug: 'B00LPG0WRY-fr Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x...'
+tags: 
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

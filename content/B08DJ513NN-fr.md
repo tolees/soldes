@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31OZfPx+NEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ513NN-fr Disque Dur Externe 2to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Rouge '
+slug: 'B08DJ513NN-fr Disque Dur Externe 2to USB3.1 pour PC Mac Ordinateur de...'
+tags: 
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

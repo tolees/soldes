@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21Od1qglIjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y8QWZDW-fr Souris de jeu sans fil Razer Basilisk X Hyperspeed  souris de jeu sans fil  avec technologie Razer HyperSpeed  capteur optique 5G avancé et 6 boutons configurables '
+slug: 'B07Y8QWZDW-fr Souris de jeu sans fil Razer Basilisk X Hyperspeed souris...'
+tags: 
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

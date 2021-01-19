@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41S6aNENHAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009RP47US-fr Time Force Hommes Analogique Quartz Montre avec Bracelet en Caoutchouc TF3330M11'
+slug: 'B009RP47US-fr Time Force Hommes Analogique Quartz Montre avec Bracelet...'
+tags: 
 actualPrice: 92.3 EUR
 currency: EUR
 price: 92.3

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41mIeHSV4lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VGYYC63-fr Calvin Klein Jeans Hooded Blocking Nylon Jacket Veste Bomber  Rouge  Fiery Red/CK Black Xa7   Medium Homme'
+slug: 'B07VGYYC63-fr Calvin Klein Jeans Hooded Blocking Nylon Jacket Veste...'
+tags: 
 actualPrice: 65.05 EUR
 currency: EUR
 price: 65.05

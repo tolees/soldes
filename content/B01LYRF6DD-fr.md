@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31aW+-fpDCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LYRF6DD-fr Diesel Boxers UMBX-KORYTHREEPACK Homme  NOIR  BLACK/BLACK/BLACK 01-0BAOF   M  Lot de 3 '
+slug: 'B01LYRF6DD-fr Diesel Boxers UMBX-KORYTHREEPACK Homme NOIR...'
+tags: 
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

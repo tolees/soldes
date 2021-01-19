@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Y9qZQ+G7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JP7R8K6-fr Pioneer Club 7 Enceinte de Bluetooth  LED Éclarage  Voice Control  USB pour la Lecture MP3  iPhone iOS et Android  App  2X 100 Watt RMS  Noir'
+slug: 'B07JP7R8K6-fr Pioneer Club 7 Enceinte de Bluetooth LED Éclarage Voice...'
+tags: 
 actualPrice: 244.99 EUR
 currency: EUR
 price: 244.99

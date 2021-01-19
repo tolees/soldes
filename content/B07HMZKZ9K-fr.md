@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31pGPyo0poL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HMZKZ9K-fr Strong SRT 2023 Box Android TV 7.1 UHD 4K Google - Lecteur multimedia Smart IPTV  Wifi  LAN  Bluetooth  IPTV  Quad Core  H265  Dolby Digital Plus  - Noir'
+slug: 'B07HMZKZ9K-fr Strong SRT 2023 Box Android TV 7.1 UHD 4K Google - Lecteur...'
+tags: 
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

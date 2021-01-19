@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41BqMvfcOxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088FNPDQS-fr ELYCO Verre Trempé pour Xiaomi Redmi Note 9  [2 Pièces] 9H Dureté sans Bulles Protection écran  Anti-Huile/Anti-Chute/Anti-Rayures/Anti-Empreinte Digitale Protection écran pour Xiaomi Redmi Note 9'
+slug: 'B088FNPDQS-fr ELYCO Verre Trempé pour Xiaomi Redmi Note 9 [2 Pièces] 9H...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

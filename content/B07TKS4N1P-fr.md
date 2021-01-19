@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41LSwLWZbjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKS4N1P-fr Clarks Kaylin Cara  Escarpins Femme  Gris  Stone Stone   38 EU'
+slug: 'B07TKS4N1P-fr Clarks Kaylin Cara Escarpins Femme Gris Stone Stone 38 EU'
+tags: 
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E8K9ZJ4-fr Ayotu Étui pour Kindle Paperwhite 2018 - Étui de Protection en Cuir PU avec Fonction réveil/Veille Automatique pour Amazon Kindle Paperwhite  10ème génération - 2018  Le garçon et Le Renard'
+slug: 'B01E8K9ZJ4-fr Ayotu Étui pour Kindle Paperwhite 2018 - Étui de...'
+tags: 
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

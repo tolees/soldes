@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rUEtb0JeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HG6XZB8-fr mello Plaid canape Grande Taille | Plaid Fourrure Reversible Peau de Mouton  Couvre lit 220x240 | Plaid Polaire Tout Doux  Couverture Polaire pour jeté de canapé  Dessus de lit | Lavable  Gris'
+slug: 'B07HG6XZB8-fr mello Plaid canape Grande Taille | Plaid Fourrure...'
+tags: 
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

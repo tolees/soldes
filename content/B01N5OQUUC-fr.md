@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41XjP3yUNQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5OQUUC-fr IK Multimedia IP-IRIG-ACOSTG-IN Système avancé de micro pour guitare acoustique'
+slug: 'B01N5OQUUC-fr IK Multimedia IP-IRIG-ACOSTG-IN Système avancé de micro...'
+tags: 
 actualPrice: 72.01 EUR
 currency: EUR
 price: 72.01

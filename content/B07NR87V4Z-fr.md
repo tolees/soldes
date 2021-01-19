@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41rP3gTKJIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR87V4Z-fr LLOYD Villod Gore-tex  Bottes & Bottines Classiques Homme  Noir  Schwarz 0   42 EU'
+slug: 'B07NR87V4Z-fr LLOYD Villod Gore-tex Bottes & Bottines Classiques Homme...'
+tags: 
 actualPrice: 140.95 EUR
 currency: EUR
 price: 140.95

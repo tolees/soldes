@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Y2lKQsdNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FFG2T3X-fr 2 Pièces Jouet Chien Corde pour Chiens Grands et Forts  Corde en Coton Indestructible pour Le Nettoyage des Dents de Guerre de Remorqueur de Chien de Grande Race'
+slug: 'B08FFG2T3X-fr 2 Pièces Jouet Chien Corde pour Chiens Grands et Forts...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41KNCfY39eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079QM5GL9-fr iRobot Roomba 671  Aspirateur Robot pour Tapis et Sols Durs  Capteurs de Poussière Dirt Detect  Système de Nettoyage en 3 Étapes  Connecté en WiFi et Programmable via Application'
+slug: 'B079QM5GL9-fr iRobot Roomba 671 Aspirateur Robot pour Tapis et Sols Durs...'
+tags: 
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

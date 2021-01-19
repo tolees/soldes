@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0009M0ADQ-fr Canon CA-570 Chargeur de batterie pour caméscope Canon'
+tags: 
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31sn5AKHm0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BWT415S-fr Schneider Electric SC5S262204 Interrupteur ou va et vient 10 ampères Ovalis complet 230 V'
+slug: 'B00BWT415S-fr Schneider Electric SC5S262204 Interrupteur ou va et vient...'
+tags: 
 actualPrice: 3.7 EUR
 currency: EUR
 price: 3.7

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vgZnpXcTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YNMF56T-fr Roccat Vulcan 122 - Clavier de Jeu Blanc  GAMING mécanique RGB  Rétro-Éclarage LED Aimo Multicolore touche par touche  Switchs Titan  Conception Durable  Plaque Supérieure en aluminium '
+slug: 'B07YNMF56T-fr Roccat Vulcan 122 - Clavier de Jeu Blanc GAMING mécanique...'
+tags: 
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

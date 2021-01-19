@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31lLiZv9THL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L8ZNHNX-fr Replay Anbass Jean Slim  Bleu  Super Light Blue 11   W30/L34  Taille Fabricant: 30  Homme'
+slug: 'B07L8ZNHNX-fr Replay Anbass Jean Slim Bleu Super Light Blue 11 W30/L34...'
+tags: 
 actualPrice: 133.9 EUR
 currency: EUR
 price: 133.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/415RnGjkW-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6XBPL6-fr Eider BROCKWELL JKT W Veste Femme  Purple Wild  FR : L  Taille Fabricant : L '
+slug: 'B07L6XBPL6-fr Eider BROCKWELL JKT W Veste Femme Purple Wild FR : L...'
+tags: 
 actualPrice: 58.32 EUR
 currency: EUR
 price: 58.32

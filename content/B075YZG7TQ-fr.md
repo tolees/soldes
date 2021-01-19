@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41IOX3VpCNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075YZG7TQ-fr Trangoworld Bomio IP  Chaussures de Randonnée Basses Mixte Adulte  Marron  Marron Chocolate 0au   42 EU'
+slug: 'B075YZG7TQ-fr Trangoworld Bomio IP Chaussures de Randonnée Basses Mixte...'
+tags: 
 actualPrice: 62.15 EUR
 currency: EUR
 price: 62.15

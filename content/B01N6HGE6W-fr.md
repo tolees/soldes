@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vPVhP4IIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6HGE6W-fr Foscam Fi9928P Caméra Ip Wifi Extérieure Motorisée Caméra HD Avec Zoom X4 Infrarouge 60 M - Pilotage Et Consultation à Distance 24/7'
+slug: 'B01N6HGE6W-fr Foscam Fi9928P Caméra Ip Wifi Extérieure Motorisée Caméra...'
+tags: 
 actualPrice: 212.4 EUR
 currency: EUR
 price: 212.4

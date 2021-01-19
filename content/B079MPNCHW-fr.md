@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MPNCHW-fr Playmobil - Véhicule de Reconnaissance Spatiale - 9489'
+tags: 
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

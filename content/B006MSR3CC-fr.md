@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51SYsWog62L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006MSR3CC-fr Facom - RLNANO1PB 32005 - Coffret douilles 1/4   6 pans RLNANO1PB - La précision à toute épreuve'
+slug: 'B006MSR3CC-fr Facom - RLNANO1PB 32005 - Coffret douilles 1/4 6 pans...'
+tags: 
 actualPrice: 112.24 EUR
 currency: EUR
 price: 112.24

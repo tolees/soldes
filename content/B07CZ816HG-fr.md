@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/4182KU5DfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZ816HG-fr Under Armour UA Roland Backpack Hydrofuge Pratique  Sac à Dos Polyvalent avec Compartiment à Ordinateur pour MacBook 15" ou Taille similaire Unisexe  Gris  Unique'
+slug: 'B07CZ816HG-fr Under Armour UA Roland Backpack Hydrofuge Pratique Sac à...'
+tags: 
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

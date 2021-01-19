@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41a6clmu8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFQPYR1-fr GT Spirit- Voiture Miniature de Collection  GT217  British Racing Green'
+slug: 'B07PFQPYR1-fr GT Spirit- Voiture Miniature de Collection GT217 British...'
+tags: 
 actualPrice: 95.75 EUR
 currency: EUR
 price: 95.75

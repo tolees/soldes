@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41JxujwtubL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J5PZT43-fr Chartres Basket Métropole Chartres Métropole Basket Short Officiel Extérieur Saison 2018-2019 Basketball Mixte Adulte  Bleu Marine  FR  Taille Fabricant : XL '
+slug: 'B07J5PZT43-fr Chartres Basket Métropole Chartres Métropole Basket Short...'
+tags: 
 actualPrice: 12.97 EUR
 currency: EUR
 price: 12.97

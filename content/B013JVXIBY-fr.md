@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31v5LwKiNAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013JVXIBY-fr Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu  C00088 Pembroke 0142   W33/L32  Taille fabricant: W33/L32 '
+slug: 'B013JVXIBY-fr Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu...'
+tags: 
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41QSebREaCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TMP7FKS-fr Nike Zoom Air Vapor X HC  Chaussures de Tennis Homme  Blanc  White/Laser Crimson-Oracle AQU 108   44 EU'
+slug: 'B07TMP7FKS-fr Nike Zoom Air Vapor X HC Chaussures de Tennis Homme Blanc...'
+tags: 
 actualPrice: 91.47 EUR
 currency: EUR
 price: 91.47

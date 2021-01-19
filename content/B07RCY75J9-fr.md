@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41qRUsl+dYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCY75J9-fr TEFAL Body Partner Pèse Personne Balance Connectée Compatible Health Kit Google Fit - Coaching Sportif Et Nutritionnel Intégré YD3094S1'
+slug: 'B07RCY75J9-fr TEFAL Body Partner Pèse Personne Balance Connectée...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

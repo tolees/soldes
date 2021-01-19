@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31oSULTEalL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NRJ49N5-fr LLOYD Galvan  Desert Boots Homme  Gris  Graphit/Future Grey 1   48 EU'
+slug: 'B07NRJ49N5-fr LLOYD Galvan Desert Boots Homme Gris Graphit/Future Grey 1...'
+tags: 
 actualPrice: 92.41 EUR
 currency: EUR
 price: 92.41

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MkLofdDWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZS8P8L-fr DUAL 28 Days Detox Tea🌱🍵Thé Minceur Infusion pour Perte de Poids et de Graisses🍵Thé Amincissant Purifiant🍵Thé Détoxifiant🍵Complément Alimentaire Naturel🍵Thé en Vrac🍵Fabriqué en Allemagne🌱85g'
+slug: 'B076ZS8P8L-fr DUAL 28 Days Detox Tea🌱🍵Thé Minceur Infusion pour Perte de...'
+tags: 
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51v4-+-RJ0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NX4XKL8-fr BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2 Batteries - 26 Nm - 40 accessoires - Livrée en boite à outil  10.8V'
+slug: 'B07NX4XKL8-fr BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2...'
+tags: 
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

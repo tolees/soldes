@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/21j5FZaPQJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005HDLGQW-fr Beurer TL 80 Lampe de Luminothérapie - 10.000 Lux - Combattez le Blues Hivernal - Simulation de la Lumière du Jour - Angle d Inclinaison Réglable en Continu - CE Médical'
+slug: 'B005HDLGQW-fr Beurer TL 80 Lampe de Luminothérapie - 10.000 Lux -...'
+tags: 
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

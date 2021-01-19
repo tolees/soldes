@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41s+xdz5ScL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JQGPLV1-fr eXtremeRate Coques Avant et Grips Poignée Boîtier Housse de Remplacement pour Xbox One X/One S Manette Contrôleur Modèle 1708 -Grain de Bois'
+slug: 'B08JQGPLV1-fr eXtremeRate Coques Avant et Grips Poignée Boîtier Housse...'
+tags: 
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

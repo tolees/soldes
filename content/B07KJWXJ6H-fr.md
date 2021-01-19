@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31--MybSb0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJWXJ6H-fr El Naturalista N5353 Vaquetilla Aqua  Sandales Bride Arriere Femme  Marron  Caramel Caramel   40 EU'
+slug: 'B07KJWXJ6H-fr El Naturalista N5353 Vaquetilla Aqua Sandales Bride...'
+tags: 
 actualPrice: 48.88 EUR
 currency: EUR
 price: 48.88

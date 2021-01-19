@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ei0lC-vbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JZQ9LD2-fr Apple Watch Series 4  GPS + Cellular  Boîtier en Acier Inoxydable Or de 44 mm avec Bracelet Sport Gris Sable'
+slug: 'B07JZQ9LD2-fr Apple Watch Series 4 GPS + Cellular Boîtier en Acier...'
+tags: 
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

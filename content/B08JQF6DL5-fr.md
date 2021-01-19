@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W4lh6I8PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JQF6DL5-fr eXtremeRate Kit de Coques avec Boutons Colorés pour Nintendo Switch Console Joycons DIY Housse de Remplacement pour NS Manette Contrôleur-Nouvel Espoir Gris'
+slug: 'B08JQF6DL5-fr eXtremeRate Kit de Coques avec Boutons Colorés pour...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

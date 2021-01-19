@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51hgxCHT9iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNTTF41-fr LEGO® Marvel Super Heroes™ Captain America et l attaque des Outriders Jeu 6 Ans et Plus  167 Pièces  76123'
+slug: 'B07FNTTF41-fr LEGO® Marvel Super Heroes™ Captain America et l attaque...'
+tags: 
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

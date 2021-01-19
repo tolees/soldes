@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51FjZJMLblL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077W3S6FL-fr ASICS Gel-Kayano 24  Chaussures de Running Homme  Bleu  Smoke Blue/Smoke Blue/Dark Blue 5656   42 EU'
+slug: 'B077W3S6FL-fr ASICS Gel-Kayano 24 Chaussures de Running Homme Bleu Smoke...'
+tags: 
 actualPrice: 130.56 EUR
 currency: EUR
 price: 130.56

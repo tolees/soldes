@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31MG0m4kMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F21TZM6-fr Blue Star Madrid Vanity  31 cm  12 L  Champagne'
+slug: 'B07F21TZM6-fr Blue Star Madrid Vanity 31 cm 12 L Champagne'
+tags: 
 actualPrice: 36.15 EUR
 currency: EUR
 price: 36.15

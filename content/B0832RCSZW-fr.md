@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41c18mSLTQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0832RCSZW-fr Netac Carte mémoire microSDXC  256G Haute Vitesse UHS-I Carte Micro SD jusqu à 100MB/S  A1  U3  C10  V30  4K  667X Carte TF pour Drone/Dash Cam/Camera/Phone/Nintendo-Switch/PC/Tablette'
+slug: 'B0832RCSZW-fr Netac Carte mémoire microSDXC 256G Haute Vitesse UHS-I...'
+tags: 
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

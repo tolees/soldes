@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51uGsQ-HdfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FQTK3VL-fr eXtremeRate LED Kit DTFS Lumineuses Multicolores D-Pad Boutons AbXY ZR ZL L R pour Nintendo Switch Pro Manette 9 Modes de Couleurs 6 Zones DIY Option Button Contrôle-Boutons Transparents'
+slug: 'B08FQTK3VL-fr eXtremeRate LED Kit DTFS Lumineuses Multicolores D-Pad...'
+tags: 
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

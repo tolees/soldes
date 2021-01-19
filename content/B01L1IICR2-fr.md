@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Ogas4RaUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01L1IICR2-fr Sennheiser HD Casque à Arceau fermé avec Microphone et télécommande 6 3 mm/3 5 mm'
+slug: 'B01L1IICR2-fr Sennheiser HD Casque à Arceau fermé avec Microphone et...'
+tags: 
 actualPrice: 145.49 EUR
 currency: EUR
 price: 145.49

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51XMdT+11PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088BW4HBJ-fr Elyco 2 PCS Brassards de Contrôle pour Nintendo Switch  Brassard de Bande de Danse pour Just Dance 2020/2019 Brassard Bracelet élastique réglable avec Emplacement pour Manette Joy-Cons'
+slug: 'B088BW4HBJ-fr Elyco 2 PCS Brassards de Contrôle pour Nintendo Switch...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

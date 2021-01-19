@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51BzgecVIRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792RGBRY-fr LEGO Harry Potter - L évasion de Grindelwald - 75951 - Jeu de Construction'
+slug: 'B0792RGBRY-fr LEGO Harry Potter - L évasion de Grindelwald - 75951 - Jeu...'
+tags: 
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

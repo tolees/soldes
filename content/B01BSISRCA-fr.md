@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41DXVpyR2KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BSISRCA-fr Tots by Smart Rike 240–109 Parure de lit classic  gris de melange'
+slug: 'B01BSISRCA-fr Tots by Smart Rike 240–109 Parure de lit classic gris de...'
+tags: 
 actualPrice: 32.05 EUR
 currency: EUR
 price: 32.05

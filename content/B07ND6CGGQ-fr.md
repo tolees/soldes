@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51MWxuoJa+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND6CGGQ-fr LEGO®-DUPLO® Disney Princess™ Le château de la Reine des neiges Jouet pour Tout Petits Fille et Garçon dès 2 Ans  59 Pièces de Construction 10899'
+slug: 'B07ND6CGGQ-fr LEGO®-DUPLO® Disney Princess™ Le château de la Reine des...'
+tags: 
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

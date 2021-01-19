@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51X-j3oCxML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792FNM2D-fr Philips QP620/50 OneBlade Kit Lames Visage + Corps  2 Lames + 1 Système de Protection des Zones Sensibles + 1 Sabot Corps '
+slug: 'B0792FNM2D-fr Philips QP620/50 OneBlade Kit Lames Visage + Corps 2 Lames...'
+tags: 
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

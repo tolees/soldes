@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51-bZQYi3xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FJ327LW-fr 100PCS Clips Câbles Adhésif 3M Durables  Rangement de Cordon Serre-Câbles  Gestion de Câble Support Organiseur de Fils Electriques Réglable pour Bureau/Maison/TV/Chargeur/Voiture/PC  Noir '
+slug: 'B08FJ327LW-fr 100PCS Clips Câbles Adhésif 3M Durables Rangement de...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

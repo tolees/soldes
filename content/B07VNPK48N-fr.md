@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OZHnuOzIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNPK48N-fr Ocean Digital Radio Internet Stéréo WiFi/Dab/FM WR280S avec Récepteur Bluetooth  Commande APP à Distance  Entrée Auxiliaire  Sortie Ligne  UPnP/DLNA  Boîtier en Bois  Affichage Couleur de 2 8"'
+slug: 'B07VNPK48N-fr Ocean Digital Radio Internet Stéréo WiFi/Dab/FM WR280S...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

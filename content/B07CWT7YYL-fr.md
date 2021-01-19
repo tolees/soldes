@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Sttbl3aGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWT7YYL-fr Light Box Rose avec 300 Lettres et Emojis  2 Marqueurs - BONNYCO | Ç Inclus | Boite Lumineuse Message Ideal Decoration Maison Chambre Bureau | Tableau Lumineux Idee Cadeau Ado Fille et Femme Original'
+slug: 'B07CWT7YYL-fr Light Box Rose avec 300 Lettres et Emojis 2 Marqueurs -...'
+tags: 
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51RLddCJrnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MBV163Z-fr PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition Graphics Card'
+slug: 'B07MBV163Z-fr PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition...'
+tags: 
 actualPrice: 334.96 EUR
 currency: EUR
 price: 334.96

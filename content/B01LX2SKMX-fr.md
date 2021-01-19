@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31d3EOAnjrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LX2SKMX-fr Belkin Batterie externe Valet Charger pour Apple Watch et iPhone  6 700 mAh  - Chargeur certifié MFi et compatible avec l’iPhone XS  iPhone XS Max  iPhone XR  Apple Watch Series 4 et autres'
+slug: 'B01LX2SKMX-fr Belkin Batterie externe Valet Charger pour Apple Watch et...'
+tags: 
 actualPrice: 73.49 EUR
 currency: EUR
 price: 73.49

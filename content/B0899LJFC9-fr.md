@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31qGX6wJEGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899LJFC9-fr 【2020 dernière】 Barre de Son  2.1 Canaux avec Subwoofer 190 W Haut-Parleur  BOMAKER Barre de Son TV HDMI  Wireless Bluetooth 5.0 Soundbar  Home Cinéma pour TV  PC  PS4  Portable  Tablette -Tapio III'
+slug: 'B0899LJFC9-fr 【2020 dernière】 Barre de Son 2.1 Canaux avec Subwoofer 190...'
+tags: 
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

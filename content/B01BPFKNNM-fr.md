@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41MMu7jgATL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BPFKNNM-fr TP-Link Switch Ethernet Gigabit 8 Ports Web Manageable avec 4 Ports PoE À 55 W  Garantie À Vie  Idéal pour Étendre Le Réseau Câblé pour Les PME et Les Bureaux À Domicile  TL-SG108PE'
+slug: 'B01BPFKNNM-fr TP-Link Switch Ethernet Gigabit 8 Ports Web Manageable...'
+tags: 
 actualPrice: 62.63 EUR
 currency: EUR
 price: 62.63

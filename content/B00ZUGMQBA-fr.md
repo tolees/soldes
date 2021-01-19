@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Uu24GnFKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZUGMQBA-fr Champion Legacy Performance Crew  Lot de 6 paires de Chaussettes  Homme Noir  39-42'
+slug: 'B00ZUGMQBA-fr Champion Legacy Performance Crew Lot de 6 paires de...'
+tags: 
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

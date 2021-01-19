@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31W8hLURyFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLD8D96-fr CYBEX Gold Siège Auto Solution S-Fix  Adapté aux Voitures Avec ou Sans Isofix  Groupes 2/3  15-36 kg   De 3 Ans à 12 Ans Environ  Premium Black'
+slug: 'B07GLD8D96-fr CYBEX Gold Siège Auto Solution S-Fix Adapté aux Voitures...'
+tags: 
 actualPrice: 148.21 EUR
 currency: EUR
 price: 148.21

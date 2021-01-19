@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41xsfHTF6sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMSWP7C-fr Philips GC7933/30 Centrale Vapeur PerfectCare Compact Plus sans réglage 6 5 bar effet pressing jusqu à 450g'
+slug: 'B07MMSWP7C-fr Philips GC7933/30 Centrale Vapeur PerfectCare Compact Plus...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

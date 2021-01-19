@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318BV+zwWWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JKXV15W-fr LAGOSTINA SALVASPAZIO METEORITE 012135040824 Poêle inox revêtue 24 cm Tous feux dont induction  anses et poignés vendues séparemment '
+slug: 'B07JKXV15W-fr LAGOSTINA SALVASPAZIO METEORITE 012135040824 Poêle inox...'
+tags: 
 actualPrice: 79.8 EUR
 currency: EUR
 price: 79.8

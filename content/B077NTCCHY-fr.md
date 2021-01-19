@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51GM8EDWgqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077NTCCHY-fr Coffret Christopher Nolan 7 Films : Dunkerque / Interstellar / Inception / Batman Begins / The Dark Knight / The Dark Knight Rises / Le Prestige - Blu-Ray 4K'
+slug: 'B077NTCCHY-fr Coffret Christopher Nolan 7 Films : Dunkerque /...'
+tags: 
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

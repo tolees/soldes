@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41O28R1J6JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y1QWFBV-fr Levoit Purificateur d Air H13 Hepa Véritable  3 Étapes de Filtration Elimine 99 97% de Fumée Allergènes Poussière Air Purifier avec 3 Vitesses Veilleuse 2/4/6/8H Minuterie sans Ozone  Vista 200'
+slug: 'B07Y1QWFBV-fr Levoit Purificateur d Air H13 Hepa Véritable 3 Étapes de...'
+tags: 
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

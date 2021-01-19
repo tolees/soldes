@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41V5ELYF4OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004WG3ZJG-fr Bionaire - BT19 - colonne ventilateur - modèle à oscillation avec télécommande et minuterie - hauteur 74 cm - argent/noir'
+slug: 'B004WG3ZJG-fr Bionaire - BT19 - colonne ventilateur - modèle à...'
+tags: 
 actualPrice: 49.19 EUR
 currency: EUR
 price: 49.19

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ZURu4ZpeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MXLLD4R-fr Vanguard Pionner Sac Bandoulière  34 cm  6 L  Camouflage'
+slug: 'B01MXLLD4R-fr Vanguard Pionner Sac Bandoulière 34 cm 6 L Camouflage'
+tags: 
 actualPrice: 47.92 EUR
 currency: EUR
 price: 47.92

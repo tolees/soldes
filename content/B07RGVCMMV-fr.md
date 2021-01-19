@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/416oV9WKm4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RGVCMMV-fr ITISME Homme Automne Et Hiver Mode Casual Sport De Jogging De Sport Occasionnels LâChe De SurvêTement Pantalon  L  ZY-Noir '
+slug: 'B07RGVCMMV-fr ITISME Homme Automne Et Hiver Mode Casual Sport De Jogging...'
+tags: 
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

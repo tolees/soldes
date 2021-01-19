@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/61RQD-RuXKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079TPJQDB-fr Monopoly Tricheurs - Jeu de societe - Jeu de plateau - Version française'
+slug: 'B079TPJQDB-fr Monopoly Tricheurs - Jeu de societe - Jeu de plateau -...'
+tags: 
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

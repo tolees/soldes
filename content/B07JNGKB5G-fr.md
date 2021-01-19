@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/317Pvgxa+oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JNGKB5G-fr Scotch & Soda AMS Blauw Light Weight Shirt with Contrast Print Details Chemise Casual   Blue 2344   Medium Homme'
+slug: 'B07JNGKB5G-fr Scotch & Soda AMS Blauw Light Weight Shirt with Contrast...'
+tags: 
 actualPrice: 43.52 EUR
 currency: EUR
 price: 43.52

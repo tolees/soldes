@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/512QUJFXYtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AYZZP5U-fr Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-Fidélité  Noir/Argent'
+slug: 'B01AYZZP5U-fr Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

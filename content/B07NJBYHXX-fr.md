@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31WBGRwi2zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJBYHXX-fr Krups Spécial T Machine à Thé Mini T Théière Electrique à Capsules Noir YY4121FD'
+slug: 'B07NJBYHXX-fr Krups Spécial T Machine à Thé Mini T Théière Electrique à...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

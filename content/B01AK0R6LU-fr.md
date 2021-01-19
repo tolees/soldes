@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41sc6Kj9W0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AK0R6LU-fr Razor - 13173861 - Patinette Électronique - E90 Power Core - Rose'
+slug: 'B01AK0R6LU-fr Razor - 13173861 - Patinette Électronique - E90 Power Core...'
+tags: 
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

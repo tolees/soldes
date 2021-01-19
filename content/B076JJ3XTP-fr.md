@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31rztjesddL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JJ3XTP-fr Cosmo Connected - Cosmo Moto - Noir brillant- Feu de stop et de signalisation connecté pour casque de moto'
+slug: 'B076JJ3XTP-fr Cosmo Connected - Cosmo Moto - Noir brillant- Feu de stop...'
+tags: 
 actualPrice: 61.83 EUR
 currency: EUR
 price: 61.83

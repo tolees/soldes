@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/417zVteB+PL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WWZ26BW-fr Femme Manteau Capuche Fille Hiver Manteau Long Robe Chaud Mode en Vrac Manches Longues Parka Veste Blouson Grande Taille S-5XL'
+slug: 'B07WWZ26BW-fr Femme Manteau Capuche Fille Hiver Manteau Long Robe Chaud...'
+tags: 
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

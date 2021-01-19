@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZajHPQmhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLJWP9F-fr RAMPOW Chargeur USB C 18W Power Delivery [Garantie à Vie] Chargeur Secteur Charge Rapide pour iPhone 11/11 Pro/11 Pro Max  Samsung S10/S9/S8  iPad Pro  Airpods Pro  Xiaomi  Oneplus  Huawei - Noir'
+slug: 'B08BLJWP9F-fr RAMPOW Chargeur USB C 18W Power Delivery [Garantie à Vie]...'
+tags: 
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

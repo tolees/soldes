@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51B0cjtxnuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZF7YFVK-fr COOCHEER Purificateur d air avec Réel Filtre HEPA et Filtre à Charbon  Purificateur air Maison avec Minuterie 1/2/4/8H  3 Vitesses de Vent  Mode Veille  Ultra Silencieux'
+slug: 'B07ZF7YFVK-fr COOCHEER Purificateur d air avec Réel Filtre HEPA et...'
+tags: 
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

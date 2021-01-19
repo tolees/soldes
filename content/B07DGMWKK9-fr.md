@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Etjkyc0FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DGMWKK9-fr Oral-B Vitality 100 Brosse à Dents Électrique Rechargeable par Braun  1 Manche Noir  1 Brossette CrossAction'
+slug: 'B07DGMWKK9-fr Oral-B Vitality 100 Brosse à Dents Électrique Rechargeable...'
+tags: 
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

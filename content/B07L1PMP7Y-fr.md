@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31iJqrpYzLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L1PMP7Y-fr Sebago Classic Dan Suede  Chaussures Bateau Homme  Marron  DK Brown 901   40 EU'
+slug: 'B07L1PMP7Y-fr Sebago Classic Dan Suede Chaussures Bateau Homme Marron DK...'
+tags: 
 actualPrice: 86.15 EUR
 currency: EUR
 price: 86.15

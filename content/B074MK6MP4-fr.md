@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41YHI2eNA+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MK6MP4-fr Havaianas Slim Brasil Logo Tongs-Femme  Bleu  Bleu Marin   39/40 EU'
+slug: 'B074MK6MP4-fr Havaianas Slim Brasil Logo Tongs-Femme Bleu Bleu Marin...'
+tags: 
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

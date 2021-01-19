@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/315JEYBGrgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXS14L8-fr FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte  Noir'
+slug: 'B06XXS14L8-fr FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte Noir'
+tags: 
 actualPrice: 121.24 EUR
 currency: EUR
 price: 121.24

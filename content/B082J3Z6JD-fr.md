@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/318KM2NDykL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082J3Z6JD-fr Britax Römer Poussette citadine | Naissance à 4 ans |  B-AGILE M | Navy Ink'
+slug: 'B082J3Z6JD-fr Britax Römer Poussette citadine | Naissance à 4 ans |...'
+tags: 
 actualPrice: 159.9 EUR
 currency: EUR
 price: 159.9

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31y7YgtGORL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q5SBLZC-fr vo7 Golazo Burgundy  Basket Homme Chic et élégante - Rouge - 44 EU'
+slug: 'B07Q5SBLZC-fr vo7 Golazo Burgundy Basket Homme Chic et élégante - Rouge...'
+tags: 
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

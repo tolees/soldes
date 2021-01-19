@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41vgaVdyOdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HJPCWKO-fr PAUL HEWITT Bracelet Femme PHREP Ancre - Cadeau Femme  Bracelet Femme Style Cordage  Bleu Marine  avec Fermoir Ancre en INOX plaqué Or  Or Rose '
+slug: 'B01HJPCWKO-fr PAUL HEWITT Bracelet Femme PHREP Ancre - Cadeau Femme...'
+tags: 
 actualPrice: 30.44 EUR
 currency: EUR
 price: 30.44

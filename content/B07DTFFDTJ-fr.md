@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51IhxhiLvSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DTFFDTJ-fr Jeux De Construction Mosaique Enfant Puzzle Jeu Motricite Fine Loisir Creatif Puzzle Mosaique Bloc Montessori Jouets avec 180 Pieces pour Enfants Cadeaux 3 4 5 6 Ans Fille Garcon'
+slug: 'B07DTFFDTJ-fr Jeux De Construction Mosaique Enfant Puzzle Jeu Motricite...'
+tags: 
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

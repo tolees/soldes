@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41iVb6fG0gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ULLSWSU-fr Sony Objectif G Macro SEL-90M28G Monture E Plein Format 90 mm F2.8'
+slug: 'B00ULLSWSU-fr Sony Objectif G Macro SEL-90M28G Monture E Plein Format 90...'
+tags: 
 actualPrice: 909.0 EUR
 currency: EUR
 price: 909.0

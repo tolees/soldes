@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31tZTtC+PeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSVKSW7-fr Rockport Madson Plain Toe  Derbys Homme  Marron  Cognac 003   42 EU'
+slug: 'B07FSVKSW7-fr Rockport Madson Plain Toe Derbys Homme Marron Cognac 003...'
+tags: 
 actualPrice: 46.04 EUR
 currency: EUR
 price: 46.04

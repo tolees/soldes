@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41ET9mFvCjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTPYVQH-fr TBS GALAIS  Mokassins Hommes  Gris  Ebene E8015   43 EU'
+slug: 'B07FTPYVQH-fr TBS GALAIS Mokassins Hommes Gris Ebene E8015 43 EU'
+tags: 
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

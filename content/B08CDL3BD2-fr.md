@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51gTdZUbQWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDL3BD2-fr VZATT Go Swing Ouvre-Boîte  Topless Can Opener  Ouvre-boîtes Manuels Professionnel Multifonction Ouvrir des bocaux pour Canettes de Boisson Ouvre-boîtes Outil de Cuisine De 8 À 19 Oz'
+slug: 'B08CDL3BD2-fr VZATT Go Swing Ouvre-Boîte Topless Can Opener Ouvre-boîtes...'
+tags: 
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

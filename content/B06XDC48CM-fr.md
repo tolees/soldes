@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51AovIdRW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XDC48CM-fr BIC Kids Kid Couleur Feutres de Coloriage à Pointe Moyenne - Couleurs Assorties  Etui Carton de 36'
+slug: 'B06XDC48CM-fr BIC Kids Kid Couleur Feutres de Coloriage à Pointe Moyenne...'
+tags: 
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

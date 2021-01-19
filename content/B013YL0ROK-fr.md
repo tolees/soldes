@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41yywYx40mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013YL0ROK-fr Golden Eagle brand new Superbe sculpture de décoration en bronze Par Harriet Dunn'
+slug: 'B013YL0ROK-fr Golden Eagle brand new Superbe sculpture de décoration en...'
+tags: 
 actualPrice: 66.34 EUR
 currency: EUR
 price: 66.34

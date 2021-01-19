@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41odBMS+YuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SFJBCBL-fr Levi s WOODWARD L  Baskets Hommes  Blanc  Regular White 51   44 EU'
+slug: 'B07SFJBCBL-fr Levi s WOODWARD L Baskets Hommes Blanc Regular White 51 44 EU'
+tags: 
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

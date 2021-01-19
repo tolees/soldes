@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51ztuHinMLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BTJQRMC-fr Caffè Carracci  100 Capsules Compatibles Lavazza A Modo Mio  Milano 100% Arabica'
+slug: 'B07BTJQRMC-fr Caffè Carracci 100 Capsules Compatibles Lavazza A Modo Mio...'
+tags: 
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

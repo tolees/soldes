@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31ZMR-1HNCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006JSIHQQ-fr Thetford 92814 Potti Potti 345 Toilette Portable  Blanc-Gris 330 x 383 x 427 mm'
+slug: 'B006JSIHQQ-fr Thetford 92814 Potti Potti 345 Toilette Portable Blanc-...'
+tags: 
 actualPrice: 67.84 EUR
 currency: EUR
 price: 67.84

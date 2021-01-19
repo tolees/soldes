@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41wg2ljnA4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083DWZ29N-fr Vistefly VX Aspirateur sans Fil  23KPA 250W Aspirateur Balai  Autonomie 50 min 1.2L  3 Vitesses Modurable  Multifonctions 2 en 1 Silencieux et Ultra Léger'
+slug: 'B083DWZ29N-fr Vistefly VX Aspirateur sans Fil 23KPA 250W Aspirateur...'
+tags: 
 actualPrice: 134.25 EUR
 currency: EUR
 price: 134.25

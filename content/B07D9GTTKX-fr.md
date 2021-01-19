@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/410ib9YPExL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D9GTTKX-fr Merrell Moab 2 GTX  Chaussures de Randonnée Basses Femme  Gris  Beluga/Olive   37 EU'
+slug: 'B07D9GTTKX-fr Merrell Moab 2 GTX Chaussures de Randonnée Basses Femme...'
+tags: 
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

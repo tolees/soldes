@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51A3zlEGiML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DM8GY2M-fr Olivia s Little World- Maison de poupées  TD-12641C  Rose'
+slug: 'B07DM8GY2M-fr Olivia s Little World- Maison de poupées TD-12641C Rose'
+tags: 
 actualPrice: 64.42 EUR
 currency: EUR
 price: 64.42

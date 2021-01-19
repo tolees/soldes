@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51tZ9XqOq4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFHTQ81-fr Extracteur de Jus Aobosi Sans BPA Extracteur à Jus avec Fonction Reverse Moteur Silencieux Pour Nutritif Jus de Fruits et Légumes'
+slug: 'B07DFHTQ81-fr Extracteur de Jus Aobosi Sans BPA Extracteur à Jus avec...'
+tags: 
 actualPrice: 68.39 EUR
 currency: EUR
 price: 68.39

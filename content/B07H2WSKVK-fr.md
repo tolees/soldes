@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41OAohc78IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H2WSKVK-fr Echo Plus  2ème génération   Tissu anthracite + Ampoule connectée Philips Hue'
+slug: 'B07H2WSKVK-fr Echo Plus 2ème génération Tissu anthracite + Ampoule...'
+tags: 
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

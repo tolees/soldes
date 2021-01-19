@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41o9nDBmwML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075XW7M1B-fr Ultimate Ears Megablast Enceinte sans Fil Portable Connectée  Wifi et Bluetooth  Basses Puissantes  Amazon Alexa Intégrée  Etanche  Batterie 16h  Connection Multiple  Fonction Mains-Libres - Jaune'
+slug: 'B075XW7M1B-fr Ultimate Ears Megablast Enceinte sans Fil Portable...'
+tags: 
 actualPrice: 195.12 EUR
 currency: EUR
 price: 195.12

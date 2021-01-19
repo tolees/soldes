@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51d8kAi2vCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLKK8P7-fr Smith Network MIPS Casque de vélo Adulte Unisexe  Mike Giant  l'
+slug: 'B07GLKK8P7-fr Smith Network MIPS Casque de vélo Adulte Unisexe Mike Giant l'
+tags: 
 actualPrice: 112.5 EUR
 currency: EUR
 price: 112.5

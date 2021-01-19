@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51s7EZOJ+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UYZOWR8-fr Kit d’apprentissage scientifique OSOYOO  Ensemble d’expériences électricité et magnétisme  circuits de construction  pour élèves de la 3e à la 9e année'
+slug: 'B00UYZOWR8-fr Kit d’apprentissage scientifique OSOYOO Ensemble...'
+tags: 
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

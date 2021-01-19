@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31c3WxzuzOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVTFQ34-fr Armor Lux 76874 Pull Homme Multicolore  Navire 300    Large  Taille fabricant: L '
+slug: 'B07NVTFQ34-fr Armor Lux 76874 Pull Homme Multicolore Navire 300 Large...'
+tags: 
 actualPrice: 112.47 EUR
 currency: EUR
 price: 112.47

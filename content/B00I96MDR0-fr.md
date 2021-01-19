@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31k6Lk9AmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I96MDR0-fr Calor FV9960C0 Fer à Repasser Vapeur Sans Fil Freemove Effet Pressing jusqu’à 150g/min Anti-Goutte Anti-Calcaire 2400W Bleu'
+slug: 'B00I96MDR0-fr Calor FV9960C0 Fer à Repasser Vapeur Sans Fil Freemove...'
+tags: 
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

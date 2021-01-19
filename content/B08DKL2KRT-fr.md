@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51Wqlm52BiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKL2KRT-fr Protection Écran pour Samsung Galaxy S10 Plus / S10+ Protection 6 4 Pouces  [3 Pièces] [TPU Film][sans Bulles] Anti-Rayures HD Clair Doux Transparent Film de Protection d écran'
+slug: 'B08DKL2KRT-fr Protection Écran pour Samsung Galaxy S10 Plus / S10+...'
+tags: 
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/51edrxY6jBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0752P4WMB-fr Saint Honoré Femme Analogique Quartz Montre avec Bracelet en Cuir 7620211AFDR'
+slug: 'B0752P4WMB-fr Saint Honoré Femme Analogique Quartz Montre avec Bracelet...'
+tags: 
 actualPrice: 171.36 EUR
 currency: EUR
 price: 171.36

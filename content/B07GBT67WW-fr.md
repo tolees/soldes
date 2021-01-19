@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GBT67WW-fr Pulsar Horloge PG8283X1'
+tags: 
 actualPrice: 63.93 EUR
 currency: EUR
 price: 63.93

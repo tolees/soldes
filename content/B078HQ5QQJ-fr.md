@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41H8psDe8BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078HQ5QQJ-fr Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec Contrôle Actif du Bruit   Noir'
+slug: 'B078HQ5QQJ-fr Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec...'
+tags: 
 actualPrice: 244.93 EUR
 currency: EUR
 price: 244.93

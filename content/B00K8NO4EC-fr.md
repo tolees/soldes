@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41Ls2pHNRrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K8NO4EC-fr Hudson Houghton 2  Bottes Chukka Homme  Marron  Calf Tan   44 EU'
+slug: 'B00K8NO4EC-fr Hudson Houghton 2 Bottes Chukka Homme Marron Calf Tan 44 EU'
+tags: 
 actualPrice: 53.53 EUR
 currency: EUR
 price: 53.53

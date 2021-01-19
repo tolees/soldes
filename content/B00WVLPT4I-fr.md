@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/41P+wLirkcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WVLPT4I-fr Fissler Vitavit Edition Design / Autocuiseur En Acier Inoxydable  6 Litres  Ø 22 Cm   2 Niveaux de Cuisson  Empilable  Adapté à  L Induction'
+slug: 'B00WVLPT4I-fr Fissler Vitavit Edition Design / Autocuiseur En Acier...'
+tags: 
 actualPrice: 184.48 EUR
 currency: EUR
 price: 184.48

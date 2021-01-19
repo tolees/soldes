@@ -6,7 +6,8 @@ image: 'https://m.media-amazon.com/images/I/31KDPHegU6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0052QV9FM-fr Onduleur Eaton Ellipse ECO 500 FR - Off-line UPS - EL500FR - 500VA  4 prises FR '
+slug: 'B0052QV9FM-fr Onduleur Eaton Ellipse ECO 500 FR - Off-line UPS - EL500FR...'
+tags: 
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95
