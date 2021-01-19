@@ -26,7 +26,7 @@ Vous avez [Levi s 712 Jean Slim  Black Sheep  30W/30L Femme](https://www.amazon.
 ℹ️:
 
 - Le jean ultime pour votre look fantastique flatte votre silhouette, sadapte parfaitement et souligne les bons endroits
-- Sadapte à votre silhouette sans serrer
 - Un jean avec une coupe étroite et un chic intemporel
+- Sadapte à votre silhouette sans serrer
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014HPMTUW/?tag=tolees0d-21)
