@@ -1,12 +1,13 @@
 ---
 layout: post
 title: '50.80 % rabais sur Clé USB 3.0 SanDisk Ultra 256 Go avec un'
-date: 2021-01-07 08:43:52
+date: 2021-01-19 14:44:45
 image: 'https://m.media-amazon.com/images/I/31DdaxPyDML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00YFI1A66-fr'
+slug: 'B00YFI1A66-fr Clé USB 3.0 SanDisk Ultra 256 Go avec une vitesse de...'
+tags: 
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99
@@ -25,10 +26,11 @@ Vous avez [Clé USB 3.0 SanDisk Ultra 256 Go avec une vitesse de lecture allant 
 
 ℹ️:
 
-- Transfer a full-length movie in less than 40 seconds
-- Password-protects and encrypts private files with SanDisk SecureAccess software
-- USB 3.0 enabled (USB 2.0 compatible) - up to 10x faster than standard USB 2.0
-- Available in 16 GB, 32 GB, 64 GB, 128 GB and 256 GB capacities
-- Operating temperature 0 degree to 45 degree in Celsius. Storage temperature minus 10 degree to 70 degree in Celsius
+- Jusquà 10 fois plus rapide que les clés USB 2.0 standard
+- Compatible avec Windows Vista, Windows 7, Windows 8 et Mac OS X v10.6+ (téléchargement logiciel requis pour Mac)
+- Protégez par mot de passe et cryptez les fichiers avec le logiciel SanDisk secure access
+- Disponible en capacités de 16 Go, 32 Go, 64 Go, 128 Go et 256 Go
+- Température de fonctionnement : 0 °C à 45 °C; Température de stockage: 50 ° - 158 ° F (–10 ° - 70 ° C )
+- Transférez un film entier en moins de 40 secondes
 
-[Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YFI1A66/?tag=tolees0d-21)
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YFI1A66/?tag=tolees0d-21)

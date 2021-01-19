@@ -29,8 +29,8 @@ C'est en vente [SAMSUNG T7 500 Go USB 3.2 SSD externe gris - MU-PC500T/WW](https
 - Vitesses décriture: jusquà 1000 Mo/s
 - Technologie NVMe pour des débits jusquà 1050 Mo/s
 - USB type C - USB 3.2 Gen.2 (10 Gbps)
+- Design léger et compact en aluminium
 - Sécurisation des données par mot de passe
 - Compatibilité multi-OS (Android, MacOS, Windows)
-- Design léger et compact en aluminium
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087DDSXD3/?tag=tolees0d-21)

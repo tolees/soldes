@@ -26,10 +26,10 @@ C'est en vente [Playmobil - Chevaliers Novelmore avec Canon et Loups - 70225](ht
 
 ℹ️:
 
-- Avec fonction tir et projectiles. Contient 2 figurines qui peuvent être installées sur le char. Dimensions : 34 x 10,5 x 9-10 (inclinaison) cm (LxPxH)
 - Les plus dangereux sont aussi les plus astucieux des chevaliers, avec leur attelage de loups et leurs canons à eau.
-- Rejoins les aventures des courageux chevaliers !
+- Avec fonction tir et projectiles. Contient 2 figurines qui peuvent être installées sur le char. Dimensions : 34 x 10,5 x 9-10 (inclinaison) cm (LxPxH)
 - Convient aux enfants à partir de 5 ans.
+- Rejoins les aventures des courageux chevaliers !
 - Les chevaliers de Novelmore ne partiraient jamais au combat sans leurs fidèles compagnons, les loups Greystone.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P6FL9B5/?tag=tolees0d-21)
