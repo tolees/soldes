@@ -26,9 +26,9 @@ Vous avez [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=to
 
 ℹ️:
 
-- Langue(s) audio : Français, Anglais
-- Date de sortie marché : 16 Octobre 2013
-- Titre : Robin des Bois
 - Date de sortie marché : Octobre 2013
+- Titre : Robin des Bois
+- Date de sortie marché : 16 Octobre 2013
+- Langue(s) audio : Français, Anglais
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)

@@ -26,10 +26,10 @@ Vous avez [UNO Deluxe jeu de société et de cartes  K0888](https://www.amazon.f
 
 ℹ️:
 
-- 2 à 10 joueurs
-- Recouvrir la carte jouée précédemment avec une carte de la même couleur ou avec le même symbole
 - Attention aux cartes action et aux coups de bluff que chacun peut tenter à tout instant
 - La version de luxe contient un carnet de scores et un sabot de distribution, très pratique pour ranger les cartes après la partie
+- Recouvrir la carte jouée précédemment avec une carte de la même couleur ou avec le même symbole
+- 2 à 10 joueurs
 - À partir de sept ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000CFWFYM/?tag=tolees0d-21)
