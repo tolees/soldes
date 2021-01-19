@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313U7OpOLOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XZQM4WK-fr'
+slug: 'B07XZQM4WK-fr Arlo Pro3 Caméra de surveillance Wifi extérieure. Caméra IP 2K HDR  rechargeable. Grand angle 160°  Audio Bi-directionnel Eclairage spotlight intégré  IP65 - Pack de 2 caméras  VMS4240P '
 actualPrice: 353.08 EUR
 currency: EUR
 price: 353.08

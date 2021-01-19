@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41002mkrosL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K6N11VW-fr'
+slug: 'B07K6N11VW-fr PHOTO MASTER NP-FZ100 Batterie de rechange  2280 mAh  pour appareil photo Sony Alpha 9  Alpha 9R  Alpha 9S  Sony A9  Sony A9R  Sony Alpha ILCE-9  Sony A7 III  Sony A7RIII  Sony A7R3  Sony 7RM3'
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

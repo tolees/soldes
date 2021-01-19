@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WcL5KPsxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4ZLGLX-fr'
+slug: 'B07D4ZLGLX-fr 10 FILMS CULTES DVD'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

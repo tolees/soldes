@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511oRpi-PTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDKWPLS-fr'
+slug: 'B07FDKWPLS-fr Truck Driver pour PS4'
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

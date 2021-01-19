@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411PD2PrtQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MRN1BEE-fr'
+slug: 'B01MRN1BEE-fr VTECH - 80-502805 - Formes à  trier et à  empiler - 1 2 3 Petit Dalmatien'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

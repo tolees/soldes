@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/316TnPW+xOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0876CLCDN-fr'
+slug: 'B0876CLCDN-fr Wëasy Mannequin Automatique Magic Pressing  Séchage et Repassage Chemises et Linge IRO320  Pratique Rapide Compact  5 Niveaux de température  minuteur programmable  Tous Types de Tissus'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

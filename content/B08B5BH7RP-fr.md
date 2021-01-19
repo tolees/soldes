@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xDXMXuOyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5BH7RP-fr'
+slug: 'B08B5BH7RP-fr Tinifan Correcteur de Posture pour Homme et Femme  Offrant un Soulagement de la Douleur pour le Cou le Dos et les Lombaires  Réglable et Respirant Avec Soutien de la Colonne Vertébrale et de la Taille'
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

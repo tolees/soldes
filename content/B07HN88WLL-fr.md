@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Nj61tdhnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HN88WLL-fr'
+slug: 'B07HN88WLL-fr 8-Bit Armies - Limited Edition'
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

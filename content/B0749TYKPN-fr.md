@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YbmiOp5zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749TYKPN-fr'
+slug: 'B0749TYKPN-fr Illy Café Moulu Moka Classico 12 x 250 gr'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

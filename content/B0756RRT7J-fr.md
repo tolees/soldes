@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GUJ0CJwtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0756RRT7J-fr'
+slug: 'B0756RRT7J-fr KKmoon Oscilloscope de Signal 2CH Oscilloscope de Stockage Numérique +1 Canal Arbitraire/Fonction Générateur de forme d onde 100MHz 7"TFT 1GSa /s Générateur de signal 25MHZ 12 bits 4nS /div-80S /div'
 actualPrice: 174.99 EUR
 currency: EUR
 price: 174.99

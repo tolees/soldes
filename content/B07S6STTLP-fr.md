@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YzygHfeAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S6STTLP-fr'
+slug: 'B07S6STTLP-fr Coffret à Bijoux Beige Velvet - 18 x 12 x 7 cm'
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

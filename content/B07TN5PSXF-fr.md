@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GBLbBiyYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TN5PSXF-fr'
+slug: 'B07TN5PSXF-fr UMtrade Mode Acier Inoxydable Hommes Christian Sideway Croix Bague Motard Bande Argent 17 mm'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

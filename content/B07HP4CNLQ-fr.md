@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NRgD+yWaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HP4CNLQ-fr'
+slug: 'B07HP4CNLQ-fr Przewalski Veste de cyclisme thermique à manches longues pour homme avec fermeture éclair intégrale et respirante XL Rouge'
 actualPrice: 28.72 EUR
 currency: EUR
 price: 28.72

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51W8Ys3i-oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXYWRBY-fr'
+slug: 'B07XXYWRBY-fr 3 Barils Fer à Boucler Fer à Onduler Professionnelle Support en Métal 2m Cordon Pivotant 360° 110-220V Température 180 ° C / 210 ° C Gant Anti-brûlure  Automatique Iron Bigoudis Homme Femme'
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

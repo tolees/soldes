@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Mq+1D6AVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X91T7CX-fr'
+slug: 'B06X91T7CX-fr GreedFall'
 actualPrice: 20.43 EUR
 currency: EUR
 price: 20.43

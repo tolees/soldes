@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qB5r8al3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKV4P5Q-fr'
+slug: 'B07QKV4P5Q-fr Britax Römer Siège-auto Naissance-18 kg | DUALFIX2 R | Isofix Groupe 0+/1 | Blue Marble'
 actualPrice: 303.03 EUR
 currency: EUR
 price: 303.03

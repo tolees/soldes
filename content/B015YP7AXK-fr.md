@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411OfMeZmuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015YP7AXK-fr'
+slug: 'B015YP7AXK-fr Beurer MP 100 Ensemble de Manucure Pédicure Blanc'
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

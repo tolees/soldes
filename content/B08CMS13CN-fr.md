@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ERiY0hshL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CMS13CN-fr'
+slug: 'B08CMS13CN-fr Disque Dur Externe 1to  USB-C Disque Dur Externe pour PC  Mac  Xbox One  Xbox 360 1To Rouge '
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

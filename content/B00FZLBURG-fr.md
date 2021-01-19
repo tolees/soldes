@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aUjbxGoAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FZLBURG-fr'
+slug: 'B00FZLBURG-fr Manfrotto MT190XPRO3 Trépied en Aluminium 3 Sections Noir'
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

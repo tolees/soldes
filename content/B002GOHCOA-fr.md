@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31QTIeAXGDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002GOHCOA-fr'
+slug: 'B002GOHCOA-fr Tiger KYS21-BK Support pour Clavier réglable - Noir'
 actualPrice: 37.02 EUR
 currency: EUR
 price: 37.02

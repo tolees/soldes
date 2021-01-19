@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41klPAs3fmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTJCVG-fr'
+slug: 'B01BGTJCVG-fr G-Star 3301 Straight Tapered Jeans  Bleu  lt Aged 7607-424   30W / 32L Homme'
 actualPrice: 82.98 EUR
 currency: EUR
 price: 82.98

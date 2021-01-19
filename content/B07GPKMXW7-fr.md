@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Diyto8yXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPKMXW7-fr'
+slug: 'B07GPKMXW7-fr Pierre Cardin Fieldjacket Airtouch Mit UV-Protect Blouson  Beige  Zinc 2605   Large  Taille Fabricant: 52  Homme'
 actualPrice: 75.37 EUR
 currency: EUR
 price: 75.37

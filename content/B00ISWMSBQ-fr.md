@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31e8B4jjQwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ISWMSBQ-fr'
+slug: 'B00ISWMSBQ-fr Fossil Femme Collier JF01146040'
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

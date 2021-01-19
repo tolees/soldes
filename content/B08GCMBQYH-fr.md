@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eNDQ2C5zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GCMBQYH-fr'
+slug: 'B08GCMBQYH-fr Ecouteur Bluetooth Casque Bluetooth sans Fil avec Micro Stereo 15 Heures Playtime Etanche IPX5 Oreillette Bluetooth Sport pour Android iOS PC B-01 '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

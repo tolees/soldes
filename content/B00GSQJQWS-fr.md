@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GqH4OsB9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GSQJQWS-fr'
+slug: 'B00GSQJQWS-fr Beurer UB 86 Chauffe-lit Surmatelas Chauffant 2 Places Confort'
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

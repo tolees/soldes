@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41evOmoWeVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TTR45QM-fr'
+slug: 'B07TTR45QM-fr JSVER Cube Multiprise USB 3 Prises avec 3 Ports USB Chargeur de Voyage 5V3 1A/15 5W  Multiprises Parasurtenseur Parafoudre et Surtension avec Interrupteur Cable 1.5m pour Smartphone Tablette- Noir'
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

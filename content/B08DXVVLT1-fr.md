@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+qzUyl1JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DXVVLT1-fr'
+slug: 'B08DXVVLT1-fr J TOHLO Electric Pro Hair Clippers Rechargeable sans fil de Coupe T-Blade Trimmer Hair Clippers  Tondeuse à Cheveux Coupe-barbe  3 Peignes de Guidage pour Homme Sculptant Oilhead Baldheaded  gold '
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

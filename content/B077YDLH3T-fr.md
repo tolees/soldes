@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Sekt4XtjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077YDLH3T-fr'
+slug: 'B077YDLH3T-fr AEG 005072 Outil de Diagnostic Auto OBD2 Evolution'
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

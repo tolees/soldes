@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TxwZCqcIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Z7VLGL4-fr'
+slug: 'B00Z7VLGL4-fr EXZACT Balance de Cuisine Électronique à Grand Écran avec Bol à Mélanger en Inox - 5 kg / 11lb  EX4350 '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l2f1qBPcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075B3FHW8-fr'
+slug: 'B075B3FHW8-fr Hugo Boss Orange Homme Analogique Classique Quartz Montre avec Bracelet en Cuir 1550054'
 actualPrice: 71.4 EUR
 currency: EUR
 price: 71.4

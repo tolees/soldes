@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zSK2fbSgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3RJ3GJ-fr'
+slug: 'B07V3RJ3GJ-fr Correcteur de posture dos - redresse dos Homme et Femme - Ceinture dorsale réglable pour maintien dos droit - Soutien la Colonne Vertébrale  Cyphose  Cou - Gratuit Sac+Ebook+Bande élastique'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

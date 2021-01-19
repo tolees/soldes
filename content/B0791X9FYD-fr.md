@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319yAoA6n8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0791X9FYD-fr'
+slug: 'B0791X9FYD-fr Tommy Hilfiger Core Tommy Regular Polo  Blanc  Bright White 100   Medium Homme'
 actualPrice: 47.32 EUR
 currency: EUR
 price: 47.32

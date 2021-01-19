@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qFi0JGW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HJCD6QV-fr'
+slug: 'B07HJCD6QV-fr Funko- Figurines Pop Vinyl: Harry Potter S5: Hermione as Cat Collectible Figure  35509  Multcolour'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

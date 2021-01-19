@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tv-GuKrBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00X9SQC2U-fr'
+slug: 'B00X9SQC2U-fr BaByliss Lisseur I-Pro 230 Steam avec technologie Brillance pour un lissage ultime'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lw5SoAKSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3MPM49-fr'
+slug: 'B08D3MPM49-fr Xiaomi band 5 bracelet  Montre Connectée  Trackers d activité AMOLED 1.1" Screen Moniteur de fréquence cardiaque intelligent podomètre surveillance du sommeil calories de charge magnétique 5ATM noir'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Q5rM6k-zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DPVCDN2-fr'
+slug: 'B01DPVCDN2-fr Kyocera KTN-180-HIP  KIZUNA Couteau du chef Céramique Noir'
 actualPrice: 257.16 EUR
 currency: EUR
 price: 257.16

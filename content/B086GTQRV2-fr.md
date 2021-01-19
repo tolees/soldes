@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JDXUefJoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086GTQRV2-fr'
+slug: 'B086GTQRV2-fr Montre Connectée Femmes Homme Smartwatch Etanche Bracelet Connecté Cardio Podomètre Bluetooth Tactile Smart Watch Montre Sport Fitness Trackers d Activité Chronomètre pour Android iOS Téléphone Rose '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

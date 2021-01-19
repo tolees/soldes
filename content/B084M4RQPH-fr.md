@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31rjaMcc0RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084M4RQPH-fr'
+slug: 'B084M4RQPH-fr Sitram COCOTTE en Fonte d acier EMAILLE  Acier  Orange et Blanc  9L'
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

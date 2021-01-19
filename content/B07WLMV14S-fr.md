@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51B8-81aIqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLMV14S-fr'
+slug: 'B07WLMV14S-fr LEGO DUPLO La boîte de briques deluxe  Ensemble de construction avec rangement  Premières briques jouet d apprentissage préscolaire pour tout-petits de 1 5 ans  22 pièces  10914'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

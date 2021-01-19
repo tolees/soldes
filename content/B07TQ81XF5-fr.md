@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51wjNDU+wuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQ81XF5-fr'
+slug: 'B07TQ81XF5-fr VTech RockIt Twist - Console de jeux éducative pour enfant  vert translucide'
 actualPrice: 42.34 EUR
 currency: EUR
 price: 42.34

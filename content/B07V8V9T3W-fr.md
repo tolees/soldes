@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411+ekhBkiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8V9T3W-fr'
+slug: 'B07V8V9T3W-fr Love MoschinoJc4233pp0afemmeSacs bandoulièreÉcru  Ivory 10x18x26 Centimeters  W x H x L '
 actualPrice: 83.38 EUR
 currency: EUR
 price: 83.38

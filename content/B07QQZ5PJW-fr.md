@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3184kxPSYKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QQZ5PJW-fr'
+slug: 'B07QQZ5PJW-fr Seagate Backup Plus Portable 5 To  Disque dur externe HDD  Rouge  USB 3.0  pour PC portable et Mac  abonnement d’un an à Mylio Create  abonnement de 2 mois à Adobe CC pour la Photo  STHP5000403 '
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

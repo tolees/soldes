@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FDyBrykSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00A35X6PI-fr'
+slug: 'B00A35X6PI-fr Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma'
 actualPrice: 600.37 EUR
 currency: EUR
 price: 600.37

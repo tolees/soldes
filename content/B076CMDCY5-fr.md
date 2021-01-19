@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fnDlA5XCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CMDCY5-fr'
+slug: 'B076CMDCY5-fr SAMSONITE Orfeo - Spinner 69/25 Bagage cabine  69 cm  72 liters  Noir  Ink Black '
 actualPrice: 153.0 EUR
 currency: EUR
 price: 153.0

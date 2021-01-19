@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41uCKMFFL7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q6GMCGR-fr'
+slug: 'B07Q6GMCGR-fr Inspire for homes Déshumidificateur & Purificateur d air 2 en 1 - Inspire DP-One  Plastique  Blanc & Noir  31 5 cm'
 actualPrice: 81.03 EUR
 currency: EUR
 price: 81.03

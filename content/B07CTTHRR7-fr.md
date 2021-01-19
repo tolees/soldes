@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Yo7DXnidL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CTTHRR7-fr'
+slug: 'B07CTTHRR7-fr Baby on board 103210 018 Sac à Langer Week End Team Smoke nombreux accessoires Sac jumeaux aussi Gris'
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

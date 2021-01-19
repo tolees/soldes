@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VJ5eyMV7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074MGQF4K-fr'
+slug: 'B074MGQF4K-fr Philips MG3740/15 Tondeuse cheveux et Multi-Styles - Séries 3000 - 9 Accessoires'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

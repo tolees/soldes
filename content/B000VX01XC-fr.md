@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VX01XC-fr'
+slug: 'B000VX01XC-fr Timberland Classic 2 Eye  Chaussures bateau Homme  Marron Rootbeer Smooth  43.5 EU'
 actualPrice: 96.58 EUR
 currency: EUR
 price: 96.58

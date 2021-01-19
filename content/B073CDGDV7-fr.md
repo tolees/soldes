@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G2rmjLJCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073CDGDV7-fr'
+slug: 'B073CDGDV7-fr Mpow Écouteur Bluetooth Sport  IPX7 Étanche Écouteur sans Fil Écouteur Sport sans Fil Basse+ CVC 6.0 Micro Anti-Bruit Oreillette Bluetooth Sport HiFi Stéréo &Autonomie de 10H pour Jogging/Gym/Bureau'
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

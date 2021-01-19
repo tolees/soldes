@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21-aeTm7nnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVJNB9V-fr'
+slug: 'B08CVJNB9V-fr Disque Dur Externe 2to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  2to Or '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

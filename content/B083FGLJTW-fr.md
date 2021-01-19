@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319r85I23uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083FGLJTW-fr'
+slug: 'B083FGLJTW-fr Lacoste BH1966 Veste  Noir  50 Homme'
 actualPrice: 230.98 EUR
 currency: EUR
 price: 230.98

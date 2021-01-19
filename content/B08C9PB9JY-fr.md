@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iOTo1aztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C9PB9JY-fr'
+slug: 'B08C9PB9JY-fr BOBOO Mini RC Drone pour Enfants  Quadcopter RC Pliable avec Mode de Maintien d altitude  décollage et atterrissage à Une Touche  Flips 3D et Mode sans tête  Facile à Piloter pour Les débutants'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

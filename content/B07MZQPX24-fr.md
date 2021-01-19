@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412pewHfMjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZQPX24-fr'
+slug: 'B07MZQPX24-fr Pepe Jeans London Slate Pro Boot  Baskets Hautes Homme    Dark Grey 975   42 EU'
 actualPrice: 69.83 EUR
 currency: EUR
 price: 69.83

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wleb8zqNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S9Y3VDN-fr'
+slug: 'B07S9Y3VDN-fr Jouets 3-8 Ans Garçons Joy-Fun Appareil Photo Enfants Appareil Photo Numerique Enfant Vidéo Record Électronique Jouet Bleu Cadeaux Anniversaire Noël'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

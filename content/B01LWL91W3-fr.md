@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414w2B-UL0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LWL91W3-fr'
+slug: 'B01LWL91W3-fr Swiffer Duster Lingettes Poussière X 10'
 actualPrice: 6.25 EUR
 currency: EUR
 price: 6.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sJ94D3PkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPR4JXS-fr'
+slug: 'B07NPR4JXS-fr Pierre Cardin Smart Casual Sakko Michel2 Washed Denim Academy Blazer  Bleu Grenat  3050   50 Homme'
 actualPrice: 88.64 EUR
 currency: EUR
 price: 88.64

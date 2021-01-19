@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519Hl6+sWUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTC4GWV-fr'
+slug: 'B07RTC4GWV-fr Poopsie - Rainbow Surprise - Asst.'
 actualPrice: 59.29 EUR
 currency: EUR
 price: 59.29

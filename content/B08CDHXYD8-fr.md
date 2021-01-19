@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+K47agsQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDHXYD8-fr'
+slug: 'B08CDHXYD8-fr Kit Soins Barbe pour Hommes  Derma Roller+Sérum Activateur de croissance de Barbe+Baume à Barbe+Peigne à Barbe+Ciseaux à Barbe 5 en 1 Cadeau de soins de Barbe pour Homme'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

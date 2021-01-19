@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-cj+AfyPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWRH2HD-fr'
+slug: 'B07VWRH2HD-fr Naturino Falcotto Haley  Chaussures de Gymnastique Mixte bébé  Bleu  Navy/Celeste 1c28   25 EU'
 actualPrice: 42.58 EUR
 currency: EUR
 price: 42.58

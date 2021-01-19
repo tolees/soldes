@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oNJLR1mNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DZP7SP7-fr'
+slug: 'B07DZP7SP7-fr jolidon – Prelude – Maillot de Bain Une Pièce 100% Européen – Rembourré Bonnets Mousse – Bretelles Fixes – Imprimé – Femme – B Cup – 38/40 - M'
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

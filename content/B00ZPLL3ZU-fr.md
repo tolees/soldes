@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B6ZfY3dLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZPLL3ZU-fr'
+slug: 'B00ZPLL3ZU-fr Siméo PF200 Sorbetière'
 actualPrice: 57.89 EUR
 currency: EUR
 price: 57.89

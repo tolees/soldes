@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516zEivcuNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GY4XH60-fr'
+slug: 'B00GY4XH60-fr PKparis K 1 Clé USB 3.0 64 Go Blanc'
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

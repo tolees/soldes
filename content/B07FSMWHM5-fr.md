@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513FHBKIu8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSMWHM5-fr'
+slug: 'B07FSMWHM5-fr Philips SH90/70 Têtes de Rasoir pour Series 9000'
 actualPrice: 46.19 EUR
 currency: EUR
 price: 46.19

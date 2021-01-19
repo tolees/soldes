@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VnUcRlGPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SXL45X2-fr'
+slug: 'B07SXL45X2-fr Death Stranding - Special Edition'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

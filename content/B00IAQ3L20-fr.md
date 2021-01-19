@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41unf3QqDWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IAQ3L20-fr'
+slug: 'B00IAQ3L20-fr Sony MDR-HW700DS Casque TV sans fil avec son Numérique Surround - Noir'
 actualPrice: 271.99 EUR
 currency: EUR
 price: 271.99

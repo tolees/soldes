@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cUESeDU2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B14J4CB-fr'
+slug: 'B07B14J4CB-fr LEGO Unikitty - La fête - 41453 - Jeu de construction'
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

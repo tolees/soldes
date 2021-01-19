@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IWXXZS6tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084MF1ZHJ-fr'
+slug: 'B084MF1ZHJ-fr 2020 Casque Bluetooth sans BYil avec Suppression du Bruit  Mini Casque Bluetooth Interne de 15 Heures pour Android iOS # BY57'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31CCVQnWc8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N3XXWC3-fr'
+slug: 'B07N3XXWC3-fr Audio Technica ATH-ANC500BTBK Bluetooth Wireless Active Noise-Cancelling Over-Ear Headphones with Microphone  Black '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nsHRSLfTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V8VJKZF-fr'
+slug: 'B07V8VJKZF-fr Love MoschinoJc4233pp0afemmeSacs bandoulièreNoir  Black 10x18x26 Centimeters  W x H x L '
 actualPrice: 100.36 EUR
 currency: EUR
 price: 100.36

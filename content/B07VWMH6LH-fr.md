@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510OjoCtZbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VWMH6LH-fr'
+slug: 'B07VWMH6LH-fr ENKLEN Hub USB C 12 en 1 pour MacBook Pro/Air 2019~2016  Adaptateur de Type C avec Thunderbolt 3  HDMI 4K  USB 3.0/2.0  Lecteur de Carte SD/Micro SD  Gigabit Ethernet  Chargement de Type C  VGA'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

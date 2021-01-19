@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LZk-RgqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRSNTBX-fr'
+slug: 'B07BRSNTBX-fr Manette pour Nintendo Switch iConic - Zelda Link'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

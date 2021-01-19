@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21BQo+84xhL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I3LUUIU-fr'
+slug: 'B00I3LUUIU-fr Sony MDR-EX110APB Ecouteurs Intra-auriculaires avec Microphone - Noir'
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

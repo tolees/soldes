@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J8TpJvqOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0SVLRH-fr'
+slug: 'B01N0SVLRH-fr Réparer Les Vivants [DVD + Copie Digitale]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

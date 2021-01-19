@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412eB3JrSjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K16WJ2D-fr'
+slug: 'B07K16WJ2D-fr adidas Tiro Dufflebag M Sac en toile Black/White FR : Taille Unique  Taille Fabricant : Taille Unique  NoirBlack/White FR : Taille Unique  Taille Fabricant : Taille Unique '
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Z4B13BkUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RB4XTCP-fr'
+slug: 'B07RB4XTCP-fr Garmin - Dash Cam 56 - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie'
 actualPrice: 150.46 EUR
 currency: EUR
 price: 150.46

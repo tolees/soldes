@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j75vs8yzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLN9CWC-fr'
+slug: 'B00VLN9CWC-fr Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Gris  C18976 GRAPHIC H215 MIDTONE HTR GREY GRAPHIC H215-HM 36.2   Large'
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

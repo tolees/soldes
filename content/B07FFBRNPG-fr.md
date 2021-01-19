@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31frny2W1lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFBRNPG-fr'
+slug: 'B07FFBRNPG-fr CYBEX Gold Sac à Langer Scuderia Ferrari  Victory Black'
 actualPrice: 72.48 EUR
 currency: EUR
 price: 72.48

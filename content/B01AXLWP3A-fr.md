@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41tiZP3wuZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXLWP3A-fr'
+slug: 'B01AXLWP3A-fr Philips S3510/08 Rasoir électique Series 3000 rechargeable avec système ComfortCut et tondeuse de précision rétractable'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

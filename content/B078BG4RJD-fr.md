@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41a6HqxzbrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078BG4RJD-fr'
+slug: 'B078BG4RJD-fr eXtremeRate Support Vertical Noir pour Xbox One X Console'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

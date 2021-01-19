@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41y4-t59TBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GMZ9PQ-fr'
+slug: 'B078GMZ9PQ-fr Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation Passive du Bruit avec Technologie à 4 Microphones - Noir Titane'
 actualPrice: 97.32 EUR
 currency: EUR
 price: 97.32

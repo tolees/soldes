@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418I9NKVamL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08G8CZYR1-fr'
+slug: 'B08G8CZYR1-fr Maegoo Manette PS4 sans Fil  Bluetooth Dualshock 4 Manette Joystick Gamepad pour Playstation 4/PS4 Slim/PS4 Pro avec Double Vibration et Capteur Gyroscopique 6 Axes  Écran Tactile et Fonction Audio'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AvChQMcvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00Y4XUJLE-fr'
+slug: 'B00Y4XUJLE-fr Lacoste PH4014-00 - Polo - Homme  Bleu  Marine 166   Medium'
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

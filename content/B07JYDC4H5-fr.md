@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i1zn1A1+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYDC4H5-fr'
+slug: 'B07JYDC4H5-fr Tommy Jeans TJM Vertical Stripe Hoodie Pull  Multicolore  Flame Scarlet/Multi 667   Medium Homme'
 actualPrice: 83.51 EUR
 currency: EUR
 price: 83.51

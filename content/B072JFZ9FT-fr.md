@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418fecbpW0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072JFZ9FT-fr'
+slug: 'B072JFZ9FT-fr Pradel Excellence 7489SN Penderie 6 Ustensils  Nylon  Noir  38 7 x 13 5 x 13 5 cm'
 actualPrice: 10.09 EUR
 currency: EUR
 price: 10.09

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h3x9AON7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCDF2XR-fr'
+slug: 'B07MCDF2XR-fr GANT Max  Chelsea Boots Homme  Marron Tobacco G42  40 EU'
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

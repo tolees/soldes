@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416PQO3SKPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M8J4ZXK-fr'
+slug: 'B07M8J4ZXK-fr L OR Barista LM8012/60 machine à café à capsules Piano Noir'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Eetu6W6BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00AZGM9SU-fr'
+slug: 'B00AZGM9SU-fr Smiffys Perruque de pirate  brune  avec bandana  perles et breloques'
 actualPrice: 13.63 EUR
 currency: EUR
 price: 13.63

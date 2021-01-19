@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-DKnenJyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UMH2CA2-fr'
+slug: 'B00UMH2CA2-fr DWE4237-QS - Mini-amoladora 125mm 1.400W'
 actualPrice: 98.51 EUR
 currency: EUR
 price: 98.51

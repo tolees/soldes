@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LQrDU1M4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004WZ6CRO-fr'
+slug: 'B004WZ6CRO-fr Melitta Machine à Café et Boissons Chaudes Automatique  Buse Vapeur  Caffeo Solo & Milk  Argent  E953-102'
 actualPrice: 310.1 EUR
 currency: EUR
 price: 310.1

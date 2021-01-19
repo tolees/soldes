@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PXPGb4u6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NA9J2FK-fr'
+slug: 'B01NA9J2FK-fr Mâche-Mots - Jeu de societe Mâche-Mots Enfants Contre Parents - Jeu drole de rapidité - Version française'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

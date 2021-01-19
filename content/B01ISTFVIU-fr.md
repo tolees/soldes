@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BVy3typDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01ISTFVIU-fr'
+slug: 'B01ISTFVIU-fr Bosch MUZ9VL1 Accessoire optimum robot culinaire'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

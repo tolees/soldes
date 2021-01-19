@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-3KF+nsbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFDNDVB-fr'
+slug: 'B07LFDNDVB-fr Levi s 514 Straight Jeans  Ivy ADV 1209  31W / 32L Homme'
 actualPrice: 63.25 EUR
 currency: EUR
 price: 63.25

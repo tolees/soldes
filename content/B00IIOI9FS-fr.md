@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vZ-jY2caL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IIOI9FS-fr'
+slug: 'B00IIOI9FS-fr OMRON M3 Tensiomètre Électronique Compact  Détection de Pulsations Cardiaques Irrégulières  Technologie IntelliSense  Validé Cliniquement'
 actualPrice: 52.41 EUR
 currency: EUR
 price: 52.41

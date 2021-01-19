@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SUFKQLoBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFGPFZK-fr'
+slug: 'B07XFGPFZK-fr Sabrent SSD interne Rocket 500GB Nvme PCIe 4.0 M.2 2280 Solid State Drive haute performance  SB- ROCKET-NVMe4-500 '
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61xXc8k70kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008BGNFWA-fr'
+slug: 'B008BGNFWA-fr Lansay - 75024 - Jeu de Société - Les Mystères de Pékin'
 actualPrice: 21.89 EUR
 currency: EUR
 price: 21.89

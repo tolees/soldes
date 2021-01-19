@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Mx-uzWmNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R6TWP2D-fr'
+slug: 'B07R6TWP2D-fr Columbia Powder Lite Hooded Veste à capuche-Homme Bleu  Dark Mountain  M'
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

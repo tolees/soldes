@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61uInT837OL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNFNQ9C-fr'
+slug: 'B07VNFNQ9C-fr STAGLIFE Sac Bandoulière en Cuir Urbain pour Femme Sac de Selle Cadeaux pour Les Filles Adolescents  Marron  30 cm '
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

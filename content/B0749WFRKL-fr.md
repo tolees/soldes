@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ewPe0-YUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749WFRKL-fr'
+slug: 'B0749WFRKL-fr Philips FC8245/09 Aspirateur avec Sac PowerGo  750W  Capacité de Poussière 3L  Suceur Plat Intégré  Bleu'
 actualPrice: 83.19 EUR
 currency: EUR
 price: 83.19

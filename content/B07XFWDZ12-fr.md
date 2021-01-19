@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MhVVe7WkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XFWDZ12-fr'
+slug: 'B07XFWDZ12-fr Microsoft Surface Laptop 3 “ PC UltraPortable  écran 13 pouces  Intel Core i5  8Go de RAM  128Go de stockage SSD  “ Platine  finition Alcantara '
 actualPrice: 969.0 EUR
 currency: EUR
 price: 969.0

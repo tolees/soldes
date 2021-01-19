@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31DH8hCCQ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BEQWQ78-fr'
+slug: 'B01BEQWQ78-fr MagiDeal Coussinet Casque Coussin Remplacement pour Sony MDR ZX100 ZX300 Blanc'
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

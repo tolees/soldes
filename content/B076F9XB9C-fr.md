@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410e-9zVjPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076F9XB9C-fr'
+slug: 'B076F9XB9C-fr Royal Bobbles - Bobble Head Michonne - The Walking Dead'
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

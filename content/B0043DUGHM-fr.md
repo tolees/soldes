@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LPybL6eML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0043DUGHM-fr'
+slug: 'B0043DUGHM-fr Yamaha CD-S300 Lecteur CD mp3 wma USB Noir'
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

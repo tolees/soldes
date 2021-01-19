@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qbQqSTd+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CD3NLY8-fr'
+slug: 'B08CD3NLY8-fr ELKATECH | Garde Boue pour Trottinette Electrique Xiaomi M365 / M365 Pro avec Support de Garde-Boue et Feux Stop | Accessoire de Remplacement Scooter Electrique avec Outils et visserie.'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

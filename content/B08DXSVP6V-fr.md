@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZilTYqtdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DXSVP6V-fr'
+slug: 'B08DXSVP6V-fr Masseur Sans Fil con 10 Modes de Vitesses Différentes  Double Moteur Silencieux  100% Étanche Masseur pour le cou  les épaules  le dos  les jambes  les pieds'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UeNCfsqDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2VP6KH-fr'
+slug: 'B06Y2VP6KH-fr Stanley Sxpw18E Nettoyeur Haute Pression  1800 W  135 Bar  440 L/H'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

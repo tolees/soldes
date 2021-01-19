@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AZ2D-HkfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CXVFYXK-fr'
+slug: 'B08CXVFYXK-fr [Modèle 2020] KKUYI Antenne TV Intérieure  Antenne Numérique Verticale 120 Miles avec Amplificateur de Signal  Antennes TNT Portable 4K 1080P HD VHF UHF pour la Diffusion de Canaux Locaux  Câble 5M'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

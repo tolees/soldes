@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bJFRR833L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DX7QM46-fr'
+slug: 'B07DX7QM46-fr V Tech Tut Tut Bolides Mon premier garage interactif Éthan  pro de la dépanne'
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NHfEvvKvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B018TLVF5A-fr'
+slug: 'B018TLVF5A-fr Halukakah ● Solo ● Homme Bracelet en Cuir Véritable de Main Fermoir Magnétique en Titane Acier 8.46" 21.5cm  avec Le Boîte-Cadeau Gratuit Noir '
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

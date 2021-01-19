@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51g-5FJxO6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X3RS4T3-fr'
+slug: 'B07X3RS4T3-fr Proscenic T21 Friteuse à air Grand écran LED Digital et minuterie et Maintien au Chaud sans Huile  Facile à Utiliser  5.5 liters'
 actualPrice: 96.74 EUR
 currency: EUR
 price: 96.74

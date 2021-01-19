@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31egG1H8ADL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MXWFYP9-fr'
+slug: 'B07MXWFYP9-fr Liebeskind Berlin Round Love Note - Hobo LargefemmeSacs portés épauleNoir  Black  8x30x34 centimeters  B x H x T '
 actualPrice: 174.95 EUR
 currency: EUR
 price: 174.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31epwamfl1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CVHN6TY-fr'
+slug: 'B08CVHN6TY-fr Disque Dur Externe  Disque Dur Externe 2to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  2to Rouge '
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

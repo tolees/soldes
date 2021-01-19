@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GQWNopFaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002YEJE0W-fr'
+slug: 'B002YEJE0W-fr Claude Dozorme 2.60.001.55 Coffret Hêtre 6 Couteaux Steak Super Laguiole Manche Vallernia'
 actualPrice: 137.57 EUR
 currency: EUR
 price: 137.57

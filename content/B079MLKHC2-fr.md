@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T56pUYj1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079MLKHC2-fr'
+slug: 'B079MLKHC2-fr Cole Haan Zerogrand Wingtip Oxford  Richelieus homme   British Tan Leather/Java British Tan/Java   42 EU'
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

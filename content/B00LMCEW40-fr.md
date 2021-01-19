@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4130gmLFF3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LMCEW40-fr'
+slug: 'B00LMCEW40-fr Mano Sets de bagages MPTSET3 Noir 56.0 liters'
 actualPrice: 42.17 EUR
 currency: EUR
 price: 42.17

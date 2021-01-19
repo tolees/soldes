@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P84hLVmcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7TM7S8-fr'
+slug: 'B07W7TM7S8-fr LEGO DUPLO Frozen II  Le goûter d Elsa et Olaf  Grand ensemble de briques avec cupcakes et théière pour tout-petits de 2 ans et plus  94 pièces 10920'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

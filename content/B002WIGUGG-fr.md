@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cExes5lwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002WIGUGG-fr'
+slug: 'B002WIGUGG-fr BIC Cristal Boîte en forme de stylo à bille avec 20 stylos Assortiment de couleurs'
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

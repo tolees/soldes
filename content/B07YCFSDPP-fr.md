@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zfSde84+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YCFSDPP-fr'
+slug: 'B07YCFSDPP-fr Eveil Lumière avec LED Radio Réveil Lumineux Lampe de Chevet 20 Niveaux de Luminosité Simulateur d Aube et Crépuscule Veilleuse  2 Réveils 7 Sons Naturels 7 Couleurs Fonction Snooze Cadeau Idée'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

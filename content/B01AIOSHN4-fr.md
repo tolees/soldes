@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EcAonWJSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AIOSHN4-fr'
+slug: 'B01AIOSHN4-fr Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10 x 18 x 24 5 cm'
 actualPrice: 82.9 EUR
 currency: EUR
 price: 82.9

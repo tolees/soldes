@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WeB3k8XEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYRGKGX-fr'
+slug: 'B01MYRGKGX-fr New Balance ML373BN  Baskets Homme  Rouge  Burgundy/Silver   44.5 EU'
 actualPrice: 51.0 EUR
 currency: EUR
 price: 51.0

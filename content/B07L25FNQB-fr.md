@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317FZo4kPhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L25FNQB-fr'
+slug: 'B07L25FNQB-fr Celio - NECETWO - Polo manches courtes - Coton Supima  Noir   Medium  Taille fabricant:M  Homme'
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MlNWJal-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ND83D6D-fr'
+slug: 'B07ND83D6D-fr Replay Grover Jean Droit   Medium Blue 9   W30/L36  Taille Fabricant: 30  Homme'
 actualPrice: 51.2 EUR
 currency: EUR
 price: 51.2

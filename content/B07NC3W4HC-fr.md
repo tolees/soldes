@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aosNR8ztL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NC3W4HC-fr'
+slug: 'B07NC3W4HC-fr TomTom GPS Voiture GO Premium  5 Pouces  Info Trafic  Alertes de Zones de Danger  Cartes Monde  Mise à Jour via WiFi  Appels mains-libres  Fixation Magnétique Alimentée'
 actualPrice: 229.95 EUR
 currency: EUR
 price: 229.95

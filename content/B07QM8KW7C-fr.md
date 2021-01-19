@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416L3voM5cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QM8KW7C-fr'
+slug: 'B07QM8KW7C-fr CIVO Montre Femme Montre Bracelets de Etanche Analogique Rose Gold Montres pour Femmes Acier Inoxydable Mode Entreprise Quartz Minimaliste Décontractée avec Cadran Gris'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

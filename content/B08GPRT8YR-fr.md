@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tWZvCZOwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GPRT8YR-fr'
+slug: 'B08GPRT8YR-fr QSSTECH Écouteurs Intra-Auriculaires avec Microphone intégré et contrôle du Volume  écouteurs filaires Bluetooth Fonction connecteur pour iPhone SE/11/11 Pro Max/X/XS Max/XR/8/8 Plus/7/7 Plus'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

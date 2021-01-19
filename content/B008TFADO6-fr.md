@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mX0CtouBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008TFADO6-fr'
+slug: 'B008TFADO6-fr Legrand 412780 Interrupteur horaire analogique modulaire programmable manuel journalier  cadran vertical sans réserve de marche'
 actualPrice: 32.15 EUR
 currency: EUR
 price: 32.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZUPKuVbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HRSN2ZM-fr'
+slug: 'B01HRSN2ZM-fr Sveltus Set Plyobox'
 actualPrice: 129.64 EUR
 currency: EUR
 price: 129.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oQ9NQDJAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076DCN9KB-fr'
+slug: 'B076DCN9KB-fr Carl Victor - Poêle Grill en Fonte 28 cm Poignée en Bois  Induction'
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

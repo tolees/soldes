@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F1B8m6ReL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XLUA5GU-fr'
+slug: 'B00XLUA5GU-fr Bosch Professional 06015A1002 12V System Scie Sauteuse sans-fil GST 12V-70  2 Lames  Patin de Glissement  Pare-éclats  Profondeur de Coupe dans le Bois : 70 mm  sans Batteries/Chargeur  une L-BOXX '
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

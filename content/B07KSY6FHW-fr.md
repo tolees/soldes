@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311xtFAOg8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSY6FHW-fr'
+slug: 'B07KSY6FHW-fr Love Moschino Logo Box Short Sleeve Polo   Black C74   Small Homme'
 actualPrice: 90.58 EUR
 currency: EUR
 price: 90.58

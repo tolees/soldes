@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HAbEPBX0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B010OTZZBA-fr'
+slug: 'B010OTZZBA-fr Sauter SPI4360X - Plaque à induction - Encastrable - 3 Foyers - 7200W - L60 x P52cm - Revêtement verre - Inox - Fabrication Française'
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

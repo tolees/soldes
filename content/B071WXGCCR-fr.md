@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jQdyh6i-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071WXGCCR-fr'
+slug: 'B071WXGCCR-fr L Echelle de Jacob [Blu-Ray]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

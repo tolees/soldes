@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BfVK3LZAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FWJJG5S-fr'
+slug: 'B07FWJJG5S-fr SKIP Lessive Capsules Trio Ultimate Active Clean 38 Lavages'
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

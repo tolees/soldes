@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61q2obwvMWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RP1BNG9-fr'
+slug: 'B07RP1BNG9-fr Figurine - Ghost Recon: Breakpoint - Nomad'
 actualPrice: 36.81 EUR
 currency: EUR
 price: 36.81

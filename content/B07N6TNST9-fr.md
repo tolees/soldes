@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51yeD1BlPOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N6TNST9-fr'
+slug: 'B07N6TNST9-fr Love Moschino Borsa Quilted Nappa Pu  Sacs portés dos femme  Rouge  Rosso   29x30x12 cm  W x H L '
 actualPrice: 181.54 EUR
 currency: EUR
 price: 181.54

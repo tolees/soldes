@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ThihBkdeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084ZPT1C1-fr'
+slug: 'B084ZPT1C1-fr Calor Access Steam Pocket Défroisseur design ultra-compact avec tête pliable prêt en 15 secondes 1300 w débit de vapeur continu de 19 g/minute léger polyvalent réservoir d eau de 120 ml DT3030C0'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

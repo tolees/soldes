@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41J+FMoy3sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G4FSNN3-fr'
+slug: 'B07G4FSNN3-fr Lacoste Hommes Analogique Quartz Montre avec Bracelet en Silicone 2010986'
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51y+pCQhkVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085DBYQNB-fr'
+slug: 'B085DBYQNB-fr Perceuse Visseuse Sans Fil Avec 105Pcs Accessoires  2 Batteries 2.0Ah  45Nm Couple  20 Foret pour Perçage  13mm Mandrin Auto-serrant  2 Vitesses  1H Rapide Chargeur-BHD700B'
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

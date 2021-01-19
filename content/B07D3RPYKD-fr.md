@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Dara2iH9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D3RPYKD-fr'
+slug: 'B07D3RPYKD-fr Zelia - 41604F - Manteau Imperméable ciré Femme Bleu Ciel Medium - Taille FR : 38'
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

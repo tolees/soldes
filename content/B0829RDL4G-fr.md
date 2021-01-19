@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310BGaQGedL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0829RDL4G-fr'
+slug: 'B0829RDL4G-fr PITAYA Adaptateur Bluetooth 5.0 Émetteur et Récepteur 3-en-1 Transmetteur Récepteur Bluetooth sans Fil 3.5mm pour Voiture/TV/PC/système Audio'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

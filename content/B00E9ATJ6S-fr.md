@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rh5QQvJ+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E9ATJ6S-fr'
+slug: 'B00E9ATJ6S-fr Certina c026.407.16.037.00 Montre pour Hommes en Cuir analogique Automatique Taille XL'
 actualPrice: 370.62 EUR
 currency: EUR
 price: 370.62

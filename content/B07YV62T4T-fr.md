@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+0uUhat1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YV62T4T-fr'
+slug: 'B07YV62T4T-fr Videoprojecteur Mini Projecteur Bluetooth Portable - FANGOR Rétroprojecteur 720P 4500Lumen Vidéo Projecteur  Compatible avec HDMI  VGA  USB  AV  Micro USB  Smartphone  PS3/4  TV Stick'
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

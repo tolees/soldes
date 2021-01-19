@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+I7IL6pZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MY6RL6J-fr'
+slug: 'B07MY6RL6J-fr FOG900-RGB'
 actualPrice: 113.15 EUR
 currency: EUR
 price: 113.15

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418hPUrdYxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D79RFLB-fr'
+slug: 'B08D79RFLB-fr ARCHEER Enceinte PC  Haut-parleurs PC RGB 10W Multimédia 2.0 Système de Stéréo Volume Contrôle avec LED Lumineux Barre de Son pour TV PC MP3 MP4 Karaoké Ordinateur Smartphone Tablette'
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

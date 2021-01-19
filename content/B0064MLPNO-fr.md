@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4157EPlpC4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0064MLPNO-fr'
+slug: 'B0064MLPNO-fr Mottez Porte-vélos rabattable 3 vélos Noir'
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

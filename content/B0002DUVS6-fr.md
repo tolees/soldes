@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31l2IxFqNZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0002DUVS6-fr'
+slug: 'B0002DUVS6-fr Rode RM2 Pince pour Microphone Classic/NTK/K2/série NT Noir'
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

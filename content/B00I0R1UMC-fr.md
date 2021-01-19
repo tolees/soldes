@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31E8JTDPwaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00I0R1UMC-fr'
+slug: 'B00I0R1UMC-fr Jupiter Juicepresso 3in1 Slow Juicer extracteur de jus blanc'
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

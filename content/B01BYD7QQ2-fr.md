@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Inw11DCaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BYD7QQ2-fr'
+slug: 'B01BYD7QQ2-fr Oral-B Genius Brosse À Dents Électrique Par Braun'
 actualPrice: 145.3 EUR
 currency: EUR
 price: 145.3

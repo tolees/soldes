@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WkppdX90L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082D87HGH-fr'
+slug: 'B082D87HGH-fr Lintelek Montre Connectée Intelligente Homme Femme Ecran Tactile  Smartwatch Cardio Fréquence Bracelet Connecté Tracker d’activité Podomètre Compatible avec iPhone Samsung Huawei'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

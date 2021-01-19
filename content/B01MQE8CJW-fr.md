@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zhDg6MN7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQE8CJW-fr'
+slug: 'B01MQE8CJW-fr Corsair HARPOON RGB Optique Souris Gaming  Rétro-Éclairge RGB Multicolore  6000 DPI  Noir'
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

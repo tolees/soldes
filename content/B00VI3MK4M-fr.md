@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TfK3QHzuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VI3MK4M-fr'
+slug: 'B00VI3MK4M-fr Smartphone Xiaomi Redmi Note 8T  6.3   - 4 GB - 64 GB - Blue '
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

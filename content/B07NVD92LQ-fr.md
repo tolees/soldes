@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tp31b0PGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVD92LQ-fr'
+slug: 'B07NVD92LQ-fr WORKPRO Mallette Outils 160 Pièces avec Boîte de Rangement  Kit d Outils pour Usage Domestique ou du Travail'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

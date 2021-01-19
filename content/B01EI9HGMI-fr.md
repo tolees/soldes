@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WUyQ9DkFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01EI9HGMI-fr'
+slug: 'B01EI9HGMI-fr adidas Gazelle  Sneakers basses mixte adulte  Bleu  Collegiate Navy/White/Gold Met   43 1/3 EU'
 actualPrice: 62.98 EUR
 currency: EUR
 price: 62.98

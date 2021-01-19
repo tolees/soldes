@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ETFh3X1BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084GRK3NS-fr'
+slug: 'B084GRK3NS-fr AICOK Batteur Électrique de Cuisine 2 en 1 Batteur à Main avec 5 Vitesses et Fonction Turbo  3 5 L Bol  Batteurs sur Socle avec 2 Fouets et 2 Crochets à Pâte en Acier Inoxydable  Noir'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

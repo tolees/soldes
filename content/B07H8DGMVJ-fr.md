@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ym3V93gbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8DGMVJ-fr'
+slug: 'B07H8DGMVJ-fr iPosible Écouteurs Bluetooth 5.0 Écouteur sans Fil 3500mAh TWS IPX7 Oreillette Bluetooth Léger Stéréo Boîte de Charge 120H Réduction du Bruit CVC 8.0 Casque Sport pour Tous Smartphones tablettes etc'
 actualPrice: 25.41 EUR
 currency: EUR
 price: 25.41

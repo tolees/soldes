@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411JpXOwmwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QDLDTM2-fr'
+slug: 'B07QDLDTM2-fr ANRAN CCTV Caméra  1080p IP Caméra sans Fil'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

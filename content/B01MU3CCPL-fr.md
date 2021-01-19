@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TyAnymDjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MU3CCPL-fr'
+slug: 'B01MU3CCPL-fr Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC 5'
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

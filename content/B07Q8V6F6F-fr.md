@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r4sHLr5IL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q8V6F6F-fr'
+slug: 'B07Q8V6F6F-fr Dockers by Gerli 43lu001  Bottes Rangers Homme  Noir  Schwarz 100   44 EU'
 actualPrice: 34.7 EUR
 currency: EUR
 price: 34.7

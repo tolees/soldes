@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LBBVRe43L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F59W1NQ-fr'
+slug: 'B08F59W1NQ-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio sans Fil Kit de Voiture Mains Libres  QC3.0 et 5V/2.4A Chargeur Rapid Voiture 2 Ports USB Lumière Colorée Support Siri TF Card Port Audio 3 5mm  Noir '
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

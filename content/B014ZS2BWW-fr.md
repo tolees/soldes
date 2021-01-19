@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KnxyhiGXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014ZS2BWW-fr'
+slug: 'B014ZS2BWW-fr Safavieh Tapis Shag  Tufté à la main Fibre de Polyester Tapis en Perle  120 X 180 cm'
 actualPrice: 102.88 EUR
 currency: EUR
 price: 102.88

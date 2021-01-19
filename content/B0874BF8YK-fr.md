@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mlgm-SbsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0874BF8YK-fr'
+slug: 'B0874BF8YK-fr Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  Manette Switch Pro pour Nintendo Switch Pro/ Lite et PC  Blanc'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aHrnRlzAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082FVYYKX-fr'
+slug: 'B082FVYYKX-fr Gardena 19300-47 Smart SILENO City 300 Robot Tondeuse Set  Gris foncé/Gris Clair/Turquoise/Orange app Control'
 actualPrice: 692.1 EUR
 currency: EUR
 price: 692.1

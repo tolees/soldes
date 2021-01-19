@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412jyN3sLBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JVBW57L-fr'
+slug: 'B07JVBW57L-fr Siemens EQ.9 Plus s300 TI923309RW – Machine à café automatique avec écran tactile – Permet de préparer deux tasses simultanément – iAroma System et Aroma DoubleShot – Couleur : Noir'
 actualPrice: 1249.9 EUR
 currency: EUR
 price: 1249.9

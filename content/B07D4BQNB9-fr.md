@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5115SiGMr4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D4BQNB9-fr'
+slug: 'B07D4BQNB9-fr Monrinda Unisex Chaussure de Sport Femme Basket de Running Fitness Course Homme Sneakers Jogging Casual'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

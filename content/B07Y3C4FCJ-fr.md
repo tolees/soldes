@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eGCC4MGKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y3C4FCJ-fr'
+slug: 'B07Y3C4FCJ-fr ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

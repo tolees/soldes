@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JYhQNkPPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AZHELKM-fr'
+slug: 'B01AZHELKM-fr New Balance 500 Core  Baskets Homme  Bleu  Navy/Grey Navy   43 EU'
 actualPrice: 45.36 EUR
 currency: EUR
 price: 45.36

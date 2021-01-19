@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LDD9VoueL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BNJL8I4-fr'
+slug: 'B01BNJL8I4-fr HyperX Impact DDR4 HX424S14IBK2/32 Mémoire RAM 2400MHz CL14 SODIMM 32Go Kit  2x16Go '
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

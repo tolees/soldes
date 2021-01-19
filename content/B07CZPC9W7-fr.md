@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412fQ-8SSSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZPC9W7-fr'
+slug: 'B07CZPC9W7-fr Peaktop - Fontaine d eau de jardinière de décor de jardin d extérieur Caractéristique d eau de fontaine VFD8207'
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ArDuwcNBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YQFZB84-fr'
+slug: 'B07YQFZB84-fr Hansaplast Antiseptiques Alcool 70% Volume'
 actualPrice: 1.85 EUR
 currency: EUR
 price: 1.85

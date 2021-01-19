@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51BX1T6ZcnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B12HMPR-fr'
+slug: 'B07B12HMPR-fr LEGO Unikitty - La voiture dans les nuages de Unikitty - 41451 - Jeu de construction'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

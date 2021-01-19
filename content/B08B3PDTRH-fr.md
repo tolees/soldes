@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ASW7ASCcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B3PDTRH-fr'
+slug: 'B08B3PDTRH-fr Rasoir électrique pour hommes  rasoir électrique rotatif rechargeable USB avec tondeuse pop-up et écran LCD  tondeuse à barbe professionnelle pour hommes  IPX7 étanche  Maybuy3069'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

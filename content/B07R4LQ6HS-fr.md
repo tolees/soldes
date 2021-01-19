@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51va0BHbMmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R4LQ6HS-fr'
+slug: 'B07R4LQ6HS-fr HEYSTOP Étui pour Nintendo Switch  11 en 1 Étui de Transport pour Nintendo Switch  2X Grip pour Joy-Con Nintendo Switch  Support de Jeu Ajustable  Protection écran Switch et 6 Thumb Grips'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QcUU3UqpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075DB49FN-fr'
+slug: 'B075DB49FN-fr Synology DS718+ 2 Bay Bureau Boîtier NAS'
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

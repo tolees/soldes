@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/312QFCTTH6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0038TXGL0-fr'
+slug: 'B0038TXGL0-fr Shea Moisture - Noix de Coco & Hibiscus Curl & Shine Shampooing - 384 ml'
 actualPrice: 14.22 EUR
 currency: EUR
 price: 14.22

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xPbvdt0SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014UY9AWU-fr'
+slug: 'B014UY9AWU-fr Pitch Perfect 2'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

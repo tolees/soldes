@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uRFO2RlCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N44ZH2L-fr'
+slug: 'B07N44ZH2L-fr HKT by Hackett London Hkt Jogger Pantalon De Sport  Bleu  Indigo 561   54  Taille Fabricant: X-Large  Homme'
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

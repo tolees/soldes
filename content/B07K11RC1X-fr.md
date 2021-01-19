@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tkj5QrK5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K11RC1X-fr'
+slug: 'B07K11RC1X-fr adidas I-5923 Chaussures de Gymnastique homme - Blanc  Ftwr White   46 EU  11 UK '
 actualPrice: 74.12 EUR
 currency: EUR
 price: 74.12

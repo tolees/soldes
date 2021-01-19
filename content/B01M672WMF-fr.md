@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61U3UOfIp4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M672WMF-fr'
+slug: 'B01M672WMF-fr Jouets Ecoiffier – 2644 - Pack Drive 100 % Chef – Imitations d aliments pour enfants – 20 pièces – Dès 18 mois – Fabriqué en France'
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

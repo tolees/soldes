@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JU0j-IHiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07744QTNW-fr'
+slug: 'B07744QTNW-fr adidas NMD r1 Stlt PK  Chaussures de Fitness Homme  Gris  Gridos/Griuno/Negbas 000   42 EU'
 actualPrice: 149.46 EUR
 currency: EUR
 price: 149.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WmSMWN-5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9BWYJ5-fr'
+slug: 'B07Y9BWYJ5-fr Fauteuil à Bascule Gaming - Sony Geist - noir/bleu'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

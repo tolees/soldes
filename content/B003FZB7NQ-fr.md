@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51997DKla7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003FZB7NQ-fr'
+slug: 'B003FZB7NQ-fr Lexibook D800FR Dictionnaire électronique Larousse'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

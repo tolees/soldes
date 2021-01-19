@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MTWOikFAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0043RSYKE-fr'
+slug: 'B0043RSYKE-fr Staub 1103425 Cocotte Ronde Noir Mat 34 cm'
 actualPrice: 300.04 EUR
 currency: EUR
 price: 300.04

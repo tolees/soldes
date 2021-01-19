@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Flqh1WjAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00GUAHGPG-fr'
+slug: 'B00GUAHGPG-fr Michelin 007875 Chaînes à neige automatique 4x4  75'
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411DiGmJ60L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00T4LTSKO-fr'
+slug: 'B00T4LTSKO-fr HAUPTSTADTKOFFER Valises  75 cm  126 L  Bleu'
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

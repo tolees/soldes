@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61vDFlK-VFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QCPP9ZN-fr'
+slug: 'B07QCPP9ZN-fr Blocs de Construction Magnétiques – Cadeaux de pour Les Enfants – Blocs de constructions aimantés - Jeux pour garçons et Filles - Créatif et éducatif pour Enfants de 2  3  4  5  6  7 Ans'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

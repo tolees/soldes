@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41WKQSL6l6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BUDIY2G-fr'
+slug: 'B01BUDIY2G-fr Wagner W100  2361508  Pistolet à peinture pour bois/métal'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

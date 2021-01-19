@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o7mHxKOyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06WD86GQQ-fr'
+slug: 'B06WD86GQQ-fr Krups YY2931FD Machine à Bière Pression Beertender Avec Coffret 2 Verres Tireuse Pompe à biere Fût 5L Argent Chrome'
 actualPrice: 172.57 EUR
 currency: EUR
 price: 172.57

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418gWdkXGxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLN1F45-fr'
+slug: 'B07WLN1F45-fr LIVOO DOP142N Robot culinaire Chauffant'
 actualPrice: 216.44 EUR
 currency: EUR
 price: 216.44

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41scXjPgT3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000O2YJ0G-fr'
+slug: 'B000O2YJ0G-fr Clatronic Presse Agrumes Automatique Zp3066'
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

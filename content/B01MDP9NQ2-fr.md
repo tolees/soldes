@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gxpSGWgUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MDP9NQ2-fr'
+slug: 'B01MDP9NQ2-fr Babymoov - Nutribaby +   Robot Multifonctions 5 en 1  Grande Capacité pour Bébé  Blanc'
 actualPrice: 127.99 EUR
 currency: EUR
 price: 127.99

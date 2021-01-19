@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S2ZWW0DxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXMI1IW-fr'
+slug: 'B00VXMI1IW-fr G-Star Revend Skinny Jeans  Gris  lt Aged Destroy 6132-1243   28W / 30L Homme'
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

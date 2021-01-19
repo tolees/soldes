@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3110I5FcAyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BHW1NXG-fr'
+slug: 'B08BHW1NXG-fr Disque Dur Externe 1to  Disque Dur Externe USB-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 1To Argent '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

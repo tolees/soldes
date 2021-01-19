@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZRQ9vzGML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078WT24HD-fr'
+slug: 'B078WT24HD-fr Seb YG660100 Yaourtière Multi Délices Express 6 Pots 600W Rouge et Blanc'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XMDseGKnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W863RWN-fr'
+slug: 'B07W863RWN-fr BaByliss Sèche-cheveux Travel Dry 2000 Compact Léger avec poignée pliante'
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z9IRHWvXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009U3FGC0-fr'
+slug: 'B009U3FGC0-fr Terratrend Job 4696/S/6310 Parka Taille S Gris Foncé/Noir'
 actualPrice: 26.66 EUR
 currency: EUR
 price: 26.66

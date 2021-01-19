@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WQuDp7aFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001TWVC4Q-fr'
+slug: 'B001TWVC4Q-fr Makita UH 5570 Taille-haies'
 actualPrice: 95.94 EUR
 currency: EUR
 price: 95.94

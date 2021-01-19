@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jnr7kJUsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RCZ5SM4-fr'
+slug: 'B07RCZ5SM4-fr Pieces Pccollina Leather Bag  Sacs portés épaule femme  Multicolore  Beige   11 5x37x25 cm  B x H T '
 actualPrice: 55.81 EUR
 currency: EUR
 price: 55.81

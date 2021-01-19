@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513oCw9HPVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08JCH3YMN-fr'
+slug: 'B08JCH3YMN-fr Reshias Coque pour Sony Xperia 10 II  Souple Transparent TPU Silicone Anti-Chute Housse Étui avec Deux Verre Trempé Film Protection Écran pour Sony Xperia 10 II  6 0 Pouces '
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

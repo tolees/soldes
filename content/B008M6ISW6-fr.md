@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21HRcSbD2RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008M6ISW6-fr'
+slug: 'B008M6ISW6-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert  Bronze - 40 EU  6.5 UK '
 actualPrice: 89.25 EUR
 currency: EUR
 price: 89.25

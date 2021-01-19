@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41YpkIwNDTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XXJC5K7-fr'
+slug: 'B06XXJC5K7-fr Astone Helmets - Casque de moto MINI CROSS monocolor - Casque jet au look enduro - Casque de moto look cross - casque de ville compact - matt black M'
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

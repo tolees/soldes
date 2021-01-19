@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wrSr56PnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ2P7Y-fr'
+slug: 'B07LFZ2P7Y-fr Geox U Renan B  Sneakers Basses Homme  Noir  Black/Mud C9355   43 EU'
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

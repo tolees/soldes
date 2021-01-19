@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41K9K-eOGIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N98LVFR-fr'
+slug: 'B07N98LVFR-fr BOSS Wmarco Sweat-Shirt  Bleu  Dark Blue 404   Large Homme'
 actualPrice: 113.11 EUR
 currency: EUR
 price: 113.11

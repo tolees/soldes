@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ja6Tif0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VXM67R-fr'
+slug: 'B077VXM67R-fr Nike 894432 T-Shirt Men s  Bleu  Midnight Navy/White 411   FR : 2XL  Taille Fabricant : XXL '
 actualPrice: 56.7 EUR
 currency: EUR
 price: 56.7

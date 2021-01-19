@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51o+AD0X9oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076LS2XL4-fr'
+slug: 'B076LS2XL4-fr HoMedics Bain de Pieds avec Chauffage de l Eau'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

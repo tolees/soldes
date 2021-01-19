@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4114q-v9yeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CC2RKH7-fr'
+slug: 'B08CC2RKH7-fr RUNACC Gants de Course Écran Tactile pour Hommes et Femmes Hiver Gants Chauds Imperméables Gants de Conduite Antidérapants pour Le Cyclisme Vélo Sporting M'
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

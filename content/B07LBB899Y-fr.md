@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-Zk1Gn1kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LBB899Y-fr'
+slug: 'B07LBB899Y-fr Tommy Jeans TJM Tommy Classics Sweatshort  Short Homme - Noir  Tommy 078 L'
 actualPrice: 57.78 EUR
 currency: EUR
 price: 57.78

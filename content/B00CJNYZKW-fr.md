@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XvinC-IYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CJNYZKW-fr'
+slug: 'B00CJNYZKW-fr Purflux L358A filtre à huile'
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

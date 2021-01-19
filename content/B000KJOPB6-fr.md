@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yz0ltwxgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KJOPB6-fr'
+slug: 'B000KJOPB6-fr HERMA Rouleau de film adhésif de protection pour livre  3 m x 40 cm  autocollant  brillant  transparent  7003'
 actualPrice: 4.92 EUR
 currency: EUR
 price: 4.92

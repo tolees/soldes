@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iuqzY6GoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078SY9CWC-fr'
+slug: 'B078SY9CWC-fr Timberland Gateway Pier Casual  Chaussures Oxford Homme  Bleu  Navy Canvas   43 EU'
 actualPrice: 64.48 EUR
 currency: EUR
 price: 64.48

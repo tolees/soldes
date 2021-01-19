@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51liBIvB+dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019WCXL1Q-fr'
+slug: 'B019WCXL1Q-fr Pampers Premium Protection Taille 4  168 Couches  9kg-14kg'
 actualPrice: 61.24 EUR
 currency: EUR
 price: 61.24

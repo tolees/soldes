@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r5kOMhtzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PVG9KQL-fr'
+slug: 'B07PVG9KQL-fr Beelink BT3 Pro II Mini PC Computer Windows 10 4 Go de RAM DDR3 + 64 Go de ROM eMMC Processeur: Intel x5-Z8350 WiFi Double 2.4G+5.8G 1000 Mbps Prise en Charge 4K H.265 BT Assemblé Couleur Noire'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

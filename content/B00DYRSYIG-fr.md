@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m+YEA-MtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DYRSYIG-fr'
+slug: 'B00DYRSYIG-fr Helly Hansen 76493 369-C44 Bridgewater Pantalon de pirate Taille C44 Jaune/Gris Foncé'
 actualPrice: 50.15 EUR
 currency: EUR
 price: 50.15

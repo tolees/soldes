@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dBstbjxEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DHZQ9N7-fr'
+slug: 'B07DHZQ9N7-fr United Colors of Benetton - 2DQ55K1P4 - Manteau longue - Femme - Multicolore  Grey Check  - Multicolore  Grey Check  - FR: 40  Taille Fabricant: 44 '
 actualPrice: 70.31 EUR
 currency: EUR
 price: 70.31

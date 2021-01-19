@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-pJWo+KKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079SR8CRR-fr'
+slug: 'B079SR8CRR-fr Pinypon - 700014086 - Enfants et Bébés  Paquet de 6 Figurines  Famosa '
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

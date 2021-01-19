@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QLdbpW-4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY3JT5H-fr'
+slug: 'B07PY3JT5H-fr HP 25MX Moniteur  62  23 cm  24  5"  FHD  1 ms  1920 x 1080  400CD/M2  1 x HDMI  1 x dp  Noir'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

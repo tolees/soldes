@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bGd8zQUwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8HV6VY-fr'
+slug: 'B07H8HV6VY-fr Nike Air Zoom Wildhorse 5  Chaussures de Running Homme  Noir  Black/Barely Grey/Thunder Grey/Wolf Grey 001   47 EU'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

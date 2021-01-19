@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q6M7mvaRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GE3ZR6S-fr'
+slug: 'B01GE3ZR6S-fr Le Monde de Dory [Blu-Ray]'
 actualPrice: 12.44 EUR
 currency: EUR
 price: 12.44

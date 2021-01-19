@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ji1pu9joL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MD5B94Z-fr'
+slug: 'B07MD5B94Z-fr Masthome Planche à découper en bambou Idéal pour la viande  les légumes  le fromage  les fruits  etc. 4 planches à découper avec rainures et poignées  1 aiguiseur et 1 couteau'
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

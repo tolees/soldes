@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317nQsKViPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078YG9Z8P-fr'
+slug: 'B078YG9Z8P-fr adidas CV4694 Polo Homme  Vert  Sefrye    FR : S  Taille Fabricant : S '
 actualPrice: 15.17 EUR
 currency: EUR
 price: 15.17

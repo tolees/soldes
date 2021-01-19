@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31GjN+e0cOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HJ5C9FZ-fr'
+slug: 'B08HJ5C9FZ-fr Disque Dur Externe 2to USB3.0 SATA  Stockage HDD Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Rouge '
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ktJGIUh4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S6F1UBY-fr'
+slug: 'B00S6F1UBY-fr Sylvanian Families - 5206 - Le bateau de croisière'
 actualPrice: 59.04 EUR
 currency: EUR
 price: 59.04

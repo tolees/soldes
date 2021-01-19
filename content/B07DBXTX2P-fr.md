@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nSIQBlrUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DBXTX2P-fr'
+slug: 'B07DBXTX2P-fr PUMA Cali Wn s   Sneakers Basses femme - Blanc  Puma White-Puma Black 04   38 EU'
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nSn8z8GmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DDVK4R6-fr'
+slug: 'B01DDVK4R6-fr Coussin à Mémoire de Forme GIANFAR | Oreiller Cervical Orthopédique et Ergonomique | Mousse Viscoélastique | Idéal pour Dormir sur Le Côté | Taie avec Thermorégulation |  60x40x12/10cm'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

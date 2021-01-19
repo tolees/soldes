@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YnRicDCZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LTHOEDG-fr'
+slug: 'B01LTHOEDG-fr Miss Peregrine et les Enfants Particuliers [DVD] [DVD]'
 actualPrice: 4.49 EUR
 currency: EUR
 price: 4.49

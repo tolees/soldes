@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51RL2A0f6CL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E4R4RF4-fr'
+slug: 'B00E4R4RF4-fr Piquadro Sac à dos loisir  Marron - CA2943OS'
 actualPrice: 133.65 EUR
 currency: EUR
 price: 133.65

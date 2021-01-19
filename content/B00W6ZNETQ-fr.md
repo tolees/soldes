@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BiX4-kHmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00W6ZNETQ-fr'
+slug: 'B00W6ZNETQ-fr Riviera-et-Bar QP350A Plancha Extra Large'
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

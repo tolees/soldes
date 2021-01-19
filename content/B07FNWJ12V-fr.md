@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gxZl-GEtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNWJ12V-fr'
+slug: 'B07FNWJ12V-fr LEGO® Star Wars™ Action Battle La défense de la base Echo™ Jeu de construction  8 Ans et Plus  504 Pièces  75241'
 actualPrice: 49.52 EUR
 currency: EUR
 price: 49.52

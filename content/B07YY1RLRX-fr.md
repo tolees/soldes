@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U9xUE0YlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YY1RLRX-fr'
+slug: 'B07YY1RLRX-fr SONOFF Mini Interrupteur WiFi Télécommande 4 Pcs  sans Fil Module de Commutation Télécommande Domotique Minuteries Interrupteur Connecté Compatible avec Alexa Echo Google Home'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

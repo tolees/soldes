@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51P27Vja8uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079N2CMRT-fr'
+slug: 'B079N2CMRT-fr Playmobil - Maison de Lucky - 9475'
 actualPrice: 69.64 EUR
 currency: EUR
 price: 69.64

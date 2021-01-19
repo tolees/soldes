@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vrWltwyxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FDV9FY2-fr'
+slug: 'B08FDV9FY2-fr FS - Écouteurs Premium Bluetooth sans Fil  Casque avec Plus de 160H d Autonomie  avec Étui de Chargement  Contrôle Tactile  Appariement Automatique  Microphones Intégrés pour Android  iOS et Windows'
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

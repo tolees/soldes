@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Rp42nbMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KKJHLFC-fr'
+slug: 'B07KKJHLFC-fr KRONENKRAFT Set d ustensiles de Cuisine en Acier Inoxydable de 26 pièces Accessoires de Cuisine  Set de Cuisson  Ensemble Complet d accessoires de Cuisine'
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

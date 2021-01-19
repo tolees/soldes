@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cVp-gfPrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WG8SZ3J-fr'
+slug: 'B07WG8SZ3J-fr Radiateur connecté Wifi Princess - 1500 W - Panneau Verre Noir'
 actualPrice: 76.6 EUR
 currency: EUR
 price: 76.6

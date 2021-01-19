@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Extb0jY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SPDS3KC-fr'
+slug: 'B07SPDS3KC-fr R Roncato Flight Set Da 3 Trolley Mallette Ordinateur à roulettes 76 Centimeters Bleu  Azzurro '
 actualPrice: 193.64 EUR
 currency: EUR
 price: 193.64

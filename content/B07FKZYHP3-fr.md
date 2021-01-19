@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31izhzmZL8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKZYHP3-fr'
+slug: 'B07FKZYHP3-fr find. Fur Lined Hiker Chaussures de Randonnée Basses Marron Brown   41 EU'
 actualPrice: 37.92 EUR
 currency: EUR
 price: 37.92

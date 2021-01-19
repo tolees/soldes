@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SJXRGRPBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMGV7Q9-fr'
+slug: 'B07YMGV7Q9-fr Chie Mihara balis  Sandales Bride Cheville Femmes  Rouge  Ante Rojo Ante Rojo Kassy Natur Ante Rojo Ante Rojo Kassy Natur   40 EU'
 actualPrice: 132.64 EUR
 currency: EUR
 price: 132.64

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f8GzC++oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NC0V7D6-fr'
+slug: 'B01NC0V7D6-fr Russell Hobbs Toaster Grille-Pain  Cuisson Rapide et Uniforme - 23311-56 Victory'
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

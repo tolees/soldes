@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Kxy2EUFtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GTNK2KY-fr'
+slug: 'B01GTNK2KY-fr POC Spine VPD air Vest Protective Mixte Adulte  Uranium Black  Large Slim'
 actualPrice: 99.68 EUR
 currency: EUR
 price: 99.68

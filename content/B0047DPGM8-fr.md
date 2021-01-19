@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-+dhLB3qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0047DPGM8-fr'
+slug: 'B0047DPGM8-fr Tiger LEC7-BK Support pour PC et Projecteur - Noir'
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

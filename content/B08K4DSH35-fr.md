@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+cX0etkuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08K4DSH35-fr'
+slug: 'B08K4DSH35-fr Portefeuilles Homme Portefeuille en Cuir Gravé Personnalisé pour avec Carte Photo RFID Portefeuille pour Père Mari Famille ami Cadeaux pour Noël Fête des Pères  Gris '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

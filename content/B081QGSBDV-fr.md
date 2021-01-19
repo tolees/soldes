@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21geQeZHS+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081QGSBDV-fr'
+slug: 'B081QGSBDV-fr Savon Le Naturel - Extra Pur de Marseille à la Fleur d Oranger - 500 ml'
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

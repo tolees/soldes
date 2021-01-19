@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w29a-RN2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NVG8Q61-fr'
+slug: 'B07NVG8Q61-fr Mpow H7 Casque Bluetooth sans Fil Casque Audio avec Micro Intégré CVC 6.0 Confortable Cache-Oreilles Portable Casque sans Fil Stéréo Hi-F Casque Bluetooth pour Cours en Ligne/Téléphone/Tablettes/PC'
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

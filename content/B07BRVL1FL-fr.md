@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QNMfDpJ2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BRVL1FL-fr'
+slug: 'B07BRVL1FL-fr Bosch Professional Meuleuse d angle Filaire GWS 18–125 SL  1800 W  Disque Ø : 125 mm  Vitesse à Vide : 2800–12000 min  en Carton '
 actualPrice: 193.88 EUR
 currency: EUR
 price: 193.88

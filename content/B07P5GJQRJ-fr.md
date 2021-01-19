@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hi8v4ebYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5GJQRJ-fr'
+slug: 'B07P5GJQRJ-fr Guess Vikky  Cabas femme  Argenté  Pewter   15x27x32 5 cm  W x H L '
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

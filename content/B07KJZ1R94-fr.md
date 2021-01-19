@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hEHGnpdNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KJZ1R94-fr'
+slug: 'B07KJZ1R94-fr El Naturalista N5282 Lux Suede El Viajero  Bottes & Bottines Classiques Mixte Adulte  Bleu  Ocean Ocean   39 EU'
 actualPrice: 88.65 EUR
 currency: EUR
 price: 88.65

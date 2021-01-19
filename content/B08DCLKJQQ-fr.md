@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516HOUn9zJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DCLKJQQ-fr'
+slug: 'B08DCLKJQQ-fr Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E A42 5G S9 S8 Plus Xiaomi Mi 9T 10 Lite Pro Redmi Note 9 Pro 10 8 8T Poco F2 Pro/X3 Zenfone 3 4 5 6 18W Quick Charge 3.0+2M 2M Cable Type C'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

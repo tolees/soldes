@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31FpQoRE8UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MJ7LSXM-fr'
+slug: 'B07MJ7LSXM-fr HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   Large Homme'
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

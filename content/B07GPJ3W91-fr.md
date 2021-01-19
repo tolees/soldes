@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UJfzGw4YL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GPJ3W91-fr'
+slug: 'B07GPJ3W91-fr Pierre Cardin Steppjacke Airtouch Techno Daune Blouson  Bleu  Granat 3050   Large  Taille Fabricant: 54  Homme'
 actualPrice: 71.35 EUR
 currency: EUR
 price: 71.35

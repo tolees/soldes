@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RFzOT9waL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N27VBW9-fr'
+slug: 'B01N27VBW9-fr Cajoline Adoucissant Concentré Doux Pur Hypoallergénique 750ml'
 actualPrice: 1.63 EUR
 currency: EUR
 price: 1.63

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MUW9Wdb2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYSQMPM-fr'
+slug: 'B07YYSQMPM-fr Silvian Heach Skirt Remire Jupe  Jaune  Lime Fluo Lime Fluo   Large Femme'
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

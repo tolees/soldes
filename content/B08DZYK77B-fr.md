@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DXitt3MmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DZYK77B-fr'
+slug: 'B08DZYK77B-fr XIDISO Basket de Homme Chaussures de Sport Running Course Sport Fitness Sneakers Chaussures de Running Casual Training'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

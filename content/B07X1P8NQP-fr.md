@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dIJw+iUDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1P8NQP-fr'
+slug: 'B07X1P8NQP-fr Samsung Galaxy Note 10+ - Smartphone Portable débloqué 4G  Ecran: 6 8 Pouces - 256 Go - Double Nano-SIM - Android  - Noir'
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

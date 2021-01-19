@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-KLHzbgNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLHCS2H-fr'
+slug: 'B08BLHCS2H-fr LIGHTAILING Jeu De Lumières pour  Architecture Dubaï  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21052 Ne Figurant Pas sur Le Modèle '
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

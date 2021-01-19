@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51-PMFijRZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MZFXQW2-fr'
+slug: 'B07MZFXQW2-fr PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Femmes  Marron  Date 149   37 EU'
 actualPrice: 63.89 EUR
 currency: EUR
 price: 63.89

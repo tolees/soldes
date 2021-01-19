@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GUSNgTDVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X6JJ8Y4-fr'
+slug: 'B07X6JJ8Y4-fr Castaner Carina/8/ss20033  Espadrille  Carina Femme  Natural  41 EU'
 actualPrice: 66.12 EUR
 currency: EUR
 price: 66.12

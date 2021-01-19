@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LqGr6JQdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07J6B6BCG-fr'
+slug: 'B07J6B6BCG-fr Sac à Main Femme Rétro JOSEKO Sac à Bandoulière en Similicuir de Cire à l huile Fourre-Tout Sac à Bandoulière pour Dame avec Longue Sangle Sac de Cours Bandoulière Besace Sacoche Mode Chic'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

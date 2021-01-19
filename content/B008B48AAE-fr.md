@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51uWpxqV73L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008B48AAE-fr'
+slug: 'B008B48AAE-fr Sigma Objectif Macro 18-250 mm F3 5-6 3 DC OS HSM - Monture Canon'
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

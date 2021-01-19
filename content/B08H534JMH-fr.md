@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OMS86h0ML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08H534JMH-fr'
+slug: 'B08H534JMH-fr IHEX Galaxy S9 Plus Verre Trempé  [2 Pièces] [Full Coverage] [Ultra Claire] [sans Bulles] [Anti Rayures] [Dureté 9H] Film Protecteur en Verre trempé de Haute qualité pour Samsung Galaxy S9 Plus'
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

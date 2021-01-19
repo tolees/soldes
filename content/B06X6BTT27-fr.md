@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31r5nSeM2uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06X6BTT27-fr'
+slug: 'B06X6BTT27-fr Rowenta VU6620F0 Ventilateur Colonne sur Pied Eole Infinite 3 Vitesses Tour Oscillation Minuterie 40W'
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

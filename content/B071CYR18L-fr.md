@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21atT9OLA8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CYR18L-fr'
+slug: 'B071CYR18L-fr Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6 Gigabit WiFi AC 2 x SMA pour antenne externe  Noir '
 actualPrice: 131.23 EUR
 currency: EUR
 price: 131.23

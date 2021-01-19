@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r60sk0XNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073SWC3Y8-fr'
+slug: 'B073SWC3Y8-fr BODY WRAP - Body Retro Sculptant avec Armatures et Bretelles Ajustables - Affine Rehausse et Galbe - Invisible sans Couture - Femme - Beige 38-40'
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

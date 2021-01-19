@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518tDS5C8zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZYU8HQA-fr'
+slug: 'B00ZYU8HQA-fr Perel E390F2 Prise Femelle-IP44-Terre Française  Multicolore'
 actualPrice: 2.46 EUR
 currency: EUR
 price: 2.46

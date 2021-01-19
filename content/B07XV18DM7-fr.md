@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31JhVPKRQtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XV18DM7-fr'
+slug: 'B07XV18DM7-fr SteelSeries Sensei Ten – Souris de gaming – Capteur optique TrueMove Pro 18 000 CPI – Design ambidextre – 8 boutons programmables'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

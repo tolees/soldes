@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31H-6FPAzgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSD5MT8-fr'
+slug: 'B07FSD5MT8-fr Rockport Style Purpose 3 Plain Toe  Derbys Homme  Marron  Cognac 002   44.5 EU'
 actualPrice: 70.03 EUR
 currency: EUR
 price: 70.03

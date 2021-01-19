@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TGYQVqtQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M5ZHHYJ-fr'
+slug: 'B07M5ZHHYJ-fr Supra Vaider Chaussures de Skateboard Mixte Adulte  Rouge  Wine-White-M 697  42.5 EU'
 actualPrice: 63.86 EUR
 currency: EUR
 price: 63.86

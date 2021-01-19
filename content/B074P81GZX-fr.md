@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31tWOLSDh9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074P81GZX-fr'
+slug: 'B074P81GZX-fr Victoire Champagne Fut de Chene Mill 2010 Edition Laquee Gold 750 ml'
 actualPrice: 52.68 EUR
 currency: EUR
 price: 52.68

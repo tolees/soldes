@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xpByH-TyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTZU566-fr'
+slug: 'B00TTZU566-fr Visseuse sans fil Bosch -  IXO V Edition Classique  Livrée avec chargeur et 10 embouts de vissage  boîte en métal '
 actualPrice: 40.0 EUR
 currency: EUR
 price: 40.0

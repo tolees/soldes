@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e6iI2fNqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNRFWGX-fr'
+slug: 'B07CNRFWGX-fr Scotch & Soda R´Belle 2-in-1 Style: Long Sleeve Lurex Tee with Inner Tank T-Shirt  Multicolore  Combo A 217   128 Fille'
 actualPrice: 51.62 EUR
 currency: EUR
 price: 51.62

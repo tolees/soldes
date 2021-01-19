@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xEbldE2FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824V6ZCR-fr'
+slug: 'B0824V6ZCR-fr Ecouteur Bluetooth  Écouteur sans Fil 150h de Lecture stéréo 6D CVC 8.0 Oreillette Bluetooth 5.0 avec Affichage LED Commande Tactile  Auriculaires Sport IP8 Étanche avec 3500mA Étui de Chargement'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

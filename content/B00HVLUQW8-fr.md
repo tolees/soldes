@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21iRpcx0DZL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HVLUQW8-fr'
+slug: 'B00HVLUQW8-fr Audio-Technica ATH-M30X Casque audio professionnel Noir'
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

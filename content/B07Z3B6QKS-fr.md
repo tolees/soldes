@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S1xVcxZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3B6QKS-fr'
+slug: 'B07Z3B6QKS-fr Airoh Helmet Helios Color White Gloss M'
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z3LG17T-fr'
+slug: 'B07Z3LG17T-fr YUCUN SSD 240 Go 2 5 Pouces SATA III Disque Flash SSD 240GB Interne Solid State Drive'
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41sfd2jWFdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DK6NJP9-fr'
+slug: 'B07DK6NJP9-fr Samyang AF 24mm F2.8 FE - Grand Angle compact - Objectif autofocus pour Sony E  FE  E-Mount  Sony A9  A7  A6500  A6300  A6000  A5100  A5000  NEX'
 actualPrice: 249.13 EUR
 currency: EUR
 price: 249.13

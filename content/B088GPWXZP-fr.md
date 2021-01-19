@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61j9B9wMzGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088GPWXZP-fr'
+slug: 'B088GPWXZP-fr Upworld Kit de Slime  Bricolage Kit de Fabrication de Slime avec 18 Couleurs Crystal Slime  Suprême Brillance dans Le Noir  Poudre Scintillanter et Plus pour Jouets pour Enfants à partir de 5 Ans'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

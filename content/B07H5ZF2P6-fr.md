@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SqxnK1o-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5ZF2P6-fr'
+slug: 'B07H5ZF2P6-fr Maison Lejaby Wings Soutien-Gorge à Armature  Écru  Lys 801    Taille Fabricant:95D  Femme'
 actualPrice: 79.94 EUR
 currency: EUR
 price: 79.94

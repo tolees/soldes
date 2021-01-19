@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lRLY4-99L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLVR6YM-fr'
+slug: 'B07FLVR6YM-fr RoWrite Royole Smart Digital Véritable Papier Notepad Folio avec Stylo à Bille pour Bureau D écriture Dessin Texte Conversion avec Technologie de Capteur Flexible'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

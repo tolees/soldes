@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rl6qZOikL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019DRIQV0-fr'
+slug: 'B019DRIQV0-fr mountain buggy Poussette de Voyage Compacte 4 Roues Rouge'
 actualPrice: 164.45 EUR
 currency: EUR
 price: 164.45

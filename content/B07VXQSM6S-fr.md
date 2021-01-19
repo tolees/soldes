@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AYdkGhQsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXQSM6S-fr'
+slug: 'B07VXQSM6S-fr Samsung - Écouteurs sans Fil Galaxy Buds - Argent - Version Française'
 actualPrice: 80.76 EUR
 currency: EUR
 price: 80.76

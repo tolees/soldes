@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317A9Kb3OiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZ46X9G-fr'
+slug: 'B08CZ46X9G-fr Disque Dur Externe 2to  Disque Dur Externe USB3.1 Type-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook  Xbox 360 2To Noir '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

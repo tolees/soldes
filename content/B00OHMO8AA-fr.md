@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31w+3Zj702L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OHMO8AA-fr'
+slug: 'B00OHMO8AA-fr Somfy 2400556 - Récepteur Portail/Porte de Garage extérieur Universel | Technologie RTS'
 actualPrice: 91.57 EUR
 currency: EUR
 price: 91.57

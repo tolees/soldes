@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BGTVWRS-fr'
+slug: 'B01BGTVWRS-fr G-Star Rovic Zip 3D Straight Tapered Pantalon  Beige  Dune 5126-239   32W / 32L Homme'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

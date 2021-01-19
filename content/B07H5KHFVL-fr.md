@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nHRalxWeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5KHFVL-fr'
+slug: 'B07H5KHFVL-fr STEO Chaise Haute pour Bébé Enfant Siège  avec Ceinture De Sécurité  Stable  Sûre  Facile à Plier  Portable  Élégant  Adaptée à La Table Bleu'
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

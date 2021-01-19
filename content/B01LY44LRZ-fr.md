@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kiNMU+BsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LY44LRZ-fr'
+slug: 'B01LY44LRZ-fr Playmobil - Bouffe-Tout avec Stand de Hot Dogs - 9222'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

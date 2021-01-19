@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kdFqH-TGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PZ8LFXK-fr'
+slug: 'B07PZ8LFXK-fr Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket Outerwear  Bleu Marine délavé  X-Small'
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eNYfRcyZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JLRHOXY-fr'
+slug: 'B00JLRHOXY-fr Luminarc Pure Box Active Boîte de Conservation hermétique en verre  rectangulaire  1 97 L'
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HKXjroqdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X48WBHN-fr'
+slug: 'B07X48WBHN-fr Ledger Backup Pack - Nano S + Nano X - Portefeuille de Cryptomonnaies'
 actualPrice: 111.75 EUR
 currency: EUR
 price: 111.75

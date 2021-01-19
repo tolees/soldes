@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41G+J4H9MuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004LECV6W-fr'
+slug: 'B004LECV6W-fr Cuisinart YM400E Yaourtière & Fromagère  6 pots 125 ml + 2 pots'
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

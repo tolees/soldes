@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oxfRnyr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000J6EVO6-fr'
+slug: 'B000J6EVO6-fr Rotring S0676580 Sanford Compas à réglage rapide 360 / 170 mm  Argenté   Import Allemagne '
 actualPrice: 9.6 EUR
 currency: EUR
 price: 9.6

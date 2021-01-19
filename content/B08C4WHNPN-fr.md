@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kgcvxkfEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C4WHNPN-fr'
+slug: 'B08C4WHNPN-fr LK Verre Trempé pour Xiaomi Redmi Note 9 Pro Protection écran  [3 Pièces] [avec Kit Installation Offert] [Dureté 9H  3D-Touch] Protection d écran pour Redmi Note 9 Pro Verre trempe Vitre'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

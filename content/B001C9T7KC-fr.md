@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Lwc--0h4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001C9T7KC-fr'
+slug: 'B001C9T7KC-fr Hazet 1952-28 Massette en Plastique longueur  269 mm'
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

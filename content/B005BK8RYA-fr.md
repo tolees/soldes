@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XCOKMvIAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005BK8RYA-fr'
+slug: 'B005BK8RYA-fr Merrell Bare Access XTR  Chaussures de Trail Femme  Bleu  Dazzle   36 EU'
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

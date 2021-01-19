@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dlD+Fiv6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F37J5OW-fr'
+slug: 'B00F37J5OW-fr Euroclinic Source de lumière LED'
 actualPrice: 883.35 EUR
 currency: EUR
 price: 883.35

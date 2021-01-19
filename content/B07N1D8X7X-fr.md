@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CC3wbFK-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1D8X7X-fr'
+slug: 'B07N1D8X7X-fr Kipling Youri Spin 55 Luggage 33 L Black Indigo'
 actualPrice: 94.26 EUR
 currency: EUR
 price: 94.26

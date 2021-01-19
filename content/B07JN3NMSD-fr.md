@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Cz4waw5VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JN3NMSD-fr'
+slug: 'B07JN3NMSD-fr CCcollections Combinaison en Coton Naturel et Tons ocres pour Femme. Tenue décontractée bohémienne. Cou en V  Confortable et élégante  Blanc  Small '
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

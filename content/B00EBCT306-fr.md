@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ssdBbuWnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00EBCT306-fr'
+slug: 'B00EBCT306-fr Makita Perceuse à percussion Ø 13 Mm 1010 W HP2071FJ'
 actualPrice: 172.6 EUR
 currency: EUR
 price: 172.6

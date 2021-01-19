@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cn+v5FkwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083F2ZJGK-fr'
+slug: 'B083F2ZJGK-fr US-TRONIC CONVERTISSEUR Pur Sinus 12V 220V - 1000 Watts + Sortie USB 2.1A - Télécommandable - Recommandé pour Tous Les appareils électriques dans la Limite des 1000 Watts.'
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

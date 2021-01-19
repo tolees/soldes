@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5184f78SaTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079KHRR3X-fr'
+slug: 'B079KHRR3X-fr Remington Tondeuse Rasoir Corps Homme  5 Sabots  Batterie Lithium - BHT6450 QuickGroom'
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zR6s2G1oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B019K09PKG-fr'
+slug: 'B019K09PKG-fr Pinypon - 700012739 - la Garderie des Animaux'
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

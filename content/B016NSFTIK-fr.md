@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VtvtpG2bL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016NSFTIK-fr'
+slug: 'B016NSFTIK-fr Gitzo GT1545T - Trépied Traveler Série 1 à 4 Sections Compact  Repliable et Léger à Colonne Courte pour les Prises de Vue au Niveau du Sol - Fibre de Carbone'
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

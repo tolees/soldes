@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Qkw7syrTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CZJQ2C4-fr'
+slug: 'B08CZJQ2C4-fr Casque Xbox  Znines Casque de jeu pour PS4  Xbox One  Nintendo Switch  PC  Mac  ordinateur portable  Casque de jeu sur l oreille avec micro et  lumière LED  Bass Surround  Cache-oreilles doux  Noir'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

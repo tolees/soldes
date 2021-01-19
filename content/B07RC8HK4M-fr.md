@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rznlS96gL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RC8HK4M-fr'
+slug: 'B07RC8HK4M-fr Columbia Mission Air  Veste Modulable pour Homme'
 actualPrice: 55.76 EUR
 currency: EUR
 price: 55.76

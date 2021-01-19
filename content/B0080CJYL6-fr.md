@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5149QubCr4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0080CJYL6-fr'
+slug: 'B0080CJYL6-fr Gre CIPROV611 - Couverture d’hiver pour piscine ovale ou en forme de huit   Noir  610 x 375 cm'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

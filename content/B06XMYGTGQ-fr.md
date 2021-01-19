@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41n96uf1EHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XMYGTGQ-fr'
+slug: 'B06XMYGTGQ-fr Ice-Watch - Ice Lo White Blue - Montre Blanche pour Femme avec Bracelet en Silicone - 013425  Small '
 actualPrice: 72.6 EUR
 currency: EUR
 price: 72.6

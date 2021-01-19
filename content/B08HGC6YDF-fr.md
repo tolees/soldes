@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sPFdwaNVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HGC6YDF-fr'
+slug: 'B08HGC6YDF-fr Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

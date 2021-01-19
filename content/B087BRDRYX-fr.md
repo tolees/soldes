@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JzvwBkhlL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087BRDRYX-fr'
+slug: 'B087BRDRYX-fr MENEEA Poignée de boxe pour Nintendo Switch Joy-Con Fitness Boxing Game  2 pièces Fitness Boxing Fermoir Accessories Assit Tool Poignée avec dragonne pour adultes et enfants  rouge + bleu '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

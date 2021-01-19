@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31sQHTj8CIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DWOXU44-fr'
+slug: 'B00DWOXU44-fr Pure Jongo T2 Enceinte Portable Bluetooth Piano'
 actualPrice: 75.57 EUR
 currency: EUR
 price: 75.57

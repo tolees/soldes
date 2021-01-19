@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41eKsYENU9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007VZXWCK-fr'
+slug: 'B007VZXWCK-fr FoodSaver Machine Sous Vide automatique  inclus sacs de mise sous vide assortis [FSFSSL3840]'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

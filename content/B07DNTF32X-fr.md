@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516Kc2oP6dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DNTF32X-fr'
+slug: 'B07DNTF32X-fr Doom Eternal'
 actualPrice: 49.42 EUR
 currency: EUR
 price: 49.42

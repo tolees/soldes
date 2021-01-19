@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u6MxRBwIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XDK1LB4-fr'
+slug: 'B07XDK1LB4-fr Polarduck Support Mural TV pour écrans 23-55 Pouces  58-140 cm  LED LCD Plasma et Courbé   VESA Max 400 x 400mm  Min 100 x 100mm  Capacité Max 60kg  Nior'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

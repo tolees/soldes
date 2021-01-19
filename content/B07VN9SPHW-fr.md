@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SzOWN04mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN9SPHW-fr'
+slug: 'B07VN9SPHW-fr MICHELIN Chaines à neige Extrem Grip  Tension Automatique  N°90'
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

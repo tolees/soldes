@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412lOlFtazL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YYTC4LR-fr'
+slug: 'B07YYTC4LR-fr Silvian Heach Dress Bohebe Robe  Multicolore  Fant.Uniq Fant.Uniq   Large Femme'
 actualPrice: 88.33 EUR
 currency: EUR
 price: 88.33

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51E1KT9i4jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DD3RDWT-fr'
+slug: 'B07DD3RDWT-fr Pinypon Action- Famosa Lot de 5 Figurines  700014490  Multicolore'
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

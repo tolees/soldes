@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61VORpQhY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074P8BLYP-fr'
+slug: 'B074P8BLYP-fr MICHELIN 008317 Easy Grip Evolution Chaîne à Neige Composite  EVO 17'
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

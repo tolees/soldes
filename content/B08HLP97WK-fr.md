@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CXZ1wgCeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HLP97WK-fr'
+slug: 'B08HLP97WK-fr Dittzz Tank Militaire Jouet  Char Jeu de Construction  508 Pièces Blocs de Construction Compatible avec Lego Cadeau pour Enfants et Adultes'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cuaT0xM9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KR7D1JW-fr'
+slug: 'B07KR7D1JW-fr Under Armour UA Storm Launch Pant Pantalon Homme  Bleu  S'
 actualPrice: 24.51 EUR
 currency: EUR
 price: 24.51

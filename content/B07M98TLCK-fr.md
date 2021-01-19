@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hY580jpcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07M98TLCK-fr'
+slug: 'B07M98TLCK-fr Blink XT2 | Caméra de sécurité connectée  Intérieur/extérieur  avec stockage dans le Cloud  système audio bidirectionnel  2 ans d autonomie de la batterie | Kit 1 caméra'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41corK2SsaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H5ZFK11-fr'
+slug: 'B07H5ZFK11-fr Maison Lejaby Sin Soutien-Gorge à Armature  Noir  Noir 04    Taille Fabricant:100D  Femme'
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

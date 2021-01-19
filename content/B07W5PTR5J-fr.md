@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Q9aG8TkEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5PTR5J-fr'
+slug: 'B07W5PTR5J-fr LEGO DUPLO Town Ensemble Maison modulable 3in1  Maison de poupées pour filles et garçons de 2 ans et plus avec personnages et animaux pour tout-petits  117 pièces  10929'
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

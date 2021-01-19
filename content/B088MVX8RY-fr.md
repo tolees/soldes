@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MLYPTaA8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088MVX8RY-fr'
+slug: 'B088MVX8RY-fr Deadly Premonition 2 : A Blessing in Disguise'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

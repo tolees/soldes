@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410d3AaXfML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072FHVFWK-fr'
+slug: 'B072FHVFWK-fr Otterbox Batterie externe Powerbank 20 000 mAh'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

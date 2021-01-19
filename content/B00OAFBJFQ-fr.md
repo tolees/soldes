@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vLZvOGcPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OAFBJFQ-fr'
+slug: 'B00OAFBJFQ-fr Stanley Xtht0-33501 Mesure Auto lock 8Mx32 - Ruban Large - Traitement Mylar Et Blade Armor - Crochet Avec Position Du zéro Réel - Boitier Ergonomique Bi matière - Trou D Accroche Pour Dragonne'
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

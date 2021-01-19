@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/612giD4HlRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081KQJMF7-fr'
+slug: 'B081KQJMF7-fr Bayonetta & Vanquish 10th Anniversary Bundle - Launch Edition pour Xbox One'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vGKPO0aFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V3NQMFT-fr'
+slug: 'B07V3NQMFT-fr Strellson Premium Allen-mercer2.0 Amf2 12 Costume  Gris  Medium Grey 035   58  Taille Fabricant: 56  Homme'
 actualPrice: 135.3 EUR
 currency: EUR
 price: 135.3

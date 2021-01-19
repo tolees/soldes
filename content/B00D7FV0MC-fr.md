@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419SlR7ZZcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00D7FV0MC-fr'
+slug: 'B00D7FV0MC-fr Kickers - KICK COL - Bottes Classiques - Mixte Enfant - Noir  noir Perm 8  - 39 EU'
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

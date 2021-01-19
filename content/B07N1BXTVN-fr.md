@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I927u01xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1BXTVN-fr'
+slug: 'B07N1BXTVN-fr Sebago DAN Waxy Polaris  Mocassins  Loafer  Hommes  Marron  DK Brown 901   39 EU'
 actualPrice: 69.77 EUR
 currency: EUR
 price: 69.77

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419W-QhT9RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W5MYFLT-fr'
+slug: 'B07W5MYFLT-fr Tommy Hilfiger Basic Embroidered Hoody Sweat-Shirt  Bleu  Desert Sky   Large  Taille Fabricant:  Homme'
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

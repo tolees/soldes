@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XhLbp4x2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BMYXW1V-fr'
+slug: 'B07BMYXW1V-fr Anita Clara Art Soutien-Gorge sans Armatures  Noir  Schwarz 001   90B  Taille Fabricant: 75B  Femme'
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51XOZo0hp5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B084HJCYTQ-fr'
+slug: 'B084HJCYTQ-fr Samurai Shodown'
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

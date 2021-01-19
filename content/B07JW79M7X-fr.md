@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HB4Hxz7JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW79M7X-fr'
+slug: 'B07JW79M7X-fr Sunflair Dark Flower Tankinis  Multicolore  Nachtblau 30   100B  Taille Fabricant: 42B  Femme'
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01

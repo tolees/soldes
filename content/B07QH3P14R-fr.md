@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415g5Rvy5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QH3P14R-fr'
+slug: 'B07QH3P14R-fr Michael Kors Femme Écran Tactile Digital Montre Connectée avec Bracelet en Silicone MKT5069'
 actualPrice: 184.53 EUR
 currency: EUR
 price: 184.53

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31bPUPNs5QL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NY3GSWX-fr'
+slug: 'B07NY3GSWX-fr IKOHS Pro Wellness - Pèse Personne  Blanc '
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

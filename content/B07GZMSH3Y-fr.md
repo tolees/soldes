@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KHDX0zZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GZMSH3Y-fr'
+slug: 'B07GZMSH3Y-fr Michael Kors Montre Connectée MKT5052'
 actualPrice: 212.92 EUR
 currency: EUR
 price: 212.92

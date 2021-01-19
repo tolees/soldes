@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41prtsJ61sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K5LQCQX-fr'
+slug: 'B07K5LQCQX-fr Levi s 501 Original Fit Jeans Homme  Bleu  Snoot   32W / 32L'
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

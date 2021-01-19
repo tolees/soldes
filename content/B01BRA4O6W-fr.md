@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OMSM9lsEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BRA4O6W-fr'
+slug: 'B01BRA4O6W-fr Beurer HD50 Cape chauffante 100 W beige  marron'
 actualPrice: 25.84 EUR
 currency: EUR
 price: 25.84

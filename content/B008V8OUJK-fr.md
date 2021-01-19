@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b3bAoKP6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008V8OUJK-fr'
+slug: 'B008V8OUJK-fr GATOR Cases G-Tour pour pedalboard 17" x 11"'
 actualPrice: 111.37 EUR
 currency: EUR
 price: 111.37

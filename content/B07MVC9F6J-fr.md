@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cU+f6IKzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MVC9F6J-fr'
+slug: 'B07MVC9F6J-fr Napapijri Axstral Blouson  Noir  Black 041   X-Large Homme'
 actualPrice: 84.78 EUR
 currency: EUR
 price: 84.78

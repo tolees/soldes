@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513tgCpYBOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073XPR6MC-fr'
+slug: 'B073XPR6MC-fr VOYOR Appareil de Massage Anti Cellulite Electrique Massage Cellulite Masseur pour Tete Dos Pied Visage Cervicale avec 3 Têtes Muti-fonctionnelles Brosse Nettoyante Visage IPX7 Étanche&Rechargeable'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

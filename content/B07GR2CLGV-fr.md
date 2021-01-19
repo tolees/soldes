@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UEPnqEycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GR2CLGV-fr'
+slug: 'B07GR2CLGV-fr Oakwood Connecting Blouson  Marron  Vison 0559   XX-Large  Taille Fabricant: 2XL  Femme'
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

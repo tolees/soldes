@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UWop4RxmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BJ1DPKR-fr'
+slug: 'B08BJ1DPKR-fr Vidéoprojecteur WiFi Full HD 1080P  WiMiUS 7200 Lumens Projecteur WiFi Full HD 1080P Rétroprojecteur Supporte 4K Audio Dolby Projecteur LED Home Cinéma pour Smartphone TV Stick PC PS4 HDMI USB VGA AV'
 actualPrice: 288.66 EUR
 currency: EUR
 price: 288.66

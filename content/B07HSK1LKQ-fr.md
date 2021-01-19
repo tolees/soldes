@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DK7ez4tFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HSK1LKQ-fr'
+slug: 'B07HSK1LKQ-fr A Star is Born [DVD]'
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

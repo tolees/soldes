@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JLst7teSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IONJQ82-fr'
+slug: 'B00IONJQ82-fr Orgakiddy SAC POUR VOMIR - Sachet de 3'
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

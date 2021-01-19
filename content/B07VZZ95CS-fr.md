@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314Xp6DwF-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZZ95CS-fr'
+slug: 'B07VZZ95CS-fr Philips Sonicare HX9601/03 Brosse à dents électrique rechargeable Connectée ExpertClean - Blanche'
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

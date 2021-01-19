@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51b7mjI15vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01JYUU1ZU-fr'
+slug: 'B01JYUU1ZU-fr Carte mémoire SDHC SanDisk Extreme Pro 64Go de jusqu à 300Mo/s  UHS-II  Classe 10  U3  SDSDXPK-064G-GN4IN '
 actualPrice: 110.39 EUR
 currency: EUR
 price: 110.39

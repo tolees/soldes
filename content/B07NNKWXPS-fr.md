@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JjCog-JiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NNKWXPS-fr'
+slug: 'B07NNKWXPS-fr O bag Borsa Completa Glam 54  Sac à bandoulière Femme  Noir  Nero   8x27x19 Centimeters  W x H x L '
 actualPrice: 63.11 EUR
 currency: EUR
 price: 63.11

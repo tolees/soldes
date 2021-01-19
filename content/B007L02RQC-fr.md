@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-QWdCxuSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B007L02RQC-fr'
+slug: 'B007L02RQC-fr Dugena - 7000120 - Montre Femme - Quartz Analogique - Bracelet Acier Inoxydable Argent'
 actualPrice: 118.09 EUR
 currency: EUR
 price: 118.09

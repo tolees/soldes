@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NYJO4JnML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BNDJVWB-fr'
+slug: 'B08BNDJVWB-fr eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start Back Sync Boutons  Kit de Boutons Kit de Réparation avec Outils pour Xbox One S & Xbox One X Manette Contrôleur  Modèle1708 -Blanc'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

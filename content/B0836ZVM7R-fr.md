@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51KWSYeFThL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0836ZVM7R-fr'
+slug: 'B0836ZVM7R-fr Difuzed The Legend of Zelda Snap Back Cap Link s Awakening Nintendo Beanies Caps'
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

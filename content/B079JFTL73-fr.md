@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CXhQ3tZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B079JFTL73-fr'
+slug: 'B079JFTL73-fr Barbie Métiers Coffret poupée cheffe avec kit cuisine Comprenant Four  Accessoires pour Repas et cinq Pots de pâte à Modeler  Jouet pour Enfant  FRH73'
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

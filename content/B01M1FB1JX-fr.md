@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dWpaSKKPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M1FB1JX-fr'
+slug: 'B01M1FB1JX-fr Hugo Boss Homme Analogique Classique Quartz Montre avec Bracelet en Cuir 1513425'
 actualPrice: 79.42 EUR
 currency: EUR
 price: 79.42

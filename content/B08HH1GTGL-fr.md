@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51sqOZvS5RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HH1GTGL-fr'
+slug: 'B08HH1GTGL-fr LK 2 pièces Verre Trempé pour Samsung Galaxy A71 Protecteur d écran + [2 Pack] Caméra Arrière Protecteur  Haute Transparence  [Anti-Rayures] Souple Silicone Gel TPU Bumper Housse Case Cover'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

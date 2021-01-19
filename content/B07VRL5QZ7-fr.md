@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kdp+sQ02L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VRL5QZ7-fr'
+slug: 'B07VRL5QZ7-fr Batterie Externe Solaire 26800mAh IPX6 Chargeur Solaire 3 Ports 3.1A USB/Type-C  3 Entrées USB/Type-C/Panneaux Solaire  LED & Corde Suspendue  Power Bank Solaire pour iPhone Samsung Huawei  etc'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

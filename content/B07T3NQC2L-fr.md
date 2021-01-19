@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dqG3Auy0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3NQC2L-fr'
+slug: 'B07T3NQC2L-fr Origin Stories-Man of Steel + Wonder Woman + Aquaman + Shazam [4K Ultra HD + Blu-Ray]'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

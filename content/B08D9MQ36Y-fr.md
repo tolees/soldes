@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LAuuOVCwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D9MQ36Y-fr'
+slug: 'B08D9MQ36Y-fr Manette sans Fil pour Nintendo Switch REDSTORM Manette pour Nintendo Switch Pro/Switch Lite Bluetooth Manette Switch Pro avec Double Moteur/Turbo/6-Axis Gyro/Batterie Rechargeable pour Switch et PC'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Im1-zbCmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005NGH1A8-fr'
+slug: 'B005NGH1A8-fr Sony Objectif SAL-1650 Monture A APS-C 16-50mm F2.8'
 actualPrice: 570.83 EUR
 currency: EUR
 price: 570.83

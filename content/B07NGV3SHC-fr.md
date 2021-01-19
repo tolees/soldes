@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UQjyQMu5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NGV3SHC-fr'
+slug: 'B07NGV3SHC-fr Derhy BISCOTTE Robe  Or  Or 11   44  Taille Fabricant:XL  Femme'
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

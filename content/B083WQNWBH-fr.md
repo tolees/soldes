@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31fRscmlaQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083WQNWBH-fr'
+slug: 'B083WQNWBH-fr IKOHS AIRCALM DC - Ventilateur de Plafond Fonction Hiver/été Ultra Silencieux'
 actualPrice: 180.95 EUR
 currency: EUR
 price: 180.95

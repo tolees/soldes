@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518VZ+r0yuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BYHQJ38-fr'
+slug: 'B08BYHQJ38-fr BESINPO Coque Xiaomi Redmi Note 8 Pro  Coque Redmi Note 8 Pro Antichoc Transparente 360 Degrés Protection avec TPU Protection Écran Integrale Case Etui Housse Compatible Xiaomi Redmi Note 8 Pro'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

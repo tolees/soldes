@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hM6iM1VML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BPBKJPT-fr'
+slug: 'B07BPBKJPT-fr Boite Lumineuse Message avec 300 Lettres et Emojis  Télécommande  2 Marqueurs - BONNYCO | Ç Inclus | Light Box 16 Couleurs  Décoration Maison | Tableau Lumineux Idée Cadeau Anniversaire et Noël'
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

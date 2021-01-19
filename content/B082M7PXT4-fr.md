@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Vfm5w2WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082M7PXT4-fr'
+slug: 'B082M7PXT4-fr Victure Babyphone Video Camera 2.4" LCD Couleur Video Bebe Surveillance 2.4GHz Transmission  Vision Nocturne  Communication Bidirectionnel  VOX  Capteur de Température  Berceuses'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

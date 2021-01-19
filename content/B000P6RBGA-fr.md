@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51R1MBB66dL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000P6RBGA-fr'
+slug: 'B000P6RBGA-fr Le pigeon'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

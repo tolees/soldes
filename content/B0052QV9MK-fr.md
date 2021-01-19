@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KDPHegU6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0052QV9MK-fr'
+slug: 'B0052QV9MK-fr Onduleur Eaton Ellipse ECO 650 USB FR - Off-line UPS - EL650USBFR - 650VA  4 prises FR '
 actualPrice: 97.95 EUR
 currency: EUR
 price: 97.95

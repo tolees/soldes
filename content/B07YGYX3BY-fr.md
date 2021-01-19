@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31J97FxuabL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YGYX3BY-fr'
+slug: 'B07YGYX3BY-fr IKKS Junior Combi Short MC Combinaison  Vert  Kaki 56   8 Ans  Taille Fabricant:8A  Fille'
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

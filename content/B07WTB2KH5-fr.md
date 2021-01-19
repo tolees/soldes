@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LmWuZiyyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WTB2KH5-fr'
+slug: 'B07WTB2KH5-fr WisFox Clavier Souris sans Fil Combinés  2 4 GHz Mince Pleine Taille Avancée Silencieux Ensemble Clavier et Souris sans Fil avec Récepteur Nano USB pour Ordinateur Portable  PC - Noir'
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

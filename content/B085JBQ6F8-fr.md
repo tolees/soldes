@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31eX54wR4TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085JBQ6F8-fr'
+slug: 'B085JBQ6F8-fr Téfal Gourmet crêpière Deux plaques amovibles antiadhésives Température règlable Multi usage crêpes  galettes  pancakes  naan  fajitas Louche Répartiteur de pâte Grande et Mini-spatules inclus PY900D1'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

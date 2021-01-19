@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aI1hDfaVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NFCJMFC-fr'
+slug: 'B07NFCJMFC-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt   Surf The Web CK B   Large Femme'
 actualPrice: 75.37 EUR
 currency: EUR
 price: 75.37

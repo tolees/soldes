@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51AMkby-+sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTASJIR-fr'
+slug: 'B01MTASJIR-fr Trilobite Jean de Moto'
 actualPrice: 90.63 EUR
 currency: EUR
 price: 90.63

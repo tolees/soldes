@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qGKzLTcXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XT292KZ-fr'
+slug: 'B07XT292KZ-fr BelleStyle Montessori Jouets  Jouet à Enfiler  Ananas Bois en Jouets de Laçage Montessori Activité Apprentissage Précoce Éducatif Développement Jeu D enfilage Jouets pour Enfant 3 Ans+  Jaune '
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wg2uaEBJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KUX4KWK-fr'
+slug: 'B01KUX4KWK-fr Reebok Deck'
 actualPrice: 121.17 EUR
 currency: EUR
 price: 121.17

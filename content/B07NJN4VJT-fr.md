@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ForUTx3nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJN4VJT-fr'
+slug: 'B07NJN4VJT-fr Casque LVL50 sans Fil pour Sony Playstation - noir'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

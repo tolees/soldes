@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ECABb6Z8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D6G6W8X-fr'
+slug: 'B08D6G6W8X-fr Disque Dur Externe 1 to USB 3.0 pour PC  Mac  MacBook  Xbox One 1To Noir '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

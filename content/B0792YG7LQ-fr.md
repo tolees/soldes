@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NDwf2ABLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0792YG7LQ-fr'
+slug: 'B0792YG7LQ-fr Bluefin Fitness Plateforme Vibrante & Oscillante à Doubles Moteurs 3D | Oscillation  Vibration + Mouvement 3D | Grande Surface Anti-Dérapante | Haut-parleurs Bluetooth | Design Anglais  Noir '
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

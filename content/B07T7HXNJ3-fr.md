@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31XlXlZzagL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T7HXNJ3-fr'
+slug: 'B07T7HXNJ3-fr LINDY Switch de Présentation Pro avec Extender HDBaseT'
 actualPrice: 1010.39 EUR
 currency: EUR
 price: 1010.39

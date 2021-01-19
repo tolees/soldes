@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41BzRHhh0qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N5HLNB8-fr'
+slug: 'B01N5HLNB8-fr Elizabeth Arden Advanced Ceramide Capsules Sérum Quotidien Rénovateur de Jeunesse 90 capsules'
 actualPrice: 61.0 EUR
 currency: EUR
 price: 61.0

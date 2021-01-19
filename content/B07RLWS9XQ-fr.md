@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FowjoHGML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RLWS9XQ-fr'
+slug: 'B07RLWS9XQ-fr Tommy Hilfiger Xtra Slim Layton Pstr Paco Grey Jean Droit  Bleu  Denim B   W32/L32  Taille Fabricant: 3232  Homme'
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

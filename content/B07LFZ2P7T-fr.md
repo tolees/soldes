@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4124dINm+oL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07LFZ2P7T-fr'
+slug: 'B07LFZ2P7T-fr Geox U Nebula 4 X 4 B ABX A  Bottes Chukka Homme  Marron  Browncotto C6003   41 EU'
 actualPrice: 82.5 EUR
 currency: EUR
 price: 82.5

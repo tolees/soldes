@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GyrYJ3X3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076ZX91MT-fr'
+slug: 'B076ZX91MT-fr Shark Casque jet ATV-DRAK blanc Taille M'
 actualPrice: 67.77 EUR
 currency: EUR
 price: 67.77

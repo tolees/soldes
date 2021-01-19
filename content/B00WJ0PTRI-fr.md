@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p5Dnn9kiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WJ0PTRI-fr'
+slug: 'B00WJ0PTRI-fr Cerruti 1881 Hommes Analogique Quartz Montre avec Bracelet en Cramique CRA077Z251H'
 actualPrice: 205.97 EUR
 currency: EUR
 price: 205.97

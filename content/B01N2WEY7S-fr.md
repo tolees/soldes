@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N2WEY7S-fr'
+slug: 'B01N2WEY7S-fr Reebok Club C 85  Sneakers Basses Homme - Blanc  Intense White/Green 0  - 42.5 EU'
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

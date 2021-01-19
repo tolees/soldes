@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/311fAag3EiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1ZNVR1-fr'
+slug: 'B07W1ZNVR1-fr Rowenta Ultimate Experience Sèche-cheveux Moteur Digital Professionnel Performant Réduit l électricité statique et les frisottis Protège vos cheveux CV9820F0'
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

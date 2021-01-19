@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OW4LB74eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZJ2KXY-fr'
+slug: 'B07VZJ2KXY-fr Little Live Pets Kissing Rollie  LP000  Multicolore'
 actualPrice: 26.72 EUR
 currency: EUR
 price: 26.72

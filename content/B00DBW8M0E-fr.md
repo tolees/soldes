@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516Zh18-DZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DBW8M0E-fr'
+slug: 'B00DBW8M0E-fr Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray  SD upscalée ] [SD Blu-ray  SD upscalée ]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

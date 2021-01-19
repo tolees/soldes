@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51elpqmDrzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZJRQNKF-fr'
+slug: 'B07ZJRQNKF-fr Cartable 41 Tann s Les Chinés Teddy  Gris / Rouge'
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

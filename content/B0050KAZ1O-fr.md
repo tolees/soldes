@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DZZ54fbrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0050KAZ1O-fr'
+slug: 'B0050KAZ1O-fr Bosch Professional Ponceuse Excentrique Filaire GEX 125-150 AVE  400 W  Ø du plateau de ponçage de 150 ou 125 mm  L-Boxx '
 actualPrice: 256.02 EUR
 currency: EUR
 price: 256.02

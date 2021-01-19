@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Amk0X0jEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BCFL7R5-fr'
+slug: 'B07BCFL7R5-fr Marque Amazon – BUTTONED DOWN Pull en coton supima léger avec col rond pour homme  bleu marine  US M  EU M '
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

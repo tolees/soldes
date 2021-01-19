@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310E-EvvKpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TYDZ94P-fr'
+slug: 'B07TYDZ94P-fr Vera Mont VM 8028/4000 Robe de soirée  Bleu  Night Sky 8541   42  Taille Fabricant: 40  Femme'
 actualPrice: 75.66 EUR
 currency: EUR
 price: 75.66

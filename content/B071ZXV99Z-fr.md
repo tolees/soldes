@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lIRp4jowL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071ZXV99Z-fr'
+slug: 'B071ZXV99Z-fr Dix de Chute - Jeu de societe de stratégie - Version française'
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

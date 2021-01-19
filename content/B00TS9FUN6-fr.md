@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Gceewgo+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TS9FUN6-fr'
+slug: 'B00TS9FUN6-fr Samyang 50 mm / F 1.4 AS UMC Objectifs'
 actualPrice: 289.04 EUR
 currency: EUR
 price: 289.04

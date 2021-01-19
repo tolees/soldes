@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j70QV4WyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DK59ZZ1-fr'
+slug: 'B08DK59ZZ1-fr LiNKFOR Antenne TV Intérieure Numérique avec Signal Amplificateur Booster 1080p HDTV Antenne Intérieur Puissante TNT-50Miles TV Antenne Chaînes Locales Gratuites avec Câble d Antenne de 4 m'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

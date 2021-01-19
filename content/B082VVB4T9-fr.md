@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41JyhgfZJ4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VVB4T9-fr'
+slug: 'B082VVB4T9-fr Mixa BIO - La Crème Visage des Peaux Sensibles - 100 ml'
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

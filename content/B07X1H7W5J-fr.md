@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51X2koWPcIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07X1H7W5J-fr'
+slug: 'B07X1H7W5J-fr Tipmant Montre Connectée Femmes Homme Enfant IP68 Etanche Bracelet Connecté Écran Coloré Smartwatch avec Cardio Podometre Sommeil Réveil Notifications pour iPhone Huawei Samsung Xiaomi Sony  Vert '
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pULgNHF3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KJ2TVQI-fr'
+slug: 'B00KJ2TVQI-fr Nike Air Max Thea  Chaussures de Running Femme  Noir  Black/White 028   37.5 EU'
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

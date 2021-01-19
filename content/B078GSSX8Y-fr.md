@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Bxuf-X8fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GSSX8Y-fr'
+slug: 'B078GSSX8Y-fr Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte  Dark Steel/Military Green  FR Unique  Taille Fabricant : 183 cm '
 actualPrice: 85.53 EUR
 currency: EUR
 price: 85.53

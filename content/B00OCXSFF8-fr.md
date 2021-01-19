@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/611ghUW6JyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OCXSFF8-fr'
+slug: 'B00OCXSFF8-fr Safavieh Tapis Texturé  Tufté à la main la Laine Tapis en Gris Clair / Ivoire  90 X 150 cm'
 actualPrice: 59.61 EUR
 currency: EUR
 price: 59.61

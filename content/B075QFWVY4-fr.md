@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41oAmTZdHqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QFWVY4-fr'
+slug: 'B075QFWVY4-fr Manette Révolution Pro Controller 2 Nacon pour PS4'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

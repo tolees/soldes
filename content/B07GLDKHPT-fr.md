@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31OjrGS1j6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GLDKHPT-fr'
+slug: 'B07GLDKHPT-fr CYBEX Gold Siège Auto Évolutif Pallas S-Fix  Adapté aux Voitures Avec ou Sans ISOFIX  Groupes 1/2/3  9-36 kg   De 9 Mois à 12 Ans Environ  Urban Black'
 actualPrice: 229.95 EUR
 currency: EUR
 price: 229.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l7SqW4tcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E9IXQ4G-fr'
+slug: 'B00E9IXQ4G-fr Crane Stand CUHS-LG-2L Mallette universelle rigide pour DJ'
 actualPrice: 73.62 EUR
 currency: EUR
 price: 73.62

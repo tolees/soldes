@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411f94Uw8vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0899L6GKH-fr'
+slug: 'B0899L6GKH-fr 2 X 1200mAh Batteries pour Manette Xbox One / S / X / Elite   Rechargeable pour avec 2 en 1 Câble de Charge'
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

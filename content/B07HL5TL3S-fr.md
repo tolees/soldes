@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NT0F+2BzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HL5TL3S-fr'
+slug: 'B07HL5TL3S-fr Skagen Homme Écran Tactile Digital Montre Connectée avec Bracelet en Silicone SKT5100'
 actualPrice: 201.38 EUR
 currency: EUR
 price: 201.38

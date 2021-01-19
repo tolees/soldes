@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AYvwZA6zL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01HZ2APKU-fr'
+slug: 'B01HZ2APKU-fr Thrustmaster T-16000M FCS FLIGHT PACK joystick  manette des gaz et palonnier joystick  manette des gaz et palonnier compatible PC'
 actualPrice: 172.69 EUR
 currency: EUR
 price: 172.69

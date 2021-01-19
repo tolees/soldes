@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+dmvdl5qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B4NL2J7-fr'
+slug: 'B08B4NL2J7-fr Elyco Coque de Protection pour Nintendo Switch  Grips Protection Poignée Main Housse Silicone Antidérapant  Étuis Housse Peau Gauche Droite Coquille pour Switch JoyCon Manettes'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

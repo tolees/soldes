@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5132ovgMuOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0896NHKF8-fr'
+slug: 'B0896NHKF8-fr Captain Tsubasa: Rise of New Champions - Edition Collector  Nintendo Switch '
 actualPrice: 123.53 EUR
 currency: EUR
 price: 123.53

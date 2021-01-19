@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ixxaii1uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082VSSPLM-fr'
+slug: 'B082VSSPLM-fr Schwarzkopf - Gliss - Masque Cheveux - Ultimate Repair - 200 ml'
 actualPrice: 3.47 EUR
 currency: EUR
 price: 3.47

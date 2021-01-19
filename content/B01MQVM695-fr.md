@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wB5bDLCGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQVM695-fr'
+slug: 'B01MQVM695-fr Twinz up - Tire bouchon électrique sans-fil - Coffret avec coupe-capsule et socle de recharge - Cadeau idéal pour les amateurs de vins'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

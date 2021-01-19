@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LuYCad82L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YMGTJG9-fr'
+slug: 'B07YMGTJG9-fr Chie Mihara abra  Sandales Bride Cheville Femmes  Noir  Ante Negro Ante Sun Ante Negro Ante Negro Ante Sun Ante Negro   38 EU'
 actualPrice: 139.05 EUR
 currency: EUR
 price: 139.05

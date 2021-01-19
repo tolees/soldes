@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41maWoNvOFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GJGKMVR-fr'
+slug: 'B07GJGKMVR-fr Chicco -  Lit Cododo Next2Me Dream - Berceau bébé - Luna'
 actualPrice: 185.88 EUR
 currency: EUR
 price: 185.88

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317o+HjZSqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G2VMXCO-fr'
+slug: 'B00G2VMXCO-fr Lerway Potence de Guidon Fourche Extenseur VTT Bicyclette Étendre Riser pour 1-1/8" 28.6mm Vélo Aluminium Noir'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

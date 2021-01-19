@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41u1N891QKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJ2FF2S-fr'
+slug: 'B07DJ2FF2S-fr New Balance 997H Core  Baskets Homme  Argenté  Pigment/Silver   42 EU'
 actualPrice: 60.46 EUR
 currency: EUR
 price: 60.46

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mSY0jv-FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GXKDT55-fr'
+slug: 'B07GXKDT55-fr Razer Nari Essential – Casque Gamer Sans Fil  Bluetooth Casque de Jeu Sans Fil avec THX Spatial Audio 360°  Coussin de Gel Rafraîchissant pour PC  PS4  & Switch '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

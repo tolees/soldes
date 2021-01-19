@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ZEfKPMp0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07T3JPQ3C-fr'
+slug: 'B07T3JPQ3C-fr Clint Eastwood-Coffret 10 Films'
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

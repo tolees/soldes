@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41C8wP871iL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N43MYZZ-fr'
+slug: 'B07N43MYZZ-fr Tommy Hilfiger Tommy Hooded Bomber Blouson  Bleu  Navy Blazer Chs   XXX-Large Homme'
 actualPrice: 136.29 EUR
 currency: EUR
 price: 136.29

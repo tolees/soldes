@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hIW3LsdFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2Q1N8R-fr'
+slug: 'B07N2Q1N8R-fr Dsquared2 D Squared Brillengestelle DQ5137 045-49-20-145 Lunettes de soleil  Marron  Braun   49.0 Mixte Adulte'
 actualPrice: 77.04 EUR
 currency: EUR
 price: 77.04

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uj78dWJPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075MPHS14-fr'
+slug: 'B075MPHS14-fr Belkin Chargeur à induction BOOST↑UP  7 5 W  – Chargeur sans fil pour iPhone XS  XS Max  XR  X  8  8+  compatible avec Samsung  LG  Sony et autre'
 actualPrice: 33.89 EUR
 currency: EUR
 price: 33.89

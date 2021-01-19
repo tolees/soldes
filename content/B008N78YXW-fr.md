@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Op1ArcNkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008N78YXW-fr'
+slug: 'B008N78YXW-fr Repusel 3002 Rétroviseur Extérieur pour Caravane Universel'
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512KTEG8ywL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RXRZBV1-fr'
+slug: 'B07RXRZBV1-fr NinkBox Android TV Box de Version Android 10.0  【4G+32G】 Boitier Android TV Bluetooth 4.0  N1 Plus RK3318 Quad-Core 64bit Cortex-A53  USB 3.0 Box Android TV LAN100M Wi-FI 2.4G/5G TV Box 4K Android TV'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qkUUBZzbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073H16ZPL-fr'
+slug: 'B073H16ZPL-fr New Classic Toys- Cuisine-Bon Appétit  11053  Blanche/Argent'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

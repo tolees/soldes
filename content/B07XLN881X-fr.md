@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41P2wnjbPsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XLN881X-fr'
+slug: 'B07XLN881X-fr Alienware AW3420DW Ecran PC Gaming 34" Full HD 3440 x 1440  IPS  LED  21: 9  120 Hz  2 ms  NVIDIA G-Sync'
 actualPrice: 949.99 EUR
 currency: EUR
 price: 949.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Iccs8Q8cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NLV8LQ9-fr'
+slug: 'B07NLV8LQ9-fr Nike Revolution 5  Chaussures de Running Compétition Homme  Noir  Black/White-Anthracite 002   44 EU'
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

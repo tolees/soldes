@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rVO1045KL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081ZZSZT4-fr'
+slug: 'B081ZZSZT4-fr Vidéoprojecteur  WiMiUS 7000 Lumens Vidéoprojecteur Full HD 1080P Rétroprojecteur 4K Soutien  Correction Digitale 4D Dolby Audio Projecteur LED 90 000 Heures Home Cinéma TV Box PC PS4 HDMI VGA AV USB'
 actualPrice: 199.05 EUR
 currency: EUR
 price: 199.05

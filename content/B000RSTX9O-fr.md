@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zlBn4dx5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000RSTX9O-fr'
+slug: 'B000RSTX9O-fr TP-Link TL-SG1024 Switch 24 Ports Gigabit  Rackable  Boîtier Métal    Noir'
 actualPrice: 84.96 EUR
 currency: EUR
 price: 84.96

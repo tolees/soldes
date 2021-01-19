@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41p6Aam2aTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CNC396H-fr'
+slug: 'B07CNC396H-fr DJI - Tello GameSir - Manette pour Tello - Radiocommande Dron Tello - Control à distance - Compatible iOs et Android - Connexion GCM - Noir'
 actualPrice: 26.86 EUR
 currency: EUR
 price: 26.86

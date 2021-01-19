@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ZU5190R5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N7K4CEU-fr'
+slug: 'B01N7K4CEU-fr HyperX Impact DDR4 HX426S15IB2/8 Mémoire RAM 2666MHz CL15 SODIMM 8Go'
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

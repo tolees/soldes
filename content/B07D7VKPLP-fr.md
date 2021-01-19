@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VzROhAaNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07D7VKPLP-fr'
+slug: 'B07D7VKPLP-fr Calvin Klein 3p Low Rise Trunk  Caleçon  Bleu  Black/Blue Shadow/Cobalt Water DTM WB 4ku   M  Lot de 3  Homme'
 actualPrice: 35.47 EUR
 currency: EUR
 price: 35.47

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mGM1psUWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VDCKDKS-fr'
+slug: 'B07VDCKDKS-fr Napapijri K Rainforest Sum 2 Blouson  Violet  Clover Purple V021   164  Taille Fabricant: 14  Garçon'
 actualPrice: 50.58 EUR
 currency: EUR
 price: 50.58

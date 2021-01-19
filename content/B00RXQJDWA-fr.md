@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ft1UP8WML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RXQJDWA-fr'
+slug: 'B00RXQJDWA-fr Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de maintien au chaud'
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

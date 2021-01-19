@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HmtZd9YbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075S3ZJL5-fr'
+slug: 'B075S3ZJL5-fr GORE WEAR C3 GORE WINDSTOPPER PHANTOM Veste zip-off Veste zip-off Homme red/black FR: XL  Taille Fabricant: XL '
 actualPrice: 78.42 EUR
 currency: EUR
 price: 78.42

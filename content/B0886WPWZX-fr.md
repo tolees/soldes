@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/513Aw5p4TAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0886WPWZX-fr'
+slug: 'B0886WPWZX-fr Streets of Rage 4'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

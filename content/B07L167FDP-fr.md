@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Y5zVjpekL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L167FDP-fr'
+slug: 'B07L167FDP-fr Trussardi Jeans Sophie Cross Body Md Ecoleathe  femme  Gris  Gunmetal   18x10.5x29 cm  W x H L '
 actualPrice: 51.66 EUR
 currency: EUR
 price: 51.66

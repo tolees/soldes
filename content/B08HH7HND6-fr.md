@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31HorrryQRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HH7HND6-fr'
+slug: 'B08HH7HND6-fr Disque Dur Externe 1to 2to USB 3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Argent '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

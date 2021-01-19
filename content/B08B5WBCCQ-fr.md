@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HGP0K4zvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5WBCCQ-fr'
+slug: 'B08B5WBCCQ-fr ORICO Boîtier Disque Dur 2 5     Boîtier Externe Portable USB3.0 vers SATA pour Une Conception sans Outil HDD/SSD de 7 mm / 9 5 mm  Prise en Charge Maximale de 4 to avec UASP（Blanc）'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

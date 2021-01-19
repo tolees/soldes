@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313cIGGH3WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BZ9BYGY-fr'
+slug: 'B08BZ9BYGY-fr Vansuny Disque Dur Externe SSD 250Go  SSD Portable USB 3.1 Gen2 Type C Vitesse Atteignant 550Mo/s en Lecture [Emballage avec 2 Câbles: USB C vers USB A + USB C vers USB C]'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

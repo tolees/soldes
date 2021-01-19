@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+Xhm-HfiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QXNQ1BH-fr'
+slug: 'B07QXNQ1BH-fr LBLA Sac de Sport Femmes Grande Capacité Gym Fitness Sac avec Compartiment Chaussures Sacs de Voyage Sac à Main Sac à Bandoulière pour Hommes Femmes Rose '
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

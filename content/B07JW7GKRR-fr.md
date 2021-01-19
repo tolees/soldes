@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4117HCJ0lZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JW7GKRR-fr'
+slug: 'B07JW7GKRR-fr Sunflair Pure Ocean Maillot Une pièce  Multicolore  Blau 26   110C  Taille Fabricant: 46C  Femme'
 actualPrice: 44.56 EUR
 currency: EUR
 price: 44.56

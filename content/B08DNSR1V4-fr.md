@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419eZMBnNKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNSR1V4-fr'
+slug: 'B08DNSR1V4-fr JACK & JONES JCORETAIL Sweat Hood SEP Sweatshirt à Capuche  Noir  M Homme'
 actualPrice: 28.58 EUR
 currency: EUR
 price: 28.58

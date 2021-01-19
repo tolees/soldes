@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418zueeZSQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01FXC7JWQ-fr'
+slug: 'B01FXC7JWQ-fr FURBO Dog CAMÉRA: Caméra Wi-FI HD avec Lanceur de friandises  Audio bidirectionnel  Vision Nocturne et Alerte d’Aboiement  Conçu pour Les Chiens'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

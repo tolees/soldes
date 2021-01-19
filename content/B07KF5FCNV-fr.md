@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41maVaAe0VL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF5FCNV-fr'
+slug: 'B07KF5FCNV-fr Levi s Type 3 Veste en Jean  Bleu  Palmer Sherpa Trucker 0105   Medium Homme'
 actualPrice: 63.98 EUR
 currency: EUR
 price: 63.98

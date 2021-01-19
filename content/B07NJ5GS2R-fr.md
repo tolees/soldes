@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RKXrIzrjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NJ5GS2R-fr'
+slug: 'B07NJ5GS2R-fr CASIO Montre Femme LTS-100D-7AVEF'
 actualPrice: 42.65 EUR
 currency: EUR
 price: 42.65

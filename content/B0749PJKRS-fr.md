@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-bxKPCACL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0749PJKRS-fr'
+slug: 'B0749PJKRS-fr CRAZYCHIC - Bague Elastique Taille Réglable Ajustable Femme - Bague Emaillée Forme Fleur - Métal Argent - Bijoux Fantaisie Mode Tendance - Fashion Ring - Argenté'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

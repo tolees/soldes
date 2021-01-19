@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pmiK0SOML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0794SD8PZ-fr'
+slug: 'B0794SD8PZ-fr TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32 pouces Tuner TNT/CÃ¢ble/Satellite'
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

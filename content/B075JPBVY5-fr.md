@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51YxYhDtkML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075JPBVY5-fr'
+slug: 'B075JPBVY5-fr dreamlock Char R/C 8011 TELECOMMANDE à Construire 453 pcs'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

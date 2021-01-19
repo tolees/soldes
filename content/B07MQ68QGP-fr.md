@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315W1VZPneL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MQ68QGP-fr'
+slug: 'B07MQ68QGP-fr CASIO CDP-S100BK'
 actualPrice: 337.0 EUR
 currency: EUR
 price: 337.0

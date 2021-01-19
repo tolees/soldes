@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B6L0bxqkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S283CPP-fr'
+slug: 'B07S283CPP-fr Redskins Blouson Cuir Karting Calista Homme'
 actualPrice: 239.2 EUR
 currency: EUR
 price: 239.2

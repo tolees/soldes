@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T1FYesxiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FRBZYDL-fr'
+slug: 'B08FRBZYDL-fr eXtremeRate 2 Pcs Verres Trempé pour Nintendo Switch Lite.Film Protection Protecteur d Écran HD Transparent [Anti-Rayures  Anti-Empreintes Digitales  Incassable  sans Bulles]-Sakura Rose'
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

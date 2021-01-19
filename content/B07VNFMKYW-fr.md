@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Keea6oBYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNFMKYW-fr'
+slug: 'B07VNFMKYW-fr NUTRIBULLET Balance 1200 W – Blender Connecté – Technologie Cyclonique Brevetée – Extracteur de Jus – Repas Healthy  Plastique  Noir'
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

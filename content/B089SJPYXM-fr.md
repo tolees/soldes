@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CVuLzlVsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089SJPYXM-fr'
+slug: 'B089SJPYXM-fr YUSH Casque Gamer PS4 Filaire avec Audio Stéréo Transducteurs 50mm avec Micro Anti Bruit   Jack 3.5mm - pour PC  PS4  Xbox One  Nintendo Switch  Android et IOS'
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

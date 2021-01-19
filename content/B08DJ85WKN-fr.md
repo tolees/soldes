@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nk1XaKhkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ85WKN-fr'
+slug: 'B08DJ85WKN-fr Écouteurs Intra-Auriculaires avec Microphone intégré et contrôle du Volume  écouteurs filaires Bluetooth Fonction connecteur pour iPhone SE/11/11 Pro Max/X/XS Max/XR/8/8 Plus/7/7 Plus-Tout'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

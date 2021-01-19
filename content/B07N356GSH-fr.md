@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+4wz5b4xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N356GSH-fr'
+slug: 'B07N356GSH-fr Mizuno Wave Inspire 15  Chaussures de Running Homme  Blanc Noir Bleu  43 EU'
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/511c89lxOtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CN6SG98-fr'
+slug: 'B08CN6SG98-fr GiiYoon 2 Pièces Verre Trempé pour Xiaomi Mi 9 Film Protection [Couverture Complète] [Garantie à Vie]  [Vitre Protecteur 9H Dureté] [sans Bulles]  Vitre pour Xiaomi Mi 9'
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

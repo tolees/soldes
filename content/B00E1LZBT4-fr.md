@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51waUvlRL3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E1LZBT4-fr'
+slug: 'B00E1LZBT4-fr Le Roi et l Oiseau [Combo Blu-Ray + DVD + Copie Digitale]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

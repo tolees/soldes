@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+9xJ3OxYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L6KY7Y8-fr'
+slug: 'B07L6KY7Y8-fr Under Armour Armour Insulated Hooded Veste Femme Noir FR : XS  Taille Fabricant : Taille XS '
 actualPrice: 70.82 EUR
 currency: EUR
 price: 70.82

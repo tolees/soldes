@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mpmOpeYWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01F64GE1I-fr'
+slug: 'B01F64GE1I-fr Oakwood 60901 - Veste en cuir - Col à boutons - Manches longues - Homme - Marron  Tabacco   Small  Taille Fabricant: S '
 actualPrice: 120.49 EUR
 currency: EUR
 price: 120.49

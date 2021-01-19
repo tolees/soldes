@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LnegLG89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B016H0R7SE-fr'
+slug: 'B016H0R7SE-fr Philips Hue Kit de Démarrage Blanc avec 2 x E27 9 W [pont inclus] - Fonctionne avec Alexa'
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

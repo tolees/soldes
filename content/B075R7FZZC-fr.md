@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31I2Dfbp6mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075R7FZZC-fr'
+slug: 'B075R7FZZC-fr SIMBA Protège Matelas - Alèse Imperméable et Respirant  150 x 200 cm '
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

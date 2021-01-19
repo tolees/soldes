@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ykW2Wx75L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089Y5R2ZB-fr'
+slug: 'B089Y5R2ZB-fr SAWAKE Mandoline Cuisine Multifonctions  6 en 1 Trancheuse à Légumes  Découpe Les Fruits  Presse Agrume  Râpe  Mandoline Slicer pour Légumes  Pommes de Terre  Tomates  Oignons  Fromage  etc'
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

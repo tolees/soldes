@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51VSswFxjAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TNVG4TX-fr'
+slug: 'B07TNVG4TX-fr VTech - Kidicom Advance noir - le portable sécurisé et sans forfait dès 6 ans  186605 '
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

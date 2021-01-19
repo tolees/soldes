@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Zn4zFqxoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C47BS9I-fr'
+slug: 'B01C47BS9I-fr TRANSFORMERS Robots In Disguise - Robot électronique Bumblebee 30cm - Jouet transformable 2 en 1'
 actualPrice: 7.79 EUR
 currency: EUR
 price: 7.79

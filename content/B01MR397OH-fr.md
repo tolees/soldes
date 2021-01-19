@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31EF0NVdq9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MR397OH-fr'
+slug: 'B01MR397OH-fr BONTEC Support Ecran PC Double Support Moniteur 2 Moniteurs de 13-27 Pouces pour Bureau Réglable en Hauteur Inclinable et Pivotant Ergonomique – Charge Maximal de 10kg VESA 75x75-100x100 mm'
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

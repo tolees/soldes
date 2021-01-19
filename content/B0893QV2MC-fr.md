@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FX2+WFXIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0893QV2MC-fr'
+slug: 'B0893QV2MC-fr Volant de course de jeu Volant à force d entraînement de 270 degrés pour les jeux de course PC / Nintendo Switch / PS3 / Android avec pédale de frein accélérateur  couleur rouge '
 actualPrice: 108.05 EUR
 currency: EUR
 price: 108.05

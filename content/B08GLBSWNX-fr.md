@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e++9OBNcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GLBSWNX-fr'
+slug: 'B08GLBSWNX-fr Disque Dur Externe 1to USB 3.0 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  1to  Bleu '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

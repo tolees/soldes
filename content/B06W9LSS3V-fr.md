@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31syhMT1qaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06W9LSS3V-fr'
+slug: 'B06W9LSS3V-fr Honeywell HYF260E4 Ventilateur Tour QuietSet Puissant et Ultra Silencieux-avec télécommande-HYF260E  Blanc'
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

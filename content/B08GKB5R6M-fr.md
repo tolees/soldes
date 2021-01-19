@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ul8dP-FsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GKB5R6M-fr'
+slug: 'B08GKB5R6M-fr Minuteur analogique visuel 60 minutes  compte à rebours sans bruit  outil de gestion du temps pour enfants  Minuterie pour travail à domicile  examen  regarder la télévision  jeu pour les garçons Bleu'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

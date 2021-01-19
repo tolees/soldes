@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ryve5qPEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N14XF5B-fr'
+slug: 'B07N14XF5B-fr Guess W1231L1 Montre Femme'
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

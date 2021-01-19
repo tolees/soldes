@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L8SOW3QXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NPLVFNL-fr'
+slug: 'B07NPLVFNL-fr Jabra Elite Active 45e – Casque de Sport Bluetooth sans Fil Waterproof pour les Appels et la Musique – Noir'
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

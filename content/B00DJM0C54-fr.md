@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ywlOoBlQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DJM0C54-fr'
+slug: 'B00DJM0C54-fr Dragonball GT - Box 3 [Import allemand]'
 actualPrice: 36.22 EUR
 currency: EUR
 price: 36.22

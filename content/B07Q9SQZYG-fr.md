@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518T8iXabiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q9SQZYG-fr'
+slug: 'B07Q9SQZYG-fr Braun Series 9 9299cc Rasoir Électrique Homme  Station Clean & Charge Et Pochette De Voyage – Édition Cadeau Or'
 actualPrice: 253.65 EUR
 currency: EUR
 price: 253.65

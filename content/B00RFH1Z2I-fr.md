@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aGvbs4ALL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00RFH1Z2I-fr'
+slug: 'B00RFH1Z2I-fr Les Tropéziennes par M. Belarbi HAMAT  Sandales Femme  Noir  Noir/Serpent   39 EU'
 actualPrice: 54.04 EUR
 currency: EUR
 price: 54.04

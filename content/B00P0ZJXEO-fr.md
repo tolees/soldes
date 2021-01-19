@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VST+2dgYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P0ZJXEO-fr'
+slug: 'B00P0ZJXEO-fr Italia Independent 0090CV-009-000 Lunettes de Soleil Unisex  Noir  Negro   50'
 actualPrice: 30.87 EUR
 currency: EUR
 price: 30.87

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31zksVupMPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W1X3Q3V-fr'
+slug: 'B07W1X3Q3V-fr REVENT HD Blue'
 actualPrice: 106.44 EUR
 currency: EUR
 price: 106.44

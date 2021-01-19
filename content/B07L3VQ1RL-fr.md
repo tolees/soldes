@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x860tqHIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L3VQ1RL-fr'
+slug: 'B07L3VQ1RL-fr FUNLAB Premium Étui de jeux pour Nintendo Switch  Portable et Mince  Aluminum Rangement de jeux en Cartouche pour 6 Jeux -- Rouge'
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

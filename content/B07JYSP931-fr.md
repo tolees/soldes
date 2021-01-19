@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TxKZLGUCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JYSP931-fr'
+slug: 'B07JYSP931-fr Tommy Hilfiger Falleen Blouse 3/4 SLV Top de Sport  Bleu  Letter STP/Medieval Blue 495   40  Taille Fabricant: 8  Femme'
 actualPrice: 77.43 EUR
 currency: EUR
 price: 77.43

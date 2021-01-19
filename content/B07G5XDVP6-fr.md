@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518HFIxev9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G5XDVP6-fr'
+slug: 'B07G5XDVP6-fr GPR Italie Jo.56.Vic Paire terminaux homologués avec raccord moto guzzi v7 racer 2010/16 vintacone'
 actualPrice: 485.69 EUR
 currency: EUR
 price: 485.69

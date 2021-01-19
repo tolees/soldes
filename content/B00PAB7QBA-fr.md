@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vSvHY-SdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00PAB7QBA-fr'
+slug: 'B00PAB7QBA-fr Champagne Pommery - Cuvée Louise Millésime 2004 Coffret Bouteille + Bouchon 2004 0  75 L'
 actualPrice: 96.54 EUR
 currency: EUR
 price: 96.54

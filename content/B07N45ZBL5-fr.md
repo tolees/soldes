@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hVE+2dK-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N45ZBL5-fr'
+slug: 'B07N45ZBL5-fr Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sweat-Shirt   Charcoal Heather P9x   Large Homme'
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

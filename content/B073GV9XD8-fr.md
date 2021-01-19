@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Q6ytSuokL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073GV9XD8-fr'
+slug: 'B073GV9XD8-fr SONGMICS Lot de 2 Tabourets de Bar Stool avec Dossier Hauteur réglable 62 5-82 5 cm Gris LJB64GUK'
 actualPrice: 55.4 EUR
 currency: EUR
 price: 55.4

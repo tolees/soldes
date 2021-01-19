@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rAwbtbPxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VNDNLP6-fr'
+slug: 'B07VNDNLP6-fr LA BELLEFÉE Coffret Bougies Parfumées Les Quatre Saisons Bougie à la Cire de Soja Naturelle Idée Cadeau pour Anniversaire Mariage et Décoration pour l Intérieur - Heure Durée 30h x 4'
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

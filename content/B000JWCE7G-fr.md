@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41xInfj3MmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000JWCE7G-fr'
+slug: 'B000JWCE7G-fr Online USV Kit de rails pour armoire'
 actualPrice: 70.64 EUR
 currency: EUR
 price: 70.64

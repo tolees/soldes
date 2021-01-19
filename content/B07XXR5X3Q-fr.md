@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aPHQnsMOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XXR5X3Q-fr'
+slug: 'B07XXR5X3Q-fr Elbe Bloc Prise pour Bureau  multiprise 3 Prises  2 USB  2 RJ45  HDMI  Prise Plan de Travail  Protection en métal Contre Les surtensions  1 5 m câble pour Bureau  Atelier  Cuisine EL4103URH-FR'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

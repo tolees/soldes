@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qv4KqOssL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081CLY8VV-fr'
+slug: 'B081CLY8VV-fr Pèse Personne Impédancemètre  Balance Connecté  Pèse-Personne Sans Fil  Électronique Balance Impédancemètre avec 13 Données Corporelles  Analyseur de Composition Corporelle pour APP Smartphone 180kg'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

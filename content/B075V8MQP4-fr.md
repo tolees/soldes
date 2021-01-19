@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z5E654sSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075V8MQP4-fr'
+slug: 'B075V8MQP4-fr IQE-Storage TB-M6 Trolley de transport  rembourrage en mousse  fermetures de type levier-crochet  LxlxH : 480 mm x 330 mm x 210 mm  argent'
 actualPrice: 62.03 EUR
 currency: EUR
 price: 62.03

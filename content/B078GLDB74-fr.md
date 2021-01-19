@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31lz0CZZsIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078GLDB74-fr'
+slug: 'B078GLDB74-fr Einhell Coupe-bordures sans fil GE-CT 36/30 Li E - Solo - Système Power X-Change  2x18 V  double fil : 30 cm  Longueur du fil : 800 cm  VERSION SOLO LIVRE SANS BATTERIE NI CHARGEUR'
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

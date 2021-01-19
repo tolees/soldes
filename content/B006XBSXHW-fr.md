@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jqwyaKnJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006XBSXHW-fr'
+slug: 'B006XBSXHW-fr DeWALT DCD785N-XJ Perceuse sans fil 18 V'
 actualPrice: 84.6 EUR
 currency: EUR
 price: 84.6

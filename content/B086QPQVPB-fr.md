@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cE45ZkZHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086QPQVPB-fr'
+slug: 'B086QPQVPB-fr havit Casque Gaming PS4  Casque Gamer RGB avec micro switch et contrôle du volume pour Xbox One  ordinateur portable  PC  téléphone portable  H2010d '
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

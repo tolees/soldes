@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Yz1YsTQ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N8XSZDH-fr'
+slug: 'B07N8XSZDH-fr Rockport Westbrook Oxford  Richelieus Homme  Marron  Cocoa Lea 001   42 EU'
 actualPrice: 95.96 EUR
 currency: EUR
 price: 95.96

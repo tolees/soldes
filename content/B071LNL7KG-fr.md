@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51e0HuvVY9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071LNL7KG-fr'
+slug: 'B071LNL7KG-fr Sine Mora EX'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

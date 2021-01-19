@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Z5bb9Qi7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TP696NK-fr'
+slug: 'B07TP696NK-fr Lacoste femme NF2731CE Chantaco Sac porte epaule Rose  Bittersweet '
 actualPrice: 121.0 EUR
 currency: EUR
 price: 121.0

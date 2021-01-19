@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cYVREufKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V6TLDWW-fr'
+slug: 'B07V6TLDWW-fr Tommy Hilfiger Iconic Material Mix Runner  Sneakers Basses Homme  Gris  Antique Silver Prt   42 EU'
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

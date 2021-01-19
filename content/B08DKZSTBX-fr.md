@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FJiqu8ZNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DKZSTBX-fr'
+slug: 'B08DKZSTBX-fr Montre Connectée  Fitness Tracker étanche IP68 avec Fréquence Cardiaque Soins Sains pour Femmes Moniteur de Sommeil Compteur de Calorie Bracelet Intelligent Cadeau de Fête des Mères'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

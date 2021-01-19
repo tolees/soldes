@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-52ithbRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWSPMXP-fr'
+slug: 'B07SWSPMXP-fr Replay Anbass Jean Slim  Bleu  Dark Blue 7   W27/L30  Taille Fabricant: 27  Homme'
 actualPrice: 66.07 EUR
 currency: EUR
 price: 66.07

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61qA5SGzZRL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CL962HP-fr'
+slug: 'B07CL962HP-fr Giochi Preziosi – LOL Bigger Surprise  multicolore  llu46000 - Version Import'
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

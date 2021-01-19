@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A038i2PYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CSPWN2W-fr'
+slug: 'B07CSPWN2W-fr TOMALL 4 pcs unique tête Tire Valve Stem Core Remover Repair Tool'
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

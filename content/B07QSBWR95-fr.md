@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fDt9hJ8ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QSBWR95-fr'
+slug: 'B07QSBWR95-fr Funko- Pop Star Wars The Rise of Skywalker: BB-8 Figurine de Collection  39886  Multicolore'
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

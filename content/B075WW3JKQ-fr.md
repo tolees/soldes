@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IWUL9xrWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075WW3JKQ-fr'
+slug: 'B075WW3JKQ-fr Shifu Orboot : Le globe éducatif basé sur la réalité augmentée | Jouet STEM pour les garçons et les filles de 4 à 10 ans | Cadeau idéal pour les enfants  sans frontières ni noms sur le globe '
 actualPrice: 37.43 EUR
 currency: EUR
 price: 37.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31n6e5Tb5vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07V2J3LMK-fr'
+slug: 'B07V2J3LMK-fr Tommy Hilfiger Corporate Material Mix Cupsole  Sneakers Basses Homme  Blanc  White Ybs   45 EU'
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

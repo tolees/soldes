@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Rz-TtpjOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002W1YQF0-fr'
+slug: 'B002W1YQF0-fr La Crosse Technology WS9611 Station Météo Mister Météo - Argent'
 actualPrice: 37.85 EUR
 currency: EUR
 price: 37.85

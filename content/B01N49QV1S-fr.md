@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o+7Q3VUDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N49QV1S-fr'
+slug: 'B01N49QV1S-fr Aicok Ensemble de couteaux  Couteaux de chef avec bloc en bois  Set de couteaux professionnels  Lot de couteaux en acier inoxydable à haute teneur avec support en bois  6 pièces'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

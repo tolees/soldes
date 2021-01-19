@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31uqVScXUfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077PXNL4N-fr'
+slug: 'B077PXNL4N-fr Maybelline New-York - Fond de teint Fluide Fit Me Matte & Poreless - Peaux normales à grasses - Teinte : 118 Nude - 30 ml'
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

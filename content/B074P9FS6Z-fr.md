@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31B4sNFOSZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074P9FS6Z-fr'
+slug: 'B074P9FS6Z-fr Fitbit Aria 2 Balance Wi-Fi Intelligente Compteur de Calories  Noir'
 actualPrice: 73.08 EUR
 currency: EUR
 price: 73.08

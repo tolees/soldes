@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mtBzEXWsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VN9YDQD-fr'
+slug: 'B07VN9YDQD-fr MICHELIN Chaines à neige Extrem Grip Automatique  spéciales SUV  4x4  CAMPING CAR  VEHICULES UTILITAIRES N°250'
 actualPrice: 122.99 EUR
 currency: EUR
 price: 122.99

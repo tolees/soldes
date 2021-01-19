@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NBUO52b9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W7ZGGKK-fr'
+slug: 'B07W7ZGGKK-fr Cubicfun Piste de Voiture Jouet Enfant 2 3 4 5 6 ans  City Rescue Car Piste Aventure de Voiture Jouet avec Hélicoptère  Bus  Voiture pour Enfant Garçon Fille'
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

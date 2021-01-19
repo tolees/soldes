@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ch27pmlvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JWF82BQ-fr'
+slug: 'B07JWF82BQ-fr Robot Blender Mixeur Multifonction - Power Blender Greenis FGR-8830 de 2500w avec Bol en Tritan 2l pour Smoothie  Soupe  Jus de Fruits'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

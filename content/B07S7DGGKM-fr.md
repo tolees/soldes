@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kR+sI-sEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S7DGGKM-fr'
+slug: 'B07S7DGGKM-fr Braun Oral-B Genius X 20000N Brosse À Dents Électrique par Braun  Blanc'
 actualPrice: 163.99 EUR
 currency: EUR
 price: 163.99

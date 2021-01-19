@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WZextIXNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VKBS8GD-fr'
+slug: 'B07VKBS8GD-fr Bombes de Bain Coffret Cadeau Anjou 6 x 115g  Boules Effervescentes pour Femmes  Jeunes filles  Anniversaires  Fêtes  etc'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

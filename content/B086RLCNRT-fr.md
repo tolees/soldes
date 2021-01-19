@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LbkIX0TFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086RLCNRT-fr'
+slug: 'B086RLCNRT-fr CubicFun Puzzle 3D Harry Potter La Grande Salle du château de Poudlard  Cadeaux pour Adulte Enfant Garçon Fille Femme  187 Pièces'
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

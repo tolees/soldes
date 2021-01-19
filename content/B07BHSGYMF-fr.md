@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VtwjCBfQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHSGYMF-fr'
+slug: 'B07BHSGYMF-fr Cube lumineux enceinte bluetooth sans fil LED blanc/multicolore dimmable CARRY PLAY 40cm avec télécommande'
 actualPrice: 113.99 EUR
 currency: EUR
 price: 113.99

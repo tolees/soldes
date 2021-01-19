@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XP33yC1XL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFNHPS4-fr'
+slug: 'B06XFNHPS4-fr Schott NYC LC300 Blouson  Marron  Rust Rust   Large  Taille Fabricant:L  Homme'
 actualPrice: 201.04 EUR
 currency: EUR
 price: 201.04

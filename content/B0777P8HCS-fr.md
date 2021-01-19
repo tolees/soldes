@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ixV5SodcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777P8HCS-fr'
+slug: 'B0777P8HCS-fr S72 / Sport Digital Camera'
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41VKejs69WL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01C2JJB0G-fr'
+slug: 'B01C2JJB0G-fr EmtecECSSD480GX150 - Disque SSDInterne - 2.5   - SATA - Collection X150 Power Plus - 3D NAND - 480 GB'
 actualPrice: 51.77 EUR
 currency: EUR
 price: 51.77

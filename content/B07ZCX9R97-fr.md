@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51OvIeDc0-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZCX9R97-fr'
+slug: 'B07ZCX9R97-fr Fairy Tail'
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

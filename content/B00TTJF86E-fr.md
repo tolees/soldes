@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317iihs9d1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00TTJF86E-fr'
+slug: 'B00TTJF86E-fr Clarks Tilden Walk  Derbys Homme  Noir  Black Leather   42.5 EU'
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

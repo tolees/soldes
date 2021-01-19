@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41k4BQ0XhAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0777QZL8H-fr'
+slug: 'B0777QZL8H-fr SEC24 CWL401S - Qualité WiFi Système de Surveillance et de Sécurité avec Caméra extérieure et écran Tactile - La Surveillance en Direct et la Lecture - Full HD 1080p - Stockage des Images jusqu à 2To'
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517O7xqeCwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0766DJPRK-fr'
+slug: 'B0766DJPRK-fr Playmobil - Villa de Vacances - 9420'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

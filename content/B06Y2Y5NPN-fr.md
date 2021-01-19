@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RzZ9J0I7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y2Y5NPN-fr'
+slug: 'B06Y2Y5NPN-fr New Balance homme 574v2 Core Baskets  Bleu  Navy   45 EU'
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

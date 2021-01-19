@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+L9u0Rn-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FHVF8VK-fr'
+slug: 'B08FHVF8VK-fr UniqueMe [6 Pièces] Protection écran pour Xiaomi Mi Band 5 [Case Friendly] Soft HD Clear TPU Film  Anti-Rayures avec Un Service après-Vente Parfait.'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

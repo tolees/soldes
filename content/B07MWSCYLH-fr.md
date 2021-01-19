@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51dMfI0qsNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MWSCYLH-fr'
+slug: 'B07MWSCYLH-fr Buyger 35 pièces Déguisement de Docteur Jouet Costume Cosplay Jeu d imitation Mallette Medecin Outils Médical Cadeau pour Enfant Fille Garçon  Bleu '
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

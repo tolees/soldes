@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w3Zb4aOPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001GKJVGW-fr'
+slug: 'B001GKJVGW-fr Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595'
 actualPrice: 68.74 EUR
 currency: EUR
 price: 68.74

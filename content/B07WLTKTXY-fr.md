@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41cm69HM4ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WLTKTXY-fr'
+slug: 'B07WLTKTXY-fr Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu prune'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

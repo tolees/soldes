@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08F58NJFB-fr'
+slug: 'B08F58NJFB-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 256 Go Interne Solid State Drive Lecture 550Mo/s Ecriture 530Mo/s 256GB'
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

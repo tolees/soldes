@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510WF-1MMSL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LFGV8NA-fr'
+slug: 'B01LFGV8NA-fr The Rolling Stones - Havana Moon [Blu-ray]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

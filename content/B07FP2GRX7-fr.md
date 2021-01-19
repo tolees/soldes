@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+lI87uMiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP2GRX7-fr'
+slug: 'B07FP2GRX7-fr LEGO® DUPLO® Mes 1ers pas Mon premier puzzle amusant Jeu 18 Mois et Plus  15 Pièces 10885'
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

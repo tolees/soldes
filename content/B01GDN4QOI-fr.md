@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DFcSyKSvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01GDN4QOI-fr'
+slug: 'B01GDN4QOI-fr Herschel Pop Quiz Sac à dos unisexe pour adulte  Eclipse Croix de charbon.  Bleu  - 10011-01335-OS'
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

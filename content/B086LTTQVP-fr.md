@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51WWdNZEF1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086LTTQVP-fr'
+slug: 'B086LTTQVP-fr Borderlands Legendary Collection'
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

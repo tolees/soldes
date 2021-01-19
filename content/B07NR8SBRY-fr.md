@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-wZu-g6DL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NR8SBRY-fr'
+slug: 'B07NR8SBRY-fr Eminence Heritage Ensemble de Pyjama  Bleu  Bleu Rayure 2286   XXX-Large  Taille Fabricant:7  Homme'
 actualPrice: 64.66 EUR
 currency: EUR
 price: 64.66

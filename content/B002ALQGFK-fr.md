@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411OPvoHWCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002ALQGFK-fr'
+slug: 'B002ALQGFK-fr Ardes - ARD.M240 - Masseur - Anti-Cellulite - Professionnel 4 en 1'
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

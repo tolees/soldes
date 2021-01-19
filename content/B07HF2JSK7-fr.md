@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jOMNddNsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HF2JSK7-fr'
+slug: 'B07HF2JSK7-fr TIMACO Robinet de cuisine avec douchette à ressort en acier inoxydable brossé Robinet de cuisine pivotant à 360 ° en acier inoxydable'
 actualPrice: 86.58 EUR
 currency: EUR
 price: 86.58

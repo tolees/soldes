@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31koGUO8cOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2X6ZRC-fr'
+slug: 'B07N2X6ZRC-fr Tommy Jeans TJM Tommy Classics Sweatpant Pantalon  Bleu  Black Iris Cbk   W32  Taille Fabricant: Large  Homme'
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

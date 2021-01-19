@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41O3p1JUJUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HN7XFK9-fr'
+slug: 'B08HN7XFK9-fr eXtremeRate 2 Pcs Verres Trempé pour Nintendo Switch  Film Protection Protecteur d Écran en Verre Trempé HD Transparent [Anti-Rayures  Anti-Empreintes Digitales  Incassable  sans Bulles]-Blanc'
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

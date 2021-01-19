@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31VMejNxPjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AXLVNU6-fr'
+slug: 'B01AXLVNU6-fr Philips BHD004/10 Sèche-cheveux  1800W  ThermoProtect  Touche Air froid'
 actualPrice: 13.28 EUR
 currency: EUR
 price: 13.28

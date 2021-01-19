@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xZx7+NOkL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CPQ3P6M-fr'
+slug: 'B07CPQ3P6M-fr HappyPicnic Panier Pique-Nique en Osier pour 4  4 kit  Panier en Osier de Pique-Nique Service Cadeau de vin en Bambou avec Snack Table pour Le Camping et extérieur Fête'
 actualPrice: 133.99 EUR
 currency: EUR
 price: 133.99

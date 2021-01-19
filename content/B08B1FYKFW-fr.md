@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Ab-c0WE7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B1FYKFW-fr'
+slug: 'B08B1FYKFW-fr Disque Dur Externe 1to  Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Noir '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

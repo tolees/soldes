@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41kFnrkj1pL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CDZD8B7-fr'
+slug: 'B07CDZD8B7-fr Marshall Major III Casque Audio Bluetooth - Noir'
 actualPrice: 68.46 EUR
 currency: EUR
 price: 68.46

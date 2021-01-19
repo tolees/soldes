@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41h88PREVcL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNXK1BQ-fr'
+slug: 'B07FNXK1BQ-fr Seiko Horloge SUR271P1'
 actualPrice: 119.4 EUR
 currency: EUR
 price: 119.4

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Tr2VTlK6L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8FFBG3-fr'
+slug: 'B07H8FFBG3-fr Deda Elementi SUPERZERO Alloy Aero Handlebar 31  7  46 cm Team Finish  Al 7050  w/Di2 Holes  My Guidons Mixte Adulte  Noir'
 actualPrice: 57.08 EUR
 currency: EUR
 price: 57.08

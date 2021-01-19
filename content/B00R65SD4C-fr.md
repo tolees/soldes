@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f54c6wKiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00R65SD4C-fr'
+slug: 'B00R65SD4C-fr VAHDAM  Feuilles de Thé Vert de l Himalaya  50+ Tasses  | 100% BIO & NATUREL | ANTIOXYDANTS PUISSANTS | Servir GLACÉ ou Chaud | Thé Kombucha | Feuilles de Thé Vert Minceur Pur  100g'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

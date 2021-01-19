@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51alNrT-xAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W6QC2QG-fr'
+slug: 'B07W6QC2QG-fr LEGO Figurines Série DC Super Héros avec 9 Super-Héros ou Méchants  Set de collection  22 pièces  71026'
 actualPrice: 6.2 EUR
 currency: EUR
 price: 6.2

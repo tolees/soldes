@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vRJ6Gp3RL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3C3HZV-fr'
+slug: 'B07F3C3HZV-fr Catapult PLAYR Smart Football Tracker - Veste GPS et Application de Suivi et amélioration des Performances - pour iPhone and Android  XXS '
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

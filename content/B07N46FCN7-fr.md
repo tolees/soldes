@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ddBRW7AGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N46FCN7-fr'
+slug: 'B07N46FCN7-fr Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sweat-Shirt   Walnut Pf7   Large Homme'
 actualPrice: 104.3 EUR
 currency: EUR
 price: 104.3

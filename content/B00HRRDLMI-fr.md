@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51vqlV8G8sL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRDLMI-fr'
+slug: 'B00HRRDLMI-fr Sylvanian Families - 4370 - Le chalet'
 actualPrice: 40.59 EUR
 currency: EUR
 price: 40.59

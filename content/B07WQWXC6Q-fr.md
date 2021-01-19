@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Xn8vFOuGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WQWXC6Q-fr'
+slug: 'B07WQWXC6Q-fr ALLPOWERS 50W 12V 18V Monocrystalline Solar Panel with Zipper  Adjustable Pet Stand  Dual 5V USB 18V DC Output Foldable Solar Charger Waterproof for Laptop Cell Phone Tablet Camera Power Bank'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

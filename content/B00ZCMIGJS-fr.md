@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jp0HPTTWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZCMIGJS-fr'
+slug: 'B00ZCMIGJS-fr Fendi Brillengestelle FF 0110 H1T/16-53-16-135 Lunettes de Soleil  Rouge  Rot   53.0 Femme'
 actualPrice: 116.0 EUR
 currency: EUR
 price: 116.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41znDQ1Oq5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDSM8W6-fr'
+slug: 'B07FDSM8W6-fr MIDAS veur Balayeuse portable pression et haute température  enlever les taches  les rides et les punaises de lit  Cleaner  améliorer   1050 W  Upgrade'
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wVSGRRMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MYLXPFW-fr'
+slug: 'B07MYLXPFW-fr Kaporal - Doudoune Coupe Droite - Mopa - Homme - XL - Noir'
 actualPrice: 53.47 EUR
 currency: EUR
 price: 53.47

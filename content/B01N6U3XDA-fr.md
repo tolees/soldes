@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/313rTHoJv1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N6U3XDA-fr'
+slug: 'B01N6U3XDA-fr Geox Uomo Symbol B  Sneakers Basses Homme  Noir  Black   45 EU'
 actualPrice: 44.8 EUR
 currency: EUR
 price: 44.8

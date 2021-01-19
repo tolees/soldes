@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rkTLbPybL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075VCNH3J-fr'
+slug: 'B075VCNH3J-fr Extech SL510 Sonomètre  Vert'
 actualPrice: 127.01 EUR
 currency: EUR
 price: 127.01

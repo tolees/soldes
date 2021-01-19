@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NARBPI7-fr'
+slug: 'B01NARBPI7-fr Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de lecture allant jusqu à 200 Mo/s'
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

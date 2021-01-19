@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319mOjDge+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CLRRJNX-fr'
+slug: 'B07CLRRJNX-fr ECCO Soft 7 Ladies  Botines Femme   Black Stone Metallic 51380   40 EU'
 actualPrice: 53.05 EUR
 currency: EUR
 price: 53.05

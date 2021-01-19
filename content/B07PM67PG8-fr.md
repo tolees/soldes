@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31jBYl8AixL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PM67PG8-fr'
+slug: 'B07PM67PG8-fr CALVET Vin Mousseux Rose Celebration 75 cl'
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

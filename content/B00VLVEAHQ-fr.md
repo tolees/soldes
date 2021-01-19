@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61yGl2+GAVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VLVEAHQ-fr'
+slug: 'B00VLVEAHQ-fr Playmobil - 5303 - Maison Traditionnelle'
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

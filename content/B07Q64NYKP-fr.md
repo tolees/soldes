@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51hO0D2o59L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Q64NYKP-fr'
+slug: 'B07Q64NYKP-fr Everyone Stares - The Police Inside Out [Blu-ray]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

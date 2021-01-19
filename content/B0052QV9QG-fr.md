@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/314QEYI3C0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0052QV9QG-fr'
+slug: 'B0052QV9QG-fr EL1600USBFR ELLIP ECO 1600 USB'
 actualPrice: 259.89 EUR
 currency: EUR
 price: 259.89

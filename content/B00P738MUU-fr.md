@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41fw65-8tpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P738MUU-fr'
+slug: 'B00P738MUU-fr Samsung SSD 850 EVO   1 To  - SSD Interne SATA III 2.5" - MZ-75E1T0B/EU'
 actualPrice: 296.8 EUR
 currency: EUR
 price: 296.8

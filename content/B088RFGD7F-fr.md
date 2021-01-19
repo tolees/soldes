@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CiqVue-kL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088RFGD7F-fr'
+slug: 'B088RFGD7F-fr BESTBOMG Tondeuse Cheveux Hommes Professionnelle Tondeuse Barbe Cheveux Sans Fil Tondeuse Cheveux Kit 5500rpm 8 protections d accessoires colorées 2 Vitesses Ajustées  pour les Enfants et la Famille'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

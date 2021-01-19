@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/418DTGEYI9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00XH75EFE-fr'
+slug: 'B00XH75EFE-fr TOKINA AT-X PRO FX 24-70mm F2.8 Objectif reflex pro haute résolution Noir'
 actualPrice: 813.7 EUR
 currency: EUR
 price: 813.7

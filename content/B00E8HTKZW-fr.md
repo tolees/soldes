@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41gzVv0pgKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00E8HTKZW-fr'
+slug: 'B00E8HTKZW-fr Sweetnight - Surmatelas Luxe 160x200 cm | Ultra Moelleux et Confortable | Enveloppe 100% Coton | Lavable | Qualité Hôtellerie de Luxe'
 actualPrice: 39.56 EUR
 currency: EUR
 price: 39.56

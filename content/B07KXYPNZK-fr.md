@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41e77a49xGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KXYPNZK-fr'
+slug: 'B07KXYPNZK-fr Millet – Ubic 40 – Sac à Dos de Montagne Unisexe – Équipement pour Randonnée et Trekking – Volume Moyen 40 L – Couleur : Urban Chic'
 actualPrice: 82.79 EUR
 currency: EUR
 price: 82.79

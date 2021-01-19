@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/315-4f6UWZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0786JC6VW-fr'
+slug: 'B0786JC6VW-fr 8Bitdo Adaptateur Bluetooth sans fil pour Windows/Mac/Raspberry Pi/Nintendo Switch'
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

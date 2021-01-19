@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FyQpHbIQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07K73PXWB-fr'
+slug: 'B07K73PXWB-fr Levi s 511 Slim Fit – Jeans pour hommes à coupe ajustée avec stretch Bleu  Aegean Adapt 3407  33W/32L'
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

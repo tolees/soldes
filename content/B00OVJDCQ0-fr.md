@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41v4DWPgNQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OVJDCQ0-fr'
+slug: 'B00OVJDCQ0-fr D-Link DWR-932 Routeur Mobile Wireless N150 4G LTE Cat4 - Module LTE/HSPA  Dual Mode  - Débit montant 50 Mbps  descendant 150 Mbps - Batterie 2020mAh - Idéal pour un Accès Internet Partout en France'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

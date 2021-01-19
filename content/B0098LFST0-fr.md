@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41r9OuYXMzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0098LFST0-fr'
+slug: 'B0098LFST0-fr Sharp R-742WW Four micro-ondes  Blanc'
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

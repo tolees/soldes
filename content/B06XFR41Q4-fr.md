@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KGgRqhbNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XFR41Q4-fr'
+slug: 'B06XFR41Q4-fr Seb Clipsominut  Easy Cocotte-minute 7 5 L Induction + Livre 100 Recettes Autocuiseur Inox Fabriqué en France Facile à Utiliser Bleue P4620816'
 actualPrice: 83.97 EUR
 currency: EUR
 price: 83.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/518r0-K3BzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVP1D6F-fr'
+slug: 'B07SVP1D6F-fr Darksiders - Genesis'
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512LImW4s0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083Z8WVD3-fr'
+slug: 'B083Z8WVD3-fr Ultenic Aspirateur Robot D5s  Connecté Wi-FI et Alexa  Nettoyage Efficace sur Programmation  3 en 1 Nettoyeur et Laveur  Nettoyer et Laver Simultanément  Contrôle avec Alexa & App'
 actualPrice: 164.25 EUR
 currency: EUR
 price: 164.25

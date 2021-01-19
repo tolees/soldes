@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41utsmU0fHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IZG27HA-fr'
+slug: 'B00IZG27HA-fr J.S. Staedtler - Accessoires - Etui en chevreau marron pour 1 instrument d écriture'
 actualPrice: 39.91 EUR
 currency: EUR
 price: 39.91

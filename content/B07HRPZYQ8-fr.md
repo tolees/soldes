@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51iA5Yu3RXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HRPZYQ8-fr'
+slug: 'B07HRPZYQ8-fr MGA pétillante L.O.L. Surprise  Orange  avec poupée et Animal exclusifs Toy  556268E7C  Multicolore'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

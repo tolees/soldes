@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Dsj8x4Z1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B086ZSCBH6-fr'
+slug: 'B086ZSCBH6-fr Écouteurs Bluetooth  Bluedio P Particle  Écouteurs sans Fil Stéréo  24 Heures d Autonomie avec Étui de Chargement  Appariement Automatique  Mini TWS Oreillettes Bluetooth 5.0 pour Android et iOS'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

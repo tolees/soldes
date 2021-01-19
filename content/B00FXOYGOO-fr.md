@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31nAQB1hLsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FXOYGOO-fr'
+slug: 'B00FXOYGOO-fr HAUPTSTADTKOFFER - Spree - Valise de Taille Moyenne  Bagage de soute rigide  ABS  TSA  extensible  extra léger  4 roues  65 cm  74 L  Bleu Foncé'
 actualPrice: 52.44 EUR
 currency: EUR
 price: 52.44

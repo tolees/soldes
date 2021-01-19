@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51twmHDKPrL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D3VDW3V-fr'
+slug: 'B08D3VDW3V-fr Prodisac Forte ® | Haute concentration de Gingsen + Maca + Ginkgo Biloba + Zinc | Effet Immédiat | Complément alimentaire 100% naturel | 60 Gélules végétales sans Contre-indications.'
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

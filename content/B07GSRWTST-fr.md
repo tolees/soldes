@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rDzrvzlYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSRWTST-fr'
+slug: 'B07GSRWTST-fr Hommes Mode Sneakers Confort Respirant Doux Maille De Sports De Plein Air Chaussures De Marche Noir 39 EU'
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

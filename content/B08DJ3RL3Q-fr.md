@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ3RL3Q-fr'
+slug: 'B08DJ3RL3Q-fr Disque Dur Externe 2to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Noir '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Xozv5mvvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B008ES8WZA-fr'
+slug: 'B008ES8WZA-fr Schott NYC Lc5100 Blouson  Noir  Large  Taille fabricant: L  Homme'
 actualPrice: 253.51 EUR
 currency: EUR
 price: 253.51

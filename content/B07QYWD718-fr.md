@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31WGZ2P975L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QYWD718-fr'
+slug: 'B07QYWD718-fr Sony WI-C200 Ecouteurs intra-auriculaires sans fil type tour de cou - Noir'
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

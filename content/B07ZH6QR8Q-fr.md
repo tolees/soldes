@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pwXD2J-GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZH6QR8Q-fr'
+slug: 'B07ZH6QR8Q-fr Silicon Power PCIe M.2 NVMe SSD 256GB Gen3x4 R/W up to 2  100/1  200MB/s Internal SSD'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

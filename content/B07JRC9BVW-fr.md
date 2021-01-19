@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41D4rV7i+1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JRC9BVW-fr'
+slug: 'B07JRC9BVW-fr Tommy Hilfiger Tommy Logo Hoody Sweat-Shirt  Bleu  Sky Captain 403   XX-Large Homme'
 actualPrice: 79.92 EUR
 currency: EUR
 price: 79.92

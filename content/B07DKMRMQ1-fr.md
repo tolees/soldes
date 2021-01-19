@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51IU3iTHAZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DKMRMQ1-fr'
+slug: 'B07DKMRMQ1-fr NHL 19'
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

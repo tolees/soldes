@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pDMEX7HfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NM4R6ZS-fr'
+slug: 'B07NM4R6ZS-fr AVIC-Z820DAB'
 actualPrice: 665.0 EUR
 currency: EUR
 price: 665.0

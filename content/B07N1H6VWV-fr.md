@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Lxcx9oq2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1H6VWV-fr'
+slug: 'B07N1H6VWV-fr Kipling Youri Spin 68 Luggage 71 L Black Indigo'
 actualPrice: 169.64 EUR
 currency: EUR
 price: 169.64

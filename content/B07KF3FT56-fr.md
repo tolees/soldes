@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CZMe9RQiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF3FT56-fr'
+slug: 'B07KF3FT56-fr Levi s 501 Crop Jean Droit  Bleu  Montgomery Baked 0074   W26/L26 Femme'
 actualPrice: 91.62 EUR
 currency: EUR
 price: 91.62

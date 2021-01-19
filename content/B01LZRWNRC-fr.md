@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31N5xRl3BqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZRWNRC-fr'
+slug: 'B01LZRWNRC-fr Lunii  Fabrique à Histoires'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

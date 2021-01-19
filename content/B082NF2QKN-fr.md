@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51D8bBm9vnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082NF2QKN-fr'
+slug: 'B082NF2QKN-fr Wasteland 3 : Day One Edition pour PS4'
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

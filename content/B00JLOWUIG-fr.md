@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zY-yRGygL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JLOWUIG-fr'
+slug: 'B00JLOWUIG-fr Bosch Professional Défonceuse Filaire GOF 1250 CE  1250 W  régime à vide: 10 000-24000 tr/min  Ø de l outil: 370x170x270mm  pack d accessoires  coffret '
 actualPrice: 372.0 EUR
 currency: EUR
 price: 372.0

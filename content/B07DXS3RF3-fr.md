@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zuPGc95EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DXS3RF3-fr'
+slug: 'B07DXS3RF3-fr Le Cercle littéraire de Guernesey'
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

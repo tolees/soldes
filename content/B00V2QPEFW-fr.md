@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ugGYkk4hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00V2QPEFW-fr'
+slug: 'B00V2QPEFW-fr Columbia Zero Rules  Haut à Manches Longues  Homme'
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413psjCvyVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KWWYJXO-fr'
+slug: 'B01KWWYJXO-fr Philips AC2887/10 Purificateur d air  purifie jusqu à 79 m²  triple filtration  affichage des particules fines en temps réel'
 actualPrice: 318.98 EUR
 currency: EUR
 price: 318.98

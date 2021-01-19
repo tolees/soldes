@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-98vNOyuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005VNFHYK-fr'
+slug: 'B005VNFHYK-fr Thule 962100 Barres de Toit WingBar 962 en Aluminium-Argenté  Gris  Longueur 135 cm'
 actualPrice: 55.15 EUR
 currency: EUR
 price: 55.15

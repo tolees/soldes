@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4100hNZvktL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WZT2HZ8-fr'
+slug: 'B07WZT2HZ8-fr Casque Gaming sans Fil Casque Gamer pour PS4 Switch et PC Casque Gaming avec Micro pour 7.1 Surround et Fortes Basses'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

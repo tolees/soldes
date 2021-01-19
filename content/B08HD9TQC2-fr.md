@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51kENk3ofNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HD9TQC2-fr'
+slug: 'B08HD9TQC2-fr LEBE Coque pour Xiaomi Redmi Note 9 Pro Housse en Cuir Xiaomi Redmi Note 9S Étui Téléphone [Porte-Cartes de Crédit] [Fermeture Magnétique] pour Xiaomi Redmi Note 9 Pro/Redmi Note 9S- Noir'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

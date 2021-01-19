@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416V0m4IDVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085G1VLWV-fr'
+slug: 'B085G1VLWV-fr BRIKSMAX Kit de LED pour Lego Architecture L’Empire State Compatible avec la Maquette Lego 21046  La Maquette de Construction n est Pas Incluse'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

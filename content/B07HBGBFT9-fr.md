@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vKhvNng5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HBGBFT9-fr'
+slug: 'B07HBGBFT9-fr SteelSeries Arctis 3 Console - Casque de Jeu Filaire Stéréo - pour PlayStation 4  Xbox One  Nintendo Switch  RV  Android et iOS - Noir'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

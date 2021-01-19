@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31odDJnEBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVNX78P-fr'
+slug: 'B07SVNX78P-fr ROCCAT Kain 120 AIMO Souris Gaming RGB  nouveau capteur optique Owl-Eye 16.000 dpi  poids très léger de 89g  technologie Titan Click  noire'
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

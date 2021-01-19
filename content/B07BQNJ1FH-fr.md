@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51lHJP2agML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQNJ1FH-fr'
+slug: 'B07BQNJ1FH-fr Ready Player One - DVD'
 actualPrice: 7.98 EUR
 currency: EUR
 price: 7.98

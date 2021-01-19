@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H7ypX3bUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HYQLXJZ-fr'
+slug: 'B07HYQLXJZ-fr Nike WMNS Air Force 1 High  Chaussures de Fitness Femme  Noir  Black/Black/Black 013   39 EU'
 actualPrice: 59.11 EUR
 currency: EUR
 price: 59.11

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21TBzDYw8+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075RC6XXN-fr'
+slug: 'B075RC6XXN-fr GROHE 26381001 Tempesta System 210 Colonne de Douche avec Inverseur Manuel  Argent'
 actualPrice: 142.9 EUR
 currency: EUR
 price: 142.9

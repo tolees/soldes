@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41jClwm1XxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B081NNSQGQ-fr'
+slug: 'B081NNSQGQ-fr Garcinia cambogia + L-Carnitine + Thé vert. Brûleur de Graisse  100% naturelle  Haute Concentration 60% HCA  pour perdre du poids et couper la faim  180 gélules végétales.'
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

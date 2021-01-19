@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-SbnEPF+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Z5CMDPN-fr'
+slug: 'B07Z5CMDPN-fr G-STAR RAW Boxed Raw Graphic Straight T-Shirt  Indigo 336-857  Large Hommes'
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

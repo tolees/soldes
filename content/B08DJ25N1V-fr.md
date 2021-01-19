@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41XtxD7NKZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ25N1V-fr'
+slug: 'B08DJ25N1V-fr Disque Dur Externe 1to Disque Dur Externe USB3.0-2.5’’ pour Mac  PC  Windows  MacBook  Ordinateur de Bureau  Xbox One  1to Bleu '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

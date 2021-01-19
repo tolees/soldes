@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qtMRGTNXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK11H4Y-fr'
+slug: 'B07KK11H4Y-fr Kickers - KICK COL 621514-30-92 - Bottes & bottines souples  Unisexe - Marron  Marron Fonce Perm 92  - 33 EU'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

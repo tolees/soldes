@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31RoduHp6fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013SK0C6U-fr'
+slug: 'B013SK0C6U-fr Manfrotto MM290A4 Monopode pour Appareil photo Noir'
 actualPrice: 29.73 EUR
 currency: EUR
 price: 29.73

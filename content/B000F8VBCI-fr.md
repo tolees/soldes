@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51MO5SymqAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000F8VBCI-fr'
+slug: 'B000F8VBCI-fr Learning Resources Kit pour la Classe de Base 10 en Plastique rainuré  LER0932'
 actualPrice: 91.9 EUR
 currency: EUR
 price: 91.9

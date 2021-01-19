@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41LRw7JuvtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072MCZ8QQ-fr'
+slug: 'B072MCZ8QQ-fr Microsoft Clavier Type Cover pour  Surface Pro Bleu Cobalt - AZERTY'
 actualPrice: 130.39 EUR
 currency: EUR
 price: 130.39

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41o3IwgyEIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TQNLLPD-fr'
+slug: 'B07TQNLLPD-fr BÉABA  Babycook Solo  Robot Bébé 4 en 1 Mixeur-Cuiseur  Cuisson Vapeur  Diversification alimentaire  Petits pots bébé maison  Matcha'
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

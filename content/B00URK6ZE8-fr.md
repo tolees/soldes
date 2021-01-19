@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KGLK8m+ZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00URK6ZE8-fr'
+slug: 'B00URK6ZE8-fr Remington IPL6750 Epilateur Lumière Pulsée 300000 Flashs I-Light  Epilation Définitive Corps Visage Maillot - Rose'
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

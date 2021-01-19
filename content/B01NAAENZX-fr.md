@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31APzGPA7qL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NAAENZX-fr'
+slug: 'B01NAAENZX-fr Tommy Hilfiger H2285arlow 1d  Sneaker Basses Homme  Bleu  Midnight   41 EU'
 actualPrice: 40.36 EUR
 currency: EUR
 price: 40.36

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31n3U0g2iTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013EBIJCM-fr'
+slug: 'B013EBIJCM-fr Plateau pour Chaise Carrie Tumble Form S2 Junior'
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

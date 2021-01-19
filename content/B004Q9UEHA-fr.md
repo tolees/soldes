@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41F8FU3wS-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004Q9UEHA-fr'
+slug: 'B004Q9UEHA-fr Philip Watch - R8253107765 - Montre Femme - Quartz - Analogique - Bracelet Acier Inoxydable Argent'
 actualPrice: 337.59 EUR
 currency: EUR
 price: 337.59

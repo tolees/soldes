@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NH9XGPNdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SVG5FMV-fr'
+slug: 'B07SVG5FMV-fr Pinko Rubino 3  Baskets Enfiler Femme  Multicolore  Rosa/Grigio Ni1   35 EU'
 actualPrice: 93.96 EUR
 currency: EUR
 price: 93.96

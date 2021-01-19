@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41W9CB9juUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00C3Y2IC4-fr'
+slug: 'B00C3Y2IC4-fr Laurastar Lift Plus Ultimate Black  Centrale Vapeur Nomade 3en1  Repasse  Défroisse et Purifie Vos Textiles  Vapeur Hygiénique  Design  Réservoir Amovible  Repassage Vertical  Enrouleur Automatique  Semelle 3D  Noir'
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

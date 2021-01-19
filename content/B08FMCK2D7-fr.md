@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/411IVaeWvnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FMCK2D7-fr'
+slug: 'B08FMCK2D7-fr GRDE Montre Connectée Smartwatch  Bluetooth Montre Sport avec Moniteur de fréquence Cardiaque Compteur de Calories 9 Modes Sportifs IP68 Appelez SMS Push pour Android iOS'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

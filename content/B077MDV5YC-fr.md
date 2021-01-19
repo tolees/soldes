@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31dO0ctYzyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077MDV5YC-fr'
+slug: 'B077MDV5YC-fr Puma Smash Wns V2 L  Baskets Basses Femme  Noir  Puma Black-Puma Black   38.5 EU'
 actualPrice: 37.91 EUR
 currency: EUR
 price: 37.91

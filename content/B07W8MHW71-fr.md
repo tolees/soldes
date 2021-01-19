@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41S0rVt7reL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07W8MHW71-fr'
+slug: 'B07W8MHW71-fr Logitech iPad Air Étui Clavier  3e Génération  | Slim Folio avec Clavier sans Fil Intégré  Graphite '
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

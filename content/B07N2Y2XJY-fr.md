@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GXHMWBXwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N2Y2XJY-fr'
+slug: 'B07N2Y2XJY-fr Orient Horloge FAC0000CA0'
 actualPrice: 151.38 EUR
 currency: EUR
 price: 151.38

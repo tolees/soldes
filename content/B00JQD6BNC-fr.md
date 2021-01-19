@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qh3dhytKL._SL500_._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00JQD6BNC-fr'
+slug: 'B00JQD6BNC-fr Dé géant aux changements de couleurs - Tora'
 actualPrice: 95.15 EUR
 currency: EUR
 price: 95.15

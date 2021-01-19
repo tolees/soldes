@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kHirTqGaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZS7T17-fr'
+slug: 'B07CZS7T17-fr Xiaomi Redmi Note 5 Smartphone Portable Débloqué 4G  Ecran: 5 99 Pouces - 64 Go - Nano-SIM - Android  Or -'
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

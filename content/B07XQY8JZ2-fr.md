@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/512yzZKAooL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XQY8JZ2-fr'
+slug: 'B07XQY8JZ2-fr Tronsmart T6 Plus Enceinte Bluetooth 40W  Haut Parleur Portable d extérieur avec Powerbank  15 Heures Playtime  étanche IPX6  TWS Stéréo et Basses Puissantes  Speaker Bluetooth 5.0  Mains Libres'
 actualPrice: 56.09 EUR
 currency: EUR
 price: 56.09

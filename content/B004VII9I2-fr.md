@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T5fvq4nQL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004VII9I2-fr'
+slug: 'B004VII9I2-fr Vilac - 1102 - Voiture de Course - Porteur Métal - Nacré - Véhicule pour Enfants'
 actualPrice: 100.94 EUR
 currency: EUR
 price: 100.94

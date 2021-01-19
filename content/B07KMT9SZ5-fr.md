@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31v-vNfFqjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KMT9SZ5-fr'
+slug: 'B07KMT9SZ5-fr Kaba Cylindre Haute sécurité + Renfort Matrix 30 x 50 Laiton 5 clés LK Double EMB+ Lame  Doré  0'
 actualPrice: 81.54 EUR
 currency: EUR
 price: 81.54

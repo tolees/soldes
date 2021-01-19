@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41wPLJM-2GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TKBDC95-fr'
+slug: 'B07TKBDC95-fr HP EliteBook 840 G2 - PC Portable - 14   -  Core i5-5300U / 2.30 GHz  8Go de RAM  Disque SSD 180Go SSD  WiFi  Windows 10  Bluetooth  AZERTY Clavier  Modèle très Rapide  Reconditionné '
 actualPrice: 429.0 EUR
 currency: EUR
 price: 429.0

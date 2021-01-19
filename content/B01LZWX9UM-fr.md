@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41NTcfBUqqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LZWX9UM-fr'
+slug: 'B01LZWX9UM-fr Polti PBEU0100 Unico MCV80 Total Clean & Turbo Aspirateur Multifonctions 3 en 1 et Nettoyeur Vapeur  6 Bar  236 W  0.8 litres  Bleu/Blanc. Tue et élimine 99 99%* des virus  germes et bactéries'
 actualPrice: 560.29 EUR
 currency: EUR
 price: 560.29

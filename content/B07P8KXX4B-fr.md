@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IGYJNN89L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P8KXX4B-fr'
+slug: 'B07P8KXX4B-fr Silicon Power 256GB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3  100/1  100 Mo/s SSD'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

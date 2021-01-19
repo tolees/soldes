@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31KaEzaJlUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0000Y7KFY-fr'
+slug: 'B0000Y7KFY-fr Kai DM.0701 Couteau Universel'
 actualPrice: 86.92 EUR
 currency: EUR
 price: 86.92

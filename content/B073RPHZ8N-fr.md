@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41aq05HDDoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073RPHZ8N-fr'
+slug: 'B073RPHZ8N-fr Columbia Drainmaker IV  Chaussures de Randonnée Basses Homme  Noir  Black  Lux 010   43.5 EU'
 actualPrice: 48.38 EUR
 currency: EUR
 price: 48.38

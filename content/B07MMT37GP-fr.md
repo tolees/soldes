@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-YadZToWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MMT37GP-fr'
+slug: 'B07MMT37GP-fr L OR Barista LM8016/90 machine à café à capsules Noir Mat et Finition métallisée'
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

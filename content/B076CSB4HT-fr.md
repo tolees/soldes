@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mz5nFIKUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076CSB4HT-fr'
+slug: 'B076CSB4HT-fr Samsonite LAPTOP BACKPACK 17.3" EXP  BLACK  -SPECTROLITE 2.0  Sac à dos loisir  0 cm  Noir'
 actualPrice: 126.75 EUR
 currency: EUR
 price: 126.75

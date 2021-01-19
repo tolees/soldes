@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41dcA4zOq-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B071CZB7NQ-fr'
+slug: 'B071CZB7NQ-fr Enceinte Haut-parleur Bluetooth Portable Lampe de Chevet LED avec Contrôle Tactile  Lampe de Table Couleur Changeant la Lumière de Nuit avec le Réveil pour la Chambre'
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

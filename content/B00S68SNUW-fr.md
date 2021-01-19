@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Rm1lV2q7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00S68SNUW-fr'
+slug: 'B00S68SNUW-fr Sylvanian Families - 5210 - Le bateau chasse au trésor'
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41f2Vt7yW5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M67NM0Z-fr'
+slug: 'B01M67NM0Z-fr Protection auditive pour les bébés et les enfants Senner KidsPro. Des bébés de 3 mois jusqu aux enfants de 16 ans ou plus vieux  menthe/turquoise '
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

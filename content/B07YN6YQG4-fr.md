@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31MliBXdeNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YN6YQG4-fr'
+slug: 'B07YN6YQG4-fr Lottusse T2470  Brogues Homme  Noir  Duca Negro Duca Negro   40 EU'
 actualPrice: 114.82 EUR
 currency: EUR
 price: 114.82

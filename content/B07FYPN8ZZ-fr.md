@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419pIwtvOzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYPN8ZZ-fr'
+slug: 'B07FYPN8ZZ-fr Vertbaudet Parure Caradou Facile à Border sans Couette PIN PON PIN Vert bleuté imprimé 90x140'
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

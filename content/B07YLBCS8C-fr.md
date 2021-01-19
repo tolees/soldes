@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mw6HXqWDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YLBCS8C-fr'
+slug: 'B07YLBCS8C-fr s.Oliver BLACK LABEL 01.899.82.6408 Robe  Noir  Black AOP 99e7   48  Taille Fabricant: 46  Femme'
 actualPrice: 61.13 EUR
 currency: EUR
 price: 61.13

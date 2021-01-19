@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41b1Fc0IQ-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KK2NZRJ-fr'
+slug: 'B07KK2NZRJ-fr Columbia Peakfreak Venture S II Mid WP  Chaussures Multisport Homme  Beige  Elk  Flame   43 EU'
 actualPrice: 106.41 EUR
 currency: EUR
 price: 106.41

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41teC-nDMPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083BMHYFF-fr'
+slug: 'B083BMHYFF-fr Machine à Café Filtre  HOMEVER 1 5L Cafetiere Filtre Jusque 12 Tasses Cafetier Programmable avec Minuterie  Affichage LCD  Filtre Permanent Incl Rapide Cuillère Dosette  Plaque Chaude Argenté  argent '
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

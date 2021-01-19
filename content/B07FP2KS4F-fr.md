@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51NB+ISoV1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FP2KS4F-fr'
+slug: 'B07FP2KS4F-fr LEGO® Movie L atelier « Construire et réparer » d Emmet et Benny ! Jeu de construction  4 Ans et Plus  117 Pièces  70821'
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

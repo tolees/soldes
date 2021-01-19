@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51pMBOuoKwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BHST5C3-fr'
+slug: 'B07BHST5C3-fr Kipling College Up Cartable  42 cm  32 liters  Turquoise  Bright Aqua C '
 actualPrice: 99.72 EUR
 currency: EUR
 price: 99.72

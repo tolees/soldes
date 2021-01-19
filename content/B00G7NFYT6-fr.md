@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rMd3OhdLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00G7NFYT6-fr'
+slug: 'B00G7NFYT6-fr Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert'
 actualPrice: 64.09 EUR
 currency: EUR
 price: 64.09

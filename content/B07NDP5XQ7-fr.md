@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31z0BlpDRoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NDP5XQ7-fr'
+slug: 'B07NDP5XQ7-fr G-STAR RAW Stem Round Neck T-Shirt  Bleu  Imperial Blue 1305   XX-Small Homme'
 actualPrice: 23.68 EUR
 currency: EUR
 price: 23.68

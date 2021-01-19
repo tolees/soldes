@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41g725hXjdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FYR28Y4-fr'
+slug: 'B07FYR28Y4-fr Vertbaudet Parure Caradou Facile à Border avec Couette PIN PON PIN Vert Clair imprimé 90x140'
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

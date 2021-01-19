@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31aqUhN92tL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MRVR3KL-fr'
+slug: 'B07MRVR3KL-fr Microsoft Surface Laptop 2  13.5" tactile  Core i5  RAM 8 Go  SSD 256 Go  Windows 10  - Noir'
 actualPrice: 999.0 EUR
 currency: EUR
 price: 999.0

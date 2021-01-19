@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/318WKWgZxKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CZMXWBX-fr'
+slug: 'B07CZMXWBX-fr Under Armour UA Qualifier SPEEDPOCKET 2-N-1 Short Homme  Gris  XL'
 actualPrice: 19.44 EUR
 currency: EUR
 price: 19.44

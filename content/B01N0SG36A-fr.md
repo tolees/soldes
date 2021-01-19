@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FD-Re1XIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N0SG36A-fr'
+slug: 'B01N0SG36A-fr FIBARO Homekit enabled Multisensor/ Détecteur de Mouvement'
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

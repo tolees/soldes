@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319KWRlD+9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZHK48S3-fr'
+slug: 'B07ZHK48S3-fr DJI RoboMaster S1  Support Éducatif  Construire Soit-Même  IA  Programmation Scratch et Python  Robotique  Multiples Modes de Combats  Conçu pour Gagner  DJIRMS1-EU'
 actualPrice: 359.0 EUR
 currency: EUR
 price: 359.0

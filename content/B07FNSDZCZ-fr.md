@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51HySUSGGiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNSDZCZ-fr'
+slug: 'B07FNSDZCZ-fr LEGO® DUPLO® Movie Les visiteurs de la planète DUPLO® d Emmet et Lucy Jeu de construction  2 Ans et Plus  53 Pièces  10895'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

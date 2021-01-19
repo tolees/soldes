@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41iE-F8alpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087RLK1MY-fr'
+slug: 'B087RLK1MY-fr Ecouteurs Bluetooth 5.0 Écouteur sans Fil avec Anti-Bruit CVC 8.0  Couplage Automatique écouteurs Sport stéréo IPX5 étanches Intégré HD Mic Casques avec étui de Chargement pour iOS Android Samsung'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410xE1wA8xL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013MC8H2A-fr'
+slug: 'B013MC8H2A-fr Lowepro 250 AW Slingshot Edge sac de transport pour Appareil photo Noir'
 actualPrice: 75.49 EUR
 currency: EUR
 price: 75.49

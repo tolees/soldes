@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41PINbX-2EL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00ZUFRCHY-fr'
+slug: 'B00ZUFRCHY-fr Sony DSC-RX10 II Appareil Photo Numérique Bridge Expert  Capteur 1   CMOS Exmor RS  20 2 Mpix  24-200mm à Ouverture Constante F2.8  4K Noir'
 actualPrice: 1092.9 EUR
 currency: EUR
 price: 1092.9

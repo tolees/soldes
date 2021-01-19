@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IHo0CQlfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0817GH5XQ-fr'
+slug: 'B0817GH5XQ-fr Columbia Klamath Range II Polaire Demi-zippée Homme'
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

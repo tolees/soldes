@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mjeSZ5lNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JMVBN4R-fr'
+slug: 'B07JMVBN4R-fr Trust Gaming GXT 865 Asta Clavier Mécanique Gamer RGB  Commutateurs de Touche Rouges  Red Switches   Linéaires & Silencieux  N-Key Rollover  Anti-Ghosting  Structure Supérieure en Métal - AZERTY'
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

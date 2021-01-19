@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RPpGL75lL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07TV7NFPY-fr'
+slug: 'B07TV7NFPY-fr Levi s Graphic Tee Maillot Une pièce  Noir  Feminine Logo Bodysuit Caviar 0003   Large Femme'
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

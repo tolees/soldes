@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41QtrSXZrJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078NGCJ3N-fr'
+slug: 'B078NGCJ3N-fr Merrell Thermo Freeze Mid WP  Chaussures de Randonnée Hautes Homme  Noir  Black   44.5 EU'
 actualPrice: 151.9 EUR
 currency: EUR
 price: 151.9

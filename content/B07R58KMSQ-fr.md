@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Tmr4VD6eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07R58KMSQ-fr'
+slug: 'B07R58KMSQ-fr Super Mario Maker 2 - édition limitée'
 actualPrice: 41.91 EUR
 currency: EUR
 price: 41.91

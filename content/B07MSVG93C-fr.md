@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AG5k2L+FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MSVG93C-fr'
+slug: 'B07MSVG93C-fr Liu Jo Shoes Karlie 14 Sneaker Bordeaux  Sneakers Basses Femme  Rouge S1703  41 EU'
 actualPrice: 90.5 EUR
 currency: EUR
 price: 90.5

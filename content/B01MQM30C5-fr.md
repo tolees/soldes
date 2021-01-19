@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mKbK-tT9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MQM30C5-fr'
+slug: 'B01MQM30C5-fr Puma Basket Heart Patent  Baskets Basses Femme  Noir  Black-Black   36 EU'
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51cK6R3IWDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0851L9QTT-fr'
+slug: 'B0851L9QTT-fr Creatures The World Forgot  Violence et Sexe aux Temps prehistoriques  [Combo [Édition Collector Blu-Ray + DVD + Livret]'
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

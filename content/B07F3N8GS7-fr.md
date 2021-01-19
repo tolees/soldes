@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RHVlwHlsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F3N8GS7-fr'
+slug: 'B07F3N8GS7-fr HP Spectre 700 - Souris Rechargeable Sans Fil Cuivre Luxe  USB et Bluetooth  1200 DPI  Easy-Switch  Ambidextre '
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

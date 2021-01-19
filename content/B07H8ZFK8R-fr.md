@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nRRbSfZzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H8ZFK8R-fr'
+slug: 'B07H8ZFK8R-fr Nero Standard 2019'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

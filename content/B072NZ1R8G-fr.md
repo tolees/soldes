@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JA0dRRvCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072NZ1R8G-fr'
+slug: 'B072NZ1R8G-fr Scie coupe droite sans fil Bosch - Easycut 12  Livré avec une batterie 12V-2 5Ah et coffret  une lame NanoBlade bois  profondeur de coupe: 65mm '
 actualPrice: 97.82 EUR
 currency: EUR
 price: 97.82

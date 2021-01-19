@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416GvUFAQFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PFXHSLJ-fr'
+slug: 'B07PFXHSLJ-fr Pikolinos Bottines en Cuir Le Mans 838'
 actualPrice: 66.07 EUR
 currency: EUR
 price: 66.07

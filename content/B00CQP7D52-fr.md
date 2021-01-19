@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Hufcer1mL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CQP7D52-fr'
+slug: 'B00CQP7D52-fr Triplite 3x 16A triangulaire - Blanc - Zenitech'
 actualPrice: 1.47 EUR
 currency: EUR
 price: 1.47

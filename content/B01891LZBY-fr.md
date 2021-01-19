@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31ENMs02zBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01891LZBY-fr'
+slug: 'B01891LZBY-fr Rowenta Ventilateur sur pied 16  /40 cm Turbo Silence Extrême VU5640F0'
 actualPrice: 62.96 EUR
 currency: EUR
 price: 62.96

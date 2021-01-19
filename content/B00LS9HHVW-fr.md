@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Wm3ti+doL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00LS9HHVW-fr'
+slug: 'B00LS9HHVW-fr K-Way K004BD0 - veste imperméable - Homme - Noir  Black  - Small'
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

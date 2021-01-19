@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rXo1RkcEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B011A4SPAG-fr'
+slug: 'B011A4SPAG-fr Tumble Forms Support Universal Petite Cale  Accessoire pour le Kit de Positionnement'
 actualPrice: 34.74 EUR
 currency: EUR
 price: 34.74

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l86WKCrsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PY7BJ3W-fr'
+slug: 'B07PY7BJ3W-fr Fer à lisser ionique - pour boucler et lisser'
 actualPrice: 124.0 EUR
 currency: EUR
 price: 124.0

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LoxleKolL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B085NQPW7D-fr'
+slug: 'B085NQPW7D-fr Original Dovpo Odin 200W Mod alimenté par une double batterie 21700 avec écran OLED 0 96 pouces E cigs Vaporizer Vape Box Mod 510 Thread'
 actualPrice: 40.78 EUR
 currency: EUR
 price: 40.78

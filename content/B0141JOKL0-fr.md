@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/3147IDYrHGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0141JOKL0-fr'
+slug: 'B0141JOKL0-fr TP-Link T2600G-18TS Switch administrable niveau 2 avec 16 ports Gigabit plus 2 emplacements combinés SFP'
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

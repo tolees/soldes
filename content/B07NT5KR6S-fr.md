@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41x0R6vQU-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NT5KR6S-fr'
+slug: 'B07NT5KR6S-fr Extel – Visiophone Connect – avec Grand Écran  18cm  et Connecté à votre Smartphone Android ou Apple'
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

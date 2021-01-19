@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41B4HlPKEVL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y9ZHLXW-fr'
+slug: 'B07Y9ZHLXW-fr Redmi Note8 4+64Gb Black EU'
 actualPrice: 154.4 EUR
 currency: EUR
 price: 154.4

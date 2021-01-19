@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61Q3VIo4C4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B074XTWY7Z-fr'
+slug: 'B074XTWY7Z-fr Airavata Homme Ensemble Pantalon de Sport Sweatshirt à capuche Jogging Survêtement - Bleu6 - XX-Large'
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zDvdQjqaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0848CV1VV-fr'
+slug: 'B0848CV1VV-fr Captain Tsubasa : Rise of New Champions Nintendo Switch'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

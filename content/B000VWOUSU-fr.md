@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413cPQfAoBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000VWOUSU-fr'
+slug: 'B000VWOUSU-fr Queen - Rock Montreal & Live Aid [Blu-ray]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

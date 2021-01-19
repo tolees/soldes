@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31BgXj9saML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HZ43YVQ-fr'
+slug: 'B08HZ43YVQ-fr Disque Dur Externe 1to  Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Rouge '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

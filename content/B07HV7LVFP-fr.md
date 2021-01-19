@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41MrRucqYjL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07HV7LVFP-fr'
+slug: 'B07HV7LVFP-fr Mini Camera Espion WiFi NIYPS Full HD 1080P Étanche sans Fil Nanny Caméra Cachée Spy avec Vision Nocturne et Detecteur de Mouvement  Micro IP Camera Surveillance de Sécurité Intérieure / Extérieure'
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

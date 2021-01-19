@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51QdSx8wMBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MY1ZL69-fr'
+slug: 'B01MY1ZL69-fr Schmidt Spiele - 56495 - Dinos  Coffret de Puzzles  2x60  2x100 Pcs'
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

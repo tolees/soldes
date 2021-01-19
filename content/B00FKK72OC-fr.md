@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HT3UN3wAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00FKK72OC-fr'
+slug: 'B00FKK72OC-fr Lame de scie circulaire HW/CT 254 x 30 x 2 4/1 8 Gris'
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

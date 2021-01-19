@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RJrGEakAL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MLXKN25-fr'
+slug: 'B07MLXKN25-fr Thermaltake Water 3.0 360 Argb Sync Aio Liquid Cooling Kit'
 actualPrice: 126.95 EUR
 currency: EUR
 price: 126.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rqVV7+jpL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQM2T6Z-fr'
+slug: 'B07JQM2T6Z-fr Under Armour Men s Official Tour Cap 3.0 Casquette Homme  Blanc  S/M'
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

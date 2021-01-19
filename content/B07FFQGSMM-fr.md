@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41GCKHeRhsL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FFQGSMM-fr'
+slug: 'B07FFQGSMM-fr Fossil Homme Bracelet JF02934040'
 actualPrice: 38.26 EUR
 currency: EUR
 price: 38.26

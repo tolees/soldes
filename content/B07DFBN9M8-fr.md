@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/4187-6bKHCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DFBN9M8-fr'
+slug: 'B07DFBN9M8-fr Lenor Unstoppables Parfum de Linge en Perles  Parfum Aérien avec une Fraîcheur Longue Durée  210g'
 actualPrice: 4.54 EUR
 currency: EUR
 price: 4.54

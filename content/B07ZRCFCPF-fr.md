@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rcTuiJC+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07ZRCFCPF-fr'
+slug: 'B07ZRCFCPF-fr XL-S MEDICAL Solution Buvable - Aide à la Perte de Poids – Goût Thé Matcha – 90 Sachets'
 actualPrice: 32.02 EUR
 currency: EUR
 price: 32.02

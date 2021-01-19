@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OUYIzMG1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BFCG84J-fr'
+slug: 'B08BFCG84J-fr Elyco Grips cahoutchoutés  Kit e-Sport avec Grips Mousses de précision de précision et gâchettes quickfire pour Manette/Gâchettes pour PS4/Pro/Xbox/Switch'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412MzAw6NCL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B013D1BBBY-fr'
+slug: 'B013D1BBBY-fr Nikon AF-S Nikkor Objectif 24 mm f/1 8'
 actualPrice: 594.0 EUR
 currency: EUR
 price: 594.0

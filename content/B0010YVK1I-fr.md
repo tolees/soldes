@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41+alPWKw9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0010YVK1I-fr'
+slug: 'B0010YVK1I-fr Timberland Classic 2-Eye  Chaussures Bateau Femme  Bleu  MD Blue Full Grain   42 EU'
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

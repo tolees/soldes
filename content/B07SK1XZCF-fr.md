@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51irhAK21eL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SK1XZCF-fr'
+slug: 'B07SK1XZCF-fr GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème Génération et Autres Enceintes Smart Home  Noir  Dot Non Inclus '
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

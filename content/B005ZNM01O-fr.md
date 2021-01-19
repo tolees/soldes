@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41pf3ldOBwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005ZNM01O-fr'
+slug: 'B005ZNM01O-fr Queen-Days of Our Lives [Blu-Ray]'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

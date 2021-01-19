@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31iChg-93yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08CDNXG54-fr'
+slug: 'B08CDNXG54-fr Disque Dur Externe 1to Disque Dur Externe USB3.1 Type-C pour PC  Mac  Xbox One  Xbox 360 1To Noir '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IPbpMIeIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FKJQPGQ-fr'
+slug: 'B07FKJQPGQ-fr The North Face Canyonlands Sweat à Capuche Homme  Gris  TNF Dark Grey Heather   Medium'
 actualPrice: 44.07 EUR
 currency: EUR
 price: 44.07

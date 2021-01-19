@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41olODRsr0L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B076JLJXQ5-fr'
+slug: 'B076JLJXQ5-fr Braun Oral-B Pro 1 - 750 - Brosse à Dents Électrique Rechargeable  1 Brossette  1 Étui de Voyage Offert'
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

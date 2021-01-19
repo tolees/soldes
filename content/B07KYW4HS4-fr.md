@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vk4294aTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KYW4HS4-fr'
+slug: 'B07KYW4HS4-fr INFOSEC- Onduleur Z1 Zenergy Cube EX 400 VA  3 prises secourues  Noir'
 actualPrice: 65.09 EUR
 currency: EUR
 price: 65.09

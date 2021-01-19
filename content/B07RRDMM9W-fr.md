@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IxGExbr1L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RRDMM9W-fr'
+slug: 'B07RRDMM9W-fr MSI Pack Loot Box GE-GS RTX Gaming'
 actualPrice: 70.36 EUR
 currency: EUR
 price: 70.36

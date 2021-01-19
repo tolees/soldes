@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FMpydElIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DNZZS3W-fr'
+slug: 'B08DNZZS3W-fr EasySMX Manette Switch  Manette Switch Pro pour Nintendo Switch/Nintendo Switch Lite avec Bluetooth/6 Axes/Double Moteur  Manette PC pour Windows XP/10/7/8/8.1  Bleu'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

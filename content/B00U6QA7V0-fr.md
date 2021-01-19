@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m5bkImGEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00U6QA7V0-fr'
+slug: 'B00U6QA7V0-fr Calor EP2850C0 Épilateur Flower Love'
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

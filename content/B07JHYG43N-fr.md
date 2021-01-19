@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/319XsDe-D-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JHYG43N-fr'
+slug: 'B07JHYG43N-fr Amazon Essentials Pantalon extensible pour homme Coupe ajustée Treillis  stone  36W x 33L'
 actualPrice: 8.97 EUR
 currency: EUR
 price: 8.97

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07S2G2TK2-fr'
+slug: 'B07S2G2TK2-fr Levi s Perfect V Neck T-Shirt  Blanc  White + 0002   Large Femme'
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

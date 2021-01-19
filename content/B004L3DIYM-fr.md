@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41FF4UXFsgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004L3DIYM-fr'
+slug: 'B004L3DIYM-fr Timberland Rugged 6 inch Plain Toe Waterproof  Bottes Homme Marron  Medium Brown  45 EU'
 actualPrice: 145.98 EUR
 currency: EUR
 price: 145.98

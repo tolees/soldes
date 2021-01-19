@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41okoGzGazL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0784SZYRH-fr'
+slug: 'B0784SZYRH-fr Sangean Pocket 350 - DPR-35B Radio de Poche Noir'
 actualPrice: 125.61 EUR
 currency: EUR
 price: 125.61

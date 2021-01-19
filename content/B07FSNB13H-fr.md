@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41TQvUZWoKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FSNB13H-fr'
+slug: 'B07FSNB13H-fr Philips GC8962/40 Centrale Vapeur PerfectCare Expert Plus 7 5 bar effet pressing jusqu à 520g'
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

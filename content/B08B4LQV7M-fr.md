@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51okF8mW4UL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B4LQV7M-fr'
+slug: 'B08B4LQV7M-fr Adaptateur pour Nintendo Switch  Timoom 2 en 1 Bluetooth 5.0 Switch TV Dock Transmetteur Audio et Vidéo avec Type C HDMI Port  Compatible avec Switch Lite PS4 PC AirPods  Macbook Pro  Hauwei  Samsung'
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

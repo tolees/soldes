@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/416tjvMewtL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072C4X2BJ-fr'
+slug: 'B072C4X2BJ-fr Di4 Jet Pressing – Centrale Vapeur  Double système de Chauffage  2850 W  Couleur Blanc/Bleu'
 actualPrice: 67.61 EUR
 currency: EUR
 price: 67.61

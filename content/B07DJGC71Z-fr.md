@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5150aKX+V8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJGC71Z-fr'
+slug: 'B07DJGC71Z-fr Fujifilm 70100138933 Pack Découverte Instax Mini 9 avec Film Instax mini 10 vues   Blanc/Rose/Bleu'
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

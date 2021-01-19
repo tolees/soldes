@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51LtCwQc1TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B004SGJS9G-fr'
+slug: 'B004SGJS9G-fr Puma - Suede Classic+ - Baskets mode - Mixte Adulte - Rouge  team regal red-white  - 36 EU'
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

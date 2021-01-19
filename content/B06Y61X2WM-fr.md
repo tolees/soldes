@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31riMYBYWqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y61X2WM-fr'
+slug: 'B06Y61X2WM-fr Vladimir Ashkenazy: The Complete Piano Concerto Recordings'
 actualPrice: 70.22 EUR
 currency: EUR
 price: 70.22

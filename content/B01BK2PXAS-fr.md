@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51PhBRZru+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BK2PXAS-fr'
+slug: 'B01BK2PXAS-fr LEGO®-DUPLO® Les animaux du monde Jouet d Aventure Incluant 15 Animaux pour Tout Petits  Fille et Garçon dès 2 Ans  121 Pièces de Construction 10907'
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

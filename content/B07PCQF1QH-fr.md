@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nIqFuRx8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PCQF1QH-fr'
+slug: 'B07PCQF1QH-fr INPHIC Souris Bluetooth  Trois Modes Souris sans Fil Bluetooth silencieuse Rechargeable  BT 5.0/3.0 + 2.4G sans Fil   Souris Portable 1600DPI pour Mac  Ordinateur  PC  iPadOS  Windows'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41E1fpqeB7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VFQRXSK-fr'
+slug: 'B00VFQRXSK-fr Samsonite Lite-Shock - Spinner S Bagage à Main  55 cm  36 L  Bleu  Petrol Blue '
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

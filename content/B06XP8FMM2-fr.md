@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51eN9xA3KWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06XP8FMM2-fr'
+slug: 'B06XP8FMM2-fr Keten Tournevis triwing pour Nintendo  Kit Professionnel complète pour Nintendo Switch/Nintendo Switch Lite et d autres Produits Nintendo  Ensemble de Jeu de Tournevis de sécurité'
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

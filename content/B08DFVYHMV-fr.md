@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/516kfTJGRZL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DFVYHMV-fr'
+slug: 'B08DFVYHMV-fr TV Box  Android 10.0 2GB Ram 16GB ROM Allwinner H616 Quad-Core Soutien Dual WiFi 4K 6K Ultra HD H.265 3D Smart TV Box avec Mini Clavier'
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

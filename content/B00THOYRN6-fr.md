@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41s71lwmqGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00THOYRN6-fr'
+slug: 'B00THOYRN6-fr Sigma Objectif 150-600 mm F5-6.3 DG OS HSM Contemporary - Monture Canon'
 actualPrice: 979.0 EUR
 currency: EUR
 price: 979.0

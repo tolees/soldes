@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61ugSfAQDiL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083SH4VHK-fr'
+slug: 'B083SH4VHK-fr Jojoin Tapis Enfant De Jet d eau  Antidérapant Tapis De Pulvérisation D éclaboussure d eau Eau Piscine  170cm Splash Sprinkle Play Pad Mat - Jouets Incontournables des Enfants De L été  Jaune '
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/413McffAtTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FLRK4ZQ-fr'
+slug: 'B07FLRK4ZQ-fr David Jones - Grand Sac à Main Femme - Cabas Fourre-Tout Cuir PU Rigide - Sac Elégant Ville Travail Poches Multiples - Shopper Porté Epaule Bandoulière Grande Capacité A4 - Mode Chic - Noir'
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

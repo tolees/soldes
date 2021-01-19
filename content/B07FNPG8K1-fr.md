@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51znqgxVEvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FNPG8K1-fr'
+slug: 'B07FNPG8K1-fr No Tourists'
 actualPrice: 16.25 EUR
 currency: EUR
 price: 16.25

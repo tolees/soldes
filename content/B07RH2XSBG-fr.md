@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51f8nlvbpgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RH2XSBG-fr'
+slug: 'B07RH2XSBG-fr Signal Integral 8 Dentifrice Complet Antibactérien  Protection Caries Gencives Renforcées  Action Blancheur Haleine Fraîche  Action Anti-Plaque Anti-Tartre  Lot de 6x75ml '
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OygsasGOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B005XTIZSW-fr'
+slug: 'B005XTIZSW-fr Dim - Body Touch - Culotte - Séduction - Uni - Femme - Noir - FR : 38  Taille fabricant : 38 '
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

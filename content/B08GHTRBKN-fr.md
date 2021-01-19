@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rwgEiEMYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GHTRBKN-fr'
+slug: 'B08GHTRBKN-fr Coque de Protection pour Switch en TPU Souple et 8 X Couvre Pouce pour Switch Joy-Con Noir '
 actualPrice: 9.69 EUR
 currency: EUR
 price: 9.69

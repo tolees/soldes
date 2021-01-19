@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Vtqe7Yf2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FTWZ531-fr'
+slug: 'B07FTWZ531-fr Philips BT5205/85  Tondeuse barbe Series 5000 avec guide de coupe dynamique et tondeuse de précision supplémentaire'
 actualPrice: 63.97 EUR
 currency: EUR
 price: 63.97

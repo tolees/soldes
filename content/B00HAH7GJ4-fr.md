@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/519vaRKegOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HAH7GJ4-fr'
+slug: 'B00HAH7GJ4-fr Slave to The Sword'
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

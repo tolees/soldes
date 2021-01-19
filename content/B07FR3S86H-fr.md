@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31cEM5+cZgL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FR3S86H-fr'
+slug: 'B07FR3S86H-fr Clarks Street Spark Y  Mocassins bébé garçon  Noir  Black Leather-   41.5 EU'
 actualPrice: 29.39 EUR
 currency: EUR
 price: 29.39

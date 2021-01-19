@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41lzyml4boL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01H6YAJXA-fr'
+slug: 'B01H6YAJXA-fr SweetLF Rasoir Electrique Homme Rechargeable Tondeuse Barbe IPX7 Etanche Technologie Wet&Dry Avec 3D Têtes Rotatives et Ecran LCD  Bleu  SW-S7105'
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

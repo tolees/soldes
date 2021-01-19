@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51SRlH4U8SL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07B5FK3BN-fr'
+slug: 'B07B5FK3BN-fr Oral-B Combiné Dentaire : Oral-B PRO 2000 + Hydropulseur Oxyjet'
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

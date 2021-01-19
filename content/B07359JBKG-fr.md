@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41nEhZrCfxL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07359JBKG-fr'
+slug: 'B07359JBKG-fr RIDER-TEC – Blouson Moto Urban Girly SoftShell Black – Protections Homologuées CE Incluses – Léger & Respirant  - Taille-S'
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

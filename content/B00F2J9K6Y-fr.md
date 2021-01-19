@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41IuPZZUeuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2J9K6Y-fr'
+slug: 'B00F2J9K6Y-fr Stanley STST1-71983 Organiseur Click & Connect 50 cm'
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

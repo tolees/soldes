@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/517gx24u7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSJF3MD-fr'
+slug: 'B07KSJF3MD-fr Samsung SSD interne 860 QVO 2.5’’ SATA  2 TERA  - MZ-76Q2T0BW'
 actualPrice: 248.58 EUR
 currency: EUR
 price: 248.58

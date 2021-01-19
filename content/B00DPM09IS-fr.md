@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jDFYyOsYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00DPM09IS-fr'
+slug: 'B00DPM09IS-fr LEGO DUPLO Town La pâtisserie avec camionette à café  gâteaux et cupcakes  grandes briques pour les tout-petits de 2 ans et plus  114 pièces 10928'
 actualPrice: 33.73 EUR
 currency: EUR
 price: 33.73

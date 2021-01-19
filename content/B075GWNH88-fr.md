@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51FoL+kO-TL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075GWNH88-fr'
+slug: 'B075GWNH88-fr LEGO Classic - La plaque de base bleue - 10714 - Jeu de Construction'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

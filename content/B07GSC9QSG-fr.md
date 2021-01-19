@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/412gY33Q4yL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07GSC9QSG-fr'
+slug: 'B07GSC9QSG-fr Famille Mini Classic Console- Précharge 621 Jeux vidéo TV HDMI- Sortie'
 actualPrice: 46.57 EUR
 currency: EUR
 price: 46.57

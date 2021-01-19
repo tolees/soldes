@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51TGnZnHaHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B009A9ENT6-fr'
+slug: 'B009A9ENT6-fr Brothers in Bamako [Import Allemand]'
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w81lj8scL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B002PCZ1VE-fr'
+slug: 'B002PCZ1VE-fr Kenwood Hachoir à Viande Electrique MG700  Semi- Pro  Puissance 2000 W  Inox Brossé'
 actualPrice: 167.89 EUR
 currency: EUR
 price: 167.89

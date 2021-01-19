@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41hLRR31inL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00WFGI0JK-fr'
+slug: 'B00WFGI0JK-fr Babymoov - Nutribaby Classic  Robot Multifonctions  Cuiseur Mixeur pour Bébé  Cherry'
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

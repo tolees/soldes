@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H4HBNIFXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082XRPSWY-fr'
+slug: 'B082XRPSWY-fr Tiges de son mâles lisses et durables en silicone  cathéters Tiges d irritation'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

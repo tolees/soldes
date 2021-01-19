@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41ziDU2n3vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01K7VORFU-fr'
+slug: 'B01K7VORFU-fr Zéfal Z Traveler sacoche de porte-bagage'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

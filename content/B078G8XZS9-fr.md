@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DV0KU9qDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B078G8XZS9-fr'
+slug: 'B078G8XZS9-fr Grohe 34712000 Pack Encastré Mécanique 3 Sorties  Smartcontrol  Chromé  Import Allemagne '
 actualPrice: 757.0 EUR
 currency: EUR
 price: 757.0

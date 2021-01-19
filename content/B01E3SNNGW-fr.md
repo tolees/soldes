@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41zMJvZc00L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01E3SNNGW-fr'
+slug: 'B01E3SNNGW-fr Bose SoundSport Écouteurs sans Fil Bluetooth - Bleu'
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

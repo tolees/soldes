@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/5111e4E9jyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FB9JTN1-fr'
+slug: 'B08FB9JTN1-fr Casque Gamer  Casque Gaming Ps4 PC avec Micro Anti Bruit  3D Stéréo Surround son 7 RGB lumière LED  Casque Xbox One avec Cache-Oreilles de mémoire Respirant avec 3.5mm Jack pour Switch Laptop Tablette'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51p7xkW2UPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B073FDC4YN-fr'
+slug: 'B073FDC4YN-fr Ponceuse à Bande 75 mm Ryobi 18V Oneplus sans Batterie Ni Chargeur R18BS-0'
 actualPrice: 67.19 EUR
 currency: EUR
 price: 67.19

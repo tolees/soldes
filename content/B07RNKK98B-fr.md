@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41RtOB-7TbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RNKK98B-fr'
+slug: 'B07RNKK98B-fr Multifonctionnelle Histoire Projecteur Enfant Histoire Torch Bonsoir Histoire Lampe de Poche  Veilleuse de nuit  8 Films de Contes de Fées 64 Glissières  Jouets éducatifs pour Les Tout-Petits'
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

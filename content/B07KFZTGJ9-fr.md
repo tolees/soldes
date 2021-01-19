@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41low85jCqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KFZTGJ9-fr'
+slug: 'B07KFZTGJ9-fr PUMA PUMA ONE 5.3 IT Futsal Shoes Unisex Adults’  Black  Puma Black-Nrgy Red-Puma Aged Silver   4 UK'
 actualPrice: 22.11 EUR
 currency: EUR
 price: 22.11

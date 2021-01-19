@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/415MaR-+JaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00P14HHQU-fr'
+slug: 'B00P14HHQU-fr Fiat-berg - 24.30.10.00 - Buzzy Fiat 500'
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

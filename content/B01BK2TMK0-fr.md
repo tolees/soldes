@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51CoHBCU9fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BK2TMK0-fr'
+slug: 'B01BK2TMK0-fr LEGO-DUPLO L’île tropicale Pour Tout Petits  Fille et Garçon dès 2 Ans  73 Pièces 6 animaux 10906'
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

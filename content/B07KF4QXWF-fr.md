@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yzCY5D4JL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KF4QXWF-fr'
+slug: 'B07KF4QXWF-fr Levi s unbasic  Hoodie Sweat-Shirt À Capuche  Gris  Smokestack Heather 0011   Large Femme'
 actualPrice: 58.85 EUR
 currency: EUR
 price: 58.85

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/317vAV2EpYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BEHTKWC-fr'
+slug: 'B00BEHTKWC-fr Sonos Playbar Barre de son TV sans fil et enceinte wifi multiroom pour vos films  jeux vidéo et musique en streaming - compatible dolby digital  apple tv et gaming - Noir'
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

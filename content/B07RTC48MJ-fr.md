@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41i+rGfdBdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07RTC48MJ-fr'
+slug: 'B07RTC48MJ-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt  Rose  Pink TZ8   42  Taille Fabricant: X-Large  Femme'
 actualPrice: 77.72 EUR
 currency: EUR
 price: 77.72

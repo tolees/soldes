@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51ckXk0DiTL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NCVQ9OT-fr'
+slug: 'B01NCVQ9OT-fr El Naturalista S.A N097 Soft Grain Yggdrasil  Bottes Classiques femme  Noir  Black   40 EU'
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/21QBAOVua8L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075KQFQQ9-fr'
+slug: 'B075KQFQQ9-fr Boucles d oreilles or tricolore"Trianon"'
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

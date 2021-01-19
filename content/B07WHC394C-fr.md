@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/510wUeNcevL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WHC394C-fr'
+slug: 'B07WHC394C-fr Astérix & Obélix XXL 3 : le Menhir de Cristal Edition Limitée pour Xbox One'
 actualPrice: 31.75 EUR
 currency: EUR
 price: 31.75

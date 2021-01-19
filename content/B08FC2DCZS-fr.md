@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41miTW6sycL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FC2DCZS-fr'
+slug: 'B08FC2DCZS-fr Batterie de remplacement Antank HAC-003 pour console de jeu Nintendo Switch [2017]  batterie 4310mAh avec kit d outils de réparation DIY'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

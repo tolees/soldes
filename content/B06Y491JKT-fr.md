@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41rmIBEhm7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B06Y491JKT-fr'
+slug: 'B06Y491JKT-fr Melvin & Hamilton  Amelie 5  Bottes Chelsea femme - Marron  Crust Chestnut  Ela. Rose  Rook D Dk. Brw  - 41 EU'
 actualPrice: 81.97 EUR
 currency: EUR
 price: 81.97

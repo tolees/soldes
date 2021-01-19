@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NWf3Z87fL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01NALIZ0W-fr'
+slug: 'B01NALIZ0W-fr Bébé Confort Sac à Langer Black Raven'
 actualPrice: 65.04 EUR
 currency: EUR
 price: 65.04

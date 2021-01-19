@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51UobC2tmIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01BFA2C9A-fr'
+slug: 'B01BFA2C9A-fr Emuca 2036020 Lot de 4 roulettes pivotantes pour Meuble Ø50mm avec Plaque de Fixation et roulement à Billes  roulettes en Caoutchouc Couleur Transparent'
 actualPrice: 15.47 EUR
 currency: EUR
 price: 15.47

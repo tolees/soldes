@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31A7XBTp-uL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MF3V88L-fr'
+slug: 'B07MF3V88L-fr Hoover HF18MB Aspirateur balai sans fil multifonction H-Free ultra léger et maniable'
 actualPrice: 95.99 EUR
 currency: EUR
 price: 95.99

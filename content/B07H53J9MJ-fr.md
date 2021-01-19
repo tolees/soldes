@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Wst3+3g7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07H53J9MJ-fr'
+slug: 'B07H53J9MJ-fr Mon pays c est l amour  édition collector '
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

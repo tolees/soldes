@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41l6-XzJmOL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VZZ9ZFZ-fr'
+slug: 'B07VZZ9ZFZ-fr Tommy Jeans Femma Nora Mr Skinny Ankle Zip Rnl Straight Jeans  Bleu  Reina Lt Bl Str 1aj   W27/L28'
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

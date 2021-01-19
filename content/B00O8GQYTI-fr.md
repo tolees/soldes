@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Orj6QE8HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00O8GQYTI-fr'
+slug: 'B00O8GQYTI-fr Dim Coton Plus Stretch Feminine - Lot de 2 Slips Midi - Femme - Noir  40/42 FR ; 38/40 EU'
 actualPrice: 14.88 EUR
 currency: EUR
 price: 14.88

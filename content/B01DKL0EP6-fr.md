@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/310x1ITj9GL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01DKL0EP6-fr'
+slug: 'B01DKL0EP6-fr NETGEAR Répéteur WiFi  EX6130   Amplificateur WiFi AC1200  WiFi Booster  jusqu à 90m² et 20 appareils  Transformez Les Zones Mortes en Zones Couvertes  Prise de Courant Intégrée  compatible toutes Box'
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

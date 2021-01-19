@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41bRdMUATvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GPZ43BV-fr'
+slug: 'B08GPZ43BV-fr BAITITON NVME 128GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD Interne 128Go Disque Dur Haute Performance Lecture 1800Mo/s Ecriture 600Mo/s'
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

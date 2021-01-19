@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41j2kyr08nL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00OTVLNX4-fr'
+slug: 'B00OTVLNX4-fr Beurer UB 68 XXL Chauffe-lit Surmatelas Chauffant pour 2 Personnes'
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

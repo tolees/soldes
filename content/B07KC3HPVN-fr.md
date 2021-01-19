@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31IbfP0ADJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KC3HPVN-fr'
+slug: 'B07KC3HPVN-fr ACCUWEIGHT Balance de Cuisine Électronique Balance Multifonctionnelle Numérique avec Écran LCD Rétro-éclairé Balances Postales avec Plateforme en Verre Trempé  Arrêt Automatique  Fonction de Tare'
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

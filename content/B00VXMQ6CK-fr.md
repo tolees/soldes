@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31mcxEu2VoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00VXMQ6CK-fr'
+slug: 'B00VXMQ6CK-fr G-STAR RAW 3301 Straight Tapered Jeans  Bleu  DK Aged 7209-89   31W / 32L Homme'
 actualPrice: 75.95 EUR
 currency: EUR
 price: 75.95

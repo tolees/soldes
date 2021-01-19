@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DR8PRR2BL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G9GRVSK-fr'
+slug: 'B07G9GRVSK-fr Schleich- Figurine Maman Grizzly avec Ourson Wild Life  42473  Multicolore'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

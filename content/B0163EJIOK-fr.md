@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51bxoqlcb7L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0163EJIOK-fr'
+slug: 'B0163EJIOK-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir / Ecru  Lot Noeud Noir  - FR : 44  Taille fabricant : 44/46 '
 actualPrice: 9.43 EUR
 currency: EUR
 price: 9.43

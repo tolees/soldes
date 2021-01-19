@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41OJ8O9kKPL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01AY6CHA0-fr'
+slug: 'B01AY6CHA0-fr UGG Female Mini Bailey Button II Classic Boot  Grey  9  UK '
 actualPrice: 100.03 EUR
 currency: EUR
 price: 100.03

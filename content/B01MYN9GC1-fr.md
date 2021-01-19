@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31wGltfna-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MYN9GC1-fr'
+slug: 'B01MYN9GC1-fr Replay Anbass  Jean Slim Homme  Gris  Grey Denim 9   W32/L30'
 actualPrice: 92.8 EUR
 currency: EUR
 price: 92.8

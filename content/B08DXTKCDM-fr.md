@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41H7Q85D1FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DXTKCDM-fr'
+slug: 'B08DXTKCDM-fr Disque Dur Externe 1to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  1to  Bleu '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

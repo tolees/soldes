@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Gx6K3Hi4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B088TTMG8M-fr'
+slug: 'B088TTMG8M-fr eXtremeRate 3D Joysticks de Remplacement Bicolores  Stick Analogique avec Tournevis Phillips pour Nintendo Switch Pro Manette Controller-Bleu Céleste & Blanc'
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

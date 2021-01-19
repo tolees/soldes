@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-jvdagtmL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B000KKLXDS-fr'
+slug: 'B000KKLXDS-fr Eastpak The One Sac Bandoulière  21 cm  2.5 L  Noir  Black '
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

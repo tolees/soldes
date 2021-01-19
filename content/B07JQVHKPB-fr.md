@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41T4-iCYz5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JQVHKPB-fr'
+slug: 'B07JQVHKPB-fr Tommy Hilfiger Diamond Quilted Bomber Blouson  Bleu  Maritime Blue 431   Medium Homme'
 actualPrice: 170.35 EUR
 currency: EUR
 price: 170.35

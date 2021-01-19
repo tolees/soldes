@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41DvDNHvN9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01M08BFBH-fr'
+slug: 'B01M08BFBH-fr LUCIEN ROCHAT Horloge R0473604002'
 actualPrice: 271.2 EUR
 currency: EUR
 price: 271.2

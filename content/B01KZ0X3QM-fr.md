@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41yJZshNZqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01KZ0X3QM-fr'
+slug: 'B01KZ0X3QM-fr BLACK & DECKER FSMH1351SM-QS Balai Vapeur avec Nettoyeur à Main Gant SteaMitt Filaire - 1300W - Réservoir : 500 ml - Temps de Chauffe : 15 s - 9en1 Accessoires Gant Détachable'
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

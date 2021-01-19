@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Gz7gYWa5L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003UWXFM0-fr'
+slug: 'B003UWXFM0-fr TP-Link TL-SG1024D Switch 24 Ports Gigabit  Bureau/Rackable  Boîtier Métal    Noir'
 actualPrice: 72.67 EUR
 currency: EUR
 price: 72.67

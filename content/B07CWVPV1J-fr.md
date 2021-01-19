@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41N3UM3T69L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CWVPV1J-fr'
+slug: 'B07CWVPV1J-fr Cache-oreilles électriques avec Bluetooth  radio numérique FM / AM et microphone intégré  écouteurs à réduction de bruit Rechargeable Protear pour le travail et l industrie  SNR 30dB'
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

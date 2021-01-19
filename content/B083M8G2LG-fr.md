@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+6zDQwJ9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B083M8G2LG-fr'
+slug: 'B083M8G2LG-fr Ecouteur Bluetooth  Ecouteurs sans Fil IP8 Etanche 3500mAh 150H Oreillette Bluetooth 5.0 TWS Stéréo  Banque d alimentation Portable  CVC 8.0 Réduction du Bruit Casque Sport avec Mic【Nouvelle Version】'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

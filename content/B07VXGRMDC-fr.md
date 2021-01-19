@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51aB5V80gWL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VXGRMDC-fr'
+slug: 'B07VXGRMDC-fr Maillot Cyclisme Kits Homme Vêtements Cyclisme Tenue Cycliste Maillot Cycliste Homme Manche Courte MTB Jersey+9D Gel Pantalons Homme Été Cyclisme Vêtements Respirant Séchage Rapide'
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

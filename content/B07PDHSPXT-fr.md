@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/410NAOZ6TML._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07PDHSPXT-fr'
+slug: 'B07PDHSPXT-fr Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu sable'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

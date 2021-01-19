@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51xXQp81nbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089R43MLD-fr'
+slug: 'B089R43MLD-fr Colmanda Console de Jeu  Console de Jeu Retro FC  3 Pouces Écran Couleur avec 500 Jeux Classiques  Prend en Charge la Connexion de TV  Chargement USB  pour Système de Divertissement - Bleu'
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41AcN+GSaKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DVX1LDV-fr'
+slug: 'B07DVX1LDV-fr Chaussures de Trail Running'
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

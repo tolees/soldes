@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/414qijbftKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B003JN4ET8-fr'
+slug: 'B003JN4ET8-fr Exacompta - Réf. 5900E - Etui carton de 100 pochettes perforées polypropylène lisse haute résistance 9/100e - A4 - Cristal'
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

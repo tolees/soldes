@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KttnvuAzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077TBCZ46-fr'
+slug: 'B077TBCZ46-fr Hauck Sport Poussette jusqu à 18 kg avec Position Couchée de 0 Mois   Légère 5 9 kg Pliable  Compacte  Barre de Protection  Harnais 5 Points  Grand Panier - Gris'
 actualPrice: 47.88 EUR
 currency: EUR
 price: 47.88

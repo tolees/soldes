@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31+h02B4stL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B089ZSM77G-fr'
+slug: 'B089ZSM77G-fr Amical 9 5 Pouces SuperG-Ṍ-d-és fémmḔ Vî-b-r-àňt pṌïňt g ḁ-n-ḁ-le pṌṺr G-Ṍ-d-é vé-ň-t-ṌṺse c-é-ï-ňtṺré Ḋ-ḯ-Ḷ-Ḋo GṌ-d-é-mḯÇhét Vîbr-Ṍ-m-àsséṺr Çlḯ-t-Ṍ-rïdïéň sḯlé-ň-Ç-ieṺx Vî-b-r-àtéṺr ṌéṺf g sàňs FḯḶ'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

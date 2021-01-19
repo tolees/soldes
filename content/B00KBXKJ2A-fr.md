@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31LM8FqiwhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00KBXKJ2A-fr'
+slug: 'B00KBXKJ2A-fr EDISION HDMI MODULATOR single DVB-T  Full HD MPEG4  RF-IN  HDTV  USB  OLED 4-line display  noir'
 actualPrice: 92.39 EUR
 currency: EUR
 price: 92.39

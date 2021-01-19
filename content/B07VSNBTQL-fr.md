@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51qL18D7dEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VSNBTQL-fr'
+slug: 'B07VSNBTQL-fr 3T6B Drone avec Camera 1080P HD 4K Pixels  Quadricoptère de Vol Portable de 20-24 Minutes  équipé de 5 Millions de Pixels HD  Rotatif à 360 °  FPV Distant  Photos au Geste-Cadeau de Noël  HJ28 '
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

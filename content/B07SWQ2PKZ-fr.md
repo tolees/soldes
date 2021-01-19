@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51mUWJ7wbuL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SWQ2PKZ-fr'
+slug: 'B07SWQ2PKZ-fr Better Call Saul-Saisons 1 à 4'
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

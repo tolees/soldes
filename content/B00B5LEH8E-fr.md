@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41A4zyWMzBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00B5LEH8E-fr'
+slug: 'B00B5LEH8E-fr Fender Cruz Tools Custom Shop Kit d outillage pour Guitare'
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CYii4MODL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08D68BVQN-fr'
+slug: 'B08D68BVQN-fr Disque Dur Externe 2 to USB 3.0 pour PC  Mac  MacBook  Xbox One 2To Plata '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41m2WX5r66L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01N8U4DEJ-fr'
+slug: 'B01N8U4DEJ-fr Duronic VC8 /BK- Aspirateur Balai et à Main sans Sac Classe A + tête suceuse/Flexible/Brosse - Se converti en Quelques Secondes !'
 actualPrice: 34.39 EUR
 currency: EUR
 price: 34.39

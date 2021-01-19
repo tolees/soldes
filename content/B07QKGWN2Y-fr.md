@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41U85kdiCUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07QKGWN2Y-fr'
+slug: 'B07QKGWN2Y-fr Kimberfeel RACE Chaussure de Trail running pour Homme de la marque Kimberfeel  Jaune  43 EU'
 actualPrice: 45.94 EUR
 currency: EUR
 price: 45.94

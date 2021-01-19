@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31vSFadoVaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B072K6RNL6-fr'
+slug: 'B072K6RNL6-fr Disque Dur SSD HP S700-500Go SATA 2" 1/2'
 actualPrice: 64.19 EUR
 currency: EUR
 price: 64.19

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51rQQGJhPJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B087JS5B6R-fr'
+slug: 'B087JS5B6R-fr Casque de jeu avec micro pour Xbox One PS4 PC Switch Tablet Ordinateur Smartphone Casque stéréo Over Ear Bass 3.5mm Microphone antibruit 7 LED Light Soft Memory Earmuffs  adaptateur gratuit '
 actualPrice: 35.29 EUR
 currency: EUR
 price: 35.29

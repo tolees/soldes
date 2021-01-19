@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KkTaSLmfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07N1HGX9R-fr'
+slug: 'B07N1HGX9R-fr Kipling Teagan Xs Luggage 33 L Black Indigo'
 actualPrice: 60.09 EUR
 currency: EUR
 price: 60.09

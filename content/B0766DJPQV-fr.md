@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51JIJICo1+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0766DJPQV-fr'
+slug: 'B0766DJPQV-fr Playmobil - Tour d Attaque Mobile des Nains - 9340'
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

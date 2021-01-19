@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51+QIzYOl2L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MTA3FFT-fr'
+slug: 'B01MTA3FFT-fr Sony FDR-X3000R + AKA-FGP1 Camera d action ultra-stabilisée/4K | Travel Kit | Blanc'
 actualPrice: 477.85 EUR
 currency: EUR
 price: 477.85

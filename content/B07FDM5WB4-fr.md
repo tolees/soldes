@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41mJVkgf+HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07FDM5WB4-fr'
+slug: 'B07FDM5WB4-fr Christian Lacroix Femme Analogique Quartz Montre avec Bracelet en Cuir CLWE04'
 actualPrice: 57.29 EUR
 currency: EUR
 price: 57.29

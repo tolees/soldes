@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51Ho7wbgfqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00IUJQP9S-fr'
+slug: 'B00IUJQP9S-fr BERING Montre 33440-227'
 actualPrice: 186.43 EUR
 currency: EUR
 price: 186.43

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51zivujsn3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01D7V2CNG-fr'
+slug: 'B01D7V2CNG-fr GPR EXHAUST SYSTEM GPREB .73.E Pot d échappement homologué FURORE NERO RC 390 2015/2016'
 actualPrice: 224.79 EUR
 currency: EUR
 price: 224.79

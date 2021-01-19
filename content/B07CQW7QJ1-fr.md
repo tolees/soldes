@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31kKVW64HaL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07CQW7QJ1-fr'
+slug: 'B07CQW7QJ1-fr Aigle Parfield W Mtd  Bottes & Bottines Cavalieres Femme  Marron  Darkbrown   37 EU'
 actualPrice: 89.53 EUR
 currency: EUR
 price: 89.53

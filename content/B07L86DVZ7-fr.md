@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51jqqMDPN-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07L86DVZ7-fr'
+slug: 'B07L86DVZ7-fr Senbos Portefeuille Homme en Cuir Véritable 18 Emplacements pour Cartes de Crédit Blocage RFID Portefeuille pour Homme Grande Poche à Monnaie avec Support de Carte d identité Extra Amovible'
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

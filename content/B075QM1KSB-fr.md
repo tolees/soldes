@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41qnFgM2wwL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B075QM1KSB-fr'
+slug: 'B075QM1KSB-fr GORE WEAR C5 Active Veste Femme  Noir  FR : S  Taille Fabricant : 36 '
 actualPrice: 139.01 EUR
 currency: EUR
 price: 139.01

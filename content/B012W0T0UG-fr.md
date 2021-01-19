@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41os12AmC9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B012W0T0UG-fr'
+slug: 'B012W0T0UG-fr Philips S5400/06 Rasoir électrique Series 5000 étanche avec Tondeuse de Précision'
 actualPrice: 57.95 EUR
 currency: EUR
 price: 57.95

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DgDX0JV4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B006ZVD3IY-fr'
+slug: 'B006ZVD3IY-fr Sylvanian Families - 2745 - Maison aux 3 Histoires'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

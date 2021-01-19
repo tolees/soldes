@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51gTZqqZdDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07DJBFLTT-fr'
+slug: 'B07DJBFLTT-fr F1 2018 - Edition Headline'
 actualPrice: 27.14 EUR
 currency: EUR
 price: 27.14

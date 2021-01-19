@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41vvSJzDxdL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0036TDF6I-fr'
+slug: 'B0036TDF6I-fr De Longhi Magnifica  Machine expresso avec broyeur  ESAM4000.B  Noir'
 actualPrice: 331.77 EUR
 currency: EUR
 price: 331.77

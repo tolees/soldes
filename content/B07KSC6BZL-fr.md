@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41UfmpBpNHL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07KSC6BZL-fr'
+slug: 'B07KSC6BZL-fr Marc Cain Collections T- Shirt  Multicolore  Scarlet 272   40  Taille Fabricant: 3  Femme'
 actualPrice: 78.84 EUR
 currency: EUR
 price: 78.84

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31Cyj+melfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WMR8V4W-fr'
+slug: 'B07WMR8V4W-fr Yageshark Pantalon de Jogging Homme Coton Mode Training Pantalon de Survêtement Taille Élastique Casual Activewear Pantalons  Noir Large '
 actualPrice: 25.04 EUR
 currency: EUR
 price: 25.04

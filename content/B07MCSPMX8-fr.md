@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/419b0Z8TiNL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07MCSPMX8-fr'
+slug: 'B07MCSPMX8-fr Napapijri Rainforest Pocket  Blouson Homme  Rot  High Risk Red Ra3    XL'
 actualPrice: 149.98 EUR
 currency: EUR
 price: 149.98

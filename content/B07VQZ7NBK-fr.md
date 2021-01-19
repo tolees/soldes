@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KAskyhegL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07VQZ7NBK-fr'
+slug: 'B07VQZ7NBK-fr Selonis Piscine À Balles 90X30cm/200 Balles Ronde en Mousse pour Bébé Enfant  Gris Clair:Blanc/Gris/Menthe'
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

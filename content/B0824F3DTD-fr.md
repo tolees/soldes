@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61G0Acl2OYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0824F3DTD-fr'
+slug: 'B0824F3DTD-fr Persona 5 Royal - Phantom Thieves Edition'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

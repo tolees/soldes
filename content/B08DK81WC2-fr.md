@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41CUCrNEAvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DK81WC2-fr'
+slug: 'B08DK81WC2-fr Disque Dur Externe 2to USB3.0 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Rouge '
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

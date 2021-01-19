@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41w2bj92qoL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BLHR4HF-fr'
+slug: 'B08BLHR4HF-fr LIGHTAILING Jeu De Lumières pour  Architecture La Maison Blanche  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21054 Ne Figurant Pas sur Le Modèle '
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

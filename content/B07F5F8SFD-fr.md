@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51DrU8cdGBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07F5F8SFD-fr'
+slug: 'B07F5F8SFD-fr Kaamelott : L intégrale des Six livres [DVD]'
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

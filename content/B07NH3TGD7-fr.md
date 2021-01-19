@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31L8KKyO6vL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07NH3TGD7-fr'
+slug: 'B07NH3TGD7-fr Strellson Premium Allen2.0 Amf2 12 Veste De Costume  Bleu  Dark Blue 402   52  Taille Fabricant: 50  Homme'
 actualPrice: 86.96 EUR
 currency: EUR
 price: 86.96

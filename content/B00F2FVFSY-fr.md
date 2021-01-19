@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41-+nPB9fvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00F2FVFSY-fr'
+slug: 'B00F2FVFSY-fr Laurastar GO Centre de Repassage'
 actualPrice: 502.99 EUR
 currency: EUR
 price: 502.99

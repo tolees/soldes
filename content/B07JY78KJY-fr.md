@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/61DKPYulTfL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07JY78KJY-fr'
+slug: 'B07JY78KJY-fr Mini Modèle de Voiture Ensemble de Jouets de camions avec Tapis de Jeu pour les Enfants Garcon 3 ans'
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

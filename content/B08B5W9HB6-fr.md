@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/51et421k6HL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08B5W9HB6-fr'
+slug: 'B08B5W9HB6-fr ORICO Boîtier Disque Dur 2.5  Adaptateur de Lecteur Externe USB3.0 vers SATA Portable pour Disque Dur SSD 7 mm/9 5 mm  Prise en Charge sans Outil Max 4 to avec UASP Compatible pour Seagate  PS4  Xbox'
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

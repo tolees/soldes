@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31NYrXYDiIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B082JH1WKZ-fr'
+slug: 'B082JH1WKZ-fr Hom Thomas Long Sleepwear Ensemble de Pijama  Haut: rayé Marine et Blanc  Bas: Marine  L Homme'
 actualPrice: 74.06 EUR
 currency: EUR
 price: 74.06

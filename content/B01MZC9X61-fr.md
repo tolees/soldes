@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41HGmYiXtDL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01MZC9X61-fr'
+slug: 'B01MZC9X61-fr Dimplex 206831 Cheminée electrique avec Télécommande  1200 W  220 V  Noir'
 actualPrice: 175.22 EUR
 currency: EUR
 price: 175.22

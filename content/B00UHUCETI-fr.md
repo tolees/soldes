@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31-QKQT6S4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00UHUCETI-fr'
+slug: 'B00UHUCETI-fr Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces'
 actualPrice: 104.93 EUR
 currency: EUR
 price: 104.93

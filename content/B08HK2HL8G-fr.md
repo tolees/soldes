@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41KgvC8ssGL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08HK2HL8G-fr'
+slug: 'B08HK2HL8G-fr Dihope Survêtement Homme Ensemble de Sport 2 Pièces Casual Sweat-Shirt Zip à Capuche et Pantalon de Jogging Cordon de Serrage Sportwear Tenue de Fitness Running Gym'
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

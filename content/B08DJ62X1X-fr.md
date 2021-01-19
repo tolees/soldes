@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/31AMIeeru9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08DJ62X1X-fr'
+slug: 'B08DJ62X1X-fr Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Argent '
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

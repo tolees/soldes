@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41SUPhEjKIL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07Y2KSMFN-fr'
+slug: 'B07Y2KSMFN-fr Nero Platinum Unlimited'
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -6,7 +6,7 @@ image: 'https://m.media-amazon.com/images/I/41Cn1I27FUL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B0861CV1GZ-fr'
+slug: 'B0861CV1GZ-fr Muzili Écouteurs Bluetooth sans Fil Sport Étanches IPX7 Anti-Bruit CVC 8.0 Écouteurs 5.0 Intra-Auriculaires 36H Playtime Stéréo Son Casques de Sport Stéréo Hi-FI pour Gym Fitness'
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99
