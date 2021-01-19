@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0896YDYBH-fr Manette Switch Manette sans Fil Bluetooth pour Nintendo...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085HM3SH6-fr Volvetwig Cheveux Humain Vierge Vrai 100% Perruque Lisse...'
-tags: 
+tags: tole.es
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

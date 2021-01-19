@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018NZW1PA-fr G.H. Bass & Co. Penny Mocassins Femme Multicolore Black &...'
-tags: 
+tags: tole.es
 actualPrice: 68.63 EUR
 currency: EUR
 price: 68.63

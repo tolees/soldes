@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0047DPGM8-fr Tiger LEC7-BK Support pour PC et Projecteur - Noir'
-tags: 
+tags: tole.es
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

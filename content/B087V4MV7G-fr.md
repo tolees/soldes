@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087V4MV7G-fr Pin’s Guitare Geepins | Magnifique Broche Miniature Fender...'
-tags: 
+tags: tole.es
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

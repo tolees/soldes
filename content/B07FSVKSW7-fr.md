@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSVKSW7-fr Rockport Madson Plain Toe Derbys Homme Marron Cognac 003...'
-tags: 
+tags: tole.es
 actualPrice: 46.04 EUR
 currency: EUR
 price: 46.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZQ1JYQ-fr Corolle- Lilou Poupon 130190 Rose'
-tags: 
+tags: tole.es
 actualPrice: 37.52 EUR
 currency: EUR
 price: 37.52

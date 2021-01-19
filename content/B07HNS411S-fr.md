@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HNS411S-fr Design Antenne Full HDTV intérieure Amplifiée de One For...'
-tags: 
+tags: tole.es
 actualPrice: 70.76 EUR
 currency: EUR
 price: 70.76

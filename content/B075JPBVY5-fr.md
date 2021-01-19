@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075JPBVY5-fr dreamlock Char R/C 8011 TELECOMMANDE à Construire 453 pcs'
-tags: 
+tags: tole.es
 actualPrice: 59.95 EUR
 currency: EUR
 price: 59.95

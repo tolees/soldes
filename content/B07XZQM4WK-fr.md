@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZQM4WK-fr Arlo Pro3 Caméra de surveillance Wifi extérieure. Caméra...'
-tags: 
+tags: tole.es
 actualPrice: 353.08 EUR
 currency: EUR
 price: 353.08

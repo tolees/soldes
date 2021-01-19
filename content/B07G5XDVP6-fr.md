@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5XDVP6-fr GPR Italie Jo.56.Vic Paire terminaux homologués avec...'
-tags: 
+tags: tole.es
 actualPrice: 485.69 EUR
 currency: EUR
 price: 485.69

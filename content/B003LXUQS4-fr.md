@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003LXUQS4-fr Pradel Excellence - 31123 - Valise Cuisinier 22 Pièces -...'
-tags: 
+tags: tole.es
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

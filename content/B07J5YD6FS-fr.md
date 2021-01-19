@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5YD6FS-fr VICTROLA CREATION MUSICALE Park Avenue VTA-60-ESP-EU'
-tags: 
+tags: tole.es
 actualPrice: 88.31 EUR
 currency: EUR
 price: 88.31

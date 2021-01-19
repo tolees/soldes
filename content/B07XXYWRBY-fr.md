@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXYWRBY-fr 3 Barils Fer à Boucler Fer à Onduler Professionnelle...'
-tags: 
+tags: tole.es
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

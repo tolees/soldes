@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0184CKS8O-fr ABUS EC-SNP 30/50 Cylindre Débrayable pour Portes...'
-tags: 
+tags: tole.es
 actualPrice: 49.15 EUR
 currency: EUR
 price: 49.15

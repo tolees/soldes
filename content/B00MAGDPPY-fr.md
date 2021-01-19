@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MAGDPPY-fr Maisonnerie 1316-503-91 Campus Armoire Murale Miroir...'
-tags: 
+tags: tole.es
 actualPrice: 42.6 EUR
 currency: EUR
 price: 42.6

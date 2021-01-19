@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGTYHWL-fr Derhy Nation Robe Noir 6 38 Taille Fabricant:S Femme'
-tags: 
+tags: tole.es
 actualPrice: 40.45 EUR
 currency: EUR
 price: 40.45

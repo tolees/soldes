@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088FNPDQS-fr ELYCO Verre Trempé pour Xiaomi Redmi Note 9 [2 Pièces] 9H...'
-tags: 
+tags: tole.es
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

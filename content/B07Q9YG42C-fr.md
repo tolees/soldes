@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9YG42C-fr Arkmiido Chevalet Enfants Tableau Ardoise Double Face...'
-tags: 
+tags: tole.es
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

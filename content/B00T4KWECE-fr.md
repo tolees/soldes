@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T4KWECE-fr HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne...'
-tags: 
+tags: tole.es
 actualPrice: 64.4 EUR
 currency: EUR
 price: 64.4

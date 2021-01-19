@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N45ZBL5-fr Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sweat-Shirt...'
-tags: 
+tags: tole.es
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

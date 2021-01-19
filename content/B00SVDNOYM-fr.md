@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SVDNOYM-fr Aigle - Tenere Light Cvs Ltr - Chaussure de randonnée -...'
-tags: 
+tags: tole.es
 actualPrice: 49.34 EUR
 currency: EUR
 price: 49.34

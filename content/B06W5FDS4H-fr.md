@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W5FDS4H-fr Playmobil - Chambre avec Espace Maquillage - 9271'
-tags: 
+tags: tole.es
 actualPrice: 13.47 EUR
 currency: EUR
 price: 13.47

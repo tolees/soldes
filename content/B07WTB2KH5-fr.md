@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTB2KH5-fr WisFox Clavier Souris sans Fil Combinés 2 4 GHz Mince...'
-tags: 
+tags: tole.es
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

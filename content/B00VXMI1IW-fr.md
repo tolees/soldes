@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VXMI1IW-fr G-Star Revend Skinny Jeans Gris lt Aged Destroy 6132-1243...'
-tags: 
+tags: tole.es
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

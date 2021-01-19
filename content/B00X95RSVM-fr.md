@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X95RSVM-fr Sauter Spi4362x - Plaque à Induction - Encastrable - 3...'
-tags: 
+tags: tole.es
 actualPrice: 294.0 EUR
 currency: EUR
 price: 294.0

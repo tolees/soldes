@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BAXITEU-fr Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur...'
-tags: 
+tags: tole.es
 actualPrice: 32.8 EUR
 currency: EUR
 price: 32.8
@@ -26,10 +26,10 @@ Vous avez [Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Mode
 
 ℹ️:
 
-- UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour
-- UN PARFUM BIJOU : Une fragrance où la masculinité est un mélange subtil entre la puissance et l’expression sensible des émotions.
-- LES NOTES OLFACTIVES : Notes de tête : lavande ; Notes de coeur : absinthe ; Note de fond : bois débène.
-- UNE SENTEUR INTEMPORELLE : Une eau de parfum originale, sensuelle et tenace. Une symphonie vibrante et riche de notes nuancées où la fraîcheur d’une lavande fusante mêlée à la puissance de l’absinthe anisée évoluent sur un fond de bois d’ébène ambré.
 - UNE FRAGRANCE UNIQUE : Une eau de parfum originale, sensuelle et tenace où la lavande fusante et labsolu dabsinthe anisée évoluent sur un fond de bois débène ambré.
+- UNE SENTEUR INTEMPORELLE : Une eau de parfum originale, sensuelle et tenace. Une symphonie vibrante et riche de notes nuancées où la fraîcheur d’une lavande fusante mêlée à la puissance de l’absinthe anisée évoluent sur un fond de bois d’ébène ambré.
+- UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour
+- LES NOTES OLFACTIVES : Notes de tête : lavande ; Notes de coeur : absinthe ; Note de fond : bois débène.
+- UN PARFUM BIJOU : Une fragrance où la masculinité est un mélange subtil entre la puissance et l’expression sensible des émotions.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21)

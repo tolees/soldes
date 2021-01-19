@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S9Y3VDN-fr Jouets 3-8 Ans Garçons Joy-Fun Appareil Photo Enfants...'
-tags: 
+tags: tole.es
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

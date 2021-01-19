@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSC6BZL-fr Marc Cain Collections T- Shirt Multicolore Scarlet 272 40...'
-tags: 
+tags: tole.es
 actualPrice: 78.84 EUR
 currency: EUR
 price: 78.84

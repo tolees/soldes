@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G7NFYT6-fr Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert'
-tags: 
+tags: tole.es
 actualPrice: 64.09 EUR
 currency: EUR
 price: 64.09

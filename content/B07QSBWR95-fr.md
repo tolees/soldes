@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QSBWR95-fr Funko- Pop Star Wars The Rise of Skywalker: BB-8 Figurine...'
-tags: 
+tags: tole.es
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

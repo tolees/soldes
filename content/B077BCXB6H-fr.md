@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BCXB6H-fr Calvin Klein Homme - Lot de 3 aille mi-haute boxers -...'
-tags: 
+tags: tole.es
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

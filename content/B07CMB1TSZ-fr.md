@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMB1TSZ-fr Marvel Legends - Edition Collector - Casque Electronique...'
-tags: 
+tags: tole.es
 actualPrice: 95.74 EUR
 currency: EUR
 price: 95.74

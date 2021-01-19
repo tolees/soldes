@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDJZ1Y5-fr Christian Lacroix Femme Analogique Quartz Montre avec...'
-tags: 
+tags: tole.es
 actualPrice: 60.74 EUR
 currency: EUR
 price: 60.74

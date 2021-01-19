@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FR1VZVC-fr DEJIMAX 3200mAh Batterie S7 pour Samsung Galaxy S7 Haute...'
-tags: 
+tags: tole.es
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

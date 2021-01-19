@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QDTBQN-fr ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile...'
-tags: 
+tags: tole.es
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

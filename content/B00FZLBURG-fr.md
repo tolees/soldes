@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FZLBURG-fr Manfrotto MT190XPRO3 Trépied en Aluminium 3 Sections Noir'
-tags: 
+tags: tole.es
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

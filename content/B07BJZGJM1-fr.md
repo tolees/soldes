@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BJZGJM1-fr Pioneer VSX-933 B Récepteur AV 7.2 canaux Amplificateur...'
-tags: 
+tags: tole.es
 actualPrice: 369.99 EUR
 currency: EUR
 price: 369.99

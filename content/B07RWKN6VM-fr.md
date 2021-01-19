@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWKN6VM-fr Redskins Doudoune North Mountain Homme'
-tags: 
+tags: tole.es
 actualPrice: 121.77 EUR
 currency: EUR
 price: 121.77

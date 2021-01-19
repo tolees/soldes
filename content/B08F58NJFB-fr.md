@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F58NJFB-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 256 Go...'
-tags: 
+tags: tole.es
 actualPrice: 29.59 EUR
 currency: EUR
 price: 29.59

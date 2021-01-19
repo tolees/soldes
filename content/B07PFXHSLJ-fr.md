@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFXHSLJ-fr Pikolinos Bottines en Cuir Le Mans 838'
-tags: 
+tags: tole.es
 actualPrice: 66.07 EUR
 currency: EUR
 price: 66.07

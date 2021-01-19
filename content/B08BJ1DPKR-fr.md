@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BJ1DPKR-fr Vidéoprojecteur WiFi Full HD 1080P WiMiUS 7200 Lumens...'
-tags: 
+tags: tole.es
 actualPrice: 288.66 EUR
 currency: EUR
 price: 288.66

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCZ5SM4-fr Pieces Pccollina Leather Bag Sacs portés épaule femme...'
-tags: 
+tags: tole.es
 actualPrice: 55.81 EUR
 currency: EUR
 price: 55.81

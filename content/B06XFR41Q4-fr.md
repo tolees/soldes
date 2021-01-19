@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFR41Q4-fr Seb Clipsominut Easy Cocotte-minute 7 5 L Induction +...'
-tags: 
+tags: tole.es
 actualPrice: 83.97 EUR
 currency: EUR
 price: 83.97

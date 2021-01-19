@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1BXTVN-fr Sebago DAN Waxy Polaris Mocassins Loafer Hommes Marron DK...'
-tags: 
+tags: tole.es
 actualPrice: 69.77 EUR
 currency: EUR
 price: 69.77

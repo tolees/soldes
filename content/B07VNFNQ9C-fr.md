@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNFNQ9C-fr STAGLIFE Sac Bandoulière en Cuir Urbain pour Femme Sac de...'
-tags: 
+tags: tole.es
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

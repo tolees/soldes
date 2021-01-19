@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089QN5JX8-fr EasySMX Manette PC/PS3 sans Fil Rechargeable 9110 2.4G...'
-tags: 
+tags: tole.es
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

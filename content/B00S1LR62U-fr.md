@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S1LR62U-fr Older'
-tags: 
+tags: tole.es
 actualPrice: 7.65 EUR
 currency: EUR
 price: 7.65

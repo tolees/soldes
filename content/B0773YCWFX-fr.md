@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0773YCWFX-fr adidas NMD R2 Baskets Homme Noir Core Black/Core...'
-tags: 
+tags: tole.es
 actualPrice: 61.38 EUR
 currency: EUR
 price: 61.38

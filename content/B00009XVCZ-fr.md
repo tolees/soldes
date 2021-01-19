@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00009XVCZ-fr Canon Objectif EF-50mm F/1 4 USM'
-tags: 
+tags: tole.es
 actualPrice: 358.49 EUR
 currency: EUR
 price: 358.49

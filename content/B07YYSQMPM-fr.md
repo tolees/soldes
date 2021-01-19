@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYSQMPM-fr Silvian Heach Skirt Remire Jupe Jaune Lime Fluo Lime Fluo...'
-tags: 
+tags: tole.es
 actualPrice: 45.9 EUR
 currency: EUR
 price: 45.9

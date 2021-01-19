@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB4QFY2-fr Marshall Mid Active Noise Cancelling A.N.C. Headphones...'
-tags: 
+tags: tole.es
 actualPrice: 120.41 EUR
 currency: EUR
 price: 120.41

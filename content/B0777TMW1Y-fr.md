@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777TMW1Y-fr Arlo Pro 2 | Caméra de surveillance 100% Sans Fils - Pack...'
-tags: 
+tags: tole.es
 actualPrice: 588.07 EUR
 currency: EUR
 price: 588.07

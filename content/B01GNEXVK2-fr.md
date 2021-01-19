@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GNEXVK2-fr FM London - Hipster - Boxer Lot de 12 - Homme -...'
-tags: 
+tags: tole.es
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49
@@ -26,8 +26,8 @@ Vous avez [FM London - Hipster - Boxer  Lot de 12  - Homme - Multicolore - Taill
 
 ℹ️:
 
+- Lavage en machine, 40° et +
 - 95% coton, 5% élasthanne
 - Lot de 12
-- Lavage en machine, 40° et +
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GNEXVK2/?tag=tolees0d-21)

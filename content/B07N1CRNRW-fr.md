@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1CRNRW-fr Marc O Polo 90725426301300 Bottes & Bottines Classiques...'
-tags: 
+tags: tole.es
 actualPrice: 72.34 EUR
 currency: EUR
 price: 72.34

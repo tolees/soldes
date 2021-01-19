@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YBZLCWB-fr 2X Hochstern BL1860B 5500mAh batterie Remplacement pour...'
-tags: 
+tags: tole.es
 actualPrice: 65.92 EUR
 currency: EUR
 price: 65.92

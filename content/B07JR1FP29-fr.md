@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JR1FP29-fr Be Cool Thunder Isofix Siège Auto Groupe 1/2/3 de 9 à 36...'
-tags: 
+tags: tole.es
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

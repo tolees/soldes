@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCVGDJL-fr Montre Connectée Homme UMIDIGI Uwatch 2S Smartwatch Femmes...'
-tags: 
+tags: tole.es
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

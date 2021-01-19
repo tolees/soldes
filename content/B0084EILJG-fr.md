@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0084EILJG-fr Water2buy Filtre à Eau Universel à 5 étapes pour Osmose...'
-tags: 
+tags: tole.es
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

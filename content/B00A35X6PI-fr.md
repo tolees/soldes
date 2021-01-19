@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A35X6PI-fr Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma'
-tags: 
+tags: tole.es
 actualPrice: 600.37 EUR
 currency: EUR
 price: 600.37

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BWX7ZVC-fr eXtremeRate D-Pad Triggers R1 L1 R2 L2 Touchpad Action...'
-tags: 
+tags: tole.es
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

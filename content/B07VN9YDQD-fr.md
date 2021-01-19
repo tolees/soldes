@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN9YDQD-fr MICHELIN Chaines à neige Extrem Grip Automatique spéciales...'
-tags: 
+tags: tole.es
 actualPrice: 122.99 EUR
 currency: EUR
 price: 122.99

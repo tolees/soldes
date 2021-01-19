@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079JPB6FS-fr Sac à Bandoulière Sac à Dos JOSEKO Sac à Main en Toile...'
-tags: 
+tags: tole.es
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZD5FDL-fr Ucradle Jeu Boulier Jouet Bois Labyrinthe Jeux Montessori...'
-tags: 
+tags: tole.es
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJ2FF2S-fr New Balance 997H Core Baskets Homme Argenté Pigment/Silver...'
-tags: 
+tags: tole.es
 actualPrice: 60.46 EUR
 currency: EUR
 price: 60.46

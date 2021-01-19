@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BDJTH-fr Superdry Sphere Padded Ultimate Blouson Noir Worn Black...'
-tags: 
+tags: tole.es
 actualPrice: 65.57 EUR
 currency: EUR
 price: 65.57

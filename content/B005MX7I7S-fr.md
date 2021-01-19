@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005MX7I7S-fr Slendertone Short d électrostimulation femme Noir Taille...'
-tags: 
+tags: tole.es
 actualPrice: 136.0 EUR
 currency: EUR
 price: 136.0

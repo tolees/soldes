@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000F8VBCI-fr Learning Resources Kit pour la Classe de Base 10 en...'
-tags: 
+tags: tole.es
 actualPrice: 91.9 EUR
 currency: EUR
 price: 91.9

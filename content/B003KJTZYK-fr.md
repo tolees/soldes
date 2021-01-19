@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003KJTZYK-fr D-Link DGS-1210-10P Switch Smart Web Manageable 10 Ports...'
-tags: 
+tags: tole.es
 actualPrice: 81.63 EUR
 currency: EUR
 price: 81.63

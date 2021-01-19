@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F7G2PHY-fr Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD...'
-tags: 
+tags: tole.es
 actualPrice: 149.89 EUR
 currency: EUR
 price: 149.89

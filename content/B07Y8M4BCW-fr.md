@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8M4BCW-fr Razer Viper Ultimate - Souris de jeu sans fil Esports...'
-tags: 
+tags: tole.es
 actualPrice: 129.94 EUR
 currency: EUR
 price: 129.94

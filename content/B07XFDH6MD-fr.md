@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFDH6MD-fr Huawei Watch GT 2 Montre Connectée GPS Boîtier 46 mm Écran...'
-tags: 
+tags: tole.es
 actualPrice: 167.98 EUR
 currency: EUR
 price: 167.98

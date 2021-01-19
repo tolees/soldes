@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XMFBTHD-fr Skechers GO Run 400 V2 Baskets Homme Textile Noir Noir...'
-tags: 
+tags: tole.es
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

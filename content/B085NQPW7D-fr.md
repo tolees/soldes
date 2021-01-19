@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085NQPW7D-fr Original Dovpo Odin 200W Mod alimenté par une double...'
-tags: 
+tags: tole.es
 actualPrice: 40.78 EUR
 currency: EUR
 price: 40.78

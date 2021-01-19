@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013MC8H2A-fr Lowepro 250 AW Slingshot Edge sac de transport pour...'
-tags: 
+tags: tole.es
 actualPrice: 75.49 EUR
 currency: EUR
 price: 75.49

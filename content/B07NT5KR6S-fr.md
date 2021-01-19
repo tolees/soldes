@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NT5KR6S-fr Extel – Visiophone Connect – avec Grand Écran 18cm et...'
-tags: 
+tags: tole.es
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZBK3WR-fr Game of Thrones Le Trône De Fer -L intégrale des Saisons 1...'
-tags: 
+tags: tole.es
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

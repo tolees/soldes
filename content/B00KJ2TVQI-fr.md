@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KJ2TVQI-fr Nike Air Max Thea Chaussures de Running Femme Noir...'
-tags: 
+tags: tole.es
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

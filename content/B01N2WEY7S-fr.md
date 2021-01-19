@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2WEY7S-fr Reebok Club C 85 Sneakers Basses Homme - Blanc Intense...'
-tags: 
+tags: tole.es
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

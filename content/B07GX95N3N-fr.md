@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GX95N3N-fr Multi Mat Sophie la girafe - Tapis d éveil'
-tags: 
+tags: tole.es
 actualPrice: 46.23 EUR
 currency: EUR
 price: 46.23

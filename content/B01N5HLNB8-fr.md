@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5HLNB8-fr Elizabeth Arden Advanced Ceramide Capsules Sérum Quotidien...'
-tags: 
+tags: tole.es
 actualPrice: 61.0 EUR
 currency: EUR
 price: 61.0

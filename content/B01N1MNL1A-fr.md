@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1MNL1A-fr Thule EasyFold XT 2 Porte-vélos sur boule d’attelage...'
-tags: 
+tags: tole.es
 actualPrice: 568.2 EUR
 currency: EUR
 price: 568.2

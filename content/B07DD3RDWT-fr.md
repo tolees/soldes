@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD3RDWT-fr Pinypon Action- Famosa Lot de 5 Figurines 700014490...'
-tags: 
+tags: tole.es
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

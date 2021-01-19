@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VII9I2-fr Vilac - 1102 - Voiture de Course - Porteur Métal - Nacré -...'
-tags: 
+tags: tole.es
 actualPrice: 100.94 EUR
 currency: EUR
 price: 100.94

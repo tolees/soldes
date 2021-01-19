@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBPDD5Y-fr ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura...'
-tags: 
+tags: tole.es
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

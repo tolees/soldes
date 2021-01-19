@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YXO5UKY-fr Turtle Beach Recon 50P Casque Gaming - PS4 PS5 Xbox One...'
-tags: 
+tags: tole.es
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

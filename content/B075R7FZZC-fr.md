@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R7FZZC-fr SIMBA Protège Matelas - Alèse Imperméable et Respirant 150...'
-tags: 
+tags: tole.es
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

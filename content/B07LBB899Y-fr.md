@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LBB899Y-fr Tommy Jeans TJM Tommy Classics Sweatshort Short Homme -...'
-tags: 
+tags: tole.es
 actualPrice: 57.78 EUR
 currency: EUR
 price: 57.78

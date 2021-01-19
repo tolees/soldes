@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPR4JXS-fr Pierre Cardin Smart Casual Sakko Michel2 Washed Denim...'
-tags: 
+tags: tole.es
 actualPrice: 88.64 EUR
 currency: EUR
 price: 88.64

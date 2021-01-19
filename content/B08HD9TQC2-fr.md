@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HD9TQC2-fr LEBE Coque pour Xiaomi Redmi Note 9 Pro Housse en Cuir...'
-tags: 
+tags: tole.es
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

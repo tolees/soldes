@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P81GZX-fr Victoire Champagne Fut de Chene Mill 2010 Edition Laquee...'
-tags: 
+tags: tole.es
 actualPrice: 52.68 EUR
 currency: EUR
 price: 52.68

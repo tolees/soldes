@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0043DUGHM-fr Yamaha CD-S300 Lecteur CD mp3 wma USB Noir'
-tags: 
+tags: tole.es
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

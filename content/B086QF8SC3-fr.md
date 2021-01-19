@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QF8SC3-fr ASUS Vivobook S S413DA-EK069T PC Portable 14 FHD AMD Ryzen...'
-tags: 
+tags: tole.es
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

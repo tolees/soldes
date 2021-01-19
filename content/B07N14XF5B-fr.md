@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N14XF5B-fr Guess W1231L1 Montre Femme'
-tags: 
+tags: tole.es
 actualPrice: 74.0 EUR
 currency: EUR
 price: 74.0

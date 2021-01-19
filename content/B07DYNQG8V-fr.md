@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYNQG8V-fr Lecteur CD/DVD Externe Cocopa USB 3.0 Graveur DVD Externe...'
-tags: 
+tags: tole.es
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

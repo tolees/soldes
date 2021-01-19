@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N292SLQ-fr camel active 5-Pocket Houston Jean Droit Bleu Bleue/Black...'
-tags: 
+tags: tole.es
 actualPrice: 45.66 EUR
 currency: EUR
 price: 45.66

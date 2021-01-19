@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0043RSYKE-fr Staub 1103425 Cocotte Ronde Noir Mat 34 cm'
-tags: 
+tags: tole.es
 actualPrice: 300.04 EUR
 currency: EUR
 price: 300.04

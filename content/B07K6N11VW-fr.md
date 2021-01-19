@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K6N11VW-fr PHOTO MASTER NP-FZ100 Batterie de rechange 2280 mAh pour...'
-tags: 
+tags: tole.es
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

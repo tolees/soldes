@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ2P7Y-fr Geox U Renan B Sneakers Basses Homme Noir Black/Mud C9355...'
-tags: 
+tags: tole.es
 actualPrice: 66.0 EUR
 currency: EUR
 price: 66.0

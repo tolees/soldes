@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVTL16G-fr Armor Lux Pull Marin "Goulenez" Homme Multicolore X-Small...'
-tags: 
+tags: tole.es
 actualPrice: 98.97 EUR
 currency: EUR
 price: 98.97

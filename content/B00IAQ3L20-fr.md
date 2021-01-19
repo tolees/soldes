@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IAQ3L20-fr Sony MDR-HW700DS Casque TV sans fil avec son Numérique...'
-tags: 
+tags: tole.es
 actualPrice: 271.99 EUR
 currency: EUR
 price: 271.99

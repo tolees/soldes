@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKGVHGZ-fr Bosch Unlimited BBS1224 Aspirateur Balai Multifonction...'
-tags: 
+tags: tole.es
 actualPrice: 418.0 EUR
 currency: EUR
 price: 418.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X48WBHN-fr Ledger Backup Pack - Nano S + Nano X - Portefeuille de...'
-tags: 
+tags: tole.es
 actualPrice: 111.75 EUR
 currency: EUR
 price: 111.75

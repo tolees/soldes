@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZCMIGJS-fr Fendi Brillengestelle FF 0110 H1T/16-53-16-135 Lunettes de...'
-tags: 
+tags: tole.es
 actualPrice: 116.0 EUR
 currency: EUR
 price: 116.0

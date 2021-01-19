@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGZXGG1-fr Strellson S.C. Clifton Blouson Homme Grün Green 318 Medium...'
-tags: 
+tags: tole.es
 actualPrice: 99.02 EUR
 currency: EUR
 price: 99.02

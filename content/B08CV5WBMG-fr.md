@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CV5WBMG-fr Yizhet Dongle USB Bluetooth Adaptateur Mini clé USB...'
-tags: 
+tags: tole.es
 actualPrice: 7.38 EUR
 currency: EUR
 price: 7.38

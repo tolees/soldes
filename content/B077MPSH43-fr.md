@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MPSH43-fr Puma Puma Smash v2 Sneakers Basses mixte adulte - Noir...'
-tags: 
+tags: tole.es
 actualPrice: 42.65 EUR
 currency: EUR
 price: 42.65

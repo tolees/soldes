@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015Z7XE0A-fr NONDA - USB-C/USB Mini-Adaptateur pour MacBooks | Samsung...'
-tags: 
+tags: tole.es
 actualPrice: 11.27 EUR
 currency: EUR
 price: 11.27

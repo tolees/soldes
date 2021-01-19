@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JWCE7G-fr Online USV Kit de rails pour armoire'
-tags: 
+tags: tole.es
 actualPrice: 70.64 EUR
 currency: EUR
 price: 70.64

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XTIZSW-fr Dim - Body Touch - Culotte - Séduction - Uni - Femme -...'
-tags: 
+tags: tole.es
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

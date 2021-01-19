@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DJM0C54-fr Dragonball GT - Box 3 [Import allemand]'
-tags: 
+tags: tole.es
 actualPrice: 36.22 EUR
 currency: EUR
 price: 36.22

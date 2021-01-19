@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLW2CWS-fr bugatti 313625533500 Bottes & Bottines Classiques Homme...'
-tags: 
+tags: tole.es
 actualPrice: 42.25 EUR
 currency: EUR
 price: 42.25

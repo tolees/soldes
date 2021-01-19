@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F1T2PH9-fr Nativi Troll Bluetooth Écouteurs sans Fil Casques sans Fil...'
-tags: 
+tags: tole.es
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

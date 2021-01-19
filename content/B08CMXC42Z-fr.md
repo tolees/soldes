@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMXC42Z-fr Écouteur sans Fil Bluetooth Mini Casque Intra-auriculaire...'
-tags: 
+tags: tole.es
 actualPrice: 20.88 EUR
 currency: EUR
 price: 20.88

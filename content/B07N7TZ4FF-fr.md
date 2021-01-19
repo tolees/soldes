@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7TZ4FF-fr BOSS Glaze Lowp mewt Sneakers Basses Homme Noir Black 001...'
-tags: 
+tags: tole.es
 actualPrice: 141.43 EUR
 currency: EUR
 price: 141.43

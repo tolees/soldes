@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVTFQ34-fr Armor Lux 76874 Pull Homme Multicolore Navire 300 Large...'
-tags: 
+tags: tole.es
 actualPrice: 112.47 EUR
 currency: EUR
 price: 112.47

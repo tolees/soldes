@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XCGRJZR-fr Rowenta Compact Steam Extreme DG7521F0 Centrale Vapeur...'
-tags: 
+tags: tole.es
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

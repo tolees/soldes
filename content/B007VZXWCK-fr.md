@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VZXWCK-fr FoodSaver Machine Sous Vide automatique inclus sacs de...'
-tags: 
+tags: tole.es
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

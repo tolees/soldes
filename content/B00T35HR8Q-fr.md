@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00T35HR8Q-fr Sérum Vitamine C Premium de visage avec l’acide...'
-tags: 
+tags: tole.es
 actualPrice: 18.73 EUR
 currency: EUR
 price: 18.73

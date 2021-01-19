@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYHTCDJ-fr Tommy Hilfiger Gramercy Tapered Hw A Jean Droit Bleu Tana...'
-tags: 
+tags: tole.es
 actualPrice: 69.0 EUR
 currency: EUR
 price: 69.0

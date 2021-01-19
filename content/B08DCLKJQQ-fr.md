@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCLKJQQ-fr Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E...'
-tags: 
+tags: tole.es
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

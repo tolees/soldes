@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7DGGKM-fr Braun Oral-B Genius X 20000N Brosse À Dents Électrique par...'
-tags: 
+tags: tole.es
 actualPrice: 163.99 EUR
 currency: EUR
 price: 163.99

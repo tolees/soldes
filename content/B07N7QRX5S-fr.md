@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7QRX5S-fr Camel Active Womenswear Feb-62 Blouson Marron Dark Brown...'
-tags: 
+tags: tole.es
 actualPrice: 110.14 EUR
 currency: EUR
 price: 110.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0848CV1VV-fr Captain Tsubasa : Rise of New Champions Nintendo Switch'
-tags: 
+tags: tole.es
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

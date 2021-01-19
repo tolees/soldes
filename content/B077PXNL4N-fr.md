@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077PXNL4N-fr Maybelline New-York - Fond de teint Fluide Fit Me Matte &...'
-tags: 
+tags: tole.es
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

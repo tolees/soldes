@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088H5HSD2-fr RAMPOW Chargeur USB C 36W Power Delivery 3.0 Chargeur...'
-tags: 
+tags: tole.es
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

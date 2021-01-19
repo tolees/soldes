@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U7GR58C-fr Hipp Biologique Délices De Lait Fromage Blanc Nature Sucré...'
-tags: 
+tags: tole.es
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

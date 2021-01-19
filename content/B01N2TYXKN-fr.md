@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2TYXKN-fr LES FILLES DE CALEB: ÉMILIE et BLANCHE'
-tags: 
+tags: tole.es
 actualPrice: 34.3 EUR
 currency: EUR
 price: 34.3

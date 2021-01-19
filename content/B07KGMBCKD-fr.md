@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KGMBCKD-fr Sabrent SSD interne Rocket NVMe PCIe M.2 2280 de 512GB....'
-tags: 
+tags: tole.es
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

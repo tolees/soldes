@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDKWPLS-fr Truck Driver pour PS4'
-tags: 
+tags: tole.es
 actualPrice: 27.49 EUR
 currency: EUR
 price: 27.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXQSM6S-fr Samsung - Écouteurs sans Fil Galaxy Buds - Argent -...'
-tags: 
+tags: tole.es
 actualPrice: 80.76 EUR
 currency: EUR
 price: 80.76

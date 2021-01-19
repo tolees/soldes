@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3HHM55-fr Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction...'
-tags: 
+tags: tole.es
 actualPrice: 186.45 EUR
 currency: EUR
 price: 186.45

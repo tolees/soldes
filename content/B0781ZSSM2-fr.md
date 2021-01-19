@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781ZSSM2-fr MILLET Vector Grid JKT Polaire Alpinisme Homme'
-tags: 
+tags: tole.es
 actualPrice: 67.23 EUR
 currency: EUR
 price: 67.23

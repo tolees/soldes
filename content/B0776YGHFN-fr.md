@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776YGHFN-fr OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche...'
-tags: 
+tags: tole.es
 actualPrice: 19.4 EUR
 currency: EUR
 price: 19.4

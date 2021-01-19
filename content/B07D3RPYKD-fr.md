@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3RPYKD-fr Zelia - 41604F - Manteau Imperméable ciré Femme Bleu Ciel...'
-tags: 
+tags: tole.es
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

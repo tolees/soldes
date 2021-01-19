@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYHTSMF-fr Tommy Hilfiger Short Sleeve Slim Polo Cerulean 474 X-Large...'
-tags: 
+tags: tole.es
 actualPrice: 47.29 EUR
 currency: EUR
 price: 47.29

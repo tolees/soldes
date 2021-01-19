@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TGD8T4P-fr Brooks Brothers 100134408 Chemise Casual Blanc White 115...'
-tags: 
+tags: tole.es
 actualPrice: 46.44 EUR
 currency: EUR
 price: 46.44

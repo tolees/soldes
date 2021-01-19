@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CN6SG98-fr GiiYoon 2 Pièces Verre Trempé pour Xiaomi Mi 9 Film...'
-tags: 
+tags: tole.es
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

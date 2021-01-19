@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HH7HND6-fr Disque Dur Externe 1to 2to USB 3.1 pour PC Mac Ordinateur...'
-tags: 
+tags: tole.es
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

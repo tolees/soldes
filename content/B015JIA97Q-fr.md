@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015JIA97Q-fr Polaroid Snap - Appareil Photo Numérique Instantané avec...'
-tags: 
+tags: tole.es
 actualPrice: 96.78 EUR
 currency: EUR
 price: 96.78

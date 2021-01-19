@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089VZLTQP-fr ELUTENG Ventilateur 80mm DC Puissant et Silencieux Double...'
-tags: 
+tags: tole.es
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

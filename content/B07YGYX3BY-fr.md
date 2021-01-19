@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGYX3BY-fr IKKS Junior Combi Short MC Combinaison Vert Kaki 56 8 Ans...'
-tags: 
+tags: tole.es
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

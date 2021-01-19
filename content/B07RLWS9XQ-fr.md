@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RLWS9XQ-fr Tommy Hilfiger Xtra Slim Layton Pstr Paco Grey Jean Droit...'
-tags: 
+tags: tole.es
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

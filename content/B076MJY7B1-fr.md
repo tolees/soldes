@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076MJY7B1-fr Fisher-Price Puppy Eveil Progressif jouet bébé peluche...'
-tags: 
+tags: tole.es
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

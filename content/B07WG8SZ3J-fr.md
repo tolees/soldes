@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WG8SZ3J-fr Radiateur connecté Wifi Princess - 1500 W - Panneau Verre...'
-tags: 
+tags: tole.es
 actualPrice: 76.6 EUR
 currency: EUR
 price: 76.6

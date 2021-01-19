@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H76WLWO-fr 7 for all mankind MID RISE ROXANNE Jeans Femme Bleu Bair...'
-tags: 
+tags: tole.es
 actualPrice: 67.93 EUR
 currency: EUR
 price: 67.93

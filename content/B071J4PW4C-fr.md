@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071J4PW4C-fr NEWYES NYWT850 Tablette d Ecriture LCD 8.5 Pouces de...'
-tags: 
+tags: tole.es
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

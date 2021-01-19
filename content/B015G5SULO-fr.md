@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015G5SULO-fr Tod s Tod’S Brillengestelle To5116 Lunettes de soleil Bleu...'
-tags: 
+tags: tole.es
 actualPrice: 95.39 EUR
 currency: EUR
 price: 95.39

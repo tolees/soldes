@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BL5CJFN-fr Sika Firestop profilé HD Profilé pour calfeutrer des...'
-tags: 
+tags: tole.es
 actualPrice: 456.52 EUR
 currency: EUR
 price: 456.52

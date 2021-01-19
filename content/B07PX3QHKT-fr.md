@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PX3QHKT-fr Pop! Figurine en Vinyle: Harry Potter: Harry Potter -...'
-tags: 
+tags: tole.es
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

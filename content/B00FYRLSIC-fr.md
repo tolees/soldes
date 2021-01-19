@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FYRLSIC-fr Sony Objectif Zeiss SEL-2470Z Monture E Plein Format 24-70...'
-tags: 
+tags: tole.es
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

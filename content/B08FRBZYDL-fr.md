@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FRBZYDL-fr eXtremeRate 2 Pcs Verres Trempé pour Nintendo Switch...'
-tags: 
+tags: tole.es
 actualPrice: 14.59 EUR
 currency: EUR
 price: 14.59

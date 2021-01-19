@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYYXRNK-fr Casque Beats Solo Pro sans fil avec réduction du bruit -...'
-tags: 
+tags: tole.es
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

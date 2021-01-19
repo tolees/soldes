@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8ZD63Y-fr Foscam - FI9902P - Caméra IP Wi-FI extérieure 1080P'
-tags: 
+tags: tole.es
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

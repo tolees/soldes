@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5KHFVL-fr STEO Chaise Haute pour Bébé Enfant Siège avec Ceinture De...'
-tags: 
+tags: tole.es
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015YVJ2K8-fr Ecco ECCO JARED Derby homme - Noir Black 01001 - 43 EU'
-tags: 
+tags: tole.es
 actualPrice: 125.25 EUR
 currency: EUR
 price: 125.25

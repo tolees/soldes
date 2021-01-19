@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2J9K6Y-fr Stanley STST1-71983 Organiseur Click & Connect 50 cm'
-tags: 
+tags: tole.es
 actualPrice: 8.89 EUR
 currency: EUR
 price: 8.89

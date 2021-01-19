@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS6ZB7T-fr Logitech G502 HERO Souris Gamer Filaire Haute Performance...'
-tags: 
+tags: tole.es
 actualPrice: 56.31 EUR
 currency: EUR
 price: 56.31

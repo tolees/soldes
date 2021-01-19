@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B010B8V6SA-fr Panasonic Lumix DMCG7/DMCG70 1442/3.55.6 Lumix G Vario OIS...'
-tags: 
+tags: tole.es
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

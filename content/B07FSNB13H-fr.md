@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSNB13H-fr Philips GC8962/40 Centrale Vapeur PerfectCare Expert Plus...'
-tags: 
+tags: tole.es
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

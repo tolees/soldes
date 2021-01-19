@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ECEVGN0-fr Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash...'
-tags: 
+tags: tole.es
 actualPrice: 103.92 EUR
 currency: EUR
 price: 103.92

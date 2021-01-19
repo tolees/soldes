@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGBFGZS-fr Nike WMNS Air Zoom Pegasus 36 Trail Chaussure de Course...'
-tags: 
+tags: tole.es
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

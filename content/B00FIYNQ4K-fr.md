@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FIYNQ4K-fr Dunlop SP Sport Maxx GT XL MFS - 275/40R20 106W - Pneu Été'
-tags: 
+tags: tole.es
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

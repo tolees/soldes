@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S2PHD2-fr GORE Wear C3 Homme Pantalon de pluie GORE-TEX L Noir'
-tags: 
+tags: tole.es
 actualPrice: 141.13 EUR
 currency: EUR
 price: 141.13

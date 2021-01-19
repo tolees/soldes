@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005BK8RYA-fr Merrell Bare Access XTR Chaussures de Trail Femme Bleu...'
-tags: 
+tags: tole.es
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

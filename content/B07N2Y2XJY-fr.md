@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2Y2XJY-fr Orient Horloge FAC0000CA0'
-tags: 
+tags: tole.es
 actualPrice: 151.38 EUR
 currency: EUR
 price: 151.38

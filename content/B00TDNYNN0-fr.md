@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TDNYNN0-fr Arlo | Caméra de surveillance 100% Sans Fils Pack de 3 HD...'
-tags: 
+tags: tole.es
 actualPrice: 329.99 EUR
 currency: EUR
 price: 329.99

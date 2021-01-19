@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IN8OPTI-fr Dsquared2 D Squared Brillengestelle DQ5122 071-55-16-140...'
-tags: 
+tags: tole.es
 actualPrice: 77.21 EUR
 currency: EUR
 price: 77.21

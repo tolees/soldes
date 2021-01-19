@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KUX4KWK-fr Reebok Deck'
-tags: 
+tags: tole.es
 actualPrice: 121.17 EUR
 currency: EUR
 price: 121.17

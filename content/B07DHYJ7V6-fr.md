@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DHYJ7V6-fr Dujardin Jeux - Burger Quiz'
-tags: 
+tags: tole.es
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

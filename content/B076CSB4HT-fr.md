@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CSB4HT-fr Samsonite LAPTOP BACKPACK 17.3" EXP BLACK -SPECTROLITE 2.0...'
-tags: 
+tags: tole.es
 actualPrice: 126.75 EUR
 currency: EUR
 price: 126.75

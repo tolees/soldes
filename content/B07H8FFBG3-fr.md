@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H8FFBG3-fr Deda Elementi SUPERZERO Alloy Aero Handlebar 31 7 46 cm...'
-tags: 
+tags: tole.es
 actualPrice: 57.08 EUR
 currency: EUR
 price: 57.08

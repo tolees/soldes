@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DC7PLM1-fr sloggi Zero Feel Top EX Brassière Femme Écru ANGORA 6308 S'
-tags: 
+tags: tole.es
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

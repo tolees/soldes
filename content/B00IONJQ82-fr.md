@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IONJQ82-fr Orgakiddy SAC POUR VOMIR - Sachet de 3'
-tags: 
+tags: tole.es
 actualPrice: 2.0 EUR
 currency: EUR
 price: 2.0

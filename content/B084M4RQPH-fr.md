@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084M4RQPH-fr Sitram COCOTTE en Fonte d acier EMAILLE Acier Orange et...'
-tags: 
+tags: tole.es
 actualPrice: 39.47 EUR
 currency: EUR
 price: 39.47

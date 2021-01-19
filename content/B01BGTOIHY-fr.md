@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTOIHY-fr G-Star Bronson Slim Chino Pantalon Bleu Mazarine Blue...'
-tags: 
+tags: tole.es
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

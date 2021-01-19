@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8KD11Y-fr Hugo Atom Runn neoem Sneakers Basses Homme Bleu Navy 401...'
-tags: 
+tags: tole.es
 actualPrice: 115.95 EUR
 currency: EUR
 price: 115.95
