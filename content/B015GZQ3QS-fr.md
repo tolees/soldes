@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Timberland Bradstreet Chukka Leather  Bo avec 60.75 % rabais '
-date: 2021-01-12 08:18:42
+date: 2021-01-19 21:37:00
 image: 'https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B015GZQ3QS-fr'
+slug: 'B015GZQ3QS-fr Timberland Bradstreet Chukka Leather Bottines Homme Marron...'
+tags: [  ]
 actualPrice: 54.95 EUR
 currency: EUR
 price: 54.95
@@ -31,4 +32,4 @@ C'est en vente [Timberland Bradstreet Chukka Leather  Bottines Homme  Marron  MD
 - Fermeture : lacets
 - Remarque: le "R" représente une marque déposée, qui ne doit être visible que sur une chaussure. Le lieu peut être variable
 
-[Achète-le!!](https://www.amazon.fr/dp/B015GZQ3QS/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B015GZQ3QS/?tag=tolees0d-21)
