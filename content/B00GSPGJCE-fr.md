@@ -27,7 +27,7 @@ Vous avez [Samsung EHS64 3 5 mm écouteurs Intra-Auriculaires avec télécomma
 ℹ️:
 
 - Micro en ligne avec fonction à distance
-- Appel Réponse / Fin Bouton
 - Véritable accessoire Samsung
+- Appel Réponse / Fin Bouton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GSPGJCE/?tag=tolees0d-21)

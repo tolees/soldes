@@ -26,12 +26,12 @@ Vous avez [Corsair DARK CORE RGB Special Edition Optique Souris Gaming sans Fil 
 
 ℹ️:
 
-- Capteur optique personnalisé de 16 000 DPI taillé pour le gaming: Technologie de suivi très précise et rapide; la résolution native de 16 000 DPI, réglable par palier de 1 DPI, sadapte à nimporte quel tapis de souris
-- Durée de vie de la batterie: jusquà 16 heures avec un éclairage standard ou 24h avec rétroéclairage éteint
-- Recharge sans fil Qi: Rechargez la souris via une connexion sans fil avec le tapis de souris MM1000 de CORSAIR ou tout autre tapis de recharge sans fil compatible Qi
-- Câble: Fibre tressée de 1,8 m
 - Forme profilée avec accroche latérale interchangeable: Choisissez entre deux accroches latérales selon votre style de préhension et de jeu
-- Mode sans fil ultrarapide de 1 ms ou Bluetooth: Choisissez entre la technologie Bluetooth ultrarapide de 2,4 GHz sans fil 1 ms à faible latence et la connexion filaire. Capteur: PMW3367. Type de jeu: FPS, MOBA
+- Câble: Fibre tressée de 1,8 m
+- Durée de vie de la batterie: jusquà 16 heures avec un éclairage standard ou 24h avec rétroéclairage éteint
 - Stockage de profils embarqué: Permet denregistrer des effets lumineux, macros et paramètres de résolution (DPI); le joueur bénéficie dun accès universel à son profil, sans pilotes ni logiciels supplémentaires
+- Capteur optique personnalisé de 16 000 DPI taillé pour le gaming: Technologie de suivi très précise et rapide; la résolution native de 16 000 DPI, réglable par palier de 1 DPI, sadapte à nimporte quel tapis de souris
+- Recharge sans fil Qi: Rechargez la souris via une connexion sans fil avec le tapis de souris MM1000 de CORSAIR ou tout autre tapis de recharge sans fil compatible Qi
+- Mode sans fil ultrarapide de 1 ms ou Bluetooth: Choisissez entre la technologie Bluetooth ultrarapide de 2,4 GHz sans fil 1 ms à faible latence et la connexion filaire. Capteur: PMW3367. Type de jeu: FPS, MOBA
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078W6JNKF/?tag=tolees0d-21)
