@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008M6ISW6-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 89.25 EUR
 currency: EUR
 price: 89.25

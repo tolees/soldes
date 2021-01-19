@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQNLLPD-fr BÉABA Babycook Solo Robot Bébé 4 en 1 Mixeur-Cuiseur...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

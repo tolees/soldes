@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XVRX81R-fr HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

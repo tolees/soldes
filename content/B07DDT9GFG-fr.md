@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDT9GFG-fr Only NOS Onlqueen L/s Long Cardigan KNT Noos Gilet...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99
@@ -26,7 +26,7 @@ C'est en vente [Only NOS Onlqueen L/s Long Cardigan KNT Noos Gilet  Multicolore 
 
 ℹ️:
 
-- Cardigan
 - Tricot
+- Cardigan
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DDT9GFG/?tag=tolees0d-21)

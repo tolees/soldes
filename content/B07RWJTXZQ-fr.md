@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWJTXZQ-fr Guess Painted/Active Lady/Leather Li Chaussures de...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 48.95 EUR
 currency: EUR
 price: 48.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8HK4M-fr Columbia Mission Air Veste Modulable pour Homme'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 55.76 EUR
 currency: EUR
 price: 55.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q5GHHGW-fr Nappe carrée"Jerusalem Lumière" Orange – Made in France -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QXNQ1BH-fr LBLA Sac de Sport Femmes Grande Capacité Gym Fitness Sac...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

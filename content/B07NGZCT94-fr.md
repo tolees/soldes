@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGZCT94-fr Rowenta Ventilateur sur Pied Mosquito Silence avec...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 107.0 EUR
 currency: EUR
 price: 107.0

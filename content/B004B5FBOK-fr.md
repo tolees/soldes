@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004B5FBOK-fr STIGA Luge Bob Snowracer Supreme GT Luge Bobsleigh avec...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

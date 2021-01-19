@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RB4XTCP-fr Garmin - Dash Cam 56 - Caméra de conduite - Enregistrement...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 150.46 EUR
 currency: EUR
 price: 150.46

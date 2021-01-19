@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798C1KRV-fr LIVALL Bh60se Musik Rücklicht Blinker Navigation...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 111.63 EUR
 currency: EUR
 price: 111.63

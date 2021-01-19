@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTCEKCG-fr Montre Louis Cottier Homme Automatique - 43 mm - Cadran...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 172.0 EUR
 currency: EUR
 price: 172.0

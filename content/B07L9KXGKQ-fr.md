@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L9KXGKQ-fr Under Armour Accelerate Terrace II Veste Homme Noir L'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 40.11 EUR
 currency: EUR
 price: 40.11

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WX5Y4DO-fr World Art TWAB20101 Papillons Lampe de Table de Nuit Verre...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 260.21 EUR
 currency: EUR
 price: 260.21

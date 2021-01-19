@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RMLGGD3-fr Calvin Klein Sliver Mix 2g Laptop Bag Pochettes homme Noir...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 68.02 EUR
 currency: EUR
 price: 68.02

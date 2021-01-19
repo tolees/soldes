@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFWGKZ4-fr Logitech G513 Clavier Gaming Mécanique avec Repose-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 146.43 EUR
 currency: EUR
 price: 146.43

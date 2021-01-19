@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B8WW3DA-fr Rubie s-déguisement officiel - Rubie s-Costume Miraculous...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

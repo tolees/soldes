@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4RYNYZ-fr Batman La Relève - La Série Animée Edition Deluxe [Edition...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

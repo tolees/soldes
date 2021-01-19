@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTASJIR-fr Trilobite Jean de Moto'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 90.63 EUR
 currency: EUR
 price: 90.63

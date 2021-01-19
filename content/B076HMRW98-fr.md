@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HMRW98-fr adidas Core 18 Hoody Sweat-Shirt à Capuche Homme...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

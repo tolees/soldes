@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVR1QSP-fr FBSPORT Airtrack 20 cm Épaisseur Tapis de Gymnastique...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 103.51 EUR
 currency: EUR
 price: 103.51

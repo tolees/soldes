@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081ZZSZT4-fr Vidéoprojecteur WiMiUS 7000 Lumens Vidéoprojecteur Full HD...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 199.05 EUR
 currency: EUR
 price: 199.05

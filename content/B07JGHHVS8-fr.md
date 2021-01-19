@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGHHVS8-fr PUMA Carina L Sneakers Basses Femme White-White-Silver 39 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 32.95 EUR
 currency: EUR
 price: 32.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082JH1WKZ-fr Hom Thomas Long Sleepwear Ensemble de Pijama Haut: rayé...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 74.06 EUR
 currency: EUR
 price: 74.06

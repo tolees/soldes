@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X91T7CX-fr GreedFall'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.43 EUR
 currency: EUR
 price: 20.43

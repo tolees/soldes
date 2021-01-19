@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MY1ZL69-fr Schmidt Spiele - 56495 - Dinos Coffret de Puzzles 2x60...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

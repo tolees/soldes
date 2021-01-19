@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076ZS8P8L-fr DUAL 28 Days Detox Tea🌱🍵Thé Minceur Infusion pour Perte de...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

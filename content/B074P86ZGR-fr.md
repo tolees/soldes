@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P86ZGR-fr Crosscall Shark-X3 Téléphone portable débloqué 3G+ Ecran:...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 58.5 EUR
 currency: EUR
 price: 58.5

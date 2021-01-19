@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W9JKJJW-fr Balance Pèse Personne iTeknic Pèse Personne Impédancemètre...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000UXF36I-fr Mennekes 101700017 bases Schuko. 16 A/230 V prise de...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.72 EUR
 currency: EUR
 price: 9.72

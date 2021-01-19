@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SJ4Q1H5-fr Tonysa 17" 3D Projecteur Publicitaire Advertising...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 54.29 EUR
 currency: EUR
 price: 54.29

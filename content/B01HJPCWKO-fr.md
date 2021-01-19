@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HJPCWKO-fr PAUL HEWITT Bracelet Femme PHREP Ancre - Cadeau Femme...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 30.44 EUR
 currency: EUR
 price: 30.44

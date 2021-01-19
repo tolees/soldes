@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TPJQDB-fr Monopoly Tricheurs - Jeu de societe - Jeu de plateau -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

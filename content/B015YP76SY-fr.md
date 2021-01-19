@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015YP76SY-fr Beurer Me 90 Electrocardiographe Connecté avec USB/Bluetooth'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 92.38 EUR
 currency: EUR
 price: 92.38

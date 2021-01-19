@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZP9DDX-fr Disney Enfants Coco Sac à Dos'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.95 EUR
 currency: EUR
 price: 11.95

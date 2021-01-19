@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMQIG0-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 11.2 EUR
 currency: EUR
 price: 11.2

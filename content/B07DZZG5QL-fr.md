@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZZG5QL-fr Levi s Turner Baskets Hommes Marron Brown 28 45 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.98 EUR
 currency: EUR
 price: 39.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0821RTSMV-fr BONNYCO Tableau Magique Enfant A4 et A5 6 Pochoirs et 2...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

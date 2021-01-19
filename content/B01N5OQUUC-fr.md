@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5OQUUC-fr IK Multimedia IP-IRIG-ACOSTG-IN Système avancé de micro...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 72.01 EUR
 currency: EUR
 price: 72.01

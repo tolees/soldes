@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKMRMQ1-fr NHL 19'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DGCFZ90-fr Robin des Bois [Blu-Ray]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -26,8 +26,8 @@ Vous avez [Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=to
 
 ℹ️:
 
-- Date de sortie marché : 16 Octobre 2013
 - Langue(s) audio : Français, Anglais
+- Date de sortie marché : 16 Octobre 2013
 - Titre : Robin des Bois
 - Date de sortie marché : Octobre 2013
 

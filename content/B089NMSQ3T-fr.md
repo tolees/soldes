@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NMSQ3T-fr bakibo Écouteurs sans Fil Bluetooth 5.1 Stéréo Sport...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

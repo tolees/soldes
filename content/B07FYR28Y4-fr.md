@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYR28Y4-fr Vertbaudet Parure Caradou Facile à Border avec Couette PIN...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

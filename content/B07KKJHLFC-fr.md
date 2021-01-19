@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKJHLFC-fr KRONENKRAFT Set d ustensiles de Cuisine en Acier...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

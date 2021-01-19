@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MGFRGQM-fr Napapijri Skidoo WOM EF 2 Jacket Rose Pink Blush P79 XL Femme'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 173.06 EUR
 currency: EUR
 price: 173.06

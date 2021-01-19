@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VY9NX2T-fr Icebreaker Victory LS Zip Veste Femme Jet HTHR FR : M...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 53.42 EUR
 currency: EUR
 price: 53.42

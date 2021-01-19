@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D6G6W8X-fr Disque Dur Externe 1 to USB 3.0 pour PC Mac MacBook Xbox...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

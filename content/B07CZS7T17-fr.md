@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZS7T17-fr Xiaomi Redmi Note 5 Smartphone Portable Débloqué 4G Ecran:...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

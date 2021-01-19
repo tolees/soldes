@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086ZSCBH6-fr Écouteurs Bluetooth Bluedio P Particle Écouteurs sans Fil...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVG5FMV-fr Pinko Rubino 3 Baskets Enfiler Femme Multicolore...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 93.96 EUR
 currency: EUR
 price: 93.96

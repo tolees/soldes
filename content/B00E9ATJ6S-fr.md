@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E9ATJ6S-fr Certina c026.407.16.037.00 Montre pour Hommes en Cuir...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 370.62 EUR
 currency: EUR
 price: 370.62

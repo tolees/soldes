@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HK2HL8G-fr Dihope Survêtement Homme Ensemble de Sport 2 Pièces Casual...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

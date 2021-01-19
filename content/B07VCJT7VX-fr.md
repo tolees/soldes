@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCJT7VX-fr camel active Womenswear Jacke Jacket Vert Menthe poivrée...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 58.73 EUR
 currency: EUR
 price: 58.73

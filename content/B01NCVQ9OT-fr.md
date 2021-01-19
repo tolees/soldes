@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCVQ9OT-fr El Naturalista S.A N097 Soft Grain Yggdrasil Bottes...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 64.5 EUR
 currency: EUR
 price: 64.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNDY4K-fr BRAX Golf Tim Pull Bleu Dunkelblau 23 Medium Homme'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 93.78 EUR
 currency: EUR
 price: 93.78

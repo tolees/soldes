@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W5XHWVT-fr Playmobil - Maison Moderne - 9266'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 74.92 EUR
 currency: EUR
 price: 74.92

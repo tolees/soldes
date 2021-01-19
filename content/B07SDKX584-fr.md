@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SDKX584-fr Pokémon-Détective Pikachu [4K Ultra HD + Blu-Ray]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.27 EUR
 currency: EUR
 price: 15.27

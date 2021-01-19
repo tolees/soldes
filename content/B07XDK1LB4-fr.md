@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XDK1LB4-fr Polarduck Support Mural TV pour écrans 23-55 Pouces 58-140...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQDPYQC-fr Hot Wheels City T-Rex en Furie coffret de jeu pour petites...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZHZ5SS-fr BAITITON 128GB MSATA III Disque Flash SSD 128 Go Interne...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

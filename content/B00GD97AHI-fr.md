@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GD97AHI-fr Azzaro Item Bottes Chelsea homme Marron 43 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

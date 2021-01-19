@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002IYT1QK-fr Pentel LR7 Recharges pour Rollers Energel Pentel...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95
@@ -26,8 +26,8 @@ C'est en vente [Pentel LR7 Recharges pour Rollers Energel Pentel BL57/77/107/117
 
 ℹ️:
 
-- Recharge les rollers PENTEL de référence: BL107, BL77, BL117, BL57, K497, BL407, KL257, K600 et K611.
 - Couleur = noir
+- Recharge les rollers PENTEL de référence: BL107, BL77, BL117, BL57, K497, BL407, KL257, K600 et K611.
 - Boite de 12 recharges LR7 pour roller Energel Pentel
 - Pointe 0,7mm, écriture douce de taille moyenne
 

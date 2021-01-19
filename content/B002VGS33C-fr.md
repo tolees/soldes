@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002VGS33C-fr Optima Red Top Rt S 4.2 Batterie Démarrage Sprial Cell 12V...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 130.11 EUR
 currency: EUR
 price: 130.11

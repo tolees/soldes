@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003FQIU4O-fr Cuisinart CH4DCE Mini-Préparateur Double sens Rotation...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 62.78 EUR
 currency: EUR
 price: 62.78

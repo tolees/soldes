@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008DHZXY0-fr Stanley 1-93-981 Organiseur 39 Compartiments - Ossature En...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.2 EUR
 currency: EUR
 price: 15.2

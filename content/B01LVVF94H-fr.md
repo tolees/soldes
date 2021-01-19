@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LVVF94H-fr Casque supra-auriculaire filaire Beats EP - Sans batterie...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 80.58 EUR
 currency: EUR
 price: 80.58

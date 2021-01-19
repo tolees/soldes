@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNSR1V4-fr JACK & JONES JCORETAIL Sweat Hood SEP Sweatshirt à Capuche...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.58 EUR
 currency: EUR
 price: 28.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQP95F4-fr Feisui Collier Dressage Chien 800 Mètres Collier d...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

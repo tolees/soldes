@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UT9FOJE-fr Better Call Saul-Saison 1 [Blu-Ray + Copie Digitale]'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

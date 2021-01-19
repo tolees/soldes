@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7C3ZR6-fr Set de Car Shades compatible avec Citroen Berlingo...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 77.6 EUR
 currency: EUR
 price: 77.6

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZZ4RND-fr Casque de Jeu MAMBASNAKE Casque stéréo avec Microphone...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

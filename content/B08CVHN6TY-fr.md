@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVHN6TY-fr Disque Dur Externe Disque Dur Externe 2to USB3.0 pour Mac...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

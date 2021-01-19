@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HKVD91I-fr Trixie Scratching Post for Wall Mounting 80 x 11 cm Grey'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

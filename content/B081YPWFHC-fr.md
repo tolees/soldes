@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YPWFHC-fr Aschef Ensemble d Ustensiles de Cuisine en Slicone Lot de...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

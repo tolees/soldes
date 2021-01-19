@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015ZXZEXO-fr SteelSeries Siberia 650- Casque Gaming- Son Surround Dolby...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 125.71 EUR
 currency: EUR
 price: 125.71

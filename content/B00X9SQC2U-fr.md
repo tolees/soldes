@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9SQC2U-fr BaByliss Lisseur I-Pro 230 Steam avec technologie...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

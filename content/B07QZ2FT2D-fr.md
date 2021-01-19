@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QZ2FT2D-fr VIEWTEK Micro:bit Mini Smart Robot Car V2.0 for Arduino No...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FGVVQ9-fr Lacoste BH1966 Veste Noir 56 Homme'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 230.98 EUR
 currency: EUR
 price: 230.98

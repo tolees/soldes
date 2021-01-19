@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008YELYCW-fr OSRAM LEDriving PX-5 feux diurnes LEDDRL301 5 LED spots...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 76.78 EUR
 currency: EUR
 price: 76.78

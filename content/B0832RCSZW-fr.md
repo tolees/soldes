@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0832RCSZW-fr Netac Carte mémoire microSDXC 256G Haute Vitesse UHS-I...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

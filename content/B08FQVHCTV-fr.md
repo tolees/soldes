@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FQVHCTV-fr / Mḁs-tûr-bḁtḔûr HṎ-mmḔ RḔ-ḁlistḔ PṎ-ûr AûtṎ-mḁtiqùḔ ElḔ-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

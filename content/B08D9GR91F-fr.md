@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D9GR91F-fr KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

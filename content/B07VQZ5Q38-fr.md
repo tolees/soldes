@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQZ5Q38-fr Marmot Wm s Slingshot Jacket Veste de Neige en Duvet...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 173.61 EUR
 currency: EUR
 price: 173.61

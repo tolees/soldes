@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CRBMZM1-fr HTDELEC Coque Xiaomi Redmi 9 Transparente + 2 × Verre...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

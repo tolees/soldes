@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGN5X92-fr Royal Walk Parapluie de golf automatique pour homme et...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.08 EUR
 currency: EUR
 price: 28.08

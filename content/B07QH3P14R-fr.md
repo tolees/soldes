@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QH3P14R-fr Michael Kors Femme Écran Tactile Digital Montre Connectée...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 184.53 EUR
 currency: EUR
 price: 184.53

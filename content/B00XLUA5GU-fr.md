@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XLUA5GU-fr Bosch Professional 06015A1002 12V System Scie Sauteuse...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HPNBY6-fr Wolfcraft 5977000 Scie Cloche Ah Réglable'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 26.67 EUR
 currency: EUR
 price: 26.67

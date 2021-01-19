@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DKXTBCM-fr Lavazza A Modo Mio Café Espresso Passionale Capsules 100%...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GC6YVR6-fr Récepteur Bluetooth 5.0 Adaptateur USB Bluetooth Dongle...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777P8HCS-fr S72 / Sport Digital Camera'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

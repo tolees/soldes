@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1PMP7Y-fr Sebago Classic Dan Suede Chaussures Bateau Homme Marron DK...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 86.15 EUR
 currency: EUR
 price: 86.15

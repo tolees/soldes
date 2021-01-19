@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SG6VGL-fr Gomyhom Rose 24K Rose Plaqué Or élégante Fleur Romantique...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

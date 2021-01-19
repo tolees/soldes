@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTZVR67-fr Desigual Bag Folklore Cards Olesa Women Sacs portés épaule...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.35 EUR
 currency: EUR
 price: 38.35

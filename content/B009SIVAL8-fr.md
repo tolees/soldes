@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009SIVAL8-fr Samsonite S Cure - Spinner S Bagage à Main 55 cm 34 L Blue...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

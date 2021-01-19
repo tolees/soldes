@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLNL6J8-fr UniqueMe [2 pièces Protection écran pour Xiaomi Mi Note 10...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

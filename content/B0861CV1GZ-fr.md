@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0861CV1GZ-fr Muzili Écouteurs Bluetooth sans Fil Sport Étanches IPX7...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

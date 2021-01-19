@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N531AWP-fr Fleximounts A04 Support Mural TV Ultra Pivotant et...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

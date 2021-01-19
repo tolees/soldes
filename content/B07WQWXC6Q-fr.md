@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQWXC6Q-fr ALLPOWERS 50W 12V 18V Monocrystalline Solar Panel with...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

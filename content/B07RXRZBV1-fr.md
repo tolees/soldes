@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RXRZBV1-fr NinkBox Android TV Box de Version Android 10.0 【4G+32G】...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

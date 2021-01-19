@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXT8MLD-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B12HMPR-fr LEGO Unikitty - La voiture dans les nuages de Unikitty -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

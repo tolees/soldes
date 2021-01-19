@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1QVL42-fr Chargeur Secteur et Câble USB C pour Xiaomi Redmi Note 9...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

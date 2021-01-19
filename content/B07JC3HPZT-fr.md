@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JC3HPZT-fr LEGO®-DUPLO® Toy Story™ Le train de Toy Story Jeu de...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

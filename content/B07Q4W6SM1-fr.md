@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4W6SM1-fr WOTEK Bande Élastique Fitness Élastique Musculation Bande...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

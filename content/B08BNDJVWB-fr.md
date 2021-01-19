@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNDJVWB-fr eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DBXTX2P-fr PUMA Cali Wn s Sneakers Basses femme - Blanc Puma White-...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

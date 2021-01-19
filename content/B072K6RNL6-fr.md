@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072K6RNL6-fr Disque Dur SSD HP S700-500Go SATA 2" 1/2'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 64.19 EUR
 currency: EUR
 price: 64.19

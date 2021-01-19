@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084MH4RY7-fr ivencase Coque Xiaomi Redmi Note 9S Note 9 Pro Étui avec 4...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

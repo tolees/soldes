@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0875TTF6H-fr Manette PC PS3 Filaire Manette PC Manette PS3 avec Double...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZ1R94-fr El Naturalista N5282 Lux Suede El Viajero Bottes &...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 88.65 EUR
 currency: EUR
 price: 88.65

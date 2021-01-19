@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FCWTM3W-fr Tony Hawk s Pro Skater 1+2 - Exclusif Amazon Xbox One'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK11H4Y-fr Kickers - KICK COL 621514-30-92 - Bottes & bottines...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

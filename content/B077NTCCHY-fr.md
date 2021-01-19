@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077NTCCHY-fr Coffret Christopher Nolan 7 Films : Dunkerque /...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDLDTM2-fr ANRAN CCTV Caméra 1080p IP Caméra sans Fil'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

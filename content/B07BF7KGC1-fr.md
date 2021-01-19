@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF7KGC1-fr s.Oliver BLACK LABEL 02.899.73.4420 Pantalon De Costume...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 37.02 EUR
 currency: EUR
 price: 37.02

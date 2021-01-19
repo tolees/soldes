@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000BC7QMM-fr D-Link DGS-105 Switch 5 Ports Gigabit Metallique...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 21.74 EUR
 currency: EUR
 price: 21.74

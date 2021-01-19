@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK2YXW4-fr Degré7 Touring Veste de Ski Homme White FR : L Taille...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

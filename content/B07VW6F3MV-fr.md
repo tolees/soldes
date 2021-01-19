@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VW6F3MV-fr 【Nouvelle Version】 AIKELA Ecouteur Bluetooth sans Fil...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

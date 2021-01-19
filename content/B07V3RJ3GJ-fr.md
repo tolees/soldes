@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RJ3GJ-fr Correcteur de posture dos - redresse dos Homme et Femme -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UYZOWR8-fr Kit d’apprentissage scientifique OSOYOO Ensemble...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.97 EUR
 currency: EUR
 price: 29.97

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BP9WDC3-fr QNAP TS-253BE-2G 16 to Solution NAS de Bureau à 2 Baies |...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 1037.57 EUR
 currency: EUR
 price: 1037.57

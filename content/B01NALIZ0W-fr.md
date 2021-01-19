@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NALIZ0W-fr Bébé Confort Sac à Langer Black Raven'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 65.04 EUR
 currency: EUR
 price: 65.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V2VYVH-fr Trust Gaming GXT 890 Cada Clavier AZERTY Gamer Mécanique...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

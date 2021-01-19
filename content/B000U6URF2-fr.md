@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000U6URF2-fr Clarks Funny Dream Derbys Femme Noir Black Leather 38 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

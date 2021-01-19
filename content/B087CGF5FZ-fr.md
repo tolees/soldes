@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CGF5FZ-fr Mini PC Intel Celeron Processor J3455 8 Go DDR4 / 64 Go...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 161.49 EUR
 currency: EUR
 price: 161.49

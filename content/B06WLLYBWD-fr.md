@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLLYBWD-fr Montre Femme - Dreyfuss DLS00146/01'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 186.55 EUR
 currency: EUR
 price: 186.55

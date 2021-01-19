@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMHFJJX-fr Chie Mihara zuleica36 Ballerines à Bride Cheville Femmes...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 131.13 EUR
 currency: EUR
 price: 131.13

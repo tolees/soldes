@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9RSW9D-fr REDSTORM Manette PC/PS3 Manette Switch 5 Niveaux de LED...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQ569PT-fr VAUDE Men s Cyclist Softshell Jacket Veste Homme Black FR...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

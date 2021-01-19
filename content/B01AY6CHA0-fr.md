@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AY6CHA0-fr UGG Female Mini Bailey Button II Classic Boot Grey 9 UK'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 100.03 EUR
 currency: EUR
 price: 100.03

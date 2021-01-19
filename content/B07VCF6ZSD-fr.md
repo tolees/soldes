@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCF6ZSD-fr Replay Anbass Jean Slim Gris Medium Grey 096 W30/L30...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

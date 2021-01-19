@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PH28XW8-fr Jean Bellecour - REDS3 - Travel - Montre Homme -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

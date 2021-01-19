@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HZ2APKU-fr Thrustmaster T-16000M FCS FLIGHT PACK joystick manette des...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 172.69 EUR
 currency: EUR
 price: 172.69

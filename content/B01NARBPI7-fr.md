@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NARBPI7-fr Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

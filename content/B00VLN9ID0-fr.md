@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VLN9ID0-fr Levi s GRAPHIC SET-IN NECK T-Shirt Homme Bleu C18977...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95
@@ -28,8 +28,8 @@ Vous avez [Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC H215-
 
 - 100 % coton
 - Coupe Regular
+- Logo imprimé sérigraphié sur l’avant
 - Col rond
 - Manches courtes
-- Logo imprimé sérigraphié sur l’avant
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VLN9ID0/?tag=tolees0d-21)

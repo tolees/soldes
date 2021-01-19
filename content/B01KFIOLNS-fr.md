@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KFIOLNS-fr Songmics Chaise Gamer Fauteuil de Bureau Racing Sport avec...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 152.0 EUR
 currency: EUR
 price: 152.0

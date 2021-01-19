@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004LECV6W-fr Cuisinart YM400E Yaourtière & Fromagère 6 pots 125 ml + 2...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

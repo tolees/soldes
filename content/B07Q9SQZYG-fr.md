@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9SQZYG-fr Braun Series 9 9299cc Rasoir Électrique Homme Station...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 253.65 EUR
 currency: EUR
 price: 253.65

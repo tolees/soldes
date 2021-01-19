@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5M3GS8-fr Unisa Oneta KS Sandales Plateforme Femme Bleu Ocean Ocean...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.46 EUR
 currency: EUR
 price: 49.46

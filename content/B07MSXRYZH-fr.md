@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSXRYZH-fr KEEN Explore Mid IMPERMÉABLE Chaussures de Randonnée...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 54.65 EUR
 currency: EUR
 price: 54.65

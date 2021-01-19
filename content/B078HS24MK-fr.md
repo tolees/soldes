@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078HS24MK-fr Braun Silk-épil 9 9/990 SkinSpa SensoSmart Épilateur...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 181.35 EUR
 currency: EUR
 price: 181.35

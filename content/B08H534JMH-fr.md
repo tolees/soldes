@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08H534JMH-fr IHEX Galaxy S9 Plus Verre Trempé [2 Pièces] [Full...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

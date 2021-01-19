@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6KY7Y8-fr Under Armour Armour Insulated Hooded Veste Femme Noir FR :...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 70.82 EUR
 currency: EUR
 price: 70.82

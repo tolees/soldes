@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B4NL2J7-fr Elyco Coque de Protection pour Nintendo Switch Grips...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

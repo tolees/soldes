@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJ8TYKX-fr Love Moschino Jc4055pp18lg150a Sac Messager Mixte Adulte...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 90.03 EUR
 currency: EUR
 price: 90.03

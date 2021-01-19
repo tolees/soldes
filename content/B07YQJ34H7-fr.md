@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQJ34H7-fr Roccat Kain 202 Aimo Wireless Souris Gaming RGB Nouveau...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

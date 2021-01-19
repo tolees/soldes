@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8DZG6J-fr BOSS Hyper holdall Sac porté main homme Noir Black...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 114.48 EUR
 currency: EUR
 price: 114.48

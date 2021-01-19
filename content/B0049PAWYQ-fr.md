@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0049PAWYQ-fr Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 100.11 EUR
 currency: EUR
 price: 100.11

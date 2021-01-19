@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MVC9F6J-fr Napapijri Axstral Blouson Noir Black 041 X-Large Homme'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 84.78 EUR
 currency: EUR
 price: 84.78

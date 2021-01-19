@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076SL4RPB-fr Yazilind plaqué Or Bracelet Mode Goutte d eau Jolie Zircon...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

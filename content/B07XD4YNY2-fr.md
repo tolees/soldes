@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XD4YNY2-fr POP! Marvel: Black Widow – Taskmaster w/ bow'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.46 EUR
 currency: EUR
 price: 6.46

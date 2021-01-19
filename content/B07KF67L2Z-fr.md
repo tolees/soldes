@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF67L2Z-fr Levi s Housemark Polo Noir Mineral Black 0080 Small Homme'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 26.64 EUR
 currency: EUR
 price: 26.64

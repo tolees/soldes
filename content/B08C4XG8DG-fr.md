@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4XG8DG-fr Manette Sans Fil pour PS4 Manette pour Playstation 4...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

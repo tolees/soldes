@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077ZFH3KJ-fr Aigle Havsea Chaussures Bateau Homme Marron Brown/Miel 44 EU'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 105.89 EUR
 currency: EUR
 price: 105.89

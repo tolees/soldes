@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G1WKND9-fr VISSQH 20pcs micro interrupteur fin de course NO-NC...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

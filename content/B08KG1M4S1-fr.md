@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08KG1M4S1-fr TENGER Technic Excavatrice Blocs de Construction 2.4Ghz...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

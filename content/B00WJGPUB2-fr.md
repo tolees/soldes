@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJGPUB2-fr NETGEAR EX3800-100FRS Répéteur Wifi Amplificateur Wifi...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

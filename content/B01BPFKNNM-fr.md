@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPFKNNM-fr TP-Link Switch Ethernet Gigabit 8 Ports Web Manageable...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 62.63 EUR
 currency: EUR
 price: 62.63

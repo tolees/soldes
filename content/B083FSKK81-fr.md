@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083FSKK81-fr BRIKSMAX Kit de LED pour Lego Hidden Side L’école hantée...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

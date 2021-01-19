@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9B5QMT-fr Superdry ORANGE Label Vintage EMB Tee T-Shirt pour Homme...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

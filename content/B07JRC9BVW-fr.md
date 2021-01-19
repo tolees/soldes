@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JRC9BVW-fr Tommy Hilfiger Tommy Logo Hoody Sweat-Shirt Bleu Sky...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 79.92 EUR
 currency: EUR
 price: 79.92

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4SMTCT-fr PUMA Ignite PWRADAPT Disc Chaussures de Golf Homme Gris...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 134.36 EUR
 currency: EUR
 price: 134.36

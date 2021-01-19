@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CZB7NQ-fr Enceinte Haut-parleur Bluetooth Portable Lampe de Chevet...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

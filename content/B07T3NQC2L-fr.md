@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3NQC2L-fr Origin Stories-Man of Steel + Wonder Woman + Aquaman +...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

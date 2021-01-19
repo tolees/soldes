@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKD8N3N-fr LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 46.3 EUR
 currency: EUR
 price: 46.3

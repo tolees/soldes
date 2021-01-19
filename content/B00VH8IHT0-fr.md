@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VH8IHT0-fr Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

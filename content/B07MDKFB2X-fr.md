@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MDKFB2X-fr Lacoste BJ8097 Blouson Bleu Sinople/Marine Dq5 14 Ans...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

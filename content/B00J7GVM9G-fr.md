@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00J7GVM9G-fr Zwilling 66060-000 Passion Batterie de cuisine Acier...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

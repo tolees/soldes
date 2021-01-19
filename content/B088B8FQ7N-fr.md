@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088B8FQ7N-fr Tondeuse Cheveux Hommes Professionnelle DynaBliss HG4100...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HNCRYPR-fr Orzly Lot d accessoires pour console Nintendo Switch avec...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

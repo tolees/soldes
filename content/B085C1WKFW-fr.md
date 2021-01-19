@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085C1WKFW-fr Oacvien Récepteur Bluetooth 5.0 Adaptateur Émetteur...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GH8DSST-fr ARRYNN Coque pour Xiaomi Redmi Note 9 + Film Protection...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

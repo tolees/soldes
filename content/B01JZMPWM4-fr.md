@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JZMPWM4-fr Timberland Killington Bottes & Bottines Classiques Mixte...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD5B94Z-fr Masthome Planche à découper en bambou Idéal pour la viande...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

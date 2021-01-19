@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWVPV1J-fr Cache-oreilles électriques avec Bluetooth radio numérique...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

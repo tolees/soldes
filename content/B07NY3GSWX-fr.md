@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NY3GSWX-fr IKOHS Pro Wellness - Pèse Personne Blanc'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

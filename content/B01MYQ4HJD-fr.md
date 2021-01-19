@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYQ4HJD-fr Logitech G203 Prodigy Souris Gamer Filaire 8000 PPP RVB...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

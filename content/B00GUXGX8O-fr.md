@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GUXGX8O-fr Columbia Redmond Bottes Mi-Hautes Imperméables Homme Brun...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 69.9 EUR
 currency: EUR
 price: 69.9

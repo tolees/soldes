@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLHR4HF-fr LIGHTAILING Jeu De Lumières pour Architecture La Maison...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSBBJZ5-fr REDSTORM Manettes pour Nintendo Switch/Switch Lite Manette...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

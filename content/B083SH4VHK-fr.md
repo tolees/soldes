@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SH4VHK-fr Jojoin Tapis Enfant De Jet d eau Antidérapant Tapis De...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TC41LKP-fr Cressi Apnea Wetsuit - Combinaisons de Plongée complètes...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 154.63 EUR
 currency: EUR
 price: 154.63

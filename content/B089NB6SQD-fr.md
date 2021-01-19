@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NB6SQD-fr FirstE Enceinte Bluetooth Portable sans Fil Enceintes...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

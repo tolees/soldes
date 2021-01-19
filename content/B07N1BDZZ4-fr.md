@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1BDZZ4-fr True Religion Cropped Hoody Print Dusty Olive Sweat-Shirt...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 138.99 EUR
 currency: EUR
 price: 138.99

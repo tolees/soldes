@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JXL1T3O-fr Safavieh Tapis Moderne Tissé Fibre de Viscose douce Tapis...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 98.89 EUR
 currency: EUR
 price: 98.89

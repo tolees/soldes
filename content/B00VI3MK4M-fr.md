@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VI3MK4M-fr Smartphone Xiaomi Redmi Note 8T 6.3 - 4 GB - 64 GB - Blue'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

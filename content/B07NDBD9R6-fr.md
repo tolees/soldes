@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBD9R6-fr NETGEAR Routeur WiFi intelligent Nighthawk R6700-100PES -...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

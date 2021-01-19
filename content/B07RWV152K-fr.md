@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWV152K-fr Transformers Rescue Bots - Coffret de 4 Robots Secouristes...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 41.9 EUR
 currency: EUR
 price: 41.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YFI1A66-fr Clé USB 3.0 SanDisk Ultra 256 Go avec une vitesse de...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99
@@ -26,11 +26,11 @@ Vous avez [Clé USB 3.0 SanDisk Ultra 256 Go avec une vitesse de lecture allant 
 
 ℹ️:
 
-- Jusquà 10 fois plus rapide que les clés USB 2.0 standard
-- Compatible avec Windows Vista, Windows 7, Windows 8 et Mac OS X v10.6+ (téléchargement logiciel requis pour Mac)
-- Disponible en capacités de 16 Go, 32 Go, 64 Go, 128 Go et 256 Go
 - Protégez par mot de passe et cryptez les fichiers avec le logiciel SanDisk secure access
+- Compatible avec Windows Vista, Windows 7, Windows 8 et Mac OS X v10.6+ (téléchargement logiciel requis pour Mac)
+- Jusquà 10 fois plus rapide que les clés USB 2.0 standard
 - Température de fonctionnement : 0 °C à 45 °C; Température de stockage: 50 ° - 158 ° F (–10 ° - 70 ° C )
 - Transférez un film entier en moins de 40 secondes
+- Disponible en capacités de 16 Go, 32 Go, 64 Go, 128 Go et 256 Go
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YFI1A66/?tag=tolees0d-21)

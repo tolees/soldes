@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9SYFT2-fr Perfection - Jeu de Societe - Jeu de rapidité - Version...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 20.67 EUR
 currency: EUR
 price: 20.67

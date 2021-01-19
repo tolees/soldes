@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DWZ29N-fr Vistefly VX Aspirateur sans Fil 23KPA 250W Aspirateur...'
-tags: tole.es
+tags: [ tole.es ]
 actualPrice: 134.25 EUR
 currency: EUR
 price: 134.25
