@@ -25,9 +25,9 @@ Vous avez [Olympus CLA-12 Adaptateur pour TCON-17X Noir](https://www.amazon.fr/d
 
 ℹ️:
 
-- Couleur: Noir
 - Description du produit: Olympus - CLA-12
-- Compatible: Pour TCON-17X
 - Type de produit: Adaptateur
+- Couleur: Noir
+- Compatible: Pour TCON-17X
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005FEQ4GA/?tag=tolees0d-21)

@@ -25,10 +25,10 @@ Vous avez [Sliver](https://www.amazon.fr/dp/B000BISBES/?tag=tolees0d-21)  à  28
 
 ℹ️:
 
-- Country Of Release: NLD
-- Notes: Best Of With The Lights Out Box
-- Year Of Release: 2005
-- Catalog#: 06024 9886718
 - Record Label: Universal
+- Catalog#: 06024 9886718
+- Country Of Release: NLD
+- Year Of Release: 2005
+- Notes: Best Of With The Lights Out Box
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000BISBES/?tag=tolees0d-21)
