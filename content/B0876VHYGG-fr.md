@@ -27,8 +27,8 @@ Vous avez [Samsung Galaxy M31 - Smartphone Portable débloqué 4G  Ecran 6 4 pou
 
 - Smartphone avec système dexploitation Android V9.0
 - Jusquà 512 Go de carte Micro SD, mémoire extensible pour photos, musique et plus
-- Écran mobile - Écran Super AMOLED infinity-U, avec écran FHD + de 6,4 pouces, résolution de 2340 x 1080 pixels, densité de pixels de 404 ppp et prise en charge de 16 millions de couleurs
 - Batterie mobile - Batterie lithium-ion de 6000 mAh de haute performance avec fonction de charge mobile rapide de 15 watts
+- Écran mobile - Écran Super AMOLED infinity-U, avec écran FHD + de 6,4 pouces, résolution de 2340 x 1080 pixels, densité de pixels de 404 ppp et prise en charge de 16 millions de couleurs
 - Caméra mobile - Caméra principale 64MP, caméra profondeur 5MP, caméra ultra large 8MP et caméra frontale 32MP
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0876VHYGG/?tag=tolees0d-21)
