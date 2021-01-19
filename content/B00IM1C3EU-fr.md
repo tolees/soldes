@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Mauboussin - Eau de Parfum Femme - A La  avec 18.84 % rabais '
-date: 2021-01-18 07:09:00
+date: 2021-01-19 07:48:23
 image: 'https://m.media-amazon.com/images/I/41zvM8LjGmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -25,10 +25,10 @@ C'est en vente [Mauboussin - Eau de Parfum Femme - A La Folie - Senteur Florient
 
 ℹ️:
 
-- Heart note is pink
+- A floral oriental fragrance for young women
 - Base note is caramel gourmand
 - Sweet, savoury, warm, optimistic and cheerful
-- A floral oriental fragrance for young women
+- Heart note is pink
 - Top note is champagne-raspberry accord
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00IM1C3EU/?tag=tolees0d-21)
