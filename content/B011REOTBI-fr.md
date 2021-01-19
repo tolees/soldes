@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011REOTBI-fr Aigostar - Ampoules LED B5 T3 3U E27 Grosse Vis ， 9W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

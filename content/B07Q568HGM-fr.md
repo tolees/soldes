@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q568HGM-fr Alex Perry Cadeau boucle d oreille femme argent idee...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

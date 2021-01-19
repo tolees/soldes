@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NR8SBRY-fr Eminence Heritage Ensemble de Pyjama Bleu Bleu Rayure 2286...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.66 EUR
 currency: EUR
 price: 64.66

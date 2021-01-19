@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B65IVCQ-fr Pinypon - 700012914 - Mini Poupée - Coffret Clinique...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR
 price: 26.24

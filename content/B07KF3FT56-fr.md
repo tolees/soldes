@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF3FT56-fr Levi s 501 Crop Jean Droit Bleu Montgomery Baked 0074...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 91.62 EUR
 currency: EUR
 price: 91.62

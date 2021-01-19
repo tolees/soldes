@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GV2GQJ6-fr Diablo III : Eternal Collection pour Nintendo Switch'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.76 EUR
 currency: EUR
 price: 45.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V8WNGX-fr IQE-Storage TB-HS5 Coffret de transport 2 fermetures de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.2 EUR
 currency: EUR
 price: 74.2

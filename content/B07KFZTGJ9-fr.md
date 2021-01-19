@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFZTGJ9-fr PUMA PUMA ONE 5.3 IT Futsal Shoes Unisex Adults’ Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.11 EUR
 currency: EUR
 price: 22.11

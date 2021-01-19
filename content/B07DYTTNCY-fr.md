@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYTTNCY-fr Columbia Homme Veste d Hiver Marquam Peak Jacket Polyester...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 112.99 EUR
 currency: EUR
 price: 112.99

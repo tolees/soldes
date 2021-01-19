@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R3JBYMH-fr Ultimate Ears Megaboom Enceinte sans Fil Portable...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

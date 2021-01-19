@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K4DSH35-fr Portefeuilles Homme Portefeuille en Cuir Gravé...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

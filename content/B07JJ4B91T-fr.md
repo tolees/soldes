@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJ4B91T-fr G-STAR RAW 3301 Ripped Mid Waist Boyfriend Jeans Bleu lt...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4HFQDZ-fr G-STAR RAW Rackam Mimemis Sneakers Basses Homme...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.05 EUR
 currency: EUR
 price: 44.05

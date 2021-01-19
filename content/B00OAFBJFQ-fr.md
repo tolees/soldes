@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OAFBJFQ-fr Stanley Xtht0-33501 Mesure Auto lock 8Mx32 - Ruban Large -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

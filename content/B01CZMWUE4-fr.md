@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZMWUE4-fr CRAZE- Disney Perles à Repasser 54384 Bleu'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.78 EUR
 currency: EUR
 price: 14.78

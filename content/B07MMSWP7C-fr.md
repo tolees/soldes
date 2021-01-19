@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MMSWP7C-fr Philips GC7933/30 Centrale Vapeur PerfectCare Compact Plus...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFDNDVB-fr Levi s 514 Straight Jeans Ivy ADV 1209 31W / 32L Homme'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.25 EUR
 currency: EUR
 price: 63.25

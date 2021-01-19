@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004KEPYD0-fr Rosendahl - 43261 - Montre Femme - Quartz - Analogique -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.35 EUR
 currency: EUR
 price: 63.35

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0749WFRKL-fr Philips FC8245/09 Aspirateur avec Sac PowerGo 750W...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 83.19 EUR
 currency: EUR
 price: 83.19

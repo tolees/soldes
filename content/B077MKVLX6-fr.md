@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MKVLX6-fr PUMA Viz Runner Chaussures de Running Compétition Homme...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 48.11 EUR
 currency: EUR
 price: 48.11

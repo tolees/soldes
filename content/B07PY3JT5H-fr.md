@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY3JT5H-fr HP 25MX Moniteur 62 23 cm 24 5" FHD 1 ms 1920 x 1080...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

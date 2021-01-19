@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076JJ3XTP-fr Cosmo Connected - Cosmo Moto - Noir brillant- Feu de stop...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 61.83 EUR
 currency: EUR
 price: 61.83

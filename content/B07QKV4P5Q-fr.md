@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKV4P5Q-fr Britax Römer Siège-auto Naissance-18 kg | DUALFIX2 R |...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 303.03 EUR
 currency: EUR
 price: 303.03

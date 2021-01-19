@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY54G7X-fr AUBADE Soutien-gorge corbeille Bretelles réglables THE BOW...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVG9KQL-fr Beelink BT3 Pro II Mini PC Computer Windows 10 4 Go de RAM...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

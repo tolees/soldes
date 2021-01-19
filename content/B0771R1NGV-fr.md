@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771R1NGV-fr Geemarc Telecom TÉLÉPHONE SANS FIL AVEC 10 MÉMOIRES PHOTOS...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

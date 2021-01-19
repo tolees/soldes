@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07339XGWB-fr Logitech G703 LIGHTSPEED Souris Gamer sans Fil 12000 PPP...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

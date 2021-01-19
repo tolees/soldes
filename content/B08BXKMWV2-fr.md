@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BXKMWV2-fr HHUIWIND Coque Xiaomi Redmi Note 9 + Verre Trempé...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

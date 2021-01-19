@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003ZTN1XQ-fr Inox Robinet mitigeur douche en acier inoxydable haut de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 68.96 EUR
 currency: EUR
 price: 68.96

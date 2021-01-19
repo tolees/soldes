@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074XTWY7Z-fr Airavata Homme Ensemble Pantalon de Sport Sweatshirt à...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

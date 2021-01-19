@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WKYL8-fr Nappe carrée"Israël Story" Blanc/Violet – Made in France -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

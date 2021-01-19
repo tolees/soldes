@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011IO79NC-fr Tommy Hilfiger Montres bracelet 1781628'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 126.76 EUR
 currency: EUR
 price: 126.76

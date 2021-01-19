@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTNK2KY-fr POC Spine VPD air Vest Protective Mixte Adulte Uranium...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.68 EUR
 currency: EUR
 price: 99.68

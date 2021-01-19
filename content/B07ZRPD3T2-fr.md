@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRPD3T2-fr Aspirateur Balai sans Fil sans Sac Aspirateur à Main...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 136.79 EUR
 currency: EUR
 price: 136.79

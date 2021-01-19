@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HGHJ52L-fr LK Clair Coque pour Samsung Galaxy A71 [2 pièces Verre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

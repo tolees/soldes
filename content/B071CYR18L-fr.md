@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071CYR18L-fr Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 131.23 EUR
 currency: EUR
 price: 131.23

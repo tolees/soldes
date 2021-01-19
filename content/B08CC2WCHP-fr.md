@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CC2WCHP-fr Timoom M6 Lecteur MP3 Bluetooth MP4 32Go 2.8 Pouces Ecran...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

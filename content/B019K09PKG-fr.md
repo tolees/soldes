@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019K09PKG-fr Pinypon - 700012739 - la Garderie des Animaux'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

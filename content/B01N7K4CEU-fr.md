@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N7K4CEU-fr HyperX Impact DDR4 HX426S15IB2/8 Mémoire RAM 2666MHz CL15...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

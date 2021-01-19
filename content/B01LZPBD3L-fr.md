@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZPBD3L-fr Samsonite Base Boost - Spinner M Valise Extensible 66 cm...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

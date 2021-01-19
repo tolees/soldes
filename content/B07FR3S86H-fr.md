@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FR3S86H-fr Clarks Street Spark Y Mocassins bébé garçon Noir Black...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.39 EUR
 currency: EUR
 price: 29.39

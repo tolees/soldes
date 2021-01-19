@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZP5Q73F-fr Rolimate Jeu de pêche Magnétique en Bois 4 en 1 Jeux...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

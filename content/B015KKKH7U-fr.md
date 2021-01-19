@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KKKH7U-fr Kappa Rocket Baskets Basses Mixte Adulte Noir Black/White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MF3RT29-fr Hoover H-Free 700 HF722PTLG Aspirateur balai sans fil...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

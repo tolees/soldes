@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N24NBHX-fr Kaporal - Blouson avec Capuche & Fausse Fourrure Amovibles...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.78 EUR
 currency: EUR
 price: 44.78

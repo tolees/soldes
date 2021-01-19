@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BWQ98H-fr VICTOOM Electrostimulateur Musculaire EMS Stimulateur...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR
 price: 23.98

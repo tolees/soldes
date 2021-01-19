@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXGYHNX-fr TECLAST Tablette 10 1 Pouces Android 10 P20HD FHD...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 115.99 EUR
 currency: EUR
 price: 115.99

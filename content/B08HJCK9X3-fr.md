@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HJCK9X3-fr Montre Connectée Femmes Homme Bracelet Connecté...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

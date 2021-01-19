@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V2J3LMK-fr Tommy Hilfiger Corporate Material Mix Cupsole Sneakers...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

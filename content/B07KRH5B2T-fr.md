@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRH5B2T-fr New Balance Yv500v1 Baskets Fille Rose Pink/Purple...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR
 price: 36.0

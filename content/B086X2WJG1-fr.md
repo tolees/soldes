@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086X2WJG1-fr Fort Boyard Nouvelle Edition'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

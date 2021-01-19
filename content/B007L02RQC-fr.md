@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007L02RQC-fr Dugena - 7000120 - Montre Femme - Quartz Analogique -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 118.09 EUR
 currency: EUR
 price: 118.09

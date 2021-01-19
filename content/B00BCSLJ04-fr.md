@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BCSLJ04-fr PHILIPS - SC5992/10 - Brosse de rechange VisaPure spéciale...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

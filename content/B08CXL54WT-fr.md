@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXL54WT-fr Écouteur Bluetooth 5.0 Écouteur sans Fil avec réduction de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZM9NWDQ-fr Masseur Cervical Appareil de Massage Électrique Masseur de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.66 EUR
 currency: EUR
 price: 21.66

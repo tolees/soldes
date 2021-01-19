@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CSBGBP3-fr Manette sans fil pour Nintendo Switch Maegoo mini Manettes...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01EI9HGMI-fr adidas Gazelle Sneakers basses mixte adulte Bleu...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 62.98 EUR
 currency: EUR
 price: 62.98

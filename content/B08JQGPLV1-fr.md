@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JQGPLV1-fr eXtremeRate Coques Avant et Grips Poignée Boîtier Housse...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

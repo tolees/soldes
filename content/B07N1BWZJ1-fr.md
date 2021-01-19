@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1BWZJ1-fr Legero Novara Bottes de Neige femme - Noir Schwarz Schwarz...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 116.68 EUR
 currency: EUR
 price: 116.68

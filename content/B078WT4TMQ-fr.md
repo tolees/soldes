@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WT4TMQ-fr Morph Gonflable Costume Homme MCROIUN Monter sur Licorne...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

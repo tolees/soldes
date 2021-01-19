@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071ZXV99Z-fr Dix de Chute - Jeu de societe de stratégie - Version...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.6 EUR
 currency: EUR
 price: 15.6

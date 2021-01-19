@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N7RTKSX-fr Camel Active Womenswear 2r57 Manteau Bleu Blue 42 46...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.43 EUR
 currency: EUR
 price: 84.43

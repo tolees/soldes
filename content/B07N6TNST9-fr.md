@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6TNST9-fr Love Moschino Borsa Quilted Nappa Pu Sacs portés dos femme...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 181.54 EUR
 currency: EUR
 price: 181.54

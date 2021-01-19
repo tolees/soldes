@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJ5GS2R-fr CASIO Montre Femme LTS-100D-7AVEF'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 42.65 EUR
 currency: EUR
 price: 42.65

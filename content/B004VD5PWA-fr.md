@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004VD5PWA-fr Marie Brizard Curaçao Liqueur Triple Sec 700 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

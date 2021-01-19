@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TBCZ46-fr Hauck Sport Poussette jusqu à 18 kg avec Position Couchée...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.88 EUR
 currency: EUR
 price: 47.88

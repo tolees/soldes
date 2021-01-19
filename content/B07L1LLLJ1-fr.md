@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L1LLLJ1-fr Spyder 193028 - Veste de ski - Femme - Rose Berry -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 95.42 EUR
 currency: EUR
 price: 95.42

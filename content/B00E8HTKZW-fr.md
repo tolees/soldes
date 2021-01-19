@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E8HTKZW-fr Sweetnight - Surmatelas Luxe 160x200 cm | Ultra Moelleux...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.56 EUR
 currency: EUR
 price: 39.56

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1Z8C3J-fr Vera Mont VM 0029/4825 Robe de soirée Rose Cozy Pink 4443...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 72.02 EUR
 currency: EUR
 price: 72.02

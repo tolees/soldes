@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SZX8WXL-fr Kickers Bonbon-2 Bottes & Bottines Mixte bébé Vert Vert...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

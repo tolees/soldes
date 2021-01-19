@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015OH9KF4-fr Filofax 115023 Carnet de note A4 avec feuille...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 19.65 EUR
 currency: EUR
 price: 19.65

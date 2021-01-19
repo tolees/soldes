@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSTY1SG-fr Hommes Mode Sneakers Confort Respirant Doux Maille De...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

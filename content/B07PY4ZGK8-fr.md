@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY4ZGK8-fr Emartbuy Luxe Rigide Boîte-Cadeau de Présentation en Forme...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

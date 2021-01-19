@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z5CMDPN-fr G-STAR RAW Boxed Raw Graphic Straight T-Shirt Indigo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 14.97 EUR
 currency: EUR
 price: 14.97

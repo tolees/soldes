@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXKP7CL-fr Disque Dur Externe 1to USB3.0 SATA Stockage HDD pour PC...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07744QTNW-fr adidas NMD r1 Stlt PK Chaussures de Fitness Homme Gris...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 149.46 EUR
 currency: EUR
 price: 149.46

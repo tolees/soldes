@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089SJPYXM-fr YUSH Casque Gamer PS4 Filaire avec Audio Stéréo...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

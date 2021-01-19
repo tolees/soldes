@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SK1XZCF-fr GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

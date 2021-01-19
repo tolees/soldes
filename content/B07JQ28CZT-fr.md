@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQ28CZT-fr Levi s 724 High Rise Straight Jean droit Femme Bleu Two...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

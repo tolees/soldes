@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GLDB74-fr Einhell Coupe-bordures sans fil GE-CT 36/30 Li E - Solo -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

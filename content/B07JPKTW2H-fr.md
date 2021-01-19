@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPKTW2H-fr Amazon Essentials Half-Zip Active Jacket Outerwear Rose Large'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 6.24 EUR
 currency: EUR
 price: 6.24

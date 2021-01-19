@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW6DWHJ-fr Calor Centrale Vapeur Express Compact 5 7 Bars Effet...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 139.16 EUR
 currency: EUR
 price: 139.16

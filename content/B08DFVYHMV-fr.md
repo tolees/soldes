@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFVYHMV-fr TV Box Android 10.0 2GB Ram 16GB ROM Allwinner H616 Quad-...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

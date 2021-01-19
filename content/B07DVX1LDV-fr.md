@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVX1LDV-fr Chaussures de Trail Running'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 65.89 EUR
 currency: EUR
 price: 65.89

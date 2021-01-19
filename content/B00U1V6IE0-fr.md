@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00U1V6IE0-fr Panasonic Lumix Appareil Photo Compact Zoom Puissant...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 156.99 EUR
 currency: EUR
 price: 156.99

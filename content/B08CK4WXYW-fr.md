@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CK4WXYW-fr Disque Dur Externe 2to USB-C Disque Dur Externe pour PC...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

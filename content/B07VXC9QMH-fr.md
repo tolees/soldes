@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXC9QMH-fr Kingston A2000 - Disque SSD - chiffré - 1 To - interne -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 113.17 EUR
 currency: EUR
 price: 113.17

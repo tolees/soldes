@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZ8LFXK-fr Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FFLLY2H-fr LK Coque pour Xiaomi Redmi 9A [Antidérapant] Souple...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

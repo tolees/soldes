@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRCFCPF-fr XL-S MEDICAL Solution Buvable - Aide à la Perte de Poids –...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.02 EUR
 currency: EUR
 price: 32.02

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081N7YDVR-fr Avidsen 127003 Camera IP motorisée Blanc'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.19 EUR
 currency: EUR
 price: 47.19

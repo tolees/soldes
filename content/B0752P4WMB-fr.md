@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0752P4WMB-fr Saint Honoré Femme Analogique Quartz Montre avec Bracelet...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 171.36 EUR
 currency: EUR
 price: 171.36

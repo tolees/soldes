@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019FVZLPI-fr Sac à dos pour cyclistes et utilisateurs de trottinette...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

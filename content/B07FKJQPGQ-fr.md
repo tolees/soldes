@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKJQPGQ-fr The North Face Canyonlands Sweat à Capuche Homme Gris TNF...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.07 EUR
 currency: EUR
 price: 44.07

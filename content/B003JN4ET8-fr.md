@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003JN4ET8-fr Exacompta - Réf. 5900E - Etui carton de 100 pochettes...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

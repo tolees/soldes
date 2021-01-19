@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VDCKDKS-fr Napapijri K Rainforest Sum 2 Blouson Violet Clover Purple...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 50.58 EUR
 currency: EUR
 price: 50.58

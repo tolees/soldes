@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D7VKPLP-fr Calvin Klein 3p Low Rise Trunk Caleçon Bleu Black/Blue...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 35.47 EUR
 currency: EUR
 price: 35.47

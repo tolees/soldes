@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HFZS6R7-fr Collier argent et perles de culture Blanches et...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

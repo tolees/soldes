@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R5NCDMY-fr Razer Seiren X Mercury Microphone à Condensateur Pour eux...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

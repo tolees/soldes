@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X4HXRPS-fr Castaner Dosalia/3/ss20007 Espadrilles Femme Tostado 38 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 77.37 EUR
 currency: EUR
 price: 77.37

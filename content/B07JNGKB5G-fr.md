@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JNGKB5G-fr Scotch & Soda AMS Blauw Light Weight Shirt with Contrast...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 43.52 EUR
 currency: EUR
 price: 43.52

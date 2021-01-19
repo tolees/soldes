@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWF82BQ-fr Robot Blender Mixeur Multifonction - Power Blender Greenis...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

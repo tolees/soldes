@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CN5THZJ-fr GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note 8T...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

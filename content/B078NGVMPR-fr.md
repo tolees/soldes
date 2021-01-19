@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NGVMPR-fr Merrell Siren Edge Q2 Chaussures de Randonnée Basses Femme...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.29 EUR
 currency: EUR
 price: 74.29

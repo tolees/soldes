@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082F5CKKF-fr Fer à Lisser Professionnel Lissara - Plaques Larges en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 23.86 EUR
 currency: EUR
 price: 23.86

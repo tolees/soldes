@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VK0V6A2-fr De Longhi Machine à Café à Pompe et Cafetière Filtre...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

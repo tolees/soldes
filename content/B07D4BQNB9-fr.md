@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D4BQNB9-fr Monrinda Unisex Chaussure de Sport Femme Basket de Running...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

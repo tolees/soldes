@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCQG4ZT-fr NEW C Lot de 3 Verre Trempé pour Samsung Galaxy S10 Lite...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

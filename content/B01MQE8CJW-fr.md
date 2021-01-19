@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQE8CJW-fr Corsair HARPOON RGB Optique Souris Gaming Rétro-Éclairge...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 21.49 EUR
 currency: EUR
 price: 21.49

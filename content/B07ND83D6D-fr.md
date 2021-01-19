@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ND83D6D-fr Replay Grover Jean Droit Medium Blue 9 W30/L36 Taille...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 51.2 EUR
 currency: EUR
 price: 51.2

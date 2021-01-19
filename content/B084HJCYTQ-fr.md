@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HJCYTQ-fr Samurai Shodown'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

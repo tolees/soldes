@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTFFDTJ-fr Jeux De Construction Mosaique Enfant Puzzle Jeu Motricite...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

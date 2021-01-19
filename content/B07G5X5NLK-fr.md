@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5X5NLK-fr Holy Stone HS160 RC Drone Pliable avec Caméra HD 720P WiFi...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

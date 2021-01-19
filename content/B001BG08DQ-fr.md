@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001BG08DQ-fr Juki MO-654DE Surjeteuse Métal Blanc 34 x 27 x 29 5 cm'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

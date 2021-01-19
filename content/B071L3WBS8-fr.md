@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071L3WBS8-fr Andoer Meikon Caméra sous-marine 200 mm Fisheye objectif...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 106.0 EUR
 currency: EUR
 price: 106.0

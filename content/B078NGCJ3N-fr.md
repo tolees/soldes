@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NGCJ3N-fr Merrell Thermo Freeze Mid WP Chaussures de Randonnée...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 151.9 EUR
 currency: EUR
 price: 151.9

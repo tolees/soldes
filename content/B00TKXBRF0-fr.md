@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TKXBRF0-fr Klein - 9459 - Jeu d imitation - Cuisine en bois avec...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

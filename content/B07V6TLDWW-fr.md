@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V6TLDWW-fr Tommy Hilfiger Iconic Material Mix Runner Sneakers Basses...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 53.95 EUR
 currency: EUR
 price: 53.95

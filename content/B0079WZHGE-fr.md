@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0079WZHGE-fr Laguna Pompe d Ornement Max Flo 2000 Débit 7600 L/H'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99
@@ -26,9 +26,9 @@ C'est en vente [Laguna Pompe d Ornement Max Flo 2000 Débit 7600 L/H](https://ww
 
 ℹ️:
 
+- produits de haute qualité
+- Débit: 7600 L/H
 - piles requises: non
 - Débit deau maximum : 7 5 L/h
-- Débit: 7600 L/H
-- produits de haute qualité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0079WZHGE/?tag=tolees0d-21)

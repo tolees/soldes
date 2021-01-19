@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089N3MV3K-fr Toozey Jouet Chien à Macher pour Grands Chiens Mâcheurs...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

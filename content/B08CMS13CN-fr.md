@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMS13CN-fr Disque Dur Externe 1to USB-C Disque Dur Externe pour PC...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN3NMSD-fr CCcollections Combinaison en Coton Naturel et Tons ocres...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

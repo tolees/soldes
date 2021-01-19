@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JQYNTZC-fr Tommy Hilfiger Ebru Shirt Ls W3 Chemise Soft We STP...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

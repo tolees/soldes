@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E9IXQ4G-fr Crane Stand CUHS-LG-2L Mallette universelle rigide pour DJ'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 73.62 EUR
 currency: EUR
 price: 73.62

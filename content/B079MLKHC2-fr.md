@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079MLKHC2-fr Cole Haan Zerogrand Wingtip Oxford Richelieus homme...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 66.95 EUR
 currency: EUR
 price: 66.95

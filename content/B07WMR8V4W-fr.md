@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WMR8V4W-fr Yageshark Pantalon de Jogging Homme Coton Mode Training...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.04 EUR
 currency: EUR
 price: 25.04

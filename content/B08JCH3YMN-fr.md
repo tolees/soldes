@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JCH3YMN-fr Reshias Coque pour Sony Xperia 10 II Souple Transparent...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

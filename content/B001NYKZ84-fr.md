@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYKZ84-fr Reebok Classic Leather Baskets Basses Femme Noir Black 38 EU'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 63.74 EUR
 currency: EUR
 price: 63.74

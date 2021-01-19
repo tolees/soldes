@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Q4S6MY-fr Écouteurs sans Fil Bluetooth 5.0 IPX5 écouteurs étanches...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

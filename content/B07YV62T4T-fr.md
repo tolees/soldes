@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YV62T4T-fr Videoprojecteur Mini Projecteur Bluetooth Portable -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

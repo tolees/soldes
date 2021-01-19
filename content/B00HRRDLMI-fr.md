@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDLMI-fr Sylvanian Families - 4370 - Le chalet'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.59 EUR
 currency: EUR
 price: 40.59

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPCSBF4-fr LIVAN - L0809 - Valise Cabine à 4 Roues 360° -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 58.95 EUR
 currency: EUR
 price: 58.95

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E3SNNGW-fr Bose SoundSport Écouteurs sans Fil Bluetooth - Bleu'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

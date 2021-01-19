@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0824F3DTD-fr Persona 5 Royal - Phantom Thieves Edition'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

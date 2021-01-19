@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVF83WG-fr Replay Anbass Jean Slim Noir Black 7 W34/L32 Taille...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

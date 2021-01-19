@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BEHTKWC-fr Sonos Playbar Barre de son TV sans fil et enceinte wifi...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

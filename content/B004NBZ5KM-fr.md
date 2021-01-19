@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004NBZ5KM-fr Fossil Femme Analogique Quartz Montre avec Bracelet en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQF64TF-fr MXIN 7 Couleurs LED Photon Therapy faciales Traitement de...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

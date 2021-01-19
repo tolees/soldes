@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VXNWDQF-fr Furreal Friends - Tyler Le Tigre Joueur - Peluche Interactive'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.23 EUR
 currency: EUR
 price: 89.23

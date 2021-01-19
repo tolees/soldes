@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0055BWXF4-fr Fossil Homme Chronographe Quartz Montre avec Bracelet en...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 86.13 EUR
 currency: EUR
 price: 86.13

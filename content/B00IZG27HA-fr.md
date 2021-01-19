@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IZG27HA-fr J.S. Staedtler - Accessoires - Etui en chevreau marron...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 39.91 EUR
 currency: EUR
 price: 39.91

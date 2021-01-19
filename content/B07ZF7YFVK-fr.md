@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF7YFVK-fr COOCHEER Purificateur d air avec Réel Filtre HEPA et...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

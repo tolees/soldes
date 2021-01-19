@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKBDC95-fr HP EliteBook 840 G2 - PC Portable - 14 - Core i5-5300U /...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 429.0 EUR
 currency: EUR
 price: 429.0

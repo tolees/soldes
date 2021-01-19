@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRLSJHC-fr New Balance 574v2 Baskets Homme Bleu Navy/White Navy/White...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 47.52 EUR
 currency: EUR
 price: 47.52

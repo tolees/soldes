@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC7G3QM-fr LK Verre Trempé pour Xiaomi Mi 10 Lite Protection écran [3...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

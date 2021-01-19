@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y9BWYJ5-fr Fauteuil à Bascule Gaming - Sony Geist - noir/bleu'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

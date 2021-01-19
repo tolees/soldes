@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8SNDTS-fr Onduleur Z3 ZenBox EX 500 VA 3 prises secourues 3 prises...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 77.5 EUR
 currency: EUR
 price: 77.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PGQFZSP-fr Chie Mihara Ventura Escarpins Salomé Femmes Noir Ante...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 111.56 EUR
 currency: EUR
 price: 111.56

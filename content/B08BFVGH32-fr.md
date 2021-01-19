@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BFVGH32-fr Hommie Montre Connectée Femme Tracker d Activité Cardio...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KWWYJXO-fr Philips AC2887/10 Purificateur d air purifie jusqu à 79 m²...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 318.98 EUR
 currency: EUR
 price: 318.98

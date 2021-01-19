@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y491JKT-fr Melvin & Hamilton Amelie 5 Bottes Chelsea femme - Marron...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 81.97 EUR
 currency: EUR
 price: 81.97

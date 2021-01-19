@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C4QJTD4-fr GTPLAYER Chaise Gamer Fauteuil de Bureau Berçante Siège...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 159.49 EUR
 currency: EUR
 price: 159.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H65W5BP-fr Emsa M5262000 Click & Grow Smart Garden 9 Jardinière d...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

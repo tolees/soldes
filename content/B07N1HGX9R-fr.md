@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1HGX9R-fr Kipling Teagan Xs Luggage 33 L Black Indigo'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 60.09 EUR
 currency: EUR
 price: 60.09

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BK2TMK0-fr LEGO-DUPLO L’île tropicale Pour Tout Petits Fille et...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UMH2CA2-fr DWE4237-QS - Mini-amoladora 125mm 1.400W'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 98.51 EUR
 currency: EUR
 price: 98.51

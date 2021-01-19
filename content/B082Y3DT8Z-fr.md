@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082Y3DT8Z-fr Zigma Spark Robot Aspirateur Aspirateur Robot Laveur avec...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMBT3BQ-fr YAMAHA RX-V585 – Amplificateur Home Cinema 145W – Système...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

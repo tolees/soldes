@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NAHE2RJ-fr Timberland Adventure 2.0 Cupsole Baskets Montantes Homme...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

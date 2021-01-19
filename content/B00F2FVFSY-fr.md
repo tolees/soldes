@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00F2FVFSY-fr Laurastar GO Centre de Repassage'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 502.99 EUR
 currency: EUR
 price: 502.99

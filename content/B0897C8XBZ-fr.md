@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0897C8XBZ-fr BOSCH - TAS6503 Tassimo My Way 2 - Cafetière à capsule -...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

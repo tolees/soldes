@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MQIC9AK-fr Golden Curl GL506 Boucleur de Cheveux Curl Fer a Friser...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

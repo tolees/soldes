@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDV9FY2-fr FS - Écouteurs Premium Bluetooth sans Fil Casque avec Plus...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR
 price: 25.9

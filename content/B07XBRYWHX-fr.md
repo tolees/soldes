@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XBRYWHX-fr Microsoft Surface Pro 7 – PC Hybride écran 12.3 pouces...'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 1709.78 EUR
 currency: EUR
 price: 1709.78

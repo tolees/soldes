@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LXRVBSF-fr Kavalan Yilan County Amontillado Single Malt Whisky 700 ml'
-tags: [ 'tole.es', ]
+tags: [  ]
 actualPrice: 281.83 EUR
 currency: EUR
 price: 281.83
