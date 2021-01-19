@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01891LZBY-fr Rowenta Ventilateur sur pied 16 /40 cm Turbo Silence...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 62.96 EUR
 currency: EUR
 price: 62.96

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008TZBN90-fr Beurer TL 90 Lampe de luminothérapie | 10 000 lux |...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

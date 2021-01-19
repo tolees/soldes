@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VHW6SG7-fr Hugo Boss Watch 1513743'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 431.94 EUR
 currency: EUR
 price: 431.94

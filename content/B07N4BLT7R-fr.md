@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4BLT7R-fr Catimini CP44005 Manteau Noir Black 02 4 Ans Taille...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 96.14 EUR
 currency: EUR
 price: 96.14

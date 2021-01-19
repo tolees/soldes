@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLD8D96-fr CYBEX Gold Siège Auto Solution S-Fix Adapté aux Voitures...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 148.21 EUR
 currency: EUR
 price: 148.21

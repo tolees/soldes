@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GTBRSCY-fr Sony SRS-XB01 Enceinte portable ultra compacte résistante...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFNHPS4-fr Schott NYC LC300 Blouson Marron Rust Rust Large Taille...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 201.04 EUR
 currency: EUR
 price: 201.04

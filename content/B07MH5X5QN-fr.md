@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MH5X5QN-fr Chi Chi London Chi Delia Dress Robe Bleu Navy Navy 38...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 27.89 EUR
 currency: EUR
 price: 27.89

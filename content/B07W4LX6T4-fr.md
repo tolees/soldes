@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W4LX6T4-fr LIVOO DOP201 Super Blender 1200 W 1.8 liters'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFRK1LY-fr Ceintures de Sudation Ceinture De Sudation Homme et Femme...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

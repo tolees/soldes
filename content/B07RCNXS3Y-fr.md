@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNXS3Y-fr Columbia Lake 22 Doudoune à Capuche Homme - Noir Black - L'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 75.89 EUR
 currency: EUR
 price: 75.89

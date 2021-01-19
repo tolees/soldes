@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076LS2XL4-fr HoMedics Bain de Pieds avec Chauffage de l Eau'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

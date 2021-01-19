@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJH1W8W-fr El Naturalista N5176 Bottes Classiques Femme Marron Brown...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 73.8 EUR
 currency: EUR
 price: 73.8

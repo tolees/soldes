@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HL5TL3S-fr Skagen Homme Écran Tactile Digital Montre Connectée avec...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 201.38 EUR
 currency: EUR
 price: 201.38

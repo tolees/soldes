@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBGBFT9-fr SteelSeries Arctis 3 Console - Casque de Jeu Filaire...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

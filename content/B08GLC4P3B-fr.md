@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLC4P3B-fr Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

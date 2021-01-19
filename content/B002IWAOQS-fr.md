@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002IWAOQS-fr Staub 1313906 Wok Cerise avec Couvercle Verre 37 Cm'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 188.95 EUR
 currency: EUR
 price: 188.95

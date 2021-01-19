@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JPJDCK1-fr Scotch & Soda Maison Club Nomade Basic Sweat Shirt Red...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 65.76 EUR
 currency: EUR
 price: 65.76

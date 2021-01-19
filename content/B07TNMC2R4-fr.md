@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TNMC2R4-fr ASUS Carte Mère Gaming Prime X570-PRO AMD AM4 Ryzen 3000...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 299.94 EUR
 currency: EUR
 price: 299.94

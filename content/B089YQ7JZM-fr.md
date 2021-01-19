@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089YQ7JZM-fr Vidéoprojecteur WiFi TOPTRO 5800 Lumens Bluetooth Mini...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

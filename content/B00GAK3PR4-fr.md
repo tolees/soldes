@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GAK3PR4-fr ELTEN 78671-43 Rigger Boot Chaussures de sécurité ESD S3...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 60.52 EUR
 currency: EUR
 price: 60.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HJ5C9FZ-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD Disque Dur...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

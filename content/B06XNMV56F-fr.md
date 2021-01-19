@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XNMV56F-fr Garmin vívosmart 3 - Bracelet de Fitness avec Cardio...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 50.6 EUR
 currency: EUR
 price: 50.6

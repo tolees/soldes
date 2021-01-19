@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FY39QXD-fr 2 x Volant Poignées pour Switch Kit de Poignées à L usure...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

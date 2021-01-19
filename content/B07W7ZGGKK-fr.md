@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7ZGGKK-fr Cubicfun Piste de Voiture Jouet Enfant 2 3 4 5 6 ans City...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 27.94 EUR
 currency: EUR
 price: 27.94

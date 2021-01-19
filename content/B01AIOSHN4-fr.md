@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AIOSHN4-fr Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 82.9 EUR
 currency: EUR
 price: 82.9

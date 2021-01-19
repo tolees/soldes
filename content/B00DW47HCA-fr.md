@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DW47HCA-fr Tommy Hilfiger - New Chiara Str Pq Polo SSPolo - Femme -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 50.52 EUR
 currency: EUR
 price: 50.52

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OHMO8AA-fr Somfy 2400556 - Récepteur Portail/Porte de Garage...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 91.57 EUR
 currency: EUR
 price: 91.57

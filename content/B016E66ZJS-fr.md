@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016E66ZJS-fr Le Grand jour'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

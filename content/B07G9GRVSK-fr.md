@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G9GRVSK-fr Schleich- Figurine Maman Grizzly avec Ourson Wild Life...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

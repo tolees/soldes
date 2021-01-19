@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDXW4JK-fr LED Projecteur étoile veilleuse télécommandée lecteur de...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

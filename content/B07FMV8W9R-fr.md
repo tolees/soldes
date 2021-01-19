@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMV8W9R-fr VTechKidizoom Smartwatch Connect DX2 – Framboise – Montre...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 61.79 EUR
 currency: EUR
 price: 61.79

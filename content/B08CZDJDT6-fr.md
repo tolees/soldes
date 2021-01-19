@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZDJDT6-fr Disque Dur Externe 1to Disque Dur Externe USB3.1 Type-C...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I3LUUIU-fr Sony MDR-EX110APB Ecouteurs Intra-auriculaires avec...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

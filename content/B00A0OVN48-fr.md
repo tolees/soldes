@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00A0OVN48-fr Sorel Bottes d Hiver pour Femmes 1964 Pac 2 Gris Coal...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 62.07 EUR
 currency: EUR
 price: 62.07

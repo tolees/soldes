@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G4FSNN3-fr Lacoste Hommes Analogique Quartz Montre avec Bracelet en...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

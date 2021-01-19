@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DX7QM46-fr V Tech Tut Tut Bolides Mon premier garage interactif Éthan...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

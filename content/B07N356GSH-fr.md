@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N356GSH-fr Mizuno Wave Inspire 15 Chaussures de Running Homme Blanc...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

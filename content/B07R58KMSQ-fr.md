@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R58KMSQ-fr Super Mario Maker 2 - édition limitée'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 41.91 EUR
 currency: EUR
 price: 41.91

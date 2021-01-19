@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00C3Y2IC4-fr Laurastar Lift Plus Ultimate Black Centrale Vapeur Nomade...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

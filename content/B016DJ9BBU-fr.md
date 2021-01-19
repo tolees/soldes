@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016DJ9BBU-fr Safavieh Tapis d inspiration Vintage Tissé Polyester Tapis...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 109.52 EUR
 currency: EUR
 price: 109.52

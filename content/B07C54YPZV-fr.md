@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C54YPZV-fr ABUS 8077 2.0 Bloque-Disque Alarme Moto Homologué SRA Noir'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 105.76 EUR
 currency: EUR
 price: 105.76

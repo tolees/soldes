@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNXK1BQ-fr Seiko Horloge SUR271P1'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 119.4 EUR
 currency: EUR
 price: 119.4

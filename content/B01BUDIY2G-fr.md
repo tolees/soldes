@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BUDIY2G-fr Wagner W100 2361508 Pistolet à peinture pour bois/métal'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

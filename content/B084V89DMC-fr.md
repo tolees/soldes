@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084V89DMC-fr Écouteurs sans Fil véritables GT1 Bluetooth 5.0 Sports HD...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

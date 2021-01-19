@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008CBPCMU-fr sloggi Chic Maxi 4P Culotte Femme Lot de 4 Noir BLACK 0004...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 36.76 EUR
 currency: EUR
 price: 36.76

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5R3N1S-fr Bardahl 2002314A Nettoyant Vanne Erg'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

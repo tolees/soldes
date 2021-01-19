@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K86T2RR-fr Poitiers Basket 86 Maillot Officiel Extérieur 2018-2019...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

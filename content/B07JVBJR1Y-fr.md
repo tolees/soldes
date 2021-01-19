@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JVBJR1Y-fr Siemens EQ.9 Plus Connect s500 TI9553X1RW – Machine à café...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1750.0 EUR
 currency: EUR
 price: 1750.0

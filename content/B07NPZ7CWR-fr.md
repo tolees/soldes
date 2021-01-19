@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPZ7CWR-fr Hurley M Advantage Plus 1/1 Jacket Combinaisons De Surf...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

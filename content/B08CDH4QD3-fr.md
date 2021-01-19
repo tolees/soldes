@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDH4QD3-fr BAITITON NVME 512GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

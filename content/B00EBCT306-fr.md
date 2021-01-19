@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00EBCT306-fr Makita Perceuse à percussion Ø 13 Mm 1010 W HP2071FJ'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 172.6 EUR
 currency: EUR
 price: 172.6

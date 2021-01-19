@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKJ8GGH-fr RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.59 EUR
 currency: EUR
 price: 9.59

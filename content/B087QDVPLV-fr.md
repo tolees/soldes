@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QDVPLV-fr ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

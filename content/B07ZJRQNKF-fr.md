@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZJRQNKF-fr Cartable 41 Tann s Les Chinés Teddy Gris / Rouge'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 46.89 EUR
 currency: EUR
 price: 46.89

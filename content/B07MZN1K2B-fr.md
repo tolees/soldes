@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZN1K2B-fr Pepe Jeans London Maddox Ess Bottes Motardes Femme Black...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 94.68 EUR
 currency: EUR
 price: 94.68

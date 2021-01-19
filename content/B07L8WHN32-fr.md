@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8WHN32-fr Replay M1005 .000.573 584 Jean Droit Bleu Medium Blue 9...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 80.98 EUR
 currency: EUR
 price: 80.98

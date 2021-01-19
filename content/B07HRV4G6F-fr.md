@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRV4G6F-fr Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 103.6 EUR
 currency: EUR
 price: 103.6

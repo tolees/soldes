@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MKS74R7-fr Le Tanneur femme Adele Sac bandouliere Rose Poudre'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 117.12 EUR
 currency: EUR
 price: 117.12

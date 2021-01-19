@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FJN12FE-fr Trust Gaming GXT 608 Enceinte PC Gamer 2.0 pour Ordinateur...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

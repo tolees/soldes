@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013EBIJCM-fr Plateau pour Chaise Carrie Tumble Form S2 Junior'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS6B13J-fr TUREWELL T9 Android 9.0 TV Box 2 Go RAM/16 Go ROM Support...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

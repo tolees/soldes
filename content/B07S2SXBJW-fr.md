@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S2SXBJW-fr Levi s 514 Jeans Droits Homme Bleu Dryers Supper Adv 1330...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLRRJNX-fr ECCO Soft 7 Ladies Botines Femme Black Stone Metallic...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 53.05 EUR
 currency: EUR
 price: 53.05

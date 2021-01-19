@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N77C6KY-fr Carte Uhs-I Lexar Professional 633x 512 Go Microsdxc'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

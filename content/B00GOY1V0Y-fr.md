@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GOY1V0Y-fr Singleton of dufftown Réserve Collection Trinité avec...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 45.92 EUR
 currency: EUR
 price: 45.92

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDMJ11X-fr DOMOOVA DBV60 One - Aspirateur Balais Cyclonique'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

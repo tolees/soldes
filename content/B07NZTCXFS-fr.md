@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZTCXFS-fr COLORWAY CX911 Advanced Premium Hover Scooter Board -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 177.65 EUR
 currency: EUR
 price: 177.65

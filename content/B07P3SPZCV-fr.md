@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P3SPZCV-fr Subliminal Mode - Chemise Homme Bicolore uni Manches...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

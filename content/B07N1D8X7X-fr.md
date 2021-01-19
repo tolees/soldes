@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1D8X7X-fr Kipling Youri Spin 55 Luggage 33 L Black Indigo'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 94.26 EUR
 currency: EUR
 price: 94.26

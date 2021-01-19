@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002PCZ1VE-fr Kenwood Hachoir à Viande Electrique MG700 Semi- Pro...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 167.89 EUR
 currency: EUR
 price: 167.89

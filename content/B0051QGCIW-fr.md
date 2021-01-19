@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0051QGCIW-fr Diesel Homme Analogique Quartz Montre avec Bracelet en...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 64.35 EUR
 currency: EUR
 price: 64.35

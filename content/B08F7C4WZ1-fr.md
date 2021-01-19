@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F7C4WZ1-fr REDSTORM Casque Gaming pour PS4 Nintendo Switch Casque...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

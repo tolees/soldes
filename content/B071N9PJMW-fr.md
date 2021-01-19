@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B071N9PJMW-fr Louis Villiers Mixte Adulte Analogique Quartz Montre avec...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 65.56 EUR
 currency: EUR
 price: 65.56

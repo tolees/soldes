@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTKYW71-fr Cressi Homme Apnea Complete 7 mm Freediving/Spearfishing...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 192.16 EUR
 currency: EUR
 price: 192.16

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FXC7JWQ-fr FURBO Dog CAMÉRA: Caméra Wi-FI HD avec Lanceur de...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KMT9SZ5-fr Kaba Cylindre Haute sécurité + Renfort Matrix 30 x 50...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 81.54 EUR
 currency: EUR
 price: 81.54

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRPZYQ8-fr MGA pétillante L.O.L. Surprise Orange avec poupée et...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

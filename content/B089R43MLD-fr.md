@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089R43MLD-fr Colmanda Console de Jeu Console de Jeu Retro FC 3 Pouces...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

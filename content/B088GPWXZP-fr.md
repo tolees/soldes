@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GPWXZP-fr Upworld Kit de Slime Bricolage Kit de Fabrication de Slime...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

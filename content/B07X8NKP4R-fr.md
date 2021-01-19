@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8NKP4R-fr Microsoft Surface Laptop 3 – PC Ultra-Portable écran 13...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 1229.0 EUR
 currency: EUR
 price: 1229.0

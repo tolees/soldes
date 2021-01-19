@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002GOHCOA-fr Tiger KYS21-BK Support pour Clavier réglable - Noir'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.02 EUR
 currency: EUR
 price: 37.02

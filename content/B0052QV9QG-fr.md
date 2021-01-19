@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052QV9QG-fr EL1600USBFR ELLIP ECO 1600 USB'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 259.89 EUR
 currency: EUR
 price: 259.89

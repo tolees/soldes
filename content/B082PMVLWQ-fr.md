@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PMVLWQ-fr OfficeWorld 603 XL Multipack Cartouche d encre compatible...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

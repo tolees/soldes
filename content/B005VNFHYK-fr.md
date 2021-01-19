@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005VNFHYK-fr Thule 962100 Barres de Toit WingBar 962 en Aluminium-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 55.15 EUR
 currency: EUR
 price: 55.15

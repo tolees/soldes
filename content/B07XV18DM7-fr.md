@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XV18DM7-fr SteelSeries Sensei Ten – Souris de gaming – Capteur...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWRH2HD-fr Naturino Falcotto Haley Chaussures de Gymnastique Mixte...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 42.58 EUR
 currency: EUR
 price: 42.58

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MXLLD4R-fr Vanguard Pionner Sac Bandoulière 34 cm 6 L Camouflage'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 47.92 EUR
 currency: EUR
 price: 47.92

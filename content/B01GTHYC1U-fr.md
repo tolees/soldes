@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTHYC1U-fr OH MY BAG Sac porté épaule Cuir porté épaule et main...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 64.9 EUR
 currency: EUR
 price: 64.9

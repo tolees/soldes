@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089S3YJ9X-fr Montre Connectée Femmes Montre Sport Homme 9 Modes Sportif...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

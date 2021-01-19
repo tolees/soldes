@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNSQWPQ-fr RAMPOW Câble USB C vers USB C 100W 2m Câble USB Type C...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00R2D6ELC-fr La Bonne Paye – Jeu de societe familial - Jeu de plateau –...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

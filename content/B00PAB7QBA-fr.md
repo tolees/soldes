@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PAB7QBA-fr Champagne Pommery - Cuvée Louise Millésime 2004 Coffret...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 96.54 EUR
 currency: EUR
 price: 96.54

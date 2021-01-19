@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NF2QKN-fr Wasteland 3 : Day One Edition pour PS4'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

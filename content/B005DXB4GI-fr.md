@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005DXB4GI-fr Geox U Monet Art.V Mocassins Loafers Homme Noir Blackc9999...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 101.12 EUR
 currency: EUR
 price: 101.12

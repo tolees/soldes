@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6XBPL6-fr Eider BROCKWELL JKT W Veste Femme Purple Wild FR : L...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 58.32 EUR
 currency: EUR
 price: 58.32

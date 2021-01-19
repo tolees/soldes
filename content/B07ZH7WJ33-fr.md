@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZH7WJ33-fr OSOYOO Starter Updated Version Kit for Micro:bit Include...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 78.54 EUR
 currency: EUR
 price: 78.54

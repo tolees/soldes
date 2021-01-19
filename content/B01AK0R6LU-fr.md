@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AK0R6LU-fr Razor - 13173861 - Patinette Électronique - E90 Power Core...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

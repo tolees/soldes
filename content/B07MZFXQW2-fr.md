@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZFXQW2-fr PLDM by Palladium Caramba SUD Bottes & Bottines Souples...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 63.89 EUR
 currency: EUR
 price: 63.89

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DP3STGG-fr AutoStyle IA 78040 Ressorts d abaissement pour'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 106.56 EUR
 currency: EUR
 price: 106.56

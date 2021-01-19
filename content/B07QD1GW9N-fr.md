@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QD1GW9N-fr Nike WMNS AIR Max Motion 2 Chaussures de Running Femme...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 62.65 EUR
 currency: EUR
 price: 62.65

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E0L5QRC-fr GROSFILLEX Vega Table Taupe 118 x 77 x 72 cm'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

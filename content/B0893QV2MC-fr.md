@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0893QV2MC-fr Volant de course de jeu Volant à force d entraînement de...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 108.05 EUR
 currency: EUR
 price: 108.05

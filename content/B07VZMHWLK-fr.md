@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZMHWLK-fr Vernee M7 Telephone Portable Débloqués 4Go + 64Go Dual SIM...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 119.98 EUR
 currency: EUR
 price: 119.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP4NFHK-fr Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme Bleu...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 54.47 EUR
 currency: EUR
 price: 54.47

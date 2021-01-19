@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CYW741S-fr Razer Huntsman-Clavier Gaming Mécanique avec Touche Opto-...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 120.22 EUR
 currency: EUR
 price: 120.22

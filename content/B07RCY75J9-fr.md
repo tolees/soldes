@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCY75J9-fr TEFAL Body Partner Pèse Personne Balance Connectée...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

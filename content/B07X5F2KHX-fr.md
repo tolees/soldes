@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X5F2KHX-fr Moulinex Multicuiseur Intelligent Cookeo+ 6L 6 Modes de...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

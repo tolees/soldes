@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZP2YBM-fr Màsséur Électrique Vîbrómasséur Vîbrạnt pour Fémme...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002YEJE0W-fr Claude Dozorme 2.60.001.55 Coffret Hêtre 6 Couteaux Steak...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 137.57 EUR
 currency: EUR
 price: 137.57

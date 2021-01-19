@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P14HHQU-fr Fiat-berg - 24.30.10.00 - Buzzy Fiat 500'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 125.99 EUR
 currency: EUR
 price: 125.99

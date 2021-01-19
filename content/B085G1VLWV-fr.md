@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085G1VLWV-fr BRIKSMAX Kit de LED pour Lego Architecture L’Empire State...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

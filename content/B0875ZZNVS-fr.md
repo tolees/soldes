@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0875ZZNVS-fr EasySMX Manettes Switch Manette pour Nintendo Switch...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

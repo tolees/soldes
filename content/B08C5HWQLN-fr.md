@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C5HWQLN-fr Lecteur DVD pour TV DVD / CD / MP3 / MP4 avec Prise USB...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 28.85 EUR
 currency: EUR
 price: 28.85

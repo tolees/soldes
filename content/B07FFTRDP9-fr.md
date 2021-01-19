@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FFTRDP9-fr LETTAS Siège Auto 360° Pivotant Groupe 0+1/2/3 DE 0 à 36...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 167.99 EUR
 currency: EUR
 price: 167.99

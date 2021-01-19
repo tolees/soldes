@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVN22NC-fr Philips Hue White & Color Ambiance Spot Fugato x2 Noir...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

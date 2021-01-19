@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CIEBU22-fr SanDisk iXpand 32 Go - Clé USB double connectique pour...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 23.29 EUR
 currency: EUR
 price: 23.29

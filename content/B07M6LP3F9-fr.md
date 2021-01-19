@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M6LP3F9-fr 1MORE écouteurs véritables sans fil Bluetooth 5.0 lecture...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 63.87 EUR
 currency: EUR
 price: 63.87

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KFGMGK2-fr Truma 30090-00042 Set d allumage piézo'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.39 EUR
 currency: EUR
 price: 49.39

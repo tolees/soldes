@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0823XYZ9S-fr Britax Römer Siège-auto 9 - 36 kg | ADVANSAFIX Z-LINE |...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 250.99 EUR
 currency: EUR
 price: 250.99

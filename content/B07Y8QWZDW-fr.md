@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y8QWZDW-fr Souris de jeu sans fil Razer Basilisk X Hyperspeed souris...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

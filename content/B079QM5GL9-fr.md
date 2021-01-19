@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079QM5GL9-fr iRobot Roomba 671 Aspirateur Robot pour Tapis et Sols Durs...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

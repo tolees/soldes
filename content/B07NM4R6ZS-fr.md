@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NM4R6ZS-fr AVIC-Z820DAB'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 665.0 EUR
 currency: EUR
 price: 665.0

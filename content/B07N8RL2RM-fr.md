@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8RL2RM-fr Tommy Hilfiger Honey Workbag Cb Sacs bandoulière femme...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 139.06 EUR
 currency: EUR
 price: 139.06

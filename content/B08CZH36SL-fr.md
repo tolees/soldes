@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZH36SL-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD pour PC...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

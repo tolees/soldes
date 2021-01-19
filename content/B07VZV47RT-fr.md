@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZV47RT-fr HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.5 EUR
 currency: EUR
 price: 34.5

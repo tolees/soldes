@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MY6RL6J-fr FOG900-RGB'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 113.15 EUR
 currency: EUR
 price: 113.15

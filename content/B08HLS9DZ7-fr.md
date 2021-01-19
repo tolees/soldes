@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HLS9DZ7-fr Disque Dur Externe 1to USB3.0 Disque Dur Externe pour PC...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

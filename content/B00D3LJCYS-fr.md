@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D3LJCYS-fr Samyang SAM24TSSONY Objectif 24 mm F3.5 pour Sony Noir'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 609.99 EUR
 currency: EUR
 price: 609.99

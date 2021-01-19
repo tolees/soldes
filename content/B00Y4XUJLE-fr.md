@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Y4XUJLE-fr Lacoste PH4014-00 - Polo - Homme Bleu Marine 166 Medium'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

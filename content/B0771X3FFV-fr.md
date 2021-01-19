@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771X3FFV-fr Columbia XO0662 Short Homme Grill FR : 2XL Taille...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

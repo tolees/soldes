@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JW79M7X-fr Sunflair Dark Flower Tankinis Multicolore Nachtblau 30...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036TDF6I-fr De Longhi Magnifica Machine expresso avec broyeur...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 331.77 EUR
 currency: EUR
 price: 331.77

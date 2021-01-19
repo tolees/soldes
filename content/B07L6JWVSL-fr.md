@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6JWVSL-fr Under Armour Coldgear Reactor Performance Hybrid Veste...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 99.62 EUR
 currency: EUR
 price: 99.62

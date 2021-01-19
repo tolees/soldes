@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003DZ13JG-fr Scie sauteuse filaire Bosch - PST 900 PEL 620W livrée avec...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

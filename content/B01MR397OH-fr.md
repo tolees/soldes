@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MR397OH-fr BONTEC Support Ecran PC Double Support Moniteur 2...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

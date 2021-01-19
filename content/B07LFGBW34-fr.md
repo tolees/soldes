@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFGBW34-fr Levi s Slim 2pk Crewneck 1 T-Shirt Multicolore 2 Pack...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

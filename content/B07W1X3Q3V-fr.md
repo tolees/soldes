@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1X3Q3V-fr REVENT HD Blue'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 106.44 EUR
 currency: EUR
 price: 106.44

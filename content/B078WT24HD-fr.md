@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078WT24HD-fr Seb YG660100 Yaourtière Multi Délices Express 6 Pots 600W...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

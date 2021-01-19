@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TZ2PFR-fr Team Kalorik Trancheuse Électrique Molette de Réglage 0-15...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087M3WLY1-fr ERUW LCD Tablette D écriture 8.5 Pouces Ardoise Magique...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

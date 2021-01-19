@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPDCPZ6-fr GANT The Original Full Zip Hoodie Veste Sweat Bleu Evening...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 66.26 EUR
 currency: EUR
 price: 66.26

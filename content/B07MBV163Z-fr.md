@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MBV163Z-fr PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 334.96 EUR
 currency: EUR
 price: 334.96

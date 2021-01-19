@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB9G8PS-fr Love Moschino Portafogli Quilted Nappa Pu Portefeuilles...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 93.71 EUR
 currency: EUR
 price: 93.71

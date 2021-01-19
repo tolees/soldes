@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002TANS0I-fr APC Back-UPS ES - BE700G-FR - Onduleur 700VA 8 Prises FR'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 125.94 EUR
 currency: EUR
 price: 125.94

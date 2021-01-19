@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ81XF5-fr VTech RockIt Twist - Console de jeux éducative pour enfant...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 42.34 EUR
 currency: EUR
 price: 42.34

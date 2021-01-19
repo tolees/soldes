@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076B2NG7K-fr Hugo Boss Homme Analogique Classique Quartz Montre avec...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 199.2 EUR
 currency: EUR
 price: 199.2

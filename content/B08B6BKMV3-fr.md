@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B6BKMV3-fr OUPOD Clavier numérique Bluetooth Pavé Numérique sans Fil...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 18.98 EUR
 currency: EUR
 price: 18.98

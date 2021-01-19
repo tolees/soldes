@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WZT2HZ8-fr Casque Gaming sans Fil Casque Gamer pour PS4 Switch et PC...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PQB4PH2-fr Safavieh Tapis Intérieur et Extérieur Tissé Polypropylène...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 71.21 EUR
 currency: EUR
 price: 71.21

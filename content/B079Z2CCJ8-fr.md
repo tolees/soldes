@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z2CCJ8-fr Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 97.44 EUR
 currency: EUR
 price: 97.44

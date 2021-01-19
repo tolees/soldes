@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXWP7V3-fr Liebeskind Berlin Round Love Note - Belt BagfemmeSacs...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 86.29 EUR
 currency: EUR
 price: 86.29

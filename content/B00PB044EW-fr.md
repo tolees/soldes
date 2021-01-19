@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PB044EW-fr BIC Cristal Fun Stylos-Bille Pointe Large 1 6 mm - Violet...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

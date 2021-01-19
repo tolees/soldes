@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00URK6ZE8-fr Remington IPL6750 Epilateur Lumière Pulsée 300000 Flashs...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

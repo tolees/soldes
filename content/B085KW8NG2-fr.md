@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085KW8NG2-fr TOPERSUN Distributeur Savon Mousse Automatique...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

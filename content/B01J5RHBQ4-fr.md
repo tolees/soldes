@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J5RHBQ4-fr Carte Mémoire SDHC Sandisk Extreme Pro 32 Go jusqu à 95...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

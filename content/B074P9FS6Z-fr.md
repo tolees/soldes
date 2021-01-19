@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P9FS6Z-fr Fitbit Aria 2 Balance Wi-Fi Intelligente Compteur de...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 73.08 EUR
 currency: EUR
 price: 73.08

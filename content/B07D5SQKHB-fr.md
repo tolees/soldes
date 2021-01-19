@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5SQKHB-fr PUMA ESS Logo Leggings Pantalons Femme Cotton Black XS'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

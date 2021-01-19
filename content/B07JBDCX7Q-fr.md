@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JBDCX7Q-fr Zéfal Z Handlebar Mount Support vélo/Moto pour Smartphone...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 19.67 EUR
 currency: EUR
 price: 19.67

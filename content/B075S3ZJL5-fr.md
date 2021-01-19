@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075S3ZJL5-fr GORE WEAR C3 GORE WINDSTOPPER PHANTOM Veste zip-off Veste...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 78.42 EUR
 currency: EUR
 price: 78.42

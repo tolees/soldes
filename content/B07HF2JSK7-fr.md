@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HF2JSK7-fr TIMACO Robinet de cuisine avec douchette à ressort en...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 86.58 EUR
 currency: EUR
 price: 86.58

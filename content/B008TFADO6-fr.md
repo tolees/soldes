@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008TFADO6-fr Legrand 412780 Interrupteur horaire analogique modulaire...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 32.15 EUR
 currency: EUR
 price: 32.15

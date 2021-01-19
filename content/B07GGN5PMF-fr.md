@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GGN5PMF-fr PHYLES Tapis Dessin Enfant Tapis Doodle Matte 87*57cm Aqua...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

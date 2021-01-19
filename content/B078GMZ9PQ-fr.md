@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GMZ9PQ-fr Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 97.32 EUR
 currency: EUR
 price: 97.32

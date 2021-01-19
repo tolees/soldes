@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0788BPG8K-fr Hoopzi - Hang 5 - Suspension Luminaire Avec Cache Douille...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

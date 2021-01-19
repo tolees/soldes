@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TS9FUN6-fr Samyang 50 mm / F 1.4 AS UMC Objectifs'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 289.04 EUR
 currency: EUR
 price: 289.04

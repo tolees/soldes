@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HVSF68X-fr YUCUN Disque Flash 240 Go SSD M.2 2280 PCIe Express...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

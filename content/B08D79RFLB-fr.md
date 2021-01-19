@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D79RFLB-fr ARCHEER Enceinte PC Haut-parleurs PC RGB 10W Multimédia...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

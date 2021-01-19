@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CMDCY5-fr SAMSONITE Orfeo - Spinner 69/25 Bagage cabine 69 cm 72...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 153.0 EUR
 currency: EUR
 price: 153.0

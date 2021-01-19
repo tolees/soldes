@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X1H7W5J-fr Tipmant Montre Connectée Femmes Homme Enfant IP68 Etanche...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000NSIMFE-fr Vans U Old Skool Basses Mixte adulte - Noir Black/White...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

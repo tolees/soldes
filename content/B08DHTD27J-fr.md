@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DHTD27J-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

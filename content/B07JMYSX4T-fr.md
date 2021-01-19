@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMYSX4T-fr Bulova Montres Bracelet 97B172'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 94.87 EUR
 currency: EUR
 price: 94.87

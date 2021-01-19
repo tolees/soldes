@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S22CKX8-fr Love MoschinoJc4003pp1afemmeSacs bandoulièreNoir Nero...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 101.44 EUR
 currency: EUR
 price: 101.44

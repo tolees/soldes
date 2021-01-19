@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1BC7JR-fr LLloyd Goliath Derbys Homme Marron Cognac 3 40.5 EU'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 53.86 EUR
 currency: EUR
 price: 53.86

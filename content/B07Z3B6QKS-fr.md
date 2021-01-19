@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3B6QKS-fr Airoh Helmet Helios Color White Gloss M'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 47.94 EUR
 currency: EUR
 price: 47.94

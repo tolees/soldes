@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DSVGQGZ-fr Philips HD3720/25 PerfectDraft Tireuse à Bière Domestique...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 239.98 EUR
 currency: EUR
 price: 239.98

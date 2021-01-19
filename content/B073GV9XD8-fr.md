@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073GV9XD8-fr SONGMICS Lot de 2 Tabourets de Bar Stool avec Dossier...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 55.4 EUR
 currency: EUR
 price: 55.4

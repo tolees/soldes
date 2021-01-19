@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NC41YPD-fr DELSEY PARIS - SEGUR 2.0 - Valise cabine rigide à double...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

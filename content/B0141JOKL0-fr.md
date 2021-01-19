@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0141JOKL0-fr TP-Link T2600G-18TS Switch administrable niveau 2 avec 16...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

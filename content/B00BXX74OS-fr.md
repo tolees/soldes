@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BXX74OS-fr Thomas 788568 Aspirateur filtre à eau Orange/Gris 1 8 L...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 239.9 EUR
 currency: EUR
 price: 239.9

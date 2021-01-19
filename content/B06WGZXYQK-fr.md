@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGZXYQK-fr Playmobil - 4X4 avec Coffre de Toit - 9281'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

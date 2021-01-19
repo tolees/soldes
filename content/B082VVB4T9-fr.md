@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VVB4T9-fr Mixa BIO - La Crème Visage des Peaux Sensibles - 100 ml'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.41 EUR
 currency: EUR
 price: 4.41

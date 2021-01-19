@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSNNPGN-fr Love Moschino Love Mode Print Short Sleeve T-Shirt White...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 87.2 EUR
 currency: EUR
 price: 87.2

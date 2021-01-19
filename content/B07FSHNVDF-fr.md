@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FSHNVDF-fr Oral-B Genius 10 Midnight Black Brosse À Dents Électrique...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 166.03 EUR
 currency: EUR
 price: 166.03

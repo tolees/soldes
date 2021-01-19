@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFG54FX-fr MOONESS Coque pour Samsung Galaxy A21s Rouge Housse en...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 7.9 EUR
 currency: EUR
 price: 7.9

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J4ZYD9R-fr SANFASHION Solde Sweat Femme avec Capuche Chat Cadeau...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

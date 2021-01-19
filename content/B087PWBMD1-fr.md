@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087PWBMD1-fr Maegoo Manette PC PS3 TV sans Fil 2.4GHz Wireless Manette...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

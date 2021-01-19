@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W7TM7S8-fr LEGO DUPLO Frozen II Le goûter d Elsa et Olaf Grand...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

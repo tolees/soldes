@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073H16ZPL-fr New Classic Toys- Cuisine-Bon Appétit 11053 Blanche/Argent'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

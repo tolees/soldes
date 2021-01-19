@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H6YAJXA-fr SweetLF Rasoir Electrique Homme Rechargeable Tondeuse...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GPKMXW7-fr Pierre Cardin Fieldjacket Airtouch Mit UV-Protect Blouson...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 75.37 EUR
 currency: EUR
 price: 75.37

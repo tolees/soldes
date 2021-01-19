@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYWFVS-fr Clarks Foxwell Hall Derbys Homme Noir Black SDE Black SDE...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 53.12 EUR
 currency: EUR
 price: 53.12

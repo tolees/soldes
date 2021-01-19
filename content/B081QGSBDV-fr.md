@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081QGSBDV-fr Savon Le Naturel - Extra Pur de Marseille à la Fleur d...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07C2TD5PV-fr Bluefin Paddle Board Gonflable 427 cm à Position Debout |...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 559.0 EUR
 currency: EUR
 price: 559.0

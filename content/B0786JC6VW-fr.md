@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0786JC6VW-fr 8Bitdo Adaptateur Bluetooth sans fil pour...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 16.97 EUR
 currency: EUR
 price: 16.97

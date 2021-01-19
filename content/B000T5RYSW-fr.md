@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000T5RYSW-fr Mauviel 270501 Penderie en cuivre orange/jaune 1 cm'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 160.34 EUR
 currency: EUR
 price: 160.34

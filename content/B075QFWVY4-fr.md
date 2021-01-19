@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075QFWVY4-fr Manette Révolution Pro Controller 2 Nacon pour PS4'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

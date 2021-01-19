@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XHLHNHZ-fr Team Kalorik Four Rétro 19.5 Litres avec Pince Plateaux et...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 51.73 EUR
 currency: EUR
 price: 51.73

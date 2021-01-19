@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6HGBZB-fr HAUPTSTADTKOFFER - Alex - Bagage Rigide Valise Grande...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 60.67 EUR
 currency: EUR
 price: 60.67

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002DJB9GA-fr BÉABA Transat Up & Down I Transat Réglable par simple...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

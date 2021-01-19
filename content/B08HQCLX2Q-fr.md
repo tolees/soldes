@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HQCLX2Q-fr eXtremeRate Coque Avant Housse Boîtier de Remplacement...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 13.49 EUR
 currency: EUR
 price: 13.49

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IIOI9FS-fr OMRON M3 Tensiomètre Électronique Compact Détection de...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 52.41 EUR
 currency: EUR
 price: 52.41

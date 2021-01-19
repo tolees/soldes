@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KJOPB6-fr HERMA Rouleau de film adhésif de protection pour livre 3 m...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 4.92 EUR
 currency: EUR
 price: 4.92

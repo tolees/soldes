@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GVHDY66-fr Replay Anbass Jean Slim Bleu Dark Blue 7 W28/L32 Taille...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

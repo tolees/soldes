@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTUCK8S-fr Hercules DJControl Instinct Party Pack Contrôleur DJ USB...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 77.51 EUR
 currency: EUR
 price: 77.51

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G4KSJRM-fr Maegoo Manette Switch Joycon Joycon Switch Pro Manettes...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

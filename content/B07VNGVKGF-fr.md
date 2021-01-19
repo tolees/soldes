@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNGVKGF-fr SanDisk iXpand 128 Go - Clé USB double connectique pour...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 45.46 EUR
 currency: EUR
 price: 45.46

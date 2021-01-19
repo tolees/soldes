@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BFA2C9A-fr Emuca 2036020 Lot de 4 roulettes pivotantes pour Meuble...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 15.47 EUR
 currency: EUR
 price: 15.47

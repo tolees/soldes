@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCPP9ZN-fr Blocs de Construction Magnétiques – Cadeaux de pour Les...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

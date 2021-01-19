@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0893QRY7T-fr SMYTU Coque Xiaomi Redmi Note 9 Goldrose Housse en Cuir...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

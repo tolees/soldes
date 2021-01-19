@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RLCNRT-fr CubicFun Puzzle 3D Harry Potter La Grande Salle du château...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

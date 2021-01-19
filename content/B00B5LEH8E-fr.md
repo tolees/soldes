@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00B5LEH8E-fr Fender Cruz Tools Custom Shop Kit d outillage pour Guitare'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

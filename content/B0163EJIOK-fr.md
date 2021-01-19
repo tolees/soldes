@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0163EJIOK-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 9.43 EUR
 currency: EUR
 price: 9.43

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6CNGF1-fr Manettes pour Switch/Switch Lite Manette sans Fil pour...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

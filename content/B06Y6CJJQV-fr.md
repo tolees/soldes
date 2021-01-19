@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y6CJJQV-fr Rhodia 117744C - carnet souple Rhodiarama Goalbook taupe...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 14.5 EUR
 currency: EUR
 price: 14.5

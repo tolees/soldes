@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPG0WRY-fr Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

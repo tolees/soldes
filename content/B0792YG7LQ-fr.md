@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792YG7LQ-fr Bluefin Fitness Plateforme Vibrante & Oscillante à Doubles...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081LPPV7G-fr Solgaleo-GX SM104A Secrète Gold - #myboost X Sole E Luna...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 28.82 EUR
 currency: EUR
 price: 28.82

@@ -7,7 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VVNC778-fr Brabantia - 115301 - Poubelle Touch Bin Unie New 30 L -...'
-tags: [ tole.es ]
+tags: [ 'tole.es', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99
