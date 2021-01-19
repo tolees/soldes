@@ -26,9 +26,9 @@ Vous avez [Versace Montre pour Hommes Dylos Automatic VAG02 P0016](https://www.a
 
 ℹ️:
 
-- Fabriqué en Suisse
-- Taille (diamètre): 42mm
-- Verre saphir
 - ETA 2814-2 automatique
+- Verre saphir
+- Taille (diamètre): 42mm
+- Fabriqué en Suisse
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LZK2UZ8/?tag=tolees0d-21)
