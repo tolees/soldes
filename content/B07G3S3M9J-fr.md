@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter™ La tour de l’horloge  avec 30.00 % rabais '
-date: 2021-01-17 01:55:30
+date: 2021-01-19 02:01:56
 image: 'https://m.media-amazon.com/images/I/51EqLQG0MKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,7 +16,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21'
 descuento: '30.00'
-average: '75.32171755725189'
+average: '75.28132575757574'
 ---
 
 C'est en vente [LEGO Harry Potter™ La tour de l’horloge de Poudlard 9 Ans et Plus Jouet pour Fille et Garçon  922 Pièces 75948](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  69.99 EUR (original: 99.99 EUR) ici:
@@ -25,10 +25,10 @@ C'est en vente [LEGO Harry Potter™ La tour de l’horloge de Poudlard 9 Ans et
 
 ℹ️:
 
-- Comporte un mécanisme de changement d’horloge pour créer des aventures dans le temps Time-Turner, et une fonction de «danse» pour que le bal de Noël bouge vraiment
-- Toutes les figurines viennent avec des baguettes et leurs costumes de boule de Noël avec une scène comprenant 2 tables glacées, une sculpture glacée constructible et un sapin de Noël
-- Construisez la tour de lhorloge du château de Poudlard LEGO à 3 niveaux avec des lieux emblématiques et 8 figurines extraites des films de Harry Potter
 - Les lieux incluent la salle de classe Défense contre les forces du mal, le bureau de Dumbledore, l’aile de l’hôpital, la salle de bains des préfets et une scène de bal de Noël
+- Comporte un mécanisme de changement d’horloge pour créer des aventures dans le temps Time-Turner, et une fonction de «danse» pour que le bal de Noël bouge vraiment
 - La tour de l’horloge de Poudlard mesure 35 cm de haut, 34 cm de long et 18 cm de large; contient 922 pièces.
+- Construisez la tour de lhorloge du château de Poudlard LEGO à 3 niveaux avec des lieux emblématiques et 8 figurines extraites des films de Harry Potter
+- Toutes les figurines viennent avec des baguettes et leurs costumes de boule de Noël avec une scène comprenant 2 tables glacées, une sculpture glacée constructible et un sapin de Noël
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)

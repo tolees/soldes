@@ -25,8 +25,8 @@ C'est en vente [Razer Thresher Xbox One  Gears of War 5 Edition  - Casque de jeu
 
 ℹ️:
 
-- Commandes sur le casque - Ajustez rapidement le volume du jeu et du chat. Sans fil sans soucis Se connecte directement à votre Xbox One
 - Larges haut-parleurs de 50 mm - Pour un son puissant plus vrai que nature. Jusqu’à 16 heures dautonomie - Avec une simple charge
 - Windows sonic pour un son surround virtuel: Doté de Windows Sonic, le Razer Thresher pour Xbox One vous fournit la dernière technologie de Microsoft en matière de son surround
+- Commandes sur le casque - Ajustez rapidement le volume du jeu et du chat. Sans fil sans soucis Se connecte directement à votre Xbox One
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W4KF9WJ/?tag=tolees0d-21)

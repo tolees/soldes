@@ -25,10 +25,10 @@ C'est en vente [Sikagard Protection Sol MAT  Hydrofuge  Imperméabilisant effet 
 
 ℹ️:
 
-- Produit IMPERMEABILISANT et ANTI-TACHES pour sol à ☑️ EFFET MAT, prêt à l’emploi
-- Liquide blanc qui devient INCOLORE et MAT après séchage.
-- Sapplique en 1 seule couche au rouleau ou à la brosse en EXTERIEUR.
-- CONSOMMATION: Bidon de 20L (quantité suffisante pour 100m²).
 - ☑️Utilisation sur de nombreux SUPPORTS POREUX tels que les sols bruts en ciment (teinté ou pas), les dalles béton, les pierres naturelles poreuses ou reconstituées, les pavés autobloquants et les blocs.
+- Liquide blanc qui devient INCOLORE et MAT après séchage.
+- CONSOMMATION: Bidon de 20L (quantité suffisante pour 100m²).
+- Produit IMPERMEABILISANT et ANTI-TACHES pour sol à ☑️ EFFET MAT, prêt à l’emploi
+- Sapplique en 1 seule couche au rouleau ou à la brosse en EXTERIEUR.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01D1OS3YG/?tag=tolees0d-21)
