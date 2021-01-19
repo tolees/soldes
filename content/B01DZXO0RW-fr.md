@@ -25,11 +25,11 @@ Vous avez [Ibiza PORT8UHF-BT Enceinte Portable 400 W Noire avec micros professio
 
 ℹ️:
 
-- Fonction Bluetooth
-- Les appareils sont compatibles avec les lecteurs MP3, les lecteurs CD ou les équipements avec sortie ligne, également avec PEN USB contenant des fichiers MP3 et avec les appareils externes avec Bluetooth
-- Avec une télécommande et une housse de transport
 - 1 micro main sans fil UHF + 1 micro filaire
+- Fonction Bluetooth
+- Avec une télécommande et une housse de transport
 - Lecteur USB & SD-card
 - Entrées MICRO, LIGNE et MP3 (smartphone et tablette)
+- Les appareils sont compatibles avec les lecteurs MP3, les lecteurs CD ou les équipements avec sortie ligne, également avec PEN USB contenant des fichiers MP3 et avec les appareils externes avec Bluetooth
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DZXO0RW/?tag=tolees0d-21)
