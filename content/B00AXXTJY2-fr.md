@@ -27,7 +27,7 @@ Vous avez [Forêts à Métaux Rectifiés HSS-Co DIN 338  200mm x 115mm x 58mm  L
 ℹ️:
 
 - Alliage de cobalt et foret en acier rapide (HSS) pour une résistance à l’usure et une protection contre la chaleur
-- Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
 - Foret hélicoïdal HSS avec cobalt garantissant des performances durables lors du perçage dans l’acier inoxydable
+- Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00AXXTJY2/?tag=tolees0d-21)

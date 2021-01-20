@@ -27,9 +27,9 @@ C'est en vente [Rehausseur pour borne de Jeu d arcade](https://www.amazon.fr/dp/
 ℹ️:
 
 - Montage facile, à faire soi-même
+- Le rehausseur permet de jouer aux jeux d’arcades en position debout plus confortablement
 - Rehausseur adapté aux bornes de jeux darcades 1 UP
 - Dimensions du produit monté : 49x59x30,5 cm
-- Le rehausseur permet de jouer aux jeux d’arcades en position debout plus confortablement
 - Borne d’arcade vendue séparément
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G1XWK15/?tag=tolees0d-21)
