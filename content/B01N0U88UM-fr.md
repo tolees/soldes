@@ -26,10 +26,10 @@ Vous avez [UMBRA Buddy chess. Echiquier Buddy  en bois naturel et métal. Dimens
 
 ℹ️:
 
-- Échiquier qui allie design, décoration et fonctionnalité, car les pièces se rangent toutes dans un écrin en mousse sous la plaque avec des compartiments moulés pour les 32 pièces.
-- Conçu par les designers Wesley Chau et Alan Wisniewski pour Umbra.
-- Boîte fabriquée en bois de frêne et couvercle de léchiquier en métal
-- À propos dUmbra: Une entreprise mondiale de conception d’articles de décoration offrant un design original, moderne, décontracté, fonctionnel et abordable pour toute la maison.
 - Les pièces déchecs sont fabriquées en métal coloris titane et nickel, avec une finition douce et une base de velourss, pour un déplacement totalement silencieux et agréable sur léchiquier en métal.
+- Conçu par les designers Wesley Chau et Alan Wisniewski pour Umbra.
+- Échiquier qui allie design, décoration et fonctionnalité, car les pièces se rangent toutes dans un écrin en mousse sous la plaque avec des compartiments moulés pour les 32 pièces.
+- À propos dUmbra: Une entreprise mondiale de conception d’articles de décoration offrant un design original, moderne, décontracté, fonctionnel et abordable pour toute la maison.
+- Boîte fabriquée en bois de frêne et couvercle de léchiquier en métal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N0U88UM/?tag=tolees0d-21)

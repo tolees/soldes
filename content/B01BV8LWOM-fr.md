@@ -26,10 +26,10 @@ Vous avez [Datamax O Neil MP-Series Nova 4](https://www.amazon.fr/dp/B01BV8LWOM/
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Résolution maximale: 203 x 203 DPI. Interfaces standards: USB. Épaisseur du support: 0.58 - 0.18
-- MP-Series. Technologie dimpression: Thermique directe
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Datamax ONeil NOVA 4
+- Résolution maximale: 203 x 203 DPI. Interfaces standards: USB. Épaisseur du support: 0.58 - 0.18
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- MP-Series. Technologie dimpression: Thermique directe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BV8LWOM/?tag=tolees0d-21)
