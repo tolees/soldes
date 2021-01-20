@@ -26,13 +26,13 @@ C'est en vente [Netatmo Anémomètre connecté sans-fil pour la Station Météo 
 
 ℹ️:
 
-- Direction du vent: 5° | Vitesse du vent jusquà 215 km/h
 - Installez-le à l’extérieur, jusqu’à 100 mètres du module intérieur de la Station Météo
-- Améliorez votre quotidien en l’adaptant aux conditions de vent
-- NETATMO ASSISTANCE : si vous avez besoin d’aide pour installer/utiliser votre produit, rendez-vous sur notre assistance helpcenter.netatmo.com/fr, ou écrivez-nous à: contact-amazon@netatmo.com
-- Visualisez votre historique pour suivre l’évolution du vent dans le temps
-- Accédez à la vitesse et à la direction du vent en temps réel sur votre smartphone
-- Accessoire de la Station Météo Intelligente Netatmo (vendue séparément)
 - Soyez alerté(e) sur votre smartphone lorsque le vent se lève
+- Visualisez votre historique pour suivre l’évolution du vent dans le temps
+- Accessoire de la Station Météo Intelligente Netatmo (vendue séparément)
+- NETATMO ASSISTANCE : si vous avez besoin d’aide pour installer/utiliser votre produit, rendez-vous sur notre assistance helpcenter.netatmo.com/fr, ou écrivez-nous à: contact-amazon@netatmo.com
+- Améliorez votre quotidien en l’adaptant aux conditions de vent
+- Direction du vent: 5° | Vitesse du vent jusquà 215 km/h
+- Accédez à la vitesse et à la direction du vent en temps réel sur votre smartphone
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B016OHME1A/?tag=tolees0d-21)
