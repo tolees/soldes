@@ -26,9 +26,9 @@ C'est en vente [TORA MAGIC Asrah Moderne](https://www.amazon.fr/dp/B072N9DRHL/?t
 
 ℹ️:
 
+- Pour voir la vidéo démo, recopiez 8yIv_k0qqr0 dans la barre de recherche de Youtube
 - Dimension de lAsrah : 157 x 44 cm.
 - Lévitation totale
 - Livré complet avec tissu et ceinture spéciale
-- Pour voir la vidéo démo, recopiez 8yIv_k0qqr0 dans la barre de recherche de Youtube
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B072N9DRHL/?tag=tolees0d-21)

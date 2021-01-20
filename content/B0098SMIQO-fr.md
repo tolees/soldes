@@ -26,10 +26,10 @@ Vous avez [Peerless DS-VW665 - Montage Mural pour écran Plasma/LCD - revêtemen
 
 ℹ️:
 
-- Distance du mur (max): 9,8 cm
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Taille décran minimum compatible: 101,6 cm (40")
 - Taille maximum décran compatible: 165,1 cm (65")
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Distance du mur (max): 9,8 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0098SMIQO/?tag=tolees0d-21)

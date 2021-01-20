@@ -28,8 +28,8 @@ Vous avez [Pearls & Colors - Collier Véritables Perles de Culture RONDES AKOYA 
 
 - Poids en Or Jaune 750 Millièmes: 0,75g
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Perles de Culture Akoya Japonaises de qualité AA+ : 6,5-7 mm
 - Rang de Véritables Perles de Culture AKOYA JAPONAISE Certifiées Rondes 6,5-7 mm - LUSTRE Excellent / ORIENT Blanc Rosé - Fermoir ANNEAU BOUEE Diamètre 8 mm - Or Jaune 750 Millièmes (18 Carats) - Longueur 42 cm - Enfilage à nœuds traditionnel sur fil
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Perles de Culture Akoya Japonaises de qualité AA+ : 6,5-7 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07C5SZJW6/?tag=tolees0d-21)
