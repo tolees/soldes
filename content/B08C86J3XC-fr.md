@@ -26,8 +26,8 @@ C'est en vente [Neuhaus Coffret Cadeau Bleu Festif Chocolat 860 g](https://www.a
 
 ℹ️:
 
-- Coffret cadeau bleu festif avec un assortiment de 62 pralines au chocolat noir, au lait et blanc
-- Un coffret cadeau bleu festif à l’ouverture coulissante qui révèle 2 étages contenant chacun 31 de nos pralines les plus intemporelles spécialement sélectionnées par nos Maîtres Chocolatiers
 - La sélection idéale pour bien entamer ou terminer un délicieux repas de fête
+- Un coffret cadeau bleu festif à l’ouverture coulissante qui révèle 2 étages contenant chacun 31 de nos pralines les plus intemporelles spécialement sélectionnées par nos Maîtres Chocolatiers
+- Coffret cadeau bleu festif avec un assortiment de 62 pralines au chocolat noir, au lait et blanc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C86J3XC/?tag=tolees0d-21)

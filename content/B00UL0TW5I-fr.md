@@ -26,10 +26,10 @@ C'est en vente [NOCO Genius G750EU 6V/12V 75 Ampères Chargeur de Batterie Intel
 
 ℹ️:
 
-- Recharge en toute sécurité les batteries des voitures, bateaux, véhicules de sport et de loisir, équipements de jardinage, ainsi que les batteries AGM et deep-cycle.
 - Conception ultra-sécurisée avec technologie anti-étincelles et protection contre l’inversion de la polarité et la surtension. Tension d’entrée AC: 220-240 VAC, 50-60Hz
+- Recharge en toute sécurité les batteries des voitures, bateaux, véhicules de sport et de loisir, équipements de jardinage, ainsi que les batteries AGM et deep-cycle.
+- Contrôle activement l’état des batteries et répare les batteries déchargées et sulfatées afin d’accroître leur durée de vie
 - Chargeur et mainteneur de batterie 6 volts et 12 volts pour batteries plomb-acide jusqu’à 30 ampères-heures
 - Rechargez une moto, une motoneige, un quad, une embarcation personnelle, une tondeuse et bien d’autres, ou entretenez simplement tous les types de véhicules
-- Contrôle activement l’état des batteries et répare les batteries déchargées et sulfatées afin d’accroître leur durée de vie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00UL0TW5I/?tag=tolees0d-21)
