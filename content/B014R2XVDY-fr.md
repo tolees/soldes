@@ -26,13 +26,13 @@ Vous avez [Sony MDR-XB50APW Ecouteurs Intra-auriculaires Extra Bass avec Microph
 
 ℹ️:
 
-- Garantie fabricant : 1 an
-- Diaphragmes en néodyme de 12 mm pour un son puissant et équilibré
 - Design léger garantissant une mobilité musicale de haute qualité
+- Diaphragmes en néodyme de 12 mm pour un son puissant et équilibré
+- Large choix de coloris pour adapter le produit à votre style
+- Garantie fabricant : 1 an
+- Longueur du cordon : 1,2 m
 - Technologie X-Bass pour un son digne dune discothèque
 - Smartphone compatible avec télécommande / microphone sur cordon
-- Longueur du cordon : 1,2 m
 - Réponse en fréquence : 4 - 24 000Hz
-- Large choix de coloris pour adapter le produit à votre style
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014R2XVDY/?tag=tolees0d-21)

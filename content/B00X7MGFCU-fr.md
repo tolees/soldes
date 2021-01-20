@@ -26,7 +26,7 @@ C'est en vente [Reebok Classic Leather  Sneakers basses homme - Blanc  White/Gum
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc et semelle intérieure en polyuréthane moulé
 - La chaussure a une semelle intermédiaire en EVA découpée et un logo Reebok en gris
+- Semelle extérieure en caoutchouc et semelle intérieure en polyuréthane moulé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00X7MGFCU/?tag=tolees0d-21)
