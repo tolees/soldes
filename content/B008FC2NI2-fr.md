@@ -27,10 +27,10 @@ Vous avez [Jeujura - 8860-Tableau en Bois-Bureau d  Ecolier en Bois](https://www
 ℹ️:
 
 - Dimensions du produit : hauteur : 50 cm – 57 x 52 cm (hauteur de l’assise 26 cm)
-- Avec un coffre de rangement et une ardoise réversible : une face pour écrire craie et une face blanche pour feutre effaçable à sec
-- Fabrication Française
 - Fonctionne sans pile
-- Age minimum : 3 ans
+- Fabrication Française
 - Comme à lécole, Bureau dEcolier en Bois teinté
+- Avec un coffre de rangement et une ardoise réversible : une face pour écrire craie et une face blanche pour feutre effaçable à sec
+- Age minimum : 3 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008FC2NI2/?tag=tolees0d-21)

@@ -26,14 +26,14 @@ C'est en vente [Tefal Ingenio Authentic Set de 3 Casseroles 16/18/20 cm  1 5/2 1
 
 ℹ️:
 
-- Garanti sans PFOA et sans cadmium* ; *Contrôles plus stricts que ceux exigés par la réglementation en vigueur sur le contact alimentaire. Sans plomb ni cadmium signifie sans addition intentionnelle de plomb et cadmium dans les revêtements. Pas de migration à une concentration de 0,005 mg/kg)
-- Fabriqué en France par Tefal, N°1 mondial des articles culinaires* ; *Source : Euromonitor International Limited; édition Home and Garden 2019, valeur de la marque en magasin (RSP), données 2018
 - Compatible tous feux dont induction + four
-- Le revêtement anti-adhésif Mineralia + dure jusquà 32000 cycles dutilisation (8 ans)
-- Facile à nettoyer et compatible lave-vaisselle (sauf la poignée)
-- Poignée 100% sûre grace à son système de 3 points de fixation ; supporte jusquà 10 kg
-- De la plaque de cuisson au four, sur la table, dans le réfrigérateur, les produits Ingenio sont polyvalents mais aussi empilables pour un rangement optimal et un gain de place dans vos placards
-- Produit recyclable
+- Garanti sans PFOA et sans cadmium* ; *Contrôles plus stricts que ceux exigés par la réglementation en vigueur sur le contact alimentaire. Sans plomb ni cadmium signifie sans addition intentionnelle de plomb et cadmium dans les revêtements. Pas de migration à une concentration de 0,005 mg/kg)
 - Indicateur de température Thermo-Spot de Tefal
+- Fabriqué en France par Tefal, N°1 mondial des articles culinaires* ; *Source : Euromonitor International Limited; édition Home and Garden 2019, valeur de la marque en magasin (RSP), données 2018
+- Facile à nettoyer et compatible lave-vaisselle (sauf la poignée)
+- Produit recyclable
+- Poignée 100% sûre grace à son système de 3 points de fixation ; supporte jusquà 10 kg
+- Le revêtement anti-adhésif Mineralia + dure jusquà 32000 cycles dutilisation (8 ans)
+- De la plaque de cuisson au four, sur la table, dans le réfrigérateur, les produits Ingenio sont polyvalents mais aussi empilables pour un rangement optimal et un gain de place dans vos placards
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074WC9DSF/?tag=tolees0d-21)
