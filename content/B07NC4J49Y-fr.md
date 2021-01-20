@@ -26,9 +26,9 @@ C'est en vente [DELSEY PARIS - SEGUR 2.0 - Valise rigide à double roues et serr
 
 ℹ️:
 
-- Fonctionnalités extérieures: ouverture zippée avec zip securitech et curseurs bouche bouche, poignées haute et côté, doubles roues, serrure à combinaison intégrée TSA, système télescopique multi positions
 - Avec sa doublure amovible et lavable en machine à 30°, la collection SEGUR 2, 0 de DELSEY sadresse aux voyageurs souhaitant une valise rigide innovante et fonctionnelle. Des bagages résistants pour tous vos déplacements !
 - Fonctionnalités intérieures: 1 compartiment mesh zippé, 1 poche zippée, sangles ajustables dans compartiment principal, doublure amovible et lavable
+- Fonctionnalités extérieures: ouverture zippée avec zip securitech et curseurs bouche bouche, poignées haute et côté, doubles roues, serrure à combinaison intégrée TSA, système télescopique multi positions
 - 26 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
