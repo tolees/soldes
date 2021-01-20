@@ -26,10 +26,10 @@ C'est en vente [Trust Gaming GXT 960 Graphin Souris Gamer Ultra-Légère avec É
 
 ℹ️:
 
+- Câble tressé zéro traction pour des mouvements en souplesse
 - Éclairage RVB personnalisable, également avec effet rythme cardiaque et arc-en-ciel
 - Comprend 2 boutons de pouce faciles à atteindre. Patins de glissement à frottement extrêmement faible
 - Coque alvéolée légère de 74 grammes pour une réponse rapide de la souris. Capteur optique de haute précision jusqu’à 10 000 ppp
-- Câble tressé zéro traction pour des mouvements en souplesse
 - Fréquence d’échantillonnage réglable jusqu’à 1000 Hz pour un contrôle très réactif
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C7VF11G/?tag=tolees0d-21)
