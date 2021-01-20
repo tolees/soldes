@@ -26,10 +26,10 @@ C'est en vente [Panasonic Eh-Na65-K825 Sèche-Cheveux Avec Diffuseur | Nanoe  Te
 
 ℹ️:
 
-- Protège contre le dessèchement du brushing
 - 3 vitesses, 3 températures, touche air froid, 3 embouts: diffuseur, concentrateur, séchage rapide
-- Sublime la brillance
 - Laisse les cheveux doux et soyeux
+- Protège contre le dessèchement du brushing
+- Sublime la brillance
 - Technologie Nanoe : pour une chevelure douce et brillante, grâce à lassociation des ions négatifs et de micro-gouttelettes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00GJOQE9W/?tag=tolees0d-21)

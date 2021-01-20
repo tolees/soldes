@@ -26,8 +26,8 @@ C'est en vente [Chaussures de sécurité "S1" Taille 41](https://www.amazon.fr/d
 
 ℹ️:
 
-- Semelle extérieure résistante au contact chaud
 - Antidérapant sur les surfaces en céramique
 - Semelle antistatique
+- Semelle extérieure résistante au contact chaud
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01AALEIGU/?tag=tolees0d-21)

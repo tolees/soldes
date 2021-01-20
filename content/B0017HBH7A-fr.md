@@ -26,10 +26,10 @@ C'est en vente [Alba - Porte Manteau - PMFESTY N - Métal et Plastique - Coloris
 
 ℹ️:
 
-- GRANDE CAPACITE : son porte parapluie peut accueillir jusqu’à 6 Parapluies et socle de rétention deau
-- QUALITE: Création française. Un design explosif et mis au goût du jour !
-- STABILITE: Base lestée (5kg) qui garantie une parfaite stabilité et un nettoyage facile
 - GRANDE CAPACITE: Ses 5 patères-galets en plastique permettent une grande capacité daccroche et garantissent le respect des vêtements.
+- STABILITE: Base lestée (5kg) qui garantie une parfaite stabilité et un nettoyage facile
+- GRANDE CAPACITE : son porte parapluie peut accueillir jusqu’à 6 Parapluies et socle de rétention deau
 - FACILE A MONTER: Montage rapide, facile, et sans outils
+- QUALITE: Création française. Un design explosif et mis au goût du jour !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0017HBH7A/?tag=tolees0d-21)
