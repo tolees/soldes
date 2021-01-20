@@ -27,11 +27,11 @@ C'est en vente [Netatmo Pluviomètre connecté sans-fil pour la Station Météo 
 ℹ️:
 
 - Le Pluviomètre Netatmo fonctionne uniquement avec la Station Météo Netatmo vendue séparément
-- Accessoire de la Station Météo Intelligente Netatmo (vendue séparément)
+- Maximum 1 Pluviomètre par Station Météo Netatmo
 - Adaptez votre arrosage en fonction des données de votre Pluviomètre Netatmo
 - Accédez à toutes vos données sur votre smartphone, tablette ou ordinateur
-- Recevez des notifications sur votre smatphone quand il pleut
-- Maximum 1 Pluviomètre par Station Météo Netatmo
 - Mesurez précisément la quantité de précipitations tombée dans votre jardin. Type de signal: WLAN
+- Accessoire de la Station Météo Intelligente Netatmo (vendue séparément)
+- Recevez des notifications sur votre smatphone quand il pleut
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00J5OHDGG/?tag=tolees0d-21)
