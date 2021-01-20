@@ -26,9 +26,9 @@ Vous avez [Betafence réseau Casanet volier](https://www.amazon.fr/dp/B00FEPPU10
 
 ℹ️:
 
+- cm. 150
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 12,5 x 12,5 F.0,90
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- cm. 150
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FEPPU10/?tag=tolees0d-21)

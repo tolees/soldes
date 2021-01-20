@@ -27,9 +27,9 @@ C'est en vente [Love Radius PhysioCarrier - Porte-Bébé - Simili Cuir Eléphant
 ℹ️:
 
 - Rajout dune sangle dorsale de sécurité (Juillet2018) pour la mise au dos ( si cette sangle nest pas presente, veuillez en faire la demande au fournisseur JPMBB
-- Ceinture et larges bretelles confortables et respirâtes
-- Miroir pour regarder bébé porté au dos
-- Thermo-ventilation 4 saisons : ouverture par zip
 - Assise physiologique du bébé dès la naissance avec le pack dextension Booster* (*En option : rehausseur et cale-tête)
+- Thermo-ventilation 4 saisons : ouverture par zip
+- Miroir pour regarder bébé porté au dos
+- Ceinture et larges bretelles confortables et respirâtes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B015KJKOYM/?tag=tolees0d-21)
