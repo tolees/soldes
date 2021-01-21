@@ -27,10 +27,10 @@ Vous avez [RephiDuo U Pack T2   remplacement pour QGARDT2X1 ](https://www.amazon
 
 ℹ️:
 
-- Q-Gard T2 pour Millipore Milli-Q-Advantage et Milli-Q Reference Systémes
 - Convient aux systèmes de purification deau Millipore
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Q-Gard T2 pour Millipore Milli-Q-Advantage et Milli-Q Reference Systémes
 - Ce produit peut être attribuée à ioniques et les impuretés organiques vers le bas pour supprimer les niveaux de RO ou leau distillée pure.
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MS3RC4U/?tag=tolees0d-21)
