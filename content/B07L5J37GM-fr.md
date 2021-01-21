@@ -27,11 +27,11 @@ C'est en vente [VISIOPHONE - Effet Miroir](https://www.amazon.fr/dp/B07L5J37GM/?
 
 ℹ️:
 
-- Avec sa fonction monitoring, surveillez votre entrée en toute discrétion
-- Installation simple et rapide sur 2 fils entre le moniteur et la platine de rue
+- Avec vision nocturne
 - Visiophone avec large écran de 18cm
 - Commandez une gâche/serrure électrique ET un automatisme de portail
+- Avec sa fonction monitoring, surveillez votre entrée en toute discrétion
 - 9 sonneries
-- Avec vision nocturne
+- Installation simple et rapide sur 2 fils entre le moniteur et la platine de rue
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L5J37GM/?tag=tolees0d-21)

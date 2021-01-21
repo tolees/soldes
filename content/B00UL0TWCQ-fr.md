@@ -27,10 +27,10 @@ Vous avez [NOCO Genius G15000EU 12V / 24V 15 Ampères Chargeur de Batterie Intel
 
 ℹ️:
 
-- Conception ultra-sécurisée avec technologie anti-étincelles et protection contre l’inversion de la polarité et la surtension. Tension d’entrée AC: 220-240 VAC, 50-60Hz
-- Chargeur et mainteneur de batterie 12 volts et 24 volts pour batteries plomb-acide jusqu’à 500 ampères-heures
-- Recharge en toute sécurité les batteries des voitures, bateaux, véhicules de sport et de loisir, équipements de jardinage, ainsi que les batteries AGM et deep-cycle.
-- Rechargez une moto, une motoneige, un quad, une embarcation personnelle, une tondeuse et bien d’autres, ou entretenez simplement tous les types de véhicules
 - Contrôle activement l’état des batteries et répare les batteries déchargées et sulfatées afin d’accroître leur durée de vie
+- Recharge en toute sécurité les batteries des voitures, bateaux, véhicules de sport et de loisir, équipements de jardinage, ainsi que les batteries AGM et deep-cycle.
+- Chargeur et mainteneur de batterie 12 volts et 24 volts pour batteries plomb-acide jusqu’à 500 ampères-heures
+- Rechargez une moto, une motoneige, un quad, une embarcation personnelle, une tondeuse et bien d’autres, ou entretenez simplement tous les types de véhicules
+- Conception ultra-sécurisée avec technologie anti-étincelles et protection contre l’inversion de la polarité et la surtension. Tension d’entrée AC: 220-240 VAC, 50-60Hz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UL0TWCQ/?tag=tolees0d-21)
