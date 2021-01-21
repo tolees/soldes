@@ -27,10 +27,10 @@ Vous avez [SKB 3SKB-X2424-22 Roto-X Etui de transport universel 609 x 609 x 558 
 
 ℹ️:
 
+- Peut intégrer un kit de roulettes optionnel
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Loquets à cadenas encastrés
-- Empilable
-- Peut intégrer un kit de roulettes optionnel
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Empilable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000Z2K8HS/?tag=tolees0d-21)
