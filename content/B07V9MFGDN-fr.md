@@ -27,10 +27,10 @@ C'est en vente [Eider Wax 1/2 Zip W Polaire Femme  Dark Night  FR  Taille Fabric
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Très bonne respirabilité et transfert dhumidité
 - Demi-ouverture zippée, grande ouverture pour plus de confort
 - Matière confortable, extensible 4 sens
+- Très bonne respirabilité et transfert dhumidité
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V9MFGDN/?tag=tolees0d-21)

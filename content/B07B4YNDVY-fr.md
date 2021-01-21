@@ -30,7 +30,7 @@ Vous avez [360 Lace Closure Frontal Brésilien Hair Avec 3 Bundles Straigt Tissa
 - Cheveux bruts, Sans produits chimiques, Sans odeur, Pas synthétisé ; Peuvent être teints, blanchis, frisés, défrisés et changé en un autre style , peuvent maintenir le pattern après le lavage.
 - Couleur naturelle ; chaque paquet est de 100g, 3pcs/lot, 100g/pièce, 300g en total.
 - Kafjiuji a été enregistré en France par nous, nous navons pas autorisé dautres vendeurs à vendre nos produits. Privilège d’Amazon, 1 à 3 jours pour l’arrivée ; Pas de raison de routour et de remboursement dans 30 jours.
-- En trame façonnée doublement, Sans chute, 100% de cheveux humains,Serrés et soignés.
 - Epaisseur le plus sain, Pas sec, Sans enroulement, Pas fourchu, Très doux, Soyeux, Lisse, Brillant.
+- En trame façonnée doublement, Sans chute, 100% de cheveux humains,Serrés et soignés.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B4YNDVY/?tag=tolees0d-21)
