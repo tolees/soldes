@@ -28,8 +28,8 @@ C'est en vente [Lacoste Chaymon BL 1 CMA  Baskets Hommes  Bleu  Navy/White   40.
 ℹ️:
 
 - Crocodile métallisé
-- Lignes épurées et détails ton sur ton pour une touche d’élégance supplémentaire
 - Semelle extérieure en caoutchouc
 - Dessus en cuir et synthétique
+- Lignes épurées et détails ton sur ton pour une touche d’élégance supplémentaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DHTPN5B/?tag=tolees0d-21)
