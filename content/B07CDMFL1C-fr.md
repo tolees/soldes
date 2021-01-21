@@ -27,11 +27,11 @@ C'est en vente [Gigaset CL660A Duo - Téléphone fixe sans fil - Répondeur - 2 
 
 ℹ️:
 
-- Répondeur avec capacité denregistrement 55 minutes max
-- Finitions haut de gamme
-- Bloquer jusquà 15 numéros avec la fonction liste noire
-- Conçu et fabriqué en allemagne
-- Ecran couleur rétroéclairé 2, 4 avec interface moderne
 - Répertoire jusquà 400 contacts
+- Répondeur avec capacité denregistrement 55 minutes max
+- Ecran couleur rétroéclairé 2, 4 avec interface moderne
+- Conçu et fabriqué en allemagne
+- Bloquer jusquà 15 numéros avec la fonction liste noire
+- Finitions haut de gamme
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CDMFL1C/?tag=tolees0d-21)
