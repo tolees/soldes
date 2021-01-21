@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLRRJNX-fr ECCO Soft 7 Ladies Botines Femme Black Stone Metallic...'
+sku: 'B07CLRRJNX-fr'
 tags: [  ]
 actualPrice: 53.05 EUR
 currency: EUR

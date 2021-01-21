@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QKGWN2Y-fr Kimberfeel RACE Chaussure de Trail running pour Homme de...'
+sku: 'B07QKGWN2Y-fr'
 tags: [  ]
 actualPrice: 45.94 EUR
 currency: EUR

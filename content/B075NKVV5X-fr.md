@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075NKVV5X-fr Rotary Montres Bracelet GB08300/01'
+sku: 'B075NKVV5X-fr'
 tags: [  ]
 actualPrice: 100.47 EUR
 currency: EUR

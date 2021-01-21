@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LS9HHVW-fr K-Way K004BD0 - veste imperméable - Homme - Noir Black -...'
+sku: 'B00LS9HHVW-fr'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

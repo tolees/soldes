@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015X7NKL0-fr Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent...'
+sku: 'B015X7NKL0-fr'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

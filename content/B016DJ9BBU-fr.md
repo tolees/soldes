@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016DJ9BBU-fr Safavieh Tapis d inspiration Vintage Tissé Polyester Tapis...'
+sku: 'B016DJ9BBU-fr'
 tags: [  ]
 actualPrice: 109.52 EUR
 currency: EUR

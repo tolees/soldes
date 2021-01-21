@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ28JBW-fr Disque Dur Externe 2to Disque Dur Externe USB3.0-2.5’’...'
+sku: 'B08DJ28JBW-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

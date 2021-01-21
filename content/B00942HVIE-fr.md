@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00942HVIE-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert...'
+sku: 'B00942HVIE-fr'
 tags: [  ]
 actualPrice: 95.2 EUR
 currency: EUR

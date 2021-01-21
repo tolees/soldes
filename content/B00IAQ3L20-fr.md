@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IAQ3L20-fr Sony MDR-HW700DS Casque TV sans fil avec son Numérique...'
+sku: 'B00IAQ3L20-fr'
 tags: [  ]
 actualPrice: 271.99 EUR
 currency: EUR

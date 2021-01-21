@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JHX2N3F-fr Ruban LED REDSTORM Bande LED TV Rétroéclairage Lumière...'
+sku: 'B08JHX2N3F-fr'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

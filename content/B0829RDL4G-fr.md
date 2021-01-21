@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829RDL4G-fr PITAYA Adaptateur Bluetooth 5.0 Émetteur et Récepteur...'
+sku: 'B0829RDL4G-fr'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

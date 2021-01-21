@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RDQJFJS-fr Slendertone Biceps et Triceps Brassards H/F tonifiants...'
+sku: 'B07RDQJFJS-fr'
 tags: [  ]
 actualPrice: 68.63 EUR
 currency: EUR

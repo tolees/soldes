@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF9H8DT-fr Rolimate Jeu de Grenouille interactif Marteler des Jouets...'
+sku: 'B07ZF9H8DT-fr'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

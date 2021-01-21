@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VLVEAHQ-fr Playmobil - 5303 - Maison Traditionnelle'
+sku: 'B00VLVEAHQ-fr'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

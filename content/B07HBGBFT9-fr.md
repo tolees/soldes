@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HBGBFT9-fr SteelSeries Arctis 3 Console - Casque de Jeu Filaire...'
+sku: 'B07HBGBFT9-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

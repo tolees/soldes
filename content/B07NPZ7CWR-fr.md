@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPZ7CWR-fr Hurley M Advantage Plus 1/1 Jacket Combinaisons De Surf...'
+sku: 'B07NPZ7CWR-fr'
 tags: [  ]
 actualPrice: 54.44 EUR
 currency: EUR

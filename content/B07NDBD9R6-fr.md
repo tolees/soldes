@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDBD9R6-fr NETGEAR Routeur WiFi intelligent Nighthawk R6700-100PES -...'
+sku: 'B07NDBD9R6-fr'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

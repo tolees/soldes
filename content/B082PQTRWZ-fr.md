@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PQTRWZ-fr Sword Art Online Alicization Lycoris Xbox One'
+sku: 'B082PQTRWZ-fr'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YCFSDPP-fr Eveil Lumière avec LED Radio Réveil Lumineux Lampe de...'
+sku: 'B07YCFSDPP-fr'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

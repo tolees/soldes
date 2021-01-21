@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VLN9KBK-fr Levi s GRAPHIC SET-IN NECK T-Shirt Homme Bleu C18977...'
+sku: 'B00VLN9KBK-fr'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

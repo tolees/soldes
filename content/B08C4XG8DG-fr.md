@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4XG8DG-fr Manette Sans Fil pour PS4 Manette pour Playstation 4...'
+sku: 'B08C4XG8DG-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVTFQ34-fr Armor Lux 76874 Pull Homme Multicolore Navire 300 Large...'
+sku: 'B07NVTFQ34-fr'
 tags: [  ]
 actualPrice: 112.47 EUR
 currency: EUR

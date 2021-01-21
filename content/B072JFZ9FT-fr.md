@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JFZ9FT-fr Pradel Excellence 7489SN Penderie 6 Ustensils Nylon Noir...'
+sku: 'B072JFZ9FT-fr'
 tags: [  ]
 actualPrice: 10.09 EUR
 currency: EUR

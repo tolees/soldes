@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V8W1HM-fr Trust 22055 GXT 383 DION 7.1 BASS Vibration Kits Oreillette'
+sku: 'B075V8W1HM-fr'
 tags: [  ]
 actualPrice: 56.35 EUR
 currency: EUR

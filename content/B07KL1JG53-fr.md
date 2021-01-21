@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KL1JG53-fr Victrola Empire Junior Chaîne Stéréo 4-en-1 Platine Vinyle...'
+sku: 'B07KL1JG53-fr'
 tags: [  ]
 actualPrice: 95.75 EUR
 currency: EUR

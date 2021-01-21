@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ227NH-fr Disque Dur Externe 1to Disque Dur Externe USB3.0-2.5’’...'
+sku: 'B08DJ227NH-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

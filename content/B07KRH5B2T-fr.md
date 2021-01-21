@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRH5B2T-fr New Balance Yv500v1 Baskets Fille Rose Pink/Purple...'
+sku: 'B07KRH5B2T-fr'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

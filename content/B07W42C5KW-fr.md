@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W42C5KW-fr Fivejoy Tapis aquadoodle 150 x 100 cm de Dessin Eau...'
+sku: 'B07W42C5KW-fr'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRV4G6F-fr Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec...'
+sku: 'B07HRV4G6F-fr'
 tags: [  ]
 actualPrice: 103.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078NGVMPR-fr Merrell Siren Edge Q2 Chaussures de Randonnée Basses Femme...'
+sku: 'B078NGVMPR-fr'
 tags: [  ]
 actualPrice: 74.29 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M1FB1JX-fr Hugo Boss Homme Analogique Classique Quartz Montre avec...'
+sku: 'B01M1FB1JX-fr'
 tags: [  ]
 actualPrice: 79.42 EUR
 currency: EUR

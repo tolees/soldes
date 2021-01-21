@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NNKWXPS-fr O bag Borsa Completa Glam 54 Sac à bandoulière Femme Noir...'
+sku: 'B07NNKWXPS-fr'
 tags: [  ]
 actualPrice: 63.11 EUR
 currency: EUR

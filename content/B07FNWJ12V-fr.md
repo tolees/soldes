@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNWJ12V-fr LEGO® Star Wars™ Action Battle La défense de la base Echo™...'
+sku: 'B07FNWJ12V-fr'
 tags: [  ]
 actualPrice: 49.52 EUR
 currency: EUR

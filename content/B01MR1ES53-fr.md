@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MR1ES53-fr Razer Ornata Chroma Clavier de Jeu avec Touches à Membrane...'
+sku: 'B01MR1ES53-fr'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

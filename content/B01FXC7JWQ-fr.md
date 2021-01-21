@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01FXC7JWQ-fr FURBO Dog CAMÉRA: Caméra Wi-FI HD avec Lanceur de...'
+sku: 'B01FXC7JWQ-fr'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

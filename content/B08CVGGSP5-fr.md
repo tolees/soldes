@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVGGSP5-fr Disque Dur Externe Disque Dur Externe 2to USB3.0 pour Mac...'
+sku: 'B08CVGGSP5-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

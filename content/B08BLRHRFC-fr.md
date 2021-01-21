@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLRHRFC-fr Casque Gaming TedGem 3.5mm Casque PS4 Surround Stéréo...'
+sku: 'B08BLRHRFC-fr'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

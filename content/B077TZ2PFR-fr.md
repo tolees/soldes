@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TZ2PFR-fr Team Kalorik Trancheuse Électrique Molette de Réglage 0-15...'
+sku: 'B077TZ2PFR-fr'
 tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJN4VJT-fr Casque LVL50 sans Fil pour Sony Playstation - noir'
+sku: 'B07NJN4VJT-fr'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

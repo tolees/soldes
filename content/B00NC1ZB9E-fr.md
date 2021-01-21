@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00NC1ZB9E-fr Safavieh Tapis Moderne Tissé Fibre de Viscose douce Tapis...'
+sku: 'B00NC1ZB9E-fr'
 tags: [  ]
 actualPrice: 72.6 EUR
 currency: EUR

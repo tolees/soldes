@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N292SLQ-fr camel active 5-Pocket Houston Jean Droit Bleu Bleue/Black...'
+sku: 'B01N292SLQ-fr'
 tags: [  ]
 actualPrice: 45.66 EUR
 currency: EUR

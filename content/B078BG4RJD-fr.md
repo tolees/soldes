@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BG4RJD-fr eXtremeRate Support Vertical Noir pour Xbox One X Console'
+sku: 'B078BG4RJD-fr'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

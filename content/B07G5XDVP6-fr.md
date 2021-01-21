@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07G5XDVP6-fr GPR Italie Jo.56.Vic Paire terminaux homologués avec...'
+sku: 'B07G5XDVP6-fr'
 tags: [  ]
 actualPrice: 485.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZSM77G-fr Amical 9 5 Pouces SuperG-Ṍ-d-és fémmḔ Vî-b-r-àňt pṌïňt g...'
+sku: 'B089ZSM77G-fr'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WRRL2S6-fr Chumian Gilet de Sudation pour Femme Sauna Sport Gaine...'
+sku: 'B07WRRL2S6-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

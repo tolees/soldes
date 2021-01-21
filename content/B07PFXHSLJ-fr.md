@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PFXHSLJ-fr Pikolinos Bottines en Cuir Le Mans 838'
+sku: 'B07PFXHSLJ-fr'
 tags: [  ]
 actualPrice: 66.07 EUR
 currency: EUR

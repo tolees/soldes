@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073ZFGL21-fr Russell Hobbs Bouilloire en Verre 1 7L Ultra Résistante -...'
+sku: 'B073ZFGL21-fr'
 tags: [  ]
 actualPrice: 39.98 EUR
 currency: EUR

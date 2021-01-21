@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CHVXOIO-fr Moulinex OW220830 Machine à Pain 17 Programmes Plastique...'
+sku: 'B01CHVXOIO-fr'
 tags: [  ]
 actualPrice: 90.99 EUR
 currency: EUR

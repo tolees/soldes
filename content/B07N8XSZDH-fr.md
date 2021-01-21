@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8XSZDH-fr Rockport Westbrook Oxford Richelieus Homme Marron Cocoa...'
+sku: 'B07N8XSZDH-fr'
 tags: [  ]
 actualPrice: 95.96 EUR
 currency: EUR

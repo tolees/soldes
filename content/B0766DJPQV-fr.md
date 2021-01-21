@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0766DJPQV-fr Playmobil - Tour d Attaque Mobile des Nains - 9340'
+sku: 'B0766DJPQV-fr'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

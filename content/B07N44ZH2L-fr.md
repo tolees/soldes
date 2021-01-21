@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N44ZH2L-fr HKT by Hackett London Hkt Jogger Pantalon De Sport Bleu...'
+sku: 'B07N44ZH2L-fr'
 tags: [  ]
 actualPrice: 35.11 EUR
 currency: EUR

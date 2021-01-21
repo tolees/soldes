@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TJ8X5DQ-fr FM London Fitted Boxer Shorty Multicolore Classic Mix 10...'
+sku: 'B07TJ8X5DQ-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

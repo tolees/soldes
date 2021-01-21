@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086X2WJG1-fr Fort Boyard Nouvelle Edition'
+sku: 'B086X2WJG1-fr'
 tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR

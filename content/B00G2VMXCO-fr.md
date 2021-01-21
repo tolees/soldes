@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00G2VMXCO-fr Lerway Potence de Guidon Fourche Extenseur VTT Bicyclette...'
+sku: 'B00G2VMXCO-fr'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

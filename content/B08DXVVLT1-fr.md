@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXVVLT1-fr J TOHLO Electric Pro Hair Clippers Rechargeable sans fil...'
+sku: 'B08DXVVLT1-fr'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

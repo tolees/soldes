@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W5MYFLT-fr Tommy Hilfiger Basic Embroidered Hoody Sweat-Shirt Bleu...'
+sku: 'B07W5MYFLT-fr'
 tags: [  ]
 actualPrice: 41.71 EUR
 currency: EUR

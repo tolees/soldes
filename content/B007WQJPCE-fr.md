@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007WQJPCE-fr Samsonite S Cure - Spinner M Valise 69 cm 79 L Noir Black'
+sku: 'B007WQJPCE-fr'
 tags: [  ]
 actualPrice: 79.6 EUR
 currency: EUR

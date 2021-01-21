@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DQG9OZ2-fr Clé USB 3.0 SanDisk Ultra 32 Go avec une vitesse de...'
+sku: 'B00DQG9OZ2-fr'
 tags: [  ]
 actualPrice: 7.25 EUR
 currency: EUR

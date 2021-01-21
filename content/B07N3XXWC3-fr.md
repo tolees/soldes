@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3XXWC3-fr Audio Technica ATH-ANC500BTBK Bluetooth Wireless Active...'
+sku: 'B07N3XXWC3-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DQR6B9S-fr eXtremeRate Coques avec ABXY Boutons de Direction pour...'
+sku: 'B08DQR6B9S-fr'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

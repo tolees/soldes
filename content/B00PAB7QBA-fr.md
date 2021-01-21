@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PAB7QBA-fr Champagne Pommery - Cuvée Louise Millésime 2004 Coffret...'
+sku: 'B00PAB7QBA-fr'
 tags: [  ]
 actualPrice: 96.54 EUR
 currency: EUR

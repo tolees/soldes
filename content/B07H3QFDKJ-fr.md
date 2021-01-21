@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H3QFDKJ-fr AUBADE Soutien-gorge Push-Up Coussinets Amovibles FIEVRE...'
+sku: 'B07H3QFDKJ-fr'
 tags: [  ]
 actualPrice: 46.0 EUR
 currency: EUR

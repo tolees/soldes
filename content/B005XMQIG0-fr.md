@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005XMQIG0-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme...'
+sku: 'B005XMQIG0-fr'
 tags: [  ]
 actualPrice: 11.2 EUR
 currency: EUR

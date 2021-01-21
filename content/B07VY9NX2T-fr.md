@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VY9NX2T-fr Icebreaker Victory LS Zip Veste Femme Jet HTHR FR : M...'
+sku: 'B07VY9NX2T-fr'
 tags: [  ]
 actualPrice: 53.42 EUR
 currency: EUR

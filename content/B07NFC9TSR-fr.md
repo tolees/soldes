@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFC9TSR-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt Surf...'
+sku: 'B07NFC9TSR-fr'
 tags: [  ]
 actualPrice: 75.42 EUR
 currency: EUR

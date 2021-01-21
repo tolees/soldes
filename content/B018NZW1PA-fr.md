@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018NZW1PA-fr G.H. Bass & Co. Penny Mocassins Femme Multicolore Black &...'
+sku: 'B018NZW1PA-fr'
 tags: [  ]
 actualPrice: 68.63 EUR
 currency: EUR

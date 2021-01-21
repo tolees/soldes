@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MB6K86W-fr Russell Hobbs 21480-56 Blender Chauffant 1 75L 2en1...'
+sku: 'B00MB6K86W-fr'
 tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR

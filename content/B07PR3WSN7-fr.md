@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PR3WSN7-fr Legging anti Cellulite Pantalon de Sudation Legging Femmes...'
+sku: 'B07PR3WSN7-fr'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

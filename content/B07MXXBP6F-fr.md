@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MXXBP6F-fr Globe Fusion Chaussures de Skateboard Hommes Marron...'
+sku: 'B07MXXBP6F-fr'
 tags: [  ]
 actualPrice: 53.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P81GZX-fr Victoire Champagne Fut de Chene Mill 2010 Edition Laquee...'
+sku: 'B074P81GZX-fr'
 tags: [  ]
 actualPrice: 52.68 EUR
 currency: EUR

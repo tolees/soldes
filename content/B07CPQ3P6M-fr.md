@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CPQ3P6M-fr HappyPicnic Panier Pique-Nique en Osier pour 4 4 kit...'
+sku: 'B07CPQ3P6M-fr'
 tags: [  ]
 actualPrice: 133.99 EUR
 currency: EUR

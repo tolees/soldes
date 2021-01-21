@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXLVNU6-fr Philips BHD004/10 Sèche-cheveux 1800W ThermoProtect Touche...'
+sku: 'B01AXLVNU6-fr'
 tags: [  ]
 actualPrice: 13.28 EUR
 currency: EUR

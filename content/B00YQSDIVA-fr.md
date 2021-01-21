@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00YQSDIVA-fr 5 Classic Albums'
+sku: 'B00YQSDIVA-fr'
 tags: [  ]
 actualPrice: 11.49 EUR
 currency: EUR

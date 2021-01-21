@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFZ2P7T-fr Geox U Nebula 4 X 4 B ABX A Bottes Chukka Homme Marron...'
+sku: 'B07LFZ2P7T-fr'
 tags: [  ]
 actualPrice: 82.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BNXZY8Y-fr RAMPOW Câble USB C vers USB C 1m - Câble USB Type C Charge...'
+sku: 'B08BNXZY8Y-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

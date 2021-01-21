@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0786JC6VW-fr 8Bitdo Adaptateur Bluetooth sans fil pour...'
+sku: 'B0786JC6VW-fr'
 tags: [  ]
 actualPrice: 16.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HZ43YVQ-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
+sku: 'B08HZ43YVQ-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

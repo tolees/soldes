@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00FBO44XO-fr L Oréal Paris Super Liner Matmatic Eye Liner Extra-Noir'
+sku: 'B00FBO44XO-fr'
 tags: [  ]
 actualPrice: 4.95 EUR
 currency: EUR

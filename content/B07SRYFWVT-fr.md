@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SRYFWVT-fr Hurley U BLOCKADE II SOLID BP Sac à dos Homme Blue Force...'
+sku: 'B07SRYFWVT-fr'
 tags: [  ]
 actualPrice: 14.77 EUR
 currency: EUR

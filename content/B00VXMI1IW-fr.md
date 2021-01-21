@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VXMI1IW-fr G-Star Revend Skinny Jeans Gris lt Aged Destroy 6132-1243...'
+sku: 'B00VXMI1IW-fr'
 tags: [  ]
 actualPrice: 69.98 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CN5G2X9-fr GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note...'
+sku: 'B08CN5G2X9-fr'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

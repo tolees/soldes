@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CN8XFVD-fr Crocs Classic Sabots Mixte Adulte Violet Neon Purple 36/37 EU'
+sku: 'B07CN8XFVD-fr'
 tags: [  ]
 actualPrice: 26.59 EUR
 currency: EUR

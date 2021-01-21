@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNQ9W3W-fr Seafolly Water Garden Twist Halter Singlet Haut De Maillot...'
+sku: 'B07FNQ9W3W-fr'
 tags: [  ]
 actualPrice: 82.67 EUR
 currency: EUR

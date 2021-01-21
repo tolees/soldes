@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087BWQ98H-fr VICTOOM Electrostimulateur Musculaire EMS Stimulateur...'
+sku: 'B087BWQ98H-fr'
 tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR

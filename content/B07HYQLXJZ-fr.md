@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HYQLXJZ-fr Nike WMNS Air Force 1 High Chaussures de Fitness Femme...'
+sku: 'B07HYQLXJZ-fr'
 tags: [  ]
 actualPrice: 59.11 EUR
 currency: EUR

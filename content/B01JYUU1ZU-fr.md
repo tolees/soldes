@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JYUU1ZU-fr Carte mémoire SDHC SanDisk Extreme Pro 64Go de jusqu à...'
+sku: 'B01JYUU1ZU-fr'
 tags: [  ]
 actualPrice: 110.39 EUR
 currency: EUR

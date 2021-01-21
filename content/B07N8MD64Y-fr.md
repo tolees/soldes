@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8MD64Y-fr BOSS Raio 1 Pull Bleu Bright Blue Large Homme'
+sku: 'B07N8MD64Y-fr'
 tags: [  ]
 actualPrice: 92.84 EUR
 currency: EUR

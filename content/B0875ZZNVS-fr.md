@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0875ZZNVS-fr EasySMX Manettes Switch Manette pour Nintendo Switch...'
+sku: 'B0875ZZNVS-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081H7CTCW-fr Pèse Personne Impédancemètre Balance Connecté Pèse-...'
+sku: 'B081H7CTCW-fr'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

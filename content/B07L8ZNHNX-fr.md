@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L8ZNHNX-fr Replay Anbass Jean Slim Bleu Super Light Blue 11 W30/L34...'
+sku: 'B07L8ZNHNX-fr'
 tags: [  ]
 actualPrice: 133.9 EUR
 currency: EUR

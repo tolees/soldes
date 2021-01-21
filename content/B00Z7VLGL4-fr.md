@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Z7VLGL4-fr EXZACT Balance de Cuisine Électronique à Grand Écran avec...'
+sku: 'B00Z7VLGL4-fr'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

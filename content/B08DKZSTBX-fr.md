@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKZSTBX-fr Montre Connectée Fitness Tracker étanche IP68 avec...'
+sku: 'B08DKZSTBX-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

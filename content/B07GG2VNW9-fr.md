@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GG2VNW9-fr SteelSeries Arctis 5 - Casque de Jeu à Éclairage RVB - Son...'
+sku: 'B07GG2VNW9-fr'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

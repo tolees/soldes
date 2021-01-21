@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WPS4JBZ-fr Recepteur Bluetooth Jack DUTISON récepteur Bluetooth...'
+sku: 'B07WPS4JBZ-fr'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

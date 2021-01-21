@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JLOWUIG-fr Bosch Professional Défonceuse Filaire GOF 1250 CE 1250 W...'
+sku: 'B00JLOWUIG-fr'
 tags: [  ]
 actualPrice: 372.0 EUR
 currency: EUR

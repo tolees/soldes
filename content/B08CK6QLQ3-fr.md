@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CK6QLQ3-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
+sku: 'B08CK6QLQ3-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

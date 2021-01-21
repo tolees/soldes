@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZP2YBM-fr Màsséur Électrique Vîbrómasséur Vîbrạnt pour Fémme...'
+sku: 'B08CZP2YBM-fr'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

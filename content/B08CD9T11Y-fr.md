@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CD9T11Y-fr Disque Dur Externe 2to Type C USB3.1 pour PC Mac...'
+sku: 'B08CD9T11Y-fr'
 tags: [  ]
 actualPrice: 63.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JN95HHT-fr Buffalo Cali Sneakers Basses Femme Multicolore Pink/White...'
+sku: 'B07JN95HHT-fr'
 tags: [  ]
 actualPrice: 49.51 EUR
 currency: EUR

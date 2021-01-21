@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0SVLRH-fr Réparer Les Vivants [DVD + Copie Digitale]'
+sku: 'B01N0SVLRH-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

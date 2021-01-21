@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9WYYHL-fr Le Tanneur Sophie Tsop1200 Femmes Noir Noir 6x21x15 cm W x...'
+sku: 'B07F9WYYHL-fr'
 tags: [  ]
 actualPrice: 94.44 EUR
 currency: EUR

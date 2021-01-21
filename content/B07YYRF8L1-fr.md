@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYRF8L1-fr MILLET Tekapo Hoodie M Veste Polaire Homme Black-Noir FR :...'
+sku: 'B07YYRF8L1-fr'
 tags: [  ]
 actualPrice: 78.44 EUR
 currency: EUR

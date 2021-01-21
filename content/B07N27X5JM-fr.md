@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N27X5JM-fr Kaporal - Doudoune à Capuche Amovible Coupe Droite - Meter...'
+sku: 'B07N27X5JM-fr'
 tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR

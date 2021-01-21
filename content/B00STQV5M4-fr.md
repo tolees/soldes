@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00STQV5M4-fr BIC Mini Fun Gommes Blanches - Formes Assorties Tubo de 36'
+sku: 'B00STQV5M4-fr'
 tags: [  ]
 actualPrice: 13.08 EUR
 currency: EUR

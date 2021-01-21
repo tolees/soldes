@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W92N3QG-fr Lexibook- Projecteur Planetarium 2-en-1 projette...'
+sku: 'B07W92N3QG-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

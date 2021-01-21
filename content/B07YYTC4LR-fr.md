@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYTC4LR-fr Silvian Heach Dress Bohebe Robe Multicolore Fant.Uniq...'
+sku: 'B07YYTC4LR-fr'
 tags: [  ]
 actualPrice: 88.33 EUR
 currency: EUR

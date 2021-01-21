@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D8Z9DE2-fr Thomas Sabo Montre pour Homme Rebel Spirit Argenté Noir...'
+sku: 'B01D8Z9DE2-fr'
 tags: [  ]
 actualPrice: 113.29 EUR
 currency: EUR

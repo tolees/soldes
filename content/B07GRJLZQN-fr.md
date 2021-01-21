@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRJLZQN-fr Tom Clancy s The Division 2 - Edition Gold'
+sku: 'B07GRJLZQN-fr'
 tags: [  ]
 actualPrice: 33.84 EUR
 currency: EUR

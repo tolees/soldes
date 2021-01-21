@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P2BDJTH-fr Superdry Sphere Padded Ultimate Blouson Noir Worn Black...'
+sku: 'B07P2BDJTH-fr'
 tags: [  ]
 actualPrice: 65.57 EUR
 currency: EUR

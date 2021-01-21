@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087QDVPLV-fr ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6...'
+sku: 'B087QDVPLV-fr'
 tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR

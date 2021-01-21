@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X6JCBBR-fr Ultimates Ears Wonderboom enceinte portable Bluetooth Son...'
+sku: 'B06X6JCBBR-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

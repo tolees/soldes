@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084GRK3NS-fr AICOK Batteur Électrique de Cuisine 2 en 1 Batteur à Main...'
+sku: 'B084GRK3NS-fr'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

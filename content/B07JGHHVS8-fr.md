@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JGHHVS8-fr PUMA Carina L Sneakers Basses Femme White-White-Silver 39 EU'
+sku: 'B07JGHHVS8-fr'
 tags: [  ]
 actualPrice: 32.95 EUR
 currency: EUR

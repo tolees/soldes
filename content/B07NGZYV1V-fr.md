@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGZYV1V-fr Strellson Premium Cale-Madden Costume Gris Grey 019 48...'
+sku: 'B07NGZYV1V-fr'
 tags: [  ]
 actualPrice: 156.13 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W9JKJJW-fr Balance Pèse Personne iTeknic Pèse Personne Impédancemètre...'
+sku: 'B07W9JKJJW-fr'
 tags: [  ]
 actualPrice: 19.69 EUR
 currency: EUR

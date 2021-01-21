@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SVG5FMV-fr Pinko Rubino 3 Baskets Enfiler Femme Multicolore...'
+sku: 'B07SVG5FMV-fr'
 tags: [  ]
 actualPrice: 93.96 EUR
 currency: EUR

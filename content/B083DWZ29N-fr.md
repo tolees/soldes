@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DWZ29N-fr Vistefly VX Aspirateur sans Fil 23KPA 250W Aspirateur...'
+sku: 'B083DWZ29N-fr'
 tags: [  ]
 actualPrice: 134.25 EUR
 currency: EUR

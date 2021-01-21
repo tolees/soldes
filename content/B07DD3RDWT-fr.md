@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DD3RDWT-fr Pinypon Action- Famosa Lot de 5 Figurines 700014490...'
+sku: 'B07DD3RDWT-fr'
 tags: [  ]
 actualPrice: 23.96 EUR
 currency: EUR

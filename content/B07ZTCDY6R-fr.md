@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZTCDY6R-fr Diswoe Manette sans Fil pour Nintendo Switch Bluetooth...'
+sku: 'B07ZTCDY6R-fr'
 tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMJZSPQ-fr Chie Mihara Edit Sandales Bride Cheville Femmes Or Dias...'
+sku: 'B07YMJZSPQ-fr'
 tags: [  ]
 actualPrice: 120.7 EUR
 currency: EUR

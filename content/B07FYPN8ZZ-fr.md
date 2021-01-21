@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FYPN8ZZ-fr Vertbaudet Parure Caradou Facile à Border sans Couette PIN...'
+sku: 'B07FYPN8ZZ-fr'
 tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR

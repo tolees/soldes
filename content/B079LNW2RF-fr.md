@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079LNW2RF-fr cbx Poussette Yoki Ultra-Compacte Habillage pluie inclus...'
+sku: 'B079LNW2RF-fr'
 tags: [  ]
 actualPrice: 80.74 EUR
 currency: EUR

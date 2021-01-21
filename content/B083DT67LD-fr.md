@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083DT67LD-fr TV Box Android 10.0 QPLOVE Q8 TV Box 【4G+128G】 Android...'
+sku: 'B083DT67LD-fr'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6B6BCG-fr Sac à Main Femme Rétro JOSEKO Sac à Bandoulière en...'
+sku: 'B07J6B6BCG-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

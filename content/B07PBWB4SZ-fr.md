@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PBWB4SZ-fr Rafraîchisseur d air compact avec télécommande et écran...'
+sku: 'B07PBWB4SZ-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

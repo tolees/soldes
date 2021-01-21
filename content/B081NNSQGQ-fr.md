@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081NNSQGQ-fr Garcinia cambogia + L-Carnitine + Thé vert. Brûleur de...'
+sku: 'B081NNSQGQ-fr'
 tags: [  ]
 actualPrice: 15.96 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V3RJ3GJ-fr Correcteur de posture dos - redresse dos Homme et Femme -...'
+sku: 'B07V3RJ3GJ-fr'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

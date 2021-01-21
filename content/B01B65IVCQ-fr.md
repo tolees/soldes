@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B65IVCQ-fr Pinypon - 700012914 - Mini Poupée - Coffret Clinique...'
+sku: 'B01B65IVCQ-fr'
 tags: [  ]
 actualPrice: 26.24 EUR
 currency: EUR

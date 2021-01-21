@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B011SDBCBI-fr Schott NYC Tornado Blouson Noir Black S Homme'
+sku: 'B011SDBCBI-fr'
 tags: [  ]
 actualPrice: 81.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y2VP6KH-fr Stanley Sxpw18E Nettoyeur Haute Pression 1800 W 135 Bar...'
+sku: 'B06Y2VP6KH-fr'
 tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR

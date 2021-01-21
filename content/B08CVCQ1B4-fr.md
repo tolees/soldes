@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVCQ1B4-fr eXtremeRate ABXY Boutons de Remplacement Colorés DIY...'
+sku: 'B08CVCQ1B4-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

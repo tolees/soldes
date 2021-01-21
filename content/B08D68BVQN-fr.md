@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D68BVQN-fr Disque Dur Externe 2 to USB 3.0 pour PC Mac MacBook Xbox...'
+sku: 'B08D68BVQN-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

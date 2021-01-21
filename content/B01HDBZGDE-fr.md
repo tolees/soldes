@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HDBZGDE-fr Live at Montreux 1991 [Blu-ray]'
+sku: 'B01HDBZGDE-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

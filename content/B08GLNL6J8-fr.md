@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLNL6J8-fr UniqueMe [2 pièces Protection écran pour Xiaomi Mi Note 10...'
+sku: 'B08GLNL6J8-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

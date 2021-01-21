@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008B8EA4A-fr Les 101 dalmatiens [Blu-Ray]'
+sku: 'B008B8EA4A-fr'
 tags: [  ]
 actualPrice: 11.39 EUR
 currency: EUR

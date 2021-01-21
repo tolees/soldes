@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZH7WJ33-fr OSOYOO Starter Updated Version Kit for Micro:bit Include...'
+sku: 'B07ZH7WJ33-fr'
 tags: [  ]
 actualPrice: 78.54 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007VZXWCK-fr FoodSaver Machine Sous Vide automatique inclus sacs de...'
+sku: 'B007VZXWCK-fr'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

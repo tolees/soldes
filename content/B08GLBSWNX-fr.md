@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLBSWNX-fr Disque Dur Externe 1to USB 3.0 Disque Dur Externe pour PC...'
+sku: 'B08GLBSWNX-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

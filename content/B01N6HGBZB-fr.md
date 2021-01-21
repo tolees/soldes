@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6HGBZB-fr HAUPTSTADTKOFFER - Alex - Bagage Rigide Valise Grande...'
+sku: 'B01N6HGBZB-fr'
 tags: [  ]
 actualPrice: 60.67 EUR
 currency: EUR

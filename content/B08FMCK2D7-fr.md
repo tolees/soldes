@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FMCK2D7-fr GRDE Montre Connectée Smartwatch Bluetooth Montre Sport...'
+sku: 'B08FMCK2D7-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

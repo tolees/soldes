@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZWFYV7-fr Dare 2b Icecap Ergonomique AEP Kinematics Veste de Ski...'
+sku: 'B07TZWFYV7-fr'
 tags: [  ]
 actualPrice: 97.36 EUR
 currency: EUR

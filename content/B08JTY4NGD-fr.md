@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JTY4NGD-fr Disque Dur Externe 1to USB3.0 Disque Dur Externe pour PC...'
+sku: 'B08JTY4NGD-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

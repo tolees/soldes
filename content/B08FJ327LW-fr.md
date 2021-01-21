@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FJ327LW-fr 100PCS Clips Câbles Adhésif 3M Durables Rangement de...'
+sku: 'B08FJ327LW-fr'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

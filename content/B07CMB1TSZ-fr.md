@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMB1TSZ-fr Marvel Legends - Edition Collector - Casque Electronique...'
+sku: 'B07CMB1TSZ-fr'
 tags: [  ]
 actualPrice: 95.74 EUR
 currency: EUR

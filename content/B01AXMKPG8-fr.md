@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXMKPG8-fr Philips QP6510/30 OneBlade Pro avec sabot réglable 12...'
+sku: 'B01AXMKPG8-fr'
 tags: [  ]
 actualPrice: 35.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ3PVRT-fr Disque Dur Externe 1to USB3.1 Disque Dur Externe pour PC...'
+sku: 'B08DJ3PVRT-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

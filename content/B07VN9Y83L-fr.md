@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VN9Y83L-fr MICHELIN Chaines à neige Extrem Grip Tension Automatique...'
+sku: 'B07VN9Y83L-fr'
 tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR

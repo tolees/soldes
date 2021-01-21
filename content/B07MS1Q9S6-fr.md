@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MS1Q9S6-fr RECCI sur Matelas a Memoire de Forme de 6cm Surmatelas...'
+sku: 'B07MS1Q9S6-fr'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

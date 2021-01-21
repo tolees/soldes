@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088MVX8RY-fr Deadly Premonition 2 : A Blessing in Disguise'
+sku: 'B088MVX8RY-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

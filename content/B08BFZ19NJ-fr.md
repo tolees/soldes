@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BFZ19NJ-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
+sku: 'B08BFZ19NJ-fr'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

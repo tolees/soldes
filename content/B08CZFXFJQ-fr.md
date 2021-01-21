@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZFXFJQ-fr Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe...'
+sku: 'B08CZFXFJQ-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

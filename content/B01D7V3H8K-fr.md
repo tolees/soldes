@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D7V3H8K-fr GPR EXHAUST SYSTEM GPREB .68.E Pot d échappement homologué...'
+sku: 'B01D7V3H8K-fr'
 tags: [  ]
 actualPrice: 229.33 EUR
 currency: EUR

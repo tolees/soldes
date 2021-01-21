@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8KXX4B-fr Silicon Power 256GB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à...'
+sku: 'B07P8KXX4B-fr'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

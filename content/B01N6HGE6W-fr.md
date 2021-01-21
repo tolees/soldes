@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N6HGE6W-fr Foscam Fi9928P Caméra Ip Wifi Extérieure Motorisée Caméra...'
+sku: 'B01N6HGE6W-fr'
 tags: [  ]
 actualPrice: 212.4 EUR
 currency: EUR

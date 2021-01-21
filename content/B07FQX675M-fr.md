@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FQX675M-fr Clarks Mena Blossom Escarpins Femme Argenté Champagne- 41 EU'
+sku: 'B07FQX675M-fr'
 tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR

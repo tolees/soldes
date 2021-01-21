@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TPYSH8V-fr Clarks Foxwell Hall Derbys Homme Noir Black SDE Black SDE...'
+sku: 'B07TPYSH8V-fr'
 tags: [  ]
 actualPrice: 42.61 EUR
 currency: EUR

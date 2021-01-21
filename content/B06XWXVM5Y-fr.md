@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWXVM5Y-fr New Balance WL574 Baskets Femme Bleu Navy 38 EU'
+sku: 'B06XWXVM5Y-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

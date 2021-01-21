@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ZXATAJE-fr Fisher-Price Bebo le Robot Interactif Jouet d Éveil avec 3...'
+sku: 'B00ZXATAJE-fr'
 tags: [  ]
 actualPrice: 32.09 EUR
 currency: EUR

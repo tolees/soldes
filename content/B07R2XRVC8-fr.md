@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R2XRVC8-fr Under Armour Forefront Rain Veste Homme Bleu XL'
+sku: 'B07R2XRVC8-fr'
 tags: [  ]
 actualPrice: 43.08 EUR
 currency: EUR

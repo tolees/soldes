@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2QU93B-fr Extel - Interphone vidéo Quattro 2 Blanc - Ecran de 7...'
+sku: 'B01N2QU93B-fr'
 tags: [  ]
 actualPrice: 148.9 EUR
 currency: EUR

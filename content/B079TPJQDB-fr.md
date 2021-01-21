@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079TPJQDB-fr Monopoly Tricheurs - Jeu de societe - Jeu de plateau -...'
+sku: 'B079TPJQDB-fr'
 tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR

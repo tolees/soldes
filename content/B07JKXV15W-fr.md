@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JKXV15W-fr LAGOSTINA SALVASPAZIO METEORITE 012135040824 Poêle inox...'
+sku: 'B07JKXV15W-fr'
 tags: [  ]
 actualPrice: 79.8 EUR
 currency: EUR

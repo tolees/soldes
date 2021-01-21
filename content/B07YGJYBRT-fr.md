@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGJYBRT-fr Chie Mihara Janis Escarpins Bride Cheville Femmes Rose...'
+sku: 'B07YGJYBRT-fr'
 tags: [  ]
 actualPrice: 144.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFRK1LY-fr Ceintures de Sudation Ceinture De Sudation Homme et Femme...'
+sku: 'B08DFRK1LY-fr'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

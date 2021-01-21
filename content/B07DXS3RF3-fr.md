@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DXS3RF3-fr Le Cercle littéraire de Guernesey'
+sku: 'B07DXS3RF3-fr'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ4KFCC-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
+sku: 'B08DJ4KFCC-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

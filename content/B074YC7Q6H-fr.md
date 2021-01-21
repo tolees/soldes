@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074YC7Q6H-fr Saint Honoré Femme Analogique Quartz Montre avec Bracelet...'
+sku: 'B074YC7Q6H-fr'
 tags: [  ]
 actualPrice: 241.92 EUR
 currency: EUR

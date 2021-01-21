@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082PMVLWQ-fr OfficeWorld 603 XL Multipack Cartouche d encre compatible...'
+sku: 'B082PMVLWQ-fr'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AHP76Q8-fr Razor Power Core E90 E90-Trottinette électrique-Rose Enfant'
+sku: 'B01AHP76Q8-fr'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013JVXIBY-fr Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu...'
+sku: 'B013JVXIBY-fr'
 tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0899S3DPR-fr HOMEVER Balance Cuisine HOMEVER15kg/33lb Balance...'
+sku: 'B0899S3DPR-fr'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

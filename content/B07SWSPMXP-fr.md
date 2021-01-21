@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SWSPMXP-fr Replay Anbass Jean Slim Bleu Dark Blue 7 W27/L30 Taille...'
+sku: 'B07SWSPMXP-fr'
 tags: [  ]
 actualPrice: 66.07 EUR
 currency: EUR

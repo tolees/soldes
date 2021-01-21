@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0716LRRT6-fr Levi s The Perfect Tee T-Shirt - Femme-Gris Better Batwing...'
+sku: 'B0716LRRT6-fr'
 tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR

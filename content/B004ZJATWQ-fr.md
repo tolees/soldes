@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004ZJATWQ-fr Weber 1331004 Bar B Kettle Barbecue à Charbon Noir 57 cm'
+sku: 'B004ZJATWQ-fr'
 tags: [  ]
 actualPrice: 126.0 EUR
 currency: EUR

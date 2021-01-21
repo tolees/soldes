@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0166MUWTY-fr Yamaha - FX310AII - Guitare Folk'
+sku: 'B0166MUWTY-fr'
 tags: [  ]
 actualPrice: 186.87 EUR
 currency: EUR

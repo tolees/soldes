@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VMRN2FJ-fr Marmot Riverfront Parka Manteau isolé Veste d extérieur...'
+sku: 'B07VMRN2FJ-fr'
 tags: [  ]
 actualPrice: 210.77 EUR
 currency: EUR

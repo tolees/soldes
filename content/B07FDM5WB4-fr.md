@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDM5WB4-fr Christian Lacroix Femme Analogique Quartz Montre avec...'
+sku: 'B07FDM5WB4-fr'
 tags: [  ]
 actualPrice: 57.29 EUR
 currency: EUR

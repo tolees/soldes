@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B1NVD2I-fr Philips QP220/50 Lames de Remplacement OneBlade x2 Durent...'
+sku: 'B01B1NVD2I-fr'
 tags: [  ]
 actualPrice: 21.15 EUR
 currency: EUR

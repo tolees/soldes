@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXZ9Z12-fr Disque Dur Externe 1to USB3.0 SATA Stockage HDD pour PC...'
+sku: 'B08DXZ9Z12-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

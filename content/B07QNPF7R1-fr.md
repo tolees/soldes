@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QNPF7R1-fr Anesty- Affleureuse Défonceuse R0700 Trimmer Router 710 W...'
+sku: 'B07QNPF7R1-fr'
 tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR

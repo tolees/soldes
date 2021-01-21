@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNSR1V4-fr JACK & JONES JCORETAIL Sweat Hood SEP Sweatshirt à Capuche...'
+sku: 'B08DNSR1V4-fr'
 tags: [  ]
 actualPrice: 28.58 EUR
 currency: EUR

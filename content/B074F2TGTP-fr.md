@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074F2TGTP-fr PANASONIC ER-SC40-K803 Tondeuse cheveux premium moteur...'
+sku: 'B074F2TGTP-fr'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

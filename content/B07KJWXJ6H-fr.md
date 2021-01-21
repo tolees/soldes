@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJWXJ6H-fr El Naturalista N5353 Vaquetilla Aqua Sandales Bride...'
+sku: 'B07KJWXJ6H-fr'
 tags: [  ]
 actualPrice: 48.88 EUR
 currency: EUR

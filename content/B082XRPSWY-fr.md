@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082XRPSWY-fr Tiges de son mâles lisses et durables en silicone...'
+sku: 'B082XRPSWY-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

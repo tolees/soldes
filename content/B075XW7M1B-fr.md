@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075XW7M1B-fr Ultimate Ears Megablast Enceinte sans Fil Portable...'
+sku: 'B075XW7M1B-fr'
 tags: [  ]
 actualPrice: 195.12 EUR
 currency: EUR

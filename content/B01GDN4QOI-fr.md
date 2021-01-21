@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GDN4QOI-fr Herschel Pop Quiz Sac à dos unisexe pour adulte Eclipse...'
+sku: 'B01GDN4QOI-fr'
 tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR

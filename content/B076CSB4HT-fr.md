@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076CSB4HT-fr Samsonite LAPTOP BACKPACK 17.3" EXP BLACK -SPECTROLITE 2.0...'
+sku: 'B076CSB4HT-fr'
 tags: [  ]
 actualPrice: 126.75 EUR
 currency: EUR

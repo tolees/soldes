@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KKJHLFC-fr KRONENKRAFT Set d ustensiles de Cuisine en Acier...'
+sku: 'B07KKJHLFC-fr'
 tags: [  ]
 actualPrice: 45.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XMYGTGQ-fr Ice-Watch - Ice Lo White Blue - Montre Blanche pour Femme...'
+sku: 'B06XMYGTGQ-fr'
 tags: [  ]
 actualPrice: 72.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015UYE8K8-fr Beurer TL 50 Lampe de luminothérapie - 10 000 Lux -...'
+sku: 'B015UYE8K8-fr'
 tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR

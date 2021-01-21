@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP4NFHK-fr Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme Bleu...'
+sku: 'B07FP4NFHK-fr'
 tags: [  ]
 actualPrice: 54.47 EUR
 currency: EUR

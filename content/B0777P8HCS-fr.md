@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777P8HCS-fr S72 / Sport Digital Camera'
+sku: 'B0777P8HCS-fr'
 tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BWT415S-fr Schneider Electric SC5S262204 Interrupteur ou va et vient...'
+sku: 'B00BWT415S-fr'
 tags: [  ]
 actualPrice: 3.7 EUR
 currency: EUR

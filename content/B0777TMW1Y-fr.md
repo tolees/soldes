@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777TMW1Y-fr Arlo Pro 2 | Caméra de surveillance 100% Sans Fils - Pack...'
+sku: 'B0777TMW1Y-fr'
 tags: [  ]
 actualPrice: 588.07 EUR
 currency: EUR

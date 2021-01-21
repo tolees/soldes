@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWMH6LH-fr ENKLEN Hub USB C 12 en 1 pour MacBook Pro/Air 2019~2016...'
+sku: 'B07VWMH6LH-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

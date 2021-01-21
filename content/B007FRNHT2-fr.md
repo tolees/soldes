@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007FRNHT2-fr Barigo 386MSMA Marron Station météo numérique - Stations...'
+sku: 'B007FRNHT2-fr'
 tags: [  ]
 actualPrice: 177.98 EUR
 currency: EUR

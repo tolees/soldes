@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK11H4Y-fr Kickers - KICK COL 621514-30-92 - Bottes & bottines...'
+sku: 'B07KK11H4Y-fr'
 tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR

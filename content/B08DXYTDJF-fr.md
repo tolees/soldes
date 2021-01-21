@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXYTDJF-fr MOONESS Coque Xiaomi Redmi 9 + Verre Trempé Housse en Cuir...'
+sku: 'B08DXYTDJF-fr'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KJZ1R94-fr El Naturalista N5282 Lux Suede El Viajero Bottes &...'
+sku: 'B07KJZ1R94-fr'
 tags: [  ]
 actualPrice: 88.65 EUR
 currency: EUR

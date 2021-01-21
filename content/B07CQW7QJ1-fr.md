@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CQW7QJ1-fr Aigle Parfield W Mtd Bottes & Bottines Cavalieres Femme...'
+sku: 'B07CQW7QJ1-fr'
 tags: [  ]
 actualPrice: 89.53 EUR
 currency: EUR

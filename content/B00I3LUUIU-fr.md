@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I3LUUIU-fr Sony MDR-EX110APB Ecouteurs Intra-auriculaires avec...'
+sku: 'B00I3LUUIU-fr'
 tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR

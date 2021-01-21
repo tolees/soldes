@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R4LQ6HS-fr HEYSTOP Étui pour Nintendo Switch 11 en 1 Étui de...'
+sku: 'B07R4LQ6HS-fr'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

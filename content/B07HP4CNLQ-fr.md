@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP4CNLQ-fr Przewalski Veste de cyclisme thermique à manches longues...'
+sku: 'B07HP4CNLQ-fr'
 tags: [  ]
 actualPrice: 28.72 EUR
 currency: EUR

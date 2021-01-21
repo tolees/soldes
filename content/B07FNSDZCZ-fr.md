@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNSDZCZ-fr LEGO® DUPLO® Movie Les visiteurs de la planète DUPLO® d...'
+sku: 'B07FNSDZCZ-fr'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

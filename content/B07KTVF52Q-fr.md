@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTVF52Q-fr LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fille...'
+sku: 'B07KTVF52Q-fr'
 tags: [  ]
 actualPrice: 41.19 EUR
 currency: EUR

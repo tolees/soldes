@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089GD31YY-fr Toozey Jouet pour Chien - 12 PCS Jouets pour Chiens...'
+sku: 'B089GD31YY-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

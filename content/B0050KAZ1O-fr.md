@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0050KAZ1O-fr Bosch Professional Ponceuse Excentrique Filaire GEX...'
+sku: 'B0050KAZ1O-fr'
 tags: [  ]
 actualPrice: 256.02 EUR
 currency: EUR

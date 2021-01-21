@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CVGMPV4-fr Disque Dur Externe Disque Dur Externe 1to USB3.0 pour Mac...'
+sku: 'B08CVGMPV4-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

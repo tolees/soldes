@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BKZY63L-fr Les Tropéziennes par M. Belarbi HIRONDEL Sandales Bride...'
+sku: 'B07BKZY63L-fr'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

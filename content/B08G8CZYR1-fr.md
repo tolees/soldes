@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G8CZYR1-fr Maegoo Manette PS4 sans Fil Bluetooth Dualshock 4 Manette...'
+sku: 'B08G8CZYR1-fr'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

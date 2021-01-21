@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083SG6VGL-fr Gomyhom Rose 24K Rose Plaqué Or élégante Fleur Romantique...'
+sku: 'B083SG6VGL-fr'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

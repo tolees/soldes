@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015NHZC4S-fr Funko - Pocket POP Keychain: GOTG - Groot'
+sku: 'B015NHZC4S-fr'
 tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR

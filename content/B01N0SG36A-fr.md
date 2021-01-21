@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0SG36A-fr FIBARO Homekit enabled Multisensor/ Détecteur de Mouvement'
+sku: 'B01N0SG36A-fr'
 tags: [  ]
 actualPrice: 41.73 EUR
 currency: EUR

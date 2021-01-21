@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0869HC1KX-fr Manette sans Fil pour Nintendo Switch Manettes pour Switch...'
+sku: 'B0869HC1KX-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

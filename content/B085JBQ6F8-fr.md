@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085JBQ6F8-fr Téfal Gourmet crêpière Deux plaques amovibles...'
+sku: 'B085JBQ6F8-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

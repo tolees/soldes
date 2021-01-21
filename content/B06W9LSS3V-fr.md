@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06W9LSS3V-fr Honeywell HYF260E4 Ventilateur Tour QuietSet Puissant et...'
+sku: 'B06W9LSS3V-fr'
 tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR

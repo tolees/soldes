@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073DXXCBY-fr FLORA GUARD Outils de Jardinage en Aluminium de 3 pièces...'
+sku: 'B073DXXCBY-fr'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

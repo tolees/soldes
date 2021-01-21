@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y6V63HG-fr Louis Cottier - Montre Tradition Skelette Automatique -...'
+sku: 'B07Y6V63HG-fr'
 tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OCSJMJQ-fr Columbia Sun Ridge Polo à Manches Courtes Homme Gris Shark S'
+sku: 'B00OCSJMJQ-fr'
 tags: [  ]
 actualPrice: 34.94 EUR
 currency: EUR

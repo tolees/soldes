@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9DW8BX-fr JBL LIVE 400BT – Casque audio supra-auriculaire sans fil –...'
+sku: 'B07N9DW8BX-fr'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQH8XXB-fr Cadisen Montres pour Homme Minimaliste Mode Noir Montres...'
+sku: 'B07HQH8XXB-fr'
 tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR

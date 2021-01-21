@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VLN9CWC-fr Levi s GRAPHIC SET-IN NECK T-Shirt Homme Gris C18976...'
+sku: 'B00VLN9CWC-fr'
 tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR

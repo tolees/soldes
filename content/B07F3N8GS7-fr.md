@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3N8GS7-fr HP Spectre 700 - Souris Rechargeable Sans Fil Cuivre Luxe...'
+sku: 'B07F3N8GS7-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WD86GQQ-fr Krups YY2931FD Machine à Bière Pression Beertender Avec...'
+sku: 'B06WD86GQQ-fr'
 tags: [  ]
 actualPrice: 172.57 EUR
 currency: EUR

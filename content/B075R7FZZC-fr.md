@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075R7FZZC-fr SIMBA Protège Matelas - Alèse Imperméable et Respirant 150...'
+sku: 'B075R7FZZC-fr'
 tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR

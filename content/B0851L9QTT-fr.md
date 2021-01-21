@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0851L9QTT-fr Creatures The World Forgot Violence et Sexe aux Temps...'
+sku: 'B0851L9QTT-fr'
 tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR

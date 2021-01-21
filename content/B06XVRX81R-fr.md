@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XVRX81R-fr HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à...'
+sku: 'B06XVRX81R-fr'
 tags: [  ]
 actualPrice: 11.18 EUR
 currency: EUR

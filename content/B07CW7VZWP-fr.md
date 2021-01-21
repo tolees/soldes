@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CW7VZWP-fr Riviera & Bar PEJ537 Extracteur de jus 200 W Rouge'
+sku: 'B07CW7VZWP-fr'
 tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR

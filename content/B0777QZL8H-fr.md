@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0777QZL8H-fr SEC24 CWL401S - Qualité WiFi Système de Surveillance et de...'
+sku: 'B0777QZL8H-fr'
 tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR

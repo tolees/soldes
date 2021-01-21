@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDKWPLS-fr Truck Driver pour PS4'
+sku: 'B07FDKWPLS-fr'
 tags: [  ]
 actualPrice: 27.49 EUR
 currency: EUR

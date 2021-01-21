@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L6ZIDF6-fr VHOME Queue De Sirene Couverture Idée Cadeau - Femme...'
+sku: 'B01L6ZIDF6-fr'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

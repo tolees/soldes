@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6QKXFC-fr PROACC Tapis de Jeu pour Piano Jouet de Tapis de Musique...'
+sku: 'B07J6QKXFC-fr'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

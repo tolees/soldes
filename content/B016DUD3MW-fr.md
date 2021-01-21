@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016DUD3MW-fr Hoover CAN1700R Nettoyeur Vapeur Balai Steam Capsule...'
+sku: 'B016DUD3MW-fr'
 tags: [  ]
 actualPrice: 51.08 EUR
 currency: EUR

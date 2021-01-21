@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082NFQPS9-fr Wasteland 3 : Day One Edition pour Xbox One'
+sku: 'B082NFQPS9-fr'
 tags: [  ]
 actualPrice: 32.05 EUR
 currency: EUR

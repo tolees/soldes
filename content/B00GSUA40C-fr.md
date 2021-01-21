@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GSUA40C-fr Zwilling Ménagère Nottingham inox 18/10 mat Acier...'
+sku: 'B00GSUA40C-fr'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

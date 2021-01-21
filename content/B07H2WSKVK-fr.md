@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H2WSKVK-fr Echo Plus 2ème génération Tissu anthracite + Ampoule...'
+sku: 'B07H2WSKVK-fr'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

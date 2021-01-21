@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D9FK7LB-fr Levi s 501 Original Fit – Jean - Homme - Bleu Bleu Sponge...'
+sku: 'B07D9FK7LB-fr'
 tags: [  ]
 actualPrice: 46.3 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JP7R8K6-fr Pioneer Club 7 Enceinte de Bluetooth LED Éclarage Voice...'
+sku: 'B07JP7R8K6-fr'
 tags: [  ]
 actualPrice: 244.99 EUR
 currency: EUR

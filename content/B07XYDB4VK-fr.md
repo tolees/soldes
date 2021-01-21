@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XYDB4VK-fr The Rolling Stones-Bridges to Buenos Aires Blu-Ray SD...'
+sku: 'B07XYDB4VK-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

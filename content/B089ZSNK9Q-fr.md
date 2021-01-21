@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZSNK9Q-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
+sku: 'B089ZSNK9Q-fr'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

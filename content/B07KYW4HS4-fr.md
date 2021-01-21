@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KYW4HS4-fr INFOSEC- Onduleur Z1 Zenergy Cube EX 400 VA 3 prises...'
+sku: 'B07KYW4HS4-fr'
 tags: [  ]
 actualPrice: 65.09 EUR
 currency: EUR

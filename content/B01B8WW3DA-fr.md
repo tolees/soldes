@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01B8WW3DA-fr Rubie s-déguisement officiel - Rubie s-Costume Miraculous...'
+sku: 'B01B8WW3DA-fr'
 tags: [  ]
 actualPrice: 4.0 EUR
 currency: EUR

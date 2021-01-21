@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FRBZYDL-fr eXtremeRate 2 Pcs Verres Trempé pour Nintendo Switch...'
+sku: 'B08FRBZYDL-fr'
 tags: [  ]
 actualPrice: 14.59 EUR
 currency: EUR

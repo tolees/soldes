@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081YPWFHC-fr Aschef Ensemble d Ustensiles de Cuisine en Slicone Lot de...'
+sku: 'B081YPWFHC-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

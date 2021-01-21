@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTJE9Q-fr G-Star 3301 Straight Tapered Jeans Bleu lt aged 7607-424...'
+sku: 'B01BGTJE9Q-fr'
 tags: [  ]
 actualPrice: 82.98 EUR
 currency: EUR

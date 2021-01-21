@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XXR5X3Q-fr Elbe Bloc Prise pour Bureau multiprise 3 Prises 2 USB 2...'
+sku: 'B07XXR5X3Q-fr'
 tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR

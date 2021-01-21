@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015JIA97Q-fr Polaroid Snap - Appareil Photo Numérique Instantané avec...'
+sku: 'B015JIA97Q-fr'
 tags: [  ]
 actualPrice: 96.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDG2TK2-fr OSRAM - Applique extérieure LED ENDURA STYLE UpDoWn Flex -...'
+sku: 'B07FDG2TK2-fr'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

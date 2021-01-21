@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077BCXB6H-fr Calvin Klein Homme - Lot de 3 aille mi-haute boxers -...'
+sku: 'B077BCXB6H-fr'
 tags: [  ]
 actualPrice: 36.02 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005ZNM01O-fr Queen-Days of Our Lives [Blu-Ray]'
+sku: 'B005ZNM01O-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HH4Y9QL-fr YUES Manette pour PS4 DUALSHOCK 4 pour Playstation...'
+sku: 'B08HH4Y9QL-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

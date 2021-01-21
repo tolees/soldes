@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKFWHGV-fr Disque Dur Externe 2to USB3.0 pour PC Mac Ordinateur de...'
+sku: 'B08DKFWHGV-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

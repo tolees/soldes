@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P8XQPY4-fr Clé USB 3.0 SanDisk Ultra 128 Go avec une vitesse de...'
+sku: 'B00P8XQPY4-fr'
 tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR

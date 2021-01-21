@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FY31XK2-fr Office 365 Famille maintenant Microsoft 365 Famille |...'
+sku: 'B07FY31XK2-fr'
 tags: [  ]
 actualPrice: 53.49 EUR
 currency: EUR

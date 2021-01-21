@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5VCJ2Q-fr Puma ESS Logo Tee T-Shirt Femme White S'
+sku: 'B07D5VCJ2Q-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

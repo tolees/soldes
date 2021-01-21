@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0797LZWTL-fr Smartrike 650–0900 4 en 1 Tricycle Enfant Véhicule Vert'
+sku: 'B0797LZWTL-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTUCK8S-fr Hercules DJControl Instinct Party Pack Contrôleur DJ USB...'
+sku: 'B01HTUCK8S-fr'
 tags: [  ]
 actualPrice: 77.51 EUR
 currency: EUR

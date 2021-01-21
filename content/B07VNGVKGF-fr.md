@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNGVKGF-fr SanDisk iXpand 128 Go - Clé USB double connectique pour...'
+sku: 'B07VNGVKGF-fr'
 tags: [  ]
 actualPrice: 45.46 EUR
 currency: EUR

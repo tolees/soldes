@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S283CPP-fr Redskins Blouson Cuir Karting Calista Homme'
+sku: 'B07S283CPP-fr'
 tags: [  ]
 actualPrice: 239.2 EUR
 currency: EUR

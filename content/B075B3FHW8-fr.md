@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075B3FHW8-fr Hugo Boss Orange Homme Analogique Classique Quartz Montre...'
+sku: 'B075B3FHW8-fr'
 tags: [  ]
 actualPrice: 71.4 EUR
 currency: EUR

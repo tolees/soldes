@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018QCGM50-fr Fanny Fouks Mousse EVA thermoformable 40x60 cm - Jaune -...'
+sku: 'B018QCGM50-fr'
 tags: [  ]
 actualPrice: 27.74 EUR
 currency: EUR

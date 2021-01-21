@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N77C6KY-fr Carte Uhs-I Lexar Professional 633x 512 Go Microsdxc'
+sku: 'B07N77C6KY-fr'
 tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR

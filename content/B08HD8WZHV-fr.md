@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HD8WZHV-fr LK 2 pièces Verre Trempé pour Samsung Galaxy A51...'
+sku: 'B08HD8WZHV-fr'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K11RC1X-fr adidas I-5923 Chaussures de Gymnastique homme - Blanc Ftwr...'
+sku: 'B07K11RC1X-fr'
 tags: [  ]
 actualPrice: 74.12 EUR
 currency: EUR

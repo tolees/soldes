@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXT16Q6-fr Geox D TABELYA A Sneakers Basses Femme Beige Cream/Lt Gold...'
+sku: 'B07SXT16Q6-fr'
 tags: [  ]
 actualPrice: 50.46 EUR
 currency: EUR

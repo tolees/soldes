@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLRK4ZQ-fr David Jones - Grand Sac à Main Femme - Cabas Fourre-Tout...'
+sku: 'B07FLRK4ZQ-fr'
 tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR

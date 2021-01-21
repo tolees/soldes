@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVG8Q61-fr Mpow H7 Casque Bluetooth sans Fil Casque Audio avec Micro...'
+sku: 'B07NVG8Q61-fr'
 tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR

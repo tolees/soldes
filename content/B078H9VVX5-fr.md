@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078H9VVX5-fr Wrangler Regular Jacket Homme Bleu Midstone 091 Small'
+sku: 'B078H9VVX5-fr'
 tags: [  ]
 actualPrice: 63.1 EUR
 currency: EUR

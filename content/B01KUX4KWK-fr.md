@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KUX4KWK-fr Reebok Deck'
+sku: 'B01KUX4KWK-fr'
 tags: [  ]
 actualPrice: 121.17 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W88MPQD-fr Orfeld Aspirateur Balai Sans Fil 18000Pa 2 en 1 Aspirateur...'
+sku: 'B07W88MPQD-fr'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

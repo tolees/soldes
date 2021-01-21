@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00KBXKJ2A-fr EDISION HDMI MODULATOR single DVB-T Full HD MPEG4 RF-IN...'
+sku: 'B00KBXKJ2A-fr'
 tags: [  ]
 actualPrice: 92.39 EUR
 currency: EUR

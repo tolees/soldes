@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XZQM4WK-fr Arlo Pro3 Caméra de surveillance Wifi extérieure. Caméra...'
+sku: 'B07XZQM4WK-fr'
 tags: [  ]
 actualPrice: 353.08 EUR
 currency: EUR

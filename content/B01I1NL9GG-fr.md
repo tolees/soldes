@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01I1NL9GG-fr FAGOR FG293 Aspirateur balai 2 en 1 Rouge 0 5 L 1800 W'
+sku: 'B01I1NL9GG-fr'
 tags: [  ]
 actualPrice: 81.42 EUR
 currency: EUR

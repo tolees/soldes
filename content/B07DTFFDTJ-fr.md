@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DTFFDTJ-fr Jeux De Construction Mosaique Enfant Puzzle Jeu Motricite...'
+sku: 'B07DTFFDTJ-fr'
 tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR

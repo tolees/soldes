@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NFKVYDZ-fr Kipling LICIA Cartable 49 cm 20 liters Multicolore Hearty...'
+sku: 'B07NFKVYDZ-fr'
 tags: [  ]
 actualPrice: 91.51 EUR
 currency: EUR

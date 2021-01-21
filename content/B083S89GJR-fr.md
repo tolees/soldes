@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083S89GJR-fr ASUS TUF Gaming VG279QM - Ecran PC Gamer eSport 27" FHD -...'
+sku: 'B083S89GJR-fr'
 tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T3NQC2L-fr Origin Stories-Man of Steel + Wonder Woman + Aquaman +...'
+sku: 'B07T3NQC2L-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D917DLD-fr Curvy Kate Sheer Class Maillot Une Pièce Noir Black Black...'
+sku: 'B07D917DLD-fr'
 tags: [  ]
 actualPrice: 59.74 EUR
 currency: EUR

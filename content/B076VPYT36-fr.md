@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076VPYT36-fr Tenda système WiFi mesh Bi-bande gigabit MW6 3-Pack pour...'
+sku: 'B076VPYT36-fr'
 tags: [  ]
 actualPrice: 112.62 EUR
 currency: EUR

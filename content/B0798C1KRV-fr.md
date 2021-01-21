@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0798C1KRV-fr LIVALL Bh60se Musik Rücklicht Blinker Navigation...'
+sku: 'B0798C1KRV-fr'
 tags: [  ]
 actualPrice: 111.63 EUR
 currency: EUR

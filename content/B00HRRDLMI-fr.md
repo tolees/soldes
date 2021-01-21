@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HRRDLMI-fr Sylvanian Families - 4370 - Le chalet'
+sku: 'B00HRRDLMI-fr'
 tags: [  ]
 actualPrice: 40.59 EUR
 currency: EUR

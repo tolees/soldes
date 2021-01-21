@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07T4RYNYZ-fr Batman La Relève - La Série Animée Edition Deluxe [Edition...'
+sku: 'B07T4RYNYZ-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

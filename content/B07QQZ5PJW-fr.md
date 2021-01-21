@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QQZ5PJW-fr Seagate Backup Plus Portable 5 To Disque dur externe HDD...'
+sku: 'B07QQZ5PJW-fr'
 tags: [  ]
 actualPrice: 115.99 EUR
 currency: EUR

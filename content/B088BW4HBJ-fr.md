@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088BW4HBJ-fr Elyco 2 PCS Brassards de Contrôle pour Nintendo Switch...'
+sku: 'B088BW4HBJ-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

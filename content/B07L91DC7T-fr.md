@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L91DC7T-fr Replay W7525 .000.83534 Manteau Beige 10 Large Femme'
+sku: 'B07L91DC7T-fr'
 tags: [  ]
 actualPrice: 123.7 EUR
 currency: EUR

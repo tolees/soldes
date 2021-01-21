@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S7QG4KG-fr PUMA NRGY Rupture Running Mixte Adulte Black-High Rise...'
+sku: 'B07S7QG4KG-fr'
 tags: [  ]
 actualPrice: 29.61 EUR
 currency: EUR

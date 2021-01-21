@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KC3HPVN-fr ACCUWEIGHT Balance de Cuisine Électronique Balance...'
+sku: 'B07KC3HPVN-fr'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

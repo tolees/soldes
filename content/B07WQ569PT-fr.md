@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WQ569PT-fr VAUDE Men s Cyclist Softshell Jacket Veste Homme Black FR...'
+sku: 'B07WQ569PT-fr'
 tags: [  ]
 actualPrice: 84.0 EUR
 currency: EUR

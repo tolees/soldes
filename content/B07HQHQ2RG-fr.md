@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HQHQ2RG-fr LIGHTAILING Jeu De Lumières pour Architecture La Tour...'
+sku: 'B07HQHQ2RG-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

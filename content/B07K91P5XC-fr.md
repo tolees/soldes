@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K91P5XC-fr Crocs Crocband II Kids Sandales Bride Cheville Mixte...'
+sku: 'B07K91P5XC-fr'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

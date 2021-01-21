@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002DJB9GA-fr BÉABA Transat Up & Down I Transat Réglable par simple...'
+sku: 'B002DJB9GA-fr'
 tags: [  ]
 actualPrice: 106.99 EUR
 currency: EUR

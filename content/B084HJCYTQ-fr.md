@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084HJCYTQ-fr Samurai Shodown'
+sku: 'B084HJCYTQ-fr'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

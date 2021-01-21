@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IL025TO-fr Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes lot...'
+sku: 'B01IL025TO-fr'
 tags: [  ]
 actualPrice: 27.52 EUR
 currency: EUR

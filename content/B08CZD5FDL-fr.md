@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZD5FDL-fr Ucradle Jeu Boulier Jouet Bois Labyrinthe Jeux Montessori...'
+sku: 'B08CZD5FDL-fr'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

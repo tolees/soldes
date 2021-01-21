@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M5F8SB6-fr Logitech G Saitek X52 Pro Flight Système 3M avec Commande...'
+sku: 'B01M5F8SB6-fr'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

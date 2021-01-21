@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008ES8WZA-fr Schott NYC Lc5100 Blouson Noir Large Taille fabricant: L...'
+sku: 'B008ES8WZA-fr'
 tags: [  ]
 actualPrice: 253.51 EUR
 currency: EUR

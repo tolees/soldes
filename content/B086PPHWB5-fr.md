@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086PPHWB5-fr F1 2020 - Seventy Edition'
+sku: 'B086PPHWB5-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

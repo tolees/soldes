@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDNBXMD-fr Disque Dur Externe 2to Disque Dur Externe USB3.1 Type-C...'
+sku: 'B08CDNBXMD-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0058G3ZNA-fr Objectif Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R...'
+sku: 'B0058G3ZNA-fr'
 tags: [  ]
 actualPrice: 179.99 EUR
 currency: EUR

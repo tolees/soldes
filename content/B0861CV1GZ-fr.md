@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0861CV1GZ-fr Muzili Écouteurs Bluetooth sans Fil Sport Étanches IPX7...'
+sku: 'B0861CV1GZ-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

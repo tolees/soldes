@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GCMBQYH-fr Ecouteur Bluetooth Casque Bluetooth sans Fil avec Micro...'
+sku: 'B08GCMBQYH-fr'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0163EJIOK-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme...'
+sku: 'B0163EJIOK-fr'
 tags: [  ]
 actualPrice: 9.43 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004L3DIYM-fr Timberland Rugged 6 inch Plain Toe Waterproof Bottes Homme...'
+sku: 'B004L3DIYM-fr'
 tags: [  ]
 actualPrice: 145.98 EUR
 currency: EUR

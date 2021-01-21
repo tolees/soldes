@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MU3CCPL-fr Kärcher 6.295-941.0 Nettoyant pour sols en bois 500ml pour...'
+sku: 'B01MU3CCPL-fr'
 tags: [  ]
 actualPrice: 6.96 EUR
 currency: EUR

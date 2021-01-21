@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0746P6FQC-fr Philips Sonicare HX8491/01 AirFloss Ultra et brosse à...'
+sku: 'B0746P6FQC-fr'
 tags: [  ]
 actualPrice: 149.93 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FLVR6YM-fr RoWrite Royole Smart Digital Véritable Papier Notepad...'
+sku: 'B07FLVR6YM-fr'
 tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR

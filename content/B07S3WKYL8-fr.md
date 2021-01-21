@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S3WKYL8-fr Nappe carrée"Israël Story" Blanc/Violet – Made in France -...'
+sku: 'B07S3WKYL8-fr'
 tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR

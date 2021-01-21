@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0012UNZ9K-fr Bosch 2607019444 Cassette de 5 forets à béton Diamètre...'
+sku: 'B0012UNZ9K-fr'
 tags: [  ]
 actualPrice: 6.2 EUR
 currency: EUR

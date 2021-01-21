@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084VJ88TH-fr Motast Enceinte Bluetooth Portable 30 Heures De Lecture...'
+sku: 'B084VJ88TH-fr'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

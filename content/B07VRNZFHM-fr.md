@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VRNZFHM-fr FITTOO Costume da Bagno Donna Bikini Brasiliana Un Pezzo...'
+sku: 'B07VRNZFHM-fr'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

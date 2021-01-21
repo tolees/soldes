@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSPW2T3-fr Love Moschino Brushed Jersey Bottom Lace Long Skirt Jupe...'
+sku: 'B07KSPW2T3-fr'
 tags: [  ]
 actualPrice: 96.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V7XQM9V-fr Tommy Hilfiger Essential Nautical Sneaker Sneakers Basses...'
+sku: 'B07V7XQM9V-fr'
 tags: [  ]
 actualPrice: 41.94 EUR
 currency: EUR

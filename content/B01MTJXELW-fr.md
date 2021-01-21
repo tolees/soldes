@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MTJXELW-fr Roccat Suora FX Clavier Gaming Mécanique Rétroéclairé RGB...'
+sku: 'B01MTJXELW-fr'
 tags: [  ]
 actualPrice: 97.99 EUR
 currency: EUR

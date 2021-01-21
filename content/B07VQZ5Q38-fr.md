@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VQZ5Q38-fr Marmot Wm s Slingshot Jacket Veste de Neige en Duvet...'
+sku: 'B07VQZ5Q38-fr'
 tags: [  ]
 actualPrice: 173.61 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F9KB9V7-fr Chaussures Femmes Sport Trainers Confort Poids Léger Woven...'
+sku: 'B07F9KB9V7-fr'
 tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VWOUSU-fr Queen - Rock Montreal & Live Aid [Blu-ray]'
+sku: 'B000VWOUSU-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

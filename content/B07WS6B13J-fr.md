@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WS6B13J-fr TUREWELL T9 Android 9.0 TV Box 2 Go RAM/16 Go ROM Support...'
+sku: 'B07WS6B13J-fr'
 tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR

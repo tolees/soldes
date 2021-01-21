@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RS84LHJ-fr Tommy Hilfiger Classic Straight Hw C Balt Jean Droit Bleu...'
+sku: 'B07RS84LHJ-fr'
 tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR

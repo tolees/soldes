@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TP696NK-fr Lacoste femme NF2731CE Chantaco Sac porte epaule Rose...'
+sku: 'B07TP696NK-fr'
 tags: [  ]
 actualPrice: 121.0 EUR
 currency: EUR

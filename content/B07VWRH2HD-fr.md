@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VWRH2HD-fr Naturino Falcotto Haley Chaussures de Gymnastique Mixte...'
+sku: 'B07VWRH2HD-fr'
 tags: [  ]
 actualPrice: 42.58 EUR
 currency: EUR

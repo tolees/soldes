@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YYZBVYF-fr Casque Beats Solo Pro sans fil avec réduction du bruit -...'
+sku: 'B07YYZBVYF-fr'
 tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR

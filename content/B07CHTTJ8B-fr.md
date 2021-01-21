@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CHTTJ8B-fr Levi s SS Original HM Tee T-Shirt Multicolore Cotton +...'
+sku: 'B07CHTTJ8B-fr'
 tags: [  ]
 actualPrice: 17.5 EUR
 currency: EUR

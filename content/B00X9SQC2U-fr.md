@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00X9SQC2U-fr BaByliss Lisseur I-Pro 230 Steam avec technologie...'
+sku: 'B00X9SQC2U-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

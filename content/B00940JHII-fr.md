@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00940JHII-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Femme - Vert...'
+sku: 'B00940JHII-fr'
 tags: [  ]
 actualPrice: 95.2 EUR
 currency: EUR

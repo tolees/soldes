@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYFR96U-fr Playmobil - Porsche 911 GT3 Cup - 9225'
+sku: 'B01LYFR96U-fr'
 tags: [  ]
 actualPrice: 41.05 EUR
 currency: EUR

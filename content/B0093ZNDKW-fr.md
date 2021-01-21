@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0093ZNDKW-fr Arena Vortex Evolution Hand Paddle Équipement...'
+sku: 'B0093ZNDKW-fr'
 tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR

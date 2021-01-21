@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HK2HL8G-fr Dihope Survêtement Homme Ensemble de Sport 2 Pièces Casual...'
+sku: 'B08HK2HL8G-fr'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

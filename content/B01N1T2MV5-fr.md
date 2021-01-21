@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N1T2MV5-fr Casque Bluetooth sans Fil avec ANC - August EP750 - Casque...'
+sku: 'B01N1T2MV5-fr'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

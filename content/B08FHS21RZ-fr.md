@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FHS21RZ-fr LOKAKA Coque pour Sony Xperia 10 II Coque Pochette Housse...'
+sku: 'B08FHS21RZ-fr'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

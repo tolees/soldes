@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHW1NXG-fr Disque Dur Externe 1to Disque Dur Externe USB-C Portable...'
+sku: 'B08BHW1NXG-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

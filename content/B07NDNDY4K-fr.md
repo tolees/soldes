@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NDNDY4K-fr BRAX Golf Tim Pull Bleu Dunkelblau 23 Medium Homme'
+sku: 'B07NDNDY4K-fr'
 tags: [  ]
 actualPrice: 93.78 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTCIEM8-fr Montre CHRONOWATCH Automatique - Affichage Bracelet Métal...'
+sku: 'B01GTCIEM8-fr'
 tags: [  ]
 actualPrice: 162.0 EUR
 currency: EUR

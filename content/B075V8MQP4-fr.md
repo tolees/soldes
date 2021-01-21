@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V8MQP4-fr IQE-Storage TB-M6 Trolley de transport rembourrage en...'
+sku: 'B075V8MQP4-fr'
 tags: [  ]
 actualPrice: 62.03 EUR
 currency: EUR

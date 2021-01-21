@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078GMZ9PQ-fr Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à...'
+sku: 'B078GMZ9PQ-fr'
 tags: [  ]
 actualPrice: 97.32 EUR
 currency: EUR

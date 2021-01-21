@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FNTTF41-fr LEGO® Marvel Super Heroes™ Captain America et l attaque...'
+sku: 'B07FNTTF41-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

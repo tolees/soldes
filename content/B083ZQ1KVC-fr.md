@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083ZQ1KVC-fr Atolla Adaptateur USB Ethernet RJ45 Réseau Adaptateur USB...'
+sku: 'B083ZQ1KVC-fr'
 tags: [  ]
 actualPrice: 11.88 EUR
 currency: EUR

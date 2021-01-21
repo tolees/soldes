@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTEMGN4-fr SONAX 02465000 ProfiLine cutmax 5 l'
+sku: 'B01GTEMGN4-fr'
 tags: [  ]
 actualPrice: 79.23 EUR
 currency: EUR

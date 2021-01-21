@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCVGDJL-fr Montre Connectée Homme UMIDIGI Uwatch 2S Smartwatch Femmes...'
+sku: 'B08DCVGDJL-fr'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

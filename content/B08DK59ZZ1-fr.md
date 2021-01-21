@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DK59ZZ1-fr LiNKFOR Antenne TV Intérieure Numérique avec Signal...'
+sku: 'B08DK59ZZ1-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

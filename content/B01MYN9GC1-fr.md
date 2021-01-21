@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYN9GC1-fr Replay Anbass Jean Slim Homme Gris Grey Denim 9 W32/L30'
+sku: 'B01MYN9GC1-fr'
 tags: [  ]
 actualPrice: 92.8 EUR
 currency: EUR

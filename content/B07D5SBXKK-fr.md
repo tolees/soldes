@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D5SBXKK-fr PUMA ESS Logo Leggings Pantalons Femme Cotton Black S'
+sku: 'B07D5SBXKK-fr'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

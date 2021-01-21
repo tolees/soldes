@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BQNJ1FH-fr Ready Player One - DVD'
+sku: 'B07BQNJ1FH-fr'
 tags: [  ]
 actualPrice: 7.98 EUR
 currency: EUR

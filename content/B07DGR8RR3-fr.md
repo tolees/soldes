@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DGR8RR3-fr Philips Hue White Ambiance ADORE Barre de Spots salle de...'
+sku: 'B07DGR8RR3-fr'
 tags: [  ]
 actualPrice: 129.66 EUR
 currency: EUR

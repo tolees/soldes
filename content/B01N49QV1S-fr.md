@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N49QV1S-fr Aicok Ensemble de couteaux Couteaux de chef avec bloc en...'
+sku: 'B01N49QV1S-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

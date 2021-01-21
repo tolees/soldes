@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQK257L-fr Senya SYBF-CJ018C extracteur de jus de fruits et legumes...'
+sku: 'B07KQK257L-fr'
 tags: [  ]
 actualPrice: 79.9 EUR
 currency: EUR

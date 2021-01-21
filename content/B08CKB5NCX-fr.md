@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKB5NCX-fr Lumière Solaire Extérieur-POLARTAIL-[140...'
+sku: 'B08CKB5NCX-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

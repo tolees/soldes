@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00HAH7GJ4-fr Slave to The Sword'
+sku: 'B00HAH7GJ4-fr'
 tags: [  ]
 actualPrice: 8.73 EUR
 currency: EUR

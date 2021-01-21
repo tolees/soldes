@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VSNBTQL-fr 3T6B Drone avec Camera 1080P HD 4K Pixels Quadricoptère de...'
+sku: 'B07VSNBTQL-fr'
 tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR

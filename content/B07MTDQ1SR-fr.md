@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MTDQ1SR-fr Zamkol Enceinte Bluetooth Portable Waterproof Haut-Parleur...'
+sku: 'B07MTDQ1SR-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

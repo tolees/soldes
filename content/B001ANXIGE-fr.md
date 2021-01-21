@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001ANXIGE-fr BIC Kids Decoralo Feutres de Coloriage à Pointe Extra...'
+sku: 'B001ANXIGE-fr'
 tags: [  ]
 actualPrice: 27.26 EUR
 currency: EUR

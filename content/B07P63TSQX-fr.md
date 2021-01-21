@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P63TSQX-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 240 Go...'
+sku: 'B07P63TSQX-fr'
 tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR

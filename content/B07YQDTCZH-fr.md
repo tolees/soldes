@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YQDTCZH-fr Kipling BTS Sac d école Carlow Robot Camo Bleu'
+sku: 'B07YQDTCZH-fr'
 tags: [  ]
 actualPrice: 38.55 EUR
 currency: EUR

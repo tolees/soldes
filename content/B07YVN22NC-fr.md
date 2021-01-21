@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YVN22NC-fr Philips Hue White & Color Ambiance Spot Fugato x2 Noir...'
+sku: 'B07YVN22NC-fr'
 tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR

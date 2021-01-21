@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HRYG6F4-fr J&K Markets Couette Microfibre 240x260cm- 750gr/m² - Grand...'
+sku: 'B07HRYG6F4-fr'
 tags: [  ]
 actualPrice: 124.95 EUR
 currency: EUR

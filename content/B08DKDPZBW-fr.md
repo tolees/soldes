@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKDPZBW-fr HHUIWIND Coque Xiaomi Redmi 9 + Verre Trempé Protection...'
+sku: 'B08DKDPZBW-fr'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00M7NEPDG-fr Fossil Femme Analogique Quartz Montre avec Bracelet en...'
+sku: 'B00M7NEPDG-fr'
 tags: [  ]
 actualPrice: 125.3 EUR
 currency: EUR

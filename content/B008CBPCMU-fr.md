@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008CBPCMU-fr sloggi Chic Maxi 4P Culotte Femme Lot de 4 Noir BLACK 0004...'
+sku: 'B008CBPCMU-fr'
 tags: [  ]
 actualPrice: 36.76 EUR
 currency: EUR

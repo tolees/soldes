@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSFWPTJ-fr Neato Robotics D4 Aspirateur Robot Intelligent -...'
+sku: 'B07GSFWPTJ-fr'
 tags: [  ]
 actualPrice: 355.99 EUR
 currency: EUR

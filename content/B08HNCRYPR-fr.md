@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HNCRYPR-fr Orzly Lot d accessoires pour console Nintendo Switch avec...'
+sku: 'B08HNCRYPR-fr'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

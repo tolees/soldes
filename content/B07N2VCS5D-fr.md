@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2VCS5D-fr KRUPS - YY4127FD - Machine expresso Nespresso - PIXIE...'
+sku: 'B07N2VCS5D-fr'
 tags: [  ]
 actualPrice: 100.0 EUR
 currency: EUR

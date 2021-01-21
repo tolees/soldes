@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSRWTST-fr Hommes Mode Sneakers Confort Respirant Doux Maille De...'
+sku: 'B07GSRWTST-fr'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

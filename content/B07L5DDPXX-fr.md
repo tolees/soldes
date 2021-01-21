@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L5DDPXX-fr Microsoft – Modern Mobile Mouse – Souris Bluetooth pour PC...'
+sku: 'B07L5DDPXX-fr'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

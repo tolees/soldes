@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LGPLJ6S-fr Onduleur Z1 Zenergy Cube EX 600 VA 3 prises secourues'
+sku: 'B07LGPLJ6S-fr'
 tags: [  ]
 actualPrice: 77.01 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X8XNJ69-fr iBaby-Fish Nettoyeur de Dents d animal familier retirez Le...'
+sku: 'B07X8XNJ69-fr'
 tags: [  ]
 actualPrice: 96.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TTZU566-fr Visseuse sans fil Bosch - IXO V Edition Classique Livrée...'
+sku: 'B00TTZU566-fr'
 tags: [  ]
 actualPrice: 40.0 EUR
 currency: EUR

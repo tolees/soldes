@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FK2YXW4-fr Degré7 Touring Veste de Ski Homme White FR : L Taille...'
+sku: 'B07FK2YXW4-fr'
 tags: [  ]
 actualPrice: 359.99 EUR
 currency: EUR

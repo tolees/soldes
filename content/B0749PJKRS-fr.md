@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0749PJKRS-fr CRAZYCHIC - Bague Elastique Taille Réglable Ajustable...'
+sku: 'B0749PJKRS-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

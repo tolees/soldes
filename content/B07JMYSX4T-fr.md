@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMYSX4T-fr Bulova Montres Bracelet 97B172'
+sku: 'B07JMYSX4T-fr'
 tags: [  ]
 actualPrice: 94.87 EUR
 currency: EUR

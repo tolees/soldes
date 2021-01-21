@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007ICIPB4-fr Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable...'
+sku: 'B007ICIPB4-fr'
 tags: [  ]
 actualPrice: 63.08 EUR
 currency: EUR

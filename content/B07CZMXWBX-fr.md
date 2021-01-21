@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZMXWBX-fr Under Armour UA Qualifier SPEEDPOCKET 2-N-1 Short Homme...'
+sku: 'B07CZMXWBX-fr'
 tags: [  ]
 actualPrice: 19.44 EUR
 currency: EUR

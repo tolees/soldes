@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NW6DWHJ-fr Calor Centrale Vapeur Express Compact 5 7 Bars Effet...'
+sku: 'B07NW6DWHJ-fr'
 tags: [  ]
 actualPrice: 139.16 EUR
 currency: EUR

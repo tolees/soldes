@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B007FOH7UK-fr Secret World [Blu-ray]'
+sku: 'B007FOH7UK-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

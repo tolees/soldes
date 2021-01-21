@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VFQRXSK-fr Samsonite Lite-Shock - Spinner S Bagage à Main 55 cm 36 L...'
+sku: 'B00VFQRXSK-fr'
 tags: [  ]
 actualPrice: 249.0 EUR
 currency: EUR

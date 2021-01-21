@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZM9NWDQ-fr Masseur Cervical Appareil de Massage Électrique Masseur de...'
+sku: 'B07ZM9NWDQ-fr'
 tags: [  ]
 actualPrice: 21.66 EUR
 currency: EUR

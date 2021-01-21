@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9MQ2QL-fr Samsonite Sac à dos loisir 116873/1041 Jaune foncé Jaune -...'
+sku: 'B07N9MQ2QL-fr'
 tags: [  ]
 actualPrice: 59.58 EUR
 currency: EUR

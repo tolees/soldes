@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XH4C28X-fr POP! Marvel: Black Widow – Taskmaster w/ Shield'
+sku: 'B07XH4C28X-fr'
 tags: [  ]
 actualPrice: 7.51 EUR
 currency: EUR

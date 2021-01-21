@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZF5N9M-fr Enchantimals Mini-poupée Tamika Grenouille et Figurine...'
+sku: 'B07MZF5N9M-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

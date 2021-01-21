@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XWMQ81P-fr SANDISK - 32 Go Carte microSD Extreme avec Adaptateur SD |...'
+sku: 'B06XWMQ81P-fr'
 tags: [  ]
 actualPrice: 10.69 EUR
 currency: EUR

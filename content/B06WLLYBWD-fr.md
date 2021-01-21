@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WLLYBWD-fr Montre Femme - Dreyfuss DLS00146/01'
+sku: 'B06WLLYBWD-fr'
 tags: [  ]
 actualPrice: 186.55 EUR
 currency: EUR

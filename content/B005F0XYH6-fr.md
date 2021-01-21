@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005F0XYH6-fr Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135...'
+sku: 'B005F0XYH6-fr'
 tags: [  ]
 actualPrice: 77.04 EUR
 currency: EUR

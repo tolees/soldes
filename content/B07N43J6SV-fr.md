@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N43J6SV-fr Tommy Hilfiger Mixed Media Zip Trhough Sweat-Shirt Sky...'
+sku: 'B07N43J6SV-fr'
 tags: [  ]
 actualPrice: 144.8 EUR
 currency: EUR

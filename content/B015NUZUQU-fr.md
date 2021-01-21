@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015NUZUQU-fr Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector...'
+sku: 'B015NUZUQU-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075WW3JKQ-fr Shifu Orboot : Le globe éducatif basé sur la réalité...'
+sku: 'B075WW3JKQ-fr'
 tags: [  ]
 actualPrice: 37.43 EUR
 currency: EUR

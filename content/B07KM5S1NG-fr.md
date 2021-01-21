@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KM5S1NG-fr EZVIZ CTQ3W Caméra Surveillance WiFi Extérieure Caméra...'
+sku: 'B07KM5S1NG-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

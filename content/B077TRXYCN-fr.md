@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077TRXYCN-fr Mixcder E7 Casque Bluetooth à Réduction Active de Bruit...'
+sku: 'B077TRXYCN-fr'
 tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR

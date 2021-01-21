@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F9RSW9D-fr REDSTORM Manette PC/PS3 Manette Switch 5 Niveaux de LED...'
+sku: 'B08F9RSW9D-fr'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

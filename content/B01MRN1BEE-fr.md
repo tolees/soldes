@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MRN1BEE-fr VTECH - 80-502805 - Formes à trier et à empiler - 1 2 3...'
+sku: 'B01MRN1BEE-fr'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

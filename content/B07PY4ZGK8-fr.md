@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY4ZGK8-fr Emartbuy Luxe Rigide Boîte-Cadeau de Présentation en Forme...'
+sku: 'B07PY4ZGK8-fr'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

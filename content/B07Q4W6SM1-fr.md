@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q4W6SM1-fr WOTEK Bande Élastique Fitness Élastique Musculation Bande...'
+sku: 'B07Q4W6SM1-fr'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

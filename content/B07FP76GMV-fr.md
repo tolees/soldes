@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FP76GMV-fr LEGO®-Star Wars™ Action Battle L attaque du générateur de...'
+sku: 'B07FP76GMV-fr'
 tags: [  ]
 actualPrice: 22.18 EUR
 currency: EUR

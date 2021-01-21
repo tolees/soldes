@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000KKLXDS-fr Eastpak The One Sac Bandoulière 21 cm 2.5 L Noir Black'
+sku: 'B000KKLXDS-fr'
 tags: [  ]
 actualPrice: 19.45 EUR
 currency: EUR

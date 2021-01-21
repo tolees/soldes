@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CMBT3BQ-fr YAMAHA RX-V585 – Amplificateur Home Cinema 145W – Système...'
+sku: 'B07CMBT3BQ-fr'
 tags: [  ]
 actualPrice: 449.0 EUR
 currency: EUR

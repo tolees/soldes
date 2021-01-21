@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YGKP63D-fr Joseph Joseph 30091 Totem Pop 60L Unité de tri sélectif...'
+sku: 'B07YGKP63D-fr'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

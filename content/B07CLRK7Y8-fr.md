@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CLRK7Y8-fr OMRON VIVA : Pèse-personne intelligent Bluetooth avec...'
+sku: 'B07CLRK7Y8-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

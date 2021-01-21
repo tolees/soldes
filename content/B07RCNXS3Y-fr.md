@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RCNXS3Y-fr Columbia Lake 22 Doudoune à Capuche Homme - Noir Black - L'
+sku: 'B07RCNXS3Y-fr'
 tags: [  ]
 actualPrice: 75.89 EUR
 currency: EUR

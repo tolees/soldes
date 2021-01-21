@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FKZYHP3-fr find. Fur Lined Hiker Chaussures de Randonnée Basses...'
+sku: 'B07FKZYHP3-fr'
 tags: [  ]
 actualPrice: 37.92 EUR
 currency: EUR

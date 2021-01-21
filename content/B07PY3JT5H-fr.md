@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PY3JT5H-fr HP 25MX Moniteur 62 23 cm 24 5" FHD 1 ms 1920 x 1080...'
+sku: 'B07PY3JT5H-fr'
 tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR

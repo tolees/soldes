@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002ALQGFK-fr Ardes - ARD.M240 - Masseur - Anti-Cellulite -...'
+sku: 'B002ALQGFK-fr'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

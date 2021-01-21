@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01IL03N0E-fr Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable...'
+sku: 'B01IL03N0E-fr'
 tags: [  ]
 actualPrice: 8.64 EUR
 currency: EUR

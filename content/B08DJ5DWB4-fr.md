@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ5DWB4-fr Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe...'
+sku: 'B08DJ5DWB4-fr'
 tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MWHRRVC-fr Polti Forzaspira AG220 Plus Nettoyeur à Vitres sans Fil...'
+sku: 'B07MWHRRVC-fr'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

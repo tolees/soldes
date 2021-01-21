@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VYCVZ3T-fr AUBADE Haut de Maillot de Bain Triangle avec Coques...'
+sku: 'B07VYCVZ3T-fr'
 tags: [  ]
 actualPrice: 36.0 EUR
 currency: EUR

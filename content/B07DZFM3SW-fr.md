@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DZFM3SW-fr jolidon – Lilly – Maillot de Bain Deux Pièces – Haut de...'
+sku: 'B07DZFM3SW-fr'
 tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR

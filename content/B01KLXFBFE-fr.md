@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KLXFBFE-fr Remington Fer à lisser Lisseur Glide Céramique Glisse...'
+sku: 'B01KLXFBFE-fr'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

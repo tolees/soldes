@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ4C7KN-fr Disque Dur Externe 1to USB3.0 pour PC Mac MacBook Xbox One...'
+sku: 'B08DJ4C7KN-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

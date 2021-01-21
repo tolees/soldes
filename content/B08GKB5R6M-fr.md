@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GKB5R6M-fr Minuteur analogique visuel 60 minutes compte à rebours...'
+sku: 'B08GKB5R6M-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

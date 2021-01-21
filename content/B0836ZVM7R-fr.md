@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0836ZVM7R-fr Difuzed The Legend of Zelda Snap Back Cap Link s Awakening...'
+sku: 'B0836ZVM7R-fr'
 tags: [  ]
 actualPrice: 23.4 EUR
 currency: EUR

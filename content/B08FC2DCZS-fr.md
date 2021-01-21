@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FC2DCZS-fr Batterie de remplacement Antank HAC-003 pour console de...'
+sku: 'B08FC2DCZS-fr'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

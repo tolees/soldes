@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P86ZGR-fr Crosscall Shark-X3 Téléphone portable débloqué 3G+ Ecran:...'
+sku: 'B074P86ZGR-fr'
 tags: [  ]
 actualPrice: 58.5 EUR
 currency: EUR

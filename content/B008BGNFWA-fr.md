@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008BGNFWA-fr Lansay - 75024 - Jeu de Société - Les Mystères de Pékin'
+sku: 'B008BGNFWA-fr'
 tags: [  ]
 actualPrice: 21.89 EUR
 currency: EUR

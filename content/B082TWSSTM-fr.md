@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082TWSSTM-fr Casque Bluetooth sans Fil 60 Heurs de Lecture Mpow 059 Pro...'
+sku: 'B082TWSSTM-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

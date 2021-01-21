@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMCCF85-fr Playmobil - Grand Camping - 70087'
+sku: 'B07JMCCF85-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

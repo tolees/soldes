@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ4D4QL-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD pour PC...'
+sku: 'B08DJ4D4QL-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

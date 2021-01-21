@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BWK745H-fr eXtremeRate D-Pad Triggers R1 L1 R2 L2 Touchpad Action...'
+sku: 'B08BWK745H-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

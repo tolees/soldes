@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06VSZTG9B-fr EIVOTOR Localisateur d objets Localisateur de Clé Key...'
+sku: 'B06VSZTG9B-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

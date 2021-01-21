@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5HLNB8-fr Elizabeth Arden Advanced Ceramide Capsules Sérum Quotidien...'
+sku: 'B01N5HLNB8-fr'
 tags: [  ]
 actualPrice: 61.0 EUR
 currency: EUR

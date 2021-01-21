@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CWVPV1J-fr Cache-oreilles électriques avec Bluetooth radio numérique...'
+sku: 'B07CWVPV1J-fr'
 tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR

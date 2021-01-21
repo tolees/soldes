@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VXM67R-fr Nike 894432 T-Shirt Men s Bleu Midnight Navy/White 411 FR...'
+sku: 'B077VXM67R-fr'
 tags: [  ]
 actualPrice: 56.7 EUR
 currency: EUR

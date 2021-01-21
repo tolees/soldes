@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018TLVF5A-fr Halukakah ● Solo ● Homme Bracelet en Cuir Véritable de...'
+sku: 'B018TLVF5A-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0771JPT1D-fr Eastpak Tranverz L Valise 79 cm 121 L Gris Sunday Grey'
+sku: 'B0771JPT1D-fr'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

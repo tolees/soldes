@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFXZC8S-fr Puma Active Leggings Pantalon de Sport Femme Black XL'
+sku: 'B07DFXZC8S-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

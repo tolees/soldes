@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00Q4MYZW2-fr Lacoste - TH7618 - T-Shirt - Homme - Noir Noir 031 - FR:4 M'
+sku: 'B00Q4MYZW2-fr'
 tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR

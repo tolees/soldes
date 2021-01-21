@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JY78KJY-fr Mini Modèle de Voiture Ensemble de Jouets de camions avec...'
+sku: 'B07JY78KJY-fr'
 tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR

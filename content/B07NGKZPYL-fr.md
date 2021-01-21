@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGKZPYL-fr Thomas Sabo montre CODE TS unisexe Acier inoxydable...'
+sku: 'B07NGKZPYL-fr'
 tags: [  ]
 actualPrice: 114.92 EUR
 currency: EUR

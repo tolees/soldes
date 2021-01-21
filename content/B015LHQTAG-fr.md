@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015LHQTAG-fr Beurer FC 90 Pureo Ionic Soin du Visage Anti-âge - Brosse...'
+sku: 'B015LHQTAG-fr'
 tags: [  ]
 actualPrice: 55.24 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L86DVZ7-fr Senbos Portefeuille Homme en Cuir Véritable 18...'
+sku: 'B07L86DVZ7-fr'
 tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR

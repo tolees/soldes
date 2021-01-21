@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01891LZBY-fr Rowenta Ventilateur sur pied 16 /40 cm Turbo Silence...'
+sku: 'B01891LZBY-fr'
 tags: [  ]
 actualPrice: 62.96 EUR
 currency: EUR

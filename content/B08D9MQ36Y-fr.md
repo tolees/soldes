@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D9MQ36Y-fr Manette sans Fil pour Nintendo Switch REDSTORM Manette...'
+sku: 'B08D9MQ36Y-fr'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

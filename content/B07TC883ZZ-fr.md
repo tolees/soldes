@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TC883ZZ-fr Bracelet Femme Orné de Cristaux de Swarovski...'
+sku: 'B07TC883ZZ-fr'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

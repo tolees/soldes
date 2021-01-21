@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001NYKZ84-fr Reebok Classic Leather Baskets Basses Femme Noir Black 38 EU'
+sku: 'B001NYKZ84-fr'
 tags: [  ]
 actualPrice: 63.74 EUR
 currency: EUR

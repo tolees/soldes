@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083WQNWBH-fr IKOHS AIRCALM DC - Ventilateur de Plafond Fonction...'
+sku: 'B083WQNWBH-fr'
 tags: [  ]
 actualPrice: 180.95 EUR
 currency: EUR

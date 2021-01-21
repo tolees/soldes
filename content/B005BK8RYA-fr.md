@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005BK8RYA-fr Merrell Bare Access XTR Chaussures de Trail Femme Bleu...'
+sku: 'B005BK8RYA-fr'
 tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR

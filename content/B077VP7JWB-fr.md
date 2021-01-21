@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077VP7JWB-fr BaByliss Paris - C1500E - Boucleur automatique Curl Secret...'
+sku: 'B077VP7JWB-fr'
 tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B4LQV7M-fr Adaptateur pour Nintendo Switch Timoom 2 en 1 Bluetooth...'
+sku: 'B08B4LQV7M-fr'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

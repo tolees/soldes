@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RT5YMF5-fr Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra...'
+sku: 'B07RT5YMF5-fr'
 tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR

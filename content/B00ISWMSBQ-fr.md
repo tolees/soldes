@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ISWMSBQ-fr Fossil Femme Collier JF01146040'
+sku: 'B00ISWMSBQ-fr'
 tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR

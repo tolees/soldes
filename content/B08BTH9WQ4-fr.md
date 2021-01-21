@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTH9WQ4-fr SGILE RC Voiture Télécommandée - 4WD Stunt Car avec...'
+sku: 'B08BTH9WQ4-fr'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

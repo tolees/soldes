@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019FVZLPI-fr Sac à dos pour cyclistes et utilisateurs de trottinette...'
+sku: 'B019FVZLPI-fr'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

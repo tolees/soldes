@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W8MHW71-fr Logitech iPad Air Étui Clavier 3e Génération | Slim Folio...'
+sku: 'B07W8MHW71-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

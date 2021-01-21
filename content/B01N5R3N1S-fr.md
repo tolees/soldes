@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5R3N1S-fr Bardahl 2002314A Nettoyant Vanne Erg'
+sku: 'B01N5R3N1S-fr'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

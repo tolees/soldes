@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CAFOWS4-fr Aigle - Miss Juliette - Botte de pluie - Femme - Bleu...'
+sku: 'B00CAFOWS4-fr'
 tags: [  ]
 actualPrice: 43.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XMLG8ZA-fr Pepe Jeans SOHO Pants 10OZ Dark Used Worn H45 29W / 30L Femme'
+sku: 'B00XMLG8ZA-fr'
 tags: [  ]
 actualPrice: 45.98 EUR
 currency: EUR

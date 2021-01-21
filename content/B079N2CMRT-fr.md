@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079N2CMRT-fr Playmobil - Maison de Lucky - 9475'
+sku: 'B079N2CMRT-fr'
 tags: [  ]
 actualPrice: 69.64 EUR
 currency: EUR

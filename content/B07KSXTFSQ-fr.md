@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSXTFSQ-fr Love Moschino Logo Badge Short Sleeve Polo White A00...'
+sku: 'B07KSXTFSQ-fr'
 tags: [  ]
 actualPrice: 96.7 EUR
 currency: EUR

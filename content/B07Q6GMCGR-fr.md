@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q6GMCGR-fr Inspire for homes Déshumidificateur & Purificateur d air 2...'
+sku: 'B07Q6GMCGR-fr'
 tags: [  ]
 actualPrice: 81.03 EUR
 currency: EUR

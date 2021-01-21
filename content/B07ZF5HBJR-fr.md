@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF5HBJR-fr Aribest Lot de 2 Films de Protection en Verre trempé pour...'
+sku: 'B07ZF5HBJR-fr'
 tags: [  ]
 actualPrice: 10.31 EUR
 currency: EUR

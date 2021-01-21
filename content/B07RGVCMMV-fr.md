@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RGVCMMV-fr ITISME Homme Automne Et Hiver Mode Casual Sport De Jogging...'
+sku: 'B07RGVCMMV-fr'
 tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR

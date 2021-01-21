@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK3MBQY-fr Replay Anbass Jean Slim Beige Sand 10 W33/L34 Taille...'
+sku: 'B07KK3MBQY-fr'
 tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR

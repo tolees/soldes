@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074NFYD29-fr THE NORTH FACE Nuptse III Gilet Homme TNF Black FR : M...'
+sku: 'B074NFYD29-fr'
 tags: [  ]
 actualPrice: 94.18 EUR
 currency: EUR

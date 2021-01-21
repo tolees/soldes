@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YKZNN9D-fr TV LED 4K 108 cm 43HK6100'
+sku: 'B07YKZNN9D-fr'
 tags: [  ]
 actualPrice: 349.99 EUR
 currency: EUR

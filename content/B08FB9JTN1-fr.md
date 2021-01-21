@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FB9JTN1-fr Casque Gamer Casque Gaming Ps4 PC avec Micro Anti Bruit 3D...'
+sku: 'B08FB9JTN1-fr'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

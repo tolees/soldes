@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078SY9CWC-fr Timberland Gateway Pier Casual Chaussures Oxford Homme...'
+sku: 'B078SY9CWC-fr'
 tags: [  ]
 actualPrice: 64.48 EUR
 currency: EUR

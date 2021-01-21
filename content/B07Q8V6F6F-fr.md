@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q8V6F6F-fr Dockers by Gerli 43lu001 Bottes Rangers Homme Noir Schwarz...'
+sku: 'B07Q8V6F6F-fr'
 tags: [  ]
 actualPrice: 34.7 EUR
 currency: EUR

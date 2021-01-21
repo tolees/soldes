@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B014R2XVDY-fr Sony MDR-XB50APW Ecouteurs Intra-auriculaires Extra Bass...'
+sku: 'B014R2XVDY-fr'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
@@ -26,13 +27,13 @@ Vous avez [Sony MDR-XB50APW Ecouteurs Intra-auriculaires Extra Bass avec Microph
 
 ℹ️:
 
-- Design léger garantissant une mobilité musicale de haute qualité
-- Diaphragmes en néodyme de 12 mm pour un son puissant et équilibré
 - Large choix de coloris pour adapter le produit à votre style
+- Design léger garantissant une mobilité musicale de haute qualité
+- Réponse en fréquence : 4 - 24 000Hz
 - Garantie fabricant : 1 an
+- Smartphone compatible avec télécommande / microphone sur cordon
+- Diaphragmes en néodyme de 12 mm pour un son puissant et équilibré
 - Longueur du cordon : 1,2 m
 - Technologie X-Bass pour un son digne dune discothèque
-- Smartphone compatible avec télécommande / microphone sur cordon
-- Réponse en fréquence : 4 - 24 000Hz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014R2XVDY/?tag=tolees0d-21)

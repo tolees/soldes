@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01J5FGW66-fr Philips GC8735/80 Centrale vapeur PerfectCare Performer 6...'
+sku: 'B01J5FGW66-fr'
 tags: [  ]
 actualPrice: 146.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B018IZAFXK-fr Ferplast Relax C 89/10 Coussin pour Chien en Coton Motif...'
+sku: 'B018IZAFXK-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

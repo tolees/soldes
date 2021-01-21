@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B002R2C9TE-fr Jusqu en Enfer [Blu-Ray]'
+sku: 'B002R2C9TE-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

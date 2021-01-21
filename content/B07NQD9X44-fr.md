@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQD9X44-fr Disney Pixar Toy Story Buzz et son Vaisseau Spatial 53 cm...'
+sku: 'B07NQD9X44-fr'
 tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR

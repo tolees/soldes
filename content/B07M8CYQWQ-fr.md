@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M8CYQWQ-fr Braun Silk·Expert Pro 5 PL5014 Épilateur Lumière Pulsée...'
+sku: 'B07M8CYQWQ-fr'
 tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR

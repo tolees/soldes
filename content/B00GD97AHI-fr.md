@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GD97AHI-fr Azzaro Item Bottes Chelsea homme Marron 43 EU'
+sku: 'B00GD97AHI-fr'
 tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR

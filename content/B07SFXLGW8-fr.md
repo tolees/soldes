@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SFXLGW8-fr Spyro Reignited Trilogy Switch'
+sku: 'B07SFXLGW8-fr'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

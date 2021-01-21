@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NZTCXFS-fr COLORWAY CX911 Advanced Premium Hover Scooter Board -...'
+sku: 'B07NZTCXFS-fr'
 tags: [  ]
 actualPrice: 177.65 EUR
 currency: EUR

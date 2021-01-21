@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZP9DDX-fr Disney Enfants Coco Sac à Dos'
+sku: 'B07TZP9DDX-fr'
 tags: [  ]
 actualPrice: 11.95 EUR
 currency: EUR

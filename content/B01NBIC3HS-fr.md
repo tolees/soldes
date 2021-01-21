@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NBIC3HS-fr Lacoste Homme Analogique Classique Quartz Montres bracelet...'
+sku: 'B01NBIC3HS-fr'
 tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR

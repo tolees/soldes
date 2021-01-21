@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DCF8FKS-fr Bluetooth Headset 5.0 écouteurs sans Fil Bluetooth 3D...'
+sku: 'B08DCF8FKS-fr'
 tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR

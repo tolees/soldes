@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089S3YJ9X-fr Montre Connectée Femmes Montre Sport Homme 9 Modes Sportif...'
+sku: 'B089S3YJ9X-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

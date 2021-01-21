@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K86T2RR-fr Poitiers Basket 86 Maillot Officiel Extérieur 2018-2019...'
+sku: 'B07K86T2RR-fr'
 tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004SGJSF0-fr Puma - Suede Classic+ - Baskets mode - Mixte Adulte -...'
+sku: 'B004SGJSF0-fr'
 tags: [  ]
 actualPrice: 37.45 EUR
 currency: EUR

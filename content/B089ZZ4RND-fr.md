@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZZ4RND-fr Casque de Jeu MAMBASNAKE Casque stéréo avec Microphone...'
+sku: 'B089ZZ4RND-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMGV7Q9-fr Chie Mihara balis Sandales Bride Cheville Femmes Rouge...'
+sku: 'B07YMGV7Q9-fr'
 tags: [  ]
 actualPrice: 132.64 EUR
 currency: EUR

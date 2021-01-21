@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L25FNQB-fr Celio - NECETWO - Polo manches courtes - Coton Supima Noir...'
+sku: 'B07L25FNQB-fr'
 tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR

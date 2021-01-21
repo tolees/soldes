@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNPK48N-fr Ocean Digital Radio Internet Stéréo WiFi/Dab/FM WR280S...'
+sku: 'B07VNPK48N-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

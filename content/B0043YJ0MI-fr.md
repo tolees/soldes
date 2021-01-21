@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0043YJ0MI-fr APC Power-Saving Back-UPS PRO - BR900G-FR - Onduleur 900VA...'
+sku: 'B0043YJ0MI-fr'
 tags: [  ]
 actualPrice: 235.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CH78YM5-fr Thermometre Frontal Adulte KKmier Thermometre sans Contact...'
+sku: 'B08CH78YM5-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

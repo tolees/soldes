@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DJBFLTT-fr F1 2018 - Edition Headline'
+sku: 'B07DJBFLTT-fr'
 tags: [  ]
 actualPrice: 27.14 EUR
 currency: EUR

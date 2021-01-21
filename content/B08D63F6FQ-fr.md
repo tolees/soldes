@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D63F6FQ-fr Disque Dur Externe 2 to Disque Dur Externe Portable pour...'
+sku: 'B08D63F6FQ-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086QPQVPB-fr havit Casque Gaming PS4 Casque Gamer RGB avec micro switch...'
+sku: 'B086QPQVPB-fr'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077XBPRM1-fr Fruitman stylo multifonction idee cadeau homme original...'
+sku: 'B077XBPRM1-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

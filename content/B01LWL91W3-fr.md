@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LWL91W3-fr Swiffer Duster Lingettes Poussière X 10'
+sku: 'B01LWL91W3-fr'
 tags: [  ]
 actualPrice: 6.25 EUR
 currency: EUR

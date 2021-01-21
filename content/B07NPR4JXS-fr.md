@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPR4JXS-fr Pierre Cardin Smart Casual Sakko Michel2 Washed Denim...'
+sku: 'B07NPR4JXS-fr'
 tags: [  ]
 actualPrice: 88.64 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0832RCSZW-fr Netac Carte mémoire microSDXC 256G Haute Vitesse UHS-I...'
+sku: 'B0832RCSZW-fr'
 tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR

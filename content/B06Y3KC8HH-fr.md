@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06Y3KC8HH-fr Samsung Original Advanced Écouteurs Intra-Auriculaires...'
+sku: 'B06Y3KC8HH-fr'
 tags: [  ]
 actualPrice: 59.31 EUR
 currency: EUR

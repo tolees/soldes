@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08D3VDW3V-fr Prodisac Forte ® | Haute concentration de Gingsen + Maca +...'
+sku: 'B08D3VDW3V-fr'
 tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR

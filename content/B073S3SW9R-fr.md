@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073S3SW9R-fr Déshumidificateur Electrique Aidodo d air...'
+sku: 'B073S3SW9R-fr'
 tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR

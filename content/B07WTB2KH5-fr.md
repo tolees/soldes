@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07WTB2KH5-fr WisFox Clavier Souris sans Fil Combinés 2 4 GHz Mince...'
+sku: 'B07WTB2KH5-fr'
 tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR

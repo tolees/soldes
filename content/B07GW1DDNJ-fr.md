@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GW1DDNJ-fr Just Dance 2019 - Edition Amazon pour Nintendo Switch'
+sku: 'B07GW1DDNJ-fr'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B084ZPT1C1-fr Calor Access Steam Pocket Défroisseur design ultra-compact...'
+sku: 'B084ZPT1C1-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

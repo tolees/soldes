@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NC0V7D6-fr Russell Hobbs Toaster Grille-Pain Cuisson Rapide et...'
+sku: 'B01NC0V7D6-fr'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

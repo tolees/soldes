@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B009RP47US-fr Time Force Hommes Analogique Quartz Montre avec Bracelet...'
+sku: 'B009RP47US-fr'
 tags: [  ]
 actualPrice: 92.3 EUR
 currency: EUR

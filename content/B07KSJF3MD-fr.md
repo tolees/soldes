@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSJF3MD-fr Samsung SSD interne 860 QVO 2.5’’ SATA 2 TERA - MZ-76Q2T0BW'
+sku: 'B07KSJF3MD-fr'
 tags: [  ]
 actualPrice: 248.58 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5W9HB6-fr ORICO Boîtier Disque Dur 2.5 Adaptateur de Lecteur Externe...'
+sku: 'B08B5W9HB6-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

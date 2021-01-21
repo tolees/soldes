@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BTJQRMC-fr Caffè Carracci 100 Capsules Compatibles Lavazza A Modo Mio...'
+sku: 'B07BTJQRMC-fr'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

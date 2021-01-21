@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000P6RBGA-fr Le pigeon'
+sku: 'B000P6RBGA-fr'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

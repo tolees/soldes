@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X3RS4T3-fr Proscenic T21 Friteuse à air Grand écran LED Digital et...'
+sku: 'B07X3RS4T3-fr'
 tags: [  ]
 actualPrice: 96.74 EUR
 currency: EUR

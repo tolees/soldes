@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NCVQ9OT-fr El Naturalista S.A N097 Soft Grain Yggdrasil Bottes...'
+sku: 'B01NCVQ9OT-fr'
 tags: [  ]
 actualPrice: 64.5 EUR
 currency: EUR

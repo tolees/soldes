@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0036TDF6I-fr De Longhi Magnifica Machine expresso avec broyeur...'
+sku: 'B0036TDF6I-fr'
 tags: [  ]
 actualPrice: 331.77 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088RFGD7F-fr BESTBOMG Tondeuse Cheveux Hommes Professionnelle Tondeuse...'
+sku: 'B088RFGD7F-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

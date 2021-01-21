@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S75XRVW-fr Crocs Classic Vacay Vibes Clog Sabots Mixte Adulte Orange...'
+sku: 'B07S75XRVW-fr'
 tags: [  ]
 actualPrice: 30.1 EUR
 currency: EUR

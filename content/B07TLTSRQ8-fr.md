@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TLTSRQ8-fr Clarks Step Allena Go Sneakers Basses Femme Beige Mauve...'
+sku: 'B07TLTSRQ8-fr'
 tags: [  ]
 actualPrice: 34.95 EUR
 currency: EUR

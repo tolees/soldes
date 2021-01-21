@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C4WHNPN-fr LK Verre Trempé pour Xiaomi Redmi Note 9 Pro Protection...'
+sku: 'B08C4WHNPN-fr'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

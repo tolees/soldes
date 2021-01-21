@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NWP8YR4-fr Nappe carrée"Israël Story" Blanc/Bleu – Made in France -...'
+sku: 'B07NWP8YR4-fr'
 tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR

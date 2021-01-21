@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TDPM73G-fr Versa - Tabouret de chamdre avec Romantic Patchwork'
+sku: 'B00TDPM73G-fr'
 tags: [  ]
 actualPrice: 36.49 EUR
 currency: EUR

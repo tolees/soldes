@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BTZK7CT-fr Cultivea Mini – Kit Prêt à Pousser Bonsaï – Graines...'
+sku: 'B08BTZK7CT-fr'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

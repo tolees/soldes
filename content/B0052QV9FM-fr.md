@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052QV9FM-fr Onduleur Eaton Ellipse ECO 500 FR - Off-line UPS - EL500FR...'
+sku: 'B0052QV9FM-fr'
 tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR

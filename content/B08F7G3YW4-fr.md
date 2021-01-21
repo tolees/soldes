@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F7G3YW4-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3...'
+sku: 'B08F7G3YW4-fr'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0831GFCHZ-fr Montre Connectée Homme Montre Intelligente Sport Moniteur...'
+sku: 'B0831GFCHZ-fr'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

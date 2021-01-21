@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M216RUP-fr Bosch Electroménager MUC22B42FR Multicuiseur 900 W Anthracite'
+sku: 'B01M216RUP-fr'
 tags: [  ]
 actualPrice: 85.99 EUR
 currency: EUR

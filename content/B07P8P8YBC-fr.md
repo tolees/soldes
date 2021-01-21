@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P8P8YBC-fr Playmobil - Playmobil The Movie Food Truck de Del - 70075'
+sku: 'B07P8P8YBC-fr'
 tags: [  ]
 actualPrice: 37.7 EUR
 currency: EUR

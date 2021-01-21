@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DNTF32X-fr Doom Eternal'
+sku: 'B07DNTF32X-fr'
 tags: [  ]
 actualPrice: 49.42 EUR
 currency: EUR

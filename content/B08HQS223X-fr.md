@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HQS223X-fr Coque Xiaomi Note 10 Double Couche Renforcée Défense...'
+sku: 'B08HQS223X-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

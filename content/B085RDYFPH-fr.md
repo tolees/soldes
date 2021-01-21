@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085RDYFPH-fr Rolimate Puzzles en Bois Jouet Bébé 3D Puzzles Jouets...'
+sku: 'B085RDYFPH-fr'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

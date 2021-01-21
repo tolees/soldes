@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07W1X3Q3V-fr REVENT HD Blue'
+sku: 'B07W1X3Q3V-fr'
 tags: [  ]
 actualPrice: 106.44 EUR
 currency: EUR

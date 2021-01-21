@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E7HTWXM-fr Schott NYC JKTAC Blouson Vert Kaki Kaki X-Small Taille...'
+sku: 'B01E7HTWXM-fr'
 tags: [  ]
 actualPrice: 70.21 EUR
 currency: EUR

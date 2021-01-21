@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V81PSJN-fr Faure FKM-804MP1 Robot Pâtissier Magic Baker Premiuim -...'
+sku: 'B07V81PSJN-fr'
 tags: [  ]
 actualPrice: 137.98 EUR
 currency: EUR

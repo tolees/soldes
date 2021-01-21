@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R6TWP2D-fr Columbia Powder Lite Hooded Veste à capuche-Homme Bleu...'
+sku: 'B07R6TWP2D-fr'
 tags: [  ]
 actualPrice: 71.89 EUR
 currency: EUR

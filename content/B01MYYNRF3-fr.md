@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYYNRF3-fr Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en...'
+sku: 'B01MYYNRF3-fr'
 tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792YG7LQ-fr Bluefin Fitness Plateforme Vibrante & Oscillante à Doubles...'
+sku: 'B0792YG7LQ-fr'
 tags: [  ]
 actualPrice: 239.0 EUR
 currency: EUR

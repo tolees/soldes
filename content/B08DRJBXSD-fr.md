@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DRJBXSD-fr Peradix Draisienne Vélo Bébé Vélo Enfants de 1 an-36 Mois...'
+sku: 'B08DRJBXSD-fr'
 tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR

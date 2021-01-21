@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MHZPYLP-fr MEGIR Montres Hommes étanche Chronographe Sport Analogique...'
+sku: 'B07MHZPYLP-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

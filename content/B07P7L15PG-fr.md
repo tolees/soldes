@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7L15PG-fr Dreamon Coffrets de Bijoux et Cosmétiques pour Enfants...'
+sku: 'B07P7L15PG-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

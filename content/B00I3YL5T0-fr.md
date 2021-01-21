@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00I3YL5T0-fr Melitta Machine à Café Automatique Caffeo Solo Noir Pure...'
+sku: 'B00I3YL5T0-fr'
 tags: [  ]
 actualPrice: 257.99 EUR
 currency: EUR

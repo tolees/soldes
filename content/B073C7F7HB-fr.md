@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073C7F7HB-fr Fisher-Price Singe 1-2-3 joue avec moi jouet musical et...'
+sku: 'B073C7F7HB-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

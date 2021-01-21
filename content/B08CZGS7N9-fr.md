@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZGS7N9-fr Disque Dur Externe 1to Disque Dur Externe USB3.1 Type-C...'
+sku: 'B08CZGS7N9-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

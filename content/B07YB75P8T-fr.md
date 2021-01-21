@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YB75P8T-fr FUNINGEEK Micro Casque Gaming PS4 Casque Gaming Switch...'
+sku: 'B07YB75P8T-fr'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

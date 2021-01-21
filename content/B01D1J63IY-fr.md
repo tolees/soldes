@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01D1J63IY-fr Samsonite XBR Laptop Sac à Dos 17 3 Pouces Cartable 51 cm...'
+sku: 'B01D1J63IY-fr'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

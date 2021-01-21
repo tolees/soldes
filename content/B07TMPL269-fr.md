@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMPL269-fr Clavier Gaming WisFox Clavier Filaire USB Rétroéclairé à...'
+sku: 'B07TMPL269-fr'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

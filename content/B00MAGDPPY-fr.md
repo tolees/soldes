@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00MAGDPPY-fr Maisonnerie 1316-503-91 Campus Armoire Murale Miroir...'
+sku: 'B00MAGDPPY-fr'
 tags: [  ]
 actualPrice: 42.6 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QCPP9ZN-fr Blocs de Construction Magnétiques – Cadeaux de pour Les...'
+sku: 'B07QCPP9ZN-fr'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

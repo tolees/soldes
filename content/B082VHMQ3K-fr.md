@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082VHMQ3K-fr ZD-O Wired Gaming Controller 6 Remappable Multi-Function...'
+sku: 'B082VHMQ3K-fr'
 tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR

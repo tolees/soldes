@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GQP95F4-fr Feisui Collier Dressage Chien 800 Mètres Collier d...'
+sku: 'B07GQP95F4-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

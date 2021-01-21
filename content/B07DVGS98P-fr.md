@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DVGS98P-fr Coffret Films issus de Jeux Vidéo : Rampage-Hors de...'
+sku: 'B07DVGS98P-fr'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

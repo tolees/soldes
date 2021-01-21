@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXQSM6S-fr Samsung - Écouteurs sans Fil Galaxy Buds - Argent -...'
+sku: 'B07VXQSM6S-fr'
 tags: [  ]
 actualPrice: 80.76 EUR
 currency: EUR

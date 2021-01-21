@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DKL2KRT-fr Protection Écran pour Samsung Galaxy S10 Plus / S10+...'
+sku: 'B08DKL2KRT-fr'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

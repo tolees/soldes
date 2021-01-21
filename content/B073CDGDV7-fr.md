@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073CDGDV7-fr Mpow Écouteur Bluetooth Sport IPX7 Étanche Écouteur sans...'
+sku: 'B073CDGDV7-fr'
 tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR

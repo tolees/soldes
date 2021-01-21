@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYQ4HJD-fr Logitech G203 Prodigy Souris Gamer Filaire 8000 PPP RVB...'
+sku: 'B01MYQ4HJD-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

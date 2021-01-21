@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LPV2NZ8-fr Accessoire iRobot Roomba - Batterie Xlife NiMH'
+sku: 'B00LPV2NZ8-fr'
 tags: [  ]
 actualPrice: 67.93 EUR
 currency: EUR

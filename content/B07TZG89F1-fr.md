@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TZG89F1-fr ENJOHOS Lampe Loupe d Atelier Esthetique à pince...'
+sku: 'B07TZG89F1-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

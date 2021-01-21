@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5YFPRH-fr eXtremeRate D-Pad Boutons SR SL L R ZR ZL Trigger Touches...'
+sku: 'B08B5YFPRH-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

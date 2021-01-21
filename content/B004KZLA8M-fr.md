@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004KZLA8M-fr Puressentiel - Respiratoire - Huiles Essentielles pour...'
+sku: 'B004KZLA8M-fr'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

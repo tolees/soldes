@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07359JBKG-fr RIDER-TEC – Blouson Moto Urban Girly SoftShell Black –...'
+sku: 'B07359JBKG-fr'
 tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008IEDWCS-fr Jean Mouton : Missa Dictes moy toutes voz pensées'
+sku: 'B008IEDWCS-fr'
 tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AT9TM3M-fr Etekcity Thermomètre Infrarouge sans Contact Laser de...'
+sku: 'B01AT9TM3M-fr'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

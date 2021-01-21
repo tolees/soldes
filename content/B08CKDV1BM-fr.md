@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CKDV1BM-fr LeaderPro Talkies-Walkies pour Enfants Jouets pour Enfants...'
+sku: 'B08CKDV1BM-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

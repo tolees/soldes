@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DZLRA40-fr Interbaby Set de 3 Pièces - Couette + Tour de Lit +...'
+sku: 'B00DZLRA40-fr'
 tags: [  ]
 actualPrice: 30.16 EUR
 currency: EUR

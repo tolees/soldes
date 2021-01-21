@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N4MPIG3-fr Bracelet Magnétique Avec 15 Puissants Aimants Cadeau Homme...'
+sku: 'B01N4MPIG3-fr'
 tags: [  ]
 actualPrice: 9.97 EUR
 currency: EUR

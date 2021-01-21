@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004WG3ZJG-fr Bionaire - BT19 - colonne ventilateur - modèle à...'
+sku: 'B004WG3ZJG-fr'
 tags: [  ]
 actualPrice: 49.19 EUR
 currency: EUR

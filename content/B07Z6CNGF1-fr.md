@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z6CNGF1-fr Manettes pour Switch/Switch Lite Manette sans Fil pour...'
+sku: 'B07Z6CNGF1-fr'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

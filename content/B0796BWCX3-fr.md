@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0796BWCX3-fr Napapijri Nore Short Bleu Blu Marine 176 No Aplica Taille...'
+sku: 'B0796BWCX3-fr'
 tags: [  ]
 actualPrice: 65.97 EUR
 currency: EUR

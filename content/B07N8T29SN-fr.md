@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8T29SN-fr Tommy Hilfiger Essential Computer Bag Sacs pour ordinateur...'
+sku: 'B07N8T29SN-fr'
 tags: [  ]
 actualPrice: 100.91 EUR
 currency: EUR

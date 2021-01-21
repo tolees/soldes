@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PZR3PVB-fr Apple AirPods avec boîtier de charge filaire 2e génération'
+sku: 'B07PZR3PVB-fr'
 tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR

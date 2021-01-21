@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B3PDTRH-fr Rasoir électrique pour hommes rasoir électrique rotatif...'
+sku: 'B08B3PDTRH-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

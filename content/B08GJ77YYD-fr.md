@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GJ77YYD-fr Coque Samsung S10 Cover Samsung Galaxy S10 Housse Double...'
+sku: 'B08GJ77YYD-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

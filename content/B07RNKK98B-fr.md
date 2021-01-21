@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNKK98B-fr Multifonctionnelle Histoire Projecteur Enfant Histoire...'
+sku: 'B07RNKK98B-fr'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

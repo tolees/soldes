@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829SPGNC-fr Mafiti Tablette d écriture LCD 8.5 Pouces d écriture...'
+sku: 'B0829SPGNC-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

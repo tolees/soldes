@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JP6HZ3T-fr ActivHawks Correcteur De Posture Dos Épaules Avachies -...'
+sku: 'B08JP6HZ3T-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDHXYD8-fr Kit Soins Barbe pour Hommes Derma Roller+Sérum Activateur...'
+sku: 'B08CDHXYD8-fr'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

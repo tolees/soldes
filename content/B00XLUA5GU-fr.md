@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XLUA5GU-fr Bosch Professional 06015A1002 12V System Scie Sauteuse...'
+sku: 'B00XLUA5GU-fr'
 tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQBGR62-fr JOYXEON Pneu Plein Compatible avec Xiaomi M365 Cellulaire...'
+sku: 'B07XQBGR62-fr'
 tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR

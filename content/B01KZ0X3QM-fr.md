@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01KZ0X3QM-fr BLACK & DECKER FSMH1351SM-QS Balai Vapeur avec Nettoyeur à...'
+sku: 'B01KZ0X3QM-fr'
 tags: [  ]
 actualPrice: 126.0 EUR
 currency: EUR

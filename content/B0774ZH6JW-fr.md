@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0774ZH6JW-fr Brooks Brothers 100097653 Short Beige Beige 275 48 Taille...'
+sku: 'B0774ZH6JW-fr'
 tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR

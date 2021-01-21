@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D3RPYKD-fr Zelia - 41604F - Manteau Imperméable ciré Femme Bleu Ciel...'
+sku: 'B07D3RPYKD-fr'
 tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NJBYHXX-fr Krups Spécial T Machine à Thé Mini T Théière Electrique à...'
+sku: 'B07NJBYHXX-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

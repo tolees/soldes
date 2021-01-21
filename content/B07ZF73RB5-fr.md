@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZF73RB5-fr TICTID Raspberry Pi 4 Modèle B 4 B 1Go Upgraded for...'
+sku: 'B07ZF73RB5-fr'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

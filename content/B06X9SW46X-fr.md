@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06X9SW46X-fr Sylvanian Families - 5257 - Les amies ballerines'
+sku: 'B06X9SW46X-fr'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

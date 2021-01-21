@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LZRWNRC-fr Lunii Fabrique à Histoires'
+sku: 'B01LZRWNRC-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

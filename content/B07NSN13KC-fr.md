@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NSN13KC-fr LIVOO DOC208 Barbecue Gaz Gril et Plancha'
+sku: 'B07NSN13KC-fr'
 tags: [  ]
 actualPrice: 247.9 EUR
 currency: EUR

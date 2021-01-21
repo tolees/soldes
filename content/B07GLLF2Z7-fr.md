@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLLF2Z7-fr CYBEX Gold Siège Auto Solution S-Fix Adapté aux Voitures...'
+sku: 'B07GLLF2Z7-fr'
 tags: [  ]
 actualPrice: 138.66 EUR
 currency: EUR

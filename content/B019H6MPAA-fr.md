@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B019H6MPAA-fr Belkin - Power Rockstar - Batterie Externe Premium 10000...'
+sku: 'B019H6MPAA-fr'
 tags: [  ]
 actualPrice: 32.97 EUR
 currency: EUR

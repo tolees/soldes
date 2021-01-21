@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073XPR6MC-fr VOYOR Appareil de Massage Anti Cellulite Electrique...'
+sku: 'B073XPR6MC-fr'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

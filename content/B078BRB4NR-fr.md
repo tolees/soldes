@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B078BRB4NR-fr New Balance MRL996V1 Baskets Homme Noir Outer Space 45.5 EU'
+sku: 'B078BRB4NR-fr'
 tags: [  ]
 actualPrice: 47.2 EUR
 currency: EUR

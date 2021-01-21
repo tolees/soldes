@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D13B7YW-fr Romanticist 28Pcs Kit d accessoires pour Barbecue à...'
+sku: 'B07D13B7YW-fr'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08726HHHW-fr Montre Connectée Intelligente Femmes Homme Enfant...'
+sku: 'B08726HHHW-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

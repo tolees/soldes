@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HJ5C9FZ-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD Disque Dur...'
+sku: 'B08HJ5C9FZ-fr'
 tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR

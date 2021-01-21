@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01CZMWUE4-fr CRAZE- Disney Perles à Repasser 54384 Bleu'
+sku: 'B01CZMWUE4-fr'
 tags: [  ]
 actualPrice: 14.78 EUR
 currency: EUR

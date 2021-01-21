@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFWGKZ4-fr Logitech G513 Clavier Gaming Mécanique avec Repose-...'
+sku: 'B07DFWGKZ4-fr'
 tags: [  ]
 actualPrice: 146.43 EUR
 currency: EUR

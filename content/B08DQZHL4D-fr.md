@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DQZHL4D-fr NONZERS Verre Trempé pour Xiaomi Mi Note 10/Note 10...'
+sku: 'B08DQZHL4D-fr'
 tags: [  ]
 actualPrice: 9.85 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3C4FCJ-fr ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX'
+sku: 'B07Y3C4FCJ-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

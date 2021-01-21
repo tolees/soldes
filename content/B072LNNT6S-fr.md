@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072LNNT6S-fr Crocs Specialist Ii Clog Sabots Mixte Adulte Bleu Navy...'
+sku: 'B072LNNT6S-fr'
 tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR

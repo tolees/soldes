@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZVR1QSP-fr FBSPORT Airtrack 20 cm Épaisseur Tapis de Gymnastique...'
+sku: 'B07ZVR1QSP-fr'
 tags: [  ]
 actualPrice: 103.51 EUR
 currency: EUR

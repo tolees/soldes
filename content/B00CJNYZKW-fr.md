@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CJNYZKW-fr Purflux L358A filtre à huile'
+sku: 'B00CJNYZKW-fr'
 tags: [  ]
 actualPrice: 4.5 EUR
 currency: EUR

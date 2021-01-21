@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000SJVJGC-fr GYMNIC - 70.12 - Cheval Gonflable - Rody en Jaune'
+sku: 'B000SJVJGC-fr'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

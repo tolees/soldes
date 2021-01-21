@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D8LM11G-fr BOSS Soody Sweat-Shirt Noir Black 001 XX-Large Homme'
+sku: 'B07D8LM11G-fr'
 tags: [  ]
 actualPrice: 116.98 EUR
 currency: EUR

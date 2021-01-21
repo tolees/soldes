@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZRPD3T2-fr Aspirateur Balai sans Fil sans Sac Aspirateur à Main...'
+sku: 'B07ZRPD3T2-fr'
 tags: [  ]
 actualPrice: 136.79 EUR
 currency: EUR

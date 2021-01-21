@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GS6ZB7T-fr Logitech G502 HERO Souris Gamer Filaire Haute Performance...'
+sku: 'B07GS6ZB7T-fr'
 tags: [  ]
 actualPrice: 56.31 EUR
 currency: EUR

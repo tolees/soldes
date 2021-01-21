@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ULNHS9M-fr Samsonite S Cure - Spinner S Bagage à Main 55 cm 34 L...'
+sku: 'B00ULNHS9M-fr'
 tags: [  ]
 actualPrice: 79.5 EUR
 currency: EUR

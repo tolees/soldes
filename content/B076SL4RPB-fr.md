@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076SL4RPB-fr Yazilind plaqué Or Bracelet Mode Goutte d eau Jolie Zircon...'
+sku: 'B076SL4RPB-fr'
 tags: [  ]
 actualPrice: 2.32 EUR
 currency: EUR

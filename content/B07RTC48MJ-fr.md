@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RTC48MJ-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt Rose...'
+sku: 'B07RTC48MJ-fr'
 tags: [  ]
 actualPrice: 77.72 EUR
 currency: EUR

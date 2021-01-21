@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0781ZSSM2-fr MILLET Vector Grid JKT Polaire Alpinisme Homme'
+sku: 'B0781ZSSM2-fr'
 tags: [  ]
 actualPrice: 67.23 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TMP7FKS-fr Nike Zoom Air Vapor X HC Chaussures de Tennis Homme Blanc...'
+sku: 'B07TMP7FKS-fr'
 tags: [  ]
 actualPrice: 91.47 EUR
 currency: EUR

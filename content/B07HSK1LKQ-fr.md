@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HSK1LKQ-fr A Star is Born [DVD]'
+sku: 'B07HSK1LKQ-fr'
 tags: [  ]
 actualPrice: 8.31 EUR
 currency: EUR

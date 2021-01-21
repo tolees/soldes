@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075YZG7TQ-fr Trangoworld Bomio IP Chaussures de Randonnée Basses Mixte...'
+sku: 'B075YZG7TQ-fr'
 tags: [  ]
 actualPrice: 62.15 EUR
 currency: EUR

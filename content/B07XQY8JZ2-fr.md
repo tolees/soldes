@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XQY8JZ2-fr Tronsmart T6 Plus Enceinte Bluetooth 40W Haut Parleur...'
+sku: 'B07XQY8JZ2-fr'
 tags: [  ]
 actualPrice: 56.09 EUR
 currency: EUR

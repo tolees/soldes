@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HN3S4MB-fr Philips Hue Kit de démarrage 2 ampoules White Ambiance E14...'
+sku: 'B07HN3S4MB-fr'
 tags: [  ]
 actualPrice: 89.85 EUR
 currency: EUR

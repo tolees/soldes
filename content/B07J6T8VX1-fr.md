@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J6T8VX1-fr Siméo PLC410 Plancha électrique'
+sku: 'B07J6T8VX1-fr'
 tags: [  ]
 actualPrice: 37.47 EUR
 currency: EUR

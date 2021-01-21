@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JB1WM2V-fr find. Suede Kitten Heel Escarpins Rouge Red 40 EU'
+sku: 'B07JB1WM2V-fr'
 tags: [  ]
 actualPrice: 26.32 EUR
 currency: EUR

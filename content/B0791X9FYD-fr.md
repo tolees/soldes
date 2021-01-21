@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0791X9FYD-fr Tommy Hilfiger Core Tommy Regular Polo Blanc Bright White...'
+sku: 'B0791X9FYD-fr'
 tags: [  ]
 actualPrice: 47.32 EUR
 currency: EUR

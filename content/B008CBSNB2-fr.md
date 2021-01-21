@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B008CBSNB2-fr Triumph TRI-Action Fitness F Soutien-Gorge de Sport Blanc...'
+sku: 'B008CBSNB2-fr'
 tags: [  ]
 actualPrice: 14.06 EUR
 currency: EUR

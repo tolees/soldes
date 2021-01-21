@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AYZZP5U-fr Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-...'
+sku: 'B01AYZZP5U-fr'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

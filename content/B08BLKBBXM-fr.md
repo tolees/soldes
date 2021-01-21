@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BLKBBXM-fr RAMPOW Chargeur Secteur USB 24W 2 Ports [Garantie à Vie]...'
+sku: 'B08BLKBBXM-fr'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

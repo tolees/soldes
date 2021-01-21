@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNP1R35-fr YAMAHA RX-V485 – Amplificateur Home Cinema 145W – Système...'
+sku: 'B07CNP1R35-fr'
 tags: [  ]
 actualPrice: 323.09 EUR
 currency: EUR

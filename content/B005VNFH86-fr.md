@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B005VNFH86-fr THULE 960100 Barres de toit WingBar 960 en aluminium -...'
+sku: 'B005VNFH86-fr'
 tags: [  ]
 actualPrice: 70.43 EUR
 currency: EUR

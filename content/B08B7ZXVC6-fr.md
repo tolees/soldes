@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B7ZXVC6-fr Clips de Câble en Silicone Adhésif Gestion de câbles...'
+sku: 'B08B7ZXVC6-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

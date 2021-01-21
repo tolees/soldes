@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DDG2VMT-fr Nenuco - Poupon et Berceau Dort avec Moi et Son Baby...'
+sku: 'B07DDG2VMT-fr'
 tags: [  ]
 actualPrice: 41.47 EUR
 currency: EUR

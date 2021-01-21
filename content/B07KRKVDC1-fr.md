@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KRKVDC1-fr Art 1253 Becerro Creta Sandales Bout Ouvert Femme Marron...'
+sku: 'B07KRKVDC1-fr'
 tags: [  ]
 actualPrice: 46.68 EUR
 currency: EUR

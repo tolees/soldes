@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086LTTQVP-fr Borderlands Legendary Collection'
+sku: 'B086LTTQVP-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

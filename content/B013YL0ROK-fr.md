@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B013YL0ROK-fr Golden Eagle brand new Superbe sculpture de décoration en...'
+sku: 'B013YL0ROK-fr'
 tags: [  ]
 actualPrice: 66.34 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZJNVW3-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD pour PC...'
+sku: 'B08CZJNVW3-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

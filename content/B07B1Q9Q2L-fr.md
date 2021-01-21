@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B1Q9Q2L-fr Newbestyle Femme Hoodies Sweatshirt Manches Longues à...'
+sku: 'B07B1Q9Q2L-fr'
 tags: [  ]
 actualPrice: 20.49 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N2W8HRV-fr Tommy Jeans TJM Tommy Classics Sweatpant Pantalon Bleu...'
+sku: 'B07N2W8HRV-fr'
 tags: [  ]
 actualPrice: 39.0 EUR
 currency: EUR

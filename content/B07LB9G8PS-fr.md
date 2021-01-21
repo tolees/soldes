@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LB9G8PS-fr Love Moschino Portafogli Quilted Nappa Pu Portefeuilles...'
+sku: 'B07LB9G8PS-fr'
 tags: [  ]
 actualPrice: 93.71 EUR
 currency: EUR

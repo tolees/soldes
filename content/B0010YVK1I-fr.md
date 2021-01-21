@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0010YVK1I-fr Timberland Classic 2-Eye Chaussures Bateau Femme Bleu MD...'
+sku: 'B0010YVK1I-fr'
 tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR

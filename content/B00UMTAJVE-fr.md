@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UMTAJVE-fr little tikes Tricycle 5-in-1 Deluxe Ride & Relax Rouge'
+sku: 'B00UMTAJVE-fr'
 tags: [  ]
 actualPrice: 61.4 EUR
 currency: EUR

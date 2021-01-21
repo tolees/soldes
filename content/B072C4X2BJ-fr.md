@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072C4X2BJ-fr Di4 Jet Pressing – Centrale Vapeur Double système de...'
+sku: 'B072C4X2BJ-fr'
 tags: [  ]
 actualPrice: 67.61 EUR
 currency: EUR

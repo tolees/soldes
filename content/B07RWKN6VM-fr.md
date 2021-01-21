@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RWKN6VM-fr Redskins Doudoune North Mountain Homme'
+sku: 'B07RWKN6VM-fr'
 tags: [  ]
 actualPrice: 121.77 EUR
 currency: EUR

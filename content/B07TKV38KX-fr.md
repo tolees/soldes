@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TKV38KX-fr 2 Batteries pour Xbox One Manette Sans Fil avec 2 en 1...'
+sku: 'B07TKV38KX-fr'
 tags: [  ]
 actualPrice: 19.69 EUR
 currency: EUR

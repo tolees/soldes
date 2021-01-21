@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N1GQ7RY-fr Tigex Baignoire pour Bébé Pliable Ultra Compacte 0-12 Mois...'
+sku: 'B07N1GQ7RY-fr'
 tags: [  ]
 actualPrice: 23.03 EUR
 currency: EUR

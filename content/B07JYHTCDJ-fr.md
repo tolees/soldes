@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYHTCDJ-fr Tommy Hilfiger Gramercy Tapered Hw A Jean Droit Bleu Tana...'
+sku: 'B07JYHTCDJ-fr'
 tags: [  ]
 actualPrice: 69.0 EUR
 currency: EUR

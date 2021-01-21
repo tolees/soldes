@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01L1IICR2-fr Sennheiser HD Casque à Arceau fermé avec Microphone et...'
+sku: 'B01L1IICR2-fr'
 tags: [  ]
 actualPrice: 145.49 EUR
 currency: EUR

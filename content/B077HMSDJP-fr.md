@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HMSDJP-fr FM London Lot de 5 Boxer Hommes avec technologie de...'
+sku: 'B077HMSDJP-fr'
 tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR

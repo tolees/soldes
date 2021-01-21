@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VKBS8GD-fr Bombes de Bain Coffret Cadeau Anjou 6 x 115g Boules...'
+sku: 'B07VKBS8GD-fr'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

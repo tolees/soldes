@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006YBLRAQ-fr sloggi Basic+ Maxi 3P Culotte Gainante Femme Paquet de 3...'
+sku: 'B006YBLRAQ-fr'
 tags: [  ]
 actualPrice: 12.55 EUR
 currency: EUR

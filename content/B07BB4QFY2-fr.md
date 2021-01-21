@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BB4QFY2-fr Marshall Mid Active Noise Cancelling A.N.C. Headphones...'
+sku: 'B07BB4QFY2-fr'
 tags: [  ]
 actualPrice: 120.41 EUR
 currency: EUR

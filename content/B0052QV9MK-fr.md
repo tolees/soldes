@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0052QV9MK-fr Onduleur Eaton Ellipse ECO 650 USB FR - Off-line UPS -...'
+sku: 'B0052QV9MK-fr'
 tags: [  ]
 actualPrice: 97.95 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01MYZGEVW-fr Les PEPITES'
+sku: 'B01MYZGEVW-fr'
 tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR

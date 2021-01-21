@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BPFKNNM-fr TP-Link Switch Ethernet Gigabit 8 Ports Web Manageable...'
+sku: 'B01BPFKNNM-fr'
 tags: [  ]
 actualPrice: 62.63 EUR
 currency: EUR

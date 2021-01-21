@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IF3OB54-fr EDMA 261255 Boule Chauffante Argent'
+sku: 'B00IF3OB54-fr'
 tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JMP217G-fr Marque Amazon – Goodthreads Pantalon cargo extensible...'
+sku: 'B07JMP217G-fr'
 tags: [  ]
 actualPrice: 16.22 EUR
 currency: EUR

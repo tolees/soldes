@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MC4BM5M-fr TOM TAILOR MY TRUE ME Plussize T-shirt Femme Multicolor 48'
+sku: 'B07MC4BM5M-fr'
 tags: [  ]
 actualPrice: 117.74 EUR
 currency: EUR

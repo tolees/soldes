@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089NMSQ3T-fr bakibo Écouteurs sans Fil Bluetooth 5.1 Stéréo Sport...'
+sku: 'B089NMSQ3T-fr'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

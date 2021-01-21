@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075V2VYVH-fr Trust Gaming GXT 890 Cada Clavier AZERTY Gamer Mécanique...'
+sku: 'B075V2VYVH-fr'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

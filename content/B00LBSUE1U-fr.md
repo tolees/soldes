@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00LBSUE1U-fr Rocksmith 2014 + Câble'
+sku: 'B00LBSUE1U-fr'
 tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR

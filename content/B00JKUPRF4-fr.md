@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00JKUPRF4-fr Nikon Objectif Zoom AF-S DX 18-300 mm f/3.5-6.3G ED VR'
+sku: 'B00JKUPRF4-fr'
 tags: [  ]
 actualPrice: 569.99 EUR
 currency: EUR

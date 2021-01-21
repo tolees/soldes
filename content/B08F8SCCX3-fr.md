@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08F8SCCX3-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
+sku: 'B08F8SCCX3-fr'
 tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR

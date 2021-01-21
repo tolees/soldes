@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016QM6O9G-fr Tommy Hilfiger E367895041403 - Casquette de Baseball -...'
+sku: 'B016QM6O9G-fr'
 tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR

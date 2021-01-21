@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Z3LG17T-fr YUCUN SSD 240 Go 2 5 Pouces SATA III Disque Flash SSD...'
+sku: 'B07Z3LG17T-fr'
 tags: [  ]
 actualPrice: 27.89 EUR
 currency: EUR

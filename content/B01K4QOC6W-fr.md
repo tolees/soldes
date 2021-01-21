@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K4QOC6W-fr TomTom GPS Voiture GO 6200 - 6 Pouces Cartographie Monde...'
+sku: 'B01K4QOC6W-fr'
 tags: [  ]
 actualPrice: 239.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXDTHN8-fr Love Moschino Embroidered Allover Ladybirds Chambray...'
+sku: 'B07KXDTHN8-fr'
 tags: [  ]
 actualPrice: 138.91 EUR
 currency: EUR

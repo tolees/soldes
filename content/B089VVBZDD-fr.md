@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089VVBZDD-fr Syncwire Cable Optique Audio Numérique Cordon Fibre...'
+sku: 'B089VVBZDD-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

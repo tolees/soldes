@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFJ5XHM-fr Figurines Pop! Vinyl: LOTR/Hobbit: Galadriel'
+sku: 'B07DFJ5XHM-fr'
 tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR

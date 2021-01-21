@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073FDC4YN-fr Ponceuse à Bande 75 mm Ryobi 18V Oneplus sans Batterie Ni...'
+sku: 'B073FDC4YN-fr'
 tags: [  ]
 actualPrice: 67.19 EUR
 currency: EUR

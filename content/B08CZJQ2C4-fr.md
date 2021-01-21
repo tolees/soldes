@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZJQ2C4-fr Casque Xbox Znines Casque de jeu pour PS4 Xbox One...'
+sku: 'B08CZJQ2C4-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

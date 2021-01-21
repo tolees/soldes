@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BHT7P5D-fr Aidotop Maillots de Bain Femmes 2 Pieces à Volants Vintage...'
+sku: 'B08BHT7P5D-fr'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

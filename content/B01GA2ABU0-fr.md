@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GA2ABU0-fr KLIM Voice Microphone à Pied USB pour Ordinateur - Micro...'
+sku: 'B01GA2ABU0-fr'
 tags: [  ]
 actualPrice: 19.97 EUR
 currency: EUR

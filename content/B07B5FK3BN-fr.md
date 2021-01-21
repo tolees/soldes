@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B5FK3BN-fr Oral-B Combiné Dentaire : Oral-B PRO 2000 + Hydropulseur...'
+sku: 'B07B5FK3BN-fr'
 tags: [  ]
 actualPrice: 92.99 EUR
 currency: EUR

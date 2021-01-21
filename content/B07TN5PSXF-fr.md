@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TN5PSXF-fr UMtrade Mode Acier Inoxydable Hommes Christian Sideway...'
+sku: 'B07TN5PSXF-fr'
 tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR

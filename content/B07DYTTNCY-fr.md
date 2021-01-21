@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DYTTNCY-fr Columbia Homme Veste d Hiver Marquam Peak Jacket Polyester...'
+sku: 'B07DYTTNCY-fr'
 tags: [  ]
 actualPrice: 112.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00OCXSFF8-fr Safavieh Tapis Texturé Tufté à la main la Laine Tapis en...'
+sku: 'B00OCXSFF8-fr'
 tags: [  ]
 actualPrice: 59.61 EUR
 currency: EUR

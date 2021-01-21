@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07K1BC7JR-fr LLloyd Goliath Derbys Homme Marron Cognac 3 40.5 EU'
+sku: 'B07K1BC7JR-fr'
 tags: [  ]
 actualPrice: 53.86 EUR
 currency: EUR

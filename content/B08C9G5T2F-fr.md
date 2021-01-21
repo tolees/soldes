@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08C9G5T2F-fr OFFRE DE LANCEMENT - Correcteur de Posture Saona Concept®...'
+sku: 'B08C9G5T2F-fr'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

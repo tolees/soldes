@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JWXVMB3-fr AUBADE Haut de maillot push-up coque Attache au cou DIVINE...'
+sku: 'B07JWXVMB3-fr'
 tags: [  ]
 actualPrice: 54.79 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079Z2CCJ8-fr Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp...'
+sku: 'B079Z2CCJ8-fr'
 tags: [  ]
 actualPrice: 97.44 EUR
 currency: EUR

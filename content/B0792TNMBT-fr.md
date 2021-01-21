@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0792TNMBT-fr Geox U Taiki B ABX C Baskets Hautes Homme Noir Black C9999...'
+sku: 'B0792TNMBT-fr'
 tags: [  ]
 actualPrice: 112.81 EUR
 currency: EUR

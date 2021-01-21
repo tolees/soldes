@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PDHSPXT-fr Echo Dot 3ème génération Enceinte connectée avec Alexa...'
+sku: 'B07PDHSPXT-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

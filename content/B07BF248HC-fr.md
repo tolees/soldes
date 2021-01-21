@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BF248HC-fr Still on the Run - the Jeff Beck Story [Blu-ray]'
+sku: 'B07BF248HC-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

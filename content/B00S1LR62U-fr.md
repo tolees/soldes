@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00S1LR62U-fr Older'
+sku: 'B00S1LR62U-fr'
 tags: [  ]
 actualPrice: 7.65 EUR
 currency: EUR

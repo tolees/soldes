@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XFWYHBY-fr Calor SV6035C0 Centrale Vapeur Sans Cuve Haute Pression...'
+sku: 'B06XFWYHBY-fr'
 tags: [  ]
 actualPrice: 87.99 EUR
 currency: EUR

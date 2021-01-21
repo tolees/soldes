@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RQV3HQ5-fr Oral-B Pro 2 2900 Brosses À Dents Électriques'
+sku: 'B07RQV3HQ5-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

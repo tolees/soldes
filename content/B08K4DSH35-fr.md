@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08K4DSH35-fr Portefeuilles Homme Portefeuille en Cuir Gravé...'
+sku: 'B08K4DSH35-fr'
 tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR

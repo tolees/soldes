@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QDLDTM2-fr ANRAN CCTV Caméra 1080p IP Caméra sans Fil'
+sku: 'B07QDLDTM2-fr'
 tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR

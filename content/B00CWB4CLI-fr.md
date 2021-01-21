@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00CWB4CLI-fr Vans Atwood Total Baskets Basses Homme Noir Canvas...'
+sku: 'B00CWB4CLI-fr'
 tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR

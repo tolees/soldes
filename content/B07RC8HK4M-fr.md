@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RC8HK4M-fr Columbia Mission Air Veste Modulable pour Homme'
+sku: 'B07RC8HK4M-fr'
 tags: [  ]
 actualPrice: 55.76 EUR
 currency: EUR

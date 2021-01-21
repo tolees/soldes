@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZ46X9G-fr Disque Dur Externe 2to Disque Dur Externe USB3.1 Type-C...'
+sku: 'B08CZ46X9G-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7XNT8H-fr Columbia Lake 22 Doudoune Longue à Capuche Femme'
+sku: 'B07R7XNT8H-fr'
 tags: [  ]
 actualPrice: 72.5 EUR
 currency: EUR

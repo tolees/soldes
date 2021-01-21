@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTVWRS-fr G-Star Rovic Zip 3D Straight Tapered Pantalon Beige Dune...'
+sku: 'B01BGTVWRS-fr'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

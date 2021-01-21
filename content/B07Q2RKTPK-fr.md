@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q2RKTPK-fr AUBADE Soutien-gorge triangle Bretelles réglables THE BOW...'
+sku: 'B07Q2RKTPK-fr'
 tags: [  ]
 actualPrice: 46.0 EUR
 currency: EUR

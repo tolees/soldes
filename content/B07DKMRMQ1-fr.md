@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DKMRMQ1-fr NHL 19'
+sku: 'B07DKMRMQ1-fr'
 tags: [  ]
 actualPrice: 36.1 EUR
 currency: EUR

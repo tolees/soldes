@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004XLXPSQ-fr Brunner Tonnelle Medusa 3x3 Bleu'
+sku: 'B004XLXPSQ-fr'
 tags: [  ]
 actualPrice: 106.59 EUR
 currency: EUR

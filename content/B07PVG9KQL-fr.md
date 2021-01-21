@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PVG9KQL-fr Beelink BT3 Pro II Mini PC Computer Windows 10 4 Go de RAM...'
+sku: 'B07PVG9KQL-fr'
 tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR

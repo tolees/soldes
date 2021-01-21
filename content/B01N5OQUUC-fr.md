@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N5OQUUC-fr IK Multimedia IP-IRIG-ACOSTG-IN Système avancé de micro...'
+sku: 'B01N5OQUUC-fr'
 tags: [  ]
 actualPrice: 72.01 EUR
 currency: EUR

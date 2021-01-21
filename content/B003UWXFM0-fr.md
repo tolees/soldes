@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B003UWXFM0-fr TP-Link TL-SG1024D Switch 24 Ports Gigabit Bureau/Rackable...'
+sku: 'B003UWXFM0-fr'
 tags: [  ]
 actualPrice: 72.67 EUR
 currency: EUR

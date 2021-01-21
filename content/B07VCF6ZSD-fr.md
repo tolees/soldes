@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VCF6ZSD-fr Replay Anbass Jean Slim Gris Medium Grey 096 W30/L30...'
+sku: 'B07VCF6ZSD-fr'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

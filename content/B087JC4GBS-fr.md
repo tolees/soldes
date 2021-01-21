@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JC4GBS-fr SMYTU Coque Xiaomi Redmi Note 9s/Note 9 Pro Gris Housse en...'
+sku: 'B087JC4GBS-fr'
 tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR

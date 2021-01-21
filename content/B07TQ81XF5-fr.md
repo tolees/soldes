@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TQ81XF5-fr VTech RockIt Twist - Console de jeux éducative pour enfant...'
+sku: 'B07TQ81XF5-fr'
 tags: [  ]
 actualPrice: 42.34 EUR
 currency: EUR

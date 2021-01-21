@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y3JXGPL-fr WD - My Book - Disque dur externe de bureau avec...'
+sku: 'B07Y3JXGPL-fr'
 tags: [  ]
 actualPrice: 254.99 EUR
 currency: EUR

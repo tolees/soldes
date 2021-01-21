@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07F3C3HZV-fr Catapult PLAYR Smart Football Tracker - Veste GPS et...'
+sku: 'B07F3C3HZV-fr'
 tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR

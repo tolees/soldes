@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPSBXR3-fr Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba...'
+sku: 'B07KPSBXR3-fr'
 tags: [  ]
 actualPrice: 9.63 EUR
 currency: EUR

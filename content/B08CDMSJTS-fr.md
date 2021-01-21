@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CDMSJTS-fr eXtremeRate Joystick de Remplacement 3D Bicolores Stick...'
+sku: 'B08CDMSJTS-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

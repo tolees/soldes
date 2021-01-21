@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M672WMF-fr Jouets Ecoiffier – 2644 - Pack Drive 100 % Chef –...'
+sku: 'B01M672WMF-fr'
 tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR

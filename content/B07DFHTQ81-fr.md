@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07DFHTQ81-fr Extracteur de Jus Aobosi Sans BPA Extracteur à Jus avec...'
+sku: 'B07DFHTQ81-fr'
 tags: [  ]
 actualPrice: 68.39 EUR
 currency: EUR

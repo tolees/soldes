@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L2ZHTQZ-fr Chemise Femme Manche Longue Basic Casual - éLéGant Bureau...'
+sku: 'B07L2ZHTQZ-fr'
 tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR

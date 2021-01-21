@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01E4RTERE-fr Dsquared2 D Squared Brillengestelle DQ5203 005-54-15-140...'
+sku: 'B01E4RTERE-fr'
 tags: [  ]
 actualPrice: 78.71 EUR
 currency: EUR

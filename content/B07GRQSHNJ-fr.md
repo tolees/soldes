@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GRQSHNJ-fr Bosch MultiTalent 8 MC812W501 – Robot de cuisine...'
+sku: 'B07GRQSHNJ-fr'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

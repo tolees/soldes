@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TYQMTMJ-fr Jojoin Instruments de Musique pour Enfants 25Pcs Set en...'
+sku: 'B07TYQMTMJ-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

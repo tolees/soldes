@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08G1NH95V-fr OUPOD Paire de manettes pour Nintendo Switch remplacement...'
+sku: 'B08G1NH95V-fr'
 tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR

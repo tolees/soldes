@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AXLWP3A-fr Philips S3510/08 Rasoir électique Series 3000 rechargeable...'
+sku: 'B01AXLWP3A-fr'
 tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR

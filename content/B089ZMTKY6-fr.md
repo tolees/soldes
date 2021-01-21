@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZMTKY6-fr Masseur Personnel p-l-Ṻ-g ḁ-n-ḁ-le fémmḔ dḔbṺtànt ÇṌffrḔt...'
+sku: 'B089ZMTKY6-fr'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

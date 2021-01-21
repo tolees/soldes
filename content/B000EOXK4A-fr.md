@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000EOXK4A-fr Cat Footwear HAYCOX Baskets Homme Marron Bistro 0 44 EU'
+sku: 'B000EOXK4A-fr'
 tags: [  ]
 actualPrice: 71.55 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N4BLT7R-fr Catimini CP44005 Manteau Noir Black 02 4 Ans Taille...'
+sku: 'B07N4BLT7R-fr'
 tags: [  ]
 actualPrice: 96.14 EUR
 currency: EUR

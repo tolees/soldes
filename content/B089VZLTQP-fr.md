@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089VZLTQP-fr ELUTENG Ventilateur 80mm DC Puissant et Silencieux Double...'
+sku: 'B089VZLTQP-fr'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

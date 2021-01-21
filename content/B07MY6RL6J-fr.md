@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MY6RL6J-fr FOG900-RGB'
+sku: 'B07MY6RL6J-fr'
 tags: [  ]
 actualPrice: 113.15 EUR
 currency: EUR

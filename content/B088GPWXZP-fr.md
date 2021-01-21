@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088GPWXZP-fr Upworld Kit de Slime Bricolage Kit de Fabrication de Slime...'
+sku: 'B088GPWXZP-fr'
 tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR

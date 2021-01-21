@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B076HMRW98-fr adidas Core 18 Hoody Sweat-Shirt à Capuche Homme...'
+sku: 'B076HMRW98-fr'
 tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR

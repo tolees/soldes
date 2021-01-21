@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08FDV9FY2-fr FS - Écouteurs Premium Bluetooth sans Fil Casque avec Plus...'
+sku: 'B08FDV9FY2-fr'
 tags: [  ]
 actualPrice: 25.9 EUR
 currency: EUR

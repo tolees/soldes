@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B015KKKC3Y-fr Kappa Rocket Baskets Basses Mixte Adulte Noir Black/White...'
+sku: 'B015KKKC3Y-fr'
 tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR

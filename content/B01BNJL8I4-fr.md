@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BNJL8I4-fr HyperX Impact DDR4 HX424S14IBK2/32 Mémoire RAM 2400MHz...'
+sku: 'B01BNJL8I4-fr'
 tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075RDL9RR-fr DELSEY PARIS - TURENNE - Valise trolley - 4 doubles roues...'
+sku: 'B075RDL9RR-fr'
 tags: [  ]
 actualPrice: 190.25 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MCSPMX8-fr Napapijri Rainforest Pocket Blouson Homme Rot High Risk...'
+sku: 'B07MCSPMX8-fr'
 tags: [  ]
 actualPrice: 149.98 EUR
 currency: EUR

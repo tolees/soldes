@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H9MM81L-fr Projecteur multimédia LCD 1080p Full HD Nebula Prizm by...'
+sku: 'B07H9MM81L-fr'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

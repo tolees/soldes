@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JJPTXP3-fr Chi Chi London Daniella Robe de soirée Bleu Navy NB 36...'
+sku: 'B07JJPTXP3-fr'
 tags: [  ]
 actualPrice: 62.06 EUR
 currency: EUR

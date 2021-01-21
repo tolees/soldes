@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AADHRP2-fr Nike - W NSW lggng Club logo2 - Collant pour femme -...'
+sku: 'B01AADHRP2-fr'
 tags: [  ]
 actualPrice: 18.74 EUR
 currency: EUR

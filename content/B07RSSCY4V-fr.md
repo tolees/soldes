@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RSSCY4V-fr Axcone Homme Femme Air Running Baskets Chaussures Outdoor...'
+sku: 'B07RSSCY4V-fr'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

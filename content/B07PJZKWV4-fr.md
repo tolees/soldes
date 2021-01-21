@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PJZKWV4-fr Chie Mihara Nino botines Femmes Noir Barna West Negro 39 EU'
+sku: 'B07PJZKWV4-fr'
 tags: [  ]
 actualPrice: 135.43 EUR
 currency: EUR

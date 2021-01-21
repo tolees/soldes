@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00BXL13LU-fr VAUDE Herren Farley Pantalons étendue II noir 48 / S 04574'
+sku: 'B00BXL13LU-fr'
 tags: [  ]
 actualPrice: 28.18 EUR
 currency: EUR

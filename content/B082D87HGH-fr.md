@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082D87HGH-fr Lintelek Montre Connectée Intelligente Homme Femme Ecran...'
+sku: 'B082D87HGH-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

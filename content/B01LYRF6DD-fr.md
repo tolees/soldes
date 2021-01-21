@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01LYRF6DD-fr Diesel Boxers UMBX-KORYTHREEPACK Homme NOIR...'
+sku: 'B01LYRF6DD-fr'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

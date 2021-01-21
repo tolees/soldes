@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K7C3ZR6-fr Set de Car Shades compatible avec Citroen Berlingo...'
+sku: 'B00K7C3ZR6-fr'
 tags: [  ]
 actualPrice: 77.6 EUR
 currency: EUR

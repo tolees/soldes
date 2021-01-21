@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00SVDNOYM-fr Aigle - Tenere Light Cvs Ltr - Chaussure de randonnée -...'
+sku: 'B00SVDNOYM-fr'
 tags: [  ]
 actualPrice: 49.34 EUR
 currency: EUR

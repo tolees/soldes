@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00PH28XW8-fr Jean Bellecour - REDS3 - Travel - Montre Homme -...'
+sku: 'B00PH28XW8-fr'
 tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR

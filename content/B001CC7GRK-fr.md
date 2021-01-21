@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001CC7GRK-fr From The Vaults: No Security - San Jose 1999 -The Rolling...'
+sku: 'B001CC7GRK-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

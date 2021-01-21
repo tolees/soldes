@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N0JCTNP-fr Calvin Klein Jeans Dora Canvas Sneakers Basses Femme Rose...'
+sku: 'B01N0JCTNP-fr'
 tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR

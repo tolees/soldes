@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VW6F3MV-fr 【Nouvelle Version】 AIKELA Ecouteur Bluetooth sans Fil...'
+sku: 'B07VW6F3MV-fr'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

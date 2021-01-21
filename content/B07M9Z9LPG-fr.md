@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M9Z9LPG-fr Le Tanneur Gaspard TGAS4000 Hommes Noir Noir 7.5x30.5x38.5...'
+sku: 'B07M9Z9LPG-fr'
 tags: [  ]
 actualPrice: 113.42 EUR
 currency: EUR

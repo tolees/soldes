@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012P0CPS2-fr De Longhi Machine à Café à Pompe et Cafetière Filtre...'
+sku: 'B012P0CPS2-fr'
 tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR

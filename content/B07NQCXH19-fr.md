@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NQCXH19-fr Echo Dot 3ème génération Reconditionné Certifié Enceinte...'
+sku: 'B07NQCXH19-fr'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

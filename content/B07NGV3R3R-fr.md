@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NGV3R3R-fr Derhy DAGADGET Parka Bleu Marine 300 40 Taille Fabricant:M...'
+sku: 'B07NGV3R3R-fr'
 tags: [  ]
 actualPrice: 85.09 EUR
 currency: EUR

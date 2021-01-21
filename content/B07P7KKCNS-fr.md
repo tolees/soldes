@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07P7KKCNS-fr Playmobil - Playmobil The Movie Rex Dasher Porsche Mission...'
+sku: 'B07P7KKCNS-fr'
 tags: [  ]
 actualPrice: 55.43 EUR
 currency: EUR

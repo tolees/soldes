@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BCC2SY7-fr KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X...'
+sku: 'B08BCC2SY7-fr'
 tags: [  ]
 actualPrice: 199.98 EUR
 currency: EUR

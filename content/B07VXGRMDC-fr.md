@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VXGRMDC-fr Maillot Cyclisme Kits Homme Vêtements Cyclisme Tenue...'
+sku: 'B07VXGRMDC-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

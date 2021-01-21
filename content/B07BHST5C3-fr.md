@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHST5C3-fr Kipling College Up Cartable 42 cm 32 liters Turquoise...'
+sku: 'B07BHST5C3-fr'
 tags: [  ]
 actualPrice: 99.72 EUR
 currency: EUR

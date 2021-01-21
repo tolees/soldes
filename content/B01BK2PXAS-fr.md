@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BK2PXAS-fr LEGO®-DUPLO® Les animaux du monde Jouet d Aventure...'
+sku: 'B01BK2PXAS-fr'
 tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR

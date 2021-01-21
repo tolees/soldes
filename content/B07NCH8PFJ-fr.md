@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NCH8PFJ-fr Tommy Hilfiger Th Essential Reg Polo SS Blanc Classic...'
+sku: 'B07NCH8PFJ-fr'
 tags: [  ]
 actualPrice: 59.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00DP3STGG-fr AutoStyle IA 78040 Ressorts d abaissement pour'
+sku: 'B00DP3STGG-fr'
 tags: [  ]
 actualPrice: 106.56 EUR
 currency: EUR

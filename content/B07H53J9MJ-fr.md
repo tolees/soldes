@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H53J9MJ-fr Mon pays c est l amour édition collector'
+sku: 'B07H53J9MJ-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

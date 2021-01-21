@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07S48VF9D-fr Love MoschinoJc4027pp1afemmeSacs bandoulièreNoir Nero...'
+sku: 'B07S48VF9D-fr'
 tags: [  ]
 actualPrice: 77.93 EUR
 currency: EUR

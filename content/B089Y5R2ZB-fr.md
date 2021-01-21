@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089Y5R2ZB-fr SAWAKE Mandoline Cuisine Multifonctions 6 en 1 Trancheuse...'
+sku: 'B089Y5R2ZB-fr'
 tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR

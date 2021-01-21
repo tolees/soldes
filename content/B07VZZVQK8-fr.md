@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VZZVQK8-fr yuehu Cotton Cotton Square Decorative Throw Pillowcase...'
+sku: 'B07VZZVQK8-fr'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

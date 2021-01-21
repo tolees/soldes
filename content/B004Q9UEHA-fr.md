@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B004Q9UEHA-fr Philip Watch - R8253107765 - Montre Femme - Quartz -...'
+sku: 'B004Q9UEHA-fr'
 tags: [  ]
 actualPrice: 337.59 EUR
 currency: EUR

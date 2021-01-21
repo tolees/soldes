@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CZHZ5SS-fr BAITITON 128GB MSATA III Disque Flash SSD 128 Go Interne...'
+sku: 'B08CZHZ5SS-fr'
 tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR

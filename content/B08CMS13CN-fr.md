@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CMS13CN-fr Disque Dur Externe 1to USB-C Disque Dur Externe pour PC...'
+sku: 'B08CMS13CN-fr'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

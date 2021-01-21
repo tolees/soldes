@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YY1RLRX-fr SONOFF Mini Interrupteur WiFi Télécommande 4 Pcs sans Fil...'
+sku: 'B07YY1RLRX-fr'
 tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR

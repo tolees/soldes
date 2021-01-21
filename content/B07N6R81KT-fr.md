@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N6R81KT-fr Love Moschino Scarpadonna Cassetta Chaussures de...'
+sku: 'B07N6R81KT-fr'
 tags: [  ]
 actualPrice: 116.99 EUR
 currency: EUR

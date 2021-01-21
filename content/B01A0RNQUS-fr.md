@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01A0RNQUS-fr RAX Cam 20001 Système de Porte-Bagages pré-monté'
+sku: 'B01A0RNQUS-fr'
 tags: [  ]
 actualPrice: 21.09 EUR
 currency: EUR
@@ -26,8 +27,8 @@ Vous avez [RAX Cam 20001 Système de Porte-Bagages pré-monté](https://www.amaz
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Barres de toit fixes.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01A0RNQUS/?tag=tolees0d-21)

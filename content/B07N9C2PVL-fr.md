@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N9C2PVL-fr JBL LIVE 400BT – Casque Audio Supra-Auriculaire Sans Fil –...'
+sku: 'B07N9C2PVL-fr'
 tags: [  ]
 actualPrice: 78.89 EUR
 currency: EUR

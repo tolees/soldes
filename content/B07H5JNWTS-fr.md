@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5JNWTS-fr Urban Armor Gear Monarch pour Apple iPhone Xs Max Coque...'
+sku: 'B07H5JNWTS-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

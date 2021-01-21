@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BZ9BYGY-fr Vansuny Disque Dur Externe SSD 250Go SSD Portable USB 3.1...'
+sku: 'B08BZ9BYGY-fr'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

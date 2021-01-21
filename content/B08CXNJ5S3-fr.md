@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXNJ5S3-fr Chargeur Voiture USB C Rapide pour Samsung S20 Plus Ultra...'
+sku: 'B08CXNJ5S3-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

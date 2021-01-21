@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01K7VORFU-fr Zéfal Z Traveler sacoche de porte-bagage'
+sku: 'B01K7VORFU-fr'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077HPNBY6-fr Wolfcraft 5977000 Scie Cloche Ah Réglable'
+sku: 'B077HPNBY6-fr'
 tags: [  ]
 actualPrice: 26.67 EUR
 currency: EUR

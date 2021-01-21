@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07PRHFSRY-fr Manette filaire PowerA Pokémon pour Nintendo Switch -...'
+sku: 'B07PRHFSRY-fr'
 tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR

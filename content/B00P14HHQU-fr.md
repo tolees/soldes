@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00P14HHQU-fr Fiat-berg - 24.30.10.00 - Buzzy Fiat 500'
+sku: 'B00P14HHQU-fr'
 tags: [  ]
 actualPrice: 125.99 EUR
 currency: EUR

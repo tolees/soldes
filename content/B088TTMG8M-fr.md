@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088TTMG8M-fr eXtremeRate 3D Joysticks de Remplacement Bicolores Stick...'
+sku: 'B088TTMG8M-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CNC396H-fr DJI - Tello GameSir - Manette pour Tello - Radiocommande...'
+sku: 'B07CNC396H-fr'
 tags: [  ]
 actualPrice: 26.86 EUR
 currency: EUR

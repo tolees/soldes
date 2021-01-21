@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JHYG43N-fr Amazon Essentials Pantalon extensible pour homme Coupe...'
+sku: 'B07JHYG43N-fr'
 tags: [  ]
 actualPrice: 8.97 EUR
 currency: EUR

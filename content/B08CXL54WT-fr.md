@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CXL54WT-fr Écouteur Bluetooth 5.0 Écouteur sans Fil avec réduction de...'
+sku: 'B08CXL54WT-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

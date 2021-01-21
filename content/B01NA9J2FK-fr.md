@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01NA9J2FK-fr Mâche-Mots - Jeu de societe Mâche-Mots Enfants Contre...'
+sku: 'B01NA9J2FK-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

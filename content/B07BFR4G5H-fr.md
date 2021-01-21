@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BFR4G5H-fr The Bellies - Poupon Interactive Pinky-Twink Famosa...'
+sku: 'B07BFR4G5H-fr'
 tags: [  ]
 actualPrice: 21.54 EUR
 currency: EUR

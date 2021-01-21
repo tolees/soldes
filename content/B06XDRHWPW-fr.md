@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XDRHWPW-fr HAUPTSTADTKOFFER - Spree - Valise de Taille Moyenne Bagage...'
+sku: 'B06XDRHWPW-fr'
 tags: [  ]
 actualPrice: 45.19 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00E8HTKZW-fr Sweetnight - Surmatelas Luxe 160x200 cm | Ultra Moelleux...'
+sku: 'B00E8HTKZW-fr'
 tags: [  ]
 actualPrice: 39.56 EUR
 currency: EUR

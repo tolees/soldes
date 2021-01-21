@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HDLN59B-fr Android TV Box Android 7.1 2G+16G Boitier Android TV Mini...'
+sku: 'B08HDLN59B-fr'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01BGTO6G2-fr G-Star Bronson Slim Chino Pantalon Grey GS Grey 5126-1260...'
+sku: 'B01BGTO6G2-fr'
 tags: [  ]
 actualPrice: 61.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFGPFZK-fr Sabrent SSD interne Rocket 500GB Nvme PCIe 4.0 M.2 2280...'
+sku: 'B07XFGPFZK-fr'
 tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR

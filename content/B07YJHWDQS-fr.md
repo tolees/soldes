@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YJHWDQS-fr FORMIZON Apprentissage des Mathématiques Jeu Monkey Match...'
+sku: 'B07YJHWDQS-fr'
 tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR

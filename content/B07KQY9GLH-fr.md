@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KQY9GLH-fr RenFox Flambé brûleur de Cuisine brûleur à gaz Butane...'
+sku: 'B07KQY9GLH-fr'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NM4R6ZS-fr AVIC-Z820DAB'
+sku: 'B07NM4R6ZS-fr'
 tags: [  ]
 actualPrice: 665.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074P8BLYP-fr MICHELIN 008317 Easy Grip Evolution Chaîne à Neige...'
+sku: 'B074P8BLYP-fr'
 tags: [  ]
 actualPrice: 94.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQILY02-fr Moulinex Cookeo Multicuiseur Intelligent 100 Recettes...'
+sku: 'B00TQILY02-fr'
 tags: [  ]
 actualPrice: 160.0 EUR
 currency: EUR

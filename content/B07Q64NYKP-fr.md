@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q64NYKP-fr Everyone Stares - The Police Inside Out [Blu-ray]'
+sku: 'B07Q64NYKP-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

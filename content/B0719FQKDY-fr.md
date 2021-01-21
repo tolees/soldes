@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0719FQKDY-fr Neutrogena Visibly Clear Gel Nettoyant Pamplemousse Rose –...'
+sku: 'B0719FQKDY-fr'
 tags: [  ]
 actualPrice: 2.62 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GTHYC1U-fr OH MY BAG Sac porté épaule Cuir porté épaule et main...'
+sku: 'B01GTHYC1U-fr'
 tags: [  ]
 actualPrice: 64.9 EUR
 currency: EUR

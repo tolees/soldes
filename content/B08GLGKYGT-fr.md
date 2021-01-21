@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GLGKYGT-fr Écouteurs sans Fil Bluetooth 5.0 IPX5 écouteurs étanches...'
+sku: 'B08GLGKYGT-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

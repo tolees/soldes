@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6ZKW5P-fr Disney Aladdin Bracelet à Breloques plaqué Or Blanc...'
+sku: 'B07H6ZKW5P-fr'
 tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR

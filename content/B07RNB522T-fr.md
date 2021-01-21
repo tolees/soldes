@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RNB522T-fr Manette Sans Fil pour Xbox 360 Double Vibration Contrôleur...'
+sku: 'B07RNB522T-fr'
 tags: [  ]
 actualPrice: 28.69 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085DBYQNB-fr Perceuse Visseuse Sans Fil Avec 105Pcs Accessoires 2...'
+sku: 'B085DBYQNB-fr'
 tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07LFV95L7-fr Geox U Renan B Sneakers Basses Homme Noir Black/Mud C9355...'
+sku: 'B07LFV95L7-fr'
 tags: [  ]
 actualPrice: 66.0 EUR
 currency: EUR

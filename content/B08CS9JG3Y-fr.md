@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CS9JG3Y-fr REDSTORM Manettes pour Nintendo Switch/Switch Lite Manette...'
+sku: 'B08CS9JG3Y-fr'
 tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR

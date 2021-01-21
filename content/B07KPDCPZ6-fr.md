@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KPDCPZ6-fr GANT The Original Full Zip Hoodie Veste Sweat Bleu Evening...'
+sku: 'B07KPDCPZ6-fr'
 tags: [  ]
 actualPrice: 66.26 EUR
 currency: EUR

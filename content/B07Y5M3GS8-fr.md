@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Y5M3GS8-fr Unisa Oneta KS Sandales Plateforme Femme Bleu Ocean Ocean...'
+sku: 'B07Y5M3GS8-fr'
 tags: [  ]
 actualPrice: 49.46 EUR
 currency: EUR

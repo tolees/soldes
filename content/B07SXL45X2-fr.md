@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SXL45X2-fr Death Stranding - Special Edition'
+sku: 'B07SXL45X2-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

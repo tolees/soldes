@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TC41LKP-fr Cressi Apnea Wetsuit - Combinaisons de Plongée complètes...'
+sku: 'B07TC41LKP-fr'
 tags: [  ]
 actualPrice: 154.63 EUR
 currency: EUR

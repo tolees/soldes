@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072JLGB49-fr Crocs Classic Clog Kids Sabots mixte enfant - Vert Grass...'
+sku: 'B072JLGB49-fr'
 tags: [  ]
 actualPrice: 13.49 EUR
 currency: EUR

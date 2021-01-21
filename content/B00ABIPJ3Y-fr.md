@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00ABIPJ3Y-fr Arrête-Moi si tu Peux [Blu-Ray]'
+sku: 'B00ABIPJ3Y-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

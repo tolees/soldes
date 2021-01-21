@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZ8SG25-fr Under Armour UA Qualifier Storm Packable Jacket Veste...'
+sku: 'B07CZ8SG25-fr'
 tags: [  ]
 actualPrice: 29.75 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B001FSJXZ4-fr Delonghi V550715 Bain d huile serie vento Blanc'
+sku: 'B001FSJXZ4-fr'
 tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR

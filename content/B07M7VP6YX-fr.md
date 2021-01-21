@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07M7VP6YX-fr The Legend of Heroes: Trails of Cold Steel 2'
+sku: 'B07M7VP6YX-fr'
 tags: [  ]
 actualPrice: 27.88 EUR
 currency: EUR

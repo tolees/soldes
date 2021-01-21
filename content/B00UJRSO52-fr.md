@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00UJRSO52-fr Sony Objectif SEL-28F20 28mm Ouverture F2.0 pour Monture E'
+sku: 'B00UJRSO52-fr'
 tags: [  ]
 actualPrice: 394.9 EUR
 currency: EUR

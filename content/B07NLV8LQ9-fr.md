@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NLV8LQ9-fr Nike Revolution 5 Chaussures de Running Compétition Homme...'
+sku: 'B07NLV8LQ9-fr'
 tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR

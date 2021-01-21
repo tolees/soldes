@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00D7FV0MC-fr Kickers - KICK COL - Bottes Classiques - Mixte Enfant -...'
+sku: 'B00D7FV0MC-fr'
 tags: [  ]
 actualPrice: 57.0 EUR
 currency: EUR

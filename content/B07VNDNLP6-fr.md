@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNDNLP6-fr LA BELLEFÉE Coffret Bougies Parfumées Les Quatre Saisons...'
+sku: 'B07VNDNLP6-fr'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

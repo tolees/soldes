@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FVGQGHX-fr Philips HD6564/81 Machine à café à dosettes SENSEO Viva...'
+sku: 'B07FVGQGHX-fr'
 tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
@@ -26,10 +27,10 @@ C'est en vente [Philips HD6564/81 Machine à café à dosettes SENSEO Viva Café
 
 ℹ️:
 
-- Sélecteur dintensité (2 longueurs de café)
 - Technologie Crema Plus
 - Technologie Booster darômes
-- 1 à 2 tasses à la fois
 - Nouvelle technologie: Duo Select: variez le goût du café, un café plus riche en goût
+- 1 à 2 tasses à la fois
+- Sélecteur dintensité (2 longueurs de café)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FVGQGHX/?tag=tolees0d-21)

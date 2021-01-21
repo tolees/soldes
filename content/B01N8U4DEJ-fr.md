@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N8U4DEJ-fr Duronic VC8 /BK- Aspirateur Balai et à Main sans Sac...'
+sku: 'B01N8U4DEJ-fr'
 tags: [  ]
 actualPrice: 34.39 EUR
 currency: EUR

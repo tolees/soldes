@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BMYXW1V-fr Anita Clara Art Soutien-Gorge sans Armatures Noir Schwarz...'
+sku: 'B07BMYXW1V-fr'
 tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR

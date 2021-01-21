@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HMRP9ZD-fr Jouet Chat Jouet Poisson Electronique Jouet Pour Chat...'
+sku: 'B08HMRP9ZD-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

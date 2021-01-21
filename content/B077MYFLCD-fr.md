@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B077MYFLCD-fr In Concert [Blu-ray]'
+sku: 'B077MYFLCD-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

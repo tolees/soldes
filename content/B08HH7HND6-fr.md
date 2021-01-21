@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HH7HND6-fr Disque Dur Externe 1to 2to USB 3.1 pour PC Mac Ordinateur...'
+sku: 'B08HH7HND6-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

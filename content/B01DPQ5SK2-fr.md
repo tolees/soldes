@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DPQ5SK2-fr Bionaire - BSF002 - ventilateur de bureau - modèle à...'
+sku: 'B01DPQ5SK2-fr'
 tags: [  ]
 actualPrice: 39.17 EUR
 currency: EUR

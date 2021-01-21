@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01JZMPWM4-fr Timberland Killington Bottes & Bottines Classiques Mixte...'
+sku: 'B01JZMPWM4-fr'
 tags: [  ]
 actualPrice: 42.5 EUR
 currency: EUR

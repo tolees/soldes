@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00XH75EFE-fr TOKINA AT-X PRO FX 24-70mm F2.8 Objectif reflex pro haute...'
+sku: 'B00XH75EFE-fr'
 tags: [  ]
 actualPrice: 813.7 EUR
 currency: EUR

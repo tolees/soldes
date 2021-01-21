@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0038TXGL0-fr Shea Moisture - Noix de Coco & Hibiscus Curl & Shine...'
+sku: 'B0038TXGL0-fr'
 tags: [  ]
 actualPrice: 14.22 EUR
 currency: EUR

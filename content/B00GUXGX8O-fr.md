@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00GUXGX8O-fr Columbia Redmond Bottes Mi-Hautes Imperméables Homme Brun...'
+sku: 'B00GUXGX8O-fr'
 tags: [  ]
 actualPrice: 69.9 EUR
 currency: EUR

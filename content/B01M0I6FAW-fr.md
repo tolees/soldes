@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01M0I6FAW-fr VAUDE 12438 Sac à Dos Femme Blueberry 52 L'
+sku: 'B01M0I6FAW-fr'
 tags: [  ]
 actualPrice: 79.83 EUR
 currency: EUR

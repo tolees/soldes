@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00IIOI9QC-fr OMRON M6 Comfort Tensiomètre Bras Électronique Technologie...'
+sku: 'B00IIOI9QC-fr'
 tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR

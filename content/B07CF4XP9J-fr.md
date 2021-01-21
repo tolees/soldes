@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CF4XP9J-fr Highness Pantalon Homme Chino Un incontournable de Tout...'
+sku: 'B07CF4XP9J-fr'
 tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR

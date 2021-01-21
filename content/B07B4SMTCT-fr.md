@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B4SMTCT-fr PUMA Ignite PWRADAPT Disc Chaussures de Golf Homme Gris...'
+sku: 'B07B4SMTCT-fr'
 tags: [  ]
 actualPrice: 134.36 EUR
 currency: EUR

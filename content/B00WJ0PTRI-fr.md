@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00WJ0PTRI-fr Cerruti 1881 Hommes Analogique Quartz Montre avec Bracelet...'
+sku: 'B00WJ0PTRI-fr'
 tags: [  ]
 actualPrice: 205.97 EUR
 currency: EUR

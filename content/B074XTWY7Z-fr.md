@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B074XTWY7Z-fr Airavata Homme Ensemble Pantalon de Sport Sweatshirt à...'
+sku: 'B074XTWY7Z-fr'
 tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01GKPTMIO-fr Safavieh Tapis d inspiration Vintage Tissé Polypropylène...'
+sku: 'B01GKPTMIO-fr'
 tags: [  ]
 actualPrice: 112.24 EUR
 currency: EUR

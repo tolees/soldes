@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B088NRX5B6-fr EasySMX Manettes Switch Manette pour Nintendo Switch...'
+sku: 'B088NRX5B6-fr'
 tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR

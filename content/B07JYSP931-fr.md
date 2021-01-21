@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JYSP931-fr Tommy Hilfiger Falleen Blouse 3/4 SLV Top de Sport Bleu...'
+sku: 'B07JYSP931-fr'
 tags: [  ]
 actualPrice: 77.43 EUR
 currency: EUR

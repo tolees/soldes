@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000VX01XC-fr Timberland Classic 2 Eye Chaussures bateau Homme Marron...'
+sku: 'B000VX01XC-fr'
 tags: [  ]
 actualPrice: 96.58 EUR
 currency: EUR

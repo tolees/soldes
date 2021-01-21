@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MSVG93C-fr Liu Jo Shoes Karlie 14 Sneaker Bordeaux Sneakers Basses...'
+sku: 'B07MSVG93C-fr'
 tags: [  ]
 actualPrice: 90.5 EUR
 currency: EUR

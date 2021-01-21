@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00009XVCZ-fr Canon Objectif EF-50mm F/1 4 USM'
+sku: 'B00009XVCZ-fr'
 tags: [  ]
 actualPrice: 358.49 EUR
 currency: EUR

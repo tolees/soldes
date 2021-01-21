@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TQQAHCK-fr Alessi Mw28 Dressed in Wood Centre de Table en Bois de...'
+sku: 'B00TQQAHCK-fr'
 tags: [  ]
 actualPrice: 63.89 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GZMSH3Y-fr Michael Kors Montre Connectée MKT5052'
+sku: 'B07GZMSH3Y-fr'
 tags: [  ]
 actualPrice: 212.92 EUR
 currency: EUR

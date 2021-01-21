@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B006ZML8D0-fr Helly Hansen HH Crew Midlayer Jacket – Veste imperméable...'
+sku: 'B006ZML8D0-fr'
 tags: [  ]
 actualPrice: 55.48 EUR
 currency: EUR

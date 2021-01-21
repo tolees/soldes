@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089ZNJPMS-fr COOLJOY Puzzles en Bois Magnétique 100 + Pièces Animaux...'
+sku: 'B089ZNJPMS-fr'
 tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR

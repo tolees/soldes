@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089MD9LCB-fr Meller - Bio Banna Minor Olive - Lunettes de Soleil pour...'
+sku: 'B089MD9LCB-fr'
 tags: [  ]
 actualPrice: 25.2 EUR
 currency: EUR

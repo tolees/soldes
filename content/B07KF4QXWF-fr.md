@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KF4QXWF-fr Levi s unbasic Hoodie Sweat-Shirt À Capuche Gris...'
+sku: 'B07KF4QXWF-fr'
 tags: [  ]
 actualPrice: 58.85 EUR
 currency: EUR

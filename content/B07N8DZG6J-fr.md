@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N8DZG6J-fr BOSS Hyper holdall Sac porté main homme Noir Black...'
+sku: 'B07N8DZG6J-fr'
 tags: [  ]
 actualPrice: 114.48 EUR
 currency: EUR

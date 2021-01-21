@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B072FHVFWK-fr Otterbox Batterie externe Powerbank 20 000 mAh'
+sku: 'B072FHVFWK-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

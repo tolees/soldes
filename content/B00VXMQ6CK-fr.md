@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00VXMQ6CK-fr G-STAR RAW 3301 Straight Tapered Jeans Bleu DK Aged...'
+sku: 'B00VXMQ6CK-fr'
 tags: [  ]
 actualPrice: 75.95 EUR
 currency: EUR

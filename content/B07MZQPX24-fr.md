@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MZQPX24-fr Pepe Jeans London Slate Pro Boot Baskets Hautes Homme Dark...'
+sku: 'B07MZQPX24-fr'
 tags: [  ]
 actualPrice: 69.83 EUR
 currency: EUR

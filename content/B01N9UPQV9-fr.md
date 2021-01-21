@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N9UPQV9-fr Levi s The Perfect Tee T-Shirt - Femme-Blanc Sportswear...'
+sku: 'B01N9UPQV9-fr'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

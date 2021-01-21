@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07SKG5M4S-fr RenFox Chalumeau de Cuisine Torche de Cuisine Butane...'
+sku: 'B07SKG5M4S-fr'
 tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CVRNQHW-fr Columbia Homme BottesCasual Imperméable CAMDEN OUTDRY...'
+sku: 'B07CVRNQHW-fr'
 tags: [  ]
 actualPrice: 65.91 EUR
 currency: EUR

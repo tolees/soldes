@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N3B8CM3-fr DELSEY PARIS - BELMONT PLUS - Valise rigide à double roues...'
+sku: 'B07N3B8CM3-fr'
 tags: [  ]
 actualPrice: 68.63 EUR
 currency: EUR

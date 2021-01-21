@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DJ513NN-fr Disque Dur Externe 2to USB3.1 pour PC Mac Ordinateur de...'
+sku: 'B08DJ513NN-fr'
 tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR

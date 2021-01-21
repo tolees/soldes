@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087CGF5FZ-fr Mini PC Intel Celeron Processor J3455 8 Go DDR4 / 64 Go...'
+sku: 'B087CGF5FZ-fr'
 tags: [  ]
 actualPrice: 161.49 EUR
 currency: EUR

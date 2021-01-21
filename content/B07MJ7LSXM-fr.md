@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MJ7LSXM-fr HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt Bleu Ink 591...'
+sku: 'B07MJ7LSXM-fr'
 tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR

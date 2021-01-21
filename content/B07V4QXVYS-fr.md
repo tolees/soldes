@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07V4QXVYS-fr Faure FKM-901ME1 Robot Pâtissier Magic Baker Excellence -...'
+sku: 'B07V4QXVYS-fr'
 tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR

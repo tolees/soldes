@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08JQF6DL5-fr eXtremeRate Kit de Coques avec Boutons Colorés pour...'
+sku: 'B08JQF6DL5-fr'
 tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR

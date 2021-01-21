@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CDZD8B7-fr Marshall Major III Casque Audio Bluetooth - Noir'
+sku: 'B07CDZD8B7-fr'
 tags: [  ]
 actualPrice: 68.46 EUR
 currency: EUR

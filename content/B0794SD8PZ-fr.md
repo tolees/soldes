@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0794SD8PZ-fr TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32...'
+sku: 'B0794SD8PZ-fr'
 tags: [  ]
 actualPrice: 219.99 EUR
 currency: EUR

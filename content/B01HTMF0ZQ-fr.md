@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01HTMF0ZQ-fr Salewa MS Rapace Gore-TEX Chaussures de Trekking et...'
+sku: 'B01HTMF0ZQ-fr'
 tags: [  ]
 actualPrice: 123.77 EUR
 currency: EUR

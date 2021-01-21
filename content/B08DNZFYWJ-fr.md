@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNZFYWJ-fr EasySMX Manettes pour Switch/Switch Lite Manette sans Fil...'
+sku: 'B08DNZFYWJ-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

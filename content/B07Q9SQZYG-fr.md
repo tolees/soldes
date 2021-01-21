@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07Q9SQZYG-fr Braun Series 9 9299cc Rasoir Électrique Homme Station...'
+sku: 'B07Q9SQZYG-fr'
 tags: [  ]
 actualPrice: 253.65 EUR
 currency: EUR

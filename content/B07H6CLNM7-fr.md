@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H6CLNM7-fr Maison Lejaby Tropical UNI Haut de maillot de bain Femme...'
+sku: 'B07H6CLNM7-fr'
 tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B1FYKFW-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
+sku: 'B08B1FYKFW-fr'
 tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR

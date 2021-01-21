@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00RXQJDWA-fr Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de...'
+sku: 'B00RXQJDWA-fr'
 tags: [  ]
 actualPrice: 29.94 EUR
 currency: EUR

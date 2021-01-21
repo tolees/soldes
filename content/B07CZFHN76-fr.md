@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CZFHN76-fr Brosse nettoyante sonique pour le visage en silicone...'
+sku: 'B07CZFHN76-fr'
 tags: [  ]
 actualPrice: 23.98 EUR
 currency: EUR

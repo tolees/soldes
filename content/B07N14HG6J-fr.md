@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07N14HG6J-fr Skechers Go Run Steady Baskets Femme Noir Black...'
+sku: 'B07N14HG6J-fr'
 tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR

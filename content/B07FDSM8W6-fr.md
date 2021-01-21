@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FDSM8W6-fr MIDAS veur Balayeuse portable pression et haute...'
+sku: 'B07FDSM8W6-fr'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

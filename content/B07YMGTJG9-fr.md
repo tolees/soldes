@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMGTJG9-fr Chie Mihara abra Sandales Bride Cheville Femmes Noir Ante...'
+sku: 'B07YMGTJG9-fr'
 tags: [  ]
 actualPrice: 139.05 EUR
 currency: EUR

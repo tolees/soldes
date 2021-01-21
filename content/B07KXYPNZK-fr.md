@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KXYPNZK-fr Millet – Ubic 40 – Sac à Dos de Montagne Unisexe –...'
+sku: 'B07KXYPNZK-fr'
 tags: [  ]
 actualPrice: 82.79 EUR
 currency: EUR

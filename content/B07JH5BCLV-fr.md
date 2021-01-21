@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07JH5BCLV-fr Newton Gravity 8 Chaussure De Course à Pied - 41'
+sku: 'B07JH5BCLV-fr'
 tags: [  ]
 actualPrice: 78.39 EUR
 currency: EUR

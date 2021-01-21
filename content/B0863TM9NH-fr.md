@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0863TM9NH-fr Birds of Prey et la fantabuleuse Histoire de Harley Quinn'
+sku: 'B0863TM9NH-fr'
 tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR

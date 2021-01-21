@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01DKL0EP6-fr NETGEAR Répéteur WiFi EX6130 Amplificateur WiFi AC1200...'
+sku: 'B01DKL0EP6-fr'
 tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR

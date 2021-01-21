@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07ZDBT15M-fr DD SSD KINGSTON KC600 2.5 SATA3 512GO SKC600/512G *0253'
+sku: 'B07ZDBT15M-fr'
 tags: [  ]
 actualPrice: 75.15 EUR
 currency: EUR

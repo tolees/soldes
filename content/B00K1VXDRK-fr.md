@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00K1VXDRK-fr Montre Femme - Calvin Klein K4U23126'
+sku: 'B00K1VXDRK-fr'
 tags: [  ]
 actualPrice: 100.07 EUR
 currency: EUR

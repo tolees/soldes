@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FMV8W9R-fr VTechKidizoom Smartwatch Connect DX2 – Framboise – Montre...'
+sku: 'B07FMV8W9R-fr'
 tags: [  ]
 actualPrice: 61.79 EUR
 currency: EUR

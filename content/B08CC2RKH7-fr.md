@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08CC2RKH7-fr RUNACC Gants de Course Écran Tactile pour Hommes et Femmes...'
+sku: 'B08CC2RKH7-fr'
 tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR

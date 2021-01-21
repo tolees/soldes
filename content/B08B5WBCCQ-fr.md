@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08B5WBCCQ-fr ORICO Boîtier Disque Dur 2 5 Boîtier Externe Portable...'
+sku: 'B08B5WBCCQ-fr'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

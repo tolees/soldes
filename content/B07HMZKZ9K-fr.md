@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HMZKZ9K-fr Strong SRT 2023 Box Android TV 7.1 UHD 4K Google - Lecteur...'
+sku: 'B07HMZKZ9K-fr'
 tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR

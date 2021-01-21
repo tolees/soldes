@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DNZZS3W-fr EasySMX Manette Switch Manette Switch Pro pour Nintendo...'
+sku: 'B08DNZZS3W-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

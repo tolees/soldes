@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00TDNYNP8-fr Arlo | Caméra de surveillance 100% Sans Fils Pack de 2 HD...'
+sku: 'B00TDNYNP8-fr'
 tags: [  ]
 actualPrice: 249.95 EUR
 currency: EUR

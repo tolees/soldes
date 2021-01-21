@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VPCBKG1-fr Spa Luxetique Coffret Cadeau Crème Mains Cadeau...'
+sku: 'B07VPCBKG1-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

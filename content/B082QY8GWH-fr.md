@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B082QY8GWH-fr Moniteur de Fréquence Cardiaque Traqueur de Forme Physique...'
+sku: 'B082QY8GWH-fr'
 tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR

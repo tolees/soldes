@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WGN5X92-fr Royal Walk Parapluie de golf automatique pour homme et...'
+sku: 'B06WGN5X92-fr'
 tags: [  ]
 actualPrice: 28.08 EUR
 currency: EUR

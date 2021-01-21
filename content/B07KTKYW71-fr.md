@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KTKYW71-fr Cressi Homme Apnea Complete 7 mm Freediving/Spearfishing...'
+sku: 'B07KTKYW71-fr'
 tags: [  ]
 actualPrice: 192.16 EUR
 currency: EUR

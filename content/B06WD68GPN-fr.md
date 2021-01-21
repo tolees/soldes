@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06WD68GPN-fr Marvel Legends - Edition Collector Avengers - Marteau...'
+sku: 'B06WD68GPN-fr'
 tags: [  ]
 actualPrice: 114.99 EUR
 currency: EUR

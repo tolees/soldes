@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07MD5B94Z-fr Masthome Planche à découper en bambou Idéal pour la viande...'
+sku: 'B07MD5B94Z-fr'
 tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR

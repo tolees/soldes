@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07D6P15GS-fr Adidas NMD R1 Basket Mode Homme - Noir Core Black/Core...'
+sku: 'B07D6P15GS-fr'
 tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR

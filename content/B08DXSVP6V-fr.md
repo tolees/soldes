@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DXSVP6V-fr Masseur Sans Fil con 10 Modes de Vitesses Différentes...'
+sku: 'B08DXSVP6V-fr'
 tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR

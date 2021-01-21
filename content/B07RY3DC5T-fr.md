@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07RY3DC5T-fr Redskins Blouson Cuir Melrose Wonder Homme'
+sku: 'B07RY3DC5T-fr'
 tags: [  ]
 actualPrice: 245.39 EUR
 currency: EUR

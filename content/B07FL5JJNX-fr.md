@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07FL5JJNX-fr Superdry Crater Padded Jacket Veste de Sport Noir Black...'
+sku: 'B07FL5JJNX-fr'
 tags: [  ]
 actualPrice: 67.91 EUR
 currency: EUR

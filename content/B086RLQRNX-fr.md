@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B086RLQRNX-fr CubicFun 3D Puzzle Harry Potter Poudlard Castle School...'
+sku: 'B086RLQRNX-fr'
 tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR

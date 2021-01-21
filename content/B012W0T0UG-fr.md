@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B012W0T0UG-fr Philips S5400/06 Rasoir électrique Series 5000 étanche...'
+sku: 'B012W0T0UG-fr'
 tags: [  ]
 actualPrice: 57.95 EUR
 currency: EUR

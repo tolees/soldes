@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07TV7NFN4-fr Levi s 501 Crop Jean Droit Blanc in The Clouds 0032...'
+sku: 'B07TV7NFN4-fr'
 tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR

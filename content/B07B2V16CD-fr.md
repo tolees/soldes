@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07B2V16CD-fr FLEXISPOT E5W Bureau Réglable Electrique en Hauteur Bureau...'
+sku: 'B07B2V16CD-fr'
 tags: [  ]
 actualPrice: 379.99 EUR
 currency: EUR

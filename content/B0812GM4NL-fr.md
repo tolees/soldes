@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0812GM4NL-fr Asics Gel-Nimbus 22 Lite-Show Running Shoe Womens Sheet...'
+sku: 'B0812GM4NL-fr'
 tags: [  ]
 actualPrice: 131.5 EUR
 currency: EUR

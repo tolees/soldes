@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JWIJZW-fr Simm Jouets 50410 – Standard GS Moteur pour remplacer'
+sku: 'B000JWIJZW-fr'
 tags: [  ]
 actualPrice: 7.68 EUR
 currency: EUR

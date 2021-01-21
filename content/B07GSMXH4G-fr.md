@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GSMXH4G-fr Neato Robotics D6 Aspirateur Robot Intelligent -...'
+sku: 'B07GSMXH4G-fr'
 tags: [  ]
 actualPrice: 399.99 EUR
 currency: EUR

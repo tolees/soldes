@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08BMLLP31-fr OUPOD Manette sans fil Bluetooth pour Pro Nintendo Switch...'
+sku: 'B08BMLLP31-fr'
 tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR

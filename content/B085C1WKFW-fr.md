@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B085C1WKFW-fr Oacvien Récepteur Bluetooth 5.0 Adaptateur Émetteur...'
+sku: 'B085C1WKFW-fr'
 tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR

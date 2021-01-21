@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07R7N3RGJ-fr YUCUN 2 5 Pouces SATA III Disque Flash 1To SSD 1TB Interne...'
+sku: 'B07R7N3RGJ-fr'
 tags: [  ]
 actualPrice: 85.59 EUR
 currency: EUR

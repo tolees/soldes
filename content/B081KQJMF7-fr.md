@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B081KQJMF7-fr Bayonetta & Vanquish 10th Anniversary Bundle - Launch...'
+sku: 'B081KQJMF7-fr'
 tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR

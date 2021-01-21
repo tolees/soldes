@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XKCTBVN-fr Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45...'
+sku: 'B07XKCTBVN-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

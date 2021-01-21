@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0776YGHFN-fr OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche...'
+sku: 'B0776YGHFN-fr'
 tags: [  ]
 actualPrice: 19.4 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07X48WBHN-fr Ledger Backup Pack - Nano S + Nano X - Portefeuille de...'
+sku: 'B07X48WBHN-fr'
 tags: [  ]
 actualPrice: 111.75 EUR
 currency: EUR

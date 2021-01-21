@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B073SM6T7T-fr Snow'
+sku: 'B073SM6T7T-fr'
 tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B087JS5B6R-fr Casque de jeu avec micro pour Xbox One PS4 PC Switch...'
+sku: 'B087JS5B6R-fr'
 tags: [  ]
 actualPrice: 35.29 EUR
 currency: EUR

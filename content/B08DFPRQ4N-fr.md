@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08DFPRQ4N-fr jpantech Montre Connectée Smartwatch Femmes Homme Montre...'
+sku: 'B08DFPRQ4N-fr'
 tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR

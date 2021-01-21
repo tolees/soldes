@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B089N59LZY-fr Toozey Jouets pour Chiens - 6 PCS Jouets Chiot Jouet Chien...'
+sku: 'B089N59LZY-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

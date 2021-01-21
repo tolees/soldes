@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07H5ZF2P6-fr Maison Lejaby Wings Soutien-Gorge à Armature Écru Lys 801...'
+sku: 'B07H5ZF2P6-fr'
 tags: [  ]
 actualPrice: 79.94 EUR
 currency: EUR

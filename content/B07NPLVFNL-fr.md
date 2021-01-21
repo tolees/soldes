@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NPLVFNL-fr Jabra Elite Active 45e – Casque de Sport Bluetooth sans...'
+sku: 'B07NPLVFNL-fr'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B06XP8FMM2-fr Keten Tournevis triwing pour Nintendo Kit Professionnel...'
+sku: 'B06XP8FMM2-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

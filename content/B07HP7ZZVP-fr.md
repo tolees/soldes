@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07HP7ZZVP-fr Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz DDR4...'
+sku: 'B07HP7ZZVP-fr'
 tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR

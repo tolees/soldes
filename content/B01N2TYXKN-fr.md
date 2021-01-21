@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01N2TYXKN-fr LES FILLES DE CALEB: ÉMILIE et BLANCHE'
+sku: 'B01N2TYXKN-fr'
 tags: [  ]
 actualPrice: 34.3 EUR
 currency: EUR

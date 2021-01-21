@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07YMHFJJX-fr Chie Mihara zuleica36 Ballerines à Bride Cheville Femmes...'
+sku: 'B07YMHFJJX-fr'
 tags: [  ]
 actualPrice: 131.13 EUR
 currency: EUR

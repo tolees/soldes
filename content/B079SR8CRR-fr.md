@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B079SR8CRR-fr Pinypon - 700014086 - Enfants et Bébés Paquet de 6...'
+sku: 'B079SR8CRR-fr'
 tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR

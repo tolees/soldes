@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07CL962HP-fr Giochi Preziosi – LOL Bigger Surprise multicolore llu46000...'
+sku: 'B07CL962HP-fr'
 tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR

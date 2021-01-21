@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0766DJPRK-fr Playmobil - Villa de Vacances - 9420'
+sku: 'B0766DJPRK-fr'
 tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR

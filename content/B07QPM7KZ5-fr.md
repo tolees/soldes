@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07QPM7KZ5-fr NICOLE & DORIS Femmes Sacs à Main bandoulière Sac d épaule...'
+sku: 'B07QPM7KZ5-fr'
 tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08HH1GTGL-fr LK 2 pièces Verre Trempé pour Samsung Galaxy A71...'
+sku: 'B08HH1GTGL-fr'
 tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07NVTL16G-fr Armor Lux Pull Marin "Goulenez" Homme Multicolore X-Small...'
+sku: 'B07NVTL16G-fr'
 tags: [  ]
 actualPrice: 98.97 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07XFVZB6H-fr Microsoft Surface Laptop 3 – PC Ultra-Portable écran 13...'
+sku: 'B07XFVZB6H-fr'
 tags: [  ]
 actualPrice: 1229.0 EUR
 currency: EUR

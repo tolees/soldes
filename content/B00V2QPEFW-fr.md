@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B00V2QPEFW-fr Columbia Zero Rules Haut à Manches Longues Homme'
+sku: 'B00V2QPEFW-fr'
 tags: [  ]
 actualPrice: 19.2 EUR
 currency: EUR

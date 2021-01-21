@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GJWCCM7-fr Philips HR2382/10 Machine à Pâtes Automatique Balance...'
+sku: 'B07GJWCCM7-fr'
 tags: [  ]
 actualPrice: 159.99 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01AK0R6LU-fr Razor - 13173861 - Patinette Électronique - E90 Power Core...'
+sku: 'B01AK0R6LU-fr'
 tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR

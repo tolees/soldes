@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B000JWCED0-fr Eaton MGE UPS Pulsar EXB RT2U Boîtier de piles externe 2 x...'
+sku: 'B000JWCED0-fr'
 tags: [  ]
 actualPrice: 172.16 EUR
 currency: EUR
@@ -26,8 +27,8 @@ Vous avez [Eaton  MGE  UPS Pulsar EXB RT2U Boîtier de piles   externe   2 x Aci
 
 ℹ️:
 
-- Eaton (MGE) UPS Pulsar EXB RT2U Boîtier de piles ( externe ) 2 x Acide de plomb 9 Ah 2U
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Eaton (MGE) UPS Pulsar EXB RT2U Boîtier de piles ( externe ) 2 x Acide de plomb 9 Ah 2U
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000JWCED0/?tag=tolees0d-21)

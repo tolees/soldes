@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B08GPRT8YR-fr QSSTECH Écouteurs Intra-Auriculaires avec Microphone...'
+sku: 'B08GPRT8YR-fr'
 tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR

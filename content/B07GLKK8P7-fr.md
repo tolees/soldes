@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07GLKK8P7-fr Smith Network MIPS Casque de vélo Adulte Unisexe Mike Giant l'
+sku: 'B07GLKK8P7-fr'
 tags: [  ]
 actualPrice: 112.5 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B075KQFQQ9-fr Boucles d oreilles or tricolore"Trianon"'
+sku: 'B075KQFQQ9-fr'
 tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B01H76WLWO-fr 7 for all mankind MID RISE ROXANNE Jeans Femme Bleu Bair...'
+sku: 'B01H76WLWO-fr'
 tags: [  ]
 actualPrice: 67.93 EUR
 currency: EUR

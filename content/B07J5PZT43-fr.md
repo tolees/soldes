@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07J5PZT43-fr Chartres Basket Métropole Chartres Métropole Basket Short...'
+sku: 'B07J5PZT43-fr'
 tags: [  ]
 actualPrice: 12.97 EUR
 currency: EUR

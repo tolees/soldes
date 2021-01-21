@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07BHSGYMF-fr Cube lumineux enceinte bluetooth sans fil LED...'
+sku: 'B07BHSGYMF-fr'
 tags: [  ]
 actualPrice: 113.99 EUR
 currency: EUR

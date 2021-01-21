@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07VNB4SZB-fr PowerA Boîtier de Protection/Pochette de Transport -...'
+sku: 'B07VNB4SZB-fr'
 tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR

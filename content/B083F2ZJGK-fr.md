@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B083F2ZJGK-fr US-TRONIC CONVERTISSEUR Pur Sinus 12V 220V - 1000 Watts +...'
+sku: 'B083F2ZJGK-fr'
 tags: [  ]
 actualPrice: 199.9 EUR
 currency: EUR

@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KSC6BZL-fr Marc Cain Collections T- Shirt Multicolore Scarlet 272 40...'
+sku: 'B07KSC6BZL-fr'
 tags: [  ]
 actualPrice: 78.84 EUR
 currency: EUR

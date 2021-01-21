@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07L6JWVSL-fr Under Armour Coldgear Reactor Performance Hybrid Veste...'
+sku: 'B07L6JWVSL-fr'
 tags: [  ]
 actualPrice: 99.62 EUR
 currency: EUR

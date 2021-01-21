@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B0829SLJSF-fr Corsair A500 Ventirad à Double Ventilateur Haute...'
+sku: 'B0829SLJSF-fr'
 tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR

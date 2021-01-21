@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B07KK2NZRJ-fr Columbia Peakfreak Venture S II Mid WP Chaussures...'
+sku: 'B07KK2NZRJ-fr'
 tags: [  ]
 actualPrice: 106.41 EUR
 currency: EUR

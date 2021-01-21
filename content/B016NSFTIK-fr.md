@@ -7,6 +7,7 @@ comments: true
 category: ofertas
 author: ring
 slug: 'B016NSFTIK-fr Gitzo GT1545T - Trépied Traveler Série 1 à 4 Sections...'
+sku: 'B016NSFTIK-fr'
 tags: [  ]
 actualPrice: 649.0 EUR
 currency: EUR
