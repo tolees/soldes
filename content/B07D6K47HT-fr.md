@@ -27,10 +27,10 @@ C'est en vente [Crock Pot CSC051X-01 Multi-Cuiseur Express  Mijoteuse  Cuiseur V
 
 ℹ️:
 
-- 8 fonctions préprogrammées: viandes/ragoût, riz/risotto, volailles, soupes, chili/légumineuses, pains, yaourts, desserts
 - Capacité 5, 5.6 l-idéal pour 5 à 6 personnes
 - Multi-cuiseur électrique express finition inox brossé
 - Cuisson sous pression manuelle ou automatique pour plus de sécurité
 - Puissance 1000W
+- 8 fonctions préprogrammées: viandes/ragoût, riz/risotto, volailles, soupes, chili/légumineuses, pains, yaourts, desserts
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07D6K47HT/?tag=tolees0d-21)
