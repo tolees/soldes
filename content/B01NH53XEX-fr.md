@@ -27,10 +27,10 @@ C'est en vente [RephiDuo SY Pack 2   remplacement approprié pour SYPK0SIX2 ](ht
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Convient aux systèmes de purification deau Millipore
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Ce produit doit être retiré pour les contaminants ioniques et organiques traces suivantes doivent ajuster la qualité de leau pour votre application.
 - Synergy Pack 2 (alimentation déminéralisée) pour Millipore SMART Synergy et Synergy UV Systémes.
+- Ce produit doit être retiré pour les contaminants ioniques et organiques traces suivantes doivent ajuster la qualité de leau pour votre application.
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Convient aux systèmes de purification deau Millipore
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01NH53XEX/?tag=tolees0d-21)
