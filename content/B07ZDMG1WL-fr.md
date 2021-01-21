@@ -27,10 +27,10 @@ C'est en vente [Chicco - Poussette Canne Miinimo 3 - Voyage en Cabine  Compacte 
 
 ℹ️:
 
-- Personnalisable, elle devient un mini Trio avec un siège-auto et une nacelle souple (vendus séparement)
 - Miinimo 3 est la poussette homologuée cabine, ultra-compacte et ultra-confortable qui accompagne lenfant de la naissance à 15 kg
-- Avec accessoires : habillage-pluie, bretelle de transport, sac de transport (utilisable comme sac à dos)
 - Lignes épurées et rembourrage très confortable pour bébé
+- Personnalisable, elle devient un mini Trio avec un siège-auto et une nacelle souple (vendus séparement)
 - Elle se plie très facilement et se transporte partout, même dans l’avion pour les voyages avec bébé
+- Avec accessoires : habillage-pluie, bretelle de transport, sac de transport (utilisable comme sac à dos)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZDMG1WL/?tag=tolees0d-21)
