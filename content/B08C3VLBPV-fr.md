@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'James Bond 007-La Collection Daniel Crai avec 46.44 % rabais '
-date: 2021-01-06 15:50:41
+date: 2021-01-21 06:06:32
 image: 'https://m.media-amazon.com/images/I/41iKqa84iFL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08C3VLBPV-fr'
+slug: 'B08C3VLBPV-fr James Bond 007-La Collection Daniel Craig : Casino Royale...'
+sku: 'B08C3VLBPV-fr'
+tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99
@@ -26,4 +28,4 @@ C'est en vente [James Bond 007-La Collection Daniel Craig : Casino Royale + Quan
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B08C3VLBPV/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08C3VLBPV/?tag=tolees0d-21)
