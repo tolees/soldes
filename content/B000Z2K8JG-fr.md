@@ -28,9 +28,9 @@ Vous avez [SKB 3SKB-3025MR Etui universel formé sous vide avec poignée télesc
 ℹ️:
 
 - Poignée téléscopique rétractable
-- Roulettes style "patin en ligne"
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Absorbeurs de choc intégrés
+- Roulettes style "patin en ligne"
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000Z2K8JG/?tag=tolees0d-21)

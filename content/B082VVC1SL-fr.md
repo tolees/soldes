@@ -27,10 +27,10 @@ C'est en vente [L Oréal Men Expert - Gel Ultra-Désincrustant Anti-Points Noirs
 
 ℹ️:
 
-- Texture contenant des micro-grains naturels pour éliminer les cellules mortes, Pouvoir purifiant et absorbant grâce à la formule enrichie en charbon pur
-- Contenu : 2x Gel ultra-désincrustant anti-points noirs LOréal Men Expert Pur Charbon, 100 ml
 - Conseils dutilisation : appliquer quotidiennement une noix de gel sur lensemble du visage préalablement nettoyé et masser légèrement pour faire mousser, Insister sur le front, le nez et le menton
+- Texture contenant des micro-grains naturels pour éliminer les cellules mortes, Pouvoir purifiant et absorbant grâce à la formule enrichie en charbon pur
 - Résultats : Peau douce et confortable, nettoyée en profondeur et purifiée contre les imperfections et les points noirs
+- Contenu : 2x Gel ultra-désincrustant anti-points noirs LOréal Men Expert Pur Charbon, 100 ml
 - Gel exfoliant pour désincruster les points noirs et les impuretés, Spécifiquement conçu pour le visage des hommes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082VVC1SL/?tag=tolees0d-21)
