@@ -27,8 +27,8 @@ C'est en vente [Only ONLELCOS 4/5 AOP Top JRS Noos Pull  Gris  Light Grey Melang
 
 ℹ️:
 
-- Haut décontracté.
 - T-shirt
+- Haut décontracté.
 - Haut
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0714GNVL9/?tag=tolees0d-21)

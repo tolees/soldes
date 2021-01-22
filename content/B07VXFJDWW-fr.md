@@ -27,10 +27,10 @@ C'est en vente [LEIZHAN Clé USB Silicone 32Go Flash Drive USB 2.0 Dessin Animé
 
 ℹ️:
 
-- 🐈 Sûr et fiable: effaçable répétable plusieurs fois, les données peuvent être stockées pendant 10 ans. anti-magnétique, tremblement de terre, humidité, résistance à haute et basse température.
 - 🐄 Tous les produits de LEIZHAN sont garantis un an. Si vous avez des questions, nhésitez pas à nous contacter.
-- 🐢 Il suffit de brancher et de jouer sur un port USB, facile à utiliser.Un cadeau danniversaire idéal pour vos amis et votre enfant.Un gadget de poche et une connexion peu encombrante, prend en charge Hot plug & Play.Pas besoin dinstaller de logiciel
 - 🐟 Le forfait comprend: un lecteur flash 1 * 32 Go.Compatible avec Windows XP / Windows 7 / Windows 8 / Windows 10, MacOS X 10.3 ou version ultérieure / Linux 2.4 ou version ultérieure, etc.
 - 🐔 Conforme à la spécification USB 2.0, vitesse de transmission de données.Peut stocker et transporter des photos, de la musique, des fichiers vidéo et toutes les présentations professionnelles, les devoirs et les documents personnels.
+- 🐢 Il suffit de brancher et de jouer sur un port USB, facile à utiliser.Un cadeau danniversaire idéal pour vos amis et votre enfant.Un gadget de poche et une connexion peu encombrante, prend en charge Hot plug & Play.Pas besoin dinstaller de logiciel
+- 🐈 Sûr et fiable: effaçable répétable plusieurs fois, les données peuvent être stockées pendant 10 ans. anti-magnétique, tremblement de terre, humidité, résistance à haute et basse température.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VXFJDWW/?tag=tolees0d-21)

@@ -27,9 +27,9 @@ Vous avez [Live at The Royal Albert Hall](https://www.amazon.fr/dp/B0012RCMOM/?t
 
 ℹ️:
 
-- Country Of Release: NLD
-- Year Of Release: 2008
 - Catalog#: 404 4141020
+- Country Of Release: NLD
 - Record Label: Ninja Tune
+- Year Of Release: 2008
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0012RCMOM/?tag=tolees0d-21)

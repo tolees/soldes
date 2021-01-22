@@ -28,7 +28,7 @@ C'est en vente [Canadian Peak Parka Homme BANOTIKO Noir XL](https://www.amazon.f
 ℹ️:
 
 - 100% polyester
-- Automne Hiver Saison 2019
 - Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
+- Automne Hiver Saison 2019
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082V5NXCX/?tag=tolees0d-21)
