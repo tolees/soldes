@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Nike 894432 T-Shirt Men s  Bleu  Midnigh avec 40.01 % rabais '
-date: 2021-01-16 21:28:17
+date: 2021-01-22 08:27:28
 image: 'https://m.media-amazon.com/images/I/41Ja6Tif0hL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B077VXM97G-fr'
+slug: 'B077VXM97G-fr Nike 894432 T-Shirt Men s Bleu Midnight Navy/White 411 FR...'
+sku: 'B077VXM97G-fr'
+tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99
@@ -16,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B077VXM97G/?tag=tolees0d-21'
 descuento: '40.01'
-average: '50.69200000000001'
+average: '50.77714285714286'
 ---
 
 C'est en vente [Nike 894432 T-Shirt Men s  Bleu  Midnight Navy/White 411   FR : S  Taille Fabricant : S ](https://www.amazon.fr/dp/B077VXM97G/?tag=tolees0d-21)  à  40.01 % de réduction, prix final  50.99 EUR (original: 85.0 EUR) ici:
@@ -25,9 +27,9 @@ C'est en vente [Nike 894432 T-Shirt Men s  Bleu  Midnight Navy/White 411   FR : 
 
 ℹ️:
 
-- Neuf avec logo
+- Shirt accueil
 - La technologie dri-fit assure un confort sec
 - Matériel: 100% polyester
-- Shirt accueil
+- Neuf avec logo
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077VXM97G/?tag=tolees0d-21)

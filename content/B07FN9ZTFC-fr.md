@@ -27,10 +27,10 @@ C'est en vente [Under Armour Unstoppable 2X Knit Crew Haut Homme Gris FR : XL  T
 
 ℹ️:
 
-- Couleur : Gris Taille : XL
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- 4 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- 60% Cotton/40% Polyester
 - Under Armour Unstoppable 2X Knit Crew Haut Homme Gris FR : XL (Taille Fabricant : Taille XL)
+- Couleur : Gris Taille : XL
+- 60% Cotton/40% Polyester
+- 4 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FN9ZTFC/?tag=tolees0d-21)
