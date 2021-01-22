@@ -27,10 +27,10 @@ Vous avez [Wagner : Parsifal](https://www.amazon.fr/dp/B000FVHGZG/?tag=tolees0d-
 
 ℹ️:
 
-- Record Label: Philips
-- Country Of Release: NLD
-- Catalog#: 00289 4757785
-- Notes: Orch.Der Bayreuther Festspiele/Hans Knappertsbusch
 - Year Of Release: 2006
+- Notes: Orch.Der Bayreuther Festspiele/Hans Knappertsbusch
+- Record Label: Philips
+- Catalog#: 00289 4757785
+- Country Of Release: NLD
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000FVHGZG/?tag=tolees0d-21)
