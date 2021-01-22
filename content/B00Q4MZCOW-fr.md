@@ -28,7 +28,7 @@ Vous avez [Lacoste - Sweat-Shirt - Manches Longues Homme  Gris  Argent Chiné   
 ℹ️:
 
 - 100% coton
-- Lavage en machine 40° C
 - Manches longues
+- Lavage en machine 40° C
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00Q4MZCOW/?tag=tolees0d-21)

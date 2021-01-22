@@ -27,9 +27,9 @@ Vous avez [Fujifilm INSTAX SQ6 RUBY RED Appareil photo instantané Rouge/Bleu](h
 
 ℹ️:
 
+- mode selfie inelligent
 - appareil instantané
 - appareil SQ6 2 PILES Lithium CR2/DL CR2, courroies, trois filtres couleurs stroboscopiques
-- mode selfie inelligent
 - format carré 62x62mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HY2RZ8L/?tag=tolees0d-21)

@@ -27,8 +27,8 @@ C'est en vente [Les Artistes Paris A-1811 Can It Cannette Isotherme Acier Inoxyd
 
 ℹ️:
 
-- Description du produit : cannette isotherme, chaud ou froid, 100% hermétique, double paroi acier inoxydable
 - cannette isotherme avec une paille à lintérieur, chaud ou froid, 100% hermétique, double paroi acier inoxydable
+- Description du produit : cannette isotherme, chaud ou froid, 100% hermétique, double paroi acier inoxydable
 - Garantie : 1 an(s)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00V7OPGXE/?tag=tolees0d-21)

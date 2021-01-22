@@ -27,10 +27,10 @@ Vous avez [Reebok Class Lea  Chaussures multisport femme  Blanc  38 EU](https://
 
 ℹ️:
 
-- EVA Zwischensohle
+- Abriebfeste Gummi-Aussensohle
 - Logo-Patch auf der Zunge
+- EVA Zwischensohle
 - Der Classic Leather ist ein klassischer Sneaker von Reebok für Damen mit weichem Leder.
 - Warnhinweis: Keine / nicht relevant
-- Abriebfeste Gummi-Aussensohle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000GMC8IE/?tag=tolees0d-21)
