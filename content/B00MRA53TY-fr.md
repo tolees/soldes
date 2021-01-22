@@ -27,8 +27,8 @@ C'est en vente [Randoneo Orbit Tente de 6 Personnes Vert](https://www.amazon.fr/
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Tente Orbit 600-tente familiale par excellence-3 ch-coin repas-larges fenêtres-seuil sous abris-couleur verte
 - 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Tente Orbit 600-tente familiale par excellence-3 ch-coin repas-larges fenêtres-seuil sous abris-couleur verte
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00MRA53TY/?tag=tolees0d-21)

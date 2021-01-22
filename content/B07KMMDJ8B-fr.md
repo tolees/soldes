@@ -28,9 +28,9 @@ Vous avez [Nerf Elite RukKus ICS-8 et Flechettes Nerf Elite Officielles](https:/
 ℹ️:
 
 - Fléchettes Nerf Elite officielles !
-- Valeur éducative de Nerf: se dépenser, améliorer son agilité et sa précision, inventer des histoires. Nerf Elite rukkus ICS 8, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 8 ans, 9 ans, 10 ans et plus.
 - Nerf Elite rukkus ics-8
-- 8 fléchettes Elite incluses.
+- Valeur éducative de Nerf: se dépenser, améliorer son agilité et sa précision, inventer des histoires. Nerf Elite rukkus ICS 8, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 8 ans, 9 ans, 10 ans et plus.
 - Chargeur-banane de 8 fléchettes
+- 8 fléchettes Elite incluses.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KMMDJ8B/?tag=tolees0d-21)

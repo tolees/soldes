@@ -28,8 +28,8 @@ C'est en vente [Nike 894432 T-Shirt Men s  Bleu  Midnight Navy/White 411   FR : 
 ℹ️:
 
 - Neuf avec logo
-- Matériel: 100% polyester
 - La technologie dri-fit assure un confort sec
 - Shirt accueil
+- Matériel: 100% polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077VXM97G/?tag=tolees0d-21)

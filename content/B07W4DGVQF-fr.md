@@ -27,10 +27,10 @@ Vous avez [Logitech MX Master 2S Souris sans Fil  Version 2020  Multi-Dispositif
 
 ℹ️:
 
-- La conception élégante, confortable et adaptée à la main**** épouse naturellement la forme de votre main et de votre poignet. Profitez dun contrôle précis et dune utilisation fluide grâce au positionnement optimisé des boutons et des molettes. **** Moule de la souris fabriqué à partir dun design original adapté à la main.
+- Contrôlez avec fluidité jusquà 3 ordinateurs différents à laide dune souris unique. Copiez et collez du texte, des images et des fichiers dune machine à lautre.* * Nécessite le logiciel Logitech Options disponible en téléchargement à ladresse logitech.com/options.
 - Parcourez de longs documents et des pages Web rapidement et facilement grâce à la roulette de défilement intelligente qui passe automatiquement du mode de défilement par paliers au défilement ultra-rapide.
+- La conception élégante, confortable et adaptée à la main**** épouse naturellement la forme de votre main et de votre poignet. Profitez dun contrôle précis et dune utilisation fluide grâce au positionnement optimisé des boutons et des molettes. **** Moule de la souris fabriqué à partir dun design original adapté à la main.
 - Bénéficiez dun niveau de contrôle sans précédent sur quasiment toutes les surfaces, y compris le verre**, avec une résolution pouvant atteindre 4 000 ppp. ** Épaisseur de 4 mm au minimum.
 - Branchez simplement la souris MX Master 2S à votre ordinateur à laide du câble de charge micro-USB: 3 minutes de charge suffisent pour fournir une autonomie dune journée entière. Une charge complète peut durer jusquà 70 jours.*** *** La longévité de la batterie dépend de votre utilisation.
-- Contrôlez avec fluidité jusquà 3 ordinateurs différents à laide dune souris unique. Copiez et collez du texte, des images et des fichiers dune machine à lautre.* * Nécessite le logiciel Logitech Options disponible en téléchargement à ladresse logitech.com/options.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W4DGVQF/?tag=tolees0d-21)
