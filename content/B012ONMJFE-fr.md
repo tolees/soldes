@@ -27,10 +27,10 @@ Vous avez [Umbra 22003/C AHK Amovible Remorque](https://www.amazon.fr/dp/B012ONM
 
 ℹ️:
 
-- Type de remorque : pendentif amovibles kupplun g|ab participants : ja|
 - maximale de remorquage (kg) : 1800|stützlast (kg) : 75|d valeur (kN) : 9.7|
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Distance des pare-chocs : ja|sich tbarer pare-chocs découpe : ja|
+- Type de remorque : pendentif amovibles kupplun g|ab participants : ja|
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012ONMJFE/?tag=tolees0d-21)

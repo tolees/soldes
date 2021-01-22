@@ -27,8 +27,8 @@ C'est en vente [Darksiders - Genesis](https://www.amazon.fr/dp/B07SQFZX1Z/?tag=t
 
 ℹ️:
 
-- La guerre et les conflits se sont vu confier une nouvelle mission
 - La guerre et les conflits doivent traquer ces maîtres
+- La guerre et les conflits se sont vu confier une nouvelle mission
 - Lucifer a comploté pour accorder le pouvoir de maîtriser les démons à travers lenfer
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SQFZX1Z/?tag=tolees0d-21)
