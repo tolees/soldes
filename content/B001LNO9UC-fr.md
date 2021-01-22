@@ -27,10 +27,10 @@ C'est en vente [SKB 3SKB-R910U28 Etui rack renforcé 10U avec Trous carrés/Gran
 
 ℹ️:
 
-- Résistant à leau et aux chocs
-- Ouvertures à charnière combinée (brevet en instance)
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Comporte un système de conversion de profilés réglables (ARCS)
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Ouvertures à charnière combinée (brevet en instance)
+- Résistant à leau et aux chocs
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001LNO9UC/?tag=tolees0d-21)

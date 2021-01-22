@@ -27,10 +27,10 @@ Vous avez [SKB 3SKB-2825M Etui de protection Universel 705 x 654 x 457 mm Noir](
 
 ℹ️:
 
-- Résistant aux rayons UV, aux solvants, à la corrosion, à la moisissure et aux chocs
-- 3 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Absorbeurs de choc protecteurs intégrés
 - Pourtour "L" étanche à haute résistance pour une fermeture sûre
+- Résistant aux rayons UV, aux solvants, à la corrosion, à la moisissure et aux chocs
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 3 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000Z2MBLE/?tag=tolees0d-21)
