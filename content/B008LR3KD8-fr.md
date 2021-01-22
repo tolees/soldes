@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '39.29 % rabais sur Philips - HF3520/01 - Eveil Lumière avec'
-date: 2020-09-11 08:22:01
+title: '44.29 % rabais sur Philips - HF3520/01 - Eveil Lumière avec'
+date: 2021-01-22 22:03:59
 image: 'https://m.media-amazon.com/images/I/41x+qqVsngL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,23 +9,32 @@ author: ring
 slug: 'B008LR3KD8-fr Philips - HF3520/01 - Eveil Lumière avec Lampe LED -...'
 sku: 'B008LR3KD8-fr'
 tags: [  ]
-actualPrice: 84.99 EUR
+actualPrice: 77.99 EUR
 currency: EUR
-price: 84.99
+price: 77.99
 comparePrice: 139.99 EUR
 prodname: 'Philips - HF3520/01 - Eveil Lumière avec Lampe LED - Fonction Red Shift'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21'
-descuento: '39.29'
-average: '84.99'
+descuento: '44.29'
+average: '81.49'
 ---
 
-Vous avez [Philips - HF3520/01 - Eveil Lumière avec Lampe LED - Fonction Red Shift](https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21)  à  39.29 % de réduction, prix final  84.99 EUR (original: 139.99 EUR) ici:
+Vous avez [Philips - HF3520/01 - Eveil Lumière avec Lampe LED - Fonction Red Shift](https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21)  à  44.29 % de réduction, prix final  77.99 EUR (original: 139.99 EUR) ici:
 
 [![Philips - HF3520/01 - Eveil Lumière avec](https://m.media-amazon.com/images/I/41x+qqVsngL._SL200_.jpg)](https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21)
 
 ℹ️:
 
+- Simule le lever du soleil : Ajustable 20-40min.
+- Variateur d’intensité lumineuse : De 0 à 300 lux
+- Fonction Démo
+- Nombre dalarmes réglables : 2; Répétition de lalarme par tapotement pour le son : 9 minutes
+- Sons naturels et alarme douce : 5 + Radio FM numérique
+- Fonction Red Shift. Dimensions du produit: 19,2 (hauteur) x 19,9 (diamètre) x 14,6 (profondeur) cm
+- Type de lampe : LED + Ecran LCD : LCD Tactile
+- Fonction Snooze : Tactile + Mise en veille programmable
+- Simule le crépuscule - Fonction lampe de chevet
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008LR3KD8/?tag=tolees0d-21)
