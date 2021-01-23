@@ -28,9 +28,9 @@ Vous avez [WOLA SELVA Lunettes de soleil rondes en bois pour femme sans étui](h
 ℹ️:
 
 - Les lunettes en bois WOLA répondent à toutes les normes européennes pertinentes.
-- Cadre en bois et arceau en bois lamellé-collé/skateboard – Lentille en plastique
-- Shades en bois effet bois, tendance, naturel, véritable
 - Pour les lunettes de soleil en bois, nous utilisons des lentilles en TAC de 1,1 mm dépaisseur avec protection UV 400 et une transmission de la lumière de catégorie 3 (voir tableau ci-dessous). Certains modèles sont en miroir et nous attachons une grande importance à la qualité supérieure et nutilisons que des lentilles à miroir à revêtement 5 fois.
+- Shades en bois effet bois, tendance, naturel, véritable
+- Cadre en bois et arceau en bois lamellé-collé/skateboard – Lentille en plastique
 - Les lunettes de soleil en bois de skateboard sont polarisées et protègent jusquà UV400. Les lunettes en bois ont des verres teintés de catégorie 3
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08SR14GNP/?tag=tolees0d-21)

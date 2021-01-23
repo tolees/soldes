@@ -27,9 +27,9 @@ Vous avez [Enesco - Disney Traditions 4031487 Figurine la Belle et la Bête Bois
 
 ℹ️:
 
+- figurine disney
 - Objet décoratif à poser
 - cette pièce nest pas un jouet
-- figurine disney
 - chaque pièce est livrée en coffret cadeau avec une étiquette pour un message personnel
 - résine
 

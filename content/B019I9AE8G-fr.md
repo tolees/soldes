@@ -28,7 +28,7 @@ Vous avez [Canterbury Waimak Polo Homme Noir FR : M  Taille Fabricant : M ](http
 ℹ️:
 
 - Confort ultime : fabriqué à partir de coton mélangé, le polo WAIMAK fournit un confort durable et un look décontracté du matin au soir
-- Poignets et encolure côtelés
 - Évents latéraux pour des mouvements plus amples
+- Poignets et encolure côtelés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B019I9AE8G/?tag=tolees0d-21)

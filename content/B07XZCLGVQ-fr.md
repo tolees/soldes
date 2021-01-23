@@ -28,9 +28,9 @@ C'est en vente [Xiaomi MI Pump Mini Pompe à air Portable Adulte Unisexe  Noir  
 ℹ️:
 
 - Charge via USB
-- écran digital
-- légére et portable
-- multi-tâches
 - Charge complète de 41 ballons / 8 pneus de vélo
+- écran digital
+- multi-tâches
+- légére et portable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XZCLGVQ/?tag=tolees0d-21)

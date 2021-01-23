@@ -27,9 +27,9 @@ C'est en vente [Majorette - Farm Coffret - Voitures Miniatures en Métal - Coffr
 
 ℹ️:
 
-- 3 tracteurs et 1 camion de lait
-- Plusieurs accessoires : 2 remorques, animaux, faucheuse,
-- Coffret ferme comprenant 4 véhicules en métal
 - reproductions à léchelle 1/64ème des véhicules de la ferme
+- Coffret ferme comprenant 4 véhicules en métal
+- Plusieurs accessoires : 2 remorques, animaux, faucheuse,
+- 3 tracteurs et 1 camion de lait
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MTXQNZ3/?tag=tolees0d-21)

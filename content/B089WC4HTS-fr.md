@@ -27,9 +27,9 @@ Vous avez [Samsung Galaxy A51 5G 128Go Blanc + BON D ACHAT AMAZON - Smartphone P
 
 ℹ️:
 
+- PRÊT POUR LA 5G Un débit ultra rapide
 - QUADRUPLE CAPTEUR PHOTO Capteur principal 48 MP + Ultra Grand Angle
 - AUTONOMIE PROLONGÉE 4500 mAh Charge rapide
 - ÉCRAN INFINITY-O 6,5’’ Super AMOLED
-- PRÊT POUR LA 5G Un débit ultra rapide
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089WC4HTS/?tag=tolees0d-21)

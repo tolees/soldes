@@ -27,10 +27,10 @@ C'est en vente [Staedtler - Fimo Effect - Pain Pâte à  Modeler 57 g Effet Pai
 
 ℹ️:
 
-- Testé par des toxicologues indépendants, conforme à la norme CE
-- Conservation pendant 24 mois à température ambiante (entre 15°C et 28°C)
 - Pour des usages multiples : bijoux, accessoires et objets décoratifs pour la maison
 - Matériau extrêmement souple et spécialement conçu pour les débutants et artistes en loisirs créatifs
 - Pain de pâte à modeler FIMO Effect à effet spécial de 57 grammes, à cuire au four (110°C pendant 30min)
+- Testé par des toxicologues indépendants, conforme à la norme CE
+- Conservation pendant 24 mois à température ambiante (entre 15°C et 28°C)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000N6M9FU/?tag=tolees0d-21)

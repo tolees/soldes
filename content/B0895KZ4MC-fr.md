@@ -27,10 +27,10 @@ Vous avez [Roxy Ellie-Doudoune Longue imperméable pour Femme  Golden Rod  FR : 
 
 ℹ️:
 
+- Capuche : capuche fixe avec cordon de serrage; fausse fourrure amovible sur la capuche
 - Imperméabilité: technologie Roxy DryFlight 5K [5 000 mm/5 000 g]; matière: microfibre douce en polyester; Coupe: coupe ajustée
+- Isolation: isolation Roxy Warmflight Eco en imitation duvet (pouvoir gonflant 600)
 - Fermeture: fermeture avec zip ykk et bouton-pression; poches : 2 poches chauffe-mains; poignets réglables avec bouton-pression
 - Doublure: doublure en chambray sur le corps et en matière sherpa sur le col & la capuche; taffetas léger sur les manches
-- Capuche : capuche fixe avec cordon de serrage; fausse fourrure amovible sur la capuche
-- Isolation: isolation Roxy Warmflight Eco en imitation duvet (pouvoir gonflant 600)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0895KZ4MC/?tag=tolees0d-21)

@@ -27,10 +27,10 @@ C'est en vente [Lansay - Toy Story 4 - Buzz l Eclair Personnage Electronique Fig
 
 ℹ️:
 
-- Taille du personnage: 30 cm environ
+- Retrouve les aventures de Toy Story 4 avec cette figurine électronique buzz l’éclair.
 - Dès 4 ans. Contient: 1 figurine électronique buzz l’eclair
+- Taille du personnage: 30 cm environ
 - Fonctionne avec 2 piles LR06 incluses.
 - Super ! buzz prononce plus de 30 phrases ! appuie sur les boutons Ovales pour déclencher les effets de voix et les effets spéciaux ! la figurine est très détaillée avec de nombreux points darticulations pour encore plus d’effets !
-- Retrouve les aventures de Toy Story 4 avec cette figurine électronique buzz l’éclair.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q1YYC5W/?tag=tolees0d-21)
