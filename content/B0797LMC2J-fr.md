@@ -27,10 +27,10 @@ Vous avez [gb Gold Nacelle Cot to Go  Pour Poussette gb Qbit+ et Pockit+  Laguna
 
 ℹ️:
 
-- Contenu : 1 Nacelle Cot to Go, Matière de la housse : 100% Polyester, Dimensions (LxlxH) : 80 x 33 x 43,5 cm, Poids : 3 kg, Couleur : Laguna Blue
-- Nacelle ultra légère et compacte pour les nouveau-nés pesant jusquà env. 6 mois (env. 9 kg), Pour linstallation sur les poussettes gb Gold Pockit+ et Qbit+
 - Protection du vent et intempéries grâce au canopy extensible UPF50+ et Poignée de transport intégrée pour les déplacements facilités et une installation/désinstallation rapide sur les poussettes gb Gold
 - Pliable pour un rangement facile dans un sac ou une utilisation en bagage cabine, Nettoyage facile : Housse amovible et lavable en machine à 30°C, Accessoires en option : habillage pluie, ombrelle, porte-gobelet
 - Confort optimal pour les petits et les grands : Insertion facile et rapide de lenfant grâce à la fermeture éclair de chaque côté, Position à plat confortable avec soutien moelleux de la tête et la nuque
+- Nacelle ultra légère et compacte pour les nouveau-nés pesant jusquà env. 6 mois (env. 9 kg), Pour linstallation sur les poussettes gb Gold Pockit+ et Qbit+
+- Contenu : 1 Nacelle Cot to Go, Matière de la housse : 100% Polyester, Dimensions (LxlxH) : 80 x 33 x 43,5 cm, Poids : 3 kg, Couleur : Laguna Blue
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0797LMC2J/?tag=tolees0d-21)

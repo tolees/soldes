@@ -27,10 +27,10 @@ Vous avez [Potensic Drone Pliable Elfin avec Caméra 2K WiFi FPV Positionnement 
 
 ℹ️:
 
-- 【Trajectoire de vol】 Le drone de la caméra volera autour de vous, vous pouvez utiliser le retardateur multi-angle pour avoir des photos et des vidéos deffets cinématiques.
-- 【Drone pliable】 Conception de bras pliables, pratique à transporter à lextérieur. Un décollage ou un atterrissage clé, le maintien daltitude et le mode sans tête rendent le drone simple à utiliser.
 - 【Drone avec caméra FPV 2K】 Ce drone est équipé dune caméra HD 2K qui vous permet dobtenir des images et des vidéos haute définition. Transmission vidéo FPV en temps réel, vous pouvez enregistrer tout votre temps merveilleux avec votre famille et vos amis, profiter du temps réel, de beaux paysages et de la vidéo haute définition directement depuis votre mobile, enregistrer des vidéos pour des moments extraordinaires.
-- 【Contrôle gestuel et mode sans tête】 Les fonctions multiples, le mode sans tête et le selfie gestuel sont plus pratiques pour votre opération, adaptés aux débutants et aux amateurs de drones.
+- 【Trajectoire de vol】 Le drone de la caméra volera autour de vous, vous pouvez utiliser le retardateur multi-angle pour avoir des photos et des vidéos deffets cinématiques.
 - 【20 minutes de vol】 Deux batteries amovibles haute capacité, faciles à connecter et à installer, donnant au drone un maximum de 20 minutes (10 + 10 min).
+- 【Drone pliable】 Conception de bras pliables, pratique à transporter à lextérieur. Un décollage ou un atterrissage clé, le maintien daltitude et le mode sans tête rendent le drone simple à utiliser.
+- 【Contrôle gestuel et mode sans tête】 Les fonctions multiples, le mode sans tête et le selfie gestuel sont plus pratiques pour votre opération, adaptés aux débutants et aux amateurs de drones.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DKF8KCX/?tag=tolees0d-21)

@@ -27,10 +27,10 @@ Vous avez [Soleil d ocre Oasis Torchon  Coton  Noir  50 x 70 cm](https://www.ama
 
 ℹ️:
 
+- Torchon
+- Coton
+- Noir
 - Lavable en machine
 - Passe au sèche linge
-- Coton
-- Torchon
-- Noir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S48ZP8X/?tag=tolees0d-21)

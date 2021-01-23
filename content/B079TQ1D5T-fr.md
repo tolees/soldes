@@ -27,9 +27,9 @@ C'est en vente [THQ NORDIC - Pillars of Eternity 2: Deadfire xboxone](https://ww
 
 ℹ️:
 
-- Le DLC « Seeker, Slayer, Survivor »
-- Le DLC « The Forgotten Sanctum »
-- Inclut :
 - Le DLC « Beast of Winter
+- Le DLC « The Forgotten Sanctum »
+- Le DLC « Seeker, Slayer, Survivor »
+- Inclut :
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079TQ1D5T/?tag=tolees0d-21)

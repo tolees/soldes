@@ -27,11 +27,11 @@ C'est en vente [Timberland Adventure 2.0 Cupsole  Baskets Montantes Homme  Marro
 
 ℹ️:
 
-- Type de talons : plat
-- Doublure : textile
-- Semelle intérieure : synthétique
-- Matériau de semelle : caoutchouc
-- Dessus : cuir
 - Fermeture : lacets
+- Type de talons : plat
+- Semelle intérieure : synthétique
+- Doublure : textile
+- Dessus : cuir
+- Matériau de semelle : caoutchouc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MXWDVZW/?tag=tolees0d-21)
