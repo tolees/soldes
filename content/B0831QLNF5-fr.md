@@ -27,10 +27,10 @@ C'est en vente [Canadian Peak Parka Femme BOUDCHEAK Fuchsia 03](https://www.amaz
 
 ℹ️:
 
-- poche kangourou à l’avant
 - Deux poches zippées sur les côtés
-- Moitié fermeture à glissière
 - Capuche fixe
+- Moitié fermeture à glissière
+- poche kangourou à l’avant
 - Poignées réglables
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0831QLNF5/?tag=tolees0d-21)
