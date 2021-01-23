@@ -27,10 +27,10 @@ C'est en vente [Lacoste Chaymon BL 1 CMA  Baskets Hommes  Bleu  Navy/White   43 
 
 ℹ️:
 
-- Sport-inspired colour palette.
-- Leather and synthetic uppers.
-- Textile lining.
 - Rubber outsole.
+- Leather and synthetic uppers.
 - Metallic crocodile branding.
+- Textile lining.
+- Sport-inspired colour palette.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJ59MSB/?tag=tolees0d-21)
