@@ -27,10 +27,10 @@ Vous avez [Damartsport 33772 Coupe-Vent Femme  Gris Uni  FR  Taille Fabricant : 
 
 ℹ️:
 
-- imperméable
-- Entièrement doublé
-- coupe-vent
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Entièrement doublé
+- imperméable
+- coupe-vent
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BCQLFK8/?tag=tolees0d-21)

@@ -27,8 +27,8 @@ C'est en vente [Xiaomi Mi Router AX1800](https://www.amazon.fr/dp/B08MQ7JDZT/?ta
 
 ℹ️:
 
+- Signal 360° strong coverage
 - 1.2Ghz CPU
 - Cool Black Cube Design
-- Signal 360° strong coverage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08MQ7JDZT/?tag=tolees0d-21)
