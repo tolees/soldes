@@ -28,9 +28,9 @@ Vous avez [Nerf Fortnite motorisé AR-DURR Burger  chargeur et fléchettes Nerf 
 ℹ️:
 
 - NERF fortnite RL, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 8 ans, 9 ans, 10 ans et plus. Emballage recyclable facile à ouvrir: livré dans un emballage simple et recyclable, facile à ouvrir et sans tracas.
-- Inclus: un chargeur dune capacité de 10 fléchettes, 20 fléchettes NERF Elite officielles et 2 viseurs rabattables.
-- Blaster lance-fléchettes réplique du blaster de fortnite: ce NERF fortnite motorisé ar-durr burger est inspiré du blaster employé dans le jeu vidéo fortnite, recréant son design et ses couleurs.
-- Tir motorisé de 10 fléchettes: on peut lancer 10 fléchettes avec ce blaster motorisé doté dun bouton daccélération qui permet dalimenter le moteur. 4 piles AA requises, non incluses.
 - Autocollants de personnalisation: on peut ajouter une touche durrr burger à son blaster grâce aux autocollants inclus.
+- Inclus: un chargeur dune capacité de 10 fléchettes, 20 fléchettes NERF Elite officielles et 2 viseurs rabattables.
+- Tir motorisé de 10 fléchettes: on peut lancer 10 fléchettes avec ce blaster motorisé doté dun bouton daccélération qui permet dalimenter le moteur. 4 piles AA requises, non incluses.
+- Blaster lance-fléchettes réplique du blaster de fortnite: ce NERF fortnite motorisé ar-durr burger est inspiré du blaster employé dans le jeu vidéo fortnite, recréant son design et ses couleurs.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ST22F2L/?tag=tolees0d-21)

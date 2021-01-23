@@ -27,10 +27,10 @@ Vous avez [Kingston Technology - Kingston Canvas Select Plus Carte MIcro SD SDCS
 
 ℹ️:
 
-- Température de stockage: -40 °C~85 °C
-- Capacités jusquà 512Go
 - Optimisée pour les dispositifs Android
+- Température de stockage: -40 °C~85 °C
 - Débits UHS-I Classe 10 jusqu’à 100Mo/s*
 - Durable
+- Capacités jusquà 512Go
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YGZQ4H8/?tag=tolees0d-21)

@@ -27,8 +27,8 @@ C'est en vente [THQ NORDIC - Desperados 3](https://www.amazon.fr/dp/B07GQ89JKC/?
 
 ℹ️:
 
+- Αprocédez à chaque mission avec une variété de solutions et de chemins différents
 - Commandez jusquà cinq desperados et utilisez leurs compétences mortelles pour éclaircir discrètement les rangées ennemies
 - Résolvez les grandes configurations ennemies apparemment impossibles avec une planification minutieuse et une exécution parfaitement synchronisée des compétences spéciales de léquipe
-- Αprocédez à chaque mission avec une variété de solutions et de chemins différents
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GQ89JKC/?tag=tolees0d-21)

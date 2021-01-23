@@ -28,7 +28,7 @@ Vous avez [Bloc multiprise encastrable compact - 3 prises 16A 2P+T et 2x USB - O
 ℹ️:
 
 - Intégration harmonieuse sur un plan de travail ou un bureau
-- Coulissage vertical permettant de l?escamoter partiellement ou totalement, selon le besoin et le nombre de prises branchées
 - Alimente tous vos appareils électriques de cuisine ou de bureau
+- Coulissage vertical permettant de l?escamoter partiellement ou totalement, selon le besoin et le nombre de prises branchées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01ARYX190/?tag=tolees0d-21)

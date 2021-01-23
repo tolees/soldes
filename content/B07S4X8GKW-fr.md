@@ -27,11 +27,11 @@ Vous avez [Levi s 511 Jean Slim  Biologia ADV  33W / 34L Homme](https://www.amaz
 
 ℹ️:
 
-- Modèle stretch confortable
 - Braguette zippée
-- Laver et sécher à l’envers avec des couleurs similaires
-- 99 % coton, 1 % élasthanne
 - Modèle à cenq poches
+- Laver et sécher à l’envers avec des couleurs similaires
 - Lessive liquide recommandée
+- 99 % coton, 1 % élasthanne
+- Modèle stretch confortable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S4X8GKW/?tag=tolees0d-21)
