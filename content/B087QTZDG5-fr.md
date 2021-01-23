@@ -27,10 +27,10 @@ C'est en vente [Microsoft Ergonomic Desktop - Ensemble clavier et souris Filaire
 
 ℹ️:
 
+- Clavier disposant d’une touche de raccourci Office / Microsoft 365 pour accéder directement à vos documents, ainsi qu’une touche de raccourci emoji pour insérer plus facilement un emoji dans vos messages
 - Souris ergonomique avec repose-pouce intégré, et deux boutons latéraux personnalisables
+- Clavier ergonomique avec disposition des touches en dôme et repose poignets intégré pour un confort de frappe optimal et une position naturelle des mains
 - Clavier disposant d’un pavé numérique intégré Branchez directement le clavier et la souris à votre ordinateur, sans installer de logiciel
 - Ensemble clavier AZERTY (clavier français) et souris filaire ergonomique
-- Clavier disposant d’une touche de raccourci Office / Microsoft 365 pour accéder directement à vos documents, ainsi qu’une touche de raccourci emoji pour insérer plus facilement un emoji dans vos messages
-- Clavier ergonomique avec disposition des touches en dôme et repose poignets intégré pour un confort de frappe optimal et une position naturelle des mains
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087QTZDG5/?tag=tolees0d-21)

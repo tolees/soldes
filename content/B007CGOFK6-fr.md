@@ -27,9 +27,9 @@ Vous avez [golamps GL547](https://www.amazon.fr/dp/B007CGOFK6/?tag=tolees0d-21) 
 
 ℹ️:
 
-- <b>Durée de vie de la lampe</b>: 3500 h
 - <b>Type de lampe</b>: UHP
 - <b>Description du produit</b>: golamps GL547
+- <b>Durée de vie de la lampe</b>: 3500 h
 - <b>Puissance de la lampe</b>: 185 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B007CGOFK6/?tag=tolees0d-21)

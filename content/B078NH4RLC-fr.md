@@ -27,7 +27,7 @@ Vous avez [Merrell Thermo Chill Mid Shell WP  Bottes de Neige Homme  Noir  Black
 
 ℹ️:
 
-- Shoe Style: Mid Top
 - Material - Upper: Leather
+- Shoe Style: Mid Top
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078NH4RLC/?tag=tolees0d-21)

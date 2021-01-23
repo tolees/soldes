@@ -27,10 +27,10 @@ C'est en vente [SATECHI Adaptateur Multiport en Aluminium V2-4K HDMI  30Hz   Eth
 
 ℹ️:
 
-- PLUG & PLAY - facile à utiliser et ne nécessite aucun logiciel, pilote ou processus dinstallation compliqué.
+- MODÈLE V2 - votre adaptateur Satechi Aluminum Multi-Port Adaptateur favori vient dêtre encore amélioré avec une fente pour carte Micro SD et un design raffiné en aluminium.
 - CONÇUS POUR LES APPAREILS DE TYPE-C - prend en charge les MacBook Pro 2016/2017/2018, MacBook 2015/2016/2017 MacBook, ChromeBook (uniquement les modèles avec DisplayPort over USB-C avec mode Alt), Samsung Galaxy Tab Pro S, HP Spectre Convertible (13-AC0XX), Razer Blade, Huawei Matebook et dautres ordinateurs portables USB-C avec le protocole Power Delivery.
 - PORTS DEXTENSION - comprend 4K HDMI, Ethernet, chargeur USB-C, lecteur de carte SD/Micro et 3 ports USB 3.1.
 - FIN & COMPACT - Se glisse facilement dans votre sac à dos ou pochette dordinateur afin demporter votre adaptateur partout où vous allez!
-- MODÈLE V2 - votre adaptateur Satechi Aluminum Multi-Port Adaptateur favori vient dêtre encore amélioré avec une fente pour carte Micro SD et un design raffiné en aluminium.
+- PLUG & PLAY - facile à utiliser et ne nécessite aucun logiciel, pilote ou processus dinstallation compliqué.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075FW7H5J/?tag=tolees0d-21)
