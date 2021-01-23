@@ -1,34 +1,36 @@
 ---
 layout: post
-title: 'Harry Potter - l Intégrale des 8 Films - avec 50.16 % rabais '
-date: 2021-01-19 07:50:26
+title: 'Generique - Harry Potter - l Intégrale d avec 50.19 % rabais '
+date: 2021-01-23 14:44:32
 image: 'https://m.media-amazon.com/images/I/51IDtBm4yhL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00K3OM3PS-fr'
-actualPrice: 20.0 EUR
+slug: 'B00K3OM3PS-fr Generique - Harry Potter - l Intégrale des 8 Films - Le...'
+sku: 'B00K3OM3PS-fr'
+tags: [  ]
+actualPrice: 19.99 EUR
 currency: EUR
-price: 20.0
+price: 19.99
 comparePrice: 40.13 EUR
-prodname: 'Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers de J.K. Rowling - Coffret Blu-Ray'
+prodname: 'Generique - Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers de J.K. Rowling - Coffret Blu-Ray'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21'
-descuento: '50.16'
-average: '29.511839080459772'
+descuento: '50.19'
+average: '29.4036363636364'
 ---
 
-C'est en vente [Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers de J.K. Rowling - Coffret Blu-Ray](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)  à  50.16 % de réduction, prix final  20.0 EUR (original: 40.13 EUR) ici:
+C'est en vente [Generique - Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers de J.K. Rowling - Coffret Blu-Ray](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)  à  50.19 % de réduction, prix final  19.99 EUR (original: 40.13 EUR) ici:
 
-[![Harry Potter - l Intégrale des 8 Films -](https://m.media-amazon.com/images/I/51IDtBm4yhL._SL200_.jpg)](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)
+[![Generique - Harry Potter - l Intégrale d](https://m.media-amazon.com/images/I/51IDtBm4yhL._SL200_.jpg)](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)
 
 ℹ️:
 
-- Disques Bluray
-- année 2 à 5 : English, French, French from Quebec, Castilian, Catalan, Danish, Dutch, Flemish, German, Italian, Spanish, Swedish
-- année 6 : Flemish, Slovak, Catalan, English, Portuguese from Brasilia, Dutch, French, German, Italian, Castilian
 - année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
 - année 7 : English, French, Italian, German,Flemish, Dutch
+- année 6 : Flemish, Slovak, Catalan, English, Portuguese from Brasilia, Dutch, French, German, Italian, Castilian
+- année 2 à 5 : English, French, French from Quebec, Castilian, Catalan, Danish, Dutch, Flemish, German, Italian, Spanish, Swedish
+- Disques Bluray
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)

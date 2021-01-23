@@ -1,34 +1,36 @@
 ---
 layout: post
-title: 'Crucial BX500 240Go CT240BX500SSD1 SSD I avec 23.69 % rabais '
-date: 2021-01-19 08:07:26
+title: 'Crucial BX500 240Go CT240BX500SSD1 SSD I avec 24.27 % rabais '
+date: 2021-01-23 15:39:38
 image: 'https://m.media-amazon.com/images/I/41KpCpRgSXL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07G3YNLJB-fr'
-actualPrice: 30.21 EUR
+slug: 'B07G3YNLJB-fr Crucial BX500 240Go CT240BX500SSD1 SSD Interne-jusqu’à 540...'
+sku: 'B07G3YNLJB-fr'
+tags: [  ]
+actualPrice: 29.98 EUR
 currency: EUR
-price: 30.21
+price: 29.98
 comparePrice: 39.59 EUR
 prodname: 'Crucial BX500 240Go CT240BX500SSD1 SSD Interne-jusqu’à 540 MB/s  3D NAND  SATA  2 5 pouces '
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07G3YNLJB/?tag=tolees0d-21'
-descuento: '23.69'
-average: '31.847865612648224'
+descuento: '24.27'
+average: '31.8405118110236'
 ---
 
-C'est en vente [Crucial BX500 240Go CT240BX500SSD1 SSD Interne-jusqu’à 540 MB/s  3D NAND  SATA  2 5 pouces ](https://www.amazon.fr/dp/B07G3YNLJB/?tag=tolees0d-21)  à  23.69 % de réduction, prix final  30.21 EUR (original: 39.59 EUR) ici:
+C'est en vente [Crucial BX500 240Go CT240BX500SSD1 SSD Interne-jusqu’à 540 MB/s  3D NAND  SATA  2 5 pouces ](https://www.amazon.fr/dp/B07G3YNLJB/?tag=tolees0d-21)  à  24.27 % de réduction, prix final  29.98 EUR (original: 39.59 EUR) ici:
 
 [![Crucial BX500 240Go CT240BX500SSD1 SSD I](https://m.media-amazon.com/images/I/41KpCpRgSXL._SL200_.jpg)](https://www.amazon.fr/dp/B07G3YNLJB/?tag=tolees0d-21)
 
 ℹ️:
 
-- 3D NAND Micron – 40 ans d’innovation en matière de mémoire et de stockage
 - Améliore l’autonomie de la batterie grâce à une efficacité énergétique 45 fois supérieure à celle d’un disque dur classique
-- Vitesse de lecture/décriture séquentielle pouvant atteindre 540/500 Mo/s pour tout type de fichier
 - 300% plus rapide qu’un disque dur classique
+- Vitesse de lecture/décriture séquentielle pouvant atteindre 540/500 Mo/s pour tout type de fichier
+- 3D NAND Micron – 40 ans d’innovation en matière de mémoire et de stockage
 - Démarrage plus rapide. Temps de chargement des fichiers plus court. Meilleure réactivité globale de l’ordinateur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3YNLJB/?tag=tolees0d-21)
