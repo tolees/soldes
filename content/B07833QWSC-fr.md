@@ -29,7 +29,7 @@ C'est en vente [Jacob Delafon E72330-CP ALEO+ Mitigeur Bain-Douche 3 Trous sur G
 
 - Cartouche à disque céramique, excellente durabilité
 - Douchette à main Shift Ellipse, 2 jets (débit limité à 10 l/mn) - poignée en élastomère pour une bonne prise en main
-- Inverseur automatique intégré
 - Douchette sur coude orientable pour plus de confort
+- Inverseur automatique intégré
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07833QWSC/?tag=tolees0d-21)

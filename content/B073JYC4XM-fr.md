@@ -27,12 +27,12 @@ Vous avez [SanDisk Carte Mémoire MicroSDHC Ultra 128 Go + Adaptateur SD  Vitess
 
 ℹ️:
 
-- Capacité jusquà 512 Go *
-- Jusquà 100 Mo / s ** Vitesse de transfert
-- Idéal pour les smartphones et les tablettes Android
-- Ce produit respecte les normes de compatibilité de Google. Chromebook et le badge "Works With Chromebook" sont des marques de Google LLC.
-- UHS Speed Class U1 et Speed Class 10 pour lenregistrement / la lecture vidéo Full HD
-- Chargez les applications plus rapidement avec une classe de performance A1
 - Température de fonctionnement: -13ºF - 185ºF (-25ºC to 85ºC)
+- Idéal pour les smartphones et les tablettes Android
+- Jusquà 100 Mo / s ** Vitesse de transfert
+- Chargez les applications plus rapidement avec une classe de performance A1
+- UHS Speed Class U1 et Speed Class 10 pour lenregistrement / la lecture vidéo Full HD
+- Capacité jusquà 512 Go *
+- Ce produit respecte les normes de compatibilité de Google. Chromebook et le badge "Works With Chromebook" sont des marques de Google LLC.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073JYC4XM/?tag=tolees0d-21)
