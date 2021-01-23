@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '23.08 % rabais sur Sylvanian Families - Le Village - Le Tri'
-date: 2021-01-19 07:40:44
+date: 2021-01-23 19:06:33
 image: 'https://m.media-amazon.com/images/I/51CKL3erdKL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00HRRD90M-fr'
+slug: 'B00HRRD90M-fr Sylvanian Families - Le Village - Le Tricycle et Mini...'
+sku: 'B00HRRD90M-fr'
+tags: [  ]
 actualPrice: 17.3 EUR
 currency: EUR
 price: 17.3
@@ -16,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00HRRD90M/?tag=tolees0d-21'
 descuento: '23.08'
-average: '19.187021276595754'
+average: '19.1477083333334'
 ---
 
 Vous avez [Sylvanian Families - Le Village - Le Tricycle et Mini Voiture Bébés - 5040 - Figrunies Prêt à Jouer - Mini Poupées](https://www.amazon.fr/dp/B00HRRD90M/?tag=tolees0d-21)  à  23.08 % de réduction, prix final  17.3 EUR (original: 22.49 EUR) ici:
@@ -25,11 +27,11 @@ Vous avez [Sylvanian Families - Le Village - Le Tricycle et Mini Voiture Bébés
 
 ℹ️:
 
-- 1 mini voiture
-- Ce set vient enrichir la collection Sylvanian pour encore plus de divertissement.
 - 1 petit arrosoir
-- 1 pelle
-- Il comprend 3 figurines : maman, bébé lapin crème et bébé écureuil roux
 - 1 tricycle
+- 1 pelle
+- Ce set vient enrichir la collection Sylvanian pour encore plus de divertissement.
+- 1 mini voiture
+- Il comprend 3 figurines : maman, bébé lapin crème et bébé écureuil roux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HRRD90M/?tag=tolees0d-21)

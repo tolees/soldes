@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '66.12 % rabais sur Bloc multiprise encastrable compact - 3 '
-date: 2021-01-22 18:31:15
+date: 2021-01-23 19:27:20
 image: 'https://m.media-amazon.com/images/I/31192xh3hCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Vous avez [Bloc multiprise encastrable compact - 3 prises 16A 2P+T et 2x USB - O
 ℹ️:
 
 - Intégration harmonieuse sur un plan de travail ou un bureau
-- Alimente tous vos appareils électriques de cuisine ou de bureau
 - Coulissage vertical permettant de l?escamoter partiellement ou totalement, selon le besoin et le nombre de prises branchées
+- Alimente tous vos appareils électriques de cuisine ou de bureau
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01ARYX190/?tag=tolees0d-21)

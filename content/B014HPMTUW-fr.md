@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '31.02 % rabais sur Levi s 712 Jean Slim  Black Sheep  30W/3'
-date: 2021-01-19 07:39:51
+date: 2021-01-23 19:06:28
 image: 'https://m.media-amazon.com/images/I/318g+pTK0cL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B014HPMTUW-fr'
+slug: 'B014HPMTUW-fr Levi s 712 Jean Slim Black Sheep 30W/30L Femme'
+sku: 'B014HPMTUW-fr'
+tags: [  ]
 actualPrice: 68.98 EUR
 currency: EUR
 price: 68.98
@@ -25,8 +27,8 @@ Vous avez [Levi s 712 Jean Slim  Black Sheep  30W/30L Femme](https://www.amazon.
 
 ℹ️:
 
-- Le jean ultime pour votre look fantastique flatte votre silhouette, sadapte parfaitement et souligne les bons endroits
 - Un jean avec une coupe étroite et un chic intemporel
 - Sadapte à votre silhouette sans serrer
+- Le jean ultime pour votre look fantastique flatte votre silhouette, sadapte parfaitement et souligne les bons endroits
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014HPMTUW/?tag=tolees0d-21)

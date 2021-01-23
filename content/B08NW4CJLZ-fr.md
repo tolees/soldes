@@ -28,9 +28,9 @@ Vous avez [TOPYIYI - Guirlande Lumineuse  [Lot de2] 12M 120 Guirlande LED USB IP
 ℹ️:
 
 - ★【Sûre et Imperméable IP65】Pas de surchauffe, sans danger pour les enfants et les animaux domestiques. Les parties filaires des guirlandes sont complètement scellées, ce qui les rend immergeables. Idéal pour la décoration intérieure et extérieure.
-- ★【Bendable & Flexible】 Les lumières de luciole décoratives de fil de cuivre est assez souple donc on peut installer facilement cette guirlande, peut être facilement bouclée dans toutes les formes. Une jolie luminosité ne faisant pas mal aux yeux !
-- ★【Avec Télécommande Guirlande lumineuse LED】 Vous pouvez facilement utiliser la télécommande pour allumer/éteindre les lumières, Télécommande à 21 touches sajuste luminosité, vitesse et modes ,régler la minuterie. 11 options de modes déclairage, créent des couleurs dynamiques et une ambiance magnifique.
 - ★【Idéal Pour Tous】 12M 120 LED USB guirlande lumineuse idéal pour Noël, fête, mariage, Nouvel An, Saint-Valentin, anniversaire etc. Décorer la chambre, table, jardin, balcon, terrasse, photo murale, vase etc.Garantie de remboursement de 30 jours, garantie sans souci dun an.
 - ★【2 Pack 12M 120 LED Guirlande Lumineuse】 Chaque guirlande décorative est munie dun fil de cuivre moulable de 12M / 39 pieds et de 120 mini-LED rougeoyantes, est une lumière blanche chaudece permet de créer des ambiances très agréable.
+- ★【Bendable & Flexible】 Les lumières de luciole décoratives de fil de cuivre est assez souple donc on peut installer facilement cette guirlande, peut être facilement bouclée dans toutes les formes. Une jolie luminosité ne faisant pas mal aux yeux !
+- ★【Avec Télécommande Guirlande lumineuse LED】 Vous pouvez facilement utiliser la télécommande pour allumer/éteindre les lumières, Télécommande à 21 touches sajuste luminosité, vitesse et modes ,régler la minuterie. 11 options de modes déclairage, créent des couleurs dynamiques et une ambiance magnifique.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08NW4CJLZ/?tag=tolees0d-21)

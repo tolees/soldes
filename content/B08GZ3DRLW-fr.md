@@ -1,27 +1,29 @@
 ---
 layout: post
-title: 'GAME WATCH SM BROS SYSTEM avec 18.02 % rabais '
-date: 2021-01-19 08:03:57
+title: 'Nintendo - GAME WATCH SM BROS SYSTEM avec 18.02 % rabais '
+date: 2021-01-23 19:07:59
 image: 'https://m.media-amazon.com/images/I/41A88oIeaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GZ3DRLW-fr'
+slug: 'B08GZ3DRLW-fr Nintendo - GAME WATCH SM BROS SYSTEM'
+sku: 'B08GZ3DRLW-fr'
+tags: [  ]
 actualPrice: 49.18 EUR
 currency: EUR
 price: 49.18
 comparePrice: 59.99 EUR
-prodname: 'GAME WATCH SM BROS SYSTEM'
+prodname: 'Nintendo - GAME WATCH SM BROS SYSTEM'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21'
 descuento: '18.02'
-average: '48.264366197183094'
+average: '48.2770833333333'
 ---
 
-C'est en vente [GAME WATCH SM BROS SYSTEM](https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21)  à  18.02 % de réduction, prix final  49.18 EUR (original: 59.99 EUR) ici:
+C'est en vente [Nintendo - GAME WATCH SM BROS SYSTEM](https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21)  à  18.02 % de réduction, prix final  49.18 EUR (original: 59.99 EUR) ici:
 
-[![GAME WATCH SM BROS SYSTEM](https://m.media-amazon.com/images/I/41A88oIeaqL._SL200_.jpg)](https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21)
+[![Nintendo - GAME WATCH SM BROS SYSTEM](https://m.media-amazon.com/images/I/41A88oIeaqL._SL200_.jpg)](https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21)
 
 ℹ️:
 
