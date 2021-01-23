@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'The Walking Dead-L intégrale des Saisons avec 47.98 % rabais '
-date: 2021-01-20 06:05:27
+date: 2021-01-23 07:14:35
 image: 'https://m.media-amazon.com/images/I/51B0-qn5h9L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07T7HSQT9-fr The Walking Dead-L intégrale des Saisons 1 à 9'
+sku: 'B07T7HSQT9-fr'
 tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR
@@ -26,5 +27,6 @@ C'est en vente [The Walking Dead-L intégrale des Saisons 1 à 9](https://www.am
 
 ℹ️:
 
+- The disk has English audio.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07T7HSQT9/?tag=tolees0d-21)
