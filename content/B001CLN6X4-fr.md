@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '37.13 % rabais sur Eurofarm 37117 Palan manuel capacité 4 t'
-date: 2021-01-16 13:27:27
+date: 2021-01-23 10:43:20
 image: 'https://m.media-amazon.com/images/I/31rrywWvymL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001CLN6X4-fr'
+slug: 'B001CLN6X4-fr Eurofarm 37117 Palan manuel capacité 4 tonnes diamètre 6...'
+sku: 'B001CLN6X4-fr'
+tags: [  ]
 actualPrice: 41.49 EUR
 currency: EUR
 price: 41.49
@@ -16,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B001CLN6X4/?tag=tolees0d-21'
 descuento: '37.13'
-average: '42.97571428571429'
+average: '42.6455555555556'
 ---
 
 Vous avez [Eurofarm 37117 Palan manuel capacité 4 tonnes  diamètre 6 mm 3 m](https://www.amazon.fr/dp/B001CLN6X4/?tag=tolees0d-21)  à  37.13 % de réduction, prix final  41.49 EUR (original: 65.99 EUR) ici:

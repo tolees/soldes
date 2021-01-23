@@ -27,10 +27,10 @@ Vous avez [EZVIZ Caméra Surveillance WiFi Extérieure Full HD 1080P Caméra Ext
 
 ℹ️:
 
-- 【Full HD 1080P & VISION NOCTURNE IR 30M】- EZVIZ caméra exterieure a utilisé la puce coûteuse qui offre une stabilité et une clarté dimage optimales, vous donnant un sens clair et réel du flux vivant. Grâce à lintégration de LED IR efficaces, dun panneau anti-éblouissant et dun filtre ICR infrarouge, la caméra Wi-Fi permet une vision nocturne jusquà 30m de distance.
-- 【ALARME SIRÈNE + FLASH】- EZVIZ caméra IP surveille les zones importantes de votre maison 24h / 24 et 7j / 7. Lorsquun mouvement est détecté, lenregistrement commence automatiquement et une notification est envoyée directement et la caméra de surveillance wifi active une sirène puissante jusquà 100 dB et émet un flash lumineux pour effrayer les intrus. Vous pouvez décider dactiver et de désactiver manuellement le système dalarme.
-- 【IP66 ANTI-POUSSIÈRE et ÉTANCHE】- Degré étanche certifié IP66 - une haute résistance à la pénétration de l’eau et des poussières, la caméra en alliage d’aluminium s’adapte à l’extérieure et à l’intérieur.
-- 【AUDIO BIDIRECTIONNELLE DE QUALITÉ Hi-Fi 】- Livré avec un microphone intégré et un haut-parleur de qualité HiFi pour une conversation bidirectionnelle améliorée jusquà 5 mètres.
 - 【STOCKAGE FLEXIBLE】- Vous pouvez sauvegarder les enregistrements sur la plate-forme cloud et lenregistreur NVR. Une carte Micro SD jusquà 128Go supporté aussi (carte non inclus).
+- 【AUDIO BIDIRECTIONNELLE DE QUALITÉ Hi-Fi 】- Livré avec un microphone intégré et un haut-parleur de qualité HiFi pour une conversation bidirectionnelle améliorée jusquà 5 mètres.
+- 【ALARME SIRÈNE + FLASH】- EZVIZ caméra IP surveille les zones importantes de votre maison 24h / 24 et 7j / 7. Lorsquun mouvement est détecté, lenregistrement commence automatiquement et une notification est envoyée directement et la caméra de surveillance wifi active une sirène puissante jusquà 100 dB et émet un flash lumineux pour effrayer les intrus. Vous pouvez décider dactiver et de désactiver manuellement le système dalarme.
+- 【Full HD 1080P & VISION NOCTURNE IR 30M】- EZVIZ caméra exterieure a utilisé la puce coûteuse qui offre une stabilité et une clarté dimage optimales, vous donnant un sens clair et réel du flux vivant. Grâce à lintégration de LED IR efficaces, dun panneau anti-éblouissant et dun filtre ICR infrarouge, la caméra Wi-Fi permet une vision nocturne jusquà 30m de distance.
+- 【IP66 ANTI-POUSSIÈRE et ÉTANCHE】- Degré étanche certifié IP66 - une haute résistance à la pénétration de l’eau et des poussières, la caméra en alliage d’aluminium s’adapte à l’extérieure et à l’intérieur.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KLS61D4/?tag=tolees0d-21)

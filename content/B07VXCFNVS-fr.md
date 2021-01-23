@@ -27,9 +27,9 @@ C'est en vente [Kingston Technology Technology  SA2000M8/500G  A2000 SSD NVMe PC
 
 ℹ️:
 
-- Les performances NVMe PCIe pour une fraction du coût
-- Mettez votre PC à niveau avec des capacités allant jusquà 1To
-- Idéal pour les Ultrabooks et les PC à petit facteur de forme (SFF)
 - Supporte une suite de sécurité intégrale (TCG Opal, XTS-AES 256 bits, eDrive)
+- Mettez votre PC à niveau avec des capacités allant jusquà 1To
+- Les performances NVMe PCIe pour une fraction du coût
+- Idéal pour les Ultrabooks et les PC à petit facteur de forme (SFF)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VXCFNVS/?tag=tolees0d-21)
