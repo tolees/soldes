@@ -27,8 +27,8 @@ C'est en vente [THQ NORDIC - DCL - Drone Championship League](https://www.amazon
 
 ℹ️:
 
-- DCL The Game reproduit fidèlement les mouvements de vrais drones
 - 27 circuits différents
 - Classement en ligne : Un classement en ligne est établi pour chaque plateforme
+- DCL The Game reproduit fidèlement les mouvements de vrais drones
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XDCGLJY/?tag=tolees0d-21)
