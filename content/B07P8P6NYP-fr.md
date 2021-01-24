@@ -27,10 +27,10 @@ Vous avez [Playmobil - Grand Château des Chevaliers Novelmore - 70220](https://
 
 ℹ️:
 
-- Qui remportera la bataille ?
+- Convient aux enfants à partir de 5 ans.
 - Le coffret comprend les quatre personnages Novelmore, le château et de nombreux accessoires. Dimensions :79 x 57 x 44 cm (LxPxH)
 - Rejoins les aventures des courageux chevaliers !
-- Convient aux enfants à partir de 5 ans.
 - Après des décennies de paix dans le royaume de Novelmore, le conflit reprend entre les chevaliers et les rebelles !
+- Qui remportera la bataille ?
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P8P6NYP/?tag=tolees0d-21)

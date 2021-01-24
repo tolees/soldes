@@ -27,10 +27,10 @@ Vous avez [Miss Vanderbilt Coffret parfum](https://www.amazon.fr/dp/B07YGL6P2D/?
 
 ℹ️:
 
-- Un parfum aux notes élégantes et modernes, qui effleure la peau telle une caresse et réveille sur son passage léclat dune féminité authentique et sensuelle
-- Contenu : 1x Coffret Miss Vanderbilt, Eau de toilette 30 ml, Spray déodorant 150 ml, Vaporisateur de sac 15 ml
 - Appliquer le parfum dans le creux des poignets, derrière les oreilles et la nuque, Pulvériser sur les vêtements ou les cheveux pour un sillage délicat
-- Fragrance rayonnante se dévoilant sur lélégance dun accord Mandarine, et sépanouissant dans la délicatesse dun coeur floral solaire, adouci dun soupçon de Santal
+- Un parfum aux notes élégantes et modernes, qui effleure la peau telle une caresse et réveille sur son passage léclat dune féminité authentique et sensuelle
 - Coffret composé dune eau de toilette, dun spray déodorant et dun vaporisateur de sac
+- Contenu : 1x Coffret Miss Vanderbilt, Eau de toilette 30 ml, Spray déodorant 150 ml, Vaporisateur de sac 15 ml
+- Fragrance rayonnante se dévoilant sur lélégance dun accord Mandarine, et sépanouissant dans la délicatesse dun coeur floral solaire, adouci dun soupçon de Santal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YGL6P2D/?tag=tolees0d-21)

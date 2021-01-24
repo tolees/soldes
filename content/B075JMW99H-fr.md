@@ -29,8 +29,8 @@ C'est en vente [Vertbaudet Parure Housse de Couette + taie d oreiller Enfant PIN
 
 - Une face entièrement imprimée motifs gouttes multicolores
 - Une face entièrement imprimée motifs gouttes multicolores
-- Avec rabat de pied pour bien border
 - Une face grand motif placé avec camions de pompiers, chiens et mots « au feu », « pin pon » et « mon camion » sur fond carreaux bleus lignés blanc
 - Une face motifs placé camion de pompier sur fond carreaux bleu lignés blanc
+- Avec rabat de pied pour bien border
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075JMW99H/?tag=tolees0d-21)

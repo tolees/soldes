@@ -27,10 +27,10 @@ Vous avez [Funko Pop! Disney: Frozen 2 - Mattias](https://www.amazon.fr/dp/B07QS
 
 ℹ️:
 
-- Matthias
-- Disney Frozen 2
-- Les Funko Pop! Sont le jeux de lannée 2018
 - Découvrez tous les autres produits Funko dédiés à lunivers Frozen 2! Collectionnez-les tous!
 - Issue de la gamme Frozen 2, la figurine POP! 11 rejoint la collection Funko Pop!
+- Les Funko Pop! Sont le jeux de lannée 2018
+- Disney Frozen 2
+- Matthias
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07QSBWS6V/?tag=tolees0d-21)
