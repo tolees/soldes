@@ -27,10 +27,10 @@ C'est en vente [Terminal de paiement SumUp 3G + WiFi : acceptez les paiements pa
 
 ℹ️:
 
-- UN APPAREIL, DE MULTIPLES FONCTIONNALITÉS - Consultez votre historique des ventes, remboursez un client, faites le suivi de vos pourboires et utilisez plusieurs comptes employés directement depuis votre terminal de paiement.
+- FLEXIBLE - Laissez vos clients choisir leur mode de paiement : sans contact, validation par code PIN, Google Pay et Apple Pay.
+- INSCRIPTION RAPIDE - Lancez-vous en quelques minutes. Inscription 100 % en ligne. Aucun document administratif.
 - ENCAISSEMENT - Acceptez les paiements en magasin et en déplacement grâce à un seul appareil autonome.
 - CONNEXION - Connectez-vous grâce à la carte SIM intégrée gratuite offrant des données 3G illimitées ou utilisez le WiFi.
-- INSCRIPTION RAPIDE - Lancez-vous en quelques minutes. Inscription 100 % en ligne. Aucun document administratif.
-- FLEXIBLE - Laissez vos clients choisir leur mode de paiement : sans contact, validation par code PIN, Google Pay et Apple Pay.
+- UN APPAREIL, DE MULTIPLES FONCTIONNALITÉS - Consultez votre historique des ventes, remboursez un client, faites le suivi de vos pourboires et utilisez plusieurs comptes employés directement depuis votre terminal de paiement.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CNM35C1/?tag=tolees0d-21)

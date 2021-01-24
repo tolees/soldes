@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'AZZARO Remake  Derbys Hommes  Marron  Co avec 54.29 % rabais '
-date: 2021-01-17 11:51:33
+date: 2021-01-24 12:44:37
 image: 'https://m.media-amazon.com/images/I/31y46ZIf8jL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07BQ41JFM-fr'
+slug: 'B07BQ41JFM-fr AZZARO Remake Derbys Hommes Marron Cognac 47 42 EU'
+sku: 'B07BQ41JFM-fr'
+tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0
@@ -25,10 +27,10 @@ C'est en vente [AZZARO Remake  Derbys Hommes  Marron  Cognac 47   42 EU](https:/
 
 ℹ️:
 
-- Homme
-- Ces Chaussures à lacets en Cuir se composent dune tige en Cuir et dune hauteur de talon de 2 cm
 - Cuir
-- AH 2019-2020
+- Homme
 - AZZARO
+- AH 2019-2020
+- Ces Chaussures à lacets en Cuir se composent dune tige en Cuir et dune hauteur de talon de 2 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BQ41JFM/?tag=tolees0d-21)
