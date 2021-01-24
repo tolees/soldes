@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.80 % rabais sur Eau Jeune - Coffret L Orientale - Eau de'
-date: 2021-01-23 18:47:39
+date: 2021-01-24 20:21:52
 image: 'https://m.media-amazon.com/images/I/61BHFzOmlIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00EU6JQT6/?tag=tolees0d-21'
 descuento: '38.80'
-average: '7.65024390243902'
+average: '7.65023255813953'
 ---
 
 Vous avez [Eau Jeune - Coffret L Orientale - Eau de Toilette 75 ml - Spray Déodorant 150 ml](https://www.amazon.fr/dp/B00EU6JQT6/?tag=tolees0d-21)  à  38.80 % de réduction, prix final  7.65 EUR (original: 12.5 EUR) ici:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko- Figurines Pop Vinyl: Disney: Toy  avec 23.86 % rabais '
-date: 2021-01-23 18:47:17
+date: 2021-01-24 20:19:04
 image: 'https://m.media-amazon.com/images/I/41EJ9eYWWwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ C'est en vente [Funko- Figurines Pop Vinyl: Disney: Toy Story 4: Buzz Lightyear 
 
 ℹ️:
 
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
 - Issue de la gamme Disney: Toy Story, la figurine Buzz Lightyear rejoint la collection Funko POP!
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
 - Découvrez tous les autres produits Funko dédiés à lunivers Disney: Toy Story! Collectionnez-les tous!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KPK1MPQ/?tag=tolees0d-21)

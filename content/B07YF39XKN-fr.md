@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Disney Socks And Underwear - Chaussettes avec 25.21 % rabais '
-date: 2021-01-04 14:22:50
+date: 2021-01-24 20:30:22
 image: 'https://m.media-amazon.com/images/I/61BunOCAkeL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07YF39XKN-fr'
+slug: 'B07YF39XKN-fr Disney Socks And Underwear - Chaussettes Licence fantaisie...'
+sku: 'B07YF39XKN-fr'
+tags: [  ]
 actualPrice: 8.9 EUR
 currency: EUR
 price: 8.9
@@ -26,4 +28,4 @@ C'est en vente [Disney Socks And Underwear - Chaussettes Licence fantaisie en Co
 ℹ️:
 
 
-[Achète-le!!](https://www.amazon.fr/dp/B07YF39XKN/?tag=tolees0d-21)
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B07YF39XKN/?tag=tolees0d-21)
