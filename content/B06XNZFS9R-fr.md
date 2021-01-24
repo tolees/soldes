@@ -27,11 +27,11 @@ C'est en vente [Sylvanian Families - Le Village - La Famille Kangourou - 5272 - 
 
 ℹ️:
 
-- Age : 4 ans et plus
-- Age : 4 ans et plus
 - Dimensions : 20 x 5,5 x 17 cm
+- Age : 4 ans et plus
+- Inclus : 1 figurine papa, 1 figurine maman, 1 figurine garçon et 1 figurine fillette
+- Age : 4 ans et plus
+- Inclus : 1 figurine papa, 1 figurine maman, 1 figurine garçon et 1 figurine fillette
 - Dimensions : 20 x 5,5 x 17 cm
-- Inclus : 1 figurine papa, 1 figurine maman, 1 figurine garçon et 1 figurine fillette
-- Inclus : 1 figurine papa, 1 figurine maman, 1 figurine garçon et 1 figurine fillette
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XNZFS9R/?tag=tolees0d-21)
