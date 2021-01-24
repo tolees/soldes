@@ -27,8 +27,8 @@ C'est en vente [Canadian Peak Parka Homme Antidote Bleu Marine S](https://www.am
 
 ℹ️:
 
+- 100% polyester
 - Automne Hiver Saison 2019
 - Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
-- 100% polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082V5PW7V/?tag=tolees0d-21)

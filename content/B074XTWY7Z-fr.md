@@ -27,10 +27,10 @@ C'est en vente [Airavata Homme Ensemble Pantalon de Sport Sweatshirt à capuche 
 
 ℹ️:
 
-- Lavage en machine avec des couleurs similaires et à froid, lavage à la main recommandé.
-- Tissu de haute qualité et anti-boulochage, agréable à porter.
-- AIRAVATA sefforce de fournir le meilleur service client. La satisfaction du client est notre priorité.
 - Imprimé intégral, fermeture éclair sur le devant avec capuche, poignets et ourlet côtelés, poches zippées, ceinture.
+- AIRAVATA sefforce de fournir le meilleur service client. La satisfaction du client est notre priorité.
+- Tissu de haute qualité et anti-boulochage, agréable à porter.
+- Lavage en machine avec des couleurs similaires et à froid, lavage à la main recommandé.
 - Ensemble sweat à capuche à la mode, excellent choix pour le quotidien et le sport.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074XTWY7Z/?tag=tolees0d-21)

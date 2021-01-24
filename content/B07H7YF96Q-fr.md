@@ -27,10 +27,10 @@ Vous avez [Devolo Magic 2 LAN : Starter Kit CPL le plus Rapide du Monde  Interne
 
 ℹ️:
 
-- Kit de démarrage CPL le plus rapide du monde - par le leader du marché
 - Vitesse de transmission jusquà 2400 Mbits/s avec la nouvelle technologie CPL (norme g.Hn)
+- Pas de perte de branchement mural grâce à la prise de courant intégrée
 - Compatible avec tous les adaptateurs Magic et toutes les box internet. Les CPL devolo dLAN et HomePlug AV ne sont pas compatibles
 - 2 prises CPL avec chacune 1 port Ethernet Gigabit pour TV connectée, console de jeu ou PC
-- Pas de perte de branchement mural grâce à la prise de courant intégrée
+- Kit de démarrage CPL le plus rapide du monde - par le leader du marché
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07H7YF96Q/?tag=tolees0d-21)

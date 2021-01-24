@@ -27,10 +27,10 @@ C'est en vente [Canadian Peak Parka Homme ALGOS Noir L](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Insigne de la marque
-- Poches
-- Ouverture centrale avec fermeture éclair
 - Cheveux synthétiques amovibles
+- Insigne de la marque
 - Capuche
+- Ouverture centrale avec fermeture éclair
+- Poches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0831PNP3Z/?tag=tolees0d-21)

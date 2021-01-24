@@ -27,7 +27,7 @@ Vous avez [Geographical Norway Parka femme DIONYSOS Bordeaux L](https://www.amaz
 
 ℹ️:
 
-- Capuche
 - Poches
+- Capuche
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08QVY1P6Q/?tag=tolees0d-21)

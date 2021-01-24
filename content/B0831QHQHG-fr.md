@@ -27,8 +27,8 @@ C'est en vente [Canadian Peak Parka Homme CASIMEAK Bleu Marine XXL](https://www.
 
 ℹ️:
 
-- Automne Hiver Saison 2019
 - Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
+- Automne Hiver Saison 2019
 - 100% polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0831QHQHG/?tag=tolees0d-21)

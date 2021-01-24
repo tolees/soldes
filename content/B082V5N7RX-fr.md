@@ -27,8 +27,8 @@ C'est en vente [Canadian Peak - Veste Homme TOKANO Bleu Marine XL](https://www.a
 
 ℹ️:
 
-- 100% polyester
 - Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
 - Automne Hiver Saison 2019
+- 100% polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082V5N7RX/?tag=tolees0d-21)
