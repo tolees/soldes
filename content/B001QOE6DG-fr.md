@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '30.58 % rabais sur Levi s 501 Original Fit Jeans  Onewash  '
-date: 2021-01-19 08:20:42
+date: 2021-01-24 00:57:27
 image: 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B001QOE6DG-fr'
+slug: 'B001QOE6DG-fr Levi s 501 Original Fit Jeans Onewash 32W / 32L Homme'
+sku: 'B001QOE6DG-fr'
+tags: [  ]
 actualPrice: 62.48 EUR
 currency: EUR
 price: 62.48
@@ -25,10 +27,10 @@ Vous avez [Levi s 501 Original Fit Jeans  Onewash  32W / 32L Homme](https://www.
 
 ℹ️:
 
-- Style 5 poches
+- Denim non extensible
 - 100 % Coton
 - Matières Importées
+- Style 5 poches
 - Braguette boutonnée
-- Denim non extensible
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001QOE6DG/?tag=tolees0d-21)

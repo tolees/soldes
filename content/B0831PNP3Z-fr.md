@@ -27,10 +27,10 @@ C'est en vente [Canadian Peak Parka Homme ALGOS Noir L](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Cheveux synthétiques amovibles
 - Insigne de la marque
-- Capuche
 - Ouverture centrale avec fermeture éclair
 - Poches
+- Capuche
+- Cheveux synthétiques amovibles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0831PNP3Z/?tag=tolees0d-21)
