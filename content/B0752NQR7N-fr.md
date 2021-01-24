@@ -27,10 +27,10 @@ C'est en vente [G-STAR RAW D- Staq 5-Pocket Slim Jeans  Bleu  Medium Indigo Aged
 
 ℹ️:
 
-- Coupe ajustée de la cuisse à lourlet
-- Poche pour pièces déplacées vers lavant
-- Taille mi-haute
 - Coutures moulées à lintérieur des genoux
+- Poche pour pièces déplacées vers lavant
 - Poches arrière en jean profondes combinées à une couture horizontale au-dessus
+- Coupe ajustée de la cuisse à lourlet
+- Taille mi-haute
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0752NQR7N/?tag=tolees0d-21)

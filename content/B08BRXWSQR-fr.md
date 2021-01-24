@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '45.50 % rabais sur The Flexx Syrius Sneaker Femme Noir 36 E'
-date: 2021-01-15 13:43:02
+date: 2021-01-24 14:27:21
 image: 'https://m.media-amazon.com/images/I/41Iw-OKlMBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08BRXWSQR-fr'
+slug: 'B08BRXWSQR-fr The Flexx Syrius Sneaker Femme Noir 36 EU'
+sku: 'B08BRXWSQR-fr'
+tags: [  ]
 actualPrice: 59.4 EUR
 currency: EUR
 price: 59.4
