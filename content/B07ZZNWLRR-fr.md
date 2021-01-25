@@ -27,11 +27,11 @@ C'est en vente [Funko Pop! Heroes: Batman Forever - Two-Face Multicoleur](https:
 
 ℹ️:
 
-- Collectionnez-les tous
+- La figurine mesure 9 cm et est livrée dans une boîte de présentation.
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
 - Découvrez tous les autres produits Funko dédiés à lunivers Batman Forever
 - Issue de la gamme Batman Forever, la figurine Two-Face rejoint la collection Funko POP
-- La figurine mesure 9 cm et est livrée dans une boîte de présentation.
 - Funko Pop est le jouet 2018 de lannée
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
+- Collectionnez-les tous
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZZNWLRR/?tag=tolees0d-21)

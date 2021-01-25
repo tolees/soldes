@@ -27,11 +27,11 @@ Vous avez [LUNII - Ma Fabrique à Histoires - Conteuse interactive pour les enfa
 
 ℹ️:
 
-- ✅ Ma Fabrique à Histoires de Lunii réveille l’imaginaire des enfants de 3 à 8 ans. Une boîte à histoires interactive, sans ondes et sans écran, 100% nomade, pour rêver, explorer et apprendre tout en s’amusant.
-- ✅ POURQUOI CHOISIR MA FABRIQUE À HISTOIRES ? ● Fabriquée en France ● 6 à 8 heures d’autonomie ● Rechargeable par câble USB-C ● Prise Jack ● Disponible en 8 langues ● Emballage éco-conçu
-- ✅ ENREGISTREZ VOS HISTOIRES : Avec l’application Mon Studio Lunii, toute la famille peut créer et enregistrer en toute simplicité ses propres histoires.
-- Photos non contractuelles
-- ✅ LE CONTENU : 48 histoires audio sont incluses dans Ma Fabrique à Histoires et des centaines dautres récits sont à télécharger sur le Luniistore. Des histoires douces, des aventures, des comptines et bien d’autres pour développer l’imaginaire, la culture et le vocabulaire des enfants.
 - ✅ COMMENT CA MARCHE ? Un héros, un univers fantastique, un compagnon, un objet… Les enfants choisissent les éléments qui composent leurs récits et écoutent les histoires qu’ils ont créées.
+- ✅ ENREGISTREZ VOS HISTOIRES : Avec l’application Mon Studio Lunii, toute la famille peut créer et enregistrer en toute simplicité ses propres histoires.
+- ✅ LE CONTENU : 48 histoires audio sont incluses dans Ma Fabrique à Histoires et des centaines dautres récits sont à télécharger sur le Luniistore. Des histoires douces, des aventures, des comptines et bien d’autres pour développer l’imaginaire, la culture et le vocabulaire des enfants.
+- ✅ POURQUOI CHOISIR MA FABRIQUE À HISTOIRES ? ● Fabriquée en France ● 6 à 8 heures d’autonomie ● Rechargeable par câble USB-C ● Prise Jack ● Disponible en 8 langues ● Emballage éco-conçu
+- Photos non contractuelles
+- ✅ Ma Fabrique à Histoires de Lunii réveille l’imaginaire des enfants de 3 à 8 ans. Une boîte à histoires interactive, sans ondes et sans écran, 100% nomade, pour rêver, explorer et apprendre tout en s’amusant.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FRRHG4V/?tag=tolees0d-21)
