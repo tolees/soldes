@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'MICHELIN 008302 Easy Grip Evolution Chaî avec 17.02 % rabais '
-date: 2021-01-19 17:30:45
+date: 2021-01-25 11:27:46
 image: 'https://m.media-amazon.com/images/I/61VORpQhY+L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B074P7WSM7-fr MICHELIN 008302 Easy Grip Evolution Chaîne à Neige...'
+sku: 'B074P7WSM7-fr'
 tags: [  ]
 actualPrice: 66.3 EUR
 currency: EUR
@@ -26,8 +27,8 @@ C'est en vente [MICHELIN 008302 Easy Grip Evolution Chaîne à Neige Composite  
 
 ℹ️:
 
-- Assure une motricité maximale sur neige et verglas.
 - Chaîne à neige haute performance en matériaux composites, facile à manipuler.
+- Assure une motricité maximale sur neige et verglas.
 - Système de fermeture extensible pour faciliter le montage.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074P7WSM7/?tag=tolees0d-21)

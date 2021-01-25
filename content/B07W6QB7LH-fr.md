@@ -28,9 +28,9 @@ C'est en vente [LEGO NINJAGO  Le temple de la folie de l Empire  Set de construc
 ℹ️:
 
 - Comprend un temple dUnagami, dangereux et riche en détails mesurant 38 cm, plein de pièges, surmonté dune impressionnante tour et une chambre secrète, dans lequel se déroule la bataille finale du jeu
-- Comprend une gamme passionnante de nouvelles armures et armes de Prime Empire, des tableaux de sante et 3 Key-Tanas : vert, violet et ???
 - Les enfants découvriront Unagami dans son antre, le feront pivoter sur son trône et, au final, utiliseront les trois Key-Tanas pour déverrouiller le dernier portail
 - Comprend 6 figurines : Digi Jay, Lloyd et Cole avec des armes de contrôle primaire, et Unagami, Sushimi et Red Visor avec leurs propres armes
 - Les 3 ninjas doivent vaincre Unagami pour terminer leur quête lors de laquelle ils grimpent, déjouent la vigilance de ses acolytes Sushimi et évitent les pièges
+- Comprend une gamme passionnante de nouvelles armures et armes de Prime Empire, des tableaux de sante et 3 Key-Tanas : vert, violet et ???
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W6QB7LH/?tag=tolees0d-21)
