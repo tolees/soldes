@@ -27,8 +27,8 @@ Vous avez [Ryobi rht25 x 55R Taille-haie 25 4 cc  compatible avec one + EasySt
 
 ℹ️:
 
-- Accessoire HedgeSweep pour retirer les découpages
 - Poignée arrière rotative à 5 positions pour une flexibilité optimale
+- Accessoire HedgeSweep pour retirer les découpages
 - Contient huile de 2 temps, clé, accessoire HedgeSweep
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CF58VB4/?tag=tolees0d-21)

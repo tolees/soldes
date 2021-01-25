@@ -27,10 +27,10 @@ C'est en vente [Disney La Reine des Neiges 2  Poupee Princesse Disney Électroni
 
 ℹ️:
 
+- POUPÉE ELSA AVEC SONS ET LUMIÈRES : Lorsquon lève le bras gauche dElsa il séclaire ainsi que lintérieur de sa main. Des effets sonores se déclenchent également.
+- PILES INCLUSES : Les enfants peuvent commencer à jouer avec leur poupée Elsa dès quils la déballent. Nécessite 3 piles LR44, piles de démo incluses. Inclut aussi des instructions en français. Disney Reine des Neiges, jouet parfait à offrir en cadeau aux enfants. Pour les filles de 3 ans, 4 ans, 5 ans et plus. Avec les jouets Disney Reine des Neiges les enfants peuvent imaginer des histoires avec leurs princesses préférées.
 - ROBE INSPIRÉE DE LA REINE DES NEIGES 2 DE DISNEY : La poupée Elsa porte une robe bleu pâle ornée de paillettes blanches et bleues inspirée du film
 - 4 MODES DE JEU : Les enfants peuvent lever et baisser le bras dElsa pour activer 4 combinaisons différentes de sons et de lumières
-- PILES INCLUSES : Les enfants peuvent commencer à jouer avec leur poupée Elsa dès quils la déballent. Nécessite 3 piles LR44, piles de démo incluses. Inclut aussi des instructions en français. Disney Reine des Neiges, jouet parfait à offrir en cadeau aux enfants. Pour les filles de 3 ans, 4 ans, 5 ans et plus. Avec les jouets Disney Reine des Neiges les enfants peuvent imaginer des histoires avec leurs princesses préférées.
-- POUPÉE ELSA AVEC SONS ET LUMIÈRES : Lorsquon lève le bras gauche dElsa il séclaire ainsi que lintérieur de sa main. Des effets sonores se déclenchent également.
 - BRAS ET MAINS LUMINEUX ET EFFETS SONORES : Poupée Elsa accompagnée dun accessoire à fixer sur son poignet. Il représente le pouvoir de glace. Lorsquon lève le bras gauche dElsa il séclaire ainsi que lintérieur de sa main. Des effets sonores se déclenchent également.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZYC1LFZ/?tag=tolees0d-21)

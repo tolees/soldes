@@ -27,14 +27,14 @@ Vous avez [Téléviseur LED 4K Samsung UE43TU8075 108 cm / 43 Pouces - Smart TV 
 
 ℹ️:
 
-- Résolution : 3,840 x 2,160
-- Dolby Digital Plus
-- Connecté : SMART TV
+- Alexa - Google - AirPlay 2 - Netflix - Disney+ - My Canal - Prime vidéo
 - HDR 10+ : détails de limage
-- Compatible avec fixations murales VESA : 200 x 200
+- Dolby Digital Plus
+- Téléviseur LED 4K Crystal UHD 108 cm 43"
 - Dimensions avec socle (L x H x P en cm) : 96.39 x 62.78 x 19.25
 - Traitement 100Hz Motion Rate / Indice fluidité 2100 Picture Quality Index
-- Téléviseur LED 4K Crystal UHD 108 cm 43"
-- Alexa - Google - AirPlay 2 - Netflix - Disney+ - My Canal - Prime vidéo
+- Connecté : SMART TV
+- Résolution : 3,840 x 2,160
+- Compatible avec fixations murales VESA : 200 x 200
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083VD2KVR/?tag=tolees0d-21)

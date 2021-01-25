@@ -27,10 +27,10 @@ C'est en vente [KAINSY Jouet Bain bébé  4PC Jeux Bain Enfant de Animaux Diffé
 
 ℹ️:
 
-- Material & Safe -- The bathtub turtle toys is made of non-toxic ABS plastics. The edge are smooth enough for babies to touch, play and hug. Also, non-battery, It’s safe for your babies!
-- Satisfaction Guarantee -- Buying Tonpop bathtub toy for toddlers with confidence. We provide 100% satisfaction customer service for this bath toys. If this bath toys has any issues, please feel free to contact us, we will refund you or offer a new replacement for free.
 - Cute Bath Toys Sets(4 Pack) -- This item is a water play sets, it include 4 cute toys (Turtle Whale Crab Goose). Come on, your babys bath toys team is ready to go!
-- Fun -- The bath toy come with wind-up and spinning gear which can swimming with you baby. Turn the clockwork of the turtle clockwise and then put it into water, they will swim quickly.
 - Ideal Gift For Little Swimmers -- The bath toys could be a good way to divert your babys attention and allow them to enjoy water. Make bath time the funniest time of the day with toy. Excellent for baby shower and party favors, great gift for Birthday, Christmas and Halloween holidays.
+- Satisfaction Guarantee -- Buying Tonpop bathtub toy for toddlers with confidence. We provide 100% satisfaction customer service for this bath toys. If this bath toys has any issues, please feel free to contact us, we will refund you or offer a new replacement for free.
+- Material & Safe -- The bathtub turtle toys is made of non-toxic ABS plastics. The edge are smooth enough for babies to touch, play and hug. Also, non-battery, It’s safe for your babies!
+- Fun -- The bath toy come with wind-up and spinning gear which can swimming with you baby. Turn the clockwork of the turtle clockwise and then put it into water, they will swim quickly.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08P2Z3WF1/?tag=tolees0d-21)
