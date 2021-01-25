@@ -1,0 +1,36 @@
+---
+layout: post
+title: '30.01 % rabais sur Sylvanian Families - Le Village - La Gra'
+date: 2021-01-25 20:29:53
+image: 'https://m.media-amazon.com/images/I/51ReH1jQf5L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07Q3FF8HS-fr Sylvanian Families - Le Village - La Grande Maison de...'
+sku: 'B07Q3FF8HS-fr'
+tags: [  ]
+actualPrice: 41.99 EUR
+currency: EUR
+price: 41.99
+comparePrice: 59.99 EUR
+prodname: 'Sylvanian Families - Le Village - La Grande Maison de Ville - 5365 - Maison de Poupée - Mini Poupées'
+country: 'fr'
+flag: '🇫🇷'
+buyurl: 'https://www.amazon.fr/dp/B07Q3FF8HS/?tag=tolees0d-21'
+descuento: '30.01'
+average: '48.9823134328358'
+---
+
+Vous avez [Sylvanian Families - Le Village - La Grande Maison de Ville - 5365 - Maison de Poupée - Mini Poupées](https://www.amazon.fr/dp/B07Q3FF8HS/?tag=tolees0d-21)  à  30.01 % de réduction, prix final  41.99 EUR (original: 59.99 EUR) ici:
+
+[![Sylvanian Families - Le Village - La Gra](https://m.media-amazon.com/images/I/51ReH1jQf5L._SL200_.jpg)](https://www.amazon.fr/dp/B07Q3FF8HS/?tag=tolees0d-21)
+
+ℹ️:
+
+- Stella, la grande sœur lapin chocolat vit dans cette élégante maison de ville à deux étages
+- Un magnifique lustre orne le plafond du 2ème étage.
+- Découvrez le superbe balcon de lautre côté de la porte.
+- Ce coffret vient enrichir la collection Sylvanian pour encore plus de divertissement.
+- Elle y invite ses amies à prendre le thé.
+
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q3FF8HS/?tag=tolees0d-21)

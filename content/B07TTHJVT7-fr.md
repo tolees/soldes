@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - "L Aventure LaytonTM : Katrie avec 25.59 % rabais '
-date: 2021-01-23 15:42:40
+date: 2021-01-25 20:30:46
 image: 'https://m.media-amazon.com/images/I/51XF2UNgLLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07TTHJVT7/?tag=tolees0d-21'
 descuento: '25.59'
-average: '32.3871428571429'
+average: '32.3464102564103'
 ---
 
 C'est en vente [Nintendo - "L Aventure LaytonTM : Katrielle et la conspiration des millionnaires - Édition Deluxe"](https://www.amazon.fr/dp/B07TTHJVT7/?tag=tolees0d-21)  à  25.59 % de réduction, prix final  31.99 EUR (original: 42.99 EUR) ici:
@@ -28,7 +28,7 @@ C'est en vente [Nintendo - "L Aventure LaytonTM : Katrielle et la conspiration d
 ℹ️:
 
 - 2 ans
-- NINTENDO
 - 10002053
+- NINTENDO
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TTHJVT7/?tag=tolees0d-21)
