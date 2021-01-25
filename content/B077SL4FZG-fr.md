@@ -27,10 +27,10 @@ Vous avez [Crucial 250Go CT250MX500SSD4 SSD interne MX500-jusqu’à 560 Mo/s  3
 
 ℹ️:
 
+- Le cryptage sur base matérielle AES 256-bit protège vos données des hackers et des pirates
 - Vitesse de lecture/d’écriture séquentielle pouvant atteindre 560/510 Mo/s pour tout type de fichier et Vitesse de lecture/d’écriture aléatoire pouvant atteindre 95k/90k pour tout type de fichier
 - Garantie limitée de 5 ans
 - La fonctionnalité de Protection contre les coupures de courant intégrée préserve tous vos travaux enregistrés en cas de coupure de courant inattendue
 - Vitesse améliorée grâce à la technologie NAND 3D de Micron
-- Le cryptage sur base matérielle AES 256-bit protège vos données des hackers et des pirates
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077SL4FZG/?tag=tolees0d-21)
