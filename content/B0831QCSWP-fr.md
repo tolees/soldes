@@ -27,10 +27,10 @@ C'est en vente [Canadian Peak Parka GARÇON BANOTIKO Gris FONCÉ 16](https://www
 
 ℹ️:
 
-- poche kangourou à l’avant
-- Cordon réglable à la taille
-- Moitié fermeture à glissière
-- Coiffe fixe et cheveux synthétiques amovibles
 - Poignées réglables
+- Cordon réglable à la taille
+- Coiffe fixe et cheveux synthétiques amovibles
+- Moitié fermeture à glissière
+- poche kangourou à l’avant
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0831QCSWP/?tag=tolees0d-21)

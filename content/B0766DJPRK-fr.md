@@ -27,9 +27,9 @@ Vous avez [Playmobil - Villa de Vacances - 9420](https://www.amazon.fr/dp/B0766D
 
 ℹ️:
 
-- Contient la villa avec cuisine, salle de bains, chambre pour les parents et chambres denfants et trois personnages. Dimensions : 40 x 30 x 26 cm (LxPxH).
 - Qui refuserait un séjour dans cette villa de vacances ensoleillée?
 - Convient aux enfants de plus de 4 ans.
+- Contient la villa avec cuisine, salle de bains, chambre pour les parents et chambres denfants et trois personnages. Dimensions : 40 x 30 x 26 cm (LxPxH).
 - Elle contient tout ce qui est nécessaire pour passer des vacances reposantes en famille.
 - Rejoins la bande de vacanciers pour profiter de vacances ensoleillées !
 
