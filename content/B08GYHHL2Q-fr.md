@@ -27,10 +27,10 @@ Vous avez [Samsung Galaxy Z Flip 256Go noir - Smartphone 4G Portable débloqué 
 
 ℹ️:
 
-- 8Go ram / 256Go rom
 - Ecran AMOLED - 6,7 " Infinity Flex
-- Charnière à position libre - Photographier ou communiquer sans les mains
-- Désign révolutionnaire Cool & ultra-compact
 - Influencer ready - Une interface pensée pour le partage
+- 8Go ram / 256Go rom
+- Désign révolutionnaire Cool & ultra-compact
+- Charnière à position libre - Photographier ou communiquer sans les mains
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GYHHL2Q/?tag=tolees0d-21)

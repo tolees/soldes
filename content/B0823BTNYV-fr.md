@@ -27,11 +27,11 @@ C'est en vente [Xiaomi Mi Smart Compact Projector](https://www.amazon.fr/dp/B082
 
 ℹ️:
 
+- Taille daffichage: 200.0 inches
+- Composants inclus: Mi Smart Compact Projector -telecommande - cable USB type C- guide d utilisation
+- 1080p complet hd
 - android tv 9.0 système
 - 2 haut-parleur intégrés
-- Taille daffichage: 200.0 inches
 - screen size up to 120”
-- 1080p complet hd
-- Composants inclus: Mi Smart Compact Projector -telecommande - cable USB type C- guide d utilisation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21)
