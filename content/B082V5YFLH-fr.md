@@ -27,8 +27,8 @@ C'est en vente [Canadian Peak Parka Homme BONETEAK Noir S](https://www.amazon.fr
 
 ℹ️:
 
+- 100% polyamide
 - Automne Hiver Saison 2019
 - Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
-- 100% polyamide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082V5YFLH/?tag=tolees0d-21)
