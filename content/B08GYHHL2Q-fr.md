@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '36.73 % rabais sur Samsung Galaxy Z Flip 256Go noir - Smart'
-date: 2021-01-16 06:26:49
+date: 2021-01-25 01:55:27
 image: 'https://m.media-amazon.com/images/I/31qmD1HZuvL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08GYHHL2Q-fr'
+slug: 'B08GYHHL2Q-fr Samsung Galaxy Z Flip 256Go noir - Smartphone 4G Portable...'
+sku: 'B08GYHHL2Q-fr'
+tags: [  ]
 actualPrice: 949.0 EUR
 currency: EUR
 price: 949.0
@@ -26,9 +28,9 @@ Vous avez [Samsung Galaxy Z Flip 256Go noir - Smartphone 4G Portable débloqué 
 ℹ️:
 
 - Désign révolutionnaire Cool & ultra-compact
-- Charnière à position libre - Photographier ou communiquer sans les mains
 - Ecran AMOLED - 6,7 " Infinity Flex
 - 8Go ram / 256Go rom
 - Influencer ready - Une interface pensée pour le partage
+- Charnière à position libre - Photographier ou communiquer sans les mains
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GYHHL2Q/?tag=tolees0d-21)
