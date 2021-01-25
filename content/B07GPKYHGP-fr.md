@@ -28,7 +28,7 @@ C'est en vente [Skechers Men s Moreno Trainers  Beige  Taupe TPE   10 UK 45 EU](
 ℹ️:
 
 - MORENO EDERSON
-- MORENO EDERSON
 - 65981 TPE
+- MORENO EDERSON
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GPKYHGP/?tag=tolees0d-21)
