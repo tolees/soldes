@@ -29,8 +29,8 @@ C'est en vente [SanDisk Carte Mémoire MicroSDHC Ultra 200 Go + Adaptateur SD  V
 
 - Une capacité pouvant atteindre 256 Go
 - Des vitesses de transfert allant jusquà 100 Mo/s
-- Idéale pour les smartphones et tablettes Android
 - Chargez les applications plus rapidement avec une classe de performance A1
+- Idéale pour les smartphones et tablettes Android
 - Classe de vitesse UHS U1 et Classe 10 pour lenregistrement et la lecture vidéo Full HD
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073JY5T7T/?tag=tolees0d-21)

@@ -27,10 +27,10 @@ Vous avez [Transformers Rescue Bots - Coffret de 4 Robots Secouristes 12cm - Jou
 
 ℹ️:
 
-- Design basé sur le dessin animé Rescue bot ACADEMY.
-- Transformers, pour se mettre à imaginer, inventer et transformer le réel. Transformers, plus fort que les apparences. Robots du dessin animé Transformers Rescue Bots ACADEMY, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 3 ans, 4 ans, 5 ans et plus.
 - Conçu pour les petites mains des enfants. Aucune pile nécessaire.
 - Jouet 2 en 1, environ 12cm en mode robot.
 - Coffret de 4 robots Transformers premier âge, transformation facile en 1 étape.
+- Transformers, pour se mettre à imaginer, inventer et transformer le réel. Transformers, plus fort que les apparences. Robots du dessin animé Transformers Rescue Bots ACADEMY, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 3 ans, 4 ans, 5 ans et plus.
+- Design basé sur le dessin animé Rescue bot ACADEMY.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RWV152K/?tag=tolees0d-21)
