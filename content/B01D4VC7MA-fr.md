@@ -27,8 +27,8 @@ C'est en vente [Bollé BACKLINE Visière Soft Black et Silver avec 1 Visière Si
 
 ℹ️:
 
-- Ventilation ajustable
 - Doublure en tissu hypoallergénique
+- Ventilation ajustable
 - Visère anti-rayures
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01D4VC7MA/?tag=tolees0d-21)
