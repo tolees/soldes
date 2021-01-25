@@ -27,10 +27,10 @@ Vous avez [Bosch 2607010610 Coffret de mèches et forets X-Line 54 pièces](http
 
 ℹ️:
 
-- 36 embouts de vissage de longueur 25 et 50 mm pour 5 types de têtes de vis
-- Forets à bois/métaux/béton · Embouts courts et longs parmi les plus courants · Avec poignée tournevis · Le tout en mallette pratique
 - Avec support magnétique universel pour un changement rapide des embouts et un bon maintien de la vis dans lembout
+- Forets à bois/métaux/béton · Embouts courts et longs parmi les plus courants · Avec poignée tournevis · Le tout en mallette pratique
 - Permet deffectuer de nombreux travaux grâce aux 6 forets à métaux, aux 5 forets à matériaux et aux 5 mèches à bois
+- 36 embouts de vissage de longueur 25 et 50 mm pour 5 types de têtes de vis
 - Inclut un tournevis à cliquet compact
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002UHKASI/?tag=tolees0d-21)

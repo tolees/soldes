@@ -28,8 +28,8 @@ Vous avez [YUCUN 2 5 Pouces SATA III Disque Flash 1To SSD 1TB Interne Solid Stat
 ℹ️:
 
 - Vitesses de lecture / écriture jusquà: 530 / 520MB / s, MTBF: 1,500,000 Heures, Conservation des données: 10 ans
-- Arrêt plus rapide, arrêt, chargement de lapplication et réponse
 - Prise en charge de la gestion dynamique de lalimentation et SMART (Self-Monitoring, Analysis and Reporting Technology), NCQ, Trim
+- Arrêt plus rapide, arrêt, chargement de lapplication et réponse
 - Type dinterface: 2.5 pouces SATA III (6.0GBps) Slim type 7mm
 - Le SSD YUCUN est conçu sans pièces mobiles pour protéger contre la perte de données en cas de choc ou de chute accidentelle
 

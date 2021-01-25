@@ -28,7 +28,7 @@ C'est en vente [Canadian Peak Parka Homme Antidote Kaki S](https://www.amazon.fr
 ℹ️:
 
 - Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
-- 100% polyester
 - Automne Hiver Saison 2019
+- 100% polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0831PPWZX/?tag=tolees0d-21)

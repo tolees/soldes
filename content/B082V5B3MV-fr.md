@@ -27,8 +27,8 @@ C'est en vente [Canadian Peak - Veste Homme TOKANO Rouge M](https://www.amazon.f
 
 ℹ️:
 
-- Automne Hiver Saison 2019
-- Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
 - 100% polyester
+- Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
+- Automne Hiver Saison 2019
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082V5B3MV/?tag=tolees0d-21)

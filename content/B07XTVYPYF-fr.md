@@ -27,10 +27,10 @@ C'est en vente [Dell SE2417HGX Ecran de PC Gaming 24" Full HD LCD  TN  75 Hz  2 
 
 ℹ️:
 
-- Improved thin bezels, a Black piano finish and a robust stand combine for a modern look that goes with any home or home office
-- Seamlessly switch between work and play with the enhanced dual HDMI connectivity ports
-- Increase viewing comfort by minimizing harmful blue light with Dell Comfort view and reduce distractions with a flicker-free, anti-glare screen
 - Experience good-quality visuals with an impressively fast response time
 - Clear, quality visuals, enjoy crisp visuals and vibrant colours with full HD clarity (1920 x 1080)
+- Improved thin bezels, a Black piano finish and a robust stand combine for a modern look that goes with any home or home office
+- Increase viewing comfort by minimizing harmful blue light with Dell Comfort view and reduce distractions with a flicker-free, anti-glare screen
+- Seamlessly switch between work and play with the enhanced dual HDMI connectivity ports
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XTVYPYF/?tag=tolees0d-21)
