@@ -27,10 +27,10 @@ C'est en vente [Nerve Ranger Jean de Moto  Noir  XXL](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Vêtement protecteur avec fonctionnalité forte en Casual Look"
-- augmente la visibilité des motocyclistes
-- procure un confort optimale
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Vêtement protecteur avec fonctionnalité forte en Casual Look"
+- procure un confort optimale
+- augmente la visibilité des motocyclistes
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00THD785Q/?tag=tolees0d-21)

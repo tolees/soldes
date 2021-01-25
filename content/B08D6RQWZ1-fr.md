@@ -27,10 +27,10 @@ C'est en vente [Skybound Games - Untitled Goose Game  Nintendo Switch ](https://
 
 ℹ️:
 
+- Parcourez le village, des jardins et cours des maisons, aux boutiques de la rue principale, en passant par le pré communal.
+- Une oie insupportable (c’est-à-dire vous), un village peuplé de braves gens (que vous détestez), un bouton spécial pour cacarder
+- La journée s’annonce superbe au village, mais vous là, vous êtes une oie sacrément insupportable !
 - Untitled goose game est un jeu d’infiltration de type « bac à sable » à l’humour burlesque, dans lequel vous êtes une oie en liberté dans un village qui ne se doute de rien
 - Montez des canulars, en volant des chapeaux, en cacardant à tue-tête, bref en tapant sur les nerfs de tout le monde
-- La journée s’annonce superbe au village, mais vous là, vous êtes une oie sacrément insupportable !
-- Une oie insupportable (c’est-à-dire vous), un village peuplé de braves gens (que vous détestez), un bouton spécial pour cacarder
-- Parcourez le village, des jardins et cours des maisons, aux boutiques de la rue principale, en passant par le pré communal.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08D6RQWZ1/?tag=tolees0d-21)
