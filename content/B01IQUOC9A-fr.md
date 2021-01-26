@@ -27,10 +27,10 @@ C'est en vente [Iris Ohyama  parc pour chien / cage d extérieur / enclos / chen
 
 ℹ️:
 
-- Dimensions (1 élément): L 60 x H 121 cm
-- Ancrage pour fixation au sol, facile à installer, facile à nettoyer
-- Fil résistant avec revêtement époxy
-- Connecteurs résistants à la rouille et flexibles
 - Pour les chiens de grande taille ( bouvier bernois, labrador, dalmatien...)
+- Ancrage pour fixation au sol, facile à installer, facile à nettoyer
+- Connecteurs résistants à la rouille et flexibles
+- Fil résistant avec revêtement époxy
+- Dimensions (1 élément): L 60 x H 121 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01IQUOC9A/?tag=tolees0d-21)

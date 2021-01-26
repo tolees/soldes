@@ -27,13 +27,13 @@ Vous avez [Edifier S880DB Kit d Enceintes Blanc/Bois](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- USB audio: processeur XMOS ajouter laudio USB aux options. Branchez directement votre cl? USB avec vos morceaux favoris.
 - Signal Bluetooth 4.1 pour une qualit? de streaming optimal depuis les smartphones, tablettes, etc.
+- La sensibilit? dentr?e: PC: 800?500mV, AUX: 600?50mV, USB/Optical/Coaxial: 400?50mFFS, Bluetooth?600?50mFFS
+- Entr?e analogique et digitale pour un maximum de possibilit?s: RCA, AUX, USB, optique, coaxial et BT.
+- Contr?le totale de laudio avec la t?l?commande ergonomique et le panneau de r?glage arri?re.
+- 4 modes dEQ
 - Sonore: ≤25dB(A)
 - R?ponse de fr?quence: 55Hz-20KHz
-- Entr?e analogique et digitale pour un maximum de possibilit?s: RCA, AUX, USB, optique, coaxial et BT.
-- 4 modes dEQ
-- Contr?le totale de laudio avec la t?l?commande ergonomique et le panneau de r?glage arri?re.
-- La sensibilit? dentr?e: PC: 800?500mV, AUX: 600?50mV, USB/Optical/Coaxial: 400?50mFFS, Bluetooth?600?50mFFS
+- USB audio: processeur XMOS ajouter laudio USB aux options. Branchez directement votre cl? USB avec vos morceaux favoris.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076HX9S4M/?tag=tolees0d-21)

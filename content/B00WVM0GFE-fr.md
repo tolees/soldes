@@ -27,7 +27,7 @@ Vous avez [Vilac - 2643 - Puzzles La Maison - 24 Pièces](https://www.amazon.fr/
 
 ℹ️:
 
-- Age minimum : 2 ans
 - Puzzles La maison
+- Age minimum : 2 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00WVM0GFE/?tag=tolees0d-21)

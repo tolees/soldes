@@ -28,8 +28,8 @@ C'est en vente [Ubisoft - IMMORTALS FENYX RISING - Limited Edition - Version PS5
 ℹ️:
 
 - Surmontez des épreuves héroïques
-- Forgez votre légende
 - Affrontez des ennemis mythiques
+- Forgez votre légende
 - Explorez un magnifique monde ouvert
 - Maniez les pouvoirs des dieux
 
