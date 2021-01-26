@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '38.47 % rabais sur Braun Series 5 50-B1200s Rasoir Électriq'
-date: 2021-01-19 13:46:20
+date: 2021-01-26 02:25:14
 image: 'https://m.media-amazon.com/images/I/51kBDUr9WYL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B085CXY4DB-fr Braun Series 5 50-B1200s Rasoir Électrique Homme Avec...'
-tags: [ tole.es ]
+sku: 'B085CXY4DB-fr'
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99
@@ -26,10 +27,10 @@ Vous avez [Braun Series 5 50-B1200s Rasoir Électrique Homme Avec Tondeuse De P
 
 ℹ️:
 
+- Le système EasyClean permet un nettoyage rapide et facile sans retirer la tête de rasage
 - La batterie Li-Ion offre jusqu’à 3 semaines de rasage (50 min). Une charge rapide de 5 minutes suffit pour un rasage complet
 - Rasoir électrique barbe 100 % étanche pour une utilisation Wet & Dry
-- Rasoir électrique pour homme avec 3 lames flexibles qui s’adaptent aux contours du visage pour faciliter le rasage de près
 - Comprend : Accessoire tondeuse de précision pour tailler la moustache et les pattes
-- Le système EasyClean permet un nettoyage rapide et facile sans retirer la tête de rasage
+- Rasoir électrique pour homme avec 3 lames flexibles qui s’adaptent aux contours du visage pour faciliter le rasage de près
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085CXY4DB/?tag=tolees0d-21)

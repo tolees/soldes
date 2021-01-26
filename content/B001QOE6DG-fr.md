@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.58 % rabais sur Levi s 501 Original Fit Jeans  Onewash  '
-date: 2021-01-25 01:27:34
+date: 2021-01-26 02:21:53
 image: 'https://m.media-amazon.com/images/I/41u6V9BHazL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,10 +27,10 @@ Vous avez [Levi s 501 Original Fit Jeans  Onewash  32W / 32L Homme](https://www.
 
 ℹ️:
 
-- Style 5 poches
 - Denim non extensible
-- Matières Importées
 - 100 % Coton
+- Style 5 poches
 - Braguette boutonnée
+- Matières Importées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001QOE6DG/?tag=tolees0d-21)

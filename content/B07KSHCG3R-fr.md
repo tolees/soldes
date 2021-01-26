@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SSD interne 860 QVO 2.5’’ SATA   avec 17.33 % rabais '
-date: 2021-01-25 01:47:08
+date: 2021-01-26 02:39:41
 image: 'https://m.media-amazon.com/images/I/51dNXsA2avL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07KSHCG3R/?tag=tolees0d-21'
 descuento: '17.33'
-average: '109.877975708502'
+average: '109.99140562249'
 ---
 
 C'est en vente [Samsung SSD interne 860 QVO 2.5’’ SATA  1 TERA  - MZ-76Q1T0BW  Noir - 1 TB](https://www.amazon.fr/dp/B07KSHCG3R/?tag=tolees0d-21)  à  17.33 % de réduction, prix final  124.0 EUR (original: 149.99 EUR) ici:

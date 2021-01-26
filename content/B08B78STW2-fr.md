@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.25 % rabais sur Downton Abbey-L intégrale de la Saga : l'
-date: 2021-01-24 20:28:32
+date: 2021-01-26 02:58:25
 image: 'https://m.media-amazon.com/images/I/41RYpTAOt6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08B78STW2/?tag=tolees0d-21'
 descuento: '25.25'
-average: '58.8108510638298'
+average: '58.5528571428572'
 ---
 
 Vous avez [Downton Abbey-L intégrale de la Saga : la série et Le Film [Édition Prestige]](https://www.amazon.fr/dp/B08B78STW2/?tag=tolees0d-21)  à  25.25 % de réduction, prix final  52.49 EUR (original: 70.22 EUR) ici:

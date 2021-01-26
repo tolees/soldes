@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wea - Drones avec 53.37 % rabais '
-date: 2021-01-24 20:34:51
+date: 2021-01-26 02:39:18
 image: 'https://m.media-amazon.com/images/I/51kAIG9t2LL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00UHQ73NO/?tag=tolees0d-21'
 descuento: '53.37'
-average: '6.75962962962963'
+average: '6.76785714285714'
 ---
 
 C'est en vente [Wea - Drones](https://www.amazon.fr/dp/B00UHQ73NO/?tag=tolees0d-21)  à  53.37 % de réduction, prix final  6.99 EUR (original: 14.99 EUR) ici:
