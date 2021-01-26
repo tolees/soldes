@@ -28,9 +28,9 @@ Vous avez [PROSTEEL Collier avec Pendentif Acier Noir Arbre de Vie Bijoux à La 
 ℹ️:
 
 - 💗Collier pendentif médaille ronde avec signe darbre de vie , bijou tendance pour homme femme
-- 💗Longueur de la chaîne: 55cm+5cm dextension, se réduit facilement grace à son fermoir mousqueton et chaîne de sécurité
-- 💗Composants du set pendentif + chaîne; Fabriqué en acier inoxydable 316l plaqué en métal noir; Sans nickel, sans plomb, pas dallergie
 - 📧 Garantie de remboursement ou échange de 90 jours; nhésitez pas à nous contacter si vous rencontrez des problèmes
+- 💗Composants du set pendentif + chaîne; Fabriqué en acier inoxydable 316l plaqué en métal noir; Sans nickel, sans plomb, pas dallergie
+- 💗Longueur de la chaîne: 55cm+5cm dextension, se réduit facilement grace à son fermoir mousqueton et chaîne de sécurité
 - 💗Emballage💗 - Livrée dans une pochette de velours et coffret, sera un cadeau idéal pour faire plaisir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078NMQGFT/?tag=tolees0d-21)

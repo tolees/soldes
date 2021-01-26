@@ -27,10 +27,10 @@ Vous avez [Microids - Oddworld New  n  Tasty Edition Limitée  Nintendo Switch ]
 
 ℹ️:
 
-- Abe doit sauver sa peau et fuir cette usine à viande. De nombreux dangers attendent Abe dans son odyssée qui lui fera découvrir lhistoire de son peuple
 - Nouveaux environnements 3D magnifiquement imaginés et réalisés qui ajoutent de la profondeur au côté gameplay en 2D
-- Alors quil est un laveur de sol heureux dans les plus grands abattoirs de Oddworld, Abe découvre un secret qui vise à transformer les esclaves en boulettes de viande
+- Abe doit sauver sa peau et fuir cette usine à viande. De nombreux dangers attendent Abe dans son odyssée qui lui fera découvrir lhistoire de son peuple
 - Lédition limitée de Oddworld New and Tasty inclut le jeu dans une boîte avec effet lenticulaire lenticulaire, un porte-clés et une planche dautocollants
 - Refonte intégrale, graphismes époustouflants, bande-son améliorée et jouabilité plus intense que jamais : New n Tasty recrée lunivers de Oddworld avec les technologies dernière génération
+- Alors quil est un laveur de sol heureux dans les plus grands abattoirs de Oddworld, Abe découvre un secret qui vise à transformer les esclaves en boulettes de viande
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FTR3HM2/?tag=tolees0d-21)
