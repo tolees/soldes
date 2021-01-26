@@ -27,11 +27,11 @@ Vous avez [SanDisk Ultra 256Go Dual Drive m3.0 Clé double connectique pour appa
 
 ℹ️:
 
-- Performances USB 3.0 haute vitesse avec des transferts de fichiers jusquà 150 Mo/s de la clé à lordinateur
-- Libérez de lespace sur votre téléphone OTG Android
-- Lapplication SanDisk Memory Zone (disponible sur Google Play) vous permet de gérer facilement vos photos et vidéos
 - PC/Mac compatibilité du portable: Windows Vista, Windows 7, Windows 8, Windows 10, Mac OS X v10.6 et en plus
 - Sauvegardez vos photos, vidéos et contacts
+- Lapplication SanDisk Memory Zone (disponible sur Google Play) vous permet de gérer facilement vos photos et vidéos
+- Libérez de lespace sur votre téléphone OTG Android
 - Une conception rétractable avec une double connectique micro-USB et USB 3.0
+- Performances USB 3.0 haute vitesse avec des transferts de fichiers jusquà 150 Mo/s de la clé à lordinateur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06VSS2NRP/?tag=tolees0d-21)

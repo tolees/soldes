@@ -27,10 +27,10 @@ C'est en vente [SanDisk Extreme PRO Carte Mémoire MicroSDXC + Adaptateur SD Jus
 
 ℹ️:
 
+- Procurez-vous lapplication SanDisk Memory Zone pour une gestion facile de vos fichiers (disponible sur Google Play)
+- Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
+- Idéale pour les smartphones et tablettes Android, ainsi que pour les caméras daction et les drones
 - Jusquà 170 Mo/s en lecture et 90 Mo/s en écriture pour des prises et des transferts rapides
 - Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
-- Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
-- Procurez-vous lapplication SanDisk Memory Zone pour une gestion facile de vos fichiers (disponible sur Google Play)
-- Idéale pour les smartphones et tablettes Android, ainsi que pour les caméras daction et les drones
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RKL4L7Q/?tag=tolees0d-21)

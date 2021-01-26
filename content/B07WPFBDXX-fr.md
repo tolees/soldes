@@ -27,10 +27,10 @@ C'est en vente [SanDisk Extreme PRO CF Express Carte mémoire type B 64 Go  vite
 
 ℹ️:
 
-- Récupération pratique de fichiers avec le logiciel RescuePRO Deluxe Le logiciel RescuePRO Deluxe pour la récupération de données est inclus en tant quoffre de téléchargement. Ce logiciel facilite la récupération des fichiers supprimés accidentellement (téléchargement requis)
-- Performances vidéo 4K fluides La conception CFexpress prend des vidéos 4K au format RAW avec des performances soutenues avec une faible latence pour votre enregistrement vidéo
+- Vitesse plus élevée que les autres cartes, haute vitesse, enregistrement continu et efficacité améliorée du flux de travail bien au-delà de ce que les cartes mémoire SanDisk existantes peuvent offrir avec des vitesses de lecture allant jusquà 1500 Mo/s. et des vitesses décriture allant jusquà 800 Mo/s
 - FlyerDisk est la marque mondiale que les professionnels de la création et les amateurs connaissent et comptent sur leur précieux contenu
 - Compatibilité XQD La carte avec les caméras XQD sélectionnées est rétrocompatible, qui peut être mise à jour avec le firmware pour activer CFexpress, la carte CFexpress type B connecte les appareils existants avec la technologie du futur
-- Vitesse plus élevée que les autres cartes, haute vitesse, enregistrement continu et efficacité améliorée du flux de travail bien au-delà de ce que les cartes mémoire SanDisk existantes peuvent offrir avec des vitesses de lecture allant jusquà 1500 Mo/s. et des vitesses décriture allant jusquà 800 Mo/s
+- Performances vidéo 4K fluides La conception CFexpress prend des vidéos 4K au format RAW avec des performances soutenues avec une faible latence pour votre enregistrement vidéo
+- Récupération pratique de fichiers avec le logiciel RescuePRO Deluxe Le logiciel RescuePRO Deluxe pour la récupération de données est inclus en tant quoffre de téléchargement. Ce logiciel facilite la récupération des fichiers supprimés accidentellement (téléchargement requis)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WPFBDXX/?tag=tolees0d-21)
