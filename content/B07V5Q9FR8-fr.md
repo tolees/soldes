@@ -27,10 +27,10 @@ Vous avez [Agfaphoto - AGFA PHOTO - Realipix Square S - Appareil Photo Numériqu
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- 9 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- COMBO APPAREIL PHOTO INSTANTANÉ + IMPRIMANTE CONNECTÉE – Le Realipix Square S permet de prendre une photo et de l’imprimer instantanément mais également d’imprimer les photos depuis votre smartphone
-- 4PASS LA MEILLEURE QUALITÉ PHOTO – L’appareil photo instantané Realipix Square S utilise la technologie d’impression par sublimation thermique (également appelé 4Pass). Les quatre passages d’impression (jaune, magenta, cyan et une couche de protection) as
 - PHOTO CARRÉE 7,6x7,6 cm – 3x3’’ – Un format original et idéal pour partager et conserver vos plus beaux moments
+- 4PASS LA MEILLEURE QUALITÉ PHOTO – L’appareil photo instantané Realipix Square S utilise la technologie d’impression par sublimation thermique (également appelé 4Pass). Les quatre passages d’impression (jaune, magenta, cyan et une couche de protection) as
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- COMBO APPAREIL PHOTO INSTANTANÉ + IMPRIMANTE CONNECTÉE – Le Realipix Square S permet de prendre une photo et de l’imprimer instantanément mais également d’imprimer les photos depuis votre smartphone
+- 9 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V5Q9FR8/?tag=tolees0d-21)
