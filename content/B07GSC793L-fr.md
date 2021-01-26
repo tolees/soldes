@@ -27,10 +27,10 @@ C'est en vente [Moulinex Masterchef Gourmet Robot Pâtissier 1100W et 8 Vitesses
 
 ℹ️:
 
-- KIT PÂTISSIER INCLUS : petit fouet Flex breveté pour les petites préparations, batteur en fonte pour les pâtes à pâtisserie et pétrin en fonte pour les pâtes épaisses
-- Réparabilité 10 ans, Garantie 2 ans
-- ROBOT MULTIFONCTION : avec mouvement planétaire pour un mélange optimal et une technologie brevetée de fouet Flex pour des émulsions parfaitement homogènes
-- GRANDE CAPACITÉ : bol en inox de 4,6L et couvercle de protection
 - PUISSANCE : 1100 W, 8 vitesses et une fonction pulse
+- GRANDE CAPACITÉ : bol en inox de 4,6L et couvercle de protection
+- Réparabilité 10 ans, Garantie 2 ans
+- KIT PÂTISSIER INCLUS : petit fouet Flex breveté pour les petites préparations, batteur en fonte pour les pâtes à pâtisserie et pétrin en fonte pour les pâtes épaisses
+- ROBOT MULTIFONCTION : avec mouvement planétaire pour un mélange optimal et une technologie brevetée de fouet Flex pour des émulsions parfaitement homogènes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GSC793L/?tag=tolees0d-21)
