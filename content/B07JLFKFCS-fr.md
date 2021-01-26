@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Bateau de Sauvetage et Pompi avec 39.93 % rabais '
-date: 2021-01-25 01:31:58
+date: 2021-01-26 20:32:40
 image: 'https://m.media-amazon.com/images/I/51ssv4NOnWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21'
 descuento: '39.93'
-average: '27.6218965517241'
+average: '27.4018333333333'
 ---
 
 C'est en vente [Playmobil - Bateau de Sauvetage et Pompiers - 70147](https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21)  à  39.93 % de réduction, prix final  21.02 EUR (original: 34.99 EUR) ici:
@@ -28,8 +28,8 @@ C'est en vente [Playmobil - Bateau de Sauvetage et Pompiers - 70147](https://www
 ℹ️:
 
 - Bateau flottant
-- Treuil inclus
 - Toit amovible
+- Treuil inclus
 - 2 figurines avec accessoires
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21)

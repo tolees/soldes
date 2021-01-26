@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '25.34 % rabais sur Cool Maker - 6046941 - Jouet Enfant - Lo'
-date: 2021-01-17 13:43:23
+date: 2021-01-26 21:41:21
 image: 'https://m.media-amazon.com/images/I/514rBUsug-L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07P5ZWT6L-fr'
+slug: 'B07P5ZWT6L-fr Cool Maker - 6046941 - Jouet Enfant - Loisirs Créatifs -...'
+sku: 'B07P5ZWT6L-fr'
+tags: [  ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39
@@ -25,13 +27,13 @@ Vous avez [Cool Maker - 6046941 - Jouet Enfant - Loisirs Créatifs - Go Glam Nai
 
 ℹ️:
 
-- Vernis qui s’enlève à l’eau, spécialement conçu pour les enfants
-- A partir de 8 ans
-- Un top coat est fourni pour finaliser la manucure et donner un effet brillant et glamour
-- La machine s’adapte à toutes tailles d’ongles
-- 1 machine, 5 cartouches de motifs, 2 vernis et 1 protège-vernis inclus pour décorer jusquà 125 ongles
-- Une superbe trousse pour ranger la machine et ses accessoires fournis
-- Choisis ta couleur de vernis et applique un motif pour réaliser une manucure parfaite
-- Le cadeau danniversaire ou de Noël idéal
+- The machine fits all nail sizes
+- A top coat is provided to finish the manicure and give a shiny and glamorous effect
+- From 8 years
+- Water remover nail polish, specially designed for children
+- 1 machine, 5 pattern cartridges, 2 varnish and 1 varnish protector included to decorate up to 125 nails
+- Choose your nail polish colour and apply a pattern to create the perfect manicure
+- The perfect birthday or Christmas gift
+- A great bag for storing the machine and its accessories included
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P5ZWT6L/?tag=tolees0d-21)
