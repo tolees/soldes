@@ -27,10 +27,10 @@ C'est en vente [Ubisoft - Assassin s Creed Valhalla - Édition Limitée Amazon -
 
 ℹ️:
 
-- Faites grandir votre colonie
 - Écrivez votre propre saga viking
-- Un monde ouvert situé dans les âges obscurs du Moyen Âge
 - Un système de combat viscéral
 - Menez des raids épiques
+- Un monde ouvert situé dans les âges obscurs du Moyen Âge
+- Faites grandir votre colonie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087QTHDFB/?tag=tolees0d-21)
