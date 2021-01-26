@@ -28,11 +28,11 @@ C'est en vente [PUNCH POWER - Punchy Bar Amande - Présentoir 40 barres x 30g - 
 ℹ️:
 
 - Elle apporte vitalité à lorganisme et les carburants nécessaires au travail musculaire.
-- Réduction de la fatigue grâce aux vitamines B12, B2, B6, B9.
 - Punch Power est, depuis près de 20 ans la marque française, la plus naturelle dans le milieu du sport. Pour beaucoup certifiés biologiques, les produits répondent aux attentes de tous les sportifs.
+- Regain dénergie avec la vitamine C - Antioxydante, elle aide à protéger les cellules contre le stress oxydatif et contribue à maintenir le fonctionnement normal du système immunitaire
 - La Punchy Bar Amande Punch Power est une barre énergétique pour le sport.
 - 1 barre/ heure dactivité sportive en complément de la boisson de leffort. Lors dune recharge hyperglucidique les jours précedant une épreuve, utiliser 1 à 2 barres / jour en collation.
+- Réduction de la fatigue grâce aux vitamines B12, B2, B6, B9.
 - La Punchy barre est adaptée à tout types de sport extérieur : trail, marathon, triathlon, cyclisme... Elle complètera parfaitement les autres produits énergétiques de la gamme Punch POWER.
-- Regain dénergie avec la vitamine C - Antioxydante, elle aide à protéger les cellules contre le stress oxydatif et contribue à maintenir le fonctionnement normal du système immunitaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B013OVOKPW/?tag=tolees0d-21)

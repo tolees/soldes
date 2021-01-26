@@ -27,12 +27,12 @@ C'est en vente [Funko Pop! Heroes: Batman Returns - Penguin Multicoleur](https:/
 
 ℹ️:
 
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
 - La figurine mesure 9 cm et est livrée dans une boîte de présentation.
-- Découvrez les autres figurines Batman de Funko Collectionnez-les tous.
-- De Batman Returns, Pingouin, en vinyle Pop stylisé de Funko
-- Funko Pop est le jouet 2018 de lannée
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
 - Issue de la gamme Batman Returns, la figurine Penguin rejoint la collection Funko POP
+- Découvrez les autres figurines Batman de Funko Collectionnez-les tous.
+- Funko Pop est le jouet 2018 de lannée
+- De Batman Returns, Pingouin, en vinyle Pop stylisé de Funko
 - Collectionnez-les tous
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZZP7PJD/?tag=tolees0d-21)

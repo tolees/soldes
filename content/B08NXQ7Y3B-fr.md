@@ -27,10 +27,10 @@ C'est en vente [Dell Inspiron 14 5402 Ordinateur Portable Platinum Silver 14.0-i
 
 ℹ️:
 
+- Processeur Intel Core i5-1135G7 (8Mo Cache), 8Go DDR4-SDRAM, 512Go SSD, 35.6 cm (14") Full HD 1920 x 1080 WVA, Intel Iris Xe Graphics, WLAN, Webcam, Windows 10 Home 64-bit
+- Instantanément opérationnel : un capteur intégré au capot vous permet d’ouvrir l’ordinateur et de le mettre sous tension en un instant, quel que soit l’état d’alimentation.
 - Connectivité : 2 Ports de type A USB 3.2 Gen 1 (3.1 Gen 1), 1 Port de type C USB 3.2 Gen 2 (3.1 Gen 2), HDMI1.4, Combo casque / microphone Port. GARANTIE 2 ANS CONSTRUCTEUR
 - DELL MOBILE CONNECT - Intégration PC/smartphone fluide : la technologie couple votre smartphone Android ou iOS à votre ordinateur portable pour vous permettre d’accéder à plusieurs appareils sans vous déconcentrer
-- Processeur Intel Core i5-1135G7 (8Mo Cache), 8Go DDR4-SDRAM, 512Go SSD, 35.6 cm (14") Full HD 1920 x 1080 WVA, Intel Iris Xe Graphics, WLAN, Webcam, Windows 10 Home 64-bit
 - LECTEUR D’EMPREINTES DIGITALES - ECRAN antireflet Full HD 14,0" 1920 x 1080 pixels. Clavier Rétro-Eclairé.
-- Instantanément opérationnel : un capteur intégré au capot vous permet d’ouvrir l’ordinateur et de le mettre sous tension en un instant, quel que soit l’état d’alimentation.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08NXQ7Y3B/?tag=tolees0d-21)

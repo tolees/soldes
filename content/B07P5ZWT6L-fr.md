@@ -28,12 +28,12 @@ Vous avez [Cool Maker - 6046941 - Jouet Enfant - Loisirs Créatifs - Go Glam Nai
 ℹ️:
 
 - The machine fits all nail sizes
-- A top coat is provided to finish the manicure and give a shiny and glamorous effect
-- From 8 years
 - Water remover nail polish, specially designed for children
-- 1 machine, 5 pattern cartridges, 2 varnish and 1 varnish protector included to decorate up to 125 nails
-- Choose your nail polish colour and apply a pattern to create the perfect manicure
-- The perfect birthday or Christmas gift
 - A great bag for storing the machine and its accessories included
+- Choose your nail polish colour and apply a pattern to create the perfect manicure
+- From 8 years
+- A top coat is provided to finish the manicure and give a shiny and glamorous effect
+- 1 machine, 5 pattern cartridges, 2 varnish and 1 varnish protector included to decorate up to 125 nails
+- The perfect birthday or Christmas gift
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P5ZWT6L/?tag=tolees0d-21)
