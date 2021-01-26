@@ -27,9 +27,9 @@ Vous avez [Hip-O Records - are What You is](https://www.amazon.fr/dp/B008PPUMYQ/
 
 ℹ️:
 
-- Record Label: Universal
-- Catalog#: 08243 0238642
 - Country Of Release: NLD
 - Year Of Release: 2012
+- Record Label: Universal
+- Catalog#: 08243 0238642
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008PPUMYQ/?tag=tolees0d-21)

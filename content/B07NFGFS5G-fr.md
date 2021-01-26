@@ -1,40 +1,41 @@
 ---
 layout: post
-title: 'Kipling CLASS ROOM Cartable  43 cm  28 l avec 45.12 % rabais '
-date: 2021-01-20 09:45:18
+title: 'Kipling CLASS ROOM Cartable  43 cm  28 l avec 44.98 % rabais '
+date: 2021-01-26 13:58:37
 image: 'https://m.media-amazon.com/images/I/51temn0lgBL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07NFGFS5G-fr Kipling CLASS ROOM Cartable 43 cm 28 liters Multicolore...'
+sku: 'B07NFGFS5G-fr'
 tags: [  ]
-actualPrice: 70.8 EUR
+actualPrice: 70.98 EUR
 currency: EUR
-price: 70.8
+price: 70.98
 comparePrice: 129.0 EUR
 prodname: 'Kipling CLASS ROOM Cartable  43 cm  28 liters  Multicolore  Hearty Pink Met '
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07NFGFS5G/?tag=tolees0d-21'
-descuento: '45.12'
-average: '70.68'
+descuento: '44.98'
+average: '70.78'
 ---
 
-C'est en vente [Kipling CLASS ROOM Cartable  43 cm  28 liters  Multicolore  Hearty Pink Met ](https://www.amazon.fr/dp/B07NFGFS5G/?tag=tolees0d-21)  à  45.12 % de réduction, prix final  70.8 EUR (original: 129.0 EUR) ici:
+C'est en vente [Kipling CLASS ROOM Cartable  43 cm  28 liters  Multicolore  Hearty Pink Met ](https://www.amazon.fr/dp/B07NFGFS5G/?tag=tolees0d-21)  à  44.98 % de réduction, prix final  70.98 EUR (original: 129.0 EUR) ici:
 
 [![Kipling CLASS ROOM Cartable  43 cm  28 l](https://m.media-amazon.com/images/I/51temn0lgBL._SL200_.jpg)](https://www.amazon.fr/dp/B07NFGFS5G/?tag=tolees0d-21)
 
 ℹ️:
 
-- Dos matelassé ergonomique
-- Résistant à leau
 - Bretelles ajustables et matelassées
-- Poignée matelassée
-- Logo Kipling rond
-- Deux compartiments principaux (zippés)
-- Bande réfléchissante
-- Quatre compartiments fonctionnels (téléphone + stylo + portefeuille + ordinateur)
 - Compartiment pour ordinateur 15 pouces
+- Deux compartiments principaux (zippés)
+- Logo Kipling rond
+- Résistant à leau
 - Une poche interne (zippée)
+- Quatre compartiments fonctionnels (téléphone + stylo + portefeuille + ordinateur)
+- Bande réfléchissante
+- Poignée matelassée
+- Dos matelassé ergonomique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NFGFS5G/?tag=tolees0d-21)
