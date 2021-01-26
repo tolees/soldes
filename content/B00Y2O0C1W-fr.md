@@ -27,10 +27,10 @@ C'est en vente [APC BY SCHNEIDER ELECTRIC - APC Surge Arrest Home / Office - PMH
 
 ℹ️:
 
-- Suppression de surtension téléphonique et coaxiale assurant une protection contre les surtensions dangereuses circulant sur les lignes de données
-- Indicateurs LED de défaut de câblage du site et dactivation de la protection - sécurité enfants intégrée
-- Parasurtenseur robuste de 6 prises (dont 2 plus eloignées) offrant une protection des équipements électroniques sensibles contre les perturbations de courant telles que les surtensions et les pics de tensions
-- Câble dalimentation de 2,75 m - Police de protection des équipements connectés jusquà 75 000 €
 - Inclus: parasurtenseur, manuel dutilisation
+- Suppression de surtension téléphonique et coaxiale assurant une protection contre les surtensions dangereuses circulant sur les lignes de données
+- Câble dalimentation de 2,75 m - Police de protection des équipements connectés jusquà 75 000 €
+- Parasurtenseur robuste de 6 prises (dont 2 plus eloignées) offrant une protection des équipements électroniques sensibles contre les perturbations de courant telles que les surtensions et les pics de tensions
+- Indicateurs LED de défaut de câblage du site et dactivation de la protection - sécurité enfants intégrée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00Y2O0C1W/?tag=tolees0d-21)

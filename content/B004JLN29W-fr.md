@@ -28,8 +28,8 @@ C'est en vente [Ariete 447 Râpe Électrique Rechargeable Orange](https://www.am
 ℹ️:
 
 - Idéal pour râper du fromage, du chocolat, les fruits secs (noix, noisettes…), pain sec
+- Râpe électrique sans fil
 - Démontage facile
 - Compatible lave vaisselle
-- Râpe électrique sans fil
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004JLN29W/?tag=tolees0d-21)
