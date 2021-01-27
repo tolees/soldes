@@ -27,10 +27,10 @@ C'est en vente [Levi s 724 High Rise Straight Jean Droit  to The Nine  30W / 32L
 
 ℹ️:
 
-- Droit
-- Fermeture : bouton
 - 84 % coton, 14 % polyester, 2 % élasthanne
-- Ne se lave pas
+- Fermeture : bouton
 - haute
+- Droit
+- Ne se lave pas
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FWVYVGP/?tag=tolees0d-21)

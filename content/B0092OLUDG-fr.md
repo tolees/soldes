@@ -27,10 +27,10 @@ Vous avez [Levi s 511 Slim Fit Jean Homme  Bleu  Rain Shower   30W / 30L](https:
 
 ℹ️:
 
-- Composition : 99 % coton, 1 % élasthanne.
+- Style : étroit.
 - Convient pour : homme.
 - La station idéale : pour toutes les saisons.
 - Taille : W26/L30.
-- Style : étroit.
+- Composition : 99 % coton, 1 % élasthanne.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0092OLUDG/?tag=tolees0d-21)

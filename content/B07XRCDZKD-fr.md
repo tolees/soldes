@@ -27,10 +27,10 @@ C'est en vente [LIGE Montre Homme Mode Ultra-Mince Classique Noir Montre Simple 
 
 ℹ️:
 
-- ⌚ Comfortable Strap - Durable,breathable and comfortable black mesh strap and IP gold plating watch case never fade, suitable for daily wear.Send a DIY adjustment tool can adjust bracelet length.
-- ⌚ Minimalist Fashion Design - Minimalist dial design, 30M waterproof.30m(3ATM/98FT) water resistant is suitable for everyday used. Splash/rain resistant,High quality watch will be a perfect gift for your relatives and friends.
 - ☎ Purchase without Worry - Please dont worry any problem. All watch are enjoy 12 months product quality maintenance and 30-day replacement . Come with a black stylish box and a microfiber .
-- ⌚ Slim Watch - clear lines draw the outline of a unique texture. japanese quartz movement and high quality battery, providing precise time keeping, will serve for more than 3 years.
 - ⌚ Using Range - Fashion ,Dress,Leisure, and business occasions. It is more suitable as a gift for women men.
+- ⌚ Minimalist Fashion Design - Minimalist dial design, 30M waterproof.30m(3ATM/98FT) water resistant is suitable for everyday used. Splash/rain resistant,High quality watch will be a perfect gift for your relatives and friends.
+- ⌚ Comfortable Strap - Durable,breathable and comfortable black mesh strap and IP gold plating watch case never fade, suitable for daily wear.Send a DIY adjustment tool can adjust bracelet length.
+- ⌚ Slim Watch - clear lines draw the outline of a unique texture. japanese quartz movement and high quality battery, providing precise time keeping, will serve for more than 3 years.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XRCDZKD/?tag=tolees0d-21)

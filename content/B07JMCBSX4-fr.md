@@ -27,8 +27,8 @@ Vous avez [Playmobil - Maison de Ville - 70014](https://www.amazon.fr/dp/B07JMCB
 
 ℹ️:
 
-- Avec un étage, des fenêtres décorées avec des balcons, des meubles et des autocollants pour personnaliser la maison
 - Les tenues sont interchangeables
+- Avec un étage, des fenêtres décorées avec des balcons, des meubles et des autocollants pour personnaliser la maison
 - Dimensions : 26 x 33 x 40 cm (LxPxH)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JMCBSX4/?tag=tolees0d-21)

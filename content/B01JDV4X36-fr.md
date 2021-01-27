@@ -28,7 +28,7 @@ Vous avez [Timberland Killington  Sneakers Montantes Homme  Jaune Wheat Nubuck  
 ℹ️:
 
 - Fermeture : lacets.
-- Doublure : tissu.
 - Matériau de la semelle : caoutchouc.
+- Doublure : tissu.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21)

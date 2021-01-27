@@ -27,10 +27,10 @@ Vous avez [FHB 60064-20-86 Gustav Pantalon de chantier Taille 86 Noir](https://w
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- 3 sacs de pliage avec passepoil en cuir véritable et la doublure de poche lourde
 - Pen et poche de téléphone mobile sur la cuisse et une poche secrète dans les bavoir
 - Les pantalons coupés asymétriques garantit un excellent confort
-- 3 sacs de pliage avec passepoil en cuir véritable et la doublure de poche lourde
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HW4ZXO0/?tag=tolees0d-21)
