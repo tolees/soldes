@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grand circuit Vilacity pour enfant - Vil avec 36.83 % rabais '
-date: 2021-01-25 23:13:50
+date: 2021-01-26 23:36:44
 image: 'https://m.media-amazon.com/images/I/516NKbRnFZL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ C'est en vente [Grand circuit Vilacity pour enfant - Vilac - 2354](https://www.a
 
 ℹ️:
 
-- 35 pièces en bois
 - Livré avec 3 voitures en bois
+- 35 pièces en bois
 - Circuit automobile 90 cm
 - Compatible gamme Vila city
 
