@@ -28,9 +28,9 @@ Vous avez [Delson 2505BK Piano droit pour enfant Noir](https://www.amazon.fr/dp/
 ℹ️:
 
 - Bois massif
-- dimension : 49 x 42 x 25 cm
-- Accord chromatique
 - Piano droit enfant 25 touches
+- Accord chromatique
 - Poids: 6 kg
+- dimension : 49 x 42 x 25 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002EA4ZJG/?tag=tolees0d-21)

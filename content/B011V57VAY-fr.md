@@ -27,11 +27,11 @@ C'est en vente [Puma Epic Flip v2  Tongs Mixte Adulte  Noir  Black/White   42 EU
 
 ℹ️:
 
+- Semelle intérieure: Textile
 - Dessus: Synthétique
+- Doublure: Textile
 - Fermeture: A enfiler
 - Type de talons: Plat
 - Matériau de semelle: Synthétique
-- Doublure: Textile
-- Semelle intérieure: Textile
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B011V57VAY/?tag=tolees0d-21)
