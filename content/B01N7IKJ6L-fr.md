@@ -27,15 +27,15 @@ Vous avez [Krups Nespresso - Nespresso Krups Machine Expresso Vertuo Plus Titane
 
 ℹ️:
 
-- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur de café choisie
-- 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à l’Alto, en passant par le Mug
+- RESERVOIR DEAU MODULABLE
+- UN SYSTÈME D’EXTRACTION EXCLUSIF, la CENTRIFUSION, alliant infusion et force centrifuge pour un café de haute qualité
 - RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
 - ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
+- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur de café choisie
 - EJECTION AUTOMATIQUE DES CAPSULES
-- RESERVOIR DEAU MODULABLE
 - CAPSULES : 28 VARIETES DE CAFE Vertuo dans 5 longueurs de tasses : 40ml, 80ml, 150ml, 230ml, 410ml
-- UN SYSTÈME D’EXTRACTION EXCLUSIF, la CENTRIFUSION, alliant infusion et force centrifuge pour un café de haute qualité
-- Garantie 2 ans
 - OUVERTURE ET FERMETURE ELECTRONIQUES
+- 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à l’Alto, en passant par le Mug
+- Garantie 2 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N7IKJ6L/?tag=tolees0d-21)
