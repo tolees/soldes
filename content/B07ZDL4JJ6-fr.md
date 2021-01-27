@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.90 % rabais sur Xiaomi Redmi Note 8 Pro - Smartphone Déb'
-date: 2021-01-26 02:44:04
+date: 2021-01-27 14:23:15
 image: 'https://m.media-amazon.com/images/I/41tuRUGIZ-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07ZDL4JJ6/?tag=tolees0d-21'
 descuento: '28.90'
-average: '235.765714285714'
+average: '234.744444444444'
 ---
 
 Vous avez [Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces - 6Go RAM - 128Go Stockage - Double Nano-SIM  Quad Caméra – NFC  Bleu - Version Française - [Exclusivité Amazon]](https://www.amazon.fr/dp/B07ZDL4JJ6/?tag=tolees0d-21)  à  28.90 % de réduction, prix final  199.0 EUR (original: 279.9 EUR) ici:
@@ -28,10 +28,10 @@ Vous avez [Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces - 6Go
 ℹ️:
 
 - Quatre caméras arrière, caméra principale ultra HD 64MP
-- Résolution daffichage: 2340 x 1080
 - Navigation et positionnement: GPS/A-GPS/Galileo/Glonass/Beidou
-- Processeur G90T liquidcool system
-- 4500mAh (Typa) high-capacité batterie
 - Écran 6.53” FHD+ dot drop display
+- 4500mAh (Typa) high-capacité batterie
+- Résolution daffichage: 2340 x 1080
+- Processeur G90T liquidcool system
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ZDL4JJ6/?tag=tolees0d-21)
