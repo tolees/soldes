@@ -27,9 +27,9 @@ C'est en vente [Grand circuit Vilacity pour enfant - Vilac - 2354](https://www.a
 
 ℹ️:
 
-- Livré avec 3 voitures en bois
-- 35 pièces en bois
 - Circuit automobile 90 cm
 - Compatible gamme Vila city
+- 35 pièces en bois
+- Livré avec 3 voitures en bois
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01JTMO99C/?tag=tolees0d-21)

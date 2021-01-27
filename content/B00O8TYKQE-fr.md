@@ -27,10 +27,10 @@ Vous avez [Somfy 2401224 - Capteur de Consommation Électrique | Effet joule | C
 
 ℹ️:
 
-- Mesure la consommation électrique de votre chauffage, votre eau chaude sanitaire et de vos prises électriques et/ou de votre logement
-- Définissez 2 zones de chauffage pour les radiateurs électriques fil pilote et contrôlez-les avec linterface TaHoma
-- Connecté à TaHoma, il vous permet de visualiser sous forme de courbes, sur votre smartphone, ou votre tablette, vos consommations électriques mesurées à la semaine, au mois ou à lannée et de faire des économies dénergie
 - Changez le mode de vos radiateurs pour les basculer en mode éco, confort, hors gel ou off ; de chez vous ou à distance
+- Mesure la consommation électrique de votre chauffage, votre eau chaude sanitaire et de vos prises électriques et/ou de votre logement
+- Connecté à TaHoma, il vous permet de visualiser sous forme de courbes, sur votre smartphone, ou votre tablette, vos consommations électriques mesurées à la semaine, au mois ou à lannée et de faire des économies dénergie
+- Définissez 2 zones de chauffage pour les radiateurs électriques fil pilote et contrôlez-les avec linterface TaHoma
 - Sinstalle dans un tableau électrique, sur rail DIN
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00O8TYKQE/?tag=tolees0d-21)
