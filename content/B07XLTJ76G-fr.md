@@ -27,13 +27,13 @@ Vous avez [Microsoft – Souris Arc – souris Bluetooth pour PC  ordinateurs po
 
 ℹ️:
 
-- Compatible Windows et Mac
-- Utilisation confortable et ambidextre
+- S’aplatit pour être transportée facilement
+- Pavé tactile pour défilements verticaux et horizontaux
 - Technologie Bluetrack
 - Ultrafine et légère
-- Pavé tactile pour défilements verticaux et horizontaux
-- S’aplatit pour être transportée facilement
+- Compatible Windows et Mac
 - Autonomie : jusqu’à 6 mois
+- Utilisation confortable et ambidextre
 - Technologie sans fil Bluetooth Smart 4.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XLTJ76G/?tag=tolees0d-21)
