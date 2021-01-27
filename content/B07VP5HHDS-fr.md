@@ -27,7 +27,7 @@ C'est en vente [Kaspersky Internet Security 2021  5 Postes / 1 An ](https://www.
 
 ℹ️:
 
-- Vous permet de bloquer les sites méchants, de gérer le temps décran et de localiser vos enfants sur une carte avec GPS
 - KL1939F5EFS-20. operating_system: mac_os_x
+- Vous permet de bloquer les sites méchants, de gérer le temps décran et de localiser vos enfants sur une carte avec GPS
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VP5HHDS/?tag=tolees0d-21)

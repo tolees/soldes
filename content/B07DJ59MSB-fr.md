@@ -27,8 +27,8 @@ C'est en vente [Lacoste Chaymon BL 1 CMA  Baskets Hommes  Bleu  Navy/White   43 
 
 ℹ️:
 
-- Dessus : synthétique
 - Doublure : textile
 - Fermeture : lacets
+- Dessus : synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJ59MSB/?tag=tolees0d-21)
