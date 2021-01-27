@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.26 % rabais sur Warner Home Video - Tenet [Blu-Ray]'
-date: 2021-01-26 02:58:04
+date: 2021-01-27 08:36:25
 image: 'https://m.media-amazon.com/images/I/41knX-WbgoL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B08MSFDQPR/?tag=tolees0d-21'
 descuento: '20.26'
-average: '24.4633333333333'
+average: '24.3116949152542'
 ---
 
 Vous avez [Warner Home Video - Tenet [Blu-Ray]](https://www.amazon.fr/dp/B08MSFDQPR/?tag=tolees0d-21)  à  20.26 % de réduction, prix final  19.99 EUR (original: 25.07 EUR) ici:

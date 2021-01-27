@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.36 % rabais sur Sony MDR-1AM2 Casque Hi-Res Audio - Noir'
-date: 2021-01-26 02:32:47
+date: 2021-01-27 08:55:51
 image: 'https://m.media-amazon.com/images/I/41SbjtcBqzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21'
 descuento: '41.36'
-average: '150.816111111112'
+average: '149.667894736843'
 ---
 
 Vous avez [Sony MDR-1AM2 Casque Hi-Res Audio - Noir](https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21)  à  41.36 % de réduction, prix final  129.0 EUR (original: 220.0 EUR) ici:
@@ -27,12 +27,12 @@ Vous avez [Sony MDR-1AM2 Casque Hi-Res Audio - Noir](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
+- Diaphragme en film polymère à cristaux liquides réactif pour plus de clarté
+- Sensibilités (dB/mW): 98 dB/mW
 - Profitez de votre musique dans sa qualité originale grâce au Hi-Res Audio. Type de cordon: OFC détachable / argenté. Style dusure: Circumaural
 - Des basses puissantes avec la technologie Beat Response Control
-- Sensibilités (dB/mW): 98 dB/mW
-- Le design enveloppant et fermé retient le son à lintérieur. Diaphragme: LCP revêtu daluminium
 - Oreillettes pivotantes pour un transport aisé; Coussinets anti-pression pour un confort total
-- Diaphragme en film polymère à cristaux liquides réactif pour plus de clarté
 - Longueur de la corde:47-1 / 4 "
+- Le design enveloppant et fermé retient le son à lintérieur. Diaphragme: LCP revêtu daluminium
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21)
