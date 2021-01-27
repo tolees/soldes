@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canadian Peak - Veste Homme TOKANO Bleu  avec 49.60 % rabais '
-date: 2021-01-23 22:29:10
+date: 2021-01-27 18:03:59
 image: 'https://m.media-amazon.com/images/I/31EVAMHMhgL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ C'est en vente [Canadian Peak - Veste Homme TOKANO Bleu Marine XL](https://www.a
 
 ℹ️:
 
+- Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
 - Automne Hiver Saison 2019
 - 100% polyester
-- Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082V5N7RX/?tag=tolees0d-21)

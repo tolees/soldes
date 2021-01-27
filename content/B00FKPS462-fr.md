@@ -27,7 +27,7 @@ Vous avez [Makita DC18WA Chargeur Lithium-Ion  14.4-18 V](https://www.amazon.fr/
 
 ℹ️:
 
-- Makita DC18WA Chargeur Lithium-Ion, 14.4-18 V
 - Remarque: ce chargeur de batterie est destiné aux batteries de la série Makita G et nest pas compatible avec le système de batterie Makita LXT ; À utiliser avec BL1813G et BL1413G et compatible avec DF457D, HP457D, JV183D, TD127D, UR180D, UH522D, CL183D et autres produits de la série G
+- Makita DC18WA Chargeur Lithium-Ion, 14.4-18 V
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FKPS462/?tag=tolees0d-21)

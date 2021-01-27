@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canadian Peak Parka Homme CASIMEAK Bleu  avec 61.32 % rabais '
-date: 2021-01-23 22:28:44
+date: 2021-01-27 18:03:36
 image: 'https://m.media-amazon.com/images/I/412hkXXieAL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,8 @@ C'est en vente [Canadian Peak Parka Homme CASIMEAK Bleu Marine XXL](https://www.
 
 ℹ️:
 
-- Automne Hiver Saison 2019
 - 100% polyester
+- Automne Hiver Saison 2019
 - Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0831QHQHG/?tag=tolees0d-21)

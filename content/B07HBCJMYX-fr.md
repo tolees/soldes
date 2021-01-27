@@ -27,10 +27,10 @@ C'est en vente [Madcatz RAT 6+ Noir - Souris gamer filaire personnalisable - 11 
 
 ℹ️:
 
-- fourni avec 3x poids de 6g
-- LEDs RGB programmables
 - Capteur Pixart PMW3360 (12000 DPI max) et commutateurs OMRON (50 millions de clics) pour ne manquer aucune action
 - Repose-main ajustable pour une préhension optimale en "Poignée Palm", "griffe" ou "Pointe de doigt"
 - 11 boutons programmables (dont le "Précision" idéal pour les snipers) et mémoire intégrée (4 profiles de macro, sensibilité et éclairage)
+- LEDs RGB programmables
+- fourni avec 3x poids de 6g
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HBCJMYX/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Canadian Peak Parka Homme Antidote Bleu  avec 53.57 % rabais '
-date: 2021-01-23 22:28:46
+date: 2021-01-27 18:04:22
 image: 'https://m.media-amazon.com/images/I/41tDXHug+pL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ C'est en vente [Canadian Peak Parka Homme Antidote Bleu Marine S](https://www.am
 ℹ️:
 
 - Automne Hiver Saison 2019
-- Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
 - 100% polyester
+- Température maximale 30º. Lavage et rinçage à action mécanique et essorage court.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082V5PW7V/?tag=tolees0d-21)

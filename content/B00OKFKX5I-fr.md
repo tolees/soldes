@@ -29,8 +29,8 @@ C'est en vente [Diesel Homme Chronographe Quartz Montre avec Bracelet en Acier I
 
 - Étanchéité jusqu’à 100 m : peut être portée pour la baignade, la natation ou la plongée en apnée et la plongée en eaux peu profondes
 - Produit emballé dans un coffret cadeau Diesel
-- Boîtier de 51 mm, largeur de bracelet de 26 mm, cristaux minéraux, mouvement à quartz avec affichage analogique du chronographe
 - Bracelet en acier inoxydable gunmetal
 - Boîtier rond gunmetal en acier inoxydable, cadran bleu
+- Boîtier de 51 mm, largeur de bracelet de 26 mm, cristaux minéraux, mouvement à quartz avec affichage analogique du chronographe
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00OKFKX5I/?tag=tolees0d-21)
