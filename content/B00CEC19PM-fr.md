@@ -1,17 +1,19 @@
 ---
 layout: post
-title: 'Maries Deux Enfants Integrale 11 Saisons avec 50.15 % rabais '
-date: 2021-01-15 06:05:09
+title: 'Sony Pictures Entertainment - Maries Deu avec 50.15 % rabais '
+date: 2021-01-27 06:06:07
 image: 'https://m.media-amazon.com/images/I/61iWv4oEloL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00CEC19PM-fr'
+slug: 'B00CEC19PM-fr Sony Pictures Entertainment - Maries Deux Enfants...'
+sku: 'B00CEC19PM-fr'
+tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0
 comparePrice: 60.18 EUR
-prodname: 'Maries Deux Enfants Integrale 11 Saisons'
+prodname: 'Sony Pictures Entertainment - Maries Deux Enfants Integrale 11 Saisons'
 country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21'
@@ -19,15 +21,15 @@ descuento: '50.15'
 average: '30.0'
 ---
 
-C'est en vente [Maries Deux Enfants Integrale 11 Saisons](https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21)  à  50.15 % de réduction, prix final  30.0 EUR (original: 60.18 EUR) ici:
+C'est en vente [Sony Pictures Entertainment - Maries Deux Enfants Integrale 11 Saisons](https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21)  à  50.15 % de réduction, prix final  30.0 EUR (original: 60.18 EUR) ici:
 
-[![Maries Deux Enfants Integrale 11 Saisons](https://m.media-amazon.com/images/I/61iWv4oEloL._SL200_.jpg)](https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21)
+[![Sony Pictures Entertainment - Maries Deu](https://m.media-amazon.com/images/I/61iWv4oEloL._SL200_.jpg)](https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21)
 
 ℹ️:
 
 - regionCode : 2
 - productGroup : DVD
-- numberOfDiscs : 33
 - Date de sortie : 2012-10-16
+- numberOfDiscs : 33
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21)
