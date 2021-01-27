@@ -27,10 +27,10 @@ C'est en vente [Peak Mountain COLISEE/HEJ/N Doudoune réversible Homme  Noir  FR
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Doudoune réversible
-- Membrane 1000mm
-- 3 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Parka
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 3 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Membrane 1000mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q2CX95X/?tag=tolees0d-21)

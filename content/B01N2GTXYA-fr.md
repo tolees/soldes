@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '45.24 % rabais sur Wow Wee MIP Robot Jouets télécommandés A'
-date: 2021-01-23 16:14:18
+date: 2021-01-27 10:57:43
 image: 'https://m.media-amazon.com/images/I/41g3lCilzYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01N2GTXYA/?tag=tolees0d-21'
 descuento: '45.24'
-average: '45.73'
+average: '45.6833333333333'
 ---
 
 Vous avez [Wow Wee MIP Robot Jouets télécommandés AAA  Android  iOS](https://www.amazon.fr/dp/B01N2GTXYA/?tag=tolees0d-21)  à  45.24 % de réduction, prix final  45.59 EUR (original: 83.25 EUR) ici:

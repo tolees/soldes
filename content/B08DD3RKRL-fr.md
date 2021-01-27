@@ -27,10 +27,10 @@ C'est en vente [eXtremeRate PlayVital Coque arrière pour Nintendo Switch Consol
 
 ℹ️:
 
+- Rappel : certains interrupteurs sont plus serrés afin que la coque ne puisse pas être connectée. Si votre protecteur décran en verre trempé est épais, il peut ne pas être compatible avec Dock. Nous vous suggérons dutiliser le protecteur décran dépaisseur moyenne.
+- Caractéristiques personnalisées : la coque de protection Sakura rose légère est superbe ; excellente prise en main lisse, douce au toucher et soyeuse ; antidérapante, sans sueur pour une longue période de jeu.
 - Protection complète : le boîtier robuste est fabriqué en polycarbonate absorbant les chocs et les rayures. Il protège entièrement votre commutateur des chocs, des chutes, des rayures, de la poussière et prolonge la durée de vie de lappareil.
 - Ajustement parfait : conçu avec des découpes spécialement placées. Toutes les fonctionnalités du commutateur sont accessibles sans interférence. Vous pouvez retirer librement le Joycon gauche et droit de la console dinterrupteur sans retirer la coque.
 - Design personnalisé : personnalisez votre interrupteur sans remplacer ses coques. La coque de protection ergonomique pour Nintendo Switch vous offre une expérience confortable et une prise en main facile.
-- Caractéristiques personnalisées : la coque de protection Sakura rose légère est superbe ; excellente prise en main lisse, douce au toucher et soyeuse ; antidérapante, sans sueur pour une longue période de jeu.
-- Rappel : certains interrupteurs sont plus serrés afin que la coque ne puisse pas être connectée. Si votre protecteur décran en verre trempé est épais, il peut ne pas être compatible avec Dock. Nous vous suggérons dutiliser le protecteur décran dépaisseur moyenne.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DD3RKRL/?tag=tolees0d-21)
