@@ -27,10 +27,10 @@ C'est en vente [Rolimate Jouet en Bois Éducatif avec Jouet à Marteler 8 Notes 
 
 ℹ️:
 
+- Encourages audio recognition and musical development
 - For ages 12 months - 3 years
 - Pound and Tap while playing musical favorites
-- Non-toxic finishes and child safe materials
-- Encourages audio recognition and musical development
 - Easily sliding xylophone provides many ways to play
+- Non-toxic finishes and child safe materials
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071VLWFLQ/?tag=tolees0d-21)

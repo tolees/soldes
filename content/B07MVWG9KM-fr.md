@@ -27,10 +27,10 @@ C'est en vente [WD - My Passport Go 1TB - Disque SSD Portable - Finition Amber](
 
 ℹ️:
 
-- 2,5 x plus rapide que la plupart des disques durs portables, avec des performances jusquà 400 Mo/s
-- Le disque de poche comporte un câble intégré pour une portabilité pratique
-- Fonctionne aussi bien avec les PC que les Mac, avec un logiciel de sauvegarde automatique inclus pour Windows, et compatible avec Time Machine (reformatage nécessaire)
-- Disque SSD sans pièce mobile, délibérément conçu et fabriqué par WD pour une fiabilité de fonctionnement élevée.
 - Résiste aux chutes jusquà 2 mètres grâce à un pare-chocs en caoutchouc pour parer aux coups et aux secousses même lorsquil est branché.Température de fonctionnement: 0 ° C ~ + 35 ° C
+- 2,5 x plus rapide que la plupart des disques durs portables, avec des performances jusquà 400 Mo/s
+- Disque SSD sans pièce mobile, délibérément conçu et fabriqué par WD pour une fiabilité de fonctionnement élevée.
+- Fonctionne aussi bien avec les PC que les Mac, avec un logiciel de sauvegarde automatique inclus pour Windows, et compatible avec Time Machine (reformatage nécessaire)
+- Le disque de poche comporte un câble intégré pour une portabilité pratique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MVWG9KM/?tag=tolees0d-21)

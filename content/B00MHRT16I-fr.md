@@ -27,13 +27,13 @@ Vous avez [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Cr�
 
 ℹ️:
 
+- Dimensions : 38 x 33 x 21,5 cm
 - Age minimum : 3 ans
 - 35 pièces composent le set
-- Dimensions : 38 x 33 x 21,5 cm
-- Intérieur pour 6 élèves et un(e) instituteur(tric)
 - Age minimum : 3 ans
-- Intérieur pour 6 élèves et un(e) instituteur(tric)
 - Dimensions : 38 x 33 x 21,5 cm
+- Intérieur pour 6 élèves et un(e) instituteur(tric)
+- Intérieur pour 6 élèves et un(e) instituteur(tric)
 - 35 pièces composent le set
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21)

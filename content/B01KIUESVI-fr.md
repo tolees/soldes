@@ -30,8 +30,8 @@ C'est en vente [PNY SSD7CS900-240-PB Disque Flash SSD interne 240 Go SATA III No
 - Garantie 3 ans par le SAV PNY situé en France
 - Idéal pour booster le système et les applications de tous les types dordinateur
 - Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
-- Interface Serial ATA III/6 GBPs
 - Format Slim 7 mm
+- Interface Serial ATA III/6 GBPs
 - Capacité de 240 Go
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KIUESVI/?tag=tolees0d-21)

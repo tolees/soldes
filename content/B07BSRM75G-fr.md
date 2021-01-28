@@ -27,10 +27,10 @@ C'est en vente [Finish Pastilles Lave-Vaisselle Powerball All in One Max - 150 T
 
 ℹ️:
 
+- The first layer of the dishwasher tablets releases bubbles that diffuse powerful cleaning agents
 - 150 dishwasher shelves with water-soluble film
 - All in 1 Max dishwasher tablet with double layer eliminates the toughest stains
-- The second layer of the dishwasher tablets simultaneously ensures rinsing and salt functions for exceptional shine
-- The first layer of the dishwasher tablets releases bubbles that diffuse powerful cleaning agents
 - Finish All-in-1 Max ensures exceptional cleaning even in the toughest conditions
+- The second layer of the dishwasher tablets simultaneously ensures rinsing and salt functions for exceptional shine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BSRM75G/?tag=tolees0d-21)

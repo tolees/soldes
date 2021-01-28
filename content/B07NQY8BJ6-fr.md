@@ -27,10 +27,10 @@ Vous avez [Sylvanian Families - Le Village - Le Set Ameublement et Figurine Pour
 
 ℹ️:
 
-- Suitable for ages three years and above
-- Stimulates imaginative role-playing by children
-- Made with fine attention to detail
 - Suitable for ages three years and up
+- Stimulates imaginative role-playing by children
 - Good for stimulating imaginative role-play in children
+- Made with fine attention to detail
+- Suitable for ages three years and above
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NQY8BJ6/?tag=tolees0d-21)
