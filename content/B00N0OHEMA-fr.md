@@ -27,12 +27,12 @@ Vous avez [TP-Link Switch Ethernet  TL-SG105E  Gigabit 5 RJ45 Ports 10/100/1000M
 
 ℹ️:
 
-- SWITCH GIGABIT - 5 ports Ethernet Gigabit 10/100/1000 Mbps à auto-négociation, fonction Auto MDI/MDX
 - BOITIER MÉTAL - Modèle solide en boîtier métallique, idéal pour les sites industriels à risques
+- FONCTIONNEMENT SILENCIEUX - Avec la conception sans ventilateur, switch ethernet TL-SG105E convient à tout type denvironnement
 - GARANTIE A VIE : Sur les gammes professionnelles
 - TP-LINK GREEN TECHNOLOGIE - Grce à la technologie innovante déconomie dénergie, le switch ethernet TL-SG105E permet de réduire de la consommation dénergie
-- INSTALLATION FACILE - Plug and Play, Installation de switch ethernet TL-SG105E demande aucune configuration
-- FONCTIONNEMENT SILENCIEUX - Avec la conception sans ventilateur, switch ethernet TL-SG105E convient à tout type denvironnement
+- SWITCH GIGABIT - 5 ports Ethernet Gigabit 10/100/1000 Mbps à auto-négociation, fonction Auto MDI/MDX
 - WEB MANAGEABLE - Gestion intelligente via une interface utilisateur Web et un utilitaire téléchargeable
+- INSTALLATION FACILE - Plug and Play, Installation de switch ethernet TL-SG105E demande aucune configuration
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00N0OHEMA/?tag=tolees0d-21)
