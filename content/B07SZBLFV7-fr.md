@@ -1,12 +1,14 @@
 ---
 layout: post
 title: 'Chuck-Saisons 1-5-L intégrale de la séri avec 50.16 % rabais '
-date: 2021-01-16 06:36:48
+date: 2021-01-28 06:05:43
 image: 'https://m.media-amazon.com/images/I/51+Ea6W4BbL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07SZBLFV7-fr'
+slug: 'B07SZBLFV7-fr Chuck-Saisons 1-5-L intégrale de la série'
+sku: 'B07SZBLFV7-fr'
+tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0
