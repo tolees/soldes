@@ -1,0 +1,36 @@
+---
+layout: post
+title: 'Culotte Menstruelle - Capeebara - OekoTe avec 71.42 % rabais '
+date: 2021-01-28 18:47:31
+image: 'https://m.media-amazon.com/images/I/41FuNAKT5FL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B08QZ75KQN-fr Culotte Menstruelle - Capeebara - OekoTex - SHORTY...'
+sku: 'B08QZ75KQN-fr'
+tags: [  ]
+actualPrice: 19.99 EUR
+currency: EUR
+price: 19.99
+comparePrice: 69.95 EUR
+prodname: 'Culotte Menstruelle - Capeebara - OekoTex - SHORTY Absorbant - Shorty Absorbant Règles - Rosie le Shorty -  Lot de 3   S/36 '
+country: 'fr'
+flag: '🇫🇷'
+buyurl: 'https://www.amazon.fr/dp/B08QZ75KQN/?tag=tolees0d-21'
+descuento: '71.42'
+average: '19.99'
+---
+
+C'est en vente [Culotte Menstruelle - Capeebara - OekoTex - SHORTY Absorbant - Shorty Absorbant Règles - Rosie le Shorty -  Lot de 3   S/36 ](https://www.amazon.fr/dp/B08QZ75KQN/?tag=tolees0d-21)  à  71.42 % de réduction, prix final  19.99 EUR (original: 69.95 EUR) ici:
+
+[![Culotte Menstruelle - Capeebara - OekoTe](https://m.media-amazon.com/images/I/41FuNAKT5FL._SL200_.jpg)](https://www.amazon.fr/dp/B08QZ75KQN/?tag=tolees0d-21)
+
+ℹ️:
+
+- 🌺💁‍♀️ ROSIE LE SHORTY : Tout en restant sexy, Rosie absorbe léquivalent de 3 à 4 tampons. Idéale si votre flux est abondant. Il peut également servir en cas de pertes ou de légères fuites urinaires.
+- 🏡🌿 CAPEEBARA : Capeebara est une société française fondée sur des valeurs responsables qui sapplique à proposer des alternatives aux ustensiles jetables mais utiles de notre quotidien. Parce que nous sommes persuadés que "mieux vivre" rime avec "mieux consommer ", nous avons souhaité rendre cela facile, accessible et plaisant. 
+- 🧘‍♀ UTILISATION : Rincer à la main, à leau froide après chaque utilisation ; Laver en machine avec le reste du linge à 30° (ou à la main avec du savon); Sécher à lair libre. Ne pas utiliser de sèche linge ni dadoucissant.
+- 🛡 OEKO-TEX : La technologie Oeko-Tex vous garantie un matériel sans aucuns produits chimiques, autrement dit aucune irritabilité pour la peau.
+- ✋ TOLERANCE ZERO : Ce shorty vous garanti zéro odeur, zéro fuites, zéro déchet, zéro humidité et zéro produits toxiques.
+
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B08QZ75KQN/?tag=tolees0d-21)
