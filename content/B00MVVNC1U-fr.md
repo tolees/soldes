@@ -27,10 +27,10 @@ C'est en vente [Lacoste Polo  Homme  L1212  Baobab  XXL](https://www.amazon.fr/d
 
 ℹ️:
 
+- Lavage en machine
+- Fit Classic
+- Multipack: 1
 - 100% coton
 - Coupe classique
-- Multipack: 1
-- Fit Classic
-- Lavage en machine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00MVVNC1U/?tag=tolees0d-21)

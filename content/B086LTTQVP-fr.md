@@ -27,8 +27,8 @@ Vous avez [2K - Borderlands Legendary Collection](https://www.amazon.fr/dp/B086L
 
 ℹ️:
 
-- Cartouche + code
-- Le pack inclut les trois jeux borderlands 1 goty, borderlands 2 et borderlands: the pre-sequel, avec leur contenu additionnel
 - Nintendo switch
+- Le pack inclut les trois jeux borderlands 1 goty, borderlands 2 et borderlands: the pre-sequel, avec leur contenu additionnel
+- Cartouche + code
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086LTTQVP/?tag=tolees0d-21)
