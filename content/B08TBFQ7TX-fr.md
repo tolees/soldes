@@ -27,10 +27,10 @@ C'est en vente [Sincelo - Disque Dur Externe 1to Type C USB3.1 Disque Dur Extern
 
 ℹ️:
 
-- 【Haute vitesse】 Disque dur externe. Alimenté par la technologie USB 3.1, permettant une vitesse de transfert ultra rapide jusquà 5 Gbit / s
 - 【Plug and Play】 Ce lecteur externe est prêt à être utilisé sans alimentation externe ni installation de logiciel nécessaire. Stockage supplémentaire idéal pour votre ordinateur et votre console de jeu
+- 【Garantie】 Garantie constructeur dun an avec service dassistance technique gratuit
+- 【Haute vitesse】 Disque dur externe. Alimenté par la technologie USB 3.1, permettant une vitesse de transfert ultra rapide jusquà 5 Gbit / s
 - 【Compatibilité du système】 Compatibilité NTFS formaté pour Windows 10, Windows 8.1, Windows 7; Un reformatage peut être nécessaire pour dautres systèmes dexploitation;
 - 【Mince et durable】 Disque dur externe portable ultra mince protégé par un boîtier robuste et durable, léger et pratique, sadapte confortablement à votre paume ou se glisse dans la poche.
-- 【Garantie】 Garantie constructeur dun an avec service dassistance technique gratuit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08TBFQ7TX/?tag=tolees0d-21)

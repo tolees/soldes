@@ -27,10 +27,10 @@ C'est en vente [GORE Wear C3 Homme Veste GORE-TEX  M  Jaune fluo](https://www.am
 
 ℹ️:
 
-- Dos long, Taille ajustable, Poches zippées à lavant et à larrière, Compatible avec sac à dos
-- GORE C3 GORE-TEX Active Jacket, Taille: M, Couleur: Jaune fluo, 100034
 - Veste polyvalente pour homme par temps frais
 - Coupe confortable/Coupe spécialement conçue pour le cyclisme
+- GORE C3 GORE-TEX Active Jacket, Taille: M, Couleur: Jaune fluo, 100034
 - Technologie GORE-TEX Active: Imperméable, coupe-vent et extrêmement respirant
+- Dos long, Taille ajustable, Poches zippées à lavant et à larrière, Compatible avec sac à dos
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075RXB1KB/?tag=tolees0d-21)
