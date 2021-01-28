@@ -27,10 +27,10 @@ Vous avez [Socomec 412591 - Chariot Pliable  300kg ](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Marque - Socomec
-- Catégorie - Machines de bureau
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Catégorie - Machines de bureau
+- Marque - Socomec
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Ref - 412591
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002EIUCQ8/?tag=tolees0d-21)
