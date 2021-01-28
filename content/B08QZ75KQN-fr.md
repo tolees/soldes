@@ -27,10 +27,10 @@ C'est en vente [Culotte Menstruelle - Capeebara - OekoTex - SHORTY Absorbant - S
 
 ℹ️:
 
-- 🏡🌿 CAPEEBARA : Capeebara est une société française fondée sur des valeurs responsables qui sapplique à proposer des alternatives aux ustensiles jetables mais utiles de notre quotidien. Parce que nous sommes persuadés que "mieux vivre" rime avec "mieux consommer ", nous avons souhaité rendre cela facile, accessible et plaisant. 
-- ✋ TOLERANCE ZERO : Ce shorty vous garanti zéro odeur, zéro fuites, zéro déchet, zéro humidité et zéro produits toxiques.
-- 🛡 OEKO-TEX : La technologie Oeko-Tex vous garantie un matériel sans aucuns produits chimiques, autrement dit aucune irritabilité pour la peau.
 - 🧘‍♀ UTILISATION : Rincer à la main, à leau froide après chaque utilisation ; Laver en machine avec le reste du linge à 30° (ou à la main avec du savon); Sécher à lair libre. Ne pas utiliser de sèche linge ni dadoucissant.
+- 🛡 OEKO-TEX : La technologie Oeko-Tex vous garantie un matériel sans aucuns produits chimiques, autrement dit aucune irritabilité pour la peau.
+- ✋ TOLERANCE ZERO : Ce shorty vous garanti zéro odeur, zéro fuites, zéro déchet, zéro humidité et zéro produits toxiques.
 - 🌺💁‍♀️ ROSIE LE SHORTY : Tout en restant sexy, Rosie absorbe léquivalent de 3 à 4 tampons. Idéale si votre flux est abondant. Il peut également servir en cas de pertes ou de légères fuites urinaires.
+- 🏡🌿 CAPEEBARA : Capeebara est une société française fondée sur des valeurs responsables qui sapplique à proposer des alternatives aux ustensiles jetables mais utiles de notre quotidien. Parce que nous sommes persuadés que "mieux vivre" rime avec "mieux consommer ", nous avons souhaité rendre cela facile, accessible et plaisant. 
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08QZ75KQN/?tag=tolees0d-21)

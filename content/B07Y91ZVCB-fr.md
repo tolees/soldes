@@ -27,8 +27,8 @@ C'est en vente [Barbie Signature Rei  poupée de collection Star Wars  jouet col
 
 ℹ️:
 
-- La poupée Barbie Star Wars Rey s’inspire du look légendaire de Rey : elle porte une robe plissée en mousseline couleur cristal avec une encolure cache-cœur et une capuche drapée
 - La collection Star Wars x Barbie, inspirée du concept artistique à l’origine du film, réinvente les personnages emblématiques de la saga à travers un prisme de haute couture caractéristique de Barbie
+- La poupée Barbie Star Wars Rey s’inspire du look légendaire de Rey : elle porte une robe plissée en mousseline couleur cristal avec une encolure cache-cœur et une capuche drapée
 - Des jambières dans des teintes dorées à cuivrées et des accessoires aux détails d’or martelé complètent ce look d’héroïne
 - La poupée Barbie Star Wars Rey est une excellente idée de cadeau pour les fans et les collectionneurs. Inclut un socle Star Wars et un certificat d’authenticité
 - Cette collaboration est un hommage à Star Wars et à Rey, l’un des personnages iconiques de la saga
