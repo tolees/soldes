@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.52 % rabais sur Playmobil - Maison de Ville - 70014'
-date: 2021-01-27 08:58:35
+date: 2021-01-28 14:19:20
 image: 'https://m.media-amazon.com/images/I/51dL3nZHeiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07JMCBSX4/?tag=tolees0d-21'
 descuento: '15.52'
-average: '50.6998666666667'
+average: '50.6554545454546'
 ---
 
 Vous avez [Playmobil - Maison de Ville - 70014](https://www.amazon.fr/dp/B07JMCBSX4/?tag=tolees0d-21)  à  15.52 % de réduction, prix final  48.99 EUR (original: 57.99 EUR) ici:

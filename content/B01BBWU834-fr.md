@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '40.96 % rabais sur Sony Walkman NW-WS413 - Lecteur MP3 Inté'
-date: 2021-01-27 08:20:11
+date: 2021-01-28 14:07:41
 image: 'https://m.media-amazon.com/images/I/41kWubq1-qL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,11 +27,11 @@ Vous avez [Sony Walkman NW-WS413 - Lecteur MP3 Intégré à des Ecouteurs - Etan
 
 ℹ️:
 
+- Mode sonore Ambiant Sound : permet dentendre les bruits environnants pour une meilleure sécurité et pour profiter des conversations sans interruption de la musique
 - 12 heures dautonomie. Chargement rapide : 3min pour 1h de musique
+- Etanche à leau salée, à la poussière et au sable (IPX65/68)
 - Configuration système requise: Mac OS X (version 10.6 ou ultérieure), Microsoft Windows 8, Windows Vista (version 2 ou ultérieure), Windows 7 (version 1 ou ultérieure), Windows XP5 (version 3 ou ultérieure)
 - Connexions : USB
-- Mode sonore Ambiant Sound : permet dentendre les bruits environnants pour une meilleure sécurité et pour profiter des conversations sans interruption de la musique
-- Etanche à leau salée, à la poussière et au sable (IPX65/68)
 - Lecteur MP3 Tout-En-Un avec écouteurs intégrés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BBWU834/?tag=tolees0d-21)
