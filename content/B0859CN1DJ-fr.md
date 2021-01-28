@@ -27,10 +27,10 @@ C'est en vente [Liberex Hydropulseur Jet Dentaire Imperméable avec 5 Busettes D
 
 ℹ️:
 
+- Jet Dentaire sans Fil Puissant - Avec une impulsion deau haute pression 1600 fois / minute et 5 buses longues rotatives à 360°différentes, notre jet dentaire portable vous permet de rincer les résidus alimentaires entre les dents et sous les gencives, où la brosse à dents seule ne peut pas atteindre.
 - Affichage OLED & Minuterie de 2 Minutes - Lécran OLED de irrigateur dentaire affiche clairement le mode de fonctionnement actuel et la puissance restante. Minuterie automatique de 2 minutes évite une utilisation excessive et un fonctionnement continu après le nettoyage.
 - 5 Modes de Nettoyage & Fonction de Mémoire - Le jet hydropulseur oral Liberex a ses 4 modes Doux, Médium, Puissance, Impulsion et DIY pour bien répondre aux divers besoins de soins bucco-dentaires. La fonction de mémoire a l’avantage de rester automatiquement sur le mode de la dernière utilisation.
 - Taille Portable pour Voyages - Le jet dentaire de voyage durera jusquà 14 jours dutilisation continue après une charge complète en 4 heures. Livré avec un sac de transport et un câble de chargement USB, le jet dents peut être rechargé via nimporte quel appareil USB : chargeur mural, chargeur de téléphone, batterie externe.
-- Jet Dentaire sans Fil Puissant - Avec une impulsion deau haute pression 1600 fois / minute et 5 buses longues rotatives à 360°différentes, notre jet dentaire portable vous permet de rincer les résidus alimentaires entre les dents et sous les gencives, où la brosse à dents seule ne peut pas atteindre.
 - Poignée Antidérapante & Étanche IPX7 - Conception ergonomique, plus confortable à tenir. La conception étanche IPX7 permet dutiliser ce jet dentaire hydropulseur electrique en toute sécurité sous la douche.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0859CN1DJ/?tag=tolees0d-21)

@@ -27,10 +27,10 @@ C'est en vente [LEGO Friends  Le bus de l amitié avec piscine et toboggan  Ense
 
 ℹ️:
 
-- A swimming pool slides out from beneath the bus, a removable tennis net allows for fun outside the bus and the repairs stand provides tools
-- Comes with lots of mini-doll accessories, a hamster figure, a laptop, camera, pan, egg, decorative tiles, blanket, cookie and many more
-- The top deck slides back neatly for easy access to the cool living areas below and a hinged roof allows for easy access to the bedrooms
-- Includes Olivia, Mia and Stephanie mini-dolls, the playset comes with many details guaranteeing hours of uninterrupted role-playing fun
 - Features fully equipped holiday bus toy with five areas of play: An open rooftop with a slide, kitchen, swimming pool, tent and repairs stand
+- Comes with lots of mini-doll accessories, a hamster figure, a laptop, camera, pan, egg, decorative tiles, blanket, cookie and many more
+- Includes Olivia, Mia and Stephanie mini-dolls, the playset comes with many details guaranteeing hours of uninterrupted role-playing fun
+- The top deck slides back neatly for easy access to the cool living areas below and a hinged roof allows for easy access to the bedrooms
+- A swimming pool slides out from beneath the bus, a removable tennis net allows for fun outside the bus and the repairs stand provides tools
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W5PX1QP/?tag=tolees0d-21)
