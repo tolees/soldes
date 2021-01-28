@@ -27,10 +27,10 @@ Vous avez [Sony RX10 III | Appareil Photo Numérique Expert Compact Premium Brid
 
 ℹ️:
 
-- QUALITE DIMAGE A COUPER LE SOUFFLE : Capteur CMOS Exmor RS empilé de type 1.0 dune résolution de 20,1 mégapixels, et doté de la technologie de rétroéclairage pour atteindre une large couverture de sensibilités
-- DANS LE CADRE : Cadrez facilement vos sujets sous différents angles de vue grâce à lécran tactile orientable
-- PARFAIT POUR LES VIDEASTES: Vidéo 4K en interne avec réglages pros et stabilisation dimage
 - PLAGE FOCALE TRES ETENDUE : Objectif zoom ultra-rapide ZEISS Vario-Sonnar T* 24 – 600 mm F2.4 – 4 à grande ouverture et haute résolution
+- DANS LE CADRE : Cadrez facilement vos sujets sous différents angles de vue grâce à lécran tactile orientable
 - PARTAGEZ VOS CREATIONS : diffusez vos contenus depuis vos appareils mobiles facilement grâce à lapplication Imaging Edge Mobile(Wi-Fi)
+- QUALITE DIMAGE A COUPER LE SOUFFLE : Capteur CMOS Exmor RS empilé de type 1.0 dune résolution de 20,1 mégapixels, et doté de la technologie de rétroéclairage pour atteindre une large couverture de sensibilités
+- PARFAIT POUR LES VIDEASTES: Vidéo 4K en interne avec réglages pros et stabilisation dimage
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01E7NHNW8/?tag=tolees0d-21)
