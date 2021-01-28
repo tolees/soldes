@@ -27,8 +27,8 @@ Vous avez [BOSS Hommes Trunk 3P CO/EL Lot de Trois Boxers en Coton Stretch orné
 
 ℹ️:
 
-- La bordure confortable décorée avec logo assure un maintien optimal et donne un accent de couleur contrastée.
 - Le boxer BOSS en jersey de coton élastique convainc par son style rétro et un confort optimal.
 - Le boxer pour homme est livré dans un lot de 3 avantageux.
+- La bordure confortable décorée avec logo assure un maintien optimal et donne un accent de couleur contrastée.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01JZD8L6M/?tag=tolees0d-21)

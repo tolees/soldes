@@ -28,9 +28,9 @@ C'est en vente [Wooge - Disque Dur Externe 2to USB3.1 pour PC  Mac  Ordinateur d
 ℹ️:
 
 - 【Compatibilité supérieure】 Sa forte compatibilité le rend utilisable avec 99% des systèmes PC, y compris Microsoft Windows 10 / Windows 8.1 / Windows 8 / Windows 7 / Apple MAC / Android et plus encore!
-- 【Mini disque dur portable】 Il sagit dun disque dur externe portable avec un corps ultra mince, facile à allonger dans la paume ou à glisser dans la poche.
 - 【Ce que vous obtenez】 1 x disque dur externe portable, 1 x câble USB 3.1, 1 an de garantie constructeur.
 - 【Disque dur externe à vitesse rapide】 Avec une vitesse de transmission ultra élevée, 5 fois plus rapide que le disque dur portable externe habituel lors de la lecture et plus dune fois plus rapide lors de lécriture, assurez-vous daugmenter considérablement votre efficacité de travail!
 - 【Grande capacité】 La grande capacité de 1 To ou 2 To et la fonction déconomie dénergie, cest vraiment votre base de données mobile parfaite.
+- 【Mini disque dur portable】 Il sagit dun disque dur externe portable avec un corps ultra mince, facile à allonger dans la paume ou à glisser dans la poche.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08T1BFDV1/?tag=tolees0d-21)
