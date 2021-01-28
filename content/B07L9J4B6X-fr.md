@@ -27,8 +27,8 @@ Vous avez [Under Armour Tactical All Season Veste Homme Vert FR : XL  Taille Fab
 
 ℹ️:
 
+- Under Armour Tactical All Season Veste Homme Vert FR : XL (Taille Fabricant : Taille XL)
 - Couleur : Vert Taille : XL
 - 98% Polyester/2% Elasthanne
-- Under Armour Tactical All Season Veste Homme Vert FR : XL (Taille Fabricant : Taille XL)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07L9J4B6X/?tag=tolees0d-21)
