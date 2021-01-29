@@ -27,8 +27,8 @@ C'est en vente [VTECH - 80-502805- 1 2 3 Petit Dalmatien - Version FR](https://w
 
 ℹ️:
 
+- Le nez du chien clignote au rythme des mélodies.
 - Bébé manipule les petites clefs et les oreilles du dalmatien.
 - 3 boutons sur le corps du chien pour découvrir les premiers chiffres, les couleurs et déclencher des phrases et des chansons amusantes.
-- Le nez du chien clignote au rythme des mélodies.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MRN1BEE/?tag=tolees0d-21)

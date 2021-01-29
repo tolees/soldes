@@ -27,9 +27,9 @@ C'est en vente [Playmobil - Bateau de Sauvetage et Pompiers - 70147](https://www
 
 ℹ️:
 
+- Bateau flottant
+- 2 figurines avec accessoires
 - Treuil inclus
 - Toit amovible
-- 2 figurines avec accessoires
-- Bateau flottant
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21)

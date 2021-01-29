@@ -27,10 +27,10 @@ C'est en vente [SIMBR Support Mural TV Inclinable ±15° VESA Max 600×400 pour 
 
 ℹ️:
 
-- Le support tv mural fixe sincline 15 ° vers le bas et 15 ° vers le haut pour prévenir la spondylose cervicale et soulager la fatigue.
-- Avec une conception à faible profil, ce support télé mesure à seulement 3,1 "(80 mm) du mur, cela sassure quil soit presque invisible lorsquil est installé.
-- Certification & Garantie: ce tv support mural est cerficié par ROHS, CE et FDA. Et aussi, nous vous offrons une garantie de 18 mois dès la date de votre achat.
 - Le support mural tv sadapte aux écrans Plats ou Incurvés de 26 pouces à 70 pouces. Il est idéal pour prèsque tous les téléviseurs, comme Philips, Samsung, LG, Thomson, Sony ect..
+- Le support tv mural fixe sincline 15 ° vers le bas et 15 ° vers le haut pour prévenir la spondylose cervicale et soulager la fatigue.
+- Certification & Garantie: ce tv support mural est cerficié par ROHS, CE et FDA. Et aussi, nous vous offrons une garantie de 18 mois dès la date de votre achat.
+- Avec une conception à faible profil, ce support télé mesure à seulement 3,1 "(80 mm) du mur, cela sassure quil soit presque invisible lorsquil est installé.
 - Support télé mural VESA: 600x400, 400x400, 300x300, 200x400, 200x200, 200x100, 100x100mm,75x75mm.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M9FRHBM/?tag=tolees0d-21)
