@@ -27,15 +27,15 @@ C'est en vente [Roccat Vulcan 121 - Clavier de Jeu Noir  gaming mécanique RGB  
 
 ℹ️:
 
-- Suite logicielle ROCCAT Swarm
-- 3.6mm distance de course de linterrupteur
-- Câble USB 1.8 m
-- Processeur ARM Cortex-M0 32 bits
+- Toutes les touches sont remappables
 - Repose-paume détachable ergonomique
 - Éclairage RGB par touche avec 16,8 millions de couleurs
-- Toutes les touches sont remappables
 - 512kb macro intégrée et mémoire des paramètres
-- 1.4 mm point d‘activation, linéaire (Titan Switch Linear)
 - Polling rate 1000 Hz
+- Processeur ARM Cortex-M0 32 bits
+- 3.6mm distance de course de linterrupteur
+- 1.4 mm point d‘activation, linéaire (Titan Switch Linear)
+- Câble USB 1.8 m
+- Suite logicielle ROCCAT Swarm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YNLHGPL/?tag=tolees0d-21)

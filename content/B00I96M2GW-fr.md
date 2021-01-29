@@ -28,9 +28,9 @@ Vous avez [KRUPS ESSENTIAL NOIRE Machine à café à grain Machine à café broy
 ℹ️:
 
 - UNE MACHINE TOUJOURS PROPRE : un nettoyage complet et automatique de la machine ultra simple, sans intervention humaine : insérez une pastille et lancez le programme, la machine soccupe de tout
-- UN SAVOIR FAIRE TOUJOURS FRANCAIS : machine fabriquée en France, à Mayenne, garantie 2 ans, produit réparable avec mise à disposition rapide des pièces à coût limité pendant 10 ans et plus
-- UN CAFE TOUJOURS PARFAIT : machine à café à grain automatique avec broyeur pour des espressos et cafés allongés de qualité professionnelle, contrôle du broyage et de la température, 2 tasses simultané
-- UNE MACHINE TOUJOURS ADAPTEE : grande capacité du réservoir à eau (1,7L) et du réservoir à grains (260g), buse vapeur intégrée pour réaliser des cappuccinos en toute simplicité
 - UNE MACHINE TOUJOURS PRETE : des arômes toujours révélés selon le café de votre choix, dun espresso corsé à un café allongé, avec un contrôle du broyage et de la température
+- UNE MACHINE TOUJOURS ADAPTEE : grande capacité du réservoir à eau (1,7L) et du réservoir à grains (260g), buse vapeur intégrée pour réaliser des cappuccinos en toute simplicité
+- UN CAFE TOUJOURS PARFAIT : machine à café à grain automatique avec broyeur pour des espressos et cafés allongés de qualité professionnelle, contrôle du broyage et de la température, 2 tasses simultané
+- UN SAVOIR FAIRE TOUJOURS FRANCAIS : machine fabriquée en France, à Mayenne, garantie 2 ans, produit réparable avec mise à disposition rapide des pièces à coût limité pendant 10 ans et plus
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00I96M2GW/?tag=tolees0d-21)
