@@ -27,10 +27,10 @@ Vous avez [Mattel Games DOS Jeu de Société et de Cartes  FRM36](https://www.am
 
 ℹ️:
 
-- Le but est d’être le premier à manquer de cartes dans la main et dans cette version, les joueurs doivent crier deux quand il leur reste deux cartes
-- Recommandé pour chaque âge
-- Les numéros correspondants sont les plus importants, mais vous obtiendrez des points bonus si vous combinez les couleurs lorsque vous atteignez un score de 200
 - Ce jeu de cartes classique avec 2 à 4 joueurs est conçu pour se défier individuellement ou en équipe
+- Le but est d’être le premier à manquer de cartes dans la main et dans cette version, les joueurs doivent crier deux quand il leur reste deux cartes
 - Si vous sortez le premier, vous gagnez des points pour les cartes laissées entre les mains de vos adversaires
+- Les numéros correspondants sont les plus importants, mais vous obtiendrez des points bonus si vous combinez les couleurs lorsque vous atteignez un score de 200
+- Recommandé pour chaque âge
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076MMCQWW/?tag=tolees0d-21)
