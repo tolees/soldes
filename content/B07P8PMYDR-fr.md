@@ -27,10 +27,10 @@ Vous avez [Playmobil - Camion de Dépannage - 70199](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- De la vitesse aux utilitaires, choisis le véhicule adapté à ton histoire !
-- Le bouton sur le gyrophare permet dactiver les effets lumineux (2 piles CR 2032 3V incluses). Arrêt automatique après 3 minutes
 - Convient aux enfants à partir de 4 ans.
 - Une motocross a un pneu crevé et est bloquée sur la route principale.
+- De la vitesse aux utilitaires, choisis le véhicule adapté à ton histoire !
 - La dépanneuse intervient pour libérer la voie.
+- Le bouton sur le gyrophare permet dactiver les effets lumineux (2 piles CR 2032 3V incluses). Arrêt automatique après 3 minutes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P8PMYDR/?tag=tolees0d-21)

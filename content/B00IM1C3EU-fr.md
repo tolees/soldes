@@ -27,10 +27,10 @@ C'est en vente [Mauboussin - Eau de Parfum Femme - A La Folie - Senteur Florient
 
 ℹ️:
 
-- UNE SENTEUR INTEMPORELLE : Au travers de cette fragrance lovée dans un flacon facetté comme un diamant, MAUBOUSSIN sabre le bonheur, laissant jaillir un vent d’ivresse et d’insouciance...
 - LES NOTES OLFACTIVES : Notes de tête : accord champagne-framboise ; Notes de coeur : rose ; Note de fond : caramels gourmands.
 - UNE FRAGRANCE UNIQUE : Une tête fusante et pétillante provoquée par la rencontre du champagne et de la framboise laisse place à un cœur de rose humide et fraîche sublimé par un fond délicat de caramels gourmands.
 - UN PARFUM BIJOU : Dans son flacon facetté comme un diamant taillé sur mesure, symbole absolu du luxe, c’est un effluve envoûtant...
 - UN SAVOIR-FAIRE RECONNU : Tout en sadaptant à son époque, Mauboussin, innovateur de bijoux, jouit dune réputation inchangée jusquà ce jour
+- UNE SENTEUR INTEMPORELLE : Au travers de cette fragrance lovée dans un flacon facetté comme un diamant, MAUBOUSSIN sabre le bonheur, laissant jaillir un vent d’ivresse et d’insouciance...
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00IM1C3EU/?tag=tolees0d-21)
