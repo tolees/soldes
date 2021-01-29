@@ -27,10 +27,10 @@ Vous avez [CMT Orange Tools - CMT 273.250.80 m Ultra fine lame Kerf Z-80 D-250 B
 
 ℹ️:
 
-- COMBI3 broches):
-- Alésage: 30 mm
 - Diamètre: 250 mm
-- Kerf: 2,4 mm
 - CMT 273.250.80M - Sierra circular (ultra itk) 250x1.7x30 z=80
+- Kerf: 2,4 mm
+- Alésage: 30 mm
+- COMBI3 broches):
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JBJAIG2/?tag=tolees0d-21)
