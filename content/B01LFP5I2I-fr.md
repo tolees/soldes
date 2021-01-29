@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '50.13 % rabais sur Lady Oscar-Intégrale DVD Master Anime Cl'
-date: 2021-01-15 09:28:49
+date: 2021-01-29 16:27:02
 image: 'https://m.media-amazon.com/images/I/51+F-u5tJEL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B01LFP5I2I-fr'
+slug: 'B01LFP5I2I-fr Lady Oscar-Intégrale DVD Master Anime Classic [Édition...'
+sku: 'B01LFP5I2I-fr'
+tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

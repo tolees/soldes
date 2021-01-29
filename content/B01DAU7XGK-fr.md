@@ -27,10 +27,10 @@ C'est en vente [Seven Control Support de Cheville Mixte Adulte  Noir  Taille S-M
 
 ℹ️:
 
-- Légère, maille 3D pour le confort et 360° de stabilité
-- Structure en polyester fin autour de la cheville
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Section moulée injectée sur la languette
+- Légère, maille 3D pour le confort et 360° de stabilité
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Section moulée injectée sur la languette
+- Structure en polyester fin autour de la cheville
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01DAU7XGK/?tag=tolees0d-21)

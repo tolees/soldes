@@ -1,12 +1,14 @@
 ---
 layout: post
 title: '46.68 % rabais sur Ant-Man +2D [4K Ultra HD + Blu-Ray]'
-date: 2021-01-15 13:44:09
+date: 2021-01-29 16:29:08
 image: 'https://m.media-amazon.com/images/I/51T+tgGrfLL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XW8DFRM-fr'
+slug: 'B07XW8DFRM-fr Ant-Man +2D [4K Ultra HD + Blu-Ray]'
+sku: 'B07XW8DFRM-fr'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
