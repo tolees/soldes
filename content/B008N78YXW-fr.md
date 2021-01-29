@@ -27,10 +27,10 @@ Vous avez [Repusel 3002 Rétroviseur Extérieur pour Caravane Universel](https:/
 
 ℹ️:
 
-- Avec lhousse anti-glissante.
-- Sadapte à 99% des rétroviseurs dauto.
-- Montage solide
 - Montable en 3 étapes.
+- Sadapte à 99% des rétroviseurs dauto.
 - Design ultra modèrne.
+- Montage solide
+- Avec lhousse anti-glissante.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008N78YXW/?tag=tolees0d-21)

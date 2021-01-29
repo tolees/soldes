@@ -29,11 +29,11 @@ C'est en vente [Sony HT-RT3 Barre de Son Surround 5.1  Bluetooth NFC  600W - Noi
 
 - Connectivité Bluetooth facilitée grâce à la technologie NFC par simple contact
 - Lecture audio USB1. Bluetooth: AAC; SBC
-- Consommation denergie: 85 W
-- Mode veille activé: Après 20 minutes
-- Puissance : 600 Watts
-- Consommation denergie(mode veille): 0.4 W
-- Remplissez la piece dun authentique son Surround 5.1 canaux
 - Amplificateur numerique S-Master pour un son clair et precis
+- Remplissez la piece dun authentique son Surround 5.1 canaux
+- Puissance : 600 Watts
+- Consommation denergie: 85 W
+- Consommation denergie(mode veille): 0.4 W
+- Mode veille activé: Après 20 minutes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01CDNEI3Q/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Chevaliers Novelmore avec Ca avec 32.81 % rabais '
-date: 2021-01-28 08:19:17
+date: 2021-01-29 08:35:04
 image: 'https://m.media-amazon.com/images/I/61nf9M0xwaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B07P6FL9B5/?tag=tolees0d-21'
 descuento: '32.81'
-average: '18.345'
+average: '17.8266666666667'
 ---
 
 C'est en vente [Playmobil - Chevaliers Novelmore avec Canon et Loups - 70225](https://www.amazon.fr/dp/B07P6FL9B5/?tag=tolees0d-21)  à  32.81 % de réduction, prix final  16.79 EUR (original: 24.99 EUR) ici:
@@ -29,8 +29,8 @@ C'est en vente [Playmobil - Chevaliers Novelmore avec Canon et Loups - 70225](ht
 
 - Les plus dangereux sont aussi les plus astucieux des chevaliers, avec leur attelage de loups et leurs canons à eau.
 - Les chevaliers de Novelmore ne partiraient jamais au combat sans leurs fidèles compagnons, les loups Greystone.
-- Rejoins les aventures des courageux chevaliers !
 - Convient aux enfants à partir de 5 ans.
 - Avec fonction tir et projectiles. Contient 2 figurines qui peuvent être installées sur le char. Dimensions : 34 x 10,5 x 9-10 (inclinaison) cm (LxPxH)
+- Rejoins les aventures des courageux chevaliers !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P6FL9B5/?tag=tolees0d-21)
