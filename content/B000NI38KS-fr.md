@@ -27,10 +27,10 @@ Vous avez [Marinco 69 – 12 VCP6 ConnectPRO récepteur et prises](https://w
 
 ℹ️:
 
-- The plug has a sealed seal for cable connections and lid compatible with 16ga a water resistant ga
-- Complete with lid & corrosion resistant electrical components made in brass and drainage in dongle
 - Supplied with mounting holder
+- Complete with lid & corrosion resistant electrical components made in brass and drainage in dongle
 - Fitting Diameter standard 29 mm accepts cable up to 8 GA
 - Receiver universal designed for configurations of 2 or 3 cables, and systems of 12, 24, 12/24, 24/36, 36 Volt
+- The plug has a sealed seal for cable connections and lid compatible with 16ga a water resistant ga
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000NI38KS/?tag=tolees0d-21)

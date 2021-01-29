@@ -27,14 +27,14 @@ Vous avez [Arlo Pro VMS4330-100EUS Caméra de surveillance 100% Sans Fils Pack d
 
 ℹ️:
 
-- Qualité HD 720p Pour des images plus nettes et plus détaillées que jamais
-- Jour / Nuit Gardez un œil sur tout ce qui bouge en qualité HD
-- Autonomie longue durée 4 à 6 mois Batterie rechargeable
-- Alertes de mouvements Notifications push et emails à tout moment
-- Intérieure / extérieur Arlo sans fil ne craint pas les intempéries (IP65)
-- Nos systèmes Arlo sont flexibles, vous pouvez utiliser Arlo Pro dans un système Arlo et vice versa. Il est en de même pour les stations daccueil
 - 100% sans fils Dites adieu aux câbles qui trainent
-- Alarme intelligente Faites fuir déventuels cambrioleurs grâce à une sirène de plus de 100 décibels
+- Autonomie longue durée 4 à 6 mois Batterie rechargeable
+- Qualité HD 720p Pour des images plus nettes et plus détaillées que jamais
+- Intérieure / extérieur Arlo sans fil ne craint pas les intempéries (IP65)
+- Alertes de mouvements Notifications push et emails à tout moment
 - Micro et hautparleur intégrés pour écouter et répondre en live depuis votre smartphone
+- Alarme intelligente Faites fuir déventuels cambrioleurs grâce à une sirène de plus de 100 décibels
+- Jour / Nuit Gardez un œil sur tout ce qui bouge en qualité HD
+- Nos systèmes Arlo sont flexibles, vous pouvez utiliser Arlo Pro dans un système Arlo et vice versa. Il est en de même pour les stations daccueil
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M360IFG/?tag=tolees0d-21)
