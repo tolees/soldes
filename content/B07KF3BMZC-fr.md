@@ -27,8 +27,8 @@ C'est en vente [Levi s The Jacket Blouson  Liquorice Trucker  M Homme](https://w
 
 ℹ️:
 
-- Sans stretch
-- Denim
 - Poches de poitrine plaquées avec rabat boutonné, poches passepoilées sur les côtés, ourlet réglable latéral
+- Denim
+- Sans stretch
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KF3BMZC/?tag=tolees0d-21)
