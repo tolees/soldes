@@ -28,10 +28,10 @@ C'est en vente [Mauboussin - Eau de Parfum Femme - A La Folie - Senteur Florient
 
 ℹ️:
 
+- Base note is caramel gourmand
+- Heart note is pink
 - Top note is champagne-raspberry accord
 - A floral oriental fragrance for young women
-- Base note is caramel gourmand
 - Sweet, savoury, warm, optimistic and cheerful
-- Heart note is pink
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00IM1C3EU/?tag=tolees0d-21)

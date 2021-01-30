@@ -28,9 +28,9 @@ C'est en vente [Funko Pop! TV: Game of Thrones - Crystal Night King w/Dagger in 
 
 ℹ️:
 
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
-- Issue de la gamme Game of Thrones, la figurine Crystal Night King w/Dagger in Chest rejoint la collection Funko POP
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Découvrez tous les autres produits Funko dédiés à lunivers Game of Thrones Collectionnez-les tous
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
+- Issue de la gamme Game of Thrones, la figurine Crystal Night King w/Dagger in Chest rejoint la collection Funko POP
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RMBCFPC/?tag=tolees0d-21)

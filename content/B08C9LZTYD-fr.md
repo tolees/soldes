@@ -28,10 +28,10 @@ C'est en vente [Montre Connectée Smartwatch Entache IP68  AGPTEK Bracelet Conne
 
 ℹ️:
 
-- ⌚【IP68 & Appels / SMS Rappel】 Vous pouvez le porter tout en vous lavant les mains, en prenant une douche, et en nageant. Vous pouvez recevoir des notifications de WhatsApp, LinkedIn, Instagram et Twitter sur la montre en connectant lapplication GloryFit, ce smartwatch vous informe par vibration pour que ne manquiez pas de message et d’apple. Remarque: la montre intelligente ne peut pas envoyer de SMS ni appeler directement.
 - ⌚【Design Unique】 Cette montre sport homme est fabriquée avec un écran IPS tactile couleur TFT 1,3 . En plus de la disposition par défaut, vous pouvez également personnaliser linterface en ligne via l’APP. Livré avec une sangle de sport en silicone + un bracelet en cuir pour répondre à vos différents besoins
 - ⌚【Batterie Durable et Compatibilité】Charge 2 heures, peut être satisfait à utiliser pendant 7-10 jours. Compatible avec IOS 8.0 et supérieur, Andriod 5.0 et supérieur et smartphone Bluetooth 4.0 et supérieur.
-- ⌚【Multifonction & Écran Tactile】Cette montre intelligente a des fonctions : moniteur de fréquence cardiaque & de pression artérielle, calories, podomètre, météo, rappel sédentaire, notification de message, rappel de téléphone, 7 modes sportifs, sommeil, caméra de contrôle, etc.
 - ⌚【Moniteur de Fréquence Cardiaque & de Sommeil】 Le bracelet connecté avec moniteur de fréquence cardiaque peut surveiller votre santé en temps réel. Détectez votre sommeil automatiquement et analysez votre qualité de sommeil avec sommeil profond, sommeil léger. (Remarque: les données telles que la pression artérielle sont fournies à titre indicatif uniquement)
+- ⌚【Multifonction & Écran Tactile】Cette montre intelligente a des fonctions : moniteur de fréquence cardiaque & de pression artérielle, calories, podomètre, météo, rappel sédentaire, notification de message, rappel de téléphone, 7 modes sportifs, sommeil, caméra de contrôle, etc.
+- ⌚【IP68 & Appels / SMS Rappel】 Vous pouvez le porter tout en vous lavant les mains, en prenant une douche, et en nageant. Vous pouvez recevoir des notifications de WhatsApp, LinkedIn, Instagram et Twitter sur la montre en connectant lapplication GloryFit, ce smartwatch vous informe par vibration pour que ne manquiez pas de message et d’apple. Remarque: la montre intelligente ne peut pas envoyer de SMS ni appeler directement.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C9LZTYD/?tag=tolees0d-21)
