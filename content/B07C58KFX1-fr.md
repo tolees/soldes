@@ -28,11 +28,11 @@ C'est en vente [Western Digital WDBKVX0010PSL-WESN My Passport Portable SSD 1 To
 
 ℹ️:
 
-- Disque dur sûr offrant la fiabilité WD
+- Sauvegarde automatique
+- Protection par mot de passe avec chiffrement matériel
 - Ports USB type C et USB 3.1 Gen 2 ; compatibilité avec les normes USB 3.0, USB 2.0 et USB-A
 - Des transferts de fichiers ultrarapides de 540 Mo/s en pointe
-- Sauvegarde automatique
+- Disque dur sûr offrant la fiabilité WD
 - Température de fonctionnement : 5°C à 35°C. Température non opérationnelle : -20°C à 65°C
-- Protection par mot de passe avec chiffrement matériel
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07C58KFX1/?tag=tolees0d-21)
