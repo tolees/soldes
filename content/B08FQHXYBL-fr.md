@@ -29,8 +29,8 @@ Vous avez [Electronic Arts - FIFA 21  Xbox One  - Version Xbox Series X incluse]
 ℹ️:
 
 - Country of origin: China
-- Packaging dimensions (L × W × H): 1.2 cm 13.5 cm 17.0 am
 - 5.03094E+12
 - Package weight: 70 g
+- Packaging dimensions (L × W × H): 1.2 cm 13.5 cm 17.0 am
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Sony NP-FZ100 Batterie Rechargeable Haute Capacité pour Apparei
 
 ℹ️:
 
-- Dimensions (W × H × D): Approx. 38.7 x 22.7 x 51.7 mm (1 9/16 x 29/32 x 2 1/8 inches)
 - Weight: Approx. 83 g (3.0 oz.)
+- Dimensions (W × H × D): Approx. 38.7 x 22.7 x 51.7 mm (1 9/16 x 29/32 x 2 1/8 inches)
 - Capacity: 7.2V / 16.4Wh (2280mAh)
 - Sony NP-FZ100 Z-series Rechargeable Battery Pack
 

@@ -28,10 +28,10 @@ Vous avez [JOTT NIC Doudoune Nico à Manches Longues  Anthracite  M Homme](https
 
 ℹ️:
 
-- Doudoune ultra-légère de JOTT
+- coupe étroite, légèrement aux hanches
 - Extérieur: 100% nylon
 - Intérieur: 90% duvet, 10% plumes
-- coupe étroite, légèrement aux hanches
 - Capuche, poches en biais
+- Doudoune ultra-légère de JOTT
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B013O4ABQQ/?tag=tolees0d-21)

@@ -28,13 +28,13 @@ Vous avez [Case Logic LAPS113K Housse de protection en néoprène pour PC/Mac Bo
 
 ℹ️:
 
-- Description du produit: Case logic - LAPS113K
 - Dimension du Produit : 35,6 x 28 x 25,4 cm
+- Matériau: En Néoprène
+- Garantie Fabricant: 25 an(s)
 - Utilisation: Housse de protection en néoprène pour PC/Mac Book
 - Format: 13 / 13,3 pouces
-- Garantie Fabricant: 25 an(s)
-- Couleur: Noir
 - Type de produit: Housse de protection
-- Matériau: En Néoprène
+- Couleur: Noir
+- Description du produit: Case logic - LAPS113K
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004NY9UW8/?tag=tolees0d-21)
