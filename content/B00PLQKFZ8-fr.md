@@ -28,10 +28,10 @@ Vous avez [Bioworld - Sac besace Playstation BIO-MB128818SNY  Gris](https://www.
 
 ℹ️:
 
-- Ideal collectable for video game fans
-- Sony Playstation Console Messenger Bag
 - Officially licensed
 - Features the iconic console design with Hook and loop fastener flap fastener
+- Sony Playstation Console Messenger Bag
+- Ideal collectable for video game fans
 - Includes main storage compartment, front zip-up pocket and adjustable strap
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PLQKFZ8/?tag=tolees0d-21)

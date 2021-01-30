@@ -28,8 +28,8 @@ Vous avez [FM London - Hipster - Boxer  Lot de 12  - Homme - Multicolore - Taill
 
 ℹ️:
 
-- Lavage en machine, 40° et +
 - 95% coton, 5% élasthanne
+- Lavage en machine, 40° et +
 - Lot de 12
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GNEXVK2/?tag=tolees0d-21)
