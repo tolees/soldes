@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Tommy Regular Polo   avec 41.34 % rabais '
-date: 2021-01-28 22:32:22
+date: 2021-01-29 23:52:24
 image: 'https://m.media-amazon.com/images/I/31LEsfA7hCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,11 +27,11 @@ C'est en vente [Tommy Hilfiger Core Tommy Regular Polo  Bleu  Sky Captain   X-La
 
 ℹ️:
 
-- Boutonnière à trois boutons
 - Broderie Tommy Hilfiger sur la poitrine
 - Coupe classique
 - Bande décorative typique de la marque à larrière du col
 - 100 %
+- Boutonnière à trois boutons
 - Col polo
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0722MB9NW/?tag=tolees0d-21)
