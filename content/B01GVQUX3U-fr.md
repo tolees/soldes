@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Manette PlayStation 4 officielle  D avec 16.67 % rabais '
-date: 2021-01-28 14:11:03
+date: 2021-01-30 08:50:57
 image: 'https://m.media-amazon.com/images/I/31-30JKxpaL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -18,7 +18,7 @@ country: 'fr'
 flag: '🇫🇷'
 buyurl: 'https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21'
 descuento: '16.67'
-average: '55.0860714285714'
+average: '54.9966666666666'
 ---
 
 C'est en vente [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Batterie rechargeable  Bluetooth  Jet Black  Noire ](https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  49.99 EUR (original: 59.99 EUR) ici:
@@ -27,10 +27,10 @@ C'est en vente [Sony Manette PlayStation 4 officielle  DUALSHOCK 4  Sans fil  Ba
 
 ℹ️:
 
-- Contenu : 1 x Sony Manette DUALSHOCK 4 sans fil pour PS4, Dimensions : 16,2x5,2x9,8 cm (LxPxH), Poids : 210 g, Batterie rechargeable, Capacité de la batterie : 1000 mAh, Guide d’utilisation, Matériau : Plastique, Couleur : Noire
-- Caractéristiques : Haut-parleur mono intégré, Moteur de vibration intense, Pavé tactile, Détection de mouvements six axes, Port USB et d’extension, Sortie de casque stéréo
 - Batterie rechargeable intégrée, Possibilité de jouer et de recharger la batterie simultanément
-- Technologie Share : partage et diffusion en streaming de vidéos de vos meilleures parties avec les autres joueurs
+- Contenu : 1 x Sony Manette DUALSHOCK 4 sans fil pour PS4, Dimensions : 16,2x5,2x9,8 cm (LxPxH), Poids : 210 g, Batterie rechargeable, Capacité de la batterie : 1000 mAh, Guide d’utilisation, Matériau : Plastique, Couleur : Noire
 - Manette DUALSHOCK 4 sans fil pour PS4, Pour plus de sensibilité et des meilleures expériences de jeu, Compatible avec pc (Windows, Mac OS, Android, IOS)
+- Technologie Share : partage et diffusion en streaming de vidéos de vos meilleures parties avec les autres joueurs
+- Caractéristiques : Haut-parleur mono intégré, Moteur de vibration intense, Pavé tactile, Détection de mouvements six axes, Port USB et d’extension, Sortie de casque stéréo
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GVQUX3U/?tag=tolees0d-21)

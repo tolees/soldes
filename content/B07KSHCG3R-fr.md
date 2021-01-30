@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung SSD interne 860 QVO 2.5’’ SATA   avec 17.33 % rabais '
-date: 2021-01-28 02:19:59
+date: 2021-01-30 08:50:52
 image: 'https://m.media-amazon.com/images/I/51dNXsA2avL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -27,8 +27,10 @@ C'est en vente [Samsung SSD interne 860 QVO 2.5’’ SATA  1 TERA  - MZ-76Q1T0B
 
 ℹ️:
 
-- Samsung 860 QVO 1 To 2.5 SSD SATA V-Nand/ SSD. Fiabilité (MTBF): Fiabilité de 1,5 million dheures (MTBF). Prise en charge du chiffrement: Cryptage AES 256 bits (classe 0), TCG / Opal, IEEE1667 (lecteur crypté)
-- Temperature de fonctionnement: 0 - 70 . Pris en charge: TRIM
-- 1 To Samsung 860 QVO, SSD 2, 5 ?, SATA III 6 Go/ s, MJX, MLC V-NAND, 1 Go de memoire cache, Lecture 550 Mo/ s, ecriture 520 Mo/ s, 96k/ 89k
+- Sequential Read/Write speeds up to 550/520 MB/s respectively. Performance varies based on system hardware configuration
+- Available Capacity : Up to 4 TB
+- Interface : SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
+- Form Factor : 2.5 Inch
+- Designed for mainstream PCs and laptops for personal, gaming and business use
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KSHCG3R/?tag=tolees0d-21)
