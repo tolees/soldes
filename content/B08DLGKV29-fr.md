@@ -28,8 +28,8 @@ C'est en vente [PUMA AC Milan Saison 2020/2021 Maillot Extérieur Replica Homme 
 
 ℹ️:
 
-- Bande Puma sur les épaules et le haut du dos
-- Col en v et extrémités des manches côtelés
 - Écusson officiel du Borussia Mönchengladbach sur la gauche de la poitrine
+- Col en v et extrémités des manches côtelés
+- Bande Puma sur les épaules et le haut du dos
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DLGKV29/?tag=tolees0d-21)
