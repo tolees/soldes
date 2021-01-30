@@ -27,11 +27,11 @@ C'est en vente [Tommy Hilfiger Core Tommy Regular Polo  Bleu  Sky Captain   X-La
 
 ℹ️:
 
-- 100 %
-- Col polo
 - Boutonnière à trois boutons
+- Col polo
 - Coupe classique
-- Broderie Tommy Hilfiger sur la poitrine
 - Bande décorative typique de la marque à larrière du col
+- Broderie Tommy Hilfiger sur la poitrine
+- 100 %
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0722MB9NW/?tag=tolees0d-21)

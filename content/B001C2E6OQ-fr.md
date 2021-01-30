@@ -28,9 +28,9 @@ Vous avez [Facom FCM601 601 12-inch 300mm Hacksaw](https://www.amazon.fr/dp/B001
 ℹ️:
 
 - Lame haute tension
+- Scie à métaux hautement durable
 - Structure qui absorbe les chocs
 - Permet un usage à 2 mains
 - Manche confortable
-- Scie à métaux hautement durable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001C2E6OQ/?tag=tolees0d-21)
