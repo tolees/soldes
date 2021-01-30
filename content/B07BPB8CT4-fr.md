@@ -16,6 +16,7 @@ comparePrice: 84.95 EUR
 prodname: 'Wrangler Slider Jeans Homme  Bleu  Blue Charm 24Z   32W / 34L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BPB8CT4/?tag=tolees0d-21'
 descuento: '18.89'
 average: '68.9'

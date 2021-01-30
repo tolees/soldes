@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Pulsar Horloge PG8283X1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GBT67WW/?tag=tolees0d-21'
 descuento: '50.44'
 average: '63.93'

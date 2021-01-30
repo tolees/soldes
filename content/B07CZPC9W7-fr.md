@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'Peaktop - Fontaine d eau de jardinière de décor de jardin d extérieur Caractéristique d eau de fontaine VFD8207'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CZPC9W7/?tag=tolees0d-21'
 descuento: '40.35'
 average: '68.59'

@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Disney Enfants Coco Sac à Dos'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TZP9DDX/?tag=tolees0d-21'
 descuento: '40.10'
 average: '11.95'

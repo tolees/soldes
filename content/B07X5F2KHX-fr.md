@@ -16,6 +16,7 @@ comparePrice: 259.99 EUR
 prodname: 'Moulinex Multicuiseur Intelligent Cookeo+ 6L 6 Modes de Cuisson 150 Recettes Préprogrammées Jusqu à 6 Personnes Blanc CE851110'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07X5F2KHX/?tag=tolees0d-21'
 descuento: '38.46'
 average: '159.99'

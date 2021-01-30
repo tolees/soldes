@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Playmobil - Playmobil The Movie Rex Dasher  Porsche Mission E - 70078'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07P7KKCNS/?tag=tolees0d-21'
 descuento: '30.70'
 average: '55.43'

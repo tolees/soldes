@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'UniqueMe [6 pièces Protection écran pour Xiaomi Mi Band 5  [Adsorption anhydre] [sans Bulles] Film Flexible Soft HD TPU TPU Film pour Xiaomi Mi Band 5'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FFFH3WY/?tag=tolees0d-21'
 descuento: '57.93'
 average: '7.99'

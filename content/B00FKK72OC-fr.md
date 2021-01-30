@@ -16,6 +16,7 @@ comparePrice: 35.16 EUR
 prodname: 'Lame de scie circulaire HW/CT 254 x 30 x 2 4/1 8 Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00FKK72OC/?tag=tolees0d-21'
 descuento: '59.90'
 average: '14.1'

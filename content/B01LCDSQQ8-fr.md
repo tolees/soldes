@@ -16,6 +16,7 @@ comparePrice: 4.2 EUR
 prodname: 'Sun Classic Sel Régénérant Pour Lave-Vaisselle 4kg'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LCDSQQ8/?tag=tolees0d-21'
 descuento: '41.90'
 average: '2.44'

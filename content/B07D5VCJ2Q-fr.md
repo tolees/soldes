@@ -16,6 +16,7 @@ comparePrice: 19.95 EUR
 prodname: 'Puma ESS Logo Tee T-Shirt Femme  White  S'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D5VCJ2Q/?tag=tolees0d-21'
 descuento: '34.89'
 average: '12.99'

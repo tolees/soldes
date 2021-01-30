@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Disque Dur Externe 2 to USB 3.0 pour PC  Mac  MacBook  Xbox One 2To Plata '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08D68BVQN/?tag=tolees0d-21'
 descuento: '35.36'
 average: '63.99'

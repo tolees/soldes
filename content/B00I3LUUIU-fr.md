@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Sony MDR-EX110APB Ecouteurs Intra-auriculaires avec Microphone - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00I3LUUIU/?tag=tolees0d-21'
 descuento: '32.40'
 average: '16.9'

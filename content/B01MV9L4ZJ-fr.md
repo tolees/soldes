@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Lacoste TH6709 T-Shirt Homme  Bleu  Marine 166   S'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MV9L4ZJ/?tag=tolees0d-21'
 descuento: '27.36'
 average: '39.95'

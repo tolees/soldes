@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'BAITITON NVME 512GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD Interne 512Go Disque Dur Haute Performance'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CDH4QD3/?tag=tolees0d-21'
 descuento: '15.72'
 average: '58.99'

@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Paco Home Tapis De Créateur Décorations Modernes Motif Tapis De Salon Gris Bleu  Dimension:120x170 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01GEGD334/?tag=tolees0d-21'
 descuento: '20.00'
 average: '44.0'

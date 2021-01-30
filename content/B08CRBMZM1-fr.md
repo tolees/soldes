@@ -16,6 +16,7 @@ comparePrice: 18.9 EUR
 prodname: 'HTDELEC Coque Xiaomi Redmi 9 Transparente + 2 × Verre trempé écran Silicone Souple étui Bumper Housse Clair TPU Gel Cover avec Quatre Coins Renforcés pour Xiaomi Redmi 9'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CRBMZM1/?tag=tolees0d-21'
 descuento: '63.49'
 average: '6.9'

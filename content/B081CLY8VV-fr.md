@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Pèse Personne Impédancemètre  Balance Connecté  Pèse-Personne Sans Fil  Électronique Balance Impédancemètre avec 13 Données Corporelles  Analyseur de Composition Corporelle pour APP Smartphone 180kg'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081CLY8VV/?tag=tolees0d-21'
 descuento: '20.01'
 average: '23.99'

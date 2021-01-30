@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Toozey Jouets Chat 24 Pièces Jouet Chat Jouet à Plumes pour Chat Jouet Chaton et Kitty avec Plumes  Tunnel  Balles  Souris et Boules avec Sac de Rangement'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083BQLSM9/?tag=tolees0d-21'
 descuento: '39.15'
 average: '13.99'

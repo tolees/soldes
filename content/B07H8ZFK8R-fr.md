@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Nero Standard 2019'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H8ZFK8R/?tag=tolees0d-21'
 descuento: '65.01'
 average: '27.99'

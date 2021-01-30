@@ -16,6 +16,7 @@ comparePrice: 63.99 EUR
 prodname: 'SanDisk iXpand 128 Go - Clé USB double connectique pour sauvegarde iPhone et iPad'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VNGVKGF/?tag=tolees0d-21'
 descuento: '28.96'
 average: '45.46'

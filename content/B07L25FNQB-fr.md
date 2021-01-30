@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Celio - NECETWO - Polo manches courtes - Coton Supima  Noir   Medium  Taille fabricant:M  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L25FNQB/?tag=tolees0d-21'
 descuento: '49.97'
 average: '10.0'

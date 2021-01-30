@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche IP65 - Zigbee - Compatible Android & Amazon Alexa [Classe énergétique A+]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0776YGHFN/?tag=tolees0d-21'
 descuento: '39.36'
 average: '19.4'

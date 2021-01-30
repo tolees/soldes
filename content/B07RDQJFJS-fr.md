@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Slendertone Biceps et Triceps Brassards H/F tonifiants Unisex-Adult  Noir  25 a 45 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RDQJFJS/?tag=tolees0d-21'
 descuento: '47.20'
 average: '68.63'

@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Vera Mont VM 0029/4825 Robe de soirée  Rose  Cozy Pink 4443   44  Taille Fabricant: 42  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N1Z8C3J/?tag=tolees0d-21'
 descuento: '67.11'
 average: '72.02'

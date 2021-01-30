@@ -16,6 +16,7 @@ comparePrice: 14.5 EUR
 prodname: 'Hipp Biologique Délices De Lait Fromage Blanc Nature Sucré Dès 6 Mois - 6 packs de 4 coupelles de 100 G'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00U7GR58C/?tag=tolees0d-21'
 descuento: '17.66'
 average: '11.94'

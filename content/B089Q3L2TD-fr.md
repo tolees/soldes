@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LIHAO Étui pour Nintendo Switch  Housse de Transport Protection pour Console Nintendo Switch  Joy Con  Jeux et Accessoires'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089Q3L2TD/?tag=tolees0d-21'
 descuento: '50.02'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 219.9 EUR
 prodname: 'Braun Silk-épil 9 9/990 SkinSpa SensoSmart Épilateur Électrique Or Rose et 13 Accessoires'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078HS24MK/?tag=tolees0d-21'
 descuento: '17.53'
 average: '181.35'

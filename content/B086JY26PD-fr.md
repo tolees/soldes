@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'SEELOK Masques de Super-héros à Gratter Scratch Art 24 Feuilles de Papier Spiderman Masque à Gratter Enfants Adulte Femme Cadeaux pour Déguisements Fête d anniversaire Cosplay Dress Up Artisanat'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B086JY26PD/?tag=tolees0d-21'
 descuento: '20.15'
 average: '11.97'

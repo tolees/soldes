@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Vans Atwood Total  Baskets Basses Homme  Noir  Canvas Black/Black   38.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00CWB4CLI/?tag=tolees0d-21'
 descuento: '50.00'
 average: '30.0'

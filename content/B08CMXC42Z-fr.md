@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Écouteur sans Fil Bluetooth Mini Casque Intra-auriculaire sans Fil Oreillettes de Sport étanche IPX5 Microphone stéréo boîtier de Charge Portable Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CMXC42Z/?tag=tolees0d-21'
 descuento: '41.98'
 average: '20.88'

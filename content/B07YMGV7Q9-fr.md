@@ -16,6 +16,7 @@ comparePrice: 275.0 EUR
 prodname: 'Chie Mihara balis  Sandales Bride Cheville Femmes  Rouge  Ante Rojo Ante Rojo Kassy Natur Ante Rojo Ante Rojo Kassy Natur   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YMGV7Q9/?tag=tolees0d-21'
 descuento: '51.77'
 average: '132.64'

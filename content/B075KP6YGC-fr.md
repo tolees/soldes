@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Sophie la Girafe- tuyaux Folies  523425'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075KP6YGC/?tag=tolees0d-21'
 descuento: '16.97'
 average: '24.966'

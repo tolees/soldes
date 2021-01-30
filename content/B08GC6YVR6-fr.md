@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Récepteur Bluetooth 5.0 Adaptateur  USB Bluetooth Dongle 2-en-1 Émetteur Récepteur BluetoothTransmetteur Audio Bluetooth avec RCA & 3.5mm  Faible Latence  pour TV/PC/Voiture Système Audio'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08GC6YVR6/?tag=tolees0d-21'
 descuento: '62.52'
 average: '14.99'

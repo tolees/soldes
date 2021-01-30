@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Playmobil - 5303 - Maison Traditionnelle'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VLVEAHQ/?tag=tolees0d-21'
 descuento: '28.64'
 average: '99.9'

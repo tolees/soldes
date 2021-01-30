@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Oral-B Combiné Dentaire : Oral-B PRO 2000 + Hydropulseur Oxyjet'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B5FK3BN/?tag=tolees0d-21'
 descuento: '53.51'
 average: '92.99'

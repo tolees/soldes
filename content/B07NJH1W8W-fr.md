@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'El Naturalista N5176  Bottes Classiques Femme  Marron  Brown Brown   41 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NJH1W8W/?tag=tolees0d-21'
 descuento: '59.00'
 average: '73.8'

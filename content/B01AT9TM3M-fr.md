@@ -16,6 +16,7 @@ comparePrice: 27.98 EUR
 prodname: 'Etekcity Thermomètre Infrarouge sans Contact Laser de -50°C à 380°C  Précision Haute  Lecture Instantanée  Arrêt Automatique  Ecran LCD Rétroéclairé  Impossible de mesurer la température corporelle'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01AT9TM3M/?tag=tolees0d-21'
 descuento: '32.13'
 average: '18.99'

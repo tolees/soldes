@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Melitta Machine à Café et Boissons Chaudes Automatique  Buse Vapeur  Caffeo Solo & Milk  Argent  E953-102'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004WZ6CRO/?tag=tolees0d-21'
 descuento: '22.28'
 average: '310.1'

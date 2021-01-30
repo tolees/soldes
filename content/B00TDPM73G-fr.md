@@ -16,6 +16,7 @@ comparePrice: 112.47 EUR
 prodname: 'Versa - Tabouret de chamdre avec Romantic Patchwork'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00TDPM73G/?tag=tolees0d-21'
 descuento: '67.56'
 average: '39.8175'

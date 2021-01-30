@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Vidéoprojecteur  WiMiUS 7000 Lumens Vidéoprojecteur Full HD 1080P Rétroprojecteur 4K Soutien  Correction Digitale 4D Dolby Audio Projecteur LED 90 000 Heures Home Cinéma TV Box PC PS4 HDMI VGA AV USB'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081ZZSZT4/?tag=tolees0d-21'
 descuento: '66.82'
 average: '199.05'

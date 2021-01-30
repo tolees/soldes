@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XXS14L8/?tag=tolees0d-21'
 descuento: '51.31'
 average: '121.24'

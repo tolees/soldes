@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'GT Spirit- Voiture Miniature de Collection  GT217  British Racing Green'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PFQPYR1/?tag=tolees0d-21'
 descuento: '20.18'
 average: '95.75'

@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'Màsséur Électrique Vîbrómasséur Vîbrạnt pour Fémme Portable  10 Modes de Màssagé  2 Moteurs 100% Imperméable  USB Rechargeable  Silicone Médical'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CZP2YBM/?tag=tolees0d-21'
 descuento: '27.03'
 average: '26.99'

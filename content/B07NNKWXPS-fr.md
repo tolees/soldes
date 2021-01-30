@@ -16,6 +16,7 @@ comparePrice: 123.0 EUR
 prodname: 'O bag Borsa Completa Glam 54  Sac à bandoulière Femme  Noir  Nero   8x27x19 Centimeters  W x H x L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NNKWXPS/?tag=tolees0d-21'
 descuento: '48.69'
 average: '63.11'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lexibook D800FR Dictionnaire électronique Larousse'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B003FZB7NQ/?tag=tolees0d-21'
 descuento: '30.01'
 average: '34.99'

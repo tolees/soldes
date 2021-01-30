@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'CRAZE- Disney Perles à Repasser  54384  Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01CZMWUE4/?tag=tolees0d-21'
 descuento: '63.04'
 average: '14.78'

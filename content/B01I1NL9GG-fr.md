@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'FAGOR FG293 Aspirateur balai 2 en 1 Rouge 0 5 L 1800 W'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01I1NL9GG/?tag=tolees0d-21'
 descuento: '36.88'
 average: '81.42'

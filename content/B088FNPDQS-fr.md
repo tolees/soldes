@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'ELYCO Verre Trempé pour Xiaomi Redmi Note 9  [2 Pièces] 9H Dureté sans Bulles Protection écran  Anti-Huile/Anti-Chute/Anti-Rayures/Anti-Empreinte Digitale Protection écran pour Xiaomi Redmi Note 9'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B088FNPDQS/?tag=tolees0d-21'
 descuento: '58.86'
 average: '6.99'

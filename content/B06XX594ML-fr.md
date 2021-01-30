@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance WL574  Baskets Femme  Bleu  Navy  40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XX594ML/?tag=tolees0d-21'
 descuento: '55.57'
 average: '39.99'

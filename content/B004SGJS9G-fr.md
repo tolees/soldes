@@ -16,6 +16,7 @@ comparePrice: 73.0 EUR
 prodname: 'Puma - Suede Classic+ - Baskets mode - Mixte Adulte - Rouge  team regal red-white  - 36 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004SGJS9G/?tag=tolees0d-21'
 descuento: '45.34'
 average: '37.75363636363637'

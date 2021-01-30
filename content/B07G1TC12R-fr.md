@@ -16,6 +16,7 @@ comparePrice: 370.99 EUR
 prodname: 'HUION Kamvas Pro 13 Tablette Graphique avec écran  Moniteur Graphique de 13 3 Pouces avec écran Anti-éblouissement Entièrement Laminé  120% sRGB  d inclinaison de ± 60 °  Support Réglable'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07G1TC12R/?tag=tolees0d-21'
 descuento: '25.88'
 average: '274.98'

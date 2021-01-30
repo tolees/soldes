@@ -16,6 +16,7 @@ comparePrice: 315.0 EUR
 prodname: 'Tonysa 17" 3D Projecteur Publicitaire  Advertising Projector  avec Carte TF Intégrée 8 Go Vision 176 °  3D Projecteur Holographique pour Publicité 768 * 768 HD pour Business Cinema Shopping Mall EU '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SJ4Q1H5/?tag=tolees0d-21'
 descuento: '82.77'
 average: '54.29'

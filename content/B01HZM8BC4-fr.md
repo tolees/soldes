@@ -16,6 +16,7 @@ comparePrice: 174.9 EUR
 prodname: 'Montre Hommes - Pulsar - PQ2055X1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01HZM8BC4/?tag=tolees0d-21'
 descuento: '36.36'
 average: '111.3'

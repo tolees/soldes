@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'New Balance Yv500v1  Baskets Fille  Rose  Pink/Purple Pink/Purple   35.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KRH5B2T/?tag=tolees0d-21'
 descuento: '20.00'
 average: '36.0'

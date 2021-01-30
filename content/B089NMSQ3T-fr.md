@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'bakibo Écouteurs sans Fil Bluetooth 5.1  Stéréo Sport Casque avec Mic Auto Appariement TWS IPX7 Oreillette avec 800 mAh LCD Étui De Charge Portable  40 Heure de Fonctionnement  Contrôle Tactile'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089NMSQ3T/?tag=tolees0d-21'
 descuento: '21.22'
 average: '25.99'

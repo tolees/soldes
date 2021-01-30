@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'adidas I-5923 Chaussures de Gymnastique homme - Blanc  Ftwr White   46 EU  11 UK '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07K11RC1X/?tag=tolees0d-21'
 descuento: '42.96'
 average: '74.12'

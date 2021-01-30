@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'Smith Network MIPS Casque de vélo Adulte Unisexe  Mike Giant  l'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GLKK8P7/?tag=tolees0d-21'
 descuento: '29.69'
 average: '112.5'

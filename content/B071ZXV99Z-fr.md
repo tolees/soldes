@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Dix de Chute - Jeu de societe de stratégie - Version française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071ZXV99Z/?tag=tolees0d-21'
 descuento: '21.96'
 average: '18.294999999999998'

@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'Millet – Ubic 40 – Sac à Dos de Montagne Unisexe – Équipement pour Randonnée et Trekking – Volume Moyen 40 L – Couleur : Urban Chic'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KXYPNZK/?tag=tolees0d-21'
 descuento: '48.24'
 average: '82.79'

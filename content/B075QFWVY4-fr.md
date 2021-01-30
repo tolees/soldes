@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Manette Révolution Pro Controller 2 Nacon pour PS4'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075QFWVY4/?tag=tolees0d-21'
 descuento: '31.53'
 average: '89.0'

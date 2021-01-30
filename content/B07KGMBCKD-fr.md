@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Sabrent SSD interne Rocket NVMe PCIe M.2 2280 de 512GB. Solid State Drive haute performance  SB-ROCKET-512 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KGMBCKD/?tag=tolees0d-21'
 descuento: '23.62'
 average: '83.199'

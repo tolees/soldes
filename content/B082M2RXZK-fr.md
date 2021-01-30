@@ -16,6 +16,7 @@ comparePrice: 23.89 EUR
 prodname: 'Aigital Transmetteur Bluetooth 5.0 Émetteur et Récepteur 2 en 1 Adaptateur Audio sans Fil 3.5mm AptX Basse Latence pour TV  Casque  PC Ordinateur Portable Tablette  Système Stéréo de Voiture/Maison'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082M2RXZK/?tag=tolees0d-21'
 descuento: '24.70'
 average: '18.476666666666663'

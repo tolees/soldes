@@ -16,6 +16,7 @@ comparePrice: 45.56 EUR
 prodname: 'DEJIMAX 3200mAh Batterie S7 pour Samsung Galaxy S7  Haute Capacité Batterie au Lithium 3200mAh pour Galaxy S7 pour EB-BG930ABE G930V  G930A  G930PG930T'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FR1VZVC/?tag=tolees0d-21'
 descuento: '49.54'
 average: '22.99'

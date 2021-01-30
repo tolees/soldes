@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Beurer TL 50 Lampe de luminothérapie - 10 000 Lux - Simulation de la Lumière du Jour pour le Bien-être - CE Médical'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015UYE8K8/?tag=tolees0d-21'
 descuento: '42.40'
 average: '71.99'

@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'El Naturalista N5353 Vaquetilla Aqua  Sandales Bride Arriere Femme  Marron  Caramel Caramel   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KJWXJ6H/?tag=tolees0d-21'
 descuento: '55.54'
 average: '48.88'

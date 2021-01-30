@@ -16,6 +16,7 @@ comparePrice: 152.0 EUR
 prodname: 'Makita UH 5570 Taille-haies'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001TWVC4Q/?tag=tolees0d-21'
 descuento: '36.88'
 average: '95.94'

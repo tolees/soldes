@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Columbia Mission Air  Veste Modulable pour Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RC8HK4M/?tag=tolees0d-21'
 descuento: '65.15'
 average: '55.76'

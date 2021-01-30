@@ -16,6 +16,7 @@ comparePrice: 84.0 EUR
 prodname: 'GROSFILLEX Vega Table  Taupe  118 x 77 x 72 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00E0L5QRC/?tag=tolees0d-21'
 descuento: '17.98'
 average: '68.9'

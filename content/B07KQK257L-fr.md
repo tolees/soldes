@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Senya SYBF-CJ018C extracteur de jus de fruits et legumes Healthy Juicer crème 60 Tours/min avec goulotte extra large de 82 mm et moteur silencieux 250W'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KQK257L/?tag=tolees0d-21'
 descuento: '20.02'
 average: '79.9'

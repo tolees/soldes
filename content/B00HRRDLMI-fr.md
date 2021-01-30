@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Sylvanian Families - 4370 - Le chalet'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21'
 descuento: '18.80'
 average: '40.59'

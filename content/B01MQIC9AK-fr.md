@@ -16,6 +16,7 @@ comparePrice: 275.0 EUR
 prodname: 'Golden Curl GL506 Boucleur de Cheveux Curl Fer a Friser Curly Professionnel pour tous types de cheveux - Garantie 5 ans  Girafe '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MQIC9AK/?tag=tolees0d-21'
 descuento: '56.73'
 average: '119.0'

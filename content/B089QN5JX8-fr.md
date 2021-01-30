@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'EasySMX Manette PC/PS3 sans Fil Rechargeable  9110 2.4G Manette PC  Manette PS3 avec Dualshock et Turbo  Compatible pour PC  PS3 et Nintendo Switch  Multicolore'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089QN5JX8/?tag=tolees0d-21'
 descuento: '20.00'
 average: '39.99'

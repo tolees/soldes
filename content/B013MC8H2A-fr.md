@@ -16,6 +16,7 @@ comparePrice: 113.2 EUR
 prodname: 'Lowepro 250 AW Slingshot Edge sac de transport pour Appareil photo Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B013MC8H2A/?tag=tolees0d-21'
 descuento: '33.31'
 average: '75.49'

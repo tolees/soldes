@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Smartphone Portable CUBOT. P40  Ecran 6 2 Pouces  4 Go RAM 128 Go ROM  AI Caméra Avant 20 MP  Caméra Arrière 12MP+5MP  Batterie 4200mAh  Dual SIM 4G  Reconnaissance Faciale  NFC  Type C  Version EU '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BJ3PMQ4/?tag=tolees0d-21'
 descuento: '23.53'
 average: '129.99'

@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Garmin - Dash Cam 56 - Caméra de conduite - Enregistrement vidéo 1440p - Alertes collision imminente et franchissement de voie'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RB4XTCP/?tag=tolees0d-21'
 descuento: '24.77'
 average: '149.71'

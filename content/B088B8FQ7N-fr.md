@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Tondeuse Cheveux Hommes Professionnelle  DynaBliss HG4100 Tondeuse Barbe et Cheveux Kit de coupe de cheveux avec charge USB  utilisation avec fil ou sans fil  Réglage de la longueur de coupe'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B088B8FQ7N/?tag=tolees0d-21'
 descuento: '68.13'
 average: '25.49'

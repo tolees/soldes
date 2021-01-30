@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levis SS Original HM Tee T-shirt Homme  Bleu  Ueprint   M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZVQT6LH/?tag=tolees0d-21'
 descuento: '50.20'
 average: '12.45'

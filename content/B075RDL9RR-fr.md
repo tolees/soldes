@@ -16,6 +16,7 @@ comparePrice: 289.0 EUR
 prodname: 'DELSEY PARIS - TURENNE - Valise trolley - 4 doubles roues  70 Cm - Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075RDL9RR/?tag=tolees0d-21'
 descuento: '34.17'
 average: '190.25'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'TOM TAILOR MY TRUE ME Plussize T-shirt  Femme  Multicolor  48'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MC4BM5M/?tag=tolees0d-21'
 descuento: '21.48'
 average: '117.74'

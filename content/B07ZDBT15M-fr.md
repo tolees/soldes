@@ -16,6 +16,7 @@ comparePrice: 110.99 EUR
 prodname: 'DD SSD KINGSTON KC600 2.5 SATA3 512GO  SKC600/512G *0253'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21'
 descuento: '32.29'
 average: '75.15'

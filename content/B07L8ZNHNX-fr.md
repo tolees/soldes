@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Replay Anbass Jean Slim  Bleu  Super Light Blue 11   W30/L34  Taille Fabricant: 30  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L8ZNHNX/?tag=tolees0d-21'
 descuento: '15.79'
 average: '133.9'

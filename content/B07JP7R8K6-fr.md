@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Pioneer Club 7 Enceinte de Bluetooth  LED Éclarage  Voice Control  USB pour la Lecture MP3  iPhone iOS et Android  App  2X 100 Watt RMS  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JP7R8K6/?tag=tolees0d-21'
 descuento: '50.90'
 average: '244.99'

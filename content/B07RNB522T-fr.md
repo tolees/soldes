@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Manette Sans Fil pour Xbox 360 Double Vibration Contrôleur de Jeu pour Xbox 360 / PC'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RNB522T/?tag=tolees0d-21'
 descuento: '51.37'
 average: '28.69'

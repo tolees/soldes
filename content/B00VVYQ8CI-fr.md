@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW 3301 Slim Jeans  DK Aged 5245-89  28W / 32L Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VVYQ8CI/?tag=tolees0d-21'
 descuento: '61.87'
 average: '49.55'

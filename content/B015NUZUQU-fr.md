@@ -16,6 +16,7 @@ comparePrice: 30.08 EUR
 prodname: 'Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015NUZUQU/?tag=tolees0d-21'
 descuento: '33.54'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Kaporal - Doudoune à Capuche Amovible  Coupe Droite - Meter - Homme - M - Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N27X5JM/?tag=tolees0d-21'
 descuento: '26.68'
 average: '65.99'

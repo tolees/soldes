@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'PLDM by Palladium Ranch SUD  Bottes & Bottines Souples Femmes  Gris  Caribou 381   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MZGND3B/?tag=tolees0d-21'
 descuento: '55.86'
 average: '57.36'

@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'Tommy Hilfiger Core Hilfiger Regular Polo  Noir  Flag Black 060   Large  Taille fabricant: L  Homme^Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B018LLIXB2/?tag=tolees0d-21'
 descuento: '38.22'
 average: '49.36'

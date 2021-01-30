@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Replay W7525 .000.83534 Manteau  Beige 10  Large Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L91DC7T/?tag=tolees0d-21'
 descuento: '58.63'
 average: '123.7'

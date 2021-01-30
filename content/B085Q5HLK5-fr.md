@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'ORICO M200 3D NAND SSD Hard Solid Drive - mSATA - SATA III - 6Gbps-512Go Interne Solid State Drive for Desktop Laptop'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B085Q5HLK5/?tag=tolees0d-21'
 descuento: '31.25'
 average: '109.99'

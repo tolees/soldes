@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Sveltus Set Plyobox'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01HRSN2ZM/?tag=tolees0d-21'
 descuento: '35.18'
 average: '129.64'

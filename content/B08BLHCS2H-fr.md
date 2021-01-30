@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'LIGHTAILING Jeu De Lumières pour  Architecture Dubaï  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21052 Ne Figurant Pas sur Le Modèle '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BLHCS2H/?tag=tolees0d-21'
 descuento: '38.35'
 average: '36.99'

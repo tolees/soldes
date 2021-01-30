@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'El Naturalista Wakatiwai  Sandales Bout Ouvert Femme  Jaune  Curry Mixed Curry Mixed   39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07F39H6PW/?tag=tolees0d-21'
 descuento: '44.71'
 average: '55.26'

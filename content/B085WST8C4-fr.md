@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'PHOINIKAS Casque de Jeu PS4  Casque Gaming Filaire pour Xbox One  PC  Casque de Musique sans Fil Bluetooth avec Microphone Antibruit et 7.1 Bass Surround  40H Playtime -Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B085WST8C4/?tag=tolees0d-21'
 descuento: '20.00'
 average: '39.99'

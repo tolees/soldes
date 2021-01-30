@@ -16,6 +16,7 @@ comparePrice: 115.37 EUR
 prodname: 'Time Force Hommes Analogique Quartz Montre avec Bracelet en Caoutchouc TF3330M11'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B009RP47US/?tag=tolees0d-21'
 descuento: '20.00'
 average: '92.3'

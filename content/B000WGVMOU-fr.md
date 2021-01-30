@@ -16,6 +16,7 @@ comparePrice: 57.36 EUR
 prodname: 'Staedtler Mars Comfort 552 Compass Rapide'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000WGVMOU/?tag=tolees0d-21'
 descuento: '61.77'
 average: '21.93'

@@ -16,6 +16,7 @@ comparePrice: 69.98 EUR
 prodname: 'Poopsie - Rainbow Surprise - Asst.'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RTC4GWV/?tag=tolees0d-21'
 descuento: '15.28'
 average: '59.29'

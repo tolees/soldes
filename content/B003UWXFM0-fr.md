@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'TP-Link TL-SG1024D Switch 24 Ports Gigabit  Bureau/Rackable  Boîtier Métal    Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B003UWXFM0/?tag=tolees0d-21'
 descuento: '19.17'
 average: '72.67'

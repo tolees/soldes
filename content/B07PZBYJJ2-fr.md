@@ -16,6 +16,7 @@ comparePrice: 275.0 EUR
 prodname: 'Fer à lisser ionique - pour boucler et lisser'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PZBYJJ2/?tag=tolees0d-21'
 descuento: '55.27'
 average: '123.0'

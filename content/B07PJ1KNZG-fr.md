@@ -16,6 +16,7 @@ comparePrice: 640.0 EUR
 prodname: 'Louis Cottier - Montre Supersize Automatique Bracelet Cuir - Boitier Acier 47 mm - HA3401C1BC1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PJ1KNZG/?tag=tolees0d-21'
 descuento: '68.91'
 average: '199.0'

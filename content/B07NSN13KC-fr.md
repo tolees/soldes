@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'LIVOO DOC208 Barbecue Gaz Gril et Plancha'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NSN13KC/?tag=tolees0d-21'
 descuento: '17.09'
 average: '247.9'

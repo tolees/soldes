@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Levi s The Perfect Tee T-Shirt - Femme-Rouge  Bw T2 Tomato 0792 -Medium'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TWBFQGW/?tag=tolees0d-21'
 descuento: '25.77'
 average: '22.27'

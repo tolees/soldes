@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'LIVOO DOP142N Robot culinaire Chauffant'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WLN1F45/?tag=tolees0d-21'
 descuento: '45.75'
 average: '216.44'

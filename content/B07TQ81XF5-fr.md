@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'VTech RockIt Twist - Console de jeux éducative pour enfant  vert translucide'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TQ81XF5/?tag=tolees0d-21'
 descuento: '31.70'
 average: '42.34'

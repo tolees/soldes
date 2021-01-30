@@ -16,6 +16,7 @@ comparePrice: 174.98 EUR
 prodname: 'Tiffany Rose Maternity Eden Maxi Robe  Rose poudré  46 Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DRGVYKL/?tag=tolees0d-21'
 descuento: '20.00'
 average: '139.98'

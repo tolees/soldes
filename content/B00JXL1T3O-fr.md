@@ -16,6 +16,7 @@ comparePrice: 324.99 EUR
 prodname: 'Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis en Gris Pierre / Anthracite  120 X 180 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00JXL1T3O/?tag=tolees0d-21'
 descuento: '69.57'
 average: '98.89'

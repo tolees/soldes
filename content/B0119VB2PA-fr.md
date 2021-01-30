@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Aspirateur Souffleur Broyeur Bosch - ALS 30  3000W  jusqu à 300km/h  sac de 45L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0119VB2PA/?tag=tolees0d-21'
 descuento: '41.75'
 average: '69.9'

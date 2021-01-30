@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Tenda système WiFi mesh Bi-bande gigabit MW6 3-Pack  pour toute la maison  routeur et répéteur WiFi remplacement   couverture Wi-Fi de 500 m'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076VPYT36/?tag=tolees0d-21'
 descuento: '33.75'
 average: '112.62'

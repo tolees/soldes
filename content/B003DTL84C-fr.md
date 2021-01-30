@@ -16,6 +16,7 @@ comparePrice: 409.99 EUR
 prodname: 'Thule EuroRide 2 13-pin  Porte-vélos sur boule d attelage fonctionnel répondant à tous vos besoins de base  pour 2 vélos .'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B003DTL84C/?tag=tolees0d-21'
 descuento: '40.63'
 average: '243.41'

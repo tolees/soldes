@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Bosch MultiTalent 8 MC812W501 – Robot de cuisine polyvalent avec plus de 50 fonctions – 1000 W – Capacité de 3 9 L – Couleur : Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GRQSHNJ/?tag=tolees0d-21'
 descuento: '44.45'
 average: '99.99'

@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Trio Leuchten 305100161 Jacob Suspension en métal pour 1 ampoule E27 non incluse Gris vieilli'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XWNGHN7/?tag=tolees0d-21'
 descuento: '32.21'
 average: '47.45'

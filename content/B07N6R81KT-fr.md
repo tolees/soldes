@@ -16,6 +16,7 @@ comparePrice: 186.3 EUR
 prodname: 'Love Moschino Scarpadonna Cassetta  Chaussures de Gymnastique Femme  Noir  Nero 000   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N6R81KT/?tag=tolees0d-21'
 descuento: '37.20'
 average: '116.99'

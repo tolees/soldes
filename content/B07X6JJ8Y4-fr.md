@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Castaner Carina/8/ss20033  Espadrille  Carina Femme  Natural  41 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07X6JJ8Y4/?tag=tolees0d-21'
 descuento: '47.10'
 average: '66.12'

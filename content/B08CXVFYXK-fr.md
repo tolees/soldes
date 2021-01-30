@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: '[Modèle 2020] KKUYI Antenne TV Intérieure  Antenne Numérique Verticale 120 Miles avec Amplificateur de Signal  Antennes TNT Portable 4K 1080P HD VHF UHF pour la Diffusion de Canaux Locaux  Câble 5M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CXVFYXK/?tag=tolees0d-21'
 descuento: '33.34'
 average: '19.99'

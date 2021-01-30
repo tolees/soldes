@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'ABUS 8077 2.0 Bloque-Disque Alarme Moto Homologué SRA  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07C54YPZV/?tag=tolees0d-21'
 descuento: '24.43'
 average: '105.76'

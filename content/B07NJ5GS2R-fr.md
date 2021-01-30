@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'CASIO Montre Femme LTS-100D-7AVEF'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NJ5GS2R/?tag=tolees0d-21'
 descuento: '46.62'
 average: '42.65'

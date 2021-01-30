@@ -16,6 +16,7 @@ comparePrice: 1400.0 EUR
 prodname: 'Sony DSC-RX10 II Appareil Photo Numérique Bridge Expert  Capteur 1   CMOS Exmor RS  20 2 Mpix  24-200mm à Ouverture Constante F2.8  4K Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00ZUFRCHY/?tag=tolees0d-21'
 descuento: '21.94'
 average: '1092.9'

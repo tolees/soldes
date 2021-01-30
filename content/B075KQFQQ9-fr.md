@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Boucles d oreilles or tricolore"Trianon"'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075KQFQQ9/?tag=tolees0d-21'
 descuento: '75.00'
 average: '65.0'

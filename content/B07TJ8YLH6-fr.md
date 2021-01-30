@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'FM London Fitted Boxer Shorty  Noir  Black 01   Small  Lot de 8  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TJ8YLH6/?tag=tolees0d-21'
 descuento: '20.01'
 average: '19.99'

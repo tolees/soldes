@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Only NOS Onlqueen L/s Long Cardigan KNT Noos Gilet  Multicolore  Misty Rose Stripes:W. MGM/Cloud Pink Melange   42  Taille Fabricant: X-Large  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Only'
 buyurl: 'https://www.amazon.fr/dp/B07DDT9GFG/?tag=tolees0d-21'
 descuento: '50.02'
 average: '16.3233333333333'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Brooks Brothers 100134408 Chemise Casual  Blanc  White 115   Large  Taille Fabricant: L-  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TGD8T4P/?tag=tolees0d-21'
 descuento: '66.83'
 average: '46.44'

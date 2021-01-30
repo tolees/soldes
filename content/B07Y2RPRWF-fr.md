@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Montre Connectée Femmes Montre Intelligente Homme IP68Etanche Bracelet Connecté Cardio Podometre Smartwatch Sport Fitness Tracker d Activité Contrôle de la Musique pour Android iPhone  Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y2RPRWF/?tag=tolees0d-21'
 descuento: '44.45'
 average: '45.37461538461539'

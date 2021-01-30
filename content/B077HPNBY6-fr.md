@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'Wolfcraft 5977000 Scie Cloche Ah Réglable'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077HPNBY6/?tag=tolees0d-21'
 descuento: '23.69'
 average: '26.67'

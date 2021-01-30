@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'little tikes  Tricycle 5-in-1 Deluxe Ride & Relax  Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00UMTAJVE/?tag=tolees0d-21'
 descuento: '52.77'
 average: '61.4'

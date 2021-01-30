@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  6 Axes Manette Switch Pro avec Double Moteur Intégré pour Nintendo Switch Pro/Lite et PC  Ciel Étoilé'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B088NRBVVZ/?tag=tolees0d-21'
 descuento: '50.01'
 average: '30.080909090909092'

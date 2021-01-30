@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'LEGO®-DUPLO® Les animaux du monde Jouet d Aventure Incluant 15 Animaux pour Tout Petits  Fille et Garçon dès 2 Ans  121 Pièces de Construction 10907'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BK2PXAS/?tag=tolees0d-21'
 descuento: '25.00'
 average: '67.13333333333333'

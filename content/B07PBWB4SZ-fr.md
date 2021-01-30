@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Rafraîchisseur d air compact  avec télécommande et écran digital idéal pour petites pièces ou un bureau RAFY 55 Purline'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PBWB4SZ/?tag=tolees0d-21'
 descuento: '63.16'
 average: '69.99'

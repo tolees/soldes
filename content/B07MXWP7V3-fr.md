@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Liebeskind Berlin Round Love Note - Belt BagfemmeSacs bandoulièreBleu  Mood Indigo  4x16x20 centimeters  B x H x T '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MXWP7V3/?tag=tolees0d-21'
 descuento: '38.32'
 average: '86.29'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C pour Mac  PC  Windows  MacBook  Xbox One  1to Rouge '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CVHS8Z2/?tag=tolees0d-21'
 descuento: '46.67'
 average: '47.99'

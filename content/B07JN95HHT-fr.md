@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Buffalo Cali  Sneakers Basses Femme  Multicolore  Pink/White 000   36 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JN95HHT/?tag=tolees0d-21'
 descuento: '50.44'
 average: '49.51'

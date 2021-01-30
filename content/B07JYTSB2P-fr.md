@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Straight Denton Chino Gmd Flex  Pantalon Homme  Gris  SLEET048   W30/L32'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JYTSB2P/?tag=tolees0d-21'
 descuento: '40.94'
 average: '59.0'

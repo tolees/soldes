@@ -16,6 +16,7 @@ comparePrice: 198.0 EUR
 prodname: 'Thomas Sabo Montre pour Homme Rebel Spirit Argenté Noir Analogique Quartz'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01D8Z9DE2/?tag=tolees0d-21'
 descuento: '42.78'
 average: '113.29'

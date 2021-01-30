@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '53.34 % rabais sur Leif Nelson pour des Hommes Pullover Pul'
-date: 2021-01-28 14:12:59
+date: 2021-01-30 09:22:18
 image: 'https://m.media-amazon.com/images/I/510w9QFUXCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Leif Nelson pour des Hommes Pullover Pull en Tricot Hoodie arrêtez-Vous Veste d hiver Sweatshirt Longsleeve LN5255; Taille L  Noir Anthracite'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Leif Nelson'
 buyurl: 'https://www.amazon.fr/dp/B077H1MPX4/?tag=tolees0d-21'
 descuento: '53.34'
 average: '41.99'

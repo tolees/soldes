@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Bamoer Support Tablette  Support Tablette Réglable - Support Dock pour 2020 iPad Pro 9.7  Pro 10.5  iPad Air Mini 2 3 4  Phone  Nintendo Switch  Samsung Tab  d autres Smartphones - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B088R1RZ4Z/?tag=tolees0d-21'
 descuento: '25.02'
 average: '11.99'

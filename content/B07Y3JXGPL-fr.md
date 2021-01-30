@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'WD - My Book - Disque dur externe de bureau avec sauvegarde - 14 To'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y3JXGPL/?tag=tolees0d-21'
 descuento: '27.14'
 average: '254.99'

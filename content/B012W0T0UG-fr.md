@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Philips S5400/06 Rasoir électrique Series 5000 étanche avec Tondeuse de Précision'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B012W0T0UG/?tag=tolees0d-21'
 descuento: '42.04'
 average: '59.64333333333333'

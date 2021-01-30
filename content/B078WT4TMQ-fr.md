@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'Morph Gonflable Costume  Homme  MCROIUN  Monter sur Licorne Adultes  Taille Unique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078WT4TMQ/?tag=tolees0d-21'
 descuento: '16.13'
 average: '25.99'

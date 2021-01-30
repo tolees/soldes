@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Disque Dur Externe  Disque Dur Externe 2to USB3.0 pour Mac  PC  Windows  MacBook  Xbox One  Xbox 360  Chromebook  2to Rouge '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CVHN6TY/?tag=tolees0d-21'
 descuento: '26.67'
 average: '65.99'

@@ -16,6 +16,7 @@ comparePrice: 34.57 EUR
 prodname: 'Fanny Fouks Mousse EVA thermoformable 40x60 cm - Jaune - APLI AGIPA'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B018QCGM50/?tag=tolees0d-21'
 descuento: '19.76'
 average: '27.74'

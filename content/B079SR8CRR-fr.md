@@ -16,6 +16,7 @@ comparePrice: 21.95 EUR
 prodname: 'Pinypon - 700014086 - Enfants et Bébés  Paquet de 6 Figurines  Famosa '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079SR8CRR/?tag=tolees0d-21'
 descuento: '22.60'
 average: '16.99'

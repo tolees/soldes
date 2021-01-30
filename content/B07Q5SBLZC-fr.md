@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'vo7 Golazo Burgundy  Basket Homme Chic et élégante - Rouge - 44 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Q5SBLZC/?tag=tolees0d-21'
 descuento: '66.72'
 average: '39.9'

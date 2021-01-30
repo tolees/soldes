@@ -16,6 +16,7 @@ comparePrice: 119.8 EUR
 prodname: 'Tommy Hilfiger Th Essential Reg Polo SS  Blanc  Classic White 100   XX-Large Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NCH8PFJ/?tag=tolees0d-21'
 descuento: '50.00'
 average: '59.9'

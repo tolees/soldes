@@ -16,6 +16,7 @@ comparePrice: 229.9 EUR
 prodname: 'Morphy Richards Supervac Deluxe 32 V'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06ZZWSSD7/?tag=tolees0d-21'
 descuento: '37.41'
 average: '143.9'

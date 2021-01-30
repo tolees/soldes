@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Microsoft – Modern Mobile Mouse – Souris Bluetooth pour PC  ordinateurs portables  tablettes compatible Windows  macOS  Chrome OS  fine  légère  transportable  – Noire  KTF-00002 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L5DDPXX/?tag=tolees0d-21'
 descuento: '27.79'
 average: '25.99'

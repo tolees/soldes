@@ -16,6 +16,7 @@ comparePrice: 849.0 EUR
 prodname: 'Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00A35X6PI/?tag=tolees0d-21'
 descuento: '29.29'
 average: '600.37'

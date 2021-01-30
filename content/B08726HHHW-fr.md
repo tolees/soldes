@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Montre Connectée Intelligente Femmes Homme Enfant Smartwatch Etanche Bracelet Connecté Podometre Cardio fréquencemètre et Ecouteur Bluetooth Sport pour iPhone/Samsung/Huawei  Bleu '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08726HHHW/?tag=tolees0d-21'
 descuento: '78.58'
 average: '29.99'

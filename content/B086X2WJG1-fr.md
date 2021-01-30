@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Fort Boyard Nouvelle Edition'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21'
 descuento: '32.73'
 average: '26.9'

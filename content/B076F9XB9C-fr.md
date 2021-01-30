@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Royal Bobbles - Bobble Head Michonne - The Walking Dead'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076F9XB9C/?tag=tolees0d-21'
 descuento: '30.04'
 average: '25.18'

@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Replay Grover Jean Droit   Medium Blue 9   W30/L36  Taille Fabricant: 30  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ND83D6D/?tag=tolees0d-21'
 descuento: '60.31'
 average: '51.2'

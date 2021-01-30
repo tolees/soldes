@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'EMPEER ▪ Lot de 2 Sacs Rangement Bouteilles Toile de Jute Rouge Bonhomme de Neige Vert Père noël Drole Insolite Idées Cadeaux Soiree Porte Sac Oenologie Bonnes Soirées Fêtes'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HZGBGB7/?tag=tolees0d-21'
 descuento: '37.52'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 54.04 EUR
 prodname: 'Rasoir électrique pour hommes  rasoir électrique rotatif rechargeable USB avec tondeuse pop-up et écran LCD  tondeuse à barbe professionnelle pour hommes  IPX7 étanche  Maybuy3069'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08B3PDTRH/?tag=tolees0d-21'
 descuento: '44.50'
 average: '29.99'

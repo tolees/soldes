@@ -16,6 +16,7 @@ comparePrice: 329.95 EUR
 prodname: 'TomTom GPS Voiture GO Premium  5 Pouces  Info Trafic  Alertes de Zones de Danger  Cartes Monde  Mise à Jour via WiFi  Appels mains-libres  Fixation Magnétique Alimentée'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NC3W4HC/?tag=tolees0d-21'
 descuento: '30.31'
 average: '229.95'

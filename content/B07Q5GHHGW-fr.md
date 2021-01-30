@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Nappe carrée"Jerusalem Lumière" Orange – Made in France - 100% coton – Lavable en machine – Dimension 160 x 160 cm - cadeau Judaica Roch Hachana hashanah souccoth souccot'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Q5GHHGW/?tag=tolees0d-21'
 descuento: '55.70'
 average: '37.5'

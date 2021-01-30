@@ -16,6 +16,7 @@ comparePrice: 30.99 EUR
 prodname: 'FORMIZON Apprentissage des Mathématiques Jeu Monkey Match  Compter Les Jouets  Jeu Montessori Singe Échelle Équilibre  Balance Numérique pour Outil Éducatif STEM Cadeau Enfants  Chien '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YJHWDQS/?tag=tolees0d-21'
 descuento: '35.50'
 average: '19.99'

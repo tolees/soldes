@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Under Armour Armour Insulated Hooded Veste Homme Noir FR : L  Taille Fabricant : Taille LG '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L98BMPW/?tag=tolees0d-21'
 descuento: '55.60'
 average: '60.84'

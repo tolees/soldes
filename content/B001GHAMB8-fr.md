@@ -16,6 +16,7 @@ comparePrice: 129.5 EUR
 prodname: 'August DA100D Télévision Portable 10" 25 4cm  TNT HD - Téléviseur Enregistreur Écran LCD HDMI et AV Lecteur clé USB Multimédia - TV Analogique Alimentation Secteur piles AA Rechargeables ou Allume-Cigare'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001GHAMB8/?tag=tolees0d-21'
 descuento: '25.08'
 average: '97.02'

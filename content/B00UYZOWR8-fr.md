@@ -16,6 +16,7 @@ comparePrice: 52.02 EUR
 prodname: 'Kit d’apprentissage scientifique OSOYOO  Ensemble d’expériences électricité et magnétisme  circuits de construction  pour élèves de la 3e à la 9e année'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00UYZOWR8/?tag=tolees0d-21'
 descuento: '42.39'
 average: '29.97'

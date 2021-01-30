@@ -16,6 +16,7 @@ comparePrice: 10.19 EUR
 prodname: 'POP! Marvel: Black Widow – Taskmaster w/ Shield'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XH4C28X/?tag=tolees0d-21'
 descuento: '26.30'
 average: '7.51'

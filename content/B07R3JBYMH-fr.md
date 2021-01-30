@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Ultimate Ears Megaboom Enceinte sans Fil Portable Bluetooth  Basses Puissantes  Etanche  Flottante  Connexion Multiple  Batterie 20h - Grise Foncée'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07R3JBYMH/?tag=tolees0d-21'
 descuento: '60.30'
 average: '79.0'

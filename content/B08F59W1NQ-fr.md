@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Transmetteur FM Bluetooth 5.0 Adaptateur Radio sans Fil Kit de Voiture Mains Libres  QC3.0 et 5V/2.4A Chargeur Rapid Voiture 2 Ports USB Lumière Colorée Support Siri TF Card Port Audio 3 5mm  Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08F59W1NQ/?tag=tolees0d-21'
 descuento: '40.77'
 average: '21.511428571428567'

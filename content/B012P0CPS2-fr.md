@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'De Longhi Machine à Café à Pompe et Cafetière Filtre 2-en-1  Machine Expresso BCO264.1  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B012P0CPS2/?tag=tolees0d-21'
 descuento: '21.88'
 average: '124.99'

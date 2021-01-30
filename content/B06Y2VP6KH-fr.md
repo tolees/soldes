@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Stanley Sxpw18E Nettoyeur Haute Pression  1800 W  135 Bar  440 L/H'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06Y2VP6KH/?tag=tolees0d-21'
 descuento: '40.63'
 average: '89.0'

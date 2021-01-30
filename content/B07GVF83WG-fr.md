@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Replay Anbass Jean Slim  Noir  Black 7   W34/L32  Taille Fabricant: 34  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GVF83WG/?tag=tolees0d-21'
 descuento: '35.77'
 average: '114.98'

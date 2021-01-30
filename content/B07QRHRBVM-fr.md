@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Instant Sports pour Nintendo Switch'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QRHRBVM/?tag=tolees0d-21'
 descuento: '26.68'
 average: '21.99'

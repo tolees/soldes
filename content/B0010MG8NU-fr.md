@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Elizabeth Arden – 5th Avenue – Eau de Parfum Femme Vaporisateur – Senteur Florale'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Elizabeth Arden'
 buyurl: 'https://www.amazon.fr/dp/B0010MG8NU/?tag=tolees0d-21'
 descuento: '57.57'
 average: '24.6089189189189'
@@ -27,10 +28,10 @@ Vous avez [Elizabeth Arden – 5th Avenue – Eau de Parfum Femme Vaporisateur �
 
 ℹ️:
 
-- American classic
 - Anytime wear
-- From Elizabeth Arden
-- Floral
 - Ladies
+- From Elizabeth Arden
+- American classic
+- Floral
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0010MG8NU/?tag=tolees0d-21)

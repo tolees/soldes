@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Derhy Nation Robe  Noir 6  38  Taille Fabricant:S  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NGTYHWL/?tag=tolees0d-21'
 descuento: '59.55'
 average: '41.026666666666664'

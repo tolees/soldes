@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Weber 1331004 Bar B Kettle Barbecue à Charbon Noir 57 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004ZJATWQ/?tag=tolees0d-21'
 descuento: '33.33'
 average: '126.0'

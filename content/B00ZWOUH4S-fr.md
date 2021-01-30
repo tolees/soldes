@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Logitech G Driving Force Levier de Vitesse pour Volant de Course G29 et G920  6 Vitesses  Enclenchement de la Marche Arrière par Pression  Conception Acier et Cuir  PS4/Xbox One/PC/Mac - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21'
 descuento: '33.49'
 average: '39.9'

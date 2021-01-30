@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Calvin Klein Sliver Mix 2g Laptop Bag  Pochettes homme  Noir  Black   0.1x0.1x0.1 cm  W x H L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RMLGGD3/?tag=tolees0d-21'
 descuento: '62.19'
 average: '68.02'

@@ -16,6 +16,7 @@ comparePrice: 50.11 EUR
 prodname: 'Buyger 35 pièces Déguisement de Docteur Jouet Costume Cosplay Jeu d imitation Mallette Medecin Outils Médical Cadeau pour Enfant Fille Garçon  Bleu '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MWSCYLH/?tag=tolees0d-21'
 descuento: '52.13'
 average: '21.514999999999997'

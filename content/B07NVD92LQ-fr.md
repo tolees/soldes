@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'WORKPRO Mallette Outils 160 Pièces avec Boîte de Rangement  Kit d Outils pour Usage Domestique ou du Travail'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NVD92LQ/?tag=tolees0d-21'
 descuento: '20.01'
 average: '31.99'

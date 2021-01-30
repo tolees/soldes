@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Ultimate Ears Megablast Enceinte sans Fil Portable Connectée  Wifi et Bluetooth  Basses Puissantes  Amazon Alexa Intégrée  Etanche  Batterie 16h  Connection Multiple  Fonction Mains-Libres - Jaune'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075XW7M1B/?tag=tolees0d-21'
 descuento: '44.09'
 average: '195.12'

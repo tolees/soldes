@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Ultimates Ears Wonderboom enceinte portable Bluetooth  Son étonnamment puissant  Etanche  Connectez deux enceintes pour un son plus puissant  Batterie 10h - Noire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06X6JCBBR/?tag=tolees0d-21'
 descuento: '50.01'
 average: '49.99'

@@ -16,6 +16,7 @@ comparePrice: 15.05 EUR
 prodname: 'L Echelle de Jacob [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071WXGCCR/?tag=tolees0d-21'
 descuento: '33.62'
 average: '9.99'

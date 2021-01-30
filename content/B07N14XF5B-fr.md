@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'Guess W1231L1 Montre Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N14XF5B/?tag=tolees0d-21'
 descuento: '45.19'
 average: '74.0'

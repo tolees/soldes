@@ -16,6 +16,7 @@ comparePrice: 28.78 EUR
 prodname: 'HEYSTOP Coque pour Nintendo Switch  Coque de Protection en TPU Compatible avec Console Housse Nintendo Switch et Contrôleur Joy-Con  Verre trempé avec Couvre Pouce Absorption des Chocs et Anti-Rayures'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CVKKSSZ/?tag=tolees0d-21'
 descuento: '51.39'
 average: '13.99'

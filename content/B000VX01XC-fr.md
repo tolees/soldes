@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Classic 2 Eye  Chaussures bateau Homme  Marron Rootbeer Smooth  43.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000VX01XC/?tag=tolees0d-21'
 descuento: '31.01'
 average: '96.58'

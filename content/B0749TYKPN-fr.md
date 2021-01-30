@@ -16,6 +16,7 @@ comparePrice: 78.0 EUR
 prodname: 'Illy Café Moulu Moka Classico 12 x 250 gr'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0749TYKPN/?tag=tolees0d-21'
 descuento: '16.68'
 average: '64.99'

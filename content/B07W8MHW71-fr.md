@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Logitech iPad Air Étui Clavier  3e Génération  | Slim Folio avec Clavier sans Fil Intégré  Graphite '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07W8MHW71/?tag=tolees0d-21'
 descuento: '30.00'
 average: '69.99'

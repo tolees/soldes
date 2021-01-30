@@ -16,6 +16,7 @@ comparePrice: 212.96 EUR
 prodname: 'Bulova Montres Bracelet 97B172'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JMYSX4T/?tag=tolees0d-21'
 descuento: '55.45'
 average: '109.41333333333334'

@@ -16,6 +16,7 @@ comparePrice: 179.94 EUR
 prodname: 'Extech SL510 Sonomètre  Vert'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075VCNH3J/?tag=tolees0d-21'
 descuento: '29.42'
 average: '127.01'

@@ -16,6 +16,7 @@ comparePrice: 80.44 EUR
 prodname: 'Przewalski Veste de cyclisme thermique à manches longues pour homme avec fermeture éclair intégrale et respirante XL Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HP4CNLQ/?tag=tolees0d-21'
 descuento: '64.30'
 average: '28.72'

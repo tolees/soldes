@@ -16,6 +16,7 @@ comparePrice: 76.25 EUR
 prodname: 'Fender Cruz Tools Custom Shop Kit d outillage pour Guitare'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00B5LEH8E/?tag=tolees0d-21'
 descuento: '24.07'
 average: '57.9'

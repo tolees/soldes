@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Montre Intelligente Femme Hommes Moniteur de fréquence Cardiaque avec écran Couleur  IP68 étanche Réveil Automatique écran Montre Intelligente téléphone Mobile pour iPhone Android  Black '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MPFKZPV/?tag=tolees0d-21'
 descuento: '50.01'
 average: '49.99'

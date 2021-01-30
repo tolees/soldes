@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'eXtremeRate 2 Pcs Verres Trempé pour Nintendo Switch  Film Protection Protecteur d Écran en Verre Trempé HD Transparent [Anti-Rayures  Anti-Empreintes Digitales  Incassable  sans Bulles]-Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HN7XFK9/?tag=tolees0d-21'
 descuento: '28.59'
 average: '14.99'

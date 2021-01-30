@@ -16,6 +16,7 @@ comparePrice: 579.0 EUR
 prodname: 'YAMAHA RX-V585 – Amplificateur Home Cinema 145W – Système Bluetooth  Wifi  Airplay  Multiroom – Compatible avec smartphones et ordinateurs – Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CMBT3BQ/?tag=tolees0d-21'
 descuento: '22.45'
 average: '449.0'

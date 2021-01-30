@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Sony WI-XB400 Écouteurs Intra-Auriculaires sans Fil Extra Bass – Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07X1TDTQB/?tag=tolees0d-21'
 descuento: '21.72'
 average: '46.97'

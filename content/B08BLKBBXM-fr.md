@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'RAMPOW Chargeur Secteur USB 24W 2 Ports [Garantie à Vie] Chargeur USB Prise Quick Charge 3.0 pour iPhone 11/XR/X/XS/X/8  iPad Pro/Air  Samsung S10/S9/S8  Huawei  Xiaomi  Oneplus - Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BLKBBXM/?tag=tolees0d-21'
 descuento: '44.02'
 average: '13.99'

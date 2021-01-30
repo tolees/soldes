@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Disque Dur Externe 1 to USB 3.0 pour PC  Mac  MacBook  Xbox One 1To Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08D6G6W8X/?tag=tolees0d-21'
 descuento: '30.45'
 average: '47.99'

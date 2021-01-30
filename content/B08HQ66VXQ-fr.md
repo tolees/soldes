@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Ruban LED Sylvwin Bande LED 5m RGB avec Télécommande 5050 Bandes LED Lumineuse avec 16 Changements de Couleur 4 Modes pour Maison Chambre Télévision Décoration D armoire Fête'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HQ66VXQ/?tag=tolees0d-21'
 descuento: '37.05'
 average: '16.99'

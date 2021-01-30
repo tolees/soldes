@@ -16,6 +16,7 @@ comparePrice: 75.65 EUR
 prodname: 'ELTEN 78671-43 Rigger Boot Chaussures de sécurité ESD S3 CI Taille 43'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00GAK3PR4/?tag=tolees0d-21'
 descuento: '20.00'
 average: '60.52'

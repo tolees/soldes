@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Dim - Body Touch - Culotte - Séduction - Uni - Femme - Noir - FR : 38  Taille fabricant : 38 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005XTIZSW/?tag=tolees0d-21'
 descuento: '51.67'
 average: '8.7'

@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: '2 Batteries pour Xbox One Manette Sans Fil avec 2 en 1 Câble de Charge Batterie NiMH 1200mAh pour Xbox One / One S / One X / One Elite'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TKV38KX/?tag=tolees0d-21'
 descuento: '45.29'
 average: '19.69'

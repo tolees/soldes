@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Levi s unbasic  Hoodie Sweat-Shirt À Capuche  Gris  Smokestack Heather 0011   Large Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KF4QXWF/?tag=tolees0d-21'
 descuento: '15.93'
 average: '58.85'

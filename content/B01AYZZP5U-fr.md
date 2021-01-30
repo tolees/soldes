@@ -16,6 +16,7 @@ comparePrice: 359.0 EUR
 prodname: 'Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-Fidélité  Noir/Argent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01AYZZP5U/?tag=tolees0d-21'
 descuento: '66.58'
 average: '154.37333333333333'

@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Lacoste femme NF2731CE Chantaco Sac porte epaule Rose  Bittersweet '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TP696NK/?tag=tolees0d-21'
 descuento: '37.95'
 average: '121.0'

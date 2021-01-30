@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'VTechKidizoom Smartwatch Connect DX2 – Framboise – Montre Connectée Pour Enfants'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FMV8W9R/?tag=tolees0d-21'
 descuento: '17.60'
 average: '61.79'

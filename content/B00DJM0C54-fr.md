@@ -16,6 +16,7 @@ comparePrice: 61.67 EUR
 prodname: 'Dragonball GT - Box 3 [Import allemand]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00DJM0C54/?tag=tolees0d-21'
 descuento: '41.27'
 average: '36.22'

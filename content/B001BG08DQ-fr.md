@@ -16,6 +16,7 @@ comparePrice: 598.0 EUR
 prodname: 'Juki MO-654DE Surjeteuse  Métal  Blanc  34 x 27 x 29 5 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001BG08DQ/?tag=tolees0d-21'
 descuento: '24.92'
 average: '449.0'

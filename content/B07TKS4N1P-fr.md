@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Kaylin Cara  Escarpins Femme  Gris  Stone Stone   38 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TKS4N1P/?tag=tolees0d-21'
 descuento: '60.00'
 average: '35.98'

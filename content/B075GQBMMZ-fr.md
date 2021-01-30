@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'LEGO DUPLO - Les animaux de la ferme - 10870 - Jeu de Construction'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075GQBMMZ/?tag=tolees0d-21'
 descuento: '30.03'
 average: '6.99'

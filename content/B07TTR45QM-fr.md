@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'JSVER Cube Multiprise USB 3 Prises avec 3 Ports USB Chargeur de Voyage 5V3 1A/15 5W  Multiprises Parasurtenseur Parafoudre et Surtension avec Interrupteur Cable 1.5m pour Smartphone Tablette- Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TTR45QM/?tag=tolees0d-21'
 descuento: '20.01'
 average: '16.79'

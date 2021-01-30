@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'BERING Montre 33440-227'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00IUJQP9S/?tag=tolees0d-21'
 descuento: '25.13'
 average: '186.43'

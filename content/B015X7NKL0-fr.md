@@ -16,6 +16,7 @@ comparePrice: 134.99 EUR
 prodname: 'Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent 26 x 39 x 25 cm 5 L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015X7NKL0/?tag=tolees0d-21'
 descuento: '25.93'
 average: '102.78999999999999'

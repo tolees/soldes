@@ -16,6 +16,7 @@ comparePrice: 9.86 EUR
 prodname: 'Funko Pop! TV: Game of Thrones - Crystal Night King w/Dagger in Chest Multicolore Standard'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Funko'
 buyurl: 'https://www.amazon.fr/dp/B07RMBCFPC/?tag=tolees0d-21'
 descuento: '39.15'
 average: '9.53305555555556'

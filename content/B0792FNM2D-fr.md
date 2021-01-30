@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Philips QP620/50 OneBlade Kit Lames Visage + Corps  2 Lames + 1 Système de Protection des Zones Sensibles + 1 Sabot Corps '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0792FNM2D/?tag=tolees0d-21'
 descuento: '46.98'
 average: '15.9'

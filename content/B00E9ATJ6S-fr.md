@@ -16,6 +16,7 @@ comparePrice: 463.27 EUR
 prodname: 'Certina c026.407.16.037.00 Montre pour Hommes en Cuir analogique Automatique Taille XL'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00E9ATJ6S/?tag=tolees0d-21'
 descuento: '20.00'
 average: '370.62'

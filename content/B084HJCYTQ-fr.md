@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Samurai Shodown'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084HJCYTQ/?tag=tolees0d-21'
 descuento: '40.19'
 average: '29.9'

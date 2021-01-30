@@ -16,6 +16,7 @@ comparePrice: 81.59 EUR
 prodname: 'Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz  DDR4  DRAM  Mémoire pour PC de Gamer  16Go  CL16  Gris '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HP7ZZVP/?tag=tolees0d-21'
 descuento: '26.47'
 average: '59.99'

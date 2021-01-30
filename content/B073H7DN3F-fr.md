@@ -16,6 +16,7 @@ comparePrice: 210.89 EUR
 prodname: 'Sandvik Coromant Qs-3–80ll202034–10 C Coroturn 300 QS Tige Outil pour Consulter'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B073H7DN3F/?tag=tolees0d-21'
 descuento: '30.00'
 average: '147.62'

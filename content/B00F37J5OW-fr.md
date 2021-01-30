@@ -16,6 +16,7 @@ comparePrice: 1261.93 EUR
 prodname: 'Euroclinic Source de lumière LED'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00F37J5OW/?tag=tolees0d-21'
 descuento: '30.00'
 average: '992.6433333333333'

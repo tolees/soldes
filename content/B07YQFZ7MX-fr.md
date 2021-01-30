@@ -16,6 +16,7 @@ comparePrice: 3.2 EUR
 prodname: 'Régilait Lait en Poudre Écrémé Vitalité 300 g'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YQFZ7MX/?tag=tolees0d-21'
 descuento: '31.87'
 average: '2.18'

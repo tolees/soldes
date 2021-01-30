@@ -16,6 +16,7 @@ comparePrice: 1109.0 EUR
 prodname: 'Samsung Galaxy Note 10+ - Smartphone Portable débloqué 4G  Ecran: 6 8 Pouces - 256 Go - Double Nano-SIM - Android  - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07X1P8NQP/?tag=tolees0d-21'
 descuento: '27.95'
 average: '799.0'

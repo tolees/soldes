@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Tiges de son mâles lisses et durables en silicone  cathéters Tiges d irritation'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082XRPSWY/?tag=tolees0d-21'
 descuento: '60.02'
 average: '9.99'

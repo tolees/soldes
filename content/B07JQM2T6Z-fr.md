@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour Men s Official Tour Cap 3.0 Casquette Homme  Blanc  S/M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JQM2T6Z/?tag=tolees0d-21'
 descuento: '58.27'
 average: '12.52'

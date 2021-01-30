@@ -16,6 +16,7 @@ comparePrice: 369.95 EUR
 prodname: 'Bose Portable Smart Speaker - avec Contrôle Vocal Alexa Intégré  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07W8QXLCK/?tag=tolees0d-21'
 descuento: '31.07'
 average: '254.99'

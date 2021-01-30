@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Team Kalorik Four Rétro 19.5 Litres avec Pince  Plateaux et Grille  0-230°C   1300 W  Métal/Verre  Rouge  TKG OT 2500 R'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XHLHNHZ/?tag=tolees0d-21'
 descuento: '60.20'
 average: '51.73'

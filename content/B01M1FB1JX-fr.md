@@ -16,6 +16,7 @@ comparePrice: 99.27 EUR
 prodname: 'Hugo Boss Homme Analogique Classique Quartz Montre avec Bracelet en Cuir 1513425'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01M1FB1JX/?tag=tolees0d-21'
 descuento: '20.00'
 average: '79.42'

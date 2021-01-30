@@ -16,6 +16,7 @@ comparePrice: 80.85 EUR
 prodname: 'Chi Chi London Daniella Robe de soirée  Bleu  Navy NB   36  Taille Fabricant: 8  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JJPTXP3/?tag=tolees0d-21'
 descuento: '23.24'
 average: '62.06'

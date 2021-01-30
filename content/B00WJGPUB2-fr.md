@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'NETGEAR EX3800-100FRS  Répéteur Wifi  Amplificateur Wifi AC750  wifi extender   wifi booster   Transformez les Zones Mortes en Zones Couvertes  avec Prise de Courant Intégrée   compatible toutes box'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00WJGPUB2/?tag=tolees0d-21'
 descuento: '18.19'
 average: '44.99'

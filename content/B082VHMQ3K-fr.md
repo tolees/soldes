@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'ZD-O Wired Gaming Controller 6 Remappable Multi-Function Buttons for Steam Nintendo Switch Lapto/PC Win7-Win10  Android Smartphone Tablet VR TV Box'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082VHMQ3K/?tag=tolees0d-21'
 descuento: '27.60'
 average: '20.99'

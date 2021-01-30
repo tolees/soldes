@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Playmobil - Parcours d Obstacles  - 6930'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06X6NMQT9/?tag=tolees0d-21'
 descuento: '33.34'
 average: '19.99'

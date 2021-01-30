@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Vileda – Balai vapeur Steam XXL – Nettoyeur vapeur multi-surfaces – Idéal pour tous types de sols et moquette – Patin de rechange inclus  Noir/Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KQS8N55/?tag=tolees0d-21'
 descuento: '34.65'
 average: '87.94666666666666'

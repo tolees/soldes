@@ -16,6 +16,7 @@ comparePrice: 15.05 EUR
 prodname: '1917 [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'None'
 buyurl: 'https://www.amazon.fr/dp/B083XNNR58/?tag=tolees0d-21'
 descuento: '25.91'
 average: '11.3630645161291'

@@ -16,6 +16,7 @@ comparePrice: 227.27 EUR
 prodname: 'D-Link DGS-1210-10P Switch Smart Web Manageable 10 Ports Gigabit 10/100/1000mbps avec POE - Idéal pour Entreprise Administration et Réseaux Gérés'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B003KJTZYK/?tag=tolees0d-21'
 descuento: '64.08'
 average: '81.63'

@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Asics Gel-Nimbus 22 Lite-Show  Running Shoe Womens  Sheet Rock/Sheet Rock  40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0812GM4NL/?tag=tolees0d-21'
 descuento: '30.79'
 average: '131.5'

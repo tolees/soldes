@@ -16,6 +16,7 @@ comparePrice: 259.0 EUR
 prodname: 'Barigo 386MSMA Marron Station météo numérique - Stations météo numériques  Marron '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B007FRNHT2/?tag=tolees0d-21'
 descuento: '31.28'
 average: '177.98'

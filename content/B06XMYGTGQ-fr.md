@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Ice-Watch - Ice Lo White Blue - Montre Blanche pour Femme avec Bracelet en Silicone - 013425  Small '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XMYGTGQ/?tag=tolees0d-21'
 descuento: '26.67'
 average: '85.89230769230768'

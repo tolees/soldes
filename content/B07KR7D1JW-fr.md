@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Under Armour UA Storm Launch Pant Pantalon Homme  Bleu  S'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KR7D1JW/?tag=tolees0d-21'
 descuento: '64.99'
 average: '24.51'

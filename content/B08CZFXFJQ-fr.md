@@ -16,6 +16,7 @@ comparePrice: 111.26 EUR
 prodname: 'Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox（1to， Or）'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CZFXFJQ/?tag=tolees0d-21'
 descuento: '56.87'
 average: '47.99'

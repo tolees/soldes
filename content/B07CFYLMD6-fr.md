@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Maison Lejaby Mandala Cerclé Soutien-Gorge à Armature  Rose  Corset 919    Taille Fabricant: 100DD  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CFYLMD6/?tag=tolees0d-21'
 descuento: '60.34'
 average: '39.66'

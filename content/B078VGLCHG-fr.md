@@ -16,6 +16,7 @@ comparePrice: 220.0 EUR
 prodname: 'Sony MDR-1AM2 Casque Hi-Res Audio - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21'
 descuento: '41.36'
 average: '147.699523809525'
@@ -27,12 +28,12 @@ Vous avez [Sony MDR-1AM2 Casque Hi-Res Audio - Noir](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Des basses puissantes avec la technologie Beat Response Control
+- Profitez de votre musique dans sa qualité originale grâce au Hi-Res Audio. Type de cordon: OFC détachable / argenté. Style dusure: Circumaural
 - Longueur de la corde:47-1 / 4 "
+- Oreillettes pivotantes pour un transport aisé; Coussinets anti-pression pour un confort total
 - Le design enveloppant et fermé retient le son à lintérieur. Diaphragme: LCP revêtu daluminium
 - Diaphragme en film polymère à cristaux liquides réactif pour plus de clarté
-- Profitez de votre musique dans sa qualité originale grâce au Hi-Res Audio. Type de cordon: OFC détachable / argenté. Style dusure: Circumaural
-- Oreillettes pivotantes pour un transport aisé; Coussinets anti-pression pour un confort total
 - Sensibilités (dB/mW): 98 dB/mW
+- Des basses puissantes avec la technologie Beat Response Control
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21)

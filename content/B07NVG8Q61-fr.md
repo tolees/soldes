@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Mpow H7 Casque Bluetooth sans Fil Casque Audio avec Micro Intégré CVC 6.0 Confortable Cache-Oreilles Portable Casque sans Fil Stéréo Hi-F Casque Bluetooth pour Cours en Ligne/Téléphone/Tablettes/PC'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NVG8Q61/?tag=tolees0d-21'
 descuento: '39.30'
 average: '21.24'

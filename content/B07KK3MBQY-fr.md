@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Replay Anbass Jean Slim  Beige  Sand 10   W33/L34  Taille Fabricant: 33  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KK3MBQY/?tag=tolees0d-21'
 descuento: '28.09'
 average: '99.95'

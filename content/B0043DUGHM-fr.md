@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Yamaha CD-S300 Lecteur CD mp3 wma USB Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0043DUGHM/?tag=tolees0d-21'
 descuento: '28.37'
 average: '249.99'

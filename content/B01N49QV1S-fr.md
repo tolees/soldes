@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Aicok Ensemble de couteaux  Couteaux de chef avec bloc en bois  Set de couteaux professionnels  Lot de couteaux en acier inoxydable à haute teneur avec support en bois  6 pièces'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N49QV1S/?tag=tolees0d-21'
 descuento: '42.86'
 average: '39.99'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Mixcder E7 Casque Bluetooth à Réduction Active de Bruit Over-Ear Audio Stéréo Écouteurs Circum Auriculaire ANC sans Fil avec Micro Basses Puissantes  Léger  20h de Jeu  pour PC Smartphone TV - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077TRXYCN/?tag=tolees0d-21'
 descuento: '56.16'
 average: '56.99'

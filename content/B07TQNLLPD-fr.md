@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'BÉABA  Babycook Solo  Robot Bébé 4 en 1 Mixeur-Cuiseur  Cuisson Vapeur  Diversification alimentaire  Petits pots bébé maison  Matcha'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TQNLLPD/?tag=tolees0d-21'
 descuento: '25.01'
 average: '119.99'

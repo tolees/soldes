@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Extracteur de Jus Aobosi Sans BPA Extracteur à Jus avec Fonction Reverse Moteur Silencieux Pour Nutritif Jus de Fruits et Légumes'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DFHTQ81/?tag=tolees0d-21'
 descuento: '24.00'
 average: '68.39'

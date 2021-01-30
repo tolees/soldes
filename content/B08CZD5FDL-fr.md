@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Ucradle Jeu Boulier  Jouet Bois Labyrinthe Jeux Montessori Circuit de Motricité Activité Cube Perle Labyrinthe Motif de Animal Jeu de Société Jouet Educatif Jouet Fille Garcon 3 4 5 Ans'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CZD5FDL/?tag=tolees0d-21'
 descuento: '19.06'
 average: '16.99'

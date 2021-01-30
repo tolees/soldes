@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'GORE Wear C3 Homme Pantalon de pluie GORE-TEX  L  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075S2PHD2/?tag=tolees0d-21'
 descuento: '21.57'
 average: '141.13'

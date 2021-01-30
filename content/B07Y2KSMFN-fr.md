@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Nero Platinum Unlimited'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y2KSMFN/?tag=tolees0d-21'
 descuento: '50.01'
 average: '49.99'

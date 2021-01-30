@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'JBL LIVE 400BT – Casque audio supra-auriculaire sans fil – Écouteurs Bluetooth avec commande pour appels – avec Amazon Alexa intégrée – Autonomie jusqu à 24 heures – Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N9DW8BX/?tag=tolees0d-21'
 descuento: '53.50'
 average: '59.99'

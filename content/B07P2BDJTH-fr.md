@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Superdry Sphere Padded Ultimate Blouson  Noir  Worn Black UIG   XS  Taille Fabricant:8  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07P2BDJTH/?tag=tolees0d-21'
 descuento: '49.56'
 average: '65.57'

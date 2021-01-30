@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Le Grand jour'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B016E66ZJS/?tag=tolees0d-21'
 descuento: '50.10'
 average: '4.99'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt  Bleu  Ink 591   Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MJ7LSXM/?tag=tolees0d-21'
 descuento: '55.56'
 average: '44.0'

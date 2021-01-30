@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: '1MORE écouteurs véritables sans fil  Bluetooth 5.0  lecture 24h / 24  écouteurs stéréo intra-auriculaires avec étui de chargement  microphone intégré  mode de couplage alternatif.'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07M6LP3F9/?tag=tolees0d-21'
 descuento: '29.03'
 average: '63.87'

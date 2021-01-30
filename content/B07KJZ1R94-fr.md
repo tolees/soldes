@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'El Naturalista N5282 Lux Suede El Viajero  Bottes & Bottines Classiques Mixte Adulte  Bleu  Ocean Ocean   39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KJZ1R94/?tag=tolees0d-21'
 descuento: '19.37'
 average: '88.65'

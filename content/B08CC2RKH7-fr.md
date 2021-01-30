@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'RUNACC Gants de Course Écran Tactile pour Hommes et Femmes Hiver Gants Chauds Imperméables Gants de Conduite Antidérapants pour Le Cyclisme Vélo Sporting M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CC2RKH7/?tag=tolees0d-21'
 descuento: '20.21'
 average: '15.95'

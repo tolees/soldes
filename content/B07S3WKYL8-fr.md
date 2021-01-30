@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Nappe carrée"Israël Story" Blanc/Violet – Made in France - 100% coton – Lavable en machine – Dimension 160 x 160 cm - Art Judaica Roch Hachana hashanah souccoth souccot'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S3WKYL8/?tag=tolees0d-21'
 descuento: '57.97'
 average: '29.0'

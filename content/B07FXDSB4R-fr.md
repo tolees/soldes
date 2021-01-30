@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 724 High Rise Straight Jean droit  Femme  Bleu  Two The Nine 0015   W31/L32'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FXDSB4R/?tag=tolees0d-21'
 descuento: '20.05'
 average: '79.95'

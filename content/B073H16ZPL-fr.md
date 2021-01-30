@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'New Classic Toys- Cuisine-Bon Appétit  11053  Blanche/Argent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B073H16ZPL/?tag=tolees0d-21'
 descuento: '27.25'
 average: '85.3375'

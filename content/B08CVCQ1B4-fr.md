@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'eXtremeRate ABXY Boutons de Remplacement Colorés DIY Boutons de Directions Kit de Réparation with Outils pour Nintendo Switch Joy-Con JoyCon Coque Non Inclut'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CVCQ1B4/?tag=tolees0d-21'
 descuento: '46.70'
 average: '7.99'

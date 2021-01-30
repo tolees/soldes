@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'NEWYES NYWT850 Tablette d Ecriture LCD  8.5 Pouces de Longueur - Différentes Couleurs（Noir）'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071J4PW4C/?tag=tolees0d-21'
 descuento: '71.82'
 average: '10.24'

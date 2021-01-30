@@ -16,6 +16,7 @@ comparePrice: 287.99 EUR
 prodname: 'APC Power-Saving Back-UPS PRO - BR900G-FR - Onduleur 900VA  AVR  6 Prises FR  USB  Logiciel d arrêt '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0043YJ0MI/?tag=tolees0d-21'
 descuento: '18.07'
 average: '235.95'

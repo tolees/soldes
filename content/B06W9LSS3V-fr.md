@@ -16,6 +16,7 @@ comparePrice: 94.99 EUR
 prodname: 'Honeywell HYF260E4 Ventilateur Tour QuietSet Puissant et Ultra Silencieux-avec télécommande-HYF260E  Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06W9LSS3V/?tag=tolees0d-21'
 descuento: '42.10'
 average: '55.0'

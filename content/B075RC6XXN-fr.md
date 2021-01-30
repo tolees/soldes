@@ -16,6 +16,7 @@ comparePrice: 327.0 EUR
 prodname: 'GROHE 26381001 Tempesta System 210 Colonne de Douche avec Inverseur Manuel  Argent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075RC6XXN/?tag=tolees0d-21'
 descuento: '56.30'
 average: '142.9'

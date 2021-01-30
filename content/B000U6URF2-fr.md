@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Funny Dream  Derbys Femme  Noir  Black Leather   38 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000U6URF2/?tag=tolees0d-21'
 descuento: '49.97'
 average: '50.0'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'SteelSeries Arctis 3 Console - Casque de Jeu Filaire Stéréo - pour PlayStation 4  Xbox One  Nintendo Switch  RV  Android et iOS - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HBGBFT9/?tag=tolees0d-21'
 descuento: '28.58'
 average: '49.99'

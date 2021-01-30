@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Vans U Old Skool  Basses Mixte adulte - Noir  Black/White   44.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000NSIMFE/?tag=tolees0d-21'
 descuento: '24.07'
 average: '56.95'

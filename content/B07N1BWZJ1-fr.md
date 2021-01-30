@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Legero Novara  Bottes de Neige femme - Noir  Schwarz  Schwarz  00   38 EU  5 UK '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N1BWZJ1/?tag=tolees0d-21'
 descuento: '16.66'
 average: '116.68'

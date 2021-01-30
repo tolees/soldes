@@ -16,6 +16,7 @@ comparePrice: 55.76 EUR
 prodname: 'YUES Manette pour PS4 DUALSHOCK 4 pour Playstation 4/Pro/Slim/3/PC et Ordinateur Portable. Sans Fil Contrôleur de jeu avec Ecran Tactile à Double Vibration et Fonction Audio et Barre Lumineuse  Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HH4Y9QL/?tag=tolees0d-21'
 descuento: '46.22'
 average: '29.99'

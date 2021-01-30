@@ -16,6 +16,7 @@ comparePrice: 175.0 EUR
 prodname: 'Schott NYC JKTAC Blouson  Vert  Kaki Kaki   X-Small  Taille Fabricant:XS  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01E7HTWXM/?tag=tolees0d-21'
 descuento: '59.88'
 average: '70.21'

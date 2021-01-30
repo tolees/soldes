@@ -16,6 +16,7 @@ comparePrice: 48.99 EUR
 prodname: 'SONOFF Mini Interrupteur WiFi Télécommande 4 Pcs  sans Fil Module de Commutation Télécommande Domotique Minuteries Interrupteur Connecté Compatible avec Alexa Echo Google Home'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YY1RLRX/?tag=tolees0d-21'
 descuento: '26.54'
 average: '35.99'

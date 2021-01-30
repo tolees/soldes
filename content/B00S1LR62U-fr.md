@@ -16,6 +16,7 @@ comparePrice: 13.98 EUR
 prodname: 'Older'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00S1LR62U/?tag=tolees0d-21'
 descuento: '45.28'
 average: '7.950000000000001'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Bayonetta & Vanquish 10th Anniversary Bundle - Launch Edition pour Xbox One'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21'
 descuento: '30.01'
 average: '27.99'

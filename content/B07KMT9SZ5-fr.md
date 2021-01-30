@@ -16,6 +16,7 @@ comparePrice: 101.92 EUR
 prodname: 'Kaba Cylindre Haute sécurité + Renfort Matrix 30 x 50 Laiton 5 clés LK Double EMB+ Lame  Doré  0'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KMT9SZ5/?tag=tolees0d-21'
 descuento: '20.00'
 average: '81.54'

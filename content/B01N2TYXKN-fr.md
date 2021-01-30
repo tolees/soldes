@@ -16,6 +16,7 @@ comparePrice: 70.22 EUR
 prodname: 'LES FILLES DE CALEB: ÉMILIE et BLANCHE'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N2TYXKN/?tag=tolees0d-21'
 descuento: '51.15'
 average: '34.3'

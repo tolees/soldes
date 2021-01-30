@@ -16,6 +16,7 @@ comparePrice: 8.69 EUR
 prodname: 'Yizhet Dongle USB Bluetooth Adaptateur Mini clé USB Bluetooth 5.0 avec Faible consommation d énergie Plug and Play  Bluetooth 5.0 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CV5WBMG/?tag=tolees0d-21'
 descuento: '15.07'
 average: '7.38'

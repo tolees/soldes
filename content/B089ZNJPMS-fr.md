@@ -16,6 +16,7 @@ comparePrice: 24.97 EUR
 prodname: 'COOLJOY Puzzles en Bois Magnétique 100 + Pièces Animaux Domestiques de mignons Puzzle Aimant Jigsaw Avec Tableau Noir de Chevalet à Montessori Educatif Jouets Educatif pour Enfants Garcon Fille 3+ Ans'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089ZNJPMS/?tag=tolees0d-21'
 descuento: '43.97'
 average: '13.656666666666666'

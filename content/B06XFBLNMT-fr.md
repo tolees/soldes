@@ -16,6 +16,7 @@ comparePrice: 104.99 EUR
 prodname: 'Seb Clipsominut  Easy Cocotte-Minute 6 L Induction + Livre 100 Recettes Autocuiseur Inox Fabriqué en France Facile à Utiliser Bleue P4620716'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XFBLNMT/?tag=tolees0d-21'
 descuento: '23.35'
 average: '80.47'

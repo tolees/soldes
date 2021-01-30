@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'De Longhi Magnifica  Machine expresso avec broyeur  ESAM4000.B  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0036TDF6I/?tag=tolees0d-21'
 descuento: '17.06'
 average: '331.77'

@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Under Armour Accelerate Terrace II Veste Homme  Noir  L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L9KXGKQ/?tag=tolees0d-21'
 descuento: '66.58'
 average: '40.11'

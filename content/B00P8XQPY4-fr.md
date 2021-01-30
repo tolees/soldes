@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'Clé USB 3.0 SanDisk Ultra 128 Go avec une vitesse de lecture allant jusqu à 130 Mo/s'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00P8XQPY4/?tag=tolees0d-21'
 descuento: '44.42'
 average: '18.89'

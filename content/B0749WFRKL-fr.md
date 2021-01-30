@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Philips FC8245/09 Aspirateur avec Sac PowerGo  750W  Capacité de Poussière 3L  Suceur Plat Intégré  Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0749WFRKL/?tag=tolees0d-21'
 descuento: '16.80'
 average: '83.19'

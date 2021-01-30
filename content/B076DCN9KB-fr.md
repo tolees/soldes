@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Carl Victor - Poêle Grill en Fonte 28 cm Poignée en Bois  Induction'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076DCN9KB/?tag=tolees0d-21'
 descuento: '36.70'
 average: '69.0'

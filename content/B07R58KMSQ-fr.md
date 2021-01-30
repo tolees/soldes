@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Super Mario Maker 2 - édition limitée'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07R58KMSQ/?tag=tolees0d-21'
 descuento: '40.12'
 average: '41.91'

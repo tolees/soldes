@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'camel active Womenswear Jacke Jacket  Vert  Menthe poivrée 39   46 Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VCJT7VX/?tag=tolees0d-21'
 descuento: '63.28'
 average: '58.73'

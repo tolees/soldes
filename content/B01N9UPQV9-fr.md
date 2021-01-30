@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s The Perfect Tee T-Shirt - Femme-Blanc  Sportswear Logo White 0297 -Small'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N9UPQV9/?tag=tolees0d-21'
 descuento: '24.04'
 average: '18.99'

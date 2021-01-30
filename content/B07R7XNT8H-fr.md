@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Columbia Lake 22  Doudoune Longue à Capuche  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07R7XNT8H/?tag=tolees0d-21'
 descuento: '57.35'
 average: '72.5'

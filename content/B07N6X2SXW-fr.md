@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Tommy Hilfiger Cosy High Heel Leather Bootie  Botines Femme   Black 990   38 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N6X2SXW/?tag=tolees0d-21'
 descuento: '57.25'
 average: '76.9'

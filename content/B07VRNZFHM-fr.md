@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'FITTOO Costume da Bagno Donna Bikini Brasiliana Un Pezzo Sexy Monokini Slim Intero Sexy U-Collo Costume Intero Mare Push UP'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VRNZFHM/?tag=tolees0d-21'
 descuento: '38.48'
 average: '15.99'

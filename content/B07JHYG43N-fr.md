@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'Amazon Essentials Pantalon extensible pour homme Coupe ajustée Treillis  stone  36W x 33L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JHYG43N/?tag=tolees0d-21'
 descuento: '57.27'
 average: '8.97'

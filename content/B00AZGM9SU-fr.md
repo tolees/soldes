@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Smiffys Perruque de pirate  brune  avec bandana  perles et breloques'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00AZGM9SU/?tag=tolees0d-21'
 descuento: '19.35'
 average: '13.63'

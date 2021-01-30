@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Under Armour UA Roland Backpack Hydrofuge Pratique  Sac à Dos Polyvalent avec Compartiment à Ordinateur pour MacBook 15" ou Taille similaire Unisexe  Bleu  Unique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JKT88ZT/?tag=tolees0d-21'
 descuento: '46.80'
 average: '15.96'

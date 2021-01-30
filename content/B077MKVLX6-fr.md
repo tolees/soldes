@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'PUMA Viz Runner  Chaussures de Running Compétition Homme  Black White  43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077MKVLX6/?tag=tolees0d-21'
 descuento: '19.82'
 average: '48.11'

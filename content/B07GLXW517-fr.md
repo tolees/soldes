@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Moulinex moule à gâteaux XA609001 pour les multicuiseurs Cookeo Gourmet Connect USB'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GLXW517/?tag=tolees0d-21'
 descuento: '44.04'
 average: '13.99'

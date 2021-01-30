@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Desigual Bag Folklore Cards Olesa Women  Sacs portés épaule femme  Noir  Negro   14x32.5x31 cm  B x H T '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GTZVR67/?tag=tolees0d-21'
 descuento: '52.03'
 average: '38.35'

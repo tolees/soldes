@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-Star Bronson Slim Chino Pantalon  Bleu  Mazarine Blue 5126-4213   32W / 30L Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BGTOIHY/?tag=tolees0d-21'
 descuento: '29.98'
 average: '69.98'

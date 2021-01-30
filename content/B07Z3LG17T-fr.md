@@ -16,6 +16,7 @@ comparePrice: 33.47 EUR
 prodname: 'YUCUN SSD 240 Go 2 5 Pouces SATA III Disque Flash SSD 240GB Interne Solid State Drive'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Z3LG17T/?tag=tolees0d-21'
 descuento: '16.67'
 average: '27.89'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Multi Mat Sophie la girafe - Tapis d éveil'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GX95N3N/?tag=tolees0d-21'
 descuento: '33.95'
 average: '46.23'

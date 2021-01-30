@@ -16,6 +16,7 @@ comparePrice: 15.05 EUR
 prodname: 'Arrête-Moi si tu Peux [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00ABIPJ3Y/?tag=tolees0d-21'
 descuento: '33.62'
 average: '9.99'

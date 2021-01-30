@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'Xiaomi Redmi Note 5 Smartphone Portable Débloqué 4G  Ecran: 5 99 Pouces - 64 Go - Nano-SIM - Android  Or -'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CZS7T17/?tag=tolees0d-21'
 descuento: '31.97'
 average: '170.0'

@@ -16,6 +16,7 @@ comparePrice: 179.9 EUR
 prodname: 'Tommy Hilfiger Honey Workbag Cb  Sacs bandoulière femme  Bleu  Tommy Navy Mix  '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N8RL2RM/?tag=tolees0d-21'
 descuento: '22.70'
 average: '139.06'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Spyro Reignited Trilogy  Switch '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SFXLGW8/?tag=tolees0d-21'
 descuento: '25.23'
 average: '29.8375'

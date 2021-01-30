@@ -16,6 +16,7 @@ comparePrice: 222.99 EUR
 prodname: 'Klein - 9459 - Jeu d imitation - Cuisine en bois avec équipement Miele  grand modèle'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00TKXBRF0/?tag=tolees0d-21'
 descuento: '46.21'
 average: '119.95'

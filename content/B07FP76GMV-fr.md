@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO®-Star Wars™ Action Battle L attaque du générateur de Hoth™ Jeu de construction  7 Ans et Plus  235 Pièces 75239'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FP76GMV/?tag=tolees0d-21'
 descuento: '26.04'
 average: '22.18'

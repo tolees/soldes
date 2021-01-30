@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Stanley Xtht0-33501 Mesure Auto lock 8Mx32 - Ruban Large - Traitement Mylar Et Blade Armor - Crochet Avec Position Du zéro Réel - Boitier Ergonomique Bi matière - Trou D Accroche Pour Dragonne'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00OAFBJFQ/?tag=tolees0d-21'
 descuento: '15.43'
 average: '25.37'

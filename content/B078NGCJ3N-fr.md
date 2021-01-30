@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'Merrell Thermo Freeze Mid WP  Chaussures de Randonnée Hautes Homme  Noir  Black   44.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078NGCJ3N/?tag=tolees0d-21'
 descuento: '20.05'
 average: '151.9'

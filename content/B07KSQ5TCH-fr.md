@@ -16,6 +16,7 @@ comparePrice: 122.0 EUR
 prodname: 'Love Moschino Logo Box Short Sleeve T-Shirt   Black C74   40  Taille Fabricant: 42  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KSQ5TCH/?tag=tolees0d-21'
 descuento: '27.43'
 average: '88.53'

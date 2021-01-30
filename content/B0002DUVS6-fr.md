@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Rode RM2 Pince pour Microphone Classic/NTK/K2/série NT Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0002DUVS6/?tag=tolees0d-21'
 descuento: '33.61'
 average: '11.95'

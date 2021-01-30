@@ -16,6 +16,7 @@ comparePrice: 153.99 EUR
 prodname: 'Beurer TL 80 Lampe de Luminothérapie - 10.000 Lux - Combattez le Blues Hivernal - Simulation de la Lumière du Jour - Angle d Inclinaison Réglable en Continu - CE Médical'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005HDLGQW/?tag=tolees0d-21'
 descuento: '51.95'
 average: '73.99'

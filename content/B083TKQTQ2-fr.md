@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'yobola Ecouteur Bluetooth  Écouteur sans Fil 5.0 24h de Lecture stéréo 3D HD Oreillette sans Fil avec Mic  Touch Control  Auriculaires Bluetooth avec Étui de Chargement sans Fil'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083TKQTQ2/?tag=tolees0d-21'
 descuento: '55.56'
 average: '39.99'

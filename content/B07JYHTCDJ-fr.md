@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tommy Hilfiger Gramercy Tapered Hw A Jean Droit  Bleu  Tana 913   W26/L32  Taille Fabricant: 26/32  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JYHTCDJ/?tag=tolees0d-21'
 descuento: '50.36'
 average: '69.0'

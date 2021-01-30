@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Playmobil - Calèche d Hiver - 70397'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B081HQ8KN7/?tag=tolees0d-21'
 descuento: '57.52'
 average: '16.2855319148935'

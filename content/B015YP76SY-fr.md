@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Beurer Me 90 Electrocardiographe Connecté avec USB/Bluetooth'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015YP76SY/?tag=tolees0d-21'
 descuento: '23.01'
 average: '92.38'

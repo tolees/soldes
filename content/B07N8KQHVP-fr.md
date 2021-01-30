@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Hugo Uptown Bootie55-s  Botines Femme  Noir  Black 001   39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N8KQHVP/?tag=tolees0d-21'
 descuento: '25.73'
 average: '259.95'

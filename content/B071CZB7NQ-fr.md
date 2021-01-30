@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Enceinte Haut-parleur Bluetooth Portable Lampe de Chevet LED avec Contrôle Tactile  Lampe de Table Couleur Changeant la Lumière de Nuit avec le Réveil pour la Chambre'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071CZB7NQ/?tag=tolees0d-21'
 descuento: '38.34'
 average: '36.99'

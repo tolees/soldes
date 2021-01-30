@@ -16,6 +16,7 @@ comparePrice: 129.95 EUR
 prodname: 'G-STAR RAW 3301 Ripped Mid Waist Boyfriend Jeans  Bleu  lt Vintage Aged Destroy 8973-9114   31W / 32L Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JJ4B91T/?tag=tolees0d-21'
 descuento: '15.39'
 average: '109.95'

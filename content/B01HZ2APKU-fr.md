@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Thrustmaster T-16000M FCS FLIGHT PACK joystick  manette des gaz et palonnier joystick  manette des gaz et palonnier compatible PC'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01HZ2APKU/?tag=tolees0d-21'
 descuento: '21.50'
 average: '172.69'

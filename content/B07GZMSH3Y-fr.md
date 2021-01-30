@@ -16,6 +16,7 @@ comparePrice: 419.0 EUR
 prodname: 'Michael Kors Montre Connectée MKT5052'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GZMSH3Y/?tag=tolees0d-21'
 descuento: '49.18'
 average: '212.92'

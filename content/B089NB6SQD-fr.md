@@ -16,6 +16,7 @@ comparePrice: 46.7 EUR
 prodname: 'FirstE Enceinte Bluetooth Portable sans Fil  Enceintes Flottante avec Lumières Colorées  IPX7 Étanche Haut Parleur de Douche  Son Stéréo Cristallin  Mains Libres Enceinte Spa pour Piscine Fête Plage'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089NB6SQD/?tag=tolees0d-21'
 descuento: '37.92'
 average: '28.99'

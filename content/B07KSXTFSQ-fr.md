@@ -16,6 +16,7 @@ comparePrice: 122.0 EUR
 prodname: 'Love Moschino Logo Badge Short Sleeve Polo   White A00   Medium Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21'
 descuento: '20.74'
 average: '96.7'

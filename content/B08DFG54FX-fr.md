@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'MOONESS Coque pour Samsung Galaxy A21s Rouge Housse en Cuir avec Magnetique Premium Chouette Flip Case Portefeuille Etui pour Samsung Galaxy A21s Cover  Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DFG54FX/?tag=tolees0d-21'
 descuento: '60.48'
 average: '7.9'

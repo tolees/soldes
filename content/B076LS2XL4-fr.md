@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'HoMedics Bain de Pieds avec Chauffage de l Eau'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076LS2XL4/?tag=tolees0d-21'
 descuento: '37.43'
 average: '49.99'

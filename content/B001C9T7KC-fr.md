@@ -16,6 +16,7 @@ comparePrice: 30.84 EUR
 prodname: 'Hazet 1952-28 Massette en Plastique longueur  269 mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001C9T7KC/?tag=tolees0d-21'
 descuento: '22.18'
 average: '24.0'

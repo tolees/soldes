@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Philips QP220/50 Lames de Remplacement OneBlade x2  Durent Jusqu à 8 Mois '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01B1NVD2I/?tag=tolees0d-21'
 descuento: '15.37'
 average: '21.15'

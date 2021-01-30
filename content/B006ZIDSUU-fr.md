@@ -16,6 +16,7 @@ comparePrice: 33.2 EUR
 prodname: 'sloggi Basic+ Midi 3P  Culotte Femme  Blanc  Taille 44  Lot de 3'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B006ZIDSUU/?tag=tolees0d-21'
 descuento: '16.75'
 average: '27.64'

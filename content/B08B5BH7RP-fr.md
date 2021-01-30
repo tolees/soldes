@@ -16,6 +16,7 @@ comparePrice: 39.0 EUR
 prodname: 'Tinifan Correcteur de Posture pour Homme et Femme  Offrant un Soulagement de la Douleur pour le Cou le Dos et les Lombaires  Réglable et Respirant Avec Soutien de la Colonne Vertébrale et de la Taille'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08B5BH7RP/?tag=tolees0d-21'
 descuento: '23.21'
 average: '29.95'

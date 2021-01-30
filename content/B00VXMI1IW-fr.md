@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-Star Revend Skinny Jeans  Gris  lt Aged Destroy 6132-1243   28W / 30L Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VXMI1IW/?tag=tolees0d-21'
 descuento: '29.98'
 average: '69.98'

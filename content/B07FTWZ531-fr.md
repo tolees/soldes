@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Philips BT5205/85  Tondeuse barbe Series 5000 avec guide de coupe dynamique et tondeuse de précision supplémentaire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FTWZ531/?tag=tolees0d-21'
 descuento: '20.03'
 average: '63.97'

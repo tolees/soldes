@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Polaroid Snap - Appareil Photo Numérique Instantané avec la Technologie d Impression Zink Zero Ink  10 Mp  Bluetooth  Micro Sd  5 x 7 6 cm  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015JIA97Q/?tag=tolees0d-21'
 descuento: '19.34'
 average: '95.905'

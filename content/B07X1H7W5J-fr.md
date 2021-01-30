@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Tipmant Montre Connectée Femmes Homme Enfant IP68 Etanche Bracelet Connecté Écran Coloré Smartwatch avec Cardio Podometre Sommeil Réveil Notifications pour iPhone Huawei Samsung Xiaomi Sony  Vert '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07X1H7W5J/?tag=tolees0d-21'
 descuento: '63.66'
 average: '35.98'

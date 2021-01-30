@@ -16,6 +16,7 @@ comparePrice: 19.97 EUR
 prodname: 'VZATT Go Swing Ouvre-Boîte  Topless Can Opener  Ouvre-boîtes Manuels Professionnel Multifonction Ouvrir des bocaux pour Canettes de Boisson Ouvre-boîtes Outil de Cuisine De 8 À 19 Oz'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CDL3BD2/?tag=tolees0d-21'
 descuento: '45.07'
 average: '10.97'

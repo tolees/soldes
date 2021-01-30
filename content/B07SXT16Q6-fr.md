@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Geox D TABELYA A  Sneakers Basses Femme  Beige  Cream/Lt Gold C5k2l   39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SXT16Q6/?tag=tolees0d-21'
 descuento: '59.63'
 average: '50.46'

@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'yuehu Cotton Cotton Square Decorative Throw Pillowcase Playstation Buttons Housses de Coussin  50cmx50cm '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VZZVQK8/?tag=tolees0d-21'
 descuento: '34.80'
 average: '14.99'

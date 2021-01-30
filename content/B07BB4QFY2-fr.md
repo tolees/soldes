@@ -16,6 +16,7 @@ comparePrice: 269.99 EUR
 prodname: 'Marshall Mid Active Noise Cancelling  A.N.C.  Headphones with Bluetooth - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BB4QFY2/?tag=tolees0d-21'
 descuento: '55.40'
 average: '120.41'

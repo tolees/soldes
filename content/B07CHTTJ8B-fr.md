@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s SS Original HM Tee T-Shirt  Multicolore  Cotton + Patch White 0000   Medium Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CHTTJ8B/?tag=tolees0d-21'
 descuento: '30.00'
 average: '17.5'

@@ -16,6 +16,7 @@ comparePrice: 135.0 EUR
 prodname: 'AutoStyle IA 78040 Ressorts d abaissement pour'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00DP3STGG/?tag=tolees0d-21'
 descuento: '21.07'
 average: '106.56'

@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Le Tanneur femme Adele Sac bandouliere Rose  Poudre '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MKS74R7/?tag=tolees0d-21'
 descuento: '60.83'
 average: '117.12'

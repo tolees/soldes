@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Roccat Suora FX Clavier Gaming Mécanique Rétroéclairé RGB  AZERTY  Touches Macro  Touches Lumineuses et Multicouleurs  avec Système Anti Ghosting  Connexion USB pour PC  Jeux FPS et MMO  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MTJXELW/?tag=tolees0d-21'
 descuento: '30.00'
 average: '97.99'

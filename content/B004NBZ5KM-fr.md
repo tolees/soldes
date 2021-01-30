@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Fossil Femme Analogique Quartz Montre avec Bracelet en Cuir ES2830'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004NBZ5KM/?tag=tolees0d-21'
 descuento: '27.00'
 average: '73.0'

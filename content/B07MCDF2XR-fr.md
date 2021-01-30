@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'GANT Max  Chelsea Boots Homme  Marron Tobacco G42  40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MCDF2XR/?tag=tolees0d-21'
 descuento: '18.76'
 average: '129.95'

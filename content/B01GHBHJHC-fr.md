@@ -16,6 +16,7 @@ comparePrice: 91.81 EUR
 prodname: 'Qts Italy mi-to Distributeur de papier toilette Jumbo en aluminium sablé'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01GHBHJHC/?tag=tolees0d-21'
 descuento: '60.00'
 average: '36.72'

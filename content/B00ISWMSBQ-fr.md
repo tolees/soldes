@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Fossil Femme Collier JF01146040'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21'
 descuento: '35.59'
 average: '38.0'

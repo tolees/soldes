@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Inspire for homes Déshumidificateur & Purificateur d air 2 en 1 - Inspire DP-One  Plastique  Blanc & Noir  31 5 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Q6GMCGR/?tag=tolees0d-21'
 descuento: '45.62'
 average: '81.03'

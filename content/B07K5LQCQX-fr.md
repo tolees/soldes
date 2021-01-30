@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 501 Original Fit Jeans Homme  Bleu  Snoot   32W / 32L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07K5LQCQX/?tag=tolees0d-21'
 descuento: '39.11'
 average: '66.98'

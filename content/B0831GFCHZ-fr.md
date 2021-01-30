@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Montre Connectée Homme Montre Intelligente Sport Moniteur de Fréquence Cardiaque Écran Tactile Etanche Montre Bracelet Connecté Podomètre Calories Fitness Tracker d Activité pour Android IOS1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0831GFCHZ/?tag=tolees0d-21'
 descuento: '31.32'
 average: '67.99'

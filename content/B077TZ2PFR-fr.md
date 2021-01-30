@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Team Kalorik Trancheuse Électrique  Molette de Réglage 0-15 mm  200 W  Argenté  TKG AS 1002'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077TZ2PFR/?tag=tolees0d-21'
 descuento: '38.00'
 average: '61.99'

@@ -16,6 +16,7 @@ comparePrice: 159.95 EUR
 prodname: 'PLDM by Palladium Caramba SUD  Bottes & Bottines Souples Femmes  Marron  Date 149   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MZFXQW2/?tag=tolees0d-21'
 descuento: '60.06'
 average: '63.89'

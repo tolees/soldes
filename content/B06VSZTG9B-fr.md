@@ -16,6 +16,7 @@ comparePrice: 33.99 EUR
 prodname: 'EIVOTOR Localisateur d objets  Localisateur de Clé Key Finder Anti-Perte Clé CherTrouve-clés  Portefeuilles  Animaux avec LED  1 Émetteur RF et 4 Récepteur'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06VSZTG9B/?tag=tolees0d-21'
 descuento: '41.19'
 average: '20.87888888888889'

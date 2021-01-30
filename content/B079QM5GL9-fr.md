@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'iRobot Roomba 671  Aspirateur Robot pour Tapis et Sols Durs  Capteurs de Poussière Dirt Detect  Système de Nettoyage en 3 Étapes  Connecté en WiFi et Programmable via Application'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079QM5GL9/?tag=tolees0d-21'
 descuento: '42.98'
 average: '199.0'

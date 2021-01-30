@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'G-STAR RAW Stem Round Neck T-Shirt  Bleu  Imperial Blue 1305   XX-Small Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NDP5XQ7/?tag=tolees0d-21'
 descuento: '40.73'
 average: '23.68'

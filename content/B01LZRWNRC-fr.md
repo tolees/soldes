@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Lunii  Fabrique à Histoires'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LZRWNRC/?tag=tolees0d-21'
 descuento: '16.54'
 average: '58.248333333333335'

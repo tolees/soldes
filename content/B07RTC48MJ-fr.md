@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt  Rose  Pink TZ8   42  Taille Fabricant: X-Large  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RTC48MJ/?tag=tolees0d-21'
 descuento: '22.20'
 average: '77.72'

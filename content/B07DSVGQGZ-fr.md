@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Philips HD3720/25 PerfectDraft  Tireuse à Bière Domestique  Fûts de 6 litres'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DSVGQGZ/?tag=tolees0d-21'
 descuento: '20.00'
 average: '239.98'

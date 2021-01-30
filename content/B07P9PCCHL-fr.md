@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'Silicon Power 1TB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3  400/3  000Mo/s SSD'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07P9PCCHL/?tag=tolees0d-21'
 descuento: '20.55'
 average: '134.99'

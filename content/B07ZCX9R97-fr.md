@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Fairy Tail'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZCX9R97/?tag=tolees0d-21'
 descuento: '25.00'
 average: '52.49'

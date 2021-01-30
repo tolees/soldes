@@ -16,6 +16,7 @@ comparePrice: 416.0 EUR
 prodname: 'Love Moschino Embroidered Allover Ladybirds Chambray Sleeveless Dress Robe  Bleu  Embroidery 8001   40  Taille Fabricant: 42  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KXDTHN8/?tag=tolees0d-21'
 descuento: '66.61'
 average: '138.91'

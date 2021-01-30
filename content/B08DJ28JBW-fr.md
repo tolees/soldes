@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Disque Dur Externe 2to Disque Dur Externe USB3.0-2.5’’ pour Mac  PC  Windows  MacBook  Ordinateur de Bureau  Xbox One  2to Rouge '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DJ28JBW/?tag=tolees0d-21'
 descuento: '28.89'
 average: '63.99'

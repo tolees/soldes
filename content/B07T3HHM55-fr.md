@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction de Bruit True Wireless avec boitier de rechargement compatibles iOS et Android  Argent  avec Amazon Alexa Intégrée'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07T3HHM55/?tag=tolees0d-21'
 descuento: '25.42'
 average: '213.13500000000002'

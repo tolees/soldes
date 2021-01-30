@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'Bose SoundSport Écouteurs sans Fil Bluetooth - Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01E3SNNGW/?tag=tolees0d-21'
 descuento: '19.97'
 average: '120.0'

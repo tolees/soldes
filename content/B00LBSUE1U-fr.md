@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Rocksmith 2014 + Câble'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00LBSUE1U/?tag=tolees0d-21'
 descuento: '27.78'
 average: '64.99'

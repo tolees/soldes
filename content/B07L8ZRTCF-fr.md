@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Replay M8006 .000.83406 Blouson  Noir  Black 98   Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L8ZRTCF/?tag=tolees0d-21'
 descuento: '37.22'
 average: '80.98'

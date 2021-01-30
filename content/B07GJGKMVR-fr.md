@@ -16,6 +16,7 @@ comparePrice: 299.9 EUR
 prodname: 'Chicco -  Lit Cododo Next2Me Dream - Berceau bébé - Luna'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GJGKMVR/?tag=tolees0d-21'
 descuento: '38.02'
 average: '185.88'

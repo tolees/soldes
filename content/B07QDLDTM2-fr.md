@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'ANRAN CCTV Caméra  1080p IP Caméra sans Fil'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QDLDTM2/?tag=tolees0d-21'
 descuento: '22.22'
 average: '69.99'

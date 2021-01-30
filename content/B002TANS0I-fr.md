@@ -16,6 +16,7 @@ comparePrice: 155.99 EUR
 prodname: 'APC Back-UPS ES - BE700G-FR - Onduleur 700VA  8 Prises FR '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002TANS0I/?tag=tolees0d-21'
 descuento: '19.26'
 average: '125.94'

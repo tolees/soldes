@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Michelin 007875 Chaînes à neige automatique 4x4  75'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00GUAHGPG/?tag=tolees0d-21'
 descuento: '26.63'
 average: '101.99'

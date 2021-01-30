@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Astone Helmets - Casque de moto MINI CROSS monocolor - Casque jet au look enduro - Casque de moto look cross - casque de ville compact - matt black M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XXJC5K7/?tag=tolees0d-21'
 descuento: '39.34'
 average: '53.99'

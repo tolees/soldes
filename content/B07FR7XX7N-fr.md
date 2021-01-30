@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'Clarks Edward Plain  Derbys Homme  Marron  Tan Leather-   45 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FR7XX7N/?tag=tolees0d-21'
 descuento: '25.07'
 average: '74.89'

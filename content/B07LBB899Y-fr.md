@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Jeans TJM Tommy Classics Sweatshort  Short Homme - Noir  Tommy 078 L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07LBB899Y/?tag=tolees0d-21'
 descuento: '17.34'
 average: '57.78'

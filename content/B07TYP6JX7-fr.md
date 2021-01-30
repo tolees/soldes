@@ -16,6 +16,7 @@ comparePrice: 20.99 EUR
 prodname: 'SOKY Jouets pour Garçons de 3-8 Ans Garcon Cadeau  Robot Parlant pour Enfants répète Votre Voix Cadeaux Garcon 3-8 Ans Garcon Anniversaire Jouets Populaires pour Garçons de 3-8 Ans'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TYP6JX7/?tag=tolees0d-21'
 descuento: '23.82'
 average: '15.99'

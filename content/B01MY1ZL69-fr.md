@@ -16,6 +16,7 @@ comparePrice: 19.55 EUR
 prodname: 'Schmidt Spiele - 56495 - Dinos  Coffret de Puzzles  2x60  2x100 Pcs'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MY1ZL69/?tag=tolees0d-21'
 descuento: '20.56'
 average: '15.53'

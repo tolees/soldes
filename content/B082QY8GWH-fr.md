@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Moniteur de Fréquence Cardiaque  Traqueur de Forme Physique de Montre de Smart Watch IP67 Imperméable et Compteur-BL14'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082QY8GWH/?tag=tolees0d-21'
 descuento: '31.32'
 average: '67.99'

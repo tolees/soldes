@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Écouteurs Bluetooth 5.0 Écouteur sans Fil avec réduction de Bruit  écouteurs Sportifs avec IPX5 Écouteurs 3D stéréo étanches dans l oreille Intégré HD Mic Casques  pour Android Samsung/iPhone/Airpods'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08F1XML6B/?tag=tolees0d-21'
 descuento: '25.54'
 average: '34.99'

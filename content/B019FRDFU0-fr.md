@@ -16,6 +16,7 @@ comparePrice: 20.39 EUR
 prodname: 'Crucial CT4G4DFS824A 4Go  DDR4  2400 MT/s  PC4-19200  Single Rank x8  DIMM  288-Pin  Mémoire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B019FRDFU0/?tag=tolees0d-21'
 descuento: '17.66'
 average: '16.79'

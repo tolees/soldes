@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Sony DSCWX500B Appareils Photo Numérique  Capteur CMOS Exmor R  18.2 Mpix  Zoom Optique 30x  Stabilisation 5 axes  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00W46KROM/?tag=tolees0d-21'
 descuento: '35.59'
 average: '256.99'

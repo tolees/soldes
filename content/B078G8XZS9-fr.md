@@ -16,6 +16,7 @@ comparePrice: 1786.8 EUR
 prodname: 'Grohe 34712000 Pack Encastré Mécanique 3 Sorties  Smartcontrol  Chromé  Import Allemagne '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078G8XZS9/?tag=tolees0d-21'
 descuento: '57.63'
 average: '757.0'

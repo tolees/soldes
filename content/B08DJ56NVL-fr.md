@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Disque Dur Externe 1to USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 1to  Gris '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DJ56NVL/?tag=tolees0d-21'
 descuento: '52.01'
 average: '47.99'

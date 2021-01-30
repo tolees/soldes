@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Melitta Machine à Café Automatique  Caffeo Solo  Noir Pure Black  E950-222'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00I3YL5T0/?tag=tolees0d-21'
 descuento: '30.08'
 average: '257.99'

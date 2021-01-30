@@ -16,6 +16,7 @@ comparePrice: 11.9 EUR
 prodname: 'Lavazza A Modo Mio Café Espresso Passionale Capsules  100% Arabica  Paquet de 36 capsules monodoses de café moulu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00DKXTBCM/?tag=tolees0d-21'
 descuento: '16.81'
 average: '9.9'

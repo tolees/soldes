@@ -16,6 +16,7 @@ comparePrice: 71.0 EUR
 prodname: 'Disque Dur Externe 1to  USB-C Disque Dur Externe pour PC  Mac  Xbox One  Xbox 360 1To Rouge '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CMS13CN/?tag=tolees0d-21'
 descuento: '36.63'
 average: '44.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'ATMOKO Masseur à Epaule et Cou avec Shiatsu 8 Nœuds  Appareil de Massage Électrique Chauffant pour le Douleur Cervical  Épaule Nuque Dos Cou Pieds Corps  Massage avec Pétrissage à la Maison  Voiture'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0721Q7KGW/?tag=tolees0d-21'
 descuento: '50.01'
 average: '49.99'

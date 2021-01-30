@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Wëasy Mannequin Automatique Magic Pressing  Séchage et Repassage Chemises et Linge IRO320  Pratique Rapide Compact  5 Niveaux de température  minuteur programmable  Tous Types de Tissus'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0876CLCDN/?tag=tolees0d-21'
 descuento: '49.59'
 average: '59.99'

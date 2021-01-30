@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'IKKS Junior Combi Short MC Combinaison  Vert  Kaki 56   8 Ans  Taille Fabricant:8A  Fille'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YGYX3BY/?tag=tolees0d-21'
 descuento: '60.00'
 average: '27.6'

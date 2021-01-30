@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'Timberland Adventure 2.0 Cupsole  Baskets Montantes Homme  Marron  Glazed Ginger Roughcut   41 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01NAHE2RJ/?tag=tolees0d-21'
 descuento: '42.10'
 average: '83.95'

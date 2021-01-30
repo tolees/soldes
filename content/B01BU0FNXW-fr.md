@@ -16,6 +16,7 @@ comparePrice: 172.07 EUR
 prodname: 'DeWalt DCF887NT - TOOLSELECT Visseuse à chocs 3 vitesses 18V XR Chargeur/batterie non inclus Mallette TSTAK incluse'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BU0FNXW/?tag=tolees0d-21'
 descuento: '30.34'
 average: '119.87'

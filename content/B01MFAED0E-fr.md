@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Babymoov - Nutribaby +   Robot Multifonctions 5 en 1  Grande Capacité pour Bébé  Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MFAED0E/?tag=tolees0d-21'
 descuento: '18.76'
 average: '129.9'

@@ -16,6 +16,7 @@ comparePrice: 61.99 EUR
 prodname: 'Beurer HD50 Cape chauffante 100 W beige  marron'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BRA4O6W/?tag=tolees0d-21'
 descuento: '58.32'
 average: '25.84'

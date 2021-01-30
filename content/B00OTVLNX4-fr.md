@@ -16,6 +16,7 @@ comparePrice: 153.99 EUR
 prodname: 'Beurer UB 68 XXL Chauffe-lit Surmatelas Chauffant pour 2 Personnes'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00OTVLNX4/?tag=tolees0d-21'
 descuento: '57.80'
 average: '64.99'

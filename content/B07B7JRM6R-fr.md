@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'havit Clavier Gaming et Souris Filaire  avec LED lumière  4 Niveaux DPI  8 Touches Multimédia et 19 Touches Anti-ghosting Clavier AZERTY'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B7JRM6R/?tag=tolees0d-21'
 descuento: '17.15'
 average: '28.99'

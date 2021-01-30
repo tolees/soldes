@@ -16,6 +16,7 @@ comparePrice: 1500.0 EUR
 prodname: 'Sony SEL70300G zoom  FE 70-300 mm F4 5-5 6 G '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01DLMD7DK/?tag=tolees0d-21'
 descuento: '34.08'
 average: '988.79'

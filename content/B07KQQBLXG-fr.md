@@ -16,6 +16,7 @@ comparePrice: 70.0 EUR
 prodname: 'Diesel ODERZO  Sac à dos Homme Noir  Black  5x22x18 cm  W x H x L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KQQBLXG/?tag=tolees0d-21'
 descuento: '50.01'
 average: '34.99'

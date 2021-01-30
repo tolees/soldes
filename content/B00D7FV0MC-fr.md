@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kickers - KICK COL - Bottes Classiques - Mixte Enfant - Noir  noir Perm 8  - 39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00D7FV0MC/?tag=tolees0d-21'
 descuento: '42.42'
 average: '57.0'

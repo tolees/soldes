@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Lacoste - TH7618 - T-Shirt - Homme - Noir  Noir 031  - FR:4  M '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00Q4MYZW2/?tag=tolees0d-21'
 descuento: '33.44'
 average: '33.7272'

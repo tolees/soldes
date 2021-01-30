@@ -16,6 +16,7 @@ comparePrice: 39.67 EUR
 prodname: 'lenbest Jouet Bebe - 3D Puzzles en Bois  Fond Vif Animaux Puzzle  6pcs Jouets Montessori Enfant  Jeuets Educatifs Apprentissage pour Bébés 1 2 3 Ans Cadeau Parfait Noël Anniversaire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B088FMM5VM/?tag=tolees0d-21'
 descuento: '52.13'
 average: '18.99'

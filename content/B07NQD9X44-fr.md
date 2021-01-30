@@ -16,6 +16,7 @@ comparePrice: 60.99 EUR
 prodname: 'Disney Pixar Toy Story Buzz et son Vaisseau Spatial  53 cm x 51 cm  lumières et sons  avec figurine Buzz l’Éclair et projectiles  jouet pour enfant  GJB37'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NQD9X44/?tag=tolees0d-21'
 descuento: '47.55'
 average: '31.99'

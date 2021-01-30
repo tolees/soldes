@@ -16,6 +16,7 @@ comparePrice: 359.0 EUR
 prodname: 'Strellson Premium Allen-mercer2.0 Amf2 12 Costume  Gris  Medium Grey 035   58  Taille Fabricant: 56  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07V3NQMFT/?tag=tolees0d-21'
 descuento: '62.31'
 average: '135.3'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Abody Sèche-Cheveux 2200W Ionique  Sèche Cheveux Salon Professionnel avec 2 Vitesses et 3 Températures ÉquiperBouton D’air Froid  Inclus Diffuseur et Concentreur D’air Chaud'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PM9DKY4/?tag=tolees0d-21'
 descuento: '74.01'
 average: '25.99'

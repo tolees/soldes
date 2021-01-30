@@ -16,6 +16,7 @@ comparePrice: 24.97 EUR
 prodname: 'Sérum Vitamine C Premium de visage avec l’acide hyaluronique – Cliniquement prouvé- Le meilleur sérum anti-âge et anti-rides – Nos clients l’appelle le lifting sans les aiguilles! Ce sérum vitamine C va engraisser  hydrater et remplir les lignes fines et les rides sur votre visage.'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00T35HR8Q/?tag=tolees0d-21'
 descuento: '24.99'
 average: '18.73'

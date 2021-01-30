@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Disque Dur Externe 2to  Disque Dur Externe USB3.1 Type-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop  Chromebook  Xbox 360 2To Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CZ46X9G/?tag=tolees0d-21'
 descuento: '36.01'
 average: '63.99'

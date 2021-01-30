@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Replay Anbass  Jean Slim Homme  Gris  Grey Denim 9   W32/L30'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MYN9GC1/?tag=tolees0d-21'
 descuento: '41.64'
 average: '92.8'

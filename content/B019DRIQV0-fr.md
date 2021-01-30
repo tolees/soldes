@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'mountain buggy Poussette de Voyage Compacte 4 Roues Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B019DRIQV0/?tag=tolees0d-21'
 descuento: '33.96'
 average: '164.45'

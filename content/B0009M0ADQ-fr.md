@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Canon CA-570 Chargeur de batterie pour caméscope Canon'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0009M0ADQ/?tag=tolees0d-21'
 descuento: '33.87'
 average: '52.9'

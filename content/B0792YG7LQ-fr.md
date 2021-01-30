@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Bluefin Fitness Plateforme Vibrante & Oscillante à Doubles Moteurs 3D | Oscillation  Vibration + Mouvement 3D | Grande Surface Anti-Dérapante | Haut-parleurs Bluetooth | Design Anglais  Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0792YG7LQ/?tag=tolees0d-21'
 descuento: '20.07'
 average: '239.0'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Bionaire - BT19 - colonne ventilateur - modèle à oscillation avec télécommande et minuterie - hauteur 74 cm - argent/noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004WG3ZJG/?tag=tolees0d-21'
 descuento: '18.00'
 average: '49.19'

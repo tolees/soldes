@@ -16,6 +16,7 @@ comparePrice: 119.95 EUR
 prodname: 'Casque Bluetooth sans Fil avec ANC - August EP750 - Casque antibruit Actif pour Ordinateurs Portables/Smartphones/tablettes - Réduit Le Bruit du Moteur de Voyage aérien'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N1T2MV5/?tag=tolees0d-21'
 descuento: '41.68'
 average: '69.95'

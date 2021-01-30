@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Under Armour Coldgear Reactor Performance Hybrid Veste Homme  Noir  L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L6JWVSL/?tag=tolees0d-21'
 descuento: '44.66'
 average: '99.62'

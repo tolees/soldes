@@ -16,6 +16,7 @@ comparePrice: 37.93 EUR
 prodname: 'adidas CV4694 Polo Homme  Vert  Sefrye    FR : S  Taille Fabricant : S '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078YG9Z8P/?tag=tolees0d-21'
 descuento: '60.01'
 average: '15.17'

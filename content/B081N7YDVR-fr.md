@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Avidsen 127003 Camera IP motorisée  Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081N7YDVR/?tag=tolees0d-21'
 descuento: '21.22'
 average: '47.19'

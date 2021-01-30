@@ -16,6 +16,7 @@ comparePrice: 82.99 EUR
 prodname: 'STEO Chaise Haute pour Bébé Enfant Siège  avec Ceinture De Sécurité  Stable  Sûre  Facile à Plier  Portable  Élégant  Adaptée à La Table Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H5KHFVL/?tag=tolees0d-21'
 descuento: '54.14'
 average: '38.06'

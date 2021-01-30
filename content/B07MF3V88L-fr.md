@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Hoover HF18MB Aspirateur balai sans fil multifonction H-Free ultra léger et maniable'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MF3V88L/?tag=tolees0d-21'
 descuento: '56.17'
 average: '129.73'

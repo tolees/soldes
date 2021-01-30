@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Lacoste Hommes Analogique Quartz Montre avec Bracelet en Silicone 2010986'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07G4FSNN3/?tag=tolees0d-21'
 descuento: '19.24'
 average: '79.94964285714285'

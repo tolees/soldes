@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Brooks Brothers 100097653 Short  Beige  Beige 275   48  Taille Fabricant: 36-  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0774ZH6JW/?tag=tolees0d-21'
 descuento: '65.05'
 average: '38.45'

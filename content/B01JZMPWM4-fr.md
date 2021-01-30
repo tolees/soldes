@@ -16,6 +16,7 @@ comparePrice: 74.03 EUR
 prodname: 'Timberland Killington  Bottes & Bottines Classiques Mixte Enfant  Bleu  Black Iris Nubuck 19   38 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01JZMPWM4/?tag=tolees0d-21'
 descuento: '42.59'
 average: '42.5'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'Philips BHD004/10 Sèche-cheveux  1800W  ThermoProtect  Touche Air froid'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01AXLVNU6/?tag=tolees0d-21'
 descuento: '16.95'
 average: '13.28'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Trust Gaming GXT 608 Enceinte PC Gamer 2.0 pour Ordinateur  36 Watt   Led Lumineuse - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01FJN12FE/?tag=tolees0d-21'
 descuento: '35.01'
 average: '38.99'

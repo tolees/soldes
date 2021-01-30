@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Fiskars Aiguiseur à ciseaux  Pour ciseaux de droitier  Pierre à aiguiser en céramique/Support plastique  Noir/Gris  Clip-Sharp  1000812'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001GHV3AM/?tag=tolees0d-21'
 descuento: '22.25'
 average: '10.03'

@@ -16,6 +16,7 @@ comparePrice: 209.0 EUR
 prodname: 'Kipling Youri Spin 68 Luggage 71 L Black Indigo'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N1H6VWV/?tag=tolees0d-21'
 descuento: '18.83'
 average: '169.64'

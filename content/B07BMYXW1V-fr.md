@@ -16,6 +16,7 @@ comparePrice: 59.95 EUR
 prodname: 'Anita Clara Art Soutien-Gorge sans Armatures  Noir  Schwarz 001   90B  Taille Fabricant: 75B  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BMYXW1V/?tag=tolees0d-21'
 descuento: '48.29'
 average: '31.0'

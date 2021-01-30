@@ -16,6 +16,7 @@ comparePrice: 599.99 EUR
 prodname: 'Bosch Unlimited BBS1224 Aspirateur Balai Multifonction sans Fil 2400 W  0 4 L  Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BKGVHGZ/?tag=tolees0d-21'
 descuento: '30.33'
 average: '418.0'

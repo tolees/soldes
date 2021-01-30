@@ -16,6 +16,7 @@ comparePrice: 979.0 EUR
 prodname: 'Samyang SAM24TSSONY Objectif 24 mm  F3.5 pour Sony Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00D3LJCYS/?tag=tolees0d-21'
 descuento: '37.69'
 average: '609.99'

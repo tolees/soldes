@@ -16,6 +16,7 @@ comparePrice: 459.0 EUR
 prodname: 'Samyang 50 mm / F 1.4 AS UMC Objectifs'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21'
 descuento: '37.03'
 average: '289.04'

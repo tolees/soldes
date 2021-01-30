@@ -16,6 +16,7 @@ comparePrice: 131.9 EUR
 prodname: 'Trangoworld Bomio IP  Chaussures de Randonnée Basses Mixte Adulte  Marron  Marron Chocolate 0au   42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075YZG7TQ/?tag=tolees0d-21'
 descuento: '52.88'
 average: '62.15'

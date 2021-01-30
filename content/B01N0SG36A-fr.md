@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'FIBARO Homekit enabled Multisensor/ Détecteur de Mouvement'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N0SG36A/?tag=tolees0d-21'
 descuento: '38.62'
 average: '41.73'

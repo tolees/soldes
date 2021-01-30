@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Ice-Watch - ICE lo White turquoise - Montre blanche pour femme avec bracelet en silicone - 013430  Medium '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06WWM2YB6/?tag=tolees0d-21'
 descuento: '50.00'
 average: '49.5'

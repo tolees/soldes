@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Naturino Falcotto Haley  Chaussures de Gymnastique Mixte bébé  Bleu  Navy/Celeste 1c28   25 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VWRH2HD/?tag=tolees0d-21'
 descuento: '46.10'
 average: '42.58'

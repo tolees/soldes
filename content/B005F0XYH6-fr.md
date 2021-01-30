@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135 Lunettes de Soleil  Noir  Schwarz   54.0 Mixte Adulte'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005F0XYH6/?tag=tolees0d-21'
 descuento: '69.06'
 average: '77.04'

@@ -16,6 +16,7 @@ comparePrice: 76.99 EUR
 prodname: 'Orzly Lot d accessoires pour console Nintendo Switch avec poignées de manette et roues de course  bandes de danse de poignet  raquettes de tennis'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HNCRYPR/?tag=tolees0d-21'
 descuento: '28.58'
 average: '54.99'

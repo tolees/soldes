@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'SANDISK - 32 Go Carte microSD Extreme avec Adaptateur SD | Idéal pour les Caméras d Action & Drones | Design Durable | Incl. Logiciel de Récupération Facile Des Fichiers - RescuePRO Deluxe'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XWMQ81P/?tag=tolees0d-21'
 descuento: '23.59'
 average: '10.863333333333333'

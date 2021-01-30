@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Victure Babyphone Video Camera 2.4" LCD Couleur Video Bebe Surveillance 2.4GHz Transmission  Vision Nocturne  Communication Bidirectionnel  VOX  Capteur de Température  Berceuses'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082M7PXT4/?tag=tolees0d-21'
 descuento: '33.34'
 average: '59.99'

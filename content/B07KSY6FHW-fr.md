@@ -16,6 +16,7 @@ comparePrice: 111.0 EUR
 prodname: 'Love Moschino Logo Box Short Sleeve Polo   Black C74   Small Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KSY6FHW/?tag=tolees0d-21'
 descuento: '18.40'
 average: '90.58'

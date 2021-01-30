@@ -16,6 +16,7 @@ comparePrice: 295.0 EUR
 prodname: 'BOSS Hyper holdall  Sac porté main homme  Noir  Black   22x30x50 cm  B x H T '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N8DZG6J/?tag=tolees0d-21'
 descuento: '61.19'
 average: '114.48'

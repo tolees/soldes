@@ -16,6 +16,7 @@ comparePrice: 9.87 EUR
 prodname: 'Funko- Figurines Pop Vinyl: Disney: Toy Story 4: Buzz Lightyear Pixar Collectible Figure  37390  Multi'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Funko'
 buyurl: 'https://www.amazon.fr/dp/B07KPK1MPQ/?tag=tolees0d-21'
 descuento: '39.21'
 average: '7.36363636363636'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Manettes pour Switch/Switch Lite  Manette sans Fil pour Nintendo Switch  6 Axes Manette Pro Switch de Jeu avec Bluetooth/Turbo/Double Moteur pour Switch Pro  Switch Lite et PC'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Z6CNGF1/?tag=tolees0d-21'
 descuento: '48.58'
 average: '35.99'

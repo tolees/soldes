@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'HONOR MagicWatch 2 42 mm - Montre Connectée - Moniteur de Fréquence Cardiaque et de Stress – GPS Intégré – 4Go de Mémoire Interne - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083WYD99J/?tag=tolees0d-21'
 descuento: '39.45'
 average: '108.99'

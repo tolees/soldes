@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Chaussures de Trail Running'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DVX1LDV/?tag=tolees0d-21'
 descuento: '45.09'
 average: '65.89'

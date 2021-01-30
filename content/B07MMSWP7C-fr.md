@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Philips GC7933/30 Centrale Vapeur PerfectCare Compact Plus sans réglage 6 5 bar effet pressing jusqu à 450g'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MMSWP7C/?tag=tolees0d-21'
 descuento: '45.46'
 average: '119.99'

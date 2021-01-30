@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'ERUW LCD Tablette D écriture 8.5 Pouces  Ardoise Magique Tableau Portable pour l écriture et Le Dessin sans Papier Enfants et Adultes Écriture Dessin Jouet Educatif électronique Memo Board  Red '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B087M3WLY1/?tag=tolees0d-21'
 descuento: '60.02'
 average: '11.99'

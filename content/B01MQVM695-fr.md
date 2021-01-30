@@ -16,6 +16,7 @@ comparePrice: 69.97 EUR
 prodname: 'Twinz up - Tire bouchon électrique sans-fil - Coffret avec coupe-capsule et socle de recharge - Cadeau idéal pour les amateurs de vins'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MQVM695/?tag=tolees0d-21'
 descuento: '52.85'
 average: '32.99'

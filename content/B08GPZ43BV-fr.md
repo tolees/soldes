@@ -16,6 +16,7 @@ comparePrice: 32.39 EUR
 prodname: 'BAITITON NVME 128GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD Interne 128Go Disque Dur Haute Performance Lecture 1800Mo/s Ecriture 600Mo/s'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08GPZ43BV/?tag=tolees0d-21'
 descuento: '25.93'
 average: '23.99'

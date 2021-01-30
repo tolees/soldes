@@ -16,6 +16,7 @@ comparePrice: 211.57 EUR
 prodname: 'MSI Pack Loot Box GE-GS RTX Gaming'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RRDMM9W/?tag=tolees0d-21'
 descuento: '66.74'
 average: '70.36'

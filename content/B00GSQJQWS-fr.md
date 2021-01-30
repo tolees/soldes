@@ -16,6 +16,7 @@ comparePrice: 204.99 EUR
 prodname: 'Beurer UB 86 Chauffe-lit Surmatelas Chauffant 2 Places Confort'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00GSQJQWS/?tag=tolees0d-21'
 descuento: '32.19'
 average: '139.0'

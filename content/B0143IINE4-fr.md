@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s  Classe 10'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0143IINE4/?tag=tolees0d-21'
 descuento: '26.01'
 average: '14.79'

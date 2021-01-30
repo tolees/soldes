@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Echo Dot  3ème génération   Enceinte connectée avec Alexa  Tissu sable'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PDHSPXT/?tag=tolees0d-21'
 descuento: '16.67'
 average: '37.489999999999995'

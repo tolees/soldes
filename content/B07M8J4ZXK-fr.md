@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'L OR Barista LM8012/60 machine à café à capsules Piano Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07M8J4ZXK/?tag=tolees0d-21'
 descuento: '40.99'
 average: '59.396'

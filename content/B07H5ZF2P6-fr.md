@@ -16,6 +16,7 @@ comparePrice: 102.0 EUR
 prodname: 'Maison Lejaby Wings Soutien-Gorge à Armature  Écru  Lys 801    Taille Fabricant:95D  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H5ZF2P6/?tag=tolees0d-21'
 descuento: '21.63'
 average: '79.94'

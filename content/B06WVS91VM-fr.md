@@ -16,6 +16,7 @@ comparePrice: 16.99 EUR
 prodname: 'Playmobil - Calèche avec Attelage - 6932'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06WVS91VM/?tag=tolees0d-21'
 descuento: '40.02'
 average: '10.19'

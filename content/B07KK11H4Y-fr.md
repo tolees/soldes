@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Kickers - KICK COL 621514-30-92 - Bottes & bottines souples  Unisexe - Marron  Marron Fonce Perm 92  - 33 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KK11H4Y/?tag=tolees0d-21'
 descuento: '31.58'
 average: '65.0'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Office 365 Famille  maintenant Microsoft 365 Famille  | jusqu’à 6 utilisateurs | 1 an | PC ou Mac | téléchargement  envoi par la poste '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FY31XK2/?tag=tolees0d-21'
 descuento: '45.97'
 average: '53.49'

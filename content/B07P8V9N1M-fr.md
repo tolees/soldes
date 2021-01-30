@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'My time at Portia - Nintendo Switch'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07P8V9N1M/?tag=tolees0d-21'
 descuento: '50.01'
 average: '19.99'

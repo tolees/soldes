@@ -16,6 +16,7 @@ comparePrice: 245.0 EUR
 prodname: 'Lottusse T2470  Brogues Homme  Noir  Duca Negro Duca Negro   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YN6YQG4/?tag=tolees0d-21'
 descuento: '53.13'
 average: '114.82'

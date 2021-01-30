@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'NONZERS Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/CC9 Pro  2 Pièces  9H Dureté  HD Clear Protecteur d Écran en Verre Trempé  Anti-Rayures  Preuve d huile  Verre Xiaomi Mi Note 10'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DQZHL4D/?tag=tolees0d-21'
 descuento: '48.13'
 average: '9.85'

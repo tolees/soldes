@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Sitram COCOTTE en Fonte d acier EMAILLE  Acier  Orange et Blanc  9L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084M4RQPH/?tag=tolees0d-21'
 descuento: '56.14'
 average: '39.47'

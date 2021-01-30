@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'EXZACT Balance de Cuisine Électronique à Grand Écran avec Bol à Mélanger en Inox - 5 kg / 11lb  EX4350 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00Z7VLGL4/?tag=tolees0d-21'
 descuento: '40.01'
 average: '23.99'

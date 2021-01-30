@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'eXtremeRate Coques Avant et Grips Poignée Boîtier Housse de Remplacement pour Xbox One X/One S Manette Contrôleur Modèle 1708 -Grain de Bois'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08JQGPLV1/?tag=tolees0d-21'
 descuento: '34.49'
 average: '18.99'

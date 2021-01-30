@@ -16,6 +16,7 @@ comparePrice: 330.0 EUR
 prodname: 'Marmot Wm s Slingshot Jacket Veste de Neige en Duvet  Facteur de Gonflement de 700  vêtement de Ski et Snowboard  Coupe-Vent  imperméable à l eau  Respirante Femme Black FR: M  Taille Fabricant: M '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VQZ5Q38/?tag=tolees0d-21'
 descuento: '47.39'
 average: '173.61'

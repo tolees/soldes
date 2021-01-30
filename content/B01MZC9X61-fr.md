@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Dimplex 206831 Cheminée electrique avec Télécommande  1200 W  220 V  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MZC9X61/?tag=tolees0d-21'
 descuento: '49.79'
 average: '175.22'

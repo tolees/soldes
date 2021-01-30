@@ -16,6 +16,7 @@ comparePrice: 84.84 EUR
 prodname: 'Wagner W100  2361508  Pistolet à peinture pour bois/métal'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BUDIY2G/?tag=tolees0d-21'
 descuento: '29.40'
 average: '59.9'

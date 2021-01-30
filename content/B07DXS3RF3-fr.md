@@ -16,6 +16,7 @@ comparePrice: 10.02 EUR
 prodname: 'Le Cercle littéraire de Guernesey'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DXS3RF3/?tag=tolees0d-21'
 descuento: '30.24'
 average: '6.99'

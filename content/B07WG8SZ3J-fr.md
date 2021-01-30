@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Radiateur connecté Wifi Princess - 1500 W - Panneau Verre Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WG8SZ3J/?tag=tolees0d-21'
 descuento: '23.39'
 average: '76.6'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'From The Vaults: No Security - San Jose 1999 -The Rolling Stones [Blu-ray] [SD Blu-ray  SD upscalée ]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001CC7GRK/?tag=tolees0d-21'
 descuento: '44.47'
 average: '9.99'

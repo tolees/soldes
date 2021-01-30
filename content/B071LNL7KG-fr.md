@@ -16,6 +16,7 @@ comparePrice: 30.0 EUR
 prodname: 'Sine Mora EX'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071LNL7KG/?tag=tolees0d-21'
 descuento: '50.17'
 average: '15.396666666666667'

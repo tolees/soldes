@@ -16,6 +16,7 @@ comparePrice: 189.95 EUR
 prodname: 'UGG Female Mini Bailey Button II Classic Boot  Grey  9  UK '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01AY6CHA0/?tag=tolees0d-21'
 descuento: '47.34'
 average: '100.03'

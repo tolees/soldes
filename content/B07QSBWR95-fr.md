@@ -16,6 +16,7 @@ comparePrice: 10.19 EUR
 prodname: 'Funko- Pop Star Wars The Rise of Skywalker: BB-8 Figurine de Collection  39886  Multicolore'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QSBWR95/?tag=tolees0d-21'
 descuento: '19.04'
 average: '8.25'

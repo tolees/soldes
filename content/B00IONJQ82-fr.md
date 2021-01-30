@@ -16,6 +16,7 @@ comparePrice: 3.5 EUR
 prodname: 'Orgakiddy SAC POUR VOMIR - Sachet de 3'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00IONJQ82/?tag=tolees0d-21'
 descuento: '42.86'
 average: '2.0'

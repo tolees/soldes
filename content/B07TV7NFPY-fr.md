@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Graphic Tee Maillot Une pièce  Noir  Feminine Logo Bodysuit Caviar 0003   Large Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TV7NFPY/?tag=tolees0d-21'
 descuento: '48.57'
 average: '18.0'

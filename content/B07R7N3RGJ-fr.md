@@ -16,6 +16,7 @@ comparePrice: 106.67 EUR
 prodname: 'YUCUN 2 5 Pouces SATA III Disque Flash 1To SSD 1TB Interne Solid State Drive R570 1To'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07R7N3RGJ/?tag=tolees0d-21'
 descuento: '19.76'
 average: '85.59'

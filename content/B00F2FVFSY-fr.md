@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Laurastar GO Centre de Repassage'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00F2FVFSY/?tag=tolees0d-21'
 descuento: '37.05'
 average: '502.99'

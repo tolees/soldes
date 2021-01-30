@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD Maximum Performance Solid State Drive with Heatsink |R/W 4700/1800 MB/s  SB-RKTQ4-HTSS-1TB '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08F7G2PHY/?tag=tolees0d-21'
 descuento: '25.05'
 average: '149.89'

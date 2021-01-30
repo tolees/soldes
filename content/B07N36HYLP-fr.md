@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'BRAX Golf Julius Veste de Sport  Bleu  Blau 25   X-Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N36HYLP/?tag=tolees0d-21'
 descuento: '62.39'
 average: '56.4'

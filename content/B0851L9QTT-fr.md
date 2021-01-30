@@ -16,6 +16,7 @@ comparePrice: 25.03 EUR
 prodname: 'Creatures The World Forgot  Violence et Sexe aux Temps prehistoriques  [Combo [Édition Collector Blu-Ray + DVD + Livret]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0851L9QTT/?tag=tolees0d-21'
 descuento: '26.09'
 average: '18.5'

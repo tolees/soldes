@@ -16,6 +16,7 @@ comparePrice: 216.11 EUR
 prodname: 'Volant de course de jeu Volant à force d entraînement de 270 degrés pour les jeux de course PC / Nintendo Switch / PS3 / Android avec pédale de frein accélérateur  couleur rouge '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0893QV2MC/?tag=tolees0d-21'
 descuento: '50.00'
 average: '108.05'

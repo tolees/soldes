@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Michael Kors Femme Écran Tactile Digital Montre Connectée avec Bracelet en Silicone MKT5069'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QH3P14R/?tag=tolees0d-21'
 descuento: '47.13'
 average: '184.53'

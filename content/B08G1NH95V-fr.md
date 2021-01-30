@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'OUPOD Paire de manettes pour Nintendo Switch  remplacement Joy-Con    manette ergonomique  avec 6-Axis/Vibration/Réveil fonction.  Couleur: Turquoise '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08G1NH95V/?tag=tolees0d-21'
 descuento: '20.11'
 average: '35.95'

@@ -16,6 +16,7 @@ comparePrice: 277.05 EUR
 prodname: 'Smartrike 650–0900 4 en 1 Tricycle Enfant Véhicule  Vert'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0797LZWTL/?tag=tolees0d-21'
 descuento: '74.74'
 average: '69.99'

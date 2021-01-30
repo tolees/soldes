@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Dell SE2216H Ecran de PC 22" Full HD LCD  VA  60 Hz  12 ms'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015P6ITQ0/?tag=tolees0d-21'
 descuento: '20.00'
 average: '103.995'

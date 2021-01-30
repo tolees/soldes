@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'CIVO Montre Femme Montre Bracelets de Etanche Analogique Rose Gold Montres pour Femmes Acier Inoxydable Mode Entreprise Quartz Minimaliste Décontractée avec Cadran Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QM8KW7C/?tag=tolees0d-21'
 descuento: '20.01'
 average: '26.99'

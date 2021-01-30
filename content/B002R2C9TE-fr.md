@@ -16,6 +16,7 @@ comparePrice: 15.05 EUR
 prodname: 'Jusqu en Enfer [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002R2C9TE/?tag=tolees0d-21'
 descuento: '46.91'
 average: '7.99'

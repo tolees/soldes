@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'SAWAKE Mandoline Cuisine Multifonctions  6 en 1 Trancheuse à Légumes  Découpe Les Fruits  Presse Agrume  Râpe  Mandoline Slicer pour Légumes  Pommes de Terre  Tomates  Oignons  Fromage  etc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089Y5R2ZB/?tag=tolees0d-21'
 descuento: '18.19'
 average: '26.99'

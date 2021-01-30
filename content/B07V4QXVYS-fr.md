@@ -16,6 +16,7 @@ comparePrice: 340.0 EUR
 prodname: 'Faure FKM-901ME1 Robot Pâtissier Magic Baker Excellence - 800W transmission directe - Mouvement Planétaire - Bol Inox 5 2L - Coloris Dark Grey'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07V4QXVYS/?tag=tolees0d-21'
 descuento: '60.30'
 average: '134.99'

@@ -16,6 +16,7 @@ comparePrice: 109.0 EUR
 prodname: 'Samsonite Paradiver Light - 15.6 Pouces Sac à Dos pour Ordinateur Portable L+  43 cm  24 L  Jaune  Yellow '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01D17JEG4/?tag=tolees0d-21'
 descuento: '40.37'
 average: '65.0'

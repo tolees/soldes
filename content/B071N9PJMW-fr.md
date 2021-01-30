@@ -16,6 +16,7 @@ comparePrice: 295.0 EUR
 prodname: 'Louis Villiers Mixte Adulte Analogique Quartz Montre avec Bracelet en Acier Inoxydable LV1013'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071N9PJMW/?tag=tolees0d-21'
 descuento: '77.78'
 average: '65.56'

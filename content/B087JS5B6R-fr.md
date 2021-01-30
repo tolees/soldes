@@ -16,6 +16,7 @@ comparePrice: 50.38 EUR
 prodname: 'Casque de jeu avec micro pour Xbox One PS4 PC Switch Tablet Ordinateur Smartphone Casque stéréo Over Ear Bass 3.5mm Microphone antibruit 7 LED Light Soft Memory Earmuffs  adaptateur gratuit '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B087JS5B6R/?tag=tolees0d-21'
 descuento: '29.95'
 average: '35.29'

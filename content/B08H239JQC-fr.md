@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Disque Dur Externe 1to USB3.0 SATA  Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  1to  Bleu '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08H239JQC/?tag=tolees0d-21'
 descuento: '54.01'
 average: '45.99'

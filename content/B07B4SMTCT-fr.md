@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'PUMA Ignite PWRADAPT Disc  Chaussures de Golf Homme  Gris  Quiet Shade-Quiet Shade 03   44.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B4SMTCT/?tag=tolees0d-21'
 descuento: '25.33'
 average: '134.36'

@@ -16,6 +16,7 @@ comparePrice: 719.0 EUR
 prodname: 'Thule EasyFold XT 2  Porte-vélos sur boule d’attelage entièrement pliable  compact  facile à utiliser et compatible avec tous les types de vélos.'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N1MNL1A/?tag=tolees0d-21'
 descuento: '20.97'
 average: '568.2'

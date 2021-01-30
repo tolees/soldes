@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Calvin Klein Jeans Hooded Blocking Nylon Jacket Veste Bomber  Rouge  Fiery Red/CK Black Xa7   Medium Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VGYYC63/?tag=tolees0d-21'
 descuento: '56.60'
 average: '65.05'

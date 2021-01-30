@@ -16,6 +16,7 @@ comparePrice: 42.69 EUR
 prodname: 'LED Projecteur étoile  veilleuse télécommandée  lecteur de musique à changement de couleur avec Bluetooth et minuterie  cadeaux de décoration de chambre pour adultes et enfants [Grade A + Energy]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FDXW4JK/?tag=tolees0d-21'
 descuento: '15.69'
 average: '35.99'

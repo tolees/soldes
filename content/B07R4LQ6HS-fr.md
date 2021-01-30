@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'HEYSTOP Étui pour Nintendo Switch  11 en 1 Étui de Transport pour Nintendo Switch  2X Grip pour Joy-Con Nintendo Switch  Support de Jeu Ajustable  Protection écran Switch et 6 Thumb Grips'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07R4LQ6HS/?tag=tolees0d-21'
 descuento: '20.01'
 average: '23.99'

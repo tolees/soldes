@@ -16,6 +16,7 @@ comparePrice: 369.99 EUR
 prodname: 'Zigma Spark Robot Aspirateur  Aspirateur Robot Laveur avec fonction d essuyage  APP Exclusive et Navigation LDS. Parfait pour les Tapis/les Sols/les poils d animaux.'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082Y3DT8Z/?tag=tolees0d-21'
 descuento: '24.32'
 average: '279.99'

@@ -16,6 +16,7 @@ comparePrice: 7.06 EUR
 prodname: 'MagiDeal Coussinet Casque Coussin Remplacement pour Sony MDR ZX100 ZX300 Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BEQWQ78/?tag=tolees0d-21'
 descuento: '37.54'
 average: '3.0700000000000007'

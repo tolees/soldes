@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'camel active 5-Pocket Houston Jean Droit  Bleu  Bleue/Black Used 43   W44/L34  Taille Fabricant: 44/34  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N292SLQ/?tag=tolees0d-21'
 descuento: '49.24'
 average: '45.66'

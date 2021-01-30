@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Fisher-Price Bebo le Robot Interactif Jouet d Éveil avec 3 Modes de Jeu  Musique et Danse  Apprentissage  Enregistrement  pour Bébé de 9 Mois et Plus  CGV44'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00ZXATAJE/?tag=tolees0d-21'
 descuento: '19.75'
 average: '34.67727272727274'

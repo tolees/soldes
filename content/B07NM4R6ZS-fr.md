@@ -16,6 +16,7 @@ comparePrice: 1149.0 EUR
 prodname: 'AVIC-Z820DAB'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NM4R6ZS/?tag=tolees0d-21'
 descuento: '42.12'
 average: '665.0'

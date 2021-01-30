@@ -16,6 +16,7 @@ comparePrice: 20.0 EUR
 prodname: 'Hairdorables  Poupée  Serie 2  avec 11 Accessoires Surprises  Cheveux à Coiffer  Modèles Aléatoires  26 poupées à Collectionner  Jouet pour Enfants dès 3 Ans  HAA03'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NXVM65C/?tag=tolees0d-21'
 descuento: '35.00'
 average: '13.0'

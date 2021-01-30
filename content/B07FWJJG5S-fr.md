@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'SKIP Lessive Capsules Trio Ultimate Active Clean 38 Lavages'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FWJJG5S/?tag=tolees0d-21'
 descuento: '18.62'
 average: '13.59'

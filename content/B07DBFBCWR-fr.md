@@ -16,6 +16,7 @@ comparePrice: 6.99 EUR
 prodname: 'Crocs Lot de 3 Jibbitz Disney | Personnalisez vos Crocs avec les Jibbitz Toy Story One-Size'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Crocs'
 buyurl: 'https://www.amazon.fr/dp/B07DBFBCWR/?tag=tolees0d-21'
 descuento: '31.47'
 average: '4.79'

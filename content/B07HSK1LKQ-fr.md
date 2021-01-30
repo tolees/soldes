@@ -16,6 +16,7 @@ comparePrice: 10.02 EUR
 prodname: 'A Star is Born [DVD]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HSK1LKQ/?tag=tolees0d-21'
 descuento: '17.07'
 average: '9.155000000000001'

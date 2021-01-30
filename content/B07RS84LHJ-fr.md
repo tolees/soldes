@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Tommy Hilfiger Classic Straight Hw C Balt Jean Droit  Bleu  Denim 1A4   90  Taille Fabricant: NI34  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RS84LHJ/?tag=tolees0d-21'
 descuento: '50.39'
 average: '64.0'

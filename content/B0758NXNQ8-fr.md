@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Josef Seibel  Fiona 04 Femme  Bleu Blue 971 500  41 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0758NXNQ8/?tag=tolees0d-21'
 descuento: '28.76'
 average: '56.96'

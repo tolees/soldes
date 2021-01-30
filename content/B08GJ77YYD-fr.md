@@ -16,6 +16,7 @@ comparePrice: 19.0 EUR
 prodname: 'Coque Samsung S10 Cover Samsung Galaxy S10 Housse  Double Couche Renforcée Défense Bumper  Coque de Protection Robuste Anti-Choc avec Béquille pour Samsung Galaxy S10  Bleu '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08GJ77YYD/?tag=tolees0d-21'
 descuento: '31.63'
 average: '12.99'

@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Hommes Mode Sneakers Confort Respirant Doux Maille De Sports De Plein Air Chaussures De Marche Noir 39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GSRWTST/?tag=tolees0d-21'
 descuento: '37.59'
 average: '24.9'

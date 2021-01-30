@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte  Dark Steel/Military Green  FR Unique  Taille Fabricant : 183 cm '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078GSSX8Y/?tag=tolees0d-21'
 descuento: '57.23'
 average: '85.53'

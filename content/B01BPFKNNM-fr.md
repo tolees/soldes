@@ -16,6 +16,7 @@ comparePrice: 79.9 EUR
 prodname: 'TP-Link Switch Ethernet Gigabit 8 Ports Web Manageable avec 4 Ports PoE À 55 W  Garantie À Vie  Idéal pour Étendre Le Réseau Câblé pour Les PME et Les Bureaux À Domicile  TL-SG108PE'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BPFKNNM/?tag=tolees0d-21'
 descuento: '21.61'
 average: '62.63'

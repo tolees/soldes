@@ -16,6 +16,7 @@ comparePrice: 141.15 EUR
 prodname: 'Sharp R-742WW Four micro-ondes  Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0098LFST0/?tag=tolees0d-21'
 descuento: '26.32'
 average: '104.0'

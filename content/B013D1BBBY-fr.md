@@ -16,6 +16,7 @@ comparePrice: 849.0 EUR
 prodname: 'Nikon AF-S Nikkor Objectif 24 mm f/1 8'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B013D1BBBY/?tag=tolees0d-21'
 descuento: '30.04'
 average: '594.0'

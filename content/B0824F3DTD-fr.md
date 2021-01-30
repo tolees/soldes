@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Persona 5 Royal - Phantom Thieves Edition'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0824F3DTD/?tag=tolees0d-21'
 descuento: '22.22'
 average: '69.99'

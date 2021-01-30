@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Pepe Jeans London Slate Pro Boot  Baskets Hautes Homme    Dark Grey 975   42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MZQPX24/?tag=tolees0d-21'
 descuento: '39.28'
 average: '69.83'

@@ -16,6 +16,7 @@ comparePrice: 308.0 EUR
 prodname: 'R Roncato Flight Set Da 3 Trolley Mallette Ordinateur à roulettes 76 Centimeters Bleu  Azzurro '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SPDS3KC/?tag=tolees0d-21'
 descuento: '37.13'
 average: '193.64'

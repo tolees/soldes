@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Di4 Jet Pressing – Centrale Vapeur  Double système de Chauffage  2850 W  Couleur Blanc/Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B072C4X2BJ/?tag=tolees0d-21'
 descuento: '15.48'
 average: '67.61'

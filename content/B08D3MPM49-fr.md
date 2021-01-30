@@ -16,6 +16,7 @@ comparePrice: 77.54 EUR
 prodname: 'Xiaomi band 5 bracelet  Montre Connectée  Trackers d activité AMOLED 1.1" Screen Moniteur de fréquence cardiaque intelligent podomètre surveillance du sommeil calories de charge magnétique 5ATM noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08D3MPM49/?tag=tolees0d-21'
 descuento: '40.69'
 average: '45.99'

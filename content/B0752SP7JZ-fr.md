@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Ridgebake Hauptkollektion Sac à Dos Loisir 51 Centimeters 29 Noir  Cavier '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0752SP7JZ/?tag=tolees0d-21'
 descuento: '16.80'
 average: '58.23'

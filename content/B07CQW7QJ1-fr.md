@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Aigle Parfield W Mtd  Bottes & Bottines Cavalieres Femme  Marron  Darkbrown   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CQW7QJ1/?tag=tolees0d-21'
 descuento: '64.19'
 average: '89.53'

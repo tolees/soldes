@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Bracelet Femme Orné de Cristaux de Swarovski Collection"Mille Eclats"  Bracelet tennis - blanc '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TC883ZZ/?tag=tolees0d-21'
 descuento: '74.56'
 average: '13.99'

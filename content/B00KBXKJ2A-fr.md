@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'EDISION HDMI MODULATOR single DVB-T  Full HD MPEG4  RF-IN  HDTV  USB  OLED 4-line display  noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00KBXKJ2A/?tag=tolees0d-21'
 descuento: '33.96'
 average: '92.39'

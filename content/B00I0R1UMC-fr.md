@@ -16,6 +16,7 @@ comparePrice: 369.0 EUR
 prodname: 'Jupiter Juicepresso 3in1 Slow Juicer extracteur de jus blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00I0R1UMC/?tag=tolees0d-21'
 descuento: '27.10'
 average: '269.0'

@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'BOSS Wmarco Sweat-Shirt  Bleu  Dark Blue 404   Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N98LVFR/?tag=tolees0d-21'
 descuento: '24.09'
 average: '113.11'

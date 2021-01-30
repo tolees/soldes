@@ -16,6 +16,7 @@ comparePrice: 173.66 EUR
 prodname: 'Facom - RLNANO1PB 32005 - Coffret douilles 1/4   6 pans RLNANO1PB - La précision à toute épreuve'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B006MSR3CC/?tag=tolees0d-21'
 descuento: '35.37'
 average: '112.24'

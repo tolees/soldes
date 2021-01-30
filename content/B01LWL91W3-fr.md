@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Swiffer Duster Lingettes Poussière X 10'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LWL91W3/?tag=tolees0d-21'
 descuento: '16.67'
 average: '5.791363636363636'

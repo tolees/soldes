@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'Razer Viper Ultimate - Souris de jeu sans fil Esports  souris de jeu sans fil ambidextre 69 g  câble Speedflex  capteur optique 5G  avec station de charge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y8M4BCW/?tag=tolees0d-21'
 descuento: '23.52'
 average: '129.94'

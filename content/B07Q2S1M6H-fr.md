@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Hatteker Tondeuse Barbe Tondeuse Cheveux Hommes Rasoir Tondeuse Corps Nez-Oreilles Impermeable 5 In 1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Q2S1M6H/?tag=tolees0d-21'
 descuento: '15.00'
 average: '39.6729268292683'

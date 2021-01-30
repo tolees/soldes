@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'PUMA ESS Logo Leggings Pantalons Femme  Cotton Black  S'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D5SBXKK/?tag=tolees0d-21'
 descuento: '43.27'
 average: '16.665'

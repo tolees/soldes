@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Petzl E095BA00 Lampe Frontale Swift RL Noir  7.8 W'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S8Y7YMV/?tag=tolees0d-21'
 descuento: '19.54'
 average: '80.46'

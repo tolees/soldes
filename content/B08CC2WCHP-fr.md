@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Timoom M6 Lecteur MP3  Bluetooth MP4 32Go 2.8 Pouces Ecran Tactile Complet  Haut-Parleur Musique Audio HiFi Extensible jusqu à 128Go de Radio FM podomètre Intelligent Photos enregistrements Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CC2WCHP/?tag=tolees0d-21'
 descuento: '26.01'
 average: '36.99'

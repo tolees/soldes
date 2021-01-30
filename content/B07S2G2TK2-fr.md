@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Perfect V Neck T-Shirt  Blanc  White + 0002   Large Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S2G2TK2/?tag=tolees0d-21'
 descuento: '18.08'
 average: '20.214'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Astérix & Obélix XXL 3 : le Menhir de Cristal Edition Limitée pour Xbox One'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WHC394C/?tag=tolees0d-21'
 descuento: '36.50'
 average: '31.75'

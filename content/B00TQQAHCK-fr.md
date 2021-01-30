@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'Alessi Mw28 Dressed in Wood Centre de Table en Bois de Hêtre avec Décoration en Relief  Ø 39 Cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00TQQAHCK/?tag=tolees0d-21'
 descuento: '44.44'
 average: '63.89'

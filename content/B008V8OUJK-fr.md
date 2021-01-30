@@ -16,6 +16,7 @@ comparePrice: 210.0 EUR
 prodname: 'GATOR Cases G-Tour pour pedalboard 17" x 11"'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008V8OUJK/?tag=tolees0d-21'
 descuento: '46.97'
 average: '111.37'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Belkin - Power Rockstar - Batterie Externe Premium 10000 mAh pour Smartphones et Tablettes avec Câbles micro-USB & Lightning - 15 cm - Gris  Compatible iPhone 7/7+  8/8+ et iPhone X - Certifié MFi '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B019H6MPAA/?tag=tolees0d-21'
 descuento: '63.36'
 average: '32.97'

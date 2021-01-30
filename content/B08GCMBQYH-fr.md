@@ -16,6 +16,7 @@ comparePrice: 79.0 EUR
 prodname: 'Ecouteur Bluetooth Casque Bluetooth sans Fil avec Micro Stereo 15 Heures Playtime Etanche IPX5 Oreillette Bluetooth Sport pour Android iOS PC B-01 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08GCMBQYH/?tag=tolees0d-21'
 descuento: '69.63'
 average: '23.99'

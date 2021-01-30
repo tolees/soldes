@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Souris de jeu sans fil Razer Basilisk X Hyperspeed  souris de jeu sans fil  avec technologie Razer HyperSpeed  capteur optique 5G avancé et 6 boutons configurables '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y8QWZDW/?tag=tolees0d-21'
 descuento: '28.63'
 average: '49.95'

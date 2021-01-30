@@ -16,6 +16,7 @@ comparePrice: 299.9 EUR
 prodname: 'Britax Römer Siège-auto 9 - 36 kg | ADVANSAFIX Z-LINE | Isofix | Cosmos Black'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0823XYZ9S/?tag=tolees0d-21'
 descuento: '16.31'
 average: '250.99'

@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Tommy Hilfiger Tommy Hooded Bomber Blouson  Bleu  Navy Blazer Chs   XXX-Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N43MYZZ/?tag=tolees0d-21'
 descuento: '51.15'
 average: '136.29'

@@ -16,6 +16,7 @@ comparePrice: 229.95 EUR
 prodname: 'BRAX Golf Tim Pull  Bleu  Dunkelblau 23   Medium Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NDNDY4K/?tag=tolees0d-21'
 descuento: '59.22'
 average: '93.78'

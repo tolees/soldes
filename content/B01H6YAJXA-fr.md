@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'SweetLF Rasoir Electrique Homme Rechargeable Tondeuse Barbe IPX7 Etanche Technologie Wet&Dry Avec 3D Têtes Rotatives et Ecran LCD  Bleu  SW-S7105'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01H6YAJXA/?tag=tolees0d-21'
 descuento: '42.51'
 average: '32.78473684210527'

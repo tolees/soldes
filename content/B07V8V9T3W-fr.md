@@ -16,6 +16,7 @@ comparePrice: 224.1 EUR
 prodname: 'Love MoschinoJc4233pp0afemmeSacs bandoulièreÉcru  Ivory 10x18x26 Centimeters  W x H x L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07V8V9T3W/?tag=tolees0d-21'
 descuento: '62.79'
 average: '83.38'

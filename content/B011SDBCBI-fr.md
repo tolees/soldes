@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'Schott NYC Tornado Blouson  Noir  Black   S Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B011SDBCBI/?tag=tolees0d-21'
 descuento: '59.20'
 average: '81.6'

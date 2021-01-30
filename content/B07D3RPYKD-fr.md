@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Zelia - 41604F - Manteau Imperméable ciré Femme Bleu Ciel Medium - Taille FR : 38'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D3RPYKD/?tag=tolees0d-21'
 descuento: '67.11'
 average: '49.0'

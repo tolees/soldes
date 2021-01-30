@@ -16,6 +16,7 @@ comparePrice: 16.95 EUR
 prodname: 'Brothers in Bamako [Import Allemand]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21'
 descuento: '45.43'
 average: '9.25'

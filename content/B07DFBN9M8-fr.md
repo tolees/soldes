@@ -16,6 +16,7 @@ comparePrice: 7.5 EUR
 prodname: 'Lenor Unstoppables Parfum de Linge en Perles  Parfum Aérien avec une Fraîcheur Longue Durée  210g'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DFBN9M8/?tag=tolees0d-21'
 descuento: '39.47'
 average: '4.54'

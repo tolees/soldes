@@ -16,6 +16,7 @@ comparePrice: 123.0 EUR
 prodname: 'jolidon – Prelude – Maillot de Bain Une Pièce 100% Européen – Rembourré Bonnets Mousse – Bretelles Fixes – Imprimé – Femme – B Cup – 38/40 - M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DZP7SP7/?tag=tolees0d-21'
 descuento: '59.39'
 average: '49.95'

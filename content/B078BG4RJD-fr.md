@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'eXtremeRate Support Vertical Noir pour Xbox One X Console'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078BG4RJD/?tag=tolees0d-21'
 descuento: '45.48'
 average: '11.99'

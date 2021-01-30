@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sweat-Shirt   Charcoal Heather P9x   Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N45ZBL5/?tag=tolees0d-21'
 descuento: '20.90'
 average: '109.95'

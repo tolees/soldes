@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Casque Gamer  Casque Gaming Ps4 PC avec Micro Anti Bruit  3D Stéréo Surround son 7 RGB lumière LED  Casque Xbox One avec Cache-Oreilles de mémoire Respirant avec 3.5mm Jack pour Switch Laptop Tablette'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FB9JTN1/?tag=tolees0d-21'
 descuento: '37.51'
 average: '24.99'

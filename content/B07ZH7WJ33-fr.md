@@ -16,6 +16,7 @@ comparePrice: 92.62 EUR
 prodname: 'OSOYOO Starter Updated Version Kit for Micro:bit Include Micro:bit Board  Development Board and 20 Sensor modules Used for Classroom Teaching and for DIY Beginners  STEM KIT with Micro Board '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZH7WJ33/?tag=tolees0d-21'
 descuento: '15.20'
 average: '78.54'

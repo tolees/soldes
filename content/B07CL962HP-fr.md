@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Giochi Preziosi – LOL Bigger Surprise  multicolore  llu46000 - Version Import'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CL962HP/?tag=tolees0d-21'
 descuento: '38.29'
 average: '73.99'

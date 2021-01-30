@@ -16,6 +16,7 @@ comparePrice: 359.0 EUR
 prodname: 'Staub 1103425 Cocotte Ronde Noir Mat 34 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0043RSYKE/?tag=tolees0d-21'
 descuento: '16.42'
 average: '300.04'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Live at Montreux 1991 [Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01HDBZGDE/?tag=tolees0d-21'
 descuento: '44.47'
 average: '9.99'

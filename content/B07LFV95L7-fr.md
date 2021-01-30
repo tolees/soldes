@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Geox U Renan B  Sneakers Basses Homme  Noir  Black/Mud C9355   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07LFV95L7/?tag=tolees0d-21'
 descuento: '40.00'
 average: '66.0'

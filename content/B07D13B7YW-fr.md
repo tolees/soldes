@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Romanticist 28Pcs Kit d accessoires pour Barbecue à Griller - Accessoires de Barbecue en Acier Inoxydable pour Le Camping en Plein Air Barbecue - Cadeau d anniversaire Idéal pour Papa'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D13B7YW/?tag=tolees0d-21'
 descuento: '60.01'
 average: '35.99'

@@ -16,6 +16,7 @@ comparePrice: 163.99 EUR
 prodname: 'Beurer FC 90 Pureo Ionic Soin du Visage Anti-âge - Brosse Cosmétique - Solution en 4 étapes - Diffusion de Chaleur et de Froid - Ecran LCD - Fonctionnement sur Secteur'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015LHQTAG/?tag=tolees0d-21'
 descuento: '66.32'
 average: '66.71333333333334'

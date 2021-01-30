@@ -16,6 +16,7 @@ comparePrice: 260.0 EUR
 prodname: 'Chie Mihara zuleica36  Ballerines à Bride Cheville Femmes  Multicolore Mambo Natur Titanio Ante Curry  40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YMHFJJX/?tag=tolees0d-21'
 descuento: '49.57'
 average: '131.13'

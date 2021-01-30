@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'jpantech Montre Connectée Smartwatch Femmes Homme Montre Sport Podometre Cardio Frequencemètre Chronomètres  Bracelet Connecté Etanche 50 Mètres  Montre Tactile pour Android iOS Téléphone Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DFPRQ4N/?tag=tolees0d-21'
 descuento: '36.67'
 average: '37.99'

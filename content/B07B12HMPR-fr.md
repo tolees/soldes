@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'LEGO Unikitty - La voiture dans les nuages de Unikitty - 41451 - Jeu de construction'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B12HMPR/?tag=tolees0d-21'
 descuento: '26.68'
 average: '10.99'

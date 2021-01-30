@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Dujardin Jeux - Burger Quiz'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DHYJ7V6/?tag=tolees0d-21'
 descuento: '24.37'
 average: '18.9'

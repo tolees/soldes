@@ -16,6 +16,7 @@ comparePrice: 134.18 EUR
 prodname: 'Disque Dur Externe 2to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Rouge '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CZH36SL/?tag=tolees0d-21'
 descuento: '52.31'
 average: '63.99'

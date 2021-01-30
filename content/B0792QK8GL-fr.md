@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'LEGO Harry Potter - Le Saule Cogneur du château de Poudlard - 75953 - Jeu de Construction'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0792QK8GL/?tag=tolees0d-21'
 descuento: '16.47'
 average: '63.54'

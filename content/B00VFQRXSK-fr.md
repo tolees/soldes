@@ -16,6 +16,7 @@ comparePrice: 419.0 EUR
 prodname: 'Samsonite Lite-Shock - Spinner S Bagage à Main  55 cm  36 L  Bleu  Petrol Blue '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VFQRXSK/?tag=tolees0d-21'
 descuento: '40.57'
 average: '249.0'

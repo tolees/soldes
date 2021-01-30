@@ -16,6 +16,7 @@ comparePrice: 87.5 EUR
 prodname: 'Cartable 41 Tann s Les Chinés Teddy  Gris / Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZJRQNKF/?tag=tolees0d-21'
 descuento: '46.41'
 average: '46.89'

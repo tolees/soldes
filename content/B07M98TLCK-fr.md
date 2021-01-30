@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Blink XT2 | Caméra de sécurité connectée  Intérieur/extérieur  avec stockage dans le Cloud  système audio bidirectionnel  2 ans d autonomie de la batterie | Kit 1 caméra'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07M98TLCK/?tag=tolees0d-21'
 descuento: '25.00'
 average: '89.99'

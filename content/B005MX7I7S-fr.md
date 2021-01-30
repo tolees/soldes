@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Slendertone Short d électrostimulation femme Noir  Taille 34-40  tour de taille: 61-81cm/hanches: 81-97cm '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005MX7I7S/?tag=tolees0d-21'
 descuento: '19.53'
 average: '136.0'

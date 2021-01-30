@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'PetSafe - Système Anti-Fugue Sans Fil et Portatif avec Collier Anti-Fugue Imperméable à 5 niveaux de Stimulation Sans Danger - Rayon de Sécurité de 27.5m max  Utilisation Facile - A Pile'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0030DH1WE/?tag=tolees0d-21'
 descuento: '42.63'
 average: '242.85'

@@ -16,6 +16,7 @@ comparePrice: 124.99 EUR
 prodname: 'Fluval 307 External Filter'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JH4JHTC/?tag=tolees0d-21'
 descuento: '20.80'
 average: '98.99'

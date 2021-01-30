@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Kipling BTS Sac d école Carlow Robot Camo Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YQDTCZH/?tag=tolees0d-21'
 descuento: '44.13'
 average: '38.55'

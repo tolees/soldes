@@ -16,6 +16,7 @@ comparePrice: 105.99 EUR
 prodname: 'CCcollections Combinaison en Coton Naturel et Tons ocres pour Femme. Tenue décontractée bohémienne. Cou en V  Confortable et élégante  Blanc  Small '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JN3NMSD/?tag=tolees0d-21'
 descuento: '72.65'
 average: '28.99'

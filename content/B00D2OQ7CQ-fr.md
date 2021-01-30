@@ -16,6 +16,7 @@ comparePrice: 184.94 EUR
 prodname: 'Cressi HY788051 Sub S.p.A. Ac2 Compact Détendeur DIN'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00D2OQ7CQ/?tag=tolees0d-21'
 descuento: '32.44'
 average: '124.94'

@@ -16,6 +16,7 @@ comparePrice: 80.13 EUR
 prodname: 'Tots by Smart Rike 240–109 Parure de lit classic  gris de melange'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BSISRCA/?tag=tolees0d-21'
 descuento: '60.00'
 average: '32.05'

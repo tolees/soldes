@@ -16,6 +16,7 @@ comparePrice: 242.51 EUR
 prodname: 'Dunlop SP Sport Maxx GT XL MFS  - 275/40R20 106W - Pneu Été'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00FIYNQ4K/?tag=tolees0d-21'
 descuento: '17.53'
 average: '199.99'

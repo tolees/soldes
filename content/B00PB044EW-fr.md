@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'BIC Cristal Fun Stylos-Bille Pointe Large  1 6 mm  - Violet  Boîte de 20'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00PB044EW/?tag=tolees0d-21'
 descuento: '20.30'
 average: '7.97'

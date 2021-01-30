@@ -16,6 +16,7 @@ comparePrice: 39.98 EUR
 prodname: 'Lecteur DVD pour TV  DVD / CD / MP3 / MP4 avec Prise USB  Sortie HDMI et AV  câble HDMI et AV Inclus   télécommande  sans Blu-Ray '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08C5HWQLN/?tag=tolees0d-21'
 descuento: '27.84'
 average: '28.85'

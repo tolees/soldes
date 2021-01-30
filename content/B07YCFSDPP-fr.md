@@ -16,6 +16,7 @@ comparePrice: 67.99 EUR
 prodname: 'Eveil Lumière avec LED Radio Réveil Lumineux Lampe de Chevet 20 Niveaux de Luminosité Simulateur d Aube et Crépuscule Veilleuse  2 Réveils 7 Sons Naturels 7 Couleurs Fonction Snooze Cadeau Idée'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YCFSDPP/?tag=tolees0d-21'
 descuento: '52.95'
 average: '30.14384615384615'

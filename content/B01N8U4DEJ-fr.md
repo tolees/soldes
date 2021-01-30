@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Duronic VC8 /BK- Aspirateur Balai et à Main sans Sac Classe A + tête suceuse/Flexible/Brosse - Se converti en Quelques Secondes !'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N8U4DEJ/?tag=tolees0d-21'
 descuento: '20.00'
 average: '34.39'

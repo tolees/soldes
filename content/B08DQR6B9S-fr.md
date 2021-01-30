@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'eXtremeRate Coques avec ABXY Boutons de Direction pour Nintendo Switch NS JoyCons Manette Contrôleur DIY Housse de Remplacement Pas de Coque de Console -Dégradé Rose Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DQR6B9S/?tag=tolees0d-21'
 descuento: '36.68'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Visseuse sans fil Bosch -  IXO V Edition Classique  Livrée avec chargeur et 10 embouts de vissage  boîte en métal '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00TTZU566/?tag=tolees0d-21'
 descuento: '27.26'
 average: '40.0'

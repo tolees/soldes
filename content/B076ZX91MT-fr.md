@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Shark Casque jet ATV-DRAK blanc Taille M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076ZX91MT/?tag=tolees0d-21'
 descuento: '62.35'
 average: '67.77'

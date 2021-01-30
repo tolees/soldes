@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Samsung Original Advanced Écouteurs Intra-Auriculaires avec Réduction du Bruit - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06Y3KC8HH/?tag=tolees0d-21'
 descuento: '60.43'
 average: '59.31'

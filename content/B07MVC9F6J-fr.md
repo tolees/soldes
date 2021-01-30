@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Napapijri Axstral Blouson  Noir  Black 041   X-Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MVC9F6J/?tag=tolees0d-21'
 descuento: '62.98'
 average: '84.78'

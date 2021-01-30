@@ -16,6 +16,7 @@ comparePrice: 144.0 EUR
 prodname: 'Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001GKJVGW/?tag=tolees0d-21'
 descuento: '52.26'
 average: '68.74'

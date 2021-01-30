@@ -16,6 +16,7 @@ comparePrice: 243.95 EUR
 prodname: 'IKOHS AIRCALM DC - Ventilateur de Plafond Fonction Hiver/été Ultra Silencieux'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083WQNWBH/?tag=tolees0d-21'
 descuento: '25.82'
 average: '180.95'

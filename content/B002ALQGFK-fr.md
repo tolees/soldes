@@ -16,6 +16,7 @@ comparePrice: 78.9 EUR
 prodname: 'Ardes - ARD.M240 - Masseur - Anti-Cellulite - Professionnel 4 en 1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002ALQGFK/?tag=tolees0d-21'
 descuento: '59.46'
 average: '31.99'

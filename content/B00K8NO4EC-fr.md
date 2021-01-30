@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Hudson Houghton 2  Bottes Chukka Homme  Marron  Calf Tan   44 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00K8NO4EC/?tag=tolees0d-21'
 descuento: '57.18'
 average: '53.53'

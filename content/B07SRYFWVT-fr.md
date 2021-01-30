@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Hurley U BLOCKADE II SOLID BP Sac à dos Homme Blue Force FR : Taille Unique  Taille Fabricant : Taille Unique '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SRYFWVT/?tag=tolees0d-21'
 descuento: '63.08'
 average: '14.77'

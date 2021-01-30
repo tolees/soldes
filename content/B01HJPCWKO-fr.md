@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'PAUL HEWITT Bracelet Femme PHREP Ancre - Cadeau Femme  Bracelet Femme Style Cordage  Bleu Marine  avec Fermoir Ancre en INOX plaqué Or  Or Rose '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01HJPCWKO/?tag=tolees0d-21'
 descuento: '23.71'
 average: '30.44'

@@ -16,6 +16,7 @@ comparePrice: 39.68 EUR
 prodname: 'Casque Xbox  Znines Casque de jeu pour PS4  Xbox One  Nintendo Switch  PC  Mac  ordinateur portable  Casque de jeu sur l oreille avec micro et  lumière LED  Bass Surround  Cache-oreilles doux  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CZJQ2C4/?tag=tolees0d-21'
 descuento: '24.42'
 average: '29.99'

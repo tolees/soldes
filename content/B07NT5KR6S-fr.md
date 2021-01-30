@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Extel – Visiophone Connect – avec Grand Écran  18cm  et Connecté à votre Smartphone Android ou Apple'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NT5KR6S/?tag=tolees0d-21'
 descuento: '23.14'
 average: '269.0'

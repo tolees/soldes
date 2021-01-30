@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'SteelSeries Arctis 5 - Casque de Jeu à Éclairage RVB - Son Surround DTS Headphone:X v2.0 pour PC et PlayStation 4 - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GG2VNW9/?tag=tolees0d-21'
 descuento: '23.11'
 average: '99.95'

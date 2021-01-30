@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'MIDAS veur Balayeuse portable pression et haute température  enlever les taches  les rides et les punaises de lit  Cleaner  améliorer   1050 W  Upgrade'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FDSM8W6/?tag=tolees0d-21'
 descuento: '32.67'
 average: '32.99'

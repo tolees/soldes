@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Darksiders - Genesis'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21'
 descuento: '52.44'
 average: '19.02'

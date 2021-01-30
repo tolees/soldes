@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'The Legend of Heroes: Trails of Cold Steel 2'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07M7VP6YX/?tag=tolees0d-21'
 descuento: '30.28'
 average: '27.88'

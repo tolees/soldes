@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Hauck Sport Poussette jusqu à 18 kg avec Position Couchée de 0 Mois   Légère 5 9 kg Pliable  Compacte  Barre de Protection  Harnais 5 Points  Grand Panier - Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077TBCZ46/?tag=tolees0d-21'
 descuento: '20.19'
 average: '47.88'

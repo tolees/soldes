@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'AUBADE  Soutien-gorge push-up coussinet  Bretelles réglables  AU BAL DE FLORE  Blanc  85E  OF18'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PZ8YMSP/?tag=tolees0d-21'
 descuento: '50.87'
 average: '44.22'

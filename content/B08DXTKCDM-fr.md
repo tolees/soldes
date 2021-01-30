@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Disque Dur Externe 1to USB3.0 SATA  Stockage HDD pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  1to  Bleu '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DXTKCDM/?tag=tolees0d-21'
 descuento: '52.01'
 average: '47.99'

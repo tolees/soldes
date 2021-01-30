@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Rowenta Ventilateur sur Pied Mosquito Silence avec Télécommande Silence 4 Vitesses Protection contre les Moustiques VU6410FD'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NGZCT94/?tag=tolees0d-21'
 descuento: '23.57'
 average: '107.0'

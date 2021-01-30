@@ -16,6 +16,7 @@ comparePrice: 133.11 EUR
 prodname: 'Onduleur Eaton Ellipse ECO 500 FR - Off-line UPS - EL500FR - 500VA  4 prises FR '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0052QV9FM/?tag=tolees0d-21'
 descuento: '36.18'
 average: '84.95'

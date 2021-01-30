@@ -16,6 +16,7 @@ comparePrice: 7.64 EUR
 prodname: 'Funko Pocket Pop! Fortnite: Drift - Vinyl Figure Keychain Multicolore'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L77JQFM/?tag=tolees0d-21'
 descuento: '54.19'
 average: '3.5'

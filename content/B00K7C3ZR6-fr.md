@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Set de Car Shades compatible avec Citroen Berlingo Multispace 1996-2009 / Peugeot Partner Multispace 1997-2008'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00K7C3ZR6/?tag=tolees0d-21'
 descuento: '44.17'
 average: '77.6'

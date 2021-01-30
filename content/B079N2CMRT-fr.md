@@ -16,6 +16,7 @@ comparePrice: 97.99 EUR
 prodname: 'Playmobil - Maison de Lucky - 9475'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079N2CMRT/?tag=tolees0d-21'
 descuento: '28.93'
 average: '69.64'

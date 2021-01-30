@@ -16,6 +16,7 @@ comparePrice: 65.99 EUR
 prodname: 'COOCHEER Purificateur d air avec Réel Filtre HEPA et Filtre à Charbon  Purificateur air Maison avec Minuterie 1/2/4/8H  3 Vitesses de Vent  Mode Veille  Ultra Silencieux'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZF7YFVK/?tag=tolees0d-21'
 descuento: '30.31'
 average: '45.99'

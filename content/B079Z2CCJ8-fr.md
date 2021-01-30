@@ -16,6 +16,7 @@ comparePrice: 158.95 EUR
 prodname: 'Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp 2017 Echelle 1/18  18S305  Bleu/ Rouge/ Jaune'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079Z2CCJ8/?tag=tolees0d-21'
 descuento: '38.70'
 average: '97.44'

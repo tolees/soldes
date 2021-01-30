@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Clarks Foxwell Hall  Derbys Homme  Noir  Black SDE Black SDE   43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TPYWFVS/?tag=tolees0d-21'
 descuento: '51.71'
 average: '53.12'

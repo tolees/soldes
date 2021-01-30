@@ -16,6 +16,7 @@ comparePrice: 399.0 EUR
 prodname: 'Sauter Spi4362x - Plaque à Induction - Encastrable - 3 Foyers - 7200w - L60 x P52cm - Revêtement Verre - Inox - Fabrication Française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00X95RSVM/?tag=tolees0d-21'
 descuento: '26.32'
 average: '294.0'

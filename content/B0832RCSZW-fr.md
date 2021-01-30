@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Netac Carte mémoire microSDXC  256G Haute Vitesse UHS-I Carte Micro SD jusqu à 100MB/S  A1  U3  C10  V30  4K  667X Carte TF pour Drone/Dash Cam/Camera/Phone/Nintendo-Switch/PC/Tablette'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0832RCSZW/?tag=tolees0d-21'
 descuento: '30.00'
 average: '47.15250000000001'

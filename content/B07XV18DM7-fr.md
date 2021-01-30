@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'SteelSeries Sensei Ten – Souris de gaming – Capteur optique TrueMove Pro 18 000 CPI – Design ambidextre – 8 boutons programmables'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XV18DM7/?tag=tolees0d-21'
 descuento: '18.75'
 average: '64.985'

@@ -16,6 +16,7 @@ comparePrice: 490.0 EUR
 prodname: 'LUCIEN ROCHAT Horloge R0473604002'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01M08BFBH/?tag=tolees0d-21'
 descuento: '44.65'
 average: '271.2'

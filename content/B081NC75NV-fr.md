@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Android 9.0 TV Box【4G+32G】 Android TV Box H6 Quadcore Cortex-A53 Smart TV Box 3D / 6K Full HD/H.265 / USB3.0 Android Smart TV Box Streaming Media Player'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081NC75NV/?tag=tolees0d-21'
 descuento: '20.00'
 average: '39.99'

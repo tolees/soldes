@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'SGILE RC Voiture Télécommandée - 4WD Stunt Car avec Batterie Rechargeable  Rotation à 360 Degrés Camion Radiocommandée  Voiture Jouet Cadeaux pour Enfants de 6 à 12 Ans  Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BTH9WQ4/?tag=tolees0d-21'
 descuento: '15.39'
 average: '25.374615384615385'

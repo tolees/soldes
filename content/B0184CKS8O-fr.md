@@ -16,6 +16,7 @@ comparePrice: 74.04 EUR
 prodname: 'ABUS EC-SNP 30/50 Cylindre Débrayable pour Portes Extérieures/Entrées d appartement  Nickelé Mat  30/50 mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0184CKS8O/?tag=tolees0d-21'
 descuento: '33.62'
 average: '49.15'

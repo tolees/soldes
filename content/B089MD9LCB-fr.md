@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'Meller - Bio Banna Minor Olive - Lunettes de Soleil pour homme et femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089MD9LCB/?tag=tolees0d-21'
 descuento: '44.00'
 average: '25.2'

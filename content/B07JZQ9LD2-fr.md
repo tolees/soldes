@@ -16,6 +16,7 @@ comparePrice: 749.0 EUR
 prodname: 'Apple Watch Series 4  GPS + Cellular  Boîtier en Acier Inoxydable Or de 44 mm avec Bracelet Sport Gris Sable'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JZQ9LD2/?tag=tolees0d-21'
 descuento: '33.38'
 average: '499.0'

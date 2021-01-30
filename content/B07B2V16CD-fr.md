@@ -16,6 +16,7 @@ comparePrice: 459.99 EUR
 prodname: 'FLEXISPOT E5W Bureau Réglable Electrique en Hauteur Bureau Assis-Debout Cadre Seul à 3 Etages  Bureau en Acier Inoxydable avec Panneau Automatique  Travail à Domicile  Blanc '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B2V16CD/?tag=tolees0d-21'
 descuento: '17.39'
 average: '379.99'

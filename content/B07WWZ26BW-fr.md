@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Femme Manteau Capuche Fille Hiver Manteau Long Robe Chaud Mode en Vrac Manches Longues Parka Veste Blouson Grande Taille S-5XL'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WWZ26BW/?tag=tolees0d-21'
 descuento: '54.19'
 average: '10.99'

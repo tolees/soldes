@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: '8Bitdo Adaptateur Bluetooth sans fil pour Windows/Mac/Raspberry Pi/Nintendo Switch'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0786JC6VW/?tag=tolees0d-21'
 descuento: '15.11'
 average: '16.97'

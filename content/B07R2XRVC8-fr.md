@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Under Armour Forefront Rain Veste Homme  Bleu  XL'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07R2XRVC8/?tag=tolees0d-21'
 descuento: '46.15'
 average: '43.08'

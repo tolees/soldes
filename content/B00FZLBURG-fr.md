@@ -16,6 +16,7 @@ comparePrice: 247.07 EUR
 prodname: 'Manfrotto MT190XPRO3 Trépied en Aluminium 3 Sections Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00FZLBURG/?tag=tolees0d-21'
 descuento: '23.50'
 average: '189.0'

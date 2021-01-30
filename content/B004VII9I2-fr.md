@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Vilac - 1102 - Voiture de Course - Porteur Métal - Nacré - Véhicule pour Enfants'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004VII9I2/?tag=tolees0d-21'
 descuento: '15.18'
 average: '100.94'

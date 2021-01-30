@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Merrell Siren Edge Q2  Chaussures de Randonnée Basses Femme  Noir  Black Black   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078NGVMPR/?tag=tolees0d-21'
 descuento: '21.80'
 average: '74.29'

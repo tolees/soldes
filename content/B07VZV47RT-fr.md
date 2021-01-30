@@ -16,6 +16,7 @@ comparePrice: 110.03 EUR
 prodname: 'HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse de couette et 2 taies d oreiller  Coton mélangé  multicolore  King'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VZV47RT/?tag=tolees0d-21'
 descuento: '68.64'
 average: '34.5'

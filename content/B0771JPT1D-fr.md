@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'Eastpak Tranverz L Valise  79 cm  121 L  Gris  Sunday Grey '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0771JPT1D/?tag=tolees0d-21'
 descuento: '24.12'
 average: '129.0'

@@ -16,6 +16,7 @@ comparePrice: 193.99 EUR
 prodname: 'Beurer TL 90 Lampe de luminothérapie | 10 000 lux | Simulation de la lumière du jour | Réglage d inclinaison en continu | Affichage de la durée de traitement | CE médical'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008TZBN90/?tag=tolees0d-21'
 descuento: '57.73'
 average: '81.99'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Nouvelle Ring Video Doorbell 3 | Vidéo HD  détection de mouvements personnalisable et installation facile | Essai gratuit de 30 jours à l abonnement Ring Protect inclus'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084B3WQZG/?tag=tolees0d-21'
 descuento: '20.10'
 average: '159.0'

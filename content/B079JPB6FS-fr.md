@@ -16,6 +16,7 @@ comparePrice: 37.99 EUR
 prodname: 'Sac à Bandoulière Sac à Dos  JOSEKO Sac à Main en Toile Occasionnel Multifonctionnel de Mode Sac à Dos de Voyage pour Femmes Filles Dames  Grande capacité'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079JPB6FS/?tag=tolees0d-21'
 descuento: '23.69'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Riviera-et-Bar QP350A Plancha Extra Large'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00W6ZNETQ/?tag=tolees0d-21'
 descuento: '26.99'
 average: '82.06666666666666'

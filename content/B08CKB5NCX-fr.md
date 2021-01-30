@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lumière Solaire Extérieur-POLARTAIL-[140 LED-4Pack-2000mAh]- Lampe Solaire étanche avec Détecteur de Mouvement-Éclairage Solaire sans Fil-3 Modes Intelligent lampe mural-Jardin Garage.'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CKB5NCX/?tag=tolees0d-21'
 descuento: '32.01'
 average: '33.99'

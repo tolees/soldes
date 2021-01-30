@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate D-Pad Triggers R1 L1 R2 L2 Touchpad Action Home Share Options Boutons de Remplacement Kit de Boutons avec Outil pour Playstation 4 PS4 Slim PS4 Pro Manette CUH-ZCT2-Minthe Vert'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BWX7ZVC/?tag=tolees0d-21'
 descuento: '48.02'
 average: '12.99'

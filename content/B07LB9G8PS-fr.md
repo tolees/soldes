@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Love Moschino Portafogli Quilted Nappa Pu  Portefeuilles femme  Ecru  Avorio   3x10x19 cm  W x H L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07LB9G8PS/?tag=tolees0d-21'
 descuento: '21.25'
 average: '93.71'

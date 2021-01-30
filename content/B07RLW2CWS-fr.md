@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'bugatti 313625533500  Bottes & Bottines Classiques Homme  Noir  Schwarz 1000   44 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RLW2CWS/?tag=tolees0d-21'
 descuento: '57.73'
 average: '42.25'

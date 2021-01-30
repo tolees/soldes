@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Specialist Ii Clog  Sabots Mixte Adulte  Bleu  Navy  39/40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B072LNNT6S/?tag=tolees0d-21'
 descuento: '56.26'
 average: '25.984999999999996'

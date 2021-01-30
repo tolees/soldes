@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'MGA pétillante L.O.L. Surprise  Orange  avec poupée et Animal exclusifs Toy  556268E7C  Multicolore'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HRPZYQ8/?tag=tolees0d-21'
 descuento: '22.20'
 average: '33.653333333333336'

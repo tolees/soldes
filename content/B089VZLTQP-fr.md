@@ -16,6 +16,7 @@ comparePrice: 33.59 EUR
 prodname: 'ELUTENG Ventilateur 80mm DC Puissant et Silencieux Double Ventilateurs 80 mm 12V 1A 3 Vitesses Réglables avec Contrôleur 8CM Cooling Fan pour PC Ordinateur Xbox One Playstation PS4 PS3  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089VZLTQP/?tag=tolees0d-21'
 descuento: '16.67'
 average: '27.99'

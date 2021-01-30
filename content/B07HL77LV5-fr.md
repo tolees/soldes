@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Nautica Competition Short Sport  Rouge Fire Red 6ey  36  Taille Fabricant: Medium  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HL77LV5/?tag=tolees0d-21'
 descuento: '44.83'
 average: '38.07'

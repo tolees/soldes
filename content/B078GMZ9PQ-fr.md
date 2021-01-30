@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à Isolation Passive du Bruit avec Technologie à 4 Microphones - Noir Titane'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078GMZ9PQ/?tag=tolees0d-21'
 descuento: '25.13'
 average: '97.32'

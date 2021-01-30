@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Belkin Hub Multimédia USB-C avec Câble USB-C Intégré  Dock USB-C pour Ordinateurs Portables Équipés d un Port USB-C et Fonctionnant sous Mac OS ou sous Windows  1 port HDMI  1 port Gigabit Ethernet  '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Q3HP6KQ/?tag=tolees0d-21'
 descuento: '30.38'
 average: '69.61'

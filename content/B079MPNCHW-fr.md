@@ -16,6 +16,7 @@ comparePrice: 38.59 EUR
 prodname: 'Playmobil - Véhicule de Reconnaissance Spatiale - 9489'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079MPNCHW/?tag=tolees0d-21'
 descuento: '24.88'
 average: '27.325555555555553'

@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Barbie Métiers Coffret poupée cheffe avec kit cuisine Comprenant Four  Accessoires pour Repas et cinq Pots de pâte à Modeler  Jouet pour Enfant  FRH73'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079JFTL73/?tag=tolees0d-21'
 descuento: '16.37'
 average: '38.332857142857144'

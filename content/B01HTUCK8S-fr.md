@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Hercules DJControl Instinct Party Pack  Contrôleur DJ USB avec Carte Son et Sorties Audio pour Utilisation avec Casques et Enceintes + LED Party Light USB'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01HTUCK8S/?tag=tolees0d-21'
 descuento: '22.48'
 average: '77.51'

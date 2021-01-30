@@ -16,6 +16,7 @@ comparePrice: 86.0 EUR
 prodname: 'BODY WRAP - Body Retro Sculptant avec Armatures et Bretelles Ajustables - Affine Rehausse et Galbe - Invisible sans Couture - Femme - Beige 38-40'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B073SWC3Y8/?tag=tolees0d-21'
 descuento: '58.12'
 average: '36.02'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'F1 2018 - Edition Headline'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DJBFLTT/?tag=tolees0d-21'
 descuento: '61.22'
 average: '27.14'

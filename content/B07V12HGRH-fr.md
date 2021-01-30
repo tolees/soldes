@@ -16,6 +16,7 @@ comparePrice: 949.0 EUR
 prodname: 'Asus VivoBook S S532FA-BQ064T PC Portable 15" FHD  Intel Core i5-8265U  RAM 8Go  512Go SSD PCIE + 32Go SSD Optane H10 Teton Glacier  Windows 10  Clavier AZERTY Français'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07V12HGRH/?tag=tolees0d-21'
 descuento: '20.02'
 average: '759.0'

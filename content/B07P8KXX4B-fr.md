@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Silicon Power 256GB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3  100/1  100 Mo/s SSD'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07P8KXX4B/?tag=tolees0d-21'
 descuento: '25.00'
 average: '44.99'

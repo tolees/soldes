@@ -16,6 +16,7 @@ comparePrice: 39.45 EUR
 prodname: 'Marque Amazon – BUTTONED DOWN Pull en coton supima léger avec col rond pour homme  bleu marine  US M  EU M '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BCFL7R5/?tag=tolees0d-21'
 descuento: '63.50'
 average: '14.4'

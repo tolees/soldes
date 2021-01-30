@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray  SD upscalée ] [SD Blu-ray  SD upscalée ]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21'
 descuento: '33.40'
 average: '9.99'

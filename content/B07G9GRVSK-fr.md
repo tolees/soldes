@@ -16,6 +16,7 @@ comparePrice: 11.07 EUR
 prodname: 'Schleich- Figurine Maman Grizzly avec Ourson Wild Life  42473  Multicolore'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07G9GRVSK/?tag=tolees0d-21'
 descuento: '27.82'
 average: '7.99'

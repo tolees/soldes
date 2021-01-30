@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Nenuco - Poupon et Berceau  Dort avec Moi et Son Baby Monitor  Multicouleur  Famosa 700014485 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DDG2VMT/?tag=tolees0d-21'
 descuento: '30.87'
 average: '41.47'

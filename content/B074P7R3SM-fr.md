@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Osprey Hikelite 18 Unisex Hiking Pack - Black  O/S '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B074P7R3SM/?tag=tolees0d-21'
 descuento: '20.70'
 average: '63.44'

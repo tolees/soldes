@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Fujifilm 70100138933 Pack Découverte Instax Mini 9 avec Film Instax mini 10 vues   Blanc/Rose/Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DJGC71Z/?tag=tolees0d-21'
 descuento: '20.92'
 average: '79.0'

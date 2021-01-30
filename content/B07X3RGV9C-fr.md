@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'NUBWO Casque Gaming PS4 Xbox One Ecouteur de Jeux Stéréo avec Réduction de Bruit et Contrôle en Fil pour PS4/Xbox 1/PC'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07X3RGV9C/?tag=tolees0d-21'
 descuento: '49.59'
 average: '29.74'

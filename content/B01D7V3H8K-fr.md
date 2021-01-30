@@ -16,6 +16,7 @@ comparePrice: 416.32 EUR
 prodname: 'GPR EXHAUST SYSTEM GPREB .68.E Pot d échappement homologué catalysée FURORE NERO DUKE 390 2013/16'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01D7V3H8K/?tag=tolees0d-21'
 descuento: '44.91'
 average: '229.33'

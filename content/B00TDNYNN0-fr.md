@@ -16,6 +16,7 @@ comparePrice: 479.99 EUR
 prodname: 'Arlo | Caméra de surveillance 100% Sans Fils  Pack de 3 HD Jour/Nuit Etanche IP65  Intérieur/Extérieur  Fixation Aimantée - Stockage gratuit dans le Cloud  VMS3330 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00TDNYNN0/?tag=tolees0d-21'
 descuento: '31.25'
 average: '329.99'

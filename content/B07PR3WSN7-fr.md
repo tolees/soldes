@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Legging anti Cellulite  Pantalon de Sudation  Legging Femmes Taille Haute avec Nanotechnologie pour Tonifier des Cuisses et Obtenir Un Ventre Plat pendant Yoga/Jogging/Pilates/Fitness  XL  Black01 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PR3WSN7/?tag=tolees0d-21'
 descuento: '27.79'
 average: '25.99'

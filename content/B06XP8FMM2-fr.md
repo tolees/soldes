@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Keten Tournevis triwing pour Nintendo  Kit Professionnel complète pour Nintendo Switch/Nintendo Switch Lite et d autres Produits Nintendo  Ensemble de Jeu de Tournevis de sécurité'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XP8FMM2/?tag=tolees0d-21'
 descuento: '27.79'
 average: '12.99'

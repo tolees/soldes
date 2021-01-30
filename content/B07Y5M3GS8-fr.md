@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Unisa Oneta KS  Sandales Plateforme Femme  Bleu  Ocean Ocean   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y5M3GS8/?tag=tolees0d-21'
 descuento: '44.98'
 average: '49.46'

@@ -16,6 +16,7 @@ comparePrice: 467.99 EUR
 prodname: 'EL1600USBFR ELLIP ECO 1600 USB'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21'
 descuento: '44.47'
 average: '259.89'

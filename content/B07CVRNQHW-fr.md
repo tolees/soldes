@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Columbia Homme BottesCasual  Imperméable  CAMDEN OUTDRY CHUKKA LEATHER  Taille 40.5  Brun  Cordovan  Columbia grey '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CVRNQHW/?tag=tolees0d-21'
 descuento: '56.06'
 average: '65.91'

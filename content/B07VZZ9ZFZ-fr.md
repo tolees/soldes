@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Tommy Jeans Femma Nora Mr Skinny Ankle Zip Rnl Straight Jeans  Bleu  Reina Lt Bl Str 1aj   W27/L28'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VZZ9ZFZ/?tag=tolees0d-21'
 descuento: '50.42'
 average: '59.0'

@@ -16,6 +16,7 @@ comparePrice: 66.99 EUR
 prodname: 'Playmobil - Grand Camping - 70087'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JMCCF85/?tag=tolees0d-21'
 descuento: '25.38'
 average: '49.99'

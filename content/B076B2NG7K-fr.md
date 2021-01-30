@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Hugo Boss Homme Analogique Classique Quartz Montre avec Bracelet en Acier Inoxydable 1513542'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076B2NG7K/?tag=tolees0d-21'
 descuento: '20.00'
 average: '199.2'

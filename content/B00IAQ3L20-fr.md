@@ -16,6 +16,7 @@ comparePrice: 500.0 EUR
 prodname: 'Sony MDR-HW700DS Casque TV sans fil avec son Numérique Surround - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00IAQ3L20/?tag=tolees0d-21'
 descuento: '45.60'
 average: '271.99'

@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Tommy Hilfiger Essential Computer Bag  Sacs pour ordinateur portable homme  Noir  Black  '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N8T29SN/?tag=tolees0d-21'
 descuento: '15.84'
 average: '100.91'

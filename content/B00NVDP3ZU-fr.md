@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'LEGO Classic 10696 Boîte à Briques Créative Moyenne  Jeu de Construction'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B00NVDP3ZU/?tag=tolees0d-21'
 descuento: '16.97'
 average: '25.0817647058824'
@@ -27,10 +28,10 @@ C'est en vente [LEGO Classic 10696 Boîte à Briques Créative Moyenne  Jeu de C
 
 ℹ️:
 
-- Contient une large gamme de briques LEGO de 35 couleurs différentes
-- Les éléments spéciaux comprennent une plaque de base de 8 x 16 cm, une fenêtre avec cadre et 3 paires dyeux
 - Comprend 18 pneus et 18 jantes ainsi quune plaque de base verte
-- Tous les modèles illustrés peuvent être construits à partir de cet ensemble en même temps
+- Les éléments spéciaux comprennent une plaque de base de 8 x 16 cm, une fenêtre avec cadre et 3 paires dyeux
 - LEGO Classic est conçu pour servir dinspiration à une créativité sans fin lors de la construction avec des briques LEGO
+- Contient une large gamme de briques LEGO de 35 couleurs différentes
+- Tous les modèles illustrés peuvent être construits à partir de cet ensemble en même temps
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00NVDP3ZU/?tag=tolees0d-21)

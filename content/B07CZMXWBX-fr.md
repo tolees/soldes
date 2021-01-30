@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Under Armour UA Qualifier SPEEDPOCKET 2-N-1 Short Homme  Gris  XL'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CZMXWBX/?tag=tolees0d-21'
 descuento: '67.60'
 average: '19.44'

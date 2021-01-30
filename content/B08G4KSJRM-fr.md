@@ -16,6 +16,7 @@ comparePrice: 42.99 EUR
 prodname: 'Maegoo Manette Switch Joycon  Joycon Switch Pro Manettes pour Nintendo Switch  Bluetooth sans Fil Joy Con Switch Gamepad Joysticks Joypads avec Double Shock and 6 Axis Gyro'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08G4KSJRM/?tag=tolees0d-21'
 descuento: '18.61'
 average: '34.99'

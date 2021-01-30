@@ -16,6 +16,7 @@ comparePrice: 61.74 EUR
 prodname: 'Truma 30090-00042 Set d allumage piézo'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KFGMGK2/?tag=tolees0d-21'
 descuento: '20.00'
 average: '49.39'

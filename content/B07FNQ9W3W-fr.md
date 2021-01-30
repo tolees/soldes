@@ -16,6 +16,7 @@ comparePrice: 104.5 EUR
 prodname: 'Seafolly Water Garden Twist Halter Singlet Haut De Maillot  Noir  Black Black   38  Taille Fabricant: 10  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FNQ9W3W/?tag=tolees0d-21'
 descuento: '20.89'
 average: '82.67'

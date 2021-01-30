@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Victrola Empire Junior Chaîne Stéréo 4-en-1 Platine Vinyle - Expresso'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KL1JG53/?tag=tolees0d-21'
 descuento: '36.12'
 average: '95.75'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'BESTBOMG Tondeuse Cheveux Hommes Professionnelle Tondeuse Barbe Cheveux Sans Fil Tondeuse Cheveux Kit 5500rpm 8 protections d accessoires colorées 2 Vitesses Ajustées  pour les Enfants et la Famille'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B088RFGD7F/?tag=tolees0d-21'
 descuento: '28.58'
 average: '49.99'

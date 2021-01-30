@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox One '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21'
 descuento: '15.22'
 average: '38.99'

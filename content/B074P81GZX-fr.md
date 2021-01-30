@@ -16,6 +16,7 @@ comparePrice: 64.96 EUR
 prodname: 'Victoire Champagne Fut de Chene Mill 2010 Edition Laquee Gold 750 ml'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B074P81GZX/?tag=tolees0d-21'
 descuento: '18.90'
 average: '52.68'

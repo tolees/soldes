@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'The Rolling Stones-Bridges to Buenos Aires Blu-Ray  SD upscalée '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XYDB4VK/?tag=tolees0d-21'
 descuento: '44.47'
 average: '9.99'

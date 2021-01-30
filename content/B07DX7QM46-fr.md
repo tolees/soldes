@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'V Tech Tut Tut Bolides Mon premier garage interactif Éthan  pro de la dépanne'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DX7QM46/?tag=tolees0d-21'
 descuento: '21.86'
 average: '37.5'

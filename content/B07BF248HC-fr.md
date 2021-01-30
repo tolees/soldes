@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Still on the Run - the Jeff Beck Story [Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BF248HC/?tag=tolees0d-21'
 descuento: '44.47'
 average: '9.99'

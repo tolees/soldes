@@ -16,6 +16,7 @@ comparePrice: 145.0 EUR
 prodname: 'BaByliss Paris - C1500E - Boucleur automatique Curl Secret Digital Sensor'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077VP7JWB/?tag=tolees0d-21'
 descuento: '44.14'
 average: '80.99'

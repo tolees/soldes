@@ -16,6 +16,7 @@ comparePrice: 90.2 EUR
 prodname: 'Pampers Premium Protection Taille 4  168 Couches  9kg-14kg'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B019WCXL1Q/?tag=tolees0d-21'
 descuento: '32.11'
 average: '48.461111111111116'

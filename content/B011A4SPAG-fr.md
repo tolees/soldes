@@ -16,6 +16,7 @@ comparePrice: 43.42 EUR
 prodname: 'Tumble Forms Support Universal Petite Cale  Accessoire pour le Kit de Positionnement'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B011A4SPAG/?tag=tolees0d-21'
 descuento: '19.99'
 average: '34.74'

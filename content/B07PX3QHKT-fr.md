@@ -16,6 +16,7 @@ comparePrice: 10.31 EUR
 prodname: 'Pop! Figurine en Vinyle: Harry Potter: Harry Potter - Minerva McGonagall  Yule '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PX3QHKT/?tag=tolees0d-21'
 descuento: '19.98'
 average: '9.520000000000001'

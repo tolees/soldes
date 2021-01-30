@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Comma 8t.002.85.1022 Combinaison  Rosa  Powder Rose 8022   42 Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Z4BV7LB/?tag=tolees0d-21'
 descuento: '50.48'
 average: '74.28'

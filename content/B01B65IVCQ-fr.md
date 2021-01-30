@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Pinypon - 700012914 - Mini Poupée - Coffret Clinique Vétérinaire + 2 Figurines'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01B65IVCQ/?tag=tolees0d-21'
 descuento: '47.51'
 average: '26.24'

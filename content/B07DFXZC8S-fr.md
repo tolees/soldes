@@ -16,6 +16,7 @@ comparePrice: 39.95 EUR
 prodname: 'Puma Active Leggings Pantalon de Sport Femme  Black  XL'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DFXZC8S/?tag=tolees0d-21'
 descuento: '49.96'
 average: '19.99'

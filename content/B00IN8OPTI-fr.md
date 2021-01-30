@@ -16,6 +16,7 @@ comparePrice: 240.0 EUR
 prodname: 'Dsquared2 D Squared Brillengestelle DQ5122 071-55-16-140 Lunettes de soleil  Marron  Braun   55.0 Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00IN8OPTI/?tag=tolees0d-21'
 descuento: '67.83'
 average: '77.21'

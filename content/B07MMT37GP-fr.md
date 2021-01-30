@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'L OR Barista LM8016/90 machine à café à capsules Noir Mat et Finition métallisée'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MMT37GP/?tag=tolees0d-21'
 descuento: '33.34'
 average: '79.99'

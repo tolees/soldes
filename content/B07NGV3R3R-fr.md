@@ -16,6 +16,7 @@ comparePrice: 113.0 EUR
 prodname: 'Derhy DAGADGET Parka  Bleu  Marine 300   40  Taille Fabricant:M  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NGV3R3R/?tag=tolees0d-21'
 descuento: '24.70'
 average: '85.09'

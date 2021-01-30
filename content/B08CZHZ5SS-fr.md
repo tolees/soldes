@@ -16,6 +16,7 @@ comparePrice: 44.99 EUR
 prodname: 'BAITITON 128GB MSATA III Disque Flash SSD 128 Go Interne Solid State Drive'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CZHZ5SS/?tag=tolees0d-21'
 descuento: '51.12'
 average: '21.99'

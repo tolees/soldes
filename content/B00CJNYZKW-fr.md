@@ -16,6 +16,7 @@ comparePrice: 17.28 EUR
 prodname: 'Purflux L358A filtre à huile'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00CJNYZKW/?tag=tolees0d-21'
 descuento: '73.96'
 average: '4.5'

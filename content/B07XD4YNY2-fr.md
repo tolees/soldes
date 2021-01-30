@@ -16,6 +16,7 @@ comparePrice: 10.17 EUR
 prodname: 'POP! Marvel: Black Widow – Taskmaster w/ bow'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XD4YNY2/?tag=tolees0d-21'
 descuento: '36.48'
 average: '6.46'

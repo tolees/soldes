@@ -16,6 +16,7 @@ comparePrice: 169.9 EUR
 prodname: 'True Religion Cropped Hoody Print Dusty Olive Sweat-Shirt À Capuche  Vert 3501  38  Taille Fabricant: Small  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N1BDZZ4/?tag=tolees0d-21'
 descuento: '18.19'
 average: '138.99'

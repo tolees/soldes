@@ -16,6 +16,7 @@ comparePrice: 117.09 EUR
 prodname: 'Hauck/ Sit N Relax/ Chaise Haute Bébé 3 en 1/ Transat Bébé et Chaise pour Enfants/ avec Position Couchée/ avec Arc Jeu  Plateau Repas  Roues/ Réglable en Hauteur/ Évolutive/ Pliable  wild panda  noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07C8S7JN4/?tag=tolees0d-21'
 descuento: '23.65'
 average: '89.4'

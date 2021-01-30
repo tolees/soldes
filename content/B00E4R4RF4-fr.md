@@ -16,6 +16,7 @@ comparePrice: 349.0 EUR
 prodname: 'Piquadro Sac à dos loisir  Marron - CA2943OS'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21'
 descuento: '61.70'
 average: '159.59'

@@ -16,6 +16,7 @@ comparePrice: 699.0 EUR
 prodname: 'Bluefin Paddle Board Gonflable 427 cm à Position Debout | 15 cm d’Épaisseur | Pagaie Légère en Fibre de Verre | Tous Les Accessoires | Garantie 5 Ans'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07C2TD5PV/?tag=tolees0d-21'
 descuento: '20.03'
 average: '559.0'

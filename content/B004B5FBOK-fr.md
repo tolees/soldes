@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'STIGA Luge Bob Snowracer Supreme GT Luge Bobsleigh avec Volant et Frein  noir/blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004B5FBOK/?tag=tolees0d-21'
 descuento: '25.97'
 average: '73.99'

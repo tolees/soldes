@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Rockport Style Purpose 3 Plain Toe  Derbys Homme  Marron  Cognac 002   44.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FSD5MT8/?tag=tolees0d-21'
 descuento: '36.34'
 average: '70.03'

@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'adidas NMD R2  Baskets Homme  Noir  Core Black/Core Black/Core Black 0   40 2/3 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0773YCWFX/?tag=tolees0d-21'
 descuento: '56.14'
 average: '61.38'

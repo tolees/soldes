@@ -16,6 +16,7 @@ comparePrice: 1149.0 EUR
 prodname: 'Microsoft Surface Laptop 3 “ PC UltraPortable  écran 13 pouces  Intel Core i5  8Go de RAM  128Go de stockage SSD  “ Platine  finition Alcantara '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XFWDZ12/?tag=tolees0d-21'
 descuento: '15.67'
 average: '969.0'

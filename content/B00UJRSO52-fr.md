@@ -16,6 +16,7 @@ comparePrice: 480.0 EUR
 prodname: 'Sony Objectif SEL-28F20 28mm Ouverture F2.0 pour Monture E'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00UJRSO52/?tag=tolees0d-21'
 descuento: '17.73'
 average: '394.9'

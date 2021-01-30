@@ -16,6 +16,7 @@ comparePrice: 162.63 EUR
 prodname: 'Legrand LEG92727 Tableau Chauffe Eau'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B009E6JR4G/?tag=tolees0d-21'
 descuento: '15.38'
 average: '137.62'

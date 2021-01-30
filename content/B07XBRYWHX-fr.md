@@ -16,6 +16,7 @@ comparePrice: 2119.0 EUR
 prodname: 'Microsoft Surface Pro 7 – PC Hybride  écran 12.3 pouces  Intel Core i7  16Go de RAM  512Go de stockage SSD  – Platine'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XBRYWHX/?tag=tolees0d-21'
 descuento: '19.31'
 average: '1709.78'

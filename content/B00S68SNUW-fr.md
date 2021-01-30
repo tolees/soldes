@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Sylvanian Families - 5210 - Le bateau chasse au trésor'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00S68SNUW/?tag=tolees0d-21'
 descuento: '16.01'
 average: '21.138148148148147'

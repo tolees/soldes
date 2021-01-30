@@ -16,6 +16,7 @@ comparePrice: 1649.0 EUR
 prodname: 'Microsoft Surface Laptop 3 – PC Ultra-Portable  écran 15 pouces  processeur AMD Ryzen 5  8Go de RAM  256Go de stockage SSD  – Platine  métal '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XDYRMTV/?tag=tolees0d-21'
 descuento: '15.16'
 average: '1349.0'

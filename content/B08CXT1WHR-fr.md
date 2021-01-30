@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'LK Coque pour Xiaomi Redmi 9 [Antidérapant] Souple Flexible Silicone Gel TPU Housse Case Cover avec Verre Trempé Protection d écran[2 Pièces] pour Xiaomi Redmi 9 - Clair'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CXT1WHR/?tag=tolees0d-21'
 descuento: '43.78'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 31.54 EUR
 prodname: 'ZIYOULANG Souris de jeu filaire 69G en nid d abeille légère avec 6400 DPI  6 boutons de souris de jeu USB programmable pour les joueurs PC  Xbox et PS4 Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08C9MNPCY/?tag=tolees0d-21'
 descuento: '21.50'
 average: '24.76'

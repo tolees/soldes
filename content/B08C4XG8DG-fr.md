@@ -16,6 +16,7 @@ comparePrice: 46.99 EUR
 prodname: 'Manette Sans Fil pour PS4 Manette pour Playstation 4 Gamepad pour PS4/ PS4 Slim/ PS4 Pro Console avec Double Vibration Moteur  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08C4XG8DG/?tag=tolees0d-21'
 descuento: '27.67'
 average: '33.90523809523809'

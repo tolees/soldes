@@ -16,6 +16,7 @@ comparePrice: 134.81 EUR
 prodname: 'Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox  2to  Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08GLC4P3B/?tag=tolees0d-21'
 descuento: '52.53'
 average: '63.99'

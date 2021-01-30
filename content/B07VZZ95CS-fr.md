@@ -16,6 +16,7 @@ comparePrice: 114.0 EUR
 prodname: 'Philips Sonicare HX9601/03 Brosse à dents électrique rechargeable Connectée ExpertClean - Blanche'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VZZ95CS/?tag=tolees0d-21'
 descuento: '21.06'
 average: '96.65666666666667'

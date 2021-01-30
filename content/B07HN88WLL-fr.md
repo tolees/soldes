@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: '8-Bit Armies - Limited Edition'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HN88WLL/?tag=tolees0d-21'
 descuento: '45.96'
 average: '37.82'

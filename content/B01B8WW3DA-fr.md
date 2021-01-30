@@ -16,6 +16,7 @@ comparePrice: 12.15 EUR
 prodname: 'Rubie s-déguisement officiel - Rubie s-Costume Miraculous Ladybug Yo-Yo and ClipOn Earrings- I-32930'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01B8WW3DA/?tag=tolees0d-21'
 descuento: '67.08'
 average: '4.0'

@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'DOMOOVA DBV60 One - Aspirateur Balais Cyclonique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DDMJ11X/?tag=tolees0d-21'
 descuento: '59.09'
 average: '89.99'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Geox U Taiki B ABX C  Baskets Hautes Homme  Noir  Black C9999   44 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0792TNMBT/?tag=tolees0d-21'
 descuento: '19.42'
 average: '112.81'

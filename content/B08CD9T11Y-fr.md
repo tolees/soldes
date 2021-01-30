@@ -16,6 +16,7 @@ comparePrice: 134.09 EUR
 prodname: 'Disque Dur Externe 2to Type C USB3.1 pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Rouge '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CD9T11Y/?tag=tolees0d-21'
 descuento: '52.64'
 average: '63.5'

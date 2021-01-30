@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC H215-HM DRESS BLUES GRAPHIC H215-HM 36.3   Medium'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VLN9KBK/?tag=tolees0d-21'
 descuento: '20.20'
 average: '19.95'

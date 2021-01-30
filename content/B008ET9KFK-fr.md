@@ -16,6 +16,7 @@ comparePrice: 32.02 EUR
 prodname: 'KS TOOLS 999.0120 Caisse à outils métallique  5 compartiments - 430 x 200 x 200 mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008ET9KFK/?tag=tolees0d-21'
 descuento: '22.42'
 average: '24.84'

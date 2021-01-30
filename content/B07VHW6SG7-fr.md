@@ -16,6 +16,7 @@ comparePrice: 549.0 EUR
 prodname: 'Hugo Boss Watch 1513743'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VHW6SG7/?tag=tolees0d-21'
 descuento: '21.32'
 average: '431.94'

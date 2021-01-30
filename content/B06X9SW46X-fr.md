@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Sylvanian Families - 5257 - Les amies ballerines'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06X9SW46X/?tag=tolees0d-21'
 descuento: '22.23'
 average: '13.99'

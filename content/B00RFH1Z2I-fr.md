@@ -16,6 +16,7 @@ comparePrice: 65.0 EUR
 prodname: 'Les Tropéziennes par M. Belarbi HAMAT  Sandales Femme  Noir  Noir/Serpent   39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00RFH1Z2I/?tag=tolees0d-21'
 descuento: '16.86'
 average: '54.04'

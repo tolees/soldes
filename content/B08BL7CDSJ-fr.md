@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'YUCUN 2 5 Pouces SATA III Disque Flash 2To SSD 2TB Interne Solid State Drive Grande Endurance Grande Vitesse jusqu à 550 Mo/s'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BL7CDSJ/?tag=tolees0d-21'
 descuento: '22.73'
 average: '169.99'

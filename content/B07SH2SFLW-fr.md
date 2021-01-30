@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'Honeycomb Aeronautical Alpha Flight Controls Yoke & Switch Panel'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SH2SFLW/?tag=tolees0d-21'
 descuento: '20.59'
 average: '238.23'

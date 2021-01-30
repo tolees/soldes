@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'Trussardi Jeans Sophie Cross Body Md Ecoleathe  femme  Gris  Gunmetal   18x10.5x29 cm  W x H L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L167FDP/?tag=tolees0d-21'
 descuento: '59.95'
 average: '51.66'

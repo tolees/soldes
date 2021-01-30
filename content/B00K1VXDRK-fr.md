@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Montre Femme - Calvin Klein K4U23126'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00K1VXDRK/?tag=tolees0d-21'
 descuento: '49.71'
 average: '100.07'

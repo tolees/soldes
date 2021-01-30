@@ -16,6 +16,7 @@ comparePrice: 477.66 EUR
 prodname: 'KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X 100mm IPX7 Étanche Bak4 FMC Film Longue Vue Trepied & Adaptateur Smartphone Monoculaire Telescope Vert Foncé'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BCC2SY7/?tag=tolees0d-21'
 descuento: '58.13'
 average: '199.98'

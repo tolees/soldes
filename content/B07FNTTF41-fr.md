@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LEGO® Marvel Super Heroes™ Captain America et l attaque des Outriders Jeu 6 Ans et Plus  167 Pièces  76123'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FNTTF41/?tag=tolees0d-21'
 descuento: '20.01'
 average: '19.99'

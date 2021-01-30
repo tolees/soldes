@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Echo Plus  2ème génération   Son de qualité premium avec un hub maison connectée intégré  Tissu anthracite'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0794XQK5S/?tag=tolees0d-21'
 descuento: '33.34'
 average: '99.99'

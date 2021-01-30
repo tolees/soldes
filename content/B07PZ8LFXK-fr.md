@@ -16,6 +16,7 @@ comparePrice: 18.47 EUR
 prodname: 'Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket Outerwear  Bleu Marine délavé  X-Small'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PZ8LFXK/?tag=tolees0d-21'
 descuento: '18.57'
 average: '15.04'

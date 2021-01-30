@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Millet - High Route GTX M - Chaussures Hautes de Randonnée - Homme - Membrane Gore-Tex Imperméable Respirante - Semelle Vibram - Noir - 48'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FTX242Q/?tag=tolees0d-21'
 descuento: '51.12'
 average: '97.74'

@@ -16,6 +16,7 @@ comparePrice: 43.67 EUR
 prodname: 'Tigex Baignoire pour Bébé  Pliable Ultra Compacte  0-12 Mois  Max 15 kg   Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N1GQ7RY/?tag=tolees0d-21'
 descuento: '47.26'
 average: '23.03'

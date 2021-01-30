@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Krups Spécial T Machine à Thé Mini T Théière Electrique à Capsules Noir YY4121FD'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NJBYHXX/?tag=tolees0d-21'
 descuento: '30.00'
 average: '67.38714285714286'

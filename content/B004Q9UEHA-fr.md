@@ -16,6 +16,7 @@ comparePrice: 460.0 EUR
 prodname: 'Philip Watch - R8253107765 - Montre Femme - Quartz - Analogique - Bracelet Acier Inoxydable Argent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004Q9UEHA/?tag=tolees0d-21'
 descuento: '26.61'
 average: '337.59'

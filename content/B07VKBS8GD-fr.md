@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Bombes de Bain Coffret Cadeau Anjou 6 x 115g  Boules Effervescentes pour Femmes  Jeunes filles  Anniversaires  Fêtes  etc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VKBS8GD/?tag=tolees0d-21'
 descuento: '34.80'
 average: '14.99'

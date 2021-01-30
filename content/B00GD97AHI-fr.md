@@ -16,6 +16,7 @@ comparePrice: 149.9 EUR
 prodname: 'Azzaro Item  Bottes Chelsea homme  Marron  43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00GD97AHI/?tag=tolees0d-21'
 descuento: '49.97'
 average: '75.0'

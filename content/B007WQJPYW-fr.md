@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Samsonite S Cure - Spinner M Valise  69 cm  79 L  Crimson Rouge  Red '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B007WQJPYW/?tag=tolees0d-21'
 descuento: '60.00'
 average: '79.6'

@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Scotch & Soda Maison Club Nomade Basic Sweat Shirt  Red 3127  X-Small Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JPJDCK1/?tag=tolees0d-21'
 descuento: '17.75'
 average: '65.76'

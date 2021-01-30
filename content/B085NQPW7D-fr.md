@@ -16,6 +16,7 @@ comparePrice: 73.38 EUR
 prodname: 'Original Dovpo Odin 200W Mod alimenté par une double batterie 21700 avec écran OLED 0 96 pouces E cigs Vaporizer Vape Box Mod 510 Thread'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B085NQPW7D/?tag=tolees0d-21'
 descuento: '44.43'
 average: '40.78'

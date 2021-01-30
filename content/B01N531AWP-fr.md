@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Fleximounts A04 Support Mural TV Ultra Pivotant et Inclinable pour Les écrans Plats de 32"-65"  81cm-165cm  LED  LCD  HD 4K Plasma'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N531AWP/?tag=tolees0d-21'
 descuento: '26.01'
 average: '36.99'

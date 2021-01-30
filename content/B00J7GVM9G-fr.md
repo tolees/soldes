@@ -16,6 +16,7 @@ comparePrice: 339.0 EUR
 prodname: 'Zwilling 66060-000 Passion Batterie de cuisine Acier Inoxydable Aluminium 5 pièces'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00J7GVM9G/?tag=tolees0d-21'
 descuento: '55.78'
 average: '149.9'

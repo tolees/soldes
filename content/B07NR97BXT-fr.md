@@ -16,6 +16,7 @@ comparePrice: 199.9 EUR
 prodname: 'LLOYD Villod Gore-tex  Bottes & Bottines Classiques Homme  Noir  Schwarz 0   43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NR97BXT/?tag=tolees0d-21'
 descuento: '23.71'
 average: '152.51'

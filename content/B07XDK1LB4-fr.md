@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Polarduck Support Mural TV pour écrans 23-55 Pouces  58-140 cm  LED LCD Plasma et Courbé   VESA Max 400 x 400mm  Min 100 x 100mm  Capacité Max 60kg  Nior'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XDK1LB4/?tag=tolees0d-21'
 descuento: '16.01'
 average: '20.99'

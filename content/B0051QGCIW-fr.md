@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Diesel Homme Analogique Quartz Montre avec Bracelet en Silicone DZ1437'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0051QGCIW/?tag=tolees0d-21'
 descuento: '32.26'
 average: '64.35'

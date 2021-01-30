@@ -16,6 +16,7 @@ comparePrice: 849.99 EUR
 prodname: 'Arlo Pro 2 | Caméra de surveillance 100% Sans Fils - Pack de 3  batteries rechargeables  Alarme 100 dB  Son bidirectionnel  1080p Jour et Nuit  Étanche IP65 Intérieur/Extérieur  VMS4330P '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0777TMW1Y/?tag=tolees0d-21'
 descuento: '30.81'
 average: '588.07'

@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Clarks Mena Blossom  Escarpins Femme  Argenté  Champagne-   41 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FQX675M/?tag=tolees0d-21'
 descuento: '30.02'
 average: '62.95'

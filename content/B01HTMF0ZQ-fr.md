@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Salewa MS Rapace Gore-TEX  Chaussures de Trekking et randonnée Homme  Noir  Night Black/Kamille 0960   39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01HTMF0ZQ/?tag=tolees0d-21'
 descuento: '17.49'
 average: '123.77'

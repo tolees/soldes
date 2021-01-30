@@ -16,6 +16,7 @@ comparePrice: 34.7 EUR
 prodname: 'EDMA 261255 Boule Chauffante  Argent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00IF3OB54/?tag=tolees0d-21'
 descuento: '28.24'
 average: '24.9'

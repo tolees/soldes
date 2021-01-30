@@ -16,6 +16,7 @@ comparePrice: 12.74 EUR
 prodname: 'Fisher-Price Singe 1-2-3 joue avec moi  jouet musical et lumineux avec miroir  pour bébé dès 3 mois  FHF75'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B073C7F7HB/?tag=tolees0d-21'
 descuento: '21.59'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Norah Jones - Live At Ronnie Scott s [Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B64T2YK/?tag=tolees0d-21'
 descuento: '44.47'
 average: '9.99'

@@ -16,6 +16,7 @@ comparePrice: 149.95 EUR
 prodname: 'POC Spine VPD air Vest Protective Mixte Adulte  Uranium Black  Large Slim'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01GTNK2KY/?tag=tolees0d-21'
 descuento: '33.52'
 average: '99.68'

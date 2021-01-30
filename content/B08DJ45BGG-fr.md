@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Disque Dur Externe 1to  Disque Dur Externe USB3.1/Type C Stockage HDD pour Mac  PC  Windows  MacBook  Xbox One  1to Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DJ45BGG/?tag=tolees0d-21'
 descuento: '46.67'
 average: '47.99'

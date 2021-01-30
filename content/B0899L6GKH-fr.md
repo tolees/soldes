@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: '2 X 1200mAh Batteries pour Manette Xbox One / S / X / Elite   Rechargeable pour avec 2 en 1 Câble de Charge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0899L6GKH/?tag=tolees0d-21'
 descuento: '28.01'
 average: '17.99'

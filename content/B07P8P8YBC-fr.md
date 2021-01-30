@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Playmobil - Playmobil The Movie Food Truck de Del  - 70075'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07P8P8YBC/?tag=tolees0d-21'
 descuento: '24.58'
 average: '37.570588235294125'

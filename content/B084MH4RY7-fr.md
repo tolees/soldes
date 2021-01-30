@@ -16,6 +16,7 @@ comparePrice: 7.99 EUR
 prodname: 'ivencase Coque Xiaomi Redmi Note 9S Note 9 Pro Étui avec 4 Coins Coussin d air Transparent Silicone Souple Bumper TPU Anti-Choc Ultra Mince Housse pour Xiaomi Redmi Note 9S/Note 9 Pro/9 Pro Max'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084MH4RY7/?tag=tolees0d-21'
 descuento: '33.92'
 average: '5.164'

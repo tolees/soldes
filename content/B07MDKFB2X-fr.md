@@ -16,6 +16,7 @@ comparePrice: 197.0 EUR
 prodname: 'Lacoste BJ8097 Blouson  Bleu  Sinople/Marine Dq5   14 Ans  Taille Fabricant:14A  Garçon'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MDKFB2X/?tag=tolees0d-21'
 descuento: '19.29'
 average: '159.0'

@@ -16,6 +16,7 @@ comparePrice: 249.9 EUR
 prodname: 'Foscam Fi9928P Caméra Ip Wifi Extérieure Motorisée Caméra HD Avec Zoom X4 Infrarouge 60 M - Pilotage Et Consultation à Distance 24/7'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N6HGE6W/?tag=tolees0d-21'
 descuento: '15.01'
 average: '212.4'

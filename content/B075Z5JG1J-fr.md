@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Vero Moda Vmhot Nine Hw DNM Pencil Skirt Mix Noos Jupe  Bleu  Medium Blue Denim Medium Blue Denim   40  Taille Fabricant: Large  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075Z5JG1J/?tag=tolees0d-21'
 descuento: '15.06'
 average: '11.740000000000002'

@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'Brunner Tonnelle Medusa 3x3  Bleu '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004XLXPSQ/?tag=tolees0d-21'
 descuento: '33.34'
 average: '106.59'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'LK Clair Coque pour Samsung Galaxy A71  [2 pièces Verre trempé Protection écran + 2 pièces Caméra Arrière Protecteur]  Souple Silicone TPU Housse Case Cover pour Samsung Galaxy A71 - Transparent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HGHJ52L/?tag=tolees0d-21'
 descuento: '31.27'
 average: '10.99'

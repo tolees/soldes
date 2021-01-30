@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'The Rolling Stones - Havana Moon [Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LFGV8NA/?tag=tolees0d-21'
 descuento: '44.47'
 average: '9.99'

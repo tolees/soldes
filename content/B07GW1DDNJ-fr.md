@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Just Dance 2019 - Edition Amazon pour Nintendo Switch'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GW1DDNJ/?tag=tolees0d-21'
 descuento: '58.34'
 average: '24.99'

@@ -16,6 +16,7 @@ comparePrice: 45.69 EUR
 prodname: 'Chaussures Femmes Sport Trainers Confort Poids Léger Woven Mode Marchant Baskets - Argent - Taille CN 42'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07F9KB9V7/?tag=tolees0d-21'
 descuento: '60.82'
 average: '17.9'

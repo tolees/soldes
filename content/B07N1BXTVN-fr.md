@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'Sebago DAN Waxy Polaris  Mocassins  Loafer  Hommes  Marron  DK Brown 901   39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N1BXTVN/?tag=tolees0d-21'
 descuento: '61.24'
 average: '69.77'

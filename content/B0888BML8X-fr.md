@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Écouteurs Bluetooth sans Fil Sport IPX7 Étanche  Casque Bluetooth i-FI Son Stéréo  avec 3000mAh Étui de Chargement  Réduction du Bruit CVC 8.0  Temps de Lecture 180 Heures Oreillette Bluetooth 5.0'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0888BML8X/?tag=tolees0d-21'
 descuento: '42.86'
 average: '39.99'

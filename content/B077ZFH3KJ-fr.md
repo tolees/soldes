@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Aigle Havsea  Chaussures Bateau Homme  Marron  Brown/Miel   44 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077ZFH3KJ/?tag=tolees0d-21'
 descuento: '15.29'
 average: '105.89'

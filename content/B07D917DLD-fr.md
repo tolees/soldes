@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Curvy Kate Sheer Class Maillot Une Pièce  Noir  Black Black   105E  Taille Fabricant: 40DD  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D917DLD/?tag=tolees0d-21'
 descuento: '20.35'
 average: '59.74'

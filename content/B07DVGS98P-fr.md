@@ -16,6 +16,7 @@ comparePrice: 40.13 EUR
 prodname: 'Coffret Films issus de Jeux Vidéo : Rampage-Hors de contrôle + Tomb Raider + Ready Player One + Resident Evil + Need for Speed [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DVGS98P/?tag=tolees0d-21'
 descuento: '45.20'
 average: '21.99'

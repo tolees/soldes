@@ -16,6 +16,7 @@ comparePrice: 527.15 EUR
 prodname: 'Intermec DX4A2111100 Station de Charge Quad'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Intermec'
 buyurl: 'https://www.amazon.fr/dp/B004S1ENP0/?tag=tolees0d-21'
 descuento: '60.00'
 average: '210.86'
@@ -27,10 +28,10 @@ Vous avez [Intermec DX4A2111100 Station de Charge Quad](https://www.amazon.fr/dp
 
 ℹ️:
 
-- 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Compatibilité: CN70/70e
-- Interface: docking connector
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Couleur: Noir
+- Interface: docking connector
+- 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Compatibilité: CN70/70e
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004S1ENP0/?tag=tolees0d-21)

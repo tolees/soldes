@@ -16,6 +16,7 @@ comparePrice: 199.95 EUR
 prodname: 'Roy Robson 9.6019E+13 Blouson  Bleu  Small  Taille Fabricant:  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NGWDHXV/?tag=tolees0d-21'
 descuento: '59.89'
 average: '80.19'

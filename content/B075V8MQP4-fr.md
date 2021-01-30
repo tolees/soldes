@@ -16,6 +16,7 @@ comparePrice: 77.54 EUR
 prodname: 'IQE-Storage TB-M6 Trolley de transport  rembourrage en mousse  fermetures de type levier-crochet  LxlxH : 480 mm x 330 mm x 210 mm  argent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075V8MQP4/?tag=tolees0d-21'
 descuento: '20.00'
 average: '62.03'

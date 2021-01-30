@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Audio-Technica ATH-M30X Casque audio professionnel Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00HVLUQW8/?tag=tolees0d-21'
 descuento: '21.74'
 average: '54.0'

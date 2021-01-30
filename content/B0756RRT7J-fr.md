@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'KKmoon Oscilloscope de Signal 2CH Oscilloscope de Stockage Numérique +1 Canal Arbitraire/Fonction Générateur de forme d onde 100MHz 7"TFT 1GSa /s Générateur de signal 25MHZ 12 bits 4nS /div-80S /div'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0756RRT7J/?tag=tolees0d-21'
 descuento: '41.67'
 average: '174.99'

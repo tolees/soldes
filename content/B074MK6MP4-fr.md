@@ -16,6 +16,7 @@ comparePrice: 26.0 EUR
 prodname: 'Havaianas Slim Brasil Logo Tongs-Femme  Bleu  Bleu Marin   39/40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B074MK6MP4/?tag=tolees0d-21'
 descuento: '27.12'
 average: '18.95'

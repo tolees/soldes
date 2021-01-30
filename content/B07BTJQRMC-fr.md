@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'Caffè Carracci  100 Capsules Compatibles Lavazza A Modo Mio  Milano 100% Arabica'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BTJQRMC/?tag=tolees0d-21'
 descuento: '15.80'
 average: '15.99'

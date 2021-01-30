@@ -16,6 +16,7 @@ comparePrice: 80.26 EUR
 prodname: 'Batman La Relève - La Série Animée Edition Deluxe [Edition Deluxe] [Edition Deluxe] [Edition Deluxe]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07T4RYNYZ/?tag=tolees0d-21'
 descuento: '20.27'
 average: '63.99'

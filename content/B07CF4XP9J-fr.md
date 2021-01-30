@@ -16,6 +16,7 @@ comparePrice: 64.9 EUR
 prodname: 'Highness Pantalon Homme Chino Un incontournable de Tout vestiaire Masculin - A Porter en Toutes circonstances avec des Baskets ou Chaussures en Cuir - Très Confortable-Camel -34 US = 44 FR'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CF4XP9J/?tag=tolees0d-21'
 descuento: '53.93'
 average: '29.9'

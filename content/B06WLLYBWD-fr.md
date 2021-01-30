@@ -16,6 +16,7 @@ comparePrice: 233.19 EUR
 prodname: 'Montre Femme - Dreyfuss DLS00146/01'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06WLLYBWD/?tag=tolees0d-21'
 descuento: '20.00'
 average: '186.55'

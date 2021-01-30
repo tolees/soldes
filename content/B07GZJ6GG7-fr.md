@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Coolskins Cool008 Chapka  Noir  Negro 08   Taille Unique Mixte'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GZJ6GG7/?tag=tolees0d-21'
 descuento: '23.95'
 average: '128.52'

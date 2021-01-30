@@ -16,6 +16,7 @@ comparePrice: 50.33 EUR
 prodname: 'Senbos Portefeuille Homme en Cuir Véritable 18 Emplacements pour Cartes de Crédit Blocage RFID Portefeuille pour Homme Grande Poche à Monnaie avec Support de Carte d identité Extra Amovible'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L86DVZ7/?tag=tolees0d-21'
 descuento: '49.35'
 average: '25.49'

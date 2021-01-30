@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'PAUL & JOE Jpaullove T-Shirt  Blanc  Blanc/White 01   40  Taille Fabricant: 3  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KL1BQNK/?tag=tolees0d-21'
 descuento: '64.22'
 average: '42.94'

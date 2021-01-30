@@ -16,6 +16,7 @@ comparePrice: 17.15 EUR
 prodname: 'Playmobil - Bouffe-Tout avec Stand de Hot Dogs - 9222'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LY44LRZ/?tag=tolees0d-21'
 descuento: '24.26'
 average: '12.99'

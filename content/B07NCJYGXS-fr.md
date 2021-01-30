@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'HÖGL Gently  Escarpins Femme  Noir  Schwarz 0100   41 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NCJYGXS/?tag=tolees0d-21'
 descuento: '29.61'
 average: '80.95'

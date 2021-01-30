@@ -16,6 +16,7 @@ comparePrice: 759.0 EUR
 prodname: 'Nikon Objectif Zoom AF-S DX 18-300 mm f/3.5-6.3G  ED VR'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00JKUPRF4/?tag=tolees0d-21'
 descuento: '24.90'
 average: '569.99'

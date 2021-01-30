@@ -16,6 +16,7 @@ comparePrice: 79.95 EUR
 prodname: 'Dockers by Gerli 43lu001  Bottes Rangers Homme  Noir  Schwarz 100   44 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Q8V6F6F/?tag=tolees0d-21'
 descuento: '56.60'
 average: '34.7'

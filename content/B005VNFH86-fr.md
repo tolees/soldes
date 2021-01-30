@@ -16,6 +16,7 @@ comparePrice: 112.0 EUR
 prodname: 'THULE 960100 Barres de toit WingBar 960 en aluminium - Argenté Longueur 108 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005VNFH86/?tag=tolees0d-21'
 descuento: '37.12'
 average: '70.43'

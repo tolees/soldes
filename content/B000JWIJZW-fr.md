@@ -16,6 +16,7 @@ comparePrice: 12.38 EUR
 prodname: 'Simm Jouets 50410 – Standard GS Moteur pour remplacer'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000JWIJZW/?tag=tolees0d-21'
 descuento: '37.96'
 average: '7.68'

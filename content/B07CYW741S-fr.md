@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Razer Huntsman-Clavier Gaming Mécanique avec Touche Opto-Mécanique Razer Nouvelle Touche Opto-Mécanique Barre d Assise de Touche  Mémoire Hybride Intégrée  RGB Chroma Eclairage & AZERTY-Layout '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CYW741S/?tag=tolees0d-21'
 descuento: '24.86'
 average: '120.22'

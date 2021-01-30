@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Axcone Homme Femme Air Running Baskets Chaussures Outdoor Running Gym Fitness Sport Sneakers Style Multicolore Respirante - 34EU-46EU  Rose1  38 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RSSCY4V/?tag=tolees0d-21'
 descuento: '21.74'
 average: '35.99'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Casque de Sommeil -Anti Bruit Sommeil Bandeau Bluetooth avec Ultra-Fins HD Stéréo Haut-parleurs  étanche Casque Anti Bruit pour Dormir Cadeau Parfait pour Sport Dormeurs Latéraux Voyage et Relaxation'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B085L1XG7V/?tag=tolees0d-21'
 descuento: '20.81'
 average: '19.79'

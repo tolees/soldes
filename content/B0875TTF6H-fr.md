@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Manette PC PS3 Filaire  Manette PC  Manette PS3 avec Double Vibration et Turbo  Gamepad Connecté par Fil pour PC  PS3  Android TV Box et Nitendo Switch  Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0875TTF6H/?tag=tolees0d-21'
 descuento: '63.76'
 average: '28.99'

@@ -16,6 +16,7 @@ comparePrice: 92.75 EUR
 prodname: 'IQE-Storage TB-HS5 Coffret de transport  2 fermetures de type levier-crochet  protection des bords  LxlxH : 650 mm x 550 mm x 410 mm  noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075V8WNGX/?tag=tolees0d-21'
 descuento: '20.00'
 average: '74.2'

@@ -16,6 +16,7 @@ comparePrice: 15.99 EUR
 prodname: 'LK 2 pièces Verre Trempé pour Samsung Galaxy A51 Protecteur d écran + [2 Pack] Caméra Arrière Protecteur  Haute Transparence  [Anti-Rayures] Souple Silicone Gel TPU Bumper Housse Case Cover'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HD8WZHV/?tag=tolees0d-21'
 descuento: '31.27'
 average: '10.99'

@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Vertbaudet Parure Caradou Facile à Border sans Couette PIN PON PIN Vert bleuté imprimé 90x140'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FYPN8ZZ/?tag=tolees0d-21'
 descuento: '60.01'
 average: '25.19'

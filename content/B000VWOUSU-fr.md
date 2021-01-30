@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Queen - Rock Montreal & Live Aid [Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21'
 descuento: '44.47'
 average: '9.99'

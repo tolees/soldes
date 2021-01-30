@@ -16,6 +16,7 @@ comparePrice: 39.9 EUR
 prodname: 'Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit Binaural Couplage Automatique écouteurs Sportifs IPX5 Écouteurs stéréo étanches Intégré HD Mic Casques pour iPhone Android/Airpods'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089ZSNK9Q/?tag=tolees0d-21'
 descuento: '50.13'
 average: '19.9'

@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'BOSS Soody Sweat-Shirt  Noir  Black 001   XX-Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D8LM11G/?tag=tolees0d-21'
 descuento: '26.43'
 average: '116.98'

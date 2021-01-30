@@ -16,6 +16,7 @@ comparePrice: 29.9 EUR
 prodname: 'iPosible Écouteurs Bluetooth 5.0 Écouteur sans Fil 3500mAh TWS IPX7 Oreillette Bluetooth Léger Stéréo Boîte de Charge 120H Réduction du Bruit CVC 8.0 Casque Sport pour Tous Smartphones tablettes etc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H8DGMVJ/?tag=tolees0d-21'
 descuento: '15.02'
 average: '28.04206896551724'

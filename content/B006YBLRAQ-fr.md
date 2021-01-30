@@ -16,6 +16,7 @@ comparePrice: 37.7 EUR
 prodname: 'sloggi Basic+ Maxi 3P  Culotte Gainante Femme  Paquet de 3  Noir  BLACK 0004   48 FR'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B006YBLRAQ/?tag=tolees0d-21'
 descuento: '66.71'
 average: '17.179999999999996'

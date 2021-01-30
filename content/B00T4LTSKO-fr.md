@@ -16,6 +16,7 @@ comparePrice: 122.17 EUR
 prodname: 'HAUPTSTADTKOFFER Valises  75 cm  126 L  Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00T4LTSKO/?tag=tolees0d-21'
 descuento: '30.51'
 average: '84.9'

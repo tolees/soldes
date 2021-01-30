@@ -16,6 +16,7 @@ comparePrice: 549.99 EUR
 prodname: 'Philips BRI956/00 Lumea Prestige Epilateur à Lumière Pulsée avec 4 Embouts pour Corps/Visage/Maillot/Aisselles'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MZ8DOO1/?tag=tolees0d-21'
 descuento: '23.64'
 average: '419.99'

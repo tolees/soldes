@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Strong SRT 2023 Box Android TV 7.1 UHD 4K Google - Lecteur multimedia Smart IPTV  Wifi  LAN  Bluetooth  IPTV  Quad Core  H265  Dolby Digital Plus  - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HMZKZ9K/?tag=tolees0d-21'
 descuento: '21.33'
 average: '54.99'

@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Joseph Joseph 30091 Totem Pop 60L Unité de tri sélectif des déchets-Pierre  60 L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YGKP63D/?tag=tolees0d-21'
 descuento: '41.18'
 average: '99.99'

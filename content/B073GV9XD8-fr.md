@@ -16,6 +16,7 @@ comparePrice: 71.88 EUR
 prodname: 'SONGMICS Lot de 2 Tabourets de Bar Stool avec Dossier Hauteur réglable 62 5-82 5 cm Gris LJB64GUK'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B073GV9XD8/?tag=tolees0d-21'
 descuento: '22.93'
 average: '55.4'

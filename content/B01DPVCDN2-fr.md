@@ -16,6 +16,7 @@ comparePrice: 399.9 EUR
 prodname: 'Kyocera KTN-180-HIP  KIZUNA Couteau du chef Céramique Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01DPVCDN2/?tag=tolees0d-21'
 descuento: '35.69'
 average: '257.16'

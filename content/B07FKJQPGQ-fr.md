@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'The North Face Canyonlands Sweat à Capuche Homme  Gris  TNF Dark Grey Heather   Medium'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FKJQPGQ/?tag=tolees0d-21'
 descuento: '59.94'
 average: '44.07'

@@ -16,6 +16,7 @@ comparePrice: 173.9 EUR
 prodname: 'Thermaltake Water 3.0 360 Argb Sync Aio Liquid Cooling Kit'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MLXKN25/?tag=tolees0d-21'
 descuento: '27.00'
 average: '126.95'

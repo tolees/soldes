@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'BIC Cristal Boîte en forme de stylo à bille avec 20 stylos Assortiment de couleurs'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002WIGUGG/?tag=tolees0d-21'
 descuento: '44.67'
 average: '9.96'

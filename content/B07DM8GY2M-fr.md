@@ -16,6 +16,7 @@ comparePrice: 76.49 EUR
 prodname: 'Olivia s Little World- Maison de poupées  TD-12641C  Rose'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DM8GY2M/?tag=tolees0d-21'
 descuento: '15.78'
 average: '53.03'

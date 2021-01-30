@@ -16,6 +16,7 @@ comparePrice: 50.16 EUR
 prodname: '10 FILMS CULTES DVD'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D4ZLGLX/?tag=tolees0d-21'
 descuento: '50.18'
 average: '24.99'

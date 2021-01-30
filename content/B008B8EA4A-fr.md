@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Les 101 dalmatiens [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008B8EA4A/?tag=tolees0d-21'
 descuento: '43.02'
 average: '11.39'

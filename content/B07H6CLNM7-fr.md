@@ -16,6 +16,7 @@ comparePrice: 85.0 EUR
 prodname: 'Maison Lejaby Tropical UNI Haut de maillot de bain Femme Noir 04   Taille Fabricant:85B '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H6CLNM7/?tag=tolees0d-21'
 descuento: '60.00'
 average: '34.0'

@@ -16,6 +16,7 @@ comparePrice: 10.02 EUR
 prodname: 'Le pigeon'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000P6RBGA/?tag=tolees0d-21'
 descuento: '30.24'
 average: '6.99'

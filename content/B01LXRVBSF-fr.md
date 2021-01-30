@@ -16,6 +16,7 @@ comparePrice: 335.39 EUR
 prodname: 'Kavalan Yilan County Amontillado Single Malt Whisky 700 ml'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LXRVBSF/?tag=tolees0d-21'
 descuento: '15.97'
 average: '281.83'

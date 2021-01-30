@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Little Live Pets Kissing Rollie  LP000  Multicolore'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VZJ2KXY/?tag=tolees0d-21'
 descuento: '61.82'
 average: '26.72'

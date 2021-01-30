@@ -16,6 +16,7 @@ comparePrice: 52.99 EUR
 prodname: 'HyperX Impact DDR4 HX426S15IB2/8 Mémoire RAM 2666MHz CL15 SODIMM 8Go'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N7K4CEU/?tag=tolees0d-21'
 descuento: '35.52'
 average: '35.75333333333333'

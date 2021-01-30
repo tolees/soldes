@@ -16,6 +16,7 @@ comparePrice: 139.95 EUR
 prodname: 'Icebreaker Victory LS Zip Veste Homme Jet HTHR FR : M  Taille Fabricant : M '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07W1J5CN3/?tag=tolees0d-21'
 descuento: '53.78'
 average: '64.68'

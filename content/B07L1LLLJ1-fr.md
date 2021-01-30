@@ -16,6 +16,7 @@ comparePrice: 400.0 EUR
 prodname: 'Spyder 193028 - Veste de ski - Femme - Rose  Berry  - Taille:8 / FR:40'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L1LLLJ1/?tag=tolees0d-21'
 descuento: '76.14'
 average: '95.42'

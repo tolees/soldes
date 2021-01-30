@@ -16,6 +16,7 @@ comparePrice: 91.0 EUR
 prodname: 'Nike PSG M NK BRT STAD JSY SS 4R T-Shirt Homme  Black/ White   Full Sponsor   FR  Taille Fabricant : XS '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081P4L1HT/?tag=tolees0d-21'
 descuento: '48.67'
 average: '46.71'

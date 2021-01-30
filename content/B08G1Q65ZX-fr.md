@@ -16,6 +16,7 @@ comparePrice: 45.0 EUR
 prodname: 'OUPOD Paire de manettes pour Nintendo Switch  remplacement Joy-Con   avec le support de poignée pouvant transformer en manette Pro  avec 6-Axis/Vibration fonction.  Couleur: Noir et Or '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08G1Q65ZX/?tag=tolees0d-21'
 descuento: '20.11'
 average: '35.95'

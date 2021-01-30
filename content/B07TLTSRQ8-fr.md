@@ -16,6 +16,7 @@ comparePrice: 69.95 EUR
 prodname: 'Clarks Step Allena Go  Sneakers Basses Femme  Beige  Mauve Mauve   39.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TLTSRQ8/?tag=tolees0d-21'
 descuento: '50.04'
 average: '34.95'

@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'BaByliss Lisseur I-Pro 230 Steam avec technologie Brillance pour un lissage ultime'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00X9SQC2U/?tag=tolees0d-21'
 descuento: '50.01'
 average: '39.99'

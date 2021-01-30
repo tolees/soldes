@@ -16,6 +16,7 @@ comparePrice: 47.0 EUR
 prodname: 'Calvin Klein 3p Low Rise Trunk  Caleçon  Bleu  Black/Blue Shadow/Cobalt Water DTM WB 4ku   M  Lot de 3  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D7VKPLP/?tag=tolees0d-21'
 descuento: '24.53'
 average: '35.592000000000006'

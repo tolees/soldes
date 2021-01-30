@@ -16,6 +16,7 @@ comparePrice: 10.0 EUR
 prodname: 'Les PEPITES'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MYZGEVW/?tag=tolees0d-21'
 descuento: '40.00'
 average: '6.0'

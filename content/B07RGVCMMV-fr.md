@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'ITISME Homme Automne Et Hiver Mode Casual Sport De Jogging De Sport Occasionnels LâChe De SurvêTement Pantalon  L  ZY-Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RGVCMMV/?tag=tolees0d-21'
 descuento: '35.74'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'adidas NMD r1 Stlt PK  Chaussures de Fitness Homme  Gris  Gridos/Griuno/Negbas 000   42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07744QTNW/?tag=tolees0d-21'
 descuento: '16.94'
 average: '149.46'

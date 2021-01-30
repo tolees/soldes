@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Hackett Solid Volley Short  Bleu  Atlantic 5PO   Small Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N3YWFJ8/?tag=tolees0d-21'
 descuento: '16.75'
 average: '66.6'

@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'OSRAM - Applique extérieure LED ENDURA STYLE UpDoWn Flex - Détecteur de Mouvement - 13W Equivalent 54W - Têtes orientables 340° - Gris Anthracite - Garantie 5 ans'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FDG2TK2/?tag=tolees0d-21'
 descuento: '53.99'
 average: '45.99'

@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Xiaomi MI Pump Mini Pompe à air Portable Adulte Unisexe  Noir  5'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Xiaomi'
 buyurl: 'https://www.amazon.fr/dp/B07XZCLGVQ/?tag=tolees0d-21'
 descuento: '24.02'
 average: '40.6737288135594'
@@ -28,9 +29,9 @@ C'est en vente [Xiaomi MI Pump Mini Pompe à air Portable Adulte Unisexe  Noir  
 ℹ️:
 
 - Charge complète de 41 ballons / 8 pneus de vélo
-- multi-tâches
-- écran digital
 - légére et portable
+- écran digital
+- multi-tâches
 - Charge via USB
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XZCLGVQ/?tag=tolees0d-21)

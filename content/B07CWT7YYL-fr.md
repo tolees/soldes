@@ -16,6 +16,7 @@ comparePrice: 28.0 EUR
 prodname: 'Light Box Rose avec 300 Lettres et Emojis  2 Marqueurs - BONNYCO | Ç Inclus | Boite Lumineuse Message Ideal Decoration Maison Chambre Bureau | Tableau Lumineux Idee Cadeau Ado Fille et Femme Original'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CWT7YYL/?tag=tolees0d-21'
 descuento: '21.46'
 average: '21.764358974358966'

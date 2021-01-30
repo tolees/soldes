@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Aidotop Maillots de Bain Femmes 2 Pieces à Volants Vintage Taille Haute Plage Floral Slim Bikini Set  21Black Flowers  XL '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BHT7P5D/?tag=tolees0d-21'
 descuento: '42.51'
 average: '22.99'

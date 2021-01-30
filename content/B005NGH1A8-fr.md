@@ -16,6 +16,7 @@ comparePrice: 700.0 EUR
 prodname: 'Sony Objectif SAL-1650 Monture A APS-C 16-50mm F2.8'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005NGH1A8/?tag=tolees0d-21'
 descuento: '18.45'
 average: '570.83'

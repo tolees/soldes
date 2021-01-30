@@ -16,6 +16,7 @@ comparePrice: 499.99 EUR
 prodname: 'ASUS TUF Gaming VG32VQ - Ecran PC Gamer eSport 31 5" WQHD - Dalle VA incurvée 1800R - 16:9 - 144Hz - 1ms - 2560x1440 - 400cd/m² - Display Port & HDMI - Haut-parleurs - AMD FreeSync - ELMB - HDR 10'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TTJR48G/?tag=tolees0d-21'
 descuento: '21.61'
 average: '391.95'

@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Nappe carrée"Israël Story" Blanc/Bleu – Made in France - 100% coton – Lavable en machine – Dimension 160 x 160 cm - cadeau idéal – Art Judaica soldes sales démarque'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NWP8YR4/?tag=tolees0d-21'
 descuento: '49.28'
 average: '35.0'

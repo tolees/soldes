@@ -16,6 +16,7 @@ comparePrice: 600.0 EUR
 prodname: 'Sony FDR-X3000R + AKA-FGP1 Camera d action ultra-stabilisée/4K | Travel Kit | Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MTA3FFT/?tag=tolees0d-21'
 descuento: '20.36'
 average: '477.85'

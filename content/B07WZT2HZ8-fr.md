@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Casque Gaming sans Fil Casque Gamer pour PS4 Switch et PC Casque Gaming avec Micro pour 7.1 Surround et Fortes Basses'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WZT2HZ8/?tag=tolees0d-21'
 descuento: '21.36'
 average: '69.99'

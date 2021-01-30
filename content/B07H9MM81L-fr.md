@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Projecteur multimédia LCD 1080p Full HD Nebula Prizm by Anker - Projecteur 200 ANSI lms avec deux haut-parleurs 5W  compatible HDMI et USB pour films  vidéos  images et musique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H9MM81L/?tag=tolees0d-21'
 descuento: '33.34'
 average: '99.99'

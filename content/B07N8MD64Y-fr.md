@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'BOSS Raio 1 Pull  Bleu  Bright Blue   Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N8MD64Y/?tag=tolees0d-21'
 descuento: '21.98'
 average: '92.84'

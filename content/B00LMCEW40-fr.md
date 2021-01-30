@@ -16,6 +16,7 @@ comparePrice: 105.43 EUR
 prodname: 'Mano Sets de bagages MPTSET3 Noir 56.0 liters'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00LMCEW40/?tag=tolees0d-21'
 descuento: '60.00'
 average: '42.17'

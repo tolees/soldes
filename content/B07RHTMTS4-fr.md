@@ -16,6 +16,7 @@ comparePrice: 34.9 EUR
 prodname: 'Tommy Jeans TJM Logo Pocket Tee T-Shirt  Bleu  Blue Cbk   Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RHTMTS4/?tag=tolees0d-21'
 descuento: '31.72'
 average: '23.83'

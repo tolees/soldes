@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Lacoste BH1966 Veste  Noir  50 Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083FGLJTW/?tag=tolees0d-21'
 descuento: '34.01'
 average: '230.98'

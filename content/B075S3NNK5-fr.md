@@ -16,6 +16,7 @@ comparePrice: 209.95 EUR
 prodname: 'GORE Wear C5 Homme Veste de cyclisme GORE-TEX  S  Noir/Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075S3NNK5/?tag=tolees0d-21'
 descuento: '22.39'
 average: '162.94'

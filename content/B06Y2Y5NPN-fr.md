@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'New Balance homme 574v2 Core Baskets  Bleu  Navy   45 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06Y2Y5NPN/?tag=tolees0d-21'
 descuento: '48.00'
 average: '52.0'

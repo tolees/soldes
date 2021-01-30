@@ -16,6 +16,7 @@ comparePrice: 24.9 EUR
 prodname: 'Cultivea Mini – Kit Prêt à Pousser Bonsaï – Graines Françaises 100% Écologiques - Jardinez et décorez - Idée Cadeau  Red Mapple  Chinese Cercis  Juniperus  Liquidambar  Norway Spruce '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BTZK7CT/?tag=tolees0d-21'
 descuento: '20.08'
 average: '19.9'

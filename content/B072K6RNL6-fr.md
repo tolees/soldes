@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Disque Dur SSD HP S700-500Go SATA 2" 1/2'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B072K6RNL6/?tag=tolees0d-21'
 descuento: '19.75'
 average: '64.19'

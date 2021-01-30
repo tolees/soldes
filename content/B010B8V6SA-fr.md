@@ -16,6 +16,7 @@ comparePrice: 600.07 EUR
 prodname: 'Panasonic Lumix DMCG7/DMCG70 1442/3.55.6 Lumix G Vario OIS ASPH Appareils Photo Numériques 16.84 Mpix Noir  Version française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B010B8V6SA/?tag=tolees0d-21'
 descuento: '28.34'
 average: '429.99'

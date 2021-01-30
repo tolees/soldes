@@ -16,6 +16,7 @@ comparePrice: 42.2 EUR
 prodname: 'Legrand 412780 Interrupteur horaire analogique modulaire programmable manuel journalier  cadran vertical sans réserve de marche'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21'
 descuento: '23.82'
 average: '32.15'

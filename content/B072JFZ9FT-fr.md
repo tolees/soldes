@@ -16,6 +16,7 @@ comparePrice: 12.9 EUR
 prodname: 'Pradel Excellence 7489SN Penderie 6 Ustensils  Nylon  Noir  38 7 x 13 5 x 13 5 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B072JFZ9FT/?tag=tolees0d-21'
 descuento: '21.78'
 average: '10.09'

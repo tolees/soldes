@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'Sony SRS-XB01 Enceinte portable ultra compacte résistante à l eau - Noire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GTBRSCY/?tag=tolees0d-21'
 descuento: '40.01'
 average: '21.7175'

@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Philips SH90/70 Têtes de Rasoir pour Series 9000'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FSMWHM5/?tag=tolees0d-21'
 descuento: '23.00'
 average: '46.19'

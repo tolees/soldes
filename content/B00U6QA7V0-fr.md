@@ -16,6 +16,7 @@ comparePrice: 52.98 EUR
 prodname: 'Calor EP2850C0 Épilateur Flower Love'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00U6QA7V0/?tag=tolees0d-21'
 descuento: '18.93'
 average: '42.95'

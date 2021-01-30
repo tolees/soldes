@@ -16,6 +16,7 @@ comparePrice: 38.99 EUR
 prodname: 'Anker Enceinte Bluetooth  SoundCore 2 Haut Parleur Portable sans fil avec basses puissantes  autonomie de 24 heures  porté Bluetooth de 20 m  étanche waterproof IPX7 et microphone intégré - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MTB55WH/?tag=tolees0d-21'
 descuento: '20.01'
 average: '31.19'

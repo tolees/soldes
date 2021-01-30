@@ -16,6 +16,7 @@ comparePrice: 1200.0 EUR
 prodname: 'Sony Objectif G Macro SEL-90M28G Monture E Plein Format 90 mm F2.8'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00ULLSWSU/?tag=tolees0d-21'
 descuento: '24.25'
 average: '909.0'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Wrangler Regular Jacket  Homme   Bleu  Midstone 091   Small'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078H9VVX5/?tag=tolees0d-21'
 descuento: '36.90'
 average: '63.1'

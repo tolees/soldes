@@ -16,6 +16,7 @@ comparePrice: 29.92 EUR
 prodname: 'Blocs de Construction Magnétiques – Cadeaux de pour Les Enfants – Blocs de constructions aimantés - Jeux pour garçons et Filles - Créatif et éducatif pour Enfants de 2  3  4  5  6  7 Ans'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QCPP9ZN/?tag=tolees0d-21'
 descuento: '29.85'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 265.0 EUR
 prodname: 'Yamaha - FX310AII - Guitare Folk'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0166MUWTY/?tag=tolees0d-21'
 descuento: '29.48'
 average: '186.87'

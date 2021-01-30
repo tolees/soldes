@@ -16,6 +16,7 @@ comparePrice: 5.8 EUR
 prodname: 'Neutrogena Visibly Clear Gel Nettoyant Pamplemousse Rose – Soin visage nettoyant contre imperfections – 1 x flacon pompe 200 ml'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0719FQKDY/?tag=tolees0d-21'
 descuento: '54.83'
 average: '2.62'

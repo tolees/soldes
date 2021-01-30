@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Sac à dos pour cyclistes et utilisateurs de trottinette électrique  overboard  gyroroue  gyropode  skateboard  roller  VAE – Volume de 25 litres  compartiment pour ordinateur portable 15 pouces et tablette. Poche configurable pour casque pliable Plixi – Tissu déperlant et rabat anti-pluie.'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B019FVZLPI/?tag=tolees0d-21'
 descuento: '37.09'
 average: '55.99'

@@ -16,6 +16,7 @@ comparePrice: 43.99 EUR
 prodname: 'Russell Hobbs Toaster Grille-Pain  Cuisson Rapide et Uniforme - 23311-56 Victory'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01NC0V7D6/?tag=tolees0d-21'
 descuento: '54.76'
 average: '19.9'

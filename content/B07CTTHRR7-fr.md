@@ -16,6 +16,7 @@ comparePrice: 89.0 EUR
 prodname: 'Baby on board 103210 018 Sac à Langer Week End Team Smoke nombreux accessoires Sac jumeaux aussi Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CTTHRR7/?tag=tolees0d-21'
 descuento: '28.09'
 average: '64.0'

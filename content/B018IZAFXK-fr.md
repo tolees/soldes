@@ -16,6 +16,7 @@ comparePrice: 34.2 EUR
 prodname: 'Ferplast Relax C 89/10 Coussin pour Chien en Coton Motif Noms de Ville 85 x 55 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B018IZAFXK/?tag=tolees0d-21'
 descuento: '62.02'
 average: '12.99'

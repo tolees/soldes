@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'SweetLisS - Lisseur Libellule - Fer à lisser et à boucler avec Peigne intégré'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015HK3TG4/?tag=tolees0d-21'
 descuento: '43.17'
 average: '79.0'

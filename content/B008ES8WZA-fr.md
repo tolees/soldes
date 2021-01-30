@@ -16,6 +16,7 @@ comparePrice: 325.0 EUR
 prodname: 'Schott NYC Lc5100 Blouson  Noir  Large  Taille fabricant: L  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008ES8WZA/?tag=tolees0d-21'
 descuento: '22.00'
 average: '253.51'

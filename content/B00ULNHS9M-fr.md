@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Samsonite S Cure - Spinner S Bagage à Main  55 cm  34 L  Argent  Silver '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00ULNHS9M/?tag=tolees0d-21'
 descuento: '55.59'
 average: '79.5'

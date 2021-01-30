@@ -16,6 +16,7 @@ comparePrice: 179.95 EUR
 prodname: 'cbx Poussette Yoki  Ultra-Compacte  Habillage pluie inclus  Dès la Naissance jusqu à 15 kg  Smoky Anthracite'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079LNW2RF/?tag=tolees0d-21'
 descuento: '55.13'
 average: '80.74'

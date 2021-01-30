@@ -16,6 +16,7 @@ comparePrice: 72.41 EUR
 prodname: 'Playmobil - Tour d Attaque Mobile des Nains - 9340'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0766DJPQV/?tag=tolees0d-21'
 descuento: '22.68'
 average: '55.12636363636363'

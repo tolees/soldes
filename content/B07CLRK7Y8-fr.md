@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'OMRON VIVA : Pèse-personne intelligent Bluetooth  avec moniteur de composition : graisse corporelle  graisse viscérale  musculature squelettique  métabolisme au repos et IMC'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CLRK7Y8/?tag=tolees0d-21'
 descuento: '45.74'
 average: '85.99'

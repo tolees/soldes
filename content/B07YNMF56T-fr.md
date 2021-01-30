@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'Roccat Vulcan 122 - Clavier de Jeu Blanc  GAMING mécanique RGB  Rétro-Éclarage LED Aimo Multicolore touche par touche  Switchs Titan  Conception Durable  Plaque Supérieure en aluminium '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21'
 descuento: '25.03'
 average: '132.285'

@@ -16,6 +16,7 @@ comparePrice: 129.9 EUR
 prodname: 'Kipling College Up Cartable  42 cm  32 liters  Turquoise  Bright Aqua C '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BHST5C3/?tag=tolees0d-21'
 descuento: '23.23'
 average: '99.72'

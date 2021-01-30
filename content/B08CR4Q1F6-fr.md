@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Elyco Étui pour Nintendo Switch  Protection Housse Switch Coque Housse Accessoires with Joystick Thumb Grip Cap Joycon Compatible avec Switch/Switch Lite'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CR4Q1F6/?tag=tolees0d-21'
 descuento: '34.63'
 average: '16.99'

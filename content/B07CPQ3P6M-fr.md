@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'HappyPicnic Panier Pique-Nique en Osier pour 4  4 kit  Panier en Osier de Pique-Nique Service Cadeau de vin en Bambou avec Snack Table pour Le Camping et extérieur Fête'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CPQ3P6M/?tag=tolees0d-21'
 descuento: '21.18'
 average: '135.10111111111112'

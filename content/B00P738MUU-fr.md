@@ -16,6 +16,7 @@ comparePrice: 369.9 EUR
 prodname: 'Samsung SSD 850 EVO   1 To  - SSD Interne SATA III 2.5" - MZ-75E1T0B/EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00P738MUU/?tag=tolees0d-21'
 descuento: '19.76'
 average: '296.8'

@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: '2 x Volant Poignées pour Switch  Kit de Poignées à L usure pour Manette de Switch Joy-con Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FY39QXD/?tag=tolees0d-21'
 descuento: '26.33'
 average: '13.99'

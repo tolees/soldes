@@ -16,6 +16,7 @@ comparePrice: 139.99 EUR
 prodname: 'Moulinex OW220830 Machine à Pain 17 Programmes Plastique Noir/Pourpre 31 x 29 x 29 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01CHVXOIO/?tag=tolees0d-21'
 descuento: '35.00'
 average: '90.99'

@@ -16,6 +16,7 @@ comparePrice: 293.0 EUR
 prodname: 'Chie Mihara Janis  Escarpins Bride Cheville Femmes  Rose  Goya Nude Ante Peach Goya Nude Ante Peach   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YGJYBRT/?tag=tolees0d-21'
 descuento: '50.85'
 average: '144.02'

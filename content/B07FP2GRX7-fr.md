@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'LEGO® DUPLO® Mes 1ers pas Mon premier puzzle amusant Jeu 18 Mois et Plus  15 Pièces 10885'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FP2GRX7/?tag=tolees0d-21'
 descuento: '20.01'
 average: '15.99'

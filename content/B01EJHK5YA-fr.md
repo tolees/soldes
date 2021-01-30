@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Panasonic DMP-BDT167 Lecteur DVD Port USB'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01EJHK5YA/?tag=tolees0d-21'
 descuento: '29.30'
 average: '69.99'

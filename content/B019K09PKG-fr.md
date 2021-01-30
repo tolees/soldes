@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Pinypon - 700012739 - la Garderie des Animaux'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B019K09PKG/?tag=tolees0d-21'
 descuento: '52.06'
 average: '12.295'

@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Sony WI-C200 Ecouteurs intra-auriculaires sans fil type tour de cou - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QYWD718/?tag=tolees0d-21'
 descuento: '45.25'
 average: '21.9'

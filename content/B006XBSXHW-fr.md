@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'DeWALT DCD785N-XJ Perceuse sans fil 18 V'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B006XBSXHW/?tag=tolees0d-21'
 descuento: '34.42'
 average: '84.6'

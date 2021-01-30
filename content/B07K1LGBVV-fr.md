@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'adidas Continental 80  Chaussures de Fitness Homme  Blanc  Ftwbla/Escarl/Maruni 000   43 1/3 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'adidas'
 buyurl: 'https://www.amazon.fr/dp/B07K1LGBVV/?tag=tolees0d-21'
 descuento: '36.41'
 average: '63.59'

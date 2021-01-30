@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'GRDE Montre Connectée Smartwatch  Bluetooth Montre Sport avec Moniteur de fréquence Cardiaque Compteur de Calories 9 Modes Sportifs IP68 Appelez SMS Push pour Android iOS'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FMCK2D7/?tag=tolees0d-21'
 descuento: '50.01'
 average: '29.99'

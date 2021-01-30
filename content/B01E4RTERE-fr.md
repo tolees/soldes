@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Dsquared2 D Squared Brillengestelle DQ5203 005-54-15-140 Lunettes de Soleil  Marron  Braun   54.0 Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01E4RTERE/?tag=tolees0d-21'
 descuento: '47.53'
 average: '78.71'

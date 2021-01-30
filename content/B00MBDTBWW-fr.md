@@ -16,6 +16,7 @@ comparePrice: 9.5 EUR
 prodname: 'L Oréal Men Expert - Bille Anti-Cernes & Anti-Poches pour Homme - Hydra Energetic - 10 ml'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00MBDTBWW/?tag=tolees0d-21'
 descuento: '57.58'
 average: '4.03'

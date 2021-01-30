@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Cerruti 1881 Hommes Analogique Quartz Montre avec Bracelet en Cramique CRA077Z251H'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00WJ0PTRI/?tag=tolees0d-21'
 descuento: '58.72'
 average: '205.97'

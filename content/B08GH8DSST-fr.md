@@ -16,6 +16,7 @@ comparePrice: 18.5 EUR
 prodname: 'ARRYNN Coque pour Xiaomi Redmi Note 9 + Film Protection écran en Verre trempé  Housse Ultra Premium TPU Silicone Liquide Flexible pour Xiaomi Redmi Note 9-Vert'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08GH8DSST/?tag=tolees0d-21'
 descuento: '62.70'
 average: '6.9'

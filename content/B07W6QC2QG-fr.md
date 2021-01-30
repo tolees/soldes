@@ -16,6 +16,7 @@ comparePrice: 7.87 EUR
 prodname: 'LEGO Figurines Série DC Super Héros avec 9 Super-Héros ou Méchants  Set de collection  22 pièces  71026'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07W6QC2QG/?tag=tolees0d-21'
 descuento: '21.22'
 average: '6.2'

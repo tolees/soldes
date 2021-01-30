@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'SCHEPPACH PL285 Scie Plongeante légère avec Guide Laser de Précision et 3 Lames de Scie  600W de Puissance  Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015ZMZA5M/?tag=tolees0d-21'
 descuento: '29.54'
 average: '104.99'

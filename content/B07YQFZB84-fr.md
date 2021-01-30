@@ -16,6 +16,7 @@ comparePrice: 3.45 EUR
 prodname: 'Hansaplast Antiseptiques Alcool 70% Volume'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YQFZB84/?tag=tolees0d-21'
 descuento: '46.38'
 average: '1.85'

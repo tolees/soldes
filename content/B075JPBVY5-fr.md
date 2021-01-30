@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'dreamlock Char R/C 8011 TELECOMMANDE à Construire 453 pcs'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075JPBVY5/?tag=tolees0d-21'
 descuento: '33.38'
 average: '59.95'

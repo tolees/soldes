@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Jouets 3-8 Ans Garçons Joy-Fun Appareil Photo Enfants Appareil Photo Numerique Enfant Vidéo Record Électronique Jouet Bleu Cadeaux Anniversaire Noël'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S9Y3VDN/?tag=tolees0d-21'
 descuento: '22.23'
 average: '27.99'

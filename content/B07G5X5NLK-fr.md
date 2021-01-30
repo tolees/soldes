@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Holy Stone HS160 RC Drone Pliable avec Caméra HD 720P WiFi FPV Vidéo en Temps réel Helicoptère Télécommande Quadcopter  Avion Mini radiocommandé  2*Batteries  Jouet Cadeau pour Débutant et Enfant'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07G5X5NLK/?tag=tolees0d-21'
 descuento: '40.50'
 average: '65.78999999999999'

@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Tommy Hilfiger Ebru Shirt Ls W3 Chemise   Soft We STP Yc/Fuchsia Red 607   38  Taille Fabricant: 6  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JQYNTZC/?tag=tolees0d-21'
 descuento: '22.19'
 average: '69.95'

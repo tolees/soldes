@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'VHOME Queue De Sirene Couverture Idée Cadeau - Femme Filles Couverture Sirene pour Canapé De Salon Et Idées Cadeaux Personnalisées pour Noël d anniversaire La Saint Valentin  S-Gris  Adulte '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01L6ZIDF6/?tag=tolees0d-21'
 descuento: '31.44'
 average: '23.99'

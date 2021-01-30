@@ -16,6 +16,7 @@ comparePrice: 9.97 EUR
 prodname: 'Miss Peregrine et les Enfants Particuliers [DVD] [DVD]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LTHOEDG/?tag=tolees0d-21'
 descuento: '54.96'
 average: '4.49'

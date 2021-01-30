@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Skechers Summits  Baskets Femme  Gris  Gray Mesh/Hot Pink & Lime Trim Gyhp   39 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TZNH464/?tag=tolees0d-21'
 descuento: '39.95'
 average: '33.0'

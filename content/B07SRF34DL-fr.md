@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Final Fantasy VII: Remake - Edition Deluxe'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SRF34DL/?tag=tolees0d-21'
 descuento: '19.89'
 average: '72.09'

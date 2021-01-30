@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Tommy Logo Hoody Sweat-Shirt  Bleu  Sky Captain 403   XX-Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JRC9BVW/?tag=tolees0d-21'
 descuento: '20.00'
 average: '79.92'

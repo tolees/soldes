@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'Timberland Killington  Sneakers Montantes Homme  Jaune Wheat Nubuck  43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Timberland'
 buyurl: 'https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21'
 descuento: '36.23'
 average: '72.256'
@@ -27,8 +28,8 @@ Vous avez [Timberland Killington  Sneakers Montantes Homme  Jaune Wheat Nubuck  
 
 ℹ️:
 
-- Matériau de la semelle : caoutchouc.
 - Doublure : tissu.
 - Fermeture : lacets.
+- Matériau de la semelle : caoutchouc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21)

@@ -16,6 +16,7 @@ comparePrice: 170.0 EUR
 prodname: 'BOSS Glaze Lowp mewt  Sneakers Basses Homme  Noir  Black 001   42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N7TZ4FF/?tag=tolees0d-21'
 descuento: '16.81'
 average: '141.43'

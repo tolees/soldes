@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'PlayStation 2 Console de Jeux Noir Portefeuille'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21'
 descuento: '28.01'
 average: '17.99'

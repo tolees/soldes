@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Manette Switch  Manette sans Fil Bluetooth pour Nintendo Switch Pro/Switch Lite  Manette Filaire pour PC avec Fonction Double Vibration et Turbo  Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0896YDYBH/?tag=tolees0d-21'
 descuento: '62.51'
 average: '29.99'

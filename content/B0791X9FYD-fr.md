@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Core Tommy Regular Polo  Blanc  Bright White 100   Medium Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0791X9FYD/?tag=tolees0d-21'
 descuento: '32.30'
 average: '47.32'

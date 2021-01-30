@@ -16,6 +16,7 @@ comparePrice: 479.0 EUR
 prodname: 'Napapijri Skidoo WOM EF 2 Jacket  Rose  Pink Blush P79   XL Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MGFRGQM/?tag=tolees0d-21'
 descuento: '63.87'
 average: '173.06'

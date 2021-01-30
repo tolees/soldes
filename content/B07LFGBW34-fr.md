@@ -16,6 +16,7 @@ comparePrice: 35.0 EUR
 prodname: 'Levi s Slim 2pk Crewneck 1 T-Shirt  Multicolore  2 Pack White + Blue Y/D/Blue + White Y/D Staple Stripe 0005   Large  Lot de 2  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07LFGBW34/?tag=tolees0d-21'
 descuento: '48.57'
 average: '18.0'

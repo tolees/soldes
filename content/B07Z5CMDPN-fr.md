@@ -16,6 +16,7 @@ comparePrice: 29.95 EUR
 prodname: 'G-STAR RAW Boxed Raw Graphic Straight T-Shirt  Indigo 336-857  Large Hommes'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Z5CMDPN/?tag=tolees0d-21'
 descuento: '50.02'
 average: '14.97'

@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Gris  C18976 GRAPHIC H215 MIDTONE HTR GREY GRAPHIC H215-HM 36.2   Large'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VLN9CWC/?tag=tolees0d-21'
 descuento: '20.20'
 average: '19.95'

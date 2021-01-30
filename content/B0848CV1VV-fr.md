@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Captain Tsubasa : Rise of New Champions Nintendo Switch'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21'
 descuento: '25.00'
 average: '44.99'

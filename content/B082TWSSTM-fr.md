@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Casque Bluetooth sans Fil 60 Heurs de Lecture Mpow 059 Pro Bluetooth 5.0 Casque Audio sans Fil avec Mic Bandeau Réglable Pliable Casque Circum-aural pour Téléphone /TV/iPad/ Ordinateur Portable'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082TWSSTM/?tag=tolees0d-21'
 descuento: '50.01'
 average: '29.99'

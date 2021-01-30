@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'MEGIR Montres Hommes étanche Chronographe Sport Analogique Quartz Montres Homme Date Mode Les Loisirs Montre en Cuir Bleu De Haute Qualité'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MHZPYLP/?tag=tolees0d-21'
 descuento: '16.67'
 average: '29.99'

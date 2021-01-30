@@ -16,6 +16,7 @@ comparePrice: 78.26 EUR
 prodname: 'Disque Dur Externe 1to  USB3.0 Disque Dur Externe pour PC  Mac  MacBook  Xbox One  Desktop  Laptop 1To Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CKM18P7/?tag=tolees0d-21'
 descuento: '38.68'
 average: '47.99'

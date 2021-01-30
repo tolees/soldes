@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Fiat-berg - 24.30.10.00 - Buzzy Fiat 500'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00P14HHQU/?tag=tolees0d-21'
 descuento: '15.44'
 average: '125.99'

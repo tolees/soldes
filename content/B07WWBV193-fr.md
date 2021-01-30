@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Bouteille d eau en Acier Inoxydable Isotherme Bouteille Réutilisable Gourde Inox sans BPA isolé à Double Paroi Gourde Isotherme 500/750/1000ml - Froides Pendant 24heures  Chaudes Pendant 12 Heures'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WWBV193/?tag=tolees0d-21'
 descuento: '24.41'
 average: '18.938717948717947'

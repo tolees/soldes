@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Vidéoprojecteur WiFi  TOPTRO 5800 Lumens Bluetooth Mini Projecteur Portable Soutien Full HD 1080P Rétroprojecteur Home Cinéma  Zoom X/Y  Contraste 6000:1  LED 60000 Heures'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089YQ7JZM/?tag=tolees0d-21'
 descuento: '23.08'
 average: '99.99'

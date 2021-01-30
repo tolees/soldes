@@ -16,6 +16,7 @@ comparePrice: 32.95 EUR
 prodname: 'Kleenex FAMILY – Mouchoirs en papier - Lot de 15 Boîtes Maxi Format'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Kleenex'
 buyurl: 'https://www.amazon.fr/dp/B07D2XN5VJ/?tag=tolees0d-21'
 descuento: '28.98'
 average: '23.3140883977899'

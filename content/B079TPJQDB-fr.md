@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Monopoly Tricheurs - Jeu de societe - Jeu de plateau - Version française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079TPJQDB/?tag=tolees0d-21'
 descuento: '33.31'
 average: '19.997500000000002'

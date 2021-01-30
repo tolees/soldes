@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Remington Tondeuse Rasoir Corps Homme  5 Sabots  Batterie Lithium - BHT6450 QuickGroom'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079KHRR3X/?tag=tolees0d-21'
 descuento: '30.01'
 average: '41.656666666666666'

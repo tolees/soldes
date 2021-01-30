@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'RenFox Flambé brûleur de Cuisine brûleur à gaz Butane  Serrure de sécurité et Acier Inoxydable et Aluminium pour la Cuisine Home DIY Brûlée  Barbecue  Bougies  Butane Non Inclus '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KQY9GLH/?tag=tolees0d-21'
 descuento: '25.01'
 average: '15.004492753623191'

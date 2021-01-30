@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Calvin Klein Jeans Dora Canvas  Sneakers Basses Femme  Rose  Dsk 000   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N0JCTNP/?tag=tolees0d-21'
 descuento: '20.00'
 average: '60.0'

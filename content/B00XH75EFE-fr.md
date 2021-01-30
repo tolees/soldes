@@ -16,6 +16,7 @@ comparePrice: 1149.0 EUR
 prodname: 'TOKINA AT-X PRO FX 24-70mm F2.8 Objectif reflex pro haute résolution Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00XH75EFE/?tag=tolees0d-21'
 descuento: '29.18'
 average: '813.7'

@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Levoit Purificateur d Air H13 Hepa Véritable  3 Étapes de Filtration Elimine 99 97% de Fumée Allergènes Poussière Air Purifier avec 3 Vitesses Veilleuse 2/4/6/8H Minuterie sans Ozone  Vista 200'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y1QWFBV/?tag=tolees0d-21'
 descuento: '50.00'
 average: '59.99'

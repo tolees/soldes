@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'ALLPOWERS 50W 12V 18V Monocrystalline Solar Panel with Zipper  Adjustable Pet Stand  Dual 5V USB 18V DC Output Foldable Solar Charger Waterproof for Laptop Cell Phone Tablet Camera Power Bank'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WQWXC6Q/?tag=tolees0d-21'
 descuento: '50.00'
 average: '149.99'

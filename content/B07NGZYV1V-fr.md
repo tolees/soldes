@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Strellson Premium Cale-Madden Costume  Gris  Grey 019   48  Taille Fabricant: 46  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NGZYV1V/?tag=tolees0d-21'
 descuento: '47.78'
 average: '156.13'

@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt   Surf The Web CK B   Small Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NFC9TSR/?tag=tolees0d-21'
 descuento: '24.50'
 average: '75.42'

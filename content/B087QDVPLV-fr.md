@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6 Gbit/s-1To pour Ordinateur de Bureau'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B087QDVPLV/?tag=tolees0d-21'
 descuento: '20.00'
 average: '199.99'

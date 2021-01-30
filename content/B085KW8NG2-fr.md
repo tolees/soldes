@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'TOPERSUN Distributeur Savon Mousse Automatique Distributeur de Savon Liquide 310ml avec Capteur Infrarouge Alimenté par 3 Piles AA pour Salle de Bain Cuisine École Bureau'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B085KW8NG2/?tag=tolees0d-21'
 descuento: '59.88'
 average: '14.44'

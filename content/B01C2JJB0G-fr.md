@@ -16,6 +16,7 @@ comparePrice: 66.9 EUR
 prodname: 'EmtecECSSD480GX150 - Disque SSDInterne - 2.5   - SATA - Collection X150 Power Plus - 3D NAND - 480 GB'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01C2JJB0G/?tag=tolees0d-21'
 descuento: '22.62'
 average: '55.115'

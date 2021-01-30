@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'New Balance MRL996V1  Baskets Homme  Noir  Outer Space   45.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078BRB4NR/?tag=tolees0d-21'
 descuento: '20.00'
 average: '47.2'

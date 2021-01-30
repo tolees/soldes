@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Correcteur de posture dos - redresse dos Homme et Femme - Ceinture dorsale réglable pour maintien dos droit - Soutien la Colonne Vertébrale  Cyphose  Cou - Gratuit Sac+Ebook+Bande élastique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07V3RJ3GJ/?tag=tolees0d-21'
 descuento: '54.01'
 average: '25.656666666666666'

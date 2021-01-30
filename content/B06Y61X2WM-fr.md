@@ -16,6 +16,7 @@ comparePrice: 95.3 EUR
 prodname: 'Vladimir Ashkenazy: The Complete Piano Concerto Recordings'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06Y61X2WM/?tag=tolees0d-21'
 descuento: '26.32'
 average: '70.22'

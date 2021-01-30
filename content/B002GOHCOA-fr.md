@@ -16,6 +16,7 @@ comparePrice: 47.99 EUR
 prodname: 'Tiger KYS21-BK Support pour Clavier réglable - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002GOHCOA/?tag=tolees0d-21'
 descuento: '22.86'
 average: '37.145'

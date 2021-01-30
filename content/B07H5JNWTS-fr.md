@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'Urban Armor Gear Monarch pour Apple iPhone Xs Max Coque avec Norme Militaire américaine etui housse - noir [Compatible avec l induction  Cuir]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H5JNWTS/?tag=tolees0d-21'
 descuento: '45.46'
 average: '29.99'

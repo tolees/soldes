@@ -16,6 +16,7 @@ comparePrice: 20.06 EUR
 prodname: 'Joker'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21'
 descuento: '35.24'
 average: '12.99'

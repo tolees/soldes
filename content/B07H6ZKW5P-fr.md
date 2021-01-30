@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Disney Aladdin Bracelet à Breloques plaqué Or Blanc Jasmine Princesse'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H6ZKW5P/?tag=tolees0d-21'
 descuento: '71.53'
 average: '19.9'

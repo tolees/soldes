@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Levi s 501 Crop Jean Droit  Bleu  Montgomery Baked 0074   W26/L26 Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KF3FT56/?tag=tolees0d-21'
 descuento: '16.71'
 average: '91.62'

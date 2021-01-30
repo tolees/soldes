@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Écouteurs Intra-Auriculaires avec Microphone intégré et contrôle du Volume  écouteurs filaires Bluetooth Fonction connecteur pour iPhone SE/11/11 Pro Max/X/XS Max/XR/8/8 Plus/7/7 Plus-Tout'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DJ85WKN/?tag=tolees0d-21'
 descuento: '35.02'
 average: '12.99'

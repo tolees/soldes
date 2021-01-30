@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'RAMPOW Câble USB C vers USB C 2m [Garantie à Vie] Câble USB C Charge Rapide 60W Power Delivery pour Macbook Pro  iPad Pro 2018  Nintendo Switch  Samsung S8/S9/S10  Google Pixel - Gris Sidéral'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089ST4HNN/?tag=tolees0d-21'
 descuento: '41.19'
 average: '7.64'

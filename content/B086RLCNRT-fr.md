@@ -16,6 +16,7 @@ comparePrice: 34.99 EUR
 prodname: 'CubicFun Puzzle 3D Harry Potter La Grande Salle du château de Poudlard  Cadeaux pour Adulte Enfant Garçon Fille Femme  187 Pièces'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B086RLCNRT/?tag=tolees0d-21'
 descuento: '15.00'
 average: '29.74'

@@ -16,6 +16,7 @@ comparePrice: 136.0 EUR
 prodname: 'Guess Vikky  Cabas femme  Argenté  Pewter   15x27x32 5 cm  W x H L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07P5GJQRJ/?tag=tolees0d-21'
 descuento: '47.80'
 average: '70.99'

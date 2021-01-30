@@ -16,6 +16,7 @@ comparePrice: 17.9 EUR
 prodname: 'Dim Coton Plus Stretch Feminine - Lot de 2 Slips Midi - Femme - Noir  40/42 FR ; 38/40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00O8GQYTI/?tag=tolees0d-21'
 descuento: '16.87'
 average: '14.88'

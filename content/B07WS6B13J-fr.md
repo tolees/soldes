@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'TUREWELL T9 Android 9.0 TV Box 2 Go RAM/16 Go ROM Support 2.4/5.0 GHz WiFi BT4.0 RK3318 Quad-Core 4K 3D HDMI DLNA Smart TV Box'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WS6B13J/?tag=tolees0d-21'
 descuento: '15.00'
 average: '32.615'

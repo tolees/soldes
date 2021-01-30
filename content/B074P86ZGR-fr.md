@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Crosscall Shark-X3 Téléphone portable débloqué 3G+  Ecran: 2 4 pouces - 64 Go ROM - Single SIM  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21'
 descuento: '41.49'
 average: '58.5'

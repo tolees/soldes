@@ -16,6 +16,7 @@ comparePrice: 3.07 EUR
 prodname: 'CASINO Thon Entier à l Huile de Tournesol'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07T91H1XW/?tag=tolees0d-21'
 descuento: '32.90'
 average: '2.06'

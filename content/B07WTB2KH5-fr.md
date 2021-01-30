@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'WisFox Clavier Souris sans Fil Combinés  2 4 GHz Mince Pleine Taille Avancée Silencieux Ensemble Clavier et Souris sans Fil avec Récepteur Nano USB pour Ordinateur Portable  PC - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WTB2KH5/?tag=tolees0d-21'
 descuento: '22.40'
 average: '17.84'

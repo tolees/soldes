@@ -16,6 +16,7 @@ comparePrice: 279.0 EUR
 prodname: 'Hoover H-Free 700 HF722PTLG  Aspirateur balai sans fil multifonction  Titane et Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MF3RT29/?tag=tolees0d-21'
 descuento: '25.09'
 average: '209.0'

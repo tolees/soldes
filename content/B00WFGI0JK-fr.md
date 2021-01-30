@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'Babymoov - Nutribaby Classic  Robot Multifonctions  Cuiseur Mixeur pour Bébé  Cherry'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00WFGI0JK/?tag=tolees0d-21'
 descuento: '36.38'
 average: '89.0'

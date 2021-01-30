@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Diesel Boxers UMBX-KORYTHREEPACK Homme  NOIR  BLACK/BLACK/BLACK 01-0BAOF   M  Lot de 3 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LYRF6DD/?tag=tolees0d-21'
 descuento: '57.53'
 average: '16.99'

@@ -16,6 +16,7 @@ comparePrice: 256.99 EUR
 prodname: 'Safavieh Tapis Moderne  Tissé Fibre de Viscose douce Tapis de couloir en Gris Pierre / Anthracite  62 X 240 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00NC1ZB9E/?tag=tolees0d-21'
 descuento: '71.75'
 average: '72.6'

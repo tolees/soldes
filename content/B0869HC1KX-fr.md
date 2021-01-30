@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Manette sans Fil pour Nintendo Switch  Manettes pour Switch  RegeMoudal Bluetooth Manette Switch Pro avec Ajustable Turbo/Double Moteur/6-Axis Gyro/Double Moteur pour Switch Lite'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0869HC1KX/?tag=tolees0d-21'
 descuento: '25.01'
 average: '29.99'

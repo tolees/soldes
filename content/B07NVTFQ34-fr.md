@@ -16,6 +16,7 @@ comparePrice: 139.0 EUR
 prodname: 'Armor Lux 76874 Pull Homme Multicolore  Navire 300    Large  Taille fabricant: L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NVTFQ34/?tag=tolees0d-21'
 descuento: '19.09'
 average: '112.47'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'foodspring L-carnitine  120 gélules  Perdre du poids avec la L-carnitine'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MSBU20C/?tag=tolees0d-21'
 descuento: '33.34'
 average: '19.99'

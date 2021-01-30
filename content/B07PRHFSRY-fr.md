@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Manette filaire PowerA Pokémon pour Nintendo Switch - Charmander Blaze'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PRHFSRY/?tag=tolees0d-21'
 descuento: '16.67'
 average: '24.99'

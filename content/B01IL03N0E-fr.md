@@ -16,6 +16,7 @@ comparePrice: 21.6 EUR
 prodname: 'Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable Sacs  lot de 500 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01IL03N0E/?tag=tolees0d-21'
 descuento: '60.00'
 average: '8.64'

@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Staub 1313906 Wok Cerise avec Couvercle Verre 37 Cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002IWAOQS/?tag=tolees0d-21'
 descuento: '17.49'
 average: '188.95'

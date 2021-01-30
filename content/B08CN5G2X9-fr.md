@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note 9S/Redmi Note 9 Pro Film Protection [Couverture Complète] [Garantie à Vie]  [sans Bulles]  Vitre pour Xiaomi Redmi Note 9 Pro'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CN5G2X9/?tag=tolees0d-21'
 descuento: '52.66'
 average: '8.99'

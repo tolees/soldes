@@ -16,6 +16,7 @@ comparePrice: 129.0 EUR
 prodname: 'RIDER-TEC – Blouson Moto Urban Girly SoftShell Black – Protections Homologuées CE Incluses – Léger & Respirant  - Taille-S'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07359JBKG/?tag=tolees0d-21'
 descuento: '60.47'
 average: '50.99'

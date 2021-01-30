@@ -16,6 +16,7 @@ comparePrice: 115.0 EUR
 prodname: 'AUBADE  Soutien-gorge Push-Up  Coussinets Amovibles  FIEVRE DE GLACE  Blanc  Taille 90B  NC18 OPAL'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H3QFDKJ/?tag=tolees0d-21'
 descuento: '60.00'
 average: '46.0'

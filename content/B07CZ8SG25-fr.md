@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour UA Qualifier Storm Packable Jacket Veste Homme  Bleu  S'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CZ8SG25/?tag=tolees0d-21'
 descuento: '70.25'
 average: '29.75'

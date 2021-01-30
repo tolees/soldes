@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Sauter SPI4360X - Plaque à induction - Encastrable - 3 Foyers - 7200W - L60 x P52cm - Revêtement verre - Inox - Fabrication Française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B010OTZZBA/?tag=tolees0d-21'
 descuento: '20.00'
 average: '303.3233333333333'

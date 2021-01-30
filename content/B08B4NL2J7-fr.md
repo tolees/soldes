@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Elyco Coque de Protection pour Nintendo Switch  Grips Protection Poignée Main Housse Silicone Antidérapant  Étuis Housse Peau Gauche Droite Coquille pour Switch JoyCon Manettes'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08B4NL2J7/?tag=tolees0d-21'
 descuento: '42.32'
 average: '14.99'

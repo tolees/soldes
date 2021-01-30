@@ -16,6 +16,7 @@ comparePrice: 7.6 EUR
 prodname: 'Funko - Pocket POP Keychain: GOTG - Groot'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015NHZC4S/?tag=tolees0d-21'
 descuento: '34.34'
 average: '4.99'

@@ -16,6 +16,7 @@ comparePrice: 49.95 EUR
 prodname: 'Pinypon Action- Famosa Lot de 5 Figurines  700014490  Multicolore'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DD3RDWT/?tag=tolees0d-21'
 descuento: '52.03'
 average: '23.96'

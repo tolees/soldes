@@ -16,6 +16,7 @@ comparePrice: 255.0 EUR
 prodname: 'Hackett Army Polo Fzip Gilet  Vert  Forest Green 682   X-Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MSPHWMJ/?tag=tolees0d-21'
 descuento: '54.64'
 average: '115.66'

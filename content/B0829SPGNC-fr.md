@@ -16,6 +16,7 @@ comparePrice: 17.99 EUR
 prodname: 'Mafiti Tablette d écriture LCD 8.5 Pouces d écriture électronique Planche à Dessin numérique Tablette Graphique de Dessin Convenant aux Enfants  à la Maison  à l école et au Bureau  Rose '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0829SPGNC/?tag=tolees0d-21'
 descuento: '44.47'
 average: '9.24'

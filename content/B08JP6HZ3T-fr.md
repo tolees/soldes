@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ActivHawks Correcteur De Posture Dos Épaules Avachies - Ceinture Dorsale Pour Hommes Et Femmes Lavable et Ajustable - Idéal Pour Soulager Les Douleurs Dorsales  Cou et Épaules - eBook d Exercices'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08JP6HZ3T/?tag=tolees0d-21'
 descuento: '50.01'
 average: '19.99'

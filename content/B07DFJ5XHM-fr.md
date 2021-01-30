@@ -16,6 +16,7 @@ comparePrice: 10.23 EUR
 prodname: 'Figurines Pop! Vinyl: LOTR/Hobbit: Galadriel'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DFJ5XHM/?tag=tolees0d-21'
 descuento: '21.90'
 average: '7.99'

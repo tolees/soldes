@@ -16,6 +16,7 @@ comparePrice: 12.6 EUR
 prodname: 'Kärcher 6.295-941.0 Nettoyant pour sols en bois  500ml  pour FC 5'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MU3CCPL/?tag=tolees0d-21'
 descuento: '44.76'
 average: '6.96'

@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Telephone Portable 4G  Blackview A80 Pro  2020  Smartphone Débloqué 64Go +4Go Ecran 6 49 Pouces  Double Nano SIM  4680 mAh  13MP/ 8MP Quatre Caméra  Android 9.0  Fingerprint  Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081SVFJ5K/?tag=tolees0d-21'
 descuento: '16.67'
 average: '124.99'

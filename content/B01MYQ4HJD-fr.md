@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Logitech G203 Prodigy Souris Gamer Filaire  8000 PPP  RVB Multicolore 16 8 Millions de Couleurs Personnalisables  Ultra-Léger  6 Boutons Programmables  Mémoire Intégrée  PC/Mac - Noire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MYQ4HJD/?tag=tolees0d-21'
 descuento: '25.01'
 average: '29.99'

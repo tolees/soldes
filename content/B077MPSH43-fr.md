@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Puma Puma Smash v2  Sneakers Basses mixte adulte - Noir  Puma Black-Puma White-Puma Silver   42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077MPSH43/?tag=tolees0d-21'
 descuento: '22.45'
 average: '42.65'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Seagate Portable 2 To  Disque dur externe portable HDD – USB 3.0 pour PC portable et Mac  STGX2000400   Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DQ91XNK/?tag=tolees0d-21'
 descuento: '33.34'
 average: '59.99'

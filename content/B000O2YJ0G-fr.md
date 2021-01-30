@@ -16,6 +16,7 @@ comparePrice: 16.9 EUR
 prodname: 'Clatronic Presse Agrumes Automatique Zp3066'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000O2YJ0G/?tag=tolees0d-21'
 descuento: '22.13'
 average: '13.16'

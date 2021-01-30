@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: '7 for all mankind MID RISE ROXANNE  Jeans Femme  Bleu  Bair Rinsed Indigo   W26/L33  Taille fabricant: 26 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01H76WLWO/?tag=tolees0d-21'
 descuento: '64.25'
 average: '67.93'

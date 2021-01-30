@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Superdry ORANGE Label Vintage EMB Tee T-Shirt pour Homme  Blanc  Weiß  optic white  26C   X-Large'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07F9B5QMT/?tag=tolees0d-21'
 descuento: '25.21'
 average: '18.69'

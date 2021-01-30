@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Tommy Hilfiger Diamond Quilted Bomber Blouson  Bleu  Maritime Blue 431   Medium Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JQVHKPB/?tag=tolees0d-21'
 descuento: '25.61'
 average: '170.35'

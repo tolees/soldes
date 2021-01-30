@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Sangean Pocket 350 - DPR-35B Radio de Poche Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0784SZYRH/?tag=tolees0d-21'
 descuento: '25.67'
 average: '125.61'

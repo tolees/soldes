@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Universal Pictures - Battlestar Galactica-L intégrale Ultime [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.fr/dp/B07D58Y2FY/?tag=tolees0d-21'
 descuento: '30.00'
 average: '57.26'

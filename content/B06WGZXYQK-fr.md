@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'Playmobil - 4X4 avec Coffre de Toit - 9281'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06WGZXYQK/?tag=tolees0d-21'
 descuento: '27.29'
 average: '15.99'

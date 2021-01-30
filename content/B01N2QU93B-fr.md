@@ -16,6 +16,7 @@ comparePrice: 214.33 EUR
 prodname: 'Extel - Interphone vidéo Quattro 2 Blanc - Ecran de 7 pouces  18 cm '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N2QU93B/?tag=tolees0d-21'
 descuento: '30.53'
 average: '148.9'

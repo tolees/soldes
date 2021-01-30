@@ -16,6 +16,7 @@ comparePrice: 509.0 EUR
 prodname: 'Samsonite Lite-Shock - Spinner XL Valise  81 cm  124 L  Noir  Black '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VFQU9KE/?tag=tolees0d-21'
 descuento: '40.08'
 average: '305.0'

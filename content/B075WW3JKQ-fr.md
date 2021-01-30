@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Shifu Orboot : Le globe éducatif basé sur la réalité augmentée | Jouet STEM pour les garçons et les filles de 4 à 10 ans | Cadeau idéal pour les enfants  sans frontières ni noms sur le globe '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075WW3JKQ/?tag=tolees0d-21'
 descuento: '46.45'
 average: '45.74333333333333'

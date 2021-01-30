@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Montre Connectée Femmes Montre Sport Homme 9 Modes Sportif  GPS  Podometre  Calories  Chronometre  Notification Message  Sommeil Cardiofréquencemètre  Montre Homme Etanche IP68 Contrôle Musique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089S3YJ9X/?tag=tolees0d-21'
 descuento: '42.86'
 average: '39.99'

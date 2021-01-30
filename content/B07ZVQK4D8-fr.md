@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Levi s Perfect V Neck T-Shirt  Annalise Stripe Sepia Rose  M Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZVQK4D8/?tag=tolees0d-21'
 descuento: '50.20'
 average: '12.45'

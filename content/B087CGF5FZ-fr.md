@@ -16,6 +16,7 @@ comparePrice: 189.99 EUR
 prodname: 'Mini PC  Intel Celeron Processor J3455 8 Go DDR4 / 64 Go eMMC Mini Desktop Computer avec Windows 10 Pro  Connexion HDMI et VGA  WiFi Double Bande  BT 4.2  3 * USB 3.0  Support VESA'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B087CGF5FZ/?tag=tolees0d-21'
 descuento: '15.00'
 average: '161.49'

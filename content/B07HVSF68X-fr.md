@@ -16,6 +16,7 @@ comparePrice: 51.99 EUR
 prodname: 'YUCUN Disque Flash 240 Go SSD M.2 2280 PCIe Express GEN3.0x4 NVMe Interne Solid State Drive'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HVSF68X/?tag=tolees0d-21'
 descuento: '26.93'
 average: '37.99'

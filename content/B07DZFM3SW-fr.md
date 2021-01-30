@@ -16,6 +16,7 @@ comparePrice: 81.5 EUR
 prodname: 'jolidon – Lilly – Maillot de Bain Deux Pièces – Haut de Gamme – 100% Européen – Balconnet – Rembourré – Slip Taille Basse – Imprimé – Femme – B Cup – 38/40 - M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DZFM3SW/?tag=tolees0d-21'
 descuento: '38.71'
 average: '49.95'

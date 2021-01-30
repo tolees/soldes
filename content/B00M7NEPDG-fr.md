@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Fossil Femme Analogique Quartz Montre avec Bracelet en Nylon ES3713'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00M7NEPDG/?tag=tolees0d-21'
 descuento: '21.19'
 average: '125.3'

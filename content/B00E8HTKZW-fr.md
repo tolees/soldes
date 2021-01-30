@@ -16,6 +16,7 @@ comparePrice: 74.9 EUR
 prodname: 'Sweetnight - Surmatelas Luxe 160x200 cm | Ultra Moelleux et Confortable | Enveloppe 100% Coton | Lavable | Qualité Hôtellerie de Luxe'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00E8HTKZW/?tag=tolees0d-21'
 descuento: '47.18'
 average: '39.56'

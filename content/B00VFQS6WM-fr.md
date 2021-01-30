@@ -16,6 +16,7 @@ comparePrice: 459.0 EUR
 prodname: 'Samsonite Lite-Shock - Spinner M Valise  69 cm  73 L  Noir  Black '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VFQS6WM/?tag=tolees0d-21'
 descuento: '56.97'
 average: '223.33333333333334'

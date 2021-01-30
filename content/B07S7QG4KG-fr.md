@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'PUMA NRGY Rupture  Running Mixte Adulte  Black-High Rise  42.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S7QG4KG/?tag=tolees0d-21'
 descuento: '46.11'
 average: '29.61'

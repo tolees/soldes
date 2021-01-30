@@ -16,6 +16,7 @@ comparePrice: 42.9 EUR
 prodname: 'CALVET Vin Mousseux Rose Celebration 75 cl'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PM67PG8/?tag=tolees0d-21'
 descuento: '46.15'
 average: '21.39'

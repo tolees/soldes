@@ -16,6 +16,7 @@ comparePrice: 195.84 EUR
 prodname: 'Razor - 13173861 - Patinette Électronique - E90 Power Core - Rose'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01AK0R6LU/?tag=tolees0d-21'
 descuento: '38.73'
 average: '119.99'

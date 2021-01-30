@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'LEGO®-DUPLO® Toy Story™ Le train de Toy Story Jeu de construction  2 Ans et Plus  21 Pièces 10894'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JC3HPZT/?tag=tolees0d-21'
 descuento: '36.01'
 average: '15.99'

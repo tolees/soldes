@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'Clé USB 3.0 SanDisk Ultra 32 Go avec une vitesse de lecture allant jusqu à 130 Mo/s'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00DQG9OZ2/?tag=tolees0d-21'
 descuento: '34.03'
 average: '7.593333333333334'

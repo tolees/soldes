@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Under Armour UA SC 3ZER0 III  Chaussures de Basketball Homme  Gris  Halo Gray/Ash Gray/Teal Rush  101  101   48 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07K2LF22M/?tag=tolees0d-21'
 descuento: '50.03'
 average: '49.97'

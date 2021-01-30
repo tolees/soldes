@@ -16,6 +16,7 @@ comparePrice: 63.88 EUR
 prodname: 'DishyKooker M65 RC Drone avec Caméra 4K HD FPV WiFi Altitude Hold Pliable Réglable RC Quadcopter Selife Drone RC Avion pour Adultes Débutants Jouets'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0868SR8KX/?tag=tolees0d-21'
 descuento: '33.17'
 average: '42.69'

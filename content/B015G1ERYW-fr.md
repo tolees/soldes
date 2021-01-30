@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil  Bleu  Blau   53.0 Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015G1ERYW/?tag=tolees0d-21'
 descuento: '68.81'
 average: '49.91'

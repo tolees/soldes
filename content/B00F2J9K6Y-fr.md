@@ -16,6 +16,7 @@ comparePrice: 17.0 EUR
 prodname: 'Stanley STST1-71983 Organiseur Click & Connect 50 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00F2J9K6Y/?tag=tolees0d-21'
 descuento: '47.71'
 average: '9.59'

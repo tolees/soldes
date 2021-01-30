@@ -16,6 +16,7 @@ comparePrice: 121.49 EUR
 prodname: 'FR Femme Montre-Bracelet parlante française Montre-Bracelet en Cuir Heure du Jour Date de la Semaine Réveil Montre Senior Horloge Lunaire Sortie vocale Aveugle  Bracelet Femme en Cuir doré '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07J6B3MSX/?tag=tolees0d-21'
 descuento: '50.62'
 average: '59.99'

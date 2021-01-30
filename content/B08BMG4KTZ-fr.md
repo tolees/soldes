@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'OUPOD Manette sans fil  Bluetooth  pour Pro Nintendo Switch connectée à l hôte du commutateur prend en charge les fonctions NFC  l induction de caractères Amiibo et la fonction de réveil.  bleu rouge '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BMG4KTZ/?tag=tolees0d-21'
 descuento: '38.80'
 average: '29.99'

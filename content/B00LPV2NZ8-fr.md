@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Accessoire iRobot Roomba - Batterie Xlife NiMH'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00LPV2NZ8/?tag=tolees0d-21'
 descuento: '15.08'
 average: '67.93'

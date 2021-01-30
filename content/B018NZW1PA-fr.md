@@ -16,6 +16,7 @@ comparePrice: 160.0 EUR
 prodname: 'G.H. Bass & Co. Penny  Mocassins Femme  Multicolore  Black & White Leather 001   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B018NZW1PA/?tag=tolees0d-21'
 descuento: '57.11'
 average: '68.63'

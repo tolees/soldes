@@ -16,6 +16,7 @@ comparePrice: 531.97 EUR
 prodname: 'ROYAL SLEEP Matelas viscoélastique 140x190 fermeté Moyenne  Haut de Gamme  Confort et adaptabilité Totale  Hauteur 24cm - Matelas Dormant Premium  Certifié Oeko-Tex  Certification ISO 9001'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L9BCCCL/?tag=tolees0d-21'
 descuento: '71.43'
 average: '151.99'

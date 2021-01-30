@@ -16,6 +16,7 @@ comparePrice: 55.0 EUR
 prodname: 'Nike Revolution 5  Chaussures de Running Compétition Homme  Noir  Black/White-Anthracite 002   44 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NLV8LQ9/?tag=tolees0d-21'
 descuento: '30.00'
 average: '38.5'

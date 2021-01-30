@@ -16,6 +16,7 @@ comparePrice: 13.03 EUR
 prodname: 'Réparer Les Vivants [DVD + Copie Digitale]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N0SVLRH/?tag=tolees0d-21'
 descuento: '23.33'
 average: '9.99'

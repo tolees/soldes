@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'tomtoc Nintendo Switch Lite Case  Étui de Protection Rigide Hardshell Housse de Transport pour Console Nintendo Switch Lite et Accessoires  avec Poignée  24 Cartouches de Jeu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YZD4L28/?tag=tolees0d-21'
 descuento: '15.01'
 average: '19.54'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LEGO DUPLO Town La pâtisserie avec camionette à café  gâteaux et cupcakes  grandes briques pour les tout-petits de 2 ans et plus  114 pièces 10928'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00DPM09IS/?tag=tolees0d-21'
 descuento: '15.65'
 average: '31.959999999999997'

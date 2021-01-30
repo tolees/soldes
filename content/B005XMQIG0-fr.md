@@ -16,6 +16,7 @@ comparePrice: 15.2 EUR
 prodname: 'Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir  Lot Noir Logo  - FR : 40  Taille fabricant : 40/42 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005XMQIG0/?tag=tolees0d-21'
 descuento: '26.32'
 average: '11.2'

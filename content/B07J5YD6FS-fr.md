@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'VICTROLA CREATION MUSICALE Park Avenue  VTA-60-ESP-EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07J5YD6FS/?tag=tolees0d-21'
 descuento: '50.66'
 average: '88.31'

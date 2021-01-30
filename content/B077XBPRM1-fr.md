@@ -16,6 +16,7 @@ comparePrice: 16.8 EUR
 prodname: 'Fruitman stylo multifonction idee cadeau homme original gadget high tech de coffret cadeau pour papa ou femme idée personnalisé rigolo cadeau insolite homme bricolage outillage pour accessoire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077XBPRM1/?tag=tolees0d-21'
 descuento: '40.54'
 average: '9.677692307692311'

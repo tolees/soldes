@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Replay New Luz Jean Skinny  Bleu  Dark Blue 007   L30  Taille Fabricant: 24  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L8ZZ8BP/?tag=tolees0d-21'
 descuento: '58.35'
 average: '41.23'

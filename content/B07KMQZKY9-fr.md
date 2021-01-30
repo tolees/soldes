@@ -16,6 +16,7 @@ comparePrice: 27.99 EUR
 prodname: 'Adidas W E 3S Short Femme Noir/Blanc FR  Taille Fabricant : XS '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KMQZKY9/?tag=tolees0d-21'
 descuento: '28.58'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Scie sauteuse filaire Bosch - PST 900 PEL  620W  livrée avec lame  pare-Éclats  cutcontrol  capot de protection transparent  range-Lame  coffret de rangement '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B003DZ13JG/?tag=tolees0d-21'
 descuento: '24.00'
 average: '75.99'

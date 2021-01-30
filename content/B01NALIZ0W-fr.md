@@ -16,6 +16,7 @@ comparePrice: 123.75 EUR
 prodname: 'Bébé Confort Sac à Langer Black Raven'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01NALIZ0W/?tag=tolees0d-21'
 descuento: '47.44'
 average: '65.04'

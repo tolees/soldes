@@ -16,6 +16,7 @@ comparePrice: 419.9 EUR
 prodname: 'Britax Römer Siège-auto Naissance-18 kg | DUALFIX2 R | Isofix Groupe 0+/1 | Blue Marble'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QKV4P5Q/?tag=tolees0d-21'
 descuento: '27.83'
 average: '303.03'

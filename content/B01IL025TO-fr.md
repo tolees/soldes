@@ -16,6 +16,7 @@ comparePrice: 68.81 EUR
 prodname: 'Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes  lot de 1000 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01IL025TO/?tag=tolees0d-21'
 descuento: '60.01'
 average: '27.52'

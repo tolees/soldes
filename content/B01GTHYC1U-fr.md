@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'OH MY BAG Sac porté épaule Cuir porté épaule et main femmes en véritable cuir fabriqué en Italie - modèle RANGOON Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01GTHYC1U/?tag=tolees0d-21'
 descuento: '41.00'
 average: '64.9'

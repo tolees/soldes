@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'XL-S MEDICAL Solution Buvable - Aide à la Perte de Poids – Goût Thé Matcha – 90 Sachets'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZRCFCPF/?tag=tolees0d-21'
 descuento: '54.19'
 average: '32.02'

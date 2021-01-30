@@ -16,6 +16,7 @@ comparePrice: 289.9 EUR
 prodname: 'RACER Paire de gants chauffants moto Femme HEAT 3 noir Taille M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07K12FQFH/?tag=tolees0d-21'
 descuento: '25.84'
 average: '214.99'

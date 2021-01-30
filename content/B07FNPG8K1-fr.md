@@ -16,6 +16,7 @@ comparePrice: 19.2 EUR
 prodname: 'No Tourists'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FNPG8K1/?tag=tolees0d-21'
 descuento: '15.36'
 average: '16.25'

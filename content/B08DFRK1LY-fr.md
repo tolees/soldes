@@ -16,6 +16,7 @@ comparePrice: 23.58 EUR
 prodname: 'Ceintures de Sudation  Ceinture De Sudation Homme et Femme  Ceinture Abdominale Serre Taille Corset Sculptant Cincher réglable Belt Body Shaper Gaine Amincissante Ventre Plat'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DFRK1LY/?tag=tolees0d-21'
 descuento: '36.43'
 average: '14.99'

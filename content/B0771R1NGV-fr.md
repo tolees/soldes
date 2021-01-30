@@ -16,6 +16,7 @@ comparePrice: 89.9 EUR
 prodname: 'Geemarc Telecom TÉLÉPHONE SANS FIL AVEC 10 MÉMOIRES PHOTOS DIRECTES et RÉPONDEUR'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0771R1NGV/?tag=tolees0d-21'
 descuento: '27.71'
 average: '64.99'

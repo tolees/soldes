@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Coque de Protection pour Switch en TPU Souple et 8 X Couvre Pouce pour Switch Joy-Con Noir '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08GHTRBKN/?tag=tolees0d-21'
 descuento: '35.36'
 average: '9.69'

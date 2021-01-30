@@ -16,6 +16,7 @@ comparePrice: 199.99 EUR
 prodname: 'GTPLAYER Chaise Gamer Fauteuil de Bureau Berçante Siège Ergonomique Accoudoir Réglable Appui-tête Support Lombaire  Bleu '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07C4QJTD4/?tag=tolees0d-21'
 descuento: '20.25'
 average: '159.49'

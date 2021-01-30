@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Oral-B Genius Brosse À Dents Électrique Par Braun'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BYD7QQ2/?tag=tolees0d-21'
 descuento: '51.57'
 average: '145.3'

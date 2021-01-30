@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Maillot Cyclisme Kits Homme Vêtements Cyclisme Tenue Cycliste Maillot Cycliste Homme Manche Courte MTB Jersey+9D Gel Pantalons Homme Été Cyclisme Vêtements Respirant Séchage Rapide'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VXGRMDC/?tag=tolees0d-21'
 descuento: '40.01'
 average: '29.99'

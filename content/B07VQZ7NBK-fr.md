@@ -16,6 +16,7 @@ comparePrice: 62.99 EUR
 prodname: 'Selonis Piscine À Balles 90X30cm/200 Balles Ronde en Mousse pour Bébé Enfant  Gris Clair:Blanc/Gris/Menthe'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VQZ7NBK/?tag=tolees0d-21'
 descuento: '22.23'
 average: '48.99'

@@ -16,6 +16,7 @@ comparePrice: 47.0 EUR
 prodname: 'Calvin Klein Homme - Lot de 3 aille mi-haute boxers - Cotton Stretch  Noir  Black W. Black Wb Xwb   M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077BCXB6H/?tag=tolees0d-21'
 descuento: '23.36'
 average: '36.02'

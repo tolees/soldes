@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Cressi Apnea Wetsuit - Combinaisons de Plongée complètes pour Apnée/Chasse Sous-marine  Néoprène souple'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TC41LKP/?tag=tolees0d-21'
 descuento: '38.15'
 average: '154.63'

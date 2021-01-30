@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Newbestyle Femme Hoodies Sweatshirt Manches Longues à Capuche Veste Femmes'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B1Q9Q2L/?tag=tolees0d-21'
 descuento: '24.08'
 average: '20.49'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tommy Hilfiger Watch 1782143'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YN9TP7J/?tag=tolees0d-21'
 descuento: '50.25'
 average: '99.0'

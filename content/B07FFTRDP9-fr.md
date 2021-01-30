@@ -16,6 +16,7 @@ comparePrice: 299.99 EUR
 prodname: 'LETTAS Siège Auto 360° Pivotant Groupe 0+1/2/3  DE 0 à 36 kg/0 Mois 12 Ans  avec ISOFIX Top Tether Protection Contre Les Impacts Latéraux ECE R44/04'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FFTRDP9/?tag=tolees0d-21'
 descuento: '44.00'
 average: '167.99'

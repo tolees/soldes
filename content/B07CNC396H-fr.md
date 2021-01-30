@@ -16,6 +16,7 @@ comparePrice: 34.0 EUR
 prodname: 'DJI - Tello GameSir - Manette pour Tello - Radiocommande Dron Tello - Control à distance - Compatible iOs et Android - Connexion GCM - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CNC396H/?tag=tolees0d-21'
 descuento: '21.00'
 average: '29.675000000000004'

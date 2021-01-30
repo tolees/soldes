@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Lagostina 12143040122 Poêle à frire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NQFVQFW/?tag=tolees0d-21'
 descuento: '33.59'
 average: '45.82'

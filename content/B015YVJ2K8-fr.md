@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'Ecco ECCO JARED  Derby homme - Noir  Black 01001  - 43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015YVJ2K8/?tag=tolees0d-21'
 descuento: '19.19'
 average: '125.25'

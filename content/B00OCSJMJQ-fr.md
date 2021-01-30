@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Columbia Sun Ridge Polo à Manches Courtes Homme  Gris  Shark   S'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00OCSJMJQ/?tag=tolees0d-21'
 descuento: '30.11'
 average: '34.94'

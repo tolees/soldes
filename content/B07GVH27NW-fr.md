@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Replay Anbass Jean Slim  Bleu  Dark Blue 7   W32/L32  Taille Fabricant: 32  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GVH27NW/?tag=tolees0d-21'
 descuento: '39.16'
 average: '114.98'

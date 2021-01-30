@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Siméo PF200 Sorbetière'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00ZPLL3ZU/?tag=tolees0d-21'
 descuento: '17.29'
 average: '57.89'

@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'Rowenta Compact Steam Extreme DG7521F0 Centrale Vapeur Haute Pression'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XCGRJZR/?tag=tolees0d-21'
 descuento: '52.73'
 average: '103.99'

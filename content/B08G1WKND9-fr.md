@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'VISSQH 20pcs micro interrupteur fin de course  NO-NC 3Broches SPDT Micro Switch Momentané micro interrupteur levier pour Arduino Équipement Électronique ect micro interrupteur 12v'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08G1WKND9/?tag=tolees0d-21'
 descuento: '23.94'
 average: '9.88'

@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'Herefun Bocs de Construction en Bois Tour Empilables Jeu à Empiler Jouets  D Empilage Jeux d empilement Tour Jeu d Ambiance pour Les Enfants  Cadeau à Filles et Garçons - 55 Pièces'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Z62ZFX4/?tag=tolees0d-21'
 descuento: '27.60'
 average: '20.99'

@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'STAGLIFE Sac Bandoulière en Cuir Urbain pour Femme Sac de Selle Cadeaux pour Les Filles Adolescents  Marron  30 cm '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VNFNQ9C/?tag=tolees0d-21'
 descuento: '56.54'
 average: '29.99'

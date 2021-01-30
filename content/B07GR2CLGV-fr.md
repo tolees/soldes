@@ -16,6 +16,7 @@ comparePrice: 189.0 EUR
 prodname: 'Oakwood Connecting Blouson  Marron  Vison 0559   XX-Large  Taille Fabricant: 2XL  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GR2CLGV/?tag=tolees0d-21'
 descuento: '31.75'
 average: '129.0'

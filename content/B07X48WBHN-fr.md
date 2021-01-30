@@ -16,6 +16,7 @@ comparePrice: 149.0 EUR
 prodname: 'Ledger Backup Pack - Nano S + Nano X - Portefeuille de Cryptomonnaies'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07X48WBHN/?tag=tolees0d-21'
 descuento: '25.00'
 average: '111.75'

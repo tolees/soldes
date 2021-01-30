@@ -16,6 +16,7 @@ comparePrice: 190.0 EUR
 prodname: 'THE NORTH FACE Nuptse III Gilet Homme TNF Black FR : M  Taille Fabricant : M '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B074NFYD29/?tag=tolees0d-21'
 descuento: '50.43'
 average: '94.18'

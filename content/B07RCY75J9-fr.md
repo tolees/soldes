@@ -16,6 +16,7 @@ comparePrice: 155.99 EUR
 prodname: 'TEFAL Body Partner Pèse Personne Balance Connectée Compatible Health Kit Google Fit - Coaching Sportif Et Nutritionnel Intégré YD3094S1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RCY75J9/?tag=tolees0d-21'
 descuento: '35.90'
 average: '99.99'

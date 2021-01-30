@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Geox U Nebula 4 X 4 B ABX A  Bottes Chukka Homme  Marron  Browncotto C6003   41 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07LFZ2P7T/?tag=tolees0d-21'
 descuento: '45.00'
 average: '82.5'

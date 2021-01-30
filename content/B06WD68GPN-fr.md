@@ -16,6 +16,7 @@ comparePrice: 233.99 EUR
 prodname: 'Marvel Legends - Edition Collector Avengers - Marteau Deluxe de Thor'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06WD68GPN/?tag=tolees0d-21'
 descuento: '50.86'
 average: '114.99'

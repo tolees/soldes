@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'TUTUO Manette pour Nintendo Switch  Switch Pro sans Fil Contrôleur Bluetooth Gamepad Joystick  Remplacement pour JOYCON Switch - Rouge  R  et Bleu  L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083BF7FGV/?tag=tolees0d-21'
 descuento: '35.01'
 average: '39.82333333333334'

@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'eXtremeRate Coque Avant Housse Boîtier de Remplacement pour Xbox One S/X Manette Contrôleur Modèle 1708 -Nouvel Espoir Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HQCLX2Q/?tag=tolees0d-21'
 descuento: '43.77'
 average: '13.49'

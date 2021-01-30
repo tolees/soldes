@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Fauteuil à Bascule Gaming - Sony Geist - noir/bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y9BWYJ5/?tag=tolees0d-21'
 descuento: '25.00'
 average: '89.99'

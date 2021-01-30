@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'AUBADE  Haut de maillot push-up coque  Attache au cou  DIVINE CLEOPATRE  Noir  95B  NT08 NOIR'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JWXVMB3/?tag=tolees0d-21'
 descuento: '44.66'
 average: '54.79'

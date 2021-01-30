@@ -16,6 +16,7 @@ comparePrice: 379.99 EUR
 prodname: 'Philips AC2887/10 Purificateur d air  purifie jusqu à 79 m²  triple filtration  affichage des particules fines en temps réel'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01KWWYJXO/?tag=tolees0d-21'
 descuento: '16.06'
 average: '318.98'

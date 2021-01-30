@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Mini Camera Espion WiFi NIYPS Full HD 1080P Étanche sans Fil Nanny Caméra Cachée Spy avec Vision Nocturne et Detecteur de Mouvement  Micro IP Camera Surveillance de Sécurité Intérieure / Extérieure'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HV7LVFP/?tag=tolees0d-21'
 descuento: '47.00'
 average: '52.99'

@@ -16,6 +16,7 @@ comparePrice: 15.8 EUR
 prodname: 'BIC Mini Fun Gommes Blanches - Formes Assorties  Tubo de 36'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00STQV5M4/?tag=tolees0d-21'
 descuento: '17.22'
 average: '13.08'

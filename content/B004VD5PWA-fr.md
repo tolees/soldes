@@ -16,6 +16,7 @@ comparePrice: 51.87 EUR
 prodname: 'Marie Brizard Curaçao Liqueur Triple Sec 700 ml'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004VD5PWA/?tag=tolees0d-21'
 descuento: '50.94'
 average: '25.45'

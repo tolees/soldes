@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Tommy Hilfiger Mixed Media Zip Trhough Sweat-Shirt   Sky Captain Cjm   Small Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N43J6SV/?tag=tolees0d-21'
 descuento: '27.24'
 average: '144.8'

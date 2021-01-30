@@ -16,6 +16,7 @@ comparePrice: 449.0 EUR
 prodname: 'CASIO CDP-S100BK'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MQ68QGP/?tag=tolees0d-21'
 descuento: '24.94'
 average: '337.0'

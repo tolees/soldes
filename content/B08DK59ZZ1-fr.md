@@ -16,6 +16,7 @@ comparePrice: 28.99 EUR
 prodname: 'LiNKFOR Antenne TV Intérieure Numérique avec Signal Amplificateur Booster 1080p HDTV Antenne Intérieur Puissante TNT-50Miles TV Antenne Chaînes Locales Gratuites avec Câble d Antenne de 4 m'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DK59ZZ1/?tag=tolees0d-21'
 descuento: '31.05'
 average: '19.99'

@@ -16,6 +16,7 @@ comparePrice: 50.99 EUR
 prodname: 'Fivejoy Tapis aquadoodle 150 x 100 cm de Dessin Eau Peinture Mats   Aqua Magic Doodle pour 4 à 6 Enfants - Divers Accessoires  Jouet Éducatif pour Bébé Enfant pour Noël  Anniversaire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07W42C5KW/?tag=tolees0d-21'
 descuento: '49.03'
 average: '25.99'

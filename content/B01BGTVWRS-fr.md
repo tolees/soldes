@@ -16,6 +16,7 @@ comparePrice: 99.95 EUR
 prodname: 'G-Star Rovic Zip 3D Straight Tapered Pantalon  Beige  Dune 5126-239   32W / 32L Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01BGTVWRS/?tag=tolees0d-21'
 descuento: '30.02'
 average: '69.95'

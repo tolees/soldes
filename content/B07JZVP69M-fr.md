@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Feral roots'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JZVP69M/?tag=tolees0d-21'
 descuento: '53.37'
 average: '6.99'

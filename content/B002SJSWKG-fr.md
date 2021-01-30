@@ -16,6 +16,7 @@ comparePrice: 245.0 EUR
 prodname: 'Samsonite Aeris - Spinner XL Valise  81 cm  118 5 L  Rouge  Red '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002SJSWKG/?tag=tolees0d-21'
 descuento: '24.42'
 average: '185.17'

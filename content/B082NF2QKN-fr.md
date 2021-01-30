@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Wasteland 3 : Day One Edition pour PS4'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082NF2QKN/?tag=tolees0d-21'
 descuento: '40.61'
 average: '35.63'

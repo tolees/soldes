@@ -16,6 +16,7 @@ comparePrice: 119.0 EUR
 prodname: 'Sunflair Dark Flower Tankinis  Multicolore  Nachtblau 30   100B  Taille Fabricant: 42B  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JW79M7X/?tag=tolees0d-21'
 descuento: '57.13'
 average: '51.01'

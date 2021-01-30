@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: 'LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fille et Garçon 2 Ans et Plus  57 Pièces 10889'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KTVF52Q/?tag=tolees0d-21'
 descuento: '25.10'
 average: '36.09'

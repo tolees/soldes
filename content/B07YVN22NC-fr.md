@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Philips Hue White & Color Ambiance Spot Fugato x2 Noir Compatible Bluetooth  Fonctionne avec Alexa'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YVN22NC/?tag=tolees0d-21'
 descuento: '23.53'
 average: '129.99'

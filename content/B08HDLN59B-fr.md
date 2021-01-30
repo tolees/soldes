@@ -16,6 +16,7 @@ comparePrice: 49.0 EUR
 prodname: 'Android TV Box Android 7.1 2G+16G Boitier Android TV Mini Smart TV Box 4K HD/3D/Amlogic Quad Core S905W 64 Bits/2.4GHz WiFi/LAN10/100M Media Player'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HDLN59B/?tag=tolees0d-21'
 descuento: '24.51'
 average: '36.99'

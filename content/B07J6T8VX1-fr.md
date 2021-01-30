@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'Siméo PLC410 Plancha électrique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07J6T8VX1/?tag=tolees0d-21'
 descuento: '50.03'
 average: '37.47'

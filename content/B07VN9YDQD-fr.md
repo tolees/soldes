@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'MICHELIN Chaines à neige Extrem Grip Automatique  spéciales SUV  4x4  CAMPING CAR  VEHICULES UTILITAIRES N°250'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VN9YDQD/?tag=tolees0d-21'
 descuento: '22.65'
 average: '122.99'

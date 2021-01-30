@@ -16,6 +16,7 @@ comparePrice: 409.99 EUR
 prodname: 'Lowepro Whistler BP 450 AW II Sac à dos 4 saisons ultra-résistant pour le matériel photo de plein air et l équipement essentiel en milieu sauvage - Gris'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JGQMPJW/?tag=tolees0d-21'
 descuento: '38.17'
 average: '253.49'

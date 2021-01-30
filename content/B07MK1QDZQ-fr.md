@@ -16,6 +16,7 @@ comparePrice: 169.0 EUR
 prodname: 'Napapijri BAUNT FZ Maillot de survêtement  Bleu Marine  176   XL Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MK1QDZQ/?tag=tolees0d-21'
 descuento: '62.99'
 average: '62.54'

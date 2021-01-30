@@ -16,6 +16,7 @@ comparePrice: 169.19 EUR
 prodname: 'SIMOLIO SM-825D Pro 2.4GHz Casque sans Fil TV pour Personnes âgées  Casque sans Fil pour Téléviseur avec Protection Auditive  Optique  RCA  AUX 3.5mm  No Delay  Portée 100 Pieds  Comprenant 2 Piles '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082KN3MCW/?tag=tolees0d-21'
 descuento: '27.90'
 average: '121.99'

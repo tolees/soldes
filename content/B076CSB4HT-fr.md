@@ -16,6 +16,7 @@ comparePrice: 159.0 EUR
 prodname: 'Samsonite LAPTOP BACKPACK 17.3" EXP  BLACK  -SPECTROLITE 2.0  Sac à dos loisir  0 cm  Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076CSB4HT/?tag=tolees0d-21'
 descuento: '20.28'
 average: '126.75'

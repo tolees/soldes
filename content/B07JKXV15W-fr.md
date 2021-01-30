@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'LAGOSTINA SALVASPAZIO METEORITE 012135040824 Poêle inox revêtue 24 cm Tous feux dont induction  anses et poignés vendues séparemment '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JKXV15W/?tag=tolees0d-21'
 descuento: '16.00'
 average: '81.12666666666667'

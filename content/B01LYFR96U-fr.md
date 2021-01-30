@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Playmobil - Porsche 911 GT3 Cup - 9225'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LYFR96U/?tag=tolees0d-21'
 descuento: '17.88'
 average: '41.05'

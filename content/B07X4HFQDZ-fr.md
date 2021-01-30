@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'G-STAR RAW Rackam Mimemis  Sneakers Basses Homme  Multicolore  White/Industrial Grey C249-A539   42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07X4HFQDZ/?tag=tolees0d-21'
 descuento: '59.94'
 average: '44.05'

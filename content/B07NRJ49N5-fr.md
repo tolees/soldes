@@ -16,6 +16,7 @@ comparePrice: 159.9 EUR
 prodname: 'LLOYD Galvan  Desert Boots Homme  Gris  Graphit/Future Grey 1   48 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NRJ49N5/?tag=tolees0d-21'
 descuento: '42.21'
 average: '92.41'

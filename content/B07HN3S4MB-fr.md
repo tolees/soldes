@@ -16,6 +16,7 @@ comparePrice: 109.98 EUR
 prodname: 'Philips Hue Kit de démarrage 2 ampoules White Ambiance E14 + pont de connexion'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HN3S4MB/?tag=tolees0d-21'
 descuento: '18.30'
 average: '89.85'

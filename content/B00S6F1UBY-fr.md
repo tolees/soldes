@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Sylvanian Families - 5206 - Le bateau de croisière'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00S6F1UBY/?tag=tolees0d-21'
 descuento: '26.19'
 average: '58.94142857142857'

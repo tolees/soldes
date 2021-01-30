@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Aspirateur Balai sans Fil sans Sac  Aspirateur à Main Aspirateur Multifonction 20000 PA Puissant  Batterie 2500mAh pour Autonomie 45 Min et 2 Vitesses Modurable  Ideal pour Maison  Bureau  Voiture'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZRPD3T2/?tag=tolees0d-21'
 descuento: '24.00'
 average: '136.79'

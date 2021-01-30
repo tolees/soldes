@@ -16,6 +16,7 @@ comparePrice: 284.0 EUR
 prodname: 'Claude Dozorme 2.60.001.55 Coffret Hêtre 6 Couteaux Steak Super Laguiole Manche Vallernia'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002YEJE0W/?tag=tolees0d-21'
 descuento: '51.56'
 average: '137.57'

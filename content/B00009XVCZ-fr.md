@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'Canon Objectif EF-50mm F/1 4 USM'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00009XVCZ/?tag=tolees0d-21'
 descuento: '20.33'
 average: '358.49'

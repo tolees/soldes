@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Crocs Classic Sabots Mixte Adulte  Violet  Neon Purple   41/42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CN7TV7Z/?tag=tolees0d-21'
 descuento: '33.51'
 average: '26.59'

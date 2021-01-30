@@ -16,6 +16,7 @@ comparePrice: 13.03 EUR
 prodname: 'Ready Player One - DVD'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21'
 descuento: '38.76'
 average: '7.98'

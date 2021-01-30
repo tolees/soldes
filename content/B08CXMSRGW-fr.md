@@ -16,6 +16,7 @@ comparePrice: 23.99 EUR
 prodname: 'Boules de Bain  Bombe de Bain Cadeau Femme  8 Bombe de Bain Coffret Cadeau Effervescent Parfumées Huiles Essentielles Cadeau pour Maman  Homme  Anniversaire  Noël  Mariage  Saint Valentin'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CXMSRGW/?tag=tolees0d-21'
 descuento: '21.22'
 average: '19.134'

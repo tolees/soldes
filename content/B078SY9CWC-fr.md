@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Timberland Gateway Pier Casual  Chaussures Oxford Homme  Bleu  Navy Canvas   43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078SY9CWC/?tag=tolees0d-21'
 descuento: '28.36'
 average: '64.48'

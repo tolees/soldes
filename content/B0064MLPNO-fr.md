@@ -16,6 +16,7 @@ comparePrice: 119.98 EUR
 prodname: 'Mottez Porte-vélos rabattable 3 vélos Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0064MLPNO/?tag=tolees0d-21'
 descuento: '20.83'
 average: '91.49'

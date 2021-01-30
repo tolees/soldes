@@ -16,6 +16,7 @@ comparePrice: 460.0 EUR
 prodname: 'SONY- Pack HX60 + Batterie Rechargeable'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CJJLL42/?tag=tolees0d-21'
 descuento: '37.61'
 average: '286.98'

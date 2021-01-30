@@ -16,6 +16,7 @@ comparePrice: 299.95 EUR
 prodname: 'Elgato Thunderbolt 3 Dock - Avec câble de 50 cm  40 Gbit/s  2 ports Thunderbolt 3  USB-C   3 ports USB 3.0  entrée et sortie audio  Gigabit Ethernet'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MQU5UBN/?tag=tolees0d-21'
 descuento: '16.66'
 average: '249.99'

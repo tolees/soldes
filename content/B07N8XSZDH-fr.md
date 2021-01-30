@@ -16,6 +16,7 @@ comparePrice: 119.72 EUR
 prodname: 'Rockport Westbrook Oxford  Richelieus Homme  Marron  Cocoa Lea 001   42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N8XSZDH/?tag=tolees0d-21'
 descuento: '19.85'
 average: '95.96'

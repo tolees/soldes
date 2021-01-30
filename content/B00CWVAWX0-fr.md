@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'VAUDE Farley Stretch T-Zip Pantalon II Homme  Black  FR : M  Taille Fabricant : 50-Long '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00CWVAWX0/?tag=tolees0d-21'
 descuento: '22.60'
 average: '85.14'

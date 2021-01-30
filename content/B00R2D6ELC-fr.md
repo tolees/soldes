@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'La Bonne Paye – Jeu de societe familial - Jeu de plateau – Version française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00R2D6ELC/?tag=tolees0d-21'
 descuento: '33.64'
 average: '19.9'

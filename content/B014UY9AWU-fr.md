@@ -16,6 +16,7 @@ comparePrice: 10.02 EUR
 prodname: 'Pitch Perfect 2'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B014UY9AWU/?tag=tolees0d-21'
 descuento: '40.12'
 average: '6.0'

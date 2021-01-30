@@ -16,6 +16,7 @@ comparePrice: 57.37 EUR
 prodname: 'Silvian Heach Skirt Remire Jupe  Jaune  Lime Fluo Lime Fluo   Large Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YYSQMPM/?tag=tolees0d-21'
 descuento: '19.99'
 average: '45.9'

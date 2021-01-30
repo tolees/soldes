@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'HP OMEN 100 - Tapis de Souris Gaming Noir  36 cm x 30 cm  Ultra Fin  Tissu  Base Caoutchouc Antidérapant  Résistant à l Usure '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071JR8R4M/?tag=tolees0d-21'
 descuento: '56.63'
 average: '5.2'

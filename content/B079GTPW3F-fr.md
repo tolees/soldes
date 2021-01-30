@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'NUNCAD Bague Homme/Femme en Tungstène avec I Love You Or Rose/Bleu/Noir/Argenté/Noir/Brun 8mm Taille  50-76 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B079GTPW3F/?tag=tolees0d-21'
 descuento: '17.40'
 average: '18.99'

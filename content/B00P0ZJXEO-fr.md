@@ -16,6 +16,7 @@ comparePrice: 350.0 EUR
 prodname: 'Italia Independent 0090CV-009-000 Lunettes de Soleil Unisex  Noir  Negro   50'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00P0ZJXEO/?tag=tolees0d-21'
 descuento: '91.18'
 average: '30.87'

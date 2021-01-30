@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Belkin Chargeur à induction BOOST↑UP  7 5 W  – Chargeur sans fil pour iPhone XS  XS Max  XR  X  8  8+  compatible avec Samsung  LG  Sony et autre'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075MPHS14/?tag=tolees0d-21'
 descuento: '47.85'
 average: '33.89'

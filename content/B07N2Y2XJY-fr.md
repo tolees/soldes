@@ -16,6 +16,7 @@ comparePrice: 280.0 EUR
 prodname: 'Orient Horloge FAC0000CA0'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N2Y2XJY/?tag=tolees0d-21'
 descuento: '45.94'
 average: '151.38'

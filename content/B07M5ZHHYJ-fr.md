@@ -16,6 +16,7 @@ comparePrice: 109.9 EUR
 prodname: 'Supra Vaider Chaussures de Skateboard Mixte Adulte  Rouge  Wine-White-M 697  42.5 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07M5ZHHYJ/?tag=tolees0d-21'
 descuento: '41.89'
 average: '63.86'

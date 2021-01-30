@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de lecture allant jusqu à 200 Mo/s'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01NARBPI7/?tag=tolees0d-21'
 descuento: '36.68'
 average: '18.99'

@@ -16,6 +16,7 @@ comparePrice: 14.99 EUR
 prodname: 'Slave to The Sword'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00HAH7GJ4/?tag=tolees0d-21'
 descuento: '41.76'
 average: '8.73'

@@ -16,6 +16,7 @@ comparePrice: 456.0 EUR
 prodname: 'Synology DS718+ 2 Bay Bureau Boîtier NAS'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075DB49FN/?tag=tolees0d-21'
 descuento: '21.05'
 average: '359.99'

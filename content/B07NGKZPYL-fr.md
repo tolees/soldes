@@ -16,6 +16,7 @@ comparePrice: 198.0 EUR
 prodname: 'Thomas Sabo montre CODE TS unisexe Acier inoxydable WA0338-201-202-40 mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NGKZPYL/?tag=tolees0d-21'
 descuento: '41.96'
 average: '114.92'

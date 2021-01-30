@@ -16,6 +16,7 @@ comparePrice: 30.08 EUR
 prodname: 'Better Call Saul-Saison 1 [Blu-Ray + Copie Digitale]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00UT9FOJE/?tag=tolees0d-21'
 descuento: '83.31'
 average: '5.02'

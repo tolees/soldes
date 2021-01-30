@@ -16,6 +16,7 @@ comparePrice: 112.0 EUR
 prodname: 'Thule 962100 Barres de Toit WingBar 962 en Aluminium-Argenté  Gris  Longueur 135 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005VNFHYK/?tag=tolees0d-21'
 descuento: '50.76'
 average: '55.15'

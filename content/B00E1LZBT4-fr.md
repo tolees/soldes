@@ -16,6 +16,7 @@ comparePrice: 15.05 EUR
 prodname: 'Le Roi et l Oiseau [Combo Blu-Ray + DVD + Copie Digitale]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00E1LZBT4/?tag=tolees0d-21'
 descuento: '33.62'
 average: '9.99'

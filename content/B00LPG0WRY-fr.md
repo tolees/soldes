@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x 31 x 19 5 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00LPG0WRY/?tag=tolees0d-21'
 descuento: '31.25'
 average: '55.0'

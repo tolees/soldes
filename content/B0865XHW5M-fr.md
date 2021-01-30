@@ -16,6 +16,7 @@ comparePrice: 18.99 EUR
 prodname: 'MMCRRX M.2 NVMe SSD Ultra adpater Karte  Pcie 3.0 X4 GEN3  M Key 2230/2242/2260/2280 Hispeed inteface  kompatibel mit S 960/970 Evo/Pro Intel 760P / 660P'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0865XHW5M/?tag=tolees0d-21'
 descuento: '21.06'
 average: '14.99'

@@ -16,6 +16,7 @@ comparePrice: 69.0 EUR
 prodname: 'Scotch & Soda R´Belle 2-in-1 Style: Long Sleeve Lurex Tee with Inner Tank T-Shirt  Multicolore  Combo A 217   128 Fille'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CNRFWGX/?tag=tolees0d-21'
 descuento: '25.19'
 average: '51.62'

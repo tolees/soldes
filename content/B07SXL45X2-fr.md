@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Death Stranding - Special Edition'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SXL45X2/?tag=tolees0d-21'
 descuento: '50.01'
 average: '39.99'

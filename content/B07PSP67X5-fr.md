@@ -16,6 +16,7 @@ comparePrice: 22.99 EUR
 prodname: 'Bakugan Starter Pack Set Assortment  Assort   6045144  Multicolor'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PSP67X5/?tag=tolees0d-21'
 descuento: '37.36'
 average: '14.4'

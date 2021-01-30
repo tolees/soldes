@@ -16,6 +16,7 @@ comparePrice: 113.29 EUR
 prodname: 'Trilobite Jean de Moto'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MTASJIR/?tag=tolees0d-21'
 descuento: '20.00'
 average: '90.63'

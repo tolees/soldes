@@ -16,6 +16,7 @@ comparePrice: 34.95 EUR
 prodname: 'The Bellies - Poupon Interactive Pinky-Twink  Famosa 700014563   Multicouleur'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BFR4G5H/?tag=tolees0d-21'
 descuento: '38.37'
 average: '21.54'

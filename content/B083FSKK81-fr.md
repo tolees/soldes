@@ -16,6 +16,7 @@ comparePrice: 68.99 EUR
 prodname: 'BRIKSMAX Kit de LED pour Lego Hidden Side L’école hantée Compatible avec la Maquette Lego 70425  La Maquette de Construction n est Pas Incluse'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083FSKK81/?tag=tolees0d-21'
 descuento: '28.99'
 average: '48.99'

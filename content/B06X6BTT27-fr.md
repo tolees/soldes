@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Rowenta VU6620F0 Ventilateur Colonne sur Pied Eole Infinite 3 Vitesses Tour Oscillation Minuterie 40W'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06X6BTT27/?tag=tolees0d-21'
 descuento: '37.50'
 average: '74.99'

@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Spa Luxetique Coffret Cadeau Crème Mains  Cadeau Anniversaire Femme  Hydratant pour Mains Sèches  Crème pour les Mains à l Aloès Naturel et à la Vitamine E  Format Voyage de 6'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VPCBKG1/?tag=tolees0d-21'
 descuento: '50.03'
 average: '9.99'

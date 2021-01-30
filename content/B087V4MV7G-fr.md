@@ -16,6 +16,7 @@ comparePrice: 11.99 EUR
 prodname: 'Pin’s Guitare Geepins | Magnifique Broche Miniature Fender Tele | 52 mm | À Porter sur un Sac à Dos  une Chemise  une Veste  un Revers  ou un Chapeau | Présenté dans Très Joli Étui à Guitare'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B087V4MV7G/?tag=tolees0d-21'
 descuento: '50.04'
 average: '5.99'

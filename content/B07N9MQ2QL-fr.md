@@ -16,6 +16,7 @@ comparePrice: 95.0 EUR
 prodname: 'Samsonite Sac à dos loisir  116873/1041  Jaune foncé  Jaune  - 116873/2251'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N9MQ2QL/?tag=tolees0d-21'
 descuento: '37.28'
 average: '59.58'

@@ -16,6 +16,7 @@ comparePrice: 50.0 EUR
 prodname: 'Corolle- Lilou Poupon  130190  Rose'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083ZQ1JYQ/?tag=tolees0d-21'
 descuento: '24.96'
 average: '37.52'

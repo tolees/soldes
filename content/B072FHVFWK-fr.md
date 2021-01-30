@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Otterbox Batterie externe Powerbank 20 000 mAh'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B072FHVFWK/?tag=tolees0d-21'
 descuento: '62.51'
 average: '29.99'

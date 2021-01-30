@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Apple AirPods avec boîtier de charge filaire  2e génération '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PZR3PVB/?tag=tolees0d-21'
 descuento: '22.35'
 average: '139.0'

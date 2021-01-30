@@ -16,6 +16,7 @@ comparePrice: 12.99 EUR
 prodname: 'Philips Ampoule LED Standard Dépolie Culot E27 6 W Watts Consommés Équivalence Incandescence 40W'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00L5FBYVI/?tag=tolees0d-21'
 descuento: '67.13'
 average: '4.535'

@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Casque Gaming EKSA E900 Casque PS4 Micro Casque Gamer PC Casque Audio Filaire avec Jack 3.5MM pour Xbox Nintendo Switch Podcast PC Tablette Smartphone'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BJ54RXH/?tag=tolees0d-21'
 descuento: '34.79'
 average: '29.99'

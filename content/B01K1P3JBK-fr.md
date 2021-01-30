@@ -16,6 +16,7 @@ comparePrice: 22.95 EUR
 prodname: 'St Marc Lingettes Nettoyantes Désinfectantes et Antibactériennes - 40 Lingettes Extra-Larges - Lot de 3'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01K1P3JBK/?tag=tolees0d-21'
 descuento: '21.35'
 average: '19.06875'

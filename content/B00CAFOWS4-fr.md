@@ -16,6 +16,7 @@ comparePrice: 105.0 EUR
 prodname: 'Aigle - Miss Juliette - Botte de pluie - Femme - Bleu  Marine/Rouge  - 40 EU  6.5 UK '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00CAFOWS4/?tag=tolees0d-21'
 descuento: '58.48'
 average: '43.6'

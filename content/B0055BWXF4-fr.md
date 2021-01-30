@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Fossil Homme Chronographe Quartz Montre avec Bracelet en Cuir FS4656'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0055BWXF4/?tag=tolees0d-21'
 descuento: '51.88'
 average: '101.454'

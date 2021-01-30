@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Rolimate Puzzles en Bois Jouet Bébé 3D Puzzles  Jouets Montessori Enfant 3 4 5 6 Ans  Bébés Animaux Jeux Educatif Apprentissage pour Bébé Puzzle à Encastrements Cadeau d anniversaire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B085RDYFPH/?tag=tolees0d-21'
 descuento: '18.53'
 average: '21.99'

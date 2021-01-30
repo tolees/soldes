@@ -16,6 +16,7 @@ comparePrice: 45.01 EUR
 prodname: 'La Crosse Technology WS9611 Station Météo Mister Météo - Argent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B002W1YQF0/?tag=tolees0d-21'
 descuento: '15.91'
 average: '37.85'

@@ -16,6 +16,7 @@ comparePrice: 790.0 EUR
 prodname: 'Louis Cottier - Montre Tradition Skelette Automatique - HB3020C1BC1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y6V63HG/?tag=tolees0d-21'
 descuento: '79.87'
 average: '159.0'

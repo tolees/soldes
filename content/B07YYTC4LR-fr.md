@@ -16,6 +16,7 @@ comparePrice: 110.41 EUR
 prodname: 'Silvian Heach Dress Bohebe Robe  Multicolore  Fant.Uniq Fant.Uniq   Large Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YYTC4LR/?tag=tolees0d-21'
 descuento: '20.00'
 average: '88.33'

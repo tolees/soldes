@@ -16,6 +16,7 @@ comparePrice: 275.0 EUR
 prodname: 'Chie Mihara abra  Sandales Bride Cheville Femmes  Noir  Ante Negro Ante Sun Ante Negro Ante Negro Ante Sun Ante Negro   38 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YMGTJG9/?tag=tolees0d-21'
 descuento: '49.44'
 average: '139.05'

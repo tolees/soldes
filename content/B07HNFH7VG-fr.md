@@ -16,6 +16,7 @@ comparePrice: 15.05 EUR
 prodname: 'Borsalino [Édition Prestige-Version Restaurée]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HNFH7VG/?tag=tolees0d-21'
 descuento: '33.62'
 average: '9.99'

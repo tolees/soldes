@@ -16,6 +16,7 @@ comparePrice: 37.95 EUR
 prodname: 'IKOHS Pro Wellness - Pèse Personne  Blanc '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NY3GSWX/?tag=tolees0d-21'
 descuento: '27.54'
 average: '27.5'

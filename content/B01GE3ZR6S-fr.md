@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'Le Monde de Dory [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01GE3ZR6S/?tag=tolees0d-21'
 descuento: '37.77'
 average: '12.44'

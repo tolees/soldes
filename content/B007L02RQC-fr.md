@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Dugena - 7000120 - Montre Femme - Quartz Analogique - Bracelet Acier Inoxydable Argent'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B007L02RQC/?tag=tolees0d-21'
 descuento: '34.03'
 average: '118.09'

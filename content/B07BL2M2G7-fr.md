@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'New Balance 1500v5  Running Femme  Blanc  White/Green White/Green   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BL2M2G7/?tag=tolees0d-21'
 descuento: '39.20'
 average: '72.9'

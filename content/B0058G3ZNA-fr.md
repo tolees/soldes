@@ -16,6 +16,7 @@ comparePrice: 349.99 EUR
 prodname: 'Objectif Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R  zoom standard  compatible tout appareil Micro 4/3  modèles Olympus OM-D & PEN  Panasonic G-series   noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0058G3ZNA/?tag=tolees0d-21'
 descuento: '48.57'
 average: '179.99'

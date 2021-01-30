@@ -16,6 +16,7 @@ comparePrice: 21.0 EUR
 prodname: 'Stanley 1-93-981 Organiseur 39 Compartiments - Ossature En Polypropylène - Superposition Ou Fixation Murale possibles - 8 Étages - 33 6 X 16 X 44 5 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008DHZXY0/?tag=tolees0d-21'
 descuento: '27.62'
 average: '15.2'

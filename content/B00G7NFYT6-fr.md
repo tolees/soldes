@@ -16,6 +16,7 @@ comparePrice: 131.65 EUR
 prodname: 'Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00G7NFYT6/?tag=tolees0d-21'
 descuento: '51.32'
 average: '64.09'

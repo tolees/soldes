@@ -16,6 +16,7 @@ comparePrice: 300.0 EUR
 prodname: 'Oral-B Genius 10 Midnight Black Brosse À Dents Électrique Par Braun'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FSHNVDF/?tag=tolees0d-21'
 descuento: '44.66'
 average: '166.03'

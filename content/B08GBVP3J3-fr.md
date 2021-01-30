@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit Couplage Automatique  IPX7 écouteurs Sportifs stéréo étanches Intégré HD Mic Casques Surround 3D stéréo  Étanche Écouteurs sans Fil - Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08GBVP3J3/?tag=tolees0d-21'
 descuento: '70.01'
 average: '29.99'

@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'eXtremeRate Coque Avant Housse Boîtier Kit de Remplacement avec Anneaux de Joystick pour Xbox One Elite Série 2 Manette Contrôleur Modèle 1797-Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08K8FZVCV/?tag=tolees0d-21'
 descuento: '40.02'
 average: '14.99'

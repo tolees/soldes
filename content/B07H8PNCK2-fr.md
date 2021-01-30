@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'Nero Platinum 2019'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H8PNCK2/?tag=tolees0d-21'
 descuento: '56.93'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 450.26 EUR
 prodname: 'PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition Graphics Card'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MBV163Z/?tag=tolees0d-21'
 descuento: '25.61'
 average: '334.96'

@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Sword Art Online Alicization Lycoris  Xbox One '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082PQTRWZ/?tag=tolees0d-21'
 descuento: '21.43'
 average: '54.99'

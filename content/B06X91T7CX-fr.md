@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'GreedFall'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06X91T7CX/?tag=tolees0d-21'
 descuento: '59.13'
 average: '20.43'

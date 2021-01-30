@@ -16,6 +16,7 @@ comparePrice: 21.99 EUR
 prodname: 'FM London Lot de 5 Boxer Hommes avec technologie de protection contre les odeurs HyFresh | Boxer 24 heures sans étiquette Super Doux  Bleu  Blue -XXL'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B077HMSDJP/?tag=tolees0d-21'
 descuento: '15.01'
 average: '18.69'

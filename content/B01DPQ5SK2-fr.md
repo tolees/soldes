@@ -16,6 +16,7 @@ comparePrice: 56.99 EUR
 prodname: 'Bionaire - BSF002 - ventilateur de bureau - modèle à oscillation - design respectueux de l’environnement - diamètre de 30 cm - finition blanche'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01DPQ5SK2/?tag=tolees0d-21'
 descuento: '31.27'
 average: '39.17'

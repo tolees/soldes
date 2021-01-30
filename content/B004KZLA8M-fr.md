@@ -16,6 +16,7 @@ comparePrice: 9.9 EUR
 prodname: 'Puressentiel - Respiratoire - Huiles Essentielles pour Diffusion - Diffuse Respi - 100% pures et naturelles - Aide à respirer librement - 30 ml'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B004KZLA8M/?tag=tolees0d-21'
 descuento: '29.39'
 average: '6.99'

@@ -16,6 +16,7 @@ comparePrice: 3.9 EUR
 prodname: 'Triplite 3x 16A triangulaire - Blanc - Zenitech'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00CQP7D52/?tag=tolees0d-21'
 descuento: '62.31'
 average: '1.47'

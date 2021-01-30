@@ -16,6 +16,7 @@ comparePrice: 179.99 EUR
 prodname: 'Jabra Elite Active 65 t Écouteurs de Sport Bluetooth à Isolation Passive du Bruit avec Capteur de Mouvement pour le Suivi - Sans Fil - Bleu Cuivre'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BHY7M8P/?tag=tolees0d-21'
 descuento: '33.89'
 average: '119.0'

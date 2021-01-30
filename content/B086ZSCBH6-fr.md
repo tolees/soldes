@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Écouteurs Bluetooth  Bluedio P Particle  Écouteurs sans Fil Stéréo  24 Heures d Autonomie avec Étui de Chargement  Appariement Automatique  Mini TWS Oreillettes Bluetooth 5.0 pour Android et iOS'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B086ZSCBH6/?tag=tolees0d-21'
 descuento: '15.01'
 average: '25.49'

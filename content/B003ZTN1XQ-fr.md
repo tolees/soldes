@@ -16,6 +16,7 @@ comparePrice: 172.39 EUR
 prodname: 'Inox Robinet mitigeur douche en acier inoxydable haut de gamme satinée neuf'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B003ZTN1XQ/?tag=tolees0d-21'
 descuento: '60.00'
 average: '68.96'

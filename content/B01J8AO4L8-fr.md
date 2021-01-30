@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec Bracelet en Plastique GA-100L-2AER'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01J8AO4L8/?tag=tolees0d-21'
 descuento: '43.44'
 average: '56.5'

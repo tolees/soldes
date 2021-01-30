@@ -16,6 +16,7 @@ comparePrice: 245.99 EUR
 prodname: 'Safavieh Tapis Intérieur et Extérieur  Tissé Polypropylène Tapis en Gris Clair / Ivoire  120 X 180 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00PQB4PH2/?tag=tolees0d-21'
 descuento: '71.05'
 average: '71.21'

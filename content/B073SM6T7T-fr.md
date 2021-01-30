@@ -16,6 +16,7 @@ comparePrice: 13.76 EUR
 prodname: 'Snow'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B073SM6T7T/?tag=tolees0d-21'
 descuento: '49.20'
 average: '6.99'

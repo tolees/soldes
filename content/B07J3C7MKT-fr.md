@@ -16,6 +16,7 @@ comparePrice: 40.0 EUR
 prodname: 'Under Armour Scrimmage 2.0 Sac à Dos Mixte  Rouge  Taille unique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07J3C7MKT/?tag=tolees0d-21'
 descuento: '56.65'
 average: '17.34'

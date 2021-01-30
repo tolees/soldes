@@ -16,6 +16,7 @@ comparePrice: 399.99 EUR
 prodname: 'ASUS TUF Gaming VG279QM - Ecran PC Gamer eSport 27" FHD - Dalle IPS - 280Hz - 1ms - 16:9 - 1920x1080 - 400cd/m² - Display Port & 2x HDMI - Nvidia G-Sync - Extreme Low Motion Blur - HDR 400'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083S89GJR/?tag=tolees0d-21'
 descuento: '25.00'
 average: '299.99'

@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Logitech G502 HERO Souris Gamer Filaire Haute Performance  Capteur Gaming HERO 16K  16000 PPP  RVB  Poids Ajustable  11 Boutons Programmables  Mémoire Intégrée  Compatible avecPC/Mac - Noire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GS6ZB7T/?tag=tolees0d-21'
 descuento: '37.43'
 average: '56.37'

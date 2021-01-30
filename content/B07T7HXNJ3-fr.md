@@ -16,6 +16,7 @@ comparePrice: 1257.99 EUR
 prodname: 'LINDY Switch de Présentation Pro avec Extender HDBaseT'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07T7HXNJ3/?tag=tolees0d-21'
 descuento: '19.68'
 average: '1010.39'

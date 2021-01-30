@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  Manette Switch Pro pour Nintendo Switch Pro/ Lite et PC  Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0874BF8YK/?tag=tolees0d-21'
 descuento: '63.01'
 average: '36.99'

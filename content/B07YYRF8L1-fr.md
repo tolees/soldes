@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'MILLET Tekapo Hoodie M Veste Polaire Homme  Black-Noir  FR : S  Taille Fabricant : S '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YYRF8L1/?tag=tolees0d-21'
 descuento: '34.63'
 average: '78.44'

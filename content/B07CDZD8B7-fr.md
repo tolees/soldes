@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Marshall Major III Casque Audio Bluetooth - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CDZD8B7/?tag=tolees0d-21'
 descuento: '54.36'
 average: '68.46'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'PROACC Tapis de Jeu pour Piano  Jouet de Tapis de Musique pour Piano pour Enfants  Tapis de Danse drôle de Grande Taille  39 * 14 Pouces  pour bébés  Cadeau garçons et Filles pour Tout-Petits'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07J6QKXFC/?tag=tolees0d-21'
 descuento: '55.01'
 average: '17.99'

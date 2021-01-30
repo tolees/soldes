@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y3C4FCJ/?tag=tolees0d-21'
 descuento: '50.01'
 average: '19.99'

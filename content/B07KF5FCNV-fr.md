@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Levi s Type 3 Veste en Jean  Bleu  Palmer Sherpa Trucker 0105   Medium Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KF5FCNV/?tag=tolees0d-21'
 descuento: '50.78'
 average: '63.48'

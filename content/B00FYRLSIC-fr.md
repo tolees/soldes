@@ -16,6 +16,7 @@ comparePrice: 1000.0 EUR
 prodname: 'Sony Objectif Zeiss SEL-2470Z Monture E Plein Format 24-70 mm F4.0'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00FYRLSIC/?tag=tolees0d-21'
 descuento: '20.10'
 average: '799.0'

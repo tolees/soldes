@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21'
 descuento: '40.01'
 average: '38.56142857142857'

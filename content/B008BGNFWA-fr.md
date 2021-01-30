@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Lansay - 75024 - Jeu de Société - Les Mystères de Pékin'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008BGNFWA/?tag=tolees0d-21'
 descuento: '27.01'
 average: '21.89'

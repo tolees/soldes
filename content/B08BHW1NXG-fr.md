@@ -16,6 +16,7 @@ comparePrice: 68.0 EUR
 prodname: 'Disque Dur Externe 1to  Disque Dur Externe USB-C Portable pour PC  Mac  Xbox One  MacBook  Desktop  Laptop 1To Argent '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BHW1NXG/?tag=tolees0d-21'
 descuento: '29.43'
 average: '47.99'

@@ -16,6 +16,7 @@ comparePrice: 264.99 EUR
 prodname: 'Jabra BIZ™ 2400 II Duo  NOUVELLE GENERATION - Type: 72 UNC  UNC = Ultra-Noise-Cancelling  microphone ultra anti-bruit'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21'
 descuento: '28.12'
 average: '190.48'

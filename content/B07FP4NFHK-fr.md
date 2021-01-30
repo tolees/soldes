@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: 'Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme  Bleu  Obsidian/White 451   FR : L  Taille Fabricant : L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FP4NFHK/?tag=tolees0d-21'
 descuento: '39.47'
 average: '54.47'

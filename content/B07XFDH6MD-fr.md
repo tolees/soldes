@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Huawei Watch GT 2 Montre Connectée  GPS  Boîtier 46 mm   Écran AMOLED 1 39 pouces avec Écran en Verre 3D  Autonomie de 2 Semaines  GPS  15 Modes Sportifs  Smartwatch de Bluetooth  Marron Pebble'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07XFDH6MD/?tag=tolees0d-21'
 descuento: '32.81'
 average: '167.98'

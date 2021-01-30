@@ -16,6 +16,7 @@ comparePrice: 185.97 EUR
 prodname: 'SONAX 02465000  ProfiLine cutmax 5  l'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01GTEMGN4/?tag=tolees0d-21'
 descuento: '57.40'
 average: '79.23'

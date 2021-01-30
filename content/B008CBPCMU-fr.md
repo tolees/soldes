@@ -16,6 +16,7 @@ comparePrice: 45.41 EUR
 prodname: 'sloggi Chic Maxi 4P  Culotte Femme  Lot de 4 Noir  BLACK 0004  FR:48 EU: 46'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008CBPCMU/?tag=tolees0d-21'
 descuento: '19.05'
 average: '36.76'

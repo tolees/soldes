@@ -16,6 +16,7 @@ comparePrice: 34.5 EUR
 prodname: 'DE BUYER -3125.16 -moule a charlotte inox 18/10s/couv.ø16'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001CFI9A0/?tag=tolees0d-21'
 descuento: '31.57'
 average: '23.61'

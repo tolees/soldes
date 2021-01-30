@@ -16,6 +16,7 @@ comparePrice: 110.0 EUR
 prodname: 'Merrell Bare Access XTR  Chaussures de Trail Femme  Bleu  Dazzle   36 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005BK8RYA/?tag=tolees0d-21'
 descuento: '54.55'
 average: '50.0'

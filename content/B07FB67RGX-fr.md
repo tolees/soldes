@@ -16,6 +16,7 @@ comparePrice: 45.69 EUR
 prodname: 'Chaussures Femmes Sport Trainers Confort Poids Léger Woven Mode Marchant Baskets - Noir3 - Taille 37 CN'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FB67RGX/?tag=tolees0d-21'
 descuento: '60.82'
 average: '17.9'

@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Audio Technica ATH-ANC500BTBK Bluetooth Wireless Active Noise-Cancelling Over-Ear Headphones with Microphone  Black '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N3XXWC3/?tag=tolees0d-21'
 descuento: '29.30'
 average: '69.99'

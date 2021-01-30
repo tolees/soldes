@@ -16,6 +16,7 @@ comparePrice: 19.99 EUR
 prodname: 'eXtremeRate Joystick de Remplacement 3D Bicolores  Stick Analogique avec Tournevis Cruciforme pour Playstation 4 PS4 Slim Pro Manette-Violet Clair & Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CDMSJTS/?tag=tolees0d-21'
 descuento: '50.03'
 average: '9.99'

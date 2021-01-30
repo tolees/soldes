@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Pikolinos Bottines en Cuir Le Mans 838'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07PFXHSLJ/?tag=tolees0d-21'
 descuento: '61.12'
 average: '66.07'

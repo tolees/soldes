@@ -16,6 +16,7 @@ comparePrice: 12.85 EUR
 prodname: 'SANFASHION Solde Sweat Femme avec Capuche Chat Cadeau Saint Valentin 2020 Nouveau Sweat Chapeau Polaire Chaud Col Chic Tops Mode Grande Taille Hiver Vetement Sweat Shirt Hooded Pull Hoodies'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07J4ZYD9R/?tag=tolees0d-21'
 descuento: '45.60'
 average: '6.99'

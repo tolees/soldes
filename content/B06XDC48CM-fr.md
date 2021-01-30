@@ -16,6 +16,7 @@ comparePrice: 13.0 EUR
 prodname: 'BIC Kids Kid Couleur Feutres de Coloriage à Pointe Moyenne - Couleurs Assorties  Etui Carton de 36'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06XDC48CM/?tag=tolees0d-21'
 descuento: '58.46'
 average: '5.4'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Truck Driver pour PS4'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FDKWPLS/?tag=tolees0d-21'
 descuento: '31.26'
 average: '27.49'

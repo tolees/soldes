@@ -16,6 +16,7 @@ comparePrice: 219.0 EUR
 prodname: 'Vera Mont VM 8028/4000 Robe de soirée  Bleu  Night Sky 8541   42  Taille Fabricant: 40  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TYDZ94P/?tag=tolees0d-21'
 descuento: '65.45'
 average: '71.875'

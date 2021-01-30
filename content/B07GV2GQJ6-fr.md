@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Diablo III : Eternal Collection pour Nintendo Switch'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GV2GQJ6/?tag=tolees0d-21'
 descuento: '23.72'
 average: '44.9'

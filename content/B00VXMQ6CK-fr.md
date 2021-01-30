@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'G-STAR RAW 3301 Straight Tapered Jeans  Bleu  DK Aged 7209-89   31W / 32L Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00VXMQ6CK/?tag=tolees0d-21'
 descuento: '15.56'
 average: '75.95'

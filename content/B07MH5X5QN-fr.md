@@ -16,6 +16,7 @@ comparePrice: 77.37 EUR
 prodname: 'Chi Chi London Chi Delia Dress Robe  Bleu  Navy Navy   38  Taille Fabricant: UK 10  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MH5X5QN/?tag=tolees0d-21'
 descuento: '63.95'
 average: '27.89'

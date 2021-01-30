@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Belkin Batterie externe Valet Charger pour Apple Watch et iPhone  6 700 mAh  - Chargeur certifié MFi et compatible avec l’iPhone XS  iPhone XS Max  iPhone XR  Apple Watch Series 4 et autres'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01LX2SKMX/?tag=tolees0d-21'
 descuento: '26.50'
 average: '73.49'

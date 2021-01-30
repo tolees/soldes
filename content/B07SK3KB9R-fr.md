@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Corsair HS35 Casque de Gaming Stéréo  Écouteurs Néodyme de 50 mm  Microphone Unidirectionnel Amovible  Conception Légère avec PC  Xbox One  PS4  Nintendo Switch et Mobiles Compatibilité  - Carbone'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SK3KB9R/?tag=tolees0d-21'
 descuento: '21.48'
 average: '38.57666666666667'

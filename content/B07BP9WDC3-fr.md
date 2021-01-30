@@ -16,6 +16,7 @@ comparePrice: 1243.99 EUR
 prodname: 'QNAP TS-253BE-2G 16 to  Solution NAS de Bureau à 2 Baies | Installé avec 2 Disques Seagate Ironwolf Pro de 8 to'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07BP9WDC3/?tag=tolees0d-21'
 descuento: '16.59'
 average: '1037.57'

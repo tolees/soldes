@@ -16,6 +16,7 @@ comparePrice: 54.95 EUR
 prodname: 'Zéfal Z Traveler sacoche de porte-bagage'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01K7VORFU/?tag=tolees0d-21'
 descuento: '54.52'
 average: '24.99'

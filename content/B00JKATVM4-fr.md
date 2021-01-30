@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21'
 descuento: '43.38'
 average: '16.98'

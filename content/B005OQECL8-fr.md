@@ -16,6 +16,7 @@ comparePrice: 209.99 EUR
 prodname: 'Dremel 4000 Edition Platinium Outil Rotatif Multifonction 175W avec 6 Adaptations 128 Accessoires  Vitesse Variable 5000-35000 tr/min pour Découper  Poncer  Percer  Graver  Polir  Sculpter  Meuler'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005OQECL8/?tag=tolees0d-21'
 descuento: '17.07'
 average: '174.15'

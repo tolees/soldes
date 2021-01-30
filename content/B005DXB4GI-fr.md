@@ -16,6 +16,7 @@ comparePrice: 119.9 EUR
 prodname: 'Geox U Monet Art.V  Mocassins  Loafers  Homme  Noir  Blackc9999   46 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B005DXB4GI/?tag=tolees0d-21'
 descuento: '15.66'
 average: '101.12'

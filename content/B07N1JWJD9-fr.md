@@ -16,6 +16,7 @@ comparePrice: 150.0 EUR
 prodname: 'Clarks Un Venturehi  Botines Femme  Noir  Black Combi Black Combi   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N1JWJD9/?tag=tolees0d-21'
 descuento: '50.03'
 average: '74.95'

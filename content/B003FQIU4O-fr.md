@@ -16,6 +16,7 @@ comparePrice: 79.15 EUR
 prodname: 'Cuisinart CH4DCE Mini-Préparateur Double sens Rotation  Hacher  Mixer  Fouetter  Émulsionner  Moudre'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B003FQIU4O/?tag=tolees0d-21'
 descuento: '20.68'
 average: '62.78'

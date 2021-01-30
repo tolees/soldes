@@ -16,6 +16,7 @@ comparePrice: 114.99 EUR
 prodname: 'Playmobil - 6978 - Jeu - Bateau de Croisière'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01EKBCUAW/?tag=tolees0d-21'
 descuento: '20.01'
 average: '91.98'

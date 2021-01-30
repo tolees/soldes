@@ -16,6 +16,7 @@ comparePrice: 36.99 EUR
 prodname: 'RAMPOW Chargeur USB C 36W Power Delivery 3.0  Chargeur Secteur Mural USB Type C 2 Ports pour iPhone 11/11 Pro / 11 Pro Max  iPad Pro  Airpods Pro  Xiaomi  Oneplus  Huawei - Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B088H5HSD2/?tag=tolees0d-21'
 descuento: '40.55'
 average: '21.99'

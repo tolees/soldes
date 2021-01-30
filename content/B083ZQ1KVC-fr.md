@@ -16,6 +16,7 @@ comparePrice: 13.99 EUR
 prodname: 'Atolla Adaptateur USB Ethernet RJ45  Réseau Adaptateur USB 3.0 Ethernet Gigabit à 1000 Mbps avec Adaptateur USB C pour Macbook  LAN USB Compatible avec Nintendo Switch Mac OS Windows 10/8/7 Linux'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B083ZQ1KVC/?tag=tolees0d-21'
 descuento: '15.08'
 average: '12.9375'

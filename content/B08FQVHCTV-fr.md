@@ -16,6 +16,7 @@ comparePrice: 54.99 EUR
 prodname: '/ Mḁs-tûr-bḁtḔûr HṎ-mmḔ RḔ-ḁlistḔ PṎ-ûr AûtṎ-mḁtiqùḔ ElḔ-çtriqüḔ ḁ-nüs Disçret và Vient Màs-türbàtéurs Màs-çülins'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FQVHCTV/?tag=tolees0d-21'
 descuento: '60.01'
 average: '21.99'

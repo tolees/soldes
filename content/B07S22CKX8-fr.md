@@ -16,6 +16,7 @@ comparePrice: 243.0 EUR
 prodname: 'Love MoschinoJc4003pp1afemmeSacs bandoulièreNoir  Nero 13x25x34 centimeters  W x H x L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S22CKX8/?tag=tolees0d-21'
 descuento: '58.26'
 average: '101.44'

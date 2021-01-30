@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'VAUDE Herren Farley  Pantalons étendue II  noir  48 / S  04574'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00BXL13LU/?tag=tolees0d-21'
 descuento: '71.82'
 average: '28.18'

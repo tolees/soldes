@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'Tom Clancy s The Division 2 - Edition Gold'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07GRJLZQN/?tag=tolees0d-21'
 descuento: '66.16'
 average: '33.84'

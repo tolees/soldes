@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Columbia Peakfreak Venture S II Mid WP  Chaussures Multisport Homme  Beige  Elk  Flame   43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KK2NZRJ/?tag=tolees0d-21'
 descuento: '18.14'
 average: '106.41'

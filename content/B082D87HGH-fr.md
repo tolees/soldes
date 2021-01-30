@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Lintelek Montre Connectée Intelligente Homme Femme Ecran Tactile  Smartwatch Cardio Fréquence Bracelet Connecté Tracker d’activité Podomètre Compatible avec iPhone Samsung Huawei'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082D87HGH/?tag=tolees0d-21'
 descuento: '20.00'
 average: '39.99'

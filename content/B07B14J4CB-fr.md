@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'LEGO Unikitty - La fête - 41453 - Jeu de construction'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B14J4CB/?tag=tolees0d-21'
 descuento: '24.55'
 average: '24.55666666666667'

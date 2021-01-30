@@ -16,6 +16,7 @@ comparePrice: 12.22 EUR
 prodname: 'Luminarc Pure Box Active Boîte de Conservation hermétique en verre  rectangulaire  1 97 L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00JLRHOXY/?tag=tolees0d-21'
 descuento: '55.40'
 average: '5.45'

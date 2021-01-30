@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger - New Chiara Str Pq Polo SSPolo - Femme - Blanc  100 Classic White  - FR : 36  Taille fabricant : S '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00DW47HCA/?tag=tolees0d-21'
 descuento: '15.66'
 average: '50.52'

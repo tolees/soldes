@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'Ecouteurs Bluetooth 5.0 Écouteur sans Fil avec Anti-Bruit CVC 8.0  Couplage Automatique écouteurs Sport stéréo IPX5 étanches Intégré HD Mic Casques avec étui de Chargement pour iOS Android Samsung'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B087RLK1MY/?tag=tolees0d-21'
 descuento: '16.67'
 average: '29.99'

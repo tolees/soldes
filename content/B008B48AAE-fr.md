@@ -16,6 +16,7 @@ comparePrice: 599.0 EUR
 prodname: 'Sigma Objectif Macro 18-250 mm F3 5-6 3 DC OS HSM - Monture Canon'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008B48AAE/?tag=tolees0d-21'
 descuento: '50.08'
 average: '299.0'

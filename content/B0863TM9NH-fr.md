@@ -16,6 +16,7 @@ comparePrice: 20.06 EUR
 prodname: 'Birds of Prey et la fantabuleuse Histoire de Harley Quinn'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0863TM9NH/?tag=tolees0d-21'
 descuento: '20.29'
 average: '17.323333333333334'

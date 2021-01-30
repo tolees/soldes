@@ -16,6 +16,7 @@ comparePrice: 799.0 EUR
 prodname: 'Sonos Playbar Barre de son TV sans fil et enceinte wifi multiroom pour vos films  jeux vidéo et musique en streaming - compatible dolby digital  apple tv et gaming - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00BEHTKWC/?tag=tolees0d-21'
 descuento: '37.55'
 average: '499.0'

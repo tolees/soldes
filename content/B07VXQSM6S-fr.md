@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Samsung - Écouteurs sans Fil Galaxy Buds - Argent - Version Française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VXQSM6S/?tag=tolees0d-21'
 descuento: '46.16'
 average: '90.17333333333333'

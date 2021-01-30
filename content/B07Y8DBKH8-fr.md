@@ -16,6 +16,7 @@ comparePrice: 382.99 EUR
 prodname: 'Vidéoprojecteur  WiMiUS 7000 Lumens Full HD 1920x1080P Natif Vidéo Projecteur Supporte 4K Son AC3 HiFi SoundBar Rétroprojecteur  Réglage Digital 4D  avec VGA HDMI AV USB pour Home Cinéma PS4 PPT'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Y8DBKH8/?tag=tolees0d-21'
 descuento: '51.18'
 average: '186.99'

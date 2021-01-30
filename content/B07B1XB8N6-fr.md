@@ -16,6 +16,7 @@ comparePrice: 64.95 EUR
 prodname: 'Skechers Women s Go Walk Evolution Ultra-Reach Slip On Trainers  Purple  Mauve Mve   7 UK   40 EU '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07B1XB8N6/?tag=tolees0d-21'
 descuento: '23.09'
 average: '49.95'

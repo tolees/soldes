@@ -16,6 +16,7 @@ comparePrice: 89.95 EUR
 prodname: 'Puma Basket Heart Patent  Baskets Basses Femme  Noir  Black-Black   36 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01MQM30C5/?tag=tolees0d-21'
 descuento: '58.89'
 average: '36.98'

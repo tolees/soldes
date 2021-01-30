@@ -16,6 +16,7 @@ comparePrice: 130.0 EUR
 prodname: 'Merrell Moab 2 GTX  Chaussures de Randonnée Basses Femme  Gris  Beluga/Olive   37 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07D9GTTKX/?tag=tolees0d-21'
 descuento: '43.85'
 average: '72.99'

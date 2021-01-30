@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Montre Connectée Homme  UMIDIGI Uwatch 2S Smartwatch Femmes 5ATM Etanche Bracelet Connecté Montre Sport Moniteur de Fréquence Cardiaque Compteur de Pas Fitness Tracker pour iPhone et Android'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DCVGDJL/?tag=tolees0d-21'
 descuento: '15.01'
 average: '25.49'

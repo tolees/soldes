@@ -16,6 +16,7 @@ comparePrice: 115.1 EUR
 prodname: 'Kai DM.0701 Couteau Universel'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0000Y7KFY/?tag=tolees0d-21'
 descuento: '24.48'
 average: '86.92'

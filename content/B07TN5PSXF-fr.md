@@ -16,6 +16,7 @@ comparePrice: 29.97 EUR
 prodname: 'UMtrade Mode Acier Inoxydable Hommes Christian Sideway Croix Bague Motard Bande Argent 17 mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TN5PSXF/?tag=tolees0d-21'
 descuento: '80.01'
 average: '5.99'

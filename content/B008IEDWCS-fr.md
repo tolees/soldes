@@ -16,6 +16,7 @@ comparePrice: 15.36 EUR
 prodname: 'Jean Mouton : Missa Dictes moy toutes voz pensées'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B008IEDWCS/?tag=tolees0d-21'
 descuento: '18.03'
 average: '12.59'

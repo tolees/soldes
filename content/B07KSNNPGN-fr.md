@@ -16,6 +16,7 @@ comparePrice: 103.0 EUR
 prodname: 'Love Moschino Love Mode Print Short Sleeve T-Shirt   White A00   40  Taille Fabricant: 42  Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07KSNNPGN/?tag=tolees0d-21'
 descuento: '15.34'
 average: '87.2'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'CubicFun 3D Puzzle Harry Potter Poudlard Castle School  Kits de Construction de modèles  Jouets de Construction de Bricolage Cadeaux pour Adultes et Enfants  197 pièces'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B086RLQRNX/?tag=tolees0d-21'
 descuento: '25.63'
 average: '34.068823529411766'

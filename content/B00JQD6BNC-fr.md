@@ -16,6 +16,7 @@ comparePrice: 148.73 EUR
 prodname: 'Dé géant aux changements de couleurs - Tora'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00JQD6BNC/?tag=tolees0d-21'
 descuento: '36.03'
 average: '95.15'

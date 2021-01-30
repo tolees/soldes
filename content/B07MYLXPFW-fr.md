@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Kaporal - Doudoune Coupe Droite - Mopa - Homme - XL - Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MYLXPFW/?tag=tolees0d-21'
 descuento: '45.99'
 average: '53.47'

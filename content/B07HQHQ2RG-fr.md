@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'LIGHTAILING Jeu De Lumières pour  Architecture La Tour Eiffel  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21019 Ne Figurant Pas sur Le Modèle '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HQHQ2RG/?tag=tolees0d-21'
 descuento: '50.01'
 average: '39.99'

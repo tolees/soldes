@@ -16,6 +16,7 @@ comparePrice: 163.99 EUR
 prodname: 'Beurer MP 100 Ensemble de Manucure Pédicure Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B015YP7AXK/?tag=tolees0d-21'
 descuento: '46.34'
 average: '87.99'

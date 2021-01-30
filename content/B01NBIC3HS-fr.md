@@ -16,6 +16,7 @@ comparePrice: 125.0 EUR
 prodname: 'Lacoste Homme Analogique Classique Quartz Montres bracelet avec bracelet en Cuir - 2010888'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01NBIC3HS/?tag=tolees0d-21'
 descuento: '20.80'
 average: '99.0'

@@ -16,6 +16,7 @@ comparePrice: 129.99 EUR
 prodname: 'Samsung SSD Interne 860 PRO  256 Go  - MZ-76P256B/EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B078WQJXND/?tag=tolees0d-21'
 descuento: '33.46'
 average: '86.49'

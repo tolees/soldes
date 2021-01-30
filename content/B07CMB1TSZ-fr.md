@@ -16,6 +16,7 @@ comparePrice: 157.99 EUR
 prodname: 'Marvel Legends - Edition Collector - Casque Electronique Black Panther'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CMB1TSZ/?tag=tolees0d-21'
 descuento: '39.40'
 average: '95.74'

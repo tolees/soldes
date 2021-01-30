@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Riviera & Bar PEJ537 Extracteur de jus  200 W  Rouge'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CW7VZWP/?tag=tolees0d-21'
 descuento: '32.40'
 average: '169.0'

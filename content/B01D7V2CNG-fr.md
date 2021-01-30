@@ -16,6 +16,7 @@ comparePrice: 347.7 EUR
 prodname: 'GPR EXHAUST SYSTEM GPREB .73.E Pot d échappement homologué FURORE NERO RC 390 2015/2016'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01D7V2CNG/?tag=tolees0d-21'
 descuento: '35.35'
 average: '224.79'

@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Hommie Montre Connectée Femme Tracker d Activité Cardio Fréquence Montre Intelligente Etanche IP67 Smartwatch Sport avec Moniteur de Sommeil Réveil  Bracelet Intelligent Podomètre pour Android iOS'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BFVGH32/?tag=tolees0d-21'
 descuento: '15.01'
 average: '25.49'

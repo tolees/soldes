@@ -16,6 +16,7 @@ comparePrice: 79.98 EUR
 prodname: 'Philips S3510/08 Rasoir électique Series 3000 rechargeable avec système ComfortCut et tondeuse de précision rétractable'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01AXLWP3A/?tag=tolees0d-21'
 descuento: '29.99'
 average: '55.99'

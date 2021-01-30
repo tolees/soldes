@@ -16,6 +16,7 @@ comparePrice: 155.0 EUR
 prodname: 'El Naturalista Rice Field  Bottes Classiques Femme  Marron  Wood Wood   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07CJ2M37R/?tag=tolees0d-21'
 descuento: '60.30'
 average: '61.54'

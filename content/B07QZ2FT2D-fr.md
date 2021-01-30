@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'VIEWTEK Micro:bit Mini Smart Robot Car V2.0 for Arduino  No Micro:bit Main Board '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QZ2FT2D/?tag=tolees0d-21'
 descuento: '33.34'
 average: '39.99'

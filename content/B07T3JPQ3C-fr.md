@@ -16,6 +16,7 @@ comparePrice: 60.19 EUR
 prodname: 'Clint Eastwood-Coffret 10 Films'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07T3JPQ3C/?tag=tolees0d-21'
 descuento: '35.22'
 average: '38.99'

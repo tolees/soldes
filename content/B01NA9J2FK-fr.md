@@ -16,6 +16,7 @@ comparePrice: 26.99 EUR
 prodname: 'Mâche-Mots - Jeu de societe Mâche-Mots Enfants Contre Parents - Jeu drole de rapidité - Version française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01NA9J2FK/?tag=tolees0d-21'
 descuento: '25.94'
 average: '19.99'

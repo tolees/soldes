@@ -16,6 +16,7 @@ comparePrice: 449.99 EUR
 prodname: 'TV LED 4K 108 cm 43HK6100'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YKZNN9D/?tag=tolees0d-21'
 descuento: '22.22'
 average: '331.604347826087'

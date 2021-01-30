@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Montre Connectée  Fitness Tracker étanche IP68 avec Fréquence Cardiaque Soins Sains pour Femmes Moniteur de Sommeil Compteur de Calorie Bracelet Intelligent Cadeau de Fête des Mères'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DKZSTBX/?tag=tolees0d-21'
 descuento: '15.00'
 average: '38.79'

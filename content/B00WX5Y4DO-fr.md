@@ -16,6 +16,7 @@ comparePrice: 351.0 EUR
 prodname: 'World Art TWAB20101 Papillons Lampe de Table de Nuit  Verre  E14  25 W  Multicolore  H53 x L35 x S27 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00WX5Y4DO/?tag=tolees0d-21'
 descuento: '25.87'
 average: '260.21'

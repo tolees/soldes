@@ -16,6 +16,7 @@ comparePrice: 30.06 EUR
 prodname: 'Toozey Jouet pour Chien - 12 PCS Jouets pour Chiens Indestructible Animalerie pour Chien Jouet pour Chiots & Petits Chiens - Jouet à Mâcher Corde et Chiot en Peluche pour Chien - Coton Naturel'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089GD31YY/?tag=tolees0d-21'
 descuento: '56.79'
 average: '12.99'

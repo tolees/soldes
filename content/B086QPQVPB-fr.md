@@ -16,6 +16,7 @@ comparePrice: 31.99 EUR
 prodname: 'havit Casque Gaming PS4  Casque Gamer RGB avec micro switch et contrôle du volume pour Xbox One  ordinateur portable  PC  téléphone portable  H2010d '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B086QPQVPB/?tag=tolees0d-21'
 descuento: '15.63'
 average: '26.99'

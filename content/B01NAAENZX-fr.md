@@ -16,6 +16,7 @@ comparePrice: 59.9 EUR
 prodname: 'Tommy Hilfiger H2285arlow 1d  Sneaker Basses Homme  Bleu  Midnight   41 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01NAAENZX/?tag=tolees0d-21'
 descuento: '32.62'
 average: '40.36'

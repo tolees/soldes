@@ -16,6 +16,7 @@ comparePrice: 200.0 EUR
 prodname: 'S72 / Sport Digital Camera'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0777P8HCS/?tag=tolees0d-21'
 descuento: '64.00'
 average: '71.99'

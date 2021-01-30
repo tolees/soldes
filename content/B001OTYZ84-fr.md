@@ -16,6 +16,7 @@ comparePrice: 169.95 EUR
 prodname: 'Sorel Bottes d Hiver pour Hommes  Caribou WL  Marron foncé  Tobacco   Taille : 45'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B001OTYZ84/?tag=tolees0d-21'
 descuento: '26.48'
 average: '124.95'

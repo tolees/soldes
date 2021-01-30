@@ -16,6 +16,7 @@ comparePrice: 59.0 EUR
 prodname: 'Fossil Homme Bracelet JF02934040'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FFQGSMM/?tag=tolees0d-21'
 descuento: '35.15'
 average: '38.26'

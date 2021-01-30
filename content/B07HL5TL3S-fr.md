@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Skagen Homme Écran Tactile Digital Montre Connectée avec Bracelet en Silicone SKT5100'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HL5TL3S/?tag=tolees0d-21'
 descuento: '32.65'
 average: '224.25333333333333'

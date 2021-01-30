@@ -16,6 +16,7 @@ comparePrice: 29.99 EUR
 prodname: 'Masseur Cervical  Appareil de Massage Électrique  Masseur de nuque portable  Massage par Impulsions Basse Fréquence 6 Types de Méthodes de Massage'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07ZM9NWDQ/?tag=tolees0d-21'
 descuento: '27.78'
 average: '21.66'

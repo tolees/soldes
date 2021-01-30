@@ -16,6 +16,7 @@ comparePrice: 99.0 EUR
 prodname: 'Cosmo Connected - Cosmo Moto - Noir brillant- Feu de stop et de signalisation connecté pour casque de moto'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076JJ3XTP/?tag=tolees0d-21'
 descuento: '37.55'
 average: '61.83'

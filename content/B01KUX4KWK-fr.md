@@ -16,6 +16,7 @@ comparePrice: 193.0 EUR
 prodname: 'Reebok Deck'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01KUX4KWK/?tag=tolees0d-21'
 descuento: '37.22'
 average: '121.17'

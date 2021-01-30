@@ -16,6 +16,7 @@ comparePrice: 60.0 EUR
 prodname: 'Braun Oral-B Pro 1 - 750 - Brosse à Dents Électrique Rechargeable  1 Brossette  1 Étui de Voyage Offert'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B076JLJXQ5/?tag=tolees0d-21'
 descuento: '39.98'
 average: '36.01'

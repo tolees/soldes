@@ -16,6 +16,7 @@ comparePrice: 90.3 EUR
 prodname: 'Kaamelott : L intégrale des Six livres [DVD]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07F5F8SFD/?tag=tolees0d-21'
 descuento: '22.49'
 average: '69.99'

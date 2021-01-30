@@ -16,6 +16,7 @@ comparePrice: 80.0 EUR
 prodname: 'Braun Face 810 Épilateur Visage Et Brosse Nettoyante Visage Avec Pile Supplémentaire'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00LZPLRCE/?tag=tolees0d-21'
 descuento: '31.26'
 average: '54.99'

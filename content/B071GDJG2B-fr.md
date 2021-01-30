@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'KERBHOLZ Montre en Bois – Collection Masterpieces Franz Chronomètre pour Homme Analogique à Quartz  Boîtier en Bois  Bracelet en Cuir Ø 46mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071GDJG2B/?tag=tolees0d-21'
 descuento: '50.74'
 average: '98.02'

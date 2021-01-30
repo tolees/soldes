@@ -16,6 +16,7 @@ comparePrice: 195.0 EUR
 prodname: 'Rotary Montres Bracelet GB08300/01'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075NKVV5X/?tag=tolees0d-21'
 descuento: '48.48'
 average: '100.47'

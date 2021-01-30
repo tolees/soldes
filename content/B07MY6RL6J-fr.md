@@ -16,6 +16,7 @@ comparePrice: 139.9 EUR
 prodname: 'FOG900-RGB'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07MY6RL6J/?tag=tolees0d-21'
 descuento: '19.12'
 average: '113.15'

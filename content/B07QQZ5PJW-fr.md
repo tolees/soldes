@@ -16,6 +16,7 @@ comparePrice: 149.99 EUR
 prodname: 'Seagate Backup Plus Portable 5 To  Disque dur externe HDD  Rouge  USB 3.0  pour PC portable et Mac  abonnement d’un an à Mylio Create  abonnement de 2 mois à Adobe CC pour la Photo  STHP5000403 '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07QQZ5PJW/?tag=tolees0d-21'
 descuento: '22.67'
 average: '115.99'

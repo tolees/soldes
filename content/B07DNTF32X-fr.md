@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Doom Eternal'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DNTF32X/?tag=tolees0d-21'
 descuento: '29.39'
 average: '49.42'

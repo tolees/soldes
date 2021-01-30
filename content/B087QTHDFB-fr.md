@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'Ubisoft - Assassin s Creed Valhalla - Édition Limitée Amazon - Xbox One & Xbox Series X'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Ubisoft'
 buyurl: 'https://www.amazon.fr/dp/B087QTHDFB/?tag=tolees0d-21'
 descuento: '28.58'
 average: '61.6093333333333'
@@ -27,10 +28,10 @@ C'est en vente [Ubisoft - Assassin s Creed Valhalla - Édition Limitée Amazon -
 
 ℹ️:
 
-- Un monde ouvert situé dans les âges obscurs du Moyen Âge
-- Un système de combat viscéral
-- Faites grandir votre colonie
 - Écrivez votre propre saga viking
+- Un monde ouvert situé dans les âges obscurs du Moyen Âge
 - Menez des raids épiques
+- Faites grandir votre colonie
+- Un système de combat viscéral
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087QTHDFB/?tag=tolees0d-21)

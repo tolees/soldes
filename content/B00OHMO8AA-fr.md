@@ -16,6 +16,7 @@ comparePrice: 156.0 EUR
 prodname: 'Somfy 2400556 - Récepteur Portail/Porte de Garage extérieur Universel | Technologie RTS'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00OHMO8AA/?tag=tolees0d-21'
 descuento: '41.30'
 average: '91.57'

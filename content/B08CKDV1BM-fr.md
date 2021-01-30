@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'LeaderPro Talkies-Walkies pour Enfants  Jouets pour Enfants de 3 à 12 Ans  Radio 8 canaux  LCD Écran  Walkie-talkies avec Lampe de Poche  Portée de 3 Km pour Les Aventures  Le Camping  Le Parc  etc.'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08CKDV1BM/?tag=tolees0d-21'
 descuento: '15.00'
 average: '33.99'

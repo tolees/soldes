@@ -16,6 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Nike - W NSW lggng Club logo2 - Collant pour femme - Noir/Blanc - Taille: XL'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01AADHRP2/?tag=tolees0d-21'
 descuento: '25.04'
 average: '18.74'

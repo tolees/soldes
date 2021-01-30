@@ -16,6 +16,7 @@ comparePrice: 159.99 EUR
 prodname: 'REVENT HD Blue'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07W1X3Q3V/?tag=tolees0d-21'
 descuento: '33.47'
 average: '106.44'

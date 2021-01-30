@@ -16,6 +16,7 @@ comparePrice: 249.0 EUR
 prodname: 'Sennheiser HD Casque à Arceau fermé avec Microphone et télécommande 6 3 mm/3 5 mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01L1IICR2/?tag=tolees0d-21'
 descuento: '41.57'
 average: '145.49'

@@ -16,6 +16,7 @@ comparePrice: 140.0 EUR
 prodname: 'VAUDE Men s Cyclist Softshell Jacket Veste Homme  Black  FR : 2XL  Taille Fabricant : XXL '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WQ569PT/?tag=tolees0d-21'
 descuento: '40.00'
 average: '84.0'

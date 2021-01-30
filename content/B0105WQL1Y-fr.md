@@ -16,6 +16,7 @@ comparePrice: 249.99 EUR
 prodname: 'Lagrange 429002 Pâtes Créativ  Blanc 30 x 16 x 35 cm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0105WQL1Y/?tag=tolees0d-21'
 descuento: '31.60'
 average: '170.99'

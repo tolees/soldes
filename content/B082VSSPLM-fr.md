@@ -16,6 +16,7 @@ comparePrice: 5.5 EUR
 prodname: 'Schwarzkopf - Gliss - Masque Cheveux - Ultimate Repair - 200 ml'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082VSSPLM/?tag=tolees0d-21'
 descuento: '36.91'
 average: '3.47'

@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 501 Crop Jean Droit  Blanc  in The Clouds 0032   W23/L26 Femme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TV7NFN4/?tag=tolees0d-21'
 descuento: '15.05'
 average: '84.95'

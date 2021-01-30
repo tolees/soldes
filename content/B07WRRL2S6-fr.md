@@ -16,6 +16,7 @@ comparePrice: 25.99 EUR
 prodname: 'Chumian Gilet de Sudation pour Femme Sauna Sport Gaine Amincissante Débardeur Minceur Ventre Plat Fitness Waist Trainer  Noir  L '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07WRRL2S6/?tag=tolees0d-21'
 descuento: '23.09'
 average: '19.99'

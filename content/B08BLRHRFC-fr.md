@@ -16,6 +16,7 @@ comparePrice: 32.99 EUR
 prodname: 'Casque Gaming  TedGem 3.5mm Casque PS4  Surround Stéréo Casque Gamer  LED Casque Gamer PC pour PS4/ Xbox One/PC/Mac/Ordinateur/Tablette'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08BLRHRFC/?tag=tolees0d-21'
 descuento: '21.22'
 average: '25.99'

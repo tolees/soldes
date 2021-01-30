@@ -16,6 +16,7 @@ comparePrice: 199.8 EUR
 prodname: 'Emsa M5262000 Click & Grow Smart Garden 9 Jardinière d intérieur Gris Potager d intérieur'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H65W5BP/?tag=tolees0d-21'
 descuento: '19.92'
 average: '159.99'

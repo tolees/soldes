@@ -16,6 +16,7 @@ comparePrice: 89.99 EUR
 prodname: '【Nouvelle Version】 AIKELA Ecouteur Bluetooth sans Fil Oreillette Bluetooth 5.0 IPX6 Sport Étanche Écouteur Stéréo Réduction du Bruit Casque Bluetooth avec 90 Heures Playtime Micro pour iOS Android'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VW6F3MV/?tag=tolees0d-21'
 descuento: '60.01'
 average: '35.99'

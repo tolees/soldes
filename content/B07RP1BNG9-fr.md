@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Figurine - Ghost Recon: Breakpoint - Nomad'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RP1BNG9/?tag=tolees0d-21'
 descuento: '38.64'
 average: '36.81'

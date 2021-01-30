@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Kiano Elegance 6.1 Pro 4/64GB LTE 6" Smartphone [Android Pie  Téléphone Portable  Android 9.0] Fingerprint  FaceID  8-Core   Li-Poly 3300 mah  8 Mpx / 13 Mpx  4G: B1/B3/B5/B7/B8/B20  WI-FI Hotspot'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084MLTTZM/?tag=tolees0d-21'
 descuento: '19.05'
 average: '64.75'

@@ -16,6 +16,7 @@ comparePrice: 18.0 EUR
 prodname: 'Jouet Chat  Jouet Poisson Electronique  Jouet Pour Chat Poisson Qui Bouge Avec Cataire  Jouet à Macher Interactif Jouet De Poisso Pour Chats  Jouet Chaton  Chargement Usb  Lavable Pour Mordre  Mâcher'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08HMRP9ZD/?tag=tolees0d-21'
 descuento: '27.83'
 average: '11.49'

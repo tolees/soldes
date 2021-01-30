@@ -16,6 +16,7 @@ comparePrice: 179.0 EUR
 prodname: 'Redskins Doudoune North Mountain Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RWKN6VM/?tag=tolees0d-21'
 descuento: '31.97'
 average: '121.77'

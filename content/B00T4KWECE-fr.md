@@ -16,6 +16,7 @@ comparePrice: 107.05 EUR
 prodname: 'HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne Bagages rigides avec extension  ABS  65 cm  90 L  Bourgogne'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00T4KWECE/?tag=tolees0d-21'
 descuento: '39.84'
 average: '64.4'

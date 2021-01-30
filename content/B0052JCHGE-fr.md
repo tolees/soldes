@@ -16,6 +16,7 @@ comparePrice: 176.84 EUR
 prodname: 'Onduleur Eaton Ellipse ECO 650 FR - Off-line UPS - EL650FR - 650VA  4 prises FR '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0052JCHGE/?tag=tolees0d-21'
 descuento: '51.96'
 average: '85.95'

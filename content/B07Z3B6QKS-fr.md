@@ -16,6 +16,7 @@ comparePrice: 59.92 EUR
 prodname: 'Airoh Helmet Helios Color White Gloss M'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Z3B6QKS/?tag=tolees0d-21'
 descuento: '19.99'
 average: '47.94'

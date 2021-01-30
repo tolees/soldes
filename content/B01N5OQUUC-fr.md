@@ -16,6 +16,7 @@ comparePrice: 121.99 EUR
 prodname: 'IK Multimedia IP-IRIG-ACOSTG-IN Système avancé de micro pour guitare acoustique'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01N5OQUUC/?tag=tolees0d-21'
 descuento: '40.97'
 average: '72.01'

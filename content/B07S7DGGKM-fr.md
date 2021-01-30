@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Braun Oral-B Genius X 20000N Brosse À Dents Électrique par Braun  Blanc'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S7DGGKM/?tag=tolees0d-21'
 descuento: '45.15'
 average: '163.99'

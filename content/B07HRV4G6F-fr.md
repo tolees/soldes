@@ -16,6 +16,7 @@ comparePrice: 148.0 EUR
 prodname: 'Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec couvercle'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HRV4G6F/?tag=tolees0d-21'
 descuento: '30.00'
 average: '103.6'

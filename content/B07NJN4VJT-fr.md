@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Casque LVL50 sans Fil pour Sony Playstation - noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07NJN4VJT/?tag=tolees0d-21'
 descuento: '25.00'
 average: '59.99'

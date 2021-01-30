@@ -16,6 +16,7 @@ comparePrice: 57.19 EUR
 prodname: 'XIDISO Basket de Homme Chaussures de Sport Running Course Sport Fitness Sneakers Chaussures de Running Casual Training'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DZYK77B/?tag=tolees0d-21'
 descuento: '30.08'
 average: '39.99'

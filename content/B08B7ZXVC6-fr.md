@@ -16,6 +16,7 @@ comparePrice: 9.99 EUR
 prodname: 'Clips de Câble en Silicone Adhésif Gestion de câbles Multifonction Câbles Organiseur pour Bureau Maison USB Câble TV PC Ordinateur Portable  4 Pièces Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08B7ZXVC6/?tag=tolees0d-21'
 descuento: '20.02'
 average: '7.99'

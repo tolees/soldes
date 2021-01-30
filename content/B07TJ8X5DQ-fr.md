@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'FM London Fitted Boxer Shorty  Multicolore  Classic Mix 10   Small  Lot de 8  Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07TJ8X5DQ/?tag=tolees0d-21'
 descuento: '20.01'
 average: '19.99'

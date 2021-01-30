@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Aigle - Tenere Light Cvs Ltr - Chaussure de randonnée - Montante - Homme- Vert  Kaki 2  - 42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00SVDNOYM/?tag=tolees0d-21'
 descuento: '45.18'
 average: '49.34'

@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Seiko Horloge SUR271P1'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21'
 descuento: '40.00'
 average: '132.66666666666669'

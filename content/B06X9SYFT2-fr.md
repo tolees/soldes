@@ -16,6 +16,7 @@ comparePrice: 24.99 EUR
 prodname: 'Perfection - Jeu de Societe - Jeu de rapidité - Version Française'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B06X9SYFT2/?tag=tolees0d-21'
 descuento: '17.29'
 average: '20.67'

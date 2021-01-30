@@ -16,6 +16,7 @@ comparePrice: 10.13 EUR
 prodname: 'Funko- Figurines Pop Vinyl: Harry Potter S5: Hermione as Cat Collectible Figure  35509  Multcolour'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HJCD6QV/?tag=tolees0d-21'
 descuento: '18.56'
 average: '8.93'

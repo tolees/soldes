@@ -16,6 +16,7 @@ comparePrice: 120.0 EUR
 prodname: 'Hackett AMR MLT Wings Polo  Multicolore  Navy/White 5DJ   Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N3YBGRB/?tag=tolees0d-21'
 descuento: '18.45'
 average: '97.86'

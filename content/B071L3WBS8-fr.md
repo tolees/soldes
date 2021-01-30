@@ -16,6 +16,7 @@ comparePrice: 126.0 EUR
 prodname: 'Andoer Meikon Caméra sous-marine 200 mm Fisheye objectif grand angle Dome Port Coque Abat-jour 60 m/60 m étanche 67 mm rondes adaptateur pour caméra boîtier de plongée'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B071L3WBS8/?tag=tolees0d-21'
 descuento: '15.87'
 average: '106.0'

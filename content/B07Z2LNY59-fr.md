@@ -16,6 +16,7 @@ comparePrice: 119.99 EUR
 prodname: 'Enceinte Bluetooth Portable  Zamkol Bluetooth 5.0 Enceinte sans Fil  10 Heures De Lecture  Son à 360 Degrés  Basses Améliorées X 30W  IPX6 étanche  Haut-Parleur TWS pour Les Voyages Et Fête'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Z2LNY59/?tag=tolees0d-21'
 descuento: '53.34'
 average: '55.99'

@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Samsonite Valise  106745/7084  Graphite/Gunmetal  Gris  - 106745/7083'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07H635JFB/?tag=tolees0d-21'
 descuento: '19.09'
 average: '185.28'

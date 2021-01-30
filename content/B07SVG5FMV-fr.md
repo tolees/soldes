@@ -16,6 +16,7 @@ comparePrice: 235.0 EUR
 prodname: 'Pinko Rubino 3  Baskets Enfiler Femme  Multicolore  Rosa/Grigio Ni1   35 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SVG5FMV/?tag=tolees0d-21'
 descuento: '60.02'
 average: '93.96'

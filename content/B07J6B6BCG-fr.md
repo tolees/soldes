@@ -16,6 +16,7 @@ comparePrice: 49.99 EUR
 prodname: 'Sac à Main Femme Rétro JOSEKO Sac à Bandoulière en Similicuir de Cire à l huile Fourre-Tout Sac à Bandoulière pour Dame avec Longue Sangle Sac de Cours Bandoulière Besace Sacoche Mode Chic'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07J6B6BCG/?tag=tolees0d-21'
 descuento: '40.01'
 average: '29.99'

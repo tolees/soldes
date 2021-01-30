@@ -16,6 +16,7 @@ comparePrice: 35.99 EUR
 prodname: 'EgoIggo Tapis de Yoga Mat en TPE Matériaux Tapis de Sport Sol Antiderapant Ecologique avec Sac de Transport pour Fitness Pilates Gym 181x61cm  6mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B088DB8FBC/?tag=tolees0d-21'
 descuento: '17.37'
 average: '29.74'

@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'Collier argent et perles de culture Blanches et Noires"Elégant"'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07HFZS6R7/?tag=tolees0d-21'
 descuento: '61.33'
 average: '29.0'

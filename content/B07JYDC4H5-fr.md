@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Tommy Jeans TJM Vertical Stripe Hoodie Pull  Multicolore  Flame Scarlet/Multi 667   Medium Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JYDC4H5/?tag=tolees0d-21'
 descuento: '16.41'
 average: '83.51'

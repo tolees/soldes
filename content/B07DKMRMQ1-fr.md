@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'NHL 19'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DKMRMQ1/?tag=tolees0d-21'
 descuento: '48.42'
 average: '36.1'

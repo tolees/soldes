@@ -16,6 +16,7 @@ comparePrice: 499.0 EUR
 prodname: 'Braun Series 9 9299cc Rasoir Électrique Homme  Station Clean & Charge Et Pochette De Voyage – Édition Cadeau Or'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07Q9SQZYG/?tag=tolees0d-21'
 descuento: '49.17'
 average: '253.65'

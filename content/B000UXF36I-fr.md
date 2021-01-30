@@ -16,6 +16,7 @@ comparePrice: 24.31 EUR
 prodname: 'Mennekes 101700017 bases Schuko. 16 A/230 V  prise de courant  degré de protection IP 68  10 Package  Bleu'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B000UXF36I/?tag=tolees0d-21'
 descuento: '60.02'
 average: '9.72'

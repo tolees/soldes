@@ -16,6 +16,7 @@ comparePrice: 69.99 EUR
 prodname: 'CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21'
 descuento: '45.56'
 average: '38.1'

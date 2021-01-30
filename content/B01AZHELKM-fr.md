@@ -16,6 +16,7 @@ comparePrice: 75.0 EUR
 prodname: 'New Balance 500 Core  Baskets Homme  Bleu  Navy/Grey Navy   43 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01AZHELKM/?tag=tolees0d-21'
 descuento: '39.52'
 average: '45.36'

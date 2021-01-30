@@ -16,6 +16,7 @@ comparePrice: 64.99 EUR
 prodname: 'LEGO® Star Wars™ Action Battle La défense de la base Echo™ Jeu de construction  8 Ans et Plus  504 Pièces  75241'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07FNWJ12V/?tag=tolees0d-21'
 descuento: '23.80'
 average: '49.52'

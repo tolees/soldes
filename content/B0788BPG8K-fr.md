@@ -16,6 +16,7 @@ comparePrice: 109.95 EUR
 prodname: 'Hoopzi - Hang 5 - Suspension Luminaire Avec Cache Douille Acier - Lustre Araignée pour Salon  Chambre  Cuisine - 4 Mètres - 5 Douilles E27-4 Couleurs - Fil Electrique en Tissu - Métal'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0788BPG8K/?tag=tolees0d-21'
 descuento: '31.79'
 average: '75.0'

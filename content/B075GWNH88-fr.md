@@ -16,6 +16,7 @@ comparePrice: 16.7 EUR
 prodname: 'LEGO Classic - La plaque de base bleue - 10714 - Jeu de Construction'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B075GWNH88/?tag=tolees0d-21'
 descuento: '52.16'
 average: '7.99'

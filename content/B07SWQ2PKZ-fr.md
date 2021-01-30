@@ -16,6 +16,7 @@ comparePrice: 50.16 EUR
 prodname: 'Better Call Saul-Saisons 1 à 4'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SWQ2PKZ/?tag=tolees0d-21'
 descuento: '44.20'
 average: '27.99'

@@ -16,6 +16,7 @@ comparePrice: 219.99 EUR
 prodname: 'FoodSaver Machine Sous Vide automatique  inclus sacs de mise sous vide assortis [FSFSSL3840]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B007VZXWCK/?tag=tolees0d-21'
 descuento: '45.46'
 average: '119.99'

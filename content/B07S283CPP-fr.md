@@ -16,6 +16,7 @@ comparePrice: 299.0 EUR
 prodname: 'Redskins Blouson Cuir Karting Calista Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S283CPP/?tag=tolees0d-21'
 descuento: '20.00'
 average: '239.2'

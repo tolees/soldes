@@ -16,6 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'New Balance 997H Core  Baskets Homme  Argenté  Pigment/Silver   42 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DJ2FF2S/?tag=tolees0d-21'
 descuento: '32.82'
 average: '60.46'

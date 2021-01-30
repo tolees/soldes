@@ -16,6 +16,7 @@ comparePrice: 126.12 EUR
 prodname: 'Onduleur Z1 Zenergy Cube EX 600 VA  3 prises secourues'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07LGPLJ6S/?tag=tolees0d-21'
 descuento: '38.94'
 average: '77.01'

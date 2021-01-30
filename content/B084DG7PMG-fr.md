@@ -16,6 +16,7 @@ comparePrice: 20.06 EUR
 prodname: 'Jumanji : Next Level'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084DG7PMG/?tag=tolees0d-21'
 descuento: '25.27'
 average: '17.49'

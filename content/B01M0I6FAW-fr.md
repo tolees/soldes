@@ -16,6 +16,7 @@ comparePrice: 180.0 EUR
 prodname: 'VAUDE  12438 Sac à Dos Femme  Blueberry  52 L'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01M0I6FAW/?tag=tolees0d-21'
 descuento: '55.65'
 average: '79.83'

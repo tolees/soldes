@@ -16,6 +16,7 @@ comparePrice: 59.99 EUR
 prodname: 'Sylvanian Families - 2745 - Maison aux 3 Histoires'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B006ZVD3IY/?tag=tolees0d-21'
 descuento: '18.34'
 average: '48.99'

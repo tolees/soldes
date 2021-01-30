@@ -16,6 +16,7 @@ comparePrice: 10.99 EUR
 prodname: 'RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite [2 pièce]  Verre Trempé pour Xiaomi Mi Note 10/Note 10 Pro/Note 10 Lite [HD et Transparent] [sans Bulles] [Anti Rayures]'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08FXF7TX5/?tag=tolees0d-21'
 descuento: '18.20'
 average: '8.99'

@@ -16,6 +16,7 @@ comparePrice: 109.99 EUR
 prodname: 'Etekcity Balance Wifi  Balance Connectée Bluetooth Rechargeable USB  Analyse de la Composition Corporelle  Plate-forme Extra Large 37 5x30cm  Verre Conducteur ITO  180kg'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21'
 descuento: '49.10'
 average: '55.99'

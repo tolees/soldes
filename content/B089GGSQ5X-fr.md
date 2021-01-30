@@ -16,6 +16,7 @@ comparePrice: 59.88 EUR
 prodname: 'OCDAY Voiture Telecommandé  Voiture Telecommandé Tout Terrain  Rotation 360° Gauche et Droite et Debout  Course Debout et Marche Inversée  Rotation et Dérive Gauche et Droite  Cadeau Jouet'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B089GGSQ5X/?tag=tolees0d-21'
 descuento: '46.58'
 average: '31.99'

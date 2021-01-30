@@ -16,6 +16,7 @@ comparePrice: 102.0 EUR
 prodname: 'LIVAN - L0809 - Valise Cabine à 4 Roues 360° - Polycarbonate et Abs - Rigide et Ultra léger - 54 X 36 X 20cm  Chat Rose '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07VPCSBF4/?tag=tolees0d-21'
 descuento: '42.21'
 average: '58.95'

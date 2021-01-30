@@ -16,6 +16,7 @@ comparePrice: 173.59 EUR
 prodname: 'Newton Gravity 8 Chaussure De Course à Pied - 41'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07JH5BCLV/?tag=tolees0d-21'
 descuento: '54.84'
 average: '78.39'

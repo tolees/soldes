@@ -16,6 +16,7 @@ comparePrice: 99.9 EUR
 prodname: 'Foscam - FI9902P - Caméra IP Wi-FI extérieure 1080P'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07N8ZD63Y/?tag=tolees0d-21'
 descuento: '34.73'
 average: '65.2'

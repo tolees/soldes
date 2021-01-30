@@ -16,6 +16,7 @@ comparePrice: 229.0 EUR
 prodname: 'Oakwood 60901 - Veste en cuir - Col à boutons - Manches longues - Homme - Marron  Tabacco   Small  Taille Fabricant: S '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B01F64GE1I/?tag=tolees0d-21'
 descuento: '47.38'
 average: '116.275'

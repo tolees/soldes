@@ -16,6 +16,7 @@ comparePrice: 199.0 EUR
 prodname: 'Sebago Classic Dan Suede  Chaussures Bateau Homme  Marron  DK Brown 901   40 EU'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07L1PMP7Y/?tag=tolees0d-21'
 descuento: '56.71'
 average: '86.15'

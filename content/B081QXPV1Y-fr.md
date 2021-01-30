@@ -16,6 +16,7 @@ comparePrice: 169.99 EUR
 prodname: 'Razer Basilisk Ultimate - souris de jeu sans fil avec 11 boutons programmables  technologie HyperSpeed  mise au point optique + capteur  interrupteur de souris optique  éclairage Chroma RGB '
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081QXPV1Y/?tag=tolees0d-21'
 descuento: '35.30'
 average: '109.99'

@@ -16,6 +16,7 @@ comparePrice: 39.99 EUR
 prodname: 'Turtle Beach Recon 50P Casque Gaming - PS4  PS5  Xbox One  Nintendo Switch et PC'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B00YXO5UKY/?tag=tolees0d-21'
 descuento: '49.34'
 average: '20.26'
