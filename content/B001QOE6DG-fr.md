@@ -16,7 +16,7 @@ comparePrice: 90.0 EUR
 prodname: 'Levi s 501 Original Fit Jeans  Onewash  32W / 32L Homme'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'Levi's'
+brand: 'Levis'
 buyurl: 'https://www.amazon.fr/dp/B001QOE6DG/?tag=tolees0d-21'
 descuento: '30.58'
 average: '62.547142857143'
@@ -29,9 +29,9 @@ Vous avez [Levi s 501 Original Fit Jeans  Onewash  32W / 32L Homme](https://www.
 ℹ️:
 
 - Matières Importées
-- Style 5 poches
-- 100 % Coton
 - Denim non extensible
+- 100 % Coton
 - Braguette boutonnée
+- Style 5 poches
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001QOE6DG/?tag=tolees0d-21)

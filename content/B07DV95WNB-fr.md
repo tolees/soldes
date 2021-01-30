@@ -16,7 +16,7 @@ comparePrice: 50.16 EUR
 prodname: 'Le Seigneur des Anneaux-La trilogie [Version Longue]'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'None'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DV95WNB/?tag=tolees0d-21'
 descuento: '46.19'
 average: '33.7843333333334'

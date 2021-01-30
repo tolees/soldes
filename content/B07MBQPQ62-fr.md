@@ -28,10 +28,10 @@ Vous avez [Samsung SSD Interne 970 EVO Plus NVMe M.2  1 To  - MZ-V7S1T0BW  Noir/
 
 ℹ️:
 
-- Sequential Read/Write speeds up to 3,500/3,300 MB/s respectively. Performance varies based on system hardware and configuration
 - Available Capacity : Up to 2 TB
-- Interface : NVMe (PCIe Gen 3.0 x 4)
-- Designed for tech enthusiasts, hardcore gamers and professionals who need unrivaled performance
 - Form Factor : M.2
+- Designed for tech enthusiasts, hardcore gamers and professionals who need unrivaled performance
+- Interface : NVMe (PCIe Gen 3.0 x 4)
+- Sequential Read/Write speeds up to 3,500/3,300 MB/s respectively. Performance varies based on system hardware and configuration
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MBQPQ62/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Cavist Cave à vin 21 bouteilles de Conservation CAVIST21 Dual Zone 6
 
 ℹ️:
 
-- - Design élégant avec porte en acier inoxydable - Capacité 65L
-- - Affichage électronique de la température - Contrôle digital - Eclairage LED avec interrupteur
-- - Technologie silencieuse - Système anti-vibration - Système thermoélectrique - Porte réversible - 6 clayettes en bois
-- - Cave à vin 21 bouteilles - Cave de température 2 zones : · Vins blancs / Champagnes / Rosés · Vins rouges / Porto. Pieds ajustables. Niveau sonore : 38 dB
 - - Réglage de la température : · Zone supérieure de 7°C à 18°C · Zone inférieure de 12°C à 18°C
+- - Affichage électronique de la température - Contrôle digital - Eclairage LED avec interrupteur
+- - Design élégant avec porte en acier inoxydable - Capacité 65L
+- - Cave à vin 21 bouteilles - Cave de température 2 zones : · Vins blancs / Champagnes / Rosés · Vins rouges / Porto. Pieds ajustables. Niveau sonore : 38 dB
+- - Technologie silencieuse - Système anti-vibration - Système thermoélectrique - Porte réversible - 6 clayettes en bois
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077SF2QBL/?tag=tolees0d-21)

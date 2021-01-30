@@ -16,7 +16,7 @@ comparePrice: 50.16 EUR
 prodname: 'Game Of Thrones  Le Trône de Fer  - Saison 8 [Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'None'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07S4WX1J4/?tag=tolees0d-21'
 descuento: '50.20'
 average: '24.5148275862068'

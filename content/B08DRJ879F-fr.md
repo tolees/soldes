@@ -28,9 +28,9 @@ C'est en vente [ATOPDREAM Jouet Enfant 2-8 Ans Garçon  Dinosaure Enfant Jouet C
 
 ℹ️:
 
-- ☆[New Design] The wheels we installed on the dinosaurs are non-slip, so children can easily play on the smooth floor and glass coffee table. Six unique and realistic dinosaur shapes are designed to bring new visual experience to children.
-- ☆[Educational Toys for Kids] This dinosaur pull back car can develop childrens imagination and execution. By knowing a variety of dinosaurs, understand the stories of ancient times and cultivate childrens interest in history. By controlling the vehicle, the childs hands-on ability is exercised .
 - ☆[Easy to Operate] The dinosaur toy car is very suitable for children aged 2-8. It does not require power supply. It can run independently by pulling it back. The farther the car is pulled back, the longer the driving time.
+- ☆[Educational Toys for Kids] This dinosaur pull back car can develop childrens imagination and execution. By knowing a variety of dinosaurs, understand the stories of ancient times and cultivate childrens interest in history. By controlling the vehicle, the childs hands-on ability is exercised .
+- ☆[New Design] The wheels we installed on the dinosaurs are non-slip, so children can easily play on the smooth floor and glass coffee table. Six unique and realistic dinosaur shapes are designed to bring new visual experience to children.
 - ☆[Christmas Gifts for Kids] Our toy car combines the two elements of dinosaurs and cars to create a new type of pull back car that can cultivate the babys hands-on ability and enhance the interaction between parents and children. The toy car can be used as an item for a dinosaur party, or as an ideal gift and toy for celebrating other festivals. It is suitable for many scenes, boys and girls will love it.
 - ☆[Environmental Protection Material] The material of this car is made of environmentally friendly PVC material, which will not harm childrens skin. At the same time, this toy is a solid material, very resistant to fall. It will not break like plastic and can be used for a long time.
 

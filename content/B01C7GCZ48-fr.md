@@ -28,10 +28,10 @@ Vous avez [Coravin Model Two Système de Vin au Verre](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Coravin Model Two (aiguille standard incluse)
+- Contenu du coffret:
+- Tige de nettoyage de l’aiguille
 - Guide de démarrage rapide Coravin
 - Deux (2) capsules Coravin (contenant de l’argon pressurisé)
-- Tige de nettoyage de l’aiguille
-- Contenu du coffret:
+- Coravin Model Two (aiguille standard incluse)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01C7GCZ48/?tag=tolees0d-21)

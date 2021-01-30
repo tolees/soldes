@@ -16,7 +16,7 @@ comparePrice: 25.0 EUR
 prodname: 'Star Wars 9 : L Ascension de Skywalker [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'None'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082VW4G2D/?tag=tolees0d-21'
 descuento: '40.00'
 average: '14.9496969696971'

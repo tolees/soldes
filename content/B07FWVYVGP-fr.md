@@ -16,7 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'Levi s 724 High Rise Straight Jean Droit  to The Nine  30W / 32L Femme'
 country: 'fr'
 flag: '🇫🇷'
-brand: 'Levi's'
+brand: 'Levis'
 buyurl: 'https://www.amazon.fr/dp/B07FWVYVGP/?tag=tolees0d-21'
 descuento: '27.52'
 average: '72.48'
@@ -28,10 +28,10 @@ C'est en vente [Levi s 724 High Rise Straight Jean Droit  to The Nine  30W / 32L
 
 ℹ️:
 
-- Fermeture : bouton
 - Droit
 - 84 % coton, 14 % polyester, 2 % élasthanne
 - haute
 - Ne se lave pas
+- Fermeture : bouton
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FWVYVGP/?tag=tolees0d-21)
