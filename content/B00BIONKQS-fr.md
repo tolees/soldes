@@ -1,29 +1,30 @@
 ---
 layout: post
-title: '60.00 % rabais sur Prowler IX OVBME36RA Extrémité de Tuyau '
-date: 2021-01-21 19:03:56
+title: '60.00 % rabais sur InoXcar - Prowler IX OVBME36RA Extrémité'
+date: 2021-01-30 16:32:34
 image: 'https://m.media-amazon.com/images/I/415EoiDzF4L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B00BIONKQS-fr Prowler IX OVBME36RA Extrémité de Tuyau Échappement Sport...'
+slug: 'B00BIONKQS-fr InoXcar - Prowler IX OVBME36RA Extrémité de Tuyau...'
 sku: 'B00BIONKQS-fr'
 tags: [  ]
 actualPrice: 162.15 EUR
 currency: EUR
 price: 162.15
 comparePrice: 405.37 EUR
-prodname: 'Prowler IX OVBME36RA Extrémité de Tuyau Échappement Sport  2 x 70 mm'
+prodname: 'InoXcar - Prowler IX OVBME36RA Extrémité de Tuyau Échappement Sport  2 x 70 mm'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'InoXcar'
 buyurl: 'https://www.amazon.fr/dp/B00BIONKQS/?tag=tolees0d-21'
 descuento: '60.00'
 average: '162.15'
 ---
 
-Vous avez [Prowler IX OVBME36RA Extrémité de Tuyau Échappement Sport  2 x 70 mm](https://www.amazon.fr/dp/B00BIONKQS/?tag=tolees0d-21)  à  60.00 % de réduction, prix final  162.15 EUR (original: 405.37 EUR) ici:
+Vous avez [InoXcar - Prowler IX OVBME36RA Extrémité de Tuyau Échappement Sport  2 x 70 mm](https://www.amazon.fr/dp/B00BIONKQS/?tag=tolees0d-21)  à  60.00 % de réduction, prix final  162.15 EUR (original: 405.37 EUR) ici:
 
-[![Prowler IX OVBME36RA Extrémité de Tuyau ](https://m.media-amazon.com/images/I/415EoiDzF4L._SL200_.jpg)](https://www.amazon.fr/dp/B00BIONKQS/?tag=tolees0d-21)
+[![InoXcar - Prowler IX OVBME36RA Extrémité](https://m.media-amazon.com/images/I/415EoiDzF4L._SL200_.jpg)](https://www.amazon.fr/dp/B00BIONKQS/?tag=tolees0d-21)
 
 ℹ️:
 
