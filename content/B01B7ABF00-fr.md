@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.81 % rabais sur Sony BDPS1700B Lecteur DVD Blu-Ray Noir'
-date: 2021-01-28 14:07:17
+date: 2021-01-30 14:36:44
 image: 'https://m.media-amazon.com/images/I/31AIue1unYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 94.9 EUR
 prodname: 'Sony BDPS1700B Lecteur DVD Blu-Ray Noir'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B01B7ABF00/?tag=tolees0d-21'
 descuento: '15.81'
 average: '79.9'
@@ -27,10 +28,10 @@ Vous avez [Sony BDPS1700B Lecteur DVD Blu-Ray Noir](https://www.amazon.fr/dp/B01
 
 ℹ️:
 
-- Consommation électrique (mode veille en réseau) – Bornes:3,8 W (Ethernet) / 3,8 W (HDMI CEC) / 4,5 W (toutes les bornes et réseaux connectés)
 - Inclus dans la livraison: Sony BDP-S1700 lecteur Blu-ray
+- Consommation électrique (mode veille en réseau) – Bornes:3,8 W (Ethernet) / 3,8 W (HDMI CEC) / 4,5 W (toutes les bornes et réseaux connectés)
+- Services en ligne pour lexpérience de home cinéma avancée avec lentrée Ethernet, Consommation électrique: 8,5 W
 - Accédez à plus de 300 applications, y compris Amazon Instant Video, avec la télé et la vidéo à la demande
 - Reproduction brillante de vidéos haute qualité en Full HD 1080p
-- Services en ligne pour lexpérience de home cinéma avancée avec lentrée Ethernet, Consommation électrique: 8,5 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01B7ABF00/?tag=tolees0d-21)

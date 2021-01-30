@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '71.75 % rabais sur Abollria Chaussettes Noël en Coton 5 Pac'
-date: 2021-01-28 14:21:05
+date: 2021-01-30 14:37:26
 image: 'https://m.media-amazon.com/images/I/51XuSrJ05fL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 45.99 EUR
 prodname: 'Abollria Chaussettes Noël en Coton 5 Pack Thermiques Chaussettes Femme Adulte Dessin Animé Unisexe Chaussettes Décontractées Confortable Taille Libre -  Noël * 5 Pack Long - Taille unique'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Abollria'
 buyurl: 'https://www.amazon.fr/dp/B07JMXT6GT/?tag=tolees0d-21'
 descuento: '71.75'
 average: '12.99'
