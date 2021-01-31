@@ -28,10 +28,10 @@ C'est en vente [FAG Bearings - FAG 23936s-mb sphérique Cage de roulement à rou
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Cage en laiton massif espaces les rouleaux pour une répartition uniforme de la charge et empêche le contact pour réduire la friction, les vibrations, le bruit et
-- Guide de la bague intérieure
 - Deux rangée roulement à rouleaux sphérique adaptée pour les applications qui prennent en charge la charge radiale et axiale doscillation élevée
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Guide de la bague intérieure
+- Cage en laiton massif espaces les rouleaux pour une répartition uniforme de la charge et empêche le contact pour réduire la friction, les vibrations, le bruit et
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B007MG65AE/?tag=tolees0d-21)

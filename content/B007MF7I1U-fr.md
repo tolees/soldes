@@ -28,10 +28,10 @@ C'est en vente [FAG Bearings - FAG Nu2224e-tvp2-c3 cylindrique Roulement à rou
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- non-locating roulement (deux nervures sur la bague extérieure, aucun sur la bague intérieure) pour intérieur et extérieur permettant anneaux pour axial déplacer par rapport à chaque autre de la position centrale
-- Single Row cylindrique roulement à rouleaux pour les applications qui prennent en charge la haute charge radiale
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- non-locating roulement (deux nervures sur la bague extérieure, aucun sur la bague intérieure) pour intérieur et extérieur permettant anneaux pour axial déplacer par rapport à chaque autre de la position centrale
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Single Row cylindrique roulement à rouleaux pour les applications qui prennent en charge la haute charge radiale
 - Dégagement C3 radiale permet une dilatation thermique pour températures de fonctionnement en continu jusquà 120 degrés C/248 degrés F
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B007MF7I1U/?tag=tolees0d-21)
