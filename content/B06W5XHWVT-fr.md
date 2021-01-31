@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Maison Moderne - 9266 avec 40.00 % rabais '
-date: 2021-01-30 08:42:08
+date: 2021-01-31 15:31:32
 image: 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21'
 descuento: '40.00'
-average: '76.6362601626016'
+average: '76.3699199999999'
 ---
 
 C'est en vente [Playmobil - Maison Moderne - 9266](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)  à  40.00 % de réduction, prix final  59.99 EUR (original: 99.99 EUR) ici:
@@ -28,10 +28,8 @@ C'est en vente [Playmobil - Maison Moderne - 9266](https://www.amazon.fr/dp/B06W
 
 ℹ️:
 
-- Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
-- Contents: 1 x PLAYMOBIL City Life Modern House, 137-piece playset with instructions: 1 residential house, two figures, 134 accessories (2 x batteries not included), Material: plastic, L x W x H: 67 x 49 x 40 cm, 9266
-- Explore the everyday: PLAYMOBIL Modern house, playset with figurines and many accessories for accurate role-play
-- Two figures, real bell and exterior lighting, stairs, balcony and terrace, etc., space for five rooms, can be combined with the PLAYMOBIL City Life Living Room (9267 sold separately)
-- Playset for children aged 4+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
+- Toutes les portes peuvent être ouvertes dans les deux directions
+- Comprend du mobilier pour la terrasse
+- Contient 1 maison, 2 personnages, 1 chien et des accessoires (barbecue, table, chaises, transat, pot de fleurs Lechuza, vaisselle)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)
