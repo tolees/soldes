@@ -28,11 +28,11 @@ C'est en vente [Tommy Hilfiger Core Tommy Regular Polo  Blanc  Bright White 100 
 
 ℹ️:
 
-- Boutonnière à trois boutons
 - Coupe classique
-- Broderie Tommy Hilfiger sur la poitrine
-- Bande décorative typique de la marque à larrière du col
-- Col polo
 - 100 %
+- Broderie Tommy Hilfiger sur la poitrine
+- Col polo
+- Boutonnière à trois boutons
+- Bande décorative typique de la marque à larrière du col
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0791VGVQY/?tag=tolees0d-21)

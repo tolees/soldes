@@ -28,12 +28,12 @@ Vous avez [Rode Microphones - Rode VideoMic GO Microphone Compact](https://www.a
 
 ℹ️:
 
-- Niveau max. de pression sonore (SPL): 120dB (1kHz, 1% de distorsion harmonique sous 1kΩ)
 - Alimention: 2,5V mini par source externe
-- Rapport signal/bruit 60dB
-- Bonnette mousse anti-bruits et suspension Rycote
 - Capsule: 0.50"
+- Niveau max. de pression sonore (SPL): 120dB (1kHz, 1% de distorsion harmonique sous 1kΩ)
 - Réponse en fréquence 100hz-16kHz
 - Sortie mini Jack 3.5
+- Bonnette mousse anti-bruits et suspension Rycote
+- Rapport signal/bruit 60dB
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GQDORA4/?tag=tolees0d-21)

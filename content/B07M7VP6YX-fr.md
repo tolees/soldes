@@ -28,9 +28,9 @@ Vous avez [PQube - The Legend of Heroes: Trails of Cold Steel 2](https://www.ama
 
 ℹ️:
 
+- Une suite qui se souvient du passé Les sauvegardes de données de chacune des versions du premier jeu sont conservées (PS4, PS3, PS Vita), les joueurs peuvent même reprendre le jeu à partir de la sauvegarde de leur PS3/PS Vita.
+- Les améliorations du gameplay Remasterisé avec la prise en charge 4K/60FPS, un tout nouveau mode turbo pour explorer la carte à une vitesse multipliée par 2 et se battre à une vitesse multipliée par 4, une option double voix japonaise, ainsi que 50% de lignes de voix-off en anglais en plus, et tous les DLC depuis le début inclus.
 - Un système de liaison avec le mode Overdrive Le système de liaison améliore le jeu en profondeur avec des avantages clairs, notamment la guérison, la garde et bien d’autres ; tandis que le nouveau mode Overdrive permet aux personnages liés d’attaquer jusqu’à 3 tours d’affilée !
 - Recrutez des alliés pour préparer la guerre Recrutez des participants de l’Académie Militaire de Thor qui sont répartis à travers le pays pour gagner des boutiques, des biens, des modes d’entrainement, des systèmes et les dialogues hautement réputés hauts en couleur de la série des Trails.
-- Les améliorations du gameplay Remasterisé avec la prise en charge 4K/60FPS, un tout nouveau mode turbo pour explorer la carte à une vitesse multipliée par 2 et se battre à une vitesse multipliée par 4, une option double voix japonaise, ainsi que 50% de lignes de voix-off en anglais en plus, et tous les DLC depuis le début inclus.
-- Une suite qui se souvient du passé Les sauvegardes de données de chacune des versions du premier jeu sont conservées (PS4, PS3, PS Vita), les joueurs peuvent même reprendre le jeu à partir de la sauvegarde de leur PS3/PS Vita.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M7VP6YX/?tag=tolees0d-21)

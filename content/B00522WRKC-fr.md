@@ -28,8 +28,8 @@ Vous avez [Pilot - FriXion Point - Set de 3 recharges - Rouge - Pointe Fine](htt
 
 ℹ️:
 
+- Les recharges sont plus économiques et respectueuses de lenvironnement .
 - Grâce la technologie de lencre thermosensible: Ecrivez, Frixionnez, Recommencez !
 - Donnez plusieurs vies à votre stylo FriXion en le rechargeant !
-- Les recharges sont plus économiques et respectueuses de lenvironnement .
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00522WRKC/?tag=tolees0d-21)
