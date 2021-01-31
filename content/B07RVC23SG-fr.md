@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony WH-XB900N Casque Bluetooth à réduct avec 56.60 % rabais '
-date: 2021-01-30 09:06:20
+date: 2021-01-31 09:43:23
 image: 'https://m.media-amazon.com/images/I/31V4mUj6maL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra Bas
 
 ℹ️:
 
-- Jusquà 35h découte sans fil en Bluetooth. Recharge rapide (10mn pour 1h découte) via USB-C
-- Fonction Quick Attention pour réduire le volume de votre musique et amplifier les sons environnants
-- Le plaisir de la musique sans fil et sans bruit extérieur grâce aux technologies intégrées Bluetooth et Réduction de bruit active
-- Nouvelle fonction "Auto Power off" via lapplication
-- Prise dappels et commandes de la musique sur loreillette tactile ou via lapplication.
+- Up to 30 hours battery life and the quick charge feature will also give you 60 minutes of play time after just 10 minutes charge
+- Optimized for google assistant and alexa for a seamless hands-free control and more
+- Audio cable included
+- Sleek design and long listen comfort, Frequency Response (Bluetooth Communication): 20 Hz–20,000 Hz (44.1 kHz Sampling)/20 Hz–40,000 Hz (LDAC 96 kHz Sampling, 990 kbps)
+- Noise cancelling with enhanced deep punchy bass sound thanks to extra BASS technology
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RVC23SG/?tag=tolees0d-21)

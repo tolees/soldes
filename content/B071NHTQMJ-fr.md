@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony NP-FZ100 Batterie Rechargeable Haut avec 16.77 % rabais '
-date: 2021-01-30 09:12:47
+date: 2021-01-31 09:59:59
 image: 'https://m.media-amazon.com/images/I/31SefXu62GL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,10 @@ C'est en vente [Sony NP-FZ100 Batterie Rechargeable Haute Capacité pour Apparei
 
 ℹ️:
 
-- Weight: Approx. 83 g (3.0 oz.)
-- Dimensions (W × H × D): Approx. 38.7 x 22.7 x 51.7 mm (1 9/16 x 29/32 x 2 1/8 inches)
-- Capacity: 7.2V / 16.4Wh (2280mAh)
-- Sony NP-FZ100 Z-series Rechargeable Battery Pack
+- Capacité: 7,2 V / 16,4 Wh (2 280 mAh)
+- Technologie Info LITHIUM permettant de visualiser avec précision la puissance restante
+- Batterie haute capacité et autonomie accrue
+- Compatible avec les chargeurs BC-QZ1 et NPA-MQZ1
+- Compatible avec les appareils photo Sony Alpha 6600 / 7 III / 7R III / 7R IV / 9 / 9 II
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071NHTQMJ/?tag=tolees0d-21)
