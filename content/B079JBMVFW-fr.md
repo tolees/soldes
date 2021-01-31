@@ -28,9 +28,9 @@ C'est en vente [Barbie Véhicule Médical rose et blanc pour poupée  voiture am
 
 ℹ️:
 
-- Dispose dun établissement hospitalier de trois chambres : comptoir denregistrement avec chaise pivotante ; salle dattente avec canapé, aquarium et boutique de cadeaux ; salle dexamen avec appareil de radiographie
-- Le jeu peut être facilement transformé dune ambulance roulante à un hôpital sur roues entièrement équipé
 - Collectionnez dautres poupées et jouets Barbie pour découvrir les professions médicales et dautres métiers, parce que quand une petite fille joue avec Barbie, elle imagine tout ce quelle peut devenir
+- Le jeu peut être facilement transformé dune ambulance roulante à un hôpital sur roues entièrement équipé
+- Dispose dun établissement hospitalier de trois chambres : comptoir denregistrement avec chaise pivotante ; salle dattente avec canapé, aquarium et boutique de cadeaux ; salle dexamen avec appareil de radiographie
 - Le coffret Barbie Véhicule stimule les capacités à inventer des histoires sans fin pour les jeunes médecins en herbe
 - Plus de 20 accessoires supplémentaires comprenant des équipements médicaux (tels quun lit réglable, une sacoche de médecin, un stéthoscope, un brassard de tension artérielle, un thermomètre, 2 plâtres et une paire de béquilles), des magazines pour la salle dattente et des articles pour la boutique de cadeaux comme un ours en peluche ou un ballon
 
