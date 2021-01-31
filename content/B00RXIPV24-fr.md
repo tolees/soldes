@@ -30,8 +30,8 @@ Vous avez [Tefal E8241934 Emotion Induction Poêl Wok 28cm](https://www.amazon.f
 
 - Performance longue durée: un revêtement en inox de qualité premium, garanti 10 ans
 - Son extérieur en inox poli assure une brillance éclatante et une durabilité longue durée
-- Diffusion parfaite de la chaleur grâce à son fond triple couche
 - Ergonomie et modernité avec des poignées en bi-matière pour une gamme tous feux dont induction
 - Praticité : graduations intérieures pour voir la contenance
+- Diffusion parfaite de la chaleur grâce à son fond triple couche
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00RXIPV24/?tag=tolees0d-21)
