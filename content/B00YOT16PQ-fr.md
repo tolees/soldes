@@ -28,10 +28,10 @@ Vous avez [Iris Ohyama  parc pour chien / cage d extérieur / enclos / chenil 8 
 
 ℹ️:
 
-- En plastique moulé résistant et résistant, et le parc ne rouillera jamais
-- Le parc de 8 panneaux avec porte peut être utilisé à lintérieur ou à lextérieur
 - La porte du parc mesure 35,56cm de largeur pour50.8cm de hauteur
-- Tous les éléments sont poncés, pas de coins pointus
+- Le parc de 8 panneaux avec porte peut être utilisé à lintérieur ou à lextérieur
+- En plastique moulé résistant et résistant, et le parc ne rouillera jamais
 - Chaque fil est espacé de 2,54 cm
+- Tous les éléments sont poncés, pas de coins pointus
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YOT16PQ/?tag=tolees0d-21)
