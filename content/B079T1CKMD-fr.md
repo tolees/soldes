@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Black Panther - Marvel [Blu-ray] avec 33.40 % rabais '
-date: 2021-01-29 12:26:40
+date: 2021-01-31 04:49:14
 image: 'https://m.media-amazon.com/images/I/514DEVcENhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 15.0 EUR
 prodname: 'Black Panther - Marvel [Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Marvel'
 buyurl: 'https://www.amazon.fr/dp/B079T1CKMD/?tag=tolees0d-21'
 descuento: '33.40'
 average: '9.99'

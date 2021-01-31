@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Core Tommy Regular Polo   avec 51.36 % rabais '
-date: 2021-01-29 12:27:04
+date: 2021-01-31 04:48:45
 image: 'https://m.media-amazon.com/images/I/319yAoA6n8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 69.9 EUR
 prodname: 'Tommy Hilfiger Core Tommy Regular Polo  Blanc  Bright White 100   X-Large Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Tommy Hilfiger'
 buyurl: 'https://www.amazon.fr/dp/B0791VGVQY/?tag=tolees0d-21'
 descuento: '51.36'
 average: '34.0'
@@ -27,11 +28,11 @@ C'est en vente [Tommy Hilfiger Core Tommy Regular Polo  Blanc  Bright White 100 
 
 ℹ️:
 
-- 100 %
+- Boutonnière à trois boutons
+- Coupe classique
 - Broderie Tommy Hilfiger sur la poitrine
 - Bande décorative typique de la marque à larrière du col
-- Coupe classique
 - Col polo
-- Boutonnière à trois boutons
+- 100 %
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0791VGVQY/?tag=tolees0d-21)
