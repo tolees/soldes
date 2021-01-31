@@ -29,9 +29,9 @@ Vous avez [Levi s 501 Original Fit Jeans  Onewash  32W / 32L Homme](https://www.
 ℹ️:
 
 - Braguette boutonnée
-- Denim non extensible
-- 100 % Coton
 - Style 5 poches
 - Matières Importées
+- Denim non extensible
+- 100 % Coton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001QOE6DG/?tag=tolees0d-21)
