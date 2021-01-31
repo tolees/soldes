@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '42.20 % rabais sur Pentel 100 WM Marqueur peinture Indélébi'
-date: 2021-01-30 14:36:38
+date: 2021-01-31 20:54:07
 image: 'https://m.media-amazon.com/images/I/41P1L4gA8aL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.fr/dp/B000WGVHZY/?tag=tolees0d-21'
 descuento: '42.20'
-average: '6.85791666666667'
+average: '6.85865979381444'
 ---
 
 Vous avez [Pentel 100 WM Marqueur peinture Indélébile à Pointe Conique Moyenne Blanc](https://www.amazon.fr/dp/B000WGVHZY/?tag=tolees0d-21)  à  42.20 % de réduction, prix final  6.93 EUR (original: 11.99 EUR) ici:
