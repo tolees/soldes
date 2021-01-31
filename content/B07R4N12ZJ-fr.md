@@ -28,10 +28,10 @@ Vous avez [Razer Raiju Tournament Edition Mercury  2019  - Manette de jeu sans f
 
 ℹ️:
 
-- Une configuration des boutons multifonctions ergonomique Pour une personnalisation avancée
 - Boutons daction Méca-Tactile Razer Un toucher agréable avec une sensation tactile
-- Cet article n est plus en solde !
-- Configuration de lapplication mobile Pour un contrôle facile à portée de vos doigts
 - Mode sensibilité maximale Pour un avantage compétitif
+- Configuration de lapplication mobile Pour un contrôle facile à portée de vos doigts
+- Cet article n est plus en solde !
+- Une configuration des boutons multifonctions ergonomique Pour une personnalisation avancée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07R4N12ZJ/?tag=tolees0d-21)

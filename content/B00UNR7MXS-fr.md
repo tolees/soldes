@@ -28,9 +28,9 @@ C'est en vente [Warner Bros - Sur écoute - L intégrale de la série - Blu-ray 
 
 ℹ️:
 
-- édition :Blu-ray + Copie digitale
-- langue: français;anglais
 - Format:blu_ray
+- édition :Blu-ray + Copie digitale
 - Nombre darticles:20
+- langue: français;anglais
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00UNR7MXS/?tag=tolees0d-21)

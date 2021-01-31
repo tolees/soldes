@@ -29,9 +29,9 @@ Vous avez [FoodSaver FSFSMA0050-050 Boîte alimentaire spéciale marinade pour a
 ℹ️:
 
 - Description détaillée : Procédé qui permet de faire mariner les viandes, volailles, poissons et légumes en seulement quelques minutes au lieu de plusieurs heures. Idéal pour faire le vide et ainsi, conserver vos aliments frais plus longtemps en bloquant lair et lhumidité
-- Capacité : 2,1L
 - Quick marinator
 - Hermétique et imperméable aux odeurs
 - Fabriqué en SAN (Styrène-Acrylonitrile)
+- Capacité : 2,1L
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B007RYU6W4/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [7 Wonders - Extension Cities  Édition 2020  - Asmodee - Jeu de 
 
 ℹ️:
 
-- Savourez la deuxième extension de 7 Wonders dans sa nouvelle édition !
-- A partir de 10 ans De 3 à 7 joueurs Durée de jeu : 30 min
 - Cities est une extension au jeu 7 Wonders (édition 2020). Le jeu de base est nécessaire pour jouer. Elle est aussi compatible avec lextension Leaders (édition 2020). Attention, cette extension nest pas compatible avec les versions 7 wonders antérieures à 2020.
-- Cette extension donne désormais la possibilité de jouer jusqu’à 8 et propose des règles optionnelles pour jouer en équipes.
 - Cette extension propose une nouvelle famille de cartes qui viennent sajouter aux cartes Âges déjà présentes dans 7 Wonders. Dorénavant, mercenaires, voleurs, espions et diplomates donneront une envergure nouvelle à vos cités. En plus d’une nouvelle catégorie de bâtiments, les cartes Cities noires, cette deuxième extension pour 7 Wonders propose toutes les splendeurs de l’urbanisation à votre civilisation : la diplomatie, l’espionnage et même l’endettement.
+- A partir de 10 ans De 3 à 7 joueurs Durée de jeu : 30 min
+- Savourez la deuxième extension de 7 Wonders dans sa nouvelle édition !
+- Cette extension donne désormais la possibilité de jouer jusqu’à 8 et propose des règles optionnelles pour jouer en équipes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JQLHK3N/?tag=tolees0d-21)
