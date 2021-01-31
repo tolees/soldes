@@ -28,15 +28,15 @@ Vous avez [IK Multimedia - iRig Pro Duo I/O - Interface audio/MIDI mobile 2 cana
 
 ℹ️:
 
-- 2 sorties 1/4" symétriques
-- Finition caoutchoutée et commandes crantées pour utilisation fiable sur le terrain
-- Fonctionne avec 2 piles AA (incluses), alimentation par bus USB ou bloc secteur externe en option
-- Sortie casque avec direct monitoring
-- Entrée/sortie MIDI 2,5 mm avec câbles épanouis
 - Inclut les câbles Lightning, USB-C et USB-A
-- Commandes ergonomiques améliorées pour une précision maximale
-- 2 entrées combo XLR / ¼" guitare, micro et ligne
-- Préamplis classe A avec plage de gain améliorée et alimentation fantôme
+- Fonctionne avec 2 piles AA (incluses), alimentation par bus USB ou bloc secteur externe en option
+- Finition caoutchoutée et commandes crantées pour utilisation fiable sur le terrain
 - Conçu et fabriqué en Italie
+- Commandes ergonomiques améliorées pour une précision maximale
+- 2 sorties 1/4" symétriques
+- Préamplis classe A avec plage de gain améliorée et alimentation fantôme
+- Entrée/sortie MIDI 2,5 mm avec câbles épanouis
+- 2 entrées combo XLR / ¼" guitare, micro et ligne
+- Sortie casque avec direct monitoring
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084PP4DT8/?tag=tolees0d-21)
