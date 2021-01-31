@@ -1,29 +1,30 @@
 ---
 layout: post
-title: '57.91 % rabais sur Dragon Ball Z: Kakarot  PS4 '
-date: 2021-01-22 10:19:41
+title: '53.42 % rabais sur Bandai Namco Entertainment - Dragon Ball'
+date: 2021-01-31 19:03:17
 image: 'https://m.media-amazon.com/images/I/51D1eV-rtJL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07XJZS6L2-fr Dragon Ball Z: Kakarot PS4'
+slug: 'B07XJZS6L2-fr Bandai Namco Entertainment - Dragon Ball Z: Kakarot PS4'
 sku: 'B07XJZS6L2-fr'
 tags: [  ]
-actualPrice: 29.46 EUR
+actualPrice: 32.6 EUR
 currency: EUR
-price: 29.46
+price: 32.6
 comparePrice: 69.99 EUR
-prodname: 'Dragon Ball Z: Kakarot  PS4 '
+prodname: 'Bandai Namco Entertainment - Dragon Ball Z: Kakarot  PS4 '
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Bandai Namco Entertainment'
 buyurl: 'https://www.amazon.fr/dp/B07XJZS6L2/?tag=tolees0d-21'
-descuento: '57.91'
-average: '38.806363636363635'
+descuento: '53.42'
+average: '37.8515384615385'
 ---
 
-Vous avez [Dragon Ball Z: Kakarot  PS4 ](https://www.amazon.fr/dp/B07XJZS6L2/?tag=tolees0d-21)  à  57.91 % de réduction, prix final  29.46 EUR (original: 69.99 EUR) ici:
+Vous avez [Bandai Namco Entertainment - Dragon Ball Z: Kakarot  PS4 ](https://www.amazon.fr/dp/B07XJZS6L2/?tag=tolees0d-21)  à  53.42 % de réduction, prix final  32.6 EUR (original: 69.99 EUR) ici:
 
-[![Dragon Ball Z: Kakarot  PS4 ](https://m.media-amazon.com/images/I/51D1eV-rtJL._SL200_.jpg)](https://www.amazon.fr/dp/B07XJZS6L2/?tag=tolees0d-21)
+[![Bandai Namco Entertainment - Dragon Ball](https://m.media-amazon.com/images/I/51D1eV-rtJL._SL200_.jpg)](https://www.amazon.fr/dp/B07XJZS6L2/?tag=tolees0d-21)
 
 ℹ️:
 
