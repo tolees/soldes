@@ -28,8 +28,8 @@ C'est en vente [Funko - Figurines POP! Vinyl: Disney: Toy Story 4: Woody](https:
 
 ℹ️:
 
-- Issue de la gamme Disney: Toy Story, la figurine Woody rejoint la collection Funko POP!
 - Découvrez tous les autres produits Funko dédiés à lunivers Disney: Toy Story! Collectionnez-les tous!
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
+- Issue de la gamme Disney: Toy Story, la figurine Woody rejoint la collection Funko POP!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KPK5VYC/?tag=tolees0d-21)

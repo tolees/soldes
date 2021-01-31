@@ -28,13 +28,13 @@ Vous avez [Calor Pro Express Care Centrale Vapeur Haute Pression 7 Bars Fonction
 
 ℹ️:
 
-- CONTRÔLE : 3 préréglages électroniques pour obtenir léquilibre idéal entre vapeur et température
-- DOUBLE PROTECTION ANTI CALCAIRE : la technologie Protect System transforme les gouttelettes de calcaire en vapeur tandis que le collecteur de calcaire offre des performances vapeur durable
-- GLISSE PARFAITE : semelle auto-nettoyante
-- PRATIQUE : réservoir deau amovible
 - Fabriqué en France
-- GAIN DE TEMPS : 7 bars de vapeur haute pression ainsi quune fonction pressing puissante de 480 g/min
-- TRANSPORT FACILE ET SÉCURISE : système de verrouillage
 - Réparabilité 10 ans, Garantie 2 ans
+- DOUBLE PROTECTION ANTI CALCAIRE : la technologie Protect System transforme les gouttelettes de calcaire en vapeur tandis que le collecteur de calcaire offre des performances vapeur durable
+- CONTRÔLE : 3 préréglages électroniques pour obtenir léquilibre idéal entre vapeur et température
+- PRATIQUE : réservoir deau amovible
+- TRANSPORT FACILE ET SÉCURISE : système de verrouillage
+- GAIN DE TEMPS : 7 bars de vapeur haute pression ainsi quune fonction pressing puissante de 480 g/min
+- GLISSE PARFAITE : semelle auto-nettoyante
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01KZTSH00/?tag=tolees0d-21)

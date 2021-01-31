@@ -28,10 +28,10 @@ Vous avez [Yizhet Dongle USB Bluetooth Adaptateur Mini clé USB Bluetooth 4.0 av
 
 ℹ️:
 
-- Supporte la transmission de données à distance extra-longue (20M).Grâce à la transmission de deux modes réaliser la connexion Bluetooth plus stable.
+- Compatible avec Windows XP, 2003, Vista, 7, Windows 8, Windows 10 (deux 32 et 64 bits) . En outre, compatible avec les versions Bluetooth 3.0, 2.1 et 2.0.
+- Entièrement compatible avec Bluetooth 4.0 et employer contrôleur dorigine British CSR8510. Qui permet Microsoft Office et dautres logiciels à se connecter simplement avec Bluetooth drive.
 - Employe port USB 2.0, permet de simplement connecter votre ordinateur de bureau / ordinateur portable avec des périphériques Bluetooth tels que claviers, souris, casques, écouteurs, haut-parleurs, imprimantes, tablettes, appareils photo et autres.
 - Grâce à Bluetooth 4.0 pour mettre en œuvre une vitesse plus élevée (3Mbps), une sortie audio de faible énergie, un transfert de données même une partage dInternet.
-- Entièrement compatible avec Bluetooth 4.0 et employer contrôleur dorigine British CSR8510. Qui permet Microsoft Office et dautres logiciels à se connecter simplement avec Bluetooth drive.
-- Compatible avec Windows XP, 2003, Vista, 7, Windows 8, Windows 10 (deux 32 et 64 bits) . En outre, compatible avec les versions Bluetooth 3.0, 2.1 et 2.0.
+- Supporte la transmission de données à distance extra-longue (20M).Grâce à la transmission de deux modes réaliser la connexion Bluetooth plus stable.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LR8CNXU/?tag=tolees0d-21)

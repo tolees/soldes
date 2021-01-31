@@ -28,10 +28,10 @@ C'est en vente [Merrell Thermo Chill Mid Shell WP  Bottes de Neige Homme  Noir  
 
 ℹ️:
 
-- Doublure : fourrure synthétique
-- Fermeture : à lacets
 - Matériau extérieur : autre cuir
 - Matériau de la semelle : caoutchouc
+- Fermeture : à lacets
+- Doublure : fourrure synthétique
 - Type de talon : plat
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B078NJ5RDZ/?tag=tolees0d-21)
