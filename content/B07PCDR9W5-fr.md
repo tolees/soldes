@@ -28,12 +28,12 @@ C'est en vente [Sony WH-XB700 Casque sans fil Bluetooth Extra Bass 360 Reality A
 
 ℹ️:
 
-- Le design élégant, simple et sophistiqué du casque WH-XB700, s’accord avec tout. Les écouteurs rembourrés vous offre un maximum de confort.
-- Ce casque Bluetooth a un microphone intégré qui permets de recevoir des appels mais également dutiliser les assistants vocaux Alexa et lAssistant Google
-- Jusquà 30 heures dautonomie pour 4 heures de charge afin de se déplacer en TOTUE tranquillité. Disposez également de 90 minutes de lecture pour une charge rapide de 10 minutes.
-- Réponse en fréquence (communication Bluetooth) : 20 à 20 000 Hz (échantillonnage 44,1 kHz)
 - Le Wh-XB700 disposes des fonctions NFC et Bluetooth pour une connectivité instantanée
 - Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Réponse en fréquence (communication Bluetooth) : 20 à 20 000 Hz (échantillonnage 44,1 kHz)
+- Ce casque Bluetooth a un microphone intégré qui permets de recevoir des appels mais également dutiliser les assistants vocaux Alexa et lAssistant Google
+- Jusquà 30 heures dautonomie pour 4 heures de charge afin de se déplacer en TOTUE tranquillité. Disposez également de 90 minutes de lecture pour une charge rapide de 10 minutes.
 - Sensibilités (dB/mW):103 dB/mW
+- Le design élégant, simple et sophistiqué du casque WH-XB700, s’accord avec tout. Les écouteurs rembourrés vous offre un maximum de confort.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PCDR9W5/?tag=tolees0d-21)

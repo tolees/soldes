@@ -28,11 +28,11 @@ C'est en vente [Sony UBP-X800M2 Lecteur DVD Blu-Ray 4K Ultra HD](https://www.ama
 
 ℹ️:
 
-- Bénéficiez dun vrai son, cinéma, avec Dolby Atmos et DTS : X
-- Profitez dune qualité dimage optimale en Blu-ray 4K Ultra HD et de détails 4K exceptionnels
+- Consommation électrique (mode veille) : 0,4 W
 - Redécouvrez toute la clarté du son GR ce à la Hi-Res Audio et à la conversion ascendante de la technologie dsee H x
 - Regardez vos films à laide dune clé USB et de votre réseau à domicile. Profitez également de la connexion Bluetooth
-- Consommation électrique (mode veille) : 0,4 W
+- Bénéficiez dun vrai son, cinéma, avec Dolby Atmos et DTS : X
 - Connectez-vous via une double sortie HDMI pour profiter de sorties audio ou vidéo, USB, coaxiale numérique, Wi-Fi et LAN séparées
+- Profitez dune qualité dimage optimale en Blu-ray 4K Ultra HD et de détails 4K exceptionnels
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07M7WD3NB/?tag=tolees0d-21)

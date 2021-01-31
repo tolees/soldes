@@ -28,12 +28,12 @@ Vous avez [Lowepro 9 x 13cm objectif Case - Black](https://www.amazon.fr/dp/B004
 
 ℹ️:
 
-- <b>Type de produit</b>: Etui
-- <b>Capacité</b> : Objectif zoom standard, similaire au 50mm f/1.4 .
-- <b>Compatible</b>: Pour objectif 9 x 13 cm
-- <b>Couleur</b>: Noir
 - <b>Dimensions</b>: 8 x 8 x 6 cm
+- <b>Type de produit</b>: Etui
 - <b>Poids</b>: 100 g
 - <b>Description du produit</b>: Lowepro - LS10-PKAB
+- <b>Couleur</b>: Noir
+- <b>Capacité</b> : Objectif zoom standard, similaire au 50mm f/1.4 .
+- <b>Compatible</b>: Pour objectif 9 x 13 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004KJE8FU/?tag=tolees0d-21)

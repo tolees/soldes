@@ -28,10 +28,10 @@ Vous avez [Sylvanian Families - Le Village - La Grande Maison de Ville - 5365 - 
 
 ℹ️:
 
-- Comes with a standalone spiral staircase
 - Stimulates imaginative role-playing by children.
-- Suitable for ages three years and above
-- Includes a stylish balcony on the second floor
 - Chocolate Rabbit Older Sisters house
+- Includes a stylish balcony on the second floor
+- Suitable for ages three years and above
+- Comes with a standalone spiral staircase
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q3FF8HS/?tag=tolees0d-21)
