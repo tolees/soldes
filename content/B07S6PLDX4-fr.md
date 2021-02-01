@@ -28,10 +28,10 @@ Vous avez [PUMA Baskets Mode 370957 Nova 2 Blanc 38](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Saison : Automne Hiver
-- Couleur : Blanc
 - Fermeture : Lacets
+- Saison : Automne Hiver
 - Taille : 38 EU
 - Matière : Textile
+- Couleur : Blanc
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S6PLDX4/?tag=tolees0d-21)

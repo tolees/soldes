@@ -28,13 +28,13 @@ Vous avez [Bosch Automotive - Bosch C1 Chargeur de Batterie Automatique 12 V /3.
 
 ℹ️:
 
-- IP65 = hermétique à la poussière et protection contre les jets deau
 - Maintien de charge, idéal durant les pauses hivernales
-- Utilisation simple: les charges adaptées en fonction de létat de la batterie sont lancées par un simple appui sur un bouton
 - 3.5 A = 3 fois plus puissant et rapide quun chargeur standard (1.2A)
+- Utilisation simple: les charges adaptées en fonction de létat de la batterie sont lancées par un simple appui sur un bouton
+- Souplesse dutilisation: batteries plomb-acide, GEL ou EFB pour motos et véhicules légers - 12 V
 - Sécurité : fonctions de protection court-circuit et surchauffe
 - Sadapte aussi aux batteries très déchargées: à partir dune tension de 4,5 V
+- IP65 = hermétique à la poussière et protection contre les jets deau
 - Charge intelligente et automatique : microprocesseur intégré qui assure un niveau de charge optimal
-- Souplesse dutilisation: batteries plomb-acide, GEL ou EFB pour motos et véhicules légers - 12 V
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00RP3DEW6/?tag=tolees0d-21)

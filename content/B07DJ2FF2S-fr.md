@@ -28,8 +28,8 @@ Vous avez [New Balance 997H Core  Baskets Homme  Argenté  Pigment/Silver   42 E
 
 ℹ️:
 
-- New Balance Bleu Baskets en daim 997H
 - Voir la description de produit ci-dessous pour plus dinformations.
+- New Balance Bleu Baskets en daim 997H
 - Neuf et authentique. Nous sommes un vendeur autorisé de New Balance.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DJ2FF2S/?tag=tolees0d-21)

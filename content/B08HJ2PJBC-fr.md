@@ -28,8 +28,8 @@ Vous avez [Airwick Botanica Bougie Parfumée Cire d Origine Naturelle Vétiver d
 
 ℹ️:
 
-- Parfum inspiré par la nature
-- Produit non testé sur les animaux
 - Bougie à base de cire à 70% naturelle
+- Produit non testé sur les animaux
+- Parfum inspiré par la nature
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HJ2PJBC/?tag=tolees0d-21)
