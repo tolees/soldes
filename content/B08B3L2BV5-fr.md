@@ -28,8 +28,8 @@ C'est en vente [Alarme Maison sans Fil Ajax Hub 2 - Kit 10](https://www.amazon.f
 
 ℹ️:
 
-- 1 Centrale dalarme AJAX HUB2 W 9 Détecteurs douverture AJAX DOOR PROTECT W 4 Détecteurs de mouvement compatibles animaux AJAX MOTIONPROTECT W 1 Détecteur de mouvement avec caméra AJAX MOTION CAM W 3 Télécommandes dalarme AJAX SPACE CONTROL W 1 Sirène intérieure AJAX HOMESIREN W 1 Sirène extérieure AJAX STREETSIREN W 1 Clavier sans fil AJAX KEYPAD W 2 Détecteurs de fumée AJAX FIREPROTECT W
 - Connexion Ethernet Emplacements 2 cartes SIM Pilotable à distance Application mobile gratuite Ajax Installation facile Mode connecté et sécurisé
 - Bénéficiez des performances de la centrale dalarme Ajax Hub 2 pour sécuriser un local privé ou professionnel avec les accessoires nécessaires selon la taille du site. La centrale Hub 2 peut accueillir jusquà 100 accessoires et bénéficie dune communication Ethernet et double carte SIM GPRS.
+- 1 Centrale dalarme AJAX HUB2 W 9 Détecteurs douverture AJAX DOOR PROTECT W 4 Détecteurs de mouvement compatibles animaux AJAX MOTIONPROTECT W 1 Détecteur de mouvement avec caméra AJAX MOTION CAM W 3 Télécommandes dalarme AJAX SPACE CONTROL W 1 Sirène intérieure AJAX HOMESIREN W 1 Sirène extérieure AJAX STREETSIREN W 1 Clavier sans fil AJAX KEYPAD W 2 Détecteurs de fumée AJAX FIREPROTECT W
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08B3L2BV5/?tag=tolees0d-21)
