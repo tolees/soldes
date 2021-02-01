@@ -28,11 +28,11 @@ C'est en vente [Minimula ECO Trottinette Electrique 250W 36A Mixte Adulte  Blanc
 
 ℹ️:
 
-- Ce modèle Eco de la Minimula propose un excellent compromis entre force, robustesse et légèreté
-- Dimensions dépliées : 90x50x110
 - Poids 10 Kg
+- Ce modèle Eco de la Minimula propose un excellent compromis entre force, robustesse et légèreté
 - Très simple à transporter et à ranger. La trottinette vous permet de l’emporter partout avec vous
-- Ses roues de 8 pouces à lavant (gonflable), 6,5 pouces à larrière (pleine) et ses suspensions avant et arrière vous assurent un bien-être d’utilisation très appréciable
 - Munie d’un moteur de 250W, la trottinette vous transporte dans les zones urbaines sur près de 20 km, avec une vitesse allant jusqu’à 27 km/h
+- Ses roues de 8 pouces à lavant (gonflable), 6,5 pouces à larrière (pleine) et ses suspensions avant et arrière vous assurent un bien-être d’utilisation très appréciable
+- Dimensions dépliées : 90x50x110
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073F99VQJ/?tag=tolees0d-21)

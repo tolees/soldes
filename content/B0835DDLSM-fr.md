@@ -28,11 +28,11 @@ C'est en vente [Jacob Delafon E99899-CP Awaken Ensemble de douche  Chrome](https
 
 ℹ️:
 
-- Ensemble de douche Awaken composé dune douchette à main, dune barre à fixer au mur (avec porte-savon) et dun flexible de douche.
-- ÉCONOMIE D’EAU : 9 l/mn avec limiteur de débit.Pratique : porte-savon intégré
-- INSTALLATION FACILE : fixations ajustables.
-- ESTHÉTIQUE : design sublimé par la surface satinée de la douchette.
-- FACILE À NETTOYER : les picots en élastomère de la douchette limitent le dépôt de calcaire pour un nettoyage facile.
 - DOUCHETTE MULTI-FONCTIONS : douchette Ø 11 cm pour une couverture totale du corps. 3 jets au choix (jets énergisants, revitalisants & relaxants), activables dun seul mouvement du pouce. Flexible lisse et anti-torsion qui ne vrille pas.
+- Ensemble de douche Awaken composé dune douchette à main, dune barre à fixer au mur (avec porte-savon) et dun flexible de douche.
+- INSTALLATION FACILE : fixations ajustables.
+- ÉCONOMIE D’EAU : 9 l/mn avec limiteur de débit.Pratique : porte-savon intégré
+- FACILE À NETTOYER : les picots en élastomère de la douchette limitent le dépôt de calcaire pour un nettoyage facile.
+- ESTHÉTIQUE : design sublimé par la surface satinée de la douchette.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0835DDLSM/?tag=tolees0d-21)
