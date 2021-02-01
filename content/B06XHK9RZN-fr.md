@@ -29,8 +29,8 @@ C'est en vente [Gallantry - Grand Sac à Main de Cours Femmes Ordinateur Portabl
 ℹ️:
 
 - MARQUE D’ORIGINE: Gallantry, design en France signé par MODE VOGUE. Sac Femme en matière synthétique premium. Modèle sac à main classe ornée des détails et finitions de qualité.
-- DIMENSIONS & FERMETURE: L 45cmx H 29 x l 13 cm, forme trapèze; Sac shopping fermeture éclair, deux anses solides en hauteur 27cm. Ce grand sac accepte des classeurs a4 à levier 24x32 cm, et ordinateur portable jusqu’à 15 pouces.
 - PRODUIT & DESIGN: Sac à main femme, cabas fourre-tout format A4, doté d’un grand compartiment central. Sac élégant idéal pour votre utilisation quotidienne: ville, travail, cours, plage, voyage, bureau... Convient à toutes les femmes actives, par ex: lycéennes et étudiantes.
+- DIMENSIONS & FERMETURE: L 45cmx H 29 x l 13 cm, forme trapèze; Sac shopping fermeture éclair, deux anses solides en hauteur 27cm. Ce grand sac accepte des classeurs a4 à levier 24x32 cm, et ordinateur portable jusqu’à 15 pouces.
 - RANGEMENTS MULTIPLES: Un grand compartiment et une poche zippée centrale, avec trois poches latérales d’intérieure, une poche zippée d’extérieure.
 - MATIERE & DETAILS: Similicuir Saffiano imperméable, imitation cuir semi-rigide, en bandes rayures multicolore. Orné un pompon métalique en avant de couleur doré.
 

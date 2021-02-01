@@ -28,10 +28,10 @@ C'est en vente [Grundig DSB 970 Barre de Son Tout-en-Un Noir](https://www.amazon
 
 ℹ️:
 
-- Puissance de sortie maximale : 120 W
 - Diffusion de musique Bluetooth (V 4. 2) Plage de transmission (Hz) : 60 - 20 000
 - Augmentez le plaisir de votre TV et profitez de votre musique préférée avec la meilleure qualité sonore
-- Support mural, télécommande et accessoires inclus
 - 2. Barre de son 1 canal avec caisson de basses intégré
+- Support mural, télécommande et accessoires inclus
+- Puissance de sortie maximale : 120 W
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y3QYXDW/?tag=tolees0d-21)

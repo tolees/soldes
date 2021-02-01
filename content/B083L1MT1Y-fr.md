@@ -29,8 +29,8 @@ C'est en vente [Sylvanian Families - Le Village - La Famille Chien Caramel - 545
 ℹ️:
 
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : la famille, La nature et lamour. Jouer avec Sylvanian Families, c’est se constituer des souvenirs pour la vie !
-- A partir de 3 ans.
 - Inclus : 1 figurine papa, 1 figurine maman, 1 figurine fils et 1 figurine fille.
+- A partir de 3 ans.
 - Leurs vêtements peuvent être enlevés et remis à loisir
 - La nouvelle famille à collectionner pour agrandir le village Sylvanian.
 
