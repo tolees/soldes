@@ -28,10 +28,10 @@ Vous avez [Playmobil - Camion de Dépannage - 70199](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- 2 figures, Tow truck with winch and ramp, Working flashing light, Motocross bike, Removable roof, Can be upgraded with RC module set (6914 sold separately)
-- Contents: 1x Playmobil City Life Towing Service, 42-piece play figure set with instructions: 1 tow truck with motorcycle, 2 figures, 39 accessories (batteries included), Material: plastic, L x T x H (tow truck): 32 x 13 x 15 cm, 70199
-- Playset for children for children ages 4+, Ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
-- Can be used every day: instructions for setting up with parents, High quality and robust design, Clean the parts (without stickers) under running water without chemical agents
 - Fun in the city: Playmobil Towing Service, playset with figures, Flashing light and accessories for detailed re-enactments
+- 2 figures, Tow truck with winch and ramp, Working flashing light, Motocross bike, Removable roof, Can be upgraded with RC module set (6914 sold separately)
+- Can be used every day: instructions for setting up with parents, High quality and robust design, Clean the parts (without stickers) under running water without chemical agents
+- Playset for children for children ages 4+, Ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
+- Contents: 1x Playmobil City Life Towing Service, 42-piece play figure set with instructions: 1 tow truck with motorcycle, 2 figures, 39 accessories (batteries included), Material: plastic, L x T x H (tow truck): 32 x 13 x 15 cm, 70199
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P8PMYDR/?tag=tolees0d-21)

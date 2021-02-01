@@ -28,8 +28,8 @@ Vous avez [SONY Xperia 10 II - Smartphone Android - Ecran 6" OLED 21:9 - Apparei
 
 ℹ️:
 
-- Couleurs impressionnantes & expérience immersive : plongez au cœur de laction grâce à loptimisation vidéo du grand écran 6" OLED 21:9
 - De magnifiques photos, simplement : Libérez votre créativité avec lappareil photo triple objectif (12, 26 et 52 mm)
+- Couleurs impressionnantes & expérience immersive : plongez au cœur de laction grâce à loptimisation vidéo du grand écran 6" OLED 21:9
 - Résistance à l’eau (IP65/68), verre Gorilla Glass 6
 - Autonomie longue durée (3600mAh)
 

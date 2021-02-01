@@ -28,10 +28,10 @@ Vous avez [Sony SRS-XB33 | Enceinte Portable EXTRA BASS Bluetooth Stéréo  Sans
 
 ℹ️:
 
-- Make your party even bigger connect up to 100 compatible wireless speakers or stereo pair
-- Charge your smartphone directly from your SRS-XB33 speaker
 - Light it up with the customisable, multi-coloured speaker and line lights that move to the beat
-- Experience powerful sound, deep punchy bass and enhanced vocal clarity
+- Charge your smartphone directly from your SRS-XB33 speaker
+- Make your party even bigger connect up to 100 compatible wireless speakers or stereo pair
 - This portable speaker is waterproof, dustproof, rustproof (IP67), saltwater resistant, and shockproof (up to 1.2 m) with up to 24 hours battery life
+- Experience powerful sound, deep punchy bass and enhanced vocal clarity
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B42N6RG/?tag=tolees0d-21)

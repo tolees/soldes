@@ -28,9 +28,9 @@ Vous avez [LEGO Technic 42124 Buggy tout-terrain à piloter avec CONTROL+ App  J
 
 ℹ️:
 
-- Les couleurs et les autocollants inspirés des années 80 affichent un style délicieusement rétro.
 - L’application gratuite CONTROL+ à télécharger ajoute une nouvelle dimension à ce buggy télécommandé. Cette application permet de contrôler la voiture, de réaliser des cascades et de débloquer des défis, des effets sonores et plus encore.
 - Les pilotes effectuent facilement des figures grâce aux suspensions avant et arrière de la voiture, à ses pneus massifs et à son avant incliné.
+- Les couleurs et les autocollants inspirés des années 80 affichent un style délicieusement rétro.
 - Ce buggy tout-terrain constitue un formidable cadeau. Et parce que les adultes nostalgiques de voitures télécommandées classiques des années 80 vont l’adorer, ce modèle offre une expérience que toutes les générations pourront partager.
 - Le kit de construction LEGO Buggy tout-terrain (42124) offre des heures de jeu. Ce buggy tout-terrain télécommandé regorge de fonctions inspirées des voitures télécommandées originales des années 80.
 - Pour bénéficier de toutes les caractéristiques de ce jouet contrôlé via une application, 6 piles LR6/AA (non fournies) sont nécessaires.

@@ -28,10 +28,10 @@ C'est en vente [Vertbaudet Sac de Couchage Readybed® avec Matelas intégré PIN
 
 ℹ️:
 
-- Comfortable mattress
 - Comes with inflator and carry case to take anywhere
-- Printed designs
+- Comfortable mattress
 - Integrated inflatable mattress
+- Printed designs
 - With headboard for child support
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MZC7VVM/?tag=tolees0d-21)
