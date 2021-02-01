@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony UBP-X800M2 Lecteur DVD Blu-Ray 4K U avec 16.55 % rabais '
-date: 2021-01-31 10:08:56
+date: 2021-02-01 15:26:00
 image: 'https://m.media-amazon.com/images/I/21DLFSZ45XL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B07M7WD3NB/?tag=tolees0d-21'
 descuento: '16.55'
-average: '313.922307692307'
+average: '312.356428571428'
 ---
 
 C'est en vente [Sony UBP-X800M2 Lecteur DVD Blu-Ray 4K Ultra HD](https://www.amazon.fr/dp/B07M7WD3NB/?tag=tolees0d-21)  à  16.55 % de réduction, prix final  292.0 EUR (original: 349.9 EUR) ici:
@@ -28,11 +28,11 @@ C'est en vente [Sony UBP-X800M2 Lecteur DVD Blu-Ray 4K Ultra HD](https://www.ama
 
 ℹ️:
 
-- Consommation électrique (mode veille) : 0,4 W
-- Redécouvrez toute la clarté du son GR ce à la Hi-Res Audio et à la conversion ascendante de la technologie dsee H x
-- Regardez vos films à laide dune clé USB et de votre réseau à domicile. Profitez également de la connexion Bluetooth
 - Bénéficiez dun vrai son, cinéma, avec Dolby Atmos et DTS : X
-- Connectez-vous via une double sortie HDMI pour profiter de sorties audio ou vidéo, USB, coaxiale numérique, Wi-Fi et LAN séparées
+- Consommation électrique (mode veille) : 0,4 W
 - Profitez dune qualité dimage optimale en Blu-ray 4K Ultra HD et de détails 4K exceptionnels
+- Regardez vos films à laide dune clé USB et de votre réseau à domicile. Profitez également de la connexion Bluetooth
+- Connectez-vous via une double sortie HDMI pour profiter de sorties audio ou vidéo, USB, coaxiale numérique, Wi-Fi et LAN séparées
+- Redécouvrez toute la clarté du son GR ce à la Hi-Res Audio et à la conversion ascendante de la technologie dsee H x
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07M7WD3NB/?tag=tolees0d-21)

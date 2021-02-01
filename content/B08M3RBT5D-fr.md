@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'CHiQ TV L42G6F avec 42.00 % rabais '
-date: 2021-01-31 10:11:16
+date: 2021-02-01 15:37:27
 image: 'https://m.media-amazon.com/images/I/51gbDzOzQFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [CHiQ TV L42G6F](https://www.amazon.fr/dp/B08M3RBT5D/?tag=tolees0
 
 ℹ️:
 
-- Google assistant avec recherche vocale. Opérations simples, réponse en temps réel.
-- HDR10, Full HD(1920*1080), audio Dolby, sortie audio 2x8W. Image claire et vive et son homogène, profitez dune expérience cinématographique.
 - Google Play, plus de 4000 application disponibles, NETFLIX, Youtube, Prime Vidéo, multi-plateforme, multi-contenu pour plus de divertissements.
-- Android TV, Android 9.0 Smart system en partenariat officiel avec Google. Android TV, Android 9.0 Smart system en partenariat officiel avec Google.
 - Processeur quadruple cœur, GPU triple cœur Mali 470, 8GB eMMC pour un fonctionnement plus rapide. Accès à beaucoup plus dapplications
+- Google assistant avec recherche vocale. Opérations simples, réponse en temps réel.
+- Android TV, Android 9.0 Smart system en partenariat officiel avec Google. Android TV, Android 9.0 Smart system en partenariat officiel avec Google.
+- HDR10, Full HD(1920*1080), audio Dolby, sortie audio 2x8W. Image claire et vive et son homogène, profitez dune expérience cinématographique.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08M3RBT5D/?tag=tolees0d-21)

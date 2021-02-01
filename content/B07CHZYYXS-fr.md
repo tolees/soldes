@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s SS Original HM Tee T-Shirt  Cotto avec 20.04 % rabais '
-date: 2021-01-31 15:20:23
+date: 2021-02-01 15:57:02
 image: 'https://m.media-amazon.com/images/I/418TVrmbJ1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Levis'
 buyurl: 'https://www.amazon.fr/dp/B07CHZYYXS/?tag=tolees0d-21'
 descuento: '20.04'
-average: '18.4528070175439'
+average: '18.5049152542373'
 ---
 
 C'est en vente [Levi s SS Original HM Tee T-Shirt  Cotton + Patch Black  L Homme](https://www.amazon.fr/dp/B07CHZYYXS/?tag=tolees0d-21)  à  20.04 % de réduction, prix final  19.99 EUR (original: 25.0 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [Levi s SS Original HM Tee T-Shirt  Cotton + Patch Black  L Homme
 
 ℹ️:
 
+- Col rond
 - Jersey
+- Col rond
 - Manches courtes
 - 100 % coton
-- Col rond
-- Col rond
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CHZYYXS/?tag=tolees0d-21)

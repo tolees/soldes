@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko POP! KEYCHAIN: Toy Story 4 - Bo Pe avec 19.27 % rabais '
-date: 2021-01-31 10:00:50
+date: 2021-02-01 15:57:37
 image: 'https://m.media-amazon.com/images/I/41yZtJPXEDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [Funko POP! KEYCHAIN: Toy Story 4 - Bo Peep](https://www.amazon.f
 
 ℹ️:
 
-- Figurine officielle Funko
 - Quantité de colis darticles : 1
 - Couleur: Multicolore
 - Age range description: Adolescent, Adulte.
+- Figurine officielle Funko
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PJVGRPL/?tag=tolees0d-21)
