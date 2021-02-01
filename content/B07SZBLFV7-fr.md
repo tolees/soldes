@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Chuck-Saisons 1-5-L intégrale de la séri avec 50.16 % rabais '
-date: 2021-01-28 06:05:43
+date: 2021-02-01 06:05:40
 image: 'https://m.media-amazon.com/images/I/51+Ea6W4BbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 50.16 EUR
 prodname: 'Chuck-Saisons 1-5-L intégrale de la série'
 country: 'fr'
 flag: '🇫🇷'
+brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SZBLFV7/?tag=tolees0d-21'
 descuento: '50.16'
 average: '25.0'
