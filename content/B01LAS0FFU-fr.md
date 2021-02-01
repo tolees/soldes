@@ -28,10 +28,10 @@ Vous avez [GORE WEAR TGBWSH GORE WEAR Short+ Homme Black FR: M  Taille Fabricant
 
 ℹ️:
 
+- Utilisable toute l’année, Évacuation rapide de l’humidité grâce aux matières fonctionnelles élastiques, Séchage rapide et grande respirabilité grâce au tissu GORE Selected Fabrics
+- 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Cuissard de cyclisme rembourré pour homme (longueur d’entrejambe: 32 cm) avec collant intérieur et insert peau de chamois, Pour le cycliste orienté loisir appréciant les balades entre amis, Optimal pour les courtes distances, Coupe confortable
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Insert peau de chamois: Spécialement conçu pour la position assise sur vélo, Maintien de la rotation du bassin, Favorise la circulation sanguine et réduit l’engourdissement grâce à sa forme adaptée à la morphologie de l’homme, Haute absorption de la trans
-- Utilisable toute l’année, Évacuation rapide de l’humidité grâce aux matières fonctionnelles élastiques, Séchage rapide et grande respirabilité grâce au tissu GORE Selected Fabrics
-- Cuissard de cyclisme rembourré pour homme (longueur d’entrejambe: 32 cm) avec collant intérieur et insert peau de chamois, Pour le cycliste orienté loisir appréciant les balades entre amis, Optimal pour les courtes distances, Coupe confortable
-- 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LAS0FFU/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Funko Pop! Heroes: Batman & Robin - Mr. Freeze](https://www.amaz
 
 ℹ️:
 
-- Collectionnez-les tous
-- Issue de la gamme Batman & Robin, la figurine Mr. Freeze rejoint la collection Funko POP
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Batman & Robin
+- Issue de la gamme Batman & Robin, la figurine Mr. Freeze rejoint la collection Funko POP
+- Collectionnez-les tous
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZZP7PJ9/?tag=tolees0d-21)
