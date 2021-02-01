@@ -28,15 +28,15 @@ C'est en vente [BÉABA  Babycook Duo Robot Bébé 4 en 1 Mixeur-Cuiseur  Cuisson
 
 ℹ️:
 
-- ENTRETIEN : Couvercle, panier, opercule de mixage, couteau de mixage peuvent être lavé à la main ou au lave-vaisselle ; PRECAUTION DEMPLOI : Mettre de leau dans le réservoir de chauffage et non dans le bol (sans BPA *conformément à la règlementation en vigueur)
-- CUISSON SANS SURVEILLANCE : Arrêt automatique avec signal sonore et lumineux en fin de cycle : Pour une cuisson sans surveillance
-- ACCESSOIRES INCLUS : couvercle de mixage / filtre à smoothie, spatule, et livret de recettes
-- GRANDE CONTENANCE : Bol XXL de 2 200 ml, idéal pour préparer des quantités importantes en un tour de main.
-- PLUSIEURS TEXTURES : Mixage par impulsion avec lame effet cyclone. Les aliments sont mixés sur mesure, pour une texture adaptée à lâge de lenfant (morceaux, mouliné ou velouté)
 - PANIER DE CUISSON AMOVIBLE : Possibilité de récupérer leau de cuisson riche en vitamines et minéraux pour moduler la texture des préparations.
-- ROBOT QUATRE EN UN : Cuit à la vapeur, mixe, décongèle, réchauffe, Contenance XXL
-- CUISSON RAPIDE : Cuisson vapeur rapide en 15 minutes : Préserve les saveurs et les vitamines des aliments
-- DEUX BOLS INDÉPENDANTS : Pour cuire simultanément deux préparations et préserver les saveurs et odeurs de chacune dentre elles
+- PLUSIEURS TEXTURES : Mixage par impulsion avec lame effet cyclone. Les aliments sont mixés sur mesure, pour une texture adaptée à lâge de lenfant (morceaux, mouliné ou velouté)
 - DOSEUR DEAU INTÉGRÉ : Doseur deau intégré sur le bol : dosage facile des quantités deau à transvaser dans la cuve.
+- CUISSON SANS SURVEILLANCE : Arrêt automatique avec signal sonore et lumineux en fin de cycle : Pour une cuisson sans surveillance
+- ENTRETIEN : Couvercle, panier, opercule de mixage, couteau de mixage peuvent être lavé à la main ou au lave-vaisselle ; PRECAUTION DEMPLOI : Mettre de leau dans le réservoir de chauffage et non dans le bol (sans BPA *conformément à la règlementation en vigueur)
+- DEUX BOLS INDÉPENDANTS : Pour cuire simultanément deux préparations et préserver les saveurs et odeurs de chacune dentre elles
+- CUISSON RAPIDE : Cuisson vapeur rapide en 15 minutes : Préserve les saveurs et les vitamines des aliments
+- GRANDE CONTENANCE : Bol XXL de 2 200 ml, idéal pour préparer des quantités importantes en un tour de main.
+- ACCESSOIRES INCLUS : couvercle de mixage / filtre à smoothie, spatule, et livret de recettes
+- ROBOT QUATRE EN UN : Cuit à la vapeur, mixe, décongèle, réchauffe, Contenance XXL
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V1HCCNY/?tag=tolees0d-21)

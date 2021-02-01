@@ -30,8 +30,8 @@ C'est en vente [Ejendals 3358S-41 Chaussures de sécurité Jalas 3358s Easy Grip
 
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Conformité EN: EN ISO 20345:2011, S3 HRO SRB
-- Environnements dutilisation: Espaces en plein air
-- Type: Chaussures de sécurité, chaussures basses
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Type: Chaussures de sécurité, chaussures basses
+- Environnements dutilisation: Espaces en plein air
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GJYEWFY/?tag=tolees0d-21)
