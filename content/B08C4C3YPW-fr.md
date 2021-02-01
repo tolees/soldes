@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Collection James Bond-Coffret Roger M avec 50.19 % rabais '
-date: 2021-01-31 15:34:37
+date: 2021-02-01 22:11:48
 image: 'https://m.media-amazon.com/images/I/41LDX+xCR+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08C4C3YPW/?tag=tolees0d-21'
 descuento: '50.19'
-average: '19.994'
+average: '19.9928571428571'
 ---
 
 C'est en vente [La Collection James Bond-Coffret Roger Moore [Blu-Ray]](https://www.amazon.fr/dp/B08C4C3YPW/?tag=tolees0d-21)  à  50.19 % de réduction, prix final  19.99 EUR (original: 40.13 EUR) ici:
