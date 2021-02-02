@@ -28,8 +28,8 @@ C'est en vente [CONVERSE SS 2019 Sac bandoulière  22 cm  5 litres  Black](https
 
 ℹ️:
 
-- CONVERSE ORIGINAL
 - POCHES INTERNES
 - BANDOULIÉRE CLASSIC
+- CONVERSE ORIGINAL
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MRN5XWM/?tag=tolees0d-21)
