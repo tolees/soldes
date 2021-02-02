@@ -29,9 +29,9 @@ Vous avez [MGI COUTIER 950320 Lève Vitre](https://www.amazon.fr/dp/B00DYWJ66U/?
 ℹ️:
 
 - Leve Vitre Focus La Piece
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Mgi Coutier
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Accessoires auto 950320
+- Mgi Coutier
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DYWJ66U/?tag=tolees0d-21)

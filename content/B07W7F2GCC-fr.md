@@ -28,8 +28,8 @@ Vous avez [Funko- Pop Animation: Dragon Ball Z-Android 16 Collectible Toy  44265
 
 ℹ️:
 
+- Ps4 switch xbox one
 - Accessoires
 - Goodies
-- Ps4 switch xbox one
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W7F2GCC/?tag=tolees0d-21)

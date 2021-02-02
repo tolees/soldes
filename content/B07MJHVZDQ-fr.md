@@ -28,8 +28,8 @@ C'est en vente [Paladone - Playstation Digital Réveil LCD | PS4 Dualshock Contr
 
 ℹ️:
 
-- ★ Vue arrière LCD avec rétro-éclairage et alarme sonore (câble USB inclus) ★
 - ★ Contrôlez le réveil avec les touches D Pad, X et Circle ★
+- ★ Vue arrière LCD avec rétro-éclairage et alarme sonore (câble USB inclus) ★
 - ★ Produit officiel sous licence PlayStation★
 - ★ Réveil alimenté par USB au design de la manette classique PlayStation★
 - ★ Fabriqué à partir de matières plastiques – il est naturellement démonté et recyclable dans les décharges ★

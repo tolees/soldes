@@ -28,10 +28,10 @@ Vous avez [UGG Femme Classic Mini Bottes Sans fermeture  Noir  40 EU](https://ww
 
 ℹ️:
 
-- Treadlite-Sohle für Polsterung, Strapazierfähigkeit und Griffigkeit
-- Fersenschlaufe für leichtes Anziehen
-- Nicht wasserdicht - bitte vor dem ersten Tragen imprägnieren
 - Der Classic Mini II ist ein Stiefel in Miniaturoptik von UGG für Damen für kalte Wintertage.
 - Offenkantige Nähte im typischen UGG-Stil
+- Nicht wasserdicht - bitte vor dem ersten Tragen imprägnieren
+- Fersenschlaufe für leichtes Anziehen
+- Treadlite-Sohle für Polsterung, Strapazierfähigkeit und Griffigkeit
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AY6BWGK/?tag=tolees0d-21)

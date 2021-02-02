@@ -29,9 +29,9 @@ C'est en vente [Cuisinart CPK18E Bouilloire Multi-Températures  Température va
 ℹ️:
 
 - Design élégant avec corps en acier inoxydable
-- Prise en charge de 3 ans
 - Filtre à calcaire amovible
-- 6 réglages de température entre 75 et 100°C
+- Prise en charge de 3 ans
 - 3kW, capacité de 1,7L
+- 6 réglages de température entre 75 et 100°C
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00OB3XKIQ/?tag=tolees0d-21)
