@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '65.46 % rabais sur Marvel - Prestige 3D + Blu-Ray 2D + Figu'
-date: 2021-02-01 15:48:19
+title: '65.73 % rabais sur Marvel - Prestige 3D + Blu-Ray 2D + Figu'
+date: 2021-02-02 16:12:04
 image: 'https://m.media-amazon.com/images/I/51xIZJAC74L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
-comparePrice: 72.36 EUR
+comparePrice: 72.93 EUR
 prodname: 'Marvel - Prestige 3D + Blu-Ray 2D + Figurines Pop  Funko  de Doctor Strange et Kaecilius-Édition Exclusive Amazon limitée'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Marvel'
 buyurl: 'https://www.amazon.fr/dp/B01LTHXAK4/?tag=tolees0d-21'
-descuento: '65.46'
-average: '32.071'
+descuento: '65.73'
+average: '31.4272727272727'
 ---
 
-Vous avez [Marvel - Prestige 3D + Blu-Ray 2D + Figurines Pop  Funko  de Doctor Strange et Kaecilius-Édition Exclusive Amazon limitée](https://www.amazon.fr/dp/B01LTHXAK4/?tag=tolees0d-21)  à  65.46 % de réduction, prix final  24.99 EUR (original: 72.36 EUR) ici:
+Vous avez [Marvel - Prestige 3D + Blu-Ray 2D + Figurines Pop  Funko  de Doctor Strange et Kaecilius-Édition Exclusive Amazon limitée](https://www.amazon.fr/dp/B01LTHXAK4/?tag=tolees0d-21)  à  65.73 % de réduction, prix final  24.99 EUR (original: 72.93 EUR) ici:
 
 [![Marvel - Prestige 3D + Blu-Ray 2D + Figu](https://m.media-amazon.com/images/I/51xIZJAC74L._SL200_.jpg)](https://www.amazon.fr/dp/B01LTHXAK4/?tag=tolees0d-21)
 
