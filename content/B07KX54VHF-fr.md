@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '32.73 % rabais sur LEGO Le Magicobus Harry Potter Bus Viole'
-date: 2021-01-31 09:58:21
+date: 2021-02-02 03:49:37
 image: 'https://m.media-amazon.com/images/I/51YBK2rOmeL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21'
 descuento: '32.73'
-average: '31.7336283185841'
+average: '31.6912280701754'
 ---
 
 Vous avez [LEGO Le Magicobus Harry Potter Bus Violet à 3 Niveaux Jeu d Assemblage  75957](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21)  à  32.73 % de réduction, prix final  26.9 EUR (original: 39.99 EUR) ici:

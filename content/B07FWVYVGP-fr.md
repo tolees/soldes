@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 724 High Rise Straight Jean Droit avec 27.52 % rabais '
-date: 2021-01-31 09:44:40
+date: 2021-02-02 03:47:46
 image: 'https://m.media-amazon.com/images/I/31h+44wJoML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Levi s 724 High Rise Straight Jean Droit  to The Nine  30W / 32L
 
 ℹ️:
 
+- haute
+- Ne se lave pas
+- Droit
 - Fermeture : bouton
 - 84 % coton, 14 % polyester, 2 % élasthanne
-- haute
-- Droit
-- Ne se lave pas
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FWVYVGP/?tag=tolees0d-21)

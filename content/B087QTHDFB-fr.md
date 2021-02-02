@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubisoft - Assassin s Creed Valhalla - Éd avec 28.58 % rabais '
-date: 2021-02-01 03:48:32
+date: 2021-02-02 03:57:59
 image: 'https://m.media-amazon.com/images/I/51NScdLrTVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Ubisoft'
 buyurl: 'https://www.amazon.fr/dp/B087QTHDFB/?tag=tolees0d-21'
 descuento: '28.58'
-average: '60.8831249999999'
+average: '60.2423529411764'
 ---
 
 C'est en vente [Ubisoft - Assassin s Creed Valhalla - Édition Limitée Amazon - Xbox One & Xbox Series X](https://www.amazon.fr/dp/B087QTHDFB/?tag=tolees0d-21)  à  28.58 % de réduction, prix final  49.99 EUR (original: 69.99 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [Ubisoft - Assassin s Creed Valhalla - Édition Limitée Amazon -
 
 ℹ️:
 
-- Un monde ouvert situé dans les âges obscurs du Moyen Âge
 - Un système de combat viscéral
+- Un monde ouvert situé dans les âges obscurs du Moyen Âge
+- Menez des raids épiques
 - Faites grandir votre colonie
 - Écrivez votre propre saga viking
-- Menez des raids épiques
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087QTHDFB/?tag=tolees0d-21)
