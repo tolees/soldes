@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Davis Club - Eva chêne Clair avec 32.02 % rabais '
-date: 2021-01-25 21:29:49
+date: 2021-02-02 12:27:31
 image: 'https://m.media-amazon.com/images/I/41Umd6H4Y4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 250.0 EUR
 prodname: 'Davis Club - Eva chêne Clair'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Davis Club'
 buyurl: 'https://www.amazon.fr/dp/B085GV5FCS/?tag=tolees0d-21'
 descuento: '32.02'
 average: '169.94'
@@ -27,9 +28,9 @@ C'est en vente [Davis Club - Eva chêne Clair](https://www.amazon.fr/dp/B085GV5F
 
 ℹ️:
 
-- Puissance nominale 80 W / Puissance maximale 110 W
-- Medium fibre de verre 13 cm
-- Rendement 88 dB
 - 1 paire dEnceintes bibliothèques
+- Rendement 88 dB
+- Medium fibre de verre 13 cm
+- Puissance nominale 80 W / Puissance maximale 110 W
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085GV5FCS/?tag=tolees0d-21)

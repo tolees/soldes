@@ -28,9 +28,9 @@ Vous avez [Apli 101580 Lot de 200 Etiquettes américaines avec Fil de fer 120 x 
 
 ℹ️:
 
-- Idéale pour lidentification des petits objets ou létiquetage des prix
-- Papier bristol couleur crème
 - Ecriture manuelle
 - Oeillet renforcé, finition soignée
+- Idéale pour lidentification des petits objets ou létiquetage des prix
+- Papier bristol couleur crème
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CDHW76S/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Casio Graph 35+ E Calculatrice graphique USB avec mode examen](h
 
 ℹ️:
 
-- Type de produit: Calculatrice graphique
-- Génération de nombres entiers aléatoires
-- Affichage: Jusqu?? 8 lignes
 - Sans mode Exam
+- Génération de nombres entiers aléatoires
 - Ce produit est spécifiquement conçu et paramétré pour convenir et répondre aux exigences des programmes scolaires de léducation nationale en France et établissement scolaires français de létranger
+- Type de produit: Calculatrice graphique
+- Affichage: Jusqu?? 8 lignes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000WI3ADO/?tag=tolees0d-21)
