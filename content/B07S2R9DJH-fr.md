@@ -28,9 +28,9 @@ C'est en vente [Ravensburger- 15025 Puzzle 1000 pièces-Maléfique  Collection D
 
 ℹ️:
 
-- Contenu du produit : 1 puzzle de 1000 pièces
 - Age minimum : 14 ans
 - Plaisir et relaxation
+- Contenu du produit : 1 puzzle de 1000 pièces
 - Dimensions du puzzle : 70 x 50 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07S2R9DJH/?tag=tolees0d-21)

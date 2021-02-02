@@ -28,9 +28,9 @@ C'est en vente [M-Home PLS8160-163 Poubelle à Pédale  Plastique  Carbone  40 L
 
 ℹ️:
 
-- Sans BPA / Patins antiglisse / Système de fermeture "Soft-Closing"
 - Vous ne pourrez quapprécier cette grande Poubelle à Pédale 40 L: sa contenance est parfaite pour une grande famille, elle présente une large ouverture et elle est  idéale aussi bien dans une cuisine que dans un bureau. Une Poubelle Tendance qui apportera une touche Design à votre cuisine, salle de bain ou encore votre bureau ! A adopter sans tarder ! Matières: Polypropylène et film aspect (Alu, métal noir ou rouge, carbone) . Dimensions: L 39 cm x Pf 29 cm x H 63.5 cm.
-- Plastique / Motif Carbone
 - 39,2 x 29,6 x 63,4 cm / 40 L
+- Plastique / Motif Carbone
+- Sans BPA / Patins antiglisse / Système de fermeture "Soft-Closing"
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01EJ5L7QC/?tag=tolees0d-21)
