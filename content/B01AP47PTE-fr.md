@@ -29,9 +29,9 @@ C'est en vente [SIMBR TV Support Mural pour Ecran plat 17" - 55"  44-140cm  de T
 ℹ️:
 
 - 【GESTION DES CÂBLES】Le support mural est fabriqué avec un système de gestion des câbles pré-installé, vous pouvez cacher tous les câbles et les files hors de la vue pour rendre la pièce propre et ordonnée. Product Attributes Bullet Points
+- 【ANGLES DE VUE MULTIPLE】Rotation de 360°, Pivot jusquà 180°, Inclinaison +5°à -12°, avec trois parties réglables et flexibles, vous pouvez régler le support à votre besoin, sans aucun balancement.
 - 【INSTALLATION FACILE】Les accessoires nécessaires et les instructions complètes fournies vous aide à installer ce support mural TV rapidement et facilement. Vous pouvez trouver le kit de vis dans notre magasin - asin: B07SGJL1DV.
 - 【DÉCORATION MURALE】Une conception faible rend ce support mural seulement 2"(50mm) du mur pour assurer quil est presque invisible. Le cantilever étend à 16,5"(410mm) pour régler facilement langle.
 - 【CONSTRUCTION ROBUSTE】 En acier de calibre de 2mm dépaisseur, ce support mural a une capacité de 35 kg, compatible avec les téléviseurs de 17 à 55 pouces avec le VESA max 400×400mm.
-- 【ANGLES DE VUE MULTIPLE】Rotation de 360°, Pivot jusquà 180°, Inclinaison +5°à -12°, avec trois parties réglables et flexibles, vous pouvez régler le support à votre besoin, sans aucun balancement.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01AP47PTE/?tag=tolees0d-21)
