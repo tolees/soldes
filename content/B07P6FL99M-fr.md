@@ -28,10 +28,10 @@ C'est en vente [Playmobil - Salon avec Cheminée - 70207](https://www.amazon.fr/
 
 ℹ️:
 
-- Pendant que son petit-fils s’amuse, papy profite de quelques minutes de calme sur son confortable fauteuil face à la cheminée.
-- Cheminée avec feu à effets lumineux (nécessite 2 piles AAA de 1,5 V non fournies)
-- Une belle et grande maison pour accueillir toute la famille et y faire plein dactivités !
 - Convient aux enfants à partir de 4 ans.
+- Pendant que son petit-fils s’amuse, papy profite de quelques minutes de calme sur son confortable fauteuil face à la cheminée.
+- Une belle et grande maison pour accueillir toute la famille et y faire plein dactivités !
 - Le confortable salon est le cœur de la maison : toute la famille peut s’y détendre, lire, jouer et s’amuser.
+- Cheminée avec feu à effets lumineux (nécessite 2 piles AAA de 1,5 V non fournies)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P6FL99M/?tag=tolees0d-21)
