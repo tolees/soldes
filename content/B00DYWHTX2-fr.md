@@ -28,9 +28,9 @@ Vous avez [MGI COUTIER 970069 Lève Vitre](https://www.amazon.fr/dp/B00DYWHTX2/?
 
 ℹ️:
 
+- Accessoires auto 970069
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Leve-Vitre Electrique Megane
-- Accessoires auto 970069
 - Mgi Coutier
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 

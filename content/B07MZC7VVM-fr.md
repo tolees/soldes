@@ -28,10 +28,10 @@ C'est en vente [Vertbaudet Sac de Couchage Readybed® avec Matelas intégré PIN
 
 ℹ️:
 
+- Matelas gonflable intégré
+- Matelas confortable
 - Avec tête de lit pour le maintien de lenfant
 - Motifs imprimés
 - Livré avec gonfleur et housse de transport pour lemmener partout
-- Matelas gonflable intégré
-- Matelas confortable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MZC7VVM/?tag=tolees0d-21)
