@@ -30,8 +30,8 @@ Vous avez [Marvel Avengers – Figurine Marvel Avengers Endgame Titan Deluxe –
 
 - Figurine Thanos de 30 cm inspirée du film Avengers Endgame.
 - Port de connexion Titan Hero Power FX dans le dos de la figurine.
-- Compatible avec l’équipement Power pack, grâce au port dans le dos de la figurine pour activer les sons et les phrases. (Vendus séparément avec les figurines titans Power FX).
 - Figurine du film Marvel Avengers Endgame, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 4 ans, 5 ans, 6 ans et plus.
 - Valeur éducative de Marvel Avengers : imaginer des histoires avec ses super-héros préférés.
+- Compatible avec l’équipement Power pack, grâce au port dans le dos de la figurine pour activer les sons et les phrases. (Vendus séparément avec les figurines titans Power FX).
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JL6JW2G/?tag=tolees0d-21)
