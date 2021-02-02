@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Entertainment - Maries Deu avec 50.15 % rabais '
-date: 2021-01-30 06:08:13
+date: 2021-02-02 06:06:39
 image: 'https://m.media-amazon.com/images/I/61iWv4oEloL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 60.18 EUR
 prodname: 'Sony Pictures Entertainment - Maries Deux Enfants Integrale 11 Saisons'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Sony Pictures Entertainment'
 buyurl: 'https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21'
 descuento: '50.15'
 average: '30.0'
@@ -28,8 +29,8 @@ C'est en vente [Sony Pictures Entertainment - Maries Deux Enfants Integrale 11 S
 ℹ️:
 
 - Date de sortie : 2012-10-16
-- regionCode : 2
 - numberOfDiscs : 33
 - productGroup : DVD
+- regionCode : 2
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21)
