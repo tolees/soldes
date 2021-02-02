@@ -30,8 +30,8 @@ Vous avez [Diesel Montre Homme DZ1513](https://www.amazon.fr/dp/B0062OBXMM/?tag=
 
 - Boîtier rond argenté en acier inoxydable, cadran noir
 - Étanchéité jusqu’à 100 m : peut être portée pour la baignade, la natation ou la plongée en apnée et la plongée en eaux peu profondes
-- Produit emballé dans un coffret cadeau Diesel
 - Bracelet en cuir brun
+- Produit emballé dans un coffret cadeau Diesel
 - Boîtier de 53 mm, largeur de bracelet de 24 mm, cristaux minéraux, mouvement à quartz avec affichage analogique à trois aiguilles
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0062OBXMM/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [G-STAR RAW 3301 Straight Tapered Jeans  Bleu  DK Aged 7209-89   32W /
 
 ℹ️:
 
+- Construction 5 poches
 - Logo de la marque juste au-dessus de la poche arrière
+- Coupe droite jusquaux cuisses et jambes resserrées jusquà lourlet
 - Braguette à boutons
 - Taille mi-haute
-- Coupe droite jusquaux cuisses et jambes resserrées jusquà lourlet
-- Construction 5 poches
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VXMQ652/?tag=tolees0d-21)
