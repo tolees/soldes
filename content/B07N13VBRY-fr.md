@@ -28,10 +28,10 @@ C'est en vente [Skechers Women s GO Walk 5-Polished Trainers  Black  Black Leath
 
 ℹ️:
 
-- 3 cm heel
-- Leather/synthetic uppers
 - Memory foam inner-sock
-- Man-made outer-sole
+- 3 cm heel
 - Textile lining
+- Man-made outer-sole
+- Leather/synthetic uppers
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07N13VBRY/?tag=tolees0d-21)

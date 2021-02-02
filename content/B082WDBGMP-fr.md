@@ -28,11 +28,11 @@ Vous avez [LEGO 71366 Super Mario Jeu de construction - Ensemble d extension
 
 ℹ️:
 
+- Ce jouet LEGO créatif de 132 pièces constitue un cadeau danniversaire ou de Noël amusant pour les enfants de 7 ans et plus et les encourage à personnaliser leurs propres niveaux pour enrichir leur Pack de démarrage Les Aventures de Mario (71360).
 - Cet ensemble d’extension ne nécessite pas de piles – il se combine avec le personnage LEGO Mario du Pack de démarrage pour pimenter lexpérience de jeu.
 - Mesurant plus de 11,5 cm de haut, 24 cm de large et 20 cm de profondeur dans sa configuration de base, ce set de jeu modulaire peut être transformé et combiné de nombreuses façons avec le Pack de démarrage et les autres Ensembles d’extension.
 - Ce set de jeu unique inclut une plateforme pivotante pour LEGO Mario (personnage non inclus), une toupie avec 2 Bill Bourrins « volants », plus un Maskass et un Super champignon pour pimenter le jeu.
 - Les joueurs placent LEGO Mario (personnage non inclus) sur le côté à tenons de la plateforme ou sur le côté lisse pour accroître le niveau de difficulté. Combien de fois pourront-ils faire tourner LEGO Mario sans qu’il tombe ou soit renversé par les Bill Bourrins ?
 - Les enfants vont adorer relever le défi de rotation rapide pour collectionner des pièces de cet Ensemble dextension Barrage de Bill Bourrins (71366) qui enrichit l’action de leur Pack de démarrage LEGO Super Mario Les Aventures de Mario.
-- Ce jouet LEGO créatif de 132 pièces constitue un cadeau danniversaire ou de Noël amusant pour les enfants de 7 ans et plus et les encourage à personnaliser leurs propres niveaux pour enrichir leur Pack de démarrage Les Aventures de Mario (71360).
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082WDBGMP/?tag=tolees0d-21)

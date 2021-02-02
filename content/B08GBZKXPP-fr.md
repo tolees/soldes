@@ -29,9 +29,9 @@ Vous avez [Samsung Galaxy A31 4G - Noir - 64GB - Smartphone Android débloqué -
 ℹ️:
 
 - included_components: Smartphone - kit piéton-bloc de charge - cable USB type C- guide dutilisation
-- QUADRUPLE CAPTEUR PHOTO Avec capteur principal 48 MP
-- ÉCRAN PANORAMIQUE 6,4’’ Super AMOLED
 - BATTERIE LONGUE DURÉÉ 5000 mAh + charge rapide
+- ÉCRAN PANORAMIQUE 6,4’’ Super AMOLED
 - PERFORMANCES OPTIMISEES Stockage 64 Go + Lecteur d’empreinte sous l’écran
+- QUADRUPLE CAPTEUR PHOTO Avec capteur principal 48 MP
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GBZKXPP/?tag=tolees0d-21)
