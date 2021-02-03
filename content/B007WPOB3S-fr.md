@@ -28,12 +28,12 @@ C'est en vente [Havaianas Brasil Logo  Tongs Mixte Adulte  Multicolore  MARINE B
 
 ℹ️:
 
-- ATTENTION Havaianas indique deux types de pointures sur ses semelles : Cest la taille brésilienne (et non EU) qui correspond à la taille française !
-- Fermeture: A enfiler
-- Type de talons : plat
 - Largeur chaussure : standard
-- Matière de la semelle : caoutchouc
 - Doublure : non doublé
 - Avantages : solides, légères, résistantes à la chaleur et à leau, et antidérapantes
+- Fermeture: A enfiler
+- Matière de la semelle : caoutchouc
+- Type de talons : plat
+- ATTENTION Havaianas indique deux types de pointures sur ses semelles : Cest la taille brésilienne (et non EU) qui correspond à la taille française !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B007WPOB3S/?tag=tolees0d-21)

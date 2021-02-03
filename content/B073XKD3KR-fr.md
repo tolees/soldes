@@ -28,10 +28,10 @@ C'est en vente [Panneau Solaire  ALLPOWERS 50W 18V 12V Chargeur Solaire Module S
 
 ℹ️:
 
-- √Panneau pliable: la feuille arrière en plastique peut être courbée à un arc maximum de 30 degrés et montée sur un camping-car, un bateau, une cabine, une tente, une voiture, des camions, des remorques ou toute autre surface irrégulière
 - √Cellule solaire SunPower ： La cellule SunPower est fabriquée aux États-Unis, jusquà 23,5% defficacité, tandis que la plupart des panneaux monocristallins sur le marché sont de 17% à 19%, vous obtiendrez une plus grande efficacité énergétique même si le panneau nest pas plus grand quun modèle traditionnel
 - √Durabilité supérieure: Le panneau solaire SunPower semi-flexible résistant à leau est beaucoup plus durable que les modèles traditionnels en verre et en aluminium; le matériau flexible est idéal pour le stockage dans des espaces restreints ou des zones bondées
-- √Ce que vous obtenez: panneau solaire SunPower pliable de 50 W, manuel dinstructions, garantie de 18 mois et service client amical
 - √Puissant et léger: ce panneau solaire contient 50 W de puissance, mais il ne pèse que 1,1 kg (2,4 lb), ce qui le rend plus facile à transporter, à suspendre et à retirer; Conception unique sans cadre et quatre trous de montage renforcés en métal pour une installation facile
+- √Ce que vous obtenez: panneau solaire SunPower pliable de 50 W, manuel dinstructions, garantie de 18 mois et service client amical
+- √Panneau pliable: la feuille arrière en plastique peut être courbée à un arc maximum de 30 degrés et montée sur un camping-car, un bateau, une cabine, une tente, une voiture, des camions, des remorques ou toute autre surface irrégulière
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073XKD3KR/?tag=tolees0d-21)

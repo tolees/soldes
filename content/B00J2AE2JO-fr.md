@@ -28,9 +28,9 @@ Vous avez [Delta Dore 6151055 Minor 12 Thermostat digital pour plancher ou plafo
 
 ℹ️:
 
-- GESTION SIMPLIFIEE DE VOTRE CHAUFFAGE : grâce au Minor 12 vous pouvez contrôler votre chauffage via 5 modes : Confort, économie, hors gel, éteint et automatique
-- OPTIMISATION DE LA CHAUFFE : la chauffe est opitimisée avec sa régulation chrono proportionnelle (PI). De plus, la montée en température est progressive pour la première mise en chauffe de la dalle
 - INSTALLATION AU MUR: alimenté électriquement le Minor 12 est raccordé à votre chauffage avec ou sans contacteur de puissance
 - AMELIOREZ VOTRE CONFORT ET FAITES DES ECONOMIES DENERGIE: simplifiez la commande de votre plancher ou plafond chauffant électrique pour un confort permanent au sein de votre habitation et faites des économies d’énergie
+- OPTIMISATION DE LA CHAUFFE : la chauffe est opitimisée avec sa régulation chrono proportionnelle (PI). De plus, la montée en température est progressive pour la première mise en chauffe de la dalle
+- GESTION SIMPLIFIEE DE VOTRE CHAUFFAGE : grâce au Minor 12 vous pouvez contrôler votre chauffage via 5 modes : Confort, économie, hors gel, éteint et automatique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00J2AE2JO/?tag=tolees0d-21)
