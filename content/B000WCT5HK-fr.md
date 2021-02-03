@@ -28,10 +28,10 @@ C'est en vente [StarTech.com Carte adaptateur PCI Express vers 3 ports FireWire 
 
 ℹ️:
 
-- PCIe 1394
-- PCIe FireWire Card
 - Add 2 native FireWire 800 ports to your computer through a PCI Express expansion slot
-- PCI Express FireWire Card
 - PCI Express 1394a
+- PCIe FireWire Card
+- PCI Express FireWire Card
+- PCIe 1394
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000WCT5HK/?tag=tolees0d-21)
