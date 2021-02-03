@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Le Seigneur des Anneaux-La trilogie [Ver avec 46.19 % rabais '
-date: 2021-02-02 16:08:41
+date: 2021-02-03 22:33:48
 image: 'https://m.media-amazon.com/images/I/51HgXO9DjqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07DV95WNB/?tag=tolees0d-21'
 descuento: '46.19'
-average: '33.3596875000001'
+average: '33.2296938775511'
 ---
 
 C'est en vente [Le Seigneur des Anneaux-La trilogie [Version Longue]](https://www.amazon.fr/dp/B07DV95WNB/?tag=tolees0d-21)  à  46.19 % de réduction, prix final  26.99 EUR (original: 50.16 EUR) ici:
