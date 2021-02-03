@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BODY & EARTH - Coffret Bain et Corps-Pan avec 45.01 % rabais '
-date: 2021-02-02 03:57:54
+date: 2021-02-03 10:13:15
 image: 'https://m.media-amazon.com/images/I/51k4LuqoqIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'BODY & EARTH'
 buyurl: 'https://www.amazon.fr/dp/B07QT7WLZN/?tag=tolees0d-21'
 descuento: '45.01'
-average: '26.4738235294117'
+average: '26.3457142857142'
 ---
 
 C'est en vente [BODY & EARTH - Coffret Bain et Corps-Panier-Cadeau de 8 Pièces au Parfum de Fleur de Cerisier et de Jasmin  Coffret Cadeau Parfait pour les Femmes](https://www.amazon.fr/dp/B07QT7WLZN/?tag=tolees0d-21)  à  45.01 % de réduction, prix final  21.99 EUR (original: 39.99 EUR) ici:

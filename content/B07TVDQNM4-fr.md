@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '39.27 % rabais sur Funko- Pop Games: Mortal Kombat-Scorpion'
-date: 2021-02-02 10:26:52
+title: '39.64 % rabais sur Funko- Pop Games: Mortal Kombat-Scorpion'
+date: 2021-02-03 10:30:14
 image: 'https://m.media-amazon.com/images/I/410tkNPThSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0
-comparePrice: 9.88 EUR
+comparePrice: 9.94 EUR
 prodname: 'Funko- Pop Games: Mortal Kombat-Scorpion Collectible Toy  45110  Multicolour  Standard'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Funko'
 buyurl: 'https://www.amazon.fr/dp/B07TVDQNM4/?tag=tolees0d-21'
-descuento: '39.27'
+descuento: '39.64'
 average: '6.0'
 ---
 
-Vous avez [Funko- Pop Games: Mortal Kombat-Scorpion Collectible Toy  45110  Multicolour  Standard](https://www.amazon.fr/dp/B07TVDQNM4/?tag=tolees0d-21)  à  39.27 % de réduction, prix final  6.0 EUR (original: 9.88 EUR) ici:
+Vous avez [Funko- Pop Games: Mortal Kombat-Scorpion Collectible Toy  45110  Multicolour  Standard](https://www.amazon.fr/dp/B07TVDQNM4/?tag=tolees0d-21)  à  39.64 % de réduction, prix final  6.0 EUR (original: 9.94 EUR) ici:
 
 [![Funko- Pop Games: Mortal Kombat-Scorpion](https://m.media-amazon.com/images/I/410tkNPThSL._SL200_.jpg)](https://www.amazon.fr/dp/B07TVDQNM4/?tag=tolees0d-21)
 
