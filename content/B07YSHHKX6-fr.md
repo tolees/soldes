@@ -28,10 +28,10 @@ Vous avez [GAEMS Guardian Pro XP Moniteur Portable Compatible avec PS4  Pro  Xbo
 
 ℹ️:
 
+- Son stéréo de 9 W Dynamic sound stage, deux prises casque et un rangement interne pour la manette et les câbles.
 - Des outils de streaming intégrés, des supports daccessoires et une sortie HDMI pour faciliter la capture ou le partage décran.
+- Moniteur 24" intégré, résolution 1440p, affichage IPS, temps de réponse de 9 ms avec Overdrive.
 - Le Guardian permet aux utilisateurs de jouer sur leur console partout où la vie les mène, tout en leur offrant la meilleure expérience portable.
 - Un centre multimédia spécifique avec sortie USB et chargement de dispositifs.
-- Moniteur 24" intégré, résolution 1440p, affichage IPS, temps de réponse de 9 ms avec Overdrive.
-- Son stéréo de 9 W Dynamic sound stage, deux prises casque et un rangement interne pour la manette et les câbles.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YSHHKX6/?tag=tolees0d-21)
