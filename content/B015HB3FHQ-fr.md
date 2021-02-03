@@ -28,10 +28,10 @@ C'est en vente [Timberland Bradstreet Chukka Leather  Bottines Homme  Marron  MD
 
 ℹ️:
 
-- Fermeture : lacets
-- Composition : voir description
 - Matériau extérieur : cuir
-- Talon plat
+- Composition : voir description
 - Remarque: le "R" représente une marque déposée, qui ne doit être visible que sur une chaussure. Le lieu peut être variable
+- Talon plat
+- Fermeture : lacets
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B015HB3FHQ/?tag=tolees0d-21)

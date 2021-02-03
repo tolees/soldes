@@ -28,11 +28,11 @@ Vous avez [Les Soprano - L intégrale de la série - Blu-ray - HBO](https://www.
 
 ℹ️:
 
-- ATTENTION : Léditeur de ce produit nous informe que ce coffret contient 27 disques seulement malgré des remarques contraires imprimées sur la boîte. Ce produit ninclut plus le disque bonus.
-- Sous-titres pour sourds et malentendants : Anglais
 - Langue(Audio) : Français et Anglais
 - Sous-titres pour sourds et malentendants : Anglais
 - Sous-titres : Français
+- ATTENTION : Léditeur de ce produit nous informe que ce coffret contient 27 disques seulement malgré des remarques contraires imprimées sur la boîte. Ce produit ninclut plus le disque bonus.
 - Sous-titres : Français
+- Sous-titres pour sourds et malentendants : Anglais
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LMFO6YS/?tag=tolees0d-21)

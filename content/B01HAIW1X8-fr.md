@@ -28,13 +28,13 @@ Vous avez [Plaque mixte Brandt BPI6413BM - 4 foyers](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Dimensions produit (LxP en cm) : 58 x 51
-- Puissance foyer AVG/AVD (en W) : 2800 / 2800
-- Puissance foyer ARG/ARD (en W) : 3100 / 1500
-- Touches sensitives et manettes
 - Sécurité gaz par thermocouple
-- Dimensions de lencastrement (LxPxE en cm) : 56 / 49 / -
 - 9 positions de cuisson par foyer
+- Puissance foyer ARG/ARD (en W) : 3100 / 1500
+- Puissance foyer AVG/AVD (en W) : 2800 / 2800
+- Dimensions de lencastrement (LxPxE en cm) : 56 / 49 / -
+- Touches sensitives et manettes
+- Dimensions produit (LxP en cm) : 58 x 51
 - Plaque mixte gaz & induction
 - Pack 10 sécurités
 
