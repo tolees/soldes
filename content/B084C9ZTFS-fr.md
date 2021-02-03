@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Vampire Diaries-L intégrale avec 45.64 % rabais '
-date: 2021-01-31 06:06:12
+date: 2021-02-03 06:07:10
 image: 'https://m.media-amazon.com/images/I/41cc7LaHu7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084C9ZTFS/?tag=tolees0d-21'
 descuento: '45.64'
-average: '58.9516666666666'
+average: '59.0999999999999'
 ---
 
 C'est en vente [Vampire Diaries-L intégrale](https://www.amazon.fr/dp/B084C9ZTFS/?tag=tolees0d-21)  à  45.64 % de réduction, prix final  59.99 EUR (original: 110.35 EUR) ici:
