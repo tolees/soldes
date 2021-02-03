@@ -28,12 +28,12 @@ Vous avez [Splash Toys - 56050 - jeu de tir -Pistolet Drone Shooter](https://www
 
 ℹ️:
 
+- Prépare-toi à affronter l’invasion extraterrestre avec ce pistolet Drone Shooter
+- Fonctionne avec 3 piles LR03 non incluses.
+- Age Minimum : 8 ans +
 - Mais gare à sa contre attaque
 - Tire sur le vaisseau spatial en plein vol pour gagner des points et le mettre à terre
-- Age Minimum : 8 ans +
-- Contenu : 1 pistolet avec score sur la crosse et sa technologie IR + 1 drone + 1 notice d’utilisation
-- Fonctionne avec 3 piles LR03 non incluses.
-- Prépare-toi à affronter l’invasion extraterrestre avec ce pistolet Drone Shooter
 - Double compteur de points
+- Contenu : 1 pistolet avec score sur la crosse et sa technologie IR + 1 drone + 1 notice d’utilisation
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XJZQPTN/?tag=tolees0d-21)

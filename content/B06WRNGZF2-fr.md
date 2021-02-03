@@ -28,8 +28,8 @@ Vous avez [WMF Couverts à flamme  30 pièces  6 personnes  Cromargan Protect](h
 
 ℹ️:
 
-- Modern
-- 1 x Set 30 FLAME CROM. PRO
 - Argent
+- 1 x Set 30 FLAME CROM. PRO
+- Modern
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WRNGZF2/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Les Tropéziennes par M. Belarbi HAMAT  Sandales Femme  Marron  
 
 ℹ️:
 
-- Cuir
 - Ces Sandales et nu-pieds en Cuir se composent dune tige en Cuir et dune hauteur de talon de 1 cm
+- P-E 2018
 - LES TROPEZIENNES
 - Femme
-- P-E 2018
+- Cuir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00RFH295A/?tag=tolees0d-21)
