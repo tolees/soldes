@@ -28,11 +28,11 @@ Vous avez [Philips HD7866/61 SENSEO Quadrante Machine à Dosette Noir](https://w
 
 ℹ️:
 
+- Consommation dénergie - pendant la préparation 1450 W; en veille - 0,35 W
+- Un café fraichement prépare, par la simple pression dun bouton
+- Obtenez le meilleur de votre dosette de café, avec la technologie Booster darômes
 - Une ou deux tasses de café en moins dune minute
 - Arrêt automatique au bout de 30 minutes pour économiser de lénergie
 - Deux intensités : café court et serre ou café long et doux
-- Obtenez le meilleur de votre dosette de café, avec la technologie Booster darômes
-- Consommation dénergie - pendant la préparation 1450 W; en veille - 0,35 W
-- Un café fraichement prépare, par la simple pression dun bouton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J5FH8L4/?tag=tolees0d-21)

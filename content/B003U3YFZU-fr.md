@@ -30,8 +30,8 @@ C'est en vente [Scorpio - Eau de Toilette - Homme - Collection Rouge - Flacon de
 
 - Scorpio Eau de toilette Homme Rouge
 - Flacon 75 ml
-- Le plus brûlant des parfums dhomme
 - Parfum pour Homme par Scorpio
 - Un départ intense et ardent, qui se prolonge sur des accords épicés et hespéridés associés à des notes profondes de bois précieux
+- Le plus brûlant des parfums dhomme
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B003U3YFZU/?tag=tolees0d-21)

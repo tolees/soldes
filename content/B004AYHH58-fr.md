@@ -28,10 +28,10 @@ Vous avez [LELO Hydratant Intime - Lubrifiant intime à base d eau pour Femme et
 
 ℹ️:
 
-- LUXE ET VOLUPTÉ – L’Hydratant Intime de LELO vous offre des sensations de grand luxe dans vos moments intimes, en solitaire ou bien accompagné
-- ENRICHI À L’ALOE VERA – Cet Hydratant au pH équilibré est enrichi à l’aloe vera pour une douce sensation et une hydratation longue durée
-- LUBRIFIANT À BASE D’EAU – Ce merveilleux produit est à base d’eau pour une utilisation sûre avec les masseurs en silicone et latex – vous pouvez l’utiliser sans problème avec tous les produits LELO
 - UNE TOTALE TRANQUILLITÉ D’ESPRIT – Cet Hydratant Intime utilise une formule sans parfum, sans glycérine, sans parabène, pour une totale tranquillité d’esprit.
 - NE TACHE PAS – Grâce à sa fabrication et sa préparation soignées, l’Hydratant Intime de LELO est non gras, il ne tache ni votre peau ni vos habits
+- ENRICHI À L’ALOE VERA – Cet Hydratant au pH équilibré est enrichi à l’aloe vera pour une douce sensation et une hydratation longue durée
+- LUXE ET VOLUPTÉ – L’Hydratant Intime de LELO vous offre des sensations de grand luxe dans vos moments intimes, en solitaire ou bien accompagné
+- LUBRIFIANT À BASE D’EAU – Ce merveilleux produit est à base d’eau pour une utilisation sûre avec les masseurs en silicone et latex – vous pouvez l’utiliser sans problème avec tous les produits LELO
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004AYHH58/?tag=tolees0d-21)
