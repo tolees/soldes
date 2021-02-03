@@ -28,10 +28,10 @@ Vous avez [AKG K240 MKII Casque de studio professionnel  semi-ouvert  circum-aur
 
 ℹ️:
 
+- 55 Ohms, 104 dB SPL/V
+- Bande passante de fréquence 15 Hz - 25000 Hz
+- Câble droit de 3 m et câble en spirale de 5 m, avec adaptateur de 3,5 mm à 6 mm
 - Design semi-ouvert circum-aural
 - Transducteur Varimotion 30 mm XXL breveté pour une excellente plage dynamique
-- Bande passante de fréquence 15 Hz - 25000 Hz
-- 55 Ohms, 104 dB SPL/V
-- Câble droit de 3 m et câble en spirale de 5 m, avec adaptateur de 3,5 mm à 6 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0016MNBAM/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [QIRINESS Le Wrap Vitaminé](https://www.amazon.fr/dp/B07S5WSTPR/
 
 ℹ️:
 
-- Sa texture gel-crème jaune pâle fondante, associé à son parfum frais et fruité enveloppe la peau pour faire le plein de vitalité. Tous types de peaux. Testé sous contrôle dermatologique
 - Le Wrap Vitaminé. la peau est instantanément plus éclatante.
 - Dans un environnement toujours plus stressant, fatiguant et où la peau est agressée au quotidien, ce masque fondant enrichi en superfruits et vitamines est l’allié idéal des peaux dévitalisées, ternes, en manque d’éclat.
+- Sa texture gel-crème jaune pâle fondante, associé à son parfum frais et fruité enveloppe la peau pour faire le plein de vitalité. Tous types de peaux. Testé sous contrôle dermatologique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07S5WSTPR/?tag=tolees0d-21)
