@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dim - Les Pockets Ecodim - Slip - Lot de avec 21.26 % rabais '
-date: 2021-02-02 22:38:57
+date: 2021-02-04 05:01:30
 image: 'https://m.media-amazon.com/images/I/41X26Ey4B+L._SL200_.jpg'
 comments: true
 category: ofertas
