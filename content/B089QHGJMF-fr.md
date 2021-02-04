@@ -28,9 +28,9 @@ C'est en vente [Goliath- Super Zings Secret Lab  32750.004](https://www.amazon.f
 
 ℹ️:
 
+- SuperZings are everyday products transformed into superheroes and supervillains and each character has its rival.
 - SuperZings is a range of collectible figures consisting of 80 characters (per series) classified by rarity level: regular, rare, super rare and ultra rare. And available in different finishes (for Series 2) - Normal, Super Crystal (New), Gold and Silver.
 - Minimum age: 5 years
-- SuperZings are everyday products transformed into superheroes and supervillains and each character has its rival.
 - 1 player and +
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089QHGJMF/?tag=tolees0d-21)

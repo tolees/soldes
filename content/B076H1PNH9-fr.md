@@ -29,9 +29,9 @@ C'est en vente [Kipling Clas Seoul Sac à Dos  45 cm  25 Litres  Rouge  True Red
 ℹ️:
 
 - Une poche latérale zippée
+- Une poignée sur le dessus
 - Sangles réglables
 - Un compartiment principal à double zip contenant : protection rembourrée pour ordinateur portable avec fermeture velcro; une grande poche ouverte
-- Une poignée sur le dessus
 - Une poche zippée sur le dessus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076H1PNH9/?tag=tolees0d-21)

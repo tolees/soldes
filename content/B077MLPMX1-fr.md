@@ -28,11 +28,11 @@ C'est en vente [PUMA Smash v2 Leather  Baskets Femme  White White  38 EU](https:
 
 ℹ️:
 
+- Type de talons: Plat
 - Semelle intérieure: Synthétique
-- Matériau de semelle: Caoutchouc
-- Dessus: Autres Cuir
 - Fermeture: Lacets
 - Doublure: Mesh
-- Type de talons: Plat
+- Dessus: Autres Cuir
+- Matériau de semelle: Caoutchouc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077MLPMX1/?tag=tolees0d-21)

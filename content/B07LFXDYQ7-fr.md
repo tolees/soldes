@@ -28,7 +28,7 @@ C'est en vente [Buki Professional Studio Mode-Recharges Asst  5413 - Paquet de 6
 
 ℹ️:
 
-- 6 modèles en assortiment
 - Feutrine, simili-cuir, fourrure, cotonimprimé, paillettes
+- 6 modèles en assortiment
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07LFXDYQ7/?tag=tolees0d-21)

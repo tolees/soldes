@@ -28,10 +28,10 @@ C'est en vente [PNY XLR8 CS3030 M.2 NVMe SSD Interne 500GB - Jusqu à 3500 Mo/s]
 
 ℹ️:
 
-- Faster boot up and quicker application launch
-- Reliable storage
 - Low power consumption, cool and quiet operation
 - Better overall system performance
+- Faster boot up and quicker application launch
+- Reliable storage
 - Sequential Read of up to 3, 500 MB/s and Write of up to 3, 000 MB/s
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MW3NQKW/?tag=tolees0d-21)

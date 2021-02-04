@@ -28,9 +28,9 @@ C'est en vente [Sylvanian Families - Le Village - La Famille Souris Marshmallow 
 
 ℹ️:
 
+- Le jouet parfait pour IMAGINER DE NOMBREUSES HISTOIRES
+- A partir de 3 ANS
 - La famille souris marshmallow est composée de 4 personnages: la maman, le papa, le fils et la fille. Ils sont tous articulés. Ils sont tous habillés avec soin. Leurs vêtements peuvent être enlevés et remis à loisir.
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : LA FAMILLE, LA NATURE et L’AMOUR
-- A partir de 3 ANS
-- Le jouet parfait pour IMAGINER DE NOMBREUSES HISTOIRES
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BREENBY/?tag=tolees0d-21)
