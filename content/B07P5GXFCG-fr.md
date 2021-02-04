@@ -28,10 +28,10 @@ C'est en vente [gb Gold Everna-Fix Noir Siege Auto de Groupe 1/2/3 avec Harnais]
 
 ℹ️:
 
-- 0
-- Harnais face route
-- Top téter avec signal sonore
 - Contenu: 1 Siège-Auto Everna-Fix avec système de fixation ISOFIX Connect System, avec accessoires de montage ISOFIX, matériau de revêtement : 100% polyester, dimensions (LxlxH) : 58 x 44 x 82 cm, poids : 12,4 kg, couleur : noir velours.
+- Top téter avec signal sonore
 - Inclinaison à une main
+- Harnais face route
+- 0
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P5GXFCG/?tag=tolees0d-21)

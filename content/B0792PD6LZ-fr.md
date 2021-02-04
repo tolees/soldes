@@ -28,7 +28,7 @@ Vous avez [Diesel Slips UMBR-ANDRETHREEPACK Homme  MULTICOLORE  DARK GREY MELANG
 
 ℹ️:
 
-- Très confortable à porter.
 - De la marque Diesel.
+- Très confortable à porter.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792PD6LZ/?tag=tolees0d-21)

@@ -28,12 +28,12 @@ C'est en vente [Zoom TAMRON - 28-75mm F/2.8 Di III RXD - Monture Sony FE](https:
 
 ℹ️:
 
-- EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
-- Le Couple Idéal avec le Tampon 28-75 mm f/2,8 Di III RXD
+- Mise au point minimale de 19 cm (à 17 mm)
+- Fonctionne avec les technologies Sony : Eye Focus etc.
 - Autofocus RXD rapide, silencieux et précis (adapté prise de vue vidéo)
 - pour hybrides Sony plein format et APS-C
-- Mise au point minimale de 19 cm (à 17 mm)
+- Le Couple Idéal avec le Tampon 28-75 mm f/2,8 Di III RXD
+- EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
 - Léger (420g) et Compact (10 cm – encombrement constant)
-- Fonctionne avec les technologies Sony : Eye Focus etc.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CSXTGJJ/?tag=tolees0d-21)

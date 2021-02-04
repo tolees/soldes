@@ -28,11 +28,11 @@ C'est en vente [SAM Outillage 73-R34MM Module de douilles/accessoires 1/4" 34 Ou
 
 ℹ️:
 
-- Module en mousse avec un emplacement vide pour rangement de pièces diverses.
 - 1 douille porte-embout de vissage, 16 embouts de vissage 6 pans, phillips, fente, torx
-- Cliquet avec manche bi-matière et inversion centrale. rallonge emmanchée avec manche bi-matière.
 - Douilles 6 pans avec profil surface drive pour une meilleure prise des écrous.
+- Module en mousse avec un emplacement vide pour rangement de pièces diverses.
 - 10 Douilles 6 pans : 5,5 - 6 - 7 - 8 - 9 - 10 - 11 - 12 - 13 - 14 mm. 9 Clés mâles de 1,5 à 10 mm.
+- Cliquet avec manche bi-matière et inversion centrale. rallonge emmanchée avec manche bi-matière.
 - 1 cliquet, 1 rallonge emmanchée, 3 rallonges 50, 75 et 150 mm, 1 cardan, 1 poignée coulissante.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B008EM4U5W/?tag=tolees0d-21)

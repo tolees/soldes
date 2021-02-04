@@ -28,7 +28,7 @@ Vous avez [Baladéo Couverts 5 fonctions  Basecamp ](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Dimensions ( L x l x H ) : 18,5 x 6 x 1,5 cm.
 - Poids : 63 g.
+- Dimensions ( L x l x H ) : 18,5 x 6 x 1,5 cm.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00C6WG0KY/?tag=tolees0d-21)
