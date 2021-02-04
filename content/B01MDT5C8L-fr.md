@@ -29,8 +29,8 @@ Vous avez [OLYMPUS Sac a Dos Pro Om-D CBG-12](https://www.amazon.fr/dp/B01MDT5C8
 ℹ️:
 
 - Bleu
-- Couleur du produit: Noir
 - Olympus CBG-12. Type détui: Sac à dos
+- Couleur du produit: Noir
 - Compatibilité de marque: Universel
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MDT5C8L/?tag=tolees0d-21)
