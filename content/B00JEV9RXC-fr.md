@@ -1,0 +1,45 @@
+---
+layout: post
+title: 'Rotring 800 Portemine HB 0 7 mm Noir avec 47.27 % rabais '
+date: 2021-02-04 14:15:56
+image: 'https://m.media-amazon.com/images/I/31kTEYpYX6L._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00JEV9RXC-fr Rotring 800 Portemine HB 0 7 mm Noir'
+sku: 'B00JEV9RXC-fr'
+tags: [  ]
+actualPrice: 35.33 EUR
+currency: EUR
+price: 35.33
+comparePrice: 67.0 EUR
+prodname: 'Rotring 800 Portemine HB 0 7 mm Noir'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Rotring'
+buyurl: 'https://www.amazon.fr/dp/B00JEV9RXC/?tag=tolees0d-21'
+descuento: '47.27'
+average: '36.295'
+---
+
+C'est en vente [Rotring 800 Portemine HB 0 7 mm Noir](https://www.amazon.fr/dp/B00JEV9RXC/?tag=tolees0d-21)  à  47.27 % de réduction, prix final  35.33 EUR (original: 67.0 EUR) ici:
+
+[![Rotring 800 Portemine HB 0 7 mm Noir](https://m.media-amazon.com/images/I/31kTEYpYX6L._SL200_.jpg)](https://www.amazon.fr/dp/B00JEV9RXC/?tag=tolees0d-21)
+
+ℹ️:
+
+- Garantie : 2
+- Adapté pour des tracés à la règle précis.
+- Le corps est entièrement métallique et son poids est parfaitement équilibré pour vous permettre d’écrire et de dessiner sans fatigue
+- Zone de préhension métallique anti-glisse
+- Système de rétraction unique de la pointe : protection de vos poches + durabilité accrue
+- Corps hexagonal étudié pour éviter la fatigue de la main, et pour empêcher l’instrument de rouler lorsqu’il est posé sur la table.
+- La zone de préhension anti-glisse métallique est confortable pour une utilisation prolongée
+- Mécanisme « Twist and Click » unique permettant de rentrer lensemble de la mine et le manchon pour une durabilité accrue et la protection de vos poches
+- Rétractable :
+- La forme hexagonale empêche linstrument de glisser sur une table inclinée
+- Le manchon fixe « guide mine » limite la casse des mines et permet une visibilité nette de la feuille pour les tracés à la règle
+- Dureté de la mine :
+- Pratique : la gomme intégrée sous le capuchon de poussée
+
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B00JEV9RXC/?tag=tolees0d-21)
