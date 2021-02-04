@@ -28,11 +28,11 @@ C'est en vente [Smoby - Tefal Cuisine Studio - 27 Accessoires - Jouet d Imitatio
 
 ℹ️:
 
-- Fabrication Française
-- En plus, le module électronique avec effets sonores leur donneront l’impression de réellement cuisiner grâce aux bruits de cuisson. 27 accessoires sont inclus dont 3 ustensiles BBQ, 6 Couverts, 2 assiettes, 2 verres, 2 tasses, 3 capsules à café, 1 poêle, 1 soda, 1 faitout avec son couvercle, 1 poisson et 1 steak magiques
-- Pour un maximum de fun, la cuisine studio est vendue avec de nombreux accessoires. Du couvert à la poêle tout est à leur disposition pour réaliser les meilleurs plats.Faire sauter une Crêpe ou servir un café, les enfants simaginent cuisiner pour vous ou leurs amis.
-- Plusieurs espaces ont été imaginés pour faire durer le jeu: le four, la machine à espresso, la machine à soda, le frigo, et le plan de travail Avec plaque de cuisson et évier.
-- Dès 3 Ans
 - Avec son design à 360° dans lair du temps, la cuisine Studio plaira beaucoup à vos enfants qui pourront jouer seuls ou entre copains. Sa hauteur de 99cm est idéale pour les enfants de plus de 3 ans.
+- Pour un maximum de fun, la cuisine studio est vendue avec de nombreux accessoires. Du couvert à la poêle tout est à leur disposition pour réaliser les meilleurs plats.Faire sauter une Crêpe ou servir un café, les enfants simaginent cuisiner pour vous ou leurs amis.
+- En plus, le module électronique avec effets sonores leur donneront l’impression de réellement cuisiner grâce aux bruits de cuisson. 27 accessoires sont inclus dont 3 ustensiles BBQ, 6 Couverts, 2 assiettes, 2 verres, 2 tasses, 3 capsules à café, 1 poêle, 1 soda, 1 faitout avec son couvercle, 1 poisson et 1 steak magiques
+- Plusieurs espaces ont été imaginés pour faire durer le jeu: le four, la machine à espresso, la machine à soda, le frigo, et le plan de travail Avec plaque de cuisson et évier.
+- Fabrication Française
+- Dès 3 Ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PQSXQVG/?tag=tolees0d-21)
