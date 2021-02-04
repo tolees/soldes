@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. - Gilmore Girls-Saisons 1 à avec 50.17 % rabais '
-date: 2021-01-28 13:53:42
+date: 2021-02-04 18:43:44
 image: 'https://m.media-amazon.com/images/I/51z6s-4yUlL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 70.22 EUR
 prodname: 'Warner Bros. - Gilmore Girls-Saisons 1 à 7'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Warner Bros.'
 buyurl: 'https://www.amazon.fr/dp/B07T2GN9RF/?tag=tolees0d-21'
 descuento: '50.17'
 average: '34.99'
