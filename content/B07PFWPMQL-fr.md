@@ -28,7 +28,7 @@ C'est en vente [Levi s REDDINGER  Bottes & bottines souples Hommes  Noir  Regula
 
 ℹ️:
 
-- Elles offrent une finition vieillie pour un authentique look vintage
 - Associez ces bottines classiques en cuir avec votre jean Levi’s préféré
+- Elles offrent une finition vieillie pour un authentique look vintage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PFWPMQL/?tag=tolees0d-21)
