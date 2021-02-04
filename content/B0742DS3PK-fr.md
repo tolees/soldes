@@ -28,10 +28,10 @@ C'est en vente [Miller 028066235 Remote Kit de contrôle de tension](https://ww
 
 ℹ️:
 
+- Pour le modèle ST 44
 - Vendu par chaque
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Pour le modèle ST 44
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Le débit de gaz
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0742DS3PK/?tag=tolees0d-21)
