@@ -28,10 +28,10 @@ C'est en vente [Gamory Manette pour Nintendo Switch Manette sans Fil Bluetooth P
 
 ℹ️:
 
+- 【Wireless Controller for Switch】Cut the cord and go wireless with Gamory wireless controller for Nintendo Switch. A wireless range of up to 8M. And High compatibility for ultimate gaming experience, compatible for Nintendo switch.
+- 【High-Precision Analog Sticks and Button Design】The joystick on both sides are smooth and efficient, making the game controller for switch easy to control exactly at 360 degree,well designed D-Pad can be operated on eight directions,and trigger shoulder buttons act quick response performance,offering you a perfect gaming experience.
 - 【Ergonomic design】: The optimized grip design adapt to the players hand for maximum comfort while also providing optimal grip,and the light weight construction make it comfortable even for long hours of continuous gaming.
 - 【Adjustable Turbo & Double Shock Function】This wireless controller supports 3 Turbo speeds: 5 shoots /s, 12 shoots /s, 20 shoots /s; 3 different level double shocks: strong, medium, and weak make you feel ultimate gaming experience.
-- 【High-Precision Analog Sticks and Button Design】The joystick on both sides are smooth and efficient, making the game controller for switch easy to control exactly at 360 degree,well designed D-Pad can be operated on eight directions,and trigger shoulder buttons act quick response performance,offering you a perfect gaming experience.
 - 【New Way to Play Design】The controller has a "Screenshot" button, so you can save the games wonderful pictures in time and share them with your friends.
-- 【Wireless Controller for Switch】Cut the cord and go wireless with Gamory wireless controller for Nintendo Switch. A wireless range of up to 8M. And High compatibility for ultimate gaming experience, compatible for Nintendo switch.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BRV7MKF/?tag=tolees0d-21)

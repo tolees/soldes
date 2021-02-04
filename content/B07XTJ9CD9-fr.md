@@ -28,9 +28,9 @@ C'est en vente [David Jones - Grand Sac à Main Femme - Cabas Fourre-Tout Cuir P
 
 ℹ️:
 
-- MATIERE & DETAILS: Similicuir PU. Imitation cuir véritable grainé. Matière souple agréable au toucher. Cabas fourre-tout orné dun pendentif.
-- DIMENSIONS & FERMETURE: L 34 x H 26 x l 14 cm. 1 grand compartiment central à fermeture éclair. 2 compartiments latéraux à bouton pression.
 - MODELE & DESIGN: Grand sac à main femme avec 3 compartiments. Sac multipoche élégant, chic et pratique pour tous les jours: ville, travail, bureau, soirée.
+- DIMENSIONS & FERMETURE: L 34 x H 26 x l 14 cm. 1 grand compartiment central à fermeture éclair. 2 compartiments latéraux à bouton pression.
+- MATIERE & DETAILS: Similicuir PU. Imitation cuir véritable grainé. Matière souple agréable au toucher. Cabas fourre-tout orné dun pendentif.
 - BANDOULIERE: Réglable et amovible, permet un porté épaule ou croisé. RANGEMENT: Compartiment principal doté de 2 poches pour téléphone portable et 1 poche zippée. Extérieur: 1 poche arrière zippée.
 - MARQUE DAVID JONES: Design en France. Sac à main et maroquinerie pour femme ou fille, en cuir synthétique premium. Détails et finitions de qualité.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.16 % rabais sur Warner Bros. - Queer as Folk-L intégrale'
-date: 2021-01-28 06:05:27
+date: 2021-02-04 06:13:27
 image: 'https://m.media-amazon.com/images/I/41-v12jWJ2L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 50.16 EUR
 prodname: 'Warner Bros. - Queer as Folk-L intégrale'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Warner Bros.'
 buyurl: 'https://www.amazon.fr/dp/B07T4RYMHT/?tag=tolees0d-21'
 descuento: '50.16'
 average: '25.0'
