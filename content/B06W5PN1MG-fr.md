@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath - Modelco - VR goggles - VRSE -  avec 70.37 % rabais '
-date: 2021-01-30 06:08:48
+date: 2021-02-05 18:28:36
 image: 'https://m.media-amazon.com/images/I/41J8vtvZ6lL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 79.99 EUR
 prodname: 'Goliath - Modelco - VR goggles - VRSE - Jeu Vidéo - Réalité Virtuelle - Batman'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Goliath'
 buyurl: 'https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21'
 descuento: '70.37'
 average: '23.7'
