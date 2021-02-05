@@ -28,11 +28,11 @@ Vous avez [Hori - Racing Wheel Apex Manette sans Fil pour PS4/PC](https://www.am
 
 ℹ️:
 
-- Wireless version of the racing wheel Apex - connects wirelessly to PS4 via Bluetooth
-- Compatible with PlayStation 4 and Windows PC
-- includes steering wheel unit, Sturdy foot pedals, optional Clamp mount, and USB charging cable
-- Optimize performance on PS5 with firmware update
 - internal rechargeable battery, with up to 15 hours of gameplay on a single charge
+- Compatible with PlayStation 4 and Windows PC
+- Wireless version of the racing wheel Apex - connects wirelessly to PS4 via Bluetooth
+- Optimize performance on PS5 with firmware update
 - Officially licensed by Sony interactive Entertainment LLC
+- includes steering wheel unit, Sturdy foot pedals, optional Clamp mount, and USB charging cable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TJJWSY8/?tag=tolees0d-21)
