@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony PS-LX310BT Tourne-disque Platine Vi avec 25.72 % rabais '
-date: 2021-02-04 05:03:01
+date: 2021-02-05 05:46:46
 image: 'https://m.media-amazon.com/images/I/31PuszawzLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [Sony PS-LX310BT Tourne-disque Platine Vinyle Bluetooth](https://
 
 ℹ️:
 
-- Des rythmes jazz aux concertos classiques, le hip-hop et la pop, vous apprécierez le son chaud et fluide des vinyles grâce aux pièces fabriquées avec minutie et à la conception
-- Conçue dans un style minimaliste pour un contrôle aisé. Vous n’aurez quà appuyer sur «Play» et votre platine vinyle commencera à jouer votre enregistrement à partir du dernier appareil connecté.
-- Deux vitesses de fonctionnement: 33 1/3 et 45 tours par minute et 3 modes daugmentation pour ajuster le volume instantanément.
+- Two operating speeds: 33 1/3 and 45 revolutions per minute and 3 increment modes to adjust the volume instantly.
+- From jazz rhythms to classic concerts, hip-hop and pop, you will appreciate the warm and fluid sound of the vinyl thanks to the carefully crafted parts and the design
+- Designed in a minimalist style for easy control. Simply press "play" and your vinyl turntable will start playing your recording from the last connected device.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MFBCCQG/?tag=tolees0d-21)

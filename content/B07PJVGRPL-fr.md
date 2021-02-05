@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Funko POP! KEYCHAIN: Toy Story 4 - Bo Pe avec 19.16 % rabais '
-date: 2021-02-02 16:44:53
+title: 'Funko POP! KEYCHAIN: Toy Story 4 - Bo Pe avec 19.71 % rabais '
+date: 2021-02-05 05:49:06
 image: 'https://m.media-amazon.com/images/I/41yZtJPXEDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -12,25 +12,25 @@ tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99
-comparePrice: 7.41 EUR
+comparePrice: 7.46 EUR
 prodname: 'Funko POP! KEYCHAIN: Toy Story 4 - Bo Peep'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Funko'
 buyurl: 'https://www.amazon.fr/dp/B07PJVGRPL/?tag=tolees0d-21'
-descuento: '19.16'
+descuento: '19.71'
 average: '5.99'
 ---
 
-C'est en vente [Funko POP! KEYCHAIN: Toy Story 4 - Bo Peep](https://www.amazon.fr/dp/B07PJVGRPL/?tag=tolees0d-21)  à  19.16 % de réduction, prix final  5.99 EUR (original: 7.41 EUR) ici:
+C'est en vente [Funko POP! KEYCHAIN: Toy Story 4 - Bo Peep](https://www.amazon.fr/dp/B07PJVGRPL/?tag=tolees0d-21)  à  19.71 % de réduction, prix final  5.99 EUR (original: 7.46 EUR) ici:
 
 [![Funko POP! KEYCHAIN: Toy Story 4 - Bo Pe](https://m.media-amazon.com/images/I/41yZtJPXEDL._SL200_.jpg)](https://www.amazon.fr/dp/B07PJVGRPL/?tag=tolees0d-21)
 
 ℹ️:
 
-- Age range description: Adolescent, Adulte.
 - Quantité de colis darticles : 1
-- Couleur: Multicolore
 - Figurine officielle Funko
+- Age range description: Adolescent, Adulte.
+- Couleur: Multicolore
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PJVGRPL/?tag=tolees0d-21)

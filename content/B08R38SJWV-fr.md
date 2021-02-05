@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.00 % rabais sur MINIS FORUM - Mini PC AMD Ryzen 5 PRO 25'
-date: 2021-02-03 22:34:49
+date: 2021-02-05 05:59:20
 image: 'https://m.media-amazon.com/images/I/41fHuZERSvL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [MINIS FORUM - Mini PC AMD Ryzen 5 PRO 2500U| 16 Go de RAM+ SSD M.2 de
 
 ℹ️:
 
-- AMD RYZEN 5 PRO 2500U CPU haute performance avec graphiques Radeon Vega 8. 16 Go de RAM DDR4 double canal (2 x 8 Go) et 512 Go de SSD M.2. Préinstallé avec Windows 10 pro 64-Bit.
-- Certifications et support: FCC, CE, ROSH. Garantie deux ans et assistance 24 heures sur 24 et 7 jours sur 7. Caractéristiques : RTC WakeUp / Wake-On-Lan / Auto Power On (BIOS configurable) / Network boot.
 - Ports et connecteurs multiples: USB-C, USB 3.0, HDMI, DisplayPort, 2 Gigabit Ethernet, Wifi6 (AX200), Bluetooth 5, connecteur audio 3,5 mm. Connexion simultanée à 3 écrans UHD 4K/60Hz.
-- Mini PC Élégant de petite taille. Facile à configurer, facile à mettre à jour et facile à installer. Scénarios à usages multiples: jeux, bureau, centre médiatique, mini serveur, éducation, signalisation.
+- AMD RYZEN 5 PRO 2500U CPU haute performance avec graphiques Radeon Vega 8. 16 Go de RAM DDR4 double canal (2 x 8 Go) et 512 Go de SSD M.2. Préinstallé avec Windows 10 pro 64-Bit.
 - Efficacité énergétique et ergonomie. Permet déconomiser de lespace de bureau et consomme moins dénergie que les équipements équivalents. Fonctionne presque silencieusement grâce à un ventilateur de qualité et à une conception intelligente du flux dair. Dessin avec des cadres métalliques.
+- Certifications et support: FCC, CE, ROSH. Garantie deux ans et assistance 24 heures sur 24 et 7 jours sur 7. Caractéristiques : RTC WakeUp / Wake-On-Lan / Auto Power On (BIOS configurable) / Network boot.
+- Mini PC Élégant de petite taille. Facile à configurer, facile à mettre à jour et facile à installer. Scénarios à usages multiples: jeux, bureau, centre médiatique, mini serveur, éducation, signalisation.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08R38SJWV/?tag=tolees0d-21)

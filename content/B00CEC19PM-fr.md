@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony Pictures Entertainment - Maries Deu avec 50.15 % rabais '
-date: 2021-02-02 06:06:39
+date: 2021-02-05 06:53:56
 image: 'https://m.media-amazon.com/images/I/61iWv4oEloL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [Sony Pictures Entertainment - Maries Deux Enfants Integrale 11 S
 
 ℹ️:
 
+- productGroup : DVD
 - regionCode : 2
 - numberOfDiscs : 33
-- productGroup : DVD
 - Date de sortie : 2012-10-16
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CEC19PM/?tag=tolees0d-21)

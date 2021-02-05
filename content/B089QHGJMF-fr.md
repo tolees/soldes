@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath- Super Zings Secret Lab  32750.0 avec 20.08 % rabais '
-date: 2021-02-03 22:15:30
+date: 2021-02-05 06:16:50
 image: 'https://m.media-amazon.com/images/I/41qMsskp4ML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Goliath'
 buyurl: 'https://www.amazon.fr/dp/B089QHGJMF/?tag=tolees0d-21'
 descuento: '20.08'
-average: '19.8991803278688'
+average: '19.899193548387'
 ---
 
 C'est en vente [Goliath- Super Zings Secret Lab  32750.004](https://www.amazon.fr/dp/B089QHGJMF/?tag=tolees0d-21)  à  20.08 % de réduction, prix final  19.9 EUR (original: 24.9 EUR) ici:
@@ -28,9 +28,9 @@ C'est en vente [Goliath- Super Zings Secret Lab  32750.004](https://www.amazon.f
 
 ℹ️:
 
-- SuperZings are everyday products transformed into superheroes and supervillains and each character has its rival.
-- SuperZings is a range of collectible figures consisting of 80 characters (per series) classified by rarity level: regular, rare, super rare and ultra rare. And available in different finishes (for Series 2) - Normal, Super Crystal (New), Gold and Silver.
-- Minimum age: 5 years
-- 1 player and +
+- Age Minimun: 5 ans
+- SuperZings est une gamme de figurines à collectionner, composée de 80 personnages (par série), classés par niveau de rareté : regular, rare, super rare et ultra rare. Et existants en différentes finition (pour la série 2) : normale, Super Crystal (nouveau), gold et silver.
+- Les SuperZings sont des produits du quotidien transformés en superhéros et en supers méchants et chaque personnage a son rival.
+- 1 joueur et +
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089QHGJMF/?tag=tolees0d-21)

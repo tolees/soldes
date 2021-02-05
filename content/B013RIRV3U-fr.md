@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros - Le Hobbit - Version Longue avec 50.18 % rabais '
-date: 2021-01-30 06:08:28
+date: 2021-02-05 06:53:24
 image: 'https://m.media-amazon.com/images/I/517UBXfjmfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 65.21 EUR
 prodname: 'Warner Bros - Le Hobbit - Version Longue - La Trilogie - Coffret Blu-Ray [Version longue - Blu-ray] [Version longue - Blu-ray]'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Warner Bros'
 buyurl: 'https://www.amazon.fr/dp/B013RIRV3U/?tag=tolees0d-21'
 descuento: '50.18'
 average: '32.49'

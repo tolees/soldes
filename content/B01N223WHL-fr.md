@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Mario Kart 8 Deluxe avec 35.72 % rabais '
-date: 2021-01-31 15:28:18
+date: 2021-02-05 05:46:21
 image: 'https://m.media-amazon.com/images/I/618LTd9CpxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B01N223WHL/?tag=tolees0d-21'
 descuento: '35.72'
-average: '44.7133009708738'
+average: '44.7185714285715'
 ---
 
 C'est en vente [Nintendo - Mario Kart 8 Deluxe](https://www.amazon.fr/dp/B01N223WHL/?tag=tolees0d-21)  à  35.72 % de réduction, prix final  44.99 EUR (original: 69.99 EUR) ici:

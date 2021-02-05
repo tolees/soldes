@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '62.08 % rabais sur Levi s Perfect Vneck T-Shirt  Annalise S'
-date: 2021-02-04 05:30:43
+date: 2021-02-05 05:49:14
 image: 'https://m.media-amazon.com/images/I/31aL9VelL+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Levis'
 buyurl: 'https://www.amazon.fr/dp/B07ZVQK4D8/?tag=tolees0d-21'
 descuento: '62.08'
-average: '13.2575'
+average: '12.502'
 ---
 
 Vous avez [Levi s Perfect Vneck T-Shirt  Annalise Stripe Sepia Rose  M Femme](https://www.amazon.fr/dp/B07ZVQK4D8/?tag=tolees0d-21)  à  62.08 % de réduction, prix final  9.48 EUR (original: 25.0 EUR) ici:

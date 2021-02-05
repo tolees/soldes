@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Calèche d Hiver - 70397 avec 57.52 % rabais '
-date: 2021-02-04 05:25:11
+date: 2021-02-05 06:17:09
 image: 'https://m.media-amazon.com/images/I/51nOHSweauL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B081HQ8KN7/?tag=tolees0d-21'
 descuento: '57.52'
-average: '15.4953703703703'
+average: '15.398909090909'
 ---
 
 C'est en vente [Playmobil - Calèche d Hiver - 70397](https://www.amazon.fr/dp/B081HQ8KN7/?tag=tolees0d-21)  à  57.52 % de réduction, prix final  10.19 EUR (original: 23.99 EUR) ici:
