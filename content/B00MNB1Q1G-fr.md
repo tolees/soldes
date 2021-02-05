@@ -28,8 +28,8 @@ C'est en vente [La Sultane de Saba - Eau de parfum Ambre Vanille Patchouli  100m
 
 ℹ️:
 
-- Aromas: Amber, Vanilla, Patchouli
 - Ayurvedic ‘Voyage sur la route des épices’ eau de parfum
 - exciting notes of amber, vanilla and patchouli.Un voyage sur la route des épices: inspired by an ancient tradition.A subtle and enchanting perfume that will bring you into the intoxicating universe of La Sultane de Saba...
+- Aromas: Amber, Vanilla, Patchouli
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00MNB1Q1G/?tag=tolees0d-21)

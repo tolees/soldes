@@ -28,10 +28,10 @@ Vous avez [Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction de Bruit 
 
 ℹ️:
 
+- Alexa built-in devices let you instantly connect to Alexa to play music, control your smart home, get information, news, weather, and more using just your voice.
+- Ergonomic Tri-hold Structure for secure fitting
 - Stable Bluetooth connection
 - Up to 8H battery life per single charge + additional 3 charges from carrying case
 - Industry-leading noise cancellation* to block out unnecessary ambient noise (*As of June 1st 2019. According to research by Sony Corporation, measured using JEITA-compliant guidelines in Truly Wireless style noise cancelling headphones market)
-- Ergonomic Tri-hold Structure for secure fitting
-- Alexa built-in devices let you instantly connect to Alexa to play music, control your smart home, get information, news, weather, and more using just your voice.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07T2FGG2Z/?tag=tolees0d-21)

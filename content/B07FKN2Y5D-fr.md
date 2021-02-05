@@ -29,9 +29,9 @@ C'est en vente [Philips S9721/41 Rasoir électrique Series 9000 100% étanche av
 ℹ️:
 
 - Efficacité : Système de lames V-Track Precision Pro pour une coupe optimale sur les barbes de 1 à 3 jours
-- Confort : Têtes flexibles dans 8 directions pour un suivi optimal des contours du visage
 - Accessoires : trousse de voyage et tondeuse de précision
 - Rasage de près efficace et confortable, même sur les barbes de 3 jours
+- Confort : Têtes flexibles dans 8 directions pour un suivi optimal des contours du visage
 - Autonomie : 60 minutes dautonomie pour une heure de charge. Charge rapide en 5 minutes pour un rasage express.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FKN2Y5D/?tag=tolees0d-21)

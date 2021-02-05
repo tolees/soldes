@@ -28,8 +28,8 @@ C'est en vente [Samsung T7 1 To USB 3.2 SSD externe noir - MU-PC1T0T/WW](https:/
 
 ℹ️:
 
-- Connectivity technology: Nein
 - Compatible devices: Desktop
 - Memory storage capacity: 1.0
+- Connectivity technology: Nein
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087DFLF9S/?tag=tolees0d-21)

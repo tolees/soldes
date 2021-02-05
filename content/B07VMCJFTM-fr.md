@@ -29,9 +29,9 @@ C'est en vente [Spa Luxetique Coffret de Bain  Coffret Cadeau pour Femme  8 Piè
 ℹ️:
 
 - Comforting Vanilla Essential Oil - Inspired by the vanilla’s sweet and warm fragrance and its moisturizing and antioxidant properties when applied on skin, we infused this popular aromatherapy ingredient into our bath set. Soaking in warm vanilla bubble bath helps to restore skins brightness and softness, leaving a sweet scent that makes you feeling soothed and pampered.
-- Deluxe Bath Gift Sets for Women - This bath hamper includes 2 bath bombs, vanilla shower gel, vanilla bubble bath, vanilla body lotion, vanilla body butter, vanilla bath salts, bath puff and a retro chic silver bathtub holder.
-- Natural and Nourishing - Our vanilla shower gift set is made from the natural ingredients such as sunflower seed oil, Vitamin E and vanilla extract, nutrient rich formula that helps to retain moisture, restore and rejuvenate your skin, helping it to feel moisturised, soft and balanced.
 - Pamper Gift Sets for Her - Our stylish packaging and premium quality bath products are perfect as gifts for wife, mother, gift friend or your loved one for any occasion, Attached with a ribbon and a gift note. All packed up and ready to give, it works great as birthday gifts, xmas gifts, anniversary gifts, mother’s day gifts.
 - Versatile Bath Tub - Our upscale and beautiful packaging is perfect as a gift or for your own indulgent pleasure. Have fun in the tub with a fragrant and delightful assortment of luxury spa products. The reusable tub can be used in many different ways such as storing a variety of items in a powder room, bathroom or bedroom.
+- Natural and Nourishing - Our vanilla shower gift set is made from the natural ingredients such as sunflower seed oil, Vitamin E and vanilla extract, nutrient rich formula that helps to retain moisture, restore and rejuvenate your skin, helping it to feel moisturised, soft and balanced.
+- Deluxe Bath Gift Sets for Women - This bath hamper includes 2 bath bombs, vanilla shower gel, vanilla bubble bath, vanilla body lotion, vanilla body butter, vanilla bath salts, bath puff and a retro chic silver bathtub holder.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VMCJFTM/?tag=tolees0d-21)

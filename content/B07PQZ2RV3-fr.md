@@ -28,10 +28,10 @@ C'est en vente [TOMY - Pop Olaf  La Reine des Neiges 2  Jeu d Action pour Enfant
 
 ℹ️:
 
-- [PARFAIT CADEAU DANNIVERSAIRE OU DE NOËL] Cadeau pour les enfants de 4 ans+, idéal pour les anniversaires et Noël. Un jeu daction pour enfants qui déclenchera une série de fous rires!
-- [JEU POUR ENFANTS FACILE À JOUER] Les règles du jeu sont simples ! Enfilez à tour de rôle un cristal de couleur dans le tonneau, le premier qui fait sauter Olaf a perdu!
-- [MOMENT LUDIQUE EN FAMILLE OU ENTRE CAMARADES] À la maison ou en vacances, partagez des heures de rigolade en famille ou avec les camarades de classe. Parfait pour les anniversaires ou autres fêtes!
-- [LA REINE DES NEIGES 2 DISNEY OFFICIEL] Retrouvez Olaf de la Reine des Neiges 2 dans son tonneau ! Place Olaf dans son tonneau et amuse-toi à lui piquer les fesses. Attention, un cristal mal placé et il est expulsé.
 - [FOU RIRE GARANTI] Ce jeu de suspens pour 2 à 4 joueurs va provoquer des surprises et des crises de rire, accessible à tous les membres de la famille, même les plus petits.
+- [PARFAIT CADEAU DANNIVERSAIRE OU DE NOËL] Cadeau pour les enfants de 4 ans+, idéal pour les anniversaires et Noël. Un jeu daction pour enfants qui déclenchera une série de fous rires!
+- [MOMENT LUDIQUE EN FAMILLE OU ENTRE CAMARADES] À la maison ou en vacances, partagez des heures de rigolade en famille ou avec les camarades de classe. Parfait pour les anniversaires ou autres fêtes!
+- [JEU POUR ENFANTS FACILE À JOUER] Les règles du jeu sont simples ! Enfilez à tour de rôle un cristal de couleur dans le tonneau, le premier qui fait sauter Olaf a perdu!
+- [LA REINE DES NEIGES 2 DISNEY OFFICIEL] Retrouvez Olaf de la Reine des Neiges 2 dans son tonneau ! Place Olaf dans son tonneau et amuse-toi à lui piquer les fesses. Attention, un cristal mal placé et il est expulsé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PQZ2RV3/?tag=tolees0d-21)

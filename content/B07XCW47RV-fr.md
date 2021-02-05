@@ -31,7 +31,7 @@ C'est en vente [Microsoft Surface Pro 7  Windows 10  écran tactile 12.3"  Intel
 - Performances plus rapides et graphisme amélioré grâce aux processeurs Intel iRNUM 10ème génération
 - Ports USB-A ainsi qu’un nouveau port USB-C remplaçant le mini Display Port pour les vidéos, les données et pour le chargement
 - Autonomie de batterie pour toute la journée; un design irréprochable, à l’image de la gamme Surface
-- Écran exceptionnel PixelSense de 12.3’’. Densité de pixels: 267 ppi
 - Une nouvelle expérience audio avec les micros studio et l’activation à la voix de nouveaux coloris tendances pour les accessoires Surface
+- Écran exceptionnel PixelSense de 12.3’’. Densité de pixels: 267 ppi
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XCW47RV/?tag=tolees0d-21)

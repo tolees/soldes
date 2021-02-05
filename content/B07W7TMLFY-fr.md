@@ -28,10 +28,10 @@ C'est en vente [LEGO Star Wars  Le chasseur X-wing de Poe Dameron  Set de constr
 
 ℹ️:
 
-- Kids can battle First Order with Poe Dameron in this starship or fight on the ground against the Knight of Ren with Jannah’s cool weapons
-- Features an opening minifigure cockpit, space for R2-D2, adjustable wings, stud and spring-loaded shooters plus retractable landing gear
 - Includes three minifigures – Poe Dameron, Knight of Ren and Jannah with new-for-January-2020 features and weapons, plus an R2-D2 LEGO droid
-- The X-wing fighter adjustable wings go up or down for cruise and attack modes and it fires stud shooters and spring-loaded missiles
 - This set combines brilliantly with The Rise of Skywalker: Sith TIE Fighter (75272) for epic First Order vs. Resistance battles
+- Features an opening minifigure cockpit, space for R2-D2, adjustable wings, stud and spring-loaded shooters plus retractable landing gear
+- The X-wing fighter adjustable wings go up or down for cruise and attack modes and it fires stud shooters and spring-loaded missiles
+- Kids can battle First Order with Poe Dameron in this starship or fight on the ground against the Knight of Ren with Jannah’s cool weapons
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7TMLFY/?tag=tolees0d-21)

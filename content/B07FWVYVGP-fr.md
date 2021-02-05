@@ -28,10 +28,10 @@ C'est en vente [Levi s 724 High Rise Straight Jeans  to The Nine  30W / 32L Femm
 
 ℹ️:
 
-- Ne se lave pas
-- Droit
-- haute
 - 84 % coton, 14 % polyester, 2 % élasthanne
 - Fermeture : bouton
+- haute
+- Droit
+- Ne se lave pas
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FWVYVGP/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Sylvanian Families - Le Village - La Famille Chien Caramel - 545
 
 ℹ️:
 
-- Sylvanian Families miniature dollhouses, playsets and figures are timeless and classic high quality toys
 - Good for stimulating imaginative role-play in children
 - Caramel Dog posable collectable figures
 - Dressed in removable fabric clothing
+- Sylvanian Families miniature dollhouses, playsets and figures are timeless and classic high quality toys
 - 4 piece set: Father, mother, girl and baby
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083L1MT1Y/?tag=tolees0d-21)

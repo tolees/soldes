@@ -29,9 +29,9 @@ Vous avez [Pentel Graphgear 1000 Porte-Mine 0 7 mm Canon Rentrant Métal](https:
 ℹ️:
 
 - Porte-mines technique rechargeable pour mines 0,7mm
-- Idéal pour dessins techniques et utilisation quotidienne
 - Porte-mines avec canon rentrant et muni dune gomme
 - Corps de haute qualité en métal gris argenté
+- Idéal pour dessins techniques et utilisation quotidienne
 - Indicateur de dureté de la mine sur le corps
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000GAXKGU/?tag=tolees0d-21)

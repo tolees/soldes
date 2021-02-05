@@ -28,8 +28,8 @@ C'est en vente [Samsung A20E  Smartphone  LTE  Android 9.0  Pie   Capacité: 512
 
 ℹ️:
 
-- Capacité mémoire: 32 GB extensible avec MicroSD de 512 GB
 - Résolution de lappareil photo: 13+5 MP, F1.9 E F2.2
 - Samsung A20E, Smartphone, LTE, Android 9.0 (Pie), Capacité: 512 GB, [Italia]
+- Capacité mémoire: 32 GB extensible avec MicroSD de 512 GB
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RLXVSWV/?tag=tolees0d-21)

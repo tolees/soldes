@@ -28,8 +28,8 @@ C'est en vente [Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra Bas
 
 ℹ️:
 
-- Optimized for google assistant and alexa for a seamless hands-free control and more
 - Up to 30 hours battery life and the quick charge feature will also give you 60 minutes of play time after just 10 minutes charge
+- Optimized for google assistant and alexa for a seamless hands-free control and more
 - Audio cable included
 - Noise cancelling with enhanced deep punchy bass sound thanks to extra BASS technology
 - Sleek design and long listen comfort, Frequency Response (Bluetooth Communication): 20 Hz–20,000 Hz (44.1 kHz Sampling)/20 Hz–40,000 Hz (LDAC 96 kHz Sampling, 990 kbps)
