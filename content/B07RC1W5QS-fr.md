@@ -29,11 +29,11 @@ C'est en vente [SAMSUNG Galaxy FIT R370 Bracelet Tracker d activitées Adulte Un
 ℹ️:
 
 - Gestion depuis Smartphone
-- ÉTANCHE JUSQU’À 50M
-- Autonomie : 7 Jours
-- Applications de santé
-- Ecran :Super AMOLED Full color
-- included_components: Bracelet GEART FIT +Socle de charge sans fil+Guide de prise en main
 - Bluetooth Low Energy
+- ÉTANCHE JUSQU’À 50M
+- Ecran :Super AMOLED Full color
+- Autonomie : 7 Jours
+- included_components: Bracelet GEART FIT +Socle de charge sans fil+Guide de prise en main
+- Applications de santé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RC1W5QS/?tag=tolees0d-21)
