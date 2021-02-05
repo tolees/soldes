@@ -29,10 +29,10 @@ C'est en vente [Bébé Confort Lara 2  Poussette légère ultra compacte  pliage
 ℹ️:
 
 - Pliage unique ultra-rapide d’une seule main : une seule pression sur le guidon suffit pour plier la poussette automatiquement
-- Deux paniers vous assurent une capacité de rangement maximale et un accès aisé à vos affaires
-- Compatible avec les cosis Pebble, Rock , Cabriofix et Citi grâce aux adaptateurs pour siège auto cosi inclus
-- Style premium et tissus doux pour des balades fraîches et confortables
-- Design ultra-compact et léger, facile à transporter grâce à sa bandoulière, et facile à ranger même dans les plus petits espaces
 - Poussette pour les bébés et les enfants, de la naissance à 4 ans, jusqu’à 22 kg
+- Compatible avec les cosis Pebble, Rock , Cabriofix et Citi grâce aux adaptateurs pour siège auto cosi inclus
+- Design ultra-compact et léger, facile à transporter grâce à sa bandoulière, et facile à ranger même dans les plus petits espaces
+- Style premium et tissus doux pour des balades fraîches et confortables
+- Deux paniers vous assurent une capacité de rangement maximale et un accès aisé à vos affaires
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088V6RH5L/?tag=tolees0d-21)
