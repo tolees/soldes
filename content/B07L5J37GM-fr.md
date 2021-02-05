@@ -28,11 +28,11 @@ C'est en vente [Inconnu - Visiophone - Extel - couleur ultra plat design "effet 
 
 ℹ️:
 
+- 9 sonneries
+- Installation simple et rapide sur 2 fils entre le moniteur et la platine de rue
+- Visiophone avec large écran de 18cm
+- Avec vision nocturne
 - Commandez une gâche/serrure électrique ET un automatisme de portail
 - Avec sa fonction monitoring, surveillez votre entrée en toute discrétion
-- Avec vision nocturne
-- Visiophone avec large écran de 18cm
-- Installation simple et rapide sur 2 fils entre le moniteur et la platine de rue
-- 9 sonneries
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L5J37GM/?tag=tolees0d-21)

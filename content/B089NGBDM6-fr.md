@@ -28,10 +28,10 @@ Vous avez [L.O.L. Surprise! - L.O.L. Surprise  OOTD 2020 - Calendrier de l’Ave
 
 ℹ️:
 
-- 25 SURPRISES : poupée, tenues, paire de chaussures, biberon, accessoires et autocollant !
-- UNE POUPÉE : avec 1 Poupée Exclusive de 8cm environ articulée. Et fonction eau surprise !
 - PRODUIT OFFICIEL L.O.L. Surprise !
-- VALEUR ÉDUCATIVE : découvrir et expérimenter !
 - CALENDRIER DE LAVENT : avec 1 surprise par jour à découvrir jusquau Grand Jour !
+- UNE POUPÉE : avec 1 Poupée Exclusive de 8cm environ articulée. Et fonction eau surprise !
+- VALEUR ÉDUCATIVE : découvrir et expérimenter !
+- 25 SURPRISES : poupée, tenues, paire de chaussures, biberon, accessoires et autocollant !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089NGBDM6/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [Swiftpak Supatak classique 48 mm x 1800 m ruban adhésif trans
 
 ℹ️:
 
-- High Quality Adhesive
-- Package Weight: 23.6 kilograms
-- For Machine Use
 - Clear Colour
+- For Machine Use
+- Package Weight: 23.6 kilograms
+- High Quality Adhesive
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01IMVJRAW/?tag=tolees0d-21)

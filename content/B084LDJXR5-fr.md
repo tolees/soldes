@@ -28,8 +28,8 @@ C'est en vente [Samsung Galaxy S20+ 5G 128Go Noir - Smartphone Portable débloqu
 
 ℹ️:
 
-- Triple capteur 12MP DP + 12MP + space zoom hybride x3 64 MP
 - vidéo 8K et photos 8K
+- Triple capteur 12MP DP + 12MP + space zoom hybride x3 64 MP
 - Batterie 4500 mAh charge rapide 25W
 - Reconnaissance faciale + Lecteur d’empreinte digitale ultrasonique
 - Ecran Infinity 6 7’’ Dynamic AMOLED – 16M de couleurs
