@@ -28,10 +28,10 @@ C'est en vente [Kipling Sari Sac à Dos à Roulettes pour Enfants  48 cm  25 Lit
 
 ℹ️:
 
-- Bandoulière réglable et amovible
-- Passant pour trolley dans le compartiment zippé à larrière
 - Compartiment principal avec enveloppe
-- Dimensions : 23 cm x 20,5 cm x 12,5 cm - Matériau : extérieur en nylon. Doublure : polyester
 - Poignée sur le dessus
+- Passant pour trolley dans le compartiment zippé à larrière
+- Dimensions : 23 cm x 20,5 cm x 12,5 cm - Matériau : extérieur en nylon. Doublure : polyester
+- Bandoulière réglable et amovible
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V2H8Y9X/?tag=tolees0d-21)
