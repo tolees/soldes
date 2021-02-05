@@ -29,9 +29,9 @@ C'est en vente [Warner Bros. - Batman - l Intégrale de la Série Animée - Edit
 ℹ️:
 
 - langue: anglais;français
-- sous-titres:français
 - Format:dvd
-- Nombre darticles:16
 - Auteur:Bob Kane
+- Nombre darticles:16
+- sous-titres:français
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00D4AXO5Q/?tag=tolees0d-21)

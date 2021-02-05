@@ -28,10 +28,10 @@ Vous avez [Feel Good Art Ris Beaucoup Toile sur Cadre Mural de Style Moderne/Typ
 
 ℹ️:
 
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Disponibles en diverses couleurs vives et modernes et en différentes tailles afin de s’adapter à tous les espaces et les décorations
-- Un design moderne et typographique aux polices de caractères modernes & aux petites phrases percutantes
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Faites selon la méthode d’impression giclée de haute qualité, montées sur cadre en bois et sans bordure – prêtes à être accrochées
+- Un design moderne et typographique aux polices de caractères modernes & aux petites phrases percutantes
+- Disponibles en diverses couleurs vives et modernes et en différentes tailles afin de s’adapter à tous les espaces et les décorations
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014VXSGMU/?tag=tolees0d-21)
