@@ -1,28 +1,30 @@
 ---
 layout: post
-title: 'The Last Ship-L intégrale de la série avec 41.87 % rabais '
-date: 2021-01-19 16:28:10
+title: 'Warner Home Video - The Last Ship-L inté avec 51.39 % rabais '
+date: 2021-02-06 19:27:57
 image: 'https://m.media-amazon.com/images/I/51FYjV02oyL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B07WX733HD-fr The Last Ship-L intégrale de la série'
-tags: [ 'tole.es', ]
-actualPrice: 34.99 EUR
+slug: 'B07WX733HD-fr Warner Home Video - The Last Ship-L intégrale de la série'
+sku: 'B07WX733HD-fr'
+tags: [  ]
+actualPrice: 29.26 EUR
 currency: EUR
-price: 34.99
+price: 29.26
 comparePrice: 60.19 EUR
-prodname: 'The Last Ship-L intégrale de la série'
+prodname: 'Warner Home Video - The Last Ship-L intégrale de la série'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Warner Home Video'
 buyurl: 'https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21'
-descuento: '41.87'
-average: '38.59'
+descuento: '51.39'
+average: '35.9242857142857'
 ---
 
-C'est en vente [The Last Ship-L intégrale de la série](https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21)  à  41.87 % de réduction, prix final  34.99 EUR (original: 60.19 EUR) ici:
+C'est en vente [Warner Home Video - The Last Ship-L intégrale de la série](https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21)  à  51.39 % de réduction, prix final  29.26 EUR (original: 60.19 EUR) ici:
 
-[![The Last Ship-L intégrale de la série](https://m.media-amazon.com/images/I/51FYjV02oyL._SL200_.jpg)](https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21)
+[![Warner Home Video - The Last Ship-L inté](https://m.media-amazon.com/images/I/51FYjV02oyL._SL200_.jpg)](https://www.amazon.fr/dp/B07WX733HD/?tag=tolees0d-21)
 
 ℹ️:
 
