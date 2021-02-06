@@ -29,8 +29,8 @@ C'est en vente [Diesel Homme Chronographe Quartz Montre avec Bracelet en Acier I
 ℹ️:
 
 - Le design des boîtes à montres Diesel se renouvelle à chaque saison
-- Finition polie et brossée
 - Étanchéité: 10 ATM
 - Boucle déployante
+- Finition polie et brossée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00KMGPH7I/?tag=tolees0d-21)

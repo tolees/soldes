@@ -28,10 +28,10 @@ C'est en vente [Carte Mémoire microSDXC SanDisk Extreme PRO 64 Go + Adaptateur 
 
 ℹ️:
 
-- Homologuée A2 pour des performances applicatives et des chargements plus rapides
-- Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
-- Jusquà 170 Mo/s en lecture et 90 Mo/s en écriture pour des prises et des transferts rapides
-- Idéale pour les smartphones et tablettes Android, ainsi que pour les caméras daction et les drones. Température de fonctionnement: -25 ºC à 85 ºC
 - Compatible UHD 4K avec la Classe de vitesse UHS 3 (U3) et la Classe de vitesse vidéo 30 (V30)
+- Homologuée A2 pour des performances applicatives et des chargements plus rapides
+- Jusquà 170 Mo/s en lecture et 90 Mo/s en écriture pour des prises et des transferts rapides
+- Conçue et testée en conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
+- Idéale pour les smartphones et tablettes Android, ainsi que pour les caméras daction et les drones. Température de fonctionnement: -25 ºC à 85 ºC
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3GMRYF/?tag=tolees0d-21)

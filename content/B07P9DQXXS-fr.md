@@ -28,10 +28,10 @@ C'est en vente [Bandai - Dragon Ball Super - Figurine Dragon Star 17 cm - Super 
 
 ℹ️:
 
+- Plusieurs mains disponibles pour recréer toutes les scènes de la série
+- Personnage : Super Saiyan trois Goku
 - Figurine 17 cm
 - Figurine collector issue des séries Dragon Ball Z et Dragon Ball Super
 - Collectionnez toutes les figurines Dragon Stars de Bandai
-- Personnage : Super Saiyan trois Goku
-- Plusieurs mains disponibles pour recréer toutes les scènes de la série
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P9DQXXS/?tag=tolees0d-21)

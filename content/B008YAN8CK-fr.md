@@ -28,9 +28,9 @@ Vous avez [Polydor - Kiss](https://www.amazon.fr/dp/B008YAN8CK/?tag=tolees0d-21)
 
 ℹ️:
 
-- Year Of Release: 2012
-- Record Label: A&M
-- Catalog#: 06025 3715354
 - Country Of Release: NLD
+- Record Label: A&M
+- Year Of Release: 2012
+- Catalog#: 06025 3715354
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008YAN8CK/?tag=tolees0d-21)
