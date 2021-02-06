@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.23 % rabais sur Intel NUC BOXNUC6CAYH Mini PC Ordenador '
-date: 2021-02-04 10:43:31
+date: 2021-02-06 17:41:12
 image: 'https://m.media-amazon.com/images/I/41dZHytPdjL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Intel'
 buyurl: 'https://www.amazon.fr/dp/B01MSZTD8N/?tag=tolees0d-21'
 descuento: '19.23'
-average: '136.918313953489'
+average: '136.982443181818'
 ---
 
 Vous avez [Intel NUC BOXNUC6CAYH Mini PC Ordenador CELERON J3455 HDMI / VGA / USB3 / M2 DDR3 GBE EN](https://www.amazon.fr/dp/B01MSZTD8N/?tag=tolees0d-21)  à  19.23 % de réduction, prix final  139.74 EUR (original: 173.0 EUR) ici:

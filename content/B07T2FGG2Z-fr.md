@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.00 % rabais sur Sony WF-1000XM3 Écouteurs sans fil Bluet'
-date: 2021-02-05 05:50:40
+date: 2021-02-06 17:48:34
 image: 'https://m.media-amazon.com/images/I/31KhlRJN1JL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B07T2FGG2Z/?tag=tolees0d-21'
 descuento: '20.00'
-average: '182.857788461537'
+average: '183.181037735848'
 ---
 
 Vous avez [Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction de Bruit True Wireless avec boitier de rechargement compatibles iOS et Android  Noir  avec Amazon Alexa Intégrée](https://www.amazon.fr/dp/B07T2FGG2Z/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  199.99 EUR (original: 250.0 EUR) ici:
@@ -28,10 +28,15 @@ Vous avez [Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction de Bruit 
 
 ℹ️:
 
-- Alexa built-in devices let you instantly connect to Alexa to play music, control your smart home, get information, news, weather, and more using just your voice.
-- Ergonomic Tri-hold Structure for secure fitting
-- Stable Bluetooth connection
-- Up to 8H battery life per single charge + additional 3 charges from carrying case
-- Industry-leading noise cancellation* to block out unnecessary ambient noise (*As of June 1st 2019. According to research by Sony Corporation, measured using JEITA-compliant guidelines in Truly Wireless style noise cancelling headphones market)
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Jusquà 24 heures dautonomie grâce à son boîtier de rechargement
+- Sony vous recommande de toujours mettre à jour vos appareils avec les derniers logiciels disponibles. Les notifications de mise à jour logicielle du WF-1000XM3, ainsi que les mises à jour elles-mêmes, sont diffusées via lapplication Sony Headphones Connect, disponible gratuitement sur Google Play et Apple App Store.
+- Compatibles Alexa.Aimant: Néodyme
+- Contrôlez la réduction de bruit, prenez vos appels et choisissez votre musique grâce aux commandes tacticles
+- Fonction Quick Attention permettant de réduire votre musique et damplifier les sons environnants afin de ne pas manquer ce quil se passe autour de vous
+- Fonctions Bluetooth et NFC intégrées
+- Une réduction de bruit exceptionnelle grâce au processeur HD QN1e sadaptant parfaitement à lactivité de lutilisateur
+- Portée maximale: 10 m
+- Réponse en fréquence (communication Bluetooth):20 Hz à 20 000 Hz (échantillonnage de 44,1 kHz)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07T2FGG2Z/?tag=tolees0d-21)
