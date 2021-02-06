@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.17 % rabais sur M6 Vidéo - Z Nation-L intégrale des Sais'
-date: 2021-01-31 12:43:33
+date: 2021-02-06 18:44:24
 image: 'https://m.media-amazon.com/images/I/51LICeSbY-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'M6 Vidéo'
 buyurl: 'https://www.amazon.fr/dp/B07N3X4PCL/?tag=tolees0d-21'
 descuento: '50.17'
-average: '30.7'
+average: '29.56'
 ---
 
 Vous avez [M6 Vidéo - Z Nation-L intégrale des Saisons 1/2/3/4/5 [Blu-Ray]](https://www.amazon.fr/dp/B07N3X4PCL/?tag=tolees0d-21)  à  50.17 % de réduction, prix final  25.0 EUR (original: 50.17 EUR) ici:
