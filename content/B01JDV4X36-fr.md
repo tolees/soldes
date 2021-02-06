@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '51.43 % rabais sur Timberland Killington  Sneakers Montante'
-date: 2021-02-05 05:59:13
+date: 2021-02-06 11:24:17
 image: 'https://m.media-amazon.com/images/I/415tHcjZJ7L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21'
 descuento: '51.43'
-average: '70.3644444444444'
+average: '70.128'
 ---
 
 Vous avez [Timberland Killington  Sneakers Montantes Homme  Jaune Wheat Nubuck  43 EU](https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21)  à  51.43 % de réduction, prix final  68.0 EUR (original: 140.0 EUR) ici:
