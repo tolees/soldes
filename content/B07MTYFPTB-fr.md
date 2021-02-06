@@ -29,9 +29,9 @@ C'est en vente [Bammax Vélo Bébé Draisienne pour Bébé de 1 an-18 Mois  Vél
 ℹ️:
 
 - 【UTILISEZ SANS SOUCIS】Nos vélos bébés sont facile à glisser et à diriger, avec un poids total de seulement 1,8 kg et est facile à installer. Et ils sont certifiés selon les normes de sécurité ASTMF963 et EN71.
-- 【SÉCURITÉ DE BÉBÉ】Ce vélo bébé na pas de pédale qui ne nuira pas aux pieds des enfants. Support à quatre roues, conception triangulaire stable, évitant le renversement latéral.
-- 【PREMIER CADEAU POUR BÉBÉS】Nos draisiennes pour bébés est conçu pour aider les bébés à apprendre les bases de léquilibre et à développer leur motricité pendant le jeu.
 - 【PNEUS SOUPLES】 Pneu EVA entièrement fermé, absorption des chocs, antidérapante et résistante à lusure, meilleure adhérence, pas besoin de gonfler et ne nuira à votre plancher.
 - 【HAUT QUALITÉ 】Nos draisiennes est en design ergonomique, le cadre de draisienne est robuste et écologique et ne se décolore pas, les poignées souples et le siège rendent la conduite confortable des bébés.
+- 【PREMIER CADEAU POUR BÉBÉS】Nos draisiennes pour bébés est conçu pour aider les bébés à apprendre les bases de léquilibre et à développer leur motricité pendant le jeu.
+- 【SÉCURITÉ DE BÉBÉ】Ce vélo bébé na pas de pédale qui ne nuira pas aux pieds des enfants. Support à quatre roues, conception triangulaire stable, évitant le renversement latéral.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MTYFPTB/?tag=tolees0d-21)

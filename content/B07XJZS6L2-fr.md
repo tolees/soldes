@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '53.42 % rabais sur Bandai Namco Entertainment - Dragon Ball'
-date: 2021-01-31 19:03:17
+date: 2021-02-06 12:15:23
 image: 'https://m.media-amazon.com/images/I/51D1eV-rtJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Bandai Namco Entertainment'
 buyurl: 'https://www.amazon.fr/dp/B07XJZS6L2/?tag=tolees0d-21'
 descuento: '53.42'
-average: '37.8515384615385'
+average: '37.1513333333334'
 ---
 
 Vous avez [Bandai Namco Entertainment - Dragon Ball Z: Kakarot  PS4 ](https://www.amazon.fr/dp/B07XJZS6L2/?tag=tolees0d-21)  à  53.42 % de réduction, prix final  32.6 EUR (original: 69.99 EUR) ici:

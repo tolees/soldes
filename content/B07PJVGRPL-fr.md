@@ -28,9 +28,9 @@ C'est en vente [Funko POP! KEYCHAIN: Toy Story 4 - Bo Peep](https://www.amazon.f
 
 ℹ️:
 
-- Figurine officielle Funko
-- Age range description: Adolescent, Adulte.
 - Couleur: Multicolore
+- Age range description: Adolescent, Adulte.
 - Quantité de colis darticles : 1
+- Figurine officielle Funko
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PJVGRPL/?tag=tolees0d-21)

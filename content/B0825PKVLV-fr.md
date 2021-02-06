@@ -28,8 +28,8 @@ C'est en vente [Geox U Adrien A  Oxford Flat Homme  Cognac  43 EU](https://www.a
 
 ℹ️:
 
-- Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 - Cuir Souple
+- Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 - Synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0825PKVLV/?tag=tolees0d-21)
