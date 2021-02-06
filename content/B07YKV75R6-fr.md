@@ -28,7 +28,7 @@ Vous avez [Esprit 129ee2g007 Blouson  Noir  Black 001   Small Homme](https://www
 
 ℹ️:
 
-- Style motard populaire
 - Veste en cuir synthétique végétalien
+- Style motard populaire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YKV75R6/?tag=tolees0d-21)
