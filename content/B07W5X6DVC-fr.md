@@ -28,11 +28,11 @@ Vous avez [Axe Ice Cool Gel Douche Homme Parfum Menthe Glaciale et Citron Formul
 
 ℹ️:
 
-- Lot de 6 gels douches pour homme Axe Ice Cool de 250 ml
-- Reste cool même quand il fait chaud !
-- Existe en gel douche 250 ml, en déodorant et anti-transpirant
 - Avec ce gel douche au parfum rafraîchissant de menthe glaciale et de citron, ta peau sera parfumée dès la sortie de ta douche. Reste frais pendant 8 heures !
 - Gel douche homme, fraîcheur et propreté
+- Lot de 6 gels douches pour homme Axe Ice Cool de 250 ml
+- Existe en gel douche 250 ml, en déodorant et anti-transpirant
+- Reste cool même quand il fait chaud !
 - Avec AXE, révèle ce qui te rend unique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W5X6DVC/?tag=tolees0d-21)

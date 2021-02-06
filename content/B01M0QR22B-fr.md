@@ -28,15 +28,15 @@ Vous avez [SanDisk Ultra 128Go Dual Drive m3.0 Clé double connectique pour appa
 
 ℹ️:
 
-- Haute debit USB 3.0 pour assurer la rapidité des transferts de fichiers jusqu à 150 Mo/s.
-- Lapplication SanDisk Memory Zone (disponible sur Google Play) vous permet de gérer facilement vos photos et vidéos
 - Une conception rétractable avec une double connectique micro-USB et USB 3.0
-- Deux connecteurs Micro-USB et USB 3.0.
-- Transférez facilement du contenu entre ordinateurs et appareils Android.
-- Libérez de la mémoire sur votre smartphone et Tablet PC
+- Haute debit USB 3.0 pour assurer la rapidité des transferts de fichiers jusqu à 150 Mo/s.
 - Compatible avec les appareils Android OTG.
-- Libérez de lespace sur votre téléphone OTG Android
 - Sauvegardez vos photos, vidéos et contacts
+- Libérez de la mémoire sur votre smartphone et Tablet PC
 - Performances USB 3.0 haute vitesse avec des transferts de fichiers jusquà 150 Mo/s de la clé à lordinateur
+- Lapplication SanDisk Memory Zone (disponible sur Google Play) vous permet de gérer facilement vos photos et vidéos
+- Deux connecteurs Micro-USB et USB 3.0.
+- Libérez de lespace sur votre téléphone OTG Android
+- Transférez facilement du contenu entre ordinateurs et appareils Android.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M0QR22B/?tag=tolees0d-21)

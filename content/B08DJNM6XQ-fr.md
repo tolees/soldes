@@ -28,8 +28,8 @@ Vous avez [Philips S7788/59 Rasoir Électrique Series 7000 pour Peaux Sensibles 
 
 ℹ️:
 
-- Technologie SkinIQ : capteur de densité de barbe pour un rasage sans effort et tiraillements, capteur de mouvement pour vous guider vers un mouvement plus efficace
 - Efficacité : lames SteelPrecision pour un rasage précis, même sur les barbes de trois jours
+- Technologie SkinIQ : capteur de densité de barbe pour un rasage sans effort et tiraillements, capteur de mouvement pour vous guider vers un mouvement plus efficace
 - Un rasage de près, une protection des peaux sensibles
 - Confort : têtes flexibles 360° pour un suivi optimal des contours du visage, revêtement protective SkinGlide pour un une protection des peaux sensibles
 - Accessoires : tondeuse de précision intégrée, station de nettoyage Quick Clean Pod + 1 recharge, stand de charge lumineux, housse de voyage premium, accessoire tondeuse barbe, compatible avec lapplication Philips GroomTribe
