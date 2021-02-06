@@ -28,8 +28,8 @@ C'est en vente [Giorgio Beverly Hills - Eau de Toilette Femme Vaporisateur - Sen
 
 ℹ️:
 
-- Un produit de beauté unique et exclusif Giorgio Beverly Hills
 - 90 ml
+- Un produit de beauté unique et exclusif Giorgio Beverly Hills
 - Giorgio Beverly Hills Eau de Toilette Spray pour Femme
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001BKK3LO/?tag=tolees0d-21)
