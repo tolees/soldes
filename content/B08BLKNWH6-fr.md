@@ -28,10 +28,10 @@ Vous avez [Gamory Manette pour ps4 Manette pour ps4 sans Fil pour Playstation 4/
 
 ℹ️:
 
+- 🎮【Fonction Double Vibration】Le double moteur intégré produit différents effets de vibration en fonction des différents états et scènes du jeu, ce qui augmente lauthenticité du jeu et vous permet de profiter du plaisir du jeu.
 - 🎮【Double moteur et conception antidérapante】Moteur asymétrique gauche-droite intégré, qui prend en charge la fonction de double vibration du moteur double, la conception de la poignée de surface antidérapante est adaptée pour offrir une meilleure adhérence autour du contrôleur et nest pas facile à tomber , laissez-vous mieux jouer.
 - 🎮【Autonomie de la batterie】Batterie au lithium rechargeable haute capacité 600 mAH intégrée, le chargement du câble USB est stable et ininterrompu, la poignée a la fonction dindicateur de charge basse tension et de lumière daffichage, et entrera automatiquement dans la fonction suspension en 5 minutes environ.
-- 🎮 【Compatible avec les consoles PS4 / PS3 / PC】 Le contrôleur prend en charge plusieurs plates-formes de jeu pour les consoles PS4, PS3, PS4 Silm et PS4 Pro. La forme et la sensation du contrôleur pour ps4 sont professionnellement conçues pour fournir un meilleur contrôle quel que soit ce que vous jouez (Remarque: connectez le terminal PS3 et le PC via un câble USB comme joystick filaire à utiliser)
 - 🎮【Connexion Sans Fil et Contrôle Précis】La connexion sans fil utilise la technologie Bluetooth haute performance "Bluetooth 2.1 + EDR", qui peut être jusquà 8M de connexion sans fil stable sans délai, offre une expérience de jeu précise et est compatible avec PS4 et PS3.
-- 🎮【Fonction Double Vibration】Le double moteur intégré produit différents effets de vibration en fonction des différents états et scènes du jeu, ce qui augmente lauthenticité du jeu et vous permet de profiter du plaisir du jeu.
+- 🎮 【Compatible avec les consoles PS4 / PS3 / PC】 Le contrôleur prend en charge plusieurs plates-formes de jeu pour les consoles PS4, PS3, PS4 Silm et PS4 Pro. La forme et la sensation du contrôleur pour ps4 sont professionnellement conçues pour fournir un meilleur contrôle quel que soit ce que vous jouez (Remarque: connectez le terminal PS3 et le PC via un câble USB comme joystick filaire à utiliser)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BLKNWH6/?tag=tolees0d-21)

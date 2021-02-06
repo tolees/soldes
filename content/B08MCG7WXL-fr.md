@@ -28,10 +28,10 @@ C'est en vente [ZD -O Manette de jeu sans fil Bluetooth filaire USB pour Windows
 
 ℹ️:
 
-- Mode de connexion : connexion Bluetooth, dongle sans fil exclusif, connexion filaire (avertissement : différents appareils ont différents modes de connexion, veuillez vous référer à la notice) Caractéristiques du matériel : joystick virtuel 60° 0, batterie intégrée 600 am (15 à 25 heures de jeu), 3,6 millions de touches de durabilité (selon la norme du fabricant), câble USB de 5,9 ft
-- ZD-O a un design minimaliste, il dispose de 6 boutons macro programmés, qui peuvent cartographier un seul bouton de la manette indépendamment ou un bouton combinaison, vous offrant différents plaisirs de jeu et simplifier le contrôle du jeu.
-- Fonction de contrôle : double vibration asymétrique (vibration peut être fermée) Joystick Cross Key échanger, réglage de la précision du joystick, fermeture linéaire LT&RT, boutons personnalisés, deux transmissions, échange ABXY.
 - Compatibilité du système : PC, ordinateur portable, Nintendo Switch, Steam, Fire TV (port USB), Android (téléphone portable, tablette, TV box). Ne prend pas en charge le système iOS.
+- Mode de connexion : connexion Bluetooth, dongle sans fil exclusif, connexion filaire (avertissement : différents appareils ont différents modes de connexion, veuillez vous référer à la notice) Caractéristiques du matériel : joystick virtuel 60° 0, batterie intégrée 600 am (15 à 25 heures de jeu), 3,6 millions de touches de durabilité (selon la norme du fabricant), câble USB de 5,9 ft
 - Service de qualité. ZD sengage à fournir aux clients les meilleurs produits et services.
+- Fonction de contrôle : double vibration asymétrique (vibration peut être fermée) Joystick Cross Key échanger, réglage de la précision du joystick, fermeture linéaire LT&RT, boutons personnalisés, deux transmissions, échange ABXY.
+- ZD-O a un design minimaliste, il dispose de 6 boutons macro programmés, qui peuvent cartographier un seul bouton de la manette indépendamment ou un bouton combinaison, vous offrant différents plaisirs de jeu et simplifier le contrôle du jeu.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08MCG7WXL/?tag=tolees0d-21)
