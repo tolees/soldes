@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'La Sultane de Saba - Eau de parfum Ambre avec 30.60 % rabais '
-date: 2021-02-05 05:34:00
+date: 2021-02-06 05:42:42
 image: 'https://m.media-amazon.com/images/I/41uRui78PsL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,6 @@ C'est en vente [La Sultane de Saba - Eau de parfum Ambre Vanille Patchouli  100m
 
 ℹ️:
 
-- Ayurvedic ‘Voyage sur la route des épices’ eau de parfum
-- exciting notes of amber, vanilla and patchouli.Un voyage sur la route des épices: inspired by an ancient tradition.A subtle and enchanting perfume that will bring you into the intoxicating universe of La Sultane de Saba...
-- Aromas: Amber, Vanilla, Patchouli
+- COMPOSITION : ALCOHOL DENAT / SD ALCOHOL 39-C, PARFUM / FRAGRANCE, AQUA / WATER, LINALOOL, LIMONENE La liste des ingrédients peut être soumise à des variations, nous vous conseillons de toujours vérifier la liste figurant sur le produit acheté.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00MNB1Q1G/?tag=tolees0d-21)
