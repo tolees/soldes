@@ -28,10 +28,10 @@ Vous avez [Disney Princesses - Poupee Princesse Disney Raiponce Chevelure Magiqu
 
 ℹ️:
 
-- Les extensions saccrochent les unes sur les autres. Les ciseaux permettent de "couper" les extensions de cheveux et les barrettes de les agrandir à volonté.
-- 1 poupée mannequin, 1 jupe, 2 tiares, 1 paire de siceaux, 1 brosse, 2 barettes, 2 extensions de cheveux, 2 peignes. Aucune pile nécessaire.
 - Poupée mannequin Raiponce avec de 2 extensions de cheveux de couleur rose et mauve, 6 accessoires à cheveux, une paire de ciseaux et une brosse.
+- Les extensions saccrochent les unes sur les autres. Les ciseaux permettent de "couper" les extensions de cheveux et les barrettes de les agrandir à volonté.
 - Avec les poupées Disney Princesses les enfants peuvent imaginer des histoires avec leurs princesses préférées.
+- 1 poupée mannequin, 1 jupe, 2 tiares, 1 paire de siceaux, 1 brosse, 2 barettes, 2 extensions de cheveux, 2 peignes. Aucune pile nécessaire.
 - Le jouet parfait à offrir en cadeau aux enfants, pour les filles de 3 ans, 4 ans, 5 ans et plus.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084PTY2HS/?tag=tolees0d-21)

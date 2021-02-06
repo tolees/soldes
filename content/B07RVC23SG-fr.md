@@ -28,10 +28,10 @@ C'est en vente [Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra Bas
 
 ℹ️:
 
-- Jusquà 35h découte sans fil en Bluetooth. Recharge rapide (10mn pour 1h découte) via USB-C
 - Nouvelle fonction "Auto Power off" via lapplication
+- Prise dappels et commandes de la musique sur loreillette tactile ou via lapplication.
+- Jusquà 35h découte sans fil en Bluetooth. Recharge rapide (10mn pour 1h découte) via USB-C
 - Fonction Quick Attention pour réduire le volume de votre musique et amplifier les sons environnants
 - Le plaisir de la musique sans fil et sans bruit extérieur grâce aux technologies intégrées Bluetooth et Réduction de bruit active
-- Prise dappels et commandes de la musique sur loreillette tactile ou via lapplication.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RVC23SG/?tag=tolees0d-21)

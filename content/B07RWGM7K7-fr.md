@@ -28,10 +28,10 @@ C'est en vente [SNAPTAIN A15 Drone Pliable avec Caméra HD 720P 120° Grand Angl
 
 ℹ️:
 
-- ✈【Conception Pliable et Facile à Transporter】La conception innovante permet au drone dêtre facilement plié, les lames pliables et flexibles rendent le drone petit et portable, vous pouvez profiter bien de le plaisir du vol.
 - ✈【720P Caméra HD et FPV Transmission en Temps Réel 】120° grand angle et 720P HD Caméra, capturez des vidéos et des photos aériennes de haute qualité. Vous pouvez profiter de les visions en temps réel par votre téléphone.
-- ✈【Voler par Trajectoire】Nous avons adopté la dernière technologie pour assurer votre expérience incroyable, si vous dessinez une trajectoire de vol sur lécran de votre téléphone portable, le SNAPTAIN A15 volera selon la ligne indiquée.
-- ✈【Bon Drone pour Débuter 】Il est facile à contrôler et à manier depuis lapplication et la télécommande. Le mode sans tête, Maintien daltitude, un bouton pour décoller ou atterrir, il est maniable pour les enfants et les débutants.
 - ✈【Temps du Vol Double】Équipé de batterie puissante de 800mAh , il peut durer de 6-9 minutes à pleine charge. En plus, nous avons préparé deux batteries pour prolonger votre plaisir.
+- ✈【Voler par Trajectoire】Nous avons adopté la dernière technologie pour assurer votre expérience incroyable, si vous dessinez une trajectoire de vol sur lécran de votre téléphone portable, le SNAPTAIN A15 volera selon la ligne indiquée.
+- ✈【Conception Pliable et Facile à Transporter】La conception innovante permet au drone dêtre facilement plié, les lames pliables et flexibles rendent le drone petit et portable, vous pouvez profiter bien de le plaisir du vol.
+- ✈【Bon Drone pour Débuter 】Il est facile à contrôler et à manier depuis lapplication et la télécommande. Le mode sans tête, Maintien daltitude, un bouton pour décoller ou atterrir, il est maniable pour les enfants et les débutants.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RWGM7K7/?tag=tolees0d-21)
