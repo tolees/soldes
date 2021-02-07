@@ -28,10 +28,10 @@ Vous avez [Giorgio Beverly Hills - Coffret Collector s Bear 2020 & Eau de Toilet
 
 ℹ️:
 
-- Notes de fond: Bois de Santal, Patchouli, Vanille
-- Ce coffret contient: Giorgio Beverly Hills Eau de Toilette Femme Vaporisateur 90ml + Ours en peluche
-- Notes de cœur: Tubéreuse, Ylang-Ylang, Jasmin
 - Notes de tête: Fleur dOranger, Bergamote
+- Notes de cœur: Tubéreuse, Ylang-Ylang, Jasmin
+- Ce coffret contient: Giorgio Beverly Hills Eau de Toilette Femme Vaporisateur 90ml + Ours en peluche
+- Notes de fond: Bois de Santal, Patchouli, Vanille
 - Complice des femmes depuis plus de 30 ans, symbole du luxe et du glamour californien, la mythique fragrance Giorgio Beverly Hills offre une partition olfactive au floral intense, osé et chaud
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D2YBTXL/?tag=tolees0d-21)

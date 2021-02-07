@@ -28,10 +28,10 @@ Vous avez [Frifri Friteuse Filtre Graisse et Anti-Odeur](https://www.amazon.fr/d
 
 ℹ️:
 
-- puissance : 2800 W - 230 V
-- tête de chauffe brevetée avec bouton de contrôle à larrière pour un nettoyage aisé
-- capacité huile : 3,5 L
-- capacité frites : 1 kg soit 3/4 personnes
 - filtre anti graisse et filtre anti odeur au charbon actif amovible
+- capacité frites : 1 kg soit 3/4 personnes
+- capacité huile : 3,5 L
+- tête de chauffe brevetée avec bouton de contrôle à larrière pour un nettoyage aisé
+- puissance : 2800 W - 230 V
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01F3Z6TM4/?tag=tolees0d-21)

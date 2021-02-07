@@ -28,8 +28,8 @@ Vous avez [Hansgrohe - 71107000 - Mitigeur de lavabo de salle de bain Logis 100 
 
 ℹ️:
 
+- ComfortZone 100.
 - Débit : env. 5 l/min.
 - Jet normal.
-- ComfortZone 100.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NP2F2TY/?tag=tolees0d-21)

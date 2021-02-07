@@ -28,13 +28,13 @@ Vous avez [Apple Magic Keyboard - Français](https://www.amazon.fr/dp/B016WGH6O8
 
 ℹ️:
 
-- Il allie un grand confort d’utilisation à une parfaite précision de frappe.
-- Connexions et extension: Bluetooth, Port Lightning, Technologie sans fil.
-- Son mécanisme à ciseaux offre une stabilité optimale des touches. Son profil abaissé permet de passer de l’une à l’autre de façon plus fluide.
-- Configuration requise: Ordinateur Mac compatible Bluetooth équipé d’OS X 10.11 ou version ultérieure, iPad avec iPadOS, Appareils iOS avec iOS 9.1 ou version ultérieure.
-- Le Magic Keyboard a un nouveau design épuré, une batterie rechargeable et des touches plus fonctionnelles.
-- Le Magic Keyboard s’associe automatiquement à votre Mac, pour que vous puissiez vous mettre au travail sans attendre.
 - Compatibilité: iPhone, iPad, MacBook Air, MacBook Pro, iMac, iMac Pro, Mac Pro, Mac mini.
+- Le Magic Keyboard a un nouveau design épuré, une batterie rechargeable et des touches plus fonctionnelles.
+- Son mécanisme à ciseaux offre une stabilité optimale des touches. Son profil abaissé permet de passer de l’une à l’autre de façon plus fluide.
+- Connexions et extension: Bluetooth, Port Lightning, Technologie sans fil.
+- Il allie un grand confort d’utilisation à une parfaite précision de frappe.
+- Configuration requise: Ordinateur Mac compatible Bluetooth équipé d’OS X 10.11 ou version ultérieure, iPad avec iPadOS, Appareils iOS avec iOS 9.1 ou version ultérieure.
+- Le Magic Keyboard s’associe automatiquement à votre Mac, pour que vous puissiez vous mettre au travail sans attendre.
 - Et comme sa batterie offre une autonomie longue durée, il est opérationnel pendant au moins un mois entre chaque charge.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B016WGH6O8/?tag=tolees0d-21)

@@ -29,11 +29,11 @@ C'est en vente [Extel - Transformateur modulaire Modulo pour Visiophone 17 V - p
 ℹ️:
 
 - Le transformateur se mets sur votre tableau électrique et va permettre dalimenter en 17V votre Visiophone
-- Référence fournisseur Extel : 830461
-- Alimentation pour visiophone;17 v modulaire - 1,5 a; compatible avec certains portiers extel; raccord du moniteur au tableau électrique; section de câble 0 à 5m 6/10° de 5 à 25m 1,5mm2
 - Raccord du moniteur au tableau électrique
-- Compatible avec certains portiers extel
 - Section de câble 0 à 5m 6/10° de 5 à 25m 1,5mm2
+- Compatible avec certains portiers extel
+- Référence fournisseur Extel : 830461
 - 17 v modulaire - 1,5 a
+- Alimentation pour visiophone;17 v modulaire - 1,5 a; compatible avec certains portiers extel; raccord du moniteur au tableau électrique; section de câble 0 à 5m 6/10° de 5 à 25m 1,5mm2
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B007E7VURY/?tag=tolees0d-21)
