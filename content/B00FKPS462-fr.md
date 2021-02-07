@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.21 % rabais sur Makita DC18WA Chargeur Lithium-Ion  14.4'
-date: 2021-01-27 17:49:02
+date: 2021-02-07 01:12:44
 image: 'https://m.media-amazon.com/images/I/41YDE05J-qL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 59.33 EUR
 prodname: 'Makita DC18WA Chargeur Lithium-Ion  14.4-18 V'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Makita'
 buyurl: 'https://www.amazon.fr/dp/B00FKPS462/?tag=tolees0d-21'
 descuento: '41.21'
 average: '34.88'
@@ -27,7 +28,7 @@ Vous avez [Makita DC18WA Chargeur Lithium-Ion  14.4-18 V](https://www.amazon.fr/
 
 ℹ️:
 
-- Remarque: ce chargeur de batterie est destiné aux batteries de la série Makita G et nest pas compatible avec le système de batterie Makita LXT ; À utiliser avec BL1813G et BL1413G et compatible avec DF457D, HP457D, JV183D, TD127D, UR180D, UH522D, CL183D et autres produits de la série G
 - Makita DC18WA Chargeur Lithium-Ion, 14.4-18 V
+- Remarque: ce chargeur de batterie est destiné aux batteries de la série Makita G et nest pas compatible avec le système de batterie Makita LXT ; À utiliser avec BL1813G et BL1413G et compatible avec DF457D, HP457D, JV183D, TD127D, UR180D, UH522D, CL183D et autres produits de la série G
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FKPS462/?tag=tolees0d-21)
