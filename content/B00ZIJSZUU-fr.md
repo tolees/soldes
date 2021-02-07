@@ -28,12 +28,12 @@ Vous avez [Trust Gaming - TRUST GXT363 HAWK 7.1 HEADSET  20407](https://www.amaz
 
 ℹ️:
 
-- Enceintes actives de 50 mm puissantes avec restitution des vibrations de basses
-- Commande sur fil pour le réglage du volume et le mode sourdine
-- Câble en nylon tressé qui ne s’emmêle pas (3 mètres)
 - Côtés et microphone illuminés
+- Son Surround 7.1 virtuel pour une expérience sonore réaliste
+- Câble en nylon tressé qui ne s’emmêle pas (3 mètres)
 - Connexion USB pour un son et des conversations de qualité supérieure
 - Oreillettes maillées confortables
-- Son Surround 7.1 virtuel pour une expérience sonore réaliste
+- Enceintes actives de 50 mm puissantes avec restitution des vibrations de basses
+- Commande sur fil pour le réglage du volume et le mode sourdine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZIJSZUU/?tag=tolees0d-21)

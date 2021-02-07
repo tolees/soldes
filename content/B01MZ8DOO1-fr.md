@@ -28,12 +28,12 @@ C'est en vente [Philips BRI956/00 Lumea Prestige Epilateur à Lumière Pulsée  
 
 ℹ️:
 
-- 5 réglages dintensité lumineuse
+- Fonctionne sans fil et également sur secteur, pour une liberté de mouvement absolue
 - Jusqu’à 92% de réduction de la pilosité après 3 séances. Mesuré sur les jambes post 3ème séance N=47
+- Lampe haute performance : produit > 250 000 flashs
+- Lampe quartz longue durée de vie : 250 000 flashs, >500 utilisations sur le corps complet
 - Le capteur SmartSkin vous recommande le réglage d’intensité le plus adapté à votre teint de peau. Adaptateur: 19,5 V / 4 000 mA
 - 4 embouts adaptés aux types de poils/peaux par zone : corps, visage, aisselles et maillot. Filtre UV intégré: Protège votre peau des rayons UV
-- Lampe quartz longue durée de vie : 250 000 flashs, >500 utilisations sur le corps complet
-- Fonctionne sans fil et également sur secteur, pour une liberté de mouvement absolue
-- Lampe haute performance : produit > 250 000 flashs
+- 5 réglages dintensité lumineuse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MZ8DOO1/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.17 % rabais sur Arrow-Saisons 1-6'
-date: 2021-02-04 17:28:00
+date: 2021-02-07 19:28:01
 image: 'https://m.media-amazon.com/images/I/51BQhdOo8OL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07G1XX2NC/?tag=tolees0d-21'
 descuento: '50.17'
-average: '46.4766666666667'
+average: '43.605'
 ---
 
 Vous avez [Arrow-Saisons 1-6](https://www.amazon.fr/dp/B07G1XX2NC/?tag=tolees0d-21)  à  50.17 % de réduction, prix final  34.99 EUR (original: 70.22 EUR) ici:
