@@ -28,9 +28,9 @@ C'est en vente [Barbie Signature C-3PO  poupée de collection Star Wars  jouet c
 
 ℹ️:
 
+- Cette collaboration rend hommage au film Star Wars, épisode IV : Un nouvel espoir
 - La poupée Barbie Star Wars C-3PO s’inspire de l’illustre armure dorée du robot : elle arbore un look intégral jaune or, rehaussé de touches d’organza transparent et de sequins dorés
 - La collection Star Wars x Barbie, inspirée du concept artistique à l’origine du film, réinvente les personnages emblématiques de la saga à travers un prisme de haute couture caractéristique de Barbie
-- Cette collaboration rend hommage au film Star Wars, épisode IV : Un nouvel espoir
 - La poupée Barbie Star Wars C-3PO est une excellente idée de cadeau pour les fans et les collectionneurs. Inclut un socle Star Wars et un certificat d’authenticité
 - Des détails complètent sa tenue, comme un col doré, des bracelets manchettes, des bottes brillantes montant jusqu’aux genoux, des lunettes et une ceinture-chaîne rappelant le connecteur d’alimentation principale de C-3PO
 

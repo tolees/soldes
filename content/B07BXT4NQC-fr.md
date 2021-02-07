@@ -28,9 +28,9 @@ Vous avez [Philips Lighting - Philips Hue White LUCCA Potelet 1 X 9 5 W - Anthra
 
 ℹ️:
 
-- Nécessite un pont Philips Hue
-- Contrôlez votre éclairage comme vous le souhaitez
 - Réglez les temporisateurs pour votre confort
+- Nécessite un pont Philips Hue
 - Configurez votre éclairage pour qu‘il vous accueille dans votre maison
+- Contrôlez votre éclairage comme vous le souhaitez
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BXT4NQC/?tag=tolees0d-21)
