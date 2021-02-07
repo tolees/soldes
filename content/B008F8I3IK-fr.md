@@ -28,10 +28,10 @@ C'est en vente [Pattex Bois Hout Waterproof  Biberon de colle à bois résistant
 
 ℹ️:
 
+- Emballage – Pattex Bois Waterproof, colle forte spécial bois, colle vinylique pressage à chaud et à froid, colle transparente après séchage de 750 g. Consommation 150 gr/m².
 - Multi-usages – Grâce à cette colle à bois, il est possible de réaliser des travaux de montage d’assemblage, de placage, contrecollage et collage de parquets flottants.
 - Waterproof – Cette colle résiste à l’humidité et est insensible aux champignons et aux bactéries, elle peut être appliquée en intérieur et extérieur abrité, dans les pièces humides.
-- Pratique – Facile à utiliser grâce à son format biberon, il faut entre 20 et 40 minutes à cette colle liquide pour sécher (résistance finale obtenue après 24H).
 - Résistante – Cette colle extra forte permet de fixer au moins 60kg/cm². Elle résiste au vieillissement et convient à toutes les essences de bois, stratifié ou massif.
-- Emballage – Pattex Bois Waterproof, colle forte spécial bois, colle vinylique pressage à chaud et à froid, colle transparente après séchage de 750 g. Consommation 150 gr/m².
+- Pratique – Facile à utiliser grâce à son format biberon, il faut entre 20 et 40 minutes à cette colle liquide pour sécher (résistance finale obtenue après 24H).
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B008F8I3IK/?tag=tolees0d-21)
