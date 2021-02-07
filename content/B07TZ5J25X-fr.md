@@ -29,9 +29,9 @@ C'est en vente [Smoothskin Bare Plus- Epilateur par Lumière Pulsée  IPL - Le p
 ℹ️:
 
 - Lutilisation de Smoothskin convient pour tous les types de peau de 1 à 5.
-- Le plus rapide du marché pour intégrer votre routine beauté : Smoothskin Bare Plus est le plus rapide du marché avec un flash tous les 0.6 secondes ! Vos demi jambes seront ainsi traitées en 10 minutes et voilà !
-- Conçu pour votre sécurité : Smoothskin Bare Plus possède la technologie DETECT : un capteur de pigment de la peau analyse chaque pigment avant le traitement de la peau et détermine si le flash peut être délivré ou pas.
 - Un produit de qualité pour votre épilation : Les appareils Smoothskin sont conçu et fabriqué en Angleterre. Nos produits sont de qualité avec une finition irréprochable garantie 2 ans.
 - Simple à utiliser : Smoothskin Bare Plus  possède seulement un bouton : restez appuyez dessus et l’appareil flash en continu.
+- Le plus rapide du marché pour intégrer votre routine beauté : Smoothskin Bare Plus est le plus rapide du marché avec un flash tous les 0.6 secondes ! Vos demi jambes seront ainsi traitées en 10 minutes et voilà !
+- Conçu pour votre sécurité : Smoothskin Bare Plus possède la technologie DETECT : un capteur de pigment de la peau analyse chaque pigment avant le traitement de la peau et détermine si le flash peut être délivré ou pas.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TZ5J25X/?tag=tolees0d-21)
