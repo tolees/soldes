@@ -28,13 +28,13 @@ C'est en vente [Bunchems - 6036070 - Bunchbot](https://www.amazon.fr/dp/B06WV7KC
 
 ℹ️:
 
-- Une construction couche par couche, très simple grâce à un carnet dinstructions
-- Des modèle de construction sont disponible: dans la boîte, site web et app
-- La création sort du robot lorsquelle est terminée, il ny a plus quà la déplier et à ajouter des accessoires.
-- Les Bunchems: nouvelle manière de créer: adhèrent les uns aux autres sans eau ni colle ni chaleur
-- Créations solides mais simples à défaire pour recommencer !
 - Le robot trop mignon qui taide à réaliser de super créations !
-- Chaque boule (300 dans le pack) contient un petit trou qui permet de fixer des accessoires amusants !
+- Une construction couche par couche, très simple grâce à un carnet dinstructions
+- Créations solides mais simples à défaire pour recommencer !
 - Dès 6 ans
+- La création sort du robot lorsquelle est terminée, il ny a plus quà la déplier et à ajouter des accessoires.
+- Des modèle de construction sont disponible: dans la boîte, site web et app
+- Les Bunchems: nouvelle manière de créer: adhèrent les uns aux autres sans eau ni colle ni chaleur
+- Chaque boule (300 dans le pack) contient un petit trou qui permet de fixer des accessoires amusants !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06WV7KCL9/?tag=tolees0d-21)

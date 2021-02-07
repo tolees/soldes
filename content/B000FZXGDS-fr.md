@@ -28,8 +28,8 @@ Vous avez [American Crew FIBER Crème de Modelage pour Cheveux 50 g](https://www
 
 ℹ️:
 
+- Apporte une tenue forte en souplesse avec un fini mat
 - Protège contre le manque d’hydratation tout en apportant un maximum de tenue
 - Contenu: 50g
-- Apporte une tenue forte en souplesse avec un fini mat
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000FZXGDS/?tag=tolees0d-21)
