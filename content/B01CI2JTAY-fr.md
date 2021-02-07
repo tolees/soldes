@@ -29,11 +29,11 @@ Vous avez [KRUPS - Seb Beertender Noir et Chrome  Machine à bière  Tireuse à 
 ℹ️:
 
 - PLATEAU ÉGOUTTOIR AMOVIBLE : pour un nettoyage pratique et rapide
+- DESIGN ERGONOMIQUE : pour un service parfait en toute simplicité
 - 5L DE BIERE EXTRA FRAICHE : en pression comme au bar
 - 30 JOURS DE QUALITE PRESERVEE : à la température idéale (4°C) après ouverture du fût grâce au système Beertender
-- LARGE VARIETE DE FUTS DE 5L : compatibles Beertender des marques Heineken, Desperados, Desperados Red, Pelforth Blonde, Pelforth IPA, Edelweiss, Fisher, Affligem blonde, Affligem cuvée Carmin
-- DESIGN ERGONOMIQUE : pour un service parfait en toute simplicité
-- INDICATEUR DE TEMPÉRATURE : permet de connaitre le niveau de refroidissement du fût, pour une dégustation toujours à la température idéale
 - POIGNÉE : permet dincliner le verre à 45° dans un premier temps, puis de le redresser petit à petit jusquà obtenir le juste niveau de mousse
+- INDICATEUR DE TEMPÉRATURE : permet de connaitre le niveau de refroidissement du fût, pour une dégustation toujours à la température idéale
+- LARGE VARIETE DE FUTS DE 5L : compatibles Beertender des marques Heineken, Desperados, Desperados Red, Pelforth Blonde, Pelforth IPA, Edelweiss, Fisher, Affligem blonde, Affligem cuvée Carmin
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CI2JTAY/?tag=tolees0d-21)
