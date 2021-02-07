@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.73 % rabais sur OLYMPUS Sac a Dos Pro Om-D CBG-12'
-date: 2021-02-04 20:28:07
+date: 2021-02-07 07:27:57
 image: 'https://m.media-amazon.com/images/I/31rSXmVCSLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [OLYMPUS Sac a Dos Pro Om-D CBG-12](https://www.amazon.fr/dp/B01MDT5C8
 
 ℹ️:
 
-- Bleu
-- Olympus CBG-12. Type détui: Sac à dos
 - Couleur du produit: Noir
+- Olympus CBG-12. Type détui: Sac à dos
 - Compatibilité de marque: Universel
+- Bleu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MDT5C8L/?tag=tolees0d-21)
