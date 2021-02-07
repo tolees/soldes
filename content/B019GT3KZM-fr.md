@@ -28,9 +28,9 @@ C'est en vente [Jacob Delafon E13963-CP Mitigeur d évier Elate avec bec orienta
 
 ℹ️:
 
-- Bec haut pivotant, pratique avec des éviers multi-bacs et pour plus daisance dutilisation
-- Douchette anti-calcaire (nettoyage facile) avec 3 fonctions: jet pluie, jet aéré et pause, qui permet une utilisation adaptée à tous les besoins
-- Pratique, le levier est positionné sur le côté du robinet pour réduire lencombrement au niveau de lévier et faciliter sa prise en main
 - Economie deau: débit limité à 8L/min
+- Pratique, le levier est positionné sur le côté du robinet pour réduire lencombrement au niveau de lévier et faciliter sa prise en main
+- Douchette anti-calcaire (nettoyage facile) avec 3 fonctions: jet pluie, jet aéré et pause, qui permet une utilisation adaptée à tous les besoins
+- Bec haut pivotant, pratique avec des éviers multi-bacs et pour plus daisance dutilisation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B019GT3KZM/?tag=tolees0d-21)
