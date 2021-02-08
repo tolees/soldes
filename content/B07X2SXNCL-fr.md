@@ -28,10 +28,10 @@ Vous avez [Eastpak Benchmark Single Trousse  21 cm  Rouge  Sailor Red ](https://
 
 ℹ️:
 
-- 100% Vegan
-- Hauteur : 6 cm, largeur : 20,5 cm, profondeur : 7,5 cm
 - Un grand compartiment principal zippé
-- Dans notre coloris de saison Sailor Red
+- Hauteur : 6 cm, largeur : 20,5 cm, profondeur : 7,5 cm
 - Fabrication 100 % nylon
+- Dans notre coloris de saison Sailor Red
+- 100% Vegan
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X2SXNCL/?tag=tolees0d-21)
