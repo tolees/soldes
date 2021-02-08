@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '43.11 % rabais sur A5X - TV Box Android 10.0  2GB 16GB Supp'
-date: 2021-02-06 23:28:41
+date: 2021-02-08 13:08:32
 image: 'https://m.media-amazon.com/images/I/51iISWgJXBL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'A5X'
 buyurl: 'https://www.amazon.fr/dp/B089NBH2GC/?tag=tolees0d-21'
 descuento: '43.11'
-average: '36.71375'
+average: '36.7264285714285'
 ---
 
 Vous avez [A5X - TV Box Android 10.0  2GB 16GB Supports 4K 3D  Smart TV Box RK3318 Quad-Core 64bit Cortex-A53 Wi-FI 2.4G/5G LAN100M USB 3.0 BT 4.0](https://www.amazon.fr/dp/B089NBH2GC/?tag=tolees0d-21)  à  43.11 % de réduction, prix final  36.98 EUR (original: 65.0 EUR) ici:

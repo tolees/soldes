@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.08 % rabais sur SNAPTAIN SP600N Drone GPS avec Caméra 2K'
-date: 2021-02-06 11:52:38
+date: 2021-02-08 13:10:04
 image: 'https://m.media-amazon.com/images/I/412pCB1sWuL._SL200_.jpg'
 comments: true
 category: ofertas
