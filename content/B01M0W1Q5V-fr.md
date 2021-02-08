@@ -28,10 +28,10 @@ C'est en vente [Jinbao – Triple Tambour Marche](https://www.amazon.fr/dp/B01
 
 ℹ️:
 
-- Tambour de marche
-- Matériaux de haute qualité
 - 10 ", 12", 13 et harnais
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Tambour de marche
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Matériaux de haute qualité
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M0W1Q5V/?tag=tolees0d-21)
