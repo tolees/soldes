@@ -28,11 +28,11 @@ Vous avez [Vileda Easy Wring & Clean Turbo balai à frange + seau à pédale - s
 
 ℹ️:
 
-- The foot pedal allows you to control the amount of water in the microfiber mop, depending on the type of floor you need to clean
-- Machine washable
+- Easy carry handle for ideal balance
 - Telescopic handle extends from 55 - 130 cm
 - Mop and bucket set with foot pedal operated wringer for more efficient floor cleaning
-- Easy carry handle for ideal balance
 - Integrated front spout makes the bucket easier to empty
+- Machine washable
+- The foot pedal allows you to control the amount of water in the microfiber mop, depending on the type of floor you need to clean
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HTTQ6A2/?tag=tolees0d-21)
