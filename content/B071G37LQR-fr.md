@@ -28,8 +28,8 @@ C'est en vente [Jeanne Arthes Eau de Parfum Amore Mio White Pearl 100 ml](https:
 
 ℹ️:
 
+- Produit à Grasse
 - Telle une pierre précieuse AmoreMioWhite Pearl vous enveloppera de douceur avec sa fragrance florientale au sillage musqué vanille
 - Design Original
-- Produit à Grasse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071G37LQR/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Mauboussin - Eau de Parfum Homme - Pour Lui - Senteur Fougère & Mode
 
 ℹ️:
 
+- An eau de parfum for men
+- Base notes of Amber, Ebony tree, Oakmoss
+- Fragrance from the designer house of Mauboussin
 - 100 ml bottle
 - A strong scent.
-- Fragrance from the designer house of Mauboussin
-- Base notes of Amber, Ebony tree, Oakmoss
-- An eau de parfum for men
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BAXITEU/?tag=tolees0d-21)

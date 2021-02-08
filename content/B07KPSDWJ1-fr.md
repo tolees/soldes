@@ -28,8 +28,8 @@ C'est en vente [FUNKO POP Marvel Avengers Endgames  CAPTAIN AMERICA](https://www
 
 ℹ️:
 
-- Découvrez tous les autres produits Funko dédiés à lunivers Avengers endgame! Collectionnez-les tous!
 - Issue de la gamme Avengers endgame, la figurine Captain America rejoint la collection Funko Pop!
+- Découvrez tous les autres produits Funko dédiés à lunivers Avengers endgame! Collectionnez-les tous!
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KPSDWJ1/?tag=tolees0d-21)
