@@ -28,9 +28,9 @@ Vous avez [Google WiFi Pack de 2 Routeurs sans Fil Bluetooth Blanc GA00190-FR](h
 
 ℹ️:
 
-- R?seau optimis? sans aucune configuration manuelle. Mat?riel: Plastique
-- S?curit? optimale. Interface avec lordinateur: WAN - Gigabit Ethernet - RJ45 , Wi-Fi
-- Configuration et contr?le simplifi?s
 - Sécurité: WPA2-PSK et Mises à jour de sécurité automatiques
+- R?seau optimis? sans aucune configuration manuelle. Mat?riel: Plastique
+- Configuration et contr?le simplifi?s
+- S?curit? optimale. Interface avec lordinateur: WAN - Gigabit Ethernet - RJ45 , Wi-Fi
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SXWYN2/?tag=tolees0d-21)

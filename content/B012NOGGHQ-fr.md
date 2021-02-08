@@ -28,11 +28,11 @@ Vous avez [LEGO Architecture - New York - 21028 - Jeu de Construction](https://w
 
 ℹ️:
 
-- This building toy includes 598 pieces and is suitable for boys and girls aged 12+
-- LEGO Architecture building toys are compatible with all LEGO construction sets for creative building
-- Build a detailed model of the New York City skyline, including the Statue of Liberty
 - Measures over 26 cm high, 25 cm wide and 4 cm deep
+- LEGO Architecture building toys are compatible with all LEGO construction sets for creative building
 - Model features the Flatiron Building, Chrysler Building, Empire State Building, and the One World Trade Centre
 - Includes collectible booklet containing information about the design, architecture and history of the building
+- This building toy includes 598 pieces and is suitable for boys and girls aged 12+
+- Build a detailed model of the New York City skyline, including the Statue of Liberty
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012NOGGHQ/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [LEGO Le Magicobus Harry Potter Bus Violet à 3 Niveaux Jeu d Assembla
 
 ℹ️:
 
-- Includes the cheeky shrunken head and Harry Potter’s chest containing a wand, letter, chocolate bar and a potion bottle
-- The LEGO knight bus 75957 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building
-- Includes three (for-June-2019) LEGO Harry Potter minifigures: Harry Potter, Stan Shunpike and Ernie Prang
-- Stan shunpike is issuing tickets and Ernie Prang still hasn’t mastered his steering skills, it is going to be a bumpy ride
 - Build the three-level LEGO night Bus toy with hinged opening side panel, removable roof and a movable sliding bed and swinging chandelier
+- The LEGO knight bus 75957 toy playset can be built together with all other original LEGO sets and LEGO bricks for creative building
+- Stan shunpike is issuing tickets and Ernie Prang still hasn’t mastered his steering skills, it is going to be a bumpy ride
+- Includes three (for-June-2019) LEGO Harry Potter minifigures: Harry Potter, Stan Shunpike and Ernie Prang
+- Includes the cheeky shrunken head and Harry Potter’s chest containing a wand, letter, chocolate bar and a potion bottle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KX54VHF/?tag=tolees0d-21)

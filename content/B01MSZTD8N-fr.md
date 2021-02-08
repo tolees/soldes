@@ -28,8 +28,8 @@ Vous avez [Intel NUC BOXNUC6CAYH Mini PC Ordenador CELERON J3455 HDMI / VGA / US
 
 ℹ️:
 
-- Intel Visual BIOS
 - Kensington lock with base security
+- Intel Visual BIOS
 - Intel Express BIOS update support
 - ACPI-compliant power management control
 
