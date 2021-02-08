@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '42.94 % rabais sur Western Digital - WD Black SN750 NVMe - '
-date: 2021-02-06 11:51:08
+date: 2021-02-08 18:18:25
 image: 'https://m.media-amazon.com/images/I/31yBGBF6mwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.fr/dp/B07M64QXMN/?tag=tolees0d-21'
 descuento: '42.94'
-average: '149.5'
+average: '149.292727272727'
 ---
 
 Vous avez [Western Digital - WD Black SN750 NVMe - Disque SSD Interne Haute-performance pour Ordinateurs de Jeu  1 To](https://www.amazon.fr/dp/B07M64QXMN/?tag=tolees0d-21)  à  42.94 % de réduction, prix final  148.36 EUR (original: 259.99 EUR) ici:
@@ -28,9 +28,9 @@ Vous avez [Western Digital - WD Black SN750 NVMe - Disque SSD Interne Haute-perf
 
 ℹ️:
 
-- Le tableau de bord exclusif du disque SSD WD Black améliore les performances de jeu
 - Disponible dans des capacités allant de 250 Go à 1 To
-- Des vitesses de transfert allant jusquà 3 470 Mo/s pour des temps de chargement améliorés
 - Un design élégant pour personnaliser votre plate-forme de jeu
+- Le tableau de bord exclusif du disque SSD WD Black améliore les performances de jeu
+- Des vitesses de transfert allant jusquà 3 470 Mo/s pour des temps de chargement améliorés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M64QXMN/?tag=tolees0d-21)

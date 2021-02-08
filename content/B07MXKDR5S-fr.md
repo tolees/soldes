@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buffalo London 1339-14 2.0 V  Basket Fem avec 58.67 % rabais '
-date: 2021-02-03 06:05:24
+date: 2021-02-08 18:33:17
 image: 'https://m.media-amazon.com/images/I/41uDvZ7EFTL._SL200_.jpg'
 comments: true
 category: ofertas

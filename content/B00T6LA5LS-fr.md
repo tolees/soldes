@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Records - Best of Disney avec 42.25 % rabais '
-date: 2021-02-07 17:33:23
+date: 2021-02-08 18:16:14
 image: 'https://m.media-amazon.com/images/I/61koi5Y8dxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Walt Disney Records'
 buyurl: 'https://www.amazon.fr/dp/B00T6LA5LS/?tag=tolees0d-21'
 descuento: '42.25'
-average: '6.58034782608695'
+average: '6.52581196581196'
 ---
 
 C'est en vente [Walt Disney Records - Best of Disney](https://www.amazon.fr/dp/B00T6LA5LS/?tag=tolees0d-21)  à  42.25 % de réduction, prix final  3.39 EUR (original: 5.87 EUR) ici:
