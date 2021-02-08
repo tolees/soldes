@@ -28,7 +28,7 @@ Vous avez [Only onlELCOS 4/5 AOP Top JRS Noos T-Shirt À Manches Longues  Multic
 
 ℹ️:
 
-- T-shirt avec impression
 - Qualité légère
+- T-shirt avec impression
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071P56FTZ/?tag=tolees0d-21)
