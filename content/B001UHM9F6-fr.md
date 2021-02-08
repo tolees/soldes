@@ -29,8 +29,8 @@ Vous avez [InfoPrint 56Y2700 cartouche toner et laser](https://www.amazon.fr/dp/
 ℹ️:
 
 - Cartouche dimpression
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - couleurs: Noir
 - InfoPrint 56Y2700. Rendement par page de toner noir: 100000 pages
 

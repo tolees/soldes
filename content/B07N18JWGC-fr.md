@@ -28,10 +28,10 @@ Vous avez [Teenii STEM Science Laboratoire de Physique Circuits de Base d appren
 
 ℹ️:
 
-- The manual is clearly illustrated and encourages critical thinking by asking you questions before and after experiences.
-- 18 chapters with fun projects: fruit battery, electric bell making and crank generator
-- Easy enough for middle school students (fifth, fourth, third. With this kit children discover and develop in physical sciences.
-- A great STEM electronic pencil case for high school students (second, first, terminal) to improve what is learned in the physical class.
 - Learn the basic principles of circuits and study electricity and magnetism by experimenting with 50 items, including a 40-page color manual.
+- The manual is clearly illustrated and encourages critical thinking by asking you questions before and after experiences.
+- Easy enough for middle school students (fifth, fourth, third. With this kit children discover and develop in physical sciences.
+- 18 chapters with fun projects: fruit battery, electric bell making and crank generator
+- A great STEM electronic pencil case for high school students (second, first, terminal) to improve what is learned in the physical class.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07N18JWGC/?tag=tolees0d-21)

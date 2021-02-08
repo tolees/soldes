@@ -28,10 +28,10 @@ C'est en vente [LEGO Architecture Modèle Dubaï  Skyline Collection  Ensemble d
 
 ℹ️:
 
-- Features famous landmarks: The Burj Khalifa, Jumeirah Emirates Towers Hotel, Burj Al Arab Jumeirah hotel, Dubai Frame and The Dubai Fountain
-- The set brings together highly detailed models of iconic Dubai buildings and landmarks to inspire all admirers of this exciting, modern city
 - Learn more about Dubai skyline and the model designer in the booklet (in English) or download other languages at manufacturer website
-- This version of Dubai’s skyline features detailed scale models of its most spectacular landmarks with the iconic sail-shaped silhouette
+- Features famous landmarks: The Burj Khalifa, Jumeirah Emirates Towers Hotel, Burj Al Arab Jumeirah hotel, Dubai Frame and The Dubai Fountain
 - Anyone with a passion for Dubai will enjoy building and proudly showing off this striking model at home or in the office
+- The set brings together highly detailed models of iconic Dubai buildings and landmarks to inspire all admirers of this exciting, modern city
+- This version of Dubai’s skyline features detailed scale models of its most spectacular landmarks with the iconic sail-shaped silhouette
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W4KT2C9/?tag=tolees0d-21)
