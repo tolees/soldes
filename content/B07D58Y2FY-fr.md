@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.00 % rabais sur Universal Pictures - Battlestar Galactic'
-date: 2021-02-06 11:32:46
+date: 2021-02-08 07:12:10
 image: 'https://m.media-amazon.com/images/I/51aNA+M4J0L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Universal Pictures'
 buyurl: 'https://www.amazon.fr/dp/B07D58Y2FY/?tag=tolees0d-21'
 descuento: '30.00'
-average: '56.46625'
+average: '56.4133333333333'
 ---
 
 Vous avez [Universal Pictures - Battlestar Galactica-L intégrale Ultime [Blu-Ray]](https://www.amazon.fr/dp/B07D58Y2FY/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  55.99 EUR (original: 79.99 EUR) ici:

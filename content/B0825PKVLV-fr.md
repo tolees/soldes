@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Geox U Adrien A  Oxford Flat Homme  Cogn avec 50.00 % rabais '
-date: 2021-02-06 11:34:49
+date: 2021-02-08 07:36:45
 image: 'https://m.media-amazon.com/images/I/31DhHF-5X+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [Geox U Adrien A  Oxford Flat Homme  Cognac  43 EU](https://www.a
 
 ℹ️:
 
+- Synthétique
 - Cuir Souple
 - Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
-- Synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0825PKVLV/?tag=tolees0d-21)
