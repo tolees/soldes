@@ -28,8 +28,8 @@ C'est en vente [Electronic Arts - Need for Speed Heat pour PS4](https://www.amaz
 
 ℹ️:
 
-- La journée, repoussez vos limites en provoquant les flics de Palm City
-- Affirmez votre liberté – Avec encore plus d’articles pour personnaliser vos voitures et votre personnage au volant, c’est le moment d’affirmer qui vous êtes et de faire en sorte que tout le monde le sache
 - Participez au Speedhunter Showdown le jour et gagnez de l’argent à l’issue de courses et d’épreuves de drift et de tout-terrain
+- Affirmez votre liberté – Avec encore plus d’articles pour personnaliser vos voitures et votre personnage au volant, c’est le moment d’affirmer qui vous êtes et de faire en sorte que tout le monde le sache
+- La journée, repoussez vos limites en provoquant les flics de Palm City
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WFJ9NY7/?tag=tolees0d-21)
