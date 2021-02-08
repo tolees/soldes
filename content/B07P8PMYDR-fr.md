@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.00 % rabais sur Playmobil - Camion de Dépannage - 70199'
-date: 2021-02-06 06:05:00
+date: 2021-02-08 12:48:02
 image: 'https://m.media-amazon.com/images/I/51ij6ti2JDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B07P8PMYDR/?tag=tolees0d-21'
 descuento: '23.00'
-average: '39.6275268817202'
+average: '39.6154255319146'
 ---
 
 Vous avez [Playmobil - Camion de Dépannage - 70199](https://www.amazon.fr/dp/B07P8PMYDR/?tag=tolees0d-21)  à  23.00 % de réduction, prix final  38.49 EUR (original: 49.99 EUR) ici:
@@ -29,9 +29,9 @@ Vous avez [Playmobil - Camion de Dépannage - 70199](https://www.amazon.fr/dp/B0
 ℹ️:
 
 - La dépanneuse intervient pour libérer la voie.
-- De la vitesse aux utilitaires, choisis le véhicule adapté à ton histoire !
-- Convient aux enfants à partir de 4 ans.
 - Le bouton sur le gyrophare permet dactiver les effets lumineux (2 piles CR 2032 3V incluses). Arrêt automatique après 3 minutes
+- De la vitesse aux utilitaires, choisis le véhicule adapté à ton histoire !
 - Une motocross a un pneu crevé et est bloquée sur la route principale.
+- Convient aux enfants à partir de 4 ans.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P8PMYDR/?tag=tolees0d-21)

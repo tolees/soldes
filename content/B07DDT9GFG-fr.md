@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Only NOS Onlqueen L/s Long Cardigan KNT  avec 39.98 % rabais '
-date: 2021-02-06 23:20:32
+date: 2021-02-08 12:58:35
 image: 'https://m.media-amazon.com/images/I/41fH9UfdAfL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Only'
 buyurl: 'https://www.amazon.fr/dp/B07DDT9GFG/?tag=tolees0d-21'
 descuento: '39.98'
-average: '16.2716'
+average: '16.3996296296296'
 ---
 
 C'est en vente [Only NOS Onlqueen L/s Long Cardigan KNT Noos Gilet  Multicolore  Misty Rose Stripes:W. MGM/Cloud Pink Melange   42  Taille Fabricant: X-Large  Femme](https://www.amazon.fr/dp/B07DDT9GFG/?tag=tolees0d-21)  à  39.98 % de réduction, prix final  18.0 EUR (original: 29.99 EUR) ici:
