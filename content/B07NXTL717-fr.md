@@ -28,9 +28,9 @@ C'est en vente [Peugeot Outillage ENERGYHUB-18V40 4  0 Batterie 4 0 Ah EnergyHub
 
 ℹ️:
 
+- cellules lithium-ion Protection de batterie contre la surchauffe et la surintensité, pour une durée de vie accrue livrée sous blister Compatible gamme plate forme energyhub premium collecte & Change 1 an
 - Compatible avec toute la gamme plate forme energyhub
 - Protection de la batterie contre la surchauffe et la surintensité pour une durée de vie accrue
 - premium collecte and Change 1 an
-- cellules lithium-ion Protection de batterie contre la surchauffe et la surintensité, pour une durée de vie accrue livrée sous blister Compatible gamme plate forme energyhub premium collecte & Change 1 an
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NXTL717/?tag=tolees0d-21)
