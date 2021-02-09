@@ -28,10 +28,10 @@ C'est en vente [Paladinz Support TV Mural fixe pour Ecran plat 23" - 55"  44-140
 
 ℹ️:
 
-- Les meilleurs matériaux : Fabriqué acier laminé à froid de qualité supérieure de manière à procurer une forte capacité de rétention et une meilleure protection pour votre matériel.
 - Installation facile  : Le guide dinstallation facile et le matériel pour l’installation sont inclus.
-- - ISO9001, TUV/GS et certifiés UL.
 - Compatibilité : La charge maximale est de 60 kilogrammes, convient à 99,9% des tailles décran de TV entre 23 pouces à 55 pouces  avec la norme VESA 100 x 100 mm, 200 x 100 mm, 200 x 200 mm, 300 x 300 mm, 400 x 200 mm, 400 x 400 mm.
+- - ISO9001, TUV/GS et certifiés UL.
+- Les meilleurs matériaux : Fabriqué acier laminé à froid de qualité supérieure de manière à procurer une forte capacité de rétention et une meilleure protection pour votre matériel.
 - Modèle ultra fin : Un espace de seulement 25 mm est nécessaire entre le mur et l’écran. Par ailleurs, le passe-câbles intégré peut vous faire économiser beaucoup despace et donne une apparence de propreté.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073PFSTYS/?tag=tolees0d-21)
