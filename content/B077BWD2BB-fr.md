@@ -28,9 +28,9 @@ Vous avez [Sigma Objectif 16 mm F1 4 DC DN Contemporary - Monture Sony](https://
 
 ℹ️:
 
-- Objectif 16mm.Rapport de reproduction maximal: 1：9.9
+- Une motorisation pas à pas (stepping motor) idéale pour la vidéo
 - Conçu pour minimiser le "flare" et les images fantômes
 - Une baïonnette équipée dune protection contre la poussière et le ruissellement. Angle de vue (DC): 83,4º
-- Une motorisation pas à pas (stepping motor) idéale pour la vidéo
+- Objectif 16mm.Rapport de reproduction maximal: 1：9.9
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077BWD2BB/?tag=tolees0d-21)

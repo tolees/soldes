@@ -28,10 +28,10 @@ Vous avez [Xiaomi Redmi Note 9 Pro - Smartphone Débloqué 4G  6.67 Pouces - 6Go
 
 ℹ️:
 
-- 6.67" DotDisplay, Résolution : 2400 x 1080 FHD+, Contraste : 1500:1 (typ) | NTSC : 84% (typ), Certification TÜV Rheinland de faible lumière bleue, Mode de lecture 2.0, Corning Gorilla Glass 5
-- 5020mAh (typ)*, Batterie lithium-ion-polymère intégrée et inamovible, Port USB type C, Supporte une charge rapide de 30W, Chargeur rapide 33W inclu dans la boite
 - Prend en charge les cartes 2+1, nano-SIM + nano-SIM + microSD (512 Go extensible), Prise en charge des appels VoLTE HD double SIM
 - Qualcomm Snapdragon 720G, fréquence jusquà 2,3GHz, GPU Adreno 618, gravure en 8 nm
 - Quad caméra 64MP, Caméra principale 64MP à ultra-haute résolution, Appareil photo ultra grand angle de 8MP, Appareil photo macro 5MP, Capteur de profondeur 2MP, Vidéo cinématographique 4K, Enregistrement 4K
+- 5020mAh (typ)*, Batterie lithium-ion-polymère intégrée et inamovible, Port USB type C, Supporte une charge rapide de 30W, Chargeur rapide 33W inclu dans la boite
+- 6.67" DotDisplay, Résolution : 2400 x 1080 FHD+, Contraste : 1500:1 (typ) | NTSC : 84% (typ), Certification TÜV Rheinland de faible lumière bleue, Mode de lecture 2.0, Corning Gorilla Glass 5
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088CD6PSS/?tag=tolees0d-21)

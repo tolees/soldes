@@ -28,10 +28,10 @@ Vous avez [SNAPTAIN S5C Drone avec Caméra 720P WiFi FPV Télécommande WiFi APP
 
 ℹ️:
 
-- ✈【Mode Sans Tête et Maintien daltitude】Sur mesure pour les débutants et les enfants. Vous ne devez pas craindre de perdre son orientation avec Le Mode sans Tête. Et grâce au Maintien daltitude, il permet de maintenir et survoler à certaine hauteur pour enregistrer superbes images et vidéos sans tremblement.
 - ✈【Opération à une Bouton】Si vous vous sentez difficile à démarrer ou atterrir le drone, vous pouvez directement utiliser un bouton de décollage ou atterrissage.En même temps, un bouton de retour est pour éviter de perdre le drone.
-- ✈【Double Autonomie】Équipé de batterie puissante de 550 mAh, il peut durer de 7 à 10 minutes à pleine charge. En plus, nous avons préparé 2 batteries pour prolonger votre plaisir.
-- ✈【720P Caméra et Transmission en Temps Réel 】Équipé de la caméra 720P, qui vous permet de prendre des photos et des vidéos au vol. Avec le WiFi intégré, vous pouvez voir le vidéo en temps réel sur votre smartphone en installant lapp.Il fournit des expériences plus réelles aux joueurs.
 - ✈【Voler par Trajectoire】Vol de Trajectoire est une toute nouvelle technologie.Il suffit de dessiner un trajectoire de vol sur l’écran de votre téléphone portable. S5C drone se déplacera dans la direction désignée selon manière magique.
+- ✈【720P Caméra et Transmission en Temps Réel 】Équipé de la caméra 720P, qui vous permet de prendre des photos et des vidéos au vol. Avec le WiFi intégré, vous pouvez voir le vidéo en temps réel sur votre smartphone en installant lapp.Il fournit des expériences plus réelles aux joueurs.
+- ✈【Double Autonomie】Équipé de batterie puissante de 550 mAh, il peut durer de 7 à 10 minutes à pleine charge. En plus, nous avons préparé 2 batteries pour prolonger votre plaisir.
+- ✈【Mode Sans Tête et Maintien daltitude】Sur mesure pour les débutants et les enfants. Vous ne devez pas craindre de perdre son orientation avec Le Mode sans Tête. Et grâce au Maintien daltitude, il permet de maintenir et survoler à certaine hauteur pour enregistrer superbes images et vidéos sans tremblement.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Z8SNCN8/?tag=tolees0d-21)
