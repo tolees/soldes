@@ -28,10 +28,10 @@ C'est en vente [Samsung SSD 870 Evo  1 to  Facteur de Forme 2.5 Pouces  Intellig
 
 ℹ️:
 
-- Available capacity: 1 TB
-- Designed for anyone with a desktop PC or laptop that supports a standard 2.5-inch SATA form factor
-- Samsung Magician 6 Software: manage your drive with a range of useful tools to help you keep up with the latest updates, monitor the drive’s health and status
-- Interface: achieves the maximum SATA limit of 560/530 MB/s sequential speeds
 - Intelligent Turbo Write: accelerates write speed and maintains long-term high performance
+- Designed for anyone with a desktop PC or laptop that supports a standard 2.5-inch SATA form factor
+- Interface: achieves the maximum SATA limit of 560/530 MB/s sequential speeds
+- Samsung Magician 6 Software: manage your drive with a range of useful tools to help you keep up with the latest updates, monitor the drive’s health and status
+- Available capacity: 1 TB
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PC5DKZQ/?tag=tolees0d-21)

@@ -30,9 +30,9 @@ C'est en vente [Seagate Game Drive 2 To  Disque dur externe portable HDD – Com
 
 - Capacité de 2 To pour stocker plus de 50 jeux
 - Compatible avec toutes les générations de PS4 (version logicielle 4.50 ou supérieure)
-- Configuration simple en moins de 3 minutes, guidée par la console
-- Connexion directe sur l’un des ports USB de votre console PlayStation 4
 - Conçu et testé pour les consoles de jeu PS4
+- Configuration simple en moins de 3 minutes, guidée par la console
 - Port USB 3.0 ultrarapide pour jouer à vitesse réelle sans limitation
+- Connexion directe sur l’un des ports USB de votre console PlayStation 4
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PPNSFBK/?tag=tolees0d-21)

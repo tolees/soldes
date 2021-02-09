@@ -30,7 +30,7 @@ C'est en vente [Paladone PP5852PS mini lampe  75 W  Multicolore](https://www.ama
 
 - Marchandise Playstation en plastique biodégradable sous licence officielle
 - Les icônes des boutons de la PS sont empilées sur une base grise classique
-- 3 modes déclairage : fixe, phasage-couleur et réactive au son.
 - Cest une lampe en forme dicônes sur le thème de la Playstation
+- 3 modes déclairage : fixe, phasage-couleur et réactive au son.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XRP3PCW/?tag=tolees0d-21)

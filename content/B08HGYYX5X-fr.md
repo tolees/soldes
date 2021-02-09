@@ -28,10 +28,10 @@ C'est en vente [Kiano Elegance TV 50" Pouces 4K UHD HDR10 Metal Case  Android TV
 
 ℹ️:
 
+- Smart TV 4K Ultra HD (UHD) TV, 50-inch diagonal display, More details - more details than previous Full HD TVs
+- See more: High Dynamic Range (HDR10) enables realistic contrasts and colours
 - TV almost frameless - please sit down and enjoy the freedom of the picture as in cinema - Android TV 9.0 2GB RAM
 - Triple tuner: DVB-C, DVB-S2, DVB-T2, CI slot (CI +), WiFi, Ethernet, HDMI X3, USB X2, Smart TV: NETFLIX, Ipla, Player, YouTube, Facebook, Twitter, Miracast / Eshare
-- See more: High Dynamic Range (HDR10) enables realistic contrasts and colours
-- Smart TV 4K Ultra HD (UHD) TV, 50-inch diagonal display, More details - more details than previous Full HD TVs
 - PVR - Record video and audio digitally to a hard drive, Miracast / Eshare - Smartphone video up to 1080p
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HGYYX5X/?tag=tolees0d-21)

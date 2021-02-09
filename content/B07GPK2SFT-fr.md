@@ -28,10 +28,10 @@ Vous avez [Deep Silver - Metro Exodus - Edition Limitée Aurora](https://www.ama
 
 ℹ️:
 
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Artbook « The World of Metro »
 - Steelbook exclusif
 - Lédition Limitée Aurora contient :
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 440 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Artbook « The World of Metro »
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GPK2SFT/?tag=tolees0d-21)
