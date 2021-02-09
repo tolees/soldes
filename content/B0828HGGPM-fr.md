@@ -28,10 +28,10 @@ Vous avez [FUNKO Pop! FUNKOVERSE: Harry Potter 102- 4PK](https://www.amazon.fr/d
 
 ℹ️:
 
-- Jeu de 2 joueurs Harry Potter 102
-- Comprend 2 Funko Pop de taille pinte. Uniquement disponible avec ce jeu
-- Contient Funko POP. Figurines de collection en vinyle.
 - Ce jeu peut être joué seul ou comme extension à dautres jeux de versets Funk
+- Contient Funko POP. Figurines de collection en vinyle.
 - Jeu de stratégie funk de Funko
+- Comprend 2 Funko Pop de taille pinte. Uniquement disponible avec ce jeu
+- Jeu de 2 joueurs Harry Potter 102
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0828HGGPM/?tag=tolees0d-21)

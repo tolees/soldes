@@ -28,9 +28,9 @@ C'est en vente [Davis Club - Eva chêne Clair](https://www.amazon.fr/dp/B085GV5F
 
 ℹ️:
 
-- Medium fibre de verre 13 cm
-- 1 paire dEnceintes bibliothèques
 - Puissance nominale 80 W / Puissance maximale 110 W
 - Rendement 88 dB
+- Medium fibre de verre 13 cm
+- 1 paire dEnceintes bibliothèques
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085GV5FCS/?tag=tolees0d-21)

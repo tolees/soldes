@@ -28,11 +28,11 @@ C'est en vente [OMRON Healthcare - OMRON M2 Basic Tensiomètre Bras Électroniqu
 
 ℹ️:
 
-- Compact et facile à transporter
 - Validé cliniquement
 - Garde en mémoire la dernière mesure
-- Brassard M 22-32 cm
 - Possède la technologie exclusive IntelliSense développée par OMRON
+- Brassard M 22-32 cm
+- Compact et facile à transporter
 - Dimension: Longueur (cm): 13,00 , Hauteur (cm): 17,00 , Profondeur (cm): 12,00
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00KJ8FB1Q/?tag=tolees0d-21)

@@ -29,8 +29,8 @@ C'est en vente [Sylvanian Families - Le Village - La Crèche des Bébés - 5316 
 ℹ️:
 
 - À partir de 3 ans.
-- Elle est compatible avec les aires de jeu de la crèche.
 - La crèche est composée de : 1 balançoire, 1 piano, 1 toboggan, 2 livres, 1 balançoire simple, 1 balançoire double, 2 drapeaux, 2 barrières, 1 toit arc-en-ciel.
+- Elle est compatible avec les aires de jeu de la crèche.
 - Des souvenirs pour la vie !
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : la famille, la nature et lamour. Ce sont des jouets parfaits pour imaginer des histoires et sépanouir.
 

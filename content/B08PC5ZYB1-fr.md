@@ -28,10 +28,10 @@ C'est en vente [Samsung SSD 870 Evo  2 to  Facteur de Forme 2.5 Pouces  Intellig
 
 ℹ️:
 
-- Capacité disponible : 2 To
-- Intelligent Turbo Write : augmente la vitesse d’écriture et maintient des performances élevées sur le long terme
-- Interface : atteint la limite maximale SATA de vitesses séquentielles de 560/530 Mo/s
 - Conçu pour tous les PC de bureau ou portables compatibles avec un facteur de forme standard SATA 2,5 pouces.
+- Intelligent Turbo Write : augmente la vitesse d’écriture et maintient des performances élevées sur le long terme
 - Logiciel Samsung Magician 6 : gère votre disque grâce à une gamme doutils utiles pour vous permettre de rester en phase avec les dernières mises à jour et de surveiller la santé du disque et son statut.
+- Capacité disponible : 2 To
+- Interface : atteint la limite maximale SATA de vitesses séquentielles de 560/530 Mo/s
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PC5ZYB1/?tag=tolees0d-21)

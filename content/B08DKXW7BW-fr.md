@@ -28,12 +28,12 @@ C'est en vente [Xiaomi Mi True Wireless Earphones 2S Casque sans Fil avec Rechar
 
 ℹ️:
 
-- Confort optimal grâce à son design ergonomique.
+- Prend en charge la charge avec chargeur sans fil.
 - included_components: écouteurs et boitier
-- Chaque casque fonctionne indépendamment de lautre.
-- Charge rapide en 1 heure.
 - 5 heures de batterie avec une charge complète, 24 heures avec le boîtier de charge.
 - Son de haute qualité.
-- Prend en charge la charge avec chargeur sans fil.
+- Chaque casque fonctionne indépendamment de lautre.
+- Confort optimal grâce à son design ergonomique.
+- Charge rapide en 1 heure.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DKXW7BW/?tag=tolees0d-21)
