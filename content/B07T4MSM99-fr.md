@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Warner Bros. - Ça [4K Ultra Blu-Ray + Di avec 36.84 % rabais '
-date: 2021-02-07 23:54:36
+date: 2021-02-09 00:42:52
 image: 'https://m.media-amazon.com/images/I/41Mk-XQp9KL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Warner Bros.'
 buyurl: 'https://www.amazon.fr/dp/B07T4MSM99/?tag=tolees0d-21'
 descuento: '36.84'
-average: '16.402'
+average: '17.1442857142857'
 ---
 
 C'est en vente [Warner Bros. - Ça [4K Ultra Blu-Ray + Digital HD-Édition boîtier SteelBook]](https://www.amazon.fr/dp/B07T4MSM99/?tag=tolees0d-21)  à  36.84 % de réduction, prix final  19.0 EUR (original: 30.08 EUR) ici:
