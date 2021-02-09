@@ -28,10 +28,10 @@ C'est en vente [LEGO Disney Princess  Les aventures d Ariel dans un livre de con
 
 ℹ️:
 
+- Livré avec  3 micro-poupées détaillées, 2 versions de la princesse Ariel et le prince Eric, ainsi que les personnages Disney de Sébastien et Polochon
 - Comprend un étui portable sous la forme dun livre avec 2 mondes, un palais sous-marin et une plage au-dessus de leau avec une barque pour 2 personnages
 - Ce monde miniature transportable pour jouer partout avec vos personnages et scènes favoris facilite le jeu de rôle en déplacement
-- Livré avec  3 micro-poupées détaillées, 2 versions de la princesse Ariel et le prince Eric, ainsi que les personnages Disney de Sébastien et Polochon
-- Le palais sous-marin dAriel avec un coquillage qui souvre, un toboggan et divers objets, beaucoup de jolis détails plus 2 feuilles dautocollants pour décorer le livre avec
 - De plus, c’est un idéal cadeau de Noël ou danniversaire pour les jeunes fans de La Petite Sirène de Disney Le jeu commence dès l’ouverture du livre
+- Le palais sous-marin dAriel avec un coquillage qui souvre, un toboggan et divers objets, beaucoup de jolis détails plus 2 feuilles dautocollants pour décorer le livre avec
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W4KTH3K/?tag=tolees0d-21)

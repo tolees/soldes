@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'KRONENKRAFT Set d accessoires de cuisine avec 43.19 % rabais '
-date: 2021-02-08 07:40:06
+date: 2021-02-09 13:01:23
 image: 'https://m.media-amazon.com/images/I/51c9sTlJ9KL._SL200_.jpg'
 comments: true
 category: ofertas

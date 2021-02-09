@@ -28,8 +28,8 @@ C'est en vente [Nba 2K21 Edition Mamba Forever  Xbox One ](https://www.amazon.fr
 
 ℹ️:
 
-- NBA 2k21 est le dernier opus de la série des jeux de basket NBA 2k au succès mondial, développés par visual concepts et édités par 2K
-- Inclut NBA 2k21 pour Xbox séries x, une expérience NBA 2k inédite et révolutionnaire pour la nouvelle génération de consoles.
 - Cette édition inclut 100 000 vc, 10 000 points mon équipe, du contenu digital pour votre mon joueur et plus encore !
+- Inclut NBA 2k21 pour Xbox séries x, une expérience NBA 2k inédite et révolutionnaire pour la nouvelle génération de consoles.
+- NBA 2k21 est le dernier opus de la série des jeux de basket NBA 2k au succès mondial, développés par visual concepts et édités par 2K
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CNMCXC5/?tag=tolees0d-21)
