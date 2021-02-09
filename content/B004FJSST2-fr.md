@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '32.93 % rabais sur D-Link DGS-1008P Switch 8 Ports Gigabit '
-date: 2021-01-31 15:10:58
+date: 2021-02-09 06:03:57
 image: 'https://m.media-amazon.com/images/I/31RIctyr0BL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ Vous avez [D-Link DGS-1008P Switch 8 Ports Gigabit POE 10/100/1000mbps - Idéal 
 
 ℹ️:
 
-- prise en charge du diagnostic des câbles
 - Périphérique : de 0 à 50 °C.Adaptateur secteur externe : de 0 à 40 °C
 - Détection croisée MDI/MDIX automatique pour tous les ports
-- prise en charge des trames étendues jusqu’à 9 720 Koctets
-- Contrôle de flux IEEE 802.3x
+- Mode de transmission bidirectionnelle half duplex/full duplex pour les vitesses ethernet/Fast ethernet
+- Silencieux et sans ventilateur, il convient à tout type d’environnement
+- prise en charge du diagnostic des câbles
 - 8 ports Gigabit 10/100/1000 Mbps, dont 4 PoE
 - Fonctionnement plug-and-play
-- Silencieux et sans ventilateur, il convient à tout type d’environnement
-- Mode de transmission bidirectionnelle half duplex/full duplex pour les vitesses ethernet/Fast ethernet
+- prise en charge des trames étendues jusqu’à 9 720 Koctets
+- Contrôle de flux IEEE 802.3x
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21)
