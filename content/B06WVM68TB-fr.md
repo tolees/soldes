@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.01 % rabais sur Playmobil - Cuisine Aménagée - 9269'
-date: 2021-02-08 07:36:41
+date: 2021-02-09 12:50:17
 image: 'https://m.media-amazon.com/images/I/51wOZH5So1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06WVM68TB/?tag=tolees0d-21'
 descuento: '30.01'
-average: '18.8589754098362'
+average: '18.8307723577237'
 ---
 
 Vous avez [Playmobil - Cuisine Aménagée - 9269](https://www.amazon.fr/dp/B06WVM68TB/?tag=tolees0d-21)  à  30.01 % de réduction, prix final  15.39 EUR (original: 21.99 EUR) ici:
