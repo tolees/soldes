@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '60.00 % rabais sur Marinco 69 – 12 VCP6 ConnectPRO récepteu'
-date: 2021-01-28 22:25:14
+date: 2021-02-09 19:13:33
 image: 'https://m.media-amazon.com/images/I/41XjeH7UhTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 71.78 EUR
 prodname: 'Marinco 69 – 12 VCP6 ConnectPRO récepteur et prises'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Marinco'
 buyurl: 'https://www.amazon.fr/dp/B000NI38KS/?tag=tolees0d-21'
 descuento: '60.00'
 average: '28.71'
@@ -27,10 +28,10 @@ Vous avez [Marinco 69 – 12 VCP6 ConnectPRO récepteur et prises](https://w
 
 ℹ️:
 
-- Supplied with mounting holder
-- Complete with lid & corrosion resistant electrical components made in brass and drainage in dongle
-- Fitting Diameter standard 29 mm accepts cable up to 8 GA
-- Receiver universal designed for configurations of 2 or 3 cables, and systems of 12, 24, 12/24, 24/36, 36 Volt
-- The plug has a sealed seal for cable connections and lid compatible with 16ga a water resistant ga
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Comprend avec couvercle étanche résistant à la corrosion, composants électriques de laiton et de drainage sur le récepteur
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Récepteur universel conçu pour les configurations de 2 ou 3 fils, et systèmes de 12, 24, 12/24, 24/36 ou 36 volts
+- Diamètre de montage standard de 29 mm qui accepte les câbles jusquà 8 GA
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000NI38KS/?tag=tolees0d-21)

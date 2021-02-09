@@ -28,11 +28,11 @@ Vous avez [Timberland Bradstreet Chukka Leather  Bottines Homme  Jaune  Wheat Nu
 
 ℹ️:
 
-- Dessus : cuir
-- Fermeture : lacets
-- Doublure : textile
-- Semelle intérieure : synthétique
 - Matériau de semelle : caoutchouc
+- Fermeture : lacets
 - Type de talons : plat
+- Semelle intérieure : synthétique
+- Dessus : cuir
+- Doublure : textile
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M2YGAH8/?tag=tolees0d-21)
