@@ -28,10 +28,10 @@ Vous avez [Pikmin 3 Deluxe  Nintendo Switch   Édition française](https://www.a
 
 ℹ️:
 
-- De nouvelles missions inédites mettant en scène les héros des précédents opus
-- Un mode coopératif jouable à deux
-- Un rééquilibrage des ennemis et de nouveaux modes de difficulté
-- Une Piklopédie (encyclopédie liée aux créatures et plantes)
 - Pikmin 3 Deluxe proposera également les trois DLC sortis entre octobre et décembre 2013, qui enrichissaient laventure de 16 nouvelles maps à lintérieur du mode Mission
+- Une Piklopédie (encyclopédie liée aux créatures et plantes)
+- De nouvelles missions inédites mettant en scène les héros des précédents opus
+- Un rééquilibrage des ennemis et de nouveaux modes de difficulté
+- Un mode coopératif jouable à deux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FCZQ54K/?tag=tolees0d-21)

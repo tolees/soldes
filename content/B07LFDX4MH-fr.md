@@ -28,8 +28,8 @@ Vous avez [Levi s 502 Taper Jeans  Cedar Light Mid Overt ADV Tnl  32W / 32L Homm
 
 ℹ️:
 
-- Coupe large et confortable
 - Le logo de larticle peut différer de limage dp
+- Coupe large et confortable
 - Un pantalon de carotte classique pour le quotidien
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LFDX4MH/?tag=tolees0d-21)

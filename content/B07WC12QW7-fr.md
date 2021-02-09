@@ -28,9 +28,9 @@ C'est en vente [LEGO Classic La plaque de base blanche 25 cm x 25 cm pour la bas
 
 ℹ️:
 
-- Nombre de pièces : 1 Un complément idéal à toute collection LEGO
 - Robuste, spacieuse et idéalement compatible avec tous les ensembles de construction LEGO, elle libère des briques avec un minimum deffort
 - Qui a dit que la plaque devait être au fond ? Cette plaque de base de qualité a suffisamment dadhérence pour tenir les briques de construction à nimporte quel angle, même à lenvers
+- Nombre de pièces : 1 Un complément idéal à toute collection LEGO
 - Elle est plus grande, meilleure, plus lumineuse, plus blanche : un point de départ idéal pour construire, exposer et jouer
 - Nouvelle plaque de base en blanc Idéal, avec une gamme de possibilités de construction - des lacs gelés aux montagnes enneigées et aux plages ensoleillées
 

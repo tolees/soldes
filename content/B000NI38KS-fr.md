@@ -28,10 +28,10 @@ Vous avez [Marinco 69 – 12 VCP6 ConnectPRO récepteur et prises](https://w
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Diamètre de montage standard de 29 mm qui accepte les câbles jusquà 8 GA
 - Comprend avec couvercle étanche résistant à la corrosion, composants électriques de laiton et de drainage sur le récepteur
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Récepteur universel conçu pour les configurations de 2 ou 3 fils, et systèmes de 12, 24, 12/24, 24/36 ou 36 volts
-- Diamètre de montage standard de 29 mm qui accepte les câbles jusquà 8 GA
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000NI38KS/?tag=tolees0d-21)

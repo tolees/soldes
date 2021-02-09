@@ -28,10 +28,10 @@ Vous avez [Peugeot Outillage ENERGYBRUSH-18VBL Rénovateur Brushless 18 V- livr�
 
 ℹ️:
 
-- Poignée additionnelle anti-vibration réglable, pour s’adapter à la position de travail
 - Moteur avec technologie BRUSHLESS (moteur sans charbon), apportant un gain d’autonomie
-- Garantie 3 ans avec collecte and Change (voir conditions)
+- Poignée additionnelle anti-vibration réglable, pour s’adapter à la position de travail
 - pour brosser, décaper le bois, métaux et matériaux moteur avec technologie BRUSHLESS (moteur sans charbon), apportant un gain d’autonomie carter de brosse avec protection latérale brosse de décapage 80 x 100 mm en acier laitonné buse pour aspiration des poussières, avec bouchon poignée additionnelle anti-vibration réglable, pour s’adapter à la position de travail vitesse variable avec molette de vitesses pré-sélectionnées indicateurs de niveau de charge de la batterie prise en main 100 % Confort bimatière livrée sans batterie ni chargeur
 - Le Rénovateur EnergyBrush-18VBL permet de décaper, polir et brosser les bois, métaux et autres matériaux.
+- Garantie 3 ans avec collecte and Change (voir conditions)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NZX8CSL/?tag=tolees0d-21)
