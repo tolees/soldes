@@ -28,10 +28,10 @@ Vous avez [Apli kids 11913 - Lot de 4 rouleaux de gommettes formes et couleurs a
 
 ℹ️:
 
-- Les gommettes APLI répondent aux normes les plus strictes de qualité et de sécurité.
 - Fabriqué conformément aux normes EN-71 et à la chaîne de contrôle FSC.
-- Jouer et créer avec des gommettes est une activité basique qui permet de développer la psychomotricité fine et de travailler en même temps diverses compétences et habilités comme la connaissance des couleurs, des formes et tailles géométriques. Le dévelo
-- Rouleau de 59 feuilles micro-perforées ce qui permet de les détacher plus facilement. Adhésif permanent. Gommettes échenillées.
+- Les gommettes APLI répondent aux normes les plus strictes de qualité et de sécurité.
 - Boîte de 4 rouleaux de gommettes XL formes assorties de 27 mm soit 5428 gommettes. Couleurs assorties.
+- Rouleau de 59 feuilles micro-perforées ce qui permet de les détacher plus facilement. Adhésif permanent. Gommettes échenillées.
+- Jouer et créer avec des gommettes est une activité basique qui permet de développer la psychomotricité fine et de travailler en même temps diverses compétences et habilités comme la connaissance des couleurs, des formes et tailles géométriques. Le dévelo
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B007ORG0GA/?tag=tolees0d-21)

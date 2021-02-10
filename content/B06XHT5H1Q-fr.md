@@ -28,10 +28,10 @@ C'est en vente [Janod - Cuisine Enfant en Bois Macaron - Équipée avec Frigo et
 
 ℹ️:
 
-- Design réalisé en France
-- Idéale pour les enfants de 3 ans à 8 ans
 - Dimensions : longueur 53 cm x largeur 30 cm x hauteur 78 cm (hauteur du plan de travail : 50 cm) / poids : 7,75 kg
-- UNE CUISINE COMPLETE : cette cuisine pour enfant tout en bois comprenant un four, un placard avec portes magnétiques, deux plaques à induction (avec deux boutons rotatifs avec bruitage), un évier en inox, une patère pour suspendre les ustensiles, et une horloge, ainsi que cinq accessoires pour jouer au Petit Chef : deux cuillères en métal, une poêle en métal, deux boites daliments en carton (petits pois et sucre)
+- Design réalisé en France
 - UN JOUET POLYVALENT : la cuisine en bois cest le jouet parfait, intemporelle, elle permet de soccuper tout seul comme avec les copains, ses frères et soeurs ou ses parents, à lintérieur comme à lextérieur; jouet dimitation par excellence, elle permet de développer limagination, la réflexion et le langage
+- UNE CUISINE COMPLETE : cette cuisine pour enfant tout en bois comprenant un four, un placard avec portes magnétiques, deux plaques à induction (avec deux boutons rotatifs avec bruitage), un évier en inox, une patère pour suspendre les ustensiles, et une horloge, ainsi que cinq accessoires pour jouer au Petit Chef : deux cuillères en métal, une poêle en métal, deux boites daliments en carton (petits pois et sucre)
+- Idéale pour les enfants de 3 ans à 8 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XHT5H1Q/?tag=tolees0d-21)

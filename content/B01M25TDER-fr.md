@@ -28,11 +28,11 @@ C'est en vente [Timberland Bradstreet Chukka Leather  Bottines Homme  Jaune  Whe
 
 ℹ️:
 
-- Type de talons : plat
 - Matériau de semelle : caoutchouc
-- Fermeture : lacets
-- Dessus : cuir
-- Doublure : textile
 - Semelle intérieure : synthétique
+- Doublure : textile
+- Dessus : cuir
+- Fermeture : lacets
+- Type de talons : plat
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M25TDER/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Garnier Fructis Hair Food Démêlant Hydratant à l Aloe Vera po
 
 ℹ️:
 
-- Soin démêlant à lAloe Vera composé à 98% dingrédients dorigine naturelle. Sa texture fondante pénètre instantanément et se rince facilement pour hydrater et démêler rapidement
 - Fructis crée son 1er démêlant Vega à 98% dingrédients dorigine naturelle: Hair Food. Sa texture fondante pénètre instantanément et se rince facilement pour hydrater et démêler rapidement
-- Résultat: vos cheveux sont hydratés en profondeur et facile à démêler
 - Contenu: 1x soin démêlant Garnier Fructis Hair Food, parfum: aloès Vera
 - Après votre shampooing, appliquez, massez sur cheveux mouillés et rincez abondamment
+- Soin démêlant à lAloe Vera composé à 98% dingrédients dorigine naturelle. Sa texture fondante pénètre instantanément et se rince facilement pour hydrater et démêler rapidement
+- Résultat: vos cheveux sont hydratés en profondeur et facile à démêler
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083YDVZWN/?tag=tolees0d-21)

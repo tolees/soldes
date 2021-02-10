@@ -28,11 +28,11 @@ C'est en vente [SteelSeries Arctis 3 - Casque de Jeu toutes Plateformes - pour P
 
 ℹ️:
 
-- Son spatial Windows Sonic - Totalement compatible avec le son surround dorigine intégré aux PC Windows 10 et aux consoles Xbox One
+- Conçu pour jouer partout avec un son, un confort et un style de qualité supérieure sur toutes les plateformes : PC, PlayStation, Xbox One, Nintendo Switch, RV et mobile via câbles amovibles 3,5 mm
 - Grâce aux pilotes de haut-parleurs S1, conçus pour produire un son à distorsion minimale vous permettant dentendre le moindre détail, le son devient votre avantage compétitif
 - Jouez toute la journée avec les coussinets doreilles en tissu de performance AirWeave, inspirés du monde de lathlétisme, qui gardent vos oreilles au frais et au sec
-- Réponse en fréquence casque:20–22000 Hz.Sensibilité du micro: -48 db
 - Largement reconnu comme le meilleur micro du monde du jeu, le micro ClearCast certifié Discord vous donne une clarté de voix de qualité studio et élimine les bruits de fond
-- Conçu pour jouer partout avec un son, un confort et un style de qualité supérieure sur toutes les plateformes : PC, PlayStation, Xbox One, Nintendo Switch, RV et mobile via câbles amovibles 3,5 mm
+- Son spatial Windows Sonic - Totalement compatible avec le son surround dorigine intégré aux PC Windows 10 et aux consoles Xbox One
+- Réponse en fréquence casque:20–22000 Hz.Sensibilité du micro: -48 db
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GFRRQDJ/?tag=tolees0d-21)

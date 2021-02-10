@@ -28,9 +28,9 @@ C'est en vente [Sylvanian Families - Le Village - Les Jumeaux Lapin Chocolat et 
 
 ℹ️:
 
+- Contient les jumeaux, la poussette et 2 hochets.
 - Jouer avec Sylvanian Families, c’est se constituer des souvenirs pour la vie !
 - A partir de 3 ans.
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions : la famille, La nature et lamour.
-- Contient les jumeaux, la poussette et 2 hochets.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081HGLZWP/?tag=tolees0d-21)

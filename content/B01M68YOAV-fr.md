@@ -28,10 +28,10 @@ Vous avez [Nest Cam Outdoor Caméra de Sécurité](https://www.amazon.fr/dp/B01M
 
 ℹ️:
 
-- Une qualité d’image claire, de jour comme de nuit: La fonction Vision nocturne éclaire le champ de vision de façon uniforme.
-- Flux vidéo en direct 24h/24 et 7j/7: Vue à 130° pour tout voir en HD 1080p, de jour comme de nuit.
 - Fonction Parler/Écouter: Regardez qui est à la porte et parlez pour attirer lattention des visiteurs.
+- Flux vidéo en direct 24h/24 et 7j/7: Vue à 130° pour tout voir en HD 1080p, de jour comme de nuit.
 - Alertes sur mobile: Recevez une alerte dactivité si quelque chose se passe en votre absence.
 - Résiste aux intempéries: La caméra, le câble et ladaptateur résistent aux intempéries.
+- Une qualité d’image claire, de jour comme de nuit: La fonction Vision nocturne éclaire le champ de vision de façon uniforme.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M68YOAV/?tag=tolees0d-21)
