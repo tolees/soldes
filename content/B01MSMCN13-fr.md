@@ -30,9 +30,9 @@ C'est en vente [Polar - M200 - Montre Running GPS avec suivi de la Fréquence Ca
 
 - Fréquence cardiaque au poignet (lecteur optique 2 LED)
 - GPS intégré : vitesse, distance, parcours, altitude
-- Durée de la batterie jusquà 6 jours (avec suivi dactivité 24/7 +1h/jour dentraînement avec GPS et fréquence cardiaque optique, sans notifications intelligentes)
 - Programmes de course en fonction de vos objectifs
 - Notifications smartphones
+- Durée de la batterie jusquà 6 jours (avec suivi dactivité 24/7 +1h/jour dentraînement avec GPS et fréquence cardiaque optique, sans notifications intelligentes)
 - Analyse et suivi du sommeil. Batterie lithium polymère rechargeable de 180 mAh
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MSMCN13/?tag=tolees0d-21)
