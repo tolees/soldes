@@ -28,9 +28,9 @@ Vous avez [Bosch Home and Garden 2609256F28 Adaptateur universel  Noir](https://
 
 ℹ️:
 
-- Pour aspirateurs Bosch EasyVac 3, UniversalVac 15 et AdvancedVac 20.
-- Adaptateur universel - ø 35 et 28 mm.
 - Indispensable pour remplacer ou compléter.
+- Pour aspirateurs Bosch EasyVac 3, UniversalVac 15 et AdvancedVac 20.
 - Adaptateur universel - ø 35 et 28 mm, accessoire pour aspirateur
+- Adaptateur universel - ø 35 et 28 mm.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075H4NVJB/?tag=tolees0d-21)

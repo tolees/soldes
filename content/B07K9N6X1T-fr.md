@@ -28,10 +28,10 @@ C'est en vente [dc comics- Statue  NOV180599  Divers](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Sculpté par Alejandro Pereira
 - Limité à 5 000 pièces
-- Conçu par Frank cho
-- Inspiré de la variante de couverture de cho pour Harley Quinn # 50
+- Sculpté par Alejandro Pereira
 - Numéroté individuellement
+- Inspiré de la variante de couverture de cho pour Harley Quinn # 50
+- Conçu par Frank cho
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K9N6X1T/?tag=tolees0d-21)

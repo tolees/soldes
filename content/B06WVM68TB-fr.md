@@ -29,7 +29,7 @@ Vous avez [Playmobil - Cuisine Aménagée - 9269](https://www.amazon.fr/dp/B06WV
 ℹ️:
 
 - La cuisine est équipée dun lave-vaisselle avec panier amovible, dun tiroir à déchets avec deux poubelles amovibles, dun réfrigérateur, dun four avec plaque de cuisson amovible et dun grand tiroir
-- Contient 3 personnages, 3 meubles, 3 chaises, 1 landau, 1 chaise haute, de la nourriture et de la vaisselle
 - Le grille-pain peut accueillir une tranche de pain La tranche de pain est dotée dune poignée permettant aux personnages de la tenir en main
+- Contient 3 personnages, 3 meubles, 3 chaises, 1 landau, 1 chaise haute, de la nourriture et de la vaisselle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WVM68TB/?tag=tolees0d-21)

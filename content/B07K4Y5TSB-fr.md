@@ -28,8 +28,8 @@ C'est en vente [Levi s The Jacket Blouson  Palmer Trucker  L Homme](https://www.
 
 ℹ️:
 
-- Sans stretch
 - Poches de poitrine plaquées avec rabat boutonné, poches passepoilées sur les côtés, ourlet réglable latéral
+- Sans stretch
 - Denim
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K4Y5TSB/?tag=tolees0d-21)

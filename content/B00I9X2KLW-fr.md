@@ -28,11 +28,11 @@ Vous avez [Sony DSCHX60B Appareil Photo Numérique Compact  20 4 Mpix  Zoom Opti
 
 ℹ️:
 
-- Wi-Fi et NFC intégrés
-- Objectif Sony G avec zoom optique 30x
-- Dimensions (L x H x P) : 108,1 x 63,6 x 38,3 mm
-- Stabilisateur optique SteadyShot
-- Capteur CMOS Exmor R 20,4 mégapixels
 - Poids : 246 g (boîtier uniquement) / 272 g (avec batterie et support)
+- Stabilisateur optique SteadyShot
+- Wi-Fi et NFC intégrés
+- Dimensions (L x H x P) : 108,1 x 63,6 x 38,3 mm
+- Objectif Sony G avec zoom optique 30x
+- Capteur CMOS Exmor R 20,4 mégapixels
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00I9X2KLW/?tag=tolees0d-21)

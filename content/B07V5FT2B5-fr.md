@@ -28,10 +28,10 @@ C'est en vente [Bandai Namco Entertainment - L Âge de Glace : La folle aventure
 
 ℹ️:
 
-- Affronte des ennemis en partant du rat jusqu’aux loups, des rapaces jusqu’aux piranhas
-- Un tout nouveau jeu d’aventure et de plateforme en 3D mettant Scrat en vedette, l’écureuil à dents de sabre préféré de tous
-- Grimpe, creuse, faufile-toi et glisse vers les endroits connus de l’Âge de Glace
-- Cherche les Glands de Cristal disparus ainsi que de nombreux autres trésors et capacités
 - Explore quatre niveaux amusants avec des scènes hilarantes, des personnages familiers, et des combats contre des boss géants
+- Affronte des ennemis en partant du rat jusqu’aux loups, des rapaces jusqu’aux piranhas
+- Grimpe, creuse, faufile-toi et glisse vers les endroits connus de l’Âge de Glace
+- Un tout nouveau jeu d’aventure et de plateforme en 3D mettant Scrat en vedette, l’écureuil à dents de sabre préféré de tous
+- Cherche les Glands de Cristal disparus ainsi que de nombreux autres trésors et capacités
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V5FT2B5/?tag=tolees0d-21)

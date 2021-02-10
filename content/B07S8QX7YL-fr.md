@@ -28,9 +28,9 @@ C'est en vente [Electronic Arts - Star Wars Jedi : Fallen Order pour Xbox](https
 
 ℹ️:
 
-- Précommandez Star Wars Jedi : Fallen Order et obtenez des équipements cosmétiques inédits pour votre sabre laser et votre compagnon droïde
 - Devenir un Jedi n’est plus un rêve inaccessible avec Jedi : Fallen Order, qui vous propose un système de combat au sabre laser novateur mêlant frappes, parades, esquives et capacités dévastatrices liées à la Force
 - Ancien Padawan fuyant l’Empire, vous devrez terminer votre entraînement avant que les Inquisiteurs impériaux ne découvrent vos plans pour rétablir l’Ordre Jedi
 - Forêts séculaires, falaises balayées par les vents ou encore jungles surnaturelles sont autant d’écosystèmes uniques en leur genre que vous pourrez explorer sans limites dans Jedi: Fallen Order
+- Précommandez Star Wars Jedi : Fallen Order et obtenez des équipements cosmétiques inédits pour votre sabre laser et votre compagnon droïde
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07S8QX7YL/?tag=tolees0d-21)
