@@ -28,10 +28,10 @@ C'est en vente [Xiaomi 22847 Purificateur  Blanc  Unique](https://www.amazon.fr/
 
 ℹ️:
 
+- Contrôle à distance via lapplication MI Home
 - Filtre HEPA à 3 étapes élimine 99 97 % [3] de la fumée de la poussière domestique des poils danimaux des moisissures du pollen et dautres particules fines de 0 3 microns
+- Compatible avec Alexa et Google Assistant
 - Particles CADR (Clean Air Delivery Rate) 260 m3/h
 - Durée du filtre 6-12 mois
-- Compatible avec Alexa et Google Assistant
-- Contrôle à distance via lapplication MI Home
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SHGX7H7/?tag=tolees0d-21)

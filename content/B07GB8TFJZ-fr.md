@@ -28,10 +28,10 @@ Vous avez [Casio Edifice Homme Analogique Quartz Montre avec Bracelet en Acier I
 
 ℹ️:
 
+- Neobrite
+- Chronomètre - 1 heure
 - Classe détanchéité (10 bars)
 - Boîtier en acier fin massif
-- Chronomètre - 1 heure
 - Fond de boîtier vissé
-- Neobrite
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GB8TFJZ/?tag=tolees0d-21)
