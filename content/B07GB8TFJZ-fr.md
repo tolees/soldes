@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.95 % rabais sur Casio Edifice Homme Analogique Quartz Mo'
-date: 2021-02-04 20:04:27
+date: 2021-02-10 08:37:25
 image: 'https://m.media-amazon.com/images/I/517r+C5LwzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Casio Edifice Homme Analogique Quartz Montre avec Bracelet en Acier I
 
 ℹ️:
 
-- Neobrite
 - Boîtier en acier fin massif
-- Chronomètre - 1 heure
+- Neobrite
 - Classe détanchéité (10 bars)
 - Fond de boîtier vissé
+- Chronomètre - 1 heure
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GB8TFJZ/?tag=tolees0d-21)
