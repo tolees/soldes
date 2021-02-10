@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Walt Disney Records - Les 100 Plus Belle avec 23.01 % rabais '
-date: 2021-02-09 00:44:32
+date: 2021-02-10 13:07:36
 image: 'https://m.media-amazon.com/images/I/51vGnAmVp4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Walt Disney Records'
 buyurl: 'https://www.amazon.fr/dp/B07HSK39QG/?tag=tolees0d-21'
 descuento: '23.01'
-average: '19.8041414141413'
+average: '19.7599999999999'
 ---
 
 C'est en vente [Walt Disney Records - Les 100 Plus Belles Chansons Disney](https://www.amazon.fr/dp/B07HSK39QG/?tag=tolees0d-21)  à  23.01 % de réduction, prix final  15.39 EUR (original: 19.99 EUR) ici:

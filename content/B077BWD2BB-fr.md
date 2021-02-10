@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.37 % rabais sur Sigma Objectif 16 mm F1 4 DC DN Contempo'
-date: 2021-02-09 06:04:41
+date: 2021-02-10 12:55:33
 image: 'https://m.media-amazon.com/images/I/41gv7DGZiYL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Sigma Objectif 16 mm F1 4 DC DN Contemporary - Monture Sony](https://
 
 ℹ️:
 
-- Une motorisation pas à pas (stepping motor) idéale pour la vidéo
 - Conçu pour minimiser le "flare" et les images fantômes
-- Une baïonnette équipée dune protection contre la poussière et le ruissellement. Angle de vue (DC): 83,4º
 - Objectif 16mm.Rapport de reproduction maximal: 1：9.9
+- Une baïonnette équipée dune protection contre la poussière et le ruissellement. Angle de vue (DC): 83,4º
+- Une motorisation pas à pas (stepping motor) idéale pour la vidéo
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077BWD2BB/?tag=tolees0d-21)

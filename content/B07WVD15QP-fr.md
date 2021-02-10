@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Le Village - La Gra avec 26.43 % rabais '
-date: 2021-02-09 00:40:42
+date: 2021-02-10 12:58:57
 image: 'https://m.media-amazon.com/images/I/51V6hkABz8L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B07WVD15QP/?tag=tolees0d-21'
 descuento: '26.43'
-average: '73.1342700729925'
+average: '73.0840942028983'
 ---
 
 C'est en vente [Sylvanian Families - Le Village - La Grande Maison Éclairée - 5480 - Maison de Poupée - Mini Poupées](https://www.amazon.fr/dp/B07WVD15QP/?tag=tolees0d-21)  à  26.43 % de réduction, prix final  66.21 EUR (original: 89.99 EUR) ici:

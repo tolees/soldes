@@ -29,9 +29,9 @@ C'est en vente [Amazfit GPS Smartwatch with Built-in GPS  Blue ](https://www.ama
 ℹ️:
 
 - Boîtier de montre métallique coloré et mince.
-- 12 modes d’exercice populaires.
-- Une endurance prolongée de 14 jours, malgré un boîtier de montre mince.
 - Expérience HD sans précédent. Cadran AMOLED 341 PPI.
+- Une endurance prolongée de 14 jours, malgré un boîtier de montre mince.
 - Résistance à l’eau 5 ATM et suivi de natation professionnel.
+- 12 modes d’exercice populaires.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YJWTCFM/?tag=tolees0d-21)
