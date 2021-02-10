@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACTIVISION - Call Of Duty Black OPS Cold avec 24.00 % rabais '
-date: 2021-01-26 10:34:37
+date: 2021-02-10 22:44:55
 image: 'https://m.media-amazon.com/images/I/51p7J5M5hVL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 74.99 EUR
 prodname: 'ACTIVISION - Call Of Duty Black OPS Cold War One  Xbox One '
 country: 'fr'
 flag: '🇫🇷'
+brand: 'ACTIVISION'
 buyurl: 'https://www.amazon.fr/dp/B08KQ5HCBZ/?tag=tolees0d-21'
 descuento: '24.00'
 average: '56.99'

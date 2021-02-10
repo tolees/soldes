@@ -28,10 +28,10 @@ C'est en vente [Tefal Pierre GAGNAIRE Heritage Set 4 Mini cocottes Fonte d acier
 
 ℹ️:
 
-- Compatible tous feux dont induction + four
-- Fabriquées en fonte dacier, qui garantit une rétention de chaleur optimale les plats mijotés et la cuisson douce
-- Désignée en france par tefal, n°1 mondial* des articles culinaires
-- Revêtement email noir mat à lintérieur et à lextérieur, garantissant une caramélisation parfaite
 - Set de quatre mini cocottes élégantes conçues avec pierre gagnaire, chef triplement étoilé renommé, pour une cuisson authentique et savoureuse
+- Revêtement email noir mat à lintérieur et à lextérieur, garantissant une caramélisation parfaite
+- Fabriquées en fonte dacier, qui garantit une rétention de chaleur optimale les plats mijotés et la cuisson douce
+- Compatible tous feux dont induction + four
+- Désignée en france par tefal, n°1 mondial* des articles culinaires
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TWW71YV/?tag=tolees0d-21)
