@@ -30,7 +30,7 @@ C'est en vente [RYGHT - VEHO Ecouteurs TrueWireless Tactile et Connexion Automat
 
 - Composants inclus: Notice dutiliqation
 - Matériau: PVC + Rubber
-- Poids du colis: 45.0 g
 - Couleur: Blanc
+- Poids du colis: 45.0 g
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GYPF665/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Playmobil - Salon avec Cheminée - 70207](https://www.amazon.fr/
 
 ℹ️:
 
-- Box contents: 1x Playmobil dollhouse cosy living room, 36-piece toy set with instructions: 2 figures, 34 accessories (excl. 2 x 1.5 V AAA micro batteries), material: plastic, can be set up individually, L x D x H fireplace with bench: 8.5 x 5.5 x 5.5 cm, weight: 158 g, 70207
-- Toy set for children aged 4 and up: ideal for childrens hands due to age-appropriate size and pleasant feel with rounded edges
 - Daily play: instructions for assembly together with parents, high-quality and robust design, cleaning the parts (without stickers) under running water without chemicals
 - Furnishings: folding couch and chair, sideboard and rocking horse for baby figure, flickering fireplace, combinable: My Large Dollhouse (70205)
+- Box contents: 1x Playmobil dollhouse cosy living room, 36-piece toy set with instructions: 2 figures, 34 accessories (excl. 2 x 1.5 V AAA micro batteries), material: plastic, can be set up individually, L x D x H fireplace with bench: 8.5 x 5.5 x 5.5 cm, weight: 158 g, 70207
+- Toy set for children aged 4 and up: ideal for childrens hands due to age-appropriate size and pleasant feel with rounded edges
 - Fun for girls and boys: Playmobil cosy living room with grandfather, baby, puppy and numerous accessories for detailed replay
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P6FL99M/?tag=tolees0d-21)

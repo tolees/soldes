@@ -28,7 +28,7 @@ C'est en vente [Crocs Classic Clog Kids  Obstruction unisexe pour Enfants  Limon
 
 ℹ️:
 
-- Crocs
 - Matériau de semelle : synthétique
+- Crocs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K9NV3MN/?tag=tolees0d-21)
