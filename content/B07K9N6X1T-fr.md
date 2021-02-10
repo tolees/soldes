@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'dc comics- Statue  NOV180599  Divers avec 49.97 % rabais '
-date: 2021-01-27 17:48:33
+date: 2021-02-10 19:33:11
 image: 'https://m.media-amazon.com/images/I/31L6wadf4FL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 100.0 EUR
 prodname: 'dc comics- Statue  NOV180599  Divers'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'dc comics'
 buyurl: 'https://www.amazon.fr/dp/B07K9N6X1T/?tag=tolees0d-21'
 descuento: '49.97'
 average: '50.03'
@@ -27,10 +28,10 @@ C'est en vente [dc comics- Statue  NOV180599  Divers](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Limited to 5, 000 pieces
-- Individually numbered
-- Inspired by Chos variant cover for Harley Quinn #50
-- Sculpted by Alejandro Pereira
-- Designed by Frank Cho
+- Sculpté par Alejandro Pereira
+- Limité à 5 000 pièces
+- Conçu par Frank cho
+- Inspiré de la variante de couverture de cho pour Harley Quinn # 50
+- Numéroté individuellement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K9N6X1T/?tag=tolees0d-21)

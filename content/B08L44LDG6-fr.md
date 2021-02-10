@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.94 % rabais sur Elsa Chante Noël'
-date: 2021-02-09 13:29:31
+date: 2021-02-10 19:23:53
 image: 'https://m.media-amazon.com/images/I/51QxG5ne3xL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08L44LDG6/?tag=tolees0d-21'
 descuento: '27.94'
-average: '13.8673333333333'
+average: '13.7510389610389'
 ---
 
 Vous avez [Elsa Chante Noël](https://www.amazon.fr/dp/B08L44LDG6/?tag=tolees0d-21)  à  27.94 % de réduction, prix final  9.39 EUR (original: 13.03 EUR) ici:

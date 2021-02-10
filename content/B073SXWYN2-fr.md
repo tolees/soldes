@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '39.76 % rabais sur Google WiFi Pack de 2 Routeurs sans Fil '
-date: 2021-02-09 00:35:58
+date: 2021-02-10 19:00:53
 image: 'https://m.media-amazon.com/images/I/21c0QLR8OGL._SL200_.jpg'
 comments: true
 category: ofertas

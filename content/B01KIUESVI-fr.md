@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY SSD7CS900-240-PB Disque Flash SSD in avec 21.08 % rabais '
-date: 2021-02-09 18:30:06
+date: 2021-02-10 19:20:12
 image: 'https://m.media-amazon.com/images/I/51bB9DCzw-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'PNY'
 buyurl: 'https://www.amazon.fr/dp/B01KIUESVI/?tag=tolees0d-21'
 descuento: '21.08'
-average: '31.4896000000003'
+average: '31.4776984126987'
 ---
 
 C'est en vente [PNY SSD7CS900-240-PB Disque Flash SSD interne 240 Go SATA III Noir](https://www.amazon.fr/dp/B01KIUESVI/?tag=tolees0d-21)  à  21.08 % de réduction, prix final  29.99 EUR (original: 38.0 EUR) ici:
@@ -28,11 +28,11 @@ C'est en vente [PNY SSD7CS900-240-PB Disque Flash SSD interne 240 Go SATA III No
 
 ℹ️:
 
-- Format Slim 7 mm
 - Garantie 3 ans par le SAV PNY situé en France
-- Capacité de 240 Go
-- Interface Serial ATA III/6 GBPs
 - Idéal pour booster le système et les applications de tous les types dordinateur
+- Interface Serial ATA III/6 GBPs
+- Format Slim 7 mm
+- Capacité de 240 Go
 - Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KIUESVI/?tag=tolees0d-21)

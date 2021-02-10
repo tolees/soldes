@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '39.70 % rabais sur Funko- Pop Games: Mortal Kombat-Scorpion'
-date: 2021-02-09 12:59:37
+date: 2021-02-10 19:20:21
 image: 'https://m.media-amazon.com/images/I/410tkNPThSL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Funko- Pop Games: Mortal Kombat-Scorpion Collectible Toy  45110  Mult
 
 ℹ️:
 
-- Découvrez les autres figurines Mortal Kombat de Funko Collectionnez-les tous
-- La figurine mesure 9 cm et est livrée dans une boîte de présentation
-- Funko POP! est le gagnant du prix Toy of the Year 2018
 - De Mortal Kombat, Scorpion, en vinyle POP stylisé de Funko
+- La figurine mesure 9 cm et est livrée dans une boîte de présentation
+- Découvrez les autres figurines Mortal Kombat de Funko Collectionnez-les tous
+- Funko POP! est le gagnant du prix Toy of the Year 2018
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TVDQNM4/?tag=tolees0d-21)

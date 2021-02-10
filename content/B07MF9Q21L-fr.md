@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony SRS-XB12 Enceinte Bluetooth Portabl avec 24.50 % rabais '
-date: 2021-02-09 13:25:36
+date: 2021-02-10 18:52:36
 image: 'https://m.media-amazon.com/images/I/31iRyP8sR1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B07MF9Q21L/?tag=tolees0d-21'
 descuento: '24.50'
-average: '42.0185714285714'
+average: '41.9584507042253'
 ---
 
 C'est en vente [Sony SRS-XB12 Enceinte Bluetooth Portable Extra Bass Waterproof – Noir](https://www.amazon.fr/dp/B07MF9Q21L/?tag=tolees0d-21)  à  24.50 % de réduction, prix final  37.75 EUR (original: 50.0 EUR) ici:
@@ -28,11 +28,11 @@ C'est en vente [Sony SRS-XB12 Enceinte Bluetooth Portable Extra Bass Waterproof 
 
 ℹ️:
 
+- Lenceinte résiste à leau, à la poussière, au sable et à la boue (norme IP67), et a jusquà 16h dautonomie
+- Fréquence de transmission: 20 Hz – 20 000 Hz (fréquence déchantillonnage : 44,1 kHz)
 - Dotée de la technologie EXTRA BASS pour un son puissant. Profils compatibles Bluetooth: A2DP / AVRCP / HFP / HSP
 - Facilement transportable grâce au design petit, léger et compact
-- Portée de communication maximale: 10 m
 - Jouez votre musique préférée grâce à la fonction Bluetooth
-- Fréquence de transmission: 20 Hz – 20 000 Hz (fréquence déchantillonnage : 44,1 kHz)
-- Lenceinte résiste à leau, à la poussière, au sable et à la boue (norme IP67), et a jusquà 16h dautonomie
+- Portée de communication maximale: 10 m
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MF9Q21L/?tag=tolees0d-21)
