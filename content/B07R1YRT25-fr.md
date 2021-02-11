@@ -29,8 +29,8 @@ C'est en vente [Under Armour Recovery Sleepwear Shortsleeve Crew T-Shirt Homme B
 ℹ️:
 
 - Couleur : Blanc Taille : LG
-- Cet article n est plus en solde !
-- 75% Polyester/19% Modal/6% Elasthanne
 - Under Armour Recovery Sleepwear Shortsleeve Crew T-shirt Homme Blanc FR : L (Taille Fabricant : Taille LG)
+- 75% Polyester/19% Modal/6% Elasthanne
+- Cet article n est plus en solde !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07R1YRT25/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Origin Storage HP-500S/7-NB35 Disque Dur Upgrade Bay Portable 2 5" po
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Interface du disque dur: SATA
 - Vitesse de rotation du disque dur: 7200 tr/min. Compatibilité: HP/Compaq Business Notebook 6530b
-- Origin Storage HP-500S/7-NB35. Capacité disque dur: 500 Go
+- Interface du disque dur: SATA
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Origin Storage HP-500S/7-NB35. Capacité disque dur: 500 Go
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005UH9G6M/?tag=tolees0d-21)
