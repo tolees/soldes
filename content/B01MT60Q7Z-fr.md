@@ -28,10 +28,10 @@ C'est en vente [Western Digital - WD My Passport Disque Dur Externe Portable 1 T
 
 ℹ️:
 
-- Lecteur de carte SD 3.0 pour télécharger rapidement les fichiers multimédias
 - Wi-Fi 802.11ac pour le transfert rapide des données
-- USB 3.0 pour des transferts ultrarapides
 - Chargeur nomade USB pour recharger des appareils mobiles
+- USB 3.0 pour des transferts ultrarapides
+- Lecteur de carte SD 3.0 pour télécharger rapidement les fichiers multimédias
 - Batterie capable de tenir toute la journée (jusquà 10 heures)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MT60Q7Z/?tag=tolees0d-21)

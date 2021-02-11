@@ -28,13 +28,13 @@ Vous avez [Xiaomi Mi Electric Scooter 1S Trottinette Electrique - Version franç
 
 ℹ️:
 
-- VERSION FRANCAISE AVEC ANTIVOL (les versions allemandes et italiennes nen ont pas)
-- Régulateur de vitesse sophistiqué : aide à maintenir une vitesse constante fixée par le conducteur
-- Pneus antidérapants de 8,5 pouces et amortisseurs absorbent efficacement les chocs
-- Autonomie : jusqu’à 30km. Capacité totale de 275Wh grâce à 40 cellules lithium-ion
-- Vitesse maximale : 25 km/h
 - Système de freinage régénératif et à disque à la roue arrière et système E-ABS à la roue avant.
-- Système de récupération dénergie cinétique (KERS) : récupère lénergie cinétique dun véhicule en mouvement lors dun freinage longue durée
+- Vitesse maximale : 25 km/h
+- Régulateur de vitesse sophistiqué : aide à maintenir une vitesse constante fixée par le conducteur
+- Autonomie : jusqu’à 30km. Capacité totale de 275Wh grâce à 40 cellules lithium-ion
+- Pneus antidérapants de 8,5 pouces et amortisseurs absorbent efficacement les chocs
 - Poids : 12,5 kg. Facilement pliable en 3 secondes
+- VERSION FRANCAISE AVEC ANTIVOL (les versions allemandes et italiennes nen ont pas)
+- Système de récupération dénergie cinétique (KERS) : récupère lénergie cinétique dun véhicule en mouvement lors dun freinage longue durée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08C5DY2TV/?tag=tolees0d-21)
