@@ -28,10 +28,10 @@ C'est en vente [MILLET POBEDA 3 in 1 J M Veste Homme  Deep Heather  XS](https://
 
 ℹ️:
 
+- Isolation primaloft Black Eco
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Coupe longueur veste, confortable et protectrice
 - Construction 3 en 1 avec veste intérieure isolée et Dézippable
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Isolation primaloft Black Eco
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L71MWMY/?tag=tolees0d-21)

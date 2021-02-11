@@ -29,7 +29,7 @@ Vous avez [Playmobil - Chambre d Enfant - 9270](https://www.amazon.fr/dp/B06WVLX
 ℹ️:
 
 - Les échelons permettent aux personnages de sy accrocher
-- Léchelle permettant daccéder au lit mezzanine
 - Contient 1 personnage, 1 lit en hauteur, 1 meuble, 1 tapis, 1 table, 1 chaise et des jouets (peluche, poupée, balle, tricycle…)
+- Léchelle permettant daccéder au lit mezzanine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WVLX66Y/?tag=tolees0d-21)

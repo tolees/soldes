@@ -28,10 +28,10 @@ Vous avez [Timberland Bradstreet Chukka Leather  Bottines Homme  Marron  MD Brow
 
 ℹ️:
 
-- Matériau extérieur : cuir
-- Talon plat
-- Fermeture : lacets
-- Remarque: le "R" représente une marque déposée, qui ne doit être visible que sur une chaussure. Le lieu peut être variable
 - Composition : voir description
+- Remarque: le "R" représente une marque déposée, qui ne doit être visible que sur une chaussure. Le lieu peut être variable
+- Talon plat
+- Matériau extérieur : cuir
+- Fermeture : lacets
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015GZQUM0/?tag=tolees0d-21)
