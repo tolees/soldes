@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Le Village - Le Thé avec 32.87 % rabais '
-date: 2021-02-10 19:17:23
+date: 2021-02-11 19:29:29
 image: 'https://m.media-amazon.com/images/I/51NXkOE3A1L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B06X9VM3QR/?tag=tolees0d-21'
 descuento: '32.87'
-average: '45.2278666666666'
+average: '45.0990909090908'
 ---
 
 C'est en vente [Sylvanian Families - Le Village - Le Théâtre de Danse et Ballerine - 5256 - Commerce - Mini Poupées](https://www.amazon.fr/dp/B06X9VM3QR/?tag=tolees0d-21)  à  32.87 % de réduction, prix final  40.27 EUR (original: 59.99 EUR) ici:

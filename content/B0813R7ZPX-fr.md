@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 31199 Art Iron Man de Marvel Studio avec 22.09 % rabais '
-date: 2021-02-10 19:04:04
+date: 2021-02-11 19:24:35
 image: 'https://m.media-amazon.com/images/I/51FkNCIlfwL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B0813R7ZPX/?tag=tolees0d-21'
 descuento: '22.09'
-average: '98.3429411764705'
+average: '98.2042857142856'
 ---
 
 C'est en vente [LEGO 31199 Art Iron Man de Marvel Studios  Cadre artistique  Set de construction pour adultes  3156 Pièces](https://www.amazon.fr/dp/B0813R7ZPX/?tag=tolees0d-21)  à  22.09 % de réduction, prix final  93.49 EUR (original: 119.99 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [LEGO 31199 Art Iron Man de Marvel Studios  Cadre artistique  Set
 
 ℹ️:
 
-- LEGO Art models of iconic artworks, musicians, superheroes and Sith Lords offer a rewarding arts and crafts building experience
-- Features a 3-in-1 rebuildable portrait set of the MARK III, the HULKBUSTER MARK I or the MARK LXXXV armoured Iron Man suits to adorn your wall
-- Immerse yourself in the included soundtrack to learn new details as you build, then display your favourite version of Iron Man’s armour
-- The set measures over 15.5 inches (40 cm) square, includes 9 canvas wall decor plates, a Marvel Studios signature plate and brick-built LEGO frame
-- Choose 1 of 3 pieces of art to build, or combine sets to create the ultimate Iron Man portrait - a great gift for builders and Marvel fans
+- Ce set LEGO Art Iron Man de Marvel Studios (31199) inclut un modèle et 3 options de construction. Chacun peut exposer sa version préférée de l’armure d’Iron Man sur un mur ou une étagère après avoir savouré des moments de qualité consacrés à sa construction
+- Ce set LEGO de 3 156 pièces permet à chacun dexprimer sa créativité. Il inclut 9 plaques support pour décoration murale, une plaque signature de Marvel Studios, un cadre LEGO en briques, un nouvel élément de suspension et un séparateur de pièces pour rendre la reconstruction plus facile
+- Ce set 3-en-1 LEGO Art mesure plus de 40 cm de côté. Il peut être exposé sur un mur ou une étagère pour en faire ressortir chaque détail. Il constitue un formidable cadeau à soffrir ou à offrir à tout constructeur créatif passionné par les super-héros ou Iron Man
+- Ce kit LEGO unique permet aux amateurs dexprimer leur passion pour la construction et les super-héros. Afin de repousser vraiment les limites de la créativité, les passionnés peuvent acheter et combiner 3 sets pour créer un fabuleux triptyque sur le thème d’Iron Man à exposer à la maison ou au bureau
+- La création d’un tableau LEGO unique représentant l’une des armures MARK III, HULKBUSTER MARK I ou MARK LXXXV d’Iron Man constitue un moment de détente. La bande son immersive permet de découvrir des informations surprenantes au fur et à mesure de la construction
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0813R7ZPX/?tag=tolees0d-21)

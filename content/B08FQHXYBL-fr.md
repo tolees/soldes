@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.01 % rabais sur Electronic Arts - FIFA 21  Xbox One  - V'
-date: 2021-02-10 19:09:59
+date: 2021-02-11 19:35:59
 image: 'https://m.media-amazon.com/images/I/51b1G789XJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21'
 descuento: '50.01'
-average: '45.0723699421965'
+average: '44.9571428571428'
 ---
 
 Vous avez [Electronic Arts - FIFA 21  Xbox One  - Version Xbox Series X incluse](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  34.99 EUR (original: 69.99 EUR) ici:
