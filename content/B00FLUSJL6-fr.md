@@ -28,7 +28,7 @@ Vous avez [Whispbar K554W Kit De Fixation](https://www.amazon.fr/dp/B00FLUSJL6/?
 
 ℹ️:
 
-- Installation facile par manuel dutilisation précis et clair
 - Kit de fixation spécifique à chaque voiture
+- Installation facile par manuel dutilisation précis et clair
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FLUSJL6/?tag=tolees0d-21)
