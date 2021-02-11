@@ -28,9 +28,9 @@ C'est en vente [Playmobil - Grand Tracteur avec Remorque - 70131](https://www.am
 
 ℹ️:
 
-- Avec bras mobile et pelle pour le chargement et le déchargement de marchandises. La remorque peut être inclinée (trois positions).
 - Dimensions (LxPxH) cm: 59 x 12 x 16
 - Participe à la vie de la ferme avec tous ces animaux !
+- Avec bras mobile et pelle pour le chargement et le déchargement de marchandises. La remorque peut être inclinée (trois positions).
 - Convient aux enfants à partir de 4 ans.
 - Avec son tracteur, le fermier peut transporter de lourdes charges
 

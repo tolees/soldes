@@ -28,10 +28,10 @@ C'est en vente [Bqeel Android 10.0 TV Box【4G+64G】  R2 Max Box Android TV RK3
 
 ℹ️:
 
+- 【Puissante puce-RK3318】Équipée dune puissante puce RK3318,il peut assure la stabilité de la boîtier tv box et le chargement des films, des images et des jeux sans mise en mémoire tampon.
+- 【Excellente connectivité】 LAN (Ethernet: 100M, Wi-Fi (2.4G / 5G, signal fort) et bluetooth 4.0 sont disponibles sur ce boîtier Android TV, assurant une connexion Internet stable et fluide. Avec BT 4.0, vous pouvez connecter des téléphones mobiles, des équipements musicaux, des écouteurs, des mini-claviers et dautres appareils.
+- 【Android 10.0】R2 MAX Android TV Box est équipée de la dernière version dAndroid 10.0. Vous pouvez profiter dapplications massives et parcourir toutes sortes de ressources vidéo! Prend en charge Miracast / DLNA / Airplay, il vous permet également de visualiser sans problème du contenu multimédia envoyé depuis PC ou Smartphone.
 - 【4G RAM + 64G ROM】 4Go RAM améliorera la vitesse d’exécution des applications, sans mise en mémoire tampon ni panne. 64Go ROM Flash, vous offre beaucoup despace pour installer les applications dont vous avez besoin. Vous pouvez également étendre la mémoire via la fente pour carte micro SD. Pas besoin de sinquiéter du manque despace.
 - 【Plusieurs Pratiques Ports】Équipée de 1 Ports USB 2.0, 1 Port USB 3.0, 1 SD Carte cram, 1 Ethernet Port de 10/100M, 1 Port HDMI , 1 Port dAlimentation,1 AV Port.
-- 【Excellente connectivité】 LAN (Ethernet: 100M, Wi-Fi (2.4G / 5G, signal fort) et bluetooth 4.0 sont disponibles sur ce boîtier Android TV, assurant une connexion Internet stable et fluide. Avec BT 4.0, vous pouvez connecter des téléphones mobiles, des équipements musicaux, des écouteurs, des mini-claviers et dautres appareils.
-- 【Puissante puce-RK3318】Équipée dune puissante puce RK3318,il peut assure la stabilité de la boîtier tv box et le chargement des films, des images et des jeux sans mise en mémoire tampon.
-- 【Android 10.0】R2 MAX Android TV Box est équipée de la dernière version dAndroid 10.0. Vous pouvez profiter dapplications massives et parcourir toutes sortes de ressources vidéo! Prend en charge Miracast / DLNA / Airplay, il vous permet également de visualiser sans problème du contenu multimédia envoyé depuis PC ou Smartphone.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VWQ1BLB/?tag=tolees0d-21)

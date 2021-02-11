@@ -28,10 +28,10 @@ Vous avez [SanDisk Carte mémoire MicroSDXC Ultra 400 Go+ Adaptateur SD  Vitesse
 
 ℹ️:
 
-- Classe 10 pour lenregistrement et la lecture de vidéo Full HD. Température de fonctionnement : -13ºF à 185ºF (-25ºC à 85ºC)
 - Jusquà 400 Go pour stocker encore plus dheures de vidéo Full HD. Vitesse (X-rating) : 667x
-- Chargez les applications plus rapidement avec des performances de classe A1. Température de stockage : -40ºF to 185ºF (-40ºC to 85ºC)
+- Classe 10 pour lenregistrement et la lecture de vidéo Full HD. Température de fonctionnement : -13ºF à 185ºF (-25ºC à 85ºC)
 - Jusquà 100 Mo/s en vitesse de transfert pour vous permettre de déplacer jusquà 1 200 photos en une minute
+- Chargez les applications plus rapidement avec des performances de classe A1. Température de stockage : -40ºF to 185ºF (-40ºC to 85ºC)
 - Idéale pour les smartphones et tablettes Android, ainsi que pour les appareils photo MIL
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074RNRM2B/?tag=tolees0d-21)

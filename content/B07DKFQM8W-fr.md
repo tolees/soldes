@@ -29,9 +29,9 @@ Vous avez [Batiste Shampooing Sec Luxe 187 g](https://www.amazon.fr/dp/B07DKFQM8
 ℹ️:
 
 - Entre deux shampooings, en petites retouches dans la journée ou avant une soirée, Batiste redonne fraîcheur et volume à votre chevelure pour des cheveux toujours au top !
+- Le Shampoing sec luxe, c’est un parfum glamour et somptueux pour oser l’élégance, l’audace, l’impertinence ! Il ne vous manque qu’une chose: un tapis rouge
+- Batiste shampooing sec cest une solution express sans eau, pour rafraîchir les cheveux sans les mouiller et en un instant
 - Batiste N°1 mondial du shampooing sec*
 - Sa formule unique à base de poudre damidon de riz absorbe efficacement le sébum dès la racine
-- Batiste shampooing sec cest une solution express sans eau, pour rafraîchir les cheveux sans les mouiller et en un instant
-- Le Shampoing sec luxe, c’est un parfum glamour et somptueux pour oser l’élégance, l’audace, l’impertinence ! Il ne vous manque qu’une chose: un tapis rouge
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DKFQM8W/?tag=tolees0d-21)
