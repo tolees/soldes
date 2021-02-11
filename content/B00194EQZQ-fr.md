@@ -28,7 +28,7 @@ Vous avez [DR MARTENS - Dr. Martens 1460  Bottes Unisexe  Noir  Noir 001  49.5 E
 
 ℹ️:
 
-- Bottes en cuir avec laçage à 8 œillets, semelle extérieure en PVC texturé et boucle extra large à larrière
 - Instructions dentretien : nettoyez la saleté à laide dun chiffon humide, laissez sécher et appliquez un cirage à base de cire colorée pour restaurer la brillance comme vous le souhaitez
+- Bottes en cuir avec laçage à 8 œillets, semelle extérieure en PVC texturé et boucle extra large à larrière
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00194EQZQ/?tag=tolees0d-21)
