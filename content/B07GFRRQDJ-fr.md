@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SteelSeries Arctis 3 - Casque de Jeu tou avec 20.00 % rabais '
-date: 2021-02-10 12:48:41
+date: 2021-02-11 13:31:21
 image: 'https://m.media-amazon.com/images/I/41vKhvNng5L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [SteelSeries Arctis 3 - Casque de Jeu toutes Plateformes - pour P
 
 ℹ️:
 
-- Conçu pour jouer partout avec un son, un confort et un style de qualité supérieure sur toutes les plateformes : PC, PlayStation, Xbox One, Nintendo Switch, RV et mobile via câbles amovibles 3,5 mm
-- Grâce aux pilotes de haut-parleurs S1, conçus pour produire un son à distorsion minimale vous permettant dentendre le moindre détail, le son devient votre avantage compétitif
 - Jouez toute la journée avec les coussinets doreilles en tissu de performance AirWeave, inspirés du monde de lathlétisme, qui gardent vos oreilles au frais et au sec
-- Largement reconnu comme le meilleur micro du monde du jeu, le micro ClearCast certifié Discord vous donne une clarté de voix de qualité studio et élimine les bruits de fond
 - Son spatial Windows Sonic - Totalement compatible avec le son surround dorigine intégré aux PC Windows 10 et aux consoles Xbox One
 - Réponse en fréquence casque:20–22000 Hz.Sensibilité du micro: -48 db
+- Conçu pour jouer partout avec un son, un confort et un style de qualité supérieure sur toutes les plateformes : PC, PlayStation, Xbox One, Nintendo Switch, RV et mobile via câbles amovibles 3,5 mm
+- Largement reconnu comme le meilleur micro du monde du jeu, le micro ClearCast certifié Discord vous donne une clarté de voix de qualité studio et élimine les bruits de fond
+- Grâce aux pilotes de haut-parleurs S1, conçus pour produire un son à distorsion minimale vous permettant dentendre le moindre détail, le son devient votre avantage compétitif
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GFRRQDJ/?tag=tolees0d-21)

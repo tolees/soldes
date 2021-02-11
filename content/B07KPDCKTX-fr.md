@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'GANT The Original Full Zip Cardigan Vest avec 46.04 % rabais '
-date: 2021-01-28 06:05:12
+date: 2021-02-11 14:21:25
 image: 'https://m.media-amazon.com/images/I/41P8duSvTiL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -16,6 +16,7 @@ comparePrice: 99.99 EUR
 prodname: 'GANT The Original Full Zip Cardigan Veste Sweat  Bleu  Evening Blue 433   Small Homme'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'GANT'
 buyurl: 'https://www.amazon.fr/dp/B07KPDCKTX/?tag=tolees0d-21'
 descuento: '46.04'
 average: '53.95'
