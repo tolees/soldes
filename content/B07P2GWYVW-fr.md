@@ -28,10 +28,10 @@ Vous avez [ART Marina  Bottes & Bottines classiques Mixte Adulte  Noir  Black Bl
 
 ℹ️:
 
-- Matériau de la semelle : caoutchouc.
-- Matériau extérieur : cuir.
-- Fermeture : fermeture éclair.
 - Type de talon : plat.
 - Revêtement : cuir.
+- Matériau de la semelle : caoutchouc.
+- Fermeture : fermeture éclair.
+- Matériau extérieur : cuir.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P2GWYVW/?tag=tolees0d-21)
