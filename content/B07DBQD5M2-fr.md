@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.41 % rabais sur Lolita Lempicka Mon Premier Parfum EDP 3'
-date: 2021-02-09 12:50:32
+date: 2021-02-11 00:56:15
 image: 'https://m.media-amazon.com/images/I/41XmR0xrpML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Lolita Lempicka'
 buyurl: 'https://www.amazon.fr/dp/B07DBQD5M2/?tag=tolees0d-21'
 descuento: '22.41'
-average: '36.0971844660193'
+average: '36.2077142857142'
 ---
 
 Vous avez [Lolita Lempicka Mon Premier Parfum EDP 30ml](https://www.amazon.fr/dp/B07DBQD5M2/?tag=tolees0d-21)  à  22.41 % de réduction, prix final  41.9 EUR (original: 54.0 EUR) ici:

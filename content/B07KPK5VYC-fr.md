@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Funko - Figurines POP! Vinyl: Disney: To avec 59.97 % rabais '
-date: 2021-02-02 22:43:18
+date: 2021-02-11 00:51:17
 image: 'https://m.media-amazon.com/images/I/41n5+00l3PL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Funko'
 buyurl: 'https://www.amazon.fr/dp/B07KPK5VYC/?tag=tolees0d-21'
 descuento: '59.97'
-average: '9.90666666666668'
+average: '10.8345454545455'
 ---
 
 C'est en vente [Funko - Figurines POP! Vinyl: Disney: Toy Story 4: Woody](https://www.amazon.fr/dp/B07KPK5VYC/?tag=tolees0d-21)  à  59.97 % de réduction, prix final  6.0 EUR (original: 14.99 EUR) ici:
@@ -28,8 +28,8 @@ C'est en vente [Funko - Figurines POP! Vinyl: Disney: Toy Story 4: Woody](https:
 
 ℹ️:
 
-- Découvrez tous les autres produits Funko dédiés à lunivers Disney: Toy Story! Collectionnez-les tous!
 - Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
 - Issue de la gamme Disney: Toy Story, la figurine Woody rejoint la collection Funko POP!
+- Découvrez tous les autres produits Funko dédiés à lunivers Disney: Toy Story! Collectionnez-les tous!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KPK5VYC/?tag=tolees0d-21)
