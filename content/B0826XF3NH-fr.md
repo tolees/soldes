@@ -28,10 +28,10 @@ C'est en vente [LS2 Casque moto FF902 SCOPE SOLID MATT TITANIUM  Titanium  S](ht
 
 ℹ️:
 
-- Ecran anti-buée : Oui (Pinlock inclus)
 - Lunettes solaires intégrées : Oui
-- Ecran anti-rayures : Oui
 - Boucle : Micrométrique
+- Ecran anti-buée : Oui (Pinlock inclus)
+- Ecran anti-rayures : Oui
 - Matière : Polycarbonate
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0826XF3NH/?tag=tolees0d-21)

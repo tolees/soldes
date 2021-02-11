@@ -28,8 +28,8 @@ C'est en vente [Levi s Perfect Tee T-Shirt  Red  Tomato 0082   Medium Femme](htt
 
 ℹ️:
 
+- Coupe classique
 - Écusson avec logo Levis sur la poitrine
 - Conçu pour le confort, la praticité et un style décontracté
-- Coupe classique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TRMSYR9/?tag=tolees0d-21)

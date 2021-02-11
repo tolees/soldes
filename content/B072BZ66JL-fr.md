@@ -28,8 +28,8 @@ Vous avez [Nintendo Switch Paire de manettes Joy-Con gauche vert néon & droite 
 
 ℹ️:
 
-- Un joy-con vert néon (l), un joy-con rose néon (r)
-- Ces manettes permettant de jouer aux logiciels nintendo switch combinent les commandes par boutons à des commandes par mouvements naturelles et intuitives
 - Deux dragonnes joy-con (grises)
+- Ces manettes permettant de jouer aux logiciels nintendo switch combinent les commandes par boutons à des commandes par mouvements naturelles et intuitives
+- Un joy-con vert néon (l), un joy-con rose néon (r)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072BZ66JL/?tag=tolees0d-21)

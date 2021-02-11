@@ -28,9 +28,9 @@ C'est en vente [TMD Friction Services 92283205 Disque de frein](https://www.ama
 
 ℹ️:
 
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- 2 poches passepoilées devant
 - Tissu léger
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- 2 poches passepoilées devant
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079VP8LY1/?tag=tolees0d-21)
