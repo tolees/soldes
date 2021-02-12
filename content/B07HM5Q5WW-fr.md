@@ -29,8 +29,8 @@ C'est en vente [FIBARO Pack de Démarrage du Contrôleur de Chaleur](https://www
 ℹ️:
 
 - Contrôle vocal
-- Paramétrage de scenarios
 - Dimensions de lemballage de larticle ( L x B x H) en cm : 8 x 5 x 8
 - Compatible Apple home kit
+- Paramétrage de scenarios
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HM5Q5WW/?tag=tolees0d-21)
