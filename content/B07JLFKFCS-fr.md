@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Playmobil - Bateau de Sauvetage et Pompi avec 24.72 % rabais '
-date: 2021-02-11 00:42:16
+title: 'Playmobil - Bateau de Sauvetage et Pompi avec 38.87 % rabais '
+date: 2021-02-12 01:47:53
 image: 'https://m.media-amazon.com/images/I/51ssv4NOnWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,28 @@ author: ring
 slug: 'B07JLFKFCS-fr Playmobil - Bateau de Sauvetage et Pompiers - 70147'
 sku: 'B07JLFKFCS-fr'
 tags: [  ]
-actualPrice: 26.34 EUR
+actualPrice: 21.39 EUR
 currency: EUR
-price: 26.34
+price: 21.39
 comparePrice: 34.99 EUR
 prodname: 'Playmobil - Bateau de Sauvetage et Pompiers - 70147'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21'
-descuento: '24.72'
-average: '26.4124096385543'
+descuento: '38.87'
+average: '26.2942352941177'
 ---
 
-C'est en vente [Playmobil - Bateau de Sauvetage et Pompiers - 70147](https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21)  à  24.72 % de réduction, prix final  26.34 EUR (original: 34.99 EUR) ici:
+C'est en vente [Playmobil - Bateau de Sauvetage et Pompiers - 70147](https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21)  à  38.87 % de réduction, prix final  21.39 EUR (original: 34.99 EUR) ici:
 
 [![Playmobil - Bateau de Sauvetage et Pompi](https://m.media-amazon.com/images/I/51ssv4NOnWL._SL200_.jpg)](https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21)
 
 ℹ️:
 
-- Bateau flottant
 - 2 figurines avec accessoires
-- Treuil inclus
 - Toit amovible
+- Bateau flottant
+- Treuil inclus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21)
