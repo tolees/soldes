@@ -28,9 +28,9 @@ Vous avez [Bandai Premier Monchhichi 26 cm-Authentique  SE25515](https://www.ama
 
 ℹ️:
 
+- Monchhichi 26 cm
 - Idéal pour un cadeau de naissance
 - Habillé de son bavoir blanc
-- Monchhichi 26 cm
 - Indispensable pour compléter votre collection Monchhichi
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08C3GGGW4/?tag=tolees0d-21)

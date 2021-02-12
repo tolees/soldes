@@ -28,12 +28,12 @@ Vous avez [Samsung Galaxy M51- Smartphone débloqué 4G - Blanc - Version Franç
 
 ℹ️:
 
-- appareil photo : capteur principal 64 mp, mode portrait 5 mp, capteur ultra grand-angle 12 mp, mode macro 5 mp et capteur frontal 32 mp
-- jusqu’à 512 go avec carte micro sd, mémoire extensible pour photos, musique et plus
-- smartphone android ave système d’exploitation android 10
-- display_size: 6.7 inches
-- ecran : écran infinity-o super amoled fhd+ 6,7 pouces
 - inclus : téléphone portable / adaptateur de voyage / câble de données / outil de retrait de carte sim / carte de garantie
+- jusqu’à 512 go avec carte micro sd, mémoire extensible pour photos, musique et plus
+- appareil photo : capteur principal 64 mp, mode portrait 5 mp, capteur ultra grand-angle 12 mp, mode macro 5 mp et capteur frontal 32 mp
+- display_size: 6.7 inches
+- smartphone android ave système d’exploitation android 10
 - batterie : batterie hors du commun de 7 000 mah compatible charge rapide 25w
+- ecran : écran infinity-o super amoled fhd+ 6,7 pouces
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GPNP8C6/?tag=tolees0d-21)
