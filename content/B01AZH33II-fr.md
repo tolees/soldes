@@ -28,10 +28,10 @@ C'est en vente [New Balance 500 Core  Baskets Homme  Navy/Grey Navy  41.5 EU](ht
 
 ℹ️:
 
-- Semelle intermédiaire et talon en mousse EVA pour amortir les chocs
-- Logo New Balance sur le côté et à larrière
 - Semelle extérieure en caoutchouc
 - Dessus en daim/nylon
 - Type de tissu : textile, matière synthétique
+- Logo New Balance sur le côté et à larrière
+- Semelle intermédiaire et talon en mousse EVA pour amortir les chocs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01AZH33II/?tag=tolees0d-21)
