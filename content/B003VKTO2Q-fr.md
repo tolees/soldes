@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '66.10 % rabais sur Universal Studio Canal Video - Barbie-La'
-date: 2021-02-10 00:09:18
+date: 2021-02-12 13:06:50
 image: 'https://m.media-amazon.com/images/I/51qM1PSbqDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Universal Studio Canal Video'
 buyurl: 'https://www.amazon.fr/dp/B003VKTO2Q/?tag=tolees0d-21'
 descuento: '66.10'
-average: '6.48285714285714'
+average: '6.09624999999999'
 ---
 
 Vous avez [Universal Studio Canal Video - Barbie-La Magie de la Mode](https://www.amazon.fr/dp/B003VKTO2Q/?tag=tolees0d-21)  à  66.10 % de réduction, prix final  3.39 EUR (original: 10.0 EUR) ici:

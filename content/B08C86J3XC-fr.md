@@ -1,33 +1,35 @@
 ---
 layout: post
-title: 'Neuhaus Coffret Cadeau Bleu Festif Choco avec 39.99 % rabais '
-date: 2021-01-19 22:06:39
+title: 'Neuhaus Coffret Cadeau Bleu Festif Choco avec 46.09 % rabais '
+date: 2021-02-12 13:21:37
 image: 'https://m.media-amazon.com/images/I/41liLvqc7FL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B08C86J3XC-fr Neuhaus Coffret Cadeau Bleu Festif Chocolat 860 g'
+sku: 'B08C86J3XC-fr'
 tags: [  ]
-actualPrice: 51.61 EUR
+actualPrice: 46.36 EUR
 currency: EUR
-price: 51.61
+price: 46.36
 comparePrice: 86.0 EUR
 prodname: 'Neuhaus Coffret Cadeau Bleu Festif Chocolat 860 g'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Neuhaus'
 buyurl: 'https://www.amazon.fr/dp/B08C86J3XC/?tag=tolees0d-21'
-descuento: '39.99'
-average: '51.61'
+descuento: '46.09'
+average: '49.86'
 ---
 
-C'est en vente [Neuhaus Coffret Cadeau Bleu Festif Chocolat 860 g](https://www.amazon.fr/dp/B08C86J3XC/?tag=tolees0d-21)  à  39.99 % de réduction, prix final  51.61 EUR (original: 86.0 EUR) ici:
+C'est en vente [Neuhaus Coffret Cadeau Bleu Festif Chocolat 860 g](https://www.amazon.fr/dp/B08C86J3XC/?tag=tolees0d-21)  à  46.09 % de réduction, prix final  46.36 EUR (original: 86.0 EUR) ici:
 
 [![Neuhaus Coffret Cadeau Bleu Festif Choco](https://m.media-amazon.com/images/I/41liLvqc7FL._SL200_.jpg)](https://www.amazon.fr/dp/B08C86J3XC/?tag=tolees0d-21)
 
 ℹ️:
 
-- La sélection idéale pour bien entamer ou terminer un délicieux repas de fête
 - Un coffret cadeau bleu festif à l’ouverture coulissante qui révèle 2 étages contenant chacun 31 de nos pralines les plus intemporelles spécialement sélectionnées par nos Maîtres Chocolatiers
 - Coffret cadeau bleu festif avec un assortiment de 62 pralines au chocolat noir, au lait et blanc
+- La sélection idéale pour bien entamer ou terminer un délicieux repas de fête
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C86J3XC/?tag=tolees0d-21)
