@@ -29,8 +29,8 @@ Vous avez [Wrangler Greensboro Denim Pants Jeans  Bleu  Bright Stroke 91q   46W 
 ℹ️:
 
 - Taille normale
-- 64% coton, 21% polyester, 13% lyocell, 2% élasthanne
-- Fermeture : éclair
 - Lavage en machine, 40° et +
+- Fermeture : éclair
+- 64% coton, 21% polyester, 13% lyocell, 2% élasthanne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BJZ68CX/?tag=tolees0d-21)

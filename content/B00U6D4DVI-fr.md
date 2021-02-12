@@ -28,10 +28,10 @@ Vous avez [3drose PH 203710   1 12 7 cm"Impression de chocolat Lab Portrait" 
 
 ℹ️:
 
-- Dimensions (en cm) : 5 l x 5 W x 1 2/3 h
 - Comprend une haute brillance carrelage en céramique
 - 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Fabriqué à partir de bois massif
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Dimensions (en cm) : 5 l x 5 W x 1 2/3 h
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00U6D4DVI/?tag=tolees0d-21)
