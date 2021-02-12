@@ -28,10 +28,10 @@ C'est en vente [Playmobil - 6978 - Jeu - Bateau de Croisière](https://www.amazo
 
 ℹ️:
 
+- Playmobil Bateau de Croisière avec deux cabines passagers.
 - Ce bateau également des grands espaces pour jouer à lintérieur du bateau.
 - A partir de 3 ans.
 - Gamme Playmobil Family Fun.
 - Contient cinq personnages.
-- Playmobil Bateau de Croisière avec deux cabines passagers.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01EKBCUAW/?tag=tolees0d-21)

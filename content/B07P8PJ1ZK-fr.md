@@ -28,9 +28,9 @@ C'est en vente [Playmobil - Station Essence - 70201](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- comprend des pompes à carburant pour Les voitures et pour Les camions.
 - Le véhicule tout-terrain comprend deux places pour Les personnages.
-- - Le 4X4 est équipé dun crochet dattelage de remorque et dune ouverture de réservoir.
 - Le toit est amovible.
+- - Le 4X4 est équipé dun crochet dattelage de remorque et dune ouverture de réservoir.
+- comprend des pompes à carburant pour Les voitures et pour Les camions.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P8PJ1ZK/?tag=tolees0d-21)
