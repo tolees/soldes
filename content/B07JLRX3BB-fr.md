@@ -28,10 +28,10 @@ C'est en vente [Playmobil - Grand Tracteur avec Remorque - 70131](https://www.am
 
 ℹ️:
 
-- Participe à la vie de la ferme avec tous ces animaux !
-- Convient aux enfants à partir de 4 ans.
 - Dimensions (LxPxH) cm: 59 x 12 x 16
-- Avec son tracteur, le fermier peut transporter de lourdes charges
+- Convient aux enfants à partir de 4 ans.
 - Avec bras mobile et pelle pour le chargement et le déchargement de marchandises. La remorque peut être inclinée (trois positions).
+- Participe à la vie de la ferme avec tous ces animaux !
+- Avec son tracteur, le fermier peut transporter de lourdes charges
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLRX3BB/?tag=tolees0d-21)
