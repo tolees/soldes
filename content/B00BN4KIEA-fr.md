@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '78.70 % rabais sur Jacob Delafon E76090-CP FAIRFAX Mitigeur'
-date: 2021-02-08 09:30:08
+date: 2021-02-12 21:03:26
 image: 'https://m.media-amazon.com/images/I/41-XD0tRRJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Jacob Delafon'
 buyurl: 'https://www.amazon.fr/dp/B00BN4KIEA/?tag=tolees0d-21'
 descuento: '78.70'
-average: '66.985'
+average: '65.088'
 ---
 
 Vous avez [Jacob Delafon E76090-CP FAIRFAX Mitigeur d évier avec bec orientable  Chromé](https://www.amazon.fr/dp/B00BN4KIEA/?tag=tolees0d-21)  à  78.70 % de réduction, prix final  57.5 EUR (original: 270.0 EUR) ici:
@@ -28,9 +28,9 @@ Vous avez [Jacob Delafon E76090-CP FAIRFAX Mitigeur d évier avec bec orientable
 
 ℹ️:
 
-- Chrome brillant et résistant garanti 10 ans
 - Débit 13l/min
 - Installation facile flexibles dalimentation fournis et prémontés. Percement diam. 35mm
 - Nettoyage facile : aérateur anticalcaire
+- Chrome brillant et résistant garanti 10 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BN4KIEA/?tag=tolees0d-21)

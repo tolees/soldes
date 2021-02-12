@@ -29,11 +29,11 @@ Vous avez [Sony Walkman NW-WS413 - Lecteur MP3 Intégré à des Ecouteurs - Etan
 ℹ️:
 
 - Connexions : USB
-- Mode sonore Ambiant Sound : permet dentendre les bruits environnants pour une meilleure sécurité et pour profiter des conversations sans interruption de la musique
 - Configuration système requise: Mac OS X (version 10.6 ou ultérieure), Microsoft Windows 8, Windows Vista (version 2 ou ultérieure), Windows 7 (version 1 ou ultérieure), Windows XP5 (version 3 ou ultérieure)
 - Lecteur MP3 Tout-En-Un avec écouteurs intégrés
-- Téléchargez lapplication casque pour une meilleure sortie audio
 - Etanche à leau salée, à la poussière et au sable (IPX65/68)
 - 12 heures dautonomie. Chargement rapide : 3min pour 1h de musique
+- Mode sonore Ambiant Sound : permet dentendre les bruits environnants pour une meilleure sécurité et pour profiter des conversations sans interruption de la musique
+- Téléchargez lapplication casque pour une meilleure sortie audio
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BBWU834/?tag=tolees0d-21)

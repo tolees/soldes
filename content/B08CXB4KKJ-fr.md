@@ -30,8 +30,8 @@ Vous avez [Proscenic 850T Aspirateur Robot  Aspirateur et Laveur de Sol 2 EN 1  
 
 - 【Aspirer et Laver en même temps】: L’aspirateur robot laveur 850T a deux modes : une aspiration seule ou bien une aspiration accompagnée d’un lavage. Cela, grâce à son conteneur de poussière et deau 2-EN-1
 - 【App & Voix Control】: Programmer et personnaliser vos préférences de nettoyage en tout lieu et à tout moment en utilisant lAPP ProscenicHome. Pour contrôler le robot et profiter pleinement de ses fonctions, utilisez-le à l’aide de vos smartphones sous Android ou iOS. Vous pouvez aussi utiliser les commandes vocales dAlexa et de Google Assistant pour contrôler les fonctions de base
-- 【Bordure magnétique】Avec la bordure magnétique, vous pouvez délimiter une ou plusieurs zones, le robot évitera donc les zones non concernées
 - 【IPNAS 2.0 Système de Nettoyage intelligent】: Grâce au Système de Nettoyage « IPNAS 2.0 » vous pouvez planifier le mode de nettoyage et localiser le robot à l’aide de la cartographie en temps réel
+- 【Bordure magnétique】Avec la bordure magnétique, vous pouvez délimiter une ou plusieurs zones, le robot évitera donc les zones non concernées
 - 【Super aspiration 3000Pa】: Avec la très forte puissance d’aspiration de 3000Pa, l’aspirateur robot 850T aspire facilement : la poussière, les cheveux, les poils d’animaux et les déchets. Avec 3 niveaux réglables, il peut répondre à vos différentes exigences
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CXB4KKJ/?tag=tolees0d-21)
