@@ -28,11 +28,11 @@ C'est en vente [DJI Mavic Mini Combo - Drone Ultra-Léger et Ultra-Transportable
 
 ℹ️:
 
-- Fly App: lapplication DJI Fly vous permet de créer des séquences vidéo en quelques clics. Il comprend également le tutoriel de vol, une fonction qui facilite lutilisation intuitive du Mavic Mini
-- Caractéristiques: DJI Mavic Mini, portable et compact (249G), dans la classe de poids la plus basse et la plus sûre des drones. Une charge complète garantit 30 minutes de vol
-- Commande à distance: La radiocommande permet une liaison vidéo HD jusquà une distance de 2 km. Des sticks de commande amovibles peuvent être placées à lintérieur de la radiocommande
 - Contenu: protection de la caméra, 3x batterie de vol intelligente, télécommande, 3x hélices de rechange, 2x câble micro USB, câble de télécommande (micro USB, USB-C, Lightning), clé de rechange
-- Déroulé : 160 à 202 à 55 mm (L-W-H)
 - Cardan: le Mavic Mini permet des photos aériennes 12MP et des vidéos 2.7K Quad HD. Le cardan motorisé à 3 axes assure une stabilité supérieure de lappareil photo et une prise de vue plus fluide
+- Caractéristiques: DJI Mavic Mini, portable et compact (249G), dans la classe de poids la plus basse et la plus sûre des drones. Une charge complète garantit 30 minutes de vol
+- Déroulé : 160 à 202 à 55 mm (L-W-H)
+- Commande à distance: La radiocommande permet une liaison vidéo HD jusquà une distance de 2 km. Des sticks de commande amovibles peuvent être placées à lintérieur de la radiocommande
+- Fly App: lapplication DJI Fly vous permet de créer des séquences vidéo en quelques clics. Il comprend également le tutoriel de vol, une fonction qui facilite lutilisation intuitive du Mavic Mini
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RJMJ77B/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [LEGO® Architecture Paris Jeu de construction  12 Ans et Plus  6
 
 ℹ️:
 
+- Inclut une sélection de monuments célèbres de Paris, dont l’Arc de Triomphe, les Champs-Elysées, la Tour Montparnasse, le Grand Palais, la Tour Eiffel et le Louvre, ainsi que des zones avec de l’herbe et des arbres
+- Mesure plus de 22 cm de haut, 28 cm de large et 11 cm de profondeur
 - 649 pièces pour les filles et les garçons de 12 ans et plus
 - Les ensembles LEGO Architecture sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Mesure plus de 22 cm de haut, 28 cm de large et 11 cm de profondeur
-- Inclut une sélection de monuments célèbres de Paris, dont l’Arc de Triomphe, les Champs-Elysées, la Tour Montparnasse, le Grand Palais, la Tour Eiffel et le Louvre, ainsi que des zones avec de l’herbe et des arbres
 - Construisez les principaux monuments emblématiques de la ville Paris
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNN147J/?tag=tolees0d-21)

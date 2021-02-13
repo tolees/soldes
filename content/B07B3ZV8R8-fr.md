@@ -28,8 +28,8 @@ Vous avez [Playmobil - Famille et Salon de Noël - 9495](https://www.amazon.fr/d
 
 ℹ️:
 
-- Extinction automatique : après 2 minutes.
 - Le sapin de Noël sallume (nécessite 2 piles AAA de 1,5 V non fournies).
 - Les lumières peuvent être éteintes à tout moment en appuyant à nouveau sur le bouton.
+- Extinction automatique : après 2 minutes.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B3ZV8R8/?tag=tolees0d-21)

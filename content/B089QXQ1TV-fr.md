@@ -28,10 +28,10 @@ C'est en vente [Samsung 870 QVO 1 To 2 5   SATA III SSD interne  MZ-77Q1T0BW ](h
 
 ℹ️:
 
-- Interface: SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
 - Available Capacity: Up to 8 TB
-- Designed for mainstream PCs and laptops for personal, gaming, and business use
-- Form Factor: 2.5 Inch
 - Sequential Read/Write speeds up to 560/530 MB/s respectively; performance varies based on system hardware configuration
+- Form Factor: 2.5 Inch
+- Interface: SATA 6 Gb/s, compatible with SATA 3 Gb/s and SATA 1.5 Gb/s interfaces
+- Designed for mainstream PCs and laptops for personal, gaming, and business use
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089QXQ1TV/?tag=tolees0d-21)

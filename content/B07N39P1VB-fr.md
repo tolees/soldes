@@ -28,10 +28,10 @@ C'est en vente [On-Earz](https://www.amazon.fr/dp/B07N39P1VB/?tag=tolees0d-21)  
 
 ℹ️:
 
-- Blade est un haut-parleur que vous pouvez emporter partout avec sa taille et son poids parfaits : 680 g et 104 x 227 mm
-- Si vous avez un volume faible, rassemblez et écoutez votre musique sur deux haut-parleurs simultanément, profitez dun son deux fois plus puissant
-- Équipé dune batterie de haute capacité, la lame jouera de la musique pendant 16 heures ; un son clair et puissant qui ne vous laissera pas indifférent ; ne manquez pas de plaisir et prenez une lame pour vos moments préférés
 - Profitez dun son qui couvrira lespace dans lequel vous vous trouvez, profitez des sensations avec le haut-parleur Blade 360°
+- Équipé dune batterie de haute capacité, la lame jouera de la musique pendant 16 heures ; un son clair et puissant qui ne vous laissera pas indifférent ; ne manquez pas de plaisir et prenez une lame pour vos moments préférés
 - Diffusez sans fil votre musique depuis votre smartphone, tablette ou tout appareil doté de la technologie Bluetooth jusquà une distance de 10 mètres. Il répondra également à vos appels avec loption mains libres Bluetooth
+- Si vous avez un volume faible, rassemblez et écoutez votre musique sur deux haut-parleurs simultanément, profitez dun son deux fois plus puissant
+- Blade est un haut-parleur que vous pouvez emporter partout avec sa taille et son poids parfaits : 680 g et 104 x 227 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07N39P1VB/?tag=tolees0d-21)
