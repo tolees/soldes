@@ -28,10 +28,10 @@ C'est en vente [BRIKSMAX Kit de LED pour Lego Architecture Trafalgar Square  Com
 
 ℹ️:
 
+- Package contains dot lights, strip light, expansion boards, connecting cables, battery holder(batteries not included), adhesive squares, and instruction.
 - Designed for Lego 21045,with this light kit, you can bring your LEGO Architecture Trafalgar Square from dark to bright, make it come to life.
 - With a step-by-step instruction, you will find an easier way to make a huge upgrade to your favorite building kit.
 - Please note that only LED light set. All LEGO sets showed in images and videos are not included.
 - If you have difficulties with your product, please send us an email, we are always here for assistance.
-- Package contains dot lights, strip light, expansion boards, connecting cables, battery holder(batteries not included), adhesive squares, and instruction.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TYYJC7S/?tag=tolees0d-21)

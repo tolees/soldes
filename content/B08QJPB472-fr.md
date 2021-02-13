@@ -28,10 +28,10 @@ Vous avez [WISCENT - Lecteur DVD pour TV  DVD / CD / MP3 avec Prise USB  Sortie 
 
 ℹ️:
 
-- Télécommande complète incluse (nécessite 2 piles AAA - non incluses)
-- Built-in Port USB, vous permet de lire tous vos médias numériques sur le téléviseur, Remarque: Ce nest pas un lecteur Blu-ray. Ne supporte pas les fichiers au format MP4
-- Compatible avec DIVX / MPEG4 / DVD / DVD-R / DVD + R / DVD + RW / CD / VCD / SVCD / MP3 / CD-R / CD-RW / JPEG / KADAK,Compatible
 - Lecture de DVD et USB
+- Built-in Port USB, vous permet de lire tous vos médias numériques sur le téléviseur, Remarque: Ce nest pas un lecteur Blu-ray. Ne supporte pas les fichiers au format MP4
+- Télécommande complète incluse (nécessite 2 piles AAA - non incluses)
+- Compatible avec DIVX / MPEG4 / DVD / DVD-R / DVD + R / DVD + RW / CD / VCD / SVCD / MP3 / CD-R / CD-RW / JPEG / KADAK,Compatible
 - Lecteur DVD HD compact à 2 canaux avec affichage numérique facile à lire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08QJPB472/?tag=tolees0d-21)

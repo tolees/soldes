@@ -28,9 +28,9 @@ C'est en vente [Playmobil - Camion de Recyclage Poubelle - 70200](https://www.am
 
 ℹ️:
 
-- La cabine comprend deux places pour Les personnages.
+- - Le véhicule est compatible avec la radiocommande réf.6914 (la combinaison avec les anciens modules RC nest PAS possible).
 - - Le bouton sur le gyrophare permet dactiver les effets lumineux (2 piles CR 2032 3V incluses). Arrêt automatique après 3 minutes.
 - Le toit est amovible.
-- - Le véhicule est compatible avec la radiocommande réf.6914 (la combinaison avec les anciens modules RC nest PAS possible).
+- La cabine comprend deux places pour Les personnages.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07P583QGM/?tag=tolees0d-21)

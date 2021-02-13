@@ -28,10 +28,10 @@ C'est en vente [SP Silicon Power - Silicon Power SSD 512Go 3D NAND A55 SLC Cache
 
 ℹ️:
 
-- 3-year warranty. Please register your product via SP official website to get the complete manufacturer warranty services, product support and more
+- Supports TRIM command, Garbage Collection technology, RAID, and ECC Error Checking & Correction to provide the optimized performance and enhanced reliability
 - 3D NAND flash are applied to deliver high transfer speeds
 - Remarkable transfer speeds that enable faster boot up and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan
 - 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks
-- Supports TRIM command, Garbage Collection technology, RAID, and ECC Error Checking & Correction to provide the optimized performance and enhanced reliability
+- 3-year warranty. Please register your product via SP official website to get the complete manufacturer warranty services, product support and more
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KR1GFY5/?tag=tolees0d-21)

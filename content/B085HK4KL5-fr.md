@@ -28,12 +28,12 @@ C'est en vente [Amazon - Nouvel Echo  4e génération   Avec son premium  hub co
 
 ℹ️:
 
-- La maison connectée en toute simplicité : avec le hub intégré, configurez facilement les appareils Zigbee compatibles afin de contrôler les lumières, serrures et capteurs.
-- Restez en contact avec vos proches : passez des appels mains-libres, appelez dautres pièces par Drop In ou annoncez à toute la maison que le dîner est prêt.
-- Laissez le son emplir lespace : grâce au Multiroom pour votre musique, écoutez de la musique en simultané sur plusieurs appareils Echo dans différentes pièces. Vous pouvez également jumeler Echo avec Fire TV et profiter de scènes plus vraies que nature grâce à laudio home cinéma.
 - Contrôlez votre divertissement par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Apple Music, Spotify, Deezer et plus encore. Vous pouvez également écouter des stations de radio, podcasts ou livres audio Audible.
+- Laissez le son emplir lespace : grâce au Multiroom pour votre musique, écoutez de la musique en simultané sur plusieurs appareils Echo dans différentes pièces. Vous pouvez également jumeler Echo avec Fire TV et profiter de scènes plus vraies que nature grâce à laudio home cinéma.
+- Restez en contact avec vos proches : passez des appels mains-libres, appelez dautres pièces par Drop In ou annoncez à toute la maison que le dîner est prêt.
 - Protégez votre vie privée : cette enceinte est dotée de multiples éléments de protection et contrôle de vos informations personnelles, dont un bouton Arrêt microphone vous permettant de déconnecter électroniquement les microphones.
-- Prête à rendre service : demandez à Alexa de jouer de la musique, répondre à des questions, lire les nouvelles, donner la météo, programmer des alarmes, contrôler des appareils connectés compatibles et plus encore.
+- La maison connectée en toute simplicité : avec le hub intégré, configurez facilement les appareils Zigbee compatibles afin de contrôler les lumières, serrures et capteurs.
 - Nouveau look, nouveau son : Echo livre des aigus clairs, des médiums dynamiques et des basses profondes pour un son riche et détaillé qui sadapte automatiquement à nimporte quelle pièce.
+- Prête à rendre service : demandez à Alexa de jouer de la musique, répondre à des questions, lire les nouvelles, donner la météo, programmer des alarmes, contrôler des appareils connectés compatibles et plus encore.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085HK4KL5/?tag=tolees0d-21)
