@@ -28,10 +28,10 @@ Vous avez [ORNII OBJET ROULANT NON IDENTIFIE - Ornii - Gilet Jaune - Dossard Cli
 
 ℹ️:
 
-- Ce clignotant portable à LED dispose dune batterie rechargeable USB, qui peut être chargée simplement en se connectant à votre ordinateur ou grâce à votre chargeur téléphone USB.
-- 5 signaux pour une sécurité maximum et 48 LEDS pour une visibilité maximale.
-- Gilet jaune LED réfléchissant et clignotant pour vélo, vélo électrique, skateboard, trottinette , trottinette électrique, gyroroue et tous autres engin de mobilité urbaine.
 - Très simple à installer, ce gilet de visibilité réfléchissant à LED peut soit s’attacher sur votre sac à dos ou directement sur vous-même, l’accroche est super pratique.
+- Gilet jaune LED réfléchissant et clignotant pour vélo, vélo électrique, skateboard, trottinette , trottinette électrique, gyroroue et tous autres engin de mobilité urbaine.
+- 5 signaux pour une sécurité maximum et 48 LEDS pour une visibilité maximale.
+- Ce clignotant portable à LED dispose dune batterie rechargeable USB, qui peut être chargée simplement en se connectant à votre ordinateur ou grâce à votre chargeur téléphone USB.
 - Peut convenir aux utilisations suivantes : travailleurs sur les voies publiques, dépanneurs, automobilistes, promeneurs à pied, moto, jogging, équitation et beaucoup d’autres encore.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NP6N4MT/?tag=tolees0d-21)
