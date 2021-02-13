@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'James Bond 007-La Collection Daniel Crai avec 50.17 % rabais '
-date: 2021-02-10 06:52:03
+date: 2021-02-13 06:41:06
 image: 'https://m.media-amazon.com/images/I/41iKqa84iFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08C3VLBPV/?tag=tolees0d-21'
 descuento: '50.17'
-average: '41.49'
+average: '41.2757142857143'
 ---
 
 C'est en vente [James Bond 007-La Collection Daniel Craig : Casino Royale + Quantum of Solace + Skyfall + Spectre [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B08C3VLBPV/?tag=tolees0d-21)  à  50.17 % de réduction, prix final  39.99 EUR (original: 80.26 EUR) ici:
