@@ -28,10 +28,10 @@ Vous avez [Premier CASQUE TROPHY OP 9 BM OCRE/MARRON/BLANC S](https://www.amazon
 
 ℹ️:
 
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Boucle double anneau
-- Intérieur: amovible et lavable
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Garantie de 5 ans
+- Intérieur: amovible et lavable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07794RDPH/?tag=tolees0d-21)

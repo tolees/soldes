@@ -28,10 +28,10 @@ C'est en vente [Giasco AC072H39 Tibet Sandale S1P Taille 39 Noir/Bleu](https://w
 
 ℹ️:
 
-- Doublure en tissu hautement respirante et résistante à l’abrasion
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Fermeture avec sangle
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Fermeture avec sangle
 - Sandale, en cuir velours épaisseur 1,8-2,0 mm
+- Doublure en tissu hautement respirante et résistante à l’abrasion
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01EJPOIUO/?tag=tolees0d-21)
