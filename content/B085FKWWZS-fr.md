@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pixar - en Avant avec 64.07 % rabais '
-date: 2021-02-12 01:33:20
+date: 2021-02-13 14:12:28
 image: 'https://m.media-amazon.com/images/I/51W3oPHUEEL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Pixar'
 buyurl: 'https://www.amazon.fr/dp/B085FKWWZS/?tag=tolees0d-21'
 descuento: '64.07'
-average: '11.8201666666667'
+average: '11.7147540983607'
 ---
 
 C'est en vente [Pixar - en Avant](https://www.amazon.fr/dp/B085FKWWZS/?tag=tolees0d-21)  à  64.07 % de réduction, prix final  5.39 EUR (original: 15.0 EUR) ici:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.05 % rabais sur Potensic Dreamer Drones avec caméra 4K p'
-date: 2021-02-12 01:42:28
+date: 2021-02-13 14:00:14
 image: 'https://m.media-amazon.com/images/I/41GcGrf76wL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Potensic'
 buyurl: 'https://www.amazon.fr/dp/B08D8VD1K2/?tag=tolees0d-21'
 descuento: '21.05'
-average: '292.105151515151'
+average: '292.152650602409'
 ---
 
 Vous avez [Potensic Dreamer Drones avec caméra 4K pour Adultes 31 Minutes  GPS RC avec Moteurs sans balais  Retour Automatique à la Maison  Maintien d altitude  Suivez-Moi  WiFi 5.8GHz  Longue portée de contrôle](https://www.amazon.fr/dp/B08D8VD1K2/?tag=tolees0d-21)  à  21.05 % de réduction, prix final  299.99 EUR (original: 379.99 EUR) ici:
