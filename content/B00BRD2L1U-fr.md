@@ -29,9 +29,9 @@ C'est en vente [Toshiba v000181370 composant de Notebook supplémentaire – 
 ℹ️:
 
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Type HD: HD
-- Taille de lécran: 39,6 cm (15.6")
 - Toshiba V000181370. Type: Dsplay
 - 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Type HD: HD
+- Taille de lécran: 39,6 cm (15.6")
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00BRD2L1U/?tag=tolees0d-21)
