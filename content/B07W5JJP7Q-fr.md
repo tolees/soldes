@@ -29,10 +29,10 @@ C'est en vente [Logitech G - Clavier gaming mécanique RVB sans fil LIGHTSPEED G
 ℹ️:
 
 - Construction premium AL-MG – Le clavier G915 TKL présente une conception exceptionnelle avec un alliage daluminium de qualité aéronautique pour offrir un design incroyablement compact tout en restant robuste et résistant.
+- LIGHTSYNC RVB – Le rétroéclairage RVB du clavier se synchronise avec tous types de contenu. Personnalisez chaque touche ou créez des animations personnalisées parmi 16,8 millions de couleurs environ avec le logiciel Logitech G HUB.
+- Switchs mécaniques ultra-plats – La vitesse, la précision et les performances dun switch mécanique tout en étant deux fois plus petit. 3 options disponibles: GL tactile, GL linéaire ou GL Clicky. Le switch GL Clicky présente un retour sonore et tactile distinctif.
 - Technologie sans fil LIGHTSPEED – Vous bénéficiez de performances de niveau professionnel avec la flexibilité et la liberté de la technologie sans fil. Le clavier G915 TKL crée une ambiance élégante pour les installations gaming. Autonomie de 40 heures sur une seule charge.
 - LIGHTSPEED: port USB et Windows7 ou version ultérieure, macOSX 10.11 ou version ultérieure | Bluetooth: appareil compatible Bluetooth avec Windows 8 ou version ultérieure, macOS X 10.11 ou version ultérieure, Chrome OS ou Android 4.3 ou version ultérieure, iOS 10 ou version ultérieure
-- Switchs mécaniques ultra-plats – La vitesse, la précision et les performances dun switch mécanique tout en étant deux fois plus petit. 3 options disponibles: GL tactile, GL linéaire ou GL Clicky. Le switch GL Clicky présente un retour sonore et tactile distinctif.
 - Design compact sans pavé numérique – Design sans pavé numérique pour laisser davantage despace pour bouger la souris. Rangez le récepteur USB à larrière du clavier pour lemporter partout avec vous.
-- LIGHTSYNC RVB – Le rétroéclairage RVB du clavier se synchronise avec tous types de contenu. Personnalisez chaque touche ou créez des animations personnalisées parmi 16,8 millions de couleurs environ avec le logiciel Logitech G HUB.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W5JJP7Q/?tag=tolees0d-21)

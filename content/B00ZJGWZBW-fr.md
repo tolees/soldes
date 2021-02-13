@@ -28,10 +28,10 @@ Vous avez [Emerson - Vertiv Liebert GXT4-3000RT230E - Onduleur  montable sur Rac
 
 ℹ️:
 
+- Vertiv 5 Heure(s) Battery Recharge Time - Scellées au plomb-acide (SLA) - 3 Minute(s) Stand-by Time - 230 V AC Entrée - 200 V AC
+- 220 V AC
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - 208 V AC
-- 220 V AC
-- Vertiv 5 Heure(s) Battery Recharge Time - Scellées au plomb-acide (SLA) - 3 Minute(s) Stand-by Time - 230 V AC Entrée - 200 V AC
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZJGWZBW/?tag=tolees0d-21)

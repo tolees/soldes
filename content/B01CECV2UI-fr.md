@@ -28,10 +28,10 @@ Vous avez [Gems Sensors 156268bspp Rotorflow RFS  commutateur de débit réglabl
 
 ℹ️:
 
-- Faible débit adaptateur fourni pour réduire les flux de plages
-- Viscosité max 45 CST
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Pressions dexploitation pour 14 bar
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Viscosité max 45 CST
+- Pressions dexploitation pour 14 bar
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Faible débit adaptateur fourni pour réduire les flux de plages
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CECV2UI/?tag=tolees0d-21)

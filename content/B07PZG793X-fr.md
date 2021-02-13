@@ -29,9 +29,9 @@ C'est en vente [Baby Annabell  Poupon à Fonctions Annabell 43cm  Sons et mouvem
 ℹ️:
 
 - UN CORPS SOUPLE : le poupon a un corps souple, plus facile à câliner !
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - 770 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - BABY ANNABELL est un poupon à fonctions de 43 cm !
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - POUPON A FONCTIONS : Nombreux sons et mouvements très réalistes : il rit quand on samuse, pleure de vraies larmes, fait des mouvements de bouches quand il tête, et ferme les yeux quand il dort.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PZG793X/?tag=tolees0d-21)
