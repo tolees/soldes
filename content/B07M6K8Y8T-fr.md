@@ -28,11 +28,11 @@ Vous avez [Microsoft Surface Laptop 2  13.5" tactile  Core i5  RAM 8 Go  SSD 256
 
 ℹ️:
 
-- Longue autonomie : jusqu’à 14,5h
-- Léger : seulement 1,25kg
-- 4 couleurs : Platine, Bordeaux, Bleu Cobalt et Noir
-- Ecran tactile PixelSense de 13,5’’
-- Nouveau processeur Intel de 8e Génération
 - Haut-parleurs Omnisonic avec Dolby Audio Premium
+- Léger : seulement 1,25kg
+- Nouveau processeur Intel de 8e Génération
+- 4 couleurs : Platine, Bordeaux, Bleu Cobalt et Noir
+- Longue autonomie : jusqu’à 14,5h
+- Ecran tactile PixelSense de 13,5’’
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M6K8Y8T/?tag=tolees0d-21)
