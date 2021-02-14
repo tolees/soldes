@@ -28,8 +28,8 @@ C'est en vente [Sebago Portland Spinnaker  Chaussures Bateau Hommes  Multicolore
 
 ℹ️:
 
+- Chaussures bateaux Sebago Portland Spinnaker pour homme - Conseil chaussant : choisissez votre pointure habituelle.
 - Homme
 - Tige : Cuir Doublure : Cuir Semelle intérieure : Cuir Semelle extérieure : Gomme
-- Chaussures bateaux Sebago Portland Spinnaker pour homme - Conseil chaussant : choisissez votre pointure habituelle.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q5WH6W3/?tag=tolees0d-21)

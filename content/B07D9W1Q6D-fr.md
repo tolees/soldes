@@ -28,13 +28,13 @@ Vous avez [Krups Nespresso - Nespresso Krups Machine Expresso Vertuo Plus Blanc 
 
 ℹ️:
 
-- Reservoir deau modulable. Arret automatique de la machine : 9 minutes
-- Reconnaissance automatique de la capsule pour une adaptation optimale des paramètres d’extraction du café
-- Un système dextraction exclusif la centrifusion, alliant infusion et force centrifuge pour un café de haute qualité
+- Capsules : 28 varietes de cafe Vertuo dans 5 longueurs de tasses : 40ml, 80ml, 150ml, 230ml, 410ml
 - Un seul bouton pour réaliser un café quelle que soit la longueur de café choisie
+- Reconnaissance automatique de la capsule pour une adaptation optimale des paramètres d’extraction du café
+- 1 machine, 5 tailles de tasse pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à l’Alto, en passant par le Mug
+- Un système dextraction exclusif la centrifusion, alliant infusion et force centrifuge pour un café de haute qualité
+- Reservoir deau modulable. Arret automatique de la machine : 9 minutes
 - Pour les capsules Nespresso Vertuo
 - Ejection automatique des capsules. Overture et fermeture electroniques
-- 1 machine, 5 tailles de tasse pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à l’Alto, en passant par le Mug
-- Capsules : 28 varietes de cafe Vertuo dans 5 longueurs de tasses : 40ml, 80ml, 150ml, 230ml, 410ml
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D9W1Q6D/?tag=tolees0d-21)
