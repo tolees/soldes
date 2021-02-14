@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '25.25 % rabais sur Downton Abbey-L intégrale de la Saga : l'
-date: 2021-02-10 06:51:40
+title: '24.54 % rabais sur Downton Abbey-L intégrale de la Saga : l'
+date: 2021-02-14 06:46:51
 image: 'https://m.media-amazon.com/images/I/41RYpTAOt6L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B08B78STW2-fr Downton Abbey-L intégrale de la Saga : la série et Le Film...'
 sku: 'B08B78STW2-fr'
 tags: [  ]
-actualPrice: 52.49 EUR
+actualPrice: 52.99 EUR
 currency: EUR
-price: 52.49
+price: 52.99
 comparePrice: 70.22 EUR
 prodname: 'Downton Abbey-L intégrale de la Saga : la série et Le Film [Édition Prestige]'
 country: 'fr'
 flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08B78STW2/?tag=tolees0d-21'
-descuento: '25.25'
-average: '57.7950000000002'
+descuento: '24.54'
+average: '57.6293103448278'
 ---
 
-Vous avez [Downton Abbey-L intégrale de la Saga : la série et Le Film [Édition Prestige]](https://www.amazon.fr/dp/B08B78STW2/?tag=tolees0d-21)  à  25.25 % de réduction, prix final  52.49 EUR (original: 70.22 EUR) ici:
+Vous avez [Downton Abbey-L intégrale de la Saga : la série et Le Film [Édition Prestige]](https://www.amazon.fr/dp/B08B78STW2/?tag=tolees0d-21)  à  24.54 % de réduction, prix final  52.99 EUR (original: 70.22 EUR) ici:
 
 [![Downton Abbey-L intégrale de la Saga : l](https://m.media-amazon.com/images/I/41RYpTAOt6L._SL200_.jpg)](https://www.amazon.fr/dp/B08B78STW2/?tag=tolees0d-21)
 
