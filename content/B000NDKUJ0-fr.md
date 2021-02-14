@@ -28,9 +28,9 @@ Vous avez [Bosch 1605411029 Sac à poussière](https://www.amazon.fr/dp/B000NDKU
 
 ℹ️:
 
-- Gamme grise de bosch
-- Sac à poussière
 - Accessoire professionnel pour outillage électroportatif
+- Gamme grise de bosch
 - Pour la compatibilité, veuillez vérifier la description du produit
+- Sac à poussière
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000NDKUJ0/?tag=tolees0d-21)

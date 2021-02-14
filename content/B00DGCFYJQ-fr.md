@@ -28,9 +28,9 @@ Vous avez [Walt Disney France - Merlin l enchanteur [Blu-Ray]](https://www.amazo
 
 ℹ️:
 
-- Langue(s) audio : Français, Anglais
-- Titre : Merlin lEnchanteur
-- Date de sortie marché : Octobre 2013
 - Date de sortie marché : 16 Octobre 2013
+- Langue(s) audio : Français, Anglais
+- Date de sortie marché : Octobre 2013
+- Titre : Merlin lEnchanteur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DGCFYJQ/?tag=tolees0d-21)
