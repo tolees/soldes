@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft Type Cover Signature Surface G avec 35.99 % rabais '
-date: 2021-02-04 12:08:44
+date: 2021-02-14 08:45:29
 image: 'https://m.media-amazon.com/images/I/41yM-8Wg91L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ C'est en vente [Microsoft Type Cover Signature Surface Go Platine  Alcantara  AZ
 ℹ️:
 
 - Compatible avec Surface Go
-- Touches retroéclairées
-- Trackpad en verre grand format. Interface: Magnétique
 - Espacement de touches optimal
 - Ultra-fin
+- Touches retroéclairées
+- Trackpad en verre grand format. Interface: Magnétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNDDBK3/?tag=tolees0d-21)
