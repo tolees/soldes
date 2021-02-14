@@ -28,9 +28,9 @@ C'est en vente [StarTech.com Boîtier Adaptateur en Aluminium pour DD / SSD SATA
 
 ℹ️:
 
-- Points de montage de HDD 3,5 pouces standard
+- Prend en charge les SSD/HDD 2,5 pouces dune hauteur maximale de 12,5 mm
 - Installation sans outil
 - Prend en charge les disques SATA révision I/II/III (1,5/3/6 Gb/s)
-- Prend en charge les SSD/HDD 2,5 pouces dune hauteur maximale de 12,5 mm
+- Points de montage de HDD 3,5 pouces standard
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00H91BXJU/?tag=tolees0d-21)

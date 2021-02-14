@@ -28,12 +28,12 @@ Vous avez [Bosch 2609256C65 Lame plongeante à concrétion carbure AIZ 32 AT met
 
 ℹ️:
 
-- Application pour vis et clous en acier trempé, inox.
+- Bosch 2609256C65 Lame plongeante à concrétion carbure AIZ 32 AT metal 30 x 20 mm accessoire Starlock
+- Précision, régularité de coupe et moins de cassures des dents sur les côtés grâce à la technologie Curved-Tec.
 - Modèle : AIZ 32 AT Largeur x Longueur : 30 x 20 mm.
 - Vibration réduite de la lame pour permettre une coupe précise et contrôlée grâce au support robuste.
 - Accessoire avec système de fixation Starlock pour outils multifonctions. Un système breveté compatible avec la majorité des outils du marché.
-- Bosch 2609256C65 Lame plongeante à concrétion carbure AIZ 32 AT metal 30 x 20 mm accessoire Starlock
+- Application pour vis et clous en acier trempé, inox.
 - Description à améliorer
-- Précision, régularité de coupe et moins de cassures des dents sur les côtés grâce à la technologie Curved-Tec.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GFQJEP0/?tag=tolees0d-21)

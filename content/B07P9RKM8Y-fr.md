@@ -28,8 +28,8 @@ Vous avez [Tommy Hilfiger Heritage Crew Neck Sweatshirt Sweat-Shirt Femme Noir  
 
 ℹ️:
 
-- Broderie Tommy Hilfiger sur la poitrine.
 - Coupe classique.
+- Broderie Tommy Hilfiger sur la poitrine.
 - Coton éponge mélangé.
 - Col rond.
 

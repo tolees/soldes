@@ -28,9 +28,9 @@ Vous avez [Bosch Mandrin excentrique 2609255723 pour visseuse sans fil Bosch IXO
 
 ℹ️:
 
-- Adaptateur de réglage de couple IXO III/IV noir
-- Couleur: noir
 - Pour un réglage précis de la profondeur de vissage
 - Matière: plastique
+- Adaptateur de réglage de couple IXO III/IV noir
+- Couleur: noir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002QZRK6O/?tag=tolees0d-21)

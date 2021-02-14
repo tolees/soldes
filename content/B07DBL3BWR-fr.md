@@ -29,9 +29,9 @@ C'est en vente [SPONTEX - 3 Lavettes Microfibres Mosaik Décorées- Esthétique 
 ℹ️:
 
 - MULTI USAGES : Nos lavette microfibre multi-usages sont idéales pour tous vos nettoyages ménagers
-- UTILISATION : Elles peuvent sutiliser sèches ou humides sur toutes les surfaces, Utilisation sèche pour dépoussiérer, et faire briller ; utilisation humide pour dégraisser et absorber
-- BELLE et EFFICACE : Efficace juste avec de leau, pas besoin de détergent
-- ESTHETIQUE: Jolis motifs design, plus besoin de cacher vos microfibres sous lévier
 - TOUTES SURFACES: Utilisation sur toutes surfaces
+- ESTHETIQUE: Jolis motifs design, plus besoin de cacher vos microfibres sous lévier
+- BELLE et EFFICACE : Efficace juste avec de leau, pas besoin de détergent
+- UTILISATION : Elles peuvent sutiliser sèches ou humides sur toutes les surfaces, Utilisation sèche pour dépoussiérer, et faire briller ; utilisation humide pour dégraisser et absorber
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DBL3BWR/?tag=tolees0d-21)

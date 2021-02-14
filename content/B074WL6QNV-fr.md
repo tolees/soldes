@@ -29,9 +29,9 @@ Vous avez [Esquad - NAKANO Pantalon Jean Renforcé Homme  Bleu  Taille US30](htt
 ℹ️:
 
 - Bouclier anti abrasion sur les fesses, protections en EVA souple
-- Denim stretch
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Coupe droite, 5 poches
+- 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Denim stretch
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074WL6QNV/?tag=tolees0d-21)
