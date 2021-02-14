@@ -28,10 +28,10 @@ Vous avez [Facom 65.32X36SPL Clé Polygonale à cliquet Inclinée 15° spline  A
 
 ℹ️:
 
+- Le dégagement sous le manche permet le passage des doigts ou dun obstacle
 - Angle de reprise à 5° degrés
 - 1 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Mécanisme à cliquet compact et réversible par levier
-- Le dégagement sous le manche permet le passage des doigts ou dun obstacle
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Mécanisme à cliquet compact et réversible par levier
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B011WP6XHK/?tag=tolees0d-21)
