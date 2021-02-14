@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Tefal BBQ Electrique EasyGrill 2en1  210 avec 17.80 % rabais '
-date: 2021-01-20 16:04:32
+date: 2021-02-14 10:43:27
 image: 'https://m.media-amazon.com/images/I/41OdEUfpaqL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B07B47D5PD-fr Tefal BBQ Electrique EasyGrill 2en1 2100 W Barbecue Table...'
+sku: 'B07B47D5PD-fr'
 tags: [  ]
 actualPrice: 81.37 EUR
 currency: EUR
@@ -15,9 +16,10 @@ comparePrice: 98.99 EUR
 prodname: 'Tefal BBQ Electrique EasyGrill 2en1  2100 W  Barbecue Table  Plaque Plancha YY3818FB'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Tefal'
 buyurl: 'https://www.amazon.fr/dp/B07B47D5PD/?tag=tolees0d-21'
 descuento: '17.80'
-average: '79.75571428571428'
+average: '79.9575'
 ---
 
 C'est en vente [Tefal BBQ Electrique EasyGrill 2en1  2100 W  Barbecue Table  Plaque Plancha YY3818FB](https://www.amazon.fr/dp/B07B47D5PD/?tag=tolees0d-21)  à  17.80 % de réduction, prix final  81.37 EUR (original: 98.99 EUR) ici:
@@ -26,13 +28,13 @@ C'est en vente [Tefal BBQ Electrique EasyGrill 2en1  2100 W  Barbecue Table  Pla
 
 ℹ️:
 
-- Facile à nettoyer : 100% amovibles et compatibles lave-vaisselle sauf éléments électriques
-- 2 plaques de cuisson interchangeables : barbecue traditionnel ou plancha
-- Fabriqué en France
-- Utilisable en intérieur comme en extérieur
-- Garantie 2 ans
 - Cuisson saine : bac récepteur avec eau pour limiter fumée et odeurs
-- Thermostat réglable 5 positions
+- 2 plaques de cuisson interchangeables : barbecue traditionnel ou plancha
 - Surface de cuisson 735 cm² en mode barbecue et 680 cm² en mode plancha
+- Garantie 2 ans
+- Fabriqué en France
+- Thermostat réglable 5 positions
+- Utilisable en intérieur comme en extérieur
+- Facile à nettoyer : 100% amovibles et compatibles lave-vaisselle sauf éléments électriques
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07B47D5PD/?tag=tolees0d-21)

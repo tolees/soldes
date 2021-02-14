@@ -28,10 +28,10 @@ Vous avez [DJI Mavic Air - Care Refresh  VIP plan de service pour Mavic Air  Jus
 
 ℹ️:
 
-- Dégâts deau et livraison gratuite - Nous remplacerons votre appareil en cas daccident, même si leau labîme, en prenant en charge les frais dexpédition si vous demeurer dans la région dachat
-- Service téléphonique VIP - Contactez les experts en produits DJI, qui soccuperont de vous en priorité. Nos experts vous conseilleront sur tout ce dont vous avez besoin
-- Support rapide - Bénéficiez dun service prioritaire pour recevoir un appareil de remplacement dans les plus brefs délais. Avec cette aide, vous volerez à nouveau rapidement
 - Vol Express - Nouvelle option vous permettant de sauter le processus dévaluation des dommages et de devis, Le centre de service vous enverra un drone de remplacement dès réception du drone endommagé
+- Support rapide - Bénéficiez dun service prioritaire pour recevoir un appareil de remplacement dans les plus brefs délais. Avec cette aide, vous volerez à nouveau rapidement
+- Service téléphonique VIP - Contactez les experts en produits DJI, qui soccuperont de vous en priorité. Nos experts vous conseilleront sur tout ce dont vous avez besoin
 - Protection complète - Pour un petit supplément, DJI Care Refresh vous offre jusquà deux unités de remplacement neuves ou neuves en termes de performance et de fiabilité
+- Dégâts deau et livraison gratuite - Nous remplacerons votre appareil en cas daccident, même si leau labîme, en prenant en charge les frais dexpédition si vous demeurer dans la région dachat
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BZS7B2Z/?tag=tolees0d-21)
