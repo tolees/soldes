@@ -28,13 +28,13 @@ C'est en vente [Tefal BBQ Electrique EasyGrill 2en1  2100 W  Barbecue Table  Pla
 
 ℹ️:
 
-- Thermostat réglable 5 positions
-- Garantie 2 ans
-- Surface de cuisson 735 cm² en mode barbecue et 680 cm² en mode plancha
-- Facile à nettoyer : 100% amovibles et compatibles lave-vaisselle sauf éléments électriques
-- Cuisson saine : bac récepteur avec eau pour limiter fumée et odeurs
-- Utilisable en intérieur comme en extérieur
-- 2 plaques de cuisson interchangeables : barbecue traditionnel ou plancha
 - Fabriqué en France
+- Garantie 2 ans
+- Cuisson saine : bac récepteur avec eau pour limiter fumée et odeurs
+- Facile à nettoyer : 100% amovibles et compatibles lave-vaisselle sauf éléments électriques
+- 2 plaques de cuisson interchangeables : barbecue traditionnel ou plancha
+- Utilisable en intérieur comme en extérieur
+- Surface de cuisson 735 cm² en mode barbecue et 680 cm² en mode plancha
+- Thermostat réglable 5 positions
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07B47D5PD/?tag=tolees0d-21)
