@@ -28,9 +28,9 @@ C'est en vente [Columbia - Music from Another Dimension](https://www.amazon.fr/d
 
 ℹ️:
 
+- Record Label: Sony
 - Catalog#: 88725 442812
 - Notes: .. Dimension!
-- Record Label: Sony
 - Country Of Release: NLD
 - Year Of Release: 2012
 

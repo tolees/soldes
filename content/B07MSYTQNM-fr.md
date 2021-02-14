@@ -28,11 +28,11 @@ C'est en vente [Fitbit Inspire Hr  Bracelet pour La Forme au Quotidien avec Suiv
 
 ℹ️:
 
+- Syncing requires Bluetooth LE and Internet connection. Windows 10 computers that do not have Bluetooth LE will need a wireless sync dongle in order to sync
+- Sleep Tracking
 - Automatic Exercise Recognition
 - To support you during this difficult time, we’re offering a 90-day free trial of Premium to help you stay active, sleep well and manage stress. Unlock it all in the Fitbit app
 - Reminders to Move, Calorie Burn Tracking
-- Sleep Tracking
 - All-Day Activity Tracking
-- Syncing requires Bluetooth LE and Internet connection. Windows 10 computers that do not have Bluetooth LE will need a wireless sync dongle in order to sync
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MSYTQNM/?tag=tolees0d-21)

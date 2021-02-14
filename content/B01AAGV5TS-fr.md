@@ -28,10 +28,10 @@ C'est en vente [Bosch Professional - Bosch 2609256D57 Aspiration des poussières
 
 ℹ️:
 
-- Description à améliorer
-- Accessoire avec système de fixation Starlock pour outils multifonctions.
 - Bosch 2609256D57 Aspiration des poussières pour PMF250 CES/PMF350 CES accessoire Starlock
 - Adaptateur daspiration pour PMF 220 CE/250 CES/350 CES.
 - Aspirer efficacement les poussières lors de vos ponçages.
+- Accessoire avec système de fixation Starlock pour outils multifonctions.
+- Description à améliorer
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01AAGV5TS/?tag=tolees0d-21)

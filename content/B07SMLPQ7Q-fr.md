@@ -29,9 +29,9 @@ C'est en vente [Philips HC5632/15 Tondeuse Cheveux et Barbe Series 5000 avec Tro
 ℹ️:
 
 - Lames doublement affutées pour une coupe 2 fois plus rapide (DualCut)
-- 100% étanche
 - 28 hauteurs de coupe verrouillables + 1 sabot barbe et 2 sabots cheveux inclus
-- Technologie anti-bourrage : jusquà 80% de bourrage de cheveux en moins (Trim-n-Flow)
 - Mode Turbo : rasage encore plus rapide + Batterie puissante (jusquà 90 min dautonomie pour 1 heure de charge)
+- 100% étanche
+- Technologie anti-bourrage : jusquà 80% de bourrage de cheveux en moins (Trim-n-Flow)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SMLPQ7Q/?tag=tolees0d-21)
