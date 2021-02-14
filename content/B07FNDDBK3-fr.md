@@ -28,10 +28,10 @@ C'est en vente [Microsoft Type Cover Signature Surface Go Platine  Alcantara  AZ
 
 ℹ️:
 
-- Compatible avec Surface Go
-- Espacement de touches optimal
-- Ultra-fin
 - Touches retroéclairées
 - Trackpad en verre grand format. Interface: Magnétique
+- Espacement de touches optimal
+- Compatible avec Surface Go
+- Ultra-fin
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNDDBK3/?tag=tolees0d-21)
