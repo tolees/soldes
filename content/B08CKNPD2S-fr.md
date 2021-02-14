@@ -28,8 +28,8 @@ Vous avez [UniqueMe [2+2 pièces] Verre Trempé et Protection Camera pour Xiaomi
 
 ℹ️:
 
-- [Anti-taches] Xiaomi Redmi Note 9s / Note 9 Pro / Note 9 Pro Max verre trempé permet éviter les taches beaucoup plus efficacement et facilement à nettoyer. Ne laisse aucun résidu après le nettoyage.
 - [Service UniqueMe] Nous pouvons offrir à tous les acheteurs un service après-vente parfait et une réponse rapide dans les 24 heures.
+- [Anti-taches] Xiaomi Redmi Note 9s / Note 9 Pro / Note 9 Pro Max verre trempé permet éviter les taches beaucoup plus efficacement et facilement à nettoyer. Ne laisse aucun résidu après le nettoyage.
 - [Ultra haute dureté 9H] Xiaomi Redmi Note 9s / Note 9 Pro / Note 9 Pro Max protection écran La dureté de surface 9H peut protéger efficacement votre écran contre les rayures indésirables dues à certaines choses.
 - [Spécialement conçu] Protecteur écran Spécialement conçu pour Xiaomi Redmi Note 9s / Note 9 Pro / Note 9 Pro Max de très haute qualité.
 - [Toucher sensible] Ce film protecteur vous offre une vision parfaite et une touche sensible comme sur lécran original.
