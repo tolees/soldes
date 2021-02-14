@@ -28,8 +28,8 @@ C'est en vente [Apple Smart Folio  pour 12.9-inch iPad Pro - 4e génération  -
 
 ℹ️:
 
+- Constitué d’une seule pièce de polyuréthane, le Smart Folio pour iPad Pro protège à la fois l’avant et l’arrière de votre appareil.
 - Il réveille votre iPad Pro dès que vous l’ouvrez, et le remet en veille lorsque vous le rabattez.
 - Vous pouvez facilement plier le Smart Folio de plusieurs façons, afin d’en faire un support idéal pour lire, mais aussi écrire, regarder un film ou passer des appels FaceTime.
-- Constitué d’une seule pièce de polyuréthane, le Smart Folio pour iPad Pro protège à la fois l’avant et l’arrière de votre appareil.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08J5WVTQB/?tag=tolees0d-21)

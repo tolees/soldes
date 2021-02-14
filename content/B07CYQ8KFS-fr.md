@@ -28,9 +28,9 @@ Vous avez [TOUCHBeauty Tondeuse Electrique Pour Sourcils  Oreilles et Nez  Tonde
 
 ℹ️:
 
-- Léger. De la taille dun stylo, compact et pratique — Parfait pour un sac à main ou un sac de voyage ! Alimenté par 1 pile AAA. (non incluse)
 - Garantie de satisfaction du client.Vous êtes complètement couvert par notre GARANTIE de 1 an et notre GARANTIE DE RETOUR de 30 jours. Nhésitez pas à revenir vers nous si vous rencontrez un problème
 - Lames remplaçables. Livré avec deux têtes remplaçables pour une utilisation pratique. Pratique pour enlever les poils du nez, des oreilles, des sourcils, du visage et du corps
+- Léger. De la taille dun stylo, compact et pratique — Parfait pour un sac à main ou un sac de voyage ! Alimenté par 1 pile AAA. (non incluse)
 - Têtes pour couper les poils des sourcils et du nez. Lames doubles de précision en acier inoxydable pour couper confortablement les poils indésirables. Les lames incurvées et hypoallergéniques sont faites en acier inoxydable pour rester tranchantes
 - Design étanche IPX5. Le découpage humide/sec avec le design étanche IPX5 permet une utilisation pratique à tout moment, nimporte où, même dans la douche
 
