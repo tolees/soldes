@@ -29,7 +29,7 @@ Vous avez [Samsung EF-BT830PJEGWW Etui à Rabat pour Tablette Tab S4 Gris](https
 ℹ️:
 
 - Protection des angles renforcée
-- Emplacement S PEN
 - Fonction stand 2 positions
+- Emplacement S PEN
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G3B6NWR/?tag=tolees0d-21)
