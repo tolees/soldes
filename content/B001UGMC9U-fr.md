@@ -28,10 +28,10 @@ C'est en vente [Makita 194622-7 Chargeur pour allume-cigare DC18SE](https://www.
 
 ℹ️:
 
-- Capacité : 3,3 Ah max.
 - Pour batteries lithium-ion 14,4 + 18 V
-- Accessoire original Makita
 - Connexion au véhicule 12 + 24 V
 - Charge rapide en 30 minutes
+- Capacité : 3,3 Ah max.
+- Accessoire original Makita
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001UGMC9U/?tag=tolees0d-21)

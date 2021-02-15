@@ -28,10 +28,10 @@ C'est en vente [Sylvanian Families - Le Village - Les Lits Superposés A 3 Couch
 
 ℹ️:
 
+- Suitable for ages 3 years to 10 years
+- Stimulating imaginative role-play in children
+- Lovely three beds for Sylvanian babies
 - Basic furniture for your Sylvanian family home
 - They can be stacked on top of each other or placed side by side
-- Lovely three beds for Sylvanian babies
-- Stimulating imaginative role-play in children
-- Suitable for ages 3 years to 10 years
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004E1Q7TY/?tag=tolees0d-21)
