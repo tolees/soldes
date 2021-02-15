@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.03 % rabais sur LEGO® Speed Champions Ferrari F40 Compet'
-date: 2021-02-13 13:30:47
+date: 2021-02-15 08:40:22
 image: 'https://m.media-amazon.com/images/I/512aTFlVcDL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FP2KPXC/?tag=tolees0d-21'
 descuento: '44.03'
-average: '15.3456497175141'
+average: '15.3065730337078'
 ---
 
 Vous avez [LEGO® Speed Champions Ferrari F40 Competizione Jeu voiture  7 Ans et Plus  198 Pièces 75890](https://www.amazon.fr/dp/B07FP2KPXC/?tag=tolees0d-21)  à  44.03 % de réduction, prix final  8.39 EUR (original: 14.99 EUR) ici:
@@ -28,10 +28,9 @@ Vous avez [LEGO® Speed Champions Ferrari F40 Competizione Jeu voiture  7 Ans et
 
 ℹ️:
 
-- Inclut une figurine de pilote de course Ferrari
-- 198 pièces pour les filles et les garçons à partir de 7 ans
-- La voiture Ferrari F40 Competizione mesure plus de 4 cm de haut, 13 cm de long et 5 cm de large
-- Construisez la voiture Ferrari F40 Competizione LEGO Speed Champions
-- Les ensembles LEGO Speed Champions sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- 198 pieces – Racing car toy for boys and girls aged 7+ and for fans and kids of all ages
+- Includes a Ferrari racing driver minifigure with a helmet
+- Build, race and display the Ferrari F40 Competizione with a minifigure cockpit, removable windshield, plus interchangeable car spoilers and hoods to turn the Competizione into the classic F40 road car
+- This LEGO Speed Champions Ferrari F40 Competizione 75890 fast car playset can be built together with all other original LEGO building toys and LEGO bricks for creative building
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FP2KPXC/?tag=tolees0d-21)

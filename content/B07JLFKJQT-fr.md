@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Ambulance et Secouristes - 7 avec 20.00 % rabais '
-date: 2021-02-13 13:34:15
+date: 2021-02-15 08:47:14
 image: 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21'
 descuento: '20.00'
-average: '40.0199999999998'
+average: '40.0194642857141'
 ---
 
 C'est en vente [Playmobil - Ambulance et Secouristes - 70049](https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  39.99 EUR (original: 49.99 EUR) ici:
@@ -28,9 +28,9 @@ C'est en vente [Playmobil - Ambulance et Secouristes - 70049](https://www.amazon
 
 ℹ️:
 
-- Le module lumineux et sonore sur le toit nécessite 3 piles de 1,5 V (non fournies)
-- 3 figurines avec de nombreux accessoires.
 - Le bloc décran à lintérieur sillumine Fonctionne avec 1 pile micro 1,5 V
+- Le module lumineux et sonore sur le toit nécessite 3 piles de 1,5 V (non fournies)
 - Avec chaise longue pliable et beaucoup déquipement durgence.
+- 3 figurines avec de nombreux accessoires.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21)

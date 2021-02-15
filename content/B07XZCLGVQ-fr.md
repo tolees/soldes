@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi MI Pump Mini Pompe à air Portable avec 24.14 % rabais '
-date: 2021-02-12 19:39:21
+date: 2021-02-15 08:43:29
 image: 'https://m.media-amazon.com/images/I/31oO38N5TbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.fr/dp/B07XZCLGVQ/?tag=tolees0d-21'
 descuento: '24.14'
-average: '40.2276258992807'
+average: '40.1948936170214'
 ---
 
 C'est en vente [Xiaomi MI Pump Mini Pompe à air Portable Adulte Unisexe  Noir  5](https://www.amazon.fr/dp/B07XZCLGVQ/?tag=tolees0d-21)  à  24.14 % de réduction, prix final  37.92 EUR (original: 49.99 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [Xiaomi MI Pump Mini Pompe à air Portable Adulte Unisexe  Noir  
 
 ℹ️:
 
-- légére et portable
 - Charge via USB
-- écran digital
 - Charge complète de 41 ballons / 8 pneus de vélo
+- écran digital
 - multi-tâches
+- légére et portable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XZCLGVQ/?tag=tolees0d-21)
