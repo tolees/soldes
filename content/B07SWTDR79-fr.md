@@ -28,11 +28,11 @@ C'est en vente [Geox D Sozy G  Sandales Bout Ouvert Femme  Marron  Brown/Lt Bron
 
 ℹ️:
 
-- Dessus : cuir souple
 - Semelle intérieure amovible : false
 - Type de talons : plat
 - Doublure : cuir
-- Matériau de semelle : synthétique
 - Semelle intérieure : cuir
+- Dessus : cuir souple
+- Matériau de semelle : synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SWTDR79/?tag=tolees0d-21)

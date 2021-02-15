@@ -28,10 +28,10 @@ C'est en vente [Playmobil - Bateau de Sauvetage et Pompiers - 70147](https://www
 
 ℹ️:
 
-- With 2 winches aboard, one for the anchor and one for the hook
-- Includes underwater motor
-- Features a floating rescue boat
-- with secret storage compartment on board
 - Lights at the top of the boat rotate and can be moved around
+- with secret storage compartment on board
+- Includes underwater motor
+- With 2 winches aboard, one for the anchor and one for the hook
+- Features a floating rescue boat
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLFKFCS/?tag=tolees0d-21)

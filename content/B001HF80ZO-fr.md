@@ -28,7 +28,7 @@ Vous avez [Pandora - 59702-18HV - Bracelet Femme - Argent 925/1000  18 cm](https
 
 ℹ️:
 
-- IMPORTANT: This product does not come in a Pandora box, the box is sold separately
 - If you add more than 5 charms, select one size larger than your regular size
+- IMPORTANT: This product does not come in a Pandora box, the box is sold separately
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001HF80ZO/?tag=tolees0d-21)
