@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Xiaomi 22847 Purificateur  Blanc  Unique avec 19.20 % rabais '
-date: 2021-02-10 08:36:18
+date: 2021-02-15 21:09:54
 image: 'https://m.media-amazon.com/images/I/41zj5YhpUKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ C'est en vente [Xiaomi 22847 Purificateur  Blanc  Unique](https://www.amazon.fr/
 ℹ️:
 
 - Contrôle à distance via lapplication MI Home
+- Durée du filtre 6-12 mois
 - Filtre HEPA à 3 étapes élimine 99 97 % [3] de la fumée de la poussière domestique des poils danimaux des moisissures du pollen et dautres particules fines de 0 3 microns
 - Compatible avec Alexa et Google Assistant
 - Particles CADR (Clean Air Delivery Rate) 260 m3/h
-- Durée du filtre 6-12 mois
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SHGX7H7/?tag=tolees0d-21)
