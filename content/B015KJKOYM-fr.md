@@ -1,12 +1,13 @@
 ---
 layout: post
 title: 'Love Radius PhysioCarrier - Porte-Bébé - avec 15.33 % rabais '
-date: 2021-01-20 16:27:45
+date: 2021-02-15 19:04:38
 image: 'https://m.media-amazon.com/images/I/411dDk-XK3L._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B015KJKOYM-fr Love Radius PhysioCarrier - Porte-Bébé - Simili Cuir...'
+sku: 'B015KJKOYM-fr'
 tags: [  ]
 actualPrice: 114.3 EUR
 currency: EUR
@@ -15,9 +16,10 @@ comparePrice: 135.0 EUR
 prodname: 'Love Radius PhysioCarrier - Porte-Bébé - Simili Cuir Eléphant - Elephant Poche Bleu Paon'
 country: 'fr'
 flag: '🇫🇷'
+brand: 'Love Radius'
 buyurl: 'https://www.amazon.fr/dp/B015KJKOYM/?tag=tolees0d-21'
 descuento: '15.33'
-average: '114.3'
+average: '117.428571428571'
 ---
 
 C'est en vente [Love Radius PhysioCarrier - Porte-Bébé - Simili Cuir Eléphant - Elephant Poche Bleu Paon](https://www.amazon.fr/dp/B015KJKOYM/?tag=tolees0d-21)  à  15.33 % de réduction, prix final  114.3 EUR (original: 135.0 EUR) ici:
@@ -26,10 +28,10 @@ C'est en vente [Love Radius PhysioCarrier - Porte-Bébé - Simili Cuir Eléphant
 
 ℹ️:
 
-- Rajout dune sangle dorsale de sécurité (Juillet2018) pour la mise au dos ( si cette sangle nest pas presente, veuillez en faire la demande au fournisseur JPMBB
-- Assise physiologique du bébé dès la naissance avec le pack dextension Booster* (*En option : rehausseur et cale-tête)
-- Thermo-ventilation 4 saisons : ouverture par zip
-- Miroir pour regarder bébé porté au dos
-- Ceinture et larges bretelles confortables et respirâtes
+- Mirror to watch baby on the back
+- Addition of a safety back strap (July 2018) for the back (if this strap is not present, please ask JPMBB supplier
+- Comfortable and breathable belt and wide straps
+- 4-season heat ventilation: zip opening
+- Physiological baby seat from birth with Booster Expansion Pack* (*Optional: booster seat and headrest)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B015KJKOYM/?tag=tolees0d-21)
