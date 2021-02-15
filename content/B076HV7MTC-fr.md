@@ -28,10 +28,10 @@ C'est en vente [Lékué - Kit Petits Fours  Plastique  Rouge  30 x 30 x 1 5 cm](
 
 ℹ️:
 
-- 2 rouleaux inclus: rouleau lisse pour découper + rouleau à relief pour décorer la pâte
 - Rapide et facile, en 6 étapes seulement
-- Préparation de 19 petit-four en une seule fois
 - Le découpoir convient pour le lave-vaisselle (Le placer dans le panier supérieur). rouleaux: laver à la main
 - S’adapte à la dimension de la majorité des pâtes du marché
+- Préparation de 19 petit-four en une seule fois
+- 2 rouleaux inclus: rouleau lisse pour découper + rouleau à relief pour décorer la pâte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076HV7MTC/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kingston A2000 - Disque SSD - chiffré -  avec 45.82 % rabais '
-date: 2021-02-15 08:59:18
+date: 2021-02-15 08:59:21
 image: 'https://m.media-amazon.com/images/I/41zd6P+MlLL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [Kingston A2000 - Disque SSD - chiffré - 1 To - interne - M.2 22
 
 ℹ️:
 
-- Les performances NVMe PCIe pour une fraction du coût
 - Idéal pour les Ultrabooks et les PC à petit facteur de forme (SFF)
-- Mettez votre PC à niveau avec des capacités allant jusquà 1To
 - Supporte une suite de sécurité intégrale (TCG Opal, XTS-AES 256 bits, eDrive)
+- Les performances NVMe PCIe pour une fraction du coût
+- Mettez votre PC à niveau avec des capacités allant jusquà 1To
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VXC9QMH/?tag=tolees0d-21)

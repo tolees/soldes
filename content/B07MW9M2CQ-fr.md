@@ -28,12 +28,12 @@ Vous avez [PNY XLR8 CS3030 M.2 NVMe 250GB SSD Interne - Jusqu à 3500 Mo/s](http
 
 ℹ️:
 
+- Consommation électrique plus faible, fonctionnement froid et discret
 - Compatibilité système : Windows 10, Windows 8, Windows 7
 - Vitesse décriture séquentielle maximale: 1,050 MB/s
 - Lecture séquentielle jusqu’à 3 500 Mo/s et écriture séquentielle jusqu’à 3 000 Mo/s
-- Consommation électrique plus faible, fonctionnement froid et discret
+- Stockage fiable
 - Démarrage et lancement des applications plus rapides
 - Meilleures performances système générales
-- Stockage fiable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MW9M2CQ/?tag=tolees0d-21)

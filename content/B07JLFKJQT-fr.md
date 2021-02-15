@@ -30,7 +30,7 @@ C'est en vente [Playmobil - Ambulance et Secouristes - 70049](https://www.amazon
 
 - Le bloc décran à lintérieur sillumine Fonctionne avec 1 pile micro 1,5 V
 - Le module lumineux et sonore sur le toit nécessite 3 piles de 1,5 V (non fournies)
-- Avec chaise longue pliable et beaucoup déquipement durgence.
 - 3 figurines avec de nombreux accessoires.
+- Avec chaise longue pliable et beaucoup déquipement durgence.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21)
