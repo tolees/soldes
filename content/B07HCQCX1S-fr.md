@@ -28,8 +28,8 @@ C'est en vente [Funko - Rock Candy: Game of Thrones: Lady Sansa](https://www.ama
 
 ℹ️:
 
-- Chaque personnage mesure environ 15 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
-- Issue de la gamme Game of Thrones, la figurine Lady Sansa rejoint la collection Funko Rock Candy!
 - Découvrez tous les autres produits Funko dédiés à lunivers Game of Thrones! Collectionnez-les tous!
+- Issue de la gamme Game of Thrones, la figurine Lady Sansa rejoint la collection Funko Rock Candy!
+- Chaque personnage mesure environ 15 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HCQCX1S/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Love Radius PhysioCarrier - Porte-Bébé - Simili Cuir Eléphant
 
 ℹ️:
 
-- Mirror to watch baby on the back
 - Addition of a safety back strap (July 2018) for the back (if this strap is not present, please ask JPMBB supplier
 - Comfortable and breathable belt and wide straps
-- 4-season heat ventilation: zip opening
+- Mirror to watch baby on the back
 - Physiological baby seat from birth with Booster Expansion Pack* (*Optional: booster seat and headrest)
+- 4-season heat ventilation: zip opening
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B015KJKOYM/?tag=tolees0d-21)
