@@ -28,10 +28,10 @@ Vous avez [3dRose Ph 238649 1 Porte-stylo Motif graffiti avec vieux ruban adhés
 
 ℹ️:
 
-- 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Fabriqué à partir de bois massif
 - Comprend une haute brillance carrelage en céramique
+- Fabriqué à partir de bois massif
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 2 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 - Dimensions (en cm) : 5 l x 5 W x 1 2/3 h
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M0SMUJI/?tag=tolees0d-21)

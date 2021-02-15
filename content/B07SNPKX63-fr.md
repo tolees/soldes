@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Amazon - Découvrez Echo Show 8  Restez e avec 38.46 % rabais '
-date: 2021-02-13 14:02:41
+date: 2021-02-15 13:38:13
 image: 'https://m.media-amazon.com/images/I/41jylMKYlqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Amazon'
 buyurl: 'https://www.amazon.fr/dp/B07SNPKX63/?tag=tolees0d-21'
 descuento: '38.46'
-average: '75.8233333333333'
+average: '76.4185714285714'
 ---
 
 C'est en vente [Amazon - Découvrez Echo Show 8  Restez en contact avec l aide d Alexa  Tissu sable](https://www.amazon.fr/dp/B07SNPKX63/?tag=tolees0d-21)  à  38.46 % de réduction, prix final  79.99 EUR (original: 129.99 EUR) ici:
@@ -28,12 +28,12 @@ C'est en vente [Amazon - Découvrez Echo Show 8  Restez en contact avec l aide d
 
 ℹ️:
 
-- Alexa peut vous en montrer plus : grâce à un écran HD de 8" et un son stéréo, Alexa peut vous aider à gérer votre journée en un coup dœil.
+- Conçu pour protéger votre vie privée : déconnectez électroniquement les microphones et la caméra en appuyant sur un bouton. Faites glisser le cache-caméra intégré pour couvrir la caméra.
+- Divertissez-vous : demandez à Alexa de vous montrer des séries, des films ou les nouvelles. Regardez des chaînes TV en direct avec Molotov. Écoutez également des stations de radio, des podcasts et des livres audio.
 - Restez en contact grâce aux appels vidéo et messages : appelez votre famille et vos amis qui possèdent lapplication Alexa ou un appareil Echo doté dun écran. Passez des annonces sur les autres appareils de la maison.
+- Alexa peut vous en montrer plus : grâce à un écran HD de 8" et un son stéréo, Alexa peut vous aider à gérer votre journée en un coup dœil.
 - Personnalisez votre expérience : affichez vos albums photo Amazon à lécran. Personnalisez votre écran daccueil. Créez des routines matinales pour commencer votre journée.
 - Conçu pour sadapter à votre mode de vie : préparez vos plats en suivant des recettes. Mettez facilement à jour vos listes de choses à faire et calendriers. Consultez la météo et létat du trafic avant de sortir.
 - Gérez votre maison connectée : contrôlez les appareils compatibles en utilisant votre voix ou gérez-les sur lécran facile dutilisation. Demandez à Alexa de vous montrer les caméras de sécurité, contrôler les lumières et régler les thermostats.
-- Conçu pour protéger votre vie privée : déconnectez électroniquement les microphones et la caméra en appuyant sur un bouton. Faites glisser le cache-caméra intégré pour couvrir la caméra.
-- Divertissez-vous : demandez à Alexa de vous montrer des séries, des films ou les nouvelles. Regardez des chaînes TV en direct avec Molotov. Écoutez également des stations de radio, des podcasts et des livres audio.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SNPKX63/?tag=tolees0d-21)

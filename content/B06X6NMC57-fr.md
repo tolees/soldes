@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Famille et Barbecue Estival  avec 38.68 % rabais '
-date: 2021-02-12 19:34:35
+date: 2021-02-15 13:35:45
 image: 'https://m.media-amazon.com/images/I/51ylnMUJ3zL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06X6NMC57/?tag=tolees0d-21'
 descuento: '38.68'
-average: '24.3147200000001'
+average: '24.2676984126985'
 ---
 
 C'est en vente [Playmobil - Famille et Barbecue Estival - 9272](https://www.amazon.fr/dp/B06X6NMC57/?tag=tolees0d-21)  à  38.68 % de réduction, prix final  18.39 EUR (original: 29.99 EUR) ici:
