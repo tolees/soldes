@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.17 % rabais sur Warner Bros. - DC Extended Universe - Co'
-date: 2021-02-03 17:56:02
+date: 2021-02-16 11:44:06
 image: 'https://m.media-amazon.com/images/I/518VQioR19L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Warner Bros.'
 buyurl: 'https://www.amazon.fr/dp/B07T3KFF4N/?tag=tolees0d-21'
 descuento: '50.17'
-average: '61.4257142857143'
+average: '61.1088888888889'
 ---
 
 Vous avez [Warner Bros. - DC Extended Universe - Collection 7 films [4K Ultra HD + Blu-ray]](https://www.amazon.fr/dp/B07T3KFF4N/?tag=tolees0d-21)  à  50.17 % de réduction, prix final  60.0 EUR (original: 120.4 EUR) ici:

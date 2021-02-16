@@ -28,9 +28,9 @@ C'est en vente [Philips Lighting - Philips Hue Smart Button bouton télécommand
 
 ℹ️:
 
-- Placez linterrupteur où vous voulez: Le support du bouton connecté peut être facilement fixé avec des vis ou avec son second support adhésif.
 - Application Philips Hue: IOS 11 et versions ultérieures, Android 7.0 et versions ultérieures
 - Bouton connecté et sans fil qui vous permet de régler lintensité lumineuse, dallumer et déteindre vos lumières. Base murale aimantée sans fil avec possibilités de montage multiples avec son deuxième support adhésif.
+- Placez linterrupteur où vous voulez: Le support du bouton connecté peut être facilement fixé avec des vis ou avec son second support adhésif.
 - Nouvel accessoire pour votre éco-système Philips Hue : le bouton connecté vous permet de contrôler léclairage et de varier lintensité lumineuse de votre système Hue et cela sans installation complexe.
 - Couplé à un pont Philips Hue, il est possible en 1 clic dallumer et déteindre vos points lumineux. Une pression de 5 secondes vous permet de passer dun scénario à un autre: détente, lecture, concentration et stimulation, et une pression longue pour varier lintensité lumineuse.
 
