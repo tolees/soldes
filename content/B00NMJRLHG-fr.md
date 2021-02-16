@@ -28,7 +28,7 @@ Vous avez [Devolo 9370 dLAN 1200+  Prise Réseau CPL  1200 Mbit/s  1x Adaptateur
 
 ℹ️:
 
-- Les CPL Magic sont compatibles entre-eux (Magic 1 & Magic 2)
 - Distance de fonctionnement maximum: 400 m
+- Les CPL Magic sont compatibles entre-eux (Magic 1 & Magic 2)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NMJRLHG/?tag=tolees0d-21)

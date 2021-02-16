@@ -28,10 +28,10 @@ C'est en vente [Casque Gamer EKSA E900 Casque PS4 Micro Casque Gaming PC Casque 
 
 ℹ️:
 
-- MICROPHONE ANTIBRUIT: Le microphone du casque gaming E900 a une haute sensibilité, il peut capter efficacement votre voix et réduire le bruit de lenvironnement, lorsque vous communiquer avec dautres joueurs dans le chat vocal. Avec les boutons sur le câble, vous pouvez régler le volume et couper rapidement le micro.
-- QUALITÉ SONORE: Pour vous offrir une expérience de jeu immersive, le casque Gamer E900 a équipé des haut-parleurs de 50 mm. Ils vous offrir des voix claires et des basses puissantes, les pas faibles sont plus faciles à entendre. Ainsi, vous pouvez repérer rapidement la position de lennemi.
-- SERVICE APRÈS VENTE: Votre investissement est entièrement garanti, chaque casque gamer Eksa est fabriqué selon le processus professionnel. Nous avons une garantie de deux ans et un remplacement gratuit pendant 60 jours.
-- COMPATIBILITÉ FORTE: Le casque audio EKSA E900 est compatible avec PS4, Xbox One S/X, Nintendo Switch, Windows. Tous les appareils qui ont une prise jack 3.5mm. Attention: Il nest pas compatible avec la Xbox 360. Les versions plus anciennes de Xbox One nécessitent un adaptateur Microsoft supplémentaire (non inclus).
 - DESIGN ERGONOMIQUE: Après que des centaines dutilisateurs avec différentes formes de tête lont testé, nos casques ont adopté la structure de conception la plus confortable. Les cache-oreilles sont doux et respirants pour toute la journée de port sans se sentir fatigués.
+- QUALITÉ SONORE: Pour vous offrir une expérience de jeu immersive, le casque Gamer E900 a équipé des haut-parleurs de 50 mm. Ils vous offrir des voix claires et des basses puissantes, les pas faibles sont plus faciles à entendre. Ainsi, vous pouvez repérer rapidement la position de lennemi.
+- COMPATIBILITÉ FORTE: Le casque audio EKSA E900 est compatible avec PS4, Xbox One S/X, Nintendo Switch, Windows. Tous les appareils qui ont une prise jack 3.5mm. Attention: Il nest pas compatible avec la Xbox 360. Les versions plus anciennes de Xbox One nécessitent un adaptateur Microsoft supplémentaire (non inclus).
+- SERVICE APRÈS VENTE: Votre investissement est entièrement garanti, chaque casque gamer Eksa est fabriqué selon le processus professionnel. Nous avons une garantie de deux ans et un remplacement gratuit pendant 60 jours.
+- MICROPHONE ANTIBRUIT: Le microphone du casque gaming E900 a une haute sensibilité, il peut capter efficacement votre voix et réduire le bruit de lenvironnement, lorsque vous communiquer avec dautres joueurs dans le chat vocal. Avec les boutons sur le câble, vous pouvez régler le volume et couper rapidement le micro.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DH729VH/?tag=tolees0d-21)

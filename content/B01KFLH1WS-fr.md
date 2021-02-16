@@ -28,11 +28,11 @@ C'est en vente [PNY SSD7CS900-120-PB Disque Flash SSD interne 120 Go SATA III No
 
 ℹ️:
 
-- Garantie 3 ans par le SAV PNY situé en France
-- Idéal pour booster le système et les applications de tous les types dordinateur
-- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
 - Capacité de 120 Go
+- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
+- Idéal pour booster le système et les applications de tous les types dordinateur
 - Format Slim 7 mm
 - Interface Serial ATA III/6 GBPs
+- Garantie 3 ans par le SAV PNY situé en France
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)

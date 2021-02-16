@@ -28,10 +28,10 @@ C'est en vente [LIGE Montre Mode Dames Quartz Imperméable Montres pour Femmes A
 
 ℹ️:
 
-- GARDE-TEMPS PRÉCIS: Mouvement Quartz de haute qualité, fournit un chronométrage précis et précis.
-- Service: il y a un remboursement inconditionnel de 60 jours pendant 2 ans après lachat de la montre.Si vous avez des questions ou nêtes pas satisfait, contactez-nous sur Amazon, nous vous fournirons le meilleur service.
-- Résistance à leau de 50 mètres (5 barres), approprié à la pluie, à la douche froide, au lavage de voiture et à la vie quotidienne imperméable à leau. protéger votre montre de lusure et des rayures.
 - Idée cadeau: Cette montre est bien emballée dans une boîte de montre rose élégante et luxueuse, est un excellent choix de cadeau pour vos proches pour Noël, anniversaire, anniversaire, fête des mères, remise des diplômes et Saint-Valentin, ou en tant que cadeau de travail ou de fête.
+- Service: il y a un remboursement inconditionnel de 60 jours pendant 2 ans après lachat de la montre.Si vous avez des questions ou nêtes pas satisfait, contactez-nous sur Amazon, nous vous fournirons le meilleur service.
+- GARDE-TEMPS PRÉCIS: Mouvement Quartz de haute qualité, fournit un chronométrage précis et précis.
 - Imperméable: résistant à leau jusquà 30 mètres, en général, il résiste aux éclaboussures ou à une brève immersion dans leau. Veuillez ne pas actionner de bouton dans leau.
+- Résistance à leau de 50 mètres (5 barres), approprié à la pluie, à la douche froide, au lavage de voiture et à la vie quotidienne imperméable à leau. protéger votre montre de lusure et des rayures.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VPMSWBG/?tag=tolees0d-21)

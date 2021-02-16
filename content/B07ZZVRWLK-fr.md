@@ -28,14 +28,14 @@ C'est en vente [Amazon - Nouveau Fire TV Stick avec télécommande vocale Alexa 
 
 ℹ️:
 
-- Les membres Amazon Prime bénéficient dun accès illimité à des milliers de films et épisodes de séries.
-- La dernière version de notre appareil de streaming le plus vendu : avec une puissance supérieure de 50 % à celle de Fire TV Stick (modèle 2019) pour un streaming rapide en Full HD. Livré avec la télécommande vocale Alexa dotée des boutons Marche/Arrêt et Volume.
-- TV gratuite : accédez à des films et séries depuis des applications telles que Molotov, ARTE et YouTube.
-- Son home cinéma avec prise en charge de la technologie Dolby Atmos : découvrez des scènes qui prennent vie grâce au son immersif Dolby Atmos (disponible sur certains titres, via une connexion à un système audio compatible).
-- Moins dencombrement, plus de contrôle : la télécommande vocale Alexa vous permet dutiliser votre voix pour rechercher et lancer du contenu à partir de plusieurs applications. Vous pouvez également contrôler la mise sous/hors tension et le volume de votre TV et barre de son, sans télécommande supplémentaire.
-- TV et sport en direct : regardez du contenu en direct avec des abonnements à Molotov, ARTE et France 24.
 - Facile à configurer et discret : branchez-le derrière votre TV, allumez votre TV et connectez-vous à Internet pour commencer la configuration.
-- Des milliers dapplications, de Skills Alexa et de chaînes, dont Prime Video, Netflix, YouTube, Disney+, Molotov, ARTE, France 24, etc. Des frais dabonnement peuvent sappliquer.
+- La dernière version de notre appareil de streaming le plus vendu : avec une puissance supérieure de 50 % à celle de Fire TV Stick (modèle 2019) pour un streaming rapide en Full HD. Livré avec la télécommande vocale Alexa dotée des boutons Marche/Arrêt et Volume.
+- TV et sport en direct : regardez du contenu en direct avec des abonnements à Molotov, ARTE et France 24.
+- Les membres Amazon Prime bénéficient dun accès illimité à des milliers de films et épisodes de séries.
+- Son home cinéma avec prise en charge de la technologie Dolby Atmos : découvrez des scènes qui prennent vie grâce au son immersif Dolby Atmos (disponible sur certains titres, via une connexion à un système audio compatible).
+- TV gratuite : accédez à des films et séries depuis des applications telles que Molotov, ARTE et YouTube.
+- Moins dencombrement, plus de contrôle : la télécommande vocale Alexa vous permet dutiliser votre voix pour rechercher et lancer du contenu à partir de plusieurs applications. Vous pouvez également contrôler la mise sous/hors tension et le volume de votre TV et barre de son, sans télécommande supplémentaire.
 - Écoutez de la musique : écoutez des titres en streaming sur Amazon Music, Spotify, Deezer et bien plus. Des frais dabonnement peuvent sappliquer.
+- Des milliers dapplications, de Skills Alexa et de chaînes, dont Prime Video, Netflix, YouTube, Disney+, Molotov, ARTE, France 24, etc. Des frais dabonnement peuvent sappliquer.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZZVRWLK/?tag=tolees0d-21)
