@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.51 % rabais sur YCCTEAM - Alimentation pour Xbox One   V'
-date: 2021-02-15 13:11:28
+date: 2021-02-16 14:34:47
 image: 'https://m.media-amazon.com/images/I/418K+TxlDNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'YCCTEAM'
 buyurl: 'https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21'
 descuento: '27.51'
-average: '28.79'
+average: '28.8471428571428'
 ---
 
 Vous avez [YCCTEAM - Alimentation pour Xbox One   Version Nouvelle  AC Adaptateur Secteur Brique Bloc pour Xbox One Console](https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21)  à  27.51 % de réduction, prix final  28.99 EUR (original: 39.99 EUR) ici:
@@ -29,9 +29,9 @@ Vous avez [YCCTEAM - Alimentation pour Xbox One   Version Nouvelle  AC Adaptateu
 ℹ️:
 
 - Alimentation pour Xbox One Console, Cette adaptateur est un remplacement parfait pour votre source dalimentation dorigine.
-- Avec des puces intelligentes intégrées, protection contre les surcharges, les surintensités, les courts-circuits, etc.
-- La tension dentrée: AC 100-240V ~ 2A 47-63Hz, la tension de sortie: DC 135W 12V - 17.9A; 5VSB - 1A. Létat de LED: vert-sous tension, orange-en mode veille.
-- Fabriqué avec le matériau de haute qualité, un dissipateur de chaleur en métal et de grands trous de ventilation protègent la sécurité du travail dalimentation, Excellente conception, pas de souci de la dissipation de chaleur.
 - Remarque: Notre alimentation fabriqué par une société tierce, pas par officiel.
+- Avec des puces intelligentes intégrées, protection contre les surcharges, les surintensités, les courts-circuits, etc.
+- Fabriqué avec le matériau de haute qualité, un dissipateur de chaleur en métal et de grands trous de ventilation protègent la sécurité du travail dalimentation, Excellente conception, pas de souci de la dissipation de chaleur.
+- La tension dentrée: AC 100-240V ~ 2A 47-63Hz, la tension de sortie: DC 135W 12V - 17.9A; 5VSB - 1A. Létat de LED: vert-sous tension, orange-en mode veille.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07QZR9ZM8/?tag=tolees0d-21)

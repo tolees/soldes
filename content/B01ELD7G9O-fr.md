@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Puma 9 pair Sport Socks Tennis Socks Gr. avec 17.15 % rabais '
-date: 2021-02-15 08:59:38
+date: 2021-02-16 14:22:38
 image: 'https://m.media-amazon.com/images/I/31-2iNxDTpL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.fr/dp/B01ELD7G9O/?tag=tolees0d-21'
 descuento: '17.15'
-average: '21.0455263157895'
+average: '20.98625'
 ---
 
 C'est en vente [Puma 9 pair Sport Socks Tennis Socks Gr. 35-49 Unisex  Farben:200 - black  Socken & Strümpfe:39-42](https://www.amazon.fr/dp/B01ELD7G9O/?tag=tolees0d-21)  à  17.15 % de réduction, prix final  19.86 EUR (original: 23.97 EUR) ici:
