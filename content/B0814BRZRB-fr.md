@@ -28,9 +28,9 @@ Vous avez [Columbia Inner Limits II  Veste Imperméable  Homme  Ancient Fossil  
 
 ℹ️:
 
-- Veste de pluie pour homme, idéale pour les aventures urbaines et de plein air
-- Contenu : 1 x Columbia Inner Limits II, Veste Imperméable, Homme, Polyester, Ancient Fossil, Coll Navy, Stone Green, M, Art. 1893991
 - Système daération sous les bras pour le confort, Deux poches chauffe-main zippées et poche intérieure sécurisée pour garder vos affaires en toute sécurité
+- Contenu : 1 x Columbia Inner Limits II, Veste Imperméable, Homme, Polyester, Ancient Fossil, Coll Navy, Stone Green, M, Art. 1893991
+- Veste de pluie pour homme, idéale pour les aventures urbaines et de plein air
 - Capuche intégrée réglable avec protège-menton, Poignets adaptables et cordon de serrage à la taille pour un ajustement optimal et une protection maximale contre la pluie
 - Hautement imperméable et respirante grâce à la technologie Omni-Tech avec coutures étanches
 

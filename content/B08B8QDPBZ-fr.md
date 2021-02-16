@@ -28,8 +28,8 @@ Vous avez [Don Papa Baroko  70cL](https://www.amazon.fr/dp/B08B8QDPBZ/?tag=tolee
 
 ℹ️:
 
-- Fabriqué aux Philippines
 - Vieilli sur place dans des fûts de chêne
 - Spirit drink à déguster tel quel ou en cocktail
+- Fabriqué aux Philippines
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B8QDPBZ/?tag=tolees0d-21)

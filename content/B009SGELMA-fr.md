@@ -28,10 +28,10 @@ C'est en vente [Lechuza Trio Cottage 30 Jardinière à réserve d eau avec syst�
 
 ℹ️:
 
-- 4 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Fragile:oui
 - Dimension : (H x L x l) :1732.28 x51.18 x1653.54 pouces
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Poids:48.83 livres
+- 4 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Fragile:oui
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B009SGELMA/?tag=tolees0d-21)
