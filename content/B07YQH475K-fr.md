@@ -28,9 +28,9 @@ C'est en vente [Funko - Pop! Star Wars The Rise of Skywalker - Dark Rey](https:/
 
 ℹ️:
 
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
-- Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker ! Collectionnez-les tous!
-- Issue de la gamme Star Wars The Rise of Skywalker , la figurine Dark Rey rejoint la collection Funko POP!
 - Funko POP! Figurine en vinyle est le jouet 2018 de lannée
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Issue de la gamme Star Wars The Rise of Skywalker , la figurine Dark Rey rejoint la collection Funko POP!
+- Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker ! Collectionnez-les tous!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YQH475K/?tag=tolees0d-21)

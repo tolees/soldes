@@ -28,12 +28,12 @@ Vous avez [Livoo DOP101 Machine à Pâtes Fraîches  180 W  Vert  Rouge  Blanc](
 
 ℹ️:
 
-- Pour 400 g de farine
-- Passage du mode pétrissage au mode extrusion grâce à linterrupteur
-- Livré avec 10 disques et 1 bol doseur
-- Cuve de pétrissage transparente pour visualiser la consistance de la pâte
-- 10 formes de pâtes : spaghetti, rigatoni, tagliatelle, linguine, fettuccini, oriental, "angel hair", lasagne, tortellini, cookie
 - Pieds antidérapants
 - Couvercle transparent
+- Passage du mode pétrissage au mode extrusion grâce à linterrupteur
+- 10 formes de pâtes : spaghetti, rigatoni, tagliatelle, linguine, fettuccini, oriental, "angel hair", lasagne, tortellini, cookie
+- Cuve de pétrissage transparente pour visualiser la consistance de la pâte
+- Pour 400 g de farine
+- Livré avec 10 disques et 1 bol doseur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IM8ZU2U/?tag=tolees0d-21)

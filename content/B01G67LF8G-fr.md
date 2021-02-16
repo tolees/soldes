@@ -28,14 +28,14 @@ Vous avez [NETGEAR Répéteur WiFi Mesh  EX7300   Amplificateur WiFi AC2200  WiF
 
 ℹ️:
 
-- Utilisez lapplication NETGEAR WiFi Analyzer pour une localisation optimale
-- WIFI STABLE ET FLUIDE : wifi stable et fluide quand vous vous déplacez dans la maison
-- SECURITE : prend en charge les protocoles de sécurité sans fil WEP et WPA / WPA2
-- SIMPLE A LINSTALLATION : appuyez sur le bouton WPS pour vous connecter à votre routeur
-- PORT ETHERNET FILAIRE : pour brancher des consoles de jeu, des lecteurs streaming ou tout autre appareil câblé à proximité à laide des ports 5 Gigabit pour une vitesse maximum
-- Smart Roaming ou itinérance transparente : utilise le nom SSID de votre réseau existant afin que vous ne soyez jamais déconnecté lorsque vous vous déplacez chez vous ou au bureau
 - Connecte jusquà 35 périphériques tels que des PC, des smartphones, des enceintes, des caméras IP, des tablettes, etc
 - COMPATIBILITE UNIVERSELLE : fonctionne avec n’importe quel Box, routeur, passerelle ou modem câble sans fil avec Wi-Fi
+- PORT ETHERNET FILAIRE : pour brancher des consoles de jeu, des lecteurs streaming ou tout autre appareil câblé à proximité à laide des ports 5 Gigabit pour une vitesse maximum
+- SIMPLE A LINSTALLATION : appuyez sur le bouton WPS pour vous connecter à votre routeur
+- WIFI STABLE ET FLUIDE : wifi stable et fluide quand vous vous déplacez dans la maison
+- SECURITE : prend en charge les protocoles de sécurité sans fil WEP et WPA / WPA2
+- Smart Roaming ou itinérance transparente : utilise le nom SSID de votre réseau existant afin que vous ne soyez jamais déconnecté lorsque vous vous déplacez chez vous ou au bureau
+- Utilisez lapplication NETGEAR WiFi Analyzer pour une localisation optimale
 - WiFi extender bi-bande jusquà 2,2 Gbps
 - Vitesse wi-fi ac2200 : performances allant jusquà 2200 Mbps en utilisant la technologie Dual Band brevetée FastLane Technologie idéal pour le streaming HD ou les jeux en ligne
 
