@@ -28,11 +28,11 @@ Vous avez [DJI Osmo Mobile 3 Prime Combo - Kit Stabilisateur de Cardan 3 Axes av
 
 ℹ️:
 
-- OPTION EXPRESS : Fournit deux unités de remplacement en un an en échange de frais supplémentaires minimes et couvre une grande variété d’accidents, dus à leau, à une collision ou à toute autre raison
+- POIGNÉE ERGONOMIQUE : Grâce à son design intelligent, l’Osmo Mobile 3 peut être tenu pendant de longues heures, Sa poignée qui est très confortable s’adapte parfaitement à la paume de main, vous permettant de créer sans limites
+- CONTENU : Osmo Mobile 3 (Batterie Intelligente intégrée), Poignée Trépied Osmo, Mallette de Transport, Câble dalimentation, Sac de Rangement, Dragonne, 4x Plaquettes Antidérapantes + Care Refresh
+- ACTIVETRACK 3.0 : Appuyez simplement sur la gâchette, faites un geste ou sélectionnez un sujet sur votre smartphone pour commencer le suivi, ActiveTrack 3.0 intègre des algorithmes de Deep Learning et de vision par ordinateur
 - MONTAGE ET PARTAGE INSTANTANÉS : Après avoir personnalisé votre vidéo à laide d’une variété de modèles de musique, d’effets de transition et de filtres, partagez-la instantanément sur les plateformes de vidéos en ligne et sur les réseaux sociaux
 - Batterie - Type: 18650 Li-ion | Capacité: 2450 mAh
-- CONTENU : Osmo Mobile 3 (Batterie Intelligente intégrée), Poignée Trépied Osmo, Mallette de Transport, Câble dalimentation, Sac de Rangement, Dragonne, 4x Plaquettes Antidérapantes + Care Refresh
-- POIGNÉE ERGONOMIQUE : Grâce à son design intelligent, l’Osmo Mobile 3 peut être tenu pendant de longues heures, Sa poignée qui est très confortable s’adapte parfaitement à la paume de main, vous permettant de créer sans limites
-- ACTIVETRACK 3.0 : Appuyez simplement sur la gâchette, faites un geste ou sélectionnez un sujet sur votre smartphone pour commencer le suivi, ActiveTrack 3.0 intègre des algorithmes de Deep Learning et de vision par ordinateur
+- OPTION EXPRESS : Fournit deux unités de remplacement en un an en échange de frais supplémentaires minimes et couvre une grande variété d’accidents, dus à leau, à une collision ou à toute autre raison
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DG6H28J/?tag=tolees0d-21)

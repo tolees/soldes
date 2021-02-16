@@ -28,12 +28,12 @@ C'est en vente [Quadiva G! Collier pour femme avec chaîne et pendentif cœur  c
 
 ℹ️:
 
-- Cristaux blancs
 - Resplendissez avec ce bijou fantaisie Quadiva orné de cristaux Swarovski de qualité supérieure.
-- Un accroche-regard étincelant
-- Le collier pour femme avec pendentif en forme de cœur de couleur or rose attire tous les regards.
-- Le cadeau idéal
 - Un bijou élégant !
+- Le cadeau idéal
+- Cristaux blancs
+- Le collier pour femme avec pendentif en forme de cœur de couleur or rose attire tous les regards.
+- Un accroche-regard étincelant
 - Longueur de la chaîne : 45 cm. Plaqué or 18 carats.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JMCKB9L/?tag=tolees0d-21)

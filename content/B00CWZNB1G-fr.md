@@ -28,8 +28,8 @@ C'est en vente [Kärcher 2.645-165.0 raccord  Noir  Jaune](https://www.amazon.fr
 
 ℹ️:
 
+- Compartiment pour gants et raccords
 - Très robuste
 - Support pour lancia
-- Compartiment pour gants et raccords
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CWZNB1G/?tag=tolees0d-21)
