@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A51 - débloqué 4G  6 5 po avec 20.23 % rabais '
-date: 2021-02-15 08:34:41
+date: 2021-02-16 09:45:02
 image: 'https://m.media-amazon.com/images/I/41TH0UtWaqL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B082WFVKL7/?tag=tolees0d-21'
 descuento: '20.23'
-average: '267.826370967741'
+average: '267.699359999999'
 ---
 
 C'est en vente [Samsung Galaxy A51 - débloqué 4G  6 5 pouces - 128 Go - android  - bleu](https://www.amazon.fr/dp/B082WFVKL7/?tag=tolees0d-21)  à  20.23 % de réduction, prix final  251.95 EUR (original: 315.83 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [Samsung Galaxy A51 - débloqué 4G  6 5 pouces - 128 Go - androi
 
 ℹ️:
 
-- DES SELFIES PARFAITS - Capteur Frontal 32 MP
 - UN PUISSANT CAPTEUR PRINCIPAL - 48 MP pour des photos nettes
 - QUADRUPLE CAPTEUR PHOTO - Mode Macro + Ultra Grand Angle
 - ÉCRAN INFINITY-O - 6,5’’ Super AMOLED
 - Batterie charge rapide 4000 mAh
+- DES SELFIES PARFAITS - Capteur Frontal 32 MP
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082WFVKL7/?tag=tolees0d-21)

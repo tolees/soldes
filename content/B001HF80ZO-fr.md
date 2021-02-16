@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.01 % rabais sur Pandora - 59702-18HV - Bracelet Femme - '
-date: 2021-02-15 08:43:04
+date: 2021-02-16 09:12:09
 image: 'https://m.media-amazon.com/images/I/41dQWaOvQbL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Vous avez [Pandora - 59702-18HV - Bracelet Femme - Argent 925/1000  18 cm](https
 
 ℹ️:
 
-- If you add more than 5 charms, select one size larger than your regular size
-- IMPORTANT: This product does not come in a Pandora box, the box is sold separately
+- Bijou Femme en Argent 925/1000
+- La taille est sans fermeture
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001HF80ZO/?tag=tolees0d-21)

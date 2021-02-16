@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Oblivion [4K Ultra HD + Blu-Ray-Édition  avec 18.92 % rabais '
-date: 2021-02-09 13:04:41
+date: 2021-02-16 09:42:00
 image: 'https://m.media-amazon.com/images/I/516AnXr6clL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08JGW4VT9/?tag=tolees0d-21'
 descuento: '18.92'
-average: '24.39'
+average: '26.3257142857143'
 ---
 
 C'est en vente [Oblivion [4K Ultra HD + Blu-Ray-Édition boîtier SteelBook]](https://www.amazon.fr/dp/B08JGW4VT9/?tag=tolees0d-21)  à  18.92 % de réduction, prix final  24.39 EUR (original: 30.08 EUR) ici:

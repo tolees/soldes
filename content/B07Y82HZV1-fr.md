@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ubit Carte Réseau PCI-E AX WiFi 6 sans F avec 20.02 % rabais '
-date: 2021-02-15 08:46:35
+date: 2021-02-16 09:31:56
 image: 'https://m.media-amazon.com/images/I/416FlLUX-zL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Ubit Carte Réseau PCI-E AX WiFi 6 sans Fil 2974 Mbps| Bluetooth
 
 ℹ️:
 
-- \\ 5.0 version bluetooth //Bluetooth 5.0 vous offre une puissante connexion sans fil de données entre votre ordinateur et des dispositifs compatibles avec bluetooth (par exemple, casques d’écoute, souris, clavier, haut-parleur, téléphone portable, etc.), une productivité accrue et un flux de travail ininterrompu.
-- \\ Cryptage avancé // est possible de naviguer en toute sécurité sur le WiFi à grande vitesse pour le protéger des hackers et des logiciels malveilleurs grâce au cryptage avancé 64 bits et 128-bit WEP, TKIP, 128-bit aes-ccmp et 256-bit aes-gcmp.
-- \\WiFi 6 (802.11ax) wi-fi certification// Grâce à la mise en œuvre de la nouvelle norme 802.11ax, qui présente des caractéristiques uniques telles que l’ofdma, 1024QAM, le temps d’attente ciblé (TWT) et le multiplexage spatial, la carte WiFi wi-fi Ubit Fi 6 AX200 permet une distribution aisée de vidéos à haute résolution, réduit les interruptions de connexion et accélère encore les connexions dans les routeurs et les environnements denses.
-- \\La vitesse maximale est de 2,4 Gbps//Les vitesses de la prochaine génération allant jusqu’à 2,4 Gbps (2402 Mbps à 5 GHz ou 574 Mbps à 2,4 GHz) réduisent les retards, de sorte que vous pouvez jouer en temps réel avec des jeux hyper-réactifs, des vidéo-appels ou une expérience VR immersive.
-- Si vous n’avez pas de CD ou si vous avez des difficultés avec le CD, veuillez visiter «www.evisionde.com» ou obtenir un soutien en envoyant un courrier électronique à l’adresse Ubit@evisionde.com.
+- If you do not have a CD Rom or having difficulty with the CD please visit "www.evisionde.com" or get support by sending email at Ubit@evisionde.com
+- \\ 5.0 Bluetooth Version // Bluetooth 5.0 gives you powerful wireless data connectivity between your computer and Bluetooth enabled devices such as headphones, mouse, keyboard, speaker, cellphone, and more, allowing for seamless connectivity, better productivity, and an uninterrupted workflow.
+- \\ WiFi 6 (802.11ax) Wi-Fi Certified// By implementing the new 802.11ax standard, with its unique features such as OFDMA, 1024QAM, Target Wake Time (TWT), and spatial reuse, the Ubit Wi-Fi 6 AX200 WiFi card enables smooth streaming of high resolution videos, fewer dropped connections, and faster connections farther away from the router and in dense environments.
+- \\ 2.4Gbps Max Speed // Next-gen speeds up to 2.4Gbps (2402 Mbps on 5 GHz or 574 Mbps on 2 4 GHz) reduce lag so you can enjoy ultra-responsive real-time gaming, video call or an immersive VR experience.
+- \\ Advanced Encryption // Browse safely knowing that your high-speed WiFi is protected from hackers and malware via advanced 64-bit and 128-bit WEP, TKIP, 128-bit AES-CCMP, 256-bit AES-GCMP encryption.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y82HZV1/?tag=tolees0d-21)
