@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '57.90 % rabais sur Deep Silver - Metro Exodus - Edition Lim'
-date: 2021-02-15 13:10:08
+date: 2021-02-16 19:56:16
 image: 'https://m.media-amazon.com/images/I/51uqRrGbh9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Vous avez [Deep Silver - Metro Exodus - Edition Limitée Aurora](https://www.ama
 ℹ️:
 
 - Lédition Limitée Aurora contient :
-- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Steelbook exclusif
-- 440 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
 - Artbook « The World of Metro »
+- 440 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GPK2SFT/?tag=tolees0d-21)
