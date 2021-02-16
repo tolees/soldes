@@ -28,8 +28,8 @@ C'est en vente [Funko POP Advent Calendar: Dragon Ball Z  49660  Multicolore](ht
 
 ℹ️:
 
-- 24 surprises tous les jours jusquau jour de Noël
 - Calendrier de lAvent Funko Pocket POP Dragon Ball Z
+- 24 surprises tous les jours jusquau jour de Noël
 - Funko POP! Est le jouet de lannée Peoples Choice 2018
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084R1RPQM/?tag=tolees0d-21)
