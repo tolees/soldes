@@ -28,14 +28,14 @@ C'est en vente [Pentax K-70 Reflex Numérique + Objectif DA 18-135mm WR - Noir](
 
 ℹ️:
 
+- Processeur PRIME MII avec un nouveau Circuit Accélérateur
+- Pentax K-70 Black DA 18-135WR kit
+- Réduction du bruit, sensibilité élevée jusqu’à 102 400 ISO / Pixel Shift Resolution avec correction de mouvement
+- Capteur CMOS 24 MP au format APS-C sans filtre passe-bas
+- Inclus : Pentax K-70 + Objectif DA 18-135 WR
 - Appareil photo Reflex
 - Marque Pentax
 - Résiste à la poussière, aux intempéries et au froid jusqu’à -10 °C
-- Capteur CMOS 24 MP au format APS-C sans filtre passe-bas
-- Pentax K-70 Black DA 18-135WR kit
-- Inclus : Pentax K-70 + Objectif DA 18-135 WR
-- Processeur PRIME MII avec un nouveau Circuit Accélérateur
-- Réduction du bruit, sensibilité élevée jusqu’à 102 400 ISO / Pixel Shift Resolution avec correction de mouvement
 - Kit 18-135
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01HMHHOJI/?tag=tolees0d-21)
