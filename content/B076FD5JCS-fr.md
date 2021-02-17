@@ -28,10 +28,10 @@ C'est en vente [Donic-Schildkröt Table de Ping Pong Midi XL  120 x 70 x 68 cm  
 
 ℹ️:
 
-- Cest une alternative amusante et stimulante aux tables ordinaires. Il égayera la prochaine garden-party ou louverture de lappartement. Il est également parfait comme cadeau
-- La nouvelle table de ping-pong Midi XL de Schildkröt, avec une surface de jeu de 120x70x68cm, na que 1/4 de la taille dune table de ping-pong normale. Construction très stable
+- Panneau MDF bleu pour un très bon comportement de saut de la balle. Il comprend un filet facile à assembler. Attention: la plaque nest pas étanche, après un jeu au extérieur, placez dans un endroit sec!
 - Base et pieds en acier - tubes de 25 mm, très stables, avec revêtement en poudre bleu clair; pieds réglables en hauteur individuellement, donc ce nest pas un problème pour installer sur un sol irrégulier
 - Cettes dimensions permettent le plaisir du tennis de table même lorsque lespace ne serait normalement pas suffisant, comme par exemple à la maison. La table se glisse facilement à derrière de la porte, sous le lit ou au sous-sol
-- Panneau MDF bleu pour un très bon comportement de saut de la balle. Il comprend un filet facile à assembler. Attention: la plaque nest pas étanche, après un jeu au extérieur, placez dans un endroit sec!
+- La nouvelle table de ping-pong Midi XL de Schildkröt, avec une surface de jeu de 120x70x68cm, na que 1/4 de la taille dune table de ping-pong normale. Construction très stable
+- Cest une alternative amusante et stimulante aux tables ordinaires. Il égayera la prochaine garden-party ou louverture de lappartement. Il est également parfait comme cadeau
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076FD5JCS/?tag=tolees0d-21)
