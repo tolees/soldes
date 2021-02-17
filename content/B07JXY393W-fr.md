@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s 724 High Rise Straight Jeans  to  avec 27.52 % rabais '
-date: 2021-02-11 19:07:37
+date: 2021-02-17 02:22:12
 image: 'https://m.media-amazon.com/images/I/31h+44wJoML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Levis'
 buyurl: 'https://www.amazon.fr/dp/B07JXY393W/?tag=tolees0d-21'
 descuento: '27.52'
-average: '73.2866666666667'
+average: '73.2405714285714'
 ---
 
 C'est en vente [Levi s 724 High Rise Straight Jeans  to The Nine  34W / 32L Femme](https://www.amazon.fr/dp/B07JXY393W/?tag=tolees0d-21)  à  27.52 % de réduction, prix final  72.48 EUR (original: 100.0 EUR) ici:
