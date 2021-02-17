@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Xiaomi Mi Smart Compact Projector avec 16.69 % rabais '
-date: 2021-02-16 20:14:20
+title: 'Xiaomi Mi Smart Compact Projector avec 21.54 % rabais '
+date: 2021-02-17 22:03:10
 image: 'https://m.media-amazon.com/images/I/51SJgIDodML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,30 +9,30 @@ author: ring
 slug: 'B0823BTNYV-fr Xiaomi Mi Smart Compact Projector'
 sku: 'B0823BTNYV-fr'
 tags: [  ]
-actualPrice: 499.0 EUR
+actualPrice: 469.99 EUR
 currency: EUR
-price: 499.0
+price: 469.99
 comparePrice: 599.0 EUR
 prodname: 'Xiaomi Mi Smart Compact Projector'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21'
-descuento: '16.69'
-average: '499.0'
+descuento: '21.54'
+average: '496.362727272727'
 ---
 
-C'est en vente [Xiaomi Mi Smart Compact Projector](https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21)  à  16.69 % de réduction, prix final  499.0 EUR (original: 599.0 EUR) ici:
+C'est en vente [Xiaomi Mi Smart Compact Projector](https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21)  à  21.54 % de réduction, prix final  469.99 EUR (original: 599.0 EUR) ici:
 
 [![Xiaomi Mi Smart Compact Projector](https://m.media-amazon.com/images/I/51SJgIDodML._SL200_.jpg)](https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21)
 
 ℹ️:
 
-- screen size up to 120”
+- android tv 9.0 système
 - Composants inclus: Mi Smart Compact Projector -telecommande - cable USB type C- guide d utilisation
 - 1080p complet hd
-- Taille daffichage: 200.0 inches
-- android tv 9.0 système
 - 2 haut-parleur intégrés
+- screen size up to 120”
+- Taille daffichage: 200.0 inches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0823BTNYV/?tag=tolees0d-21)
