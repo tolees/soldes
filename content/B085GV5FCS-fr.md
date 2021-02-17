@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Davis Club - Eva chêne Clair avec 32.02 % rabais '
-date: 2021-02-09 14:19:00
+date: 2021-02-17 09:20:51
 image: 'https://m.media-amazon.com/images/I/41Umd6H4Y4L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ C'est en vente [Davis Club - Eva chêne Clair](https://www.amazon.fr/dp/B085GV5F
 ℹ️:
 
 - Puissance nominale 80 W / Puissance maximale 110 W
-- Rendement 88 dB
 - Medium fibre de verre 13 cm
+- Rendement 88 dB
 - 1 paire dEnceintes bibliothèques
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085GV5FCS/?tag=tolees0d-21)

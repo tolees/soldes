@@ -28,10 +28,10 @@ Vous avez [Jelly Comb Ensemble Clavier Souris sans Fil UltraMince Clavier AZERTY
 
 ℹ️:
 
+- La structure en scissor-switch de la touche donne une bonne résilience faisant la réponse rapide avec une grande précision, vous offre une expérience confortable de frappe
+- 3 niveaux de DPI réglable de la souris: 800 / 1000 / 1200
+- 2.4G sans fil technologie permet ce kit de clavier et souris une connexion stable, installation facile avec le usb récepteur qui est placé dans le compartiment de batterie de clavier.
 - Clavier de petite taille:28,4*12*1,8cm, et souis:10*5,5*1,5cm, léger et ultra-mince, facile à mettre dans le sac à doc
 - Combo clavier souris est compatible avec Windows 7 / 8 / 10 / Vista / XP / 2000, Linux, etc
-- La structure en scissor-switch de la touche donne une bonne résilience faisant la réponse rapide avec une grande précision, vous offre une expérience confortable de frappe
-- 2.4G sans fil technologie permet ce kit de clavier et souris une connexion stable, installation facile avec le usb récepteur qui est placé dans le compartiment de batterie de clavier.
-- 3 niveaux de DPI réglable de la souris: 800 / 1000 / 1200
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B2VKJGB/?tag=tolees0d-21)
