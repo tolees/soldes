@@ -29,7 +29,7 @@ Vous avez [ACTIVISION - Call of Duty : Modern Warfare pour Xbox One](https://www
 ℹ️:
 
 - Call of duty: modern warfare
-- Version standard
 - Sur Xbox one
+- Version standard
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)

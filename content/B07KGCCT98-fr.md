@@ -28,8 +28,8 @@ Vous avez [Levi s Innovation Super Skinny Jean  Celestial Rinse  28W / 30L Femme
 
 ℹ️:
 
-- Le tissu léger crée une silhouette sculpturale et flatteuse
 - Le jean noir en coton stretch doux dispose dune fermeture à bouton avec fermeture éclair, de passants de ceinture et dun design à cinq poches
 - Innovation super skinny
+- Le tissu léger crée une silhouette sculpturale et flatteuse
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KGCCT98/?tag=tolees0d-21)
