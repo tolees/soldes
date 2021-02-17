@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.05 % rabais sur Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra '
-date: 2021-02-16 09:39:49
+date: 2021-02-17 15:51:06
 image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21'
 descuento: '26.05'
-average: '201.890000000001'
+average: '200.669285714287'
 ---
 
 Vous avez [Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra HD](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)  à  26.05 % de réduction, prix final  184.8 EUR (original: 249.9 EUR) ici:
@@ -28,12 +28,12 @@ Vous avez [Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra HD](https://www.amazon.fr/d
 
 ℹ️:
 
-- Consommation électrique: 15 W en fonctionnement, 0,35 W en veille
 - Son design fin sadapte parfaitement à votre meuble TV
-- Accédez à une multitude de contenus 4K grâce aux services en streaming accessible via la connexion wifi du lecteur
 - Vivez lexpérience ultime du 4K HDR avec HDR10 et Dolby Vison* pour des détails, des couleurs, et une luminosité époustouflants. Format audio: AAC (.AAC, .mka), AIFF (.aiff, .aif), ALAC (.m4a), Dolby Digital (.ac3, .mka), DSD - DSDIFF / DSD (.dff, .dsf), FLAC (.flac, .fla), HEAAC v.1 / v.2 / niveau2, LPCM (.mka), Monkeys Audio, Vorbis, WMA10 Pro, Norme WMA9 (.WMA)
-- Consommation électrique (mode veille): 0,4 W
+- Consommation électrique: 15 W en fonctionnement, 0,35 W en veille
 - Fonction dimage: True Cinema 24p, 4K haut de gamme (60p), Deep color (12 bits)
 - Prise en charge dun large choix de contenus vidéo et audio tels que Dolby Atmos et DTS: X, DSD, flac, mp3…
+- Consommation électrique (mode veille): 0,4 W
+- Accédez à une multitude de contenus 4K grâce aux services en streaming accessible via la connexion wifi du lecteur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)

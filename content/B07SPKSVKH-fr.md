@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Philips Lighting - Philips Hue Ampoules  avec 16.67 % rabais '
-date: 2021-02-16 09:38:07
+date: 2021-02-17 15:36:41
 image: 'https://m.media-amazon.com/images/I/41CvniSCH+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ C'est en vente [Philips Lighting - Philips Hue Ampoules LED Connectées Blanc Ch
 ℹ️:
 
 - Contrôlez vos lumières avec votre voix : Compatible avec tous les assistants vocaux Echo et avec tous les assistants Google Nest, Le pont Hue est requis pour les appareils Amazon Echo (1ère génération) et Echo dot (1ère génération)
-- Déjà utilisateur Philips Hue: Cette ampoule connectée compatible Bluetooth, peut se connecter avec votre pont Hue et être intégrée simplement à votre écosystème Hue existant
 - Commencez avec lapplication de contrôle Philips Hue Bluetooth et connectez jusquà 10 ampoules, Simple et intelligent, Hue White offre une lumière blanche de haute qualité à intensité variable
+- Déjà utilisateur Philips Hue: Cette ampoule connectée compatible Bluetooth, peut se connecter avec votre pont Hue et être intégrée simplement à votre écosystème Hue existant
 - Elargissez votre expérience de la maison connectée en synchronisant le pont Hue (vendu séparément) et bénéficiez dune expérience déclairage connectée optimale
 - Ajoutez le pont Hue (non fourni) et étendez votre écosystème en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, etc), Contrôlez depuis un accessoire Hue, votre mobile ou via votre assistant vocal (Alexa, Google Assistant, etc)
 
