@@ -28,13 +28,13 @@ C'est en vente [D-Link DGS-105 Switch 5 Ports Gigabit Metallique 10/100/1000mbps
 
 ℹ️:
 
-- Silencieux et sans ventilateur, il convient à tout type denvironnement
-- Technologie D-Link Green garantissant des économies dénergie et une durée de vie du produit plus longue
+- Fonction de diagnostic pour détecter les câbles réseau défectueux
 - Files dattente de qualité de service pour lorganisation du trafic par priorités
-- Architecture non bloquante : plein débit simultané sur tous les ports
 - Fonctionnement Plug-and-Play
+- Silencieux et sans ventilateur, il convient à tout type denvironnement
+- Architecture non bloquante : plein débit simultané sur tous les ports
+- Technologie D-Link Green garantissant des économies dénergie et une durée de vie du produit plus longue
 - Modèle robuste avec boîtier métallique, idéal pour les sites industriels à risques
 - 5 ports Gigabit Ethernet
-- Fonction de diagnostic pour détecter les câbles réseau défectueux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21)

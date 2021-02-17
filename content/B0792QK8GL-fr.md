@@ -28,10 +28,10 @@ Vous avez [LEGO Harry Potter - Le Saule Cogneur du château de Poudlard - 75953 
 
 ℹ️:
 
-- 753 pièces  pour les filles et les garçons de 8 à 14 ans
-- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Construisez le saule cogneur du château de Poudlard
+- Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - Issu de lunivers des films Harry Potter
+- 753 pièces  pour les filles et les garçons de 8 à 14 ans
 - Six figurines incluses : Harry Potter , Ron Weasley, Hermione Granger, Seamus Finnigan, Argus Rusard, Severus Rogue, ainsi quune figurine de la chouette Hedwige
 - Le saule cogneur mesure plus de 7 cm de haut, 20 cm de large et 20 cm de profondeur; la partie du château de Poudlard mesure plus de 27 cm de haut, 35 cm de large et 8 cm de profondeur
 
