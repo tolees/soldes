@@ -28,10 +28,10 @@ Vous avez [Polar H10+ Capteur de Fréquence Cardiaque Haute précision – Bluet
 
 ℹ️:
 
+- Confort : nouvelle ceinture pectorale Polar pro avec sa boucle facile à utiliser et ses picots en silicone, la ceinture est confortable et reste en place (même en natation)
 - Haute précision : le Polar H10 est le plus précis des émetteurs de fréquence cardiaque dans lhistoire de Polar ; il offre des mesures haute qualité de lECG et il est le choix préféré des athlètes
 - Adaptabilité : lémetteur cardio Polar est adapté quel que soit votre sport : course à pied, fitness, natation ; Polar H10 est étanche et dispose dune mémoire intégrée pour un entraînement
 - Mise à jour : via lapplication Polar Beat, lémetteur cardio Polar fonctionne avec de nombreux sports, montres connectées (Polar, Garmin, Apple, Suunto), et applications de fitness (Strava, Nike)
 - Connectivité : transmettez en direct votre fréquence cardiaque sur votre montre ou compteur via Bluetooth ou ANT+ y compris dans leau (5Khz)
-- Confort : nouvelle ceinture pectorale Polar pro avec sa boucle facile à utiliser et ses picots en silicone, la ceinture est confortable et reste en place (même en natation)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PQLL8KD/?tag=tolees0d-21)

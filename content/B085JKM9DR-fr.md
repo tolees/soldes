@@ -28,10 +28,10 @@ C'est en vente [Garmin - Ceinture Cardio-Fréquencemètre HRM-Pro Noir](https://
 
 ℹ️:
 
-- Physio True-Up, partage les données physio sur tous les appareils Garmin connectés
 - Double technologie de transmission : ANT+ et Bluetooth
-- Running Dynamics – Analyse de la foulée
-- Sangle souple et confortable utilisable dans et hors de l’eau
+- Physio True-Up, partage les données physio sur tous les appareils Garmin connectés
 - Autonomie de 1 an
+- Sangle souple et confortable utilisable dans et hors de l’eau
+- Running Dynamics – Analyse de la foulée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085JKM9DR/?tag=tolees0d-21)
