@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'Tony Hawk s Pro Skater 1+2 - Exclusif Am avec 15.22 % rabais '
-date: 2020-08-11 18:21:22
-image: 'https://m.media-amazon.com/images/I/61lNZ1vmkXL._SL200_.jpg'
+title: 'ACTIVISION - Tony Hawk s Pro Skater 1+2  avec 40.94 % rabais '
+date: 2021-02-18 02:52:10
+image: 'https://m.media-amazon.com/images/I/51PQhUdiNzL._SL200_.jpg'
 comments: true
 category: ofertas
 author: ring
-slug: 'B08FCWTM3W-fr Tony Hawk s Pro Skater 1+2 - Exclusif Amazon Xbox One'
+slug: 'B08FCWTM3W-fr ACTIVISION - Tony Hawk s Pro Skater 1+2 - Exclusif Amazon...'
 sku: 'B08FCWTM3W-fr'
 tags: [  ]
-actualPrice: 38.99 EUR
+actualPrice: 27.16 EUR
 currency: EUR
-price: 38.99
+price: 27.16
 comparePrice: 45.99 EUR
-prodname: 'Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox One '
+prodname: 'ACTIVISION - Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox One '
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: 'ACTIVISION'
 buyurl: 'https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21'
-descuento: '15.22'
-average: '38.99'
+descuento: '40.94'
+average: '36.624'
 ---
 
-C'est en vente [Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox One ](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)  à  15.22 % de réduction, prix final  38.99 EUR (original: 45.99 EUR) ici:
+C'est en vente [ACTIVISION - Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox One ](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)  à  40.94 % de réduction, prix final  27.16 EUR (original: 45.99 EUR) ici:
 
-[![Tony Hawk s Pro Skater 1+2 - Exclusif Am](https://m.media-amazon.com/images/I/61lNZ1vmkXL._SL200_.jpg)](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)
+[![ACTIVISION - Tony Hawk s Pro Skater 1+2 ](https://m.media-amazon.com/images/I/51PQhUdiNzL._SL200_.jpg)](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)
 
 ℹ️:
 
+- Skatez en incarnant le légendaire tony hawk et lensemble des pros. - réalisez des tricks en écoutant des musiques qui ont marqué une époque.
+- Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 678 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Exécutez des combos de tricks avec le gameplay emblématique de la série tony hawk’s pro skater
+- Lédition exclusive Amazon comprend le jeu ainsi que 4 cartes exclusives de skaters et 3 autocollants exclusifs.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)

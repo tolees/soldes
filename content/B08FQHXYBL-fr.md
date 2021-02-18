@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '54.76 % rabais sur Electronic Arts - FIFA 21  Xbox One  - V'
-date: 2021-02-15 08:42:15
+title: '47.15 % rabais sur Electronic Arts - FIFA 21  Xbox One  - V'
+date: 2021-02-18 02:51:40
 image: 'https://m.media-amazon.com/images/I/51b1G789XJL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,28 +9,27 @@ author: ring
 slug: 'B08FQHXYBL-fr Electronic Arts - FIFA 21 Xbox One - Version Xbox Series X...'
 sku: 'B08FQHXYBL-fr'
 tags: [  ]
-actualPrice: 31.66 EUR
+actualPrice: 36.99 EUR
 currency: EUR
-price: 31.66
+price: 36.99
 comparePrice: 69.99 EUR
 prodname: 'Electronic Arts - FIFA 21  Xbox One  - Version Xbox Series X incluse'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Electronic Arts'
 buyurl: 'https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21'
-descuento: '54.76'
-average: '44.7704494382021'
+descuento: '47.15'
+average: '44.6839999999998'
 ---
 
-Vous avez [Electronic Arts - FIFA 21  Xbox One  - Version Xbox Series X incluse](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)  à  54.76 % de réduction, prix final  31.66 EUR (original: 69.99 EUR) ici:
+Vous avez [Electronic Arts - FIFA 21  Xbox One  - Version Xbox Series X incluse](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)  à  47.15 % de réduction, prix final  36.99 EUR (original: 69.99 EUR) ici:
 
 [![Electronic Arts - FIFA 21  Xbox One  - V](https://m.media-amazon.com/images/I/51b1G789XJL._SL200_.jpg)](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)
 
 ℹ️:
 
-- Packaging dimensions (L × W × H): 1.2 cm 13.5 cm 17.0 am
-- Country of origin: China
-- 5.03094E+12
-- Package weight: 70 g
+- Gérez chaque moment dans le mode Carrière de FIFA 21 avec des innovations qui renforceront la richesse et la profondeur des matchs, des transferts et de l’entraînement afin de vous donner encore plus de maîtrise pour faire triompher votre équipe et faciliter vos débuts dans votre carrière d’entraîneur.
+- Créez-vous plus d’occasions de but que jamais avec les tout nouveaux systèmes offensifs dynamiques mis au service de la jouabilité FIFA la plus intelligente à ce jour.
+- La Personnalisation du placement élève encore plus l’intelligence de jeu pour la rendre encore plus réaliste avec une meilleure analyse du temps et de l’espace.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FQHXYBL/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger TH CITY MINI REPORTER  Sa avec 19.87 % rabais '
-date: 2021-02-12 19:26:39
+date: 2021-02-18 02:54:25
 image: 'https://m.media-amazon.com/images/I/51sD+NQLFuL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Tommy Hilfiger TH CITY MINI REPORTER  Sac Hommes  Noir  Black   
 
 ℹ️:
 
+- Volume en L. env.: 0-10
+- Série : City
+- Dimensions exterieures (L x l x h): 16.5cm x 7cm x 20cm
 - Type de fermeture : fermeture Éclair
 - Équipement : emplacement téléphone portable, poche(s) extérieure(s), poche(s) intérieure(s)
-- Dimensions exterieures (L x l x h): 16.5cm x 7cm x 20cm
-- Série : City
-- Volume en L. env.: 0-10
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01NADWR3R/?tag=tolees0d-21)
