@@ -28,10 +28,10 @@ C'est en vente [JeaTone - Jeantone 1.3 MP HD Caméra extérieure 17 8 cm Moniteu
 
 ℹ️:
 
+- Interphone bidirectionnel, transfert dappels entre moniteurs : cet article est mains libres et disponible pour une communication bidirectionnelle ; il prend en charge la communication entre moniteur intérieur et caméra extérieure mais prend également en charge la communication entre moniteur et moniteur ; il vous permet de voir, entendre et parler au visiteurs à votre porte, vous pouvez répondre à la porte en toute sécurité et confort
+- Caméra extérieure Doobell : 1/3" COMS, objectif 2,8 mm, 1200TVL, vision jour/nuit infrarouge, matériau métallique et étanche.
 - Système interphone, LED pour la vision nocturne : fonctions avancées déclairage assisté par infrarouge, vous permet didentifier les visiteurs même pendant la nuit. La vision nocturne claire peut capturer des images dans un environnement à faible luminosité ; (dans un environnement à forte luminosité, limage capturée dans le moniteur est en couleur, sinon elle montre une image en noir et blanc)
 - Déverrouillage à distance : pas besoin daller à la porte pour déverrouiller vos invités, il suffit dappuyer sur le bouton de déverrouillage, mais vous devez acheter le verrou électrique ; support pour connecter un verrou électronique avec fonction de retard ; avec cette fonction, vous avez juste besoin dappuyer sur le bouton de déverrouillage sur le moniteur ; prend en charge le temps de déverrouillage de 2 à 10 s, ce qui vous permet de vous sentir plus en sécurité
-- Caméra extérieure Doobell : 1/3" COMS, objectif 2,8 mm, 1200TVL, vision jour/nuit infrarouge, matériau métallique et étanche.
 - Prend en charge jusquà 4 écrans intérieurs et 2 caméras extérieures, 2 caméras de vidéosurveillance ; lalarme est également compatible
-- Interphone bidirectionnel, transfert dappels entre moniteurs : cet article est mains libres et disponible pour une communication bidirectionnelle ; il prend en charge la communication entre moniteur intérieur et caméra extérieure mais prend également en charge la communication entre moniteur et moniteur ; il vous permet de voir, entendre et parler au visiteurs à votre porte, vous pouvez répondre à la porte en toute sécurité et confort
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071DM9P9H/?tag=tolees0d-21)
