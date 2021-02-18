@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.82 % rabais sur Bougies Parfumée Ensemble Cadeau  Eleano'
-date: 2021-02-17 16:04:28
+date: 2021-02-18 20:21:48
 image: 'https://m.media-amazon.com/images/I/51j0a5MkulL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Eleanores Diary'
 buyurl: 'https://www.amazon.fr/dp/B08CCTRND8/?tag=tolees0d-21'
 descuento: '27.82'
-average: '16.2438461538462'
+average: '16.0585714285715'
 ---
 
 Vous avez [Bougies Parfumée Ensemble Cadeau  Eleanore s Diary Noël Candle  100% en Cire De Soja Naturel  Aromathérapie Bougies pour Fête des mères  Anniversaire  la Saint Valentin et Utilisation Quotidienne](https://www.amazon.fr/dp/B08CCTRND8/?tag=tolees0d-21)  à  27.82 % de réduction, prix final  13.65 EUR (original: 18.91 EUR) ici:

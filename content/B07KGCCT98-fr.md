@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.00 % rabais sur Levi s Innovation Super Skinny Jean  Cel'
-date: 2021-02-17 02:24:57
+date: 2021-02-18 20:32:35
 image: 'https://m.media-amazon.com/images/I/31j5Ub-P7dL._SL200_.jpg'
 comments: true
 category: ofertas

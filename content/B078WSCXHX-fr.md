@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '26.05 % rabais sur Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra '
-date: 2021-02-17 15:51:06
+date: 2021-02-18 20:51:35
 image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21'
 descuento: '26.05'
-average: '200.669285714287'
+average: '199.611333333335'
 ---
 
 Vous avez [Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra HD](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)  à  26.05 % de réduction, prix final  184.8 EUR (original: 249.9 EUR) ici:
@@ -28,12 +28,12 @@ Vous avez [Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra HD](https://www.amazon.fr/d
 
 ℹ️:
 
-- Son design fin sadapte parfaitement à votre meuble TV
 - Consommation électrique: 15 W en fonctionnement, 0,35 W en veille
-- Consommation électrique (mode veille): 0,4 W
-- Prise en charge dun large choix de contenus vidéo et audio tels que Dolby Atmos et DTS: X, DSD, flac, mp3…
-- Vivez lexpérience ultime du 4K HDR avec HDR10 et Dolby Vison* pour des détails, des couleurs, et une luminosité époustouflants. Format audio: AAC (.AAC, .mka), AIFF (.aiff, .aif), ALAC (.m4a), Dolby Digital (.ac3, .mka), DSD - DSDIFF / DSD (.dff, .dsf), FLAC (.flac, .fla), HEAAC v.1 / v.2 / niveau2, LPCM (.mka), Monkeys Audio, Vorbis, WMA10 Pro, Norme WMA9 (.WMA)
 - Accédez à une multitude de contenus 4K grâce aux services en streaming accessible via la connexion wifi du lecteur
+- Prise en charge dun large choix de contenus vidéo et audio tels que Dolby Atmos et DTS: X, DSD, flac, mp3…
 - Fonction dimage: True Cinema 24p, 4K haut de gamme (60p), Deep color (12 bits)
+- Son design fin sadapte parfaitement à votre meuble TV
+- Vivez lexpérience ultime du 4K HDR avec HDR10 et Dolby Vison* pour des détails, des couleurs, et une luminosité époustouflants. Format audio: AAC (.AAC, .mka), AIFF (.aiff, .aif), ALAC (.m4a), Dolby Digital (.ac3, .mka), DSD - DSDIFF / DSD (.dff, .dsf), FLAC (.flac, .fla), HEAAC v.1 / v.2 / niveau2, LPCM (.mka), Monkeys Audio, Vorbis, WMA10 Pro, Norme WMA9 (.WMA)
+- Consommation électrique (mode veille): 0,4 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)

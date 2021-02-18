@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '54.28 % rabais sur ACTIVISION - Call of Duty : Modern Warfa'
-date: 2021-02-17 02:36:35
+date: 2021-02-18 20:43:52
 image: 'https://m.media-amazon.com/images/I/51ifee5XuxL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'ACTIVISION'
 buyurl: 'https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21'
 descuento: '54.28'
-average: '42.8338461538462'
+average: '42.06'
 ---
 
 Vous avez [ACTIVISION - Call of Duty : Modern Warfare pour Xbox One](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)  à  54.28 % de réduction, prix final  32.0 EUR (original: 69.99 EUR) ici:
@@ -28,8 +28,8 @@ Vous avez [ACTIVISION - Call of Duty : Modern Warfare pour Xbox One](https://www
 
 ℹ️:
 
-- Sur Xbox one
-- Call of duty: modern warfare
 - Version standard
+- Call of duty: modern warfare
+- Sur Xbox one
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YCXQHM6/?tag=tolees0d-21)

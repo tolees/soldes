@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Scooby-Doo! Histoires dans L avec 19.81 % rabais '
-date: 2021-02-17 16:02:26
+date: 2021-02-18 20:23:41
 image: 'https://m.media-amazon.com/images/I/61QAD9l6DHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B081HQ3JBF/?tag=tolees0d-21'
 descuento: '19.81'
-average: '90.3788888888887'
+average: '90.3224607329841'
 ---
 
 C'est en vente [Playmobil - Scooby-Doo! Histoires dans Le Manoir Hanté - 70361](https://www.amazon.fr/dp/B081HQ3JBF/?tag=tolees0d-21)  à  19.81 % de réduction, prix final  84.99 EUR (original: 105.99 EUR) ici:

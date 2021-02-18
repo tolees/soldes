@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'John Carpenter-Coffret : New York 1997 + avec 18.53 % rabais '
-date: 2021-02-17 15:53:32
+date: 2021-02-18 20:49:54
 image: 'https://m.media-amazon.com/images/I/41ylyZbLPmL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07T5VVMNP/?tag=tolees0d-21'
 descuento: '18.53'
-average: '64.4033333333334'
+average: '64.519411764706'
 ---
 
 C'est en vente [John Carpenter-Coffret : New York 1997 + Prince des ténèbres + Invasion Los Angeles + Fog [4K Ultra HD Blu-Ray Bonus-Édition boîtier SteelBook]](https://www.amazon.fr/dp/B07T5VVMNP/?tag=tolees0d-21)  à  18.53 % de réduction, prix final  65.39 EUR (original: 80.26 EUR) ici:
