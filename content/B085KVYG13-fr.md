@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ampoule Connectee AISIRER Ampoule WIFI L avec 18.00 % rabais '
-date: 2021-02-17 08:20:48
+date: 2021-02-18 08:46:52
 image: 'https://m.media-amazon.com/images/I/41pnvI+QNzL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,8 +29,8 @@ C'est en vente [Ampoule Connectee AISIRER Ampoule WIFI LED E27 Intelligente 10W 
 ℹ️:
 
 - [Contrôle vocal] Via Alexa (Echo / Echo Dot / Echo Flex / Fire Stick) ou Google Home, et Siri. toutes l’ampoule smart peut être facilement contrôlée par la voix. Ces commandes incluent la lumière allumée / éteinte ou ajuster la luminosité. Par exemple, vous pouvez dire "Alexa, changez la couleur de lampoule en jaune." ou "Oui Google, allume la lumière." Aucun Hub requis.
-- [Dimmable, économie dénergie] AISIRER ampoule LED E27 intelligente utilise la technologie LED pointe pour vous fournir 10W de puissance, ce qui équivaut à la lampe à incandescence traditionnelle de 90 W. La luminosité peut être réglée entre 1% et 100%. Cela permet déconomiser jusquà 80% dénergie et peut durer 30 000 heures.
 - [Changements dans des millions de couleurs] L’ampoule connectee led wifi de AISIRER propose 16 millions de couleurs et un blanc doux au choix, ce qui rend votre vie plus colorée. Contrôle à distance via téléphone mobile ou contrôle via commandes vocales pour créer des scènes personnalisées et libérer votre créativité. Il est également idéal pour les fêtes, la lecture et les loisirs multifonctionnels.
+- [Dimmable, économie dénergie] AISIRER ampoule LED E27 intelligente utilise la technologie LED pointe pour vous fournir 10W de puissance, ce qui équivaut à la lampe à incandescence traditionnelle de 90 W. La luminosité peut être réglée entre 1% et 100%. Cela permet déconomiser jusquà 80% dénergie et peut durer 30 000 heures.
 - [Garantie de 2 ans] Si vous rencontrez des problèmes lors de lutilisation de l’ampoule, vous pouvez suivre les étapes ci-dessous pour résoudre le problème dans lapplication Smart Life: Cliquez ”Profile” de l’app Smart Life--- Cliquez “FAQ et commentaires”--- “Signaler un probleme”.
 - [Contrôle à distance et de groupe] Gardez cette ampoule connectee led e27 de AISIRER au réseau domestique WiFi 2,4 GHz. Vous pouvez contrôler à distance lampoule intelligente via votre smartphone, en utilisant la fonction de chronométrage, de sorte que vous ne ferez plus face à lenvironnement sombre après votre retour à la maison. En utilisant la fonction de contrôle de groupe, vous pouvez utiliser la même commande pour contrôler le changement de commutateur.
 
