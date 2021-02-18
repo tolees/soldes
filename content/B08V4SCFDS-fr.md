@@ -28,10 +28,10 @@ Vous avez [eXtremeRate Coques avec Kit de Boutons pour Nintendo Switch Joycons V
 
 ℹ️:
 
-- Coque de remplacement unique pour ajouter beaucoup plus de personnalité à votre Switch, il n’y a plus de couleur grise ennuyeuse standard.
 - Lemballage inclut les coques de remplacement pour Nintendo Switch Joycons (les pièces électroniques sont exclus), kit de boutons, PH00 and Y00 tournevis, Tri-wing et Philips vis.Noter que linstallation de cette coque annulera la garantie de votre Switch.
-- Fabriqué en ABS de qualité supérieure, durable et pratique; La couleur transparente mate est incroyable
-- Les processus de l’installation demande aux clients d’avoir les experiences de modification électroniques. Obtenez la guide dinstallation vidéo sur YouTube en recherchant "JoyCon Dpad Guide Extremerate" ou "cTajxu8ZpzI".Regardez la vidéo en demi-vitesse. Nous recommandons de regarder, de suspendre, de faire et de répéter.
 - Conception de remplacement coques et kit de boutons pour s’adapter à Nintendo Switch Joycons. Marcher comme les coques d’origines de Nintendo Switch.
+- Coque de remplacement unique pour ajouter beaucoup plus de personnalité à votre Switch, il n’y a plus de couleur grise ennuyeuse standard.
+- Les processus de l’installation demande aux clients d’avoir les experiences de modification électroniques. Obtenez la guide dinstallation vidéo sur YouTube en recherchant "JoyCon Dpad Guide Extremerate" ou "cTajxu8ZpzI".Regardez la vidéo en demi-vitesse. Nous recommandons de regarder, de suspendre, de faire et de répéter.
+- Fabriqué en ABS de qualité supérieure, durable et pratique; La couleur transparente mate est incroyable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08V4SCFDS/?tag=tolees0d-21)

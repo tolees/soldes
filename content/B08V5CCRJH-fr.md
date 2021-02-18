@@ -28,10 +28,10 @@ C'est en vente [eXtremeRate Coques Avant et Arrière avec Poignées Grips pour N
 
 ℹ️:
 
-- Coques avant，arrière et grips avec conception de custom s’adaptent parfaitement à la manette NS Switch Pro．Coupe de précision pour fonctionner exactement comme la coque dorigine.
-- Le processus dinstallation demande aux clients d’avoir de l’expérience de la modification électronique. Obtenez le guide vidéo dinstallation sur YouTube en recherchant "ExtremeRate Replace The Full Shell for Switch Pro Controller Guide" ou "nrp3riEt7aA".
-- Fabriqué en plastique solide durable; Excellente adhérence, douceur au toucher et sensation soyeuse; Antidérapant, sans sueur pour jouer longtemps.
 - L’emballage inclut 1 * coque avant, 1 * coque arrière,2 * grips，1 tournevis Philips 2MM, 1 tournevis Philips 1,5MM, 25 * vis de rechange. (Note: la manette, les boutons et les autres pièces ne sont pas inclus.)
 - Coque de remplacement unique pour ajouter encore plus de personnalité à votre Switch Pro.La conception rende votre manette Switch Pro distincte lorsque vous jouez avec des amis, il n’y a plus de couleur standarde ennuyeuse.
+- Fabriqué en plastique solide durable; Excellente adhérence, douceur au toucher et sensation soyeuse; Antidérapant, sans sueur pour jouer longtemps.
+- Coques avant，arrière et grips avec conception de custom s’adaptent parfaitement à la manette NS Switch Pro．Coupe de précision pour fonctionner exactement comme la coque dorigine.
+- Le processus dinstallation demande aux clients d’avoir de l’expérience de la modification électronique. Obtenez le guide vidéo dinstallation sur YouTube en recherchant "ExtremeRate Replace The Full Shell for Switch Pro Controller Guide" ou "nrp3riEt7aA".
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08V5CCRJH/?tag=tolees0d-21)
