@@ -28,10 +28,10 @@ Vous avez [Ravensburger- tiptoi®- Livre interactif- Mini Doc - Les chevaux et p
 
 ℹ️:
 
-- Lecteur tiptoi non inclus, vendu séparément. Un seul lecteur pour toute la collection. tiptoi est un lecteur éducatif interactif qui permet aux enfants de découvrir le monde de façon ludique et autonome avec des sons, informations, histoires et chansons.
-- Hue dada ! Cest parti ! Comment soccuper deux et les monter ? Découvre avec la cavalière Lisa, les races de chevaux, leur quotidien et leur nourriture.
-- Fonctionne avec une collection de livres, de jeux et de globes adaptés à chaque âge.
-- Contenu: 1 livre interactif de poche . Lecteur tiptoi non inclus, vendu séparément.
 - Une vraie mine de connaissances à emporter partout !
+- Contenu: 1 livre interactif de poche . Lecteur tiptoi non inclus, vendu séparément.
+- Fonctionne avec une collection de livres, de jeux et de globes adaptés à chaque âge.
+- Hue dada ! Cest parti ! Comment soccuper deux et les monter ? Découvre avec la cavalière Lisa, les races de chevaux, leur quotidien et leur nourriture.
+- Lecteur tiptoi non inclus, vendu séparément. Un seul lecteur pour toute la collection. tiptoi est un lecteur éducatif interactif qui permet aux enfants de découvrir le monde de façon ludique et autonome avec des sons, informations, histoires et chansons.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HP21E2E/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [adidas Gazelle C  Baskets Basses Mixte Enfant  Noir  Core Black/FTWR 
 
 ℹ️:
 
+- Fermeture : Lacets
 - Couleur : Noir
-- Matière : Suède
 - Taille : 35 EU
 - Saison : Automne Hiver
-- Fermeture : Lacets
+- Matière : Suède
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N7O8KMG/?tag=tolees0d-21)

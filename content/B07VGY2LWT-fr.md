@@ -28,8 +28,8 @@ Vous avez [Nintendo Paire de Manettes Joy-Con Gauche Violet Néon/Droite Orange 
 
 ℹ️:
 
-- Un Joy-Con Violet Néon (L), un Joy-Con Néon Orange (R)
 - Ces manettes permettant de jouer aux logiciels Nintendo Switch combinent les commandes par boutons à des commandes par mouvements naturelles et intuitives
+- Un Joy-Con Violet Néon (L), un Joy-Con Néon Orange (R)
 - Deux dragonnes Joy-Con (grises)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VGY2LWT/?tag=tolees0d-21)

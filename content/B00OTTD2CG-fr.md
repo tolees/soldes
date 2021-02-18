@@ -28,10 +28,10 @@ Vous avez [Cébé Chouka Lunettes de soleil Enfant Blue 1500 Grey BL](https://ww
 
 ℹ️:
 
-- Verre polycarbonate ultrarésistant
-- Bandeau souple et ajustable
 - Technologie 1500 Lumière Bleue
-- Monture Xtra-flex
 - Forme doeil couvrante
+- Bandeau souple et ajustable
+- Monture Xtra-flex
+- Verre polycarbonate ultrarésistant
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OTTD2CG/?tag=tolees0d-21)

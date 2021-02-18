@@ -30,8 +30,8 @@ C'est en vente [Sabrent SSD Interne Rocket NVMe PCIe M.2 2280 de 4TB. Solid Stat
 
 - Power Management Support for APST / ASPM / L1.2.
 - PCIe 3.1 Compliant / NVMe 1.3 Compliant.
-- Supports SMART and TRIM commands. Supports ONFi 2.3, ONFi 3.0, ONFi 3.2 and ONFi 4.0 interface.
-- M.2 PCIe Gen3 x 4 Interface.
 - All Sabrent SSDs come with FREE Sabrent Acronis True Image for Sabrent Software for easy Cloning. For those who require a specific sector size to clone their existing SSDs: A newly released Sabrent utility enables users to re-format the Rocket drive and choose the sector size of their liking, either 512-bytes or 4K bytes.
+- M.2 PCIe Gen3 x 4 Interface.
+- Supports SMART and TRIM commands. Supports ONFi 2.3, ONFi 3.0, ONFi 3.2 and ONFi 4.0 interface.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZQSDQDB/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [balnore 21 Pcs Maquillage Enfant Jouet Fille avec Coffrets De Ma
 
 ℹ️:
 
-- ❤Cosmetic sûr: Lensemble de maquillage pour enfants est composé de matériaux sûrs et de grande qualité, lavables, non toxiques, à base deau et doux pour la peau.Il a été testé pour être conforme à toutes les normes de sécurité des jouets des États-Unis et ne contient pas de plomb, le cadmium et les phtalates. Ils garantissent que vos enfants pourront jouer en toute sécurité.
-- ❤Cadeau idéal: Pour maman, cela peut satisfaire la curiosité des enfants qui aiment jouer avec votre maquillage, ce qui améliorer leurs capacités pratiques. Cadeau parfait pour votre princesse.
 - ❤Set de maquillage pour enfants： Conçu pour que les petites filles se déguisent, encouragent limagination et les jeux créatifs
+- ❤Cadeau idéal: Pour maman, cela peut satisfaire la curiosité des enfants qui aiment jouer avec votre maquillage, ce qui améliorer leurs capacités pratiques. Cadeau parfait pour votre princesse.
+- ❤Cosmetic sûr: Lensemble de maquillage pour enfants est composé de matériaux sûrs et de grande qualité, lavables, non toxiques, à base deau et doux pour la peau.Il a été testé pour être conforme à toutes les normes de sécurité des jouets des États-Unis et ne contient pas de plomb, le cadmium et les phtalates. Ils garantissent que vos enfants pourront jouer en toute sécurité.
 - ❤L’ensemble de maquillage comprend: 2 x rouge à lèvres, 2 x fard à paupières, 2 x blush, 1 x poudre, 3 x brillant à lèvres, 2 x houppe à poudre,1 x pinceau à lèvres, 1 x blush, 2 x fard à paupières, 1 x fond de teint, 1 x stick ombre à paupières, 1 x pinceau à sourcils, 1 x trousse de maquillage
 - ❤Facile à voyager: Placez tous les maquillages dans le sac à cosmétiques et emportez-le partout avec vous.Cet ensemble est destiné à divertir votre enfant pendant des heures!
 
