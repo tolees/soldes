@@ -1,0 +1,37 @@
+---
+layout: post
+title: '28.16 % rabais sur Polar OH1+ Capteur de Fréquence Cardiaqu'
+date: 2021-02-18 05:04:00
+image: 'https://m.media-amazon.com/images/I/41T2tKuSPEL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B07PM4P2RR-fr Polar OH1+ Capteur de Fréquence Cardiaque Optique Étanche...'
+sku: 'B07PM4P2RR-fr'
+tags: [  ]
+actualPrice: 57.4 EUR
+currency: EUR
+price: 57.4
+comparePrice: 79.9 EUR
+prodname: 'Polar OH1+ Capteur de Fréquence Cardiaque Optique Étanche  Compact et Polyvalent avec Bluetooth et ANT+'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Polar'
+buyurl: 'https://www.amazon.fr/dp/B07PM4P2RR/?tag=tolees0d-21'
+descuento: '28.16'
+average: '57.48'
+---
+
+Vous avez [Polar OH1+ Capteur de Fréquence Cardiaque Optique Étanche  Compact et Polyvalent avec Bluetooth et ANT+](https://www.amazon.fr/dp/B07PM4P2RR/?tag=tolees0d-21)  à  28.16 % de réduction, prix final  57.4 EUR (original: 79.9 EUR) ici:
+
+[![Polar OH1+ Capteur de Fréquence Cardiaqu](https://m.media-amazon.com/images/I/41T2tKuSPEL._SL200_.jpg)](https://www.amazon.fr/dp/B07PM4P2RR/?tag=tolees0d-21)
+
+ℹ️:
+
+- CONNECTIVITE : Le Polar OH1 + transfère vos données via Bluetooth et ANT+, avec lapplication Polar Beat fitness, Strava, ou Nike ou une montre connectée (Polar, Garmin, Apple Suunto et autres)
+- CONFORT : Le brassard en tissu doux senfile et se retire facilement. Il est lavable en machine et . Le brassard reste en place durant votre séance de natation
+- AUTONOMIE : La batterie rechargeable du Polar OH1 + offre jusqua 12 heures dAutonomie avec une seule recharge
+- ADAPTABILITE : Polar OH1+ est adapté quel que soit votre sport (course à pied, fitness, natation), Vous pouvez porter votre émetteur cardio sur le bras ou sur la tempe
+- MEMOIRE INTERNE : Cet émetteur cardio 6 LED propose une mémoire intégrée (200h) ; vous pouvez démarrer votre entraînement avec lOH1 seul et transférer les données avec votre téléphone
+
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PM4P2RR/?tag=tolees0d-21)
