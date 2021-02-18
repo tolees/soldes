@@ -28,12 +28,12 @@ C'est en vente [Skip Lessive Capsules Duo Double Action Sensitive Hypoallergéni
 
 ℹ️:
 
-- Capsules lessive Sensitive Double Action : propreté impeccable + respect des peaux sensibles
-- Lessive testée dermatologiquement
 - Lot de 3x29 lavages
-- Une dissolution et une efficacité optimale dès le début du cycle de lavage
-- Un format pratique et pré-dosé : 1 capsule lessive suffit pour nettoyer le linge en profondeur
-- Toute l’efficacité de la lessive hypoallergénique Skip pour être libre de se salir sans se soucier des taches !
 - Un résultat parfait même en cycle court
+- Une dissolution et une efficacité optimale dès le début du cycle de lavage
+- Toute l’efficacité de la lessive hypoallergénique Skip pour être libre de se salir sans se soucier des taches !
+- Capsules lessive Sensitive Double Action : propreté impeccable + respect des peaux sensibles
+- Un format pratique et pré-dosé : 1 capsule lessive suffit pour nettoyer le linge en profondeur
+- Lessive testée dermatologiquement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HCLFHDL/?tag=tolees0d-21)
