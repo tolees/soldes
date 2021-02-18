@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '28.89 % rabais sur Lowepro Droneguard BP léger Drone Sac à '
-date: 2021-02-17 08:14:55
+title: '25.70 % rabais sur Lowepro Droneguard BP léger Drone Sac à '
+date: 2021-02-18 14:40:20
 image: 'https://m.media-amazon.com/images/I/41aoOSXAlhL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B06XGMZL8W-fr Lowepro Droneguard BP léger Drone Sac à dos'
 sku: 'B06XGMZL8W-fr'
 tags: [  ]
-actualPrice: 113.8 EUR
+actualPrice: 118.9 EUR
 currency: EUR
-price: 113.8
+price: 118.9
 comparePrice: 160.03 EUR
 prodname: 'Lowepro Droneguard BP léger Drone Sac à dos'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Lowepro'
 buyurl: 'https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21'
-descuento: '28.89'
-average: '116.457916666666'
+descuento: '25.70'
+average: '116.645769230768'
 ---
 
-Vous avez [Lowepro Droneguard BP léger Drone Sac à dos](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)  à  28.89 % de réduction, prix final  113.8 EUR (original: 160.03 EUR) ici:
+Vous avez [Lowepro Droneguard BP léger Drone Sac à dos](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)  à  25.70 % de réduction, prix final  118.9 EUR (original: 160.03 EUR) ici:
 
 [![Lowepro Droneguard BP léger Drone Sac à ](https://m.media-amazon.com/images/I/41aoOSXAlhL._SL200_.jpg)](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)
 
