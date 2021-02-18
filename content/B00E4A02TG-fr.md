@@ -28,15 +28,15 @@ Vous avez [Bosch L5005 Batterie décharge lente 12V  60Ah  560A - Loisirs  Campi
 
 ℹ️:
 
-- Polarité : 0
 - Haut niveau de sécurité grâce au couvercle à labyrinthe
-- Grâce à sa très faible autodécharge la batterie L5005 se prête idéalement à un usage saisonnier.
-- Batterie optimale pour des demandes énergétiques plus importantes pour le système et les équipements
 - Dimensions : 24,2 x 17,5 x 19
+- Polarité : 0
+- Batterie dalimentation et de traction grâce à la technologie Deep Cycle
 - Idéale pour les applications mobiles : camping-cars, caravanes, bateaux electriques, bateaux à moteur, voilier, …
 - Supporte jusquà 2 fois plus de cycles de charge et décharge que les batteries classiques
+- Batterie optimale pour des demandes énergétiques plus importantes pour le système et les équipements
 - Angle de montage jusquà 45°
 - 12V, 60Ah, 560A
-- Batterie dalimentation et de traction grâce à la technologie Deep Cycle
+- Grâce à sa très faible autodécharge la batterie L5005 se prête idéalement à un usage saisonnier.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00E4A02TG/?tag=tolees0d-21)

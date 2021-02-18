@@ -30,8 +30,8 @@ C'est en vente [PDP Casque LVL40 Stereo Sony PS4 et PS5 Noir](https://www.amazon
 
 - Le micro bidirectionnel à réduction de bruit assure une communication claire ou coupe le micro dun seul geste grâce à la fonction "flip-to-mute".
 - Une construction légère et respirante pour les longues sessions de jeu
+- Compatible avec la Playstation 4 et 5 et Windows
 - Entendez chaque commande grâce à de puissants pilotes audio 40 mm
 - Produit officiel sous licence pour PlayStation
-- Compatible avec la Playstation 4 et 5 et Windows
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VGGC1SM/?tag=tolees0d-21)
