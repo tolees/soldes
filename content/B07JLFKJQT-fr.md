@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Ambulance et Secouristes - 7 avec 20.00 % rabais '
-date: 2021-02-17 15:53:21
+date: 2021-02-19 02:54:25
 image: 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21'
 descuento: '20.00'
-average: '40.0186956521737'
+average: '40.018205128205'
 ---
 
 C'est en vente [Playmobil - Ambulance et Secouristes - 70049](https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  39.99 EUR (original: 49.99 EUR) ici:

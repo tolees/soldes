@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BRIKSMAX Kit de LED pour Lego Architectu avec 61.01 % rabais '
-date: 2021-02-17 21:53:46
+date: 2021-02-19 02:54:37
 image: 'https://m.media-amazon.com/images/I/51VYx4OQQRL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ C'est en vente [BRIKSMAX Kit de LED pour Lego Architecture Trafalgar Square  Com
 ℹ️:
 
 - Le paquet contient les bit lights,les bandes lumineuses, les panneaux dexpansion, les câbles, un bloc-pile (piles non incluses), les carrés adhésifs, le manuel dinstructions.
-- Conçu pour la maquette Lego 21045, avec ce kit déclairage, vous pouvez faire passer votre LEGO Architecture Trafalgar Square de lobscurité à la lumière, lui donner vie.
-- Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
-- Avec les instructions étape par étape, vous trouverez un moyen plus facile de faire de magnifiques améliorations sur votre kit de construction préféré.
 - Veuillez noter que seule les lumières LED sont incluses. Tous les sets LEGO montrés en images et vidéos ne sont pas inclus.
+- Conçu pour la maquette Lego 21045, avec ce kit déclairage, vous pouvez faire passer votre LEGO Architecture Trafalgar Square de lobscurité à la lumière, lui donner vie.
+- Avec les instructions étape par étape, vous trouverez un moyen plus facile de faire de magnifiques améliorations sur votre kit de construction préféré.
+- Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TYYJC7S/?tag=tolees0d-21)
