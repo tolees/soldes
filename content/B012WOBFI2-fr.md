@@ -28,10 +28,10 @@ Vous avez [MEUBLE COSY Ensemble à manger 1 table et 4 chaises Style Scandinave 
 
 ℹ️:
 
-- Pour tout problème dinstallation, dommage ou pièce manquante sur cette, merci contactez le vendeur par email, vous aurez une réponse sous 24 heures
-- Vendu en kit, à monter soi-même à laide de la notice incluse dans le colis
-- Taille de table : 80*80*78. 5cm,Taille de Chaise:36*36*44cm
 - Accueillant jusquà 4 personnes, cet ensemble sadaptera bien à votre pièce et satisfera à vos besoins divers
+- Taille de table : 80*80*78. 5cm,Taille de Chaise:36*36*44cm
 - Plateau en panneau de particules revêtu du PVC, structure en métal peint
+- Vendu en kit, à monter soi-même à laide de la notice incluse dans le colis
+- Pour tout problème dinstallation, dommage ou pièce manquante sur cette, merci contactez le vendeur par email, vous aurez une réponse sous 24 heures
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012WOBFI2/?tag=tolees0d-21)

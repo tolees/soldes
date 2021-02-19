@@ -28,9 +28,9 @@ C'est en vente [Tommee Tippee Biberon Anti-Colique Avancé  260 ml  Lot de 2](ht
 
 ℹ️:
 
-- Réduction des coliques avérée : 80 % des mamans l’ayant testé confirment que le biberon a réduit avec succès les symptômes de colique de leur bébé
 - Aucune fuite : La valve étoilée empêche le lait de remonter dans le tube, pour un résultat sans fuites (assurez-vous que le biberon soit préparé correctement, voir ci-dessous et les vidéos)
 - Technologie thermosensible : La technologie thermosensible teinte le tube en rose lorsque le lait de bébé est trop chaud
+- Réduction des coliques avérée : 80 % des mamans l’ayant testé confirment que le biberon a réduit avec succès les symptômes de colique de leur bébé
 - Anti-colique : Le tube anti-colique évacue l’air présent dans le lait pour réduire les symptômes de colique pour moins de gaz, moins de régurgitations et plus de confort
 - Imite la forme du sein : Tétine primée imitant la forme du sein pour une prise en bouche naturelle et une acceptation garantie
 
