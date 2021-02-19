@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '41.59 % rabais sur Playmobil - Club d Équitation - 6926'
-date: 2021-02-18 08:37:22
+date: 2021-02-19 08:58:40
 image: 'https://m.media-amazon.com/images/I/61a5czLVrIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06WGZY234/?tag=tolees0d-21'
 descuento: '41.59'
-average: '69.3858823529412'
+average: '68.972'
 ---
 
 Vous avez [Playmobil - Club d Équitation - 6926](https://www.amazon.fr/dp/B06WGZY234/?tag=tolees0d-21)  à  41.59 % de réduction, prix final  54.9 EUR (original: 93.99 EUR) ici:
