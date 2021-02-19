@@ -28,8 +28,8 @@ C'est en vente [Samsung T7 1 To USB 3.2 SSD externe noir - MU-PC1T0T/WW](https:/
 
 ℹ️:
 
-- USB type C - USB 3.2 Gen.2 (10 Gbps)
 - Compatibilité multi-OS (Android, MacOS, Windows)
+- USB type C - USB 3.2 Gen.2 (10 Gbps)
 - Technologie NVMe pour des débits jusquà 1050 Mo/s
 - Design léger et compact en aluminium
 - Sécurisation des données par mot de passe

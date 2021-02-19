@@ -28,10 +28,10 @@ C'est en vente [Écoiffier - Jouets Ecoiffier – 3269 - Coffret 10 véhicules F
 
 ℹ️:
 
-- DES JOUETS ORIGINE FRANCE GARANTIE: Jouets Ecoiffier fabrique ses produits à Oyonnax dans lAin grâce à linvestissement des 350 personnes que lentreprise familiale emploie directement et indirectement.
 - LES DIFFÉRENTS VÉHICULES : Ce coffret contient 1 camion-benne, 1 autobus, 3 voitures de F1, 1 voiture de ville, 1 van avec sa planche de surf, 1 camion à plateau, 1 monster truck, 1 taxi jaune.
 - UNE VÉRITABLE FLOTTE AUTOMOBILE : Ces 10 véhicules à construire aux châssis interchangeables et modulables grâce aux briques à empiler sont parfaits pour circuler dans les villes et sur les circuits Abrick.
-- JOUER POUR MIEUX GRANDIR  : Cest en imitant les adultes et en manipulant différents jouets que les enfants apprennent à appréhender le monde qui les entoure, à devenir plus habile et plus autonome au quotidien.
 - DÉVELOPPER LIMAGINATION : La gamme Abrick se compose de jouets destinés aux enfants à partir de 18 mois pour les aider à développer leur capacité à inventer des histoires et construire lunivers qui va avec.
+- DES JOUETS ORIGINE FRANCE GARANTIE: Jouets Ecoiffier fabrique ses produits à Oyonnax dans lAin grâce à linvestissement des 350 personnes que lentreprise familiale emploie directement et indirectement.
+- JOUER POUR MIEUX GRANDIR  : Cest en imitant les adultes et en manipulant différents jouets que les enfants apprennent à appréhender le monde qui les entoure, à devenir plus habile et plus autonome au quotidien.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07B5XHRHC/?tag=tolees0d-21)

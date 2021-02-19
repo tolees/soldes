@@ -28,8 +28,8 @@ C'est en vente [Goliath - Super Zings- Blister 10 - à collectionner - à partir
 
 ℹ️:
 
-- Ce modèle est livré par le fabricant sous forme dun assortiment aléatoire de plusieurs modèles et/ou coloris. Il nous est impossible de vous proposer un modèle et/ou un coloris en particulier. En validant votre commande, vous recevrez donc un des modèles figurant sur limage en fonction du stock disponible. Nous vous remercions pour votre compréhension
 - Après un succès fulgurant en Angleterre et en Espagne, le phénomène superzings débarquent en France !
+- Ce modèle est livré par le fabricant sous forme dun assortiment aléatoire de plusieurs modèles et/ou coloris. Il nous est impossible de vous proposer un modèle et/ou un coloris en particulier. En validant votre commande, vous recevrez donc un des modèles figurant sur limage en fonction du stock disponible. Nous vous remercions pour votre compréhension
 - Superzings est une gamme de figurines à collectionner d’une hauteur de 3cm environ.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Z9N7J1B/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Xiaomi Mi True Wireless Earphones 2 Basic Les Nouveaux écouteur
 
 ℹ️:
 
-- Composants inclus : Casque, boitier
-- Détection de louïe: lors du retrait dun casque, le capteur intégré peut aider à suspendre automatiquement la musique, double-cliquez sur lappariement rapide (MIUI global), appuyez deux fois sur le casque pour accéder au contrôle de la musique, au téléphone ou à lassistance vocale .
 - Durée de vie de la batterie plus longue: la durée de vie de la batterie des écouteurs est de 5 heures à pleine charge, tandis que la durée de vie totale de la batterie dans la boîte est de 20 heures.
-- Conception semi-auriculaire. Il peut fournir un confort maximal et un ajustement optimal pour une utilisation à long terme, des appels sans bruit, une suppression du bruit ambiant avec un double microphone pour garantir que le téléphone nest pas obstrué.
-- Le casque sans fil Xiaomi Mi True 2 Basic est un casque Bluetooth version 5.0 récemment lancé qui offre un excellent son et une qualité dappel sans fil emmêlée.
 - Excellente qualité sonore: les écouteurs sont compatibles avec AAC, qui est un codec avancé qui peut obtenir une meilleure qualité sonore sur iOS et Android.
+- Détection de louïe: lors du retrait dun casque, le capteur intégré peut aider à suspendre automatiquement la musique, double-cliquez sur lappariement rapide (MIUI global), appuyez deux fois sur le casque pour accéder au contrôle de la musique, au téléphone ou à lassistance vocale .
+- Le casque sans fil Xiaomi Mi True 2 Basic est un casque Bluetooth version 5.0 récemment lancé qui offre un excellent son et une qualité dappel sans fil emmêlée.
+- Composants inclus : Casque, boitier
+- Conception semi-auriculaire. Il peut fournir un confort maximal et un ajustement optimal pour une utilisation à long terme, des appels sans bruit, une suppression du bruit ambiant avec un double microphone pour garantir que le téléphone nest pas obstrué.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BRGH7S3/?tag=tolees0d-21)
