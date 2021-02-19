@@ -29,9 +29,9 @@ C'est en vente [Pickwoo - 13 en 1 Robot Jouet Enfant 203 PièCes - Kit Robot A C
 ℹ️:
 
 - 【STEM Solar Robot Kit】The 13-IN-1 construction toys come with all of the parts you need to build real working robots from the ground up! 13 different building robots which can move on land or wate for your child to build, is a great way for your child to get started in robotics toy.
-- 【Educational Science Kits】STEM Toys Robot Science Kits for Kids 8 9 10-12 Year Olds Gifts.Its strong practical ability,which has cultivated the spirit of scientific exploration with the help of parents.Build your own robot to promote the intelligence with interactive challenges!
+- 【Building Toys for Creation】STEM Toys Robot Science Kits for Kids 8 9 10-12 Year Olds Gifts.Its strong practical ability,which has cultivated the spirit of scientific exploration with the help of parents.This science kits for kids 10-12 help kids build a solid foundation in science,technology,engineering,crafts and robotics.
 - 【Power by the Sun】The solar robot kit includes a solar panel that powers the positive and negative cables. Children will build a real working solar-powered motor that serves as the motorized foundation for each robot model!
 - 【Creative Gifts For Kids】All pieces are sturdy,durable,non-toxic.Excellent stem toys for 8 9 10 11 12 year old kids teens students.Great solar robot kit gift for birthday,Childrens day,Christmas,Chanukah,Easter,STEM,summer camp activities,school activities.
-- 【Building Toys for Creation】STEM Toys Robot Science Kits for Kids 8 9 10-12 Year Olds Gifts.Its strong practical ability,which has cultivated the spirit of scientific exploration with the help of parents.This science kits for kids 10-12 help kids build a solid foundation in science,technology,engineering,crafts and robotics.
+- 【Educational Science Kits】STEM Toys Robot Science Kits for Kids 8 9 10-12 Year Olds Gifts.Its strong practical ability,which has cultivated the spirit of scientific exploration with the help of parents.Build your own robot to promote the intelligence with interactive challenges!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088LZC3DM/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Kipling Class Room S Luggage Robot Camo Blue](https://www.amazon
 
 ℹ️:
 
-- Robot Camo Bleu
-- 8 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Classe Room S
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- 8 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Robot Camo Bleu
 - Sacs décole.
+- Classe Room S
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YQF7PX1/?tag=tolees0d-21)
