@@ -28,10 +28,10 @@ Vous avez [Miss Vanderbilt - Coffret Eau de Toilette 30 ml - Spray Déodorant 15
 
 ℹ️:
 
-- Contenu : 1x Coffret Miss Vanderbilt, Eau de toilette 30 ml, Spray déodorant 150 ml, Vaporisateur de sac 15 ml
-- Fragrance rayonnante se dévoilant sur lélégance dun accord Mandarine, et sépanouissant dans la délicatesse dun coeur floral solaire, adouci dun soupçon de Santal
-- Appliquer le parfum dans le creux des poignets, derrière les oreilles et la nuque, Pulvériser sur les vêtements ou les cheveux pour un sillage délicat
 - Coffret composé dune eau de toilette, dun spray déodorant et dun vaporisateur de sac
 - Un parfum aux notes élégantes et modernes, qui effleure la peau telle une caresse et réveille sur son passage léclat dune féminité authentique et sensuelle
+- Contenu : 1x Coffret Miss Vanderbilt, Eau de toilette 30 ml, Spray déodorant 150 ml, Vaporisateur de sac 15 ml
+- Appliquer le parfum dans le creux des poignets, derrière les oreilles et la nuque, Pulvériser sur les vêtements ou les cheveux pour un sillage délicat
+- Fragrance rayonnante se dévoilant sur lélégance dun accord Mandarine, et sépanouissant dans la délicatesse dun coeur floral solaire, adouci dun soupçon de Santal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YGL6P2D/?tag=tolees0d-21)
