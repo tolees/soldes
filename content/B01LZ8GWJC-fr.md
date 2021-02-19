@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '58.53 % rabais sur WARNER BROS - Falling Skies - L intégral'
-date: 2021-02-11 06:31:43
+title: '50.16 % rabais sur WARNER BROS - Falling Skies - L intégral'
+date: 2021-02-19 09:19:56
 image: 'https://m.media-amazon.com/images/I/516ePZnhp+L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: ring
 slug: 'B01LZ8GWJC-fr WARNER BROS - Falling Skies - L intégrale de la Série -...'
 sku: 'B01LZ8GWJC-fr'
 tags: [  ]
-actualPrice: 24.96 EUR
+actualPrice: 30.0 EUR
 currency: EUR
-price: 24.96
+price: 30.0
 comparePrice: 60.19 EUR
 prodname: 'WARNER BROS - Falling Skies - L intégrale de la Série - Coffret DVD'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.fr/dp/B01LZ8GWJC/?tag=tolees0d-21'
-descuento: '58.53'
-average: '24.96'
+descuento: '50.16'
+average: '27.48'
 ---
 
-Vous avez [WARNER BROS - Falling Skies - L intégrale de la Série - Coffret DVD](https://www.amazon.fr/dp/B01LZ8GWJC/?tag=tolees0d-21)  à  58.53 % de réduction, prix final  24.96 EUR (original: 60.19 EUR) ici:
+Vous avez [WARNER BROS - Falling Skies - L intégrale de la Série - Coffret DVD](https://www.amazon.fr/dp/B01LZ8GWJC/?tag=tolees0d-21)  à  50.16 % de réduction, prix final  30.0 EUR (original: 60.19 EUR) ici:
 
 [![WARNER BROS - Falling Skies - L intégral](https://m.media-amazon.com/images/I/516ePZnhp+L._SL200_.jpg)](https://www.amazon.fr/dp/B01LZ8GWJC/?tag=tolees0d-21)
 
