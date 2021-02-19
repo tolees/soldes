@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '20.01 % rabais sur LEGO Creator 3-en-1 31113 Le transporteu'
-date: 2021-02-18 02:53:18
+date: 2021-02-19 21:20:51
 image: 'https://m.media-amazon.com/images/I/51ZkGnW4bNL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -30,10 +30,10 @@ Vous avez [LEGO Creator 3-en-1 31113 Le transporteur de voitures de course  Jeu 
 
 - Le transporteur de voitures de course se compose d’un camion articulé avec remorque amovible pouvant accueillir 2 voitures, qui peuvent être chargées et déchargées par les 2 rampes. Grâce à la béquille, la remorque se maintient seule.
 - D’autres sets LEGO Creator 3-en-1 sont à découvrir dès janvier 2021 : Le cyber drone (31111), Le lion sauvage (31112), La super moto (31114) et La maison sur la plage du surfeur (31118).
-- Le transporteur de voitures mesure plus de 7 cm de haut, 24 cm de long et 4 cm de large, la taille idéale pour jouer à la maison ou emporter chez un ami.
-- Le transporteur de voitures de course inclut 2 voitures de course, l’une bleue et l’autre rouge, pour que les enfants s’installent au volant et vivent des courses palpitantes sur la piste.
+- Avec ses 3 modèles en 1 (un camion de transport de voitures, un camion grue et un remorqueur), l’incroyable set LEGO Creator 3-en-1 Le transporteur de voitures de course (31113) offre des possibilités créatives illimitées.
 - Le camion grue dispose d’une grue qui pivote à 360° et peut déplacer sa cargaison de haut en bas. Le remorqueur miniature présente quant à lui une petite grue qui fonctionne.
 - Le cadeau parfait pour les fans de LEGO de 7 ans et plus, passionnés par les incroyables camions et bateaux.
-- Avec ses 3 modèles en 1 (un camion de transport de voitures, un camion grue et un remorqueur), l’incroyable set LEGO Creator 3-en-1 Le transporteur de voitures de course (31113) offre des possibilités créatives illimitées.
+- Le transporteur de voitures mesure plus de 7 cm de haut, 24 cm de long et 4 cm de large, la taille idéale pour jouer à la maison ou emporter chez un ami.
+- Le transporteur de voitures de course inclut 2 voitures de course, l’une bleue et l’autre rouge, pour que les enfants s’installent au volant et vivent des courses palpitantes sur la piste.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08G56GFCV/?tag=tolees0d-21)

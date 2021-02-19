@@ -28,10 +28,10 @@ C'est en vente [ACTIVISION - Tony Hawk s Pro Skater 1+2 - Exclusif Amazon  Xbox 
 
 ℹ️:
 
-- Skatez en incarnant le légendaire tony hawk et lensemble des pros. - réalisez des tricks en écoutant des musiques qui ont marqué une époque.
 - 678 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
-- Lédition exclusive Amazon comprend le jeu ainsi que 4 cartes exclusives de skaters et 3 autocollants exclusifs.
 - Exécutez des combos de tricks avec le gameplay emblématique de la série tony hawk’s pro skater
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
+- Skatez en incarnant le légendaire tony hawk et lensemble des pros. - réalisez des tricks en écoutant des musiques qui ont marqué une époque.
+- Lédition exclusive Amazon comprend le jeu ainsi que 4 cartes exclusives de skaters et 3 autocollants exclusifs.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FCWTM3W/?tag=tolees0d-21)
