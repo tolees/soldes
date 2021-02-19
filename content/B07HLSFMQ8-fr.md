@@ -28,10 +28,10 @@ Vous avez [Sony SEL24F14GM FE 24 mm f/1.4 GM | Objectif Plein format Grand angle
 
 ℹ️:
 
-- GRANDE ERGONOMIE : Design résistant à la poussière et à lhumidité, pour une protection et une fiabilité maximale dans tous les environnements
 - CAPTUREZ TOUS LES DETAILS : Revêtement Nano antireflet Sony pour éliminer les reflets et leffet de « flare »
-- DE MAGNIFIQUES FLOUS DARRIERE PLAN : Diaphragme circulaire à 11 lamelles qui permet de beaux effets de bokeh
 - INCROYABLEMENT NET : Trois lentilles ED (Très faible dispersion) et deux XA (asphérique extrême) sont déployées dans un design optique de qualité pour une résolution, une clarté et un contraste exceptionnels
+- DE MAGNIFIQUES FLOUS DARRIERE PLAN : Diaphragme circulaire à 11 lamelles qui permet de beaux effets de bokeh
 - RAPIDE & PRECIS : Contrôle de lobjectif silencieux et très précis grâce au système Direct Drive SSM (DDSSM)
+- GRANDE ERGONOMIE : Design résistant à la poussière et à lhumidité, pour une protection et une fiabilité maximale dans tous les environnements
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HLSFMQ8/?tag=tolees0d-21)
