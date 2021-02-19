@@ -29,9 +29,9 @@ C'est en vente [Wispeed T850 Trottinette électrique unisexe pour adulte  Roues 
 ℹ️:
 
 - Vitesse : 25 km/h maximum - Frein à disque à larrière
-- Les + : Deck ultra plat - Pliage ultra rapide - Ecran LED intégré - Sonnette incluse
-- Roues : 8.5 Pouces - Gonflables avant et arrière
-- Batterie : 36 V / 5.2 Ah - Temps de charge : 3H50
 - IPX 4 : Protection contre les éclaboussements et les projections deau
+- Roues : 8.5 Pouces - Gonflables avant et arrière
+- Les + : Deck ultra plat - Pliage ultra rapide - Ecran LED intégré - Sonnette incluse
+- Batterie : 36 V / 5.2 Ah - Temps de charge : 3H50
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QQDYYPK/?tag=tolees0d-21)
