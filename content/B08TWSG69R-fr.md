@@ -29,9 +29,9 @@ C'est en vente [Hunty - Disque Dur Externe 1to Portable Disque Dur Externe USB3.
 ℹ️:
 
 - Plug and Play - Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi.
-- Compatibilidad del sistema: Windows / Linux / Android OS.
-- Disque dur Externe Transferts de données ultra-rapides avec USB 3.0 (compatibilité avec les ports USB 2.0 à la vitesse de transfert USB 2.0).
-- Disque Dur Externe 2,5 ": Ultra Slim, Boîtier en Métal, Étanche, Résistant Aux Chutes, Résistant Aux Rayures.
 - Le Disque Dur Externe Doté Dune Technologie Spéciale Assure un Fonctionnement Silencieux à Tout Moment.
+- Compatibilidad del sistema: Windows / Linux / Android OS.
+- Disque Dur Externe 2,5 ": Ultra Slim, Boîtier en Métal, Étanche, Résistant Aux Chutes, Résistant Aux Rayures.
+- Disque dur Externe Transferts de données ultra-rapides avec USB 3.0 (compatibilité avec les ports USB 2.0 à la vitesse de transfert USB 2.0).
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08TWSG69R/?tag=tolees0d-21)

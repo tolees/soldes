@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wispeed T850 Trottinette électrique unis avec 30.10 % rabais '
-date: 2021-02-12 20:36:12
+date: 2021-02-19 16:28:04
 image: 'https://m.media-amazon.com/images/I/31EyvvhmG9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Wispeed T850 Trottinette électrique unisexe pour adulte  Roues 
 
 ℹ️:
 
+- Vitesse : 25 km/h maximum - Frein à disque à larrière
+- Les + : Deck ultra plat - Pliage ultra rapide - Ecran LED intégré - Sonnette incluse
 - Roues : 8.5 Pouces - Gonflables avant et arrière
 - Batterie : 36 V / 5.2 Ah - Temps de charge : 3H50
-- Les + : Deck ultra plat - Pliage ultra rapide - Ecran LED intégré - Sonnette incluse
-- Vitesse : 25 km/h maximum - Frein à disque à larrière
 - IPX 4 : Protection contre les éclaboussements et les projections deau
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QQDYYPK/?tag=tolees0d-21)
