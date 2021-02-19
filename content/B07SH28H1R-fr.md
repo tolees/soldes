@@ -29,9 +29,9 @@ C'est en vente [TF1 Games - Dujardin Jouets - Choixpeau Magique d Harry Potter](
 ℹ️:
 
 - Découvrez à quelle maison Poudlard vous appartenez.
+- Une réplique exacte du Choixpeau du film.
 - Fonctionne avec 3 piles AA (LR6) incluses.
 - Le Choixpeau Magique qui bouge et qui parle.
 - Âge Minimum: 5 ans.
-- Une réplique exacte du Choixpeau du film.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SH28H1R/?tag=tolees0d-21)

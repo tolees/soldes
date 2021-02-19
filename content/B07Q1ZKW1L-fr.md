@@ -28,9 +28,9 @@ C'est en vente [Lansay- Toy Story 4-Figurine Woody Pixar  64611](https://www.ama
 
 ℹ️:
 
-- Corps en tissu doux.
-- Dès 4 ans.
-- Retrouve les aventures de Toy Story 4 avec cette figurine Woody très détaillée. Super ! Woody porte un chapeau de cow-boy ! Corps en tissu doux.
 - Contient: 1 personnage Woody
+- Retrouve les aventures de Toy Story 4 avec cette figurine Woody très détaillée. Super ! Woody porte un chapeau de cow-boy ! Corps en tissu doux.
+- Dès 4 ans.
+- Corps en tissu doux.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Q1ZKW1L/?tag=tolees0d-21)

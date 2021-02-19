@@ -28,7 +28,7 @@ C'est en vente [G-STAR RAW Droner Relaxed Tapered Cargo Pantalon décontracté  
 
 ℹ️:
 
-- Forme optimale des genoux grâce aux coutures intérieures au niveau des genoux
 - Plusieurs poches à lavant et à larrière
+- Forme optimale des genoux grâce aux coutures intérieures au niveau des genoux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084R3GYYL/?tag=tolees0d-21)
