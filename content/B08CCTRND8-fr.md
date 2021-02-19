@@ -28,10 +28,10 @@ Vous avez [Bougies Parfumée Ensemble Cadeau  Eleanore s Diary Noël Candle  100
 
 ℹ️:
 
-- 💖 Bougie parfumée de haute qualité à partir de cire naturelle: la bougie se compose de cire de soja pure faite à la main et dhuile essentielle. Il brûle plus proprement et plus uniformément, sans fumée noire, une option plus saine qui favorise un air propre et purifié. Il convient au spa, à la relaxation, au yoga, au massage, au sommeil.
-- 💖 Meilleur choix de cadeau: le parfum aromatique associé à la lueur romantique des bougies crée une atmosphère relaxante. Cest un merveilleux cadeau pour les anniversaires, les mariages et Noël.
-- 💖 Coffret cadeau rétro, très décoratif et au parfum envoûtant: profitez des bougies chaleureuses et douillettes - parfaites pour un moment cosy et (sensuel) à la maison. Après la combustion, les boîtes élégantes peuvent être merveilleusement utilisées pour le stockage ou la décoration.
 - 💖 Combustion longue durée: Cet ensemble de bougies contient 4 paquets de cire de soja blanche, chaque bougie pèse 4,3 oz et brûle pendant 25 à 30 heures Un mélange de soja et de vanille assure un arôme agréable. Idéal pour lire, sortir ensemble et se reposer.
+- 💖 Meilleur choix de cadeau: le parfum aromatique associé à la lueur romantique des bougies crée une atmosphère relaxante. Cest un merveilleux cadeau pour les anniversaires, les mariages et Noël.
+- 💖 Bougie parfumée de haute qualité à partir de cire naturelle: la bougie se compose de cire de soja pure faite à la main et dhuile essentielle. Il brûle plus proprement et plus uniformément, sans fumée noire, une option plus saine qui favorise un air propre et purifié. Il convient au spa, à la relaxation, au yoga, au massage, au sommeil.
 - 💖 Parfum agréable de longue durée: Ce parfum nest pas perdu, quelle que soit la durée de sa combustion. Cela crée un parfum calme qui remplit votre pièce de la bonne quantité de parfums, tandis que la lumière chaude crée une atmosphère calme.
+- 💖 Coffret cadeau rétro, très décoratif et au parfum envoûtant: profitez des bougies chaleureuses et douillettes - parfaites pour un moment cosy et (sensuel) à la maison. Après la combustion, les boîtes élégantes peuvent être merveilleusement utilisées pour le stockage ou la décoration.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CCTRND8/?tag=tolees0d-21)

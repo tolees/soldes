@@ -1,0 +1,35 @@
+---
+layout: post
+title: '16.43 % rabais sur Lego Creator Expert - 10220-Le Camping C'
+date: 2021-02-19 22:18:38
+image: 'https://m.media-amazon.com/images/I/5151ZpHOVgL._SL200_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B00PGZP8HE-fr Lego Creator Expert - 10220-Le Camping Car Volkswagen T1'
+sku: 'B00PGZP8HE-fr'
+tags: [  ]
+actualPrice: 166.3 EUR
+currency: EUR
+price: 166.3
+comparePrice: 199.0 EUR
+prodname: 'Lego Creator Expert - 10220-Le Camping Car Volkswagen T1'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'LEGO'
+buyurl: 'https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21'
+descuento: '16.43'
+average: '117.841282051282'
+---
+
+Vous avez [Lego Creator Expert - 10220-Le Camping Car Volkswagen T1](https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21)  à  16.43 % de réduction, prix final  166.3 EUR (original: 199.0 EUR) ici:
+
+[![Lego Creator Expert - 10220-Le Camping C](https://m.media-amazon.com/images/I/5151ZpHOVgL._SL200_.jpg)](https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21)
+
+ℹ️:
+
+- II contient tous les détails qui en ont fait une légende ! Toutes ses caractéristiques célèbres sont ici ! À lextérieur, on retrouve les trois « V » du logo à lavant, le toit et les encadrements des fenêtres arrondis, le pare-brise en deux parties, les portes qui souvrent, le célèbre toit qui se soulève avec rideau de toile tout autour, le porte-bagages de toit, les prises dentrée dair à larrière et bien dautres choses encore !
+- À lintérieur, le réalisme est tout aussi impressionnant : un authentique moteur boxer quatre cylindres à plat refroidi par air, une banquette avant, un levier de vitesse et un tableau de bord incliné avec compteur...
+- Cet authentique camping-car est une réplique du camping-car Volkswagen classique de 1962.
+
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21)

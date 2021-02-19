@@ -29,8 +29,8 @@ C'est en vente [X-Rocker - Fauteuil à Bascule Nintendo Video Rocker Mario](http
 ℹ️:
 
 - Intérieur en mousse x-cool qui absorbe la température en position assise et la libère lorsque vous vous levez.
-- Sous licence super mario bros
 - Mousse épaisse et élégant simili cuir souple pour un confort supplémentaire
 - Compact et pliable
+- Sous licence super mario bros
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GMC37TS/?tag=tolees0d-21)

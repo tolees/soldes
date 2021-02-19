@@ -28,10 +28,10 @@ C'est en vente [PUTORSEN® Support Écran PC Moniteur  Premium Aluminium Bras Ar
 
 ℹ️:
 
-- ✅ Support de bureau pour écran LCD OLED LED de 17 à 32 pouces, de VESA 75mm x 75mm et 100mm x 100mm. Poids maximal dun écran 9 kg.
-- ✅ Bras articulé facile à régler. Il permet la rotation de lécran à ±90°, pivot à 180°, inclinaison de + 45° à – 45°. Larme la plus longueur dextension de support décran est à une hauteur de 562mm(22.1), la hauteur la plus élevée au bureau est à 620mm(22.2).
-- ✅ GARANTIE: À VIE.
-- ✅ Le bras pour ecran en aluminium de qualité supérieure combine un style élégant. Le bras est facile à régler une station de travail correcte ergonomiquement.
 - ✅ Installation facile: Ce bras de moniteur unique est extrêmement polyvalent et linstallation est simple. 2 façons dinstallation: pince de table ou vis de forage.
+- ✅ GARANTIE: À VIE.
+- ✅ Support de bureau pour écran LCD OLED LED de 17 à 32 pouces, de VESA 75mm x 75mm et 100mm x 100mm. Poids maximal dun écran 9 kg.
+- ✅ Le bras pour ecran en aluminium de qualité supérieure combine un style élégant. Le bras est facile à régler une station de travail correcte ergonomiquement.
+- ✅ Bras articulé facile à régler. Il permet la rotation de lécran à ±90°, pivot à 180°, inclinaison de + 45° à – 45°. Larme la plus longueur dextension de support décran est à une hauteur de 562mm(22.1), la hauteur la plus élevée au bureau est à 620mm(22.2).
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X9LPN1S/?tag=tolees0d-21)
