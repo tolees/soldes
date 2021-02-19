@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Le Bureau des légendes-Saison 5 [Blu-Ray avec 23.57 % rabais '
-date: 2021-02-16 19:59:30
+date: 2021-02-19 14:33:01
 image: 'https://m.media-amazon.com/images/I/51gyLQO9oIL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B084WPXCQ1/?tag=tolees0d-21'
 descuento: '23.57'
-average: '21.5632258064515'
+average: '21.6496969696969'
 ---
 
 C'est en vente [Le Bureau des légendes-Saison 5 [Blu-Ray]](https://www.amazon.fr/dp/B084WPXCQ1/?tag=tolees0d-21)  à  23.57 % de réduction, prix final  22.99 EUR (original: 30.08 EUR) ici:
