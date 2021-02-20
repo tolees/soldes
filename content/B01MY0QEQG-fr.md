@@ -28,8 +28,8 @@ Vous avez [Reebok Club C 85  Sneakers Basses Homme - Blanc  Intense White/Green 
 
 ℹ️:
 
+- Tige en cuir.
 - Amortissement.
 - Chaussures de sport.
-- Tige en cuir.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MY0QEQG/?tag=tolees0d-21)
