@@ -28,8 +28,8 @@ C'est en vente [Levi s Graphic Tee T-Shirt  White  Boxtab SS T2 White 0000   L H
 
 ℹ️:
 
-- Neuf et authentique. Nous sommes un vendeur autorisé de Levis.
 - Voir la description de produit ci-dessous pour plus dinformations.
+- Neuf et authentique. Nous sommes un vendeur autorisé de Levis.
 - Levis blanc Boxtab T-shirt graphique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TXDW41X/?tag=tolees0d-21)

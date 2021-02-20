@@ -28,8 +28,8 @@ Vous avez [Geox Femme D Felicity D Knee High Boot  Noir Black C9999  39 EU](http
 
 ℹ️:
 
-- Cuir Souple
 - Toile
+- Cuir Souple
 - Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792TCSWS/?tag=tolees0d-21)
