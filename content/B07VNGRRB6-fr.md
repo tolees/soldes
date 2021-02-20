@@ -28,8 +28,8 @@ Vous avez [Nike Court Borough Low 2  Chaussures de Basketball Homme  Blanc  Whit
 
 ℹ️:
 
-- Sensation de souplesse
-- Look rétro
 - La semelle en caoutchouc intègre des rainures flexibles pour accompagner le mouvement du pied.
+- Look rétro
+- Sensation de souplesse
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VNGRRB6/?tag=tolees0d-21)
