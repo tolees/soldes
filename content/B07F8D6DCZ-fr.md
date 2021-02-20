@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.01 % rabais sur Nintendo - Super Mario Party Switch'
-date: 2021-02-19 02:34:49
+date: 2021-02-20 03:18:26
 image: 'https://m.media-amazon.com/images/I/51BbnWwONKL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B07F8D6DCZ/?tag=tolees0d-21'
 descuento: '35.01'
-average: '45.9714814814815'
+average: '45.938275862069'
 ---
 
 Vous avez [Nintendo - Super Mario Party Switch](https://www.amazon.fr/dp/B07F8D6DCZ/?tag=tolees0d-21)  à  35.01 % de réduction, prix final  45.49 EUR (original: 69.99 EUR) ici:
