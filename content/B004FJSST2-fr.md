@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '43.06 % rabais sur D-Link DGS-1008P Switch 8 Ports Gigabit '
-date: 2021-02-18 20:26:07
+date: 2021-02-20 08:40:56
 image: 'https://m.media-amazon.com/images/I/31RIctyr0BL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21'
 descuento: '43.06'
-average: '63.1133333333334'
+average: '62.1571428571429'
 ---
 
 Vous avez [D-Link DGS-1008P Switch 8 Ports Gigabit POE 10/100/1000mbps - Idéal Partage de Connexion et Mise en Réseau Small/Home Office](https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21)  à  43.06 % de réduction, prix final  56.42 EUR (original: 99.09 EUR) ici:
@@ -28,14 +28,14 @@ Vous avez [D-Link DGS-1008P Switch 8 Ports Gigabit POE 10/100/1000mbps - Idéal 
 
 ℹ️:
 
-- Fonctionnement plug-and-play
-- Silencieux et sans ventilateur, il convient à tout type d’environnement
 - 8 ports Gigabit 10/100/1000 Mbps, dont 4 PoE
-- Détection croisée MDI/MDIX automatique pour tous les ports
+- Silencieux et sans ventilateur, il convient à tout type d’environnement
 - Périphérique : de 0 à 50 °C.Adaptateur secteur externe : de 0 à 40 °C
 - prise en charge du diagnostic des câbles
+- Fonctionnement plug-and-play
+- Détection croisée MDI/MDIX automatique pour tous les ports
 - Mode de transmission bidirectionnelle half duplex/full duplex pour les vitesses ethernet/Fast ethernet
-- Contrôle de flux IEEE 802.3x
 - prise en charge des trames étendues jusqu’à 9 720 Koctets
+- Contrôle de flux IEEE 802.3x
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21)

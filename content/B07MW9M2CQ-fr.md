@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.29 % rabais sur PNY XLR8 CS3030 M.2 NVMe 250GB SSD Inter'
-date: 2021-02-18 02:47:19
+date: 2021-02-20 08:40:46
 image: 'https://m.media-amazon.com/images/I/41kbzVr9mTL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'PNY'
 buyurl: 'https://www.amazon.fr/dp/B07MW9M2CQ/?tag=tolees0d-21'
 descuento: '27.29'
-average: '49.1064197530864'
+average: '48.8867469879518'
 ---
 
 Vous avez [PNY XLR8 CS3030 M.2 NVMe 250GB SSD Interne - Jusqu à 3500 Mo/s](https://www.amazon.fr/dp/B07MW9M2CQ/?tag=tolees0d-21)  à  27.29 % de réduction, prix final  39.99 EUR (original: 55.0 EUR) ici:
@@ -28,12 +28,12 @@ Vous avez [PNY XLR8 CS3030 M.2 NVMe 250GB SSD Interne - Jusqu à 3500 Mo/s](http
 
 ℹ️:
 
+- Meilleures performances système générales
 - Compatibilité système : Windows 10, Windows 8, Windows 7
-- Consommation électrique plus faible, fonctionnement froid et discret
-- Vitesse décriture séquentielle maximale: 1,050 MB/s
+- Lecture séquentielle jusqu’à 3 500 Mo/s et écriture séquentielle jusqu’à 3 000 Mo/s
 - Démarrage et lancement des applications plus rapides
 - Stockage fiable
-- Lecture séquentielle jusqu’à 3 500 Mo/s et écriture séquentielle jusqu’à 3 000 Mo/s
-- Meilleures performances système générales
+- Consommation électrique plus faible, fonctionnement froid et discret
+- Vitesse décriture séquentielle maximale: 1,050 MB/s
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MW9M2CQ/?tag=tolees0d-21)
