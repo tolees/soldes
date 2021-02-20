@@ -28,8 +28,8 @@ C'est en vente [Mega Crit Games - Slay the Spire](https://www.amazon.fr/dp/B07XC
 
 ℹ️:
 
-- Construction de Deck dynamique: choisissez judicieusement vos cartes
-- Découvrez des centaines de cartes à ajouter à votre Deck à chaque tentative descalade de la flèche
 - Sélectionnez des cartes qui fonctionnent ensemble pour envoyer efficacement les ennemis et atteindre le sommet
+- Découvrez des centaines de cartes à ajouter à votre Deck à chaque tentative descalade de la flèche
+- Construction de Deck dynamique: choisissez judicieusement vos cartes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XCWG9KL/?tag=tolees0d-21)
