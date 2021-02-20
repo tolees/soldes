@@ -29,8 +29,8 @@ Vous avez [Salewa MS Mountain Trainer Lite Mid Gore-TEX  Chaussures de Randonné
 ℹ️:
 
 - Utilisation recommandée : même sur de mauvaises routes, sur des sentiers ou sur des
-- Chaussures de randonnée Catégorie : B Trekking et randonnée
 - Attention au choix de la taille : veuillez vous référer à notre tableau des tailles et conseils pour choisir la taille appropriée
+- Chaussures de randonnée Catégorie : B Trekking et randonnée
 - Convient pour : escalade, trekking, randonnée en montagne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YB84KVV/?tag=tolees0d-21)
