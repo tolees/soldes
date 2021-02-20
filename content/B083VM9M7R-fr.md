@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Splash Toys- PINYPON Coffret 4 Figurines avec 40.02 % rabais '
-date: 2021-02-19 08:52:57
+date: 2021-02-20 14:59:37
 image: 'https://m.media-amazon.com/images/I/51l+pdkRbWL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,6 +28,6 @@ C'est en vente [Splash Toys- PINYPON Coffret 4 Figurines City  32022](https://ww
 
 ℹ️:
 
-- PINYPON SET OF 4 CITY FIGURINES
+- PINYPON COFFRET 4 FIGURINES CITY
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083VM9M7R/?tag=tolees0d-21)
