@@ -28,10 +28,10 @@ C'est en vente [Hori - Volant de Course Overdrive Conçu pour Xbox Series X/S](h
 
 ℹ️:
 
-- Compatible avec xbox series x|s, xbox one, and windows 10
-- Montez la sécurité avec un système de serrage robuste
 - Rayon de braquage de 270 degrés avec options de sortie réglables
-- Volant et pédales de course à taille réelle optimisés pour une simulation de course authentique
+- Montez la sécurité avec un système de serrage robuste
 - Officiellement licencié par microsoft
+- Compatible avec xbox series x|s, xbox one, and windows 10
+- Volant et pédales de course à taille réelle optimisés pour une simulation de course authentique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08LGWJ219/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Steinel interrupteur crépusculaire NightMatic 2000 Noir – Capteur 
 
 ℹ️:
 
-- Linterrupteur allume et éteint automatiquement les lampes raccordées lorsque le seuil crépusculaire est atteint
-- La luminosité du déclenchement est individuellement réglable
 - Un éclairage automatique la nuit des façades de maison, des parcelles de terrain, et dautres surfaces
-- Adapté pour le montage aux murs extérieurs
 - Fonctionne fiablement - peu importe sil pleut, si la tempête fait rage ou sil neige
+- La luminosité du déclenchement est individuellement réglable
+- Linterrupteur allume et éteint automatiquement les lampes raccordées lorsque le seuil crépusculaire est atteint
+- Adapté pour le montage aux murs extérieurs
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000OBZYZQ/?tag=tolees0d-21)

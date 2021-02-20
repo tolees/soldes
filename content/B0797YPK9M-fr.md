@@ -28,8 +28,8 @@ C'est en vente [Sylvanian Families - La Ville - Le Grand Magasin de Ville - 6017
 
 ℹ️:
 
-- Lorsque vous placez le bâtiment violet au centre, le grand magasin devient alors un bâtiment central.
 - Alignez les bâtiments pour créer une petite rue
+- Lorsque vous placez le bâtiment violet au centre, le grand magasin devient alors un bâtiment central.
 - Vous pouvez également placer lintérieur des bâtiments jaune et rose en face-à-face pour créer un bâtiment fermé.
 - Les trois bâtiments du grand magasin peuvent être positionnés de 3 manières différentes
 

@@ -28,9 +28,9 @@ Vous avez [Atlantic - Roll The Bones](https://www.amazon.fr/dp/B0002NRQU2/?tag=t
 
 ℹ️:
 
-- Country Of Release: NLD
-- Catalog#: 7567837372
-- Year Of Release: 2004
 - Record Label: Atlantic
+- Year Of Release: 2004
+- Catalog#: 7567837372
+- Country Of Release: NLD
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0002NRQU2/?tag=tolees0d-21)
