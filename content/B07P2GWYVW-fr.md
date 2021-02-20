@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '57.74 % rabais sur ART Marina  Bottes & Bottines classiques'
-date: 2021-02-11 15:27:26
+date: 2021-02-19 23:18:42
 image: 'https://m.media-amazon.com/images/I/41iEWWtt80L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Vous avez [ART Marina  Bottes & Bottines classiques Mixte Adulte  Noir  Black Bl
 ℹ️:
 
 - Type de talon : plat.
-- Revêtement : cuir.
-- Matériau de la semelle : caoutchouc.
 - Fermeture : fermeture éclair.
+- Revêtement : cuir.
 - Matériau extérieur : cuir.
+- Matériau de la semelle : caoutchouc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P2GWYVW/?tag=tolees0d-21)
