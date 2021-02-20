@@ -28,12 +28,12 @@ C'est en vente [Philips HD3720/25 PerfectDraft  Tireuse à Bière Domestique  F�
 
 ℹ️:
 
-- Fût non inclus
-- Une grande variété de marques de bière propose des fûts de 6L compatibles avec PerfectDraft : Hoegaarden, Jupitel, Leffe Blonde, Stella Artois, Bavaria, Bavaria Hooghbock, Dommelsch, Grolsch, Hertog Jan, Diekirch Premium, Diekirch Grand Cru, Becks, Becks Gold, Diebels, Diebels Pils, Hasseröder, Franziskaner, Löwenbräu
 - 30 jours de bière fraîche, à 3°
+- Fût non inclus
+- Vente interdite aux mineurs. Labus dalcool est dangereux pour la santé. A consommer avec modération
+- Une grande variété de marques de bière propose des fûts de 6L compatibles avec PerfectDraft : Hoegaarden, Jupitel, Leffe Blonde, Stella Artois, Bavaria, Bavaria Hooghbock, Dommelsch, Grolsch, Hertog Jan, Diekirch Premium, Diekirch Grand Cru, Becks, Becks Gold, Diebels, Diebels Pils, Hasseröder, Franziskaner, Löwenbräu
 - Indications de température, de volume et de fraîcheur sur écran LCD
 - Ouverture en façade facilitant le changement de fût et poignée de tirage facilement amovible (avec sécurité enfant)
 - Plateau égouttoir amovible, compatible lave-vaisselle
-- Vente interdite aux mineurs. Labus dalcool est dangereux pour la santé. A consommer avec modération
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DSVGQGZ/?tag=tolees0d-21)

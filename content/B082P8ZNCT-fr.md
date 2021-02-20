@@ -28,11 +28,11 @@ Vous avez [VTech - Kidizoom Smile Bleu Appareil Photo Pour Enfant  Dès 3 Ans - 
 
 ℹ️:
 
-- Version française
-- 4 supers jeux inclus + 35 trucages photos et vidéo - Détection des visages : lappareil photo pour enfant peut détecter un visage et prendre automatiquement une photo lorsquil le reconnaît
-- Fonctionne avec 4 piles LR06/AA non incluses – Dragonne incluse – se connecte à l’ordinateur. KidiZoom Smile existe aussi en version Rose.
-- Appareil photo et vidéo spécialement conçu pour les enfants de 3 à 10 ans. Boitier anti-choc. Grand écran couleur 1,8 pouces
 - Qualité des photos : résolution de 2 MP - Zoom x 4 - Mémoire interne permettant denregistrer 760 photos ou 9 min de vidéo – emplacement micro SD pour augmenter la mémoire
 - Enregistrement et déformation de la voix : 5 effets supers rigolos pour parler comme un robot, avec une voix super aigüe ou super grave
+- 4 supers jeux inclus + 35 trucages photos et vidéo - Détection des visages : lappareil photo pour enfant peut détecter un visage et prendre automatiquement une photo lorsquil le reconnaît
+- Fonctionne avec 4 piles LR06/AA non incluses – Dragonne incluse – se connecte à l’ordinateur. KidiZoom Smile existe aussi en version Rose.
+- Version française
+- Appareil photo et vidéo spécialement conçu pour les enfants de 3 à 10 ans. Boitier anti-choc. Grand écran couleur 1,8 pouces
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082P8ZNCT/?tag=tolees0d-21)
