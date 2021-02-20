@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '61.23 % rabais sur Reebok Club C 85  Sneakers Basses Homme '
-date: 2021-02-04 06:14:57
+date: 2021-02-20 06:28:49
 image: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [Reebok Club C 85  Sneakers Basses Homme - Blanc  Intense White/Green 
 
 ℹ️:
 
+- Amortissement.
 - Chaussures de sport.
 - Tige en cuir.
-- Amortissement.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MY0QEQG/?tag=tolees0d-21)
