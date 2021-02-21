@@ -2,7 +2,7 @@
 layout: post
 title: 'SANFASHION Solde Sweat Femme avec Capuch avec 45.60 % rabais '
 date: 2020-09-27 20:55:01
-image: 'https://m.media-amazon.com/images/I/41EN+tbkoNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EN+tbkoNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.99'
 
 C'est en vente [SANFASHION Solde Sweat Femme avec Capuche Chat Cadeau Saint Valentin 2020 Nouveau Sweat Chapeau Polaire Chaud Col Chic Tops Mode Grande Taille Hiver Vetement Sweat Shirt Hooded Pull Hoodies](https://www.amazon.fr/dp/B07J4ZYD9R/?tag=tolees0d-21)  à  45.60 % de réduction, prix final  6.99 EUR (original: 12.85 EUR) ici:
 
-[![SANFASHION Solde Sweat Femme avec Capuch](https://m.media-amazon.com/images/I/41EN+tbkoNL._SL200_.jpg)](https://www.amazon.fr/dp/B07J4ZYD9R/?tag=tolees0d-21)
+[![SANFASHION Solde Sweat Femme avec Capuch](https://m.media-amazon.com/images/I/41EN+tbkoNL._SL400_.jpg)](https://www.amazon.fr/dp/B07J4ZYD9R/?tag=tolees0d-21)
 
 ℹ️:
 

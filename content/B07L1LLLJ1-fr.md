@@ -2,7 +2,7 @@
 layout: post
 title: 'Spyder 193028 - Veste de ski - Femme - R avec 76.14 % rabais '
 date: 2020-08-10 18:56:36
-image: 'https://m.media-amazon.com/images/I/31F-71ernsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31F-71ernsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '95.42'
 
 C'est en vente [Spyder 193028 - Veste de ski - Femme - Rose  Berry  - Taille:8 / FR:40](https://www.amazon.fr/dp/B07L1LLLJ1/?tag=tolees0d-21)  à  76.14 % de réduction, prix final  95.42 EUR (original: 400.0 EUR) ici:
 
-[![Spyder 193028 - Veste de ski - Femme - R](https://m.media-amazon.com/images/I/31F-71ernsL._SL200_.jpg)](https://www.amazon.fr/dp/B07L1LLLJ1/?tag=tolees0d-21)
+[![Spyder 193028 - Veste de ski - Femme - R](https://m.media-amazon.com/images/I/31F-71ernsL._SL400_.jpg)](https://www.amazon.fr/dp/B07L1LLLJ1/?tag=tolees0d-21)
 
 ℹ️:
 

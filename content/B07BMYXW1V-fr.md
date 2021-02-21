@@ -2,7 +2,7 @@
 layout: post
 title: 'Anita Clara Art Soutien-Gorge sans Armat avec 48.29 % rabais '
 date: 2020-05-22 21:37:44
-image: 'https://m.media-amazon.com/images/I/41XhLbp4x2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XhLbp4x2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.0'
 
 C'est en vente [Anita Clara Art Soutien-Gorge sans Armatures  Noir  Schwarz 001   90B  Taille Fabricant: 75B  Femme](https://www.amazon.fr/dp/B07BMYXW1V/?tag=tolees0d-21)  à  48.29 % de réduction, prix final  31.0 EUR (original: 59.95 EUR) ici:
 
-[![Anita Clara Art Soutien-Gorge sans Armat](https://m.media-amazon.com/images/I/41XhLbp4x2L._SL200_.jpg)](https://www.amazon.fr/dp/B07BMYXW1V/?tag=tolees0d-21)
+[![Anita Clara Art Soutien-Gorge sans Armat](https://m.media-amazon.com/images/I/41XhLbp4x2L._SL400_.jpg)](https://www.amazon.fr/dp/B07BMYXW1V/?tag=tolees0d-21)
 
 ℹ️:
 

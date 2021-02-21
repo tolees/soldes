@@ -2,7 +2,7 @@
 layout: post
 title: 'DD SSD KINGSTON KC600 2.5 SATA3 512GO  S avec 32.29 % rabais '
 date: 2020-08-08 06:09:25
-image: 'https://m.media-amazon.com/images/I/31mmmCmEM7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31mmmCmEM7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.15'
 
 C'est en vente [DD SSD KINGSTON KC600 2.5 SATA3 512GO  SKC600/512G *0253](https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21)  à  32.29 % de réduction, prix final  75.15 EUR (original: 110.99 EUR) ici:
 
-[![DD SSD KINGSTON KC600 2.5 SATA3 512GO  S](https://m.media-amazon.com/images/I/31mmmCmEM7L._SL200_.jpg)](https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21)
+[![DD SSD KINGSTON KC600 2.5 SATA3 512GO  S](https://m.media-amazon.com/images/I/31mmmCmEM7L._SL400_.jpg)](https://www.amazon.fr/dp/B07ZDBT15M/?tag=tolees0d-21)
 
 ℹ️:
 

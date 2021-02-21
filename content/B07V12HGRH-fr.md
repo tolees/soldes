@@ -2,7 +2,7 @@
 layout: post
 title: '20.02 % rabais sur Asus VivoBook S S532FA-BQ064T PC Portabl'
 date: 2020-06-11 09:16:19
-image: 'https://m.media-amazon.com/images/I/41byeR16BZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41byeR16BZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '759.0'
 
 Vous avez [Asus VivoBook S S532FA-BQ064T PC Portable 15" FHD  Intel Core i5-8265U  RAM 8Go  512Go SSD PCIE + 32Go SSD Optane H10 Teton Glacier  Windows 10  Clavier AZERTY Français](https://www.amazon.fr/dp/B07V12HGRH/?tag=tolees0d-21)  à  20.02 % de réduction, prix final  759.0 EUR (original: 949.0 EUR) ici:
 
-[![Asus VivoBook S S532FA-BQ064T PC Portabl](https://m.media-amazon.com/images/I/41byeR16BZL._SL200_.jpg)](https://www.amazon.fr/dp/B07V12HGRH/?tag=tolees0d-21)
+[![Asus VivoBook S S532FA-BQ064T PC Portabl](https://m.media-amazon.com/images/I/41byeR16BZL._SL400_.jpg)](https://www.amazon.fr/dp/B07V12HGRH/?tag=tolees0d-21)
 
 ℹ️:
 

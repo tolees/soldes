@@ -2,7 +2,7 @@
 layout: post
 title: '28.12 % rabais sur Jabra BIZ™ 2400 II Duo  NOUVELLE GENERAT'
 date: 2020-05-22 23:54:16
-image: 'https://m.media-amazon.com/images/I/4161smxiOxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4161smxiOxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '190.48'
 
 Vous avez [Jabra BIZ™ 2400 II Duo  NOUVELLE GENERATION - Type: 72 UNC  UNC = Ultra-Noise-Cancelling  microphone ultra anti-bruit](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21)  à  28.12 % de réduction, prix final  190.48 EUR (original: 264.99 EUR) ici:
 
-[![Jabra BIZ™ 2400 II Duo  NOUVELLE GENERAT](https://m.media-amazon.com/images/I/4161smxiOxL._SL200_.jpg)](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21)
+[![Jabra BIZ™ 2400 II Duo  NOUVELLE GENERAT](https://m.media-amazon.com/images/I/4161smxiOxL._SL400_.jpg)](https://www.amazon.fr/dp/B00W2B4XY4/?tag=tolees0d-21)
 
 ℹ️:
 

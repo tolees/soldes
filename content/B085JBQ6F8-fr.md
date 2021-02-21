@@ -2,7 +2,7 @@
 layout: post
 title: '30.00 % rabais sur Téfal Gourmet crêpière Deux plaques amov'
 date: 2020-09-27 12:27:22
-image: 'https://m.media-amazon.com/images/I/31eX54wR4TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eX54wR4TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 Vous avez [Téfal Gourmet crêpière Deux plaques amovibles antiadhésives Température règlable Multi usage crêpes  galettes  pancakes  naan  fajitas Louche Répartiteur de pâte Grande et Mini-spatules inclus PY900D1](https://www.amazon.fr/dp/B085JBQ6F8/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  69.99 EUR (original: 99.99 EUR) ici:
 
-[![Téfal Gourmet crêpière Deux plaques amov](https://m.media-amazon.com/images/I/31eX54wR4TL._SL200_.jpg)](https://www.amazon.fr/dp/B085JBQ6F8/?tag=tolees0d-21)
+[![Téfal Gourmet crêpière Deux plaques amov](https://m.media-amazon.com/images/I/31eX54wR4TL._SL400_.jpg)](https://www.amazon.fr/dp/B085JBQ6F8/?tag=tolees0d-21)
 
 ℹ️:
 

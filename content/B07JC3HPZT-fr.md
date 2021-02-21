@@ -2,7 +2,7 @@
 layout: post
 title: 'LEGO®-DUPLO® Toy Story™ Le train de Toy  avec 36.01 % rabais '
 date: 2020-08-27 06:23:50
-image: 'https://m.media-amazon.com/images/I/51QImcD+fmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51QImcD+fmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 C'est en vente [LEGO®-DUPLO® Toy Story™ Le train de Toy Story Jeu de construction  2 Ans et Plus  21 Pièces 10894](https://www.amazon.fr/dp/B07JC3HPZT/?tag=tolees0d-21)  à  36.01 % de réduction, prix final  15.99 EUR (original: 24.99 EUR) ici:
 
-[![LEGO®-DUPLO® Toy Story™ Le train de Toy ](https://m.media-amazon.com/images/I/51QImcD+fmL._SL200_.jpg)](https://www.amazon.fr/dp/B07JC3HPZT/?tag=tolees0d-21)
+[![LEGO®-DUPLO® Toy Story™ Le train de Toy ](https://m.media-amazon.com/images/I/51QImcD+fmL._SL400_.jpg)](https://www.amazon.fr/dp/B07JC3HPZT/?tag=tolees0d-21)
 
 ℹ️:
 

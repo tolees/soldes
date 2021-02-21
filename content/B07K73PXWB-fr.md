@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s 511 Slim Fit – Jeans pour hommes  avec 38.20 % rabais '
 date: 2020-05-22 22:53:51
-image: 'https://m.media-amazon.com/images/I/41FyQpHbIQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FyQpHbIQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.98'
 
 C'est en vente [Levi s 511 Slim Fit – Jeans pour hommes à coupe ajustée avec stretch Bleu  Aegean Adapt 3407  33W/32L](https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21)  à  38.20 % de réduction, prix final  67.98 EUR (original: 110.0 EUR) ici:
 
-[![Levi s 511 Slim Fit – Jeans pour hommes ](https://m.media-amazon.com/images/I/41FyQpHbIQL._SL200_.jpg)](https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21)
+[![Levi s 511 Slim Fit – Jeans pour hommes ](https://m.media-amazon.com/images/I/41FyQpHbIQL._SL400_.jpg)](https://www.amazon.fr/dp/B07K73PXWB/?tag=tolees0d-21)
 
 ℹ️:
 

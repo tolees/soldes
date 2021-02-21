@@ -2,7 +2,7 @@
 layout: post
 title: '21.43 % rabais sur Sword Art Online Alicization Lycoris  Xb'
 date: 2020-08-05 12:09:07
-image: 'https://m.media-amazon.com/images/I/51Mzy3+kIIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Mzy3+kIIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.99'
 
 Vous avez [Sword Art Online Alicization Lycoris  Xbox One ](https://www.amazon.fr/dp/B082PQTRWZ/?tag=tolees0d-21)  à  21.43 % de réduction, prix final  54.99 EUR (original: 69.99 EUR) ici:
 
-[![Sword Art Online Alicization Lycoris  Xb](https://m.media-amazon.com/images/I/51Mzy3+kIIL._SL200_.jpg)](https://www.amazon.fr/dp/B082PQTRWZ/?tag=tolees0d-21)
+[![Sword Art Online Alicization Lycoris  Xb](https://m.media-amazon.com/images/I/51Mzy3+kIIL._SL400_.jpg)](https://www.amazon.fr/dp/B082PQTRWZ/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'New Balance 1500v5  Running Femme  Blanc avec 39.20 % rabais '
 date: 2020-05-22 20:31:35
-image: 'https://m.media-amazon.com/images/I/41dxRDA2SWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41dxRDA2SWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '72.9'
 
 C'est en vente [New Balance 1500v5  Running Femme  Blanc  White/Green White/Green   37 EU](https://www.amazon.fr/dp/B07BL2M2G7/?tag=tolees0d-21)  à  39.20 % de réduction, prix final  72.9 EUR (original: 119.9 EUR) ici:
 
-[![New Balance 1500v5  Running Femme  Blanc](https://m.media-amazon.com/images/I/41dxRDA2SWL._SL200_.jpg)](https://www.amazon.fr/dp/B07BL2M2G7/?tag=tolees0d-21)
+[![New Balance 1500v5  Running Femme  Blanc](https://m.media-amazon.com/images/I/41dxRDA2SWL._SL400_.jpg)](https://www.amazon.fr/dp/B07BL2M2G7/?tag=tolees0d-21)
 
 ℹ️:
 

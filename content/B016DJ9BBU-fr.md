@@ -2,7 +2,7 @@
 layout: post
 title: 'Safavieh Tapis d inspiration Vintage  Ti avec 72.69 % rabais '
 date: 2020-05-22 23:24:39
-image: 'https://m.media-amazon.com/images/I/519dph1gaNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/519dph1gaNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.52'
 
 C'est en vente [Safavieh Tapis d inspiration Vintage  Tissé Polyester Tapis en Vert / Multicolore  120 X 180 cm](https://www.amazon.fr/dp/B016DJ9BBU/?tag=tolees0d-21)  à  72.69 % de réduction, prix final  109.52 EUR (original: 400.99 EUR) ici:
 
-[![Safavieh Tapis d inspiration Vintage  Ti](https://m.media-amazon.com/images/I/519dph1gaNL._SL200_.jpg)](https://www.amazon.fr/dp/B016DJ9BBU/?tag=tolees0d-21)
+[![Safavieh Tapis d inspiration Vintage  Ti](https://m.media-amazon.com/images/I/519dph1gaNL._SL400_.jpg)](https://www.amazon.fr/dp/B016DJ9BBU/?tag=tolees0d-21)
 
 ℹ️:
 

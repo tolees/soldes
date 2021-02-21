@@ -2,7 +2,7 @@
 layout: post
 title: 'STIGA Luge Bob Snowracer Supreme GT Luge avec 25.97 % rabais '
 date: 2020-10-01 19:03:36
-image: 'https://m.media-amazon.com/images/I/41Hi6ZWTQAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Hi6ZWTQAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.99'
 
 C'est en vente [STIGA Luge Bob Snowracer Supreme GT Luge Bobsleigh avec Volant et Frein  noir/blanc](https://www.amazon.fr/dp/B004B5FBOK/?tag=tolees0d-21)  à  25.97 % de réduction, prix final  73.99 EUR (original: 99.95 EUR) ici:
 
-[![STIGA Luge Bob Snowracer Supreme GT Luge](https://m.media-amazon.com/images/I/41Hi6ZWTQAL._SL200_.jpg)](https://www.amazon.fr/dp/B004B5FBOK/?tag=tolees0d-21)
+[![STIGA Luge Bob Snowracer Supreme GT Luge](https://m.media-amazon.com/images/I/41Hi6ZWTQAL._SL400_.jpg)](https://www.amazon.fr/dp/B004B5FBOK/?tag=tolees0d-21)
 
 ℹ️:
 

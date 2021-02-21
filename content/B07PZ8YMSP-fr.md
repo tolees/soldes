@@ -2,7 +2,7 @@
 layout: post
 title: '50.87 % rabais sur AUBADE  Soutien-gorge push-up coussinet '
 date: 2020-08-11 08:27:41
-image: 'https://m.media-amazon.com/images/I/41iCDiPn9IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41iCDiPn9IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.22'
 
 Vous avez [AUBADE  Soutien-gorge push-up coussinet  Bretelles réglables  AU BAL DE FLORE  Blanc  85E  OF18](https://www.amazon.fr/dp/B07PZ8YMSP/?tag=tolees0d-21)  à  50.87 % de réduction, prix final  44.22 EUR (original: 90.0 EUR) ici:
 
-[![AUBADE  Soutien-gorge push-up coussinet ](https://m.media-amazon.com/images/I/41iCDiPn9IL._SL200_.jpg)](https://www.amazon.fr/dp/B07PZ8YMSP/?tag=tolees0d-21)
+[![AUBADE  Soutien-gorge push-up coussinet ](https://m.media-amazon.com/images/I/41iCDiPn9IL._SL400_.jpg)](https://www.amazon.fr/dp/B07PZ8YMSP/?tag=tolees0d-21)
 
 ℹ️:
 

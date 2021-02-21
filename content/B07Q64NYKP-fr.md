@@ -2,7 +2,7 @@
 layout: post
 title: '44.47 % rabais sur Everyone Stares - The Police Inside Out '
 date: 2020-10-12 07:37:11
-image: 'https://m.media-amazon.com/images/I/51hO0D2o59L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51hO0D2o59L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Vous avez [Everyone Stares - The Police Inside Out [Blu-ray]](https://www.amazon.fr/dp/B07Q64NYKP/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  9.99 EUR (original: 17.99 EUR) ici:
 
-[![Everyone Stares - The Police Inside Out ](https://m.media-amazon.com/images/I/51hO0D2o59L._SL200_.jpg)](https://www.amazon.fr/dp/B07Q64NYKP/?tag=tolees0d-21)
+[![Everyone Stares - The Police Inside Out ](https://m.media-amazon.com/images/I/51hO0D2o59L._SL400_.jpg)](https://www.amazon.fr/dp/B07Q64NYKP/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips Sonicare HX9601/03 Brosse à dent avec 21.06 % rabais '
 date: 2020-10-02 21:48:55
-image: 'https://m.media-amazon.com/images/I/314Xp6DwF-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/314Xp6DwF-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.65666666666667'
 
 C'est en vente [Philips Sonicare HX9601/03 Brosse à dents électrique rechargeable Connectée ExpertClean - Blanche](https://www.amazon.fr/dp/B07VZZ95CS/?tag=tolees0d-21)  à  21.06 % de réduction, prix final  89.99 EUR (original: 114.0 EUR) ici:
 
-[![Philips Sonicare HX9601/03 Brosse à dent](https://m.media-amazon.com/images/I/314Xp6DwF-L._SL200_.jpg)](https://www.amazon.fr/dp/B07VZZ95CS/?tag=tolees0d-21)
+[![Philips Sonicare HX9601/03 Brosse à dent](https://m.media-amazon.com/images/I/314Xp6DwF-L._SL400_.jpg)](https://www.amazon.fr/dp/B07VZZ95CS/?tag=tolees0d-21)
 
 ℹ️:
 

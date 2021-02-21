@@ -2,7 +2,7 @@
 layout: post
 title: 'Illy Café Moulu Moka Classico 12 x 250 g avec 16.68 % rabais '
 date: 2020-08-22 19:14:07
-image: 'https://m.media-amazon.com/images/I/41YbmiOp5zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41YbmiOp5zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.99'
 
 C'est en vente [Illy Café Moulu Moka Classico 12 x 250 gr](https://www.amazon.fr/dp/B0749TYKPN/?tag=tolees0d-21)  à  16.68 % de réduction, prix final  64.99 EUR (original: 78.0 EUR) ici:
 
-[![Illy Café Moulu Moka Classico 12 x 250 g](https://m.media-amazon.com/images/I/41YbmiOp5zL._SL200_.jpg)](https://www.amazon.fr/dp/B0749TYKPN/?tag=tolees0d-21)
+[![Illy Café Moulu Moka Classico 12 x 250 g](https://m.media-amazon.com/images/I/41YbmiOp5zL._SL400_.jpg)](https://www.amazon.fr/dp/B0749TYKPN/?tag=tolees0d-21)
 
 ℹ️:
 

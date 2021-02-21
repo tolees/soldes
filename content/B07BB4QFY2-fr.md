@@ -2,7 +2,7 @@
 layout: post
 title: '55.40 % rabais sur Marshall Mid Active Noise Cancelling  A.'
 date: 2020-09-07 06:25:05
-image: 'https://m.media-amazon.com/images/I/41+ac7blNCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+ac7blNCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '120.41'
 
 Vous avez [Marshall Mid Active Noise Cancelling  A.N.C.  Headphones with Bluetooth - Noir](https://www.amazon.fr/dp/B07BB4QFY2/?tag=tolees0d-21)  à  55.40 % de réduction, prix final  120.41 EUR (original: 269.99 EUR) ici:
 
-[![Marshall Mid Active Noise Cancelling  A.](https://m.media-amazon.com/images/I/41+ac7blNCL._SL200_.jpg)](https://www.amazon.fr/dp/B07BB4QFY2/?tag=tolees0d-21)
+[![Marshall Mid Active Noise Cancelling  A.](https://m.media-amazon.com/images/I/41+ac7blNCL._SL400_.jpg)](https://www.amazon.fr/dp/B07BB4QFY2/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '40.98 % rabais sur Reebok Classic Leather  Baskets Basses F'
 date: 2020-05-22 19:51:22
-image: 'https://m.media-amazon.com/images/I/412t5r87ogL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412t5r87ogL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.74'
 
 Vous avez [Reebok Classic Leather  Baskets Basses Femme  Noir  Black   38 EU](https://www.amazon.fr/dp/B001NYKZ84/?tag=tolees0d-21)  à  40.98 % de réduction, prix final  63.74 EUR (original: 108.0 EUR) ici:
 
-[![Reebok Classic Leather  Baskets Basses F](https://m.media-amazon.com/images/I/412t5r87ogL._SL200_.jpg)](https://www.amazon.fr/dp/B001NYKZ84/?tag=tolees0d-21)
+[![Reebok Classic Leather  Baskets Basses F](https://m.media-amazon.com/images/I/412t5r87ogL._SL400_.jpg)](https://www.amazon.fr/dp/B001NYKZ84/?tag=tolees0d-21)
 
 ℹ️:
 

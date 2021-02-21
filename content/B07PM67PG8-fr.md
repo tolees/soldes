@@ -2,7 +2,7 @@
 layout: post
 title: '46.15 % rabais sur CALVET Vin Mousseux Rose Celebration 75 '
 date: 2020-08-07 16:27:34
-image: 'https://m.media-amazon.com/images/I/31jBYl8AixL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jBYl8AixL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.39'
 
 Vous avez [CALVET Vin Mousseux Rose Celebration 75 cl](https://www.amazon.fr/dp/B07PM67PG8/?tag=tolees0d-21)  à  46.15 % de réduction, prix final  23.1 EUR (original: 42.9 EUR) ici:
 
-[![CALVET Vin Mousseux Rose Celebration 75 ](https://m.media-amazon.com/images/I/31jBYl8AixL._SL200_.jpg)](https://www.amazon.fr/dp/B07PM67PG8/?tag=tolees0d-21)
+[![CALVET Vin Mousseux Rose Celebration 75 ](https://m.media-amazon.com/images/I/31jBYl8AixL._SL400_.jpg)](https://www.amazon.fr/dp/B07PM67PG8/?tag=tolees0d-21)
 
 ℹ️:
 

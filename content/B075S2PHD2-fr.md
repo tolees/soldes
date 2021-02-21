@@ -2,7 +2,7 @@
 layout: post
 title: '21.57 % rabais sur GORE Wear C3 Homme Pantalon de pluie GOR'
 date: 2020-05-22 23:14:55
-image: 'https://m.media-amazon.com/images/I/31f1jlvk+VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31f1jlvk+VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '141.13'
 
 Vous avez [GORE Wear C3 Homme Pantalon de pluie GORE-TEX  L  Noir](https://www.amazon.fr/dp/B075S2PHD2/?tag=tolees0d-21)  à  21.57 % de réduction, prix final  141.13 EUR (original: 179.95 EUR) ici:
 
-[![GORE Wear C3 Homme Pantalon de pluie GOR](https://m.media-amazon.com/images/I/31f1jlvk+VL._SL200_.jpg)](https://www.amazon.fr/dp/B075S2PHD2/?tag=tolees0d-21)
+[![GORE Wear C3 Homme Pantalon de pluie GOR](https://m.media-amazon.com/images/I/31f1jlvk+VL._SL400_.jpg)](https://www.amazon.fr/dp/B075S2PHD2/?tag=tolees0d-21)
 
 ℹ️:
 

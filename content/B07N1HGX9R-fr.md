@@ -2,7 +2,7 @@
 layout: post
 title: 'Kipling Teagan Xs Luggage 33 L Black Ind avec 44.87 % rabais '
 date: 2020-05-22 23:41:42
-image: 'https://m.media-amazon.com/images/I/41KkTaSLmfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KkTaSLmfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '60.09'
 
 C'est en vente [Kipling Teagan Xs Luggage 33 L Black Indigo](https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21)  à  44.87 % de réduction, prix final  60.09 EUR (original: 109.0 EUR) ici:
 
-[![Kipling Teagan Xs Luggage 33 L Black Ind](https://m.media-amazon.com/images/I/41KkTaSLmfL._SL200_.jpg)](https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21)
+[![Kipling Teagan Xs Luggage 33 L Black Ind](https://m.media-amazon.com/images/I/41KkTaSLmfL._SL400_.jpg)](https://www.amazon.fr/dp/B07N1HGX9R/?tag=tolees0d-21)
 
 ℹ️:
 

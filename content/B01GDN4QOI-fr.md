@@ -2,7 +2,7 @@
 layout: post
 title: '37.55 % rabais sur Herschel Pop Quiz Sac à dos unisexe pour'
 date: 2020-08-22 12:27:46
-image: 'https://m.media-amazon.com/images/I/41DFcSyKSvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DFcSyKSvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.9'
 
 Vous avez [Herschel Pop Quiz Sac à dos unisexe pour adulte  Eclipse Croix de charbon.  Bleu  - 10011-01335-OS](https://www.amazon.fr/dp/B01GDN4QOI/?tag=tolees0d-21)  à  37.55 % de réduction, prix final  49.9 EUR (original: 79.9 EUR) ici:
 
-[![Herschel Pop Quiz Sac à dos unisexe pour](https://m.media-amazon.com/images/I/41DFcSyKSvL._SL200_.jpg)](https://www.amazon.fr/dp/B01GDN4QOI/?tag=tolees0d-21)
+[![Herschel Pop Quiz Sac à dos unisexe pour](https://m.media-amazon.com/images/I/41DFcSyKSvL._SL400_.jpg)](https://www.amazon.fr/dp/B01GDN4QOI/?tag=tolees0d-21)
 
 ℹ️:
 

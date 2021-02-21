@@ -2,7 +2,7 @@
 layout: post
 title: 'Replay Anbass Jean Slim  Bleu  Dark Blue avec 58.45 % rabais '
 date: 2020-08-08 09:27:47
-image: 'https://m.media-amazon.com/images/I/31-52ithbRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-52ithbRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.07'
 
 C'est en vente [Replay Anbass Jean Slim  Bleu  Dark Blue 7   W27/L30  Taille Fabricant: 27  Homme](https://www.amazon.fr/dp/B07SWSPMXP/?tag=tolees0d-21)  à  58.45 % de réduction, prix final  66.07 EUR (original: 159.0 EUR) ici:
 
-[![Replay Anbass Jean Slim  Bleu  Dark Blue](https://m.media-amazon.com/images/I/31-52ithbRL._SL200_.jpg)](https://www.amazon.fr/dp/B07SWSPMXP/?tag=tolees0d-21)
+[![Replay Anbass Jean Slim  Bleu  Dark Blue](https://m.media-amazon.com/images/I/31-52ithbRL._SL400_.jpg)](https://www.amazon.fr/dp/B07SWSPMXP/?tag=tolees0d-21)
 
 ℹ️:
 

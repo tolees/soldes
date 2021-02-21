@@ -2,7 +2,7 @@
 layout: post
 title: 'Bayonetta & Vanquish 10th Anniversary Bu avec 30.01 % rabais '
 date: 2020-08-04 06:23:27
-image: 'https://m.media-amazon.com/images/I/612giD4HlRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/612giD4HlRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.99'
 
 C'est en vente [Bayonetta & Vanquish 10th Anniversary Bundle - Launch Edition pour Xbox One](https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21)  à  30.01 % de réduction, prix final  27.99 EUR (original: 39.99 EUR) ici:
 
-[![Bayonetta & Vanquish 10th Anniversary Bu](https://m.media-amazon.com/images/I/612giD4HlRL._SL200_.jpg)](https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21)
+[![Bayonetta & Vanquish 10th Anniversary Bu](https://m.media-amazon.com/images/I/612giD4HlRL._SL400_.jpg)](https://www.amazon.fr/dp/B081KQJMF7/?tag=tolees0d-21)
 
 ℹ️:
 

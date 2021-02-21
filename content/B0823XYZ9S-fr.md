@@ -2,7 +2,7 @@
 layout: post
 title: 'Britax Römer Siège-auto 9 - 36 kg | ADVA avec 16.31 % rabais '
 date: 2020-08-30 16:39:15
-image: 'https://m.media-amazon.com/images/I/41qhHrszj1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41qhHrszj1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '250.99'
 
 C'est en vente [Britax Römer Siège-auto 9 - 36 kg | ADVANSAFIX Z-LINE | Isofix | Cosmos Black](https://www.amazon.fr/dp/B0823XYZ9S/?tag=tolees0d-21)  à  16.31 % de réduction, prix final  250.99 EUR (original: 299.9 EUR) ici:
 
-[![Britax Römer Siège-auto 9 - 36 kg | ADVA](https://m.media-amazon.com/images/I/41qhHrszj1L._SL200_.jpg)](https://www.amazon.fr/dp/B0823XYZ9S/?tag=tolees0d-21)
+[![Britax Römer Siège-auto 9 - 36 kg | ADVA](https://m.media-amazon.com/images/I/41qhHrszj1L._SL400_.jpg)](https://www.amazon.fr/dp/B0823XYZ9S/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'ASUS - Casque Gamer ROG Delta 7.1 Virtue avec 25.00 % rabais '
 date: 2020-10-03 09:15:10
-image: 'https://m.media-amazon.com/images/I/41ldzkm9IbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ldzkm9IbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.99'
 
 C'est en vente [ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura Sync - Connectique Type C](https://www.amazon.fr/dp/B07HBPDD5Y/?tag=tolees0d-21)  à  25.00 % de réduction, prix final  149.99 EUR (original: 199.99 EUR) ici:
 
-[![ASUS - Casque Gamer ROG Delta 7.1 Virtue](https://m.media-amazon.com/images/I/41ldzkm9IbL._SL200_.jpg)](https://www.amazon.fr/dp/B07HBPDD5Y/?tag=tolees0d-21)
+[![ASUS - Casque Gamer ROG Delta 7.1 Virtue](https://m.media-amazon.com/images/I/41ldzkm9IbL._SL400_.jpg)](https://www.amazon.fr/dp/B07HBPDD5Y/?tag=tolees0d-21)
 
 ℹ️:
 

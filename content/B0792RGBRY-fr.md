@@ -2,7 +2,7 @@
 layout: post
 title: '26.51 % rabais sur LEGO Harry Potter - L évasion de Grindel'
 date: 2020-08-27 14:16:52
-image: 'https://m.media-amazon.com/images/I/51BzgecVIRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51BzgecVIRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.04'
 
 Vous avez [LEGO Harry Potter - L évasion de Grindelwald - 75951 - Jeu de Construction](https://www.amazon.fr/dp/B0792RGBRY/?tag=tolees0d-21)  à  26.51 % de réduction, prix final  22.04 EUR (original: 29.99 EUR) ici:
 
-[![LEGO Harry Potter - L évasion de Grindel](https://m.media-amazon.com/images/I/51BzgecVIRL._SL200_.jpg)](https://www.amazon.fr/dp/B0792RGBRY/?tag=tolees0d-21)
+[![LEGO Harry Potter - L évasion de Grindel](https://m.media-amazon.com/images/I/51BzgecVIRL._SL400_.jpg)](https://www.amazon.fr/dp/B0792RGBRY/?tag=tolees0d-21)
 
 ℹ️:
 

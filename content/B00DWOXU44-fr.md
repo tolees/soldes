@@ -2,7 +2,7 @@
 layout: post
 title: '58.01 % rabais sur Pure Jongo T2 Enceinte Portable Bluetoot'
 date: 2020-09-15 11:43:23
-image: 'https://m.media-amazon.com/images/I/31sQHTj8CIL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31sQHTj8CIL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.57'
 
 Vous avez [Pure Jongo T2 Enceinte Portable Bluetooth Piano](https://www.amazon.fr/dp/B00DWOXU44/?tag=tolees0d-21)  à  58.01 % de réduction, prix final  75.57 EUR (original: 179.99 EUR) ici:
 
-[![Pure Jongo T2 Enceinte Portable Bluetoot](https://m.media-amazon.com/images/I/31sQHTj8CIL._SL200_.jpg)](https://www.amazon.fr/dp/B00DWOXU44/?tag=tolees0d-21)
+[![Pure Jongo T2 Enceinte Portable Bluetoot](https://m.media-amazon.com/images/I/31sQHTj8CIL._SL400_.jpg)](https://www.amazon.fr/dp/B00DWOXU44/?tag=tolees0d-21)
 
 ℹ️:
 

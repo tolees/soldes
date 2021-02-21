@@ -2,7 +2,7 @@
 layout: post
 title: 'D-Link DGS-1210-10P Switch Smart Web Man avec 64.08 % rabais '
 date: 2020-08-10 16:54:34
-image: 'https://m.media-amazon.com/images/I/413lo17QyGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413lo17QyGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.63'
 
 C'est en vente [D-Link DGS-1210-10P Switch Smart Web Manageable 10 Ports Gigabit 10/100/1000mbps avec POE - Idéal pour Entreprise Administration et Réseaux Gérés](https://www.amazon.fr/dp/B003KJTZYK/?tag=tolees0d-21)  à  64.08 % de réduction, prix final  81.63 EUR (original: 227.27 EUR) ici:
 
-[![D-Link DGS-1210-10P Switch Smart Web Man](https://m.media-amazon.com/images/I/413lo17QyGL._SL200_.jpg)](https://www.amazon.fr/dp/B003KJTZYK/?tag=tolees0d-21)
+[![D-Link DGS-1210-10P Switch Smart Web Man](https://m.media-amazon.com/images/I/413lo17QyGL._SL400_.jpg)](https://www.amazon.fr/dp/B003KJTZYK/?tag=tolees0d-21)
 
 ℹ️:
 

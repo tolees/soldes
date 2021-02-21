@@ -2,7 +2,7 @@
 layout: post
 title: 'Sylvanian Families - 5206 - Le bateau de avec 26.19 % rabais '
 date: 2020-08-13 06:10:29
-image: 'https://m.media-amazon.com/images/I/51ktJGIUh4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ktJGIUh4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.94142857142857'
 
 C'est en vente [Sylvanian Families - 5206 - Le bateau de croisière](https://www.amazon.fr/dp/B00S6F1UBY/?tag=tolees0d-21)  à  26.19 % de réduction, prix final  59.04 EUR (original: 79.99 EUR) ici:
 
-[![Sylvanian Families - 5206 - Le bateau de](https://m.media-amazon.com/images/I/51ktJGIUh4L._SL200_.jpg)](https://www.amazon.fr/dp/B00S6F1UBY/?tag=tolees0d-21)
+[![Sylvanian Families - 5206 - Le bateau de](https://m.media-amazon.com/images/I/51ktJGIUh4L._SL400_.jpg)](https://www.amazon.fr/dp/B00S6F1UBY/?tag=tolees0d-21)
 
 ℹ️:
 

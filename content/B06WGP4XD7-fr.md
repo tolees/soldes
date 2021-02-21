@@ -2,7 +2,7 @@
 layout: post
 title: 'PlayStation 2 Console de Jeux Noir Porte avec 28.01 % rabais '
 date: 2020-10-12 00:15:11
-image: 'https://m.media-amazon.com/images/I/516UgePFYzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516UgePFYzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 C'est en vente [PlayStation 2 Console de Jeux Noir Portefeuille](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21)  à  28.01 % de réduction, prix final  17.99 EUR (original: 24.99 EUR) ici:
 
-[![PlayStation 2 Console de Jeux Noir Porte](https://m.media-amazon.com/images/I/516UgePFYzL._SL200_.jpg)](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21)
+[![PlayStation 2 Console de Jeux Noir Porte](https://m.media-amazon.com/images/I/516UgePFYzL._SL400_.jpg)](https://www.amazon.fr/dp/B06WGP4XD7/?tag=tolees0d-21)
 
 ℹ️:
 

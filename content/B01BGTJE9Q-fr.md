@@ -2,7 +2,7 @@
 layout: post
 title: 'G-Star 3301 Straight Tapered Jeans  Bleu avec 30.82 % rabais '
 date: 2020-05-22 21:09:39
-image: 'https://m.media-amazon.com/images/I/41klPAs3fmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41klPAs3fmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.98'
 
 C'est en vente [G-Star 3301 Straight Tapered Jeans  Bleu  lt aged 7607-424   33W / 34L Homme](https://www.amazon.fr/dp/B01BGTJE9Q/?tag=tolees0d-21)  à  30.82 % de réduction, prix final  82.98 EUR (original: 119.95 EUR) ici:
 
-[![G-Star 3301 Straight Tapered Jeans  Bleu](https://m.media-amazon.com/images/I/41klPAs3fmL._SL200_.jpg)](https://www.amazon.fr/dp/B01BGTJE9Q/?tag=tolees0d-21)
+[![G-Star 3301 Straight Tapered Jeans  Bleu](https://m.media-amazon.com/images/I/41klPAs3fmL._SL400_.jpg)](https://www.amazon.fr/dp/B01BGTJE9Q/?tag=tolees0d-21)
 
 ℹ️:
 

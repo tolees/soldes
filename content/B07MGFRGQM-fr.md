@@ -2,7 +2,7 @@
 layout: post
 title: 'Napapijri Skidoo WOM EF 2 Jacket  Rose   avec 63.87 % rabais '
 date: 2020-08-09 12:39:19
-image: 'https://m.media-amazon.com/images/I/419N9Wf3SCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419N9Wf3SCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '173.06'
 
 C'est en vente [Napapijri Skidoo WOM EF 2 Jacket  Rose  Pink Blush P79   XL Femme](https://www.amazon.fr/dp/B07MGFRGQM/?tag=tolees0d-21)  à  63.87 % de réduction, prix final  173.06 EUR (original: 479.0 EUR) ici:
 
-[![Napapijri Skidoo WOM EF 2 Jacket  Rose  ](https://m.media-amazon.com/images/I/419N9Wf3SCL._SL200_.jpg)](https://www.amazon.fr/dp/B07MGFRGQM/?tag=tolees0d-21)
+[![Napapijri Skidoo WOM EF 2 Jacket  Rose  ](https://m.media-amazon.com/images/I/419N9Wf3SCL._SL400_.jpg)](https://www.amazon.fr/dp/B07MGFRGQM/?tag=tolees0d-21)
 
 ℹ️:
 

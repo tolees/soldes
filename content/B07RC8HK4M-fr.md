@@ -2,7 +2,7 @@
 layout: post
 title: '65.15 % rabais sur Columbia Mission Air  Veste Modulable po'
 date: 2020-08-04 21:04:22
-image: 'https://m.media-amazon.com/images/I/41rznlS96gL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rznlS96gL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.76'
 
 Vous avez [Columbia Mission Air  Veste Modulable pour Homme](https://www.amazon.fr/dp/B07RC8HK4M/?tag=tolees0d-21)  à  65.15 % de réduction, prix final  55.76 EUR (original: 159.99 EUR) ici:
 
-[![Columbia Mission Air  Veste Modulable po](https://m.media-amazon.com/images/I/41rznlS96gL._SL200_.jpg)](https://www.amazon.fr/dp/B07RC8HK4M/?tag=tolees0d-21)
+[![Columbia Mission Air  Veste Modulable po](https://m.media-amazon.com/images/I/41rznlS96gL._SL400_.jpg)](https://www.amazon.fr/dp/B07RC8HK4M/?tag=tolees0d-21)
 
 ℹ️:
 

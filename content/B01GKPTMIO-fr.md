@@ -2,7 +2,7 @@
 layout: post
 title: 'Safavieh Tapis d inspiration Vintage  Ti avec 67.84 % rabais '
 date: 2020-05-22 20:50:42
-image: 'https://m.media-amazon.com/images/I/51AV34ATNfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AV34ATNfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.24'
 
 C'est en vente [Safavieh Tapis d inspiration Vintage  Tissé Polypropylène Tapis en Gris / Gris Clair  120 X 180 cm](https://www.amazon.fr/dp/B01GKPTMIO/?tag=tolees0d-21)  à  67.84 % de réduction, prix final  112.24 EUR (original: 348.99 EUR) ici:
 
-[![Safavieh Tapis d inspiration Vintage  Ti](https://m.media-amazon.com/images/I/51AV34ATNfL._SL200_.jpg)](https://www.amazon.fr/dp/B01GKPTMIO/?tag=tolees0d-21)
+[![Safavieh Tapis d inspiration Vintage  Ti](https://m.media-amazon.com/images/I/51AV34ATNfL._SL400_.jpg)](https://www.amazon.fr/dp/B01GKPTMIO/?tag=tolees0d-21)
 
 ℹ️:
 

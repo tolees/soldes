@@ -2,7 +2,7 @@
 layout: post
 title: 'Ready Player One - DVD avec 38.76 % rabais '
 date: 2020-08-18 08:06:36
-image: 'https://m.media-amazon.com/images/I/51lHJP2agML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lHJP2agML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.98'
 
 C'est en vente [Ready Player One - DVD](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21)  à  38.76 % de réduction, prix final  7.98 EUR (original: 13.03 EUR) ici:
 
-[![Ready Player One - DVD](https://m.media-amazon.com/images/I/51lHJP2agML._SL200_.jpg)](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21)
+[![Ready Player One - DVD](https://m.media-amazon.com/images/I/51lHJP2agML._SL400_.jpg)](https://www.amazon.fr/dp/B07BQNJ1FH/?tag=tolees0d-21)
 
 ℹ️:
 

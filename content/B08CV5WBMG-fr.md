@@ -2,7 +2,7 @@
 layout: post
 title: 'Yizhet Dongle USB Bluetooth Adaptateur M avec 15.07 % rabais '
 date: 2020-09-27 14:45:19
-image: 'https://m.media-amazon.com/images/I/31pufE4n3vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pufE4n3vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '7.38'
 
 C'est en vente [Yizhet Dongle USB Bluetooth Adaptateur Mini clé USB Bluetooth 5.0 avec Faible consommation d énergie Plug and Play  Bluetooth 5.0 ](https://www.amazon.fr/dp/B08CV5WBMG/?tag=tolees0d-21)  à  15.07 % de réduction, prix final  7.38 EUR (original: 8.69 EUR) ici:
 
-[![Yizhet Dongle USB Bluetooth Adaptateur M](https://m.media-amazon.com/images/I/31pufE4n3vL._SL200_.jpg)](https://www.amazon.fr/dp/B08CV5WBMG/?tag=tolees0d-21)
+[![Yizhet Dongle USB Bluetooth Adaptateur M](https://m.media-amazon.com/images/I/31pufE4n3vL._SL400_.jpg)](https://www.amazon.fr/dp/B08CV5WBMG/?tag=tolees0d-21)
 
 ℹ️:
 

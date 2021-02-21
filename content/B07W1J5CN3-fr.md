@@ -2,7 +2,7 @@
 layout: post
 title: 'Icebreaker Victory LS Zip Veste Homme Je avec 53.78 % rabais '
 date: 2020-08-04 18:04:33
-image: 'https://m.media-amazon.com/images/I/41EZj+ouNpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41EZj+ouNpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '64.68'
 
 C'est en vente [Icebreaker Victory LS Zip Veste Homme Jet HTHR FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B07W1J5CN3/?tag=tolees0d-21)  à  53.78 % de réduction, prix final  64.68 EUR (original: 139.95 EUR) ici:
 
-[![Icebreaker Victory LS Zip Veste Homme Je](https://m.media-amazon.com/images/I/41EZj+ouNpL._SL200_.jpg)](https://www.amazon.fr/dp/B07W1J5CN3/?tag=tolees0d-21)
+[![Icebreaker Victory LS Zip Veste Homme Je](https://m.media-amazon.com/images/I/41EZj+ouNpL._SL400_.jpg)](https://www.amazon.fr/dp/B07W1J5CN3/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '56.01 % rabais sur Replay Anbass Jean Slim  Gris  Medium Gr'
 date: 2020-09-25 18:04:21
-image: 'https://m.media-amazon.com/images/I/418t0dmHMgL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/418t0dmHMgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.95'
 
 Vous avez [Replay Anbass Jean Slim  Gris  Medium Grey 096   W30/L30  Taille Fabricant: 30  Homme](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21)  à  56.01 % de réduction, prix final  69.95 EUR (original: 159.0 EUR) ici:
 
-[![Replay Anbass Jean Slim  Gris  Medium Gr](https://m.media-amazon.com/images/I/418t0dmHMgL._SL200_.jpg)](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21)
+[![Replay Anbass Jean Slim  Gris  Medium Gr](https://m.media-amazon.com/images/I/418t0dmHMgL._SL400_.jpg)](https://www.amazon.fr/dp/B07VCF6ZSD/?tag=tolees0d-21)
 
 ℹ️:
 

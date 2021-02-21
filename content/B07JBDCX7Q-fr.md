@@ -2,7 +2,7 @@
 layout: post
 title: 'Zéfal Z Handlebar Mount Support vélo/Mot avec 34.32 % rabais '
 date: 2020-09-16 10:26:33
-image: 'https://m.media-amazon.com/images/I/31NnULD+SsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NnULD+SsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.665'
 
 C'est en vente [Zéfal Z Handlebar Mount Support vélo/Moto pour Smartphone et caméra Mixte Adulte  Noir](https://www.amazon.fr/dp/B07JBDCX7Q/?tag=tolees0d-21)  à  34.32 % de réduction, prix final  19.67 EUR (original: 29.95 EUR) ici:
 
-[![Zéfal Z Handlebar Mount Support vélo/Mot](https://m.media-amazon.com/images/I/31NnULD+SsL._SL200_.jpg)](https://www.amazon.fr/dp/B07JBDCX7Q/?tag=tolees0d-21)
+[![Zéfal Z Handlebar Mount Support vélo/Mot](https://m.media-amazon.com/images/I/31NnULD+SsL._SL400_.jpg)](https://www.amazon.fr/dp/B07JBDCX7Q/?tag=tolees0d-21)
 
 ℹ️:
 

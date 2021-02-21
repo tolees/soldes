@@ -2,7 +2,7 @@
 layout: post
 title: '44.47 % rabais sur Queen - Rock Montreal & Live Aid [Blu-ra'
 date: 2020-10-11 06:33:17
-image: 'https://m.media-amazon.com/images/I/413cPQfAoBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413cPQfAoBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Vous avez [Queen - Rock Montreal & Live Aid [Blu-ray]](https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  9.99 EUR (original: 17.99 EUR) ici:
 
-[![Queen - Rock Montreal & Live Aid [Blu-ra](https://m.media-amazon.com/images/I/413cPQfAoBL._SL200_.jpg)](https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21)
+[![Queen - Rock Montreal & Live Aid [Blu-ra](https://m.media-amazon.com/images/I/413cPQfAoBL._SL400_.jpg)](https://www.amazon.fr/dp/B000VWOUSU/?tag=tolees0d-21)
 
 ℹ️:
 

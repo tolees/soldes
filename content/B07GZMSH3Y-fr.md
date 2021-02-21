@@ -2,7 +2,7 @@
 layout: post
 title: 'Michael Kors Montre Connectée MKT5052 avec 49.18 % rabais '
 date: 2020-05-23 00:03:49
-image: 'https://m.media-amazon.com/images/I/41KHDX0zZRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KHDX0zZRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '212.92'
 
 C'est en vente [Michael Kors Montre Connectée MKT5052](https://www.amazon.fr/dp/B07GZMSH3Y/?tag=tolees0d-21)  à  49.18 % de réduction, prix final  212.92 EUR (original: 419.0 EUR) ici:
 
-[![Michael Kors Montre Connectée MKT5052](https://m.media-amazon.com/images/I/41KHDX0zZRL._SL200_.jpg)](https://www.amazon.fr/dp/B07GZMSH3Y/?tag=tolees0d-21)
+[![Michael Kors Montre Connectée MKT5052](https://m.media-amazon.com/images/I/41KHDX0zZRL._SL400_.jpg)](https://www.amazon.fr/dp/B07GZMSH3Y/?tag=tolees0d-21)
 
 ℹ️:
 

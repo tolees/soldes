@@ -2,7 +2,7 @@
 layout: post
 title: '33.51 % rabais sur Crocs Classic Sabots Mixte Adulte  Viole'
 date: 2020-10-09 07:57:57
-image: 'https://m.media-amazon.com/images/I/31u-WeBzh2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31u-WeBzh2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.59'
 
 Vous avez [Crocs Classic Sabots Mixte Adulte  Violet  Neon Purple   36/37 EU](https://www.amazon.fr/dp/B07CN8XFVD/?tag=tolees0d-21)  à  33.51 % de réduction, prix final  26.59 EUR (original: 39.99 EUR) ici:
 
-[![Crocs Classic Sabots Mixte Adulte  Viole](https://m.media-amazon.com/images/I/31u-WeBzh2L._SL200_.jpg)](https://www.amazon.fr/dp/B07CN8XFVD/?tag=tolees0d-21)
+[![Crocs Classic Sabots Mixte Adulte  Viole](https://m.media-amazon.com/images/I/31u-WeBzh2L._SL400_.jpg)](https://www.amazon.fr/dp/B07CN8XFVD/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '50.00 % rabais sur Tommy Hilfiger Th Essential Reg Polo SS '
 date: 2020-05-22 22:08:26
-image: 'https://m.media-amazon.com/images/I/41+rtqvLI1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+rtqvLI1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.9'
 
 Vous avez [Tommy Hilfiger Th Essential Reg Polo SS  Blanc  Classic White 100   XX-Large Femme](https://www.amazon.fr/dp/B07NCH8PFJ/?tag=tolees0d-21)  à  50.00 % de réduction, prix final  59.9 EUR (original: 119.8 EUR) ici:
 
-[![Tommy Hilfiger Th Essential Reg Polo SS ](https://m.media-amazon.com/images/I/41+rtqvLI1L._SL200_.jpg)](https://www.amazon.fr/dp/B07NCH8PFJ/?tag=tolees0d-21)
+[![Tommy Hilfiger Th Essential Reg Polo SS ](https://m.media-amazon.com/images/I/41+rtqvLI1L._SL400_.jpg)](https://www.amazon.fr/dp/B07NCH8PFJ/?tag=tolees0d-21)
 
 ℹ️:
 

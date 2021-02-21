@@ -2,7 +2,7 @@
 layout: post
 title: '40.01 % rabais sur Amiibo Cat Mario Cat Peach 2en1 pour Nin'
 date: 2020-09-16 22:13:27
-image: 'https://m.media-amazon.com/images/I/51sPFdwaNVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51sPFdwaNVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.56142857142857'
 
 Vous avez [Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)  à  40.01 % de réduction, prix final  29.99 EUR (original: 49.99 EUR) ici:
 
-[![Amiibo Cat Mario Cat Peach 2en1 pour Nin](https://m.media-amazon.com/images/I/51sPFdwaNVL._SL200_.jpg)](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)
+[![Amiibo Cat Mario Cat Peach 2en1 pour Nin](https://m.media-amazon.com/images/I/51sPFdwaNVL._SL400_.jpg)](https://www.amazon.fr/dp/B08HGC6YDF/?tag=tolees0d-21)
 
 ℹ️:
 

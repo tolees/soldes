@@ -2,7 +2,7 @@
 layout: post
 title: 'Love Moschino Logo Badge Short Sleeve Po avec 20.74 % rabais '
 date: 2020-05-22 22:37:21
-image: 'https://m.media-amazon.com/images/I/31XsjlvSWUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31XsjlvSWUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.7'
 
 C'est en vente [Love Moschino Logo Badge Short Sleeve Polo   White A00   Medium Homme](https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21)  à  20.74 % de réduction, prix final  96.7 EUR (original: 122.0 EUR) ici:
 
-[![Love Moschino Logo Badge Short Sleeve Po](https://m.media-amazon.com/images/I/31XsjlvSWUL._SL200_.jpg)](https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21)
+[![Love Moschino Logo Badge Short Sleeve Po](https://m.media-amazon.com/images/I/31XsjlvSWUL._SL400_.jpg)](https://www.amazon.fr/dp/B07KSXTFSQ/?tag=tolees0d-21)
 
 ℹ️:
 

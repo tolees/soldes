@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral-B Combiné Dentaire : Oral-B PRO 200 avec 53.51 % rabais '
 date: 2020-05-22 23:39:57
-image: 'https://m.media-amazon.com/images/I/51SRlH4U8SL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SRlH4U8SL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '92.99'
 
 C'est en vente [Oral-B Combiné Dentaire : Oral-B PRO 2000 + Hydropulseur Oxyjet](https://www.amazon.fr/dp/B07B5FK3BN/?tag=tolees0d-21)  à  53.51 % de réduction, prix final  92.99 EUR (original: 200.0 EUR) ici:
 
-[![Oral-B Combiné Dentaire : Oral-B PRO 200](https://m.media-amazon.com/images/I/51SRlH4U8SL._SL200_.jpg)](https://www.amazon.fr/dp/B07B5FK3BN/?tag=tolees0d-21)
+[![Oral-B Combiné Dentaire : Oral-B PRO 200](https://m.media-amazon.com/images/I/51SRlH4U8SL._SL400_.jpg)](https://www.amazon.fr/dp/B07B5FK3BN/?tag=tolees0d-21)
 
 ℹ️:
 

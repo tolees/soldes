@@ -2,7 +2,7 @@
 layout: post
 title: 'Joker avec 35.24 % rabais '
 date: 2020-06-12 01:18:40
-image: 'https://m.media-amazon.com/images/I/51Qnx+ijrwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Qnx+ijrwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 C'est en vente [Joker](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)  à  35.24 % de réduction, prix final  12.99 EUR (original: 20.06 EUR) ici:
 
-[![Joker](https://m.media-amazon.com/images/I/51Qnx+ijrwL._SL200_.jpg)](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)
+[![Joker](https://m.media-amazon.com/images/I/51Qnx+ijrwL._SL400_.jpg)](https://www.amazon.fr/dp/B07YMDZZXD/?tag=tolees0d-21)
 
 ℹ️:
 

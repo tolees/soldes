@@ -2,7 +2,7 @@
 layout: post
 title: '19.26 % rabais sur APC Back-UPS ES - BE700G-FR - Onduleur 7'
 date: 2020-05-22 22:55:01
-image: 'https://m.media-amazon.com/images/I/41PleGpazRL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PleGpazRL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '125.94'
 
 Vous avez [APC Back-UPS ES - BE700G-FR - Onduleur 700VA  8 Prises FR ](https://www.amazon.fr/dp/B002TANS0I/?tag=tolees0d-21)  à  19.26 % de réduction, prix final  125.94 EUR (original: 155.99 EUR) ici:
 
-[![APC Back-UPS ES - BE700G-FR - Onduleur 7](https://m.media-amazon.com/images/I/41PleGpazRL._SL200_.jpg)](https://www.amazon.fr/dp/B002TANS0I/?tag=tolees0d-21)
+[![APC Back-UPS ES - BE700G-FR - Onduleur 7](https://m.media-amazon.com/images/I/41PleGpazRL._SL400_.jpg)](https://www.amazon.fr/dp/B002TANS0I/?tag=tolees0d-21)
 
 ℹ️:
 

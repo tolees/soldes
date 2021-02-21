@@ -2,7 +2,7 @@
 layout: post
 title: '15.05 % rabais sur Levi s 724 High Rise Straight Jean droit'
 date: 2020-08-17 22:52:47
-image: 'https://m.media-amazon.com/images/I/31h+44wJoML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31h+44wJoML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.535'
 
 Vous avez [Levi s 724 High Rise Straight Jean droit  Femme  Bleu  Two The Nine 0015   W32/L30](https://www.amazon.fr/dp/B07JQ28CZT/?tag=tolees0d-21)  à  15.05 % de réduction, prix final  84.95 EUR (original: 100.0 EUR) ici:
 
-[![Levi s 724 High Rise Straight Jean droit](https://m.media-amazon.com/images/I/31h+44wJoML._SL200_.jpg)](https://www.amazon.fr/dp/B07JQ28CZT/?tag=tolees0d-21)
+[![Levi s 724 High Rise Straight Jean droit](https://m.media-amazon.com/images/I/31h+44wJoML._SL400_.jpg)](https://www.amazon.fr/dp/B07JQ28CZT/?tag=tolees0d-21)
 
 ℹ️:
 

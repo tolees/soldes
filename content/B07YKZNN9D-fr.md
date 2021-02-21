@@ -2,7 +2,7 @@
 layout: post
 title: 'TV LED 4K 108 cm 43HK6100 avec 22.22 % rabais '
 date: 2020-08-24 23:54:45
-image: 'https://m.media-amazon.com/images/I/51eYgLw9avL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51eYgLw9avL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '331.604347826087'
 
 C'est en vente [TV LED 4K 108 cm 43HK6100](https://www.amazon.fr/dp/B07YKZNN9D/?tag=tolees0d-21)  à  22.22 % de réduction, prix final  349.99 EUR (original: 449.99 EUR) ici:
 
-[![TV LED 4K 108 cm 43HK6100](https://m.media-amazon.com/images/I/51eYgLw9avL._SL200_.jpg)](https://www.amazon.fr/dp/B07YKZNN9D/?tag=tolees0d-21)
+[![TV LED 4K 108 cm 43HK6100](https://m.media-amazon.com/images/I/51eYgLw9avL._SL400_.jpg)](https://www.amazon.fr/dp/B07YKZNN9D/?tag=tolees0d-21)
 
 ℹ️:
 

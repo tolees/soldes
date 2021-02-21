@@ -2,7 +2,7 @@
 layout: post
 title: '21.88 % rabais sur De Longhi Machine à Café à Pompe et Cafe'
 date: 2020-05-22 21:03:19
-image: 'https://m.media-amazon.com/images/I/419jOVcg6iL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419jOVcg6iL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '124.99'
 
 Vous avez [De Longhi Machine à Café à Pompe et Cafetière Filtre 2-en-1  Machine Expresso BCO264.1  Noir](https://www.amazon.fr/dp/B012P0CPS2/?tag=tolees0d-21)  à  21.88 % de réduction, prix final  124.99 EUR (original: 159.99 EUR) ici:
 
-[![De Longhi Machine à Café à Pompe et Cafe](https://m.media-amazon.com/images/I/419jOVcg6iL._SL200_.jpg)](https://www.amazon.fr/dp/B012P0CPS2/?tag=tolees0d-21)
+[![De Longhi Machine à Café à Pompe et Cafe](https://m.media-amazon.com/images/I/419jOVcg6iL._SL400_.jpg)](https://www.amazon.fr/dp/B012P0CPS2/?tag=tolees0d-21)
 
 ℹ️:
 

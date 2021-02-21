@@ -2,7 +2,7 @@
 layout: post
 title: 'EasySMX Manettes Switch  Manette pour Ni avec 42.86 % rabais '
 date: 2020-08-09 12:27:16
-image: 'https://m.media-amazon.com/images/I/51mlgm-SbsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mlgm-SbsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.99'
 
 C'est en vente [EasySMX Manettes Switch  Manette pour Nintendo Switch  Manette Switch sans Fil Bluetooth  6 Axes Manette Switch Pro avec Double Moteur Intégré pour Nintendo Switch Pro/Lite et PC  Blanc](https://www.amazon.fr/dp/B0875ZZNVS/?tag=tolees0d-21)  à  42.86 % de réduction, prix final  39.99 EUR (original: 69.99 EUR) ici:
 
-[![EasySMX Manettes Switch  Manette pour Ni](https://m.media-amazon.com/images/I/51mlgm-SbsL._SL200_.jpg)](https://www.amazon.fr/dp/B0875ZZNVS/?tag=tolees0d-21)
+[![EasySMX Manettes Switch  Manette pour Ni](https://m.media-amazon.com/images/I/51mlgm-SbsL._SL400_.jpg)](https://www.amazon.fr/dp/B0875ZZNVS/?tag=tolees0d-21)
 
 ℹ️:
 

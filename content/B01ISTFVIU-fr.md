@@ -2,7 +2,7 @@
 layout: post
 title: 'Bosch MUZ9VL1 Accessoire optimum robot c avec 44.99 % rabais '
 date: 2020-08-22 13:43:43
-image: 'https://m.media-amazon.com/images/I/41BVy3typDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BVy3typDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.5'
 
 C'est en vente [Bosch MUZ9VL1 Accessoire optimum robot culinaire](https://www.amazon.fr/dp/B01ISTFVIU/?tag=tolees0d-21)  à  44.99 % de réduction, prix final  38.5 EUR (original: 69.99 EUR) ici:
 
-[![Bosch MUZ9VL1 Accessoire optimum robot c](https://m.media-amazon.com/images/I/41BVy3typDL._SL200_.jpg)](https://www.amazon.fr/dp/B01ISTFVIU/?tag=tolees0d-21)
+[![Bosch MUZ9VL1 Accessoire optimum robot c](https://m.media-amazon.com/images/I/41BVy3typDL._SL400_.jpg)](https://www.amazon.fr/dp/B01ISTFVIU/?tag=tolees0d-21)
 
 ℹ️:
 

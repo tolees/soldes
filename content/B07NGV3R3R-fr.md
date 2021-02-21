@@ -2,7 +2,7 @@
 layout: post
 title: 'Derhy DAGADGET Parka  Bleu  Marine 300   avec 24.70 % rabais '
 date: 2020-05-22 23:45:39
-image: 'https://m.media-amazon.com/images/I/41xLUGBUBDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xLUGBUBDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.09'
 
 C'est en vente [Derhy DAGADGET Parka  Bleu  Marine 300   40  Taille Fabricant:M  Femme](https://www.amazon.fr/dp/B07NGV3R3R/?tag=tolees0d-21)  à  24.70 % de réduction, prix final  85.09 EUR (original: 113.0 EUR) ici:
 
-[![Derhy DAGADGET Parka  Bleu  Marine 300  ](https://m.media-amazon.com/images/I/41xLUGBUBDL._SL200_.jpg)](https://www.amazon.fr/dp/B07NGV3R3R/?tag=tolees0d-21)
+[![Derhy DAGADGET Parka  Bleu  Marine 300  ](https://m.media-amazon.com/images/I/41xLUGBUBDL._SL400_.jpg)](https://www.amazon.fr/dp/B07NGV3R3R/?tag=tolees0d-21)
 
 ℹ️:
 

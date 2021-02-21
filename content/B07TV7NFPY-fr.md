@@ -2,7 +2,7 @@
 layout: post
 title: 'Levi s Graphic Tee Maillot Une pièce  No avec 48.57 % rabais '
 date: 2020-08-15 00:29:35
-image: 'https://m.media-amazon.com/images/I/41RPpGL75lL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41RPpGL75lL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.0'
 
 C'est en vente [Levi s Graphic Tee Maillot Une pièce  Noir  Feminine Logo Bodysuit Caviar 0003   Large Femme](https://www.amazon.fr/dp/B07TV7NFPY/?tag=tolees0d-21)  à  48.57 % de réduction, prix final  18.0 EUR (original: 35.0 EUR) ici:
 
-[![Levi s Graphic Tee Maillot Une pièce  No](https://m.media-amazon.com/images/I/41RPpGL75lL._SL200_.jpg)](https://www.amazon.fr/dp/B07TV7NFPY/?tag=tolees0d-21)
+[![Levi s Graphic Tee Maillot Une pièce  No](https://m.media-amazon.com/images/I/41RPpGL75lL._SL400_.jpg)](https://www.amazon.fr/dp/B07TV7NFPY/?tag=tolees0d-21)
 
 ℹ️:
 

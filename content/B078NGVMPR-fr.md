@@ -2,7 +2,7 @@
 layout: post
 title: '21.80 % rabais sur Merrell Siren Edge Q2  Chaussures de Ran'
 date: 2020-05-22 21:26:01
-image: 'https://m.media-amazon.com/images/I/41IsQXVhnEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41IsQXVhnEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.29'
 
 Vous avez [Merrell Siren Edge Q2  Chaussures de Randonnée Basses Femme  Noir  Black Black   37 EU](https://www.amazon.fr/dp/B078NGVMPR/?tag=tolees0d-21)  à  21.80 % de réduction, prix final  74.29 EUR (original: 95.0 EUR) ici:
 
-[![Merrell Siren Edge Q2  Chaussures de Ran](https://m.media-amazon.com/images/I/41IsQXVhnEL._SL200_.jpg)](https://www.amazon.fr/dp/B078NGVMPR/?tag=tolees0d-21)
+[![Merrell Siren Edge Q2  Chaussures de Ran](https://m.media-amazon.com/images/I/41IsQXVhnEL._SL400_.jpg)](https://www.amazon.fr/dp/B078NGVMPR/?tag=tolees0d-21)
 
 ℹ️:
 

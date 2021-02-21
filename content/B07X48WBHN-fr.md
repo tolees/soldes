@@ -2,7 +2,7 @@
 layout: post
 title: '25.00 % rabais sur Ledger Backup Pack - Nano S + Nano X - P'
 date: 2020-05-31 14:39:41
-image: 'https://m.media-amazon.com/images/I/41HKXjroqdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HKXjroqdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '111.75'
 
 Vous avez [Ledger Backup Pack - Nano S + Nano X - Portefeuille de Cryptomonnaies](https://www.amazon.fr/dp/B07X48WBHN/?tag=tolees0d-21)  à  25.00 % de réduction, prix final  111.75 EUR (original: 149.0 EUR) ici:
 
-[![Ledger Backup Pack - Nano S + Nano X - P](https://m.media-amazon.com/images/I/41HKXjroqdL._SL200_.jpg)](https://www.amazon.fr/dp/B07X48WBHN/?tag=tolees0d-21)
+[![Ledger Backup Pack - Nano S + Nano X - P](https://m.media-amazon.com/images/I/41HKXjroqdL._SL400_.jpg)](https://www.amazon.fr/dp/B07X48WBHN/?tag=tolees0d-21)
 
 ℹ️:
 

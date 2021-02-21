@@ -2,7 +2,7 @@
 layout: post
 title: '33.62 % rabais sur Le Roi et l Oiseau [Combo Blu-Ray + DVD '
 date: 2020-10-03 11:12:56
-image: 'https://m.media-amazon.com/images/I/51waUvlRL3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51waUvlRL3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Vous avez [Le Roi et l Oiseau [Combo Blu-Ray + DVD + Copie Digitale]](https://www.amazon.fr/dp/B00E1LZBT4/?tag=tolees0d-21)  à  33.62 % de réduction, prix final  9.99 EUR (original: 15.05 EUR) ici:
 
-[![Le Roi et l Oiseau [Combo Blu-Ray + DVD ](https://m.media-amazon.com/images/I/51waUvlRL3L._SL200_.jpg)](https://www.amazon.fr/dp/B00E1LZBT4/?tag=tolees0d-21)
+[![Le Roi et l Oiseau [Combo Blu-Ray + DVD ](https://m.media-amazon.com/images/I/51waUvlRL3L._SL400_.jpg)](https://www.amazon.fr/dp/B00E1LZBT4/?tag=tolees0d-21)
 
 ℹ️:
 

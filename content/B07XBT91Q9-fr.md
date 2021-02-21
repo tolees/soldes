@@ -2,7 +2,7 @@
 layout: post
 title: 'Finish Pastilles Lave-Vaisselle Powerbal avec 26.78 % rabais '
 date: 2020-08-24 04:56:08
-image: 'https://m.media-amazon.com/images/I/51x-XwPZ-FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51x-XwPZ-FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.87'
 
 C'est en vente [Finish Pastilles Lave-Vaisselle Powerball Quantum Ultimate - 105 Tablettes Lave-Vaisselle](https://www.amazon.fr/dp/B07XBT91Q9/?tag=tolees0d-21)  à  26.78 % de réduction, prix final  18.87 EUR (original: 25.77 EUR) ici:
 
-[![Finish Pastilles Lave-Vaisselle Powerbal](https://m.media-amazon.com/images/I/51x-XwPZ-FL._SL200_.jpg)](https://www.amazon.fr/dp/B07XBT91Q9/?tag=tolees0d-21)
+[![Finish Pastilles Lave-Vaisselle Powerbal](https://m.media-amazon.com/images/I/51x-XwPZ-FL._SL400_.jpg)](https://www.amazon.fr/dp/B07XBT91Q9/?tag=tolees0d-21)
 
 ℹ️:
 

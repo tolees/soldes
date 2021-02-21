@@ -2,7 +2,7 @@
 layout: post
 title: '20.00 % rabais sur Dell SE2216H Ecran de PC 22" Full HD LCD'
 date: 2020-08-26 15:15:01
-image: 'https://m.media-amazon.com/images/I/41oF2nlk9VL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41oF2nlk9VL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '103.995'
 
 Vous avez [Dell SE2216H Ecran de PC 22" Full HD LCD  VA  60 Hz  12 ms](https://www.amazon.fr/dp/B015P6ITQ0/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  79.99 EUR (original: 99.99 EUR) ici:
 
-[![Dell SE2216H Ecran de PC 22" Full HD LCD](https://m.media-amazon.com/images/I/41oF2nlk9VL._SL200_.jpg)](https://www.amazon.fr/dp/B015P6ITQ0/?tag=tolees0d-21)
+[![Dell SE2216H Ecran de PC 22" Full HD LCD](https://m.media-amazon.com/images/I/41oF2nlk9VL._SL400_.jpg)](https://www.amazon.fr/dp/B015P6ITQ0/?tag=tolees0d-21)
 
 ℹ️:
 

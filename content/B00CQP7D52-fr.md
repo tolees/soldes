@@ -2,7 +2,7 @@
 layout: post
 title: '62.31 % rabais sur Triplite 3x 16A triangulaire - Blanc - Z'
 date: 2020-09-24 09:49:39
-image: 'https://m.media-amazon.com/images/I/31Hufcer1mL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Hufcer1mL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.47'
 
 Vous avez [Triplite 3x 16A triangulaire - Blanc - Zenitech](https://www.amazon.fr/dp/B00CQP7D52/?tag=tolees0d-21)  à  62.31 % de réduction, prix final  1.47 EUR (original: 3.9 EUR) ici:
 
-[![Triplite 3x 16A triangulaire - Blanc - Z](https://m.media-amazon.com/images/I/31Hufcer1mL._SL200_.jpg)](https://www.amazon.fr/dp/B00CQP7D52/?tag=tolees0d-21)
+[![Triplite 3x 16A triangulaire - Blanc - Z](https://m.media-amazon.com/images/I/31Hufcer1mL._SL400_.jpg)](https://www.amazon.fr/dp/B00CQP7D52/?tag=tolees0d-21)
 
 ℹ️:
 

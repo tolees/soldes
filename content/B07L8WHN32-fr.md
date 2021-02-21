@@ -2,7 +2,7 @@
 layout: post
 title: '37.22 % rabais sur Replay M1005 .000.573 584 Jean Droit  Bl'
 date: 2020-05-22 19:54:13
-image: 'https://m.media-amazon.com/images/I/41pBCcY492L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pBCcY492L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '80.98'
 
 Vous avez [Replay M1005 .000.573 584 Jean Droit  Bleu  Medium Blue 9   W29/L34  Taille Fabricant: 29  Homme](https://www.amazon.fr/dp/B07L8WHN32/?tag=tolees0d-21)  à  37.22 % de réduction, prix final  80.98 EUR (original: 129.0 EUR) ici:
 
-[![Replay M1005 .000.573 584 Jean Droit  Bl](https://m.media-amazon.com/images/I/41pBCcY492L._SL200_.jpg)](https://www.amazon.fr/dp/B07L8WHN32/?tag=tolees0d-21)
+[![Replay M1005 .000.573 584 Jean Droit  Bl](https://m.media-amazon.com/images/I/41pBCcY492L._SL400_.jpg)](https://www.amazon.fr/dp/B07L8WHN32/?tag=tolees0d-21)
 
 ℹ️:
 

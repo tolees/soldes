@@ -2,7 +2,7 @@
 layout: post
 title: '46.16 % rabais sur Samsung - Écouteurs sans Fil Galaxy Buds'
 date: 2020-08-22 13:27:37
-image: 'https://m.media-amazon.com/images/I/31AYdkGhQsL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AYdkGhQsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '90.17333333333333'
 
 Vous avez [Samsung - Écouteurs sans Fil Galaxy Buds - Argent - Version Française](https://www.amazon.fr/dp/B07VXQSM6S/?tag=tolees0d-21)  à  46.16 % de réduction, prix final  80.76 EUR (original: 149.99 EUR) ici:
 
-[![Samsung - Écouteurs sans Fil Galaxy Buds](https://m.media-amazon.com/images/I/31AYdkGhQsL._SL200_.jpg)](https://www.amazon.fr/dp/B07VXQSM6S/?tag=tolees0d-21)
+[![Samsung - Écouteurs sans Fil Galaxy Buds](https://m.media-amazon.com/images/I/31AYdkGhQsL._SL400_.jpg)](https://www.amazon.fr/dp/B07VXQSM6S/?tag=tolees0d-21)
 
 ℹ️:
 

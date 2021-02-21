@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Basic Embroidered Hoody S avec 55.19 % rabais '
 date: 2020-08-17 07:44:55
-image: 'https://m.media-amazon.com/images/I/419W-QhT9RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419W-QhT9RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.71'
 
 C'est en vente [Tommy Hilfiger Basic Embroidered Hoody Sweat-Shirt  Bleu  Desert Sky   Large  Taille Fabricant:  Homme](https://www.amazon.fr/dp/B07W5MYFLT/?tag=tolees0d-21)  à  55.19 % de réduction, prix final  41.71 EUR (original: 93.09 EUR) ici:
 
-[![Tommy Hilfiger Basic Embroidered Hoody S](https://m.media-amazon.com/images/I/419W-QhT9RL._SL200_.jpg)](https://www.amazon.fr/dp/B07W5MYFLT/?tag=tolees0d-21)
+[![Tommy Hilfiger Basic Embroidered Hoody S](https://m.media-amazon.com/images/I/419W-QhT9RL._SL400_.jpg)](https://www.amazon.fr/dp/B07W5MYFLT/?tag=tolees0d-21)
 
 ℹ️:
 

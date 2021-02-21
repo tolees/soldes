@@ -2,7 +2,7 @@
 layout: post
 title: 'COLORWAY CX911 Advanced Premium Hover Sc avec 15.00 % rabais '
 date: 2020-08-29 06:27:16
-image: 'https://m.media-amazon.com/images/I/51+9ZdDav0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51+9ZdDav0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '177.65'
 
 C'est en vente [COLORWAY CX911 Advanced Premium Hover Scooter Board - Overboard SUV 6.5   avec Bluetooth APP Moteur 700W - Gyropode Scooter Electrique](https://www.amazon.fr/dp/B07NZTCXFS/?tag=tolees0d-21)  à  15.00 % de réduction, prix final  177.65 EUR (original: 209.0 EUR) ici:
 
-[![COLORWAY CX911 Advanced Premium Hover Sc](https://m.media-amazon.com/images/I/51+9ZdDav0L._SL200_.jpg)](https://www.amazon.fr/dp/B07NZTCXFS/?tag=tolees0d-21)
+[![COLORWAY CX911 Advanced Premium Hover Sc](https://m.media-amazon.com/images/I/51+9ZdDav0L._SL400_.jpg)](https://www.amazon.fr/dp/B07NZTCXFS/?tag=tolees0d-21)
 
 ℹ️:
 

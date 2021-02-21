@@ -2,7 +2,7 @@
 layout: post
 title: 'Millet – Ubic 40 – Sac à Dos de Montagne avec 48.24 % rabais '
 date: 2020-08-10 21:27:35
-image: 'https://m.media-amazon.com/images/I/41e77a49xGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41e77a49xGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '82.79'
 
 C'est en vente [Millet – Ubic 40 – Sac à Dos de Montagne Unisexe – Équipement pour Randonnée et Trekking – Volume Moyen 40 L – Couleur : Urban Chic](https://www.amazon.fr/dp/B07KXYPNZK/?tag=tolees0d-21)  à  48.24 % de réduction, prix final  82.79 EUR (original: 159.95 EUR) ici:
 
-[![Millet – Ubic 40 – Sac à Dos de Montagne](https://m.media-amazon.com/images/I/41e77a49xGL._SL200_.jpg)](https://www.amazon.fr/dp/B07KXYPNZK/?tag=tolees0d-21)
+[![Millet – Ubic 40 – Sac à Dos de Montagne](https://m.media-amazon.com/images/I/41e77a49xGL._SL400_.jpg)](https://www.amazon.fr/dp/B07KXYPNZK/?tag=tolees0d-21)
 
 ℹ️:
 

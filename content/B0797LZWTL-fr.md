@@ -2,7 +2,7 @@
 layout: post
 title: 'Smartrike 650–0900 4 en 1 Tricycle Enfan avec 74.74 % rabais '
 date: 2020-08-12 13:00:59
-image: 'https://m.media-amazon.com/images/I/41UxGDNrHrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41UxGDNrHrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 C'est en vente [Smartrike 650–0900 4 en 1 Tricycle Enfant Véhicule  Vert](https://www.amazon.fr/dp/B0797LZWTL/?tag=tolees0d-21)  à  74.74 % de réduction, prix final  69.99 EUR (original: 277.05 EUR) ici:
 
-[![Smartrike 650–0900 4 en 1 Tricycle Enfan](https://m.media-amazon.com/images/I/41UxGDNrHrL._SL200_.jpg)](https://www.amazon.fr/dp/B0797LZWTL/?tag=tolees0d-21)
+[![Smartrike 650–0900 4 en 1 Tricycle Enfan](https://m.media-amazon.com/images/I/41UxGDNrHrL._SL400_.jpg)](https://www.amazon.fr/dp/B0797LZWTL/?tag=tolees0d-21)
 
 ℹ️:
 

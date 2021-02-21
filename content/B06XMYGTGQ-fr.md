@@ -2,7 +2,7 @@
 layout: post
 title: '26.67 % rabais sur Ice-Watch - Ice Lo White Blue - Montre B'
 date: 2020-08-19 23:08:03
-image: 'https://m.media-amazon.com/images/I/41n96uf1EHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41n96uf1EHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '85.89230769230768'
 
 Vous avez [Ice-Watch - Ice Lo White Blue - Montre Blanche pour Femme avec Bracelet en Silicone - 013425  Small ](https://www.amazon.fr/dp/B06XMYGTGQ/?tag=tolees0d-21)  à  26.67 % de réduction, prix final  72.6 EUR (original: 99.0 EUR) ici:
 
-[![Ice-Watch - Ice Lo White Blue - Montre B](https://m.media-amazon.com/images/I/41n96uf1EHL._SL200_.jpg)](https://www.amazon.fr/dp/B06XMYGTGQ/?tag=tolees0d-21)
+[![Ice-Watch - Ice Lo White Blue - Montre B](https://m.media-amazon.com/images/I/41n96uf1EHL._SL400_.jpg)](https://www.amazon.fr/dp/B06XMYGTGQ/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '59.63 % rabais sur Geox D TABELYA A  Sneakers Basses Femme '
 date: 2020-08-05 06:34:02
-image: 'https://m.media-amazon.com/images/I/41faKShfkfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41faKShfkfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.46'
 
 Vous avez [Geox D TABELYA A  Sneakers Basses Femme  Beige  Cream/Lt Gold C5k2l   39 EU](https://www.amazon.fr/dp/B07SXT16Q6/?tag=tolees0d-21)  à  59.63 % de réduction, prix final  50.46 EUR (original: 125.0 EUR) ici:
 
-[![Geox D TABELYA A  Sneakers Basses Femme ](https://m.media-amazon.com/images/I/41faKShfkfL._SL200_.jpg)](https://www.amazon.fr/dp/B07SXT16Q6/?tag=tolees0d-21)
+[![Geox D TABELYA A  Sneakers Basses Femme ](https://m.media-amazon.com/images/I/41faKShfkfL._SL400_.jpg)](https://www.amazon.fr/dp/B07SXT16Q6/?tag=tolees0d-21)
 
 ℹ️:
 

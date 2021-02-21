@@ -2,7 +2,7 @@
 layout: post
 title: 'Boucles d oreilles or tricolore"Trianon" avec 75.00 % rabais '
 date: 2020-05-22 21:05:25
-image: 'https://m.media-amazon.com/images/I/21QBAOVua8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21QBAOVua8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.0'
 
 C'est en vente [Boucles d oreilles or tricolore"Trianon"](https://www.amazon.fr/dp/B075KQFQQ9/?tag=tolees0d-21)  à  75.00 % de réduction, prix final  65.0 EUR (original: 260.0 EUR) ici:
 
-[![Boucles d oreilles or tricolore"Trianon"](https://m.media-amazon.com/images/I/21QBAOVua8L._SL200_.jpg)](https://www.amazon.fr/dp/B075KQFQQ9/?tag=tolees0d-21)
+[![Boucles d oreilles or tricolore"Trianon"](https://m.media-amazon.com/images/I/21QBAOVua8L._SL400_.jpg)](https://www.amazon.fr/dp/B075KQFQQ9/?tag=tolees0d-21)
 
 ℹ️:
 

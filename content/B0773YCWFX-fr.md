@@ -2,7 +2,7 @@
 layout: post
 title: 'adidas NMD R2  Baskets Homme  Noir  Core avec 56.14 % rabais '
 date: 2020-05-22 20:50:58
-image: 'https://m.media-amazon.com/images/I/41rpZMJ0UQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rpZMJ0UQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.38'
 
 C'est en vente [adidas NMD R2  Baskets Homme  Noir  Core Black/Core Black/Core Black 0   40 2/3 EU](https://www.amazon.fr/dp/B0773YCWFX/?tag=tolees0d-21)  à  56.14 % de réduction, prix final  61.38 EUR (original: 139.95 EUR) ici:
 
-[![adidas NMD R2  Baskets Homme  Noir  Core](https://m.media-amazon.com/images/I/41rpZMJ0UQL._SL200_.jpg)](https://www.amazon.fr/dp/B0773YCWFX/?tag=tolees0d-21)
+[![adidas NMD R2  Baskets Homme  Noir  Core](https://m.media-amazon.com/images/I/41rpZMJ0UQL._SL400_.jpg)](https://www.amazon.fr/dp/B0773YCWFX/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '28.53 % rabais sur JACK & JONES JCORETAIL Sweat Hood SEP Sw'
 date: 2020-10-08 05:39:50
-image: 'https://m.media-amazon.com/images/I/419eZMBnNKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419eZMBnNKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.58'
 
 Vous avez [JACK & JONES JCORETAIL Sweat Hood SEP Sweatshirt à Capuche  Noir  M Homme](https://www.amazon.fr/dp/B08DNSR1V4/?tag=tolees0d-21)  à  28.53 % de réduction, prix final  28.58 EUR (original: 39.99 EUR) ici:
 
-[![JACK & JONES JCORETAIL Sweat Hood SEP Sw](https://m.media-amazon.com/images/I/419eZMBnNKL._SL200_.jpg)](https://www.amazon.fr/dp/B08DNSR1V4/?tag=tolees0d-21)
+[![JACK & JONES JCORETAIL Sweat Hood SEP Sw](https://m.media-amazon.com/images/I/419eZMBnNKL._SL400_.jpg)](https://www.amazon.fr/dp/B08DNSR1V4/?tag=tolees0d-21)
 
 ℹ️:
 

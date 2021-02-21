@@ -2,7 +2,7 @@
 layout: post
 title: 'Lacoste - L1312 - Polo - Homme -  Rouge  avec 19.42 % rabais '
 date: 2020-05-23 00:04:03
-image: 'https://m.media-amazon.com/images/I/31ovNhfnEPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ovNhfnEPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '84.61'
 
 C'est en vente [Lacoste - L1312 - Polo - Homme -  Rouge  Bordeaux  - Large  Taille fabricant: 5 ](https://www.amazon.fr/dp/B003XFXK7Y/?tag=tolees0d-21)  à  19.42 % de réduction, prix final  84.61 EUR (original: 105.0 EUR) ici:
 
-[![Lacoste - L1312 - Polo - Homme -  Rouge ](https://m.media-amazon.com/images/I/31ovNhfnEPL._SL200_.jpg)](https://www.amazon.fr/dp/B003XFXK7Y/?tag=tolees0d-21)
+[![Lacoste - L1312 - Polo - Homme -  Rouge ](https://m.media-amazon.com/images/I/31ovNhfnEPL._SL400_.jpg)](https://www.amazon.fr/dp/B003XFXK7Y/?tag=tolees0d-21)
 
 ℹ️:
 

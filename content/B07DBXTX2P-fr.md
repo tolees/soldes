@@ -2,7 +2,7 @@
 layout: post
 title: '36.98 % rabais sur PUMA Cali Wn s   Sneakers Basses femme -'
 date: 2020-09-25 14:02:55
-image: 'https://m.media-amazon.com/images/I/31nSIQBlrUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31nSIQBlrUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.85750000000001'
 
 Vous avez [PUMA Cali Wn s   Sneakers Basses femme - Blanc  Puma White-Puma Black 04   38 EU](https://www.amazon.fr/dp/B07DBXTX2P/?tag=tolees0d-21)  à  36.98 % de réduction, prix final  62.99 EUR (original: 99.95 EUR) ici:
 
-[![PUMA Cali Wn s   Sneakers Basses femme -](https://m.media-amazon.com/images/I/31nSIQBlrUL._SL200_.jpg)](https://www.amazon.fr/dp/B07DBXTX2P/?tag=tolees0d-21)
+[![PUMA Cali Wn s   Sneakers Basses femme -](https://m.media-amazon.com/images/I/31nSIQBlrUL._SL400_.jpg)](https://www.amazon.fr/dp/B07DBXTX2P/?tag=tolees0d-21)
 
 ℹ️:
 

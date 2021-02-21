@@ -2,7 +2,7 @@
 layout: post
 title: '39.28 % rabais sur Pepe Jeans London Slate Pro Boot  Basket'
 date: 2020-05-22 22:57:15
-image: 'https://m.media-amazon.com/images/I/412pewHfMjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/412pewHfMjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.83'
 
 Vous avez [Pepe Jeans London Slate Pro Boot  Baskets Hautes Homme    Dark Grey 975   42 EU](https://www.amazon.fr/dp/B07MZQPX24/?tag=tolees0d-21)  à  39.28 % de réduction, prix final  69.83 EUR (original: 115.0 EUR) ici:
 
-[![Pepe Jeans London Slate Pro Boot  Basket](https://m.media-amazon.com/images/I/412pewHfMjL._SL200_.jpg)](https://www.amazon.fr/dp/B07MZQPX24/?tag=tolees0d-21)
+[![Pepe Jeans London Slate Pro Boot  Basket](https://m.media-amazon.com/images/I/412pewHfMjL._SL400_.jpg)](https://www.amazon.fr/dp/B07MZQPX24/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Disque Dur Externe 2to USB3.1 Disque Dur avec 52.14 % rabais '
 date: 2020-09-16 15:57:44
-image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.99'
 
 C'est en vente [Disque Dur Externe 2to USB3.1 Disque Dur Externe pour PC  Mac  Ordinateur de Bureaup  Ordinateur Portable  Wii U  Xbox 2to  Rouge ](https://www.amazon.fr/dp/B08DJ3W7YG/?tag=tolees0d-21)  à  52.14 % de réduction, prix final  63.99 EUR (original: 133.7 EUR) ici:
 
-[![Disque Dur Externe 2to USB3.1 Disque Dur](https://m.media-amazon.com/images/I/41APlDSwhyL._SL200_.jpg)](https://www.amazon.fr/dp/B08DJ3W7YG/?tag=tolees0d-21)
+[![Disque Dur Externe 2to USB3.1 Disque Dur](https://m.media-amazon.com/images/I/41APlDSwhyL._SL400_.jpg)](https://www.amazon.fr/dp/B08DJ3W7YG/?tag=tolees0d-21)
 
 ℹ️:
 

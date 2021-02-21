@@ -2,7 +2,7 @@
 layout: post
 title: '53.45 % rabais sur DWE4237-QS - Mini-amoladora 125mm 1.400W'
 date: 2020-05-22 22:43:03
-image: 'https://m.media-amazon.com/images/I/41-DKnenJyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-DKnenJyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '98.51'
 
 Vous avez [DWE4237-QS - Mini-amoladora 125mm 1.400W](https://www.amazon.fr/dp/B00UMH2CA2/?tag=tolees0d-21)  à  53.45 % de réduction, prix final  98.51 EUR (original: 211.64 EUR) ici:
 
-[![DWE4237-QS - Mini-amoladora 125mm 1.400W](https://m.media-amazon.com/images/I/41-DKnenJyL._SL200_.jpg)](https://www.amazon.fr/dp/B00UMH2CA2/?tag=tolees0d-21)
+[![DWE4237-QS - Mini-amoladora 125mm 1.400W](https://m.media-amazon.com/images/I/41-DKnenJyL._SL400_.jpg)](https://www.amazon.fr/dp/B00UMH2CA2/?tag=tolees0d-21)
 
 ℹ️:
 

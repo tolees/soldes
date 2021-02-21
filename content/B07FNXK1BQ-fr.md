@@ -2,7 +2,7 @@
 layout: post
 title: 'Seiko Horloge SUR271P1 avec 40.00 % rabais '
 date: 2020-08-30 08:43:31
-image: 'https://m.media-amazon.com/images/I/41h88PREVcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h88PREVcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '132.66666666666669'
 
 C'est en vente [Seiko Horloge SUR271P1](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21)  à  40.00 % de réduction, prix final  119.4 EUR (original: 199.0 EUR) ici:
 
-[![Seiko Horloge SUR271P1](https://m.media-amazon.com/images/I/41h88PREVcL._SL200_.jpg)](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21)
+[![Seiko Horloge SUR271P1](https://m.media-amazon.com/images/I/41h88PREVcL._SL400_.jpg)](https://www.amazon.fr/dp/B07FNXK1BQ/?tag=tolees0d-21)
 
 ℹ️:
 

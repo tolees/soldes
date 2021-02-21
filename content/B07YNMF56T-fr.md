@@ -2,7 +2,7 @@
 layout: post
 title: '25.03 % rabais sur Roccat Vulcan 122 - Clavier de Jeu Blanc'
 date: 2020-10-01 14:09:28
-image: 'https://m.media-amazon.com/images/I/41vgZnpXcTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41vgZnpXcTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '132.285'
 
 Vous avez [Roccat Vulcan 122 - Clavier de Jeu Blanc  GAMING mécanique RGB  Rétro-Éclarage LED Aimo Multicolore touche par touche  Switchs Titan  Conception Durable  Plaque Supérieure en aluminium ](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21)  à  25.03 % de réduction, prix final  119.95 EUR (original: 159.99 EUR) ici:
 
-[![Roccat Vulcan 122 - Clavier de Jeu Blanc](https://m.media-amazon.com/images/I/41vgZnpXcTL._SL200_.jpg)](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21)
+[![Roccat Vulcan 122 - Clavier de Jeu Blanc](https://m.media-amazon.com/images/I/41vgZnpXcTL._SL400_.jpg)](https://www.amazon.fr/dp/B07YNMF56T/?tag=tolees0d-21)
 
 ℹ️:
 

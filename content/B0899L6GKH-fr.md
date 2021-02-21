@@ -2,7 +2,7 @@
 layout: post
 title: '28.01 % rabais sur 2 X 1200mAh Batteries pour Manette Xbox '
 date: 2020-08-13 00:22:37
-image: 'https://m.media-amazon.com/images/I/411f94Uw8vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/411f94Uw8vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 Vous avez [2 X 1200mAh Batteries pour Manette Xbox One / S / X / Elite   Rechargeable pour avec 2 en 1 Câble de Charge](https://www.amazon.fr/dp/B0899L6GKH/?tag=tolees0d-21)  à  28.01 % de réduction, prix final  17.99 EUR (original: 24.99 EUR) ici:
 
-[![2 X 1200mAh Batteries pour Manette Xbox ](https://m.media-amazon.com/images/I/411f94Uw8vL._SL200_.jpg)](https://www.amazon.fr/dp/B0899L6GKH/?tag=tolees0d-21)
+[![2 X 1200mAh Batteries pour Manette Xbox ](https://m.media-amazon.com/images/I/411f94Uw8vL._SL400_.jpg)](https://www.amazon.fr/dp/B0899L6GKH/?tag=tolees0d-21)
 
 ℹ️:
 

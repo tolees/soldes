@@ -2,7 +2,7 @@
 layout: post
 title: '57.58 % rabais sur L Oréal Men Expert - Bille Anti-Cernes &'
 date: 2020-10-01 06:27:33
-image: 'https://m.media-amazon.com/images/I/414x9dcNTfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414x9dcNTfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.03'
 
 Vous avez [L Oréal Men Expert - Bille Anti-Cernes & Anti-Poches pour Homme - Hydra Energetic - 10 ml](https://www.amazon.fr/dp/B00MBDTBWW/?tag=tolees0d-21)  à  57.58 % de réduction, prix final  4.03 EUR (original: 9.5 EUR) ici:
 
-[![L Oréal Men Expert - Bille Anti-Cernes &](https://m.media-amazon.com/images/I/414x9dcNTfL._SL200_.jpg)](https://www.amazon.fr/dp/B00MBDTBWW/?tag=tolees0d-21)
+[![L Oréal Men Expert - Bille Anti-Cernes &](https://m.media-amazon.com/images/I/414x9dcNTfL._SL400_.jpg)](https://www.amazon.fr/dp/B00MBDTBWW/?tag=tolees0d-21)
 
 ℹ️:
 

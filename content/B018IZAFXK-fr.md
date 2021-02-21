@@ -2,7 +2,7 @@
 layout: post
 title: '62.02 % rabais sur Ferplast Relax C 89/10 Coussin pour Chie'
 date: 2020-10-12 08:21:57
-image: 'https://m.media-amazon.com/images/I/51AirsPacwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AirsPacwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Vous avez [Ferplast Relax C 89/10 Coussin pour Chien en Coton Motif Noms de Ville 85 x 55 cm](https://www.amazon.fr/dp/B018IZAFXK/?tag=tolees0d-21)  à  62.02 % de réduction, prix final  12.99 EUR (original: 34.2 EUR) ici:
 
-[![Ferplast Relax C 89/10 Coussin pour Chie](https://m.media-amazon.com/images/I/51AirsPacwL._SL200_.jpg)](https://www.amazon.fr/dp/B018IZAFXK/?tag=tolees0d-21)
+[![Ferplast Relax C 89/10 Coussin pour Chie](https://m.media-amazon.com/images/I/51AirsPacwL._SL400_.jpg)](https://www.amazon.fr/dp/B018IZAFXK/?tag=tolees0d-21)
 
 ℹ️:
 

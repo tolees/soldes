@@ -2,7 +2,7 @@
 layout: post
 title: '26.99 % rabais sur Britax Römer Poussette citadine | Naissa'
 date: 2020-10-07 11:08:56
-image: 'https://m.media-amazon.com/images/I/318KM2NDykL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/318KM2NDykL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.9'
 
 Vous avez [Britax Römer Poussette citadine | Naissance à 4 ans |  B-AGILE M | Navy Ink](https://www.amazon.fr/dp/B082J3Z6JD/?tag=tolees0d-21)  à  26.99 % de réduction, prix final  159.9 EUR (original: 219.0 EUR) ici:
 
-[![Britax Römer Poussette citadine | Naissa](https://m.media-amazon.com/images/I/318KM2NDykL._SL200_.jpg)](https://www.amazon.fr/dp/B082J3Z6JD/?tag=tolees0d-21)
+[![Britax Römer Poussette citadine | Naissa](https://m.media-amazon.com/images/I/318KM2NDykL._SL400_.jpg)](https://www.amazon.fr/dp/B082J3Z6JD/?tag=tolees0d-21)
 
 ℹ️:
 

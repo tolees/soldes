@@ -2,7 +2,7 @@
 layout: post
 title: '15.08 % rabais sur Accessoire iRobot Roomba - Batterie Xlif'
 date: 2020-05-22 20:15:21
-image: 'https://m.media-amazon.com/images/I/31THZNiFfVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31THZNiFfVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '67.93'
 
 Vous avez [Accessoire iRobot Roomba - Batterie Xlife NiMH](https://www.amazon.fr/dp/B00LPV2NZ8/?tag=tolees0d-21)  à  15.08 % de réduction, prix final  67.93 EUR (original: 79.99 EUR) ici:
 
-[![Accessoire iRobot Roomba - Batterie Xlif](https://m.media-amazon.com/images/I/31THZNiFfVL._SL200_.jpg)](https://www.amazon.fr/dp/B00LPV2NZ8/?tag=tolees0d-21)
+[![Accessoire iRobot Roomba - Batterie Xlif](https://m.media-amazon.com/images/I/31THZNiFfVL._SL400_.jpg)](https://www.amazon.fr/dp/B00LPV2NZ8/?tag=tolees0d-21)
 
 ℹ️:
 

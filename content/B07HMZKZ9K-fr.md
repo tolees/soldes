@@ -2,7 +2,7 @@
 layout: post
 title: 'Strong SRT 2023 Box Android TV 7.1 UHD 4 avec 21.33 % rabais '
 date: 2020-05-22 19:55:20
-image: 'https://m.media-amazon.com/images/I/31pGPyo0poL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31pGPyo0poL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '54.99'
 
 C'est en vente [Strong SRT 2023 Box Android TV 7.1 UHD 4K Google - Lecteur multimedia Smart IPTV  Wifi  LAN  Bluetooth  IPTV  Quad Core  H265  Dolby Digital Plus  - Noir](https://www.amazon.fr/dp/B07HMZKZ9K/?tag=tolees0d-21)  à  21.33 % de réduction, prix final  54.99 EUR (original: 69.9 EUR) ici:
 
-[![Strong SRT 2023 Box Android TV 7.1 UHD 4](https://m.media-amazon.com/images/I/31pGPyo0poL._SL200_.jpg)](https://www.amazon.fr/dp/B07HMZKZ9K/?tag=tolees0d-21)
+[![Strong SRT 2023 Box Android TV 7.1 UHD 4](https://m.media-amazon.com/images/I/31pGPyo0poL._SL400_.jpg)](https://www.amazon.fr/dp/B07HMZKZ9K/?tag=tolees0d-21)
 
 ℹ️:
 

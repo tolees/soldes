@@ -2,7 +2,7 @@
 layout: post
 title: 'Braun Oral-B Genius X 20000N Brosse À De avec 45.15 % rabais '
 date: 2020-05-22 23:01:09
-image: 'https://m.media-amazon.com/images/I/41kR+sI-sEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41kR+sI-sEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '163.99'
 
 C'est en vente [Braun Oral-B Genius X 20000N Brosse À Dents Électrique par Braun  Blanc](https://www.amazon.fr/dp/B07S7DGGKM/?tag=tolees0d-21)  à  45.15 % de réduction, prix final  163.99 EUR (original: 299.0 EUR) ici:
 
-[![Braun Oral-B Genius X 20000N Brosse À De](https://m.media-amazon.com/images/I/41kR+sI-sEL._SL200_.jpg)](https://www.amazon.fr/dp/B07S7DGGKM/?tag=tolees0d-21)
+[![Braun Oral-B Genius X 20000N Brosse À De](https://m.media-amazon.com/images/I/41kR+sI-sEL._SL400_.jpg)](https://www.amazon.fr/dp/B07S7DGGKM/?tag=tolees0d-21)
 
 ℹ️:
 

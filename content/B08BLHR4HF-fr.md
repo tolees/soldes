@@ -2,7 +2,7 @@
 layout: post
 title: '25.01 % rabais sur LIGHTAILING Jeu De Lumières pour  Archit'
 date: 2020-08-17 10:49:30
-image: 'https://m.media-amazon.com/images/I/41w2bj92qoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41w2bj92qoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Vous avez [LIGHTAILING Jeu De Lumières pour  Architecture La Maison Blanche  Modèle en Blocs De Construction - Kit De Lumière A LED Compatible avec Lego 21054 Ne Figurant Pas sur Le Modèle ](https://www.amazon.fr/dp/B08BLHR4HF/?tag=tolees0d-21)  à  25.01 % de réduction, prix final  59.99 EUR (original: 80.0 EUR) ici:
 
-[![LIGHTAILING Jeu De Lumières pour  Archit](https://m.media-amazon.com/images/I/41w2bj92qoL._SL200_.jpg)](https://www.amazon.fr/dp/B08BLHR4HF/?tag=tolees0d-21)
+[![LIGHTAILING Jeu De Lumières pour  Archit](https://m.media-amazon.com/images/I/41w2bj92qoL._SL400_.jpg)](https://www.amazon.fr/dp/B08BLHR4HF/?tag=tolees0d-21)
 
 ℹ️:
 

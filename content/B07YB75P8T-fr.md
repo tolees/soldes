@@ -2,7 +2,7 @@
 layout: post
 title: '62.76 % rabais sur FUNINGEEK Micro Casque Gaming PS4  Casqu'
 date: 2020-08-09 18:14:01
-image: 'https://m.media-amazon.com/images/I/514SigvPPaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/514SigvPPaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 Vous avez [FUNINGEEK Micro Casque Gaming PS4  Casque Gaming Switch avec Micro Anti Bruit Casque Gamer Xbox One Filaire LED Lampe Stéréo Bass Microphone Réglable avec Micro 3.5mm Jack](https://www.amazon.fr/dp/B07YB75P8T/?tag=tolees0d-21)  à  62.76 % de réduction, prix final  18.99 EUR (original: 50.99 EUR) ici:
 
-[![FUNINGEEK Micro Casque Gaming PS4  Casqu](https://m.media-amazon.com/images/I/514SigvPPaL._SL200_.jpg)](https://www.amazon.fr/dp/B07YB75P8T/?tag=tolees0d-21)
+[![FUNINGEEK Micro Casque Gaming PS4  Casqu](https://m.media-amazon.com/images/I/514SigvPPaL._SL400_.jpg)](https://www.amazon.fr/dp/B07YB75P8T/?tag=tolees0d-21)
 
 ℹ️:
 

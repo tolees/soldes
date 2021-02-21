@@ -2,7 +2,7 @@
 layout: post
 title: '15.18 % rabais sur Vilac - 1102 - Voiture de Course - Porte'
 date: 2020-05-22 20:42:45
-image: 'https://m.media-amazon.com/images/I/41T5fvq4nQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T5fvq4nQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '100.94'
 
 Vous avez [Vilac - 1102 - Voiture de Course - Porteur Métal - Nacré - Véhicule pour Enfants](https://www.amazon.fr/dp/B004VII9I2/?tag=tolees0d-21)  à  15.18 % de réduction, prix final  100.94 EUR (original: 119.0 EUR) ici:
 
-[![Vilac - 1102 - Voiture de Course - Porte](https://m.media-amazon.com/images/I/41T5fvq4nQL._SL200_.jpg)](https://www.amazon.fr/dp/B004VII9I2/?tag=tolees0d-21)
+[![Vilac - 1102 - Voiture de Course - Porte](https://m.media-amazon.com/images/I/41T5fvq4nQL._SL400_.jpg)](https://www.amazon.fr/dp/B004VII9I2/?tag=tolees0d-21)
 
 ℹ️:
 

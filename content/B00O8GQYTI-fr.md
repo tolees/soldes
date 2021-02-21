@@ -2,7 +2,7 @@
 layout: post
 title: '16.87 % rabais sur Dim Coton Plus Stretch Feminine - Lot de'
 date: 2020-10-09 18:26:00
-image: 'https://m.media-amazon.com/images/I/41Orj6QE8HL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Orj6QE8HL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.88'
 
 Vous avez [Dim Coton Plus Stretch Feminine - Lot de 2 Slips Midi - Femme - Noir  40/42 FR ; 38/40 EU](https://www.amazon.fr/dp/B00O8GQYTI/?tag=tolees0d-21)  à  16.87 % de réduction, prix final  14.88 EUR (original: 17.9 EUR) ici:
 
-[![Dim Coton Plus Stretch Feminine - Lot de](https://m.media-amazon.com/images/I/41Orj6QE8HL._SL200_.jpg)](https://www.amazon.fr/dp/B00O8GQYTI/?tag=tolees0d-21)
+[![Dim Coton Plus Stretch Feminine - Lot de](https://m.media-amazon.com/images/I/41Orj6QE8HL._SL400_.jpg)](https://www.amazon.fr/dp/B00O8GQYTI/?tag=tolees0d-21)
 
 ℹ️:
 

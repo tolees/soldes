@@ -2,7 +2,7 @@
 layout: post
 title: 'Guess Vikky  Cabas femme  Argenté  Pewte avec 47.80 % rabais '
 date: 2020-05-25 07:20:35
-image: 'https://m.media-amazon.com/images/I/41hi8v4ebYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hi8v4ebYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.99'
 
 C'est en vente [Guess Vikky  Cabas femme  Argenté  Pewter   15x27x32 5 cm  W x H L ](https://www.amazon.fr/dp/B07P5GJQRJ/?tag=tolees0d-21)  à  47.80 % de réduction, prix final  70.99 EUR (original: 136.0 EUR) ici:
 
-[![Guess Vikky  Cabas femme  Argenté  Pewte](https://m.media-amazon.com/images/I/41hi8v4ebYL._SL200_.jpg)](https://www.amazon.fr/dp/B07P5GJQRJ/?tag=tolees0d-21)
+[![Guess Vikky  Cabas femme  Argenté  Pewte](https://m.media-amazon.com/images/I/41hi8v4ebYL._SL400_.jpg)](https://www.amazon.fr/dp/B07P5GJQRJ/?tag=tolees0d-21)
 
 ℹ️:
 

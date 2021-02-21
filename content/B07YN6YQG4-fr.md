@@ -2,7 +2,7 @@
 layout: post
 title: '53.13 % rabais sur Lottusse T2470  Brogues Homme  Noir  Duc'
 date: 2020-08-12 09:27:16
-image: 'https://m.media-amazon.com/images/I/31MliBXdeNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31MliBXdeNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '114.82'
 
 Vous avez [Lottusse T2470  Brogues Homme  Noir  Duca Negro Duca Negro   40 EU](https://www.amazon.fr/dp/B07YN6YQG4/?tag=tolees0d-21)  à  53.13 % de réduction, prix final  114.82 EUR (original: 245.0 EUR) ici:
 
-[![Lottusse T2470  Brogues Homme  Noir  Duc](https://m.media-amazon.com/images/I/31MliBXdeNL._SL200_.jpg)](https://www.amazon.fr/dp/B07YN6YQG4/?tag=tolees0d-21)
+[![Lottusse T2470  Brogues Homme  Noir  Duc](https://m.media-amazon.com/images/I/31MliBXdeNL._SL400_.jpg)](https://www.amazon.fr/dp/B07YN6YQG4/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '45.29 % rabais sur 2 Batteries pour Xbox One Manette Sans F'
 date: 2020-08-18 11:13:11
-image: 'https://m.media-amazon.com/images/I/41QxwA6wErL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QxwA6wErL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.69'
 
 Vous avez [2 Batteries pour Xbox One Manette Sans Fil avec 2 en 1 Câble de Charge Batterie NiMH 1200mAh pour Xbox One / One S / One X / One Elite](https://www.amazon.fr/dp/B07TKV38KX/?tag=tolees0d-21)  à  45.29 % de réduction, prix final  19.69 EUR (original: 35.99 EUR) ici:
 
-[![2 Batteries pour Xbox One Manette Sans F](https://m.media-amazon.com/images/I/41QxwA6wErL._SL200_.jpg)](https://www.amazon.fr/dp/B07TKV38KX/?tag=tolees0d-21)
+[![2 Batteries pour Xbox One Manette Sans F](https://m.media-amazon.com/images/I/41QxwA6wErL._SL400_.jpg)](https://www.amazon.fr/dp/B07TKV38KX/?tag=tolees0d-21)
 
 ℹ️:
 

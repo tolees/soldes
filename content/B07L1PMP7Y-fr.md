@@ -2,7 +2,7 @@
 layout: post
 title: 'Sebago Classic Dan Suede  Chaussures Bat avec 56.71 % rabais '
 date: 2020-08-09 10:03:42
-image: 'https://m.media-amazon.com/images/I/31iJqrpYzLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iJqrpYzLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '86.15'
 
 C'est en vente [Sebago Classic Dan Suede  Chaussures Bateau Homme  Marron  DK Brown 901   40 EU](https://www.amazon.fr/dp/B07L1PMP7Y/?tag=tolees0d-21)  à  56.71 % de réduction, prix final  86.15 EUR (original: 199.0 EUR) ici:
 
-[![Sebago Classic Dan Suede  Chaussures Bat](https://m.media-amazon.com/images/I/31iJqrpYzLL._SL200_.jpg)](https://www.amazon.fr/dp/B07L1PMP7Y/?tag=tolees0d-21)
+[![Sebago Classic Dan Suede  Chaussures Bat](https://m.media-amazon.com/images/I/31iJqrpYzLL._SL400_.jpg)](https://www.amazon.fr/dp/B07L1PMP7Y/?tag=tolees0d-21)
 
 ℹ️:
 

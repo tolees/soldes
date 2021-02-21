@@ -2,7 +2,7 @@
 layout: post
 title: '47.50 % rabais sur Philips GC8735/80 Centrale vapeur Perfec'
 date: 2020-06-03 19:04:25
-image: 'https://m.media-amazon.com/images/I/41ONdcjQJVL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ONdcjQJVL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '146.99'
 
 Vous avez [Philips GC8735/80 Centrale vapeur PerfectCare Performer 6 5 bar effet pressing jusqu à 420g](https://www.amazon.fr/dp/B01J5FGW66/?tag=tolees0d-21)  à  47.50 % de réduction, prix final  146.99 EUR (original: 279.99 EUR) ici:
 
-[![Philips GC8735/80 Centrale vapeur Perfec](https://m.media-amazon.com/images/I/41ONdcjQJVL._SL200_.jpg)](https://www.amazon.fr/dp/B01J5FGW66/?tag=tolees0d-21)
+[![Philips GC8735/80 Centrale vapeur Perfec](https://m.media-amazon.com/images/I/41ONdcjQJVL._SL400_.jpg)](https://www.amazon.fr/dp/B01J5FGW66/?tag=tolees0d-21)
 
 ℹ️:
 

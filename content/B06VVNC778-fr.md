@@ -2,7 +2,7 @@
 layout: post
 title: '42.11 % rabais sur Brabantia - 115301 - Poubelle Touch Bin '
 date: 2020-08-27 10:27:22
-image: 'https://m.media-amazon.com/images/I/21JwCeBJumL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21JwCeBJumL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.99'
 
 Vous avez [Brabantia - 115301 - Poubelle Touch Bin Unie New  30 L - Noir mat](https://www.amazon.fr/dp/B06VVNC778/?tag=tolees0d-21)  à  42.11 % de réduction, prix final  65.99 EUR (original: 114.0 EUR) ici:
 
-[![Brabantia - 115301 - Poubelle Touch Bin ](https://m.media-amazon.com/images/I/21JwCeBJumL._SL200_.jpg)](https://www.amazon.fr/dp/B06VVNC778/?tag=tolees0d-21)
+[![Brabantia - 115301 - Poubelle Touch Bin ](https://m.media-amazon.com/images/I/21JwCeBJumL._SL400_.jpg)](https://www.amazon.fr/dp/B06VVNC778/?tag=tolees0d-21)
 
 ℹ️:
 

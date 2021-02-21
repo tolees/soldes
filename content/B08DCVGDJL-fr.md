@@ -2,7 +2,7 @@
 layout: post
 title: '15.01 % rabais sur Montre Connectée Homme  UMIDIGI Uwatch 2'
 date: 2020-09-25 08:06:38
-image: 'https://m.media-amazon.com/images/I/41pSKjxOVoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pSKjxOVoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.49'
 
 Vous avez [Montre Connectée Homme  UMIDIGI Uwatch 2S Smartwatch Femmes 5ATM Etanche Bracelet Connecté Montre Sport Moniteur de Fréquence Cardiaque Compteur de Pas Fitness Tracker pour iPhone et Android](https://www.amazon.fr/dp/B08DCVGDJL/?tag=tolees0d-21)  à  15.01 % de réduction, prix final  25.49 EUR (original: 29.99 EUR) ici:
 
-[![Montre Connectée Homme  UMIDIGI Uwatch 2](https://m.media-amazon.com/images/I/41pSKjxOVoL._SL200_.jpg)](https://www.amazon.fr/dp/B08DCVGDJL/?tag=tolees0d-21)
+[![Montre Connectée Homme  UMIDIGI Uwatch 2](https://m.media-amazon.com/images/I/41pSKjxOVoL._SL400_.jpg)](https://www.amazon.fr/dp/B08DCVGDJL/?tag=tolees0d-21)
 
 ℹ️:
 

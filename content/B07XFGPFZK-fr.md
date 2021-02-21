@@ -2,7 +2,7 @@
 layout: post
 title: 'Sabrent SSD interne Rocket 500GB Nvme PC avec 26.67 % rabais '
 date: 2020-08-20 04:52:03
-image: 'https://m.media-amazon.com/images/I/41SUFKQLoBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41SUFKQLoBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.93545454545453'
 
 C'est en vente [Sabrent SSD interne Rocket 500GB Nvme PCIe 4.0 M.2 2280 Solid State Drive haute performance  SB- ROCKET-NVMe4-500 ](https://www.amazon.fr/dp/B07XFGPFZK/?tag=tolees0d-21)  à  26.67 % de réduction, prix final  109.99 EUR (original: 149.99 EUR) ici:
 
-[![Sabrent SSD interne Rocket 500GB Nvme PC](https://m.media-amazon.com/images/I/41SUFKQLoBL._SL200_.jpg)](https://www.amazon.fr/dp/B07XFGPFZK/?tag=tolees0d-21)
+[![Sabrent SSD interne Rocket 500GB Nvme PC](https://m.media-amazon.com/images/I/41SUFKQLoBL._SL400_.jpg)](https://www.amazon.fr/dp/B07XFGPFZK/?tag=tolees0d-21)
 
 ℹ️:
 

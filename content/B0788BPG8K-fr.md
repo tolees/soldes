@@ -2,7 +2,7 @@
 layout: post
 title: '31.79 % rabais sur Hoopzi - Hang 5 - Suspension Luminaire A'
 date: 2020-09-16 21:30:35
-image: 'https://m.media-amazon.com/images/I/41djkmDeFrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41djkmDeFrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.0'
 
 Vous avez [Hoopzi - Hang 5 - Suspension Luminaire Avec Cache Douille Acier - Lustre Araignée pour Salon  Chambre  Cuisine - 4 Mètres - 5 Douilles E27-4 Couleurs - Fil Electrique en Tissu - Métal](https://www.amazon.fr/dp/B0788BPG8K/?tag=tolees0d-21)  à  31.79 % de réduction, prix final  75.0 EUR (original: 109.95 EUR) ici:
 
-[![Hoopzi - Hang 5 - Suspension Luminaire A](https://m.media-amazon.com/images/I/41djkmDeFrL._SL200_.jpg)](https://www.amazon.fr/dp/B0788BPG8K/?tag=tolees0d-21)
+[![Hoopzi - Hang 5 - Suspension Luminaire A](https://m.media-amazon.com/images/I/41djkmDeFrL._SL400_.jpg)](https://www.amazon.fr/dp/B0788BPG8K/?tag=tolees0d-21)
 
 ℹ️:
 

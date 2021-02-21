@@ -2,7 +2,7 @@
 layout: post
 title: 'Louis Cottier - Montre Tradition Skelett avec 79.87 % rabais '
 date: 2020-10-12 09:43:33
-image: 'https://m.media-amazon.com/images/I/416lzowNrtL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416lzowNrtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.0'
 
 C'est en vente [Louis Cottier - Montre Tradition Skelette Automatique - HB3020C1BC1](https://www.amazon.fr/dp/B07Y6V63HG/?tag=tolees0d-21)  à  79.87 % de réduction, prix final  159.0 EUR (original: 790.0 EUR) ici:
 
-[![Louis Cottier - Montre Tradition Skelett](https://m.media-amazon.com/images/I/416lzowNrtL._SL200_.jpg)](https://www.amazon.fr/dp/B07Y6V63HG/?tag=tolees0d-21)
+[![Louis Cottier - Montre Tradition Skelett](https://m.media-amazon.com/images/I/416lzowNrtL._SL400_.jpg)](https://www.amazon.fr/dp/B07Y6V63HG/?tag=tolees0d-21)
 
 ℹ️:
 

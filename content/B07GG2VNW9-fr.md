@@ -2,7 +2,7 @@
 layout: post
 title: 'SteelSeries Arctis 5 - Casque de Jeu à É avec 23.11 % rabais '
 date: 2020-09-13 18:25:27
-image: 'https://m.media-amazon.com/images/I/41FEX5t40LL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41FEX5t40LL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.95'
 
 C'est en vente [SteelSeries Arctis 5 - Casque de Jeu à Éclairage RVB - Son Surround DTS Headphone:X v2.0 pour PC et PlayStation 4 - Noir](https://www.amazon.fr/dp/B07GG2VNW9/?tag=tolees0d-21)  à  23.11 % de réduction, prix final  99.95 EUR (original: 129.99 EUR) ici:
 
-[![SteelSeries Arctis 5 - Casque de Jeu à É](https://m.media-amazon.com/images/I/41FEX5t40LL._SL200_.jpg)](https://www.amazon.fr/dp/B07GG2VNW9/?tag=tolees0d-21)
+[![SteelSeries Arctis 5 - Casque de Jeu à É](https://m.media-amazon.com/images/I/41FEX5t40LL._SL400_.jpg)](https://www.amazon.fr/dp/B07GG2VNW9/?tag=tolees0d-21)
 
 ℹ️:
 

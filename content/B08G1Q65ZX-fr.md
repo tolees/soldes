@@ -2,7 +2,7 @@
 layout: post
 title: 'OUPOD Paire de manettes pour Nintendo Sw avec 20.11 % rabais '
 date: 2020-09-16 21:53:34
-image: 'https://m.media-amazon.com/images/I/414sA9nq8-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414sA9nq8-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.95'
 
 C'est en vente [OUPOD Paire de manettes pour Nintendo Switch  remplacement Joy-Con   avec le support de poignée pouvant transformer en manette Pro  avec 6-Axis/Vibration fonction.  Couleur: Noir et Or ](https://www.amazon.fr/dp/B08G1Q65ZX/?tag=tolees0d-21)  à  20.11 % de réduction, prix final  35.95 EUR (original: 45.0 EUR) ici:
 
-[![OUPOD Paire de manettes pour Nintendo Sw](https://m.media-amazon.com/images/I/414sA9nq8-L._SL200_.jpg)](https://www.amazon.fr/dp/B08G1Q65ZX/?tag=tolees0d-21)
+[![OUPOD Paire de manettes pour Nintendo Sw](https://m.media-amazon.com/images/I/414sA9nq8-L._SL400_.jpg)](https://www.amazon.fr/dp/B08G1Q65ZX/?tag=tolees0d-21)
 
 ℹ️:
 

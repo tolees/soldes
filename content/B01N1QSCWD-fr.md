@@ -2,7 +2,7 @@
 layout: post
 title: 'Manix Skyn king size préservatifs - La b avec 39.44 % rabais '
 date: 2020-08-17 05:09:36
-image: 'https://m.media-amazon.com/images/I/413RAfSlYxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/413RAfSlYxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '10.9'
 
 C'est en vente [Manix Skyn king size préservatifs - La boite de 20 préservatifs](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21)  à  39.44 % de réduction, prix final  10.9 EUR (original: 18.0 EUR) ici:
 
-[![Manix Skyn king size préservatifs - La b](https://m.media-amazon.com/images/I/413RAfSlYxL._SL200_.jpg)](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21)
+[![Manix Skyn king size préservatifs - La b](https://m.media-amazon.com/images/I/413RAfSlYxL._SL400_.jpg)](https://www.amazon.fr/dp/B01N1QSCWD/?tag=tolees0d-21)
 
 ℹ️:
 

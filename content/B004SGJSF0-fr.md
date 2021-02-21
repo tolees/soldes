@@ -2,7 +2,7 @@
 layout: post
 title: '48.70 % rabais sur Puma - Suede Classic+ - Baskets mode - M'
 date: 2020-08-29 17:09:22
-image: 'https://m.media-amazon.com/images/I/51LtCwQc1TL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LtCwQc1TL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.45'
 
 Vous avez [Puma - Suede Classic+ - Baskets mode - Mixte Adulte - Rouge  team regal red-white  - 43 EU](https://www.amazon.fr/dp/B004SGJSF0/?tag=tolees0d-21)  à  48.70 % de réduction, prix final  37.45 EUR (original: 73.0 EUR) ici:
 
-[![Puma - Suede Classic+ - Baskets mode - M](https://m.media-amazon.com/images/I/51LtCwQc1TL._SL200_.jpg)](https://www.amazon.fr/dp/B004SGJSF0/?tag=tolees0d-21)
+[![Puma - Suede Classic+ - Baskets mode - M](https://m.media-amazon.com/images/I/51LtCwQc1TL._SL400_.jpg)](https://www.amazon.fr/dp/B004SGJSF0/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'FLORA GUARD Outils de Jardinage en Alumi avec 18.19 % rabais '
 date: 2020-09-27 02:06:26
-image: 'https://m.media-amazon.com/images/I/51ttRwoMaYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ttRwoMaYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.99'
 
 C'est en vente [FLORA GUARD Outils de Jardinage en Aluminium de 3 pièces avec imprimé Violet - truelle  Transplanter  sécateur  Ensemble-Cadeau pour Le Jardinage  Violet ](https://www.amazon.fr/dp/B073DXXCBY/?tag=tolees0d-21)  à  18.19 % de réduction, prix final  26.99 EUR (original: 32.99 EUR) ici:
 
-[![FLORA GUARD Outils de Jardinage en Alumi](https://m.media-amazon.com/images/I/51ttRwoMaYL._SL200_.jpg)](https://www.amazon.fr/dp/B073DXXCBY/?tag=tolees0d-21)
+[![FLORA GUARD Outils de Jardinage en Alumi](https://m.media-amazon.com/images/I/51ttRwoMaYL._SL400_.jpg)](https://www.amazon.fr/dp/B073DXXCBY/?tag=tolees0d-21)
 
 ℹ️:
 

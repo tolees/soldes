@@ -2,7 +2,7 @@
 layout: post
 title: 'Teakpeak Maquette Architecture  1167pièc avec 50.00 % rabais '
 date: 2020-08-12 18:19:48
-image: 'https://m.media-amazon.com/images/I/51GYnT3H-zL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51GYnT3H-zL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.98'
 
 C'est en vente [Teakpeak Maquette Architecture  1167pièces Fleur de Cerisier Mini Blocs de Construction - Jeu de Construction Architecture- Arbre Sakura Paysage Compatible avec Lego](https://www.amazon.fr/dp/B0887WZPWD/?tag=tolees0d-21)  à  50.00 % de réduction, prix final  49.98 EUR (original: 99.96 EUR) ici:
 
-[![Teakpeak Maquette Architecture  1167pièc](https://m.media-amazon.com/images/I/51GYnT3H-zL._SL200_.jpg)](https://www.amazon.fr/dp/B0887WZPWD/?tag=tolees0d-21)
+[![Teakpeak Maquette Architecture  1167pièc](https://m.media-amazon.com/images/I/51GYnT3H-zL._SL400_.jpg)](https://www.amazon.fr/dp/B0887WZPWD/?tag=tolees0d-21)
 
 ℹ️:
 

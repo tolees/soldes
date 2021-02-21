@@ -2,7 +2,7 @@
 layout: post
 title: '64.30 % rabais sur Przewalski Veste de cyclisme thermique à'
 date: 2020-05-25 14:28:20
-image: 'https://m.media-amazon.com/images/I/41NRgD+yWaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NRgD+yWaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.72'
 
 Vous avez [Przewalski Veste de cyclisme thermique à manches longues pour homme avec fermeture éclair intégrale et respirante XL Rouge](https://www.amazon.fr/dp/B07HP4CNLQ/?tag=tolees0d-21)  à  64.30 % de réduction, prix final  28.72 EUR (original: 80.44 EUR) ici:
 
-[![Przewalski Veste de cyclisme thermique à](https://m.media-amazon.com/images/I/41NRgD+yWaL._SL200_.jpg)](https://www.amazon.fr/dp/B07HP4CNLQ/?tag=tolees0d-21)
+[![Przewalski Veste de cyclisme thermique à](https://m.media-amazon.com/images/I/41NRgD+yWaL._SL400_.jpg)](https://www.amazon.fr/dp/B07HP4CNLQ/?tag=tolees0d-21)
 
 ℹ️:
 

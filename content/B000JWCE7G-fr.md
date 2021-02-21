@@ -2,7 +2,7 @@
 layout: post
 title: 'Online USV Kit de rails pour armoire avec 30.00 % rabais '
 date: 2020-08-04 11:39:37
-image: 'https://m.media-amazon.com/images/I/41xInfj3MmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xInfj3MmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.64'
 
 C'est en vente [Online USV Kit de rails pour armoire](https://www.amazon.fr/dp/B000JWCE7G/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  70.64 EUR (original: 100.91 EUR) ici:
 
-[![Online USV Kit de rails pour armoire](https://m.media-amazon.com/images/I/41xInfj3MmL._SL200_.jpg)](https://www.amazon.fr/dp/B000JWCE7G/?tag=tolees0d-21)
+[![Online USV Kit de rails pour armoire](https://m.media-amazon.com/images/I/41xInfj3MmL._SL400_.jpg)](https://www.amazon.fr/dp/B000JWCE7G/?tag=tolees0d-21)
 
 ℹ️:
 

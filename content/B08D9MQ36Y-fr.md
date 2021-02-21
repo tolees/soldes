@@ -2,7 +2,7 @@
 layout: post
 title: '20.01 % rabais sur Manette sans Fil pour Nintendo Switch RE'
 date: 2020-08-09 12:23:59
-image: 'https://m.media-amazon.com/images/I/41LAuuOVCwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LAuuOVCwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.99'
 
 Vous avez [Manette sans Fil pour Nintendo Switch REDSTORM Manette pour Nintendo Switch Pro/Switch Lite Bluetooth Manette Switch Pro avec Double Moteur/Turbo/6-Axis Gyro/Batterie Rechargeable pour Switch et PC](https://www.amazon.fr/dp/B08D9MQ36Y/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  31.99 EUR (original: 39.99 EUR) ici:
 
-[![Manette sans Fil pour Nintendo Switch RE](https://m.media-amazon.com/images/I/41LAuuOVCwL._SL200_.jpg)](https://www.amazon.fr/dp/B08D9MQ36Y/?tag=tolees0d-21)
+[![Manette sans Fil pour Nintendo Switch RE](https://m.media-amazon.com/images/I/41LAuuOVCwL._SL400_.jpg)](https://www.amazon.fr/dp/B08D9MQ36Y/?tag=tolees0d-21)
 
 ℹ️:
 

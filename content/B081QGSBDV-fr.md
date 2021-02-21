@@ -2,7 +2,7 @@
 layout: post
 title: 'Savon Le Naturel - Extra Pur de Marseill avec 35.14 % rabais '
 date: 2020-09-25 08:56:26
-image: 'https://m.media-amazon.com/images/I/21geQeZHS+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/21geQeZHS+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '2.4'
 
 C'est en vente [Savon Le Naturel - Extra Pur de Marseille à la Fleur d Oranger - 500 ml](https://www.amazon.fr/dp/B081QGSBDV/?tag=tolees0d-21)  à  35.14 % de réduction, prix final  2.4 EUR (original: 3.7 EUR) ici:
 
-[![Savon Le Naturel - Extra Pur de Marseill](https://m.media-amazon.com/images/I/21geQeZHS+L._SL200_.jpg)](https://www.amazon.fr/dp/B081QGSBDV/?tag=tolees0d-21)
+[![Savon Le Naturel - Extra Pur de Marseill](https://m.media-amazon.com/images/I/21geQeZHS+L._SL400_.jpg)](https://www.amazon.fr/dp/B081QGSBDV/?tag=tolees0d-21)
 
 ℹ️:
 

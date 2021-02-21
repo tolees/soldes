@@ -2,7 +2,7 @@
 layout: post
 title: '33.42 % rabais sur Trust Gaming GXT 865 Asta Clavier Mécani'
 date: 2020-05-22 23:38:53
-image: 'https://m.media-amazon.com/images/I/41mjeSZ5lNL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mjeSZ5lNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.94'
 
 Vous avez [Trust Gaming GXT 865 Asta Clavier Mécanique Gamer RGB  Commutateurs de Touche Rouges  Red Switches   Linéaires & Silencieux  N-Key Rollover  Anti-Ghosting  Structure Supérieure en Métal - AZERTY](https://www.amazon.fr/dp/B07JMVBN4R/?tag=tolees0d-21)  à  33.42 % de réduction, prix final  39.94 EUR (original: 59.99 EUR) ici:
 
-[![Trust Gaming GXT 865 Asta Clavier Mécani](https://m.media-amazon.com/images/I/41mjeSZ5lNL._SL200_.jpg)](https://www.amazon.fr/dp/B07JMVBN4R/?tag=tolees0d-21)
+[![Trust Gaming GXT 865 Asta Clavier Mécani](https://m.media-amazon.com/images/I/41mjeSZ5lNL._SL400_.jpg)](https://www.amazon.fr/dp/B07JMVBN4R/?tag=tolees0d-21)
 
 ℹ️:
 

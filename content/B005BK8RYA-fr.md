@@ -2,7 +2,7 @@
 layout: post
 title: '54.55 % rabais sur Merrell Bare Access XTR  Chaussures de T'
 date: 2020-08-09 06:09:43
-image: 'https://m.media-amazon.com/images/I/41XCOKMvIAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XCOKMvIAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.0'
 
 Vous avez [Merrell Bare Access XTR  Chaussures de Trail Femme  Bleu  Dazzle   36 EU](https://www.amazon.fr/dp/B005BK8RYA/?tag=tolees0d-21)  à  54.55 % de réduction, prix final  50.0 EUR (original: 110.0 EUR) ici:
 
-[![Merrell Bare Access XTR  Chaussures de T](https://m.media-amazon.com/images/I/41XCOKMvIAL._SL200_.jpg)](https://www.amazon.fr/dp/B005BK8RYA/?tag=tolees0d-21)
+[![Merrell Bare Access XTR  Chaussures de T](https://m.media-amazon.com/images/I/41XCOKMvIAL._SL400_.jpg)](https://www.amazon.fr/dp/B005BK8RYA/?tag=tolees0d-21)
 
 ℹ️:
 

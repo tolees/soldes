@@ -2,7 +2,7 @@
 layout: post
 title: '22.70 % rabais sur Tommy Hilfiger Honey Workbag Cb  Sacs ba'
 date: 2020-05-22 21:13:46
-image: 'https://m.media-amazon.com/images/I/31ewSZdO+AL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ewSZdO+AL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '139.06'
 
 Vous avez [Tommy Hilfiger Honey Workbag Cb  Sacs bandoulière femme  Bleu  Tommy Navy Mix  ](https://www.amazon.fr/dp/B07N8RL2RM/?tag=tolees0d-21)  à  22.70 % de réduction, prix final  139.06 EUR (original: 179.9 EUR) ici:
 
-[![Tommy Hilfiger Honey Workbag Cb  Sacs ba](https://m.media-amazon.com/images/I/31ewSZdO+AL._SL200_.jpg)](https://www.amazon.fr/dp/B07N8RL2RM/?tag=tolees0d-21)
+[![Tommy Hilfiger Honey Workbag Cb  Sacs ba](https://m.media-amazon.com/images/I/31ewSZdO+AL._SL400_.jpg)](https://www.amazon.fr/dp/B07N8RL2RM/?tag=tolees0d-21)
 
 ℹ️:
 

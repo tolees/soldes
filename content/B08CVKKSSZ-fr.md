@@ -2,7 +2,7 @@
 layout: post
 title: '51.39 % rabais sur HEYSTOP Coque pour Nintendo Switch  Coqu'
 date: 2020-08-17 05:05:09
-image: 'https://m.media-amazon.com/images/I/513N1JyepqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/513N1JyepqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 Vous avez [HEYSTOP Coque pour Nintendo Switch  Coque de Protection en TPU Compatible avec Console Housse Nintendo Switch et Contrôleur Joy-Con  Verre trempé avec Couvre Pouce Absorption des Chocs et Anti-Rayures](https://www.amazon.fr/dp/B08CVKKSSZ/?tag=tolees0d-21)  à  51.39 % de réduction, prix final  13.99 EUR (original: 28.78 EUR) ici:
 
-[![HEYSTOP Coque pour Nintendo Switch  Coqu](https://m.media-amazon.com/images/I/513N1JyepqL._SL200_.jpg)](https://www.amazon.fr/dp/B08CVKKSSZ/?tag=tolees0d-21)
+[![HEYSTOP Coque pour Nintendo Switch  Coqu](https://m.media-amazon.com/images/I/513N1JyepqL._SL400_.jpg)](https://www.amazon.fr/dp/B08CVKKSSZ/?tag=tolees0d-21)
 
 ℹ️:
 

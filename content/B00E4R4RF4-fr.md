@@ -2,7 +2,7 @@
 layout: post
 title: '61.70 % rabais sur Piquadro Sac à dos loisir  Marron - CA29'
 date: 2020-08-05 09:43:59
-image: 'https://m.media-amazon.com/images/I/51RL2A0f6CL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51RL2A0f6CL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '159.59'
 
 Vous avez [Piquadro Sac à dos loisir  Marron - CA2943OS](https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21)  à  61.70 % de réduction, prix final  133.65 EUR (original: 349.0 EUR) ici:
 
-[![Piquadro Sac à dos loisir  Marron - CA29](https://m.media-amazon.com/images/I/51RL2A0f6CL._SL200_.jpg)](https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21)
+[![Piquadro Sac à dos loisir  Marron - CA29](https://m.media-amazon.com/images/I/51RL2A0f6CL._SL400_.jpg)](https://www.amazon.fr/dp/B00E4R4RF4/?tag=tolees0d-21)
 
 ℹ️:
 

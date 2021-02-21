@@ -2,7 +2,7 @@
 layout: post
 title: '35.09 % rabais sur FS - Écouteurs Premium Bluetooth sans Fi'
 date: 2020-09-13 08:58:06
-image: 'https://m.media-amazon.com/images/I/51vrWltwyxL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vrWltwyxL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.9'
 
 Vous avez [FS - Écouteurs Premium Bluetooth sans Fil  Casque avec Plus de 160H d Autonomie  avec Étui de Chargement  Contrôle Tactile  Appariement Automatique  Microphones Intégrés pour Android  iOS et Windows](https://www.amazon.fr/dp/B08FDV9FY2/?tag=tolees0d-21)  à  35.09 % de réduction, prix final  25.9 EUR (original: 39.9 EUR) ici:
 
-[![FS - Écouteurs Premium Bluetooth sans Fi](https://m.media-amazon.com/images/I/51vrWltwyxL._SL200_.jpg)](https://www.amazon.fr/dp/B08FDV9FY2/?tag=tolees0d-21)
+[![FS - Écouteurs Premium Bluetooth sans Fi](https://m.media-amazon.com/images/I/51vrWltwyxL._SL400_.jpg)](https://www.amazon.fr/dp/B08FDV9FY2/?tag=tolees0d-21)
 
 ℹ️:
 

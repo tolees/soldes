@@ -2,7 +2,7 @@
 layout: post
 title: '15.91 % rabais sur La Crosse Technology WS9611 Station Mété'
 date: 2020-08-05 19:43:34
-image: 'https://m.media-amazon.com/images/I/41Rz-TtpjOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rz-TtpjOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.85'
 
 Vous avez [La Crosse Technology WS9611 Station Météo Mister Météo - Argent](https://www.amazon.fr/dp/B002W1YQF0/?tag=tolees0d-21)  à  15.91 % de réduction, prix final  37.85 EUR (original: 45.01 EUR) ici:
 
-[![La Crosse Technology WS9611 Station Mété](https://m.media-amazon.com/images/I/41Rz-TtpjOL._SL200_.jpg)](https://www.amazon.fr/dp/B002W1YQF0/?tag=tolees0d-21)
+[![La Crosse Technology WS9611 Station Mété](https://m.media-amazon.com/images/I/41Rz-TtpjOL._SL400_.jpg)](https://www.amazon.fr/dp/B002W1YQF0/?tag=tolees0d-21)
 
 ℹ️:
 

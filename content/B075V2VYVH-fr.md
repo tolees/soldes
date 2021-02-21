@@ -2,7 +2,7 @@
 layout: post
 title: '32.59 % rabais sur Trust Gaming GXT 890 Cada Clavier AZERTY'
 date: 2020-10-02 14:49:21
-image: 'https://m.media-amazon.com/images/I/41ABQM4043L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ABQM4043L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.99'
 
 Vous avez [Trust Gaming GXT 890 Cada Clavier AZERTY Gamer Mécanique RGB  Interrupteurs Blancs Outemu  Anti Ghosting  Touches Macros Programmables - AZERTY](https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21)  à  32.59 % de réduction, prix final  59.99 EUR (original: 88.99 EUR) ici:
 
-[![Trust Gaming GXT 890 Cada Clavier AZERTY](https://m.media-amazon.com/images/I/41ABQM4043L._SL200_.jpg)](https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21)
+[![Trust Gaming GXT 890 Cada Clavier AZERTY](https://m.media-amazon.com/images/I/41ABQM4043L._SL400_.jpg)](https://www.amazon.fr/dp/B075V2VYVH/?tag=tolees0d-21)
 
 ℹ️:
 

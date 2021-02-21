@@ -2,7 +2,7 @@
 layout: post
 title: '19.09 % rabais sur Armor Lux 76874 Pull Homme Multicolore  '
 date: 2020-05-22 21:10:16
-image: 'https://m.media-amazon.com/images/I/31c3WxzuzOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31c3WxzuzOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.47'
 
 Vous avez [Armor Lux 76874 Pull Homme Multicolore  Navire 300    Large  Taille fabricant: L ](https://www.amazon.fr/dp/B07NVTFQ34/?tag=tolees0d-21)  à  19.09 % de réduction, prix final  112.47 EUR (original: 139.0 EUR) ici:
 
-[![Armor Lux 76874 Pull Homme Multicolore  ](https://m.media-amazon.com/images/I/31c3WxzuzOL._SL200_.jpg)](https://www.amazon.fr/dp/B07NVTFQ34/?tag=tolees0d-21)
+[![Armor Lux 76874 Pull Homme Multicolore  ](https://m.media-amazon.com/images/I/31c3WxzuzOL._SL400_.jpg)](https://www.amazon.fr/dp/B07NVTFQ34/?tag=tolees0d-21)
 
 ℹ️:
 

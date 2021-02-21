@@ -2,7 +2,7 @@
 layout: post
 title: '25.02 % rabais sur Clarks Tilden Walk  Derbys Homme  Noir  '
 date: 2020-05-29 17:56:37
-image: 'https://m.media-amazon.com/images/I/317iihs9d1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/317iihs9d1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.95'
 
 Vous avez [Clarks Tilden Walk  Derbys Homme  Noir  Black Leather   42.5 EU](https://www.amazon.fr/dp/B00TTJF86E/?tag=tolees0d-21)  à  25.02 % de réduction, prix final  59.95 EUR (original: 79.95 EUR) ici:
 
-[![Clarks Tilden Walk  Derbys Homme  Noir  ](https://m.media-amazon.com/images/I/317iihs9d1L._SL200_.jpg)](https://www.amazon.fr/dp/B00TTJF86E/?tag=tolees0d-21)
+[![Clarks Tilden Walk  Derbys Homme  Noir  ](https://m.media-amazon.com/images/I/317iihs9d1L._SL400_.jpg)](https://www.amazon.fr/dp/B00TTJF86E/?tag=tolees0d-21)
 
 ℹ️:
 

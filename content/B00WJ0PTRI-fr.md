@@ -2,7 +2,7 @@
 layout: post
 title: '58.72 % rabais sur Cerruti 1881 Hommes Analogique Quartz Mo'
 date: 2020-05-23 00:07:56
-image: 'https://m.media-amazon.com/images/I/41p5Dnn9kiL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41p5Dnn9kiL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '205.97'
 
 Vous avez [Cerruti 1881 Hommes Analogique Quartz Montre avec Bracelet en Cramique CRA077Z251H](https://www.amazon.fr/dp/B00WJ0PTRI/?tag=tolees0d-21)  à  58.72 % de réduction, prix final  205.97 EUR (original: 499.0 EUR) ici:
 
-[![Cerruti 1881 Hommes Analogique Quartz Mo](https://m.media-amazon.com/images/I/41p5Dnn9kiL._SL200_.jpg)](https://www.amazon.fr/dp/B00WJ0PTRI/?tag=tolees0d-21)
+[![Cerruti 1881 Hommes Analogique Quartz Mo](https://m.media-amazon.com/images/I/41p5Dnn9kiL._SL400_.jpg)](https://www.amazon.fr/dp/B00WJ0PTRI/?tag=tolees0d-21)
 
 ℹ️:
 

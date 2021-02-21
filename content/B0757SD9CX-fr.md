@@ -2,7 +2,7 @@
 layout: post
 title: 'Game of Thrones  Le Trône de Fer  - L in avec 39.10 % rabais '
 date: 2020-05-27 10:51:44
-image: 'https://m.media-amazon.com/images/I/51X96mmLUbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51X96mmLUbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.61'
 
 C'est en vente [Game of Thrones  Le Trône de Fer  - L intégrale des saisons 1 à 7 - Blu-ray - HBO [BLURAY] [BLURAY]](https://www.amazon.fr/dp/B0757SD9CX/?tag=tolees0d-21)  à  39.10 % de réduction, prix final  54.99 EUR (original: 90.3 EUR) ici:
 
-[![Game of Thrones  Le Trône de Fer  - L in](https://m.media-amazon.com/images/I/51X96mmLUbL._SL200_.jpg)](https://www.amazon.fr/dp/B0757SD9CX/?tag=tolees0d-21)
+[![Game of Thrones  Le Trône de Fer  - L in](https://m.media-amazon.com/images/I/51X96mmLUbL._SL400_.jpg)](https://www.amazon.fr/dp/B0757SD9CX/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Etekcity Balance Wifi  Balance Connectée avec 49.10 % rabais '
 date: 2020-09-15 06:49:35
-image: 'https://m.media-amazon.com/images/I/315dmSJf4rL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/315dmSJf4rL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '55.99'
 
 C'est en vente [Etekcity Balance Wifi  Balance Connectée Bluetooth Rechargeable USB  Analyse de la Composition Corporelle  Plate-forme Extra Large 37 5x30cm  Verre Conducteur ITO  180kg](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21)  à  49.10 % de réduction, prix final  55.99 EUR (original: 109.99 EUR) ici:
 
-[![Etekcity Balance Wifi  Balance Connectée](https://m.media-amazon.com/images/I/315dmSJf4rL._SL200_.jpg)](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21)
+[![Etekcity Balance Wifi  Balance Connectée](https://m.media-amazon.com/images/I/315dmSJf4rL._SL400_.jpg)](https://www.amazon.fr/dp/B07RJVP7XZ/?tag=tolees0d-21)
 
 ℹ️:
 

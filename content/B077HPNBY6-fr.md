@@ -2,7 +2,7 @@
 layout: post
 title: '23.69 % rabais sur Wolfcraft 5977000 Scie Cloche Ah Réglabl'
 date: 2020-10-02 13:08:15
-image: 'https://m.media-amazon.com/images/I/51v3UgnPPqL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51v3UgnPPqL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.67'
 
 Vous avez [Wolfcraft 5977000 Scie Cloche Ah Réglable](https://www.amazon.fr/dp/B077HPNBY6/?tag=tolees0d-21)  à  23.69 % de réduction, prix final  26.67 EUR (original: 34.95 EUR) ici:
 
-[![Wolfcraft 5977000 Scie Cloche Ah Réglabl](https://m.media-amazon.com/images/I/51v3UgnPPqL._SL200_.jpg)](https://www.amazon.fr/dp/B077HPNBY6/?tag=tolees0d-21)
+[![Wolfcraft 5977000 Scie Cloche Ah Réglabl](https://m.media-amazon.com/images/I/51v3UgnPPqL._SL400_.jpg)](https://www.amazon.fr/dp/B077HPNBY6/?tag=tolees0d-21)
 
 ℹ️:
 

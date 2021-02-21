@@ -2,7 +2,7 @@
 layout: post
 title: 'IKOHS AIRCALM DC - Ventilateur de Plafon avec 25.82 % rabais '
 date: 2020-08-30 06:42:00
-image: 'https://m.media-amazon.com/images/I/31fRscmlaQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31fRscmlaQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '180.95'
 
 C'est en vente [IKOHS AIRCALM DC - Ventilateur de Plafond Fonction Hiver/été Ultra Silencieux](https://www.amazon.fr/dp/B083WQNWBH/?tag=tolees0d-21)  à  25.82 % de réduction, prix final  180.95 EUR (original: 243.95 EUR) ici:
 
-[![IKOHS AIRCALM DC - Ventilateur de Plafon](https://m.media-amazon.com/images/I/31fRscmlaQL._SL200_.jpg)](https://www.amazon.fr/dp/B083WQNWBH/?tag=tolees0d-21)
+[![IKOHS AIRCALM DC - Ventilateur de Plafon](https://m.media-amazon.com/images/I/31fRscmlaQL._SL400_.jpg)](https://www.amazon.fr/dp/B083WQNWBH/?tag=tolees0d-21)
 
 ℹ️:
 

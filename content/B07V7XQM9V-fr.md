@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Essential Nautical Sneake avec 40.00 % rabais '
 date: 2020-08-19 20:44:44
-image: 'https://m.media-amazon.com/images/I/41Rbbmbm68L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Rbbmbm68L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '41.94'
 
 C'est en vente [Tommy Hilfiger Essential Nautical Sneaker  Sneakers Basses Femme  Bleu  Desert Sky Dw5   39 EU](https://www.amazon.fr/dp/B07V7XQM9V/?tag=tolees0d-21)  à  40.00 % de réduction, prix final  41.94 EUR (original: 69.9 EUR) ici:
 
-[![Tommy Hilfiger Essential Nautical Sneake](https://m.media-amazon.com/images/I/41Rbbmbm68L._SL200_.jpg)](https://www.amazon.fr/dp/B07V7XQM9V/?tag=tolees0d-21)
+[![Tommy Hilfiger Essential Nautical Sneake](https://m.media-amazon.com/images/I/41Rbbmbm68L._SL400_.jpg)](https://www.amazon.fr/dp/B07V7XQM9V/?tag=tolees0d-21)
 
 ℹ️:
 

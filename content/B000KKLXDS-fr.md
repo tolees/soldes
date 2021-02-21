@@ -2,7 +2,7 @@
 layout: post
 title: '35.17 % rabais sur Eastpak The One Sac Bandoulière  21 cm  '
 date: 2020-09-29 08:21:02
-image: 'https://m.media-amazon.com/images/I/41-jvdagtmL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41-jvdagtmL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.018181818181816'
 
 Vous avez [Eastpak The One Sac Bandoulière  21 cm  2.5 L  Noir  Black ](https://www.amazon.fr/dp/B000KKLXDS/?tag=tolees0d-21)  à  35.17 % de réduction, prix final  19.45 EUR (original: 30.0 EUR) ici:
 
-[![Eastpak The One Sac Bandoulière  21 cm  ](https://m.media-amazon.com/images/I/41-jvdagtmL._SL200_.jpg)](https://www.amazon.fr/dp/B000KKLXDS/?tag=tolees0d-21)
+[![Eastpak The One Sac Bandoulière  21 cm  ](https://m.media-amazon.com/images/I/41-jvdagtmL._SL400_.jpg)](https://www.amazon.fr/dp/B000KKLXDS/?tag=tolees0d-21)
 
 ℹ️:
 

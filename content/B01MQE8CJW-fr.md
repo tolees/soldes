@@ -2,7 +2,7 @@
 layout: post
 title: '28.34 % rabais sur Corsair HARPOON RGB Optique Souris Gamin'
 date: 2020-09-10 17:09:26
-image: 'https://m.media-amazon.com/images/I/31zhDg6MN7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31zhDg6MN7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '21.49'
 
 Vous avez [Corsair HARPOON RGB Optique Souris Gaming  Rétro-Éclairge RGB Multicolore  6000 DPI  Noir](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21)  à  28.34 % de réduction, prix final  21.49 EUR (original: 29.99 EUR) ici:
 
-[![Corsair HARPOON RGB Optique Souris Gamin](https://m.media-amazon.com/images/I/31zhDg6MN7L._SL200_.jpg)](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21)
+[![Corsair HARPOON RGB Optique Souris Gamin](https://m.media-amazon.com/images/I/31zhDg6MN7L._SL400_.jpg)](https://www.amazon.fr/dp/B01MQE8CJW/?tag=tolees0d-21)
 
 ℹ️:
 

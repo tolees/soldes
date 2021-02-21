@@ -2,7 +2,7 @@
 layout: post
 title: '50.39 % rabais sur Grohe Mitigeur Évier Eurosmart 32223002 '
 date: 2020-05-23 00:06:46
-image: 'https://m.media-amazon.com/images/I/31eiJuE3R1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31eiJuE3R1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '77.69'
 
 Vous avez [Grohe Mitigeur Évier Eurosmart 32223002  Import Allemagne ](https://www.amazon.fr/dp/B00WIBVHCE/?tag=tolees0d-21)  à  50.39 % de réduction, prix final  77.69 EUR (original: 156.6 EUR) ici:
 
-[![Grohe Mitigeur Évier Eurosmart 32223002 ](https://m.media-amazon.com/images/I/31eiJuE3R1L._SL200_.jpg)](https://www.amazon.fr/dp/B00WIBVHCE/?tag=tolees0d-21)
+[![Grohe Mitigeur Évier Eurosmart 32223002 ](https://m.media-amazon.com/images/I/31eiJuE3R1L._SL400_.jpg)](https://www.amazon.fr/dp/B00WIBVHCE/?tag=tolees0d-21)
 
 ℹ️:
 

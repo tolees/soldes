@@ -2,7 +2,7 @@
 layout: post
 title: 'Zéfal Z Traveler sacoche de porte-bagage avec 54.52 % rabais '
 date: 2020-09-30 06:41:24
-image: 'https://m.media-amazon.com/images/I/41ziDU2n3vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ziDU2n3vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '24.99'
 
 C'est en vente [Zéfal Z Traveler sacoche de porte-bagage](https://www.amazon.fr/dp/B01K7VORFU/?tag=tolees0d-21)  à  54.52 % de réduction, prix final  24.99 EUR (original: 54.95 EUR) ici:
 
-[![Zéfal Z Traveler sacoche de porte-bagage](https://m.media-amazon.com/images/I/41ziDU2n3vL._SL200_.jpg)](https://www.amazon.fr/dp/B01K7VORFU/?tag=tolees0d-21)
+[![Zéfal Z Traveler sacoche de porte-bagage](https://m.media-amazon.com/images/I/41ziDU2n3vL._SL400_.jpg)](https://www.amazon.fr/dp/B01K7VORFU/?tag=tolees0d-21)
 
 ℹ️:
 

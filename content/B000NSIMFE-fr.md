@@ -2,7 +2,7 @@
 layout: post
 title: '24.07 % rabais sur Vans U Old Skool  Basses Mixte adulte - '
 date: 2020-09-24 17:27:31
-image: 'https://m.media-amazon.com/images/I/416NVqFJZoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/416NVqFJZoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '56.95'
 
 Vous avez [Vans U Old Skool  Basses Mixte adulte - Noir  Black/White   44.5 EU](https://www.amazon.fr/dp/B000NSIMFE/?tag=tolees0d-21)  à  24.07 % de réduction, prix final  56.95 EUR (original: 75.0 EUR) ici:
 
-[![Vans U Old Skool  Basses Mixte adulte - ](https://m.media-amazon.com/images/I/416NVqFJZoL._SL200_.jpg)](https://www.amazon.fr/dp/B000NSIMFE/?tag=tolees0d-21)
+[![Vans U Old Skool  Basses Mixte adulte - ](https://m.media-amazon.com/images/I/416NVqFJZoL._SL400_.jpg)](https://www.amazon.fr/dp/B000NSIMFE/?tag=tolees0d-21)
 
 ℹ️:
 

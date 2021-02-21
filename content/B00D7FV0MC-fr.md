@@ -2,7 +2,7 @@
 layout: post
 title: '42.42 % rabais sur Kickers - KICK COL - Bottes Classiques -'
 date: 2020-05-22 21:02:34
-image: 'https://m.media-amazon.com/images/I/419SlR7ZZcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419SlR7ZZcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '57.0'
 
 Vous avez [Kickers - KICK COL - Bottes Classiques - Mixte Enfant - Noir  noir Perm 8  - 39 EU](https://www.amazon.fr/dp/B00D7FV0MC/?tag=tolees0d-21)  à  42.42 % de réduction, prix final  57.0 EUR (original: 99.0 EUR) ici:
 
-[![Kickers - KICK COL - Bottes Classiques -](https://m.media-amazon.com/images/I/419SlR7ZZcL._SL200_.jpg)](https://www.amazon.fr/dp/B00D7FV0MC/?tag=tolees0d-21)
+[![Kickers - KICK COL - Bottes Classiques -](https://m.media-amazon.com/images/I/419SlR7ZZcL._SL400_.jpg)](https://www.amazon.fr/dp/B00D7FV0MC/?tag=tolees0d-21)
 
 ℹ️:
 

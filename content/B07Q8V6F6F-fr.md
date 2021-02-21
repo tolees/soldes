@@ -2,7 +2,7 @@
 layout: post
 title: '56.60 % rabais sur Dockers by Gerli 43lu001  Bottes Rangers'
 date: 2020-05-22 21:59:58
-image: 'https://m.media-amazon.com/images/I/41r4sHLr5IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41r4sHLr5IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.7'
 
 Vous avez [Dockers by Gerli 43lu001  Bottes Rangers Homme  Noir  Schwarz 100   44 EU](https://www.amazon.fr/dp/B07Q8V6F6F/?tag=tolees0d-21)  à  56.60 % de réduction, prix final  34.7 EUR (original: 79.95 EUR) ici:
 
-[![Dockers by Gerli 43lu001  Bottes Rangers](https://m.media-amazon.com/images/I/41r4sHLr5IL._SL200_.jpg)](https://www.amazon.fr/dp/B07Q8V6F6F/?tag=tolees0d-21)
+[![Dockers by Gerli 43lu001  Bottes Rangers](https://m.media-amazon.com/images/I/41r4sHLr5IL._SL400_.jpg)](https://www.amazon.fr/dp/B07Q8V6F6F/?tag=tolees0d-21)
 
 ℹ️:
 

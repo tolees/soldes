@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips GC8962/40 Centrale Vapeur Perfec avec 50.00 % rabais '
 date: 2020-06-01 06:43:23
-image: 'https://m.media-amazon.com/images/I/41TQvUZWoKL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41TQvUZWoKL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '149.99'
 
 C'est en vente [Philips GC8962/40 Centrale Vapeur PerfectCare Expert Plus 7 5 bar effet pressing jusqu à 520g](https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21)  à  50.00 % de réduction, prix final  149.99 EUR (original: 299.99 EUR) ici:
 
-[![Philips GC8962/40 Centrale Vapeur Perfec](https://m.media-amazon.com/images/I/41TQvUZWoKL._SL200_.jpg)](https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21)
+[![Philips GC8962/40 Centrale Vapeur Perfec](https://m.media-amazon.com/images/I/41TQvUZWoKL._SL400_.jpg)](https://www.amazon.fr/dp/B07FSNB13H/?tag=tolees0d-21)
 
 ℹ️:
 

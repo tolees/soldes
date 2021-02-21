@@ -2,7 +2,7 @@
 layout: post
 title: '45.56 % rabais sur CODEMASTERS- F1 2020 - Seventy Edition -'
 date: 2020-10-02 05:03:24
-image: 'https://m.media-amazon.com/images/I/51ECRj7HZcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ECRj7HZcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.1'
 
 Vous avez [CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)  à  45.56 % de réduction, prix final  38.1 EUR (original: 69.99 EUR) ici:
 
-[![CODEMASTERS- F1 2020 - Seventy Edition -](https://m.media-amazon.com/images/I/51ECRj7HZcL._SL200_.jpg)](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)
+[![CODEMASTERS- F1 2020 - Seventy Edition -](https://m.media-amazon.com/images/I/51ECRj7HZcL._SL400_.jpg)](https://www.amazon.fr/dp/B086PLNNPS/?tag=tolees0d-21)
 
 ℹ️:
 

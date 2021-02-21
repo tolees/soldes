@@ -2,7 +2,7 @@
 layout: post
 title: 'Pioneer VSX-933 B  Récepteur AV 7.2 cana avec 38.23 % rabais '
 date: 2020-08-17 19:27:41
-image: 'https://m.media-amazon.com/images/I/319rB8Lba-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319rB8Lba-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '369.99'
 
 C'est en vente [Pioneer VSX-933 B  Récepteur AV 7.2 canaux  Amplificateur HiFi 135 W/Kanal  Multiroom  WiFi  Bluetooth  Dolby Surround-Dolby Atmos-DTS:X  Services de Streaming Spotify  Deezer  Noir](https://www.amazon.fr/dp/B07BJZGJM1/?tag=tolees0d-21)  à  38.23 % de réduction, prix final  369.99 EUR (original: 599.0 EUR) ici:
 
-[![Pioneer VSX-933 B  Récepteur AV 7.2 cana](https://m.media-amazon.com/images/I/319rB8Lba-L._SL200_.jpg)](https://www.amazon.fr/dp/B07BJZGJM1/?tag=tolees0d-21)
+[![Pioneer VSX-933 B  Récepteur AV 7.2 cana](https://m.media-amazon.com/images/I/319rB8Lba-L._SL400_.jpg)](https://www.amazon.fr/dp/B07BJZGJM1/?tag=tolees0d-21)
 
 ℹ️:
 

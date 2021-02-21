@@ -2,7 +2,7 @@
 layout: post
 title: '23.33 % rabais sur Réparer Les Vivants [DVD + Copie Digital'
 date: 2020-10-03 11:13:02
-image: 'https://m.media-amazon.com/images/I/41J8TpJvqOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41J8TpJvqOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Vous avez [Réparer Les Vivants [DVD + Copie Digitale]](https://www.amazon.fr/dp/B01N0SVLRH/?tag=tolees0d-21)  à  23.33 % de réduction, prix final  9.99 EUR (original: 13.03 EUR) ici:
 
-[![Réparer Les Vivants [DVD + Copie Digital](https://m.media-amazon.com/images/I/41J8TpJvqOL._SL200_.jpg)](https://www.amazon.fr/dp/B01N0SVLRH/?tag=tolees0d-21)
+[![Réparer Les Vivants [DVD + Copie Digital](https://m.media-amazon.com/images/I/41J8TpJvqOL._SL400_.jpg)](https://www.amazon.fr/dp/B01N0SVLRH/?tag=tolees0d-21)
 
 ℹ️:
 

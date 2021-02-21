@@ -2,7 +2,7 @@
 layout: post
 title: '46.81 % rabais sur Nike Air Max Thea  Chaussures de Running'
 date: 2020-05-22 20:51:42
-image: 'https://m.media-amazon.com/images/I/41pULgNHF3L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41pULgNHF3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.95'
 
 Vous avez [Nike Air Max Thea  Chaussures de Running Femme  Noir  Black/White 028   37.5 EU](https://www.amazon.fr/dp/B00KJ2TVQI/?tag=tolees0d-21)  à  46.81 % de réduction, prix final  65.95 EUR (original: 124.0 EUR) ici:
 
-[![Nike Air Max Thea  Chaussures de Running](https://m.media-amazon.com/images/I/41pULgNHF3L._SL200_.jpg)](https://www.amazon.fr/dp/B00KJ2TVQI/?tag=tolees0d-21)
+[![Nike Air Max Thea  Chaussures de Running](https://m.media-amazon.com/images/I/41pULgNHF3L._SL400_.jpg)](https://www.amazon.fr/dp/B00KJ2TVQI/?tag=tolees0d-21)
 
 ℹ️:
 

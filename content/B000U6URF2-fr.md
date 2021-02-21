@@ -2,7 +2,7 @@
 layout: post
 title: '49.97 % rabais sur Clarks Funny Dream  Derbys Femme  Noir  '
 date: 2020-09-26 16:08:37
-image: 'https://m.media-amazon.com/images/I/41PUVsnTjAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PUVsnTjAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '50.0'
 
 Vous avez [Clarks Funny Dream  Derbys Femme  Noir  Black Leather   38 EU](https://www.amazon.fr/dp/B000U6URF2/?tag=tolees0d-21)  à  49.97 % de réduction, prix final  50.0 EUR (original: 99.95 EUR) ici:
 
-[![Clarks Funny Dream  Derbys Femme  Noir  ](https://m.media-amazon.com/images/I/41PUVsnTjAL._SL200_.jpg)](https://www.amazon.fr/dp/B000U6URF2/?tag=tolees0d-21)
+[![Clarks Funny Dream  Derbys Femme  Noir  ](https://m.media-amazon.com/images/I/41PUVsnTjAL._SL400_.jpg)](https://www.amazon.fr/dp/B000U6URF2/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike 894432 T-Shirt Men s  Bleu  Midnigh avec 41.76 % rabais '
 date: 2020-05-22 22:24:52
-image: 'https://m.media-amazon.com/images/I/41Ja6Tif0hL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Ja6Tif0hL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.5'
 
 C'est en vente [Nike 894432 T-Shirt Men s  Bleu  Midnight Navy/White 411   FR : M  Taille Fabricant : M ](https://www.amazon.fr/dp/B077VVM11F/?tag=tolees0d-21)  à  41.76 % de réduction, prix final  49.5 EUR (original: 85.0 EUR) ici:
 
-[![Nike 894432 T-Shirt Men s  Bleu  Midnigh](https://m.media-amazon.com/images/I/41Ja6Tif0hL._SL200_.jpg)](https://www.amazon.fr/dp/B077VVM11F/?tag=tolees0d-21)
+[![Nike 894432 T-Shirt Men s  Bleu  Midnigh](https://m.media-amazon.com/images/I/41Ja6Tif0hL._SL400_.jpg)](https://www.amazon.fr/dp/B077VVM11F/?tag=tolees0d-21)
 
 ℹ️:
 

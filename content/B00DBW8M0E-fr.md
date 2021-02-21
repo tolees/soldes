@@ -2,7 +2,7 @@
 layout: post
 title: '33.40 % rabais sur Freddie Mercury Tribute Concert [Blu-ray'
 date: 2020-10-12 07:37:04
-image: 'https://m.media-amazon.com/images/I/516Zh18-DZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/516Zh18-DZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Vous avez [Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray  SD upscalée ] [SD Blu-ray  SD upscalée ]](https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21)  à  33.40 % de réduction, prix final  9.99 EUR (original: 15.0 EUR) ici:
 
-[![Freddie Mercury Tribute Concert [Blu-ray](https://m.media-amazon.com/images/I/516Zh18-DZL._SL200_.jpg)](https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21)
+[![Freddie Mercury Tribute Concert [Blu-ray](https://m.media-amazon.com/images/I/516Zh18-DZL._SL400_.jpg)](https://www.amazon.fr/dp/B00DBW8M0E/?tag=tolees0d-21)
 
 ℹ️:
 

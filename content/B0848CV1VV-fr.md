@@ -2,7 +2,7 @@
 layout: post
 title: 'Captain Tsubasa : Rise of New Champions  avec 25.00 % rabais '
 date: 2020-08-08 06:04:30
-image: 'https://m.media-amazon.com/images/I/51zDvdQjqaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51zDvdQjqaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '44.99'
 
 C'est en vente [Captain Tsubasa : Rise of New Champions Nintendo Switch](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)  à  25.00 % de réduction, prix final  44.99 EUR (original: 59.99 EUR) ici:
 
-[![Captain Tsubasa : Rise of New Champions ](https://m.media-amazon.com/images/I/51zDvdQjqaL._SL200_.jpg)](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)
+[![Captain Tsubasa : Rise of New Champions ](https://m.media-amazon.com/images/I/51zDvdQjqaL._SL400_.jpg)](https://www.amazon.fr/dp/B0848CV1VV/?tag=tolees0d-21)
 
 ℹ️:
 

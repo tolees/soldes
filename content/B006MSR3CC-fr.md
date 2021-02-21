@@ -2,7 +2,7 @@
 layout: post
 title: 'Facom - RLNANO1PB 32005 - Coffret douill avec 35.37 % rabais '
 date: 2020-09-16 09:23:48
-image: 'https://m.media-amazon.com/images/I/51SYsWog62L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SYsWog62L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '112.24'
 
 C'est en vente [Facom - RLNANO1PB 32005 - Coffret douilles 1/4   6 pans RLNANO1PB - La précision à toute épreuve](https://www.amazon.fr/dp/B006MSR3CC/?tag=tolees0d-21)  à  35.37 % de réduction, prix final  112.24 EUR (original: 173.66 EUR) ici:
 
-[![Facom - RLNANO1PB 32005 - Coffret douill](https://m.media-amazon.com/images/I/51SYsWog62L._SL200_.jpg)](https://www.amazon.fr/dp/B006MSR3CC/?tag=tolees0d-21)
+[![Facom - RLNANO1PB 32005 - Coffret douill](https://m.media-amazon.com/images/I/51SYsWog62L._SL400_.jpg)](https://www.amazon.fr/dp/B006MSR3CC/?tag=tolees0d-21)
 
 ℹ️:
 

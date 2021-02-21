@@ -2,7 +2,7 @@
 layout: post
 title: 'Rowenta Ventilateur sur pied 16  /40 cm  avec 29.90 % rabais '
 date: 2020-09-12 10:17:57
-image: 'https://m.media-amazon.com/images/I/31ENMs02zBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ENMs02zBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '62.96'
 
 C'est en vente [Rowenta Ventilateur sur pied 16  /40 cm Turbo Silence Extrême VU5640F0](https://www.amazon.fr/dp/B01891LZBY/?tag=tolees0d-21)  à  29.90 % de réduction, prix final  62.96 EUR (original: 89.82 EUR) ici:
 
-[![Rowenta Ventilateur sur pied 16  /40 cm ](https://m.media-amazon.com/images/I/31ENMs02zBL._SL200_.jpg)](https://www.amazon.fr/dp/B01891LZBY/?tag=tolees0d-21)
+[![Rowenta Ventilateur sur pied 16  /40 cm ](https://m.media-amazon.com/images/I/31ENMs02zBL._SL400_.jpg)](https://www.amazon.fr/dp/B01891LZBY/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'PUMA ESS Logo Leggings Pantalons Femme   avec 43.27 % rabais '
 date: 2020-08-28 17:14:04
-image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 C'est en vente [PUMA ESS Logo Leggings Pantalons Femme  Cotton Black  XS](https://www.amazon.fr/dp/B07D5SQKHB/?tag=tolees0d-21)  à  43.27 % de réduction, prix final  16.99 EUR (original: 29.95 EUR) ici:
 
-[![PUMA ESS Logo Leggings Pantalons Femme  ](https://m.media-amazon.com/images/I/31AnDjO8IwL._SL200_.jpg)](https://www.amazon.fr/dp/B07D5SQKHB/?tag=tolees0d-21)
+[![PUMA ESS Logo Leggings Pantalons Femme  ](https://m.media-amazon.com/images/I/31AnDjO8IwL._SL400_.jpg)](https://www.amazon.fr/dp/B07D5SQKHB/?tag=tolees0d-21)
 
 ℹ️:
 

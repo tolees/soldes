@@ -2,7 +2,7 @@
 layout: post
 title: '37.03 % rabais sur Samyang 50 mm / F 1.4 AS UMC Objectifs'
 date: 2020-09-26 22:59:21
-image: 'https://m.media-amazon.com/images/I/51Gceewgo+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Gceewgo+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '289.04'
 
 Vous avez [Samyang 50 mm / F 1.4 AS UMC Objectifs](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)  à  37.03 % de réduction, prix final  289.04 EUR (original: 459.0 EUR) ici:
 
-[![Samyang 50 mm / F 1.4 AS UMC Objectifs](https://m.media-amazon.com/images/I/51Gceewgo+L._SL200_.jpg)](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
+[![Samyang 50 mm / F 1.4 AS UMC Objectifs](https://m.media-amazon.com/images/I/51Gceewgo+L._SL400_.jpg)](https://www.amazon.fr/dp/B00TS9FUN6/?tag=tolees0d-21)
 
 ℹ️:
 

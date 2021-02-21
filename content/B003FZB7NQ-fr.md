@@ -2,7 +2,7 @@
 layout: post
 title: 'Lexibook D800FR Dictionnaire électroniqu avec 30.01 % rabais '
 date: 2020-10-12 20:44:00
-image: 'https://m.media-amazon.com/images/I/51997DKla7L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51997DKla7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '34.99'
 
 C'est en vente [Lexibook D800FR Dictionnaire électronique Larousse](https://www.amazon.fr/dp/B003FZB7NQ/?tag=tolees0d-21)  à  30.01 % de réduction, prix final  34.99 EUR (original: 49.99 EUR) ici:
 
-[![Lexibook D800FR Dictionnaire électroniqu](https://m.media-amazon.com/images/I/51997DKla7L._SL200_.jpg)](https://www.amazon.fr/dp/B003FZB7NQ/?tag=tolees0d-21)
+[![Lexibook D800FR Dictionnaire électroniqu](https://m.media-amazon.com/images/I/51997DKla7L._SL400_.jpg)](https://www.amazon.fr/dp/B003FZB7NQ/?tag=tolees0d-21)
 
 ℹ️:
 

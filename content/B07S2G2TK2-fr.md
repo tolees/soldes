@@ -2,7 +2,7 @@
 layout: post
 title: '18.08 % rabais sur Levi s Perfect V Neck T-Shirt  Blanc  Wh'
 date: 2020-10-01 21:03:59
-image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '20.214'
 
 Vous avez [Levi s Perfect V Neck T-Shirt  Blanc  White + 0002   Large Femme](https://www.amazon.fr/dp/B07S2G2TK2/?tag=tolees0d-21)  à  18.08 % de réduction, prix final  20.48 EUR (original: 25.0 EUR) ici:
 
-[![Levi s Perfect V Neck T-Shirt  Blanc  Wh](https://m.media-amazon.com/images/I/31A1BbZk2vL._SL200_.jpg)](https://www.amazon.fr/dp/B07S2G2TK2/?tag=tolees0d-21)
+[![Levi s Perfect V Neck T-Shirt  Blanc  Wh](https://m.media-amazon.com/images/I/31A1BbZk2vL._SL400_.jpg)](https://www.amazon.fr/dp/B07S2G2TK2/?tag=tolees0d-21)
 
 ℹ️:
 

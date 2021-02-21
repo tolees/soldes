@@ -2,7 +2,7 @@
 layout: post
 title: 'Samyang SAM24TSSONY Objectif 24 mm  F3.5 avec 37.69 % rabais '
 date: 2020-09-18 10:08:12
-image: 'https://m.media-amazon.com/images/I/51lqBLT4ocL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lqBLT4ocL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '609.99'
 
 C'est en vente [Samyang SAM24TSSONY Objectif 24 mm  F3.5 pour Sony Noir](https://www.amazon.fr/dp/B00D3LJCYS/?tag=tolees0d-21)  à  37.69 % de réduction, prix final  609.99 EUR (original: 979.0 EUR) ici:
 
-[![Samyang SAM24TSSONY Objectif 24 mm  F3.5](https://m.media-amazon.com/images/I/51lqBLT4ocL._SL200_.jpg)](https://www.amazon.fr/dp/B00D3LJCYS/?tag=tolees0d-21)
+[![Samyang SAM24TSSONY Objectif 24 mm  F3.5](https://m.media-amazon.com/images/I/51lqBLT4ocL._SL400_.jpg)](https://www.amazon.fr/dp/B00D3LJCYS/?tag=tolees0d-21)
 
 ℹ️:
 

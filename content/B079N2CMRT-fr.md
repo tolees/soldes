@@ -2,7 +2,7 @@
 layout: post
 title: '28.93 % rabais sur Playmobil - Maison de Lucky - 9475'
 date: 2020-08-11 00:12:45
-image: 'https://m.media-amazon.com/images/I/51P27Vja8uL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51P27Vja8uL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.64'
 
 Vous avez [Playmobil - Maison de Lucky - 9475](https://www.amazon.fr/dp/B079N2CMRT/?tag=tolees0d-21)  à  28.93 % de réduction, prix final  69.64 EUR (original: 97.99 EUR) ici:
 
-[![Playmobil - Maison de Lucky - 9475](https://m.media-amazon.com/images/I/51P27Vja8uL._SL200_.jpg)](https://www.amazon.fr/dp/B079N2CMRT/?tag=tolees0d-21)
+[![Playmobil - Maison de Lucky - 9475](https://m.media-amazon.com/images/I/51P27Vja8uL._SL400_.jpg)](https://www.amazon.fr/dp/B079N2CMRT/?tag=tolees0d-21)
 
 ℹ️:
 

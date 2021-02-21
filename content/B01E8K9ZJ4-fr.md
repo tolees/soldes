@@ -2,7 +2,7 @@
 layout: post
 title: '28.10 % rabais sur Ayotu Étui pour Kindle Paperwhite 2018 -'
 date: 2020-06-11 10:27:45
-image: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.25'
 
 Vous avez [Ayotu Étui pour Kindle Paperwhite 2018 - Étui de Protection en Cuir PU avec Fonction réveil/Veille Automatique pour Amazon Kindle Paperwhite  10ème génération - 2018  Le garçon et Le Renard](https://www.amazon.fr/dp/B01E8K9ZJ4/?tag=tolees0d-21)  à  28.10 % de réduction, prix final  17.25 EUR (original: 23.99 EUR) ici:
 
-[![Ayotu Étui pour Kindle Paperwhite 2018 -](https://m.media-amazon.com/images/I/41h92VmNJoL._SL200_.jpg)](https://www.amazon.fr/dp/B01E8K9ZJ4/?tag=tolees0d-21)
+[![Ayotu Étui pour Kindle Paperwhite 2018 -](https://m.media-amazon.com/images/I/41h92VmNJoL._SL400_.jpg)](https://www.amazon.fr/dp/B01E8K9ZJ4/?tag=tolees0d-21)
 
 ℹ️:
 

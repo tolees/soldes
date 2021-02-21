@@ -2,7 +2,7 @@
 layout: post
 title: 'Clarks Kaylin Cara  Escarpins Femme  Gri avec 60.00 % rabais '
 date: 2020-09-30 11:40:30
-image: 'https://m.media-amazon.com/images/I/41LSwLWZbjL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41LSwLWZbjL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.98'
 
 C'est en vente [Clarks Kaylin Cara  Escarpins Femme  Gris  Stone Stone   38 EU](https://www.amazon.fr/dp/B07TKS4N1P/?tag=tolees0d-21)  à  60.00 % de réduction, prix final  35.98 EUR (original: 89.95 EUR) ici:
 
-[![Clarks Kaylin Cara  Escarpins Femme  Gri](https://m.media-amazon.com/images/I/41LSwLWZbjL._SL200_.jpg)](https://www.amazon.fr/dp/B07TKS4N1P/?tag=tolees0d-21)
+[![Clarks Kaylin Cara  Escarpins Femme  Gri](https://m.media-amazon.com/images/I/41LSwLWZbjL._SL400_.jpg)](https://www.amazon.fr/dp/B07TKS4N1P/?tag=tolees0d-21)
 
 ℹ️:
 

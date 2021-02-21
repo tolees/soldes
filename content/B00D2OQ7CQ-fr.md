@@ -2,7 +2,7 @@
 layout: post
 title: 'Cressi HY788051 Sub S.p.A. Ac2 Compact D avec 32.44 % rabais '
 date: 2020-08-27 18:25:38
-image: 'https://m.media-amazon.com/images/I/41MkBNdhSlL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MkBNdhSlL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '124.94'
 
 C'est en vente [Cressi HY788051 Sub S.p.A. Ac2 Compact Détendeur DIN](https://www.amazon.fr/dp/B00D2OQ7CQ/?tag=tolees0d-21)  à  32.44 % de réduction, prix final  124.94 EUR (original: 184.94 EUR) ici:
 
-[![Cressi HY788051 Sub S.p.A. Ac2 Compact D](https://m.media-amazon.com/images/I/41MkBNdhSlL._SL200_.jpg)](https://www.amazon.fr/dp/B00D2OQ7CQ/?tag=tolees0d-21)
+[![Cressi HY788051 Sub S.p.A. Ac2 Compact D](https://m.media-amazon.com/images/I/41MkBNdhSlL._SL400_.jpg)](https://www.amazon.fr/dp/B00D2OQ7CQ/?tag=tolees0d-21)
 
 ℹ️:
 

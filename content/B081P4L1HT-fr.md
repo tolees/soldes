@@ -2,7 +2,7 @@
 layout: post
 title: 'Nike PSG M NK BRT STAD JSY SS 4R T-Shirt avec 48.67 % rabais '
 date: 2020-08-13 21:43:52
-image: 'https://m.media-amazon.com/images/I/41MM3xAvOUL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41MM3xAvOUL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.71'
 
 C'est en vente [Nike PSG M NK BRT STAD JSY SS 4R T-Shirt Homme  Black/ White   Full Sponsor   FR  Taille Fabricant : XS ](https://www.amazon.fr/dp/B081P4L1HT/?tag=tolees0d-21)  à  48.67 % de réduction, prix final  46.71 EUR (original: 91.0 EUR) ici:
 
-[![Nike PSG M NK BRT STAD JSY SS 4R T-Shirt](https://m.media-amazon.com/images/I/41MM3xAvOUL._SL200_.jpg)](https://www.amazon.fr/dp/B081P4L1HT/?tag=tolees0d-21)
+[![Nike PSG M NK BRT STAD JSY SS 4R T-Shirt](https://m.media-amazon.com/images/I/41MM3xAvOUL._SL400_.jpg)](https://www.amazon.fr/dp/B081P4L1HT/?tag=tolees0d-21)
 
 ℹ️:
 

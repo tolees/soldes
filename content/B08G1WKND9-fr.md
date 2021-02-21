@@ -2,7 +2,7 @@
 layout: post
 title: 'VISSQH 20pcs micro interrupteur fin de c avec 23.94 % rabais '
 date: 2020-10-04 11:07:00
-image: 'https://m.media-amazon.com/images/I/51tgvdUwM8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51tgvdUwM8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.88'
 
 C'est en vente [VISSQH 20pcs micro interrupteur fin de course  NO-NC 3Broches SPDT Micro Switch Momentané micro interrupteur levier pour Arduino Équipement Électronique ect micro interrupteur 12v](https://www.amazon.fr/dp/B08G1WKND9/?tag=tolees0d-21)  à  23.94 % de réduction, prix final  9.88 EUR (original: 12.99 EUR) ici:
 
-[![VISSQH 20pcs micro interrupteur fin de c](https://m.media-amazon.com/images/I/51tgvdUwM8L._SL200_.jpg)](https://www.amazon.fr/dp/B08G1WKND9/?tag=tolees0d-21)
+[![VISSQH 20pcs micro interrupteur fin de c](https://m.media-amazon.com/images/I/51tgvdUwM8L._SL400_.jpg)](https://www.amazon.fr/dp/B08G1WKND9/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '24.58 % rabais sur Playmobil - Playmobil The Movie Food Tru'
 date: 2020-08-13 00:19:11
-image: 'https://m.media-amazon.com/images/I/51JBYqTyAZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51JBYqTyAZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '37.570588235294125'
 
 Vous avez [Playmobil - Playmobil The Movie Food Truck de Del  - 70075](https://www.amazon.fr/dp/B07P8P8YBC/?tag=tolees0d-21)  à  24.58 % de réduction, prix final  37.7 EUR (original: 49.99 EUR) ici:
 
-[![Playmobil - Playmobil The Movie Food Tru](https://m.media-amazon.com/images/I/51JBYqTyAZL._SL200_.jpg)](https://www.amazon.fr/dp/B07P8P8YBC/?tag=tolees0d-21)
+[![Playmobil - Playmobil The Movie Food Tru](https://m.media-amazon.com/images/I/51JBYqTyAZL._SL400_.jpg)](https://www.amazon.fr/dp/B07P8P8YBC/?tag=tolees0d-21)
 
 ℹ️:
 

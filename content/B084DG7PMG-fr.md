@@ -2,7 +2,7 @@
 layout: post
 title: 'Jumanji : Next Level avec 25.27 % rabais '
 date: 2020-06-12 00:08:57
-image: 'https://m.media-amazon.com/images/I/51dwdtvATyL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51dwdtvATyL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.49'
 
 C'est en vente [Jumanji : Next Level](https://www.amazon.fr/dp/B084DG7PMG/?tag=tolees0d-21)  à  25.27 % de réduction, prix final  14.99 EUR (original: 20.06 EUR) ici:
 
-[![Jumanji : Next Level](https://m.media-amazon.com/images/I/51dwdtvATyL._SL200_.jpg)](https://www.amazon.fr/dp/B084DG7PMG/?tag=tolees0d-21)
+[![Jumanji : Next Level](https://m.media-amazon.com/images/I/51dwdtvATyL._SL400_.jpg)](https://www.amazon.fr/dp/B084DG7PMG/?tag=tolees0d-21)
 
 ℹ️:
 

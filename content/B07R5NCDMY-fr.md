@@ -2,7 +2,7 @@
 layout: post
 title: 'Razer Seiren X Mercury Microphone à Cond avec 36.37 % rabais '
 date: 2020-05-28 11:16:10
-image: 'https://m.media-amazon.com/images/I/319zShstfXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/319zShstfXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '69.99'
 
 C'est en vente [Razer Seiren X Mercury Microphone à Condensateur Pour eux Vidéo - Amortisseur de Chocs Intégré - Microphone Streaming de Qualité Professionnelle](https://www.amazon.fr/dp/B07R5NCDMY/?tag=tolees0d-21)  à  36.37 % de réduction, prix final  69.99 EUR (original: 109.99 EUR) ici:
 
-[![Razer Seiren X Mercury Microphone à Cond](https://m.media-amazon.com/images/I/319zShstfXL._SL200_.jpg)](https://www.amazon.fr/dp/B07R5NCDMY/?tag=tolees0d-21)
+[![Razer Seiren X Mercury Microphone à Cond](https://m.media-amazon.com/images/I/319zShstfXL._SL400_.jpg)](https://www.amazon.fr/dp/B07R5NCDMY/?tag=tolees0d-21)
 
 ℹ️:
 

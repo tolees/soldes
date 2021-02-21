@@ -2,7 +2,7 @@
 layout: post
 title: 'Manette sans Fil pour Nintendo Switch  M avec 25.01 % rabais '
 date: 2020-08-05 06:21:01
-image: 'https://m.media-amazon.com/images/I/51WvlMceDuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51WvlMceDuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 C'est en vente [Manette sans Fil pour Nintendo Switch  Manettes pour Switch  RegeMoudal Bluetooth Manette Switch Pro avec Ajustable Turbo/Double Moteur/6-Axis Gyro/Double Moteur pour Switch Lite](https://www.amazon.fr/dp/B0869HC1KX/?tag=tolees0d-21)  à  25.01 % de réduction, prix final  29.99 EUR (original: 39.99 EUR) ici:
 
-[![Manette sans Fil pour Nintendo Switch  M](https://m.media-amazon.com/images/I/51WvlMceDuL._SL200_.jpg)](https://www.amazon.fr/dp/B0869HC1KX/?tag=tolees0d-21)
+[![Manette sans Fil pour Nintendo Switch  M](https://m.media-amazon.com/images/I/51WvlMceDuL._SL400_.jpg)](https://www.amazon.fr/dp/B0869HC1KX/?tag=tolees0d-21)
 
 ℹ️:
 

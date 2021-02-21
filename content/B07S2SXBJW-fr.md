@@ -2,7 +2,7 @@
 layout: post
 title: '56.96 % rabais sur Levi s 514 Jeans Droits Homme  Bleu  Dry'
 date: 2020-08-06 15:27:43
-image: 'https://m.media-amazon.com/images/I/41j9SnufOdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41j9SnufOdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.5'
 
 Vous avez [Levi s 514 Jeans Droits Homme  Bleu  Dryers Supper Adv 1330   34W / 32L](https://www.amazon.fr/dp/B07S2SXBJW/?tag=tolees0d-21)  à  56.96 % de réduction, prix final  49.5 EUR (original: 115.0 EUR) ici:
 
-[![Levi s 514 Jeans Droits Homme  Bleu  Dry](https://m.media-amazon.com/images/I/41j9SnufOdL._SL200_.jpg)](https://www.amazon.fr/dp/B07S2SXBJW/?tag=tolees0d-21)
+[![Levi s 514 Jeans Droits Homme  Bleu  Dry](https://m.media-amazon.com/images/I/41j9SnufOdL._SL400_.jpg)](https://www.amazon.fr/dp/B07S2SXBJW/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '30.06 % rabais sur ASUS Chromebook C423NA-EC0102 Ordinateur'
 date: 2020-09-22 22:46:27
-image: 'https://m.media-amazon.com/images/I/41KQWViTlPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KQWViTlPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '349.0'
 
 Vous avez [ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile 14   FHD  Intel pentium N4200  RAM 8Go  64Go EMMC  Chrome OS  Clavier AZERTY Français](https://www.amazon.fr/dp/B086QDTBQN/?tag=tolees0d-21)  à  30.06 % de réduction, prix final  349.0 EUR (original: 499.0 EUR) ici:
 
-[![ASUS Chromebook C423NA-EC0102 Ordinateur](https://m.media-amazon.com/images/I/41KQWViTlPL._SL200_.jpg)](https://www.amazon.fr/dp/B086QDTBQN/?tag=tolees0d-21)
+[![ASUS Chromebook C423NA-EC0102 Ordinateur](https://m.media-amazon.com/images/I/41KQWViTlPL._SL400_.jpg)](https://www.amazon.fr/dp/B086QDTBQN/?tag=tolees0d-21)
 
 ℹ️:
 

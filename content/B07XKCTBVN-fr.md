@@ -2,7 +2,7 @@
 layout: post
 title: 'Mpow H17 Casque Bluetooth à Réduction de avec 50.01 % rabais '
 date: 2020-09-11 21:38:51
-image: 'https://m.media-amazon.com/images/I/41KDvep9xWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41KDvep9xWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.32333333333334'
 
 C'est en vente [Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45 Heures] Pliable Casque Bluetooth avec Micro Intégré Anti Bruit CVC 6.0 Charge Rapide avec Étui Portable pour Cours en Ligne/Téléphone/PC](https://www.amazon.fr/dp/B07XKCTBVN/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  49.99 EUR (original: 99.99 EUR) ici:
 
-[![Mpow H17 Casque Bluetooth à Réduction de](https://m.media-amazon.com/images/I/41KDvep9xWL._SL200_.jpg)](https://www.amazon.fr/dp/B07XKCTBVN/?tag=tolees0d-21)
+[![Mpow H17 Casque Bluetooth à Réduction de](https://m.media-amazon.com/images/I/41KDvep9xWL._SL400_.jpg)](https://www.amazon.fr/dp/B07XKCTBVN/?tag=tolees0d-21)
 
 ℹ️:
 

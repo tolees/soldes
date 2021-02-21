@@ -2,7 +2,7 @@
 layout: post
 title: '55.38 % rabais sur Fendi Brillengestelle FF 0110 H1T/16-53-'
 date: 2020-05-22 21:06:07
-image: 'https://m.media-amazon.com/images/I/31jp0HPTTWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31jp0HPTTWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '116.0'
 
 Vous avez [Fendi Brillengestelle FF 0110 H1T/16-53-16-135 Lunettes de Soleil  Rouge  Rot   53.0 Femme](https://www.amazon.fr/dp/B00ZCMIGJS/?tag=tolees0d-21)  à  55.38 % de réduction, prix final  116.0 EUR (original: 260.0 EUR) ici:
 
-[![Fendi Brillengestelle FF 0110 H1T/16-53-](https://m.media-amazon.com/images/I/31jp0HPTTWL._SL200_.jpg)](https://www.amazon.fr/dp/B00ZCMIGJS/?tag=tolees0d-21)
+[![Fendi Brillengestelle FF 0110 H1T/16-53-](https://m.media-amazon.com/images/I/31jp0HPTTWL._SL400_.jpg)](https://www.amazon.fr/dp/B00ZCMIGJS/?tag=tolees0d-21)
 
 ℹ️:
 

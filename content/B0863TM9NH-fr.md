@@ -2,7 +2,7 @@
 layout: post
 title: 'Birds of Prey et la fantabuleuse Histoir avec 20.29 % rabais '
 date: 2020-06-12 00:00:09
-image: 'https://m.media-amazon.com/images/I/51Y2X10x5+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51Y2X10x5+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.323333333333334'
 
 C'est en vente [Birds of Prey et la fantabuleuse Histoire de Harley Quinn](https://www.amazon.fr/dp/B0863TM9NH/?tag=tolees0d-21)  à  20.29 % de réduction, prix final  15.99 EUR (original: 20.06 EUR) ici:
 
-[![Birds of Prey et la fantabuleuse Histoir](https://m.media-amazon.com/images/I/51Y2X10x5+L._SL200_.jpg)](https://www.amazon.fr/dp/B0863TM9NH/?tag=tolees0d-21)
+[![Birds of Prey et la fantabuleuse Histoir](https://m.media-amazon.com/images/I/51Y2X10x5+L._SL400_.jpg)](https://www.amazon.fr/dp/B0863TM9NH/?tag=tolees0d-21)
 
 ℹ️:
 

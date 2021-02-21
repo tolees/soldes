@@ -2,7 +2,7 @@
 layout: post
 title: '44.67 % rabais sur BIC Cristal Boîte en forme de stylo à bi'
 date: 2020-09-30 05:38:54
-image: 'https://m.media-amazon.com/images/I/41cExes5lwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41cExes5lwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.96'
 
 Vous avez [BIC Cristal Boîte en forme de stylo à bille avec 20 stylos Assortiment de couleurs](https://www.amazon.fr/dp/B002WIGUGG/?tag=tolees0d-21)  à  44.67 % de réduction, prix final  9.96 EUR (original: 18.0 EUR) ici:
 
-[![BIC Cristal Boîte en forme de stylo à bi](https://m.media-amazon.com/images/I/41cExes5lwL._SL200_.jpg)](https://www.amazon.fr/dp/B002WIGUGG/?tag=tolees0d-21)
+[![BIC Cristal Boîte en forme de stylo à bi](https://m.media-amazon.com/images/I/41cExes5lwL._SL400_.jpg)](https://www.amazon.fr/dp/B002WIGUGG/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Cat Footwear Colorado  Bottes Homme  Bei avec 32.35 % rabais '
 date: 2020-05-22 21:18:21
-image: 'https://m.media-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '101.48'
 
 C'est en vente [Cat Footwear Colorado  Bottes Homme  Beige Honey  42 EU](https://www.amazon.fr/dp/B009RJURDK/?tag=tolees0d-21)  à  32.35 % de réduction, prix final  101.48 EUR (original: 150.0 EUR) ici:
 
-[![Cat Footwear Colorado  Bottes Homme  Bei](https://m.media-amazon.com/images/I/51SLDqyXMaL._SL200_.jpg)](https://www.amazon.fr/dp/B009RJURDK/?tag=tolees0d-21)
+[![Cat Footwear Colorado  Bottes Homme  Bei](https://m.media-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg)](https://www.amazon.fr/dp/B009RJURDK/?tag=tolees0d-21)
 
 ℹ️:
 

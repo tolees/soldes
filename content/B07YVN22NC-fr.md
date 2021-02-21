@@ -2,7 +2,7 @@
 layout: post
 title: '23.53 % rabais sur Philips Hue White & Color Ambiance Spot '
 date: 2020-05-28 15:42:00
-image: 'https://m.media-amazon.com/images/I/41aeTjo3wEL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aeTjo3wEL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '129.99'
 
 Vous avez [Philips Hue White & Color Ambiance Spot Fugato x2 Noir Compatible Bluetooth  Fonctionne avec Alexa](https://www.amazon.fr/dp/B07YVN22NC/?tag=tolees0d-21)  à  23.53 % de réduction, prix final  129.99 EUR (original: 169.99 EUR) ici:
 
-[![Philips Hue White & Color Ambiance Spot ](https://m.media-amazon.com/images/I/41aeTjo3wEL._SL200_.jpg)](https://www.amazon.fr/dp/B07YVN22NC/?tag=tolees0d-21)
+[![Philips Hue White & Color Ambiance Spot ](https://m.media-amazon.com/images/I/41aeTjo3wEL._SL400_.jpg)](https://www.amazon.fr/dp/B07YVN22NC/?tag=tolees0d-21)
 
 ℹ️:
 

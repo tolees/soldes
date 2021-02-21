@@ -2,7 +2,7 @@
 layout: post
 title: 'LIVOO DOC208 Barbecue Gaz Gril et Planch avec 17.09 % rabais '
 date: 2020-05-22 21:00:02
-image: 'https://m.media-amazon.com/images/I/41HzY8s6UTL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HzY8s6UTL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '247.9'
 
 C'est en vente [LIVOO DOC208 Barbecue Gaz Gril et Plancha](https://www.amazon.fr/dp/B07NSN13KC/?tag=tolees0d-21)  à  17.09 % de réduction, prix final  247.9 EUR (original: 299.0 EUR) ici:
 
-[![LIVOO DOC208 Barbecue Gaz Gril et Planch](https://m.media-amazon.com/images/I/41HzY8s6UTL._SL200_.jpg)](https://www.amazon.fr/dp/B07NSN13KC/?tag=tolees0d-21)
+[![LIVOO DOC208 Barbecue Gaz Gril et Planch](https://m.media-amazon.com/images/I/41HzY8s6UTL._SL400_.jpg)](https://www.amazon.fr/dp/B07NSN13KC/?tag=tolees0d-21)
 
 ℹ️:
 

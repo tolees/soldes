@@ -2,7 +2,7 @@
 layout: post
 title: 'Caffè Carracci  100 Capsules Compatibles avec 15.80 % rabais '
 date: 2020-08-28 05:29:55
-image: 'https://m.media-amazon.com/images/I/51ztuHinMLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ztuHinMLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.99'
 
 C'est en vente [Caffè Carracci  100 Capsules Compatibles Lavazza A Modo Mio  Milano 100% Arabica](https://www.amazon.fr/dp/B07BTJQRMC/?tag=tolees0d-21)  à  15.80 % de réduction, prix final  15.99 EUR (original: 18.99 EUR) ici:
 
-[![Caffè Carracci  100 Capsules Compatibles](https://m.media-amazon.com/images/I/51ztuHinMLL._SL200_.jpg)](https://www.amazon.fr/dp/B07BTJQRMC/?tag=tolees0d-21)
+[![Caffè Carracci  100 Capsules Compatibles](https://m.media-amazon.com/images/I/51ztuHinMLL._SL400_.jpg)](https://www.amazon.fr/dp/B07BTJQRMC/?tag=tolees0d-21)
 
 ℹ️:
 

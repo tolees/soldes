@@ -2,7 +2,7 @@
 layout: post
 title: 'Oakwood 60901 - Veste en cuir - Col à bo avec 47.38 % rabais '
 date: 2020-09-19 18:03:45
-image: 'https://m.media-amazon.com/images/I/51mpmOpeYWL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51mpmOpeYWL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '116.275'
 
 C'est en vente [Oakwood 60901 - Veste en cuir - Col à boutons - Manches longues - Homme - Marron  Tabacco   Small  Taille Fabricant: S ](https://www.amazon.fr/dp/B01F64GE1I/?tag=tolees0d-21)  à  47.38 % de réduction, prix final  120.49 EUR (original: 229.0 EUR) ici:
 
-[![Oakwood 60901 - Veste en cuir - Col à bo](https://m.media-amazon.com/images/I/51mpmOpeYWL._SL200_.jpg)](https://www.amazon.fr/dp/B01F64GE1I/?tag=tolees0d-21)
+[![Oakwood 60901 - Veste en cuir - Col à bo](https://m.media-amazon.com/images/I/51mpmOpeYWL._SL400_.jpg)](https://www.amazon.fr/dp/B01F64GE1I/?tag=tolees0d-21)
 
 ℹ️:
 

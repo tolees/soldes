@@ -2,7 +2,7 @@
 layout: post
 title: 'REDSTORM Manette PC/PS3  Manette Switch  avec 50.01 % rabais '
 date: 2020-08-24 11:02:17
-image: 'https://m.media-amazon.com/images/I/41aqxFewIwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aqxFewIwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '22.99'
 
 C'est en vente [REDSTORM Manette PC/PS3  Manette Switch  5 Niveaux de LED Réglables et Double Rétroaction Vibratoire  Rafale Automatique TURBO  Manette pour Téléphone Android/PS3/OTG/PC/Android TV/TV Box](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  22.99 EUR (original: 45.99 EUR) ici:
 
-[![REDSTORM Manette PC/PS3  Manette Switch ](https://m.media-amazon.com/images/I/41aqxFewIwL._SL200_.jpg)](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21)
+[![REDSTORM Manette PC/PS3  Manette Switch ](https://m.media-amazon.com/images/I/41aqxFewIwL._SL400_.jpg)](https://www.amazon.fr/dp/B08F9RSW9D/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '45.48 % rabais sur eXtremeRate Support Vertical Noir pour X'
 date: 2020-09-26 20:09:28
-image: 'https://m.media-amazon.com/images/I/41a6HqxzbrL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41a6HqxzbrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '11.99'
 
 Vous avez [eXtremeRate Support Vertical Noir pour Xbox One X Console](https://www.amazon.fr/dp/B078BG4RJD/?tag=tolees0d-21)  à  45.48 % de réduction, prix final  11.99 EUR (original: 21.99 EUR) ici:
 
-[![eXtremeRate Support Vertical Noir pour X](https://m.media-amazon.com/images/I/41a6HqxzbrL._SL200_.jpg)](https://www.amazon.fr/dp/B078BG4RJD/?tag=tolees0d-21)
+[![eXtremeRate Support Vertical Noir pour X](https://m.media-amazon.com/images/I/41a6HqxzbrL._SL400_.jpg)](https://www.amazon.fr/dp/B078BG4RJD/?tag=tolees0d-21)
 
 ℹ️:
 

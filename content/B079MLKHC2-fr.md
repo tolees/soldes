@@ -2,7 +2,7 @@
 layout: post
 title: '66.53 % rabais sur Cole Haan Zerogrand Wingtip Oxford  Rich'
 date: 2020-08-04 13:04:34
-image: 'https://m.media-amazon.com/images/I/41T56pUYj1L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41T56pUYj1L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '66.95'
 
 Vous avez [Cole Haan Zerogrand Wingtip Oxford  Richelieus homme   British Tan Leather/Java British Tan/Java   42 EU](https://www.amazon.fr/dp/B079MLKHC2/?tag=tolees0d-21)  à  66.53 % de réduction, prix final  66.95 EUR (original: 200.0 EUR) ici:
 
-[![Cole Haan Zerogrand Wingtip Oxford  Rich](https://m.media-amazon.com/images/I/41T56pUYj1L._SL200_.jpg)](https://www.amazon.fr/dp/B079MLKHC2/?tag=tolees0d-21)
+[![Cole Haan Zerogrand Wingtip Oxford  Rich](https://m.media-amazon.com/images/I/41T56pUYj1L._SL400_.jpg)](https://www.amazon.fr/dp/B079MLKHC2/?tag=tolees0d-21)
 
 ℹ️:
 

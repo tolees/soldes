@@ -2,7 +2,7 @@
 layout: post
 title: '40.01 % rabais sur Sac à Main Femme Rétro JOSEKO Sac à Band'
 date: 2020-08-21 05:01:54
-image: 'https://m.media-amazon.com/images/I/51LqGr6JQdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51LqGr6JQdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '29.99'
 
 Vous avez [Sac à Main Femme Rétro JOSEKO Sac à Bandoulière en Similicuir de Cire à l huile Fourre-Tout Sac à Bandoulière pour Dame avec Longue Sangle Sac de Cours Bandoulière Besace Sacoche Mode Chic](https://www.amazon.fr/dp/B07J6B6BCG/?tag=tolees0d-21)  à  40.01 % de réduction, prix final  29.99 EUR (original: 49.99 EUR) ici:
 
-[![Sac à Main Femme Rétro JOSEKO Sac à Band](https://m.media-amazon.com/images/I/51LqGr6JQdL._SL200_.jpg)](https://www.amazon.fr/dp/B07J6B6BCG/?tag=tolees0d-21)
+[![Sac à Main Femme Rétro JOSEKO Sac à Band](https://m.media-amazon.com/images/I/51LqGr6JQdL._SL400_.jpg)](https://www.amazon.fr/dp/B07J6B6BCG/?tag=tolees0d-21)
 
 ℹ️:
 

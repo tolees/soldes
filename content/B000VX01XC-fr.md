@@ -2,7 +2,7 @@
 layout: post
 title: 'Timberland Classic 2 Eye  Chaussures bat avec 31.01 % rabais '
 date: 2020-08-27 18:33:14
-image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '96.58'
 
 C'est en vente [Timberland Classic 2 Eye  Chaussures bateau Homme  Marron Rootbeer Smooth  43.5 EU](https://www.amazon.fr/dp/B000VX01XC/?tag=tolees0d-21)  à  31.01 % de réduction, prix final  96.58 EUR (original: 140.0 EUR) ici:
 
-[![Timberland Classic 2 Eye  Chaussures bat](https://m.media-amazon.com/images/I/41rlmDu11XL._SL200_.jpg)](https://www.amazon.fr/dp/B000VX01XC/?tag=tolees0d-21)
+[![Timberland Classic 2 Eye  Chaussures bat](https://m.media-amazon.com/images/I/41rlmDu11XL._SL400_.jpg)](https://www.amazon.fr/dp/B000VX01XC/?tag=tolees0d-21)
 
 ℹ️:
 

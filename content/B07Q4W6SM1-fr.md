@@ -2,7 +2,7 @@
 layout: post
 title: 'WOTEK Bande Élastique Fitness Élastique  avec 26.93 % rabais '
 date: 2020-05-22 21:36:37
-image: 'https://m.media-amazon.com/images/I/41BN8ySBbzL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41BN8ySBbzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.99'
 
 C'est en vente [WOTEK Bande Élastique Fitness Élastique Musculation Bande de Resistance Élastique Sport Élastique Pilates- 3xRésistance Élastiques pour Rééducation Physique et Motrice Élastique Musculation](https://www.amazon.fr/dp/B07Q4W6SM1/?tag=tolees0d-21)  à  26.93 % de réduction, prix final  18.99 EUR (original: 25.99 EUR) ici:
 
-[![WOTEK Bande Élastique Fitness Élastique ](https://m.media-amazon.com/images/I/41BN8ySBbzL._SL200_.jpg)](https://www.amazon.fr/dp/B07Q4W6SM1/?tag=tolees0d-21)
+[![WOTEK Bande Élastique Fitness Élastique ](https://m.media-amazon.com/images/I/41BN8ySBbzL._SL400_.jpg)](https://www.amazon.fr/dp/B07Q4W6SM1/?tag=tolees0d-21)
 
 ℹ️:
 

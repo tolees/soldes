@@ -2,7 +2,7 @@
 layout: post
 title: 'Only Onlally Boucle Wool Coat CC OTW Man avec 25.52 % rabais '
 date: 2020-05-22 23:31:04
-image: 'https://m.media-amazon.com/images/I/41PYPUPlm+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PYPUPlm+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '59.58'
 
 C'est en vente [Only Onlally Boucle Wool Coat CC OTW Manteau  Rouge  Merlot Detail: Melange   S Femme](https://www.amazon.fr/dp/B07TSJNZLV/?tag=tolees0d-21)  à  25.52 % de réduction, prix final  59.58 EUR (original: 79.99 EUR) ici:
 
-[![Only Onlally Boucle Wool Coat CC OTW Man](https://m.media-amazon.com/images/I/41PYPUPlm+L._SL200_.jpg)](https://www.amazon.fr/dp/B07TSJNZLV/?tag=tolees0d-21)
+[![Only Onlally Boucle Wool Coat CC OTW Man](https://m.media-amazon.com/images/I/41PYPUPlm+L._SL400_.jpg)](https://www.amazon.fr/dp/B07TSJNZLV/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Dix de Chute - Jeu de societe de stratég avec 21.96 % rabais '
 date: 2020-06-11 21:53:53
-image: 'https://m.media-amazon.com/images/I/51lIRp4jowL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51lIRp4jowL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '18.294999999999998'
 
 C'est en vente [Dix de Chute - Jeu de societe de stratégie - Version française](https://www.amazon.fr/dp/B071ZXV99Z/?tag=tolees0d-21)  à  21.96 % de réduction, prix final  15.6 EUR (original: 19.99 EUR) ici:
 
-[![Dix de Chute - Jeu de societe de stratég](https://m.media-amazon.com/images/I/51lIRp4jowL._SL200_.jpg)](https://www.amazon.fr/dp/B071ZXV99Z/?tag=tolees0d-21)
+[![Dix de Chute - Jeu de societe de stratég](https://m.media-amazon.com/images/I/51lIRp4jowL._SL400_.jpg)](https://www.amazon.fr/dp/B071ZXV99Z/?tag=tolees0d-21)
 
 ℹ️:
 

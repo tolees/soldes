@@ -2,7 +2,7 @@
 layout: post
 title: 'Oral-B Genius 10 Midnight Black Brosse À avec 44.66 % rabais '
 date: 2020-05-23 00:00:43
-image: 'https://m.media-amazon.com/images/I/51-Kp95cbfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51-Kp95cbfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '166.03'
 
 C'est en vente [Oral-B Genius 10 Midnight Black Brosse À Dents Électrique Par Braun](https://www.amazon.fr/dp/B07FSHNVDF/?tag=tolees0d-21)  à  44.66 % de réduction, prix final  166.03 EUR (original: 300.0 EUR) ici:
 
-[![Oral-B Genius 10 Midnight Black Brosse À](https://m.media-amazon.com/images/I/51-Kp95cbfL._SL200_.jpg)](https://www.amazon.fr/dp/B07FSHNVDF/?tag=tolees0d-21)
+[![Oral-B Genius 10 Midnight Black Brosse À](https://m.media-amazon.com/images/I/51-Kp95cbfL._SL400_.jpg)](https://www.amazon.fr/dp/B07FSHNVDF/?tag=tolees0d-21)
 
 ℹ️:
 

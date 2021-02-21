@@ -2,7 +2,7 @@
 layout: post
 title: 'VTech RockIt Twist - Console de jeux édu avec 31.70 % rabais '
 date: 2020-08-12 20:03:58
-image: 'https://m.media-amazon.com/images/I/51wjNDU+wuL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51wjNDU+wuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '42.34'
 
 C'est en vente [VTech RockIt Twist - Console de jeux éducative pour enfant  vert translucide](https://www.amazon.fr/dp/B07TQ81XF5/?tag=tolees0d-21)  à  31.70 % de réduction, prix final  42.34 EUR (original: 61.99 EUR) ici:
 
-[![VTech RockIt Twist - Console de jeux édu](https://m.media-amazon.com/images/I/51wjNDU+wuL._SL200_.jpg)](https://www.amazon.fr/dp/B07TQ81XF5/?tag=tolees0d-21)
+[![VTech RockIt Twist - Console de jeux édu](https://m.media-amazon.com/images/I/51wjNDU+wuL._SL400_.jpg)](https://www.amazon.fr/dp/B07TQ81XF5/?tag=tolees0d-21)
 
 ℹ️:
 

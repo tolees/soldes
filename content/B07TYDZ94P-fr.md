@@ -2,7 +2,7 @@
 layout: post
 title: '65.45 % rabais sur Vera Mont VM 8028/4000 Robe de soirée  B'
 date: 2020-08-12 13:10:31
-image: 'https://m.media-amazon.com/images/I/310E-EvvKpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/310E-EvvKpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '71.875'
 
 Vous avez [Vera Mont VM 8028/4000 Robe de soirée  Bleu  Night Sky 8541   42  Taille Fabricant: 40  Femme](https://www.amazon.fr/dp/B07TYDZ94P/?tag=tolees0d-21)  à  65.45 % de réduction, prix final  75.66 EUR (original: 219.0 EUR) ici:
 
-[![Vera Mont VM 8028/4000 Robe de soirée  B](https://m.media-amazon.com/images/I/310E-EvvKpL._SL200_.jpg)](https://www.amazon.fr/dp/B07TYDZ94P/?tag=tolees0d-21)
+[![Vera Mont VM 8028/4000 Robe de soirée  B](https://m.media-amazon.com/images/I/310E-EvvKpL._SL400_.jpg)](https://www.amazon.fr/dp/B07TYDZ94P/?tag=tolees0d-21)
 
 ℹ️:
 

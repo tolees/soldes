@@ -2,7 +2,7 @@
 layout: post
 title: '52.77 % rabais sur little tikes  Tricycle 5-in-1 Deluxe Rid'
 date: 2020-08-12 12:58:51
-image: 'https://m.media-amazon.com/images/I/419GbKhJGYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/419GbKhJGYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '61.4'
 
 Vous avez [little tikes  Tricycle 5-in-1 Deluxe Ride & Relax  Rouge](https://www.amazon.fr/dp/B00UMTAJVE/?tag=tolees0d-21)  à  52.77 % de réduction, prix final  61.4 EUR (original: 129.99 EUR) ici:
 
-[![little tikes  Tricycle 5-in-1 Deluxe Rid](https://m.media-amazon.com/images/I/419GbKhJGYL._SL200_.jpg)](https://www.amazon.fr/dp/B00UMTAJVE/?tag=tolees0d-21)
+[![little tikes  Tricycle 5-in-1 Deluxe Rid](https://m.media-amazon.com/images/I/419GbKhJGYL._SL400_.jpg)](https://www.amazon.fr/dp/B00UMTAJVE/?tag=tolees0d-21)
 
 ℹ️:
 

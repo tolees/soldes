@@ -2,7 +2,7 @@
 layout: post
 title: '23.01 % rabais sur Beurer Me 90 Electrocardiographe Connect'
 date: 2020-05-22 22:15:48
-image: 'https://m.media-amazon.com/images/I/41f+XVSR5DL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41f+XVSR5DL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '92.38'
 
 Vous avez [Beurer Me 90 Electrocardiographe Connecté avec USB/Bluetooth](https://www.amazon.fr/dp/B015YP76SY/?tag=tolees0d-21)  à  23.01 % de réduction, prix final  92.38 EUR (original: 119.99 EUR) ici:
 
-[![Beurer Me 90 Electrocardiographe Connect](https://m.media-amazon.com/images/I/41f+XVSR5DL._SL200_.jpg)](https://www.amazon.fr/dp/B015YP76SY/?tag=tolees0d-21)
+[![Beurer Me 90 Electrocardiographe Connect](https://m.media-amazon.com/images/I/41f+XVSR5DL._SL400_.jpg)](https://www.amazon.fr/dp/B015YP76SY/?tag=tolees0d-21)
 
 ℹ️:
 

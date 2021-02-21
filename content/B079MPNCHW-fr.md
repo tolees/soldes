@@ -2,7 +2,7 @@
 layout: post
 title: 'Playmobil - Véhicule de Reconnaissance S avec 24.88 % rabais '
 date: 2020-09-26 14:36:58
-image: 'https://m.media-amazon.com/images/I/51cBWT0b8FL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51cBWT0b8FL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '27.325555555555553'
 
 C'est en vente [Playmobil - Véhicule de Reconnaissance Spatiale - 9489](https://www.amazon.fr/dp/B079MPNCHW/?tag=tolees0d-21)  à  24.88 % de réduction, prix final  28.99 EUR (original: 38.59 EUR) ici:
 
-[![Playmobil - Véhicule de Reconnaissance S](https://m.media-amazon.com/images/I/51cBWT0b8FL._SL200_.jpg)](https://www.amazon.fr/dp/B079MPNCHW/?tag=tolees0d-21)
+[![Playmobil - Véhicule de Reconnaissance S](https://m.media-amazon.com/images/I/51cBWT0b8FL._SL400_.jpg)](https://www.amazon.fr/dp/B079MPNCHW/?tag=tolees0d-21)
 
 ℹ️:
 

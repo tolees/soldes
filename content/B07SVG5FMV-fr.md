@@ -2,7 +2,7 @@
 layout: post
 title: 'Pinko Rubino 3  Baskets Enfiler Femme  M avec 60.02 % rabais '
 date: 2020-08-11 09:43:31
-image: 'https://m.media-amazon.com/images/I/41NH9XGPNdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41NH9XGPNdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '93.96'
 
 C'est en vente [Pinko Rubino 3  Baskets Enfiler Femme  Multicolore  Rosa/Grigio Ni1   35 EU](https://www.amazon.fr/dp/B07SVG5FMV/?tag=tolees0d-21)  à  60.02 % de réduction, prix final  93.96 EUR (original: 235.0 EUR) ici:
 
-[![Pinko Rubino 3  Baskets Enfiler Femme  M](https://m.media-amazon.com/images/I/41NH9XGPNdL._SL200_.jpg)](https://www.amazon.fr/dp/B07SVG5FMV/?tag=tolees0d-21)
+[![Pinko Rubino 3  Baskets Enfiler Femme  M](https://m.media-amazon.com/images/I/41NH9XGPNdL._SL400_.jpg)](https://www.amazon.fr/dp/B07SVG5FMV/?tag=tolees0d-21)
 
 ℹ️:
 

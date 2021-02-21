@@ -2,7 +2,7 @@
 layout: post
 title: '40.02 % rabais sur eXtremeRate Coque Avant Housse Boîtier K'
 date: 2020-10-07 05:49:06
-image: 'https://m.media-amazon.com/images/I/31p129kASvL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31p129kASvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.99'
 
 Vous avez [eXtremeRate Coque Avant Housse Boîtier Kit de Remplacement avec Anneaux de Joystick pour Xbox One Elite Série 2 Manette Contrôleur Modèle 1797-Blanc](https://www.amazon.fr/dp/B08K8FZVCV/?tag=tolees0d-21)  à  40.02 % de réduction, prix final  14.99 EUR (original: 24.99 EUR) ici:
 
-[![eXtremeRate Coque Avant Housse Boîtier K](https://m.media-amazon.com/images/I/31p129kASvL._SL200_.jpg)](https://www.amazon.fr/dp/B08K8FZVCV/?tag=tolees0d-21)
+[![eXtremeRate Coque Avant Housse Boîtier K](https://m.media-amazon.com/images/I/31p129kASvL._SL400_.jpg)](https://www.amazon.fr/dp/B08K8FZVCV/?tag=tolees0d-21)
 
 ℹ️:
 

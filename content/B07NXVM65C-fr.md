@@ -2,7 +2,7 @@
 layout: post
 title: 'Hairdorables  Poupée  Serie 2  avec 11 A avec 35.00 % rabais '
 date: 2020-10-12 16:25:18
-image: 'https://m.media-amazon.com/images/I/51MJx82g+PL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51MJx82g+PL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.0'
 
 C'est en vente [Hairdorables  Poupée  Serie 2  avec 11 Accessoires Surprises  Cheveux à Coiffer  Modèles Aléatoires  26 poupées à Collectionner  Jouet pour Enfants dès 3 Ans  HAA03](https://www.amazon.fr/dp/B07NXVM65C/?tag=tolees0d-21)  à  35.00 % de réduction, prix final  13.0 EUR (original: 20.0 EUR) ici:
 
-[![Hairdorables  Poupée  Serie 2  avec 11 A](https://m.media-amazon.com/images/I/51MJx82g+PL._SL200_.jpg)](https://www.amazon.fr/dp/B07NXVM65C/?tag=tolees0d-21)
+[![Hairdorables  Poupée  Serie 2  avec 11 A](https://m.media-amazon.com/images/I/51MJx82g+PL._SL400_.jpg)](https://www.amazon.fr/dp/B07NXVM65C/?tag=tolees0d-21)
 
 ℹ️:
 

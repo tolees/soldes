@@ -2,7 +2,7 @@
 layout: post
 title: '33.49 % rabais sur Logitech G Driving Force Levier de Vites'
 date: 2020-08-07 12:14:36
-image: 'https://m.media-amazon.com/images/I/41xwa5tyvHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41xwa5tyvHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.9'
 
 Vous avez [Logitech G Driving Force Levier de Vitesse pour Volant de Course G29 et G920  6 Vitesses  Enclenchement de la Marche Arrière par Pression  Conception Acier et Cuir  PS4/Xbox One/PC/Mac - Noir](https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21)  à  33.49 % de réduction, prix final  39.9 EUR (original: 59.99 EUR) ici:
 
-[![Logitech G Driving Force Levier de Vites](https://m.media-amazon.com/images/I/41xwa5tyvHL._SL200_.jpg)](https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21)
+[![Logitech G Driving Force Levier de Vites](https://m.media-amazon.com/images/I/41xwa5tyvHL._SL400_.jpg)](https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21)
 
 ℹ️:
 

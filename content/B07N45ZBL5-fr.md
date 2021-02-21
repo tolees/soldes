@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Cotton Silk Buttoned Zip  avec 20.90 % rabais '
 date: 2020-05-23 00:21:09
-image: 'https://m.media-amazon.com/images/I/41hVE+2dK-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41hVE+2dK-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '109.95'
 
 C'est en vente [Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sweat-Shirt   Charcoal Heather P9x   Large Homme](https://www.amazon.fr/dp/B07N45ZBL5/?tag=tolees0d-21)  à  20.90 % de réduction, prix final  109.95 EUR (original: 139.0 EUR) ici:
 
-[![Tommy Hilfiger Cotton Silk Buttoned Zip ](https://m.media-amazon.com/images/I/41hVE+2dK-L._SL200_.jpg)](https://www.amazon.fr/dp/B07N45ZBL5/?tag=tolees0d-21)
+[![Tommy Hilfiger Cotton Silk Buttoned Zip ](https://m.media-amazon.com/images/I/41hVE+2dK-L._SL400_.jpg)](https://www.amazon.fr/dp/B07N45ZBL5/?tag=tolees0d-21)
 
 ℹ️:
 

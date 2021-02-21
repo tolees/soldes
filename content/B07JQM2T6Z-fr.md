@@ -2,7 +2,7 @@
 layout: post
 title: '58.27 % rabais sur Under Armour Men s Official Tour Cap 3.0'
 date: 2020-09-23 17:44:25
-image: 'https://m.media-amazon.com/images/I/41rqVV7+jpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41rqVV7+jpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.52'
 
 Vous avez [Under Armour Men s Official Tour Cap 3.0 Casquette Homme  Blanc  S/M](https://www.amazon.fr/dp/B07JQM2T6Z/?tag=tolees0d-21)  à  58.27 % de réduction, prix final  12.52 EUR (original: 30.0 EUR) ici:
 
-[![Under Armour Men s Official Tour Cap 3.0](https://m.media-amazon.com/images/I/41rqVV7+jpL._SL200_.jpg)](https://www.amazon.fr/dp/B07JQM2T6Z/?tag=tolees0d-21)
+[![Under Armour Men s Official Tour Cap 3.0](https://m.media-amazon.com/images/I/41rqVV7+jpL._SL400_.jpg)](https://www.amazon.fr/dp/B07JQM2T6Z/?tag=tolees0d-21)
 
 ℹ️:
 

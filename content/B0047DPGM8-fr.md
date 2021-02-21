@@ -2,7 +2,7 @@
 layout: post
 title: '44.23 % rabais sur Tiger LEC7-BK Support pour PC et Project'
 date: 2020-09-13 05:52:23
-image: 'https://m.media-amazon.com/images/I/31-+dhLB3qL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31-+dhLB3qL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.34'
 
 Vous avez [Tiger LEC7-BK Support pour PC et Projecteur - Noir](https://www.amazon.fr/dp/B0047DPGM8/?tag=tolees0d-21)  à  44.23 % de réduction, prix final  19.34 EUR (original: 34.68 EUR) ici:
 
-[![Tiger LEC7-BK Support pour PC et Project](https://m.media-amazon.com/images/I/31-+dhLB3qL._SL200_.jpg)](https://www.amazon.fr/dp/B0047DPGM8/?tag=tolees0d-21)
+[![Tiger LEC7-BK Support pour PC et Project](https://m.media-amazon.com/images/I/31-+dhLB3qL._SL400_.jpg)](https://www.amazon.fr/dp/B0047DPGM8/?tag=tolees0d-21)
 
 ℹ️:
 

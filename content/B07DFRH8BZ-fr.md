@@ -2,7 +2,7 @@
 layout: post
 title: '49.96 % rabais sur Puma Active Leggings Pantalon de Sport F'
 date: 2020-09-04 07:49:28
-image: 'https://m.media-amazon.com/images/I/31d0odH21EL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31d0odH21EL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.99'
 
 Vous avez [Puma Active Leggings Pantalon de Sport Femme  Black  S](https://www.amazon.fr/dp/B07DFRH8BZ/?tag=tolees0d-21)  à  49.96 % de réduction, prix final  19.99 EUR (original: 39.95 EUR) ici:
 
-[![Puma Active Leggings Pantalon de Sport F](https://m.media-amazon.com/images/I/31d0odH21EL._SL200_.jpg)](https://www.amazon.fr/dp/B07DFRH8BZ/?tag=tolees0d-21)
+[![Puma Active Leggings Pantalon de Sport F](https://m.media-amazon.com/images/I/31d0odH21EL._SL400_.jpg)](https://www.amazon.fr/dp/B07DFRH8BZ/?tag=tolees0d-21)
 
 ℹ️:
 

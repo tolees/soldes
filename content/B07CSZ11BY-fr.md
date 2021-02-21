@@ -2,7 +2,7 @@
 layout: post
 title: 'Lenovo ThinkPad Helix Gen 2 11.6 pouces  avec 33.03 % rabais '
 date: 2020-06-05 01:33:04
-image: 'https://m.media-amazon.com/images/I/41ComlYxLeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41ComlYxLeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '461.48'
 
 C'est en vente [Lenovo ThinkPad Helix Gen 2 11.6 pouces Full HD Touchscreen  5th Gen M5 M-5Y71 4GB 128GB SSD Windows 10 Pro 2-in-1 PC Tablet Laptop  Reconditionné ](https://www.amazon.fr/dp/B07CSZ11BY/?tag=tolees0d-21)  à  33.03 % de réduction, prix final  461.48 EUR (original: 689.08 EUR) ici:
 
-[![Lenovo ThinkPad Helix Gen 2 11.6 pouces ](https://m.media-amazon.com/images/I/41ComlYxLeL._SL200_.jpg)](https://www.amazon.fr/dp/B07CSZ11BY/?tag=tolees0d-21)
+[![Lenovo ThinkPad Helix Gen 2 11.6 pouces ](https://m.media-amazon.com/images/I/41ComlYxLeL._SL400_.jpg)](https://www.amazon.fr/dp/B07CSZ11BY/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '37.50 % rabais sur Maybelline New-York - Fond de teint Flui'
 date: 2020-10-09 07:55:05
-image: 'https://m.media-amazon.com/images/I/31uqVScXUfL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31uqVScXUfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '6.0'
 
 Vous avez [Maybelline New-York - Fond de teint Fluide Fit Me Matte & Poreless - Peaux normales à grasses - Teinte : 118 Nude - 30 ml](https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21)  à  37.50 % de réduction, prix final  6.0 EUR (original: 9.6 EUR) ici:
 
-[![Maybelline New-York - Fond de teint Flui](https://m.media-amazon.com/images/I/31uqVScXUfL._SL200_.jpg)](https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21)
+[![Maybelline New-York - Fond de teint Flui](https://m.media-amazon.com/images/I/31uqVScXUfL._SL400_.jpg)](https://www.amazon.fr/dp/B077PXNL4N/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '29.29 % rabais sur Sigma Objectif 35 mm F1 4 DG HSM ART - M'
 date: 2020-05-22 22:06:42
-image: 'https://m.media-amazon.com/images/I/51FDyBrykSL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51FDyBrykSL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '600.37'
 
 Vous avez [Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma](https://www.amazon.fr/dp/B00A35X6PI/?tag=tolees0d-21)  à  29.29 % de réduction, prix final  600.37 EUR (original: 849.0 EUR) ici:
 
-[![Sigma Objectif 35 mm F1 4 DG HSM ART - M](https://m.media-amazon.com/images/I/51FDyBrykSL._SL200_.jpg)](https://www.amazon.fr/dp/B00A35X6PI/?tag=tolees0d-21)
+[![Sigma Objectif 35 mm F1 4 DG HSM ART - M](https://m.media-amazon.com/images/I/51FDyBrykSL._SL400_.jpg)](https://www.amazon.fr/dp/B00A35X6PI/?tag=tolees0d-21)
 
 ℹ️:
 

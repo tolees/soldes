@@ -2,7 +2,7 @@
 layout: post
 title: 'OMRON M6 Comfort Tensiomètre Bras Électr avec 18.87 % rabais '
 date: 2020-05-22 21:26:20
-image: 'https://m.media-amazon.com/images/I/414lgnWKjLL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/414lgnWKjLL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '76.99'
 
 C'est en vente [OMRON M6 Comfort Tensiomètre Bras Électronique  Technologie Brassard Intelli Wrap  Mesure fiable dans toutes les positions  Mémoire jusqu à 200 mesures](https://www.amazon.fr/dp/B00IIOI9QC/?tag=tolees0d-21)  à  18.87 % de réduction, prix final  76.99 EUR (original: 94.9 EUR) ici:
 
-[![OMRON M6 Comfort Tensiomètre Bras Électr](https://m.media-amazon.com/images/I/414lgnWKjLL._SL200_.jpg)](https://www.amazon.fr/dp/B00IIOI9QC/?tag=tolees0d-21)
+[![OMRON M6 Comfort Tensiomètre Bras Électr](https://m.media-amazon.com/images/I/414lgnWKjLL._SL400_.jpg)](https://www.amazon.fr/dp/B00IIOI9QC/?tag=tolees0d-21)
 
 ℹ️:
 

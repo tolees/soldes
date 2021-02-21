@@ -2,7 +2,7 @@
 layout: post
 title: '15.00 % rabais sur COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB '
 date: 2020-08-27 04:07:06
-image: 'https://m.media-amazon.com/images/I/41DEmt-5i+L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41DEmt-5i+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '118.99'
 
 Vous avez [COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB eMMC Windows 10 Quad Core Intel Celeron N3450 Processor Desktop Computer HDMI/VGA Port Support 2242 SSD BT 4.2 3X USB 3.0 Auto Power on Linux](https://www.amazon.fr/dp/B07VSP4NTW/?tag=tolees0d-21)  à  15.00 % de réduction, prix final  118.99 EUR (original: 139.99 EUR) ici:
 
-[![COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB ](https://m.media-amazon.com/images/I/41DEmt-5i+L._SL200_.jpg)](https://www.amazon.fr/dp/B07VSP4NTW/?tag=tolees0d-21)
+[![COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB ](https://m.media-amazon.com/images/I/41DEmt-5i+L._SL400_.jpg)](https://www.amazon.fr/dp/B07VSP4NTW/?tag=tolees0d-21)
 
 ℹ️:
 

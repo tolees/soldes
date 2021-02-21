@@ -2,7 +2,7 @@
 layout: post
 title: '33.34 % rabais sur Echo Plus  2ème génération   Tissu anthr'
 date: 2020-05-27 06:55:54
-image: 'https://m.media-amazon.com/images/I/41OAohc78IL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41OAohc78IL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.99'
 
 Vous avez [Echo Plus  2ème génération   Tissu anthracite + Ampoule connectée Philips Hue](https://www.amazon.fr/dp/B07H2WSKVK/?tag=tolees0d-21)  à  33.34 % de réduction, prix final  99.99 EUR (original: 149.99 EUR) ici:
 
-[![Echo Plus  2ème génération   Tissu anthr](https://m.media-amazon.com/images/I/41OAohc78IL._SL200_.jpg)](https://www.amazon.fr/dp/B07H2WSKVK/?tag=tolees0d-21)
+[![Echo Plus  2ème génération   Tissu anthr](https://m.media-amazon.com/images/I/41OAohc78IL._SL400_.jpg)](https://www.amazon.fr/dp/B07H2WSKVK/?tag=tolees0d-21)
 
 ℹ️:
 

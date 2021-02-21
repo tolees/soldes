@@ -2,7 +2,7 @@
 layout: post
 title: 'Sylvanian Families - 2745 - Maison aux 3 avec 18.34 % rabais '
 date: 2020-08-04 06:31:44
-image: 'https://m.media-amazon.com/images/I/51DgDX0JV4L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51DgDX0JV4L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '48.99'
 
 C'est en vente [Sylvanian Families - 2745 - Maison aux 3 Histoires](https://www.amazon.fr/dp/B006ZVD3IY/?tag=tolees0d-21)  à  18.34 % de réduction, prix final  48.99 EUR (original: 59.99 EUR) ici:
 
-[![Sylvanian Families - 2745 - Maison aux 3](https://m.media-amazon.com/images/I/51DgDX0JV4L._SL200_.jpg)](https://www.amazon.fr/dp/B006ZVD3IY/?tag=tolees0d-21)
+[![Sylvanian Families - 2745 - Maison aux 3](https://m.media-amazon.com/images/I/51DgDX0JV4L._SL400_.jpg)](https://www.amazon.fr/dp/B006ZVD3IY/?tag=tolees0d-21)
 
 ℹ️:
 

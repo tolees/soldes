@@ -2,7 +2,7 @@
 layout: post
 title: '58.58 % rabais sur Manette Switch sans Fil  Manette Bluetoo'
 date: 2020-09-18 15:23:47
-image: 'https://m.media-amazon.com/images/I/41mwmmjYTeL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41mwmmjYTeL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.59'
 
 Vous avez [Manette Switch sans Fil  Manette Bluetooth pour Nintendo Switch Pro/Switch Lite  Manette Filaire pour PC Windows XP/10/7/8/8.1 avec Fonction Double Vibration et Turbo  Roue Dentée](https://www.amazon.fr/dp/B088NSZC4F/?tag=tolees0d-21)  à  58.58 % de réduction, prix final  28.99 EUR (original: 69.99 EUR) ici:
 
-[![Manette Switch sans Fil  Manette Bluetoo](https://m.media-amazon.com/images/I/41mwmmjYTeL._SL200_.jpg)](https://www.amazon.fr/dp/B088NSZC4F/?tag=tolees0d-21)
+[![Manette Switch sans Fil  Manette Bluetoo](https://m.media-amazon.com/images/I/41mwmmjYTeL._SL400_.jpg)](https://www.amazon.fr/dp/B088NSZC4F/?tag=tolees0d-21)
 
 ℹ️:
 

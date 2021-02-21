@@ -2,7 +2,7 @@
 layout: post
 title: 'Philips BT5205/85  Tondeuse barbe Series avec 20.03 % rabais '
 date: 2020-05-22 21:11:03
-image: 'https://m.media-amazon.com/images/I/41Vtqe7Yf2L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Vtqe7Yf2L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '63.97'
 
 C'est en vente [Philips BT5205/85  Tondeuse barbe Series 5000 avec guide de coupe dynamique et tondeuse de précision supplémentaire](https://www.amazon.fr/dp/B07FTWZ531/?tag=tolees0d-21)  à  20.03 % de réduction, prix final  63.97 EUR (original: 79.99 EUR) ici:
 
-[![Philips BT5205/85  Tondeuse barbe Series](https://m.media-amazon.com/images/I/41Vtqe7Yf2L._SL200_.jpg)](https://www.amazon.fr/dp/B07FTWZ531/?tag=tolees0d-21)
+[![Philips BT5205/85  Tondeuse barbe Series](https://m.media-amazon.com/images/I/41Vtqe7Yf2L._SL400_.jpg)](https://www.amazon.fr/dp/B07FTWZ531/?tag=tolees0d-21)
 
 ℹ️:
 

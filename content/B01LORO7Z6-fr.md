@@ -2,7 +2,7 @@
 layout: post
 title: '37.52 % rabais sur Carte Mémoire SDHC Sandisk Extreme 32 Go'
 date: 2020-09-28 22:05:15
-image: 'https://m.media-amazon.com/images/I/512Bzx8YRDL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/512Bzx8YRDL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Vous avez [Carte Mémoire SDHC Sandisk Extreme 32 Go jusqu à 90 Mo/s  Classe 10  U3  V30](https://www.amazon.fr/dp/B01LORO7Z6/?tag=tolees0d-21)  à  37.52 % de réduction, prix final  9.99 EUR (original: 15.99 EUR) ici:
 
-[![Carte Mémoire SDHC Sandisk Extreme 32 Go](https://m.media-amazon.com/images/I/512Bzx8YRDL._SL200_.jpg)](https://www.amazon.fr/dp/B01LORO7Z6/?tag=tolees0d-21)
+[![Carte Mémoire SDHC Sandisk Extreme 32 Go](https://m.media-amazon.com/images/I/512Bzx8YRDL._SL400_.jpg)](https://www.amazon.fr/dp/B01LORO7Z6/?tag=tolees0d-21)
 
 ℹ️:
 

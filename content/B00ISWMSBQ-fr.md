@@ -2,7 +2,7 @@
 layout: post
 title: '35.59 % rabais sur Fossil Femme Collier JF01146040'
 date: 2020-09-14 22:52:34
-image: 'https://m.media-amazon.com/images/I/31e8B4jjQwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31e8B4jjQwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '38.0'
 
 Vous avez [Fossil Femme Collier JF01146040](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21)  à  35.59 % de réduction, prix final  38.0 EUR (original: 59.0 EUR) ici:
 
-[![Fossil Femme Collier JF01146040](https://m.media-amazon.com/images/I/31e8B4jjQwL._SL200_.jpg)](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21)
+[![Fossil Femme Collier JF01146040](https://m.media-amazon.com/images/I/31e8B4jjQwL._SL400_.jpg)](https://www.amazon.fr/dp/B00ISWMSBQ/?tag=tolees0d-21)
 
 ℹ️:
 

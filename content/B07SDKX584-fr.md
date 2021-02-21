@@ -2,7 +2,7 @@
 layout: post
 title: '39.09 % rabais sur Pokémon-Détective Pikachu [4K Ultra HD +'
 date: 2020-10-09 07:58:40
-image: 'https://m.media-amazon.com/images/I/51I096Z0tHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51I096Z0tHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '15.27'
 
 Vous avez [Pokémon-Détective Pikachu [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B07SDKX584/?tag=tolees0d-21)  à  39.09 % de réduction, prix final  15.27 EUR (original: 25.07 EUR) ici:
 
-[![Pokémon-Détective Pikachu [4K Ultra HD +](https://m.media-amazon.com/images/I/51I096Z0tHL._SL200_.jpg)](https://www.amazon.fr/dp/B07SDKX584/?tag=tolees0d-21)
+[![Pokémon-Détective Pikachu [4K Ultra HD +](https://m.media-amazon.com/images/I/51I096Z0tHL._SL400_.jpg)](https://www.amazon.fr/dp/B07SDKX584/?tag=tolees0d-21)
 
 ℹ️:
 

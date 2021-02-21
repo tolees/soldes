@@ -2,7 +2,7 @@
 layout: post
 title: '43.05 % rabais sur GPR Italie Jo.56.Vic Paire terminaux hom'
 date: 2020-08-06 13:27:42
-image: 'https://m.media-amazon.com/images/I/518HFIxev9L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518HFIxev9L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '485.69'
 
 Vous avez [GPR Italie Jo.56.Vic Paire terminaux homologués avec raccord moto guzzi v7 racer 2010/16 vintacone](https://www.amazon.fr/dp/B07G5XDVP6/?tag=tolees0d-21)  à  43.05 % de réduction, prix final  485.69 EUR (original: 852.78 EUR) ici:
 
-[![GPR Italie Jo.56.Vic Paire terminaux hom](https://m.media-amazon.com/images/I/518HFIxev9L._SL200_.jpg)](https://www.amazon.fr/dp/B07G5XDVP6/?tag=tolees0d-21)
+[![GPR Italie Jo.56.Vic Paire terminaux hom](https://m.media-amazon.com/images/I/518HFIxev9L._SL400_.jpg)](https://www.amazon.fr/dp/B07G5XDVP6/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '63.76 % rabais sur Manette PC PS3 Filaire  Manette PC  Mane'
 date: 2020-08-18 05:25:10
-image: 'https://m.media-amazon.com/images/I/41aqxFewIwL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41aqxFewIwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '28.99'
 
 Vous avez [Manette PC PS3 Filaire  Manette PC  Manette PS3 avec Double Vibration et Turbo  Gamepad Connecté par Fil pour PC  PS3  Android TV Box et Nitendo Switch  Noir ](https://www.amazon.fr/dp/B0875TTF6H/?tag=tolees0d-21)  à  63.76 % de réduction, prix final  28.99 EUR (original: 79.99 EUR) ici:
 
-[![Manette PC PS3 Filaire  Manette PC  Mane](https://m.media-amazon.com/images/I/41aqxFewIwL._SL200_.jpg)](https://www.amazon.fr/dp/B0875TTF6H/?tag=tolees0d-21)
+[![Manette PC PS3 Filaire  Manette PC  Mane](https://m.media-amazon.com/images/I/41aqxFewIwL._SL400_.jpg)](https://www.amazon.fr/dp/B0875TTF6H/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: 'St Marc Lingettes Nettoyantes Désinfecta avec 21.35 % rabais '
 date: 2020-08-14 12:44:35
-image: 'https://m.media-amazon.com/images/I/51nQcJlTRCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51nQcJlTRCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '19.06875'
 
 C'est en vente [St Marc Lingettes Nettoyantes Désinfectantes et Antibactériennes - 40 Lingettes Extra-Larges - Lot de 3](https://www.amazon.fr/dp/B01K1P3JBK/?tag=tolees0d-21)  à  21.35 % de réduction, prix final  18.05 EUR (original: 22.95 EUR) ici:
 
-[![St Marc Lingettes Nettoyantes Désinfecta](https://m.media-amazon.com/images/I/51nQcJlTRCL._SL200_.jpg)](https://www.amazon.fr/dp/B01K1P3JBK/?tag=tolees0d-21)
+[![St Marc Lingettes Nettoyantes Désinfecta](https://m.media-amazon.com/images/I/51nQcJlTRCL._SL400_.jpg)](https://www.amazon.fr/dp/B01K1P3JBK/?tag=tolees0d-21)
 
 ℹ️:
 

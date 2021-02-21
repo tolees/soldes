@@ -2,7 +2,7 @@
 layout: post
 title: '51.19 % rabais sur Tommy Jeans TJM Tommy Classics Sweatpant'
 date: 2020-05-23 00:07:34
-image: 'https://m.media-amazon.com/images/I/31koGUO8cOL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31koGUO8cOL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '39.0'
 
 Vous avez [Tommy Jeans TJM Tommy Classics Sweatpant Pantalon  Bleu  Black Iris Cbk   W32  Taille Fabricant: Large  Homme](https://www.amazon.fr/dp/B07N2X6ZRC/?tag=tolees0d-21)  à  51.19 % de réduction, prix final  39.0 EUR (original: 79.9 EUR) ici:
 
-[![Tommy Jeans TJM Tommy Classics Sweatpant](https://m.media-amazon.com/images/I/31koGUO8cOL._SL200_.jpg)](https://www.amazon.fr/dp/B07N2X6ZRC/?tag=tolees0d-21)
+[![Tommy Jeans TJM Tommy Classics Sweatpant](https://m.media-amazon.com/images/I/31koGUO8cOL._SL400_.jpg)](https://www.amazon.fr/dp/B07N2X6ZRC/?tag=tolees0d-21)
 
 ℹ️:
 

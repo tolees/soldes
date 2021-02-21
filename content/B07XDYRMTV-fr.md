@@ -2,7 +2,7 @@
 layout: post
 title: 'Microsoft Surface Laptop 3 – PC Ultra-Po avec 15.16 % rabais '
 date: 2020-06-11 13:38:20
-image: 'https://m.media-amazon.com/images/I/31iJ+f-TqhL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31iJ+f-TqhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1349.0'
 
 C'est en vente [Microsoft Surface Laptop 3 – PC Ultra-Portable  écran 15 pouces  processeur AMD Ryzen 5  8Go de RAM  256Go de stockage SSD  – Platine  métal ](https://www.amazon.fr/dp/B07XDYRMTV/?tag=tolees0d-21)  à  15.16 % de réduction, prix final  1399.0 EUR (original: 1649.0 EUR) ici:
 
-[![Microsoft Surface Laptop 3 – PC Ultra-Po](https://m.media-amazon.com/images/I/31iJ+f-TqhL._SL200_.jpg)](https://www.amazon.fr/dp/B07XDYRMTV/?tag=tolees0d-21)
+[![Microsoft Surface Laptop 3 – PC Ultra-Po](https://m.media-amazon.com/images/I/31iJ+f-TqhL._SL400_.jpg)](https://www.amazon.fr/dp/B07XDYRMTV/?tag=tolees0d-21)
 
 ℹ️:
 

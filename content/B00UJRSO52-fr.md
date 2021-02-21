@@ -2,7 +2,7 @@
 layout: post
 title: '17.73 % rabais sur Sony Objectif SEL-28F20 28mm Ouverture F'
 date: 2020-05-22 22:38:06
-image: 'https://m.media-amazon.com/images/I/31kWRWCI2RL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31kWRWCI2RL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '394.9'
 
 Vous avez [Sony Objectif SEL-28F20 28mm Ouverture F2.0 pour Monture E](https://www.amazon.fr/dp/B00UJRSO52/?tag=tolees0d-21)  à  17.73 % de réduction, prix final  394.9 EUR (original: 480.0 EUR) ici:
 
-[![Sony Objectif SEL-28F20 28mm Ouverture F](https://m.media-amazon.com/images/I/31kWRWCI2RL._SL200_.jpg)](https://www.amazon.fr/dp/B00UJRSO52/?tag=tolees0d-21)
+[![Sony Objectif SEL-28F20 28mm Ouverture F](https://m.media-amazon.com/images/I/31kWRWCI2RL._SL400_.jpg)](https://www.amazon.fr/dp/B00UJRSO52/?tag=tolees0d-21)
 
 ℹ️:
 

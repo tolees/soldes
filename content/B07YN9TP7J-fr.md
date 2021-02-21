@@ -2,7 +2,7 @@
 layout: post
 title: 'Tommy Hilfiger Watch 1782143 avec 50.25 % rabais '
 date: 2020-08-22 19:40:35
-image: 'https://m.media-amazon.com/images/I/41s8gObS1yL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41s8gObS1yL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.0'
 
 C'est en vente [Tommy Hilfiger Watch 1782143](https://www.amazon.fr/dp/B07YN9TP7J/?tag=tolees0d-21)  à  50.25 % de réduction, prix final  99.0 EUR (original: 199.0 EUR) ici:
 
-[![Tommy Hilfiger Watch 1782143](https://m.media-amazon.com/images/I/41s8gObS1yL._SL200_.jpg)](https://www.amazon.fr/dp/B07YN9TP7J/?tag=tolees0d-21)
+[![Tommy Hilfiger Watch 1782143](https://m.media-amazon.com/images/I/41s8gObS1yL._SL400_.jpg)](https://www.amazon.fr/dp/B07YN9TP7J/?tag=tolees0d-21)
 
 ℹ️:
 

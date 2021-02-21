@@ -2,7 +2,7 @@
 layout: post
 title: '58.46 % rabais sur BIC Kids Kid Couleur Feutres de Coloriag'
 date: 2020-08-26 11:46:01
-image: 'https://m.media-amazon.com/images/I/51AovIdRW0L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51AovIdRW0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '5.4'
 
 Vous avez [BIC Kids Kid Couleur Feutres de Coloriage à Pointe Moyenne - Couleurs Assorties  Etui Carton de 36](https://www.amazon.fr/dp/B06XDC48CM/?tag=tolees0d-21)  à  58.46 % de réduction, prix final  5.4 EUR (original: 13.0 EUR) ici:
 
-[![BIC Kids Kid Couleur Feutres de Coloriag](https://m.media-amazon.com/images/I/51AovIdRW0L._SL200_.jpg)](https://www.amazon.fr/dp/B06XDC48CM/?tag=tolees0d-21)
+[![BIC Kids Kid Couleur Feutres de Coloriag](https://m.media-amazon.com/images/I/51AovIdRW0L._SL400_.jpg)](https://www.amazon.fr/dp/B06XDC48CM/?tag=tolees0d-21)
 
 ℹ️:
 

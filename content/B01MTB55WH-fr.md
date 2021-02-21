@@ -2,7 +2,7 @@
 layout: post
 title: 'Anker Enceinte Bluetooth  SoundCore 2 Ha avec 20.01 % rabais '
 date: 2020-09-11 08:02:47
-image: 'https://m.media-amazon.com/images/I/4156XclY4QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4156XclY4QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '31.19'
 
 C'est en vente [Anker Enceinte Bluetooth  SoundCore 2 Haut Parleur Portable sans fil avec basses puissantes  autonomie de 24 heures  porté Bluetooth de 20 m  étanche waterproof IPX7 et microphone intégré - Noir](https://www.amazon.fr/dp/B01MTB55WH/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  31.19 EUR (original: 38.99 EUR) ici:
 
-[![Anker Enceinte Bluetooth  SoundCore 2 Ha](https://m.media-amazon.com/images/I/4156XclY4QL._SL200_.jpg)](https://www.amazon.fr/dp/B01MTB55WH/?tag=tolees0d-21)
+[![Anker Enceinte Bluetooth  SoundCore 2 Ha](https://m.media-amazon.com/images/I/4156XclY4QL._SL400_.jpg)](https://www.amazon.fr/dp/B01MTB55WH/?tag=tolees0d-21)
 
 ℹ️:
 

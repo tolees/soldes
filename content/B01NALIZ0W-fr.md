@@ -2,7 +2,7 @@
 layout: post
 title: '47.44 % rabais sur Bébé Confort Sac à Langer Black Raven'
 date: 2020-05-24 21:46:25
-image: 'https://m.media-amazon.com/images/I/31NWf3Z87fL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31NWf3Z87fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '65.04'
 
 Vous avez [Bébé Confort Sac à Langer Black Raven](https://www.amazon.fr/dp/B01NALIZ0W/?tag=tolees0d-21)  à  47.44 % de réduction, prix final  65.04 EUR (original: 123.75 EUR) ici:
 
-[![Bébé Confort Sac à Langer Black Raven](https://m.media-amazon.com/images/I/31NWf3Z87fL._SL200_.jpg)](https://www.amazon.fr/dp/B01NALIZ0W/?tag=tolees0d-21)
+[![Bébé Confort Sac à Langer Black Raven](https://m.media-amazon.com/images/I/31NWf3Z87fL._SL400_.jpg)](https://www.amazon.fr/dp/B01NALIZ0W/?tag=tolees0d-21)
 
 ℹ️:
 

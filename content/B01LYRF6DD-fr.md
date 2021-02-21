@@ -2,7 +2,7 @@
 layout: post
 title: '57.53 % rabais sur Diesel Boxers UMBX-KORYTHREEPACK Homme  '
 date: 2020-09-30 14:58:19
-image: 'https://m.media-amazon.com/images/I/31aW+-fpDCL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31aW+-fpDCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '16.99'
 
 Vous avez [Diesel Boxers UMBX-KORYTHREEPACK Homme  NOIR  BLACK/BLACK/BLACK 01-0BAOF   M  Lot de 3 ](https://www.amazon.fr/dp/B01LYRF6DD/?tag=tolees0d-21)  à  57.53 % de réduction, prix final  16.99 EUR (original: 40.0 EUR) ici:
 
-[![Diesel Boxers UMBX-KORYTHREEPACK Homme  ](https://m.media-amazon.com/images/I/31aW+-fpDCL._SL200_.jpg)](https://www.amazon.fr/dp/B01LYRF6DD/?tag=tolees0d-21)
+[![Diesel Boxers UMBX-KORYTHREEPACK Homme  ](https://m.media-amazon.com/images/I/31aW+-fpDCL._SL400_.jpg)](https://www.amazon.fr/dp/B01LYRF6DD/?tag=tolees0d-21)
 
 ℹ️:
 

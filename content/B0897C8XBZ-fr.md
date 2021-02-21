@@ -2,7 +2,7 @@
 layout: post
 title: '37.50 % rabais sur BOSCH - TAS6503 Tassimo My Way 2 - Cafet'
 date: 2020-09-29 16:43:21
-image: 'https://m.media-amazon.com/images/I/41PEW63px-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41PEW63px-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '74.99'
 
 Vous avez [BOSCH - TAS6503 Tassimo My Way 2 - Cafetière à capsule - Avec système de filtration BRITA et interface tactile - Personnalisation de boissons - 1500 W - 1 3 litre -  Rouge](https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21)  à  37.50 % de réduction, prix final  74.99 EUR (original: 119.99 EUR) ici:
 
-[![BOSCH - TAS6503 Tassimo My Way 2 - Cafet](https://m.media-amazon.com/images/I/41PEW63px-L._SL200_.jpg)](https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21)
+[![BOSCH - TAS6503 Tassimo My Way 2 - Cafet](https://m.media-amazon.com/images/I/41PEW63px-L._SL400_.jpg)](https://www.amazon.fr/dp/B0897C8XBZ/?tag=tolees0d-21)
 
 ℹ️:
 

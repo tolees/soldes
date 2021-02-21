@@ -2,7 +2,7 @@
 layout: post
 title: '44.47 % rabais sur The Rolling Stones-Bridges to Buenos Air'
 date: 2020-10-12 07:37:18
-image: 'https://m.media-amazon.com/images/I/51We5nhq-QL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51We5nhq-QL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 Vous avez [The Rolling Stones-Bridges to Buenos Aires Blu-Ray  SD upscalée ](https://www.amazon.fr/dp/B07XYDB4VK/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  9.99 EUR (original: 17.99 EUR) ici:
 
-[![The Rolling Stones-Bridges to Buenos Air](https://m.media-amazon.com/images/I/51We5nhq-QL._SL200_.jpg)](https://www.amazon.fr/dp/B07XYDB4VK/?tag=tolees0d-21)
+[![The Rolling Stones-Bridges to Buenos Air](https://m.media-amazon.com/images/I/51We5nhq-QL._SL400_.jpg)](https://www.amazon.fr/dp/B07XYDB4VK/?tag=tolees0d-21)
 
 ℹ️:
 

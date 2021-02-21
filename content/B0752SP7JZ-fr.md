@@ -2,7 +2,7 @@
 layout: post
 title: 'Ridgebake Hauptkollektion Sac à Dos Lois avec 16.80 % rabais '
 date: 2020-05-22 22:26:07
-image: 'https://m.media-amazon.com/images/I/31S0SWi+SdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31S0SWi+SdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '58.23'
 
 C'est en vente [Ridgebake Hauptkollektion Sac à Dos Loisir 51 Centimeters 29 Noir  Cavier ](https://www.amazon.fr/dp/B0752SP7JZ/?tag=tolees0d-21)  à  16.80 % de réduction, prix final  58.23 EUR (original: 69.99 EUR) ici:
 
-[![Ridgebake Hauptkollektion Sac à Dos Lois](https://m.media-amazon.com/images/I/31S0SWi+SdL._SL200_.jpg)](https://www.amazon.fr/dp/B0752SP7JZ/?tag=tolees0d-21)
+[![Ridgebake Hauptkollektion Sac à Dos Lois](https://m.media-amazon.com/images/I/31S0SWi+SdL._SL400_.jpg)](https://www.amazon.fr/dp/B0752SP7JZ/?tag=tolees0d-21)
 
 ℹ️:
 

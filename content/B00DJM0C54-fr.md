@@ -2,7 +2,7 @@
 layout: post
 title: '41.27 % rabais sur Dragonball GT - Box 3 [Import allemand]'
 date: 2020-05-22 21:45:00
-image: 'https://m.media-amazon.com/images/I/51ywlOoBlQL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51ywlOoBlQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '36.22'
 
 Vous avez [Dragonball GT - Box 3 [Import allemand]](https://www.amazon.fr/dp/B00DJM0C54/?tag=tolees0d-21)  à  41.27 % de réduction, prix final  36.22 EUR (original: 61.67 EUR) ici:
 
-[![Dragonball GT - Box 3 [Import allemand]](https://m.media-amazon.com/images/I/51ywlOoBlQL._SL200_.jpg)](https://www.amazon.fr/dp/B00DJM0C54/?tag=tolees0d-21)
+[![Dragonball GT - Box 3 [Import allemand]](https://m.media-amazon.com/images/I/51ywlOoBlQL._SL400_.jpg)](https://www.amazon.fr/dp/B00DJM0C54/?tag=tolees0d-21)
 
 ℹ️:
 

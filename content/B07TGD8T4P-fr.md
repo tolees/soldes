@@ -2,7 +2,7 @@
 layout: post
 title: '66.83 % rabais sur Brooks Brothers 100134408 Chemise Casual'
 date: 2020-08-11 21:03:31
-image: 'https://m.media-amazon.com/images/I/4199EVfBJ5L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/4199EVfBJ5L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '46.44'
 
 Vous avez [Brooks Brothers 100134408 Chemise Casual  Blanc  White 115   Large  Taille Fabricant: L-  Homme](https://www.amazon.fr/dp/B07TGD8T4P/?tag=tolees0d-21)  à  66.83 % de réduction, prix final  46.44 EUR (original: 140.0 EUR) ici:
 
-[![Brooks Brothers 100134408 Chemise Casual](https://m.media-amazon.com/images/I/4199EVfBJ5L._SL200_.jpg)](https://www.amazon.fr/dp/B07TGD8T4P/?tag=tolees0d-21)
+[![Brooks Brothers 100134408 Chemise Casual](https://m.media-amazon.com/images/I/4199EVfBJ5L._SL400_.jpg)](https://www.amazon.fr/dp/B07TGD8T4P/?tag=tolees0d-21)
 
 ℹ️:
 

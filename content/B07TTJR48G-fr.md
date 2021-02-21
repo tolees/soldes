@@ -2,7 +2,7 @@
 layout: post
 title: '21.61 % rabais sur ASUS TUF Gaming VG32VQ - Ecran PC Gamer '
 date: 2020-05-22 23:36:23
-image: 'https://m.media-amazon.com/images/I/511EzYvAUdL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/511EzYvAUdL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '391.95'
 
 Vous avez [ASUS TUF Gaming VG32VQ - Ecran PC Gamer eSport 31 5" WQHD - Dalle VA incurvée 1800R - 16:9 - 144Hz - 1ms - 2560x1440 - 400cd/m² - Display Port & HDMI - Haut-parleurs - AMD FreeSync - ELMB - HDR 10](https://www.amazon.fr/dp/B07TTJR48G/?tag=tolees0d-21)  à  21.61 % de réduction, prix final  391.95 EUR (original: 499.99 EUR) ici:
 
-[![ASUS TUF Gaming VG32VQ - Ecran PC Gamer ](https://m.media-amazon.com/images/I/511EzYvAUdL._SL200_.jpg)](https://www.amazon.fr/dp/B07TTJR48G/?tag=tolees0d-21)
+[![ASUS TUF Gaming VG32VQ - Ecran PC Gamer ](https://m.media-amazon.com/images/I/511EzYvAUdL._SL400_.jpg)](https://www.amazon.fr/dp/B07TTJR48G/?tag=tolees0d-21)
 
 ℹ️:
 

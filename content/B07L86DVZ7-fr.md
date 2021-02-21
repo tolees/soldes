@@ -2,7 +2,7 @@
 layout: post
 title: 'Senbos Portefeuille Homme en Cuir Vérita avec 49.35 % rabais '
 date: 2020-10-07 05:46:15
-image: 'https://m.media-amazon.com/images/I/51jqqMDPN-L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51jqqMDPN-L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.49'
 
 C'est en vente [Senbos Portefeuille Homme en Cuir Véritable 18 Emplacements pour Cartes de Crédit Blocage RFID Portefeuille pour Homme Grande Poche à Monnaie avec Support de Carte d identité Extra Amovible](https://www.amazon.fr/dp/B07L86DVZ7/?tag=tolees0d-21)  à  49.35 % de réduction, prix final  25.49 EUR (original: 50.33 EUR) ici:
 
-[![Senbos Portefeuille Homme en Cuir Vérita](https://m.media-amazon.com/images/I/51jqqMDPN-L._SL200_.jpg)](https://www.amazon.fr/dp/B07L86DVZ7/?tag=tolees0d-21)
+[![Senbos Portefeuille Homme en Cuir Vérita](https://m.media-amazon.com/images/I/51jqqMDPN-L._SL400_.jpg)](https://www.amazon.fr/dp/B07L86DVZ7/?tag=tolees0d-21)
 
 ℹ️:
 

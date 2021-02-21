@@ -2,7 +2,7 @@
 layout: post
 title: '42.56 % rabais sur Schott NYC LC300 Blouson  Marron  Rust R'
 date: 2020-08-09 12:38:12
-image: 'https://m.media-amazon.com/images/I/41XP33yC1XL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41XP33yC1XL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '201.04'
 
 Vous avez [Schott NYC LC300 Blouson  Marron  Rust Rust   Large  Taille Fabricant:L  Homme](https://www.amazon.fr/dp/B06XFNHPS4/?tag=tolees0d-21)  à  42.56 % de réduction, prix final  201.04 EUR (original: 350.0 EUR) ici:
 
-[![Schott NYC LC300 Blouson  Marron  Rust R](https://m.media-amazon.com/images/I/41XP33yC1XL._SL200_.jpg)](https://www.amazon.fr/dp/B06XFNHPS4/?tag=tolees0d-21)
+[![Schott NYC LC300 Blouson  Marron  Rust R](https://m.media-amazon.com/images/I/41XP33yC1XL._SL400_.jpg)](https://www.amazon.fr/dp/B06XFNHPS4/?tag=tolees0d-21)
 
 ℹ️:
 

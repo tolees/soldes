@@ -2,7 +2,7 @@
 layout: post
 title: 'Echo Dot  3ème génération  Reconditionné avec 50.80 % rabais '
 date: 2020-05-26 07:41:16
-image: 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '30.99'
 
 C'est en vente [Echo Dot  3ème génération  Reconditionné Certifié  Enceinte connectée avec horloge et Alexa  Tissu sable](https://www.amazon.fr/dp/B07NQCXH19/?tag=tolees0d-21)  à  50.80 % de réduction, prix final  30.99 EUR (original: 62.99 EUR) ici:
 
-[![Echo Dot  3ème génération  Reconditionné](https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL200_.jpg)](https://www.amazon.fr/dp/B07NQCXH19/?tag=tolees0d-21)
+[![Echo Dot  3ème génération  Reconditionné](https://m.media-amazon.com/images/I/31Eq8z0N7bL._SL400_.jpg)](https://www.amazon.fr/dp/B07NQCXH19/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '59.90 % rabais sur Lame de scie circulaire HW/CT 254 x 30 x'
 date: 2020-10-04 09:00:29
-image: 'https://m.media-amazon.com/images/I/41HT3UN3wAL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41HT3UN3wAL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '14.1'
 
 Vous avez [Lame de scie circulaire HW/CT 254 x 30 x 2 4/1 8 Gris](https://www.amazon.fr/dp/B00FKK72OC/?tag=tolees0d-21)  à  59.90 % de réduction, prix final  14.1 EUR (original: 35.16 EUR) ici:
 
-[![Lame de scie circulaire HW/CT 254 x 30 x](https://m.media-amazon.com/images/I/41HT3UN3wAL._SL200_.jpg)](https://www.amazon.fr/dp/B00FKK72OC/?tag=tolees0d-21)
+[![Lame de scie circulaire HW/CT 254 x 30 x](https://m.media-amazon.com/images/I/41HT3UN3wAL._SL400_.jpg)](https://www.amazon.fr/dp/B00FKK72OC/?tag=tolees0d-21)
 
 ℹ️:
 

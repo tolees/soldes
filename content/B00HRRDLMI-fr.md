@@ -2,7 +2,7 @@
 layout: post
 title: '18.80 % rabais sur Sylvanian Families - 4370 - Le chalet'
 date: 2020-08-11 18:13:40
-image: 'https://m.media-amazon.com/images/I/51vqlV8G8sL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vqlV8G8sL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '40.59'
 
 Vous avez [Sylvanian Families - 4370 - Le chalet](https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21)  à  18.80 % de réduction, prix final  40.59 EUR (original: 49.99 EUR) ici:
 
-[![Sylvanian Families - 4370 - Le chalet](https://m.media-amazon.com/images/I/51vqlV8G8sL._SL200_.jpg)](https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21)
+[![Sylvanian Families - 4370 - Le chalet](https://m.media-amazon.com/images/I/51vqlV8G8sL._SL400_.jpg)](https://www.amazon.fr/dp/B00HRRDLMI/?tag=tolees0d-21)
 
 ℹ️:
 

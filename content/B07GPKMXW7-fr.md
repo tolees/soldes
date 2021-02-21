@@ -2,7 +2,7 @@
 layout: post
 title: 'Pierre Cardin Fieldjacket Airtouch Mit U avec 62.31 % rabais '
 date: 2020-08-10 13:07:22
-image: 'https://m.media-amazon.com/images/I/41Diyto8yXL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41Diyto8yXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '75.37'
 
 C'est en vente [Pierre Cardin Fieldjacket Airtouch Mit UV-Protect Blouson  Beige  Zinc 2605   Large  Taille Fabricant: 52  Homme](https://www.amazon.fr/dp/B07GPKMXW7/?tag=tolees0d-21)  à  62.31 % de réduction, prix final  75.37 EUR (original: 199.99 EUR) ici:
 
-[![Pierre Cardin Fieldjacket Airtouch Mit U](https://m.media-amazon.com/images/I/41Diyto8yXL._SL200_.jpg)](https://www.amazon.fr/dp/B07GPKMXW7/?tag=tolees0d-21)
+[![Pierre Cardin Fieldjacket Airtouch Mit U](https://m.media-amazon.com/images/I/41Diyto8yXL._SL400_.jpg)](https://www.amazon.fr/dp/B07GPKMXW7/?tag=tolees0d-21)
 
 ℹ️:
 

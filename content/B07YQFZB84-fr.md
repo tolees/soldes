@@ -2,7 +2,7 @@
 layout: post
 title: '46.38 % rabais sur Hansaplast Antiseptiques Alcool 70% Volu'
 date: 2020-10-04 03:25:02
-image: 'https://m.media-amazon.com/images/I/31ArDuwcNBL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31ArDuwcNBL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '1.85'
 
 Vous avez [Hansaplast Antiseptiques Alcool 70% Volume](https://www.amazon.fr/dp/B07YQFZB84/?tag=tolees0d-21)  à  46.38 % de réduction, prix final  1.85 EUR (original: 3.45 EUR) ici:
 
-[![Hansaplast Antiseptiques Alcool 70% Volu](https://m.media-amazon.com/images/I/31ArDuwcNBL._SL200_.jpg)](https://www.amazon.fr/dp/B07YQFZB84/?tag=tolees0d-21)
+[![Hansaplast Antiseptiques Alcool 70% Volu](https://m.media-amazon.com/images/I/31ArDuwcNBL._SL400_.jpg)](https://www.amazon.fr/dp/B07YQFZB84/?tag=tolees0d-21)
 
 ℹ️:
 

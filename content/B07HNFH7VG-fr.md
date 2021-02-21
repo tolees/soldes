@@ -2,7 +2,7 @@
 layout: post
 title: 'Borsalino [Édition Prestige-Version Rest avec 33.62 % rabais '
 date: 2020-10-02 13:07:04
-image: 'https://m.media-amazon.com/images/I/41nPKJanWZL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nPKJanWZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.99'
 
 C'est en vente [Borsalino [Édition Prestige-Version Restaurée]](https://www.amazon.fr/dp/B07HNFH7VG/?tag=tolees0d-21)  à  33.62 % de réduction, prix final  9.99 EUR (original: 15.05 EUR) ici:
 
-[![Borsalino [Édition Prestige-Version Rest](https://m.media-amazon.com/images/I/41nPKJanWZL._SL200_.jpg)](https://www.amazon.fr/dp/B07HNFH7VG/?tag=tolees0d-21)
+[![Borsalino [Édition Prestige-Version Rest](https://m.media-amazon.com/images/I/41nPKJanWZL._SL400_.jpg)](https://www.amazon.fr/dp/B07HNFH7VG/?tag=tolees0d-21)
 
 ℹ️:
 

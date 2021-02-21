@@ -2,7 +2,7 @@
 layout: post
 title: 'Fort Boyard Nouvelle Edition avec 32.73 % rabais '
 date: 2020-07-24 20:46:09
-image: 'https://m.media-amazon.com/images/I/51bYts5NSGL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51bYts5NSGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '26.9'
 
 C'est en vente [Fort Boyard Nouvelle Edition](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21)  à  32.73 % de réduction, prix final  26.9 EUR (original: 39.99 EUR) ici:
 
-[![Fort Boyard Nouvelle Edition](https://m.media-amazon.com/images/I/51bYts5NSGL._SL200_.jpg)](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21)
+[![Fort Boyard Nouvelle Edition](https://m.media-amazon.com/images/I/51bYts5NSGL._SL400_.jpg)](https://www.amazon.fr/dp/B086X2WJG1/?tag=tolees0d-21)
 
 ℹ️:
 

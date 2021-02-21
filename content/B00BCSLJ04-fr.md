@@ -2,7 +2,7 @@
 layout: post
 title: '66.71 % rabais sur PHILIPS - SC5992/10 - Brosse de rechange'
 date: 2020-09-16 07:00:06
-image: 'https://m.media-amazon.com/images/I/31SnIkCRHaL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31SnIkCRHaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '4.99'
 
 Vous avez [PHILIPS - SC5992/10 - Brosse de rechange VisaPure spéciale exfoliation](https://www.amazon.fr/dp/B00BCSLJ04/?tag=tolees0d-21)  à  66.71 % de réduction, prix final  4.99 EUR (original: 14.99 EUR) ici:
 
-[![PHILIPS - SC5992/10 - Brosse de rechange](https://m.media-amazon.com/images/I/31SnIkCRHaL._SL200_.jpg)](https://www.amazon.fr/dp/B00BCSLJ04/?tag=tolees0d-21)
+[![PHILIPS - SC5992/10 - Brosse de rechange](https://m.media-amazon.com/images/I/31SnIkCRHaL._SL400_.jpg)](https://www.amazon.fr/dp/B00BCSLJ04/?tag=tolees0d-21)
 
 ℹ️:
 

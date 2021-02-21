@@ -2,7 +2,7 @@
 layout: post
 title: 'Synology DS718+ 2 Bay Bureau Boîtier NAS avec 21.05 % rabais '
 date: 2020-07-27 07:00:38
-image: 'https://m.media-amazon.com/images/I/41QcUU3UqpL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41QcUU3UqpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '359.99'
 
 C'est en vente [Synology DS718+ 2 Bay Bureau Boîtier NAS](https://www.amazon.fr/dp/B075DB49FN/?tag=tolees0d-21)  à  21.05 % de réduction, prix final  359.99 EUR (original: 456.0 EUR) ici:
 
-[![Synology DS718+ 2 Bay Bureau Boîtier NAS](https://m.media-amazon.com/images/I/41QcUU3UqpL._SL200_.jpg)](https://www.amazon.fr/dp/B075DB49FN/?tag=tolees0d-21)
+[![Synology DS718+ 2 Bay Bureau Boîtier NAS](https://m.media-amazon.com/images/I/41QcUU3UqpL._SL400_.jpg)](https://www.amazon.fr/dp/B075DB49FN/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -2,7 +2,7 @@
 layout: post
 title: '45.43 % rabais sur Brothers in Bamako [Import Allemand]'
 date: 2020-10-05 19:20:05
-image: 'https://m.media-amazon.com/images/I/51TGnZnHaHL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51TGnZnHaHL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '9.25'
 
 Vous avez [Brothers in Bamako [Import Allemand]](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21)  à  45.43 % de réduction, prix final  9.25 EUR (original: 16.95 EUR) ici:
 
-[![Brothers in Bamako [Import Allemand]](https://m.media-amazon.com/images/I/51TGnZnHaHL._SL200_.jpg)](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21)
+[![Brothers in Bamako [Import Allemand]](https://m.media-amazon.com/images/I/51TGnZnHaHL._SL400_.jpg)](https://www.amazon.fr/dp/B009A9ENT6/?tag=tolees0d-21)
 
 ℹ️:
 

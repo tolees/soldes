@@ -2,7 +2,7 @@
 layout: post
 title: 'Yamaha CD-S300 Lecteur CD mp3 wma USB No avec 28.37 % rabais '
 date: 2020-05-23 00:07:34
-image: 'https://m.media-amazon.com/images/I/31LPybL6eML._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/31LPybL6eML._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '249.99'
 
 C'est en vente [Yamaha CD-S300 Lecteur CD mp3 wma USB Noir](https://www.amazon.fr/dp/B0043DUGHM/?tag=tolees0d-21)  à  28.37 % de réduction, prix final  249.99 EUR (original: 349.0 EUR) ici:
 
-[![Yamaha CD-S300 Lecteur CD mp3 wma USB No](https://m.media-amazon.com/images/I/31LPybL6eML._SL200_.jpg)](https://www.amazon.fr/dp/B0043DUGHM/?tag=tolees0d-21)
+[![Yamaha CD-S300 Lecteur CD mp3 wma USB No](https://m.media-amazon.com/images/I/31LPybL6eML._SL400_.jpg)](https://www.amazon.fr/dp/B0043DUGHM/?tag=tolees0d-21)
 
 ℹ️:
 

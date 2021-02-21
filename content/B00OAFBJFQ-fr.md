@@ -2,7 +2,7 @@
 layout: post
 title: '15.43 % rabais sur Stanley Xtht0-33501 Mesure Auto lock 8Mx'
 date: 2020-09-15 18:17:55
-image: 'https://m.media-amazon.com/images/I/51vLZvOGcPL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/51vLZvOGcPL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.37'
 
 Vous avez [Stanley Xtht0-33501 Mesure Auto lock 8Mx32 - Ruban Large - Traitement Mylar Et Blade Armor - Crochet Avec Position Du zéro Réel - Boitier Ergonomique Bi matière - Trou D Accroche Pour Dragonne](https://www.amazon.fr/dp/B00OAFBJFQ/?tag=tolees0d-21)  à  15.43 % de réduction, prix final  25.37 EUR (original: 30.0 EUR) ici:
 
-[![Stanley Xtht0-33501 Mesure Auto lock 8Mx](https://m.media-amazon.com/images/I/51vLZvOGcPL._SL200_.jpg)](https://www.amazon.fr/dp/B00OAFBJFQ/?tag=tolees0d-21)
+[![Stanley Xtht0-33501 Mesure Auto lock 8Mx](https://m.media-amazon.com/images/I/51vLZvOGcPL._SL400_.jpg)](https://www.amazon.fr/dp/B00OAFBJFQ/?tag=tolees0d-21)
 
 ℹ️:
 

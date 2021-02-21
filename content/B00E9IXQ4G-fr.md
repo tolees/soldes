@@ -2,7 +2,7 @@
 layout: post
 title: '30.00 % rabais sur Crane Stand CUHS-LG-2L Mallette universe'
 date: 2020-08-09 14:03:15
-image: 'https://m.media-amazon.com/images/I/41l7SqW4tcL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41l7SqW4tcL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '73.62'
 
 Vous avez [Crane Stand CUHS-LG-2L Mallette universelle rigide pour DJ](https://www.amazon.fr/dp/B00E9IXQ4G/?tag=tolees0d-21)  à  30.00 % de réduction, prix final  73.62 EUR (original: 105.17 EUR) ici:
 
-[![Crane Stand CUHS-LG-2L Mallette universe](https://m.media-amazon.com/images/I/41l7SqW4tcL._SL200_.jpg)](https://www.amazon.fr/dp/B00E9IXQ4G/?tag=tolees0d-21)
+[![Crane Stand CUHS-LG-2L Mallette universe](https://m.media-amazon.com/images/I/41l7SqW4tcL._SL400_.jpg)](https://www.amazon.fr/dp/B00E9IXQ4G/?tag=tolees0d-21)
 
 ℹ️:
 

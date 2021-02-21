@@ -2,7 +2,7 @@
 layout: post
 title: 'INPHIC Souris Bluetooth  Trois Modes Sou avec 30.02 % rabais '
 date: 2020-10-01 09:28:21
-image: 'https://m.media-amazon.com/images/I/41nIqFuRx8L._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41nIqFuRx8L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '13.99'
 
 C'est en vente [INPHIC Souris Bluetooth  Trois Modes Souris sans Fil Bluetooth silencieuse Rechargeable  BT 5.0/3.0 + 2.4G sans Fil   Souris Portable 1600DPI pour Mac  Ordinateur  PC  iPadOS  Windows](https://www.amazon.fr/dp/B07PCQF1QH/?tag=tolees0d-21)  à  30.02 % de réduction, prix final  13.99 EUR (original: 19.99 EUR) ici:
 
-[![INPHIC Souris Bluetooth  Trois Modes Sou](https://m.media-amazon.com/images/I/41nIqFuRx8L._SL200_.jpg)](https://www.amazon.fr/dp/B07PCQF1QH/?tag=tolees0d-21)
+[![INPHIC Souris Bluetooth  Trois Modes Sou](https://m.media-amazon.com/images/I/41nIqFuRx8L._SL400_.jpg)](https://www.amazon.fr/dp/B07PCQF1QH/?tag=tolees0d-21)
 
 ℹ️:
 

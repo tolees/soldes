@@ -2,7 +2,7 @@
 layout: post
 title: '32.81 % rabais sur Huawei Watch GT 2 Montre Connectée  GPS '
 date: 2020-10-09 07:56:27
-image: 'https://m.media-amazon.com/images/I/41wUtK7kVbL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41wUtK7kVbL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '167.98'
 
 Vous avez [Huawei Watch GT 2 Montre Connectée  GPS  Boîtier 46 mm   Écran AMOLED 1 39 pouces avec Écran en Verre 3D  Autonomie de 2 Semaines  GPS  15 Modes Sportifs  Smartwatch de Bluetooth  Marron Pebble](https://www.amazon.fr/dp/B07XFDH6MD/?tag=tolees0d-21)  à  32.81 % de réduction, prix final  167.98 EUR (original: 249.99 EUR) ici:
 
-[![Huawei Watch GT 2 Montre Connectée  GPS ](https://m.media-amazon.com/images/I/41wUtK7kVbL._SL200_.jpg)](https://www.amazon.fr/dp/B07XFDH6MD/?tag=tolees0d-21)
+[![Huawei Watch GT 2 Montre Connectée  GPS ](https://m.media-amazon.com/images/I/41wUtK7kVbL._SL400_.jpg)](https://www.amazon.fr/dp/B07XFDH6MD/?tag=tolees0d-21)
 
 ℹ️:
 

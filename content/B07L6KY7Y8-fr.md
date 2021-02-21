@@ -2,7 +2,7 @@
 layout: post
 title: '45.52 % rabais sur Under Armour Armour Insulated Hooded Ves'
 date: 2020-09-18 15:09:23
-image: 'https://m.media-amazon.com/images/I/41+9xJ3OxYL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/41+9xJ3OxYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '70.82'
 
 Vous avez [Under Armour Armour Insulated Hooded Veste Femme Noir FR : XS  Taille Fabricant : Taille XS ](https://www.amazon.fr/dp/B07L6KY7Y8/?tag=tolees0d-21)  à  45.52 % de réduction, prix final  70.82 EUR (original: 130.0 EUR) ici:
 
-[![Under Armour Armour Insulated Hooded Ves](https://m.media-amazon.com/images/I/41+9xJ3OxYL._SL200_.jpg)](https://www.amazon.fr/dp/B07L6KY7Y8/?tag=tolees0d-21)
+[![Under Armour Armour Insulated Hooded Ves](https://m.media-amazon.com/images/I/41+9xJ3OxYL._SL400_.jpg)](https://www.amazon.fr/dp/B07L6KY7Y8/?tag=tolees0d-21)
 
 ℹ️:
 

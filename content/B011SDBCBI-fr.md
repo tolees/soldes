@@ -2,7 +2,7 @@
 layout: post
 title: 'Schott NYC Tornado Blouson  Noir  Black  avec 59.20 % rabais '
 date: 2020-09-26 11:03:45
-image: 'https://m.media-amazon.com/images/I/518Pcg3-TJL._SL200_.jpg'
+image: 'https://m.media-amazon.com/images/I/518Pcg3-TJL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '81.6'
 
 C'est en vente [Schott NYC Tornado Blouson  Noir  Black   S Homme](https://www.amazon.fr/dp/B011SDBCBI/?tag=tolees0d-21)  à  59.20 % de réduction, prix final  81.6 EUR (original: 200.0 EUR) ici:
 
-[![Schott NYC Tornado Blouson  Noir  Black ](https://m.media-amazon.com/images/I/518Pcg3-TJL._SL200_.jpg)](https://www.amazon.fr/dp/B011SDBCBI/?tag=tolees0d-21)
+[![Schott NYC Tornado Blouson  Noir  Black ](https://m.media-amazon.com/images/I/518Pcg3-TJL._SL400_.jpg)](https://www.amazon.fr/dp/B011SDBCBI/?tag=tolees0d-21)
 
 ℹ️:
 
