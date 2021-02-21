@@ -28,10 +28,10 @@ C'est en vente [Lacoste Hommes Analogique Quartz Montre avec Bracelet en Silicon
 
 ℹ️:
 
-- Épaisseur du boîtier 11,1mm
-- Cadran noir
-- Bracelet noir en silicone avec motif petit piqué
 - Mouvement à 3 yeux
 - Résistance à leau 5 ATM
+- Cadran noir
+- Bracelet noir en silicone avec motif petit piqué
+- Épaisseur du boîtier 11,1mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G4FSNN3/?tag=tolees0d-21)
