@@ -30,10 +30,10 @@ C'est en vente [Bose Home Speaker 500 Enceintes avec Alexa d’Amazon intégrée
 
 - Alexa intégré : Amazon Alexa et l’Assistant Google sont intégrés à l’enceinte intelligente pour un contrôle vocal en mode mains libres. Et un système de microphones à réduction de bruit capte votre voix dans toutes les directions
 - Performances sonores : diffusez un son stéréo intégral impressionnant dans n’importe quelle pièce à partir d’une seule enceinte
+- Application Bose Music : utilisez l’application Bose Music pour une installation simple avec des instructions détaillées
+- Produits compatibles : cette enceinte domestique fait partie de la gamme de produits intelligents Bose ; par ailleurs, elle est compatible avec d’autres enceintes et barres de son intelligentes Bose pour une expérience d’écoute multiroom. Bose SimpleSync : utilisez la technologie SimpleSync de Bose pour appairer un produit de la gamme de produits intelligents Bose avec une enceinte Bose SoundTouch et ainsi écouter la même musique en même temps
 - Contrôle : contrôlez facilement ce que vous écoutez sur votre enceinte domestique grâce à trois possibilités : votre voix, l’application Bose Music ou six touches de préréglage situées sur la partie supérieure de l’enceinte
 - Connectivité : associez votre appareil à cette enceinte domestique pour diffuser votre musique préférée et bien plus encore via une connexion Bluetooth, votre réseau Wi-Fi domestique, Apple AirPlay 2 ou Spotify Connect
-- Produits compatibles : cette enceinte domestique fait partie de la gamme de produits intelligents Bose ; par ailleurs, elle est compatible avec d’autres enceintes et barres de son intelligentes Bose pour une expérience d’écoute multiroom. Bose SimpleSync : utilisez la technologie SimpleSync de Bose pour appairer un produit de la gamme de produits intelligents Bose avec une enceinte Bose SoundTouch et ainsi écouter la même musique en même temps
-- Application Bose Music : utilisez l’application Bose Music pour une installation simple avec des instructions détaillées
 - Passer ou recevoir des appels : passez ou recevez des appels depuis cette enceinte intelligente vers des produits intelligents Bose, des produits Amazon Echo et toute personne figurant dans votre liste de contacts, via Alexa uniquement. Sans fil, sans téléphone et sans frais
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G8H8K9J/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Xiaomi Redmi 9C - Smartphone Débloqué 4G  6.53 Pouces - 2Go RAM - 3
 
 ℹ️:
 
-- Processeur MediaTek Helio G35
-- Batterie 5000mAh
-- Triple caméras 13 MP
 - Écran HD Drop Dot de 6,53 pouces
+- Processeur MediaTek Helio G35
+- Triple caméras 13 MP
+- Batterie 5000mAh
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F7ZBB6G/?tag=tolees0d-21)
