@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars  Coffret de bataille Mand avec 20.01 % rabais '
-date: 2021-02-20 02:58:29
+date: 2021-02-21 18:23:18
 image: 'https://m.media-amazon.com/images/I/51-DXaK6fCL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21'
 descuento: '20.01'
-average: '15.01362962963'
+average: '14.9913970588239'
 ---
 
 C'est en vente [LEGO Star Wars  Coffret de bataille Mandalorien 4 avec 4 figurines  un speeder bike et un fort miniature  120 pièces  75267](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  11.99 EUR (original: 14.99 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [LEGO Star Wars  Coffret de bataille Mandalorien 4 avec 4 figurin
 
 ℹ️:
 
+- Élargissez votre collection LEGO Star Wars avec ce formidable coffret de bataille
 - Inclut 4 figurines de guerrier mandaloriens Star Wars, chacune équipée dun fusil blaster à tenons
+- Un fort de défense avec un point dattache pour un fusil blaster, et un speeder bike
 - Les enfants peuvent construire une redoutable armée de Mandaloriens, recréer des scènes de la série télévisée Star Wars : The Mandalorian
 - Tirer avec les tenons blaster, puis placez le tropper sur le speeder équipé de fusils à tenons
-- Un fort de défense avec un point dattache pour un fusil blaster, et un speeder bike
-- Élargissez votre collection LEGO Star Wars avec ce formidable coffret de bataille
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)

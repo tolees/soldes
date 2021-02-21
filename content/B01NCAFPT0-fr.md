@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '39.97 % rabais sur Puma Basket Heart Patent  Baskets Basses'
-date: 2021-02-20 15:10:44
+date: 2021-02-21 18:44:59
 image: 'https://m.media-amazon.com/images/I/41mKbK-tT9L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'PUMA'
 buyurl: 'https://www.amazon.fr/dp/B01NCAFPT0/?tag=tolees0d-21'
 descuento: '39.97'
-average: '51.7866666666667'
+average: '52.34'
 ---
 
 Vous avez [Puma Basket Heart Patent  Baskets Basses Femme  Noir  Black-Black   38 EU](https://www.amazon.fr/dp/B01NCAFPT0/?tag=tolees0d-21)  à  39.97 % de réduction, prix final  54.0 EUR (original: 89.95 EUR) ici:

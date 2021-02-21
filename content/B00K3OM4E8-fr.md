@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.33 % rabais sur sans marque - Harry Potter - l Intégrale'
-date: 2021-02-20 14:56:03
+date: 2021-02-21 18:28:17
 image: 'https://m.media-amazon.com/images/I/51EohmJTncL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'sans marque'
 buyurl: 'https://www.amazon.fr/dp/B00K3OM4E8/?tag=tolees0d-21'
 descuento: '50.33'
-average: '13.6542857142857'
+average: '13.81625'
 ---
 
 Vous avez [sans marque - Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers de J.K. Rowling - Coffret DVD](https://www.amazon.fr/dp/B00K3OM4E8/?tag=tolees0d-21)  à  50.33 % de réduction, prix final  14.95 EUR (original: 30.1 EUR) ici:
