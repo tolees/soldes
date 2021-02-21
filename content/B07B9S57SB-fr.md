@@ -28,11 +28,11 @@ C'est en vente [Tommy Hilfiger Core Tommy Slim Polo  Noir  Flag Black 032   Larg
 
 ℹ️:
 
+- Coupe ajustée
 - Boutonnière à trois boutons
 - Broderie Tommy Hilfiger sur la poitrine
 - 100 %
-- Coupe ajustée
-- Bande décorative typique de la marque à lintérieur de lencolure
 - Col montant
+- Bande décorative typique de la marque à lintérieur de lencolure
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07B9S57SB/?tag=tolees0d-21)
