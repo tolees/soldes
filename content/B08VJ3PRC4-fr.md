@@ -28,9 +28,9 @@ Vous avez [eXtremeRate Coque Décorative pour DualSense 5 Manette Clip DIY Coque
 
 ℹ️:
 
-- Convient Parfaitement: Convient de loin au meilleur; Sadapte complètement à ras de tous les côtés; Asseyez-vous correctement sur tous les clips. Coque décorative unique pour ajouter beaucoup plus de personnalité à PS5, ce qui permet à votre manette de se démarquer dans la foule.
 - Compatibilité: Custom coque de remplacement personnalisé est spécialement conçue pour PS5 manette. Coupe de précision pour fonctionner exactement comme la coque dorigine.
 - L’emballage Inclut: 1 * Coque décorative; 2 * Anneaux; 1 * Outil d’ouverte. Remarque: la manette et les autres pièces ne sont PAS inclus. Si vous avez des questions, nhésitez pas à nous contacter et nous réglerons votre problème dans les 24 heures.
+- Convient Parfaitement: Convient de loin au meilleur; Sadapte complètement à ras de tous les côtés; Asseyez-vous correctement sur tous les clips. Coque décorative unique pour ajouter beaucoup plus de personnalité à PS5, ce qui permet à votre manette de se démarquer dans la foule.
 - Facile à Installer: loutil inclus peut vous aider à ouvrir facilement la coque dorigine et à remplacer ces accessoires; Obtenez le tuto dinstallation sur Youtube en recherchant «Extremerate PS5 Decorative shell».
 - Caractéristique Personnalisée: une variété de styles et de designs sont disponibles. Excellente prise en main, douce en main et soyeuse; Antidérapant, sans transpiration pendant une longue période de jeu.
 

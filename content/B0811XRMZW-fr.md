@@ -28,12 +28,12 @@ C'est en vente [Safety 1st Chaise Haute pour bébé en Bois et Evolutive Timba a
 
 ℹ️:
 
-- Chaise haute évolutive : lassise et le marchepieds sajustent selon la taille de lenfant
-- De 6 mois à 10 ans environ
-- Coussin lavable 30°
 - Tablette et harnais amovibles
-- Avec la chaise haute Timba, le repas sera un moment convivial pour toute la famille
+- Coussin lavable 30°
 - Harnais de maintien inclus
 - Chaise haute pour bébé en bois avec coussin inclus
+- Chaise haute évolutive : lassise et le marchepieds sajustent selon la taille de lenfant
+- De 6 mois à 10 ans environ
+- Avec la chaise haute Timba, le repas sera un moment convivial pour toute la famille
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0811XRMZW/?tag=tolees0d-21)
