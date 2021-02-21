@@ -28,9 +28,9 @@ Vous avez [Charrier Parfums Les Parfums de France Luxe Coffret de 10 Eau de Parf
 
 ℹ️:
 
-- Coffret Cadeau contenant 10 Eaux de Parfum Miniatures
 - « Coffret cadeau – un parfum pour chaque moment – un parfum pour chaque envie »
-- Un choix de Parfums différents et raffinés, modernes ou traditionnels
 - 100 % Made in France par Charrier Parfums, parfumeur depuis 1888
+- Coffret Cadeau contenant 10 Eaux de Parfum Miniatures
+- Un choix de Parfums différents et raffinés, modernes ou traditionnels
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008KZBAII/?tag=tolees0d-21)

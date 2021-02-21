@@ -30,8 +30,8 @@ Vous avez [Pickwoo - Robot Enfant Jouet - Robot Programmable Telecommandé Intel
 
 - 【Jeux éducatifs】- Cest le meilleur outil didée pour aider à enseigner aux jeunes les concepts denseignement de la robotique, des sciences, de lart et de la technologie, puis à développer leur créativité.
 - 【Safe materials & Flexible joints】- Flexible shoulders, elbow and thumb joints and high-quality bottom rollers can realize various combinations of actions and enhance the flexibility of robot movements.
+- 【Programmable Actions】- Ce robot intelligent peut effectuer jusquà 50 actions, et peut effectuer des actions créées par programmation, telles que: gauche + arrière + musique + danse, etc.
 - 【Meilleur cadeau pour les enfants】-Le nouveau robot français 2021, avec une armure verte, peut offrir aux enfants une façon de jouer unique et est le meilleur cadeau de Noël et danniversaire pour les enfants.
 - 【Robot interactif】- Contrôle gestuel // Programmation intellectuelle // Patrouille et évitement dobstacles // Chanter et danser // Affichage automatique // Langage du robot // Superbes voyants LED , peut interagir avec les enfants et apporter plus de plaisir.
-- 【Programmable Actions】- Ce robot intelligent peut effectuer jusquà 50 actions, et peut effectuer des actions créées par programmation, telles que: gauche + arrière + musique + danse, etc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08H1RK4MD/?tag=tolees0d-21)
