@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Scooby-Doo! Histoires dans L avec 19.81 % rabais '
-date: 2021-02-19 20:48:41
+date: 2021-02-21 12:41:11
 image: 'https://m.media-amazon.com/images/I/61QAD9l6DHL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B081HQ3JBF/?tag=tolees0d-21'
 descuento: '19.81'
-average: '90.2672020725387'
+average: '90.2130769230767'
 ---
 
 C'est en vente [Playmobil - Scooby-Doo! Histoires dans Le Manoir Hanté - 70361](https://www.amazon.fr/dp/B081HQ3JBF/?tag=tolees0d-21)  à  19.81 % de réduction, prix final  84.99 EUR (original: 105.99 EUR) ici:
@@ -28,8 +28,8 @@ C'est en vente [Playmobil - Scooby-Doo! Histoires dans Le Manoir Hanté - 70361]
 
 ℹ️:
 
-- Lescalier est transformable en toboggan.
 - Le lustre est amovible.
 - Avec une porte secrète.
+- Lescalier est transformable en toboggan.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081HQ3JBF/?tag=tolees0d-21)

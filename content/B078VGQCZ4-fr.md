@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '51.53 % rabais sur Sony WH-CH700N Casque Sans Fil Bluetooth'
-date: 2021-02-20 08:47:28
+date: 2021-02-21 12:44:52
 image: 'https://m.media-amazon.com/images/I/41AEZriyA-L._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21'
 descuento: '51.53'
-average: '96.594336734694'
+average: '96.4994444444445'
 ---
 
 Vous avez [Sony WH-CH700N Casque Sans Fil Bluetooth à Réduction de Bruit - Noir  avec Amazon Alexa Intégrée](https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21)  à  51.53 % de réduction, prix final  87.2 EUR (original: 179.9 EUR) ici:
@@ -28,14 +28,14 @@ Vous avez [Sony WH-CH700N Casque Sans Fil Bluetooth à Réduction de Bruit - Noi
 
 ℹ️:
 
-- Prolongez votre écoute avec la charge rapide et une autonomie de la batterie pouvant atteindre 35 heures
-- Aimant: Néodyme
-- Ecouteurs pivotants pour un transport facile
-- Impédance (ohm): 220 ohms (connexion via le câble pour casque audio, avec lunité allumée), 48 ohms (à 1 kHz) (connexion via le câble pour casque audio, avec lunité éteinte)
-- Sensibilités (dB/mW): 98 dB/mW
 - Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Impédance (ohm): 220 ohms (connexion via le câble pour casque audio, avec lunité allumée), 48 ohms (à 1 kHz) (connexion via le câble pour casque audio, avec lunité éteinte)
 - Appuyez sur le bouton NC pour activer la réduction de bruit
+- Sensibilités (dB/mW): 98 dB/mW
+- Aimant: Néodyme
 - Entendez tout grâce aux diaphragmes de 40 mm
+- Ecouteurs pivotants pour un transport facile
 - Diffusion sans fil avec une connexion Bluetooth
+- Prolongez votre écoute avec la charge rapide et une autonomie de la batterie pouvant atteindre 35 heures
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078VGQCZ4/?tag=tolees0d-21)
