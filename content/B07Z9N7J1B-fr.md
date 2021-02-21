@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath - Super Zings- Blister 10 - à co avec 36.97 % rabais '
-date: 2021-02-20 03:04:17
+date: 2021-02-21 06:45:10
 image: 'https://m.media-amazon.com/images/I/51RB9Z7TaML._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Goliath'
 buyurl: 'https://www.amazon.fr/dp/B07Z9N7J1B/?tag=tolees0d-21'
 descuento: '36.97'
-average: '12.1335675675678'
+average: '12.0840106951874'
 ---
 
 C'est en vente [Goliath - Super Zings- Blister 10 - à collectionner - à partir de 5 ans - modèles aléatoire](https://www.amazon.fr/dp/B07Z9N7J1B/?tag=tolees0d-21)  à  36.97 % de réduction, prix final  7.5 EUR (original: 11.9 EUR) ici:

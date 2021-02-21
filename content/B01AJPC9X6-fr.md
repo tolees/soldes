@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '38.31 % rabais sur Playmobil - Commissariat de Police avec '
-date: 2021-02-20 02:54:07
+date: 2021-02-21 06:38:55
 image: 'https://m.media-amazon.com/images/I/61CON5uaqGL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B01AJPC9X6/?tag=tolees0d-21'
 descuento: '38.31'
-average: '64.174243902439'
+average: '64.1203864734299'
 ---
 
 Vous avez [Playmobil - Commissariat de Police avec Prison - 6919](https://www.amazon.fr/dp/B01AJPC9X6/?tag=tolees0d-21)  à  38.31 % de réduction, prix final  58.6 EUR (original: 94.99 EUR) ici:
@@ -28,12 +28,12 @@ Vous avez [Playmobil - Commissariat de Police avec Prison - 6919](https://www.am
 
 ℹ️:
 
-- La Voiture de policiers avec gyrophare et sirène réf. 6920 peut se garer dans la cour du commissariat.
+- Avec armoire de rangement pour les armes des policiers, vêtement de prisonnier, boîte pour prise dempreintes digitales et de nombreux accessoires.
 - Comprend un mur cassable pour lévasion.
-- Dimensions : 63 x 45 x 26 cm (LxPxH).
 - Le portail souvre en coulissant.
 - Centre de commandement avec liaison radio.
+- La Voiture de policiers avec gyrophare et sirène réf. 6920 peut se garer dans la cour du commissariat.
 - Une hélisurface pour lhélicoptère réf. 6921 se situe sur le toit.
-- Avec armoire de rangement pour les armes des policiers, vêtement de prisonnier, boîte pour prise dempreintes digitales et de nombreux accessoires.
+- Dimensions : 63 x 45 x 26 cm (LxPxH).
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AJPC9X6/?tag=tolees0d-21)

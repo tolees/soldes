@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.50 % rabais sur 0BEST Drone avec Caméra 4k HD Drone avec'
-date: 2021-02-19 21:07:04
+date: 2021-02-21 07:18:06
 image: 'https://m.media-amazon.com/images/I/41Dm6HiTfFL._SL200_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: '0BEST'
 buyurl: 'https://www.amazon.fr/dp/B08DHWFXHW/?tag=tolees0d-21'
 descuento: '17.50'
-average: '68.2757142857141'
+average: '68.1860784313724'
 ---
 
 Vous avez [0BEST Drone avec Caméra 4k HD Drone avec Deux caméra Professionnel  Positionnement du Flux Optique  WiFi Pliable FPV Quadcopter Photo Gestuelle 1100mAh Batterie Inclus Blanc ](https://www.amazon.fr/dp/B08DHWFXHW/?tag=tolees0d-21)  à  17.50 % de réduction, prix final  65.99 EUR (original: 79.99 EUR) ici:
