@@ -28,11 +28,11 @@ C'est en vente [Western Digital - WD BLACK P10 Game Drive for Xbox One 1 To po
 
 ℹ️:
 
-- Un support portable qui vous offre un accès rapide à tous vos jeux, où que vous soyez
-- Un disque dur haute performance avec des vitesses allant jusquà 130 Mo/s pour optimiser votre expérience de jeu sur console ou PC
-- TEMPÉRATURE DE FONCTIONNEMENT: 5 ° C À 35 ° C TEMPÉRATURE SANS FONCTIONNEMENT: -20 ° C À 65 ° C
 - Jusquà 5 To pour accueillir 125 jeux : vous pouvez garder vos jeux favoris et avoir suffisamment de place pour de nouveaux titres
 - La qualité et la fiabilité WD_BLACK : un produit conçu spécialement pour les gamers
+- Un support portable qui vous offre un accès rapide à tous vos jeux, où que vous soyez
 - Abonnement de 1 mois au Xbox Game Pass Ultimate avec votre achat
+- TEMPÉRATURE DE FONCTIONNEMENT: 5 ° C À 35 ° C TEMPÉRATURE SANS FONCTIONNEMENT: -20 ° C À 65 ° C
+- Un disque dur haute performance avec des vitesses allant jusquà 130 Mo/s pour optimiser votre expérience de jeu sur console ou PC
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FMS25DL/?tag=tolees0d-21)

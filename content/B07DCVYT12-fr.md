@@ -29,8 +29,8 @@ Vous avez [Parrot Anafi – Batterie Intelligente  7.6V  Lipo  2 cellules  2700 
 ℹ️:
 
 - 25 min de temps de vol supplémentaire
+- Rechargeable en USB-C (câble USB-A vers USB-C) - câble non fourni
 - Batterie Intelligente : vérifiez le niveau de charge de votre batterie dune simple pression
 - Compatible avec les drone suivants : Anafi, Anafi work, Anafi Therma
-- Rechargeable en USB-C (câble USB-A vers USB-C) - câble non fourni
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DCVYT12/?tag=tolees0d-21)

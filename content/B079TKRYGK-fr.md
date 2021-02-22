@@ -28,10 +28,10 @@ C'est en vente [Russell Hobbs Centrifugeuse 2L  2 Vitesses  Cheminée XL  Idéal
 
 ℹ️:
 
-- Cheminée extra large de 75mm pour pouvoir mettre des fruits entiers, sans prédécoupage
+- 2 vitesses pour tous types de fruits et de légumes
 - Finitions élégantes rouge intense associées à des touches de Noir
+- Cheminée extra large de 75mm pour pouvoir mettre des fruits entiers, sans prédécoupage
 - Couvercle du réservoir à pulpe transparent pour contrôler à tout moment le niveau de pulpe
 - Réservoir à pulpe de grande capacité 2 L
-- 2 vitesses pour tous types de fruits et de légumes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079TKRYGK/?tag=tolees0d-21)

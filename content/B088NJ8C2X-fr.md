@@ -28,10 +28,10 @@ Vous avez [Oral-B iO - 7n - Brosse à Dents Électrique Rechargeable  1 Manche 
 
 ℹ️:
 
-- Artificial intelligence recognizes your brushing style and guides you to cover all your teeth, so you never forget an area
-- The interactive display provides essential insights: brushing modes, brush replacement reminder, greets you when you start and smiles you on a good job
-- 5 smart modes to personalize your brushing: cleanness, softness, gum care, intense, whiteness
 - Combines Oral-Bs unique round brush with soft micro-vibrations for a freshness and cleanliness feeling in the mouth, and 100% healthier gums in one week
 - Oral-Bs best cleaning with revolutionary Io magnetic technology for professional brushing and smooth experience
+- 5 smart modes to personalize your brushing: cleanness, softness, gum care, intense, whiteness
+- The interactive display provides essential insights: brushing modes, brush replacement reminder, greets you when you start and smiles you on a good job
+- Artificial intelligence recognizes your brushing style and guides you to cover all your teeth, so you never forget an area
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088NJ8C2X/?tag=tolees0d-21)

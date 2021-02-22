@@ -28,10 +28,10 @@ Vous avez [eXtremeRate D-Pad R1 L1 R2 L2 Triggers Options Share Face Boutons de 
 
 ℹ️:
 
-- Les clients ont exigé de démonter la manette pour remplacer ces boutons de jeu complet; Clients requis à portée de main avec linstallation du contrôleur; Obtenez le tuto dinstallation sur Youtube en recherchant "Extremerate PS5 Controller Buttons".
-- Les boutons de remplacement personnalisés sont spécialement conçus pour PS5 Manette. Coupe de précision pour fonctionner exactement comme les boutons dorigine.
 - Fabriqué en matériau ABS de qualité supérieure, durable et pratique. Une variété de couleurs sont disponibles, vous pouvez combiner la coque décorative eXtremeRate et le pavé tactile pour personnaliser votre manette.
-- Boutons de remplacement uniques pour ajouter beaucoup plus de personnalité à PS5, ce qui permet à votre manette de se démarquer dans la foule.
 - L’emballage Inclut: 1 * Pad directionnel, 1 * Kit de boutons daction, 1 * R1 L1 R2 L2 triggers, 1 * Share options buttons, 1 * Tournevis PH00, 1 * Outil d’ouverte, 24 * Vis (La manette, les joysticks et dautres pièces ne sont pas inclus.)
+- Les boutons de remplacement personnalisés sont spécialement conçus pour PS5 Manette. Coupe de précision pour fonctionner exactement comme les boutons dorigine.
+- Les clients ont exigé de démonter la manette pour remplacer ces boutons de jeu complet; Clients requis à portée de main avec linstallation du contrôleur; Obtenez le tuto dinstallation sur Youtube en recherchant "Extremerate PS5 Controller Buttons".
+- Boutons de remplacement uniques pour ajouter beaucoup plus de personnalité à PS5, ce qui permet à votre manette de se démarquer dans la foule.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08VJ4K4GK/?tag=tolees0d-21)

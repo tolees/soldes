@@ -28,10 +28,10 @@ C'est en vente [OIVO Manette PS4 Chargeur  PS4 Station de Charge Rapide avec ind
 
 ℹ️:
 
-- 【Protection multiple】station de charge Manette PS4 avec puce de protection intégrée et composants de haute qualité empêchent le produit ou vos appareils de surintensité, de surtension et de court-circuit.
-- 【Support de charge polyvalen pour Manette PS4】vous permet de ranger et de charger 2 manettes de PS4 simultanément sans avoir à les connecter au système PS4. Rechargeable via alimentation USB.
 - 【Indicateur de charge LED】 Les lumières LED peuvent clairement montrer létat de charge; Le voyant rouge indique que la manette de jeu PS4 est en cours de chargement, le voyant devient bleu lorsquil est complètement chargé.
-- 【1,8 heures de Chargeur rapide pour Manette PS4】Cette station de charge est mise à niveau avec une puce en cuivre qui vous permet de charger deux contrôleurs Sony Dualshock 4 / PS4 / PS4 Slim / PS4 Pro en même temps et ils seront entièrement chargés dans les 1,8 heures.
+- 【Protection multiple】station de charge Manette PS4 avec puce de protection intégrée et composants de haute qualité empêchent le produit ou vos appareils de surintensité, de surtension et de court-circuit.
 - 【OIVO Garantie sans souci】1 * station de charge pour manette PS4; 1 * USB câble; Garantie du fabricant de 3 ans et remplacement sans tracas. Et nous promettons un remplacement gratuit pour chaque client en cas de problème avec le produit.
+- 【Support de charge polyvalen pour Manette PS4】vous permet de ranger et de charger 2 manettes de PS4 simultanément sans avoir à les connecter au système PS4. Rechargeable via alimentation USB.
+- 【1,8 heures de Chargeur rapide pour Manette PS4】Cette station de charge est mise à niveau avec une puce en cuivre qui vous permet de charger deux contrôleurs Sony Dualshock 4 / PS4 / PS4 Slim / PS4 Pro en même temps et ils seront entièrement chargés dans les 1,8 heures.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YWYXPC1/?tag=tolees0d-21)

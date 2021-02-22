@@ -29,10 +29,10 @@ C'est en vente [Spin Master Games - PERPLEXUS - PERPLEXUS REBEL - Labyrinthe Par
 ℹ️:
 
 - JOUET ENFANT 8 ANS ET + - La boule PERPLEXUS REBEL convient aux enfants à partir de 8 ans ; jeu enfant casse-tête
-- PERPLEXUS - Perplexus est à la fois un casse tête et un jeu d’habileté diabolique, innovant et addictif. Il est un jeu qui favorise le développement de l’habilité, la motricité et la coordination mains-yeux
-- CADEAU ENFANT - Pour un anniversaire ou Noël offrez le casse-tête Perplexus Rebel ; idéal pour les enfants, fascinant pour les plus grands. Le modèle adéquat pour les enfants, plus simple à maîtriser
-- FACILE À MANIPULER, MAIS DIFFICILE À MAÎTRISER - Manipulez le Perplexus Rebel dans tous les sens jusquà la ligne darrivée. Vous allez vite devenir accro ! Lorsque vous aurez maîtrisé le parcours, passez au niveau supérieur avec les Perplexus Beast (Original) et Perplexus Epic (vendus séparément)
 - LABYRINTHE 3D - Un labyrinthe en 3 dimensions, contenu dans une sphère transparente que le joueur doit manipuler dans tous les sens pour faire progresser une bille à travers le parcours. Le circuit utilise à la fois endroit et envers, obligeant les joueurs à adapter leurs mouvements aux 3 dimensions, avec des passages de plus en plus difficiles. La moindre erreur est fatale. Relevez le défi et testez votre talent
+- FACILE À MANIPULER, MAIS DIFFICILE À MAÎTRISER - Manipulez le Perplexus Rebel dans tous les sens jusquà la ligne darrivée. Vous allez vite devenir accro ! Lorsque vous aurez maîtrisé le parcours, passez au niveau supérieur avec les Perplexus Beast (Original) et Perplexus Epic (vendus séparément)
+- CADEAU ENFANT - Pour un anniversaire ou Noël offrez le casse-tête Perplexus Rebel ; idéal pour les enfants, fascinant pour les plus grands. Le modèle adéquat pour les enfants, plus simple à maîtriser
+- PERPLEXUS - Perplexus est à la fois un casse tête et un jeu d’habileté diabolique, innovant et addictif. Il est un jeu qui favorise le développement de l’habilité, la motricité et la coordination mains-yeux
 - 70 DÉFIS COMPLEXES - Réussirez-vous à relever les 70 défis du Perplexus Rebel ? Faites avancer la bille sur le circuit numéroté malgré des défis complexes comme les escaliers de la peur, le tube de la terreur et ligloo. Attention, la bille ne doit pas tomber
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MKCZJNJ/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Belkin Chargeur secteur 2 ports USB-PD GaN Boost Charge 68 W  USB-C 
 
 ℹ️:
 
-- Technologie intelligente de partage d’alimentation pour détecter le type d’appareil connecté et fournir ainsi la recharge la plus efficace possible
-- Technologie GaN (Nitrure de gallium) pour un chargeur de haute performance, léger et compact, recharge d’un MacBook Pro 15" jusqu’à 50 % en 60 minutes
 - Recharge rapide d’un iPhone 8 (ou version ultérieure) jusqu’à 50 % en 30 minutes, un smartphone USB-C comme le Google Pixel jusqu’à 50 % en 37 minutes et un iPad Pro jusqu’à 50 % en 60 minutes
+- Technologie GaN (Nitrure de gallium) pour un chargeur de haute performance, léger et compact, recharge d’un MacBook Pro 15" jusqu’à 50 % en 60 minutes
+- Technologie intelligente de partage d’alimentation pour détecter le type d’appareil connecté et fournir ainsi la recharge la plus efficace possible
 - Lexception Belkin : technologie de pointe et innovation depuis plus de 35 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086H4FTC8/?tag=tolees0d-21)

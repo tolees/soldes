@@ -28,11 +28,11 @@ Vous avez [Axe Dark Temptation Déodorant Homme Spray Antibactérien  Fraîcheur
 
 ℹ️:
 
-- Ce déodorant pour homme Axe Dark Temptation est vendu dans un lot de 6x150ml. Antibactérien
-- 0% sels daluminium
-- Avec AXE, révèle ce qui te rend unique
-- Le parfum frais et vif, qui provoque sur les femmes leffet que le chocolat ont sur elles (gourmandise incontrôlable, envie de croquer)
-- Existe aussi en gel douche
 - Un déodorant parfumant pour homme, pour sentir bon toute la journée
+- Ce déodorant pour homme Axe Dark Temptation est vendu dans un lot de 6x150ml. Antibactérien
+- Avec AXE, révèle ce qui te rend unique
+- Existe aussi en gel douche
+- 0% sels daluminium
+- Le parfum frais et vif, qui provoque sur les femmes leffet que le chocolat ont sur elles (gourmandise incontrôlable, envie de croquer)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DUEBQ38/?tag=tolees0d-21)
