@@ -28,8 +28,8 @@ C'est en vente [Trixie Poteau de Rechange  ø 11 cm/40 cm/Taille de fil M10](htt
 
 ℹ️:
 
-- Fits most cat trees
-- Including threaded bolt and 2 screws
 - Wrapped in natural sisal
+- Including threaded bolt and 2 screws
+- Fits most cat trees
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000WFJZ9K/?tag=tolees0d-21)

@@ -29,10 +29,10 @@ C'est en vente [Crayon de coloriage - STABILO woody 3in1 - Étui carton x 10 cra
 ℹ️:
 
 - Le crayon de couleur STABILO Woody écrit sur toutes les surfaces : ardoise, tableau blanc, verre, carton, plastique
-- Crayon de couleur multi-usage et tout-terrain: à la fois crayon de couleur, aquarelle, craie grasse et marqueur
-- Woody sefface facilement sur toutes les surfaces lisses ( verre, ardoise, métal…). Lavable dun coup de chiffon humide !
 - Etui de 10 crayons de couleur + un taille crayon
-- Crayon de couleur conçu pour les jeunes enfants : un corps large, facile à prendre en main. Une main large et solide.
+- Woody sefface facilement sur toutes les surfaces lisses ( verre, ardoise, métal…). Lavable dun coup de chiffon humide !
 - Fabriqué avec du bois certifié PEFC pour une gestion éco-responsable des fôrets
+- Crayon de couleur conçu pour les jeunes enfants : un corps large, facile à prendre en main. Une main large et solide.
+- Crayon de couleur multi-usage et tout-terrain: à la fois crayon de couleur, aquarelle, craie grasse et marqueur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000FFR5KI/?tag=tolees0d-21)
