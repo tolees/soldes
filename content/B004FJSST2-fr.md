@@ -28,14 +28,14 @@ Vous avez [D-Link DGS-1008P Switch 8 Ports Gigabit POE 10/100/1000mbps - Idéal 
 
 ℹ️:
 
-- Détection croisée MDI/MDIX automatique pour tous les ports
-- Silencieux et sans ventilateur, il convient à tout type d’environnement
-- prise en charge des trames étendues jusqu’à 9 720 Koctets
 - Périphérique : de 0 à 50 °C.Adaptateur secteur externe : de 0 à 40 °C
-- Contrôle de flux IEEE 802.3x
-- prise en charge du diagnostic des câbles
+- Silencieux et sans ventilateur, il convient à tout type d’environnement
 - Fonctionnement plug-and-play
+- prise en charge des trames étendues jusqu’à 9 720 Koctets
+- prise en charge du diagnostic des câbles
 - Mode de transmission bidirectionnelle half duplex/full duplex pour les vitesses ethernet/Fast ethernet
 - 8 ports Gigabit 10/100/1000 Mbps, dont 4 PoE
+- Contrôle de flux IEEE 802.3x
+- Détection croisée MDI/MDIX automatique pour tous les ports
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21)
