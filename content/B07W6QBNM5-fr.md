@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO City Turbo Wheels  L atelier de tun avec 25.84 % rabais '
-date: 2021-02-19 22:39:43
-image: 'https://m.media-amazon.com/images/I/513MI2NXYvL._SL200_.jpg'
+date: 2021-02-22 13:41:08
+image: 'https://m.media-amazon.com/images/I/513MI2NXYvL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21'
 descuento: '25.84'
-average: '74.2592276422765'
+average: '74.2583467741936'
 ---
 
 C'est en vente [LEGO City Turbo Wheels  L atelier de tuning  Set de construction avec depanneuse  Hot Rod moto  207 pièces  60258](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)  à  25.84 % de réduction, prix final  74.15 EUR (original: 99.99 EUR) ici:
 
-[![LEGO City Turbo Wheels  L atelier de tun](https://m.media-amazon.com/images/I/513MI2NXYvL._SL200_.jpg)](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)
+[![LEGO City Turbo Wheels  L atelier de tun](https://m.media-amazon.com/images/I/513MI2NXYvL._SL400_.jpg)](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)
 
 ℹ️:
 
-- Le set comporte 7 figurines, dont les personnages de la série télévisée de LEGO City Hari Hubbs Tread Octane, 2 garagistes, 3 clients et la figurine du bouledogue Jawis
-- Les accessoires comprennent une clé, un vérin de voiture, une tasse, un billet de banque, une boîte à pizza, une assiette et des saucisses, du matériel de soudage, une fraiseuse et bien plus encore
-- Les garagistes en herbe tirent le levier pour préparer les voitures au remorquage et tournent le cadran pour faire fonctionner le treuil à moteur avec des fonctions de levage
-- Inclut un garage, une roulotte de camping et 6 véhicules fascinants, notamment une dépanneuse, un Hot Rod et une moto propulsée par des fusées, ainsi quune niche de chien
 - Les enfants peuvent faire fonctionner le treuil à moteur dans latelier, soulever des voitures avec le vérin, récupérer les véhicules en panne avec la dépanneuse et bien plus encore
+- Les accessoires comprennent une clé, un vérin de voiture, une tasse, un billet de banque, une boîte à pizza, une assiette et des saucisses, du matériel de soudage, une fraiseuse et bien plus encore
+- Le set comporte 7 figurines, dont les personnages de la série télévisée de LEGO City Hari Hubbs Tread Octane, 2 garagistes, 3 clients et la figurine du bouledogue Jawis
+- Inclut un garage, une roulotte de camping et 6 véhicules fascinants, notamment une dépanneuse, un Hot Rod et une moto propulsée par des fusées, ainsi quune niche de chien
+- Les garagistes en herbe tirent le levier pour préparer les voitures au remorquage et tournent le cadran pour faire fonctionner le treuil à moteur avec des fonctions de levage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)
