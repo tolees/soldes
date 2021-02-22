@@ -29,8 +29,8 @@ C'est en vente [Nike Air Max Excee  Basket Homme  Noir/Blanc-Gris Foncé  42 EU]
 ℹ️:
 
 - La semelle intercalaire en mousse et semelle extérieure en mousse avec picots en caoutchouc pour un confort léger et durabilité
+- lignes de conception étendues apprécient lAir Max 90, en lui donnant une touche moderne dune manière provocante
 - Lélément Air est visible à travers trois fenêtres pour un look revisité
 - Tige en maille, cuir et suède avec des revêtements de cuir artificiel
-- lignes de conception étendues apprécient lAir Max 90, en lui donnant une touche moderne dune manière provocante
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07T6JHT5F/?tag=tolees0d-21)
