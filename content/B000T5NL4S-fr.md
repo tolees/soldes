@@ -28,8 +28,8 @@ Vous avez [Lacor 68000 Plaque à Madeleine 12 Alvéoles Non Adhérent](https://w
 
 ℹ️:
 
-- Produit européen.
 - Garantie Lacor
 - Qualité supérieure.
+- Produit européen.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000T5NL4S/?tag=tolees0d-21)

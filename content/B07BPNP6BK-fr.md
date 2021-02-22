@@ -29,9 +29,9 @@ Vous avez [Philips GC9614/20 Centrale Vapeur PerfectCare Elite sans Réglage  7 
 ℹ️:
 
 - Gain de temps avec la technologie OptimalTemp sans réglage de température et garantie sans brûlure, sur tous les textiles repassables: coton, soie, lin, etc
-- Ultra-puissante: son débit vapeur de 150 g/min, son effet pressing allant jusquà 500g ainsi que ses 7,5 bar de pression permettent des sessions de repassage encore plus rapides
-- La fonction effet pressing est idéale pour effectuer un défroissage vertical et éliminer les faux plis les plus tenaces
-- Facile et pratique avec son grand réservoir deau amovible d1,8 L et son système anticalcaire Easy-De-Calc avec indicateur
 - Sans effort grâce à son fer ultraléger de 0,8 kg et à sa semelle T-ionicGlide assurant une meilleure glisse et résistance
+- Facile et pratique avec son grand réservoir deau amovible d1,8 L et son système anticalcaire Easy-De-Calc avec indicateur
+- La fonction effet pressing est idéale pour effectuer un défroissage vertical et éliminer les faux plis les plus tenaces
+- Ultra-puissante: son débit vapeur de 150 g/min, son effet pressing allant jusquà 500g ainsi que ses 7,5 bar de pression permettent des sessions de repassage encore plus rapides
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BPNP6BK/?tag=tolees0d-21)

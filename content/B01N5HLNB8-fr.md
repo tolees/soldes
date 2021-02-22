@@ -28,7 +28,7 @@ Vous avez [Elizabeth Arden Advanced Ceramide Capsules Sérum Quotidien Rénovate
 
 ℹ️:
 
-- Item display volume: 42.0 milliliters
 - Item display weight: 1.41 ounces
+- Item display volume: 42.0 milliliters
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N5HLNB8/?tag=tolees0d-21)

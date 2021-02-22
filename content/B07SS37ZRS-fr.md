@@ -28,10 +28,10 @@ C'est en vente [Philips Lighting - Philips Hue Ampoule LED Connectée White & Co
 
 ℹ️:
 
+- Contrôlez vos lumières avec votre voix : Compatible avec tous les assistants vocaux Echo et avec tous les assistants Google Nest. Le pont Hue est requis pour les appareils Amazon Echo (1ère génération) et Echo dot (1ère génération).
+- Une envie de simplement créer une ambiance ? Commencez avec lapplication de contrôle Philips Hue Bluetooth et connectez jusquà 10 ampoules. Personnalisez votre ambiance grâce aux 16 millions de couleurs.
 - Ajoutez le pont Hue (non fourni) et étendez votre écosystème en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, synchronisation avec les jeux vidéos, les films et la musique...). Contrôlez depuis un accessoire Hue, votre mobile ou via votre assistant vocal (Alexa, Google Assistant, etc...).
 - Elargissez votre expérience de la maison connectée en synchronisant le pont Hue (vendu séparément) et bénéficiez dune expérience déclairage connectée optimale.
-- Une envie de simplement créer une ambiance ? Commencez avec lapplication de contrôle Philips Hue Bluetooth et connectez jusquà 10 ampoules. Personnalisez votre ambiance grâce aux 16 millions de couleurs.
 - Déjà utilisateur Philips Hue: Cette ampoule connectée compatible Bluetooth, peut se connecter avec votre pont Hue et être intégrée simplement à votre écosystème Hue existant
-- Contrôlez vos lumières avec votre voix : Compatible avec tous les assistants vocaux Echo et avec tous les assistants Google Nest. Le pont Hue est requis pour les appareils Amazon Echo (1ère génération) et Echo dot (1ère génération).
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SS37ZRS/?tag=tolees0d-21)

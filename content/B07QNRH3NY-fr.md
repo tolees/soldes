@@ -30,8 +30,8 @@ C'est en vente [G-Technology ArmorATD 4 To: Disque dur externe robuste  résista
 
 - Trois couches de résistance aux chocs grâce à des supports antichocs internes et une bande de protection en caoutchouc
 - Fonctionne nativement avec macOS et Windows.
-- Jusqu’à 5 To d’espace de stockage pour vos photos et vos vidéos réalisées sur le terrain
 - Résistance à la pluie et à la poussière ainsi qu’à une pression pouvant aller jusquà 453 kg
+- Jusqu’à 5 To d’espace de stockage pour vos photos et vos vidéos réalisées sur le terrain
 - Compatibilité USB-C native, USB 3.0 et Thunderbolt 3 ; Adaptateur USB-C vers USB-A inclus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QNRH3NY/?tag=tolees0d-21)
