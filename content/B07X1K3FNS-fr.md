@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'FITTOO Legging de Sport Femme Pantalon Y avec 30.78 % rabais '
-date: 2021-02-15 15:03:44
-image: 'https://m.media-amazon.com/images/I/31GGJ8ftnaL._SL200_.jpg'
+date: 2021-02-22 18:43:52
+image: 'https://m.media-amazon.com/images/I/31GGJ8ftnaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '17.99'
 
 C'est en vente [FITTOO Legging de Sport Femme Pantalon Yoga Athlétique Taille Haute Rayé Bande latérale Collant Elastique pour Jogging Gym Course Noir L](https://www.amazon.fr/dp/B07X1K3FNS/?tag=tolees0d-21)  à  30.78 % de réduction, prix final  17.99 EUR (original: 25.99 EUR) ici:
 
-[![FITTOO Legging de Sport Femme Pantalon Y](https://m.media-amazon.com/images/I/31GGJ8ftnaL._SL200_.jpg)](https://www.amazon.fr/dp/B07X1K3FNS/?tag=tolees0d-21)
+[![FITTOO Legging de Sport Femme Pantalon Y](https://m.media-amazon.com/images/I/31GGJ8ftnaL._SL400_.jpg)](https://www.amazon.fr/dp/B07X1K3FNS/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.76 % rabais sur Elizabeth Arden Advanced Ceramide Capsul'
-date: 2020-10-07 13:51:47
+date: 2021-02-22 18:09:40
 image: 'https://m.media-amazon.com/images/I/41BzRHhh0qL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,5 +28,7 @@ Vous avez [Elizabeth Arden Advanced Ceramide Capsules Sérum Quotidien Rénovate
 
 ℹ️:
 
+- Item display volume: 42.0 milliliters
+- Item display weight: 1.41 ounces
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N5HLNB8/?tag=tolees0d-21)
