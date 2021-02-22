@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '43.06 % rabais sur D-Link DGS-1008P Switch 8 Ports Gigabit '
-date: 2021-02-20 08:40:56
-image: 'https://m.media-amazon.com/images/I/31RIctyr0BL._SL200_.jpg'
+date: 2021-02-22 05:54:12
+image: 'https://m.media-amazon.com/images/I/31RIctyr0BL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,23 +19,23 @@ flag: '🇫🇷'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21'
 descuento: '43.06'
-average: '62.1571428571429'
+average: '61.44'
 ---
 
 Vous avez [D-Link DGS-1008P Switch 8 Ports Gigabit POE 10/100/1000mbps - Idéal Partage de Connexion et Mise en Réseau Small/Home Office](https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21)  à  43.06 % de réduction, prix final  56.42 EUR (original: 99.09 EUR) ici:
 
-[![D-Link DGS-1008P Switch 8 Ports Gigabit ](https://m.media-amazon.com/images/I/31RIctyr0BL._SL200_.jpg)](https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21)
+[![D-Link DGS-1008P Switch 8 Ports Gigabit ](https://m.media-amazon.com/images/I/31RIctyr0BL._SL400_.jpg)](https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21)
 
 ℹ️:
 
-- Silencieux et sans ventilateur, il convient à tout type d’environnement
-- Périphérique : de 0 à 50 °C.Adaptateur secteur externe : de 0 à 40 °C
-- prise en charge des trames étendues jusqu’à 9 720 Koctets
-- 8 ports Gigabit 10/100/1000 Mbps, dont 4 PoE
-- Contrôle de flux IEEE 802.3x
 - Détection croisée MDI/MDIX automatique pour tous les ports
-- Fonctionnement plug-and-play
+- Silencieux et sans ventilateur, il convient à tout type d’environnement
+- prise en charge des trames étendues jusqu’à 9 720 Koctets
+- Périphérique : de 0 à 50 °C.Adaptateur secteur externe : de 0 à 40 °C
+- Contrôle de flux IEEE 802.3x
 - prise en charge du diagnostic des câbles
+- Fonctionnement plug-and-play
 - Mode de transmission bidirectionnelle half duplex/full duplex pour les vitesses ethernet/Fast ethernet
+- 8 ports Gigabit 10/100/1000 Mbps, dont 4 PoE
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004FJSST2/?tag=tolees0d-21)
