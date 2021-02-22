@@ -28,10 +28,10 @@ Vous avez [EBTOOLS Phares antibrouillard de la Moto LED  Lampe de Conduite auxil
 
 ℹ️:
 
-- 【Coque en alliage daluminium】 Les projecteurs à LED pour moto sont fabriqués à partir dalliage daluminium et de matériaux ABS sélectionnés, avec de bonnes fonctions anti-corrosion et antirouille, un radiateur résistant à lusure et durable et ultra-haut pour assurer la dissipation thermique. Dissipation thermique plus efficace que le corps de la lampe.
-- 【Plug and play】Remplacement direct, plug and play, pas besoin de modifier. Il peut parfaitement remplacer les antibrouillards LED endommagés ou anciens. Ceci est votre accessoire de voiture idéal
-- 【Conçu pour BMW】Large gamme dapplications, particulièrement adapté pour BMW R1200GS adv F800GS F700GS F650gs. Puissance: 40 W, température de couleur: 6000 K, température de fonctionnement: -45 ℃ -85 ℃
-- 【Haute luminosité】Éclairage LED à œil dange super brillant, haute intensité de pénétration, dureté élevée, offre une visibilité maximale. Élargissez le niveau déclairage, évitez déblouir le véhicule et améliorez considérablement la sécurité et la fiabilité
 - 【Étanche, anti-corrosion】La lampe antibrouillard haute LED pour moto a des fonctions antichoc, étanche et anti-corrosion. Il peut être utilisé sous de fortes pluies ou dans des environnements difficiles. Il est également lumineux la nuit et pendant la journée. Il peut améliorer efficacement la visibilité la nuit ou par mauvais temps, réduire la consommation dénergie et les économies dénergie, et durer
+- 【Coque en alliage daluminium】 Les projecteurs à LED pour moto sont fabriqués à partir dalliage daluminium et de matériaux ABS sélectionnés, avec de bonnes fonctions anti-corrosion et antirouille, un radiateur résistant à lusure et durable et ultra-haut pour assurer la dissipation thermique. Dissipation thermique plus efficace que le corps de la lampe.
+- 【Conçu pour BMW】Large gamme dapplications, particulièrement adapté pour BMW R1200GS adv F800GS F700GS F650gs. Puissance: 40 W, température de couleur: 6000 K, température de fonctionnement: -45 ℃ -85 ℃
+- 【Plug and play】Remplacement direct, plug and play, pas besoin de modifier. Il peut parfaitement remplacer les antibrouillards LED endommagés ou anciens. Ceci est votre accessoire de voiture idéal
+- 【Haute luminosité】Éclairage LED à œil dange super brillant, haute intensité de pénétration, dureté élevée, offre une visibilité maximale. Élargissez le niveau déclairage, évitez déblouir le véhicule et améliorez considérablement la sécurité et la fiabilité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XGL5GY2/?tag=tolees0d-21)
