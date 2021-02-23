@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '51.43 % rabais sur Timberland Killington  Sneakers Montante'
-date: 2021-02-21 18:20:27
-image: 'https://m.media-amazon.com/images/I/415tHcjZJ7L._SL200_.jpg'
+date: 2021-02-23 12:26:12
+image: 'https://m.media-amazon.com/images/I/415tHcjZJ7L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,17 +19,17 @@ flag: '🇫🇷'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21'
 descuento: '51.43'
-average: '71.5584615384613'
+average: '71.3848780487803'
 ---
 
 Vous avez [Timberland Killington  Sneakers Montantes Homme  Jaune Wheat Nubuck  43 EU](https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21)  à  51.43 % de réduction, prix final  68.0 EUR (original: 140.0 EUR) ici:
 
-[![Timberland Killington  Sneakers Montante](https://m.media-amazon.com/images/I/415tHcjZJ7L._SL200_.jpg)](https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21)
+[![Timberland Killington  Sneakers Montante](https://m.media-amazon.com/images/I/415tHcjZJ7L._SL400_.jpg)](https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21)
 
 ℹ️:
 
-- Matériau de la semelle : caoutchouc.
-- Fermeture : lacets.
 - Doublure : tissu.
+- Fermeture : lacets.
+- Matériau de la semelle : caoutchouc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01JDV4X36/?tag=tolees0d-21)
