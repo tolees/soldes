@@ -29,9 +29,9 @@ C'est en vente [Gamesir T1s - Manette de Jeu 2.4GHz  Manette sans Fil Bluetooth 
 ℹ️:
 
 - Autres: Le dongle 2.4GHz est intégré sur la manette; Le support intégré est compatible avec des smartphones de 3.5~6 pouces.
-- Expérience Réelle: Haute sensibilité & Boutons précis & 2 Moteurs de Vibrations vous offrent une expérience de jeu excellente.
-- Compatibilité: Compatible avec Smartphone d’Android, PC, PS3, Smart-TV, VR. NE.
-- Connections: Connectée par Bluetooth/2.4GHz/Fil, mais Bluetooth connexion compatible seulement avec Android, NON avec WINDOWS!
 - Design Distingué: Distribution de boutons confortable & Support intégré & Poignées texturés en caoutchouc & Boutons rétro-éclairés.
+- Expérience Réelle: Haute sensibilité & Boutons précis & 2 Moteurs de Vibrations vous offrent une expérience de jeu excellente.
+- Connections: Connectée par Bluetooth/2.4GHz/Fil, mais Bluetooth connexion compatible seulement avec Android, NON avec WINDOWS!
+- Compatibilité: Compatible avec Smartphone d’Android, PC, PS3, Smart-TV, VR. NE.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XBXHG41/?tag=tolees0d-21)
