@@ -28,8 +28,8 @@ C'est en vente [Clarks  Desert Boots Homme  Noir Poli  41 EU](https://www.amazon
 
 ℹ️:
 
-- Matériau intérieur : cuir
 - Matériau extérieur : cuir
 - Semelle : caoutchouc
+- Matériau intérieur : cuir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MJ7GNXK/?tag=tolees0d-21)
