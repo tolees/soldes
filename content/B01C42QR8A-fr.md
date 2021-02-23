@@ -28,10 +28,10 @@ Vous avez [Smoby - Tracteur Farmer Max + Remorque - Tractopelle Enfant - Siège 
 
 ℹ️:
 
-- A partir de 3 ans
-- Fabrication française
-- Volant avec klaxon, siège réglable
 - Pelle à lavant qui se soulève, capot ouvrable
 - Tracteur à pédales avec remorque détachable
+- Fabrication française
+- A partir de 3 ans
+- Volant avec klaxon, siège réglable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01C42QR8A/?tag=tolees0d-21)

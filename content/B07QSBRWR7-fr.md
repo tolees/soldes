@@ -29,9 +29,9 @@ C'est en vente [Razer Blade 15 Advanced Model 2019  15.6 Inch FullHD Display  Ga
 ℹ️:
 
 - Mac OS High Sierra 10.13.4 ou version ultérieure et carte Graphique AMD compatible avec macos High Sierra les systèmes Windows 10 nécessitent un support Graphique externe (eGFX) avec RS4 ou supérieur et une carte graphique NVIDIA ou AMD compatible
-- 27 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
+- Transforme les ordinateurs portables Thunderbolt 3 en un système de bureau avec 4 ports USB, Gigabit Ethernet et éclairage Razer Chroma.
 - Augmentez les performances dun ordinateur portable Thunderbolt 3 en prenant en charge jusquà 3 cartes graphiques de bureau PCIe à fente large. Carte Graphique vendue séparément
 - Article en solde ! Cet article est soldé dans la limite du nombre d’unités indiqué ci-dessous. Une fois ces unités vendues, cet article ne sera plus soldé.
-- Transforme les ordinateurs portables Thunderbolt 3 en un système de bureau avec 4 ports USB, Gigabit Ethernet et éclairage Razer Chroma.
+- 27 unité(s) de cet article soldée(s) à partir du 20 janvier 2021 8h (uniquement sur les unités vendues et expédiées par Amazon)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QSBRWR7/?tag=tolees0d-21)
