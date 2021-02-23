@@ -28,10 +28,10 @@ Vous avez [NB North Bayou Monitor Desk Mount Stand Bras de Moniteur à Mouvement
 
 ℹ️:
 
-- VESA 75x75, 100x100, visserie fournie. Fixation par pince pour bureau, passe-câble
 - Support de bureau pour écran PC 43-69 cm / 17-27" avec ressort à gaz. Charge maxi supportée : 2-9 kg
-- Fabricant de renom, rapport prix-qualité sans concurrence. Certificat ISO 9001. Garantie 2 ans.
+- VESA 75x75, 100x100, visserie fournie. Fixation par pince pour bureau, passe-câble
 - Inclinaison verticale : +80 / -30 degrés, PIVOT 360, réglage haut-bas : 0-260 mm, débattement jusquà 535 mm
 - Coloris : noir, qualité supérieure. Peinture poudre.
+- Fabricant de renom, rapport prix-qualité sans concurrence. Certificat ISO 9001. Garantie 2 ans.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AI2YGK4/?tag=tolees0d-21)

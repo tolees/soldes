@@ -28,10 +28,10 @@ C'est en vente [Potensic Mini Drone A20 pour Enfants Avion Hélicoptère avec 3 
 
 ℹ️:
 
-- ✈Beaucoup damusement✈ Idéal cadeau pour les enfants, les enfants adorent le mini drone. Obtenez un joli jouet pour vos enfants maintenant.
-- ✈Temps de Vol plus Long✈ 3 piles rechargeables peuvent fournir près de 16 minutes dutilisation après une charge complète.
-- ✈Rapide et Stable✈ 3 vitesses réglables sont disponibles. Grâce aux derniers systèmes de contrôle de vol Gyro à 6 axes, plus stables pendant le vol.
 - ✈ Facile à voler ✈ Petit volume, décollage / atterrissage à une touche, le maintien de laltitude facilite le vol.
 - ✈Mode sans tête✈ Le mode sans tête vous permet de piloter facilement le drone, ne vous inquiétez pas de la direction du mini drone.
+- ✈Rapide et Stable✈ 3 vitesses réglables sont disponibles. Grâce aux derniers systèmes de contrôle de vol Gyro à 6 axes, plus stables pendant le vol.
+- ✈Temps de Vol plus Long✈ 3 piles rechargeables peuvent fournir près de 16 minutes dutilisation après une charge complète.
+- ✈Beaucoup damusement✈ Idéal cadeau pour les enfants, les enfants adorent le mini drone. Obtenez un joli jouet pour vos enfants maintenant.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08D3L89TD/?tag=tolees0d-21)

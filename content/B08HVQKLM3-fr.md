@@ -29,9 +29,9 @@ C'est en vente [AUKEY Écouteurs Bluetooth sans Fil Lecture et Pause Automatique
 ℹ️:
 
 - Intelligent Control: Dual IR proximity sensors allow the earphones to play automatically when worn. Multi-functional touch control allows you to manage music and calls intuitively
-- Low Latency Mode: Ultra-low latency technology accelerates audio processing for smooth sound synchronization when watching videos or playing game
-- True Wireless Audio: The aerodynamic ergonomic design combined with quality features such as ultra-low latency, IPX5 waterproof and the use of a single headset makes this product a perfect partner for commuters, trainers or just for everyday life
-- Box Contents: AUKEY EP-T31 True Wireless Earphones, Charging Case, Three Pairs of Earbuds (S/M/L), USB-A to C Cable, User Manual
 - Powerful Charging Case: With a single charge, the earphones will work for over 4 hours, while the charging case can reach 30 operations. Charge the case using wireless charging mode or USB-C fast charging via the cable
+- Low Latency Mode: Ultra-low latency technology accelerates audio processing for smooth sound synchronization when watching videos or playing game
+- Box Contents: AUKEY EP-T31 True Wireless Earphones, Charging Case, Three Pairs of Earbuds (S/M/L), USB-A to C Cable, User Manual
+- True Wireless Audio: The aerodynamic ergonomic design combined with quality features such as ultra-low latency, IPX5 waterproof and the use of a single headset makes this product a perfect partner for commuters, trainers or just for everyday life
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HVQKLM3/?tag=tolees0d-21)

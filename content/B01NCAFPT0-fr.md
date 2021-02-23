@@ -28,7 +28,7 @@ Vous avez [Puma Basket Heart Patent  Baskets Basses Femme  Noir  Black-Black   3
 
 ℹ️:
 
-- Lacets en satin et lacets tissés en seconde option
 - Matière extérieure: Synthetic Semelle: Caoutchouc
+- Lacets en satin et lacets tissés en seconde option
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01NCAFPT0/?tag=tolees0d-21)

@@ -29,14 +29,14 @@ Vous avez [Crosscall Shark-X3 Téléphone portable débloqué 3G+  Ecran: 2 4 po
 ℹ️:
 
 - Etanche & résistant
-- Lecteur micro SD jusquà 32 Go
-- Flottant
-- Sifflet : Signal jusquà 1000 db
-- Lampe torche
 - Ecran TFT 2,4 pouces
+- Sifflet : Signal jusquà 1000 db
+- Appareil Photo 5 MP / Flash LED
+- Lecteur micro SD jusquà 32 Go
+- Lampe torche
+- Flottant
 - Grande autonomie : batterie 950 mAh
 - Techonologie Keep Alive
 - Connectivité : 3G+ / Bluetooth ; radio FM
-- Appareil Photo 5 MP / Flash LED
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21)
