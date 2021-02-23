@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '26.05 % rabais sur Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra '
-date: 2021-02-21 12:31:15
-image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg'
+date: 2021-02-23 19:10:57
+image: 'https://m.media-amazon.com/images/I/21pokmSsDNL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,21 +19,21 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21'
 descuento: '26.05'
-average: '197.868823529412'
+average: '197.142777777778'
 ---
 
 Vous avez [Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra HD](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)  à  26.05 % de réduction, prix final  184.8 EUR (original: 249.9 EUR) ici:
 
-[![Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra ](https://m.media-amazon.com/images/I/21pokmSsDNL._SL200_.jpg)](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)
+[![Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra ](https://m.media-amazon.com/images/I/21pokmSsDNL._SL400_.jpg)](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)
 
 ℹ️:
 
-- Accédez à une multitude de contenus 4K grâce aux services en streaming accessible via la connexion wifi du lecteur
-- Son design fin sadapte parfaitement à votre meuble TV
+- Fonction dimage: True Cinema 24p, 4K haut de gamme (60p), Deep color (12 bits)
 - Vivez lexpérience ultime du 4K HDR avec HDR10 et Dolby Vison* pour des détails, des couleurs, et une luminosité époustouflants. Format audio: AAC (.AAC, .mka), AIFF (.aiff, .aif), ALAC (.m4a), Dolby Digital (.ac3, .mka), DSD - DSDIFF / DSD (.dff, .dsf), FLAC (.flac, .fla), HEAAC v.1 / v.2 / niveau2, LPCM (.mka), Monkeys Audio, Vorbis, WMA10 Pro, Norme WMA9 (.WMA)
 - Prise en charge dun large choix de contenus vidéo et audio tels que Dolby Atmos et DTS: X, DSD, flac, mp3…
-- Consommation électrique (mode veille): 0,4 W
 - Consommation électrique: 15 W en fonctionnement, 0,35 W en veille
-- Fonction dimage: True Cinema 24p, 4K haut de gamme (60p), Deep color (12 bits)
+- Accédez à une multitude de contenus 4K grâce aux services en streaming accessible via la connexion wifi du lecteur
+- Son design fin sadapte parfaitement à votre meuble TV
+- Consommation électrique (mode veille): 0,4 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)

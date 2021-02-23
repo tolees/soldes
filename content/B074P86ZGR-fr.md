@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '41.49 % rabais sur Crosscall Shark-X3 Téléphone portable dé'
-date: 2020-08-06 05:05:16
+title: '39.43 % rabais sur Crosscall Shark-X3 Téléphone portable dé'
+date: 2021-02-23 19:56:56
 image: 'https://m.media-amazon.com/images/I/41euzorABUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,24 +9,34 @@ author: ring
 slug: 'B074P86ZGR-fr Crosscall Shark-X3 Téléphone portable débloqué 3G+ Ecran:...'
 sku: 'B074P86ZGR-fr'
 tags: [  ]
-actualPrice: 58.5 EUR
+actualPrice: 60.56 EUR
 currency: EUR
-price: 58.5
+price: 60.56
 comparePrice: 99.99 EUR
-prodname: 'Crosscall Shark-X3 Téléphone portable débloqué 3G+  Ecran: 2 4 pouces - 64 Go ROM - Single SIM  Noir'
+prodname: 'Crosscall Shark-X3 Téléphone portable débloqué 3G+  Ecran: 2 4 pouces - 128 Mo ROM - Flash : 64 Mo - Single SIM  Noir'
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: 'CROSSCALL'
 buyurl: 'https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21'
-descuento: '41.49'
-average: '58.5'
+descuento: '39.43'
+average: '59.53'
 ---
 
-Vous avez [Crosscall Shark-X3 Téléphone portable débloqué 3G+  Ecran: 2 4 pouces - 64 Go ROM - Single SIM  Noir](https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21)  à  41.49 % de réduction, prix final  58.5 EUR (original: 99.99 EUR) ici:
+Vous avez [Crosscall Shark-X3 Téléphone portable débloqué 3G+  Ecran: 2 4 pouces - 128 Mo ROM - Flash : 64 Mo - Single SIM  Noir](https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21)  à  39.43 % de réduction, prix final  60.56 EUR (original: 99.99 EUR) ici:
 
 [![Crosscall Shark-X3 Téléphone portable dé](https://m.media-amazon.com/images/I/41euzorABUL._SL400_.jpg)](https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21)
 
 ℹ️:
 
+- Etanche & résistant
+- Lecteur micro SD jusquà 32 Go
+- Flottant
+- Sifflet : Signal jusquà 1000 db
+- Lampe torche
+- Ecran TFT 2,4 pouces
+- Grande autonomie : batterie 950 mAh
+- Techonologie Keep Alive
+- Connectivité : 3G+ / Bluetooth ; radio FM
+- Appareil Photo 5 MP / Flash LED
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B074P86ZGR/?tag=tolees0d-21)

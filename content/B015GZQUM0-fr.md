@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '36.77 % rabais sur Timberland Bradstreet Chukka Leather  Bo'
-date: 2021-02-21 06:55:03
-image: 'https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg'
+date: 2021-02-23 19:37:23
+image: 'https://m.media-amazon.com/images/I/31LKGEgxcnL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇫🇷'
 brand: 'Timberland'
 buyurl: 'https://www.amazon.fr/dp/B015GZQUM0/?tag=tolees0d-21'
 descuento: '36.77'
-average: '71.0948611111111'
+average: '71.5658108108108'
 ---
 
 Vous avez [Timberland Bradstreet Chukka Leather  Bottines Homme  Marron  MD Brown Full Grain   43 EU](https://www.amazon.fr/dp/B015GZQUM0/?tag=tolees0d-21)  à  36.77 % de réduction, prix final  88.52 EUR (original: 140.0 EUR) ici:
 
-[![Timberland Bradstreet Chukka Leather  Bo](https://m.media-amazon.com/images/I/31LKGEgxcnL._SL200_.jpg)](https://www.amazon.fr/dp/B015GZQUM0/?tag=tolees0d-21)
+[![Timberland Bradstreet Chukka Leather  Bo](https://m.media-amazon.com/images/I/31LKGEgxcnL._SL400_.jpg)](https://www.amazon.fr/dp/B015GZQUM0/?tag=tolees0d-21)
 
 ℹ️:
 
-- Composition : voir description
-- Remarque: le "R" représente une marque déposée, qui ne doit être visible que sur une chaussure. Le lieu peut être variable
-- Matériau extérieur : cuir
-- Fermeture : lacets
 - Talon plat
+- Fermeture : lacets
+- Matériau extérieur : cuir
+- Remarque: le "R" représente une marque déposée, qui ne doit être visible que sur une chaussure. Le lieu peut être variable
+- Composition : voir description
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015GZQUM0/?tag=tolees0d-21)

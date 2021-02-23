@@ -28,10 +28,10 @@ C'est en vente [measy - Wireless HDMI Transmitter Receiver Video 200m HD Sender 
 
 ℹ️:
 
+- La résolution est jusquà 1080p @ 60Hz
 - HDMI1.4, HDCP1.4
+- La distance de transmission est jusquà 200 m （Dans lespace ouvert sans interférence）
 - Le temps de latence est de 150 ms, fréquence bibande 5,8 GHz et 2,4 GHz
 - Le canal peut être sélectionné. Un écran affiche le canal
-- La résolution est jusquà 1080p @ 60Hz
-- La distance de transmission est jusquà 200 m （Dans lespace ouvert sans interférence）
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BY7Y4F1/?tag=tolees0d-21)

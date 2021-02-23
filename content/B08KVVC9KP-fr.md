@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Playmobil - Volkswagen Coccinelle avec 20.46 % rabais '
-date: 2021-02-21 12:39:53
-image: 'https://m.media-amazon.com/images/I/51aDmV7nfQL._SL200_.jpg'
+date: 2021-02-23 19:23:03
+image: 'https://m.media-amazon.com/images/I/51aDmV7nfQL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B08KVVC9KP/?tag=tolees0d-21'
 descuento: '20.46'
-average: '41.5360416666667'
+average: '41.2742000000001'
 ---
 
 C'est en vente [Playmobil - Volkswagen Coccinelle](https://www.amazon.fr/dp/B08KVVC9KP/?tag=tolees0d-21)  à  20.46 % de réduction, prix final  34.99 EUR (original: 43.99 EUR) ici:
 
-[![Playmobil - Volkswagen Coccinelle](https://m.media-amazon.com/images/I/51aDmV7nfQL._SL200_.jpg)](https://www.amazon.fr/dp/B08KVVC9KP/?tag=tolees0d-21)
+[![Playmobil - Volkswagen Coccinelle](https://m.media-amazon.com/images/I/51aDmV7nfQL._SL400_.jpg)](https://www.amazon.fr/dp/B08KVVC9KP/?tag=tolees0d-21)
 
 ℹ️:
 

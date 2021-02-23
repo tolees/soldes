@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'D-Link DGS-105 Switch 5 Ports Gigabit Me avec 51.21 % rabais '
-date: 2021-02-21 18:32:33
-image: 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg'
+date: 2021-02-23 19:37:11
+image: 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,22 +19,22 @@ flag: '🇫🇷'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21'
 descuento: '51.21'
-average: '16.1388888888888'
+average: '15.8609999999999'
 ---
 
 C'est en vente [D-Link DGS-105 Switch 5 Ports Gigabit Metallique 10/100/1000mbps - Idéal Partage de Connexion et Mise en Réseau Small/Home Office](https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21)  à  51.21 % de réduction, prix final  13.36 EUR (original: 27.38 EUR) ici:
 
-[![D-Link DGS-105 Switch 5 Ports Gigabit Me](https://m.media-amazon.com/images/I/3147mnzyuGL._SL200_.jpg)](https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21)
+[![D-Link DGS-105 Switch 5 Ports Gigabit Me](https://m.media-amazon.com/images/I/3147mnzyuGL._SL400_.jpg)](https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21)
 
 ℹ️:
 
+- Silencieux et sans ventilateur, il convient à tout type denvironnement
+- Architecture non bloquante : plein débit simultané sur tous les ports
+- Technologie D-Link Green garantissant des économies dénergie et une durée de vie du produit plus longue
+- Fonctionnement Plug-and-Play
+- Modèle robuste avec boîtier métallique, idéal pour les sites industriels à risques
+- Fonction de diagnostic pour détecter les câbles réseau défectueux
 - Files dattente de qualité de service pour lorganisation du trafic par priorités
 - 5 ports Gigabit Ethernet
-- Architecture non bloquante : plein débit simultané sur tous les ports
-- Fonctionnement Plug-and-Play
-- Technologie D-Link Green garantissant des économies dénergie et une durée de vie du produit plus longue
-- Fonction de diagnostic pour détecter les câbles réseau défectueux
-- Modèle robuste avec boîtier métallique, idéal pour les sites industriels à risques
-- Silencieux et sans ventilateur, il convient à tout type denvironnement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Creepshow Saison 1 [Blu-Ray] avec 19.71 % rabais '
-date: 2021-02-21 18:35:26
-image: 'https://m.media-amazon.com/images/I/51Z4k1M9gXL._SL200_.jpg'
+date: 2021-02-23 19:27:55
+image: 'https://m.media-amazon.com/images/I/51Z4k1M9gXL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08KWN3HRZ/?tag=tolees0d-21'
 descuento: '19.71'
-average: '25.9484848484848'
+average: '25.844'
 ---
 
 C'est en vente [Creepshow Saison 1 [Blu-Ray]](https://www.amazon.fr/dp/B08KWN3HRZ/?tag=tolees0d-21)  à  19.71 % de réduction, prix final  24.12 EUR (original: 30.04 EUR) ici:
 
-[![Creepshow Saison 1 [Blu-Ray]](https://m.media-amazon.com/images/I/51Z4k1M9gXL._SL200_.jpg)](https://www.amazon.fr/dp/B08KWN3HRZ/?tag=tolees0d-21)
+[![Creepshow Saison 1 [Blu-Ray]](https://m.media-amazon.com/images/I/51Z4k1M9gXL._SL400_.jpg)](https://www.amazon.fr/dp/B08KWN3HRZ/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Generique - Harry Potter - l Intégrale d avec 50.29 % rabais '
-date: 2021-02-21 06:52:59
-image: 'https://m.media-amazon.com/images/I/51IDtBm4yhL._SL200_.jpg'
+date: 2021-02-23 19:30:50
+image: 'https://m.media-amazon.com/images/I/51IDtBm4yhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇫🇷'
 brand: 'Generique'
 buyurl: 'https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21'
 descuento: '50.29'
-average: '26.1687692307695'
+average: '26.0745454545457'
 ---
 
 C'est en vente [Generique - Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers de J.K. Rowling - Coffret Blu-Ray](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)  à  50.29 % de réduction, prix final  19.95 EUR (original: 40.13 EUR) ici:
 
-[![Generique - Harry Potter - l Intégrale d](https://m.media-amazon.com/images/I/51IDtBm4yhL._SL200_.jpg)](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)
+[![Generique - Harry Potter - l Intégrale d](https://m.media-amazon.com/images/I/51IDtBm4yhL._SL400_.jpg)](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)
 
 ℹ️:
 
+- année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
 - année 6 : Flemish, Slovak, Catalan, English, Portuguese from Brasilia, Dutch, French, German, Italian, Castilian
+- année 2 à 5 : English, French, French from Quebec, Castilian, Catalan, Danish, Dutch, Flemish, German, Italian, Spanish, Swedish
 - année 7 : English, French, Italian, German,Flemish, Dutch
 - Disques Bluray
-- année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
-- année 2 à 5 : English, French, French from Quebec, Castilian, Catalan, Danish, Dutch, Flemish, German, Italian, Spanish, Swedish
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Le Village - Les Li avec 15.02 % rabais '
-date: 2021-02-22 05:52:47
+date: 2021-02-23 19:29:39
 image: 'https://m.media-amazon.com/images/I/51H3SJ5x5AL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B004E1Q7TY/?tag=tolees0d-21'
 descuento: '15.02'
-average: '8.83432989690723'
+average: '8.82214285714287'
 ---
 
 C'est en vente [Sylvanian Families - Le Village - Les Lits Superposés A 3 Couchettes Bébés - 4448 - Meubles et Accessoires Poupée - Mini Poupées](https://www.amazon.fr/dp/B004E1Q7TY/?tag=tolees0d-21)  à  15.02 % de réduction, prix final  7.64 EUR (original: 8.99 EUR) ici:

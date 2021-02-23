@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Playmobil - Maison Moderne - 9266 avec 40.00 % rabais '
-date: 2021-02-21 06:59:56
-image: 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg'
+date: 2021-02-23 19:37:27
+image: 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,17 +19,17 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21'
 descuento: '40.00'
-average: '73.1149358974361'
+average: '73.031337579618'
 ---
 
 C'est en vente [Playmobil - Maison Moderne - 9266](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)  à  40.00 % de réduction, prix final  59.99 EUR (original: 99.99 EUR) ici:
 
-[![Playmobil - Maison Moderne - 9266](https://m.media-amazon.com/images/I/51MQQh7SwzL._SL200_.jpg)](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)
+[![Playmobil - Maison Moderne - 9266](https://m.media-amazon.com/images/I/51MQQh7SwzL._SL400_.jpg)](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)
 
 ℹ️:
 
-- Toutes les portes peuvent être ouvertes dans les deux directions
-- Contient 1 maison, 2 personnages, 1 chien et des accessoires (barbecue, table, chaises, transat, pot de fleurs Lechuza, vaisselle)
 - Comprend du mobilier pour la terrasse
+- Contient 1 maison, 2 personnages, 1 chien et des accessoires (barbecue, table, chaises, transat, pot de fleurs Lechuza, vaisselle)
+- Toutes les portes peuvent être ouvertes dans les deux directions
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)
