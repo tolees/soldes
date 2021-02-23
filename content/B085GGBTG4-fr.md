@@ -28,11 +28,11 @@ Vous avez [HUAWEI WATCH GT 2e Montre Connectée  Ecran Tactile AMOLED HD de 1.39
 
 ℹ️:
 
+- 85 modes dentrainement personnalisés : vous trouverez forcément une activité qui vous correspond avec des modes variés tels que le parkour, la danse ou le skateboard
 - Système de positionnement GPS & GLONASS : jouissez de données de suivi et de localisation extrêmement précises pour 15 activités sportives, parmi lesquelles lescalade, la course, la natation ou le cyclisme. Ainsi, plus besoin demporter votre téléphone avec vous pour le suivi de vos performances en extérieur
 - VO2Max, 5ATM et bien plus : la HUAWEI WATCH GT 2e embarque de nombreuses fonctionnalités utiles telles que le contrôle de la VO2Max, la surveillance du rythme cardiaque à chaque instant ou le suivi et lanalyse du sommeil avec la technologie HHUAWEI TruSleep 2.0
+- Détection automatique de 6 activités sportives : attaquez simplement votre entrainement et la HUAWEI WATCH GT 2e la détectera en temps réel, pour commencer à suivre vos performances. Disponible pour 6 modes dentrainement : course en intérieur, course en extérieur, marche en intérieur, marche en extérieur, vélo élliptique et rameur
 - Autonomie de 2 semaines : la HUAWEI WATCH GT 2e embarque la puce Kirin A1, qui permet une gestion optimisée de lénergie. Pour une autonomie décuplée
 - Ecran tactile AMOLED HD de 1.39 pouces : le cadre en acier inoxydable de la HUAWEI WATCH GT 2e se marie parfaitement avec les bracelets colorés proposés. Et grâce à la multitude de cadrans, votre HUAWEI WATCH GT 2e sera toujours à votre image
-- Détection automatique de 6 activités sportives : attaquez simplement votre entrainement et la HUAWEI WATCH GT 2e la détectera en temps réel, pour commencer à suivre vos performances. Disponible pour 6 modes dentrainement : course en intérieur, course en extérieur, marche en intérieur, marche en extérieur, vélo élliptique et rameur
-- 85 modes dentrainement personnalisés : vous trouverez forcément une activité qui vous correspond avec des modes variés tels que le parkour, la danse ou le skateboard
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085GGBTG4/?tag=tolees0d-21)
