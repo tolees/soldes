@@ -29,9 +29,9 @@ Vous avez [Panama Jack Bambina Igloo  Bottes hautes Femme  Noir  Negro B17   36 
 ℹ️:
 
 - Hauteur du talon : 3 cm.
-- Principal Matériau : Nappa, doublure : Natural Fur/Real Fur Matériau de la semelle : caoutchouc naturel intérieur amovible Insert : oui
 - Fabriqué en Espagne.
-- Résistant à leau.
+- Principal Matériau : Nappa, doublure : Natural Fur/Real Fur Matériau de la semelle : caoutchouc naturel intérieur amovible Insert : oui
 - Panama Jack Bottines classiques pour femme Negro / Black
+- Résistant à leau.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079H8WKY2/?tag=tolees0d-21)
