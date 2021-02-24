@@ -28,10 +28,10 @@ Vous avez [Seb P4624922 Clipso Minut Easy Autocuiseur 9 L Inox + Kit Stérilisat
 
 ℹ️:
 
+- Inclut deux supports à bocaux pour stériliser vos préparations, évitant le contact direct bocaux/cuve, stabilisant les bocaux, et permettant de jouer la superposition ; permet de stériliser 3 bocaux d1 L, ou 8 bocaux de 250m
 - Conçu et fabriqué en France, avec toute lexpertise et le savoir-faire français.
+- Conçu pour durer: La cuve en inox bénéficie dune garantie de 10 ans.
 - Facile à utiliser: Ouverture et fermeture très facile en nutilisant quune seule main.
 - La stérilisation à portée de tous:	Contient un livret de 50 recettes de bocaux et confitures à la portée de tous, avec conseils pas à pas, et temps de cuisson spécifiquement adaptés à la stérilisation par autocuiseur.
-- Inclut deux supports à bocaux pour stériliser vos préparations, évitant le contact direct bocaux/cuve, stabilisant les bocaux, et permettant de jouer la superposition ; permet de stériliser 3 bocaux d1 L, ou 8 bocaux de 250m
-- Conçu pour durer: La cuve en inox bénéficie dune garantie de 10 ans.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CN4TWKX/?tag=tolees0d-21)

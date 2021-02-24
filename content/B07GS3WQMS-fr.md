@@ -28,10 +28,10 @@ C'est en vente [BIC Ecriture My 4 Colours Box - Stylos-Billes Rétractables à P
 
 ℹ️:
 
+- Leur design est iconique : un corps rond bicolore et un clip sur le coté pour laccrocher à vos poches ou cahiers. Simple comme BIC
+- Contient 3 stylos BIC 4 Couleurs Shine à encres classiques et 2 stylos BIC 4 Couleur Fun à encres fantaisie
+- Gage de qualité, ces stylos-bille sont fabriqués en France dans lune des usines de lentreprise BIC avec un savoir-faire unique
 - Le coffret My 4 Colours Box réunit 5 stylos BIC 4 Couleurs dans une jolie boîte en métal qui ravira tous les fans de cette icône BIC
 - Leurs pointes moyennes permettent une écriture propre et précise : de quoi écrire ou organiser vos notes dun code couleur dynamisant
-- Contient 3 stylos BIC 4 Couleurs Shine à encres classiques et 2 stylos BIC 4 Couleur Fun à encres fantaisie
-- Leur design est iconique : un corps rond bicolore et un clip sur le coté pour laccrocher à vos poches ou cahiers. Simple comme BIC
-- Gage de qualité, ces stylos-bille sont fabriqués en France dans lune des usines de lentreprise BIC avec un savoir-faire unique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GS3WQMS/?tag=tolees0d-21)
