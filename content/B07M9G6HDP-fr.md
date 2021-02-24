@@ -28,9 +28,9 @@ Vous avez [Le Coq Sportif Break COCARDE  Baskets Mixte Adulte  Blanc  Optical Wh
 
 ℹ️:
 
-- Homme > Chaussures > Sneakers
-- Marque : Le Coq Sportif
-- Couleur : blanc
 - Référence : 1920070-40
+- Homme > Chaussures > Sneakers
+- Couleur : blanc
+- Marque : Le Coq Sportif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07M9G6HDP/?tag=tolees0d-21)
