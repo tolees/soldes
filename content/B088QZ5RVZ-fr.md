@@ -28,10 +28,10 @@ C'est en vente [Jambon Serrano Espagnol Réserve Duroc + Support à Jambon + Cou
 
 ℹ️:
 
-- Il sagit dun produit fabriqué à partir des meilleurs morceaux de porc sélectionnés pour obtenir un produit 100% naturel après le processus de salage et de séchage, ce qui permet dobtenir le meilleur arôme et le meilleur goût.
+- Il a une couleur caractéristique qui passe du rose au rouge pourpre dans la partie maigre, en plus de laspect brillant de la graisse. Il a également un goût délicat mais salé et un arôme agréable et caractéristique.
+- Présentation : jambon entier, avec os, peau et sabot. Boîte en carton pour un transit sûr. Conserver dans un endroit frais et sec, à labri de la lumière du soleil. Une fois ouvert, il est recommandé de le consommer dans un délai dun mois.
 - Ce savoureux jambon serrano est élaboré à partir dune excellente matière première, de gros jambons avec de la graisse interne, un peu de sel méditerranéen et un lent processus de maturation en plein air dans les hautes montagnes dEspagne où lair frais et sec produit une magnifique cure traditionnelle.
 - Ingrédients : Jambon de porc, sel de la mer Méditerranée. Cure 14 mois. Naturels, peu transformés et sans ingrédients artificiels. Ne contient pas de nitrates ou de nitrites, sauf ceux que lon trouve naturellement dans le sel marin.
-- Présentation : jambon entier, avec os, peau et sabot. Boîte en carton pour un transit sûr. Conserver dans un endroit frais et sec, à labri de la lumière du soleil. Une fois ouvert, il est recommandé de le consommer dans un délai dun mois.
-- Il a une couleur caractéristique qui passe du rose au rouge pourpre dans la partie maigre, en plus de laspect brillant de la graisse. Il a également un goût délicat mais salé et un arôme agréable et caractéristique.
+- Il sagit dun produit fabriqué à partir des meilleurs morceaux de porc sélectionnés pour obtenir un produit 100% naturel après le processus de salage et de séchage, ce qui permet dobtenir le meilleur arôme et le meilleur goût.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088QZ5RVZ/?tag=tolees0d-21)
