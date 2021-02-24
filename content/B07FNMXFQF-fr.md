@@ -28,10 +28,10 @@ C'est en vente [LEGO®-Technic Le bolide télécommandé Jeu de construction  9 
 
 ℹ️:
 
-- Le bolide télécommandé mesure plus de 17 cm de haut, 22 cm de long et 15 cm de large. Le bolide télécommandé mesure plus de 12 cm de haut, 20 cm de long et 19 cm de large.
 - Construisez le bolide télécommandé entièrement motorisé LEGO Technic.
-- Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - 324 pièces pour les filles et les garçons à partir de 9 ans.
+- Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
+- Le bolide télécommandé mesure plus de 17 cm de haut, 22 cm de long et 15 cm de large. Le bolide télécommandé mesure plus de 12 cm de haut, 20 cm de long et 19 cm de large.
 - Comprend un véhicule ultra-rapide entièrement motorisé et télécommandé avec des chenilles et de grands pignons arrière pour une accélération spectaculaire.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNMXFQF/?tag=tolees0d-21)
