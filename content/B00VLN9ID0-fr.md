@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '36.20 % rabais sur Levi s GRAPHIC SET-IN NECK  T-Shirt Homm'
-date: 2021-02-21 06:44:37
-image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg'
+date: 2021-02-24 00:35:05
+image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇫🇷'
 brand: 'Levis'
 buyurl: 'https://www.amazon.fr/dp/B00VLN9ID0/?tag=tolees0d-21'
 descuento: '36.20'
-average: '18.5141025641026'
+average: '18.4880710659899'
 ---
 
 Vous avez [Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC H215-HM DRESS BLUES GRAPHIC H215-HM 36.3   X-Large](https://www.amazon.fr/dp/B00VLN9ID0/?tag=tolees0d-21)  à  36.20 % de réduction, prix final  15.95 EUR (original: 25.0 EUR) ici:
 
-[![Levi s GRAPHIC SET-IN NECK  T-Shirt Homm](https://m.media-amazon.com/images/I/31zg5k6nPaL._SL200_.jpg)](https://www.amazon.fr/dp/B00VLN9ID0/?tag=tolees0d-21)
+[![Levi s GRAPHIC SET-IN NECK  T-Shirt Homm](https://m.media-amazon.com/images/I/31zg5k6nPaL._SL400_.jpg)](https://www.amazon.fr/dp/B00VLN9ID0/?tag=tolees0d-21)
 
 ℹ️:
 
-- 100 % coton
-- Coupe Regular
-- Col rond
 - Logo imprimé sérigraphié sur l’avant
+- Coupe Regular
 - Manches courtes
+- Col rond
+- 100 % coton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VLN9ID0/?tag=tolees0d-21)

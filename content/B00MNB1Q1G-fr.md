@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'La Sultane de Saba - Eau de parfum Ambre avec 30.60 % rabais '
-date: 2021-02-21 07:12:53
-image: 'https://m.media-amazon.com/images/I/41uRui78PsL._SL200_.jpg'
+date: 2021-02-24 00:34:44
+image: 'https://m.media-amazon.com/images/I/41uRui78PsL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '49.97'
 
 C'est en vente [La Sultane de Saba - Eau de parfum Ambre Vanille Patchouli  100ml - Voyage sur la route des Épices - Traitement ayurvédique](https://www.amazon.fr/dp/B00MNB1Q1G/?tag=tolees0d-21)  à  30.60 % de réduction, prix final  49.97 EUR (original: 72.0 EUR) ici:
 
-[![La Sultane de Saba - Eau de parfum Ambre](https://m.media-amazon.com/images/I/41uRui78PsL._SL200_.jpg)](https://www.amazon.fr/dp/B00MNB1Q1G/?tag=tolees0d-21)
+[![La Sultane de Saba - Eau de parfum Ambre](https://m.media-amazon.com/images/I/41uRui78PsL._SL400_.jpg)](https://www.amazon.fr/dp/B00MNB1Q1G/?tag=tolees0d-21)
 
 ℹ️:
 

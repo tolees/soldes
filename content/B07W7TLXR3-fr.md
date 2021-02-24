@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'LEGO Star Wars  Coffret de bataille Mand avec 20.01 % rabais '
-date: 2021-02-21 18:23:18
-image: 'https://m.media-amazon.com/images/I/51-DXaK6fCL._SL200_.jpg'
+date: 2021-02-24 00:45:57
+image: 'https://m.media-amazon.com/images/I/51-DXaK6fCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,19 +19,19 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21'
 descuento: '20.01'
-average: '14.9913970588239'
+average: '14.9694890510953'
 ---
 
 C'est en vente [LEGO Star Wars  Coffret de bataille Mandalorien 4 avec 4 figurines  un speeder bike et un fort miniature  120 pièces  75267](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  11.99 EUR (original: 14.99 EUR) ici:
 
-[![LEGO Star Wars  Coffret de bataille Mand](https://m.media-amazon.com/images/I/51-DXaK6fCL._SL200_.jpg)](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)
+[![LEGO Star Wars  Coffret de bataille Mand](https://m.media-amazon.com/images/I/51-DXaK6fCL._SL400_.jpg)](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)
 
 ℹ️:
 
-- Inclut 4 figurines de guerrier mandaloriens Star Wars, chacune équipée dun fusil blaster à tenons
-- Un fort de défense avec un point dattache pour un fusil blaster, et un speeder bike
 - Les enfants peuvent construire une redoutable armée de Mandaloriens, recréer des scènes de la série télévisée Star Wars : The Mandalorian
-- Élargissez votre collection LEGO Star Wars avec ce formidable coffret de bataille
+- Un fort de défense avec un point dattache pour un fusil blaster, et un speeder bike
 - Tirer avec les tenons blaster, puis placez le tropper sur le speeder équipé de fusils à tenons
+- Élargissez votre collection LEGO Star Wars avec ce formidable coffret de bataille
+- Inclut 4 figurines de guerrier mandaloriens Star Wars, chacune équipée dun fusil blaster à tenons
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)

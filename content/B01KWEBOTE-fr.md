@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'NONAME - Le Hobbit et le seigneur des an avec 50.16 % rabais '
-date: 2021-02-21 12:32:13
-image: 'https://m.media-amazon.com/images/I/51YZDO-DGZL._SL200_.jpg'
+date: 2021-02-24 00:50:33
+image: 'https://m.media-amazon.com/images/I/51YZDO-DGZL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '25.0'
 
 C'est en vente [NONAME - Le Hobbit et le seigneur des anneaux la trilogie   6 films en version cinema   [Version Cinéma]](https://www.amazon.fr/dp/B01KWEBOTE/?tag=tolees0d-21)  à  50.16 % de réduction, prix final  25.0 EUR (original: 50.16 EUR) ici:
 
-[![NONAME - Le Hobbit et le seigneur des an](https://m.media-amazon.com/images/I/51YZDO-DGZL._SL200_.jpg)](https://www.amazon.fr/dp/B01KWEBOTE/?tag=tolees0d-21)
+[![NONAME - Le Hobbit et le seigneur des an](https://m.media-amazon.com/images/I/51YZDO-DGZL._SL400_.jpg)](https://www.amazon.fr/dp/B01KWEBOTE/?tag=tolees0d-21)
 
 ℹ️:
 
