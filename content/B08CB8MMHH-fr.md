@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.08 % rabais sur BRIKSMAX Kit de LED pour Lego La Maison '
-date: 2021-02-22 06:11:37
+date: 2021-02-24 18:26:49
 image: 'https://m.media-amazon.com/images/I/41gBOX11umL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'BRIKSMAX'
 buyurl: 'https://www.amazon.fr/dp/B08CB8MMHH/?tag=tolees0d-21'
 descuento: '23.08'
-average: '49.7848717948717'
+average: '49.7948780487804'
 ---
 
 Vous avez [BRIKSMAX Kit de LED pour Lego La Maison Blanche Architecture Compatible avec la Maquette Lego 21054  La Maquette de Construction n est Pas Incluse](https://www.amazon.fr/dp/B08CB8MMHH/?tag=tolees0d-21)  à  23.08 % de réduction, prix final  49.99 EUR (original: 64.99 EUR) ici:

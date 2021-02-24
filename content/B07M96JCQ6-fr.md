@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '28.01 % rabais sur Prise Intelligente Wi-Fi TECKIN 16A Mini'
-date: 2021-02-21 06:50:13
-image: 'https://m.media-amazon.com/images/I/41Qrd2RLmwL._SL200_.jpg'
+date: 2021-02-24 18:21:12
+image: 'https://m.media-amazon.com/images/I/41Qrd2RLmwL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '35.99'
 
 Vous avez [Prise Intelligente Wi-Fi TECKIN 16A Mini Smart Outlet Compatible avec Android et iOS Alexa  Echo et Echo Dot  Siri  Google Home](https://www.amazon.fr/dp/B07M96JCQ6/?tag=tolees0d-21)  à  28.01 % de réduction, prix final  35.99 EUR (original: 49.99 EUR) ici:
 
-[![Prise Intelligente Wi-Fi TECKIN 16A Mini](https://m.media-amazon.com/images/I/41Qrd2RLmwL._SL200_.jpg)](https://www.amazon.fr/dp/B07M96JCQ6/?tag=tolees0d-21)
+[![Prise Intelligente Wi-Fi TECKIN 16A Mini](https://m.media-amazon.com/images/I/41Qrd2RLmwL._SL400_.jpg)](https://www.amazon.fr/dp/B07M96JCQ6/?tag=tolees0d-21)
 
 ℹ️:
 

@@ -1,38 +1,38 @@
 ---
 layout: post
-title: 'PNY CS1050 Elite 480 Go SSD externe - US avec 29.29 % rabais '
-date: 2021-02-04 05:05:58
-image: 'https://m.media-amazon.com/images/I/41bkV1yVJtL._SL200_.jpg'
+title: 'PNY CS1050 Elite 480 Go SSD externe - US avec 20.48 % rabais '
+date: 2021-02-24 18:29:48
+image: 'https://m.media-amazon.com/images/I/41bkV1yVJtL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01GQPXB3U-fr PNY CS1050 Elite 480 Go SSD externe - USB 3.1'
 sku: 'B01GQPXB3U-fr'
 tags: [  ]
-actualPrice: 60.1 EUR
+actualPrice: 67.59 EUR
 currency: EUR
-price: 60.1
+price: 67.59
 comparePrice: 85.0 EUR
 prodname: 'PNY CS1050 Elite 480 Go SSD externe - USB 3.1'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'PNY'
 buyurl: 'https://www.amazon.fr/dp/B01GQPXB3U/?tag=tolees0d-21'
-descuento: '29.29'
-average: '66.668888888889'
+descuento: '20.48'
+average: '66.8363636363637'
 ---
 
-C'est en vente [PNY CS1050 Elite 480 Go SSD externe - USB 3.1](https://www.amazon.fr/dp/B01GQPXB3U/?tag=tolees0d-21)  à  29.29 % de réduction, prix final  60.1 EUR (original: 85.0 EUR) ici:
+C'est en vente [PNY CS1050 Elite 480 Go SSD externe - USB 3.1](https://www.amazon.fr/dp/B01GQPXB3U/?tag=tolees0d-21)  à  20.48 % de réduction, prix final  67.59 EUR (original: 85.0 EUR) ici:
 
-[![PNY CS1050 Elite 480 Go SSD externe - US](https://m.media-amazon.com/images/I/41bkV1yVJtL._SL200_.jpg)](https://www.amazon.fr/dp/B01GQPXB3U/?tag=tolees0d-21)
+[![PNY CS1050 Elite 480 Go SSD externe - US](https://m.media-amazon.com/images/I/41bkV1yVJtL._SL400_.jpg)](https://www.amazon.fr/dp/B01GQPXB3U/?tag=tolees0d-21)
 
 ℹ️:
 
-- Transférez de gros fichiers à une vitesse fulgurante
-- Performances exceptionnelles et fiables offrant jusquà 430 Mo/s seq. En lecture et 400 Mo/s seq. En vitesses décriture
 - Compatible avec Windows et Mac OS X.
+- Transférez de gros fichiers à une vitesse fulgurante
+- Boîtier en aluminium durable et ultra-compact
 - Transfert de fichiers plus rapide que les clés USB 3.0 traditionnelles
 - Température d’exploitation: 0°C ~ 70°C
-- Boîtier en aluminium durable et ultra-compact
+- Performances exceptionnelles et fiables offrant jusquà 430 Mo/s seq. En lecture et 400 Mo/s seq. En vitesses décriture
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GQPXB3U/?tag=tolees0d-21)
