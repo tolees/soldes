@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nintendo - SUPER MARIO 3D - ALL STARS avec 36.43 % rabais '
-date: 2021-02-21 18:31:07
-image: 'https://m.media-amazon.com/images/I/51TSMkXij3L._SL200_.jpg'
+date: 2021-02-24 06:25:43
+image: 'https://m.media-amazon.com/images/I/51TSMkXij3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B08GZ4Z5SM/?tag=tolees0d-21'
 descuento: '36.43'
-average: '46.2343564356433'
+average: '46.2172549019606'
 ---
 
 C'est en vente [Nintendo - SUPER MARIO 3D - ALL STARS](https://www.amazon.fr/dp/B08GZ4Z5SM/?tag=tolees0d-21)  à  36.43 % de réduction, prix final  44.49 EUR (original: 69.99 EUR) ici:
 
-[![Nintendo - SUPER MARIO 3D - ALL STARS](https://m.media-amazon.com/images/I/51TSMkXij3L._SL200_.jpg)](https://www.amazon.fr/dp/B08GZ4Z5SM/?tag=tolees0d-21)
+[![Nintendo - SUPER MARIO 3D - ALL STARS](https://m.media-amazon.com/images/I/51TSMkXij3L._SL400_.jpg)](https://www.amazon.fr/dp/B08GZ4Z5SM/?tag=tolees0d-21)
 
 ℹ️:
 

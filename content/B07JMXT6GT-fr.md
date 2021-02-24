@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '71.75 % rabais sur Abollria Chaussettes Noël en Coton 5 Pac'
-date: 2021-02-21 02:05:29
-image: 'https://m.media-amazon.com/images/I/51XuSrJ05fL._SL200_.jpg'
+date: 2021-02-24 06:12:16
+image: 'https://m.media-amazon.com/images/I/51XuSrJ05fL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '12.99'
 
 Vous avez [Abollria Chaussettes Noël en Coton 5 Pack Thermiques Chaussettes Femme Adulte Dessin Animé Unisexe Chaussettes Décontractées Confortable Taille Libre -  Noël * 5 Pack Long - Taille unique](https://www.amazon.fr/dp/B07JMXT6GT/?tag=tolees0d-21)  à  71.75 % de réduction, prix final  12.99 EUR (original: 45.99 EUR) ici:
 
-[![Abollria Chaussettes Noël en Coton 5 Pac](https://m.media-amazon.com/images/I/51XuSrJ05fL._SL200_.jpg)](https://www.amazon.fr/dp/B07JMXT6GT/?tag=tolees0d-21)
+[![Abollria Chaussettes Noël en Coton 5 Pac](https://m.media-amazon.com/images/I/51XuSrJ05fL._SL400_.jpg)](https://www.amazon.fr/dp/B07JMXT6GT/?tag=tolees0d-21)
 
 ℹ️:
 
