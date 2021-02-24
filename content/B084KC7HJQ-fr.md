@@ -28,10 +28,10 @@ C'est en vente [Samsung Galaxy S20 - Smartphone Portable débloqué 5G  Ecran: 6
 
 ℹ️:
 
-- Reconnaissance faciale + Lecteur d’empreinte digitale ultrasonique
-- vidéo 8K et photos 8K
-- Batterie 4000 mAh charge rapide 25W
 - Ecran Infinity 6 2’’ Dynamic AMOLED – 16M de couleurs
+- Reconnaissance faciale + Lecteur d’empreinte digitale ultrasonique
 - Triple capteur 12MP DP + 12MP + space zoom hybride x3 64 MP
+- Batterie 4000 mAh charge rapide 25W
+- vidéo 8K et photos 8K
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084KC7HJQ/?tag=tolees0d-21)
