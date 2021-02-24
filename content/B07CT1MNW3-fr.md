@@ -28,10 +28,10 @@ C'est en vente [RDX Racedesign RDDS129 Becquet arrière](https://www.amazon.fr/d
 
 ℹ️:
 
-- Nouveau et non peint - Comprend certificat par le TÜV
-- Cet article n est plus en solde !
 - Produit de qualité, Fabriqué en Allemagne
-- En matière plastique polyuréthane, matériau utilisé pour les équipements dorigine
 - Rdx spoiler arrière Mercedes Classe A W176 Aileron de coffre. Convient pour: tous les berlines
+- Cet article n est plus en solde !
+- Nouveau et non peint - Comprend certificat par le TÜV
+- En matière plastique polyuréthane, matériau utilisé pour les équipements dorigine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CT1MNW3/?tag=tolees0d-21)
