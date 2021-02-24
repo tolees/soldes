@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Playmobil - Ambulance et Secouristes - 7 avec 20.00 % rabais '
-date: 2021-02-21 06:40:48
-image: 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL200_.jpg'
+date: 2021-02-24 12:48:01
+image: 'https://m.media-amazon.com/images/I/51oMax6xmrL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21'
 descuento: '20.00'
-average: '40.0172727272726'
+average: '40.0168292682925'
 ---
 
 C'est en vente [Playmobil - Ambulance et Secouristes - 70049](https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  39.99 EUR (original: 49.99 EUR) ici:
 
-[![Playmobil - Ambulance et Secouristes - 7](https://m.media-amazon.com/images/I/51oMax6xmrL._SL200_.jpg)](https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21)
+[![Playmobil - Ambulance et Secouristes - 7](https://m.media-amazon.com/images/I/51oMax6xmrL._SL400_.jpg)](https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21)
 
 ℹ️:
 
 - 3 figurines avec de nombreux accessoires.
 - Le module lumineux et sonore sur le toit nécessite 3 piles de 1,5 V (non fournies)
-- Avec chaise longue pliable et beaucoup déquipement durgence.
 - Le bloc décran à lintérieur sillumine Fonctionne avec 1 pile micro 1,5 V
+- Avec chaise longue pliable et beaucoup déquipement durgence.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JLFKJQT/?tag=tolees0d-21)
