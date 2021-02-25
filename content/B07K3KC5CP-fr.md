@@ -28,10 +28,10 @@ C'est en vente [Xiaomi PFJ4086EU - Mi Box S - Boitier TV Multimedia Android TV 8
 
 ℹ️:
 
-- Box TV sous Android 8.1
-- Support des sons Dolby et DTS Surround
 - inclus une télécommande sans-fil avec micro
-- Résolution Ultra HD 4K avec HDR
 - Google Assistant et Chromecast inclus
+- Box TV sous Android 8.1
+- Résolution Ultra HD 4K avec HDR
+- Support des sons Dolby et DTS Surround
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K3KC5CP/?tag=tolees0d-21)
