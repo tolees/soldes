@@ -28,10 +28,10 @@ Vous avez [LEGO® BrickHeadz™ Star Wars™ Le Mandalorien et l’Enfant  Jeu d
 
 ℹ️:
 
-- Both construction models have baseplates to create an eye-catching display
-- The "Baby Yoda" Child has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent LEGO elements
 - The Mandalorian buildable LEGO figure has signature weapons – a blaster rifle clipped on the back and a blaster pistol in hand
 - A great addition to any Star Wars fan’s collection
+- The "Baby Yoda" Child has adjustable ears for different expressions, and it sits in a hoverpram ‘floating’ on 4 transparent LEGO elements
+- Both construction models have baseplates to create an eye-catching display
 - LEGO BrickHeadz build-and-display models of The Mandalorian and the Child
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084CKR6VP/?tag=tolees0d-21)

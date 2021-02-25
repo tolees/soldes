@@ -30,8 +30,8 @@ C'est en vente [BRITA  Cartouche Filtrante pour Carafe  MAXTRA+ Haute Performanc
 
 - Filtration du tartre optimale pour vos préparations culinaires et boissons chaudes
 - 1 cartouche = 100L = 1 mois deau filtrée
-- Compatible avec votre carafe BRITA MAXTRA
-- Filtration du chlore plus efficace : microperles de charbon actif plus fines et surface de filtration accrue de 30%
 - Nouvelle formule : un goût encore meilleur (selon tests internes, comparé à la cartouche MAXTRA).Jusqu’à 48 semaines d’une eau au goût agréable filtrée
+- Filtration du chlore plus efficace : microperles de charbon actif plus fines et surface de filtration accrue de 30%
+- Compatible avec votre carafe BRITA MAXTRA
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MQQAFZB/?tag=tolees0d-21)

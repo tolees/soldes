@@ -28,9 +28,9 @@ C'est en vente [Eono by Amazon - Balance de Cuisine/pâtisserie numérique en Ac
 
 ℹ️:
 
-- 【FACILE À NETTOYER】 Cette balance de cuisine possède une partie supérieure lisse en acier inoxydable qui lui permet dêtre très facilement nettoyée ; protégée contre les traces de doigts, les éclaboussures et déversements dingrédients, et les résidus daliments ; facile à maintenir propre et à entretenir.
 - 【FACILE À RANGER】 Légère mais très robuste et possédant un format compact de 21,3 x 14,5 cm, cette balance numérique sera facile à ranger même dans des espaces réduits.
 - 【MESURES PRÉCISES】 Cette balance de cuisine Eono est équipée de 4 nouveaux capteurs à haute précision permettant de peser des charges maximales de 5 kg par paliers de 1 g ; poids minimum recommandé : 3 à 5 g.
+- 【FACILE À NETTOYER】 Cette balance de cuisine possède une partie supérieure lisse en acier inoxydable qui lui permet dêtre très facilement nettoyée ; protégée contre les traces de doigts, les éclaboussures et déversements dingrédients, et les résidus daliments ; facile à maintenir propre et à entretenir.
 - 【FACILE À UTILISER】 Simple à utiliser, grâce à seulement deux boutons ; fonction de tare rapide et conversion dunités pratique entre grammes, onces, millilitres et livres ; écran LCD rétroéclairé pour une facilité de lecture optimale des mesures.
 - 【SATISFACTION ASSURÉE】Alimentée grâce à 2 piles AAA (incluses) et certifiée conforme aux marquages CE/FCC et à la directive RoHS ; garantie de remboursement intégral de 90 jours et garantie de 15 ans.
 
