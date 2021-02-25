@@ -29,11 +29,11 @@ C'est en vente [Xiaomi MI Pump Mini Pompe à air Portable Adulte Unisexe  Noir  
 ℹ️:
 
 - Preparation is key. Check tire pressure and anticipate unexpected problems. With the changing seasons and temperatures, it is important to keep your tire pressure up to date. Too low a pressure can be dangerous. If at any time a puncture occurs, My Portable Electric Air Compressor is there to help you.
-- Common loading port. Micro-USB charging port, compatible with most smartphone data cables.
-- Its easy, keep up the pressure. Dont worry about pressure when you inflate a ball. My Portable accurately measures psi while pumping.
-- Wherever you go, be prepared. Go further and dont be afraid of having a puncture. The high precision alloy allows compression up to 150 psi to measure the necessary air force for road bikes as well as more common bikes.
-- It incorporates a light to use it at night. The LED bulb emits light while the air is pumped.
-- Segmented movement for long-lasting use . The motor design allows the air compressor to dissipate heat and reduce vibration for comfort while in use. Its 18650 lithium battery is very efficient and long lasting.
 - Explore without limits. Compatible with a portable charger. Travel requires careful preparation. My Portable does not need to be plugged in to work. It is compact and lightweight and easy to carry in your bag.
+- Segmented movement for long-lasting use . The motor design allows the air compressor to dissipate heat and reduce vibration for comfort while in use. Its 18650 lithium battery is very efficient and long lasting.
+- It incorporates a light to use it at night. The LED bulb emits light while the air is pumped.
+- Common loading port. Micro-USB charging port, compatible with most smartphone data cables.
+- Wherever you go, be prepared. Go further and dont be afraid of having a puncture. The high precision alloy allows compression up to 150 psi to measure the necessary air force for road bikes as well as more common bikes.
+- Its easy, keep up the pressure. Dont worry about pressure when you inflate a ball. My Portable accurately measures psi while pumping.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XZCLGVQ/?tag=tolees0d-21)

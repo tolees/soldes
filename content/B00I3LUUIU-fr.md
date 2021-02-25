@@ -28,8 +28,8 @@ C'est en vente [Sony MDR-EX110APB Ecouteurs Intra-auriculaires avec Microphone -
 
 ℹ️:
 
-- Diaphragme en néodyme de 9 mm
 - Micro et télécommande filaire compatibles smartphone pour le modèle EX110AP
 - Cordon anti-nœuds de 1,2 m
+- Diaphragme en néodyme de 9 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00I3LUUIU/?tag=tolees0d-21)
