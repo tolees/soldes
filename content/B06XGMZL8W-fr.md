@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '25.70 % rabais sur Lowepro Droneguard BP léger Drone Sac à '
-date: 2021-02-21 07:18:36
-image: 'https://m.media-amazon.com/images/I/41aoOSXAlhL._SL200_.jpg'
+date: 2021-02-25 16:27:33
+image: 'https://m.media-amazon.com/images/I/41aoOSXAlhL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,18 +19,18 @@ flag: '🇫🇷'
 brand: 'Lowepro'
 buyurl: 'https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21'
 descuento: '25.70'
-average: '116.946333333333'
+average: '117.009354838709'
 ---
 
 Vous avez [Lowepro Droneguard BP léger Drone Sac à dos](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)  à  25.70 % de réduction, prix final  118.9 EUR (original: 160.03 EUR) ici:
 
-[![Lowepro Droneguard BP léger Drone Sac à ](https://m.media-amazon.com/images/I/41aoOSXAlhL._SL200_.jpg)](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)
+[![Lowepro Droneguard BP léger Drone Sac à ](https://m.media-amazon.com/images/I/41aoOSXAlhL._SL400_.jpg)](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)
 
 ℹ️:
 
-- Dimensions de lemballage : 11.42 x 6.69 x 18.5 in
-- Couleur : Noir/Fractale
-- Fabriqué en:- Chine
 - Poids du colis de larticle : 2.95 livres
+- Fabriqué en:- Chine
+- Couleur : Noir/Fractale
+- Dimensions de lemballage : 11.42 x 6.69 x 18.5 in
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)
