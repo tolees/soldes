@@ -28,13 +28,13 @@ C'est en vente [Skechers Women s Flex Appeal 3.0 Trainers  Grey  Light Grey Hot 
 
 ℹ️:
 
-- Semelle extérieure non marquante.
-- Semelle : synthétique.
-- Style polyvalent.
-- Léger.
-- 100 % textile.
-- Semelle intérieure en mousse visco-élastique à refroidissement par air.
-- Durable.
 - Type de talon : bas.
+- 100 % textile.
+- Style polyvalent.
+- Durable.
+- Semelle extérieure non marquante.
+- Léger.
+- Semelle : synthétique.
+- Semelle intérieure en mousse visco-élastique à refroidissement par air.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07H5WL9DX/?tag=tolees0d-21)
