@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.40 % rabais sur Capcom - Resident Evil 7 : Biohazard - é'
-date: 2021-02-23 18:58:28
+date: 2021-02-25 07:42:24
 image: 'https://m.media-amazon.com/images/I/41gRFts3E9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Capcom'
 buyurl: 'https://www.amazon.fr/dp/B01M8QRXBW/?tag=tolees0d-21'
 descuento: '16.40'
-average: '64.0883333333333'
+average: '63.9807692307692'
 ---
 
 Vous avez [Capcom - Resident Evil 7 : Biohazard - édition Steelbook](https://www.amazon.fr/dp/B01M8QRXBW/?tag=tolees0d-21)  à  16.40 % de réduction, prix final  62.69 EUR (original: 74.99 EUR) ici:

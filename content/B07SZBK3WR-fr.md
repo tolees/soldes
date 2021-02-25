@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Game of Thrones  Le Trône De Fer  -L int avec 50.21 % rabais '
-date: 2021-02-23 12:35:05
+date: 2021-02-25 07:54:42
 image: 'https://m.media-amazon.com/images/I/51LXbtTWgLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07SZBK3WR/?tag=tolees0d-21'
 descuento: '50.21'
-average: '84.2702459016394'
+average: '83.8779838709678'
 ---
 
 C'est en vente [Game of Thrones  Le Trône De Fer  -L intégrale des Saisons 1 à 8 [Blu-Ray]](https://www.amazon.fr/dp/B07SZBK3WR/?tag=tolees0d-21)  à  50.21 % de réduction, prix final  59.95 EUR (original: 120.4 EUR) ici:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'D-Link DGS-105 Switch 5 Ports Gigabit Me avec 51.21 % rabais '
-date: 2021-02-23 19:37:11
+date: 2021-02-25 07:37:17
 image: 'https://m.media-amazon.com/images/I/3147mnzyuGL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'D-Link'
 buyurl: 'https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21'
 descuento: '51.21'
-average: '15.8609999999999'
+average: '15.7419047619047'
 ---
 
 C'est en vente [D-Link DGS-105 Switch 5 Ports Gigabit Metallique 10/100/1000mbps - Idéal Partage de Connexion et Mise en Réseau Small/Home Office](https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21)  à  51.21 % de réduction, prix final  13.36 EUR (original: 27.38 EUR) ici:
@@ -28,13 +28,13 @@ C'est en vente [D-Link DGS-105 Switch 5 Ports Gigabit Metallique 10/100/1000mbps
 
 ℹ️:
 
-- Fonction de diagnostic pour détecter les câbles réseau défectueux
-- Silencieux et sans ventilateur, il convient à tout type denvironnement
-- Modèle robuste avec boîtier métallique, idéal pour les sites industriels à risques
-- 5 ports Gigabit Ethernet
-- Files dattente de qualité de service pour lorganisation du trafic par priorités
 - Technologie D-Link Green garantissant des économies dénergie et une durée de vie du produit plus longue
-- Fonctionnement Plug-and-Play
+- Silencieux et sans ventilateur, il convient à tout type denvironnement
 - Architecture non bloquante : plein débit simultané sur tous les ports
+- Modèle robuste avec boîtier métallique, idéal pour les sites industriels à risques
+- Fonction de diagnostic pour détecter les câbles réseau défectueux
+- Files dattente de qualité de service pour lorganisation du trafic par priorités
+- 5 ports Gigabit Ethernet
+- Fonctionnement Plug-and-Play
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000BC7QMM/?tag=tolees0d-21)
