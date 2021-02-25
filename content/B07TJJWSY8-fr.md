@@ -28,10 +28,10 @@ Vous avez [Hori - Racing Wheel Apex Manette sans Fil pour PS4/PC](https://www.am
 
 ℹ️:
 
-- Une immersion totale la technologie de vibration TouchSense
 - Angle de rotation de 270º
+- Compatible PC
+- Une immersion totale la technologie de vibration TouchSense
 - 280 mm diamètre (1:1 échelle)
 - Officiellement licencié par Nintendo
-- Compatible PC
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TJJWSY8/?tag=tolees0d-21)
