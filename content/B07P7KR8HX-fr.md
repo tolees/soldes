@@ -28,10 +28,10 @@ Vous avez [Playmobil - Garage Automobile - 70202](https://www.amazon.fr/dp/B07P7
 
 ℹ️:
 
-- Le moteur du cabriolet tombe en panne, heureusement, le garage n’est pas loin !
 - Le chef d’atelier a justement un moment de libre et peut regarder le moteur.
 - De la vitesse aux utilitaires, choisis le véhicule adapté à ton histoire !
 - Avec plate-forme élévatrice et équipement complet de garage. Cabriolet inclus. Avec un personnage.
 - Convient aux enfants à partir de 4 ans.
+- Le moteur du cabriolet tombe en panne, heureusement, le garage n’est pas loin !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P7KR8HX/?tag=tolees0d-21)

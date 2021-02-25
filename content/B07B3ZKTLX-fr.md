@@ -29,7 +29,7 @@ C'est en vente [Playmobil - Atelier de Biscuit du Père Noël avec Moules - 9493
 ℹ️:
 
 - Les ustensiles de cuisson peuvent être rangés sur les côtés de la table.
-- Table de préparation des pâtisseries avec un rouleau à pâtisserie mobile et un emporte-pièce.
 - Avec four de boulangerie de Noël
+- Table de préparation des pâtisseries avec un rouleau à pâtisserie mobile et un emporte-pièce.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07B3ZKTLX/?tag=tolees0d-21)

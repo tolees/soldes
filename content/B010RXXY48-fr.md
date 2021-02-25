@@ -28,9 +28,9 @@ Vous avez [TP-Link Répéteur WiFi RE450   Amplificateur WiFi A1C750  WiFi Exten
 
 ℹ️:
 
-- TP-LINK AC1750 Network repeater White
-- Network Extenders
 - 6935364092382
 - RE450
+- TP-LINK AC1750 Network repeater White
+- Network Extenders
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B010RXXY48/?tag=tolees0d-21)

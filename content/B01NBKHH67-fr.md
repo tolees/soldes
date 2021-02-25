@@ -28,10 +28,10 @@ C'est en vente [Souarts Ensemble Coffret Cadeau Montre pour Homme  Style 7 ](htt
 
 ℹ️:
 
-- ❤️❤️Si vous avez un problème dinsatisfaction ou de qualité, nous ferons de notre mieux pour vous donner la meilleure solution
-- ❤️❤️Le coffret cadeau inclut 1 montre,1 lunette de soleill, 1 porte-clé et 1 ceinture en cuir
-- ❤️❤️Taille:Lunettes: Taille: 15cmx5.5cm; Montre: Longueur de barcelet: 24cm; Largeur de barcelet: 2.2cm; Diamètre du cadran: 41mm; Epaisseur du cadran: 11mm; Porte-clés: Longueur: 9.5cm; Pendentif:6.7cmx3.2cm; Ceinture:120cm-125cm
 - ❤️❤️Faites vous plaisir ou offrez ce coffret cadeau parfait pour Noël, Anniversaire, Fête des pères, Saint Valentin ou toute autre occasion
+- ❤️❤️Si vous avez un problème dinsatisfaction ou de qualité, nous ferons de notre mieux pour vous donner la meilleure solution
 - ❤️❤️Les produits sont présents dans une boîte noire carrée parfaitement
+- ❤️❤️Taille:Lunettes: Taille: 15cmx5.5cm; Montre: Longueur de barcelet: 24cm; Largeur de barcelet: 2.2cm; Diamètre du cadran: 41mm; Epaisseur du cadran: 11mm; Porte-clés: Longueur: 9.5cm; Pendentif:6.7cmx3.2cm; Ceinture:120cm-125cm
+- ❤️❤️Le coffret cadeau inclut 1 montre,1 lunette de soleill, 1 porte-clé et 1 ceinture en cuir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01NBKHH67/?tag=tolees0d-21)

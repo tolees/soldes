@@ -28,10 +28,10 @@ C'est en vente [Sony MDR-RF895RK Casque TV sans Fil](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Automatic frequency search for high-quality transmission
 - Included in delivery: Cordless stereo headphones, RF stereo transmitter unit, power supply, stereo mini-cable 1.5m, nickel-metal hybrid battery
 - Charging time: Approx. 7 hours (full charge) for up to 20 hours of battery life
 - Wireless headphones for the home with a range of 100 meters
 - Noise cancellation system for clearer sound, 40mm driver provides wide frequency range
+- Automatic frequency search for high-quality transmission
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N0Z35SH/?tag=tolees0d-21)
