@@ -28,10 +28,10 @@ C'est en vente [Colliers en or rose pour femmes avec pendentifs cœur embellis a
 
 ℹ️:
 
-- ❤Spécifications❤ Collier pendentif Taille: 0.98 (L) * 0.78 (W) pouce | Longueur de la chaîne: 17 "+ 2" (ajustable) | Placage: Plaqué en or blanc 18 carats | Tous les métaux que nous utilisons sont sans plomb, sans nickel et hypoallergéniques. CDE 100% garantit votre satisfaction.
 - ❤ Cadeau parfait❤Le collier est livré dans une boîte à bijoux élégante. Grand cadeau pour femme, femme, amie, fille, etc. Cadeau parfait pour la Saint-Valentin. Cadeaux danniversaire idéal, cadeaux danniversaire, cadeaux de Noël, cadeaux de remise des diplômes, cadeaux de la fête des mères.
+- ❤Spécifications❤ Collier pendentif Taille: 0.98 (L) * 0.78 (W) pouce | Longueur de la chaîne: 17 "+ 2" (ajustable) | Placage: Plaqué en or blanc 18 carats | Tous les métaux que nous utilisons sont sans plomb, sans nickel et hypoallergéniques. CDE 100% garantit votre satisfaction.
+- ❤DURABILITY❤ Le pendentif a été décoré de cristaux autrichiens étincelants. Dur à porter et la chaîne est de haute qualité et difficile à rompre.
 - ❤Conception signifiée❤Pour les parents, plus dun cœur symbolise un amour et une affection complets envers chaque enfant. Ensemble, pour toujours, jamais séparés. Pour amoureux, mon âme est votre âme, jamais elle ne se sépare, toujours ensemble, vous et moi. une partie de moi sera toujours vous et une partie de vous sera toujours moi.
 - ❤SERVICE APRÈS-VENTE❤ Satisfaction 100% avec neckalce + Retour gratuit sous 180 jours pour n’importe raison que ce soit + Assurance de la qualité, Nhésitez pas à nous contacter si vous avez des inquiétudes à propos de cet article. Nous vous promettons une expérience d’achat agréable.
-- ❤DURABILITY❤ Le pendentif a été décoré de cristaux autrichiens étincelants. Dur à porter et la chaîne est de haute qualité et difficile à rompre.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VXV3PRF/?tag=tolees0d-21)

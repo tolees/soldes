@@ -28,9 +28,9 @@ C'est en vente [Tommy Hilfiger Jewelry - 2700530 - Bracelet Homme - Acier Inoxyd
 
 ℹ️:
 
-- Bracelet en cordon pour homme
+- Cuir marron
 - Fermoir : Papillon
 - Drapeau Tommy en émail sur le fermoir
-- Cuir marron
+- Bracelet en cordon pour homme
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00INLR7UO/?tag=tolees0d-21)
