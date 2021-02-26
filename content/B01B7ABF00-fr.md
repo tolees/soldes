@@ -1,30 +1,30 @@
 ---
 layout: post
-title: '15.72 % rabais sur Sony BDPS1700B Lecteur DVD Blu-Ray Noir'
-date: 2021-02-12 01:08:22
-image: 'https://m.media-amazon.com/images/I/31AIue1unYL._SL200_.jpg'
+title: '15.81 % rabais sur Sony BDPS1700B Lecteur DVD Blu-Ray Noir'
+date: 2021-02-26 17:30:21
+image: 'https://m.media-amazon.com/images/I/31AIue1unYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
 slug: 'B01B7ABF00-fr Sony BDPS1700B Lecteur DVD Blu-Ray Noir'
 sku: 'B01B7ABF00-fr'
 tags: [  ]
-actualPrice: 79.98 EUR
+actualPrice: 79.9 EUR
 currency: EUR
-price: 79.98
+price: 79.9
 comparePrice: 94.9 EUR
 prodname: 'Sony BDPS1700B Lecteur DVD Blu-Ray Noir'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B01B7ABF00/?tag=tolees0d-21'
-descuento: '15.72'
-average: '79.9211764705883'
+descuento: '15.81'
+average: '79.9189473684211'
 ---
 
-Vous avez [Sony BDPS1700B Lecteur DVD Blu-Ray Noir](https://www.amazon.fr/dp/B01B7ABF00/?tag=tolees0d-21)  à  15.72 % de réduction, prix final  79.98 EUR (original: 94.9 EUR) ici:
+Vous avez [Sony BDPS1700B Lecteur DVD Blu-Ray Noir](https://www.amazon.fr/dp/B01B7ABF00/?tag=tolees0d-21)  à  15.81 % de réduction, prix final  79.9 EUR (original: 94.9 EUR) ici:
 
-[![Sony BDPS1700B Lecteur DVD Blu-Ray Noir](https://m.media-amazon.com/images/I/31AIue1unYL._SL200_.jpg)](https://www.amazon.fr/dp/B01B7ABF00/?tag=tolees0d-21)
+[![Sony BDPS1700B Lecteur DVD Blu-Ray Noir](https://m.media-amazon.com/images/I/31AIue1unYL._SL400_.jpg)](https://www.amazon.fr/dp/B01B7ABF00/?tag=tolees0d-21)
 
 ℹ️:
 

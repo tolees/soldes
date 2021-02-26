@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.01 % rabais sur Pandora - 59702-18HV - Bracelet Femme - '
-date: 2021-02-25 16:16:38
+date: 2021-02-26 17:21:04
 image: 'https://m.media-amazon.com/images/I/41dQWaOvQbL._SL400_.jpg'
 comments: true
 category: ofertas

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony MDR-RF895RK Casque TV sans Fil avec 34.18 % rabais '
-date: 2021-02-25 07:43:13
+date: 2021-02-26 17:13:33
 image: 'https://m.media-amazon.com/images/I/41JEC7PfhXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B01N0Z35SH/?tag=tolees0d-21'
 descuento: '34.18'
-average: '102.257368421051'
+average: '101.827692307691'
 ---
 
 C'est en vente [Sony MDR-RF895RK Casque TV sans Fil](https://www.amazon.fr/dp/B01N0Z35SH/?tag=tolees0d-21)  à  34.18 % de réduction, prix final  85.5 EUR (original: 129.9 EUR) ici:
@@ -28,10 +28,11 @@ C'est en vente [Sony MDR-RF895RK Casque TV sans Fil](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
+- Temps de charge: env. 7 heures (charge complète) pour jusquà 20 heures dautonomie
+- Système de suppression de bruit pour un son plus clair, pilote de 40 mm offrant une large plage de fréquences
+- Recherche automatique de fréquence pour une transmission de haute qualité
 - Included in delivery: Cordless stereo headphones, RF stereo transmitter unit, power supply, stereo mini-cable 1.5m, nickel-metal hybrid battery
-- Charging time: Approx. 7 hours (full charge) for up to 20 hours of battery life
-- Wireless headphones for the home with a range of 100 meters
-- Noise cancellation system for clearer sound, 40mm driver provides wide frequency range
-- Automatic frequency search for high-quality transmission
+- Casque sans fil pour la maison avec une portée de 100 mètres. Sensibilités: 100dB / mW. Aimant: Néodyme
+- Fréquence de réponse : 10 Hz à 22 000 Hz
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N0Z35SH/?tag=tolees0d-21)
