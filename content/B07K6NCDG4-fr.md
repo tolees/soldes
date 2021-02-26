@@ -28,9 +28,9 @@ Vous avez [adidas Tiro 19 Training Jersey Maillot d entraînement Homme White/Bl
 
 ℹ️:
 
-- Manches raglan courtes.
-- Encolure en v côtelée.
 - Ventilation climacool.
 - Inserts en mesh sur les côtés.
+- Encolure en v côtelée.
+- Manches raglan courtes.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07K6NCDG4/?tag=tolees0d-21)

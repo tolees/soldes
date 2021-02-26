@@ -28,15 +28,15 @@ Vous avez [TV LED Full HD 3D 82 cm LG 32LM6300 - Téléviseur LCD 32 pouces - TV
 
 ℹ️:
 
-- USB multimedia
+- TV CONNECTE
 - virtual surround
-- Dimensions avec socle (L x H x P en cm) 169.3 x 104.8 x 34.5
-- Son : 10 W
-- Compatible avec fixations murales VESA 600 x 400
+- USB multimedia
 - Active HDR
+- PMI 1000
 - USB : lecture et enregistrement
 - Télévisueur LED full HD 82 cm
-- TV CONNECTE
-- PMI 1000
+- Son : 10 W
+- Dimensions avec socle (L x H x P en cm) 169.3 x 104.8 x 34.5
+- Compatible avec fixations murales VESA 600 x 400
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q124XGQ/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Levi s 501 Original Fit Jeans  Onewash  32W / 32L Homme](https://www.
 
 ℹ️:
 
-- Classic 501 straight fit
 - Woven logo tag on back pocket
-- Onewash denim jeans
-- Button-up fly front
 - 100% cotton
+- Onewash denim jeans
+- Classic 501 straight fit
+- Button-up fly front
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001QOE6DG/?tag=tolees0d-21)
