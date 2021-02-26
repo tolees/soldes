@@ -28,8 +28,8 @@ Vous avez [Nintendo - Mario Golf: Super Rush](https://www.amazon.fr/dp/B08WY6L32
 
 ℹ️:
 
-- jouez avec les commandes utilisant la détection de mouvements en tenant le Joy-Con comme un club de golf !
-- Parcourez les cours de golf avec vos personnages préférés
 - vous allez devoir étudier attentivement le vent et le terrain avant de frapper
+- Parcourez les cours de golf avec vos personnages préférés
+- jouez avec les commandes utilisant la détection de mouvements en tenant le Joy-Con comme un club de golf !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08WY6L32W/?tag=tolees0d-21)
