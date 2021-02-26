@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Harry Potter™ La tour de l’horloge  avec 18.00 % rabais '
-date: 2021-02-25 08:48:35
+date: 2021-02-26 13:13:58
 image: 'https://m.media-amazon.com/images/I/51EqLQG0MKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21'
 descuento: '18.00'
-average: '76.4309265175718'
+average: '76.4662222222221'
 ---
 
 C'est en vente [LEGO Harry Potter™ La tour de l’horloge de Poudlard 9 Ans et Plus Jouet pour Fille et Garçon  922 Pièces 75948](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)  à  18.00 % de réduction, prix final  81.99 EUR (original: 99.99 EUR) ici:
