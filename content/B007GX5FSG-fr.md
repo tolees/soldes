@@ -28,10 +28,10 @@ C'est en vente [Police to be or not to be eau de toilette pour homme 125 ml](htt
 
 ℹ️:
 
-- Eau de toilette Homme Police
-- Police To Be - pour Homme
 - 125 ml
-- 125ml Vapo
+- Eau de toilette Homme Police
 - Eau de Toilette
+- Police To Be - pour Homme
+- 125ml Vapo
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B007GX5FSG/?tag=tolees0d-21)

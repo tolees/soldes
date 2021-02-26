@@ -28,10 +28,10 @@ C'est en vente [Tondeuse Cheveux Hommes PURKOO Tondeuse Cheveux Professionnelle 
 
 ℹ️:
 
-- Lame de Sharpe: Cette tondeuse à cheveux avec une lame tranchante en titane en céramique coupe les cheveux rapidement, obtient une coupe lisse et de haute qualité et coupe à chaque fois, en gardant la forme et le style des cheveux plus longtemps. Il peut également être détachable pour le nettoyage
-- Batterie au Lithium: la batterie au lithium de haute qualité de 1500 mAh peut durer 210 minutes de fonctionnement après 4 heures de charge complète, la prise de charge USB vous permet de trouver la source de charge facilement, que ce soit à la maison ou en voyage
 - Tu auras: Dans lemballage, il inclus 6 peignes de guidage, peigne, câble de recharge USB, brosse de nettoyage, huile, quai de chargement, cape de coiffeur, brosse de nettoyage. Garantie de 12 Mois
+- Batterie au Lithium: la batterie au lithium de haute qualité de 1500 mAh peut durer 210 minutes de fonctionnement après 4 heures de charge complète, la prise de charge USB vous permet de trouver la source de charge facilement, que ce soit à la maison ou en voyage
 - Lavable 100%: la tondeuse à cheveux IPX7 étanche vous permet de nettoyer rapidement à leau, ce qui nettoie facilement la machine après chaque utilisation pour la garder propre
 - Tondeuse à cheveux réglable: La vitesse et la longueur de coupe sont réglables et peuvent être ajustées en 5 niveaux, 0,8 mm / 1,2 mm / 1,4 mm / 1,8 mm / 2,0 mm. Également équipé de 6 peignes de guidage (3 mm, 6 mm, 8 mm, 12 mm, peigne gauche, peigne droit) Ce kit de coupe de cheveux avec un ensemble complet de protections de fixation est disponible pour répondre à vos besoins de coupe de
+- Lame de Sharpe: Cette tondeuse à cheveux avec une lame tranchante en titane en céramique coupe les cheveux rapidement, obtient une coupe lisse et de haute qualité et coupe à chaque fois, en gardant la forme et le style des cheveux plus longtemps. Il peut également être détachable pour le nettoyage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087JLZKWX/?tag=tolees0d-21)
