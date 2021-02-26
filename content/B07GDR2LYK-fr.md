@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.74 % rabais sur Sony WH-1000XM3 Casque Bluetooth à réduc'
-date: 2021-02-24 00:30:43
+date: 2021-02-26 04:40:14
 image: 'https://m.media-amazon.com/images/I/31u5ies7PrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21'
 descuento: '29.74'
-average: '250.128225806451'
+average: '250.396031746031'
 ---
 
 Vous avez [Sony WH-1000XM3 Casque Bluetooth à réduction de bruit sans fil avec micro pour appels téléphoniques  Alexa et Google Assistant intégrés  Noir](https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21)  à  29.74 % de réduction, prix final  267.0 EUR (original: 380.0 EUR) ici:
@@ -28,14 +28,14 @@ Vous avez [Sony WH-1000XM3 Casque Bluetooth à réduction de bruit sans fil avec
 
 ℹ️:
 
-- Mode charge rapide (15 min = 8h de lecture). Style de port: Circumaural
-- Profil: A2DP, AVRCP, HFP, HSP
 - Jusquà 30h dautonomie avec la fonction de réduction de bruit activée
-- Fonction Quick Attention pour réduire instantanément le volume de votre musique et pouvoir suivre une conversation
 - La meilleure réduction de bruit du marché, encore améliorée. Profil Bluetooth: A2DP, AVRCP, HFP, HSP
-- Contrôle facile de lecture de la musique par simple contact sur loreillette
-- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Profil: A2DP, AVRCP, HFP, HSP
+- Fonction Quick Attention pour réduire instantanément le volume de votre musique et pouvoir suivre une conversation
 - Sensitivities (dB/mW): 104.5 dB/mW (1 kHz)
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
+- Contrôle facile de lecture de la musique par simple contact sur loreillette
 - Réponse en fréquence (communication Bluetooth): 20 Hz – 20 000 Hz (échantillonnage : 44,1 kHz) / 20 Hz – 40 000 Hz (échantillonnage : 96 kHz LDAC, 990 kbit/s)
+- Mode charge rapide (15 min = 8h de lecture). Style de port: Circumaural
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GDR2LYK/?tag=tolees0d-21)
