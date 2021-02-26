@@ -28,10 +28,10 @@ C'est en vente [eXtremeRate Lot complet de 2 films de protection d écran pour N
 
 ℹ️:
 
-- Engagement de qualité : ces autocollants ne peuvent pas endommager la surface ou se décoller.
-- Marque déposée aux États-Unis et de qualité supérieure. Visitez notre boutique, il y a dautres skins personnalisés que vous voulez.
-- Fin et robuste, protège des rayures mineures. Installation facile, sans bulles et retrait sans traces
-- Design personnalisé pour console et manette Nintendo Switch.
 - Couvre tout autour de la station daccueil (le haut, les côtés, lavant et larrière), couvre larrière de la console, comprend un jeu de films Joy-Con, un jeu de films protecteurs décran.
+- Engagement de qualité : ces autocollants ne peuvent pas endommager la surface ou se décoller.
+- Fin et robuste, protège des rayures mineures. Installation facile, sans bulles et retrait sans traces
+- Marque déposée aux États-Unis et de qualité supérieure. Visitez notre boutique, il y a dautres skins personnalisés que vous voulez.
+- Design personnalisé pour console et manette Nintendo Switch.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089CK1R1W/?tag=tolees0d-21)

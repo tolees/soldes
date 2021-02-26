@@ -29,10 +29,10 @@ Vous avez [Devolo Magic 1 Wifi Mini : Starter Kit CPL compact  idéal pour le t�
 ℹ️:
 
 - Internet sécurisé via le réseau électrique, cryptage par simple pression de bouton
-- Kit de démarrage discret pour créer un réseau Wi-Fi couvrant dans toutes les pièces de votre maison
 - Vitesse de transmission jusquà 1200 Mbits/s avec la technologie CPL évolutive – Norme g.Hn – par le leader du marché
+- Kit de démarrage discret pour créer un réseau Wi-Fi couvrant dans toutes les pièces de votre maison
 - Systèmes dexploitation pris en charge : à partir de Windows 7, à partir de Mac OS X 10.9, à partir dUbuntu-Linux 14.04
-- Nouveau Wi-Fi mesh combiné à la technologie CPL à un prix dentrée de gamme
 - 2 prises CPL avec au total 2 ports Ethernet et point daccès wifi. Compatibles avec tous les adaptateurs Magic et toutes les box internet. Les CPL devolo dLAN et HomePlug AV ne sont pas compatibles
+- Nouveau Wi-Fi mesh combiné à la technologie CPL à un prix dentrée de gamme
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Z5K6BLP/?tag=tolees0d-21)

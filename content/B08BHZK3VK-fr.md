@@ -29,9 +29,9 @@ C'est en vente [AUKEY Clavier Gaming Rétro-éclairé RVB et Red Switch Silencie
 ℹ️:
 
 - N-Key Rollover complet: 104-touches rollover avec anti-ghosting, cela signifie que grâce à ce clavier vous ne manquerez jamais une touche ou vous ne vous tromperez jamais de commande dans tous les cas dutilisation.
-- AUKEY Red Switch: Caractérisés pour être linéaires et plus lisse. Ces interrupteurs nécessitent moins de force pour appuyer et sont plus faciles à utiliser. Pas de "bosse" tactile mais toujours très réactif
-- Design durable: Les capuchons de touches et le corps en acier ABS doublement moulés sont extrêmement durables et résistants à labrasion.
-- Contenu de la boîte: AUKEY KM-G12 Clavier mécanique RVB, manuel d’utilisation
 - Rétro-éclairage RVB: Le KM-G12 est équipé de 7 préréglages de couleur et de 12 préréglages de configuration déclairage
+- AUKEY Red Switch: Caractérisés pour être linéaires et plus lisse. Ces interrupteurs nécessitent moins de force pour appuyer et sont plus faciles à utiliser. Pas de "bosse" tactile mais toujours très réactif
+- Contenu de la boîte: AUKEY KM-G12 Clavier mécanique RVB, manuel d’utilisation
+- Design durable: Les capuchons de touches et le corps en acier ABS doublement moulés sont extrêmement durables et résistants à labrasion.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BHZK3VK/?tag=tolees0d-21)

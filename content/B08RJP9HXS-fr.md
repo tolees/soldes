@@ -28,10 +28,10 @@ C'est en vente [ElephantStory - Bracelet Compatible avec Apple Watch 38mm 40mm  
 
 ℹ️:
 
-- 【Parfaitement adapté】Parfaitement compatible avec Apple Watch 40 mm 38mm tous modèles, compatible avec iWatch série 4, série 3, série 2 et série 1, sports & édition.
 - 【Design classique】Le bracelet apple watch 44mm cuir se caractérise par une palette de couleurs classique et élégante et une boucle en métal qui sharmonise avec un style vintage bien fait.
 - 【Installation facile】Installation rapide et facile. Installation par glissement. Aucun outil supplémentaire nest nécessaire.
 - 【COMPREND】Il y a un bracelet en cuir véritable. (Nincluez aucune montre dans le colis). Nous fournissons un service à vie. Et le problème de qualité sera résolu en vous envoyant un nouveau remplaçant ou en vous remboursant.
+- 【Parfaitement adapté】Parfaitement compatible avec Apple Watch 40 mm 38mm tous modèles, compatible avec iWatch série 4, série 3, série 2 et série 1, sports & édition.
 - 【Cuir véritable】Le bracelet pour Apple Watch est fabriqué dans un matériau spécial de haute qualité, durable, respirant, écologique, confortable et adapté à un port en toutes occasions.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08RJP9HXS/?tag=tolees0d-21)
