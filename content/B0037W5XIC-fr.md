@@ -28,10 +28,10 @@ C'est en vente [Staedtler 430 M-2CP5 Stick 430 Stylo bille Pointe moyenne Rouge 
 
 ℹ️:
 
-- Stylo bille avec capuchon et clip
 - Équilibrage automatique de la pression qui empêche le stylo de couler
-- Longue durée
-- Encre rouge
+- Stylo bille avec capuchon et clip
 - Largeur de trait moyenne (0,35 mm)
+- Encre rouge
+- Longue durée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0037W5XIC/?tag=tolees0d-21)

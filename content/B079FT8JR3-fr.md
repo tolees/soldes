@@ -28,10 +28,10 @@ C'est en vente [Citizen Horloge CA0695-84E](https://www.amazon.fr/dp/B079FT8JR3/
 
 ℹ️:
 
-- Réserve de marche de 210 jours
-- Éclairage Eco-drive
 - 10 bar
-- Fond du boîtier vissé
+- Éclairage Eco-drive
 - Chronomètre : max. 60 min, 1/5 sec
+- Réserve de marche de 210 jours
+- Fond du boîtier vissé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079FT8JR3/?tag=tolees0d-21)

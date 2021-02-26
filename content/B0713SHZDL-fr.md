@@ -28,10 +28,10 @@ C'est en vente [SAMSONITE Karissa Biz - Backpack 14.1" Sac à dos loisir  41 cm 
 
 ℹ️:
 
-- Plaque logo en métal
-- Matériaux : 90% nylon, 10% polyuréthane
-- Chaque modèle est accompagné dune breloque qui ajoute une touche supplémentaire de féminité
 - Détails en métal argent sur les modèles de couleur noire, rouge et bleu nuit
 - Détails dorés sur les modèles bleu navy et beige
+- Chaque modèle est accompagné dune breloque qui ajoute une touche supplémentaire de féminité
+- Plaque logo en métal
+- Matériaux : 90% nylon, 10% polyuréthane
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0713SHZDL/?tag=tolees0d-21)

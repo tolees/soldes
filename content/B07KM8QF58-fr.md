@@ -28,10 +28,10 @@ Vous avez [Nike NK ELMNTL BKPK - 2.0  BLACK/BLACK/WHITE 1size](https://www.amazo
 
 ℹ️:
 
-- 100% polyester durable
-- Large Nike corporate logo is printed at the front pocket
-- Front zippered pocket provides convenient and secure small-item storage
 - Multiple easy-access pockets for convenient, organized storage
+- 100% polyester durable
 - Padded shoulder straps and back panel offer support
+- Front zippered pocket provides convenient and secure small-item storage
+- Large Nike corporate logo is printed at the front pocket
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KM8QF58/?tag=tolees0d-21)
