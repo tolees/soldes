@@ -28,11 +28,11 @@ Vous avez [Sony Walkman NW-WS413 - Lecteur MP3 Intégré à des Ecouteurs - Etan
 
 ℹ️:
 
-- Download headphone app for better sound output
-- 12 hours battery life
-- The compact, head-hugging design provides a secure, comfortable fit - so your Walkman stays in place no matter what
-- Salt-water/ dust Proof (IPX65/68 rating) design for use with an increased range of sports
 - The supplied swimming earbuds must be used for the waterproof design to function correctly
+- Download headphone app for better sound output
+- The compact, head-hugging design provides a secure, comfortable fit - so your Walkman stays in place no matter what
+- 12 hours battery life
+- Salt-water/ dust Proof (IPX65/68 rating) design for use with an increased range of sports
 - With ambient sound mode you can still hear a degree of external sound so you can talk to a friend or trainer while listening to music
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BBWU834/?tag=tolees0d-21)

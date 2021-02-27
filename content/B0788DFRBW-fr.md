@@ -28,10 +28,10 @@ Vous avez [Tommy Hilfiger - UM0UM00562 - Rn Tee Ss - T-shirt - Homme - Bleu  Nav
 
 ℹ️:
 
+- Coton Bio
 - Coupe classique.
 - Logo TH sur les bras
-- T-shirt Tommy Hilfiger
-- Coton Bio
 - Petit drapeau de Tommy sur la poitrine
+- T-shirt Tommy Hilfiger
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0788DFRBW/?tag=tolees0d-21)
