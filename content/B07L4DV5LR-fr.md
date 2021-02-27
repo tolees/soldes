@@ -28,9 +28,9 @@ C'est en vente [ASICS Gel-Nimbus 21  Chaussures de Running Homme  Noir  Black 10
 
 ℹ️:
 
+- Matériau de la semelle : caoutchouc
+- Fermeture : à lacets
 - Matériau extérieur : tissu
 - Doublure : tissu
-- Fermeture : à lacets
-- Matériau de la semelle : caoutchouc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L4DV5LR/?tag=tolees0d-21)
