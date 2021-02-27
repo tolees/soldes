@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Ça-Chapitre 1 & 2 [4K Ultra HD Blu-Ray B avec 40.21 % rabais '
-date: 2021-02-26 04:35:16
+date: 2021-02-27 11:44:36
 image: 'https://m.media-amazon.com/images/I/41XbMt8mz5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08C6KH41R/?tag=tolees0d-21'
 descuento: '40.21'
-average: '57.4616666666667'
+average: '55.81'
 ---
 
 C'est en vente [Ça-Chapitre 1 & 2 [4K Ultra HD Blu-Ray Bonus-Édition boîtier SteelBook]](https://www.amazon.fr/dp/B08C6KH41R/?tag=tolees0d-21)  à  40.21 % de réduction, prix final  35.99 EUR (original: 60.19 EUR) ici:
