@@ -28,13 +28,13 @@ Vous avez [SEB AUTHENTIQUE 8 L Cocotte-minute Inox Induction Autocuiseur Fabri
 
 ℹ️:
 
-- CUVE ACIER INOXYDABLE : garantie 10 ans
-- INCLUS : panier vapeur pour préserver les nutriments et vitamines des aliments + livret recettes
-- PIECES DE RECHANGE : disponibles pendant au moins 10 ans
-- PRATIQUE : compatible tous feux dont induction, cocotte-minute compatible lave-vaisselle (cuve uniquement)
 - FABRIQUE EN FRANCE
+- PRATIQUE : compatible tous feux dont induction, cocotte-minute compatible lave-vaisselle (cuve uniquement)
+- PIECES DE RECHANGE : disponibles pendant au moins 10 ans
+- INCLUS : panier vapeur pour préserver les nutriments et vitamines des aliments + livret recettes
 - SYSTEME DE SECURITE : 5 points avec 3 sécurités de sur-pression et 2 sécurités douverture/fermeture ; larges poignées pour une prise en main sûre et confortable
-- 30 ANS DE SECURITE : autocuiseur testé pour 30 ans de sécurité
 - CUISSON SOUS PRESSION : cocotte-minute 8L (6/8 personnes)
+- CUVE ACIER INOXYDABLE : garantie 10 ans
+- 30 ANS DE SECURITE : autocuiseur testé pour 30 ans de sécurité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000TGIKSO/?tag=tolees0d-21)
