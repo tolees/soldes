@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'AIRENA - Couteau Japonais Santoku  7" Co avec 44.23 % rabais '
-date: 2021-02-26 04:44:42
+date: 2021-02-27 06:32:40
 image: 'https://m.media-amazon.com/images/I/417PB+1zDXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'AIRENA'
 buyurl: 'https://www.amazon.fr/dp/B08G8GL1J1/?tag=tolees0d-21'
 descuento: '44.23'
-average: '24.1375000000001'
+average: '24.2257142857144'
 ---
 
 C'est en vente [AIRENA - Couteau Japonais Santoku  7" Couteaux de Cuisine Professionnels - Acier Inoxydable Allemand Carbone - Lame de Extra Tranchante - Manche Ergonomique - pour la Cuisine à Domicile et Le Restaurant](https://www.amazon.fr/dp/B08G8GL1J1/?tag=tolees0d-21)  à  44.23 % de réduction, prix final  25.99 EUR (original: 46.6 EUR) ici:
