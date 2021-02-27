@@ -28,10 +28,10 @@ Vous avez [SanDisk Extreme PRO - Lecteur/enregistreur USB-C portable et compact 
 
 ℹ️:
 
-- Conçu pour des transferts ultra rapides pour les cartes SD UHS-II
-- Garanti 2 ans
-- Compatible avec les cartes UHS-II, rétro-compatible avec les cartes SD UHS-I et non UHS
-- Plug and Play
 - Lecteur de cartes SD avec connecteur USB Type‐C
+- Compatible avec les cartes UHS-II, rétro-compatible avec les cartes SD UHS-I et non UHS
+- Conçu pour des transferts ultra rapides pour les cartes SD UHS-II
+- Plug and Play
+- Garanti 2 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078JTMDWH/?tag=tolees0d-21)

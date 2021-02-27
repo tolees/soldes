@@ -28,10 +28,10 @@ C'est en vente [Trust Verro Souris Ergonomique sans Fil  Angle vertical de 60° 
 
 ℹ️:
 
-- Micro récepteur USB logeable dans la souris. Portée sans fil jusquà 10 mètres.
-- Souris verticale avec 2 boutons de pouce : fonctions de navigation précédent/suivant. Bouton de sélection de précision (800/1 200/1 600 ppp).
 - Travaillez confortablement pendant de longues périodes, tout en prévenant les douleurs au bras et au poignet. Forme unique, conçue pour sadapter à toutes les formes et tailles de main.
-- Modèle léger et confortable grace à son revêtement en caoutchouc pour une prise en main parfaite. Angle vertical de 60° pour une position parfaite du poignet.
 - Interrupteur Marche/arrêt
+- Modèle léger et confortable grace à son revêtement en caoutchouc pour une prise en main parfaite. Angle vertical de 60° pour une position parfaite du poignet.
+- Souris verticale avec 2 boutons de pouce : fonctions de navigation précédent/suivant. Bouton de sélection de précision (800/1 200/1 600 ppp).
+- Micro récepteur USB logeable dans la souris. Portée sans fil jusquà 10 mètres.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YSRMGNZ/?tag=tolees0d-21)

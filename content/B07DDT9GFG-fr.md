@@ -28,7 +28,7 @@ C'est en vente [Only NOS Onlqueen L/s Long Cardigan KNT Noos Gilet  Multicolore 
 
 ℹ️:
 
-- Cardigan
 - Tricot
+- Cardigan
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DDT9GFG/?tag=tolees0d-21)

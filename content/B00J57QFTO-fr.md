@@ -28,14 +28,14 @@ C'est en vente [Janod - J07076 - Coffret 3 Puzzles Bois 9 pcs](https://www.amazo
 
 ℹ️:
 
-- Coffret de trois puzzles en bois imprimés sur le thème du cheval, du chat et du chien.
+- Nombre de pièces: 9.
+- Dimensions du produit seul : 21 x 21 x 21 cm
+- Design réalisé en France.
+- Apports éducatifs : Manipuler, manier
 - Âge minimum : à partir de 18 mois
 - Matériau(x) utilisé(s) : bois (contreplaqué).
 - Une encoche est prévue sur les puzzles pour retirer les pièces plus facilement.
-- Apports éducatifs : Manipuler, manier
-- Nombre de pièces: 9.
-- Design réalisé en France.
 - Le support imprimé des puzzles aidera votre enfant à recomposer plus facilement son puzzle.
-- Dimensions du produit seul : 21 x 21 x 21 cm
+- Coffret de trois puzzles en bois imprimés sur le thème du cheval, du chat et du chien.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00J57QFTO/?tag=tolees0d-21)

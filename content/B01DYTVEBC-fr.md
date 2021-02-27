@@ -28,8 +28,8 @@ C'est en vente [Doudou et Compagnie J aime Mon Doudou Collector Ours Taupe](http
 
 ℹ️:
 
-- Dès la naissance
 - Présenté dans une belle boite cadeau
+- Dès la naissance
 - Vous ne résisterez pas au charme de cet ours taupe et son bonnet de nuit
 - Produit bénéficiant de la Garantie Doudou. Grace à son numéro unique, doudou perdu est vite retrouvé! Plus de renseignements sur doudouetcompagnie.com
 - 100% Polyester, lavable à 30°
