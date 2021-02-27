@@ -28,10 +28,10 @@ C'est en vente [DJI CP.QT.000832 Carte d Assurance Care Refresh pour Phantom 4 P
 
 ℹ️:
 
-- VIP plan de service COMPLÈTE: Valide pendant 12 mois, DJI Care Refresh est un programme qui permet de couvrir les dégâts sur votre drone et offre jusquà 2 remplacements en échange dun coût supplémentaire
-- À PROPOS DE DJI: En tant quentreprise technologique chinoise basée à Shenzhen, DJI est un leader dans le domaine des drones pour la photographie aérienne et la vidéographie
 - SUPPORT TÉLÉPHONIQUE VIP: Le support VIP fourni par des experts des produits DJI est immédiatement disponsible sur simple appel lors de lachat dune VIP plan de service DJI Phantom 4 Care Refresh.
+- À PROPOS DE DJI: En tant quentreprise technologique chinoise basée à Shenzhen, DJI est un leader dans le domaine des drones pour la photographie aérienne et la vidéographie
 - COUVERTURE CONTRE LES DÉGATS CAUSÉS PAR LEAU: Si votre DJI Phantom 4 est endommagé par leau lors dune utilisation normale, il peut être remplacé si vous avez acheté la VIP plan de service DJI Care Refresh.
 - ASSISTANCE RAPIDE: Vous recevrez des unités de remplacement prioritaires lors de lachat dune VIP plan de service DJI Care Refresh. Réduit drastiquement le temps nécessaire pour vous envoler à nouveau
+- VIP plan de service COMPLÈTE: Valide pendant 12 mois, DJI Care Refresh est un programme qui permet de couvrir les dégâts sur votre drone et offre jusquà 2 remplacements en échange dun coût supplémentaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075DY4R3T/?tag=tolees0d-21)
