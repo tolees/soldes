@@ -29,9 +29,9 @@ Vous avez [Einhell Outil multifonction sans fil VARRITO Power X-Change  Li-Ion  
 ℹ️:
 
 - La poignée souple permet une sensation de travail agréable et une prise ferme et sûre même pendant les étapes de travail difficiles et les charges élevées et intensives
-- En tant que membre de la famille Power X-Change flexible et puissante, toutes les batteries de la série de systèmes peuvent être utilisées avec loutil multifonction. La batterie et le chargeur de la série PXC sont disponibles séparément, par ex. comme kit de démarrage pratique
 - Le verrouillage rapide de la multi-ponceuse en combinaison avec le porte-outil magnétique réglable en 12 positions assure un échange rapide et facile sans outil des accessoires
-- Le travail axé sur les matériaux et les applications avec loutil multifonction est réalisé à laide dune électronique à vitesse réglable
 - Incl. Plaque de ponçage triangulaire, papier de verre 9x (3 * P60 / 3 * P80 / 3 * P120), grattoir et lame de scie plongeante pour bois / plastique (HCS), BIM pour métal et lame de scie à segment pour bois, plastique et métal doux (HSS) et diamant pour Joints de carreaux
+- En tant que membre de la famille Power X-Change flexible et puissante, toutes les batteries de la série de systèmes peuvent être utilisées avec loutil multifonction. La batterie et le chargeur de la série PXC sont disponibles séparément, par ex. comme kit de démarrage pratique
+- Le travail axé sur les matériaux et les applications avec loutil multifonction est réalisé à laide dune électronique à vitesse réglable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DF4XQJG/?tag=tolees0d-21)

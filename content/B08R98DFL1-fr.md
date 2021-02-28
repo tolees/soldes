@@ -28,8 +28,8 @@ C'est en vente [Bravely Default II  Nintendo Switch ](https://www.amazon.fr/dp/B
 
 ℹ️:
 
+- Quatre héros, quatre Cristaux… une aventure légendaire !
 - Menez votre groupe à travers cinq royaumes dans votre quête pour restituer les quatre Cristaux à leur place légitime.
 - Utilisez les astérisques pour débloquer de nouvelles classes et aptitudes.
-- Quatre héros, quatre Cristaux… une aventure légendaire !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08R98DFL1/?tag=tolees0d-21)

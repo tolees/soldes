@@ -28,13 +28,13 @@ Vous avez [KODAK Pixpro - SP360 Combo B - Caméra 360° Pack Explorer](https://w
 
 ℹ️:
 
-- Ouverture fixe: 2,8 mm. Mise au point: TTL
-- La distance minimale de mise au point: 50 cm
-- Résolution vidéo maximale: 1920 x 1080 pixels
 - Kodak PixPro SP360 Explorer Pack. Type HD: Full HD
-- Total des megapixels: 17,52 MP
-- Mégapixels effectifs (film): 16,36 MP. Écran: LCD
 - Taille de lécran: 2,54 cm (1"). Maximum longueur focale (35mm equiv): 8,25 mm
+- La distance minimale de mise au point: 50 cm
+- Ouverture fixe: 2,8 mm. Mise au point: TTL
 - Cadence maximale: 120 ips. Type de capteur: CMOS
+- Mégapixels effectifs (film): 16,36 MP. Écran: LCD
+- Total des megapixels: 17,52 MP
+- Résolution vidéo maximale: 1920 x 1080 pixels
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NFTHQW8/?tag=tolees0d-21)

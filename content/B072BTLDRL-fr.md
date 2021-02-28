@@ -28,10 +28,10 @@ Vous avez [Facom DL.20BTI Crics Bouteilles Série Intensive  Gris  20T](https://
 
 ℹ️:
 
-- Conçus pour un usage professionnel intensif
-- Conformes à la directive machine 2006/42/CE
 - Utilisable à lhorizontal comme vérin pousseur
+- Conformes à la directive machine 2006/42/CE
 - Axe de pompe et vérin avec traitement thermique et traitement de surface
 - Crics à base large soudée, commande dans laxe
+- Conçus pour un usage professionnel intensif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072BTLDRL/?tag=tolees0d-21)
