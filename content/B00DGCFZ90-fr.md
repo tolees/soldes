@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '20.01 % rabais sur Walt Disney France - Robin des Bois [Blu'
-date: 2021-02-20 02:52:11
-image: 'https://m.media-amazon.com/images/I/512fAezF1UL._SL200_.jpg'
+date: 2021-02-28 18:43:15
+image: 'https://m.media-amazon.com/images/I/512fAezF1UL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇫🇷'
 brand: 'Walt Disney France'
 buyurl: 'https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21'
 descuento: '20.01'
-average: '15.2151219512196'
+average: '15.2335714285715'
 ---
 
 Vous avez [Walt Disney France - Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  15.99 EUR (original: 19.99 EUR) ici:
 
-[![Walt Disney France - Robin des Bois [Blu](https://m.media-amazon.com/images/I/512fAezF1UL._SL200_.jpg)](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)
+[![Walt Disney France - Robin des Bois [Blu](https://m.media-amazon.com/images/I/512fAezF1UL._SL400_.jpg)](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)
 
 ℹ️:
 

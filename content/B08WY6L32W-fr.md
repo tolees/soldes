@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.00 % rabais sur Nintendo - Mario Golf: Super Rush'
-date: 2021-02-26 04:26:50
+date: 2021-02-28 18:42:41
 image: 'https://m.media-amazon.com/images/I/51TbQfRFYiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B08WY6L32W/?tag=tolees0d-21'
 descuento: '25.00'
-average: '49.6566666666667'
+average: '48.8081818181818'
 ---
 
 Vous avez [Nintendo - Mario Golf: Super Rush](https://www.amazon.fr/dp/B08WY6L32W/?tag=tolees0d-21)  à  25.00 % de réduction, prix final  44.99 EUR (original: 59.99 EUR) ici:

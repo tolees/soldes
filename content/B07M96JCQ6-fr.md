@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '28.01 % rabais sur Prise Intelligente Wi-Fi TECKIN 16A Mini'
-date: 2021-02-27 06:22:36
+date: 2021-02-28 18:21:53
 image: 'https://m.media-amazon.com/images/I/41Qrd2RLmwL._SL400_.jpg'
 comments: true
 category: ofertas
