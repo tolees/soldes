@@ -28,8 +28,8 @@ C'est en vente [G-STAR RAW Vodan Padded Hooded Parka  Noir  DK Black 6484   X-La
 
 ℹ️:
 
-- Lavage en machine
 - Manches longues
 - 80% polyester, 20% coton
+- Lavage en machine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NDP3KJ1/?tag=tolees0d-21)
