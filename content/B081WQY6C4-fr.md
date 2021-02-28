@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '52.16 % rabais sur Terminator : Dark Fate [Édition Limitée '
-date: 2021-02-26 11:56:38
+date: 2021-02-28 05:12:20
 image: 'https://m.media-amazon.com/images/I/51hB3HdsioL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081WQY6C4/?tag=tolees0d-21'
 descuento: '52.16'
-average: '12.89375'
+average: '13.06'
 ---
 
 Vous avez [Terminator : Dark Fate [Édition Limitée boîtier SteelBook]](https://www.amazon.fr/dp/B081WQY6C4/?tag=tolees0d-21)  à  52.16 % de réduction, prix final  14.39 EUR (original: 30.08 EUR) ici:
