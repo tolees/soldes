@@ -28,9 +28,9 @@ Vous avez [Philips S5400/06 Rasoir électrique Series 5000 étanche avec Tondeus
 
 ℹ️:
 
+- Accessoires : Tondeuse de précision et capot de protection
 - Efficacité : Lames MultiPrecision pour un rasage efficace et rapide même sur une barbe de 2 jours
 - Confort : Têtes flexibles dans 5 directions pour un suivi optimal des contours du visage
-- Accessoires : Tondeuse de précision et capot de protection
 - Rasage de près efficace et rapide
 - Autonomie : 40 minutes dautonomie pour 1h de charge. Charge rapide en 5 minutes pour un rasage express
 
