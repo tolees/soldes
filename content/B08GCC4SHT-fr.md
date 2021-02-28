@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.00 % rabais sur AUKEY Écouteurs Bluetooth 5 sans Fil ave'
-date: 2021-02-26 18:19:03
+date: 2021-02-27 23:02:56
 image: 'https://m.media-amazon.com/images/I/312pseynCaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'AUKEY'
 buyurl: 'https://www.amazon.fr/dp/B08GCC4SHT/?tag=tolees0d-21'
 descuento: '15.00'
-average: '48.532857142857'
+average: '48.4199065420559'
 ---
 
 Vous avez [AUKEY Écouteurs Bluetooth 5 sans Fil avec aptX Basses Profondes  4 Microphones  Réduction de Bruit CVC 8.0  IPX7 Étanche  USB-C Charge Rapide  Stéréo Hi-FI Oreillette pour iPhone et Android](https://www.amazon.fr/dp/B08GCC4SHT/?tag=tolees0d-21)  à  15.00 % de réduction, prix final  42.49 EUR (original: 49.99 EUR) ici:
