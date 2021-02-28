@@ -28,7 +28,7 @@ C'est en vente [Chicco Recharges Soft pour Aspirateur Nasal Soft and Easy Physio
 
 ℹ️:
 
-- Age minimum: 0 mois
 - Descriptif produit: Boîte de recharge de 10 embouts souples jetables avec fente anti-occlusion compatible avec laspirateur nasal soft & easy physioclean. Filtres pré-insérés et sachets individuels hermétiques pour garantir une hygiène maximale.
+- Age minimum: 0 mois
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00ARBQ9ZW/?tag=tolees0d-21)

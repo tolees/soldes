@@ -28,11 +28,11 @@ Vous avez [WENKO Égouttoir pour vaisselle Premium Duo  Métal chromé  52 x 36 
 
 ℹ️:
 
-- Pot à couvert intégré et pic pour égouttoir biberon ou tasse
 - Egouttoir Vaisselle inox
-- Dimensions du produit (L x l x h) : 43 x 24 x 9,2 cm
-- Bac en plastique noir amovible avec surface antidérapante
-- Egouttoir vaisselle gain de place pour tout type dévier
 - Deux hauteurs de rangement pour assiettes, verres...
+- Egouttoir vaisselle gain de place pour tout type dévier
+- Pot à couvert intégré et pic pour égouttoir biberon ou tasse
+- Bac en plastique noir amovible avec surface antidérapante
+- Dimensions du produit (L x l x h) : 43 x 24 x 9,2 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ESX5KL4/?tag=tolees0d-21)
