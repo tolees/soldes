@@ -28,11 +28,11 @@ C'est en vente [Adidas Campus  Chaussures de Fitness Homme  Jaune  Pirita/Ftwbla
 
 ℹ️:
 
-- Semelle : caoutchouc
-- Intérieur : synthétique et textile
-- Largeur de la chaussure : normale
 - Matériau extérieur : cuir et synthétique
+- Largeur de la chaussure : normale
 - Talon plat
 - Fermeture : lacets
+- Semelle : caoutchouc
+- Intérieur : synthétique et textile
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0784QDQ7X/?tag=tolees0d-21)
