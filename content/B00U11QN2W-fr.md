@@ -30,7 +30,7 @@ Vous avez [Frifri 3528DuoFil Pro Design Friteuse  3.5 liters](https://www.amazon
 
 - 3.5L dhuile pour 1 kg de frites
 - Démontage facile et complet en moins de 5 secondes
-- Puissance de 2800W
 - Système de rangement de cordon
+- Puissance de 2800W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00U11QN2W/?tag=tolees0d-21)
