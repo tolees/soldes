@@ -28,14 +28,14 @@ Vous avez [NETGEAR Répéteur WiFi  EX3700   Amplificateur WiFi AC750  WiFi Boos
 
 ℹ️:
 
-- VITESSE WI-FI AC750: fournit des performances allant jusquà 750 Mbps en utilisant la technologie Dual Band brevetée FastLane Technologie
-- ANTENNES EXTERNES : pour une meilleure couverture
-- PORT ETHERNET FILAIRE: pour brancher des consoles de jeu, des lecteurs streaming ou tout autre appareil câblé à proximité à laide du port 10 / 100M pour une vitesse maximale
-- COMPACT ET DISCRET : il se connecte directement sur la prise murale et sintègre facilement dans votre décor intérieur
-- SECURITE : prend en charge les protocoles de sécurité sans fil WEP et WPA / WPA2
 - COUVERTURE SANS FIL ÉTENDUE: Ajoute une couverture Wi-Fi allant jusquà 90m2 et connecte jusquà 15 périphériques tels que des PC, des smartphones, des enceintes, des caméras IP, des tablettes,etc
-- SIMPLE À L’INSTALLATION: Appuyez sur le bouton WPS pour vous connecter à votre routeur. Utilisez lapplication NETGEAR WiFi Analyzer pour une localisation optimale
-- WiFi EXTENDER
 - COMPATIBILITÉ UNIVERSELLE: Fonctionne avec n’importe quel Box, routeur, passerelle ou modem câble sans fil avec Wi-Fi
+- SECURITE : prend en charge les protocoles de sécurité sans fil WEP et WPA / WPA2
+- SIMPLE À L’INSTALLATION: Appuyez sur le bouton WPS pour vous connecter à votre routeur. Utilisez lapplication NETGEAR WiFi Analyzer pour une localisation optimale
+- VITESSE WI-FI AC750: fournit des performances allant jusquà 750 Mbps en utilisant la technologie Dual Band brevetée FastLane Technologie
+- PORT ETHERNET FILAIRE: pour brancher des consoles de jeu, des lecteurs streaming ou tout autre appareil câblé à proximité à laide du port 10 / 100M pour une vitesse maximale
+- ANTENNES EXTERNES : pour une meilleure couverture
+- WiFi EXTENDER
+- COMPACT ET DISCRET : il se connecte directement sur la prise murale et sintègre facilement dans votre décor intérieur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VUKM0M0/?tag=tolees0d-21)

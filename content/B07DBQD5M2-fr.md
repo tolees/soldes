@@ -28,8 +28,8 @@ Vous avez [Lolita Lempicka Mon Premier Parfum EDP 30ml](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Facile à Application
-- Nouveau et frais.
 - Parfum pour femme
+- Nouveau et frais.
+- Facile à Application
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DBQD5M2/?tag=tolees0d-21)

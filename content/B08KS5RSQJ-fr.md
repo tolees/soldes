@@ -28,10 +28,10 @@ C'est en vente [eXtremeRate PlayVital Capuchons Étoile Design Mignon pour Ninte
 
 ℹ️:
 
-- Le capuchon de la poignée du pouce est en silicone de haute qualité, doux et confortable. Il peut bien protéger votre joystick des rayures, des bosses, de la saleté ou dautres dommages.
-- 【Remarque】 Cette couverture de joystick ne convient pas aux PS4 manettes, Switch Pro, Xbox One. Si vous rencontrez des problèmes (dommages, rayures, saletés, etc.), nhésitez pas à nous contacter. Notre boutique sefforce toujours de satisfaire le client et fait toujours de son mieux pour répondre aux besoins des clients avec une meilleure qualité.
-- Facile à installer, cela ne prend que quelques secondes pour installer les capuchons de poignée de pouce sur le joystick de la console. Sadapte parfaitement, compact avec le joystick après linstallation, vous ne craindrez pas quil tombe.
-- Ce capuchon en silicone est spécialement conçu pour Nintendo Switch Joy-Con & Switch Lite, qui peut fournir une protection efficace pour vos clés analogiques.
 - Plusieurs combinaisons de couleurs au choix, chaque capuchon de joystick a un design détoile blanche, frais et charmant. Vous pouvez combiner le shell eXtremeRate pour personnaliser votre Switch ou Switch Lite.
+- 【Remarque】 Cette couverture de joystick ne convient pas aux PS4 manettes, Switch Pro, Xbox One. Si vous rencontrez des problèmes (dommages, rayures, saletés, etc.), nhésitez pas à nous contacter. Notre boutique sefforce toujours de satisfaire le client et fait toujours de son mieux pour répondre aux besoins des clients avec une meilleure qualité.
+- Le capuchon de la poignée du pouce est en silicone de haute qualité, doux et confortable. Il peut bien protéger votre joystick des rayures, des bosses, de la saleté ou dautres dommages.
+- Ce capuchon en silicone est spécialement conçu pour Nintendo Switch Joy-Con & Switch Lite, qui peut fournir une protection efficace pour vos clés analogiques.
+- Facile à installer, cela ne prend que quelques secondes pour installer les capuchons de poignée de pouce sur le joystick de la console. Sadapte parfaitement, compact avec le joystick après linstallation, vous ne craindrez pas quil tombe.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KS5RSQJ/?tag=tolees0d-21)
