@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '58.41 % rabais sur Bloc multiprise encastrable compact - 3 '
-date: 2021-02-14 01:23:42
-image: 'https://m.media-amazon.com/images/I/31192xh3hCL._SL200_.jpg'
+date: 2021-02-28 23:48:50
+image: 'https://m.media-amazon.com/images/I/31192xh3hCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -19,12 +19,12 @@ flag: '🇫🇷'
 brand: 'Otio'
 buyurl: 'https://www.amazon.fr/dp/B01ARYX190/?tag=tolees0d-21'
 descuento: '58.41'
-average: '23.6566666666667'
+average: '24.4900000000001'
 ---
 
 Vous avez [Bloc multiprise encastrable compact - 3 prises 16A 2P+T et 2x USB - Otio](https://www.amazon.fr/dp/B01ARYX190/?tag=tolees0d-21)  à  58.41 % de réduction, prix final  26.99 EUR (original: 64.9 EUR) ici:
 
-[![Bloc multiprise encastrable compact - 3 ](https://m.media-amazon.com/images/I/31192xh3hCL._SL200_.jpg)](https://www.amazon.fr/dp/B01ARYX190/?tag=tolees0d-21)
+[![Bloc multiprise encastrable compact - 3 ](https://m.media-amazon.com/images/I/31192xh3hCL._SL400_.jpg)](https://www.amazon.fr/dp/B01ARYX190/?tag=tolees0d-21)
 
 ℹ️:
 

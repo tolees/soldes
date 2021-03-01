@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Generique - Harry Potter - l Intégrale d avec 50.29 % rabais '
-date: 2021-02-27 17:16:20
+date: 2021-02-28 23:08:23
 image: 'https://m.media-amazon.com/images/I/51IDtBm4yhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Generique'
 buyurl: 'https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21'
 descuento: '50.29'
-average: '25.8510218978103'
+average: '25.7661151079137'
 ---
 
 C'est en vente [Generique - Harry Potter - l Intégrale des 8 Films - Le monde des Sorciers de J.K. Rowling - Coffret Blu-Ray](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)  à  50.29 % de réduction, prix final  19.95 EUR (original: 40.13 EUR) ici:
@@ -29,9 +29,9 @@ C'est en vente [Generique - Harry Potter - l Intégrale des 8 Films - Le monde d
 ℹ️:
 
 - Disques Bluray
-- année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
 - année 2 à 5 : English, French, French from Quebec, Castilian, Catalan, Danish, Dutch, Flemish, German, Italian, Spanish, Swedish
 - année 7 : English, French, Italian, German,Flemish, Dutch
 - année 6 : Flemish, Slovak, Catalan, English, Portuguese from Brasilia, Dutch, French, German, Italian, Castilian
+- année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)
