@@ -28,13 +28,13 @@ Vous avez [Levi s Veste camionneur originale  Femme  Bleu  Clean Dark Authentic 
 
 ℹ️:
 
-- poches avant en diagonale
-- patte arrière pour un adjustment réglable
 - matières importées
-- Denim non extensible
-- lavage à froid en machine. laver et sécher sur lenvers avec des couleurs similaires. lessive liquide recommandée, nettoyage à sec possible, repassage à chaud si nécessaire
-- 100% Coton
-- Poches poitrine plaquées à rabat boutonné
+- patte arrière pour un adjustment réglable
 - Manches longues boutonnées aux poignets
+- lavage à froid en machine. laver et sécher sur lenvers avec des couleurs similaires. lessive liquide recommandée, nettoyage à sec possible, repassage à chaud si nécessaire
+- Poches poitrine plaquées à rabat boutonné
+- poches avant en diagonale
+- 100% Coton
+- Denim non extensible
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D76WNZ4/?tag=tolees0d-21)
