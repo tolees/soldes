@@ -28,10 +28,10 @@ Vous avez [Xiaomi Band 5 Smart Fitness Bracelet Cardiofréquence mètre  Bracele
 
 ℹ️:
 
-- Un écran AMOLED 1.1” couleur avec plus d’informations affichées
-- Jusquà 11 modes dexercice
-- Accéléromètre 3 axes + capteurs gyroscopiques 3 axes
-- Contrôle du rythme cardiaque, de la pression artérielle et du sommeil tout au long de la journée
 - Jusquà 14 jours dautonomie
+- Un écran AMOLED 1.1” couleur avec plus d’informations affichées
+- Accéléromètre 3 axes + capteurs gyroscopiques 3 axes
+- Jusquà 11 modes dexercice
+- Contrôle du rythme cardiaque, de la pression artérielle et du sommeil tout au long de la journée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089NS9JW2/?tag=tolees0d-21)
