@@ -28,10 +28,10 @@ Vous avez [Audio Pro - Enceinte Compacte sans fil WiFi multiroom Addon C5  Blanc
 
 ℹ️:
 
+- Dimensions (HxLxP): 130 x 250 x 150 mm
+- Entrées: Wifi, Ethernet, Bluetooth V4.0 et auxiliaire (3.5mm stéréo)
 - Un son récompensé What Hi-Fi 2017
 - Enceinte Stéréo Multi room Wifi alimentée
-- Dimensions (HxLxP): 130 x 250 x 150 mm
 - Formats audio compatibles: MP3, WMA, AAC, FLAC, Apple Lossless
-- Entrées: Wifi, Ethernet, Bluetooth V4.0 et auxiliaire (3.5mm stéréo)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071XPYH4B/?tag=tolees0d-21)
