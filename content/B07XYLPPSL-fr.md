@@ -28,11 +28,11 @@ C'est en vente [Sennheiser PXC 550-II Wireless Casque d écoute avec Alexa  Supp
 
 ℹ️:
 
-- Contrôle tactile : avec le pavé tactile de lécouteur droit, vous contrôlez volume, lecture, arrêt, pause et saut de piste. Toucher lécouteur vous permet de prendre un appel entrant. Le contrôle de ce micro-casque est simple et instinctif.
 - Pause intelligente (activée depuis lappli)/ Activation/désactivation automatique : faites pivoter les écouteurs pour les désactiver, des capteurs détectent les moments où vous portez le casque et déclenchent la lecture/ pause de la musique.
+- Contrôle tactile : avec le pavé tactile de lécouteur droit, vous contrôlez volume, lecture, arrêt, pause et saut de piste. Toucher lécouteur vous permet de prendre un appel entrant. Le contrôle de ce micro-casque est simple et instinctif.
 - Accès monocouche à lassistant vocal: il suffit de presser un seul bouton pour accéder à votre assistant IA: Siri, Hey Google, et Alexa.
-- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
-- Qualité sonore supérieure et suppression active du bruit: le PXC 550-II Wireless offre la légendaire qualité sonore Sennheiser. La suppression active du bruit réduit le bruit présent autour de vous et peut être réglée selon vos préférences.
 - Durée de vie exceptionnelle de la batterie, jusquà 30 heures : la batterie du PXC 550-II Wireless assure jusquà 30 heures dautonomie. Une seule charge suffit pour un aller-retour entre Londres et Hong Kong !
+- Qualité sonore supérieure et suppression active du bruit: le PXC 550-II Wireless offre la légendaire qualité sonore Sennheiser. La suppression active du bruit réduit le bruit présent autour de vous et peut être réglée selon vos préférences.
+- Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XYLPPSL/?tag=tolees0d-21)

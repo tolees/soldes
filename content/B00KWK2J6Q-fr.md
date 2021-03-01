@@ -28,8 +28,8 @@ Vous avez [Geox Homme U Nebula B Sneaker  Noir Black C9999  42 EU](https://www.a
 
 ℹ️:
 
+- Synthétique
 - Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 - Suede
-- Synthétique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KWK2J6Q/?tag=tolees0d-21)
