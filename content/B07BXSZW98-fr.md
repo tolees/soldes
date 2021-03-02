@@ -30,7 +30,7 @@ Vous avez [Philips Lighting - Philips Hue White TURACO Potelet 1 X 9 5 W - Anthr
 
 - Configurez votre éclairage pour qu‘il vous accueille dans votre maison
 - Nécessite un pont Philips Hue
-- Contrôlez votre éclairage comme vous le souhaitez
 - Réglez les temporisateurs pour votre confort
+- Contrôlez votre éclairage comme vous le souhaitez
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BXSZW98/?tag=tolees0d-21)
