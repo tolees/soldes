@@ -28,10 +28,10 @@ Vous avez [Safety 1st Ever Fix Siège Auto pour Enfant Evolutif Groupe 1/2/3 Iso
 
 ℹ️:
 
-- Assise rembourrée avec un coussin confort ajustable sur 7 positions en hauteur. housse lavable en machine
-- Protection latérales qui évoluent avec lenfant, incluant une têtière en eps pour une meilleure absorption des chocs
 - Groupe 1 muni dun harnais 5 points (9-18kg) qui se transforme en groupe 2/3 avec un dossier (15-36kg)
 - Isofix: installation facile et sûre, pinces isofix + top téter, avec indicateur de bonne installation
+- Assise rembourrée avec un coussin confort ajustable sur 7 positions en hauteur. housse lavable en machine
+- Protection latérales qui évoluent avec lenfant, incluant une têtière en eps pour une meilleure absorption des chocs
 - Le siège auto évolutif groupe 1/2/3 équipé dun système isofix. utilisation de 15 mois à 10/12 ans environ (jusquà 36kg)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YPY6YSJ/?tag=tolees0d-21)
