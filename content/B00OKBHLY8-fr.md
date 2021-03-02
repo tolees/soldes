@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '39.98 % rabais sur G-STAR RAW - G-Star Arc 3D Slim-Wisk Den'
-date: 2021-02-26 19:44:46
+date: 2021-03-02 11:57:51
 image: 'https://m.media-amazon.com/images/I/41HZW7CMzyL._SL400_.jpg'
 comments: true
 category: ofertas
