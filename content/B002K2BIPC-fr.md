@@ -28,9 +28,9 @@ Vous avez [Rescue Compte-gouttes 20ml](https://www.amazon.fr/dp/B002K2BIPC/?tag=
 
 ℹ️:
 
-- A emporter lors des longs voyages
-- Comment le prendre? 4 gouttes dans un verre deau ou directement sur la langue à renouveler si nécessaire jusquà 6 fois par jour.
 - Complément alimentaire. Sans accoutumance.
+- A emporter lors des longs voyages
 - Le célèbre mélange de 5 Fleurs de Bach Original : Star of Bethlehem (Réconfort), Rock Rose (Courage), Cherry Plum (Maîtrise), Impatiens (impatience) et Climatise (attention)
+- Comment le prendre? 4 gouttes dans un verre deau ou directement sur la langue à renouveler si nécessaire jusquà 6 fois par jour.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002K2BIPC/?tag=tolees0d-21)
