@@ -28,7 +28,7 @@ Vous avez [G-STAR RAW - G-Star Arc 3D Slim-Wisk Denim Jeans  Bleu  lt Aged Destr
 
 ℹ️:
 
-- Arc 3d slim
 - Type de coupe:Slim
+- Arc 3d slim
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OKBHLY8/?tag=tolees0d-21)
