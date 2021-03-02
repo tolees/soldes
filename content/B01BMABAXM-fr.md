@@ -29,9 +29,9 @@ C'est en vente [Einhell Visseuse Clé à chocs CC-IW 950  950 W  Longueur Câble
 ℹ️:
 
 - Puissant moteur de 950 Watt
-- Visseuse-clé à chocs électrique pour changer rapidement les roues des voitures
-- Livrée en coffret de rangement et de transport
-- Commutation pour un changement rapide de rotation à droite / à gauche
 - Poignée à revêtement tendre “softgrip” pour un travail confortable et une prise en main sûre
+- Commutation pour un changement rapide de rotation à droite / à gauche
+- Livrée en coffret de rangement et de transport
+- Visseuse-clé à chocs électrique pour changer rapidement les roues des voitures
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BMABAXM/?tag=tolees0d-21)

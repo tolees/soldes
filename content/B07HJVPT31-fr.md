@@ -28,10 +28,10 @@ C'est en vente [Quercetti - 6155 Tecno Jumbo Loisirs Créatifs - Bricolage Tecno
 
 ℹ️:
 
-- Un jeu avec vis, rondelles, boulons et plaquettes en plastique robuste et anti choc adaptés aux plus jeunes et à l petites mains
+- Tecno jumbo stimule fantaisie, habileté manuelle et le sens logique des enfants et permet une approche très ludique des principes fondamentaux de la mécanique
 - Les enfants peuvent monter tous les éléments sans avoir besoin d’outils, les mains suffisent mais il faut également fantaisie pour réaliser un univers de construction
+- Un jeu avec vis, rondelles, boulons et plaquettes en plastique robuste et anti choc adaptés aux plus jeunes et à l petites mains
 - Compatible avec les autres versions de la ligne Tecno Jumbo
 - 100% Fabriqué en Italie
-- Tecno jumbo stimule fantaisie, habileté manuelle et le sens logique des enfants et permet une approche très ludique des principes fondamentaux de la mécanique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HJVPT31/?tag=tolees0d-21)

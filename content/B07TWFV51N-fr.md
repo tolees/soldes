@@ -28,13 +28,13 @@ C'est en vente [Fitbit Versa 2  Édition Spéciale  Montre Connectée Forme et B
 
 ℹ️:
 
-- Découvrez la qualité de chaque nuit de sommeil en mesurant fréquence cardiaque, durée du sommeil et des phases déveil, temps passé en sommeil lèger, profond, paradoxal et agitation
-- Utilisez le suivi continu de la fréquence cardiaque pour mieux mesurer vos calories brulées, ajuster votre effort pendant le sport
-- Contrôler vos appareils domestiques connectés, simplement en parlant à votre montre connectée
-- Compatibilité iOS et Android
-- Portez votre montre lesprit tranquille, elle vous accompagne plusieurs jours sans nécessiter de recharge grâce à son autonomie de batterie de plus de 4 jours
 - Utilisez Amazon Alexa Intégré pour suivre l’actualité, consulter la météo, définir des invitations à aller vous coucher et des alarmes
 - Observer lévolution de votre fréquence cardiaque au repos et d?couvrir votre niveau de forme cardio dans lApp Fitbit
 - Contrôlez votre App Spotify et ajoutez des playlists Deezer. Stockez également plus de 300 morceaux de musique couter directement au poignet. Abonnements requis
+- Découvrez la qualité de chaque nuit de sommeil en mesurant fréquence cardiaque, durée du sommeil et des phases déveil, temps passé en sommeil lèger, profond, paradoxal et agitation
+- Portez votre montre lesprit tranquille, elle vous accompagne plusieurs jours sans nécessiter de recharge grâce à son autonomie de batterie de plus de 4 jours
+- Contrôler vos appareils domestiques connectés, simplement en parlant à votre montre connectée
+- Utilisez le suivi continu de la fréquence cardiaque pour mieux mesurer vos calories brulées, ajuster votre effort pendant le sport
+- Compatibilité iOS et Android
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TWFV51N/?tag=tolees0d-21)

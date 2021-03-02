@@ -29,9 +29,9 @@ C'est en vente [BABY JOGGER - Baby Jogger City Mini GT2 poussette tout-terra
 ℹ️:
 
 - Pliage facile : tirez sur la sangle dune main et elle se plie de manière simple et compacte. le verrouillage automatique bloque la poussette en position pliée pour le transport ou le rangement
-- Facilité pour les parents : le guidon ajustable et le frein à main manuel offrent une conduite et une maîtrise confortables, le tout à portée de main
-- Agilité totale : les pneus gonflables en caoutchouc et la suspension sur toutes les roues garantissent une agilité sans concession sur tous les terrains
 - Dès la naissance : poussette duo adaptée aussi bien à un siège-auto quà une nacelle pour installer confortablement les tout-petits (adaptateurs/accessoires requis, vendus séparément)
 - Sécurité et confort : le siège possède une capacité maximale de 22 kg et comporte un harnais 5 points pour maintenir votre enfant en toute sécurité
+- Facilité pour les parents : le guidon ajustable et le frein à main manuel offrent une conduite et une maîtrise confortables, le tout à portée de main
+- Agilité totale : les pneus gonflables en caoutchouc et la suspension sur toutes les roues garantissent une agilité sans concession sur tous les terrains
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V7HZXRP/?tag=tolees0d-21)
