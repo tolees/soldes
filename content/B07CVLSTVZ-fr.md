@@ -28,8 +28,8 @@ C'est en vente [TOSHIBA EUROPE - Toshiba BULK V300 Video Streaming Hard Drive 3T
 
 ℹ️:
 
-- Capacité disque dur: 3000 Go
 - Choc (fonctionnement): 70 G/2 ms (durée)
+- Capacité disque dur: 3000 Go
 - Toshiba VideoStream V300 Bulk. Taille du disque dur: 3.5"
 - Vitesse de rotation du disque dur: 5940 tr/min
 
