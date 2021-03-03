@@ -28,6 +28,9 @@ Vous avez [Lacor 53018 Faitout avec Couvercle Tri Métal Inox 18 cm](https://www
 
 ℹ️:
 
+- Température four: 220°C
+- Garantie : 12 mois
+- Matière : Inox
 - Description du produit: Acier inoxydable 18/10
 Fabriqué en Espagne.
 Faitout en inox 18/10 livré avec couvercle en verre et silicone.
@@ -38,8 +41,5 @@ sur tous types de feux y compris induction,
 une hygiène à toute épreuve et 
 une durabilité maximum 
 avec gain dénergie de 20% environ
-- Garantie : 12 mois
-- Matière : Inox
-- Température four: 220°C
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014HEFGYO/?tag=tolees0d-21)
