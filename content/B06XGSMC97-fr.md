@@ -28,11 +28,11 @@ C'est en vente [URBANMOVE Start Plus Trottinette Électrique Mixte Adulte  Noir]
 
 ℹ️:
 
-- Charge max: 100 kg - pente maximale: 15°* - temps de charge max: 4 h - poids produit seul: 11 kg
-- Frein moteur avant, frein arrière tambour et à friction - suspensions avant et arrière
 - Moteur sans brosse 350 watts - vitesse max: 20-25 km/h* - autonomie max: 20-25 km*
-- Batterie Lithium 36V, 5 000 mAh - éclairage LED avant et arrière
 - Ecran de contrôle LCD indiquant vitesse/ distance/ autonomie - 3 modes de vitesse: piéton 6 km/h/ intermédiaire 15 km/h/ maximum
+- Batterie Lithium 36V, 5 000 mAh - éclairage LED avant et arrière
 - Vous n’avez pas à recharger votre lumière avec des batteries externes, car l’éclairage utilise la batterie de la trottinette electrique
+- Frein moteur avant, frein arrière tambour et à friction - suspensions avant et arrière
+- Charge max: 100 kg - pente maximale: 15°* - temps de charge max: 4 h - poids produit seul: 11 kg
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XGSMC97/?tag=tolees0d-21)
