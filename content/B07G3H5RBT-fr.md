@@ -28,9 +28,9 @@ C'est en vente [Carte Mémoire microSDXC SanDisk Extreme PRO 128 Go + Adaptateur
 
 ℹ️:
 
-- Température de fonctionnement: -13ºF - 185ºF (-25ºC - 85ºC)
-- Facteur de forme: microSDXC
 - Vitesse décriture: jusquà 90 Mo/ s3
 - Vitesse vidéo: C10, U3, A2, V304
+- Facteur de forme: microSDXC
+- Température de fonctionnement: -13ºF - 185ºF (-25ºC - 85ºC)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3H5RBT/?tag=tolees0d-21)

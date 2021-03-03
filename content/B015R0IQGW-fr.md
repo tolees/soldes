@@ -28,12 +28,12 @@ Vous avez [Rode Microphones - Rode VideoMicro Microphone Caméra Compact  Couleu
 
 ℹ️:
 
-- Il faut noter quéune alimentation de type plug-in-power est obligatoire pour son fonctionnement
-- Tous nos microphones de la gamme VideoMic ont un filetage standard 3/8 intégré dans la partie inférieure de la fixation froide pour le raccordement à une perche, un pied de micro ou un trépied
-- Capsule 1/2 pouce directionnelle
-- Corps en métal ; Couleur Disponible: Rouge et Noir
-- SPL maximum: 140dBSPL
 - La sélection nest pas possible ; Vous en recevrez un
 - Micro compact et ultra léger, Electronique active: convertisseur dimpédance JFET
+- Capsule 1/2 pouce directionnelle
+- SPL maximum: 140dBSPL
+- Tous nos microphones de la gamme VideoMic ont un filetage standard 3/8 intégré dans la partie inférieure de la fixation froide pour le raccordement à une perche, un pied de micro ou un trépied
+- Il faut noter quéune alimentation de type plug-in-power est obligatoire pour son fonctionnement
+- Corps en métal ; Couleur Disponible: Rouge et Noir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015R0IQGW/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Square Enix - World Of Final Fantasy - édition day one](https:/
 
 ℹ️:
 
+- Classification PEGI : ages_12_and_over
+- Plate-forme : PlayStation 4
 - Editeur : Square Enix
 - Date de sortie : 2016-10-28
-- Classification PEGI : ages_12_and_over
 - Edition : édition day one
-- Plate-forme : PlayStation 4
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B019RWAWLS/?tag=tolees0d-21)
