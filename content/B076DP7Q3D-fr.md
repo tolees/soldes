@@ -28,13 +28,13 @@ C'est en vente [Bébé Confort Cosi Citi Siège-Auto Nomad Black](https://www.am
 
 ℹ️:
 
-- Installation facile du siège auto avec la ceinture de sécurité 3 points
-- Sadapte très facilement sur toutes les poussettes Bébé Confort
-- Ou installation en un seul clic avec la base ceinturée citibase (vendue séparément)
 - Bébé Confort remplace gratuitement ce siège auto en cas daccident pour une sécurité optimale (voir conditions sur le site de la marque)
-- Primé 4 étoiles par les organismes de sécurité
+- Installation facile du siège auto avec la ceinture de sécurité 3 points
 - Protections latérales, réglage centralisé du harnais pour bien lajuster à lenfant Pratique et confortable: très léger (3,5 kg), coussin réducteur avec têtière, capote pare-soleil intégrée, arceau de portage pratique et repliable
-- Garantie à vie
+- Primé 4 étoiles par les organismes de sécurité
+- Sadapte très facilement sur toutes les poussettes Bébé Confort
 - Siège auto bébé Cosi Citi Bébé Confort (groupe 0+) utilisable de la naissance à 12 mois (12 kg), sutilise en position dos route
+- Ou installation en un seul clic avec la base ceinturée citibase (vendue séparément)
+- Garantie à vie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076DP7Q3D/?tag=tolees0d-21)
