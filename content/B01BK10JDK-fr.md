@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '41.42 % rabais sur KATAHIRO KUBOTA Couteau Zen Santoku Dama'
-date: 2021-02-19 11:06:30
-image: 'https://m.media-amazon.com/images/I/31U++I3XViL._SL200_.jpg'
+date: 2021-03-03 20:06:02
+image: 'https://m.media-amazon.com/images/I/31U++I3XViL._SL400_.jpg'
 comments: true
 category: ofertas
 author: ring
@@ -24,7 +24,7 @@ average: '99.0'
 
 Vous avez [KATAHIRO KUBOTA Couteau Zen Santoku Damas  7 pouces ](https://www.amazon.fr/dp/B01BK10JDK/?tag=tolees0d-21)  à  41.42 % de réduction, prix final  99.0 EUR (original: 169.0 EUR) ici:
 
-[![KATAHIRO KUBOTA Couteau Zen Santoku Dama](https://m.media-amazon.com/images/I/31U++I3XViL._SL200_.jpg)](https://www.amazon.fr/dp/B01BK10JDK/?tag=tolees0d-21)
+[![KATAHIRO KUBOTA Couteau Zen Santoku Dama](https://m.media-amazon.com/images/I/31U++I3XViL._SL400_.jpg)](https://www.amazon.fr/dp/B01BK10JDK/?tag=tolees0d-21)
 
 ℹ️:
 
