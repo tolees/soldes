@@ -29,8 +29,8 @@ C'est en vente [SanDisk Carte Mémoire microSDXC Ultra 512 Go + Adaptateur SD. V
 ℹ️:
 
 - Classe 10 pour lenregistrement et la lecture de vidéo Full HD
-- Compatible avec les appareils d’accueil de support microSDHC et microSDXC
 - Jusquà 512 Go pour stocker encore plus dheures de vidéo Full HD
+- Compatible avec les appareils d’accueil de support microSDHC et microSDXC
 - Chargez les applications plus rapidement avec des performances de classe A1
 - Idéale pour les smartphones et tablettes Android, ainsi que pour les appareils photo MIL
 
