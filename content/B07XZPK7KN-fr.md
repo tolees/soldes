@@ -28,9 +28,9 @@ C'est en vente [PolarPro Lot de 3 filtres ND pour GoPro Hero8 Noir  Collection S
 
 ℹ️:
 
+- Conçu spécifiquement pour lappareil photo HERO8 Black (uniquement compatible avec Hero8 Black).
 - La base du filtre magnétique Hotswap permet un changement et un retrait rapides du filtre.
 - Verre Cinema Series + 16 couches de revêtement réduisent léblouissement et protègent contre les empreintes digitales/huiles.
-- Conçu spécifiquement pour lappareil photo HERO8 Black (uniquement compatible avec Hero8 Black).
 - Comprend des filtres ND8, ND16, ND32 pour toutes les conditions d’éclairage.
 - Les aimants ultra puissants offrent une connexion sécurisée dans les sports automobiles à haute vibration et les applications de vent à haute vitesse (60 MPH+).
 

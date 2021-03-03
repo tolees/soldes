@@ -30,7 +30,7 @@ Vous avez [Accessoire iRobot Roomba - 1 Mur Virtuel Double Fonction](https://www
 
 - Accessoire officiel iRobot Roomba
 - Grâce au mode Virtual Wall, vous décidez des pièces dans lesquelles votre robot doit et ne doit pas intervenir, le mode Halo crée une zone de protection autour des objets que vous souhaitez préserver
-- Compatible avec les robots Roomba séries 500, 600, 700, 800 et 900
 - Le système Virtual Wall barrière virtuelle double fonction vous offre un contrôle accru des endroits à faire nettoyer par votre robot
+- Compatible avec les robots Roomba séries 500, 600, 700, 800 et 900
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y5RVP18/?tag=tolees0d-21)

@@ -29,8 +29,8 @@ C'est en vente [STEAMONE S-Travel Défroisseur vapeur Noir 0 26 L 1400 W](https:
 ℹ️:
 
 - Facile &aggrave; ranger et à transporter
-- Puissance: 1400 Watts
 - Utilisable sur tous les tissus
+- Puissance: 1400 Watts
 - Prêt T en 30 secondes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B072DVV3K1/?tag=tolees0d-21)
