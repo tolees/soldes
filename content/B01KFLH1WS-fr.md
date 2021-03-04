@@ -28,9 +28,9 @@ C'est en vente [PNY SSD7CS900-240-PB Disque Flash SSD interne 120 Go SATA III No
 
 ℹ️:
 
-- Nand_type TLC NAND Flash / Power consumption 2.2W Active, 0.17W Idle; / Mtbf 2 million hours
 - SATA III 6Gb/s; backwards compatible with SATA II 3Gb/s
 - Max sequential read speed Up to 515 MB/s / Max sequential write speed Up to 490 MB/s
 - Cool and Quiet Operation / Energy Efficient / Shock Proof
+- Nand_type TLC NAND Flash / Power consumption 2.2W Active, 0.17W Idle; / Mtbf 2 million hours
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)

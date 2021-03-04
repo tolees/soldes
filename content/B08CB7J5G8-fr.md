@@ -28,8 +28,8 @@ Vous avez [Funko- Pop Ride: Masters of The Universe-Skeletor on Panthor Figurine
 
 ℹ️:
 
-- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Issue de la gamme Skeletor on Panthorla figurine Masters of the Universe rejoint la collection Funko POP Rides
+- Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 - Chaque personnage mesure environ 16 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Découvrez tous les autres produits Funko dédiés à lunivers Skeletor on Panthor Collectionnez-les tous
 

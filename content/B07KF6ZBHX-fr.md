@@ -29,8 +29,8 @@ Vous avez [Levi s 511 Slim Fit Jeans  Durian Od Subtle  33W / 34L Homme](https:/
 ℹ️:
 
 - Denim stretch.
+- Passants de ceinture.
 - Coutures contrastées.
 - 5 poches
-- Passants de ceinture.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KF6ZBHX/?tag=tolees0d-21)

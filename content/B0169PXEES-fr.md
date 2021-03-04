@@ -28,8 +28,8 @@ C'est en vente [Devolo dLAN 550 WiFi CPL  Connexion Internet 500 Mbit/s via la P
 
 ℹ️:
 
-- 3x integrated Fast Ethernet LAN
-- Fast connection for gaming on PC
 - Compact design for convenient placement throughout the home at any power outlet
+- Fast connection for gaming on PC
+- 3x integrated Fast Ethernet LAN
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0169PXEES/?tag=tolees0d-21)

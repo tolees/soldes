@@ -28,9 +28,9 @@ C'est en vente [Playmobil - Tente et Campeurs - 70089](https://www.amazon.fr/dp/
 
 ℹ️:
 
+- Convient aux enfants à partir de 4 ans.
 - Cest lheure du camping en famille!
 - La grande tente se replie et offre suffisamment despace pour accueillir les trois personnages.
-- Convient aux enfants à partir de 4 ans.
 - En tente ou en camping-car, viens camper avec toute la famille !
 - Il y a un table de camping pliable, tabourets et dautres accessoires.
 
