@@ -28,7 +28,7 @@ C'est en vente [Playmobil- Jouet  70529](https://www.amazon.fr/dp/B08Q7GJBHH/?ta
 
 ℹ️:
 
-- Contains 2 characters
 - Transportable
+- Contains 2 characters
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Q7GJBHH/?tag=tolees0d-21)

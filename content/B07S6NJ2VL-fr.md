@@ -28,10 +28,10 @@ Vous avez [Potensic Drone GPS T25 FPV Hélicoptère Caméra 120° Grand Angle R�
 
 ℹ️:
 
-- [Vision plus large et transmission fluide]: la caméra HD 1080P avec champ de vision à 120 ° et grand angle réglable à 75 ° permet de capturer des photos clairement et des vidéos plus stables. La caméra WiFi vous offre une transmission dimage plus rapide mais plus claire.
-- [Pratique et facile]: avec un étui de transport en aluminium argenté, vous pouvez lamener à lextérieur de manière pratique. Le mode sans tête, le mode Altitude et la fonction One Key to Take-off / Land facilitent laccès aux enfants ou aux débutants.
 - [Intelligent et amusant]: le mode Suivez-moi et le double GPS libèrent vos mains, tandis que le drone Potensic vous suit automatiquement, capturant simultanément toutes les vidéos et photos. De plus, le drone T25 volera comme vous le souhaitez une fois la fonction Personnaliser la trajectoire de vol activée.
-- [Vol plus sûr et plus stable]: Équipé dun double GPS, le drone restera immobile dans le vent et retournera automatiquement à la maison lorsquil est avec une faible puissance ou un signal faible ou perdu.
 - [Plus loin et plus large]: 2 * batterie modulaire de 1000 mAh et portée de contrôle jusquà 300 m vous permettent daller plus loin et de voir plus large.
+- [Pratique et facile]: avec un étui de transport en aluminium argenté, vous pouvez lamener à lextérieur de manière pratique. Le mode sans tête, le mode Altitude et la fonction One Key to Take-off / Land facilitent laccès aux enfants ou aux débutants.
+- [Vol plus sûr et plus stable]: Équipé dun double GPS, le drone restera immobile dans le vent et retournera automatiquement à la maison lorsquil est avec une faible puissance ou un signal faible ou perdu.
+- [Vision plus large et transmission fluide]: la caméra HD 1080P avec champ de vision à 120 ° et grand angle réglable à 75 ° permet de capturer des photos clairement et des vidéos plus stables. La caméra WiFi vous offre une transmission dimage plus rapide mais plus claire.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S6NJ2VL/?tag=tolees0d-21)
