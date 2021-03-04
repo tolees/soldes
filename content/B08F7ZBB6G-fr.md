@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.46 % rabais sur Xiaomi Redmi 9C - Smartphone Débloqué 4G'
-date: 2021-02-27 22:59:43
+date: 2021-03-04 18:45:13
 image: 'https://m.media-amazon.com/images/I/41u0b+JPATL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Xiaomi'
 buyurl: 'https://www.amazon.fr/dp/B08F7ZBB6G/?tag=tolees0d-21'
 descuento: '19.46'
-average: '115.814285714286'
+average: '115.33125'
 ---
 
 Vous avez [Xiaomi Redmi 9C - Smartphone Débloqué 4G  6.53 Pouces - 2Go RAM - 32Go Stockage  5000mAh  - Orange - Version Française](https://www.amazon.fr/dp/B08F7ZBB6G/?tag=tolees0d-21)  à  19.46 % de réduction, prix final  111.95 EUR (original: 139.0 EUR) ici:
@@ -28,9 +28,9 @@ Vous avez [Xiaomi Redmi 9C - Smartphone Débloqué 4G  6.53 Pouces - 2Go RAM - 3
 
 ℹ️:
 
-- Batterie 5000mAh
-- Triple caméras 13 MP
 - Écran HD Drop Dot de 6,53 pouces
+- Triple caméras 13 MP
+- Batterie 5000mAh
 - Processeur MediaTek Helio G35
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F7ZBB6G/?tag=tolees0d-21)

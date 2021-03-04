@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY SSD7CS900-240-PB Disque Flash SSD in avec 41.81 % rabais '
-date: 2021-02-28 23:12:34
+date: 2021-03-04 18:20:56
 image: 'https://m.media-amazon.com/images/I/51OPxD-Vv3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,9 @@ C'est en vente [PNY SSD7CS900-240-PB Disque Flash SSD interne 120 Go SATA III No
 
 ℹ️:
 
-- Idéal pour booster le système et les applications de tous les types dordinateur
-- Capacité de 120 Go
-- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
-- Format Slim 7 mm
-- Garantie 3 ans par le SAV PNY situé en France
-- Interface Serial ATA III/6 GBPs
+- Nand_type TLC NAND Flash / Power consumption 2.2W Active, 0.17W Idle; / Mtbf 2 million hours
+- SATA III 6Gb/s; backwards compatible with SATA II 3Gb/s
+- Max sequential read speed Up to 515 MB/s / Max sequential write speed Up to 490 MB/s
+- Cool and Quiet Operation / Energy Efficient / Shock Proof
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)
