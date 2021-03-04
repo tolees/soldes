@@ -28,8 +28,8 @@ C'est en vente [GEOX Woman D SUKIE A SHOES BLACK 38 EU](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Cuir Souple
-- Synthétique
 - Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Synthétique
+- Cuir Souple
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0825NH7WQ/?tag=tolees0d-21)
