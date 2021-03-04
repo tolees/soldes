@@ -28,8 +28,8 @@ C'est en vente [Milestone - Ride 4  PS5 ](https://www.amazon.fr/dp/B08KXF3JZJ/?t
 
 ℹ️:
 
+- Plongez dans une aventure totalement dynamique qui interagit avec vos décisions et tracez votre propre route, depuis les événements régionaux jusqu’aux ligues professionnelle
 - Choisissez parmi 176 motos sous licences officielles et roulez sur 30 pistes autour du monde, toutes soigneusement conçues avec un niveau de détail exceptionnel !
 - Ride 4 dispose d’un système entièrement dynamique de conditions météorologiques changeantes et d’un cycle jour/ nuit complet.
-- Plongez dans une aventure totalement dynamique qui interagit avec vos décisions et tracez votre propre route, depuis les événements régionaux jusqu’aux ligues professionnelle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KXF3JZJ/?tag=tolees0d-21)
