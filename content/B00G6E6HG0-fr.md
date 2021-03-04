@@ -28,9 +28,9 @@ Vous avez [Vtech - 151315 - Véhicule Miniature - Tut Tut Bolides - Mon Super Ca
 
 ℹ️:
 
+- Descriptif produit : Un super camion de pompier 2 en 1 : camion pompier et caserne !Différentes actions :– La grande échelle se déplie et tourne à 360°– Les portes du camion s’ouvrent et se transforment en route – 1 bouton sonore sirène– Nombreux éléments à manipuler3 zones magiques déclenchent phrases, sons et musiques au passage des Tut Tut Bolides.Compatible avec tous les univers Tut Tut Bolides.Inclus : 1 véhicule électronique « Clémence, SOS ambulance ».2 piles LR03 incluses.
 - Age minimum : 12 mois
 - Nécessite des piles : 2 piles AAA incluses
-- Descriptif produit : Un super camion de pompier 2 en 1 : camion pompier et caserne !Différentes actions :– La grande échelle se déplie et tourne à 360°– Les portes du camion s’ouvrent et se transforment en route – 1 bouton sonore sirène– Nombreux éléments à manipuler3 zones magiques déclenchent phrases, sons et musiques au passage des Tut Tut Bolides.Compatible avec tous les univers Tut Tut Bolides.Inclus : 1 véhicule électronique « Clémence, SOS ambulance ».2 piles LR03 incluses.
 - Version française
 - Contenu du packaging : 1 camion + 1 véhicule
 

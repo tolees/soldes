@@ -28,10 +28,10 @@ Vous avez [Western Digital - WD Green 240Go Internal SSD M.2 SATA](https://www.a
 
 ℹ️:
 
-- R?sistant aux chocs et WD F.I.T. Lab certifi? pour la compatibilit? et la fiabilit?.
-- Surveillez létat de votre disque dur avec le tableau de bord WD SSD gratuit et téléchargeable et clonez les disques avec le logiciel Acronis True Image WD Edition
-- Les disques durs WD Green font partie des disques durs les moins énergivores du marché
-- La mise en cache de la cellule SLC (Single-Level Cell) am?liore les performances en ?criture pour effectuer rapidement les t?ches quotidiennes.
 - Tr?s faible consommation d?nergie pour que vous puissiez utiliser votre ordinateur portable pendant de longues p?riodes.
+- Surveillez létat de votre disque dur avec le tableau de bord WD SSD gratuit et téléchargeable et clonez les disques avec le logiciel Acronis True Image WD Edition
+- La mise en cache de la cellule SLC (Single-Level Cell) am?liore les performances en ?criture pour effectuer rapidement les t?ches quotidiennes.
+- Les disques durs WD Green font partie des disques durs les moins énergivores du marché
+- R?sistant aux chocs et WD F.I.T. Lab certifi? pour la compatibilit? et la fiabilit?.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WYS5K6/?tag=tolees0d-21)

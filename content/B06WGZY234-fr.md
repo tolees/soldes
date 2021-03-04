@@ -28,10 +28,10 @@ Vous avez [Playmobil - Club d Équitation - 6926](https://www.amazon.fr/dp/B06WG
 
 ℹ️:
 
+- 2 figures, 3 horses, 2 stables, with gate fence for various assembly possibilities, etc., can be combined with Playmobil Country Horse Grooming Station (6929 sold separately)
 - Fun for little horse fans: Playmobil Large Horse Farm with animals, stables, open-air enclosures and other accessories for detailed re-enactments
-- Playset for children ages 5+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
 - Contents: 1 x Playmobil Country Large Horse Farm, 358-piece play figure set with instructions: 1 horse farm, 14 animals, 2 figures, 341 accessories, Material: Plastic, L x W x H: 69.5 x 41 x 24.5 cm, 6926
 - Can be used every day: Instructions for setting up with parents, high quality and robust design, clean the parts (without stickers) under running water without chemical agents
-- 2 figures, 3 horses, 2 stables, with gate fence for various assembly possibilities, etc., can be combined with Playmobil Country Horse Grooming Station (6929 sold separately)
+- Playset for children ages 5+, ideal for childrens hands due to age-appropriate size and easy to hold thanks to the rounded edges
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WGZY234/?tag=tolees0d-21)

@@ -29,11 +29,11 @@ Vous avez [Sony UBP-X700 Lecteur Blu-ray™ 4K Ultra HD](https://www.amazon.fr/d
 ℹ️:
 
 - Accédez à une multitude de contenus 4K grâce aux services en streaming accessible via la connexion wifi du lecteur
-- Fonction dimage: True Cinema 24p, 4K haut de gamme (60p), Deep color (12 bits)
-- Son design fin sadapte parfaitement à votre meuble TV
-- Vivez lexpérience ultime du 4K HDR avec HDR10 et Dolby Vison* pour des détails, des couleurs, et une luminosité époustouflants. Format audio: AAC (.AAC, .mka), AIFF (.aiff, .aif), ALAC (.m4a), Dolby Digital (.ac3, .mka), DSD - DSDIFF / DSD (.dff, .dsf), FLAC (.flac, .fla), HEAAC v.1 / v.2 / niveau2, LPCM (.mka), Monkeys Audio, Vorbis, WMA10 Pro, Norme WMA9 (.WMA)
 - Consommation électrique (mode veille): 0,4 W
 - Consommation électrique: 15 W en fonctionnement, 0,35 W en veille
+- Fonction dimage: True Cinema 24p, 4K haut de gamme (60p), Deep color (12 bits)
+- Vivez lexpérience ultime du 4K HDR avec HDR10 et Dolby Vison* pour des détails, des couleurs, et une luminosité époustouflants. Format audio: AAC (.AAC, .mka), AIFF (.aiff, .aif), ALAC (.m4a), Dolby Digital (.ac3, .mka), DSD - DSDIFF / DSD (.dff, .dsf), FLAC (.flac, .fla), HEAAC v.1 / v.2 / niveau2, LPCM (.mka), Monkeys Audio, Vorbis, WMA10 Pro, Norme WMA9 (.WMA)
+- Son design fin sadapte parfaitement à votre meuble TV
 - Prise en charge dun large choix de contenus vidéo et audio tels que Dolby Atmos et DTS: X, DSD, flac, mp3…
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WSCXHX/?tag=tolees0d-21)

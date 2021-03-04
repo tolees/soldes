@@ -28,9 +28,9 @@ Vous avez [Guirlande Lumineuse 12M 120LED  OMERIL Fairy Lights IP65 Etanche Déc
 
 ℹ️:
 
+- 🎄Convivial🎄Cette guirlande led 12M au port USB est plus pratique que les guirlandes lumineuses à pile ou prise, vous pouvez lemporter et linstaller nimporte où à votre guise. Le port USB fonctionne avec tout appareil USB tels que chargeur téléphone mobile, batterie externe, ordinateur de table/portable, etc
 - 🎄Garantie de 24 Mois🎄Si vous nêtes pas 100% satisfait avec cette guirlande lumineuse, nhésitez pas à nous contacter, nous sommes heureux de vous offrir les services remboursement ou remplacement. Embellissez votre vie aujourdhui, cliquer sur le bouton "Ajouter au panier" MAINTENANT >>>
 - 🎄Efficace et Sûre🎄Cette guirlande lumineuse 120 micro leds illumine lespace environnant à 360 dégrés. Une batterie externe 10,000mAh(non incluse) prend en charge cette guirlande led pour plus de 150 heures dutilisation. Pas de surchauffe, sans danger pour les enfants et les animaux domestiques.
-- 🎄Convivial🎄Cette guirlande led 12M au port USB est plus pratique que les guirlandes lumineuses à pile ou prise, vous pouvez lemporter et linstaller nimporte où à votre guise. Le port USB fonctionne avec tout appareil USB tels que chargeur téléphone mobile, batterie externe, ordinateur de table/portable, etc
 - 🎄Souple et Doux🎄Cette guirlande de fil argenté est super lumineuse, faite en matériau écologique, résistant à la rupture, peut être facilement bouclée dans toutes les formes. Un éclairage tamisé nest pas éblouissant.
 - 🎄Imperméable IP65🎄En plus du port USB, cette guirlande lumineuse extérieur/intérieur à leffet lumière de luciole est bien protégée contre les jets deau ou la pulvérisation de toute direction. Idéale pour partout tels que guinguette, chambre, salle, jardin, bureau, scène etc.
 

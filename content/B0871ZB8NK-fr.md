@@ -28,10 +28,10 @@ Vous avez [Videoprojecteur WiFi  VANKYO Projecteur Connexion WiFi Synchronisatio
 
 ℹ️:
 
+- 【250" Grand Ecran】L470 pico vidéo projecteur dextérieur offre la taille de projection de 39" à 250" selon la distance (1.3m-8.1m). 3m est la distance de visualisation recommandée. Et Notre projecteur a la correction trapézoïdale±15 verticale, ce qui garantit que limage projetée sera toujours de forme rectangulaire.
 - 【Projecteur Connectivité Multiple】Le vidéo projecteur est équipé de multiples ports, incluant une port HDMI, VGA, USB, sortie audio et AV. Il peut facilement être connecté avec votre téléphone, PS3, PS4 ou X-Box One pour visionner des vidéos, séries télévisés, partages de photos, jeux, etc.
 - 【Haute luminosité Mini Projecteur】Avec la résolution native 1280X720P et le rapport de contraste de 3000:1, il améliore votre expérience visuelle. Il supporte les sources dentrée vidéo 480P, 720P et 1080P, idéal pour le divertissement à domicile et les soirées.
-- 【250" Grand Ecran】L470 pico vidéo projecteur dextérieur offre la taille de projection de 39" à 250" selon la distance (1.3m-8.1m). 3m est la distance de visualisation recommandée. Et Notre projecteur a la correction trapézoïdale±15 verticale, ce qui garantit que limage projetée sera toujours de forme rectangulaire.
-- 【Miroir décran Wifi】Prenant en charge la projection filaire et sans fil pour les systèmes iOS et Android, vous pouvez facilement connecter votre téléphone ou iPad par Wi-Fi sans acheter des dongles sans fil. (En raison du droit dauteur des App, notre fonction de mise en miroir décran ne supporter pas les vidéos de Netflix, Amazon Prime et Hulu.)
 - 【Hi-Fi Stéréo&Faible Bruit】Le vidéoprojecteur silencieux L470 Full HD 720P adopte le dernier système de haut-parleurs intégré de son stéréo HiFi, qui vous donnera des larges aigus, des médiums précis et des graves puissants. En plus, la structure avancé de dissipation thermique améliorée comprend également un mode écologique qui réduit le bruit de 30% à 50%.
+- 【Miroir décran Wifi】Prenant en charge la projection filaire et sans fil pour les systèmes iOS et Android, vous pouvez facilement connecter votre téléphone ou iPad par Wi-Fi sans acheter des dongles sans fil. (En raison du droit dauteur des App, notre fonction de mise en miroir décran ne supporter pas les vidéos de Netflix, Amazon Prime et Hulu.)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0871ZB8NK/?tag=tolees0d-21)

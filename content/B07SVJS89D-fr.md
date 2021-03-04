@@ -28,10 +28,10 @@ C'est en vente [Geox Gar on J Android Boy C Sneakers Basses  Bleu Navy Red C0735
 
 ℹ️:
 
-- Nebula amphibiox respiratoire net-breathing système de respiration imperméable, semelle en cuir imperméable, semelle en caoutchouc naturel, semelle sportive, respirante, noir et blanc, charlene snake donna fermeture velcro argentée, bande LED clignotante, artiste android agasim airell claudio sand dublin Federico. Euro éclipse Jaune gregg illusion inspiration cristal kaytan lana lumière loris bleu marine foncé opira orizont oxford pavel taupe piuma roxanne vega vintage xunday
-- Largeur : normale - Fermeture : fermeture Velcro
-- Geox ANDROID BOY J0244C Chaussures basses pour garçon avec fermeture Velcro Bleu marine/rouge
-- Matériau extérieur : 76 % polyuréthane synthétique, 4 % polyuréthane synthétique, 20 % maille textile polyester (synthétique), intérieur : 100 % maille textile polyester (textile), semelle extérieure : 100 % caoutchouc termoplastic (caoutchouc), semelle intérieure : 87 % cuir Goat-13 % synthétique (semelle intérieure en cuir, respirante)
 - Type de talon: Plat, Hauteur de talon: 3 cm, Type de tige: Tige courte
+- Geox ANDROID BOY J0244C Chaussures basses pour garçon avec fermeture Velcro Bleu marine/rouge
+- Largeur : normale - Fermeture : fermeture Velcro
+- Matériau extérieur : 76 % polyuréthane synthétique, 4 % polyuréthane synthétique, 20 % maille textile polyester (synthétique), intérieur : 100 % maille textile polyester (textile), semelle extérieure : 100 % caoutchouc termoplastic (caoutchouc), semelle intérieure : 87 % cuir Goat-13 % synthétique (semelle intérieure en cuir, respirante)
+- Nebula amphibiox respiratoire net-breathing système de respiration imperméable, semelle en cuir imperméable, semelle en caoutchouc naturel, semelle sportive, respirante, noir et blanc, charlene snake donna fermeture velcro argentée, bande LED clignotante, artiste android agasim airell claudio sand dublin Federico. Euro éclipse Jaune gregg illusion inspiration cristal kaytan lana lumière loris bleu marine foncé opira orizont oxford pavel taupe piuma roxanne vega vintage xunday
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SVJS89D/?tag=tolees0d-21)

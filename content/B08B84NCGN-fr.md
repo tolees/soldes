@@ -28,10 +28,10 @@ Vous avez [Fisher-Price Little People Le Tracteur musical à faire rouler  versi
 
 ℹ️:
 
-- Appuyez sur le fauteuil du conducteur ou sur le bouton du haut pour entendre des chansons, des bruits et des phrases sur le thème de la ferme
-- La remorque se détache pour pouvoir transporter les animaux à part et jouer avec eux partout
-- Jouet tracteur à faire rouler avec musique, bruits d’animaux et phrases
 - Pour les enfants de 1 à 5 ans
+- Appuyez sur le fauteuil du conducteur ou sur le bouton du haut pour entendre des chansons, des bruits et des phrases sur le thème de la ferme
+- Jouet tracteur à faire rouler avec musique, bruits d’animaux et phrases
+- La remorque se détache pour pouvoir transporter les animaux à part et jouer avec eux partout
 - Inclut un tracteur, une remorque détachable et des figurines de fermier, de mouton et de cochon
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B84NCGN/?tag=tolees0d-21)
