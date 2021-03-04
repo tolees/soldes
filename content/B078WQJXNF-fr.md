@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '45.58 % rabais sur Samsung SSD Interne 860 EVO 2.5"  250 Go'
-date: 2021-02-28 18:48:48
+title: '35.17 % rabais sur Samsung SSD Interne 860 EVO 2.5"  250 Go'
+date: 2021-03-04 12:19:11
 image: 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,34 +9,34 @@ author: ring
 slug: 'B078WQJXNF-fr Samsung SSD Interne 860 EVO 2.5" 250 Go - MZ-76E250B/EU'
 sku: 'B078WQJXNF-fr'
 tags: [  ]
-actualPrice: 46.25 EUR
+actualPrice: 55.1 EUR
 currency: EUR
-price: 46.25
+price: 55.1
 comparePrice: 84.99 EUR
 prodname: 'Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21'
-descuento: '45.58'
-average: '45.5297419354838'
+descuento: '35.17'
+average: '45.6516560509554'
 ---
 
-Vous avez [Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU](https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21)  à  45.58 % de réduction, prix final  46.25 EUR (original: 84.99 EUR) ici:
+Vous avez [Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU](https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21)  à  35.17 % de réduction, prix final  55.1 EUR (original: 84.99 EUR) ici:
 
 [![Samsung SSD Interne 860 EVO 2.5"  250 Go](https://m.media-amazon.com/images/I/41JrIwN+kyL._SL400_.jpg)](https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21)
 
 ℹ️:
 
-- NAND Type: Samsung V-NAND 3bit MLC
-- 1.5 Million Hours Reliability (MTBF)
-- Capacité: 250 Go (la capacité réelle peut être inférieure (une certaine partie de la capacité peut être utilisée par le formatage, le système d’exploitation ou d’autres applications)
 - Interface : SATA 6 Go/s (compatible avec SATA 3 Go/s et SATA 1,5 Go/s). TRIM pris en charge
 - Jusquà 550Mo/s de lecture séquentielle et 520Mo/s décriture séquentielle
-- Lecture aléatoire (4Ko, QD1):Jusquà 10000 IOPS et écriture aléatoire (4Ko, QD1): Jusquà 42 000 IOPS (les performances de lecture et décriture aléatoires peuvent varier en fonction du matériel et de la configuration du système)
-- Chocs: 1,500G & 0,5ms
+- Capacité: 250 Go (la capacité réelle peut être inférieure (une certaine partie de la capacité peut être utilisée par le formatage, le système d’exploitation ou d’autres applications)
+- 1.5 Million Hours Reliability (MTBF)
+- NAND Type: Samsung V-NAND 3bit MLC
 - Garantie: 5ans. Température de fonctionnement: 0 - 70℃
-- Mémoire cache: 512 Mo LPDDR4
+- Lecture aléatoire (4Ko, QD1):Jusquà 10000 IOPS et écriture aléatoire (4Ko, QD1): Jusquà 42 000 IOPS (les performances de lecture et décriture aléatoires peuvent varier en fonction du matériel et de la configuration du système)
 - Poids Max 50.0g
+- Chocs: 1,500G & 0,5ms
+- Mémoire cache: 512 Mo LPDDR4
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21)

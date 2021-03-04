@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil- Jouet  70529 avec 19.09 % rabais '
-date: 2021-03-03 12:38:07
+date: 2021-03-04 12:43:07
 image: 'https://m.media-amazon.com/images/I/51Ww+eA4GKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ C'est en vente [Playmobil- Jouet  70529](https://www.amazon.fr/dp/B08Q7GJBHH/?ta
 
 ℹ️:
 
+- Contains 2 characters
 - Transportable
-- Contient 2 personnages
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Q7GJBHH/?tag=tolees0d-21)
