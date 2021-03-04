@@ -28,10 +28,10 @@ C'est en vente [Krups YY3876FD Machine à Café Manuelle Nescafé Dolce Gusto In
 
 ℹ️:
 
+- Multi-boissons : café, espresso, cappuccino, chocolat et thé
+- Levier sélecteur pour boisson froide ou boisson chaude
+- Capacité de réservoir deau amovible XL : 1,2 litres
 - Machine à café manuelle compacte au design unique
 - Mise en température : environ 30 secondes
-- Levier sélecteur pour boisson froide ou boisson chaude
-- Multi-boissons : café, espresso, cappuccino, chocolat et thé
-- Capacité de réservoir deau amovible XL : 1,2 litres
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GBDY1KK/?tag=tolees0d-21)
