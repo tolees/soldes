@@ -28,10 +28,10 @@ C'est en vente [JBL Tune500BT - Casque supra-auriculaire - Léger et pliable - �
 
 ℹ️:
 
-- Vous avez un appel ? Grâce à la télécommande à un bouton et au microphone intégré répondez aux appels en un seul geste rapide – Compatible avec les assistants vocaux Siri et Google Now
-- Passez facilement de votre tablette à votre smartphone grâce à la connexion multi-points : si vous avez un appel lorsque vous regardez une vidéo, le casque bascule directement sur votre portable
-- Un son précis et impressionnant – dans un modèle pliable ! Le casque supra-auriculaire Tune500BT sans fil reproduit le son Pure Bass de JBL, caractéristique des grandes salles de cinéma
-- Livraison : 1x casque supra-auriculaire Tune500BT JBL / Pour diffusion sans fil Bluetooth / Léger et pliable – Télécommande et microphone intégrés / fonction mains libres pour smartphones / Blanc
 - Diffusion Bluetooth : pour 16h de pur bonheur, ces écouteurs offrent une autonomie de longue durée et un confort supérieur – Conçus avec des matériaux légers et munis de coussinets doux
+- Un son précis et impressionnant – dans un modèle pliable ! Le casque supra-auriculaire Tune500BT sans fil reproduit le son Pure Bass de JBL, caractéristique des grandes salles de cinéma
+- Passez facilement de votre tablette à votre smartphone grâce à la connexion multi-points : si vous avez un appel lorsque vous regardez une vidéo, le casque bascule directement sur votre portable
+- Vous avez un appel ? Grâce à la télécommande à un bouton et au microphone intégré répondez aux appels en un seul geste rapide – Compatible avec les assistants vocaux Siri et Google Now
+- Livraison : 1x casque supra-auriculaire Tune500BT JBL / Pour diffusion sans fil Bluetooth / Léger et pliable – Télécommande et microphone intégrés / fonction mains libres pour smartphones / Blanc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HGG1XTS/?tag=tolees0d-21)

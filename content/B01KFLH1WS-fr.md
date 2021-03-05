@@ -28,11 +28,11 @@ C'est en vente [PNY CS900 SSD Interne SATA III  2.5 pouces  120Go  Vitesse de le
 
 ℹ️:
 
+- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
+- Format Slim 7 mm
 - Garantie 3 ans par le SAV PNY situé en France
 - Interface Serial ATA III/6 GBPs
-- Format Slim 7 mm
 - Capacité de 120 Go
 - Idéal pour booster le système et les applications de tous les types dordinateur
-- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)

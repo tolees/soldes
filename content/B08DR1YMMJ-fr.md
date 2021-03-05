@@ -28,10 +28,10 @@ C'est en vente [Lonheo Mitigeur Cuisine Rabattable Pivotant à 360°  Robinet de
 
 ℹ️:
 
+- 𝗔É𝗥𝗔𝗧𝗘𝗨𝗥 𝗗É𝗠𝗢𝗡𝗧𝗔𝗕𝗟𝗘: Mitigeur utilise un aérateur spécial, ce qui réduit non seulement le bruit de l’écoulement deau, mais peut également être facilement démonté et nettoyé.
 - 𝗤𝗨𝗔𝗟𝗜𝗧É 𝗙𝗜𝗔𝗕𝗟𝗘: Robinet fait d’acier inoxydable 304 de haute qualité, avec une finition dacier inox brossé. Pas de plomb, pas dodeur particulière, prenez soin de votre santé.
 - 𝗥𝗢𝗕𝗜𝗡𝗘𝗧 𝗘𝗩𝗜𝗘𝗥: Bec pivotage à 360° permet une grande liberté dans votre plan-travail, convient à tous les éviers, permet de laver facilement les ustensiles de cuisine.
-- 𝗔É𝗥𝗔𝗧𝗘𝗨𝗥 𝗗É𝗠𝗢𝗡𝗧𝗔𝗕𝗟𝗘: Mitigeur utilise un aérateur spécial, ce qui réduit non seulement le bruit de l’écoulement deau, mais peut également être facilement démonté et nettoyé.
-- 𝗥𝗢𝗕𝗜𝗡𝗘𝗧 𝗥𝗔𝗕𝗔𝗧𝗧𝗔𝗕𝗟𝗘: Peut être rabattu vers lévier, et la poignée aussi, convient parfaitement à lévier devant fenêtre. Plus de soucis de ne pas pouvoir ouvrir la fenêtre.
 - 𝗠𝗢𝗡𝗧𝗔𝗚𝗘 𝗙𝗔𝗖𝗜𝗟𝗘: Mitigeur se monte facilement, instructions dinstallation détaillées et pack daccessoires complet fournis. Vous navez pas besoin de chercher un plombier.
+- 𝗥𝗢𝗕𝗜𝗡𝗘𝗧 𝗥𝗔𝗕𝗔𝗧𝗧𝗔𝗕𝗟𝗘: Peut être rabattu vers lévier, et la poignée aussi, convient parfaitement à lévier devant fenêtre. Plus de soucis de ne pas pouvoir ouvrir la fenêtre.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DR1YMMJ/?tag=tolees0d-21)

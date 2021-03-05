@@ -30,8 +30,8 @@ Vous avez [De Longhi DD230P Aria Dry Pump Déshumidificateur  Efficacité dès 2
 
 - PRATIQUE : Le réservoir transparent permet de contrôler facilement le niveau deau et les performances du déshumidificateur. Déshumidificateur silencieux avec déplacement facile grâce à ses roulettes
 - EFFICACE : Retirez jusquà 30 litres dexcédent dhumidité en 24 heures, idéal pour toutes les pièces de la maison chambre, salon, salle de bain, garage
-- FILTRE ANTI-POUSSIERES : filtre lavable et spécialement conçu pour retirer les polluants et les allergènes. Il améliore ainsi la qualité de lair tout en retirant efficacement lexcès dhumidité
 - ECOLOGIQUE : L’utilisation du gaz réfrigérant 100% naturel R290 fait de ce déshumidificateur un produit écologique et performant
+- FILTRE ANTI-POUSSIERES : filtre lavable et spécialement conçu pour retirer les polluants et les allergènes. Il améliore ainsi la qualité de lair tout en retirant efficacement lexcès dhumidité
 - SYSTÈME AVEC POMPE DE RELEVAGE : Déchargez leau due à la condensation même dans votre sous-sol. Contourner tous les obstacles jusquà 5 m de hauteur, grâce à son tuyau qui évacue en continu leau
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NH2JRZZ/?tag=tolees0d-21)
