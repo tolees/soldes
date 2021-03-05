@@ -28,11 +28,11 @@ Vous avez [Tommy Hilfiger Core Tommy Slim Polo  Bleu  Sky Captain 403   Medium H
 
 ℹ️:
 
-- Col montant
-- Broderie Tommy Hilfiger sur la poitrine
 - Bande décorative typique de la marque à lintérieur de lencolure
-- Coupe ajustée
 - Boutonnière à trois boutons
+- Broderie Tommy Hilfiger sur la poitrine
+- Col montant
+- Coupe ajustée
 - 100 %
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079VP7V2L/?tag=tolees0d-21)

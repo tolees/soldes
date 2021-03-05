@@ -29,12 +29,12 @@ Vous avez [Logitech G Driving Force Levier de Vitesse pour Volant de Course G29 
 ℹ️:
 
 - Construction de Qualité: Grâce à un arbre de transmission solide en acier, le levier de vitesse Driving Force est fabriqué à partir de matériaux de haute qualité pour des courses de précision
-- Compatibilité du périphérique: Logitech G923, Logitech G29, Logitech G920
-- Interface du matériel informatique: Autre | Type de connecteur: 9 pin serial
-- Type de connectivité: FIlaire | Bluetooth: Non
-- Compatibilité: Levier de vitesse Logitech concu pour les volants de course driving Force G29 et G920
-- Levier six Vitesses: Le motif du levier à six vitesses en "H" avec enclenchement de la marche arrière par pression se déplace avec fluidité et senclenche solidement sur chaque vitesse
-- Montage Sécurisé: Les pinces intégrées durables permettent une fixation sécurisée du levier de vitesse Driving Force sur une table ou un simulateur de course
 - Conçu pour la Course: Logitech Driving Force disposent de composants en cuir et acier offrant confort et résistance
+- Levier six Vitesses: Le motif du levier à six vitesses en "H" avec enclenchement de la marche arrière par pression se déplace avec fluidité et senclenche solidement sur chaque vitesse
+- Compatibilité du périphérique: Logitech G923, Logitech G29, Logitech G920
+- Type de connectivité: FIlaire | Bluetooth: Non
+- Interface du matériel informatique: Autre | Type de connecteur: 9 pin serial
+- Compatibilité: Levier de vitesse Logitech concu pour les volants de course driving Force G29 et G920
+- Montage Sécurisé: Les pinces intégrées durables permettent une fixation sécurisée du levier de vitesse Driving Force sur une table ou un simulateur de course
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZWOUH4S/?tag=tolees0d-21)
