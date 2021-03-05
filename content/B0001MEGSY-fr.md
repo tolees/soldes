@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Le Village - Le Mob avec 51.00 % rabais '
-date: 2021-03-04 18:19:09
+date: 2021-03-05 20:28:53
 image: 'https://m.media-amazon.com/images/I/51OT9gvuRpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B0001MEGSY/?tag=tolees0d-21'
 descuento: '51.00'
-average: '15.8174683544307'
+average: '15.8122641509438'
 ---
 
 C'est en vente [Sylvanian Families - Le Village - Le Mobilier Chambre enfants - 4254 - Meubles et Accessoires Poupée - Mini Poupées](https://www.amazon.fr/dp/B0001MEGSY/?tag=tolees0d-21)  à  51.00 % de réduction, prix final  14.99 EUR (original: 30.59 EUR) ici:

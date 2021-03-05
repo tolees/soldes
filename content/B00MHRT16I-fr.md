@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.67 % rabais sur Sylvanian Families - Le Village - L Écol'
-date: 2021-03-04 18:33:17
+date: 2021-03-05 20:39:19
 image: 'https://m.media-amazon.com/images/I/51NhcqYBV+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21'
 descuento: '16.67'
-average: '48.4759375'
+average: '48.4876744186046'
 ---
 
 Vous avez [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Crèche des Bébés - Mini Poupées](https://www.amazon.fr/dp/B00MHRT16I/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  49.99 EUR (original: 59.99 EUR) ici:
@@ -28,12 +28,12 @@ Vous avez [Sylvanian Families - Le Village - L École de La Fôrét - 5105 - Cr�
 
 ℹ️:
 
+- 35 pièces composent le set
 - Dimensions : 38 x 33 x 21,5 cm
+- Age minimum : 3 ans
+- 35 pièces composent le set
+- Age minimum : 3 ans
 - Intérieur pour 6 élèves et un(e) instituteur(tric)
-- 35 pièces composent le set
-- Age minimum : 3 ans
-- 35 pièces composent le set
-- Age minimum : 3 ans
 - Intérieur pour 6 élèves et un(e) instituteur(tric)
 - Dimensions : 38 x 33 x 21,5 cm
 
