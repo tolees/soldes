@@ -28,14 +28,14 @@ Vous avez [Tefal L20098AZ Ingenio Essential Batterie De Cuisine Noir Tous Feux S
 
 ℹ️:
 
-- Poignée garantie 10 ans
-- Composition du set : poêles 20/22/26 cm + Casseroles 16/18 cm + Couvercles hermétiques 16/18 cm + Spatule angle + Louche + 1 poignée amovible
-- Poignée 100% sure grace à son système de 3 points de fixation, elle supporte jusquà 10 kg
-- Compatible tous feux sauf induction + four (sauf poignée)
-- Le revêtement anti-adhésif Power Glide est sain (sans PFOA) et dure jusquà 8000 cycles dutilisation (2 ans)
-- Produit recyclable
 - De la plaque de cuisson au four, sur la table, dans le réfrigérateur, les produits Ingenio sont polyvalents mais aussi empilables pour un rangement optimal et un gain de place dans vos placards
+- Poignée 100% sure grace à son système de 3 points de fixation, elle supporte jusquà 10 kg
+- Composition du set : poêles 20/22/26 cm + Casseroles 16/18 cm + Couvercles hermétiques 16/18 cm + Spatule angle + Louche + 1 poignée amovible
+- Produit recyclable
+- Le revêtement anti-adhésif Power Glide est sain (sans PFOA) et dure jusquà 8000 cycles dutilisation (2 ans)
 - Indicateur de température Thermo-Spot de Tefal
+- Poignée garantie 10 ans
+- Compatible tous feux sauf induction + four (sauf poignée)
 - Fabriqué en France par Tefal, N°1 mondial des articles culinaires* ; *Source : Euromonitor International Limited ; édition Home and Garden 2019, valeur de la marque en magasin (RSP), données 2018
 - Facile à nettoyer et compatible lave-vaisselle (sauf poignée)
 
