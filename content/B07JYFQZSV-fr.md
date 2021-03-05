@@ -28,10 +28,10 @@ C'est en vente [Tommy Hilfiger Tommy Logo Hoody Sweat-Shirt  Bleu  Sky Captain 4
 
 ℹ️:
 
-- 93% Coton, 7 Polyester
-- Forme du Col : Capuche
-- Manche Longue
 - Conseils dEntretien : Lavage en Machine
+- Forme du Col : Capuche
+- 93% Coton, 7 Polyester
+- Manche Longue
 - Regular Fit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JYFQZSV/?tag=tolees0d-21)

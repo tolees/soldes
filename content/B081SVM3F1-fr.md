@@ -28,9 +28,9 @@ C'est en vente [Arolun LCD Tablette D écriture 8.5 Pouces  Ardoise Magique Tabl
 
 ℹ️:
 
+- 【Respectueux de lenvironnement et protection des yeux】: Protection des yeux et planche à dessin conçue sans papier est sans rayonnement électromagnétique. Le bouton deffacement de la tablette décriture le rend réutilisable comme équivalent à 50 000 feuilles de papier
 - 【Fonction de verrouillage de la mémoire】: Verrouillez le bouton deffacement pour éviter toute suppression accidentelle. Ne craignez plus de perdre vos grandes idées. Veuillez noter que le bouton de verrouillage de leffacement est activé lorsque vous recevez le nouveau package.
 - 【Meilleur cadeau et applications variées】 Une bonne aide pour que les étudiants puissent noter, rédiger, utiliser pour la formule scientifique mathématique. Un rappel chaleureux pour laisser des messages à vos familles, vos amoureux, et vous pouvez le mettre sur le bureau. Aussi un jouet significatif pour vos enfants ou enfants en bas âge pour développer une bonne habitude pour le dessin et lécriture
-- 【Respectueux de lenvironnement et protection des yeux】: Protection des yeux et planche à dessin conçue sans papier est sans rayonnement électromagnétique. Le bouton deffacement de la tablette décriture le rend réutilisable comme équivalent à 50 000 feuilles de papier
 - 【Coloré et drôle】: L’écran de la tablette d’écriture LCD est coloré, les enfants peuvent y peindre et graffer comme un crayon de couleur sur papier, idéal pour les enfants qui apprennent le dessin et comme outil de communication pour ceux qui ont des troubles de la parole.
 - 【Bouton deffacement le rend facile à utiliser】: Press the "Delete" button and the entire writing or drawing will disappear within one second! More convenient for younger kids who are not ready for electronics!
 
