@@ -28,8 +28,8 @@ C'est en vente [Electronic Arts - Need For Speed Hot Pursuit Remastered  Nintend
 
 ℹ️:
 
-- Nombreuses possibilités de gameplay, solo ou connecté, flic ou hors-la-loi… tout en conduisant à une vitesse fulgurante
 - Version remasterisée et améliorée de l’édition de 2010
+- Nombreuses possibilités de gameplay, solo ou connecté, flic ou hors-la-loi… tout en conduisant à une vitesse fulgurante
 - Une expérience immersive pour les conducteurs fans de conduite compétitive
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KSCQMQ9/?tag=tolees0d-21)
