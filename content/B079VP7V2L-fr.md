@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.97 % rabais sur Tommy Hilfiger Core Tommy Slim Polo  Ble'
-date: 2021-02-27 22:08:08
+date: 2021-03-05 00:29:44
 image: 'https://m.media-amazon.com/images/I/41K5GfTdnrL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Tommy Hilfiger Core Tommy Slim Polo  Bleu  Sky Captain 403   Medium H
 
 ℹ️:
 
-- Broderie Tommy Hilfiger sur la poitrine
-- Coupe ajustée
 - Col montant
+- Broderie Tommy Hilfiger sur la poitrine
 - Bande décorative typique de la marque à lintérieur de lencolure
+- Coupe ajustée
 - Boutonnière à trois boutons
 - 100 %
 
