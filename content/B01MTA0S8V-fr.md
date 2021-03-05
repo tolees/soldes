@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '48.51 % rabais sur EXTEL - 710016 Interphone collectif - Mu'
-date: 2021-02-25 13:57:52
+date: 2021-03-05 13:48:17
 image: 'https://m.media-amazon.com/images/I/41dV4zo3hsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'EXTEL'
 buyurl: 'https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21'
 descuento: '48.51'
-average: '50.8909090909091'
+average: '50.74'
 ---
 
 Vous avez [EXTEL - 710016 Interphone collectif - Multipro 3](https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21)  à  48.51 % de réduction, prix final  49.08 EUR (original: 95.32 EUR) ici:
@@ -28,10 +28,10 @@ Vous avez [EXTEL - 710016 Interphone collectif - Multipro 3](https://www.amazon.
 
 ℹ️:
 
-- Fonction intercommunication entre 2 combinés du même logement
 - Référence fournisseur Extel : 710016
-- Ne nécessite pas d’alimentation supplémentaire pour la commande d’une gâche ou serrure électrique
 - Double commande gâche/serrure électrique et automatisme de portail
+- Fonction intercommunication entre 2 combinés du même logement
 - Possibilité d’installer jusqu’à 8 combinés sur 1 seule platine de rue
+- Ne nécessite pas d’alimentation supplémentaire pour la commande d’une gâche ou serrure électrique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21)
