@@ -28,10 +28,10 @@ C'est en vente [Logitech G - Logitech Casque Gaming sans fil LIGHTSPEED G733 de 
 
 ℹ️:
 
-- Micro détachable avec technologie BLUE VO!CE – Des filtres de micro avancés offrent un rendu plus riche, plus net et plus professionnel à votre voix. Personnalisez votre casque avec le logiciel G HUB pour un son parfaitement ajusté
-- Transducteurs PRO-G – Une immersion totale dans vos jeux grâce à une clarté à couper le souffle pour chaque signal audio. Les transducteurs PRO-G sont conçus pour réduire considérablement la distorsion et reproduire un son dune précision, dune constance et dune richesse exceptionnelles
-- Technologie sans fil LIGHTSPEED – Une liberté totale dans un rayon de 20 m et transmission audio sans fil LIGHTSPEED Autonomie de 29 heures pour le jeu. Jouez en stéréo sur PlayStation 4. Dépend de votre utilisation. Les fonctions avancées telles que DTS Headphone:X 2.0, Blue VO!CE et LIGHTSYNC RVB ne sont pas disponibles sur PlayStation 4
 - Éclairage RVB LIGHTSYNC – Personnalisez léclairage de votre casque avec une gamme complète de 16,8 millions de couleurs. Une expérience de jeu haute en couleurs avec un éclairage RVB double zone à lavant. Choisissez parmi des animations prédéfinies ou créez la vôtre avec le logiciel G HUB
+- Transducteurs PRO-G – Une immersion totale dans vos jeux grâce à une clarté à couper le souffle pour chaque signal audio. Les transducteurs PRO-G sont conçus pour réduire considérablement la distorsion et reproduire un son dune précision, dune constance et dune richesse exceptionnelles
 - Bandeau confortable – Le bandeau de suspension réversible et coloré peut être porté de longues heures de jeu grâce à son confort. Chaque coloris du casque G733 est associé à un design de bandeau différent
+- Micro détachable avec technologie BLUE VO!CE – Des filtres de micro avancés offrent un rendu plus riche, plus net et plus professionnel à votre voix. Personnalisez votre casque avec le logiciel G HUB pour un son parfaitement ajusté
+- Technologie sans fil LIGHTSPEED – Une liberté totale dans un rayon de 20 m et transmission audio sans fil LIGHTSPEED Autonomie de 29 heures pour le jeu. Jouez en stéréo sur PlayStation 4. Dépend de votre utilisation. Les fonctions avancées telles que DTS Headphone:X 2.0, Blue VO!CE et LIGHTSYNC RVB ne sont pas disponibles sur PlayStation 4
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7KT2B3/?tag=tolees0d-21)

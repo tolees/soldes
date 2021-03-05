@@ -28,10 +28,10 @@ Vous avez [qitian - Disque Dur Externe 1to  USB3.1 Type-C Disque Dur Externe Sto
 
 ℹ️:
 
-- Le port de type C permet une insertion aveugle des deux côtés. Fonction veille automatique pour éviter la chaleur corporelle et réduire la consommation.
-- Compatibilité du système : Windows / Linux / Android OS.
-- Coque en alliage daluminium, noyau solide résistant aux chocs pour une plus grande durabilité.
 - Transfert USB 3.1 haute vitesse avec jusquà 100 Mo/s de vitesse de lecture (compatible avec 3.0).
 - Disque dur Externe Facile à utiliser, il vous suffit de brancher votre clé USB pour connecter votre ordinateur.
+- Compatibilité du système : Windows / Linux / Android OS.
+- Le port de type C permet une insertion aveugle des deux côtés. Fonction veille automatique pour éviter la chaleur corporelle et réduire la consommation.
+- Coque en alliage daluminium, noyau solide résistant aux chocs pour une plus grande durabilité.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08X6DY64S/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [Sylvanian Families - Le Village - Les Triplés Chat Persan - 545
 
 ℹ️:
 
-- Dressed in removable fabric clothing
-- Sylvanian Families miniature dollhouses, playsets and figures are timeless and classic high-quality toys.
 - Four piece set: Persian Cat cradled babies and cradle
+- Sylvanian Families miniature dollhouses, playsets and figures are timeless and classic high-quality toys.
+- Dressed in removable fabric clothing
 - Suitable for ages three years and above
 - Persian cat triplets collectable figure
 

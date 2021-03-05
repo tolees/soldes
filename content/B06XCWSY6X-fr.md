@@ -28,8 +28,8 @@ Vous avez [Mademoiselle Rochas ROCHAS ParfumÂ -Â 90Â ml](https://www.amazo
 
 ℹ️:
 
-- Emballage complet.
 - Rochas.
+- Emballage complet.
 - Produit dorigine.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XCWSY6X/?tag=tolees0d-21)
