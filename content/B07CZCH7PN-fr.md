@@ -28,8 +28,8 @@ C'est en vente [Under Armour Links Pant Pantalon Femme  Bleu  8](https://www.ama
 
 ℹ️:
 
-- Composition exacte du produit: 90% Polyester, 10% Elasthanne
 - Couleur: Bleu
 - Pantalon, Taille: Taille Unique
+- Composition exacte du produit: 90% Polyester, 10% Elasthanne
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CZCH7PN/?tag=tolees0d-21)
