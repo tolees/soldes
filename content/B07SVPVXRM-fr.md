@@ -29,10 +29,10 @@ C'est en vente [THQ NORDIC - Destroy All Humans](https://www.amazon.fr/dp/B07SVP
 ℹ️:
 
 - Parcourez librement les villes avec votre jetpack
-- Découvrez les armes uniques de Crypto, comme le pistolet-sonde anale
 - Utilisez la psychokinésie pour lancer vos ennemis en l’air ou les bombarder d’objets
-- Déguisez-vous et infiltrez la misérable démocratie des humains
 - Entièrement recréé dans une gloire galactique nouvelle
+- Déguisez-vous et infiltrez la misérable démocratie des humains
 - Incarnez le côté maléfique d’une invasion extraterrestre dans l’Amérique des années 1950
+- Découvrez les armes uniques de Crypto, comme le pistolet-sonde anale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SVPVXRM/?tag=tolees0d-21)
