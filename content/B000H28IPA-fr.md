@@ -28,10 +28,10 @@ Vous avez [D Addario Chromes ECB81M Cordes moyennes pour basse Léger 45-100](ht
 
 ℹ️:
 
-- Version moyenne (longueur) du jeu de cordes à filet plat pour basse le plus vendu par DAddario
 - Filet en ruban poli pour un toucher ultra-agréable et un son chaud et doux
-- Calibre : Filet .045, .065, .080, .100
+- Version moyenne (longueur) du jeu de cordes à filet plat pour basse le plus vendu par DAddario
 - Fabriquées aux USA pour les meilleures performances et la plus grande qualité
+- Calibre : Filet .045, .065, .080, .100
 - Convient aux basses « medium scale » pour un manche pouvant mesurer jusquà 34" (86,36 cm)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000H28IPA/?tag=tolees0d-21)

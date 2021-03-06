@@ -28,10 +28,10 @@ Vous avez [Trust Quasar Micro-Casque pour PC](https://www.amazon.fr/dp/B01N38BZX
 
 ℹ️:
 
-- Ideal for online gaming sessions, enjoying music and using voice chat applications such as Skype
-- 1.8 meter cable
 - Great sound quality. Inline volume control.
+- 1.8 meter cable
 - Sensitive microphone with flexible design, providing clear speech quality
 - Works with all PCs and laptops
+- Ideal for online gaming sessions, enjoying music and using voice chat applications such as Skype
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N38BZXZ/?tag=tolees0d-21)

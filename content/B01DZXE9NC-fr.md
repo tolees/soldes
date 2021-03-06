@@ -28,11 +28,11 @@ C'est en vente [Alesis Recital - Piano Numérique / Clavier de 88 Touches Semi-L
 
 ℹ️:
 
-- Une entrée 6,35 mm pour une pédale de Sustain (non incluse), une sortie de casque stéréo de 6,35 mm pour practiquer en silence, et des sorties stéréo RCA pour connecter à des enceintes/ amplificateurs
 - Jouez du piano partout oú vous alliez - alimenté par l’adaptateur secteur inclus ou par six piles de type D (non incluses) pour une performance professionnelle nimporte oú
 - Leçons de piano interactives incluses – 60 leçons virtuelles gratuites de Melodics pour vous améliorer dans tous les genres et techniques que vous souhaitez maîtriser
 - Piano numérique plein de fonctionnalités - Clavier électronique de 88 touches semi-lestées de taille authentique avec sensibilité au toucher ajustable pour sadapter à votre style de jeu préféré
 - Des fonctionnalités pédagogiques - Modes Standard, Split, Layer ou Leçon avec polyphonie maximum de 128 notes et trois mois dabonnement premium à Skoove pour des leçons experts interactives en ligne
 - Des sons prémium - Cinq voix (piano acoustique, piano électrique, orgue, synthé et basse), des effets intégrés (Chorus, Reverb), deux haut-parleurs intégrés de 20 W pour un son puissant
+- Une entrée 6,35 mm pour une pédale de Sustain (non incluse), une sortie de casque stéréo de 6,35 mm pour practiquer en silence, et des sorties stéréo RCA pour connecter à des enceintes/ amplificateurs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01DZXE9NC/?tag=tolees0d-21)
