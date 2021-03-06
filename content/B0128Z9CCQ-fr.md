@@ -28,10 +28,10 @@ C'est en vente [Mad Catz - Rock Band 4](https://www.amazon.fr/dp/B0128Z9CCQ/?tag
 
 ℹ️:
 
-- Édition : Standard
-- publisher : Mad Catz
 - releaseDate : 2015-10-06
 - pegiRating : ages_12_and_over
+- publisher : Mad Catz
 - platform : PlayStation 4
+- Édition : Standard
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0128Z9CCQ/?tag=tolees0d-21)
