@@ -28,8 +28,8 @@ Vous avez [Playmobil - Club d Équitation - 6926](https://www.amazon.fr/dp/B06WG
 
 ℹ️:
 
-- Des étagères, crochets et porte selles sont placés des deux côtés dans la partie centrale du bâtiment pour le rangement des licous, brides, selles et autres équipements
 - Une échelle mène au fenil
 - Contient 1 centre équestre avec 2 enclos, 2 personnages, 2 chevaux, 1 poulain, des animaux et de nombreux accessoires (selles, harnais, brouette, herbe…)
+- Des étagères, crochets et porte selles sont placés des deux côtés dans la partie centrale du bâtiment pour le rangement des licous, brides, selles et autres équipements
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WGZY234/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [RICOO S7244 Support Murale TV Orientable Inclinable Universel 32
 
 ℹ️:
 
+- ✅ APPROPRIÉ POUR: Bras articulé pour tele de Samsung Sharp Toshiba Thomson Grundig Hisense LG Philips Sony TCL Hitachi Medion Panasonic Chic Blaupunkt JTC TD Systems
 - ✅ FONCTIONS: Attache mural avec orientation de 120 degrés, selon la largeur de télé. Accroche pour écran est inclinable de +/-10 degré. Distance du mur de 70-375mm. Panneau avant est rotatif de +/-6
-- ✅ COMPATIBILITÉ: Capacité de charge jusquà 50kg. Adaptable avec television de dimension VESA: 200x200 300x200 300x300 400x200 400x400
 - ✅ CAPACITÉ: Montage au mur pour téléviseur de 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 152cm/60" 165cm/65" pouces
 - ❗ VEUILLEZ NOTER: Diagonale de flat-screen seulement valeur approximative - sont importantes: Position et dimension de norme VESA, Poids de lécran. Les chevilles incluses sont seulement pour les murs en béton massif!
-- ✅ APPROPRIÉ POUR: Bras articulé pour tele de Samsung Sharp Toshiba Thomson Grundig Hisense LG Philips Sony TCL Hitachi Medion Panasonic Chic Blaupunkt JTC TD Systems
+- ✅ COMPATIBILITÉ: Capacité de charge jusquà 50kg. Adaptable avec television de dimension VESA: 200x200 300x200 300x300 400x200 400x400
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VTQRL9D/?tag=tolees0d-21)

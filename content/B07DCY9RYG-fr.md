@@ -28,12 +28,12 @@ C'est en vente [Sylvanian Families - Le Village - Le Train Tchou-Tchou des Béb�
 
 ℹ️:
 
+- À partir de 3 ans.
+- Compatible avec les aires de jeu de la crèche.
+- Laire de jeu avec les rails ainsi que la locomotive et le wagon sont inclus.
+- Des souvenirs pour la vie !
 - Jason, le bébé ours est inclus.
 - Les Sylvanian Families sont dadorables familles vivant ensemble autour de trois passions: la famille, La nature et lamour. Ce sont des jouets parfaits pour imaginer des histoires et sépanouir.
-- Compatible avec les aires de jeu de la crèche.
-- Des souvenirs pour la vie !
-- À partir de 3 ans.
 - Le passage à niveau est mobile.
-- Laire de jeu avec les rails ainsi que la locomotive et le wagon sont inclus.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DCY9RYG/?tag=tolees0d-21)

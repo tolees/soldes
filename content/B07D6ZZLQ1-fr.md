@@ -28,9 +28,9 @@ C'est en vente [Levi s 502 Taper Jeans  Onewash 95977  32W / 32L Homme](https://
 
 ℹ️:
 
-- Cinq poches
-- Jambes légèrement fuselées
-- Braguette zippée
 - Coupe régulière
+- Cinq poches
+- Braguette zippée
+- Jambes légèrement fuselées
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07D6ZZLQ1/?tag=tolees0d-21)

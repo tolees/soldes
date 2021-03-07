@@ -28,7 +28,7 @@ Vous avez [Nintendo - Minecraft switch standard](https://www.amazon.fr/dp/B07D3Z
 
 ℹ️:
 
-- 2 ans
 - 2520747
+- 2 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D3ZW98F/?tag=tolees0d-21)
