@@ -28,10 +28,10 @@ C'est en vente [Dreamon Malette Maquillage Enfant  Lavable Princesse Coffret Ma
 
 ℹ️:
 
-- [Booting Imagination] Inspirez la correspondance des couleurs des enfants et divertissez vos enfants pendant des heures.
-- [Non Toxique et Lavable] Tous les cosmétiques sont faciles à laver après avoir joué et nirritent pas la peau, sans danger pour les enfants.
-- [Trousse de Maquillage Princesse] Ensemble de beauté pour enfants avec couronne, collier, fard à paupières, rouge à lèvres, poudre, vernis à ongles, etc. dans un coffret à cosmétiques princesse.
 - [Venez avec un étui à cosmétiques] Transportez-le, vous pouvez ranger les articles pour enfants et développer une bonne habitude de rangement.
+- [Trousse de Maquillage Princesse] Ensemble de beauté pour enfants avec couronne, collier, fard à paupières, rouge à lèvres, poudre, vernis à ongles, etc. dans un coffret à cosmétiques princesse.
+- [Non Toxique et Lavable] Tous les cosmétiques sont faciles à laver après avoir joué et nirritent pas la peau, sans danger pour les enfants.
+- [Booting Imagination] Inspirez la correspondance des couleurs des enfants et divertissez vos enfants pendant des heures.
 - [Cadeaux danniversaire pour filles] Chaque princesse rêve de posséder son kit de maquillage. Réalisez vos petits rêves de princesse!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08R5XXQ99/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Finish Pastilles Lave-Vaisselle Powerball All in One Max Taches 
 
 ℹ️:
 
-- Finish dishwashing pads ensure good hygiene and clean dishes.
-- Finish is the #1 brand recommended by the largest brands of dishwashers. Thanks to our expertise, great brands of dishwashers trust us and recommend us
-- The first layer releases bubbles that diffuse powerful cleaning agents. The second layer simultaneously ensures rinsing and salt functions for exceptional shine
 - Provides exceptional cleaning even in the most difficult conditions. All in 1 Max dishwasher with double layer removes stubborn stains
+- The first layer releases bubbles that diffuse powerful cleaning agents. The second layer simultaneously ensures rinsing and salt functions for exceptional shine
+- Finish is the #1 brand recommended by the largest brands of dishwashers. Thanks to our expertise, great brands of dishwashers trust us and recommend us
 - Removes even the most inlaid residue for exceptional washing
+- Finish dishwashing pads ensure good hygiene and clean dishes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RWBWJBX/?tag=tolees0d-21)

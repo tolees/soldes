@@ -29,9 +29,9 @@ Vous avez [RICOO R23-S Support Murale TV Orientable Inclinable Universel 31-65" 
 ℹ️:
 
 - ✅ FONCTIONS: Attache mural avec orientation de 180 degrés, quand le télé est de max 80cm de largeur. Accroche pour écran est inclinable de +/-15 degré. Distance du mur de 115-552mm. Panneau avant est rotatif de +/-6
-- ✅ CAPACITÉ: Montage au mur pour téléviseur de 79cm/31" 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 147cm/58" 152cm/60" 165cm/65" pouces
-- ✅ APPROPRIÉ POUR: Bras articulé pour tele de Samsung Sharp Toshiba Thomson Grundig Hisense LG Philips Sony TCL Hitachi Medion Panasonic Chic Blaupunkt JTC TD Systems
-- ❗ VEUILLEZ NOTER: Diagonale de flat-screen seulement valeur approximative - sont importantes: Position et dimension de norme VESA, Poids de lécran. Les chevilles incluses sont seulement pour les murs en béton massif!
 - ✅ COMPATIBILITÉ: Capacité de charge jusquà 95kg. Adaptable avec television de dimension VESA: 200x200 300x200 300x300 400x200 400x400
+- ❗ VEUILLEZ NOTER: Diagonale de flat-screen seulement valeur approximative - sont importantes: Position et dimension de norme VESA, Poids de lécran. Les chevilles incluses sont seulement pour les murs en béton massif!
+- ✅ APPROPRIÉ POUR: Bras articulé pour tele de Samsung Sharp Toshiba Thomson Grundig Hisense LG Philips Sony TCL Hitachi Medion Panasonic Chic Blaupunkt JTC TD Systems
+- ✅ CAPACITÉ: Montage au mur pour téléviseur de 79cm/31" 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 147cm/58" 152cm/60" 165cm/65" pouces
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006FEFBHC/?tag=tolees0d-21)

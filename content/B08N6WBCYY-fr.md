@@ -29,8 +29,8 @@ Vous avez [Ubisoft - Just Dance 2021 - FR](https://www.amazon.fr/dp/B08N6WBCYY/?
 ℹ️:
 
 - Choisissez le mode de jeu adapté à vos envies !
+- Affrontez et dansez avec des joueurs du monde entier avec le mode world dance floor !
 - Utilisez votre smartphone comme manette avec l’application just dance controller !
 - Just dance 2021 propose plus de 40 nouveaux hits.
-- Affrontez et dansez avec des joueurs du monde entier avec le mode world dance floor !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08N6WBCYY/?tag=tolees0d-21)

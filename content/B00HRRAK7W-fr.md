@@ -28,12 +28,12 @@ C'est en vente [Sylvanian Families - Le Village - La Famille Herisson - 4018 - F
 
 ℹ️:
 
-- Inclus : 1 figurine Papa, 1 figurine Maman, 1 figurine Garçon et 1 figurine Fillette
-- A partir de 3 ans
+- Une famille attachante à collectionner pour agrandir le village Sylvania
+- Une famille attachante à collectionner pour agrandir le village Sylvania
 - Ils sont tous articulés et habillés avec soin
+- Inclus : 1 figurine Papa, 1 figurine Maman, 1 figurine Garçon et 1 figurine Fillette
 - Leurs vêtements peuvent être enlevés et remis à loisir
-- Une famille attachante à collectionner pour agrandir le village Sylvania
-- Une famille attachante à collectionner pour agrandir le village Sylvania
+- A partir de 3 ans
 - A partir de 3 ans
 - Ils sont tous articulés et habillés avec soin
 

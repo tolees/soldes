@@ -29,9 +29,9 @@ C'est en vente [Sincelo - Disque Dur Externe 1to USB3.0 Disque Dur Externe pour 
 ℹ️:
 
 - Disque Dur Externe Compatibilité du système - Windows / Mac / Linux / Android.
-- Disque Dur Externe Plug and Play - Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi.
-- 2021 Version de mise à niveau - Ultra mince ; Surface brossée.Disque dur externe portable USB 3.0 ultra fin et léger .
 - Ce Que Vous Obtenez - 1 x Disque Dur Externe, 1 x Cable USB 3.0 , 3 ans de garantie constructeur.
 - Disque Dur Externe Transferts de données Ultra-Rapides - Fonctionne avec les ports USB 3.0 et USB 2.0 afin de fournir des vitesses de transfert
+- 2021 Version de mise à niveau - Ultra mince ; Surface brossée.Disque dur externe portable USB 3.0 ultra fin et léger .
+- Disque Dur Externe Plug and Play - Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08VHTN27K/?tag=tolees0d-21)
