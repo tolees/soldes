@@ -28,10 +28,10 @@ C'est en vente [FUNKO Pop! Keychains: Harry Potter - Fawkes](https://www.amazon.
 
 ℹ️:
 
+- Perfect for fans of Harry Potter
 - Great gift idea for anyone who loves Keychains
+- Officially Licensed from Funko
 - Includes all original tags/packaging straight from the manufacturer/distributor
 - 100% brand new and authentic merchandise
-- Officially Licensed from Funko
-- Perfect for fans of Harry Potter
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RV7BNPY/?tag=tolees0d-21)

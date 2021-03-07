@@ -28,10 +28,10 @@ C'est en vente [Arolun LCD Tablette D écriture 8.5 Pouces  Ardoise Magique Tabl
 
 ℹ️:
 
-- 【Erase Button Make It Easy to Use】: Press the "Delete" button and the entire writing or drawing will disappear within one second! More convenient for younger kids who are not ready for electronics!
-- 【Best Gift & Wide Applications】A good helper for students to make note, draft, use for math scientific formula. A warm reminder for leaving messages to your families, lovers, and you can put it on the desk. Also a meaningful toy for your kids or toddlers to develop a good habit for drawing and writing
 - 【Colorful and Funny】: The screen of the lcd writing tablet is colorful, kids can paint and graffiti on it like use colour pens drawing on paper, Great for children learning drawing and as a communication tool for those with speech difficulties.
 - 【Memory Lock Function】: Lock the erase button to prevent accidental deletion. Dont worry about losing your big ideas any more. Please notice that the erase lock button is on when you receive the new package.
 - 【Eco-Friendly & Eyes Protection】: Eyes protection and Paperless designed drawing board is without electromagnetic radiation. Erase button of writing tablet make it reusable as the equivalent of 50,000 sheets of paper
+- 【Erase Button Make It Easy to Use】: Press the "Delete" button and the entire writing or drawing will disappear within one second! More convenient for younger kids who are not ready for electronics!
+- 【Best Gift & Wide Applications】A good helper for students to make note, draft, use for math scientific formula. A warm reminder for leaving messages to your families, lovers, and you can put it on the desk. Also a meaningful toy for your kids or toddlers to develop a good habit for drawing and writing
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081SVM3F1/?tag=tolees0d-21)

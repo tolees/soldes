@@ -28,8 +28,8 @@ C'est en vente [Funko- Pop Star Wars:Mandalorian-10 Mandalorian  w/Chrome Armour
 
 ℹ️:
 
-- Issue de la gamme Mandalorian, la figurine 10" Mandalorian (w/chrome armour) rejoint la collection Funko POP Rides
 - Chaque personnage mesure environ 16 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage. Découvrez tous les autres produits Funko dédiés à lunivers Star Wars
 - Collectionnez-les tous
+- Issue de la gamme Mandalorian, la figurine 10" Mandalorian (w/chrome armour) rejoint la collection Funko POP Rides
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083MCJYTL/?tag=tolees0d-21)

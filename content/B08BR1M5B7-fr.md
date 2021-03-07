@@ -28,10 +28,10 @@ C'est en vente [ANWIO 12W Ampoule LED WiFi et Bluetooth Intelligente E27 A70 Dim
 
 ℹ️:
 
-- Millions changements de couleur - Avec Smart Ampoule LED, vous faites preuve de créativité et rendez votre pièce plus créative. Choisissez parmi 16 millions de couleurs et de nuances de blanc pour changer instantanément lapparence de votre pièce. Contrôlez à distance avec votre appareil intelligent, créez des scènes individuelles et libérez votre créativité. Rencontrez votre fête, lisez, lumière de loisir.
 - Économie dénergie - Les avantages exceptionnels sont la faible consommation dénergie et de meilleures performances que les ampoules normales. Cette ampoule LED A70 E27 correspond à une ampoule standard de 100W.
-- Télécommande WiFi - Vous pouvez contrôler les lampes Smart LED (WiFi 2,4 GHz) de nimporte où chez vous ou en déplacement à laide de lapplication gratuite Smart Life/Tuya avec votre smartphone ou tablette. Un HUB supplémentaire nest pas nécessaire
+- Millions changements de couleur - Avec Smart Ampoule LED, vous faites preuve de créativité et rendez votre pièce plus créative. Choisissez parmi 16 millions de couleurs et de nuances de blanc pour changer instantanément lapparence de votre pièce. Contrôlez à distance avec votre appareil intelligent, créez des scènes individuelles et libérez votre créativité. Rencontrez votre fête, lisez, lumière de loisir.
 - Fonction de minuterie - Vous pouvez créer des plans qui contrôlent les lumières pour sallumer ou séteindre automatiquement. Juste à temps pour sendormir, la lampe sassombrit et le matin tu grandis avec ta couleur préférée
+- Télécommande WiFi - Vous pouvez contrôler les lampes Smart LED (WiFi 2,4 GHz) de nimporte où chez vous ou en déplacement à laide de lapplication gratuite Smart Life/Tuya avec votre smartphone ou tablette. Un HUB supplémentaire nest pas nécessaire
 - Commande vocale et compatibilité élevée - lampoule WiFi est compatible avec lAssistant Google et Amazon Alexa. Il prend en charge lapplication Smart Life sur les appareils Android et iOS
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BR1M5B7/?tag=tolees0d-21)

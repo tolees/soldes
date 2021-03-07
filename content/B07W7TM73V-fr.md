@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City  Le commissariat de police  Se avec 21.09 % rabais '
-date: 2021-03-04 20:14:39
+date: 2021-03-07 18:04:45
 image: 'https://m.media-amazon.com/images/I/51Q0Fc1B-LL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W7TM73V/?tag=tolees0d-21'
 descuento: '21.09'
-average: '70.5508888888888'
+average: '70.6426373626373'
 ---
 
 C'est en vente [LEGO City  Le commissariat de police  Set de construction avec 2 camions  Des briques lumineuses et sonores  un drone et une moto  241 pièces  60246](https://www.amazon.fr/dp/B07W7TM73V/?tag=tolees0d-21)  à  21.09 % de réduction, prix final  78.9 EUR (original: 99.99 EUR) ici:
