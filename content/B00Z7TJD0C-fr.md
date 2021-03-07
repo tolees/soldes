@@ -28,10 +28,10 @@ Vous avez [OtterBox Strada Etui Folio en Cuir véritable Anti Choc Fin/élégant
 
 ℹ️:
 
-- finition classique, protection étudiée
-- compatible alpha glass
 - conçue pour protéger
-- folio à rabat mince qui laisse votre téléphone sexprimer
+- compatible alpha glass
 - accès intégral
+- folio à rabat mince qui laisse votre téléphone sexprimer
+- finition classique, protection étudiée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00Z7TJD0C/?tag=tolees0d-21)
