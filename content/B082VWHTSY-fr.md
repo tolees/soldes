@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.14 % rabais sur Star Wars 9 : L Ascension de Skywalker ['
-date: 2021-03-04 18:41:37
+date: 2021-03-07 06:10:11
 image: 'https://m.media-amazon.com/images/I/51dgY-lGVNL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B082VWHTSY/?tag=tolees0d-21'
 descuento: '37.14'
-average: '22.952962962963'
+average: '22.886551724138'
 ---
 
 Vous avez [Star Wars 9 : L Ascension de Skywalker [4K Ultra HD Blu-Ray Bonus-Édition boîtier SteelBook]](https://www.amazon.fr/dp/B082VWHTSY/?tag=tolees0d-21)  à  37.14 % de réduction, prix final  21.99 EUR (original: 34.98 EUR) ici:

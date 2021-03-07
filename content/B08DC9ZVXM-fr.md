@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Les Enfants du Temps BR [Édition boîtier avec 19.96 % rabais '
-date: 2021-03-05 07:32:35
+date: 2021-03-07 06:14:53
 image: 'https://m.media-amazon.com/images/I/51GeF9Yq+YL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DC9ZVXM/?tag=tolees0d-21'
 descuento: '19.96'
-average: '35.7687096774193'
+average: '35.5475757575758'
 ---
 
 C'est en vente [Les Enfants du Temps BR [Édition boîtier SteelBook Combo Blu-Ray + DVD + CD BO]](https://www.amazon.fr/dp/B08DC9ZVXM/?tag=tolees0d-21)  à  19.96 % de réduction, prix final  32.12 EUR (original: 40.13 EUR) ici:

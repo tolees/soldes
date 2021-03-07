@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.17 % rabais sur Samsung SSD Interne 860 EVO 2.5"  250 Go'
-date: 2021-03-05 12:53:01
+date: 2021-03-07 06:45:50
 image: 'https://m.media-amazon.com/images/I/41JrIwN+kyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21'
 descuento: '35.17'
-average: '45.7705031446541'
+average: '45.8863975155279'
 ---
 
 Vous avez [Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU](https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21)  à  35.17 % de réduction, prix final  55.1 EUR (original: 84.99 EUR) ici:
@@ -28,15 +28,15 @@ Vous avez [Samsung SSD Interne 860 EVO 2.5"  250 Go  - MZ-76E250B/EU](https://ww
 
 ℹ️:
 
-- Interface : SATA 6 Go/s (compatible avec SATA 3 Go/s et SATA 1,5 Go/s). TRIM pris en charge
 - Garantie: 5ans. Température de fonctionnement: 0 - 70℃
-- Capacité: 250 Go (la capacité réelle peut être inférieure (une certaine partie de la capacité peut être utilisée par le formatage, le système d’exploitation ou d’autres applications)
-- Chocs: 1,500G & 0,5ms
-- Poids Max 50.0g
 - Jusquà 550Mo/s de lecture séquentielle et 520Mo/s décriture séquentielle
 - NAND Type: Samsung V-NAND 3bit MLC
-- Mémoire cache: 512 Mo LPDDR4
-- Lecture aléatoire (4Ko, QD1):Jusquà 10000 IOPS et écriture aléatoire (4Ko, QD1): Jusquà 42 000 IOPS (les performances de lecture et décriture aléatoires peuvent varier en fonction du matériel et de la configuration du système)
 - 1.5 Million Hours Reliability (MTBF)
+- Chocs: 1,500G & 0,5ms
+- Mémoire cache: 512 Mo LPDDR4
+- Interface : SATA 6 Go/s (compatible avec SATA 3 Go/s et SATA 1,5 Go/s). TRIM pris en charge
+- Poids Max 50.0g
+- Capacité: 250 Go (la capacité réelle peut être inférieure (une certaine partie de la capacité peut être utilisée par le formatage, le système d’exploitation ou d’autres applications)
+- Lecture aléatoire (4Ko, QD1):Jusquà 10000 IOPS et écriture aléatoire (4Ko, QD1): Jusquà 42 000 IOPS (les performances de lecture et décriture aléatoires peuvent varier en fonction du matériel et de la configuration du système)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WQJXNF/?tag=tolees0d-21)

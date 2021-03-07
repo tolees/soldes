@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.90 % rabais sur Western Digital - WD Blue SSD - Disque S'
-date: 2021-03-04 18:24:07
+date: 2021-03-07 06:13:15
 image: 'https://m.media-amazon.com/images/I/41L99Y-L4bL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Western Digital'
 buyurl: 'https://www.amazon.fr/dp/B073SBZ8YH/?tag=tolees0d-21'
 descuento: '37.90'
-average: '60.3877702702704'
+average: '60.3783892617451'
 ---
 
 Vous avez [Western Digital - WD Blue SSD - Disque SSD interne 2.5" SATA 500Go 3D NAND](https://www.amazon.fr/dp/B073SBZ8YH/?tag=tolees0d-21)  à  37.90 % de réduction, prix final  58.99 EUR (original: 94.99 EUR) ici:
@@ -29,9 +29,9 @@ Vous avez [Western Digital - WD Blue SSD - Disque SSD interne 2.5" SATA 500Go 3D
 ℹ️:
 
 - Consommation dénergie active jusquà 25 % plus faible que les générations précédentes de SSD WD Blue
-- Durée moyenne de bon fonctionnement entre pannes (MTTF) de 1,75 million dheures, parmi les meilleures du marché, et taux dendurance pouvant atteindre jusquà 500 téraoctets écrits (TBW) pour une fiabilité accrue
 - SSD SATA NAND 3D pour une capacité maximale de 2 To et une fiabilité accrue
 - Certification WD F.I.T. Lab pour une compatibilité avec une large gamme dordinateurs
 - Vitesse de lecture séquentielle jusquà 560 Mo/s et vitesse décriture séquentielle jusquà 530 Mo/s
+- Durée moyenne de bon fonctionnement entre pannes (MTTF) de 1,75 million dheures, parmi les meilleures du marché, et taux dendurance pouvant atteindre jusquà 500 téraoctets écrits (TBW) pour une fiabilité accrue
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SBZ8YH/?tag=tolees0d-21)
