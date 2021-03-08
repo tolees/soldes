@@ -28,9 +28,9 @@ C'est en vente [BLACK+DECKER BL20362-XJ Batterie lithium - Pas d effet mémoire 
 
 ℹ️:
 
-- Technologie lithium: pas d’effet mémoire et faible autodécharge
-- 36 volts ; lithium 2Ah
 - PLUS produit: batterie interchangeable cette batterie 36V est interchangeable avec tous les outils sans fil BLACK+DECKER. Un vrai plus !
+- Technologie lithium: pas d’effet mémoire et faible autodécharge
 - Compacte et légèreté: une batterie au poids plume qui garantit une compacte et une légèreté hors du commun
+- 36 volts ; lithium 2Ah
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BNIPNBI/?tag=tolees0d-21)
