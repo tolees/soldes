@@ -28,10 +28,10 @@ C'est en vente [Siège auto isofix 360° pivotant groupe 0+/1/2/3  0-36kg  - Dos
 
 ℹ️:
 
-- Siège auto isofix groupe 0+/1/2/3 pour les enfants dès la naissance à 36kg (jusquà 10 ans), homologué selon la norme ECE R44/04
 - Fixation isofix pour une installation sûre et efficace, avec top tether
-- Siège auto évolutif : têtière réglable en hauteur avec ajustement automatique du harnais, harnais 5 points qui peut se retirer à partir de 15kg
 - Siège auto pivotant 360° uniquement en dos route, pour une installation plus facile. Il se positionne DOS à la route jusquà 18kg, et face à la route de 13 à 36kg.
+- Siège auto évolutif : têtière réglable en hauteur avec ajustement automatique du harnais, harnais 5 points qui peut se retirer à partir de 15kg
+- Siège auto isofix groupe 0+/1/2/3 pour les enfants dès la naissance à 36kg (jusquà 10 ans), homologué selon la norme ECE R44/04
 - Siège auto inclinable en 4 positions qui offre une grande protection en cas de chocs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RP5V1GL/?tag=tolees0d-21)
