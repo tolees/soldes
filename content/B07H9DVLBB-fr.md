@@ -28,8 +28,8 @@ C'est en vente [Carte mémoire SDXC SanDisk Extreme PRO 128 Go Jusqu à 170 Mo
 
 ℹ️:
 
+- Température de fonctionnement: -13 ºF à 185 ºF (-25 ºC à 85 ºC)
 - Vitesses de capture allant jusquà 90 Mo/s
 - vitesse de transfert jusquà 170 Mo/s
-- Température de fonctionnement: -13 ºF à 185 ºF (-25 ºC à 85 ºC)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07H9DVLBB/?tag=tolees0d-21)
