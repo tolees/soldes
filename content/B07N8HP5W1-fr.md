@@ -28,10 +28,10 @@ C'est en vente [Dim Boxer Pocket Ecodim x4  Multicolore  Noir/Peau/Blanc/Gris/Bl
 
 ℹ️:
 
-- Sèche-linge interdit
+- 95% coton, 5% élasthanne
 - Un porter quotidien
 - Ceinture et finitions extra-plates
-- 95% coton, 5% élasthanne
 - Lavage à la machine 30° maximum
+- Sèche-linge interdit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07N8HP5W1/?tag=tolees0d-21)
