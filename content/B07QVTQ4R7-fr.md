@@ -28,12 +28,12 @@ C'est en vente [Tommy Hilfiger Tommy Logo Tee T-Shirt  Noir  Jet Black Base   La
 
 ℹ️:
 
-- T-shirt
-- Lavable en machine
+- 100 % coton
 - MW0MW11465
 - Tommy Hilfiger S/S T-shirt pour homme
-- 100 % coton
+- Lavable en machine
 - Manches courtes
+- T-shirt
 - Il sagit dun produit original et authentique Tommy Hilfiger
 - Style de col : col rond
 

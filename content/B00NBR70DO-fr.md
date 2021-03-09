@@ -28,9 +28,9 @@ Vous avez [Sony MDR-ZX110B Casque Pliable - Noir](https://www.amazon.fr/dp/B00NB
 
 ℹ️:
 
-- Oreillettes rembourrées pour un grand confort découte
 - Des aimants en néodyme offrent un son puissant
-- Gamme de fréquences de 12 à 22 kHz
+- Oreillettes rembourrées pour un grand confort découte
 - Diaphragmes de 30 mm en forme de dôme pour un son équilibré
+- Gamme de fréquences de 12 à 22 kHz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NBR70DO/?tag=tolees0d-21)

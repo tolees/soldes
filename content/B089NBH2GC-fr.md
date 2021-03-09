@@ -28,10 +28,10 @@ Vous avez [A5X - TV Box Android 10.0  2GB 16GB Supports 4K 3D  Smart TV Box RK33
 
 ℹ️:
 
+- 【Android 10.0】 This Android TV box is compatible with (is loaded with) Android 10.0. It has 2 GB DDR and 16 GB of built-in storage, which can be upgraded with an additional 64 GB SD card. The updated operating system ensures faster performance, improved software compatibility, and increased availability of the latest games and applications.
 - 【Great connectivity port】HDMI 2.0 port, AV port, network port on the back of the device allows you to establish a high quality connection for the best visual and audio performance. In addition, it features dual band WiFi (2.4G / 5.8g 802.11ac), Bluetooth 4.0, USB 2.0, USB 3.0 port and 10 / 100M Ethernet connection.
+- 【Open System】The root TV box, which you can turn on or off when setting, offers many advantages by giving you full access to the installation of applications that would normally not be compatible with your TV box.
 - 【OTA】It comes with OTA (Over the Air Technology), which automatically downloads the upgrade package and auto-upgrade via the network.
 - 【4K / 3D】This TV box is capable of streaming 4K HDR, which allows you to enjoy more immersive image quality with access to 4K Ultra HD vivid up to 60 fps and HDR. It also features a 3D graphics accelerator, allowing you to bring 3D cinema directly into your living room. The stunning RK3318 Quad-Core 64-bit Cortex-A53 chip provides good video encoding and decent hardware, allowing you to run high-quality videos without buffering.
-- 【Open System】The root TV box, which you can turn on or off when setting, offers many advantages by giving you full access to the installation of applications that would normally not be compatible with your TV box.
-- 【Android 10.0】 This Android TV box is compatible with (is loaded with) Android 10.0. It has 2 GB DDR and 16 GB of built-in storage, which can be upgraded with an additional 64 GB SD card. The updated operating system ensures faster performance, improved software compatibility, and increased availability of the latest games and applications.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089NBH2GC/?tag=tolees0d-21)

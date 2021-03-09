@@ -28,10 +28,10 @@ C'est en vente [LEGO®-Technic Le bolide télécommandé Jeu de construction  9 
 
 ℹ️:
 
-- LEGO Power Functions include : 2 large motors, receiver, battery box and a remote control
-- This LEGO Technic RC Stunt Racer 42095 set can be built together with all other original LEGO sets and LEGO bricks for creative building
-- Also features a fresh yellow and blue color scheme with cool stickers
 - This 2-in-1 remote-controlled tracked vehicle rebuilds into a remote-controlled toy racer
+- This LEGO Technic RC Stunt Racer 42095 set can be built together with all other original LEGO sets and LEGO bricks for creative building
+- LEGO Power Functions include : 2 large motors, receiver, battery box and a remote control
+- Also features a fresh yellow and blue color scheme with cool stickers
 - Features a high-speed, fully motorized, remote-controlled toy vehicle with tracks and large rear sprockets for amazing acceleration
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNMXFQF/?tag=tolees0d-21)
