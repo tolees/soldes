@@ -28,10 +28,10 @@ C'est en vente [BSM - Jeu De Plein Air - Maison Pliable Intérieur Et Extérieur
 
 ℹ️:
 
+- Pliable, elle se monte et se range en 30 secondes
 - La maison dispose de nombreuses fenêtres et d’un portillon à lavant
-- Utilisable en extérieur mais aussi en intérieur
 - Vos enfants pourront partager de bons moments avec leurs copains grâce à sa belle hauteur (115 cm de haut)
 - Les enfants rêvent eux aussi davoir leur propre maison pour y jouer, même dans les petits espaces !
-- Pliable, elle se monte et se range en 30 secondes
+- Utilisable en extérieur mais aussi en intérieur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0854YVK9R/?tag=tolees0d-21)
