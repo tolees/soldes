@@ -28,10 +28,10 @@ C'est en vente [Schmidt Spiele 59607 Puzzle Thomas Kinkade Disney Dreams Collect
 
 ℹ️:
 
+- A perfect gift for any puzzler or Disney fan aged 14 and up
 - Schmidt six-star premium quality 2, 000 piece jigsaw puzzle
-- The Painter of Light, Thomas Kinkade captures the timeless magic of Disney in this stunning collage
 - The completed puzzle measures approximately 97 cm x 69 cm
 - Snug fitting, varied, extra thick and smooth-edged pieces
-- A perfect gift for any puzzler or Disney fan aged 14 and up
+- The Painter of Light, Thomas Kinkade captures the timeless magic of Disney in this stunning collage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FYYQDWH/?tag=tolees0d-21)

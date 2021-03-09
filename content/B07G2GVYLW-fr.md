@@ -28,10 +28,10 @@ Vous avez [Michael Kors Femme Analogique Quartz Montre avec Bracelet en Cuir MK2
 
 ℹ️:
 
-- Largeur du bracelet: 18 mm; Longueur du bracelet: 190 +/-5 mm
 - Étanchéité: 5 ATM
-- Épaisseur du boîtier: 7 mm; Taille du boîtier: 38 mm
 - Matière du bracelet: Cuir
+- Épaisseur du boîtier: 7 mm; Taille du boîtier: 38 mm
 - Présenté dans un coffret cadeau Michael Kors
+- Largeur du bracelet: 18 mm; Longueur du bracelet: 190 +/-5 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G2GVYLW/?tag=tolees0d-21)

@@ -28,14 +28,14 @@ Vous avez [OPPO A53s Bleu Fantaisie - 128 Go - 4 Go de RAM – Écran Immersif 9
 
 ℹ️:
 
-- ; Display size: 6.5 inches; Display type: LCD; Operating system: Android 10.0; Wireless communication technology: Cellular; Camera description: Rear; Media type: AAC
-- 5000 mah battery
-- 4 gb ram + 128gb rom
-- 18w fast charge
-- 18W Fast Charge
-- 90 hz neo-display
 - 4 GB RAM + 128GB ROM
-- 90 Hz Neo-Display
+- 90 hz neo-display
+- 18w fast charge
+- 5000 mah battery
+- 18W Fast Charge
 - 5000 mAh Battery
+- 4 gb ram + 128gb rom
+- 90 Hz Neo-Display
+- ; Display size: 6.5 inches; Display type: LCD; Operating system: Android 10.0; Wireless communication technology: Cellular; Camera description: Rear; Media type: AAC
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21)

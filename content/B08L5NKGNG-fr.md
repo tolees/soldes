@@ -28,9 +28,9 @@ C'est en vente [Apple Porte-Cartes en Cuir avec MagSafe  pour iPhone  - Noir](ht
 
 ℹ️:
 
-- Vous pouvez même le superposer à une coque avec MagSafe transparente ou en silicone pour créer votre propre style.
-- Réalisé à partir d’un cuir européen au tannage et à la finition uniques, ce portefeuille intègre de puissants aimants qui vous permettent de le fixer très simplement au dos de votre iPhone.
 - Le portefeuille en cuir est revêtu d’une protection qui le rend parfaitement sûr pour vos cartes bancaires.
+- Vous pouvez même le superposer à une coque avec MagSafe transparente ou en silicone pour créer votre propre style.
 - Compatibilité: iPhone 12 Pro Max, iPhone 12 Pro, iPhone 12, iPhone 12 mini
+- Réalisé à partir d’un cuir européen au tannage et à la finition uniques, ce portefeuille intègre de puissants aimants qui vous permettent de le fixer très simplement au dos de votre iPhone.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08L5NKGNG/?tag=tolees0d-21)
