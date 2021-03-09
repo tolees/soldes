@@ -28,9 +28,9 @@ Vous avez [Somfy 2401363 - Prise ON/OFF télécommandée intérieure RTS type E 
 
 ℹ️:
 
+- Portée radio champ libre 30 m qui assurera une portée radio suffisante pour votre intérieur
+- Avec TaHoma, simulez votre présence, en programmant dallumer et déteindre la lampe branchée dans cette prise lorsque vous êtes loin de votre domicile
 - Compatible avec la box domotique TaHoma réf. 2401354 (non fournie), pour contrôler votre prise à distance, depuis lapplication dédiée sur votre smartphone, ou lassocier à dautres équipements connectés
 - Branchez votre éclairage ou un petit appareil électrique (cafetière, radio...) dans la prise pour lallumer ou léteindre un avec une télécommande Somfy RTS (non incluse)
-- Avec TaHoma, simulez votre présence, en programmant dallumer et déteindre la lampe branchée dans cette prise lorsque vous êtes loin de votre domicile
-- Portée radio champ libre 30 m qui assurera une portée radio suffisante pour votre intérieur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N68II8W/?tag=tolees0d-21)
