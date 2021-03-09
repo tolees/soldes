@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.00 % rabais sur RICOO R23-S Support Murale TV Orientable'
-date: 2021-03-07 06:42:06
+date: 2021-03-09 11:58:33
 image: 'https://m.media-amazon.com/images/I/51xdoYWk4IL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [RICOO R23-S Support Murale TV Orientable Inclinable Universel 31-65" 
 
 ℹ️:
 
-- ✅ FONCTIONS: Attache mural avec orientation de 180 degrés, quand le télé est de max 80cm de largeur. Accroche pour écran est inclinable de +/-15 degré. Distance du mur de 115-552mm. Panneau avant est rotatif de +/-6
-- ✅ COMPATIBILITÉ: Capacité de charge jusquà 95kg. Adaptable avec television de dimension VESA: 200x200 300x200 300x300 400x200 400x400
-- ❗ VEUILLEZ NOTER: Diagonale de flat-screen seulement valeur approximative - sont importantes: Position et dimension de norme VESA, Poids de lécran. Les chevilles incluses sont seulement pour les murs en béton massif!
-- ✅ APPROPRIÉ POUR: Bras articulé pour tele de Samsung Sharp Toshiba Thomson Grundig Hisense LG Philips Sony TCL Hitachi Medion Panasonic Chic Blaupunkt JTC TD Systems
-- ✅ CAPACITÉ: Montage au mur pour téléviseur de 79cm/31" 81cm/32" 94cm/37" 102cm/40" 107cm/42" 109cm/43" 122cm/48" 124cm/49" 127cm/50" 132cm/52" 140cm/55" 147cm/58" 152cm/60" 165cm/65" pouces
+- ✅ USE: Perfect your Smart-TV unit furniture in your living-room / apartment and get a pure HiFi home cinema feeling. Fits almost every ultra-slim Full-HD UHD 4K plasma flat-screen
+- ✅ CAPACITY: High weight load capacity of television arm of max 209lbs thanks to durable cold-rolled steel. Wall distance 115-522mm ❗ Includes dowels for attaching on solid concrete walls only
+- ✅ FEATURES: Adjust swivelling / pivoting 180 degrees if display width is max 80cm. Tilting +/-15 degrees. Rotation of front plate +/-6 degrees for ideal horizontal alignment after installation
+- ✅ HOLDER SUITABLE FOR MOST: Samsung LG Asus Acer HP iiyama NEC Philips Hanns-G Hannspree Viewsonic Elo Sony Panasonic Sharp Toshiba Fujitsu Seiki E-Machines JVC Blaupunkt Cello Hisense Hitatchi TCL
+- ✅ COMPATIBILITY: VESA 200x200 300x300 400x200 400x300 400x400. Recommended sizes 31" 32" 36" 40" 42" 43" 46" 47" 49" 50" 52" 55" 58" 60" 65"
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006FEFBHC/?tag=tolees0d-21)
