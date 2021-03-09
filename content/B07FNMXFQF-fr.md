@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO®-Technic Le bolide télécommandé Jeu avec 25.00 % rabais '
-date: 2021-03-07 06:20:15
+date: 2021-03-09 12:26:59
 image: 'https://m.media-amazon.com/images/I/51PPXrkFnwL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [LEGO®-Technic Le bolide télécommandé Jeu de construction  9 
 
 ℹ️:
 
-- Comprend un véhicule ultra-rapide entièrement motorisé et télécommandé avec des chenilles et de grands pignons arrière pour une accélération spectaculaire.
-- Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
-- Le bolide télécommandé mesure plus de 17 cm de haut, 22 cm de long et 15 cm de large. Le bolide télécommandé mesure plus de 12 cm de haut, 20 cm de long et 19 cm de large.
-- Construisez le bolide télécommandé entièrement motorisé LEGO Technic.
-- 324 pièces pour les filles et les garçons à partir de 9 ans.
+- LEGO Power Functions include : 2 large motors, receiver, battery box and a remote control
+- This LEGO Technic RC Stunt Racer 42095 set can be built together with all other original LEGO sets and LEGO bricks for creative building
+- Also features a fresh yellow and blue color scheme with cool stickers
+- This 2-in-1 remote-controlled tracked vehicle rebuilds into a remote-controlled toy racer
+- Features a high-speed, fully motorized, remote-controlled toy vehicle with tracks and large rear sprockets for amazing acceleration
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNMXFQF/?tag=tolees0d-21)
