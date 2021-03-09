@@ -28,8 +28,8 @@ C'est en vente [Clé USB à double connectique SanDisk Ultra Go pour les apparei
 
 ℹ️:
 
-- Déplacez facilement le contenu entre vos smartphones, tablettes et Mac USB Type-C et vos ordinateurs USB Type-A.
 - Libérez de lespace sur votre smartphone USB Type-C afin de pouvoir prendre davantage de photos.
+- Déplacez facilement le contenu entre vos smartphones, tablettes et Mac USB Type-C et vos ordinateurs USB Type-A.
 - Sauvegardez automatiquement vos photos en utilisant lappli SanDisk Memory Zone.
 - La clé USB 2-en-1 avec un connecteur USB Type-C réversible et UN connecteur Type-A traditionnel.
 - La clé USB 3.1 Gén. 1 haute performance, avec sa vitesse de lecture de 150 mo/s, vous permet de déplacer rapidement vos fichiers vers votre ordinateur.

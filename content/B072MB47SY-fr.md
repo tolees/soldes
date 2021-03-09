@@ -30,8 +30,8 @@ C'est en vente [Merrell Moab 2 Mid GTX  Chaussures de Randonnée Hautes Homme  G
 
 - Semelle intérieure : Synthétique
 - Doublure : Engrener
-- Matériau de semelle : Synthétique
-- Fermeture : Lacets
 - Dessus : Cuir - synthétique/PU
+- Fermeture : Lacets
+- Matériau de semelle : Synthétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B072MB47SY/?tag=tolees0d-21)
