@@ -28,9 +28,9 @@ Vous avez [Lacoste NF1888  Sac Bandouliere Femme  Noir  Taille Unique](https://w
 
 ℹ️:
 
-- Dimensions 35 x 30 x 14
-- Intérieur 1 poche filet zippée et anneau daccroche
 - Extérieur PVC
+- Intérieur 1 poche filet zippée et anneau daccroche
+- Dimensions 35 x 30 x 14
 - Crocodile vert brodé
 - Tire-zip marqué Lacoste
 
