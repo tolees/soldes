@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.24 % rabais sur METROPOLITAN - John Wick-La Trilogie [Bl'
-date: 2021-03-05 00:31:25
+date: 2021-03-09 06:54:57
 image: 'https://m.media-amazon.com/images/I/51oiGL6lwpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'METROPOLITAN'
 buyurl: 'https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21'
 descuento: '30.24'
-average: '27.6080165289256'
+average: '27.7280487804878'
 ---
 
 Vous avez [METROPOLITAN - John Wick-La Trilogie [Blu-Ray]](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21)  à  30.24 % de réduction, prix final  34.99 EUR (original: 50.16 EUR) ici:

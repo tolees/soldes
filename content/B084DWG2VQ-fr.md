@@ -1,0 +1,38 @@
+---
+layout: post
+title: '25.00 % rabais sur Amazon - Nouvel Echo Dot  4e génération '
+date: 2021-03-09 06:57:28
+image: 'https://m.media-amazon.com/images/I/51fsVTWWlPL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B084DWG2VQ-fr Amazon - Nouvel Echo Dot 4e génération Enceinte connectée...'
+sku: 'B084DWG2VQ-fr'
+tags: [  ]
+actualPrice: 44.99 EUR
+currency: EUR
+price: 44.99
+comparePrice: 59.99 EUR
+prodname: 'Amazon - Nouvel Echo Dot  4e génération   Enceinte connectée avec Alexa  Anthracite'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Amazon'
+buyurl: 'https://www.amazon.fr/dp/B084DWG2VQ/?tag=tolees0d-21'
+descuento: '25.00'
+average: '40.8233333333333'
+---
+
+Vous avez [Amazon - Nouvel Echo Dot  4e génération   Enceinte connectée avec Alexa  Anthracite](https://www.amazon.fr/dp/B084DWG2VQ/?tag=tolees0d-21)  à  25.00 % de réduction, prix final  44.99 EUR (original: 59.99 EUR) ici:
+
+[![Amazon - Nouvel Echo Dot  4e génération ](https://m.media-amazon.com/images/I/51fsVTWWlPL._SL400_.jpg)](https://www.amazon.fr/dp/B084DWG2VQ/?tag=tolees0d-21)
+
+ℹ️:
+
+- Restez en contact avec vos proches : passez des appels mains-libres à presque tous vos contacts, appelez dautres pièces par Drop In ou annoncez à toute la maison que le dîner est prêt.
+- Prête à rendre service : demandez à Alexa de raconter une blague, jouer de la musique, répondre à des questions, lire les nouvelles, donner la météo, programmer des alarmes et bien plus.
+- Contrôlez votre divertissement par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Apple Music, Spotify, Deezer et bien plus. Lancez la lecture de musiques, livres audio et podcasts dans toute votre maison grâce au Multiroom pour votre musique.
+- Protégez votre vie privée : cette enceinte est dotée de multiples éléments de protection et contrôle de vos informations personnelles, dont un bouton Arrêt microphone vous permettant de déconnecter électroniquement les microphones.
+- Découvrez le nouvel Echo Dot, notre enceinte connectée avec Alexa la plus populaire. Son design élégant et compact livre un son riche aux voix nettes et aux basses équilibrées.
+- Contrôlez votre maison connectée : utilisez votre voix pour allumer les lumières, régler le thermostat et verrouiller les portes avec des appareils compatibles.
+
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084DWG2VQ/?tag=tolees0d-21)
