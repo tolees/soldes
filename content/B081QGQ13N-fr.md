@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Le Mans 66 [4K Ultra HD + Blu-Ray] avec 40.01 % rabais '
-date: 2021-03-07 16:42:21
+date: 2021-03-09 19:03:53
 image: 'https://m.media-amazon.com/images/I/51KvMXvuR4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B081QGQ13N/?tag=tolees0d-21'
 descuento: '40.01'
-average: '24.3875'
+average: '24.0111764705882'
 ---
 
 C'est en vente [Le Mans 66 [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B081QGQ13N/?tag=tolees0d-21)  à  40.01 % de réduction, prix final  17.99 EUR (original: 29.99 EUR) ici:
