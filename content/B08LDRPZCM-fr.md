@@ -29,8 +29,8 @@ Vous avez [ELTD Clavier Étui pour iPad Air 4e génération [AZERTY]  Détachabl
 ℹ️:
 
 - ♥ 3-en-1 fonctionnalités : Wireless V3.0 clavier + Stand + Prime Housse de transport, Conception ultra légère, il est pratique de transporter.
-- ♥ Batterie lithium haute capacité rechargeable, charge environ 2-3 heures, ça dure 60 heures.
 - ♥ Fabriqué Spécialement pour iPad Air 4e génération, les entailles taillées précisement, Protéger complètement votre Tablette tablette contre les pousières, les rayures et les chocs.
+- ♥ Batterie lithium haute capacité rechargeable, charge environ 2-3 heures, ça dure 60 heures.
 - ♥ Conception élégante ultra légère et mince, est le choix idéal pour les affaires, les voyages et les cadeaux.
 - ♥ Réel clavier portable de style, vous donnant une expérience meilleure frappe que le silicone clavier comme dautres cas.
 

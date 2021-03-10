@@ -28,10 +28,10 @@ C'est en vente [Funko - Pop Movie Moment: Star Wars The Rise of Skywalker - Firs
 
 ℹ️:
 
-- Les Funko Pop! Sont le jeux de lannée 2018
-- Issue de la gamme Star Wars The Rise of Skywalker, la figurine POP! 28 rejoint la collection Funko Pop! Deluxe
-- First order tread speeder
-- Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker! Collectionnez-les tous!
 - Disney Star Wars
+- Issue de la gamme Star Wars The Rise of Skywalker, la figurine POP! 28 rejoint la collection Funko Pop! Deluxe
+- Les Funko Pop! Sont le jeux de lannée 2018
+- Découvrez tous les autres produits Funko dédiés à lunivers Star Wars The Rise of Skywalker! Collectionnez-les tous!
+- First order tread speeder
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QSBWY5K/?tag=tolees0d-21)
