@@ -28,10 +28,10 @@ C'est en vente [PHYLES Cuisine pour Enfant Jeu d Imitation Cuisine  Jouet avec C
 
 ℹ️:
 
+- 💜RECOMMANDATIONS ET AVERTISSEMENTS: Recommandé pour les enfants de plus de 3 ans. Les petites pièces doivent être utilisées en compagnie dun adulte.
 - ☕️LE CADEAU PARFAIT: pour les anniversaires, Noël, lobtention du diplôme ou les cadeaux de réussite!
 - 🍽 SÉCURITÉ DES ENFANTS: Fabriqué en ABS, non toxique et insipide; les bords de chaque accessoire sont lisses, ronds, sans bavures et sans arêtes tranchant.
 - 👩🏽‍🍳JEU DIMITATION CUISINE: Cet ensemble de cuisine jouet contient plus de 20 accessoires dont les enfants ont besoin, y compris la vaisselle, les ustensiles de cuisine, les casseroles, les légumes, etc. Cela gardera votre enfant occupé pendant des heures!
 - 🥗COMME UNE VRAIE CUISINE: Non seulement votre enfant est capable de créer son propre divertissement avec cet ensemble de jeu, mais il est également capable de renforcer sa coordination œil-main et sa connaissance du monde culinaire.
-- 💜RECOMMANDATIONS ET AVERTISSEMENTS: Recommandé pour les enfants de plus de 3 ans. Les petites pièces doivent être utilisées en compagnie dun adulte.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JD1MT3D/?tag=tolees0d-21)

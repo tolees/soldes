@@ -28,10 +28,10 @@ Vous avez [Playmobil Parc Animalier 70341](https://www.amazon.fr/dp/B082YPFQL8/?
 
 ℹ️:
 
-- Le Parc animalier peut être organisé de la manière souhaitée et dispose de nombreuses possibilités dextensions.
-- La voûte rocheuse fait office de portail dentrée.
-- Souvenirs, plan du parc, bonbons et boissons peuvent être achetés à la caisse du parc.
-- Les enclos pour animaux peuvent être organisés de manière flexible à laide des éléments de délimitation.
 - Le télescope peut être pivoté et incliné dans toutes les directions.
+- Souvenirs, plan du parc, bonbons et boissons peuvent être achetés à la caisse du parc.
+- La voûte rocheuse fait office de portail dentrée.
+- Le Parc animalier peut être organisé de la manière souhaitée et dispose de nombreuses possibilités dextensions.
+- Les enclos pour animaux peuvent être organisés de manière flexible à laide des éléments de délimitation.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082YPFQL8/?tag=tolees0d-21)

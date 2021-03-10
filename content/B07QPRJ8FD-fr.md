@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '35.22 % rabais sur Briksmax Kit de LED pour La Statue de la'
-date: 2021-02-27 11:38:29
+date: 2021-03-10 13:12:10
 image: 'https://m.media-amazon.com/images/I/413YHLfa9iL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Briksmax Kit de LED pour La Statue de la Liberté  Compatible avec la
 
 ℹ️:
 
-- Conçu pour la maquette Lego 21042, avec ce kit déclairage, vous pouvez faire passer votre La Statue de la Liberté de lobscurité à la lumière, lui donner vie.
 - Si vous avez des difficultés avec votre produit, veuillez nous envoyer un e-mail, nous sommes toujours là pour vous aider.
 - Avec les instructions étape par étape, vous trouverez un moyen plus facile de faire de magnifiques améliorations sur votre kit de construction préféré.
+- Conçu pour la maquette Lego 21042, avec ce kit déclairage, vous pouvez faire passer votre La Statue de la Liberté de lobscurité à la lumière, lui donner vie.
 - Veuillez noter que seule les lumières LED sont incluses. Tous les sets LEGO montrés en images et vidéos ne sont pas inclus.
 - Le paquet contient les bit lights,les bandes lumineuses, les panneaux dexpansion, les câbles, un bloc-pile (piles non incluses), les carrés adhésifs, le manuel dinstructions.
 
