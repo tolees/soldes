@@ -28,7 +28,7 @@ Vous avez [Elgato Game Capture 4K60 Pro - Carte de Capture en 4K à 60 FPS avec 
 
 ℹ️:
 
-- Un logiciel dédié : enregistrez avec facilité et exportez vers votre app préférée d’édition
 - Affichage instantané : donnez de la puissance à votre flux de travail grâce à une technologie hors pair à faible latence
+- Un logiciel dédié : enregistrez avec facilité et exportez vers votre app préférée d’édition
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076ZQBN6R/?tag=tolees0d-21)
