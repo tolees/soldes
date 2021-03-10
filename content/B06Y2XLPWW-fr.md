@@ -28,8 +28,8 @@ Vous avez [Vilac- Bascule Mouton 2 en 1  1116](https://www.amazon.fr/dp/B06Y2XLP
 
 ℹ️:
 
-- Modulable
-- Bascule
 - Mouton
+- Bascule
+- Modulable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y2XLPWW/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [KS TOOLS 515.1003 Coffret de tournevis à frapper avec embouts  
 
 ℹ️:
 
+- Carré dentrainement avec bille de maintien selon DIN 3120 / ISO 1174
+- Avancée optimale
+- 1/4 de rotation de lembout à chaque coup de marteau
 - Ripage impossible
 - Réversible
-- Carré dentrainement avec bille de maintien selon DIN 3120 / ISO 1174
-- 1/4 de rotation de lembout à chaque coup de marteau
-- Avancée optimale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001NYZSTK/?tag=tolees0d-21)

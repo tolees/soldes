@@ -28,10 +28,10 @@ Vous avez [Sony ILCE-6000LS Appareil Photo Numérique Hybride  Capteur APS-C  24
 
 ℹ️:
 
-- Capteur CMOS Exmor HD APS 24,3 mégapixels
-- Mise au point auto Fast Hybrid avancée
-- Objectif zoom 16-50mm inclus
-- Viseur OLED SVGA Tru-Finder net
 - Le tout dernier capteur CMOS Exmor HD APS 24,3 mégapixels de Sony ; mise au point automatique Fast Hybrid avancée ; SVGA Tru-Finder
+- Objectif zoom 16-50mm inclus
+- Mise au point auto Fast Hybrid avancée
+- Viseur OLED SVGA Tru-Finder net
+- Capteur CMOS Exmor HD APS 24,3 mégapixels
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IEYENN4/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Triumph Fit Smart P Soutien-Gorge Invisible  Noir  Black   03 Fe
 
 ℹ️:
 
-- TRIUMPH
-- Soutien-gorge
 - Corsetterie
 - FIT SMART
+- Soutien-gorge
+- TRIUMPH
 - Permanent
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VC9YP7M/?tag=tolees0d-21)

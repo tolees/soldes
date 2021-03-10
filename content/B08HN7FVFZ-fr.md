@@ -28,9 +28,9 @@ C'est en vente [Roccat Vulcan Pro - Clavier de jeu optique RGB  rétroéclairage
 
 ℹ️:
 
-- Design Vulcan primé, connu pour son esthétique fonctionnelle | Sensation mécanique et actionnement à la vitesse de la lumière grâce au Titan Switch Optical
-- Repose-paumes amovible magnétique pour un confort de jeu amélioré | Moteur déclairage intelligent AIMO qui se synchronise avec les périphériques compatibles avec AIMO
 - Durabilité longue durée avec un cycle de vie de 100 millions de pressions par touche | Design ultrafin qui élimine la pression sur les poignets en vous permettant de laisser vos mains à plat
+- Repose-paumes amovible magnétique pour un confort de jeu amélioré | Moteur déclairage intelligent AIMO qui se synchronise avec les périphériques compatibles avec AIMO
+- Design Vulcan primé, connu pour son esthétique fonctionnelle | Sensation mécanique et actionnement à la vitesse de la lumière grâce au Titan Switch Optical
 - Commandes média et molette de volume de type « mixer » | Câble tressé pour une esthétique stylée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HN7FVFZ/?tag=tolees0d-21)

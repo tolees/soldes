@@ -28,10 +28,10 @@ C'est en vente [H.Koenig Théière Bouilloire Instant T électrique en Verre 1.5
 
 ℹ️:
 
-- Garantie 2 ans
-- Corps en verre et acier inoxydable - Socle avec pavé tactile - Socle connecteur 360°
 - Fonction maintien au chaud pendant 30 min
+- Corps en verre et acier inoxydable - Socle avec pavé tactile - Socle connecteur 360°
 - Deux couvercles inclus pour les fonctions bouilloire et théière et Filtre à thé en acier inoxydable
 - Théière avec 4 choix de température : 70 °C, 80 °C, 90 °C, 100 °C - Capacité : 1,5 L - Puissance: 2200 W
+- Garantie 2 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GKZP9LV/?tag=tolees0d-21)
