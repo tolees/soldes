@@ -28,12 +28,12 @@ Vous avez [Kitchenaid - 5kek1522 ems - Bouilloire sans fil 1.5l 2400w gris étai
 
 ℹ️:
 
-- Description du produit: KitchenAid 5KEK1522EMS
-- Température réglable de 50 ° C à 100 ° C
 - Hauteur: 218 mm
-- Fréquence dentrée: 50 - 60 Hz
-- Profondeur: 210 mm
 - Largeur: 263 mm
+- Description du produit: KitchenAid 5KEK1522EMS
+- Profondeur: 210 mm
+- Température réglable de 50 ° C à 100 ° C
+- Fréquence dentrée: 50 - 60 Hz
 - Tension dentrée: 220 - 240 V
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BJL4W0I/?tag=tolees0d-21)
