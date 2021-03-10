@@ -30,8 +30,8 @@ Vous avez [eXtremeRate PlayVital RGB LED Bande Lumineuse pour Xbox Séries X Con
 
 - Uniquement compatible avec Xbox Séries X Console, NON applicable pour les autres consoles. Veuillez vérifier la troisième image de la liste avant lachat.
 - Ce kit de bandes lumineuses à LED comprend 1 bandes LED flexibles, 1 télécommande infrarouge à 6 touches, 1 bâton en plastique, 1 manuel dutilisation et 2 lingettes de nettoyage. (La console et les autres pièces ne sont pas incluses.)
-- Facile à installer, il suffit de nettoyer la surface adhésive de la console et de coller la bande lumineuse, sans étapes supplémentaires. La télécommande emballée peut rapidement atténuer le mode déclairage, ajuster leffet déclairage et a une fonction de mémoire.
 - La bande lumineuse LED a un total de 7 couleurs (rouge, blanc froid, jaune, rose, cyan, vert, bleu). 29 modes au choix, vous pouvez personnaliser votre console pour Xbox Séries X, en faire une couleur unique.
+- Facile à installer, il suffit de nettoyer la surface adhésive de la console et de coller la bande lumineuse, sans étapes supplémentaires. La télécommande emballée peut rapidement atténuer le mode déclairage, ajuster leffet déclairage et a une fonction de mémoire.
 - Remarque: le produit est alimenté par linterface USB de la console DC 5V, veuillez ne pas le brancher sur linterface dalimentation CC plus grande. Si vous avez des questions sur notre bande de lumières LED, nhésitez pas à nous contacter, nous réglerons votre problème dans les 24 heures.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08VWQ74JZ/?tag=tolees0d-21)

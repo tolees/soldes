@@ -28,10 +28,10 @@ C'est en vente [Hansgrohe Mitigeur de Lavabo MySport XL à Bec Haut pour Vasque 
 
 ℹ️:
 
-- Grand confort dutilisation : poignée ergonomique, réglage facile et précis de la température
-- Economies deau et dénergie : débit réduit à 5l/min
 - Mitigeur design : bec très haut, 19cm de hauteur sous bec, idéal pour vasque haute de salle de bain. Brillance durable
-- Universel : compatible avec les chauffe-eaux instantanés
+- Economies deau et dénergie : débit réduit à 5l/min
+- Grand confort dutilisation : poignée ergonomique, réglage facile et précis de la température
 - Température précise et stable grâce à la cartouche céramique haute qualité brevetée par hansgrohe
+- Universel : compatible avec les chauffe-eaux instantanés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01DR39HAU/?tag=tolees0d-21)

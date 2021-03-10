@@ -28,11 +28,11 @@ C'est en vente [Gillette Fusion 5 Proglide Rasoir Homme + 10 Lames de Recharge [
 
 ℹ️:
 
-- Lame de finition à l’arrière, idéale pour retoucher les zones difficiles d’accès (nez et pattes)
-- Rasoir pour homme doté de la technologie FlexBall, qui épouse les contours du visage et atteint quasiment tous les poils
-- Rasoirs pour homme Gillette dotés de 5 lames anti-friction, pour un rasage comme une caresse
-- Compatible avec toutes les recharges de lames Fusion5 et Fusion5 Power
-- 1 recharge de lame de rasoir correspond à un mois de rasage
 - La bande Lubrastrip améliorée présente davantage d’agents lubrifiants (par rapport au Fusion5)
+- Rasoirs pour homme Gillette dotés de 5 lames anti-friction, pour un rasage comme une caresse
+- Rasoir pour homme doté de la technologie FlexBall, qui épouse les contours du visage et atteint quasiment tous les poils
+- 1 recharge de lame de rasoir correspond à un mois de rasage
+- Lame de finition à l’arrière, idéale pour retoucher les zones difficiles d’accès (nez et pattes)
+- Compatible avec toutes les recharges de lames Fusion5 et Fusion5 Power
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01B4POC3A/?tag=tolees0d-21)
