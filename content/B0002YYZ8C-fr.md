@@ -28,10 +28,10 @@ Vous avez [metabo - Mandrins à serrage rapide Futuro Plus S2 M  pour rotation �
 
 ℹ️:
 
+- Version qui convient au perçage à percussion
 - À 2 douilles avec verrouillage radial pour la fixation solide des outils
 - Sans clé pour le changement rapide des outils
 - Version robuste avec douille en métal. Version 6.36619 avec mors en métal dur
-- Version qui convient au perçage à percussion
 - Développé spécialement pour les perceuses à percussion
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0002YYZ8C/?tag=tolees0d-21)
