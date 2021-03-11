@@ -28,8 +28,8 @@ Vous avez [Zuru X-Shot Dino Attack Jouet  4866  16 fléchettes  4 œufs](https:/
 
 ℹ️:
 
-- Baril auto-rotatif
 - Capacité de 6 fléchettes.
+- Baril auto-rotatif
 - Jusquà 27 m.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084YVZXFC/?tag=tolees0d-21)
