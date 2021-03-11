@@ -28,10 +28,10 @@ C'est en vente [iAmotus Bluetooth Adaptateur  Bluetooth 4.0 + EDR Clé USB 2.0 �
 
 ℹ️:
 
-- 【Compatibilité】 iAmotus adaptateur compatible avec Windows XP / Vista / 7/8 / 8.1 / 10, adapté pour PC, ordinateur portable, souris, haut-parleur, casque, imprimante, souris, clavier, etc. Pas pour Mac, ni pour autoradio ou TV.
-- 【Extrêmement Compact】Petit et compact, vous permettant de le laisser sur votre ordinateur portable ou PC sans démontage, et peut être inséré de manière transparente dans lordinateur / ordinateur portable sans bloquer les ports USB environnants, économiser de lespace.
 - 【Stockage Automatique】Dongle a la fonction de stockage automatique. Après la première connexion, les démarrages suivants se connecteront automatiquement à lappareil sans répéter les étapes fastidieuses.
 - 【Transmission Stable et Faible Consommation Dénergie】Adaptateur Bluetooth prend en charge un taux de transmission maximal de 3 Mbps et une distance de transmission de 10 à 20 m dans un espace ouvert. Appliquez la dernière technologie Bluetooth 4.0 (EDR) basse consommation pour fournir la fonctionnalité Bluetooth à votre ordinateur.
 - 【Plug and Play】Windows 10 peut utiliser directement la fonction plug and play de ce dongle sans installer de pilotes externes. Win 7/8 doit installer le pilote (y compris le CD) (lien du pilote http://suo.im/5lU9Uc).
+- 【Extrêmement Compact】Petit et compact, vous permettant de le laisser sur votre ordinateur portable ou PC sans démontage, et peut être inséré de manière transparente dans lordinateur / ordinateur portable sans bloquer les ports USB environnants, économiser de lespace.
+- 【Compatibilité】 iAmotus adaptateur compatible avec Windows XP / Vista / 7/8 / 8.1 / 10, adapté pour PC, ordinateur portable, souris, haut-parleur, casque, imprimante, souris, clavier, etc. Pas pour Mac, ni pour autoradio ou TV.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01J3AMITS/?tag=tolees0d-21)

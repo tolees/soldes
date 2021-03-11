@@ -28,7 +28,7 @@ Vous avez [Vilac - 9250 - Bascule - Keith Haring](https://www.amazon.fr/dp/B000Y
 
 ℹ️:
 
-- Age minimum : 2 ans
 - Bascule Keith Haring
+- Age minimum : 2 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000Y4LZRE/?tag=tolees0d-21)
