@@ -28,9 +28,9 @@ Vous avez [Le Petit Marseillais Gel Douche Bonheur Rhubarbe 250 ml](https://www.
 
 ℹ️:
 
-- Le Gel Douche à la Rhubarbe du Petit Marseillais
 - Note Yuka : 79/100
 - Lave en douceur votre peau grâce à sa mousse légère.
+- Le Gel Douche à la Rhubarbe du Petit Marseillais
 - Votre peau libère un parfum vert et fleuri
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KWJYK4S/?tag=tolees0d-21)

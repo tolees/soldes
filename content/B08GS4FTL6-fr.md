@@ -29,8 +29,8 @@ Vous avez [Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive  SSD   MZ-
 ℹ️:
 
 - Technologie TurboWrite pour profiter des performances maximales du 980 PRO
+- 12,7x plus rapide quun SSD classique grâce à linterface PCIe 4.0
 - Jouer pendant des heures sans risque de surchauffe grâce au système de contrôle thermique complet SAMSUNG
 - Installation sans outil nécessaire en quelques minutes avec le format M.2
-- 12,7x plus rapide quun SSD classique grâce à linterface PCIe 4.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GS4FTL6/?tag=tolees0d-21)
