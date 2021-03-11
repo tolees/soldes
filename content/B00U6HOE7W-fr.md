@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Generique - Blanche Neige et Les Sept Na avec 33.40 % rabais '
-date: 2021-03-09 18:45:11
+date: 2021-03-10 23:57:31
 image: 'https://m.media-amazon.com/images/I/51m65E0VzbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Generique'
 buyurl: 'https://www.amazon.fr/dp/B00U6HOE7W/?tag=tolees0d-21'
 descuento: '33.40'
-average: '13.6437931034483'
+average: '13.408064516129'
 ---
 
 C'est en vente [Generique - Blanche Neige et Les Sept Nains](https://www.amazon.fr/dp/B00U6HOE7W/?tag=tolees0d-21)  à  33.40 % de réduction, prix final  9.99 EUR (original: 15.0 EUR) ici:

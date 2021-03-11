@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Riyth - Disque Dur Externe 1to  USB3.1 T avec 32.41 % rabais '
-date: 2021-03-09 19:23:10
+date: 2021-03-10 23:53:45
 image: 'https://m.media-amazon.com/images/I/31JcLFur6YL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Riyth - Disque Dur Externe 1to  USB3.1 Type-C Disque Dur Externe
 
 ℹ️:
 
-- USB 3.1( compatible USB 3.0) jusquà 100MB/S, Le protocole UASP augmente la vitesse de 20% par rapport à lUSB3.0 traditionnel.
-- Compatibilité Universelle:TV, Xbox, Windows, Linux, Desktop, Laptop, Android.
-- Indicateur LED allume toujours quand il est alimenté, Sil ny a pas dopérations dans 10 minutes, il sera en mode veille pour économiser lénergie.Pas de pièce détachée et un corps métallique robuste, Waterproof, résistant à la chute.
 - Sans logiciel à installer, il suffit de le brancher et le disque est prêt à l’emploi. Lextrémité de type C permet une insertion aveugle des deux côtés.
 - Corps ultra-mince de seulement 8,5 mm, poids de 37 g seulement, vous pouvez lemporter nimporte où.
+- USB 3.1( compatible USB 3.0) jusquà 100MB/S, Le protocole UASP augmente la vitesse de 20% par rapport à lUSB3.0 traditionnel.
+- Indicateur LED allume toujours quand il est alimenté, Sil ny a pas dopérations dans 10 minutes, il sera en mode veille pour économiser lénergie.Pas de pièce détachée et un corps métallique robuste, Waterproof, résistant à la chute.
+- Compatibilité Universelle:TV, Xbox, Windows, Linux, Desktop, Laptop, Android.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08X6YLF3H/?tag=tolees0d-21)

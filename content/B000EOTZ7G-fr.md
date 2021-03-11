@@ -28,9 +28,9 @@ C'est en vente [Canon Objectif EF-S 17-55 mm f/2.8 IS USM](https://www.amazon.fr
 
 ℹ️:
 
-- Zoom grand-angle pour boîtiers numériques dotés de la monture d’objectifs EF-S
 - Ouverture de f/2,8 sur toute la plage de focales
 - Transmission des informations de distance au système E-TTL II
+- Zoom grand-angle pour boîtiers numériques dotés de la monture d’objectifs EF-S
 - Stabilisateur d’image équivalant à trois vitesses
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000EOTZ7G/?tag=tolees0d-21)
