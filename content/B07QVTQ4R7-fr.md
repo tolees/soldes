@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger Tommy Logo Tee T-Shirt  N avec 29.95 % rabais '
-date: 2021-03-10 13:22:37
+date: 2021-03-11 13:39:16
 image: 'https://m.media-amazon.com/images/I/41LcwlI3J2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,8 @@ C'est en vente [Tommy Hilfiger Tommy Logo Tee T-Shirt  Noir  Jet Black Base   La
 
 ℹ️:
 
-- Lavable en machine
-- MW0MW11465
-- T-shirt
-- Manches courtes
-- Tommy Hilfiger S/S T-shirt pour homme
-- 100 % coton
-- Style de col : col rond
-- Il sagit dun produit original et authentique Tommy Hilfiger
+- Tommy Hilfiger Black Core Logo T-Shirt
+- See product description below for more information.
+- Brand New and Genuine. We are an authorised seller of Tommy Hilfiger.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QVTQ4R7/?tag=tolees0d-21)

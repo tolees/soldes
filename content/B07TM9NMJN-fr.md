@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Etersky Interrupteur Volet Roulant Conne avec 19.60 % rabais '
-date: 2021-03-10 07:05:25
+date: 2021-03-11 13:05:10
 image: 'https://m.media-amazon.com/images/I/31p5GSXK6gL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Etersky'
 buyurl: 'https://www.amazon.fr/dp/B07TM9NMJN/?tag=tolees0d-21'
 descuento: '19.60'
-average: '62.0769565217392'
+average: '61.87'
 ---
 
 C'est en vente [Etersky Interrupteur Volet Roulant Connecté WiFi  Commutateur Intelligent Volet Roulant Stores Connecté Compatible avec Alexa et Google Home  Interrupteur Tactile Peut Éteindre la LED  Timer - 4 Packs](https://www.amazon.fr/dp/B07TM9NMJN/?tag=tolees0d-21)  à  19.60 % de réduction, prix final  59.49 EUR (original: 73.99 EUR) ici:

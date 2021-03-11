@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.65 % rabais sur Apli 1289 Boîte de 100 Feuilles d Etique'
-date: 2021-03-10 13:14:34
+date: 2021-03-11 13:44:31
 image: 'https://m.media-amazon.com/images/I/51KGiHflVmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Apli'
 buyurl: 'https://www.amazon.fr/dp/B000KJKGNM/?tag=tolees0d-21'
 descuento: '21.65'
-average: '20.0937267080747'
+average: '20.0523312883438'
 ---
 
 Vous avez [Apli 1289 Boîte de 100 Feuilles d Etiquettes 105 x 48 Blanc](https://www.amazon.fr/dp/B000KJKGNM/?tag=tolees0d-21)  à  21.65 % de réduction, prix final  16.72 EUR (original: 21.34 EUR) ici:
