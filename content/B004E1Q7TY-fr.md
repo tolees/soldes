@@ -28,8 +28,8 @@ C'est en vente [Sylvanian Families - Le Village - Les Lits Superposés A 3 Couch
 
 ℹ️:
 
-- Ces lits superposés à 3 couchettes sont fournis avec 3 matelas. 3 couettes et 2 échelles.
 - Par 3. 2 + 1. ou bien à lunité. selon vos envies.
+- Ces lits superposés à 3 couchettes sont fournis avec 3 matelas. 3 couettes et 2 échelles.
 - Ils sont dissociables et peuvent donc sinstaller dans les chambres au gré des envies daménagement de chacun.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004E1Q7TY/?tag=tolees0d-21)

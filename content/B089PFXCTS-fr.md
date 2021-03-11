@@ -28,11 +28,11 @@ C'est en vente [VTech – Mimi Do Ré Mi - Peluche Musicale Bébé  Jouet d’É
 
 ℹ️:
 
-- Version française
-- Langue : Français. 3 chansons et 15 mélodies - Réglage du volume sonore et arrêt automatique
+- Apprentissages : les 8 pattes colorées permettent de découvrir les couleurs, les formes, les notes de musiques et entendre de jolies mélodies
 - Le ventre lumineux déclenche de jolies chansons et mélodies quand on appuie dessus, la veilleuse lumineuse change de couleur au rythme de la musique
 - Stimulation tactile : Les nombreuses matières et textures favorisent le développement tactile de Bébé - Fonctionne avec 2 piles LR03/AAA incluses
 - Conseillée pour les enfants dès 6 mois et jusqu’à 36 mois.
-- Apprentissages : les 8 pattes colorées permettent de découvrir les couleurs, les formes, les notes de musiques et entendre de jolies mélodies
+- Langue : Français. 3 chansons et 15 mélodies - Réglage du volume sonore et arrêt automatique
+- Version française
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089PFXCTS/?tag=tolees0d-21)
