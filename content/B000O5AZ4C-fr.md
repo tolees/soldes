@@ -28,11 +28,11 @@ Vous avez [Jeujura - 8850-Tableau en Bois-Pupitre Multifonctions en Bois](https:
 
 ℹ️:
 
-- Fabrication Française
-- Fonctionne sans pile
-- Age minimum : 3 ans
 - Pupitre Multifonctions en Bois avec fonction Dessin
 - Avec une ardoise réversible (une face craie et une face blanche magnétique) et de très nombreux accessoires
+- Fonctionne sans pile
+- Fabrication Française
 - Facile à replier et à transporter. Dimension du pupitre fermé : 45 x 42 x 6 cm
+- Age minimum : 3 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000O5AZ4C/?tag=tolees0d-21)
