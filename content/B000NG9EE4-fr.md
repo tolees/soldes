@@ -28,8 +28,8 @@ Vous avez [Adidas Copa Mundial  Bottes Classiques homme  Blanc Cassé  Ftwbla/ne
 
 ℹ️:
 
-- Fermeture en dentelle
 - Coupe régulière
+- Fermeture en dentelle
 - Importé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000NG9EE4/?tag=tolees0d-21)
