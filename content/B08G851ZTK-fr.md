@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Imou Caméra Surveillance WiFi Interieur  avec 15.84 % rabais '
-date: 2021-03-07 17:00:14
+title: 'Imou Caméra Surveillance WiFi Interieur  avec 16.67 % rabais '
+date: 2021-03-11 18:23:05
 image: 'https://m.media-amazon.com/images/I/41RhMia3PdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,29 +9,29 @@ author: ring
 slug: 'B08G851ZTK-fr Imou Caméra Surveillance WiFi Interieur Caméra 360°...'
 sku: 'B08G851ZTK-fr'
 tags: [  ]
-actualPrice: 50.49 EUR
+actualPrice: 49.99 EUR
 currency: EUR
-price: 50.49
+price: 49.99
 comparePrice: 59.99 EUR
 prodname: 'Imou Caméra Surveillance WiFi Interieur Caméra 360° Connectée 1080P Caméra IP sans Fil avec Détection et Suivi de Mouvement Mode Privée Audio Bidirectionnel Compatible Alexa pour Enfant Bébé Animal'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Imou'
 buyurl: 'https://www.amazon.fr/dp/B08G851ZTK/?tag=tolees0d-21'
-descuento: '15.84'
-average: '50.49'
+descuento: '16.67'
+average: '54.19'
 ---
 
-C'est en vente [Imou Caméra Surveillance WiFi Interieur Caméra 360° Connectée 1080P Caméra IP sans Fil avec Détection et Suivi de Mouvement Mode Privée Audio Bidirectionnel Compatible Alexa pour Enfant Bébé Animal](https://www.amazon.fr/dp/B08G851ZTK/?tag=tolees0d-21)  à  15.84 % de réduction, prix final  50.49 EUR (original: 59.99 EUR) ici:
+C'est en vente [Imou Caméra Surveillance WiFi Interieur Caméra 360° Connectée 1080P Caméra IP sans Fil avec Détection et Suivi de Mouvement Mode Privée Audio Bidirectionnel Compatible Alexa pour Enfant Bébé Animal](https://www.amazon.fr/dp/B08G851ZTK/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  49.99 EUR (original: 59.99 EUR) ici:
 
 [![Imou Caméra Surveillance WiFi Interieur ](https://m.media-amazon.com/images/I/41RhMia3PdL._SL400_.jpg)](https://www.amazon.fr/dp/B08G851ZTK/?tag=tolees0d-21)
 
 ℹ️:
 
+- 【Audio Bidirectionnel et Fonctionne avec Alexa】Le microphone et les haut-parleurs intégrés vous permettent de communiquer de manière fluide et claire avec votre famille lorsque vous êtes absent. Compatible avec Alexa, demandez à Alexa de montrer votre cuisine, votre salon, votre chambre de bébé ou dautres endroits avec des caméras Imou.
 - 【Mode Privée et Stockage Flexible】Vous pouvez enregistrer des vidéos sur une carte SD jusquà 128 Go (non incluse) ou sur Imou Cloud (30 jours dessai gratuit avec 7 jours de cycle pour lenregistrement) pour vous assurer de pouvoir lire les vidéo à tout moment. Un seul clic sur la mode privée de lApp Imou Life pour couvrir physiquement lobjectif de la caméra, protégeant ainsi votre vie privée lorsque vous êtes à la maison.
 - 【Couverture à 360° & Autonomie en Croisière】Imou caméra Ranger Pro est équipée dun objectif large HD de 3.6 mm et de 2mp avec un angle de vision de 107°，rotation horizontale de 355° et verticale de 90°, aucune zone de couverture dangle mort. Sélectionnez "Autonomie en Croisière" pour parcourir toutes les zones à 360 ° horizontal. Vous pouvez définir une heure et un lieu fixes pour la croisière, et la caméra naviguera automatiquement à intervalles réguliers.
 - 【Full HD 1080P & Vision Nocturne de 10M】1080P FHD clair fournit des vidéos de haute qualité directement dans votre smartphone. La caméra de surveillance wifi peut fournir une distance de vision nocturne de 10 m et peut enregistrer une vidéo panoramique en temps réel FHD 1080p, même dans une nuit. Le mode de vision nocturne sallume et séteint automatiquement. (La caméra ne prend en charge que la connexion WiFi 2.4 GHz)
-- 【Audio Bidirectionnel et Fonctionne avec Alexa】Le microphone et les haut-parleurs intégrés vous permettent de communiquer de manière fluide et claire avec votre famille lorsque vous êtes absent. Compatible avec Alexa, demandez à Alexa de montrer votre cuisine, votre salon, votre chambre de bébé ou dautres endroits avec des caméras Imou.
 - 【Détection et Suivi de Mouvement】La notification dalarme sera envoyée rapidement sur lApp si un mouvement est détecté par cette caméra wifi intérieur. La sensibilité de détection de mouvement peut être réglée par vous-même. Pendant ce temps, lorsque vous activez la fonction de suivi intelligent, la caméra de sécurité se déplace à mesure que lobjet ou les personnes se déplacent.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08G851ZTK/?tag=tolees0d-21)
