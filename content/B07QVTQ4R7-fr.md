@@ -28,8 +28,8 @@ C'est en vente [Tommy Hilfiger Tommy Logo Tee T-Shirt  Noir  Jet Black Base   La
 
 ℹ️:
 
-- Tommy Hilfiger Black Core Logo T-Shirt
 - See product description below for more information.
+- Tommy Hilfiger Black Core Logo T-Shirt
 - Brand New and Genuine. We are an authorised seller of Tommy Hilfiger.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QVTQ4R7/?tag=tolees0d-21)
