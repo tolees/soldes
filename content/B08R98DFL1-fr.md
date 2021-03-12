@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Bravely Default II  Nintendo Switch  avec 28.23 % rabais '
-date: 2021-03-11 00:15:52
+date: 2021-03-12 07:24:50
 image: 'https://m.media-amazon.com/images/I/513f4xwOJhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B08R98DFL1/?tag=tolees0d-21'
 descuento: '28.23'
-average: '52.2127272727273'
+average: '51.5691666666667'
 ---
 
 C'est en vente [Bravely Default II  Nintendo Switch ](https://www.amazon.fr/dp/B08R98DFL1/?tag=tolees0d-21)  à  28.23 % de réduction, prix final  44.49 EUR (original: 61.99 EUR) ici:
@@ -29,7 +29,7 @@ C'est en vente [Bravely Default II  Nintendo Switch ](https://www.amazon.fr/dp/B
 ℹ️:
 
 - Quatre héros, quatre Cristaux… une aventure légendaire !
-- Menez votre groupe à travers cinq royaumes dans votre quête pour restituer les quatre Cristaux à leur place légitime.
 - Utilisez les astérisques pour débloquer de nouvelles classes et aptitudes.
+- Menez votre groupe à travers cinq royaumes dans votre quête pour restituer les quatre Cristaux à leur place légitime.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08R98DFL1/?tag=tolees0d-21)
