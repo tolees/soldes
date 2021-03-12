@@ -28,9 +28,9 @@ C'est en vente [Finish Pastilles Lave-Vaisselle Powerball Quantum Ultimate - 35 
 
 ℹ️:
 
+- La poudre agit pour enlever les résidus collés
 - Le gel dégraisse et élimine les taches les plus tenaces
 - La Powerball intensifie la brillance de votre vaisselle
-- La poudre agit pour enlever les résidus collés
 - Les pastilles lave-vaisselle Finish Quantum Ultimate vous offrent une propreté et une brillance
 - Tablettes lave-vaisselle avec film 100% hydrosoluble et biodégradable
 - 3 compartiments à dissolution rapide, pour des résultats impeccables même en cycle économique
