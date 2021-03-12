@@ -28,9 +28,9 @@ C'est en vente [StarTech.com Adaptateur actif DisplayPort vers DVI-D Dual Link -
 
 ℹ️:
 
-- Alimentation par port USB
-- Prise en charge des résolutions jusquà 2560x1600 (jusquà 60 Hz) avec les écrans DVI Dual Link, et jusquà 1920x1080 (jusquà 120 Hz) avec les écrans DVI Single Link
 - Prise en charge du DisplayPort monomode et multimode (DP++)
+- Prise en charge des résolutions jusquà 2560x1600 (jusquà 60 Hz) avec les écrans DVI Dual Link, et jusquà 1920x1080 (jusquà 120 Hz) avec les écrans DVI Single Link
 - Prise en charge de tous les écrans DVI-D incluant les télévisions et les home cinéma HD d’Apple
+- Alimentation par port USB
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00A493CNY/?tag=tolees0d-21)
