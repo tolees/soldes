@@ -28,12 +28,12 @@ Vous avez [Somfy 1870646 - Télécommande pour stores vénitiens et pergola bioc
 
 ℹ️:
 
-- Facile à installer avec la touche « PROG » au dos, pour synchroniser la télécommande avec votre équipement motorisé io
+- Dispose de 3 fonctions en plus de la molette : montée/stop/descente et la fonction favorite « My » qui permet de retrouver la position préférée enregistrée du volet ou store en un clic
 - Dotée dun design épuré et moderne pour se fondre parfaitement dans votre intérieur et de courbes ergonomiques pour une prise en main facilitée
+- Livrée avec un support mural et 1 pile
+- Profitez de plus de confort au quotidien, en contrôlant plusieurs équipements depuis votre canapé avec une seule télécommande
+- Facile à installer avec la touche « PROG » au dos, pour synchroniser la télécommande avec votre équipement motorisé io
 - Pour contrôler jusquà 5 équipements ou groupes déquipements motorisés : volets, brise-soleil orientables, éclairage équipé dun récepteur utilisant la technologie io-homecontrol
 - Possède une molette brevetée pour contrôler précisément linclinaison des lames de stores, volets, ou pergola à lames orientables ; ajuster lintensité dune lumière
-- Dispose de 3 fonctions en plus de la molette : montée/stop/descente et la fonction favorite « My » qui permet de retrouver la position préférée enregistrée du volet ou store en un clic
-- Profitez de plus de confort au quotidien, en contrôlant plusieurs équipements depuis votre canapé avec une seule télécommande
-- Livrée avec un support mural et 1 pile
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086C8TKHN/?tag=tolees0d-21)

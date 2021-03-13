@@ -29,11 +29,11 @@ Vous avez [Sony Xperia 5 II - Téléphone portable | Design compact | Écran 21:
 ℹ️:
 
 - Système exploitation : androïde
-- Vivez votre jeu et prenez la tête du classement avec le grand écran 6,1" 21:9 OLED au taux de rafraichissement de 120Hz
-- Ecran FHD+ 21:9 CinemaWide OLED HDR avec une reproduction des couleurs de pointe
 - Vitesse et fiabilité: 5G, Qualcomm Snapdragon 865 et une batterie 4000 mAh fiable
 - Design soigné et compact avec toute la technologie dont vous avez besoin
-- Mode rafale jusqu’à 20 ips avec suivi AF/AE et autofocus sur lœil pour des photos ultra précises
 - Description de la caméra : arrière
+- Mode rafale jusqu’à 20 ips avec suivi AF/AE et autofocus sur lœil pour des photos ultra précises
+- Ecran FHD+ 21:9 CinemaWide OLED HDR avec une reproduction des couleurs de pointe
+- Vivez votre jeu et prenez la tête du classement avec le grand écran 6,1" 21:9 OLED au taux de rafraichissement de 120Hz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KG8BZTQ/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [BLACK+DECKER EGBL188KB-QW Perceuse-Visseuse sans fil  18V  Noir  Roug
 
 ℹ️:
 
-- Moteur 2 vitesses
-- Taille du mandrin : 10 mm - Changement facile et rapides des embouts
 - 2 batteries lithium-ion
 - Batterie lithium-ion
+- Taille du mandrin : 10 mm - Changement facile et rapides des embouts
 - Batterie interchangeable avec la totalité des produits 18V BLACK+DECKER Bricolage et Jardinage.
+- Moteur 2 vitesses
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009X5U0NU/?tag=tolees0d-21)
