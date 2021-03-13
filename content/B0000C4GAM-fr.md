@@ -28,15 +28,15 @@ Vous avez [Canon EF Objectif Zoom Grand Angle 17 / 40 mm f/4.0 L USM](https://ww
 
 ℹ️:
 
-- Distance focale : 17 / 40 mm
-- Structure de lobjectif : 9 Groupes / 12 Eléments
-- Ouverture de lobjectif : F/4.0
-- Description du produit : Canon EF - Objectif Zoom Grand Angle 17 / 40 mm f/4.0 L USM
-- Fonctions spéciales : Grand angle, zoom
-- Portée mini de la mise au point : 28 cm
 - Taille du filtre : 77 mm
 - Type de produit : Objectif Zoom Grand Angle
-- Type de montage : Canon EF
+- Structure de lobjectif : 9 Groupes / 12 Eléments
+- Ouverture de lobjectif : F/4.0
+- Fonctions spéciales : Grand angle, zoom
 - Réglage de la mise au point : Automatique, manuel
+- Distance focale : 17 / 40 mm
+- Description du produit : Canon EF - Objectif Zoom Grand Angle 17 / 40 mm f/4.0 L USM
+- Portée mini de la mise au point : 28 cm
+- Type de montage : Canon EF
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0000C4GAM/?tag=tolees0d-21)
