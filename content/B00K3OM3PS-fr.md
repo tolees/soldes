@@ -29,9 +29,9 @@ C'est en vente [Generique - Harry Potter - l Intégrale des 8 Films - Le monde d
 ℹ️:
 
 - année 1 : English, French, French from Quebec, Castilian, Danish, Flemish, German, Italian, Swedish
-- année 7 : English, French, Italian, German,Flemish, Dutch
-- année 6 : Flemish, Slovak, Catalan, English, Portuguese from Brasilia, Dutch, French, German, Italian, Castilian
 - Disques Bluray
+- année 7 : English, French, Italian, German,Flemish, Dutch
 - année 2 à 5 : English, French, French from Quebec, Castilian, Catalan, Danish, Dutch, Flemish, German, Italian, Spanish, Swedish
+- année 6 : Flemish, Slovak, Catalan, English, Portuguese from Brasilia, Dutch, French, German, Italian, Castilian
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00K3OM3PS/?tag=tolees0d-21)
