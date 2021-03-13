@@ -28,10 +28,10 @@ Vous avez [Crocs Crocband Flip  Tongs Mixte Adulte  Bianco  White 100   42/43 EU
 
 ℹ️:
 
-- Semelle intermédiaire en matériau Croslite offrant un confort léger avec sangle supérieure en TPU.
-- Les tailles de semelle sont américaines. Létiquette montre le Royaume-Uni. M = homme W = femme.
 - Semelles légères.
 - Les chaussures Crocs affichent les tailles américaines.
 - Les picots de circulation sur la semelle plantaire stimulent la circulation sanguine.
+- Les tailles de semelle sont américaines. Létiquette montre le Royaume-Uni. M = homme W = femme.
+- Semelle intermédiaire en matériau Croslite offrant un confort léger avec sangle supérieure en TPU.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002JCSY28/?tag=tolees0d-21)
