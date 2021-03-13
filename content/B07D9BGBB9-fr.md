@@ -28,14 +28,14 @@ C'est en vente [Merrell Moab 2 GTX  Chaussures de Randonnée Basses Femme  Gris 
 
 ℹ️:
 
-- Doublure respirante en mesh
-- Membrane GORE-TEX offrant une respirabilité et une imperméabilité dexception
 - Fermeture traditionnelle à lacets
-- Profondeur des crampons : 3,5 mm
-- Semelle Vibram TC5+
 - Amorti Merrel Air Cushion dans le talon pour absorber les impacts et assurer une bonne stabilité
+- Semelle Vibram TC5+
 - Tige en cuir et mesh
-- Semelle intérieure profilée et amovible Kinetic Fit Base conjuguant soutien et souplesse
 - Languette à soufflet pour empêcher des éléments extérieurs de pénétrer dans la chaussure
+- Doublure respirante en mesh
+- Profondeur des crampons : 3,5 mm
+- Membrane GORE-TEX offrant une respirabilité et une imperméabilité dexception
+- Semelle intérieure profilée et amovible Kinetic Fit Base conjuguant soutien et souplesse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07D9BGBB9/?tag=tolees0d-21)
