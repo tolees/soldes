@@ -30,7 +30,7 @@ Vous avez [Tommy Hilfiger E367895041083 - Casquette de Baseball - Homme - Noir  
 
 - 100 % coton
 - Logo Tommy Hilfiger à larrière
-- Fermeture ajustable avec logo Tommy Hilfiger
 - Bouton et œillets sur le dessus
+- Fermeture ajustable avec logo Tommy Hilfiger
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B016QM6OIC/?tag=tolees0d-21)

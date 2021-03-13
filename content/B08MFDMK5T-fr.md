@@ -28,9 +28,9 @@ C'est en vente [U+U - Guirlande lumineuse de globe 5M 50 LEDs à piles  2 Modes 
 
 ℹ️:
 
-- 【Chaîne de Lumières Facile à Installer】 Cette lampe Led Fairy est très facile à installer. Il fonctionne avec 3 piles AA, pas besoin brancher sur prise, vous pouvez la placer nimporte quel endroit, très pratique à transporter.
 - 【SERVICE CLIENT】Nous proposons une garantie de 12 mois, nhésitez pas de nous contacter, si vous avez des question.
 - 【Guirlande Lumineuse Longue Durée de Vie】Bonne qualité et sécurité . Utilisé lampe de bonne qualité, Même luminosité de chaque ampoule, la durée de vie plus longue que 5,000 heures.
+- 【Chaîne de Lumières Facile à Installer】 Cette lampe Led Fairy est très facile à installer. Il fonctionne avec 3 piles AA, pas besoin brancher sur prise, vous pouvez la placer nimporte quel endroit, très pratique à transporter.
 - 【Multi-usage】Ces guirlandes lumineuses peuvent être courbes et faites à toutes les formes et designs que vous souhaitez.Utilisez-les de manière créative avec le bricolage. Il peut être utilisé pour la chambre à coucher, le rideau de fenêtre, le dortoir, la clôture, les galeries, le bar. Il peut également être utilisé à diverses occasions: anniversaire, mariage, festival, remise des diplômes, Saint Valentin, défilé de mode, etc.
 - 【2 Modes】Ampoule sphérique de conception de surface lisse, la taille mini libère plus dendroits et émet une lumière charmante pour vous, créant une atmosphère chaleureuse et douce pour vous. Ils dégagent une douce lueur comme létoile dans le ciel. Vous pouvez allumer la lumière en deux modes: allumé en continu et clignotant.
 

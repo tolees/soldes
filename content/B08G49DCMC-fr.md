@@ -28,12 +28,12 @@ C'est en vente [LEGO 43105 VIDIYO Party Llama BeatBox Créateur de Clip�
 
 ℹ️:
 
+- Avec plus de 90 BeatBits et 12 personnages à collectionner, tous inspirés par différents genres musicaux, les enfants vont adorer ce jouet quils pourront partager avec leurs amis
+- Les enfants réaliseront, produiront et joueront dans leurs propres clips musicaux en un rien de temps grâce à lapplication gratuite LEGO VIDIYO
 - Comprend une figurine dun lama avec un accessoire de maracas, 14 BeatBits aléatoires, 2 BeatBits spéciaux et une scène qui permet de réaliser des clips vidéo
+- Les briques BeatBits placées sur la scène déverrouillent les effets spéciaux de lapplication lorsquelles sont scannées pour ajouter et créer à chaque fois de nouveaux clips musicaux
+- Découvrez dautres effets spéciaux, défis et personnalisations, faites votre choix puis partagez votre vidéo en ligne avec vos amis sur un réseau social sécurisé et adapté aux enfants
 - Vérifiez la compatibilité de votre appareil en téléchargeant lapplication gratuite et enregistrez votre premier clip musical avec un Bandmate numérique gratuit avant lachat. Recherchez « LEGO VIDIYO » sur lApp Store ou sur Google Play
 - Utilisez lapplication pour donner vie au lama fêtard avec des airs tropicaux, des effets techno tropicaux en ajoutant des plantes LEGO colorées à votre vidéo
-- Les enfants réaliseront, produiront et joueront dans leurs propres clips musicaux en un rien de temps grâce à lapplication gratuite LEGO VIDIYO
-- Découvrez dautres effets spéciaux, défis et personnalisations, faites votre choix puis partagez votre vidéo en ligne avec vos amis sur un réseau social sécurisé et adapté aux enfants
-- Les briques BeatBits placées sur la scène déverrouillent les effets spéciaux de lapplication lorsquelles sont scannées pour ajouter et créer à chaque fois de nouveaux clips musicaux
-- Avec plus de 90 BeatBits et 12 personnages à collectionner, tous inspirés par différents genres musicaux, les enfants vont adorer ce jouet quils pourront partager avec leurs amis
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08G49DCMC/?tag=tolees0d-21)

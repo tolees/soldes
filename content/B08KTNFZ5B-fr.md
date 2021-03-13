@@ -28,9 +28,9 @@ C'est en vente [Playmobil Police Policier avec Moto et Voleur 70572](https://www
 
 ℹ️:
 
+- Contient 2 personnages, un distributeur de billet et une moto
 - Alerte à toutes les unités, on a du nouveau !
 - Le distributeur de billet souvre
 - Accompagnez les policiers dans toutes leurs aventures avec Playmobil
-- Contient 2 personnages, un distributeur de billet et une moto
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KTNFZ5B/?tag=tolees0d-21)
