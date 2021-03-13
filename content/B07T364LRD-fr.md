@@ -28,10 +28,10 @@ Vous avez [tech rc Mini Drone 20 Minutes Autonomie et Télécommande  Mini Drone
 
 ℹ️:
 
-- 20 MINUTES DE VOL - En utilisant 2 batteries de drone amovibles détachables, ce drone peut vous offrir jusquà 20 minutes de temps de vol, vous permet de jouer avec ce mini drone ultra-léger plus de temps en faisant ce que vous voulez
-- DEMARRAGE / ATTERRISSAGE A UN BOUTON - Facile à utiliser pour les enfants & débutants grâce à ses fonctionnalités avancées: démarrage / atterrissage à un bouton, mode sans tête, arrêt durgence, etc. Mini-poche portable. Vous pouvez lemporter partout, on vous recommande de jouer à la maison
 - ALARME DE BASSE TENSION - Avec la fonction dalarme de basse tension/ Alarme hors portée, lorsque vous voyez les lumières du drone passer de fixes à clignotantes, cest lavertissement de faible puissance, le joueur doit ordonner au drone de revenir à lheure
-- CONCEPTION DE MODE SANS TETE - Au début du vol, activez la fonction de mode sans tête, ne vous inquiétez pas si ce mini drone devient incontrôlable. Vous navez pas à vous soucier de la direction du drone portable, il est idéal pour les enfants et les débutants, etc
 - MINI & PORTABLE - Avec une conception pratique, ce drone pour enfant peut économiser plus despaces et vous pouvez le mettre dans votre sac même dans une poche lorsque vous êtes à lextérieur. Il est plus stable et flexible avec le système de stabilisation gyroscopique à 6 axes
+- DEMARRAGE / ATTERRISSAGE A UN BOUTON - Facile à utiliser pour les enfants & débutants grâce à ses fonctionnalités avancées: démarrage / atterrissage à un bouton, mode sans tête, arrêt durgence, etc. Mini-poche portable. Vous pouvez lemporter partout, on vous recommande de jouer à la maison
+- CONCEPTION DE MODE SANS TETE - Au début du vol, activez la fonction de mode sans tête, ne vous inquiétez pas si ce mini drone devient incontrôlable. Vous navez pas à vous soucier de la direction du drone portable, il est idéal pour les enfants et les débutants, etc
+- 20 MINUTES DE VOL - En utilisant 2 batteries de drone amovibles détachables, ce drone peut vous offrir jusquà 20 minutes de temps de vol, vous permet de jouer avec ce mini drone ultra-léger plus de temps en faisant ce que vous voulez
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07T364LRD/?tag=tolees0d-21)
