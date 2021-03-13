@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Eafit Boisson Energétique +3H Neutre 500 avec 36.97 % rabais '
-date: 2021-03-11 13:05:28
+date: 2021-03-13 06:46:03
 image: 'https://m.media-amazon.com/images/I/51BILynMt6L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Eafit'
 buyurl: 'https://www.amazon.fr/dp/B074MCH5CH/?tag=tolees0d-21'
 descuento: '36.97'
-average: '7.46410852713182'
+average: '7.46465648854965'
 ---
 
 C'est en vente [Eafit Boisson Energétique +3H Neutre 500 g  RPV0000914](https://www.amazon.fr/dp/B074MCH5CH/?tag=tolees0d-21)  à  36.97 % de réduction, prix final  7.5 EUR (original: 11.9 EUR) ici:
