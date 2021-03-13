@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.30 % rabais sur Sony MHC-V02 Enceinte Portable High Powe'
-date: 2021-03-11 12:29:18
+date: 2021-03-13 13:28:01
 image: 'https://m.media-amazon.com/images/I/31LbtZ1h0gL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ Vous avez [Sony MHC-V02 Enceinte Portable High Power Bluetooth](https://www.amaz
 ℹ️:
 
 - Gérez la fête depuis la piste de danse, grâce à lapplication Sony Musique Centre ou au plug in Fiestable.
-- Design compact et pratique avec des poignées intégrées et un trépied.
 - Lecture multisource (Bluetooth/NFC, CD, DVD, USB, etc …) Lenceinte MHC-V02D comporte également des entrées pour brancher une guitare et/ou un micro.
 - EQ vidéo: MOVIE / GAME / DRAMA / NEWS
+- Design compact et pratique avec des poignées intégrées et un trépied.
 - Son puissant et fonction Jet Bass Booster pour remplir la pièce de basses
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MBPRYC8/?tag=tolees0d-21)
