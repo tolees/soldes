@@ -28,10 +28,10 @@ C'est en vente [Paladone Icons light PlayStation  PP4140PS  Multi-color](https:/
 
 ℹ️:
 
-- Mesure environ 30 x 5,6 x 9,5 cm
-- Sous licence 100% officielle.
 - Nécessite 3 piles AAA non incluses
 - 3 modes : standard, changement de couleurs, réaction à la musique
+- Sous licence 100% officielle.
+- Mesure environ 30 x 5,6 x 9,5 cm
 - Le packaging peut varier aves les images montrées
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079CBP6P9/?tag=tolees0d-21)

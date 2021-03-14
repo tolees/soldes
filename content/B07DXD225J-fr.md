@@ -28,11 +28,11 @@ C'est en vente [VTech - V Tech - Mon premier imagier bilingue - Version FR](http
 
 ℹ️:
 
-- 100% bilingue
-- Bébé découvre 100 mots de vocabulaire en français et en anglais
-- Version française
 - 3 modes de jeu : Vocabulaire, Découvertes et Sons amusants
 - Nombreuses découvertes : animaux, aliments, couleurs, parties du corps, vêtements, contraires …
+- Version française
+- 100% bilingue
+- Bébé découvre 100 mots de vocabulaire en français et en anglais
 - 12 pages éducatives plastifiées et illustrées avec capteurs sensitifs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DXD225J/?tag=tolees0d-21)

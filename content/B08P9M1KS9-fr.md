@@ -29,9 +29,9 @@ C'est en vente [FAIRY TAIL & GLITZER FEE - Manette pour Game Cube Blanc et Switc
 ℹ️:
 
 - La couleur du contrôleur est blanche
-- Pas de bords tranchants ou dirrégularités sur les manettes grâce à un contrôle de qualité à plusieurs niveaux dans la fabrication, le joueur expérimenté reconnaîtra la différence avec dautres fabricants
-- Nous sommes en mesure doffrir 5 ans de garantie pour les contrôleurs, la vérification de lachat sur Amazon est suffisante et nous remplacerons gratuitement une manette défectueuse
-- Avec les manettes compatibles avec la Nintendo Game Cube, vous pouvez également jouer sur le commutateur avec ladaptateur correspondant
 - Manette de jeu de couleur blanche compatible avec la console Nintendo Game Cube
+- Avec les manettes compatibles avec la Nintendo Game Cube, vous pouvez également jouer sur le commutateur avec ladaptateur correspondant
+- Nous sommes en mesure doffrir 5 ans de garantie pour les contrôleurs, la vérification de lachat sur Amazon est suffisante et nous remplacerons gratuitement une manette défectueuse
+- Pas de bords tranchants ou dirrégularités sur les manettes grâce à un contrôle de qualité à plusieurs niveaux dans la fabrication, le joueur expérimenté reconnaîtra la différence avec dautres fabricants
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08P9M1KS9/?tag=tolees0d-21)
