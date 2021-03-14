@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Finish Pastilles Lave-Vaisselle Powerbal avec 30.32 % rabais '
-date: 2021-03-13 19:15:47
+date: 2021-03-14 19:54:34
 image: 'https://m.media-amazon.com/images/I/51uNvhfelKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Finish'
 buyurl: 'https://www.amazon.fr/dp/B07BSRM75G/?tag=tolees0d-21'
 descuento: '30.32'
-average: '27.5554285714285'
+average: '27.520354609929'
 ---
 
 C'est en vente [Finish Pastilles Lave-Vaisselle Powerball All in One Max - 150 Tablettes  Pack de 5x30 ](https://www.amazon.fr/dp/B07BSRM75G/?tag=tolees0d-21)  à  30.32 % de réduction, prix final  22.61 EUR (original: 32.45 EUR) ici:
