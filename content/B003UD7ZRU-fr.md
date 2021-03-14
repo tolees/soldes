@@ -28,15 +28,15 @@ C'est en vente [Tefal GC205012 Minute Grill](https://www.amazon.fr/dp/B003UD7ZRU
 
 ℹ️:
 
+- Taille des plaques: 21 x 33,5 cm
+- Surface de cuisson: 550 cm2
+- Le Minute Gril Tefal vous permettra de réaliser des grillades en toute simplicité. Ses plaques amovibles passent au lave vaisselle. Son rangement vertical vous fera gagner de la place.
+- Cuisson Rapide: Avec une puissance de 1600 W pour saisir vos viandes.
+- Design Compact et rangement vertical
+- Plaques amovibles: Facilement démontables, les plaques passent au lave vaisselle.
+- Maxi surface de cuisson: 550 cm²
 - 2 Positions: Gril double face et barbecue 180°
 - Puissance: 1600 W
 - Dimensions: 39 x 30 x 15 cm
-- Surface de cuisson: 550 cm2
-- Design Compact et rangement vertical
-- Le Minute Gril Tefal vous permettra de réaliser des grillades en toute simplicité. Ses plaques amovibles passent au lave vaisselle. Son rangement vertical vous fera gagner de la place.
-- Cuisson Rapide: Avec une puissance de 1600 W pour saisir vos viandes.
-- Taille des plaques: 21 x 33,5 cm
-- Plaques amovibles: Facilement démontables, les plaques passent au lave vaisselle.
-- Maxi surface de cuisson: 550 cm²
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B003UD7ZRU/?tag=tolees0d-21)
