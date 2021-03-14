@@ -28,11 +28,11 @@ C'est en vente [Casque Bluetooth sans fil Supra-Aural Bose QuietComfort 35 II 
 
 ℹ️:
 
-- Système à double microphone avec réduction de bruit pour un son clair et une intelligibilité parfaite
 - Appairage Bluetooth facile, réglages personnalisés, accès aux futures mises à jour et bien plus encore via l’application Bose Connect
+- Compatible avec Alexa pour permettre l’accès par la voix à la musique, aux informations, etc
+- Système à double microphone avec réduction de bruit pour un son clair et une intelligibilité parfaite
 - Les appareils avec Alexa intégrée vous permettent daccéder facilement à Alexa pour écouter de la musique, contrôler votre maison connectée, obtenir des informations, écouter l’actualité ou la météo, et bien plus encore, simplement en utilisant votre voix.
 - Son équilibré, quel que soit le volume d’écoute
-- Compatible avec Alexa pour permettre l’accès par la voix à la musique, aux informations, etc
 - Trois niveaux de réduction de bruit haut de gamme pour une expérience d’écoute optimale, quel que soit l’environnement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G95TJ3P/?tag=tolees0d-21)

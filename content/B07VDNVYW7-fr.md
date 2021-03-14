@@ -28,10 +28,10 @@ C'est en vente [SNAPTAIN SP600 Drone avec Caméra 720P HD et 30 Mins Autonomie  
 
 ℹ️:
 
-- ✈【Double Autonomie】 La grande capacité de batterie de 1600mAh permet à SP600 drone de voler une durée de 15 minutes. Il atteint double temps de vol en comparant les autres sur le marché. Nous fournissons également une batterie supplémentaire pour prolonger votre plaisir.
-- ✈【Facile à contrôler】Maintien en altitude, mode sans tête, décollage / atterrissage par un bouton et arrêt durgence, débarrassez-vous des étapes fastidieuses, ce qui permet aux débutants et enfants de piloter facilement le drone
-- ✈【Plus dinnovations】Allons-y, vous pouvez montrer les meilleures spectacles aux vos familles et amis. Vol de Trajectoire， 360°Flips et 3D VR，vous êtes pilote cool.
 - ✈【Contrôle Gestuel】SNAPTAIN SP600 drone adopte des techniques nouvelles sans précédent, vous pouvez contrôler par contrôle gestuel. Si vous levez le geste de la victoire, le drone peut prendre une photo automatiquement. Si vous présentez votre paume ouverte face au drone, le drone va commancer à enregistrer.
+- ✈【Facile à contrôler】Maintien en altitude, mode sans tête, décollage / atterrissage par un bouton et arrêt durgence, débarrassez-vous des étapes fastidieuses, ce qui permet aux débutants et enfants de piloter facilement le drone
 - ✈【720P Caméra avec 120° Angle Réglable】Le drone 720p caméra capture des photos et vidéos aériennes de haute qualité. 120° Angle Réglable ne vous laissera manquer aucun détail et aucun angle
+- ✈【Plus dinnovations】Allons-y, vous pouvez montrer les meilleures spectacles aux vos familles et amis. Vol de Trajectoire， 360°Flips et 3D VR，vous êtes pilote cool.
+- ✈【Double Autonomie】 La grande capacité de batterie de 1600mAh permet à SP600 drone de voler une durée de 15 minutes. Il atteint double temps de vol en comparant les autres sur le marché. Nous fournissons également une batterie supplémentaire pour prolonger votre plaisir.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VDNVYW7/?tag=tolees0d-21)

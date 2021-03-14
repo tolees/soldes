@@ -28,9 +28,9 @@ C'est en vente [Schmidt Spiele 59607 Puzzle Thomas Kinkade Disney Dreams Collect
 
 ℹ️:
 
-- Puzzle de qualité supérieure de la marque SCHMIDT Jeux
-- 2000 pièces.
 - Nombre de joueurs : à partir de 1 joueur.
+- 2000 pièces.
+- Puzzle de qualité supérieure de la marque SCHMIDT Jeux
 - Âge recommandé : à partir de 12 ans.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FYYQDWH/?tag=tolees0d-21)
