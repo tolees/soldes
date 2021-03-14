@@ -31,7 +31,7 @@ Vous avez [Dim Ecodim  Chaussettes  Lot de 5 paires  Homme  Noir  FR: 43-46  Tai
 - N°1 en France
 - Le spécialiste du legwear
 - Livraison gratuite dès 25 €
-- 43/46
 - Retour 100 jours
+- 43/46
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01K5NBVB8/?tag=tolees0d-21)

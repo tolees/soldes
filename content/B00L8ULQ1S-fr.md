@@ -29,9 +29,9 @@ C'est en vente [Ice-Watch - ICE glam Black Rose-Gold - Montre noire pour femme a
 ℹ️:
 
 - Cest une montre ultra tendance grâce à son cadran et son bracelet noir Avec son anneau et ses aiguilles rosés, cette montre fait ressortir sont côté élégant et chic
+- Collection ICE glam
 - Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
 - Livré avec un manuel dinstructions et une boîte de présentation
 - Boitier en silicone de taille medium (40mm) avec bracelet en silicone
-- Collection ICE glam
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00L8ULQ1S/?tag=tolees0d-21)
