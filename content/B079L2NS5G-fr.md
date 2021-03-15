@@ -28,11 +28,11 @@ C'est en vente [Rubies Costume Co - Rubie s - Baguette luxe Officielle Harry Pot
 
 ℹ️:
 
-- Bon équilibre pour une tenue en main optimisée
-- Sous licence Officielle Harry Potter
 - Cette baguette luxe a lapparence de loriginal fabriquée à partir de palmiers rares et vendue chez Ollivander dans la Diagon Alley.
 - Baguette Luxe Officielle Harry Potter en résine
-- Les produits sous licence officielle de Rubie sont testés et répondent à toutes les normes européennes et britanniques, y compris EN71 et REACH.
+- Bon équilibre pour une tenue en main optimisée
 - Poids net: 60g, Longueur 35cm
+- Les produits sous licence officielle de Rubie sont testés et répondent à toutes les normes européennes et britanniques, y compris EN71 et REACH.
+- Sous licence Officielle Harry Potter
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079L2NS5G/?tag=tolees0d-21)

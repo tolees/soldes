@@ -28,8 +28,8 @@ C'est en vente [LEGO Star Wars  Coffret de bataille Mandalorien 4 avec 4 figurin
 
 ℹ️:
 
-- Un fort de défense avec un point dattache pour un fusil blaster, et un speeder bike
 - Inclut 4 figurines de guerrier mandaloriens Star Wars, chacune équipée dun fusil blaster à tenons
+- Un fort de défense avec un point dattache pour un fusil blaster, et un speeder bike
 - Tirer avec les tenons blaster, puis placez le tropper sur le speeder équipé de fusils à tenons
 - Les enfants peuvent construire une redoutable armée de Mandaloriens, recréer des scènes de la série télévisée Star Wars : The Mandalorian
 - Élargissez votre collection LEGO Star Wars avec ce formidable coffret de bataille

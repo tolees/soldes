@@ -28,8 +28,8 @@ Vous avez [32BC5E - Téléviseur SHARP 32   HD Ready Smart](https://www.amazon.f
 
 ℹ️:
 
-- Number of items: 1.0
-- Dimensions de lemballage de larticle: 14.5 L x 79.0 H x 54.5 W (centimeters)
 - Poids du colis: 6.26 kilograms
+- Dimensions de lemballage de larticle: 14.5 L x 79.0 H x 54.5 W (centimeters)
+- Number of items: 1.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V6BLT58/?tag=tolees0d-21)
