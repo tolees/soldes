@@ -29,10 +29,10 @@ Vous avez [Jurassic World Ultime T-Rex figurine dinosaure articulé avec volume 
 ℹ️:
 
 - Cette grande figurine articulée de dinosaure a une fonction attaque qui permet aux enfants de rejouer des combats féroces !
-- Pour aller plus loin, téléchargez l’application Jurassic World Facts (pour Android et iOS). L’application permet de scanner votre dinosaure et de le regarder prendre vie en l’observant de plus près, en écoutant ses rugissements, en découvrant des informations intéressantes sur lui et plus encore !
-- C’est un cadeau idéal pour les enfants à partir de 4 ans, surtout s’ils sont fans de Jurassic World, de dinosaures et de jeux d’action !
 - Cette figurine Ultime Tyrannosaure Rex Rugissement Féroce est inspirée de la série d’animation Jurassic World : La Colo du Crétacé !
 - Bougez la queue de haut en bas, de gauche à droite ou en la faisant tourner pour animer la tête ou le corps du dinosaure et voir ses mâchoires claquer (activez tous les mouvements à la fois pour prendre le contrôle total de la figurine).
+- Pour aller plus loin, téléchargez l’application Jurassic World Facts (pour Android et iOS). L’application permet de scanner votre dinosaure et de le regarder prendre vie en l’observant de plus près, en écoutant ses rugissements, en découvrant des informations intéressantes sur lui et plus encore !
 - Appuyez longuement sur le bouton sur la queue pour entendre un rugissement glaçant et voir le dinosaure se secouer !
+- C’est un cadeau idéal pour les enfants à partir de 4 ans, surtout s’ils sont fans de Jurassic World, de dinosaures et de jeux d’action !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Y5YBQ8C/?tag=tolees0d-21)

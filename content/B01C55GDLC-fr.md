@@ -29,7 +29,7 @@ C'est en vente [Dim - Les Pockets Ecodim - Slip - Lot de 5 - Femme - Multicolore
 ℹ️:
 
 - 5% Élasthanne
-- 95% Coton
 - Lavage en machine
+- 95% Coton
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01C55GDLC/?tag=tolees0d-21)
