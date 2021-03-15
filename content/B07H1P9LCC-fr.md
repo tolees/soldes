@@ -28,10 +28,10 @@ C'est en vente [LOVORDS Collier Mère Femme Gravé en Argent 925/1000 Pendentif 
 
 ℹ️:
 
+- MESSAGE GRAVÉ: "Merci Maman, Je taime."
 - MÉTAL: Argent 925/1000 rhodié, hypoallergique, sans plomb, sans nickel
+- LISTE DE COLISAGE: 1 Pendentif, 1 Chaîne maille forçat, 1 Écrin de bijoux, 1 Tissu de polissage, 1 Certificat dauthenticité, 1 Carte de service
 - INSPIRATION: Ce collier en forme de cœur avec un signe infini symbolise la connexion éternelle et immuable de la mère et son enfant. Cest un cadeau idéal pour faire plaisir à sa maman ou belle-mère pour son anniversaire, le Noël, la fête des mères ou dautres occassions
 - PENDENTIF: 2.1x2 cm, LONGUEUR DE CHAÎNE: 40+5 cm, PIERRE: Oxydes de Zirconium
-- MESSAGE GRAVÉ: "Merci Maman, Je taime."
-- LISTE DE COLISAGE: 1 Pendentif, 1 Chaîne maille forçat, 1 Écrin de bijoux, 1 Tissu de polissage, 1 Certificat dauthenticité, 1 Carte de service
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07H1P9LCC/?tag=tolees0d-21)

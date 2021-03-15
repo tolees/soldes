@@ -28,10 +28,10 @@ Vous avez [Playmobil Parc d attractions 70558](https://www.amazon.fr/dp/B08KVT64
 
 ℹ️:
 
+- on trouve des attractions et stands pour les plus petits, mais aussi des manèges pour les plus grands pas le temps de sennuyer !
 - la fête foraine sinstalle en ville !
 - pour la lumière, trois piles aaa de 1,5v sont requises.
 - les chaises volantes du carrousel bougent mécaniquement en tournant la manivelle.
-- on trouve des attractions et stands pour les plus petits, mais aussi des manèges pour les plus grands pas le temps de sennuyer !
 - on trouve des attractions et stands pour les plus petits, mais aussi des manèges pour les plus grands pas le temps de sennuyer !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KVT64QL/?tag=tolees0d-21)
