@@ -29,9 +29,9 @@ Vous avez [Maegoo Manette Sans Fil PC PS3  2.4G Bluetooth de Jeu Android Manette
 ℹ️:
 
 - 【Support Supplémentaire】Notre Manette de jeu équipe un support pour tenir votre smartphone Android.
-- 【Attention】 Ce Gamepad ne prend pas en charge les smartphones Lenovo, HTC, MTK, VIVO X5 X6 X7 PLUS, Redmi Note 3 et autres téléphones mobiles sans nom.
-- 【Design Ergonomique】Le design répond parfaitement à lergonomie. Le culbuteur en thermoplastique sadapte à votre doigt, pour éviter que le doigt ne glisse.
-- 【Service】 Si vous avez des questions sur la manette de jeu ou les opérations, nhésitez pas à nous contacter, nous sommes toujours là pour vous. Garantie 12 mois.
 - 【Compatibilité Multiple】La manette de jeu est compatible avec le smartphone Android (Xiaomi / Huawei / Samsung / Coolpad etc.), PC (Windows), PS3, Smart TV. Connecté par dongle Bluetooth / 2,4 GHz. Veuillez lire attentivement le guide de lutilisateur avant dutiliser le contrôleur. Utilisez la bonne méthode de connexion.
+- 【Design Ergonomique】Le design répond parfaitement à lergonomie. Le culbuteur en thermoplastique sadapte à votre doigt, pour éviter que le doigt ne glisse.
+- 【Attention】 Ce Gamepad ne prend pas en charge les smartphones Lenovo, HTC, MTK, VIVO X5 X6 X7 PLUS, Redmi Note 3 et autres téléphones mobiles sans nom.
+- 【Service】 Si vous avez des questions sur la manette de jeu ou les opérations, nhésitez pas à nous contacter, nous sommes toujours là pour vous. Garantie 12 mois.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08Y5LX2CB/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Pochette de Transport/Protection d Ecran pour Nintendo Switch Li
 
 ℹ️:
 
-- 38ACC022
 - Nintendo Acc Switch
 - 2 ans
+- 38ACC022
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V5JKSQ1/?tag=tolees0d-21)

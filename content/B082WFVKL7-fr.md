@@ -28,10 +28,10 @@ C'est en vente [Samsung Galaxy A51 - débloqué 4G  6 5 pouces - 128 Go - androi
 
 ℹ️:
 
-- Batterie charge rapide 4000 mAh
-- ÉCRAN INFINITY-O - 6,5’’ Super AMOLED
 - UN PUISSANT CAPTEUR PRINCIPAL - 48 MP pour des photos nettes
 - QUADRUPLE CAPTEUR PHOTO - Mode Macro + Ultra Grand Angle
+- Batterie charge rapide 4000 mAh
+- ÉCRAN INFINITY-O - 6,5’’ Super AMOLED
 - DES SELFIES PARFAITS - Capteur Frontal 32 MP
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082WFVKL7/?tag=tolees0d-21)
