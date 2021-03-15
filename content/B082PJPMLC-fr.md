@@ -28,10 +28,10 @@ Vous avez [HP Sprocket Studio Snow Printer](https://www.amazon.fr/dp/B082PJPMLC/
 
 ℹ️:
 
-- Fabriqué en Thaïlande
 - Type de sortie dimprimante: Couleur
-- Consommation dénergie: Ralenti: 1,8 W; Impression moyenne 19,4 W, impression max 60 W
-- Poids du colis: 2.0 pounds
+- Fabriqué en Thaïlande
 - Couleur: Snow
+- Poids du colis: 2.0 pounds
+- Consommation dénergie: Ralenti: 1,8 W; Impression moyenne 19,4 W, impression max 60 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082PJPMLC/?tag=tolees0d-21)
