@@ -1,0 +1,38 @@
+---
+layout: post
+title: '16.76 % rabais sur Samsung Galaxy M11 - Smartphone débloqué'
+date: 2021-03-15 06:55:22
+image: 'https://m.media-amazon.com/images/I/51+p4oxNROL._SL400_.jpg'
+comments: true
+category: ofertas
+author: ring
+slug: 'B08J7LRX98-fr Samsung Galaxy M11 - Smartphone débloqué 4G - Noir -...'
+sku: 'B08J7LRX98-fr'
+tags: [  ]
+actualPrice: 149.0 EUR
+currency: EUR
+price: 149.0
+comparePrice: 179.0 EUR
+prodname: 'Samsung Galaxy M11 - Smartphone débloqué 4G - Noir - Version Française [Exclusivité Amazon]'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Samsung'
+buyurl: 'https://www.amazon.fr/dp/B08J7LRX98/?tag=tolees0d-21'
+descuento: '16.76'
+average: '158.354358974359'
+---
+
+Vous avez [Samsung Galaxy M11 - Smartphone débloqué 4G - Noir - Version Française [Exclusivité Amazon]](https://www.amazon.fr/dp/B08J7LRX98/?tag=tolees0d-21)  à  16.76 % de réduction, prix final  149.0 EUR (original: 179.0 EUR) ici:
+
+[![Samsung Galaxy M11 - Smartphone débloqué](https://m.media-amazon.com/images/I/51+p4oxNROL._SL400_.jpg)](https://www.amazon.fr/dp/B08J7LRX98/?tag=tolees0d-21)
+
+ℹ️:
+
+- Smartphone Android avec Système d’Exploitation Android 10
+- Appareil photo : capteur principal 13 MP, mode portrait 2 MP, capteur ultra grandangle 5 MP, capteur frontal 32 MP
+- Inclus : téléphone portable / adaptateur de voyage / câble de données / outil de retrait de carte SIM / carte de garantie
+- Batterie 5000 mAh compatible charge rapide 15W
+- Écran : écran Infinity-O TFT HD+ de 6,4 pouces.
+- Jusqu’à 512 Go avec carte MicroSD
+
+[🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08J7LRX98/?tag=tolees0d-21)
