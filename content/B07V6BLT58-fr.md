@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.51 % rabais sur 32BC5E - Téléviseur SHARP 32   HD Ready '
-date: 2021-03-14 13:58:04
+date: 2021-03-15 19:38:19
 image: 'https://m.media-amazon.com/images/I/51J6fiWekQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [32BC5E - Téléviseur SHARP 32   HD Ready Smart](https://www.amazon.f
 
 ℹ️:
 
+- Number of items: 1.0
 - Dimensions de lemballage de larticle: 14.5 L x 79.0 H x 54.5 W (centimeters)
 - Poids du colis: 6.26 kilograms
-- Number of items: 1.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V6BLT58/?tag=tolees0d-21)
