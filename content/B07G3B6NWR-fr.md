@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07G3B6NWR-fr Samsung EF-BT830PJEGWW Etui à Rabat pour Tablette Tab S4 Gris'
 sku: 'B07G3B6NWR-fr'
-tags: [  ]
+tags: [ 'samsung', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0
@@ -28,8 +28,8 @@ Vous avez [Samsung EF-BT830PJEGWW Etui à Rabat pour Tablette Tab S4 Gris](https
 
 ℹ️:
 
+- Protection des angles renforcée
 - Fonction stand 2 positions
 - Emplacement S PEN
-- Protection des angles renforcée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G3B6NWR/?tag=tolees0d-21)

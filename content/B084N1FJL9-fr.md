@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B084N1FJL9-fr Séga - Sakura Wars'
 sku: 'B084N1FJL9-fr'
-tags: [  ]
+tags: [ 'séga', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
@@ -29,7 +29,7 @@ C'est en vente [Séga - Sakura Wars](https://www.amazon.fr/dp/B084N1FJL9/?tag=to
 ℹ️:
 
 - Tout ce que vous direz aura d’importantes répercussions sur vos relations interpersonnelles sur le champ de bataille tout comme en dehors.
-- Jeux en français avec voix japonaises
 - Des séquences animées sublimes, une bande-son très riche et des personnages conçus par des grands noms de l’animation et du rpg japonais
+- Jeux en français avec voix japonaises
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084N1FJL9/?tag=tolees0d-21)

@@ -8,7 +8,7 @@ category: ofertas
 author: ring
 slug: 'B07WC41VGL-fr Tommy Hilfiger Homme Strght Denton Sstr Elgin Blue Loose...'
 sku: 'B07WC41VGL-fr'
-tags: [  ]
+tags: [ 'tommy hilfiger', ]
 actualPrice: 78.99 EUR
 currency: EUR
 price: 78.99
