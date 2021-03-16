@@ -28,8 +28,8 @@ C'est en vente [FoodSaver-FFC002X-01-Boite fraicheur pour appareil de mise sous 
 
 ℹ️:
 
-- Ultrarésistant: ne se raye pas – anti-fissure Résiste aux odeurs et aux tâches Compatible au micro-ondes, lave-vaisselle, réfrigérateur
 - Transparentes pour une meilleure visibilité des contenus Sans Bisphénol A liquides ou secs grâce au couvercle antifuites qui permet un scellage étanche
 - Boite fraicheur 475 ml Compatible avec tous les appareils de la gamme FoodSaver Ne s’utilise qu’avec des appareils de la même marque Fabriquée en Tritan
+- Ultrarésistant: ne se raye pas – anti-fissure Résiste aux odeurs et aux tâches Compatible au micro-ondes, lave-vaisselle, réfrigérateur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01JGEQGHG/?tag=tolees0d-21)

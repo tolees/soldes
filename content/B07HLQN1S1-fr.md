@@ -29,9 +29,9 @@ C'est en vente [RED CASTLE  Chancelière universelle hiver  Compatible Nacelle/P
 ℹ️:
 
 - Ouverture bas pour passage des pieds
-- Passage du harnais dos
 - Capuche couvrante, retroussa blé en repose tête
 - Ouverture totale
 - Patte avec pression pour attacher le rabat en position ouverte
+- Passage du harnais dos
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HLQN1S1/?tag=tolees0d-21)

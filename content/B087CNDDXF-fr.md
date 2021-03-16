@@ -28,8 +28,8 @@ C'est en vente [NIS - The Legend Of Heroes Trails Of Cold Steel IV](https://www.
 
 ℹ️:
 
+- Le mini artbook « the black records »
 - La bande-son « echoes of erebonia » sur cd pour la version Playstation4
 - La jaquette réversible
-- Le mini artbook « the black records »
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087CNDDXF/?tag=tolees0d-21)
