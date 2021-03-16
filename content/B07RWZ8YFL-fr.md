@@ -29,7 +29,7 @@ Vous avez [Tangle Teezer Compact Styler Brosse Cerise Pink Ombre](https://www.am
 ℹ️:
 
 - Brillance
-- Nomade
 - Démêlage
+- Nomade
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RWZ8YFL/?tag=tolees0d-21)

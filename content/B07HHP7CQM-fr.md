@@ -28,10 +28,10 @@ C'est en vente [Bosch Home and Garden - Perceuse-visseuse à percussion 2 vitess
 
 ℹ️:
 
-- Très polyvalente : vissage, perçage sans percussion dans le bois et le métal, perçage avec percussion dans la brique classique ou silico-calcaire
-- Livré avec : AdvancedImpact 18, sans batterie, mandrin 13 mm, porte-embout, dans une boîte en carton
-- Les outils de la gamme « Advanced » Bosch : puissants, pour les grands projets en bricolage ou en jardinage
-- Extrêmement pratique du fait de son design compact et léger obtenu grâce au moteur sans charbons plus petit que sur les modèles antérieurs
 - Très conviviale grâce aux modes à sélection intuitive et à la fonction de changement de vitesse automatique
+- Livré avec : AdvancedImpact 18, sans batterie, mandrin 13 mm, porte-embout, dans une boîte en carton
+- Très polyvalente : vissage, perçage sans percussion dans le bois et le métal, perçage avec percussion dans la brique classique ou silico-calcaire
+- Extrêmement pratique du fait de son design compact et léger obtenu grâce au moteur sans charbons plus petit que sur les modèles antérieurs
+- Les outils de la gamme « Advanced » Bosch : puissants, pour les grands projets en bricolage ou en jardinage
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HHP7CQM/?tag=tolees0d-21)
