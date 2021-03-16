@@ -5,7 +5,7 @@ date: 2020-08-09 08:44:32
 image: 'https://m.media-amazon.com/images/I/41kD4tz6NxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFGCDT6-fr Collection Velocity Bleu bleu nuit Carry On'
 sku: 'B08DFGCDT6-fr'
 tags: [  ]

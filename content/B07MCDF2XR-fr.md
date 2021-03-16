@@ -5,7 +5,7 @@ date: 2020-05-22 21:57:38
 image: 'https://m.media-amazon.com/images/I/41h3x9AON7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCDF2XR-fr GANT Max Chelsea Boots Homme Marron Tobacco G42 40 EU'
 sku: 'B07MCDF2XR-fr'
 tags: [  ]

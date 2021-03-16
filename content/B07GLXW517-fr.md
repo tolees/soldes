@@ -5,7 +5,7 @@ date: 2020-09-30 06:40:46
 image: 'https://m.media-amazon.com/images/I/31+bw0aph4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLXW517-fr Moulinex moule à gâteaux XA609001 pour les multicuiseurs...'
 sku: 'B07GLXW517-fr'
 tags: [  ]

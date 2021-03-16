@@ -5,7 +5,7 @@ date: 2020-10-06 07:28:51
 image: 'https://m.media-amazon.com/images/I/61VDwTtMq1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008IEDWCS-fr Jean Mouton : Missa Dictes moy toutes voz pensées'
 sku: 'B008IEDWCS-fr'
 tags: [  ]

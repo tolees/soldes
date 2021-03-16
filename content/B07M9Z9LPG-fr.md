@@ -5,7 +5,7 @@ date: 2020-08-06 19:43:33
 image: 'https://m.media-amazon.com/images/I/41RT1R71LuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M9Z9LPG-fr Le Tanneur Gaspard TGAS4000 Hommes Noir Noir 7.5x30.5x38.5...'
 sku: 'B07M9Z9LPG-fr'
 tags: [  ]

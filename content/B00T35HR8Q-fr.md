@@ -5,7 +5,7 @@ date: 2020-08-29 06:42:15
 image: 'https://m.media-amazon.com/images/I/51kipJFoUtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T35HR8Q-fr Sérum Vitamine C Premium de visage avec l’acide...'
 sku: 'B00T35HR8Q-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-29 21:44:47
 image: 'https://m.media-amazon.com/images/I/51Ji1pu9joL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MD5B94Z-fr Masthome Planche à découper en bambou Idéal pour la viande...'
 sku: 'B07MD5B94Z-fr'
 tags: [  ]

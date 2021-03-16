@@ -5,7 +5,7 @@ date: 2020-06-12 01:08:42
 image: 'https://m.media-amazon.com/images/I/41wPLJM-2GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKBDC95-fr HP EliteBook 840 G2 - PC Portable - 14 - Core i5-5300U /...'
 sku: 'B07TKBDC95-fr'
 tags: [  ]

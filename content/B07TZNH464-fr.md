@@ -5,7 +5,7 @@ date: 2020-09-20 08:44:29
 image: 'https://m.media-amazon.com/images/I/41yOdTn1WIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZNH464-fr Skechers Summits Baskets Femme Gris Gray Mesh/Hot Pink &...'
 sku: 'B07TZNH464-fr'
 tags: [  ]

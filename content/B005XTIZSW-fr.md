@@ -5,7 +5,7 @@ date: 2020-08-28 05:26:39
 image: 'https://m.media-amazon.com/images/I/41OygsasGOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XTIZSW-fr Dim - Body Touch - Culotte - Séduction - Uni - Femme -...'
 sku: 'B005XTIZSW-fr'
 tags: [  ]

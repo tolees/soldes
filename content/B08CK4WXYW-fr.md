@@ -5,7 +5,7 @@ date: 2020-09-10 07:48:12
 image: 'https://m.media-amazon.com/images/I/21mK5xI3oCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CK4WXYW-fr Disque Dur Externe 2to USB-C Disque Dur Externe pour PC...'
 sku: 'B08CK4WXYW-fr'
 tags: [  ]

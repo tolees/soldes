@@ -5,7 +5,7 @@ date: 2020-10-06 20:30:18
 image: 'https://m.media-amazon.com/images/I/41U9xUE0YlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YY1RLRX-fr SONOFF Mini Interrupteur WiFi Télécommande 4 Pcs sans Fil...'
 sku: 'B07YY1RLRX-fr'
 tags: [  ]

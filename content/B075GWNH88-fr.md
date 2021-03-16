@@ -5,7 +5,7 @@ date: 2020-05-22 14:56:45
 image: 'https://m.media-amazon.com/images/I/51FoL+kO-TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075GWNH88-fr LEGO Classic - La plaque de base bleue - 10714 - Jeu de...'
 sku: 'B075GWNH88-fr'
 tags: [  ]

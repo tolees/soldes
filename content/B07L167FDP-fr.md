@@ -5,7 +5,7 @@ date: 2020-08-03 22:19:07
 image: 'https://m.media-amazon.com/images/I/41Y5zVjpekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L167FDP-fr Trussardi Jeans Sophie Cross Body Md Ecoleathe femme Gris...'
 sku: 'B07L167FDP-fr'
 tags: [  ]

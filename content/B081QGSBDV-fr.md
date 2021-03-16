@@ -5,7 +5,7 @@ date: 2020-09-25 08:56:26
 image: 'https://m.media-amazon.com/images/I/21geQeZHS+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QGSBDV-fr Savon Le Naturel - Extra Pur de Marseille à la Fleur d...'
 sku: 'B081QGSBDV-fr'
 tags: [  ]

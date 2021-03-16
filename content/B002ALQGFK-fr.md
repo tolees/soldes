@@ -5,7 +5,7 @@ date: 2020-09-25 09:47:45
 image: 'https://m.media-amazon.com/images/I/411OPvoHWCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002ALQGFK-fr Ardes - ARD.M240 - Masseur - Anti-Cellulite -...'
 sku: 'B002ALQGFK-fr'
 tags: [  ]

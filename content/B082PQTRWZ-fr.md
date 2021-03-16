@@ -5,7 +5,7 @@ date: 2020-08-05 12:09:07
 image: 'https://m.media-amazon.com/images/I/51Mzy3+kIIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PQTRWZ-fr Sword Art Online Alicization Lycoris Xbox One'
 sku: 'B082PQTRWZ-fr'
 tags: [  ]

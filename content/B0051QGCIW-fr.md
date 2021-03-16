@@ -5,7 +5,7 @@ date: 2020-08-28 11:17:15
 image: 'https://m.media-amazon.com/images/I/41LZbK1ARqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0051QGCIW-fr Diesel Homme Analogique Quartz Montre avec Bracelet en...'
 sku: 'B0051QGCIW-fr'
 tags: [  ]

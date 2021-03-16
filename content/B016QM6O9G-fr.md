@@ -5,7 +5,7 @@ date: 2020-09-21 15:17:33
 image: 'https://m.media-amazon.com/images/I/41DgB5vJy1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016QM6O9G-fr Tommy Hilfiger E367895041403 - Casquette de Baseball -...'
 sku: 'B016QM6O9G-fr'
 tags: [  ]

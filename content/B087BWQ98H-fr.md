@@ -5,7 +5,7 @@ date: 2020-08-18 22:57:13
 image: 'https://m.media-amazon.com/images/I/512RYWh72OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087BWQ98H-fr VICTOOM Electrostimulateur Musculaire EMS Stimulateur...'
 sku: 'B087BWQ98H-fr'
 tags: [  ]

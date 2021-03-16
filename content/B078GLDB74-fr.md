@@ -5,7 +5,7 @@ date: 2020-09-18 06:27:36
 image: 'https://m.media-amazon.com/images/I/31lz0CZZsIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GLDB74-fr Einhell Coupe-bordures sans fil GE-CT 36/30 Li E - Solo -...'
 sku: 'B078GLDB74-fr'
 tags: [  ]

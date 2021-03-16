@@ -5,7 +5,7 @@ date: 2020-08-13 00:22:37
 image: 'https://m.media-amazon.com/images/I/411f94Uw8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899L6GKH-fr 2 X 1200mAh Batteries pour Manette Xbox One / S / X /...'
 sku: 'B0899L6GKH-fr'
 tags: [  ]

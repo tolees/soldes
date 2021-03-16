@@ -5,7 +5,7 @@ date: 2020-09-14 06:29:42
 image: 'https://m.media-amazon.com/images/I/51Q6M7mvaRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GE3ZR6S-fr Le Monde de Dory [Blu-Ray]'
 sku: 'B01GE3ZR6S-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 08:27:52
 image: 'https://m.media-amazon.com/images/I/41i+t+slHpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCNXS3Y-fr Columbia Lake 22 Doudoune à Capuche Homme - Noir Black - L'
 sku: 'B07RCNXS3Y-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 09:43:31
 image: 'https://m.media-amazon.com/images/I/41NH9XGPNdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVG5FMV-fr Pinko Rubino 3 Baskets Enfiler Femme Multicolore...'
 sku: 'B07SVG5FMV-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-06 06:32:16
 image: 'https://m.media-amazon.com/images/I/21TBzDYw8+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RC6XXN-fr GROHE 26381001 Tempesta System 210 Colonne de Douche avec...'
 sku: 'B075RC6XXN-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 02:11:58
 image: 'https://m.media-amazon.com/images/I/513Aw5p4TAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0886WPWZX-fr Streets of Rage 4'
 sku: 'B0886WPWZX-fr'
 tags: [  ]

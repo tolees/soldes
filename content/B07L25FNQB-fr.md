@@ -5,7 +5,7 @@ date: 2020-10-09 07:58:52
 image: 'https://m.media-amazon.com/images/I/317FZo4kPhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L25FNQB-fr Celio - NECETWO - Polo manches courtes - Coton Supima Noir...'
 sku: 'B07L25FNQB-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 23:32:07
 image: 'https://m.media-amazon.com/images/I/4168A1wYFgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015JIA97Q-fr Polaroid Snap - Appareil Photo Numérique Instantané avec...'
 sku: 'B015JIA97Q-fr'
 tags: [  ]

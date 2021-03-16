@@ -5,7 +5,7 @@ date: 2020-09-24 07:53:58
 image: 'https://m.media-amazon.com/images/I/41nHRalxWeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5KHFVL-fr STEO Chaise Haute pour Bébé Enfant Siège avec Ceinture De...'
 sku: 'B07H5KHFVL-fr'
 tags: [  ]

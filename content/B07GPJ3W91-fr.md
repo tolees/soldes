@@ -5,7 +5,7 @@ date: 2020-05-22 21:25:23
 image: 'https://m.media-amazon.com/images/I/41UJfzGw4YL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPJ3W91-fr Pierre Cardin Steppjacke Airtouch Techno Daune Blouson...'
 sku: 'B07GPJ3W91-fr'
 tags: [  ]

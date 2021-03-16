@@ -5,7 +5,7 @@ date: 2020-09-27 18:16:12
 image: 'https://m.media-amazon.com/images/I/511oRpi-PTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDKWPLS-fr Truck Driver pour PS4'
 sku: 'B07FDKWPLS-fr'
 tags: [  ]

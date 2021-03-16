@@ -5,7 +5,7 @@ date: 2020-10-04 18:30:33
 image: 'https://m.media-amazon.com/images/I/41+JuFFAy8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008P6XOJ0-fr Tefal EF351412 Appareil à Fondue Simply Invents 8 personnes'
 sku: 'B008P6XOJ0-fr'
 tags: [  ]

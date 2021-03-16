@@ -5,7 +5,7 @@ date: 2020-08-13 06:22:07
 image: 'https://m.media-amazon.com/images/I/51rQQGJhPJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JS5B6R-fr Casque de jeu avec micro pour Xbox One PS4 PC Switch...'
 sku: 'B087JS5B6R-fr'
 tags: [  ]

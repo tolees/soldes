@@ -5,7 +5,7 @@ date: 2020-05-22 20:55:25
 image: 'https://m.media-amazon.com/images/I/31oSULTEalL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NRJ49N5-fr LLOYD Galvan Desert Boots Homme Gris Graphit/Future Grey 1...'
 sku: 'B07NRJ49N5-fr'
 tags: [  ]

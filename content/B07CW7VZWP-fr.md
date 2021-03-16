@@ -5,7 +5,7 @@ date: 2020-08-05 17:26:04
 image: 'https://m.media-amazon.com/images/I/31Um8omOV+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CW7VZWP-fr Riviera & Bar PEJ537 Extracteur de jus 200 W Rouge'
 sku: 'B07CW7VZWP-fr'
 tags: [  ]

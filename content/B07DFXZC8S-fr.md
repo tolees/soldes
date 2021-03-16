@@ -5,7 +5,7 @@ date: 2020-09-02 13:14:52
 image: 'https://m.media-amazon.com/images/I/31d0odH21EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFXZC8S-fr Puma Active Leggings Pantalon de Sport Femme Black XL'
 sku: 'B07DFXZC8S-fr'
 tags: [  ]

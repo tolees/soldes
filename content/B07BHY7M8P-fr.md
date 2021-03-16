@@ -5,7 +5,7 @@ date: 2020-09-11 18:04:04
 image: 'https://m.media-amazon.com/images/I/41mgsnY4w0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHY7M8P-fr Jabra Elite Active 65 t Écouteurs de Sport Bluetooth à...'
 sku: 'B07BHY7M8P-fr'
 tags: [  ]

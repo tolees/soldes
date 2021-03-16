@@ -5,7 +5,7 @@ date: 2020-09-30 14:58:09
 image: 'https://m.media-amazon.com/images/I/41nIlXVh6pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081SVFJ5K-fr Telephone Portable 4G Blackview A80 Pro 2020 Smartphone...'
 sku: 'B081SVFJ5K-fr'
 tags: [  ]

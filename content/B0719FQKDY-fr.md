@@ -5,7 +5,7 @@ date: 2020-09-15 05:53:20
 image: 'https://m.media-amazon.com/images/I/41Dm4AfHffL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0719FQKDY-fr Neutrogena Visibly Clear Gel Nettoyant Pamplemousse Rose –...'
 sku: 'B0719FQKDY-fr'
 tags: [  ]

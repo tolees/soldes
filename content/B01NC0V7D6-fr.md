@@ -5,7 +5,7 @@ date: 2020-09-28 10:02:27
 image: 'https://m.media-amazon.com/images/I/41f8GzC++oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NC0V7D6-fr Russell Hobbs Toaster Grille-Pain Cuisson Rapide et...'
 sku: 'B01NC0V7D6-fr'
 tags: [  ]

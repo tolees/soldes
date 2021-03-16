@@ -5,7 +5,7 @@ date: 2020-10-01 06:15:46
 image: 'https://m.media-amazon.com/images/I/41vvSJzDxdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0036TDF6I-fr De Longhi Magnifica Machine expresso avec broyeur...'
 sku: 'B0036TDF6I-fr'
 tags: [  ]

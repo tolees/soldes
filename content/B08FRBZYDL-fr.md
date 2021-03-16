@@ -5,7 +5,7 @@ date: 2020-08-24 23:42:49
 image: 'https://m.media-amazon.com/images/I/41T1FYesxiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FRBZYDL-fr eXtremeRate 2 Pcs Verres Trempé pour Nintendo Switch...'
 sku: 'B08FRBZYDL-fr'
 tags: [  ]

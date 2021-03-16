@@ -5,7 +5,7 @@ date: 2020-09-11 20:54:33
 image: 'https://m.media-amazon.com/images/I/51b7mjI15vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JYUU1ZU-fr Carte mémoire SDHC SanDisk Extreme Pro 64Go de jusqu à...'
 sku: 'B01JYUU1ZU-fr'
 tags: [  ]

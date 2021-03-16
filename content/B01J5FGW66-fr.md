@@ -5,7 +5,7 @@ date: 2020-06-03 19:04:25
 image: 'https://m.media-amazon.com/images/I/41ONdcjQJVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J5FGW66-fr Philips GC8735/80 Centrale vapeur PerfectCare Performer 6...'
 sku: 'B01J5FGW66-fr'
 tags: [  ]

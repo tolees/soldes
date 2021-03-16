@@ -5,7 +5,7 @@ date: 2020-09-03 19:47:54
 image: 'https://m.media-amazon.com/images/I/4168yqv0ncL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDCCPYX-fr Puma ESS Logo Tee T-Shirt Femme Noir Cotton Black L'
 sku: 'B07DDCCPYX-fr'
 tags: [  ]

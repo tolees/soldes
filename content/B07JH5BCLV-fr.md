@@ -5,7 +5,7 @@ date: 2020-09-16 09:29:14
 image: 'https://m.media-amazon.com/images/I/517+D+nksNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH5BCLV-fr Newton Gravity 8 Chaussure De Course à Pied - 41'
 sku: 'B07JH5BCLV-fr'
 tags: [  ]

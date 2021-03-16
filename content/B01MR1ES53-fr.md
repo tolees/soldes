@@ -5,7 +5,7 @@ date: 2020-05-22 23:10:35
 image: 'https://m.media-amazon.com/images/I/41jBP2FpzEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MR1ES53-fr Razer Ornata Chroma Clavier de Jeu avec Touches à Membrane...'
 sku: 'B01MR1ES53-fr'
 tags: [  ]

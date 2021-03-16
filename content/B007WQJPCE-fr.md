@@ -5,7 +5,7 @@ date: 2020-09-27 06:43:26
 image: 'https://m.media-amazon.com/images/I/31htJ5b4ZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007WQJPCE-fr Samsonite S Cure - Spinner M Valise 69 cm 79 L Noir Black'
 sku: 'B007WQJPCE-fr'
 tags: [  ]

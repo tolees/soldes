@@ -5,7 +5,7 @@ date: 2020-06-12 00:08:57
 image: 'https://m.media-amazon.com/images/I/51dwdtvATyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084DG7PMG-fr Jumanji : Next Level'
 sku: 'B084DG7PMG-fr'
 tags: [  ]

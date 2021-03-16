@@ -5,7 +5,7 @@ date: 2020-06-01 14:51:58
 image: 'https://m.media-amazon.com/images/I/51o0qsmuznL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TDPM73G-fr Versa - Tabouret de chamdre avec Romantic Patchwork'
 sku: 'B00TDPM73G-fr'
 tags: [  ]

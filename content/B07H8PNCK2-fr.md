@@ -5,7 +5,7 @@ date: 2020-10-07 05:05:46
 image: 'https://m.media-amazon.com/images/I/41UrYjUxzAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8PNCK2-fr Nero Platinum 2019'
 sku: 'B07H8PNCK2-fr'
 tags: [  ]

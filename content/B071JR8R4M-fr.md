@@ -5,7 +5,7 @@ date: 2020-08-18 18:45:29
 image: 'https://m.media-amazon.com/images/I/31BoLsnjmiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071JR8R4M-fr HP OMEN 100 - Tapis de Souris Gaming Noir 36 cm x 30 cm...'
 sku: 'B071JR8R4M-fr'
 tags: [  ]

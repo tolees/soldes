@@ -5,7 +5,7 @@ date: 2020-10-07 13:53:08
 image: 'https://m.media-amazon.com/images/I/41x2Vfq5UQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0776YGHFN-fr OSRAM Smart+ Prise Extérieure Connectée - Blanc - Etanche...'
 sku: 'B0776YGHFN-fr'
 tags: [  ]

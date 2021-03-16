@@ -5,7 +5,7 @@ date: 2020-10-01 15:33:31
 image: 'https://m.media-amazon.com/images/I/41ul8dP-FsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GKB5R6M-fr Minuteur analogique visuel 60 minutes compte à rebours...'
 sku: 'B08GKB5R6M-fr'
 tags: [  ]

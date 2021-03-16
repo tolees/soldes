@@ -5,7 +5,7 @@ date: 2020-05-22 21:00:02
 image: 'https://m.media-amazon.com/images/I/41HzY8s6UTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NSN13KC-fr LIVOO DOC208 Barbecue Gaz Gril et Plancha'
 sku: 'B07NSN13KC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-25 07:34:57
 image: 'https://m.media-amazon.com/images/I/41cYVREufKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6TLDWW-fr Tommy Hilfiger Iconic Material Mix Runner Sneakers Basses...'
 sku: 'B07V6TLDWW-fr'
 tags: [  ]

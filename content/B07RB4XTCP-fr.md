@@ -5,7 +5,7 @@ date: 2020-09-18 11:35:14
 image: 'https://m.media-amazon.com/images/I/31Z4B13BkUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RB4XTCP-fr Garmin - Dash Cam 56 - Caméra de conduite - Enregistrement...'
 sku: 'B07RB4XTCP-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 17:21:45
 image: 'https://m.media-amazon.com/images/I/513DzLcRQJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XBPRM1-fr Fruitman stylo multifonction idee cadeau homme original...'
 sku: 'B077XBPRM1-fr'
 tags: [  ]

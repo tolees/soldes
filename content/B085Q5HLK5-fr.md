@@ -5,7 +5,7 @@ date: 2020-08-05 18:06:55
 image: 'https://m.media-amazon.com/images/I/41ysFNO99lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085Q5HLK5-fr ORICO M200 3D NAND SSD Hard Solid Drive - mSATA - SATA III...'
 sku: 'B085Q5HLK5-fr'
 tags: [  ]

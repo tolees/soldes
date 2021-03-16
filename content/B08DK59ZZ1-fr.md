@@ -5,7 +5,7 @@ date: 2020-10-12 00:11:43
 image: 'https://m.media-amazon.com/images/I/41j70QV4WyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DK59ZZ1-fr LiNKFOR Antenne TV Intérieure Numérique avec Signal...'
 sku: 'B08DK59ZZ1-fr'
 tags: [  ]

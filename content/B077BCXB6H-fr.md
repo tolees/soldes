@@ -5,7 +5,7 @@ date: 2020-09-11 20:53:38
 image: 'https://m.media-amazon.com/images/I/41HYpw-qNLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077BCXB6H-fr Calvin Klein Homme - Lot de 3 aille mi-haute boxers -...'
 sku: 'B077BCXB6H-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 01:54:04
 image: 'https://m.media-amazon.com/images/I/51LBBVRe43L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F59W1NQ-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio sans Fil...'
 sku: 'B08F59W1NQ-fr'
 tags: [  ]

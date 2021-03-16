@@ -5,7 +5,7 @@ date: 2020-10-02 14:53:00
 image: 'https://m.media-amazon.com/images/I/41KAf0GVLsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFWGKZ4-fr Logitech G513 Clavier Gaming Mécanique avec Repose-...'
 sku: 'B07DFWGKZ4-fr'
 tags: [  ]

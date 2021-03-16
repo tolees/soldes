@@ -5,7 +5,7 @@ date: 2020-09-18 15:32:19
 image: 'https://m.media-amazon.com/images/I/51alNrT-xAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6QC2QG-fr LEGO Figurines Série DC Super Héros avec 9 Super-Héros ou...'
 sku: 'B07W6QC2QG-fr'
 tags: [  ]

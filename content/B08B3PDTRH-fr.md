@@ -5,7 +5,7 @@ date: 2020-10-01 09:31:46
 image: 'https://m.media-amazon.com/images/I/41ASW7ASCcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B3PDTRH-fr Rasoir électrique pour hommes rasoir électrique rotatif...'
 sku: 'B08B3PDTRH-fr'
 tags: [  ]

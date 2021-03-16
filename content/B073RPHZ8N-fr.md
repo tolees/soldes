@@ -5,7 +5,7 @@ date: 2020-09-21 17:15:51
 image: 'https://m.media-amazon.com/images/I/41aq05HDDoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073RPHZ8N-fr Columbia Drainmaker IV Chaussures de Randonnée Basses...'
 sku: 'B073RPHZ8N-fr'
 tags: [  ]

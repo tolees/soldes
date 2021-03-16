@@ -5,7 +5,7 @@ date: 2020-10-11 06:32:50
 image: 'https://m.media-amazon.com/images/I/31NYrXYDiIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082JH1WKZ-fr Hom Thomas Long Sleepwear Ensemble de Pijama Haut: rayé...'
 sku: 'B082JH1WKZ-fr'
 tags: [  ]

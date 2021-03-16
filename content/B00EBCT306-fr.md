@@ -5,7 +5,7 @@ date: 2020-05-22 20:46:30
 image: 'https://m.media-amazon.com/images/I/31ssdBbuWnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EBCT306-fr Makita Perceuse à percussion Ø 13 Mm 1010 W HP2071FJ'
 sku: 'B00EBCT306-fr'
 tags: [  ]

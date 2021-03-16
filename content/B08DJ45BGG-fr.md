@@ -5,7 +5,7 @@ date: 2020-10-08 23:55:08
 image: 'https://m.media-amazon.com/images/I/21-o91unJHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ45BGG-fr Disque Dur Externe 1to Disque Dur Externe USB3.1/Type C...'
 sku: 'B08DJ45BGG-fr'
 tags: [  ]

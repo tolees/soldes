@@ -5,7 +5,7 @@ date: 2020-09-12 21:14:14
 image: 'https://m.media-amazon.com/images/I/31SJQpz31-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081N7YDVR-fr Avidsen 127003 Camera IP motorisée Blanc'
 sku: 'B081N7YDVR-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 04:52:40
 image: 'https://m.media-amazon.com/images/I/41pwXD2J-GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZH6QR8Q-fr Silicon Power PCIe M.2 NVMe SSD 256GB Gen3x4 R/W up to 2...'
 sku: 'B07ZH6QR8Q-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 05:32:54
 image: 'https://m.media-amazon.com/images/I/416oV9WKm4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGVCMMV-fr ITISME Homme Automne Et Hiver Mode Casual Sport De Jogging...'
 sku: 'B07RGVCMMV-fr'
 tags: [  ]

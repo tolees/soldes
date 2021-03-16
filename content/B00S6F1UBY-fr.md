@@ -5,7 +5,7 @@ date: 2020-08-13 06:10:29
 image: 'https://m.media-amazon.com/images/I/51ktJGIUh4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S6F1UBY-fr Sylvanian Families - 5206 - Le bateau de croisière'
 sku: 'B00S6F1UBY-fr'
 tags: [  ]

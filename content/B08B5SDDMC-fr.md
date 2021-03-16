@@ -5,7 +5,7 @@ date: 2020-09-18 15:22:25
 image: 'https://m.media-amazon.com/images/I/31ULCYNxUhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5SDDMC-fr alvorog Miroir de Maquillage avec 3 Modes de Couleur 5X...'
 sku: 'B08B5SDDMC-fr'
 tags: [  ]

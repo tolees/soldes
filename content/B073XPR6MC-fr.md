@@ -5,7 +5,7 @@ date: 2020-09-14 06:48:24
 image: 'https://m.media-amazon.com/images/I/513tgCpYBOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073XPR6MC-fr VOYOR Appareil de Massage Anti Cellulite Electrique...'
 sku: 'B073XPR6MC-fr'
 tags: [  ]

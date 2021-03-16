@@ -5,7 +5,7 @@ date: 2020-08-09 20:04:24
 image: 'https://m.media-amazon.com/images/I/51SJXRGRPBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMGV7Q9-fr Chie Mihara balis Sandales Bride Cheville Femmes Rouge...'
 sku: 'B07YMGV7Q9-fr'
 tags: [  ]

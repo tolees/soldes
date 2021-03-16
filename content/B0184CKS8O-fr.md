@@ -5,7 +5,7 @@ date: 2020-09-27 03:14:48
 image: 'https://m.media-amazon.com/images/I/41fKm7g71xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0184CKS8O-fr ABUS EC-SNP 30/50 Cylindre Débrayable pour Portes...'
 sku: 'B0184CKS8O-fr'
 tags: [  ]

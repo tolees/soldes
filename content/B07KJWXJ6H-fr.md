@@ -5,7 +5,7 @@ date: 2020-05-22 23:57:16
 image: 'https://m.media-amazon.com/images/I/31--MybSb0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJWXJ6H-fr El Naturalista N5353 Vaquetilla Aqua Sandales Bride...'
 sku: 'B07KJWXJ6H-fr'
 tags: [  ]

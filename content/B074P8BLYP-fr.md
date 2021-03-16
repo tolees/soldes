@@ -5,7 +5,7 @@ date: 2020-05-22 21:02:29
 image: 'https://m.media-amazon.com/images/I/61VORpQhY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P8BLYP-fr MICHELIN 008317 Easy Grip Evolution Chaîne à Neige...'
 sku: 'B074P8BLYP-fr'
 tags: [  ]

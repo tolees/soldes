@@ -5,7 +5,7 @@ date: 2020-08-25 04:54:43
 image: 'https://m.media-amazon.com/images/I/31sgzXkWcJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQCVHQ6-fr Echo Dot 3ème génération Enceinte connectée avec horloge...'
 sku: 'B07NQCVHQ6-fr'
 tags: [  ]

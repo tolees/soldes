@@ -5,7 +5,7 @@ date: 2020-05-31 09:59:52
 image: 'https://m.media-amazon.com/images/I/51ZEfKPMp0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3JPQ3C-fr Clint Eastwood-Coffret 10 Films'
 sku: 'B07T3JPQ3C-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 20:28:37
 image: 'https://m.media-amazon.com/images/I/31N+cY3yD8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LZPLRCE-fr Braun Face 810 Épilateur Visage Et Brosse Nettoyante...'
 sku: 'B00LZPLRCE-fr'
 tags: [  ]

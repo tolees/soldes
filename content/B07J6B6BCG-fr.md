@@ -5,7 +5,7 @@ date: 2020-08-21 05:01:54
 image: 'https://m.media-amazon.com/images/I/51LqGr6JQdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6B6BCG-fr Sac à Main Femme Rétro JOSEKO Sac à Bandoulière en...'
 sku: 'B07J6B6BCG-fr'
 tags: [  ]

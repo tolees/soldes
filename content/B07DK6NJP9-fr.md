@@ -5,7 +5,7 @@ date: 2020-09-12 10:18:31
 image: 'https://m.media-amazon.com/images/I/41sfd2jWFdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DK6NJP9-fr Samyang AF 24mm F2.8 FE - Grand Angle compact - Objectif...'
 sku: 'B07DK6NJP9-fr'
 tags: [  ]

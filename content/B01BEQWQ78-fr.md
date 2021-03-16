@@ -5,7 +5,7 @@ date: 2020-09-25 14:04:10
 image: 'https://m.media-amazon.com/images/I/31DH8hCCQ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BEQWQ78-fr MagiDeal Coussinet Casque Coussin Remplacement pour Sony...'
 sku: 'B01BEQWQ78-fr'
 tags: [  ]

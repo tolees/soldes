@@ -5,7 +5,7 @@ date: 2020-08-25 09:27:44
 image: 'https://m.media-amazon.com/images/I/41UiEFmslPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZBYJJ2-fr Fer à lisser ionique - pour boucler et lisser'
 sku: 'B07PZBYJJ2-fr'
 tags: [  ]

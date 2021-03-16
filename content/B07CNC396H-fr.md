@@ -5,7 +5,7 @@ date: 2020-08-28 11:24:06
 image: 'https://m.media-amazon.com/images/I/41p6Aam2aTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNC396H-fr DJI - Tello GameSir - Manette pour Tello - Radiocommande...'
 sku: 'B07CNC396H-fr'
 tags: [  ]

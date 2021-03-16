@@ -5,7 +5,7 @@ date: 2020-05-23 00:04:16
 image: 'https://m.media-amazon.com/images/I/319mxucy9vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPJDCK1-fr Scotch & Soda Maison Club Nomade Basic Sweat Shirt Red...'
 sku: 'B07JPJDCK1-fr'
 tags: [  ]

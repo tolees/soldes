@@ -5,7 +5,7 @@ date: 2020-05-22 21:38:04
 image: 'https://m.media-amazon.com/images/I/518hLtYeOXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC4BM5M-fr TOM TAILOR MY TRUE ME Plussize T-shirt Femme Multicolor 48'
 sku: 'B07MC4BM5M-fr'
 tags: [  ]

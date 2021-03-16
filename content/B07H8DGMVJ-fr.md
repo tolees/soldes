@@ -5,7 +5,7 @@ date: 2020-08-25 05:00:51
 image: 'https://m.media-amazon.com/images/I/41Ym3V93gbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8DGMVJ-fr iPosible Écouteurs Bluetooth 5.0 Écouteur sans Fil 3500mAh...'
 sku: 'B07H8DGMVJ-fr'
 tags: [  ]

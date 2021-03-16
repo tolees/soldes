@@ -5,7 +5,7 @@ date: 2020-09-26 10:03:53
 image: 'https://m.media-amazon.com/images/I/41qRUsl+dYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCY75J9-fr TEFAL Body Partner Pèse Personne Balance Connectée...'
 sku: 'B07RCY75J9-fr'
 tags: [  ]

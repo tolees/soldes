@@ -5,7 +5,7 @@ date: 2020-10-01 17:28:20
 image: 'https://m.media-amazon.com/images/I/41WmSMWN-5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y9BWYJ5-fr Fauteuil à Bascule Gaming - Sony Geist - noir/bleu'
 sku: 'B07Y9BWYJ5-fr'
 tags: [  ]

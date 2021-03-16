@@ -5,7 +5,7 @@ date: 2020-08-09 14:03:15
 image: 'https://m.media-amazon.com/images/I/41l7SqW4tcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E9IXQ4G-fr Crane Stand CUHS-LG-2L Mallette universelle rigide pour DJ'
 sku: 'B00E9IXQ4G-fr'
 tags: [  ]

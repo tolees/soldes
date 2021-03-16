@@ -5,7 +5,7 @@ date: 2020-10-12 07:38:15
 image: 'https://m.media-amazon.com/images/I/51R-fXuhZZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HDBZGDE-fr Live at Montreux 1991 [Blu-ray]'
 sku: 'B01HDBZGDE-fr'
 tags: [  ]

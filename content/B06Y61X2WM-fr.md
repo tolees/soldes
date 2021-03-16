@@ -5,7 +5,7 @@ date: 2020-09-30 06:40:50
 image: 'https://m.media-amazon.com/images/I/31riMYBYWqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y61X2WM-fr Vladimir Ashkenazy: The Complete Piano Concerto Recordings'
 sku: 'B06Y61X2WM-fr'
 tags: [  ]

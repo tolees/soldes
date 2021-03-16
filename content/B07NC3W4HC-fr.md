@@ -5,7 +5,7 @@ date: 2020-09-27 10:41:48
 image: 'https://m.media-amazon.com/images/I/51aosNR8ztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC3W4HC-fr TomTom GPS Voiture GO Premium 5 Pouces Info Trafic Alertes...'
 sku: 'B07NC3W4HC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 12:03:16
 image: 'https://m.media-amazon.com/images/I/51aELWUTGDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GWVWYM1-fr FREEGUN Lot 5 DE Boxers Flag Homme Taille M …'
 sku: 'B07GWVWYM1-fr'
 tags: [  ]

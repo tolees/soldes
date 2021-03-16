@@ -5,7 +5,7 @@ date: 2020-05-22 20:46:21
 image: 'https://m.media-amazon.com/images/I/51SzOWN04mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VN9SPHW-fr MICHELIN Chaines à neige Extrem Grip Tension Automatique N°90'
 sku: 'B07VN9SPHW-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-21 15:19:47
 image: 'https://m.media-amazon.com/images/I/41nJLuEyyuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EAACFX0-fr Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 +...'
 sku: 'B01EAACFX0-fr'
 tags: [  ]

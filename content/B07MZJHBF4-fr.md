@@ -5,7 +5,7 @@ date: 2020-05-22 22:47:07
 image: 'https://m.media-amazon.com/images/I/51QnQF0JwBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZJHBF4-fr PLDM by Palladium Caramba SUD Bottes & Bottines Souples...'
 sku: 'B07MZJHBF4-fr'
 tags: [  ]

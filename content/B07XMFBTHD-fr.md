@@ -5,7 +5,7 @@ date: 2020-08-05 17:43:05
 image: 'https://m.media-amazon.com/images/I/41ex2TV+KzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XMFBTHD-fr Skechers GO Run 400 V2 Baskets Homme Textile Noir Noir...'
 sku: 'B07XMFBTHD-fr'
 tags: [  ]

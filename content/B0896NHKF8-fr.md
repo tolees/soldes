@@ -5,7 +5,7 @@ date: 2020-08-21 04:55:33
 image: 'https://m.media-amazon.com/images/I/5132ovgMuOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0896NHKF8-fr Captain Tsubasa: Rise of New Champions - Edition Collector...'
 sku: 'B0896NHKF8-fr'
 tags: [  ]

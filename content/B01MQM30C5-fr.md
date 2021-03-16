@@ -5,7 +5,7 @@ date: 2020-09-11 05:43:21
 image: 'https://m.media-amazon.com/images/I/41mKbK-tT9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQM30C5-fr Puma Basket Heart Patent Baskets Basses Femme Noir Black-...'
 sku: 'B01MQM30C5-fr'
 tags: [  ]

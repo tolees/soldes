@@ -5,7 +5,7 @@ date: 2020-05-27 10:51:35
 image: 'https://m.media-amazon.com/images/I/51bZxm-r0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XHLHNHZ-fr Team Kalorik Four Rétro 19.5 Litres avec Pince Plateaux et...'
 sku: 'B06XHLHNHZ-fr'
 tags: [  ]

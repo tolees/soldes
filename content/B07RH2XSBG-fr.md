@@ -5,7 +5,7 @@ date: 2020-08-24 04:50:33
 image: 'https://m.media-amazon.com/images/I/51f8nlvbpgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RH2XSBG-fr Signal Integral 8 Dentifrice Complet Antibactérien...'
 sku: 'B07RH2XSBG-fr'
 tags: [  ]

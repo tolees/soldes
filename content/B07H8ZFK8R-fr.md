@@ -5,7 +5,7 @@ date: 2020-10-07 05:05:07
 image: 'https://m.media-amazon.com/images/I/41nRRbSfZzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8ZFK8R-fr Nero Standard 2019'
 sku: 'B07H8ZFK8R-fr'
 tags: [  ]

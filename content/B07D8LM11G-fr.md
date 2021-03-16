@@ -5,7 +5,7 @@ date: 2020-05-22 20:33:43
 image: 'https://m.media-amazon.com/images/I/31nhSfI3KUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D8LM11G-fr BOSS Soody Sweat-Shirt Noir Black 001 XX-Large Homme'
 sku: 'B07D8LM11G-fr'
 tags: [  ]

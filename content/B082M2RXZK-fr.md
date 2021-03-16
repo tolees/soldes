@@ -5,7 +5,7 @@ date: 2020-08-25 04:53:06
 image: 'https://m.media-amazon.com/images/I/41ueR+wM62L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082M2RXZK-fr Aigital Transmetteur Bluetooth 5.0 Émetteur et Récepteur 2...'
 sku: 'B082M2RXZK-fr'
 tags: [  ]

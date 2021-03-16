@@ -5,7 +5,7 @@ date: 2020-08-20 17:18:05
 image: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D64P2YK-fr Disque Dur Externe 1 to USB 3.0 pour PC Mac MacBook Xbox...'
 sku: 'B08D64P2YK-fr'
 tags: [  ]

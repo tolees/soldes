@@ -5,7 +5,7 @@ date: 2020-08-24 10:54:47
 image: 'https://m.media-amazon.com/images/I/41VnKeHSPZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B6BKMV3-fr OUPOD Clavier numérique Bluetooth Pavé Numérique sans Fil...'
 sku: 'B08B6BKMV3-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:45:02
 image: 'https://m.media-amazon.com/images/I/51nMrL9fBbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002SJSWKG-fr Samsonite Aeris - Spinner XL Valise 81 cm 118 5 L Rouge Red'
 sku: 'B002SJSWKG-fr'
 tags: [  ]

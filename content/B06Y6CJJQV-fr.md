@@ -5,7 +5,7 @@ date: 2020-10-05 19:20:19
 image: 'https://m.media-amazon.com/images/I/31U6iADHaLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y6CJJQV-fr Rhodia 117744C - carnet souple Rhodiarama Goalbook taupe...'
 sku: 'B06Y6CJJQV-fr'
 tags: [  ]

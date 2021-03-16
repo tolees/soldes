@@ -5,7 +5,7 @@ date: 2020-09-11 17:44:56
 image: 'https://m.media-amazon.com/images/I/51P0vu5NP1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDG2VMT-fr Nenuco - Poupon et Berceau Dort avec Moi et Son Baby...'
 sku: 'B07DDG2VMT-fr'
 tags: [  ]

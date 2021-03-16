@@ -5,7 +5,7 @@ date: 2020-08-27 04:07:15
 image: 'https://m.media-amazon.com/images/I/41hmtfsjU9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Q4S6MY-fr Écouteurs sans Fil Bluetooth 5.0 IPX5 écouteurs étanches...'
 sku: 'B089Q4S6MY-fr'
 tags: [  ]

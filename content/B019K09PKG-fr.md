@@ -5,7 +5,7 @@ date: 2020-06-12 00:29:47
 image: 'https://m.media-amazon.com/images/I/51zR6s2G1oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019K09PKG-fr Pinypon - 700012739 - la Garderie des Animaux'
 sku: 'B019K09PKG-fr'
 tags: [  ]

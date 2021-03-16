@@ -5,7 +5,7 @@ date: 2020-05-22 22:57:55
 image: 'https://m.media-amazon.com/images/I/31TJ-efuRAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDN8FH6-fr Brooks Brothers Ni Oxford Solid Milano Chemise Casual Bleu...'
 sku: 'B07NDN8FH6-fr'
 tags: [  ]

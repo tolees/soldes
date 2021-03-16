@@ -5,7 +5,7 @@ date: 2020-05-26 21:54:29
 image: 'https://m.media-amazon.com/images/I/51JA0dRRvCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072NZ1R8G-fr Scie coupe droite sans fil Bosch - Easycut 12 Livré avec...'
 sku: 'B072NZ1R8G-fr'
 tags: [  ]

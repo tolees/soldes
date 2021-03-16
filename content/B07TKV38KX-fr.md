@@ -5,7 +5,7 @@ date: 2020-08-18 11:13:11
 image: 'https://m.media-amazon.com/images/I/41QxwA6wErL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKV38KX-fr 2 Batteries pour Xbox One Manette Sans Fil avec 2 en 1...'
 sku: 'B07TKV38KX-fr'
 tags: [  ]

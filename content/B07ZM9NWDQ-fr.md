@@ -5,7 +5,7 @@ date: 2020-08-29 06:41:10
 image: 'https://m.media-amazon.com/images/I/41QEdvaAgRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZM9NWDQ-fr Masseur Cervical Appareil de Massage Électrique Masseur de...'
 sku: 'B07ZM9NWDQ-fr'
 tags: [  ]

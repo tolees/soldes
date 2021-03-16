@@ -5,7 +5,7 @@ date: 2020-07-14 23:59:24
 image: 'https://m.media-amazon.com/images/I/514bOf1Fg5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BGK38Y-fr LK Verre Trempé pour Xiaomi Redmi Note 9S / Note 9...'
 sku: 'B088BGK38Y-fr'
 tags: [  ]

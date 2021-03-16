@@ -5,7 +5,7 @@ date: 2020-09-25 10:03:45
 image: 'https://m.media-amazon.com/images/I/41QLdbpW-4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY3JT5H-fr HP 25MX Moniteur 62 23 cm 24 5" FHD 1 ms 1920 x 1080...'
 sku: 'B07PY3JT5H-fr'
 tags: [  ]

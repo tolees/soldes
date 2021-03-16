@@ -5,7 +5,7 @@ date: 2020-05-22 21:29:47
 image: 'https://m.media-amazon.com/images/I/41k4BQ0XhAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777QZL8H-fr SEC24 CWL401S - Qualité WiFi Système de Surveillance et de...'
 sku: 'B0777QZL8H-fr'
 tags: [  ]

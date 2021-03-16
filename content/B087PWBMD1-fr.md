@@ -5,7 +5,7 @@ date: 2020-07-13 03:00:54
 image: 'https://m.media-amazon.com/images/I/31PZXqVhvQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087PWBMD1-fr Maegoo Manette PC PS3 TV sans Fil 2.4GHz Wireless Manette...'
 sku: 'B087PWBMD1-fr'
 tags: [  ]

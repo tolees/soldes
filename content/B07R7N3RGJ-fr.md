@@ -5,7 +5,7 @@ date: 2020-09-23 01:46:40
 image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R7N3RGJ-fr YUCUN 2 5 Pouces SATA III Disque Flash 1To SSD 1TB Interne...'
 sku: 'B07R7N3RGJ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-18 18:14:46
 image: 'https://m.media-amazon.com/images/I/31z0BlpDRoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDP5XQ7-fr G-STAR RAW Stem Round Neck T-Shirt Bleu Imperial Blue 1305...'
 sku: 'B07NDP5XQ7-fr'
 tags: [  ]

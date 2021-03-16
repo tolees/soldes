@@ -5,7 +5,7 @@ date: 2020-09-16 16:52:23
 image: 'https://m.media-amazon.com/images/I/41vk4294aTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGPLJ6S-fr Onduleur Z1 Zenergy Cube EX 600 VA 3 prises secourues'
 sku: 'B07LGPLJ6S-fr'
 tags: [  ]

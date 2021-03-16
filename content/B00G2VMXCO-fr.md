@@ -5,7 +5,7 @@ date: 2020-09-27 08:24:00
 image: 'https://m.media-amazon.com/images/I/317o+HjZSqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G2VMXCO-fr Lerway Potence de Guidon Fourche Extenseur VTT Bicyclette...'
 sku: 'B00G2VMXCO-fr'
 tags: [  ]

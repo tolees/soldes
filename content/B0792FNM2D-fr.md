@@ -5,7 +5,7 @@ date: 2020-10-09 07:55:19
 image: 'https://m.media-amazon.com/images/I/51X-j3oCxML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792FNM2D-fr Philips QP620/50 OneBlade Kit Lames Visage + Corps 2 Lames...'
 sku: 'B0792FNM2D-fr'
 tags: [  ]

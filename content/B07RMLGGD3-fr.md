@@ -5,7 +5,7 @@ date: 2020-08-10 16:24:02
 image: 'https://m.media-amazon.com/images/I/41588FzfIPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RMLGGD3-fr Calvin Klein Sliver Mix 2g Laptop Bag Pochettes homme Noir...'
 sku: 'B07RMLGGD3-fr'
 tags: [  ]

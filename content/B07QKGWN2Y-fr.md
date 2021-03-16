@@ -5,7 +5,7 @@ date: 2020-08-09 19:09:37
 image: 'https://m.media-amazon.com/images/I/41U85kdiCUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKGWN2Y-fr Kimberfeel RACE Chaussure de Trail running pour Homme de...'
 sku: 'B07QKGWN2Y-fr'
 tags: [  ]

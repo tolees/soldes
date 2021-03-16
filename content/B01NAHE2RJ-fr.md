@@ -5,7 +5,7 @@ date: 2020-09-24 09:50:01
 image: 'https://m.media-amazon.com/images/I/317pWXJ4bPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NAHE2RJ-fr Timberland Adventure 2.0 Cupsole Baskets Montantes Homme...'
 sku: 'B01NAHE2RJ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-08 13:48:08
 image: 'https://m.media-amazon.com/images/I/41RKXrIzrjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJ5GS2R-fr CASIO Montre Femme LTS-100D-7AVEF'
 sku: 'B07NJ5GS2R-fr'
 tags: [  ]

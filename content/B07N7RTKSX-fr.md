@@ -5,7 +5,7 @@ date: 2020-08-08 21:43:14
 image: 'https://m.media-amazon.com/images/I/41uB0XZzcJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7RTKSX-fr Camel Active Womenswear 2r57 Manteau Bleu Blue 42 46...'
 sku: 'B07N7RTKSX-fr'
 tags: [  ]

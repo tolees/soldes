@@ -5,7 +5,7 @@ date: 2020-09-16 10:26:39
 image: 'https://m.media-amazon.com/images/I/41V5ELYF4OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004WG3ZJG-fr Bionaire - BT19 - colonne ventilateur - modèle à...'
 sku: 'B004WG3ZJG-fr'
 tags: [  ]

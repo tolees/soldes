@@ -5,7 +5,7 @@ date: 2020-05-22 20:25:48
 image: 'https://m.media-amazon.com/images/I/41F8FU3wS-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004Q9UEHA-fr Philip Watch - R8253107765 - Montre Femme - Quartz -...'
 sku: 'B004Q9UEHA-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:13:09
 image: 'https://m.media-amazon.com/images/I/31XlXlZzagL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T7HXNJ3-fr LINDY Switch de Présentation Pro avec Extender HDBaseT'
 sku: 'B07T7HXNJ3-fr'
 tags: [  ]

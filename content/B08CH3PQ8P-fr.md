@@ -5,7 +5,7 @@ date: 2020-08-04 06:27:16
 image: 'https://m.media-amazon.com/images/I/41k5y8N0rdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CH3PQ8P-fr Immortal Realms : Vampire Wars Nintendo Switch'
 sku: 'B08CH3PQ8P-fr'
 tags: [  ]

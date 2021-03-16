@@ -5,7 +5,7 @@ date: 2020-05-22 23:42:10
 image: 'https://m.media-amazon.com/images/I/51e1lDQi6+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQF64TF-fr MXIN 7 Couleurs LED Photon Therapy faciales Traitement de...'
 sku: 'B07FQF64TF-fr'
 tags: [  ]

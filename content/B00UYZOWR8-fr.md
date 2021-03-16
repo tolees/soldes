@@ -5,7 +5,7 @@ date: 2020-07-21 12:07:17
 image: 'https://m.media-amazon.com/images/I/51s7EZOJ+HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UYZOWR8-fr Kit d’apprentissage scientifique OSOYOO Ensemble...'
 sku: 'B00UYZOWR8-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:26:08
 image: 'https://m.media-amazon.com/images/I/31Je960lHWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015YVJ2K8-fr Ecco ECCO JARED Derby homme - Noir Black 01001 - 43 EU'
 sku: 'B015YVJ2K8-fr'
 tags: [  ]

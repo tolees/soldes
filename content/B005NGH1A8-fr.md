@@ -5,7 +5,7 @@ date: 2020-05-22 23:05:41
 image: 'https://m.media-amazon.com/images/I/41Im1-zbCmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005NGH1A8-fr Sony Objectif SAL-1650 Monture A APS-C 16-50mm F2.8'
 sku: 'B005NGH1A8-fr'
 tags: [  ]

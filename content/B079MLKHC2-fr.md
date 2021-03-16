@@ -5,7 +5,7 @@ date: 2020-08-04 13:04:34
 image: 'https://m.media-amazon.com/images/I/41T56pUYj1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MLKHC2-fr Cole Haan Zerogrand Wingtip Oxford Richelieus homme...'
 sku: 'B079MLKHC2-fr'
 tags: [  ]

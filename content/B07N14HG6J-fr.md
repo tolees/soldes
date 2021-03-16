@@ -5,7 +5,7 @@ date: 2020-05-22 23:15:01
 image: 'https://m.media-amazon.com/images/I/41YtDbIK9oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N14HG6J-fr Skechers Go Run Steady Baskets Femme Noir Black...'
 sku: 'B07N14HG6J-fr'
 tags: [  ]

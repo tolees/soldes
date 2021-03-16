@@ -5,7 +5,7 @@ date: 2020-09-25 14:27:44
 image: 'https://m.media-amazon.com/images/I/51C5j1j3WdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HTMF0ZQ-fr Salewa MS Rapace Gore-TEX Chaussures de Trekking et...'
 sku: 'B01HTMF0ZQ-fr'
 tags: [  ]

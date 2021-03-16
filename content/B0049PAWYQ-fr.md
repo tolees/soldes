@@ -5,7 +5,7 @@ date: 2020-08-25 11:28:56
 image: 'https://m.media-amazon.com/images/I/51t-k3G+trL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0049PAWYQ-fr Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe...'
 sku: 'B0049PAWYQ-fr'
 tags: [  ]

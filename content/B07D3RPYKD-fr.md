@@ -5,7 +5,7 @@ date: 2020-09-11 17:44:03
 image: 'https://m.media-amazon.com/images/I/41Dara2iH9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D3RPYKD-fr Zelia - 41604F - Manteau Imperméable ciré Femme Bleu Ciel...'
 sku: 'B07D3RPYKD-fr'
 tags: [  ]

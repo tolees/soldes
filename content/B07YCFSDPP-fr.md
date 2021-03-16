@@ -5,7 +5,7 @@ date: 2020-08-24 23:51:47
 image: 'https://m.media-amazon.com/images/I/41zfSde84+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YCFSDPP-fr Eveil Lumière avec LED Radio Réveil Lumineux Lampe de...'
 sku: 'B07YCFSDPP-fr'
 tags: [  ]

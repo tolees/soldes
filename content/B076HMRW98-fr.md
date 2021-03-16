@@ -5,7 +5,7 @@ date: 2020-09-25 20:10:28
 image: 'https://m.media-amazon.com/images/I/41FpqFQ7NDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076HMRW98-fr adidas Core 18 Hoody Sweat-Shirt à Capuche Homme...'
 sku: 'B076HMRW98-fr'
 tags: [  ]

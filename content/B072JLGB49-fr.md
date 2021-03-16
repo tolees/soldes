@@ -5,7 +5,7 @@ date: 2020-10-10 07:45:02
 image: 'https://m.media-amazon.com/images/I/41vOD4zxJGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JLGB49-fr Crocs Classic Clog Kids Sabots mixte enfant - Vert Grass...'
 sku: 'B072JLGB49-fr'
 tags: [  ]

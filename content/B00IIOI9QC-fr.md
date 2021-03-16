@@ -5,7 +5,7 @@ date: 2020-05-22 21:26:20
 image: 'https://m.media-amazon.com/images/I/414lgnWKjLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IIOI9QC-fr OMRON M6 Comfort Tensiomètre Bras Électronique Technologie...'
 sku: 'B00IIOI9QC-fr'
 tags: [  ]

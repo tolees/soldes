@@ -5,7 +5,7 @@ date: 2020-08-06 14:28:15
 image: 'https://m.media-amazon.com/images/I/318WKWgZxKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZMXWBX-fr Under Armour UA Qualifier SPEEDPOCKET 2-N-1 Short Homme...'
 sku: 'B07CZMXWBX-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:03:35
 image: 'https://m.media-amazon.com/images/I/518T8iXabiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q9SQZYG-fr Braun Series 9 9299cc Rasoir Électrique Homme Station...'
 sku: 'B07Q9SQZYG-fr'
 tags: [  ]

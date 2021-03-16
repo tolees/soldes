@@ -5,7 +5,7 @@ date: 2020-10-12 07:37:19
 image: 'https://m.media-amazon.com/images/I/51V-TsMpwxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CC7GRK-fr From The Vaults: No Security - San Jose 1999 -The Rolling...'
 sku: 'B001CC7GRK-fr'
 tags: [  ]

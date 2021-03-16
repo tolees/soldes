@@ -5,7 +5,7 @@ date: 2020-08-29 11:22:50
 image: 'https://m.media-amazon.com/images/I/41ik+-TwJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ST4HNN-fr RAMPOW Câble USB C vers USB C 2m [Garantie à Vie] Câble...'
 sku: 'B089ST4HNN-fr'
 tags: [  ]

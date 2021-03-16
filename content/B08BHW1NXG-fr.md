@@ -5,7 +5,7 @@ date: 2020-08-07 00:15:11
 image: 'https://m.media-amazon.com/images/I/3110I5FcAyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHW1NXG-fr Disque Dur Externe 1to Disque Dur Externe USB-C Portable...'
 sku: 'B08BHW1NXG-fr'
 tags: [  ]

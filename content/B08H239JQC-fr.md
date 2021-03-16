@@ -5,7 +5,7 @@ date: 2020-09-12 14:59:05
 image: 'https://m.media-amazon.com/images/I/41XtxD7NKZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H239JQC-fr Disque Dur Externe 1to USB3.0 SATA Disque Dur Externe pour...'
 sku: 'B08H239JQC-fr'
 tags: [  ]

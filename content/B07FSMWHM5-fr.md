@@ -5,7 +5,7 @@ date: 2020-09-11 22:49:12
 image: 'https://m.media-amazon.com/images/I/513FHBKIu8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSMWHM5-fr Philips SH90/70 Têtes de Rasoir pour Series 9000'
 sku: 'B07FSMWHM5-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 18:16:10
 image: 'https://m.media-amazon.com/images/I/31MuZb5xrsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGHHVS8-fr PUMA Carina L Sneakers Basses Femme White-White-Silver 39 EU'
 sku: 'B07JGHHVS8-fr'
 tags: [  ]

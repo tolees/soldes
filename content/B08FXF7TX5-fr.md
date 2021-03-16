@@ -5,7 +5,7 @@ date: 2020-08-21 23:08:17
 image: 'https://m.media-amazon.com/images/I/41ukwSSmHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FXF7TX5-fr RIIMUHIR Verre Trempé pour Xiaomi Mi Note 10/Note 10...'
 sku: 'B08FXF7TX5-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 08:40:50
 image: 'https://m.media-amazon.com/images/I/41ETFh3X1BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084GRK3NS-fr AICOK Batteur Électrique de Cuisine 2 en 1 Batteur à Main...'
 sku: 'B084GRK3NS-fr'
 tags: [  ]

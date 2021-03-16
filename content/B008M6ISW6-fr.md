@@ -5,7 +5,7 @@ date: 2020-05-25 20:09:24
 image: 'https://m.media-amazon.com/images/I/21HRcSbD2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008M6ISW6-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert...'
 sku: 'B008M6ISW6-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-11 17:24:22
 image: 'https://m.media-amazon.com/images/I/31pd3ZoIb3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DQ91XNK-fr Seagate Portable 2 To Disque dur externe portable HDD –...'
 sku: 'B07DQ91XNK-fr'
 tags: [  ]

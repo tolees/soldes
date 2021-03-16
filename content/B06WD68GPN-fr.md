@@ -5,7 +5,7 @@ date: 2020-08-15 12:11:54
 image: 'https://m.media-amazon.com/images/I/41DYf1PkA4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WD68GPN-fr Marvel Legends - Edition Collector Avengers - Marteau...'
 sku: 'B06WD68GPN-fr'
 tags: [  ]

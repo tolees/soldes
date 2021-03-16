@@ -5,7 +5,7 @@ date: 2020-09-23 01:55:57
 image: 'https://m.media-amazon.com/images/I/51PF0b-rILL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085L1XG7V-fr Casque de Sommeil -Anti Bruit Sommeil Bandeau Bluetooth...'
 sku: 'B085L1XG7V-fr'
 tags: [  ]

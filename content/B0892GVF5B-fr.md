@@ -5,7 +5,7 @@ date: 2020-08-13 00:16:10
 image: 'https://m.media-amazon.com/images/I/41TTbKNIsjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0892GVF5B-fr Zamkol Enceinte Bluetooth Protable 30 W Enceinte sans Fil...'
 sku: 'B0892GVF5B-fr'
 tags: [  ]

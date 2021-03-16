@@ -5,7 +5,7 @@ date: 2020-09-24 02:26:30
 image: 'https://m.media-amazon.com/images/I/51+K47agsQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDHXYD8-fr Kit Soins Barbe pour Hommes Derma Roller+Sérum Activateur...'
 sku: 'B08CDHXYD8-fr'
 tags: [  ]

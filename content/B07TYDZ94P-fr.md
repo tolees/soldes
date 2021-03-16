@@ -5,7 +5,7 @@ date: 2020-08-12 13:10:31
 image: 'https://m.media-amazon.com/images/I/310E-EvvKpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYDZ94P-fr Vera Mont VM 8028/4000 Robe de soirée Bleu Night Sky 8541...'
 sku: 'B07TYDZ94P-fr'
 tags: [  ]

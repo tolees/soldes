@@ -5,7 +5,7 @@ date: 2020-08-10 00:37:41
 image: 'https://m.media-amazon.com/images/I/31H2C2BUsLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZDJDT6-fr Disque Dur Externe 1to Disque Dur Externe USB3.1 Type-C...'
 sku: 'B08CZDJDT6-fr'
 tags: [  ]

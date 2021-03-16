@@ -5,7 +5,7 @@ date: 2020-08-21 10:54:29
 image: 'https://m.media-amazon.com/images/I/51txvNhRKzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CC2WCHP-fr Timoom M6 Lecteur MP3 Bluetooth MP4 32Go 2.8 Pouces Ecran...'
 sku: 'B08CC2WCHP-fr'
 tags: [  ]

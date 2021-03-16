@@ -5,7 +5,7 @@ date: 2020-05-22 22:50:43
 image: 'https://m.media-amazon.com/images/I/61muztD4TVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2TYXKN-fr LES FILLES DE CALEB: ÉMILIE et BLANCHE'
 sku: 'B01N2TYXKN-fr'
 tags: [  ]

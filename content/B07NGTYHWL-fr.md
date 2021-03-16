@@ -5,7 +5,7 @@ date: 2020-08-09 07:27:28
 image: 'https://m.media-amazon.com/images/I/31s6LiMBkKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGTYHWL-fr Derhy Nation Robe Noir 6 38 Taille Fabricant:S Femme'
 sku: 'B07NGTYHWL-fr'
 tags: [  ]

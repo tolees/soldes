@@ -5,7 +5,7 @@ date: 2020-08-16 14:43:20
 image: 'https://m.media-amazon.com/images/I/41GyrYJ3X3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076ZX91MT-fr Shark Casque jet ATV-DRAK blanc Taille M'
 sku: 'B076ZX91MT-fr'
 tags: [  ]

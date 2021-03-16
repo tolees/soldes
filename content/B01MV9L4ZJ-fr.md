@@ -5,7 +5,7 @@ date: 2020-08-29 23:14:24
 image: 'https://m.media-amazon.com/images/I/31o1-zNdmjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MV9L4ZJ-fr Lacoste TH6709 T-Shirt Homme Bleu Marine 166 S'
 sku: 'B01MV9L4ZJ-fr'
 tags: [  ]

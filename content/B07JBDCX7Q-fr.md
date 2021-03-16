@@ -5,7 +5,7 @@ date: 2020-09-16 10:26:33
 image: 'https://m.media-amazon.com/images/I/31NnULD+SsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JBDCX7Q-fr Zéfal Z Handlebar Mount Support vélo/Moto pour Smartphone...'
 sku: 'B07JBDCX7Q-fr'
 tags: [  ]

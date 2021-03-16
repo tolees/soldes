@@ -5,7 +5,7 @@ date: 2020-09-21 15:32:30
 image: 'https://m.media-amazon.com/images/I/317t17SbgLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNGVKGF-fr SanDisk iXpand 128 Go - Clé USB double connectique pour...'
 sku: 'B07VNGVKGF-fr'
 tags: [  ]

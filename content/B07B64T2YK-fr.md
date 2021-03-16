@@ -5,7 +5,7 @@ date: 2020-10-12 04:15:40
 image: 'https://m.media-amazon.com/images/I/51Xgy3haDIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B64T2YK-fr Norah Jones - Live At Ronnie Scott s [Blu-ray]'
 sku: 'B07B64T2YK-fr'
 tags: [  ]

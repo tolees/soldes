@@ -5,7 +5,7 @@ date: 2020-08-05 12:27:05
 image: 'https://m.media-amazon.com/images/I/51JDXUefJoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086GTQRV2-fr Montre Connectée Femmes Homme Smartwatch Etanche Bracelet...'
 sku: 'B086GTQRV2-fr'
 tags: [  ]

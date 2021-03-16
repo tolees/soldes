@@ -5,7 +5,7 @@ date: 2020-08-07 18:38:29
 image: 'https://m.media-amazon.com/images/I/31O-2ieV+2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFGMGK2-fr Truma 30090-00042 Set d allumage piézo'
 sku: 'B07KFGMGK2-fr'
 tags: [  ]

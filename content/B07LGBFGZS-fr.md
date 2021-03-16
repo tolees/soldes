@@ -5,7 +5,7 @@ date: 2020-08-04 17:33:20
 image: 'https://m.media-amazon.com/images/I/41QoJ2rX6JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LGBFGZS-fr Nike WMNS Air Zoom Pegasus 36 Trail Chaussure de Course...'
 sku: 'B07LGBFGZS-fr'
 tags: [  ]

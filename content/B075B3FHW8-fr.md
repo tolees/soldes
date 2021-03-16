@@ -5,7 +5,7 @@ date: 2020-08-13 10:08:59
 image: 'https://m.media-amazon.com/images/I/31l2f1qBPcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075B3FHW8-fr Hugo Boss Orange Homme Analogique Classique Quartz Montre...'
 sku: 'B075B3FHW8-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 12:39:19
 image: 'https://m.media-amazon.com/images/I/419N9Wf3SCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MGFRGQM-fr Napapijri Skidoo WOM EF 2 Jacket Rose Pink Blush P79 XL Femme'
 sku: 'B07MGFRGQM-fr'
 tags: [  ]

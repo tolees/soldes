@@ -5,7 +5,7 @@ date: 2020-10-12 20:44:00
 image: 'https://m.media-amazon.com/images/I/51997DKla7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003FZB7NQ-fr Lexibook D800FR Dictionnaire électronique Larousse'
 sku: 'B003FZB7NQ-fr'
 tags: [  ]

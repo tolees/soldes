@@ -5,7 +5,7 @@ date: 2020-09-30 14:58:19
 image: 'https://m.media-amazon.com/images/I/31aW+-fpDCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYRF6DD-fr Diesel Boxers UMBX-KORYTHREEPACK Homme NOIR...'
 sku: 'B01LYRF6DD-fr'
 tags: [  ]

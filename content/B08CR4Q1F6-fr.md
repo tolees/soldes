@@ -5,7 +5,7 @@ date: 2020-07-24 12:24:37
 image: 'https://m.media-amazon.com/images/I/41wKhG2RqhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CR4Q1F6-fr Elyco Étui pour Nintendo Switch Protection Housse Switch...'
 sku: 'B08CR4Q1F6-fr'
 tags: [  ]

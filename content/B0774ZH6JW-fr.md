@@ -5,7 +5,7 @@ date: 2020-08-11 21:03:57
 image: 'https://m.media-amazon.com/images/I/312Pm4cJF-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0774ZH6JW-fr Brooks Brothers 100097653 Short Beige Beige 275 48 Taille...'
 sku: 'B0774ZH6JW-fr'
 tags: [  ]

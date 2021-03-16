@@ -5,7 +5,7 @@ date: 2020-10-01 06:28:17
 image: 'https://m.media-amazon.com/images/I/31QTIeAXGDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002GOHCOA-fr Tiger KYS21-BK Support pour Clavier réglable - Noir'
 sku: 'B002GOHCOA-fr'
 tags: [  ]

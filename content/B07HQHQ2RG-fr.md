@@ -5,7 +5,7 @@ date: 2020-08-05 17:56:40
 image: 'https://m.media-amazon.com/images/I/4124De2FGML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQHQ2RG-fr LIGHTAILING Jeu De Lumières pour Architecture La Tour...'
 sku: 'B07HQHQ2RG-fr'
 tags: [  ]

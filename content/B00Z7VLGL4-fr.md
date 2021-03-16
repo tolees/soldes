@@ -5,7 +5,7 @@ date: 2020-09-12 14:28:50
 image: 'https://m.media-amazon.com/images/I/41TxwZCqcIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Z7VLGL4-fr EXZACT Balance de Cuisine Électronique à Grand Écran avec...'
 sku: 'B00Z7VLGL4-fr'
 tags: [  ]

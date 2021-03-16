@@ -5,7 +5,7 @@ date: 2020-05-22 23:06:19
 image: 'https://m.media-amazon.com/images/I/31-TiRILDfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B2V16CD-fr FLEXISPOT E5W Bureau Réglable Electrique en Hauteur Bureau...'
 sku: 'B07B2V16CD-fr'
 tags: [  ]

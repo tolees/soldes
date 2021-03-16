@@ -5,7 +5,7 @@ date: 2020-09-26 16:08:37
 image: 'https://m.media-amazon.com/images/I/41PUVsnTjAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000U6URF2-fr Clarks Funny Dream Derbys Femme Noir Black Leather 38 EU'
 sku: 'B000U6URF2-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-06 15:05:06
 image: 'https://m.media-amazon.com/images/I/41IxGExbr1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RRDMM9W-fr MSI Pack Loot Box GE-GS RTX Gaming'
 sku: 'B07RRDMM9W-fr'
 tags: [  ]

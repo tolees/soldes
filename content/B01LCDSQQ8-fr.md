@@ -5,7 +5,7 @@ date: 2020-06-12 00:11:35
 image: 'https://m.media-amazon.com/images/I/41X5g1aPbnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LCDSQQ8-fr Sun Classic Sel Régénérant Pour Lave-Vaisselle 4kg'
 sku: 'B01LCDSQQ8-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-09 05:34:19
 image: 'https://m.media-amazon.com/images/I/41L5XKgDktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Q3L2TD-fr LIHAO Étui pour Nintendo Switch Housse de Transport...'
 sku: 'B089Q3L2TD-fr'
 tags: [  ]

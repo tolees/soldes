@@ -5,7 +5,7 @@ date: 2020-09-16 16:00:19
 image: 'https://m.media-amazon.com/images/I/51Wqlm52BiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKL2KRT-fr Protection Écran pour Samsung Galaxy S10 Plus / S10+...'
 sku: 'B08DKL2KRT-fr'
 tags: [  ]

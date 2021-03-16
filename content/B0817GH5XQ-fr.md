@@ -5,7 +5,7 @@ date: 2020-09-16 09:17:32
 image: 'https://m.media-amazon.com/images/I/41IHo0CQlfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0817GH5XQ-fr Columbia Klamath Range II Polaire Demi-zippée Homme'
 sku: 'B0817GH5XQ-fr'
 tags: [  ]

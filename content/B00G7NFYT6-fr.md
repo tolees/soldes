@@ -5,7 +5,7 @@ date: 2020-05-22 23:28:01
 image: 'https://m.media-amazon.com/images/I/51rMd3OhdLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00G7NFYT6-fr Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert'
 sku: 'B00G7NFYT6-fr'
 tags: [  ]

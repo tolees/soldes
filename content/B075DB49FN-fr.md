@@ -5,7 +5,7 @@ date: 2020-07-27 07:00:38
 image: 'https://m.media-amazon.com/images/I/41QcUU3UqpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075DB49FN-fr Synology DS718+ 2 Bay Bureau Boîtier NAS'
 sku: 'B075DB49FN-fr'
 tags: [  ]

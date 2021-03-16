@@ -5,7 +5,7 @@ date: 2020-07-21 18:08:11
 image: 'https://m.media-amazon.com/images/I/51NzKQ+A2XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQFZ7MX-fr Régilait Lait en Poudre Écrémé Vitalité 300 g'
 sku: 'B07YQFZ7MX-fr'
 tags: [  ]

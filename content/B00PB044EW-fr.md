@@ -5,7 +5,7 @@ date: 2020-10-12 00:37:20
 image: 'https://m.media-amazon.com/images/I/41NGlI6VgXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PB044EW-fr BIC Cristal Fun Stylos-Bille Pointe Large 1 6 mm - Violet...'
 sku: 'B00PB044EW-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 16:44:55
 image: 'https://m.media-amazon.com/images/I/41VJfAGJrzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RHTMTS4-fr Tommy Jeans TJM Logo Pocket Tee T-Shirt Bleu Blue Cbk...'
 sku: 'B07RHTMTS4-fr'
 tags: [  ]

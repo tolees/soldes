@@ -5,7 +5,7 @@ date: 2020-08-05 12:13:52
 image: 'https://m.media-amazon.com/images/I/41cDSK5XABL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VHMQ3K-fr ZD-O Wired Gaming Controller 6 Remappable Multi-Function...'
 sku: 'B082VHMQ3K-fr'
 tags: [  ]

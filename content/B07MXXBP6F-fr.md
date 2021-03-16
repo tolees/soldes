@@ -5,7 +5,7 @@ date: 2020-05-22 22:15:36
 image: 'https://m.media-amazon.com/images/I/41aEsDEkGrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXXBP6F-fr Globe Fusion Chaussures de Skateboard Hommes Marron...'
 sku: 'B07MXXBP6F-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 07:09:46
 image: 'https://m.media-amazon.com/images/I/41ioZvU751L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AT9TM3M-fr Etekcity Thermomètre Infrarouge sans Contact Laser de...'
 sku: 'B01AT9TM3M-fr'
 tags: [  ]

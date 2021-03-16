@@ -5,7 +5,7 @@ date: 2020-05-22 23:39:44
 image: 'https://m.media-amazon.com/images/I/31BYypFZy0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003FQIU4O-fr Cuisinart CH4DCE Mini-Préparateur Double sens Rotation...'
 sku: 'B003FQIU4O-fr'
 tags: [  ]

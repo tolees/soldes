@@ -5,7 +5,7 @@ date: 2020-09-11 21:38:51
 image: 'https://m.media-amazon.com/images/I/41KDvep9xWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XKCTBVN-fr Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45...'
 sku: 'B07XKCTBVN-fr'
 tags: [  ]

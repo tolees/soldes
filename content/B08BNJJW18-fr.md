@@ -5,7 +5,7 @@ date: 2020-08-05 18:07:46
 image: 'https://m.media-amazon.com/images/I/41H9jGHus-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNJJW18-fr YIWENTEC DP vers 2*DP Bi-direction haute vitesse 32 4 Gbps...'
 sku: 'B08BNJJW18-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 19:43:18
 image: 'https://m.media-amazon.com/images/I/41rGE04EG+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZGND3B-fr PLDM by Palladium Ranch SUD Bottes & Bottines Souples...'
 sku: 'B07MZGND3B-fr'
 tags: [  ]

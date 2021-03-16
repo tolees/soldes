@@ -5,7 +5,7 @@ date: 2020-08-04 13:03:00
 image: 'https://m.media-amazon.com/images/I/51bcr4yb2KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00STQV5M4-fr BIC Mini Fun Gommes Blanches - Formes Assorties Tubo de 36'
 sku: 'B00STQV5M4-fr'
 tags: [  ]

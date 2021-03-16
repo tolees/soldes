@@ -5,7 +5,7 @@ date: 2020-05-27 07:01:34
 image: 'https://m.media-amazon.com/images/I/31wrSr56PnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ2P7Y-fr Geox U Renan B Sneakers Basses Homme Noir Black/Mud C9355...'
 sku: 'B07LFZ2P7Y-fr'
 tags: [  ]

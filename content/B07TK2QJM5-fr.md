@@ -5,7 +5,7 @@ date: 2020-08-05 05:51:26
 image: 'https://m.media-amazon.com/images/I/41b9pLw+MXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TK2QJM5-fr Quiksilver EQYTJ03215 Veste de Ski/Snowboard Homme...'
 sku: 'B07TK2QJM5-fr'
 tags: [  ]

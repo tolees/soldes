@@ -5,7 +5,7 @@ date: 2020-10-10 06:26:31
 image: 'https://m.media-amazon.com/images/I/41pfWniM90L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2JQV5K-fr DENTAVIE Dentifrice Soin Blancheur Bicarbonate/Cristaux de...'
 sku: 'B07V2JQV5K-fr'
 tags: [  ]

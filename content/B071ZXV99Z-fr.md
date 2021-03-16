@@ -5,7 +5,7 @@ date: 2020-06-11 21:53:53
 image: 'https://m.media-amazon.com/images/I/51lIRp4jowL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071ZXV99Z-fr Dix de Chute - Jeu de societe de stratégie - Version...'
 sku: 'B071ZXV99Z-fr'
 tags: [  ]

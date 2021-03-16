@@ -5,7 +5,7 @@ date: 2020-08-27 04:15:26
 image: 'https://m.media-amazon.com/images/I/51t7RW9E7PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SG6VGL-fr Gomyhom Rose 24K Rose Plaqué Or élégante Fleur Romantique...'
 sku: 'B083SG6VGL-fr'
 tags: [  ]

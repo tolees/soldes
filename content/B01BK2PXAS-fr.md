@@ -5,7 +5,7 @@ date: 2020-10-03 05:59:35
 image: 'https://m.media-amazon.com/images/I/51PhBRZru+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BK2PXAS-fr LEGO®-DUPLO® Les animaux du monde Jouet d Aventure...'
 sku: 'B01BK2PXAS-fr'
 tags: [  ]

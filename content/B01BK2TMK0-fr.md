@@ -5,7 +5,7 @@ date: 2020-08-27 06:23:23
 image: 'https://m.media-amazon.com/images/I/51CoHBCU9fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BK2TMK0-fr LEGO-DUPLO L’île tropicale Pour Tout Petits Fille et...'
 sku: 'B01BK2TMK0-fr'
 tags: [  ]

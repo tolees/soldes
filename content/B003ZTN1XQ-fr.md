@@ -5,7 +5,7 @@ date: 2020-08-04 19:28:27
 image: 'https://m.media-amazon.com/images/I/41Z+Q8264VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003ZTN1XQ-fr Inox Robinet mitigeur douche en acier inoxydable haut de...'
 sku: 'B003ZTN1XQ-fr'
 tags: [  ]

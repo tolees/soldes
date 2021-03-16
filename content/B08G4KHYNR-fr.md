@@ -5,7 +5,7 @@ date: 2020-10-03 21:29:24
 image: 'https://m.media-amazon.com/images/I/41uyLyjJ46L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4KHYNR-fr TUTUO Manette Switch Manette Pro sans Fil pour Nintendo...'
 sku: 'B08G4KHYNR-fr'
 tags: [  ]

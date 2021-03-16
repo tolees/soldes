@@ -5,7 +5,7 @@ date: 2020-09-24 16:48:22
 image: 'https://m.media-amazon.com/images/I/318wOVv2ePL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQ569PT-fr VAUDE Men s Cyclist Softshell Jacket Veste Homme Black FR...'
 sku: 'B07WQ569PT-fr'
 tags: [  ]

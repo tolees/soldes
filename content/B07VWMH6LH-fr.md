@@ -5,7 +5,7 @@ date: 2020-05-22 22:08:48
 image: 'https://m.media-amazon.com/images/I/510OjoCtZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VWMH6LH-fr ENKLEN Hub USB C 12 en 1 pour MacBook Pro/Air 2019~2016...'
 sku: 'B07VWMH6LH-fr'
 tags: [  ]

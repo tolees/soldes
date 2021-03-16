@@ -5,7 +5,7 @@ date: 2020-05-22 22:25:09
 image: 'https://m.media-amazon.com/images/I/31OmchTJ+6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MF3RT29-fr Hoover H-Free 700 HF722PTLG Aspirateur balai sans fil...'
 sku: 'B07MF3RT29-fr'
 tags: [  ]

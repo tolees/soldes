@@ -5,7 +5,7 @@ date: 2020-08-28 11:14:49
 image: 'https://m.media-amazon.com/images/I/41OyFviZJBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKZY63L-fr Les Tropéziennes par M. Belarbi HIRONDEL Sandales Bride...'
 sku: 'B07BKZY63L-fr'
 tags: [  ]

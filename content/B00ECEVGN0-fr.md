@@ -5,7 +5,7 @@ date: 2020-09-14 11:57:21
 image: 'https://m.media-amazon.com/images/I/51A7M2WORVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ECEVGN0-fr Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash...'
 sku: 'B00ECEVGN0-fr'
 tags: [  ]

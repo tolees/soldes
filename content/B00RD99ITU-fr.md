@@ -5,7 +5,7 @@ date: 2020-08-16 18:45:19
 image: 'https://m.media-amazon.com/images/I/31RQxWZR3SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RD99ITU-fr Crocs Crocband Sabots Mixte Adulte Rose Pearl Pink/Wild...'
 sku: 'B00RD99ITU-fr'
 tags: [  ]

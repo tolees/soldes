@@ -5,7 +5,7 @@ date: 2020-08-18 08:14:48
 image: 'https://m.media-amazon.com/images/I/51tZ9XqOq4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFHTQ81-fr Extracteur de Jus Aobosi Sans BPA Extracteur à Jus avec...'
 sku: 'B07DFHTQ81-fr'
 tags: [  ]

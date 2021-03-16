@@ -5,7 +5,7 @@ date: 2020-05-22 22:25:57
 image: 'https://m.media-amazon.com/images/I/41XsfK833UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DW47HCA-fr Tommy Hilfiger - New Chiara Str Pq Polo SSPolo - Femme -...'
 sku: 'B00DW47HCA-fr'
 tags: [  ]

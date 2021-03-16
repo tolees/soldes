@@ -5,7 +5,7 @@ date: 2020-05-22 21:56:02
 image: 'https://m.media-amazon.com/images/I/314QEYI3C0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0052QV9QG-fr EL1600USBFR ELLIP ECO 1600 USB'
 sku: 'B0052QV9QG-fr'
 tags: [  ]

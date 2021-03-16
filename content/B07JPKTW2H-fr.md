@@ -5,7 +5,7 @@ date: 2020-09-29 09:44:52
 image: 'https://m.media-amazon.com/images/I/417PvUXXrmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JPKTW2H-fr Amazon Essentials Half-Zip Active Jacket Outerwear Rose Large'
 sku: 'B07JPKTW2H-fr'
 tags: [  ]

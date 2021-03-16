@@ -5,7 +5,7 @@ date: 2020-08-09 10:44:30
 image: 'https://m.media-amazon.com/images/I/41th4CFxz9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VYCWSXY-fr AUBADE Haut de Maillot de Bain Triangle avec Coques...'
 sku: 'B07VYCWSXY-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 06:16:03
 image: 'https://m.media-amazon.com/images/I/4100hNZvktL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WZT2HZ8-fr Casque Gaming sans Fil Casque Gamer pour PS4 Switch et PC...'
 sku: 'B07WZT2HZ8-fr'
 tags: [  ]

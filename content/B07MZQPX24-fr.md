@@ -5,7 +5,7 @@ date: 2020-05-22 22:57:15
 image: 'https://m.media-amazon.com/images/I/412pewHfMjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZQPX24-fr Pepe Jeans London Slate Pro Boot Baskets Hautes Homme Dark...'
 sku: 'B07MZQPX24-fr'
 tags: [  ]

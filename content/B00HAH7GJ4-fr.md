@@ -5,7 +5,7 @@ date: 2020-09-30 05:39:10
 image: 'https://m.media-amazon.com/images/I/519vaRKegOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HAH7GJ4-fr Slave to The Sword'
 sku: 'B00HAH7GJ4-fr'
 tags: [  ]

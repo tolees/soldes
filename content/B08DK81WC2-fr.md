@@ -5,7 +5,7 @@ date: 2020-08-27 04:08:36
 image: 'https://m.media-amazon.com/images/I/41CUCrNEAvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DK81WC2-fr Disque Dur Externe 2to USB3.0 pour PC Mac Ordinateur de...'
 sku: 'B08DK81WC2-fr'
 tags: [  ]

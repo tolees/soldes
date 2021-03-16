@@ -5,7 +5,7 @@ date: 2020-08-19 11:32:09
 image: 'https://m.media-amazon.com/images/I/41dndfM6dTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6G7HHM-fr Disque Dur Externe 1 to Disque Dur Externe Portable pour...'
 sku: 'B08D6G7HHM-fr'
 tags: [  ]

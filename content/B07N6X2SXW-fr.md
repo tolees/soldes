@@ -5,7 +5,7 @@ date: 2020-05-22 20:46:41
 image: 'https://m.media-amazon.com/images/I/31sN+XNicIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6X2SXW-fr Tommy Hilfiger Cosy High Heel Leather Bootie Botines Femme...'
 sku: 'B07N6X2SXW-fr'
 tags: [  ]

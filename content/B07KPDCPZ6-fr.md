@@ -5,7 +5,7 @@ date: 2020-05-25 08:19:08
 image: 'https://m.media-amazon.com/images/I/41Tew0ZQvtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPDCPZ6-fr GANT The Original Full Zip Hoodie Veste Sweat Bleu Evening...'
 sku: 'B07KPDCPZ6-fr'
 tags: [  ]

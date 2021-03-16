@@ -5,7 +5,7 @@ date: 2020-10-03 03:03:50
 image: 'https://m.media-amazon.com/images/I/41JzvwBkhlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087BRDRYX-fr MENEEA Poignée de boxe pour Nintendo Switch Joy-Con...'
 sku: 'B087BRDRYX-fr'
 tags: [  ]

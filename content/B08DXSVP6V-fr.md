@@ -5,7 +5,7 @@ date: 2020-08-24 04:48:41
 image: 'https://m.media-amazon.com/images/I/41ZilTYqtdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXSVP6V-fr Masseur Sans Fil con 10 Modes de Vitesses Différentes...'
 sku: 'B08DXSVP6V-fr'
 tags: [  ]

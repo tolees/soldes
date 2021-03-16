@@ -5,7 +5,7 @@ date: 2020-05-22 21:36:37
 image: 'https://m.media-amazon.com/images/I/41BN8ySBbzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q4W6SM1-fr WOTEK Bande Élastique Fitness Élastique Musculation Bande...'
 sku: 'B07Q4W6SM1-fr'
 tags: [  ]

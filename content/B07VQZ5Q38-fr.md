@@ -5,7 +5,7 @@ date: 2020-05-22 21:22:22
 image: 'https://m.media-amazon.com/images/I/31Ch3CXO3jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQZ5Q38-fr Marmot Wm s Slingshot Jacket Veste de Neige en Duvet...'
 sku: 'B07VQZ5Q38-fr'
 tags: [  ]

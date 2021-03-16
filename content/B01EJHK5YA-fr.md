@@ -5,7 +5,7 @@ date: 2020-05-22 22:15:13
 image: 'https://m.media-amazon.com/images/I/31At975MRBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01EJHK5YA-fr Panasonic DMP-BDT167 Lecteur DVD Port USB'
 sku: 'B01EJHK5YA-fr'
 tags: [  ]

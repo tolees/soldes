@@ -5,7 +5,7 @@ date: 2020-09-19 18:03:45
 image: 'https://m.media-amazon.com/images/I/51mpmOpeYWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01F64GE1I-fr Oakwood 60901 - Veste en cuir - Col à boutons - Manches...'
 sku: 'B01F64GE1I-fr'
 tags: [  ]

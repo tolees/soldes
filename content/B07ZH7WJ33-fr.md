@@ -5,7 +5,7 @@ date: 2020-07-10 01:23:33
 image: 'https://m.media-amazon.com/images/I/61NWPuT13sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZH7WJ33-fr OSOYOO Starter Updated Version Kit for Micro:bit Include...'
 sku: 'B07ZH7WJ33-fr'
 tags: [  ]

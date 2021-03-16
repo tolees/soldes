@@ -5,7 +5,7 @@ date: 2020-05-23 00:11:40
 image: 'https://m.media-amazon.com/images/I/41AknueRcpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BRB4NR-fr New Balance MRL996V1 Baskets Homme Noir Outer Space 45.5 EU'
 sku: 'B078BRB4NR-fr'
 tags: [  ]

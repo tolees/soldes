@@ -5,7 +5,7 @@ date: 2020-08-09 08:44:09
 image: 'https://m.media-amazon.com/images/I/41UnL0JrDUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGKZPYL-fr Thomas Sabo montre CODE TS unisexe Acier inoxydable...'
 sku: 'B07NGKZPYL-fr'
 tags: [  ]

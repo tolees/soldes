@@ -5,7 +5,7 @@ date: 2020-09-26 08:42:22
 image: 'https://m.media-amazon.com/images/I/515YXxe9PsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GGN5PMF-fr PHYLES Tapis Dessin Enfant Tapis Doodle Matte 87*57cm Aqua...'
 sku: 'B07GGN5PMF-fr'
 tags: [  ]

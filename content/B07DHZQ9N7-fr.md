@@ -5,7 +5,7 @@ date: 2020-08-06 18:51:17
 image: 'https://m.media-amazon.com/images/I/41dBstbjxEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHZQ9N7-fr United Colors of Benetton - 2DQ55K1P4 - Manteau longue -...'
 sku: 'B07DHZQ9N7-fr'
 tags: [  ]

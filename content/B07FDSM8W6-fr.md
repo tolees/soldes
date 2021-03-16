@@ -5,7 +5,7 @@ date: 2020-05-22 20:25:12
 image: 'https://m.media-amazon.com/images/I/41znDQ1Oq5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDSM8W6-fr MIDAS veur Balayeuse portable pression et haute...'
 sku: 'B07FDSM8W6-fr'
 tags: [  ]

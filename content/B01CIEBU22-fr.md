@@ -5,7 +5,7 @@ date: 2020-09-15 11:29:39
 image: 'https://m.media-amazon.com/images/I/41XRcfD13EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CIEBU22-fr SanDisk iXpand 32 Go - Clé USB double connectique pour...'
 sku: 'B01CIEBU22-fr'
 tags: [  ]

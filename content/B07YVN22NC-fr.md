@@ -5,7 +5,7 @@ date: 2020-05-28 15:42:00
 image: 'https://m.media-amazon.com/images/I/41aeTjo3wEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YVN22NC-fr Philips Hue White & Color Ambiance Spot Fugato x2 Noir...'
 sku: 'B07YVN22NC-fr'
 tags: [  ]

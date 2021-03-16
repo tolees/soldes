@@ -5,7 +5,7 @@ date: 2020-09-27 02:06:26
 image: 'https://m.media-amazon.com/images/I/51ttRwoMaYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073DXXCBY-fr FLORA GUARD Outils de Jardinage en Aluminium de 3 pièces...'
 sku: 'B073DXXCBY-fr'
 tags: [  ]

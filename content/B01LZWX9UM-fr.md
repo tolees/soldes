@@ -5,7 +5,7 @@ date: 2020-05-30 13:49:43
 image: 'https://m.media-amazon.com/images/I/41NTcfBUqqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZWX9UM-fr Polti PBEU0100 Unico MCV80 Total Clean & Turbo Aspirateur...'
 sku: 'B01LZWX9UM-fr'
 tags: [  ]

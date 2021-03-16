@@ -5,7 +5,7 @@ date: 2020-05-31 14:39:40
 image: 'https://m.media-amazon.com/images/I/41-+nPB9fvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2FVFSY-fr Laurastar GO Centre de Repassage'
 sku: 'B00F2FVFSY-fr'
 tags: [  ]

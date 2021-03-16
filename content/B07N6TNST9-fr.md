@@ -5,7 +5,7 @@ date: 2020-05-22 20:40:16
 image: 'https://m.media-amazon.com/images/I/51yeD1BlPOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6TNST9-fr Love Moschino Borsa Quilted Nappa Pu Sacs portés dos femme...'
 sku: 'B07N6TNST9-fr'
 tags: [  ]

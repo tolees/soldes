@@ -5,7 +5,7 @@ date: 2020-05-22 20:15:35
 image: 'https://m.media-amazon.com/images/I/41G+J4H9MuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004LECV6W-fr Cuisinart YM400E Yaourtière & Fromagère 6 pots 125 ml + 2...'
 sku: 'B004LECV6W-fr'
 tags: [  ]

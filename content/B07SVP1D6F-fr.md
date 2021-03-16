@@ -5,7 +5,7 @@ date: 2020-09-24 17:27:23
 image: 'https://m.media-amazon.com/images/I/518r0-K3BzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVP1D6F-fr Darksiders - Genesis'
 sku: 'B07SVP1D6F-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:56:51
 image: 'https://m.media-amazon.com/images/I/41WYSvwlVAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W46KROM-fr Sony DSCWX500B Appareils Photo Numérique Capteur CMOS...'
 sku: 'B00W46KROM-fr'
 tags: [  ]

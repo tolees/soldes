@@ -5,7 +5,7 @@ date: 2020-08-23 05:07:22
 image: 'https://m.media-amazon.com/images/I/41X6CoqT-VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F7G3YW4-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3...'
 sku: 'B08F7G3YW4-fr'
 tags: [  ]

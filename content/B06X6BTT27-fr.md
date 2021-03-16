@@ -5,7 +5,7 @@ date: 2020-09-21 15:26:19
 image: 'https://m.media-amazon.com/images/I/31r5nSeM2uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X6BTT27-fr Rowenta VU6620F0 Ventilateur Colonne sur Pied Eole...'
 sku: 'B06X6BTT27-fr'
 tags: [  ]

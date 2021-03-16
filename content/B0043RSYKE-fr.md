@@ -5,7 +5,7 @@ date: 2020-05-23 00:07:24
 image: 'https://m.media-amazon.com/images/I/41MTWOikFAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0043RSYKE-fr Staub 1103425 Cocotte Ronde Noir Mat 34 cm'
 sku: 'B0043RSYKE-fr'
 tags: [  ]

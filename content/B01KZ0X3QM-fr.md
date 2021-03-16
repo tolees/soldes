@@ -5,7 +5,7 @@ date: 2020-10-06 13:27:16
 image: 'https://m.media-amazon.com/images/I/41yJZshNZqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KZ0X3QM-fr BLACK & DECKER FSMH1351SM-QS Balai Vapeur avec Nettoyeur à...'
 sku: 'B01KZ0X3QM-fr'
 tags: [  ]

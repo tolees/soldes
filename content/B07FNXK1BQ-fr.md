@@ -5,7 +5,7 @@ date: 2020-08-30 08:43:31
 image: 'https://m.media-amazon.com/images/I/41h88PREVcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNXK1BQ-fr Seiko Horloge SUR271P1'
 sku: 'B07FNXK1BQ-fr'
 tags: [  ]

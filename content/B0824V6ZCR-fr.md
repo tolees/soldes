@@ -5,7 +5,7 @@ date: 2020-07-24 12:20:23
 image: 'https://m.media-amazon.com/images/I/51xEbldE2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0824V6ZCR-fr Ecouteur Bluetooth Écouteur sans Fil 150h de Lecture...'
 sku: 'B0824V6ZCR-fr'
 tags: [  ]

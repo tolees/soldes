@@ -5,7 +5,7 @@ date: 2020-09-18 10:06:28
 image: 'https://m.media-amazon.com/images/I/41wg2ljnA4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DWZ29N-fr Vistefly VX Aspirateur sans Fil 23KPA 250W Aspirateur...'
 sku: 'B083DWZ29N-fr'
 tags: [  ]

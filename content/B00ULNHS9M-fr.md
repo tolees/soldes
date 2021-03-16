@@ -5,7 +5,7 @@ date: 2020-09-21 15:41:43
 image: 'https://m.media-amazon.com/images/I/31B6sYfcKpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ULNHS9M-fr Samsonite S Cure - Spinner S Bagage à Main 55 cm 34 L...'
 sku: 'B00ULNHS9M-fr'
 tags: [  ]

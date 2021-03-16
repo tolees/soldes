@@ -5,7 +5,7 @@ date: 2020-08-15 00:22:52
 image: 'https://m.media-amazon.com/images/I/41H7Q85D1FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXZ9Z12-fr Disque Dur Externe 1to USB3.0 SATA Stockage HDD pour PC...'
 sku: 'B08DXZ9Z12-fr'
 tags: [  ]

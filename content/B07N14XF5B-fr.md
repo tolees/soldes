@@ -5,7 +5,7 @@ date: 2020-08-29 05:17:06
 image: 'https://m.media-amazon.com/images/I/41Ryve5qPEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N14XF5B-fr Guess W1231L1 Montre Femme'
 sku: 'B07N14XF5B-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 07:09:44
 image: 'https://m.media-amazon.com/images/I/514jASj8jPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KBGRKYB-fr Crocs Crocband Flip Tongs Mixte Adulte Bleu Bright...'
 sku: 'B07KBGRKYB-fr'
 tags: [  ]

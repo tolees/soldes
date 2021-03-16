@@ -5,7 +5,7 @@ date: 2020-08-29 11:25:17
 image: 'https://m.media-amazon.com/images/I/412jXfMiGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RLNHT6-fr GXGPOW Wireless Controller for PC PS3 Android Bluetooth...'
 sku: 'B087RLNHT6-fr'
 tags: [  ]

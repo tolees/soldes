@@ -5,7 +5,7 @@ date: 2020-10-03 11:27:12
 image: 'https://m.media-amazon.com/images/I/41GmU3AhZbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P2BDJTH-fr Superdry Sphere Padded Ultimate Blouson Noir Worn Black...'
 sku: 'B07P2BDJTH-fr'
 tags: [  ]

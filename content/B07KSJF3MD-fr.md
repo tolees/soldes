@@ -5,7 +5,7 @@ date: 2020-08-24 04:56:51
 image: 'https://m.media-amazon.com/images/I/517gx24u7FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSJF3MD-fr Samsung SSD interne 860 QVO 2.5’’ SATA 2 TERA - MZ-76Q2T0BW'
 sku: 'B07KSJF3MD-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 20:33:25
 image: 'https://m.media-amazon.com/images/I/41PU0jrLiEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D917DLD-fr Curvy Kate Sheer Class Maillot Une Pièce Noir Black Black...'
 sku: 'B07D917DLD-fr'
 tags: [  ]

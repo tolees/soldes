@@ -5,7 +5,7 @@ date: 2020-05-22 20:21:08
 image: 'https://m.media-amazon.com/images/I/41h7hqB0xzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S7QG4KG-fr PUMA NRGY Rupture Running Mixte Adulte Black-High Rise...'
 sku: 'B07S7QG4KG-fr'
 tags: [  ]

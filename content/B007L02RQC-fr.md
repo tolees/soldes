@@ -5,7 +5,7 @@ date: 2020-09-10 17:09:33
 image: 'https://m.media-amazon.com/images/I/41-QWdCxuSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007L02RQC-fr Dugena - 7000120 - Montre Femme - Quartz Analogique -...'
 sku: 'B007L02RQC-fr'
 tags: [  ]

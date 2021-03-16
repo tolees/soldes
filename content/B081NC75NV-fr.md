@@ -5,7 +5,7 @@ date: 2020-08-29 11:21:50
 image: 'https://m.media-amazon.com/images/I/41EHps+Qx-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081NC75NV-fr Android 9.0 TV Box【4G+32G】 Android TV Box H6 Quadcore...'
 sku: 'B081NC75NV-fr'
 tags: [  ]

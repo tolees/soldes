@@ -5,7 +5,7 @@ date: 2020-08-29 17:20:42
 image: 'https://m.media-amazon.com/images/I/51bJFRR833L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DX7QM46-fr V Tech Tut Tut Bolides Mon premier garage interactif Éthan...'
 sku: 'B07DX7QM46-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:01:32
 image: 'https://m.media-amazon.com/images/I/31vfkH36uRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0166MUWTY-fr Yamaha - FX310AII - Guitare Folk'
 sku: 'B0166MUWTY-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 08:12:17
 image: 'https://m.media-amazon.com/images/I/51hM6iM1VML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPBKJPT-fr Boite Lumineuse Message avec 300 Lettres et Emojis...'
 sku: 'B07BPBKJPT-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 19:40:35
 image: 'https://m.media-amazon.com/images/I/41s8gObS1yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YN9TP7J-fr Tommy Hilfiger Watch 1782143'
 sku: 'B07YN9TP7J-fr'
 tags: [  ]

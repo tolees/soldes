@@ -5,7 +5,7 @@ date: 2020-08-08 09:28:19
 image: 'https://m.media-amazon.com/images/I/412OdXv34CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071GDJG2B-fr KERBHOLZ Montre en Bois – Collection Masterpieces Franz...'
 sku: 'B071GDJG2B-fr'
 tags: [  ]

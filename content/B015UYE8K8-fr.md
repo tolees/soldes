@@ -5,7 +5,7 @@ date: 2020-05-22 22:08:08
 image: 'https://m.media-amazon.com/images/I/31+POWdqJpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015UYE8K8-fr Beurer TL 50 Lampe de luminothérapie - 10 000 Lux -...'
 sku: 'B015UYE8K8-fr'
 tags: [  ]

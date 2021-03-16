@@ -5,7 +5,7 @@ date: 2020-10-12 16:24:53
 image: 'https://m.media-amazon.com/images/I/41X6XT2yYEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X95RSVM-fr Sauter Spi4362x - Plaque à Induction - Encastrable - 3...'
 sku: 'B00X95RSVM-fr'
 tags: [  ]

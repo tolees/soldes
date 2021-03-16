@@ -5,7 +5,7 @@ date: 2020-05-22 23:24:39
 image: 'https://m.media-amazon.com/images/I/519dph1gaNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016DJ9BBU-fr Safavieh Tapis d inspiration Vintage Tissé Polyester Tapis...'
 sku: 'B016DJ9BBU-fr'
 tags: [  ]

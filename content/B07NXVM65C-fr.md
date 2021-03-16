@@ -5,7 +5,7 @@ date: 2020-10-12 16:25:18
 image: 'https://m.media-amazon.com/images/I/51MJx82g+PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NXVM65C-fr Hairdorables Poupée Serie 2 avec 11 Accessoires Surprises...'
 sku: 'B07NXVM65C-fr'
 tags: [  ]

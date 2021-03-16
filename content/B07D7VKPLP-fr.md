@@ -5,7 +5,7 @@ date: 2020-10-06 11:31:01
 image: 'https://m.media-amazon.com/images/I/41VzROhAaNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D7VKPLP-fr Calvin Klein 3p Low Rise Trunk Caleçon Bleu Black/Blue...'
 sku: 'B07D7VKPLP-fr'
 tags: [  ]

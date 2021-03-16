@@ -5,7 +5,7 @@ date: 2020-09-26 02:09:32
 image: 'https://m.media-amazon.com/images/I/41Mj+LrG0gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WWM2YB6-fr Ice-Watch - ICE lo White turquoise - Montre blanche pour...'
 sku: 'B06WWM2YB6-fr'
 tags: [  ]

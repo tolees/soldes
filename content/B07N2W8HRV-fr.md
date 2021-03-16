@@ -5,7 +5,7 @@ date: 2020-05-23 00:07:01
 image: 'https://m.media-amazon.com/images/I/31koGUO8cOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2W8HRV-fr Tommy Jeans TJM Tommy Classics Sweatpant Pantalon Bleu...'
 sku: 'B07N2W8HRV-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 19:59:40
 image: 'https://m.media-amazon.com/images/I/41i+rGfdBdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RTC48MJ-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt Rose...'
 sku: 'B07RTC48MJ-fr'
 tags: [  ]

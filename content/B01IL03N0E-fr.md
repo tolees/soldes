@@ -5,7 +5,7 @@ date: 2020-08-08 16:27:18
 image: 'https://m.media-amazon.com/images/I/31Q4+xcRn9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IL03N0E-fr Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable...'
 sku: 'B01IL03N0E-fr'
 tags: [  ]

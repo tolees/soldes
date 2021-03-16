@@ -5,7 +5,7 @@ date: 2020-09-25 14:02:55
 image: 'https://m.media-amazon.com/images/I/31nSIQBlrUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DBXTX2P-fr PUMA Cali Wn s Sneakers Basses femme - Blanc Puma White-...'
 sku: 'B07DBXTX2P-fr'
 tags: [  ]

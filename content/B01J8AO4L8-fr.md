@@ -5,7 +5,7 @@ date: 2020-08-24 23:29:33
 image: 'https://m.media-amazon.com/images/I/51-pWDSI5KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J8AO4L8-fr Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec...'
 sku: 'B01J8AO4L8-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 00:11:12
 image: 'https://m.media-amazon.com/images/I/4123vBe8F+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0888BML8X-fr Écouteurs Bluetooth sans Fil Sport IPX7 Étanche Casque...'
 sku: 'B0888BML8X-fr'
 tags: [  ]

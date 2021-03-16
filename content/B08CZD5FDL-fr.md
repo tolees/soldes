@@ -5,7 +5,7 @@ date: 2020-08-13 12:45:59
 image: 'https://m.media-amazon.com/images/I/517HucHVDSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZD5FDL-fr Ucradle Jeu Boulier Jouet Bois Labyrinthe Jeux Montessori...'
 sku: 'B08CZD5FDL-fr'
 tags: [  ]

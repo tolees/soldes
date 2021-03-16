@@ -5,7 +5,7 @@ date: 2020-05-22 21:40:37
 image: 'https://m.media-amazon.com/images/I/41ILw2WnCWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TBHVJ2-fr BaByliss Paris - AS500E - Brosse soufflante rortative...'
 sku: 'B077TBHVJ2-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 16:47:55
 image: 'https://m.media-amazon.com/images/I/51WQPdCDThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q2RKTPK-fr AUBADE Soutien-gorge triangle Bretelles réglables THE BOW...'
 sku: 'B07Q2RKTPK-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 21:30:13
 image: 'https://m.media-amazon.com/images/I/41L+YIox+cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2WEY7S-fr Reebok Club C 85 Sneakers Basses Homme - Blanc Intense...'
 sku: 'B01N2WEY7S-fr'
 tags: [  ]

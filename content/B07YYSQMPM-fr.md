@@ -5,7 +5,7 @@ date: 2020-08-10 16:54:19
 image: 'https://m.media-amazon.com/images/I/41MUW9Wdb2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYSQMPM-fr Silvian Heach Skirt Remire Jupe Jaune Lime Fluo Lime Fluo...'
 sku: 'B07YYSQMPM-fr'
 tags: [  ]

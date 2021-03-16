@@ -5,7 +5,7 @@ date: 2020-08-09 10:03:17
 image: 'https://m.media-amazon.com/images/I/41W34RRWFuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6T8VX1-fr Siméo PLC410 Plancha électrique'
 sku: 'B07J6T8VX1-fr'
 tags: [  ]

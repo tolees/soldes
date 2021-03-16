@@ -5,7 +5,7 @@ date: 2020-09-18 11:27:59
 image: 'https://m.media-amazon.com/images/I/41QNMfDpJ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BRVL1FL-fr Bosch Professional Meuleuse d angle Filaire GWS 18–125 SL...'
 sku: 'B07BRVL1FL-fr'
 tags: [  ]

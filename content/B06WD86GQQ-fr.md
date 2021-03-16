@@ -5,7 +5,7 @@ date: 2020-09-17 06:29:41
 image: 'https://m.media-amazon.com/images/I/41o7mHxKOyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WD86GQQ-fr Krups YY2931FD Machine à Bière Pression Beertender Avec...'
 sku: 'B06WD86GQQ-fr'
 tags: [  ]

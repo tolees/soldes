@@ -5,7 +5,7 @@ date: 2020-05-30 13:49:47
 image: 'https://m.media-amazon.com/images/I/41a6clmu8BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFQPYR1-fr GT Spirit- Voiture Miniature de Collection GT217 British...'
 sku: 'B07PFQPYR1-fr'
 tags: [  ]

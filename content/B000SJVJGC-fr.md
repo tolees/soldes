@@ -5,7 +5,7 @@ date: 2020-10-10 06:27:26
 image: 'https://m.media-amazon.com/images/I/41oDi43ffwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000SJVJGC-fr GYMNIC - 70.12 - Cheval Gonflable - Rody en Jaune'
 sku: 'B000SJVJGC-fr'
 tags: [  ]

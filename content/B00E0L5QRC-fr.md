@@ -5,7 +5,7 @@ date: 2020-09-27 16:43:18
 image: 'https://m.media-amazon.com/images/I/31amEdyn8IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E0L5QRC-fr GROSFILLEX Vega Table Taupe 118 x 77 x 72 cm'
 sku: 'B00E0L5QRC-fr'
 tags: [  ]

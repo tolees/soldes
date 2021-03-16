@@ -5,7 +5,7 @@ date: 2020-08-12 18:16:17
 image: 'https://m.media-amazon.com/images/I/41QobUYHk3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G5X5NLK-fr Holy Stone HS160 RC Drone Pliable avec Caméra HD 720P WiFi...'
 sku: 'B07G5X5NLK-fr'
 tags: [  ]

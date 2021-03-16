@@ -5,7 +5,7 @@ date: 2020-08-06 10:04:22
 image: 'https://m.media-amazon.com/images/I/41hZhOm4isL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079LNW2RF-fr cbx Poussette Yoki Ultra-Compacte Habillage pluie inclus...'
 sku: 'B079LNW2RF-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 10:54:16
 image: 'https://m.media-amazon.com/images/I/41IPbpMIeIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKJQPGQ-fr The North Face Canyonlands Sweat à Capuche Homme Gris TNF...'
 sku: 'B07FKJQPGQ-fr'
 tags: [  ]

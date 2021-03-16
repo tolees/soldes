@@ -5,7 +5,7 @@ date: 2020-09-27 18:27:31
 image: 'https://m.media-amazon.com/images/I/312dNmLTwbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TPYWFVS-fr Clarks Foxwell Hall Derbys Homme Noir Black SDE Black SDE...'
 sku: 'B07TPYWFVS-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 17:03:52
 image: 'https://m.media-amazon.com/images/I/41ERhHz05vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFRK1LY-fr Ceintures de Sudation Ceinture De Sudation Homme et Femme...'
 sku: 'B08DFRK1LY-fr'
 tags: [  ]

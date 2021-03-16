@@ -5,7 +5,7 @@ date: 2020-09-29 14:43:25
 image: 'https://m.media-amazon.com/images/I/41R6naqMBNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HDLN59B-fr Android TV Box Android 7.1 2G+16G Boitier Android TV Mini...'
 sku: 'B08HDLN59B-fr'
 tags: [  ]

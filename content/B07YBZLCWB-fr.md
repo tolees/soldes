@@ -5,7 +5,7 @@ date: 2020-05-28 20:32:06
 image: 'https://m.media-amazon.com/images/I/515p3BGHB5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YBZLCWB-fr 2X Hochstern BL1860B 5500mAh batterie Remplacement pour...'
 sku: 'B07YBZLCWB-fr'
 tags: [  ]

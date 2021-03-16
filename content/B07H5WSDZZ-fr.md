@@ -5,7 +5,7 @@ date: 2020-05-22 21:36:57
 image: 'https://m.media-amazon.com/images/I/51gUs1ViOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5WSDZZ-fr Sac à dos Thule Crossover 2 20L Noir ordinateur 13 - 14...'
 sku: 'B07H5WSDZZ-fr'
 tags: [  ]

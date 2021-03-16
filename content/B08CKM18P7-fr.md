@@ -5,7 +5,7 @@ date: 2020-08-29 17:15:18
 image: 'https://m.media-amazon.com/images/I/413F-j4XDhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CKM18P7-fr Disque Dur Externe 1to USB3.0 Disque Dur Externe pour PC...'
 sku: 'B08CKM18P7-fr'
 tags: [  ]

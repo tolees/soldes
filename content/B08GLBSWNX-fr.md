@@ -5,7 +5,7 @@ date: 2020-09-14 09:12:06
 image: 'https://m.media-amazon.com/images/I/41e++9OBNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLBSWNX-fr Disque Dur Externe 1to USB 3.0 Disque Dur Externe pour PC...'
 sku: 'B08GLBSWNX-fr'
 tags: [  ]

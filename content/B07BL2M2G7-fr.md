@@ -5,7 +5,7 @@ date: 2020-05-22 20:31:35
 image: 'https://m.media-amazon.com/images/I/41dxRDA2SWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL2M2G7-fr New Balance 1500v5 Running Femme Blanc White/Green...'
 sku: 'B07BL2M2G7-fr'
 tags: [  ]

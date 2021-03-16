@@ -5,7 +5,7 @@ date: 2020-08-12 15:27:24
 image: 'https://m.media-amazon.com/images/I/41vzIRTzL2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVMLZZ6-fr FBSPORT Airtrack 20 cm Épaisseur Air Spot Gonflable 140 cm...'
 sku: 'B07ZVMLZZ6-fr'
 tags: [  ]

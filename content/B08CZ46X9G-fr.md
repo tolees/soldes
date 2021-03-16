@@ -5,7 +5,7 @@ date: 2020-08-10 18:41:19
 image: 'https://m.media-amazon.com/images/I/317A9Kb3OiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZ46X9G-fr Disque Dur Externe 2to Disque Dur Externe USB3.1 Type-C...'
 sku: 'B08CZ46X9G-fr'
 tags: [  ]

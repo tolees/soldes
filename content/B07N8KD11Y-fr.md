@@ -5,7 +5,7 @@ date: 2020-05-30 10:04:40
 image: 'https://m.media-amazon.com/images/I/31JQL-xR9jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8KD11Y-fr Hugo Atom Runn neoem Sneakers Basses Homme Bleu Navy 401...'
 sku: 'B07N8KD11Y-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 11:52:16
 image: 'https://m.media-amazon.com/images/I/51edrxY6jBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752P4WMB-fr Saint Honoré Femme Analogique Quartz Montre avec Bracelet...'
 sku: 'B0752P4WMB-fr'
 tags: [  ]

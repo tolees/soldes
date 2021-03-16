@@ -5,7 +5,7 @@ date: 2020-09-12 14:46:31
 image: 'https://m.media-amazon.com/images/I/31DO3x0A19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006ZIDSUU-fr sloggi Basic+ Midi 3P Culotte Femme Blanc Taille 44 Lot de 3'
 sku: 'B006ZIDSUU-fr'
 tags: [  ]

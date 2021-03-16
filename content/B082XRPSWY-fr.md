@@ -5,7 +5,7 @@ date: 2020-05-30 16:58:30
 image: 'https://m.media-amazon.com/images/I/41H4HBNIFXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082XRPSWY-fr Tiges de son mâles lisses et durables en silicone...'
 sku: 'B082XRPSWY-fr'
 tags: [  ]

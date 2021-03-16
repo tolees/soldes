@@ -5,7 +5,7 @@ date: 2020-08-12 18:19:48
 image: 'https://m.media-amazon.com/images/I/51GYnT3H-zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0887WZPWD-fr Teakpeak Maquette Architecture 1167pièces Fleur de...'
 sku: 'B0887WZPWD-fr'
 tags: [  ]

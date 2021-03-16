@@ -5,7 +5,7 @@ date: 2020-05-22 21:25:11
 image: 'https://m.media-amazon.com/images/I/418SKOgwSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8T29SN-fr Tommy Hilfiger Essential Computer Bag Sacs pour ordinateur...'
 sku: 'B07N8T29SN-fr'
 tags: [  ]

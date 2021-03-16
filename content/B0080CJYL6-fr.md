@@ -5,7 +5,7 @@ date: 2020-05-28 09:52:02
 image: 'https://m.media-amazon.com/images/I/5149QubCr4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0080CJYL6-fr Gre CIPROV611 - Couverture d’hiver pour piscine ovale ou...'
 sku: 'B0080CJYL6-fr'
 tags: [  ]

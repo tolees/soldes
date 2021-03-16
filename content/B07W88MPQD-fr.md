@@ -5,7 +5,7 @@ date: 2020-09-16 05:03:18
 image: 'https://m.media-amazon.com/images/I/41z+0rMY9LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W88MPQD-fr Orfeld Aspirateur Balai Sans Fil 18000Pa 2 en 1 Aspirateur...'
 sku: 'B07W88MPQD-fr'
 tags: [  ]

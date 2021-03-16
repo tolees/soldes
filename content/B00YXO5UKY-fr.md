@@ -5,7 +5,7 @@ date: 2020-09-23 22:51:59
 image: 'https://m.media-amazon.com/images/I/41c6gKlbUvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00YXO5UKY-fr Turtle Beach Recon 50P Casque Gaming - PS4 PS5 Xbox One...'
 sku: 'B00YXO5UKY-fr'
 tags: [  ]

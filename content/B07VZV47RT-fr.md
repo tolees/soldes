@@ -5,7 +5,7 @@ date: 2020-05-22 22:34:50
 image: 'https://m.media-amazon.com/images/I/51Asmu9idPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZV47RT-fr HOHAI Parure de lit 3 pièces Marilyn Monroe 3D avec housse...'
 sku: 'B07VZV47RT-fr'
 tags: [  ]

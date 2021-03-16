@@ -5,7 +5,7 @@ date: 2020-05-22 21:09:54
 image: 'https://m.media-amazon.com/images/I/417ozdovJEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HQH8XXB-fr Cadisen Montres pour Homme Minimaliste Mode Noir Montres...'
 sku: 'B07HQH8XXB-fr'
 tags: [  ]

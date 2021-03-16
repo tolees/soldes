@@ -5,7 +5,7 @@ date: 2020-08-04 21:04:22
 image: 'https://m.media-amazon.com/images/I/41rznlS96gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RC8HK4M-fr Columbia Mission Air Veste Modulable pour Homme'
 sku: 'B07RC8HK4M-fr'
 tags: [  ]

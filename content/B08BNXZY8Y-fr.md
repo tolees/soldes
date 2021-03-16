@@ -5,7 +5,7 @@ date: 2020-08-21 05:07:44
 image: 'https://m.media-amazon.com/images/I/41OngLD+PKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNXZY8Y-fr RAMPOW Câble USB C vers USB C 1m - Câble USB Type C Charge...'
 sku: 'B08BNXZY8Y-fr'
 tags: [  ]

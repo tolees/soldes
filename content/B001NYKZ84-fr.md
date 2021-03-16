@@ -5,7 +5,7 @@ date: 2020-05-22 19:51:22
 image: 'https://m.media-amazon.com/images/I/412t5r87ogL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001NYKZ84-fr Reebok Classic Leather Baskets Basses Femme Noir Black 38 EU'
 sku: 'B001NYKZ84-fr'
 tags: [  ]

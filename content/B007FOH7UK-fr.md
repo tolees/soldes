@@ -5,7 +5,7 @@ date: 2020-10-12 07:37:01
 image: 'https://m.media-amazon.com/images/I/51g24SRuftL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007FOH7UK-fr Secret World [Blu-ray]'
 sku: 'B007FOH7UK-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 11:02:17
 image: 'https://m.media-amazon.com/images/I/41aqxFewIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F9RSW9D-fr REDSTORM Manette PC/PS3 Manette Switch 5 Niveaux de LED...'
 sku: 'B08F9RSW9D-fr'
 tags: [  ]

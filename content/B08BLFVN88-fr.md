@@ -5,7 +5,7 @@ date: 2020-08-14 18:32:40
 image: 'https://m.media-amazon.com/images/I/51aRK6xtdGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLFVN88-fr MOONESS Coque Xiaomi Redmi 9 + Verre Trempé Housse en Cuir...'
 sku: 'B08BLFVN88-fr'
 tags: [  ]

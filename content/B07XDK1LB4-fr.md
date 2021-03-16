@@ -5,7 +5,7 @@ date: 2020-07-16 06:29:51
 image: 'https://m.media-amazon.com/images/I/41u6MxRBwIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XDK1LB4-fr Polarduck Support Mural TV pour écrans 23-55 Pouces 58-140...'
 sku: 'B07XDK1LB4-fr'
 tags: [  ]

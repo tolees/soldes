@@ -5,7 +5,7 @@ date: 2020-06-01 06:43:23
 image: 'https://m.media-amazon.com/images/I/41TQvUZWoKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSNB13H-fr Philips GC8962/40 Centrale Vapeur PerfectCare Expert Plus...'
 sku: 'B07FSNB13H-fr'
 tags: [  ]

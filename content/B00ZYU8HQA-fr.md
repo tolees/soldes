@@ -5,7 +5,7 @@ date: 2020-09-25 15:08:42
 image: 'https://m.media-amazon.com/images/I/518tDS5C8zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZYU8HQA-fr Perel E390F2 Prise Femelle-IP44-Terre Française Multicolore'
 sku: 'B00ZYU8HQA-fr'
 tags: [  ]

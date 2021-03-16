@@ -5,7 +5,7 @@ date: 2020-08-06 15:27:43
 image: 'https://m.media-amazon.com/images/I/41j9SnufOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S2SXBJW-fr Levi s 514 Jeans Droits Homme Bleu Dryers Supper Adv 1330...'
 sku: 'B07S2SXBJW-fr'
 tags: [  ]

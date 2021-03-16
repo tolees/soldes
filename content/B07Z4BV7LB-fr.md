@@ -5,7 +5,7 @@ date: 2020-08-06 17:43:39
 image: 'https://m.media-amazon.com/images/I/31mK4mxlJTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z4BV7LB-fr Comma 8t.002.85.1022 Combinaison Rosa Powder Rose 8022 42...'
 sku: 'B07Z4BV7LB-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:25:36
 image: 'https://m.media-amazon.com/images/I/41OYPhfkE2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QD1GW9N-fr Nike WMNS AIR Max Motion 2 Chaussures de Running Femme...'
 sku: 'B07QD1GW9N-fr'
 tags: [  ]

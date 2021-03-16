@@ -5,7 +5,7 @@ date: 2020-08-06 18:07:04
 image: 'https://m.media-amazon.com/images/I/41c9fQLY8RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMHFJJX-fr Chie Mihara zuleica36 Ballerines à Bride Cheville Femmes...'
 sku: 'B07YMHFJJX-fr'
 tags: [  ]

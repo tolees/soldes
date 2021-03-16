@@ -5,7 +5,7 @@ date: 2020-08-07 07:44:34
 image: 'https://m.media-amazon.com/images/I/41hELWNaypL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K2LF22M-fr Under Armour UA SC 3ZER0 III Chaussures de Basketball...'
 sku: 'B07K2LF22M-fr'
 tags: [  ]

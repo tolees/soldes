@@ -5,7 +5,7 @@ date: 2020-08-08 17:21:20
 image: 'https://m.media-amazon.com/images/I/412jns2jjLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGJYBRT-fr Chie Mihara Janis Escarpins Bride Cheville Femmes Rose...'
 sku: 'B07YGJYBRT-fr'
 tags: [  ]

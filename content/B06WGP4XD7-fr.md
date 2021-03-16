@@ -5,7 +5,7 @@ date: 2020-10-12 00:15:11
 image: 'https://m.media-amazon.com/images/I/516UgePFYzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGP4XD7-fr PlayStation 2 Console de Jeux Noir Portefeuille'
 sku: 'B06WGP4XD7-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-12 20:03:58
 image: 'https://m.media-amazon.com/images/I/51wjNDU+wuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TQ81XF5-fr VTech RockIt Twist - Console de jeux éducative pour enfant...'
 sku: 'B07TQ81XF5-fr'
 tags: [  ]

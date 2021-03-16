@@ -5,7 +5,7 @@ date: 2020-10-07 18:59:57
 image: 'https://m.media-amazon.com/images/I/319r85I23uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FGLJTW-fr Lacoste BH1966 Veste Noir 50 Homme'
 sku: 'B083FGLJTW-fr'
 tags: [  ]

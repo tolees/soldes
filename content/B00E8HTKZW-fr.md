@@ -5,7 +5,7 @@ date: 2020-10-03 07:02:15
 image: 'https://m.media-amazon.com/images/I/41gzVv0pgKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E8HTKZW-fr Sweetnight - Surmatelas Luxe 160x200 cm | Ultra Moelleux...'
 sku: 'B00E8HTKZW-fr'
 tags: [  ]

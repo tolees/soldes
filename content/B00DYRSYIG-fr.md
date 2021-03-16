@@ -5,7 +5,7 @@ date: 2020-08-07 21:27:35
 image: 'https://m.media-amazon.com/images/I/41m+YEA-MtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DYRSYIG-fr Helly Hansen 76493 369-C44 Bridgewater Pantalon de pirate...'
 sku: 'B00DYRSYIG-fr'
 tags: [  ]

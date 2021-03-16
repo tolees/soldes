@@ -5,7 +5,7 @@ date: 2020-09-26 20:09:28
 image: 'https://m.media-amazon.com/images/I/41a6HqxzbrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078BG4RJD-fr eXtremeRate Support Vertical Noir pour Xbox One X Console'
 sku: 'B078BG4RJD-fr'
 tags: [  ]

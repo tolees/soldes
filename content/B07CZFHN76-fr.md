@@ -5,7 +5,7 @@ date: 2020-09-14 06:47:56
 image: 'https://m.media-amazon.com/images/I/41a3wv16CJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZFHN76-fr Brosse nettoyante sonique pour le visage en silicone...'
 sku: 'B07CZFHN76-fr'
 tags: [  ]

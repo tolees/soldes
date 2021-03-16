@@ -5,7 +5,7 @@ date: 2020-09-28 20:43:21
 image: 'https://m.media-amazon.com/images/I/41+Xhm-HfiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QXNQ1BH-fr LBLA Sac de Sport Femmes Grande Capacité Gym Fitness Sac...'
 sku: 'B07QXNQ1BH-fr'
 tags: [  ]

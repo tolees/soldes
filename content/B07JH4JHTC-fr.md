@@ -5,7 +5,7 @@ date: 2020-05-22 22:15:51
 image: 'https://m.media-amazon.com/images/I/41j2gpNKy8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JH4JHTC-fr Fluval 307 External Filter'
 sku: 'B07JH4JHTC-fr'
 tags: [  ]

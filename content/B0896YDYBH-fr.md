@@ -5,7 +5,7 @@ date: 2020-08-05 00:14:56
 image: 'https://m.media-amazon.com/images/I/41vv8bcdOgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0896YDYBH-fr Manette Switch Manette sans Fil Bluetooth pour Nintendo...'
 sku: 'B0896YDYBH-fr'
 tags: [  ]

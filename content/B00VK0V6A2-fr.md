@@ -5,7 +5,7 @@ date: 2020-05-22 23:36:43
 image: 'https://m.media-amazon.com/images/I/41wPcjf9j7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VK0V6A2-fr De Longhi Machine à Café à Pompe et Cafetière Filtre...'
 sku: 'B00VK0V6A2-fr'
 tags: [  ]

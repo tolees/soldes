@@ -5,7 +5,7 @@ date: 2020-08-25 17:28:02
 image: 'https://m.media-amazon.com/images/I/41xOA3kH0dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP4NFHK-fr Nike M NSW TCH FLC Hoodie FZ Sweat-Shirt Homme Bleu...'
 sku: 'B07FP4NFHK-fr'
 tags: [  ]

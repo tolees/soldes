@@ -5,7 +5,7 @@ date: 2020-05-22 23:31:31
 image: 'https://m.media-amazon.com/images/I/41c2aJ6U14L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNQ9W3W-fr Seafolly Water Garden Twist Halter Singlet Haut De Maillot...'
 sku: 'B07FNQ9W3W-fr'
 tags: [  ]

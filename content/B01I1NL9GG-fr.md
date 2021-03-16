@@ -5,7 +5,7 @@ date: 2020-05-22 21:40:48
 image: 'https://m.media-amazon.com/images/I/41gFV6EBVZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I1NL9GG-fr FAGOR FG293 Aspirateur balai 2 en 1 Rouge 0 5 L 1800 W'
 sku: 'B01I1NL9GG-fr'
 tags: [  ]

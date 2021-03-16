@@ -5,7 +5,7 @@ date: 2020-08-09 05:28:22
 image: 'https://m.media-amazon.com/images/I/41ZRQ9vzGML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WT24HD-fr Seb YG660100 Yaourtière Multi Délices Express 6 Pots 600W...'
 sku: 'B078WT24HD-fr'
 tags: [  ]

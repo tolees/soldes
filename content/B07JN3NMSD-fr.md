@@ -5,7 +5,7 @@ date: 2020-05-22 23:42:31
 image: 'https://m.media-amazon.com/images/I/31Cz4waw5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN3NMSD-fr CCcollections Combinaison en Coton Naturel et Tons ocres...'
 sku: 'B07JN3NMSD-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:31:07
 image: 'https://m.media-amazon.com/images/I/41gPKFbuqdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1BW9TH-fr Marc O Polo 90725005001300 Bottes & Bottines Classiques...'
 sku: 'B07N1BW9TH-fr'
 tags: [  ]

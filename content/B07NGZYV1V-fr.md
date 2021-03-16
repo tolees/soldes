@@ -5,7 +5,7 @@ date: 2020-08-06 09:03:55
 image: 'https://m.media-amazon.com/images/I/31ywFFzOtWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGZYV1V-fr Strellson Premium Cale-Madden Costume Gris Grey 019 48...'
 sku: 'B07NGZYV1V-fr'
 tags: [  ]

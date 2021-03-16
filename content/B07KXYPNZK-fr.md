@@ -5,7 +5,7 @@ date: 2020-08-10 21:27:35
 image: 'https://m.media-amazon.com/images/I/41e77a49xGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KXYPNZK-fr Millet – Ubic 40 – Sac à Dos de Montagne Unisexe –...'
 sku: 'B07KXYPNZK-fr'
 tags: [  ]

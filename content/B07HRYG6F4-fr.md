@@ -5,7 +5,7 @@ date: 2020-05-22 21:29:17
 image: 'https://m.media-amazon.com/images/I/41xpI6aII8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRYG6F4-fr J&K Markets Couette Microfibre 240x260cm- 750gr/m² - Grand...'
 sku: 'B07HRYG6F4-fr'
 tags: [  ]

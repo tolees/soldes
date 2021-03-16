@@ -5,7 +5,7 @@ date: 2020-05-22 21:14:27
 image: 'https://m.media-amazon.com/images/I/51uWpxqV73L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008B48AAE-fr Sigma Objectif Macro 18-250 mm F3 5-6 3 DC OS HSM -...'
 sku: 'B008B48AAE-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-14 10:28:20
 image: 'https://m.media-amazon.com/images/I/41yywYx40mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013YL0ROK-fr Golden Eagle brand new Superbe sculpture de décoration en...'
 sku: 'B013YL0ROK-fr'
 tags: [  ]

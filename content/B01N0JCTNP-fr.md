@@ -5,7 +5,7 @@ date: 2020-05-22 21:01:46
 image: 'https://m.media-amazon.com/images/I/41Op1J936oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0JCTNP-fr Calvin Klein Jeans Dora Canvas Sneakers Basses Femme Rose...'
 sku: 'B01N0JCTNP-fr'
 tags: [  ]

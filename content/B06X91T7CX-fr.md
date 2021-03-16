@@ -5,7 +5,7 @@ date: 2020-10-02 13:06:56
 image: 'https://m.media-amazon.com/images/I/51Mq+1D6AVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X91T7CX-fr GreedFall'
 sku: 'B06X91T7CX-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 14:26:39
 image: 'https://m.media-amazon.com/images/I/41qB5r8al3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QKV4P5Q-fr Britax Römer Siège-auto Naissance-18 kg | DUALFIX2 R |...'
 sku: 'B07QKV4P5Q-fr'
 tags: [  ]

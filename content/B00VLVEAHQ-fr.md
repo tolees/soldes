@@ -5,7 +5,7 @@ date: 2020-06-05 01:33:18
 image: 'https://m.media-amazon.com/images/I/61yGl2+GAVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VLVEAHQ-fr Playmobil - 5303 - Maison Traditionnelle'
 sku: 'B00VLVEAHQ-fr'
 tags: [  ]

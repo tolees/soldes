@@ -5,7 +5,7 @@ date: 2020-08-21 04:59:00
 image: 'https://m.media-amazon.com/images/I/41Cn1I27FUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0861CV1GZ-fr Muzili Écouteurs Bluetooth sans Fil Sport Étanches IPX7...'
 sku: 'B0861CV1GZ-fr'
 tags: [  ]

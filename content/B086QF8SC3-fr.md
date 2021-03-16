@@ -5,7 +5,7 @@ date: 2020-09-22 22:46:36
 image: 'https://m.media-amazon.com/images/I/41PVu5MCHjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QF8SC3-fr ASUS Vivobook S S413DA-EK069T PC Portable 14 FHD AMD Ryzen...'
 sku: 'B086QF8SC3-fr'
 tags: [  ]

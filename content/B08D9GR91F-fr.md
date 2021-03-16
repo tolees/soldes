@@ -5,7 +5,7 @@ date: 2020-09-07 13:45:50
 image: 'https://m.media-amazon.com/images/I/31pWkY4ROML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D9GR91F-fr KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D...'
 sku: 'B08D9GR91F-fr'
 tags: [  ]

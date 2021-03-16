@@ -5,7 +5,7 @@ date: 2020-09-18 10:01:56
 image: 'https://m.media-amazon.com/images/I/413bQkJJozL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GFR6RPY-fr AIMOS Commutateur KVM DVI 2 Ports KVM Switch Boîtier De...'
 sku: 'B08GFR6RPY-fr'
 tags: [  ]

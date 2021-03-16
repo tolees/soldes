@@ -5,7 +5,7 @@ date: 2020-06-11 08:56:10
 image: 'https://m.media-amazon.com/images/I/61xXc8k70kL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008BGNFWA-fr Lansay - 75024 - Jeu de Société - Les Mystères de Pékin'
 sku: 'B008BGNFWA-fr'
 tags: [  ]

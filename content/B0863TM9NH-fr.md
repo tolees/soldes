@@ -5,7 +5,7 @@ date: 2020-06-12 00:00:09
 image: 'https://m.media-amazon.com/images/I/51Y2X10x5+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0863TM9NH-fr Birds of Prey et la fantabuleuse Histoire de Harley Quinn'
 sku: 'B0863TM9NH-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 00:07:56
 image: 'https://m.media-amazon.com/images/I/41p5Dnn9kiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WJ0PTRI-fr Cerruti 1881 Hommes Analogique Quartz Montre avec Bracelet...'
 sku: 'B00WJ0PTRI-fr'
 tags: [  ]

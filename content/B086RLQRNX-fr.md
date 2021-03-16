@@ -5,7 +5,7 @@ date: 2020-08-24 23:51:43
 image: 'https://m.media-amazon.com/images/I/51Hm8eFgQoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RLQRNX-fr CubicFun 3D Puzzle Harry Potter Poudlard Castle School...'
 sku: 'B086RLQRNX-fr'
 tags: [  ]

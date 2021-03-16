@@ -5,7 +5,7 @@ date: 2020-08-18 05:25:10
 image: 'https://m.media-amazon.com/images/I/41aqxFewIwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0875TTF6H-fr Manette PC PS3 Filaire Manette PC Manette PS3 avec Double...'
 sku: 'B0875TTF6H-fr'
 tags: [  ]

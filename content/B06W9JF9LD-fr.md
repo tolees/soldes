@@ -5,7 +5,7 @@ date: 2020-09-30 12:39:38
 image: 'https://m.media-amazon.com/images/I/51ZuTA-BkdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9JF9LD-fr LUDI – Tapis de sol épais pour l’éveil de bébé – 10006 -...'
 sku: 'B06W9JF9LD-fr'
 tags: [  ]

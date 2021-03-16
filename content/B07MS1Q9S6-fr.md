@@ -5,7 +5,7 @@ date: 2020-10-05 13:44:19
 image: 'https://m.media-amazon.com/images/I/41bHxW1FTTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MS1Q9S6-fr RECCI sur Matelas a Memoire de Forme de 6cm Surmatelas...'
 sku: 'B07MS1Q9S6-fr'
 tags: [  ]

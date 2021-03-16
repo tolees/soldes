@@ -5,7 +5,7 @@ date: 2020-05-22 20:02:50
 image: 'https://m.media-amazon.com/images/I/41XZWugeYaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BF5MR2W-fr s.Oliver BLACK LABEL 02.899.73.4420 Pantalon De Costume...'
 sku: 'B07BF5MR2W-fr'
 tags: [  ]

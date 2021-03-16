@@ -5,7 +5,7 @@ date: 2020-07-16 05:41:35
 image: 'https://m.media-amazon.com/images/I/5143T+yRHNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087JC4GBS-fr SMYTU Coque Xiaomi Redmi Note 9s/Note 9 Pro Gris Housse en...'
 sku: 'B087JC4GBS-fr'
 tags: [  ]

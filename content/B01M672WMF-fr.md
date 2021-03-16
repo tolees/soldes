@@ -5,7 +5,7 @@ date: 2020-10-06 11:46:41
 image: 'https://m.media-amazon.com/images/I/61U3UOfIp4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M672WMF-fr Jouets Ecoiffier – 2644 - Pack Drive 100 % Chef –...'
 sku: 'B01M672WMF-fr'
 tags: [  ]

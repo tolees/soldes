@@ -5,7 +5,7 @@ date: 2020-05-22 22:18:35
 image: 'https://m.media-amazon.com/images/I/41uQSZU5sGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MFAED0E-fr Babymoov - Nutribaby + Robot Multifonctions 5 en 1 Grande...'
 sku: 'B01MFAED0E-fr'
 tags: [  ]

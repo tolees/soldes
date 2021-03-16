@@ -5,7 +5,7 @@ date: 2020-09-18 10:45:37
 image: 'https://m.media-amazon.com/images/I/41KttnvuAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TBCZ46-fr Hauck Sport Poussette jusqu à 18 kg avec Position Couchée...'
 sku: 'B077TBCZ46-fr'
 tags: [  ]

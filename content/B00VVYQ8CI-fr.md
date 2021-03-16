@@ -5,7 +5,7 @@ date: 2020-05-22 23:45:50
 image: 'https://m.media-amazon.com/images/I/31b1mfkSEDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VVYQ8CI-fr G-STAR RAW 3301 Slim Jeans DK Aged 5245-89 28W / 32L Homme'
 sku: 'B00VVYQ8CI-fr'
 tags: [  ]

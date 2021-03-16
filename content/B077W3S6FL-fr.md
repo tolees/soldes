@@ -5,7 +5,7 @@ date: 2020-05-22 22:34:57
 image: 'https://m.media-amazon.com/images/I/51FjZJMLblL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077W3S6FL-fr ASICS Gel-Kayano 24 Chaussures de Running Homme Bleu Smoke...'
 sku: 'B077W3S6FL-fr'
 tags: [  ]

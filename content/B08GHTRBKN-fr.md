@@ -5,7 +5,7 @@ date: 2020-09-18 10:02:12
 image: 'https://m.media-amazon.com/images/I/41rwgEiEMYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GHTRBKN-fr Coque de Protection pour Switch en TPU Souple et 8 X...'
 sku: 'B08GHTRBKN-fr'
 tags: [  ]

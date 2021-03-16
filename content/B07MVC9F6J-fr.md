@@ -5,7 +5,7 @@ date: 2020-08-09 12:38:37
 image: 'https://m.media-amazon.com/images/I/41cU+f6IKzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MVC9F6J-fr Napapijri Axstral Blouson Noir Black 041 X-Large Homme'
 sku: 'B07MVC9F6J-fr'
 tags: [  ]

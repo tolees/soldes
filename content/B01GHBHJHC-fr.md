@@ -5,7 +5,7 @@ date: 2020-08-04 21:03:19
 image: 'https://m.media-amazon.com/images/I/41sUv98xbwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GHBHJHC-fr Qts Italy mi-to Distributeur de papier toilette Jumbo en...'
 sku: 'B01GHBHJHC-fr'
 tags: [  ]

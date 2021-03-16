@@ -5,7 +5,7 @@ date: 2020-05-25 18:34:50
 image: 'https://m.media-amazon.com/images/I/31KtNnzgrCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGZCT94-fr Rowenta Ventilateur sur Pied Mosquito Silence avec...'
 sku: 'B07NGZCT94-fr'
 tags: [  ]

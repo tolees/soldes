@@ -5,7 +5,7 @@ date: 2020-05-24 19:44:21
 image: 'https://m.media-amazon.com/images/I/41-d90cq++L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYRF8L1-fr MILLET Tekapo Hoodie M Veste Polaire Homme Black-Noir FR :...'
 sku: 'B07YYRF8L1-fr'
 tags: [  ]

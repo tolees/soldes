@@ -5,7 +5,7 @@ date: 2020-05-22 21:25:59
 image: 'https://m.media-amazon.com/images/I/31PEsUg51CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HRV4G6F-fr Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec...'
 sku: 'B07HRV4G6F-fr'
 tags: [  ]

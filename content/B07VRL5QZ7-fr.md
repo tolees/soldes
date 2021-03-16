@@ -5,7 +5,7 @@ date: 2020-05-22 21:33:27
 image: 'https://m.media-amazon.com/images/I/51kdp+sQ02L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRL5QZ7-fr Batterie Externe Solaire 26800mAh IPX6 Chargeur Solaire 3...'
 sku: 'B07VRL5QZ7-fr'
 tags: [  ]

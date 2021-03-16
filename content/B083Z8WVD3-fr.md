@@ -5,7 +5,7 @@ date: 2020-08-26 08:19:39
 image: 'https://m.media-amazon.com/images/I/512LImW4s0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083Z8WVD3-fr Ultenic Aspirateur Robot D5s Connecté Wi-FI et Alexa...'
 sku: 'B083Z8WVD3-fr'
 tags: [  ]

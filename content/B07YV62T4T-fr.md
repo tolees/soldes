@@ -5,7 +5,7 @@ date: 2020-08-28 11:22:32
 image: 'https://m.media-amazon.com/images/I/51+0uUhat1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YV62T4T-fr Videoprojecteur Mini Projecteur Bluetooth Portable -...'
 sku: 'B07YV62T4T-fr'
 tags: [  ]

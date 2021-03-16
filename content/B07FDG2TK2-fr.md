@@ -5,7 +5,7 @@ date: 2020-05-22 20:15:46
 image: 'https://m.media-amazon.com/images/I/31iMn7yt5VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FDG2TK2-fr OSRAM - Applique extérieure LED ENDURA STYLE UpDoWn Flex -...'
 sku: 'B07FDG2TK2-fr'
 tags: [  ]

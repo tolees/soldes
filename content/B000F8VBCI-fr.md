@@ -5,7 +5,7 @@ date: 2020-05-22 23:05:17
 image: 'https://m.media-amazon.com/images/I/51MO5SymqAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000F8VBCI-fr Learning Resources Kit pour la Classe de Base 10 en...'
 sku: 'B000F8VBCI-fr'
 tags: [  ]

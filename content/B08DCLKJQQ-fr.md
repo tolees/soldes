@@ -5,7 +5,7 @@ date: 2020-09-13 08:47:45
 image: 'https://m.media-amazon.com/images/I/516HOUn9zJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCLKJQQ-fr Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E...'
 sku: 'B08DCLKJQQ-fr'
 tags: [  ]

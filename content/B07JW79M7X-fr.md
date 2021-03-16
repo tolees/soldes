@@ -5,7 +5,7 @@ date: 2020-05-23 00:13:41
 image: 'https://m.media-amazon.com/images/I/41HB4Hxz7JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW79M7X-fr Sunflair Dark Flower Tankinis Multicolore Nachtblau 30...'
 sku: 'B07JW79M7X-fr'
 tags: [  ]

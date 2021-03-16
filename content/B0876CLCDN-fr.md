@@ -5,7 +5,7 @@ date: 2020-09-11 09:28:42
 image: 'https://m.media-amazon.com/images/I/316TnPW+xOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0876CLCDN-fr Wëasy Mannequin Automatique Magic Pressing Séchage et...'
 sku: 'B0876CLCDN-fr'
 tags: [  ]

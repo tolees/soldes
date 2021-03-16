@@ -5,7 +5,7 @@ date: 2020-06-04 19:06:55
 image: 'https://m.media-amazon.com/images/I/41WRvfCJfZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q1YXVWH-fr DOQAUS Casque Bluetooth sans Fil [Jusqu 52 Heures] Pliable...'
 sku: 'B07Q1YXVWH-fr'
 tags: [  ]

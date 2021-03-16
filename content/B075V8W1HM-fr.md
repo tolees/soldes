@@ -5,7 +5,7 @@ date: 2020-09-27 10:03:48
 image: 'https://m.media-amazon.com/images/I/41Js2NMxAJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075V8W1HM-fr Trust 22055 GXT 383 DION 7.1 BASS Vibration Kits Oreillette'
 sku: 'B075V8W1HM-fr'
 tags: [  ]

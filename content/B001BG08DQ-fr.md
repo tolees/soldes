@@ -5,7 +5,7 @@ date: 2020-08-20 19:43:22
 image: 'https://m.media-amazon.com/images/I/41BDDbYOd0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001BG08DQ-fr Juki MO-654DE Surjeteuse Métal Blanc 34 x 27 x 29 5 cm'
 sku: 'B001BG08DQ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-17 15:28:06
 image: 'https://m.media-amazon.com/images/I/31KDPHegU6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0052JCHGE-fr Onduleur Eaton Ellipse ECO 650 FR - Off-line UPS - EL650FR...'
 sku: 'B0052JCHGE-fr'
 tags: [  ]

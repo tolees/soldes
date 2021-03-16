@@ -5,7 +5,7 @@ date: 2020-05-27 10:51:44
 image: 'https://m.media-amazon.com/images/I/51X96mmLUbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0757SD9CX-fr Game of Thrones Le Trône de Fer - L intégrale des saisons...'
 sku: 'B0757SD9CX-fr'
 tags: [  ]

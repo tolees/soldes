@@ -5,7 +5,7 @@ date: 2020-08-07 20:44:10
 image: 'https://m.media-amazon.com/images/I/413OtfzkaiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y5M3GS8-fr Unisa Oneta KS Sandales Plateforme Femme Bleu Ocean Ocean...'
 sku: 'B07Y5M3GS8-fr'
 tags: [  ]

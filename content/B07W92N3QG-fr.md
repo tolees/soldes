@@ -5,7 +5,7 @@ date: 2020-08-28 11:33:46
 image: 'https://m.media-amazon.com/images/I/41jJw4PskcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W92N3QG-fr Lexibook- Projecteur Planetarium 2-en-1 projette...'
 sku: 'B07W92N3QG-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 18:33:14
 image: 'https://m.media-amazon.com/images/I/41rlmDu11XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000VX01XC-fr Timberland Classic 2 Eye Chaussures bateau Homme Marron...'
 sku: 'B000VX01XC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 21:43:53
 image: 'https://m.media-amazon.com/images/I/31BTdQV2w4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001CFI9A0-fr DE BUYER -3125.16 -moule a charlotte inox 18/10s/couv.ø16'
 sku: 'B001CFI9A0-fr'
 tags: [  ]

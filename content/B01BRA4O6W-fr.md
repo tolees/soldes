@@ -5,7 +5,7 @@ date: 2020-10-04 09:00:49
 image: 'https://m.media-amazon.com/images/I/41OMSM9lsEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BRA4O6W-fr Beurer HD50 Cape chauffante 100 W beige marron'
 sku: 'B01BRA4O6W-fr'
 tags: [  ]

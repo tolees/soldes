@@ -5,7 +5,7 @@ date: 2020-09-14 09:12:58
 image: 'https://m.media-amazon.com/images/I/418wM-EXAzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P3SPZCV-fr Subliminal Mode - Chemise Homme Bicolore uni Manches...'
 sku: 'B07P3SPZCV-fr'
 tags: [  ]

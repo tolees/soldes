@@ -5,7 +5,7 @@ date: 2020-05-22 23:49:48
 image: 'https://m.media-amazon.com/images/I/51Flqh1WjAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GUAHGPG-fr Michelin 007875 Chaînes à neige automatique 4x4 75'
 sku: 'B00GUAHGPG-fr'
 tags: [  ]

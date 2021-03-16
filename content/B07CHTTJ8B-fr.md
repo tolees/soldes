@@ -5,7 +5,7 @@ date: 2020-09-18 03:34:35
 image: 'https://m.media-amazon.com/images/I/41DZrzX3xzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CHTTJ8B-fr Levi s SS Original HM Tee T-Shirt Multicolore Cotton +...'
 sku: 'B07CHTTJ8B-fr'
 tags: [  ]

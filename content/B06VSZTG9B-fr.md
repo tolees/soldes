@@ -5,7 +5,7 @@ date: 2020-09-15 03:13:52
 image: 'https://m.media-amazon.com/images/I/41exVuyMjJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06VSZTG9B-fr EIVOTOR Localisateur d objets Localisateur de Clé Key...'
 sku: 'B06VSZTG9B-fr'
 tags: [  ]

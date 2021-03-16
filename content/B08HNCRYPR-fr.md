@@ -5,7 +5,7 @@ date: 2020-09-23 01:49:25
 image: 'https://m.media-amazon.com/images/I/61o1w6qHX9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HNCRYPR-fr Orzly Lot d accessoires pour console Nintendo Switch avec...'
 sku: 'B08HNCRYPR-fr'
 tags: [  ]

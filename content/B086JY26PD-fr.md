@@ -5,7 +5,7 @@ date: 2020-07-22 00:00:01
 image: 'https://m.media-amazon.com/images/I/51hSIWO7HNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086JY26PD-fr SEELOK Masques de Super-héros à Gratter Scratch Art 24...'
 sku: 'B086JY26PD-fr'
 tags: [  ]

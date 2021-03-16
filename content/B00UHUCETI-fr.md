@@ -5,7 +5,7 @@ date: 2020-05-22 22:29:35
 image: 'https://m.media-amazon.com/images/I/31-QKQT6S4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UHUCETI-fr Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces'
 sku: 'B00UHUCETI-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 08:33:48
 image: 'https://m.media-amazon.com/images/I/21atT9OLA8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071CYR18L-fr Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6...'
 sku: 'B071CYR18L-fr'
 tags: [  ]

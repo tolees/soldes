@@ -5,7 +5,7 @@ date: 2020-05-22 23:21:33
 image: 'https://m.media-amazon.com/images/I/51YsM2GRPWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNMC2R4-fr ASUS Carte Mère Gaming Prime X570-PRO AMD AM4 Ryzen 3000...'
 sku: 'B07TNMC2R4-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:30:50
 image: 'https://m.media-amazon.com/images/I/31XfllhhcTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005B2ZV1K-fr Cat Footwear HAYCOX Baskets Homme Marron Haricot 0 43 EU'
 sku: 'B005B2ZV1K-fr'
 tags: [  ]

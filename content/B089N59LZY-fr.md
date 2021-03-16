@@ -5,7 +5,7 @@ date: 2020-10-04 17:36:15
 image: 'https://m.media-amazon.com/images/I/51WBqilPLbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089N59LZY-fr Toozey Jouets pour Chiens - 6 PCS Jouets Chiot Jouet Chien...'
 sku: 'B089N59LZY-fr'
 tags: [  ]

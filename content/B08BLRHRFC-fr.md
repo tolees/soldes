@@ -5,7 +5,7 @@ date: 2020-08-12 00:17:22
 image: 'https://m.media-amazon.com/images/I/41mdnKzAYQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLRHRFC-fr Casque Gaming TedGem 3.5mm Casque PS4 Surround Stéréo...'
 sku: 'B08BLRHRFC-fr'
 tags: [  ]

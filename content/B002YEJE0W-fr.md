@@ -5,7 +5,7 @@ date: 2020-08-09 10:27:47
 image: 'https://m.media-amazon.com/images/I/41GQWNopFaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002YEJE0W-fr Claude Dozorme 2.60.001.55 Coffret Hêtre 6 Couteaux Steak...'
 sku: 'B002YEJE0W-fr'
 tags: [  ]

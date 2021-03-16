@@ -5,7 +5,7 @@ date: 2020-09-12 11:56:48
 image: 'https://m.media-amazon.com/images/I/41kFnrkj1pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CDZD8B7-fr Marshall Major III Casque Audio Bluetooth - Noir'
 sku: 'B07CDZD8B7-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:21:39
 image: 'https://m.media-amazon.com/images/I/51e6iI2fNqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNRFWGX-fr Scotch & Soda R´Belle 2-in-1 Style: Long Sleeve Lurex Tee...'
 sku: 'B07CNRFWGX-fr'
 tags: [  ]

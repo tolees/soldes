@@ -5,7 +5,7 @@ date: 2020-08-29 23:17:07
 image: 'https://m.media-amazon.com/images/I/313rTHoJv1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6U3XDA-fr Geox Uomo Symbol B Sneakers Basses Homme Noir Black 45 EU'
 sku: 'B01N6U3XDA-fr'
 tags: [  ]

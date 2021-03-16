@@ -5,7 +5,7 @@ date: 2020-09-26 14:31:59
 image: 'https://m.media-amazon.com/images/I/51sqOZvS5RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HH1GTGL-fr LK 2 pièces Verre Trempé pour Samsung Galaxy A71...'
 sku: 'B08HH1GTGL-fr'
 tags: [  ]

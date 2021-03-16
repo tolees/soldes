@@ -5,7 +5,7 @@ date: 2020-09-27 10:41:38
 image: 'https://m.media-amazon.com/images/I/312ojkD+-1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZVQT6LH-fr Levis SS Original HM Tee T-shirt Homme Bleu Ueprint M'
 sku: 'B07ZVQT6LH-fr'
 tags: [  ]

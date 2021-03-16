@@ -5,7 +5,7 @@ date: 2020-05-22 22:25:20
 image: 'https://m.media-amazon.com/images/I/41oAmTZdHqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075QFWVY4-fr Manette Révolution Pro Controller 2 Nacon pour PS4'
 sku: 'B075QFWVY4-fr'
 tags: [  ]

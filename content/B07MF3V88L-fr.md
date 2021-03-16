@@ -5,7 +5,7 @@ date: 2020-08-08 07:03:21
 image: 'https://m.media-amazon.com/images/I/31A7XBTp-uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MF3V88L-fr Hoover HF18MB Aspirateur balai sans fil multifonction...'
 sku: 'B07MF3V88L-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 21:17:29
 image: 'https://m.media-amazon.com/images/I/415MaR-+JaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P14HHQU-fr Fiat-berg - 24.30.10.00 - Buzzy Fiat 500'
 sku: 'B00P14HHQU-fr'
 tags: [  ]

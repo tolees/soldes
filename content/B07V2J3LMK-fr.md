@@ -5,7 +5,7 @@ date: 2020-05-23 00:04:06
 image: 'https://m.media-amazon.com/images/I/31n6e5Tb5vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V2J3LMK-fr Tommy Hilfiger Corporate Material Mix Cupsole Sneakers...'
 sku: 'B07V2J3LMK-fr'
 tags: [  ]

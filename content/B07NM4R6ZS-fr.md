@@ -5,7 +5,7 @@ date: 2020-09-16 05:14:19
 image: 'https://m.media-amazon.com/images/I/41pDMEX7HfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NM4R6ZS-fr AVIC-Z820DAB'
 sku: 'B07NM4R6ZS-fr'
 tags: [  ]

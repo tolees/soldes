@@ -5,7 +5,7 @@ date: 2020-08-27 04:07:06
 image: 'https://m.media-amazon.com/images/I/41DEmt-5i+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSP4NTW-fr COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB eMMC Windows 10...'
 sku: 'B07VSP4NTW-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 20:49:05
 image: 'https://m.media-amazon.com/images/I/41KNCfY39eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079QM5GL9-fr iRobot Roomba 671 Aspirateur Robot pour Tapis et Sols Durs...'
 sku: 'B079QM5GL9-fr'
 tags: [  ]

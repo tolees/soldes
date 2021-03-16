@@ -5,7 +5,7 @@ date: 2020-08-11 18:13:40
 image: 'https://m.media-amazon.com/images/I/51vqlV8G8sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HRRDLMI-fr Sylvanian Families - 4370 - Le chalet'
 sku: 'B00HRRDLMI-fr'
 tags: [  ]

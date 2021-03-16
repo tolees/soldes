@@ -5,7 +5,7 @@ date: 2020-08-08 20:27:29
 image: 'https://m.media-amazon.com/images/I/41Z9IRHWvXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009U3FGC0-fr Terratrend Job 4696/S/6310 Parka Taille S Gris Foncé/Noir'
 sku: 'B009U3FGC0-fr'
 tags: [  ]

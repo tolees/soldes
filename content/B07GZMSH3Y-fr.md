@@ -5,7 +5,7 @@ date: 2020-05-23 00:03:49
 image: 'https://m.media-amazon.com/images/I/41KHDX0zZRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZMSH3Y-fr Michael Kors Montre Connectée MKT5052'
 sku: 'B07GZMSH3Y-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 10:27:50
 image: 'https://m.media-amazon.com/images/I/41w7jIQzd+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000T5RYSW-fr Mauviel 270501 Penderie en cuivre orange/jaune 1 cm'
 sku: 'B000T5RYSW-fr'
 tags: [  ]

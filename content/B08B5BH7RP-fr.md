@@ -5,7 +5,7 @@ date: 2020-08-27 04:13:41
 image: 'https://m.media-amazon.com/images/I/51xDXMXuOyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5BH7RP-fr Tinifan Correcteur de Posture pour Homme et Femme Offrant...'
 sku: 'B08B5BH7RP-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:49:47
 image: 'https://m.media-amazon.com/images/I/41Ls2pHNRrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K8NO4EC-fr Hudson Houghton 2 Bottes Chukka Homme Marron Calf Tan 44 EU'
 sku: 'B00K8NO4EC-fr'
 tags: [  ]

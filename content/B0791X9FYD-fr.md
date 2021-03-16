@@ -5,7 +5,7 @@ date: 2020-09-24 23:51:45
 image: 'https://m.media-amazon.com/images/I/319yAoA6n8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0791X9FYD-fr Tommy Hilfiger Core Tommy Regular Polo Blanc Bright White...'
 sku: 'B0791X9FYD-fr'
 tags: [  ]

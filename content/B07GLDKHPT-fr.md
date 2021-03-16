@@ -5,7 +5,7 @@ date: 2020-10-05 19:21:04
 image: 'https://m.media-amazon.com/images/I/31OjrGS1j6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLDKHPT-fr CYBEX Gold Siège Auto Évolutif Pallas S-Fix Adapté aux...'
 sku: 'B07GLDKHPT-fr'
 tags: [  ]

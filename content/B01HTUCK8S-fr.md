@@ -5,7 +5,7 @@ date: 2020-05-30 10:46:08
 image: 'https://m.media-amazon.com/images/I/41973sQ6ziL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HTUCK8S-fr Hercules DJControl Instinct Party Pack Contrôleur DJ USB...'
 sku: 'B01HTUCK8S-fr'
 tags: [  ]

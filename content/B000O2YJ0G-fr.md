@@ -5,7 +5,7 @@ date: 2020-10-09 00:10:56
 image: 'https://m.media-amazon.com/images/I/41scXjPgT3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000O2YJ0G-fr Clatronic Presse Agrumes Automatique Zp3066'
 sku: 'B000O2YJ0G-fr'
 tags: [  ]

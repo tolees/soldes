@@ -5,7 +5,7 @@ date: 2020-08-04 18:04:33
 image: 'https://m.media-amazon.com/images/I/41EZj+ouNpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1J5CN3-fr Icebreaker Victory LS Zip Veste Homme Jet HTHR FR : M...'
 sku: 'B07W1J5CN3-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 20:04:04
 image: 'https://m.media-amazon.com/images/I/41yHyZ-y8vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792TNMBT-fr Geox U Taiki B ABX C Baskets Hautes Homme Noir Black C9999...'
 sku: 'B0792TNMBT-fr'
 tags: [  ]

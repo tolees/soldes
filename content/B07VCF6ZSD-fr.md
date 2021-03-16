@@ -5,7 +5,7 @@ date: 2020-09-25 18:04:21
 image: 'https://m.media-amazon.com/images/I/418t0dmHMgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCF6ZSD-fr Replay Anbass Jean Slim Gris Medium Grey 096 W30/L30...'
 sku: 'B07VCF6ZSD-fr'
 tags: [  ]

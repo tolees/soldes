@@ -5,7 +5,7 @@ date: 2020-10-01 11:27:18
 image: 'https://m.media-amazon.com/images/I/31rztjesddL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JJ3XTP-fr Cosmo Connected - Cosmo Moto - Noir brillant- Feu de stop...'
 sku: 'B076JJ3XTP-fr'
 tags: [  ]

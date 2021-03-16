@@ -5,7 +5,7 @@ date: 2020-09-11 07:58:37
 image: 'https://m.media-amazon.com/images/I/51mlgm-SbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0874BF8YK-fr Manettes Switch Manette pour Nintendo Switch Manette...'
 sku: 'B0874BF8YK-fr'
 tags: [  ]

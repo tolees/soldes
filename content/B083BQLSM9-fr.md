@@ -5,7 +5,7 @@ date: 2020-09-18 09:48:12
 image: 'https://m.media-amazon.com/images/I/51pE65wxz8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BQLSM9-fr Toozey Jouets Chat 24 Pièces Jouet Chat Jouet à Plumes...'
 sku: 'B083BQLSM9-fr'
 tags: [  ]

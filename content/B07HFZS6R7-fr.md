@@ -5,7 +5,7 @@ date: 2020-09-23 17:09:34
 image: 'https://m.media-amazon.com/images/I/31ONJGJ7QkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HFZS6R7-fr Collier argent et perles de culture Blanches et...'
 sku: 'B07HFZS6R7-fr'
 tags: [  ]

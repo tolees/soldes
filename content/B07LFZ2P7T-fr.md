@@ -5,7 +5,7 @@ date: 2020-10-06 12:19:19
 image: 'https://m.media-amazon.com/images/I/4124dINm+oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFZ2P7T-fr Geox U Nebula 4 X 4 B ABX A Bottes Chukka Homme Marron...'
 sku: 'B07LFZ2P7T-fr'
 tags: [  ]

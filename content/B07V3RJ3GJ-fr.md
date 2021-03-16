@@ -5,7 +5,7 @@ date: 2020-10-12 07:03:40
 image: 'https://m.media-amazon.com/images/I/51zSK2fbSgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3RJ3GJ-fr Correcteur de posture dos - redresse dos Homme et Femme -...'
 sku: 'B07V3RJ3GJ-fr'
 tags: [  ]

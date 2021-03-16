@@ -5,7 +5,7 @@ date: 2020-08-21 05:05:23
 image: 'https://m.media-amazon.com/images/I/21DhX91UUoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ3PVRT-fr Disque Dur Externe 1to USB3.1 Disque Dur Externe pour PC...'
 sku: 'B08DJ3PVRT-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-20 08:53:55
 image: 'https://m.media-amazon.com/images/I/41jyAr6qUJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H6ZKW5P-fr Disney Aladdin Bracelet à Breloques plaqué Or Blanc...'
 sku: 'B07H6ZKW5P-fr'
 tags: [  ]

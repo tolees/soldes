@@ -5,7 +5,7 @@ date: 2020-08-24 23:48:45
 image: 'https://m.media-amazon.com/images/I/41RtOB-7TbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RNKK98B-fr Multifonctionnelle Histoire Projecteur Enfant Histoire...'
 sku: 'B07RNKK98B-fr'
 tags: [  ]

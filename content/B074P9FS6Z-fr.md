@@ -5,7 +5,7 @@ date: 2020-08-16 05:27:18
 image: 'https://m.media-amazon.com/images/I/31B4sNFOSZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P9FS6Z-fr Fitbit Aria 2 Balance Wi-Fi Intelligente Compteur de...'
 sku: 'B074P9FS6Z-fr'
 tags: [  ]

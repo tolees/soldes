@@ -5,7 +5,7 @@ date: 2020-05-22 22:27:58
 image: 'https://m.media-amazon.com/images/I/41+I7IL6pZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MY6RL6J-fr FOG900-RGB'
 sku: 'B07MY6RL6J-fr'
 tags: [  ]

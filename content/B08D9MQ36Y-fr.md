@@ -5,7 +5,7 @@ date: 2020-08-09 12:23:59
 image: 'https://m.media-amazon.com/images/I/41LAuuOVCwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D9MQ36Y-fr Manette sans Fil pour Nintendo Switch REDSTORM Manette...'
 sku: 'B08D9MQ36Y-fr'
 tags: [  ]

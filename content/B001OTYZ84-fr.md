@@ -5,7 +5,7 @@ date: 2020-05-22 19:51:22
 image: 'https://m.media-amazon.com/images/I/51ZGYoV9UDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001OTYZ84-fr Sorel Bottes d Hiver pour Hommes Caribou WL Marron foncé...'
 sku: 'B001OTYZ84-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-01 09:28:21
 image: 'https://m.media-amazon.com/images/I/41nIqFuRx8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PCQF1QH-fr INPHIC Souris Bluetooth Trois Modes Souris sans Fil...'
 sku: 'B07PCQF1QH-fr'
 tags: [  ]

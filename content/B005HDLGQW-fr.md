@@ -5,7 +5,7 @@ date: 2020-05-22 22:58:31
 image: 'https://m.media-amazon.com/images/I/21j5FZaPQJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005HDLGQW-fr Beurer TL 80 Lampe de Luminothérapie - 10.000 Lux -...'
 sku: 'B005HDLGQW-fr'
 tags: [  ]

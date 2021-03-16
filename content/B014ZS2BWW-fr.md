@@ -5,7 +5,7 @@ date: 2020-05-22 23:27:48
 image: 'https://m.media-amazon.com/images/I/51KnxyhiGXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B014ZS2BWW-fr Safavieh Tapis Shag Tufté à la main Fibre de Polyester...'
 sku: 'B014ZS2BWW-fr'
 tags: [  ]

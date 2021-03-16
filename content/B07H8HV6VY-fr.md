@@ -5,7 +5,7 @@ date: 2020-08-05 09:09:51
 image: 'https://m.media-amazon.com/images/I/41bGd8zQUwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H8HV6VY-fr Nike Air Zoom Wildhorse 5 Chaussures de Running Homme Noir...'
 sku: 'B07H8HV6VY-fr'
 tags: [  ]

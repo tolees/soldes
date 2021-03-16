@@ -5,7 +5,7 @@ date: 2020-05-22 22:31:05
 image: 'https://m.media-amazon.com/images/I/41f2LGXjhcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TC883ZZ-fr Bracelet Femme Orné de Cristaux de Swarovski...'
 sku: 'B07TC883ZZ-fr'
 tags: [  ]

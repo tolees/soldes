@@ -5,7 +5,7 @@ date: 2020-10-03 11:13:23
 image: 'https://m.media-amazon.com/images/I/31sn5AKHm0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BWT415S-fr Schneider Electric SC5S262204 Interrupteur ou va et vient...'
 sku: 'B00BWT415S-fr'
 tags: [  ]

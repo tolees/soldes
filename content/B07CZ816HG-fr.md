@@ -5,7 +5,7 @@ date: 2020-08-18 17:44:50
 image: 'https://m.media-amazon.com/images/I/4182KU5DfxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ816HG-fr Under Armour UA Roland Backpack Hydrofuge Pratique Sac à...'
 sku: 'B07CZ816HG-fr'
 tags: [  ]

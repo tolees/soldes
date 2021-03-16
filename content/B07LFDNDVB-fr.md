@@ -5,7 +5,7 @@ date: 2020-05-22 19:54:35
 image: 'https://m.media-amazon.com/images/I/31-3KF+nsbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFDNDVB-fr Levi s 514 Straight Jeans Ivy ADV 1209 31W / 32L Homme'
 sku: 'B07LFDNDVB-fr'
 tags: [  ]

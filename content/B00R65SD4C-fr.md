@@ -5,7 +5,7 @@ date: 2020-09-10 06:08:11
 image: 'https://m.media-amazon.com/images/I/51f54c6wKiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R65SD4C-fr VAHDAM Feuilles de Thé Vert de l Himalaya 50+ Tasses |...'
 sku: 'B00R65SD4C-fr'
 tags: [  ]

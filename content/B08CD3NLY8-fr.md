@@ -5,7 +5,7 @@ date: 2020-08-23 05:10:14
 image: 'https://m.media-amazon.com/images/I/41qbQqSTd+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CD3NLY8-fr ELKATECH | Garde Boue pour Trottinette Electrique Xiaomi...'
 sku: 'B08CD3NLY8-fr'
 tags: [  ]

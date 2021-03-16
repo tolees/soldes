@@ -5,7 +5,7 @@ date: 2020-09-27 20:48:38
 image: 'https://m.media-amazon.com/images/I/41OMS86h0ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H534JMH-fr IHEX Galaxy S9 Plus Verre Trempé [2 Pièces] [Full...'
 sku: 'B08H534JMH-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-11 05:43:45
 image: 'https://m.media-amazon.com/images/I/41-YadZToWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMT37GP-fr L OR Barista LM8016/90 machine à café à capsules Noir Mat...'
 sku: 'B07MMT37GP-fr'
 tags: [  ]

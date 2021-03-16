@@ -5,7 +5,7 @@ date: 2020-05-22 23:32:10
 image: 'https://m.media-amazon.com/images/I/41iLTJg64hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B4SMTCT-fr PUMA Ignite PWRADAPT Disc Chaussures de Golf Homme Gris...'
 sku: 'B07B4SMTCT-fr'
 tags: [  ]

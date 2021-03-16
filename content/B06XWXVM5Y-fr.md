@@ -5,7 +5,7 @@ date: 2020-06-02 07:37:21
 image: 'https://m.media-amazon.com/images/I/41I9H5draFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWXVM5Y-fr New Balance WL574 Baskets Femme Bleu Navy 38 EU'
 sku: 'B06XWXVM5Y-fr'
 tags: [  ]

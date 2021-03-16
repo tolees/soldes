@@ -5,7 +5,7 @@ date: 2020-08-10 08:04:12
 image: 'https://m.media-amazon.com/images/I/41S6aNENHAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RP47US-fr Time Force Hommes Analogique Quartz Montre avec Bracelet...'
 sku: 'B009RP47US-fr'
 tags: [  ]

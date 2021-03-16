@@ -5,7 +5,7 @@ date: 2020-05-27 06:55:54
 image: 'https://m.media-amazon.com/images/I/41OAohc78IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H2WSKVK-fr Echo Plus 2ème génération Tissu anthracite + Ampoule...'
 sku: 'B07H2WSKVK-fr'
 tags: [  ]

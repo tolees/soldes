@@ -5,7 +5,7 @@ date: 2020-08-17 19:27:41
 image: 'https://m.media-amazon.com/images/I/319rB8Lba-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BJZGJM1-fr Pioneer VSX-933 B Récepteur AV 7.2 canaux Amplificateur...'
 sku: 'B07BJZGJM1-fr'
 tags: [  ]

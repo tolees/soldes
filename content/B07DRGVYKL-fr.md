@@ -5,7 +5,7 @@ date: 2020-08-04 12:08:24
 image: 'https://m.media-amazon.com/images/I/31rpStcimaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DRGVYKL-fr Tiffany Rose Maternity Eden Maxi Robe Rose poudré 46 Femme'
 sku: 'B07DRGVYKL-fr'
 tags: [  ]

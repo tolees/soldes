@@ -5,7 +5,7 @@ date: 2020-06-01 15:44:33
 image: 'https://m.media-amazon.com/images/I/41Qy4Pfx4AL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5R3N1S-fr Bardahl 2002314A Nettoyant Vanne Erg'
 sku: 'B01N5R3N1S-fr'
 tags: [  ]

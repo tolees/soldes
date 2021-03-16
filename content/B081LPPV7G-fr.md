@@ -5,7 +5,7 @@ date: 2020-08-07 14:44:11
 image: 'https://m.media-amazon.com/images/I/41-ghBmw19L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081LPPV7G-fr Solgaleo-GX SM104A Secrète Gold - #myboost X Sole E Luna...'
 sku: 'B081LPPV7G-fr'
 tags: [  ]

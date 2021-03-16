@@ -5,7 +5,7 @@ date: 2020-05-27 12:33:45
 image: 'https://m.media-amazon.com/images/I/41HAbEPBX0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010OTZZBA-fr Sauter SPI4360X - Plaque à induction - Encastrable - 3...'
 sku: 'B010OTZZBA-fr'
 tags: [  ]

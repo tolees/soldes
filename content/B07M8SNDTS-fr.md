@@ -5,7 +5,7 @@ date: 2020-06-01 12:13:52
 image: 'https://m.media-amazon.com/images/I/51I9TcVCB2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M8SNDTS-fr Onduleur Z3 ZenBox EX 500 VA 3 prises secourues 3 prises...'
 sku: 'B07M8SNDTS-fr'
 tags: [  ]

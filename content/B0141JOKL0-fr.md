@@ -5,7 +5,7 @@ date: 2020-07-25 16:55:53
 image: 'https://m.media-amazon.com/images/I/3147IDYrHGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0141JOKL0-fr TP-Link T2600G-18TS Switch administrable niveau 2 avec 16...'
 sku: 'B0141JOKL0-fr'
 tags: [  ]

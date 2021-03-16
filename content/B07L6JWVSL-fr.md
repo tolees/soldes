@@ -5,7 +5,7 @@ date: 2020-09-11 21:36:02
 image: 'https://m.media-amazon.com/images/I/416FbZa9iOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6JWVSL-fr Under Armour Coldgear Reactor Performance Hybrid Veste...'
 sku: 'B07L6JWVSL-fr'
 tags: [  ]

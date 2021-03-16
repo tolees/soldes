@@ -5,7 +5,7 @@ date: 2020-08-11 05:22:53
 image: 'https://m.media-amazon.com/images/I/31tZTtC+PeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSVKSW7-fr Rockport Madson Plain Toe Derbys Homme Marron Cognac 003...'
 sku: 'B07FSVKSW7-fr'
 tags: [  ]

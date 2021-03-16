@@ -5,7 +5,7 @@ date: 2020-05-28 16:34:23
 image: 'https://m.media-amazon.com/images/I/41m1DTiGM-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJH1W8W-fr El Naturalista N5176 Bottes Classiques Femme Marron Brown...'
 sku: 'B07NJH1W8W-fr'
 tags: [  ]

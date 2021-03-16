@@ -5,7 +5,7 @@ date: 2020-06-11 11:17:07
 image: 'https://m.media-amazon.com/images/I/31MhVVe7WkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFWDZ12-fr Microsoft Surface Laptop 3 “ PC UltraPortable écran 13...'
 sku: 'B07XFWDZ12-fr'
 tags: [  ]

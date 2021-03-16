@@ -5,7 +5,7 @@ date: 2020-10-05 17:41:24
 image: 'https://m.media-amazon.com/images/I/41RUjJK4RrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771JPT1D-fr Eastpak Tranverz L Valise 79 cm 121 L Gris Sunday Grey'
 sku: 'B0771JPT1D-fr'
 tags: [  ]

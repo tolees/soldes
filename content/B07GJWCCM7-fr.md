@@ -5,7 +5,7 @@ date: 2020-08-31 14:15:52
 image: 'https://m.media-amazon.com/images/I/41bFY6yBgIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJWCCM7-fr Philips HR2382/10 Machine à Pâtes Automatique Balance...'
 sku: 'B07GJWCCM7-fr'
 tags: [  ]

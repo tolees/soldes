@@ -5,7 +5,7 @@ date: 2020-10-04 03:07:00
 image: 'https://m.media-amazon.com/images/I/41otA9tIdiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GJ77YYD-fr Coque Samsung S10 Cover Samsung Galaxy S10 Housse Double...'
 sku: 'B08GJ77YYD-fr'
 tags: [  ]

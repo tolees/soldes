@@ -5,7 +5,7 @@ date: 2020-09-21 15:19:45
 image: 'https://m.media-amazon.com/images/I/41q+Z8WtBSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OCSJMJQ-fr Columbia Sun Ridge Polo à Manches Courtes Homme Gris Shark S'
 sku: 'B00OCSJMJQ-fr'
 tags: [  ]

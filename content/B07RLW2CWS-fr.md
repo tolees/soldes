@@ -5,7 +5,7 @@ date: 2020-08-09 16:27:35
 image: 'https://m.media-amazon.com/images/I/41y3UjoAwFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RLW2CWS-fr bugatti 313625533500 Bottes & Bottines Classiques Homme...'
 sku: 'B07RLW2CWS-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 16:43:28
 image: 'https://m.media-amazon.com/images/I/41RHVlwHlsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F3N8GS7-fr HP Spectre 700 - Souris Rechargeable Sans Fil Cuivre Luxe...'
 sku: 'B07F3N8GS7-fr'
 tags: [  ]

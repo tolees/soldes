@@ -5,7 +5,7 @@ date: 2020-09-29 05:48:34
 image: 'https://m.media-amazon.com/images/I/41NwiBpt0dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DLMD7DK-fr Sony SEL70300G zoom FE 70-300 mm F4 5-5 6 G'
 sku: 'B01DLMD7DK-fr'
 tags: [  ]

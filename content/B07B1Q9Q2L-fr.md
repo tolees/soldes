@@ -5,7 +5,7 @@ date: 2020-09-24 07:43:16
 image: 'https://m.media-amazon.com/images/I/51ZvB0o3xdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1Q9Q2L-fr Newbestyle Femme Hoodies Sweatshirt Manches Longues à...'
 sku: 'B07B1Q9Q2L-fr'
 tags: [  ]

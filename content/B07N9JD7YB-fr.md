@@ -5,7 +5,7 @@ date: 2020-08-10 06:28:43
 image: 'https://m.media-amazon.com/images/I/31RaU7e6NJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N9JD7YB-fr Samsonite Valise 115776/1408 gris Gris - 115776/1408'
 sku: 'B07N9JD7YB-fr'
 tags: [  ]

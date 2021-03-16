@@ -5,7 +5,7 @@ date: 2020-08-21 13:44:41
 image: 'https://m.media-amazon.com/images/I/41ft1UP8WML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00RXQJDWA-fr Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de...'
 sku: 'B00RXQJDWA-fr'
 tags: [  ]

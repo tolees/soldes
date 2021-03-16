@@ -5,7 +5,7 @@ date: 2020-05-22 21:02:00
 image: 'https://m.media-amazon.com/images/I/41fnDlA5XCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CMDCY5-fr SAMSONITE Orfeo - Spinner 69/25 Bagage cabine 69 cm 72...'
 sku: 'B076CMDCY5-fr'
 tags: [  ]

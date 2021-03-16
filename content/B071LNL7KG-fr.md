@@ -5,7 +5,7 @@ date: 2020-10-11 06:32:28
 image: 'https://m.media-amazon.com/images/I/51e0HuvVY9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071LNL7KG-fr Sine Mora EX'
 sku: 'B071LNL7KG-fr'
 tags: [  ]

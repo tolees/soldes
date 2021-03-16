@@ -5,7 +5,7 @@ date: 2020-05-22 22:34:16
 image: 'https://m.media-amazon.com/images/I/41LRmSgxBiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSQ5TCH-fr Love Moschino Logo Box Short Sleeve T-Shirt Black C74 40...'
 sku: 'B07KSQ5TCH-fr'
 tags: [  ]

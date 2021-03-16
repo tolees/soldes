@@ -5,7 +5,7 @@ date: 2020-10-01 14:09:28
 image: 'https://m.media-amazon.com/images/I/41vgZnpXcTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YNMF56T-fr Roccat Vulcan 122 - Clavier de Jeu Blanc GAMING mécanique...'
 sku: 'B07YNMF56T-fr'
 tags: [  ]

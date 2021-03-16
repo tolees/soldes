@@ -5,7 +5,7 @@ date: 2020-05-23 00:17:09
 image: 'https://m.media-amazon.com/images/I/412z9YfbRkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWXVMB3-fr AUBADE Haut de maillot push-up coque Attache au cou DIVINE...'
 sku: 'B07JWXVMB3-fr'
 tags: [  ]

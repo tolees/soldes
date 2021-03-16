@@ -5,7 +5,7 @@ date: 2020-05-22 23:41:45
 image: 'https://m.media-amazon.com/images/I/41cCi0KcdBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0781ZSSM2-fr MILLET Vector Grid JKT Polaire Alpinisme Homme'
 sku: 'B0781ZSSM2-fr'
 tags: [  ]

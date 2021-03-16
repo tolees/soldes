@@ -5,7 +5,7 @@ date: 2020-09-17 07:09:50
 image: 'https://m.media-amazon.com/images/I/417DVt5Ly4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KGMBCKD-fr Sabrent SSD interne Rocket NVMe PCIe M.2 2280 de 512GB....'
 sku: 'B07KGMBCKD-fr'
 tags: [  ]

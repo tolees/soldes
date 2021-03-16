@@ -5,7 +5,7 @@ date: 2020-09-11 08:02:47
 image: 'https://m.media-amazon.com/images/I/4156XclY4QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTB55WH-fr Anker Enceinte Bluetooth SoundCore 2 Haut Parleur Portable...'
 sku: 'B01MTB55WH-fr'
 tags: [  ]

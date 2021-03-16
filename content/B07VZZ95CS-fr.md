@@ -5,7 +5,7 @@ date: 2020-10-02 21:48:55
 image: 'https://m.media-amazon.com/images/I/314Xp6DwF-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZZ95CS-fr Philips Sonicare HX9601/03 Brosse à dents électrique...'
 sku: 'B07VZZ95CS-fr'
 tags: [  ]

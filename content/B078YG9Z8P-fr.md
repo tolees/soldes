@@ -5,7 +5,7 @@ date: 2020-08-06 20:27:38
 image: 'https://m.media-amazon.com/images/I/317nQsKViPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078YG9Z8P-fr adidas CV4694 Polo Homme Vert Sefrye FR : S Taille...'
 sku: 'B078YG9Z8P-fr'
 tags: [  ]

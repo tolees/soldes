@@ -5,7 +5,7 @@ date: 2020-10-11 12:22:26
 image: 'https://m.media-amazon.com/images/I/51kENk3ofNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HD9TQC2-fr LEBE Coque pour Xiaomi Redmi Note 9 Pro Housse en Cuir...'
 sku: 'B08HD9TQC2-fr'
 tags: [  ]

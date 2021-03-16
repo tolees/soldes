@@ -5,7 +5,7 @@ date: 2020-10-07 05:49:06
 image: 'https://m.media-amazon.com/images/I/31p129kASvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08K8FZVCV-fr eXtremeRate Coque Avant Housse Boîtier Kit de Remplacement...'
 sku: 'B08K8FZVCV-fr'
 tags: [  ]

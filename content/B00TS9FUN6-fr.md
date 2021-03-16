@@ -5,7 +5,7 @@ date: 2020-09-26 22:59:21
 image: 'https://m.media-amazon.com/images/I/51Gceewgo+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TS9FUN6-fr Samyang 50 mm / F 1.4 AS UMC Objectifs'
 sku: 'B00TS9FUN6-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 06:05:06
 image: 'https://m.media-amazon.com/images/I/51g-5FJxO6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3RS4T3-fr Proscenic T21 Friteuse à air Grand écran LED Digital et...'
 sku: 'B07X3RS4T3-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 16:27:34
 image: 'https://m.media-amazon.com/images/I/31jBYl8AixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PM67PG8-fr CALVET Vin Mousseux Rose Celebration 75 cl'
 sku: 'B07PM67PG8-fr'
 tags: [  ]

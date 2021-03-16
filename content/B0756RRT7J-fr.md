@@ -5,7 +5,7 @@ date: 2020-10-07 13:27:29
 image: 'https://m.media-amazon.com/images/I/41GUJ0CJwtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0756RRT7J-fr KKmoon Oscilloscope de Signal 2CH Oscilloscope de Stockage...'
 sku: 'B0756RRT7J-fr'
 tags: [  ]

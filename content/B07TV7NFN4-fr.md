@@ -5,7 +5,7 @@ date: 2020-05-22 23:35:32
 image: 'https://m.media-amazon.com/images/I/31aejabSkdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7NFN4-fr Levi s 501 Crop Jean Droit Blanc in The Clouds 0032...'
 sku: 'B07TV7NFN4-fr'
 tags: [  ]

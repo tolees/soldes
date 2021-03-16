@@ -5,7 +5,7 @@ date: 2020-08-28 15:45:53
 image: 'https://m.media-amazon.com/images/I/41Vr7OODksL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087CGF5FZ-fr Mini PC Intel Celeron Processor J3455 8 Go DDR4 / 64 Go...'
 sku: 'B087CGF5FZ-fr'
 tags: [  ]

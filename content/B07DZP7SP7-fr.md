@@ -5,7 +5,7 @@ date: 2020-10-09 11:44:14
 image: 'https://m.media-amazon.com/images/I/41oNJLR1mNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZP7SP7-fr jolidon – Prelude – Maillot de Bain Une Pièce 100%...'
 sku: 'B07DZP7SP7-fr'
 tags: [  ]

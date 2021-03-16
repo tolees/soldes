@@ -5,7 +5,7 @@ date: 2020-05-22 22:47:00
 image: 'https://m.media-amazon.com/images/I/51My5GRvFfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQIC9AK-fr Golden Curl GL506 Boucleur de Cheveux Curl Fer a Friser...'
 sku: 'B01MQIC9AK-fr'
 tags: [  ]

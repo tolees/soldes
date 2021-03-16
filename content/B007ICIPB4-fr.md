@@ -5,7 +5,7 @@ date: 2020-08-10 17:16:41
 image: 'https://m.media-amazon.com/images/I/31slBtk0DHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007ICIPB4-fr Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable...'
 sku: 'B007ICIPB4-fr'
 tags: [  ]

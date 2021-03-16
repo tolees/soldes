@@ -5,7 +5,7 @@ date: 2020-08-15 00:27:00
 image: 'https://m.media-amazon.com/images/I/41ik+-TwJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089QP4LS8-fr RAMPOW Câble USB C vers USB C 3m [Garantie à Vie] Câble...'
 sku: 'B089QP4LS8-fr'
 tags: [  ]

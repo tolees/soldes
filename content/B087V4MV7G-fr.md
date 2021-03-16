@@ -5,7 +5,7 @@ date: 2020-09-30 03:28:04
 image: 'https://m.media-amazon.com/images/I/31RS2uoYcjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087V4MV7G-fr Pin’s Guitare Geepins | Magnifique Broche Miniature Fender...'
 sku: 'B087V4MV7G-fr'
 tags: [  ]

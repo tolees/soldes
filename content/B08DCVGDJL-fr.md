@@ -5,7 +5,7 @@ date: 2020-09-25 08:06:38
 image: 'https://m.media-amazon.com/images/I/41pSKjxOVoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCVGDJL-fr Montre Connectée Homme UMIDIGI Uwatch 2S Smartwatch Femmes...'
 sku: 'B08DCVGDJL-fr'
 tags: [  ]

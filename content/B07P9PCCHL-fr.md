@@ -5,7 +5,7 @@ date: 2020-08-04 06:21:27
 image: 'https://m.media-amazon.com/images/I/41IGYJNN89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P9PCCHL-fr Silicon Power 1TB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3...'
 sku: 'B07P9PCCHL-fr'
 tags: [  ]

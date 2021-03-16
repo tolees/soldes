@@ -5,7 +5,7 @@ date: 2020-05-22 22:57:13
 image: 'https://m.media-amazon.com/images/I/41dfnEeZU8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZN1K2B-fr Pepe Jeans London Maddox Ess Bottes Motardes Femme Black...'
 sku: 'B07MZN1K2B-fr'
 tags: [  ]

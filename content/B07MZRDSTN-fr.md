@@ -5,7 +5,7 @@ date: 2020-05-22 23:00:20
 image: 'https://m.media-amazon.com/images/I/41sXnS0sJdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MZRDSTN-fr Pepe Jeans London Koko Archi Baskets Hautes Femme Black...'
 sku: 'B07MZRDSTN-fr'
 tags: [  ]

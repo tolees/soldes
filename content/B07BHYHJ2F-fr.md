@@ -5,7 +5,7 @@ date: 2020-09-16 16:40:41
 image: 'https://m.media-amazon.com/images/I/41qzXE0i76L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHYHJ2F-fr Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à...'
 sku: 'B07BHYHJ2F-fr'
 tags: [  ]

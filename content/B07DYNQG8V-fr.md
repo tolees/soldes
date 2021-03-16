@@ -5,7 +5,7 @@ date: 2020-06-11 17:18:15
 image: 'https://m.media-amazon.com/images/I/41y5UUzyDKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYNQG8V-fr Lecteur CD/DVD Externe Cocopa USB 3.0 Graveur DVD Externe...'
 sku: 'B07DYNQG8V-fr'
 tags: [  ]

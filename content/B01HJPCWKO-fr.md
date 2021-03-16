@@ -5,7 +5,7 @@ date: 2020-09-26 14:23:35
 image: 'https://m.media-amazon.com/images/I/41vgaVdyOdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HJPCWKO-fr PAUL HEWITT Bracelet Femme PHREP Ancre - Cadeau Femme...'
 sku: 'B01HJPCWKO-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 05:57:59
 image: 'https://m.media-amazon.com/images/I/51HLoqRvq7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGZXYQK-fr Playmobil - 4X4 avec Coffre de Toit - 9281'
 sku: 'B06WGZXYQK-fr'
 tags: [  ]

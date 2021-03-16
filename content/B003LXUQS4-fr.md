@@ -5,7 +5,7 @@ date: 2020-06-05 02:35:57
 image: 'https://m.media-amazon.com/images/I/5138p4EG7KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003LXUQS4-fr Pradel Excellence - 31123 - Valise Cuisinier 22 Pièces -...'
 sku: 'B003LXUQS4-fr'
 tags: [  ]

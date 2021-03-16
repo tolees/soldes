@@ -5,7 +5,7 @@ date: 2020-06-11 10:27:45
 image: 'https://m.media-amazon.com/images/I/41h92VmNJoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E8K9ZJ4-fr Ayotu Étui pour Kindle Paperwhite 2018 - Étui de...'
 sku: 'B01E8K9ZJ4-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 12:04:53
 image: 'https://m.media-amazon.com/images/I/31WoBJBBa6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RNB522T-fr Manette Sans Fil pour Xbox 360 Double Vibration Contrôleur...'
 sku: 'B07RNB522T-fr'
 tags: [  ]

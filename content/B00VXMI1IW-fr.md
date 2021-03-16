@@ -5,7 +5,7 @@ date: 2020-05-22 23:47:00
 image: 'https://m.media-amazon.com/images/I/41S2ZWW0DxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VXMI1IW-fr G-Star Revend Skinny Jeans Gris lt Aged Destroy 6132-1243...'
 sku: 'B00VXMI1IW-fr'
 tags: [  ]

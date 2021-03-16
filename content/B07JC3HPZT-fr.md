@@ -5,7 +5,7 @@ date: 2020-08-27 06:23:50
 image: 'https://m.media-amazon.com/images/I/51QImcD+fmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JC3HPZT-fr LEGO®-DUPLO® Toy Story™ Le train de Toy Story Jeu de...'
 sku: 'B07JC3HPZT-fr'
 tags: [  ]

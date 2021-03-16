@@ -5,7 +5,7 @@ date: 2020-05-22 21:20:40
 image: 'https://m.media-amazon.com/images/I/41zAnGTqlkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWKN6VM-fr Redskins Doudoune North Mountain Homme'
 sku: 'B07RWKN6VM-fr'
 tags: [  ]

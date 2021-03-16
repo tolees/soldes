@@ -5,7 +5,7 @@ date: 2020-09-27 16:44:35
 image: 'https://m.media-amazon.com/images/I/51dCZCREPmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQDTCZH-fr Kipling BTS Sac d école Carlow Robot Camo Bleu'
 sku: 'B07YQDTCZH-fr'
 tags: [  ]

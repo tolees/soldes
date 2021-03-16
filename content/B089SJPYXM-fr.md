@@ -5,7 +5,7 @@ date: 2020-08-06 12:47:18
 image: 'https://m.media-amazon.com/images/I/41CVuLzlVsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SJPYXM-fr YUSH Casque Gamer PS4 Filaire avec Audio Stéréo...'
 sku: 'B089SJPYXM-fr'
 tags: [  ]

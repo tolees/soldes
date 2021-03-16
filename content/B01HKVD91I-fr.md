@@ -5,7 +5,7 @@ date: 2020-10-07 13:51:26
 image: 'https://m.media-amazon.com/images/I/31oXEZA-xwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HKVD91I-fr Trixie Scratching Post for Wall Mounting 80 x 11 cm Grey'
 sku: 'B01HKVD91I-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 23:31:02
 image: 'https://m.media-amazon.com/images/I/41-E7IZMn1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFVGH32-fr Hommie Montre Connectée Femme Tracker d Activité Cardio...'
 sku: 'B08BFVGH32-fr'
 tags: [  ]

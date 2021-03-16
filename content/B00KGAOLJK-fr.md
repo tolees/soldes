@@ -5,7 +5,7 @@ date: 2020-05-23 00:01:06
 image: 'https://m.media-amazon.com/images/I/41wLZlohFaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KGAOLJK-fr Cristel - M24M - Marmite inox 24cm + couvercle -...'
 sku: 'B00KGAOLJK-fr'
 tags: [  ]

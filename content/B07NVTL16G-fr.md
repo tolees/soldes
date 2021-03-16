@@ -5,7 +5,7 @@ date: 2020-05-22 21:14:18
 image: 'https://m.media-amazon.com/images/I/415LgObouBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVTL16G-fr Armor Lux Pull Marin "Goulenez" Homme Multicolore X-Small...'
 sku: 'B07NVTL16G-fr'
 tags: [  ]

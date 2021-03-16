@@ -5,7 +5,7 @@ date: 2020-05-22 23:56:53
 image: 'https://m.media-amazon.com/images/I/41jWeAV3khL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR6GHVX-fr Clarks Tri Native Sneakers Basses Homme Noir Black - 41.5 EU'
 sku: 'B07FR6GHVX-fr'
 tags: [  ]

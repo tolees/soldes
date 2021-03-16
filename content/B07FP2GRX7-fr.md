@@ -5,7 +5,7 @@ date: 2020-08-11 14:10:29
 image: 'https://m.media-amazon.com/images/I/51+lI87uMiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2GRX7-fr LEGO® DUPLO® Mes 1ers pas Mon premier puzzle amusant Jeu...'
 sku: 'B07FP2GRX7-fr'
 tags: [  ]

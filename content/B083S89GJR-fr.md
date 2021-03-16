@@ -5,7 +5,7 @@ date: 2020-09-24 07:46:06
 image: 'https://m.media-amazon.com/images/I/51RWy5wXz6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083S89GJR-fr ASUS TUF Gaming VG279QM - Ecran PC Gamer eSport 27" FHD -...'
 sku: 'B083S89GJR-fr'
 tags: [  ]

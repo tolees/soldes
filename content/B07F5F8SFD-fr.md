@@ -5,7 +5,7 @@ date: 2020-06-04 00:57:28
 image: 'https://m.media-amazon.com/images/I/51DrU8cdGBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F5F8SFD-fr Kaamelott : L intégrale des Six livres [DVD]'
 sku: 'B07F5F8SFD-fr'
 tags: [  ]

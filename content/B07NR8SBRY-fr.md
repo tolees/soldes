@@ -5,7 +5,7 @@ date: 2020-05-22 20:42:41
 image: 'https://m.media-amazon.com/images/I/31-wZu-g6DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR8SBRY-fr Eminence Heritage Ensemble de Pyjama Bleu Bleu Rayure 2286...'
 sku: 'B07NR8SBRY-fr'
 tags: [  ]

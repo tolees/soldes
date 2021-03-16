@@ -5,7 +5,7 @@ date: 2020-05-22 21:02:02
 image: 'https://m.media-amazon.com/images/I/41BkET6XOLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJJLL42-fr SONY- Pack HX60 + Batterie Rechargeable'
 sku: 'B07CJJLL42-fr'
 tags: [  ]

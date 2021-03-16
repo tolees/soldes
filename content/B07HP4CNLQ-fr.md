@@ -5,7 +5,7 @@ date: 2020-05-25 14:28:20
 image: 'https://m.media-amazon.com/images/I/41NRgD+yWaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP4CNLQ-fr Przewalski Veste de cyclisme thermique à manches longues...'
 sku: 'B07HP4CNLQ-fr'
 tags: [  ]

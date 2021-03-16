@@ -5,7 +5,7 @@ date: 2020-10-12 07:37:04
 image: 'https://m.media-amazon.com/images/I/516Zh18-DZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DBW8M0E-fr Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray SD...'
 sku: 'B00DBW8M0E-fr'
 tags: [  ]

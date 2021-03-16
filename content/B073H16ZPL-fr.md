@@ -5,7 +5,7 @@ date: 2020-09-27 02:06:57
 image: 'https://m.media-amazon.com/images/I/41qkUUBZzbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073H16ZPL-fr New Classic Toys- Cuisine-Bon Appétit 11053 Blanche/Argent'
 sku: 'B073H16ZPL-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 20:42:24
 image: 'https://m.media-amazon.com/images/I/519xyOqOHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FHS21RZ-fr LOKAKA Coque pour Sony Xperia 10 II Coque Pochette Housse...'
 sku: 'B08FHS21RZ-fr'
 tags: [  ]

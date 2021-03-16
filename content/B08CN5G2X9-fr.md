@@ -5,7 +5,7 @@ date: 2020-08-25 05:02:54
 image: 'https://m.media-amazon.com/images/I/51dj8EY4xmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CN5G2X9-fr GiiYoon 3 Pièces Verre Trempé pour Xiaomi Redmi Note...'
 sku: 'B08CN5G2X9-fr'
 tags: [  ]

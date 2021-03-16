@@ -5,7 +5,7 @@ date: 2020-09-13 15:21:32
 image: 'https://m.media-amazon.com/images/I/41XcwmUVeWL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZZVQK8-fr yuehu Cotton Cotton Square Decorative Throw Pillowcase...'
 sku: 'B07VZZVQK8-fr'
 tags: [  ]

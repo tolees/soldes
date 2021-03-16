@@ -5,7 +5,7 @@ date: 2020-08-04 06:31:44
 image: 'https://m.media-amazon.com/images/I/51DgDX0JV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006ZVD3IY-fr Sylvanian Families - 2745 - Maison aux 3 Histoires'
 sku: 'B006ZVD3IY-fr'
 tags: [  ]

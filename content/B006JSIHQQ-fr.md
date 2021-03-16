@@ -5,7 +5,7 @@ date: 2020-09-10 19:40:43
 image: 'https://m.media-amazon.com/images/I/31ZMR-1HNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006JSIHQQ-fr Thetford 92814 Potti Potti 345 Toilette Portable Blanc-...'
 sku: 'B006JSIHQQ-fr'
 tags: [  ]

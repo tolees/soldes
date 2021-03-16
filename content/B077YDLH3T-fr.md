@@ -5,7 +5,7 @@ date: 2020-05-22 23:27:40
 image: 'https://m.media-amazon.com/images/I/41Sekt4XtjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077YDLH3T-fr AEG 005072 Outil de Diagnostic Auto OBD2 Evolution'
 sku: 'B077YDLH3T-fr'
 tags: [  ]

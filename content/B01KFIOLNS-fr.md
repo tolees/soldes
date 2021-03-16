@@ -5,7 +5,7 @@ date: 2020-08-25 19:15:09
 image: 'https://m.media-amazon.com/images/I/41hcLetHG7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KFIOLNS-fr Songmics Chaise Gamer Fauteuil de Bureau Racing Sport avec...'
 sku: 'B01KFIOLNS-fr'
 tags: [  ]

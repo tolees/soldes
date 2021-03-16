@@ -5,7 +5,7 @@ date: 2020-10-02 04:58:43
 image: 'https://m.media-amazon.com/images/I/415L3zlU0xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYYNRF3-fr Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en...'
 sku: 'B01MYYNRF3-fr'
 tags: [  ]

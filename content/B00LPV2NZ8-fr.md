@@ -5,7 +5,7 @@ date: 2020-05-22 20:15:21
 image: 'https://m.media-amazon.com/images/I/31THZNiFfVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPV2NZ8-fr Accessoire iRobot Roomba - Batterie Xlife NiMH'
 sku: 'B00LPV2NZ8-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:47:12
 image: 'https://m.media-amazon.com/images/I/31PPwK-7VlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDBD9R6-fr NETGEAR Routeur WiFi intelligent Nighthawk R6700-100PES -...'
 sku: 'B07NDBD9R6-fr'
 tags: [  ]

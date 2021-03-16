@@ -5,7 +5,7 @@ date: 2020-05-22 23:39:57
 image: 'https://m.media-amazon.com/images/I/51SRlH4U8SL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B5FK3BN-fr Oral-B Combiné Dentaire : Oral-B PRO 2000 + Hydropulseur...'
 sku: 'B07B5FK3BN-fr'
 tags: [  ]

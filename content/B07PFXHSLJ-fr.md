@@ -5,7 +5,7 @@ date: 2020-08-10 16:57:23
 image: 'https://m.media-amazon.com/images/I/416GvUFAQFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PFXHSLJ-fr Pikolinos Bottines en Cuir Le Mans 838'
 sku: 'B07PFXHSLJ-fr'
 tags: [  ]

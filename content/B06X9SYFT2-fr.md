@@ -5,7 +5,7 @@ date: 2020-06-11 08:55:33
 image: 'https://m.media-amazon.com/images/I/51QZL4scY4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X9SYFT2-fr Perfection - Jeu de Societe - Jeu de rapidité - Version...'
 sku: 'B06X9SYFT2-fr'
 tags: [  ]

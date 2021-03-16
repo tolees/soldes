@@ -5,7 +5,7 @@ date: 2020-06-11 06:54:49
 image: 'https://m.media-amazon.com/images/I/51XMdT+11PL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088BW4HBJ-fr Elyco 2 PCS Brassards de Contrôle pour Nintendo Switch...'
 sku: 'B088BW4HBJ-fr'
 tags: [  ]

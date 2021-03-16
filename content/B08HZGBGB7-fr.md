@@ -5,7 +5,7 @@ date: 2020-10-06 11:50:28
 image: 'https://m.media-amazon.com/images/I/51-vOpJeNFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZGBGB7-fr EMPEER ▪ Lot de 2 Sacs Rangement Bouteilles Toile de Jute...'
 sku: 'B08HZGBGB7-fr'
 tags: [  ]

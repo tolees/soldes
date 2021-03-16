@@ -5,7 +5,7 @@ date: 2020-08-20 17:12:40
 image: 'https://m.media-amazon.com/images/I/41Pjxs8McbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CSBGBP3-fr Manette sans fil pour Nintendo Switch Maegoo mini Manettes...'
 sku: 'B08CSBGBP3-fr'
 tags: [  ]

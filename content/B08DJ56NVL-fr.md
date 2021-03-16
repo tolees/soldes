@@ -5,7 +5,7 @@ date: 2020-08-21 23:08:57
 image: 'https://m.media-amazon.com/images/I/31LY3gA4k4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ56NVL-fr Disque Dur Externe 1to USB3.1 pour PC Mac Ordinateur de...'
 sku: 'B08DJ56NVL-fr'
 tags: [  ]

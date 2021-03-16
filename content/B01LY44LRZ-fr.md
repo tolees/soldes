@@ -5,7 +5,7 @@ date: 2020-09-28 11:09:07
 image: 'https://m.media-amazon.com/images/I/51kiNMU+BsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LY44LRZ-fr Playmobil - Bouffe-Tout avec Stand de Hot Dogs - 9222'
 sku: 'B01LY44LRZ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-29 11:14:53
 image: 'https://m.media-amazon.com/images/I/51iOTo1aztL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9PB9JY-fr BOBOO Mini RC Drone pour Enfants Quadcopter RC Pliable...'
 sku: 'B08C9PB9JY-fr'
 tags: [  ]

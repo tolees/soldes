@@ -5,7 +5,7 @@ date: 2020-10-09 20:27:47
 image: 'https://m.media-amazon.com/images/I/41a6k72rmmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003DTL84C-fr Thule EuroRide 2 13-pin Porte-vélos sur boule d attelage...'
 sku: 'B003DTL84C-fr'
 tags: [  ]

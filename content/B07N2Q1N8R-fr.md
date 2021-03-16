@@ -5,7 +5,7 @@ date: 2020-05-23 00:00:08
 image: 'https://m.media-amazon.com/images/I/31hIW3LsdFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2Q1N8R-fr Dsquared2 D Squared Brillengestelle DQ5137 045-49-20-145...'
 sku: 'B07N2Q1N8R-fr'
 tags: [  ]

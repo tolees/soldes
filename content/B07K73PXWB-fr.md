@@ -5,7 +5,7 @@ date: 2020-05-22 22:53:51
 image: 'https://m.media-amazon.com/images/I/41FyQpHbIQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K73PXWB-fr Levi s 511 Slim Fit – Jeans pour hommes à coupe ajustée...'
 sku: 'B07K73PXWB-fr'
 tags: [  ]

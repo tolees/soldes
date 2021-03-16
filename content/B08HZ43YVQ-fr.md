@@ -5,7 +5,7 @@ date: 2020-10-01 03:08:51
 image: 'https://m.media-amazon.com/images/I/31BgXj9saML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HZ43YVQ-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
 sku: 'B08HZ43YVQ-fr'
 tags: [  ]

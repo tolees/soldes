@@ -5,7 +5,7 @@ date: 2020-08-04 20:03:29
 image: 'https://m.media-amazon.com/images/I/41IOX3VpCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075YZG7TQ-fr Trangoworld Bomio IP Chaussures de Randonnée Basses Mixte...'
 sku: 'B075YZG7TQ-fr'
 tags: [  ]

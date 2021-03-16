@@ -5,7 +5,7 @@ date: 2020-05-23 05:21:54
 image: 'https://m.media-amazon.com/images/I/518gQx05GgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BXX74OS-fr Thomas 788568 Aspirateur filtre à eau Orange/Gris 1 8 L...'
 sku: 'B00BXX74OS-fr'
 tags: [  ]

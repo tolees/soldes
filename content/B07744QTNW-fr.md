@@ -5,7 +5,7 @@ date: 2020-05-22 20:55:12
 image: 'https://m.media-amazon.com/images/I/51JU0j-IHiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07744QTNW-fr adidas NMD r1 Stlt PK Chaussures de Fitness Homme Gris...'
 sku: 'B07744QTNW-fr'
 tags: [  ]

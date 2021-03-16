@@ -5,7 +5,7 @@ date: 2020-08-28 11:27:17
 image: 'https://m.media-amazon.com/images/I/31dtvPITJkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00Q4MYZW2-fr Lacoste - TH7618 - T-Shirt - Homme - Noir Noir 031 - FR:4 M'
 sku: 'B00Q4MYZW2-fr'
 tags: [  ]

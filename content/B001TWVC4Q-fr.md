@@ -5,7 +5,7 @@ date: 2020-08-06 16:28:10
 image: 'https://m.media-amazon.com/images/I/31WQuDp7aFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001TWVC4Q-fr Makita UH 5570 Taille-haies'
 sku: 'B001TWVC4Q-fr'
 tags: [  ]

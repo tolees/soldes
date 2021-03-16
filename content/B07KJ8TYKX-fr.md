@@ -5,7 +5,7 @@ date: 2020-05-22 23:49:42
 image: 'https://m.media-amazon.com/images/I/41iNYjuc+1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJ8TYKX-fr Love Moschino Jc4055pp18lg150a Sac Messager Mixte Adulte...'
 sku: 'B07KJ8TYKX-fr'
 tags: [  ]

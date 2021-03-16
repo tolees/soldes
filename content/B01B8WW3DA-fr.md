@@ -5,7 +5,7 @@ date: 2020-09-18 05:35:39
 image: 'https://m.media-amazon.com/images/I/41Fa9WGB4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B8WW3DA-fr Rubie s-déguisement officiel - Rubie s-Costume Miraculous...'
 sku: 'B01B8WW3DA-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:12:06
 image: 'https://m.media-amazon.com/images/I/519yh7h+FRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GQP95F4-fr Feisui Collier Dressage Chien 800 Mètres Collier d...'
 sku: 'B07GQP95F4-fr'
 tags: [  ]

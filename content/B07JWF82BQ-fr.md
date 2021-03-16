@@ -5,7 +5,7 @@ date: 2020-10-12 10:28:17
 image: 'https://m.media-amazon.com/images/I/41ch27pmlvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JWF82BQ-fr Robot Blender Mixeur Multifonction - Power Blender Greenis...'
 sku: 'B07JWF82BQ-fr'
 tags: [  ]

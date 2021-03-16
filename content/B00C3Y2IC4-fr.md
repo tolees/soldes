@@ -5,7 +5,7 @@ date: 2020-10-03 19:29:24
 image: 'https://m.media-amazon.com/images/I/41W9CB9juUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00C3Y2IC4-fr Laurastar Lift Plus Ultimate Black Centrale Vapeur Nomade...'
 sku: 'B00C3Y2IC4-fr'
 tags: [  ]

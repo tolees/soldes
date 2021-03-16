@@ -5,7 +5,7 @@ date: 2020-08-28 17:17:23
 image: 'https://m.media-amazon.com/images/I/21+uwWbLchL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0149QBQE4-fr Corsair MM200 Tapis de Souris Gaming Extended Tissu Noir'
 sku: 'B0149QBQE4-fr'
 tags: [  ]

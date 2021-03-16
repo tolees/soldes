@@ -5,7 +5,7 @@ date: 2020-10-03 03:00:42
 image: 'https://m.media-amazon.com/images/I/31GBLbBiyYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TN5PSXF-fr UMtrade Mode Acier Inoxydable Hommes Christian Sideway...'
 sku: 'B07TN5PSXF-fr'
 tags: [  ]

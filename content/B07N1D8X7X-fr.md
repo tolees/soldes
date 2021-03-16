@@ -5,7 +5,7 @@ date: 2020-05-22 23:35:49
 image: 'https://m.media-amazon.com/images/I/41CC3wbFK-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1D8X7X-fr Kipling Youri Spin 55 Luggage 33 L Black Indigo'
 sku: 'B07N1D8X7X-fr'
 tags: [  ]

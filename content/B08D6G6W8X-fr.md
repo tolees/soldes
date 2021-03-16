@@ -5,7 +5,7 @@ date: 2020-08-18 16:46:55
 image: 'https://m.media-amazon.com/images/I/41ECABb6Z8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D6G6W8X-fr Disque Dur Externe 1 to USB 3.0 pour PC Mac MacBook Xbox...'
 sku: 'B08D6G6W8X-fr'
 tags: [  ]

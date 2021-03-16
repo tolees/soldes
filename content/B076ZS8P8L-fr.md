@@ -5,7 +5,7 @@ date: 2020-09-05 06:55:54
 image: 'https://m.media-amazon.com/images/I/41MkLofdDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076ZS8P8L-fr DUAL 28 Days Detox Tea🌱🍵Thé Minceur Infusion pour Perte de...'
 sku: 'B076ZS8P8L-fr'
 tags: [  ]

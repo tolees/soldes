@@ -5,7 +5,7 @@ date: 2020-09-27 14:45:30
 image: 'https://m.media-amazon.com/images/I/413McffAtTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLRK4ZQ-fr David Jones - Grand Sac à Main Femme - Cabas Fourre-Tout...'
 sku: 'B07FLRK4ZQ-fr'
 tags: [  ]

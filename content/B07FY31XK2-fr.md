@@ -5,7 +5,7 @@ date: 2020-05-27 10:06:13
 image: 'https://m.media-amazon.com/images/I/41gc5SHRlFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FY31XK2-fr Office 365 Famille maintenant Microsoft 365 Famille |...'
 sku: 'B07FY31XK2-fr'
 tags: [  ]

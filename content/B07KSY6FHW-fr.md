@@ -5,7 +5,7 @@ date: 2020-05-22 22:40:58
 image: 'https://m.media-amazon.com/images/I/311xtFAOg8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSY6FHW-fr Love Moschino Logo Box Short Sleeve Polo Black C74 Small...'
 sku: 'B07KSY6FHW-fr'
 tags: [  ]

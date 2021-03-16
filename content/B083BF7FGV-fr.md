@@ -5,7 +5,7 @@ date: 2020-08-07 00:15:59
 image: 'https://m.media-amazon.com/images/I/41XfQbXFQ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083BF7FGV-fr TUTUO Manette pour Nintendo Switch Switch Pro sans Fil...'
 sku: 'B083BF7FGV-fr'
 tags: [  ]

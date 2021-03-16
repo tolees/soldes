@@ -5,7 +5,7 @@ date: 2020-09-27 03:14:06
 image: 'https://m.media-amazon.com/images/I/21nVCN5yKdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011BRKPLE-fr HUAWEI Surfstick Clé USB E3372H-320 LTE jusqu à 150 Mbit/s...'
 sku: 'B011BRKPLE-fr'
 tags: [  ]

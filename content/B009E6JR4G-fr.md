@@ -5,7 +5,7 @@ date: 2020-05-22 23:28:12
 image: 'https://m.media-amazon.com/images/I/31wGQGu7g5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009E6JR4G-fr Legrand LEG92727 Tableau Chauffe Eau'
 sku: 'B009E6JR4G-fr'
 tags: [  ]

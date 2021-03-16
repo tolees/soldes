@@ -5,7 +5,7 @@ date: 2020-05-22 21:16:56
 image: 'https://m.media-amazon.com/images/I/31ZfTGAZ8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTO6G2-fr G-Star Bronson Slim Chino Pantalon Grey GS Grey 5126-1260...'
 sku: 'B01BGTO6G2-fr'
 tags: [  ]

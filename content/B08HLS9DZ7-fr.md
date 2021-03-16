@@ -5,7 +5,7 @@ date: 2020-09-25 08:06:36
 image: 'https://m.media-amazon.com/images/I/41ECABb6Z8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLS9DZ7-fr Disque Dur Externe 1to USB3.0 Disque Dur Externe pour PC...'
 sku: 'B08HLS9DZ7-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 12:28:08
 image: 'https://m.media-amazon.com/images/I/410d3AaXfML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072FHVFWK-fr Otterbox Batterie externe Powerbank 20 000 mAh'
 sku: 'B072FHVFWK-fr'
 tags: [  ]

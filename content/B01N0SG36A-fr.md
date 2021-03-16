@@ -5,7 +5,7 @@ date: 2020-09-11 20:53:42
 image: 'https://m.media-amazon.com/images/I/41FD-Re1XIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0SG36A-fr FIBARO Homekit enabled Multisensor/ Détecteur de Mouvement'
 sku: 'B01N0SG36A-fr'
 tags: [  ]

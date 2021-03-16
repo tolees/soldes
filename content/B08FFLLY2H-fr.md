@@ -5,7 +5,7 @@ date: 2020-08-23 05:13:37
 image: 'https://m.media-amazon.com/images/I/51NT7SAb0zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFLLY2H-fr LK Coque pour Xiaomi Redmi 9A [Antidérapant] Souple...'
 sku: 'B08FFLLY2H-fr'
 tags: [  ]

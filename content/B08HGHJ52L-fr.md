@@ -5,7 +5,7 @@ date: 2020-09-26 14:31:41
 image: 'https://m.media-amazon.com/images/I/510JNvgsW6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HGHJ52L-fr LK Clair Coque pour Samsung Galaxy A71 [2 pièces Verre...'
 sku: 'B08HGHJ52L-fr'
 tags: [  ]

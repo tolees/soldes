@@ -5,7 +5,7 @@ date: 2020-07-20 12:25:06
 image: 'https://m.media-amazon.com/images/I/41x860tqHIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L3VQ1RL-fr FUNLAB Premium Étui de jeux pour Nintendo Switch Portable...'
 sku: 'B07L3VQ1RL-fr'
 tags: [  ]

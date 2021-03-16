@@ -5,7 +5,7 @@ date: 2020-05-22 21:59:28
 image: 'https://m.media-amazon.com/images/I/21BBVmm5htL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BP9WDC3-fr QNAP TS-253BE-2G 16 to Solution NAS de Bureau à 2 Baies |...'
 sku: 'B07BP9WDC3-fr'
 tags: [  ]

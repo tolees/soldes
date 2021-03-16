@@ -5,7 +5,7 @@ date: 2020-08-13 12:27:55
 image: 'https://m.media-amazon.com/images/I/31+h02B4stL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZSM77G-fr Amical 9 5 Pouces SuperG-Ṍ-d-és fémmḔ Vî-b-r-àňt pṌïňt g...'
 sku: 'B089ZSM77G-fr'
 tags: [  ]

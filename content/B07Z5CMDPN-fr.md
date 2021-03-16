@@ -5,7 +5,7 @@ date: 2020-08-25 17:10:40
 image: 'https://m.media-amazon.com/images/I/41-SbnEPF+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z5CMDPN-fr G-STAR RAW Boxed Raw Graphic Straight T-Shirt Indigo...'
 sku: 'B07Z5CMDPN-fr'
 tags: [  ]

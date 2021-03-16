@@ -5,7 +5,7 @@ date: 2020-08-16 01:00:35
 image: 'https://m.media-amazon.com/images/I/416V0m4IDVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085G1VLWV-fr BRIKSMAX Kit de LED pour Lego Architecture L’Empire State...'
 sku: 'B085G1VLWV-fr'
 tags: [  ]

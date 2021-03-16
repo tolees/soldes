@@ -5,7 +5,7 @@ date: 2020-08-10 16:54:34
 image: 'https://m.media-amazon.com/images/I/413lo17QyGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003KJTZYK-fr D-Link DGS-1210-10P Switch Smart Web Manageable 10 Ports...'
 sku: 'B003KJTZYK-fr'
 tags: [  ]

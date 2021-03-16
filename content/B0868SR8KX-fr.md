@@ -5,7 +5,7 @@ date: 2020-06-04 00:34:28
 image: 'https://m.media-amazon.com/images/I/41QiLHyxYSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0868SR8KX-fr DishyKooker M65 RC Drone avec Caméra 4K HD FPV WiFi...'
 sku: 'B0868SR8KX-fr'
 tags: [  ]

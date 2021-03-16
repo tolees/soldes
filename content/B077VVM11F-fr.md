@@ -5,7 +5,7 @@ date: 2020-05-22 22:24:52
 image: 'https://m.media-amazon.com/images/I/41Ja6Tif0hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VVM11F-fr Nike 894432 T-Shirt Men s Bleu Midnight Navy/White 411 FR...'
 sku: 'B077VVM11F-fr'
 tags: [  ]

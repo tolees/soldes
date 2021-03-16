@@ -5,7 +5,7 @@ date: 2020-05-22 21:56:18
 image: 'https://m.media-amazon.com/images/I/41aKYXrd7DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFTRDP9-fr LETTAS Siège Auto 360° Pivotant Groupe 0+1/2/3 DE 0 à 36...'
 sku: 'B07FFTRDP9-fr'
 tags: [  ]

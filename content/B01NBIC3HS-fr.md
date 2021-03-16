@@ -5,7 +5,7 @@ date: 2020-08-29 23:21:13
 image: 'https://m.media-amazon.com/images/I/514Ujz1FObL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NBIC3HS-fr Lacoste Homme Analogique Classique Quartz Montres bracelet...'
 sku: 'B01NBIC3HS-fr'
 tags: [  ]

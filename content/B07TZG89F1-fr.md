@@ -5,7 +5,7 @@ date: 2020-05-22 23:54:14
 image: 'https://m.media-amazon.com/images/I/41tOiEeEITL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZG89F1-fr ENJOHOS Lampe Loupe d Atelier Esthetique à pince...'
 sku: 'B07TZG89F1-fr'
 tags: [  ]

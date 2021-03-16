@@ -5,7 +5,7 @@ date: 2020-08-05 06:19:59
 image: 'https://m.media-amazon.com/images/I/41o+7Q3VUDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N49QV1S-fr Aicok Ensemble de couteaux Couteaux de chef avec bloc en...'
 sku: 'B01N49QV1S-fr'
 tags: [  ]

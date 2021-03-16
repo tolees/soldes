@@ -5,7 +5,7 @@ date: 2020-08-06 09:04:49
 image: 'https://m.media-amazon.com/images/I/41tRmV27zyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F39H6PW-fr El Naturalista Wakatiwai Sandales Bout Ouvert Femme Jaune...'
 sku: 'B07F39H6PW-fr'
 tags: [  ]

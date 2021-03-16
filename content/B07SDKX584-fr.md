@@ -5,7 +5,7 @@ date: 2020-10-09 07:58:40
 image: 'https://m.media-amazon.com/images/I/51I096Z0tHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SDKX584-fr Pokémon-Détective Pikachu [4K Ultra HD + Blu-Ray]'
 sku: 'B07SDKX584-fr'
 tags: [  ]

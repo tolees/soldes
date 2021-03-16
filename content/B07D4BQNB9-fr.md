@@ -5,7 +5,7 @@ date: 2020-10-09 18:24:05
 image: 'https://m.media-amazon.com/images/I/5115SiGMr4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D4BQNB9-fr Monrinda Unisex Chaussure de Sport Femme Basket de Running...'
 sku: 'B07D4BQNB9-fr'
 tags: [  ]

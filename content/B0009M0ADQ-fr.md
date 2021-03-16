@@ -5,7 +5,7 @@ date: 2020-09-16 09:23:57
 image: 'https://m.media-amazon.com/images/I/21ZwYrCs3nL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0009M0ADQ-fr Canon CA-570 Chargeur de batterie pour caméscope Canon'
 sku: 'B0009M0ADQ-fr'
 tags: [  ]

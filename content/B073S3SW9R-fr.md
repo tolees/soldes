@@ -5,7 +5,7 @@ date: 2020-08-15 16:03:14
 image: 'https://m.media-amazon.com/images/I/31a4o4AEGZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073S3SW9R-fr Déshumidificateur Electrique Aidodo d air...'
 sku: 'B073S3SW9R-fr'
 tags: [  ]

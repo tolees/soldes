@@ -5,7 +5,7 @@ date: 2020-08-05 12:25:15
 image: 'https://m.media-amazon.com/images/I/512LTJ6cSJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQBGR62-fr JOYXEON Pneu Plein Compatible avec Xiaomi M365 Cellulaire...'
 sku: 'B07XQBGR62-fr'
 tags: [  ]

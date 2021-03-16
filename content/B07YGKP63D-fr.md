@@ -5,7 +5,7 @@ date: 2020-09-19 13:28:26
 image: 'https://m.media-amazon.com/images/I/21yOaKxDPQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGKP63D-fr Joseph Joseph 30091 Totem Pop 60L Unité de tri sélectif...'
 sku: 'B07YGKP63D-fr'
 tags: [  ]

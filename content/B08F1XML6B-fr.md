@@ -5,7 +5,7 @@ date: 2020-08-07 06:05:42
 image: 'https://m.media-amazon.com/images/I/41ZUXvYu8TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F1XML6B-fr Écouteurs Bluetooth 5.0 Écouteur sans Fil avec réduction...'
 sku: 'B08F1XML6B-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-27 05:16:13
 image: 'https://m.media-amazon.com/images/I/51LBuenYoML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS12LTL-fr HUION New Kamvas 20 2019 Tablette Graphique avec écran...'
 sku: 'B07RS12LTL-fr'
 tags: [  ]

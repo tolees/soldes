@@ -5,7 +5,7 @@ date: 2020-08-24 23:31:52
 image: 'https://m.media-amazon.com/images/I/51VVz4dTB8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085RDYFPH-fr Rolimate Puzzles en Bois Jouet Bébé 3D Puzzles Jouets...'
 sku: 'B085RDYFPH-fr'
 tags: [  ]

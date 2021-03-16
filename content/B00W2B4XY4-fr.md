@@ -5,7 +5,7 @@ date: 2020-05-22 23:54:16
 image: 'https://m.media-amazon.com/images/I/4161smxiOxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W2B4XY4-fr Jabra BIZ™ 2400 II Duo NOUVELLE GENERATION - Type: 72 UNC...'
 sku: 'B00W2B4XY4-fr'
 tags: [  ]

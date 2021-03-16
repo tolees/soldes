@@ -5,7 +5,7 @@ date: 2020-05-22 22:43:31
 image: 'https://m.media-amazon.com/images/I/41FOmNhU27L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTKYW71-fr Cressi Homme Apnea Complete 7 mm Freediving/Spearfishing...'
 sku: 'B07KTKYW71-fr'
 tags: [  ]

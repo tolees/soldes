@@ -5,7 +5,7 @@ date: 2020-05-26 17:50:48
 image: 'https://m.media-amazon.com/images/I/41Nj61tdhnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HN88WLL-fr 8-Bit Armies - Limited Edition'
 sku: 'B07HN88WLL-fr'
 tags: [  ]

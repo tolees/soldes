@@ -5,7 +5,7 @@ date: 2020-08-13 12:31:47
 image: 'https://m.media-amazon.com/images/I/51kNyUF14UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKQMLGP-fr HHUIWIND Coque Xiaomi Redmi 9 + Verre Trempé Protection...'
 sku: 'B08DKQMLGP-fr'
 tags: [  ]

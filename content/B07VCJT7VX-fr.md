@@ -5,7 +5,7 @@ date: 2020-08-08 21:43:43
 image: 'https://m.media-amazon.com/images/I/41OZDgR5wVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VCJT7VX-fr camel active Womenswear Jacke Jacket Vert Menthe poivrée...'
 sku: 'B07VCJT7VX-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-16 22:13:27
 image: 'https://m.media-amazon.com/images/I/51sPFdwaNVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HGC6YDF-fr Amiibo Cat Mario Cat Peach 2en1 pour Nintendo Switch'
 sku: 'B08HGC6YDF-fr'
 tags: [  ]

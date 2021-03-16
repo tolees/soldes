@@ -5,7 +5,7 @@ date: 2020-09-26 14:30:35
 image: 'https://m.media-amazon.com/images/I/41DRmYdgBTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WRRL2S6-fr Chumian Gilet de Sudation pour Femme Sauna Sport Gaine...'
 sku: 'B07WRRL2S6-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 20:54:41
 image: 'https://m.media-amazon.com/images/I/61uInT837OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNFNQ9C-fr STAGLIFE Sac Bandoulière en Cuir Urbain pour Femme Sac de...'
 sku: 'B07VNFNQ9C-fr'
 tags: [  ]

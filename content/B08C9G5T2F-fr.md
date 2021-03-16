@@ -5,7 +5,7 @@ date: 2020-08-23 05:07:19
 image: 'https://m.media-amazon.com/images/I/51IaTMpaGNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9G5T2F-fr OFFRE DE LANCEMENT - Correcteur de Posture Saona Concept®...'
 sku: 'B08C9G5T2F-fr'
 tags: [  ]

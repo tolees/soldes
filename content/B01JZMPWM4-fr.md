@@ -5,7 +5,7 @@ date: 2020-05-22 20:20:26
 image: 'https://m.media-amazon.com/images/I/411yCv7Oo7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01JZMPWM4-fr Timberland Killington Bottes & Bottines Classiques Mixte...'
 sku: 'B01JZMPWM4-fr'
 tags: [  ]

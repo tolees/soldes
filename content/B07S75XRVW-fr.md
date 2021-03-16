@@ -5,7 +5,7 @@ date: 2020-10-10 18:30:19
 image: 'https://m.media-amazon.com/images/I/31ux4TRFydL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S75XRVW-fr Crocs Classic Vacay Vibes Clog Sabots Mixte Adulte Orange...'
 sku: 'B07S75XRVW-fr'
 tags: [  ]

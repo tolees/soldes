@@ -5,7 +5,7 @@ date: 2020-05-22 22:39:55
 image: 'https://m.media-amazon.com/images/I/319XsDe-D-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JHYG43N-fr Amazon Essentials Pantalon extensible pour homme Coupe...'
 sku: 'B07JHYG43N-fr'
 tags: [  ]

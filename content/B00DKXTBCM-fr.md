@@ -5,7 +5,7 @@ date: 2020-08-28 00:07:08
 image: 'https://m.media-amazon.com/images/I/51ShdRsnbkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DKXTBCM-fr Lavazza A Modo Mio Café Espresso Passionale Capsules 100%...'
 sku: 'B00DKXTBCM-fr'
 tags: [  ]

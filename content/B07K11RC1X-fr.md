@@ -5,7 +5,7 @@ date: 2020-05-22 21:34:03
 image: 'https://m.media-amazon.com/images/I/31Tkj5QrK5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K11RC1X-fr adidas I-5923 Chaussures de Gymnastique homme - Blanc Ftwr...'
 sku: 'B07K11RC1X-fr'
 tags: [  ]

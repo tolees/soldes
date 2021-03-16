@@ -5,7 +5,7 @@ date: 2020-05-22 22:18:39
 image: 'https://m.media-amazon.com/images/I/31L7mwj+ZtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NCJYGXS-fr HÖGL Gently Escarpins Femme Noir Schwarz 0100 41 EU'
 sku: 'B07NCJYGXS-fr'
 tags: [  ]

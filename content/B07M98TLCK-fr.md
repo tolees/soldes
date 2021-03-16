@@ -5,7 +5,7 @@ date: 2020-08-28 06:20:31
 image: 'https://m.media-amazon.com/images/I/31hY580jpcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M98TLCK-fr Blink XT2 | Caméra de sécurité connectée...'
 sku: 'B07M98TLCK-fr'
 tags: [  ]

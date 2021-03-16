@@ -5,7 +5,7 @@ date: 2020-07-19 05:53:24
 image: 'https://m.media-amazon.com/images/I/41HGP0K4zvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5WBCCQ-fr ORICO Boîtier Disque Dur 2 5 Boîtier Externe Portable...'
 sku: 'B08B5WBCCQ-fr'
 tags: [  ]

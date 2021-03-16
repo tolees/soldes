@@ -5,7 +5,7 @@ date: 2020-08-28 05:29:55
 image: 'https://m.media-amazon.com/images/I/51ztuHinMLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BTJQRMC-fr Caffè Carracci 100 Capsules Compatibles Lavazza A Modo Mio...'
 sku: 'B07BTJQRMC-fr'
 tags: [  ]

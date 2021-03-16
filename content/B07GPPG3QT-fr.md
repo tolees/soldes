@@ -5,7 +5,7 @@ date: 2020-05-22 21:42:57
 image: 'https://m.media-amazon.com/images/I/41POjtyt8nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPPG3QT-fr Skechers Men s Moreno Trainers Beige Taupe TPE 8.5 UK 42.5 EU'
 sku: 'B07GPPG3QT-fr'
 tags: [  ]

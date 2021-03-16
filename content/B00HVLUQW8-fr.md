@@ -5,7 +5,7 @@ date: 2020-09-22 02:29:19
 image: 'https://m.media-amazon.com/images/I/21iRpcx0DZL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00HVLUQW8-fr Audio-Technica ATH-M30X Casque audio professionnel Noir'
 sku: 'B00HVLUQW8-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:31:02
 image: 'https://m.media-amazon.com/images/I/41B6L0bxqkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S283CPP-fr Redskins Blouson Cuir Karting Calista Homme'
 sku: 'B07S283CPP-fr'
 tags: [  ]

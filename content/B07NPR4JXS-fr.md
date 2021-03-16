@@ -5,7 +5,7 @@ date: 2020-08-04 21:27:52
 image: 'https://m.media-amazon.com/images/I/41sJ94D3PkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPR4JXS-fr Pierre Cardin Smart Casual Sakko Michel2 Washed Denim...'
 sku: 'B07NPR4JXS-fr'
 tags: [  ]

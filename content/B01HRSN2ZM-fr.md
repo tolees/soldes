@@ -5,7 +5,7 @@ date: 2020-09-11 13:27:34
 image: 'https://m.media-amazon.com/images/I/51ZUPKuVbsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01HRSN2ZM-fr Sveltus Set Plyobox'
 sku: 'B01HRSN2ZM-fr'
 tags: [  ]

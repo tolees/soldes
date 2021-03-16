@@ -5,7 +5,7 @@ date: 2020-09-14 03:14:29
 image: 'https://m.media-amazon.com/images/I/41G2rmjLJCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073CDGDV7-fr Mpow Écouteur Bluetooth Sport IPX7 Étanche Écouteur sans...'
 sku: 'B073CDGDV7-fr'
 tags: [  ]

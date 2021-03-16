@@ -5,7 +5,7 @@ date: 2020-08-05 00:09:58
 image: 'https://m.media-amazon.com/images/I/512yzZKAooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XQY8JZ2-fr Tronsmart T6 Plus Enceinte Bluetooth 40W Haut Parleur...'
 sku: 'B07XQY8JZ2-fr'
 tags: [  ]

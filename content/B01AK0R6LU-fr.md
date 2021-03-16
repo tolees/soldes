@@ -5,7 +5,7 @@ date: 2020-10-02 09:08:20
 image: 'https://m.media-amazon.com/images/I/41sc6Kj9W0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AK0R6LU-fr Razor - 13173861 - Patinette Électronique - E90 Power Core...'
 sku: 'B01AK0R6LU-fr'
 tags: [  ]

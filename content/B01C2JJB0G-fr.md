@@ -5,7 +5,7 @@ date: 2020-07-24 18:16:28
 image: 'https://m.media-amazon.com/images/I/41VKejs69WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C2JJB0G-fr EmtecECSSD480GX150 - Disque SSDInterne - 2.5 - SATA -...'
 sku: 'B01C2JJB0G-fr'
 tags: [  ]

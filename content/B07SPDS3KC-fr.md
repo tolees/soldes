@@ -5,7 +5,7 @@ date: 2020-08-07 14:43:56
 image: 'https://m.media-amazon.com/images/I/41Extb0jY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SPDS3KC-fr R Roncato Flight Set Da 3 Trolley Mallette Ordinateur à...'
 sku: 'B07SPDS3KC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:14:56
 image: 'https://m.media-amazon.com/images/I/51bBUJTtssL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008YELYCW-fr OSRAM LEDriving PX-5 feux diurnes LEDDRL301 5 LED spots...'
 sku: 'B008YELYCW-fr'
 tags: [  ]

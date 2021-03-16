@@ -5,7 +5,7 @@ date: 2020-07-10 01:20:24
 image: 'https://m.media-amazon.com/images/I/31zlBn4dx5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000RSTX9O-fr TP-Link TL-SG1024 Switch 24 Ports Gigabit Rackable Boîtier...'
 sku: 'B000RSTX9O-fr'
 tags: [  ]

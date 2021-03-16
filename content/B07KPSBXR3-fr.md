@@ -5,7 +5,7 @@ date: 2020-07-17 03:56:36
 image: 'https://m.media-amazon.com/images/I/41dH815KGcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KPSBXR3-fr Funko-Figurines Pop Vinyl: Disney: The Lion King: Simba...'
 sku: 'B07KPSBXR3-fr'
 tags: [  ]

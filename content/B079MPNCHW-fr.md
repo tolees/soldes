@@ -5,7 +5,7 @@ date: 2020-09-26 14:36:58
 image: 'https://m.media-amazon.com/images/I/51cBWT0b8FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079MPNCHW-fr Playmobil - Véhicule de Reconnaissance Spatiale - 9489'
 sku: 'B079MPNCHW-fr'
 tags: [  ]

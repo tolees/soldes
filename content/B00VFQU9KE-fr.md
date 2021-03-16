@@ -5,7 +5,7 @@ date: 2020-05-22 23:27:59
 image: 'https://m.media-amazon.com/images/I/41NGmU8Il+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VFQU9KE-fr Samsonite Lite-Shock - Spinner XL Valise 81 cm 124 L Noir...'
 sku: 'B00VFQU9KE-fr'
 tags: [  ]

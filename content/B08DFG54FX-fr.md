@@ -5,7 +5,7 @@ date: 2020-09-24 02:00:35
 image: 'https://m.media-amazon.com/images/I/51vOaxXMs5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFG54FX-fr MOONESS Coque pour Samsung Galaxy A21s Rouge Housse en...'
 sku: 'B08DFG54FX-fr'
 tags: [  ]

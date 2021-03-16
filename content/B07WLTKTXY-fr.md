@@ -5,7 +5,7 @@ date: 2020-09-11 21:55:49
 image: 'https://m.media-amazon.com/images/I/41cm69HM4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLTKTXY-fr Echo Dot 3ème génération Enceinte connectée avec Alexa...'
 sku: 'B07WLTKTXY-fr'
 tags: [  ]

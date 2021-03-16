@@ -5,7 +5,7 @@ date: 2020-09-30 15:11:54
 image: 'https://m.media-amazon.com/images/I/41Saumfk+OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AHP76Q8-fr Razor Power Core E90 E90-Trottinette électrique-Rose Enfant'
 sku: 'B01AHP76Q8-fr'
 tags: [  ]

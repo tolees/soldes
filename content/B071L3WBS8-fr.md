@@ -5,7 +5,7 @@ date: 2020-10-05 14:43:29
 image: 'https://m.media-amazon.com/images/I/41Yud8wlBUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071L3WBS8-fr Andoer Meikon Caméra sous-marine 200 mm Fisheye objectif...'
 sku: 'B071L3WBS8-fr'
 tags: [  ]

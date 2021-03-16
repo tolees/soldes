@@ -5,7 +5,7 @@ date: 2020-07-20 23:54:25
 image: 'https://m.media-amazon.com/images/I/31ivu0b4UuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY4ZGK8-fr Emartbuy Luxe Rigide Boîte-Cadeau de Présentation en Forme...'
 sku: 'B07PY4ZGK8-fr'
 tags: [  ]

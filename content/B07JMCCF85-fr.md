@@ -5,7 +5,7 @@ date: 2020-10-04 10:56:44
 image: 'https://m.media-amazon.com/images/I/51eQQqBThUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMCCF85-fr Playmobil - Grand Camping - 70087'
 sku: 'B07JMCCF85-fr'
 tags: [  ]

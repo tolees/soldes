@@ -5,7 +5,7 @@ date: 2020-08-04 08:06:58
 image: 'https://m.media-amazon.com/images/I/41r60sk0XNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073SWC3Y8-fr BODY WRAP - Body Retro Sculptant avec Armatures et...'
 sku: 'B073SWC3Y8-fr'
 tags: [  ]

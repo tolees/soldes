@@ -5,7 +5,7 @@ date: 2020-08-18 05:22:06
 image: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNVHL7M-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 60 Go...'
 sku: 'B07CNVHL7M-fr'
 tags: [  ]

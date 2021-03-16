@@ -5,7 +5,7 @@ date: 2020-08-12 13:43:46
 image: 'https://m.media-amazon.com/images/I/41cn+v5FkwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083F2ZJGK-fr US-TRONIC CONVERTISSEUR Pur Sinus 12V 220V - 1000 Watts +...'
 sku: 'B083F2ZJGK-fr'
 tags: [  ]

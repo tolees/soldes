@@ -5,7 +5,7 @@ date: 2020-08-11 19:44:28
 image: 'https://m.media-amazon.com/images/I/41nlzEn8TZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XDT62F-fr Norsens Sac à Dos Ordinateur Portable 17/15.6 Pouces...'
 sku: 'B075XDT62F-fr'
 tags: [  ]

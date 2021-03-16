@@ -5,7 +5,7 @@ date: 2020-08-09 18:14:01
 image: 'https://m.media-amazon.com/images/I/514SigvPPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YB75P8T-fr FUNINGEEK Micro Casque Gaming PS4 Casque Gaming Switch...'
 sku: 'B07YB75P8T-fr'
 tags: [  ]

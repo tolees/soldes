@@ -5,7 +5,7 @@ date: 2020-05-22 22:38:52
 image: 'https://m.media-amazon.com/images/I/41gCkHwM2JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FIYNQ4K-fr Dunlop SP Sport Maxx GT XL MFS - 275/40R20 106W - Pneu Été'
 sku: 'B00FIYNQ4K-fr'
 tags: [  ]

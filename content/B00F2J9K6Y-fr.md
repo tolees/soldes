@@ -5,7 +5,7 @@ date: 2020-10-04 03:24:46
 image: 'https://m.media-amazon.com/images/I/41IuPZZUeuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F2J9K6Y-fr Stanley STST1-71983 Organiseur Click & Connect 50 cm'
 sku: 'B00F2J9K6Y-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 11:40:30
 image: 'https://m.media-amazon.com/images/I/41LSwLWZbjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TKS4N1P-fr Clarks Kaylin Cara Escarpins Femme Gris Stone Stone 38 EU'
 sku: 'B07TKS4N1P-fr'
 tags: [  ]

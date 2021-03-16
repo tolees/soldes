@@ -5,7 +5,7 @@ date: 2020-09-27 02:02:20
 image: 'https://m.media-amazon.com/images/I/41r8-FZsgML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00M7NEPDG-fr Fossil Femme Analogique Quartz Montre avec Bracelet en...'
 sku: 'B00M7NEPDG-fr'
 tags: [  ]

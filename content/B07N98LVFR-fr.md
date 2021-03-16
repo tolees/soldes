@@ -5,7 +5,7 @@ date: 2020-05-22 22:08:21
 image: 'https://m.media-amazon.com/images/I/41K9K-eOGIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N98LVFR-fr BOSS Wmarco Sweat-Shirt Bleu Dark Blue 404 Large Homme'
 sku: 'B07N98LVFR-fr'
 tags: [  ]

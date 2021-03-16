@@ -5,7 +5,7 @@ date: 2020-09-25 08:57:01
 image: 'https://m.media-amazon.com/images/I/41cvStapSnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8V9N1M-fr My time at Portia - Nintendo Switch'
 sku: 'B07P8V9N1M-fr'
 tags: [  ]

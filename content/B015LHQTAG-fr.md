@@ -5,7 +5,7 @@ date: 2020-08-17 16:03:19
 image: 'https://m.media-amazon.com/images/I/31YuF3q6mcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015LHQTAG-fr Beurer FC 90 Pureo Ionic Soin du Visage Anti-âge - Brosse...'
 sku: 'B015LHQTAG-fr'
 tags: [  ]

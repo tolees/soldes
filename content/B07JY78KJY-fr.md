@@ -5,7 +5,7 @@ date: 2020-09-26 14:27:33
 image: 'https://m.media-amazon.com/images/I/61DKPYulTfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JY78KJY-fr Mini Modèle de Voiture Ensemble de Jouets de camions avec...'
 sku: 'B07JY78KJY-fr'
 tags: [  ]

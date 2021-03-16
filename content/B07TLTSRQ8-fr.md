@@ -5,7 +5,7 @@ date: 2020-09-06 10:45:32
 image: 'https://m.media-amazon.com/images/I/41ggNNBgrpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TLTSRQ8-fr Clarks Step Allena Go Sneakers Basses Femme Beige Mauve...'
 sku: 'B07TLTSRQ8-fr'
 tags: [  ]

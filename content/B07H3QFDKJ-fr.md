@@ -5,7 +5,7 @@ date: 2020-08-13 07:27:35
 image: 'https://m.media-amazon.com/images/I/41lrk95iZ8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H3QFDKJ-fr AUBADE Soutien-gorge Push-Up Coussinets Amovibles FIEVRE...'
 sku: 'B07H3QFDKJ-fr'
 tags: [  ]

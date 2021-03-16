@@ -5,7 +5,7 @@ date: 2020-05-22 21:14:10
 image: 'https://m.media-amazon.com/images/I/41v2Ug7L2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RWJTXZQ-fr Guess Painted/Active Lady/Leather Li Chaussures de...'
 sku: 'B07RWJTXZQ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 00:10:22
 image: 'https://m.media-amazon.com/images/I/41Etsy5eLSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVBJR1Y-fr Siemens EQ.9 Plus Connect s500 TI9553X1RW – Machine à café...'
 sku: 'B07JVBJR1Y-fr'
 tags: [  ]

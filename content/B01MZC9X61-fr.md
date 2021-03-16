@@ -5,7 +5,7 @@ date: 2020-05-28 09:08:18
 image: 'https://m.media-amazon.com/images/I/41HGmYiXtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MZC9X61-fr Dimplex 206831 Cheminée electrique avec Télécommande 1200...'
 sku: 'B01MZC9X61-fr'
 tags: [  ]

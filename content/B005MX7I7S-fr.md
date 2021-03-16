@@ -5,7 +5,7 @@ date: 2020-08-13 06:10:59
 image: 'https://m.media-amazon.com/images/I/41ImpEjenLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005MX7I7S-fr Slendertone Short d électrostimulation femme Noir Taille...'
 sku: 'B005MX7I7S-fr'
 tags: [  ]

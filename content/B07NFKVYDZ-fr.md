@@ -5,7 +5,7 @@ date: 2020-05-22 23:38:56
 image: 'https://m.media-amazon.com/images/I/41dzAPtmCLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFKVYDZ-fr Kipling LICIA Cartable 49 cm 20 liters Multicolore Hearty...'
 sku: 'B07NFKVYDZ-fr'
 tags: [  ]

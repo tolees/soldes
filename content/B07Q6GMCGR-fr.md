@@ -5,7 +5,7 @@ date: 2020-10-09 07:57:47
 image: 'https://m.media-amazon.com/images/I/41uCKMFFL7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q6GMCGR-fr Inspire for homes Déshumidificateur & Purificateur d air 2...'
 sku: 'B07Q6GMCGR-fr'
 tags: [  ]

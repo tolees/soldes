@@ -5,7 +5,7 @@ date: 2020-06-11 19:48:50
 image: 'https://m.media-amazon.com/images/I/41CjOTg01GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071J4PW4C-fr NEWYES NYWT850 Tablette d Ecriture LCD 8.5 Pouces de...'
 sku: 'B071J4PW4C-fr'
 tags: [  ]

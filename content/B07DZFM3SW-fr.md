@@ -5,7 +5,7 @@ date: 2020-10-09 11:43:48
 image: 'https://m.media-amazon.com/images/I/31ktzrf6UlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DZFM3SW-fr jolidon – Lilly – Maillot de Bain Deux Pièces – Haut de...'
 sku: 'B07DZFM3SW-fr'
 tags: [  ]

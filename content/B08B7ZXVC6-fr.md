@@ -5,7 +5,7 @@ date: 2020-08-28 17:23:01
 image: 'https://m.media-amazon.com/images/I/41X5GV--X8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B7ZXVC6-fr Clips de Câble en Silicone Adhésif Gestion de câbles...'
 sku: 'B08B7ZXVC6-fr'
 tags: [  ]

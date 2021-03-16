@@ -5,7 +5,7 @@ date: 2020-09-30 09:05:00
 image: 'https://m.media-amazon.com/images/I/51kJ4NEld5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HQ66VXQ-fr Ruban LED Sylvwin Bande LED 5m RGB avec Télécommande 5050...'
 sku: 'B08HQ66VXQ-fr'
 tags: [  ]

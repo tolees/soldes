@@ -5,7 +5,7 @@ date: 2020-08-19 11:26:30
 image: 'https://m.media-amazon.com/images/I/51qL18D7dEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VSNBTQL-fr 3T6B Drone avec Camera 1080P HD 4K Pixels Quadricoptère de...'
 sku: 'B07VSNBTQL-fr'
 tags: [  ]

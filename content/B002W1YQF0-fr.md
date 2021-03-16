@@ -5,7 +5,7 @@ date: 2020-08-05 19:43:34
 image: 'https://m.media-amazon.com/images/I/41Rz-TtpjOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002W1YQF0-fr La Crosse Technology WS9611 Station Météo Mister Météo -...'
 sku: 'B002W1YQF0-fr'
 tags: [  ]

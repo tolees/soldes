@@ -5,7 +5,7 @@ date: 2020-08-04 18:55:18
 image: 'https://m.media-amazon.com/images/I/31-gjikzY4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HP7ZZVP-fr Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz DDR4...'
 sku: 'B07HP7ZZVP-fr'
 tags: [  ]

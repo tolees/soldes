@@ -5,7 +5,7 @@ date: 2020-05-22 22:26:07
 image: 'https://m.media-amazon.com/images/I/31S0SWi+SdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0752SP7JZ-fr Ridgebake Hauptkollektion Sac à Dos Loisir 51 Centimeters...'
 sku: 'B0752SP7JZ-fr'
 tags: [  ]

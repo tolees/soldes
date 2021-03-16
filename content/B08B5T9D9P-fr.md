@@ -5,7 +5,7 @@ date: 2020-08-05 12:29:44
 image: 'https://m.media-amazon.com/images/I/41en2I4Z5EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5T9D9P-fr eXtremeRate Coques avec ABXY Boutons de Direction pour...'
 sku: 'B08B5T9D9P-fr'
 tags: [  ]

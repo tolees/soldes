@@ -5,7 +5,7 @@ date: 2020-09-17 13:03:26
 image: 'https://m.media-amazon.com/images/I/41vk4294aTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KYW4HS4-fr INFOSEC- Onduleur Z1 Zenergy Cube EX 400 VA 3 prises...'
 sku: 'B07KYW4HS4-fr'
 tags: [  ]

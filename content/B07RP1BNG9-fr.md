@@ -5,7 +5,7 @@ date: 2020-05-22 20:14:39
 image: 'https://m.media-amazon.com/images/I/61q2obwvMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RP1BNG9-fr Figurine - Ghost Recon: Breakpoint - Nomad'
 sku: 'B07RP1BNG9-fr'
 tags: [  ]

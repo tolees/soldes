@@ -5,7 +5,7 @@ date: 2020-07-10 01:18:21
 image: 'https://m.media-amazon.com/images/I/51d3X9eHlLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZFYNRXB-fr CHiQ U55H7L UHD 4K Smart TV 55 Pouces 139cm HDR10/hlg WiFi...'
 sku: 'B07ZFYNRXB-fr'
 tags: [  ]

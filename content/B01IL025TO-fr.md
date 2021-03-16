@@ -5,7 +5,7 @@ date: 2020-08-08 16:27:42
 image: 'https://m.media-amazon.com/images/I/31cml8k2bXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IL025TO-fr Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes lot...'
 sku: 'B01IL025TO-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:49:49
 image: 'https://m.media-amazon.com/images/I/317Pvgxa+oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JNGKB5G-fr Scotch & Soda AMS Blauw Light Weight Shirt with Contrast...'
 sku: 'B07JNGKB5G-fr'
 tags: [  ]

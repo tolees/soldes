@@ -5,7 +5,7 @@ date: 2020-08-23 05:02:39
 image: 'https://m.media-amazon.com/images/I/51Rm1lV2q7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00S68SNUW-fr Sylvanian Families - 5210 - Le bateau chasse au trésor'
 sku: 'B00S68SNUW-fr'
 tags: [  ]

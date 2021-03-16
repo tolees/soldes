@@ -5,7 +5,7 @@ date: 2020-09-16 03:05:44
 image: 'https://m.media-amazon.com/images/I/41XtxD7NKZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H23NKSF-fr Disque Dur Externe 2to USB3.0 SATA Disque Dur Externe pour...'
 sku: 'B08H23NKSF-fr'
 tags: [  ]

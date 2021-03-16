@@ -5,7 +5,7 @@ date: 2020-08-13 05:46:39
 image: 'https://m.media-amazon.com/images/I/51Tmr4VD6eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R58KMSQ-fr Super Mario Maker 2 - édition limitée'
 sku: 'B07R58KMSQ-fr'
 tags: [  ]

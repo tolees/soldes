@@ -5,7 +5,7 @@ date: 2020-05-22 20:24:16
 image: 'https://m.media-amazon.com/images/I/41MyqJJvokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D7V3H8K-fr GPR EXHAUST SYSTEM GPREB .68.E Pot d échappement homologué...'
 sku: 'B01D7V3H8K-fr'
 tags: [  ]

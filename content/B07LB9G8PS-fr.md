@@ -5,7 +5,7 @@ date: 2020-05-22 22:08:25
 image: 'https://m.media-amazon.com/images/I/41ZUPte4bWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LB9G8PS-fr Love Moschino Portafogli Quilted Nappa Pu Portefeuilles...'
 sku: 'B07LB9G8PS-fr'
 tags: [  ]

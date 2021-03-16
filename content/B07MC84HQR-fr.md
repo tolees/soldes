@@ -5,7 +5,7 @@ date: 2020-05-24 13:41:52
 image: 'https://m.media-amazon.com/images/I/41q-rvj-f-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MC84HQR-fr Liu Jo Shoes Asia 06 Sneaker Sneakers Basses Femme Blanc...'
 sku: 'B07MC84HQR-fr'
 tags: [  ]

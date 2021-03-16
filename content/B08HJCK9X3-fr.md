@@ -5,7 +5,7 @@ date: 2020-10-03 09:03:44
 image: 'https://m.media-amazon.com/images/I/41SGgVshlLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HJCK9X3-fr Montre Connectée Femmes Homme Bracelet Connecté...'
 sku: 'B08HJCK9X3-fr'
 tags: [  ]

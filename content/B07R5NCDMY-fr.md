@@ -5,7 +5,7 @@ date: 2020-05-28 11:16:10
 image: 'https://m.media-amazon.com/images/I/319zShstfXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R5NCDMY-fr Razer Seiren X Mercury Microphone à Condensateur Pour eux...'
 sku: 'B07R5NCDMY-fr'
 tags: [  ]

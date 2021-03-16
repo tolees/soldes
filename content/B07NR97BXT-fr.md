@@ -5,7 +5,7 @@ date: 2020-05-22 20:46:05
 image: 'https://m.media-amazon.com/images/I/41rP3gTKJIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NR97BXT-fr LLOYD Villod Gore-tex Bottes & Bottines Classiques Homme...'
 sku: 'B07NR97BXT-fr'
 tags: [  ]

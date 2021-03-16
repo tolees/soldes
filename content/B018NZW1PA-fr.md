@@ -5,7 +5,7 @@ date: 2020-08-04 09:04:16
 image: 'https://m.media-amazon.com/images/I/31dtV4v6LCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018NZW1PA-fr G.H. Bass & Co. Penny Mocassins Femme Multicolore Black &...'
 sku: 'B018NZW1PA-fr'
 tags: [  ]

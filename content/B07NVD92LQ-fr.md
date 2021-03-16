@@ -5,7 +5,7 @@ date: 2020-09-18 10:05:03
 image: 'https://m.media-amazon.com/images/I/51Tp31b0PGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVD92LQ-fr WORKPRO Mallette Outils 160 Pièces avec Boîte de Rangement...'
 sku: 'B07NVD92LQ-fr'
 tags: [  ]

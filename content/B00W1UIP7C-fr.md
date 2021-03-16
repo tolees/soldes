@@ -5,7 +5,7 @@ date: 2020-08-06 09:27:34
 image: 'https://m.media-amazon.com/images/I/51d+mRbZNsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00W1UIP7C-fr Bikers Gear UK Veste de Moto Couleur Black & Oxblood en...'
 sku: 'B00W1UIP7C-fr'
 tags: [  ]

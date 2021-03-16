@@ -5,7 +5,7 @@ date: 2020-08-05 00:17:14
 image: 'https://m.media-amazon.com/images/I/41NONK096RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RGZ5NKS-fr TOZO T6 Ecouteur Bluetooth sans Fil TWS avec contrôle...'
 sku: 'B07RGZ5NKS-fr'
 tags: [  ]

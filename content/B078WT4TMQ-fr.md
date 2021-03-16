@@ -5,7 +5,7 @@ date: 2020-05-29 08:14:55
 image: 'https://m.media-amazon.com/images/I/4106Kh1V-+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WT4TMQ-fr Morph Gonflable Costume Homme MCROIUN Monter sur Licorne...'
 sku: 'B078WT4TMQ-fr'
 tags: [  ]

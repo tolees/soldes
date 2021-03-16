@@ -5,7 +5,7 @@ date: 2020-07-24 06:00:36
 image: 'https://m.media-amazon.com/images/I/41y8-4egn6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B11KWX3-fr Disque Dur Externe 2to USB3.0 Disque Dur Externe pour PC...'
 sku: 'B08B11KWX3-fr'
 tags: [  ]

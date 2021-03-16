@@ -5,7 +5,7 @@ date: 2020-09-18 05:35:40
 image: 'https://m.media-amazon.com/images/I/31uj78dWJPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075MPHS14-fr Belkin Chargeur à induction BOOST↑UP 7 5 W – Chargeur sans...'
 sku: 'B075MPHS14-fr'
 tags: [  ]

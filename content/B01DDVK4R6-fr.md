@@ -5,7 +5,7 @@ date: 2020-05-22 20:32:41
 image: 'https://m.media-amazon.com/images/I/41nSn8z8GmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DDVK4R6-fr Coussin à Mémoire de Forme GIANFAR | Oreiller Cervical...'
 sku: 'B01DDVK4R6-fr'
 tags: [  ]

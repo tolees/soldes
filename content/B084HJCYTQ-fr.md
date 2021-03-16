@@ -5,7 +5,7 @@ date: 2020-09-21 15:32:46
 image: 'https://m.media-amazon.com/images/I/51XOZo0hp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084HJCYTQ-fr Samurai Shodown'
 sku: 'B084HJCYTQ-fr'
 tags: [  ]

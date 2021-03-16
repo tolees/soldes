@@ -5,7 +5,7 @@ date: 2020-10-07 23:42:31
 image: 'https://m.media-amazon.com/images/I/41KgvC8ssGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HK2HL8G-fr Dihope Survêtement Homme Ensemble de Sport 2 Pièces Casual...'
 sku: 'B08HK2HL8G-fr'
 tags: [  ]

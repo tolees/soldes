@@ -5,7 +5,7 @@ date: 2020-05-22 22:58:16
 image: 'https://m.media-amazon.com/images/I/215hBdVh35L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQU5UBN-fr Elgato Thunderbolt 3 Dock - Avec câble de 50 cm 40 Gbit/s...'
 sku: 'B01MQU5UBN-fr'
 tags: [  ]

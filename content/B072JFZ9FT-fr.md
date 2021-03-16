@@ -5,7 +5,7 @@ date: 2020-07-24 12:22:59
 image: 'https://m.media-amazon.com/images/I/418fecbpW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072JFZ9FT-fr Pradel Excellence 7489SN Penderie 6 Ustensils Nylon Noir...'
 sku: 'B072JFZ9FT-fr'
 tags: [  ]

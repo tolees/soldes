@@ -5,7 +5,7 @@ date: 2020-06-03 15:24:26
 image: 'https://m.media-amazon.com/images/I/41NNB4U22+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077XMYDJ7-fr Under Armour UA Stormcyclone Sweat à Capuche Homme...'
 sku: 'B077XMYDJ7-fr'
 tags: [  ]

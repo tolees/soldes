@@ -5,7 +5,7 @@ date: 2020-08-13 00:10:57
 image: 'https://m.media-amazon.com/images/I/41bAGtQpALL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GS6ZB7T-fr Logitech G502 HERO Souris Gamer Filaire Haute Performance...'
 sku: 'B07GS6ZB7T-fr'
 tags: [  ]

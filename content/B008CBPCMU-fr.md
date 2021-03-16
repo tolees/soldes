@@ -5,7 +5,7 @@ date: 2020-09-12 14:49:43
 image: 'https://m.media-amazon.com/images/I/4186UhsXHKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008CBPCMU-fr sloggi Chic Maxi 4P Culotte Femme Lot de 4 Noir BLACK 0004...'
 sku: 'B008CBPCMU-fr'
 tags: [  ]

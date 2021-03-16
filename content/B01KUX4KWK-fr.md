@@ -5,7 +5,7 @@ date: 2020-10-11 15:43:47
 image: 'https://m.media-amazon.com/images/I/41wg2uaEBJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KUX4KWK-fr Reebok Deck'
 sku: 'B01KUX4KWK-fr'
 tags: [  ]

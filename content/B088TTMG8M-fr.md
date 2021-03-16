@@ -5,7 +5,7 @@ date: 2020-06-11 07:27:32
 image: 'https://m.media-amazon.com/images/I/31Gx6K3Hi4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088TTMG8M-fr eXtremeRate 3D Joysticks de Remplacement Bicolores Stick...'
 sku: 'B088TTMG8M-fr'
 tags: [  ]

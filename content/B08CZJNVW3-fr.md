@@ -5,7 +5,7 @@ date: 2020-08-15 00:12:16
 image: 'https://m.media-amazon.com/images/I/41NqMq8OEoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZJNVW3-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD pour PC...'
 sku: 'B08CZJNVW3-fr'
 tags: [  ]

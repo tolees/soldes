@@ -5,7 +5,7 @@ date: 2020-10-07 05:40:43
 image: 'https://m.media-amazon.com/images/I/41ForUTx3nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJN4VJT-fr Casque LVL50 sans Fil pour Sony Playstation - noir'
 sku: 'B07NJN4VJT-fr'
 tags: [  ]

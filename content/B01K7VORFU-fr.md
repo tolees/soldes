@@ -5,7 +5,7 @@ date: 2020-09-30 06:41:24
 image: 'https://m.media-amazon.com/images/I/41ziDU2n3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K7VORFU-fr Zéfal Z Traveler sacoche de porte-bagage'
 sku: 'B01K7VORFU-fr'
 tags: [  ]

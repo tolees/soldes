@@ -5,7 +5,7 @@ date: 2020-08-16 00:51:43
 image: 'https://m.media-amazon.com/images/I/41nAtXlPdOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4XG8DG-fr Manette Sans Fil pour PS4 Manette pour Playstation 4...'
 sku: 'B08C4XG8DG-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 07:55:18
 image: 'https://m.media-amazon.com/images/I/41DR8PRR2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G9GRVSK-fr Schleich- Figurine Maman Grizzly avec Ourson Wild Life...'
 sku: 'B07G9GRVSK-fr'
 tags: [  ]

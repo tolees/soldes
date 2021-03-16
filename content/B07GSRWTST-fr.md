@@ -5,7 +5,7 @@ date: 2020-05-22 23:14:52
 image: 'https://m.media-amazon.com/images/I/41rDzrvzlYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSRWTST-fr Hommes Mode Sneakers Confort Respirant Doux Maille De...'
 sku: 'B07GSRWTST-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 23:54:19
 image: 'https://m.media-amazon.com/images/I/41odBMS+YuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SFJBCBL-fr Levi s WOODWARD L Baskets Hommes Blanc Regular White 51 44 EU'
 sku: 'B07SFJBCBL-fr'
 tags: [  ]

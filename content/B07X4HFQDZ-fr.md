@@ -5,7 +5,7 @@ date: 2020-08-07 16:03:31
 image: 'https://m.media-amazon.com/images/I/41sV-7cHstL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4HFQDZ-fr G-STAR RAW Rackam Mimemis Sneakers Basses Homme...'
 sku: 'B07X4HFQDZ-fr'
 tags: [  ]

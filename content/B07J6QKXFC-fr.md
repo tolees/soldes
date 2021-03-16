@@ -5,7 +5,7 @@ date: 2020-09-25 08:04:44
 image: 'https://m.media-amazon.com/images/I/51BohdHJXdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J6QKXFC-fr PROACC Tapis de Jeu pour Piano Jouet de Tapis de Musique...'
 sku: 'B07J6QKXFC-fr'
 tags: [  ]

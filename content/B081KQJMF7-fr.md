@@ -5,7 +5,7 @@ date: 2020-08-04 06:23:27
 image: 'https://m.media-amazon.com/images/I/612giD4HlRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081KQJMF7-fr Bayonetta & Vanquish 10th Anniversary Bundle - Launch...'
 sku: 'B081KQJMF7-fr'
 tags: [  ]

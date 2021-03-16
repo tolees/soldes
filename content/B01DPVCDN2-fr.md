@@ -5,7 +5,7 @@ date: 2020-05-23 19:04:38
 image: 'https://m.media-amazon.com/images/I/31Q5rM6k-zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DPVCDN2-fr Kyocera KTN-180-HIP KIZUNA Couteau du chef Céramique Noir'
 sku: 'B01DPVCDN2-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 21:21:34
 image: 'https://m.media-amazon.com/images/I/417lAXeVcRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRLSJHC-fr New Balance 574v2 Baskets Homme Bleu Navy/White Navy/White...'
 sku: 'B07KRLSJHC-fr'
 tags: [  ]

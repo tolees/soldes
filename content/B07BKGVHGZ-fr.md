@@ -5,7 +5,7 @@ date: 2020-05-22 20:32:08
 image: 'https://m.media-amazon.com/images/I/31B7ZcmPjKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BKGVHGZ-fr Bosch Unlimited BBS1224 Aspirateur Balai Multifonction...'
 sku: 'B07BKGVHGZ-fr'
 tags: [  ]

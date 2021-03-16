@@ -5,7 +5,7 @@ date: 2020-08-28 00:11:35
 image: 'https://m.media-amazon.com/images/I/510wUeNcevL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WHC394C-fr Astérix & Obélix XXL 3 : le Menhir de Cristal Edition...'
 sku: 'B07WHC394C-fr'
 tags: [  ]

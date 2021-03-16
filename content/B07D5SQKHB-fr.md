@@ -5,7 +5,7 @@ date: 2020-08-28 17:14:04
 image: 'https://m.media-amazon.com/images/I/31AnDjO8IwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D5SQKHB-fr PUMA ESS Logo Leggings Pantalons Femme Cotton Black XS'
 sku: 'B07D5SQKHB-fr'
 tags: [  ]

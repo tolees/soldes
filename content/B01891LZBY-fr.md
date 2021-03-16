@@ -5,7 +5,7 @@ date: 2020-09-12 10:17:57
 image: 'https://m.media-amazon.com/images/I/31ENMs02zBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01891LZBY-fr Rowenta Ventilateur sur pied 16 /40 cm Turbo Silence...'
 sku: 'B01891LZBY-fr'
 tags: [  ]

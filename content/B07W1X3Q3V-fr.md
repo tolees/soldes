@@ -5,7 +5,7 @@ date: 2020-05-22 22:38:38
 image: 'https://m.media-amazon.com/images/I/31zksVupMPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1X3Q3V-fr REVENT HD Blue'
 sku: 'B07W1X3Q3V-fr'
 tags: [  ]

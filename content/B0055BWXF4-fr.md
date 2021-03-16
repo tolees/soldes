@@ -5,7 +5,7 @@ date: 2020-09-15 21:40:50
 image: 'https://m.media-amazon.com/images/I/41fymv7cP5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0055BWXF4-fr Fossil Homme Chronographe Quartz Montre avec Bracelet en...'
 sku: 'B0055BWXF4-fr'
 tags: [  ]

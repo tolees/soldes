@@ -5,7 +5,7 @@ date: 2020-08-14 00:37:21
 image: 'https://m.media-amazon.com/images/I/41nCE3b0xFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075Z5JG1J-fr Vero Moda Vmhot Nine Hw DNM Pencil Skirt Mix Noos Jupe...'
 sku: 'B075Z5JG1J-fr'
 tags: [  ]

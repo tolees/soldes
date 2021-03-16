@@ -5,7 +5,7 @@ date: 2020-10-02 13:07:04
 image: 'https://m.media-amazon.com/images/I/41nPKJanWZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNFH7VG-fr Borsalino [Édition Prestige-Version Restaurée]'
 sku: 'B07HNFH7VG-fr'
 tags: [  ]

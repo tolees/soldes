@@ -5,7 +5,7 @@ date: 2020-06-04 00:06:39
 image: 'https://m.media-amazon.com/images/I/41wB5bDLCGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MQVM695-fr Twinz up - Tire bouchon électrique sans-fil - Coffret avec...'
 sku: 'B01MQVM695-fr'
 tags: [  ]

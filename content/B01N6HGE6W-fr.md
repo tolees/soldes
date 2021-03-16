@@ -5,7 +5,7 @@ date: 2020-09-11 08:32:22
 image: 'https://m.media-amazon.com/images/I/41vPVhP4IIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6HGE6W-fr Foscam Fi9928P Caméra Ip Wifi Extérieure Motorisée Caméra...'
 sku: 'B01N6HGE6W-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:18:49
 image: 'https://m.media-amazon.com/images/I/41zY-yRGygL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JLOWUIG-fr Bosch Professional Défonceuse Filaire GOF 1250 CE 1250 W...'
 sku: 'B00JLOWUIG-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 18:15:58
 image: 'https://m.media-amazon.com/images/I/31sjJk7cZ2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081QXPV1Y-fr Razer Basilisk Ultimate - souris de jeu sans fil avec 11...'
 sku: 'B081QXPV1Y-fr'
 tags: [  ]

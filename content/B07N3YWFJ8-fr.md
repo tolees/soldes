@@ -5,7 +5,7 @@ date: 2020-05-23 00:14:08
 image: 'https://m.media-amazon.com/images/I/41BgdNQzqbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3YWFJ8-fr Hackett Solid Volley Short Bleu Atlantic 5PO Small Homme'
 sku: 'B07N3YWFJ8-fr'
 tags: [  ]

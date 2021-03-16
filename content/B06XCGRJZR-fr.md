@@ -5,7 +5,7 @@ date: 2020-08-05 07:18:51
 image: 'https://m.media-amazon.com/images/I/415kGq3qwDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XCGRJZR-fr Rowenta Compact Steam Extreme DG7521F0 Centrale Vapeur...'
 sku: 'B06XCGRJZR-fr'
 tags: [  ]

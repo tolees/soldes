@@ -5,7 +5,7 @@ date: 2020-08-17 10:40:39
 image: 'https://m.media-amazon.com/images/I/41DRMcysH7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMQZKY9-fr Adidas W E 3S Short Femme Noir/Blanc FR Taille Fabricant : XS'
 sku: 'B07KMQZKY9-fr'
 tags: [  ]

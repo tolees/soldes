@@ -5,7 +5,7 @@ date: 2020-05-22 22:31:36
 image: 'https://m.media-amazon.com/images/I/417p8jjL4cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZMHWLK-fr Vernee M7 Telephone Portable Débloqués 4Go + 64Go Dual SIM...'
 sku: 'B07VZMHWLK-fr'
 tags: [  ]

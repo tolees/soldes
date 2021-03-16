@@ -5,7 +5,7 @@ date: 2020-08-17 05:05:09
 image: 'https://m.media-amazon.com/images/I/513N1JyepqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVKKSSZ-fr HEYSTOP Coque pour Nintendo Switch Coque de Protection en...'
 sku: 'B08CVKKSSZ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:15:48
 image: 'https://m.media-amazon.com/images/I/41f+XVSR5DL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015YP76SY-fr Beurer Me 90 Electrocardiographe Connecté avec USB/Bluetooth'
 sku: 'B015YP76SY-fr'
 tags: [  ]

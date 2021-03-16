@@ -5,7 +5,7 @@ date: 2020-09-27 18:43:20
 image: 'https://m.media-amazon.com/images/I/31n4V87V2GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019H6MPAA-fr Belkin - Power Rockstar - Batterie Externe Premium 10000...'
 sku: 'B019H6MPAA-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 13:07:36
 image: 'https://m.media-amazon.com/images/I/31frny2W1lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFBRNPG-fr CYBEX Gold Sac à Langer Scuderia Ferrari Victory Black'
 sku: 'B07FFBRNPG-fr'
 tags: [  ]

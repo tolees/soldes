@@ -5,7 +5,7 @@ date: 2020-08-05 18:01:00
 image: 'https://m.media-amazon.com/images/I/41VCuBuoYJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5TQPPK-fr eXtremeRate Kit de Coques avec Kit de Boutons pour...'
 sku: 'B08B5TQPPK-fr'
 tags: [  ]

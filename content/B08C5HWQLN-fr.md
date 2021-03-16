@@ -5,7 +5,7 @@ date: 2020-08-15 12:22:29
 image: 'https://m.media-amazon.com/images/I/51RBOB+lMFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C5HWQLN-fr Lecteur DVD pour TV DVD / CD / MP3 / MP4 avec Prise USB...'
 sku: 'B08C5HWQLN-fr'
 tags: [  ]

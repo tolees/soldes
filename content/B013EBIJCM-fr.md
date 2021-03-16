@@ -5,7 +5,7 @@ date: 2020-08-10 08:27:28
 image: 'https://m.media-amazon.com/images/I/31n3U0g2iTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013EBIJCM-fr Plateau pour Chaise Carrie Tumble Form S2 Junior'
 sku: 'B013EBIJCM-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-28 11:23:53
 image: 'https://m.media-amazon.com/images/I/417Ly7nf6QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CNP1R35-fr YAMAHA RX-V485 – Amplificateur Home Cinema 145W – Système...'
 sku: 'B07CNP1R35-fr'
 tags: [  ]

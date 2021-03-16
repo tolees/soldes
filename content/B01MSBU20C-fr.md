@@ -5,7 +5,7 @@ date: 2020-09-08 08:12:46
 image: 'https://m.media-amazon.com/images/I/41O-YaQa7bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MSBU20C-fr foodspring L-carnitine 120 gélules Perdre du poids avec la...'
 sku: 'B01MSBU20C-fr'
 tags: [  ]

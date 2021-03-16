@@ -5,7 +5,7 @@ date: 2020-09-29 05:48:35
 image: 'https://m.media-amazon.com/images/I/41Ws3BDUAwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P8XQPY4-fr Clé USB 3.0 SanDisk Ultra 128 Go avec une vitesse de...'
 sku: 'B00P8XQPY4-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 21:27:17
 image: 'https://m.media-amazon.com/images/I/31J97FxuabL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YGYX3BY-fr IKKS Junior Combi Short MC Combinaison Vert Kaki 56 8 Ans...'
 sku: 'B07YGYX3BY-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 17:20:30
 image: 'https://m.media-amazon.com/images/I/41ad9sJnNeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ227NH-fr Disque Dur Externe 1to Disque Dur Externe USB3.0-2.5’’...'
 sku: 'B08DJ227NH-fr'
 tags: [  ]

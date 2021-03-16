@@ -5,7 +5,7 @@ date: 2020-08-21 22:56:42
 image: 'https://m.media-amazon.com/images/I/31O4VGrR5cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F58NJFB-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 256 Go...'
 sku: 'B08F58NJFB-fr'
 tags: [  ]

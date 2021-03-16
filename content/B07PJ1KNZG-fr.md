@@ -5,7 +5,7 @@ date: 2020-10-12 09:43:34
 image: 'https://m.media-amazon.com/images/I/51cESdu4wJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJ1KNZG-fr Louis Cottier - Montre Supersize Automatique Bracelet Cuir...'
 sku: 'B07PJ1KNZG-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 20:27:47
 image: 'https://m.media-amazon.com/images/I/412U16R2lmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSPHWMJ-fr Hackett Army Polo Fzip Gilet Vert Forest Green 682 X-Large...'
 sku: 'B07MSPHWMJ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-28 22:05:15
 image: 'https://m.media-amazon.com/images/I/512Bzx8YRDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LORO7Z6-fr Carte Mémoire SDHC Sandisk Extreme 32 Go jusqu à 90 Mo/s...'
 sku: 'B01LORO7Z6-fr'
 tags: [  ]

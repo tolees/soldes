@@ -5,7 +5,7 @@ date: 2020-08-05 21:03:40
 image: 'https://m.media-amazon.com/images/I/51Ts8Rb7EKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M0I6FAW-fr VAUDE 12438 Sac à Dos Femme Blueberry 52 L'
 sku: 'B01M0I6FAW-fr'
 tags: [  ]

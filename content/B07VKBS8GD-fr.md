@@ -5,7 +5,7 @@ date: 2020-08-18 16:47:37
 image: 'https://m.media-amazon.com/images/I/51WZextIXNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VKBS8GD-fr Bombes de Bain Coffret Cadeau Anjou 6 x 115g Boules...'
 sku: 'B07VKBS8GD-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 23:52:06
 image: 'https://m.media-amazon.com/images/I/41icPF2e9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076SL4RPB-fr Yazilind plaqué Or Bracelet Mode Goutte d eau Jolie Zircon...'
 sku: 'B076SL4RPB-fr'
 tags: [  ]

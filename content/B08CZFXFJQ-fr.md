@@ -5,7 +5,7 @@ date: 2020-08-10 00:38:49
 image: 'https://m.media-amazon.com/images/I/31-rxODUZxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZFXFJQ-fr Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe...'
 sku: 'B08CZFXFJQ-fr'
 tags: [  ]

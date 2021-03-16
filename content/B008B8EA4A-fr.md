@@ -5,7 +5,7 @@ date: 2020-09-22 02:29:06
 image: 'https://m.media-amazon.com/images/I/51Nlb60ORtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008B8EA4A-fr Les 101 dalmatiens [Blu-Ray]'
 sku: 'B008B8EA4A-fr'
 tags: [  ]

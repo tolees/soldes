@@ -5,7 +5,7 @@ date: 2020-08-22 11:20:41
 image: 'https://m.media-amazon.com/images/I/51UWop4RxmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJ1DPKR-fr Vidéoprojecteur WiFi Full HD 1080P WiMiUS 7200 Lumens...'
 sku: 'B08BJ1DPKR-fr'
 tags: [  ]

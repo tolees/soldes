@@ -5,7 +5,7 @@ date: 2020-05-27 09:16:33
 image: 'https://m.media-amazon.com/images/I/41aHrnRlzAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FVYYKX-fr Gardena 19300-47 Smart SILENO City 300 Robot Tondeuse Set...'
 sku: 'B082FVYYKX-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 08:28:01
 image: 'https://m.media-amazon.com/images/I/41JjCog-JiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NNKWXPS-fr O bag Borsa Completa Glam 54 Sac à bandoulière Femme Noir...'
 sku: 'B07NNKWXPS-fr'
 tags: [  ]

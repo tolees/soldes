@@ -5,7 +5,7 @@ date: 2020-08-28 23:34:59
 image: 'https://m.media-amazon.com/images/I/51HySUSGGiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNSDZCZ-fr LEGO® DUPLO® Movie Les visiteurs de la planète DUPLO® d...'
 sku: 'B07FNSDZCZ-fr'
 tags: [  ]

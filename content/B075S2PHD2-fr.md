@@ -5,7 +5,7 @@ date: 2020-05-22 23:14:55
 image: 'https://m.media-amazon.com/images/I/31f1jlvk+VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S2PHD2-fr GORE Wear C3 Homme Pantalon de pluie GORE-TEX L Noir'
 sku: 'B075S2PHD2-fr'
 tags: [  ]

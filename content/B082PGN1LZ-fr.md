@@ -5,7 +5,7 @@ date: 2021-03-02 18:13:01
 image: 'https://m.media-amazon.com/images/I/414u5JEONOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PGN1LZ-fr Corolle- Bébé Calin Myrtille Fleurs Poupon 100280 Rose'
 sku: 'B082PGN1LZ-fr'
 tags: [ 'corolle', ]
@@ -28,10 +28,10 @@ C'est en vente [Corolle- Bébé Calin Myrtille Fleurs Poupon  100280  Rose](http
 
 ℹ️:
 
-- Petit poupon de 30 cm
-- Corps souple
-- Délicate senteur de vanille
 - Dès 18 mois
+- Petit poupon de 30 cm
+- Délicate senteur de vanille
+- Corps souple
 - Prend et garde les attitudes dun vrai bébé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082PGN1LZ/?tag=tolees0d-21)

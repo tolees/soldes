@@ -5,7 +5,7 @@ date: 2020-05-22 23:50:28
 image: 'https://m.media-amazon.com/images/I/41a7yS12EhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQSWYLR-fr Christian Lacroix Femme Analogique Quartz Montre avec...'
 sku: 'B07FQSWYLR-fr'
 tags: [  ]

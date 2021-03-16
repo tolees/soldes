@@ -5,7 +5,7 @@ date: 2020-05-22 20:28:41
 image: 'https://m.media-amazon.com/images/I/51CeIaEm0sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VHW6SG7-fr Hugo Boss Watch 1513743'
 sku: 'B07VHW6SG7-fr'
 tags: [  ]

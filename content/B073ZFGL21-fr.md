@@ -5,7 +5,7 @@ date: 2020-10-04 21:12:03
 image: 'https://m.media-amazon.com/images/I/51hrIVppqnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073ZFGL21-fr Russell Hobbs Bouilloire en Verre 1 7L Ultra Résistante -...'
 sku: 'B073ZFGL21-fr'
 tags: [  ]

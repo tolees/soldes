@@ -5,7 +5,7 @@ date: 2020-10-02 13:08:15
 image: 'https://m.media-amazon.com/images/I/51v3UgnPPqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HPNBY6-fr Wolfcraft 5977000 Scie Cloche Ah Réglable'
 sku: 'B077HPNBY6-fr'
 tags: [  ]

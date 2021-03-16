@@ -5,7 +5,7 @@ date: 2020-05-22 22:44:12
 image: 'https://m.media-amazon.com/images/I/31v5LwKiNAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013JVXIBY-fr Dockers Alpha Original Khaki Skinny Pantalon Homme Bleu...'
 sku: 'B013JVXIBY-fr'
 tags: [  ]

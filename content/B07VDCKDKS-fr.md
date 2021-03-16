@@ -5,7 +5,7 @@ date: 2020-08-09 12:38:40
 image: 'https://m.media-amazon.com/images/I/31mGM1psUWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VDCKDKS-fr Napapijri K Rainforest Sum 2 Blouson Violet Clover Purple...'
 sku: 'B07VDCKDKS-fr'
 tags: [  ]

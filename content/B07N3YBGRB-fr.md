@@ -5,7 +5,7 @@ date: 2020-05-23 00:14:24
 image: 'https://m.media-amazon.com/images/I/41JV9y51qjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3YBGRB-fr Hackett AMR MLT Wings Polo Multicolore Navy/White 5DJ...'
 sku: 'B07N3YBGRB-fr'
 tags: [  ]

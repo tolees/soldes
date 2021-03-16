@@ -5,7 +5,7 @@ date: 2020-05-22 22:38:06
 image: 'https://m.media-amazon.com/images/I/31kWRWCI2RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UJRSO52-fr Sony Objectif SEL-28F20 28mm Ouverture F2.0 pour Monture E'
 sku: 'B00UJRSO52-fr'
 tags: [  ]

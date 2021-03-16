@@ -5,7 +5,7 @@ date: 2020-08-27 06:23:52
 image: 'https://m.media-amazon.com/images/I/51Q9aG8TkEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5PTR5J-fr LEGO DUPLO Town Ensemble Maison modulable 3in1 Maison de...'
 sku: 'B07W5PTR5J-fr'
 tags: [  ]

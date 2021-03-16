@@ -5,7 +5,7 @@ date: 2020-09-13 08:58:06
 image: 'https://m.media-amazon.com/images/I/51vrWltwyxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FDV9FY2-fr FS - Écouteurs Premium Bluetooth sans Fil Casque avec Plus...'
 sku: 'B08FDV9FY2-fr'
 tags: [  ]

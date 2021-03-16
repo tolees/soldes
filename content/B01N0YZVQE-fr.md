@@ -5,7 +5,7 @@ date: 2020-09-23 15:14:15
 image: 'https://m.media-amazon.com/images/I/41JWDxMXKrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0YZVQE-fr Clé USB 3.1 Sandisk Extreme Go - 128 Go avec une vitesse...'
 sku: 'B01N0YZVQE-fr'
 tags: [  ]

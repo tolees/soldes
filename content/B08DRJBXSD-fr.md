@@ -5,7 +5,7 @@ date: 2020-08-13 12:35:27
 image: 'https://m.media-amazon.com/images/I/41sf6pEfV4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DRJBXSD-fr Peradix Draisienne Vélo Bébé Vélo Enfants de 1 an-36 Mois...'
 sku: 'B08DRJBXSD-fr'
 tags: [  ]

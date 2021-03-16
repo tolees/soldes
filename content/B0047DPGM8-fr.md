@@ -5,7 +5,7 @@ date: 2020-09-13 05:52:23
 image: 'https://m.media-amazon.com/images/I/31-+dhLB3qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0047DPGM8-fr Tiger LEC7-BK Support pour PC et Projecteur - Noir'
 sku: 'B0047DPGM8-fr'
 tags: [  ]

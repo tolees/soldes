@@ -5,7 +5,7 @@ date: 2020-05-22 22:12:09
 image: 'https://m.media-amazon.com/images/I/51aB5V80gWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VXGRMDC-fr Maillot Cyclisme Kits Homme Vêtements Cyclisme Tenue...'
 sku: 'B07VXGRMDC-fr'
 tags: [  ]

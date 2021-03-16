@@ -5,7 +5,7 @@ date: 2020-08-10 21:03:43
 image: 'https://m.media-amazon.com/images/I/413xgipLprL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTX242Q-fr Millet - High Route GTX M - Chaussures Hautes de Randonnée...'
 sku: 'B07FTX242Q-fr'
 tags: [  ]

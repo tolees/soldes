@@ -5,7 +5,7 @@ date: 2020-05-31 18:59:39
 image: 'https://m.media-amazon.com/images/I/41sEpcTchoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07G1TC12R-fr HUION Kamvas Pro 13 Tablette Graphique avec écran Moniteur...'
 sku: 'B07G1TC12R-fr'
 tags: [  ]

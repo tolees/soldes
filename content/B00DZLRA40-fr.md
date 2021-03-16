@@ -5,7 +5,7 @@ date: 2020-08-29 12:03:39
 image: 'https://m.media-amazon.com/images/I/41u-rhXwMNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DZLRA40-fr Interbaby Set de 3 Pièces - Couette + Tour de Lit +...'
 sku: 'B00DZLRA40-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-21 18:04:34
 image: 'https://m.media-amazon.com/images/I/51eGCC4MGKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y3C4FCJ-fr ELECTRO GUITAR KIT / ELEKTRISCHE GITAAR BOX'
 sku: 'B07Y3C4FCJ-fr'
 tags: [  ]

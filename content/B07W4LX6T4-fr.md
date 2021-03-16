@@ -5,7 +5,7 @@ date: 2020-05-22 22:53:42
 image: 'https://m.media-amazon.com/images/I/31sdII0mfCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W4LX6T4-fr LIVOO DOP201 Super Blender 1200 W 1.8 liters'
 sku: 'B07W4LX6T4-fr'
 tags: [  ]

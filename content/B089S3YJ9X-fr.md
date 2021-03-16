@@ -5,7 +5,7 @@ date: 2020-08-15 00:27:57
 image: 'https://m.media-amazon.com/images/I/41pyDS9eAnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089S3YJ9X-fr Montre Connectée Femmes Montre Sport Homme 9 Modes Sportif...'
 sku: 'B089S3YJ9X-fr'
 tags: [  ]

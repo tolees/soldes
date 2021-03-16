@@ -5,7 +5,7 @@ date: 2020-05-28 09:52:04
 image: 'https://m.media-amazon.com/images/I/41wW+tIQWzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPZ7CWR-fr Hurley M Advantage Plus 1/1 Jacket Combinaisons De Surf...'
 sku: 'B07NPZ7CWR-fr'
 tags: [  ]

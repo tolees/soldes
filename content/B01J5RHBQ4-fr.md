@@ -5,7 +5,7 @@ date: 2020-10-09 03:51:50
 image: 'https://m.media-amazon.com/images/I/51vO6S-6HRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01J5RHBQ4-fr Carte Mémoire SDHC Sandisk Extreme Pro 32 Go jusqu à 95...'
 sku: 'B01J5RHBQ4-fr'
 tags: [  ]

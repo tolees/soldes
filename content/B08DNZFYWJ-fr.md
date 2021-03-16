@@ -5,7 +5,7 @@ date: 2020-08-17 05:16:37
 image: 'https://m.media-amazon.com/images/I/41cpDHeMjdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNZFYWJ-fr EasySMX Manettes pour Switch/Switch Lite Manette sans Fil...'
 sku: 'B08DNZFYWJ-fr'
 tags: [  ]

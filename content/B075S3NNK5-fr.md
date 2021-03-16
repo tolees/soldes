@@ -5,7 +5,7 @@ date: 2020-08-21 10:14:02
 image: 'https://m.media-amazon.com/images/I/41ZhMuMBLzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075S3NNK5-fr GORE Wear C5 Homme Veste de cyclisme GORE-TEX S Noir/Rouge'
 sku: 'B075S3NNK5-fr'
 tags: [  ]

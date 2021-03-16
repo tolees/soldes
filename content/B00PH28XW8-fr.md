@@ -5,7 +5,7 @@ date: 2020-08-05 20:27:54
 image: 'https://m.media-amazon.com/images/I/41o0vdPkRjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PH28XW8-fr Jean Bellecour - REDS3 - Travel - Montre Homme -...'
 sku: 'B00PH28XW8-fr'
 tags: [  ]

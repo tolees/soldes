@@ -5,7 +5,7 @@ date: 2020-10-08 11:41:09
 image: 'https://m.media-amazon.com/images/I/51HmsPPtUuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WGN5X92-fr Royal Walk Parapluie de golf automatique pour homme et...'
 sku: 'B06WGN5X92-fr'
 tags: [  ]

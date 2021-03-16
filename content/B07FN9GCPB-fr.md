@@ -5,7 +5,7 @@ date: 2020-05-22 23:22:12
 image: 'https://m.media-amazon.com/images/I/41jsDl9gBBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FN9GCPB-fr MILLET ATNA Peak JKT Veste de Ski Homme Ebony FR : S...'
 sku: 'B07FN9GCPB-fr'
 tags: [  ]

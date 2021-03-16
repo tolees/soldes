@@ -5,7 +5,7 @@ date: 2020-05-22 21:52:54
 image: 'https://m.media-amazon.com/images/I/31KDPHegU6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0052QV9MK-fr Onduleur Eaton Ellipse ECO 650 USB FR - Off-line UPS -...'
 sku: 'B0052QV9MK-fr'
 tags: [  ]

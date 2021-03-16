@@ -5,7 +5,7 @@ date: 2020-05-28 14:06:17
 image: 'https://m.media-amazon.com/images/I/41AcN+GSaKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DVX1LDV-fr Chaussures de Trail Running'
 sku: 'B07DVX1LDV-fr'
 tags: [  ]

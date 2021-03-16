@@ -5,7 +5,7 @@ date: 2020-09-29 08:51:02
 image: 'https://m.media-amazon.com/images/I/41LRw7JuvtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072MCZ8QQ-fr Microsoft Clavier Type Cover pour Surface Pro Bleu Cobalt...'
 sku: 'B072MCZ8QQ-fr'
 tags: [  ]

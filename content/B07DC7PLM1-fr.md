@@ -5,7 +5,7 @@ date: 2020-10-11 12:19:15
 image: 'https://m.media-amazon.com/images/I/41m4wA3MNjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DC7PLM1-fr sloggi Zero Feel Top EX Brassière Femme Écru ANGORA 6308 S'
 sku: 'B07DC7PLM1-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:45:42
 image: 'https://m.media-amazon.com/images/I/31mcxEu2VoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VXMQ6CK-fr G-STAR RAW 3301 Straight Tapered Jeans Bleu DK Aged...'
 sku: 'B00VXMQ6CK-fr'
 tags: [  ]

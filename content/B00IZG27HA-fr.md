@@ -5,7 +5,7 @@ date: 2020-08-10 16:54:20
 image: 'https://m.media-amazon.com/images/I/41utsmU0fHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IZG27HA-fr J.S. Staedtler - Accessoires - Etui en chevreau marron...'
 sku: 'B00IZG27HA-fr'
 tags: [  ]

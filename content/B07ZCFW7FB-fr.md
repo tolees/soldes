@@ -5,7 +5,7 @@ date: 2020-08-13 12:34:10
 image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZCFW7FB-fr YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD...'
 sku: 'B07ZCFW7FB-fr'
 tags: [  ]

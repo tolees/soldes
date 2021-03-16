@@ -5,7 +5,7 @@ date: 2020-05-22 19:51:09
 image: 'https://m.media-amazon.com/images/I/51Hxmd6n8qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RQV3HQ5-fr Oral-B Pro 2 2900 Brosses À Dents Électriques'
 sku: 'B07RQV3HQ5-fr'
 tags: [  ]

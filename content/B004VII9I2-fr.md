@@ -5,7 +5,7 @@ date: 2020-05-22 20:42:45
 image: 'https://m.media-amazon.com/images/I/41T5fvq4nQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004VII9I2-fr Vilac - 1102 - Voiture de Course - Porteur Métal - Nacré -...'
 sku: 'B004VII9I2-fr'
 tags: [  ]

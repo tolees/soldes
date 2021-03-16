@@ -5,7 +5,7 @@ date: 2020-09-20 21:04:19
 image: 'https://m.media-amazon.com/images/I/418mFTlqL-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZQ1JYQ-fr Corolle- Lilou Poupon 130190 Rose'
 sku: 'B083ZQ1JYQ-fr'
 tags: [  ]

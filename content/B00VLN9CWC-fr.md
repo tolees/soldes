@@ -5,7 +5,7 @@ date: 2020-05-22 23:36:35
 image: 'https://m.media-amazon.com/images/I/41j75vs8yzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VLN9CWC-fr Levi s GRAPHIC SET-IN NECK T-Shirt Homme Gris C18976...'
 sku: 'B00VLN9CWC-fr'
 tags: [  ]

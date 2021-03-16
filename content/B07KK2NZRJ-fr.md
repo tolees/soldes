@@ -5,7 +5,7 @@ date: 2020-05-23 00:06:40
 image: 'https://m.media-amazon.com/images/I/41b1Fc0IQ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK2NZRJ-fr Columbia Peakfreak Venture S II Mid WP Chaussures...'
 sku: 'B07KK2NZRJ-fr'
 tags: [  ]

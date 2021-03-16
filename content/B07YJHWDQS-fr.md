@@ -5,7 +5,7 @@ date: 2020-08-23 23:28:30
 image: 'https://m.media-amazon.com/images/I/41FmrehgsRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YJHWDQS-fr FORMIZON Apprentissage des Mathématiques Jeu Monkey Match...'
 sku: 'B07YJHWDQS-fr'
 tags: [  ]

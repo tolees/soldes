@@ -5,7 +5,7 @@ date: 2020-10-02 13:08:45
 image: 'https://m.media-amazon.com/images/I/41JyhgfZJ4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082VVB4T9-fr Mixa BIO - La Crème Visage des Peaux Sensibles - 100 ml'
 sku: 'B082VVB4T9-fr'
 tags: [  ]

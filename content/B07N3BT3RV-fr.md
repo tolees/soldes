@@ -5,7 +5,7 @@ date: 2020-05-23 00:14:52
 image: 'https://m.media-amazon.com/images/I/311OQy9G6rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3BT3RV-fr ECCO Shape 55 Western Santiags Femme Noir Black 1001 37 EU'
 sku: 'B07N3BT3RV-fr'
 tags: [  ]

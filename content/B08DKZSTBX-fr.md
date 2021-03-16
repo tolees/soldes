@@ -5,7 +5,7 @@ date: 2020-08-28 11:35:47
 image: 'https://m.media-amazon.com/images/I/41FJiqu8ZNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKZSTBX-fr Montre Connectée Fitness Tracker étanche IP68 avec...'
 sku: 'B08DKZSTBX-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 03:06:11
 image: 'https://m.media-amazon.com/images/I/51dFYjATjsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXMSRGW-fr Boules de Bain Bombe de Bain Cadeau Femme 8 Bombe de Bain...'
 sku: 'B08CXMSRGW-fr'
 tags: [  ]

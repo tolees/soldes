@@ -5,7 +5,7 @@ date: 2020-10-04 14:44:49
 image: 'https://m.media-amazon.com/images/I/31izhzmZL8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FKZYHP3-fr find. Fur Lined Hiker Chaussures de Randonnée Basses...'
 sku: 'B07FKZYHP3-fr'
 tags: [  ]

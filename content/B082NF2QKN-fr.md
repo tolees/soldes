@@ -5,7 +5,7 @@ date: 2020-10-04 21:12:01
 image: 'https://m.media-amazon.com/images/I/51D8bBm9vnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082NF2QKN-fr Wasteland 3 : Day One Edition pour PS4'
 sku: 'B082NF2QKN-fr'
 tags: [  ]

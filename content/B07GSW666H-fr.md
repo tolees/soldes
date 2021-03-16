@@ -5,7 +5,7 @@ date: 2020-05-22 23:18:57
 image: 'https://m.media-amazon.com/images/I/41qDJsd5eBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSW666H-fr Hommes Mode Sneakers Confort Respirant Doux Maille De...'
 sku: 'B07GSW666H-fr'
 tags: [  ]

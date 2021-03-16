@@ -5,7 +5,7 @@ date: 2020-08-10 15:29:00
 image: 'https://m.media-amazon.com/images/I/41MMu7jgATL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BPFKNNM-fr TP-Link Switch Ethernet Gigabit 8 Ports Web Manageable...'
 sku: 'B01BPFKNNM-fr'
 tags: [  ]

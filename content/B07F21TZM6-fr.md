@@ -5,7 +5,7 @@ date: 2020-10-06 12:11:49
 image: 'https://m.media-amazon.com/images/I/31MG0m4kMYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F21TZM6-fr Blue Star Madrid Vanity 31 cm 12 L Champagne'
 sku: 'B07F21TZM6-fr'
 tags: [  ]

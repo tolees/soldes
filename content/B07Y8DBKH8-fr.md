@@ -5,7 +5,7 @@ date: 2020-10-07 18:43:39
 image: 'https://m.media-amazon.com/images/I/31yMVK+vLlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8DBKH8-fr Vidéoprojecteur WiMiUS 7000 Lumens Full HD 1920x1080P...'
 sku: 'B07Y8DBKH8-fr'
 tags: [  ]

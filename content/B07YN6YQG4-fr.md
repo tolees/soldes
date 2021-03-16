@@ -5,7 +5,7 @@ date: 2020-08-12 09:27:16
 image: 'https://m.media-amazon.com/images/I/31MliBXdeNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YN6YQG4-fr Lottusse T2470 Brogues Homme Noir Duca Negro Duca Negro 40 EU'
 sku: 'B07YN6YQG4-fr'
 tags: [  ]

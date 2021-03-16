@@ -5,7 +5,7 @@ date: 2020-08-05 00:12:40
 image: 'https://m.media-amazon.com/images/I/41IGYJNN89L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P8KXX4B-fr Silicon Power 256GB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à...'
 sku: 'B07P8KXX4B-fr'
 tags: [  ]

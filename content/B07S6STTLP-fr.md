@@ -5,7 +5,7 @@ date: 2020-05-22 22:54:03
 image: 'https://m.media-amazon.com/images/I/41YzygHfeAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S6STTLP-fr Coffret à Bijoux Beige Velvet - 18 x 12 x 7 cm'
 sku: 'B07S6STTLP-fr'
 tags: [  ]

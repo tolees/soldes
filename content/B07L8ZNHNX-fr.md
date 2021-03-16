@@ -5,7 +5,7 @@ date: 2020-05-22 19:59:39
 image: 'https://m.media-amazon.com/images/I/31lLiZv9THL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8ZNHNX-fr Replay Anbass Jean Slim Bleu Super Light Blue 11 W30/L34...'
 sku: 'B07L8ZNHNX-fr'
 tags: [  ]

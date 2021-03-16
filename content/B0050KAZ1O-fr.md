@@ -5,7 +5,7 @@ date: 2020-05-22 21:41:56
 image: 'https://m.media-amazon.com/images/I/51DZZ54fbrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0050KAZ1O-fr Bosch Professional Ponceuse Excentrique Filaire GEX...'
 sku: 'B0050KAZ1O-fr'
 tags: [  ]

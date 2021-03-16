@@ -5,7 +5,7 @@ date: 2020-09-16 22:02:54
 image: 'https://m.media-amazon.com/images/I/41prtsJ61sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6ZV81K-fr Levi s 501 Coupe Originale - Jean - Homme - Bleu Snoot...'
 sku: 'B07K6ZV81K-fr'
 tags: [  ]

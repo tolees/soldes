@@ -5,7 +5,7 @@ date: 2020-09-11 08:25:09
 image: 'https://m.media-amazon.com/images/I/41iVb6fG0gL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ULLSWSU-fr Sony Objectif G Macro SEL-90M28G Monture E Plein Format 90...'
 sku: 'B00ULLSWSU-fr'
 tags: [  ]

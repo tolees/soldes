@@ -5,7 +5,7 @@ date: 2020-05-22 22:50:55
 image: 'https://m.media-amazon.com/images/I/31mHdQggooL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2QU93B-fr Extel - Interphone vidéo Quattro 2 Blanc - Ecran de 7...'
 sku: 'B01N2QU93B-fr'
 tags: [  ]

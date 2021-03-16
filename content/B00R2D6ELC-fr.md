@@ -5,7 +5,7 @@ date: 2020-06-10 15:18:45
 image: 'https://m.media-amazon.com/images/I/61r5PXrKmRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00R2D6ELC-fr La Bonne Paye – Jeu de societe familial - Jeu de plateau –...'
 sku: 'B00R2D6ELC-fr'
 tags: [  ]

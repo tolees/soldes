@@ -5,7 +5,7 @@ date: 2020-07-08 03:12:59
 image: 'https://m.media-amazon.com/images/I/51kjxoW6axL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YZD4L28-fr tomtoc Nintendo Switch Lite Case Étui de Protection Rigide...'
 sku: 'B07YZD4L28-fr'
 tags: [  ]

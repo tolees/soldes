@@ -5,7 +5,7 @@ date: 2020-08-24 23:37:37
 image: 'https://m.media-amazon.com/images/I/51JGCo1QX2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYQMTMJ-fr Jojoin Instruments de Musique pour Enfants 25Pcs Set en...'
 sku: 'B07TYQMTMJ-fr'
 tags: [  ]

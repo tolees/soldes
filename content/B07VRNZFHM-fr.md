@@ -5,7 +5,7 @@ date: 2020-05-22 21:41:02
 image: 'https://m.media-amazon.com/images/I/41LTM5tc9OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VRNZFHM-fr FITTOO Costume da Bagno Donna Bikini Brasiliana Un Pezzo...'
 sku: 'B07VRNZFHM-fr'
 tags: [  ]

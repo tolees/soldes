@@ -5,7 +5,7 @@ date: 2020-10-03 15:25:04
 image: 'https://m.media-amazon.com/images/I/41Uu24GnFKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZUGMQBA-fr Champion Legacy Performance Crew Lot de 6 paires de...'
 sku: 'B00ZUGMQBA-fr'
 tags: [  ]

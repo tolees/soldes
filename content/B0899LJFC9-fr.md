@@ -5,7 +5,7 @@ date: 2020-08-15 00:25:34
 image: 'https://m.media-amazon.com/images/I/31qGX6wJEGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899LJFC9-fr 【2020 dernière】 Barre de Son 2.1 Canaux avec Subwoofer 190...'
 sku: 'B0899LJFC9-fr'
 tags: [  ]

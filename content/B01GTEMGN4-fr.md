@@ -5,7 +5,7 @@ date: 2020-08-05 13:26:57
 image: 'https://m.media-amazon.com/images/I/41ENxueCkML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTEMGN4-fr SONAX 02465000 ProfiLine cutmax 5 l'
 sku: 'B01GTEMGN4-fr'
 tags: [  ]

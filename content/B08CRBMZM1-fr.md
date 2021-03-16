@@ -5,7 +5,7 @@ date: 2020-08-13 12:45:01
 image: 'https://m.media-amazon.com/images/I/41rCF6kSkRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CRBMZM1-fr HTDELEC Coque Xiaomi Redmi 9 Transparente + 2 × Verre...'
 sku: 'B08CRBMZM1-fr'
 tags: [  ]

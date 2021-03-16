@@ -5,7 +5,7 @@ date: 2020-05-23 00:17:53
 image: 'https://m.media-amazon.com/images/I/41i1zn1A1+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYDC4H5-fr Tommy Jeans TJM Vertical Stripe Hoodie Pull Multicolore...'
 sku: 'B07JYDC4H5-fr'
 tags: [  ]

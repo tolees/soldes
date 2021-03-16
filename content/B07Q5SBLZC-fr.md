@@ -5,7 +5,7 @@ date: 2020-05-22 21:44:30
 image: 'https://m.media-amazon.com/images/I/31y7YgtGORL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5SBLZC-fr vo7 Golazo Burgundy Basket Homme Chic et élégante - Rouge...'
 sku: 'B07Q5SBLZC-fr'
 tags: [  ]

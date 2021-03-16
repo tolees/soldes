@@ -5,7 +5,7 @@ date: 2020-08-11 06:22:40
 image: 'https://m.media-amazon.com/images/I/51HzqdsP5LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FSKK81-fr BRIKSMAX Kit de LED pour Lego Hidden Side L’école hantée...'
 sku: 'B083FSKK81-fr'
 tags: [  ]

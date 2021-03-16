@@ -5,7 +5,7 @@ date: 2020-05-23 00:20:38
 image: 'https://m.media-amazon.com/images/I/41ddBRW7AGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N46FCN7-fr Tommy Hilfiger Cotton Silk Buttoned Zip Mock Sweat-Shirt...'
 sku: 'B07N46FCN7-fr'
 tags: [  ]

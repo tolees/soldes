@@ -5,7 +5,7 @@ date: 2020-08-06 15:06:22
 image: 'https://m.media-amazon.com/images/I/51wJkre7erL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001GHAMB8-fr August DA100D Télévision Portable 10" 25 4cm TNT HD -...'
 sku: 'B001GHAMB8-fr'
 tags: [  ]

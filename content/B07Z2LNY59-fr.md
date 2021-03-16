@@ -5,7 +5,7 @@ date: 2020-08-05 00:16:41
 image: 'https://m.media-amazon.com/images/I/512tcv64YdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z2LNY59-fr Enceinte Bluetooth Portable Zamkol Bluetooth 5.0 Enceinte...'
 sku: 'B07Z2LNY59-fr'
 tags: [  ]

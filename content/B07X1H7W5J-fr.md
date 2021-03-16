@@ -5,7 +5,7 @@ date: 2020-08-13 00:22:25
 image: 'https://m.media-amazon.com/images/I/51X2koWPcIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1H7W5J-fr Tipmant Montre Connectée Femmes Homme Enfant IP68 Etanche...'
 sku: 'B07X1H7W5J-fr'
 tags: [  ]

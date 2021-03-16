@@ -5,7 +5,7 @@ date: 2020-05-22 21:41:10
 image: 'https://m.media-amazon.com/images/I/61qA5SGzZRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CL962HP-fr Giochi Preziosi – LOL Bigger Surprise multicolore llu46000...'
 sku: 'B07CL962HP-fr'
 tags: [  ]

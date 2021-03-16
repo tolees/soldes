@@ -5,7 +5,7 @@ date: 2020-05-22 20:51:14
 image: 'https://m.media-amazon.com/images/I/31Dk68FCKYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYTSB2P-fr Tommy Hilfiger Straight Denton Chino Gmd Flex Pantalon...'
 sku: 'B07JYTSB2P-fr'
 tags: [  ]

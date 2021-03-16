@@ -5,7 +5,7 @@ date: 2020-08-17 07:44:55
 image: 'https://m.media-amazon.com/images/I/419W-QhT9RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W5MYFLT-fr Tommy Hilfiger Basic Embroidered Hoody Sweat-Shirt Bleu...'
 sku: 'B07W5MYFLT-fr'
 tags: [  ]

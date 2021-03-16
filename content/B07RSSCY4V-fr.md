@@ -5,7 +5,7 @@ date: 2020-08-24 04:52:40
 image: 'https://m.media-amazon.com/images/I/410czjA7b4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RSSCY4V-fr Axcone Homme Femme Air Running Baskets Chaussures Outdoor...'
 sku: 'B07RSSCY4V-fr'
 tags: [  ]

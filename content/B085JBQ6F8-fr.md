@@ -5,7 +5,7 @@ date: 2020-09-27 12:27:22
 image: 'https://m.media-amazon.com/images/I/31eX54wR4TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085JBQ6F8-fr Téfal Gourmet crêpière Deux plaques amovibles...'
 sku: 'B085JBQ6F8-fr'
 tags: [  ]

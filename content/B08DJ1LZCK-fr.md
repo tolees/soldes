@@ -5,7 +5,7 @@ date: 2020-09-24 07:41:02
 image: 'https://m.media-amazon.com/images/I/21-aeTm7nnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ1LZCK-fr Disque Dur Externe 2to Disque Dur Externe Portable HDD...'
 sku: 'B08DJ1LZCK-fr'
 tags: [  ]

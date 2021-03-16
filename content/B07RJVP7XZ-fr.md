@@ -5,7 +5,7 @@ date: 2020-09-15 06:49:35
 image: 'https://m.media-amazon.com/images/I/315dmSJf4rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RJVP7XZ-fr Etekcity Balance Wifi Balance Connectée Bluetooth...'
 sku: 'B07RJVP7XZ-fr'
 tags: [  ]

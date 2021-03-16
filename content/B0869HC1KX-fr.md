@@ -5,7 +5,7 @@ date: 2020-08-05 06:21:01
 image: 'https://m.media-amazon.com/images/I/51WvlMceDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0869HC1KX-fr Manette sans Fil pour Nintendo Switch Manettes pour Switch...'
 sku: 'B0869HC1KX-fr'
 tags: [  ]

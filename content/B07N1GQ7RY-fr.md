@@ -5,7 +5,7 @@ date: 2020-08-21 16:06:21
 image: 'https://m.media-amazon.com/images/I/319kPmBn9wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1GQ7RY-fr Tigex Baignoire pour Bébé Pliable Ultra Compacte 0-12 Mois...'
 sku: 'B07N1GQ7RY-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 03:14:08
 image: 'https://m.media-amazon.com/images/I/31Tv-GuKrBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00X9SQC2U-fr BaByliss Lisseur I-Pro 230 Steam avec technologie...'
 sku: 'B00X9SQC2U-fr'
 tags: [  ]

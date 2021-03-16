@@ -5,7 +5,7 @@ date: 2020-08-04 17:49:14
 image: 'https://m.media-amazon.com/images/I/41WH5FziQyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0030DH1WE-fr PetSafe - Système Anti-Fugue Sans Fil et Portatif avec...'
 sku: 'B0030DH1WE-fr'
 tags: [  ]

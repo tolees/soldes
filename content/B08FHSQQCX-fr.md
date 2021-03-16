@@ -5,7 +5,7 @@ date: 2020-09-12 14:50:59
 image: 'https://m.media-amazon.com/images/I/41RLWGQIy1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FHSQQCX-fr USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10 8...'
 sku: 'B08FHSQQCX-fr'
 tags: [  ]

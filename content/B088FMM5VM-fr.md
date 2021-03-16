@@ -5,7 +5,7 @@ date: 2020-08-12 18:21:23
 image: 'https://m.media-amazon.com/images/I/611aZt4Dx-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FMM5VM-fr lenbest Jouet Bebe - 3D Puzzles en Bois Fond Vif Animaux...'
 sku: 'B088FMM5VM-fr'
 tags: [  ]

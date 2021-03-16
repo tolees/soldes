@@ -5,7 +5,7 @@ date: 2020-09-11 08:17:44
 image: 'https://m.media-amazon.com/images/I/31+OTetpxxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VNFH86-fr THULE 960100 Barres de toit WingBar 960 en aluminium -...'
 sku: 'B005VNFH86-fr'
 tags: [  ]

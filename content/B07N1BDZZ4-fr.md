@@ -5,7 +5,7 @@ date: 2020-05-22 23:28:14
 image: 'https://m.media-amazon.com/images/I/41nd54hx7uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1BDZZ4-fr True Religion Cropped Hoody Print Dusty Olive Sweat-Shirt...'
 sku: 'B07N1BDZZ4-fr'
 tags: [  ]

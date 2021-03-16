@@ -5,7 +5,7 @@ date: 2020-08-07 16:03:58
 image: 'https://m.media-amazon.com/images/I/41upnQrIiKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01E7HTWXM-fr Schott NYC JKTAC Blouson Vert Kaki Kaki X-Small Taille...'
 sku: 'B01E7HTWXM-fr'
 tags: [  ]

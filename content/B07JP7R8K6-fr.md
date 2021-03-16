@@ -5,7 +5,7 @@ date: 2020-05-23 00:00:55
 image: 'https://m.media-amazon.com/images/I/41Y9qZQ+G7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JP7R8K6-fr Pioneer Club 7 Enceinte de Bluetooth LED Éclarage Voice...'
 sku: 'B07JP7R8K6-fr'
 tags: [  ]

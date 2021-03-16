@@ -5,7 +5,7 @@ date: 2020-09-15 18:18:15
 image: 'https://m.media-amazon.com/images/I/31VgtsX8UxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077HMSDJP-fr FM London Lot de 5 Boxer Hommes avec technologie de...'
 sku: 'B077HMSDJP-fr'
 tags: [  ]

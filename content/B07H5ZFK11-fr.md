@@ -5,7 +5,7 @@ date: 2020-05-22 21:44:03
 image: 'https://m.media-amazon.com/images/I/41corK2SsaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5ZFK11-fr Maison Lejaby Sin Soutien-Gorge à Armature Noir Noir 04...'
 sku: 'B07H5ZFK11-fr'
 tags: [  ]

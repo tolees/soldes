@@ -5,7 +5,7 @@ date: 2020-05-24 18:12:07
 image: 'https://m.media-amazon.com/images/I/51LgjHZJHoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZF73RB5-fr TICTID Raspberry Pi 4 Modèle B 4 B 1Go Upgraded for...'
 sku: 'B07ZF73RB5-fr'
 tags: [  ]

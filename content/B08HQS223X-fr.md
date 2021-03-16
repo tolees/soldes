@@ -5,7 +5,7 @@ date: 2020-10-07 23:43:20
 image: 'https://m.media-amazon.com/images/I/51RVffG4cnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HQS223X-fr Coque Xiaomi Note 10 Double Couche Renforcée Défense...'
 sku: 'B08HQS223X-fr'
 tags: [  ]

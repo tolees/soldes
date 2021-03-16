@@ -5,7 +5,7 @@ date: 2020-05-22 22:28:15
 image: 'https://m.media-amazon.com/images/I/41UEPnqEycL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GR2CLGV-fr Oakwood Connecting Blouson Marron Vison 0559 XX-Large...'
 sku: 'B07GR2CLGV-fr'
 tags: [  ]

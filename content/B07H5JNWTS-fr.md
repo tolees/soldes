@@ -5,7 +5,7 @@ date: 2020-10-05 19:19:35
 image: 'https://m.media-amazon.com/images/I/41yaSAfk9+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H5JNWTS-fr Urban Armor Gear Monarch pour Apple iPhone Xs Max Coque...'
 sku: 'B07H5JNWTS-fr'
 tags: [  ]

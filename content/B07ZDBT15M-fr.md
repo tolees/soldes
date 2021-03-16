@@ -5,7 +5,7 @@ date: 2020-08-08 06:09:25
 image: 'https://m.media-amazon.com/images/I/31mmmCmEM7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZDBT15M-fr DD SSD KINGSTON KC600 2.5 SATA3 512GO SKC600/512G *0253'
 sku: 'B07ZDBT15M-fr'
 tags: [  ]

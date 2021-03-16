@@ -5,7 +5,7 @@ date: 2020-08-18 06:27:24
 image: 'https://m.media-amazon.com/images/I/31L8SOW3QXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NPLVFNL-fr Jabra Elite Active 45e – Casque de Sport Bluetooth sans...'
 sku: 'B07NPLVFNL-fr'
 tags: [  ]

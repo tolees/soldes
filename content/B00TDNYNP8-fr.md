@@ -5,7 +5,7 @@ date: 2020-05-22 19:54:48
 image: 'https://m.media-amazon.com/images/I/31Tfiul6XwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TDNYNP8-fr Arlo | Caméra de surveillance 100% Sans Fils Pack de 2 HD...'
 sku: 'B00TDNYNP8-fr'
 tags: [  ]

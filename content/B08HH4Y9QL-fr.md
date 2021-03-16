@@ -5,7 +5,7 @@ date: 2020-10-04 23:17:18
 image: 'https://m.media-amazon.com/images/I/41PTBAffmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HH4Y9QL-fr YUES Manette pour PS4 DUALSHOCK 4 pour Playstation...'
 sku: 'B08HH4Y9QL-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 20:22:13
 image: 'https://m.media-amazon.com/images/I/51eA5ouUIBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N4BLT7R-fr Catimini CP44005 Manteau Noir Black 02 4 Ans Taille...'
 sku: 'B07N4BLT7R-fr'
 tags: [  ]

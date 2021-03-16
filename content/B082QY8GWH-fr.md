@@ -5,7 +5,7 @@ date: 2020-09-19 16:27:49
 image: 'https://m.media-amazon.com/images/I/51Fu-gysZpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082QY8GWH-fr Moniteur de Fréquence Cardiaque Traqueur de Forme Physique...'
 sku: 'B082QY8GWH-fr'
 tags: [  ]

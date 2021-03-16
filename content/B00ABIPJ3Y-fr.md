@@ -5,7 +5,7 @@ date: 2020-10-04 03:25:23
 image: 'https://m.media-amazon.com/images/I/51Ig-mCVY-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ABIPJ3Y-fr Arrête-Moi si tu Peux [Blu-Ray]'
 sku: 'B00ABIPJ3Y-fr'
 tags: [  ]

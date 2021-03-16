@@ -5,7 +5,7 @@ date: 2020-08-12 00:23:22
 image: 'https://m.media-amazon.com/images/I/51MLYPTaA8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088MVX8RY-fr Deadly Premonition 2 : A Blessing in Disguise'
 sku: 'B088MVX8RY-fr'
 tags: [  ]

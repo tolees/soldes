@@ -5,7 +5,7 @@ date: 2020-10-11 14:27:32
 image: 'https://m.media-amazon.com/images/I/41Mx-uzWmNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R6TWP2D-fr Columbia Powder Lite Hooded Veste à capuche-Homme Bleu...'
 sku: 'B07R6TWP2D-fr'
 tags: [  ]

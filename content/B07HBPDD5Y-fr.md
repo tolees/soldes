@@ -5,7 +5,7 @@ date: 2020-10-03 09:15:10
 image: 'https://m.media-amazon.com/images/I/41ldzkm9IbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HBPDD5Y-fr ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura...'
 sku: 'B07HBPDD5Y-fr'
 tags: [  ]

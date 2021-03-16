@@ -5,7 +5,7 @@ date: 2020-09-26 08:44:44
 image: 'https://m.media-amazon.com/images/I/51+QIzYOl2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTA3FFT-fr Sony FDR-X3000R + AKA-FGP1 Camera d action ultra-...'
 sku: 'B01MTA3FFT-fr'
 tags: [  ]

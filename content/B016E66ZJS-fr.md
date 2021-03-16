@@ -5,7 +5,7 @@ date: 2020-10-03 11:12:52
 image: 'https://m.media-amazon.com/images/I/51mI1yHRfpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B016E66ZJS-fr Le Grand jour'
 sku: 'B016E66ZJS-fr'
 tags: [  ]

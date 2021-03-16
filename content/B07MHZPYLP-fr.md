@@ -5,7 +5,7 @@ date: 2020-08-24 04:51:11
 image: 'https://m.media-amazon.com/images/I/51RjjdP56RL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MHZPYLP-fr MEGIR Montres Hommes étanche Chronographe Sport Analogique...'
 sku: 'B07MHZPYLP-fr'
 tags: [  ]

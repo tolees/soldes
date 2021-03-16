@@ -5,7 +5,7 @@ date: 2020-05-22 19:49:13
 image: 'https://m.media-amazon.com/images/I/418gWdkXGxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLN1F45-fr LIVOO DOP142N Robot culinaire Chauffant'
 sku: 'B07WLN1F45-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 18:43:24
 image: 'https://m.media-amazon.com/images/I/31ZajHPQmhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLJWP9F-fr RAMPOW Chargeur USB C 18W Power Delivery [Garantie à Vie]...'
 sku: 'B08BLJWP9F-fr'
 tags: [  ]

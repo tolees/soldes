@@ -5,7 +5,7 @@ date: 2020-05-23 00:10:54
 image: 'https://m.media-amazon.com/images/I/51dPbclPj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WX5Y4DO-fr World Art TWAB20101 Papillons Lampe de Table de Nuit Verre...'
 sku: 'B00WX5Y4DO-fr'
 tags: [  ]

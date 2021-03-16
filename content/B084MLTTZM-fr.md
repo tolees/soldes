@@ -5,7 +5,7 @@ date: 2020-10-08 13:23:47
 image: 'https://m.media-amazon.com/images/I/41Dl96KM4JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084MLTTZM-fr Kiano Elegance 6.1 Pro 4/64GB LTE 6" Smartphone [Android...'
 sku: 'B084MLTTZM-fr'
 tags: [  ]

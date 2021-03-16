@@ -5,7 +5,7 @@ date: 2020-05-22 23:57:26
 image: 'https://m.media-amazon.com/images/I/312JDZJyPyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FR7XX7N-fr Clarks Edward Plain Derbys Homme Marron Tan Leather- 45 EU'
 sku: 'B07FR7XX7N-fr'
 tags: [  ]

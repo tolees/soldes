@@ -5,7 +5,7 @@ date: 2020-08-23 17:23:34
 image: 'https://m.media-amazon.com/images/I/51IhxhiLvSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DTFFDTJ-fr Jeux De Construction Mosaique Enfant Puzzle Jeu Motricite...'
 sku: 'B07DTFFDTJ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-16 16:23:55
 image: 'https://m.media-amazon.com/images/I/41l2PwYMMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083ZQ1KVC-fr Atolla Adaptateur USB Ethernet RJ45 Réseau Adaptateur USB...'
 sku: 'B083ZQ1KVC-fr'
 tags: [  ]

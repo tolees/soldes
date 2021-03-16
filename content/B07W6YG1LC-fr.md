@@ -5,7 +5,7 @@ date: 2020-05-27 08:30:34
 image: 'https://m.media-amazon.com/images/I/51S0xe49h7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W6YG1LC-fr ECOVACS OZMO920 Robot Aspirateur Laveur 2-en-1 avec...'
 sku: 'B07W6YG1LC-fr'
 tags: [  ]

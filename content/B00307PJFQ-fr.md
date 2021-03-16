@@ -5,7 +5,7 @@ date: 2020-08-05 18:09:34
 image: 'https://m.media-amazon.com/images/I/21-JRRSOK4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00307PJFQ-fr Diaper Champ Poubelle a couche - Large - capacite +/- 75...'
 sku: 'B00307PJFQ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 17:16:55
 image: 'https://m.media-amazon.com/images/I/414WOsP2i+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073H7DN3F-fr Sandvik Coromant Qs-3–80ll202034–10 C Coroturn 300 QS Tige...'
 sku: 'B073H7DN3F-fr'
 tags: [  ]

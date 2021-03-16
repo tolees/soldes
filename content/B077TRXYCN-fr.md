@@ -5,7 +5,7 @@ date: 2020-05-22 21:59:33
 image: 'https://m.media-amazon.com/images/I/41gH+wWHBLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077TRXYCN-fr Mixcder E7 Casque Bluetooth à Réduction Active de Bruit...'
 sku: 'B077TRXYCN-fr'
 tags: [  ]

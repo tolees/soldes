@@ -5,7 +5,7 @@ date: 2020-09-15 03:07:36
 image: 'https://m.media-amazon.com/images/I/414w2B-UL0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LWL91W3-fr Swiffer Duster Lingettes Poussière X 10'
 sku: 'B01LWL91W3-fr'
 tags: [  ]

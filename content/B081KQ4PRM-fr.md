@@ -5,7 +5,7 @@ date: 2021-02-16 01:54:23
 image: 'https://m.media-amazon.com/images/I/510da9aDE4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081KQ4PRM-fr Roman Porno 1971-2016-Une Histoire érotique du Japon'
 sku: 'B081KQ4PRM-fr'
 tags: [  ]

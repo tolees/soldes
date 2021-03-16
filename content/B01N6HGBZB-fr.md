@@ -5,7 +5,7 @@ date: 2020-08-11 16:44:08
 image: 'https://m.media-amazon.com/images/I/41no5rtaAnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N6HGBZB-fr HAUPTSTADTKOFFER - Alex - Bagage Rigide Valise Grande...'
 sku: 'B01N6HGBZB-fr'
 tags: [  ]

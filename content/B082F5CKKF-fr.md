@@ -5,7 +5,7 @@ date: 2020-09-13 17:43:22
 image: 'https://m.media-amazon.com/images/I/41jDJJuqm1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082F5CKKF-fr Fer à Lisser Professionnel Lissara - Plaques Larges en...'
 sku: 'B082F5CKKF-fr'
 tags: [  ]

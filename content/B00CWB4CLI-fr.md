@@ -5,7 +5,7 @@ date: 2020-08-09 20:44:38
 image: 'https://m.media-amazon.com/images/I/31R3QYGDM-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CWB4CLI-fr Vans Atwood Total Baskets Basses Homme Noir Canvas...'
 sku: 'B00CWB4CLI-fr'
 tags: [  ]

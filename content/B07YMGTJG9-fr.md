@@ -5,7 +5,7 @@ date: 2020-08-07 14:28:08
 image: 'https://m.media-amazon.com/images/I/41LuYCad82L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YMGTJG9-fr Chie Mihara abra Sandales Bride Cheville Femmes Noir Ante...'
 sku: 'B07YMGTJG9-fr'
 tags: [  ]

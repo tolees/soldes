@@ -5,7 +5,7 @@ date: 2020-05-28 20:32:07
 image: 'https://m.media-amazon.com/images/I/41nEhZrCfxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07359JBKG-fr RIDER-TEC – Blouson Moto Urban Girly SoftShell Black –...'
 sku: 'B07359JBKG-fr'
 tags: [  ]

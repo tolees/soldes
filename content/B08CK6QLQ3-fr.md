@@ -5,7 +5,7 @@ date: 2020-08-29 17:11:32
 image: 'https://m.media-amazon.com/images/I/51corhlEikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CK6QLQ3-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
 sku: 'B08CK6QLQ3-fr'
 tags: [  ]

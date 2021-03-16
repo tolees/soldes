@@ -5,7 +5,7 @@ date: 2020-07-08 07:36:54
 image: 'https://m.media-amazon.com/images/I/4180Ju6zNML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7KKCNS-fr Playmobil - Playmobil The Movie Rex Dasher Porsche Mission...'
 sku: 'B07P7KKCNS-fr'
 tags: [  ]

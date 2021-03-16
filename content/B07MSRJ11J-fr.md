@@ -5,7 +5,7 @@ date: 2020-09-21 15:28:12
 image: 'https://m.media-amazon.com/images/I/41+4IKPy8WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSRJ11J-fr HP 27fwa – moniteur de 27 " FHD enceintes intégrés .1920 X...'
 sku: 'B07MSRJ11J-fr'
 tags: [  ]

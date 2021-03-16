@@ -5,7 +5,7 @@ date: 2020-07-23 12:46:28
 image: 'https://m.media-amazon.com/images/I/417jFYWRU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5Z8T2J-fr ProCase Coque à Rabat + 2 Film d Écran pour Nintendo...'
 sku: 'B08B5Z8T2J-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-30 06:41:06
 image: 'https://m.media-amazon.com/images/I/51sS3tDM8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002R2C9TE-fr Jusqu en Enfer [Blu-Ray]'
 sku: 'B002R2C9TE-fr'
 tags: [  ]

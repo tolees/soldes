@@ -5,7 +5,7 @@ date: 2020-05-30 22:33:40
 image: 'https://m.media-amazon.com/images/I/317vAV2EpYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00BEHTKWC-fr Sonos Playbar Barre de son TV sans fil et enceinte wifi...'
 sku: 'B00BEHTKWC-fr'
 tags: [  ]

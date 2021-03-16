@@ -5,7 +5,7 @@ date: 2020-08-22 13:43:43
 image: 'https://m.media-amazon.com/images/I/41BVy3typDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01ISTFVIU-fr Bosch MUZ9VL1 Accessoire optimum robot culinaire'
 sku: 'B01ISTFVIU-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-13 06:12:21
 image: 'https://m.media-amazon.com/images/I/514rYNDZldL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089GGSQ5X-fr OCDAY Voiture Telecommandé Voiture Telecommandé Tout...'
 sku: 'B089GGSQ5X-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 05:47:33
 image: 'https://m.media-amazon.com/images/I/31mLdQf3YoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N292SLQ-fr camel active 5-Pocket Houston Jean Droit Bleu Bleue/Black...'
 sku: 'B01N292SLQ-fr'
 tags: [  ]

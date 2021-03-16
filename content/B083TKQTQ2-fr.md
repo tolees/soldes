@@ -5,7 +5,7 @@ date: 2020-08-04 06:37:00
 image: 'https://m.media-amazon.com/images/I/41vqEzbdquL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083TKQTQ2-fr yobola Ecouteur Bluetooth Écouteur sans Fil 5.0 24h de...'
 sku: 'B083TKQTQ2-fr'
 tags: [  ]

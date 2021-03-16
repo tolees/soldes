@@ -5,7 +5,7 @@ date: 2020-09-28 15:28:20
 image: 'https://m.media-amazon.com/images/I/411DiGmJ60L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T4LTSKO-fr HAUPTSTADTKOFFER Valises 75 cm 126 L Bleu'
 sku: 'B00T4LTSKO-fr'
 tags: [  ]

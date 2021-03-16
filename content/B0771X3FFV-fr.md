@@ -5,7 +5,7 @@ date: 2020-09-22 21:36:56
 image: 'https://m.media-amazon.com/images/I/413JRZbJm-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771X3FFV-fr Columbia XO0662 Short Homme Grill FR : 2XL Taille...'
 sku: 'B0771X3FFV-fr'
 tags: [  ]

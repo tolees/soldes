@@ -5,7 +5,7 @@ date: 2020-10-12 08:20:51
 image: 'https://m.media-amazon.com/images/I/41vxdPVuCgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BF248HC-fr Still on the Run - the Jeff Beck Story [Blu-ray]'
 sku: 'B07BF248HC-fr'
 tags: [  ]

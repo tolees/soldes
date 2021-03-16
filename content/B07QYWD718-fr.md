@@ -5,7 +5,7 @@ date: 2020-09-28 20:45:02
 image: 'https://m.media-amazon.com/images/I/31WGZ2P975L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QYWD718-fr Sony WI-C200 Ecouteurs intra-auriculaires sans fil type...'
 sku: 'B07QYWD718-fr'
 tags: [  ]

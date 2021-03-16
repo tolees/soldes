@@ -5,7 +5,7 @@ date: 2020-05-22 23:10:01
 image: 'https://m.media-amazon.com/images/I/41e0L6Jr-6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JKUPRF4-fr Nikon Objectif Zoom AF-S DX 18-300 mm f/3.5-6.3G ED VR'
 sku: 'B00JKUPRF4-fr'
 tags: [  ]

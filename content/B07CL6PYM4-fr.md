@@ -5,7 +5,7 @@ date: 2020-08-12 16:09:10
 image: 'https://m.media-amazon.com/images/I/31h+pqBYAxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CL6PYM4-fr Only NOS Onlroyal Reg SK DNM Jeans Bj312 Noos Dark Grey...'
 sku: 'B07CL6PYM4-fr'
 tags: [  ]

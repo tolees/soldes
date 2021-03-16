@@ -5,7 +5,7 @@ date: 2020-09-12 17:09:22
 image: 'https://m.media-amazon.com/images/I/312dv23lg6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q3HP6KQ-fr Belkin Hub Multimédia USB-C avec Câble USB-C Intégré Dock...'
 sku: 'B07Q3HP6KQ-fr'
 tags: [  ]

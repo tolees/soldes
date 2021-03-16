@@ -5,7 +5,7 @@ date: 2020-08-10 00:31:41
 image: 'https://m.media-amazon.com/images/I/41gMbJF1A3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BMSLHG4-fr OUPOD Manette sans fil Bluetooth pour Pro Nintendo Switch...'
 sku: 'B08BMSLHG4-fr'
 tags: [  ]

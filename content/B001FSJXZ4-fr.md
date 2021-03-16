@@ -5,7 +5,7 @@ date: 2020-09-20 21:27:39
 image: 'https://m.media-amazon.com/images/I/31+VcP8D7oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001FSJXZ4-fr Delonghi V550715 Bain d huile serie vento Blanc'
 sku: 'B001FSJXZ4-fr'
 tags: [  ]

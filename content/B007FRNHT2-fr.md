@@ -5,7 +5,7 @@ date: 2020-05-26 14:19:57
 image: 'https://m.media-amazon.com/images/I/41+S3xpsW1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007FRNHT2-fr Barigo 386MSMA Marron Station météo numérique - Stations...'
 sku: 'B007FRNHT2-fr'
 tags: [  ]

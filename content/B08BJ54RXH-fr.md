@@ -5,7 +5,7 @@ date: 2020-08-27 04:15:13
 image: 'https://m.media-amazon.com/images/I/51LGmKTfu-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJ54RXH-fr Casque Gaming EKSA E900 Casque PS4 Micro Casque Gamer PC...'
 sku: 'B08BJ54RXH-fr'
 tags: [  ]

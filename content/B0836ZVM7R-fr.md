@@ -5,7 +5,7 @@ date: 2020-08-10 18:40:22
 image: 'https://m.media-amazon.com/images/I/51KWSYeFThL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0836ZVM7R-fr Difuzed The Legend of Zelda Snap Back Cap Link s Awakening...'
 sku: 'B0836ZVM7R-fr'
 tags: [  ]

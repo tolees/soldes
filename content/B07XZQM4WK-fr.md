@@ -5,7 +5,7 @@ date: 2020-10-08 19:22:44
 image: 'https://m.media-amazon.com/images/I/313U7OpOLOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XZQM4WK-fr Arlo Pro3 Caméra de surveillance Wifi extérieure. Caméra...'
 sku: 'B07XZQM4WK-fr'
 tags: [  ]

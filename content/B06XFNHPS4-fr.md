@@ -5,7 +5,7 @@ date: 2020-08-09 12:38:12
 image: 'https://m.media-amazon.com/images/I/41XP33yC1XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XFNHPS4-fr Schott NYC LC300 Blouson Marron Rust Rust Large Taille...'
 sku: 'B06XFNHPS4-fr'
 tags: [  ]

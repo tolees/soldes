@@ -5,7 +5,7 @@ date: 2020-05-22 21:55:49
 image: 'https://m.media-amazon.com/images/I/41hGGpdrBzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H635JFB-fr Samsonite Valise 106745/7084 Graphite/Gunmetal Gris -...'
 sku: 'B07H635JFB-fr'
 tags: [  ]

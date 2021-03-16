@@ -5,7 +5,7 @@ date: 2020-10-09 03:53:38
 image: 'https://m.media-amazon.com/images/I/410e-9zVjPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076F9XB9C-fr Royal Bobbles - Bobble Head Michonne - The Walking Dead'
 sku: 'B076F9XB9C-fr'
 tags: [  ]

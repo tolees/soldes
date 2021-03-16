@@ -5,7 +5,7 @@ date: 2020-05-22 22:51:09
 image: 'https://m.media-amazon.com/images/I/410xE1wA8xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013MC8H2A-fr Lowepro 250 AW Slingshot Edge sac de transport pour...'
 sku: 'B013MC8H2A-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-06 09:03:28
 image: 'https://m.media-amazon.com/images/I/31vGKPO0aFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V3NQMFT-fr Strellson Premium Allen-mercer2.0 Amf2 12 Costume Gris...'
 sku: 'B07V3NQMFT-fr'
 tags: [  ]

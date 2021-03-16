@@ -5,7 +5,7 @@ date: 2020-09-22 07:21:22
 image: 'https://m.media-amazon.com/images/I/41W2LHYt+dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FY39QXD-fr 2 x Volant Poignées pour Switch Kit de Poignées à L usure...'
 sku: 'B08FY39QXD-fr'
 tags: [  ]

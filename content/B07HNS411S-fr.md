@@ -5,7 +5,7 @@ date: 2020-09-30 06:40:30
 image: 'https://m.media-amazon.com/images/I/41s3yboT06L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HNS411S-fr Design Antenne Full HDTV intérieure Amplifiée de One For...'
 sku: 'B07HNS411S-fr'
 tags: [  ]

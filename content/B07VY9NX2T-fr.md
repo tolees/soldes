@@ -5,7 +5,7 @@ date: 2020-08-04 18:03:42
 image: 'https://m.media-amazon.com/images/I/41q+0+WbyBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VY9NX2T-fr Icebreaker Victory LS Zip Veste Femme Jet HTHR FR : M...'
 sku: 'B07VY9NX2T-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-29 08:12:04
 image: 'https://m.media-amazon.com/images/I/419qkA+06OL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQDPYQC-fr Hot Wheels City T-Rex en Furie coffret de jeu pour petites...'
 sku: 'B07NQDPYQC-fr'
 tags: [  ]

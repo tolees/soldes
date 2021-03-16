@@ -5,7 +5,7 @@ date: 2020-08-16 00:48:02
 image: 'https://m.media-amazon.com/images/I/41xU2IzU8HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F7G2PHY-fr Sabrent 1TB Rocket Q4 NVMe PCIe 4.0 M.2 2280 Internal SSD...'
 sku: 'B08F7G2PHY-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 23:57:18
 image: 'https://m.media-amazon.com/images/I/31dIJw+iUDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X1P8NQP-fr Samsung Galaxy Note 10+ - Smartphone Portable débloqué 4G...'
 sku: 'B07X1P8NQP-fr'
 tags: [  ]

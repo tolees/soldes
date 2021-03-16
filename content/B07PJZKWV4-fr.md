@@ -5,7 +5,7 @@ date: 2020-08-06 18:06:57
 image: 'https://m.media-amazon.com/images/I/31IxXQmI8XL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PJZKWV4-fr Chie Mihara Nino botines Femmes Noir Barna West Negro 39 EU'
 sku: 'B07PJZKWV4-fr'
 tags: [  ]

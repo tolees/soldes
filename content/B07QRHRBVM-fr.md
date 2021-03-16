@@ -5,7 +5,7 @@ date: 2020-06-12 01:19:22
 image: 'https://m.media-amazon.com/images/I/51tQv4RxlWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QRHRBVM-fr Instant Sports pour Nintendo Switch'
 sku: 'B07QRHRBVM-fr'
 tags: [  ]

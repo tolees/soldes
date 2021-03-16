@@ -5,7 +5,7 @@ date: 2020-08-03 21:35:23
 image: 'https://m.media-amazon.com/images/I/411JpXOwmwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QDLDTM2-fr ANRAN CCTV Caméra 1080p IP Caméra sans Fil'
 sku: 'B07QDLDTM2-fr'
 tags: [  ]

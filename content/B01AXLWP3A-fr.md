@@ -5,7 +5,7 @@ date: 2020-05-22 20:06:29
 image: 'https://m.media-amazon.com/images/I/41tiZP3wuZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AXLWP3A-fr Philips S3510/08 Rasoir électique Series 3000 rechargeable...'
 sku: 'B01AXLWP3A-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 07:40:48
 image: 'https://m.media-amazon.com/images/I/41wiQg9aeDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006YBLRAQ-fr sloggi Basic+ Maxi 3P Culotte Gainante Femme Paquet de 3...'
 sku: 'B006YBLRAQ-fr'
 tags: [  ]

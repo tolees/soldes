@@ -5,7 +5,7 @@ date: 2020-05-22 23:10:56
 image: 'https://m.media-amazon.com/images/I/51L+HDOLIjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005OQECL8-fr Dremel 4000 Edition Platinium Outil Rotatif Multifonction...'
 sku: 'B005OQECL8-fr'
 tags: [  ]

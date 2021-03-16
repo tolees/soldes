@@ -5,7 +5,7 @@ date: 2020-10-04 13:27:39
 image: 'https://m.media-amazon.com/images/I/41tkGs72OJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085HM3SH6-fr Volvetwig Cheveux Humain Vierge Vrai 100% Perruque Lisse...'
 sku: 'B085HM3SH6-fr'
 tags: [  ]

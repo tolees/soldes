@@ -5,7 +5,7 @@ date: 2020-08-26 06:27:33
 image: 'https://m.media-amazon.com/images/I/31LM8FqiwhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00KBXKJ2A-fr EDISION HDMI MODULATOR single DVB-T Full HD MPEG4 RF-IN...'
 sku: 'B00KBXKJ2A-fr'
 tags: [  ]

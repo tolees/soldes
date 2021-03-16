@@ -5,7 +5,7 @@ date: 2020-08-27 06:05:23
 image: 'https://m.media-amazon.com/images/I/31bPUPNs5QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NY3GSWX-fr IKOHS Pro Wellness - Pèse Personne Blanc'
 sku: 'B07NY3GSWX-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 13:51:49
 image: 'https://m.media-amazon.com/images/I/41WKQSL6l6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BUDIY2G-fr Wagner W100 2361508 Pistolet à peinture pour bois/métal'
 sku: 'B01BUDIY2G-fr'
 tags: [  ]

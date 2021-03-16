@@ -5,7 +5,7 @@ date: 2020-08-25 23:32:17
 image: 'https://m.media-amazon.com/images/I/51ZpiMOdfxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BTH9WQ4-fr SGILE RC Voiture Télécommandée - 4WD Stunt Car avec...'
 sku: 'B08BTH9WQ4-fr'
 tags: [  ]

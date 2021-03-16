@@ -5,7 +5,7 @@ date: 2020-09-16 21:52:11
 image: 'https://m.media-amazon.com/images/I/41DGJV6tj8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079GTPW3F-fr NUNCAD Bague Homme/Femme en Tungstène avec I Love You Or...'
 sku: 'B079GTPW3F-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-05 14:27:13
 image: 'https://m.media-amazon.com/images/I/41Z5bb9Qi7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TP696NK-fr Lacoste femme NF2731CE Chantaco Sac porte epaule Rose...'
 sku: 'B07TP696NK-fr'
 tags: [  ]

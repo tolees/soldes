@@ -5,7 +5,7 @@ date: 2020-08-25 16:58:30
 image: 'https://m.media-amazon.com/images/I/51bV835FiYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089VZLTQP-fr ELUTENG Ventilateur 80mm DC Puissant et Silencieux Double...'
 sku: 'B089VZLTQP-fr'
 tags: [  ]

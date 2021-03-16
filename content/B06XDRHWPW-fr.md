@@ -5,7 +5,7 @@ date: 2020-08-06 13:43:54
 image: 'https://m.media-amazon.com/images/I/41zrvbXjkcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDRHWPW-fr HAUPTSTADTKOFFER - Spree - Valise de Taille Moyenne Bagage...'
 sku: 'B06XDRHWPW-fr'
 tags: [  ]

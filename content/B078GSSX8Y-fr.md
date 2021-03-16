@@ -5,7 +5,7 @@ date: 2020-05-23 22:14:17
 image: 'https://m.media-amazon.com/images/I/31Bxuf-X8fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078GSSX8Y-fr Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte Dark...'
 sku: 'B078GSSX8Y-fr'
 tags: [  ]

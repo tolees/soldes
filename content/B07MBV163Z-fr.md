@@ -5,7 +5,7 @@ date: 2020-09-24 17:27:31
 image: 'https://m.media-amazon.com/images/I/51RLddCJrnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MBV163Z-fr PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition...'
 sku: 'B07MBV163Z-fr'
 tags: [  ]

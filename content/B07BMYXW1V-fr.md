@@ -5,7 +5,7 @@ date: 2020-05-22 21:37:44
 image: 'https://m.media-amazon.com/images/I/41XhLbp4x2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BMYXW1V-fr Anita Clara Art Soutien-Gorge sans Armatures Noir Schwarz...'
 sku: 'B07BMYXW1V-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-24 09:49:41
 image: 'https://m.media-amazon.com/images/I/41leROgNODL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0758NXNQ8-fr Josef Seibel Fiona 04 Femme Bleu Blue 971 500 41 EU'
 sku: 'B0758NXNQ8-fr'
 tags: [  ]

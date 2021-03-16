@@ -5,7 +5,7 @@ date: 2020-08-24 17:13:58
 image: 'https://m.media-amazon.com/images/I/41NBBThozfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J5YD6FS-fr VICTROLA CREATION MUSICALE Park Avenue VTA-60-ESP-EU'
 sku: 'B07J5YD6FS-fr'
 tags: [  ]

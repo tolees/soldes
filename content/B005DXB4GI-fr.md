@@ -5,7 +5,7 @@ date: 2020-05-22 22:46:37
 image: 'https://m.media-amazon.com/images/I/31tQO-+avkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005DXB4GI-fr Geox U Monet Art.V Mocassins Loafers Homme Noir Blackc9999...'
 sku: 'B005DXB4GI-fr'
 tags: [  ]

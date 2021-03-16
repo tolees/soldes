@@ -5,7 +5,7 @@ date: 2020-08-18 08:06:36
 image: 'https://m.media-amazon.com/images/I/51lHJP2agML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BQNJ1FH-fr Ready Player One - DVD'
 sku: 'B07BQNJ1FH-fr'
 tags: [  ]

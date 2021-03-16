@@ -5,7 +5,7 @@ date: 2020-08-05 18:58:51
 image: 'https://m.media-amazon.com/images/I/41rmIBEhm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y491JKT-fr Melvin & Hamilton Amelie 5 Bottes Chelsea femme - Marron...'
 sku: 'B06Y491JKT-fr'
 tags: [  ]

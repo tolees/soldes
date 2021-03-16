@@ -5,7 +5,7 @@ date: 2020-07-14 15:13:10
 image: 'https://m.media-amazon.com/images/I/31fYTppRYML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BL7CDSJ-fr YUCUN 2 5 Pouces SATA III Disque Flash 2To SSD 2TB Interne...'
 sku: 'B08BL7CDSJ-fr'
 tags: [  ]

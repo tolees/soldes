@@ -5,7 +5,7 @@ date: 2020-10-02 13:08:33
 image: 'https://m.media-amazon.com/images/I/41rkTLbPybL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075VCNH3J-fr Extech SL510 Sonomètre Vert'
 sku: 'B075VCNH3J-fr'
 tags: [  ]

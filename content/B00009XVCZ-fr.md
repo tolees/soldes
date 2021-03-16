@@ -5,7 +5,7 @@ date: 2020-05-22 21:44:17
 image: 'https://m.media-amazon.com/images/I/517W0-gDK1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00009XVCZ-fr Canon Objectif EF-50mm F/1 4 USM'
 sku: 'B00009XVCZ-fr'
 tags: [  ]

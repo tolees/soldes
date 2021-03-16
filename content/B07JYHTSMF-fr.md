@@ -5,7 +5,7 @@ date: 2020-05-22 20:33:35
 image: 'https://m.media-amazon.com/images/I/413wA0W2CuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYHTSMF-fr Tommy Hilfiger Short Sleeve Slim Polo Cerulean 474 X-Large...'
 sku: 'B07JYHTSMF-fr'
 tags: [  ]

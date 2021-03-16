@@ -5,7 +5,7 @@ date: 2020-05-22 19:54:04
 image: 'https://m.media-amazon.com/images/I/31EUMO7GZOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RS84LHJ-fr Tommy Hilfiger Classic Straight Hw C Balt Jean Droit Bleu...'
 sku: 'B07RS84LHJ-fr'
 tags: [  ]

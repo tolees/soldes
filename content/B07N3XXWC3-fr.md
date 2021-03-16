@@ -5,7 +5,7 @@ date: 2020-10-12 19:45:00
 image: 'https://m.media-amazon.com/images/I/31CCVQnWc8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N3XXWC3-fr Audio Technica ATH-ANC500BTBK Bluetooth Wireless Active...'
 sku: 'B07N3XXWC3-fr'
 tags: [  ]

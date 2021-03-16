@@ -5,7 +5,7 @@ date: 2020-08-28 23:38:10
 image: 'https://m.media-amazon.com/images/I/51xJsme0fbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NB6SQD-fr FirstE Enceinte Bluetooth Portable sans Fil Enceintes...'
 sku: 'B089NB6SQD-fr'
 tags: [  ]

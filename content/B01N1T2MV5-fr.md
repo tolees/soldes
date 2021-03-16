@@ -5,7 +5,7 @@ date: 2020-05-22 22:04:49
 image: 'https://m.media-amazon.com/images/I/41pSL6IyVrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1T2MV5-fr Casque Bluetooth sans Fil avec ANC - August EP750 - Casque...'
 sku: 'B01N1T2MV5-fr'
 tags: [  ]

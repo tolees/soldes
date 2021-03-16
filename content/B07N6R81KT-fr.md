@@ -5,7 +5,7 @@ date: 2020-05-22 20:39:11
 image: 'https://m.media-amazon.com/images/I/31c1d0ajIfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N6R81KT-fr Love Moschino Scarpadonna Cassetta Chaussures de...'
 sku: 'B07N6R81KT-fr'
 tags: [  ]

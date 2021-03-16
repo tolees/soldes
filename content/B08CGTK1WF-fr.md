@@ -5,7 +5,7 @@ date: 2020-08-24 22:28:05
 image: 'https://m.media-amazon.com/images/I/51nFx7qSheL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CGTK1WF-fr NIUDINNG Meches Body Wave Lot 3 Tissage Bresilienne Ondule...'
 sku: 'B08CGTK1WF-fr'
 tags: [  ]

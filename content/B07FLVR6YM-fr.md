@@ -5,7 +5,7 @@ date: 2020-05-22 22:53:30
 image: 'https://m.media-amazon.com/images/I/41lRLY4-99L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FLVR6YM-fr RoWrite Royole Smart Digital Véritable Papier Notepad...'
 sku: 'B07FLVR6YM-fr'
 tags: [  ]

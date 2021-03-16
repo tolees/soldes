@@ -5,7 +5,7 @@ date: 2020-08-30 09:02:30
 image: 'https://m.media-amazon.com/images/I/51LbkIX0TFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086RLCNRT-fr CubicFun Puzzle 3D Harry Potter La Grande Salle du château...'
 sku: 'B086RLCNRT-fr'
 tags: [  ]

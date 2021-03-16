@@ -5,7 +5,7 @@ date: 2020-08-29 17:09:22
 image: 'https://m.media-amazon.com/images/I/51LtCwQc1TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004SGJSF0-fr Puma - Suede Classic+ - Baskets mode - Mixte Adulte -...'
 sku: 'B004SGJSF0-fr'
 tags: [  ]

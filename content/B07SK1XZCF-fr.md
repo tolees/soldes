@@ -5,7 +5,7 @@ date: 2020-05-25 12:52:05
 image: 'https://m.media-amazon.com/images/I/51irhAK21eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK1XZCF-fr GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème...'
 sku: 'B07SK1XZCF-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 00:10:26
 image: 'https://m.media-amazon.com/images/I/41P+wLirkcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WVLPT4I-fr Fissler Vitavit Edition Design / Autocuiseur En Acier...'
 sku: 'B00WVLPT4I-fr'
 tags: [  ]

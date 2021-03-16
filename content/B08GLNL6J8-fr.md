@@ -5,7 +5,7 @@ date: 2020-09-25 08:19:37
 image: 'https://m.media-amazon.com/images/I/51PIVGdk7hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLNL6J8-fr UniqueMe [2 pièces Protection écran pour Xiaomi Mi Note 10...'
 sku: 'B08GLNL6J8-fr'
 tags: [  ]

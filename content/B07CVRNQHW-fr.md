@@ -5,7 +5,7 @@ date: 2020-05-28 21:18:20
 image: 'https://m.media-amazon.com/images/I/41BsWQBPmaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVRNQHW-fr Columbia Homme BottesCasual Imperméable CAMDEN OUTDRY...'
 sku: 'B07CVRNQHW-fr'
 tags: [  ]

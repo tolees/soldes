@@ -5,7 +5,7 @@ date: 2020-09-12 15:02:58
 image: 'https://m.media-amazon.com/images/I/21Od1qglIjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y8QWZDW-fr Souris de jeu sans fil Razer Basilisk X Hyperspeed souris...'
 sku: 'B07Y8QWZDW-fr'
 tags: [  ]

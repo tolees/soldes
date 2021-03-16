@@ -5,7 +5,7 @@ date: 2020-05-22 22:05:13
 image: 'https://m.media-amazon.com/images/I/51xLsxfKB5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DP3STGG-fr AutoStyle IA 78040 Ressorts d abaissement pour'
 sku: 'B00DP3STGG-fr'
 tags: [  ]

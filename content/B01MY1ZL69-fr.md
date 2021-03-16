@@ -5,7 +5,7 @@ date: 2020-09-30 09:18:58
 image: 'https://m.media-amazon.com/images/I/51QdSx8wMBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MY1ZL69-fr Schmidt Spiele - 56495 - Dinos Coffret de Puzzles 2x60...'
 sku: 'B01MY1ZL69-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 21:12:06
 image: 'https://m.media-amazon.com/images/I/51wYy0xQYqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DHYJ7V6-fr Dujardin Jeux - Burger Quiz'
 sku: 'B07DHYJ7V6-fr'
 tags: [  ]

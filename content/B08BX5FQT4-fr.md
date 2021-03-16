@@ -5,7 +5,7 @@ date: 2020-07-16 21:55:00
 image: 'https://m.media-amazon.com/images/I/515XLfWof7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BX5FQT4-fr eXtremeRate D-Pad Triggers R1 L1 R2 L2 Touchpad Action...'
 sku: 'B08BX5FQT4-fr'
 tags: [  ]

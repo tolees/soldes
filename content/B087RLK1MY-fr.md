@@ -5,7 +5,7 @@ date: 2020-08-07 06:13:04
 image: 'https://m.media-amazon.com/images/I/41iE-F8alpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087RLK1MY-fr Ecouteurs Bluetooth 5.0 Écouteur sans Fil avec Anti-Bruit...'
 sku: 'B087RLK1MY-fr'
 tags: [  ]

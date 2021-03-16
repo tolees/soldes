@@ -5,7 +5,7 @@ date: 2020-10-09 07:44:05
 image: 'https://m.media-amazon.com/images/I/31k6Lk9AmuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I96MDR0-fr Calor FV9960C0 Fer à Repasser Vapeur Sans Fil Freemove...'
 sku: 'B00I96MDR0-fr'
 tags: [  ]

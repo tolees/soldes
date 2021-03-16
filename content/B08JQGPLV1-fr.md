@@ -5,7 +5,7 @@ date: 2020-09-30 03:33:30
 image: 'https://m.media-amazon.com/images/I/41s+xdz5ScL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JQGPLV1-fr eXtremeRate Coques Avant et Grips Poignée Boîtier Housse...'
 sku: 'B08JQGPLV1-fr'
 tags: [  ]

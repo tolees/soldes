@@ -5,7 +5,7 @@ date: 2020-09-27 03:14:50
 image: 'https://m.media-amazon.com/images/I/41TyAnymDjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MU3CCPL-fr Kärcher 6.295-941.0 Nettoyant pour sols en bois 500ml pour...'
 sku: 'B01MU3CCPL-fr'
 tags: [  ]

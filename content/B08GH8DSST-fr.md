@@ -5,7 +5,7 @@ date: 2020-09-23 01:37:30
 image: 'https://m.media-amazon.com/images/I/51OxEXyD0yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GH8DSST-fr ARRYNN Coque pour Xiaomi Redmi Note 9 + Film Protection...'
 sku: 'B08GH8DSST-fr'
 tags: [  ]

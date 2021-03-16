@@ -5,7 +5,7 @@ date: 2020-08-23 06:51:49
 image: 'https://m.media-amazon.com/images/I/41jClwm1XxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081NNSQGQ-fr Garcinia cambogia + L-Carnitine + Thé vert. Brûleur de...'
 sku: 'B081NNSQGQ-fr'
 tags: [  ]

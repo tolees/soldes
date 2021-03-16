@@ -5,7 +5,7 @@ date: 2020-10-02 21:31:46
 image: 'https://m.media-amazon.com/images/I/51ykW2Wx75L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089Y5R2ZB-fr SAWAKE Mandoline Cuisine Multifonctions 6 en 1 Trancheuse...'
 sku: 'B089Y5R2ZB-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 21:18:21
 image: 'https://m.media-amazon.com/images/I/51SLDqyXMaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009RJURDK-fr Cat Footwear Colorado Bottes Homme Beige Honey 42 EU'
 sku: 'B009RJURDK-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-13 16:25:53
 image: 'https://m.media-amazon.com/images/I/51v4-+-RJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NX4XKL8-fr BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2...'
 sku: 'B07NX4XKL8-fr'
 tags: [  ]

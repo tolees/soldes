@@ -5,7 +5,7 @@ date: 2020-10-12 07:37:11
 image: 'https://m.media-amazon.com/images/I/51hO0D2o59L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q64NYKP-fr Everyone Stares - The Police Inside Out [Blu-ray]'
 sku: 'B07Q64NYKP-fr'
 tags: [  ]

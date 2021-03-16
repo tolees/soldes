@@ -5,7 +5,7 @@ date: 2020-09-13 06:51:34
 image: 'https://m.media-amazon.com/images/I/31E-AhqiteL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089MD9LCB-fr Meller - Bio Banna Minor Olive - Lunettes de Soleil pour...'
 sku: 'B089MD9LCB-fr'
 tags: [  ]

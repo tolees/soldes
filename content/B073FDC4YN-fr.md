@@ -5,7 +5,7 @@ date: 2020-08-05 18:28:03
 image: 'https://m.media-amazon.com/images/I/51p7xkW2UPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073FDC4YN-fr Ponceuse à Bande 75 mm Ryobi 18V Oneplus sans Batterie Ni...'
 sku: 'B073FDC4YN-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 11:43:23
 image: 'https://m.media-amazon.com/images/I/31sQHTj8CIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DWOXU44-fr Pure Jongo T2 Enceinte Portable Bluetooth Piano'
 sku: 'B00DWOXU44-fr'
 tags: [  ]

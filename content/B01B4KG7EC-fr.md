@@ -5,7 +5,7 @@ date: 2020-09-29 12:04:11
 image: 'https://m.media-amazon.com/images/I/41o+PTo+VoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01B4KG7EC-fr Antitaches bois composite - WoodGuard Bois Composite - 5L'
 sku: 'B01B4KG7EC-fr'
 tags: [  ]

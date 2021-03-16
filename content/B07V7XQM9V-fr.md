@@ -5,7 +5,7 @@ date: 2020-08-19 20:44:44
 image: 'https://m.media-amazon.com/images/I/41Rbbmbm68L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V7XQM9V-fr Tommy Hilfiger Essential Nautical Sneaker Sneakers Basses...'
 sku: 'B07V7XQM9V-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 20:03:01
 image: 'https://m.media-amazon.com/images/I/31VMejNxPjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AXLVNU6-fr Philips BHD004/10 Sèche-cheveux 1800W ThermoProtect Touche...'
 sku: 'B01AXLVNU6-fr'
 tags: [  ]

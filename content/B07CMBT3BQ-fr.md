@@ -5,7 +5,7 @@ date: 2020-05-22 22:07:25
 image: 'https://m.media-amazon.com/images/I/41aV8cd7ikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CMBT3BQ-fr YAMAHA RX-V585 – Amplificateur Home Cinema 145W – Système...'
 sku: 'B07CMBT3BQ-fr'
 tags: [  ]

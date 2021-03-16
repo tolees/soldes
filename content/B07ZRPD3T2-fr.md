@@ -5,7 +5,7 @@ date: 2020-09-17 07:09:32
 image: 'https://m.media-amazon.com/images/I/31Nl3U2FTOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZRPD3T2-fr Aspirateur Balai sans Fil sans Sac Aspirateur à Main...'
 sku: 'B07ZRPD3T2-fr'
 tags: [  ]

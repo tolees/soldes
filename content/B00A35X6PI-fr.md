@@ -5,7 +5,7 @@ date: 2020-05-22 22:06:42
 image: 'https://m.media-amazon.com/images/I/51FDyBrykSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A35X6PI-fr Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma'
 sku: 'B00A35X6PI-fr'
 tags: [  ]

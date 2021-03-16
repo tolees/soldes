@@ -5,7 +5,7 @@ date: 2020-10-01 10:16:54
 image: 'https://m.media-amazon.com/images/I/41F1B8m6ReL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XLUA5GU-fr Bosch Professional 06015A1002 12V System Scie Sauteuse...'
 sku: 'B00XLUA5GU-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 19:43:29
 image: 'https://m.media-amazon.com/images/I/51zhj34O8EL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0831GFCHZ-fr Montre Connectée Homme Montre Intelligente Sport Moniteur...'
 sku: 'B0831GFCHZ-fr'
 tags: [  ]

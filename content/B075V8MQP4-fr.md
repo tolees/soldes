@@ -5,7 +5,7 @@ date: 2020-08-06 13:27:55
 image: 'https://m.media-amazon.com/images/I/31z5E654sSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075V8MQP4-fr IQE-Storage TB-M6 Trolley de transport rembourrage en...'
 sku: 'B075V8MQP4-fr'
 tags: [  ]

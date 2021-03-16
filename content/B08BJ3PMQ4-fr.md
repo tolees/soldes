@@ -5,7 +5,7 @@ date: 2020-08-29 09:03:21
 image: 'https://m.media-amazon.com/images/I/41bnbzbj+lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BJ3PMQ4-fr Smartphone Portable CUBOT. P40 Ecran 6 2 Pouces 4 Go RAM...'
 sku: 'B08BJ3PMQ4-fr'
 tags: [  ]

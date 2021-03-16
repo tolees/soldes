@@ -5,7 +5,7 @@ date: 2020-07-13 03:02:02
 image: 'https://m.media-amazon.com/images/I/41OUYIzMG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFCG84J-fr Elyco Grips cahoutchoutés Kit e-Sport avec Grips Mousses...'
 sku: 'B08BFCG84J-fr'
 tags: [  ]

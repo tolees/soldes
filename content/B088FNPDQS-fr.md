@@ -5,7 +5,7 @@ date: 2020-07-13 09:39:41
 image: 'https://m.media-amazon.com/images/I/41BqMvfcOxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088FNPDQS-fr ELYCO Verre Trempé pour Xiaomi Redmi Note 9 [2 Pièces] 9H...'
 sku: 'B088FNPDQS-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 03:14:11
 image: 'https://m.media-amazon.com/images/I/51HPnmLJLXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004KZLA8M-fr Puressentiel - Respiratoire - Huiles Essentielles pour...'
 sku: 'B004KZLA8M-fr'
 tags: [  ]

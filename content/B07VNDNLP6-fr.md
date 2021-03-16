@@ -5,7 +5,7 @@ date: 2020-07-24 18:30:47
 image: 'https://m.media-amazon.com/images/I/51rAwbtbPxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNDNLP6-fr LA BELLEFÉE Coffret Bougies Parfumées Les Quatre Saisons...'
 sku: 'B07VNDNLP6-fr'
 tags: [  ]

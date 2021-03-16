@@ -5,7 +5,7 @@ date: 2020-09-25 11:03:57
 image: 'https://m.media-amazon.com/images/I/31p9fYUYNEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007WQJPYW-fr Samsonite S Cure - Spinner M Valise 69 cm 79 L Crimson...'
 sku: 'B007WQJPYW-fr'
 tags: [  ]

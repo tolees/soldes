@@ -5,7 +5,7 @@ date: 2020-09-27 10:41:43
 image: 'https://m.media-amazon.com/images/I/4163O6ukQCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W8QXLCK-fr Bose Portable Smart Speaker - avec Contrôle Vocal Alexa...'
 sku: 'B07W8QXLCK-fr'
 tags: [  ]

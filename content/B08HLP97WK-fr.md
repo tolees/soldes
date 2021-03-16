@@ -5,7 +5,7 @@ date: 2020-09-15 03:20:28
 image: 'https://m.media-amazon.com/images/I/41CXZ1wgCeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HLP97WK-fr Dittzz Tank Militaire Jouet Char Jeu de Construction 508...'
 sku: 'B08HLP97WK-fr'
 tags: [  ]

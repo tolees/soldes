@@ -5,7 +5,7 @@ date: 2020-06-11 09:32:05
 image: 'https://m.media-amazon.com/images/I/51E1KT9i4jL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DD3RDWT-fr Pinypon Action- Famosa Lot de 5 Figurines 700014490...'
 sku: 'B07DD3RDWT-fr'
 tags: [  ]

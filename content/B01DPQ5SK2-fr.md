@@ -5,7 +5,7 @@ date: 2020-05-22 20:47:26
 image: 'https://m.media-amazon.com/images/I/51D6bPtZnaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01DPQ5SK2-fr Bionaire - BSF002 - ventilateur de bureau - modèle à...'
 sku: 'B01DPQ5SK2-fr'
 tags: [  ]

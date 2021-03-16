@@ -5,7 +5,7 @@ date: 2020-09-21 16:26:26
 image: 'https://m.media-amazon.com/images/I/41pQifMFUfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QNPF7R1-fr Anesty- Affleureuse Défonceuse R0700 Trimmer Router 710 W...'
 sku: 'B07QNPF7R1-fr'
 tags: [  ]

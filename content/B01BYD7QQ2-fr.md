@@ -5,7 +5,7 @@ date: 2020-05-22 22:48:17
 image: 'https://m.media-amazon.com/images/I/41Inw11DCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BYD7QQ2-fr Oral-B Genius Brosse À Dents Électrique Par Braun'
 sku: 'B01BYD7QQ2-fr'
 tags: [  ]

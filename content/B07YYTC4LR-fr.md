@@ -5,7 +5,7 @@ date: 2020-08-10 16:54:44
 image: 'https://m.media-amazon.com/images/I/412lOlFtazL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYTC4LR-fr Silvian Heach Dress Bohebe Robe Multicolore Fant.Uniq...'
 sku: 'B07YYTC4LR-fr'
 tags: [  ]

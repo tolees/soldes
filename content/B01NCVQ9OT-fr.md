@@ -5,7 +5,7 @@ date: 2020-08-12 13:27:28
 image: 'https://m.media-amazon.com/images/I/51ckXk0DiTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NCVQ9OT-fr El Naturalista S.A N097 Soft Grain Yggdrasil Bottes...'
 sku: 'B01NCVQ9OT-fr'
 tags: [  ]

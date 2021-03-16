@@ -5,7 +5,7 @@ date: 2020-10-12 04:15:53
 image: 'https://m.media-amazon.com/images/I/31WW2Qj0XiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00K1VXDRK-fr Montre Femme - Calvin Klein K4U23126'
 sku: 'B00K1VXDRK-fr'
 tags: [  ]

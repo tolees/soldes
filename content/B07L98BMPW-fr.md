@@ -5,7 +5,7 @@ date: 2020-09-19 15:28:18
 image: 'https://m.media-amazon.com/images/I/41RPyizGDjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L98BMPW-fr Under Armour Armour Insulated Hooded Veste Homme Noir FR :...'
 sku: 'B07L98BMPW-fr'
 tags: [  ]

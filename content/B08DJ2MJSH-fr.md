@@ -5,7 +5,7 @@ date: 2020-08-19 11:36:41
 image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ2MJSH-fr Disque Dur Externe 2to Type C USB3.1 pour PC Mac...'
 sku: 'B08DJ2MJSH-fr'
 tags: [  ]

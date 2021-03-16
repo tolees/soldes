@@ -5,7 +5,7 @@ date: 2020-08-10 07:27:36
 image: 'https://m.media-amazon.com/images/I/41-CRorhvgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KQQBLXG-fr Diesel ODERZO Sac à dos Homme Noir Black 5x22x18 cm W x H x L'
 sku: 'B07KQQBLXG-fr'
 tags: [  ]

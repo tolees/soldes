@@ -5,7 +5,7 @@ date: 2020-10-08 19:55:03
 image: 'https://m.media-amazon.com/images/I/51u-JdNopxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TKXBRF0-fr Klein - 9459 - Jeu d imitation - Cuisine en bois avec...'
 sku: 'B00TKXBRF0-fr'
 tags: [  ]

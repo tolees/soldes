@@ -5,7 +5,7 @@ date: 2020-08-25 16:59:16
 image: 'https://m.media-amazon.com/images/I/515TszzLZVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXT1WHR-fr LK Coque pour Xiaomi Redmi 9 [Antidérapant] Souple...'
 sku: 'B08CXT1WHR-fr'
 tags: [  ]

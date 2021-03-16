@@ -5,7 +5,7 @@ date: 2020-05-27 07:44:06
 image: 'https://m.media-amazon.com/images/I/41R7Loo0rNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M216RUP-fr Bosch Electroménager MUC22B42FR Multicuiseur 900 W Anthracite'
 sku: 'B01M216RUP-fr'
 tags: [  ]

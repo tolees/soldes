@@ -5,7 +5,7 @@ date: 2020-08-09 17:50:15
 image: 'https://m.media-amazon.com/images/I/41l6-XzJmOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZZ9ZFZ-fr Tommy Jeans Femma Nora Mr Skinny Ankle Zip Rnl Straight...'
 sku: 'B07VZZ9ZFZ-fr'
 tags: [  ]

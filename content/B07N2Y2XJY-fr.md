@@ -5,7 +5,7 @@ date: 2020-05-23 00:06:41
 image: 'https://m.media-amazon.com/images/I/41GXHMWBXwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N2Y2XJY-fr Orient Horloge FAC0000CA0'
 sku: 'B07N2Y2XJY-fr'
 tags: [  ]

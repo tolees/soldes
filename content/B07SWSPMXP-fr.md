@@ -5,7 +5,7 @@ date: 2020-08-08 09:27:47
 image: 'https://m.media-amazon.com/images/I/31-52ithbRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWSPMXP-fr Replay Anbass Jean Slim Bleu Dark Blue 7 W27/L30 Taille...'
 sku: 'B07SWSPMXP-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-04 06:18:11
 image: 'https://m.media-amazon.com/images/I/41dSOsgwqnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078WQJXND-fr Samsung SSD Interne 860 PRO 256 Go - MZ-76P256B/EU'
 sku: 'B078WQJXND-fr'
 tags: [  ]

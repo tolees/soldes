@@ -5,7 +5,7 @@ date: 2020-05-23 00:13:45
 image: 'https://m.media-amazon.com/images/I/41DV0KU9qDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078G8XZS9-fr Grohe 34712000 Pack Encastré Mécanique 3 Sorties...'
 sku: 'B078G8XZS9-fr'
 tags: [  ]

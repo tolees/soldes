@@ -5,7 +5,7 @@ date: 2020-09-22 15:59:02
 image: 'https://m.media-amazon.com/images/I/31Pmd4bbUnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVNWPM2-fr ROCCAT Kain 102 AIMO Souris Gaming RGB capteur Pro-Optic...'
 sku: 'B07SVNWPM2-fr'
 tags: [  ]

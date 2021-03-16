@@ -5,7 +5,7 @@ date: 2020-10-04 05:27:21
 image: 'https://m.media-amazon.com/images/I/41KGgRqhbNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XFBLNMT-fr Seb Clipsominut Easy Cocotte-Minute 6 L Induction + Livre...'
 sku: 'B06XFBLNMT-fr'
 tags: [  ]

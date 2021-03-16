@@ -5,7 +5,7 @@ date: 2020-08-13 21:43:52
 image: 'https://m.media-amazon.com/images/I/41MM3xAvOUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081P4L1HT-fr Nike PSG M NK BRT STAD JSY SS 4R T-Shirt Homme Black/...'
 sku: 'B081P4L1HT-fr'
 tags: [  ]

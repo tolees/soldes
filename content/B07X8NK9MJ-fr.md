@@ -5,7 +5,7 @@ date: 2020-06-12 01:26:01
 image: 'https://m.media-amazon.com/images/I/31+B+6SbIOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X8NK9MJ-fr Microsoft Surface Laptop 3 – PC Ultra-Portable écran 15...'
 sku: 'B07X8NK9MJ-fr'
 tags: [  ]

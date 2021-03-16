@@ -5,7 +5,7 @@ date: 2020-09-29 16:43:21
 image: 'https://m.media-amazon.com/images/I/41PEW63px-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0897C8XBZ-fr BOSCH - TAS6503 Tassimo My Way 2 - Cafetière à capsule -...'
 sku: 'B0897C8XBZ-fr'
 tags: [  ]

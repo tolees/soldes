@@ -5,7 +5,7 @@ date: 2020-08-24 06:13:25
 image: 'https://m.media-amazon.com/images/I/41O28R1J6JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y1QWFBV-fr Levoit Purificateur d Air H13 Hepa Véritable 3 Étapes de...'
 sku: 'B07Y1QWFBV-fr'
 tags: [  ]

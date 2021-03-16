@@ -5,7 +5,7 @@ date: 2020-08-27 06:27:17
 image: 'https://m.media-amazon.com/images/I/51dqG3Auy0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3NQC2L-fr Origin Stories-Man of Steel + Wonder Woman + Aquaman +...'
 sku: 'B07T3NQC2L-fr'
 tags: [  ]

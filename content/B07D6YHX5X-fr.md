@@ -5,7 +5,7 @@ date: 2020-10-02 02:54:12
 image: 'https://m.media-amazon.com/images/I/31M12UbdUrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D6YHX5X-fr PUMA ESS Logo Hoody TR Sweat-Shirts Femme Cotton Black M'
 sku: 'B07D6YHX5X-fr'
 tags: [  ]

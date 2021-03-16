@@ -5,7 +5,7 @@ date: 2020-08-20 04:50:35
 image: 'https://m.media-amazon.com/images/I/41jFXjmBZ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC4LG3K-fr eXtremeRate LB RB LT RT Bumpers Triggers D-Pad ABXY Start...'
 sku: 'B08FC4LG3K-fr'
 tags: [  ]

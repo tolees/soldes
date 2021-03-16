@@ -5,7 +5,7 @@ date: 2020-10-10 06:26:49
 image: 'https://m.media-amazon.com/images/I/51d0xsanm7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UT9FOJE-fr Better Call Saul-Saison 1 [Blu-Ray + Copie Digitale]'
 sku: 'B00UT9FOJE-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 17:58:50
 image: 'https://m.media-amazon.com/images/I/51b3bAoKP6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008V8OUJK-fr GATOR Cases G-Tour pour pedalboard 17" x 11"'
 sku: 'B008V8OUJK-fr'
 tags: [  ]

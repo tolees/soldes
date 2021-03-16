@@ -5,7 +5,7 @@ date: 2020-05-22 21:20:31
 image: 'https://m.media-amazon.com/images/I/41QtrSXZrJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078NGCJ3N-fr Merrell Thermo Freeze Mid WP Chaussures de Randonnée...'
 sku: 'B078NGCJ3N-fr'
 tags: [  ]

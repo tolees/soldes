@@ -5,7 +5,7 @@ date: 2020-10-05 19:20:12
 image: 'https://m.media-amazon.com/images/I/517bTyEBVkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01KLXFBFE-fr Remington Fer à lisser Lisseur Glide Céramique Glisse...'
 sku: 'B01KLXFBFE-fr'
 tags: [  ]

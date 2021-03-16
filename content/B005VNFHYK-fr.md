@@ -5,7 +5,7 @@ date: 2020-09-16 19:15:20
 image: 'https://m.media-amazon.com/images/I/31-98vNOyuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005VNFHYK-fr Thule 962100 Barres de Toit WingBar 962 en Aluminium-...'
 sku: 'B005VNFHYK-fr'
 tags: [  ]

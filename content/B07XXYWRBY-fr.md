@@ -5,7 +5,7 @@ date: 2020-09-29 08:31:46
 image: 'https://m.media-amazon.com/images/I/51W8Ys3i-oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XXYWRBY-fr 3 Barils Fer à Boucler Fer à Onduler Professionnelle...'
 sku: 'B07XXYWRBY-fr'
 tags: [  ]

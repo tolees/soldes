@@ -5,7 +5,7 @@ date: 2020-08-13 00:12:40
 image: 'https://m.media-amazon.com/images/I/514dIphPsvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07D13B7YW-fr Romanticist 28Pcs Kit d accessoires pour Barbecue à...'
 sku: 'B07D13B7YW-fr'
 tags: [  ]

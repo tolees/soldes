@@ -5,7 +5,7 @@ date: 2020-05-23 00:04:03
 image: 'https://m.media-amazon.com/images/I/31ovNhfnEPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003XFXK7Y-fr Lacoste - L1312 - Polo - Homme - Rouge Bordeaux - Large...'
 sku: 'B003XFXK7Y-fr'
 tags: [  ]

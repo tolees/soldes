@@ -5,7 +5,7 @@ date: 2020-05-30 08:35:08
 image: 'https://m.media-amazon.com/images/I/41hjBm7JZML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KM5S1NG-fr EZVIZ CTQ3W Caméra Surveillance WiFi Extérieure Caméra...'
 sku: 'B07KM5S1NG-fr'
 tags: [  ]

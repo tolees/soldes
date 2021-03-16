@@ -5,7 +5,7 @@ date: 2020-05-22 21:11:03
 image: 'https://m.media-amazon.com/images/I/41Vtqe7Yf2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FTWZ531-fr Philips BT5205/85 Tondeuse barbe Series 5000 avec guide de...'
 sku: 'B07FTWZ531-fr'
 tags: [  ]

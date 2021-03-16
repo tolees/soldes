@@ -5,7 +5,7 @@ date: 2020-09-22 15:59:04
 image: 'https://m.media-amazon.com/images/I/31ZsMvzNlPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQJ34H7-fr Roccat Kain 202 Aimo Wireless Souris Gaming RGB Nouveau...'
 sku: 'B07YQJ34H7-fr'
 tags: [  ]

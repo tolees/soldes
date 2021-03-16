@@ -5,7 +5,7 @@ date: 2020-08-10 16:54:17
 image: 'https://m.media-amazon.com/images/I/31Dz-Sz177L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01H76WLWO-fr 7 for all mankind MID RISE ROXANNE Jeans Femme Bleu Bair...'
 sku: 'B01H76WLWO-fr'
 tags: [  ]

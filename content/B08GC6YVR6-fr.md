@@ -5,7 +5,7 @@ date: 2020-09-16 03:15:09
 image: 'https://m.media-amazon.com/images/I/41LpbuO3nKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GC6YVR6-fr Récepteur Bluetooth 5.0 Adaptateur USB Bluetooth Dongle...'
 sku: 'B08GC6YVR6-fr'
 tags: [  ]

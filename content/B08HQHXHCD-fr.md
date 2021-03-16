@@ -5,7 +5,7 @@ date: 2020-10-03 15:35:58
 image: 'https://m.media-amazon.com/images/I/412ygKAO48L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HQHXHCD-fr Micro Casque Gaming PS4 sans Fil REDSTORM Wireless 2.4G...'
 sku: 'B08HQHXHCD-fr'
 tags: [  ]

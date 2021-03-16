@@ -5,7 +5,7 @@ date: 2020-05-29 16:21:02
 image: 'https://m.media-amazon.com/images/I/31UerK8YAjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9BCCCL-fr ROYAL SLEEP Matelas viscoélastique 140x190 fermeté Moyenne...'
 sku: 'B07L9BCCCL-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-09 12:20:06
 image: 'https://m.media-amazon.com/images/I/51liBIvB+dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019WCXL1Q-fr Pampers Premium Protection Taille 4 168 Couches 9kg-14kg'
 sku: 'B019WCXL1Q-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 22:23:11
 image: 'https://m.media-amazon.com/images/I/31r1WLpJwJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077VP7JWB-fr BaByliss Paris - C1500E - Boucleur automatique Curl Secret...'
 sku: 'B077VP7JWB-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 18:35:35
 image: 'https://m.media-amazon.com/images/I/41Gz7gYWa5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003UWXFM0-fr TP-Link TL-SG1024D Switch 24 Ports Gigabit Bureau/Rackable...'
 sku: 'B003UWXFM0-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 20:54:45
 image: 'https://m.media-amazon.com/images/I/41OZHnuOzIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VNPK48N-fr Ocean Digital Radio Internet Stéréo WiFi/Dab/FM WR280S...'
 sku: 'B07VNPK48N-fr'
 tags: [  ]

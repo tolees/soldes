@@ -5,7 +5,7 @@ date: 2020-06-11 16:07:10
 image: 'https://m.media-amazon.com/images/I/410X-i29sJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01I1SB9E8-fr B.K. Licht réglette LED orientable platine LED 8 5W...'
 sku: 'B01I1SB9E8-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 06:15:10
 image: 'https://m.media-amazon.com/images/I/41GCKHeRhsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FFQGSMM-fr Fossil Homme Bracelet JF02934040'
 sku: 'B07FFQGSMM-fr'
 tags: [  ]

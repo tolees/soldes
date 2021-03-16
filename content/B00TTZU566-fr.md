@@ -5,7 +5,7 @@ date: 2020-05-22 20:25:43
 image: 'https://m.media-amazon.com/images/I/41xpByH-TyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00TTZU566-fr Visseuse sans fil Bosch - IXO V Edition Classique Livrée...'
 sku: 'B00TTZU566-fr'
 tags: [  ]

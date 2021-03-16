@@ -5,7 +5,7 @@ date: 2020-08-29 06:14:09
 image: 'https://m.media-amazon.com/images/I/51mOE84ERqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KTVF52Q-fr LEGO®-DUPLO® Disney™ La maison de vacances de Mickey Fille...'
 sku: 'B07KTVF52Q-fr'
 tags: [  ]

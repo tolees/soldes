@@ -5,7 +5,7 @@ date: 2020-05-22 21:06:34
 image: 'https://m.media-amazon.com/images/I/41unf3QqDWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IAQ3L20-fr Sony MDR-HW700DS Casque TV sans fil avec son Numérique...'
 sku: 'B00IAQ3L20-fr'
 tags: [  ]

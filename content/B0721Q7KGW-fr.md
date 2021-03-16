@@ -5,7 +5,7 @@ date: 2020-08-04 06:37:08
 image: 'https://m.media-amazon.com/images/I/51c-XbyBw6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0721Q7KGW-fr ATMOKO Masseur à Epaule et Cou avec Shiatsu 8 Nœuds...'
 sku: 'B0721Q7KGW-fr'
 tags: [  ]

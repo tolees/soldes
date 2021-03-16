@@ -5,7 +5,7 @@ date: 2020-05-25 11:19:37
 image: 'https://m.media-amazon.com/images/I/51QM0nvza+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00PQB4PH2-fr Safavieh Tapis Intérieur et Extérieur Tissé Polypropylène...'
 sku: 'B00PQB4PH2-fr'
 tags: [  ]

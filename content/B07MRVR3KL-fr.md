@@ -5,7 +5,7 @@ date: 2020-06-11 11:32:53
 image: 'https://m.media-amazon.com/images/I/31aqUhN92tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MRVR3KL-fr Microsoft Surface Laptop 2 13.5" tactile Core i5 RAM 8 Go...'
 sku: 'B07MRVR3KL-fr'
 tags: [  ]

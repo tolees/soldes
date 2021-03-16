@@ -5,7 +5,7 @@ date: 2020-05-22 21:26:01
 image: 'https://m.media-amazon.com/images/I/31GeKzySh1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTOIHY-fr G-Star Bronson Slim Chino Pantalon Bleu Mazarine Blue...'
 sku: 'B01BGTOIHY-fr'
 tags: [  ]

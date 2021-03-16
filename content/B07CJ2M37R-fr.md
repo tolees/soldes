@@ -5,7 +5,7 @@ date: 2020-08-06 09:04:22
 image: 'https://m.media-amazon.com/images/I/41vUwGN+P7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CJ2M37R-fr El Naturalista Rice Field Bottes Classiques Femme Marron...'
 sku: 'B07CJ2M37R-fr'
 tags: [  ]

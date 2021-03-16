@@ -5,7 +5,7 @@ date: 2020-09-16 16:38:34
 image: 'https://m.media-amazon.com/images/I/311fAag3EiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W1ZNVR1-fr Rowenta Ultimate Experience Sèche-cheveux Moteur Digital...'
 sku: 'B07W1ZNVR1-fr'
 tags: [  ]

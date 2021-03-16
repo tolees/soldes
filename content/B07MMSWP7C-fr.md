@@ -5,7 +5,7 @@ date: 2020-08-21 07:43:19
 image: 'https://m.media-amazon.com/images/I/41xsfHTF6sL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MMSWP7C-fr Philips GC7933/30 Centrale Vapeur PerfectCare Compact Plus...'
 sku: 'B07MMSWP7C-fr'
 tags: [  ]

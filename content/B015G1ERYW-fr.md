@@ -5,7 +5,7 @@ date: 2020-05-22 20:47:18
 image: 'https://m.media-amazon.com/images/I/31qCIOc0moL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015G1ERYW-fr DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil...'
 sku: 'B015G1ERYW-fr'
 tags: [  ]

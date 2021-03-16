@@ -5,7 +5,7 @@ date: 2020-08-05 09:43:59
 image: 'https://m.media-amazon.com/images/I/51RL2A0f6CL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E4R4RF4-fr Piquadro Sac à dos loisir Marron - CA2943OS'
 sku: 'B00E4R4RF4-fr'
 tags: [  ]

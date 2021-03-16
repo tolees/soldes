@@ -5,7 +5,7 @@ date: 2020-05-22 20:55:53
 image: 'https://m.media-amazon.com/images/I/510+m4oz9tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015HK3TG4-fr SweetLisS - Lisseur Libellule - Fer à lisser et à boucler...'
 sku: 'B015HK3TG4-fr'
 tags: [  ]

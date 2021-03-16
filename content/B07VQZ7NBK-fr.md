@@ -5,7 +5,7 @@ date: 2020-08-24 23:57:13
 image: 'https://m.media-amazon.com/images/I/41KAskyhegL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VQZ7NBK-fr Selonis Piscine À Balles 90X30cm/200 Balles Ronde en...'
 sku: 'B07VQZ7NBK-fr'
 tags: [  ]

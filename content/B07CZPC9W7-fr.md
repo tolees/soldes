@@ -5,7 +5,7 @@ date: 2020-09-20 20:03:57
 image: 'https://m.media-amazon.com/images/I/412fQ-8SSSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZPC9W7-fr Peaktop - Fontaine d eau de jardinière de décor de jardin...'
 sku: 'B07CZPC9W7-fr'
 tags: [  ]

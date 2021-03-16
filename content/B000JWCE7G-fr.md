@@ -5,7 +5,7 @@ date: 2020-08-04 11:39:37
 image: 'https://m.media-amazon.com/images/I/41xInfj3MmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JWCE7G-fr Online USV Kit de rails pour armoire'
 sku: 'B000JWCE7G-fr'
 tags: [  ]

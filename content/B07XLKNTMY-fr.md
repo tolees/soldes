@@ -5,7 +5,7 @@ date: 2020-08-24 23:37:48
 image: 'https://m.media-amazon.com/images/I/61fdJ4rKymL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLKNTMY-fr SAIAOBO Mandoline Coupe-Légumes 13 en 1 Trancheur de...'
 sku: 'B07XLKNTMY-fr'
 tags: [  ]

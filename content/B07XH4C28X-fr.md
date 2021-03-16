@@ -5,7 +5,7 @@ date: 2020-10-09 18:37:02
 image: 'https://m.media-amazon.com/images/I/41eG9Lgu+GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XH4C28X-fr POP! Marvel: Black Widow – Taskmaster w/ Shield'
 sku: 'B07XH4C28X-fr'
 tags: [  ]

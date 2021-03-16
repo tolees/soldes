@@ -5,7 +5,7 @@ date: 2020-10-05 19:19:16
 image: 'https://m.media-amazon.com/images/I/313oXXPzDuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076VPYT36-fr Tenda système WiFi mesh Bi-bande gigabit MW6 3-Pack pour...'
 sku: 'B076VPYT36-fr'
 tags: [  ]

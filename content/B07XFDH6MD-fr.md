@@ -5,7 +5,7 @@ date: 2020-10-09 07:56:27
 image: 'https://m.media-amazon.com/images/I/41wUtK7kVbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFDH6MD-fr Huawei Watch GT 2 Montre Connectée GPS Boîtier 46 mm Écran...'
 sku: 'B07XFDH6MD-fr'
 tags: [  ]

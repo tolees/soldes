@@ -5,7 +5,7 @@ date: 2020-08-07 14:27:39
 image: 'https://m.media-amazon.com/images/I/31Hp9wiM1eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PGQFZSP-fr Chie Mihara Ventura Escarpins Salomé Femmes Noir Ante...'
 sku: 'B07PGQFZSP-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-06 20:22:02
 image: 'https://m.media-amazon.com/images/I/41XJFyxs-WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NQD9X44-fr Disney Pixar Toy Story Buzz et son Vaisseau Spatial 53 cm...'
 sku: 'B07NQD9X44-fr'
 tags: [  ]

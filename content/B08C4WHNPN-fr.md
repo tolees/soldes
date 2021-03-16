@@ -5,7 +5,7 @@ date: 2020-08-16 00:50:34
 image: 'https://m.media-amazon.com/images/I/51kgcvxkfEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C4WHNPN-fr LK Verre Trempé pour Xiaomi Redmi Note 9 Pro Protection...'
 sku: 'B08C4WHNPN-fr'
 tags: [  ]

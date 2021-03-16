@@ -5,7 +5,7 @@ date: 2020-08-07 14:04:25
 image: 'https://m.media-amazon.com/images/I/51rVO1045KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081ZZSZT4-fr Vidéoprojecteur WiMiUS 7000 Lumens Vidéoprojecteur Full HD...'
 sku: 'B081ZZSZT4-fr'
 tags: [  ]

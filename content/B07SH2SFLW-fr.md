@@ -5,7 +5,7 @@ date: 2020-08-10 00:40:05
 image: 'https://m.media-amazon.com/images/I/41qCVk9l+pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SH2SFLW-fr Honeycomb Aeronautical Alpha Flight Controls Yoke & Switch...'
 sku: 'B07SH2SFLW-fr'
 tags: [  ]

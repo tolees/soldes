@@ -5,7 +5,7 @@ date: 2020-09-14 12:27:09
 image: 'https://m.media-amazon.com/images/I/31XvinC-IYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CJNYZKW-fr Purflux L358A filtre à huile'
 sku: 'B00CJNYZKW-fr'
 tags: [  ]

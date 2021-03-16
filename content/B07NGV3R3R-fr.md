@@ -5,7 +5,7 @@ date: 2020-05-22 23:45:39
 image: 'https://m.media-amazon.com/images/I/41xLUGBUBDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGV3R3R-fr Derhy DAGADGET Parka Bleu Marine 300 40 Taille Fabricant:M...'
 sku: 'B07NGV3R3R-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 10:47:46
 image: 'https://m.media-amazon.com/images/I/41ad9sJnNeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ28JBW-fr Disque Dur Externe 2to Disque Dur Externe USB3.0-2.5’’...'
 sku: 'B08DJ28JBW-fr'
 tags: [  ]

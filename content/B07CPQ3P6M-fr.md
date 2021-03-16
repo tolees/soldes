@@ -5,7 +5,7 @@ date: 2020-08-13 06:11:03
 image: 'https://m.media-amazon.com/images/I/51xZx7+NOkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CPQ3P6M-fr HappyPicnic Panier Pique-Nique en Osier pour 4 4 kit...'
 sku: 'B07CPQ3P6M-fr'
 tags: [  ]

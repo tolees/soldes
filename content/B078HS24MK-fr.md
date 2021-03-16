@@ -5,7 +5,7 @@ date: 2020-05-23 00:17:40
 image: 'https://m.media-amazon.com/images/I/41AsRKfcACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078HS24MK-fr Braun Silk-épil 9 9/990 SkinSpa SensoSmart Épilateur...'
 sku: 'B078HS24MK-fr'
 tags: [  ]

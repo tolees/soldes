@@ -5,7 +5,7 @@ date: 2020-08-28 05:26:27
 image: 'https://m.media-amazon.com/images/I/41TfK3QHzuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VI3MK4M-fr Smartphone Xiaomi Redmi Note 8T 6.3 - 4 GB - 64 GB - Blue'
 sku: 'B00VI3MK4M-fr'
 tags: [  ]

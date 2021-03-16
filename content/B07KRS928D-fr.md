@@ -5,7 +5,7 @@ date: 2020-05-22 21:49:14
 image: 'https://m.media-amazon.com/images/I/41RFRq7Gw8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRS928D-fr Art 1330 Memphis Güell Sandales Bout Ouvert Femme Marron...'
 sku: 'B07KRS928D-fr'
 tags: [  ]

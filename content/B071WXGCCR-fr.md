@@ -5,7 +5,7 @@ date: 2020-10-02 13:06:59
 image: 'https://m.media-amazon.com/images/I/51jQdyh6i-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071WXGCCR-fr L Echelle de Jacob [Blu-Ray]'
 sku: 'B071WXGCCR-fr'
 tags: [  ]

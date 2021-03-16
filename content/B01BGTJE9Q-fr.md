@@ -5,7 +5,7 @@ date: 2020-05-22 21:09:39
 image: 'https://m.media-amazon.com/images/I/41klPAs3fmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTJE9Q-fr G-Star 3301 Straight Tapered Jeans Bleu lt aged 7607-424...'
 sku: 'B01BGTJE9Q-fr'
 tags: [  ]

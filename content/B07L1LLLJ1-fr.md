@@ -5,7 +5,7 @@ date: 2020-08-10 18:56:36
 image: 'https://m.media-amazon.com/images/I/31F-71ernsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L1LLLJ1-fr Spyder 193028 - Veste de ski - Femme - Rose Berry -...'
 sku: 'B07L1LLLJ1-fr'
 tags: [  ]

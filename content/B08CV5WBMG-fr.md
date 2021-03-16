@@ -5,7 +5,7 @@ date: 2020-09-27 14:45:19
 image: 'https://m.media-amazon.com/images/I/31pufE4n3vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CV5WBMG-fr Yizhet Dongle USB Bluetooth Adaptateur Mini clé USB...'
 sku: 'B08CV5WBMG-fr'
 tags: [  ]

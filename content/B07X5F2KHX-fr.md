@@ -5,7 +5,7 @@ date: 2020-05-31 11:29:28
 image: 'https://m.media-amazon.com/images/I/41AdAMm+JoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X5F2KHX-fr Moulinex Multicuiseur Intelligent Cookeo+ 6L 6 Modes de...'
 sku: 'B07X5F2KHX-fr'
 tags: [  ]

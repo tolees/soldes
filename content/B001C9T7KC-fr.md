@@ -5,7 +5,7 @@ date: 2020-09-12 10:18:13
 image: 'https://m.media-amazon.com/images/I/31Lwc--0h4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001C9T7KC-fr Hazet 1952-28 Massette en Plastique longueur 269 mm'
 sku: 'B001C9T7KC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 08:26:17
 image: 'https://m.media-amazon.com/images/I/31ze0R6-a1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KP6YGC-fr Sophie la Girafe- tuyaux Folies 523425'
 sku: 'B075KP6YGC-fr'
 tags: [  ]

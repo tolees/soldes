@@ -5,7 +5,7 @@ date: 2020-08-11 19:28:13
 image: 'https://m.media-amazon.com/images/I/415RnGjkW-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6XBPL6-fr Eider BROCKWELL JKT W Veste Femme Purple Wild FR : L...'
 sku: 'B07L6XBPL6-fr'
 tags: [  ]

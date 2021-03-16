@@ -5,7 +5,7 @@ date: 2020-09-24 09:49:48
 image: 'https://m.media-amazon.com/images/I/417KDkLy0WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S8Y7YMV-fr Petzl E095BA00 Lampe Frontale Swift RL Noir 7.8 W'
 sku: 'B07S8Y7YMV-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 05:45:38
 image: 'https://m.media-amazon.com/images/I/41LS-tNSI7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829SPGNC-fr Mafiti Tablette d écriture LCD 8.5 Pouces d écriture...'
 sku: 'B0829SPGNC-fr'
 tags: [  ]

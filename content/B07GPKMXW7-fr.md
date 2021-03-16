@@ -5,7 +5,7 @@ date: 2020-08-10 13:07:22
 image: 'https://m.media-amazon.com/images/I/41Diyto8yXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GPKMXW7-fr Pierre Cardin Fieldjacket Airtouch Mit UV-Protect Blouson...'
 sku: 'B07GPKMXW7-fr'
 tags: [  ]

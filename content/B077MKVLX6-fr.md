@@ -5,7 +5,7 @@ date: 2020-06-10 10:38:11
 image: 'https://m.media-amazon.com/images/I/417Hszw2UbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MKVLX6-fr PUMA Viz Runner Chaussures de Running Compétition Homme...'
 sku: 'B077MKVLX6-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-16 09:13:25
 image: 'https://m.media-amazon.com/images/I/51BNFF2h27L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDTVK5B-fr Projecteur Ciel Etoile Lampe Projecteur Télécommande...'
 sku: 'B08CDTVK5B-fr'
 tags: [  ]

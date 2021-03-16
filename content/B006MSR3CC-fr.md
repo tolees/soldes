@@ -5,7 +5,7 @@ date: 2020-09-16 09:23:48
 image: 'https://m.media-amazon.com/images/I/51SYsWog62L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006MSR3CC-fr Facom - RLNANO1PB 32005 - Coffret douilles 1/4 6 pans...'
 sku: 'B006MSR3CC-fr'
 tags: [  ]

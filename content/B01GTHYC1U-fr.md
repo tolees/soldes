@@ -5,7 +5,7 @@ date: 2020-05-22 21:37:47
 image: 'https://m.media-amazon.com/images/I/41NmVMzBtDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GTHYC1U-fr OH MY BAG Sac porté épaule Cuir porté épaule et main...'
 sku: 'B01GTHYC1U-fr'
 tags: [  ]

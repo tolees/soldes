@@ -5,7 +5,7 @@ date: 2020-06-05 01:33:04
 image: 'https://m.media-amazon.com/images/I/41ComlYxLeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSZ11BY-fr Lenovo ThinkPad Helix Gen 2 11.6 pouces Full HD...'
 sku: 'B07CSZ11BY-fr'
 tags: [  ]

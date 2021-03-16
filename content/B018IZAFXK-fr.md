@@ -5,7 +5,7 @@ date: 2020-10-12 08:21:57
 image: 'https://m.media-amazon.com/images/I/51AirsPacwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B018IZAFXK-fr Ferplast Relax C 89/10 Coussin pour Chien en Coton Motif...'
 sku: 'B018IZAFXK-fr'
 tags: [  ]

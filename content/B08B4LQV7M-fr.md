@@ -5,7 +5,7 @@ date: 2020-07-16 16:15:44
 image: 'https://m.media-amazon.com/images/I/51okF8mW4UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B4LQV7M-fr Adaptateur pour Nintendo Switch Timoom 2 en 1 Bluetooth...'
 sku: 'B08B4LQV7M-fr'
 tags: [  ]

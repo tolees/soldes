@@ -5,7 +5,7 @@ date: 2020-05-22 22:34:15
 image: 'https://m.media-amazon.com/images/I/31iuqzY6GoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078SY9CWC-fr Timberland Gateway Pier Casual Chaussures Oxford Homme...'
 sku: 'B078SY9CWC-fr'
 tags: [  ]

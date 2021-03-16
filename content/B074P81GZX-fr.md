@@ -5,7 +5,7 @@ date: 2020-08-10 15:20:11
 image: 'https://m.media-amazon.com/images/I/31tWOLSDh9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074P81GZX-fr Victoire Champagne Fut de Chene Mill 2010 Edition Laquee...'
 sku: 'B074P81GZX-fr'
 tags: [  ]

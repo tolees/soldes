@@ -5,7 +5,7 @@ date: 2020-09-18 07:11:18
 image: 'https://m.media-amazon.com/images/I/41MP8GMO6QL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076SSB24J-fr Flexson Supports Muraux pour Sonos One One SL et Play:1 -...'
 sku: 'B076SSB24J-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 21:16:26
 image: 'https://m.media-amazon.com/images/I/51y+pCQhkVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085DBYQNB-fr Perceuse Visseuse Sans Fil Avec 105Pcs Accessoires 2...'
 sku: 'B085DBYQNB-fr'
 tags: [  ]

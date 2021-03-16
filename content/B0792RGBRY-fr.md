@@ -5,7 +5,7 @@ date: 2020-08-27 14:16:52
 image: 'https://m.media-amazon.com/images/I/51BzgecVIRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0792RGBRY-fr LEGO Harry Potter - L évasion de Grindelwald - 75951 - Jeu...'
 sku: 'B0792RGBRY-fr'
 tags: [  ]

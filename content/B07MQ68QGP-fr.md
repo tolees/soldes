@@ -5,7 +5,7 @@ date: 2020-09-15 18:18:19
 image: 'https://m.media-amazon.com/images/I/315W1VZPneL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MQ68QGP-fr CASIO CDP-S100BK'
 sku: 'B07MQ68QGP-fr'
 tags: [  ]

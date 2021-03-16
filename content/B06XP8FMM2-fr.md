@@ -5,7 +5,7 @@ date: 2020-07-21 23:56:35
 image: 'https://m.media-amazon.com/images/I/51eN9xA3KWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XP8FMM2-fr Keten Tournevis triwing pour Nintendo Kit Professionnel...'
 sku: 'B06XP8FMM2-fr'
 tags: [  ]

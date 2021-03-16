@@ -5,7 +5,7 @@ date: 2020-09-15 03:34:19
 image: 'https://m.media-amazon.com/images/I/31vGJVXPCYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GBVP3J3-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
 sku: 'B08GBVP3J3-fr'
 tags: [  ]

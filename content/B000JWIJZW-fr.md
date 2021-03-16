@@ -5,7 +5,7 @@ date: 2020-09-23 21:15:36
 image: 'https://m.media-amazon.com/images/I/51i4F+m-SxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000JWIJZW-fr Simm Jouets 50410 – Standard GS Moteur pour remplacer'
 sku: 'B000JWIJZW-fr'
 tags: [  ]

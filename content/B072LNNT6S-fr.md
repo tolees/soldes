@@ -5,7 +5,7 @@ date: 2020-10-02 13:07:01
 image: 'https://m.media-amazon.com/images/I/31GY0wpxs4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072LNNT6S-fr Crocs Specialist Ii Clog Sabots Mixte Adulte Bleu Navy...'
 sku: 'B072LNNT6S-fr'
 tags: [  ]

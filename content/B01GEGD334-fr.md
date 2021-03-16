@@ -5,7 +5,7 @@ date: 2020-09-11 08:02:41
 image: 'https://m.media-amazon.com/images/I/61K78n+LByL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GEGD334-fr Paco Home Tapis De Créateur Décorations Modernes Motif...'
 sku: 'B01GEGD334-fr'
 tags: [  ]

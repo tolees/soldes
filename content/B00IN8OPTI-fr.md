@@ -5,7 +5,7 @@ date: 2020-05-22 22:00:33
 image: 'https://m.media-amazon.com/images/I/31OqDZDpB7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IN8OPTI-fr Dsquared2 D Squared Brillengestelle DQ5122 071-55-16-140...'
 sku: 'B00IN8OPTI-fr'
 tags: [  ]

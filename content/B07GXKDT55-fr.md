@@ -5,7 +5,7 @@ date: 2020-08-23 10:22:49
 image: 'https://m.media-amazon.com/images/I/41mSY0jv-FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GXKDT55-fr Razer Nari Essential – Casque Gamer Sans Fil Bluetooth...'
 sku: 'B07GXKDT55-fr'
 tags: [  ]

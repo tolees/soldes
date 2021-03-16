@@ -5,7 +5,7 @@ date: 2020-08-04 17:48:05
 image: 'https://m.media-amazon.com/images/I/31G2epqqjZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1Z8C3J-fr Vera Mont VM 0029/4825 Robe de soirée Rose Cozy Pink 4443...'
 sku: 'B07N1Z8C3J-fr'
 tags: [  ]

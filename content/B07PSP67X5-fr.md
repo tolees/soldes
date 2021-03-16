@@ -5,7 +5,7 @@ date: 2020-09-27 14:58:30
 image: 'https://m.media-amazon.com/images/I/51F0D-9OTsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PSP67X5-fr Bakugan Starter Pack Set Assortment Assort 6045144 Multicolor'
 sku: 'B07PSP67X5-fr'
 tags: [  ]

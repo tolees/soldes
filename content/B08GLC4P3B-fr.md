@@ -5,7 +5,7 @@ date: 2020-09-16 15:53:49
 image: 'https://m.media-amazon.com/images/I/41e++9OBNcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GLC4P3B-fr Disque Dur Externe 2to USB 3.0 Disque Dur Externe pour PC...'
 sku: 'B08GLC4P3B-fr'
 tags: [  ]

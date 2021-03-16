@@ -5,7 +5,7 @@ date: 2020-05-22 22:03:41
 image: 'https://m.media-amazon.com/images/I/31egG1H8ADL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MXWFYP9-fr Liebeskind Berlin Round Love Note - Hobo LargefemmeSacs...'
 sku: 'B07MXWFYP9-fr'
 tags: [  ]

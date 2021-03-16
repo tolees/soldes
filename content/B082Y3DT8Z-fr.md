@@ -5,7 +5,7 @@ date: 2020-08-27 06:05:23
 image: 'https://m.media-amazon.com/images/I/41GhT-lzuUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082Y3DT8Z-fr Zigma Spark Robot Aspirateur Aspirateur Robot Laveur avec...'
 sku: 'B082Y3DT8Z-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-03 03:08:41
 image: 'https://m.media-amazon.com/images/I/41tZt2f1e1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H8BPMTH-fr Galaxy S9 Film Protection Ecran Verre Trempé [2 Pièces]...'
 sku: 'B08H8BPMTH-fr'
 tags: [  ]

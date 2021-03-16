@@ -5,7 +5,7 @@ date: 2020-05-25 07:20:35
 image: 'https://m.media-amazon.com/images/I/41hi8v4ebYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P5GJQRJ-fr Guess Vikky Cabas femme Argenté Pewter 15x27x32 5 cm W x H L'
 sku: 'B07P5GJQRJ-fr'
 tags: [  ]

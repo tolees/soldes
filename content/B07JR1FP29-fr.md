@@ -5,7 +5,7 @@ date: 2020-09-19 12:27:58
 image: 'https://m.media-amazon.com/images/I/31jwTXAh6bL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JR1FP29-fr Be Cool Thunder Isofix Siège Auto Groupe 1/2/3 de 9 à 36...'
 sku: 'B07JR1FP29-fr'
 tags: [  ]

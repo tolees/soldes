@@ -5,7 +5,7 @@ date: 2020-09-13 16:16:01
 image: 'https://m.media-amazon.com/images/I/41OW4LB74eL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VZJ2KXY-fr Little Live Pets Kissing Rollie LP000 Multicolore'
 sku: 'B07VZJ2KXY-fr'
 tags: [  ]

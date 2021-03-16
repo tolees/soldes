@@ -5,7 +5,7 @@ date: 2020-09-25 13:59:47
 image: 'https://m.media-amazon.com/images/I/41VOvtR9FqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q5GHHGW-fr Nappe carrée"Jerusalem Lumière" Orange – Made in France -...'
 sku: 'B07Q5GHHGW-fr'
 tags: [  ]

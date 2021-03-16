@@ -5,7 +5,7 @@ date: 2020-10-01 06:27:19
 image: 'https://m.media-amazon.com/images/I/51kb9mBp5LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07VPCSBF4-fr LIVAN - L0809 - Valise Cabine à 4 Roues 360° -...'
 sku: 'B07VPCSBF4-fr'
 tags: [  ]

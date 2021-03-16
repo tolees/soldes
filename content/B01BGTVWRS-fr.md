@@ -5,7 +5,7 @@ date: 2020-05-22 21:37:04
 image: 'https://m.media-amazon.com/images/I/41HU+hE0i3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BGTVWRS-fr G-Star Rovic Zip 3D Straight Tapered Pantalon Beige Dune...'
 sku: 'B01BGTVWRS-fr'
 tags: [  ]

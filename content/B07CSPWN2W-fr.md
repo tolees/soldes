@@ -5,7 +5,7 @@ date: 2020-09-09 01:48:31
 image: 'https://m.media-amazon.com/images/I/41A038i2PYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CSPWN2W-fr TOMALL 4 pcs unique tête Tire Valve Stem Core Remover...'
 sku: 'B07CSPWN2W-fr'
 tags: [  ]

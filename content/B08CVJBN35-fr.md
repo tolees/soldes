@@ -5,7 +5,7 @@ date: 2020-08-18 05:23:21
 image: 'https://m.media-amazon.com/images/I/21gBg770oXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVJBN35-fr Disque Dur Externe 2to Disque Dur Externe USB3.1/Type C...'
 sku: 'B08CVJBN35-fr'
 tags: [  ]

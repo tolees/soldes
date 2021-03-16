@@ -5,7 +5,7 @@ date: 2020-05-22 20:51:42
 image: 'https://m.media-amazon.com/images/I/317In8o7wHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N7TZ4FF-fr BOSS Glaze Lowp mewt Sneakers Basses Homme Noir Black 001...'
 sku: 'B07N7TZ4FF-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-23 16:17:54
 image: 'https://m.media-amazon.com/images/I/41jqwyaKnJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006XBSXHW-fr DeWALT DCD785N-XJ Perceuse sans fil 18 V'
 sku: 'B006XBSXHW-fr'
 tags: [  ]

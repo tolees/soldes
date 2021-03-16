@@ -5,7 +5,7 @@ date: 2020-05-22 21:45:07
 image: 'https://m.media-amazon.com/images/I/41fw65-8tpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00P738MUU-fr Samsung SSD 850 EVO 1 To - SSD Interne SATA III 2.5" -...'
 sku: 'B00P738MUU-fr'
 tags: [  ]

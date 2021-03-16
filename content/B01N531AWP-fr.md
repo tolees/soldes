@@ -5,7 +5,7 @@ date: 2020-08-05 00:01:12
 image: 'https://m.media-amazon.com/images/I/419q0dwXTbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N531AWP-fr Fleximounts A04 Support Mural TV Ultra Pivotant et...'
 sku: 'B01N531AWP-fr'
 tags: [  ]

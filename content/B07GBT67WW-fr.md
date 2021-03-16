@@ -5,7 +5,7 @@ date: 2020-08-06 08:43:44
 image: 'https://m.media-amazon.com/images/I/4133zVHJHRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GBT67WW-fr Pulsar Horloge PG8283X1'
 sku: 'B07GBT67WW-fr'
 tags: [  ]

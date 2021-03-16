@@ -5,7 +5,7 @@ date: 2020-09-21 15:23:42
 image: 'https://m.media-amazon.com/images/I/416TgAEj+UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GA2ABU0-fr KLIM Voice Microphone à Pied USB pour Ordinateur - Micro...'
 sku: 'B01GA2ABU0-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 23:21:36
 image: 'https://m.media-amazon.com/images/I/41qh3dhytKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JQD6BNC-fr Dé géant aux changements de couleurs - Tora'
 sku: 'B00JQD6BNC-fr'
 tags: [  ]

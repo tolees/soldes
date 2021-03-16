@@ -5,7 +5,7 @@ date: 2020-09-28 14:52:17
 image: 'https://m.media-amazon.com/images/I/51cUESeDU2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B14J4CB-fr LEGO Unikitty - La fête - 41453 - Jeu de construction'
 sku: 'B07B14J4CB-fr'
 tags: [  ]

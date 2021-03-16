@@ -5,7 +5,7 @@ date: 2020-08-09 12:01:09
 image: 'https://m.media-amazon.com/images/I/41MlNWJal-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ND83D6D-fr Replay Grover Jean Droit Medium Blue 9 W30/L36 Taille...'
 sku: 'B07ND83D6D-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-26 22:59:19
 image: 'https://m.media-amazon.com/images/I/31S+MbvlriL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00L5FBYVI-fr Philips Ampoule LED Standard Dépolie Culot E27 6 W Watts...'
 sku: 'B00L5FBYVI-fr'
 tags: [  ]

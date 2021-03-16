@@ -5,7 +5,7 @@ date: 2020-08-12 18:17:21
 image: 'https://m.media-amazon.com/images/I/51CtuEyN2FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZP5Q73F-fr Rolimate Jeu de pêche Magnétique en Bois 4 en 1 Jeux...'
 sku: 'B07ZP5Q73F-fr'
 tags: [  ]

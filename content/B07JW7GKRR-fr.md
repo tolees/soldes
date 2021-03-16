@@ -5,7 +5,7 @@ date: 2020-05-23 00:14:14
 image: 'https://m.media-amazon.com/images/I/4117HCJ0lZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JW7GKRR-fr Sunflair Pure Ocean Maillot Une pièce Multicolore Blau 26...'
 sku: 'B07JW7GKRR-fr'
 tags: [  ]

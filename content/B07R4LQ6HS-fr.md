@@ -5,7 +5,7 @@ date: 2020-07-16 05:27:41
 image: 'https://m.media-amazon.com/images/I/51va0BHbMmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R4LQ6HS-fr HEYSTOP Étui pour Nintendo Switch 11 en 1 Étui de...'
 sku: 'B07R4LQ6HS-fr'
 tags: [  ]

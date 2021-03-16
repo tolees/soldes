@@ -5,7 +5,7 @@ date: 2020-10-10 07:13:30
 image: 'https://m.media-amazon.com/images/I/41Yo7DXnidL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CTTHRR7-fr Baby on board 103210 018 Sac à Langer Week End Team Smoke...'
 sku: 'B07CTTHRR7-fr'
 tags: [  ]

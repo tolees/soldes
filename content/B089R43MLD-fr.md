@@ -5,7 +5,7 @@ date: 2020-08-15 00:28:24
 image: 'https://m.media-amazon.com/images/I/51xXQp81nbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089R43MLD-fr Colmanda Console de Jeu Console de Jeu Retro FC 3 Pouces...'
 sku: 'B089R43MLD-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-21 05:01:27
 image: 'https://m.media-amazon.com/images/I/51RKebfJsOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0865XHW5M-fr MMCRRX M.2 NVMe SSD Ultra adpater Karte Pcie 3.0 X4 GEN3 M...'
 sku: 'B0865XHW5M-fr'
 tags: [  ]

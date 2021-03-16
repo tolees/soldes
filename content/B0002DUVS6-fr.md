@@ -5,7 +5,7 @@ date: 2020-09-24 09:50:22
 image: 'https://m.media-amazon.com/images/I/31l2IxFqNZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0002DUVS6-fr Rode RM2 Pince pour Microphone Classic/NTK/K2/série NT Noir'
 sku: 'B0002DUVS6-fr'
 tags: [  ]

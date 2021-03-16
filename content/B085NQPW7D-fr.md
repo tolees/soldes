@@ -5,7 +5,7 @@ date: 2020-08-18 13:43:25
 image: 'https://m.media-amazon.com/images/I/31LoxleKolL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085NQPW7D-fr Original Dovpo Odin 200W Mod alimenté par une double...'
 sku: 'B085NQPW7D-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-27 04:08:57
 image: 'https://m.media-amazon.com/images/I/31qpTANUULL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9B5QMT-fr Superdry ORANGE Label Vintage EMB Tee T-Shirt pour Homme...'
 sku: 'B07F9B5QMT-fr'
 tags: [  ]

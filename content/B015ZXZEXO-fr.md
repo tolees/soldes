@@ -5,7 +5,7 @@ date: 2020-05-22 22:33:45
 image: 'https://m.media-amazon.com/images/I/41bEsxmF8+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015ZXZEXO-fr SteelSeries Siberia 650- Casque Gaming- Son Surround Dolby...'
 sku: 'B015ZXZEXO-fr'
 tags: [  ]

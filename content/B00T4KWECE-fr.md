@@ -5,7 +5,7 @@ date: 2020-08-05 15:03:26
 image: 'https://m.media-amazon.com/images/I/41YLNz2-NaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00T4KWECE-fr HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne...'
 sku: 'B00T4KWECE-fr'
 tags: [  ]

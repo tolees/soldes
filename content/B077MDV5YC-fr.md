@@ -5,7 +5,7 @@ date: 2020-09-13 18:56:48
 image: 'https://m.media-amazon.com/images/I/31dO0ctYzyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B077MDV5YC-fr Puma Smash Wns V2 L Baskets Basses Femme Noir Puma Black-...'
 sku: 'B077MDV5YC-fr'
 tags: [  ]

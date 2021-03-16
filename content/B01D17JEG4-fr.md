@@ -5,7 +5,7 @@ date: 2020-10-10 06:27:42
 image: 'https://m.media-amazon.com/images/I/412UF2aiGpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D17JEG4-fr Samsonite Paradiver Light - 15.6 Pouces Sac à Dos pour...'
 sku: 'B01D17JEG4-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-27 20:51:03
 image: 'https://m.media-amazon.com/images/I/51Q+3UqroIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZM9MX9-fr GOAMZ Ustensiles de Cuisine 9 pcs Ustensiles de Cuisine en...'
 sku: 'B07GZM9MX9-fr'
 tags: [  ]

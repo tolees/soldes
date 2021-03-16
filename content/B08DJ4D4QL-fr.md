@@ -5,7 +5,7 @@ date: 2020-09-29 14:40:35
 image: 'https://m.media-amazon.com/images/I/41ad9sJnNeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ4D4QL-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD pour PC...'
 sku: 'B08DJ4D4QL-fr'
 tags: [  ]

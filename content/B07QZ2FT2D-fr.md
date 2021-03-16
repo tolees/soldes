@@ -5,7 +5,7 @@ date: 2020-09-16 03:09:20
 image: 'https://m.media-amazon.com/images/I/51cYr8C25iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QZ2FT2D-fr VIEWTEK Micro:bit Mini Smart Robot Car V2.0 for Arduino No...'
 sku: 'B07QZ2FT2D-fr'
 tags: [  ]

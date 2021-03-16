@@ -5,7 +5,7 @@ date: 2020-10-09 18:31:43
 image: 'https://m.media-amazon.com/images/I/31eIlnJJ2BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I3LUUYO-fr Sony MDR-EX110APW Ecouteurs Intra-auriculaires avec...'
 sku: 'B00I3LUUYO-fr'
 tags: [  ]

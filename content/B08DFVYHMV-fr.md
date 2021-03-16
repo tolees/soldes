@@ -5,7 +5,7 @@ date: 2020-08-18 11:07:44
 image: 'https://m.media-amazon.com/images/I/516kfTJGRZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DFVYHMV-fr TV Box Android 10.0 2GB Ram 16GB ROM Allwinner H616 Quad-...'
 sku: 'B08DFVYHMV-fr'
 tags: [  ]

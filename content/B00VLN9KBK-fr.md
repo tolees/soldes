@@ -5,7 +5,7 @@ date: 2020-10-12 06:14:04
 image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VLN9KBK-fr Levi s GRAPHIC SET-IN NECK T-Shirt Homme Bleu C18977...'
 sku: 'B00VLN9KBK-fr'
 tags: [  ]

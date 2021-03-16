@@ -5,7 +5,7 @@ date: 2020-08-09 09:27:41
 image: 'https://m.media-amazon.com/images/I/416kuy24XEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X4HXRPS-fr Castaner Dosalia/3/ss20007 Espadrilles Femme Tostado 38 EU'
 sku: 'B07X4HXRPS-fr'
 tags: [  ]

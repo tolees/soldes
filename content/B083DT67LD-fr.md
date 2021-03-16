@@ -5,7 +5,7 @@ date: 2020-07-31 17:44:36
 image: 'https://m.media-amazon.com/images/I/51ILCKMMVDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083DT67LD-fr TV Box Android 10.0 QPLOVE Q8 TV Box 【4G+128G】 Android...'
 sku: 'B083DT67LD-fr'
 tags: [  ]

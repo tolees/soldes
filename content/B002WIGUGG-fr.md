@@ -5,7 +5,7 @@ date: 2020-09-30 05:38:54
 image: 'https://m.media-amazon.com/images/I/41cExes5lwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002WIGUGG-fr BIC Cristal Boîte en forme de stylo à bille avec 20 stylos...'
 sku: 'B002WIGUGG-fr'
 tags: [  ]

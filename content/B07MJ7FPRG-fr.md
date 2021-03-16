@@ -5,7 +5,7 @@ date: 2020-08-05 08:43:48
 image: 'https://m.media-amazon.com/images/I/41Gyw8b1LRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MJ7FPRG-fr Clarks Desert Boot Bottes Classiques pour Homme - Marron -...'
 sku: 'B07MJ7FPRG-fr'
 tags: [  ]

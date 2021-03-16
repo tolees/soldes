@@ -5,7 +5,7 @@ date: 2020-05-22 21:34:13
 image: 'https://m.media-amazon.com/images/I/415yTTZvSjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JGQMPJW-fr Lowepro Whistler BP 450 AW II Sac à dos 4 saisons ultra-...'
 sku: 'B07JGQMPJW-fr'
 tags: [  ]

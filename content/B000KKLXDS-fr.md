@@ -5,7 +5,7 @@ date: 2020-09-29 08:21:02
 image: 'https://m.media-amazon.com/images/I/41-jvdagtmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000KKLXDS-fr Eastpak The One Sac Bandoulière 21 cm 2.5 L Noir Black'
 sku: 'B000KKLXDS-fr'
 tags: [  ]

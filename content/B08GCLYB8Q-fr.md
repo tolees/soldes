@@ -5,7 +5,7 @@ date: 2020-09-19 16:27:48
 image: 'https://m.media-amazon.com/images/I/411ze3hhVjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GCLYB8Q-fr Ecouteur Bluetooth Casque Bluetooth sans Fil avec Micro...'
 sku: 'B08GCLYB8Q-fr'
 tags: [  ]

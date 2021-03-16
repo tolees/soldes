@@ -5,7 +5,7 @@ date: 2020-08-10 06:24:58
 image: 'https://m.media-amazon.com/images/I/41GUSNgTDVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X6JJ8Y4-fr Castaner Carina/8/ss20033 Espadrille Carina Femme Natural...'
 sku: 'B07X6JJ8Y4-fr'
 tags: [  ]

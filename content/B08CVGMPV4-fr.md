@@ -5,7 +5,7 @@ date: 2020-08-08 12:09:55
 image: 'https://m.media-amazon.com/images/I/31epwamfl1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVGMPV4-fr Disque Dur Externe Disque Dur Externe 1to USB3.0 pour Mac...'
 sku: 'B08CVGMPV4-fr'
 tags: [  ]

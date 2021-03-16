@@ -5,7 +5,7 @@ date: 2020-08-24 04:45:48
 image: 'https://m.media-amazon.com/images/I/31xyzfINx1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B087QDVPLV-fr ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6...'
 sku: 'B087QDVPLV-fr'
 tags: [  ]

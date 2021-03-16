@@ -5,7 +5,7 @@ date: 2020-05-22 19:56:43
 image: 'https://m.media-amazon.com/images/I/51CKhT1Zw2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9KB9V7-fr Chaussures Femmes Sport Trainers Confort Poids Léger Woven...'
 sku: 'B07F9KB9V7-fr'
 tags: [  ]

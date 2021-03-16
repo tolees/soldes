@@ -5,7 +5,7 @@ date: 2020-07-14 22:51:51
 image: 'https://m.media-amazon.com/images/I/412gY33Q4yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GSC9QSG-fr Famille Mini Classic Console- Précharge 621 Jeux vidéo TV...'
 sku: 'B07GSC9QSG-fr'
 tags: [  ]

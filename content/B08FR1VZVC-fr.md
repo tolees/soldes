@@ -5,7 +5,7 @@ date: 2020-10-12 06:28:13
 image: 'https://m.media-amazon.com/images/I/41DTTb5EgcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FR1VZVC-fr DEJIMAX 3200mAh Batterie S7 pour Samsung Galaxy S7 Haute...'
 sku: 'B08FR1VZVC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-06-11 14:06:02
 image: 'https://m.media-amazon.com/images/I/51UQpkDqn8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Z62ZFX4-fr Herefun Bocs de Construction en Bois Tour Empilables Jeu à...'
 sku: 'B07Z62ZFX4-fr'
 tags: [  ]

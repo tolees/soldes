@@ -5,7 +5,7 @@ date: 2020-10-01 06:27:33
 image: 'https://m.media-amazon.com/images/I/414x9dcNTfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MBDTBWW-fr L Oréal Men Expert - Bille Anti-Cernes & Anti-Poches pour...'
 sku: 'B00MBDTBWW-fr'
 tags: [  ]

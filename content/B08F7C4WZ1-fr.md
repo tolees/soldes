@@ -5,7 +5,7 @@ date: 2020-08-19 11:43:22
 image: 'https://m.media-amazon.com/images/I/51b2Ef0NcUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F7C4WZ1-fr REDSTORM Casque Gaming pour PS4 Nintendo Switch Casque...'
 sku: 'B08F7C4WZ1-fr'
 tags: [  ]

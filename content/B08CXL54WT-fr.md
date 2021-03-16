@@ -5,7 +5,7 @@ date: 2020-08-01 17:45:19
 image: 'https://m.media-amazon.com/images/I/31w6bJ7sicL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXL54WT-fr Écouteur Bluetooth 5.0 Écouteur sans Fil avec réduction de...'
 sku: 'B08CXL54WT-fr'
 tags: [  ]

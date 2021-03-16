@@ -5,7 +5,7 @@ date: 2020-10-12 12:48:40
 image: 'https://m.media-amazon.com/images/I/31ofNXPBhRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MYQ4HJD-fr Logitech G203 Prodigy Souris Gamer Filaire 8000 PPP RVB...'
 sku: 'B01MYQ4HJD-fr'
 tags: [  ]

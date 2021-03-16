@@ -5,7 +5,7 @@ date: 2020-05-22 23:57:50
 image: 'https://m.media-amazon.com/images/I/516zEivcuNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GY4XH60-fr PKparis K 1 Clé USB 3.0 64 Go Blanc'
 sku: 'B00GY4XH60-fr'
 tags: [  ]

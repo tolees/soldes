@@ -5,7 +5,7 @@ date: 2020-08-09 17:52:45
 image: 'https://m.media-amazon.com/images/I/4130gmLFF3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LMCEW40-fr Mano Sets de bagages MPTSET3 Noir 56.0 liters'
 sku: 'B00LMCEW40-fr'
 tags: [  ]

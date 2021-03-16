@@ -5,7 +5,7 @@ date: 2020-08-08 09:27:32
 image: 'https://m.media-amazon.com/images/I/41+ouzqli8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06WLLYBWD-fr Montre Femme - Dreyfuss DLS00146/01'
 sku: 'B06WLLYBWD-fr'
 tags: [  ]

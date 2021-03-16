@@ -5,7 +5,7 @@ date: 2020-08-28 23:31:04
 image: 'https://m.media-amazon.com/images/I/41QD7-KX5oL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829DZH2W-fr Sabrent SSD Interne Rocket Q M.2 2280 NVMe PCIe Haute...'
 sku: 'B0829DZH2W-fr'
 tags: [  ]

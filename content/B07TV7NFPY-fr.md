@@ -5,7 +5,7 @@ date: 2020-08-15 00:29:35
 image: 'https://m.media-amazon.com/images/I/41RPpGL75lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV7NFPY-fr Levi s Graphic Tee Maillot Une pièce Noir Feminine Logo...'
 sku: 'B07TV7NFPY-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 11:07:00
 image: 'https://m.media-amazon.com/images/I/51tgvdUwM8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G1WKND9-fr VISSQH 20pcs micro interrupteur fin de course NO-NC...'
 sku: 'B08G1WKND9-fr'
 tags: [  ]

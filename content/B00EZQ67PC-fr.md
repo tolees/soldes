@@ -5,7 +5,7 @@ date: 2020-05-22 21:38:16
 image: 'https://m.media-amazon.com/images/I/411EmTns0fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00EZQ67PC-fr Geox D Mendi Stivali Bottes femme - Noir - Schwarz...'
 sku: 'B00EZQ67PC-fr'
 tags: [  ]

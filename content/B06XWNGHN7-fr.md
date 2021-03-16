@@ -5,7 +5,7 @@ date: 2020-10-02 13:08:37
 image: 'https://m.media-amazon.com/images/I/31uSg9DfbXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWNGHN7-fr Trio Leuchten 305100161 Jacob Suspension en métal pour 1...'
 sku: 'B06XWNGHN7-fr'
 tags: [  ]

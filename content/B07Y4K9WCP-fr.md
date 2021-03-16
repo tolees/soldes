@@ -5,7 +5,7 @@ date: 2021-03-16 02:28:09
 image: 'https://m.media-amazon.com/images/I/41FcXBQR9ML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Y4K9WCP-fr Dragon Ball Super-L intégrale-Épisodes 1-131'
 sku: 'B07Y4K9WCP-fr'
 tags: [  ]

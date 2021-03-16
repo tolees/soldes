@@ -5,7 +5,7 @@ date: 2020-08-07 15:27:40
 image: 'https://m.media-amazon.com/images/I/51jnr7kJUsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RCZ5SM4-fr Pieces Pccollina Leather Bag Sacs portés épaule femme...'
 sku: 'B07RCZ5SM4-fr'
 tags: [  ]

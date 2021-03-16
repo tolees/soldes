@@ -5,7 +5,7 @@ date: 2020-09-14 22:52:34
 image: 'https://m.media-amazon.com/images/I/31e8B4jjQwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ISWMSBQ-fr Fossil Femme Collier JF01146040'
 sku: 'B00ISWMSBQ-fr'
 tags: [  ]

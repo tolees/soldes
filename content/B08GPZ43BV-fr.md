@@ -5,7 +5,7 @@ date: 2020-09-29 08:28:42
 image: 'https://m.media-amazon.com/images/I/41bRdMUATvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GPZ43BV-fr BAITITON NVME 128GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD...'
 sku: 'B08GPZ43BV-fr'
 tags: [  ]

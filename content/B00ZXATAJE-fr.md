@@ -5,7 +5,7 @@ date: 2020-09-23 07:39:45
 image: 'https://m.media-amazon.com/images/I/31ZiBZTLFlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00ZXATAJE-fr Fisher-Price Bebo le Robot Interactif Jouet d Éveil avec 3...'
 sku: 'B00ZXATAJE-fr'
 tags: [  ]

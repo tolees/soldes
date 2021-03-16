@@ -5,7 +5,7 @@ date: 2020-10-07 19:00:00
 image: 'https://m.media-amazon.com/images/I/319r85I23uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083FGQ8NH-fr Lacoste BH1966 Veste Noir 44 Homme'
 sku: 'B083FGQ8NH-fr'
 tags: [  ]

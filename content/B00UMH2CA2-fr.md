@@ -5,7 +5,7 @@ date: 2020-05-22 22:43:03
 image: 'https://m.media-amazon.com/images/I/41-DKnenJyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UMH2CA2-fr DWE4237-QS - Mini-amoladora 125mm 1.400W'
 sku: 'B00UMH2CA2-fr'
 tags: [  ]

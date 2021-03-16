@@ -5,7 +5,7 @@ date: 2020-08-21 13:28:11
 image: 'https://m.media-amazon.com/images/I/315JEYBGrgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XXS14L8-fr FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte Noir'
 sku: 'B06XXS14L8-fr'
 tags: [  ]

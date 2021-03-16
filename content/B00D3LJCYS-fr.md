@@ -5,7 +5,7 @@ date: 2020-09-18 10:08:12
 image: 'https://m.media-amazon.com/images/I/51lqBLT4ocL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D3LJCYS-fr Samyang SAM24TSSONY Objectif 24 mm F3.5 pour Sony Noir'
 sku: 'B00D3LJCYS-fr'
 tags: [  ]

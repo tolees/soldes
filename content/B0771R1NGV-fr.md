@@ -5,7 +5,7 @@ date: 2020-05-28 20:31:48
 image: 'https://m.media-amazon.com/images/I/51t13ScxHBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0771R1NGV-fr Geemarc Telecom TÉLÉPHONE SANS FIL AVEC 10 MÉMOIRES PHOTOS...'
 sku: 'B0771R1NGV-fr'
 tags: [  ]

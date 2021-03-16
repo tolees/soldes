@@ -5,7 +5,7 @@ date: 2020-08-16 19:03:15
 image: 'https://m.media-amazon.com/images/I/41mWLUnRmKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XNMV56F-fr Garmin vívosmart 3 - Bracelet de Fitness avec Cardio...'
 sku: 'B06XNMV56F-fr'
 tags: [  ]

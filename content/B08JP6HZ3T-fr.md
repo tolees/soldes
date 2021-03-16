@@ -5,7 +5,7 @@ date: 2020-10-08 05:43:11
 image: 'https://m.media-amazon.com/images/I/41CWPWhuiOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JP6HZ3T-fr ActivHawks Correcteur De Posture Dos Épaules Avachies -...'
 sku: 'B08JP6HZ3T-fr'
 tags: [  ]

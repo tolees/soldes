@@ -5,7 +5,7 @@ date: 2020-08-06 15:27:17
 image: 'https://m.media-amazon.com/images/I/41nsHRSLfTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V8VJKZF-fr Love MoschinoJc4233pp0afemmeSacs bandoulièreNoir Black...'
 sku: 'B07V8VJKZF-fr'
 tags: [  ]

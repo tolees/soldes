@@ -5,7 +5,7 @@ date: 2020-10-02 06:06:07
 image: 'https://m.media-amazon.com/images/I/41hpNC7NdKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011REOTBI-fr Aigostar - Ampoules LED B5 T3 3U E27 Grosse Vis ， 9W...'
 sku: 'B011REOTBI-fr'
 tags: [  ]

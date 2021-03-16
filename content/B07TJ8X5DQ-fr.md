@@ -5,7 +5,7 @@ date: 2020-09-16 16:40:20
 image: 'https://m.media-amazon.com/images/I/41DET9saYaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ8X5DQ-fr FM London Fitted Boxer Shorty Multicolore Classic Mix 10...'
 sku: 'B07TJ8X5DQ-fr'
 tags: [  ]

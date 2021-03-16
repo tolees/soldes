@@ -5,7 +5,7 @@ date: 2020-09-14 03:29:48
 image: 'https://m.media-amazon.com/images/I/416L3voM5cL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QM8KW7C-fr CIVO Montre Femme Montre Bracelets de Etanche Analogique...'
 sku: 'B07QM8KW7C-fr'
 tags: [  ]

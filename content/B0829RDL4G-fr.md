@@ -5,7 +5,7 @@ date: 2020-07-23 06:16:52
 image: 'https://m.media-amazon.com/images/I/310BGaQGedL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0829RDL4G-fr PITAYA Adaptateur Bluetooth 5.0 Émetteur et Récepteur...'
 sku: 'B0829RDL4G-fr'
 tags: [  ]

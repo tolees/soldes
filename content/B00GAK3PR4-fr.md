@@ -5,7 +5,7 @@ date: 2020-08-07 14:27:24
 image: 'https://m.media-amazon.com/images/I/41HOFXZnQdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GAK3PR4-fr ELTEN 78671-43 Rigger Boot Chaussures de sécurité ESD S3...'
 sku: 'B00GAK3PR4-fr'
 tags: [  ]

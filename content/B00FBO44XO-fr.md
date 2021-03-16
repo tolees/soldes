@@ -5,7 +5,7 @@ date: 2020-09-13 05:51:57
 image: 'https://m.media-amazon.com/images/I/31ZAWs8QRdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00FBO44XO-fr L Oréal Paris Super Liner Matmatic Eye Liner Extra-Noir'
 sku: 'B00FBO44XO-fr'
 tags: [  ]

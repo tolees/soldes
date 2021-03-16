@@ -5,7 +5,7 @@ date: 2020-10-10 06:26:37
 image: 'https://m.media-amazon.com/images/I/51fwNy89aTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001ANXIGE-fr BIC Kids Decoralo Feutres de Coloriage à Pointe Extra...'
 sku: 'B001ANXIGE-fr'
 tags: [  ]

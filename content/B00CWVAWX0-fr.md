@@ -5,7 +5,7 @@ date: 2020-05-22 20:43:31
 image: 'https://m.media-amazon.com/images/I/31bBDxivFqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CWVAWX0-fr VAUDE Farley Stretch T-Zip Pantalon II Homme Black FR : M...'
 sku: 'B00CWVAWX0-fr'
 tags: [  ]

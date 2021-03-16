@@ -5,7 +5,7 @@ date: 2020-05-22 21:02:34
 image: 'https://m.media-amazon.com/images/I/419SlR7ZZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00D7FV0MC-fr Kickers - KICK COL - Bottes Classiques - Mixte Enfant -...'
 sku: 'B00D7FV0MC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-07 06:27:40
 image: 'https://m.media-amazon.com/images/I/31qJCnxSe7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DDMJ11X-fr DOMOOVA DBV60 One - Aspirateur Balais Cyclonique'
 sku: 'B07DDMJ11X-fr'
 tags: [  ]

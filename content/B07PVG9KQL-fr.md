@@ -5,7 +5,7 @@ date: 2020-08-28 23:30:28
 image: 'https://m.media-amazon.com/images/I/41r5kOMhtzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PVG9KQL-fr Beelink BT3 Pro II Mini PC Computer Windows 10 4 Go de RAM...'
 sku: 'B07PVG9KQL-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 17:22:23
 image: 'https://m.media-amazon.com/images/I/31buTPSGwdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0746P6FQC-fr Philips Sonicare HX8491/01 AirFloss Ultra et brosse à...'
 sku: 'B0746P6FQC-fr'
 tags: [  ]

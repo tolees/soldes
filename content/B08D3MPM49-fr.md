@@ -5,7 +5,7 @@ date: 2020-07-31 23:46:56
 image: 'https://m.media-amazon.com/images/I/41lw5SoAKSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3MPM49-fr Xiaomi band 5 bracelet Montre Connectée Trackers d...'
 sku: 'B08D3MPM49-fr'
 tags: [  ]

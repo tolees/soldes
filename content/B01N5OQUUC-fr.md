@@ -5,7 +5,7 @@ date: 2020-09-12 17:09:05
 image: 'https://m.media-amazon.com/images/I/41XjP3yUNQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N5OQUUC-fr IK Multimedia IP-IRIG-ACOSTG-IN Système avancé de micro...'
 sku: 'B01N5OQUUC-fr'
 tags: [  ]

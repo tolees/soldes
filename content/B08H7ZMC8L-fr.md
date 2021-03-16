@@ -5,7 +5,7 @@ date: 2020-10-04 11:07:55
 image: 'https://m.media-amazon.com/images/I/41-Br5iw2TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08H7ZMC8L-fr Galaxy S8 Film Protection Ecran Verre Trempé [2 Pièces]...'
 sku: 'B08H7ZMC8L-fr'
 tags: [  ]

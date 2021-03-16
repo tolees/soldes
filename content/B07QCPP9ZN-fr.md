@@ -5,7 +5,7 @@ date: 2020-09-26 02:11:16
 image: 'https://m.media-amazon.com/images/I/61vDFlK-VFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QCPP9ZN-fr Blocs de Construction Magnétiques – Cadeaux de pour Les...'
 sku: 'B07QCPP9ZN-fr'
 tags: [  ]

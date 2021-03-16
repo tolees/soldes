@@ -5,7 +5,7 @@ date: 2020-05-22 23:18:47
 image: 'https://m.media-amazon.com/images/I/41r9OuYXMzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0098LFST0-fr Sharp R-742WW Four micro-ondes Blanc'
 sku: 'B0098LFST0-fr'
 tags: [  ]

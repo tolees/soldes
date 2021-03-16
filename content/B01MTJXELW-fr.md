@@ -5,7 +5,7 @@ date: 2020-08-24 12:04:29
 image: 'https://m.media-amazon.com/images/I/41CNgcTMVtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01MTJXELW-fr Roccat Suora FX Clavier Gaming Mécanique Rétroéclairé RGB...'
 sku: 'B01MTJXELW-fr'
 tags: [  ]

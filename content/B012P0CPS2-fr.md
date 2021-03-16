@@ -5,7 +5,7 @@ date: 2020-05-22 21:03:19
 image: 'https://m.media-amazon.com/images/I/419jOVcg6iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B012P0CPS2-fr De Longhi Machine à Café à Pompe et Cafetière Filtre...'
 sku: 'B012P0CPS2-fr'
 tags: [  ]

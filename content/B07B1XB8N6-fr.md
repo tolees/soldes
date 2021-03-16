@@ -5,7 +5,7 @@ date: 2020-05-22 22:57:35
 image: 'https://m.media-amazon.com/images/I/41rKgYnbo3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B1XB8N6-fr Skechers Women s Go Walk Evolution Ultra-Reach Slip On...'
 sku: 'B07B1XB8N6-fr'
 tags: [  ]

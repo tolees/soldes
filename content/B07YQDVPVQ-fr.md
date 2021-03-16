@@ -5,7 +5,7 @@ date: 2020-09-26 18:52:55
 image: 'https://m.media-amazon.com/images/I/5177ww+nPHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQDVPVQ-fr Kipling Heart Backpack Sac à Dos Enfants 24 cm 9 litres...'
 sku: 'B07YQDVPVQ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-15 06:50:05
 image: 'https://m.media-amazon.com/images/I/41JX0CYQ6KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084V89DMC-fr Écouteurs sans Fil véritables GT1 Bluetooth 5.0 Sports HD...'
 sku: 'B084V89DMC-fr'
 tags: [  ]

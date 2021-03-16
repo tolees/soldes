@@ -5,7 +5,7 @@ date: 2020-09-27 10:40:51
 image: 'https://m.media-amazon.com/images/I/41Etjkyc0FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGMWKK9-fr Oral-B Vitality 100 Brosse à Dents Électrique Rechargeable...'
 sku: 'B07DGMWKK9-fr'
 tags: [  ]

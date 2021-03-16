@@ -5,7 +5,7 @@ date: 2020-09-22 10:27:21
 image: 'https://m.media-amazon.com/images/I/31WBGRwi2zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NJBYHXX-fr Krups Spécial T Machine à Thé Mini T Théière Electrique à...'
 sku: 'B07NJBYHXX-fr'
 tags: [  ]

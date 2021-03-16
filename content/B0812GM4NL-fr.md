@@ -5,7 +5,7 @@ date: 2020-08-25 14:28:26
 image: 'https://m.media-amazon.com/images/I/413odfWNXGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0812GM4NL-fr Asics Gel-Nimbus 22 Lite-Show Running Shoe Womens Sheet...'
 sku: 'B0812GM4NL-fr'
 tags: [  ]

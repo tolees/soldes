@@ -5,7 +5,7 @@ date: 2020-08-18 16:58:52
 image: 'https://m.media-amazon.com/images/I/51+L9u0Rn-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FHVF8VK-fr UniqueMe [6 Pièces] Protection écran pour Xiaomi Mi Band 5...'
 sku: 'B08FHVF8VK-fr'
 tags: [  ]

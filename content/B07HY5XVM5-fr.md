@@ -5,7 +5,7 @@ date: 2020-08-09 10:43:27
 image: 'https://m.media-amazon.com/images/I/41tR-R-2EJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HY5XVM5-fr Galuchon - Sac à Dos Lumineux Clignotants et GPS connecté...'
 sku: 'B07HY5XVM5-fr'
 tags: [  ]

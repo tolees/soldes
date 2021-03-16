@@ -5,7 +5,7 @@ date: 2020-08-05 08:27:40
 image: 'https://m.media-amazon.com/images/I/31w+3Zj702L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OHMO8AA-fr Somfy 2400556 - Récepteur Portail/Porte de Garage...'
 sku: 'B00OHMO8AA-fr'
 tags: [  ]

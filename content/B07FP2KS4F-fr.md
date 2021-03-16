@@ -5,7 +5,7 @@ date: 2020-08-07 06:32:36
 image: 'https://m.media-amazon.com/images/I/51NB+ISoV1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FP2KS4F-fr LEGO® Movie L atelier « Construire et réparer » d Emmet et...'
 sku: 'B07FP2KS4F-fr'
 tags: [  ]

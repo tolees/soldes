@@ -5,7 +5,7 @@ date: 2020-09-27 10:41:31
 image: 'https://m.media-amazon.com/images/I/31ahFJWjXAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YYYXRNK-fr Casque Beats Solo Pro sans fil avec réduction du bruit -...'
 sku: 'B07YYYXRNK-fr'
 tags: [  ]

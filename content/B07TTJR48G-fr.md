@@ -5,7 +5,7 @@ date: 2020-05-22 23:36:23
 image: 'https://m.media-amazon.com/images/I/511EzYvAUdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTJR48G-fr ASUS TUF Gaming VG32VQ - Ecran PC Gamer eSport 31 5" WQHD...'
 sku: 'B07TTJR48G-fr'
 tags: [  ]

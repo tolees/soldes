@@ -5,7 +5,7 @@ date: 2020-08-15 14:27:55
 image: 'https://m.media-amazon.com/images/I/51GSsFi02KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082PMYXQ1-fr OfficeWorld 502 XL Multipack Cartouche d encre compatible...'
 sku: 'B082PMYXQ1-fr'
 tags: [  ]

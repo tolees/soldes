@@ -5,7 +5,7 @@ date: 2020-08-30 16:33:18
 image: 'https://m.media-amazon.com/images/I/413KSP3gQIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K91P5XC-fr Crocs Crocband II Kids Sandales Bride Cheville Mixte...'
 sku: 'B07K91P5XC-fr'
 tags: [  ]

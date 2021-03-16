@@ -5,7 +5,7 @@ date: 2020-09-26 11:03:45
 image: 'https://m.media-amazon.com/images/I/518Pcg3-TJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011SDBCBI-fr Schott NYC Tornado Blouson Noir Black S Homme'
 sku: 'B011SDBCBI-fr'
 tags: [  ]

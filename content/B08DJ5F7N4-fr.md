@@ -5,7 +5,7 @@ date: 2020-09-12 21:18:09
 image: 'https://m.media-amazon.com/images/I/41gkg3cH5fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ5F7N4-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
 sku: 'B08DJ5F7N4-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 08:27:16
 image: 'https://m.media-amazon.com/images/I/412jsciOLBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00CAFOWS4-fr Aigle - Miss Juliette - Botte de pluie - Femme - Bleu...'
 sku: 'B00CAFOWS4-fr'
 tags: [  ]

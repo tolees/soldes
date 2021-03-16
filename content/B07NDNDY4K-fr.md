@@ -5,7 +5,7 @@ date: 2020-08-10 15:54:50
 image: 'https://m.media-amazon.com/images/I/417feIRtVvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NDNDY4K-fr BRAX Golf Tim Pull Bleu Dunkelblau 23 Medium Homme'
 sku: 'B07NDNDY4K-fr'
 tags: [  ]

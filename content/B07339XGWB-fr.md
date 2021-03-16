@@ -5,7 +5,7 @@ date: 2020-07-15 10:40:37
 image: 'https://m.media-amazon.com/images/I/31pOSuMuefL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07339XGWB-fr Logitech G703 LIGHTSPEED Souris Gamer sans Fil 12000 PPP...'
 sku: 'B07339XGWB-fr'
 tags: [  ]

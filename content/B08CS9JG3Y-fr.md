@@ -5,7 +5,7 @@ date: 2020-08-05 00:08:33
 image: 'https://m.media-amazon.com/images/I/51UAOOcMY3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CS9JG3Y-fr REDSTORM Manettes pour Nintendo Switch/Switch Lite Manette...'
 sku: 'B08CS9JG3Y-fr'
 tags: [  ]

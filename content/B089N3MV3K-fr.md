@@ -5,7 +5,7 @@ date: 2020-08-23 10:49:11
 image: 'https://m.media-amazon.com/images/I/51uGn4pdj-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089N3MV3K-fr Toozey Jouet Chien à Macher pour Grands Chiens Mâcheurs...'
 sku: 'B089N3MV3K-fr'
 tags: [  ]

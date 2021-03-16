@@ -5,7 +5,7 @@ date: 2020-05-23 00:10:59
 image: 'https://m.media-amazon.com/images/I/412jyN3sLBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JVBW57L-fr Siemens EQ.9 Plus s300 TI923309RW – Machine à café...'
 sku: 'B07JVBW57L-fr'
 tags: [  ]

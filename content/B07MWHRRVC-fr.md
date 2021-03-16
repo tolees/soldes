@@ -5,7 +5,7 @@ date: 2020-05-22 21:17:54
 image: 'https://m.media-amazon.com/images/I/41mkfU7EBsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MWHRRVC-fr Polti Forzaspira AG220 Plus Nettoyeur à Vitres sans Fil...'
 sku: 'B07MWHRRVC-fr'
 tags: [  ]

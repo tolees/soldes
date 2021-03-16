@@ -5,7 +5,7 @@ date: 2020-08-04 05:27:18
 image: 'https://m.media-amazon.com/images/I/41dlD+Fiv6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00F37J5OW-fr Euroclinic Source de lumière LED'
 sku: 'B00F37J5OW-fr'
 tags: [  ]

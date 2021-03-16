@@ -5,7 +5,7 @@ date: 2020-06-03 14:46:27
 image: 'https://m.media-amazon.com/images/I/31mz5nFIKUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076CSB4HT-fr Samsonite LAPTOP BACKPACK 17.3" EXP BLACK -SPECTROLITE 2.0...'
 sku: 'B076CSB4HT-fr'
 tags: [  ]

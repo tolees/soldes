@@ -5,7 +5,7 @@ date: 2020-08-11 00:11:04
 image: 'https://m.media-amazon.com/images/I/41OZLbdP6hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TWBFQGW-fr Levi s The Perfect Tee T-Shirt - Femme-Rouge Bw T2 Tomato...'
 sku: 'B07TWBFQGW-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 21:36:31
 image: 'https://m.media-amazon.com/images/I/31yXw88tBgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1MNL1A-fr Thule EasyFold XT 2 Porte-vélos sur boule d’attelage...'
 sku: 'B01N1MNL1A-fr'
 tags: [  ]

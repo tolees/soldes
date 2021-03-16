@@ -5,7 +5,7 @@ date: 2020-08-24 11:07:29
 image: 'https://m.media-amazon.com/images/I/41C-HgbrMwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08C9MNPCY-fr ZIYOULANG Souris de jeu filaire 69G en nid d abeille...'
 sku: 'B08C9MNPCY-fr'
 tags: [  ]

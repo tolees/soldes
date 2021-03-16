@@ -5,7 +5,7 @@ date: 2020-08-20 13:27:51
 image: 'https://m.media-amazon.com/images/I/31Li6kjfKLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004KEPYD0-fr Rosendahl - 43261 - Montre Femme - Quartz - Analogique -...'
 sku: 'B004KEPYD0-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 08:08:50
 image: 'https://m.media-amazon.com/images/I/41Q6ytSuokL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B073GV9XD8-fr SONGMICS Lot de 2 Tabourets de Bar Stool avec Dossier...'
 sku: 'B073GV9XD8-fr'
 tags: [  ]

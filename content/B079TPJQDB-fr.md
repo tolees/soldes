@@ -5,7 +5,7 @@ date: 2020-06-11 22:35:03
 image: 'https://m.media-amazon.com/images/I/61RQD-RuXKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079TPJQDB-fr Monopoly Tricheurs - Jeu de societe - Jeu de plateau -...'
 sku: 'B079TPJQDB-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 10:12:59
 image: 'https://m.media-amazon.com/images/I/41-miVr3-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01CHVXOIO-fr Moulinex OW220830 Machine à Pain 17 Programmes Plastique...'
 sku: 'B01CHVXOIO-fr'
 tags: [  ]

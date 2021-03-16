@@ -5,7 +5,7 @@ date: 2020-08-24 23:55:39
 image: 'https://m.media-amazon.com/images/I/41L42DSnlGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089ZMTKY6-fr Masseur Personnel p-l-Ṻ-g ḁ-n-ḁ-le fémmḔ dḔbṺtànt ÇṌffrḔt...'
 sku: 'B089ZMTKY6-fr'
 tags: [  ]

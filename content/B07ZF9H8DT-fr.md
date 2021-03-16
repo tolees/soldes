@@ -5,7 +5,7 @@ date: 2020-09-22 07:17:20
 image: 'https://m.media-amazon.com/images/I/513wa39h4NL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZF9H8DT-fr Rolimate Jeu de Grenouille interactif Marteler des Jouets...'
 sku: 'B07ZF9H8DT-fr'
 tags: [  ]

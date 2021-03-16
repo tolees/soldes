@@ -5,7 +5,7 @@ date: 2020-10-05 13:08:31
 image: 'https://m.media-amazon.com/images/I/41QdC1DUs-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DY9RV17-fr Hikole 2 en 1 Trottinette pour Enfants Scooter avec Siège...'
 sku: 'B08DY9RV17-fr'
 tags: [  ]

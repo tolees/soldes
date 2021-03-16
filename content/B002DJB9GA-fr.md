@@ -5,7 +5,7 @@ date: 2020-05-22 22:07:19
 image: 'https://m.media-amazon.com/images/I/41UDU3f3rgL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002DJB9GA-fr BÉABA Transat Up & Down I Transat Réglable par simple...'
 sku: 'B002DJB9GA-fr'
 tags: [  ]

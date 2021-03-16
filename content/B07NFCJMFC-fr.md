@@ -5,7 +5,7 @@ date: 2020-05-22 23:28:23
 image: 'https://m.media-amazon.com/images/I/41aI1hDfaVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NFCJMFC-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt Surf...'
 sku: 'B07NFCJMFC-fr'
 tags: [  ]

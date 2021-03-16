@@ -5,7 +5,7 @@ date: 2020-09-22 15:27:53
 image: 'https://m.media-amazon.com/images/I/61Pzhu8zrAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015NUZUQU-fr Gankutsuou-Le Comte de Monte-Cristo-Intégrale Collector...'
 sku: 'B015NUZUQU-fr'
 tags: [  ]

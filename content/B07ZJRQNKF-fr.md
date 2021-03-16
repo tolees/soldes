@@ -5,7 +5,7 @@ date: 2020-10-01 16:39:12
 image: 'https://m.media-amazon.com/images/I/51elpqmDrzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZJRQNKF-fr Cartable 41 Tann s Les Chinés Teddy Gris / Rouge'
 sku: 'B07ZJRQNKF-fr'
 tags: [  ]

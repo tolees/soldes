@@ -5,7 +5,7 @@ date: 2020-09-15 03:15:36
 image: 'https://m.media-amazon.com/images/I/31tWZvCZOwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08GPRT8YR-fr QSSTECH Écouteurs Intra-Auriculaires avec Microphone...'
 sku: 'B08GPRT8YR-fr'
 tags: [  ]

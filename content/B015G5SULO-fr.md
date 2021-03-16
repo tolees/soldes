@@ -5,7 +5,7 @@ date: 2020-05-22 20:52:15
 image: 'https://m.media-amazon.com/images/I/31MsY6DTEBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015G5SULO-fr Tod s Tod’S Brillengestelle To5116 Lunettes de soleil Bleu...'
 sku: 'B015G5SULO-fr'
 tags: [  ]

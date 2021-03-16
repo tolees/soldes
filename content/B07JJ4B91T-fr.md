@@ -5,7 +5,7 @@ date: 2020-05-22 22:43:52
 image: 'https://m.media-amazon.com/images/I/31C9IzYN0BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJ4B91T-fr G-STAR RAW 3301 Ripped Mid Waist Boyfriend Jeans Bleu lt...'
 sku: 'B07JJ4B91T-fr'
 tags: [  ]

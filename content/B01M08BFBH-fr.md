@@ -5,7 +5,7 @@ date: 2020-08-05 14:04:11
 image: 'https://m.media-amazon.com/images/I/41DvDNHvN9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M08BFBH-fr LUCIEN ROCHAT Horloge R0473604002'
 sku: 'B01M08BFBH-fr'
 tags: [  ]

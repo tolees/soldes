@@ -5,7 +5,7 @@ date: 2020-10-02 09:12:09
 image: 'https://m.media-amazon.com/images/I/41X3qEjz0pL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XWJ5HMY-fr HUAWEI MediaPad T3 10 Wi-Fi Tablette Tactile 9.6" Gris 16...'
 sku: 'B06XWJ5HMY-fr'
 tags: [  ]

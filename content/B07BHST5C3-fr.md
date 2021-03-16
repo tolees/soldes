@@ -5,7 +5,7 @@ date: 2020-05-22 20:29:04
 image: 'https://m.media-amazon.com/images/I/51pMBOuoKwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHST5C3-fr Kipling College Up Cartable 42 cm 32 liters Turquoise...'
 sku: 'B07BHST5C3-fr'
 tags: [  ]

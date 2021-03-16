@@ -5,7 +5,7 @@ date: 2020-09-23 19:36:08
 image: 'https://m.media-amazon.com/images/I/410g+9C5RpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q568HGM-fr Alex Perry Cadeau boucle d oreille femme argent idee...'
 sku: 'B07Q568HGM-fr'
 tags: [  ]

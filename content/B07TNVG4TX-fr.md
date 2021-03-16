@@ -5,7 +5,7 @@ date: 2020-10-03 10:06:30
 image: 'https://m.media-amazon.com/images/I/51VSswFxjAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TNVG4TX-fr VTech - Kidicom Advance noir - le portable sécurisé et...'
 sku: 'B07TNVG4TX-fr'
 tags: [  ]

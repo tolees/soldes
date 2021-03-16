@@ -5,7 +5,7 @@ date: 2020-09-22 20:23:28
 image: 'https://m.media-amazon.com/images/I/31vSFadoVaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072K6RNL6-fr Disque Dur SSD HP S700-500Go SATA 2" 1/2'
 sku: 'B072K6RNL6-fr'
 tags: [  ]

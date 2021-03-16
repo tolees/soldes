@@ -5,7 +5,7 @@ date: 2020-09-26 23:31:52
 image: 'https://m.media-amazon.com/images/I/41fvoz2Ta8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C54YPZV-fr ABUS 8077 2.0 Bloque-Disque Alarme Moto Homologué SRA Noir'
 sku: 'B07C54YPZV-fr'
 tags: [  ]

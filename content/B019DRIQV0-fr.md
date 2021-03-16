@@ -5,7 +5,7 @@ date: 2020-10-12 00:37:48
 image: 'https://m.media-amazon.com/images/I/41Rl6qZOikL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019DRIQV0-fr mountain buggy Poussette de Voyage Compacte 4 Roues Rouge'
 sku: 'B019DRIQV0-fr'
 tags: [  ]

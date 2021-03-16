@@ -5,7 +5,7 @@ date: 2020-08-29 06:41:17
 image: 'https://m.media-amazon.com/images/I/41f2Vt7yW5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01M67NM0Z-fr Protection auditive pour les bébés et les enfants Senner...'
 sku: 'B01M67NM0Z-fr'
 tags: [  ]

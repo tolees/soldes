@@ -5,7 +5,7 @@ date: 2020-09-27 11:58:02
 image: 'https://m.media-amazon.com/images/I/41tf7hLm8tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NW6DWHJ-fr Calor Centrale Vapeur Express Compact 5 7 Bars Effet...'
 sku: 'B07NW6DWHJ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 10:38:54
 image: 'https://m.media-amazon.com/images/I/31Cb6DZgWxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CVHS8Z2-fr Disque Dur Externe 1to Disque Dur Externe USB3.1/Type C...'
 sku: 'B08CVHS8Z2-fr'
 tags: [  ]

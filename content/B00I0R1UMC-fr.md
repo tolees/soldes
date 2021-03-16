@@ -5,7 +5,7 @@ date: 2020-05-22 20:21:37
 image: 'https://m.media-amazon.com/images/I/31E8JTDPwaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I0R1UMC-fr Jupiter Juicepresso 3in1 Slow Juicer extracteur de jus blanc'
 sku: 'B00I0R1UMC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 14:43:56
 image: 'https://m.media-amazon.com/images/I/31v-vNfFqjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KMT9SZ5-fr Kaba Cylindre Haute sécurité + Renfort Matrix 30 x 50...'
 sku: 'B07KMT9SZ5-fr'
 tags: [  ]

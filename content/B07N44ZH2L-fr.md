@@ -5,7 +5,7 @@ date: 2020-05-23 00:20:20
 image: 'https://m.media-amazon.com/images/I/31uRFO2RlCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N44ZH2L-fr HKT by Hackett London Hkt Jogger Pantalon De Sport Bleu...'
 sku: 'B07N44ZH2L-fr'
 tags: [  ]

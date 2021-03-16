@@ -5,7 +5,7 @@ date: 2020-08-06 09:03:55
 image: 'https://m.media-amazon.com/images/I/31L8KKyO6vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NH3TGD7-fr Strellson Premium Allen2.0 Amf2 12 Veste De Costume Bleu...'
 sku: 'B07NH3TGD7-fr'
 tags: [  ]

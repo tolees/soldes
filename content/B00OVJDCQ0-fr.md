@@ -5,7 +5,7 @@ date: 2020-09-16 19:15:17
 image: 'https://m.media-amazon.com/images/I/41v4DWPgNQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OVJDCQ0-fr D-Link DWR-932 Routeur Mobile Wireless N150 4G LTE Cat4 -...'
 sku: 'B00OVJDCQ0-fr'
 tags: [  ]

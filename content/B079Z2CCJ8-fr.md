@@ -5,7 +5,7 @@ date: 2020-08-10 09:05:13
 image: 'https://m.media-amazon.com/images/I/41Scyern4ZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079Z2CCJ8-fr Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp...'
 sku: 'B079Z2CCJ8-fr'
 tags: [  ]

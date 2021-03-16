@@ -5,7 +5,7 @@ date: 2020-05-27 15:05:17
 image: 'https://m.media-amazon.com/images/I/41jJgYjYQ1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GRQSHNJ-fr Bosch MultiTalent 8 MC812W501 – Robot de cuisine...'
 sku: 'B07GRQSHNJ-fr'
 tags: [  ]

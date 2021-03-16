@@ -5,7 +5,7 @@ date: 2020-09-14 06:48:00
 image: 'https://m.media-amazon.com/images/I/41m2WX5r66L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N8U4DEJ-fr Duronic VC8 /BK- Aspirateur Balai et à Main sans Sac...'
 sku: 'B01N8U4DEJ-fr'
 tags: [  ]

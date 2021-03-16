@@ -5,7 +5,7 @@ date: 2020-10-06 10:55:40
 image: 'https://m.media-amazon.com/images/I/41fxeGnE0TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSRF6ZK-fr Philips HD6564/61 Machine à café à Dosettes SENSEO Viva...'
 sku: 'B07FSRF6ZK-fr'
 tags: [  ]

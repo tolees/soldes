@@ -5,7 +5,7 @@ date: 2020-08-05 00:09:42
 image: 'https://m.media-amazon.com/images/I/51+6zDQwJ9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083M8G2LG-fr Ecouteur Bluetooth Ecouteurs sans Fil IP8 Etanche 3500mAh...'
 sku: 'B083M8G2LG-fr'
 tags: [  ]

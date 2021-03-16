@@ -5,7 +5,7 @@ date: 2020-08-09 14:44:49
 image: 'https://m.media-amazon.com/images/I/41wYhMjXARL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008CBSNB2-fr Triumph TRI-Action Fitness F Soutien-Gorge de Sport Blanc...'
 sku: 'B008CBSNB2-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-04 21:11:41
 image: 'https://m.media-amazon.com/images/I/41A4zyWMzBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00B5LEH8E-fr Fender Cruz Tools Custom Shop Kit d outillage pour Guitare'
 sku: 'B00B5LEH8E-fr'
 tags: [  ]

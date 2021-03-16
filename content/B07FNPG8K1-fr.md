@@ -5,7 +5,7 @@ date: 2020-09-15 23:20:52
 image: 'https://m.media-amazon.com/images/I/51znqgxVEvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNPG8K1-fr No Tourists'
 sku: 'B07FNPG8K1-fr'
 tags: [  ]

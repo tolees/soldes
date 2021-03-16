@@ -5,7 +5,7 @@ date: 2020-09-11 08:24:49
 image: 'https://m.media-amazon.com/images/I/41Wm3ti+doL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LS9HHVW-fr K-Way K004BD0 - veste imperméable - Homme - Noir Black -...'
 sku: 'B00LS9HHVW-fr'
 tags: [  ]

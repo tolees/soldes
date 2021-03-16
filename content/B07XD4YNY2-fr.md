@@ -5,7 +5,7 @@ date: 2020-10-09 18:37:50
 image: 'https://m.media-amazon.com/images/I/41kn-4uBlvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XD4YNY2-fr POP! Marvel: Black Widow – Taskmaster w/ bow'
 sku: 'B07XD4YNY2-fr'
 tags: [  ]

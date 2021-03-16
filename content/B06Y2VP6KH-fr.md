@@ -5,7 +5,7 @@ date: 2020-09-17 09:32:13
 image: 'https://m.media-amazon.com/images/I/41UeNCfsqDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06Y2VP6KH-fr Stanley Sxpw18E Nettoyeur Haute Pression 1800 W 135 Bar...'
 sku: 'B06Y2VP6KH-fr'
 tags: [  ]

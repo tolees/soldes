@@ -5,7 +5,7 @@ date: 2020-08-07 18:20:48
 image: 'https://m.media-amazon.com/images/I/51--fMILF6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DCF8FKS-fr Bluetooth Headset 5.0 écouteurs sans Fil Bluetooth 3D...'
 sku: 'B08DCF8FKS-fr'
 tags: [  ]

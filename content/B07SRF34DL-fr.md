@@ -5,7 +5,7 @@ date: 2020-05-24 07:28:18
 image: 'https://m.media-amazon.com/images/I/41wNBGGY6GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SRF34DL-fr Final Fantasy VII: Remake - Edition Deluxe'
 sku: 'B07SRF34DL-fr'
 tags: [  ]

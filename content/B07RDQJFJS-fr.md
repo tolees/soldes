@@ -5,7 +5,7 @@ date: 2020-08-11 13:03:51
 image: 'https://m.media-amazon.com/images/I/41-bVXeJCrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07RDQJFJS-fr Slendertone Biceps et Triceps Brassards H/F tonifiants...'
 sku: 'B07RDQJFJS-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-11 21:03:31
 image: 'https://m.media-amazon.com/images/I/4199EVfBJ5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TGD8T4P-fr Brooks Brothers 100134408 Chemise Casual Blanc White 115...'
 sku: 'B07TGD8T4P-fr'
 tags: [  ]

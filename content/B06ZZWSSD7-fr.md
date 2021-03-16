@@ -5,7 +5,7 @@ date: 2020-08-19 14:03:15
 image: 'https://m.media-amazon.com/images/I/31USe2epp+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06ZZWSSD7-fr Morphy Richards Supervac Deluxe 32 V'
 sku: 'B06ZZWSSD7-fr'
 tags: [  ]

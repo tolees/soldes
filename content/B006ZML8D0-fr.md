@@ -5,7 +5,7 @@ date: 2020-08-08 21:04:14
 image: 'https://m.media-amazon.com/images/I/41rBq0+SG1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B006ZML8D0-fr Helly Hansen HH Crew Midlayer Jacket – Veste imperméable...'
 sku: 'B006ZML8D0-fr'
 tags: [  ]

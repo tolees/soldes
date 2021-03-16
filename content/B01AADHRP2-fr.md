@@ -5,7 +5,7 @@ date: 2020-08-29 11:43:28
 image: 'https://m.media-amazon.com/images/I/31qQj2v9SnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AADHRP2-fr Nike - W NSW lggng Club logo2 - Collant pour femme -...'
 sku: 'B01AADHRP2-fr'
 tags: [  ]

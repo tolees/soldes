@@ -5,7 +5,7 @@ date: 2020-10-12 00:37:08
 image: 'https://m.media-amazon.com/images/I/51jhZhV1xBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001GHV3AM-fr Fiskars Aiguiseur à ciseaux Pour ciseaux de droitier...'
 sku: 'B001GHV3AM-fr'
 tags: [  ]

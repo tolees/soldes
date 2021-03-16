@@ -5,7 +5,7 @@ date: 2020-09-30 09:05:43
 image: 'https://m.media-amazon.com/images/I/51Y2lKQsdNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FFG2T3X-fr 2 Pièces Jouet Chien Corde pour Chiens Grands et Forts...'
 sku: 'B08FFG2T3X-fr'
 tags: [  ]

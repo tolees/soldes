@@ -5,7 +5,7 @@ date: 2020-05-23 00:20:06
 image: 'https://m.media-amazon.com/images/I/41iLfsTYOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRH5B2T-fr New Balance Yv500v1 Baskets Fille Rose Pink/Purple...'
 sku: 'B07KRH5B2T-fr'
 tags: [  ]

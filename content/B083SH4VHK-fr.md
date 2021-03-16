@@ -5,7 +5,7 @@ date: 2020-08-13 12:29:07
 image: 'https://m.media-amazon.com/images/I/61ugSfAQDiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083SH4VHK-fr Jojoin Tapis Enfant De Jet d eau Antidérapant Tapis De...'
 sku: 'B083SH4VHK-fr'
 tags: [  ]

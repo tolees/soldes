@@ -5,7 +5,7 @@ date: 2020-08-04 19:27:16
 image: 'https://m.media-amazon.com/images/I/41QSebREaCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TMP7FKS-fr Nike Zoom Air Vapor X HC Chaussures de Tennis Homme Blanc...'
 sku: 'B07TMP7FKS-fr'
 tags: [  ]

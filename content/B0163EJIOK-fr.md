@@ -5,7 +5,7 @@ date: 2020-09-18 03:33:54
 image: 'https://m.media-amazon.com/images/I/51bxoqlcb7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0163EJIOK-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme...'
 sku: 'B0163EJIOK-fr'
 tags: [  ]

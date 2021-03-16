@@ -5,7 +5,7 @@ date: 2020-08-09 12:01:24
 image: 'https://m.media-amazon.com/images/I/31pZQQqeY+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L91DC7T-fr Replay W7525 .000.83534 Manteau Beige 10 Large Femme'
 sku: 'B07L91DC7T-fr'
 tags: [  ]

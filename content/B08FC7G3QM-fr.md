@@ -5,7 +5,7 @@ date: 2020-08-29 11:26:31
 image: 'https://m.media-amazon.com/images/I/51EGtUN2rZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FC7G3QM-fr LK Verre Trempé pour Xiaomi Mi 10 Lite Protection écran [3...'
 sku: 'B08FC7G3QM-fr'
 tags: [  ]

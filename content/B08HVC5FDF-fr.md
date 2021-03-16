@@ -5,7 +5,7 @@ date: 2020-09-18 09:46:46
 image: 'https://m.media-amazon.com/images/I/51efv1zNySL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HVC5FDF-fr XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau...'
 sku: 'B08HVC5FDF-fr'
 tags: [  ]

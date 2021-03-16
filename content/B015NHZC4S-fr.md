@@ -5,7 +5,7 @@ date: 2020-08-29 23:14:21
 image: 'https://m.media-amazon.com/images/I/31xxTC5LKQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015NHZC4S-fr Funko - Pocket POP Keychain: GOTG - Groot'
 sku: 'B015NHZC4S-fr'
 tags: [  ]

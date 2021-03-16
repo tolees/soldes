@@ -5,7 +5,7 @@ date: 2020-10-07 13:51:50
 image: 'https://m.media-amazon.com/images/I/312QFCTTH6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0038TXGL0-fr Shea Moisture - Noix de Coco & Hibiscus Curl & Shine...'
 sku: 'B0038TXGL0-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-11 09:28:00
 image: 'https://m.media-amazon.com/images/I/51m7Rx3KmmL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075NKVV5X-fr Rotary Montres Bracelet GB08300/01'
 sku: 'B075NKVV5X-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 23:50:04
 image: 'https://m.media-amazon.com/images/I/51zXYbC1csL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08HGC213Q-fr LK Coque pour Xiaomi Mi Note 10 / Mi Note 10 Pro avec [2 ×...'
 sku: 'B08HGC213Q-fr'
 tags: [  ]

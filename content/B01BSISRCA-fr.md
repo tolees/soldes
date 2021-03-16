@@ -5,7 +5,7 @@ date: 2020-08-04 11:39:27
 image: 'https://m.media-amazon.com/images/I/41DXVpyR2KL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BSISRCA-fr Tots by Smart Rike 240–109 Parure de lit classic gris de...'
 sku: 'B01BSISRCA-fr'
 tags: [  ]

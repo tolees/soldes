@@ -5,7 +5,7 @@ date: 2020-09-16 15:57:44
 image: 'https://m.media-amazon.com/images/I/41APlDSwhyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ3W7YG-fr Disque Dur Externe 2to USB3.1 Disque Dur Externe pour PC...'
 sku: 'B08DJ3W7YG-fr'
 tags: [  ]

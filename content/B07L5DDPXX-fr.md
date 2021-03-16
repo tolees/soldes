@@ -5,7 +5,7 @@ date: 2020-09-28 14:40:16
 image: 'https://m.media-amazon.com/images/I/31qvCFHbM5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L5DDPXX-fr Microsoft – Modern Mobile Mouse – Souris Bluetooth pour PC...'
 sku: 'B07L5DDPXX-fr'
 tags: [  ]

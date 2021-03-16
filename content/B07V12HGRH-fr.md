@@ -5,7 +5,7 @@ date: 2020-06-11 09:16:19
 image: 'https://m.media-amazon.com/images/I/41byeR16BZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V12HGRH-fr Asus VivoBook S S532FA-BQ064T PC Portable 15" FHD Intel...'
 sku: 'B07V12HGRH-fr'
 tags: [  ]

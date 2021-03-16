@@ -5,7 +5,7 @@ date: 2020-05-22 21:10:16
 image: 'https://m.media-amazon.com/images/I/31c3WxzuzOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NVTFQ34-fr Armor Lux 76874 Pull Homme Multicolore Navire 300 Large...'
 sku: 'B07NVTFQ34-fr'
 tags: [  ]

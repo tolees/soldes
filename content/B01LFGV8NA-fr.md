@@ -5,7 +5,7 @@ date: 2020-10-10 06:26:55
 image: 'https://m.media-amazon.com/images/I/510WF-1MMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LFGV8NA-fr The Rolling Stones - Havana Moon [Blu-ray]'
 sku: 'B01LFGV8NA-fr'
 tags: [  ]

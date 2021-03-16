@@ -5,7 +5,7 @@ date: 2020-10-04 17:47:20
 image: 'https://m.media-amazon.com/images/I/31Cyj+melfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WMR8V4W-fr Yageshark Pantalon de Jogging Homme Coton Mode Training...'
 sku: 'B07WMR8V4W-fr'
 tags: [  ]

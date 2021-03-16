@@ -5,7 +5,7 @@ date: 2020-08-16 10:28:12
 image: 'https://m.media-amazon.com/images/I/41DxCej0ixL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B002VGS33C-fr Optima Red Top Rt S 4.2 Batterie Démarrage Sprial Cell 12V...'
 sku: 'B002VGS33C-fr'
 tags: [  ]

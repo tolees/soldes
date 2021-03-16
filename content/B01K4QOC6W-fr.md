@@ -5,7 +5,7 @@ date: 2020-05-25 11:19:36
 image: 'https://m.media-amazon.com/images/I/51AIKJo1AcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01K4QOC6W-fr TomTom GPS Voiture GO 6200 - 6 Pouces Cartographie Monde...'
 sku: 'B01K4QOC6W-fr'
 tags: [  ]

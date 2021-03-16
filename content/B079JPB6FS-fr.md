@@ -5,7 +5,7 @@ date: 2020-09-16 03:10:55
 image: 'https://m.media-amazon.com/images/I/41yXPmlWqZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079JPB6FS-fr Sac à Bandoulière Sac à Dos JOSEKO Sac à Main en Toile...'
 sku: 'B079JPB6FS-fr'
 tags: [  ]

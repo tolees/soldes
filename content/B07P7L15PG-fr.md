@@ -5,7 +5,7 @@ date: 2020-08-28 11:30:13
 image: 'https://m.media-amazon.com/images/I/51rUomsvVhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07P7L15PG-fr Dreamon Coffrets de Bijoux et Cosmétiques pour Enfants...'
 sku: 'B07P7L15PG-fr'
 tags: [  ]

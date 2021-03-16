@@ -5,7 +5,7 @@ date: 2020-10-08 05:39:50
 image: 'https://m.media-amazon.com/images/I/419eZMBnNKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DNSR1V4-fr JACK & JONES JCORETAIL Sweat Hood SEP Sweatshirt à Capuche...'
 sku: 'B08DNSR1V4-fr'
 tags: [  ]

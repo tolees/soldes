@@ -5,7 +5,7 @@ date: 2020-09-15 18:17:55
 image: 'https://m.media-amazon.com/images/I/51vLZvOGcPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00OAFBJFQ-fr Stanley Xtht0-33501 Mesure Auto lock 8Mx32 - Ruban Large -...'
 sku: 'B00OAFBJFQ-fr'
 tags: [  ]

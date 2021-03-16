@@ -5,7 +5,7 @@ date: 2020-10-05 19:20:32
 image: 'https://m.media-amazon.com/images/I/41hJfK-rnDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01D1J63IY-fr Samsonite XBR Laptop Sac à Dos 17 3 Pouces Cartable 51 cm...'
 sku: 'B01D1J63IY-fr'
 tags: [  ]

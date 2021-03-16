@@ -5,7 +5,7 @@ date: 2020-08-18 08:14:56
 image: 'https://m.media-amazon.com/images/I/41evOmoWeVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TTR45QM-fr JSVER Cube Multiprise USB 3 Prises avec 3 Ports USB...'
 sku: 'B07TTR45QM-fr'
 tags: [  ]

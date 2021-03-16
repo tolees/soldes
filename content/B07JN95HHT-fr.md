@@ -5,7 +5,7 @@ date: 2020-05-22 23:45:34
 image: 'https://m.media-amazon.com/images/I/41wYmD59gcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JN95HHT-fr Buffalo Cali Sneakers Basses Femme Multicolore Pink/White...'
 sku: 'B07JN95HHT-fr'
 tags: [  ]

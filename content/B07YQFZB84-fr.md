@@ -5,7 +5,7 @@ date: 2020-10-04 03:25:02
 image: 'https://m.media-amazon.com/images/I/31ArDuwcNBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YQFZB84-fr Hansaplast Antiseptiques Alcool 70% Volume'
 sku: 'B07YQFZB84-fr'
 tags: [  ]

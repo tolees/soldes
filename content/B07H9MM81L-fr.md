@@ -5,7 +5,7 @@ date: 2020-07-28 10:41:54
 image: 'https://m.media-amazon.com/images/I/41yTJb1WbYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07H9MM81L-fr Projecteur multimédia LCD 1080p Full HD Nebula Prizm by...'
 sku: 'B07H9MM81L-fr'
 tags: [  ]

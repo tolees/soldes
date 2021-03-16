@@ -5,7 +5,7 @@ date: 2020-05-22 20:55:19
 image: 'https://m.media-amazon.com/images/I/41hMAP1dbNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0084EILJG-fr Water2buy Filtre à Eau Universel à 5 étapes pour Osmose...'
 sku: 'B0084EILJG-fr'
 tags: [  ]

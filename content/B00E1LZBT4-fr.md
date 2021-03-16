@@ -5,7 +5,7 @@ date: 2020-10-03 11:12:56
 image: 'https://m.media-amazon.com/images/I/51waUvlRL3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E1LZBT4-fr Le Roi et l Oiseau [Combo Blu-Ray + DVD + Copie Digitale]'
 sku: 'B00E1LZBT4-fr'
 tags: [  ]

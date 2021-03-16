@@ -5,7 +5,7 @@ date: 2020-08-23 17:24:27
 image: 'https://m.media-amazon.com/images/I/31nk1XaKhkL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ85WKN-fr Écouteurs Intra-Auriculaires avec Microphone intégré et...'
 sku: 'B08DJ85WKN-fr'
 tags: [  ]

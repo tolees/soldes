@@ -5,7 +5,7 @@ date: 2020-07-08 07:09:08
 image: 'https://m.media-amazon.com/images/I/51+dmvdl5qL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B4NL2J7-fr Elyco Coque de Protection pour Nintendo Switch Grips...'
 sku: 'B08B4NL2J7-fr'
 tags: [  ]

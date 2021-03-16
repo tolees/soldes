@@ -5,7 +5,7 @@ date: 2020-05-23 00:00:43
 image: 'https://m.media-amazon.com/images/I/51-Kp95cbfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FSHNVDF-fr Oral-B Genius 10 Midnight Black Brosse À Dents Électrique...'
 sku: 'B07FSHNVDF-fr'
 tags: [  ]

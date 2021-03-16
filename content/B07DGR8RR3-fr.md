@@ -5,7 +5,7 @@ date: 2020-09-17 06:33:39
 image: 'https://m.media-amazon.com/images/I/214wvyXvhIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DGR8RR3-fr Philips Hue White Ambiance ADORE Barre de Spots salle de...'
 sku: 'B07DGR8RR3-fr'
 tags: [  ]

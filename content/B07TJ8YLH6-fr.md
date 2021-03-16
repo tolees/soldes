@@ -5,7 +5,7 @@ date: 2020-08-14 07:22:29
 image: 'https://m.media-amazon.com/images/I/4112IMjkL9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TJ8YLH6-fr FM London Fitted Boxer Shorty Noir Black 01 Small Lot de 8...'
 sku: 'B07TJ8YLH6-fr'
 tags: [  ]

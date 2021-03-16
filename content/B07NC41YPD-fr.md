@@ -5,7 +5,7 @@ date: 2020-09-29 10:44:43
 image: 'https://m.media-amazon.com/images/I/41WMbHAUiUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NC41YPD-fr DELSEY PARIS - SEGUR 2.0 - Valise cabine rigide à double...'
 sku: 'B07NC41YPD-fr'
 tags: [  ]

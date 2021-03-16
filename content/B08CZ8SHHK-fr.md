@@ -5,7 +5,7 @@ date: 2020-08-10 15:27:09
 image: 'https://m.media-amazon.com/images/I/310nSvn-CsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZ8SHHK-fr Disque Dur Externe 1to Disque Dur Externe USB3.1 Type-C...'
 sku: 'B08CZ8SHHK-fr'
 tags: [  ]

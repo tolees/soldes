@@ -5,7 +5,7 @@ date: 2020-05-22 21:14:15
 image: 'https://m.media-amazon.com/images/I/41eXG3tt8zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00U1V6IE0-fr Panasonic Lumix Appareil Photo Compact Zoom Puissant...'
 sku: 'B00U1V6IE0-fr'
 tags: [  ]

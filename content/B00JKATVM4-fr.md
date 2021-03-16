@@ -5,7 +5,7 @@ date: 2020-09-27 21:53:25
 image: 'https://m.media-amazon.com/images/I/31I6qf8zTaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JKATVM4-fr Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K'
 sku: 'B00JKATVM4-fr'
 tags: [  ]

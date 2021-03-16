@@ -5,7 +5,7 @@ date: 2020-09-16 15:51:22
 image: 'https://m.media-amazon.com/images/I/41AZ2D-HkfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CXVFYXK-fr [Modèle 2020] KKUYI Antenne TV Intérieure Antenne...'
 sku: 'B08CXVFYXK-fr'
 tags: [  ]

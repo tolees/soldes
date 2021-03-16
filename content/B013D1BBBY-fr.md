@@ -5,7 +5,7 @@ date: 2020-09-24 17:27:21
 image: 'https://m.media-amazon.com/images/I/412MzAw6NCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B013D1BBBY-fr Nikon AF-S Nikkor Objectif 24 mm f/1 8'
 sku: 'B013D1BBBY-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-22 12:27:46
 image: 'https://m.media-amazon.com/images/I/41DFcSyKSvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01GDN4QOI-fr Herschel Pop Quiz Sac à dos unisexe pour adulte Eclipse...'
 sku: 'B01GDN4QOI-fr'
 tags: [  ]

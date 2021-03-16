@@ -5,7 +5,7 @@ date: 2020-09-15 11:29:40
 image: 'https://m.media-amazon.com/images/I/31hbPwe+bEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NARBPI7-fr Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de...'
 sku: 'B01NARBPI7-fr'
 tags: [  ]

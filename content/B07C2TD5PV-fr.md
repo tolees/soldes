@@ -5,7 +5,7 @@ date: 2020-08-20 06:17:33
 image: 'https://m.media-amazon.com/images/I/51xZJ04+++L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07C2TD5PV-fr Bluefin Paddle Board Gonflable 427 cm à Position Debout |...'
 sku: 'B07C2TD5PV-fr'
 tags: [  ]

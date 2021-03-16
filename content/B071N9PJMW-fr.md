@@ -5,7 +5,7 @@ date: 2020-09-26 17:43:17
 image: 'https://m.media-amazon.com/images/I/41ten9xVAwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B071N9PJMW-fr Louis Villiers Mixte Adulte Analogique Quartz Montre avec...'
 sku: 'B071N9PJMW-fr'
 tags: [  ]

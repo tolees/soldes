@@ -5,7 +5,7 @@ date: 2020-08-23 17:17:49
 image: 'https://m.media-amazon.com/images/I/31hPCk1khqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DH25W8M-fr Disque Dur Externe 1to Type C USB3.1 Disque Dur Externe...'
 sku: 'B08DH25W8M-fr'
 tags: [  ]

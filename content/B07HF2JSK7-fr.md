@@ -5,7 +5,7 @@ date: 2020-05-26 21:54:27
 image: 'https://m.media-amazon.com/images/I/51jOMNddNsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HF2JSK7-fr TIMACO Robinet de cuisine avec douchette à ressort en...'
 sku: 'B07HF2JSK7-fr'
 tags: [  ]

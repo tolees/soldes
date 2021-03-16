@@ -5,7 +5,7 @@ date: 2020-08-07 12:21:18
 image: 'https://m.media-amazon.com/images/I/41QZPT8lr6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07X3RGV9C-fr NUBWO Casque Gaming PS4 Xbox One Ecouteur de Jeux Stéréo...'
 sku: 'B07X3RGV9C-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-05 21:04:09
 image: 'https://m.media-amazon.com/images/I/41Hc3neQejL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000UXF36I-fr Mennekes 101700017 bases Schuko. 16 A/230 V prise de...'
 sku: 'B000UXF36I-fr'
 tags: [  ]

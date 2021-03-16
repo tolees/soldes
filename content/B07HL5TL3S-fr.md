@@ -5,7 +5,7 @@ date: 2020-10-07 13:53:40
 image: 'https://m.media-amazon.com/images/I/31NT0F+2BzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL5TL3S-fr Skagen Homme Écran Tactile Digital Montre Connectée avec...'
 sku: 'B07HL5TL3S-fr'
 tags: [  ]

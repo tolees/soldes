@@ -5,7 +5,7 @@ date: 2020-08-24 07:27:41
 image: 'https://m.media-amazon.com/images/I/514kGDi5QOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GV2GQJ6-fr Diablo III : Eternal Collection pour Nintendo Switch'
 sku: 'B07GV2GQJ6-fr'
 tags: [  ]

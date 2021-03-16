@@ -5,7 +5,7 @@ date: 2020-06-12 00:11:43
 image: 'https://m.media-amazon.com/images/I/51PXPGb4u6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NA9J2FK-fr Mâche-Mots - Jeu de societe Mâche-Mots Enfants Contre...'
 sku: 'B01NA9J2FK-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 18:03:41
 image: 'https://m.media-amazon.com/images/I/41gwoiqHR4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00942HVIE-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert...'
 sku: 'B00942HVIE-fr'
 tags: [  ]

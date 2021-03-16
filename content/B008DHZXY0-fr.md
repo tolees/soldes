@@ -5,7 +5,7 @@ date: 2020-09-18 01:09:38
 image: 'https://m.media-amazon.com/images/I/41Y-Jnnng3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008DHZXY0-fr Stanley 1-93-981 Organiseur 39 Compartiments - Ossature En...'
 sku: 'B008DHZXY0-fr'
 tags: [  ]

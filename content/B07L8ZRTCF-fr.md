@@ -5,7 +5,7 @@ date: 2020-05-22 19:59:17
 image: 'https://m.media-amazon.com/images/I/41IWficp05L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8ZRTCF-fr Replay M8006 .000.83406 Blouson Noir Black 98 Large Homme'
 sku: 'B07L8ZRTCF-fr'
 tags: [  ]

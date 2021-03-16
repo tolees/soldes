@@ -5,7 +5,7 @@ date: 2020-09-22 22:46:27
 image: 'https://m.media-amazon.com/images/I/41KQWViTlPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QDTBQN-fr ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile...'
 sku: 'B086QDTBQN-fr'
 tags: [  ]

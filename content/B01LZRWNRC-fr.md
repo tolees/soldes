@@ -5,7 +5,7 @@ date: 2020-09-12 14:50:55
 image: 'https://m.media-amazon.com/images/I/31N5xRl3BqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LZRWNRC-fr Lunii Fabrique à Histoires'
 sku: 'B01LZRWNRC-fr'
 tags: [  ]

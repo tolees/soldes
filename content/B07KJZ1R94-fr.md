@@ -5,7 +5,7 @@ date: 2020-05-22 23:59:57
 image: 'https://m.media-amazon.com/images/I/31hEHGnpdNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KJZ1R94-fr El Naturalista N5282 Lux Suede El Viajero Bottes &...'
 sku: 'B07KJZ1R94-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-25 18:03:58
 image: 'https://m.media-amazon.com/images/I/51xyhYI1ZuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SXFS6K2-fr Perceuse Visseuse à Percussion Professionnel sans Fil 18V...'
 sku: 'B07SXFS6K2-fr'
 tags: [  ]

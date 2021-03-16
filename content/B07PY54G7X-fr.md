@@ -5,7 +5,7 @@ date: 2020-08-25 20:27:14
 image: 'https://m.media-amazon.com/images/I/51QkyrUOb7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PY54G7X-fr AUBADE Soutien-gorge corbeille Bretelles réglables THE BOW...'
 sku: 'B07PY54G7X-fr'
 tags: [  ]

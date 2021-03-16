@@ -5,7 +5,7 @@ date: 2020-09-27 10:41:35
 image: 'https://m.media-amazon.com/images/I/416lS32ZSOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B083WYD99J-fr HONOR MagicWatch 2 42 mm - Montre Connectée - Moniteur de...'
 sku: 'B083WYD99J-fr'
 tags: [  ]

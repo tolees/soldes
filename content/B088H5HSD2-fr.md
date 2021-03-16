@@ -5,7 +5,7 @@ date: 2020-09-10 21:18:06
 image: 'https://m.media-amazon.com/images/I/31FA4SUOG6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088H5HSD2-fr RAMPOW Chargeur USB C 36W Power Delivery 3.0 Chargeur...'
 sku: 'B088H5HSD2-fr'
 tags: [  ]

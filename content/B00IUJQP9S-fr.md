@@ -5,7 +5,7 @@ date: 2020-05-22 22:19:31
 image: 'https://m.media-amazon.com/images/I/51Ho7wbgfqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00IUJQP9S-fr BERING Montre 33440-227'
 sku: 'B00IUJQP9S-fr'
 tags: [  ]

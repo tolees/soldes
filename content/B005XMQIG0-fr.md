@@ -5,7 +5,7 @@ date: 2020-09-23 01:40:09
 image: 'https://m.media-amazon.com/images/I/41egSYW9IDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005XMQIG0-fr Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme...'
 sku: 'B005XMQIG0-fr'
 tags: [  ]

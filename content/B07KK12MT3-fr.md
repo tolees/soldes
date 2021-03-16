@@ -5,7 +5,7 @@ date: 2020-05-23 00:04:36
 image: 'https://m.media-amazon.com/images/I/41qtMRGTNXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KK12MT3-fr Kickers - KICK COL 621514-30-92 - Bottes & bottines...'
 sku: 'B07KK12MT3-fr'
 tags: [  ]

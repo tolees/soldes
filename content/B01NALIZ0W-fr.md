@@ -5,7 +5,7 @@ date: 2020-05-24 21:46:25
 image: 'https://m.media-amazon.com/images/I/31NWf3Z87fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01NALIZ0W-fr Bébé Confort Sac à Langer Black Raven'
 sku: 'B01NALIZ0W-fr'
 tags: [  ]

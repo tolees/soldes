@@ -5,7 +5,7 @@ date: 2020-09-24 09:49:39
 image: 'https://m.media-amazon.com/images/I/51QfvTfmMWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076B2NG7K-fr Hugo Boss Homme Analogique Classique Quartz Montre avec...'
 sku: 'B076B2NG7K-fr'
 tags: [  ]

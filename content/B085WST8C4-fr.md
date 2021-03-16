@@ -5,7 +5,7 @@ date: 2020-08-10 15:25:29
 image: 'https://m.media-amazon.com/images/I/51sbvB76uLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085WST8C4-fr PHOINIKAS Casque de Jeu PS4 Casque Gaming Filaire pour...'
 sku: 'B085WST8C4-fr'
 tags: [  ]

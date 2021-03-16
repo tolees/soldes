@@ -5,7 +5,7 @@ date: 2020-09-01 17:54:31
 image: 'https://m.media-amazon.com/images/I/41fK48IQiiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07QPM7KZ5-fr NICOLE & DORIS Femmes Sacs à Main bandoulière Sac d épaule...'
 sku: 'B07QPM7KZ5-fr'
 tags: [  ]

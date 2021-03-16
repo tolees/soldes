@@ -5,7 +5,7 @@ date: 2020-08-06 07:04:09
 image: 'https://m.media-amazon.com/images/I/41Rh5QQvJ+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E9ATJ6S-fr Certina c026.407.16.037.00 Montre pour Hommes en Cuir...'
 sku: 'B00E9ATJ6S-fr'
 tags: [  ]

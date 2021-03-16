@@ -5,7 +5,7 @@ date: 2020-08-28 08:12:13
 image: 'https://m.media-amazon.com/images/I/41BOtUTf0xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088DB8FBC-fr EgoIggo Tapis de Yoga Mat en TPE Matériaux Tapis de Sport...'
 sku: 'B088DB8FBC-fr'
 tags: [  ]

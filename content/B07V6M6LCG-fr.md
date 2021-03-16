@@ -5,7 +5,7 @@ date: 2020-10-08 05:51:43
 image: 'https://m.media-amazon.com/images/I/41DNq-+qq-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V6M6LCG-fr Kaporal - T-Shirt à Manches Courtes col v Coupe ajustée -...'
 sku: 'B07V6M6LCG-fr'
 tags: [  ]

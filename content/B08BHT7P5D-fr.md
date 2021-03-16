@@ -5,7 +5,7 @@ date: 2020-08-24 23:58:29
 image: 'https://m.media-amazon.com/images/I/41Nfpp0iXXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BHT7P5D-fr Aidotop Maillots de Bain Femmes 2 Pieces à Volants Vintage...'
 sku: 'B08BHT7P5D-fr'
 tags: [  ]

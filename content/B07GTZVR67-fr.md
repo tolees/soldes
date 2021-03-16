@@ -5,7 +5,7 @@ date: 2020-08-06 13:27:29
 image: 'https://m.media-amazon.com/images/I/518Usup3Y2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTZVR67-fr Desigual Bag Folklore Cards Olesa Women Sacs portés épaule...'
 sku: 'B07GTZVR67-fr'
 tags: [  ]

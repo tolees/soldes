@@ -5,7 +5,7 @@ date: 2020-09-11 08:27:03
 image: 'https://m.media-amazon.com/images/I/418DTGEYI9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00XH75EFE-fr TOKINA AT-X PRO FX 24-70mm F2.8 Objectif reflex pro haute...'
 sku: 'B00XH75EFE-fr'
 tags: [  ]

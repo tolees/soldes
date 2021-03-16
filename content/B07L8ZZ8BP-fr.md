@@ -5,7 +5,7 @@ date: 2020-08-09 06:49:49
 image: 'https://m.media-amazon.com/images/I/3181tQNB9dL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8ZZ8BP-fr Replay New Luz Jean Skinny Bleu Dark Blue 007 L30 Taille...'
 sku: 'B07L8ZZ8BP-fr'
 tags: [  ]

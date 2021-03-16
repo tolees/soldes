@@ -5,7 +5,7 @@ date: 2021-03-06 11:07:17
 image: 'https://m.media-amazon.com/images/I/61VFTr3qQaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084N1FJL9-fr Séga - Sakura Wars'
 sku: 'B084N1FJL9-fr'
 tags: [ 'séga', ]
@@ -28,8 +28,8 @@ C'est en vente [Séga - Sakura Wars](https://www.amazon.fr/dp/B084N1FJL9/?tag=to
 
 ℹ️:
 
-- Des séquences animées sublimes, une bande-son très riche et des personnages conçus par des grands noms de l’animation et du rpg japonais
 - Tout ce que vous direz aura d’importantes répercussions sur vos relations interpersonnelles sur le champ de bataille tout comme en dehors.
 - Jeux en français avec voix japonaises
+- Des séquences animées sublimes, une bande-son très riche et des personnages conçus par des grands noms de l’animation et du rpg japonais
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084N1FJL9/?tag=tolees0d-21)

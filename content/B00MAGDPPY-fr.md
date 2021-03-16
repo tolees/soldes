@@ -5,7 +5,7 @@ date: 2020-05-29 05:49:38
 image: 'https://m.media-amazon.com/images/I/31yeMN9wQOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00MAGDPPY-fr Maisonnerie 1316-503-91 Campus Armoire Murale Miroir...'
 sku: 'B00MAGDPPY-fr'
 tags: [  ]

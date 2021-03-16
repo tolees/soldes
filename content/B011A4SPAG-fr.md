@@ -5,7 +5,7 @@ date: 2020-08-10 08:28:02
 image: 'https://m.media-amazon.com/images/I/41rXo1RkcEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B011A4SPAG-fr Tumble Forms Support Universal Petite Cale Accessoire pour...'
 sku: 'B011A4SPAG-fr'
 tags: [  ]

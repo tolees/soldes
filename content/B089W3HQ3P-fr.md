@@ -5,7 +5,7 @@ date: 2020-08-21 04:59:00
 image: 'https://m.media-amazon.com/images/I/51uym8K+29L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089W3HQ3P-fr ELUTENG Ventilateur 120mm DC Puissant et Silencieux Double...'
 sku: 'B089W3HQ3P-fr'
 tags: [  ]

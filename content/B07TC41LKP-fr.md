@@ -5,7 +5,7 @@ date: 2020-10-03 19:47:08
 image: 'https://m.media-amazon.com/images/I/31wVxt2DlYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TC41LKP-fr Cressi Apnea Wetsuit - Combinaisons de Plongée complètes...'
 sku: 'B07TC41LKP-fr'
 tags: [  ]

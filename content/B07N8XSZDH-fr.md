@@ -5,7 +5,7 @@ date: 2020-05-22 21:40:56
 image: 'https://m.media-amazon.com/images/I/31Yz1YsTQ-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N8XSZDH-fr Rockport Westbrook Oxford Richelieus Homme Marron Cocoa...'
 sku: 'B07N8XSZDH-fr'
 tags: [  ]

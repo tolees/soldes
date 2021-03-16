@@ -5,7 +5,7 @@ date: 2020-09-06 08:44:31
 image: 'https://m.media-amazon.com/images/I/41sI8A5zZ3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015X7NKL0-fr Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent...'
 sku: 'B015X7NKL0-fr'
 tags: [  ]

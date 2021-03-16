@@ -5,7 +5,7 @@ date: 2020-08-13 12:26:28
 image: 'https://m.media-amazon.com/images/I/41ik+-TwJ0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089SXNJHT-fr RAMPOW Câble USB C vers USB C [Garantie à Vie] Câble USB C...'
 sku: 'B089SXNJHT-fr'
 tags: [  ]

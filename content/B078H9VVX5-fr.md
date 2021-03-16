@@ -5,7 +5,7 @@ date: 2020-05-23 00:16:38
 image: 'https://m.media-amazon.com/images/I/41Ca9heV0xL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B078H9VVX5-fr Wrangler Regular Jacket Homme Bleu Midstone 091 Small'
 sku: 'B078H9VVX5-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-10 21:44:25
 image: 'https://m.media-amazon.com/images/I/41eKsYENU9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B007VZXWCK-fr FoodSaver Machine Sous Vide automatique inclus sacs de...'
 sku: 'B007VZXWCK-fr'
 tags: [  ]

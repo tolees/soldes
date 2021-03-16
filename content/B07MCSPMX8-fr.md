@@ -5,7 +5,7 @@ date: 2020-05-22 22:07:58
 image: 'https://m.media-amazon.com/images/I/419b0Z8TiNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MCSPMX8-fr Napapijri Rainforest Pocket Blouson Homme Rot High Risk...'
 sku: 'B07MCSPMX8-fr'
 tags: [  ]

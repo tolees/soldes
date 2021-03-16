@@ -5,7 +5,7 @@ date: 2020-05-22 21:14:40
 image: 'https://m.media-amazon.com/images/I/412IF5H5VaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BL5CJFN-fr Sika Firestop profilé HD Profilé pour calfeutrer des...'
 sku: 'B07BL5CJFN-fr'
 tags: [  ]

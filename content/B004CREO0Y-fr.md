@@ -5,7 +5,7 @@ date: 2020-09-26 08:34:18
 image: 'https://m.media-amazon.com/images/I/41YNRG4agHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004CREO0Y-fr GRANIONS Conceptio Homme - 90 Capsules + 30 Sachets = 30 J...'
 sku: 'B004CREO0Y-fr'
 tags: [  ]

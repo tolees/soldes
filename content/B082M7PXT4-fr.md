@@ -5,7 +5,7 @@ date: 2020-08-22 18:27:37
 image: 'https://m.media-amazon.com/images/I/41+Vfm5w2WL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082M7PXT4-fr Victure Babyphone Video Camera 2.4" LCD Couleur Video Bebe...'
 sku: 'B082M7PXT4-fr'
 tags: [  ]

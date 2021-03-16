@@ -5,7 +5,7 @@ date: 2020-08-16 16:44:14
 image: 'https://m.media-amazon.com/images/I/31l5pG90xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00GD97AHI-fr Azzaro Item Bottes Chelsea homme Marron 43 EU'
 sku: 'B00GD97AHI-fr'
 tags: [  ]

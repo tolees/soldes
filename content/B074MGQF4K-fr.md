@@ -5,7 +5,7 @@ date: 2020-09-29 10:03:06
 image: 'https://m.media-amazon.com/images/I/41VJ5eyMV7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B074MGQF4K-fr Philips MG3740/15 Tondeuse cheveux et Multi-Styles -...'
 sku: 'B074MGQF4K-fr'
 tags: [  ]

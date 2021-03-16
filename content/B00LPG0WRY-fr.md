@@ -5,7 +5,7 @@ date: 2020-10-07 18:56:23
 image: 'https://m.media-amazon.com/images/I/51Y1JfYn25L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00LPG0WRY-fr Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x...'
 sku: 'B00LPG0WRY-fr'
 tags: [  ]

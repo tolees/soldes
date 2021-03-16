@@ -5,7 +5,7 @@ date: 2020-09-17 07:09:28
 image: 'https://m.media-amazon.com/images/I/51MfCwQG0GL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089B5TGYS-fr Lampe Frontale Super Brillante Lampe à 8 Del de 18000...'
 sku: 'B089B5TGYS-fr'
 tags: [  ]

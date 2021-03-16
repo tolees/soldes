@@ -5,7 +5,7 @@ date: 2020-08-06 13:27:42
 image: 'https://m.media-amazon.com/images/I/41SaslO5kuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075V8WNGX-fr IQE-Storage TB-HS5 Coffret de transport 2 fermetures de...'
 sku: 'B075V8WNGX-fr'
 tags: [  ]

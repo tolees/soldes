@@ -5,7 +5,7 @@ date: 2020-05-22 22:58:25
 image: 'https://m.media-amazon.com/images/I/41qnNmg9diL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JJPTXP3-fr Chi Chi London Daniella Robe de soirée Bleu Navy NB 36...'
 sku: 'B07JJPTXP3-fr'
 tags: [  ]

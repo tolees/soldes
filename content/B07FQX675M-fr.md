@@ -5,7 +5,7 @@ date: 2020-05-22 23:53:18
 image: 'https://m.media-amazon.com/images/I/319zN8zFD9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FQX675M-fr Clarks Mena Blossom Escarpins Femme Argenté Champagne- 41 EU'
 sku: 'B07FQX675M-fr'
 tags: [  ]

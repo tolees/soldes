@@ -5,7 +5,7 @@ date: 2020-08-20 05:00:52
 image: 'https://m.media-amazon.com/images/I/41CYii4MODL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D68BVQN-fr Disque Dur Externe 2 to USB 3.0 pour PC Mac MacBook Xbox...'
 sku: 'B08D68BVQN-fr'
 tags: [  ]

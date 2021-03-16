@@ -5,7 +5,7 @@ date: 2020-09-20 20:27:54
 image: 'https://m.media-amazon.com/images/I/41FgPf4ouzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CZ8SG25-fr Under Armour UA Qualifier Storm Packable Jacket Veste...'
 sku: 'B07CZ8SG25-fr'
 tags: [  ]

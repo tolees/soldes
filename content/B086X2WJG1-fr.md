@@ -5,7 +5,7 @@ date: 2020-07-24 20:46:09
 image: 'https://m.media-amazon.com/images/I/51bYts5NSGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086X2WJG1-fr Fort Boyard Nouvelle Edition'
 sku: 'B086X2WJG1-fr'
 tags: [  ]

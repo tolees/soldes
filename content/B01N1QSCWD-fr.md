@@ -5,7 +5,7 @@ date: 2020-08-17 05:09:36
 image: 'https://m.media-amazon.com/images/I/413RAfSlYxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N1QSCWD-fr Manix Skyn king size préservatifs - La boite de 20...'
 sku: 'B01N1QSCWD-fr'
 tags: [  ]

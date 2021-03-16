@@ -5,7 +5,7 @@ date: 2020-05-22 23:05:54
 image: 'https://m.media-amazon.com/images/I/311XWzEtyKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075RDL9RR-fr DELSEY PARIS - TURENNE - Valise trolley - 4 doubles roues...'
 sku: 'B075RDL9RR-fr'
 tags: [  ]

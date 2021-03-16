@@ -5,7 +5,7 @@ date: 2020-05-22 23:50:28
 image: 'https://m.media-amazon.com/images/I/31b8rsDTfSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGWDHXV-fr Roy Robson 9.6019E+13 Blouson Bleu Small Taille Fabricant:...'
 sku: 'B07NGWDHXV-fr'
 tags: [  ]

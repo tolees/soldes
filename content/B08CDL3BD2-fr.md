@@ -5,7 +5,7 @@ date: 2020-08-25 11:14:03
 image: 'https://m.media-amazon.com/images/I/51gTdZUbQWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDL3BD2-fr VZATT Go Swing Ouvre-Boîte Topless Can Opener Ouvre-boîtes...'
 sku: 'B08CDL3BD2-fr'
 tags: [  ]

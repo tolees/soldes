@@ -5,7 +5,7 @@ date: 2020-05-23 00:03:40
 image: 'https://m.media-amazon.com/images/I/31zaHJUsA5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GZJ6GG7-fr Coolskins Cool008 Chapka Noir Negro 08 Taille Unique Mixte'
 sku: 'B07GZJ6GG7-fr'
 tags: [  ]

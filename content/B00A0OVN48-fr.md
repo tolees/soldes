@@ -5,7 +5,7 @@ date: 2020-05-22 21:48:22
 image: 'https://m.media-amazon.com/images/I/41SGg88mXbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00A0OVN48-fr Sorel Bottes d Hiver pour Femmes 1964 Pac 2 Gris Coal...'
 sku: 'B00A0OVN48-fr'
 tags: [  ]

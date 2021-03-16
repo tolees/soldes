@@ -5,7 +5,7 @@ date: 2020-05-22 23:28:02
 image: 'https://m.media-amazon.com/images/I/31ldhXYonVL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GVF83WG-fr Replay Anbass Jean Slim Noir Black 7 W34/L32 Taille...'
 sku: 'B07GVF83WG-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-28 09:52:01
 image: 'https://m.media-amazon.com/images/I/41qPQFi-xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B004ZJATWQ-fr Weber 1331004 Bar B Kettle Barbecue à Charbon Noir 57 cm'
 sku: 'B004ZJATWQ-fr'
 tags: [  ]

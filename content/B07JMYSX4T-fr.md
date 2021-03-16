@@ -5,7 +5,7 @@ date: 2020-08-11 16:44:22
 image: 'https://m.media-amazon.com/images/I/41rMortVwpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMYSX4T-fr Bulova Montres Bracelet 97B172'
 sku: 'B07JMYSX4T-fr'
 tags: [  ]

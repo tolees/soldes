@@ -5,7 +5,7 @@ date: 2020-05-22 23:56:44
 image: 'https://m.media-amazon.com/images/I/51mhAiBcO+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TZP9DDX-fr Disney Enfants Coco Sac à Dos'
 sku: 'B07TZP9DDX-fr'
 tags: [  ]

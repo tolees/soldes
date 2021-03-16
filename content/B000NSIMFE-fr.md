@@ -5,7 +5,7 @@ date: 2020-09-24 17:27:31
 image: 'https://m.media-amazon.com/images/I/416NVqFJZoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000NSIMFE-fr Vans U Old Skool Basses Mixte adulte - Noir Black/White...'
 sku: 'B000NSIMFE-fr'
 tags: [  ]

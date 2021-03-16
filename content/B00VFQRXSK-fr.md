@@ -5,7 +5,7 @@ date: 2020-05-22 23:24:13
 image: 'https://m.media-amazon.com/images/I/41E1fpqeB7L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VFQRXSK-fr Samsonite Lite-Shock - Spinner S Bagage à Main 55 cm 36 L...'
 sku: 'B00VFQRXSK-fr'
 tags: [  ]

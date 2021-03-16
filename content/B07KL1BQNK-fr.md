@@ -5,7 +5,7 @@ date: 2020-08-10 15:55:37
 image: 'https://m.media-amazon.com/images/I/41S4gG0yoWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KL1BQNK-fr PAUL & JOE Jpaullove T-Shirt Blanc Blanc/White 01 40...'
 sku: 'B07KL1BQNK-fr'
 tags: [  ]

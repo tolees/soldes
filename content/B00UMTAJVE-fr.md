@@ -5,7 +5,7 @@ date: 2020-08-12 12:58:51
 image: 'https://m.media-amazon.com/images/I/419GbKhJGYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00UMTAJVE-fr little tikes Tricycle 5-in-1 Deluxe Ride & Relax Rouge'
 sku: 'B00UMTAJVE-fr'
 tags: [  ]

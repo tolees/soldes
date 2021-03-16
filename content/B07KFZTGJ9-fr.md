@@ -5,7 +5,7 @@ date: 2020-05-22 23:21:24
 image: 'https://m.media-amazon.com/images/I/41low85jCqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KFZTGJ9-fr PUMA PUMA ONE 5.3 IT Futsal Shoes Unisex Adults’ Black...'
 sku: 'B07KFZTGJ9-fr'
 tags: [  ]

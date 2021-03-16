@@ -5,7 +5,7 @@ date: 2020-06-11 16:06:08
 image: 'https://m.media-amazon.com/images/I/41RFzOT9waL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N27VBW9-fr Cajoline Adoucissant Concentré Doux Pur Hypoallergénique...'
 sku: 'B01N27VBW9-fr'
 tags: [  ]

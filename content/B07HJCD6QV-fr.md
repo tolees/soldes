@@ -5,7 +5,7 @@ date: 2020-09-25 08:57:12
 image: 'https://m.media-amazon.com/images/I/41qFi0JGW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HJCD6QV-fr Funko- Figurines Pop Vinyl: Harry Potter S5: Hermione as...'
 sku: 'B07HJCD6QV-fr'
 tags: [  ]

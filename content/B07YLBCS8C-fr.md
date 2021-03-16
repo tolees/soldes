@@ -5,7 +5,7 @@ date: 2020-05-25 21:44:01
 image: 'https://m.media-amazon.com/images/I/41mw6HXqWDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07YLBCS8C-fr s.Oliver BLACK LABEL 01.899.82.6408 Robe Noir Black AOP...'
 sku: 'B07YLBCS8C-fr'
 tags: [  ]

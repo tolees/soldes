@@ -5,7 +5,7 @@ date: 2020-09-27 15:02:49
 image: 'https://m.media-amazon.com/images/I/51V-7uENQjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088R1RZ4Z-fr Bamoer Support Tablette Support Tablette Réglable -...'
 sku: 'B088R1RZ4Z-fr'
 tags: [  ]

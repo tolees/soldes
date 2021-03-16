@@ -5,7 +5,7 @@ date: 2020-09-27 02:20:11
 image: 'https://m.media-amazon.com/images/I/41ppJ-QssUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G4KSJRM-fr Maegoo Manette Switch Joycon Joycon Switch Pro Manettes...'
 sku: 'B08G4KSJRM-fr'
 tags: [  ]

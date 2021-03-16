@@ -5,7 +5,7 @@ date: 2020-05-23 19:42:39
 image: 'https://m.media-amazon.com/images/I/416tjvMewtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B072C4X2BJ-fr Di4 Jet Pressing – Centrale Vapeur Double système de...'
 sku: 'B072C4X2BJ-fr'
 tags: [  ]

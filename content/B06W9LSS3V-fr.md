@@ -5,7 +5,7 @@ date: 2020-09-28 03:21:23
 image: 'https://m.media-amazon.com/images/I/31syhMT1qaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W9LSS3V-fr Honeywell HYF260E4 Ventilateur Tour QuietSet Puissant et...'
 sku: 'B06W9LSS3V-fr'
 tags: [  ]

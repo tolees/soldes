@@ -5,7 +5,7 @@ date: 2020-08-13 00:17:08
 image: 'https://m.media-amazon.com/images/I/51rjdELlbyL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L77JQFM-fr Funko Pocket Pop! Fortnite: Drift - Vinyl Figure Keychain...'
 sku: 'B07L77JQFM-fr'
 tags: [  ]

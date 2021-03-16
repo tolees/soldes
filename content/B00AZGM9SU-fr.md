@@ -5,7 +5,7 @@ date: 2020-09-11 08:19:39
 image: 'https://m.media-amazon.com/images/I/41Eetu6W6BL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00AZGM9SU-fr Smiffys Perruque de pirate brune avec bandana perles et...'
 sku: 'B00AZGM9SU-fr'
 tags: [  ]

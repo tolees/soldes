@@ -5,7 +5,7 @@ date: 2020-09-30 09:19:31
 image: 'https://m.media-amazon.com/images/I/311Uk9N0xLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07T3HHM55-fr Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction...'
 sku: 'B07T3HHM55-fr'
 tags: [  ]

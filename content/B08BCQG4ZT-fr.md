@@ -5,7 +5,7 @@ date: 2020-10-04 23:19:45
 image: 'https://m.media-amazon.com/images/I/51+LVRs7iML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BCQG4ZT-fr NEW C Lot de 3 Verre Trempé pour Samsung Galaxy S10 Lite...'
 sku: 'B08BCQG4ZT-fr'
 tags: [  ]

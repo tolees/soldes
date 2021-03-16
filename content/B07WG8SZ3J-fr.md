@@ -5,7 +5,7 @@ date: 2020-08-29 13:27:37
 image: 'https://m.media-amazon.com/images/I/31cVp-gfPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WG8SZ3J-fr Radiateur connecté Wifi Princess - 1500 W - Panneau Verre...'
 sku: 'B07WG8SZ3J-fr'
 tags: [  ]

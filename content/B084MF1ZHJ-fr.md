@@ -5,7 +5,7 @@ date: 2020-08-15 17:10:55
 image: 'https://m.media-amazon.com/images/I/41IWXXZS6tL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084MF1ZHJ-fr 2020 Casque Bluetooth sans BYil avec Suppression du Bruit...'
 sku: 'B084MF1ZHJ-fr'
 tags: [  ]

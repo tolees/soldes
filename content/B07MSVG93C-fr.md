@@ -5,7 +5,7 @@ date: 2020-10-06 12:19:22
 image: 'https://m.media-amazon.com/images/I/41AG5k2L+FL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSVG93C-fr Liu Jo Shoes Karlie 14 Sneaker Bordeaux Sneakers Basses...'
 sku: 'B07MSVG93C-fr'
 tags: [  ]

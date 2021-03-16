@@ -5,7 +5,7 @@ date: 2020-05-22 19:58:59
 image: 'https://m.media-amazon.com/images/I/31roI2nSyeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HN3S4MB-fr Philips Hue Kit de démarrage 2 ampoules White Ambiance E14...'
 sku: 'B07HN3S4MB-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-23 17:44:25
 image: 'https://m.media-amazon.com/images/I/41rqVV7+jpL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQM2T6Z-fr Under Armour Men s Official Tour Cap 3.0 Casquette Homme...'
 sku: 'B07JQM2T6Z-fr'
 tags: [  ]

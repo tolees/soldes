@@ -5,7 +5,7 @@ date: 2020-08-08 05:59:19
 image: 'https://m.media-amazon.com/images/I/41cE45ZkZHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086QPQVPB-fr havit Casque Gaming PS4 Casque Gamer RGB avec micro switch...'
 sku: 'B086QPQVPB-fr'
 tags: [  ]

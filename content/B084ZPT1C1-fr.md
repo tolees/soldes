@@ -5,7 +5,7 @@ date: 2020-10-04 12:27:58
 image: 'https://m.media-amazon.com/images/I/31ThihBkdeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B084ZPT1C1-fr Calor Access Steam Pocket Défroisseur design ultra-compact...'
 sku: 'B084ZPT1C1-fr'
 tags: [  ]

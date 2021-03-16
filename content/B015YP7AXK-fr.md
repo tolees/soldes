@@ -5,7 +5,7 @@ date: 2020-10-05 11:04:34
 image: 'https://m.media-amazon.com/images/I/411OfMeZmuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015YP7AXK-fr Beurer MP 100 Ensemble de Manucure Pédicure Blanc'
 sku: 'B015YP7AXK-fr'
 tags: [  ]

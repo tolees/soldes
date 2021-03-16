@@ -5,7 +5,7 @@ date: 2020-08-11 05:21:40
 image: 'https://m.media-amazon.com/images/I/311rM4V965L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GLLF2Z7-fr CYBEX Gold Siège Auto Solution S-Fix Adapté aux Voitures...'
 sku: 'B07GLLF2Z7-fr'
 tags: [  ]

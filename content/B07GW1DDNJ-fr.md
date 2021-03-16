@@ -5,7 +5,7 @@ date: 2020-05-22 23:41:55
 image: 'https://m.media-amazon.com/images/I/41mmRXnp23L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GW1DDNJ-fr Just Dance 2019 - Edition Amazon pour Nintendo Switch'
 sku: 'B07GW1DDNJ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-07-04 08:31:51
 image: 'https://m.media-amazon.com/images/I/412SiQIOYHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01IAD5ZC6-fr Seagate Backup Plus Hub 8 To Disque dur externe de bureau...'
 sku: 'B01IAD5ZC6-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 12:44:52
 image: 'https://m.media-amazon.com/images/I/5184f78SaTL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079KHRR3X-fr Remington Tondeuse Rasoir Corps Homme 5 Sabots Batterie...'
 sku: 'B079KHRR3X-fr'
 tags: [  ]

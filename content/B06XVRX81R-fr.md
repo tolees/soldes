@@ -5,7 +5,7 @@ date: 2020-08-06 15:08:45
 image: 'https://m.media-amazon.com/images/I/41dWnOGxiDL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XVRX81R-fr HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à...'
 sku: 'B06XVRX81R-fr'
 tags: [  ]

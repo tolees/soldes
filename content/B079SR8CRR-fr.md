@@ -5,7 +5,7 @@ date: 2020-06-11 22:15:43
 image: 'https://m.media-amazon.com/images/I/51-pJWo+KKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079SR8CRR-fr Pinypon - 700014086 - Enfants et Bébés Paquet de 6...'
 sku: 'B079SR8CRR-fr'
 tags: [  ]

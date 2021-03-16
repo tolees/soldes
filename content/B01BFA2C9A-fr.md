@@ -5,7 +5,7 @@ date: 2020-10-09 00:11:23
 image: 'https://m.media-amazon.com/images/I/51UobC2tmIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BFA2C9A-fr Emuca 2036020 Lot de 4 roulettes pivotantes pour Meuble...'
 sku: 'B01BFA2C9A-fr'
 tags: [  ]

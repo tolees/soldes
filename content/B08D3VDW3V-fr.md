@@ -5,7 +5,7 @@ date: 2020-09-18 10:04:54
 image: 'https://m.media-amazon.com/images/I/51twmHDKPrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08D3VDW3V-fr Prodisac Forte ® | Haute concentration de Gingsen + Maca +...'
 sku: 'B08D3VDW3V-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-23 00:06:46
 image: 'https://m.media-amazon.com/images/I/31eiJuE3R1L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00WIBVHCE-fr Grohe Mitigeur Évier Eurosmart 32223002 Import Allemagne'
 sku: 'B00WIBVHCE-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-02 02:57:59
 image: 'https://m.media-amazon.com/images/I/41002mkrosL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K6N11VW-fr PHOTO MASTER NP-FZ100 Batterie de rechange 2280 mAh pour...'
 sku: 'B07K6N11VW-fr'
 tags: [  ]

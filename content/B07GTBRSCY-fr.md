@@ -5,7 +5,7 @@ date: 2020-09-24 02:16:39
 image: 'https://m.media-amazon.com/images/I/41jJaaWKNbL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GTBRSCY-fr Sony SRS-XB01 Enceinte portable ultra compacte résistante...'
 sku: 'B07GTBRSCY-fr'
 tags: [  ]

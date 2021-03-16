@@ -5,7 +5,7 @@ date: 2020-05-22 23:33:28
 image: 'https://m.media-amazon.com/images/I/3163TW+0yeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00VH8IHT0-fr Skull Shaver Butterfly Pro Rasoir Électrique Femme Jambes...'
 sku: 'B00VH8IHT0-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 14:49:51
 image: 'https://m.media-amazon.com/images/I/31mxI2gZTIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L2ZHTQZ-fr Chemise Femme Manche Longue Basic Casual - éLéGant Bureau...'
 sku: 'B07L2ZHTQZ-fr'
 tags: [  ]

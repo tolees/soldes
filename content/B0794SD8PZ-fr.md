@@ -5,7 +5,7 @@ date: 2020-08-24 23:44:43
 image: 'https://m.media-amazon.com/images/I/51pmiK0SOML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0794SD8PZ-fr TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32...'
 sku: 'B0794SD8PZ-fr'
 tags: [  ]

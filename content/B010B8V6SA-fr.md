@@ -5,7 +5,7 @@ date: 2020-09-13 05:52:29
 image: 'https://m.media-amazon.com/images/I/41DZEZ8-ZUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B010B8V6SA-fr Panasonic Lumix DMCG7/DMCG70 1442/3.55.6 Lumix G Vario OIS...'
 sku: 'B010B8V6SA-fr'
 tags: [  ]

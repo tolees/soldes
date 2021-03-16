@@ -5,7 +5,7 @@ date: 2020-05-22 20:07:25
 image: 'https://m.media-amazon.com/images/I/41OJ8O9kKPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AY6CHA0-fr UGG Female Mini Bailey Button II Classic Boot Grey 9 UK'
 sku: 'B01AY6CHA0-fr'
 tags: [  ]

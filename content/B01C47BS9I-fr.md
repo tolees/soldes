@@ -5,7 +5,7 @@ date: 2020-08-21 17:44:05
 image: 'https://m.media-amazon.com/images/I/51Zn4zFqxoL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01C47BS9I-fr TRANSFORMERS Robots In Disguise - Robot électronique...'
 sku: 'B01C47BS9I-fr'
 tags: [  ]

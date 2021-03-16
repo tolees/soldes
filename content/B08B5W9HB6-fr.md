@@ -5,7 +5,7 @@ date: 2020-07-16 09:40:46
 image: 'https://m.media-amazon.com/images/I/51et421k6HL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B5W9HB6-fr ORICO Boîtier Disque Dur 2.5 Adaptateur de Lecteur Externe...'
 sku: 'B08B5W9HB6-fr'
 tags: [  ]

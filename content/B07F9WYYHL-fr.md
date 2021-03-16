@@ -5,7 +5,7 @@ date: 2020-08-07 16:04:24
 image: 'https://m.media-amazon.com/images/I/41L5SO1CUOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07F9WYYHL-fr Le Tanneur Sophie Tsop1200 Femmes Noir Noir 6x21x15 cm W x...'
 sku: 'B07F9WYYHL-fr'
 tags: [  ]

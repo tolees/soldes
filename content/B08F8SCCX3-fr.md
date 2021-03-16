@@ -5,7 +5,7 @@ date: 2020-08-18 05:26:07
 image: 'https://m.media-amazon.com/images/I/31wYo0LXo6L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F8SCCX3-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
 sku: 'B08F8SCCX3-fr'
 tags: [  ]

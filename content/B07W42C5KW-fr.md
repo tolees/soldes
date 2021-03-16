@@ -5,7 +5,7 @@ date: 2020-08-24 23:58:44
 image: 'https://m.media-amazon.com/images/I/61cIMStArYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W42C5KW-fr Fivejoy Tapis aquadoodle 150 x 100 cm de Dessin Eau...'
 sku: 'B07W42C5KW-fr'
 tags: [  ]

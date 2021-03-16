@@ -5,7 +5,7 @@ date: 2020-10-12 07:43:45
 image: 'https://m.media-amazon.com/images/I/51mBBl40HML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B019FVZLPI-fr Sac à dos pour cyclistes et utilisateurs de trottinette...'
 sku: 'B019FVZLPI-fr'
 tags: [  ]

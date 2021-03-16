@@ -5,7 +5,7 @@ date: 2020-05-22 19:55:41
 image: 'https://m.media-amazon.com/images/I/313G89ivNwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07HL77LV5-fr Nautica Competition Short Sport Rouge Fire Red 6ey 36...'
 sku: 'B07HL77LV5-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-08 17:21:21
 image: 'https://m.media-amazon.com/images/I/319mOjDge+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CLRRJNX-fr ECCO Soft 7 Ladies Botines Femme Black Stone Metallic...'
 sku: 'B07CLRRJNX-fr'
 tags: [  ]

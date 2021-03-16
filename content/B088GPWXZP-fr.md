@@ -5,7 +5,7 @@ date: 2020-08-20 04:53:49
 image: 'https://m.media-amazon.com/images/I/61j9B9wMzGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088GPWXZP-fr Upworld Kit de Slime Bricolage Kit de Fabrication de Slime...'
 sku: 'B088GPWXZP-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 19:54:13
 image: 'https://m.media-amazon.com/images/I/41pBCcY492L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L8WHN32-fr Replay M1005 .000.573 584 Jean Droit Bleu Medium Blue 9...'
 sku: 'B07L8WHN32-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-19 23:08:03
 image: 'https://m.media-amazon.com/images/I/41n96uf1EHL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XMYGTGQ-fr Ice-Watch - Ice Lo White Blue - Montre Blanche pour Femme...'
 sku: 'B06XMYGTGQ-fr'
 tags: [  ]

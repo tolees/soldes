@@ -5,7 +5,7 @@ date: 2020-09-10 20:08:22
 image: 'https://m.media-amazon.com/images/I/31803WMyK8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLKBBXM-fr RAMPOW Chargeur Secteur USB 24W 2 Ports [Garantie à Vie]...'
 sku: 'B08BLKBBXM-fr'
 tags: [  ]

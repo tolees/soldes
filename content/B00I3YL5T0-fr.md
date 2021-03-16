@@ -5,7 +5,7 @@ date: 2020-05-22 20:24:42
 image: 'https://m.media-amazon.com/images/I/41q+ONwgsXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00I3YL5T0-fr Melitta Machine à Café Automatique Caffeo Solo Noir Pure...'
 sku: 'B00I3YL5T0-fr'
 tags: [  ]

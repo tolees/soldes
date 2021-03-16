@@ -5,7 +5,7 @@ date: 2020-09-30 08:32:54
 image: 'https://m.media-amazon.com/images/I/41o9nDBmwML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075XW7M1B-fr Ultimate Ears Megablast Enceinte sans Fil Portable...'
 sku: 'B075XW7M1B-fr'
 tags: [  ]

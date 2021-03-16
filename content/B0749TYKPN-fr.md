@@ -5,7 +5,7 @@ date: 2020-08-22 19:14:07
 image: 'https://m.media-amazon.com/images/I/41YbmiOp5zL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749TYKPN-fr Illy Café Moulu Moka Classico 12 x 250 gr'
 sku: 'B0749TYKPN-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 21:18:48
 image: 'https://m.media-amazon.com/images/I/41FeEIbUkXL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KRKVDC1-fr Art 1253 Becerro Creta Sandales Bout Ouvert Femme Marron...'
 sku: 'B07KRKVDC1-fr'
 tags: [  ]

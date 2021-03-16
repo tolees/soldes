@@ -5,7 +5,7 @@ date: 2020-08-26 19:44:55
 image: 'https://m.media-amazon.com/images/I/512QUJFXYtL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01AYZZP5U-fr Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-...'
 sku: 'B01AYZZP5U-fr'
 tags: [  ]

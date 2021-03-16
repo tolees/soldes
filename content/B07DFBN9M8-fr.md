@@ -5,7 +5,7 @@ date: 2020-09-18 09:57:07
 image: 'https://m.media-amazon.com/images/I/4187-6bKHCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DFBN9M8-fr Lenor Unstoppables Parfum de Linge en Perles Parfum Aérien...'
 sku: 'B07DFBN9M8-fr'
 tags: [  ]

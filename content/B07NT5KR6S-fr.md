@@ -5,7 +5,7 @@ date: 2020-05-22 21:03:04
 image: 'https://m.media-amazon.com/images/I/41x0R6vQU-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NT5KR6S-fr Extel – Visiophone Connect – avec Grand Écran 18cm et...'
 sku: 'B07NT5KR6S-fr'
 tags: [  ]

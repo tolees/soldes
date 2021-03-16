@@ -5,7 +5,7 @@ date: 2020-08-25 20:27:54
 image: 'https://m.media-amazon.com/images/I/51B0cjtxnuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07ZF7YFVK-fr COOCHEER Purificateur d air avec Réel Filtre HEPA et...'
 sku: 'B07ZF7YFVK-fr'
 tags: [  ]

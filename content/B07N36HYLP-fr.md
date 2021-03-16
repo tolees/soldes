@@ -5,7 +5,7 @@ date: 2020-08-10 15:55:44
 image: 'https://m.media-amazon.com/images/I/41wGicwDbfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N36HYLP-fr BRAX Golf Julius Veste de Sport Bleu Blau 25 X-Large Homme'
 sku: 'B07N36HYLP-fr'
 tags: [  ]

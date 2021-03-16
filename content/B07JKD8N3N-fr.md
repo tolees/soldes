@@ -5,7 +5,7 @@ date: 2020-05-22 23:05:56
 image: 'https://m.media-amazon.com/images/I/318wiLobOcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKD8N3N-fr LAGOSTINA SALVASPAZIO 012135031016 Casserole 16 cm inox...'
 sku: 'B07JKD8N3N-fr'
 tags: [  ]

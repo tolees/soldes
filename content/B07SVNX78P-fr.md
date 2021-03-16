@@ -5,7 +5,7 @@ date: 2020-09-17 15:44:46
 image: 'https://m.media-amazon.com/images/I/31odDJnEBwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SVNX78P-fr ROCCAT Kain 120 AIMO Souris Gaming RGB nouveau capteur...'
 sku: 'B07SVNX78P-fr'
 tags: [  ]

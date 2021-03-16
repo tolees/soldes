@@ -5,7 +5,7 @@ date: 2020-05-23 12:28:16
 image: 'https://m.media-amazon.com/images/I/41w3Zb4aOPL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B001GKJVGW-fr Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595'
 sku: 'B001GKJVGW-fr'
 tags: [  ]

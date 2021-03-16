@@ -5,7 +5,7 @@ date: 2020-09-13 09:02:15
 image: 'https://m.media-amazon.com/images/I/418I9NKVamL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08G8CZYR1-fr Maegoo Manette PS4 sans Fil Bluetooth Dualshock 4 Manette...'
 sku: 'B08G8CZYR1-fr'
 tags: [  ]

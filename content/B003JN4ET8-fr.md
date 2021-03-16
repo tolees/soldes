@@ -5,7 +5,7 @@ date: 2020-10-12 04:15:07
 image: 'https://m.media-amazon.com/images/I/414qijbftKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B003JN4ET8-fr Exacompta - Réf. 5900E - Etui carton de 100 pochettes...'
 sku: 'B003JN4ET8-fr'
 tags: [  ]

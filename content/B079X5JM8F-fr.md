@@ -5,7 +5,7 @@ date: 2020-10-12 13:44:12
 image: 'https://m.media-amazon.com/images/I/41dMpSEoYEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079X5JM8F-fr Yard Force - Nettoyeur Haute Pression pour usage intensif...'
 sku: 'B079X5JM8F-fr'
 tags: [  ]

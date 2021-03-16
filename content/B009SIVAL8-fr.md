@@ -5,7 +5,7 @@ date: 2020-05-22 21:24:56
 image: 'https://m.media-amazon.com/images/I/41cw9ylPb8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B009SIVAL8-fr Samsonite S Cure - Spinner S Bagage à Main 55 cm 34 L Blue...'
 sku: 'B009SIVAL8-fr'
 tags: [  ]

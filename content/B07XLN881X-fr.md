@@ -5,7 +5,7 @@ date: 2020-08-20 13:24:32
 image: 'https://m.media-amazon.com/images/I/41P2wnjbPsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XLN881X-fr Alienware AW3420DW Ecran PC Gaming 34" Full HD 3440 x 1440...'
 sku: 'B07XLN881X-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-08 17:42:00
 image: 'https://m.media-amazon.com/images/I/31VtwjCBfQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BHSGYMF-fr Cube lumineux enceinte bluetooth sans fil LED...'
 sku: 'B07BHSGYMF-fr'
 tags: [  ]

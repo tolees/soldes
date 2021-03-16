@@ -5,7 +5,7 @@ date: 2020-06-09 04:01:34
 image: 'https://m.media-amazon.com/images/I/51BX1T6ZcnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07B12HMPR-fr LEGO Unikitty - La voiture dans les nuages de Unikitty -...'
 sku: 'B07B12HMPR-fr'
 tags: [  ]

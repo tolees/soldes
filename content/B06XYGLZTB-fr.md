@@ -5,7 +5,7 @@ date: 2020-08-26 08:20:04
 image: 'https://m.media-amazon.com/images/I/31CgQhK+EFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XYGLZTB-fr AVANTEK D-3F 400m de Portée Sonnettes sans Fil Kit de...'
 sku: 'B06XYGLZTB-fr'
 tags: [  ]

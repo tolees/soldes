@@ -5,7 +5,7 @@ date: 2020-09-03 22:20:58
 image: 'https://m.media-amazon.com/images/I/51hgxCHT9iL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FNTTF41-fr LEGO® Marvel Super Heroes™ Captain America et l attaque...'
 sku: 'B07FNTTF41-fr'
 tags: [  ]

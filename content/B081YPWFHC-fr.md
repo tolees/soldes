@@ -5,7 +5,7 @@ date: 2020-08-05 12:31:14
 image: 'https://m.media-amazon.com/images/I/41odB5s4NzL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B081YPWFHC-fr Aschef Ensemble d Ustensiles de Cuisine en Slicone Lot de...'
 sku: 'B081YPWFHC-fr'
 tags: [  ]

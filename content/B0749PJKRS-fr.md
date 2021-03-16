@@ -5,7 +5,7 @@ date: 2020-09-28 20:22:54
 image: 'https://m.media-amazon.com/images/I/41-bxKPCACL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0749PJKRS-fr CRAZYCHIC - Bague Elastique Taille Réglable Ajustable...'
 sku: 'B0749PJKRS-fr'
 tags: [  ]

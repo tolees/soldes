@@ -5,7 +5,7 @@ date: 2020-05-28 07:34:05
 image: 'https://m.media-amazon.com/images/I/41qQBxGnttL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B082FVMD8F-fr Gardena 15005-47 SILENO city 300 Robot tondeuse Gris...'
 sku: 'B082FVMD8F-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-15 12:21:55
 image: 'https://m.media-amazon.com/images/I/51+qzUyl1JL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DXVVLT1-fr J TOHLO Electric Pro Hair Clippers Rechargeable sans fil...'
 sku: 'B08DXVVLT1-fr'
 tags: [  ]

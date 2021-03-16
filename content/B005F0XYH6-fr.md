@@ -5,7 +5,7 @@ date: 2020-05-22 22:51:15
 image: 'https://m.media-amazon.com/images/I/31E8WRTULfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B005F0XYH6-fr Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135...'
 sku: 'B005F0XYH6-fr'
 tags: [  ]

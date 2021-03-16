@@ -5,7 +5,7 @@ date: 2020-05-22 23:09:41
 image: 'https://m.media-amazon.com/images/I/311gvyZbOiL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KF67L2Z-fr Levi s Housemark Polo Noir Mineral Black 0080 Small Homme'
 sku: 'B07KF67L2Z-fr'
 tags: [  ]

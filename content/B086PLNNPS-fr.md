@@ -5,7 +5,7 @@ date: 2020-10-02 05:03:24
 image: 'https://m.media-amazon.com/images/I/51ECRj7HZcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B086PLNNPS-fr CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4'
 sku: 'B086PLNNPS-fr'
 tags: [  ]

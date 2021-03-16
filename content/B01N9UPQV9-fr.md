@@ -5,7 +5,7 @@ date: 2020-09-13 15:19:35
 image: 'https://m.media-amazon.com/images/I/41Wf0Yg9VCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N9UPQV9-fr Levi s The Perfect Tee T-Shirt - Femme-Blanc Sportswear...'
 sku: 'B01N9UPQV9-fr'
 tags: [  ]

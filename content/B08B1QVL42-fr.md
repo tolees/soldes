@@ -5,7 +5,7 @@ date: 2020-09-12 14:49:41
 image: 'https://m.media-amazon.com/images/I/41j86+Q7KZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08B1QVL42-fr Chargeur Secteur et Câble USB C pour Xiaomi Redmi Note 9...'
 sku: 'B08B1QVL42-fr'
 tags: [  ]

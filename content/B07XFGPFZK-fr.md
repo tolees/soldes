@@ -5,7 +5,7 @@ date: 2020-08-20 04:52:03
 image: 'https://m.media-amazon.com/images/I/41SUFKQLoBL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07XFGPFZK-fr Sabrent SSD interne Rocket 500GB Nvme PCIe 4.0 M.2 2280...'
 sku: 'B07XFGPFZK-fr'
 tags: [  ]

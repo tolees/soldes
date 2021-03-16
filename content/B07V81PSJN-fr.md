@@ -5,7 +5,7 @@ date: 2020-08-07 07:07:02
 image: 'https://m.media-amazon.com/images/I/41fePW7yPsL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07V81PSJN-fr Faure FKM-804MP1 Robot Pâtissier Magic Baker Premiuim -...'
 sku: 'B07V81PSJN-fr'
 tags: [  ]

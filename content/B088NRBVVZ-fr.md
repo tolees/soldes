@@ -5,7 +5,7 @@ date: 2020-09-16 22:02:14
 image: 'https://m.media-amazon.com/images/I/51CG6NW578L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B088NRBVVZ-fr EasySMX Manettes Switch Manette pour Nintendo Switch...'
 sku: 'B088NRBVVZ-fr'
 tags: [  ]

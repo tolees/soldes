@@ -5,7 +5,7 @@ date: 2020-05-22 21:05:25
 image: 'https://m.media-amazon.com/images/I/21QBAOVua8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B075KQFQQ9-fr Boucles d oreilles or tricolore"Trianon"'
 sku: 'B075KQFQQ9-fr'
 tags: [  ]

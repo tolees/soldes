@@ -5,7 +5,7 @@ date: 2020-09-22 01:30:34
 image: 'https://m.media-amazon.com/images/I/41FX2+WFXIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0893QV2MC-fr Volant de course de jeu Volant à force d entraînement de...'
 sku: 'B0893QV2MC-fr'
 tags: [  ]

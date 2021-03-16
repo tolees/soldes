@@ -5,7 +5,7 @@ date: 2020-05-22 22:44:38
 image: 'https://m.media-amazon.com/images/I/41+P-koJyML._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07FL5JJNX-fr Superdry Crater Padded Jacket Veste de Sport Noir Black...'
 sku: 'B07FL5JJNX-fr'
 tags: [  ]

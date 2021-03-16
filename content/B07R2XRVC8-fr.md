@@ -5,7 +5,7 @@ date: 2020-05-28 19:46:16
 image: 'https://m.media-amazon.com/images/I/41NtkB5LMSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07R2XRVC8-fr Under Armour Forefront Rain Veste Homme Bleu XL'
 sku: 'B07R2XRVC8-fr'
 tags: [  ]

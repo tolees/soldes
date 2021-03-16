@@ -5,7 +5,7 @@ date: 2020-10-04 09:00:33
 image: 'https://m.media-amazon.com/images/I/41ugGYkk4hL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00V2QPEFW-fr Columbia Zero Rules Haut à Manches Longues Homme'
 sku: 'B00V2QPEFW-fr'
 tags: [  ]

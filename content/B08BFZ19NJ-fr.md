@@ -5,7 +5,7 @@ date: 2020-07-24 12:21:23
 image: 'https://m.media-amazon.com/images/I/31BWzhiYTIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BFZ19NJ-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
 sku: 'B08BFZ19NJ-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-22 20:19:30
 image: 'https://m.media-amazon.com/images/I/41G9cCG8DwL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BNSQWPQ-fr RAMPOW Câble USB C vers USB C 100W 2m Câble USB Type C...'
 sku: 'B08BNSQWPQ-fr'
 tags: [  ]

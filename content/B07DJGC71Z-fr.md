@@ -5,7 +5,7 @@ date: 2020-08-16 09:27:15
 image: 'https://m.media-amazon.com/images/I/5150aKX+V8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DJGC71Z-fr Fujifilm 70100138933 Pack Découverte Instax Mini 9 avec...'
 sku: 'B07DJGC71Z-fr'
 tags: [  ]

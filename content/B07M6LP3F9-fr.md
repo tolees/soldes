@@ -5,7 +5,7 @@ date: 2020-09-22 21:37:01
 image: 'https://m.media-amazon.com/images/I/41vMar8dgdL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M6LP3F9-fr 1MORE écouteurs véritables sans fil Bluetooth 5.0 lecture...'
 sku: 'B07M6LP3F9-fr'
 tags: [  ]

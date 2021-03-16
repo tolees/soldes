@@ -5,7 +5,7 @@ date: 2020-08-09 09:04:07
 image: 'https://m.media-amazon.com/images/I/31798xQqp5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07K1BC7JR-fr LLloyd Goliath Derbys Homme Marron Cognac 3 40.5 EU'
 sku: 'B07K1BC7JR-fr'
 tags: [  ]

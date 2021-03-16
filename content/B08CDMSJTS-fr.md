@@ -5,7 +5,7 @@ date: 2020-07-16 21:59:13
 image: 'https://m.media-amazon.com/images/I/31HK0iigQqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDMSJTS-fr eXtremeRate Joystick de Remplacement 3D Bicolores Stick...'
 sku: 'B08CDMSJTS-fr'
 tags: [  ]

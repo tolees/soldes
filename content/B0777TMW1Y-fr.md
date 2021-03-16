@@ -5,7 +5,7 @@ date: 2020-05-22 21:36:52
 image: 'https://m.media-amazon.com/images/I/31XT8u4J0rL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0777TMW1Y-fr Arlo Pro 2 | Caméra de surveillance 100% Sans Fils - Pack...'
 sku: 'B0777TMW1Y-fr'
 tags: [  ]

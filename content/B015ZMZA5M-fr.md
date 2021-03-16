@@ -5,7 +5,7 @@ date: 2020-08-08 20:05:38
 image: 'https://m.media-amazon.com/images/I/416NAcaz2VL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B015ZMZA5M-fr SCHEPPACH PL285 Scie Plongeante légère avec Guide Laser de...'
 sku: 'B015ZMZA5M-fr'
 tags: [  ]

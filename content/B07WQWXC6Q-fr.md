@@ -5,7 +5,7 @@ date: 2020-08-07 06:27:13
 image: 'https://m.media-amazon.com/images/I/51Xn8vFOuGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WQWXC6Q-fr ALLPOWERS 50W 12V 18V Monocrystalline Solar Panel with...'
 sku: 'B07WQWXC6Q-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-24 23:57:05
 image: 'https://m.media-amazon.com/images/I/41ECABb6Z8L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DKFWHGV-fr Disque Dur Externe 2to USB3.0 pour PC Mac Ordinateur de...'
 sku: 'B08DKFWHGV-fr'
 tags: [  ]

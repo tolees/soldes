@@ -5,7 +5,7 @@ date: 2020-09-12 11:56:52
 image: 'https://m.media-amazon.com/images/I/31d3EOAnjrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LX2SKMX-fr Belkin Batterie externe Valet Charger pour Apple Watch et...'
 sku: 'B01LX2SKMX-fr'
 tags: [  ]

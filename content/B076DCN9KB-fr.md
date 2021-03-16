@@ -5,7 +5,7 @@ date: 2020-05-22 21:42:42
 image: 'https://m.media-amazon.com/images/I/41oQ9NQDJAL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076DCN9KB-fr Carl Victor - Poêle Grill en Fonte 28 cm Poignée en Bois...'
 sku: 'B076DCN9KB-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 14:41:43
 image: 'https://m.media-amazon.com/images/I/31fsgk0rCaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DJ4C7KN-fr Disque Dur Externe 1to USB3.0 pour PC Mac MacBook Xbox One...'
 sku: 'B08DJ4C7KN-fr'
 tags: [  ]

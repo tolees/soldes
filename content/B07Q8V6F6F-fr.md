@@ -5,7 +5,7 @@ date: 2020-05-22 21:59:58
 image: 'https://m.media-amazon.com/images/I/41r4sHLr5IL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07Q8V6F6F-fr Dockers by Gerli 43lu001 Bottes Rangers Homme Noir Schwarz...'
 sku: 'B07Q8V6F6F-fr'
 tags: [  ]

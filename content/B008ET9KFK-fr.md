@@ -5,7 +5,7 @@ date: 2020-09-11 08:19:53
 image: 'https://m.media-amazon.com/images/I/41p9045mxnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008ET9KFK-fr KS TOOLS 999.0120 Caisse à outils métallique 5...'
 sku: 'B008ET9KFK-fr'
 tags: [  ]

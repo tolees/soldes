@@ -5,7 +5,7 @@ date: 2020-08-09 19:21:31
 image: 'https://m.media-amazon.com/images/I/412b5umPcKL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TV6Z51H-fr Levi s 510 Skinny Fit Jeans Noce Cool 1051 33W / 30L Homme'
 sku: 'B07TV6Z51H-fr'
 tags: [  ]

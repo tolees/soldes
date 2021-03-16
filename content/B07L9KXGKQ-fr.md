@@ -5,7 +5,7 @@ date: 2020-09-21 08:29:44
 image: 'https://m.media-amazon.com/images/I/31wKfsBzekL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L9KXGKQ-fr Under Armour Accelerate Terrace II Veste Homme Noir L'
 sku: 'B07L9KXGKQ-fr'
 tags: [  ]

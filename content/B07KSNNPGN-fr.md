@@ -5,7 +5,7 @@ date: 2020-05-22 22:25:40
 image: 'https://m.media-amazon.com/images/I/31C+pL0JxvL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KSNNPGN-fr Love Moschino Love Mode Print Short Sleeve T-Shirt White...'
 sku: 'B07KSNNPGN-fr'
 tags: [  ]

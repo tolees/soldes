@@ -5,7 +5,7 @@ date: 2020-08-21 23:06:45
 image: 'https://m.media-amazon.com/images/I/411IVaeWvnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08FMCK2D7-fr GRDE Montre Connectée Smartwatch Bluetooth Montre Sport...'
 sku: 'B08FMCK2D7-fr'
 tags: [  ]

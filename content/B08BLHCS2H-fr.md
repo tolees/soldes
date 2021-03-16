@@ -5,7 +5,7 @@ date: 2020-09-23 01:55:41
 image: 'https://m.media-amazon.com/images/I/41-KLHzbgNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08BLHCS2H-fr LIGHTAILING Jeu De Lumières pour Architecture Dubaï Modèle...'
 sku: 'B08BLHCS2H-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-09-12 10:20:33
 image: 'https://m.media-amazon.com/images/I/41Lv9Cs5fSL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SK3KB9R-fr Corsair HS35 Casque de Gaming Stéréo Écouteurs Néodyme de...'
 sku: 'B07SK3KB9R-fr'
 tags: [  ]

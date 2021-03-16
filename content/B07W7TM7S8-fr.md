@@ -5,7 +5,7 @@ date: 2020-08-27 06:23:48
 image: 'https://m.media-amazon.com/images/I/51P84hLVmcL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7TM7S8-fr LEGO DUPLO Frozen II Le goûter d Elsa et Olaf Grand...'
 sku: 'B07W7TM7S8-fr'
 tags: [  ]

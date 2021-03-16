@@ -5,7 +5,7 @@ date: 2020-10-03 11:13:02
 image: 'https://m.media-amazon.com/images/I/41J8TpJvqOL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N0SVLRH-fr Réparer Les Vivants [DVD + Copie Digitale]'
 sku: 'B01N0SVLRH-fr'
 tags: [  ]

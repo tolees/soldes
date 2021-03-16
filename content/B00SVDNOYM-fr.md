@@ -5,7 +5,7 @@ date: 2020-08-08 08:27:42
 image: 'https://m.media-amazon.com/images/I/51t42WuTyNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00SVDNOYM-fr Aigle - Tenere Light Cvs Ltr - Chaussure de randonnée -...'
 sku: 'B00SVDNOYM-fr'
 tags: [  ]

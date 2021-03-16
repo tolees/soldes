@@ -5,7 +5,7 @@ date: 2020-08-07 12:21:13
 image: 'https://m.media-amazon.com/images/I/41lmBkVmvLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08DHTD27J-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
 sku: 'B08DHTD27J-fr'
 tags: [  ]

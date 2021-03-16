@@ -5,7 +5,7 @@ date: 2020-09-28 16:08:57
 image: 'https://m.media-amazon.com/images/I/51kdFqH-TGL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07PZ8LFXK-fr Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket...'
 sku: 'B07PZ8LFXK-fr'
 tags: [  ]

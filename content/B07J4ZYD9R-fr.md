@@ -5,7 +5,7 @@ date: 2020-09-27 20:55:01
 image: 'https://m.media-amazon.com/images/I/41EN+tbkoNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07J4ZYD9R-fr SANFASHION Solde Sweat Femme avec Capuche Chat Cadeau...'
 sku: 'B07J4ZYD9R-fr'
 tags: [  ]

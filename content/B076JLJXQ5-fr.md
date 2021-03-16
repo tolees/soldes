@@ -5,7 +5,7 @@ date: 2020-09-24 09:51:37
 image: 'https://m.media-amazon.com/images/I/41olODRsr0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B076JLJXQ5-fr Braun Oral-B Pro 1 - 750 - Brosse à Dents Électrique...'
 sku: 'B076JLJXQ5-fr'
 tags: [  ]

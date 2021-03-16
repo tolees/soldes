@@ -5,7 +5,7 @@ date: 2020-08-24 23:35:02
 image: 'https://m.media-amazon.com/images/I/31iChg-93yL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CDNHWSC-fr Disque Dur Externe 2to Disque Dur Externe USB3.1 Type-C...'
 sku: 'B08CDNHWSC-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-18 11:06:44
 image: 'https://m.media-amazon.com/images/I/51nBWF6wWFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0821RTSMV-fr BONNYCO Tableau Magique Enfant A4 et A5 6 Pochoirs et 2...'
 sku: 'B0821RTSMV-fr'
 tags: [  ]

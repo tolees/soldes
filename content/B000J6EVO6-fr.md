@@ -5,7 +5,7 @@ date: 2020-09-28 14:52:21
 image: 'https://m.media-amazon.com/images/I/41oxfRnyr0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B000J6EVO6-fr Rotring S0676580 Sanford Compas à réglage rapide 360 / 170...'
 sku: 'B000J6EVO6-fr'
 tags: [  ]

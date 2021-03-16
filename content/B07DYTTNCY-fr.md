@@ -5,7 +5,7 @@ date: 2020-09-14 19:04:36
 image: 'https://m.media-amazon.com/images/I/41ajXJT7aRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07DYTTNCY-fr Columbia Homme Veste d Hiver Marquam Peak Jacket Polyester...'
 sku: 'B07DYTTNCY-fr'
 tags: [  ]

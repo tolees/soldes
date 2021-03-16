@@ -5,7 +5,7 @@ date: 2020-08-04 06:16:27
 image: 'https://m.media-amazon.com/images/I/41Xqed8Kg5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B089NMSQ3T-fr bakibo Écouteurs sans Fil Bluetooth 5.1 Stéréo Sport...'
 sku: 'B089NMSQ3T-fr'
 tags: [  ]

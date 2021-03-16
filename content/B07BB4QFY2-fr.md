@@ -5,7 +5,7 @@ date: 2020-09-07 06:25:05
 image: 'https://m.media-amazon.com/images/I/41+ac7blNCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BB4QFY2-fr Marshall Mid Active Noise Cancelling A.N.C. Headphones...'
 sku: 'B07BB4QFY2-fr'
 tags: [  ]

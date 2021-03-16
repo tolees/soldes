@@ -5,7 +5,7 @@ date: 2020-09-26 08:39:09
 image: 'https://m.media-amazon.com/images/I/31IbfP0ADJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07KC3HPVN-fr ACCUWEIGHT Balance de Cuisine Électronique Balance...'
 sku: 'B07KC3HPVN-fr'
 tags: [  ]

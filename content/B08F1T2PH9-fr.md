@@ -5,7 +5,7 @@ date: 2020-08-06 12:45:14
 image: 'https://m.media-amazon.com/images/I/41pki7w97TL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08F1T2PH9-fr Nativi Troll Bluetooth Écouteurs sans Fil Casques sans Fil...'
 sku: 'B08F1T2PH9-fr'
 tags: [  ]

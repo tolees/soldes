@@ -5,7 +5,7 @@ date: 2020-05-22 22:47:18
 image: 'https://m.media-amazon.com/images/I/31dyGHpDqRL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00E49YRU2-fr Bosch L5013 Batterie décharge lente 12V 90Ah 800A -...'
 sku: 'B00E49YRU2-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-05-22 19:59:10
 image: 'https://m.media-amazon.com/images/I/41maWoNvOFL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07GJGKMVR-fr Chicco - Lit Cododo Next2Me Dream - Berceau bébé - Luna'
 sku: 'B07GJGKMVR-fr'
 tags: [  ]

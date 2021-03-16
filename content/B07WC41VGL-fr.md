@@ -5,7 +5,7 @@ date: 2021-03-08 14:31:52
 image: 'https://m.media-amazon.com/images/I/41xj4U9EleL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WC41VGL-fr Tommy Hilfiger Homme Strght Denton Sstr Elgin Blue Loose...'
 sku: 'B07WC41VGL-fr'
 tags: [ 'tommy hilfiger', ]

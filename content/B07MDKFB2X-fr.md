@@ -5,7 +5,7 @@ date: 2020-05-22 22:21:30
 image: 'https://m.media-amazon.com/images/I/413Pll-7fCL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MDKFB2X-fr Lacoste BJ8097 Blouson Bleu Sinople/Marine Dq5 14 Ans...'
 sku: 'B07MDKFB2X-fr'
 tags: [  ]

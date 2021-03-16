@@ -5,7 +5,7 @@ date: 2020-08-27 06:23:55
 image: 'https://m.media-amazon.com/images/I/51B8-81aIqL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07WLMV14S-fr LEGO DUPLO La boîte de briques deluxe Ensemble de...'
 sku: 'B07WLMV14S-fr'
 tags: [  ]

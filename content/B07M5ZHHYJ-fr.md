@@ -5,7 +5,7 @@ date: 2020-05-29 17:08:41
 image: 'https://m.media-amazon.com/images/I/41TGYQVqtQL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07M5ZHHYJ-fr Supra Vaider Chaussures de Skateboard Mixte Adulte Rouge...'
 sku: 'B07M5ZHHYJ-fr'
 tags: [  ]

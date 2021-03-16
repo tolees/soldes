@@ -5,7 +5,7 @@ date: 2020-05-22 23:20:58
 image: 'https://m.media-amazon.com/images/I/41pzEbffs3L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CYW741S-fr Razer Huntsman-Clavier Gaming Mécanique avec Touche Opto-...'
 sku: 'B07CYW741S-fr'
 tags: [  ]

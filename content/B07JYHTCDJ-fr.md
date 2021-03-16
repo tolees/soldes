@@ -5,7 +5,7 @@ date: 2020-05-22 20:32:25
 image: 'https://m.media-amazon.com/images/I/311lPlRJRnL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JYHTCDJ-fr Tommy Hilfiger Gramercy Tapered Hw A Jean Droit Bleu Tana...'
 sku: 'B07JYHTCDJ-fr'
 tags: [  ]

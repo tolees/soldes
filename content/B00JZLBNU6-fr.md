@@ -5,7 +5,7 @@ date: 2020-05-22 23:31:07
 image: 'https://m.media-amazon.com/images/I/31ZaQK5lWEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00JZLBNU6-fr BLACK+DECKER PV1820L-QW Aspirateur à Main sans fil-18...'
 sku: 'B00JZLBNU6-fr'
 tags: [  ]

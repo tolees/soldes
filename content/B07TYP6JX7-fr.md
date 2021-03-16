@@ -5,7 +5,7 @@ date: 2020-09-24 02:01:17
 image: 'https://m.media-amazon.com/images/I/41kcSu-WXfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07TYP6JX7-fr SOKY Jouets pour Garçons de 3-8 Ans Garcon Cadeau Robot...'
 sku: 'B07TYP6JX7-fr'
 tags: [  ]

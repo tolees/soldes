@@ -5,7 +5,7 @@ date: 2020-05-23 00:10:29
 image: 'https://m.media-amazon.com/images/I/31kgcEx9yUL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0043YJ0MI-fr APC Power-Saving Back-UPS PRO - BR900G-FR - Onduleur 900VA...'
 sku: 'B0043YJ0MI-fr'
 tags: [  ]

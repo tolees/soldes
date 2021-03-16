@@ -5,7 +5,7 @@ date: 2020-05-22 22:04:21
 image: 'https://m.media-amazon.com/images/I/41uO-yviaJL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07BPB8CT4-fr Wrangler Slider Jeans Homme Bleu Blue Charm 24Z 32W / 34L'
 sku: 'B07BPB8CT4-fr'
 tags: [  ]

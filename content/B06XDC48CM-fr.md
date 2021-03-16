@@ -5,7 +5,7 @@ date: 2020-08-26 11:46:01
 image: 'https://m.media-amazon.com/images/I/51AovIdRW0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06XDC48CM-fr BIC Kids Kid Couleur Feutres de Coloriage à Pointe Moyenne...'
 sku: 'B06XDC48CM-fr'
 tags: [  ]

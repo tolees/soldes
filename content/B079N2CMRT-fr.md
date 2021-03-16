@@ -5,7 +5,7 @@ date: 2020-08-11 00:12:45
 image: 'https://m.media-amazon.com/images/I/51P27Vja8uL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B079N2CMRT-fr Playmobil - Maison de Lucky - 9475'
 sku: 'B079N2CMRT-fr'
 tags: [  ]

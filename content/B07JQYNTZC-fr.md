@@ -5,7 +5,7 @@ date: 2020-05-23 00:11:03
 image: 'https://m.media-amazon.com/images/I/41DKJz1MDLL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JQYNTZC-fr Tommy Hilfiger Ebru Shirt Ls W3 Chemise Soft We STP...'
 sku: 'B07JQYNTZC-fr'
 tags: [  ]

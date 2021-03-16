@@ -5,7 +5,7 @@ date: 2020-08-05 00:09:20
 image: 'https://m.media-amazon.com/images/I/61qoMdqJ+wL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LYFR96U-fr Playmobil - Porsche 911 GT3 Cup - 9225'
 sku: 'B01LYFR96U-fr'
 tags: [  ]

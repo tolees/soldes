@@ -5,7 +5,7 @@ date: 2020-05-26 21:54:26
 image: 'https://m.media-amazon.com/images/I/31EUEo2uDZL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07MSK5Z2S-fr Clarks Ronnie Limit Brogues Homme Cuir Brun 43 EU'
 sku: 'B07MSK5Z2S-fr'
 tags: [  ]

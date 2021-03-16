@@ -5,7 +5,7 @@ date: 2020-10-07 12:09:15
 image: 'https://m.media-amazon.com/images/I/51q5SlfqGjL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08KG1M4S1-fr TENGER Technic Excavatrice Blocs de Construction 2.4Ghz...'
 sku: 'B08KG1M4S1-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-07 05:46:15
 image: 'https://m.media-amazon.com/images/I/51jqqMDPN-L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L86DVZ7-fr Senbos Portefeuille Homme en Cuir Véritable 18...'
 sku: 'B07L86DVZ7-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-10-09 07:57:57
 image: 'https://m.media-amazon.com/images/I/31u-WeBzh2L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CN8XFVD-fr Crocs Classic Sabots Mixte Adulte Violet Neon Purple 36/37 EU'
 sku: 'B07CN8XFVD-fr'
 tags: [  ]

@@ -5,7 +5,7 @@ date: 2020-08-17 11:08:30
 image: 'https://m.media-amazon.com/images/I/31e2Ke-CLIL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085KW8NG2-fr TOPERSUN Distributeur Savon Mousse Automatique...'
 sku: 'B085KW8NG2-fr'
 tags: [  ]

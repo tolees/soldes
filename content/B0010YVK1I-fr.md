@@ -5,7 +5,7 @@ date: 2020-08-21 09:10:52
 image: 'https://m.media-amazon.com/images/I/41+alPWKw9L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0010YVK1I-fr Timberland Classic 2-Eye Chaussures Bateau Femme Bleu MD...'
 sku: 'B0010YVK1I-fr'
 tags: [  ]

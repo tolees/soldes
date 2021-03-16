@@ -5,7 +5,7 @@ date: 2020-09-17 15:11:37
 image: 'https://m.media-amazon.com/images/I/41gwoiqHR4L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00940JHII-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Femme - Vert...'
 sku: 'B00940JHII-fr'
 tags: [  ]

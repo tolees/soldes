@@ -5,7 +5,7 @@ date: 2020-05-22 23:32:06
 image: 'https://m.media-amazon.com/images/I/41uOQVOFCNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N1BWZJ1-fr Legero Novara Bottes de Neige femme - Noir Schwarz Schwarz...'
 sku: 'B07N1BWZJ1-fr'
 tags: [  ]

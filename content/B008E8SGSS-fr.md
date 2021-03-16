@@ -5,7 +5,7 @@ date: 2020-09-18 07:11:15
 image: 'https://m.media-amazon.com/images/I/31QLv+sgqlL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B008E8SGSS-fr Lacoste - Polo - L1230-00 - Sport - Homme - Noir Noir -...'
 sku: 'B008E8SGSS-fr'
 tags: [  ]

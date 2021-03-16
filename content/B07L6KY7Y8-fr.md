@@ -5,7 +5,7 @@ date: 2020-09-18 15:09:23
 image: 'https://m.media-amazon.com/images/I/41+9xJ3OxYL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07L6KY7Y8-fr Under Armour Armour Insulated Hooded Veste Femme Noir FR :...'
 sku: 'B07L6KY7Y8-fr'
 tags: [  ]

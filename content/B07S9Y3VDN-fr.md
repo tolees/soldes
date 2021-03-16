@@ -5,7 +5,7 @@ date: 2020-08-12 18:18:16
 image: 'https://m.media-amazon.com/images/I/51Wleb8zqNL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07S9Y3VDN-fr Jouets 3-8 Ans Garçons Joy-Fun Appareil Photo Enfants...'
 sku: 'B07S9Y3VDN-fr'
 tags: [  ]

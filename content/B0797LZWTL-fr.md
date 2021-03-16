@@ -5,7 +5,7 @@ date: 2020-08-12 13:00:59
 image: 'https://m.media-amazon.com/images/I/41UxGDNrHrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0797LZWTL-fr Smartrike 650–0900 4 en 1 Tricycle Enfant Véhicule Vert'
 sku: 'B0797LZWTL-fr'
 tags: [  ]

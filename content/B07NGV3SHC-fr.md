@@ -5,7 +5,7 @@ date: 2020-08-09 07:28:02
 image: 'https://m.media-amazon.com/images/I/51UQjyQMu5L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07NGV3SHC-fr Derhy BISCOTTE Robe Or Or 11 44 Taille Fabricant:XL Femme'
 sku: 'B07NGV3SHC-fr'
 tags: [  ]

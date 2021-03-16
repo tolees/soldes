@@ -5,7 +5,7 @@ date: 2020-05-23 00:17:14
 image: 'https://m.media-amazon.com/images/I/41uyNhywvrL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07N43J6SV-fr Tommy Hilfiger Mixed Media Zip Trhough Sweat-Shirt Sky...'
 sku: 'B07N43J6SV-fr'
 tags: [  ]

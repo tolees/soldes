@@ -5,7 +5,7 @@ date: 2020-10-09 12:07:48
 image: 'https://m.media-amazon.com/images/I/51KJ+f0BIeL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JHX2N3F-fr Ruban LED REDSTORM Bande LED TV Rétroéclairage Lumière...'
 sku: 'B08JHX2N3F-fr'
 tags: [  ]

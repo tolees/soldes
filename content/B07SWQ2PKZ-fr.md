@@ -5,7 +5,7 @@ date: 2020-08-20 18:43:43
 image: 'https://m.media-amazon.com/images/I/51mUWJ7wbuL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07SWQ2PKZ-fr Better Call Saul-Saisons 1 à 4'
 sku: 'B07SWQ2PKZ-fr'
 tags: [  ]

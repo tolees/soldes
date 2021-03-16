@@ -5,7 +5,7 @@ date: 2020-09-27 14:51:41
 image: 'https://m.media-amazon.com/images/I/31yEivVAGtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08CZP2YBM-fr Màsséur Électrique Vîbrómasséur Vîbrạnt pour Fémme...'
 sku: 'B08CZP2YBM-fr'
 tags: [  ]

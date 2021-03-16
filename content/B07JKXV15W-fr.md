@@ -5,7 +5,7 @@ date: 2020-05-30 09:17:26
 image: 'https://m.media-amazon.com/images/I/318BV+zwWWL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JKXV15W-fr LAGOSTINA SALVASPAZIO METEORITE 012135040824 Poêle inox...'
 sku: 'B07JKXV15W-fr'
 tags: [  ]

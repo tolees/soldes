@@ -5,7 +5,7 @@ date: 2020-07-18 06:14:11
 image: 'https://m.media-amazon.com/images/I/41hl+eXaKxL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B0899S3DPR-fr HOMEVER Balance Cuisine HOMEVER15kg/33lb Balance...'
 sku: 'B0899S3DPR-fr'
 tags: [  ]
