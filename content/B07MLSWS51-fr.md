@@ -28,10 +28,10 @@ C'est en vente [Orient Montres Bracelet RA-AG0004B10B](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- 30 meters
-- Cadran Noir et sangle Noir
-- Homme cuir analogique
-- Classique
 - Mouvement automatique
+- Cadran Noir et sangle Noir
+- Classique
+- 30 meters
+- Homme cuir analogique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MLSWS51/?tag=tolees0d-21)
