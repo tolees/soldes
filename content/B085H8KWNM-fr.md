@@ -28,10 +28,10 @@ Vous avez [Victure 1200 Mbps  Répéteur WiFi  Amplificateur WiFi  WiFi Booster 
 
 ℹ️:
 
-- Vitesse Wifi de 1200 Mbps - Lextenseur de portée Wi-Fi photo étend le signal de votre routeur à 1200 Mbps à la zone où le signal du routeur ne peut pas atteindre
-- Simple à installer - Aucune application nest nécessaire. Connectez simplement le prolongateur de portée Wi-Fi au routeur via la page Web IOS / Android / Windows
-- 2.4Ghz et 5Ghz - 2.4Ghz est beaucoup plus stable tandis que 5Ghz est plus rapide
-- Port Ethernet et mode AP - Le port Ethernet permet une connexion filaire. Étant un prolongateur de portée Wi-Fi, lappareil peut également être utilisé comme point daccès
 - Connexion WPS - Appuyez sur le bouton WPS du prolongateur de portée Wi-Fi après avoir appuyé sur le bouton WPS du routeur. La connexion est alors réussie
+- Simple à installer - Aucune application nest nécessaire. Connectez simplement le prolongateur de portée Wi-Fi au routeur via la page Web IOS / Android / Windows
+- Port Ethernet et mode AP - Le port Ethernet permet une connexion filaire. Étant un prolongateur de portée Wi-Fi, lappareil peut également être utilisé comme point daccès
+- Vitesse Wifi de 1200 Mbps - Lextenseur de portée Wi-Fi photo étend le signal de votre routeur à 1200 Mbps à la zone où le signal du routeur ne peut pas atteindre
+- 2.4Ghz et 5Ghz - 2.4Ghz est beaucoup plus stable tandis que 5Ghz est plus rapide
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085H8KWNM/?tag=tolees0d-21)
