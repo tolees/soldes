@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H7DN3F-fr Sandvik Coromant Qs-3–80ll202034–10 C Coroturn 300 QS Tige...'
 sku: 'B073H7DN3F-fr'
-tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
+tags: [ 'Accessoires Photo et Caméscopes','Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 147.62 EUR
 currency: EUR
 price: 147.62

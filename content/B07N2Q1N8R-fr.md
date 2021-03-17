@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2Q1N8R-fr Dsquared2 D Squared Brillengestelle DQ5137 045-49-20-145...'
 sku: 'B07N2Q1N8R-fr'
-tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
+tags: [ 'Accessoires Photo et Caméscopes','Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 77.04 EUR
 currency: EUR
 price: 77.04

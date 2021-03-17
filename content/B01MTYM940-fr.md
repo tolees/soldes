@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTYM940-fr B.Catcher Collier en Argent Zircone cubique Pendentif...'
 sku: 'B01MTYM940-fr'
-tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
+tags: [ 'Accessoires Photo et Caméscopes','Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

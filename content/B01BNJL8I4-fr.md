@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BNJL8I4-fr HyperX Impact DDR4 HX424S14IBK2/32 Mémoire RAM 2400MHz...'
 sku: 'B01BNJL8I4-fr'
-tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
+tags: [ 'Accessoires Photo et Caméscopes','Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0
