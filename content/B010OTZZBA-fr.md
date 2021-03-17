@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010OTZZBA-fr Sauter SPI4360X - Plaque à induction - Encastrable - 3...'
 sku: 'B010OTZZBA-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

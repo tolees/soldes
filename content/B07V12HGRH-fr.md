@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V12HGRH-fr Asus VivoBook S S532FA-BQ064T PC Portable 15" FHD Intel...'
 sku: 'B07V12HGRH-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 759.0 EUR
 currency: EUR
 price: 759.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YXO5UKY-fr Turtle Beach Recon 50P Casque Gaming - PS4 PS5 Xbox One...'
 sku: 'B00YXO5UKY-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

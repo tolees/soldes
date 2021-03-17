@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FYPN8ZZ-fr Vertbaudet Parure Caradou Facile à Border sans Couette PIN...'
 sku: 'B07FYPN8ZZ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

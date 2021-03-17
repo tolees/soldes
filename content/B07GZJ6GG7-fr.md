@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZJ6GG7-fr Coolskins Cool008 Chapka Noir Negro 08 Taille Unique Mixte'
 sku: 'B07GZJ6GG7-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 128.52 EUR
 currency: EUR
 price: 128.52

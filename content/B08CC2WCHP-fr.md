@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CC2WCHP-fr Timoom M6 Lecteur MP3 Bluetooth MP4 32Go 2.8 Pouces Ecran...'
 sku: 'B08CC2WCHP-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

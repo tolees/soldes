@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZS7T17-fr Xiaomi Redmi Note 5 Smartphone Portable Débloqué 4G Ecran:...'
 sku: 'B07CZS7T17-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

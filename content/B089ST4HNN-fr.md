@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ST4HNN-fr RAMPOW Câble USB C vers USB C 2m [Garantie à Vie] Câble...'
 sku: 'B089ST4HNN-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

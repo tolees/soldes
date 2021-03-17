@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WZ6CRO-fr Melitta Machine à Café et Boissons Chaudes Automatique...'
 sku: 'B004WZ6CRO-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 310.1 EUR
 currency: EUR
 price: 310.1

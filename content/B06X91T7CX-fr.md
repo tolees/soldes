@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X91T7CX-fr GreedFall'
 sku: 'B06X91T7CX-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 20.43 EUR
 currency: EUR
 price: 20.43

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B8X4TP8-fr Bricolage Bracelet Magnetique Cadeau Homme - Meilleurs...'
 sku: 'B08B8X4TP8-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

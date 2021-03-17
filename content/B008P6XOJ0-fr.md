@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008P6XOJ0-fr Tefal EF351412 Appareil à Fondue Simply Invents 8 personnes'
 sku: 'B008P6XOJ0-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QDVPLV-fr ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6...'
 sku: 'B087QDVPLV-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

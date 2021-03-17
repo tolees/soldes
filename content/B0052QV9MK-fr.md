@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0052QV9MK-fr Onduleur Eaton Ellipse ECO 650 USB FR - Off-line UPS -...'
 sku: 'B0052QV9MK-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 97.95 EUR
 currency: EUR
 price: 97.95

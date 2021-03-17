@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FFTRDP9-fr LETTAS Siège Auto 360° Pivotant Groupe 0+1/2/3 DE 0 à 36...'
 sku: 'B07FFTRDP9-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 167.99 EUR
 currency: EUR
 price: 167.99

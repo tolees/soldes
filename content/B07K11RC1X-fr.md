@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K11RC1X-fr adidas I-5923 Chaussures de Gymnastique homme - Blanc Ftwr...'
 sku: 'B07K11RC1X-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 74.12 EUR
 currency: EUR
 price: 74.12

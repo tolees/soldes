@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4HXRPS-fr Castaner Dosalia/3/ss20007 Espadrilles Femme Tostado 38 EU'
 sku: 'B07X4HXRPS-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 77.37 EUR
 currency: EUR
 price: 77.37

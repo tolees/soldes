@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086ZSCBH6-fr Écouteurs Bluetooth Bluedio P Particle Écouteurs sans Fil...'
 sku: 'B086ZSCBH6-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

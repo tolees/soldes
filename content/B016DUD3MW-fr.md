@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016DUD3MW-fr Hoover CAN1700R Nettoyeur Vapeur Balai Steam Capsule...'
 sku: 'B016DUD3MW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 51.08 EUR
 currency: EUR
 price: 51.08

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KMT9SZ5-fr Kaba Cylindre Haute sécurité + Renfort Matrix 30 x 50...'
 sku: 'B07KMT9SZ5-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 81.54 EUR
 currency: EUR
 price: 81.54

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002IWAOQS-fr Staub 1313906 Wok Cerise avec Couvercle Verre 37 Cm'
 sku: 'B002IWAOQS-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 188.95 EUR
 currency: EUR
 price: 188.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016E66ZJS-fr Le Grand jour'
 sku: 'B016E66ZJS-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

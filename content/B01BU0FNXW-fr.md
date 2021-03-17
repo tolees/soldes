@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BU0FNXW-fr DeWalt DCF887NT - TOOLSELECT Visseuse à chocs 3 vitesses...'
 sku: 'B01BU0FNXW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 119.87 EUR
 currency: EUR
 price: 119.87

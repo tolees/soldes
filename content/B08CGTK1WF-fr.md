@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CGTK1WF-fr NIUDINNG Meches Body Wave Lot 3 Tissage Bresilienne Ondule...'
 sku: 'B08CGTK1WF-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

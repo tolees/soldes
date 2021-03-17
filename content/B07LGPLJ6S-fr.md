@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGPLJ6S-fr Onduleur Z1 Zenergy Cube EX 600 VA 3 prises secourues'
 sku: 'B07LGPLJ6S-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 77.01 EUR
 currency: EUR
 price: 77.01

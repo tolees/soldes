@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DJB9GA-fr BÉABA Transat Up & Down I Transat Réglable par simple...'
 sku: 'B002DJB9GA-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

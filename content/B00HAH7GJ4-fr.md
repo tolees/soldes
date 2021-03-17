@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HAH7GJ4-fr Slave to The Sword'
 sku: 'B00HAH7GJ4-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 8.73 EUR
 currency: EUR
 price: 8.73

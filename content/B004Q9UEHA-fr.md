@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004Q9UEHA-fr Philip Watch - R8253107765 - Montre Femme - Quartz -...'
 sku: 'B004Q9UEHA-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 337.59 EUR
 currency: EUR
 price: 337.59

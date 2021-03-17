@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NMSQ3T-fr bakibo Écouteurs sans Fil Bluetooth 5.1 Stéréo Sport...'
 sku: 'B089NMSQ3T-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000T5RYSW-fr Mauviel 270501 Penderie en cuivre orange/jaune 1 cm'
 sku: 'B000T5RYSW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 160.34 EUR
 currency: EUR
 price: 160.34

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D6G6W8X-fr Disque Dur Externe 1 to USB 3.0 pour PC Mac MacBook Xbox...'
 sku: 'B08D6G6W8X-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CWVAWX0-fr VAUDE Farley Stretch T-Zip Pantalon II Homme Black FR : M...'
 sku: 'B00CWVAWX0-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 85.14 EUR
 currency: EUR
 price: 85.14

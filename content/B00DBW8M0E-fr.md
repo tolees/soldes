@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DBW8M0E-fr Freddie Mercury Tribute Concert [Blu-ray] [SD Blu-ray SD...'
 sku: 'B00DBW8M0E-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

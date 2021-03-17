@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFDNDVB-fr Levi s 514 Straight Jeans Ivy ADV 1209 31W / 32L Homme'
 sku: 'B07LFDNDVB-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 63.25 EUR
 currency: EUR
 price: 63.25

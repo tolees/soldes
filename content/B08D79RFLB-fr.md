@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D79RFLB-fr ARCHEER Enceinte PC Haut-parleurs PC RGB 10W Multimédia...'
 sku: 'B08D79RFLB-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D8Z9DE2-fr Thomas Sabo Montre pour Homme Rebel Spirit Argenté Noir...'
 sku: 'B01D8Z9DE2-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 113.29 EUR
 currency: EUR
 price: 113.29

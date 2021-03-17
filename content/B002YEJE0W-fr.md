@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002YEJE0W-fr Claude Dozorme 2.60.001.55 Coffret Hêtre 6 Couteaux Steak...'
 sku: 'B002YEJE0W-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 137.57 EUR
 currency: EUR
 price: 137.57

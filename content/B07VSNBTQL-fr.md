@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSNBTQL-fr 3T6B Drone avec Camera 1080P HD 4K Pixels Quadricoptère de...'
 sku: 'B07VSNBTQL-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

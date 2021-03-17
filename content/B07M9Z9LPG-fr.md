@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9Z9LPG-fr Le Tanneur Gaspard TGAS4000 Hommes Noir Noir 7.5x30.5x38.5...'
 sku: 'B07M9Z9LPG-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 113.42 EUR
 currency: EUR
 price: 113.42

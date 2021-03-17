@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086RLQRNX-fr CubicFun 3D Puzzle Harry Potter Poudlard Castle School...'
 sku: 'B086RLQRNX-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

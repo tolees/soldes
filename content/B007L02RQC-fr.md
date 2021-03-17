@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007L02RQC-fr Dugena - 7000120 - Montre Femme - Quartz Analogique -...'
 sku: 'B007L02RQC-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 118.09 EUR
 currency: EUR
 price: 118.09

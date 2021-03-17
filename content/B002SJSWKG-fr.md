@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SJSWKG-fr Samsonite Aeris - Spinner XL Valise 81 cm 118 5 L Rouge Red'
 sku: 'B002SJSWKG-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 185.17 EUR
 currency: EUR
 price: 185.17

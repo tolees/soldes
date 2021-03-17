@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GSSX8Y-fr Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte Dark...'
 sku: 'B078GSSX8Y-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 85.53 EUR
 currency: EUR
 price: 85.53

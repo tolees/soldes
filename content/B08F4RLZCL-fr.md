@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F4RLZCL-fr Disque Dur Externe 1to USB3.0 SATA Stockage HDD pour PC...'
 sku: 'B08F4RLZCL-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

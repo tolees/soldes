@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083F2ZJGK-fr US-TRONIC CONVERTISSEUR Pur Sinus 12V 220V - 1000 Watts +...'
 sku: 'B083F2ZJGK-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

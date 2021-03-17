@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KQ4PRM-fr Roman Porno 1971-2016-Une Histoire érotique du Japon'
 sku: 'B081KQ4PRM-fr'
-tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Boîtes à outils','Bricolage','Cinéma asiatique','Comédie','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','DVD et Blu-ray','Drame et émotion','Featured Categories','Films','Informatique','Kits','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Rangement des outils','Romance','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Thriller','Vêtements','Vêtements homme', ]
+tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Boîtes à outils','Bricolage','Cinéma asiatique','Comédie','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','DVD et Blu-ray','Drame et émotion','Featured Categories','Films','Informatique','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kits','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Rangement des outils','Romance','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Thriller','Vêtements','Vêtements homme', ]
 actualPrice: 68.7 EUR
 currency: EUR
 price: 68.7

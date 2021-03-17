@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WQWXC6Q-fr ALLPOWERS 50W 12V 18V Monocrystalline Solar Panel with...'
 sku: 'B07WQWXC6Q-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

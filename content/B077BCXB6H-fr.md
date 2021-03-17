@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077BCXB6H-fr Calvin Klein Homme - Lot de 3 aille mi-haute boxers -...'
 sku: 'B077BCXB6H-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

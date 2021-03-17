@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QM5GL9-fr iRobot Roomba 671 Aspirateur Robot pour Tapis et Sols Durs...'
 sku: 'B079QM5GL9-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

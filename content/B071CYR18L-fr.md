@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CYR18L-fr Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6...'
 sku: 'B071CYR18L-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 131.23 EUR
 currency: EUR
 price: 131.23

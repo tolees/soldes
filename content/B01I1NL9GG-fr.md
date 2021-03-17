@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I1NL9GG-fr FAGOR FG293 Aspirateur balai 2 en 1 Rouge 0 5 L 1800 W'
 sku: 'B01I1NL9GG-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 81.42 EUR
 currency: EUR
 price: 81.42

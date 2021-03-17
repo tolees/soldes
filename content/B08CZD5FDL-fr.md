@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZD5FDL-fr Ucradle Jeu Boulier Jouet Bois Labyrinthe Jeux Montessori...'
 sku: 'B08CZD5FDL-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

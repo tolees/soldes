@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DRGVYKL-fr Tiffany Rose Maternity Eden Maxi Robe Rose poudré 46 Femme'
 sku: 'B07DRGVYKL-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 139.98 EUR
 currency: EUR
 price: 139.98

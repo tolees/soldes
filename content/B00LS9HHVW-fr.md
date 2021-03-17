@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LS9HHVW-fr K-Way K004BD0 - veste imperméable - Homme - Noir Black -...'
 sku: 'B00LS9HHVW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

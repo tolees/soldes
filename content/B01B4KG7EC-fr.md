@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B4KG7EC-fr Antitaches bois composite - WoodGuard Bois Composite - 5L'
 sku: 'B01B4KG7EC-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 90.05 EUR
 currency: EUR
 price: 90.05

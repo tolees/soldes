@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY1ZL69-fr Schmidt Spiele - 56495 - Dinos Coffret de Puzzles 2x60...'
 sku: 'B01MY1ZL69-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

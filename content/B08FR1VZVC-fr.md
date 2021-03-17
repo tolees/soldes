@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR1VZVC-fr DEJIMAX 3200mAh Batterie S7 pour Samsung Galaxy S7 Haute...'
 sku: 'B08FR1VZVC-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

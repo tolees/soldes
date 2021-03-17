@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TRXYCN-fr Mixcder E7 Casque Bluetooth à Réduction Active de Bruit...'
 sku: 'B077TRXYCN-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

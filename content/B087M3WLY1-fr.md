@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M3WLY1-fr ERUW LCD Tablette D écriture 8.5 Pouces Ardoise Magique...'
 sku: 'B087M3WLY1-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

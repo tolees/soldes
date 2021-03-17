@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DCLKJQQ-fr Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E...'
 sku: 'B08DCLKJQQ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

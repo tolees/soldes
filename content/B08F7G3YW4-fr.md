@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F7G3YW4-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3...'
 sku: 'B08F7G3YW4-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011IO79NC-fr Tommy Hilfiger Montres bracelet 1781628'
 sku: 'B011IO79NC-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 126.76 EUR
 currency: EUR
 price: 126.76

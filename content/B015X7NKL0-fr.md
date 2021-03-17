@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015X7NKL0-fr Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent...'
 sku: 'B015X7NKL0-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00S6F1UBY-fr Sylvanian Families - 5206 - Le bateau de croisière'
 sku: 'B00S6F1UBY-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 59.04 EUR
 currency: EUR
 price: 59.04

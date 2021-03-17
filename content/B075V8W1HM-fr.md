@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075V8W1HM-fr Trust 22055 GXT 383 DION 7.1 BASS Vibration Kits Oreillette'
 sku: 'B075V8W1HM-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 56.35 EUR
 currency: EUR
 price: 56.35

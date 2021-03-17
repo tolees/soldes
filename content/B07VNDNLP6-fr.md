@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNDNLP6-fr LA BELLEFÉE Coffret Bougies Parfumées Les Quatre Saisons...'
 sku: 'B07VNDNLP6-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

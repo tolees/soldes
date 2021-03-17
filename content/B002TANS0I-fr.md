@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TANS0I-fr APC Back-UPS ES - BE700G-FR - Onduleur 700VA 8 Prises FR'
 sku: 'B002TANS0I-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 125.94 EUR
 currency: EUR
 price: 125.94

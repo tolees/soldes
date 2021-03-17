@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008TFADO6-fr Legrand 412780 Interrupteur horaire analogique modulaire...'
 sku: 'B008TFADO6-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 32.15 EUR
 currency: EUR
 price: 32.15

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01JYUU1ZU-fr Carte mémoire SDHC SanDisk Extreme Pro 64Go de jusqu à...'
 sku: 'B01JYUU1ZU-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 110.39 EUR
 currency: EUR
 price: 110.39

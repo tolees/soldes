@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BEHTKWC-fr Sonos Playbar Barre de son TV sans fil et enceinte wifi...'
 sku: 'B00BEHTKWC-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

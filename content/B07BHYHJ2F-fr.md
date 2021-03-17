@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHYHJ2F-fr Jabra Elite 65t Écouteurs - Écouteurs Bluetooth sans Fil à...'
 sku: 'B07BHYHJ2F-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

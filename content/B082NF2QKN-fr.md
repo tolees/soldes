@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082NF2QKN-fr Wasteland 3 : Day One Edition pour PS4'
 sku: 'B082NF2QKN-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 35.63 EUR
 currency: EUR
 price: 35.63

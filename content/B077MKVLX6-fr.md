@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077MKVLX6-fr PUMA Viz Runner Chaussures de Running Compétition Homme...'
 sku: 'B077MKVLX6-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 48.11 EUR
 currency: EUR
 price: 48.11

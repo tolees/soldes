@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07744QTNW-fr adidas NMD r1 Stlt PK Chaussures de Fitness Homme Gris...'
 sku: 'B07744QTNW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 149.46 EUR
 currency: EUR
 price: 149.46

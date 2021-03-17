@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0JCTNP-fr Calvin Klein Jeans Dora Canvas Sneakers Basses Femme Rose...'
 sku: 'B01N0JCTNP-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

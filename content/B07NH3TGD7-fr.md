@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NH3TGD7-fr Strellson Premium Allen2.0 Amf2 12 Veste De Costume Bleu...'
 sku: 'B07NH3TGD7-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 86.96 EUR
 currency: EUR
 price: 86.96

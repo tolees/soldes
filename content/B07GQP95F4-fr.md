@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GQP95F4-fr Feisui Collier Dressage Chien 800 Mètres Collier d...'
 sku: 'B07GQP95F4-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

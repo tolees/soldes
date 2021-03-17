@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D7VKPLP-fr Calvin Klein 3p Low Rise Trunk Caleçon Bleu Black/Blue...'
 sku: 'B07D7VKPLP-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 35.47 EUR
 currency: EUR
 price: 35.47

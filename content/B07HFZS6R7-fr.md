@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HFZS6R7-fr Collier argent et perles de culture Blanches et...'
 sku: 'B07HFZS6R7-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

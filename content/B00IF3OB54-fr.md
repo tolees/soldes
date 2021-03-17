@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IF3OB54-fr EDMA 261255 Boule Chauffante Argent'
 sku: 'B00IF3OB54-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

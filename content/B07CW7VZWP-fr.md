@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CW7VZWP-fr Riviera & Bar PEJ537 Extracteur de jus 200 W Rouge'
 sku: 'B07CW7VZWP-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085Q5HLK5-fr ORICO M200 3D NAND SSD Hard Solid Drive - mSATA - SATA III...'
 sku: 'B085Q5HLK5-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

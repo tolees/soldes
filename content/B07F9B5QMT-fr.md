@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9B5QMT-fr Superdry ORANGE Label Vintage EMB Tee T-Shirt pour Homme...'
 sku: 'B07F9B5QMT-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

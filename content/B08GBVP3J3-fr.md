@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GBVP3J3-fr Écouteurs sans Fil Bluetooth 5.0 avec réduction de Bruit...'
 sku: 'B08GBVP3J3-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

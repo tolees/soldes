@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0821RTSMV-fr BONNYCO Tableau Magique Enfant A4 et A5 6 Pochoirs et 2...'
 sku: 'B0821RTSMV-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

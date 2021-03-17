@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XHLHNHZ-fr Team Kalorik Four Rétro 19.5 Litres avec Pince Plateaux et...'
 sku: 'B06XHLHNHZ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 51.73 EUR
 currency: EUR
 price: 51.73

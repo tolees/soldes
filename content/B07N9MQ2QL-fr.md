@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9MQ2QL-fr Samsonite Sac à dos loisir 116873/1041 Jaune foncé Jaune -...'
 sku: 'B07N9MQ2QL-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 59.58 EUR
 currency: EUR
 price: 59.58

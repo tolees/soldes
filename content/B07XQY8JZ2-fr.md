@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQY8JZ2-fr Tronsmart T6 Plus Enceinte Bluetooth 40W Haut Parleur...'
 sku: 'B07XQY8JZ2-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 56.09 EUR
 currency: EUR
 price: 56.09

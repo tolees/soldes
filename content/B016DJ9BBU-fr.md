@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016DJ9BBU-fr Safavieh Tapis d inspiration Vintage Tissé Polyester Tapis...'
 sku: 'B016DJ9BBU-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 109.52 EUR
 currency: EUR
 price: 109.52

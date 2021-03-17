@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0143IINE4-fr Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s...'
 sku: 'B0143IINE4-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

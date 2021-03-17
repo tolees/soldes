@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B8WW3DA-fr Rubie s-déguisement officiel - Rubie s-Costume Miraculous...'
 sku: 'B01B8WW3DA-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 4.0 EUR
 currency: EUR
 price: 4.0

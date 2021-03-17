@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014UY9AWU-fr Pitch Perfect 2'
 sku: 'B014UY9AWU-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

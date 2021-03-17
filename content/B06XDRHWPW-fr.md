@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDRHWPW-fr HAUPTSTADTKOFFER - Spree - Valise de Taille Moyenne Bagage...'
 sku: 'B06XDRHWPW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 45.19 EUR
 currency: EUR
 price: 45.19

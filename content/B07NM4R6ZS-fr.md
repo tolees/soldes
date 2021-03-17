@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NM4R6ZS-fr AVIC-Z820DAB'
 sku: 'B07NM4R6ZS-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 665.0 EUR
 currency: EUR
 price: 665.0

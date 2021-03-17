@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8ZD63Y-fr Foscam - FI9902P - Caméra IP Wi-FI extérieure 1080P'
 sku: 'B07N8ZD63Y-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX4XKL8-fr BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2...'
 sku: 'B07NX4XKL8-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

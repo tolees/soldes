@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N356GSH-fr Mizuno Wave Inspire 15 Chaussures de Running Homme Blanc...'
 sku: 'B07N356GSH-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

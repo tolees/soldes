@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CS9JG3Y-fr REDSTORM Manettes pour Nintendo Switch/Switch Lite Manette...'
 sku: 'B08CS9JG3Y-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

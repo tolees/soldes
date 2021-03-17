@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JR1FP29-fr Be Cool Thunder Isofix Siège Auto Groupe 1/2/3 de 9 à 36...'
 sku: 'B07JR1FP29-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

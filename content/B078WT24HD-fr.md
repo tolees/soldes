@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WT24HD-fr Seb YG660100 Yaourtière Multi Délices Express 6 Pots 600W...'
 sku: 'B078WT24HD-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

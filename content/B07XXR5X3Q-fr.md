@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXR5X3Q-fr Elbe Bloc Prise pour Bureau multiprise 3 Prises 2 USB 2...'
 sku: 'B07XXR5X3Q-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

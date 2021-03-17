@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY4ZGK8-fr Emartbuy Luxe Rigide Boîte-Cadeau de Présentation en Forme...'
 sku: 'B07PY4ZGK8-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

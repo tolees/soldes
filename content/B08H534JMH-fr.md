@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H534JMH-fr IHEX Galaxy S9 Plus Verre Trempé [2 Pièces] [Full...'
 sku: 'B08H534JMH-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 9.89 EUR
 currency: EUR
 price: 9.89

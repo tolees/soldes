@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RLK1MY-fr Ecouteurs Bluetooth 5.0 Écouteur sans Fil avec Anti-Bruit...'
 sku: 'B087RLK1MY-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

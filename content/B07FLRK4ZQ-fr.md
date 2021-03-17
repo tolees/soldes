@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FLRK4ZQ-fr David Jones - Grand Sac à Main Femme - Cabas Fourre-Tout...'
 sku: 'B07FLRK4ZQ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

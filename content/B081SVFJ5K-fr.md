@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081SVFJ5K-fr Telephone Portable 4G Blackview A80 Pro 2020 Smartphone...'
 sku: 'B081SVFJ5K-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

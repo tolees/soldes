@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XW7M1B-fr Ultimate Ears Megablast Enceinte sans Fil Portable...'
 sku: 'B075XW7M1B-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 195.12 EUR
 currency: EUR
 price: 195.12

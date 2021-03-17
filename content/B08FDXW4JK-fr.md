@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FDXW4JK-fr LED Projecteur étoile veilleuse télécommandée lecteur de...'
 sku: 'B08FDXW4JK-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005F0XYH6-fr Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135...'
 sku: 'B005F0XYH6-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 77.04 EUR
 currency: EUR
 price: 77.04

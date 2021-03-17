@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AYZZP5U-fr Audio-Technica ATH-ADG1X Casque Gaming Ouvert Haute-...'
 sku: 'B01AYZZP5U-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

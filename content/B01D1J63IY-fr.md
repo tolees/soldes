@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D1J63IY-fr Samsonite XBR Laptop Sac à Dos 17 3 Pouces Cartable 51 cm...'
 sku: 'B01D1J63IY-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

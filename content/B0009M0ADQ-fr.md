@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0009M0ADQ-fr Canon CA-570 Chargeur de batterie pour caméscope Canon'
 sku: 'B0009M0ADQ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

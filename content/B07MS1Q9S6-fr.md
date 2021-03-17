@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MS1Q9S6-fr RECCI sur Matelas a Memoire de Forme de 6cm Surmatelas...'
 sku: 'B07MS1Q9S6-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

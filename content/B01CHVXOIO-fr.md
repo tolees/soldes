@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CHVXOIO-fr Moulinex OW220830 Machine à Pain 17 Programmes Plastique...'
 sku: 'B01CHVXOIO-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 90.99 EUR
 currency: EUR
 price: 90.99

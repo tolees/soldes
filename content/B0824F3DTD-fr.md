@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0824F3DTD-fr Persona 5 Royal - Phantom Thieves Edition'
 sku: 'B0824F3DTD-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

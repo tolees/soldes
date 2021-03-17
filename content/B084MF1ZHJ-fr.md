@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MF1ZHJ-fr 2020 Casque Bluetooth sans BYil avec Suppression du Bruit...'
 sku: 'B084MF1ZHJ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

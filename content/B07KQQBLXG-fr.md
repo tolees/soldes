@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQQBLXG-fr Diesel ODERZO Sac à dos Homme Noir Black 5x22x18 cm W x H x L'
 sku: 'B07KQQBLXG-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

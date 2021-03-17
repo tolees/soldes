@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E8HTKZW-fr Sweetnight - Surmatelas Luxe 160x200 cm | Ultra Moelleux...'
 sku: 'B00E8HTKZW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 39.56 EUR
 currency: EUR
 price: 39.56

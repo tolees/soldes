@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B4LQV7M-fr Adaptateur pour Nintendo Switch Timoom 2 en 1 Bluetooth...'
 sku: 'B08B4LQV7M-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

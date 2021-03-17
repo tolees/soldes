@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QPQVPB-fr havit Casque Gaming PS4 Casque Gamer RGB avec micro switch...'
 sku: 'B086QPQVPB-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLXKN25-fr Thermaltake Water 3.0 360 Argb Sync Aio Liquid Cooling Kit'
 sku: 'B07MLXKN25-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 126.95 EUR
 currency: EUR
 price: 126.95

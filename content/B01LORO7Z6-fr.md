@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LORO7Z6-fr Carte Mémoire SDHC Sandisk Extreme 32 Go jusqu à 90 Mo/s...'
 sku: 'B01LORO7Z6-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

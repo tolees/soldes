@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089Q3L2TD-fr LIHAO Étui pour Nintendo Switch Housse de Transport...'
 sku: 'B089Q3L2TD-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

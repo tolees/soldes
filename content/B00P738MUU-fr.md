@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P738MUU-fr Samsung SSD 850 EVO 1 To - SSD Interne SATA III 2.5" -...'
 sku: 'B00P738MUU-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 296.8 EUR
 currency: EUR
 price: 296.8

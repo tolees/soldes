@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K16WJ2D-fr adidas Tiro Dufflebag M Sac en toile Black/White FR :...'
 sku: 'B07K16WJ2D-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

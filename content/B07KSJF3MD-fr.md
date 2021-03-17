@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSJF3MD-fr Samsung SSD interne 860 QVO 2.5’’ SATA 2 TERA - MZ-76Q2T0BW'
 sku: 'B07KSJF3MD-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 248.58 EUR
 currency: EUR
 price: 248.58

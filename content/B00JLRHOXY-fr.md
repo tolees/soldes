@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JLRHOXY-fr Luminarc Pure Box Active Boîte de Conservation hermétique...'
 sku: 'B00JLRHOXY-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

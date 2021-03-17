@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IAD5ZC6-fr Seagate Backup Plus Hub 8 To Disque dur externe de bureau...'
 sku: 'B01IAD5ZC6-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018NZW1PA-fr G.H. Bass & Co. Penny Mocassins Femme Multicolore Black &...'
 sku: 'B018NZW1PA-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 68.63 EUR
 currency: EUR
 price: 68.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NDNDY4K-fr BRAX Golf Tim Pull Bleu Dunkelblau 23 Medium Homme'
 sku: 'B07NDNDY4K-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 93.78 EUR
 currency: EUR
 price: 93.78

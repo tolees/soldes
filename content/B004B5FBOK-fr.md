@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004B5FBOK-fr STIGA Luge Bob Snowracer Supreme GT Luge Bobsleigh avec...'
 sku: 'B004B5FBOK-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

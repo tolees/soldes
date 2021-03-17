@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KQFQQ9-fr Boucles d oreilles or tricolore"Trianon"'
 sku: 'B075KQFQQ9-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

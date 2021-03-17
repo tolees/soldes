@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCFW7FB-fr YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD...'
 sku: 'B07ZCFW7FB-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 44.32 EUR
 currency: EUR
 price: 44.32

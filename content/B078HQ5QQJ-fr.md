@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HQ5QQJ-fr Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec...'
 sku: 'B078HQ5QQJ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 244.93 EUR
 currency: EUR
 price: 244.93

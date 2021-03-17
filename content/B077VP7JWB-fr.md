@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VP7JWB-fr BaByliss Paris - C1500E - Boucleur automatique Curl Secret...'
 sku: 'B077VP7JWB-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

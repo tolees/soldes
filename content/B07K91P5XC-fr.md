@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K91P5XC-fr Crocs Crocband II Kids Sandales Bride Cheville Mixte...'
 sku: 'B07K91P5XC-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

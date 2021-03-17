@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0817GH5XQ-fr Columbia Klamath Range II Polaire Demi-zippée Homme'
 sku: 'B0817GH5XQ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

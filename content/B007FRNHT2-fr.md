@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007FRNHT2-fr Barigo 386MSMA Marron Station météo numérique - Stations...'
 sku: 'B007FRNHT2-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 177.98 EUR
 currency: EUR
 price: 177.98

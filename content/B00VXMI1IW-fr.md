@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VXMI1IW-fr G-Star Revend Skinny Jeans Gris lt Aged Destroy 6132-1243...'
 sku: 'B00VXMI1IW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 69.98 EUR
 currency: EUR
 price: 69.98

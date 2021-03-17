@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W1UIP7C-fr Bikers Gear UK Veste de Moto Couleur Black & Oxblood en...'
 sku: 'B00W1UIP7C-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 67.63 EUR
 currency: EUR
 price: 67.63

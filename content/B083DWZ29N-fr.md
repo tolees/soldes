@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083DWZ29N-fr Vistefly VX Aspirateur sans Fil 23KPA 250W Aspirateur...'
 sku: 'B083DWZ29N-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 134.25 EUR
 currency: EUR
 price: 134.25

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0000Y7KFY-fr Kai DM.0701 Couteau Universel'
 sku: 'B0000Y7KFY-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 86.92 EUR
 currency: EUR
 price: 86.92

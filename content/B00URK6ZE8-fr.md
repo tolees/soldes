@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00URK6ZE8-fr Remington IPL6750 Epilateur Lumière Pulsée 300000 Flashs...'
 sku: 'B00URK6ZE8-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

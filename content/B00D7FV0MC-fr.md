@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00D7FV0MC-fr Kickers - KICK COL - Bottes Classiques - Mixte Enfant -...'
 sku: 'B00D7FV0MC-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

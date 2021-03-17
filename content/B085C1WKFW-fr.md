@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085C1WKFW-fr Oacvien Récepteur Bluetooth 5.0 Adaptateur Émetteur...'
 sku: 'B085C1WKFW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

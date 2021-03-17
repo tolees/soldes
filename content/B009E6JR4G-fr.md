@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009E6JR4G-fr Legrand LEG92727 Tableau Chauffe Eau'
 sku: 'B009E6JR4G-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 137.62 EUR
 currency: EUR
 price: 137.62

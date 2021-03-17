@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006JSIHQQ-fr Thetford 92814 Potti Potti 345 Toilette Portable Blanc-...'
 sku: 'B006JSIHQQ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 67.84 EUR
 currency: EUR
 price: 67.84

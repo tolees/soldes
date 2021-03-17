@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TKXBRF0-fr Klein - 9459 - Jeu d imitation - Cuisine en bois avec...'
 sku: 'B00TKXBRF0-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

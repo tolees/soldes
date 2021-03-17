@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DB49FN-fr Synology DS718+ 2 Bay Bureau Boîtier NAS'
 sku: 'B075DB49FN-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

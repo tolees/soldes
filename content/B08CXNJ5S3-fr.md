@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXNJ5S3-fr Chargeur Voiture USB C Rapide pour Samsung S20 Plus Ultra...'
 sku: 'B08CXNJ5S3-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

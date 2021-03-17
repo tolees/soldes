@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QY8GWH-fr Moniteur de Fréquence Cardiaque Traqueur de Forme Physique...'
 sku: 'B082QY8GWH-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

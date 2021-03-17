@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFVYHMV-fr TV Box Android 10.0 2GB Ram 16GB ROM Allwinner H616 Quad-...'
 sku: 'B08DFVYHMV-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

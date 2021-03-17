@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088GPWXZP-fr Upworld Kit de Slime Bricolage Kit de Fabrication de Slime...'
 sku: 'B088GPWXZP-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

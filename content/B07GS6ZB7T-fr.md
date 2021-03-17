@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GS6ZB7T-fr Logitech G502 HERO Souris Gamer Filaire Haute Performance...'
 sku: 'B07GS6ZB7T-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 56.31 EUR
 currency: EUR
 price: 56.31

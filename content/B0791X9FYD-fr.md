@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0791X9FYD-fr Tommy Hilfiger Core Tommy Regular Polo Blanc Bright White...'
 sku: 'B0791X9FYD-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 47.32 EUR
 currency: EUR
 price: 47.32

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X8NMJ2Q-fr GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème...'
 sku: 'B07X8NMJ2Q-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

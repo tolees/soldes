@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OH9KF4-fr Filofax 115023 Carnet de note A4 avec feuille...'
 sku: 'B015OH9KF4-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 19.65 EUR
 currency: EUR
 price: 19.65

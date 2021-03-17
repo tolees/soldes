@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0050KAZ1O-fr Bosch Professional Ponceuse Excentrique Filaire GEX...'
 sku: 'B0050KAZ1O-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 256.02 EUR
 currency: EUR
 price: 256.02

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J4ZYD9R-fr SANFASHION Solde Sweat Femme avec Capuche Chat Cadeau...'
 sku: 'B07J4ZYD9R-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084V89DMC-fr Écouteurs sans Fil véritables GT1 Bluetooth 5.0 Sports HD...'
 sku: 'B084V89DMC-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

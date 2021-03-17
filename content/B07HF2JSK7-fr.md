@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HF2JSK7-fr TIMACO Robinet de cuisine avec douchette à ressort en...'
 sku: 'B07HF2JSK7-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 86.58 EUR
 currency: EUR
 price: 86.58

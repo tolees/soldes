@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00V2QPEFW-fr Columbia Zero Rules Haut à Manches Longues Homme'
 sku: 'B00V2QPEFW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 19.2 EUR
 currency: EUR
 price: 19.2

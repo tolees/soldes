@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GVHDY66-fr Replay Anbass Jean Slim Bleu Dark Blue 7 W28/L32 Taille...'
 sku: 'B07GVHDY66-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 114.98 EUR
 currency: EUR
 price: 114.98

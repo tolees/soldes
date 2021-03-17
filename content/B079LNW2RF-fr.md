@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079LNW2RF-fr cbx Poussette Yoki Ultra-Compacte Habillage pluie inclus...'
 sku: 'B079LNW2RF-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 80.74 EUR
 currency: EUR
 price: 80.74

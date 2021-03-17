@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CMDCY5-fr SAMSONITE Orfeo - Spinner 69/25 Bagage cabine 69 cm 72...'
 sku: 'B076CMDCY5-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 153.0 EUR
 currency: EUR
 price: 153.0

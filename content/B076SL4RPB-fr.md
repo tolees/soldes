@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076SL4RPB-fr Yazilind plaqué Or Bracelet Mode Goutte d eau Jolie Zircon...'
 sku: 'B076SL4RPB-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

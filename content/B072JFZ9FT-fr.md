@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072JFZ9FT-fr Pradel Excellence 7489SN Penderie 6 Ustensils Nylon Noir...'
 sku: 'B072JFZ9FT-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 10.09 EUR
 currency: EUR
 price: 10.09

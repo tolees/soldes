@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ES8WZA-fr Schott NYC Lc5100 Blouson Noir Large Taille fabricant: L...'
 sku: 'B008ES8WZA-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 253.51 EUR
 currency: EUR
 price: 253.51

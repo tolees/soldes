@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MBV163Z-fr PNY GeForce® RTX 2060 6GB XLR8 Gaming Overclocked Edition...'
 sku: 'B07MBV163Z-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 334.96 EUR
 currency: EUR
 price: 334.96

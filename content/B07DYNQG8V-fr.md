@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DYNQG8V-fr Lecteur CD/DVD Externe Cocopa USB 3.0 Graveur DVD Externe...'
 sku: 'B07DYNQG8V-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TWVC4Q-fr Makita UH 5570 Taille-haies'
 sku: 'B001TWVC4Q-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 95.94 EUR
 currency: EUR
 price: 95.94

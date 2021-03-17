@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V81PSJN-fr Faure FKM-804MP1 Robot Pâtissier Magic Baker Premiuim -...'
 sku: 'B07V81PSJN-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 137.98 EUR
 currency: EUR
 price: 137.98

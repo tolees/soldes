@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SZX8WXL-fr Kickers Bonbon-2 Bottes & Bottines Mixte bébé Vert Vert...'
 sku: 'B07SZX8WXL-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 32.5 EUR
 currency: EUR
 price: 32.5

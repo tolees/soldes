@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZXATAJE-fr Fisher-Price Bebo le Robot Interactif Jouet d Éveil avec 3...'
 sku: 'B00ZXATAJE-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 32.09 EUR
 currency: EUR
 price: 32.09

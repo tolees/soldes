@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HJPCWKO-fr PAUL HEWITT Bracelet Femme PHREP Ancre - Cadeau Femme...'
 sku: 'B01HJPCWKO-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 30.44 EUR
 currency: EUR
 price: 30.44

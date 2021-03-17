@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Y9FNQS-fr Levi s Graphic Tee B T-Shirt HM Ls Better White S Homme'
 sku: 'B076Y9FNQS-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme','levis', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme','levis', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45
@@ -28,8 +28,8 @@ C'est en vente [Levi s Graphic Tee B T-Shirt  HM Ls Better White  S Homme](https
 
 ℹ️:
 
-- Jersey
 - Logo Hausmark sur la poitrine
+- Jersey
 - Sans stretch
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076Y9FNQS/?tag=tolees0d-21)

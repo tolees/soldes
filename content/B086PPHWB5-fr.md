@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PPHWB5-fr F1 2020 - Seventy Edition'
 sku: 'B086PPHWB5-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

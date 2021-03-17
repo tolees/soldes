@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VXM67R-fr Nike 894432 T-Shirt Men s Bleu Midnight Navy/White 411 FR...'
 sku: 'B077VXM67R-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 56.7 EUR
 currency: EUR
 price: 56.7

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RTC48MJ-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt Rose...'
 sku: 'B07RTC48MJ-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 77.72 EUR
 currency: EUR
 price: 77.72

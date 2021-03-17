@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VNFH86-fr THULE 960100 Barres de toit WingBar 960 en aluminium -...'
 sku: 'B005VNFH86-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 70.43 EUR
 currency: EUR
 price: 70.43

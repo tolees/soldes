@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003JN4ET8-fr Exacompta - Réf. 5900E - Etui carton de 100 pochettes...'
 sku: 'B003JN4ET8-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 7.44 EUR
 currency: EUR
 price: 7.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075S3ZJL5-fr GORE WEAR C3 GORE WINDSTOPPER PHANTOM Veste zip-off Veste...'
 sku: 'B075S3ZJL5-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 78.42 EUR
 currency: EUR
 price: 78.42

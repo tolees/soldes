@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00STQV5M4-fr BIC Mini Fun Gommes Blanches - Formes Assorties Tubo de 36'
 sku: 'B00STQV5M4-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 13.08 EUR
 currency: EUR
 price: 13.08

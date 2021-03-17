@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0777QZL8H-fr SEC24 CWL401S - Qualité WiFi Système de Surveillance et de...'
 sku: 'B0777QZL8H-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015KKKH7U-fr Kappa Rocket Baskets Basses Mixte Adulte Noir Black/White...'
 sku: 'B015KKKH7U-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 35.85 EUR
 currency: EUR
 price: 35.85

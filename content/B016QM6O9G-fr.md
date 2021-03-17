@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016QM6O9G-fr Tommy Hilfiger E367895041403 - Casquette de Baseball -...'
 sku: 'B016QM6O9G-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

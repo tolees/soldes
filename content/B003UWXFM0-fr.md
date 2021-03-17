@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UWXFM0-fr TP-Link TL-SG1024D Switch 24 Ports Gigabit Bureau/Rackable...'
 sku: 'B003UWXFM0-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 72.67 EUR
 currency: EUR
 price: 72.67

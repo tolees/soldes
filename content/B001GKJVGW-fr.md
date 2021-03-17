@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GKJVGW-fr Dolce&Gabbana - Collier - Acier Inoxydable - 60.0 cm - DJ0595'
 sku: 'B001GKJVGW-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 68.74 EUR
 currency: EUR
 price: 68.74

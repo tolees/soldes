@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HP7ZZVP-fr Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz DDR4...'
 sku: 'B07HP7ZZVP-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

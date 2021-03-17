@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086X2WJG1-fr Fort Boyard Nouvelle Edition'
 sku: 'B086X2WJG1-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

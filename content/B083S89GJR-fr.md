@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083S89GJR-fr ASUS TUF Gaming VG279QM - Ecran PC Gamer eSport 27" FHD -...'
 sku: 'B083S89GJR-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L9BCCCL-fr ROYAL SLEEP Matelas viscoélastique 140x190 fermeté Moyenne...'
 sku: 'B07L9BCCCL-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 151.99 EUR
 currency: EUR
 price: 151.99

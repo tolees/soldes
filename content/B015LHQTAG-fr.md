@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015LHQTAG-fr Beurer FC 90 Pureo Ionic Soin du Visage Anti-âge - Brosse...'
 sku: 'B015LHQTAG-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 55.24 EUR
 currency: EUR
 price: 55.24

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FVS5SLB-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
 sku: 'B08FVS5SLB-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

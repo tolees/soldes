@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005VNFHYK-fr Thule 962100 Barres de Toit WingBar 962 en Aluminium-...'
 sku: 'B005VNFHYK-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 55.15 EUR
 currency: EUR
 price: 55.15

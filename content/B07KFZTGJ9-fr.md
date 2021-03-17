@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFZTGJ9-fr PUMA PUMA ONE 5.3 IT Futsal Shoes Unisex Adults’ Black...'
 sku: 'B07KFZTGJ9-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 22.11 EUR
 currency: EUR
 price: 22.11

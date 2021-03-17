@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FVYYKX-fr Gardena 19300-47 Smart SILENO City 300 Robot Tondeuse Set...'
 sku: 'B082FVYYKX-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 692.1 EUR
 currency: EUR
 price: 692.1

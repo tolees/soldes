@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GDN4QOI-fr Herschel Pop Quiz Sac à dos unisexe pour adulte Eclipse...'
 sku: 'B01GDN4QOI-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

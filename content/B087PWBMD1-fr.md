@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087PWBMD1-fr Maegoo Manette PC PS3 TV sans Fil 2.4GHz Wireless Manette...'
 sku: 'B087PWBMD1-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

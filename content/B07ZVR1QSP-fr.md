@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVR1QSP-fr FBSPORT Airtrack 20 cm Épaisseur Tapis de Gymnastique...'
 sku: 'B07ZVR1QSP-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 103.51 EUR
 currency: EUR
 price: 103.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N36HYLP-fr BRAX Golf Julius Veste de Sport Bleu Blau 25 X-Large Homme'
 sku: 'B07N36HYLP-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 56.4 EUR
 currency: EUR
 price: 56.4

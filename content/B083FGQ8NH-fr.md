@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083FGQ8NH-fr Lacoste BH1966 Veste Noir 44 Homme'
 sku: 'B083FGQ8NH-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 230.98 EUR
 currency: EUR
 price: 230.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XDT62F-fr Norsens Sac à Dos Ordinateur Portable 17/15.6 Pouces...'
 sku: 'B075XDT62F-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

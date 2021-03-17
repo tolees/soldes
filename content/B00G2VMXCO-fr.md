@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G2VMXCO-fr Lerway Potence de Guidon Fourche Extenseur VTT Bicyclette...'
 sku: 'B00G2VMXCO-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

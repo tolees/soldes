@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DWOXU44-fr Pure Jongo T2 Enceinte Portable Bluetooth Piano'
 sku: 'B00DWOXU44-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 75.57 EUR
 currency: EUR
 price: 75.57

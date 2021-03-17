@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CMS13CN-fr Disque Dur Externe 1to USB-C Disque Dur Externe pour PC...'
 sku: 'B08CMS13CN-fr'
-tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99
