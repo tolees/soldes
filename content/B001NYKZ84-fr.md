@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001NYKZ84-fr Reebok Classic Leather Baskets Basses Femme Noir Black 38 EU'
 sku: 'B001NYKZ84-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 63.74 EUR
 currency: EUR
 price: 63.74

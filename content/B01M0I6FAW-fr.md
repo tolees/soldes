@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M0I6FAW-fr VAUDE 12438 Sac à Dos Femme Blueberry 52 L'
 sku: 'B01M0I6FAW-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 79.83 EUR
 currency: EUR
 price: 79.83

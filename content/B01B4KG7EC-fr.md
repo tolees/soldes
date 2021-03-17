@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B4KG7EC-fr Antitaches bois composite - WoodGuard Bois Composite - 5L'
 sku: 'B01B4KG7EC-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 90.05 EUR
 currency: EUR
 price: 90.05

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GHAMB8-fr August DA100D Télévision Portable 10" 25 4cm TNT HD -...'
 sku: 'B001GHAMB8-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 97.02 EUR
 currency: EUR
 price: 97.02

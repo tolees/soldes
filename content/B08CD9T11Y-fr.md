@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CD9T11Y-fr Disque Dur Externe 2to Type C USB3.1 pour PC Mac...'
 sku: 'B08CD9T11Y-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 63.5 EUR
 currency: EUR
 price: 63.5

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DJM0C54-fr Dragonball GT - Box 3 [Import allemand]'
 sku: 'B00DJM0C54-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 36.22 EUR
 currency: EUR
 price: 36.22

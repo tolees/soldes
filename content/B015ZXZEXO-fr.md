@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015ZXZEXO-fr SteelSeries Siberia 650- Casque Gaming- Son Surround Dolby...'
 sku: 'B015ZXZEXO-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 125.71 EUR
 currency: EUR
 price: 125.71

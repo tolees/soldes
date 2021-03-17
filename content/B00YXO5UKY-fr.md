@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00YXO5UKY-fr Turtle Beach Recon 50P Casque Gaming - PS4 PS5 Xbox One...'
 sku: 'B00YXO5UKY-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 20.26 EUR
 currency: EUR
 price: 20.26

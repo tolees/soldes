@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009U3FGC0-fr Terratrend Job 4696/S/6310 Parka Taille S Gris Foncé/Noir'
 sku: 'B009U3FGC0-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 26.66 EUR
 currency: EUR
 price: 26.66

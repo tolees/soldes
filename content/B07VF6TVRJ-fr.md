@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VF6TVRJ-fr Jacob Delafon Mitigeur lavabo haut Léonie'
 sku: 'B07VF6TVRJ-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001BG08DQ-fr Juki MO-654DE Surjeteuse Métal Blanc 34 x 27 x 29 5 cm'
 sku: 'B001BG08DQ-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

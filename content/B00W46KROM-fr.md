@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W46KROM-fr Sony DSCWX500B Appareils Photo Numérique Capteur CMOS...'
 sku: 'B00W46KROM-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 256.99 EUR
 currency: EUR
 price: 256.99

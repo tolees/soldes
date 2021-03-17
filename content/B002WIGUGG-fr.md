@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002WIGUGG-fr BIC Cristal Boîte en forme de stylo à bille avec 20 stylos...'
 sku: 'B002WIGUGG-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 9.96 EUR
 currency: EUR
 price: 9.96

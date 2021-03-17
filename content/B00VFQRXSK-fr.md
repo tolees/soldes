@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VFQRXSK-fr Samsonite Lite-Shock - Spinner S Bagage à Main 55 cm 36 L...'
 sku: 'B00VFQRXSK-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

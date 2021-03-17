@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XNMV56F-fr Garmin vívosmart 3 - Bracelet de Fitness avec Cardio...'
 sku: 'B06XNMV56F-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 50.6 EUR
 currency: EUR
 price: 50.6

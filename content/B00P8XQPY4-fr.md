@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P8XQPY4-fr Clé USB 3.0 SanDisk Ultra 128 Go avec une vitesse de...'
 sku: 'B00P8XQPY4-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

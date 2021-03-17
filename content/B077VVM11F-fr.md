@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077VVM11F-fr Nike 894432 T-Shirt Men s Bleu Midnight Navy/White 411 FR...'
 sku: 'B077VVM11F-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

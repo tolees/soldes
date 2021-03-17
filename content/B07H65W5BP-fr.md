@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H65W5BP-fr Emsa M5262000 Click & Grow Smart Garden 9 Jardinière d...'
 sku: 'B07H65W5BP-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071L3WBS8-fr Andoer Meikon Caméra sous-marine 200 mm Fisheye objectif...'
 sku: 'B071L3WBS8-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 106.0 EUR
 currency: EUR
 price: 106.0

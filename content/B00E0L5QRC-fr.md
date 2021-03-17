@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E0L5QRC-fr GROSFILLEX Vega Table Taupe 118 x 77 x 72 cm'
 sku: 'B00E0L5QRC-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SXNJHT-fr RAMPOW Câble USB C vers USB C [Garantie à Vie] Câble USB C...'
 sku: 'B089SXNJHT-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015YP76SY-fr Beurer Me 90 Electrocardiographe Connecté avec USB/Bluetooth'
 sku: 'B015YP76SY-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 92.38 EUR
 currency: EUR
 price: 92.38

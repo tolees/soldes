@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FR1VZVC-fr DEJIMAX 3200mAh Batterie S7 pour Samsung Galaxy S7 Haute...'
 sku: 'B08FR1VZVC-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

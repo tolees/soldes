@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WQNWBH-fr IKOHS AIRCALM DC - Ventilateur de Plafond Fonction...'
 sku: 'B083WQNWBH-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 180.95 EUR
 currency: EUR
 price: 180.95

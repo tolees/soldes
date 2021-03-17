@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KJZ1R94-fr El Naturalista N5282 Lux Suede El Viajero Bottes &...'
 sku: 'B07KJZ1R94-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 88.65 EUR
 currency: EUR
 price: 88.65

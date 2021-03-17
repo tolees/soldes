@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0184CKS8O-fr ABUS EC-SNP 30/50 Cylindre Débrayable pour Portes...'
 sku: 'B0184CKS8O-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 49.15 EUR
 currency: EUR
 price: 49.15

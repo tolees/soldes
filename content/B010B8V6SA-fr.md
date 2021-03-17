@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010B8V6SA-fr Panasonic Lumix DMCG7/DMCG70 1442/3.55.6 Lumix G Vario OIS...'
 sku: 'B010B8V6SA-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

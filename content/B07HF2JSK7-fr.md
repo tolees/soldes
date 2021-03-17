@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HF2JSK7-fr TIMACO Robinet de cuisine avec douchette à ressort en...'
 sku: 'B07HF2JSK7-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 86.58 EUR
 currency: EUR
 price: 86.58

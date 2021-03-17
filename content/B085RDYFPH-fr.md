@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085RDYFPH-fr Rolimate Puzzles en Bois Jouet Bébé 3D Puzzles Jouets...'
 sku: 'B085RDYFPH-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

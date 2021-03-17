@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0896NHKF8-fr Captain Tsubasa: Rise of New Champions - Edition Collector...'
 sku: 'B0896NHKF8-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 123.53 EUR
 currency: EUR
 price: 123.53

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079GTPW3F-fr NUNCAD Bague Homme/Femme en Tungstène avec I Love You Or...'
 sku: 'B079GTPW3F-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

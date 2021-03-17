@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N44ZH2L-fr HKT by Hackett London Hkt Jogger Pantalon De Sport Bleu...'
 sku: 'B07N44ZH2L-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 35.11 EUR
 currency: EUR
 price: 35.11

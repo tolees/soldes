@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0030DH1WE-fr PetSafe - Système Anti-Fugue Sans Fil et Portatif avec...'
 sku: 'B0030DH1WE-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 229.49 EUR
 currency: EUR
 price: 229.49

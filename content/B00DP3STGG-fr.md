@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DP3STGG-fr AutoStyle IA 78040 Ressorts d abaissement pour'
 sku: 'B00DP3STGG-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 106.56 EUR
 currency: EUR
 price: 106.56

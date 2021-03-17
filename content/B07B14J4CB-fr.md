@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B14J4CB-fr LEGO Unikitty - La fête - 41453 - Jeu de construction'
 sku: 'B07B14J4CB-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 24.89 EUR
 currency: EUR
 price: 24.89

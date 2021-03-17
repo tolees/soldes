@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075V8W1HM-fr Trust 22055 GXT 383 DION 7.1 BASS Vibration Kits Oreillette'
 sku: 'B075V8W1HM-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 56.35 EUR
 currency: EUR
 price: 56.35

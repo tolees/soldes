@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F1T2PH9-fr Nativi Troll Bluetooth Écouteurs sans Fil Casques sans Fil...'
 sku: 'B08F1T2PH9-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

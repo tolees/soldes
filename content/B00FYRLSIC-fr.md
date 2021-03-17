@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FYRLSIC-fr Sony Objectif Zeiss SEL-2470Z Monture E Plein Format 24-70...'
 sku: 'B00FYRLSIC-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

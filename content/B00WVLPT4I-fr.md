@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WVLPT4I-fr Fissler Vitavit Edition Design / Autocuiseur En Acier...'
 sku: 'B00WVLPT4I-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 184.48 EUR
 currency: EUR
 price: 184.48

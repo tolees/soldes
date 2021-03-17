@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00U6QA7V0-fr Calor EP2850C0 Épilateur Flower Love'
 sku: 'B00U6QA7V0-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 42.95 EUR
 currency: EUR
 price: 42.95

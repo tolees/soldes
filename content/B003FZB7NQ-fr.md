@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003FZB7NQ-fr Lexibook D800FR Dictionnaire électronique Larousse'
 sku: 'B003FZB7NQ-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082F5CKKF-fr Fer à Lisser Professionnel Lissara - Plaques Larges en...'
 sku: 'B082F5CKKF-fr'
-tags: [  ]
+tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 23.86 EUR
 currency: EUR
 price: 23.86

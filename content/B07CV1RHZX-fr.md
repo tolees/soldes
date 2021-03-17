@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CV1RHZX-fr Nespresso Essenza Mini - Machine espresso à capsules -...'
 sku: 'B07CV1RHZX-fr'
-tags: [ 'krups', ]
+tags: [ 'Accessoires IT','Accessoires de décoration intérieure','Accessoires pour tablette tactile','Ameublement et décoration','Batteurs','Batteurs sur socle','Boîtes à outils','Bricolage','Cafetières à capsules','Cafetières, Machines à café et machines à expresso','Café, thé et expresso','Casiers et supports de cuisine','Casseroles, plats et poêles','Chauffage et climatisation','Cinéma asiatique','Cocottes','Cocottes et plats de cuisson','Comédie','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','Cours universitaires','Crèmes dépilatoires','Cuisine et Maison','DVD et Blu-ray','Drame et émotion','Décoration de la maison','Décorations murales','Déshumidificateurs','Featured Categories','Films','Hygiène et Santé','Informatique','Jeans homme','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux pour PlayStation 4','Jeux vidéo','Kits','Lettres modernes pour luniversité','Livres','Mixeurs, batteurs et robots multifonctions','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Petit électroménager','PlayStation 4: Consoles, jeux et accessoires','Porte-épices','Poupées et accessoires','Poupées et poupons','Poupées, poupons et accessoires','Poésie','Quincaillerie','Quincaillerie de portes de garage','Rangement des outils','Rangement et organisation','Rangement et organisation de cuisine','Rasage et Épilation','Romance','Romans et littérature','Thriller','Vêtements','Vêtements homme','krups','Épilation','Études supérieures', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0
@@ -28,14 +28,14 @@ C'est en vente [Nespresso Essenza Mini - Machine espresso à capsules - Blanc - 
 
 ℹ️:
 
-- 2 boutons avec arrêt automatique du café : espresso (40 ml) ou café long (110 ml)
-- Mode économiseur dénergie: mise en veille automatique après 9 min
-- Machine espresso à capsules Essenza Mini, le modèle ultra-compact de la gamme des machines à café Nespresso
 - Capacité du bac pour capsules usagées : 6
+- Machine espresso à capsules Essenza Mini, le modèle ultra-compact de la gamme des machines à café Nespresso
+- Pré-chauffage rapide : 25 secondes
 - 19 bar de pression : la garantie dun espresso de qualité professionnelle
 - Offert ! Un set de 14 capsules livré avec votre machine
-- Réservoir deau amovible de 0,6 L
+- 2 boutons avec arrêt automatique du café : espresso (40 ml) ou café long (110 ml)
 - Dimensions (LxHxl): 8,4 x 20,4 x 33 cm
-- Pré-chauffage rapide : 25 secondes
+- Mode économiseur dénergie: mise en veille automatique après 9 min
+- Réservoir deau amovible de 0,6 L
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CV1RHZX/?tag=tolees0d-21)
