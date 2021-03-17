@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VI3MK4M-fr Smartphone Xiaomi Redmi Note 8T 6.3 - 4 GB - 64 GB - Blue'
 sku: 'B00VI3MK4M-fr'
-tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 145.0 EUR
 currency: EUR
 price: 145.0

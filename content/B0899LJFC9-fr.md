@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899LJFC9-fr 【2020 dernière】 Barre de Son 2.1 Canaux avec Subwoofer 190...'
 sku: 'B0899LJFC9-fr'
-tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

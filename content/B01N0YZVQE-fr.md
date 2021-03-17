@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0YZVQE-fr Clé USB 3.1 Sandisk Extreme Go - 128 Go avec une vitesse...'
 sku: 'B01N0YZVQE-fr'
-tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 38.57 EUR
 currency: EUR
 price: 38.57

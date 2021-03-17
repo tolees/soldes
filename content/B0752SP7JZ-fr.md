@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752SP7JZ-fr Ridgebake Hauptkollektion Sac à Dos Loisir 51 Centimeters...'
 sku: 'B0752SP7JZ-fr'
-tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 58.23 EUR
 currency: EUR
 price: 58.23

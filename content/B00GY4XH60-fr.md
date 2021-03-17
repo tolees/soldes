@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GY4XH60-fr PKparis K 1 Clé USB 3.0 64 Go Blanc'
 sku: 'B00GY4XH60-fr'
-tags: [ 'Accessoires de décoration intérieure','Ameublement et décoration','Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Décoration de la maison','Décorations murales','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73
