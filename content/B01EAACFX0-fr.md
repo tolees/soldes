@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EAACFX0-fr Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 +...'
 sku: 'B01EAACFX0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

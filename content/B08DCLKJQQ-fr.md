@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DCLKJQQ-fr Chargeur Secteur Usb Rapide pour Samsung A41 A31 A21S A20E...'
 sku: 'B08DCLKJQQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

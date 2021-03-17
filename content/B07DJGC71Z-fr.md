@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DJGC71Z-fr Fujifilm 70100138933 Pack Découverte Instax Mini 9 avec...'
 sku: 'B07DJGC71Z-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075S2PHD2-fr GORE Wear C3 Homme Pantalon de pluie GORE-TEX L Noir'
 sku: 'B075S2PHD2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 141.13 EUR
 currency: EUR
 price: 141.13

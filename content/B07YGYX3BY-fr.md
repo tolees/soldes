@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YGYX3BY-fr IKKS Junior Combi Short MC Combinaison Vert Kaki 56 8 Ans...'
 sku: 'B07YGYX3BY-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 27.6 EUR
 currency: EUR
 price: 27.6

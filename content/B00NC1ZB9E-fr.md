@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NC1ZB9E-fr Safavieh Tapis Moderne Tissé Fibre de Viscose douce Tapis...'
 sku: 'B00NC1ZB9E-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 72.6 EUR
 currency: EUR
 price: 72.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HDG1RT3-fr Galaxy S8 Film Protection Ecran Verre Trempé [2 Pièces]...'
 sku: 'B08HDG1RT3-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

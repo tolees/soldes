@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JCH3YMN-fr Reshias Coque pour Sony Xperia 10 II Souple Transparent...'
 sku: 'B08JCH3YMN-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 4.89 EUR
 currency: EUR
 price: 4.89

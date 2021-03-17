@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01FJN12FE-fr Trust Gaming GXT 608 Enceinte PC Gamer 2.0 pour Ordinateur...'
 sku: 'B01FJN12FE-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

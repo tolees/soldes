@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPG0WRY-fr Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x...'
 sku: 'B00LPG0WRY-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F64GE1I-fr Oakwood 60901 - Veste en cuir - Col à boutons - Manches...'
 sku: 'B01F64GE1I-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 120.49 EUR
 currency: EUR
 price: 120.49

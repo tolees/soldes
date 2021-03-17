@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C8S7JN4-fr Hauck/ Sit N Relax/ Chaise Haute Bébé 3 en 1/ Transat Bébé...'
 sku: 'B07C8S7JN4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 89.4 EUR
 currency: EUR
 price: 89.4

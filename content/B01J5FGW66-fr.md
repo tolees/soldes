@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J5FGW66-fr Philips GC8735/80 Centrale vapeur PerfectCare Performer 6...'
 sku: 'B01J5FGW66-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 146.99 EUR
 currency: EUR
 price: 146.99

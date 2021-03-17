@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M216RUP-fr Bosch Electroménager MUC22B42FR Multicuiseur 900 W Anthracite'
 sku: 'B01M216RUP-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 85.99 EUR
 currency: EUR
 price: 85.99

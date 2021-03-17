@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073S3SW9R-fr Déshumidificateur Electrique Aidodo d air...'
 sku: 'B073S3SW9R-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

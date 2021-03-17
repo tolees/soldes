@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NKVV5X-fr Rotary Montres Bracelet GB08300/01'
 sku: 'B075NKVV5X-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 100.47 EUR
 currency: EUR
 price: 100.47

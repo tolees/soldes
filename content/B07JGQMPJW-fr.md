@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGQMPJW-fr Lowepro Whistler BP 450 AW II Sac à dos 4 saisons ultra-...'
 sku: 'B07JGQMPJW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 253.49 EUR
 currency: EUR
 price: 253.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IN8OPTI-fr Dsquared2 D Squared Brillengestelle DQ5122 071-55-16-140...'
 sku: 'B00IN8OPTI-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 77.21 EUR
 currency: EUR
 price: 77.21

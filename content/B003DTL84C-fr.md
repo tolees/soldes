@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003DTL84C-fr Thule EuroRide 2 13-pin Porte-vélos sur boule d attelage...'
 sku: 'B003DTL84C-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 243.41 EUR
 currency: EUR
 price: 243.41

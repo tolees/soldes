@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XH75EFE-fr TOKINA AT-X PRO FX 24-70mm F2.8 Objectif reflex pro haute...'
 sku: 'B00XH75EFE-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 813.7 EUR
 currency: EUR
 price: 813.7

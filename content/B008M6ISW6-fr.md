@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008M6ISW6-fr Aigle - Parcours 2 Iso- Chaussure de chasse - Homme - Vert...'
 sku: 'B008M6ISW6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 89.25 EUR
 currency: EUR
 price: 89.25

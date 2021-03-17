@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P91GN8Y-fr Frock and Frill Godiva Mandarin Collar Embellied Maxi...'
 sku: 'B07P91GN8Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 77.64 EUR
 currency: EUR
 price: 77.64

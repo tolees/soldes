@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009RP47US-fr Time Force Hommes Analogique Quartz Montre avec Bracelet...'
 sku: 'B009RP47US-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 92.3 EUR
 currency: EUR
 price: 92.3

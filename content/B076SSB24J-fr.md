@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076SSB24J-fr Flexson Supports Muraux pour Sonos One One SL et Play:1 -...'
 sku: 'B076SSB24J-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 44.69 EUR
 currency: EUR
 price: 44.69

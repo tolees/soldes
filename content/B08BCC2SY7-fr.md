@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCC2SY7-fr KEXWAXX Longue Vue Tir Sportif Puissante Terrestre 25-75X...'
 sku: 'B08BCC2SY7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 199.98 EUR
 currency: EUR
 price: 199.98

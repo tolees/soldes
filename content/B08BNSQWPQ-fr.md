@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BNSQWPQ-fr RAMPOW Câble USB C vers USB C 100W 2m Câble USB Type C...'
 sku: 'B08BNSQWPQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 11.49 EUR
 currency: EUR
 price: 11.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3VDW3V-fr Prodisac Forte ® | Haute concentration de Gingsen + Maca +...'
 sku: 'B08D3VDW3V-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

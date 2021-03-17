@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3YL5T0-fr Melitta Machine à Café Automatique Caffeo Solo Noir Pure...'
 sku: 'B00I3YL5T0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 257.99 EUR
 currency: EUR
 price: 257.99

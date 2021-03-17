@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XQY8JZ2-fr Tronsmart T6 Plus Enceinte Bluetooth 40W Haut Parleur...'
 sku: 'B07XQY8JZ2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 56.09 EUR
 currency: EUR
 price: 56.09

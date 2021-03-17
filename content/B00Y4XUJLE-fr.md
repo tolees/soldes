@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Y4XUJLE-fr Lacoste PH4014-00 - Polo - Homme Bleu Marine 166 Medium'
 sku: 'B00Y4XUJLE-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 66.45 EUR
 currency: EUR
 price: 66.45

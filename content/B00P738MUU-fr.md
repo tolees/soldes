@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00P738MUU-fr Samsung SSD 850 EVO 1 To - SSD Interne SATA III 2.5" -...'
 sku: 'B00P738MUU-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 296.8 EUR
 currency: EUR
 price: 296.8

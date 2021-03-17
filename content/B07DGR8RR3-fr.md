@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGR8RR3-fr Philips Hue White Ambiance ADORE Barre de Spots salle de...'
 sku: 'B07DGR8RR3-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 129.66 EUR
 currency: EUR
 price: 129.66

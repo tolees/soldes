@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MWSCYLH-fr Buyger 35 pièces Déguisement de Docteur Jouet Costume...'
 sku: 'B07MWSCYLH-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

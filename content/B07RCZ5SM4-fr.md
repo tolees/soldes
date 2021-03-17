@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RCZ5SM4-fr Pieces Pccollina Leather Bag Sacs portés épaule femme...'
 sku: 'B07RCZ5SM4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 55.81 EUR
 currency: EUR
 price: 55.81

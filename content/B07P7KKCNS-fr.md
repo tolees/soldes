@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P7KKCNS-fr Playmobil - Playmobil The Movie Rex Dasher Porsche Mission...'
 sku: 'B07P7KKCNS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 55.43 EUR
 currency: EUR
 price: 55.43

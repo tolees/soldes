@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FC7G3QM-fr LK Verre Trempé pour Xiaomi Mi 10 Lite Protection écran [3...'
 sku: 'B08FC7G3QM-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

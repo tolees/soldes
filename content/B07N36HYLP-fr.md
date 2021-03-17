@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N36HYLP-fr BRAX Golf Julius Veste de Sport Bleu Blau 25 X-Large Homme'
 sku: 'B07N36HYLP-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 56.4 EUR
 currency: EUR
 price: 56.4

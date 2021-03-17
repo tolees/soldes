@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SK1XZCF-fr GGMM D3 Base de Batterie Portable pour Enceinte Dot 3ème...'
 sku: 'B07SK1XZCF-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000SJVJGC-fr GYMNIC - 70.12 - Cheval Gonflable - Rody en Jaune'
 sku: 'B000SJVJGC-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

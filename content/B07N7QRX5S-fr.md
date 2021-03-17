@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N7QRX5S-fr Camel Active Womenswear Feb-62 Blouson Marron Dark Brown...'
 sku: 'B07N7QRX5S-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 110.14 EUR
 currency: EUR
 price: 110.14

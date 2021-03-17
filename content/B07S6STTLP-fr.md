@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S6STTLP-fr Coffret à Bijoux Beige Velvet - 18 x 12 x 7 cm'
 sku: 'B07S6STTLP-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

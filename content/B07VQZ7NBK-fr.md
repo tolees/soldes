@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQZ7NBK-fr Selonis Piscine À Balles 90X30cm/200 Balles Ronde en...'
 sku: 'B07VQZ7NBK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

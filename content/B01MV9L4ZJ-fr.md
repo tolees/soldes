@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MV9L4ZJ-fr Lacoste TH6709 T-Shirt Homme Bleu Marine 166 S'
 sku: 'B01MV9L4ZJ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

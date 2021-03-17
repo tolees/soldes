@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QKGWN2Y-fr Kimberfeel RACE Chaussure de Trail running pour Homme de...'
 sku: 'B07QKGWN2Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 45.94 EUR
 currency: EUR
 price: 45.94

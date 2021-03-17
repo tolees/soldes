@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079JPB6FS-fr Sac à Bandoulière Sac à Dos JOSEKO Sac à Main en Toile...'
 sku: 'B079JPB6FS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

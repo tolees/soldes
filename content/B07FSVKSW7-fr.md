@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSVKSW7-fr Rockport Madson Plain Toe Derbys Homme Marron Cognac 003...'
 sku: 'B07FSVKSW7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 46.04 EUR
 currency: EUR
 price: 46.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00J7GVM9G-fr Zwilling 66060-000 Passion Batterie de cuisine Acier...'
 sku: 'B00J7GVM9G-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

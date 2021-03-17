@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E9IXQ4G-fr Crane Stand CUHS-LG-2L Mallette universelle rigide pour DJ'
 sku: 'B00E9IXQ4G-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 73.62 EUR
 currency: EUR
 price: 73.62

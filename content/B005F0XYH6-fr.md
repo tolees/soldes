@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005F0XYH6-fr Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135...'
 sku: 'B005F0XYH6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 77.04 EUR
 currency: EUR
 price: 77.04

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MCDF2XR-fr GANT Max Chelsea Boots Homme Marron Tobacco G42 40 EU'
 sku: 'B07MCDF2XR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 129.95 EUR
 currency: EUR
 price: 129.95

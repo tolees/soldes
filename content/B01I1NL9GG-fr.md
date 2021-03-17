@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I1NL9GG-fr FAGOR FG293 Aspirateur balai 2 en 1 Rouge 0 5 L 1800 W'
 sku: 'B01I1NL9GG-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 81.42 EUR
 currency: EUR
 price: 81.42

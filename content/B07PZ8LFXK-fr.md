@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZ8LFXK-fr Amazon Essentials Full-Zip High-Pile Polar Fleece Jacket...'
 sku: 'B07PZ8LFXK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 15.04 EUR
 currency: EUR
 price: 15.04

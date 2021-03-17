@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS12LTL-fr HUION New Kamvas 20 2019 Tablette Graphique avec écran...'
 sku: 'B07RS12LTL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 379.2 EUR
 currency: EUR
 price: 379.2

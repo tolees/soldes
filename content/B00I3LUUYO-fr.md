@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3LUUYO-fr Sony MDR-EX110APW Ecouteurs Intra-auriculaires avec...'
 sku: 'B00I3LUUYO-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

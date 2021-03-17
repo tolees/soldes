@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB4XTCP-fr Garmin - Dash Cam 56 - Caméra de conduite - Enregistrement...'
 sku: 'B07RB4XTCP-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 150.46 EUR
 currency: EUR
 price: 150.46

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071CYR18L-fr Huawei B525s-23a noir Routeur 4G+ LTE LTE-A Catégorie 6...'
 sku: 'B071CYR18L-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 131.23 EUR
 currency: EUR
 price: 131.23

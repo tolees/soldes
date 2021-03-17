@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NX4XKL8-fr BLACK+DECKER BDCDD121BKA-QW Perceuse-Visseuse sans fil - 2...'
 sku: 'B07NX4XKL8-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 48.0 EUR
 currency: EUR
 price: 48.0

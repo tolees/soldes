@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016DUD3MW-fr Hoover CAN1700R Nettoyeur Vapeur Balai Steam Capsule...'
 sku: 'B016DUD3MW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 51.08 EUR
 currency: EUR
 price: 51.08

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0798C1KRV-fr LIVALL Bh60se Musik Rücklicht Blinker Navigation...'
 sku: 'B0798C1KRV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 111.63 EUR
 currency: EUR
 price: 111.63

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AIOSHN4-fr Hozelock 2216 1240 Programmateur d Arrosage cloud Noir 10...'
 sku: 'B01AIOSHN4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 82.9 EUR
 currency: EUR
 price: 82.9

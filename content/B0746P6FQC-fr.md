@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0746P6FQC-fr Philips Sonicare HX8491/01 AirFloss Ultra et brosse à...'
 sku: 'B0746P6FQC-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 149.93 EUR
 currency: EUR
 price: 149.93

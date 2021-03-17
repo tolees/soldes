@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ULLSWSU-fr Sony Objectif G Macro SEL-90M28G Monture E Plein Format 90...'
 sku: 'B00ULLSWSU-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 909.0 EUR
 currency: EUR
 price: 909.0

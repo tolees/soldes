@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MDKFB2X-fr Lacoste BJ8097 Blouson Bleu Sinople/Marine Dq5 14 Ans...'
 sku: 'B07MDKFB2X-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FP2GRX7-fr LEGO® DUPLO® Mes 1ers pas Mon premier puzzle amusant Jeu...'
 sku: 'B07FP2GRX7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

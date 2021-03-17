@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K1P3JBK-fr St Marc Lingettes Nettoyantes Désinfectantes et...'
 sku: 'B01K1P3JBK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 18.05 EUR
 currency: EUR
 price: 18.05

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSY6FHW-fr Love Moschino Logo Box Short Sleeve Polo Black C74 Small...'
 sku: 'B07KSY6FHW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 90.58 EUR
 currency: EUR
 price: 90.58

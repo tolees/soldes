@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXS14L8-fr FOLLOW UP Cruiser Skateboard Electrique Mixte Adulte Noir'
 sku: 'B06XXS14L8-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 121.24 EUR
 currency: EUR
 price: 121.24

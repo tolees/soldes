@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KGMBCKD-fr Sabrent SSD interne Rocket NVMe PCIe M.2 2280 de 512GB....'
 sku: 'B07KGMBCKD-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

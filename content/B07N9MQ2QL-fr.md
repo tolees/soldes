@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9MQ2QL-fr Samsonite Sac à dos loisir 116873/1041 Jaune foncé Jaune -...'
 sku: 'B07N9MQ2QL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 59.58 EUR
 currency: EUR
 price: 59.58

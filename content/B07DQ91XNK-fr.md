@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQ91XNK-fr Seagate Portable 2 To Disque dur externe portable HDD –...'
 sku: 'B07DQ91XNK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

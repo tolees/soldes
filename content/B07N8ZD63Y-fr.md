@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8ZD63Y-fr Foscam - FI9902P - Caméra IP Wi-FI extérieure 1080P'
 sku: 'B07N8ZD63Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 65.2 EUR
 currency: EUR
 price: 65.2

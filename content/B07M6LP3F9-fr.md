@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M6LP3F9-fr 1MORE écouteurs véritables sans fil Bluetooth 5.0 lecture...'
 sku: 'B07M6LP3F9-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 63.87 EUR
 currency: EUR
 price: 63.87

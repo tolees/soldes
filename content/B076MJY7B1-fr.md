@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MJY7B1-fr Fisher-Price Puppy Eveil Progressif jouet bébé peluche...'
 sku: 'B076MJY7B1-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

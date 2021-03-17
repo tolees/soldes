@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074NFYD29-fr THE NORTH FACE Nuptse III Gilet Homme TNF Black FR : M...'
 sku: 'B074NFYD29-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 94.18 EUR
 currency: EUR
 price: 94.18

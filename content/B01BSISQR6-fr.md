@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BSISQR6-fr Tots by Smart Rike 240–108 Parure de lit classic rose de...'
 sku: 'B01BSISQR6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 29.2 EUR
 currency: EUR
 price: 29.2

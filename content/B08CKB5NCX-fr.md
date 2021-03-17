@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CKB5NCX-fr Lumière Solaire Extérieur-POLARTAIL-[140...'
 sku: 'B08CKB5NCX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

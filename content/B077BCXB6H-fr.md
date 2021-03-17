@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077BCXB6H-fr Calvin Klein Homme - Lot de 3 aille mi-haute boxers -...'
 sku: 'B077BCXB6H-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 36.02 EUR
 currency: EUR
 price: 36.02

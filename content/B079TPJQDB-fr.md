@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TPJQDB-fr Monopoly Tricheurs - Jeu de societe - Jeu de plateau -...'
 sku: 'B079TPJQDB-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

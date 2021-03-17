@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZ816HG-fr Under Armour UA Roland Backpack Hydrofuge Pratique Sac à...'
 sku: 'B07CZ816HG-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

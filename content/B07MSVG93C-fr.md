@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSVG93C-fr Liu Jo Shoes Karlie 14 Sneaker Bordeaux Sneakers Basses...'
 sku: 'B07MSVG93C-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 90.5 EUR
 currency: EUR
 price: 90.5

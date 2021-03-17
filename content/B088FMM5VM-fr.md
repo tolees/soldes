@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088FMM5VM-fr lenbest Jouet Bebe - 3D Puzzles en Bois Fond Vif Animaux...'
 sku: 'B088FMM5VM-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

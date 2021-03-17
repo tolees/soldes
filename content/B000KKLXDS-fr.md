@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KKLXDS-fr Eastpak The One Sac Bandoulière 21 cm 2.5 L Noir Black'
 sku: 'B000KKLXDS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

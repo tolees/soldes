@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VNFNQ9C-fr STAGLIFE Sac Bandoulière en Cuir Urbain pour Femme Sac de...'
 sku: 'B07VNFNQ9C-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

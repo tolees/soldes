@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TGD8T4P-fr Brooks Brothers 100134408 Chemise Casual Blanc White 115...'
 sku: 'B07TGD8T4P-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 46.44 EUR
 currency: EUR
 price: 46.44

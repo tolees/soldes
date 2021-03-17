@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085L1XG7V-fr Casque de Sommeil -Anti Bruit Sommeil Bandeau Bluetooth...'
 sku: 'B085L1XG7V-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2G2TK2-fr Levi s Perfect V Neck T-Shirt Blanc White + 0002 Large Femme'
 sku: 'B07S2G2TK2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

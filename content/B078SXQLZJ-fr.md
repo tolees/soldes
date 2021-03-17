@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SXQLZJ-fr Timberland Malibu Waves Ankle Strap Sandales Femme Marron...'
 sku: 'B078SXQLZJ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

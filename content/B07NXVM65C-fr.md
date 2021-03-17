@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NXVM65C-fr Hairdorables Poupée Serie 2 avec 11 Accessoires Surprises...'
 sku: 'B07NXVM65C-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 13.0 EUR
 currency: EUR
 price: 13.0

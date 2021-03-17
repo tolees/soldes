@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5ZTKYL-fr MOONESS Coque Xiaomi Redmi Note 9s + Verre Trempé Housse...'
 sku: 'B08B5ZTKYL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

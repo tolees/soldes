@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MC84HQR-fr Liu Jo Shoes Asia 06 Sneaker Sneakers Basses Femme Blanc...'
 sku: 'B07MC84HQR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 86.19 EUR
 currency: EUR
 price: 86.19

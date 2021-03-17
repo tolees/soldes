@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KQJMF7-fr Bayonetta & Vanquish 10th Anniversary Bundle - Launch...'
 sku: 'B081KQJMF7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

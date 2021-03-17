@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004XLXPSQ-fr Brunner Tonnelle Medusa 3x3 Bleu'
 sku: 'B004XLXPSQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 106.59 EUR
 currency: EUR
 price: 106.59

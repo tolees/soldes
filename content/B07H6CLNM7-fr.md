@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H6CLNM7-fr Maison Lejaby Tropical UNI Haut de maillot de bain Femme...'
 sku: 'B07H6CLNM7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

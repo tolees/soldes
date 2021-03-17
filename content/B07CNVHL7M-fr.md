@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNVHL7M-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 60 Go...'
 sku: 'B07CNVHL7M-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

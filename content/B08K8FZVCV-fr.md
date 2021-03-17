@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08K8FZVCV-fr eXtremeRate Coque Avant Housse Boîtier Kit de Remplacement...'
 sku: 'B08K8FZVCV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

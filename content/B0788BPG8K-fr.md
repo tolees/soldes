@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0788BPG8K-fr Hoopzi - Hang 5 - Suspension Luminaire Avec Cache Douille...'
 sku: 'B0788BPG8K-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH4C28X-fr POP! Marvel: Black Widow – Taskmaster w/ Shield'
 sku: 'B07XH4C28X-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BNJL8I4-fr HyperX Impact DDR4 HX424S14IBK2/32 Mémoire RAM 2400MHz...'
 sku: 'B01BNJL8I4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

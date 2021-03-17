@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SH2SFLW-fr Honeycomb Aeronautical Alpha Flight Controls Yoke & Switch...'
 sku: 'B07SH2SFLW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 238.23 EUR
 currency: EUR
 price: 238.23

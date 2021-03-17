@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4R4RF4-fr Piquadro Sac à dos loisir Marron - CA2943OS'
 sku: 'B00E4R4RF4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 133.65 EUR
 currency: EUR
 price: 133.65

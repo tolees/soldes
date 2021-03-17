@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01I1SB9E8-fr B.K. Licht réglette LED orientable platine LED 8 5W...'
 sku: 'B01I1SB9E8-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

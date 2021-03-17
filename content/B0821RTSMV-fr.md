@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0821RTSMV-fr BONNYCO Tableau Magique Enfant A4 et A5 6 Pochoirs et 2...'
 sku: 'B0821RTSMV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

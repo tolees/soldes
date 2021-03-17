@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Z5JG1J-fr Vero Moda Vmhot Nine Hw DNM Pencil Skirt Mix Noos Jupe...'
 sku: 'B075Z5JG1J-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

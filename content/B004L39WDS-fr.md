@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004L39WDS-fr Timberland Rugged 6 inch Plain Toe Waterproof Bottes Homme...'
 sku: 'B004L39WDS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 145.98 EUR
 currency: EUR
 price: 145.98

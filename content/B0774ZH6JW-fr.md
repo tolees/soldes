@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774ZH6JW-fr Brooks Brothers 100097653 Short Beige Beige 275 48 Taille...'
 sku: 'B0774ZH6JW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

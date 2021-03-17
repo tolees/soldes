@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NM4R6ZS-fr AVIC-Z820DAB'
 sku: 'B07NM4R6ZS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 665.0 EUR
 currency: EUR
 price: 665.0

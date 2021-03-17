@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0796BWCX3-fr Napapijri Nore Short Bleu Blu Marine 176 No Aplica Taille...'
 sku: 'B0796BWCX3-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 65.97 EUR
 currency: EUR
 price: 65.97

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DX7QM46-fr V Tech Tut Tut Bolides Mon premier garage interactif Éthan...'
 sku: 'B07DX7QM46-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 37.5 EUR
 currency: EUR
 price: 37.5

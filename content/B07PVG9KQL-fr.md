@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PVG9KQL-fr Beelink BT3 Pro II Mini PC Computer Windows 10 4 Go de RAM...'
 sku: 'B07PVG9KQL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

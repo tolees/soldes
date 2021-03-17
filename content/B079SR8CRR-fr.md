@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SR8CRR-fr Pinypon - 700014086 - Enfants et Bébés Paquet de 6...'
 sku: 'B079SR8CRR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

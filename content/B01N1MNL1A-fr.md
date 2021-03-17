@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N1MNL1A-fr Thule EasyFold XT 2 Porte-vélos sur boule d’attelage...'
 sku: 'B01N1MNL1A-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 568.2 EUR
 currency: EUR
 price: 568.2

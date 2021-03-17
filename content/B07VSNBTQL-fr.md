@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSNBTQL-fr 3T6B Drone avec Camera 1080P HD 4K Pixels Quadricoptère de...'
 sku: 'B07VSNBTQL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

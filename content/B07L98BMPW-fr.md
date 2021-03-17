@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L98BMPW-fr Under Armour Armour Insulated Hooded Veste Homme Noir FR :...'
 sku: 'B07L98BMPW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 57.72 EUR
 currency: EUR
 price: 57.72

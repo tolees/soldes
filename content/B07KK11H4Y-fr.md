@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK11H4Y-fr Kickers - KICK COL 621514-30-92 - Bottes & bottines...'
 sku: 'B07KK11H4Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

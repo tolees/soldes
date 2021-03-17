@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLJWP9F-fr RAMPOW Chargeur USB C 18W Power Delivery [Garantie à Vie]...'
 sku: 'B08BLJWP9F-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

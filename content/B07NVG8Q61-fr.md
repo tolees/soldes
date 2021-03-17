@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NVG8Q61-fr Mpow H7 Casque Bluetooth sans Fil Casque Audio avec Micro...'
 sku: 'B07NVG8Q61-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

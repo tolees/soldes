@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078BG4RJD-fr eXtremeRate Support Vertical Noir pour Xbox One X Console'
 sku: 'B078BG4RJD-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

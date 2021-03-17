@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087QDVPLV-fr ORICO H100 3D SSD 2.5"/7mm-SATA III - Disque Dur Interne 6...'
 sku: 'B087QDVPLV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

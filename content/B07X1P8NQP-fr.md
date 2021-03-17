@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X1P8NQP-fr Samsung Galaxy Note 10+ - Smartphone Portable débloqué 4G...'
 sku: 'B07X1P8NQP-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 799.0 EUR
 currency: EUR
 price: 799.0

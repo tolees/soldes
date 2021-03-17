@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GAK3PR4-fr ELTEN 78671-43 Rigger Boot Chaussures de sécurité ESD S3...'
 sku: 'B00GAK3PR4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 60.52 EUR
 currency: EUR
 price: 60.52

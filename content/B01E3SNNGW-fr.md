@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E3SNNGW-fr Bose SoundSport Écouteurs sans Fil Bluetooth - Bleu'
 sku: 'B01E3SNNGW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 120.0 EUR
 currency: EUR
 price: 120.0

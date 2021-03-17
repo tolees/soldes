@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RP1BNG9-fr Figurine - Ghost Recon: Breakpoint - Nomad'
 sku: 'B07RP1BNG9-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 36.81 EUR
 currency: EUR
 price: 36.81

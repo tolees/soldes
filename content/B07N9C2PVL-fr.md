@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N9C2PVL-fr JBL LIVE 400BT – Casque Audio Supra-Auriculaire Sans Fil –...'
 sku: 'B07N9C2PVL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 78.89 EUR
 currency: EUR
 price: 78.89

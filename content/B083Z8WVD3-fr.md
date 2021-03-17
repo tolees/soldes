@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Z8WVD3-fr Ultenic Aspirateur Robot D5s Connecté Wi-FI et Alexa...'
 sku: 'B083Z8WVD3-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 164.25 EUR
 currency: EUR
 price: 164.25

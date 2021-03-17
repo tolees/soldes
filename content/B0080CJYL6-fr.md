@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0080CJYL6-fr Gre CIPROV611 - Couverture d’hiver pour piscine ovale ou...'
 sku: 'B0080CJYL6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

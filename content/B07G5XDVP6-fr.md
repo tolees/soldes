@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5XDVP6-fr GPR Italie Jo.56.Vic Paire terminaux homologués avec...'
 sku: 'B07G5XDVP6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 485.69 EUR
 currency: EUR
 price: 485.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QZ2FT2D-fr VIEWTEK Micro:bit Mini Smart Robot Car V2.0 for Arduino No...'
 sku: 'B07QZ2FT2D-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

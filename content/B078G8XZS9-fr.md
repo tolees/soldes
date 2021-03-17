@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078G8XZS9-fr Grohe 34712000 Pack Encastré Mécanique 3 Sorties...'
 sku: 'B078G8XZS9-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 757.0 EUR
 currency: EUR
 price: 757.0

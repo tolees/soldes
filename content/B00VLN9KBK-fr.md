@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VLN9KBK-fr Levi s GRAPHIC SET-IN NECK T-Shirt Homme Bleu C18977...'
 sku: 'B00VLN9KBK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

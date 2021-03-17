@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ZML8D0-fr Helly Hansen HH Crew Midlayer Jacket – Veste imperméable...'
 sku: 'B006ZML8D0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 55.48 EUR
 currency: EUR
 price: 55.48

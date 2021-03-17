@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072LNNT6S-fr Crocs Specialist Ii Clog Sabots Mixte Adulte Bleu Navy...'
 sku: 'B072LNNT6S-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015JIA97Q-fr Polaroid Snap - Appareil Photo Numérique Instantané avec...'
 sku: 'B015JIA97Q-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 96.78 EUR
 currency: EUR
 price: 96.78

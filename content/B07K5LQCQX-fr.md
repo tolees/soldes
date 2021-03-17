@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K5LQCQX-fr Levi s 501 Original Fit Jeans Homme Bleu Snoot 32W / 32L'
 sku: 'B07K5LQCQX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

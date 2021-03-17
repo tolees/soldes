@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003FQIU4O-fr Cuisinart CH4DCE Mini-Préparateur Double sens Rotation...'
 sku: 'B003FQIU4O-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 62.78 EUR
 currency: EUR
 price: 62.78

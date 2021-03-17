@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011SDBCBI-fr Schott NYC Tornado Blouson Noir Black S Homme'
 sku: 'B011SDBCBI-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 81.6 EUR
 currency: EUR
 price: 81.6

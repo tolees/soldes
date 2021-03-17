@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HBPDD5Y-fr ASUS - Casque Gamer ROG Delta 7.1 Virtuel avec RGB Aura...'
 sku: 'B07HBPDD5Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

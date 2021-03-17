@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089S3YJ9X-fr Montre Connectée Femmes Montre Sport Homme 9 Modes Sportif...'
 sku: 'B089S3YJ9X-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

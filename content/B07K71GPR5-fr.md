@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K71GPR5-fr Levi s 501 Coupe Originale - Jean - Homme - Bleu Snoot...'
 sku: 'B07K71GPR5-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 66.98 EUR
 currency: EUR
 price: 66.98

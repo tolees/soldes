@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TZ2PFR-fr Team Kalorik Trancheuse Électrique Molette de Réglage 0-15...'
 sku: 'B077TZ2PFR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

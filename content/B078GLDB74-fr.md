@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GLDB74-fr Einhell Coupe-bordures sans fil GE-CT 36/30 Li E - Solo -...'
 sku: 'B078GLDB74-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

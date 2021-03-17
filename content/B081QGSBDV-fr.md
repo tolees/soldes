@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081QGSBDV-fr Savon Le Naturel - Extra Pur de Marseille à la Fleur d...'
 sku: 'B081QGSBDV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 2.4 EUR
 currency: EUR
 price: 2.4

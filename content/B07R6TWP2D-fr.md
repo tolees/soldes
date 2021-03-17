@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R6TWP2D-fr Columbia Powder Lite Hooded Veste à capuche-Homme Bleu...'
 sku: 'B07R6TWP2D-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 71.89 EUR
 currency: EUR
 price: 71.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083ZQ1JYQ-fr Corolle- Lilou Poupon 130190 Rose'
 sku: 'B083ZQ1JYQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 37.52 EUR
 currency: EUR
 price: 37.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076B2NG7K-fr Hugo Boss Homme Analogique Classique Quartz Montre avec...'
 sku: 'B076B2NG7K-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 199.2 EUR
 currency: EUR
 price: 199.2

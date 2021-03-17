@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MB6K86W-fr Russell Hobbs 21480-56 Blender Chauffant 1 75L 2en1...'
 sku: 'B00MB6K86W-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

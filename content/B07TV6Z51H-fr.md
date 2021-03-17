@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TV6Z51H-fr Levi s 510 Skinny Fit Jeans Noce Cool 1051 33W / 30L Homme'
 sku: 'B07TV6Z51H-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

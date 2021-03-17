@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND83D6D-fr Replay Grover Jean Droit Medium Blue 9 W30/L36 Taille...'
 sku: 'B07ND83D6D-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 51.2 EUR
 currency: EUR
 price: 51.2

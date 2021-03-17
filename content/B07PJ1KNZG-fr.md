@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ1KNZG-fr Louis Cottier - Montre Supersize Automatique Bracelet Cuir...'
 sku: 'B07PJ1KNZG-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

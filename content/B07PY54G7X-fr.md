@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY54G7X-fr AUBADE Soutien-gorge corbeille Bretelles réglables THE BOW...'
 sku: 'B07PY54G7X-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

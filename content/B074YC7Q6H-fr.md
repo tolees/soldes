@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074YC7Q6H-fr Saint Honoré Femme Analogique Quartz Montre avec Bracelet...'
 sku: 'B074YC7Q6H-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 241.92 EUR
 currency: EUR
 price: 241.92

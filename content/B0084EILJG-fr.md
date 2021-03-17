@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0084EILJG-fr Water2buy Filtre à Eau Universel à 5 étapes pour Osmose...'
 sku: 'B0084EILJG-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

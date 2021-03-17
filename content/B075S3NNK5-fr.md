@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075S3NNK5-fr GORE Wear C5 Homme Veste de cyclisme GORE-TEX S Noir/Rouge'
 sku: 'B075S3NNK5-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 162.94 EUR
 currency: EUR
 price: 162.94

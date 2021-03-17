@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0058G3ZNA-fr Objectif Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R...'
 sku: 'B0058G3ZNA-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

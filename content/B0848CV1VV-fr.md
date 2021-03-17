@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0848CV1VV-fr Captain Tsubasa : Rise of New Champions Nintendo Switch'
 sku: 'B0848CV1VV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

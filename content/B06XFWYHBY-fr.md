@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XFWYHBY-fr Calor SV6035C0 Centrale Vapeur Sans Cuve Haute Pression...'
 sku: 'B06XFWYHBY-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 87.99 EUR
 currency: EUR
 price: 87.99

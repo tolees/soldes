@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPZ43BV-fr BAITITON NVME 128GB SSD M.2 2280 PCIe Express GEN3.0x4 SSD...'
 sku: 'B08GPZ43BV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

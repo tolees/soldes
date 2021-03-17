@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQFZ7MX-fr Régilait Lait en Poudre Écrémé Vitalité 300 g'
 sku: 'B07YQFZ7MX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 2.18 EUR
 currency: EUR
 price: 2.18

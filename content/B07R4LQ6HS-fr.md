@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R4LQ6HS-fr HEYSTOP Étui pour Nintendo Switch 11 en 1 Étui de...'
 sku: 'B07R4LQ6HS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

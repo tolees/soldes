@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXLVNU6-fr Philips BHD004/10 Sèche-cheveux 1800W ThermoProtect Touche...'
 sku: 'B01AXLVNU6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 13.28 EUR
 currency: EUR
 price: 13.28

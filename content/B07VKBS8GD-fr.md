@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKBS8GD-fr Bombes de Bain Coffret Cadeau Anjou 6 x 115g Boules...'
 sku: 'B07VKBS8GD-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

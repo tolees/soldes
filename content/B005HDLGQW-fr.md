@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005HDLGQW-fr Beurer TL 80 Lampe de Luminothérapie - 10.000 Lux -...'
 sku: 'B005HDLGQW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

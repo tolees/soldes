@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004VII9I2-fr Vilac - 1102 - Voiture de Course - Porteur Métal - Nacré -...'
 sku: 'B004VII9I2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 100.94 EUR
 currency: EUR
 price: 100.94

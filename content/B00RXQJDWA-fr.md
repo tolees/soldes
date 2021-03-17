@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RXQJDWA-fr Cuiseur à riz Tristar RK-6129 – 2 2 litre – Fonction de...'
 sku: 'B00RXQJDWA-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YY1RLRX-fr SONOFF Mini Interrupteur WiFi Télécommande 4 Pcs sans Fil...'
 sku: 'B07YY1RLRX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

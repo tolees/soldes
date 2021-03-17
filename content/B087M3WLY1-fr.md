@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087M3WLY1-fr ERUW LCD Tablette D écriture 8.5 Pouces Ardoise Magique...'
 sku: 'B087M3WLY1-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JJ4B91T-fr G-STAR RAW 3301 Ripped Mid Waist Boyfriend Jeans Bleu lt...'
 sku: 'B07JJ4B91T-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 109.95 EUR
 currency: EUR
 price: 109.95

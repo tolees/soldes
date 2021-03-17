@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N1D8X7X-fr Kipling Youri Spin 55 Luggage 33 L Black Indigo'
 sku: 'B07N1D8X7X-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 94.26 EUR
 currency: EUR
 price: 94.26

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HL5TL3S-fr Skagen Homme Écran Tactile Digital Montre Connectée avec...'
 sku: 'B07HL5TL3S-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 201.38 EUR
 currency: EUR
 price: 201.38

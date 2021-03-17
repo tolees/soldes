@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJ2M37R-fr El Naturalista Rice Field Bottes Classiques Femme Marron...'
 sku: 'B07CJ2M37R-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 61.54 EUR
 currency: EUR
 price: 61.54

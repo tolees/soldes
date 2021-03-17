@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HMRP9ZD-fr Jouet Chat Jouet Poisson Electronique Jouet Pour Chat...'
 sku: 'B08HMRP9ZD-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

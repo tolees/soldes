@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0064MLPNO-fr Mottez Porte-vélos rabattable 3 vélos Noir'
 sku: 'B0064MLPNO-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPBKJPT-fr Boite Lumineuse Message avec 300 Lettres et Emojis...'
 sku: 'B07BPBKJPT-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

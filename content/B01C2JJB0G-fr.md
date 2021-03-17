@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C2JJB0G-fr EmtecECSSD480GX150 - Disque SSDInterne - 2.5 - SATA -...'
 sku: 'B01C2JJB0G-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 51.77 EUR
 currency: EUR
 price: 51.77

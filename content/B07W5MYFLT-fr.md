@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5MYFLT-fr Tommy Hilfiger Basic Embroidered Hoody Sweat-Shirt Bleu...'
 sku: 'B07W5MYFLT-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 41.71 EUR
 currency: EUR
 price: 41.71

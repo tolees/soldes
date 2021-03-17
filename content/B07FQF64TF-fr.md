@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FQF64TF-fr MXIN 7 Couleurs LED Photon Therapy faciales Traitement de...'
 sku: 'B07FQF64TF-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

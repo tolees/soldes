@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BB4QFY2-fr Marshall Mid Active Noise Cancelling A.N.C. Headphones...'
 sku: 'B07BB4QFY2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 120.41 EUR
 currency: EUR
 price: 120.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000O2YJ0G-fr Clatronic Presse Agrumes Automatique Zp3066'
 sku: 'B000O2YJ0G-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 13.16 EUR
 currency: EUR
 price: 13.16

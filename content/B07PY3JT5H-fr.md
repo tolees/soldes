@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY3JT5H-fr HP 25MX Moniteur 62 23 cm 24 5" FHD 1 ms 1920 x 1080...'
 sku: 'B07PY3JT5H-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

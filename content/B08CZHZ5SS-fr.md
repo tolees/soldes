@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CZHZ5SS-fr BAITITON 128GB MSATA III Disque Flash SSD 128 Go Interne...'
 sku: 'B08CZHZ5SS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

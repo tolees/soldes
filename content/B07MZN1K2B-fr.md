@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MZN1K2B-fr Pepe Jeans London Maddox Ess Bottes Motardes Femme Black...'
 sku: 'B07MZN1K2B-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 94.68 EUR
 currency: EUR
 price: 94.68

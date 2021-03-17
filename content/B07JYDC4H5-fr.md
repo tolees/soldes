@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JYDC4H5-fr Tommy Jeans TJM Vertical Stripe Hoodie Pull Multicolore...'
 sku: 'B07JYDC4H5-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 83.51 EUR
 currency: EUR
 price: 83.51

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PB044EW-fr BIC Cristal Fun Stylos-Bille Pointe Large 1 6 mm - Violet...'
 sku: 'B00PB044EW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

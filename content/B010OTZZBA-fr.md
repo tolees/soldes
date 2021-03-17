@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010OTZZBA-fr Sauter SPI4360X - Plaque à induction - Encastrable - 3...'
 sku: 'B010OTZZBA-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

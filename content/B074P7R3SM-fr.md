@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074P7R3SM-fr Osprey Hikelite 18 Unisex Hiking Pack - Black O/S'
 sku: 'B074P7R3SM-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 63.44 EUR
 currency: EUR
 price: 63.44

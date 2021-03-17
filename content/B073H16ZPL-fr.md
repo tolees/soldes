@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H16ZPL-fr New Classic Toys- Cuisine-Bon Appétit 11053 Blanche/Argent'
 sku: 'B073H16ZPL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

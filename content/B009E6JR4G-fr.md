@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009E6JR4G-fr Legrand LEG92727 Tableau Chauffe Eau'
 sku: 'B009E6JR4G-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 137.62 EUR
 currency: EUR
 price: 137.62

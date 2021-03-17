@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K6N11VW-fr PHOTO MASTER NP-FZ100 Batterie de rechange 2280 mAh pour...'
 sku: 'B07K6N11VW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 23.92 EUR
 currency: EUR
 price: 23.92

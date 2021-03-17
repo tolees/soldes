@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GW1DDNJ-fr Just Dance 2019 - Edition Amazon pour Nintendo Switch'
 sku: 'B07GW1DDNJ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

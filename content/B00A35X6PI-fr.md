@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A35X6PI-fr Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma'
 sku: 'B00A35X6PI-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 600.37 EUR
 currency: EUR
 price: 600.37

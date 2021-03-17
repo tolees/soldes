@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S48VF9D-fr Love MoschinoJc4027pp1afemmeSacs bandoulièreNoir Nero...'
 sku: 'B07S48VF9D-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 77.93 EUR
 currency: EUR
 price: 77.93

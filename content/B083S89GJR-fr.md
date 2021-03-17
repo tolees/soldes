@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083S89GJR-fr ASUS TUF Gaming VG279QM - Ecran PC Gamer eSport 27" FHD -...'
 sku: 'B083S89GJR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

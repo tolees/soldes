@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2Q1N8R-fr Dsquared2 D Squared Brillengestelle DQ5137 045-49-20-145...'
 sku: 'B07N2Q1N8R-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 77.04 EUR
 currency: EUR
 price: 77.04

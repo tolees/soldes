@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005DXB4GI-fr Geox U Monet Art.V Mocassins Loafers Homme Noir Blackc9999...'
 sku: 'B005DXB4GI-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 101.12 EUR
 currency: EUR
 price: 101.12

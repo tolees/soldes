@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FWJJG5S-fr SKIP Lessive Capsules Trio Ultimate Active Clean 38 Lavages'
 sku: 'B07FWJJG5S-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00STQV5M4-fr BIC Mini Fun Gommes Blanches - Formes Assorties Tubo de 36'
 sku: 'B00STQV5M4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 13.08 EUR
 currency: EUR
 price: 13.08

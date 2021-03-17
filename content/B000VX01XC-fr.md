@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000VX01XC-fr Timberland Classic 2 Eye Chaussures bateau Homme Marron...'
 sku: 'B000VX01XC-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 96.58 EUR
 currency: EUR
 price: 96.58

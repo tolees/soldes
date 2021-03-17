@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T3HHM55-fr Sony WF-1000XM3 Écouteurs sans fil Bluetooth à Réduction...'
 sku: 'B07T3HHM55-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 186.45 EUR
 currency: EUR
 price: 186.45

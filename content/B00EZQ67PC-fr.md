@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EZQ67PC-fr Geox D Mendi Stivali Bottes femme - Noir - Schwarz...'
 sku: 'B00EZQ67PC-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 70.61 EUR
 currency: EUR
 price: 70.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NQPW7D-fr Original Dovpo Odin 200W Mod alimenté par une double...'
 sku: 'B085NQPW7D-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 40.78 EUR
 currency: EUR
 price: 40.78

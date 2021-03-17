@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GSSX8Y-fr Marmot Ultra Elite 30 Sac de Couchage Mixte Adulte Dark...'
 sku: 'B078GSSX8Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 85.53 EUR
 currency: EUR
 price: 85.53

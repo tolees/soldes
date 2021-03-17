@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002SJSWKG-fr Samsonite Aeris - Spinner XL Valise 81 cm 118 5 L Rouge Red'
 sku: 'B002SJSWKG-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 185.17 EUR
 currency: EUR
 price: 185.17

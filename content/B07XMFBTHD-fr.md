@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XMFBTHD-fr Skechers GO Run 400 V2 Baskets Homme Textile Noir Noir...'
 sku: 'B07XMFBTHD-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 45.45 EUR
 currency: EUR
 price: 45.45

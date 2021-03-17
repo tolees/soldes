@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AK0R6LU-fr Razor - 13173861 - Patinette Électronique - E90 Power Core...'
 sku: 'B01AK0R6LU-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

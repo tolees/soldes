@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FL5JJNX-fr Superdry Crater Padded Jacket Veste de Sport Noir Black...'
 sku: 'B07FL5JJNX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 67.91 EUR
 currency: EUR
 price: 67.91

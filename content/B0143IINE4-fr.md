@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0143IINE4-fr Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s...'
 sku: 'B0143IINE4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

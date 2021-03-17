@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019WCXL1Q-fr Pampers Premium Protection Taille 4 168 Couches 9kg-14kg'
 sku: 'B019WCXL1Q-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 61.24 EUR
 currency: EUR
 price: 61.24

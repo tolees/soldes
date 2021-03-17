@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IL03N0E-fr Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable...'
 sku: 'B01IL03N0E-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

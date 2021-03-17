@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GOY1V0Y-fr Singleton of dufftown Réserve Collection Trinité avec...'
 sku: 'B00GOY1V0Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 45.92 EUR
 currency: EUR
 price: 45.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A0OVN48-fr Sorel Bottes d Hiver pour Femmes 1964 Pac 2 Gris Coal...'
 sku: 'B00A0OVN48-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 62.07 EUR
 currency: EUR
 price: 62.07

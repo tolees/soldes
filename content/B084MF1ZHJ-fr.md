@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MF1ZHJ-fr 2020 Casque Bluetooth sans BYil avec Suppression du Bruit...'
 sku: 'B084MF1ZHJ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

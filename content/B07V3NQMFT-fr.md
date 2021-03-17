@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V3NQMFT-fr Strellson Premium Allen-mercer2.0 Amf2 12 Costume Gris...'
 sku: 'B07V3NQMFT-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 135.3 EUR
 currency: EUR
 price: 135.3

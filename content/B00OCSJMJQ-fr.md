@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OCSJMJQ-fr Columbia Sun Ridge Polo à Manches Courtes Homme Gris Shark S'
 sku: 'B00OCSJMJQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 34.94 EUR
 currency: EUR
 price: 34.94

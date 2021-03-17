@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0049PAWYQ-fr Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe...'
 sku: 'B0049PAWYQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 100.11 EUR
 currency: EUR
 price: 100.11

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075RC6XXN-fr GROHE 26381001 Tempesta System 210 Colonne de Douche avec...'
 sku: 'B075RC6XXN-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 142.9 EUR
 currency: EUR
 price: 142.9

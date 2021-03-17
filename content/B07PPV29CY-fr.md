@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PPV29CY-fr Maxesla USB Bluetooth 4.0 Adaptateur Clé Bluetooth pour PC...'
 sku: 'B07PPV29CY-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 6.79 EUR
 currency: EUR
 price: 6.79

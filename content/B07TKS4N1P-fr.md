@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TKS4N1P-fr Clarks Kaylin Cara Escarpins Femme Gris Stone Stone 38 EU'
 sku: 'B07TKS4N1P-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 35.98 EUR
 currency: EUR
 price: 35.98

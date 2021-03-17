@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D8Z9DE2-fr Thomas Sabo Montre pour Homme Rebel Spirit Argenté Noir...'
 sku: 'B01D8Z9DE2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 113.29 EUR
 currency: EUR
 price: 113.29

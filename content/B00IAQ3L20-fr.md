@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IAQ3L20-fr Sony MDR-HW700DS Casque TV sans fil avec son Numérique...'
 sku: 'B00IAQ3L20-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 271.99 EUR
 currency: EUR
 price: 271.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9FK7LB-fr Levi s 501 Original Fit – Jean - Homme - Bleu Bleu Sponge...'
 sku: 'B07D9FK7LB-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 46.3 EUR
 currency: EUR
 price: 46.3

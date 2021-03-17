@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VVYQ8CI-fr G-STAR RAW 3301 Slim Jeans DK Aged 5245-89 28W / 32L Homme'
 sku: 'B00VVYQ8CI-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 49.55 EUR
 currency: EUR
 price: 49.55

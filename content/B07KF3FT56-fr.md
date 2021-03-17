@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KF3FT56-fr Levi s 501 Crop Jean Droit Bleu Montgomery Baked 0074...'
 sku: 'B07KF3FT56-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 91.62 EUR
 currency: EUR
 price: 91.62

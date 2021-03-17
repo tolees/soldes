@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TWVC4Q-fr Makita UH 5570 Taille-haies'
 sku: 'B001TWVC4Q-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 95.94 EUR
 currency: EUR
 price: 95.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MK1QDZQ-fr Napapijri BAUNT FZ Maillot de survêtement Bleu Marine 176...'
 sku: 'B07MK1QDZQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 62.54 EUR
 currency: EUR
 price: 62.54

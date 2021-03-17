@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081KQ4PRM-fr Roman Porno 1971-2016-Une Histoire érotique du Japon'
 sku: 'B081KQ4PRM-fr'
-tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Batteurs','Batteurs sur socle','Boîtes à outils','Bricolage','Casseroles, plats et poêles','Chauffage et climatisation','Cinéma asiatique','Cocottes','Cocottes et plats de cuisson','Comédie','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','Cuisine et Maison','DVD et Blu-ray','Drame et émotion','Déshumidificateurs','Featured Categories','Films','Informatique','Kits','Mixeurs, batteurs et robots multifonctions','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Petit électroménager','Rangement des outils','Romance','Thriller', ]
+tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Boîtes à outils','Bricolage','Cinéma asiatique','Comédie','Construction','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','DVD et Blu-ray','Drame et émotion','Featured Categories','Films','Informatique','Kits','Matériaux bruts de construction','Matériel de construction','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Rangement des outils','Romance','Thriller', ]
 actualPrice: 68.7 EUR
 currency: EUR
 price: 68.7

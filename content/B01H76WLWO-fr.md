@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01H76WLWO-fr 7 for all mankind MID RISE ROXANNE Jeans Femme Bleu Bair...'
 sku: 'B01H76WLWO-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 67.93 EUR
 currency: EUR
 price: 67.93

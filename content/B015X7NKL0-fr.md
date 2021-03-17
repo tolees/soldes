@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015X7NKL0-fr Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent...'
 sku: 'B015X7NKL0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

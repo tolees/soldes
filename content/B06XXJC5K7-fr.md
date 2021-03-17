@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XXJC5K7-fr Astone Helmets - Casque de moto MINI CROSS monocolor -...'
 sku: 'B06XXJC5K7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

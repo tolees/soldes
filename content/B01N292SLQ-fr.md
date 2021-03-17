@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N292SLQ-fr camel active 5-Pocket Houston Jean Droit Bleu Bleue/Black...'
 sku: 'B01N292SLQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 45.66 EUR
 currency: EUR
 price: 45.66

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BF7KGC1-fr s.Oliver BLACK LABEL 02.899.73.4420 Pantalon De Costume...'
 sku: 'B07BF7KGC1-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 37.02 EUR
 currency: EUR
 price: 37.02

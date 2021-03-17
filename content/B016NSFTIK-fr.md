@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016NSFTIK-fr Gitzo GT1545T - Trépied Traveler Série 1 à 4 Sections...'
 sku: 'B016NSFTIK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

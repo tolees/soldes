@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BL2M2G7-fr New Balance 1500v5 Running Femme Blanc White/Green...'
 sku: 'B07BL2M2G7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 72.9 EUR
 currency: EUR
 price: 72.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLN1F45-fr LIVOO DOP142N Robot culinaire Chauffant'
 sku: 'B07WLN1F45-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 216.44 EUR
 currency: EUR
 price: 216.44

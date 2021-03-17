@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078H9VVX5-fr Wrangler Regular Jacket Homme Bleu Midstone 091 Small'
 sku: 'B078H9VVX5-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 63.1 EUR
 currency: EUR
 price: 63.1

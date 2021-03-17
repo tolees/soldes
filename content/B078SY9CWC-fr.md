@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SY9CWC-fr Timberland Gateway Pier Casual Chaussures Oxford Homme...'
 sku: 'B078SY9CWC-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 64.48 EUR
 currency: EUR
 price: 64.48

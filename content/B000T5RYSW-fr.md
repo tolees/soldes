@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000T5RYSW-fr Mauviel 270501 Penderie en cuivre orange/jaune 1 cm'
 sku: 'B000T5RYSW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 160.34 EUR
 currency: EUR
 price: 160.34

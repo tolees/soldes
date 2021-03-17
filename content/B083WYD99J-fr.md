@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083WYD99J-fr HONOR MagicWatch 2 42 mm - Montre Connectée - Moniteur de...'
 sku: 'B083WYD99J-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 108.99 EUR
 currency: EUR
 price: 108.99

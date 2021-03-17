@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075R7FZZC-fr SIMBA Protège Matelas - Alèse Imperméable et Respirant 150...'
 sku: 'B075R7FZZC-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

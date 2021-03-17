@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JB1WM2V-fr find. Suede Kitten Heel Escarpins Rouge Red 40 EU'
 sku: 'B07JB1WM2V-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

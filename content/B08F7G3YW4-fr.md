@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F7G3YW4-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3...'
 sku: 'B08F7G3YW4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004NBZ5KM-fr Fossil Femme Analogique Quartz Montre avec Bracelet en...'
 sku: 'B004NBZ5KM-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

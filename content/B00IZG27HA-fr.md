@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IZG27HA-fr J.S. Staedtler - Accessoires - Etui en chevreau marron...'
 sku: 'B00IZG27HA-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 39.91 EUR
 currency: EUR
 price: 39.91

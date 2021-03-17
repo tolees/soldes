@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W8QXLCK-fr Bose Portable Smart Speaker - avec Contrôle Vocal Alexa...'
 sku: 'B07W8QXLCK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 254.99 EUR
 currency: EUR
 price: 254.99

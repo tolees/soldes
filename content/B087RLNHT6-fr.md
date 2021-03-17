@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087RLNHT6-fr GXGPOW Wireless Controller for PC PS3 Android Bluetooth...'
 sku: 'B087RLNHT6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 31.58 EUR
 currency: EUR
 price: 31.58

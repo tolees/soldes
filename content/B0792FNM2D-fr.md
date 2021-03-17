@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792FNM2D-fr Philips QP620/50 OneBlade Kit Lames Visage + Corps 2 Lames...'
 sku: 'B0792FNM2D-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

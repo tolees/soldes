@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZM9MX9-fr GOAMZ Ustensiles de Cuisine 9 pcs Ustensiles de Cuisine en...'
 sku: 'B07GZM9MX9-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 26.91 EUR
 currency: EUR
 price: 26.91

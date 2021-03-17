@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UMH2CA2-fr DWE4237-QS - Mini-amoladora 125mm 1.400W'
 sku: 'B00UMH2CA2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 98.51 EUR
 currency: EUR
 price: 98.51

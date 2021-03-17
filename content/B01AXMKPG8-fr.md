@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXMKPG8-fr Philips QP6510/30 OneBlade Pro avec sabot réglable 12...'
 sku: 'B01AXMKPG8-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 35.69 EUR
 currency: EUR
 price: 35.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VWMH6LH-fr ENKLEN Hub USB C 12 en 1 pour MacBook Pro/Air 2019~2016...'
 sku: 'B07VWMH6LH-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

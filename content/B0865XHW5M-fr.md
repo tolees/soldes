@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0865XHW5M-fr MMCRRX M.2 NVMe SSD Ultra adpater Karte Pcie 3.0 X4 GEN3 M...'
 sku: 'B0865XHW5M-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

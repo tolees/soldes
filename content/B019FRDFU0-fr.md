@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FRDFU0-fr Crucial CT4G4DFS824A 4Go DDR4 2400 MT/s PC4-19200 Single...'
 sku: 'B019FRDFU0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

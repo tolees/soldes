@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089B5TGYS-fr Lampe Frontale Super Brillante Lampe à 8 Del de 18000...'
 sku: 'B089B5TGYS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 15.23 EUR
 currency: EUR
 price: 15.23

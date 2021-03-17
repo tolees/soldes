@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KR7D1JW-fr Under Armour UA Storm Launch Pant Pantalon Homme Bleu S'
 sku: 'B07KR7D1JW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 24.51 EUR
 currency: EUR
 price: 24.51

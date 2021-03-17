@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771X3FFV-fr Columbia XO0662 Short Homme Grill FR : 2XL Taille...'
 sku: 'B0771X3FFV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

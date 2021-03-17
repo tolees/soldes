@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000JWIJZW-fr Simm Jouets 50410 – Standard GS Moteur pour remplacer'
 sku: 'B000JWIJZW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 7.68 EUR
 currency: EUR
 price: 7.68

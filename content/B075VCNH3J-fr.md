@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075VCNH3J-fr Extech SL510 Sonomètre Vert'
 sku: 'B075VCNH3J-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 127.01 EUR
 currency: EUR
 price: 127.01

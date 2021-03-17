@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CQP7D52-fr Triplite 3x 16A triangulaire - Blanc - Zenitech'
 sku: 'B00CQP7D52-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 1.47 EUR
 currency: EUR
 price: 1.47

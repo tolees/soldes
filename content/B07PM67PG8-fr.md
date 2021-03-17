@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PM67PG8-fr CALVET Vin Mousseux Rose Celebration 75 cl'
 sku: 'B07PM67PG8-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 23.1 EUR
 currency: EUR
 price: 23.1

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ET9KFK-fr KS TOOLS 999.0120 Caisse à outils métallique 5...'
 sku: 'B008ET9KFK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

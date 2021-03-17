@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X4HXRPS-fr Castaner Dosalia/3/ss20007 Espadrilles Femme Tostado 38 EU'
 sku: 'B07X4HXRPS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 77.37 EUR
 currency: EUR
 price: 77.37

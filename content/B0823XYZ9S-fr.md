@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0823XYZ9S-fr Britax Römer Siège-auto 9 - 36 kg | ADVANSAFIX Z-LINE |...'
 sku: 'B0823XYZ9S-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 250.99 EUR
 currency: EUR
 price: 250.99

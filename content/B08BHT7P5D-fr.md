@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BHT7P5D-fr Aidotop Maillots de Bain Femmes 2 Pieces à Volants Vintage...'
 sku: 'B08BHT7P5D-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

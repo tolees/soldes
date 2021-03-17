@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NSIMFE-fr Vans U Old Skool Basses Mixte adulte - Noir Black/White...'
 sku: 'B000NSIMFE-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

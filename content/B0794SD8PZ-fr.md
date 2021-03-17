@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0794SD8PZ-fr TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32...'
 sku: 'B0794SD8PZ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

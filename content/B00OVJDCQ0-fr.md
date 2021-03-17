@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OVJDCQ0-fr D-Link DWR-932 Routeur Mobile Wireless N150 4G LTE Cat4 -...'
 sku: 'B00OVJDCQ0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

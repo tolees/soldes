@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JRC9BVW-fr Tommy Hilfiger Tommy Logo Hoody Sweat-Shirt Bleu Sky...'
 sku: 'B07JRC9BVW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 79.92 EUR
 currency: EUR
 price: 79.92

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVBW57L-fr Siemens EQ.9 Plus s300 TI923309RW – Machine à café...'
 sku: 'B07JVBW57L-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 1249.9 EUR
 currency: EUR
 price: 1249.9

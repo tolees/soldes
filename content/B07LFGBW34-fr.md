@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LFGBW34-fr Levi s Slim 2pk Crewneck 1 T-Shirt Multicolore 2 Pack...'
 sku: 'B07LFGBW34-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 18.0 EUR
 currency: EUR
 price: 18.0

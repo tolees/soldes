@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FXDSB4R-fr Levi s 724 High Rise Straight Jean droit Femme Bleu Two...'
 sku: 'B07FXDSB4R-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 79.95 EUR
 currency: EUR
 price: 79.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G2VMXCO-fr Lerway Potence de Guidon Fourche Extenseur VTT Bicyclette...'
 sku: 'B00G2VMXCO-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

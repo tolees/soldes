@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FTWZ531-fr Philips BT5205/85 Tondeuse barbe Series 5000 avec guide de...'
 sku: 'B07FTWZ531-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 63.97 EUR
 currency: EUR
 price: 63.97

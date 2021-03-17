@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PZ8YMSP-fr AUBADE Soutien-gorge push-up coussinet Bretelles réglables...'
 sku: 'B07PZ8YMSP-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 44.22 EUR
 currency: EUR
 price: 44.22

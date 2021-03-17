@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KK3MBQY-fr Replay Anbass Jean Slim Beige Sand 10 W33/L34 Taille...'
 sku: 'B07KK3MBQY-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

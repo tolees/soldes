@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFKVYDZ-fr Kipling LICIA Cartable 49 cm 20 liters Multicolore Hearty...'
 sku: 'B07NFKVYDZ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 91.51 EUR
 currency: EUR
 price: 91.51

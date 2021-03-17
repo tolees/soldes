@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00EBCT306-fr Makita Perceuse à percussion Ø 13 Mm 1010 W HP2071FJ'
 sku: 'B00EBCT306-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 172.6 EUR
 currency: EUR
 price: 172.6

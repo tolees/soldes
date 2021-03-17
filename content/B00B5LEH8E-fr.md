@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00B5LEH8E-fr Fender Cruz Tools Custom Shop Kit d outillage pour Guitare'
 sku: 'B00B5LEH8E-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 57.9 EUR
 currency: EUR
 price: 57.9

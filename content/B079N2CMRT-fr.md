@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N2CMRT-fr Playmobil - Maison de Lucky - 9475'
 sku: 'B079N2CMRT-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 69.64 EUR
 currency: EUR
 price: 69.64

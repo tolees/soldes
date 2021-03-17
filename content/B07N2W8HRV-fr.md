@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2W8HRV-fr Tommy Jeans TJM Tommy Classics Sweatpant Pantalon Bleu...'
 sku: 'B07N2W8HRV-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 39.0 EUR
 currency: EUR
 price: 39.0

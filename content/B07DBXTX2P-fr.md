@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DBXTX2P-fr PUMA Cali Wn s Sneakers Basses femme - Blanc Puma White-...'
 sku: 'B07DBXTX2P-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

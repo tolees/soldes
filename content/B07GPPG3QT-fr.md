@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPPG3QT-fr Skechers Men s Moreno Trainers Beige Taupe TPE 8.5 UK 42.5 EU'
 sku: 'B07GPPG3QT-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

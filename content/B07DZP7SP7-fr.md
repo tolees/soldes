@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZP7SP7-fr jolidon – Prelude – Maillot de Bain Une Pièce 100%...'
 sku: 'B07DZP7SP7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GGN5PMF-fr PHYLES Tapis Dessin Enfant Tapis Doodle Matte 87*57cm Aqua...'
 sku: 'B07GGN5PMF-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DK6NJP9-fr Samyang AF 24mm F2.8 FE - Grand Angle compact - Objectif...'
 sku: 'B07DK6NJP9-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 249.13 EUR
 currency: EUR
 price: 249.13

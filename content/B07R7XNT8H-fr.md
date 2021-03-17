@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7XNT8H-fr Columbia Lake 22 Doudoune Longue à Capuche Femme'
 sku: 'B07R7XNT8H-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 72.5 EUR
 currency: EUR
 price: 72.5

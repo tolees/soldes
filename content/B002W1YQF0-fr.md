@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002W1YQF0-fr La Crosse Technology WS9611 Station Météo Mister Météo -...'
 sku: 'B002W1YQF0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 37.85 EUR
 currency: EUR
 price: 37.85

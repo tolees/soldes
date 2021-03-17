@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R65SD4C-fr VAHDAM Feuilles de Thé Vert de l Himalaya 50+ Tasses |...'
 sku: 'B00R65SD4C-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

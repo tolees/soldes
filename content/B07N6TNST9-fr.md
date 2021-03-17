@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N6TNST9-fr Love Moschino Borsa Quilted Nappa Pu Sacs portés dos femme...'
 sku: 'B07N6TNST9-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 181.54 EUR
 currency: EUR
 price: 181.54

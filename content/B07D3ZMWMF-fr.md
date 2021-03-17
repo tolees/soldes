@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D3ZMWMF-fr Adidas NMD R1 Basket Mode Homme - Noir Core Black/Core...'
 sku: 'B07D3ZMWMF-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

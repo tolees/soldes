@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AY6CHA0-fr UGG Female Mini Bailey Button II Classic Boot Grey 9 UK'
 sku: 'B01AY6CHA0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 100.03 EUR
 currency: EUR
 price: 100.03

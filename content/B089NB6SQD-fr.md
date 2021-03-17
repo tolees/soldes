@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NB6SQD-fr FirstE Enceinte Bluetooth Portable sans Fil Enceintes...'
 sku: 'B089NB6SQD-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

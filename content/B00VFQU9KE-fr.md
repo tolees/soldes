@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VFQU9KE-fr Samsonite Lite-Shock - Spinner XL Valise 81 cm 124 L Noir...'
 sku: 'B00VFQU9KE-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 305.0 EUR
 currency: EUR
 price: 305.0

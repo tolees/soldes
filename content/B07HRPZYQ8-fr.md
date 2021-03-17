@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRPZYQ8-fr MGA pétillante L.O.L. Surprise Orange avec poupée et...'
 sku: 'B07HRPZYQ8-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

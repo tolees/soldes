@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR6GHVX-fr Clarks Tri Native Sneakers Basses Homme Noir Black - 41.5 EU'
 sku: 'B07FR6GHVX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 97.42 EUR
 currency: EUR
 price: 97.42

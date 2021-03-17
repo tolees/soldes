@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CWT7YYL-fr Light Box Rose avec 300 Lettres et Emojis 2 Marqueurs -...'
 sku: 'B07CWT7YYL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

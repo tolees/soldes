@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GC6YVR6-fr Récepteur Bluetooth 5.0 Adaptateur USB Bluetooth Dongle...'
 sku: 'B08GC6YVR6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

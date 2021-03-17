@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9WYYHL-fr Le Tanneur Sophie Tsop1200 Femmes Noir Noir 6x21x15 cm W x...'
 sku: 'B07F9WYYHL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 94.44 EUR
 currency: EUR
 price: 94.44

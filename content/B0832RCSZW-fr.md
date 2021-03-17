@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0832RCSZW-fr Netac Carte mémoire microSDXC 256G Haute Vitesse UHS-I...'
 sku: 'B0832RCSZW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

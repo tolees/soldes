@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00C3Y2IC4-fr Laurastar Lift Plus Ultimate Black Centrale Vapeur Nomade...'
 sku: 'B00C3Y2IC4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

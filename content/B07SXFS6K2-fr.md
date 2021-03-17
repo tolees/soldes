@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXFS6K2-fr Perceuse Visseuse à Percussion Professionnel sans Fil 18V...'
 sku: 'B07SXFS6K2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 46.41 EUR
 currency: EUR
 price: 46.41

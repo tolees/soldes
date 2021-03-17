@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HQ5QQJ-fr Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec...'
 sku: 'B078HQ5QQJ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 244.93 EUR
 currency: EUR
 price: 244.93

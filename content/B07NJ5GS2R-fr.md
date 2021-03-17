@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NJ5GS2R-fr CASIO Montre Femme LTS-100D-7AVEF'
 sku: 'B07NJ5GS2R-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 42.65 EUR
 currency: EUR
 price: 42.65

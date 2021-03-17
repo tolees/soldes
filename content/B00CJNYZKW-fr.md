@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CJNYZKW-fr Purflux L358A filtre à huile'
 sku: 'B00CJNYZKW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 4.5 EUR
 currency: EUR
 price: 4.5

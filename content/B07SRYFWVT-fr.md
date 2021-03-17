@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SRYFWVT-fr Hurley U BLOCKADE II SOLID BP Sac à dos Homme Blue Force...'
 sku: 'B07SRYFWVT-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

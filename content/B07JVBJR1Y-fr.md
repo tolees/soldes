@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVBJR1Y-fr Siemens EQ.9 Plus Connect s500 TI9553X1RW – Machine à café...'
 sku: 'B07JVBJR1Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 1750.0 EUR
 currency: EUR
 price: 1750.0

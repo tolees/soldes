@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYDZ94P-fr Vera Mont VM 8028/4000 Robe de soirée Bleu Night Sky 8541...'
 sku: 'B07TYDZ94P-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 75.66 EUR
 currency: EUR
 price: 75.66

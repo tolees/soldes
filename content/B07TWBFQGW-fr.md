@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TWBFQGW-fr Levi s The Perfect Tee T-Shirt - Femme-Rouge Bw T2 Tomato...'
 sku: 'B07TWBFQGW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 22.27 EUR
 currency: EUR
 price: 22.27

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009A9ENT6-fr Brothers in Bamako [Import Allemand]'
 sku: 'B009A9ENT6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 9.25 EUR
 currency: EUR
 price: 9.25

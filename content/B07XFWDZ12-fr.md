@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFWDZ12-fr Microsoft Surface Laptop 3 “ PC UltraPortable écran 13...'
 sku: 'B07XFWDZ12-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 969.0 EUR
 currency: EUR
 price: 969.0

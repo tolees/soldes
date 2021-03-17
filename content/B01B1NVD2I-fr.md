@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01B1NVD2I-fr Philips QP220/50 Lames de Remplacement OneBlade x2 Durent...'
 sku: 'B01B1NVD2I-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 21.15 EUR
 currency: EUR
 price: 21.15

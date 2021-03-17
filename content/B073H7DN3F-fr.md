@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073H7DN3F-fr Sandvik Coromant Qs-3–80ll202034–10 C Coroturn 300 QS Tige...'
 sku: 'B073H7DN3F-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 147.62 EUR
 currency: EUR
 price: 147.62

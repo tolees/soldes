@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GX95N3N-fr Multi Mat Sophie la girafe - Tapis d éveil'
 sku: 'B07GX95N3N-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 46.23 EUR
 currency: EUR
 price: 46.23

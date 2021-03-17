@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PLNNPS-fr CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4'
 sku: 'B086PLNNPS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 38.1 EUR
 currency: EUR
 price: 38.1

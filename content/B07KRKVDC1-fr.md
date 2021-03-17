@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KRKVDC1-fr Art 1253 Becerro Creta Sandales Bout Ouvert Femme Marron...'
 sku: 'B07KRKVDC1-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 46.68 EUR
 currency: EUR
 price: 46.68

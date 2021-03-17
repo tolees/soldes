@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XDK1LB4-fr Polarduck Support Mural TV pour écrans 23-55 Pouces 58-140...'
 sku: 'B07XDK1LB4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

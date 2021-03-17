@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU3CCPL-fr Kärcher 6.295-941.0 Nettoyant pour sols en bois 500ml pour...'
 sku: 'B01MU3CCPL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004CREO0Y-fr GRANIONS Conceptio Homme - 90 Capsules + 30 Sachets = 30 J...'
 sku: 'B004CREO0Y-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

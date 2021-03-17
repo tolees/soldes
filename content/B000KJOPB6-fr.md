@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000KJOPB6-fr HERMA Rouleau de film adhésif de protection pour livre 3 m...'
 sku: 'B000KJOPB6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 4.92 EUR
 currency: EUR
 price: 4.92

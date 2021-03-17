@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TMP7FKS-fr Nike Zoom Air Vapor X HC Chaussures de Tennis Homme Blanc...'
 sku: 'B07TMP7FKS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 91.47 EUR
 currency: EUR
 price: 91.47

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TK2QJM5-fr Quiksilver EQYTJ03215 Veste de Ski/Snowboard Homme...'
 sku: 'B07TK2QJM5-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 75.58 EUR
 currency: EUR
 price: 75.58

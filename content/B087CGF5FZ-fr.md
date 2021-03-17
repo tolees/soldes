@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B087CGF5FZ-fr Mini PC Intel Celeron Processor J3455 8 Go DDR4 / 64 Go...'
 sku: 'B087CGF5FZ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 161.49 EUR
 currency: EUR
 price: 161.49

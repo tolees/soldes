@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D4BQNB9-fr Monrinda Unisex Chaussure de Sport Femme Basket de Running...'
 sku: 'B07D4BQNB9-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WVS91VM-fr Playmobil - Calèche avec Attelage - 6932'
 sku: 'B06WVS91VM-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

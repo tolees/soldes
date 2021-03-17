@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0050KAZ1O-fr Bosch Professional Ponceuse Excentrique Filaire GEX...'
 sku: 'B0050KAZ1O-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 256.02 EUR
 currency: EUR
 price: 256.02

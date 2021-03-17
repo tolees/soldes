@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003KJTZYK-fr D-Link DGS-1210-10P Switch Smart Web Manageable 10 Ports...'
 sku: 'B003KJTZYK-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 81.63 EUR
 currency: EUR
 price: 81.63

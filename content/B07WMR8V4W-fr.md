@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WMR8V4W-fr Yageshark Pantalon de Jogging Homme Coton Mode Training...'
 sku: 'B07WMR8V4W-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 25.04 EUR
 currency: EUR
 price: 25.04

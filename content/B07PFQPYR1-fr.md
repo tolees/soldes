@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFQPYR1-fr GT Spirit- Voiture Miniature de Collection GT217 British...'
 sku: 'B07PFQPYR1-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 95.75 EUR
 currency: EUR
 price: 95.75

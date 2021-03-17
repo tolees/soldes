@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088B8FQ7N-fr Tondeuse Cheveux Hommes Professionnelle DynaBliss HG4100...'
 sku: 'B088B8FQ7N-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

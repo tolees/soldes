@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000F8VBCI-fr Learning Resources Kit pour la Classe de Base 10 en...'
 sku: 'B000F8VBCI-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 91.9 EUR
 currency: EUR
 price: 91.9

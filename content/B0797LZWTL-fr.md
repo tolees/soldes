@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0797LZWTL-fr Smartrike 650–0900 4 en 1 Tricycle Enfant Véhicule Vert'
 sku: 'B0797LZWTL-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

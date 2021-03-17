@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081LPPV7G-fr Solgaleo-GX SM104A Secrète Gold - #myboost X Sole E Luna...'
 sku: 'B081LPPV7G-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 28.82 EUR
 currency: EUR
 price: 28.82

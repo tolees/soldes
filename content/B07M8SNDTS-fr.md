@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8SNDTS-fr Onduleur Z3 ZenBox EX 500 VA 3 prises secourues 3 prises...'
 sku: 'B07M8SNDTS-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 77.5 EUR
 currency: EUR
 price: 77.5

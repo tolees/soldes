@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015G1ERYW-fr DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil...'
 sku: 'B015G1ERYW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 49.91 EUR
 currency: EUR
 price: 49.91

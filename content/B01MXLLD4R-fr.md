@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MXLLD4R-fr Vanguard Pionner Sac Bandoulière 34 cm 6 L Camouflage'
 sku: 'B01MXLLD4R-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 47.92 EUR
 currency: EUR
 price: 47.92

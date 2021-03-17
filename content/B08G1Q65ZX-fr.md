@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1Q65ZX-fr OUPOD Paire de manettes pour Nintendo Switch remplacement...'
 sku: 'B08G1Q65ZX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

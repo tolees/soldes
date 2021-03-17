@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7FPRG-fr Clarks Desert Boot Bottes Classiques pour Homme - Marron -...'
 sku: 'B07MJ7FPRG-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

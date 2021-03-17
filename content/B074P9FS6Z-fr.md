@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074P9FS6Z-fr Fitbit Aria 2 Balance Wi-Fi Intelligente Compteur de...'
 sku: 'B074P9FS6Z-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 73.08 EUR
 currency: EUR
 price: 73.08

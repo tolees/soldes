@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0141JOKL0-fr TP-Link T2600G-18TS Switch administrable niveau 2 avec 16...'
 sku: 'B0141JOKL0-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

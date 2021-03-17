@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPRT8YR-fr QSSTECH Écouteurs Intra-Auriculaires avec Microphone...'
 sku: 'B08GPRT8YR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

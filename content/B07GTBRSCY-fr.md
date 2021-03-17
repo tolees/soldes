@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GTBRSCY-fr Sony SRS-XB01 Enceinte portable ultra compacte résistante...'
 sku: 'B07GTBRSCY-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829SLJSF-fr Corsair A500 Ventirad à Double Ventilateur Haute...'
 sku: 'B0829SLJSF-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

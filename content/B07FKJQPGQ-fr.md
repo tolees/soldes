@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FKJQPGQ-fr The North Face Canyonlands Sweat à Capuche Homme Gris TNF...'
 sku: 'B07FKJQPGQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 44.07 EUR
 currency: EUR
 price: 44.07

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N7K4CEU-fr HyperX Impact DDR4 HX426S15IB2/8 Mémoire RAM 2666MHz CL15...'
 sku: 'B01N7K4CEU-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 34.17 EUR
 currency: EUR
 price: 34.17

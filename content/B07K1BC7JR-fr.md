@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K1BC7JR-fr LLloyd Goliath Derbys Homme Marron Cognac 3 40.5 EU'
 sku: 'B07K1BC7JR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 53.86 EUR
 currency: EUR
 price: 53.86

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D9GTTKX-fr Merrell Moab 2 GTX Chaussures de Randonnée Basses Femme...'
 sku: 'B07D9GTTKX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 72.99 EUR
 currency: EUR
 price: 72.99

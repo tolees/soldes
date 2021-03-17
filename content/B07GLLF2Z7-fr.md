@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLLF2Z7-fr CYBEX Gold Siège Auto Solution S-Fix Adapté aux Voitures...'
 sku: 'B07GLLF2Z7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 138.66 EUR
 currency: EUR
 price: 138.66

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089N3MV3K-fr Toozey Jouet Chien à Macher pour Grands Chiens Mâcheurs...'
 sku: 'B089N3MV3K-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074P8BLYP-fr MICHELIN 008317 Easy Grip Evolution Chaîne à Neige...'
 sku: 'B074P8BLYP-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 94.99 EUR
 currency: EUR
 price: 94.99

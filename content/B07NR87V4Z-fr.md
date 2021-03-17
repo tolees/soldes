@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR87V4Z-fr LLOYD Villod Gore-tex Bottes & Bottines Classiques Homme...'
 sku: 'B07NR87V4Z-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 140.95 EUR
 currency: EUR
 price: 140.95

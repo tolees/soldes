@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L6XBPL6-fr Eider BROCKWELL JKT W Veste Femme Purple Wild FR : L...'
 sku: 'B07L6XBPL6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 58.32 EUR
 currency: EUR
 price: 58.32

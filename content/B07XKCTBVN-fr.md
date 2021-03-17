@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XKCTBVN-fr Mpow H17 Casque Bluetooth à Réduction de Bruit [Jusqu à 45...'
 sku: 'B07XKCTBVN-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

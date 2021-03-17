@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GV2GQJ6-fr Diablo III : Eternal Collection pour Nintendo Switch'
 sku: 'B07GV2GQJ6-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 45.76 EUR
 currency: EUR
 price: 45.76

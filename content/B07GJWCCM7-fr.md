@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GJWCCM7-fr Philips HR2382/10 Machine à Pâtes Automatique Balance...'
 sku: 'B07GJWCCM7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

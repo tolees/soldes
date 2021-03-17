@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N356GSH-fr Mizuno Wave Inspire 15 Chaussures de Running Homme Blanc...'
 sku: 'B07N356GSH-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

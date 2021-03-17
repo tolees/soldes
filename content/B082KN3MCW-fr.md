@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082KN3MCW-fr SIMOLIO SM-825D Pro 2.4GHz Casque sans Fil TV pour...'
 sku: 'B082KN3MCW-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 121.99 EUR
 currency: EUR
 price: 121.99

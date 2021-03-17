@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB67RGX-fr Chaussures Femmes Sport Trainers Confort Poids Léger Woven...'
 sku: 'B07FB67RGX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

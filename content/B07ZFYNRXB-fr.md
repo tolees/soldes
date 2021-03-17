@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZFYNRXB-fr CHiQ U55H7L UHD 4K Smart TV 55 Pouces 139cm HDR10/hlg WiFi...'
 sku: 'B07ZFYNRXB-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 389.99 EUR
 currency: EUR
 price: 389.99

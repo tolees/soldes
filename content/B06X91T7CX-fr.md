@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X91T7CX-fr GreedFall'
 sku: 'B06X91T7CX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 20.43 EUR
 currency: EUR
 price: 20.43

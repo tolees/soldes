@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081P4L1HT-fr Nike PSG M NK BRT STAD JSY SS 4R T-Shirt Homme Black/...'
 sku: 'B081P4L1HT-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 46.71 EUR
 currency: EUR
 price: 46.71

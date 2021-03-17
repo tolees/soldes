@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW7GKRR-fr Sunflair Pure Ocean Maillot Une pièce Multicolore Blau 26...'
 sku: 'B07JW7GKRR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 44.56 EUR
 currency: EUR
 price: 44.56

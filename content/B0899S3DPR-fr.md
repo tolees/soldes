@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0899S3DPR-fr HOMEVER Balance Cuisine HOMEVER15kg/33lb Balance...'
 sku: 'B0899S3DPR-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

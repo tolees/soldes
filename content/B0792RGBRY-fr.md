@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792RGBRY-fr LEGO Harry Potter - L évasion de Grindelwald - 75951 - Jeu...'
 sku: 'B0792RGBRY-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 22.04 EUR
 currency: EUR
 price: 22.04

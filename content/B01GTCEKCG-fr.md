@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GTCEKCG-fr Montre Louis Cottier Homme Automatique - 43 mm - Cadran...'
 sku: 'B01GTCEKCG-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 172.0 EUR
 currency: EUR
 price: 172.0

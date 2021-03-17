@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XVRX81R-fr HP Sacoche Classique 15.6 pour Ordinateur Portable jusqu à...'
 sku: 'B06XVRX81R-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 11.18 EUR
 currency: EUR
 price: 11.18

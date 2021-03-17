@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G1WKND9-fr VISSQH 20pcs micro interrupteur fin de course NO-NC...'
 sku: 'B08G1WKND9-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 9.88 EUR
 currency: EUR
 price: 9.88

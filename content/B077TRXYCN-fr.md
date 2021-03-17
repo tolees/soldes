@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TRXYCN-fr Mixcder E7 Casque Bluetooth à Réduction Active de Bruit...'
 sku: 'B077TRXYCN-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

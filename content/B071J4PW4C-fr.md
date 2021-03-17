@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071J4PW4C-fr NEWYES NYWT850 Tablette d Ecriture LCD 8.5 Pouces de...'
 sku: 'B071J4PW4C-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

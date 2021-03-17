@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3YWFJ8-fr Hackett Solid Volley Short Bleu Atlantic 5PO Small Homme'
 sku: 'B07N3YWFJ8-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 66.6 EUR
 currency: EUR
 price: 66.6

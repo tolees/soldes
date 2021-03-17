@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075YZG7TQ-fr Trangoworld Bomio IP Chaussures de Randonnée Basses Mixte...'
 sku: 'B075YZG7TQ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 62.15 EUR
 currency: EUR
 price: 62.15

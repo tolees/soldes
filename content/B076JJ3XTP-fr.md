@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JJ3XTP-fr Cosmo Connected - Cosmo Moto - Noir brillant- Feu de stop...'
 sku: 'B076JJ3XTP-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 61.83 EUR
 currency: EUR
 price: 61.83

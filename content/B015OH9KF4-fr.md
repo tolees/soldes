@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OH9KF4-fr Filofax 115023 Carnet de note A4 avec feuille...'
 sku: 'B015OH9KF4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 19.65 EUR
 currency: EUR
 price: 19.65

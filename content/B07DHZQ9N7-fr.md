@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHZQ9N7-fr United Colors of Benetton - 2DQ55K1P4 - Manteau longue -...'
 sku: 'B07DHZQ9N7-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 70.31 EUR
 currency: EUR
 price: 70.31

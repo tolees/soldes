@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HNS411S-fr Design Antenne Full HDTV intérieure Amplifiée de One For...'
 sku: 'B07HNS411S-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 70.76 EUR
 currency: EUR
 price: 70.76

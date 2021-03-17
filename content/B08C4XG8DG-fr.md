@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C4XG8DG-fr Manette Sans Fil pour PS4 Manette pour Playstation 4...'
 sku: 'B08C4XG8DG-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

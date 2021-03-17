@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XMLG8ZA-fr Pepe Jeans SOHO Pants 10OZ Dark Used Worn H45 29W / 30L Femme'
 sku: 'B00XMLG8ZA-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 45.98 EUR
 currency: EUR
 price: 45.98

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WIBVHCE-fr Grohe Mitigeur Évier Eurosmart 32223002 Import Allemagne'
 sku: 'B00WIBVHCE-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 77.69 EUR
 currency: EUR
 price: 77.69

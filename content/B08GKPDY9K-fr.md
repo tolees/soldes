@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GKPDY9K-fr Casque Bluetooth 5.0 avec [boîte de Chargement 24 Heures]...'
 sku: 'B08GKPDY9K-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

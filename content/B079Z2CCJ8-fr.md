@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079Z2CCJ8-fr Spark - Miniature Voiture Red Bull Tag Heuer Rb13 Chine Gp...'
 sku: 'B079Z2CCJ8-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 97.44 EUR
 currency: EUR
 price: 97.44

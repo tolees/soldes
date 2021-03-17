@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HZM8BC4-fr Montre Hommes - Pulsar - PQ2055X1'
 sku: 'B01HZM8BC4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 111.3 EUR
 currency: EUR
 price: 111.3

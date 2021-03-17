@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CAFOWS4-fr Aigle - Miss Juliette - Botte de pluie - Femme - Bleu...'
 sku: 'B00CAFOWS4-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 43.6 EUR
 currency: EUR
 price: 43.6

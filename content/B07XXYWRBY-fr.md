@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XXYWRBY-fr 3 Barils Fer à Boucler Fer à Onduler Professionnelle...'
 sku: 'B07XXYWRBY-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

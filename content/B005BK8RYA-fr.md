@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005BK8RYA-fr Merrell Bare Access XTR Chaussures de Trail Femme Bleu...'
 sku: 'B005BK8RYA-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

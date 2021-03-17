@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IUJQP9S-fr BERING Montre 33440-227'
 sku: 'B00IUJQP9S-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 186.43 EUR
 currency: EUR
 price: 186.43

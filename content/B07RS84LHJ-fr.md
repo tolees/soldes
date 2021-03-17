@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS84LHJ-fr Tommy Hilfiger Classic Straight Hw C Balt Jean Droit Bleu...'
 sku: 'B07RS84LHJ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

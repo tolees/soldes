@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDCCPYX-fr Puma ESS Logo Tee T-Shirt Femme Noir Cotton Black L'
 sku: 'B07DDCCPYX-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

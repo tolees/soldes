@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B011REOTBI-fr Aigostar - Ampoules LED B5 T3 3U E27 Grosse Vis ， 9W...'
 sku: 'B011REOTBI-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
+tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59
