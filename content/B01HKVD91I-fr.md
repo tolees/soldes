@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HKVD91I-fr Trixie Scratching Post for Wall Mounting 80 x 11 cm Grey'
 sku: 'B01HKVD91I-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

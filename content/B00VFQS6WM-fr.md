@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VFQS6WM-fr Samsonite Lite-Shock - Spinner M Valise 69 cm 73 L Noir Black'
 sku: 'B00VFQS6WM-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 197.5 EUR
 currency: EUR
 price: 197.5

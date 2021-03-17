@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G5XDVP6-fr GPR Italie Jo.56.Vic Paire terminaux homologués avec...'
 sku: 'B07G5XDVP6-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 485.69 EUR
 currency: EUR
 price: 485.69

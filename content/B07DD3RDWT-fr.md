@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD3RDWT-fr Pinypon Action- Famosa Lot de 5 Figurines 700014490...'
 sku: 'B07DD3RDWT-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

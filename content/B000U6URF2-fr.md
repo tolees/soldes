@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000U6URF2-fr Clarks Funny Dream Derbys Femme Noir Black Leather 38 EU'
 sku: 'B000U6URF2-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

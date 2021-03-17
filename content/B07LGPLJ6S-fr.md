@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LGPLJ6S-fr Onduleur Z1 Zenergy Cube EX 600 VA 3 prises secourues'
 sku: 'B07LGPLJ6S-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 77.01 EUR
 currency: EUR
 price: 77.01

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08H8BPMTH-fr Galaxy S9 Film Protection Ecran Verre Trempé [2 Pièces]...'
 sku: 'B08H8BPMTH-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

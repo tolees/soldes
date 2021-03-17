@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B4LQV7M-fr Adaptateur pour Nintendo Switch Timoom 2 en 1 Bluetooth...'
 sku: 'B08B4LQV7M-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

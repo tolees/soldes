@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VQZ5Q38-fr Marmot Wm s Slingshot Jacket Veste de Neige en Duvet...'
 sku: 'B07VQZ5Q38-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 173.61 EUR
 currency: EUR
 price: 173.61

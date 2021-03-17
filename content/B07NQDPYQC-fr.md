@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NQDPYQC-fr Hot Wheels City T-Rex en Furie coffret de jeu pour petites...'
 sku: 'B07NQDPYQC-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 18.02 EUR
 currency: EUR
 price: 18.02

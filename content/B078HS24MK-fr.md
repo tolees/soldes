@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HS24MK-fr Braun Silk-épil 9 9/990 SkinSpa SensoSmart Épilateur...'
 sku: 'B078HS24MK-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 181.35 EUR
 currency: EUR
 price: 181.35

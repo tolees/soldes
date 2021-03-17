@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WHC394C-fr Astérix & Obélix XXL 3 : le Menhir de Cristal Edition...'
 sku: 'B07WHC394C-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 31.75 EUR
 currency: EUR
 price: 31.75

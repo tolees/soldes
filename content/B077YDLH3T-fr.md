@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YDLH3T-fr AEG 005072 Outil de Diagnostic Auto OBD2 Evolution'
 sku: 'B077YDLH3T-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

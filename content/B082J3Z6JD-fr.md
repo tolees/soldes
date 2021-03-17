@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082J3Z6JD-fr Britax Römer Poussette citadine | Naissance à 4 ans |...'
 sku: 'B082J3Z6JD-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 159.9 EUR
 currency: EUR
 price: 159.9

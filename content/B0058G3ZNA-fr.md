@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0058G3ZNA-fr Objectif Olympus M.Zuiko Digital 14-42mm F3.5-5.6 II R...'
 sku: 'B0058G3ZNA-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 179.99 EUR
 currency: EUR
 price: 179.99

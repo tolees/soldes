@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DRJBXSD-fr Peradix Draisienne Vélo Bébé Vélo Enfants de 1 an-36 Mois...'
 sku: 'B08DRJBXSD-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

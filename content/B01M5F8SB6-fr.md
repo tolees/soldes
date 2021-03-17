@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M5F8SB6-fr Logitech G Saitek X52 Pro Flight Système 3M avec Commande...'
 sku: 'B01M5F8SB6-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSQ5TCH-fr Love Moschino Logo Box Short Sleeve T-Shirt Black C74 40...'
 sku: 'B07KSQ5TCH-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 88.53 EUR
 currency: EUR
 price: 88.53

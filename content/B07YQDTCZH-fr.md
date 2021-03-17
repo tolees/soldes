@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQDTCZH-fr Kipling BTS Sac d école Carlow Robot Camo Bleu'
 sku: 'B07YQDTCZH-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 38.55 EUR
 currency: EUR
 price: 38.55

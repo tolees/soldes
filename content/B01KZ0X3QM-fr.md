@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KZ0X3QM-fr BLACK & DECKER FSMH1351SM-QS Balai Vapeur avec Nettoyeur à...'
 sku: 'B01KZ0X3QM-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 126.0 EUR
 currency: EUR
 price: 126.0

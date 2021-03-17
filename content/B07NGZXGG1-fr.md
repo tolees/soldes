@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGZXGG1-fr Strellson S.C. Clifton Blouson Homme Grün Green 318 Medium...'
 sku: 'B07NGZXGG1-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 99.02 EUR
 currency: EUR
 price: 99.02

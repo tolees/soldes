@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07J5YD6FS-fr VICTROLA CREATION MUSICALE Park Avenue VTA-60-ESP-EU'
 sku: 'B07J5YD6FS-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 88.31 EUR
 currency: EUR
 price: 88.31

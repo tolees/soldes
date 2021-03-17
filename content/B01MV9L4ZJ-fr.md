@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MV9L4ZJ-fr Lacoste TH6709 T-Shirt Homme Bleu Marine 166 S'
 sku: 'B01MV9L4ZJ-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

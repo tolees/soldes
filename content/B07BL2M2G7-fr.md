@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BL2M2G7-fr New Balance 1500v5 Running Femme Blanc White/Green...'
 sku: 'B07BL2M2G7-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 72.9 EUR
 currency: EUR
 price: 72.9

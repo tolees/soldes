@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MJ7LSXM-fr HKT by Hackett Hkt Hz PLR FLC Sweat-Shirt Bleu Ink 591...'
 sku: 'B07MJ7LSXM-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

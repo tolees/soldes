@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S2G2TK2-fr Levi s Perfect V Neck T-Shirt Blanc White + 0002 Large Femme'
 sku: 'B07S2G2TK2-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

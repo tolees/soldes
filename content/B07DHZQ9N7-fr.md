@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHZQ9N7-fr United Colors of Benetton - 2DQ55K1P4 - Manteau longue -...'
 sku: 'B07DHZQ9N7-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 70.31 EUR
 currency: EUR
 price: 70.31

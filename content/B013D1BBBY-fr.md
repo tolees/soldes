@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013D1BBBY-fr Nikon AF-S Nikkor Objectif 24 mm f/1 8'
 sku: 'B013D1BBBY-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 594.0 EUR
 currency: EUR
 price: 594.0

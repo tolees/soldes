@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TYDZ94P-fr Vera Mont VM 8028/4000 Robe de soirée Bleu Night Sky 8541...'
 sku: 'B07TYDZ94P-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 75.66 EUR
 currency: EUR
 price: 75.66

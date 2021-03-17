@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079KHRR3X-fr Remington Tondeuse Rasoir Corps Homme 5 Sabots Batterie...'
 sku: 'B079KHRR3X-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

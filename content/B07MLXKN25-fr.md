@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MLXKN25-fr Thermaltake Water 3.0 360 Argb Sync Aio Liquid Cooling Kit'
 sku: 'B07MLXKN25-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 126.95 EUR
 currency: EUR
 price: 126.95

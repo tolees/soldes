@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FDSM8W6-fr MIDAS veur Balayeuse portable pression et haute...'
 sku: 'B07FDSM8W6-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

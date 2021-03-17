@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L8WHN32-fr Replay M1005 .000.573 584 Jean Droit Bleu Medium Blue 9...'
 sku: 'B07L8WHN32-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 80.98 EUR
 currency: EUR
 price: 80.98

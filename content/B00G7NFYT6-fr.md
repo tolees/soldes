@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G7NFYT6-fr Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert'
 sku: 'B00G7NFYT6-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 64.09 EUR
 currency: EUR
 price: 64.09

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VHW6SG7-fr Hugo Boss Watch 1513743'
 sku: 'B07VHW6SG7-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 431.94 EUR
 currency: EUR
 price: 431.94

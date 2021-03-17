@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RS84LHJ-fr Tommy Hilfiger Classic Straight Hw C Balt Jean Droit Bleu...'
 sku: 'B07RS84LHJ-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

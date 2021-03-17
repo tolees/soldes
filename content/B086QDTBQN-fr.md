@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086QDTBQN-fr ASUS Chromebook C423NA-EC0102 Ordinateur Portable Tactile...'
 sku: 'B086QDTBQN-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 349.0 EUR
 currency: EUR
 price: 349.0

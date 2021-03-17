@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MF3RT29-fr Hoover H-Free 700 HF722PTLG Aspirateur balai sans fil...'
 sku: 'B07MF3RT29-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

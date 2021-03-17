@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GAK3PR4-fr ELTEN 78671-43 Rigger Boot Chaussures de sécurité ESD S3...'
 sku: 'B00GAK3PR4-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 60.52 EUR
 currency: EUR
 price: 60.52

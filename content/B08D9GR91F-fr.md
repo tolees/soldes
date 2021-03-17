@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D9GR91F-fr KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D...'
 sku: 'B08D9GR91F-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

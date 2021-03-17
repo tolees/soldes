@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UMTAJVE-fr little tikes Tricycle 5-in-1 Deluxe Ride & Relax Rouge'
 sku: 'B00UMTAJVE-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 61.4 EUR
 currency: EUR
 price: 61.4

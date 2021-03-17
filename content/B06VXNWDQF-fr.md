@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06VXNWDQF-fr Furreal Friends - Tyler Le Tigre Joueur - Peluche Interactive'
 sku: 'B06VXNWDQF-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 89.23 EUR
 currency: EUR
 price: 89.23

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FRDFU0-fr Crucial CT4G4DFS824A 4Go DDR4 2400 MT/s PC4-19200 Single...'
 sku: 'B019FRDFU0-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 16.79 EUR
 currency: EUR
 price: 16.79

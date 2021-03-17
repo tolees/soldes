@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083Z8WVD3-fr Ultenic Aspirateur Robot D5s Connecté Wi-FI et Alexa...'
 sku: 'B083Z8WVD3-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 164.25 EUR
 currency: EUR
 price: 164.25

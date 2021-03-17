@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JB1WM2V-fr find. Suede Kitten Heel Escarpins Rouge Red 40 EU'
 sku: 'B07JB1WM2V-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 26.32 EUR
 currency: EUR
 price: 26.32

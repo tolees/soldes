@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V8V9T3W-fr Love MoschinoJc4233pp0afemmeSacs bandoulièreÉcru Ivory...'
 sku: 'B07V8V9T3W-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 83.38 EUR
 currency: EUR
 price: 83.38

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H3QFDKJ-fr AUBADE Soutien-gorge Push-Up Coussinets Amovibles FIEVRE...'
 sku: 'B07H3QFDKJ-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 46.0 EUR
 currency: EUR
 price: 46.0

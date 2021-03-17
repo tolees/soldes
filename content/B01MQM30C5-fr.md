@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQM30C5-fr Puma Basket Heart Patent Baskets Basses Femme Noir Black-...'
 sku: 'B01MQM30C5-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

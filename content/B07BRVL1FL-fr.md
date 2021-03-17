@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRVL1FL-fr Bosch Professional Meuleuse d angle Filaire GWS 18–125 SL...'
 sku: 'B07BRVL1FL-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 193.88 EUR
 currency: EUR
 price: 193.88

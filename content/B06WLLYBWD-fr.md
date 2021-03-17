@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WLLYBWD-fr Montre Femme - Dreyfuss DLS00146/01'
 sku: 'B06WLLYBWD-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 186.55 EUR
 currency: EUR
 price: 186.55

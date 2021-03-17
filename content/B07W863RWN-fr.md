@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W863RWN-fr BaByliss Sèche-cheveux Travel Dry 2000 Compact Léger avec...'
 sku: 'B07W863RWN-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

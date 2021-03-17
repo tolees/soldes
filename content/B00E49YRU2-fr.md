@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E49YRU2-fr Bosch L5013 Batterie décharge lente 12V 90Ah 800A -...'
 sku: 'B00E49YRU2-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 130.46 EUR
 currency: EUR
 price: 130.46

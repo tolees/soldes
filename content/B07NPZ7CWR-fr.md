@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NPZ7CWR-fr Hurley M Advantage Plus 1/1 Jacket Combinaisons De Surf...'
 sku: 'B07NPZ7CWR-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 54.44 EUR
 currency: EUR
 price: 54.44

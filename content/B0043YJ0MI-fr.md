@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0043YJ0MI-fr APC Power-Saving Back-UPS PRO - BR900G-FR - Onduleur 900VA...'
 sku: 'B0043YJ0MI-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 235.95 EUR
 currency: EUR
 price: 235.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXYPNZK-fr Millet – Ubic 40 – Sac à Dos de Montagne Unisexe –...'
 sku: 'B07KXYPNZK-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 82.79 EUR
 currency: EUR
 price: 82.79

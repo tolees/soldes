@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0049PAWYQ-fr Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe...'
 sku: 'B0049PAWYQ-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 100.11 EUR
 currency: EUR
 price: 100.11

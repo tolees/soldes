@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3BT3RV-fr ECCO Shape 55 Western Santiags Femme Noir Black 1001 37 EU'
 sku: 'B07N3BT3RV-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 76.74 EUR
 currency: EUR
 price: 76.74

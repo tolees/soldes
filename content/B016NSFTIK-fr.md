@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016NSFTIK-fr Gitzo GT1545T - Trépied Traveler Série 1 à 4 Sections...'
 sku: 'B016NSFTIK-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

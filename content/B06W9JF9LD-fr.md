@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W9JF9LD-fr LUDI – Tapis de sol épais pour l’éveil de bébé – 10006 -...'
 sku: 'B06W9JF9LD-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

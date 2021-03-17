@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08G8CZYR1-fr Maegoo Manette PS4 sans Fil Bluetooth Dualshock 4 Manette...'
 sku: 'B08G8CZYR1-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

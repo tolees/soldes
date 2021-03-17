@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XCGRJZR-fr Rowenta Compact Steam Extreme DG7521F0 Centrale Vapeur...'
 sku: 'B06XCGRJZR-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 103.99 EUR
 currency: EUR
 price: 103.99

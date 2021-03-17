@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FVYYKX-fr Gardena 19300-47 Smart SILENO City 300 Robot Tondeuse Set...'
 sku: 'B082FVYYKX-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 692.1 EUR
 currency: EUR
 price: 692.1

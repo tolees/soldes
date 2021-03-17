@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N8KD11Y-fr Hugo Atom Runn neoem Sneakers Basses Homme Bleu Navy 401...'
 sku: 'B07N8KD11Y-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 115.95 EUR
 currency: EUR
 price: 115.95

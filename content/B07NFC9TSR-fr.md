@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFC9TSR-fr Tommy Hilfiger Th Ess Hilfiger Hoodie Ls Sweat-Shirt Surf...'
 sku: 'B07NFC9TSR-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 75.42 EUR
 currency: EUR
 price: 75.42

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007ICIPB4-fr Sandvik Coromant A880-d2500lx38–03 Corodrill 880 Indexable...'
 sku: 'B007ICIPB4-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 63.08 EUR
 currency: EUR
 price: 63.08

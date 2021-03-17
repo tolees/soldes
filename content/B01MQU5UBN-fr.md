@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQU5UBN-fr Elgato Thunderbolt 3 Dock - Avec câble de 50 cm 40 Gbit/s...'
 sku: 'B01MQU5UBN-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

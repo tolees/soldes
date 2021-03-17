@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9Z9LPG-fr Le Tanneur Gaspard TGAS4000 Hommes Noir Noir 7.5x30.5x38.5...'
 sku: 'B07M9Z9LPG-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 113.42 EUR
 currency: EUR
 price: 113.42

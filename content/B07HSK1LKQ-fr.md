@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSK1LKQ-fr A Star is Born [DVD]'
 sku: 'B07HSK1LKQ-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

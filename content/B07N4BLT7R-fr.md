@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4BLT7R-fr Catimini CP44005 Manteau Noir Black 02 4 Ans Taille...'
 sku: 'B07N4BLT7R-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 96.14 EUR
 currency: EUR
 price: 96.14

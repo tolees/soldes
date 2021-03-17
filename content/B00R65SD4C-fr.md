@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00R65SD4C-fr VAHDAM Feuilles de Thé Vert de l Himalaya 50+ Tasses |...'
 sku: 'B00R65SD4C-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

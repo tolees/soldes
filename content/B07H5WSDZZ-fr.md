@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5WSDZZ-fr Sac à dos Thule Crossover 2 20L Noir ordinateur 13 - 14...'
 sku: 'B07H5WSDZZ-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 145.95 EUR
 currency: EUR
 price: 145.95

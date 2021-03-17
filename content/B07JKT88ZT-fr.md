@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JKT88ZT-fr Under Armour UA Roland Backpack Hydrofuge Pratique Sac à...'
 sku: 'B07JKT88ZT-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 15.96 EUR
 currency: EUR
 price: 15.96

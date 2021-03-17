@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DC4P6CZ-fr sloggi Zero Feel Top EX Brassière Femme Écru ANGORA 6308 M'
 sku: 'B07DC4P6CZ-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 22.45 EUR
 currency: EUR
 price: 22.45

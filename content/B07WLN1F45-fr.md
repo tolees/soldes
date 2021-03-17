@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLN1F45-fr LIVOO DOP142N Robot culinaire Chauffant'
 sku: 'B07WLN1F45-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 216.44 EUR
 currency: EUR
 price: 216.44

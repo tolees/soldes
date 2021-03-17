@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZS7T17-fr Xiaomi Redmi Note 5 Smartphone Portable Débloqué 4G Ecran:...'
 sku: 'B07CZS7T17-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 170.0 EUR
 currency: EUR
 price: 170.0

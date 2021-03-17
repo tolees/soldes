@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MAGDPPY-fr Maisonnerie 1316-503-91 Campus Armoire Murale Miroir...'
 sku: 'B00MAGDPPY-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 42.6 EUR
 currency: EUR
 price: 42.6

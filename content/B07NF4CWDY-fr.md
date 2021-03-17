@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NF4CWDY-fr Objectif Olympus M.Zuiko Digital ED 12-200mm F3.5-6.3 zoom...'
 sku: 'B07NF4CWDY-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 569.99 EUR
 currency: EUR
 price: 569.99

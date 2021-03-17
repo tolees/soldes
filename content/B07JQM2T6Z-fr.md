@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQM2T6Z-fr Under Armour Men s Official Tour Cap 3.0 Casquette Homme...'
 sku: 'B07JQM2T6Z-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 12.52 EUR
 currency: EUR
 price: 12.52

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6YG1LC-fr ECOVACS OZMO920 Robot Aspirateur Laveur 2-en-1 avec...'
 sku: 'B07W6YG1LC-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 309.98 EUR
 currency: EUR
 price: 309.98

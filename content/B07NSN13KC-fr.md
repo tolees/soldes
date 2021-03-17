@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NSN13KC-fr LIVOO DOC208 Barbecue Gaz Gril et Plancha'
 sku: 'B07NSN13KC-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 247.9 EUR
 currency: EUR
 price: 247.9

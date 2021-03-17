@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HRV4G6F-fr Cuisinox C61400WX13W09 Eclipse Faitout 24cm inox avec...'
 sku: 'B07HRV4G6F-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 103.6 EUR
 currency: EUR
 price: 103.6

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GY4XH60-fr PKparis K 1 Clé USB 3.0 64 Go Blanc'
 sku: 'B00GY4XH60-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 30.73 EUR
 currency: EUR
 price: 30.73

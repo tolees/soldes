@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KFGMGK2-fr Truma 30090-00042 Set d allumage piézo'
 sku: 'B07KFGMGK2-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 49.39 EUR
 currency: EUR
 price: 49.39

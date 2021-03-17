@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDRHWPW-fr HAUPTSTADTKOFFER - Spree - Valise de Taille Moyenne Bagage...'
 sku: 'B06XDRHWPW-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 45.19 EUR
 currency: EUR
 price: 45.19

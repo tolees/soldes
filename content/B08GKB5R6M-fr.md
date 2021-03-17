@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GKB5R6M-fr Minuteur analogique visuel 60 minutes compte à rebours...'
 sku: 'B08GKB5R6M-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

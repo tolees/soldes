@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMCEW40-fr Mano Sets de bagages MPTSET3 Noir 56.0 liters'
 sku: 'B00LMCEW40-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 42.17 EUR
 currency: EUR
 price: 42.17

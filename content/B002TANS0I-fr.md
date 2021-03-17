@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002TANS0I-fr APC Back-UPS ES - BE700G-FR - Onduleur 700VA 8 Prises FR'
 sku: 'B002TANS0I-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 125.94 EUR
 currency: EUR
 price: 125.94

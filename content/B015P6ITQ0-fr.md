@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015P6ITQ0-fr Dell SE2216H Ecran de PC 22" Full HD LCD VA 60 Hz 12 ms'
 sku: 'B015P6ITQ0-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

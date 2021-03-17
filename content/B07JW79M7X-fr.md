@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JW79M7X-fr Sunflair Dark Flower Tankinis Multicolore Nachtblau 30...'
 sku: 'B07JW79M7X-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 51.01 EUR
 currency: EUR
 price: 51.01

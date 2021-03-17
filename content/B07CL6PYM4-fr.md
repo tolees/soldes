@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CL6PYM4-fr Only NOS Onlroyal Reg SK DNM Jeans Bj312 Noos Dark Grey...'
 sku: 'B07CL6PYM4-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 10.14 EUR
 currency: EUR
 price: 10.14

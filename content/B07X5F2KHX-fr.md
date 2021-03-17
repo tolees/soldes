@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X5F2KHX-fr Moulinex Multicuiseur Intelligent Cookeo+ 6L 6 Modes de...'
 sku: 'B07X5F2KHX-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 159.99 EUR
 currency: EUR
 price: 159.99

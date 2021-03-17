@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002PCZ1VE-fr Kenwood Hachoir à Viande Electrique MG700 Semi- Pro...'
 sku: 'B002PCZ1VE-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 167.89 EUR
 currency: EUR
 price: 167.89

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006MSR3CC-fr Facom - RLNANO1PB 32005 - Coffret douilles 1/4 6 pans...'
 sku: 'B006MSR3CC-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 112.24 EUR
 currency: EUR
 price: 112.24

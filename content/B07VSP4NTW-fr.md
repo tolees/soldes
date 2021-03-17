@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSP4NTW-fr COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB eMMC Windows 10...'
 sku: 'B07VSP4NTW-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

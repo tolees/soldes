@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L86DVZ7-fr Senbos Portefeuille Homme en Cuir Véritable 18...'
 sku: 'B07L86DVZ7-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

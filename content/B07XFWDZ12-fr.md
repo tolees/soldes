@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFWDZ12-fr Microsoft Surface Laptop 3 “ PC UltraPortable écran 13...'
 sku: 'B07XFWDZ12-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 969.0 EUR
 currency: EUR
 price: 969.0

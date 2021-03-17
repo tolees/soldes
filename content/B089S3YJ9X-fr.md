@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089S3YJ9X-fr Montre Connectée Femmes Montre Sport Homme 9 Modes Sportif...'
 sku: 'B089S3YJ9X-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

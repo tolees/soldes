@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F1T2PH9-fr Nativi Troll Bluetooth Écouteurs sans Fil Casques sans Fil...'
 sku: 'B08F1T2PH9-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

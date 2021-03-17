@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07S48VF9D-fr Love MoschinoJc4027pp1afemmeSacs bandoulièreNoir Nero...'
 sku: 'B07S48VF9D-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 77.93 EUR
 currency: EUR
 price: 77.93

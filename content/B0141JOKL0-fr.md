@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0141JOKL0-fr TP-Link T2600G-18TS Switch administrable niveau 2 avec 16...'
 sku: 'B0141JOKL0-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

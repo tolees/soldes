@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W2B4XY4-fr Jabra BIZ™ 2400 II Duo NOUVELLE GENERATION - Type: 72 UNC...'
 sku: 'B00W2B4XY4-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 190.48 EUR
 currency: EUR
 price: 190.48

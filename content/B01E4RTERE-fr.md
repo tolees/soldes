@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E4RTERE-fr Dsquared2 D Squared Brillengestelle DQ5203 005-54-15-140...'
 sku: 'B01E4RTERE-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 78.71 EUR
 currency: EUR
 price: 78.71

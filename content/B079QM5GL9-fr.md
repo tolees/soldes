@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079QM5GL9-fr iRobot Roomba 671 Aspirateur Robot pour Tapis et Sols Durs...'
 sku: 'B079QM5GL9-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

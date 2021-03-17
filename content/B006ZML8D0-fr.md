@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ZML8D0-fr Helly Hansen HH Crew Midlayer Jacket – Veste imperméable...'
 sku: 'B006ZML8D0-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 55.48 EUR
 currency: EUR
 price: 55.48

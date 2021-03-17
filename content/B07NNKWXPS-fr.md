@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NNKWXPS-fr O bag Borsa Completa Glam 54 Sac à bandoulière Femme Noir...'
 sku: 'B07NNKWXPS-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 63.11 EUR
 currency: EUR
 price: 63.11

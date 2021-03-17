@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FR7XX7N-fr Clarks Edward Plain Derbys Homme Marron Tan Leather- 45 EU'
 sku: 'B07FR7XX7N-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 74.89 EUR
 currency: EUR
 price: 74.89

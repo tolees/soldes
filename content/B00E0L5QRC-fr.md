@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E0L5QRC-fr GROSFILLEX Vega Table Taupe 118 x 77 x 72 cm'
 sku: 'B00E0L5QRC-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 68.9 EUR
 currency: EUR
 price: 68.9

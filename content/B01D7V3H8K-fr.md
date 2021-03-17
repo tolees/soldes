@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D7V3H8K-fr GPR EXHAUST SYSTEM GPREB .68.E Pot d échappement homologué...'
 sku: 'B01D7V3H8K-fr'
-tags: [ 'Bricolage','Construction','Matériaux bruts de construction','Matériel de construction', ]
+tags: [ 'Accessoires Photo et Caméscopes','Bricolage','CPL','Construction','Cuisine et Maison','Fers à repasser','Fers, centrales vapeur et accessoires','Générateurs vapeur de voyage','High-Tech','Housses et étuis pour appareils photo et caméscopes','Housses pour appareils photo','Housses pour appareils photo compacts','Informatique','Matériaux bruts de construction','Matériel de construction','Photo et caméscopes','Réseaux', ]
 actualPrice: 229.33 EUR
 currency: EUR
 price: 229.33
