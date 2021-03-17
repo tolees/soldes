@@ -1,37 +1,37 @@
 ---
 layout: post
-title: 'LEGO City  Le commissariat de police  Se avec 17.13 % rabais '
-date: 2021-03-16 02:53:30
+title: 'LEGO City  Le commissariat de police  Se avec 17.68 % rabais '
+date: 2021-03-17 08:31:25
 image: 'https://m.media-amazon.com/images/I/51Q0Fc1B-LL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07W7TM73V-fr LEGO City Le commissariat de police Set de construction...'
 sku: 'B07W7TM73V-fr'
-tags: [  ]
-actualPrice: 82.86 EUR
+tags: [ 'Batteurs','Batteurs sur socle','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','Déshumidificateurs','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager','lego', ]
+actualPrice: 82.31 EUR
 currency: EUR
-price: 82.86
+price: 82.31
 comparePrice: 99.99 EUR
 prodname: 'LEGO City  Le commissariat de police  Set de construction avec 2 camions  Des briques lumineuses et sonores  un drone et une moto  241 pièces  60246'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W7TM73V/?tag=tolees0d-21'
-descuento: '17.13'
-average: '71.402205128205'
+descuento: '17.68'
+average: '71.5129441624364'
 ---
 
-C'est en vente [LEGO City  Le commissariat de police  Set de construction avec 2 camions  Des briques lumineuses et sonores  un drone et une moto  241 pièces  60246](https://www.amazon.fr/dp/B07W7TM73V/?tag=tolees0d-21)  à  17.13 % de réduction, prix final  82.86 EUR (original: 99.99 EUR) ici:
+C'est en vente [LEGO City  Le commissariat de police  Set de construction avec 2 camions  Des briques lumineuses et sonores  un drone et une moto  241 pièces  60246](https://www.amazon.fr/dp/B07W7TM73V/?tag=tolees0d-21)  à  17.68 % de réduction, prix final  82.31 EUR (original: 99.99 EUR) ici:
 
 [![LEGO City  Le commissariat de police  Se](https://m.media-amazon.com/images/I/51Q0Fc1B-LL._SL400_.jpg)](https://www.amazon.fr/dp/B07W7TM73V/?tag=tolees0d-21)
 
 ℹ️:
 
-- Les accessoires du set comprennent des menottes, une planche à roulettes, une torche, des bâtons de dynamite pour faire sauter les barreaux de la cellule de prison et une table de ping-pong à placer à l’intérieur du commissariat
+- Comprend 7 figurines : Duke DeTain, chef Wheeler, Daisy Kaboom, 2 policiers, 2 escrocs, plus un bouledogue et des figurines de chiens policiers
 - Le guide électronique Instructions PLUS disponible dans lappli gratuite LEGO Life pour appareils intelligents aide les enfants à zoomer, faire pivoter et visualiser le modèle au fur et à mesure de sa construction
 - Inclut un projecteur avec une brique lumineuse, des phares de toit et une sirène qui fonctionnent, ainsi quune cellule de prison avec fonction d’explosion activée par levier pour ajouter des effets au jeu de course-poursuite
-- Comprend 7 figurines : Duke DeTain, chef Wheeler, Daisy Kaboom, 2 policiers, 2 escrocs, plus un bouledogue et des figurines de chiens policiers
 - Comprend un commissariat de police disposé en 4 pièces sur 2 étages avec une cellule de prison avec fonction d’explosion, 2 camions, une moto et un drone
+- Les accessoires du set comprennent des menottes, une planche à roulettes, une torche, des bâtons de dynamite pour faire sauter les barreaux de la cellule de prison et une table de ping-pong à placer à l’intérieur du commissariat
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7TM73V/?tag=tolees0d-21)

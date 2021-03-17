@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FNW6WQ4-fr LEGO® Technic Chevrolet Corvette ZR1 Jeu de construction...'
 sku: 'B07FNW6WQ4-fr'
-tags: [ 'lego', ]
+tags: [ 'Accessoires de décoration intérieure','Action et aventure','Ameublement et décoration','Batteurs','Batteurs sur socle','Blu-ray','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','DVD et Blu-ray','Décoration de la maison','Décorations murales','Déshumidificateurs','Fantastique','Featured Categories','Films','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager','lego', ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9
@@ -28,10 +28,10 @@ Vous avez [LEGO® Technic Chevrolet Corvette ZR1 Jeu de construction voiture 9 A
 
 ℹ️:
 
-- Construisez la Chevrolet Corvette ZR1 LEGO Technic, modèle exclusif, développé en partenariat avec Corvette.
+- La Chevrolet Corvette mesure plus de 8 cm de haut, 29 cm de long et 12 cm de large. Le Hot Rod mesure plus de 8 cm de haut, 23 cm de long et 12 cm de large.
 - Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - Réplique exclusive de la Chevrolet Corvette ZR1 avec une multitude de caractéristiques réalistes, y compris un grand aileron arrière, 4 pots d’échappement, des jantes noires à rayons avec des pneus à profil bas, une direction qui fonctionne et un moteur V8 détaillé avec des pistons mobiles.
+- Construisez la Chevrolet Corvette ZR1 LEGO Technic, modèle exclusif, développé en partenariat avec Corvette.
 - 579 pièces pour les filles et les garçons à partir de 9 ans.
-- La Chevrolet Corvette mesure plus de 8 cm de haut, 29 cm de long et 12 cm de large. Le Hot Rod mesure plus de 8 cm de haut, 23 cm de long et 12 cm de large.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21)
