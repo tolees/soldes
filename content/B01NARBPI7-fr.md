@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NARBPI7-fr Clé USB 3.1 Sandisk Extreme Go - 64 Go avec une vitesse de...'
 sku: 'B01NARBPI7-fr'
-tags: [ 'Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bien-être et massage','Bricolage','Couvertures chauffantes','Cuisine et Maison','Hygiène et Santé','Jeux et Jouets','Jeux et jouets','Kits de bijoux et perles pour enfants','Kits de loisirs créatifs','Loisirs créatifs','Massage et relaxation','Outillage à main et électroportatif','Outillage électroportatif','Scies circulaires électriques','Scies électriques','Traitements chaud-froid', ]
+tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

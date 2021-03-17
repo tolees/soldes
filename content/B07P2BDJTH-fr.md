@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P2BDJTH-fr Superdry Sphere Padded Ultimate Blouson Noir Worn Black...'
 sku: 'B07P2BDJTH-fr'
-tags: [ 'Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bien-être et massage','Bricolage','Couvertures chauffantes','Cuisine et Maison','Hygiène et Santé','Jeux et Jouets','Jeux et jouets','Kits de bijoux et perles pour enfants','Kits de loisirs créatifs','Loisirs créatifs','Massage et relaxation','Outillage à main et électroportatif','Outillage électroportatif','Scies circulaires électriques','Scies électriques','Traitements chaud-froid', ]
+tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 65.57 EUR
 currency: EUR
 price: 65.57

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018TLVF5A-fr Halukakah ● Solo ● Homme Bracelet en Cuir Véritable de...'
 sku: 'B018TLVF5A-fr'
-tags: [ 'Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bien-être et massage','Bricolage','Couvertures chauffantes','Cuisine et Maison','Hygiène et Santé','Jeux et Jouets','Jeux et jouets','Kits de bijoux et perles pour enfants','Kits de loisirs créatifs','Loisirs créatifs','Massage et relaxation','Outillage à main et électroportatif','Outillage électroportatif','Scies circulaires électriques','Scies électriques','Traitements chaud-froid', ]
+tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

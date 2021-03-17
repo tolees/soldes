@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CV1RHZX-fr Nespresso Essenza Mini - Machine espresso à capsules -...'
 sku: 'B07CV1RHZX-fr'
-tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bien-être et massage','Boîtes à outils','Bricolage','Cafetières à capsules','Cafetières, Machines à café et machines à expresso','Café, thé et expresso','Casiers et supports de cuisine','Cinéma asiatique','Comédie','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','Cours universitaires','Couvertures chauffantes','Crèmes dépilatoires','Cuisine et Maison','DVD et Blu-ray','Drame et émotion','Featured Categories','Films','Hygiène et Santé','Informatique','Jeans homme','Jeux et Jouets','Jeux et jouets','Jeux pour PlayStation 4','Jeux vidéo','Kits','Kits de bijoux et perles pour enfants','Kits de loisirs créatifs','Lettres modernes pour luniversité','Livres','Loisirs créatifs','Massage et relaxation','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outillage électroportatif','Outils de filetage','PlayStation 4: Consoles, jeux et accessoires','Porte-épices','Poupées et accessoires','Poupées et poupons','Poupées, poupons et accessoires','Poésie','Quincaillerie','Quincaillerie de portes de garage','Rangement des outils','Rangement et organisation','Rangement et organisation de cuisine','Rasage et Épilation','Romance','Romans et littérature','Scies circulaires électriques','Scies électriques','Thriller','Traitements chaud-froid','Vêtements','Vêtements homme','krups','Épilation','Études supérieures', ]
+tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Boîtes à outils','Bricolage','Cafetières à capsules','Cafetières, Machines à café et machines à expresso','Café, thé et expresso','Casiers et supports de cuisine','Cinéma asiatique','Comédie','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','Cours universitaires','Crèmes dépilatoires','Cuisine et Maison','DVD et Blu-ray','Drame et émotion','Featured Categories','Films','Hygiène et Santé','Informatique','Jeans homme','Jeux et Jouets','Jeux et jouets','Jeux pour PlayStation 4','Jeux vidéo','Kits','Lettres modernes pour luniversité','Livres','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outils de filetage','PlayStation 4: Consoles, jeux et accessoires','Porte-épices','Poupées et accessoires','Poupées et poupons','Poupées, poupons et accessoires','Poésie','Quincaillerie','Quincaillerie de portes de garage','Rangement des outils','Rangement et organisation','Rangement et organisation de cuisine','Rasage et Épilation','Romance','Romans et littérature','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Thriller','Vêtements','Vêtements homme','krups','Épilation','Études supérieures', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0
@@ -28,14 +28,14 @@ C'est en vente [Nespresso Essenza Mini - Machine espresso à capsules - Blanc - 
 
 ℹ️:
 
-- Pré-chauffage rapide : 25 secondes
-- 19 bar de pression : la garantie dun espresso de qualité professionnelle
-- Capacité du bac pour capsules usagées : 6
-- Mode économiseur dénergie: mise en veille automatique après 9 min
-- Réservoir deau amovible de 0,6 L
-- Dimensions (LxHxl): 8,4 x 20,4 x 33 cm
-- Machine espresso à capsules Essenza Mini, le modèle ultra-compact de la gamme des machines à café Nespresso
-- 2 boutons avec arrêt automatique du café : espresso (40 ml) ou café long (110 ml)
 - Offert ! Un set de 14 capsules livré avec votre machine
+- Capacité du bac pour capsules usagées : 6
+- Réservoir deau amovible de 0,6 L
+- 2 boutons avec arrêt automatique du café : espresso (40 ml) ou café long (110 ml)
+- 19 bar de pression : la garantie dun espresso de qualité professionnelle
+- Pré-chauffage rapide : 25 secondes
+- Mode économiseur dénergie: mise en veille automatique après 9 min
+- Machine espresso à capsules Essenza Mini, le modèle ultra-compact de la gamme des machines à café Nespresso
+- Dimensions (LxHxl): 8,4 x 20,4 x 33 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CV1RHZX/?tag=tolees0d-21)

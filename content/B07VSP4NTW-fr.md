@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VSP4NTW-fr COOFUN Fanless Mini PC 4GB LPDDR4/ 64GB eMMC Windows 10...'
 sku: 'B07VSP4NTW-fr'
-tags: [ 'Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bien-être et massage','Bricolage','Couvertures chauffantes','Cuisine et Maison','Hygiène et Santé','Jeux et Jouets','Jeux et jouets','Kits de bijoux et perles pour enfants','Kits de loisirs créatifs','Loisirs créatifs','Massage et relaxation','Outillage à main et électroportatif','Outillage électroportatif','Scies circulaires électriques','Scies électriques','Traitements chaud-froid', ]
+tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

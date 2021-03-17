@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CN7TV7Z-fr Crocs Classic Sabots Mixte Adulte Violet Neon Purple 41/42 EU'
 sku: 'B07CN7TV7Z-fr'
-tags: [ 'Aspirateurs','Aspirateurs balais et balais électriques','Aspirateurs, entretien des sols et nettoyeurs de vitres','Bien-être et massage','Bricolage','Couvertures chauffantes','Cuisine et Maison','Hygiène et Santé','Jeux et Jouets','Jeux et jouets','Kits de bijoux et perles pour enfants','Kits de loisirs créatifs','Loisirs créatifs','Massage et relaxation','Outillage à main et électroportatif','Outillage électroportatif','Scies circulaires électriques','Scies électriques','Traitements chaud-froid', ]
+tags: [ 'T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 26.59 EUR
 currency: EUR
 price: 26.59
