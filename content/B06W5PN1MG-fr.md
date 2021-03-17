@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Goliath - Modelco - VR goggles - VRSE -  avec 70.37 % rabais '
-date: 2021-03-10 15:04:45
+date: 2021-03-17 21:40:38
 image: 'https://m.media-amazon.com/images/I/41J8vtvZ6lL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06W5PN1MG-fr Goliath - Modelco - VR goggles - VRSE - Jeu Vidéo -...'
 sku: 'B06W5PN1MG-fr'
-tags: [  ]
+tags: [ 'Casques de réalité virtuelle pour PC','Jeux vidéo','PC: Jeux et accessoires','Systèmes de réalité virtuelle pour PC','goliath', ]
 actualPrice: 23.7 EUR
 currency: EUR
 price: 23.7
@@ -28,8 +28,8 @@ C'est en vente [Goliath - Modelco - VR goggles - VRSE - Jeu Vidéo - Réalité V
 
 ℹ️:
 
-- PAS BESOIN de console!
-- 2 modes
 - Arcade et histoire
+- 2 modes
+- PAS BESOIN de console!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21)

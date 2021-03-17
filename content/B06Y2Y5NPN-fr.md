@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06Y2Y5NPN-fr New Balance homme 574v2 Core Baskets Bleu Navy 45 EU'
 sku: 'B06Y2Y5NPN-fr'
-tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Casques de réalité virtuelle pour PC','Commodore 64: Jeux, consoles et accessoires','Consoles pour Commodore 64','Consoles rétro et mini consoles','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux vidéo','PC: Jeux et accessoires','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','Systèmes de réalité virtuelle pour PC', ]
 actualPrice: 52.0 EUR
 currency: EUR
 price: 52.0

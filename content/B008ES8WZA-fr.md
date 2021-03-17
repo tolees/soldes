@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ES8WZA-fr Schott NYC Lc5100 Blouson Noir Large Taille fabricant: L...'
 sku: 'B008ES8WZA-fr'
-tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Casques de réalité virtuelle pour PC','Commodore 64: Jeux, consoles et accessoires','Consoles pour Commodore 64','Consoles rétro et mini consoles','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux vidéo','PC: Jeux et accessoires','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','Systèmes de réalité virtuelle pour PC', ]
 actualPrice: 253.51 EUR
 currency: EUR
 price: 253.51
