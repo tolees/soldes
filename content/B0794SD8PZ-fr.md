@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0794SD8PZ-fr TV LED Full HD 80 cm Philips 32PFS5603 TÃ©lÃ©viseur LCD 32...'
 sku: 'B0794SD8PZ-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y5M3GS8-fr Unisa Oneta KS Sandales Plateforme Femme Bleu Ocean Ocean...'
 sku: 'B07Y5M3GS8-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 49.46 EUR
 currency: EUR
 price: 49.46

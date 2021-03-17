@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VK0V6A2-fr De Longhi Machine à Café à Pompe et Cafetière Filtre...'
 sku: 'B00VK0V6A2-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

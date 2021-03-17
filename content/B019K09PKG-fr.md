@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019K09PKG-fr Pinypon - 700012739 - la Garderie des Animaux'
 sku: 'B019K09PKG-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

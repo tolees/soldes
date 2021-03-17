@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01E8K9ZJ4-fr Ayotu Étui pour Kindle Paperwhite 2018 - Étui de...'
 sku: 'B01E8K9ZJ4-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 17.25 EUR
 currency: EUR
 price: 17.25

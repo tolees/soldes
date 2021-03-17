@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015HK3TG4-fr SweetLisS - Lisseur Libellule - Fer à lisser et à boucler...'
 sku: 'B015HK3TG4-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

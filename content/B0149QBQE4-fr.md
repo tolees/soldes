@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0149QBQE4-fr Corsair MM200 Tapis de Souris Gaming Extended Tissu Noir'
 sku: 'B0149QBQE4-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D9GR91F-fr KingDian 60GB 120GB 240GB 480GB 1TB 2TB 2.5IN SATAIII 3D...'
 sku: 'B08D9GR91F-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

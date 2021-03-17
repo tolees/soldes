@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L98BMPW-fr Under Armour Armour Insulated Hooded Veste Homme Noir FR :...'
 sku: 'B07L98BMPW-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 57.72 EUR
 currency: EUR
 price: 57.72

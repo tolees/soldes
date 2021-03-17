@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0865XHW5M-fr MMCRRX M.2 NVMe SSD Ultra adpater Karte Pcie 3.0 X4 GEN3 M...'
 sku: 'B0865XHW5M-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

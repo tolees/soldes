@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HV7LVFP-fr Mini Camera Espion WiFi NIYPS Full HD 1080P Étanche sans...'
 sku: 'B07HV7LVFP-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

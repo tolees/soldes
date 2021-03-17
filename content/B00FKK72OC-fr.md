@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FKK72OC-fr Lame de scie circulaire HW/CT 254 x 30 x 2 4/1 8 Gris'
 sku: 'B00FKK72OC-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

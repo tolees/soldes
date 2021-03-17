@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CN6SG98-fr GiiYoon 2 Pièces Verre Trempé pour Xiaomi Mi 9 Film...'
 sku: 'B08CN6SG98-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

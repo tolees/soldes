@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719FQKDY-fr Neutrogena Visibly Clear Gel Nettoyant Pamplemousse Rose –...'
 sku: 'B0719FQKDY-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

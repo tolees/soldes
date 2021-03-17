@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0798C1KRV-fr LIVALL Bh60se Musik Rücklicht Blinker Navigation...'
 sku: 'B0798C1KRV-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 111.63 EUR
 currency: EUR
 price: 111.63

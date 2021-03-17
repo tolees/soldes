@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006MSR3CC-fr Facom - RLNANO1PB 32005 - Coffret douilles 1/4 6 pans...'
 sku: 'B006MSR3CC-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 112.24 EUR
 currency: EUR
 price: 112.24

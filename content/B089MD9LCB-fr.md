@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089MD9LCB-fr Meller - Bio Banna Minor Olive - Lunettes de Soleil pour...'
 sku: 'B089MD9LCB-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 25.2 EUR
 currency: EUR
 price: 25.2

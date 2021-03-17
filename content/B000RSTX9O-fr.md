@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RSTX9O-fr TP-Link TL-SG1024 Switch 24 Ports Gigabit Rackable Boîtier...'
 sku: 'B000RSTX9O-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 84.96 EUR
 currency: EUR
 price: 84.96

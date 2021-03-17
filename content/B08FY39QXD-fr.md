@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FY39QXD-fr 2 x Volant Poignées pour Switch Kit de Poignées à L usure...'
 sku: 'B08FY39QXD-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

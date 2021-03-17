@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I96MDR0-fr Calor FV9960C0 Fer à Repasser Vapeur Sans Fil Freemove...'
 sku: 'B00I96MDR0-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

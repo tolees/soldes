@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IL025TO-fr Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes lot...'
 sku: 'B01IL025TO-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

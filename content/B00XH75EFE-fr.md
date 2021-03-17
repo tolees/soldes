@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00XH75EFE-fr TOKINA AT-X PRO FX 24-70mm F2.8 Objectif reflex pro haute...'
 sku: 'B00XH75EFE-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 813.7 EUR
 currency: EUR
 price: 813.7

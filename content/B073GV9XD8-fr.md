@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073GV9XD8-fr SONGMICS Lot de 2 Tabourets de Bar Stool avec Dossier...'
 sku: 'B073GV9XD8-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 55.4 EUR
 currency: EUR
 price: 55.4

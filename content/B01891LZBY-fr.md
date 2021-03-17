@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01891LZBY-fr Rowenta Ventilateur sur pied 16 /40 cm Turbo Silence...'
 sku: 'B01891LZBY-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 62.96 EUR
 currency: EUR
 price: 62.96

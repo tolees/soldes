@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BP9WDC3-fr QNAP TS-253BE-2G 16 to Solution NAS de Bureau à 2 Baies |...'
 sku: 'B07BP9WDC3-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 1037.57 EUR
 currency: EUR
 price: 1037.57

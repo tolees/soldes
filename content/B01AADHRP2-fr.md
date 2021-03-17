@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AADHRP2-fr Nike - W NSW lggng Club logo2 - Collant pour femme -...'
 sku: 'B01AADHRP2-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

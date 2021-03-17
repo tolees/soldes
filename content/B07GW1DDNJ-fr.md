@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GW1DDNJ-fr Just Dance 2019 - Edition Amazon pour Nintendo Switch'
 sku: 'B07GW1DDNJ-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

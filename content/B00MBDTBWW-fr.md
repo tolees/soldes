@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00MBDTBWW-fr L Oréal Men Expert - Bille Anti-Cernes & Anti-Poches pour...'
 sku: 'B00MBDTBWW-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 4.03 EUR
 currency: EUR
 price: 4.03

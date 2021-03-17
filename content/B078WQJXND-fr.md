@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078WQJXND-fr Samsung SSD Interne 860 PRO 256 Go - MZ-76P256B/EU'
 sku: 'B078WQJXND-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 86.49 EUR
 currency: EUR
 price: 86.49

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CFI9A0-fr DE BUYER -3125.16 -moule a charlotte inox 18/10s/couv.ø16'
 sku: 'B001CFI9A0-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HVC5FDF-fr XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau...'
 sku: 'B08HVC5FDF-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

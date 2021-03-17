@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BUDIY2G-fr Wagner W100 2361508 Pistolet à peinture pour bois/métal'
 sku: 'B01BUDIY2G-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 59.9 EUR
 currency: EUR
 price: 59.9

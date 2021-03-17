@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0792TNMBT-fr Geox U Taiki B ABX C Baskets Hautes Homme Noir Black C9999...'
 sku: 'B0792TNMBT-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 112.81 EUR
 currency: EUR
 price: 112.81

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016H0R7SE-fr Philips Hue Kit de Démarrage Blanc avec 2 x E27 9 W [pont...'
 sku: 'B016H0R7SE-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

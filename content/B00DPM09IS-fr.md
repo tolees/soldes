@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DPM09IS-fr LEGO DUPLO Town La pâtisserie avec camionette à café...'
 sku: 'B00DPM09IS-fr'
-tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
+tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme', ]
 actualPrice: 33.73 EUR
 currency: EUR
 price: 33.73
