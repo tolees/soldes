@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 'Les Animaux fantastiques - Le monde des  avec 29.48 % rabais '
-date: 2021-03-11 19:41:31
+date: 2021-03-17 07:52:51
 image: 'https://m.media-amazon.com/images/I/51JivAxmNaL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01LTHYTTU-fr Les Animaux fantastiques - Le monde des Sorciers de J.K....'
 sku: 'B01LTHYTTU-fr'
 tags: [  ]
