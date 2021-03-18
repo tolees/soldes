@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SJY25G9-fr MGM - James Bond 007-La Collection Daniel Craig : Casino...'
 sku: 'B07SJY25G9-fr'
-tags: [ 'Accessoires IT','Accessoires pour disques durs','Action et aventure','Adaptateurs et boîtiers pour disque dur','Appareils et outils de coiffure','Baskets et chaussures de sport femme','Baskets mode femme','Beauté et Parfum','Blu-ray','Chaussures','Chaussures et Sacs','Chaussures femme','Coffrets de figurines pour enfants','Coiffure et soins des cheveux','DVD et Blu-ray','Featured Categories','Figurines pour enfants','Films','Informatique','Jeux et Jouets','Jeux et jouets','Thriller','Tondeuses à cheveux','mgm', ]
+tags: [ 'Accessoires IT','Accessoires pour disques durs','Action et aventure','Adaptateurs et boîtiers pour disque dur','Appareils et outils de coiffure','Baskets et chaussures de sport femme','Baskets mode femme','Beauté et Parfum','Blu-ray','Chaussures','Chaussures et Sacs','Chaussures femme','Coffrets de figurines pour enfants','Coiffure et soins des cheveux','Cuisine et Maison','DVD et Blu-ray','Ensembles de géométrie','Featured Categories','Figurines pour enfants','Films','Fournitures de bureau','Fournitures décole','Informatique','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs','Thriller','Tondeuses à cheveux','mgm', ]
 actualPrice: 62.21 EUR
 currency: EUR
 price: 62.21
