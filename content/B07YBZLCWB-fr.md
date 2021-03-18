@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YBZLCWB-fr 2X Hochstern BL1860B 5500mAh batterie Remplacement pour...'
 sku: 'B07YBZLCWB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 65.92 EUR
 currency: EUR
 price: 65.92

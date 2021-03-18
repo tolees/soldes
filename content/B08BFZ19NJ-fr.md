@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BFZ19NJ-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
 sku: 'B08BFZ19NJ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 35.0 EUR
 currency: EUR
 price: 35.0

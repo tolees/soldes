@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015X7NKL0-fr Moulinex MK812101 Multicuiseur Traditionnel 45-en-1 Argent...'
 sku: 'B015X7NKL0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

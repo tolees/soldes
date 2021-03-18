@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZF7YFVK-fr COOCHEER Purificateur d air avec Réel Filtre HEPA et...'
 sku: 'B07ZF7YFVK-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

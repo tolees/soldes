@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752SP7JZ-fr Ridgebake Hauptkollektion Sac à Dos Loisir 51 Centimeters...'
 sku: 'B0752SP7JZ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 58.23 EUR
 currency: EUR
 price: 58.23

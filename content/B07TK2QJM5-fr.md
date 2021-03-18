@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TK2QJM5-fr Quiksilver EQYTJ03215 Veste de Ski/Snowboard Homme...'
 sku: 'B07TK2QJM5-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 75.58 EUR
 currency: EUR
 price: 75.58

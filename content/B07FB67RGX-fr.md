@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FB67RGX-fr Chaussures Femmes Sport Trainers Confort Poids Léger Woven...'
 sku: 'B07FB67RGX-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 17.9 EUR
 currency: EUR
 price: 17.9

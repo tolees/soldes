@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0052QV9FM-fr Onduleur Eaton Ellipse ECO 500 FR - Off-line UPS - EL500FR...'
 sku: 'B0052QV9FM-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

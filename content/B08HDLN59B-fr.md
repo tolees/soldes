@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HDLN59B-fr Android TV Box Android 7.1 2G+16G Boitier Android TV Mini...'
 sku: 'B08HDLN59B-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

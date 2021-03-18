@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAHE2RJ-fr Timberland Adventure 2.0 Cupsole Baskets Montantes Homme...'
 sku: 'B01NAHE2RJ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 83.95 EUR
 currency: EUR
 price: 83.95

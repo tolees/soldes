@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086PLNNPS-fr CODEMASTERS- F1 2020 - Seventy Edition - PlayStation 4'
 sku: 'B086PLNNPS-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 38.1 EUR
 currency: EUR
 price: 38.1

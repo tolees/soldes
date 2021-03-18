@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SXT16Q6-fr Geox D TABELYA A Sneakers Basses Femme Beige Cream/Lt Gold...'
 sku: 'B07SXT16Q6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 50.46 EUR
 currency: EUR
 price: 50.46

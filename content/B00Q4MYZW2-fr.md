@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00Q4MYZW2-fr Lacoste - TH7618 - T-Shirt - Homme - Noir Noir 031 - FR:4 M'
 sku: 'B00Q4MYZW2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

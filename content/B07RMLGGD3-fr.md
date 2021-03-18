@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RMLGGD3-fr Calvin Klein Sliver Mix 2g Laptop Bag Pochettes homme Noir...'
 sku: 'B07RMLGGD3-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 68.02 EUR
 currency: EUR
 price: 68.02

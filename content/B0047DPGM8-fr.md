@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0047DPGM8-fr Tiger LEC7-BK Support pour PC et Projecteur - Noir'
 sku: 'B0047DPGM8-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 19.34 EUR
 currency: EUR
 price: 19.34

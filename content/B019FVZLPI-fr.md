@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019FVZLPI-fr Sac à dos pour cyclistes et utilisateurs de trottinette...'
 sku: 'B019FVZLPI-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0141JOKL0-fr TP-Link T2600G-18TS Switch administrable niveau 2 avec 16...'
 sku: 'B0141JOKL0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

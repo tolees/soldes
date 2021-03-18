@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JLRHOXY-fr Luminarc Pure Box Active Boîte de Conservation hermétique...'
 sku: 'B00JLRHOXY-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

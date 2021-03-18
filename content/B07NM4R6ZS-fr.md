@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NM4R6ZS-fr AVIC-Z820DAB'
 sku: 'B07NM4R6ZS-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 665.0 EUR
 currency: EUR
 price: 665.0

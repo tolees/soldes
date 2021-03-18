@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002YEJE0W-fr Claude Dozorme 2.60.001.55 Coffret Hêtre 6 Couteaux Steak...'
 sku: 'B002YEJE0W-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 137.57 EUR
 currency: EUR
 price: 137.57

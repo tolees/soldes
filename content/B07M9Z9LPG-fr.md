@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M9Z9LPG-fr Le Tanneur Gaspard TGAS4000 Hommes Noir Noir 7.5x30.5x38.5...'
 sku: 'B07M9Z9LPG-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 113.42 EUR
 currency: EUR
 price: 113.42

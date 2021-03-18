@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DLMD7DK-fr Sony SEL70300G zoom FE 70-300 mm F4 5-5 6 G'
 sku: 'B01DLMD7DK-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 988.79 EUR
 currency: EUR
 price: 988.79

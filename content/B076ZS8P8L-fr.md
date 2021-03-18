@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZS8P8L-fr DUAL 28 Days Detox Tea🌱🍵Thé Minceur Infusion pour Perte de...'
 sku: 'B076ZS8P8L-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 13.43 EUR
 currency: EUR
 price: 13.43

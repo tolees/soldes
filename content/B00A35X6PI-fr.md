@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00A35X6PI-fr Sigma Objectif 35 mm F1 4 DG HSM ART - Monture Sigma'
 sku: 'B00A35X6PI-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 600.37 EUR
 currency: EUR
 price: 600.37

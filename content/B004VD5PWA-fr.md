@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004VD5PWA-fr Marie Brizard Curaçao Liqueur Triple Sec 700 ml'
 sku: 'B004VD5PWA-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 25.45 EUR
 currency: EUR
 price: 25.45

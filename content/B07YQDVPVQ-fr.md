@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YQDVPVQ-fr Kipling Heart Backpack Sac à Dos Enfants 24 cm 9 litres...'
 sku: 'B07YQDVPVQ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 37.3 EUR
 currency: EUR
 price: 37.3

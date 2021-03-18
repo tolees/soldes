@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T4KWECE-fr HAUPTSTADTKOFFER - X-Berg - Valise de Taille Moyenne...'
 sku: 'B00T4KWECE-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 64.4 EUR
 currency: EUR
 price: 64.4

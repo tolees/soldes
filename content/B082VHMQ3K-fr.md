@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VHMQ3K-fr ZD-O Wired Gaming Controller 6 Remappable Multi-Function...'
 sku: 'B082VHMQ3K-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

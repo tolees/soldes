@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GEGD334-fr Paco Home Tapis De Créateur Décorations Modernes Motif...'
 sku: 'B01GEGD334-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

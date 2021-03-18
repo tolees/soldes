@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N292SLQ-fr camel active 5-Pocket Houston Jean Droit Bleu Bleue/Black...'
 sku: 'B01N292SLQ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 45.66 EUR
 currency: EUR
 price: 45.66

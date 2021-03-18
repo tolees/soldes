@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OAFBJFQ-fr Stanley Xtht0-33501 Mesure Auto lock 8Mx32 - Ruban Large -...'
 sku: 'B00OAFBJFQ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 25.37 EUR
 currency: EUR
 price: 25.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GAK3PR4-fr ELTEN 78671-43 Rigger Boot Chaussures de sécurité ESD S3...'
 sku: 'B00GAK3PR4-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 60.52 EUR
 currency: EUR
 price: 60.52

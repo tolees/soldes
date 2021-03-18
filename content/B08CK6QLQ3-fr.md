@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CK6QLQ3-fr Disque Dur Externe 1to Disque Dur Externe pour PC Mac...'
 sku: 'B08CK6QLQ3-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

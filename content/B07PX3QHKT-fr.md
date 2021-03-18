@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PX3QHKT-fr Pop! Figurine en Vinyle: Harry Potter: Harry Potter -...'
 sku: 'B07PX3QHKT-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

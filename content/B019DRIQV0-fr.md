@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019DRIQV0-fr mountain buggy Poussette de Voyage Compacte 4 Roues Rouge'
 sku: 'B019DRIQV0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 164.45 EUR
 currency: EUR
 price: 164.45

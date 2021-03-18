@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771JPT1D-fr Eastpak Tranverz L Valise 79 cm 121 L Gris Sunday Grey'
 sku: 'B0771JPT1D-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0

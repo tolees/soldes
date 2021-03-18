@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F7G3YW4-fr Transmetteur FM Bluetooth 5.0 Adaptateur Radio Lecteur MP3...'
 sku: 'B08F7G3YW4-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

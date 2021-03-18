@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTMF0ZQ-fr Salewa MS Rapace Gore-TEX Chaussures de Trekking et...'
 sku: 'B01HTMF0ZQ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 123.77 EUR
 currency: EUR
 price: 123.77

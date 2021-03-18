@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D3VDW3V-fr Prodisac Forte ® | Haute concentration de Gingsen + Maca +...'
 sku: 'B08D3VDW3V-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

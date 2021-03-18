@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3B6NWR-fr Samsung EF-BT830PJEGWW Etui à Rabat pour Tablette Tab S4 Gris'
 sku: 'B07G3B6NWR-fr'
-tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Boîtes à outils','Bricolage','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Informatique','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kits','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Posters','Rangement des outils','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs','samsung', ]
+tags: [ 'Accessoires IT','Accessoires pour tablette tactile','Boîtes à outils','Bricolage','Coques et étuis pour tablette tactile','Coques, housses et sacoches pour tablette tactile','Informatique','Kits','Montres','Montres bracelet pour homme','Montres et accessoires','Montres homme','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Rangement des outils','samsung', ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

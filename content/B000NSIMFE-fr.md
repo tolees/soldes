@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000NSIMFE-fr Vans U Old Skool Basses Mixte adulte - Noir Black/White...'
 sku: 'B000NSIMFE-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 56.95 EUR
 currency: EUR
 price: 56.95

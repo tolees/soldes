@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CBSNB2-fr Triumph TRI-Action Fitness F Soutien-Gorge de Sport Blanc...'
 sku: 'B008CBSNB2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 14.06 EUR
 currency: EUR
 price: 14.06

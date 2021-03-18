@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CDL3BD2-fr VZATT Go Swing Ouvre-Boîte Topless Can Opener Ouvre-boîtes...'
 sku: 'B08CDL3BD2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 10.97 EUR
 currency: EUR
 price: 10.97

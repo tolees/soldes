@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BCQG4ZT-fr NEW C Lot de 3 Verre Trempé pour Samsung Galaxy S10 Lite...'
 sku: 'B08BCQG4ZT-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UJRSO52-fr Sony Objectif SEL-28F20 28mm Ouverture F2.0 pour Monture E'
 sku: 'B00UJRSO52-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 394.9 EUR
 currency: EUR
 price: 394.9

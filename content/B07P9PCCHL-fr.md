@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P9PCCHL-fr Silicon Power 1TB-NVMe-PCIe Gen3x4 M.2 2280 R/W jusqu à 3...'
 sku: 'B07P9PCCHL-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 134.99 EUR
 currency: EUR
 price: 134.99

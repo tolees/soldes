@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018NZW1PA-fr G.H. Bass & Co. Penny Mocassins Femme Multicolore Black &...'
 sku: 'B018NZW1PA-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 68.63 EUR
 currency: EUR
 price: 68.63

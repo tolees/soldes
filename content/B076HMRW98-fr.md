@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076HMRW98-fr adidas Core 18 Hoody Sweat-Shirt à Capuche Homme...'
 sku: 'B076HMRW98-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 27.9 EUR
 currency: EUR
 price: 27.9

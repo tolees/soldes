@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HMZKZ9K-fr Strong SRT 2023 Box Android TV 7.1 UHD 4K Google - Lecteur...'
 sku: 'B07HMZKZ9K-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

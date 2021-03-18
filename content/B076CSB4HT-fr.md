@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CSB4HT-fr Samsonite LAPTOP BACKPACK 17.3" EXP BLACK -SPECTROLITE 2.0...'
 sku: 'B076CSB4HT-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 126.75 EUR
 currency: EUR
 price: 126.75

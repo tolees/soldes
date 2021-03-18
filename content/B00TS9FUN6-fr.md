@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TS9FUN6-fr Samyang 50 mm / F 1.4 AS UMC Objectifs'
 sku: 'B00TS9FUN6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 289.04 EUR
 currency: EUR
 price: 289.04

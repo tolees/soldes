@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DFVYHMV-fr TV Box Android 10.0 2GB Ram 16GB ROM Allwinner H616 Quad-...'
 sku: 'B08DFVYHMV-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 37.98 EUR
 currency: EUR
 price: 37.98

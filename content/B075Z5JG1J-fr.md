@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075Z5JG1J-fr Vero Moda Vmhot Nine Hw DNM Pencil Skirt Mix Noos Jupe...'
 sku: 'B075Z5JG1J-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

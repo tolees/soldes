@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JXL1T3O-fr Safavieh Tapis Moderne Tissé Fibre de Viscose douce Tapis...'
 sku: 'B00JXL1T3O-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 98.89 EUR
 currency: EUR
 price: 98.89

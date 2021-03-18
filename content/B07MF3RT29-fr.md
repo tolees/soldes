@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MF3RT29-fr Hoover H-Free 700 HF722PTLG Aspirateur balai sans fil...'
 sku: 'B07MF3RT29-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

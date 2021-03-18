@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N2Q1N8R-fr Dsquared2 D Squared Brillengestelle DQ5137 045-49-20-145...'
 sku: 'B07N2Q1N8R-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 77.04 EUR
 currency: EUR
 price: 77.04

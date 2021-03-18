@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07X48WBHN-fr Ledger Backup Pack - Nano S + Nano X - Portefeuille de...'
 sku: 'B07X48WBHN-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 111.75 EUR
 currency: EUR
 price: 111.75

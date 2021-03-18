@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VW6F3MV-fr 【Nouvelle Version】 AIKELA Ecouteur Bluetooth sans Fil...'
 sku: 'B07VW6F3MV-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

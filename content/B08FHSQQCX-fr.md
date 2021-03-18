@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08FHSQQCX-fr USB Bluetooth Mini Adaptateur Dongle pour PC Windows 10 8...'
 sku: 'B08FHSQQCX-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01J8AO4L8-fr Casio G-SHOCK Homme Analogique-Digital Quartz Montre avec...'
 sku: 'B01J8AO4L8-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 56.5 EUR
 currency: EUR
 price: 56.5

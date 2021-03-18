@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005MX7I7S-fr Slendertone Short d électrostimulation femme Noir Taille...'
 sku: 'B005MX7I7S-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 136.0 EUR
 currency: EUR
 price: 136.0

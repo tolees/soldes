@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HS24MK-fr Braun Silk-épil 9 9/990 SkinSpa SensoSmart Épilateur...'
 sku: 'B078HS24MK-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 181.35 EUR
 currency: EUR
 price: 181.35

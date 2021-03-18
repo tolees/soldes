@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085NQPW7D-fr Original Dovpo Odin 200W Mod alimenté par une double...'
 sku: 'B085NQPW7D-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 40.78 EUR
 currency: EUR
 price: 40.78

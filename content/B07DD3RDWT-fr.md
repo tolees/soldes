@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD3RDWT-fr Pinypon Action- Famosa Lot de 5 Figurines 700014490...'
 sku: 'B07DD3RDWT-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 23.96 EUR
 currency: EUR
 price: 23.96

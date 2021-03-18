@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075NKVV5X-fr Rotary Montres Bracelet GB08300/01'
 sku: 'B075NKVV5X-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 100.47 EUR
 currency: EUR
 price: 100.47

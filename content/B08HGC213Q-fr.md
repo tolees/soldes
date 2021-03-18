@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HGC213Q-fr LK Coque pour Xiaomi Mi Note 10 / Mi Note 10 Pro avec [2 ×...'
 sku: 'B08HGC213Q-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

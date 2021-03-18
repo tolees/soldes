@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GD97AHI-fr Azzaro Item Bottes Chelsea homme Marron 43 EU'
 sku: 'B00GD97AHI-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

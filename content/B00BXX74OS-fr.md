@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00BXX74OS-fr Thomas 788568 Aspirateur filtre à eau Orange/Gris 1 8 L...'
 sku: 'B00BXX74OS-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 239.9 EUR
 currency: EUR
 price: 239.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015UYE8K8-fr Beurer TL 50 Lampe de luminothérapie - 10 000 Lux -...'
 sku: 'B015UYE8K8-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 71.99 EUR
 currency: EUR
 price: 71.99

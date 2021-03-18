@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01K4QOC6W-fr TomTom GPS Voiture GO 6200 - 6 Pouces Cartographie Monde...'
 sku: 'B01K4QOC6W-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 239.0 EUR
 currency: EUR
 price: 239.0

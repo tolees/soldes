@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004SGJS9G-fr Puma - Suede Classic+ - Baskets mode - Mixte Adulte -...'
 sku: 'B004SGJS9G-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

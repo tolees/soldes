@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076B2NG7K-fr Hugo Boss Homme Analogique Classique Quartz Montre avec...'
 sku: 'B076B2NG7K-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 199.2 EUR
 currency: EUR
 price: 199.2

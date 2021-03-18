@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UHUCETI-fr Wüsthof TR9867-2 Gourmet Bloc Couteaux 6 pièces'
 sku: 'B00UHUCETI-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 104.93 EUR
 currency: EUR
 price: 104.93

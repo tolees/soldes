@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829RDL4G-fr PITAYA Adaptateur Bluetooth 5.0 Émetteur et Récepteur...'
 sku: 'B0829RDL4G-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LBSUE1U-fr Rocksmith 2014 + Câble'
 sku: 'B00LBSUE1U-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

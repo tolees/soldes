@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00X95RSVM-fr Sauter Spi4362x - Plaque à Induction - Encastrable - 3...'
 sku: 'B00X95RSVM-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 294.0 EUR
 currency: EUR
 price: 294.0

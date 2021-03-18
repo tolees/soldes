@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AADHRP2-fr Nike - W NSW lggng Club logo2 - Collant pour femme -...'
 sku: 'B01AADHRP2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 18.74 EUR
 currency: EUR
 price: 18.74

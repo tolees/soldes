@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088GPWXZP-fr Upworld Kit de Slime Bricolage Kit de Fabrication de Slime...'
 sku: 'B088GPWXZP-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

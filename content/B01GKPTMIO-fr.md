@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GKPTMIO-fr Safavieh Tapis d inspiration Vintage Tissé Polypropylène...'
 sku: 'B01GKPTMIO-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 112.24 EUR
 currency: EUR
 price: 112.24

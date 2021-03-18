@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MU3CCPL-fr Kärcher 6.295-941.0 Nettoyant pour sols en bois 500ml pour...'
 sku: 'B01MU3CCPL-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 6.96 EUR
 currency: EUR
 price: 6.96

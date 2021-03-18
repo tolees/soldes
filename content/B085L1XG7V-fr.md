@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085L1XG7V-fr Casque de Sommeil -Anti Bruit Sommeil Bandeau Bluetooth...'
 sku: 'B085L1XG7V-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 19.79 EUR
 currency: EUR
 price: 19.79

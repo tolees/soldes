@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0143IINE4-fr Carte Mémoire SDXC SanDisk Ultra 64 Go jusqu à 48 Mo/s...'
 sku: 'B0143IINE4-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 14.79 EUR
 currency: EUR
 price: 14.79

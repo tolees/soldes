@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KSJF3MD-fr Samsung SSD interne 860 QVO 2.5’’ SATA 2 TERA - MZ-76Q2T0BW'
 sku: 'B07KSJF3MD-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 248.58 EUR
 currency: EUR
 price: 248.58

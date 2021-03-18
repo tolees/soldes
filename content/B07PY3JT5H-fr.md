@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PY3JT5H-fr HP 25MX Moniteur 62 23 cm 24 5" FHD 1 ms 1920 x 1080...'
 sku: 'B07PY3JT5H-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

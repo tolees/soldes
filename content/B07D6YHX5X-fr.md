@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D6YHX5X-fr PUMA ESS Logo Hoody TR Sweat-Shirts Femme Cotton Black M'
 sku: 'B07D6YHX5X-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

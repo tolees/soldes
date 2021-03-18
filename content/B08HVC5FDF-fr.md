@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HVC5FDF-fr XIFAN Coque pour Xiaomi Poco X3 NFC Nouveau Robuste Anneau...'
 sku: 'B08HVC5FDF-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

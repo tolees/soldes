@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008CBPCMU-fr sloggi Chic Maxi 4P Culotte Femme Lot de 4 Noir BLACK 0004...'
 sku: 'B008CBPCMU-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 36.76 EUR
 currency: EUR
 price: 36.76

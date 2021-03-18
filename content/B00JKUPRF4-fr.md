@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JKUPRF4-fr Nikon Objectif Zoom AF-S DX 18-300 mm f/3.5-6.3G ED VR'
 sku: 'B00JKUPRF4-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 569.99 EUR
 currency: EUR
 price: 569.99

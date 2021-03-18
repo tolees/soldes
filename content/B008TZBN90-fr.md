@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008TZBN90-fr Beurer TL 90 Lampe de luminothérapie | 10 000 lux |...'
 sku: 'B008TZBN90-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

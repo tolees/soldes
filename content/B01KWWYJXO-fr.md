@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KWWYJXO-fr Philips AC2887/10 Purificateur d air purifie jusqu à 79 m²...'
 sku: 'B01KWWYJXO-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 318.98 EUR
 currency: EUR
 price: 318.98

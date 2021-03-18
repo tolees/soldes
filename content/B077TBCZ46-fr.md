@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TBCZ46-fr Hauck Sport Poussette jusqu à 18 kg avec Position Couchée...'
 sku: 'B077TBCZ46-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 47.88 EUR
 currency: EUR
 price: 47.88

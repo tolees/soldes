@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TC41LKP-fr Cressi Apnea Wetsuit - Combinaisons de Plongée complètes...'
 sku: 'B07TC41LKP-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 154.63 EUR
 currency: EUR
 price: 154.63

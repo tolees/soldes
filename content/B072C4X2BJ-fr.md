@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072C4X2BJ-fr Di4 Jet Pressing – Centrale Vapeur Double système de...'
 sku: 'B072C4X2BJ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 67.61 EUR
 currency: EUR
 price: 67.61

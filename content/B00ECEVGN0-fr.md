@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ECEVGN0-fr Sandisk - SDCFXPS-128G-X46 - Carte Mémoire CompactFlash...'
 sku: 'B00ECEVGN0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 103.92 EUR
 currency: EUR
 price: 103.92

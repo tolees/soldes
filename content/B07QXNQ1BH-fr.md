@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QXNQ1BH-fr LBLA Sac de Sport Femmes Grande Capacité Gym Fitness Sac...'
 sku: 'B07QXNQ1BH-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

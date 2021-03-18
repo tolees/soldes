@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001C9T7KC-fr Hazet 1952-28 Massette en Plastique longueur 269 mm'
 sku: 'B001C9T7KC-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

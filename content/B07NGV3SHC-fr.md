@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGV3SHC-fr Derhy BISCOTTE Robe Or Or 11 44 Taille Fabricant:XL Femme'
 sku: 'B07NGV3SHC-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 39.52 EUR
 currency: EUR
 price: 39.52

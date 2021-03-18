@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003XFXK7Y-fr Lacoste - L1312 - Polo - Homme - Rouge Bordeaux - Large...'
 sku: 'B003XFXK7Y-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 84.61 EUR
 currency: EUR
 price: 84.61

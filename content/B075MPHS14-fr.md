@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075MPHS14-fr Belkin Chargeur à induction BOOST↑UP 7 5 W – Chargeur sans...'
 sku: 'B075MPHS14-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 33.89 EUR
 currency: EUR
 price: 33.89

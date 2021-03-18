@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZJ6GG7-fr Coolskins Cool008 Chapka Noir Negro 08 Taille Unique Mixte'
 sku: 'B07GZJ6GG7-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 128.52 EUR
 currency: EUR
 price: 128.52

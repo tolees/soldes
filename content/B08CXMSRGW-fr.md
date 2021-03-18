@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXMSRGW-fr Boules de Bain Bombe de Bain Cadeau Femme 8 Bombe de Bain...'
 sku: 'B08CXMSRGW-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 18.9 EUR
 currency: EUR
 price: 18.9

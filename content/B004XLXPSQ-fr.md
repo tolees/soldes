@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004XLXPSQ-fr Brunner Tonnelle Medusa 3x3 Bleu'
 sku: 'B004XLXPSQ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 106.59 EUR
 currency: EUR
 price: 106.59

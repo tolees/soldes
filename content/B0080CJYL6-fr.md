@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0080CJYL6-fr Gre CIPROV611 - Couverture d’hiver pour piscine ovale ou...'
 sku: 'B0080CJYL6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

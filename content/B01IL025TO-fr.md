@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IL025TO-fr Swiftpak 230 x 325 mm SelfSeal clair Poly enveloppes lot...'
 sku: 'B01IL025TO-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 27.52 EUR
 currency: EUR
 price: 27.52

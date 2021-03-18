@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N98LVFR-fr BOSS Wmarco Sweat-Shirt Bleu Dark Blue 404 Large Homme'
 sku: 'B07N98LVFR-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 113.11 EUR
 currency: EUR
 price: 113.11

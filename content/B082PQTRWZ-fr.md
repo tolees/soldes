@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PQTRWZ-fr Sword Art Online Alicization Lycoris Xbox One'
 sku: 'B082PQTRWZ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

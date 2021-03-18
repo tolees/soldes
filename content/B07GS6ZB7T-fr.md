@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GS6ZB7T-fr Logitech G502 HERO Souris Gamer Filaire Haute Performance...'
 sku: 'B07GS6ZB7T-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 56.31 EUR
 currency: EUR
 price: 56.31

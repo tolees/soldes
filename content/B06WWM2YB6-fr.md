@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06WWM2YB6-fr Ice-Watch - ICE lo White turquoise - Montre blanche pour...'
 sku: 'B06WWM2YB6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 49.5 EUR
 currency: EUR
 price: 49.5

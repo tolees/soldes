@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GPNB1LZ-fr Skechers Men s Moreno Trainers Beige Taupe TPE 6.5 UK 40 EU'
 sku: 'B07GPNB1LZ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

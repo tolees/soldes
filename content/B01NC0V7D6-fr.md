@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NC0V7D6-fr Russell Hobbs Toaster Grille-Pain Cuisson Rapide et...'
 sku: 'B01NC0V7D6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JP7R8K6-fr Pioneer Club 7 Enceinte de Bluetooth LED Éclarage Voice...'
 sku: 'B07JP7R8K6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 244.99 EUR
 currency: EUR
 price: 244.99

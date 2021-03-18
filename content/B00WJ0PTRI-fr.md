@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WJ0PTRI-fr Cerruti 1881 Hommes Analogique Quartz Montre avec Bracelet...'
 sku: 'B00WJ0PTRI-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 205.97 EUR
 currency: EUR
 price: 205.97

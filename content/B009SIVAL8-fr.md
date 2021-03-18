@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B009SIVAL8-fr Samsonite S Cure - Spinner S Bagage à Main 55 cm 34 L Blue...'
 sku: 'B009SIVAL8-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 105.0 EUR
 currency: EUR
 price: 105.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LPG0WRY-fr Braun FS5100WH Cuiseur Vapeur Electrique Blanc Neige 33 x...'
 sku: 'B00LPG0WRY-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

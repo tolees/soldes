@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00N2TYOXA-fr Raise The Dead / Masters of Madness Tour 2013 2 CD + Blu Ray'
 sku: 'B00N2TYOXA-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 11.94 EUR
 currency: EUR
 price: 11.94

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YN9TP7J-fr Tommy Hilfiger Watch 1782143'
 sku: 'B07YN9TP7J-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBT67WW-fr Pulsar Horloge PG8283X1'
 sku: 'B07GBT67WW-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 63.93 EUR
 currency: EUR
 price: 63.93

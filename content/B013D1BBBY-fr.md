@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013D1BBBY-fr Nikon AF-S Nikkor Objectif 24 mm f/1 8'
 sku: 'B013D1BBBY-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 594.0 EUR
 currency: EUR
 price: 594.0

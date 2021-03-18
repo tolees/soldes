@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082J3Z6JD-fr Britax Römer Poussette citadine | Naissance à 4 ans |...'
 sku: 'B082J3Z6JD-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 159.9 EUR
 currency: EUR
 price: 159.9

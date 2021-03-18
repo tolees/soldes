@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BPFKNNM-fr TP-Link Switch Ethernet Gigabit 8 Ports Web Manageable...'
 sku: 'B01BPFKNNM-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 62.63 EUR
 currency: EUR
 price: 62.63

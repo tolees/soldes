@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079SR8CRR-fr Pinypon - 700014086 - Enfants et Bébés Paquet de 6...'
 sku: 'B079SR8CRR-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

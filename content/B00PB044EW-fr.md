@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00PB044EW-fr BIC Cristal Fun Stylos-Bille Pointe Large 1 6 mm - Violet...'
 sku: 'B00PB044EW-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 7.97 EUR
 currency: EUR
 price: 7.97

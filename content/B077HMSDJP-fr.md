@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077HMSDJP-fr FM London Lot de 5 Boxer Hommes avec technologie de...'
 sku: 'B077HMSDJP-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

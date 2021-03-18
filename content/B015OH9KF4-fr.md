@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015OH9KF4-fr Filofax 115023 Carnet de note A4 avec feuille...'
 sku: 'B015OH9KF4-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 19.65 EUR
 currency: EUR
 price: 19.65

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QSBWR95-fr Funko- Pop Star Wars The Rise of Skywalker: BB-8 Figurine...'
 sku: 'B07QSBWR95-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 8.25 EUR
 currency: EUR
 price: 8.25

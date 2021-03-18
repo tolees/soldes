@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0851L9QTT-fr Creatures The World Forgot Violence et Sexe aux Temps...'
 sku: 'B0851L9QTT-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 18.5 EUR
 currency: EUR
 price: 18.5

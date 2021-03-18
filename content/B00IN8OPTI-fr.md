@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00IN8OPTI-fr Dsquared2 D Squared Brillengestelle DQ5122 071-55-16-140...'
 sku: 'B00IN8OPTI-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 77.21 EUR
 currency: EUR
 price: 77.21

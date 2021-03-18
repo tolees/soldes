@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KJ2TVQI-fr Nike Air Max Thea Chaussures de Running Femme Noir...'
 sku: 'B00KJ2TVQI-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 65.95 EUR
 currency: EUR
 price: 65.95

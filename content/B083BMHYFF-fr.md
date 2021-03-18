@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083BMHYFF-fr Machine à Café Filtre HOMEVER 1 5L Cafetiere Filtre Jusque...'
 sku: 'B083BMHYFF-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KUX4KWK-fr Reebok Deck'
 sku: 'B01KUX4KWK-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 121.17 EUR
 currency: EUR
 price: 121.17

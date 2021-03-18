@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076F9XB9C-fr Royal Bobbles - Bobble Head Michonne - The Walking Dead'
 sku: 'B076F9XB9C-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

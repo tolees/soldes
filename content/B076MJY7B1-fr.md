@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076MJY7B1-fr Fisher-Price Puppy Eveil Progressif jouet bébé peluche...'
 sku: 'B076MJY7B1-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 18.4 EUR
 currency: EUR
 price: 18.4

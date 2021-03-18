@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HTUCK8S-fr Hercules DJControl Instinct Party Pack Contrôleur DJ USB...'
 sku: 'B01HTUCK8S-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 77.51 EUR
 currency: EUR
 price: 77.51

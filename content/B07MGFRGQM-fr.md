@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MGFRGQM-fr Napapijri Skidoo WOM EF 2 Jacket Rose Pink Blush P79 XL Femme'
 sku: 'B07MGFRGQM-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 173.06 EUR
 currency: EUR
 price: 173.06

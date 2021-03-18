@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XFDH6MD-fr Huawei Watch GT 2 Montre Connectée GPS Boîtier 46 mm Écran...'
 sku: 'B07XFDH6MD-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 167.98 EUR
 currency: EUR
 price: 167.98

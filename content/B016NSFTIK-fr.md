@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016NSFTIK-fr Gitzo GT1545T - Trépied Traveler Série 1 à 4 Sections...'
 sku: 'B016NSFTIK-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 649.0 EUR
 currency: EUR
 price: 649.0

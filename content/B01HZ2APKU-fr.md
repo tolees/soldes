@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01HZ2APKU-fr Thrustmaster T-16000M FCS FLIGHT PACK joystick manette des...'
 sku: 'B01HZ2APKU-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 172.69 EUR
 currency: EUR
 price: 172.69

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008V8OUJK-fr GATOR Cases G-Tour pour pedalboard 17" x 11"'
 sku: 'B008V8OUJK-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 111.37 EUR
 currency: EUR
 price: 111.37

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0721Q7KGW-fr ATMOKO Masseur à Epaule et Cou avec Shiatsu 8 Nœuds...'
 sku: 'B0721Q7KGW-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

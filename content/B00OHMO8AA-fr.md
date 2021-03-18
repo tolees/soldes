@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00OHMO8AA-fr Somfy 2400556 - Récepteur Portail/Porte de Garage...'
 sku: 'B00OHMO8AA-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 91.57 EUR
 currency: EUR
 price: 91.57

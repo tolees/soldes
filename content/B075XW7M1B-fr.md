@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075XW7M1B-fr Ultimate Ears Megablast Enceinte sans Fil Portable...'
 sku: 'B075XW7M1B-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 195.12 EUR
 currency: EUR
 price: 195.12

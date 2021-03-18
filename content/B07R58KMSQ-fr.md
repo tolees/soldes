@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R58KMSQ-fr Super Mario Maker 2 - édition limitée'
 sku: 'B07R58KMSQ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 41.91 EUR
 currency: EUR
 price: 41.91

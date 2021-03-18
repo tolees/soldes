@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003DTL84C-fr Thule EuroRide 2 13-pin Porte-vélos sur boule d attelage...'
 sku: 'B003DTL84C-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 243.41 EUR
 currency: EUR
 price: 243.41

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0836ZVM7R-fr Difuzed The Legend of Zelda Snap Back Cap Link s Awakening...'
 sku: 'B0836ZVM7R-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 23.4 EUR
 currency: EUR
 price: 23.4

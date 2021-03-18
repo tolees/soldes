@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079TPJQDB-fr Monopoly Tricheurs - Jeu de societe - Jeu de plateau -...'
 sku: 'B079TPJQDB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

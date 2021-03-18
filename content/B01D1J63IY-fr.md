@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D1J63IY-fr Samsonite XBR Laptop Sac à Dos 17 3 Pouces Cartable 51 cm...'
 sku: 'B01D1J63IY-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 99.9 EUR
 currency: EUR
 price: 99.9

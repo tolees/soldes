@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013EBIJCM-fr Plateau pour Chaise Carrie Tumble Form S2 Junior'
 sku: 'B013EBIJCM-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 55.3 EUR
 currency: EUR
 price: 55.3

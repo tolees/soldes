@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00M7NEPDG-fr Fossil Femme Analogique Quartz Montre avec Bracelet en...'
 sku: 'B00M7NEPDG-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 125.3 EUR
 currency: EUR
 price: 125.3

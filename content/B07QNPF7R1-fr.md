@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QNPF7R1-fr Anesty- Affleureuse Défonceuse R0700 Trimmer Router 710 W...'
 sku: 'B07QNPF7R1-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 49.0 EUR
 currency: EUR
 price: 49.0

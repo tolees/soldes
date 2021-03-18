@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075DB49FN-fr Synology DS718+ 2 Bay Bureau Boîtier NAS'
 sku: 'B075DB49FN-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 359.99 EUR
 currency: EUR
 price: 359.99

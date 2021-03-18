@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001CFI9A0-fr DE BUYER -3125.16 -moule a charlotte inox 18/10s/couv.ø16'
 sku: 'B001CFI9A0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 23.61 EUR
 currency: EUR
 price: 23.61

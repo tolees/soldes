@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QM1KSB-fr GORE WEAR C5 Active Veste Femme Noir FR : S Taille...'
 sku: 'B075QM1KSB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 139.01 EUR
 currency: EUR
 price: 139.01

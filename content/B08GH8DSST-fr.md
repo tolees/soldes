@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GH8DSST-fr ARRYNN Coque pour Xiaomi Redmi Note 9 + Film Protection...'
 sku: 'B08GH8DSST-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 6.9 EUR
 currency: EUR
 price: 6.9

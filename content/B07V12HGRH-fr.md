@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V12HGRH-fr Asus VivoBook S S532FA-BQ064T PC Portable 15" FHD Intel...'
 sku: 'B07V12HGRH-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 759.0 EUR
 currency: EUR
 price: 759.0

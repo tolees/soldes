@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0043YJ0MI-fr APC Power-Saving Back-UPS PRO - BR900G-FR - Onduleur 900VA...'
 sku: 'B0043YJ0MI-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 235.95 EUR
 currency: EUR
 price: 235.95

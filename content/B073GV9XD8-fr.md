@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073GV9XD8-fr SONGMICS Lot de 2 Tabourets de Bar Stool avec Dossier...'
 sku: 'B073GV9XD8-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 55.4 EUR
 currency: EUR
 price: 55.4

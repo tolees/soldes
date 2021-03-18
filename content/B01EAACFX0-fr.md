@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EAACFX0-fr Miele 10408410 Boîte de Sac d Aspirateur - XXL pack - 16 +...'
 sku: 'B01EAACFX0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

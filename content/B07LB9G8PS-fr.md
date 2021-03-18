@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07LB9G8PS-fr Love Moschino Portafogli Quilted Nappa Pu Portefeuilles...'
 sku: 'B07LB9G8PS-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 93.71 EUR
 currency: EUR
 price: 93.71

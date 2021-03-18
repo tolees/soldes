@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07K91P5XC-fr Crocs Crocband II Kids Sandales Bride Cheville Mixte...'
 sku: 'B07K91P5XC-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

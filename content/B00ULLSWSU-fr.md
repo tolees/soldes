@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ULLSWSU-fr Sony Objectif G Macro SEL-90M28G Monture E Plein Format 90...'
 sku: 'B00ULLSWSU-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 909.0 EUR
 currency: EUR
 price: 909.0

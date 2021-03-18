@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HJ5C9FZ-fr Disque Dur Externe 2to USB3.0 SATA Stockage HDD Disque Dur...'
 sku: 'B08HJ5C9FZ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NT5KR6S-fr Extel – Visiophone Connect – avec Grand Écran 18cm et...'
 sku: 'B07NT5KR6S-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

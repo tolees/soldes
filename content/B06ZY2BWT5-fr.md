@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06ZY2BWT5-fr Tommy Hilfiger M2285Axwell 11C1 Baskets Basses Homme Gris...'
 sku: 'B06ZY2BWT5-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 56.0 EUR
 currency: EUR
 price: 56.0

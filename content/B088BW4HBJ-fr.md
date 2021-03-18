@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088BW4HBJ-fr Elyco 2 PCS Brassards de Contrôle pour Nintendo Switch...'
 sku: 'B088BW4HBJ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

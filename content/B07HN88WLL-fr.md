@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN88WLL-fr 8-Bit Armies - Limited Edition'
 sku: 'B07HN88WLL-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

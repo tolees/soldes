@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015P6ITQ0-fr Dell SE2216H Ecran de PC 22" Full HD LCD VA 60 Hz 12 ms'
 sku: 'B015P6ITQ0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

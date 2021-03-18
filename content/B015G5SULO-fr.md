@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015G5SULO-fr Tod s Tod’S Brillengestelle To5116 Lunettes de soleil Bleu...'
 sku: 'B015G5SULO-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 95.39 EUR
 currency: EUR
 price: 95.39

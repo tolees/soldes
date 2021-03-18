@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HP7ZZVP-fr Crucial Ballistix Sport LT BLS16G4D30BESB 3000 MHz DDR4...'
 sku: 'B07HP7ZZVP-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

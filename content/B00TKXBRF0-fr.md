@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00TKXBRF0-fr Klein - 9459 - Jeu d imitation - Cuisine en bois avec...'
 sku: 'B00TKXBRF0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

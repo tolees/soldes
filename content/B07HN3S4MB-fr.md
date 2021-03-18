@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HN3S4MB-fr Philips Hue Kit de démarrage 2 ampoules White Ambiance E14...'
 sku: 'B07HN3S4MB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 89.85 EUR
 currency: EUR
 price: 89.85

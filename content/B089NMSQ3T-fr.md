@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089NMSQ3T-fr bakibo Écouteurs sans Fil Bluetooth 5.1 Stéréo Sport...'
 sku: 'B089NMSQ3T-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

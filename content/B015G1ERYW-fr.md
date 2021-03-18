@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015G1ERYW-fr DSquared Dsquared2 Brille DQ5176 091 51 Lunettes de Soleil...'
 sku: 'B015G1ERYW-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 49.91 EUR
 currency: EUR
 price: 49.91

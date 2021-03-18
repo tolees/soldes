@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KFIOLNS-fr Songmics Chaise Gamer Fauteuil de Bureau Racing Sport avec...'
 sku: 'B01KFIOLNS-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 152.0 EUR
 currency: EUR
 price: 152.0

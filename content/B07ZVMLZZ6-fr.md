@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZVMLZZ6-fr FBSPORT Airtrack 20 cm Épaisseur Air Spot Gonflable 140 cm...'
 sku: 'B07ZVMLZZ6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 92.44 EUR
 currency: EUR
 price: 92.44

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073S3SW9R-fr Déshumidificateur Electrique Aidodo d air...'
 sku: 'B073S3SW9R-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

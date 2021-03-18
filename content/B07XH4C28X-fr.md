@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XH4C28X-fr POP! Marvel: Black Widow – Taskmaster w/ Shield'
 sku: 'B07XH4C28X-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 7.51 EUR
 currency: EUR
 price: 7.51

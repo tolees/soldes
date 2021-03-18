@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z4BV7LB-fr Comma 8t.002.85.1022 Combinaison Rosa Powder Rose 8022 42...'
 sku: 'B07Z4BV7LB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 74.28 EUR
 currency: EUR
 price: 74.28

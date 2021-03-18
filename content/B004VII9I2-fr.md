@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004VII9I2-fr Vilac - 1102 - Voiture de Course - Porteur Métal - Nacré -...'
 sku: 'B004VII9I2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 100.94 EUR
 currency: EUR
 price: 100.94

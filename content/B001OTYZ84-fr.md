@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001OTYZ84-fr Sorel Bottes d Hiver pour Hommes Caribou WL Marron foncé...'
 sku: 'B001OTYZ84-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 124.95 EUR
 currency: EUR
 price: 124.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY1ZL69-fr Schmidt Spiele - 56495 - Dinos Coffret de Puzzles 2x60...'
 sku: 'B01MY1ZL69-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 15.53 EUR
 currency: EUR
 price: 15.53

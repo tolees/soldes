@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DZP7SP7-fr jolidon – Prelude – Maillot de Bain Une Pièce 100%...'
 sku: 'B07DZP7SP7-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

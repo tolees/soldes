@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08C9MNPCY-fr ZIYOULANG Souris de jeu filaire 69G en nid d abeille...'
 sku: 'B08C9MNPCY-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 24.76 EUR
 currency: EUR
 price: 24.76

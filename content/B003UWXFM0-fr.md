@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003UWXFM0-fr TP-Link TL-SG1024D Switch 24 Ports Gigabit Bureau/Rackable...'
 sku: 'B003UWXFM0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 72.67 EUR
 currency: EUR
 price: 72.67

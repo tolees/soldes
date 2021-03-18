@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0781ZSSM2-fr MILLET Vector Grid JKT Polaire Alpinisme Homme'
 sku: 'B0781ZSSM2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 67.23 EUR
 currency: EUR
 price: 67.23

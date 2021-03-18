@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N27X5JM-fr Kaporal - Doudoune à Capuche Amovible Coupe Droite - Meter...'
 sku: 'B07N27X5JM-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

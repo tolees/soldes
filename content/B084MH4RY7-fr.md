@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084MH4RY7-fr ivencase Coque Xiaomi Redmi Note 9S Note 9 Pro Étui avec 4...'
 sku: 'B084MH4RY7-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 5.28 EUR
 currency: EUR
 price: 5.28

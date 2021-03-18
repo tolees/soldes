@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013SK0C6U-fr Manfrotto MM290A4 Monopode pour Appareil photo Noir'
 sku: 'B013SK0C6U-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 29.73 EUR
 currency: EUR
 price: 29.73

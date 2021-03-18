@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076SL4RPB-fr Yazilind plaqué Or Bracelet Mode Goutte d eau Jolie Zircon...'
 sku: 'B076SL4RPB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 2.32 EUR
 currency: EUR
 price: 2.32

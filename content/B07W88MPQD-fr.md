@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W88MPQD-fr Orfeld Aspirateur Balai Sans Fil 18000Pa 2 en 1 Aspirateur...'
 sku: 'B07W88MPQD-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

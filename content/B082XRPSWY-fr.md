@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082XRPSWY-fr Tiges de son mâles lisses et durables en silicone...'
 sku: 'B082XRPSWY-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

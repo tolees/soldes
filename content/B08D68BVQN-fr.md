@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D68BVQN-fr Disque Dur Externe 2 to USB 3.0 pour PC Mac MacBook Xbox...'
 sku: 'B08D68BVQN-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

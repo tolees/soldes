@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005F0XYH6-fr Dsquared2 D Squared Brillengestelle DQ5044 014-54-17-135...'
 sku: 'B005F0XYH6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 77.04 EUR
 currency: EUR
 price: 77.04

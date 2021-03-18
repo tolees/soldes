@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BJ1DPKR-fr Vidéoprojecteur WiFi Full HD 1080P WiMiUS 7200 Lumens...'
 sku: 'B08BJ1DPKR-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 288.66 EUR
 currency: EUR
 price: 288.66

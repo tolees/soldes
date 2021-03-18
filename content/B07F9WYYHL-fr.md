@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F9WYYHL-fr Le Tanneur Sophie Tsop1200 Femmes Noir Noir 6x21x15 cm W x...'
 sku: 'B07F9WYYHL-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 94.44 EUR
 currency: EUR
 price: 94.44

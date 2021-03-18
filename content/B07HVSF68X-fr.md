@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HVSF68X-fr YUCUN Disque Flash 240 Go SSD M.2 2280 PCIe Express...'
 sku: 'B07HVSF68X-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

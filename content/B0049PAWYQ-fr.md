@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0049PAWYQ-fr Gardena Pompe d arrosage de Surface 4000/5 Comfort : Pompe...'
 sku: 'B0049PAWYQ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 100.11 EUR
 currency: EUR
 price: 100.11

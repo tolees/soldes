@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004KEPYD0-fr Rosendahl - 43261 - Montre Femme - Quartz - Analogique -...'
 sku: 'B004KEPYD0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 63.35 EUR
 currency: EUR
 price: 63.35

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AXLWP3A-fr Philips S3510/08 Rasoir électique Series 3000 rechargeable...'
 sku: 'B01AXLWP3A-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

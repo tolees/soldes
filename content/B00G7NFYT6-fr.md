@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00G7NFYT6-fr Star 898-43 Décoration pour le Mur 16 Lumières Bois Vert'
 sku: 'B00G7NFYT6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 64.09 EUR
 currency: EUR
 price: 64.09

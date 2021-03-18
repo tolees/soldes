@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H8FFBG3-fr Deda Elementi SUPERZERO Alloy Aero Handlebar 31 7 46 cm...'
 sku: 'B07H8FFBG3-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 57.08 EUR
 currency: EUR
 price: 57.08

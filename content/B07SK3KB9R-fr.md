@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SK3KB9R-fr Corsair HS35 Casque de Gaming Stéréo Écouteurs Néodyme de...'
 sku: 'B07SK3KB9R-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 39.25 EUR
 currency: EUR
 price: 39.25

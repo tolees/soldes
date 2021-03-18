@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ZMTKY6-fr Masseur Personnel p-l-Ṻ-g ḁ-n-ḁ-le fémmḔ dḔbṺtànt ÇṌffrḔt...'
 sku: 'B089ZMTKY6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

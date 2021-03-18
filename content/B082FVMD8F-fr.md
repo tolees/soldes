@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FVMD8F-fr Gardena 15005-47 SILENO city 300 Robot tondeuse Gris...'
 sku: 'B082FVMD8F-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 584.1 EUR
 currency: EUR
 price: 584.1

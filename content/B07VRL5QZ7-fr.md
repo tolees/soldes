@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VRL5QZ7-fr Batterie Externe Solaire 26800mAh IPX6 Chargeur Solaire 3...'
 sku: 'B07VRL5QZ7-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

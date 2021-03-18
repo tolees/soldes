@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008P6XOJ0-fr Tefal EF351412 Appareil à Fondue Simply Invents 8 personnes'
 sku: 'B008P6XOJ0-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

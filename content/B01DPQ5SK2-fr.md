@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DPQ5SK2-fr Bionaire - BSF002 - ventilateur de bureau - modèle à...'
 sku: 'B01DPQ5SK2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 39.17 EUR
 currency: EUR
 price: 39.17

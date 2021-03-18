@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0043RSYKE-fr Staub 1103425 Cocotte Ronde Noir Mat 34 cm'
 sku: 'B0043RSYKE-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 300.04 EUR
 currency: EUR
 price: 300.04

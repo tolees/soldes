@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QYWD718-fr Sony WI-C200 Ecouteurs intra-auriculaires sans fil type...'
 sku: 'B07QYWD718-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 21.9 EUR
 currency: EUR
 price: 21.9

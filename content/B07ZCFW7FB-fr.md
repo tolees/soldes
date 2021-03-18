@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCFW7FB-fr YUCUN SSD 480 Go 2 5 Pouces SATA III Disque Flash SSD...'
 sku: 'B07ZCFW7FB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 44.32 EUR
 currency: EUR
 price: 44.32

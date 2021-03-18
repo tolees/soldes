@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01IL03N0E-fr Swiftpak Pro-loc 305 x 406 mm Heavy Duty Uni refermable...'
 sku: 'B01IL03N0E-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 8.64 EUR
 currency: EUR
 price: 8.64

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0861CV1GZ-fr Muzili Écouteurs Bluetooth sans Fil Sport Étanches IPX7...'
 sku: 'B0861CV1GZ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

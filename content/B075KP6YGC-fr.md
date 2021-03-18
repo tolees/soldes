@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075KP6YGC-fr Sophie la Girafe- tuyaux Folies 523425'
 sku: 'B075KP6YGC-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

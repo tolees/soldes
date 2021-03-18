@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07P5GJQRJ-fr Guess Vikky Cabas femme Argenté Pewter 15x27x32 5 cm W x H L'
 sku: 'B07P5GJQRJ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

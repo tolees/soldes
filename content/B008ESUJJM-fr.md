@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ESUJJM-fr SAM Outillage CTF-44 Coffret de tarauds filières et forets...'
 sku: 'B008ESUJJM-fr'
-tags: [ 'Boîtes à outils','Bricolage','Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Kits','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Posters','Rangement des outils','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs','sam outillage', ]
+tags: [ 'Boîtes à outils','Bricolage','Kits','Outillage à main','Outillage à main et électroportatif','Outils de filetage','Rangement des outils','sam outillage', ]
 actualPrice: 376.99 EUR
 currency: EUR
 price: 376.99
@@ -28,10 +28,10 @@ Vous avez [SAM Outillage CTF-44 Coffret de tarauds filières et forets 44 pièce
 
 ℹ️:
 
+- Coffret métallique.
 - 7 filières avec cage : m3 - 4 - 5 - 6 - 8 - 10 - 12.
 - 2 tourne à gauche, 5 porte filières, 7 forets, 1 tournevis, 1 jauge à filet
-- Utilisation manuelle.
 - 7 jeux de 3 tarauds (ébauche, 1/2 finition, finition) : m3 - 4 - 5 - 6 - 8 - 10 - 12.
-- Coffret métallique.
+- Utilisation manuelle.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008ESUJJM/?tag=tolees0d-21)

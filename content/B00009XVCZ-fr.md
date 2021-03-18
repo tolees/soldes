@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00009XVCZ-fr Canon Objectif EF-50mm F/1 4 USM'
 sku: 'B00009XVCZ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 358.49 EUR
 currency: EUR
 price: 358.49

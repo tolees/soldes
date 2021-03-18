@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W2B4XY4-fr Jabra BIZ™ 2400 II Duo NOUVELLE GENERATION - Type: 72 UNC...'
 sku: 'B00W2B4XY4-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 190.48 EUR
 currency: EUR
 price: 190.48

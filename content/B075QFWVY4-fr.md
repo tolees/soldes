@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075QFWVY4-fr Manette Révolution Pro Controller 2 Nacon pour PS4'
 sku: 'B075QFWVY4-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

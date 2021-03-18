@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071N9PJMW-fr Louis Villiers Mixte Adulte Analogique Quartz Montre avec...'
 sku: 'B071N9PJMW-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 65.56 EUR
 currency: EUR
 price: 65.56

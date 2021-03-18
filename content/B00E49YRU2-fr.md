@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E49YRU2-fr Bosch L5013 Batterie décharge lente 12V 90Ah 800A -...'
 sku: 'B00E49YRU2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 130.46 EUR
 currency: EUR
 price: 130.46

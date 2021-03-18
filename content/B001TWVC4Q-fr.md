@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001TWVC4Q-fr Makita UH 5570 Taille-haies'
 sku: 'B001TWVC4Q-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 95.94 EUR
 currency: EUR
 price: 95.94

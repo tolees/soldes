@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004Q9UEHA-fr Philip Watch - R8253107765 - Montre Femme - Quartz -...'
 sku: 'B004Q9UEHA-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 337.59 EUR
 currency: EUR
 price: 337.59

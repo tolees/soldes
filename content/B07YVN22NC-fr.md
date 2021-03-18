@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YVN22NC-fr Philips Hue White & Color Ambiance Spot Fugato x2 Noir...'
 sku: 'B07YVN22NC-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

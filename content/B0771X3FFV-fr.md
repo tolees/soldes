@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0771X3FFV-fr Columbia XO0662 Short Homme Grill FR : 2XL Taille...'
 sku: 'B0771X3FFV-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 37.82 EUR
 currency: EUR
 price: 37.82

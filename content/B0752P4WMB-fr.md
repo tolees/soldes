@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0752P4WMB-fr Saint Honoré Femme Analogique Quartz Montre avec Bracelet...'
 sku: 'B0752P4WMB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 171.36 EUR
 currency: EUR
 price: 171.36

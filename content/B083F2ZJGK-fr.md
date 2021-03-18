@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083F2ZJGK-fr US-TRONIC CONVERTISSEUR Pur Sinus 12V 220V - 1000 Watts +...'
 sku: 'B083F2ZJGK-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 199.9 EUR
 currency: EUR
 price: 199.9

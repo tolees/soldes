@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084V89DMC-fr Écouteurs sans Fil véritables GT1 Bluetooth 5.0 Sports HD...'
 sku: 'B084V89DMC-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 19.29 EUR
 currency: EUR
 price: 19.29

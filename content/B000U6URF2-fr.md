@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000U6URF2-fr Clarks Funny Dream Derbys Femme Noir Black Leather 38 EU'
 sku: 'B000U6URF2-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

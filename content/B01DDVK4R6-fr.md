@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01DDVK4R6-fr Coussin à Mémoire de Forme GIANFAR | Oreiller Cervical...'
 sku: 'B01DDVK4R6-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 69.95 EUR
 currency: EUR
 price: 69.95

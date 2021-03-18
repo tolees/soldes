@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00UT9FOJE-fr Better Call Saul-Saison 1 [Blu-Ray + Copie Digitale]'
 sku: 'B00UT9FOJE-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

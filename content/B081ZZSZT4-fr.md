@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081ZZSZT4-fr Vidéoprojecteur WiMiUS 7000 Lumens Vidéoprojecteur Full HD...'
 sku: 'B081ZZSZT4-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 199.05 EUR
 currency: EUR
 price: 199.05

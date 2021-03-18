@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R7N3RGJ-fr YUCUN 2 5 Pouces SATA III Disque Flash 1To SSD 1TB Interne...'
 sku: 'B07R7N3RGJ-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 85.59 EUR
 currency: EUR
 price: 85.59

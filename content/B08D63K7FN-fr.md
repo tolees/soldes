@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08D63K7FN-fr Disque Dur Externe 2 to Disque Dur Externe Portable pour...'
 sku: 'B08D63K7FN-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 63.99 EUR
 currency: EUR
 price: 63.99

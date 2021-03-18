@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W1UIP7C-fr Bikers Gear UK Veste de Moto Couleur Black & Oxblood en...'
 sku: 'B00W1UIP7C-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 67.63 EUR
 currency: EUR
 price: 67.63

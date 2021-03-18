@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GG2VNW9-fr SteelSeries Arctis 5 - Casque de Jeu à Éclairage RVB - Son...'
 sku: 'B07GG2VNW9-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

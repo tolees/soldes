@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XFBLNMT-fr Seb Clipsominut Easy Cocotte-Minute 6 L Induction + Livre...'
 sku: 'B06XFBLNMT-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 80.47 EUR
 currency: EUR
 price: 80.47

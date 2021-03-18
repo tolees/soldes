@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089Y5R2ZB-fr SAWAKE Mandoline Cuisine Multifonctions 6 en 1 Trancheuse...'
 sku: 'B089Y5R2ZB-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MR397OH-fr BONTEC Support Ecran PC Double Support Moniteur 2...'
 sku: 'B01MR397OH-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

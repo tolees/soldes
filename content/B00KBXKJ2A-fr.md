@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00KBXKJ2A-fr EDISION HDMI MODULATOR single DVB-T Full HD MPEG4 RF-IN...'
 sku: 'B00KBXKJ2A-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 92.39 EUR
 currency: EUR
 price: 92.39

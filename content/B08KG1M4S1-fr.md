@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KG1M4S1-fr TENGER Technic Excavatrice Blocs de Construction 2.4Ghz...'
 sku: 'B08KG1M4S1-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

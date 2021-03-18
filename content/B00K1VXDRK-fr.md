@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00K1VXDRK-fr Montre Femme - Calvin Klein K4U23126'
 sku: 'B00K1VXDRK-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 100.07 EUR
 currency: EUR
 price: 100.07

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DP3STGG-fr AutoStyle IA 78040 Ressorts d abaissement pour'
 sku: 'B00DP3STGG-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 106.56 EUR
 currency: EUR
 price: 106.56

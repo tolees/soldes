@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KKJHLFC-fr KRONENKRAFT Set d ustensiles de Cuisine en Acier...'
 sku: 'B07KKJHLFC-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 45.95 EUR
 currency: EUR
 price: 45.95

@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6BTT27-fr Rowenta VU6620F0 Ventilateur Colonne sur Pied Eole...'
 sku: 'B06X6BTT27-fr'
-tags: [ 'Cuisine et Maison','Ensembles de géométrie','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs', ]
+tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99
