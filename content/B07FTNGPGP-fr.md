@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FTNGPGP-fr Mallette à Outils POPOMAN Caisse Outils Complète Coffre à...'
 sku: 'B07FTNGPGP-fr'
-tags: [  ]
 actualPrice: 33.03 EUR
 currency: EUR
 price: 33.03

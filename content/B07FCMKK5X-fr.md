@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCMKK5X-fr Carte Mémoire MicroSDXC SanDisk Extreme 128 Go +...'
 sku: 'B07FCMKK5X-fr'
-tags: [  ]
 actualPrice: 20.48 EUR
 currency: EUR
 price: 20.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B42N6RG-fr Sony SRS-XB33 | Enceinte Portable EXTRA BASS Bluetooth...'
 sku: 'B08B42N6RG-fr'
-tags: [  ]
 actualPrice: 121.0 EUR
 currency: EUR
 price: 121.0

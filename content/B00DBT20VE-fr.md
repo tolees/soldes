@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DBT20VE-fr Zodiac Jeu de 6 Sections de Tuyaux Twist Lock 6 x 1m pour...'
 sku: 'B00DBT20VE-fr'
-tags: [  ]
 actualPrice: 98.5 EUR
 currency: EUR
 price: 98.5

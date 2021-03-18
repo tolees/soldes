@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X91CF2Q-fr Warner Bros Games - Lego City: Undercover'
 sku: 'B06X91CF2Q-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

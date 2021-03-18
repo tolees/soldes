@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085FKWWZS-fr Pixar - en Avant'
 sku: 'B085FKWWZS-fr'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

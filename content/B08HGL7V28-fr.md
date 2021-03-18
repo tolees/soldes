@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HGL7V28-fr GizmoVine Jeux de Bain Jouet de Bain 2 Dinosaures+5...'
 sku: 'B08HGL7V28-fr'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

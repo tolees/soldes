@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P2RF7DK-fr OKP - Aspirateur Robot 2100Pa Robot Aspirateur 7.6cm Mince...'
 sku: 'B08P2RF7DK-fr'
-tags: [  ]
 actualPrice: 154.99 EUR
 currency: EUR
 price: 154.99

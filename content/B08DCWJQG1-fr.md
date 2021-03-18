@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCWJQG1-fr iClever Clavier Souris sans Fil Combinés Clavier de 2 4G...'
 sku: 'B08DCWJQG1-fr'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

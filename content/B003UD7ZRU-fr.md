@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B003UD7ZRU-fr Tefal GC205012 Minute Grill'
 sku: 'B003UD7ZRU-fr'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

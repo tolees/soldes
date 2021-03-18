@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0874BF8YK-fr Manettes Switch Manette pour Nintendo Switch Manette...'
 sku: 'B0874BF8YK-fr'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CFI25CQ-fr Klein - 5293 - Coiffure - Mallette coiffure avec sèche-...'
 sku: 'B00CFI25CQ-fr'
-tags: [  ]
 actualPrice: 16.1 EUR
 currency: EUR
 price: 16.1

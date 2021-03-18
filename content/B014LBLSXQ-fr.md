@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014LBLSXQ-fr RICOO S5244 Support Murale TV Orientable Inclinable...'
 sku: 'B014LBLSXQ-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

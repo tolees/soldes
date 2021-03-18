@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08N2XCHCC-fr Warner Home Video - Tenet [4K Ultra HD Blu-Ray Bonus-...'
 sku: 'B08N2XCHCC-fr'
-tags: [ 'Action et aventure','Blu-ray','Films','Science-fiction','warner home video', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

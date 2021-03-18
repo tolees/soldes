@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B4POC3A-fr Gillette Fusion 5 Proglide Rasoir Homme + 10 Lames de...'
 sku: 'B01B4POC3A-fr'
-tags: [  ]
 actualPrice: 25.18 EUR
 currency: EUR
 price: 25.18

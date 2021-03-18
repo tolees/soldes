@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015HK3TG4-fr SweetLisS - Lisseur Libellule - Fer à lisser et à boucler...'
 sku: 'B015HK3TG4-fr'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

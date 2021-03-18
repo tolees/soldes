@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QVM72V4-fr Gosund Prise Connectée Intelligente Wi-Fi Mini Prise...'
 sku: 'B08QVM72V4-fr'
-tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

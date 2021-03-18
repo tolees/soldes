@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZVWB4L-fr Amazon - Découvrez Fire TV Stick Lite avec télécommande...'
 sku: 'B07ZZVWB4L-fr'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

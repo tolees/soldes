@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G1S32RP-fr Moulinex Prep Mix Batteur Electrique 5 Vitesses 2 Fouets 2...'
 sku: 'B08G1S32RP-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

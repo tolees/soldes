@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HI3KRUA-fr PATHE - Le Jouet'
 sku: 'B00HI3KRUA-fr'
-tags: [  ]
 actualPrice: 7.93 EUR
 currency: EUR
 price: 7.93

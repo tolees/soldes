@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072BTLDRL-fr Facom DL.20BTI Crics Bouteilles Série Intensive Gris 20T'
 sku: 'B072BTLDRL-fr'
-tags: [  ]
 actualPrice: 156.95 EUR
 currency: EUR
 price: 156.95

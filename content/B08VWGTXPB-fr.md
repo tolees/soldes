@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWGTXPB-fr PlayVital Support d affichage blanc pour manette de...'
 sku: 'B08VWGTXPB-fr'
-tags: [  ]
 actualPrice: 16.74 EUR
 currency: EUR
 price: 16.74

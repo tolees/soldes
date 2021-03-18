@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R5NSN73-fr Bandai Namco Entertainment - Cyberpunk 2077 Edition D1 PS4'
 sku: 'B07R5NSN73-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

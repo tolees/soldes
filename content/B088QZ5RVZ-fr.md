@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088QZ5RVZ-fr Jambon Serrano Espagnol Réserve Duroc + Support à Jambon +...'
 sku: 'B088QZ5RVZ-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LB8RP91-fr eXtremeRate PlayVital Kit de Coque pour Nintendo Switch...'
 sku: 'B08LB8RP91-fr'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

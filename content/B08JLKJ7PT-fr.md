@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JLKJ7PT-fr U&I Entertainment - Godfall PS5'
 sku: 'B08JLKJ7PT-fr'
-tags: [ 'u&i entertainment', ]
 actualPrice: 49.49 EUR
 currency: EUR
 price: 49.49

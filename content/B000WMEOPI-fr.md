@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000WMEOPI-fr Pandora - 59702-20HV - Bracelet Femme - Argent 925/1000 -...'
 sku: 'B000WMEOPI-fr'
-tags: [  ]
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

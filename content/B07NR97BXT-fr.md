@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NR97BXT-fr LLOYD Villod Gore-tex Bottes & Bottines Classiques Homme...'
 sku: 'B07NR97BXT-fr'
-tags: [  ]
 actualPrice: 152.51 EUR
 currency: EUR
 price: 152.51

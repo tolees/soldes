@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QNRH3NY-fr G-Technology ArmorATD 4 To: Disque dur externe robuste...'
 sku: 'B07QNRH3NY-fr'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

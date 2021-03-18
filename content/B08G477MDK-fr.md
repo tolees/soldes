@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G477MDK-fr LEGO 11014 Classic Briques et Roues Premier Jeu de...'
 sku: 'B08G477MDK-fr'
-tags: [  ]
 actualPrice: 30.61 EUR
 currency: EUR
 price: 30.61

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GX5VZWM-fr meross - Multiprise Connectée HomeKit Multiprise...'
 sku: 'B08GX5VZWM-fr'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

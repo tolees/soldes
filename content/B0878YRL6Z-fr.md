@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0878YRL6Z-fr BRIKSMAX Kit de LED pour Lego Architecture Dubai...'
 sku: 'B0878YRL6Z-fr'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

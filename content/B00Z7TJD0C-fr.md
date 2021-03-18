@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00Z7TJD0C-fr OtterBox Strada Etui Folio en Cuir véritable Anti Choc...'
 sku: 'B00Z7TJD0C-fr'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

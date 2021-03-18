@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T7DWRL7-fr NEV-G Bougie Parfumée Naturelle Bio Original Parfum...'
 sku: 'B08T7DWRL7-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

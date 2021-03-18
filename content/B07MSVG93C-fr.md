@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSVG93C-fr Liu Jo Shoes Karlie 14 Sneaker Bordeaux Sneakers Basses...'
 sku: 'B07MSVG93C-fr'
-tags: [  ]
 actualPrice: 90.5 EUR
 currency: EUR
 price: 90.5

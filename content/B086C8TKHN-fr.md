@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086C8TKHN-fr Somfy 1870646 - Télécommande pour stores vénitiens et...'
 sku: 'B086C8TKHN-fr'
-tags: [  ]
 actualPrice: 90.52 EUR
 currency: EUR
 price: 90.52

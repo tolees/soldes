@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KVVC9KP-fr Playmobil - Volkswagen Coccinelle'
 sku: 'B08KVVC9KP-fr'
-tags: [ 'Coffrets de figurines pour enfants','Véhicules à moteur pour figurines','playmobil', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

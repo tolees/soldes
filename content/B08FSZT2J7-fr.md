@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FSZT2J7-fr Crucial CT1000X6SSD9 X6 1To Portable SSD – Jusqu’à 540Mo/s...'
 sku: 'B08FSZT2J7-fr'
-tags: [  ]
 actualPrice: 86.99 EUR
 currency: EUR
 price: 86.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QVFBGZ9-fr ELYCO Manette pour PS4 sans Fil Gamepad Joypad Joystick...'
 sku: 'B08QVFBGZ9-fr'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

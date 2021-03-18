@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMTW4H-fr LEGO City - L arrestation en parachute - 60208 - Jeu de...'
 sku: 'B07FNMTW4H-fr'
-tags: [  ]
 actualPrice: 19.69 EUR
 currency: EUR
 price: 19.69

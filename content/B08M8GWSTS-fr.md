@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M8GWSTS-fr Captain America : The First Avenger [4K Ultra HD + Blu-...'
 sku: 'B08M8GWSTS-fr'
-tags: [  ]
 actualPrice: 24.96 EUR
 currency: EUR
 price: 24.96

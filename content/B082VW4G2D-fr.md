@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082VW4G2D-fr Star Wars 9 : L Ascension de Skywalker [Blu-Ray]'
 sku: 'B082VW4G2D-fr'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

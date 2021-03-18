@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KXF3JZJ-fr Milestone - Ride 4 PS5'
 sku: 'B08KXF3JZJ-fr'
-tags: [  ]
 actualPrice: 37.35 EUR
 currency: EUR
 price: 37.35

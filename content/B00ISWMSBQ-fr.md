@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ISWMSBQ-fr Fossil Femme Collier JF01146040'
 sku: 'B00ISWMSBQ-fr'
-tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

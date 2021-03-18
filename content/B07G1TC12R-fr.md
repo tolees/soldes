@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G1TC12R-fr HUION Kamvas Pro 13 Tablette Graphique avec écran Moniteur...'
 sku: 'B07G1TC12R-fr'
-tags: [  ]
 actualPrice: 274.98 EUR
 currency: EUR
 price: 274.98

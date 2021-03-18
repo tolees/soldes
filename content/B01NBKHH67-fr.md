@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NBKHH67-fr Souarts Ensemble Coffret Cadeau Montre pour Homme Style 7'
 sku: 'B01NBKHH67-fr'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

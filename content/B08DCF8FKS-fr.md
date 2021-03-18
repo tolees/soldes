@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DCF8FKS-fr Bluetooth Headset 5.0 écouteurs sans Fil Bluetooth 3D...'
 sku: 'B08DCF8FKS-fr'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

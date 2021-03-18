@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ESX5KL4-fr WENKO Égouttoir pour vaisselle Premium Duo Métal chromé 52...'
 sku: 'B00ESX5KL4-fr'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

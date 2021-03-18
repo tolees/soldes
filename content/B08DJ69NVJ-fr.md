@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ69NVJ-fr Écouteurs Bluetooth 5 sans Fil Stéréo Oreillettes BCMASTER...'
 sku: 'B08DJ69NVJ-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

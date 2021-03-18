@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2G1XPH-fr Western Digital - WD My Passport SSD 1 To - Disque SSD...'
 sku: 'B08F2G1XPH-fr'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

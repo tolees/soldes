@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6BLT58-fr 32BC5E - Téléviseur SHARP 32 HD Ready Smart'
 sku: 'B07V6BLT58-fr'
-tags: [ 'Téléviseurs','sharp', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

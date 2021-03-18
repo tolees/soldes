@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00E4R4RF4-fr Piquadro Sac à dos loisir Marron - CA2943OS'
 sku: 'B00E4R4RF4-fr'
-tags: [  ]
 actualPrice: 133.65 EUR
 currency: EUR
 price: 133.65

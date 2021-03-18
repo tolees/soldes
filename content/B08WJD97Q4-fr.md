@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WJD97Q4-fr #N/A 4 pièce Vie Cycle Chiffres Plantes en Plastique...'
 sku: 'B08WJD97Q4-fr'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

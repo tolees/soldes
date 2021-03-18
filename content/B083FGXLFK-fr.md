@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083FGXLFK-fr Lacoste Sport Polo Homme DH2881 Blanc/Blanc L'
 sku: 'B083FGXLFK-fr'
-tags: [  ]
 actualPrice: 53.65 EUR
 currency: EUR
 price: 53.65

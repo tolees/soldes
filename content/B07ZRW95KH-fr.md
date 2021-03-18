@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZRW95KH-fr BODUOISS - TV Box Android 10.0 4Go RAM 64Go ROM H616 Quad...'
 sku: 'B07ZRW95KH-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

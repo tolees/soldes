@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VDNVYW7-fr SNAPTAIN SP600 Drone avec Caméra 720P HD et 30 Mins...'
 sku: 'B07VDNVYW7-fr'
-tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

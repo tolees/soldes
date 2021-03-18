@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FT9BLQX-fr NETGEAR Système WiFi 6 Mesh Bi-Bandes Orbi RBK353 Routeur...'
 sku: 'B08FT9BLQX-fr'
-tags: [  ]
 actualPrice: 299.99 EUR
 currency: EUR
 price: 299.99

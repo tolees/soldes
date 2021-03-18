@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PGZP8HE-fr Lego Creator Expert - 10220-Le Camping Car Volkswagen T1'
 sku: 'B00PGZP8HE-fr'
-tags: [  ]
 actualPrice: 166.3 EUR
 currency: EUR
 price: 166.3

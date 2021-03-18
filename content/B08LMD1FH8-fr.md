@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LMD1FH8-fr GOBRAN - Répéteur WiFi Amplificateur WiFi 1200Mbps Double...'
 sku: 'B08LMD1FH8-fr'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N18JWGC-fr Teenii STEM Science Laboratoire de Physique Circuits de...'
 sku: 'B07N18JWGC-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RB1F8SD-fr Bandai Namco Entertainment - Cyberpunk 2077 Edition...'
 sku: 'B07RB1F8SD-fr'
-tags: [ 'bandai namco entertainment', ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0821XHJB6-fr Animal Crossing : New Horizons pour Nintendo Switch'
 sku: 'B0821XHJB6-fr'
-tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

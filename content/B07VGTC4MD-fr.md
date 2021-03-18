@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGTC4MD-fr Oral-B Genius Édition Limitée Brosse À Dents Électrique Or...'
 sku: 'B07VGTC4MD-fr'
-tags: [  ]
 actualPrice: 113.2 EUR
 currency: EUR
 price: 113.2

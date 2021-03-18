@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M309APL-fr Pentel EnerGel XM BL77 – Lot de 12 stylos à encre gel...'
 sku: 'B01M309APL-fr'
-tags: [ 'Stylos à bille à encre gel','pentel', ]
 actualPrice: 18.54 EUR
 currency: EUR
 price: 18.54

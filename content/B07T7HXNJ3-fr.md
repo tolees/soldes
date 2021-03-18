@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T7HXNJ3-fr LINDY Switch de Présentation Pro avec Extender HDBaseT'
 sku: 'B07T7HXNJ3-fr'
-tags: [  ]
 actualPrice: 1010.39 EUR
 currency: EUR
 price: 1010.39

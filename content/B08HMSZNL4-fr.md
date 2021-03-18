@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HMSZNL4-fr Charlemain - Ustensiles de Cuisine en Silicone 35pcs...'
 sku: 'B08HMSZNL4-fr'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

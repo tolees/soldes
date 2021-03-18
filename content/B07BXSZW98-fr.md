@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BXSZW98-fr Philips Lighting - Philips Hue White TURACO Potelet 1 X 9...'
 sku: 'B07BXSZW98-fr'
-tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

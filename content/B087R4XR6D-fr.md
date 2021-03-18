@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087R4XR6D-fr Columbia Altitude Aspect Veste Polaire Homme Entièrement...'
 sku: 'B087R4XR6D-fr'
-tags: [  ]
 actualPrice: 49.13 EUR
 currency: EUR
 price: 49.13

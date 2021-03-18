@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VS8SRPW-fr PlayVital Poignées ergonomiques bleues pour manette...'
 sku: 'B08VS8SRPW-fr'
-tags: [  ]
 actualPrice: 16.04 EUR
 currency: EUR
 price: 16.04

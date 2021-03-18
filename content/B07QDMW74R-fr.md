@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QDMW74R-fr G-STAR RAW Roxic Tapered Cargo Pantalon Gris Asfalt...'
 sku: 'B07QDMW74R-fr'
-tags: [  ]
 actualPrice: 49.97 EUR
 currency: EUR
 price: 49.97

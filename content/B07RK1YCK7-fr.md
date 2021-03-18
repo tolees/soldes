@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RK1YCK7-fr New Balance Fresh Foam Roav h Running Homme Noir Light TK...'
 sku: 'B07RK1YCK7-fr'
-tags: [  ]
 actualPrice: 52.64 EUR
 currency: EUR
 price: 52.64

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLYGJ9D-fr FREEGUN - Lot de 4 Boxers garçon Disney G1'
 sku: 'B07YLYGJ9D-fr'
-tags: [  ]
 actualPrice: 22.42 EUR
 currency: EUR
 price: 22.42

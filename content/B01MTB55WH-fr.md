@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTB55WH-fr Anker Enceinte Bluetooth SoundCore 2 Haut Parleur Portable...'
 sku: 'B01MTB55WH-fr'
-tags: [  ]
 actualPrice: 31.19 EUR
 currency: EUR
 price: 31.19

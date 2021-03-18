@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YTCDXY2-fr Joker [4K Ultra HD + Blu-Ray-Édition boîtier SteelBook]'
 sku: 'B07YTCDXY2-fr'
-tags: [ 'Blu-ray','Drame et émotion','Films','Policier', ]
 actualPrice: 22.92 EUR
 currency: EUR
 price: 22.92

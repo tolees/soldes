@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6YG1LC-fr ECOVACS OZMO920 Robot Aspirateur Laveur 2-en-1 avec...'
 sku: 'B07W6YG1LC-fr'
-tags: [  ]
 actualPrice: 309.98 EUR
 currency: EUR
 price: 309.98

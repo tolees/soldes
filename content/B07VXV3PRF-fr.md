@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VXV3PRF-fr Colliers en or rose pour femmes avec pendentifs cœur...'
 sku: 'B07VXV3PRF-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XYLPPSL-fr Sennheiser PXC 550-II Wireless Casque d écoute avec Alexa...'
 sku: 'B07XYLPPSL-fr'
-tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

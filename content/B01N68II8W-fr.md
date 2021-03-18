@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N68II8W-fr Somfy 2401363 - Prise ON/OFF télécommandée intérieure RTS...'
 sku: 'B01N68II8W-fr'
-tags: [  ]
 actualPrice: 20.75 EUR
 currency: EUR
 price: 20.75

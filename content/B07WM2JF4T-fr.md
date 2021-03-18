@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WM2JF4T-fr BODUOISS - TV Box Android 7.1 2GB RAM + 16GB ROM Mini...'
 sku: 'B07WM2JF4T-fr'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00QPZI25O-fr AUKEY Récepteur Bluetooth 5 Adaptateur Audio sans Fil avec...'
 sku: 'B00QPZI25O-fr'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

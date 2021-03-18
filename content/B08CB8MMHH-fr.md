@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CB8MMHH-fr BRIKSMAX Kit de LED pour Lego La Maison Blanche...'
 sku: 'B08CB8MMHH-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

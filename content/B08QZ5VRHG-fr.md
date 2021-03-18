@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QZ5VRHG-fr AWLGAK Moniteur Portable Ecran Portable 15" 1080P IPS FHD...'
 sku: 'B08QZ5VRHG-fr'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

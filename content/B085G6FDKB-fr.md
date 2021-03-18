@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085G6FDKB-fr OFUN Robot Jouet 12 en 1 Construire Jouets éducatifs STEM...'
 sku: 'B085G6FDKB-fr'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

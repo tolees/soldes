@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0868QDW4S-fr Telephone Portable Incassable DOOGEE S58 Pro 2020...'
 sku: 'B0868QDW4S-fr'
-tags: [  ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

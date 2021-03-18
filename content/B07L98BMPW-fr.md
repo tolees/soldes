@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L98BMPW-fr Under Armour Armour Insulated Hooded Veste Homme Noir FR :...'
 sku: 'B07L98BMPW-fr'
-tags: [  ]
 actualPrice: 57.72 EUR
 currency: EUR
 price: 57.72

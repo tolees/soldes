@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GV5FCS-fr Davis Club - Eva chêne Clair'
 sku: 'B085GV5FCS-fr'
-tags: [  ]
 actualPrice: 169.94 EUR
 currency: EUR
 price: 169.94

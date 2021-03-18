@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C6KH41R-fr Inconnu - Ça-Chapitre 1 & 2 [4K Ultra HD Blu-Ray Bonus-...'
 sku: 'B08C6KH41R-fr'
-tags: [  ]
 actualPrice: 46.5 EUR
 currency: EUR
 price: 46.5

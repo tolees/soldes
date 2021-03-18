@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YCXQHM6-fr ACTIVISION - Call of Duty : Modern Warfare pour Xbox One'
 sku: 'B07YCXQHM6-fr'
-tags: [  ]
 actualPrice: 30.62 EUR
 currency: EUR
 price: 30.62

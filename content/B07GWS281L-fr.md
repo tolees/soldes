@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GWS281L-fr Suunto 9 Montre GPS Multisport avec grande Autonomie de...'
 sku: 'B07GWS281L-fr'
-tags: [  ]
 actualPrice: 257.8 EUR
 currency: EUR
 price: 257.8

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08JT2XX1W-fr Masseur Oculaire ANLAN Masseur pour Les Yeux Anti Age...'
 sku: 'B08JT2XX1W-fr'
-tags: [ 'anlan', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

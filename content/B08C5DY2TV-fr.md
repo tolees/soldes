@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C5DY2TV-fr Xiaomi Mi Electric Scooter 1S Trottinette Electrique -...'
 sku: 'B08C5DY2TV-fr'
-tags: [  ]
 actualPrice: 379.99 EUR
 currency: EUR
 price: 379.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFQ8DKP-fr Petsfit Niche intérieure en bois pour petits chiens 102cm...'
 sku: 'B07LFQ8DKP-fr'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

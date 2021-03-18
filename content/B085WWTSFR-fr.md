@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085WWTSFR-fr Hicorch Cartouche d encre 16XL Compatible pour Epson 16 XL...'
 sku: 'B085WWTSFR-fr'
-tags: [  ]
 actualPrice: 19.28 EUR
 currency: EUR
 price: 19.28

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG6H28J-fr DJI Osmo Mobile 3 Prime Combo - Kit Stabilisateur de...'
 sku: 'B08DG6H28J-fr'
-tags: [  ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

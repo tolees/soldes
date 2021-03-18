@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00DPM09IS-fr LEGO DUPLO Town La pâtisserie avec camionette à café...'
 sku: 'B00DPM09IS-fr'
-tags: [  ]
 actualPrice: 33.73 EUR
 currency: EUR
 price: 33.73

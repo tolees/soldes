@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FB5ZM22-fr Peradix Cadeaux Appareil Photo Enfants 4 en 1 Appareil...'
 sku: 'B08FB5ZM22-fr'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019RWAWLS-fr Square Enix - World Of Final Fantasy - édition day one'
 sku: 'B019RWAWLS-fr'
-tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

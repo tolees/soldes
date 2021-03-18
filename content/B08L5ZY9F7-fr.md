@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L5ZY9F7-fr Joyjoz Jouets de Bain pour Bébé 5 en 1 Jouet Baleine Mural...'
 sku: 'B08L5ZY9F7-fr'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

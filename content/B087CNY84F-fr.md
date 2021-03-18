@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087CNY84F-fr BLACK+DECKER BXTO1000E - Grille-pain 1000W fente extra...'
 sku: 'B087CNY84F-fr'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

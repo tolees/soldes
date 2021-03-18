@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7I8WHS-fr Koba Films - ARSÈNE LUPIN - intégrale'
 sku: 'B01N7I8WHS-fr'
-tags: [  ]
 actualPrice: 22.52 EUR
 currency: EUR
 price: 22.52

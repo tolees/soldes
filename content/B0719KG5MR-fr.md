@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0719KG5MR-fr Under Armour Ua Classic Mesh Casquette Confortable à Forme...'
 sku: 'B0719KG5MR-fr'
-tags: [  ]
 actualPrice: 11.15 EUR
 currency: EUR
 price: 11.15

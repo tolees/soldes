@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KTVJHPF-fr LEGO®-City La navette spatiale Enfant de 5 Ans et Plus...'
 sku: 'B07KTVJHPF-fr'
-tags: [  ]
 actualPrice: 22.39 EUR
 currency: EUR
 price: 22.39

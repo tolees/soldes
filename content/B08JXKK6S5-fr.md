@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JXKK6S5-fr Anpro Talkie walkie Enfants Jouet Radio à 8 canaux avec...'
 sku: 'B08JXKK6S5-fr'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

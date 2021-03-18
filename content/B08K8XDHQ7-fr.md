@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K8XDHQ7-fr A5X - Box Android TV Support 6K 3D 4GB 64GB H616 Puce Wi-...'
 sku: 'B08K8XDHQ7-fr'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

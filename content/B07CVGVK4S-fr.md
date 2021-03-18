@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CVGVK4S-fr Skullcandy Hesh 3 Bluetooth Sans Fil Over-Ear Casque avec...'
 sku: 'B07CVGVK4S-fr'
-tags: [  ]
 actualPrice: 60.47 EUR
 currency: EUR
 price: 60.47

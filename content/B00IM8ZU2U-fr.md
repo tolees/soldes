@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IM8ZU2U-fr Livoo DOP101 Machine à Pâtes Fraîches 180 W Vert Rouge Blanc'
 sku: 'B00IM8ZU2U-fr'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00I3LUUYO-fr Sony MDR-EX110APW Ecouteurs Intra-auriculaires avec...'
 sku: 'B00I3LUUYO-fr'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

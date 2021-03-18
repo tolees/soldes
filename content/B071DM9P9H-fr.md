@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071DM9P9H-fr JeaTone - Jeantone 1.3 MP HD Caméra extérieure 17 8 cm...'
 sku: 'B071DM9P9H-fr'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

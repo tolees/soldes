@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071YCKM7G-fr Dim X6 Boxer Coton Stretch Lot de 6 Multicolore...'
 sku: 'B071YCKM7G-fr'
-tags: [  ]
 actualPrice: 18.68 EUR
 currency: EUR
 price: 18.68

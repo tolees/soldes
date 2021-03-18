@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T4RYMHT-fr Warner Bros. - Queer as Folk-L intégrale'
 sku: 'B07T4RYMHT-fr'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PKQ4CH1-fr Symiu - Jouets en Bois Jeux Montessori Memo Jeu de Mémoire...'
 sku: 'B08PKQ4CH1-fr'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079CBP6P9-fr Paladone Icons light PlayStation PP4140PS Multi-color'
 sku: 'B079CBP6P9-fr'
-tags: [  ]
 actualPrice: 21.39 EUR
 currency: EUR
 price: 21.39

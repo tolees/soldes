@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086YF6M6B-fr Dreamy Cubby Jouet Fille Age 3 4 5 Ans Cadeau Fille Jardin...'
 sku: 'B086YF6M6B-fr'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

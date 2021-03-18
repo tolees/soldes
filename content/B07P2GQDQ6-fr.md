@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P2GQDQ6-fr LEGO - Technic Land Rover Defender Jeu de construction 11...'
 sku: 'B07P2GQDQ6-fr'
-tags: [  ]
 actualPrice: 146.77 EUR
 currency: EUR
 price: 146.77

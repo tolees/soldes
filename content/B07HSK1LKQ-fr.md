@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HSK1LKQ-fr A Star is Born [DVD]'
 sku: 'B07HSK1LKQ-fr'
-tags: [  ]
 actualPrice: 8.31 EUR
 currency: EUR
 price: 8.31

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GX94S6T-fr SNAPTAIN SP600N Drone GPS avec Caméra 2K HD Cardan à...'
 sku: 'B08GX94S6T-fr'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

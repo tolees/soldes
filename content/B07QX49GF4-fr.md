@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QX49GF4-fr Symiu - Jouets en Bois Puzzle de Tri Montessori avec...'
 sku: 'B07QX49GF4-fr'
-tags: [  ]
 actualPrice: 16.59 EUR
 currency: EUR
 price: 16.59

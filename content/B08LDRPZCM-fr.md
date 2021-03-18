@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LDRPZCM-fr ELTD Clavier Étui pour iPad Air 4e génération [AZERTY]...'
 sku: 'B08LDRPZCM-fr'
-tags: [  ]
 actualPrice: 28.0 EUR
 currency: EUR
 price: 28.0

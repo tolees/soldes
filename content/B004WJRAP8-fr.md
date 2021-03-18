@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004WJRAP8-fr Wera 05057675001 Porte-Embout 897/4 IMP avec jonc d’arrêt...'
 sku: 'B004WJRAP8-fr'
-tags: [  ]
 actualPrice: 11.47 EUR
 currency: EUR
 price: 11.47

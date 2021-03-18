@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQD2V72-fr Mes-bijoux.fr Bracelet Chaine Ethnique doré ALABA'
 sku: 'B07QQD2V72-fr'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

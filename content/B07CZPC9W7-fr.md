@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CZPC9W7-fr Peaktop - Fontaine d eau de jardinière de décor de jardin...'
 sku: 'B07CZPC9W7-fr'
-tags: [  ]
 actualPrice: 68.59 EUR
 currency: EUR
 price: 68.59

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G2GVYLW-fr Michael Kors Femme Analogique Quartz Montre avec Bracelet...'
 sku: 'B07G2GVYLW-fr'
-tags: [  ]
 actualPrice: 142.25 EUR
 currency: EUR
 price: 142.25

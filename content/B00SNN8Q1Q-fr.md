@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SNN8Q1Q-fr WARNER HOME VIDEO - Tim Burton-Coffret 9 Films [Blu-Ray]'
 sku: 'B00SNN8Q1Q-fr'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

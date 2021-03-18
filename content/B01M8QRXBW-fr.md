@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M8QRXBW-fr Capcom - Resident Evil 7 : Biohazard - édition Steelbook'
 sku: 'B01M8QRXBW-fr'
-tags: [  ]
 actualPrice: 62.2 EUR
 currency: EUR
 price: 62.2

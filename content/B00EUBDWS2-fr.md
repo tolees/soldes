@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00EUBDWS2-fr Alcatel TMAX Téléphones Bibloc Ecran Blanc'
 sku: 'B00EUBDWS2-fr'
-tags: [  ]
 actualPrice: 25.24 EUR
 currency: EUR
 price: 25.24

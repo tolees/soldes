@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HV41Q5W-fr meross - Ouvre-Porte de Garage Connecté HomeKit...'
 sku: 'B08HV41Q5W-fr'
-tags: [ 'Quincaillerie de portes de garage','meross', ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

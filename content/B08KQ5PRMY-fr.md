@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KQ5PRMY-fr ACTIVISION - Call Of Duty: Black Ops Cold War PS4'
 sku: 'B08KQ5PRMY-fr'
-tags: [  ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

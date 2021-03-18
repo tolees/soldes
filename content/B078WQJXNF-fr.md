@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQJXNF-fr Samsung SSD Interne 860 EVO 2.5" 250 Go - MZ-76E250B/EU'
 sku: 'B078WQJXNF-fr'
-tags: [  ]
 actualPrice: 46.25 EUR
 currency: EUR
 price: 46.25

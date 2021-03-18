@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002TMCCA8-fr SEB - Wonderbag WB406120 boite de 5 Sacs aspirateur...'
 sku: 'B002TMCCA8-fr'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

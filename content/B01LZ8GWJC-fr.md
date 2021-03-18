@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01LZ8GWJC-fr WARNER BROS - Falling Skies - L intégrale de la Série -...'
 sku: 'B01LZ8GWJC-fr'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFGT6L5-fr Western Digital - WD Black P50 500 Go - Disque SSD de jeu...'
 sku: 'B07YFGT6L5-fr'
-tags: [  ]
 actualPrice: 135.34 EUR
 currency: EUR
 price: 135.34

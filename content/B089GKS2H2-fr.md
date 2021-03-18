@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089GKS2H2-fr Robot Pâtissier 1500W 5.5L Elegant Life Robot de Cuisine...'
 sku: 'B089GKS2H2-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Cuisine et Maison','Mixeurs, batteurs et robots multifonctions','Petit électroménager','elegant life', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

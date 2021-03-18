@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SH2SFLW-fr Honeycomb Aeronautical Alpha Flight Controls Yoke & Switch...'
 sku: 'B07SH2SFLW-fr'
-tags: [  ]
 actualPrice: 238.23 EUR
 currency: EUR
 price: 238.23

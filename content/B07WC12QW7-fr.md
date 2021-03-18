@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WC12QW7-fr LEGO Classic La plaque de base blanche 25 cm x 25 cm pour...'
 sku: 'B07WC12QW7-fr'
-tags: [  ]
 actualPrice: 5.91 EUR
 currency: EUR
 price: 5.91

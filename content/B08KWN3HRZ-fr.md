@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KWN3HRZ-fr Creepshow Saison 1 [Blu-Ray]'
 sku: 'B08KWN3HRZ-fr'
-tags: [  ]
 actualPrice: 24.12 EUR
 currency: EUR
 price: 24.12

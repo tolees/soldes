@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RJPZGZW-fr ElephantStory - Bracelet Compatible avec Apple Watch 42mm...'
 sku: 'B08RJPZGZW-fr'
-tags: [  ]
 actualPrice: 16.95 EUR
 currency: EUR
 price: 16.95

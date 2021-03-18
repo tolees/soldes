@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JB1LB64-fr Under Armour UA Tech Short Short de sport léger pantacourt...'
 sku: 'B07JB1LB64-fr'
-tags: [  ]
 actualPrice: 23.46 EUR
 currency: EUR
 price: 23.46

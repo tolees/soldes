@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G8QWTX2-fr Samsung Galaxy Smartwatch Bluetooth - Gris Acier'
 sku: 'B07G8QWTX2-fr'
-tags: [  ]
 actualPrice: 229.0 EUR
 currency: EUR
 price: 229.0

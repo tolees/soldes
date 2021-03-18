@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085PP34PF-fr Tronsmart T6Plus Version Améliorée Haut-Parleur Bluetooth...'
 sku: 'B085PP34PF-fr'
-tags: [  ]
 actualPrice: 62.04 EUR
 currency: EUR
 price: 62.04

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTYM940-fr B.Catcher Collier en Argent Zircone cubique Pendentif...'
 sku: 'B01MTYM940-fr'
-tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

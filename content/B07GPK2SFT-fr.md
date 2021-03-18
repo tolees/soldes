@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GPK2SFT-fr Deep Silver - Metro Exodus - Edition Limitée Aurora'
 sku: 'B07GPK2SFT-fr'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

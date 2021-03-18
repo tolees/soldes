@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LKLPC8N-fr Baztoy Jeux de pêche électroniques Jouet de pêche...'
 sku: 'B08LKLPC8N-fr'
-tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

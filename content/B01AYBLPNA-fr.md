@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AYBLPNA-fr Invision - Support TV Mural avec Fixation Ultra Résistant...'
 sku: 'B01AYBLPNA-fr'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T6LA5LS-fr Walt Disney Records - Best of Disney'
 sku: 'B00T6LA5LS-fr'
-tags: [  ]
 actualPrice: 4.39 EUR
 currency: EUR
 price: 4.39

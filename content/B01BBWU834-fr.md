@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BBWU834-fr Sony Walkman NW-WS413 - Lecteur MP3 Intégré à des...'
 sku: 'B01BBWU834-fr'
-tags: [  ]
 actualPrice: 77.52 EUR
 currency: EUR
 price: 77.52

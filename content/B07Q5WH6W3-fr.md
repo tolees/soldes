@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q5WH6W3-fr Sebago Portland Spinnaker Chaussures Bateau Hommes...'
 sku: 'B07Q5WH6W3-fr'
-tags: [  ]
 actualPrice: 77.26 EUR
 currency: EUR
 price: 77.26

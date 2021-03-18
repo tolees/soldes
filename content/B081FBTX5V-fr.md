@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081FBTX5V-fr Prtukyt - 6S Casque Bluetooth sans Fil écouteurs stéréo...'
 sku: 'B081FBTX5V-fr'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

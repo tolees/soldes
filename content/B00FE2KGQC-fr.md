@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FE2KGQC-fr Stanley Classique Bouteille Isotherme Bleu 0 47 L'
 sku: 'B00FE2KGQC-fr'
-tags: [ 'Bouteilles isothermes','Casques de réalité virtuelle pour PC','Commodore 64: Jeux, consoles et accessoires','Consoles pour Commodore 64','Consoles rétro et mini consoles','Contenants isothermes','Cuisine et Maison','Jeux vidéo','PC: Jeux et accessoires','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','Systèmes de réalité virtuelle pour PC','stanley', ]
 actualPrice: 31.21 EUR
 currency: EUR
 price: 31.21

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085DPCKPT-fr Warner Bros. - Birds of Prey et la fantabuleuse Histoire...'
 sku: 'B085DPCKPT-fr'
-tags: [  ]
 actualPrice: 23.55 EUR
 currency: EUR
 price: 23.55

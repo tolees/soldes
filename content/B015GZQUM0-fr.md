@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015GZQUM0-fr Timberland Bradstreet Chukka Leather Bottines Homme Marron...'
 sku: 'B015GZQUM0-fr'
-tags: [  ]
 actualPrice: 88.52 EUR
 currency: EUR
 price: 88.52

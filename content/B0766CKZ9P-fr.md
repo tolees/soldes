@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0766CKZ9P-fr Playmobil - Pension des Animaux - 9275'
 sku: 'B0766CKZ9P-fr'
-tags: [ 'Coffrets de figurines pour enfants','playmobil', ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

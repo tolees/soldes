@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WWHP8LH-fr Sylvanian Families - Les Vacances - La Caravane - 5489 -...'
 sku: 'B07WWHP8LH-fr'
-tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

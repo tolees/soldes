@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GF8LY6M-fr 0BEST Drone avec Camera 1080P 4K Pixels Quadrotor de Vol...'
 sku: 'B08GF8LY6M-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

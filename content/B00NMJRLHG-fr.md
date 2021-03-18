@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NMJRLHG-fr Devolo 9370 dLAN 1200+ Prise Réseau CPL 1200 Mbit/s 1x...'
 sku: 'B00NMJRLHG-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

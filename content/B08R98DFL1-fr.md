@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R98DFL1-fr Bravely Default II Nintendo Switch'
 sku: 'B08R98DFL1-fr'
-tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

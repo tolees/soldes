@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKBH56K-fr TICTID Android TV Box Android 10.0【4G+64G】 RK3318 Boitier...'
 sku: 'B07VKBH56K-fr'
-tags: [ 'Solutions streaming','tictid', ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

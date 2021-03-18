@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GHX4M32-fr Taldec - Tech It Easy Circuit des 100 Expériences STEM...'
 sku: 'B07GHX4M32-fr'
-tags: [  ]
 actualPrice: 31.1 EUR
 currency: EUR
 price: 31.1

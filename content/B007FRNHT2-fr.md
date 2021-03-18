@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007FRNHT2-fr Barigo 386MSMA Marron Station météo numérique - Stations...'
 sku: 'B007FRNHT2-fr'
-tags: [  ]
 actualPrice: 177.98 EUR
 currency: EUR
 price: 177.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0871ZB8NK-fr Videoprojecteur WiFi VANKYO Projecteur Connexion WiFi...'
 sku: 'B0871ZB8NK-fr'
-tags: [  ]
 actualPrice: 118.99 EUR
 currency: EUR
 price: 118.99

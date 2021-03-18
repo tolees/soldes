@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MW9M2CQ-fr PNY XLR8 CS3030 M.2 NVMe 250GB SSD Interne - Jusqu à 3500...'
 sku: 'B07MW9M2CQ-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

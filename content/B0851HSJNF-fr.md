@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0851HSJNF-fr Barbie Signature poupée de collection Joyeux Noël en robe...'
 sku: 'B0851HSJNF-fr'
-tags: [  ]
 actualPrice: 41.96 EUR
 currency: EUR
 price: 41.96

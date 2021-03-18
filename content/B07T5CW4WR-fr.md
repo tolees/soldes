@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T5CW4WR-fr E1 Entertainment - The Walking Dead-L intégrale des...'
 sku: 'B07T5CW4WR-fr'
-tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

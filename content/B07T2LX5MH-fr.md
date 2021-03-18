@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2LX5MH-fr Warner Bros. - Fringe-L intégrale de la série : Saisons 1...'
 sku: 'B07T2LX5MH-fr'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

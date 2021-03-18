@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8PJ1ZK-fr Playmobil - Station Essence - 70201'
 sku: 'B07P8PJ1ZK-fr'
-tags: [  ]
 actualPrice: 53.99 EUR
 currency: EUR
 price: 53.99

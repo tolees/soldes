@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZPK7KN-fr PolarPro Lot de 3 filtres ND pour GoPro Hero8 Noir...'
 sku: 'B07XZPK7KN-fr'
-tags: [  ]
 actualPrice: 61.89 EUR
 currency: EUR
 price: 61.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4RMSSP-fr Tommy Hilfiger Femmes Multi-Cadrans Quartz Montre avec...'
 sku: 'B07G4RMSSP-fr'
-tags: [  ]
 actualPrice: 133.06 EUR
 currency: EUR
 price: 133.06

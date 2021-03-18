@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GGBTG4-fr HUAWEI WATCH GT 2e Montre Connectée Ecran Tactile AMOLED...'
 sku: 'B085GGBTG4-fr'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072MGFCL7-fr Pecute Gamelle pour Chien et Chat Antidérapante Gamelle...'
 sku: 'B072MGFCL7-fr'
-tags: [  ]
 actualPrice: 12.74 EUR
 currency: EUR
 price: 12.74

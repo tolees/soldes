@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0764BFL1K-fr Ultimate Ears Boom 2 Lite Enceinte sans Fil Portable...'
 sku: 'B0764BFL1K-fr'
-tags: [ 'Enceintes Bluetooth portables','ultimate ears', ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

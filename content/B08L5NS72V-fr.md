@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L5NS72V-fr Apple Coque en Silicone avec MagSafe pour iPhone 12 12 Pro...'
 sku: 'B08L5NS72V-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

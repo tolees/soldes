@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P4HQ7VF-fr Paw Patrol - 6052956 - Jeu enfant - Police Cruiser de...'
 sku: 'B07P4HQ7VF-fr'
-tags: [  ]
 actualPrice: 41.65 EUR
 currency: EUR
 price: 41.65

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007GX5FSG-fr Police to be or not to be eau de toilette pour homme 125 ml'
 sku: 'B007GX5FSG-fr'
-tags: [  ]
 actualPrice: 22.0 EUR
 currency: EUR
 price: 22.0

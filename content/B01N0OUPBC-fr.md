@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N0OUPBC-fr NONAME - Assassination Classroom-Box 4 [Édition Collector...'
 sku: 'B01N0OUPBC-fr'
-tags: [ 'noname', ]
 actualPrice: 24.85 EUR
 currency: EUR
 price: 24.85

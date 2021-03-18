@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P9B5CWW-fr ESC Editions - La Revanche de Frankenstein [Édition...'
 sku: 'B07P9B5CWW-fr'
-tags: [  ]
 actualPrice: 16.84 EUR
 currency: EUR
 price: 16.84

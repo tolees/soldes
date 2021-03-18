@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KX1WXNX-fr CORAFEI 11 PCS Set d Ustensiles de Cuisine en Silicone et...'
 sku: 'B07KX1WXNX-fr'
-tags: [  ]
 actualPrice: 29.98 EUR
 currency: EUR
 price: 29.98

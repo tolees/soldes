@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PNB224C-fr Polar H10+ Capteur de Fréquence Cardiaque Haute précision...'
 sku: 'B07PNB224C-fr'
-tags: [  ]
 actualPrice: 72.1 EUR
 currency: EUR
 price: 72.1

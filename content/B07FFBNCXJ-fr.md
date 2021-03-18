@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FFBNCXJ-fr CYBEX Silver Porte-Bébé MY.GO Scuderia Ferrari De la...'
 sku: 'B07FFBNCXJ-fr'
-tags: [  ]
 actualPrice: 72.19 EUR
 currency: EUR
 price: 72.19

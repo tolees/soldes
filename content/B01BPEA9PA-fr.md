@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BPEA9PA-fr SatinNaturel - 7 Bombes de Bain BIO à l Huile Essentielle...'
 sku: 'B01BPEA9PA-fr'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

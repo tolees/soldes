@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G95TJ3P-fr Casque Bluetooth sans fil Supra-Aural Bose QuietComfort 35...'
 sku: 'B07G95TJ3P-fr'
-tags: [  ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

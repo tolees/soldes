@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5VRK4W-fr Joyoldelf 19 PCS Jouet de Bain Bébé -Filet Jouets Bain...'
 sku: 'B07V5VRK4W-fr'
-tags: [  ]
 actualPrice: 17.84 EUR
 currency: EUR
 price: 17.84

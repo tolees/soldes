@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KWEBOTE-fr NONAME - Le Hobbit et le seigneur des anneaux la trilogie...'
 sku: 'B01KWEBOTE-fr'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

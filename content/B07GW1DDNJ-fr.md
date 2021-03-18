@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GW1DDNJ-fr Just Dance 2019 - Edition Amazon pour Nintendo Switch'
 sku: 'B07GW1DDNJ-fr'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

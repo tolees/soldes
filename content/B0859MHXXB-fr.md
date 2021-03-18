@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0859MHXXB-fr TP-Link Routeur WiFi AC 1900Mbps Archer C80 WiFi Bi-bande...'
 sku: 'B0859MHXXB-fr'
-tags: [  ]
 actualPrice: 61.98 EUR
 currency: EUR
 price: 61.98

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WVRFH8-fr Maclaren Techno XT Poussette - Complète ultra légère et...'
 sku: 'B078WVRFH8-fr'
-tags: [  ]
 actualPrice: 189.99 EUR
 currency: EUR
 price: 189.99

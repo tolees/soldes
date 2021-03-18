@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XH9KHLR-fr HUAWEI Watch GT 2 46mm Montre Connectée Autonomie de 2...'
 sku: 'B07XH9KHLR-fr'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

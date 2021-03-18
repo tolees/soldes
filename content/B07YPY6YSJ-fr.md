@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YPY6YSJ-fr Safety 1st Ever Fix Siège Auto pour Enfant Evolutif Groupe...'
 sku: 'B07YPY6YSJ-fr'
-tags: [  ]
 actualPrice: 77.75 EUR
 currency: EUR
 price: 77.75

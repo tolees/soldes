@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JD1MT3D-fr PHYLES Cuisine pour Enfant Jeu d Imitation Cuisine Jouet...'
 sku: 'B08JD1MT3D-fr'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F8D6DCZ-fr Nintendo - Super Mario Party Switch'
 sku: 'B07F8D6DCZ-fr'
-tags: [  ]
 actualPrice: 45.49 EUR
 currency: EUR
 price: 45.49

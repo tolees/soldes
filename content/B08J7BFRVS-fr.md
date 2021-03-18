@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7BFRVS-fr 4Go+64Go Octa-Core Écran 5 7 Pouces Telephone Portable...'
 sku: 'B08J7BFRVS-fr'
-tags: [  ]
 actualPrice: 127.49 EUR
 currency: EUR
 price: 127.49

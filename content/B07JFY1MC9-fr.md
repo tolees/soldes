@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JFY1MC9-fr dc comics Batman Red Death PVC Figure OCT182228 Diverse'
 sku: 'B07JFY1MC9-fr'
-tags: [  ]
 actualPrice: 58.62 EUR
 currency: EUR
 price: 58.62

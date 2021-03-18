@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0015QBIWC-fr Stanley 0–65–424 Gamme Fatmax Set de Tournevis - Fabriqués...'
 sku: 'B0015QBIWC-fr'
-tags: [  ]
 actualPrice: 33.55 EUR
 currency: EUR
 price: 33.55

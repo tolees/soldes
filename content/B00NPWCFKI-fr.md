@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NPWCFKI-fr Kettler Mini Stepper avec Compteur Argent/Noir'
 sku: 'B00NPWCFKI-fr'
-tags: [  ]
 actualPrice: 92.15 EUR
 currency: EUR
 price: 92.15

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B8QDPBZ-fr Don Papa Baroko 70cL'
 sku: 'B08B8QDPBZ-fr'
-tags: [  ]
 actualPrice: 33.25 EUR
 currency: EUR
 price: 33.25

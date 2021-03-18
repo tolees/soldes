@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IZBG4W8-fr PUMA Popcat Chaussures de Plage & Piscine Mixte Noir...'
 sku: 'B01IZBG4W8-fr'
-tags: [  ]
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

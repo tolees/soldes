@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083V2SZ8C-fr meross - Ampoule Connectée WiFi 2 Ampoules LED...'
 sku: 'B083V2SZ8C-fr'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

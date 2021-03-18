@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQDF64-fr BINLUN - Silicone Bracelet de Montre Bracelet de Montre...'
 sku: 'B078WQDF64-fr'
-tags: [  ]
 actualPrice: 13.71 EUR
 currency: EUR
 price: 13.71

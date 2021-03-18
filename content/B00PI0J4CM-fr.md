@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PI0J4CM-fr Fisher-Price Doux Rêves Papillon 3-en-1 Mobile Musical...'
 sku: 'B00PI0J4CM-fr'
-tags: [  ]
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

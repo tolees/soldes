@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BCZXDBU-fr Xerox Premium NeverTear - Papier indéchirable Blanc 120µm...'
 sku: 'B00BCZXDBU-fr'
-tags: [  ]
 actualPrice: 66.62 EUR
 currency: EUR
 price: 66.62

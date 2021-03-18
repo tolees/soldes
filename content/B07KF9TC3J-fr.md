@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF9TC3J-fr PERLESMITH - Support Murale TV Inclinable Pivot et...'
 sku: 'B07KF9TC3J-fr'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

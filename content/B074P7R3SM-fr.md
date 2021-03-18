@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B074P7R3SM-fr Osprey Hikelite 18 Unisex Hiking Pack - Black O/S'
 sku: 'B074P7R3SM-fr'
-tags: [  ]
 actualPrice: 63.44 EUR
 currency: EUR
 price: 63.44

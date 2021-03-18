@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GW7ZDG6-fr Naruto & Naruto Shippuden-Intégrale Films 11 DVD [Édition...'
 sku: 'B07GW7ZDG6-fr'
-tags: [  ]
 actualPrice: 61.85 EUR
 currency: EUR
 price: 61.85

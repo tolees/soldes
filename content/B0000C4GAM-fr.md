@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0000C4GAM-fr Canon EF Objectif Zoom Grand Angle 17 / 40 mm f/4.0 L USM'
 sku: 'B0000C4GAM-fr'
-tags: [  ]
 actualPrice: 629.99 EUR
 currency: EUR
 price: 629.99

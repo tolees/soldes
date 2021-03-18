@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YDZZNT2-fr Sidiwen Android 9.0 TV Box X88 Pro Smart Box 4 Go de RAM...'
 sku: 'B07YDZZNT2-fr'
-tags: [ 'Solutions streaming','sidiwen', ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

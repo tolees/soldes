@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082QY8GWH-fr Moniteur de Fréquence Cardiaque Traqueur de Forme Physique...'
 sku: 'B082QY8GWH-fr'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

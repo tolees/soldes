@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BR1M5B7-fr ANWIO 12W Ampoule LED WiFi et Bluetooth Intelligente E27...'
 sku: 'B08BR1M5B7-fr'
-tags: [  ]
 actualPrice: 30.8 EUR
 currency: EUR
 price: 30.8

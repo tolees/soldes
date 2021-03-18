@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSMJ6JM-fr ATOYX Drone Enfant Jouets d intérieur Hélicoptère...'
 sku: 'B07GSMJ6JM-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

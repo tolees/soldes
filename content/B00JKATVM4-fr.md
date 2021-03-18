@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JKATVM4-fr Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K'
 sku: 'B00JKATVM4-fr'
-tags: [  ]
 actualPrice: 16.98 EUR
 currency: EUR
 price: 16.98

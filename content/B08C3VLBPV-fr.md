@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C3VLBPV-fr James Bond 007-La Collection Daniel Craig : Casino Royale...'
 sku: 'B08C3VLBPV-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083WH1CZH-fr TaoTronics Adaptateur Bluetooth 5.0 sans Fil aptX Faible...'
 sku: 'B083WH1CZH-fr'
-tags: [  ]
 actualPrice: 33.14 EUR
 currency: EUR
 price: 33.14

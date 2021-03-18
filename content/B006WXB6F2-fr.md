@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006WXB6F2-fr DEWALT - Meuleuse d Angle XR 18V 3Ah Li-Ion - DCG412N-XJ -...'
 sku: 'B006WXB6F2-fr'
-tags: [  ]
 actualPrice: 99.98 EUR
 currency: EUR
 price: 99.98

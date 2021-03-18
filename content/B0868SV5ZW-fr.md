@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0868SV5ZW-fr HWLY - Filets de pratique de golf cadeaux de golf pour les...'
 sku: 'B0868SV5ZW-fr'
-tags: [  ]
 actualPrice: 83.3 EUR
 currency: EUR
 price: 83.3

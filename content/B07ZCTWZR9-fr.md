@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZCTWZR9-fr Robinet de Cuisine TACKLIFE Mitigeur Cuisine Rotatif à...'
 sku: 'B07ZCTWZR9-fr'
-tags: [  ]
 actualPrice: 36.11 EUR
 currency: EUR
 price: 36.11

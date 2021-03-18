@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089Y2W7CQ-fr HolyHigh Écouteurs Bluetooth Oreillette Bluetooth sans Fil...'
 sku: 'B089Y2W7CQ-fr'
-tags: [  ]
 actualPrice: 28.88 EUR
 currency: EUR
 price: 28.88

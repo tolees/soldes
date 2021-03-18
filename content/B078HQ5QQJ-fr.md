@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078HQ5QQJ-fr Bang & Olufsen Beoplay H8i Casque sans Fil Bluetooth avec...'
 sku: 'B078HQ5QQJ-fr'
-tags: [  ]
 actualPrice: 244.93 EUR
 currency: EUR
 price: 244.93

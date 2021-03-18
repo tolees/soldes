@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGYWJW2-fr Ravensburger - Puzzle 3D - Pot à crayons - Harry Potter -...'
 sku: 'B07NGYWJW2-fr'
-tags: [ 'Puzzles 3D','ravensburger', ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

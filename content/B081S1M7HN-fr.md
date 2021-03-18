@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081S1M7HN-fr Willful Montre Connectée Femmes Homme Smartwatch Montre...'
 sku: 'B081S1M7HN-fr'
-tags: [ 'Montres connectées','willful', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

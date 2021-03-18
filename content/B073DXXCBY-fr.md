@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073DXXCBY-fr FLORA GUARD Outils de Jardinage en Aluminium de 3 pièces...'
 sku: 'B073DXXCBY-fr'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

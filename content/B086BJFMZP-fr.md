@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086BJFMZP-fr A5X - Box TV Android Android 10.0 2GB 16GB Supports 4K 6K...'
 sku: 'B086BJFMZP-fr'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

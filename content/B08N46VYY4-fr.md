@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N46VYY4-fr meross - Prise Connectée Prise Intelligente Compatible...'
 sku: 'B08N46VYY4-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

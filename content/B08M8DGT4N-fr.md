@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08M8DGT4N-fr Avengers [4K Ultra HD + Blu-Ray-Édition boîtier SteelBook]'
 sku: 'B08M8DGT4N-fr'
-tags: [  ]
 actualPrice: 24.96 EUR
 currency: EUR
 price: 24.96

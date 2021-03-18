@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGQMJ5V-fr eXtremeRate Poignées Grips de Remplacement pour Nintendo...'
 sku: 'B08VGQMJ5V-fr'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

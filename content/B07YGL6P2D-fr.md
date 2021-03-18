@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YGL6P2D-fr Miss Vanderbilt - Coffret Eau de Toilette 30 ml - Spray...'
 sku: 'B07YGL6P2D-fr'
-tags: [  ]
 actualPrice: 14.96 EUR
 currency: EUR
 price: 14.96

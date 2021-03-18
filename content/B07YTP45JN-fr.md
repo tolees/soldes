@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YTP45JN-fr TACKLIFE KP200 2000A Booster Batterie Voiture - 12V...'
 sku: 'B07YTP45JN-fr'
-tags: [  ]
 actualPrice: 89.97 EUR
 currency: EUR
 price: 89.97

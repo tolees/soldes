@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BREENBY-fr Sylvanian Families - Le Village - La Famille Souris...'
 sku: 'B01BREENBY-fr'
-tags: [  ]
 actualPrice: 20.92 EUR
 currency: EUR
 price: 20.92

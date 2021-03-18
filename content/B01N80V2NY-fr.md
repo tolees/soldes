@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N80V2NY-fr NUTRIBULLET 900 W - Blender - Technologie Cyclonique...'
 sku: 'B01N80V2NY-fr'
-tags: [  ]
 actualPrice: 77.0 EUR
 currency: EUR
 price: 77.0

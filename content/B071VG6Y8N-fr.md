@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071VG6Y8N-fr Nature Valley - Barres de Céréales Crunchy Avoine &...'
 sku: 'B071VG6Y8N-fr'
-tags: [  ]
 actualPrice: 11.25 EUR
 currency: EUR
 price: 11.25

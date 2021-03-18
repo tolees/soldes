@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GLMHMPC-fr Mega Bloks First Builders La Ferme Musicale animaux et...'
 sku: 'B07GLMHMPC-fr'
-tags: [  ]
 actualPrice: 14.94 EUR
 currency: EUR
 price: 14.94

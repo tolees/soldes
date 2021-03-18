@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M7WD3NB-fr Sony UBP-X800M2 Lecteur DVD Blu-Ray 4K Ultra HD'
 sku: 'B07M7WD3NB-fr'
-tags: [  ]
 actualPrice: 280.0 EUR
 currency: EUR
 price: 280.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P9T3KKD-fr Playmobil - Chambre avec Espace Couture - 70208'
 sku: 'B07P9T3KKD-fr'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

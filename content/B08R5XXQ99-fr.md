@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R5XXQ99-fr Dreamon Malette Maquillage Enfant Lavable Princesse...'
 sku: 'B08R5XXQ99-fr'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

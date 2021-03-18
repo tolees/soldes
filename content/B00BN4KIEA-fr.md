@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BN4KIEA-fr Jacob Delafon E76090-CP FAIRFAX Mitigeur d évier avec bec...'
 sku: 'B00BN4KIEA-fr'
-tags: [  ]
 actualPrice: 112.5 EUR
 currency: EUR
 price: 112.5

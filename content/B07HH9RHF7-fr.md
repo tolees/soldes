@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HH9RHF7-fr TECKIN Prise Connecté Intelligente Wi-FI 16A Mini Smart...'
 sku: 'B07HH9RHF7-fr'
-tags: [  ]
 actualPrice: 36.65 EUR
 currency: EUR
 price: 36.65

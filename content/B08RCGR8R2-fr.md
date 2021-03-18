@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RCGR8R2-fr BISNIE Spatule pâtisserie en Silicone Maryse Cuisine 248 ℃...'
 sku: 'B08RCGR8R2-fr'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

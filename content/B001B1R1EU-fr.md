@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001B1R1EU-fr Parlophone - Haydn - Hummel : Concertos pour trompette'
 sku: 'B001B1R1EU-fr'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

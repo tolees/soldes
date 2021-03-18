@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C453XYG-fr Vikings-Intégrale des Saisons 1 à 4 [Blu-Ray]'
 sku: 'B08C453XYG-fr'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

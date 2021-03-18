@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001MJ3M4E-fr Fargo - to Be Still'
 sku: 'B001MJ3M4E-fr'
-tags: [  ]
 actualPrice: 8.99 EUR
 currency: EUR
 price: 8.99

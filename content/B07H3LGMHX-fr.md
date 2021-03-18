@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H3LGMHX-fr Oasser Compresseur d’Air Portatif Mini Compresseur Voiture...'
 sku: 'B07H3LGMHX-fr'
-tags: [  ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

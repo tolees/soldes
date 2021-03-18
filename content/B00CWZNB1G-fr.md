@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00CWZNB1G-fr Kärcher 2.645-165.0 raccord Noir Jaune'
 sku: 'B00CWZNB1G-fr'
-tags: [  ]
 actualPrice: 59.33 EUR
 currency: EUR
 price: 59.33

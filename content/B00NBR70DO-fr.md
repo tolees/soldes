@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NBR70DO-fr Sony MDR-ZX110B Casque Pliable - Noir'
 sku: 'B00NBR70DO-fr'
-tags: [  ]
 actualPrice: 14.77 EUR
 currency: EUR
 price: 14.77

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077H1MPX4-fr Leif Nelson pour des Hommes Pullover Pull en Tricot Hoodie...'
 sku: 'B077H1MPX4-fr'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

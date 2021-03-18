@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MHRT16I-fr Sylvanian Families - Le Village - L École de La Fôrét -...'
 sku: 'B00MHRT16I-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

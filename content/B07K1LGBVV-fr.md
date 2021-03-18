@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K1LGBVV-fr adidas Continental 80 Chaussures de Fitness Homme Blanc...'
 sku: 'B07K1LGBVV-fr'
-tags: [  ]
 actualPrice: 44.0 EUR
 currency: EUR
 price: 44.0

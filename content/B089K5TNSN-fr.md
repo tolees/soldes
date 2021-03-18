@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089K5TNSN-fr Android 10 4G Smartphone Pas Cher Ulefone Note 8 P...'
 sku: 'B089K5TNSN-fr'
-tags: [  ]
 actualPrice: 78.88 EUR
 currency: EUR
 price: 78.88

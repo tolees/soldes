@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VMCJFTM-fr Spa Luxetique Coffret de Bain et de Soins Coffret Cadeau...'
 sku: 'B07VMCJFTM-fr'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

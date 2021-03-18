@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086KYRM24-fr Mpow Casque Gaming pour PS4 PC Xbox One Casque stéréo sans...'
 sku: 'B086KYRM24-fr'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

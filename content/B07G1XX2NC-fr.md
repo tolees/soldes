@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G1XX2NC-fr Arrow-Saisons 1-6'
 sku: 'B07G1XX2NC-fr'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

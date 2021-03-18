@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JDV4X36-fr Timberland Killington Sneakers Montantes Homme Jaune Wheat...'
 sku: 'B01JDV4X36-fr'
-tags: [  ]
 actualPrice: 85.0 EUR
 currency: EUR
 price: 85.0

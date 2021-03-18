@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XJT2DN7-fr PERLESMITH - Pied TV Universel Support TV pour Téléviseur...'
 sku: 'B07XJT2DN7-fr'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

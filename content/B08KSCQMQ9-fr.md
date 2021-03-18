@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KSCQMQ9-fr Electronic Arts - Need For Speed Hot Pursuit Remastered...'
 sku: 'B08KSCQMQ9-fr'
-tags: [ 'Nintendo Switch:  Consoles, jeux et accessoires','electronic arts', ]
 actualPrice: 32.19 EUR
 currency: EUR
 price: 32.19

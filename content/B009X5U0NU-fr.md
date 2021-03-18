@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009X5U0NU-fr BLACK+DECKER EGBL188KB-QW Perceuse-Visseuse sans fil 18V...'
 sku: 'B009X5U0NU-fr'
-tags: [  ]
 actualPrice: 110.0 EUR
 currency: EUR
 price: 110.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZ21TQR-fr NOBES LCD Tablette D écriture 8.5 Pouces Ardoise Magique...'
 sku: 'B07CZ21TQR-fr'
-tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

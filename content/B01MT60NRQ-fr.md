@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MT60NRQ-fr Kärcher Aspirateur sans sac VC 3 Filtre Hepa 12 Position...'
 sku: 'B01MT60NRQ-fr'
-tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NVDP3ZU-fr LEGO Classic 10696 Boîte à Briques Créative Moyenne Jeu de...'
 sku: 'B00NVDP3ZU-fr'
-tags: [ 'Jeux de construction','lego', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

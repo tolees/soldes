@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCVYT12-fr Parrot Anafi – Batterie Intelligente 7.6V Lipo 2 cellules...'
 sku: 'B07DCVYT12-fr'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

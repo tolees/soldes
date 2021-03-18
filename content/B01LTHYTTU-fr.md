@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LTHYTTU-fr Les Animaux fantastiques - Le monde des Sorciers de J.K....'
 sku: 'B01LTHYTTU-fr'
-tags: [ 'Accessoires de décoration intérieure','Action et aventure','Ameublement et décoration','Batteurs','Batteurs sur socle','Blu-ray','Casseroles, plats et poêles','Chauffage et climatisation','Cocottes','Cocottes et plats de cuisson','Cuisine et Maison','DVD et Blu-ray','Décoration de la maison','Décorations murales','Déshumidificateurs','Fantastique','Featured Categories','Films','Jeux de construction','Jeux et Jouets','Jeux et jouets','Mixeurs, batteurs et robots multifonctions','Petit électroménager', ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

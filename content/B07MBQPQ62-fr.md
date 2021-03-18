@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MBQPQ62-fr Samsung SSD Interne 970 EVO Plus NVMe M.2 1 To -...'
 sku: 'B07MBQPQ62-fr'
-tags: [  ]
 actualPrice: 165.31 EUR
 currency: EUR
 price: 165.31

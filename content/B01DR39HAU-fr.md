@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DR39HAU-fr Hansgrohe Mitigeur de Lavabo MySport XL à Bec Haut pour...'
 sku: 'B01DR39HAU-fr'
-tags: [  ]
 actualPrice: 101.0 EUR
 currency: EUR
 price: 101.0

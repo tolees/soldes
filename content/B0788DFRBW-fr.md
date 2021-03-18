@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0788DFRBW-fr Tommy Hilfiger - UM0UM00562 - Rn Tee Ss - T-shirt - Homme...'
 sku: 'B0788DFRBW-fr'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

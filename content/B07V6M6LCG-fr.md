@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V6M6LCG-fr Kaporal - T-Shirt à Manches Courtes col v Coupe ajustée -...'
 sku: 'B07V6M6LCG-fr'
-tags: [  ]
 actualPrice: 12.5 EUR
 currency: EUR
 price: 12.5

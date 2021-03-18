@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G86Y2NK-fr EBL 8PCS Piles AA Rechargeables Piles Rechargeables AA/LR6...'
 sku: 'B08G86Y2NK-fr'
-tags: [  ]
 actualPrice: 15.29 EUR
 currency: EUR
 price: 15.29

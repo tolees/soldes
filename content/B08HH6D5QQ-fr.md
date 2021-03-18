@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HH6D5QQ-fr Kiano Elegance TV 32" Pouces Android TV 9.0 [Téléviseur 80...'
 sku: 'B08HH6D5QQ-fr'
-tags: [  ]
 actualPrice: 219.9 EUR
 currency: EUR
 price: 219.9

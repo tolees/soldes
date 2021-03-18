@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FP1X88R-fr LEGO Classic - Ensemble de briques de base - 11002 - Jeu...'
 sku: 'B07FP1X88R-fr'
-tags: [  ]
 actualPrice: 13.6 EUR
 currency: EUR
 price: 13.6

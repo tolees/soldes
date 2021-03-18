@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00W6ZNETQ-fr Riviera-et-Bar QP350A Plancha Extra Large'
 sku: 'B00W6ZNETQ-fr'
-tags: [  ]
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

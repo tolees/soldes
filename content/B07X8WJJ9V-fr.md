@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X8WJJ9V-fr Garmin Fenix 6X Montre connectée Sapphire DLC Noir/Gris L'
 sku: 'B07X8WJJ9V-fr'
-tags: [  ]
 actualPrice: 694.86 EUR
 currency: EUR
 price: 694.86

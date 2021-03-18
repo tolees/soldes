@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072NZ1R8G-fr Scie coupe droite sans fil Bosch - Easycut 12 Livré avec...'
 sku: 'B072NZ1R8G-fr'
-tags: [  ]
 actualPrice: 97.82 EUR
 currency: EUR
 price: 97.82

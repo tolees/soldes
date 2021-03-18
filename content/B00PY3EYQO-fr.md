@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PY3EYQO-fr LEGO Classic Boîte de briques créatives deluxe 10698 Jeu...'
 sku: 'B00PY3EYQO-fr'
-tags: [  ]
 actualPrice: 41.43 EUR
 currency: EUR
 price: 41.43

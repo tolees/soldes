@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084CJ9T2R-fr SanDisk MAX ENDURANCE Carte microSDHC 128Go + Adaptateur...'
 sku: 'B084CJ9T2R-fr'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

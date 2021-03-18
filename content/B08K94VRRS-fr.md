@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K94VRRS-fr LYCHL Écouteur Bluetooth Écouteurs Bluetooth 5.0 sans Fil...'
 sku: 'B08K94VRRS-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

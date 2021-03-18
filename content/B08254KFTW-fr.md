@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08254KFTW-fr Rowenta Turbo Silence Extrême+ Ventilateur Puissant Faible...'
 sku: 'B08254KFTW-fr'
-tags: [  ]
 actualPrice: 64.89 EUR
 currency: EUR
 price: 64.89

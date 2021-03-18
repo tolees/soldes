@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083XGJSRQ-fr Nioh 2 - PlayStation 4 Édition spéciale Version française...'
 sku: 'B083XGJSRQ-fr'
-tags: [  ]
 actualPrice: 49.41 EUR
 currency: EUR
 price: 49.41

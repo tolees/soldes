@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZLDTP6-fr Seagate FireCuda 520 2 To SSD interne hautes performances...'
 sku: 'B07ZZLDTP6-fr'
-tags: [  ]
 actualPrice: 339.9 EUR
 currency: EUR
 price: 339.9

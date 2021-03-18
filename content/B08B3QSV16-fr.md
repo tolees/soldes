@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B3QSV16-fr Tiksounds - Écouteurs Bluetooth IPX7 Etanche Casque...'
 sku: 'B08B3QSV16-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y3PMCGY-fr Western Digital - WD - My Book Duo - Disque dur externe...'
 sku: 'B07Y3PMCGY-fr'
-tags: [ 'western digital', ]
 actualPrice: 569.99 EUR
 currency: EUR
 price: 569.99

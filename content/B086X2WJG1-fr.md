@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B086X2WJG1-fr Fort Boyard Nouvelle Edition'
 sku: 'B086X2WJG1-fr'
-tags: [  ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

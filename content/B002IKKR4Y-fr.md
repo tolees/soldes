@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002IKKR4Y-fr Philips AVENT - SCF271/20 - Stérilisateur Micro-ondes à...'
 sku: 'B002IKKR4Y-fr'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

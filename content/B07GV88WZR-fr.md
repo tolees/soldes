@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GV88WZR-fr MaxKare Couverture Chauffante 130 * 180 cm Ultra-douce et...'
 sku: 'B07GV88WZR-fr'
-tags: [ 'Bien-être et massage','Bricolage','Couvertures chauffantes','Hygiène et Santé','Massage et relaxation','Outillage à main et électroportatif','Outillage électroportatif','Scies circulaires électriques','Scies électriques','Traitements chaud-froid','maxkare', ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

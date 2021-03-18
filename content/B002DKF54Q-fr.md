@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002DKF54Q-fr Parlophone - Ambient 1/Music for Airports'
 sku: 'B002DKF54Q-fr'
-tags: [  ]
 actualPrice: 3.63 EUR
 currency: EUR
 price: 3.63

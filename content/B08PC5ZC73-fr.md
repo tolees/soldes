@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PC5ZC73-fr Samsung SSD 870 EVO 4 To Facteur de forme 2.5 pouces...'
 sku: 'B08PC5ZC73-fr'
-tags: [  ]
 actualPrice: 440.88 EUR
 currency: EUR
 price: 440.88

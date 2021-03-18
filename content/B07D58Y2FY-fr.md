@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D58Y2FY-fr Universal Pictures - Battlestar Galactica-L intégrale...'
 sku: 'B07D58Y2FY-fr'
-tags: [  ]
 actualPrice: 59.5 EUR
 currency: EUR
 price: 59.5

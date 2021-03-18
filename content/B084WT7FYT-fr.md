@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084WT7FYT-fr Le Bureau des légendes-Saison 5'
 sku: 'B084WT7FYT-fr'
-tags: [  ]
 actualPrice: 17.0 EUR
 currency: EUR
 price: 17.0

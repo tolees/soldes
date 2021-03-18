@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000NG9EE4-fr Adidas Copa Mundial Bottes Classiques homme Blanc Cassé...'
 sku: 'B000NG9EE4-fr'
-tags: [  ]
 actualPrice: 62.95 EUR
 currency: EUR
 price: 62.95

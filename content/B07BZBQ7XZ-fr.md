@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BZBQ7XZ-fr Pataugas Task/N F4D Botines Femmes Noir Noir 850 41 EU'
 sku: 'B07BZBQ7XZ-fr'
-tags: [  ]
 actualPrice: 107.4 EUR
 currency: EUR
 price: 107.4

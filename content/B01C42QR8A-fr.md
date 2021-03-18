@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01C42QR8A-fr Smoby - Tracteur Farmer Max + Remorque - Tractopelle...'
 sku: 'B01C42QR8A-fr'
-tags: [  ]
 actualPrice: 56.06 EUR
 currency: EUR
 price: 56.06

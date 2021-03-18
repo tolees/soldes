@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082XVYLB3-fr Aibrou Pyjama Femmes Hiver Mode Simple Ensemble de Pyjama...'
 sku: 'B082XVYLB3-fr'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

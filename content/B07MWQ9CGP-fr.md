@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MWQ9CGP-fr Carlotta - Network Main Basse Sur La Tv [Édition Coffret...'
 sku: 'B07MWQ9CGP-fr'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

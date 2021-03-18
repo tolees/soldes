@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MT5WLHY-fr Logitech MK850 Combo Clavier et Souris sans Fil QWERTY UK'
 sku: 'B01MT5WLHY-fr'
-tags: [  ]
 actualPrice: 85.5 EUR
 currency: EUR
 price: 85.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V5JKSQ1-fr Pochette de Transport/Protection d Ecran pour Nintendo...'
 sku: 'B07V5JKSQ1-fr'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

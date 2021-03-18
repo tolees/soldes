@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N8QC1SX-fr Ariete Vintage 155 Grille-Pain design 2 Tranches avec...'
 sku: 'B01N8QC1SX-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

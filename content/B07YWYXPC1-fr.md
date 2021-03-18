@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YWYXPC1-fr OIVO Manette PS4 Chargeur PS4 Station de Charge Rapide...'
 sku: 'B07YWYXPC1-fr'
-tags: [  ]
 actualPrice: 14.43 EUR
 currency: EUR
 price: 14.43

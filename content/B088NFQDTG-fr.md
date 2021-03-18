@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NFQDTG-fr Oral-B iO - 8 - Pack Duo Brosses À Dents Électriques...'
 sku: 'B088NFQDTG-fr'
-tags: [  ]
 actualPrice: 225.99 EUR
 currency: EUR
 price: 225.99

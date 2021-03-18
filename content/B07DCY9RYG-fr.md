@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCY9RYG-fr Sylvanian Families - Le Village - Le Train Tchou-Tchou des...'
 sku: 'B07DCY9RYG-fr'
-tags: [  ]
 actualPrice: 12.54 EUR
 currency: EUR
 price: 12.54

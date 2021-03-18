@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GZJ6GG7-fr Coolskins Cool008 Chapka Noir Negro 08 Taille Unique Mixte'
 sku: 'B07GZJ6GG7-fr'
-tags: [  ]
 actualPrice: 128.52 EUR
 currency: EUR
 price: 128.52

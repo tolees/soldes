@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PBCB4J5-fr Sony WH-XB700 Casque sans fil Bluetooth Extra Bass 360...'
 sku: 'B07PBCB4J5-fr'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MUG5Q61-fr Crocs Baya Sabots Mixte adulte Marron Espresso 43/44 EU'
 sku: 'B01MUG5Q61-fr'
-tags: [  ]
 actualPrice: 27.58 EUR
 currency: EUR
 price: 27.58

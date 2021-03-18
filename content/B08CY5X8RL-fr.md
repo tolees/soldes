@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CY5X8RL-fr BONNYCO Stylo Encre Invisible et Carnet de Notes Pack 16...'
 sku: 'B08CY5X8RL-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

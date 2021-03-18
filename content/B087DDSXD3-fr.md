@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DDSXD3-fr SAMSUNG T7 500 Go USB 3.2 SSD externe gris - MU-PC500T/WW'
 sku: 'B087DDSXD3-fr'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

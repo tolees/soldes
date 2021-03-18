@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N7O8KMG-fr adidas Gazelle C Baskets Basses Mixte Enfant Noir Core...'
 sku: 'B01N7O8KMG-fr'
-tags: [  ]
 actualPrice: 38.0 EUR
 currency: EUR
 price: 38.0

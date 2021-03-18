@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XXR6MGS-fr iClosam Pull de Noël Homme à Manche Longue Tricots Top...'
 sku: 'B07XXR6MGS-fr'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

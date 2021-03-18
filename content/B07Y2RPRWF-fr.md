@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Y2RPRWF-fr Montre Connectée Femmes Montre Intelligente Homme...'
 sku: 'B07Y2RPRWF-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

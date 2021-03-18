@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D6ZZLQ1-fr Levi s 502 Taper Jeans Onewash 95977 32W / 32L Homme'
 sku: 'B07D6ZZLQ1-fr'
-tags: [  ]
 actualPrice: 60.72 EUR
 currency: EUR
 price: 60.72

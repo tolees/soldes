@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q1ZKW1L-fr Lansay- Toy Story 4-Figurine Woody Pixar 64611'
 sku: 'B07Q1ZKW1L-fr'
-tags: [  ]
 actualPrice: 22.73 EUR
 currency: EUR
 price: 22.73

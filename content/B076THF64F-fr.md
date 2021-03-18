@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076THF64F-fr Skechers Women s OG 85-Old School Cool Low-Top Sneakers...'
 sku: 'B076THF64F-fr'
-tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

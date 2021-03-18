@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LSN6KB-fr 2K - Bioshock : The Collection'
 sku: 'B086LSN6KB-fr'
-tags: [  ]
 actualPrice: 17.49 EUR
 currency: EUR
 price: 17.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087DFLF9S-fr Samsung T7 1 To USB 3.2 SSD externe noir - MU-PC1T0T/WW'
 sku: 'B087DFLF9S-fr'
-tags: [  ]
 actualPrice: 164.3 EUR
 currency: EUR
 price: 164.3

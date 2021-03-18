@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00N0OHEMA-fr TP-Link Switch Ethernet TL-SG105E Gigabit 5 RJ45 Ports...'
 sku: 'B00N0OHEMA-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

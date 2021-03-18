@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PJNVZ99-fr DEEPOW - Dongle WiFi 1300 Mbps Clé WiFi Adaptateur WiFi...'
 sku: 'B08PJNVZ99-fr'
-tags: [  ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EJ5L7QC-fr M-Home PLS8160-163 Poubelle à Pédale Plastique Carbone 40 L'
 sku: 'B01EJ5L7QC-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

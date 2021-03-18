@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ398TT-fr eXtremeRate Coque Décorative pour DualSense 5 Manette Clip...'
 sku: 'B08VJ398TT-fr'
-tags: [  ]
 actualPrice: 22.59 EUR
 currency: EUR
 price: 22.59

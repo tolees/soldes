@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G49DCMC-fr LEGO 43105 VIDIYO Party Llama BeatBox Créateur de Clip...'
 sku: 'B08G49DCMC-fr'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

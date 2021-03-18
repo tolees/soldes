@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TR4C1ST-fr ADLWLVE - Smartphone Débloqué 4G Pas Cher 6.3 Pouces...'
 sku: 'B08TR4C1ST-fr'
-tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

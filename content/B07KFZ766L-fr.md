@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KFZ766L-fr PGYTECH Accessoires Combo pour DJI Mavic 2 Pro Drone'
 sku: 'B07KFZ766L-fr'
-tags: [  ]
 actualPrice: 47.08 EUR
 currency: EUR
 price: 47.08

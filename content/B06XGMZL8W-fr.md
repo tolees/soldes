@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XGMZL8W-fr Lowepro Droneguard BP léger Drone Sac à dos'
 sku: 'B06XGMZL8W-fr'
-tags: [  ]
 actualPrice: 110.88 EUR
 currency: EUR
 price: 110.88

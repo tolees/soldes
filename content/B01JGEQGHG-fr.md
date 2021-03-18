@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JGEQGHG-fr FoodSaver-FFC002X-01-Boite fraicheur pour appareil de mise...'
 sku: 'B01JGEQGHG-fr'
-tags: [ 'foodsaver', ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

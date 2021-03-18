@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VPPQ9B4-fr Amazfit GTR 42mm - Montre connectée Blanc White'
 sku: 'B07VPPQ9B4-fr'
-tags: [  ]
 actualPrice: 101.91 EUR
 currency: EUR
 price: 101.91

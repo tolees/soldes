@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088PLMN9C-fr Supkitdin Balance de Cuisine électronique Balance de...'
 sku: 'B088PLMN9C-fr'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

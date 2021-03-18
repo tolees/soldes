@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TXDW41X-fr Levi s Graphic Tee T-Shirt White Boxtab SS T2 White 0000 L...'
 sku: 'B07TXDW41X-fr'
-tags: [  ]
 actualPrice: 13.75 EUR
 currency: EUR
 price: 13.75

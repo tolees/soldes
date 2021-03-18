@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073KCPS2M-fr Belkin - Câble USB-C 3.1 - 10 Gbps 4K 100 W - 1M - Noir...'
 sku: 'B073KCPS2M-fr'
-tags: [  ]
 actualPrice: 24.25 EUR
 currency: EUR
 price: 24.25

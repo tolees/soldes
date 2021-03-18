@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076CQRH6B-fr GEORGE · SMITH❤️Histoire d amour Bracelet Argent Femme...'
 sku: 'B076CQRH6B-fr'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

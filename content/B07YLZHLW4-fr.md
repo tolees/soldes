@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YLZHLW4-fr Dim Ecodim Colorama Boxers Homme Multicolore Noir/Bleu...'
 sku: 'B07YLZHLW4-fr'
-tags: [  ]
 actualPrice: 30.99 EUR
 currency: EUR
 price: 30.99

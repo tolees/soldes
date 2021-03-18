@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S86GBCQ-fr Ab Production - Capitaine Flam-L intégrale [Édition...'
 sku: 'B07S86GBCQ-fr'
-tags: [  ]
 actualPrice: 67.95 EUR
 currency: EUR
 price: 67.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QVTQ4R7-fr Tommy Hilfiger Tommy Logo Tee T-Shirt Noir Jet Black Base...'
 sku: 'B07QVTQ4R7-fr'
-tags: [ 'T-shirts à manches courtes homme','tommy hilfiger', ]
 actualPrice: 27.95 EUR
 currency: EUR
 price: 27.95

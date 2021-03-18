@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KXVDH52-fr SanDisk Extreme PRO 512 Go : clé USB 3.2 SSD avec vitesses...'
 sku: 'B08KXVDH52-fr'
-tags: [  ]
 actualPrice: 141.99 EUR
 currency: EUR
 price: 141.99

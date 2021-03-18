@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0128Z9CCQ-fr Mad Catz - Rock Band 4'
 sku: 'B0128Z9CCQ-fr'
-tags: [  ]
 actualPrice: 33.6 EUR
 currency: EUR
 price: 33.6

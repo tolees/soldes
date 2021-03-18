@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081SVM3F1-fr Arolun LCD Tablette D écriture 8.5 Pouces Ardoise Magique...'
 sku: 'B081SVM3F1-fr'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

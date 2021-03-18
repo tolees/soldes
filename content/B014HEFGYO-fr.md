@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B014HEFGYO-fr Lacor 53018 Faitout avec Couvercle Tri Métal Inox 18 cm'
 sku: 'B014HEFGYO-fr'
-tags: [  ]
 actualPrice: 25.44 EUR
 currency: EUR
 price: 25.44

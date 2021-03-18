@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088QX2YJK-fr Eono by Amazon - Balance de Cuisine/pâtisserie numérique...'
 sku: 'B088QX2YJK-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

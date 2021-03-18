@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083GBKFLC-fr Panini France SA-LA Magie des Films Harry POTTER-11...'
 sku: 'B083GBKFLC-fr'
-tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

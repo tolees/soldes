@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008IEDWCS-fr Jean Mouton : Missa Dictes moy toutes voz pensées'
 sku: 'B008IEDWCS-fr'
-tags: [  ]
 actualPrice: 12.59 EUR
 currency: EUR
 price: 12.59

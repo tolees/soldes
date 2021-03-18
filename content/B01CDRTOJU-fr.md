@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01CDRTOJU-fr Deutsche Grammophon - Early Recordings'
 sku: 'B01CDRTOJU-fr'
-tags: [ 'deutsche grammophon', ]
 actualPrice: 13.38 EUR
 currency: EUR
 price: 13.38

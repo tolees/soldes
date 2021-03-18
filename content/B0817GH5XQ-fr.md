@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0817GH5XQ-fr Columbia Klamath Range II Polaire Demi-zippée Homme'
 sku: 'B0817GH5XQ-fr'
-tags: [  ]
 actualPrice: 12.03 EUR
 currency: EUR
 price: 12.03

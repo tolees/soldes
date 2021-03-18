@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JH4BZQT-fr OPPO A53s Bleu Fantaisie - 128 Go - 4 Go de RAM – Écran...'
 sku: 'B08JH4BZQT-fr'
-tags: [  ]
 actualPrice: 169.0 EUR
 currency: EUR
 price: 169.0

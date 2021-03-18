@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDCGLJY-fr THQ NORDIC - DCL - Drone Championship League'
 sku: 'B07XDCGLJY-fr'
-tags: [  ]
 actualPrice: 16.48 EUR
 currency: EUR
 price: 16.48

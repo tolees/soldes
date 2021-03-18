@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T4MSMK7-fr Warner Bros. - Loïs & Clark Les Nouvelles Aventures de...'
 sku: 'B07T4MSMK7-fr'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

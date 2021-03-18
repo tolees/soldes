@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GH8SYFH-fr BRIKSMAX Kit de LED pour Lego Ideas Grand Piano Compatible...'
 sku: 'B08GH8SYFH-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

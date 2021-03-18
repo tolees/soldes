@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2RZ9D3-fr NETGEAR Système WiFi 6 Mesh Nighthawk MK63 – Routeur WiFi...'
 sku: 'B01N2RZ9D3-fr'
-tags: [  ]
 actualPrice: 228.87 EUR
 currency: EUR
 price: 228.87

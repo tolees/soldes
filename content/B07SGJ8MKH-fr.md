@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SGJ8MKH-fr FEBER - My Real Car Voiture Électrique Interactive à...'
 sku: 'B07SGJ8MKH-fr'
-tags: [  ]
 actualPrice: 83.8 EUR
 currency: EUR
 price: 83.8

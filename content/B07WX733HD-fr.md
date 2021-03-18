@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WX733HD-fr Warner Home Video - The Last Ship-L intégrale de la série'
 sku: 'B07WX733HD-fr'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

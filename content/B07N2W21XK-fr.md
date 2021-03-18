@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N2W21XK-fr Moulinex Steam Up Cuiseur Vapeur 8 Programmes S adapte à...'
 sku: 'B07N2W21XK-fr'
-tags: [  ]
 actualPrice: 90.11 EUR
 currency: EUR
 price: 90.11

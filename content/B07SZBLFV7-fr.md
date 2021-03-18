@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SZBLFV7-fr Chuck-Saisons 1-5-L intégrale de la série'
 sku: 'B07SZBLFV7-fr'
-tags: [  ]
 actualPrice: 25.0 EUR
 currency: EUR
 price: 25.0

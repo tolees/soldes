@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JVB2S3P-fr DuoTen Enceinte Bluetooth Portable Haut Parleur Sans Fil...'
 sku: 'B08JVB2S3P-fr'
-tags: [  ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

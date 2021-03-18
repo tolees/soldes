@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RWH6JFS-fr Ninkbox Box Android TV Android 10.0 N2 Max【4G+64G】 Android...'
 sku: 'B07RWH6JFS-fr'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077NTCCHY-fr Coffret Christopher Nolan 7 Films : Dunkerque /...'
 sku: 'B077NTCCHY-fr'
-tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

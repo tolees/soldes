@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HMZ97HQ-fr Roccat Vulcan TKL - Clavier de jeu mécanique compact RGB...'
 sku: 'B08HMZ97HQ-fr'
-tags: [  ]
 actualPrice: 103.12 EUR
 currency: EUR
 price: 103.12

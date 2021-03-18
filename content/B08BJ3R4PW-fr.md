@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJ3R4PW-fr ANKOVO - Thermometre Frontal et Auriculaire Thermometre...'
 sku: 'B08BJ3R4PW-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGGC1SM-fr PDP Casque LVL40 Stereo Sony PS4 et PS5 Noir'
 sku: 'B07VGGC1SM-fr'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

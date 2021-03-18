@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07M8J4ZXK-fr L OR Barista LM8012/60 machine à café à capsules Piano Noir'
 sku: 'B07M8J4ZXK-fr'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

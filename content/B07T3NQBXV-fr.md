@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T3NQBXV-fr Game of Thrones Le Trône De Fer -L intégrale des Saisons 1...'
 sku: 'B07T3NQBXV-fr'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

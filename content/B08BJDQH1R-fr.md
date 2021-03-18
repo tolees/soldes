@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BJDQH1R-fr Jump Force Deluxe Edition Nintendo Switch'
 sku: 'B08BJDQH1R-fr'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

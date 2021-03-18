@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08PC5DKZQ-fr Samsung SSD 870 EVO 1 To Facteur de forme 2.5 pouces...'
 sku: 'B08PC5DKZQ-fr'
-tags: [ 'SSD internes','samsung', ]
 actualPrice: 97.17 EUR
 currency: EUR
 price: 97.17

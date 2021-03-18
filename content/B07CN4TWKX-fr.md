@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CN4TWKX-fr Seb P4624922 Clipso Minut Easy Autocuiseur 9 L Inox + Kit...'
 sku: 'B07CN4TWKX-fr'
-tags: [  ]
 actualPrice: 104.99 EUR
 currency: EUR
 price: 104.99

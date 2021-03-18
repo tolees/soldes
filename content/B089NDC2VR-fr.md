@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NDC2VR-fr A5X - TV Box Android 10.0 4GB 32GB Supports 8k 4K 3D...'
 sku: 'B089NDC2VR-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

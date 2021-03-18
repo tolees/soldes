@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085ZS8P8C-fr Bomaker Barre de Son sans Fil 2.0 Canal 120W HDMI TV Haut-...'
 sku: 'B085ZS8P8C-fr'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

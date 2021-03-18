@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01NCAFPT0-fr Puma Basket Heart Patent Baskets Basses Femme Noir Black-...'
 sku: 'B01NCAFPT0-fr'
-tags: [  ]
 actualPrice: 54.0 EUR
 currency: EUR
 price: 54.0

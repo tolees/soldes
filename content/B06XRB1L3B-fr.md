@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XRB1L3B-fr Microsoft – Surface Ergonomic Keyboard – Clavier sans fil...'
 sku: 'B06XRB1L3B-fr'
-tags: [  ]
 actualPrice: 110.84 EUR
 currency: EUR
 price: 110.84

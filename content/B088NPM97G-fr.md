@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NPM97G-fr Lemnoi 7.5" Pouce LCD Horloge Numérique Calendrier avec...'
 sku: 'B088NPM97G-fr'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

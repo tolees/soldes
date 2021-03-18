@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BLJWP9F-fr RAMPOW Chargeur USB C 18W Power Delivery [Garantie à Vie]...'
 sku: 'B08BLJWP9F-fr'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

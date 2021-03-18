@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0030DH1WE-fr PetSafe - Système Anti-Fugue Sans Fil et Portatif avec...'
 sku: 'B0030DH1WE-fr'
-tags: [  ]
 actualPrice: 229.49 EUR
 currency: EUR
 price: 229.49

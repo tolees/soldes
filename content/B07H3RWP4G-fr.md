@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H3RWP4G-fr Gigaset CL660A Duo - Téléphone fixe sans fil - Répondeur -...'
 sku: 'B07H3RWP4G-fr'
-tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

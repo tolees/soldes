@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07H5WSDZZ-fr Sac à dos Thule Crossover 2 20L Noir ordinateur 13 - 14...'
 sku: 'B07H5WSDZZ-fr'
-tags: [  ]
 actualPrice: 145.95 EUR
 currency: EUR
 price: 145.95

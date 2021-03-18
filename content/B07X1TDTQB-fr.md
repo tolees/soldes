@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X1TDTQB-fr Sony WI-XB400 Écouteurs Intra-Auriculaires sans Fil Extra...'
 sku: 'B07X1TDTQB-fr'
-tags: [  ]
 actualPrice: 48.62 EUR
 currency: EUR
 price: 48.62

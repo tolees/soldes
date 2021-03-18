@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0169PXEES-fr Devolo dLAN 550 WiFi CPL Connexion Internet 500 Mbit/s via...'
 sku: 'B0169PXEES-fr'
-tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

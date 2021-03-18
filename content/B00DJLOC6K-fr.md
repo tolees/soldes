@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DJLOC6K-fr Mute Records - Depeche Mode-Touring The Angel : Live in Milan'
 sku: 'B00DJLOC6K-fr'
-tags: [  ]
 actualPrice: 5.39 EUR
 currency: EUR
 price: 5.39

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CL29GZQ-fr HP OMEN Encoder - Clavier Mécanique Gaming AZERTY Filaire...'
 sku: 'B08CL29GZQ-fr'
-tags: [  ]
 actualPrice: 84.0 EUR
 currency: EUR
 price: 84.0

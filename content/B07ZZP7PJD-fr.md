@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZP7PJD-fr Funko Pop! Heroes: Batman Returns - Penguin Multicoleur'
 sku: 'B07ZZP7PJD-fr'
-tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

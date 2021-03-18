@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F412XPQ-fr HUAWEI WATCH FIT Montre Connectée Boitier en métal écran...'
 sku: 'B08F412XPQ-fr'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PFQPYR1-fr GT Spirit- Voiture Miniature de Collection GT217 British...'
 sku: 'B07PFQPYR1-fr'
-tags: [  ]
 actualPrice: 95.75 EUR
 currency: EUR
 price: 95.75

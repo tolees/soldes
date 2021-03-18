@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZ6QPOU-fr Samsung GX-MB540TL/ZG'
 sku: 'B01MZ6QPOU-fr'
-tags: [  ]
 actualPrice: 15.9 EUR
 currency: EUR
 price: 15.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000TGIKSO-fr SEB AUTHENTIQUE 8 L Cocotte-minute Inox Induction...'
 sku: 'B000TGIKSO-fr'
-tags: [  ]
 actualPrice: 90.26 EUR
 currency: EUR
 price: 90.26

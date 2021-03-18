@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000FFR5KI-fr Crayon de coloriage - STABILO woody 3in1 - Étui carton x...'
 sku: 'B000FFR5KI-fr'
-tags: [  ]
 actualPrice: 13.09 EUR
 currency: EUR
 price: 13.09

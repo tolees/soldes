@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DPBW3GY-fr Nioh 2 - PlayStation 4 Version française Mode en ligne et...'
 sku: 'B07DPBW3GY-fr'
-tags: [  ]
 actualPrice: 9.01 EUR
 currency: EUR
 price: 9.01

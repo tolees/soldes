@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0087CHJGQ-fr 20th Century Fox - Titanic [Blu-ray]'
 sku: 'B0087CHJGQ-fr'
-tags: [  ]
 actualPrice: 11.23 EUR
 currency: EUR
 price: 11.23

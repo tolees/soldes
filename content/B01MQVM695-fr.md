@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MQVM695-fr Twinz up - Tire bouchon électrique sans-fil - Coffret avec...'
 sku: 'B01MQVM695-fr'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

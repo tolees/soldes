@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5JKFQC-fr Logitech G203 LIGHTSYNC Souris Gaming avec Éclairage RVB...'
 sku: 'B07W5JKFQC-fr'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

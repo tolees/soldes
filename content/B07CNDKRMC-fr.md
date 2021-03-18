@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNDKRMC-fr FOVICN - Montre pour Homme Montres analogiques à Quartz d...'
 sku: 'B07CNDKRMC-fr'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLFKJQT-fr Playmobil - Ambulance et Secouristes - 70049'
 sku: 'B07JLFKJQT-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

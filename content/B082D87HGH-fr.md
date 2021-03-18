@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082D87HGH-fr Lintelek Montre Connectée Intelligente Homme Femme Ecran...'
 sku: 'B082D87HGH-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

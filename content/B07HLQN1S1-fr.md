@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HLQN1S1-fr RED CASTLE Chancelière universelle hiver Compatible...'
 sku: 'B07HLQN1S1-fr'
-tags: [ 'red castle', ]
 actualPrice: 83.0 EUR
 currency: EUR
 price: 83.0

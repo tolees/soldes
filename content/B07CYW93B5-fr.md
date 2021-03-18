@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CYW93B5-fr HoMedics - HM NOMA-2000 - Coussin Masseur Shiatsu...'
 sku: 'B07CYW93B5-fr'
-tags: [  ]
 actualPrice: 81.81 EUR
 currency: EUR
 price: 81.81

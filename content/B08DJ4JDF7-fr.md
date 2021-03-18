@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DJ4JDF7-fr ARANEE Maquillage Enfant Jouet Fille 20 PCS Kit de...'
 sku: 'B08DJ4JDF7-fr'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

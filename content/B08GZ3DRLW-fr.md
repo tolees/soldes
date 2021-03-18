@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GZ3DRLW-fr Nintendo - GAME WATCH SM BROS SYSTEM'
 sku: 'B08GZ3DRLW-fr'
-tags: [  ]
 actualPrice: 44.95 EUR
 currency: EUR
 price: 44.95

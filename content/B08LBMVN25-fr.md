@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LBMVN25-fr INNZA - Epilateur Lumière Pulsée 999 000 Flashs IPL...'
 sku: 'B08LBMVN25-fr'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

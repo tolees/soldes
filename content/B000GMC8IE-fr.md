@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000GMC8IE-fr Reebok Class Lea Chaussures multisport femme Blanc 38 EU'
 sku: 'B000GMC8IE-fr'
-tags: [  ]
 actualPrice: 34.61 EUR
 currency: EUR
 price: 34.61

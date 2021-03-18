@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T84BY2S-fr AQCTIM Manette Switch Manettes pour Switch Sans Fil...'
 sku: 'B08T84BY2S-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

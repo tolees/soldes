@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086LMMS4Y-fr Sony WF-XB700 Ecouteurs Bluetooth sans Fil 18 Heures d...'
 sku: 'B086LMMS4Y-fr'
-tags: [  ]
 actualPrice: 79.2 EUR
 currency: EUR
 price: 79.2

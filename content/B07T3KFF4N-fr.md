@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T3KFF4N-fr Warner Bros. - DC Extended Universe - Collection 7 films...'
 sku: 'B07T3KFF4N-fr'
-tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

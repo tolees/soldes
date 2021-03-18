@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0823BTNYV-fr Xiaomi Mi Smart Compact Projector'
 sku: 'B0823BTNYV-fr'
-tags: [  ]
 actualPrice: 469.99 EUR
 currency: EUR
 price: 469.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077YDLH3T-fr AEG 005072 Outil de Diagnostic Auto OBD2 Evolution'
 sku: 'B077YDLH3T-fr'
-tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

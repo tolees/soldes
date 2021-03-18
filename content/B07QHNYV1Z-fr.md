@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QHNYV1Z-fr Puma SF Drift Cat 5 Ultra II 306422-03 Sneakers Basses...'
 sku: 'B07QHNYV1Z-fr'
-tags: [  ]
 actualPrice: 72.9 EUR
 currency: EUR
 price: 72.9

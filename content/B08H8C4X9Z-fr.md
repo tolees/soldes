@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H8C4X9Z-fr Tomzon Drone GPS D65 avec Caméra 4K pour Adultes Drone...'
 sku: 'B08H8C4X9Z-fr'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

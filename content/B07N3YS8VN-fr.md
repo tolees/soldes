@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N3YS8VN-fr Green Canyon Spa - Coffret cadeau femme 10 PCS Coffret de...'
 sku: 'B07N3YS8VN-fr'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

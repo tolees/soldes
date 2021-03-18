@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01K4QOC8U-fr TomTom GPS Voiture GO 5200 - 5 Pouces Cartographie Monde...'
 sku: 'B01K4QOC8U-fr'
-tags: [  ]
 actualPrice: 179.95 EUR
 currency: EUR
 price: 179.95

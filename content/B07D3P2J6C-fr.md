@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D3P2J6C-fr PowerLocus Casque Bluetooth sans Fil Casque Audio stéréo...'
 sku: 'B07D3P2J6C-fr'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

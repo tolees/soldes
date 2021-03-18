@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VGY2LWT-fr Nintendo Paire de Manettes Joy-Con Gauche Violet...'
 sku: 'B07VGY2LWT-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

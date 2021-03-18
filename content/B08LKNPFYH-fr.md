@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LKNPFYH-fr Odec Écouteurs Bluetooth 5 sans Fil Oreillette Bluetooth...'
 sku: 'B08LKNPFYH-fr'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

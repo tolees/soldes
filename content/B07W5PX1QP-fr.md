@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5PX1QP-fr LEGO Friends Le bus de l amitié avec piscine et toboggan...'
 sku: 'B07W5PX1QP-fr'
-tags: [ 'Coffrets de figurines pour enfants','Jeux de construction','lego', ]
 actualPrice: 49.2 EUR
 currency: EUR
 price: 49.2

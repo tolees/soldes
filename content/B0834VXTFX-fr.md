@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0834VXTFX-fr Prise Connectée WiFi FR meross Prise Intelligente...'
 sku: 'B0834VXTFX-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

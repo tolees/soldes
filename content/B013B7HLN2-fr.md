@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B013B7HLN2-fr Moulinex DJ812510 Découpe Légumes Électrique Fresh Express...'
 sku: 'B013B7HLN2-fr'
-tags: [  ]
 actualPrice: 61.12 EUR
 currency: EUR
 price: 61.12

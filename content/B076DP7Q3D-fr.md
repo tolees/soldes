@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076DP7Q3D-fr Bébé Confort Cosi Citi Siège-Auto Nomad Black'
 sku: 'B076DP7Q3D-fr'
-tags: [  ]
 actualPrice: 95.0 EUR
 currency: EUR
 price: 95.0

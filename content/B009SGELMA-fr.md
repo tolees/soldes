@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B009SGELMA-fr Lechuza Trio Cottage 30 Jardinière à réserve d eau avec...'
 sku: 'B009SGELMA-fr'
-tags: [  ]
 actualPrice: 107.96 EUR
 currency: EUR
 price: 107.96

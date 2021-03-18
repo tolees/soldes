@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VFQS6WM-fr Samsonite Lite-Shock - Spinner M Valise 69 cm 73 L Noir Black'
 sku: 'B00VFQS6WM-fr'
-tags: [  ]
 actualPrice: 197.5 EUR
 currency: EUR
 price: 197.5

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ET9KFK-fr KS TOOLS 999.0120 Caisse à outils métallique 5...'
 sku: 'B008ET9KFK-fr'
-tags: [  ]
 actualPrice: 24.84 EUR
 currency: EUR
 price: 24.84

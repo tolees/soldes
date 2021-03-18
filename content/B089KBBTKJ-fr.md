@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089KBBTKJ-fr TOFU - Projecteur lumières de Noël lumière Led de Noël...'
 sku: 'B089KBBTKJ-fr'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

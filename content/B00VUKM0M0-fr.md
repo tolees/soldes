@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VUKM0M0-fr NETGEAR Répéteur WiFi EX3700 Amplificateur WiFi AC750 WiFi...'
 sku: 'B00VUKM0M0-fr'
-tags: [  ]
 actualPrice: 25.66 EUR
 currency: EUR
 price: 25.66

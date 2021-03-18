@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NXGBQKT-fr Caixun EC55S1A 55 Pouces Android 9.0 Smart TV 140cm 4K...'
 sku: 'B08NXGBQKT-fr'
-tags: [  ]
 actualPrice: 499.99 EUR
 currency: EUR
 price: 499.99

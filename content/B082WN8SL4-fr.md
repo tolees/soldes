@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082WN8SL4-fr Samsung Galaxy A51 Smartphone 128GB 4GB Prism Crush Blue'
 sku: 'B082WN8SL4-fr'
-tags: [ 'Accessoires IT','Accessoires pour TV et vidéo','Accessoires pour disques durs','Accessoires pour outillage sans fil','Accessoires pour outillage électroportatif','Action et aventure','Adaptateurs et boîtiers pour disque dur','Antennes TNT','Antennes radio et TV','Appareils et outils de coiffure','Baskets et chaussures de sport femme','Baskets mode femme','Beauté et Parfum','Blu-ray','Bricolage','Chaussures','Chaussures et Sacs','Chaussures femme','Coffrets de figurines pour enfants','Coiffure et soins des cheveux','Cuisine et Maison','DVD et Blu-ray','Ensembles de géométrie','Featured Categories','Figurines pour enfants','Films','Fournitures de bureau','Fournitures décole','High-Tech','Informatique','Jeux de construction','Jeux et Jouets','Jeux et jouets','Outillage à main et électroportatif','Packs batterie pour outils sans fil','Piles alcaline','Piles, chargeurs et testeurs','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Smartphones et téléphones portables débloqués','TV, vidéo et home cinéma','Tableaux, posters et arts décoratifs','Thriller','Tondeuses à cheveux','Téléphones portables et accessoires','samsung', ]
 actualPrice: 250.0 EUR
 currency: EUR
 price: 250.0

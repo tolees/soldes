@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JCGH8JF-fr Oacvien - Clé WiFi Dongle Antenne USB Adaptateur pour PC...'
 sku: 'B08JCGH8JF-fr'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

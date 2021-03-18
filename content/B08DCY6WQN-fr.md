@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCY6WQN-fr meross - Prise Connectée HomeKit EU Biplite Intelligent...'
 sku: 'B08DCY6WQN-fr'
-tags: [  ]
 actualPrice: 35.09 EUR
 currency: EUR
 price: 35.09

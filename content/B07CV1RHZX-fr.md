@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CV1RHZX-fr Nespresso Essenza Mini - Machine espresso à capsules -...'
 sku: 'B07CV1RHZX-fr'
-tags: [ 'Cafetières à capsules','krups', ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

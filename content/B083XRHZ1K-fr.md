@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083XRHZ1K-fr NAVANINO Tondeuse Cheveux Hommes Vitesse Variable à Deux...'
 sku: 'B083XRHZ1K-fr'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

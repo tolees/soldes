@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089B8GK4F-fr Funko- Pop Disney:Fantasia 80th-Mickey#2 Artist Series...'
 sku: 'B089B8GK4F-fr'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

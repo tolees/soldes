@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMCKB9L-fr Quadiva G! Collier pour femme avec chaîne et pendentif...'
 sku: 'B07JMCKB9L-fr'
-tags: [  ]
 actualPrice: 24.95 EUR
 currency: EUR
 price: 24.95

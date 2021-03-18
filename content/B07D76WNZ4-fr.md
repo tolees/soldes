@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D76WNZ4-fr Levi s Veste camionneur originale Femme Bleu Clean Dark...'
 sku: 'B07D76WNZ4-fr'
-tags: [  ]
 actualPrice: 47.6 EUR
 currency: EUR
 price: 47.6

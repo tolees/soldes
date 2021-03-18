@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0713SHZDL-fr SAMSONITE Karissa Biz - Backpack 14.1" Sac à dos loisir 41...'
 sku: 'B0713SHZDL-fr'
-tags: [  ]
 actualPrice: 100.71 EUR
 currency: EUR
 price: 100.71

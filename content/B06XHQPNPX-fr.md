@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XHQPNPX-fr Happy People 34426 – Nikko Claas Moissonneuse-batteuse...'
 sku: 'B06XHQPNPX-fr'
-tags: [  ]
 actualPrice: 65.72 EUR
 currency: EUR
 price: 65.72

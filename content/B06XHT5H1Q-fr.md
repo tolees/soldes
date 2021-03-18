@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XHT5H1Q-fr Janod - Cuisine Enfant en Bois Macaron - Équipée avec...'
 sku: 'B06XHT5H1Q-fr'
-tags: [  ]
 actualPrice: 65.31 EUR
 currency: EUR
 price: 65.31

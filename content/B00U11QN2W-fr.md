@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00U11QN2W-fr Frifri 3528DuoFil Pro Design Friteuse 3.5 liters'
 sku: 'B00U11QN2W-fr'
-tags: [  ]
 actualPrice: 75.0 EUR
 currency: EUR
 price: 75.0

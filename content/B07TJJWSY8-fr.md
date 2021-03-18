@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TJJWSY8-fr Hori - Racing Wheel Apex Manette sans Fil pour PS4/PC'
 sku: 'B07TJJWSY8-fr'
-tags: [  ]
 actualPrice: 70.32 EUR
 currency: EUR
 price: 70.32

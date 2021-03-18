@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGPJLXK-fr Smoby - Maison Pretty + Cuisine d Eté - Cabane de Jardin...'
 sku: 'B07LGPJLXK-fr'
-tags: [  ]
 actualPrice: 110.99 EUR
 currency: EUR
 price: 110.99

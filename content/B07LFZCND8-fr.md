@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LFZCND8-fr Geox J BULLER Boy B ABX E Baskets Hautes Garçon Noir...'
 sku: 'B07LFZCND8-fr'
-tags: [  ]
 actualPrice: 55.2 EUR
 currency: EUR
 price: 55.2

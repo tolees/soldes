@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L3VQ1RL-fr FUNLAB Premium Étui de jeux pour Nintendo Switch Portable...'
 sku: 'B07L3VQ1RL-fr'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

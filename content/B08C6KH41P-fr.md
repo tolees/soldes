@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C6KH41P-fr Watchmen + Chernobyl + The Outsider [Blu-Ray]'
 sku: 'B08C6KH41P-fr'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YBQ6M8L-fr JBL Flip Essential - Enceinte Bluetooth portable robuste -...'
 sku: 'B07YBQ6M8L-fr'
-tags: [  ]
 actualPrice: 76.05 EUR
 currency: EUR
 price: 76.05

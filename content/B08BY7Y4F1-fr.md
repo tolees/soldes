@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BY7Y4F1-fr measy - Wireless HDMI Transmitter Receiver Video 200m HD...'
 sku: 'B08BY7Y4F1-fr'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

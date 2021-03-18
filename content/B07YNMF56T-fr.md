@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YNMF56T-fr Roccat Vulcan 122 - Clavier de Jeu Blanc GAMING mécanique...'
 sku: 'B07YNMF56T-fr'
-tags: [  ]
 actualPrice: 119.95 EUR
 currency: EUR
 price: 119.95

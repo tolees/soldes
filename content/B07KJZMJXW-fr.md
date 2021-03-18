@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KJZMJXW-fr Sorel Bottes d Hiver pour Femmes Joan of Arctic Noire...'
 sku: 'B07KJZMJXW-fr'
-tags: [  ]
 actualPrice: 94.5 EUR
 currency: EUR
 price: 94.5

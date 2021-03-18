@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NW7YZY8-fr ADLWLVE - 4G Téléphone Portable Débloqué 6 3Pouces...'
 sku: 'B08NW7YZY8-fr'
-tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

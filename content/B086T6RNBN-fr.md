@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086T6RNBN-fr VTech - Pat Patrouille - Mon livre-jeu éducatif - Livre...'
 sku: 'B086T6RNBN-fr'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

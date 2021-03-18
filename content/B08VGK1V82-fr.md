@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGK1V82-fr SUPPOU Galaxy Nova Projecteur Étoiles Nebula Intelligent...'
 sku: 'B08VGK1V82-fr'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

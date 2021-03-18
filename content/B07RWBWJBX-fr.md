@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWBWJBX-fr Finish Pastilles Lave-Vaisselle Powerball All in One Max...'
 sku: 'B07RWBWJBX-fr'
-tags: [ 'Détergent pour lave-vaisselle','finish', ]
 actualPrice: 19.74 EUR
 currency: EUR
 price: 19.74

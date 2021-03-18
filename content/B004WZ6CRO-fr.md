@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B004WZ6CRO-fr Melitta Machine à Café et Boissons Chaudes Automatique...'
 sku: 'B004WZ6CRO-fr'
-tags: [  ]
 actualPrice: 310.1 EUR
 currency: EUR
 price: 310.1

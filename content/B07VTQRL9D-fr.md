@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VTQRL9D-fr RICOO S7244 Support Murale TV Orientable Inclinable...'
 sku: 'B07VTQRL9D-fr'
-tags: [  ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VVZ8VX-fr Amazon - Découvrez Fire TV Cube Mains-libres avec Alexa...'
 sku: 'B083VVZ8VX-fr'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

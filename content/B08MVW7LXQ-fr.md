@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MVW7LXQ-fr Power Rangers PRG DNF MORPHER ELECTRONIQUE'
 sku: 'B08MVW7LXQ-fr'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

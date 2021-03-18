@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DKMRMQ1-fr NHL 19'
 sku: 'B07DKMRMQ1-fr'
-tags: [  ]
 actualPrice: 36.1 EUR
 currency: EUR
 price: 36.1

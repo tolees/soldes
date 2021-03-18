@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082P8ZNCT-fr VTech - Kidizoom Smile Bleu Appareil Photo Pour Enfant Dès...'
 sku: 'B082P8ZNCT-fr'
-tags: [  ]
 actualPrice: 37.0 EUR
 currency: EUR
 price: 37.0

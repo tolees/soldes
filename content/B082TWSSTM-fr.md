@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082TWSSTM-fr Mpow Casque Bluetooth sans Fil 60H d Autonomie Casque...'
 sku: 'B082TWSSTM-fr'
-tags: [  ]
 actualPrice: 22.89 EUR
 currency: EUR
 price: 22.89

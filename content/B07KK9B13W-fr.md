@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KK9B13W-fr Speedlink - Clavier Gaming Opto Mécanique ORIOS - Full RGB...'
 sku: 'B07KK9B13W-fr'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

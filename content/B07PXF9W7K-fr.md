@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PXF9W7K-fr Taurus AC 205 RVKT - Climatiseur mobile. Climatiseur 4 en...'
 sku: 'B07PXF9W7K-fr'
-tags: [  ]
 actualPrice: 273.95 EUR
 currency: EUR
 price: 273.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0861WMTMV-fr WisFox Clavier Souris sans Fil Combinés 2 4 GHz Silencieux...'
 sku: 'B0861WMTMV-fr'
-tags: [ 'wisfox', ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

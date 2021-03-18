@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KG8BZTQ-fr Sony Xperia 5 II - Téléphone portable | Design compact |...'
 sku: 'B08KG8BZTQ-fr'
-tags: [  ]
 actualPrice: 750.0 EUR
 currency: EUR
 price: 750.0

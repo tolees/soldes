@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T6JHT5F-fr Nike Air Max Excee Basket Homme Noir/Blanc-Gris Foncé 42 EU'
 sku: 'B07T6JHT5F-fr'
-tags: [  ]
 actualPrice: 73.99 EUR
 currency: EUR
 price: 73.99

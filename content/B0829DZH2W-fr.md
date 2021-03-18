@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0829DZH2W-fr Sabrent SSD Interne Rocket Q M.2 2280 NVMe PCIe Haute...'
 sku: 'B0829DZH2W-fr'
-tags: [  ]
 actualPrice: 249.99 EUR
 currency: EUR
 price: 249.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000SHP2Y4-fr Pentel Ball Lot de 12 R 50 C Stylo Feutre à bille pointe...'
 sku: 'B000SHP2Y4-fr'
-tags: [  ]
 actualPrice: 13.52 EUR
 currency: EUR
 price: 13.52

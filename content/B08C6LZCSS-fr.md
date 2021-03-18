@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C6LZCSS-fr Coffret 6 Films Thriller : Seven + Usual Suspects + Le...'
 sku: 'B08C6LZCSS-fr'
-tags: [  ]
 actualPrice: 32.3 EUR
 currency: EUR
 price: 32.3

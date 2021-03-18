@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WDDSLFB-fr Découvrez le routeur/répéteur Wi-Fi maillé mesh Amazon...'
 sku: 'B07WDDSLFB-fr'
-tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

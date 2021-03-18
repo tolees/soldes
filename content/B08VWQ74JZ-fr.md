@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWQ74JZ-fr eXtremeRate PlayVital RGB LED Bande Lumineuse pour Xbox...'
 sku: 'B08VWQ74JZ-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

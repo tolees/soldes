@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008ES7IKA-fr Schott NYC Pantalon Militaire Schott Noir Black Black W32...'
 sku: 'B008ES7IKA-fr'
-tags: [  ]
 actualPrice: 37.45 EUR
 currency: EUR
 price: 37.45

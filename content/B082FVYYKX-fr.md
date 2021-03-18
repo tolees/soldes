@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082FVYYKX-fr Gardena 19300-47 Smart SILENO City 300 Robot Tondeuse Set...'
 sku: 'B082FVYYKX-fr'
-tags: [  ]
 actualPrice: 692.1 EUR
 currency: EUR
 price: 692.1

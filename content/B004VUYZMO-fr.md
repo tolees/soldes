@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004VUYZMO-fr Apli 11950 Boîte de 12 pinces à clip 32mm'
 sku: 'B004VUYZMO-fr'
-tags: [  ]
 actualPrice: 1.56 EUR
 currency: EUR
 price: 1.56

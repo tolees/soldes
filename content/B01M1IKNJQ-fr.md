@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M1IKNJQ-fr Falling Skies-L intégrale de la série [Blu-Ray]'
 sku: 'B01M1IKNJQ-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

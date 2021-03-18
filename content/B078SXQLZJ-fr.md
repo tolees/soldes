@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078SXQLZJ-fr Timberland Malibu Waves Ankle Strap Sandales Femme Marron...'
 sku: 'B078SXQLZJ-fr'
-tags: [  ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

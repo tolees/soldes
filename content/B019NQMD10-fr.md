@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019NQMD10-fr Coffret intégrale Sherlock Holmes'
 sku: 'B019NQMD10-fr'
-tags: [  ]
 actualPrice: 21.65 EUR
 currency: EUR
 price: 21.65

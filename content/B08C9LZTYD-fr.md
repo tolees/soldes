@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C9LZTYD-fr Montre Connectée Smartwatch Entache IP68 AGPTEK Bracelet...'
 sku: 'B08C9LZTYD-fr'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

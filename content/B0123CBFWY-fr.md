@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0123CBFWY-fr Opus Arte - Bayreuth Édition [Blu-Ray]'
 sku: 'B0123CBFWY-fr'
-tags: [  ]
 actualPrice: 59.47 EUR
 currency: EUR
 price: 59.47

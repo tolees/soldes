@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KZTSH00-fr Calor Pro Express Care Centrale Vapeur Haute Pression 7...'
 sku: 'B01KZTSH00-fr'
-tags: [  ]
 actualPrice: 224.99 EUR
 currency: EUR
 price: 224.99

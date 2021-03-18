@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HJVPT31-fr Quercetti - 6155 Tecno Jumbo Loisirs Créatifs - Bricolage...'
 sku: 'B07HJVPT31-fr'
-tags: [  ]
 actualPrice: 20.3 EUR
 currency: EUR
 price: 20.3

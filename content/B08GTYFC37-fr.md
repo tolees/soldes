@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GTYFC37-fr SanDisk Extreme 1 To NVMe SSD disque externe USB-C jusqu à...'
 sku: 'B08GTYFC37-fr'
-tags: [ 'SSD externes','sandisk', ]
 actualPrice: 160.99 EUR
 currency: EUR
 price: 160.99

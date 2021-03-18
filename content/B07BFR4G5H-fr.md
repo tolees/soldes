@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BFR4G5H-fr The Bellies - Poupon Interactive Pinky-Twink Famosa...'
 sku: 'B07BFR4G5H-fr'
-tags: [  ]
 actualPrice: 21.54 EUR
 currency: EUR
 price: 21.54

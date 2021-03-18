@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BPNP6BK-fr Philips GC9614/20 Centrale Vapeur PerfectCare Elite sans...'
 sku: 'B07BPNP6BK-fr'
-tags: [  ]
 actualPrice: 169.99 EUR
 currency: EUR
 price: 169.99

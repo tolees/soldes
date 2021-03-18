@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M8SDQJH-fr Disney La Reine des Neiges 2 - L Extraordinaire Château d...'
 sku: 'B07M8SDQJH-fr'
-tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

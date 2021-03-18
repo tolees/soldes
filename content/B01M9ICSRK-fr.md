@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M9ICSRK-fr TiaoBug Bébé Fille 4pcs Déguisement Noël Ensemble de...'
 sku: 'B01M9ICSRK-fr'
-tags: [ 'Ensembles bébé fille','tiaobug', ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

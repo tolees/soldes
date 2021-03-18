@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NBH2GC-fr A5X - TV Box Android 10.0 2GB 16GB Supports 4K 3D Smart TV...'
 sku: 'B089NBH2GC-fr'
-tags: [  ]
 actualPrice: 36.98 EUR
 currency: EUR
 price: 36.98

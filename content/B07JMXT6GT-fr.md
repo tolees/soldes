@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JMXT6GT-fr Abollria Chaussettes Noël en Coton 5 Pack Thermiques...'
 sku: 'B07JMXT6GT-fr'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H7RYC3K-fr Devolo Magic 1 WiFi : Starter Kit CPL pour un WiFi ac dans...'
 sku: 'B07H7RYC3K-fr'
-tags: [  ]
 actualPrice: 122.5 EUR
 currency: EUR
 price: 122.5

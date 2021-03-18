@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0813RJRYC-fr LEGO 42115 Technic Lamborghini Sián FKP 37 Voiture de...'
 sku: 'B0813RJRYC-fr'
-tags: [  ]
 actualPrice: 309.58 EUR
 currency: EUR
 price: 309.58

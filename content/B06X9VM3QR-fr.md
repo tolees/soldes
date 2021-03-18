@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X9VM3QR-fr Sylvanian Families - Le Village - Le Théâtre de Danse et...'
 sku: 'B06X9VM3QR-fr'
-tags: [  ]
 actualPrice: 40.27 EUR
 currency: EUR
 price: 40.27

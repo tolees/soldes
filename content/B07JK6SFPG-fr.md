@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JK6SFPG-fr Under Armour UA Qualifier Short Sleeve T-Shirt Femme Rose...'
 sku: 'B07JK6SFPG-fr'
-tags: [  ]
 actualPrice: 15.95 EUR
 currency: EUR
 price: 15.95

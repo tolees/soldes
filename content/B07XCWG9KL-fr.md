@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XCWG9KL-fr Mega Crit Games - Slay the Spire'
 sku: 'B07XCWG9KL-fr'
-tags: [  ]
 actualPrice: 23.19 EUR
 currency: EUR
 price: 23.19

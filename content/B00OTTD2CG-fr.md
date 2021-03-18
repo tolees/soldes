@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OTTD2CG-fr Cébé Chouka Lunettes de soleil Enfant Blue 1500 Grey BL'
 sku: 'B00OTTD2CG-fr'
-tags: [  ]
 actualPrice: 18.81 EUR
 currency: EUR
 price: 18.81

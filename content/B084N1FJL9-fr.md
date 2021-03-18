@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084N1FJL9-fr Séga - Sakura Wars'
 sku: 'B084N1FJL9-fr'
-tags: [ 'Jeux pour PlayStation 4','séga', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

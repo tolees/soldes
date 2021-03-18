@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00005KFUG-fr Jordan Louis - and His Tympany Five-Remastered-Re-...'
 sku: 'B00005KFUG-fr'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

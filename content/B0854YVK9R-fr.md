@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0854YVK9R-fr BSM - Jeu De Plein Air - Maison Pliable Intérieur Et...'
 sku: 'B0854YVK9R-fr'
-tags: [  ]
 actualPrice: 103.75 EUR
 currency: EUR
 price: 103.75

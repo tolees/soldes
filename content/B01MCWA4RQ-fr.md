@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MCWA4RQ-fr Cuisinart STM1000E Cuiseur à vapeur professionnel en verre...'
 sku: 'B01MCWA4RQ-fr'
-tags: [  ]
 actualPrice: 159.0 EUR
 currency: EUR
 price: 159.0

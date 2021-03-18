@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7V6R7D-fr LEGO Technic La voiture de rallye contrôlée CONTROL+ RC...'
 sku: 'B07W7V6R7D-fr'
-tags: [ 'Bouteilles isothermes','Casques de réalité virtuelle pour PC','Commodore 64: Jeux, consoles et accessoires','Consoles pour Commodore 64','Consoles rétro et mini consoles','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux vidéo','PC: Jeux et accessoires','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','Systèmes de réalité virtuelle pour PC','lego', ]
 actualPrice: 99.65 EUR
 currency: EUR
 price: 99.65

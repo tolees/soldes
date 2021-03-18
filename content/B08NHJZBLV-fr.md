@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NHJZBLV-fr Pixitoyz Puzzle en Bois pour Enfant de 1 2 et 3 Ans. Jeu...'
 sku: 'B08NHJZBLV-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

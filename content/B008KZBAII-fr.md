@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008KZBAII-fr Charrier Parfums Les Parfums de France Luxe Coffret de 10...'
 sku: 'B008KZBAII-fr'
-tags: [  ]
 actualPrice: 22.95 EUR
 currency: EUR
 price: 22.95

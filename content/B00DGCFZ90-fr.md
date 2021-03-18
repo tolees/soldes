@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DGCFZ90-fr Walt Disney France - Robin des Bois [Blu-Ray]'
 sku: 'B00DGCFZ90-fr'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

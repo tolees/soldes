@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07R6MLQHZ-fr Bandai Namco Entertainment - Cyberpunk 2077 Edition D1...'
 sku: 'B07R6MLQHZ-fr'
-tags: [  ]
 actualPrice: 38.5 EUR
 currency: EUR
 price: 38.5

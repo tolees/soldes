@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HQHXHCD-fr Micro Casque Gaming PS4 sans Fil REDSTORM Wireless 2.4G...'
 sku: 'B08HQHXHCD-fr'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

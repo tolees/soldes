@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QRHRBVM-fr Instant Sports pour Nintendo Switch'
 sku: 'B07QRHRBVM-fr'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

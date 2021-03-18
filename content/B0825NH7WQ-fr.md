@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0825NH7WQ-fr GEOX Woman D SUKIE A SHOES BLACK 38 EU'
 sku: 'B0825NH7WQ-fr'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

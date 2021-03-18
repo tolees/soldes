@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JLRHOXY-fr Luminarc Pure Box Active Boîte de Conservation hermétique...'
 sku: 'B00JLRHOXY-fr'
-tags: [  ]
 actualPrice: 5.45 EUR
 currency: EUR
 price: 5.45

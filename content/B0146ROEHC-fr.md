@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0146ROEHC-fr FoodSaver FFS013X-01 Appareil de mise sous vide 2 niveaux...'
 sku: 'B0146ROEHC-fr'
-tags: [  ]
 actualPrice: 62.92 EUR
 currency: EUR
 price: 62.92

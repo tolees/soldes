@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SRYFQR1-fr Forza Horizon 4 LEGO Speed Champions - Standard | Xbox One...'
 sku: 'B07SRYFQR1-fr'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

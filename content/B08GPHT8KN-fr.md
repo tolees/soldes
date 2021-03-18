@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPHT8KN-fr Samsung Galaxy M51 - Smartphone débloqué 4G - Noir -...'
 sku: 'B08GPHT8KN-fr'
-tags: [  ]
 actualPrice: 329.0 EUR
 currency: EUR
 price: 329.0

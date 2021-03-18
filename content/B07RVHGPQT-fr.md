@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RVHGPQT-fr Warner Bros. - Pokémon-Détective Pikachu 4K Ultra HD...'
 sku: 'B07RVHGPQT-fr'
-tags: [  ]
 actualPrice: 18.95 EUR
 currency: EUR
 price: 18.95

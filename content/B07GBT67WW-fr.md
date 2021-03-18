@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GBT67WW-fr Pulsar Horloge PG8283X1'
 sku: 'B07GBT67WW-fr'
-tags: [  ]
 actualPrice: 63.93 EUR
 currency: EUR
 price: 63.93

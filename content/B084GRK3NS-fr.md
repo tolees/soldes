@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084GRK3NS-fr AICOK Batteur Électrique de Cuisine 2 en 1 Batteur à Main...'
 sku: 'B084GRK3NS-fr'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

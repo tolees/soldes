@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KF6ZBHX-fr Levi s 511 Slim Fit Jeans Durian Od Subtle 33W / 34L Homme'
 sku: 'B07KF6ZBHX-fr'
-tags: [  ]
 actualPrice: 67.98 EUR
 currency: EUR
 price: 67.98

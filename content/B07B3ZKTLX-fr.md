@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B3ZKTLX-fr Playmobil - Atelier de Biscuit du Père Noël avec Moules -...'
 sku: 'B07B3ZKTLX-fr'
-tags: [  ]
 actualPrice: 30.18 EUR
 currency: EUR
 price: 30.18

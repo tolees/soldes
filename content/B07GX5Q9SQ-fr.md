@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GX5Q9SQ-fr The Handmaid s Tale : La Servante écarlate-Saison 2 [Blu-Ray]'
 sku: 'B07GX5Q9SQ-fr'
-tags: [  ]
 actualPrice: 9.05 EUR
 currency: EUR
 price: 9.05

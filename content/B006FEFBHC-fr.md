@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B006FEFBHC-fr RICOO R23-S Support Murale TV Orientable Inclinable...'
 sku: 'B006FEFBHC-fr'
-tags: [  ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D919MTW-fr ELYCO Manette pour Switch 2er-Set Wireless sans Fil...'
 sku: 'B08D919MTW-fr'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

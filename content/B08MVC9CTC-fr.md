@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MVC9CTC-fr OPPO Enco X Blanc Ecouteurs Bluetooth sans Fil avec...'
 sku: 'B08MVC9CTC-fr'
-tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

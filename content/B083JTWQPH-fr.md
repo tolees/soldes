@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083JTWQPH-fr Lacoste NH3307LV Sacoche Homme Noir Taille Unique'
 sku: 'B083JTWQPH-fr'
-tags: [ 'Sacs bandoulière homme','lacoste', ]
 actualPrice: 61.75 EUR
 currency: EUR
 price: 61.75

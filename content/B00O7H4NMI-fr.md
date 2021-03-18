@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00O7H4NMI-fr Siméo FC465 Appareil à hot-dog'
 sku: 'B00O7H4NMI-fr'
-tags: [  ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

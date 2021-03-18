@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2GTXYA-fr Wow Wee MIP Robot Jouets télécommandés AAA Android iOS'
 sku: 'B01N2GTXYA-fr'
-tags: [  ]
 actualPrice: 45.87 EUR
 currency: EUR
 price: 45.87

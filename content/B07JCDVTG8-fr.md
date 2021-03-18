@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JCDVTG8-fr Riviera-et-Bar BBT380 Bouilloire double paroi à...'
 sku: 'B07JCDVTG8-fr'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

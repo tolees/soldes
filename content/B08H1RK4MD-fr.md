@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1RK4MD-fr Pickwoo - Robot Enfant Jouet - Robot Programmable...'
 sku: 'B08H1RK4MD-fr'
-tags: [  ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

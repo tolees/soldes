@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076QB7HD1-fr Dunkerque - Édition Limitée SteelBook - 4K Ultra HD [4K...'
 sku: 'B076QB7HD1-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

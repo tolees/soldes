@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZWOUH4S-fr Logitech G Driving Force Levier de Vitesse pour Volant de...'
 sku: 'B00ZWOUH4S-fr'
-tags: [ 'logitech g', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

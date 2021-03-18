@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNMXFQF-fr LEGO®-Technic Le bolide télécommandé Jeu de construction 9...'
 sku: 'B07FNMXFQF-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081NC75NV-fr Android 9.0 TV Box【4G+32G】 Android TV Box H6 Quadcore...'
 sku: 'B081NC75NV-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

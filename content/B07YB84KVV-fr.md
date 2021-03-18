@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YB84KVV-fr Salewa MS Mountain Trainer Lite Mid Gore-TEX Chaussures de...'
 sku: 'B07YB84KVV-fr'
-tags: [  ]
 actualPrice: 99.95 EUR
 currency: EUR
 price: 99.95

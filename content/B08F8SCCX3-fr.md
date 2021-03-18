@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F8SCCX3-fr Écouteurs sans Fil Bluetooth avec réduction de Bruit...'
 sku: 'B08F8SCCX3-fr'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07G3S3M9J-fr LEGO Harry Potter™ La tour de l’horloge de Poudlard 9 Ans...'
 sku: 'B07G3S3M9J-fr'
-tags: [ 'Jeux de construction','lego', ]
 actualPrice: 81.99 EUR
 currency: EUR
 price: 81.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NFKVYDZ-fr Kipling LICIA Cartable 49 cm 20 liters Multicolore Hearty...'
 sku: 'B07NFKVYDZ-fr'
-tags: [  ]
 actualPrice: 91.51 EUR
 currency: EUR
 price: 91.51

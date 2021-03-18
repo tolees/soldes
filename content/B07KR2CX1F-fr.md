@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KR2CX1F-fr SP Silicon Power - Silicon Power SSD 256Go 3D NAND A55 SLC...'
 sku: 'B07KR2CX1F-fr'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

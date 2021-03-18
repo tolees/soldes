@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QZR9ZM8-fr YCCTEAM - Alimentation pour Xbox One Version Nouvelle AC...'
 sku: 'B07QZR9ZM8-fr'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

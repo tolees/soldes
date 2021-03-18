@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N0SG36A-fr FIBARO Homekit enabled Multisensor/ Détecteur de Mouvement'
 sku: 'B01N0SG36A-fr'
-tags: [  ]
 actualPrice: 41.73 EUR
 currency: EUR
 price: 41.73

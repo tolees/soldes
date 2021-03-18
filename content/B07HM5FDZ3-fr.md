@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HM5FDZ3-fr RHINO ELEKTRA - Legacy Coffret 15 Lps'
 sku: 'B07HM5FDZ3-fr'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

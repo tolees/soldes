@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P7KR8HX-fr Playmobil - Garage Automobile - 70202'
 sku: 'B07P7KR8HX-fr'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

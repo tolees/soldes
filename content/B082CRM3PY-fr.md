@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082CRM3PY-fr RUNACC Sac à dos étanche de 20 L avec étui étanche pour...'
 sku: 'B082CRM3PY-fr'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

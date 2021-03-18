@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07C128DGP-fr MILcea Mandoline de Cuisine Acier Inoxydable Multifonction...'
 sku: 'B07C128DGP-fr'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

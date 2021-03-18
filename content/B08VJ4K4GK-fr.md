@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJ4K4GK-fr eXtremeRate D-Pad R1 L1 R2 L2 Triggers Options Share Face...'
 sku: 'B08VJ4K4GK-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

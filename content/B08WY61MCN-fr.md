@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WY61MCN-fr Nintendo - Hades Edition Limitée'
 sku: 'B08WY61MCN-fr'
-tags: [  ]
 actualPrice: 30.85 EUR
 currency: EUR
 price: 30.85

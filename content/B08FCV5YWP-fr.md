@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCV5YWP-fr PDP Casque LVL40 Stereo Nintendo Switch Noir'
 sku: 'B08FCV5YWP-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08672CXKC-fr PROTAURI Ensemble de bandes de Résistance 11pcs Bandes d...'
 sku: 'B08672CXKC-fr'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

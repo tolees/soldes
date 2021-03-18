@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ARBQ9ZW-fr Chicco Recharges Soft pour Aspirateur Nasal Soft and Easy...'
 sku: 'B00ARBQ9ZW-fr'
-tags: [  ]
 actualPrice: 5.02 EUR
 currency: EUR
 price: 5.02

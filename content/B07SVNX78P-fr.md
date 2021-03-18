@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVNX78P-fr ROCCAT Kain 120 AIMO Souris Gaming RGB nouveau capteur...'
 sku: 'B07SVNX78P-fr'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

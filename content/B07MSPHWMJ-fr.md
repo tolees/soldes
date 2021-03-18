@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MSPHWMJ-fr Hackett Army Polo Fzip Gilet Vert Forest Green 682 X-Large...'
 sku: 'B07MSPHWMJ-fr'
-tags: [  ]
 actualPrice: 115.66 EUR
 currency: EUR
 price: 115.66

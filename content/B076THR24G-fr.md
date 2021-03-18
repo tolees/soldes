@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076THR24G-fr Retro Games Ltd - The C64 Mini'
 sku: 'B076THR24G-fr'
-tags: [ 'Casques de réalité virtuelle pour PC','Commodore 64: Jeux, consoles et accessoires','Consoles pour Commodore 64','Consoles rétro et mini consoles','Jeux vidéo','PC: Jeux et accessoires','Systèmes de réalité virtuelle pour PC','retro games ltd', ]
 actualPrice: 39.64 EUR
 currency: EUR
 price: 39.64

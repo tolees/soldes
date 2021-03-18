@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DR1YMMJ-fr Lonheo Mitigeur Cuisine Rabattable Pivotant à 360° Robinet...'
 sku: 'B08DR1YMMJ-fr'
-tags: [  ]
 actualPrice: 41.64 EUR
 currency: EUR
 price: 41.64

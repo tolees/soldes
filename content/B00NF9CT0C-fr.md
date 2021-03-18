@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NF9CT0C-fr Lékué Popcorn Maker Silicone Pliable'
 sku: 'B00NF9CT0C-fr'
-tags: [  ]
 actualPrice: 14.27 EUR
 currency: EUR
 price: 14.27

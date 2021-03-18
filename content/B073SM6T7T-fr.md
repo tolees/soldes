@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B073SM6T7T-fr Snow'
 sku: 'B073SM6T7T-fr'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

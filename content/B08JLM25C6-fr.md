@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JLM25C6-fr U&I Entertainment - Godfall Deluxe Edition PS5'
 sku: 'B08JLM25C6-fr'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

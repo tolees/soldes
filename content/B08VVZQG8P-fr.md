@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VVZQG8P-fr eXtremeRate PlayVital Housse Grip Antidérapant Absorbant...'
 sku: 'B08VVZQG8P-fr'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

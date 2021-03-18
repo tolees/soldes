@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PP2FDTJ-fr TURATA Ciseaux de Cuisine Multifonction INOX Ultra-...'
 sku: 'B08PP2FDTJ-fr'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

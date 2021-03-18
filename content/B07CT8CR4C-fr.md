@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CT8CR4C-fr KEEN Explore Mid IMPERMÉABLE Chaussures de Randonnée...'
 sku: 'B07CT8CR4C-fr'
-tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

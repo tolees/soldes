@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VNCB13N-fr JL FUTURE Manette de jeu PS4 sans fil haute performance...'
 sku: 'B08VNCB13N-fr'
-tags: [  ]
 actualPrice: 39.1 EUR
 currency: EUR
 price: 39.1

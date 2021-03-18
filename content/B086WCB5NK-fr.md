@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086WCB5NK-fr Sntieecr Circuit Électrique Kit DC Moteur Kit Science...'
 sku: 'B086WCB5NK-fr'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

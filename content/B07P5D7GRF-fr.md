@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P5D7GRF-fr NICOLE & DORIS Femme Sac à main Sac à Bandoulière Sac D...'
 sku: 'B07P5D7GRF-fr'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HMRY8NG-fr AGPTEK Montre Connectée Femme Smartwatch Bluetooth 5.0...'
 sku: 'B08HMRY8NG-fr'
-tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

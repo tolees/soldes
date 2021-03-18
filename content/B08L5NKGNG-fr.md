@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L5NKGNG-fr Apple Porte-Cartes en Cuir avec MagSafe pour iPhone - Noir'
 sku: 'B08L5NKGNG-fr'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

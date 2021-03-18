@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N68RHKK-fr Symiu - Mosaique Enfant Puzzle 3D Construction Enfant Jeu...'
 sku: 'B07N68RHKK-fr'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

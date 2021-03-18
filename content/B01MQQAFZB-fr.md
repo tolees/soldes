@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQQAFZB-fr BRITA Cartouche Filtrante pour Carafe MAXTRA+ Haute...'
 sku: 'B01MQQAFZB-fr'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

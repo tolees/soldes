@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KM8QF58-fr Nike NK ELMNTL BKPK - 2.0 BLACK/BLACK/WHITE 1size'
 sku: 'B07KM8QF58-fr'
-tags: [  ]
 actualPrice: 19.55 EUR
 currency: EUR
 price: 19.55

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P6FKVGV-fr Playmobil - Chambre de Bébé - 70210'
 sku: 'B07P6FKVGV-fr'
-tags: [  ]
 actualPrice: 12.6 EUR
 currency: EUR
 price: 12.6

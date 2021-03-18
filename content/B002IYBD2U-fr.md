@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002IYBD2U-fr Pentel LR7 Recharges pour Rollers Energel Pentel...'
 sku: 'B002IYBD2U-fr'
-tags: [  ]
 actualPrice: 9.95 EUR
 currency: EUR
 price: 9.95

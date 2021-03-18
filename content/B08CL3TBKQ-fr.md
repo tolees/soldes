@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CL3TBKQ-fr Android 10 Smartphone Pas Cher 4G Portable Ulefone Note 8P...'
 sku: 'B08CL3TBKQ-fr'
-tags: [  ]
 actualPrice: 63.73 EUR
 currency: EUR
 price: 63.73

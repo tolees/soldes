@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFFX5MD-fr Western Digital - WD Bleu SN550 1 To SSD NVMe Gén. 3 x4...'
 sku: 'B07YFFX5MD-fr'
-tags: [  ]
 actualPrice: 96.99 EUR
 currency: EUR
 price: 96.99

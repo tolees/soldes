@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0867WPLKD-fr Hatteker hommes tondeuse à cheveux tondeuse à barbe kit de...'
 sku: 'B0867WPLKD-fr'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

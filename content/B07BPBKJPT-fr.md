@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BPBKJPT-fr Boite Lumineuse Message avec 300 Lettres et Emojis...'
 sku: 'B07BPBKJPT-fr'
-tags: [  ]
 actualPrice: 19.19 EUR
 currency: EUR
 price: 19.19

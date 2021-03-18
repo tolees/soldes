@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06VSS2NRP-fr SanDisk Ultra 256Go Dual Drive m3.0 Clé double connectique...'
 sku: 'B06VSS2NRP-fr'
-tags: [  ]
 actualPrice: 34.48 EUR
 currency: EUR
 price: 34.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QXQ1TV-fr Samsung 870 QVO 1 To 2 5 SATA III SSD interne MZ-77Q1T0BW'
 sku: 'B089QXQ1TV-fr'
-tags: [  ]
 actualPrice: 89.0 EUR
 currency: EUR
 price: 89.0

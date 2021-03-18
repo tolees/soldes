@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HHPJQ14-fr Hoover BR71 BR30 Aspirateur traineau sans sac cyclonique...'
 sku: 'B01HHPJQ14-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

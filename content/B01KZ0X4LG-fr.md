@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01KZ0X4LG-fr BLACK & DECKER FSMH1321JMD-QS Balai Vapeur avec Nettoyeur...'
 sku: 'B01KZ0X4LG-fr'
-tags: [  ]
 actualPrice: 137.23 EUR
 currency: EUR
 price: 137.23

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ24CLS-fr Disque Dur Externe 1to Type C USB3.1 pour PC Mac...'
 sku: 'B08DJ24CLS-fr'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

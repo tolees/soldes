@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WKKS4HB-fr DOQAUS Thermomètre Cuisine 3s Lecture instantané...'
 sku: 'B07WKKS4HB-fr'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

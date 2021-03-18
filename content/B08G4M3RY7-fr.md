@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4M3RY7-fr Esjay Busy Board pour Enfants Jeux Montessori pour...'
 sku: 'B08G4M3RY7-fr'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

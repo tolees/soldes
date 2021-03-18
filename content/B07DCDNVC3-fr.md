@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DCDNVC3-fr PUMA Cali Wn s Baskets Femme White White 39 EU'
 sku: 'B07DCDNVC3-fr'
-tags: [  ]
 actualPrice: 62.51 EUR
 currency: EUR
 price: 62.51

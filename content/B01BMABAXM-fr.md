@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BMABAXM-fr Einhell Visseuse Clé à chocs CC-IW 950 950 W Longueur...'
 sku: 'B01BMABAXM-fr'
-tags: [  ]
 actualPrice: 64.52 EUR
 currency: EUR
 price: 64.52

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BNQX32Z-fr SOOTEWAY Répéteur WiFi Booster 300Mbps Extenseur sans Fil...'
 sku: 'B08BNQX32Z-fr'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

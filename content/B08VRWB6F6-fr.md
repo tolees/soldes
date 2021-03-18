@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRWB6F6-fr PlayVital White Knight Edition Coque antidérapante en...'
 sku: 'B08VRWB6F6-fr'
-tags: [  ]
 actualPrice: 20.29 EUR
 currency: EUR
 price: 20.29

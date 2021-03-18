@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KVYS3R7-fr Playmobil Volkswagen T1 Combi 70176'
 sku: 'B08KVYS3R7-fr'
-tags: [  ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

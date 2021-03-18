@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DH729VH-fr Casque Gamer EKSA E900 Casque PS4 Micro Casque Gaming PC...'
 sku: 'B08DH729VH-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

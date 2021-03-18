@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DS2X4GB-fr MaxTronic - Voiture Télécommandée 60Min d’Autonomie pour...'
 sku: 'B08DS2X4GB-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

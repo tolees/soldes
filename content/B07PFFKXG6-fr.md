@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PFFKXG6-fr Amazon - Echo Dot 3ème génération Reconditionné Certifié...'
 sku: 'B07PFFKXG6-fr'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

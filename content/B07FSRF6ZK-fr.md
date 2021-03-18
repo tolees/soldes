@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07FSRF6ZK-fr Philips HD6564/61 Machine à café à Dosettes SENSEO Viva...'
 sku: 'B07FSRF6ZK-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

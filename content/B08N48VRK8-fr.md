@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N48VRK8-fr NAIXUES Montre Connectée Femmes IP68 Full Tactile 24 Modes...'
 sku: 'B08N48VRK8-fr'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

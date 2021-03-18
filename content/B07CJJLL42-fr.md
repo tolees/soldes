@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CJJLL42-fr SONY- Pack HX60 + Batterie Rechargeable'
 sku: 'B07CJJLL42-fr'
-tags: [  ]
 actualPrice: 286.98 EUR
 currency: EUR
 price: 286.98

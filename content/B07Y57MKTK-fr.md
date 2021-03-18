@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y57MKTK-fr Mirakle - Portefeuille Homme Cuir Véritable avec RFID...'
 sku: 'B07Y57MKTK-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

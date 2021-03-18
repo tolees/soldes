@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HQ8PJG8-fr lenbest Jouet Bebe - 3D Puzzles en Bois Fond Vif Animaux...'
 sku: 'B08HQ8PJG8-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

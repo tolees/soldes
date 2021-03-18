@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00RFH1Z2I-fr Les Tropéziennes par M. Belarbi HAMAT Sandales Femme Noir...'
 sku: 'B00RFH1Z2I-fr'
-tags: [  ]
 actualPrice: 54.04 EUR
 currency: EUR
 price: 54.04

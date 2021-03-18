@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VYK3TVX-fr Sntieecr Kit 4 Ensembles Construction de Robots Circuit...'
 sku: 'B07VYK3TVX-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

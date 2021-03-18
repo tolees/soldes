@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N4CWW23-fr Ryobi r18js7 – 0 scie sans balais 18 V'
 sku: 'B07N4CWW23-fr'
-tags: [ 'Bricolage','Outillage à main et électroportatif','Outillage électroportatif','Scies circulaires électriques','Scies électriques','ryobi', ]
 actualPrice: 111.82 EUR
 currency: EUR
 price: 111.82

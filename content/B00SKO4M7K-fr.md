@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SKO4M7K-fr PENTAX SP 10X50 : jumelles à prismes de Porro dotées de...'
 sku: 'B00SKO4M7K-fr'
-tags: [  ]
 actualPrice: 96.3 EUR
 currency: EUR
 price: 96.3

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08N6WBCYY-fr Ubisoft - Just Dance 2021 - FR'
 sku: 'B08N6WBCYY-fr'
-tags: [ 'Jeux pour Nintendo Switch','ubisoft', ]
 actualPrice: 39.89 EUR
 currency: EUR
 price: 39.89

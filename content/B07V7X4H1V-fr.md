@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V7X4H1V-fr Morgan 201-pom.p Hose Femme Bleu Jean Stone 40'
 sku: 'B07V7X4H1V-fr'
-tags: [  ]
 actualPrice: 31.29 EUR
 currency: EUR
 price: 31.29

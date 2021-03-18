@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HLSFMQ8-fr Sony SEL24F14GM FE 24 mm f/1.4 GM | Objectif Plein format...'
 sku: 'B07HLSFMQ8-fr'
-tags: [  ]
 actualPrice: 1168.9 EUR
 currency: EUR
 price: 1168.9

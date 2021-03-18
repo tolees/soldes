@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088LZC3DM-fr Pickwoo - 13 en 1 Robot Jouet Enfant 203 PièCes - Kit...'
 sku: 'B088LZC3DM-fr'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

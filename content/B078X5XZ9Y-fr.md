@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078X5XZ9Y-fr Sony HT-ZF9 barre de son 3.1ch Dolby Atmos/DTS:X Vertical...'
 sku: 'B078X5XZ9Y-fr'
-tags: [  ]
 actualPrice: 599.0 EUR
 currency: EUR
 price: 599.0

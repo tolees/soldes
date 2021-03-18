@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084CJ96GT-fr SanDisk MAX ENDURANCE Carte microSDHC 64Go + Adaptateur SD...'
 sku: 'B084CJ96GT-fr'
-tags: [ 'sandisk', ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

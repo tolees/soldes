@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D5QCF39-fr Suunto 9 Baro Montre GPS avec Batterie Longue Durée et...'
 sku: 'B07D5QCF39-fr'
-tags: [  ]
 actualPrice: 435.44 EUR
 currency: EUR
 price: 435.44

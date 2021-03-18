@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B075S3NNK5-fr GORE Wear C5 Homme Veste de cyclisme GORE-TEX S Noir/Rouge'
 sku: 'B075S3NNK5-fr'
-tags: [  ]
 actualPrice: 162.94 EUR
 currency: EUR
 price: 162.94

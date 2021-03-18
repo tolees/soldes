@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C6JQFPT-fr Coffret 3 Films : Matrix + Blade Runner + 2001 : l odyssée...'
 sku: 'B08C6JQFPT-fr'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001OMVIRM-fr Hoover H 60 4 Sacs Aspirateur Freemotion Anti-odeur'
 sku: 'B001OMVIRM-fr'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

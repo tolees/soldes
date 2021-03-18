@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FCMBLV6-fr Carte Mémoire MicroSDXC SanDisk Extreme 64 Go + Adaptateur...'
 sku: 'B07FCMBLV6-fr'
-tags: [  ]
 actualPrice: 13.24 EUR
 currency: EUR
 price: 13.24

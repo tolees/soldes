@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0089BUVG0-fr Sony DSC-RX100 Appareil Photo Expert Large Capteur 1 CMOS...'
 sku: 'B0089BUVG0-fr'
-tags: [  ]
 actualPrice: 345.89 EUR
 currency: EUR
 price: 345.89

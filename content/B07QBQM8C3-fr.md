@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QBQM8C3-fr Funko Pop! Bobble Vinyle Marvel: Holiday - Captain America...'
 sku: 'B07QBQM8C3-fr'
-tags: [  ]
 actualPrice: 7.41 EUR
 currency: EUR
 price: 7.41

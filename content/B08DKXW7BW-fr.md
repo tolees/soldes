@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKXW7BW-fr Xiaomi Mi True Wireless Earphones 2S Casque sans Fil avec...'
 sku: 'B08DKXW7BW-fr'
-tags: [  ]
 actualPrice: 65.11 EUR
 currency: EUR
 price: 65.11

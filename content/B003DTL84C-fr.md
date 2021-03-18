@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B003DTL84C-fr Thule EuroRide 2 13-pin Porte-vélos sur boule d attelage...'
 sku: 'B003DTL84C-fr'
-tags: [  ]
 actualPrice: 243.41 EUR
 currency: EUR
 price: 243.41

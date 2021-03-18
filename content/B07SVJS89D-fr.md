@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SVJS89D-fr Geox Gar on J Android Boy C Sneakers Basses Bleu Navy Red...'
 sku: 'B07SVJS89D-fr'
-tags: [  ]
 actualPrice: 29.5 EUR
 currency: EUR
 price: 29.5

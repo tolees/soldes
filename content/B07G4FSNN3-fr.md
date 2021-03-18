@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G4FSNN3-fr Lacoste Hommes Analogique Quartz Montre avec Bracelet en...'
 sku: 'B07G4FSNN3-fr'
-tags: [  ]
 actualPrice: 82.5 EUR
 currency: EUR
 price: 82.5

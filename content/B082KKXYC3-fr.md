@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082KKXYC3-fr VKK Brosse Lissante Chauffante - Peigne Ionique de...'
 sku: 'B082KKXYC3-fr'
-tags: [  ]
 actualPrice: 29.7 EUR
 currency: EUR
 price: 29.7

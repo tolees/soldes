@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GS4FTL6-fr Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive...'
 sku: 'B08GS4FTL6-fr'
-tags: [ 'SSD internes','samsung', ]
 actualPrice: 140.34 EUR
 currency: EUR
 price: 140.34

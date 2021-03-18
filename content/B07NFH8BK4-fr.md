@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NFH8BK4-fr Focus A Plague Tale : Innocence'
 sku: 'B07NFH8BK4-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

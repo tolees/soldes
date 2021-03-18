@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PC5ZYB1-fr Samsung SSD 870 Evo 2 to Facteur de Forme 2.5 Pouces...'
 sku: 'B08PC5ZYB1-fr'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

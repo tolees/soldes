@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082X19RCK-fr Epilateur à Lumière Pulsée Veme Indolore IPL Épilation...'
 sku: 'B082X19RCK-fr'
-tags: [ 'eme','Épilateurs à lumière pulsée', ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

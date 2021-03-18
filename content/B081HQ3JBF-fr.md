@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081HQ3JBF-fr Playmobil - Scooby-Doo! Histoires dans Le Manoir Hanté -...'
 sku: 'B081HQ3JBF-fr'
-tags: [ 'Coffrets de figurines daction pour enfants','playmobil', ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

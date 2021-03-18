@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D9BGBB9-fr Merrell Moab 2 GTX Chaussures de Randonnée Basses Femme...'
 sku: 'B07D9BGBB9-fr'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

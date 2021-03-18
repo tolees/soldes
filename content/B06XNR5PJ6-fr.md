@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XNR5PJ6-fr Six Feet Under Six pieds sous terre - The Complete...'
 sku: 'B06XNR5PJ6-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

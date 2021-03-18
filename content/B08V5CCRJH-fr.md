@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V5CCRJH-fr eXtremeRate Coques Avant et Arrière avec Poignées Grips...'
 sku: 'B08V5CCRJH-fr'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

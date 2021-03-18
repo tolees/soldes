@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WYS5K6-fr Western Digital - WD Green 240Go Internal SSD M.2 SATA'
 sku: 'B078WYS5K6-fr'
-tags: [  ]
 actualPrice: 32.9 EUR
 currency: EUR
 price: 32.9

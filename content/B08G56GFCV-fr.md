@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G56GFCV-fr LEGO Creator 3-en-1 31113 Le transporteur de voitures de...'
 sku: 'B08G56GFCV-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

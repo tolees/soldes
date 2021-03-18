@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQF7PX1-fr Kipling Class Room S Luggage Robot Camo Blue'
 sku: 'B07YQF7PX1-fr'
-tags: [  ]
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

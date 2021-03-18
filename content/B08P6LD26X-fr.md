@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P6LD26X-fr LETOMY Jouets de Bain pour bébé 10 pièces Jouet de Bain...'
 sku: 'B08P6LD26X-fr'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

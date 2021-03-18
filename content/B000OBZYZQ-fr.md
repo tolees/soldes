@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000OBZYZQ-fr Steinel interrupteur crépusculaire NightMatic 2000 Noir –...'
 sku: 'B000OBZYZQ-fr'
-tags: [  ]
 actualPrice: 21.77 EUR
 currency: EUR
 price: 21.77

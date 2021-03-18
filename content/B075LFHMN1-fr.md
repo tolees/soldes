@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075LFHMN1-fr Calor Centrale Vapeur Haute Pression Pro Express Ultimate...'
 sku: 'B075LFHMN1-fr'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

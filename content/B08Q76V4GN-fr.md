@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Q76V4GN-fr cooidea - Double Guirlande Lumineuse 2 * 300LED 2 * 30M /...'
 sku: 'B08Q76V4GN-fr'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

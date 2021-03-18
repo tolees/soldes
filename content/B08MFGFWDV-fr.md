@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MFGFWDV-fr One PETS-TOP - Lit Coussin Chien Chat Apaisant 50cm DODO...'
 sku: 'B08MFGFWDV-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

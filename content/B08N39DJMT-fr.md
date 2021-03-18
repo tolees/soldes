@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N39DJMT-fr Amazon - Nouvel Echo Dot 4e génération Anthracite + TP-...'
 sku: 'B08N39DJMT-fr'
-tags: [  ]
 actualPrice: 59.89 EUR
 currency: EUR
 price: 59.89

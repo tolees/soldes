@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WQC2GQ-fr Samsung MZ-N6E250BW SSD Interne 860 EVO - M.2 - 250 GO'
 sku: 'B078WQC2GQ-fr'
-tags: [  ]
 actualPrice: 33.07 EUR
 currency: EUR
 price: 33.07

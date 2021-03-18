@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084J4QQFT-fr Amazon - Nouvel Echo Dot 4e génération Enceinte connectée...'
 sku: 'B084J4QQFT-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PFG54H7-fr Amazon - Découvrez Echo Flex Contrôlez les appareils...'
 sku: 'B07PFG54H7-fr'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

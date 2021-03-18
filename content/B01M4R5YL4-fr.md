@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M4R5YL4-fr YCCTEAM - Alimentation pour Xbox One AC Adaptateur Secteur...'
 sku: 'B01M4R5YL4-fr'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BRW0EHY-fr Jacob Delafon E72090-CP FAIRFAX Mitigeur de lavabo avec...'
 sku: 'B00BRW0EHY-fr'
-tags: [  ]
 actualPrice: 131.03 EUR
 currency: EUR
 price: 131.03

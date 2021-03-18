@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TR7K2K9-fr Lacoste Boxer - 5H3389 - Homme Lot de 3 Noir Noir/Blanc-...'
 sku: 'B07TR7K2K9-fr'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DG7FB61-fr SanDisk Carte microSDXC UHS-I pour Nintendo Switch 512 Go...'
 sku: 'B08DG7FB61-fr'
-tags: [  ]
 actualPrice: 140.99 EUR
 currency: EUR
 price: 140.99

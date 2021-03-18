@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0143RTB1E-fr Carte Mémoire SDHC 16 Go SanDisk Ultra jusqu à 80 Mo/s...'
 sku: 'B0143RTB1E-fr'
-tags: [  ]
 actualPrice: 5.52 EUR
 currency: EUR
 price: 5.52

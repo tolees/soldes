@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0896NHKF8-fr Captain Tsubasa: Rise of New Champions - Edition Collector...'
 sku: 'B0896NHKF8-fr'
-tags: [  ]
 actualPrice: 123.53 EUR
 currency: EUR
 price: 123.53

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K3KC5CP-fr Xiaomi PFJ4086EU - Mi Box S - Boitier TV Multimedia...'
 sku: 'B07K3KC5CP-fr'
-tags: [  ]
 actualPrice: 57.0 EUR
 currency: EUR
 price: 57.0

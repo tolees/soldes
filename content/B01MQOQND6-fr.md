@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MQOQND6-fr Puma Basket Heart Patent Baskets Basses Femme Blanc White-...'
 sku: 'B01MQOQND6-fr'
-tags: [  ]
 actualPrice: 30.29 EUR
 currency: EUR
 price: 30.29

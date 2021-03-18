@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BZK2ZJF-fr SUERW Tondeuse Cheveux Hommes Tondeuse Barbe de Précision...'
 sku: 'B08BZK2ZJF-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

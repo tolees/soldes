@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074Z9PXD1-fr Festina Montres Bracelet F20338/3'
 sku: 'B074Z9PXD1-fr'
-tags: [  ]
 actualPrice: 61.53 EUR
 currency: EUR
 price: 61.53

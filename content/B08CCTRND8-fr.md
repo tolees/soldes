@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CCTRND8-fr Bougies Parfumée Ensemble Cadeau Eleanore s Diary Noël...'
 sku: 'B08CCTRND8-fr'
-tags: [  ]
 actualPrice: 13.65 EUR
 currency: EUR
 price: 13.65

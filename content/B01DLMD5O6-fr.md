@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DLMD5O6-fr Sony SEL 50-F18F Objectif 50 mm Ouverture F1.8 pour...'
 sku: 'B01DLMD5O6-fr'
-tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

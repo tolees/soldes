@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G18S3ZY-fr WiFi Ruban LED 20M RGB Musique HOVVIDA Compatible avec...'
 sku: 'B08G18S3ZY-fr'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

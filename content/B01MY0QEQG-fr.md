@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MY0QEQG-fr Reebok Club C 85 Sneakers Basses Homme - Blanc Intense...'
 sku: 'B01MY0QEQG-fr'
-tags: [  ]
 actualPrice: 31.0 EUR
 currency: EUR
 price: 31.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QXXXDCT-fr Wrangler Flare Jean évasé Bleu Authentic Dark 080 W30/L32...'
 sku: 'B07QXXXDCT-fr'
-tags: [  ]
 actualPrice: 43.98 EUR
 currency: EUR
 price: 43.98

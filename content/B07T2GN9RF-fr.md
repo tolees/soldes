@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2GN9RF-fr Warner Bros. - Gilmore Girls-Saisons 1 à 7'
 sku: 'B07T2GN9RF-fr'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

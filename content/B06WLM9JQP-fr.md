@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WLM9JQP-fr ZACO A4s – Aspirateur robot intelligent avec 2 modes de...'
 sku: 'B06WLM9JQP-fr'
-tags: [  ]
 actualPrice: 163.5 EUR
 currency: EUR
 price: 163.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00K3OM4E8-fr sans marque - Harry Potter - l Intégrale des 8 Films - Le...'
 sku: 'B00K3OM4E8-fr'
-tags: [  ]
 actualPrice: 14.95 EUR
 currency: EUR
 price: 14.95

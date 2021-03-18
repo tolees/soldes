@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07B1XB8N6-fr Skechers Women s Go Walk Evolution Ultra-Reach Slip On...'
 sku: 'B07B1XB8N6-fr'
-tags: [  ]
 actualPrice: 49.95 EUR
 currency: EUR
 price: 49.95

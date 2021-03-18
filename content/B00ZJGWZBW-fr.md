@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00ZJGWZBW-fr Emerson - Vertiv Liebert GXT4-3000RT230E - Onduleur...'
 sku: 'B00ZJGWZBW-fr'
-tags: [  ]
 actualPrice: 686.16 EUR
 currency: EUR
 price: 686.16

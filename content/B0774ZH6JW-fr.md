@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0774ZH6JW-fr Brooks Brothers 100097653 Short Beige Beige 275 48 Taille...'
 sku: 'B0774ZH6JW-fr'
-tags: [  ]
 actualPrice: 38.45 EUR
 currency: EUR
 price: 38.45

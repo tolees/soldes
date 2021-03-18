@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y5RVP18-fr Accessoire iRobot Roomba - 1 Mur Virtuel Double Fonction'
 sku: 'B06Y5RVP18-fr'
-tags: [  ]
 actualPrice: 36.5 EUR
 currency: EUR
 price: 36.5

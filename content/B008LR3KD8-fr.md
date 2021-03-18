@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008LR3KD8-fr Philips - HF3520/01 - Eveil Lumière avec Lampe LED -...'
 sku: 'B008LR3KD8-fr'
-tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

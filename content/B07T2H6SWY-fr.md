@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T2H6SWY-fr Friends-L intégrale-Saisons 1 à 10 [Édition 25ème...'
 sku: 'B07T2H6SWY-fr'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00T7MYLJI-fr Foscam FI9816P – Caméra IP Wi-Fi intérieure motorisée – HD...'
 sku: 'B00T7MYLJI-fr'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

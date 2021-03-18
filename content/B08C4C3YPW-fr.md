@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C4C3YPW-fr La Collection James Bond-Coffret Roger Moore [Blu-Ray]'
 sku: 'B08C4C3YPW-fr'
-tags: [  ]
 actualPrice: 20.0 EUR
 currency: EUR
 price: 20.0

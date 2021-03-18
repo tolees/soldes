@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085CXYPFZ-fr Braun Series 5 50-M4500cs Rasoir Électrique Homme Avec...'
 sku: 'B085CXYPFZ-fr'
-tags: [  ]
 actualPrice: 112.42 EUR
 currency: EUR
 price: 112.42

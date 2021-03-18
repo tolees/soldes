@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DCTCZ2K-fr Clydek Transmetteurs FM Voiture Adaptateur Autoradio sans...'
 sku: 'B08DCTCZ2K-fr'
-tags: [  ]
 actualPrice: 21.24 EUR
 currency: EUR
 price: 21.24

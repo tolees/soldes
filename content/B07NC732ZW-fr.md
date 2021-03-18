@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC732ZW-fr Disney Pixar Toy Story 4 Coffret Aventure Figurines...'
 sku: 'B07NC732ZW-fr'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

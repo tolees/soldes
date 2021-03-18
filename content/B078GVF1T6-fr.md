@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GVF1T6-fr COLAB Shampooing Sec Licorne'
 sku: 'B078GVF1T6-fr'
-tags: [ 'Shampooings secs','colab', ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7

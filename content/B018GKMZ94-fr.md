@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B018GKMZ94-fr Mauboussin - Eau de Parfum Femme - Promise Me - Senteur...'
 sku: 'B018GKMZ94-fr'
-tags: [ 'Eau de parfum femme','mauboussin', ]
 actualPrice: 30.83 EUR
 currency: EUR
 price: 30.83

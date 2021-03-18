@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNGRRB6-fr Nike Court Borough Low 2 Chaussures de Basketball Homme...'
 sku: 'B07VNGRRB6-fr'
-tags: [  ]
 actualPrice: 31.45 EUR
 currency: EUR
 price: 31.45

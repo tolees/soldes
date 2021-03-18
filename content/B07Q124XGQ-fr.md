@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q124XGQ-fr TV LED Full HD 3D 82 cm LG 32LM6300 - Téléviseur LCD 32...'
 sku: 'B07Q124XGQ-fr'
-tags: [  ]
 actualPrice: 301.98 EUR
 currency: EUR
 price: 301.98

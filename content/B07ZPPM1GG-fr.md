@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZPPM1GG-fr Ice-Watch - Ice Star White Deep Blue - Montre Blanche pour...'
 sku: 'B07ZPPM1GG-fr'
-tags: [  ]
 actualPrice: 53.75 EUR
 currency: EUR
 price: 53.75

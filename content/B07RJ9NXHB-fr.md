@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RJ9NXHB-fr Passager du Réel'
 sku: 'B07RJ9NXHB-fr'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

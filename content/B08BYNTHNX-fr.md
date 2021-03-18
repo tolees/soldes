@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BYNTHNX-fr Caméra Surveillance WiFi Netvue 1080P Caméra Intérieure...'
 sku: 'B08BYNTHNX-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

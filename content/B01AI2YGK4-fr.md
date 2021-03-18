@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AI2YGK4-fr NB North Bayou Monitor Desk Mount Stand Bras de Moniteur à...'
 sku: 'B01AI2YGK4-fr'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

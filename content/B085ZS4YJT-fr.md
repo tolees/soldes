@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085ZS4YJT-fr KLIM Light V2 Clavier sans Fil AZERTY FR + Fin Ergonomique...'
 sku: 'B085ZS4YJT-fr'
-tags: [  ]
 actualPrice: 44.97 EUR
 currency: EUR
 price: 44.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001HFCPUK-fr Pandora - 59702-23HV - Bracelet Femme - Argent 925/1000 23 cm'
 sku: 'B001HFCPUK-fr'
-tags: [  ]
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

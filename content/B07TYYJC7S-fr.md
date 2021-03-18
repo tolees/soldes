@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TYYJC7S-fr BRIKSMAX Kit de LED pour Lego Architecture Trafalgar...'
 sku: 'B07TYYJC7S-fr'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

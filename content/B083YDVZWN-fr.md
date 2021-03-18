@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083YDVZWN-fr Garnier Fructis Hair Food Démêlant Hydratant à l Aloe Vera...'
 sku: 'B083YDVZWN-fr'
-tags: [  ]
 actualPrice: 3.45 EUR
 currency: EUR
 price: 3.45

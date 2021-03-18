@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q2S1M6H-fr Hatteker Tondeuse Barbe Tondeuse Cheveux Hommes Rasoir...'
 sku: 'B07Q2S1M6H-fr'
-tags: [  ]
 actualPrice: 32.29 EUR
 currency: EUR
 price: 32.29

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MF9Q21L-fr Sony SRS-XB12 Enceinte Bluetooth Portable Extra Bass...'
 sku: 'B07MF9Q21L-fr'
-tags: [  ]
 actualPrice: 42.5 EUR
 currency: EUR
 price: 42.5

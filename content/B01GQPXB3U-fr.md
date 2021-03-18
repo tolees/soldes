@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01GQPXB3U-fr PNY CS1050 Elite 480 Go SSD externe - USB 3.1'
 sku: 'B01GQPXB3U-fr'
-tags: [  ]
 actualPrice: 64.07 EUR
 currency: EUR
 price: 64.07

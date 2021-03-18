@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PCYWT3D-fr Prise Connectée WiFi EU Meross Prise Intelligente...'
 sku: 'B08PCYWT3D-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

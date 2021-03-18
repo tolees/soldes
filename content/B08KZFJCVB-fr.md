@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KZFJCVB-fr Goowls Caméra de Surveillance WiFi Extérieure 1080P Video...'
 sku: 'B08KZFJCVB-fr'
-tags: [  ]
 actualPrice: 52.99 EUR
 currency: EUR
 price: 52.99

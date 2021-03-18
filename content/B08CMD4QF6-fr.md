@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMD4QF6-fr VATOS Voiture Télécommandée de Construction Jouets 6 7 8 9...'
 sku: 'B08CMD4QF6-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

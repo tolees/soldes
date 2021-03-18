@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q3FF8HS-fr Sylvanian Families - Le Village - La Grande Maison de...'
 sku: 'B07Q3FF8HS-fr'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

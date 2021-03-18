@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R87F8CS-fr Gozlu 5 Paires Chaussette Hommes de Sport Anti-Ampoules...'
 sku: 'B08R87F8CS-fr'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

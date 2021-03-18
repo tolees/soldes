@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078N1DBY9-fr XIKEZAN - Kit de Barbe Homme Complet Coffret Barbe avec...'
 sku: 'B078N1DBY9-fr'
-tags: [  ]
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

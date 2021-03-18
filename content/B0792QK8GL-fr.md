@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792QK8GL-fr LEGO Harry Potter - Le Saule Cogneur du château de...'
 sku: 'B0792QK8GL-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

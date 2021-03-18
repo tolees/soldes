@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R5FB7S8-fr LADUO Maison de poupée avec 49 Accessoires de Meubles et...'
 sku: 'B08R5FB7S8-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

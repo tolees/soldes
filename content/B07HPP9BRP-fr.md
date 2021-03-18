@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HPP9BRP-fr Marshall Acton II Haut-parleur Bluetooth - Noir EU'
 sku: 'B07HPP9BRP-fr'
-tags: [  ]
 actualPrice: 200.75 EUR
 currency: EUR
 price: 200.75

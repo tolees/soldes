@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NV8G4TK-fr Téléphone Portable Incassable Blackview BV4900 Pro Android...'
 sku: 'B08NV8G4TK-fr'
-tags: [  ]
 actualPrice: 139.99 EUR
 currency: EUR
 price: 139.99

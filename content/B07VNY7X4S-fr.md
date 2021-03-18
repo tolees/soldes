@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VNY7X4S-fr FITUEYES Meuble TV Pied avec 3 Etagères Support Pivotant...'
 sku: 'B07VNY7X4S-fr'
-tags: [  ]
 actualPrice: 72.16 EUR
 currency: EUR
 price: 72.16

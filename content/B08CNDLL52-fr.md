@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CNDLL52-fr Telephone Portable Android 10 Octa-Core 4Go+64Go 4G...'
 sku: 'B08CNDLL52-fr'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089QHGJMF-fr Goliath- Super Zings Secret Lab 32750.004'
 sku: 'B089QHGJMF-fr'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

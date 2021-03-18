@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B2VKJGB-fr Jelly Comb Ensemble Clavier Souris sans Fil UltraMince...'
 sku: 'B07B2VKJGB-fr'
-tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

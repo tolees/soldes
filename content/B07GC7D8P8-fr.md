@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GC7D8P8-fr Krups Nespresso - Nespresso Krups Machine Expresso Vertuo...'
 sku: 'B07GC7D8P8-fr'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

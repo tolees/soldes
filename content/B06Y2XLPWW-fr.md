@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06Y2XLPWW-fr Vilac- Bascule Mouton 2 en 1 1116'
 sku: 'B06Y2XLPWW-fr'
-tags: [  ]
 actualPrice: 64.0 EUR
 currency: EUR
 price: 64.0

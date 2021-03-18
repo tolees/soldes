@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GPNP8C6-fr Samsung Galaxy M51- Smartphone débloqué 4G - Blanc -...'
 sku: 'B08GPNP8C6-fr'
-tags: [ 'Smartphones et téléphones portables débloqués','samsung', ]
 actualPrice: 329.0 EUR
 currency: EUR
 price: 329.0

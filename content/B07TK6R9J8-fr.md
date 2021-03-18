@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TK6R9J8-fr Maxcio Interrupteur Volet Roulant Connecté Commutateur...'
 sku: 'B07TK6R9J8-fr'
-tags: [  ]
 actualPrice: 58.64 EUR
 currency: EUR
 price: 58.64

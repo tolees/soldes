@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H61FWSK-fr Skechers Women s FLEX APPEAL 3.0 Trainers Grey Light Grey...'
 sku: 'B07H61FWSK-fr'
-tags: [  ]
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071VLWFLQ-fr Rolimate Jouet en Bois Éducatif avec Jouet à Marteler 8...'
 sku: 'B071VLWFLQ-fr'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

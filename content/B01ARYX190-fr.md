@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01ARYX190-fr Bloc multiprise encastrable compact - 3 prises 16A 2P+T et...'
 sku: 'B01ARYX190-fr'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

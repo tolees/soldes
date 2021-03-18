@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LH42IIA-fr Sony Pictures Entertainment - Starsky Et Hutch L Integrale...'
 sku: 'B00LH42IIA-fr'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

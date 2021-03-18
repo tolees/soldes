@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DKQMLGP-fr HHUIWIND Coque Xiaomi Redmi 9 + Verre Trempé Protection...'
 sku: 'B08DKQMLGP-fr'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

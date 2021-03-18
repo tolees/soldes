@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AJPC9X6-fr Playmobil - Commissariat de Police avec Prison - 6919'
 sku: 'B01AJPC9X6-fr'
-tags: [ 'Coffrets de figurines pour enfants','playmobil', ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

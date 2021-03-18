@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZQSDQDB-fr Sabrent SSD Interne Rocket NVMe PCIe M.2 2280 de 4TB....'
 sku: 'B07ZQSDQDB-fr'
-tags: [  ]
 actualPrice: 654.99 EUR
 currency: EUR
 price: 654.99

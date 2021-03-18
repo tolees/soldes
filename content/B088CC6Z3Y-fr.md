@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088CC6Z3Y-fr Xiaomi Redmi Note 9 Pro - Smartphone Débloqué 4G 6.67...'
 sku: 'B088CC6Z3Y-fr'
-tags: [  ]
 actualPrice: 233.95 EUR
 currency: EUR
 price: 233.95

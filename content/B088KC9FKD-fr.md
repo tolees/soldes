@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088KC9FKD-fr Fivejoy Dinosaure Jouet 11pcs Gros Dinosaure Figurine avec...'
 sku: 'B088KC9FKD-fr'
-tags: [  ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99

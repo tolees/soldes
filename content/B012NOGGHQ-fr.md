@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012NOGGHQ-fr LEGO Architecture - New York - 21028 - Jeu de Construction'
 sku: 'B012NOGGHQ-fr'
-tags: [  ]
 actualPrice: 41.77 EUR
 currency: EUR
 price: 41.77

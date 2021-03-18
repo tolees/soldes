@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08P95B5FR-fr Samsung Chargeur Secteur Rapide 25W Port USB Type C sans...'
 sku: 'B08P95B5FR-fr'
-tags: [ 'Chargeurs pour téléphones portables','samsung', ]
 actualPrice: 16.92 EUR
 currency: EUR
 price: 16.92

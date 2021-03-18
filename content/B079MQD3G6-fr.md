@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079MQD3G6-fr Playmobil - 4X4 de Pompier avec Lance-Eau - 9466'
 sku: 'B079MQD3G6-fr'
-tags: [ 'Coffrets de véhicules à moteur pour enfants','playmobil', ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075DY4R3T-fr DJI CP.QT.000832 Carte d Assurance Care Refresh pour...'
 sku: 'B075DY4R3T-fr'
-tags: [  ]
 actualPrice: 99.91 EUR
 currency: EUR
 price: 99.91

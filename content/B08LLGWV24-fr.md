@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LLGWV24-fr Top Race Télécommande RC Construisez Votre Propre Bras de...'
 sku: 'B08LLGWV24-fr'
-tags: [  ]
 actualPrice: 62.99 EUR
 currency: EUR
 price: 62.99

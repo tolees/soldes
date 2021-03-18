@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B5XHRHC-fr Écoiffier - Jouets Ecoiffier – 3269 - Coffret 10 véhicules...'
 sku: 'B07B5XHRHC-fr'
-tags: [  ]
 actualPrice: 9.9 EUR
 currency: EUR
 price: 9.9

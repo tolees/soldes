@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LZPLRCE-fr Braun Face 810 Épilateur Visage Et Brosse Nettoyante...'
 sku: 'B00LZPLRCE-fr'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

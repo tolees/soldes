@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015R0IQGW-fr Rode Microphones - Rode VideoMicro Microphone Caméra...'
 sku: 'B015R0IQGW-fr'
-tags: [  ]
 actualPrice: 45.0 EUR
 currency: EUR
 price: 45.0

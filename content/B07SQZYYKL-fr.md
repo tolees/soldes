@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SQZYYKL-fr Philips Lighting - Philips Hue Smart Button bouton...'
 sku: 'B07SQZYYKL-fr'
-tags: [  ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

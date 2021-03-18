@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071VZ3FGS-fr Fossil Homme Chronographe Quartz Montre avec Bracelet en...'
 sku: 'B071VZ3FGS-fr'
-tags: [  ]
 actualPrice: 79.33 EUR
 currency: EUR
 price: 79.33

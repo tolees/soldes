@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CHZYYXS-fr Levi s SS Original HM Tee T-Shirt Cotton + Patch Black L...'
 sku: 'B07CHZYYXS-fr'
-tags: [  ]
 actualPrice: 19.95 EUR
 currency: EUR
 price: 19.95

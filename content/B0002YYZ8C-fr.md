@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0002YYZ8C-fr metabo - Mandrins à serrage rapide Futuro Plus S2 M pour...'
 sku: 'B0002YYZ8C-fr'
-tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01AHR5W8A-fr Tefal L20098AZ Ingenio Essential Batterie De Cuisine Noir...'
 sku: 'B01AHR5W8A-fr'
-tags: [ 'Sets de poêles et casseroles','tefal', ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TQMTRRL-fr HONITURE - Aspirateur à Main sans Fil 130W 9000Pa...'
 sku: 'B08TQMTRRL-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

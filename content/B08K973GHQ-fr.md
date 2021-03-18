@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08K973GHQ-fr HUAWEI P smart 2021 Smartphone + Adapt 5V2A HUAWEI...'
 sku: 'B08K973GHQ-fr'
-tags: [  ]
 actualPrice: 189.0 EUR
 currency: EUR
 price: 189.0

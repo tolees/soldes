@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AZH33II-fr New Balance 500 Core Baskets Homme Navy/Grey Navy 41.5 EU'
 sku: 'B01AZH33II-fr'
-tags: [  ]
 actualPrice: 51.82 EUR
 currency: EUR
 price: 51.82

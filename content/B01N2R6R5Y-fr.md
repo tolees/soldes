@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2R6R5Y-fr Tri Star - Climatiseur mobile Tristar AC-5531 10 500 BTU...'
 sku: 'B01N2R6R5Y-fr'
-tags: [ 'tri star', ]
 actualPrice: 211.0 EUR
 currency: EUR
 price: 211.0

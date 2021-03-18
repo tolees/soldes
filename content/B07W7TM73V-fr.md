@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W7TM73V-fr LEGO City Le commissariat de police Set de construction...'
 sku: 'B07W7TM73V-fr'
-tags: [ 'Jeux de construction','lego', ]
 actualPrice: 82.79 EUR
 currency: EUR
 price: 82.79

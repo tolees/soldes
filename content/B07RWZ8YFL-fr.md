@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RWZ8YFL-fr Tangle Teezer Compact Styler Brosse Cerise Pink Ombre'
 sku: 'B07RWZ8YFL-fr'
-tags: [ 'tangle teezer', ]
 actualPrice: 10.7 EUR
 currency: EUR
 price: 10.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YQH475K-fr Funko - Pop! Star Wars The Rise of Skywalker - Dark Rey'
 sku: 'B07YQH475K-fr'
-tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

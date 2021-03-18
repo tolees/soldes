@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D4ZPMR9-fr Matrix - La Trilogie - Edition limitée - Coffret Blu-Ray...'
 sku: 'B07D4ZPMR9-fr'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

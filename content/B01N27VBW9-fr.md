@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01N27VBW9-fr Cajoline Adoucissant Concentré Doux Pur Hypoallergénique...'
 sku: 'B01N27VBW9-fr'
-tags: [  ]
 actualPrice: 1.63 EUR
 currency: EUR
 price: 1.63

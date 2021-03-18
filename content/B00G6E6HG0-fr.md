@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00G6E6HG0-fr Vtech - 151315 - Véhicule Miniature - Tut Tut Bolides -...'
 sku: 'B00G6E6HG0-fr'
-tags: [  ]
 actualPrice: 18.43 EUR
 currency: EUR
 price: 18.43

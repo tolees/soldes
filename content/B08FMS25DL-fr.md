@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FMS25DL-fr Western Digital - WD BLACK P10 Game Drive for Xbox One 1...'
 sku: 'B08FMS25DL-fr'
-tags: [  ]
 actualPrice: 60.08 EUR
 currency: EUR
 price: 60.08

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075JS3T3G-fr Polaroid - Appareil Photo numérique à Impression...'
 sku: 'B075JS3T3G-fr'
-tags: [  ]
 actualPrice: 155.25 EUR
 currency: EUR
 price: 155.25

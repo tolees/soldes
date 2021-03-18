@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DY11QNL-fr Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en...'
 sku: 'B07DY11QNL-fr'
-tags: [  ]
 actualPrice: 44.45 EUR
 currency: EUR
 price: 44.45

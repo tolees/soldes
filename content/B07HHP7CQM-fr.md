@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HHP7CQM-fr Bosch Home and Garden - Perceuse-visseuse à percussion 2...'
 sku: 'B07HHP7CQM-fr'
-tags: [ 'bosch home and garden', ]
 actualPrice: 93.7 EUR
 currency: EUR
 price: 93.7

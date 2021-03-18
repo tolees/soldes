@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089DYHPC6-fr SOVARCATE - Thermomètre Infrarouge Pistolet de Température...'
 sku: 'B089DYHPC6-fr'
-tags: [  ]
 actualPrice: 26.89 EUR
 currency: EUR
 price: 26.89

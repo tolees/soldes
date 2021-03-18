@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W5PTR5J-fr LEGO DUPLO Town Ensemble Maison modulable 3in1 Maison de...'
 sku: 'B07W5PTR5J-fr'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

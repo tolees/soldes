@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D3ZW98F-fr Nintendo - Minecraft switch standard'
 sku: 'B07D3ZW98F-fr'
-tags: [  ]
 actualPrice: 22.49 EUR
 currency: EUR
 price: 22.49

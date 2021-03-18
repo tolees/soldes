@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F7ZBB6G-fr Xiaomi Redmi 9C - Smartphone Débloqué 4G 6.53 Pouces - 2Go...'
 sku: 'B08F7ZBB6G-fr'
-tags: [  ]
 actualPrice: 111.95 EUR
 currency: EUR
 price: 111.95

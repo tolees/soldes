@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NFTHQW8-fr KODAK Pixpro - SP360 Combo B - Caméra 360° Pack Explorer'
 sku: 'B00NFTHQW8-fr'
-tags: [  ]
 actualPrice: 148.18 EUR
 currency: EUR
 price: 148.18

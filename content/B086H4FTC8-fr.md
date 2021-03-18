@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086H4FTC8-fr Belkin Chargeur secteur 2 ports USB-PD GaN Boost Charge 68...'
 sku: 'B086H4FTC8-fr'
-tags: [  ]
 actualPrice: 42.32 EUR
 currency: EUR
 price: 42.32

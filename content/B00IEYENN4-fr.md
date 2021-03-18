@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00IEYENN4-fr Sony ILCE-6000LS Appareil Photo Numérique Hybride Capteur...'
 sku: 'B00IEYENN4-fr'
-tags: [  ]
 actualPrice: 449.0 EUR
 currency: EUR
 price: 449.0

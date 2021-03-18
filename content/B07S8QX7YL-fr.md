@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S8QX7YL-fr Electronic Arts - Star Wars Jedi : Fallen Order pour Xbox'
 sku: 'B07S8QX7YL-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HYSSLVX-fr Blackview BV4900 Téléphone Portable Incassable Écran 5 7...'
 sku: 'B08HYSSLVX-fr'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

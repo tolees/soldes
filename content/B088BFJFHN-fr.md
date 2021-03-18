@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088BFJFHN-fr Gaoyong 15 pièces Sac Cadeau 32 * 26 * 12CM Sac Kraft...'
 sku: 'B088BFJFHN-fr'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

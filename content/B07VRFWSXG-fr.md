@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VRFWSXG-fr Lee Marion Straight Jeans Bleu Dark TRUXEL HP 34W / 31L Femme'
 sku: 'B07VRFWSXG-fr'
-tags: [  ]
 actualPrice: 35.95 EUR
 currency: EUR
 price: 35.95

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085H8KWNM-fr Victure 1200 Mbps Répéteur WiFi Amplificateur WiFi WiFi...'
 sku: 'B085H8KWNM-fr'
-tags: [ 'Répéteurs','victure', ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

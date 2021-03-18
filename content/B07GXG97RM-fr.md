@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GXG97RM-fr Hauck Pacific 4 Shop N Drive Poussette Combinée 6 Pièces...'
 sku: 'B07GXG97RM-fr'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

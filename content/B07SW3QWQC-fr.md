@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SW3QWQC-fr Symiu - Jeux Montessori Jeu de Magnetique Pêche Puzzle...'
 sku: 'B07SW3QWQC-fr'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HZ55A8O-fr No Name - Oblivion [4K Ultra HD + Blu-ray + Digital...'
 sku: 'B01HZ55A8O-fr'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

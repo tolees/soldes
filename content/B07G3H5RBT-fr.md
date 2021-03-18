@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3H5RBT-fr Carte Mémoire microSDXC SanDisk Extreme PRO 128 Go +...'
 sku: 'B07G3H5RBT-fr'
-tags: [  ]
 actualPrice: 26.81 EUR
 currency: EUR
 price: 26.81

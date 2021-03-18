@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0052QV9QG-fr EL1600USBFR ELLIP ECO 1600 USB'
 sku: 'B0052QV9QG-fr'
-tags: [  ]
 actualPrice: 259.89 EUR
 currency: EUR
 price: 259.89

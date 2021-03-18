@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q46N1DV-fr LEDVANCE Smart+ TIBEA Ampoule LED Connectée - Culot E27 -...'
 sku: 'B07Q46N1DV-fr'
-tags: [  ]
 actualPrice: 34.49 EUR
 currency: EUR
 price: 34.49

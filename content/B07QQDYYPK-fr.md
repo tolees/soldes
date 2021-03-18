@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QQDYYPK-fr Wispeed T850 Trottinette électrique unisexe pour adulte...'
 sku: 'B07QQDYYPK-fr'
-tags: [  ]
 actualPrice: 209.0 EUR
 currency: EUR
 price: 209.0

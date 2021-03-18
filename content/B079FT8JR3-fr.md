@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FT8JR3-fr Citizen Horloge CA0695-84E'
 sku: 'B079FT8JR3-fr'
-tags: [  ]
 actualPrice: 145.25 EUR
 currency: EUR
 price: 145.25

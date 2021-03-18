@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QFPW2DF-fr Mpow Casque TV sans Fil Casque Bluetooth 059 avec Support...'
 sku: 'B07QFPW2DF-fr'
-tags: [  ]
 actualPrice: 61.99 EUR
 currency: EUR
 price: 61.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0160OYJN8-fr Babymoov Chauffe Biberon Tulipe Vapeur Utilisation Maison'
 sku: 'B0160OYJN8-fr'
-tags: [  ]
 actualPrice: 18.7 EUR
 currency: EUR
 price: 18.7

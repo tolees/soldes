@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W4KTH3K-fr LEGO Disney Princess Les aventures d Ariel dans un livre...'
 sku: 'B07W4KTH3K-fr'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

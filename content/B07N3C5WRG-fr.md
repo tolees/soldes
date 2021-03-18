@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N3C5WRG-fr Garmin - Ceinture HRM Cardio-Dual'
 sku: 'B07N3C5WRG-fr'
-tags: [  ]
 actualPrice: 57.49 EUR
 currency: EUR
 price: 57.49

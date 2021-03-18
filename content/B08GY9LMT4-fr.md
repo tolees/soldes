@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GY9LMT4-fr Écouteurs Bluetooth 5 sans Fil Stéréo HolyHigh Oreillettes...'
 sku: 'B08GY9LMT4-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07W6QBNM5-fr LEGO City Turbo Wheels L atelier de tuning Set de...'
 sku: 'B07W6QBNM5-fr'
-tags: [ 'Jeux de construction','lego', ]
 actualPrice: 74.15 EUR
 currency: EUR
 price: 74.15

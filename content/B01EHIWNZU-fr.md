@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01EHIWNZU-fr Corsair K65 RAPIDFIRE Clavier Mécanique Gaming Cherry MX...'
 sku: 'B01EHIWNZU-fr'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QNVTMW8-fr BODY & EARTH - Coffret de Bain & Douche pour Femme...'
 sku: 'B07QNVTMW8-fr'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

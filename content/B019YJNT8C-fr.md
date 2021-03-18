@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B019YJNT8C-fr Play-Doh – Pate A Modeler - Le Dentiste'
 sku: 'B019YJNT8C-fr'
-tags: [  ]
 actualPrice: 9.0 EUR
 currency: EUR
 price: 9.0

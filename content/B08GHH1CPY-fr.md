@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GHH1CPY-fr Judneer Écouteur Bluetooth Casque Bluetooth 5.1 Sport...'
 sku: 'B08GHH1CPY-fr'
-tags: [  ]
 actualPrice: 30.59 EUR
 currency: EUR
 price: 30.59

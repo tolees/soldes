@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DDG2VMT-fr Nenuco - Poupon et Berceau Dort avec Moi et Son Baby...'
 sku: 'B07DDG2VMT-fr'
-tags: [  ]
 actualPrice: 41.47 EUR
 currency: EUR
 price: 41.47

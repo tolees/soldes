@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088RFGD7F-fr BESTBOMG Tondeuse Cheveux Hommes Professionnelle Tondeuse...'
 sku: 'B088RFGD7F-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

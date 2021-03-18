@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MY6RL6J-fr FOG900-RGB'
 sku: 'B07MY6RL6J-fr'
-tags: [  ]
 actualPrice: 113.15 EUR
 currency: EUR
 price: 113.15

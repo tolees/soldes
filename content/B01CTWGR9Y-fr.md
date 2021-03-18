@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01CTWGR9Y-fr Tefal Ingenio Expertise Set 3 casseroles 16/18/20 cm 1 5/2...'
 sku: 'B01CTWGR9Y-fr'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BZC8B3B-fr Sun Tablettes Lave-Vaisselle Classique Fabriqué en France...'
 sku: 'B07BZC8B3B-fr'
-tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

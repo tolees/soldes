@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087QRVVVH-fr Crucial P5 1To CT1000P5SSD8 Internes SSD-jusqu’à 3400 Mo/s...'
 sku: 'B087QRVVVH-fr'
-tags: [  ]
 actualPrice: 124.99 EUR
 currency: EUR
 price: 124.99

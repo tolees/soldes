@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FNTMWMT-fr LEGO® Speed Champions Mini Cooper Rally 1967 et Mini John...'
 sku: 'B07FNTMWMT-fr'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002K2BIPC-fr Rescue Compte-gouttes 20ml'
 sku: 'B002K2BIPC-fr'
-tags: [  ]
 actualPrice: 6.86 EUR
 currency: EUR
 price: 6.86

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5WFRZ5-fr Robinet de Cuisine DALMO Robinet d Évier à Arc Élevé avec...'
 sku: 'B07Z5WFRZ5-fr'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

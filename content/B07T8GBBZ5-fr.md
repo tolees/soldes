@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T8GBBZ5-fr WAVLINK AC1200 Point d accès sans Fil extérieur avec...'
 sku: 'B07T8GBBZ5-fr'
-tags: [  ]
 actualPrice: 76.85 EUR
 currency: EUR
 price: 76.85

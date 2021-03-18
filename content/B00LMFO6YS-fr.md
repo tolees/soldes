@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LMFO6YS-fr Les Soprano - L intégrale de la série - Blu-ray - HBO'
 sku: 'B00LMFO6YS-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

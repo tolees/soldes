@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NJ9PV9D-fr jerryvon Jeux en Bois Cube d activité Bébé Dinosaure Cube...'
 sku: 'B08NJ9PV9D-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002QUYZZ8-fr Citizen - BM8430-59EE - Montre Homme - Quartz Analogique -...'
 sku: 'B002QUYZZ8-fr'
-tags: [  ]
 actualPrice: 95.4 EUR
 currency: EUR
 price: 95.4

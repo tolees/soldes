@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0824RKNW4-fr Marvel Spider-Man - Lanceur de projectiles - Nerf Power...'
 sku: 'B0824RKNW4-fr'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

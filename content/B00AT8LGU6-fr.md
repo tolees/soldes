@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00AT8LGU6-fr Tronsmart Shadow Casque Gaming PS4 PS5 PC Xbox One Micro...'
 sku: 'B00AT8LGU6-fr'
-tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

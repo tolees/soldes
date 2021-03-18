@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KXQX3S3-fr SanDisk Carte microSDXC UHS-I pour Nintendo Switch 128 Go...'
 sku: 'B07KXQX3S3-fr'
-tags: [ 'Cartes SD','Cartes micro SD','Mémoire pour Nintendo Switch','sandisk', ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

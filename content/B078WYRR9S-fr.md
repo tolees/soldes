@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078WYRR9S-fr Western Digital - WD Green 120Go Internal SSD M.2 SATA'
 sku: 'B078WYRR9S-fr'
-tags: [  ]
 actualPrice: 19.59 EUR
 currency: EUR
 price: 19.59

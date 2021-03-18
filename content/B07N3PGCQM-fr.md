@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N3PGCQM-fr Zombie - Dawn of the Dead [Coffret 4 Brd + Livre] [Édition...'
 sku: 'B07N3PGCQM-fr'
-tags: [  ]
 actualPrice: 41.5 EUR
 currency: EUR
 price: 41.5

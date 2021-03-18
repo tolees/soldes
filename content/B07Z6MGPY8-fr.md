@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z6MGPY8-fr Florsheim Caravel Oxford Homme Cognac Cognac 13 42 EU'
 sku: 'B07Z6MGPY8-fr'
-tags: [  ]
 actualPrice: 71.95 EUR
 currency: EUR
 price: 71.95

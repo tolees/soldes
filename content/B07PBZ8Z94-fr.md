@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PBZ8Z94-fr American Tourister Disney Legends Spinner S Bagage Cabine...'
 sku: 'B07PBZ8Z94-fr'
-tags: [  ]
 actualPrice: 80.5 EUR
 currency: EUR
 price: 80.5

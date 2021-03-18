@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00JZLBNU6-fr BLACK+DECKER PV1820L-QW Aspirateur à Main sans fil-18...'
 sku: 'B00JZLBNU6-fr'
-tags: [  ]
 actualPrice: 92.99 EUR
 currency: EUR
 price: 92.99

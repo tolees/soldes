@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0822Z2PQF-fr Braun Silk - Épil 9 9-720 Épilateur Électrique Femme Pour...'
 sku: 'B0822Z2PQF-fr'
-tags: [  ]
 actualPrice: 98.99 EUR
 currency: EUR
 price: 98.99

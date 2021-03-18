@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082M2RXZK-fr Aigital Transmetteur Bluetooth 5.0 Émetteur et Récepteur 2...'
 sku: 'B082M2RXZK-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

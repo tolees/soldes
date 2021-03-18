@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F3QY1QG-fr GIANAC Câble iPhone [0.5m+1m+2m+3m/Lot de 4] Cable...'
 sku: 'B08F3QY1QG-fr'
-tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

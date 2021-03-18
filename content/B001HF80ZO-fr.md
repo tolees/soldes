@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001HF80ZO-fr Pandora - 59702-18HV - Bracelet Femme - Argent 925/1000 18 cm'
 sku: 'B001HF80ZO-fr'
-tags: [  ]
 actualPrice: 41.3 EUR
 currency: EUR
 price: 41.3

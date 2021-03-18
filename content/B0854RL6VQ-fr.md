@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0854RL6VQ-fr Beurer IH 58 Inhalateur pour enfant et bébé nébuliseur de...'
 sku: 'B0854RL6VQ-fr'
-tags: [  ]
 actualPrice: 41.8 EUR
 currency: EUR
 price: 41.8

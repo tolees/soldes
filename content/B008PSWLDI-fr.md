@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B008PSWLDI-fr Bosch 2608580868 Coffret de 9 Scies-trÃ©pan bimÃ©tal HSS...'
 sku: 'B008PSWLDI-fr'
-tags: [  ]
 actualPrice: 42.32 EUR
 currency: EUR
 price: 42.32

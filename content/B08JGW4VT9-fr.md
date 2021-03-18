@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JGW4VT9-fr Oblivion [4K Ultra HD + Blu-Ray-Édition boîtier SteelBook]'
 sku: 'B08JGW4VT9-fr'
-tags: [  ]
 actualPrice: 24.39 EUR
 currency: EUR
 price: 24.39

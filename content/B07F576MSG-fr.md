@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07F576MSG-fr No Name - Kaamelott : L intégrale des Six livres [Blu-Ray]'
 sku: 'B07F576MSG-fr'
-tags: [  ]
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

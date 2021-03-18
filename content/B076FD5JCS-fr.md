@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076FD5JCS-fr Donic-Schildkröt Table de Ping Pong Midi XL 120 x 70 x 68...'
 sku: 'B076FD5JCS-fr'
-tags: [  ]
 actualPrice: 77.4 EUR
 currency: EUR
 price: 77.4

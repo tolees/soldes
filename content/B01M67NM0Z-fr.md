@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01M67NM0Z-fr Protection auditive pour les bébés et les enfants Senner...'
 sku: 'B01M67NM0Z-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00INLR7UO-fr Tommy Hilfiger Jewelry - 2700530 - Bracelet Homme - Acier...'
 sku: 'B00INLR7UO-fr'
-tags: [  ]
 actualPrice: 39.95 EUR
 currency: EUR
 price: 39.95

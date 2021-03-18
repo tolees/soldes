@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07THZRTWM-fr BrosTrend Répéteur WiFi AC 1200 MB/s Amplificateur WiFi...'
 sku: 'B07THZRTWM-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

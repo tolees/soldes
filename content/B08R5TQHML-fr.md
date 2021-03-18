@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R5TQHML-fr TUTUO Manette pour Nintendo Switch Bluetooth sans Fil...'
 sku: 'B08R5TQHML-fr'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

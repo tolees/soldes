@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NW89TD6-fr ADLWLVE - Telephone Portable Débloqué 4G Smartphone...'
 sku: 'B08NW89TD6-fr'
-tags: [  ]
 actualPrice: 64.99 EUR
 currency: EUR
 price: 64.99

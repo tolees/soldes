@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078G8XZS9-fr Grohe 34712000 Pack Encastré Mécanique 3 Sorties...'
 sku: 'B078G8XZS9-fr'
-tags: [  ]
 actualPrice: 757.0 EUR
 currency: EUR
 price: 757.0

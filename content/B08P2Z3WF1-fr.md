@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P2Z3WF1-fr KAINSY Jouet Bain bébé 4PC Jeux Bain Enfant de Animaux...'
 sku: 'B08P2Z3WF1-fr'
-tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

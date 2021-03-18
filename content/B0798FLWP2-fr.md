@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0798FLWP2-fr G-STAR RAW Core Strap Sandales Bride arrière Femme Noir...'
 sku: 'B0798FLWP2-fr'
-tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

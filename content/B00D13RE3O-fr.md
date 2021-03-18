@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00D13RE3O-fr Eaton UPS Ellipse PRO 1200 USB FR rack/tower - AC 230 V -...'
 sku: 'B00D13RE3O-fr'
-tags: [  ]
 actualPrice: 204.99 EUR
 currency: EUR
 price: 204.99

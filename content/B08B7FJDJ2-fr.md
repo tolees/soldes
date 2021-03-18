@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B7FJDJ2-fr Downton Abbey-L intégrale de la Saga : la série et Le Film...'
 sku: 'B08B7FJDJ2-fr'
-tags: [  ]
 actualPrice: 52.24 EUR
 currency: EUR
 price: 52.24

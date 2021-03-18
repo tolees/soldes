@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085LB5Y8M-fr Adaptateur Bluetooth pour PC Dongle USB Techkey Bluetooth...'
 sku: 'B085LB5Y8M-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JC3HPZT-fr LEGO®-DUPLO® Toy Story™ Le train de Toy Story Jeu de...'
 sku: 'B07JC3HPZT-fr'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

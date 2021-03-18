@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074KS2RMK-fr Coluche-Coffret 5 Films : Tchao Pantin + Inspecteur La...'
 sku: 'B074KS2RMK-fr'
-tags: [  ]
 actualPrice: 25.57 EUR
 currency: EUR
 price: 25.57

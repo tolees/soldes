@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N6KWCVK-fr ANKEWAY 2021 Nouvelle 7 Pouces [2G + 16G] Android 10 1...'
 sku: 'B08N6KWCVK-fr'
-tags: [  ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

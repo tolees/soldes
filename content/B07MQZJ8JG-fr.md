@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MQZJ8JG-fr Ticwatch S2 Montre Intelligente étanche avec GPS intégré...'
 sku: 'B07MQZJ8JG-fr'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

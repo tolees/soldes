@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000H28IPA-fr D Addario Chromes ECB81M Cordes moyennes pour basse Léger...'
 sku: 'B000H28IPA-fr'
-tags: [  ]
 actualPrice: 36.96 EUR
 currency: EUR
 price: 36.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B012WOBFI2-fr MEUBLE COSY Ensemble à manger 1 table et 4 chaises Style...'
 sku: 'B012WOBFI2-fr'
-tags: [  ]
 actualPrice: 117.3 EUR
 currency: EUR
 price: 117.3

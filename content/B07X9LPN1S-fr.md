@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X9LPN1S-fr PUTORSEN® Support Écran PC Moniteur Premium Aluminium Bras...'
 sku: 'B07X9LPN1S-fr'
-tags: [  ]
 actualPrice: 79.87 EUR
 currency: EUR
 price: 79.87

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08QZ58BFL-fr MOKiN M.2 NVME SSD-Adaptateur de Boîtier USB 3.1 Gen 2 10...'
 sku: 'B08QZ58BFL-fr'
-tags: [ 'Accessoires IT','Accessoires pour disques durs','Adaptateurs et boîtiers pour disque dur','Appareils et outils de coiffure','Baskets et chaussures de sport femme','Baskets mode femme','Beauté et Parfum','Chaussures','Chaussures et Sacs','Chaussures femme','Coffrets de figurines pour enfants','Coiffure et soins des cheveux','Cuisine et Maison','Ensembles de géométrie','Figurines pour enfants','Fournitures de bureau','Fournitures décole','Informatique','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs','Tondeuses à cheveux','mokin', ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWW84P9-fr Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ronde...'
 sku: 'B07TWW84P9-fr'
-tags: [  ]
 actualPrice: 105.59 EUR
 currency: EUR
 price: 105.59

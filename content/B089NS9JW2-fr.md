@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NS9JW2-fr Xiaomi Band 5 Smart Fitness Bracelet Cardiofréquence mètre...'
 sku: 'B089NS9JW2-fr'
-tags: [  ]
 actualPrice: 26.5 EUR
 currency: EUR
 price: 26.5

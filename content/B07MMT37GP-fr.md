@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MMT37GP-fr L OR Barista LM8016/90 machine à café à capsules Noir Mat...'
 sku: 'B07MMT37GP-fr'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

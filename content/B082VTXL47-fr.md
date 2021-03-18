@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VTXL47-fr Veet Men - Crème Dépilatoire Homme - Peaux Normales - 200 ml'
 sku: 'B082VTXL47-fr'
-tags: [ 'Crèmes dépilatoires','veet', ]
 actualPrice: 4.59 EUR
 currency: EUR
 price: 4.59

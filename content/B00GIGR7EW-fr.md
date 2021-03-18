@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GIGR7EW-fr Sunny Days - Table de Jardin Prince Anthracite'
 sku: 'B00GIGR7EW-fr'
-tags: [  ]
 actualPrice: 68.11 EUR
 currency: EUR
 price: 68.11

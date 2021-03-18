@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0868KTQ5L-fr Deik Ensembles de Couteaux de Cuisine 16 Pièces Acier à...'
 sku: 'B0868KTQ5L-fr'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YTDXGTN-fr AD ASTRA STEELBOOK Edition Limitée [Édition Limitée...'
 sku: 'B07YTDXGTN-fr'
-tags: [  ]
 actualPrice: 14.49 EUR
 currency: EUR
 price: 14.49

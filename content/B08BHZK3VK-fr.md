@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BHZK3VK-fr AUKEY Clavier Gaming Rétro-éclairé RVB et Red Switch...'
 sku: 'B08BHZK3VK-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

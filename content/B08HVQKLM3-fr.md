@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HVQKLM3-fr AUKEY Écouteurs Bluetooth sans Fil Lecture et Pause...'
 sku: 'B08HVQKLM3-fr'
-tags: [  ]
 actualPrice: 33.99 EUR
 currency: EUR
 price: 33.99

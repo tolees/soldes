@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088ZWTHFV-fr The Flexx Cordelia Escarpin Femme Sable et Rose 39 EU'
 sku: 'B088ZWTHFV-fr'
-tags: [  ]
 actualPrice: 53.4 EUR
 currency: EUR
 price: 53.4

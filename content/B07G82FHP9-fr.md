@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G82FHP9-fr Polar Vantage M – Montre de sport FC/GPS pour Hommes et...'
 sku: 'B07G82FHP9-fr'
-tags: [  ]
 actualPrice: 204.21 EUR
 currency: EUR
 price: 204.21

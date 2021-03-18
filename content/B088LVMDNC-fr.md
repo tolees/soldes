@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088LVMDNC-fr lenbest Montessori Boîte d apprentissage de Math...'
 sku: 'B088LVMDNC-fr'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

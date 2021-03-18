@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000VKW6H4-fr Erato - La Belle Hélène'
 sku: 'B000VKW6H4-fr'
-tags: [  ]
 actualPrice: 7.0 EUR
 currency: EUR
 price: 7.0

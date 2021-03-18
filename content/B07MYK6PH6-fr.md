@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MYK6PH6-fr Zadig & Voltaire - Montre Mixte - Quartz - Acier...'
 sku: 'B07MYK6PH6-fr'
-tags: [  ]
 actualPrice: 83.23 EUR
 currency: EUR
 price: 83.23

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B47D5PD-fr Tefal BBQ Electrique EasyGrill 2en1 2100 W Barbecue Table...'
 sku: 'B07B47D5PD-fr'
-tags: [  ]
 actualPrice: 81.37 EUR
 currency: EUR
 price: 81.37

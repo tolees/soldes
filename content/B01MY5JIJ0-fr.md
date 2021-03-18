@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MY5JIJ0-fr TP-Link Nano Routeur 750Mbps Wi-Fi AC Support mode...'
 sku: 'B01MY5JIJ0-fr'
-tags: [ 'Routeurs','tp-link', ]
 actualPrice: 36.06 EUR
 currency: EUR
 price: 36.06

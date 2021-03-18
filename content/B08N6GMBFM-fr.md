@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08N6GMBFM-fr Raniaco Balance De Cuisine Electronique - Balance De...'
 sku: 'B08N6GMBFM-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

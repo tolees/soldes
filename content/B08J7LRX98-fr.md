@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J7LRX98-fr Samsung Galaxy M11 - Smartphone débloqué 4G - Noir -...'
 sku: 'B08J7LRX98-fr'
-tags: [  ]
 actualPrice: 149.0 EUR
 currency: EUR
 price: 149.0

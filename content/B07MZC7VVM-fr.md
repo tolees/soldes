@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MZC7VVM-fr Vertbaudet Sac de Couchage Readybed® avec Matelas intégré...'
 sku: 'B07MZC7VVM-fr'
-tags: [  ]
 actualPrice: 47.19 EUR
 currency: EUR
 price: 47.19

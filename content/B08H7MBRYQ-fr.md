@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H7MBRYQ-fr GameSir X2 Manette de Jeu Filaire pour Android Manette de...'
 sku: 'B08H7MBRYQ-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

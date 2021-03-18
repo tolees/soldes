@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00WFGI0JK-fr Babymoov - Nutribaby Classic Robot Multifonctions Cuiseur...'
 sku: 'B00WFGI0JK-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

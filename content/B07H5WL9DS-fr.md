@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H5WL9DS-fr Skechers Women s Flex Appeal 3.0 Trainers Black Black...'
 sku: 'B07H5WL9DS-fr'
-tags: [  ]
 actualPrice: 20.73 EUR
 currency: EUR
 price: 20.73

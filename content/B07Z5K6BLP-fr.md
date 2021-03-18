@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5K6BLP-fr Devolo Magic 1 Wifi Mini : Starter Kit CPL compact idéal...'
 sku: 'B07Z5K6BLP-fr'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

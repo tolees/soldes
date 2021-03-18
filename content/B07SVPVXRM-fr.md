@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SVPVXRM-fr THQ NORDIC - Destroy All Humans'
 sku: 'B07SVPVXRM-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

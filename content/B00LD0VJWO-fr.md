@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00LD0VJWO-fr Hailo 5 8813-001 Escabeau de sécurité Profistep XXL en Alu...'
 sku: 'B00LD0VJWO-fr'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

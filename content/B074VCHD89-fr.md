@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B074VCHD89-fr Fossil Homme Bracelet Vintage Casual multi-rangs JF02763040'
 sku: 'B074VCHD89-fr'
-tags: [  ]
 actualPrice: 39.2 EUR
 currency: EUR
 price: 39.2

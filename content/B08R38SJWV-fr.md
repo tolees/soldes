@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08R38SJWV-fr MINIS FORUM - Mini PC AMD Ryzen 5 PRO 2500U| 16 Go de RAM+...'
 sku: 'B08R38SJWV-fr'
-tags: [  ]
 actualPrice: 424.99 EUR
 currency: EUR
 price: 424.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DBQD5M2-fr Lolita Lempicka Mon Premier Parfum EDP 30ml'
 sku: 'B07DBQD5M2-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0030NLLYI-fr Oster Set Tondeuse pour Animaux Domestiques'
 sku: 'B0030NLLYI-fr'
-tags: [  ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

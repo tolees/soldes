@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NWFD63-fr AUKEY Écouteurs Bluetooth sans Fil à Réduction Active du...'
 sku: 'B088NWFD63-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

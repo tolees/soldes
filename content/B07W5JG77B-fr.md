@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W5JG77B-fr Turtle Beach Elite Atlas Aero Casque Gaming sans Fil'
 sku: 'B07W5JG77B-fr'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

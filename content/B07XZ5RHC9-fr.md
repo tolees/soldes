@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZ5RHC9-fr PROSTEEL Collier Femme Chaîne Miami 51cm Maille Gourmette...'
 sku: 'B07XZ5RHC9-fr'
-tags: [  ]
 actualPrice: 10.49 EUR
 currency: EUR
 price: 10.49

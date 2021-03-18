@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084KC7HJQ-fr Samsung Galaxy S20 - Smartphone Portable débloqué 5G...'
 sku: 'B084KC7HJQ-fr'
-tags: [  ]
 actualPrice: 760.0 EUR
 currency: EUR
 price: 760.0

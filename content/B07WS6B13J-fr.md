@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WS6B13J-fr TUREWELL T9 Android 9.0 Boîtier TV 2 Go RAM/16 Go ROM...'
 sku: 'B07WS6B13J-fr'
-tags: [  ]
 actualPrice: 28.89 EUR
 currency: EUR
 price: 28.89

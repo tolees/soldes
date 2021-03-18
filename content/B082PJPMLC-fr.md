@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082PJPMLC-fr HP Sprocket Studio Snow Printer'
 sku: 'B082PJPMLC-fr'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

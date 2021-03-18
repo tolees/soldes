@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FTT2CV8-fr Seb Yaourtière Multidélices Express 12 Pots Rouge Yaourt...'
 sku: 'B07FTT2CV8-fr'
-tags: [  ]
 actualPrice: 116.99 EUR
 currency: EUR
 price: 116.99

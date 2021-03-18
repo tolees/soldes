@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PM9DKY4-fr Abody Sèche-Cheveux 2200W Ionique Sèche Cheveux Salon...'
 sku: 'B07PM9DKY4-fr'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LX2SKMX-fr Belkin Batterie externe Valet Charger pour Apple Watch et...'
 sku: 'B01LX2SKMX-fr'
-tags: [  ]
 actualPrice: 73.49 EUR
 currency: EUR
 price: 73.49

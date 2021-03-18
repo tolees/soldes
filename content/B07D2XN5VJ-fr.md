@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07D2XN5VJ-fr Kleenex FAMILY – Mouchoirs en papier - Lot de 15 Boîtes...'
 sku: 'B07D2XN5VJ-fr'
-tags: [ 'Mouchoirs','kleenex', ]
 actualPrice: 22.5 EUR
 currency: EUR
 price: 22.5

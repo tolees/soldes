@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YYK13LF-fr Clé USB à double connectique SanDisk Ultra Go pour les...'
 sku: 'B07YYK13LF-fr'
-tags: [  ]
 actualPrice: 13.79 EUR
 currency: EUR
 price: 13.79

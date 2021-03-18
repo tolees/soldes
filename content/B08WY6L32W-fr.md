@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08WY6L32W-fr Nintendo - Mario Golf: Super Rush'
 sku: 'B08WY6L32W-fr'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

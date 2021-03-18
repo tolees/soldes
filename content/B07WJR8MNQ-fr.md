@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WJR8MNQ-fr Universal Pictures France - Yesterday [4K Ultra HD + Blu-Ray]'
 sku: 'B07WJR8MNQ-fr'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

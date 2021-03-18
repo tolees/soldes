@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BLHR4HF-fr LIGHTAILING Jeu De Lumières pour Architecture La Maison...'
 sku: 'B08BLHR4HF-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

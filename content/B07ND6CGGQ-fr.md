@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ND6CGGQ-fr LEGO®-DUPLO® Disney Princess™ Le château de la Reine des...'
 sku: 'B07ND6CGGQ-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

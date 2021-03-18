@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WVM68TB-fr Playmobil - Cuisine Aménagée - 9269'
 sku: 'B06WVM68TB-fr'
-tags: [  ]
 actualPrice: 14.39 EUR
 currency: EUR
 price: 14.39

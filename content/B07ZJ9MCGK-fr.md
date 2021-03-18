@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZJ9MCGK-fr FBSPORT Airtrack 20 cm Épaisseur Air Spot Gonflable 100 cm...'
 sku: 'B07ZJ9MCGK-fr'
-tags: [  ]
 actualPrice: 87.09 EUR
 currency: EUR
 price: 87.09

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07B9S57SB-fr Tommy Hilfiger Core Tommy Slim Polo Noir Flag Black 032...'
 sku: 'B07B9S57SB-fr'
-tags: [  ]
 actualPrice: 51.24 EUR
 currency: EUR
 price: 51.24

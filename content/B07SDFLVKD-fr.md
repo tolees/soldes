@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SDFLVKD-fr Nouvelle Manette Xbox Sans Fil - Carbon Black'
 sku: 'B07SDFLVKD-fr'
-tags: [  ]
 actualPrice: 50.99 EUR
 currency: EUR
 price: 50.99

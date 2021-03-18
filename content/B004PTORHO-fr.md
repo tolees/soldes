@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004PTORHO-fr Pentel 15432 Porte-mines P200 0.7 mm Embout agrafe...'
 sku: 'B004PTORHO-fr'
-tags: [  ]
 actualPrice: 6.94 EUR
 currency: EUR
 price: 6.94

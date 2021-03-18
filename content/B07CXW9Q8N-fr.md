@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CXW9Q8N-fr Salomon XA PRO 3D MID CSWP J Noir/Orange Black/Stormy...'
 sku: 'B07CXW9Q8N-fr'
-tags: [  ]
 actualPrice: 41.45 EUR
 currency: EUR
 price: 41.45

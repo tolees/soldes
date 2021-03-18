@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WLBXNP2-fr TS-ant - 2021Neuf Puissante Antenne TV Intérieur Blanc...'
 sku: 'B07WLBXNP2-fr'
-tags: [ 'Antennes TNT','ts-ant', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

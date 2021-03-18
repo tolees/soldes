@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SKJ4WJT-fr Nintendo - Luigi s Mansion 3 - Import UK'
 sku: 'B07SKJ4WJT-fr'
-tags: [  ]
 actualPrice: 53.89 EUR
 currency: EUR
 price: 53.89

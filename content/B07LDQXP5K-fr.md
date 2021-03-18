@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LDQXP5K-fr ECOVACS ROBOTICS - ECOVACS Deebot 605 Aspirateur Robot...'
 sku: 'B07LDQXP5K-fr'
-tags: [  ]
 actualPrice: 229.98 EUR
 currency: EUR
 price: 229.98

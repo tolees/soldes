@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B2HY2WL-fr Sony Pictures Home Entertainment - Spider-Man Integrale 8...'
 sku: 'B08B2HY2WL-fr'
-tags: [  ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

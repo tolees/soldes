@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KQS8N55-fr Vileda – Balai vapeur Steam XXL – Nettoyeur vapeur multi-...'
 sku: 'B07KQS8N55-fr'
-tags: [  ]
 actualPrice: 84.96 EUR
 currency: EUR
 price: 84.96

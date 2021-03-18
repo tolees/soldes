@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08MV9DFQK-fr OPPO Enco X Noir Ecouteurs Bluetooth sans Fil avec...'
 sku: 'B08MV9DFQK-fr'
-tags: [  ]
 actualPrice: 149.9 EUR
 currency: EUR
 price: 149.9

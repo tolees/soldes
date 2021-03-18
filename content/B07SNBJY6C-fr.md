@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNBJY6C-fr VicTsing Transmetteur FM Bluetooth V5.0 Kit Main Libre...'
 sku: 'B07SNBJY6C-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

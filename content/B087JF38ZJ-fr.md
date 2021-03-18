@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JF38ZJ-fr Mpow Bluetooth USB Adaptateur Bluetooth 5.0 Dongle sans...'
 sku: 'B087JF38ZJ-fr'
-tags: [  ]
 actualPrice: 11.04 EUR
 currency: EUR
 price: 11.04

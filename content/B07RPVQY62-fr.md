@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPVQY62-fr TP-Link Switch Ethernet LS105G Gigabit 5 ports RJ45...'
 sku: 'B07RPVQY62-fr'
-tags: [ 'Switches et hubs réseau','tp-link', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89

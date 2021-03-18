@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GUAHGPG-fr Michelin 007875 Chaînes à neige automatique 4x4 75'
 sku: 'B00GUAHGPG-fr'
-tags: [  ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

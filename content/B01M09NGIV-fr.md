@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M09NGIV-fr Mpow Oreillette Bluetooth sans Fil en Voiture Kit...'
 sku: 'B01M09NGIV-fr'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

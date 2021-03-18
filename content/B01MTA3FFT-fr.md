@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MTA3FFT-fr Sony FDR-X3000R + AKA-FGP1 Camera d action ultra-...'
 sku: 'B01MTA3FFT-fr'
-tags: [  ]
 actualPrice: 477.85 EUR
 currency: EUR
 price: 477.85

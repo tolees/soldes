@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MD562BV-fr AUKEY Récepteur Bluetooth 5 Adaptateur Audio sans Fil...'
 sku: 'B07MD562BV-fr'
-tags: [  ]
 actualPrice: 16.14 EUR
 currency: EUR
 price: 16.14

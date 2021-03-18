@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073W91YTC-fr Set couteaux professionnel lot de couteaux en acier...'
 sku: 'B073W91YTC-fr'
-tags: [  ]
 actualPrice: 36.54 EUR
 currency: EUR
 price: 36.54

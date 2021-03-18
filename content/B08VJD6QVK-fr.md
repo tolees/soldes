@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VJD6QVK-fr PlayVital Racing Green Pure Series Coque antidérapante en...'
 sku: 'B08VJD6QVK-fr'
-tags: [  ]
 actualPrice: 15.77 EUR
 currency: EUR
 price: 15.77

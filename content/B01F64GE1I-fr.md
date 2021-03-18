@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01F64GE1I-fr Oakwood 60901 - Veste en cuir - Col à boutons - Manches...'
 sku: 'B01F64GE1I-fr'
-tags: [  ]
 actualPrice: 120.49 EUR
 currency: EUR
 price: 120.49

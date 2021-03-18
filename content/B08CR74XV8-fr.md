@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CR74XV8-fr Useber - [2 pièces] Guirlandes solaires extérieures 120...'
 sku: 'B08CR74XV8-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

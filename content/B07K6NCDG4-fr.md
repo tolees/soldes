@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K6NCDG4-fr adidas Tiro 19 Training Jersey Maillot d entraînement...'
 sku: 'B07K6NCDG4-fr'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

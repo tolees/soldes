@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07V7YPZLF-fr Triumph Fit Smart Maxi Boxer Noir Black XL Femme'
 sku: 'B07V7YPZLF-fr'
-tags: [ 'Shorties','triumph', ]
 actualPrice: 24.17 EUR
 currency: EUR
 price: 24.17

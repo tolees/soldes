@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00J57QFTO-fr Janod - J07076 - Coffret 3 Puzzles Bois 9 pcs'
 sku: 'B00J57QFTO-fr'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

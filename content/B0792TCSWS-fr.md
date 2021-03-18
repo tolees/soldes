@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0792TCSWS-fr Geox Femme D Felicity D Knee High Boot Noir Black C9999 39 EU'
 sku: 'B0792TCSWS-fr'
-tags: [  ]
 actualPrice: 100.95 EUR
 currency: EUR
 price: 100.95

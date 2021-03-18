@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DXHYQCH-fr Gifort Boîtes de Conservation Alimentaire Contenants...'
 sku: 'B08DXHYQCH-fr'
-tags: [  ]
 actualPrice: 34.55 EUR
 currency: EUR
 price: 34.55

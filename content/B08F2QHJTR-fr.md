@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F2QHJTR-fr Disney Princesses - Poupee mannequin Poussière d’Etoiles...'
 sku: 'B08F2QHJTR-fr'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

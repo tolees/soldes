@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VRDBDMM-fr PlayVital Capuchons de pouce ergonomiques pour manette PS5...'
 sku: 'B08VRDBDMM-fr'
-tags: [  ]
 actualPrice: 16.09 EUR
 currency: EUR
 price: 16.09

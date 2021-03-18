@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KWK2J6Q-fr Geox Homme U Nebula B Sneaker Noir Black C9999 42 EU'
 sku: 'B00KWK2J6Q-fr'
-tags: [  ]
 actualPrice: 70.0 EUR
 currency: EUR
 price: 70.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087TXLL6G-fr AHK Ring Light avec Trépied 10" LED Lumière Anneau avec 3...'
 sku: 'B087TXLL6G-fr'
-tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

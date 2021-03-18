@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GKZP9LV-fr H.Koenig Théière Bouilloire Instant T électrique en Verre...'
 sku: 'B07GKZP9LV-fr'
-tags: [  ]
 actualPrice: 49.9 EUR
 currency: EUR
 price: 49.9

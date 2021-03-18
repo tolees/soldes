@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KTNFZ5B-fr Playmobil Police Policier avec Moto et Voleur 70572'
 sku: 'B08KTNFZ5B-fr'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

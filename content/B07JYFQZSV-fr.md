@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JYFQZSV-fr Tommy Hilfiger Tommy Logo Hoody Sweat-Shirt Bleu Sky...'
 sku: 'B07JYFQZSV-fr'
-tags: [  ]
 actualPrice: 81.48 EUR
 currency: EUR
 price: 81.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y92MVP9-fr Barbie Signature C-3PO poupée de collection Star Wars...'
 sku: 'B07Y92MVP9-fr'
-tags: [  ]
 actualPrice: 126.56 EUR
 currency: EUR
 price: 126.56

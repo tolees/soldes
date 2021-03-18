@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B015NHZC4S-fr Funko - Pocket POP Keychain: GOTG - Groot'
 sku: 'B015NHZC4S-fr'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

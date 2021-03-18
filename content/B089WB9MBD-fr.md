@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089WB9MBD-fr Samsung Galaxy A41 4G 64Go Noir + BON D ACHAT AMAZON -...'
 sku: 'B089WB9MBD-fr'
-tags: [  ]
 actualPrice: 249.0 EUR
 currency: EUR
 price: 249.0

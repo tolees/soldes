@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071NHTQMJ-fr Sony NP-FZ100 Batterie Rechargeable Haute Capacité pour...'
 sku: 'B071NHTQMJ-fr'
-tags: [  ]
 actualPrice: 74.9 EUR
 currency: EUR
 price: 74.9

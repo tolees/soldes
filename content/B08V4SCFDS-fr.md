@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08V4SCFDS-fr eXtremeRate Coques avec Kit de Boutons pour Nintendo...'
 sku: 'B08V4SCFDS-fr'
-tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

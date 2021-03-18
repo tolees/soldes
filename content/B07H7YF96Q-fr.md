@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H7YF96Q-fr Devolo Magic 2 LAN : Starter Kit CPL le plus Rapide du...'
 sku: 'B07H7YF96Q-fr'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

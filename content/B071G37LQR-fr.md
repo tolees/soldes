@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071G37LQR-fr Jeanne Arthes Eau de Parfum Amore Mio White Pearl 100 ml'
 sku: 'B071G37LQR-fr'
-tags: [  ]
 actualPrice: 6.15 EUR
 currency: EUR
 price: 6.15

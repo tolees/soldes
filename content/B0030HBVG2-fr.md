@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0030HBVG2-fr KidKraft 53173 Cuisine enfant en bois Red Vintage jeu d...'
 sku: 'B0030HBVG2-fr'
-tags: [  ]
 actualPrice: 109.58 EUR
 currency: EUR
 price: 109.58

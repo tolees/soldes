@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0831TZXNN-fr Samsung Galaxy A71 - Smartphone Portable débloqué 4G - Noir'
 sku: 'B0831TZXNN-fr'
-tags: [ 'Smartphones et téléphones portables débloqués','samsung', ]
 actualPrice: 324.75 EUR
 currency: EUR
 price: 324.75

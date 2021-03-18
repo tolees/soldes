@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYG5SVQ-fr SanDisk Carte Mémoire microSDXC Ultra 16 Go + Adaptateur...'
 sku: 'B08GYG5SVQ-fr'
-tags: [  ]
 actualPrice: 57.99 EUR
 currency: EUR
 price: 57.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GS3WQMS-fr BIC Ecriture My 4 Colours Box - Stylos-Billes Rétractables...'
 sku: 'B07GS3WQMS-fr'
-tags: [  ]
 actualPrice: 12.0 EUR
 currency: EUR
 price: 12.0

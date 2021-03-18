@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X1GY4GG-fr Playmobil - Salon Équipé - 9267'
 sku: 'B06X1GY4GG-fr'
-tags: [ 'Appareils et outils de coiffure','Beauté et Parfum','Coffrets de figurines pour enfants','Coiffure et soins des cheveux','Cuisine et Maison','Ensembles de géométrie','Figurines pour enfants','Fournitures de bureau','Fournitures décole','Jeux de construction','Jeux et Jouets','Jeux et jouets','Posters','Ressources pour les programmes','Ressources pour les programmes de mathématiques','Tableaux, posters et arts décoratifs','Tondeuses à cheveux','playmobil', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079L2NS5G-fr Rubies Costume Co - Rubie s - Baguette luxe Officielle...'
 sku: 'B079L2NS5G-fr'
-tags: [  ]
 actualPrice: 7.95 EUR
 currency: EUR
 price: 7.95

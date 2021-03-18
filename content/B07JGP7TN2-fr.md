@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JGP7TN2-fr PUMA Carina L Baskets Femme White-White-Silver 38.5 EU'
 sku: 'B07JGP7TN2-fr'
-tags: [  ]
 actualPrice: 43.95 EUR
 currency: EUR
 price: 43.95

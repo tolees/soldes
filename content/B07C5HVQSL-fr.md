@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07C5HVQSL-fr Spa Luxetique Coffret de Bain et de Soins 8 Pièces Parfum...'
 sku: 'B07C5HVQSL-fr'
-tags: [ 'Coffrets de bain et de soins','spa luxetique', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQPMR5C-fr Sage Appliances - SAGE STM700 the Tea Maker Compact...'
 sku: 'B07NQPMR5C-fr'
-tags: [  ]
 actualPrice: 120.99 EUR
 currency: EUR
 price: 120.99

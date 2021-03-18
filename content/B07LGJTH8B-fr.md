@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07LGJTH8B-fr Babymoov Turbo Steam Plus Stérilisateur 2 en 1'
 sku: 'B07LGJTH8B-fr'
-tags: [  ]
 actualPrice: 41.59 EUR
 currency: EUR
 price: 41.59

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0719FQKDY-fr Neutrogena Visibly Clear Gel Nettoyant Pamplemousse Rose –...'
 sku: 'B0719FQKDY-fr'
-tags: [  ]
 actualPrice: 2.62 EUR
 currency: EUR
 price: 2.62

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPWSWZS-fr Skull Shaver Butterfly Kiss Rasoir Électrique Femme Jambes...'
 sku: 'B07PPWSWZS-fr'
-tags: [  ]
 actualPrice: 51.2 EUR
 currency: EUR
 price: 51.2

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GFR1BQG-fr GRDE - Lampe Projecteur LED Lumière Projecteur Connectée...'
 sku: 'B08GFR1BQG-fr'
-tags: [  ]
 actualPrice: 46.99 EUR
 currency: EUR
 price: 46.99

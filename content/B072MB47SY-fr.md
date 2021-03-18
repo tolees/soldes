@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072MB47SY-fr Merrell Moab 2 Mid GTX Chaussures de Randonnée Hautes...'
 sku: 'B072MB47SY-fr'
-tags: [  ]
 actualPrice: 106.08 EUR
 currency: EUR
 price: 106.08

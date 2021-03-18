@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083NRNVXQ-fr Terraillon Homni Réveil Lumineux Intelligent 14497'
 sku: 'B083NRNVXQ-fr'
-tags: [  ]
 actualPrice: 81.92 EUR
 currency: EUR
 price: 81.92

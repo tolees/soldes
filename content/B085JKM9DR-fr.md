@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085JKM9DR-fr Garmin - Ceinture Cardio-Fréquencemètre HRM-Pro Noir'
 sku: 'B085JKM9DR-fr'
-tags: [  ]
 actualPrice: 108.48 EUR
 currency: EUR
 price: 108.48

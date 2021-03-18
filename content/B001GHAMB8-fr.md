@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B001GHAMB8-fr August DA100D Télévision Portable 10" 25 4cm TNT HD -...'
 sku: 'B001GHAMB8-fr'
-tags: [  ]
 actualPrice: 97.02 EUR
 currency: EUR
 price: 97.02

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LKD7LFP-fr Montre Connectée Femmes Homme Bozlun Montre Intelligente...'
 sku: 'B08LKD7LFP-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

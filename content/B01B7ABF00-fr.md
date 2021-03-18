@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01B7ABF00-fr Sony BDPS1700B Lecteur DVD Blu-Ray Noir'
 sku: 'B01B7ABF00-fr'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

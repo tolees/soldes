@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06ZYN9MJV-fr NETGEAR Routeur WiFi Nighthawk R7000P AC2300 4 Ports...'
 sku: 'B06ZYN9MJV-fr'
-tags: [  ]
 actualPrice: 129.99 EUR
 currency: EUR
 price: 129.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B075WXBGP6-fr Kodak Printomatic Digital Instant Print Camera - Full...'
 sku: 'B075WXBGP6-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

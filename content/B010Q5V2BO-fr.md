@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B010Q5V2BO-fr Samsung CLT-P404C SU365A Pack de 4 cartouches de toner...'
 sku: 'B010Q5V2BO-fr'
-tags: [  ]
 actualPrice: 189.17 EUR
 currency: EUR
 price: 189.17

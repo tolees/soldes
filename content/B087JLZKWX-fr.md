@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087JLZKWX-fr Tondeuse Cheveux Hommes PURKOO Tondeuse Cheveux...'
 sku: 'B087JLZKWX-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

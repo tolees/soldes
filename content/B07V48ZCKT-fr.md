@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V48ZCKT-fr BLACK+DECKER BXJB500E – Blender mixeur 500W bol en...'
 sku: 'B07V48ZCKT-fr'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

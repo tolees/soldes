@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S6NJ2VL-fr Potensic Drone GPS T25 FPV Hélicoptère Caméra 120° Grand...'
 sku: 'B07S6NJ2VL-fr'
-tags: [  ]
 actualPrice: 152.99 EUR
 currency: EUR
 price: 152.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RV7BNPY-fr FUNKO Pop! Keychains: Harry Potter - Fawkes'
 sku: 'B07RV7BNPY-fr'
-tags: [  ]
 actualPrice: 5.61 EUR
 currency: EUR
 price: 5.61

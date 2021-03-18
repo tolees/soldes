@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GSC793M-fr CALOR ACCESS STEAM CARE Défroisseur Vapeur à Main Avec...'
 sku: 'B07GSC793M-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

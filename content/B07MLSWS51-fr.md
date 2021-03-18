@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MLSWS51-fr Orient Montres Bracelet RA-AG0004B10B'
 sku: 'B07MLSWS51-fr'
-tags: [  ]
 actualPrice: 180.25 EUR
 currency: EUR
 price: 180.25

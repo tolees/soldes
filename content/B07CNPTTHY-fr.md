@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CNPTTHY-fr Marshall Major III Casque Audio Filaire - Blanc'
 sku: 'B07CNPTTHY-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

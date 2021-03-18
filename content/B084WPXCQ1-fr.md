@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084WPXCQ1-fr Le Bureau des légendes-Saison 5 [Blu-Ray]'
 sku: 'B084WPXCQ1-fr'
-tags: [  ]
 actualPrice: 22.99 EUR
 currency: EUR
 price: 22.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000BC7QMM-fr D-Link DGS-105 Switch 5 Ports Gigabit Metallique...'
 sku: 'B000BC7QMM-fr'
-tags: [  ]
 actualPrice: 13.36 EUR
 currency: EUR
 price: 13.36

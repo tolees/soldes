@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KH28K8Y-fr Fitbit bracelet classique version slim pour montre...'
 sku: 'B01KH28K8Y-fr'
-tags: [  ]
 actualPrice: 58.88 EUR
 currency: EUR
 price: 58.88

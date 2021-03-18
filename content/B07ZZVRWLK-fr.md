@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZZVRWLK-fr Amazon - Nouveau Fire TV Stick avec télécommande vocale...'
 sku: 'B07ZZVRWLK-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

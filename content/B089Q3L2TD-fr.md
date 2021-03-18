@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089Q3L2TD-fr LIHAO Étui pour Nintendo Switch Housse de Transport...'
 sku: 'B089Q3L2TD-fr'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

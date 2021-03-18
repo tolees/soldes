@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089NMH2WX-fr NETGEAR Système WiFi 6 Mesh Tri-Bande Orbi RBK752 Pack de...'
 sku: 'B089NMH2WX-fr'
-tags: [  ]
 actualPrice: 424.99 EUR
 currency: EUR
 price: 424.99

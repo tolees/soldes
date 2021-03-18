@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y5YBQ8C-fr Jurassic World Ultime T-Rex figurine dinosaure articulé...'
 sku: 'B07Y5YBQ8C-fr'
-tags: [  ]
 actualPrice: 34.9 EUR
 currency: EUR
 price: 34.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000WFJZ9K-fr Trixie Poteau de Rechange ø 11 cm/40 cm/Taille de fil M10'
 sku: 'B000WFJZ9K-fr'
-tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L86DVZ7-fr Senbos Portefeuille Homme en Cuir Véritable 18...'
 sku: 'B07L86DVZ7-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

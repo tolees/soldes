@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07QT7WLZN-fr BODY & EARTH - Coffret Bain et Corps-Panier-Cadeau de 8...'
 sku: 'B07QT7WLZN-fr'
-tags: [ 'Coffrets de bain et de soins','body & earth', ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

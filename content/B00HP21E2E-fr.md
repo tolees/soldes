@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00HP21E2E-fr Ravensburger- tiptoi®- Livre interactif- Mini Doc - Les...'
 sku: 'B00HP21E2E-fr'
-tags: [  ]
 actualPrice: 6.26 EUR
 currency: EUR
 price: 6.26

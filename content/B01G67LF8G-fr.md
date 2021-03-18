@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01G67LF8G-fr NETGEAR Répéteur WiFi Mesh EX7300 Amplificateur WiFi...'
 sku: 'B01G67LF8G-fr'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

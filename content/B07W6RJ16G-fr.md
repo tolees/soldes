@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W6RJ16G-fr SAMSUNG Wireless Charger Pad EP-P 3105'
 sku: 'B07W6RJ16G-fr'
-tags: [  ]
 actualPrice: 43.56 EUR
 currency: EUR
 price: 43.56

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Z5G5NRQ-fr GARDENA smart SILENO+ 2000 | Tondeuse Robot Connectée...'
 sku: 'B07Z5G5NRQ-fr'
-tags: [  ]
 actualPrice: 1353.7 EUR
 currency: EUR
 price: 1353.7

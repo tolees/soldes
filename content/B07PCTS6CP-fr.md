@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PCTS6CP-fr Pampers Couches-Culottes Baby-Dry Pants Taille 4+ 9-15kg...'
 sku: 'B07PCTS6CP-fr'
-tags: [ 'pampers', ]
 actualPrice: 35.1 EUR
 currency: EUR
 price: 35.1

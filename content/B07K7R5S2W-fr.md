@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07K7R5S2W-fr BRITAX RÖMER Siège Auto KIDFIX 2 R Confortable avec...'
 sku: 'B07K7R5S2W-fr'
-tags: [  ]
 actualPrice: 100.5 EUR
 currency: EUR
 price: 100.5

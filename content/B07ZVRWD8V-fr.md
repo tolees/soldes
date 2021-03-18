@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZVRWD8V-fr Levi s 721 High Rise Skinny Jeans Bogota Feels 26W / 28L...'
 sku: 'B07ZVRWD8V-fr'
-tags: [  ]
 actualPrice: 57.5 EUR
 currency: EUR
 price: 57.5

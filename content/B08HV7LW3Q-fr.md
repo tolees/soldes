@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HV7LW3Q-fr AGPTEK Montre Connectée Homme Smartwatch Bluetooth 5.0...'
 sku: 'B08HV7LW3Q-fr'
-tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

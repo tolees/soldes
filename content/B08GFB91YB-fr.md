@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GFB91YB-fr Upworld Jouets de Bain Jouets de Pulvérisation d eau 2 en...'
 sku: 'B08GFB91YB-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

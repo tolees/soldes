@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CIDFJXK-fr Cowon Module de Connexion GPS Externe'
 sku: 'B00CIDFJXK-fr'
-tags: [ 'cowon', ]
 actualPrice: 21.35 EUR
 currency: EUR
 price: 21.35

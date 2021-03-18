@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0811XRMZW-fr Safety 1st Chaise Haute pour bébé en Bois et Evolutive...'
 sku: 'B0811XRMZW-fr'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

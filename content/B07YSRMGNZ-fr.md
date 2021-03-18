@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YSRMGNZ-fr Trust Verro Souris Ergonomique sans Fil Angle vertical de...'
 sku: 'B07YSRMGNZ-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

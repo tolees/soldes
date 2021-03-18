@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GCC4SHT-fr AUKEY Écouteurs Bluetooth 5 sans Fil avec aptX Basses...'
 sku: 'B08GCC4SHT-fr'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

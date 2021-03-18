@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081QLBNPX-fr La Reine des neiges 2 [Blu-Ray]'
 sku: 'B081QLBNPX-fr'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

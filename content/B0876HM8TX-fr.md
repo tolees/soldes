@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0876HM8TX-fr Sony HT-S20R Barre de Son TV 5.1 canaux Dolby® Bluetooth'
 sku: 'B0876HM8TX-fr'
-tags: [  ]
 actualPrice: 249.26 EUR
 currency: EUR
 price: 249.26

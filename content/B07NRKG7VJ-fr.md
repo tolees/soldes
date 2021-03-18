@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NRKG7VJ-fr Wild Side Video - Les Enquêtes du Département V :...'
 sku: 'B07NRKG7VJ-fr'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

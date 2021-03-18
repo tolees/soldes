@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00KON1JIA-fr Mpow Récepteur Bluetooth 5.0 Adaptateur Audio sans Fil Kit...'
 sku: 'B00KON1JIA-fr'
-tags: [  ]
 actualPrice: 10.19 EUR
 currency: EUR
 price: 10.19

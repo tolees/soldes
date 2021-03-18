@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B015CH1PJU-fr Clé USB 3.0 SanDisk Ultra Flair 128 Go allant jusqu à 150...'
 sku: 'B015CH1PJU-fr'
-tags: [  ]
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

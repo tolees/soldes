@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079TKRYGK-fr Russell Hobbs Centrifugeuse 2L 2 Vitesses Cheminée XL...'
 sku: 'B079TKRYGK-fr'
-tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

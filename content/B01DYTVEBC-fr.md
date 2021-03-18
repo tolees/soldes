@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DYTVEBC-fr Doudou et Compagnie J aime Mon Doudou Collector Ours Taupe'
 sku: 'B01DYTVEBC-fr'
-tags: [  ]
 actualPrice: 15.0 EUR
 currency: EUR
 price: 15.0

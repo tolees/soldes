@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001NYZSTK-fr KS TOOLS 515.1003 Coffret de tournevis à frapper avec...'
 sku: 'B001NYZSTK-fr'
-tags: [  ]
 actualPrice: 38.06 EUR
 currency: EUR
 price: 38.06

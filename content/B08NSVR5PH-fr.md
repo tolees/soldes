@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NSVR5PH-fr LIGE Montre Connectée Homme Ecran Tactile IP68 Etanche...'
 sku: 'B08NSVR5PH-fr'
-tags: [  ]
 actualPrice: 48.44 EUR
 currency: EUR
 price: 48.44

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KX54VHF-fr LEGO Le Magicobus Harry Potter Bus Violet à 3 Niveaux Jeu...'
 sku: 'B07KX54VHF-fr'
-tags: [ 'Jeux de construction','lego', ]
 actualPrice: 26.9 EUR
 currency: EUR
 price: 26.9

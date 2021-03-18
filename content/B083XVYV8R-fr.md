@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083XVYV8R-fr Une Créature de Rêve [Blu-Ray]'
 sku: 'B083XVYV8R-fr'
-tags: [  ]
 actualPrice: 8.53 EUR
 currency: EUR
 price: 8.53

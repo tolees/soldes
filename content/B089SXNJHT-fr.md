@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089SXNJHT-fr RAMPOW Câble USB C vers USB C [Garantie à Vie] Câble USB C...'
 sku: 'B089SXNJHT-fr'
-tags: [  ]
 actualPrice: 7.49 EUR
 currency: EUR
 price: 7.49

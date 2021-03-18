@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085GSXP5B-fr Sylvanian Families - Les Vacances - La Cabane Dans Les...'
 sku: 'B085GSXP5B-fr'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

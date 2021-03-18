@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076WQ5LPT-fr Disney Femme Analogique Classique Quartz Montre avec...'
 sku: 'B076WQ5LPT-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000RSTX9O-fr TP-Link TL-SG1024 Switch 24 Ports Gigabit Rackable Boîtier...'
 sku: 'B000RSTX9O-fr'
-tags: [  ]
 actualPrice: 84.96 EUR
 currency: EUR
 price: 84.96

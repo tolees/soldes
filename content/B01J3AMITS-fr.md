@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J3AMITS-fr iAmotus Bluetooth Adaptateur Bluetooth 4.0 + EDR Clé USB...'
 sku: 'B01J3AMITS-fr'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

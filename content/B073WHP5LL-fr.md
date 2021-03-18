@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073WHP5LL-fr YUCUN 2 5 60GB Pouces SATA III Disque Flash SSD 60 Go...'
 sku: 'B073WHP5LL-fr'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MPFKZPV-fr BOZLUN - Montre Intelligente Smartwatch Femme Hommes...'
 sku: 'B07MPFKZPV-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

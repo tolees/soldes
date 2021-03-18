@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SNPKX5Y-fr Amazon - Echo Show 8 Restez en contact avec l aide d Alexa...'
 sku: 'B07SNPKX5Y-fr'
-tags: [  ]
 actualPrice: 79.99 EUR
 currency: EUR
 price: 79.99

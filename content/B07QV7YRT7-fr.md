@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QV7YRT7-fr Nintendo - Pokémon Epée'
 sku: 'B07QV7YRT7-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

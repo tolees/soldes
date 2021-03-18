@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00BJL4W0I-fr Kitchenaid - 5kek1522 ems - Bouilloire sans fil 1.5l 2400w...'
 sku: 'B00BJL4W0I-fr'
-tags: [  ]
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

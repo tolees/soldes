@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TVNZBCL-fr BRIKSMAX Kit de LED pour Lego Architecture New York City...'
 sku: 'B07TVNZBCL-fr'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

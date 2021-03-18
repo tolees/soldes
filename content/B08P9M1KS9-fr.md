@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08P9M1KS9-fr FAIRY TAIL & GLITZER FEE - Manette pour Game Cube Blanc et...'
 sku: 'B08P9M1KS9-fr'
-tags: [  ]
 actualPrice: 16.84 EUR
 currency: EUR
 price: 16.84

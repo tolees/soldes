@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08398NYJG-fr Akokie Jouet Montessori Jeu en Bois Clip Perle Jeux...'
 sku: 'B08398NYJG-fr'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

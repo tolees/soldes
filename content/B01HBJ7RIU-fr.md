@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01HBJ7RIU-fr Tommy Hilfiger Hommes Multi-Cadrans Quartz Montre avec...'
 sku: 'B01HBJ7RIU-fr'
-tags: [  ]
 actualPrice: 131.72 EUR
 currency: EUR
 price: 131.72

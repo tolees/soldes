@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QCWYVWC-fr Jouet Chien Indestructible ZSTKEKE Jouets de Brosse à...'
 sku: 'B08QCWYVWC-fr'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

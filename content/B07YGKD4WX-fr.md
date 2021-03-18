@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YGKD4WX-fr Gloria Vanderbilt - Coffret Eau de Toilette 30 ml - Spray...'
 sku: 'B07YGKD4WX-fr'
-tags: [  ]
 actualPrice: 16.47 EUR
 currency: EUR
 price: 16.47

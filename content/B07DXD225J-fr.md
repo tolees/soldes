@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DXD225J-fr VTech - V Tech - Mon premier imagier bilingue - Version FR'
 sku: 'B07DXD225J-fr'
-tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GNGRRLP-fr FANDARE Mode Sacoche Ordinateur Portable 15.6 Pouces...'
 sku: 'B07GNGRRLP-fr'
-tags: [  ]
 actualPrice: 37.99 EUR
 currency: EUR
 price: 37.99

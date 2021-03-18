@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076ZQBN6R-fr Elgato Game Capture 4K60 Pro - Carte de Capture en 4K à 60...'
 sku: 'B076ZQBN6R-fr'
-tags: [  ]
 actualPrice: 273.91 EUR
 currency: EUR
 price: 273.91

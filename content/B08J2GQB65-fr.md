@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08J2GQB65-fr Tondeuse Cheveux Hommes Professionnelle CIICII Kit...'
 sku: 'B08J2GQB65-fr'
-tags: [  ]
 actualPrice: 68.98 EUR
 currency: EUR
 price: 68.98

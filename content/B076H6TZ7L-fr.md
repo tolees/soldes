@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B076H6TZ7L-fr Seagate Game Drive 4 To Disque dur externe portable HDD –...'
 sku: 'B076H6TZ7L-fr'
-tags: [  ]
 actualPrice: 107.6 EUR
 currency: EUR
 price: 107.6

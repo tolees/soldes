@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TM9NMJN-fr Etersky Interrupteur Volet Roulant Connecté WiFi...'
 sku: 'B07TM9NMJN-fr'
-tags: [  ]
 actualPrice: 59.49 EUR
 currency: EUR
 price: 59.49

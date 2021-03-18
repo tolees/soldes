@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V7HZXRP-fr BABY JOGGER - Baby Jogger City Mini GT2 poussette tout-...'
 sku: 'B07V7HZXRP-fr'
-tags: [  ]
 actualPrice: 249.5 EUR
 currency: EUR
 price: 249.5

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLFKFCS-fr Playmobil - Bateau de Sauvetage et Pompiers - 70147'
 sku: 'B07JLFKFCS-fr'
-tags: [  ]
 actualPrice: 26.34 EUR
 currency: EUR
 price: 26.34

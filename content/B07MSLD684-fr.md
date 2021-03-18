@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MSLD684-fr Sylvanian Families - Le Village - La Salle A Manger - 5340...'
 sku: 'B07MSLD684-fr'
-tags: [  ]
 actualPrice: 16.9 EUR
 currency: EUR
 price: 16.9

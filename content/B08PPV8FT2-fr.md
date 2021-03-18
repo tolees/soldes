@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PPV8FT2-fr Samsung Coque Transparente Galaxy S21'
 sku: 'B08PPV8FT2-fr'
-tags: [  ]
 actualPrice: 16.13 EUR
 currency: EUR
 price: 16.13

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NABOT8U-fr Beurer FC 45 Brosse nettoyante pour le visage étanche IPX...'
 sku: 'B00NABOT8U-fr'
-tags: [  ]
 actualPrice: 10.27 EUR
 currency: EUR
 price: 10.27

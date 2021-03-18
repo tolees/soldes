@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00GOEQ5HS-fr Scanpan SC68113200 Pro IQ Sauteuse-chef antiadhésive avec...'
 sku: 'B00GOEQ5HS-fr'
-tags: [  ]
 actualPrice: 91.62 EUR
 currency: EUR
 price: 91.62

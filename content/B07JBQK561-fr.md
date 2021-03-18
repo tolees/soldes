@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JBQK561-fr TalkJoy - FR Femme Montre-bracelet parlante française...'
 sku: 'B07JBQK561-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

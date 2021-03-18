@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07BB5FDS2-fr Kodak Printomatic Digital Instant Print Camera - Full...'
 sku: 'B07BB5FDS2-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

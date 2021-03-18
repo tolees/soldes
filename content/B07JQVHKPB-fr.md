@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JQVHKPB-fr Tommy Hilfiger Diamond Quilted Bomber Blouson Bleu...'
 sku: 'B07JQVHKPB-fr'
-tags: [  ]
 actualPrice: 170.35 EUR
 currency: EUR
 price: 170.35

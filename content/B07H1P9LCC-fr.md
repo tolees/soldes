@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H1P9LCC-fr LOVORDS Collier Mère Femme Gravé en Argent 925/1000...'
 sku: 'B07H1P9LCC-fr'
-tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BRGH7S3-fr Xiaomi Mi True Wireless Earphones 2 Basic Les Nouveaux...'
 sku: 'B08BRGH7S3-fr'
-tags: [ 'Casques et écouteurs','xiaomi', ]
 actualPrice: 25.19 EUR
 currency: EUR
 price: 25.19

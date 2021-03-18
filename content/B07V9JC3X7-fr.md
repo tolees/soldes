@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V9JC3X7-fr Calvin Klein 35mm Essential Belt Ceinture Noir Black BAX...'
 sku: 'B07V9JC3X7-fr'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

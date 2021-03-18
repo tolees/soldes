@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083W9VQ8W-fr SHEEN KELLY Lunettes de soleil polarisées carrées pour...'
 sku: 'B083W9VQ8W-fr'
-tags: [  ]
 actualPrice: 8.98 EUR
 currency: EUR
 price: 8.98

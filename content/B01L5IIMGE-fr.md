@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01L5IIMGE-fr LIVAN® - Sac à Main/Sac de Cours/Sac de Ville/Sac...'
 sku: 'B01L5IIMGE-fr'
-tags: [  ]
 actualPrice: 29.95 EUR
 currency: EUR
 price: 29.95

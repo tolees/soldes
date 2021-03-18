@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0733SH4HR-fr No Name - Coffret Louis de Funès - 12 films'
 sku: 'B0733SH4HR-fr'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076Y9FNQS-fr Levi s Graphic Tee B T-Shirt HM Ls Better White S Homme'
 sku: 'B076Y9FNQS-fr'
-tags: [ 'Bouteilles isothermes','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','T-shirts à manches longues homme','T-shirts, polos et chemises homme','Vêtements','Vêtements homme','levis', ]
 actualPrice: 19.45 EUR
 currency: EUR
 price: 19.45

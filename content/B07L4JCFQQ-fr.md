@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L4JCFQQ-fr Universal - Le Grinch [Blu-Ray + Digital]'
 sku: 'B07L4JCFQQ-fr'
-tags: [  ]
 actualPrice: 8.69 EUR
 currency: EUR
 price: 8.69

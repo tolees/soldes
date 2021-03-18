@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S7B7KCR-fr Ampoule Intelligente Wifi Led Smart Bulb E27 AISIRER RGB...'
 sku: 'B07S7B7KCR-fr'
-tags: [  ]
 actualPrice: 20.39 EUR
 currency: EUR
 price: 20.39

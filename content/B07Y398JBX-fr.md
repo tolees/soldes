@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Y398JBX-fr AUKEY Écouteurs Bluetooth 5 sans Fil Stéréo Oreillettes 25...'
 sku: 'B07Y398JBX-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

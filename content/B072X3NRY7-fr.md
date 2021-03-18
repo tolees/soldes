@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072X3NRY7-fr Columbia Pike Lake Veste à Capuche Homme Noir Taille XL'
 sku: 'B072X3NRY7-fr'
-tags: [  ]
 actualPrice: 70.99 EUR
 currency: EUR
 price: 70.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DV5CB6J-fr Android 10 3G Telephone Portable Debloqué Pas Cher Ulefone...'
 sku: 'B08DV5CB6J-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

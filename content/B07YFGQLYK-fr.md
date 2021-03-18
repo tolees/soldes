@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YFGQLYK-fr Western Digital - WD Rouge 500Go NAS SSD 2.5" SATA'
 sku: 'B07YFGQLYK-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

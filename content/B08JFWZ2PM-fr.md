@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JFWZ2PM-fr Herzberg Batterie de cuisine - lot de casserole induction...'
 sku: 'B08JFWZ2PM-fr'
-tags: [  ]
 actualPrice: 61.8 EUR
 currency: EUR
 price: 61.8

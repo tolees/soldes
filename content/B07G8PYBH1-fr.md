@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G8PYBH1-fr KOEI TECMO - Warriors Orochi 4'
 sku: 'B07G8PYBH1-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

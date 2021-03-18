@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RBRX1RT-fr PlayVital Housse Anti-Poussière en Nylon pour PS5...'
 sku: 'B08RBRX1RT-fr'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

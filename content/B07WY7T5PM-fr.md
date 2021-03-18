@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WY7T5PM-fr Always Discreet 0% - Serviettes pour incontinence / fuites...'
 sku: 'B07WY7T5PM-fr'
-tags: [  ]
 actualPrice: 21.7 EUR
 currency: EUR
 price: 21.7

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000WPJ7ES-fr Outhere Sa - Zig-zag Territoire a 10 ans : Bononcini...'
 sku: 'B000WPJ7ES-fr'
-tags: [  ]
 actualPrice: 12.49 EUR
 currency: EUR
 price: 12.49

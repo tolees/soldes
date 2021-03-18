@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001CCJ1O6-fr Nike Air Max Ltd 3 Sneakers Basses Homme Blanc...'
 sku: 'B001CCJ1O6-fr'
-tags: [  ]
 actualPrice: 60.0 EUR
 currency: EUR
 price: 60.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07CNVHL7M-fr BAITITON 2 5 Pouces SATA III Disque Flash SSD 60 Go...'
 sku: 'B07CNVHL7M-fr'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

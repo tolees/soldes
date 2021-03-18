@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FTMXP7N-fr TECCPO - Mallette Outils POPOMAN 97pcs Mallette a Outils...'
 sku: 'B07FTMXP7N-fr'
-tags: [  ]
 actualPrice: 49.29 EUR
 currency: EUR
 price: 49.29

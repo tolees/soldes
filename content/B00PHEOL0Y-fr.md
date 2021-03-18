@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PHEOL0Y-fr Florsheim Russel 50725/03 Chaussures de ville homme Noir...'
 sku: 'B00PHEOL0Y-fr'
-tags: [  ]
 actualPrice: 92.5 EUR
 currency: EUR
 price: 92.5

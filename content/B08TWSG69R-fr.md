@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08TWSG69R-fr Hunty - Disque Dur Externe 1to Portable Disque Dur Externe...'
 sku: 'B08TWSG69R-fr'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

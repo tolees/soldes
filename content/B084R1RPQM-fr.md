@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084R1RPQM-fr Funko POP Advent Calendar: Dragon Ball Z 49660 Multicolore'
 sku: 'B084R1RPQM-fr'
-tags: [  ]
 actualPrice: 38.92 EUR
 currency: EUR
 price: 38.92

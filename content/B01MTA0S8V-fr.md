@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MTA0S8V-fr EXTEL - 710016 Interphone collectif - Multipro 3'
 sku: 'B01MTA0S8V-fr'
-tags: [  ]
 actualPrice: 49.08 EUR
 currency: EUR
 price: 49.08

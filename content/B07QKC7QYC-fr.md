@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QKC7QYC-fr BRIKSMAX Kit de LED pour Architecture Chicago Compatible...'
 sku: 'B07QKC7QYC-fr'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

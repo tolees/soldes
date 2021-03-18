@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08F413YZD-fr HUAWEI WATCH FIT Montre Connectée Boitier en métal écran...'
 sku: 'B08F413YZD-fr'
-tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

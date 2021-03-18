@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B077TBHVJ2-fr BaByliss Paris - AS500E - Brosse soufflante rortative...'
 sku: 'B077TBHVJ2-fr'
-tags: [  ]
 actualPrice: 80.99 EUR
 currency: EUR
 price: 80.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NTKK7XK-fr ADLWLVE - Telephone Portable 4G 6 3 Pouces Android 9.0...'
 sku: 'B08NTKK7XK-fr'
-tags: [  ]
 actualPrice: 77.99 EUR
 currency: EUR
 price: 77.99

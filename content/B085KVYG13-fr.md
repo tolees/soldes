@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B085KVYG13-fr Ampoule Connectee AISIRER Ampoule WIFI LED E27...'
 sku: 'B085KVYG13-fr'
-tags: [ 'Ampoules Wi-Fi','aisirer', ]
 actualPrice: 34.84 EUR
 currency: EUR
 price: 34.84

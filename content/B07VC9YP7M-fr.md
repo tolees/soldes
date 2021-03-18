@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VC9YP7M-fr Triumph Fit Smart P Soutien-Gorge Invisible Noir Black 03...'
 sku: 'B07VC9YP7M-fr'
-tags: [  ]
 actualPrice: 35.96 EUR
 currency: EUR
 price: 35.96

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084R3GYYL-fr G-STAR RAW Droner Relaxed Tapered Cargo Pantalon...'
 sku: 'B084R3GYYL-fr'
-tags: [  ]
 actualPrice: 90.98 EUR
 currency: EUR
 price: 90.98

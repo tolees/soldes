@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071YY6B2D-fr Philips Audio - Philips BASS+ SHB3075BL - Casque Filaire -...'
 sku: 'B071YY6B2D-fr'
-tags: [  ]
 actualPrice: 36.58 EUR
 currency: EUR
 price: 36.58

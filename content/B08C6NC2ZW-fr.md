@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C6NC2ZW-fr Coffret : Godzilla : Roi des Monstres + Kong : Skull...'
 sku: 'B08C6NC2ZW-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

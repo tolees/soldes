@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QS96KDB-fr ASICS Gel-Rocket 9 Chaussures Multisport Indoor Homme Bleu...'
 sku: 'B07QS96KDB-fr'
-tags: [  ]
 actualPrice: 32.49 EUR
 currency: EUR
 price: 32.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078VGQCZ4-fr Sony WH-CH700N Casque Sans Fil Bluetooth à Réduction de...'
 sku: 'B078VGQCZ4-fr'
-tags: [  ]
 actualPrice: 95.52 EUR
 currency: EUR
 price: 95.52

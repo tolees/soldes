@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D6TZJJG-fr Focus Home Interactive - Farming Simulator 19 - Premium...'
 sku: 'B08D6TZJJG-fr'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

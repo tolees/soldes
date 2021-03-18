@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0098LFST0-fr Sharp R-742WW Four micro-ondes Blanc'
 sku: 'B0098LFST0-fr'
-tags: [  ]
 actualPrice: 104.0 EUR
 currency: EUR
 price: 104.0

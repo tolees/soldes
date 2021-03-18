@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08761MVPZ-fr l appel De La Foret 2020 [4K Ultra HD + Blu-Ray]'
 sku: 'B08761MVPZ-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

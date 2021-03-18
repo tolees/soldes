@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07V8X4KGG-fr Sony SEL35F18F Objectif 35 mm ouverture F 1.8'
 sku: 'B07V8X4KGG-fr'
-tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

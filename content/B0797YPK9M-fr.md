@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0797YPK9M-fr Sylvanian Families - La Ville - Le Grand Magasin de Ville...'
 sku: 'B0797YPK9M-fr'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

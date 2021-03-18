@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01IDSEJFW-fr No Name - Warcraft : Le Commencement [Blu-Ray]'
 sku: 'B01IDSEJFW-fr'
-tags: [  ]
 actualPrice: 4.99 EUR
 currency: EUR
 price: 4.99

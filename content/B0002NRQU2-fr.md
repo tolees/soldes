@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0002NRQU2-fr Atlantic - Roll The Bones'
 sku: 'B0002NRQU2-fr'
-tags: [  ]
 actualPrice: 4.9 EUR
 currency: EUR
 price: 4.9

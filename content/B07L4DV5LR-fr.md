@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07L4DV5LR-fr ASICS Gel-Nimbus 21 Chaussures de Running Homme Noir Black...'
 sku: 'B07L4DV5LR-fr'
-tags: [  ]
 actualPrice: 136.1 EUR
 currency: EUR
 price: 136.1

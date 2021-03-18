@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FWFWQG8-fr FRIFRI FRANCE F4528DUO Pro Design Friteuse 2800 W 4.5...'
 sku: 'B01FWFWQG8-fr'
-tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

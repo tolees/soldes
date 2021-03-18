@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081PQZYJX-fr eufy Security Sonnette vidéo complémentaire sans Fil avec...'
 sku: 'B081PQZYJX-fr'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X6YLF3H-fr Riyth - Disque Dur Externe 1to USB3.1 Type-C Disque Dur...'
 sku: 'B08X6YLF3H-fr'
-tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

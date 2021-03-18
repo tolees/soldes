@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HSKPHQR-fr La Nonne [Blu-Ray]'
 sku: 'B07HSKPHQR-fr'
-tags: [  ]
 actualPrice: 6.4 EUR
 currency: EUR
 price: 6.4

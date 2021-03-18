@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P8PMYDR-fr Playmobil - Camion de Dépannage - 70199'
 sku: 'B07P8PMYDR-fr'
-tags: [  ]
 actualPrice: 39.9 EUR
 currency: EUR
 price: 39.9

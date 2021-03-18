@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMDUFVI-fr Harmonia Mundi France - Beethoven : Complete Works for...'
 sku: 'B00LMDUFVI-fr'
-tags: [ 'harmonia mundi france', ]
 actualPrice: 16.57 EUR
 currency: EUR
 price: 16.57

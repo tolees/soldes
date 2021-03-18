@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B002JCSY28-fr Crocs Crocband Flip Tongs Mixte Adulte Bianco White 100...'
 sku: 'B002JCSY28-fr'
-tags: [  ]
 actualPrice: 12.02 EUR
 currency: EUR
 price: 12.02

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08SC7GFKF-fr GEEMEE Manette pour PS4 Bluetooth Contrôleur Manette de...'
 sku: 'B08SC7GFKF-fr'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

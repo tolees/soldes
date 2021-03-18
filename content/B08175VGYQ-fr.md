@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08175VGYQ-fr Playmobil - Scooby-Doo! Mystery Machine - 70286'
 sku: 'B08175VGYQ-fr'
-tags: [ 'Coffrets de figurines pour enfants','Figurines de personnages','playmobil', ]
 actualPrice: 43.1 EUR
 currency: EUR
 price: 43.1

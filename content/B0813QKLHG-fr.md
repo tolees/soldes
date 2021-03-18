@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813QKLHG-fr LEGO 31200 Art Star Wars Les Siths Set pour Adultes...'
 sku: 'B0813QKLHG-fr'
-tags: [ 'Bouteilles isothermes','Casques de réalité virtuelle pour PC','Commodore 64: Jeux, consoles et accessoires','Consoles pour Commodore 64','Consoles rétro et mini consoles','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux vidéo','PC: Jeux et accessoires','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','Systèmes de réalité virtuelle pour PC','lego', ]
 actualPrice: 101.99 EUR
 currency: EUR
 price: 101.99

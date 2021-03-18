@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0783QLKZN-fr PUMA Smash v2 L Baskets de Cross Mixte Noir Black Black 39 EU'
 sku: 'B0783QLKZN-fr'
-tags: [  ]
 actualPrice: 34.0 EUR
 currency: EUR
 price: 34.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SC7BZHR-fr SanDisk Carte Mémoire microSDXC Ultra 512 Go + Adaptateur...'
 sku: 'B07SC7BZHR-fr'
-tags: [  ]
 actualPrice: 81.25 EUR
 currency: EUR
 price: 81.25

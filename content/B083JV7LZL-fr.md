@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083JV7LZL-fr Lacoste NF3217 Sac à main Femme Eclipse Taille unique'
 sku: 'B083JV7LZL-fr'
-tags: [  ]
 actualPrice: 187.2 EUR
 currency: EUR
 price: 187.2

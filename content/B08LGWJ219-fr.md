@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LGWJ219-fr Hori - Volant de Course Overdrive Conçu pour Xbox Series X/S'
 sku: 'B08LGWJ219-fr'
-tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

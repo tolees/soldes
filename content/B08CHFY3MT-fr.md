@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CHFY3MT-fr AOKBON Booster Batterie Voiture 1200A 13200mAh Démarrage...'
 sku: 'B08CHFY3MT-fr'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

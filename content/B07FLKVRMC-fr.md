@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FLKVRMC-fr KLIM Chroma Clavier sans Fil Gamer AZERTY FRANÇAIS + Fin...'
 sku: 'B07FLKVRMC-fr'
-tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

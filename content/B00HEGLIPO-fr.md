@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00HEGLIPO-fr INTEX - 0774111 - Matelas Gonflable - Wave Rider - Ride-on'
 sku: 'B00HEGLIPO-fr'
-tags: [  ]
 actualPrice: 5.99 EUR
 currency: EUR
 price: 5.99

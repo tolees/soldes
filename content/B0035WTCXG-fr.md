@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0035WTCXG-fr Warner Home Vidéo France - Sur écoute - L intégrale de la...'
 sku: 'B0035WTCXG-fr'
-tags: [  ]
 actualPrice: 30.0 EUR
 currency: EUR
 price: 30.0

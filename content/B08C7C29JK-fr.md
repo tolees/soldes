@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08C7C29JK-fr Donerton Écouteur Bluetooth 5.1 Écouteur sans Fil Sport...'
 sku: 'B08C7C29JK-fr'
-tags: [  ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

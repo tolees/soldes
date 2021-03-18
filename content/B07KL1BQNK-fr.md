@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07KL1BQNK-fr PAUL & JOE Jpaullove T-Shirt Blanc Blanc/White 01 40...'
 sku: 'B07KL1BQNK-fr'
-tags: [  ]
 actualPrice: 42.94 EUR
 currency: EUR
 price: 42.94

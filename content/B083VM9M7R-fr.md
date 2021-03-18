@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083VM9M7R-fr Splash Toys- PINYPON Coffret 4 Figurines City 32022'
 sku: 'B083VM9M7R-fr'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

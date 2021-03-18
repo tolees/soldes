@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDJLXNQ-fr CHiQ L40G4500 40" Full HD LED LCD TV 40 Pouces 101cm...'
 sku: 'B07ZDJLXNQ-fr'
-tags: [  ]
 actualPrice: 239.99 EUR
 currency: EUR
 price: 239.99

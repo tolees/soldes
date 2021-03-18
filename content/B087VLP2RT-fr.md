@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087VLP2RT-fr Nouvelle Manette Xbox Sans Fil - Robot White'
 sku: 'B087VLP2RT-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

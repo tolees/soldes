@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B078JTMDWH-fr SanDisk Extreme PRO - Lecteur/enregistreur USB-C portable...'
 sku: 'B078JTMDWH-fr'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

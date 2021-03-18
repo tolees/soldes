@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HCFCQLS-fr Zexrow Manette pour Nintendo Switch Bluetooth Manette...'
 sku: 'B08HCFCQLS-fr'
-tags: [  ]
 actualPrice: 22.09 EUR
 currency: EUR
 price: 22.09

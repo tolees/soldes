@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PM4P2RR-fr Polar OH1+ Capteur de Fréquence Cardiaque Optique Étanche...'
 sku: 'B07PM4P2RR-fr'
-tags: [  ]
 actualPrice: 57.4 EUR
 currency: EUR
 price: 57.4

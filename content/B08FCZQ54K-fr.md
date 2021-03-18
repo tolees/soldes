@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCZQ54K-fr Pikmin 3 Deluxe Nintendo Switch Édition française'
 sku: 'B08FCZQ54K-fr'
-tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

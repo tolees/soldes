@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KRCW6LZ-fr TP-Link Archer T2U Nano Clé WiFi AC 600 Mbps adaptateur...'
 sku: 'B07KRCW6LZ-fr'
-tags: [ 'tp-link', ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

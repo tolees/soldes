@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HRTDLQ7-fr Luna et Margarita Robe Noire Moulante Blanche Simple Chic...'
 sku: 'B07HRTDLQ7-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

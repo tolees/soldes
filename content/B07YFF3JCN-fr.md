@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07YFF3JCN-fr Western Digital - WD Bleu SN550 500 Go SSD NVMe Gén. 3 x4...'
 sku: 'B07YFF3JCN-fr'
-tags: [ 'SSD internes','western digital', ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VPMSWBG-fr LIGE Montre Mode Dames Quartz Imperméable Montres pour...'
 sku: 'B07VPMSWBG-fr'
-tags: [  ]
 actualPrice: 36.99 EUR
 currency: EUR
 price: 36.99

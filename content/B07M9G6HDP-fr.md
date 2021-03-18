@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M9G6HDP-fr Le Coq Sportif Break COCARDE Baskets Mixte Adulte Blanc...'
 sku: 'B07M9G6HDP-fr'
-tags: [  ]
 actualPrice: 47.5 EUR
 currency: EUR
 price: 47.5

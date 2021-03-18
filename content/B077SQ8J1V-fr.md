@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B077SQ8J1V-fr Crucial 500Go CT500MX500SSD4 SSD interne MX500-jusqu’à 560...'
 sku: 'B077SQ8J1V-fr'
-tags: [  ]
 actualPrice: 58.99 EUR
 currency: EUR
 price: 58.99

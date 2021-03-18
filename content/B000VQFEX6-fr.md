@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000VQFEX6-fr Timberland Chocorua Trail Mid Gore-Tex Bottes Femme Marron...'
 sku: 'B000VQFEX6-fr'
-tags: [  ]
 actualPrice: 93.21 EUR
 currency: EUR
 price: 93.21

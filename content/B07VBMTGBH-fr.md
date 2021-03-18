@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07VBMTGBH-fr balnore 21 Pcs Maquillage Enfant Jouet Fille avec Coffrets...'
 sku: 'B07VBMTGBH-fr'
-tags: [  ]
 actualPrice: 22.94 EUR
 currency: EUR
 price: 22.94

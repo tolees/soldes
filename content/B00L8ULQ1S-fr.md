@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00L8ULQ1S-fr Ice-Watch - ICE glam Black Rose-Gold - Montre noire pour...'
 sku: 'B00L8ULQ1S-fr'
-tags: [  ]
 actualPrice: 57.7 EUR
 currency: EUR
 price: 57.7

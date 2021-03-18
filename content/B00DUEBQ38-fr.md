@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00DUEBQ38-fr Axe Dark Temptation Déodorant Homme Spray Antibactérien...'
 sku: 'B00DUEBQ38-fr'
-tags: [  ]
 actualPrice: 12.37 EUR
 currency: EUR
 price: 12.37

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00MN849PE-fr Bosch Electroménager - Bosch BBZ41FGALL Sacs Aspirateurs G...'
 sku: 'B00MN849PE-fr'
-tags: [  ]
 actualPrice: 6.48 EUR
 currency: EUR
 price: 6.48

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TD4R22P-fr LIGHTAILING Jeu De Lumières pour Architecture Paris Modèle...'
 sku: 'B07TD4R22P-fr'
-tags: [  ]
 actualPrice: 42.99 EUR
 currency: EUR
 price: 42.99

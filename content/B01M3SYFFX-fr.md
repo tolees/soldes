@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01M3SYFFX-fr Robert Welch ARDBR1099V/84 Ensemble de couverts'
 sku: 'B01M3SYFFX-fr'
-tags: [  ]
 actualPrice: 314.3 EUR
 currency: EUR
 price: 314.3

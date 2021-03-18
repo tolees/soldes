@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PMS4BFC-fr Maxesla Clé WiFi Double Bande AC 1200Mbps USB WiFi...'
 sku: 'B07PMS4BFC-fr'
-tags: [  ]
 actualPrice: 13.59 EUR
 currency: EUR
 price: 13.59

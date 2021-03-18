@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T7NXSC3-fr Square Enix - Marvel s Avengers PS4'
 sku: 'B07T7NXSC3-fr'
-tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

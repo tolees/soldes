@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B73FLMN-fr 1917 + Il Faut sauver Le Soldat Ryan'
 sku: 'B08B73FLMN-fr'
-tags: [  ]
 actualPrice: 7.5 EUR
 currency: EUR
 price: 7.5

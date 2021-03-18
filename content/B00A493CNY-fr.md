@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00A493CNY-fr StarTech.com Adaptateur actif DisplayPort vers DVI-D Dual...'
 sku: 'B00A493CNY-fr'
-tags: [  ]
 actualPrice: 86.64 EUR
 currency: EUR
 price: 86.64

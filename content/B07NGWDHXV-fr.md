@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NGWDHXV-fr Roy Robson 9.6019E+13 Blouson Bleu Small Taille Fabricant:...'
 sku: 'B07NGWDHXV-fr'
-tags: [  ]
 actualPrice: 80.19 EUR
 currency: EUR
 price: 80.19

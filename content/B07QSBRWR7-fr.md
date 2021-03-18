@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QSBRWR7-fr Razer Blade 15 Advanced Model 2019 15.6 Inch FullHD...'
 sku: 'B07QSBRWR7-fr'
-tags: [  ]
 actualPrice: 2037.27 EUR
 currency: EUR
 price: 2037.27

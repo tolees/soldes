@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00OKBHLY8-fr G-STAR RAW - G-Star Arc 3D Slim-Wisk Denim Jeans Bleu lt...'
 sku: 'B00OKBHLY8-fr'
-tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

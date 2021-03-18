@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000Y4LZRE-fr Vilac - 9250 - Bascule - Keith Haring'
 sku: 'B000Y4LZRE-fr'
-tags: [  ]
 actualPrice: 104.26 EUR
 currency: EUR
 price: 104.26

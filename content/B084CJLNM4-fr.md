@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084CJLNM4-fr SanDisk MAX ENDURANCE Carte microSDHC 32Go + Adaptateur SD...'
 sku: 'B084CJLNM4-fr'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086HLMVP6-fr Ampoule WiFi Led E27 Gosund Smart Dimmable Led Bulbs Avec...'
 sku: 'B086HLMVP6-fr'
-tags: [  ]
 actualPrice: 18.69 EUR
 currency: EUR
 price: 18.69

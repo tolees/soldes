@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079K3V8DX-fr Regatta Chaussures Techniques de Marche Samaris II Walking...'
 sku: 'B079K3V8DX-fr'
-tags: [ 'regatta', ]
 actualPrice: 40.24 EUR
 currency: EUR
 price: 40.24

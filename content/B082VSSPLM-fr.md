@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082VSSPLM-fr Schwarzkopf - Gliss - Masque Cheveux - Ultimate Repair -...'
 sku: 'B082VSSPLM-fr'
-tags: [  ]
 actualPrice: 3.47 EUR
 currency: EUR
 price: 3.47

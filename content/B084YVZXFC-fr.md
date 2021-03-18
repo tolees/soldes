@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084YVZXFC-fr Zuru X-Shot Dino Attack Jouet 4866 16 fléchettes 4 œufs'
 sku: 'B084YVZXFC-fr'
-tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

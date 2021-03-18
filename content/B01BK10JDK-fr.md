@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BK10JDK-fr KATAHIRO KUBOTA Couteau Zen Santoku Damas 7 pouces'
 sku: 'B01BK10JDK-fr'
-tags: [  ]
 actualPrice: 99.0 EUR
 currency: EUR
 price: 99.0

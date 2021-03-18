@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001QOC56Q-fr Levi s 501 Original Fit Jeans Onewash 34W / 32L Homme'
 sku: 'B001QOC56Q-fr'
-tags: [  ]
 actualPrice: 59.98 EUR
 currency: EUR
 price: 59.98

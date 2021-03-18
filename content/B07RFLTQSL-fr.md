@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RFLTQSL-fr Samsung Galaxy A20e 5 8 " ?cran 32 GB extensible 3 GB de...'
 sku: 'B07RFLTQSL-fr'
-tags: [ 'Smartphones et téléphones portables débloqués','samsung', ]
 actualPrice: 131.89 EUR
 currency: EUR
 price: 131.89

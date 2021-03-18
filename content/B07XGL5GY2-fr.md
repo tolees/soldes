@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XGL5GY2-fr EBTOOLS Phares antibrouillard de la Moto LED Lampe de...'
 sku: 'B07XGL5GY2-fr'
-tags: [  ]
 actualPrice: 54.69 EUR
 currency: EUR
 price: 54.69

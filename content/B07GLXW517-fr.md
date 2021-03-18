@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GLXW517-fr Moulinex moule à gâteaux XA609001 pour les multicuiseurs...'
 sku: 'B07GLXW517-fr'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

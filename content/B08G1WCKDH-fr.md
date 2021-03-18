@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G1WCKDH-fr Tellegante - Antenne TV Intérieur TNT HD Puissante -...'
 sku: 'B08G1WCKDH-fr'
-tags: [  ]
 actualPrice: 20.95 EUR
 currency: EUR
 price: 20.95

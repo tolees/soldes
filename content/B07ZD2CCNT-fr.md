@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZD2CCNT-fr KLARSTEIN Bella Pico 2G Robot de cuisine - 1200 W/1 6 PS...'
 sku: 'B07ZD2CCNT-fr'
-tags: [  ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99

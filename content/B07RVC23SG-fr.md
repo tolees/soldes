@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RVC23SG-fr Sony WH-XB900N Casque Bluetooth à réduction de Bruit Extra...'
 sku: 'B07RVC23SG-fr'
-tags: [  ]
 actualPrice: 149.99 EUR
 currency: EUR
 price: 149.99

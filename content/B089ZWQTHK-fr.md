@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089ZWQTHK-fr Fivejoy Jouets De Construction De Jardin De Fleurs pour...'
 sku: 'B089ZWQTHK-fr'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

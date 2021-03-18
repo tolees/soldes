@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GSNXYSF-fr Home Holic Voiture Télécommandée pour Tout-Petits avec...'
 sku: 'B08GSNXYSF-fr'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

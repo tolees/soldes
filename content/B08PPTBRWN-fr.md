@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08PPTBRWN-fr Samsung Smart Clear View Cover Noir Galaxy S21'
 sku: 'B08PPTBRWN-fr'
-tags: [  ]
 actualPrice: 43.3 EUR
 currency: EUR
 price: 43.3

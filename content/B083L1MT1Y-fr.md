@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083L1MT1Y-fr Sylvanian Families - Le Village - La Famille Chien Caramel...'
 sku: 'B083L1MT1Y-fr'
-tags: [  ]
 actualPrice: 16.19 EUR
 currency: EUR
 price: 16.19

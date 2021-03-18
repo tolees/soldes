@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T364LRD-fr tech rc Mini Drone 20 Minutes Autonomie et Télécommande...'
 sku: 'B07T364LRD-fr'
-tags: [  ]
 actualPrice: 26.0 EUR
 currency: EUR
 price: 26.0

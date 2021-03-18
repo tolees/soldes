@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B082PGN1LZ-fr Corolle- Bébé Calin Myrtille Fleurs Poupon 100280 Rose'
 sku: 'B082PGN1LZ-fr'
-tags: [ 'Poupées et poupons','corolle', ]
 actualPrice: 27.5 EUR
 currency: EUR
 price: 27.5

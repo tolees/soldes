@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079H8WKY2-fr Panama Jack Bambina Igloo Bottes hautes Femme Noir Negro...'
 sku: 'B079H8WKY2-fr'
-tags: [  ]
 actualPrice: 81.92 EUR
 currency: EUR
 price: 81.92

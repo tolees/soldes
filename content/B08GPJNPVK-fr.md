@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GPJNPVK-fr Hommie Montre Connectée Homme Smartwatch Sport Etanche...'
 sku: 'B08GPJNPVK-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

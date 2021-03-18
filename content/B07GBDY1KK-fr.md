@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GBDY1KK-fr Krups YY3876FD Machine à Café Manuelle Nescafé Dolce Gusto...'
 sku: 'B07GBDY1KK-fr'
-tags: [  ]
 actualPrice: 73.0 EUR
 currency: EUR
 price: 73.0

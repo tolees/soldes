@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071HV6CPS-fr Velvet-Saison 4'
 sku: 'B071HV6CPS-fr'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

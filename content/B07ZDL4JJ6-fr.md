@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07ZDL4JJ6-fr Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G 6.53...'
 sku: 'B07ZDL4JJ6-fr'
-tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

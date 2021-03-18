@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B084C9ZTFS-fr Vampire Diaries-L intégrale'
 sku: 'B084C9ZTFS-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

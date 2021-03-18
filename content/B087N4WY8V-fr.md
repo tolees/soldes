@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087N4WY8V-fr DJI Mavic Air 2 Bundle Fly More – Drone avec Vidéo 4K...'
 sku: 'B087N4WY8V-fr'
-tags: [  ]
 actualPrice: 550.0 EUR
 currency: EUR
 price: 550.0

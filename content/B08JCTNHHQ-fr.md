@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08JCTNHHQ-fr SNAPTAIN SP7100 Drone GPS avec Caméra 4K UHD FPV 5G Moteur...'
 sku: 'B08JCTNHHQ-fr'
-tags: [  ]
 actualPrice: 265.99 EUR
 currency: EUR
 price: 265.99

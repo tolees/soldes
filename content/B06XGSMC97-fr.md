@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XGSMC97-fr URBANMOVE Start Plus Trottinette Électrique Mixte Adulte Noir'
 sku: 'B06XGSMC97-fr'
-tags: [  ]
 actualPrice: 339.99 EUR
 currency: EUR
 price: 339.99

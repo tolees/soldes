@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00SVDJBEO-fr Stanley Fmht0-62689 Big S Tournevis À Cliquet Avec LEDs/12...'
 sku: 'B00SVDJBEO-fr'
-tags: [ 'stanley', ]
 actualPrice: 16.15 EUR
 currency: EUR
 price: 16.15

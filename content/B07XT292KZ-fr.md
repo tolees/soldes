@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XT292KZ-fr BelleStyle Montessori Jouets Jouet à Enfiler Ananas Bois...'
 sku: 'B07XT292KZ-fr'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

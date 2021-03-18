@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0784QDQ7X-fr Adidas Campus Chaussures de Fitness Homme Jaune...'
 sku: 'B0784QDQ7X-fr'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

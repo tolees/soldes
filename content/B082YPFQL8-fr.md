@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B082YPFQL8-fr Playmobil Parc Animalier 70341'
 sku: 'B082YPFQL8-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

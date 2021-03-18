@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PQLL8KD-fr Polar H10+ Capteur de Fréquence Cardiaque Haute précision...'
 sku: 'B07PQLL8KD-fr'
-tags: [  ]
 actualPrice: 72.95 EUR
 currency: EUR
 price: 72.95

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07D4ZPJZZ-fr POP CULTURE ANTHOLOGY 20 FILMS CULTES DVD/BR [Édition...'
 sku: 'B07D4ZPJZZ-fr'
-tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

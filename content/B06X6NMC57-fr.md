@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06X6NMC57-fr Playmobil - Famille et Barbecue Estival - 9272'
 sku: 'B06X6NMC57-fr'
-tags: [  ]
 actualPrice: 22.7 EUR
 currency: EUR
 price: 22.7

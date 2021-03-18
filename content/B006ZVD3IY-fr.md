@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B006ZVD3IY-fr Sylvanian Families - 2745 - Maison aux 3 Histoires'
 sku: 'B006ZVD3IY-fr'
-tags: [  ]
 actualPrice: 48.99 EUR
 currency: EUR
 price: 48.99

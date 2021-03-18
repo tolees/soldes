@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DHZQ9N7-fr United Colors of Benetton - 2DQ55K1P4 - Manteau longue -...'
 sku: 'B07DHZQ9N7-fr'
-tags: [  ]
 actualPrice: 70.31 EUR
 currency: EUR
 price: 70.31

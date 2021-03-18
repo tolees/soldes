@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087CNDDXF-fr NIS - The Legend Of Heroes Trails Of Cold Steel IV'
 sku: 'B087CNDDXF-fr'
-tags: [ 'nis', ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0822Y6PQD-fr ROWENTA X-Trem Power Cyclonic Aspirateur sans Sac...'
 sku: 'B0822Y6PQD-fr'
-tags: [  ]
 actualPrice: 119.89 EUR
 currency: EUR
 price: 119.89

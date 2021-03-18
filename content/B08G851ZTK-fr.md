@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G851ZTK-fr Imou Caméra Surveillance WiFi Interieur Caméra 360°...'
 sku: 'B08G851ZTK-fr'
-tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

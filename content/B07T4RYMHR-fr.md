@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T4RYMHR-fr Warner Bros. - Le Prince de Bel-Air-L intégrale des...'
 sku: 'B07T4RYMHR-fr'
-tags: [  ]
 actualPrice: 21.83 EUR
 currency: EUR
 price: 21.83

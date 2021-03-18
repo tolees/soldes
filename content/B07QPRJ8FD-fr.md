@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07QPRJ8FD-fr Briksmax Kit de LED pour La Statue de la Liberté...'
 sku: 'B07QPRJ8FD-fr'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

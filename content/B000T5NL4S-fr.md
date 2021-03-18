@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000T5NL4S-fr Lacor 68000 Plaque à Madeleine 12 Alvéoles Non Adhérent'
 sku: 'B000T5NL4S-fr'
-tags: [  ]
 actualPrice: 11.98 EUR
 currency: EUR
 price: 11.98

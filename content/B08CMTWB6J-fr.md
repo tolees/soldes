@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CMTWB6J-fr meross - Ampoule Connectée HomeKit Lot de 4 LED Ampoule...'
 sku: 'B08CMTWB6J-fr'
-tags: [  ]
 actualPrice: 42.49 EUR
 currency: EUR
 price: 42.49

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081QGQ13N-fr Le Mans 66 [4K Ultra HD + Blu-Ray]'
 sku: 'B081QGQ13N-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08B84NCGN-fr Fisher-Price Little People Le Tracteur musical à faire...'
 sku: 'B08B84NCGN-fr'
-tags: [  ]
 actualPrice: 22.05 EUR
 currency: EUR
 price: 22.05

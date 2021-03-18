@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JN7VMR5-fr Pandora Femme Argent Charms et perles - 797516'
 sku: 'B07JN7VMR5-fr'
-tags: [  ]
 actualPrice: 17.1 EUR
 currency: EUR
 price: 17.1

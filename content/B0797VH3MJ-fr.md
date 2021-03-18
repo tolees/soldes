@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0797VH3MJ-fr FULLLIGHT TECH - Kit De Coffret Coin Barbe Homme Complet...'
 sku: 'B0797VH3MJ-fr'
-tags: [  ]
 actualPrice: 22.02 EUR
 currency: EUR
 price: 22.02

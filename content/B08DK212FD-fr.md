@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DK212FD-fr YISSVIC Aspirateur Balai Sans Fil 26000pa 350W 4 en 1...'
 sku: 'B08DK212FD-fr'
-tags: [  ]
 actualPrice: 84.99 EUR
 currency: EUR
 price: 84.99

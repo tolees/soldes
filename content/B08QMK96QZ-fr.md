@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QMK96QZ-fr ANPTER - Rose Fleurs Rose Feuille dor 24K artificielles...'
 sku: 'B08QMK96QZ-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

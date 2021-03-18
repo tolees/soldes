@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000O5AZ4C-fr Jeujura - 8850-Tableau en Bois-Pupitre Multifonctions en Bois'
 sku: 'B000O5AZ4C-fr'
-tags: [ 'Kits de créations en bois pour enfants','jeujura', ]
 actualPrice: 43.99 EUR
 currency: EUR
 price: 43.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UICED5I-fr Tefal RK103811 Classic Cuiseur à Riz Noir Métallisé'
 sku: 'B00UICED5I-fr'
-tags: [  ]
 actualPrice: 24.11 EUR
 currency: EUR
 price: 24.11

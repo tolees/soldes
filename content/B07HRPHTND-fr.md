@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HRPHTND-fr meross - Prise Intelligente Extérieure Multiprise Étanche...'
 sku: 'B07HRPHTND-fr'
-tags: [  ]
 actualPrice: 24.64 EUR
 currency: EUR
 price: 24.64

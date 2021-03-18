@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DSVGQGZ-fr Philips HD3720/25 PerfectDraft Tireuse à Bière Domestique...'
 sku: 'B07DSVGQGZ-fr'
-tags: [  ]
 actualPrice: 219.99 EUR
 currency: EUR
 price: 219.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7KT2B3-fr Logitech G - Logitech Casque Gaming sans fil LIGHTSPEED...'
 sku: 'B07W7KT2B3-fr'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

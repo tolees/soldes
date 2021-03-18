@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XZDJGJ5-fr Baztoy Air Power Football Jouet Enfant Ballon de Foot...'
 sku: 'B07XZDJGJ5-fr'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

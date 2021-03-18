@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N2WLZ24-fr Kärcher 2.055-007.0 Rouleaux de rechange accessoire pour FC 5'
 sku: 'B01N2WLZ24-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08NPNR46W-fr marque - PLANCHE A DECOUPER EN BAMBOU+4 TIROIR AVEC...'
 sku: 'B08NPNR46W-fr'
-tags: [  ]
 actualPrice: 52.9 EUR
 currency: EUR
 price: 52.9

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01GE3ZR6S-fr Le Monde de Dory [Blu-Ray]'
 sku: 'B01GE3ZR6S-fr'
-tags: [  ]
 actualPrice: 12.44 EUR
 currency: EUR
 price: 12.44

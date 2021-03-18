@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08F1XML6B-fr Écouteurs Bluetooth 5.0 Écouteur sans Fil avec réduction...'
 sku: 'B08F1XML6B-fr'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

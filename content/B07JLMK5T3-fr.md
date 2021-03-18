@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JLMK5T3-fr Trust Gaming GXT 144 Rexx Souris Gamer de Jeu Verticale...'
 sku: 'B07JLMK5T3-fr'
-tags: [  ]
 actualPrice: 25.99 EUR
 currency: EUR
 price: 25.99

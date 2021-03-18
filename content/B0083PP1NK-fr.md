@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0083PP1NK-fr Jsp - 1927/1928 Country Music s Big Bang'
 sku: 'B0083PP1NK-fr'
-tags: [  ]
 actualPrice: 11.11 EUR
 currency: EUR
 price: 11.11

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HSK39QG-fr Walt Disney Records - Les 100 Plus Belles Chansons Disney'
 sku: 'B07HSK39QG-fr'
-tags: [  ]
 actualPrice: 15.39 EUR
 currency: EUR
 price: 15.39

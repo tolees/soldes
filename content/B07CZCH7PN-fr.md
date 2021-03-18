@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CZCH7PN-fr Under Armour Links Pant Pantalon Femme Bleu 8'
 sku: 'B07CZCH7PN-fr'
-tags: [  ]
 actualPrice: 50.27 EUR
 currency: EUR
 price: 50.27

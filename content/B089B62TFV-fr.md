@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B089B62TFV-fr Willful Montre Connectée Femmes Homme Smartwatch Montre...'
 sku: 'B089B62TFV-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

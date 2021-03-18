@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XG8L3CW-fr Ecouteur Bluetooth Muzili IPX7 Écouteur sans Fil Sport...'
 sku: 'B07XG8L3CW-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

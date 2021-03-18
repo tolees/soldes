@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071SGN34W-fr KLIM™ Lightning - Nouvelle Version 2021 - Clavier Gamers...'
 sku: 'B071SGN34W-fr'
-tags: [  ]
 actualPrice: 39.97 EUR
 currency: EUR
 price: 39.97

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DGNCBY5-fr Oral-B Smart 5 - 5000 - Brosse à Dents Électrique...'
 sku: 'B07DGNCBY5-fr'
-tags: [  ]
 actualPrice: 68.13 EUR
 currency: EUR
 price: 68.13

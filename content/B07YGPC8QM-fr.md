@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07YGPC8QM-fr Philips Audio Barre de son home cinéma Philips PB603/10...'
 sku: 'B07YGPC8QM-fr'
-tags: [  ]
 actualPrice: 279.0 EUR
 currency: EUR
 price: 279.0

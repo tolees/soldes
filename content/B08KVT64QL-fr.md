@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08KVT64QL-fr Playmobil Parc d attractions 70558'
 sku: 'B08KVT64QL-fr'
-tags: [ 'Coffrets de figurines pour enfants','playmobil', ]
 actualPrice: 40.99 EUR
 currency: EUR
 price: 40.99

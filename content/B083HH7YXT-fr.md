@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083HH7YXT-fr wilbest® Portefeuille Homme Portemonnaie Mince avec Pince...'
 sku: 'B083HH7YXT-fr'
-tags: [  ]
 actualPrice: 14.44 EUR
 currency: EUR
 price: 14.44

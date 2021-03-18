@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DDT9GFG-fr Only NOS Onlqueen L/s Long Cardigan KNT Noos Gilet...'
 sku: 'B07DDT9GFG-fr'
-tags: [  ]
 actualPrice: 21.98 EUR
 currency: EUR
 price: 21.98

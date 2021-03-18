@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X5JJGLM-fr rockspace - Amplificateur WiFi sans Fil Puissant –...'
 sku: 'B07X5JJGLM-fr'
-tags: [  ]
 actualPrice: 41.99 EUR
 currency: EUR
 price: 41.99

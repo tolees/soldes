@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GWS32NK-fr SENXINGYAN - Enceinte Bluetooth Portable 30W Haut Parleur...'
 sku: 'B08GWS32NK-fr'
-tags: [  ]
 actualPrice: 39.09 EUR
 currency: EUR
 price: 39.09

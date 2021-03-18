@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GDR2LYK-fr Sony WH-1000XM3 Casque Bluetooth à réduction de bruit sans...'
 sku: 'B07GDR2LYK-fr'
-tags: [  ]
 actualPrice: 269.0 EUR
 currency: EUR
 price: 269.0

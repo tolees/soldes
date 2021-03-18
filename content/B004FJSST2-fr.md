@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B004FJSST2-fr D-Link DGS-1008P Switch 8 Ports Gigabit POE...'
 sku: 'B004FJSST2-fr'
-tags: [  ]
 actualPrice: 56.42 EUR
 currency: EUR
 price: 56.42

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5Z8T2J-fr ProCase Coque à Rabat + 2 Film d Écran pour Nintendo...'
 sku: 'B08B5Z8T2J-fr'
-tags: [  ]
 actualPrice: 20.99 EUR
 currency: EUR
 price: 20.99

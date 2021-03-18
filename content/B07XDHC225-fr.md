@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XDHC225-fr Hawiton Pyjama Homme Hiver Parent Enfant Vetement Ensemble...'
 sku: 'B07XDHC225-fr'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

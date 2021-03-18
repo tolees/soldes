@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MYLXPFW-fr Kaporal - Doudoune Coupe Droite - Mopa - Homme - XL - Noir'
 sku: 'B07MYLXPFW-fr'
-tags: [  ]
 actualPrice: 53.47 EUR
 currency: EUR
 price: 53.47

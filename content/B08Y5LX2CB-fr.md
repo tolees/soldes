@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08Y5LX2CB-fr Maegoo Manette Sans Fil PC PS3 2.4G Bluetooth de Jeu...'
 sku: 'B08Y5LX2CB-fr'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

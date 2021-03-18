@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00VMKJ1B6-fr Diesel Homme Chronographe Quartz Montre avec Bracelet en...'
 sku: 'B00VMKJ1B6-fr'
-tags: [  ]
 actualPrice: 152.67 EUR
 currency: EUR
 price: 152.67

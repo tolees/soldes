@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07SS37ZRS-fr Philips Lighting - Philips Hue Ampoule LED Connectée White...'
 sku: 'B07SS37ZRS-fr'
-tags: [  ]
 actualPrice: 41.93 EUR
 currency: EUR
 price: 41.93

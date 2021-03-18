@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00NFW6BZ8-fr Hauck Lit Parapluie Complet Sleep N Play Center / de la...'
 sku: 'B00NFW6BZ8-fr'
-tags: [  ]
 actualPrice: 60.65 EUR
 currency: EUR
 price: 60.65

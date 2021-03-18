@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B072DVV3K1-fr STEAMONE S-Travel Défroisseur vapeur Noir 0 26 L 1400 W'
 sku: 'B072DVV3K1-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

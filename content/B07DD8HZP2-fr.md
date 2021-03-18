@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DD8HZP2-fr Spirit Coffret Spirit Deluxe avec Poupée et Accessoires...'
 sku: 'B07DD8HZP2-fr'
-tags: [  ]
 actualPrice: 55.93 EUR
 currency: EUR
 price: 55.93

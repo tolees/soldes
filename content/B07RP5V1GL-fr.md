@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07RP5V1GL-fr Siège auto isofix 360° pivotant groupe 0+/1/2/3 0-36kg -...'
 sku: 'B07RP5V1GL-fr'
-tags: [  ]
 actualPrice: 134.5 EUR
 currency: EUR
 price: 134.5

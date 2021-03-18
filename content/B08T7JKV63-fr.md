@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08T7JKV63-fr New Pokémon Snap Nintendo Switch'
 sku: 'B08T7JKV63-fr'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

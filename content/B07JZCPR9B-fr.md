@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JZCPR9B-fr Fossil Femme Acier Bracelets manchette - JOF00418040'
 sku: 'B07JZCPR9B-fr'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0753H2KJG-fr Imaginext - Jurassic World Dinosaure Marchant Figurine...'
 sku: 'B0753H2KJG-fr'
-tags: [  ]
 actualPrice: 34.99 EUR
 currency: EUR
 price: 34.99

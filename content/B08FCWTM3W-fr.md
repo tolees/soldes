@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FCWTM3W-fr ACTIVISION - Tony Hawk s Pro Skater 1+2 - Exclusif Amazon...'
 sku: 'B08FCWTM3W-fr'
-tags: [  ]
 actualPrice: 27.16 EUR
 currency: EUR
 price: 27.16

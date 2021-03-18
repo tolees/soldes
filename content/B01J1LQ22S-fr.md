@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J1LQ22S-fr Crocs Crocband Sabots Mixte Adulte Beige Stucco-Melon...'
 sku: 'B01J1LQ22S-fr'
-tags: [  ]
 actualPrice: 28.37 EUR
 currency: EUR
 price: 28.37

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01FGD62JS-fr Coffret Orphan Black Saisons 1 à 3 Edition Limitée'
 sku: 'B01FGD62JS-fr'
-tags: [  ]
 actualPrice: 12.84 EUR
 currency: EUR
 price: 12.84

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0814BRZRB-fr Columbia Inner Limits II Veste Imperméable Homme Ancient...'
 sku: 'B0814BRZRB-fr'
-tags: [  ]
 actualPrice: 37.95 EUR
 currency: EUR
 price: 37.95

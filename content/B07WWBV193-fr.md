@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WWBV193-fr Bouteille d eau en Acier Inoxydable Isotherme Bouteille...'
 sku: 'B07WWBV193-fr'
-tags: [  ]
 actualPrice: 18.89 EUR
 currency: EUR
 price: 18.89

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06ZXYKD6W-fr COOLJOY Puzzles Enfant en Bois Magnétique Jigsaw avec...'
 sku: 'B06ZXYKD6W-fr'
-tags: [  ]
 actualPrice: 17.97 EUR
 currency: EUR
 price: 17.97

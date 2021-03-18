@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07DF4XQJG-fr Einhell Outil multifonction sans fil VARRITO Power...'
 sku: 'B07DF4XQJG-fr'
-tags: [  ]
 actualPrice: 63.1 EUR
 currency: EUR
 price: 63.1

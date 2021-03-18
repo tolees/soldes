@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08HN7FVFZ-fr Roccat Vulcan Pro - Clavier de jeu optique RGB...'
 sku: 'B08HN7FVFZ-fr'
-tags: [  ]
 actualPrice: 158.83 EUR
 currency: EUR
 price: 158.83

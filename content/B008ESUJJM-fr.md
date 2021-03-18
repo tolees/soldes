@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008ESUJJM-fr SAM Outillage CTF-44 Coffret de tarauds filières et forets...'
 sku: 'B008ESUJJM-fr'
-tags: [ 'Boîtes à outils','Kits','sam outillage', ]
 actualPrice: 376.99 EUR
 currency: EUR
 price: 376.99

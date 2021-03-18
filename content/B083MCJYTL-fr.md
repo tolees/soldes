@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B083MCJYTL-fr Funko- Pop Star Wars:Mandalorian-10 Mandalorian w/Chrome...'
 sku: 'B083MCJYTL-fr'
-tags: [  ]
 actualPrice: 42.0 EUR
 currency: EUR
 price: 42.0

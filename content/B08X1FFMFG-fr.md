@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08X1FFMFG-fr Téléphone Portable 4G Blackview A80s Smartphone Débloqué...'
 sku: 'B08X1FFMFG-fr'
-tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

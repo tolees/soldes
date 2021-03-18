@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08D3C3BW9-fr VATOS Jouets de Construction STEM pour Enfants Blocs de...'
 sku: 'B08D3C3BW9-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

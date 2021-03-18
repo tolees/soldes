@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T5VVMNP-fr John Carpenter-Coffret : New York 1997 + Prince des...'
 sku: 'B07T5VVMNP-fr'
-tags: [  ]
 actualPrice: 65.39 EUR
 currency: EUR
 price: 65.39

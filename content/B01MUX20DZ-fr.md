@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01MUX20DZ-fr Pierre Lannier Femme Analogique Quartz Montre avec...'
 sku: 'B01MUX20DZ-fr'
-tags: [ 'Montres bracelet pour femme','pierre lannier', ]
 actualPrice: 72.67 EUR
 currency: EUR
 price: 72.67

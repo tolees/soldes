@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NJPXFKR-fr Amazon - Echo Show 5 Reconditionné Certifié Écran connecté...'
 sku: 'B07NJPXFKR-fr'
-tags: [  ]
 actualPrice: 44.99 EUR
 currency: EUR
 price: 44.99

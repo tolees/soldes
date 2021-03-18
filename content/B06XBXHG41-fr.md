@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06XBXHG41-fr Gamesir T1s - Manette de Jeu 2.4GHz Manette sans Fil...'
 sku: 'B06XBXHG41-fr'
-tags: [  ]
 actualPrice: 35.99 EUR
 currency: EUR
 price: 35.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MH1DV2C-fr Spa Luxetique Coffret de Soins pour Femme 10 PC Coffret de...'
 sku: 'B07MH1DV2C-fr'
-tags: [  ]
 actualPrice: 28.99 EUR
 currency: EUR
 price: 28.99

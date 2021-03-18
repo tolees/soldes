@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0052JCHGE-fr Onduleur Eaton Ellipse ECO 650 FR - Off-line UPS - EL650FR...'
 sku: 'B0052JCHGE-fr'
-tags: [  ]
 actualPrice: 84.95 EUR
 currency: EUR
 price: 84.95

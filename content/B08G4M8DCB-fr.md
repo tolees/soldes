@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08G4M8DCB-fr MOULEI Tondeuse Cheveux Hommes，Tondeuse Cheveux...'
 sku: 'B08G4M8DCB-fr'
-tags: [  ]
 actualPrice: 23.79 EUR
 currency: EUR
 price: 23.79

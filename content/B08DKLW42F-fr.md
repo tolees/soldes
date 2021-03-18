@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DKLW42F-fr rockspace - Répéteur WiFi Puissant sans Fil –...'
 sku: 'B08DKLW42F-fr'
-tags: [  ]
 actualPrice: 76.49 EUR
 currency: EUR
 price: 76.49

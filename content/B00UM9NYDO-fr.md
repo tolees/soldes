@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00UM9NYDO-fr Puppia Harnais Néon pour Petit Chien et pour Chien Moyen -...'
 sku: 'B00UM9NYDO-fr'
-tags: [  ]
 actualPrice: 21.99 EUR
 currency: EUR
 price: 21.99

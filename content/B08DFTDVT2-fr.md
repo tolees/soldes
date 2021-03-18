@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DFTDVT2-fr RIKIN Chargeur de Batterie Auto Rapide 8A 12V/24V Chargeur...'
 sku: 'B08DFTDVT2-fr'
-tags: [  ]
 actualPrice: 23.99 EUR
 currency: EUR
 price: 23.99

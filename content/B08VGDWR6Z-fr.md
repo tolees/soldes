@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VGDWR6Z-fr PlayVital Samurai Edition Coque de protection...'
 sku: 'B08VGDWR6Z-fr'
-tags: [  ]
 actualPrice: 15.66 EUR
 currency: EUR
 price: 15.66

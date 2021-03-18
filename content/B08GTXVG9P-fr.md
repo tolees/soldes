@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GTXVG9P-fr SanDisk Extreme 500 Go NVMe SSD disque externe USB-C jusqu...'
 sku: 'B08GTXVG9P-fr'
-tags: [  ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99

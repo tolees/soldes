@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0821XNW7B-fr Nintendo - TOKYO MIRAGE SESSIONS #FE ENCORE - SWITCH'
 sku: 'B0821XNW7B-fr'
-tags: [  ]
 actualPrice: 44.16 EUR
 currency: EUR
 price: 44.16

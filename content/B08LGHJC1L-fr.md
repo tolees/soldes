@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08LGHJC1L-fr Manettes pour Switch EasySMX Manette pour Nintendo Switch...'
 sku: 'B08LGHJC1L-fr'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

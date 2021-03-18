@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MVWG9KM-fr WD - My Passport Go 1TB - Disque SSD Portable - Finition...'
 sku: 'B07MVWG9KM-fr'
-tags: [  ]
 actualPrice: 119.99 EUR
 currency: EUR
 price: 119.99

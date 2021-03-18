@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S7DGGKM-fr Oral-B Genius X - 20000N Brosse à Dents Électrique...'
 sku: 'B07S7DGGKM-fr'
-tags: [  ]
 actualPrice: 130.99 EUR
 currency: EUR
 price: 130.99

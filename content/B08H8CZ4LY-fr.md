@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H8CZ4LY-fr SURKER Tondeuse Cheveux Professionnelle Tondeuse Barbe...'
 sku: 'B08H8CZ4LY-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

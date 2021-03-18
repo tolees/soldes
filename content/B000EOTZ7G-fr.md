@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000EOTZ7G-fr Canon Objectif EF-S 17-55 mm f/2.8 IS USM'
 sku: 'B000EOTZ7G-fr'
-tags: [  ]
 actualPrice: 779.35 EUR
 currency: EUR
 price: 779.35

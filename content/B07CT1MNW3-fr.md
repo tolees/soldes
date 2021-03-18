@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CT1MNW3-fr RDX Racedesign RDDS129 Becquet arrière'
 sku: 'B07CT1MNW3-fr'
-tags: [  ]
 actualPrice: 67.54 EUR
 currency: EUR
 price: 67.54

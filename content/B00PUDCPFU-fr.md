@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00PUDCPFU-fr Brabantia 481208 Distributeur de Savon Fingerprint Proof...'
 sku: 'B00PUDCPFU-fr'
-tags: [  ]
 actualPrice: 19.8 EUR
 currency: EUR
 price: 19.8

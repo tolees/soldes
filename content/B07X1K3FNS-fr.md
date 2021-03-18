@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07X1K3FNS-fr FITTOO Legging de Sport Femme Pantalon Yoga Athlétique...'
 sku: 'B07X1K3FNS-fr'
-tags: [  ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071XPYH4B-fr Audio Pro - Enceinte Compacte sans fil WiFi multiroom...'
 sku: 'B071XPYH4B-fr'
-tags: [  ]
 actualPrice: 199.99 EUR
 currency: EUR
 price: 199.99

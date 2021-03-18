@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07JXHQWYB-fr Playmobil - Camion de Marché - 70134'
 sku: 'B07JXHQWYB-fr'
-tags: [  ]
 actualPrice: 27.53 EUR
 currency: EUR
 price: 27.53

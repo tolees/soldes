@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N2QCKZT-fr Ice-Watch - Ice Flower Spring Nude - Montre Rose pour...'
 sku: 'B07N2QCKZT-fr'
-tags: [  ]
 actualPrice: 64.7 EUR
 currency: EUR
 price: 64.7

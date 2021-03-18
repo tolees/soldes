@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VHTN27K-fr Sincelo - Disque Dur Externe 1to USB3.0 Disque Dur Externe...'
 sku: 'B08VHTN27K-fr'
-tags: [  ]
 actualPrice: 45.99 EUR
 currency: EUR
 price: 45.99

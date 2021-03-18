@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08VWP276N-fr PlayVital Support de présentation pour manette de...'
 sku: 'B08VWP276N-fr'
-tags: [  ]
 actualPrice: 16.96 EUR
 currency: EUR
 price: 16.96

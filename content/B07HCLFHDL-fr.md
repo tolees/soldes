@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HCLFHDL-fr Skip Lessive Capsules Duo Double Action Sensitive...'
 sku: 'B07HCLFHDL-fr'
-tags: [  ]
 actualPrice: 25.14 EUR
 currency: EUR
 price: 25.14

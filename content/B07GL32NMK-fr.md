@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GL32NMK-fr Equalizer 2 [Blu-Ray]'
 sku: 'B07GL32NMK-fr'
-tags: [  ]
 actualPrice: 10.03 EUR
 currency: EUR
 price: 10.03

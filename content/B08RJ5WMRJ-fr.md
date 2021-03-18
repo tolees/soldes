@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08RJ5WMRJ-fr TUTUO Manette pour Switch 2er-Set Manette Bluetooth sans...'
 sku: 'B08RJ5WMRJ-fr'
-tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

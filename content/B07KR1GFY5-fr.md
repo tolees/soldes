@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KR1GFY5-fr SP Silicon Power - Silicon Power SSD 512Go 3D NAND A55 SLC...'
 sku: 'B07KR1GFY5-fr'
-tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

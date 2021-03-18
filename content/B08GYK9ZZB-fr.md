@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GYK9ZZB-fr Moulinex I-Companion Touch XL Robot Cuisine Multifonction...'
 sku: 'B08GYK9ZZB-fr'
-tags: [  ]
 actualPrice: 1099.99 EUR
 currency: EUR
 price: 1099.99

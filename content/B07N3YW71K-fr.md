@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07N3YW71K-fr Green Canyon Spa - Coffret Bain au Parfum de Fleurs de...'
 sku: 'B07N3YW71K-fr'
-tags: [  ]
 actualPrice: 25.49 EUR
 currency: EUR
 price: 25.49

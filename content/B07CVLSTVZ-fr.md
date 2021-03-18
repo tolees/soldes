@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07CVLSTVZ-fr TOSHIBA EUROPE - Toshiba BULK V300 Video Streaming Hard...'
 sku: 'B07CVLSTVZ-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KGJNSMT-fr Vidéoprojecteur WiFi Bluetooth Full HD 7500L WiMiUS Natif...'
 sku: 'B08KGJNSMT-fr'
-tags: [  ]
 actualPrice: 228.54 EUR
 currency: EUR
 price: 228.54

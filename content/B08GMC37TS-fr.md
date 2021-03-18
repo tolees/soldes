@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GMC37TS-fr X-Rocker - Fauteuil à Bascule Nintendo Video Rocker Mario'
 sku: 'B08GMC37TS-fr'
-tags: [  ]
 actualPrice: 56.99 EUR
 currency: EUR
 price: 56.99

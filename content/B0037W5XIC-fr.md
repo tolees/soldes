@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0037W5XIC-fr Staedtler 430 M-2CP5 Stick 430 Stylo bille Pointe moyenne...'
 sku: 'B0037W5XIC-fr'
-tags: [  ]
 actualPrice: 10.2 EUR
 currency: EUR
 price: 10.2

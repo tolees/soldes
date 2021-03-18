@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G3YNLJB-fr Crucial BX500 240Go CT240BX500SSD1 SSD Interne-jusqu’à 540...'
 sku: 'B07G3YNLJB-fr'
-tags: [  ]
 actualPrice: 32.99 EUR
 currency: EUR
 price: 32.99

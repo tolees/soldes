@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GB8TFJZ-fr Casio Edifice Homme Analogique Quartz Montre avec Bracelet...'
 sku: 'B07GB8TFJZ-fr'
-tags: [  ]
 actualPrice: 51.99 EUR
 currency: EUR
 price: 51.99

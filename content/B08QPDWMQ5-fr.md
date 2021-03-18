@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08QPDWMQ5-fr Nintendo - Hyrule Warriors - L ère du Fléau'
 sku: 'B08QPDWMQ5-fr'
-tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

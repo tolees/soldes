@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07WPS21J2-fr Tipmant Montre Connectée Femmes Homme Enfant IP68 Etanche...'
 sku: 'B07WPS21J2-fr'
-tags: [  ]
 actualPrice: 30.58 EUR
 currency: EUR
 price: 30.58

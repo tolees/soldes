@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B085JJS1KK-fr HUAWEI P40 ANNA BLACK'
 sku: 'B085JJS1KK-fr'
-tags: [  ]
 actualPrice: 499.0 EUR
 currency: EUR
 price: 499.0

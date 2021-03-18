@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BKR746Y-fr Invision Support TV Mural pour Écrans de 24 à 55 Pouces...'
 sku: 'B01BKR746Y-fr'
-tags: [  ]
 actualPrice: 28.04 EUR
 currency: EUR
 price: 28.04

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B088NJ8C2X-fr Oral-B iO - 7n - Brosse à Dents Électrique Rechargeable 1...'
 sku: 'B088NJ8C2X-fr'
-tags: [  ]
 actualPrice: 145.99 EUR
 currency: EUR
 price: 145.99

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07XCZS4LR-fr shenkey - Guirlande Lumineuse Extérieur Solaire 50 LED 8...'
 sku: 'B07XCZS4LR-fr'
-tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

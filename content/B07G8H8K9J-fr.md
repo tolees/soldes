@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07G8H8K9J-fr Bose Home Speaker 500 Enceintes avec Alexa d’Amazon...'
 sku: 'B07G8H8K9J-fr'
-tags: [  ]
 actualPrice: 319.99 EUR
 currency: EUR
 price: 319.99

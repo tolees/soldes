@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01DZXE9NC-fr Alesis Recital - Piano Numérique / Clavier de 88 Touches...'
 sku: 'B01DZXE9NC-fr'
-tags: [  ]
 actualPrice: 183.02 EUR
 currency: EUR
 price: 183.02

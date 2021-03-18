@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NC4GMS3-fr DELSEY PARIS - SEGUR 2.0 - Valise rigide à double roues et...'
 sku: 'B07NC4GMS3-fr'
-tags: [  ]
 actualPrice: 82.97 EUR
 currency: EUR
 price: 82.97

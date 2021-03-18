@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B079N2CMRT-fr Playmobil - Maison de Lucky - 9475'
 sku: 'B079N2CMRT-fr'
-tags: [  ]
 actualPrice: 69.64 EUR
 currency: EUR
 price: 69.64

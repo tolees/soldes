@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B001U3XVLG-fr Tommee Tippee Biberon Anti-Colique Avancé 260 ml Lot de 2'
 sku: 'B001U3XVLG-fr'
-tags: [  ]
 actualPrice: 14.76 EUR
 currency: EUR
 price: 14.76

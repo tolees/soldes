@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08175KBLK-fr Playmobil - Chaloupe des Soldats - 70412'
 sku: 'B08175KBLK-fr'
-tags: [ 'Figurines de personnages','Jeux de construction','playmobil', ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

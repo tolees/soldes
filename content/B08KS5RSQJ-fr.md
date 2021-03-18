@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08KS5RSQJ-fr eXtremeRate PlayVital Capuchons Étoile Design Mignon pour...'
 sku: 'B08KS5RSQJ-fr'
-tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

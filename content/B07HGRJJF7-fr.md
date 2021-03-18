@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07HGRJJF7-fr Combo pixtolet et méga recharges - Qixels - Asmokids -...'
 sku: 'B07HGRJJF7-fr'
-tags: [ 'Bien-être et massage','Bricolage','Couvertures chauffantes','Hygiène et Santé','Jeux et Jouets','Jeux et jouets','Kits de bijoux et perles pour enfants','Kits de loisirs créatifs','Loisirs créatifs','Massage et relaxation','Outillage à main et électroportatif','Outillage électroportatif','Scies circulaires électriques','Scies électriques','Traitements chaud-froid','asmokids', ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

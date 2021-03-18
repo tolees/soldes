@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B071KZS3MF-fr Logitech MX Master 2S Souris sans Fil Multi-Dispositifs...'
 sku: 'B071KZS3MF-fr'
-tags: [  ]
 actualPrice: 78.5 EUR
 currency: EUR
 price: 78.5

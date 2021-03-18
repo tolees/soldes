@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B087MRJYBV-fr Xiaomi Mi Note 10 lite - Smartphone Débloqué 4G 6.53...'
 sku: 'B087MRJYBV-fr'
-tags: [  ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

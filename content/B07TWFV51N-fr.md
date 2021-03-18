@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TWFV51N-fr Fitbit Versa 2 Édition Spéciale Montre Connectée Forme et...'
 sku: 'B07TWFV51N-fr'
-tags: [  ]
 actualPrice: 166.5 EUR
 currency: EUR
 price: 166.5

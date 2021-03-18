@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08FQ75WNP-fr Electronic Arts - FIFA 21 Nintendo Switch'
 sku: 'B08FQ75WNP-fr'
-tags: [  ]
 actualPrice: 37.68 EUR
 currency: EUR
 price: 37.68

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01EJHK5YA-fr Panasonic DMP-BDT167 Lecteur DVD Port USB'
 sku: 'B01EJHK5YA-fr'
-tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

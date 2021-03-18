@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08L9BNZ8J-fr Camera Surveillance WiFi Exterieure Batterie 15 000 mAh...'
 sku: 'B08L9BNZ8J-fr'
-tags: [  ]
 actualPrice: 67.99 EUR
 currency: EUR
 price: 67.99

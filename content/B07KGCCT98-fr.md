@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KGCCT98-fr Levi s Innovation Super Skinny Jean Celestial Rinse 28W /...'
 sku: 'B07KGCCT98-fr'
-tags: [  ]
 actualPrice: 50.0 EUR
 currency: EUR
 price: 50.0

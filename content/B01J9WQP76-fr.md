@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01J9WQP76-fr Philips Eveil Lumière - HF3531/01 - Radio réveil lumineux...'
 sku: 'B01J9WQP76-fr'
-tags: [  ]
 actualPrice: 99.3 EUR
 currency: EUR
 price: 99.3

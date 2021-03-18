@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B000KJKGNM-fr Apli 1289 Boîte de 100 Feuilles d Etiquettes 105 x 48 Blanc'
 sku: 'B000KJKGNM-fr'
-tags: [  ]
 actualPrice: 16.86 EUR
 currency: EUR
 price: 16.86

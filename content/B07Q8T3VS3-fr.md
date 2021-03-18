@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q8T3VS3-fr Enceinte Bose Home Speaker 300 avec Amazon Alexa Intégrée...'
 sku: 'B07Q8T3VS3-fr'
-tags: [  ]
 actualPrice: 233.0 EUR
 currency: EUR
 price: 233.0

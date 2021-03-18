@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07MJ7GNXK-fr Clarks Desert Boots Homme Noir Poli 41 EU'
 sku: 'B07MJ7GNXK-fr'
-tags: [  ]
 actualPrice: 55.95 EUR
 currency: EUR
 price: 55.95

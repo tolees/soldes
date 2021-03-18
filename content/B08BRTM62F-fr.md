@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08BRTM62F-fr Tablette 10 Pouces Android 10.0 Tablettes Ultra-Portable -...'
 sku: 'B08BRTM62F-fr'
-tags: [  ]
 actualPrice: 122.85 EUR
 currency: EUR
 price: 122.85

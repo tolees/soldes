@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T4MSM99-fr Warner Bros. - Ça [4K Ultra Blu-Ray + Digital HD-Édition...'
 sku: 'B07T4MSM99-fr'
-tags: [  ]
 actualPrice: 19.0 EUR
 currency: EUR
 price: 19.0

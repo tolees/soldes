@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086X62VMR-fr EasySMX Casque Gaming PC/PS4'
 sku: 'B086X62VMR-fr'
-tags: [  ]
 actualPrice: 14.2 EUR
 currency: EUR
 price: 14.2

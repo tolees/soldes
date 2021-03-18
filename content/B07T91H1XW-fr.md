@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07T91H1XW-fr CASINO Thon Entier à l Huile de Tournesol'
 sku: 'B07T91H1XW-fr'
-tags: [  ]
 actualPrice: 2.06 EUR
 currency: EUR
 price: 2.06

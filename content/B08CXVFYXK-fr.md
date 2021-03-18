@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CXVFYXK-fr [Modèle 2020] KKUYI Antenne TV Intérieure Antenne...'
 sku: 'B08CXVFYXK-fr'
-tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

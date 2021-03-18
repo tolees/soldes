@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CB9TJXH-fr ASUS RT-AX82U – Routeur Gaming AX5400 avec Wi-FI 6...'
 sku: 'B08CB9TJXH-fr'
-tags: [  ]
 actualPrice: 135.7 EUR
 currency: EUR
 price: 135.7

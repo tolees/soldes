@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07P2GWYVW-fr ART Marina Bottes & Bottines classiques Mixte Adulte Noir...'
 sku: 'B07P2GWYVW-fr'
-tags: [  ]
 actualPrice: 65.5 EUR
 currency: EUR
 price: 65.5

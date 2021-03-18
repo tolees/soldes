@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0077QT4VG-fr Playmobil - Maison Transportable - 5167'
 sku: 'B0077QT4VG-fr'
-tags: [  ]
 actualPrice: 25.39 EUR
 currency: EUR
 price: 25.39

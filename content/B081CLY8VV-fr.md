@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B081CLY8VV-fr Healthkeep - Pèse Personne Impédancemètre Balance Connecté...'
 sku: 'B081CLY8VV-fr'
-tags: [  ]
 actualPrice: 24.0 EUR
 currency: EUR
 price: 24.0

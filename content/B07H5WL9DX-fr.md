@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H5WL9DX-fr Skechers Women s Flex Appeal 3.0 Trainers Grey Light Grey...'
 sku: 'B07H5WL9DX-fr'
-tags: [  ]
 actualPrice: 24.05 EUR
 currency: EUR
 price: 24.05

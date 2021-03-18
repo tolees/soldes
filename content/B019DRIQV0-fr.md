@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B019DRIQV0-fr mountain buggy Poussette de Voyage Compacte 4 Roues Rouge'
 sku: 'B019DRIQV0-fr'
-tags: [  ]
 actualPrice: 164.45 EUR
 currency: EUR
 price: 164.45

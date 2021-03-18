@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08CN3FRHX-fr ATOPDREAM Jouet Garcon 2-8 Ans Cadeau Garçon 2 3 4 5 Ans...'
 sku: 'B08CN3FRHX-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

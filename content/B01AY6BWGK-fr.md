@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01AY6BWGK-fr UGG Femme Classic Mini Bottes Sans fermeture Noir 40 EU'
 sku: 'B01AY6BWGK-fr'
-tags: [  ]
 actualPrice: 109.6 EUR
 currency: EUR
 price: 109.6

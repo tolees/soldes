@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7ZGGKK-fr Cubicfun Piste de Voiture Jouet Enfant 2 3 4 5 6 ans City...'
 sku: 'B07W7ZGGKK-fr'
-tags: [  ]
 actualPrice: 31.44 EUR
 currency: EUR
 price: 31.44

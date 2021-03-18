@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07TBDYVCX-fr Splash Toys ANNA Fancy Poupée à coiffer 30167'
 sku: 'B07TBDYVCX-fr'
-tags: [  ]
 actualPrice: 39.18 EUR
 currency: EUR
 price: 39.18

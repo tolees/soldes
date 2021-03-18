@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0813Q5JKX-fr LEGO Star Wars AT-AT- Jeu de construction d’un superbe...'
 sku: 'B0813Q5JKX-fr'
-tags: [ 'Jeux de construction','lego', ]
 actualPrice: 135.99 EUR
 currency: EUR
 price: 135.99

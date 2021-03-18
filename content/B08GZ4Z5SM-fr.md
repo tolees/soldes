@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08GZ4Z5SM-fr Nintendo - SUPER MARIO 3D - ALL STARS'
 sku: 'B08GZ4Z5SM-fr'
-tags: [  ]
 actualPrice: 44.49 EUR
 currency: EUR
 price: 44.49

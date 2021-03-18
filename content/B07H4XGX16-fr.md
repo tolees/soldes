@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07H4XGX16-fr Skull Candy - Skullcandy Venue Casque Réduction de Bruit...'
 sku: 'B07H4XGX16-fr'
-tags: [  ]
 actualPrice: 83.97 EUR
 currency: EUR
 price: 83.97

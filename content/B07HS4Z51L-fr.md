@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HS4Z51L-fr Oral-B Smart 4 - 4500 - Brosse à Dents Électrique...'
 sku: 'B07HS4Z51L-fr'
-tags: [  ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99

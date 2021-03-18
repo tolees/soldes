@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DHWFXHW-fr 0BEST Drone avec Caméra 4k HD Drone avec Deux caméra...'
 sku: 'B08DHWFXHW-fr'
-tags: [  ]
 actualPrice: 66.99 EUR
 currency: EUR
 price: 66.99

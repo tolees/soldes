@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089ST4HNN-fr RAMPOW Câble USB C vers USB C 2m [Garantie à Vie] Câble...'
 sku: 'B089ST4HNN-fr'
-tags: [  ]
 actualPrice: 7.64 EUR
 currency: EUR
 price: 7.64

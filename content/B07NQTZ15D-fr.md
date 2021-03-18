@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07NQTZ15D-fr ViewSonic X10-4K - Projecteur DLP - LED - 3D - 2400 lumens...'
 sku: 'B07NQTZ15D-fr'
-tags: [  ]
 actualPrice: 1289.95 EUR
 currency: EUR
 price: 1289.95

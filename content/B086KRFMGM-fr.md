@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B086KRFMGM-fr Peradix Échecs de Mémoire pour Enfant Jeu Societe en Bois...'
 sku: 'B086KRFMGM-fr'
-tags: [  ]
 actualPrice: 16.99 EUR
 currency: EUR
 price: 16.99

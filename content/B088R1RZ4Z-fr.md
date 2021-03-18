@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B088R1RZ4Z-fr Bamoer Support Tablette Support Tablette Réglable -...'
 sku: 'B088R1RZ4Z-fr'
-tags: [  ]
 actualPrice: 11.99 EUR
 currency: EUR
 price: 11.99

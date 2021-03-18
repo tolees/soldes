@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGG1XTS-fr JBL Tune500BT - Casque supra-auriculaire - Léger et...'
 sku: 'B07HGG1XTS-fr'
-tags: [  ]
 actualPrice: 41.0 EUR
 currency: EUR
 price: 41.0

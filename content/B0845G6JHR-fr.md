@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B0845G6JHR-fr Tommy Hilfiger Sac à dos pour homme Noir Taille unique'
 sku: 'B0845G6JHR-fr'
-tags: [  ]
 actualPrice: 59.0 EUR
 currency: EUR
 price: 59.0

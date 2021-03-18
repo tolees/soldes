@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07W7N2MDX-fr Samsung - Montre Galaxy Watch Active 2 4G - Acier 40 mm -...'
 sku: 'B07W7N2MDX-fr'
-tags: [  ]
 actualPrice: 339.6 EUR
 currency: EUR
 price: 339.6

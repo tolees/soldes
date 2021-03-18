@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08H1YNK3P-fr SPGOOD Manette sans fil pour Nintendo Switch Console...'
 sku: 'B08H1YNK3P-fr'
-tags: [  ]
 actualPrice: 23.95 EUR
 currency: EUR
 price: 23.95

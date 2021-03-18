@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S4WX1J4-fr Game Of Thrones Le Trône de Fer - Saison 8 [Blu-ray]'
 sku: 'B07S4WX1J4-fr'
-tags: [  ]
 actualPrice: 23.39 EUR
 currency: EUR
 price: 23.39

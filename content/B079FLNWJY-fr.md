@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B079FLNWJY-fr Switch HDMI 4K Techole Aluminum Bi-direction Commutateur...'
 sku: 'B079FLNWJY-fr'
-tags: [  ]
 actualPrice: 13.99 EUR
 currency: EUR
 price: 13.99

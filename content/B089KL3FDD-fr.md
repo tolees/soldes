@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B089KL3FDD-fr HEYSTOP Coque Compatible avec Nintendo Switch avec...'
 sku: 'B089KL3FDD-fr'
-tags: [ 'Coques pour Nintendo Switch','High-Tech','heystop', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

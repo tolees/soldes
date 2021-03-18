@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01MZ8DOO1-fr Philips BRI956/00 Lumea Prestige Epilateur à Lumière...'
 sku: 'B01MZ8DOO1-fr'
-tags: [  ]
 actualPrice: 429.99 EUR
 currency: EUR
 price: 429.99

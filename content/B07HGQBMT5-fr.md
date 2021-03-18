@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07HGQBMT5-fr Warner Bros - Lego Harry Potter Collection pour Nintendo...'
 sku: 'B07HGQBMT5-fr'
-tags: [  ]
 actualPrice: 29.94 EUR
 currency: EUR
 price: 29.94

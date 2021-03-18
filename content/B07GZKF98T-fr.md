@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07GZKF98T-fr Guirlande Lumineuse 12M 120LED OMERIL Fairy Lights IP65...'
 sku: 'B07GZKF98T-fr'
-tags: [  ]
 actualPrice: 8.49 EUR
 currency: EUR
 price: 8.49

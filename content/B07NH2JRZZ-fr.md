@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07NH2JRZZ-fr De Longhi DD230P Aria Dry Pump Déshumidificateur...'
 sku: 'B07NH2JRZZ-fr'
-tags: [ 'Batteurs','Batteurs sur socle','Chauffage et climatisation','Cuisine et Maison','Déshumidificateurs','Mixeurs, batteurs et robots multifonctions','Petit électroménager','delonghi', ]
 actualPrice: 339.0 EUR
 currency: EUR
 price: 339.0

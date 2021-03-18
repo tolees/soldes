@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06W5PN1MG-fr Goliath - Modelco - VR goggles - VRSE - Jeu Vidéo -...'
 sku: 'B06W5PN1MG-fr'
-tags: [ 'Casques de réalité virtuelle pour PC','Jeux vidéo','PC: Jeux et accessoires','Systèmes de réalité virtuelle pour PC','goliath', ]
 actualPrice: 23.7 EUR
 currency: EUR
 price: 23.7

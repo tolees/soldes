@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073FJ9X2J-fr Charmast - Batterie Externe USB C Power Bank 26800mAh...'
 sku: 'B073FJ9X2J-fr'
-tags: [  ]
 actualPrice: 29.74 EUR
 currency: EUR
 price: 29.74

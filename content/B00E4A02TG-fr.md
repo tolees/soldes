@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B00E4A02TG-fr Bosch L5005 Batterie décharge lente 12V 60Ah 560A -...'
 sku: 'B00E4A02TG-fr'
-tags: [  ]
 actualPrice: 101.9 EUR
 currency: EUR
 price: 101.9

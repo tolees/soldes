@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FDFBZVR-fr Barbie Dreamtopia Licorne Arc-en-ciel sons et lumières...'
 sku: 'B07FDFBZVR-fr'
-tags: [  ]
 actualPrice: 27.99 EUR
 currency: EUR
 price: 27.99

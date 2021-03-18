@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07PPQXR9N-fr Charlemain - Lecteur CD DVD Externe USB 3.0 Type C Lecteur...'
 sku: 'B07PPQXR9N-fr'
-tags: [  ]
 actualPrice: 19.54 EUR
 currency: EUR
 price: 19.54

@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B08DRFYPFC-fr Samsung Galaxy SM-F916B 19 3 cm 7.6" 12 Go 256 Go 5G USB...'
 sku: 'B08DRFYPFC-fr'
-tags: [  ]
 actualPrice: 1329.0 EUR
 currency: EUR
 price: 1329.0

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BRSNTBX-fr Manette pour Nintendo Switch iConic - Zelda Link'
 sku: 'B07BRSNTBX-fr'
-tags: [  ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

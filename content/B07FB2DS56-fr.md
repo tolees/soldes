@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FB2DS56-fr RockJam RJ461AX Clavier numérique portatif Alexa à 61...'
 sku: 'B07FB2DS56-fr'
-tags: [  ]
 actualPrice: 69.88 EUR
 currency: EUR
 price: 69.88

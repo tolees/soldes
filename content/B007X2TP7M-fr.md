@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B007X2TP7M-fr HPA Sac professionnel DRY DUFFLE'
 sku: 'B007X2TP7M-fr'
-tags: [  ]
 actualPrice: 52.63 EUR
 currency: EUR
 price: 52.63

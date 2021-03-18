@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01KMQMAAO-fr Pandora Femme Argent Charms et perles - 791966'
 sku: 'B01KMQMAAO-fr'
-tags: [  ]
 actualPrice: 29.0 EUR
 currency: EUR
 price: 29.0

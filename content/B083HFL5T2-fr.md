@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B083HFL5T2-fr TEEHON® Portefeuille Homme en Cuir Véritable Porte-Monnaie...'
 sku: 'B083HFL5T2-fr'
-tags: [ 'Portefeuilles homme','teehon', ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

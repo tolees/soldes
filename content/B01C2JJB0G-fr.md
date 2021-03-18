@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01C2JJB0G-fr EmtecECSSD480GX150 - Disque SSDInterne - 2.5 - SATA -...'
 sku: 'B01C2JJB0G-fr'
-tags: [  ]
 actualPrice: 51.77 EUR
 currency: EUR
 price: 51.77

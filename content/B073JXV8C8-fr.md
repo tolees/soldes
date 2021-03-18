@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B073JXV8C8-fr BGS 2247 | Coffret de Douilles Gear Lock | 6 3 mm 1/4" /...'
 sku: 'B073JXV8C8-fr'
-tags: [  ]
 actualPrice: 119.55 EUR
 currency: EUR
 price: 119.55

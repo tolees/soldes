@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01N38BZXZ-fr Trust Quasar Micro-Casque pour PC'
 sku: 'B01N38BZXZ-fr'
-tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

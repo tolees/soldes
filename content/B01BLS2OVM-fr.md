@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01BLS2OVM-fr Marvel - Deadpool [Blu-ray + Digital HD]'
 sku: 'B01BLS2OVM-fr'
-tags: [  ]
 actualPrice: 6.99 EUR
 currency: EUR
 price: 6.99

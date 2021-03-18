@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B01JTMO99C-fr Grand circuit Vilacity pour enfant - Vilac - 2354'
 sku: 'B01JTMO99C-fr'
-tags: [  ]
 actualPrice: 39.3 EUR
 currency: EUR
 price: 39.3

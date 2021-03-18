@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07FVGQGHX-fr Philips HD6564/81 Machine à Café à Dosettes SENSEO Viva...'
 sku: 'B07FVGQGHX-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

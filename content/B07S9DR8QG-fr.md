@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07S9DR8QG-fr Logitech G703 LIGHTSPEED Souris Gamer sans Fil 16000 PPP...'
 sku: 'B07S9DR8QG-fr'
-tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

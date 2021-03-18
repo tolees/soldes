@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PSP67X5-fr Bakugan Starter Pack Set Assortment Assort 6045144 Multicolor'
 sku: 'B07PSP67X5-fr'
-tags: [  ]
 actualPrice: 14.4 EUR
 currency: EUR
 price: 14.4

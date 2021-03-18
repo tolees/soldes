@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B06WVLX66Y-fr Playmobil - Chambre d Enfant - 9270'
 sku: 'B06WVLX66Y-fr'
-tags: [  ]
 actualPrice: 10.39 EUR
 currency: EUR
 price: 10.39

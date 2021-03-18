@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07KWJYK4S-fr Le Petit Marseillais Gel Douche Bonheur Rhubarbe 250 ml'
 sku: 'B07KWJYK4S-fr'
-tags: [  ]
 actualPrice: 1.4 EUR
 currency: EUR
 price: 1.4

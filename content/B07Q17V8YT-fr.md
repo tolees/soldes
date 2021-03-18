@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07Q17V8YT-fr Smart&Gentle Housse table à repasser - XL/ 120x45 cm Tissu...'
 sku: 'B07Q17V8YT-fr'
-tags: [  ]
 actualPrice: 24.9 EUR
 currency: EUR
 price: 24.9

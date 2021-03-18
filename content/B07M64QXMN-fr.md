@@ -8,7 +8,6 @@ category: ofertas
 author: ring
 slug: 'B07M64QXMN-fr Western Digital - WD Black SN750 NVMe - Disque SSD Interne...'
 sku: 'B07M64QXMN-fr'
-tags: [  ]
 actualPrice: 153.49 EUR
 currency: EUR
 price: 153.49

@@ -8,7 +8,6 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JVBW57L-fr Siemens EQ.9 Plus s300 TI923309RW – Machine à café...'
 sku: 'B07JVBW57L-fr'
-tags: [  ]
 actualPrice: 1249.9 EUR
 currency: EUR
 price: 1249.9
