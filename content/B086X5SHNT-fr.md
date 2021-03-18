@@ -28,10 +28,10 @@ C'est en vente [BNISE - Longue Vue Tir 12-36X 60mm Monoculaire Télescope Bak4 F
 
 ℹ️:
 
-- 【Portable et léger】 Petite taille: 10,43x2,95x5,3 pouces et léger: 1,17 lb. Accessoires utiles: adaptateur de téléphone à aspiration, sac de transport. Commodité à transporter ou à mettre dans votre sac à dos. Idéal pour les activités de plein air, comme le camping, la randonnée, la randonnée, lescalade.
 - 【Mount Support de trépied métallique stable】 Le matériau du support de trépied est en ABS, ce qui rend le support plus durable et stable, et peut être connecté au trépied. Il apporte également une meilleure expérience, vous permettant de faire pivoter le corps de la lunette dobservation pour plus de positions de visualisation.
-- 【Lens Lentille entièrement multicouche】La lentille dobjectif à film vert 60 mm entièrement multicouche et le système de prisme BAK4 offrent une vision nette et lumineuse. Loptique de qualité augmente la transmission lumineuse et les images à contraste élevé même dans des conditions de faible luminosité.
-- 【Construction Construction durable】 Le cadre durable et larmure en caoutchouc de haute qualité offrent une adhérence antidérapante, une prise antichoc et une protection externe durable.
 - 【Zoom 12-36X et oculaire incliné à 45 °】 Le grossissement réglable de 12x à 36x vous permet de vous concentrer facilement sur votre cible. Loculaire incliné à 45 degrés offre une vision plus confortable. Idéal pour le tir sur cible, la chasse, lobservation des oiseaux, lobservation de la faune, les paysages, les sports de plein air, lobservation astronomique, etc.
+- 【Portable et léger】 Petite taille: 10,43x2,95x5,3 pouces et léger: 1,17 lb. Accessoires utiles: adaptateur de téléphone à aspiration, sac de transport. Commodité à transporter ou à mettre dans votre sac à dos. Idéal pour les activités de plein air, comme le camping, la randonnée, la randonnée, lescalade.
+- 【Construction Construction durable】 Le cadre durable et larmure en caoutchouc de haute qualité offrent une adhérence antidérapante, une prise antichoc et une protection externe durable.
+- 【Lens Lentille entièrement multicouche】La lentille dobjectif à film vert 60 mm entièrement multicouche et le système de prisme BAK4 offrent une vision nette et lumineuse. Loptique de qualité augmente la transmission lumineuse et les images à contraste élevé même dans des conditions de faible luminosité.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B086X5SHNT/?tag=tolees0d-21)
