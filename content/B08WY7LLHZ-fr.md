@@ -28,8 +28,8 @@ C'est en vente [Nintendo - DC Super Hero Girls : Teen Power](https://www.amazon.
 
 ℹ️:
 
+- arnez Wonder Woman, Supergirl et Batgir
 - sauvez Metropolis des super-vilaines
 - La justice n’attend pas, le combat encore moins ! arnez
-- arnez Wonder Woman, Supergirl et Batgir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WY7LLHZ/?tag=tolees0d-21)
