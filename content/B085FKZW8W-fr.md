@@ -28,9 +28,9 @@ Vous avez [Playmobil-70447 Jouet  70447  Multicolore](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Le palais comprend plusieurs pièces dont une salle de bal
-- Ce grand palais est majestueux et plein daccessoires, les princesses y vivent heureuses
-- La piste de danse tourne
 - Découvre la vie féérique des princesses dans le Grand Palais de princesses !
+- Ce grand palais est majestueux et plein daccessoires, les princesses y vivent heureuses
+- Le palais comprend plusieurs pièces dont une salle de bal
+- La piste de danse tourne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085FKZW8W/?tag=tolees0d-21)
