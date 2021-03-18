@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08GYBWQP5-fr 32BC6E - Téléviseur SHARP 32 HD Ready Smart'
 sku: 'B08GYBWQP5-fr'
-tags: [ 'Accessoires de décoration intérieure','Accessoires pour Nintendo Switch','Ameublement et décoration','Cartes SD','Cartes micro SD','Cartes mémoire','Coffrets de figurines pour enfants','Coques pour Nintendo Switch','Coques, autocollants et protecteurs pour Nintendo Switch','Cuisine et Maison','Décoration de la maison','Décorations murales','Détergent pour lave-vaisselle','Entretien de la maison et nettoyage','Epicerie','Essuie-tout, papier toilette et mouchoirs','Figurines pour enfants','High-Tech','Hygiène et Santé','Informatique','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux vidéo','Lave-vaisselle','Mouchoirs','Mémoire','Mémoire externe','Mémoire pour Nintendo Switch','Nintendo Switch:  Consoles, jeux et accessoires','Rasage et Épilation','TV, vidéo et home cinéma','Tondeuses et accessoires','Tondeuses multifonctionnelles et kits','Téléviseurs','sharp','Épicerie', ]
+tags: [ 'Téléviseurs','sharp', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

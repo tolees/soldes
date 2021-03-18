@@ -8,7 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RPVQY62-fr TP-Link Switch Ethernet LS105G Gigabit 5 ports RJ45...'
 sku: 'B07RPVQY62-fr'
-tags: [ 'Accessoires de décoration intérieure','Accessoires pour Nintendo Switch','Ameublement et décoration','Cartes SD','Cartes micro SD','Cartes mémoire','Coffrets de figurines pour enfants','Coques pour Nintendo Switch','Coques, autocollants et protecteurs pour Nintendo Switch','Cuisine et Maison','Décoration de la maison','Décorations murales','Détergent pour lave-vaisselle','Entretien de la maison et nettoyage','Epicerie','Essuie-tout, papier toilette et mouchoirs','Figurines pour enfants','High-Tech','Hygiène et Santé','Informatique','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux vidéo','Lave-vaisselle','Montres connectées','Mouchoirs','Mémoire','Mémoire externe','Mémoire pour Nintendo Switch','Nintendo Switch:  Consoles, jeux et accessoires','Rasage et Épilation','Réseaux','Switches et hubs réseau','TV, vidéo et home cinéma','Tondeuses et accessoires','Tondeuses multifonctionnelles et kits','Téléphones portables et accessoires','Téléviseurs','tp-link','Épicerie', ]
+tags: [ 'Switches et hubs réseau','tp-link', ]
 actualPrice: 11.89 EUR
 currency: EUR
 price: 11.89
@@ -29,9 +29,9 @@ Vous avez [TP-Link Switch Ethernet  LS105G  Gigabit 5 ports RJ45 metallique 10/1
 ℹ️:
 
 - 【Plug and Play】Installation de switch ethernet LS108G demande aucune configuration
-- 【Green Technologie】La technologie Green Ethernet économise de lénergie, Garantie de Fabricant - 3 ans
 - 【QOS】Switch gigabit 5 ports support la fonction QoS 802.1p / DSCP pour définir la priorité du trafic
-- 【Switch Gigabit】5 ports RJ45 de négociation automatique à 10/100/1000Mbps prenant en charge Auto-MDI/MDIX
 - 【Fontionnement Silencieux】Avec la conception sans ventilateur, switch ethernet LS105G convient à tout type denvironnement
+- 【Green Technologie】La technologie Green Ethernet économise de lénergie, Garantie de Fabricant - 3 ans
+- 【Switch Gigabit】5 ports RJ45 de négociation automatique à 10/100/1000Mbps prenant en charge Auto-MDI/MDIX
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RPVQY62/?tag=tolees0d-21)
