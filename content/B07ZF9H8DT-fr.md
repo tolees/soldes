@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZF9H8DT-fr Rolimate Jeu de Grenouille interactif Marteler des Jouets...'
 sku: 'B07ZF9H8DT-fr'
+tags: [  ]
 actualPrice: 31.99 EUR
 currency: EUR
 price: 31.99

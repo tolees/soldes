@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00VFQU9KE-fr Samsonite Lite-Shock - Spinner XL Valise 81 cm 124 L Noir...'
 sku: 'B00VFQU9KE-fr'
+tags: [  ]
 actualPrice: 305.0 EUR
 currency: EUR
 price: 305.0

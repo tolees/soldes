@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076CPGRGR-fr BraceTek Cadre Empreintes Bébé Kit Empreinte Bebe Mains...'
 sku: 'B076CPGRGR-fr'
+tags: [  ]
 actualPrice: 19.99 EUR
 currency: EUR
 price: 19.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07N3B8CM3-fr DELSEY PARIS - BELMONT PLUS - Valise rigide à double roues...'
 sku: 'B07N3B8CM3-fr'
+tags: [  ]
 actualPrice: 68.63 EUR
 currency: EUR
 price: 68.63

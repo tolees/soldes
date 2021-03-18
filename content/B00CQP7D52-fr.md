@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00CQP7D52-fr Triplite 3x 16A triangulaire - Blanc - Zenitech'
 sku: 'B00CQP7D52-fr'
+tags: [  ]
 actualPrice: 1.47 EUR
 currency: EUR
 price: 1.47

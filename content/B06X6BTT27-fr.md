@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06X6BTT27-fr Rowenta VU6620F0 Ventilateur Colonne sur Pied Eole...'
 sku: 'B06X6BTT27-fr'
+tags: [  ]
 actualPrice: 74.99 EUR
 currency: EUR
 price: 74.99

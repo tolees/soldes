@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B014UY9AWU-fr Pitch Perfect 2'
 sku: 'B014UY9AWU-fr'
+tags: [  ]
 actualPrice: 6.0 EUR
 currency: EUR
 price: 6.0

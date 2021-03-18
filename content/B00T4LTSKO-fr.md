@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00T4LTSKO-fr HAUPTSTADTKOFFER Valises 75 cm 126 L Bleu'
 sku: 'B00T4LTSKO-fr'
+tags: [  ]
 actualPrice: 84.9 EUR
 currency: EUR
 price: 84.9

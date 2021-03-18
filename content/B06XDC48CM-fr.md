@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XDC48CM-fr BIC Kids Kid Couleur Feutres de Coloriage à Pointe Moyenne...'
 sku: 'B06XDC48CM-fr'
+tags: [  ]
 actualPrice: 5.4 EUR
 currency: EUR
 price: 5.4

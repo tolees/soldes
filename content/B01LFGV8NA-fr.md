@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01LFGV8NA-fr The Rolling Stones - Havana Moon [Blu-ray]'
 sku: 'B01LFGV8NA-fr'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

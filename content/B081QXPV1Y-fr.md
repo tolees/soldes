@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B081QXPV1Y-fr Razer Basilisk Ultimate - souris de jeu sans fil avec 11...'
 sku: 'B081QXPV1Y-fr'
+tags: [  ]
 actualPrice: 109.99 EUR
 currency: EUR
 price: 109.99

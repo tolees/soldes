@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B071JR8R4M-fr HP OMEN 100 - Tapis de Souris Gaming Noir 36 cm x 30 cm...'
 sku: 'B071JR8R4M-fr'
+tags: [  ]
 actualPrice: 5.2 EUR
 currency: EUR
 price: 5.2

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B010OTZZBA-fr Sauter SPI4360X - Plaque à induction - Encastrable - 3...'
 sku: 'B010OTZZBA-fr'
+tags: [  ]
 actualPrice: 279.99 EUR
 currency: EUR
 price: 279.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07WWZ26BW-fr Femme Manteau Capuche Fille Hiver Manteau Long Robe Chaud...'
 sku: 'B07WWZ26BW-fr'
+tags: [  ]
 actualPrice: 10.99 EUR
 currency: EUR
 price: 10.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08B5T9D9P-fr eXtremeRate Coques avec ABXY Boutons de Direction pour...'
 sku: 'B08B5T9D9P-fr'
+tags: [  ]
 actualPrice: 18.99 EUR
 currency: EUR
 price: 18.99

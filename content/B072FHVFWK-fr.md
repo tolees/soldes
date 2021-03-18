@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B072FHVFWK-fr Otterbox Batterie externe Powerbank 20 000 mAh'
 sku: 'B072FHVFWK-fr'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

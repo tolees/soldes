@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B000FVE3A2-fr Invicta 3044 Pro Diver Montre Homme acier inoxydable...'
 sku: 'B000FVE3A2-fr'
+tags: [  ]
 actualPrice: 123.3 EUR
 currency: EUR
 price: 123.3

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XBT91Q9-fr Finish Pastilles Lave-Vaisselle Powerball Quantum Ultimate...'
 sku: 'B07XBT91Q9-fr'
+tags: [  ]
 actualPrice: 18.87 EUR
 currency: EUR
 price: 18.87

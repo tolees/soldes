@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SVP1D6F-fr Darksiders - Genesis'
 sku: 'B07SVP1D6F-fr'
+tags: [  ]
 actualPrice: 19.02 EUR
 currency: EUR
 price: 19.02

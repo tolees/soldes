@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01D17JEG4-fr Samsonite Paradiver Light - 15.6 Pouces Sac à Dos pour...'
 sku: 'B01D17JEG4-fr'
+tags: [  ]
 actualPrice: 65.0 EUR
 currency: EUR
 price: 65.0

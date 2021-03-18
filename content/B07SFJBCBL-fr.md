@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07SFJBCBL-fr Levi s WOODWARD L Baskets Hommes Blanc Regular White 51 44 EU'
 sku: 'B07SFJBCBL-fr'
+tags: [  ]
 actualPrice: 44.98 EUR
 currency: EUR
 price: 44.98

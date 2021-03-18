@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BRA4O6W-fr Beurer HD50 Cape chauffante 100 W beige marron'
 sku: 'B01BRA4O6W-fr'
+tags: [  ]
 actualPrice: 25.84 EUR
 currency: EUR
 price: 25.84

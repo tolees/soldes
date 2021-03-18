@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005OQECL8-fr Dremel 4000 Edition Platinium Outil Rotatif Multifonction...'
 sku: 'B005OQECL8-fr'
+tags: [  ]
 actualPrice: 174.15 EUR
 currency: EUR
 price: 174.15

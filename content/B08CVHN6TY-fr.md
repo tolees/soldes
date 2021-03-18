@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08CVHN6TY-fr Disque Dur Externe Disque Dur Externe 2to USB3.0 pour Mac...'
 sku: 'B08CVHN6TY-fr'
+tags: [  ]
 actualPrice: 65.99 EUR
 currency: EUR
 price: 65.99

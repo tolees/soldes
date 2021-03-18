@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07TZNH464-fr Skechers Summits Baskets Femme Gris Gray Mesh/Hot Pink &...'
 sku: 'B07TZNH464-fr'
+tags: [  ]
 actualPrice: 33.0 EUR
 currency: EUR
 price: 33.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076ZX91MT-fr Shark Casque jet ATV-DRAK blanc Taille M'
 sku: 'B076ZX91MT-fr'
+tags: [  ]
 actualPrice: 67.77 EUR
 currency: EUR
 price: 67.77

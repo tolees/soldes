@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084HJCYTQ-fr Samurai Shodown'
 sku: 'B084HJCYTQ-fr'
+tags: [  ]
 actualPrice: 29.9 EUR
 currency: EUR
 price: 29.9

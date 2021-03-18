@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07Z2LNY59-fr Enceinte Bluetooth Portable Zamkol Bluetooth 5.0 Enceinte...'
 sku: 'B07Z2LNY59-fr'
+tags: [  ]
 actualPrice: 55.99 EUR
 currency: EUR
 price: 55.99

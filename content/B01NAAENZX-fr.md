@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01NAAENZX-fr Tommy Hilfiger H2285arlow 1d Sneaker Basses Homme Bleu...'
 sku: 'B01NAAENZX-fr'
+tags: [  ]
 actualPrice: 40.36 EUR
 currency: EUR
 price: 40.36

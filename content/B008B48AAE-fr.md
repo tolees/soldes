@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B008B48AAE-fr Sigma Objectif Macro 18-250 mm F3 5-6 3 DC OS HSM -...'
 sku: 'B008B48AAE-fr'
+tags: [  ]
 actualPrice: 299.0 EUR
 currency: EUR
 price: 299.0

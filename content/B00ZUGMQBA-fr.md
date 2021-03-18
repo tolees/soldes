@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUGMQBA-fr Champion Legacy Performance Crew Lot de 6 paires de...'
 sku: 'B00ZUGMQBA-fr'
+tags: [  ]
 actualPrice: 9.76 EUR
 currency: EUR
 price: 9.76

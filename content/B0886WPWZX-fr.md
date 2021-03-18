@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0886WPWZX-fr Streets of Rage 4'
 sku: 'B0886WPWZX-fr'
+tags: [  ]
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99

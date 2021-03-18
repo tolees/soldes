@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07RH2XSBG-fr Signal Integral 8 Dentifrice Complet Antibactérien...'
 sku: 'B07RH2XSBG-fr'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

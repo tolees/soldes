@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B01BU0FNXW-fr DeWalt DCF887NT - TOOLSELECT Visseuse à chocs 3 vitesses...'
 sku: 'B01BU0FNXW-fr'
+tags: [  ]
 actualPrice: 119.87 EUR
 currency: EUR
 price: 119.87

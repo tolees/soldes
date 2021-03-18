@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JMVBN4R-fr Trust Gaming GXT 865 Asta Clavier Mécanique Gamer RGB...'
 sku: 'B07JMVBN4R-fr'
+tags: [  ]
 actualPrice: 39.94 EUR
 currency: EUR
 price: 39.94

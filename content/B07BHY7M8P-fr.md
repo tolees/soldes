@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07BHY7M8P-fr Jabra Elite Active 65 t Écouteurs de Sport Bluetooth à...'
 sku: 'B07BHY7M8P-fr'
+tags: [  ]
 actualPrice: 119.0 EUR
 currency: EUR
 price: 119.0

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B076JLJXQ5-fr Braun Oral-B Pro 1 - 750 - Brosse à Dents Électrique...'
 sku: 'B076JLJXQ5-fr'
+tags: [  ]
 actualPrice: 36.01 EUR
 currency: EUR
 price: 36.01

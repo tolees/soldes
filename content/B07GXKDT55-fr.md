@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07GXKDT55-fr Razer Nari Essential – Casque Gamer Sans Fil Bluetooth...'
 sku: 'B07GXKDT55-fr'
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

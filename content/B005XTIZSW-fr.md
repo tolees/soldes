@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B005XTIZSW-fr Dim - Body Touch - Culotte - Séduction - Uni - Femme -...'
 sku: 'B005XTIZSW-fr'
+tags: [  ]
 actualPrice: 8.7 EUR
 currency: EUR
 price: 8.7

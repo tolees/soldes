@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BYHQJ38-fr BESINPO Coque Xiaomi Redmi Note 8 Pro Coque Redmi Note 8...'
 sku: 'B08BYHQJ38-fr'
+tags: [  ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99

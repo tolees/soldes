@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07MQ68QGP-fr CASIO CDP-S100BK'
 sku: 'B07MQ68QGP-fr'
+tags: [  ]
 actualPrice: 337.0 EUR
 currency: EUR
 price: 337.0

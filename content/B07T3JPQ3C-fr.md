@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07T3JPQ3C-fr Clint Eastwood-Coffret 10 Films'
 sku: 'B07T3JPQ3C-fr'
+tags: [  ]
 actualPrice: 38.99 EUR
 currency: EUR
 price: 38.99

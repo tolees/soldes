@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B007FOH7UK-fr Secret World [Blu-ray]'
 sku: 'B007FOH7UK-fr'
+tags: [  ]
 actualPrice: 9.99 EUR
 currency: EUR
 price: 9.99

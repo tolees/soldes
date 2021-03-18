@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B084ZPT1C1-fr Calor Access Steam Pocket Défroisseur design ultra-compact...'
 sku: 'B084ZPT1C1-fr'
+tags: [  ]
 actualPrice: 49.99 EUR
 currency: EUR
 price: 49.99

@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DQ91XNK-fr Seagate Portable 2 To Disque dur externe portable HDD –...'
 sku: 'B07DQ91XNK-fr'
+tags: [  ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99

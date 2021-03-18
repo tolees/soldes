@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07R3JBYMH-fr Ultimate Ears Megaboom Enceinte sans Fil Portable...'
 sku: 'B07R3JBYMH-fr'
+tags: [  ]
 actualPrice: 79.0 EUR
 currency: EUR
 price: 79.0

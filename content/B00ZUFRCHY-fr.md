@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00ZUFRCHY-fr Sony DSC-RX10 II Appareil Photo Numérique Bridge Expert...'
 sku: 'B00ZUFRCHY-fr'
+tags: [  ]
 actualPrice: 1092.9 EUR
 currency: EUR
 price: 1092.9

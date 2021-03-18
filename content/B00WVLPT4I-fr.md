@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00WVLPT4I-fr Fissler Vitavit Edition Design / Autocuiseur En Acier...'
 sku: 'B00WVLPT4I-fr'
+tags: [  ]
 actualPrice: 184.48 EUR
 currency: EUR
 price: 184.48

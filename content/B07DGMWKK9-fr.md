@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07DGMWKK9-fr Oral-B Vitality 100 Brosse à Dents Électrique Rechargeable...'
 sku: 'B07DGMWKK9-fr'
+tags: [  ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99

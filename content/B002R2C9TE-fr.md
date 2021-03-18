@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002R2C9TE-fr Jusqu en Enfer [Blu-Ray]'
 sku: 'B002R2C9TE-fr'
+tags: [  ]
 actualPrice: 7.99 EUR
 currency: EUR
 price: 7.99

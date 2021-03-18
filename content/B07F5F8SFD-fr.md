@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F5F8SFD-fr Kaamelott : L intégrale des Six livres [DVD]'
 sku: 'B07F5F8SFD-fr'
+tags: [  ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99

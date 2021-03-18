@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07XVS1WVJ-fr L Intervalle NOMERO Mocassins Femme Noir Black Leather 001...'
 sku: 'B07XVS1WVJ-fr'
+tags: [  ]
 actualPrice: 48.12 EUR
 currency: EUR
 price: 48.12

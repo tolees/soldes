@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B0888BML8X-fr Écouteurs Bluetooth sans Fil Sport IPX7 Étanche Casque...'
 sku: 'B0888BML8X-fr'
+tags: [  ]
 actualPrice: 39.99 EUR
 currency: EUR
 price: 39.99

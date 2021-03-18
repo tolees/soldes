@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08HDG1RT3-fr Galaxy S8 Film Protection Ecran Verre Trempé [2 Pièces]...'
 sku: 'B08HDG1RT3-fr'
+tags: [  ]
 actualPrice: 9.98 EUR
 currency: EUR
 price: 9.98

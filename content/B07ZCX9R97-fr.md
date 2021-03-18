@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07ZCX9R97-fr Fairy Tail'
 sku: 'B07ZCX9R97-fr'
+tags: [  ]
 actualPrice: 52.49 EUR
 currency: EUR
 price: 52.49

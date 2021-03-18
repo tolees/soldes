@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00GSQJQWS-fr Beurer UB 86 Chauffe-lit Surmatelas Chauffant 2 Places...'
 sku: 'B00GSQJQWS-fr'
+tags: [  ]
 actualPrice: 139.0 EUR
 currency: EUR
 price: 139.0

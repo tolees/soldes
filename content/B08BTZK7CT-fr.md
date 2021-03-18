@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08BTZK7CT-fr Cultivea Mini – Kit Prêt à Pousser Bonsaï – Graines...'
 sku: 'B08BTZK7CT-fr'
+tags: [  ]
 actualPrice: 19.9 EUR
 currency: EUR
 price: 19.9

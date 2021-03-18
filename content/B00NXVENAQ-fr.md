@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00NXVENAQ-fr Melitta Caffeo Passione Argent F53/0-101 Machine à Café et...'
 sku: 'B00NXVENAQ-fr'
+tags: [  ]
 actualPrice: 379.0 EUR
 currency: EUR
 price: 379.0

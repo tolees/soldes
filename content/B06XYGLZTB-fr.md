@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B06XYGLZTB-fr AVANTEK D-3F 400m de Portée Sonnettes sans Fil Kit de...'
 sku: 'B06XYGLZTB-fr'
+tags: [  ]
 actualPrice: 16.37 EUR
 currency: EUR
 price: 16.37

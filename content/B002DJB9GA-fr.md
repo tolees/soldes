@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B002DJB9GA-fr BÉABA Transat Up & Down I Transat Réglable par simple...'
 sku: 'B002DJB9GA-fr'
+tags: [  ]
 actualPrice: 106.99 EUR
 currency: EUR
 price: 106.99

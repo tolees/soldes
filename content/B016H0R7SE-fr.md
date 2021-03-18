@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B016H0R7SE-fr Philips Hue Kit de Démarrage Blanc avec 2 x E27 9 W [pont...'
 sku: 'B016H0R7SE-fr'
+tags: [  ]
 actualPrice: 54.99 EUR
 currency: EUR
 price: 54.99

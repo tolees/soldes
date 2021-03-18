@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07F39H6PW-fr El Naturalista Wakatiwai Sandales Bout Ouvert Femme Jaune...'
 sku: 'B07F39H6PW-fr'
+tags: [  ]
 actualPrice: 55.26 EUR
 currency: EUR
 price: 55.26

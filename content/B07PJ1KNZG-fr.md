@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07PJ1KNZG-fr Louis Cottier - Montre Supersize Automatique Bracelet Cuir...'
 sku: 'B07PJ1KNZG-fr'
+tags: [  ]
 actualPrice: 199.0 EUR
 currency: EUR
 price: 199.0

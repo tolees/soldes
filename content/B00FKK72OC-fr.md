@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00FKK72OC-fr Lame de scie circulaire HW/CT 254 x 30 x 2 4/1 8 Gris'
 sku: 'B00FKK72OC-fr'
+tags: [  ]
 actualPrice: 14.1 EUR
 currency: EUR
 price: 14.1

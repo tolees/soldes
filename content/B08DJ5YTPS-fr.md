@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B08DJ5YTPS-fr Disque Dur Externe 1to USB3.0 SATA Stockage HDD pour PC...'
 sku: 'B08DJ5YTPS-fr'
+tags: [  ]
 actualPrice: 47.99 EUR
 currency: EUR
 price: 47.99

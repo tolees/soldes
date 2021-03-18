@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B078GVF1T6-fr COLAB Shampooing Sec Licorne'
 sku: 'B078GVF1T6-fr'
+tags: [ 'Beauté et Parfum','Coiffure et soins des cheveux','Shampooings secs','Soins des cheveux','colab', ]
 actualPrice: 2.7 EUR
 currency: EUR
 price: 2.7
@@ -27,8 +28,8 @@ Vous avez [COLAB Shampooing Sec Licorne](https://www.amazon.fr/dp/B078GVF1T6/?ta
 
 ℹ️:
 
-- Elimine lexcès de sébum
-- Shampooing sec
 - Senteur Licorne
+- Shampooing sec
+- Elimine lexcès de sébum
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078GVF1T6/?tag=tolees0d-21)

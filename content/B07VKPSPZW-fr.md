@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07VKPSPZW-fr MICHELIN Chaines à neige Extrem Grip Tension Automatique...'
 sku: 'B07VKPSPZW-fr'
+tags: [  ]
 actualPrice: 76.99 EUR
 currency: EUR
 price: 76.99

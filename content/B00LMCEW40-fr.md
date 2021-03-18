@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00LMCEW40-fr Mano Sets de bagages MPTSET3 Noir 56.0 liters'
 sku: 'B00LMCEW40-fr'
+tags: [  ]
 actualPrice: 42.17 EUR
 currency: EUR
 price: 42.17

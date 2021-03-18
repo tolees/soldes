@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07L25FNQB-fr Celio - NECETWO - Polo manches courtes - Coton Supima Noir...'
 sku: 'B07L25FNQB-fr'
+tags: [  ]
 actualPrice: 10.0 EUR
 currency: EUR
 price: 10.0

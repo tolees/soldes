@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B07JGQMPJW-fr Lowepro Whistler BP 450 AW II Sac à dos 4 saisons ultra-...'
 sku: 'B07JGQMPJW-fr'
+tags: [  ]
 actualPrice: 253.49 EUR
 currency: EUR
 price: 253.49

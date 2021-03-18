@@ -8,6 +8,7 @@ category: ofertas
 author: 'tole.es'
 slug: 'B00THOYRN6-fr Sigma Objectif 150-600 mm F5-6.3 DG OS HSM Contemporary -...'
 sku: 'B00THOYRN6-fr'
+tags: [  ]
 actualPrice: 979.0 EUR
 currency: EUR
 price: 979.0
