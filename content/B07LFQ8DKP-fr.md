@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '40.01 % rabais sur Petsfit Niche intérieure en bois pour pe'
-date: 2021-03-10 19:15:17
+date: 2021-03-18 20:01:46
 image: 'https://m.media-amazon.com/images/I/41FyNLOG4mL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07LFQ8DKP-fr Petsfit Niche intérieure en bois pour petits chiens 102cm...'
 sku: 'B07LFQ8DKP-fr'
+tags: [ 'Animalerie','Cages et chenils pour chiens','Chenils à chien','Chiens','Niches, cages, chenils et parcs chien','petsfit', ]
 actualPrice: 89.99 EUR
 currency: EUR
 price: 89.99
@@ -27,10 +28,10 @@ Vous avez [Petsfit Niche intérieure en bois pour petits chiens 102cm x 53cm x 6
 
 ℹ️:
 
-- Pieds surélevés de 5 cm pour garder vos animaux au sec
-- Vous pouvez peindre et teindre vous-même lintérieur pour laméliorer. Dimension intérieure : 74cm x 48cm 47cm
 - Dimensions de la porte : 24cm x 34cm, plus de détails sur les dimensions, veuillez vous référer à la 2ème photo.
 - TAPIS NON INCLUS. Une seule étape dinstallation, aucun assemblage nest nécessaire.
+- Pieds surélevés de 5 cm pour garder vos animaux au sec
 - Petsfit niche en bois pour petits chiens < 7kg
+- Vous pouvez peindre et teindre vous-même lintérieur pour laméliorer. Dimension intérieure : 74cm x 48cm 47cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LFQ8DKP/?tag=tolees0d-21)
