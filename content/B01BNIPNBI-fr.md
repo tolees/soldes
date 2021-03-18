@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'BLACK+DECKER BL20362-XJ Batterie lithium avec 51.62 % rabais '
-date: 2021-03-08 19:26:27
+date: 2021-03-18 01:16:34
 image: 'https://m.media-amazon.com/images/I/41vex9zkSfL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01BNIPNBI-fr BLACK+DECKER BL20362-XJ Batterie lithium - Pas d effet...'
 sku: 'B01BNIPNBI-fr'
-tags: [  ]
+tags: [ 'Accessoires IT','Accessoires pour disques durs','Accessoires pour outillage sans fil','Accessoires pour outillage électroportatif','Action et aventure','Adaptateurs et boîtiers pour disque dur','Appareils et outils de coiffure','Baskets et chaussures de sport femme','Baskets mode femme','Beauté et Parfum','Blu-ray','Bricolage','Chaussures','Chaussures et Sacs','Chaussures femme','Coffrets de figurines pour enfants','Coiffure et soins des cheveux','DVD et Blu-ray','Featured Categories','Figurines pour enfants','Films','High-Tech','Informatique','Jeux et Jouets','Jeux et jouets','Outillage à main et électroportatif','Packs batterie pour outils sans fil','Piles alcaline','Piles, chargeurs et testeurs','Thriller','Tondeuses à cheveux','black+decker', ]
 actualPrice: 59.99 EUR
 currency: EUR
 price: 59.99
@@ -28,9 +28,9 @@ C'est en vente [BLACK+DECKER BL20362-XJ Batterie lithium - Pas d effet mémoire 
 
 ℹ️:
 
-- Technologie lithium: pas d’effet mémoire et faible autodécharge
-- Compacte et légèreté: une batterie au poids plume qui garantit une compacte et une légèreté hors du commun
-- 36 volts ; lithium 2Ah
 - PLUS produit: batterie interchangeable cette batterie 36V est interchangeable avec tous les outils sans fil BLACK+DECKER. Un vrai plus !
+- Compacte et légèreté: une batterie au poids plume qui garantit une compacte et une légèreté hors du commun
+- Technologie lithium: pas d’effet mémoire et faible autodécharge
+- 36 volts ; lithium 2Ah
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BNIPNBI/?tag=tolees0d-21)

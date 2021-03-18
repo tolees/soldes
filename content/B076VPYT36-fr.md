@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '33.75 % rabais sur Tenda système WiFi mesh Bi-bande gigabit'
-date: 2020-10-05 19:19:16
+title: '20.00 % rabais sur Tenda système WiFi mesh Bi-bande gigabit'
+date: 2021-03-18 00:32:50
 image: 'https://m.media-amazon.com/images/I/313oXXPzDuL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B076VPYT36-fr Tenda système WiFi mesh Bi-bande gigabit MW6 3-Pack pour...'
 sku: 'B076VPYT36-fr'
-tags: [ 'Bouteilles isothermes','Casques de réalité virtuelle pour PC','Commodore 64: Jeux, consoles et accessoires','Consoles pour Commodore 64','Consoles rétro et mini consoles','Contenants isothermes','Cuisine et Maison','Jeux de construction','Jeux et Jouets','Jeux et jouets','Jeux vidéo','PC: Jeux et accessoires','Rangement et organisation','Rangement et organisation de cuisine','Récipients isothermes à boissons','Systèmes de réalité virtuelle pour PC', ]
-actualPrice: 112.62 EUR
+tags: [ 'Accessoires','Accessoires IT','Accessoires de déguisement','Accessoires de voyage','Accessoires pour PC','Accessoires pour PlayStation 4','Accessoires pour TV et vidéo','Accessoires pour aspirateurs','Accessoires pour disques durs','Accessoires pour lecteurs MP3 et vidéo','Accessoires pour mini-poupées et maisons de poupées','Accessoires pour outillage sans fil','Accessoires pour outillage électroportatif','Action et aventure','Adaptateurs et boîtiers pour disque dur','Ameublement et décoration','Animation','Animation japonaise','Antennes TNT','Antennes radio et TV','Appareils Amazon','Appareils Amazon et Accessoires','Appareils audio et video portable','Appareils et outils de coiffure','Aspirateurs, entretien des sols et nettoyeurs de vitres','Aviation radiocommandée','Bagages','Balances de cuisine','Barbecue et repas en extérieur','Baskets et chaussures de sport femme','Baskets mode femme','Beauté et Parfum','Bijoux','Bijoux femme','Blu-ray','Bobbleheads','Boissons énergétiques','Boissons énergétiques et diététiques','Boutiques','Bricolage','Bébé et Puériculture','Café, thé et boissons','Caleçons homme','Casques et écouteurs','Casques, écouteurs et accessoires','Catégories de Bagages','Charms et breloques pour femme','Charms et perles pour femme','Chaussettes de football homme','Chaussettes de sport  homme','Chaussettes et collants femme','Chaussettes femme','Chaussures','Chaussures et Sacs','Chaussures femme','Coffrets de figurines pour enfants','Coiffure et soins des cheveux','Comédie','Consoles rétro et mini consoles','Couteaux de cuisine','Couteaux et Ustensiles de Cuisine','Couteaux japonais','Cuisine et Maison','Custom Stores','DVD et Blu-ray','Dinosaures et créatures préhistoriques','Disques durs externes','Disques durs internes','Drame et émotion','Drones radiocommandés','Décoration de chambre denfant','Décoration de la maison','Détergent pour lave-vaisselle','Enceintes','Enceintes Bluetooth portables','Enceintes connectées','Enceintes et écrans connectés Echo','Enceintes portables et stations daccueil','Enfants, jeunesse et famille','Ensembles de pyjama femme','Ensembles dustensiles pour barbecue','Entretien de la maison et nettoyage','Epicerie','Fantastique','Featured Categories','Figurines daction pour enfants','Figurines pour enfants','Films','Football','Fournitures de bureau','Game Boy Advance: Jeux, consoles et accessoires','High-Tech','Horreur et épouvante','Informatique','Jardin','Jeux Nintendo 3DS et 2DS','Jeux de construction','Jeux dimitation, déguisements et accessoires','Jeux et Jouets','Jeux et jouets','Jeux et jouets électroniques','Jeux pour Game Boy Advance','Jeux pour Nintendo DS','Jeux pour Nintendo Switch','Jeux pour Nintendo Wii U','Jeux pour Xbox One','Jeux vidéo','Jeux éducatifs et scientifiques','Jouets dactivité et de développement','Jouets de collection','Jouets déveil et 1er âge','Jouets radiocommandés','La chambre de bébé','Lampes dambiance','Lave-vaisselle','Lecteurs Blu-ray','Lecteurs et enregistreurs Blu-Ray','Luminaires et Éclairage','Luminaires et éclairage','Luminaires intérieur','Maquillage pour enfants','Marchepieds pour chambre de bébé','Media Streamers','Meubles','Meubles de chambre denfant','Mini-poupées','Mini-poupées et accessoires','Mobilier','Mobilier pour mini-poupées','Montres connectées','Mémoire','Mémoire externe','Mémoire interne','Mémoire pour PlayStation 4','Nintendo 3DS et 2DS:  Consoles, jeux et accessoires','Nintendo DS:  Consoles, jeux et accessoires','Nintendo Switch:  Consoles, jeux et accessoires','Nintendo Wii U:  Consoles, jeux et accessoires','Outillage à main et électroportatif','Outillage électroportatif','PC: Jeux et accessoires','Packs batterie pour outils sans fil','Pendules et horloges de chambre denfant','Petit électroménager','Piles alcaline','Piles, chargeurs et testeurs','PlayStation 4: Consoles, jeux et accessoires','Poupées et accessoires','Poupées mannequins','Poupées mannequins et accessoires','Puzzles','Puzzles classiques','Rainureuses','Recharges pour stylos','Reproductions, statues et bustes','Robots électroniques pour enfants','Répéteurs','Réseaux','Réveils éducatifs','SSD externes','SSD internes','Sacs','Sacs pour aspirateurs','Sacs pour aspirateurs portatifs','Sacs à main homme','Science-fiction','Smartphones et téléphones portables débloqués','Solutions streaming','Sous-vêtements homme','Sports et Loisirs','Sportswear homme','Stylos et recharges','Switches et hubs réseau','Systèmes Mesh WiFi','Séries TV','T-shirts à manches courtes homme','T-shirts, polos et chemises homme','TV, vidéo et home cinéma','Talkie-walkies','Tenues de nuit, lingerie et sous-vêtements pour femme','Thermomètres de cuisine','Thermomètres à viande','Thriller','Tondeuses à cheveux','Trousses de toilette','Téléphones portables et accessoires','Téléviseurs','Univers Hi-Fi','Ustensiles pour barbecue','Volants pour PC','Véhicules miniatures radiocommandés','Véhicules pour enfants','Vêtements','Vêtements de football','Vêtements de football homme','Vêtements de nuit femme','Vêtements femme','Vêtements homme','Xbox One:  Consoles, jeux et accessoires','tenda','Éclairage spécial','Écrans connectés','Écriture','Épicerie', ]
+actualPrice: 135.99 EUR
 currency: EUR
-price: 112.62
+price: 135.99
 comparePrice: 169.99 EUR
 prodname: 'Tenda système WiFi mesh Bi-bande gigabit MW6 3-Pack  pour toute la maison  routeur et répéteur WiFi remplacement   couverture Wi-Fi de 500 m'
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: 'Tenda'
 buyurl: 'https://www.amazon.fr/dp/B076VPYT36/?tag=tolees0d-21'
-descuento: '33.75'
-average: '112.62'
+descuento: '20.00'
+average: '124.305'
 ---
 
-Vous avez [Tenda système WiFi mesh Bi-bande gigabit MW6 3-Pack  pour toute la maison  routeur et répéteur WiFi remplacement   couverture Wi-Fi de 500 m](https://www.amazon.fr/dp/B076VPYT36/?tag=tolees0d-21)  à  33.75 % de réduction, prix final  112.62 EUR (original: 169.99 EUR) ici:
+Vous avez [Tenda système WiFi mesh Bi-bande gigabit MW6 3-Pack  pour toute la maison  routeur et répéteur WiFi remplacement   couverture Wi-Fi de 500 m](https://www.amazon.fr/dp/B076VPYT36/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  135.99 EUR (original: 169.99 EUR) ici:
 
 [![Tenda système WiFi mesh Bi-bande gigabit](https://m.media-amazon.com/images/I/313oXXPzDuL._SL400_.jpg)](https://www.amazon.fr/dp/B076VPYT36/?tag=tolees0d-21)
 
 ℹ️:
 
+- Mesh WI-FI pour toute la maison : Supporter 802.11S pour un véritable réseau wifi mesh, conçu pour vos maisons intelligentes avec des zones mortes WiFi à la maison
+- Haute capacité et flexibilité completè : Créer un réseau Wi-Fi unique et transparent pour tous vos appareils. Garder un maximum de 90 appareils connectés simultanément. Chaque nœud couvre jusquà 180 m² despace habitable et élimine les zones d’ombres Wifi. Étendre facilement la couverture Wi-Fi de votre domicile
+- Roaming sans fil pour tous: Chaque unité fonctionne ensemble pour former un seul réseau Wi-Fi Mesh réel, créant ainsi une expérience en ligne vraiment effecace et stable
+- Gigabit et sécurisé: MW6 déploie un réseau gigabit complet et des performances de diffusion sans fil plus puissantes. Également compatible avec Nova MW3 et MW5, vous pouvez donc étendre la gamme avec plus de choix. Cryptez le mot de passe WiFi avec WPA2-PSK, protégez votre maison intelligente et vos connexions contre le piratage et les attaques
+- Emplacement de routeur et répéteur WIFI: Idéal pour remplacer vos solutions Wi-Fi existantes, comme l’amplificateur wifi, le routeur wifi traditionnel, répétiteur wifi et CPL, fournit une couverture de Wi-Fi jusqu’à 500 m². Compatible avec tous les fournisseurs de services Internet (livebox, freebox, etc.)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076VPYT36/?tag=tolees0d-21)

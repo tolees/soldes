@@ -1,14 +1,14 @@
 ---
 layout: post
 title: '23.18 % rabais sur Playmobil - Salon Équipé - 9267'
-date: 2021-03-16 01:40:50
+date: 2021-03-18 01:20:49
 image: 'https://m.media-amazon.com/images/I/51LcuH3WttL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B06X1GY4GG-fr Playmobil - Salon Équipé - 9267'
 sku: 'B06X1GY4GG-fr'
-tags: [  ]
+tags: [ 'Appareils et outils de coiffure','Beauté et Parfum','Coffrets de figurines pour enfants','Coiffure et soins des cheveux','Figurines pour enfants','Jeux et Jouets','Jeux et jouets','Tondeuses à cheveux','playmobil', ]
 actualPrice: 11.9 EUR
 currency: EUR
 price: 11.9
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21'
 descuento: '23.18'
-average: '13.6123529411765'
+average: '13.5477358490566'
 ---
 
 Vous avez [Playmobil - Salon Équipé - 9267](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)  à  23.18 % de réduction, prix final  11.9 EUR (original: 15.49 EUR) ici:
@@ -29,8 +29,8 @@ Vous avez [Playmobil - Salon Équipé - 9267](https://www.amazon.fr/dp/B06X1GY4G
 ℹ️:
 
 - 3 pressions : léclairage séteint totalement. Arrêt automatique : env. 120 sec.
-- 1 pression : la lumière blanche sallume. 2 pressions : la couleur change en continu (bleu - violet - rouge - jaune - vert)
 - La lampe de table ronde sallume (nécessite 2 piles 1,5 V micro non fournies)
+- 1 pression : la lumière blanche sallume. 2 pressions : la couleur change en continu (bleu - violet - rouge - jaune - vert)
 - Contient 2 personnages, 1 canapé, 1 TV, 2 enceintes, 2 lecteurs de DVD, 2 bibliothèques, 1 saxophone, 1 pot de fleur Lechuza, 1 voiture jouet et des accessoires
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)
