@@ -28,15 +28,15 @@ C'est en vente [LEGO Education 45300 Ensemble de Base](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Outil de documentation intégré pour apporter un support informatif aux projets : images, captures décran, vidéos et texte
 - Évaluation intégrée
-- Compétences de base en programmation
 - Esprit critique et résolution des problèmes ACV :
-- Observation, modélisation et conception de solutions
-- Implication des élèves dans les domaines scientifiques en les rendant tangibles et pertinents
-- Compétences de collaboration et de présentation
-- Caisse de rangement résistante et plateau de tri pour une gestion aisée de la classe
 - Principales valeurs pédagogiques :
+- Compétences de collaboration et de présentation
+- Implication des élèves dans les domaines scientifiques en les rendant tangibles et pertinents
 - Disponible sur ordinateur et sur tablette
+- Caisse de rangement résistante et plateau de tri pour une gestion aisée de la classe
+- Compétences de base en programmation
+- Outil de documentation intégré pour apporter un support informatif aux projets : images, captures décran, vidéos et texte
+- Observation, modélisation et conception de solutions
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01A9A9XLW/?tag=tolees0d-21)

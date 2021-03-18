@@ -28,10 +28,10 @@ Vous avez [Bensimon - F15004 - TENNIS LACET FEMME - Baskets Basses - Femme - Bla
 
 ℹ️:
 
-- Saison : Printemps Été
-- Couleur : Blanc
 - Matière : Textile
 - Fermeture : Lacets
+- Couleur : Blanc
 - Taille : 37 EU
+- Saison : Printemps Été
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MSU078Y/?tag=tolees0d-21)

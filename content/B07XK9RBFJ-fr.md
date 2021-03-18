@@ -28,10 +28,10 @@ C'est en vente [Seagate Expansion SSD  500 Go  Disque Dur externe SSD  USB 3.0  
 
 ℹ️:
 
-- Glissez-déposez facilement photos et vidéos sur votre disque. Regardez des vidéos en streaming directement depuis le disque.
-- Profitez de la longévité du SSD et des vitesses de transfert atteignant 400 Mo/s.
 - Gagnez durablement en tranquillité desprit grce à la garantie limitée de trois ans incluse.
-- Ultra compact, léger et assez fin pour se loger dans votre poche sans l’alourdir.
 - Fonctionne avec Windows et Mac sans quun reformatage soit nécessaire. Un reformatage peut être requis avec Time Machine.
+- Ultra compact, léger et assez fin pour se loger dans votre poche sans l’alourdir.
+- Profitez de la longévité du SSD et des vitesses de transfert atteignant 400 Mo/s.
+- Glissez-déposez facilement photos et vidéos sur votre disque. Regardez des vidéos en streaming directement depuis le disque.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XK9RBFJ/?tag=tolees0d-21)
