@@ -29,8 +29,8 @@ Vous avez [Under Armour MK1 Terry Short Pantalon Homme  Noir  M](https://www.ama
 ℹ️:
 
 - Molleton chaud et confortable, idéal pour lentraînement, plus léger que la normale pour vous permettre de gagner en vitesse
-- Pièces tissées en superposition pour plus de robustesse
 - Ceinture élastique intégrée avec cordon de serrage à lintérieur
+- Pièces tissées en superposition pour plus de robustesse
 - Entrejambe : 22 cm
 - Matière qui élimine la transpiration et sèche très rapidement
 - Poches sans fermeture pour les mains avec poche interne à droite pour téléphone
