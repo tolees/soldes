@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '20.01 % rabais sur Walt Disney France - Robin des Bois [Blu'
-date: 2021-03-15 07:12:57
+date: 2021-03-19 22:19:42
 image: 'https://m.media-amazon.com/images/I/512fAezF1UL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B00DGCFZ90-fr Walt Disney France - Robin des Bois [Blu-Ray]'
 sku: 'B00DGCFZ90-fr'
+tags: [ 'Animation','Blu-ray','DVD et Blu-ray','Enfants, jeunesse et famille','Featured Categories','Films','walt disney france', ]
 actualPrice: 15.99 EUR
 currency: EUR
 price: 15.99
@@ -18,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Walt Disney France'
 buyurl: 'https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21'
 descuento: '20.01'
-average: '15.2679545454546'
+average: '15.2993478260871'
 ---
 
 Vous avez [Walt Disney France - Robin des Bois [Blu-Ray]](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  15.99 EUR (original: 19.99 EUR) ici:
@@ -28,8 +29,8 @@ Vous avez [Walt Disney France - Robin des Bois [Blu-Ray]](https://www.amazon.fr/
 ℹ️:
 
 - Titre : Robin des Bois
-- Date de sortie marché : Octobre 2013
 - Date de sortie marché : 16 Octobre 2013
+- Date de sortie marché : Octobre 2013
 - Langue(s) audio : Français, Anglais
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DGCFZ90/?tag=tolees0d-21)
