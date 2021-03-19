@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '71.75 % rabais sur Abollria Chaussettes Noël en Coton 5 Pac'
-date: 2021-03-16 01:34:47
+date: 2021-03-19 02:22:08
 image: 'https://m.media-amazon.com/images/I/51XuSrJ05fL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07JMXT6GT-fr Abollria Chaussettes Noël en Coton 5 Pack Thermiques...'
 sku: 'B07JMXT6GT-fr'
+tags: [ 'Chaussettes et collants femme','Chaussettes femme','Vêtements','Vêtements femme','abollria', ]
 actualPrice: 12.99 EUR
 currency: EUR
 price: 12.99

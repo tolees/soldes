@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Interstellar [4K Ultra HD + Blu-Ray] avec 29.48 % rabais '
-date: 2021-03-18 00:41:03
+date: 2021-03-19 02:19:52
 image: 'https://m.media-amazon.com/images/I/51GygyCiK3L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B0749VKHCV-fr Interstellar [4K Ultra HD + Blu-Ray]'
 sku: 'B0749VKHCV-fr'
+tags: [ 'Action et aventure','Blu-ray','DVD et Blu-ray','Featured Categories','Films','Science-fiction', ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68

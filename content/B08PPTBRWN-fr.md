@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '38.05 % rabais sur Samsung Smart Clear View Cover Noir Gala'
-date: 2021-03-15 12:49:17
+date: 2021-03-19 02:01:31
 image: 'https://m.media-amazon.com/images/I/31MJ9JZKj0L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08PPTBRWN-fr Samsung Smart Clear View Cover Noir Galaxy S21'
 sku: 'B08PPTBRWN-fr'
+tags: [ 'Accessoires téléphones portables','High-Tech','Téléphones portables et accessoires','samsung','Étuis et coques pour téléphone portable', ]
 actualPrice: 43.3 EUR
 currency: EUR
 price: 43.3
@@ -18,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B08PPTBRWN/?tag=tolees0d-21'
 descuento: '38.05'
-average: '44.6139534883722'
+average: '44.5555555555556'
 ---
 
 Vous avez [Samsung Smart Clear View Cover Noir Galaxy S21](https://www.amazon.fr/dp/B08PPTBRWN/?tag=tolees0d-21)  à  38.05 % de réduction, prix final  43.3 EUR (original: 69.9 EUR) ici:

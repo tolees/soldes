@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '19.57 % rabais sur Sylvanian Families - Le Village - La Fam'
-date: 2021-03-18 00:58:39
+date: 2021-03-19 02:24:23
 image: 'https://m.media-amazon.com/images/I/51tUZWdikgL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00HRRAFWM-fr Sylvanian Families - Le Village - La Famille Écureuil Roux...'
 sku: 'B00HRRAFWM-fr'
+tags: [ 'Jeux et Jouets','Jeux et jouets','Mini-poupées','Mini-poupées et accessoires','Poupées et accessoires','sylvanian families', ]
 actualPrice: 20.1 EUR
 currency: EUR
 price: 20.1
@@ -18,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B00HRRAFWM/?tag=tolees0d-21'
 descuento: '19.57'
-average: '22.2405538461541'
+average: '22.2274617737006'
 ---
 
 Vous avez [Sylvanian Families - Le Village - La Famille Écureuil Roux - 4172 - Famille 4 Figurines - Mini Poupées](https://www.amazon.fr/dp/B00HRRAFWM/?tag=tolees0d-21)  à  19.57 % de réduction, prix final  20.1 EUR (original: 24.99 EUR) ici:

@@ -1,40 +1,37 @@
 ---
 layout: post
-title: '15.46 % rabais sur OPPO A53s Bleu Fantaisie - 128 Go - 4 Go'
-date: 2021-03-09 19:13:03
+title: '15.01 % rabais sur OPPO A53s Bleu Fantaisie - 128 Go - 4 Go'
+date: 2021-03-19 02:22:24
 image: 'https://m.media-amazon.com/images/I/41MgGSx2ecL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08JH4BZQT-fr OPPO A53s Bleu Fantaisie - 128 Go - 4 Go de RAM – Écran...'
 sku: 'B08JH4BZQT-fr'
-actualPrice: 169.0 EUR
+tags: [ 'High-Tech','Smartphones et téléphones portables débloqués','Téléphones portables et accessoires','oppo', ]
+actualPrice: 169.9 EUR
 currency: EUR
-price: 169.0
+price: 169.9
 comparePrice: 199.9 EUR
 prodname: 'OPPO A53s Bleu Fantaisie - 128 Go - 4 Go de RAM – Écran Immersif 90Hz - Batterie 5000 mAh - Double Haut-Parleur Stéréo - Triple Caméra avec IA - USB-C - Android 10 - Smartphone débloqué 4G'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'OPPO'
 buyurl: 'https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21'
-descuento: '15.46'
-average: '184.497142857142'
+descuento: '15.01'
+average: '184.398333333332'
 ---
 
-Vous avez [OPPO A53s Bleu Fantaisie - 128 Go - 4 Go de RAM – Écran Immersif 90Hz - Batterie 5000 mAh - Double Haut-Parleur Stéréo - Triple Caméra avec IA - USB-C - Android 10 - Smartphone débloqué 4G](https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21)  à  15.46 % de réduction, prix final  169.0 EUR (original: 199.9 EUR) ici:
+Vous avez [OPPO A53s Bleu Fantaisie - 128 Go - 4 Go de RAM – Écran Immersif 90Hz - Batterie 5000 mAh - Double Haut-Parleur Stéréo - Triple Caméra avec IA - USB-C - Android 10 - Smartphone débloqué 4G](https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21)  à  15.01 % de réduction, prix final  169.9 EUR (original: 199.9 EUR) ici:
 
 [![OPPO A53s Bleu Fantaisie - 128 Go - 4 Go](https://m.media-amazon.com/images/I/41MgGSx2ecL._SL400_.jpg)](https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21)
 
 ℹ️:
 
-- 4 GB RAM + 128GB ROM
-- 90 hz neo-display
-- 18w fast charge
-- 5000 mah battery
-- 18W Fast Charge
-- 5000 mAh Battery
-- 4 gb ram + 128gb rom
-- 90 Hz Neo-Display
-- ; Display size: 6.5 inches; Display type: LCD; Operating system: Android 10.0; Wireless communication technology: Cellular; Camera description: Rear; Media type: AAC
+- DOUBLE HAUT-PARLEUR STÉRÉO : Doté de deux haut-parleurs et de la calibration Dirac, le système stéréo offre un son puissant et captivant
+- TRIPLE CAMÉRA AVEC IA : Avec sa triple caméra doté dIA, capturer des photos professionnelles en toutes circonstances na jamais été aussi simple
+- JUSQUÀ 2 JOURS DAUTONOMIE : La batterie longue durée vous permet de sortir de chez vous lesprit tranquille. En cas de faible batterie, il se recharge également rapidement
+- GRANDE MÉMOIRE EXTENSIBLE : Un espace de stockage insuffisant ? Les 3 emplacements (double SIM + Micro SD) vous permettent dajouter jusquà 256 Go de stockage supplémentaire
+- ÉCRAN IMMERSIF 90HZ : Grâce au taux de rafraîchissement de 90 Hz, vous pouvez naviguer, regarder des vidéos, jouer à des jeux avec une sensation de fluidité fulgurante
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21)
