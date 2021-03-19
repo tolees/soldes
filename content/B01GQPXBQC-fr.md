@@ -28,10 +28,10 @@ C'est en vente [PNY CS1050 Elite 240 Go SSD externe - USB 3.1](https://www.amazo
 
 ℹ️:
 
-- Vitesse de transfert élevée jusquà 430 Mo/s
-- Basse consommation énergétique
-- Boîtier en aluminium durable et ultra compact
 - Compatible avec Windows et Mac OS X
+- Boîtier en aluminium durable et ultra compact
+- Vitesse de transfert élevée jusquà 430 Mo/s
 - Connectivité USB 3.0
+- Basse consommation énergétique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GQPXBQC/?tag=tolees0d-21)

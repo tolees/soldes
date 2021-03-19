@@ -28,10 +28,10 @@ Vous avez [TP-Link Nano Routeur 750Mbps Wi-Fi AC  Support mode Répéteur/ mode 
 
 ℹ️:
 
-- Un commutateur pour plusieurs modes - Parfait pour Wifi à la maison, dans la chambre dhôtel ou sur la route
-- Alimenté via un port micro USB par un adaptateur d’alimentation externe ou par une connexion USB à un ordinateur
-- Wi-Fi Bi-Bande AC 750Mbps – idéal pour le streaming de vidéos, jeux en ligne et les appels par Internet
 - Port USB pour partager des fichiers ou charger un appareil
+- Alimenté via un port micro USB par un adaptateur d’alimentation externe ou par une connexion USB à un ordinateur
 - Format de poche, suffisamment petit et léger pour pouvoir être emporté, permet aux utilisateurs d’accéder à une connexion 3G/4G partout où une couverture 3G/4G est disponible.
+- Un commutateur pour plusieurs modes - Parfait pour Wifi à la maison, dans la chambre dhôtel ou sur la route
+- Wi-Fi Bi-Bande AC 750Mbps – idéal pour le streaming de vidéos, jeux en ligne et les appels par Internet
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MY5JIJ0/?tag=tolees0d-21)

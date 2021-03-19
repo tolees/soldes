@@ -28,10 +28,10 @@ C'est en vente [Brabantia 112126 Poubelle à Pédale Newicon avec Seau en Plasti
 
 ℹ️:
 
-- Service et garantie Brabantia 10 ans
-- Produite à 40% de matériaux recyclés de haute qualité - après usage, recyclable à 98%
 - Opération fermeture silencieuse et pédale ultra légère
+- Service et garantie Brabantia 10 ans
 - Fermeture étanche aux odeurs
 - Poubelle 3 L, avec seau intérieur en plastique
+- Produite à 40% de matériaux recyclés de haute qualité - après usage, recyclable à 98%
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LXCYQLR/?tag=tolees0d-21)

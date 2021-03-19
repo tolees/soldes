@@ -28,10 +28,10 @@ Vous avez [Sony MHC-V02 Enceinte Portable High Power Bluetooth](https://www.amaz
 
 ℹ️:
 
-- Gérez la fête depuis la piste de danse, grâce à lapplication Sony Musique Centre ou au plug in Fiestable.
-- EQ vidéo: MOVIE / GAME / DRAMA / NEWS
-- Design compact et pratique avec des poignées intégrées et un trépied.
 - Son puissant et fonction Jet Bass Booster pour remplir la pièce de basses
+- Gérez la fête depuis la piste de danse, grâce à lapplication Sony Musique Centre ou au plug in Fiestable.
+- Design compact et pratique avec des poignées intégrées et un trépied.
+- EQ vidéo: MOVIE / GAME / DRAMA / NEWS
 - Lecture multisource (Bluetooth/NFC, CD, DVD, USB, etc …) Lenceinte MHC-V02D comporte également des entrées pour brancher une guitare et/ou un micro.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MBPRYC8/?tag=tolees0d-21)

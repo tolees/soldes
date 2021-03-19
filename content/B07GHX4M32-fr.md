@@ -28,11 +28,11 @@ Vous avez [Taldec - Tech It Easy  Circuit des 100 Expériences   STEM  jouet enf
 
 ℹ️:
 
+- Jeux de construction pour initier les enfants des le plus jeune âge aux sciences.
 - A partir de 8 ans.
+- Ce super coffret qui comprend une alarme, une machine à bulles, un aspirateur et bien d’autres choses encore, occupera les enfants pendant des heures.
 - Ce coffret, à caractère éducatif, aidera l’enfant à développer, la précision, la motricité fine, la coordination, la créativité, et la réflexion.
 - Plus de 100 expériences que l’enfant peut réaliser seul ou avec ses amis.
 - Fonctionne avec 6*AA non incluses.
-- Jeux de construction pour initier les enfants des le plus jeune âge aux sciences.
-- Ce super coffret qui comprend une alarme, une machine à bulles, un aspirateur et bien d’autres choses encore, occupera les enfants pendant des heures.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GHX4M32/?tag=tolees0d-21)

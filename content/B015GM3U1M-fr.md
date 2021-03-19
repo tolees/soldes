@@ -28,10 +28,10 @@ C'est en vente [Ice-Watch - ICE glitter Black Rose-Gold - Montre noire pour femm
 
 ℹ️:
 
-- Cest une montre extra plate en silicone noir Son cadran rosé pailleté sassorti idéaleement avec vos tenues de jour comme de soirée Elle garde toujours son côté chic grâce à son anneau et ses aiguilles rosés
-- Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
 - Collection ICE glitter
+- Cest une montre extra plate en silicone noir Son cadran rosé pailleté sassorti idéaleement avec vos tenues de jour comme de soirée Elle garde toujours son côté chic grâce à son anneau et ses aiguilles rosés
 - Boitier en silicone de taille small (34mm) avec bracelet en silicone
+- Etanche jusquà 10 ATM : résistant aux immersions et sport nautiques (nage, nage sportive) mais pas à la plongée
 - Livré avec un manuel dinstructions et une boîte de présentation
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B015GM3U1M/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Pentel EnerGel XM BL77 – Lot de 12 stylos à encre gel liqui
 
 ℹ️:
 
-- Caractéristiques Pentel Energel viscosité révolutionnaire de lencre, qui combine le séchage rapide avec une expérience décriture lisse.
-- Avec grip en caoutchouc pour plus de contrôle et de confort.
 - rétractable Gel stylo roller de Pentel BL77, fabriqué à partir de 54% de matériaux recyclés.
 - Pointe 0,7 mm offre une ligne 0,35 mm.
+- Avec grip en caoutchouc pour plus de contrôle et de confort.
+- Caractéristiques Pentel Energel viscosité révolutionnaire de lencre, qui combine le séchage rapide avec une expérience décriture lisse.
 - Lot de 12 stylos bleu
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M309APL/?tag=tolees0d-21)

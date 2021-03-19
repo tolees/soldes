@@ -29,7 +29,7 @@ C'est en vente [Savic Barrière de Porte pour Chien H. 107 cm](https://www.amazo
 ℹ️:
 
 - Uniquement pour les chiens adultes
-- Largeur ajustable
 - Dimensions: 75 x 5 x 107 cm
+- Largeur ajustable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005WQR5RI/?tag=tolees0d-21)

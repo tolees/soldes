@@ -29,9 +29,9 @@ Vous avez [Ravensburger - Puzzle 3D - Pot à crayons - Harry Potter - 11154](htt
 ℹ️:
 
 - Un pot à crayons à assembler soi-même, à leffigie dHarry Potter, Hermione Granger et Ron Weasley. En route vers Poudlard !
-- Très pratique, le pot à crayons au centre de ce puzzle 3D permet dy ranger ses stylos, pinceaux et autres fournitures de bureau.
+- Hauteur du puzzle 3D monté : 10 cm
 - La technologie Easyclick et la qualité de découpe des pièces -plates, incurvées ou pliables- permettent un encastrement parfait et assure ainsi la solidité du puzzle 3D, sans colle.
 - Ce puzzle en 3 dimensions contient 54 pièces de plastique numérotées et des accessoires uniques pour finaliser le pot à crayons. Il sassemble facilement en suivant lordre des numéros des pièces.
-- Hauteur du puzzle 3D monté : 10 cm
+- Très pratique, le pot à crayons au centre de ce puzzle 3D permet dy ranger ses stylos, pinceaux et autres fournitures de bureau.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NGYWJW2/?tag=tolees0d-21)
