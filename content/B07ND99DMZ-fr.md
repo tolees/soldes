@@ -29,14 +29,14 @@ C'est en vente [LEGO®-Hidden Side L’école hantée de Newbury Jeu de Construc
 ℹ️:
 
 - Assurez-vous que vos appareils sont compatibles avec des applications de réalité augmentée
-- Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone (non inclus) Lapplication est compatible avec une sélection dappareils iOS et Android
+- Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
+- Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
+- Lécole hantée de Newbury inclut de nombreux éléments amusants et ludiques, dont une salle cachée, un arrêt de bus devant lécole, une bibliothèque, une salle de chimie et un clocher etc
 - L’expérience en réalité augmentée LEGO hidden side n’est compatible qu’avec les portables et tablettes supportant la technologie de réalité augmentée
 - Lego hidden side associe les modèles Lego physiques à une expérience de jeu en réalité augmentée totalement interactive
-- Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, avec des mystères à résoudre, des fantômes à capturer
-- Les enfants peuvent construire le modèle physique et jouer avec, puis lui faire prendre vie en interagissant avec lapplication de réalité augmentée
 - Ce jouet incluant une application de réalité augmentée comprend 8 personnages à découvrir
-- Basés dans la ville fictive de Newbury, les jouets Lego hidden side proposent aux enfants de vivre de passionnantes aventures de chasse aux fantômes
-- Lécole hantée de Newbury inclut de nombreux éléments amusants et ludiques, dont une salle cachée, un arrêt de bus devant lécole, une bibliothèque, une salle de chimie et un clocher etc
+- Utiliser lapplication Lego hidden side, cest comme observer à travers une fenêtre un monde caché amusant et fantasmagorique, avec des mystères à résoudre, des fantômes à capturer
 - Lécole mesure plus de 30 cm de haut, 43 cm de large et 26 cm de profondeur lorsquelle est hantée ; Lautorisation des parents est nécessaire ; Application disponible en français
+- Lexpérience en réalité augmentée nécessite lutilisation dune tablette ou dun smartphone (non inclus) Lapplication est compatible avec une sélection dappareils iOS et Android
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ND99DMZ/?tag=tolees0d-21)
