@@ -28,9 +28,9 @@ C'est en vente [COSMOS | Matelas Solar 150x190 Cm | 1-2 Personnes | Système Mul
 
 ℹ️:
 
-- ATHERMIQUE-AUTOREGULATION : la technologie Air Fresh assure une circulation parfaite de lair et empêche la concentration de tout type dhumidité dans la literie.
-- CONCEPTION DE QUALITÉ CERTIFIÉE : Certifié par OEKO TEX garantissant labsence de substances novices. Garantie 10 ans.
 - MATELAS HAUT DE GAMME : Mousse à mémoire de forme V200 haute densité sur la face hiver pour une adaptation optimale aux formes du corps en un instant pour vous offrir un accueil tonique et durable. Meilleur soutien que les matelas en mousse à mémoire de forme habituels. Soulage les points de pression à l’origine des nuits agitées.
+- CONCEPTION DE QUALITÉ CERTIFIÉE : Certifié par OEKO TEX garantissant labsence de substances novices. Garantie 10 ans.
+- ATHERMIQUE-AUTOREGULATION : la technologie Air Fresh assure une circulation parfaite de lair et empêche la concentration de tout type dhumidité dans la literie.
 - SYSTEME MULTICOUCHE INÉDIT : Nouvelle technologie Blue Latex intégrée > La flexibilité du latex haute densité (70 kg/m3) combinée aux qualités reconnues de la mousse polyuréthanne Fleximax HQ, font de ce matelas, un des meilleurs matelas actuellement disponibles sur le marché.
 - 30 CM DE CONFORT : Système multicouches HR pour un confort idéal, même pour les plus exigeants. Cœur constitué d’un noyau de 27 cm en mousse FLEXIMAX HQ, technologie de nouvelle génération pour un soutien à la fois ferme et flexible et un confort hors pair.
 
