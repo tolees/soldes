@@ -28,10 +28,10 @@ Vous avez [OPPO A53s Bleu Fantaisie - 128 Go - 4 Go de RAM – Écran Immersif 9
 
 ℹ️:
 
-- DOUBLE HAUT-PARLEUR STÉRÉO : Doté de deux haut-parleurs et de la calibration Dirac, le système stéréo offre un son puissant et captivant
-- TRIPLE CAMÉRA AVEC IA : Avec sa triple caméra doté dIA, capturer des photos professionnelles en toutes circonstances na jamais été aussi simple
-- JUSQUÀ 2 JOURS DAUTONOMIE : La batterie longue durée vous permet de sortir de chez vous lesprit tranquille. En cas de faible batterie, il se recharge également rapidement
 - GRANDE MÉMOIRE EXTENSIBLE : Un espace de stockage insuffisant ? Les 3 emplacements (double SIM + Micro SD) vous permettent dajouter jusquà 256 Go de stockage supplémentaire
+- TRIPLE CAMÉRA AVEC IA : Avec sa triple caméra doté dIA, capturer des photos professionnelles en toutes circonstances na jamais été aussi simple
+- DOUBLE HAUT-PARLEUR STÉRÉO : Doté de deux haut-parleurs et de la calibration Dirac, le système stéréo offre un son puissant et captivant
+- JUSQUÀ 2 JOURS DAUTONOMIE : La batterie longue durée vous permet de sortir de chez vous lesprit tranquille. En cas de faible batterie, il se recharge également rapidement
 - ÉCRAN IMMERSIF 90HZ : Grâce au taux de rafraîchissement de 90 Hz, vous pouvez naviguer, regarder des vidéos, jouer à des jeux avec une sensation de fluidité fulgurante
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21)

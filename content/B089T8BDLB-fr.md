@@ -28,8 +28,8 @@ Vous avez [Dockers Smart 360 Tech Cargo Short - Homme - Marron  Motifs crocodile
 
 ℹ️:
 
-- Smart 360 Tech Cargo Short
 - Cool (Moisture Wicking), Breathable
 - BCI, WATERLESS
+- Smart 360 Tech Cargo Short
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089T8BDLB/?tag=tolees0d-21)

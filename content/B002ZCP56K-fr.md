@@ -28,10 +28,10 @@ Vous avez [Pentel Stylo pinceau Encre noire 2 recharges](https://www.amazon.fr/d
 
 ℹ️:
 
-- La pointe garde sa forme
+- Stylo pinceau Pentel
 - Encre noire résistante à leau et à la lumière
 - Pour le dessin et la calligraphie
+- La pointe garde sa forme
 - Poils synthétiques durables
-- Stylo pinceau Pentel
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002ZCP56K/?tag=tolees0d-21)
