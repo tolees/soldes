@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '32BC6E - Téléviseur SHARP 32   HD Ready  avec 21.51 % rabais '
-date: 2021-03-18 08:20:11
+date: 2021-03-19 09:16:44
 image: 'https://m.media-amazon.com/images/I/41lu6CUXlCL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08GYBWQP5-fr 32BC6E - Téléviseur SHARP 32 HD Ready Smart'
 sku: 'B08GYBWQP5-fr'
+tags: [ 'High-Tech','TV, vidéo et home cinéma','Téléviseurs','sharp', ]
 actualPrice: 219.0 EUR
 currency: EUR
 price: 219.0

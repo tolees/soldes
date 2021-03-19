@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Playmobil - Scooby-Doo! Mystery Machine  avec 17.10 % rabais '
-date: 2021-03-18 08:04:29
+date: 2021-03-19 08:31:25
 image: 'https://m.media-amazon.com/images/I/51WrowSyZoL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08175VGYQ-fr Playmobil - Scooby-Doo! Mystery Machine - 70286'
 sku: 'B08175VGYQ-fr'
+tags: [ 'Coffrets de figurines pour enfants','Figurines de personnages','Figurines pour enfants','Jeux et Jouets','Jeux et jouets','playmobil', ]
 actualPrice: 43.1 EUR
 currency: EUR
 price: 43.1
@@ -18,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B08175VGYQ/?tag=tolees0d-21'
 descuento: '17.10'
-average: '43.8627952755902'
+average: '43.8568359374997'
 ---
 
 C'est en vente [Playmobil - Scooby-Doo! Mystery Machine - 70286](https://www.amazon.fr/dp/B08175VGYQ/?tag=tolees0d-21)  à  17.10 % de réduction, prix final  43.1 EUR (original: 51.99 EUR) ici:

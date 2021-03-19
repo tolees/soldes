@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '28.80 % rabais sur Warner Home Video - Tenet [4K Ultra HD B'
-date: 2021-03-18 08:06:27
+date: 2021-03-19 09:24:15
 image: 'https://m.media-amazon.com/images/I/51Co3x6+j0L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08N2XCHCC-fr Warner Home Video - Tenet [4K Ultra HD Blu-Ray Bonus-...'
 sku: 'B08N2XCHCC-fr'
+tags: [ 'Action et aventure','Blu-ray','DVD et Blu-ray','Featured Categories','Films','Science-fiction','warner home video', ]
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
@@ -18,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Warner Home Video'
 buyurl: 'https://www.amazon.fr/dp/B08N2XCHCC/?tag=tolees0d-21'
 descuento: '28.80'
-average: '32.4423076923076'
+average: '32.3479746835442'
 ---
 
 Vous avez [Warner Home Video - Tenet [4K Ultra HD Blu-Ray Bonus-Édition boîtier SteelBook]](https://www.amazon.fr/dp/B08N2XCHCC/?tag=tolees0d-21)  à  28.80 % de réduction, prix final  24.99 EUR (original: 35.1 EUR) ici:

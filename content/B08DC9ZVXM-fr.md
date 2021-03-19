@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Les Enfants du Temps BR [Édition boîtier avec 19.96 % rabais '
-date: 2021-03-18 01:07:31
+date: 2021-03-19 09:10:00
 image: 'https://m.media-amazon.com/images/I/51GeF9Yq+YL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08DC9ZVXM-fr Les Enfants du Temps BR [Édition boîtier SteelBook Combo...'
 sku: 'B08DC9ZVXM-fr'
+tags: [ 'Animation japonaise','Blu-ray','DVD et Blu-ray','Featured Categories','Films', ]
 actualPrice: 32.12 EUR
 currency: EUR
 price: 32.12
@@ -18,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08DC9ZVXM/?tag=tolees0d-21'
 descuento: '19.96'
-average: '35.0965789473685'
+average: '34.9477500000001'
 ---
 
 C'est en vente [Les Enfants du Temps BR [Édition boîtier SteelBook Combo Blu-Ray + DVD + CD BO]](https://www.amazon.fr/dp/B08DC9ZVXM/?tag=tolees0d-21)  à  19.96 % de réduction, prix final  32.12 EUR (original: 40.13 EUR) ici:

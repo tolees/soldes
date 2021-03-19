@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Triumph Fit Smart Maxi Boxer  Noir  Blac avec 19.30 % rabais '
-date: 2021-03-18 08:03:39
+date: 2021-03-19 08:21:49
 image: 'https://m.media-amazon.com/images/I/41IOjLL9SpL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07V7YPZLF-fr Triumph Fit Smart Maxi Boxer Noir Black XL Femme'
 sku: 'B07V7YPZLF-fr'
+tags: [ 'Culottes, shorties et strings femme','Lingerie','Shorties','Tenues de nuit, lingerie et sous-vêtements pour femme','Vêtements','Vêtements femme','triumph', ]
 actualPrice: 24.17 EUR
 currency: EUR
 price: 24.17
