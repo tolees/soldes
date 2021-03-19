@@ -28,15 +28,15 @@ C'est en vente [Sharp TV LED Ultra HD 4K 126 cm 50BL2EA HDR Android TV  Fluidit�
 
 ℹ️:
 
-- Indice de fluidité : 600 Active motion
 - Wifi intégré / Bluetooth
-- Puissance son 2 x 10 W
 - HDR
-- Sharp 50BL2EA - Téléviseur LED 4K Ultra HD 50 (126 cm) - 3840 x 2160 pixels
-- Classe énergétique A+
+- Puissance son 2 x 10 W
+- Indice de fluidité : 600 Active motion
 - Tuner Terrestre / Câble / Satellite : DVB-T/T2/C/S/S2
 - Compatible avec fixations murales VESA : 200 X 200
 - Dimensions avec socle (L x H x P en cm) : 112.45 x 69.65 x 23.26
+- Classe énergétique A+
+- Sharp 50BL2EA - Téléviseur LED 4K Ultra HD 50 (126 cm) - 3840 x 2160 pixels
 - Connecté : Smart TV / Android TV
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WRRMTD9/?tag=tolees0d-21)

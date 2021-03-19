@@ -28,9 +28,9 @@ Vous avez [Apli 111833 - Pochette de 462 pastilles rouges Ø 8 mm](https://www.a
 
 ℹ️:
 
+- Ecriture manuelle possible.
 - Pastilles rondes de couleur en pochettes de couleur unie ou assortie pour marquer vos documents, vos plannings, inventaires, marquage de plans, loisirs créatifs.
 - Pochettes de 6 feuilles de 77 pastilles diamètre 8 mm.
-- Ecriture manuelle possible.
 - Adhésif permanent.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00TTTGLBA/?tag=tolees0d-21)

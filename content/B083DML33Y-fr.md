@@ -28,10 +28,10 @@ C'est en vente [flintronic Chalumeau de Cuisine  Torche Rechargeable avec Verrou
 
 ℹ️:
 
-- 【MANUEL DE LUTILISATEUR】 Faites glisser le verrou de sécurité vers la gauche, puis appuyez sur le bouton dallumage pour lallumer (appuyez sur le bouton dallumage pour faire glisser le verrou de sécurité vers la droite afin de produire une flamme continue). faites glisser le régulateur de gaz sur le côté pour contrôler lintensité de la flamme et déplacez le loquet de sécurité vers la droite pour éteindre la flamme.
-- 【FLAMME REGLABLE】 Utilisez un régulateur de flamme pour régler la taille de la flamme jusquà 1300 ° C / 2400 ° F. Lintensité de la flamme peut être sélectionnée en fonction de vos besoins.
-- 【SÉCURITAIRE & FIABLE】 1. Le verrou de sécurité empêche lallumage accidentel, la base fixe forte lempêche de basculer; Corps 2.Durable en métal et poignée antidérapante pour le contrôle facile; 3. Protège-doigts intégré pour assurer une longue durée de vie. Lanti-déformation vous protège des brûlures et de la chaleur extrême pendant le brunissement et la chaleur. Veuillez garder ce produit hors de la portée des enfants.
-- 【APPLICABLE】 Jambon grillé, steak grillé, poivron vert rôti, pain grillé, pâtisserie, bougie ou cigare, objets d’artisanat, fabrication de bijoux, soudure, camping, etc.
 - 【REMPLISSABLE】 Remplissez la torche de butane, d’une capacité de 8 à 10 grammes de gaz butane, veuillez vous assurer que le réservoir de butane a une longue pointe de remplissage universelle.
+- 【SÉCURITAIRE & FIABLE】 1. Le verrou de sécurité empêche lallumage accidentel, la base fixe forte lempêche de basculer; Corps 2.Durable en métal et poignée antidérapante pour le contrôle facile; 3. Protège-doigts intégré pour assurer une longue durée de vie. Lanti-déformation vous protège des brûlures et de la chaleur extrême pendant le brunissement et la chaleur. Veuillez garder ce produit hors de la portée des enfants.
+- 【FLAMME REGLABLE】 Utilisez un régulateur de flamme pour régler la taille de la flamme jusquà 1300 ° C / 2400 ° F. Lintensité de la flamme peut être sélectionnée en fonction de vos besoins.
+- 【APPLICABLE】 Jambon grillé, steak grillé, poivron vert rôti, pain grillé, pâtisserie, bougie ou cigare, objets d’artisanat, fabrication de bijoux, soudure, camping, etc.
+- 【MANUEL DE LUTILISATEUR】 Faites glisser le verrou de sécurité vers la gauche, puis appuyez sur le bouton dallumage pour lallumer (appuyez sur le bouton dallumage pour faire glisser le verrou de sécurité vers la droite afin de produire une flamme continue). faites glisser le régulateur de gaz sur le côté pour contrôler lintensité de la flamme et déplacez le loquet de sécurité vers la droite pour éteindre la flamme.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083DML33Y/?tag=tolees0d-21)

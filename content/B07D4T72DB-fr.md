@@ -28,10 +28,10 @@ Vous avez [Kappa Follow Oc  Sneakers Basses Femme  Noir  Black/Pink 1122   38 EU
 
 ℹ️:
 
-- Look décontracté : baskets sportives et élégantes au design sobre. Le matériau extérieur en maille souligne le style tendance des individualistes. Les baskets sadaptent parfaitement avec un jean, un legging ou un chino.
-- Casquette culte : le logo Kappa latéral fait de ces baskets un accroche-regard sportif pour les femmes et les hommes.
-- Légères : ces baskets ultra légères conviennent pour tous les jours. Que ce soit pour de longues excursions en ville ou pour une longue excursion au vert, avec la Kappa FOLLOW OC, vous allez comme sur des nuages.
 - Bon pour les pieds : régulation optimale de la température grâce à la matière extérieure en textile assure un climat sain pour les pieds même pendant les longues jours.
+- Look décontracté : baskets sportives et élégantes au design sobre. Le matériau extérieur en maille souligne le style tendance des individualistes. Les baskets sadaptent parfaitement avec un jean, un legging ou un chino.
+- Légères : ces baskets ultra légères conviennent pour tous les jours. Que ce soit pour de longues excursions en ville ou pour une longue excursion au vert, avec la Kappa FOLLOW OC, vous allez comme sur des nuages.
 - Coupe idéale : la semelle est flexible et la tige est rembourrée. Le laçage classique stabilise le pied.
+- Casquette culte : le logo Kappa latéral fait de ces baskets un accroche-regard sportif pour les femmes et les hommes.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D4T72DB/?tag=tolees0d-21)

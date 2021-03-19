@@ -29,12 +29,12 @@ Vous avez [Nouvelle Manette Xbox Sans Fil - Robot White](https://www.amazon.fr/d
 ℹ️:
 
 - Personnalisation des boutons avec lapplication Xbox Accessories
-- *Informations importantes : Compatible avec certains appareils et versions des systèmes d’exploitation. Certaines fonctionnalités ne sont pas prises en charge sur Android ou via Bluetooth. Rendez-vous sur xbox.com/controller-compatibility pour plus d’informations. Réattribution des boutons avec l’application Accessoires Xbox pour XboxSeriesX, XboxOne et Windows10.
-- Bouton de partage : Enregistrez et partagez du contenu facilement, avec le nouveau bouton de partage
-- Surface antidérapante sur les gâchettes et larrière de la manette
 - Technologie Xbox sans fil et Bluetooth*
-- Découvrez le design modernisé de la manette sans fil Xbox – Robot White, avec ses surfaces texturées et sa géométrie raffinée, pour un confort de jeu accru
+- Surface antidérapante sur les gâchettes et larrière de la manette
 - Prise casque 3,5 mm
+- *Informations importantes : Compatible avec certains appareils et versions des systèmes d’exploitation. Certaines fonctionnalités ne sont pas prises en charge sur Android ou via Bluetooth. Rendez-vous sur xbox.com/controller-compatibility pour plus d’informations. Réattribution des boutons avec l’application Accessoires Xbox pour XboxSeriesX, XboxOne et Windows10.
 - Nouvelle croix multidirectionnelle pour une prise en main précise
+- Découvrez le design modernisé de la manette sans fil Xbox – Robot White, avec ses surfaces texturées et sa géométrie raffinée, pour un confort de jeu accru
+- Bouton de partage : Enregistrez et partagez du contenu facilement, avec le nouveau bouton de partage
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B087VLP2RT/?tag=tolees0d-21)

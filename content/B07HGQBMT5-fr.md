@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Warner Bros - Lego Harry Potter Collecti avec 40.01 % rabais '
-date: 2021-03-18 14:11:44
+title: 'Warner Bros - Lego Harry Potter Collecti avec 50.01 % rabais '
+date: 2021-03-19 16:00:23
 image: 'https://m.media-amazon.com/images/I/51osluLTA9L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07HGQBMT5-fr Warner Bros - Lego Harry Potter Collection pour Nintendo...'
 sku: 'B07HGQBMT5-fr'
 tags: [ 'Jeux pour Nintendo Switch','Jeux vidéo','Nintendo Switch:  Consoles, jeux et accessoires','warner bros', ]
-actualPrice: 29.99 EUR
+actualPrice: 24.99 EUR
 currency: EUR
-price: 29.99
+price: 24.99
 comparePrice: 49.99 EUR
 prodname: 'Warner Bros - Lego Harry Potter Collection pour Nintendo Switch'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Warner Bros'
 buyurl: 'https://www.amazon.fr/dp/B07HGQBMT5/?tag=tolees0d-21'
-descuento: '40.01'
-average: '31.0369696969696'
+descuento: '50.01'
+average: '30.8591176470588'
 ---
 
-C'est en vente [Warner Bros - Lego Harry Potter Collection pour Nintendo Switch](https://www.amazon.fr/dp/B07HGQBMT5/?tag=tolees0d-21)  à  40.01 % de réduction, prix final  29.99 EUR (original: 49.99 EUR) ici:
+C'est en vente [Warner Bros - Lego Harry Potter Collection pour Nintendo Switch](https://www.amazon.fr/dp/B07HGQBMT5/?tag=tolees0d-21)  à  50.01 % de réduction, prix final  24.99 EUR (original: 49.99 EUR) ici:
 
 [![Warner Bros - Lego Harry Potter Collecti](https://m.media-amazon.com/images/I/51osluLTA9L._SL400_.jpg)](https://www.amazon.fr/dp/B07HGQBMT5/?tag=tolees0d-21)
 
