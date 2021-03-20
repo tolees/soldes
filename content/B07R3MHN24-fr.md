@@ -28,8 +28,8 @@ Vous avez [Calvin Klein CK Cap Casquette De Baseball  Noir  Black 001   Unique  
 
 ℹ️:
 
-- Non lavable
 - Type de talons: hat
+- Non lavable
 - 100% Coton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07R3MHN24/?tag=tolees0d-21)

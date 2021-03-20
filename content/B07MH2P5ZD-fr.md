@@ -28,9 +28,9 @@ C'est en vente [Western Digital - WD Black SN750 NVMe - Disque SSD Interne Haute
 
 ℹ️:
 
-- Un design élégant pour personnaliser votre plate-forme de jeu
 - Disponible dans des capacités allant de 250 Go à 1 To
 - Des vitesses de transfert allant jusquà 3 470 Mo/s pour des temps de chargement améliorés
 - Le tableau de bord exclusif du disque SSD WD Black améliore les performances de jeu
+- Un design élégant pour personnaliser votre plate-forme de jeu
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MH2P5ZD/?tag=tolees0d-21)

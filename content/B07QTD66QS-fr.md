@@ -28,10 +28,10 @@ Vous avez [Funko - Pop Deluxe: Star Wars The Rise of Skywalker: Supreme Leader K
 
 ℹ️:
 
+- Les Funko Pop! Sont le jeux de lannée 2018
 - Disney Star Wars
 - Découvrez tous les autres produits Funko dédiés à lunivers placeholder! Collectionnez-les tous!
-- Issue de la gamme placeholder, la figurine POP! 27 rejoint la collection Funko Pop!
 - Suprême leader Kylo Ren
-- Les Funko Pop! Sont le jeux de lannée 2018
+- Issue de la gamme placeholder, la figurine POP! 27 rejoint la collection Funko Pop!
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07QTD66QS/?tag=tolees0d-21)
