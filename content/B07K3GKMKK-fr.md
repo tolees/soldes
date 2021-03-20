@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER BROS - V pour Vendetta - Mondo St avec 33.17 % rabais '
-date: 2021-03-19 08:25:38
+date: 2021-03-20 11:15:13
 image: 'https://m.media-amazon.com/images/I/51iFrmY5LHL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.fr/dp/B07K3GKMKK/?tag=tolees0d-21'
 descuento: '33.17'
-average: '17.7183720930231'
+average: '17.6731111111109'
 ---
 
 C'est en vente [WARNER BROS - V pour Vendetta - Mondo Steelbook    Blu Ray  [Blu-ray]](https://www.amazon.fr/dp/B07K3GKMKK/?tag=tolees0d-21)  à  33.17 % de réduction, prix final  16.7 EUR (original: 24.99 EUR) ici:

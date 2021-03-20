@@ -28,7 +28,7 @@ Vous avez [Yageshark Pantalon de Jogging Homme Coton Mode Training Pantalon de S
 
 ℹ️:
 
-- Lavage à la main à froid, à suspendre ou sécher à la chaîne:Laspect est naturel, très large et flexible, doux, respirant, et non déformé, plus écologique et plus sain, de sorte que vous pouvez porter confortablement.
 - 65% coton, 35% polyester - Le tissu est suffisamment épais et confortable, il est à la fois chaud et élégant.
+- Lavage à la main à froid, à suspendre ou sécher à la chaîne:Laspect est naturel, très large et flexible, doux, respirant, et non déformé, plus écologique et plus sain, de sorte que vous pouvez porter confortablement.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WHX4MLB/?tag=tolees0d-21)

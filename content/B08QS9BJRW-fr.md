@@ -28,10 +28,10 @@ C'est en vente [Paula Berg 20x FFP3 - Masque anti-poussière pliable - avec fixa
 
 ℹ️:
 
-- Ce masque certifié FFP3 est fixé par des boucles doreilles pratiques, de sorte quil peut être mis et enlevé rapidement sans détruire la coiffure, par exemple, ne pose aucun problème !
-- Boîte pratique avec 20 masques. Bien entendu, tous les masques sont à nouveau emballés individuellement de manière hygiénique !
 - Sans latex et sans caoutchouc naturel !
-- FFP3 Standard = meilleur et plus haut niveau de filtrage de lUnion européenne. Filtre au moins 99% des particules de 0,6µ de diamètre. Les poussières nocives, les aérosols solides et liquides sont ainsi efficacement filtrés. Comme ce masque ne nécessite pas de valve supplémentaire, il peut être utilisé partout, y compris dans les avions, les trains, les maisons de retraite, les hôpitaux, etc., car le porteur et lenvironnement sont protégés en même temps !
+- Ce masque certifié FFP3 est fixé par des boucles doreilles pratiques, de sorte quil peut être mis et enlevé rapidement sans détruire la coiffure, par exemple, ne pose aucun problème !
 - Certifié conforme à la directive européenne EN149:2001+A1:2009 actuellement en vigueur et au règlement (UE) 2016/425 EPI (équipement de protection individuelle) par un laboratoire dessai accrédité de lUnion européenne | CE 2163 !
+- Boîte pratique avec 20 masques. Bien entendu, tous les masques sont à nouveau emballés individuellement de manière hygiénique !
+- FFP3 Standard = meilleur et plus haut niveau de filtrage de lUnion européenne. Filtre au moins 99% des particules de 0,6µ de diamètre. Les poussières nocives, les aérosols solides et liquides sont ainsi efficacement filtrés. Comme ce masque ne nécessite pas de valve supplémentaire, il peut être utilisé partout, y compris dans les avions, les trains, les maisons de retraite, les hôpitaux, etc., car le porteur et lenvironnement sont protégés en même temps !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08QS9BJRW/?tag=tolees0d-21)
