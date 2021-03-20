@@ -28,10 +28,10 @@ Vous avez [LEGO Ideas 21320 Jouet de Construction en Forme de fossiles de Dinosa
 
 ℹ️:
 
-- Le kit de fossile de dinosaure avec des détails fascinants comprend des modèles de squelettes de Tyrannosaurus Rex, Tricératops et Ptéranodon à une échelle de 1/32. Chacun des modèles a un support dexposition pour des pièces de musée exprimées de style LEGO.
 - Un superbe cadeau paléontologue pour les bricoleurs LEGO à partir de 16 ans et tous ceux qui ont une passion pour les experts de la nature et les dinosaures.
-- En outre, le lot comprend 2 figurines : un Homo Sapiens et une miniature paléontologue avec une boîte à construire, un œuf de dinosaure, un os, un chapeau et des éléments du livre pour un jeu de rôle créatif. Pour une expérience de construction captivante et intéressante, le jeu de dinosaures Lego Ideas comprend 910 pièces.
 - Les modèles de squelette des dinosaures sont de superbes pièces dexposition. Le plus grand modèle de squelette est celui de T. Rex, il mesure 20 cm de haut et 40 cm de long.
+- En outre, le lot comprend 2 figurines : un Homo Sapiens et une miniature paléontologue avec une boîte à construire, un œuf de dinosaure, un os, un chapeau et des éléments du livre pour un jeu de rôle créatif. Pour une expérience de construction captivante et intéressante, le jeu de dinosaures Lego Ideas comprend 910 pièces.
+- Le kit de fossile de dinosaure avec des détails fascinants comprend des modèles de squelettes de Tyrannosaurus Rex, Tricératops et Ptéranodon à une échelle de 1/32. Chacun des modèles a un support dexposition pour des pièces de musée exprimées de style LEGO.
 - Vous navez pas encore dexpérience dans la construction avec LEGO ? Ne vous inquiétez pas. Le kit paléontologue contient une brochure avec des instructions de montage faciles à suivre, des faits intéressants sur le tyrannosaure Rex, le Triceratops et le Ptéranodon, ainsi que des informations sur le fan et les designers LEGO qui ont développé le kit.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ZD6TZKH/?tag=tolees0d-21)

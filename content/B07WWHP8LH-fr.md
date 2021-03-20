@@ -29,9 +29,9 @@ Vous avez [Sylvanian Families - Les Vacances - La Caravane - 5489 - Maison de Po
 ℹ️:
 
 - Ils se fixent dans le toit.
+- 2 lits superposés munis de leurs couettes et oreillers sont fournis.
 - Le set comprend également 1 petite table basse, 1 marche pieds, 1 attelage pour pouvoir relier la caravane à toutes les voitures de la gamme.
 - Une caravane Confortable et super équipée.
 - Elle souvre par le haut et par le côté, et comporte une cuisine et une salle de bain intégrée ainsi qu’une partie salon.
-- 2 lits superposés munis de leurs couettes et oreillers sont fournis.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WWHP8LH/?tag=tolees0d-21)

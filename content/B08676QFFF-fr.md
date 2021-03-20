@@ -28,9 +28,9 @@ Vous avez [Maegoo Manette pour Android/PC/PS3  Bluetooth Mobile Game Android Man
 
 ℹ️:
 
+- ❤【Compatible avec Android/PC/PS3/Smart TV】La manette sans fil est compatible avec Android 6.0 ci-dessus via une connexion Bluetooth. En même temps, il est compatible avec PC (Windows 7/8/10)/PS3/Smart-TV/TV Box connecté via un dongle USB 2.4G. Pas besoin dinstaller de pilotes.
 - ❤【13-15 Heures de Jeu】 La batterie au lithium 500mAh intégrée au manette de jeu, et il peut être utilisé de manière persistante pendant 15h ou plus après une charge complète. La manette de jeu séteindra automatiquement en mode déconomie dénergie sans opération pendant environ 5 minutes.
 - ❤【Mode de Connexion Directe et Mappage de Touches Personnalisées pour Les Jeux Mobiles】La manette Android prend en charge la connexion directe aux modes de jeu dappareils Android, jouez directement à des jeux(PUBG mobile& Arena of Valor). Vous pouvez également utiliser loutil ShootingPlus V3 App pour personnaliser la position des touches pour jouer à plus de jeux. Veuillez rechercher "ShootingPlus V3" pour télécharger et installer dans lApp Store.
-- ❤【Compatible avec Android/PC/PS3/Smart TV】La manette sans fil est compatible avec Android 6.0 ci-dessus via une connexion Bluetooth. En même temps, il est compatible avec PC (Windows 7/8/10)/PS3/Smart-TV/TV Box connecté via un dongle USB 2.4G. Pas besoin dinstaller de pilotes.
 - ❤【Conception Ergonomique Confortable et Support Rétractable】Le manette PS3 de jeu sans fil est la poignée texturée en plastique de qualité, se sent tellement à laise dans les mains. Le support rétractable peut prendre en charge une largeur de téléphone mobile maximale de 6 pouces.
 - ❤【Double Fonction de Vibration】Le manette PC intégré à deux moteurs. La conception du moteur prend parfaitement en charge la fonction de retour de puissance de vibration, et ressentir chaque coup, crash et explosion vous rend immersif et en combat réel.
 
