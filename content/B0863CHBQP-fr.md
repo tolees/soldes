@@ -29,8 +29,8 @@ C'est en vente [Doudou et Compagnie - TIWIPI RENARD - Pantin 60 cm](https://www.
 ℹ️:
 
 - Dans la famille tiwipi, je voudrais… le renard ! craquez pour ce beau pantin !
-- Dès la naissance
 - 100 % polyester, lavable à 30°
 - Produit bénéficiant de la garantie doudou. grâce à son numéro unique, doudou perdu est vite retrouvé! plus de renseignements sur doudouetcompagnie.com
+- Dès la naissance
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0863CHBQP/?tag=tolees0d-21)

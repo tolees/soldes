@@ -29,8 +29,8 @@ Vous avez [MY COSMETIK - Huile essentielle de Menthe Poivrée BIO - MyCosmetik -
 ℹ️:
 
 - Lhuile essentielle de menthe poivrée est extrêmement puissante. Très polyvalente, elle est, entre autre, stimulante physique et mentale, digestive, antinauséeuse, détoxifiante, antimigraineuse, antidouleur locale, expectorante et anti-infectieuse. En usage cutané, elle aide à lutter contre lurticaire, les démangeaisons et leczéma. Elle aide aussi à réguler la transpiration et a un effet raffermissant. Elle sutilise avec la plus grande précaution, quelle que soit la voie dadministration.
-- Nom botanique : Mentha piperita
 - Origine: Inde
+- Nom botanique : Mentha piperita
 - Huile essentielle 100% pure et naturelle, issue de l’Agriculture Biologique certifié par ECOCERT France SAS FR-BIO-01.
 - Partie utilisée: plante fleurie - Couleur: jaune pâle - Odeur & arôme: puissant, poivré, piquant, mentholé et très rafraîchissant
 
