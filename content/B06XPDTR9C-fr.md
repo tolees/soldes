@@ -28,10 +28,10 @@ C'est en vente [Hybrid Dual Metallic - Dual Metallic Stylo à bille roulante à 
 
 ℹ️:
 
-- Chaque stylo produit une teinte différente sur du papier clair ou foncé.
+- 8 stylos à encre gel métallique.
 - Possibilité de voir deux couleurs différentes en fonction de l’angle.
 - Fini irrésistiblement lisse.
-- 8 stylos à encre gel métallique.
+- Chaque stylo produit une teinte différente sur du papier clair ou foncé.
 - Parfaits pour les cartes, les décorations, les images, les dessins et les modèles.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XPDTR9C/?tag=tolees0d-21)
