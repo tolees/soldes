@@ -28,10 +28,10 @@ C'est en vente [Multiprise Connectée WiFi  Meross Multiprise Intelligente avec 
 
 ℹ️:
 
+- ★4 AC PRISES ET 4 USB PORTS: Les 4 prises intelligentes supporte le contrôle indépendant, vous pouvez contrôler individuellement les appareils connectés aux 4 prises. Les 4 USB ports ne prennent en charge que le contrôle unifié. Le chargement rapide par USB répond à vos multiples besoins.
 - ★MULTIPRISE DE COURANT AVEC FONCTION DE TEMPS ET DARRÊT AUTOMATIQUE: La multiprise intelligent avec minuterie vous évite doublier déteindre vos appareils. Il est temps davoir une maison intelligente pour personnaliser un calendrier de vos appareils. La fonction de temps et de programme allumer et éteindre automatiquement les appareils électroniques tels que lampe, machine à café, chauffe-eau, thermostat, ventilateur, humidificateur en fonction de votre routine de vie.
 - ★SUPPORT TECHNIQUE: Le boîtier de la prise connectée WiFi est composée dun matériau ignifuge en ABS. Protection contre surcharge et conception de la couverture de sécurité coulissante. Si vous avez des problèmes avec la multiprise, n’hésitez pas à nous contacter, nous vous donnerons une solution satisfaisante.
 - ★CONTRÔLE À DISTANCE VIA MEROSS APP: Téléchargez la Merros application gratuite dans le Google Store ou scannez le code QR dans le manuel. Allumez ou éteignez les appareils via un smartphone (iOS et Android) avec votre Meross APP partout sans limite de distance. Aucun hub ou accessoires nest requis.
-- ★4 AC PRISES ET 4 USB PORTS: Les 4 prises intelligentes supporte le contrôle indépendant, vous pouvez contrôler individuellement les appareils connectés aux 4 prises. Les 4 USB ports ne prennent en charge que le contrôle unifié. Le chargement rapide par USB répond à vos multiples besoins.
 - ★2400W 10A MULTIPRISE CONNECTÉE WIFI INTELLIGENTE ET COMMANDE VOCALE: La multiprise intelligente sont compatibles avec Amazon Alexa, Google Home et IFTTT. La multiprise connectée wifi réalise la commande vocale via Alexa et Google Home. Par exemple, "Hi Google, allume la prise du salon".
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PMWYNSW/?tag=tolees0d-21)

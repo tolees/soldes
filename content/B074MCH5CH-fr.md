@@ -29,8 +29,8 @@ C'est en vente [Eafit Boisson Energétique +3H Neutre 500 g  RPV0000914](https:/
 ℹ️:
 
 - Respect de la Norme afnor et du Code Mondial Anti-Dopage
-- Action anti-oxydante
 - Association de glucides simples et complexes à diffusion lente pour une énergie différée et durable
+- Action anti-oxydante
 - Contribue au métabolisme énergétique
 - Marque Française
 

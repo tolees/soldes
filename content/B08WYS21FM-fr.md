@@ -28,10 +28,10 @@ C'est en vente [MILESTONE - Moto Gp 21  Xbox One ](https://www.amazon.fr/dp/B08W
 
 ℹ️:
 
-- RÉFLÉCHISSEZ VITE, ROULEZ ENCORE PLUS VITE : Lorsque vous pouvez contrôler tous les aspects de votre course, chaque décision compte !
-- GAGNEZ AVEC STYLE : Qu’il s’agisse de votre façon de piloter ou de votre apparence de pilote, le style est clé dans MotoGP 21.
-- VOTRE CARRIÈRE, VOS RÈGLES : Votre voyage vers le Championnat commence par la Carrière de Manager. Créez l’équipe de vos rêves
 - Amusez-vous à un tout nouveau niveau en défiant d’autres joueurs en ligne ou créez votre propre événement en mode Directeur de Course
 - MotoGP À SON APOGÉE : Vivez la saison 2021 de MotoGP , Moto2 , Moto3 , Red Bull MotoGP Rookies Cup et MotoE avec les écuries et les circuits officiels.
+- VOTRE CARRIÈRE, VOS RÈGLES : Votre voyage vers le Championnat commence par la Carrière de Manager. Créez l’équipe de vos rêves
+- RÉFLÉCHISSEZ VITE, ROULEZ ENCORE PLUS VITE : Lorsque vous pouvez contrôler tous les aspects de votre course, chaque décision compte !
+- GAGNEZ AVEC STYLE : Qu’il s’agisse de votre façon de piloter ou de votre apparence de pilote, le style est clé dans MotoGP 21.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WYS21FM/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings - Série 5 – Mission Fire Stri avec 19.51 % rabais '
-date: 2021-03-19 02:37:20
+date: 2021-03-20 04:27:13
 image: 'https://m.media-amazon.com/images/I/5140BymRTUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SUPERZINGS'
 buyurl: 'https://www.amazon.fr/dp/B07ZPLYFCC/?tag=tolees0d-21'
 descuento: '19.51'
-average: '22.0212953367876'
+average: '21.9887692307693'
 ---
 
 C'est en vente [SuperZings - Série 5 – Mission Fire Strike Blister  PSZSB216IN50   Comprend 2 Figurines et 2 véhicules.](https://www.amazon.fr/dp/B07ZPLYFCC/?tag=tolees0d-21)  à  19.51 % de réduction, prix final  18.85 EUR (original: 23.42 EUR) ici:
