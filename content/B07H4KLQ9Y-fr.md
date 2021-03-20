@@ -28,10 +28,10 @@ C'est en vente [Outil Rotatif  TECCPO Outil Rotatif Multifonction Sans-fil 12V a
 
 ℹ️:
 
-- 🔥【Dispositif de Protection de Sécurité】Conception de sortie dair externe et protection automatique contre les surcharges et les surchauffes automatiques pour éviter dendommager le moteur, prolonger la durée de vie du moteur et protéger votre sécurité personnelle.
-- 🔥【Chuck Lock intégré】Le mandrin spécial à 3 mors convient à tous les types de mandrins et peut être remplacé et utilisé avec des accessoires de 0.8mm à 3.2mm de diamètre. Plus approprié pour manipuler toutes sortes de détails et une production efficace.
-- 🔥【6 Vitesses Réglable】6 modes de changement de vitesse, à partir de 5 000 à 28000 RPM, offrent dexcellentes vitesses de coupe, de meulage, de polissage et de gravure pour répondre à vos différents besoins.
-- 🔥【Contenu du Colis】1 x TECCPO TDRT03P Outil Rotatif Sans Fil, 1 x Guide de Coupe, 1 x Poignée, 1 × Arbre flexible, 80 x Accessoires, 1 x Boîte de rangement, 1 x Manuel dutilisation, 1 x Carte de 24 Mois Garantie. ▶ ▶ ▶ Contact us 📧 support@teccpotools.com 📧
 - 🔥【Facile à Utiliser】La conception sans fil vous permet de lutiliser plus efficacement et plus librement. La batterie lithium-ion a une capacité élevée de 2,0 Ah (2000 mAh, 12 V) et une durée de charge courte de seulement 60 minutes.
+- 🔥【Dispositif de Protection de Sécurité】Conception de sortie dair externe et protection automatique contre les surcharges et les surchauffes automatiques pour éviter dendommager le moteur, prolonger la durée de vie du moteur et protéger votre sécurité personnelle.
+- 🔥【Contenu du Colis】1 x TECCPO TDRT03P Outil Rotatif Sans Fil, 1 x Guide de Coupe, 1 x Poignée, 1 × Arbre flexible, 80 x Accessoires, 1 x Boîte de rangement, 1 x Manuel dutilisation, 1 x Carte de 24 Mois Garantie. ▶ ▶ ▶ Contact us 📧 support@teccpotools.com 📧
+- 🔥【6 Vitesses Réglable】6 modes de changement de vitesse, à partir de 5 000 à 28000 RPM, offrent dexcellentes vitesses de coupe, de meulage, de polissage et de gravure pour répondre à vos différents besoins.
+- 🔥【Chuck Lock intégré】Le mandrin spécial à 3 mors convient à tous les types de mandrins et peut être remplacé et utilisé avec des accessoires de 0.8mm à 3.2mm de diamètre. Plus approprié pour manipuler toutes sortes de détails et une production efficace.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07H4KLQ9Y/?tag=tolees0d-21)
