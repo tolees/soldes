@@ -28,10 +28,10 @@ Vous avez [Frédérique Constant Automatic Watch FC-760DG4H6](https://www.amazon
 
 ℹ️:
 
-- La montre est livrée dans une belle boîte cadeau avec une garantie de 2 ans
-- Résistant à leau: 5 bar-Poids: 105 g
 - Boîtier en acier inoxydable argenté avec bracelet en cuir dalligator noir. Lunette fixe en acier inoxydable argenté. Cadran noir avec aiguilles de forme alpha argentées et index des heures. Échelle tachymétrique autour du bord extérieur - Cette Montre Chronographe a une function calendrier: Date, Swiss Made, Chronographe, Tachymètre, Aiguilles lumineuses
+- Résistant à leau: 5 bar-Poids: 105 g
 - Diameter du boîtier: 42 mm, Épaisseur du boîtier: 15 mm, Couleur du boîtier: Argent et Couleur du cadran: Noir
 - Bracelet de Haute qualité enCuir Noir 21 cm de longueur et 21 mm de largeur avec un Boucle déployante
+- La montre est livrée dans une belle boîte cadeau avec une garantie de 2 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G6XLZJF/?tag=tolees0d-21)

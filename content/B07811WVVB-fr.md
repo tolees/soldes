@@ -28,8 +28,8 @@ C'est en vente [Dainese Protection de Moto  Aluminium Noir  Taille N](https://ww
 
 ℹ️:
 
-- Aluminium
 - Vis remplacables
+- Aluminium
 - Tournevis inclus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07811WVVB/?tag=tolees0d-21)

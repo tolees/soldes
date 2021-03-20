@@ -28,10 +28,10 @@ Vous avez [Tommy Hilfiger Quilted Hooded Jacket  Blue  S Homme](https://www.amaz
 
 ℹ️:
 
-- Pratique et minimaliste
-- Lavage à la main
-- Veste dextérieur matelassée à capuche
 - Protégera des intempéries
 - Fermeture : fermeture éclair
+- Veste dextérieur matelassée à capuche
+- Lavage à la main
+- Pratique et minimaliste
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ZFYC8SK/?tag=tolees0d-21)
