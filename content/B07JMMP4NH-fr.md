@@ -28,9 +28,9 @@ Vous avez [Timberland Euro Sprint Fabric Waterproof  Bottes Chukka Homme  Blanc 
 
 ℹ️:
 
-- Couleur : blanc
+- Marque : Timberland
 - Référence : A1YWK-40
 - Homme > Chaussures > Boots
-- Marque : Timberland
+- Couleur : blanc
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JMMP4NH/?tag=tolees0d-21)

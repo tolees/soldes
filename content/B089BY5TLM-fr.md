@@ -28,9 +28,9 @@ C'est en vente [Funko- Pop Albums Black Sabbath Figurine de Collection  53077  M
 
 ℹ️:
 
-- Issue de la gamme Albums, la figurine Black Sabbath rejoint la collection Funko POP ALBUM
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage avec devanture dalbum originale
 - Découvrez tous les autres produits Funko dédiés à lunivers Albums! Collectionnez-les tous!
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage avec devanture dalbum originale
 - Funko POP! Figurine en vinyle est le jouet 2018 de lannée
+- Issue de la gamme Albums, la figurine Black Sabbath rejoint la collection Funko POP ALBUM
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089BY5TLM/?tag=tolees0d-21)
