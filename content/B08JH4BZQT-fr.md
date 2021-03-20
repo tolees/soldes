@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.01 % rabais sur OPPO A53s Bleu Fantaisie - 128 Go - 4 Go'
-date: 2021-03-19 02:22:24
+date: 2021-03-20 03:54:40
 image: 'https://m.media-amazon.com/images/I/41MgGSx2ecL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'OPPO'
 buyurl: 'https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21'
 descuento: '15.01'
-average: '184.398333333332'
+average: '183.283076923076'
 ---
 
 Vous avez [OPPO A53s Bleu Fantaisie - 128 Go - 4 Go de RAM – Écran Immersif 90Hz - Batterie 5000 mAh - Double Haut-Parleur Stéréo - Triple Caméra avec IA - USB-C - Android 10 - Smartphone débloqué 4G](https://www.amazon.fr/dp/B08JH4BZQT/?tag=tolees0d-21)  à  15.01 % de réduction, prix final  169.9 EUR (original: 199.9 EUR) ici:

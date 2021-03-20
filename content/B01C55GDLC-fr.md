@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Dim - Les Pockets Ecodim - Slip - Lot de avec 21.26 % rabais '
-date: 2021-03-18 00:22:38
+date: 2021-03-20 03:18:55
 image: 'https://m.media-amazon.com/images/I/41X26Ey4B+L._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01C55GDLC-fr Dim - Les Pockets Ecodim - Slip - Lot de 5 - Femme -...'
 sku: 'B01C55GDLC-fr'
+tags: [ 'Culottes et slips','Culottes, shorties et strings femme','Lingerie','Tenues de nuit, lingerie et sous-vêtements pour femme','Vêtements','Vêtements femme','dim', ]
 actualPrice: 13.74 EUR
 currency: EUR
 price: 13.74
@@ -27,8 +28,8 @@ C'est en vente [Dim - Les Pockets Ecodim - Slip - Lot de 5 - Femme - Multicolore
 
 ℹ️:
 
-- 5% Élasthanne
-- Lavage en machine
 - 95% Coton
+- Lavage en machine
+- 5% Élasthanne
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01C55GDLC/?tag=tolees0d-21)
