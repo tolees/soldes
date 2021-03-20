@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '46.01 % rabais sur Yageshark Pantalon de Jogging Homme Coto'
-date: 2021-03-18 08:02:10
+date: 2021-03-20 09:55:16
 image: 'https://m.media-amazon.com/images/I/31Cyj+melfL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B07WHX4MLB-fr Yageshark Pantalon de Jogging Homme Coton Mode Training...'
 sku: 'B07WHX4MLB-fr'
+tags: [ 'Pantalons de sport homme','Sportswear homme','Vêtements','Vêtements homme','yageshark', ]
 actualPrice: 26.99 EUR
 currency: EUR
 price: 26.99
