@@ -28,8 +28,8 @@ Vous avez [Apple Coque en Silicone avec MagSafe  pour iPhone 12  12 Pro  - Noi
 
 ℹ️:
 
+- Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
 - The silky, soft-touch finish of the silicone exterior feels great in your hand. And on the inside, there’s a soft microfiber lining for even more protection.
 - With built-in magnets that align perfectly with iPhone 12 | 12 Pro, the case offers a magical attach and detach experience, every time. The perfectly aligned magnets make wireless charging faster and easier than ever before. And when it’s time to charge, just leave the case on your iPhone and snap on your MagSafe charger, or set it on your Qi-certified charger.
-- Like every Apple-designed case, it undergoes thousands of hours of testing throughout the design and manufacturing process. So not only does it look great, it’s built to protect your iPhone from scratches and drops.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08L5NS72V/?tag=tolees0d-21)

@@ -28,12 +28,12 @@ C'est en vente [Console Nintendo NES Classic Mini](https://www.amazon.fr/dp/B01I
 
 ℹ️:
 
-- Contact du support de Nintendo : 01 34 35 46 01
 - Jeux intégrés : Balloon Fight - Bubble Bobble - Castlevania - Castlevania II: Simon’s Quest - Donkey Kong - Donkey Kong Jr. - Double Dragon II: The Revenge - Dr. Mario - Excitebike - Final Fantasy - Galaga - Ghosts’n Goblins - Gradius - Ice Climber - Kid Icarus - Kirby’s Adventure - Mario Bros. - Mega Man 2 - Metroid - Ninja Gaiden - Pac-Man - Punch-Out!! Featuring Mr. Dream - StarTropics - SUPER C - Super Mario Bros. - Super Mario Bros. 2 - Super Mario Bros. 3 - Tecmo Bowl - The Legend of Zelda - Zelda II: The Adventure of Link
-- 1 câble hdmi
-- la console Nintendo NES Classic Mini avec 30 jeux intégrés
+- Contact du support de Nintendo : 01 34 35 46 01
 - 1 câble dalimentation USB (pour alimenter la console, le câble USB doit être connecté à un adaptateur secteur non fourni)
+- 1 câble hdmi
 - Contenu :
 - 1 manette Nintendo Classic Mini: NES (manette classique et manette classique pro Wii compatibles)
+- la console Nintendo NES Classic Mini avec 30 jeux intégrés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01IFJEWTM/?tag=tolees0d-21)

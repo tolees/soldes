@@ -28,10 +28,10 @@ Vous avez [Logitech G920 Driving Force Volant de Course avec Pédales  Retour de
 
 ℹ️:
 
-- 900° Rotation: Lock-to-lock rotation of the Driving Force means you can turn the wheel around two and a half times, hand over hand on wide turns
-- Immersive Gaming Experience: Perfect for Xbox One and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals
-- Customisable Pedals: These pressure-sensitive nonlinear brake pedals provide a responsive, accurate braking feel on a sturdy base - with adjustable pedal faces for finer control
 - Up Your Game: Take your racing simulation to the next level with Driving Force accessories like the Driving Force Shifter or desk and rig mounts
 - Premium Control: The Driving Force feedback racing wheel provides a detailed simulation of driving a real car, with helical gearing delivering smooth, quiet steering and a hand-stitched leather cover
+- Immersive Gaming Experience: Perfect for Xbox One and PC gaming titles, the Driving Force simulates the feeling of driving a real car with precision steering and pressure-sensitive pedals
+- 900° Rotation: Lock-to-lock rotation of the Driving Force means you can turn the wheel around two and a half times, hand over hand on wide turns
+- Customisable Pedals: These pressure-sensitive nonlinear brake pedals provide a responsive, accurate braking feel on a sturdy base - with adjustable pedal faces for finer control
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B011N78DMA/?tag=tolees0d-21)

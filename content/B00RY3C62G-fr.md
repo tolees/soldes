@@ -28,12 +28,12 @@ Vous avez [Sylvanian Families - Le Village - La Famille Chat Bicolore - 5181 - F
 
 ℹ️:
 
-- A partir de 3 ans
-- Leurs vêtements peuvent être enlevés et remis à loisir
+- Ils sont tous articulés et habillés avec soin
 - Ils sont tous articulés et habillés avec soin
 - Inclus : 1 figurine Papa, 1 figurine Maman, 1 figurine Garçon et 1 figurine Fillette
+- Leurs vêtements peuvent être enlevés et remis à loisir
 - Une famille attachante à collectionner pour agrandir le village Sylvania
-- Ils sont tous articulés et habillés avec soin
+- A partir de 3 ans
 - A partir de 3 ans
 - Une famille attachante à collectionner pour agrandir le village Sylvania
 
