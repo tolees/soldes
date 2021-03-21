@@ -28,10 +28,10 @@ C'est en vente [Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ronde 29 cm
 
 ℹ️:
 
-- Named in France by tefal, the world’s #1 culinary articles
-- Elegant casserole made with a winning stone, renowned triple-starry chef for authentic and tasty cooking
-- Made of cast steel, which ensures optimal heat retention for stewed dishes and gentle cooking
-- For use on hobs: INDUCTION - GAS - ELECTRIC - VITROCERAMIC - HALOGEN
 - Matte black enamel coating inside and outside, ensuring perfect caramelization
+- For use on hobs: INDUCTION - GAS - ELECTRIC - VITROCERAMIC - HALOGEN
+- Elegant casserole made with a winning stone, renowned triple-starry chef for authentic and tasty cooking
+- Named in France by tefal, the world’s #1 culinary articles
+- Made of cast steel, which ensures optimal heat retention for stewed dishes and gentle cooking
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TVSJDLJ/?tag=tolees0d-21)
