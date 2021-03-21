@@ -28,10 +28,10 @@ C'est en vente [MILESTONE - Moto Gp 21  PS5 ](https://www.amazon.fr/dp/B08WYL9PB
 
 ℹ️:
 
-- Gagnez avec style: qu’il s’agisse de votre façon de piloter ou de votre apparence de pilote, le style est clé dans Motogp21.
-- Votre carrière, vos règles: votre voyage vers le championnat commence par la carrière de manager. Créez l’équipe de vos rêves
 - Réfléchissez vite, roulez encore plus vite: lorsque vous pouvez contrôler tous les aspects de votre course, chaque décision compte !
-- Amusez-vous à un tout nouveau niveau en défiant d’autres joueurs en ligne ou créez votre propre événement en mode directeur de course
 - Motogp à son apogée: vivez la saison 2021 de motogp, Moto2, Moto3, red bull motogp rookies cup et motoe avec les écuries et les circuits officiels.
+- Votre carrière, vos règles: votre voyage vers le championnat commence par la carrière de manager. Créez l’équipe de vos rêves
+- Amusez-vous à un tout nouveau niveau en défiant d’autres joueurs en ligne ou créez votre propre événement en mode directeur de course
+- Gagnez avec style: qu’il s’agisse de votre façon de piloter ou de votre apparence de pilote, le style est clé dans Motogp21.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WYL9PBC/?tag=tolees0d-21)
