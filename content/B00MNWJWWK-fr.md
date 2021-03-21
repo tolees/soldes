@@ -28,8 +28,8 @@ Vous avez [Zeller 18429 Brosse WC et Porte-Papier Toilette](https://www.amazon.f
 
 ℹ️:
 
-- Dimensions: environ 16.8 (diamètre) x 60 cm
 - Une esthétique ambiance dans votre salle de bain
+- Dimensions: environ 16.8 (diamètre) x 60 cm
 - Fabriqué en acier inoxydable de haute qualité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00MNWJWWK/?tag=tolees0d-21)

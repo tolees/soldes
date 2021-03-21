@@ -28,10 +28,10 @@ Vous avez [VTech - 196705 - Jungle Rock - Batterie Eléphant - Version FR](https
 
 ℹ️:
 
-- 6 fûts et cymbales qui silluminent et réagissent quand lenfant tape dessus.
-- Version française
-- Une batterie interactive et éducative pour sinitier à la musique
 - Un tableau dactivités électronique pour déclencher des chansons et des mélodies.
+- 6 fûts et cymbales qui silluminent et réagissent quand lenfant tape dessus.
 - 4 modes de jeu différents : Chiffres, Sons et lumières, Mémorisation (répétition dun séquence) et Jeu libre.
+- Une batterie interactive et éducative pour sinitier à la musique
+- Version française
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B071D4QCGW/?tag=tolees0d-21)
