@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'TOSHIBA EUROPE - Toshiba BULK V300 Video avec 19.54 % rabais '
-date: 2021-03-13 08:18:26
+date: 2021-03-21 06:03:22
 image: 'https://m.media-amazon.com/images/I/4145SsXp0nL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B07CVLSTVZ-fr TOSHIBA EUROPE - Toshiba BULK V300 Video Streaming Hard...'
 sku: 'B07CVLSTVZ-fr'
+tags: [ 'Disques durs internes','Informatique','Mémoire','Mémoire interne','toshiba europe', ]
 actualPrice: 69.99 EUR
 currency: EUR
 price: 69.99
@@ -27,9 +28,9 @@ C'est en vente [TOSHIBA EUROPE - Toshiba BULK V300 Video Streaming Hard Drive 3T
 
 ℹ️:
 
-- Vitesse de rotation du disque dur: 5940 tr/min
-- Choc (fonctionnement): 70 G/2 ms (durée)
-- Capacité disque dur: 3000 Go
 - Toshiba VideoStream V300 Bulk. Taille du disque dur: 3.5"
+- Choc (fonctionnement): 70 G/2 ms (durée)
+- Vitesse de rotation du disque dur: 5940 tr/min
+- Capacité disque dur: 3000 Go
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CVLSTVZ/?tag=tolees0d-21)
