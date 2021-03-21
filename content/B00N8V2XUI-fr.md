@@ -28,14 +28,14 @@ Vous avez [Rowenta ZR902301 Filtre HEPA pour X-trem Power Cyclonic](https://www.
 
 ℹ️:
 
-- C est une pièce dorigine fournie par Rowenta
-- Le filtre (H)EPA est un accessoire consommable. Pour conserver lefficacite de celui-ci il doit etre remplace regulierement
 - Poids du produit :0.253 kilogrammes
+- A changer 1 fois par an
 - Compatibilité du produit : X-trem Power Cyclonic
-- A changer 1 fois par an
-- Poids du produit :0.253 kilogrammes
-- A changer 1 fois par an
 - Le filtre (H)EPA est un accessoire consommable. Pour conserver l’efficacité de celui-ci il doit être remplacé régulièrement
 - Une piece neuve et inutilisee
+- Poids du produit :0.253 kilogrammes
+- Le filtre (H)EPA est un accessoire consommable. Pour conserver lefficacite de celui-ci il doit etre remplace regulierement
+- C est une pièce dorigine fournie par Rowenta
+- A changer 1 fois par an
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00N8V2XUI/?tag=tolees0d-21)

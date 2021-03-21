@@ -28,10 +28,10 @@ Vous avez [PanPastel 5 Colour Set - Extra Dark Shades Set](https://www.amazon.fr
 
 ℹ️:
 
-- Production minimum de déchets poudreux. Compatible et complémentaire aux pastels tendres traditionnels.
-- Concentration pigmentaire très élevée : couleurs intenses et lumineuses. Texture riche et onctueuse qui permet de prélever aisément la couleur et de lappliquer très facilement.
-- Contenu de la boîte : Ce produit comprend 5 godets PANPASTEL, 1 mini-applicateurs, 2 applicateurs pour couteau N° 3 et une éponge.
 - Taille : Set de 5 couleurs
+- Concentration pigmentaire très élevée : couleurs intenses et lumineuses. Texture riche et onctueuse qui permet de prélever aisément la couleur et de lappliquer très facilement.
+- Production minimum de déchets poudreux. Compatible et complémentaire aux pastels tendres traditionnels.
+- Contenu de la boîte : Ce produit comprend 5 godets PANPASTEL, 1 mini-applicateurs, 2 applicateurs pour couteau N° 3 et une éponge.
 - Résistance renforcée à la lumière.
 - Applications variées : aplats, mélanges, dégradés, superpositions avec outils et accessoires soft.
 
