@@ -28,10 +28,10 @@ Vous avez [Briloner Leuchten 4258-012 Suspension  Suspendue  plafonnier LED  Spo
 
 ℹ️:
 
-- Belle optique, avec double verrerie.
 - Lumière agréable blanc chaud diffusée par les ampoules comprises (3000 Kelvin).
-- Module LED économie dénergie de 5 Watt dune puissance lumineuse de 400 lumens.
 - Sadapte comme suspension dans le salon ou au dessus de la table de la salle a manger.
+- Module LED économie dénergie de 5 Watt dune puissance lumineuse de 400 lumens.
+- Belle optique, avec double verrerie.
 - Suspension Moderne avec finition élégante Mat Nickel, fabriqué en Métal et verre.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00J5DB8QS/?tag=tolees0d-21)

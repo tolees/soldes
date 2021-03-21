@@ -28,8 +28,8 @@ Vous avez [Geox Femme D New Annya A Pump  Bleu Navy C4002  38.5 EU](https://www.
 
 ℹ️:
 
-- Cuir souple
 - Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Cuir souple
 - Synthétique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LFRMZ88/?tag=tolees0d-21)
