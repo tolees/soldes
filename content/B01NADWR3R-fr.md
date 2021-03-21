@@ -28,8 +28,8 @@ C'est en vente [Tommy Hilfiger TH City Mini Reporter  Sac Hommes  Noir  Black   
 
 ℹ️:
 
-- Type de fermeture : fermeture Éclair
 - Dimensions exterieures (L x l x h): 16.5cm x 7cm x 20cm
+- Type de fermeture : fermeture Éclair
 - Série : City
 - Équipement : emplacement téléphone portable, poche(s) extérieure(s), poche(s) intérieure(s)
 - Volume en L. env.: 0-10
