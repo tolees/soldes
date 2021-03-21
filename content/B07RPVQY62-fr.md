@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.22 % rabais sur TP-Link Switch Ethernet  LS105G  Gigabit'
-date: 2021-03-20 11:02:07
+date: 2021-03-21 16:14:25
 image: 'https://m.media-amazon.com/images/I/41520g5WXaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.fr/dp/B07RPVQY62/?tag=tolees0d-21'
 descuento: '25.22'
-average: '14.8953846153846'
+average: '14.82025'
 ---
 
 Vous avez [TP-Link Switch Ethernet  LS105G  Gigabit 5 ports RJ45 metallique 10/100/1000 Mbps  Idéal pour étendre le réseau câblé pour les PME et les bureaux à domicile](https://www.amazon.fr/dp/B07RPVQY62/?tag=tolees0d-21)  à  25.22 % de réduction, prix final  11.89 EUR (original: 15.9 EUR) ici:
@@ -29,9 +29,9 @@ Vous avez [TP-Link Switch Ethernet  LS105G  Gigabit 5 ports RJ45 metallique 10/1
 ℹ️:
 
 - 【Green Technologie】La technologie Green Ethernet économise de lénergie, Garantie de Fabricant - 3 ans
-- 【Switch Gigabit】5 ports RJ45 de négociation automatique à 10/100/1000Mbps prenant en charge Auto-MDI/MDIX
-- 【QOS】Switch gigabit 5 ports support la fonction QoS 802.1p / DSCP pour définir la priorité du trafic
-- 【Plug and Play】Installation de switch ethernet LS108G demande aucune configuration
 - 【Fontionnement Silencieux】Avec la conception sans ventilateur, switch ethernet LS105G convient à tout type denvironnement
+- 【Switch Gigabit】5 ports RJ45 de négociation automatique à 10/100/1000Mbps prenant en charge Auto-MDI/MDIX
+- 【Plug and Play】Installation de switch ethernet LS108G demande aucune configuration
+- 【QOS】Switch gigabit 5 ports support la fonction QoS 802.1p / DSCP pour définir la priorité du trafic
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RPVQY62/?tag=tolees0d-21)

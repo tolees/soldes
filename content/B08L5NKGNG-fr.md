@@ -1,29 +1,30 @@
 ---
 layout: post
-title: 'Apple Porte-Cartes en Cuir avec MagSafe  avec 29.25 % rabais '
-date: 2021-03-15 19:12:55
-image: 'https://m.media-amazon.com/images/I/41Jq5qYUdwL._SL400_.jpg'
+title: 'Apple Porte-Cartes en Cuir avec MagSafe  avec 21.55 % rabais '
+date: 2021-03-21 16:34:22
+image: 'https://m.media-amazon.com/images/I/31lwaBRezhL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08L5NKGNG-fr Apple Porte-Cartes en Cuir avec MagSafe pour iPhone - Noir'
 sku: 'B08L5NKGNG-fr'
-actualPrice: 45.99 EUR
+tags: [ 'Accessoires téléphones portables','High-Tech','Téléphones portables et accessoires','apple','Étuis et coques pour téléphone portable','Étuis à rabat et folios pour téléphones portables', ]
+actualPrice: 50.99 EUR
 currency: EUR
-price: 45.99
+price: 50.99
 comparePrice: 65.0 EUR
 prodname: 'Apple Porte-Cartes en Cuir avec MagSafe  pour iPhone  - Noir'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Apple'
 buyurl: 'https://www.amazon.fr/dp/B08L5NKGNG/?tag=tolees0d-21'
-descuento: '29.25'
-average: '45.99'
+descuento: '21.55'
+average: '46.3746153846154'
 ---
 
-C'est en vente [Apple Porte-Cartes en Cuir avec MagSafe  pour iPhone  - Noir](https://www.amazon.fr/dp/B08L5NKGNG/?tag=tolees0d-21)  à  29.25 % de réduction, prix final  45.99 EUR (original: 65.0 EUR) ici:
+C'est en vente [Apple Porte-Cartes en Cuir avec MagSafe  pour iPhone  - Noir](https://www.amazon.fr/dp/B08L5NKGNG/?tag=tolees0d-21)  à  21.55 % de réduction, prix final  50.99 EUR (original: 65.0 EUR) ici:
 
-[![Apple Porte-Cartes en Cuir avec MagSafe ](https://m.media-amazon.com/images/I/41Jq5qYUdwL._SL400_.jpg)](https://www.amazon.fr/dp/B08L5NKGNG/?tag=tolees0d-21)
+[![Apple Porte-Cartes en Cuir avec MagSafe ](https://m.media-amazon.com/images/I/31lwaBRezhL._SL400_.jpg)](https://www.amazon.fr/dp/B08L5NKGNG/?tag=tolees0d-21)
 
 ℹ️:
 

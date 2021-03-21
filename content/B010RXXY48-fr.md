@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '37.02 % rabais sur TP-Link Répéteur WiFi RE450   Amplificat'
-date: 2021-03-20 04:06:21
+title: '28.00 % rabais sur TP-Link Répéteur WiFi RE450   Amplificat'
+date: 2021-03-21 16:36:29
 image: 'https://m.media-amazon.com/images/I/31NOyVNK4cL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B010RXXY48-fr TP-Link Répéteur WiFi RE450 Amplificateur WiFi A1C750 WiFi...'
 sku: 'B010RXXY48-fr'
 tags: [ 'Informatique','Répéteurs','Réseaux','tp-link', ]
-actualPrice: 50.32 EUR
+actualPrice: 57.53 EUR
 currency: EUR
-price: 50.32
+price: 57.53
 comparePrice: 79.9 EUR
 prodname: 'TP-Link Répéteur WiFi RE450   Amplificateur WiFi A1C750  WiFi Extender  WiFi Booster  1 Port Ethernet  couvre jusqu à 140㎡  Compatible avec toutes les box internet'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'TP-Link'
 buyurl: 'https://www.amazon.fr/dp/B010RXXY48/?tag=tolees0d-21'
-descuento: '37.02'
-average: '58.2680392156864'
+descuento: '28.00'
+average: '58.2401886792454'
 ---
 
-Vous avez [TP-Link Répéteur WiFi RE450   Amplificateur WiFi A1C750  WiFi Extender  WiFi Booster  1 Port Ethernet  couvre jusqu à 140㎡  Compatible avec toutes les box internet](https://www.amazon.fr/dp/B010RXXY48/?tag=tolees0d-21)  à  37.02 % de réduction, prix final  50.32 EUR (original: 79.9 EUR) ici:
+Vous avez [TP-Link Répéteur WiFi RE450   Amplificateur WiFi A1C750  WiFi Extender  WiFi Booster  1 Port Ethernet  couvre jusqu à 140㎡  Compatible avec toutes les box internet](https://www.amazon.fr/dp/B010RXXY48/?tag=tolees0d-21)  à  28.00 % de réduction, prix final  57.53 EUR (original: 79.9 EUR) ici:
 
 [![TP-Link Répéteur WiFi RE450   Amplificat](https://m.media-amazon.com/images/I/31NOyVNK4cL._SL400_.jpg)](https://www.amazon.fr/dp/B010RXXY48/?tag=tolees0d-21)
 

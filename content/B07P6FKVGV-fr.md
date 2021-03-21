@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '29.96 % rabais sur Playmobil - Chambre de Bébé - 70210'
-date: 2021-03-19 15:28:59
+date: 2021-03-21 16:09:31
 image: 'https://m.media-amazon.com/images/I/41+gu1Cr+vL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B07P6FKVGV/?tag=tolees0d-21'
 descuento: '29.96'
-average: '11.5645132743363'
+average: '11.5825217391305'
 ---
 
 Vous avez [Playmobil - Chambre de Bébé - 70210](https://www.amazon.fr/dp/B07P6FKVGV/?tag=tolees0d-21)  à  29.96 % de réduction, prix final  12.6 EUR (original: 17.99 EUR) ici:

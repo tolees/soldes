@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.25 % rabais sur Square Enix - Final Fantasy VII Remake I'
-date: 2021-03-19 08:55:16
+date: 2021-03-21 16:39:26
 image: 'https://m.media-amazon.com/images/I/41025zR10NL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ Vous avez [Square Enix - Final Fantasy VII Remake Intergrade  PS5 ](https://www.
 
 ℹ️:
 
-- FINAL FANTASY VII REMAKE INTERGRADE est une version améliorée et amplifiée de FINAL FANTASY VII REMAKE, le titre encensé par la critique et récompensé, pour PlayStation5
 - FINAL FANTASY VII REMAKE INTERGRADE inclut un épisode inédit consacré à Yuffie, proposant un nouvel arc narratif captivant, ainsi que de nombreux nouveaux éléments de gameplay pour le plaisir des joueurs !
+- FINAL FANTASY VII REMAKE INTERGRADE est une version améliorée et amplifiée de FINAL FANTASY VII REMAKE, le titre encensé par la critique et récompensé, pour PlayStation5
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08XR74D8F/?tag=tolees0d-21)
