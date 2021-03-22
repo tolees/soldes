@@ -28,9 +28,9 @@ C'est en vente [GROHE Mitigeur monocommande Evier Get 30361000](https://www.amaz
 
 ℹ️:
 
-- Saillie (en mm) : 236 - Hauteur sous bec (en mm) : 127
 - Douchette et bec professionnels - Monotrou sur plage
 - GROHE StarLight Chrome éclatant et durable - GROHE SilkMove Cartouche en céramique 28 mm
+- Saillie (en mm) : 236 - Hauteur sous bec (en mm) : 127
 - Bec orientable - Zone de rotation 140°
 - Protégés contre les retours deau - GROHE QuickFix installation rapide
 - Inclus : limiteur de température, Inverseur: jet laminaire / jet de pluie (Retour automatique au jet laminaire), Flexibles de raccordement souples, sertis d’usine - GROHE EasyDock M socle aimanté pour un retour automatique du mousseur

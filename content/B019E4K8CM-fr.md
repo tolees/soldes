@@ -28,10 +28,10 @@ Vous avez [INTEX-Fontaine de piscine LED multicolore](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Multicolor spray frame/ultra frame; i.4
+- Easily washable, durable and comfortable
 - Compatible with any Intex tubular pool (except Easyset and Graphite models)
 - Comfortable, lightweight and handy; safe and practical
 - Pump capacity required: 2.7 m³ / ha 7.6 m³ / h
-- Easily washable, durable and comfortable
+- Multicolor spray frame/ultra frame; i.4
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B019E4K8CM/?tag=tolees0d-21)

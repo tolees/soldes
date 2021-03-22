@@ -28,15 +28,15 @@ Vous avez [LEGO®-Jurassic World™ L’affrontement du baryonyx la chasse au tr
 
 ℹ️:
 
-- Avec ce jeu à collectionner, les enfants peuvent réinventer les scènes passionnantes de la série danimation LEGO Jurassic World.
-- Le décor de jungle comprend un palmier à construire, un coffre au trésor caché avec fonction de découverte qui contient 6 pierres précieuses et 2 lingots dor, ainsi que différents éléments, dont des plantes et 2 poissons.
-- Le modèle de baryonyx Jurassic World moulé à construire présente des mâchoires, une tête et des pattes articulées.
+- La caravane est équipée dune antenne satellite à construire et comprend différents éléments végétaux à lextérieur, une porte qui souvre et un intérieur détaillé avec un lit et un ordinateur à construire, plus des éléments tels quune tasse à café, une caméra et une poêle.
 - Cet ensemble de jeu LEGO Jurassic World pour enfants inclut 4 figurines : Owen Grady, Claire Dearing, Danny Nedermeyer, Sinjin Prescott, plus le chien Red.
 - Les figurines de Danny Nedermeyer et Sinjin Prescott sont des nouveautés de juin 2019.
-- Les accessoires incluent le chapeau, le sac, la carte et la cassette vidéo de Sinjin Prescott.
-- Les armes incluent le fusil tranquillisant dOwen Grady et la machette de Sinjin Prescott.
-- Les enfants peuvent appuyer sur le mécanisme pour révéler le coffre au trésor caché.
 - Le buggy tout-terrain peut transporter 2 figurines et comprend un espace de stockage à larrière, un attelage pour tracter la caravane, un gyrophare en briques à construire, un bidon dessence ainsi quun tournevis.
-- La caravane est équipée dune antenne satellite à construire et comprend différents éléments végétaux à lextérieur, une porte qui souvre et un intérieur détaillé avec un lit et un ordinateur à construire, plus des éléments tels quune tasse à café, une caméra et une poêle.
+- Les accessoires incluent le chapeau, le sac, la carte et la cassette vidéo de Sinjin Prescott.
+- Avec ce jeu à collectionner, les enfants peuvent réinventer les scènes passionnantes de la série danimation LEGO Jurassic World.
+- Le décor de jungle comprend un palmier à construire, un coffre au trésor caché avec fonction de découverte qui contient 6 pierres précieuses et 2 lingots dor, ainsi que différents éléments, dont des plantes et 2 poissons.
+- Les enfants peuvent appuyer sur le mécanisme pour révéler le coffre au trésor caché.
+- Les armes incluent le fusil tranquillisant dOwen Grady et la machette de Sinjin Prescott.
+- Le modèle de baryonyx Jurassic World moulé à construire présente des mâchoires, une tête et des pattes articulées.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KTW32JP/?tag=tolees0d-21)

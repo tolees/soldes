@@ -28,9 +28,9 @@ Vous avez [LEGO Trolls World Tour  La fête au village pop abane dans les arbres
 
 ℹ️:
 
-- Comprend 4 figurines Trolls : Poppy, Branch, Cooper, Guy Diamond et Tiny Diamond ainsi que de nombreux accessoires
 - Les enfants peuvent décorer les cheveux des Trolls avec des cupcakes, des coeurs et des fleurs Guy Diamond peut même cacher un œuf dans ses cheveux, prêt à éclore Tiny Diamond
 - Inspire des aventures sans fin et un jeu créatif pour les fans des Trolls avec beaucoup de choses à découvrir dans cet idéal ensemble de jeu de cabane dans les arbres LEGO Trolls
+- Comprend 4 figurines Trolls : Poppy, Branch, Cooper, Guy Diamond et Tiny Diamond ainsi que de nombreux accessoires
 - Accrochez les deux capsules sur larbre ou fermez-les pour vous amuser en déplacement  Pour encore plus de plaisir, les enfants peuvent ajouter une troisième capsule :  La capsule de Poppy (41251) (vendu séparément)
 - Deux maisons-capsules pendent aux branches de cet arbre absolument idéal : une pour les personnages exclusifs de Guy Diamond et Tiny Diamond, et une autre pour Cooper
 

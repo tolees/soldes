@@ -28,13 +28,13 @@ C'est en vente [LEGO Ideas 92177 Bateau en Bouteille Jeu de Construction Collect
 
 ℹ️:
 
+- Ce jouet de construction convient aux enfants âgés de 10 ans et plus.
+- La bouteille inclut un bouchon à construire très détaillé, un élément représentant un sceau en cire (nouveauté en février 2018) et plus de 280 éléments bleus translucides représentant l’eau à l’intérieur de la bouteille.
+- Le navire mesure plus de 8 cm de haut, 14 cm de long et 5 cm de large.
 - Inclut une bouteille en briques LEGO, un navire et un support d’exposition.
 - La bouteille posée sur le support mesure plus de 10 cm de haut, 31 cm de large et 10 cm de profondeur.
 - Le support d’exposition est orné d’une plaquette indiquant le nom du navire (le « Léviathan »), d’une boussole intégrée (factice) comprenant une rose des vents détaillée et une aiguille dorée qui tourne, de deux éléments représentant le globe terrestre, ainsi que de détails dorés.
-- Ce jouet de construction convient aux enfants âgés de 10 ans et plus.
-- La bouteille inclut un bouchon à construire très détaillé, un élément représentant un sceau en cire (nouveauté en février 2018) et plus de 280 éléments bleus translucides représentant l’eau à l’intérieur de la bouteille.
-- Inclut un livret avec les instructions de montage et des informations sur le fan et les designers LEGO qui ont créé cet ensemble.
-- Le navire mesure plus de 8 cm de haut, 14 cm de long et 5 cm de large.
 - Le bateau inclut un pont surélevé au niveau de la poupe, les quartiers du capitaine, six canons, trois mâts, un nid-de-pie et des éléments assortis tels que des voiles imprimées et un pavillon.
+- Inclut un livret avec les instructions de montage et des informations sur le fan et les designers LEGO qui ont créé cet ensemble.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GPG92V1/?tag=tolees0d-21)

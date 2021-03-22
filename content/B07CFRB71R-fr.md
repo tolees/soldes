@@ -28,9 +28,9 @@ C'est en vente [Bioworld - Difuzed Nintendo NINTENDO Legend of Zelda All-Over Pa
 
 ℹ️:
 
-- Poches zippées, bretelles réglables
-- Mini sac à dos haute qualité sous licence officielle
 - Sac à dos The Legend of Zelda, modèle Allover Print
+- Mini sac à dos haute qualité sous licence officielle
 - PU/ Polyester
+- Poches zippées, bretelles réglables
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CFRB71R/?tag=tolees0d-21)

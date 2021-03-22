@@ -29,9 +29,9 @@ C'est en vente [LEGO Harry Potter et le Prisonnier d’Azkaban  la Cabane de Hag
 ℹ️:
 
 - Also includes pumpkins, lantern, axe, three wands, egg in a bowl, Hagrid’s pink umbrella, a spider, meat cleaver, lasso, broom, a bucket and many more
-- Includes six LEGO minifigures: Hagrid and (for-June-2019) Harry Potter, Ron Weasley, Hermione Granger, Executioner and the minister of magic
 - On two-section buildable woodland build Hagrids two-room hut, then save the Hippogriff from the executioner and the minister of magic
 - Hagrid´s Hut’s main and desk rooms includes a host of accessories, furniture and a switch-operated light brick for the fireplace
 - The buildable Buckbeak the hippogriff figure has moveable wings and head, restrained by a removable chain and is 1 Inch (5 cm) high
+- Includes six LEGO minifigures: Hagrid and (for-June-2019) Harry Potter, Ron Weasley, Hermione Granger, Executioner and the minister of magic
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3SC5ZH/?tag=tolees0d-21)

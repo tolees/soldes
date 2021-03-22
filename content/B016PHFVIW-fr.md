@@ -28,10 +28,10 @@ Vous avez [Bandai - National Geographic - Kit de fouille - 3 insectes à extrair
 
 ℹ️:
 
-- Découvrez tous les kits National Geographic de Bandai
-- Contenu : un pierre à creuser, trois spécimens dinsectes, un pinceau, un outil de fouille, un loupe et un guide dapprentissage pour tout savoir sur les insectes
-- Kit de fouille pour creuser, fouiller et découvrir vos spécimens dinsectes à la manière dun entomologiste
 - Une activité scientifique, ludique et pédagogique
 - Trois véritables spécimens à extraire : un scorpion, un coléoptère et une araignée épineuse
+- Kit de fouille pour creuser, fouiller et découvrir vos spécimens dinsectes à la manière dun entomologiste
+- Contenu : un pierre à creuser, trois spécimens dinsectes, un pinceau, un outil de fouille, un loupe et un guide dapprentissage pour tout savoir sur les insectes
+- Découvrez tous les kits National Geographic de Bandai
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B016PHFVIW/?tag=tolees0d-21)
