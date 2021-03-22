@@ -29,7 +29,7 @@ C'est en vente [Geox D Leelu  E  Baskets Femme  Noir  38 EU](https://www.amazon.
 ℹ️:
 
 - Synthétique
-- Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 - Synthétique
+- Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0825NWDKB/?tag=tolees0d-21)
