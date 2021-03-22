@@ -29,8 +29,8 @@ Vous avez [Lindt Lindor Assorti Doypack Boules 1 kg](https://www.amazon.fr/dp/B0
 ℹ️:
 
 - Croquez sa délicate coquille, et son cœur passionnément fondant vous emporte comme dans un rêve, pour un petit moment de bonheur rien quà vous
-- La Passion et lAmour pour le chocolat depuis 1845
 - Quel que soit lendroit, quel que soit le moment, il y a quelque chose de magique dans un instant LINDOR
+- La Passion et lAmour pour le chocolat depuis 1845
 - LINDOR, créé par les Maîtres Chocolatiers Lindt
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FYU60V4/?tag=tolees0d-21)

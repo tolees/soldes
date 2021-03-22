@@ -28,10 +28,10 @@ C'est en vente [Helly Hansen Paramount Hydrofuge et Coupe-Vent et Respirant Vest
 
 ℹ️:
 
-- Ajustable hem and Cuffs
-- Ykk front zipper, hand and chest O
-- Softshell fabric construction
-- Water résistant, windproof and breathable fabric
 - Fleece lined on the back for extra confort
+- Softshell fabric construction
+- Ykk front zipper, hand and chest O
+- Ajustable hem and Cuffs
+- Water résistant, windproof and breathable fabric
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07LBNFPPF/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Fujifilm 16536702 Batterie Rechargeable pour Appareil GFX 50s No
 
 ℹ️:
 
-- 10,8V (1230mAh) 14,04Wh
 - Pour Fujifilm GFX 50s
+- 10,8V (1230mAh) 14,04Wh
 - Batterie Li-ion
 - Batterie rechargeable NP T125
 

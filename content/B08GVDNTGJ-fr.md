@@ -28,9 +28,9 @@ Vous avez [Crucial P2 CT2000P2SSD8 SSD Interne 2To  Vitesses atteignant 2400 Mo/
 
 ℹ️:
 
-- Comprend un logiciel de gestion du SSD pour l’optimisation des performances, la sécurité des données et les mises à jour du firmware
 - Garantie limitée de 5 ans
-- Des capacités allant jusqu’à 2To avec des vitesses de lecture/écriture séquentielle allant jusqu’à 2400/1900 Mo/s
+- Comprend un logiciel de gestion du SSD pour l’optimisation des performances, la sécurité des données et les mises à jour du firmware
 - Interface NVMe PCIe, un tournant dans l’innovation en matière de stockage
+- Des capacités allant jusqu’à 2To avec des vitesses de lecture/écriture séquentielle allant jusqu’à 2400/1900 Mo/s
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GVDNTGJ/?tag=tolees0d-21)
