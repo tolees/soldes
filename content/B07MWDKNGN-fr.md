@@ -28,10 +28,10 @@ C'est en vente [Sony Alpha 6400 | Appareil Photo Numérique Hybride APS-C   24 2
 
 ℹ️:
 
-- AUTOFOCUS RAPIDE ET PRÉCIS : comptez sur lAF en 0,02s, le suivi en Temps Réel des Yeux (humain et animaux), pour garder votre sujet parfaitement net en toute situation
 - NE MANQUEZ JAMAIS UN MOMENT : Jusquà 11 images/seconde avec Autofocus
-- PARFAIT POUR LES CRÉATEURS DE VIDÉOS : enregistrement de films 4K HDR haute résolution et fonction de ralenti Full HD (120p) avec autofocus
-- PARTAGEZ VOS CRÉATIONS : partagez facilement sur vos appareils mobiles grâce à lapplication Imaging Edge (Wi-Fi/Bluetooth)
+- AUTOFOCUS RAPIDE ET PRÉCIS : comptez sur lAF en 0,02s, le suivi en Temps Réel des Yeux (humain et animaux), pour garder votre sujet parfaitement net en toute situation
 - CAPTUREZ LES ANGLES CRÉATIFS : cadrez facilement votre sujet lors dune prise de vue au raz du sol ou audessus des têtes avec lécran arrière inclinable Selfie
+- PARTAGEZ VOS CRÉATIONS : partagez facilement sur vos appareils mobiles grâce à lapplication Imaging Edge (Wi-Fi/Bluetooth)
+- PARFAIT POUR LES CRÉATEURS DE VIDÉOS : enregistrement de films 4K HDR haute résolution et fonction de ralenti Full HD (120p) avec autofocus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MWDKNGN/?tag=tolees0d-21)

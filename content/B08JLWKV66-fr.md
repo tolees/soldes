@@ -29,7 +29,7 @@ Vous avez [Shengquan - Simplecase - 40 pièces - Masque FFP2  masque de protecti
 ℹ️:
 
 - Masque FFP2, filtre plus de 94% daérosols deau et dhuile et les poussières fines
-- Selon EN149: 2001 + A1: 2009 CE certifié par lorganisme notifié UE CE 2834
 - Vous protège vous et votre environnement contre les aérosols, les poussières fines et autres particules
+- Selon EN149: 2001 + A1: 2009 CE certifié par lorganisme notifié UE CE 2834
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JLWKV66/?tag=tolees0d-21)

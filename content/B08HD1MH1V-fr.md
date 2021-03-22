@@ -28,10 +28,10 @@ C'est en vente [tech rc Drone avec Caméra 1080P HD WiFi FPV Télécommande WiFi
 
 ℹ️:
 
+- 【MODE SANS TETE + MAINTIEN DALTITUDE】Grâce au Maintien daltitude, il permet de maintenir et survoler à certaine hauteur pour enregistrer superbes images et vidéos sans tremblement. Avec le mode sans tête, le vol de ce drone caméra ne suit que la direction donnée par les joysticks de commande nimport que la direction de la tête
 - 【LONGTEMPS DE VOL AVEC 2 BATTERIES RECHARGEABLES】Equippé de 2 batteries détachables pour ce drone caméra 1080P, il peut vous prolonger le temps de vol, vous permettre de jouer avec ce rc drone plus de temps en faisant ce que vous voulez, cette batterie peut fournir 24 minutes de temps de vol
 - 【ALARME DE BATTERIES & BASSE TENSION】Avec la fonction dalarme de basse tension/ Alarme hors portée de ce drone, lorsque vous voyez les lumières du drone passer de fixes à clignotantes, cest lavertissement de faible puissance, le joueur de ce rc drone doit ordonner au drone de revenir à lheure le plus vite
 - 【AVOIR 1080P CAMERA ET TRANSMISSION EN TEMPS REEL】Équipé de la caméra de 1080P avec un grand angle, ce drone pliable peut vous permettre de prendre des photos et des vidéos au vol en temps réel, vous pouvez enregistrer toutes les scènes touchantes, toutes les partages avec vos amis dans la vie quotidienne
 - 【VOLER PAR TRAJECTOIRE】Avoir la technologie la plus avancée, vol de trajectoire. Il suffit de dessiner un trajectoire de vol sur lécran du téléphone portable et ce drone avec caméra 1080P va suivre cet trajectoire. Ce drone se déplacera dans la direction désignée selon manière magique qui peut assure votre expérience fantastique
-- 【MODE SANS TETE + MAINTIEN DALTITUDE】Grâce au Maintien daltitude, il permet de maintenir et survoler à certaine hauteur pour enregistrer superbes images et vidéos sans tremblement. Avec le mode sans tête, le vol de ce drone caméra ne suit que la direction donnée par les joysticks de commande nimport que la direction de la tête
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HD1MH1V/?tag=tolees0d-21)

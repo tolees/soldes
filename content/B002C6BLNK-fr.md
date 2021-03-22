@@ -28,10 +28,10 @@ Vous avez [St Marc Lingettes Desinfectantes et Nettoyantes Parfum Agrumes Soleil
 
 ℹ️:
 
+- Antibacterial Wipes
+- Ideal for quickly cleaning any washable surface.
 - Hard-Wearing
 - These wipes leave behind a lovely fresh scent, Corsican Sun.
 - Their hygienic formula cleanses and removes impurities.
-- Ideal for quickly cleaning any washable surface.
-- Antibacterial Wipes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002C6BLNK/?tag=tolees0d-21)
