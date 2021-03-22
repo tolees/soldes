@@ -28,12 +28,12 @@ Vous avez [Lindt - Sachet Lindor Lait - 1kg](https://www.amazon.fr/dp/B00FYU60XW
 
 ℹ️:
 
-- Ces bouchées sont réalisées à partir des meilleurs ingrédients et de fèves de cacao issues dun approvisionnement durable
-- Sachet de bouchées Lindor fondantes au chocolat au lait – environ 80 bouchées, 1 kg
 - Saveurs disponibles : Lait, Noir, Noir Extra Cacao 60%, Blanc, Lait Noisettes, Lait Caramel, Lait Coco, Lait Amandes, Stracciatella, Blanc Fraise, Blanc Cappuccino, Lait & Blanc, Noir 70% cacao, Lait Orange, Lait Menthe, Lait Pistache.
-- Depuis 1845, Lindt ravit les papilles du monde entier grâce au goût unique de son fin chocolat
-- Forts dun savoir-faire de plusieurs décennies, les Maîtres Chocolatiers reproduisent la perfection du chocolat suisse dans chacune de leurs créations chocolatées
+- Sachet de bouchées Lindor fondantes au chocolat au lait – environ 80 bouchées, 1 kg
 - Fondez de bonheur avec nos célèbres bouchées Lindor au chocolat au lait
 - Pour offrir ou pour un moment rien quà soi, les bouchées Lindor vous feront fondre de bonheur
+- Depuis 1845, Lindt ravit les papilles du monde entier grâce au goût unique de son fin chocolat
+- Forts dun savoir-faire de plusieurs décennies, les Maîtres Chocolatiers reproduisent la perfection du chocolat suisse dans chacune de leurs créations chocolatées
+- Ces bouchées sont réalisées à partir des meilleurs ingrédients et de fèves de cacao issues dun approvisionnement durable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FYU60XW/?tag=tolees0d-21)

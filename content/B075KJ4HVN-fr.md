@@ -28,13 +28,13 @@ Vous avez [Extel ICE Visiophone 2 fils à mémoire de passage et effet miroir  B
 
 ℹ️:
 
-- Avec mémoire de passage enregistrement photo et vidéo des visiteurs sur mémoire interne ou carte SD (non fournie)
-- Double commande pour ouvrir un portillon et un portail
-- Si vous optez pour un moniteur supplémentaire, Les deux moniteurs communiquent entre eux
-- Référence fournisseur EXTEL: 720306
-- Surveiller votre entrée facilement grâce à la fonction monitoring
-- Plateforme évolutive: vous pouvez ajouter jusquà 1 écran supplémentaire et 1 caméra ou platine de rue supplémentaire
 - Visiophone avec large écran de 18cm avec effet miroir
+- Si vous optez pour un moniteur supplémentaire, Les deux moniteurs communiquent entre eux
+- Plateforme évolutive: vous pouvez ajouter jusquà 1 écran supplémentaire et 1 caméra ou platine de rue supplémentaire
+- Surveiller votre entrée facilement grâce à la fonction monitoring
+- Avec mémoire de passage enregistrement photo et vidéo des visiteurs sur mémoire interne ou carte SD (non fournie)
+- Référence fournisseur EXTEL: 720306
 - Vision nocturne grâce à ses LEDs infrarouges invisibles
+- Double commande pour ouvrir un portillon et un portail
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075KJ4HVN/?tag=tolees0d-21)
