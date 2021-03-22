@@ -28,10 +28,10 @@ C'est en vente [PUMA Classic HD. Sweat Suit TR Survêtement Femme  Noir  Puma Bl
 
 ℹ️:
 
+- BCI : en achetant des produits PUMA en coton, vous soutenez la culture de coton durable par le biais de la Better Cotton Initiative. En savoir plus : bettercotton.org/francais
+- Capuche doublée en jersey avec cordon de serrage pour un ajustement parfait
 - Poches latérales ouvertes pour ranger vos affaires de manière pratique
 - Slim fit
 - Veste :
-- Capuche doublée en jersey avec cordon de serrage pour un ajustement parfait
-- BCI : en achetant des produits PUMA en coton, vous soutenez la culture de coton durable par le biais de la Better Cotton Initiative. En savoir plus : bettercotton.org/francais
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089Z8FB7F/?tag=tolees0d-21)
