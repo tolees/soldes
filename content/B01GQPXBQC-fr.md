@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY CS1050 Elite 240 Go SSD externe - US avec 17.00 % rabais '
-date: 2021-03-19 08:21:12
+date: 2021-03-22 11:11:14
 image: 'https://m.media-amazon.com/images/I/41bkV1yVJtL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [PNY CS1050 Elite 240 Go SSD externe - USB 3.1](https://www.amazo
 
 ℹ️:
 
+- Basse consommation énergétique
 - Compatible avec Windows et Mac OS X
-- Boîtier en aluminium durable et ultra compact
 - Vitesse de transfert élevée jusquà 430 Mo/s
 - Connectivité USB 3.0
-- Basse consommation énergétique
+- Boîtier en aluminium durable et ultra compact
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GQPXBQC/?tag=tolees0d-21)
