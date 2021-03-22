@@ -1,35 +1,36 @@
 ---
 layout: post
-title: '23.18 % rabais sur Playmobil - Salon Équipé - 9267'
-date: 2021-03-18 01:20:49
+title: '17.43 % rabais sur Playmobil - Salon Équipé - 9267'
+date: 2021-03-22 17:02:40
 image: 'https://m.media-amazon.com/images/I/51LcuH3WttL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B06X1GY4GG-fr Playmobil - Salon Équipé - 9267'
 sku: 'B06X1GY4GG-fr'
-actualPrice: 11.9 EUR
+tags: [ 'Coffrets de figurines pour enfants','Figurines pour enfants','Jeux et Jouets','Jeux et jouets','playmobil', ]
+actualPrice: 12.79 EUR
 currency: EUR
-price: 11.9
+price: 12.79
 comparePrice: 15.49 EUR
 prodname: 'Playmobil - Salon Équipé - 9267'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21'
-descuento: '23.18'
-average: '13.5477358490566'
+descuento: '17.43'
+average: '13.5201818181818'
 ---
 
-Vous avez [Playmobil - Salon Équipé - 9267](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)  à  23.18 % de réduction, prix final  11.9 EUR (original: 15.49 EUR) ici:
+Vous avez [Playmobil - Salon Équipé - 9267](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)  à  17.43 % de réduction, prix final  12.79 EUR (original: 15.49 EUR) ici:
 
 [![Playmobil - Salon Équipé - 9267](https://m.media-amazon.com/images/I/51LcuH3WttL._SL400_.jpg)](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)
 
 ℹ️:
 
-- 3 pressions : léclairage séteint totalement. Arrêt automatique : env. 120 sec.
-- La lampe de table ronde sallume (nécessite 2 piles 1,5 V micro non fournies)
 - 1 pression : la lumière blanche sallume. 2 pressions : la couleur change en continu (bleu - violet - rouge - jaune - vert)
 - Contient 2 personnages, 1 canapé, 1 TV, 2 enceintes, 2 lecteurs de DVD, 2 bibliothèques, 1 saxophone, 1 pot de fleur Lechuza, 1 voiture jouet et des accessoires
+- 3 pressions : léclairage séteint totalement. Arrêt automatique : env. 120 sec.
+- La lampe de table ronde sallume (nécessite 2 piles 1,5 V micro non fournies)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)
