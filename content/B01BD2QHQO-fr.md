@@ -28,10 +28,10 @@ Vous avez [RAVPOWER Quick Charge 3.0 Chargeur USB 30W Chargeur Secteur 2 Port 4X
 
 ℹ️:
 
-- Quick Charge 3.0 Qualcomm: La technologie de charge USB la plus rapide du monde permet des charges jusquà 4 fois plus rapides - recharge les appareils compatibles de 0 à 80% en seulement 35 minutes. (Pas compatible avec la charge rapide des Samsung Galaxy Série A)
+- Charge intelligente : le chargeur peut optimiser la tension de charge pour une efficacité de charge maximale.
 - Pratique: petit et facile à transporter, avec une alimentation universelle 100-240V.
 - Sécurisé: Boîtier solide avec protections contre la surchauffe, la surintensité et la surtension, pour une charge 100% sécurisée.
 - Double port USB : vous permet de charger 2 appareils standards en même temps (iPad, iPhone, etc. ) grâce à sa sortie totale de 4.8A.
-- Charge intelligente : le chargeur peut optimiser la tension de charge pour une efficacité de charge maximale.
+- Quick Charge 3.0 Qualcomm: La technologie de charge USB la plus rapide du monde permet des charges jusquà 4 fois plus rapides - recharge les appareils compatibles de 0 à 80% en seulement 35 minutes. (Pas compatible avec la charge rapide des Samsung Galaxy Série A)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BD2QHQO/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Samsung Galaxy A51 Smartphone 128GB 4GB Prism Crush Blue](https://www
 
 ℹ️:
 
-- La batterie de 4000 mAh capable de fournir de lénergie du matin au soir et avec la charge rapide de 15 W vous pouvez remettre votre smartphone à 100 % rapidement
-- Ton pastel finition mate et aspect oléographique pour un Galaxy A51 au design épuré et rénové les bords arrondis et lépaisseur de 7 9 mm assurent une prise en main confortable et ergonomique
 - Gr ce à ses quatre appareils photo arrière le Galaxy A51 redéfinit les limites de la photographie pour smartphone vous pouvez prendre des photos nettes et lumineuses à tout moment et réaliser des vidéos exceptionnelles en toutes circonstances
-- Lécran Infinity-O FHD+ Super AMOLED 6 5" offre une expérience visuelle immersive et ininterrompue pour jouer regarder des vidéos surfer
+- Ton pastel finition mate et aspect oléographique pour un Galaxy A51 au design épuré et rénové les bords arrondis et lépaisseur de 7 9 mm assurent une prise en main confortable et ergonomique
 - Le Galaxy A51 est doté dun processeur Octa Core et de 4 Go de RAM pour des performances fluides et efficaces dune mémoire interne de 128 Go extensible jusquà 512 Go avec microSD pour conserver vos contenus sans limites
+- La batterie de 4000 mAh capable de fournir de lénergie du matin au soir et avec la charge rapide de 15 W vous pouvez remettre votre smartphone à 100 % rapidement
+- Lécran Infinity-O FHD+ Super AMOLED 6 5" offre une expérience visuelle immersive et ininterrompue pour jouer regarder des vidéos surfer
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082WN8SL4/?tag=tolees0d-21)

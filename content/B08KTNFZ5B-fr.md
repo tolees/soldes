@@ -1,14 +1,14 @@
 ---
 layout: post
 title: 'Playmobil Police Policier avec Moto et V avec 18.97 % rabais '
-date: 2021-03-19 02:01:41
+date: 2021-03-23 20:55:47
 image: 'https://m.media-amazon.com/images/I/51YiysIQPYL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B08KTNFZ5B-fr Playmobil Police Policier avec Moto et Voleur 70572'
 sku: 'B08KTNFZ5B-fr'
-tags: [ 'Coffrets de figurines pour enfants','Figurines pour enfants','Jeux et Jouets','Jeux et jouets','playmobil', ]
+tags: [ 'Jeux dimitation, déguisements et accessoires','Jeux et Jouets','Jeux et jouets','playmobil', ]
 actualPrice: 14.99 EUR
 currency: EUR
 price: 14.99
