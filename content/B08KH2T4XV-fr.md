@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '50.03 % rabais sur CRAZYCHIC - 10x Masque FFP2 NR Certifié '
-date: 2021-03-20 03:22:49
+date: 2021-03-23 12:50:19
 image: 'https://m.media-amazon.com/images/I/41u1gmHITkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [CRAZYCHIC - 10x Masque FFP2 NR Certifié Norme CE EN149 - Masque de P
 
 ℹ️:
 
+- COMPOSITION: Haute filtration avec 5 couches filtrantes. Barrette nasale métallique. Elastique fixation auriculaire.
 - LIVRAISON RAPIDE: Stock disponible en France.
 - MODELE: Masque de protection respiratoire FFP2. Demi-masque filtrant contre les particules.
-- NORME CE: Testé, certifié et conforme à la règlementation européenne EN149:2001+A1:2009 FFP2 NR. Masque non réutilisable à usage unique. Masque non médical.
-- COMPOSITION: Haute filtration avec 5 couches filtrantes. Barrette nasale métallique. Elastique fixation auriculaire.
 - CONDITIONNEMENT: 1 boîte de 10 pièces emballés individuellement. Packaging et notice en Français.
+- NORME CE: Testé, certifié et conforme à la règlementation européenne EN149:2001+A1:2009 FFP2 NR. Masque non réutilisable à usage unique. Masque non médical.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KH2T4XV/?tag=tolees0d-21)
