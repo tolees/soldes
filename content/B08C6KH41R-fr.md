@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Inconnu - Ça-Chapitre 1 & 2 [4K Ultra HD avec 22.74 % rabais '
-date: 2021-03-21 16:26:11
+date: 2021-03-23 04:38:49
 image: 'https://m.media-amazon.com/images/I/41XbMt8mz5L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Inconnu'
 buyurl: 'https://www.amazon.fr/dp/B08C6KH41R/?tag=tolees0d-21'
 descuento: '22.74'
-average: '53.4835555555556'
+average: '53.1863829787234'
 ---
 
 C'est en vente [Inconnu - Ça-Chapitre 1 & 2 [4K Ultra HD Blu-Ray Bonus-Édition boîtier SteelBook]](https://www.amazon.fr/dp/B08C6KH41R/?tag=tolees0d-21)  à  22.74 % de réduction, prix final  46.5 EUR (original: 60.19 EUR) ici:
