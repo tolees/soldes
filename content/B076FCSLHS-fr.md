@@ -28,8 +28,8 @@ Vous avez [HP Envy 6220 4800 x 1200DPI A Jet d encre Thermique A4 12ppm WiFi - M
 
 ℹ️:
 
-- Hauteur colis (cm): 20
 - Largeur colis (cm): 49,5
 - Longueur colis (cm): 48,5
+- Hauteur colis (cm): 20
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076FCSLHS/?tag=tolees0d-21)
