@@ -28,10 +28,10 @@ C'est en vente [Trust Gaming GXT 970 Morfix Souris Gamer MMO Personnalisable ave
 
 ℹ️:
 
-- Éclairage RGB totalement réglable avec effets multiples. Jusquà 14 boutons programmables séparément
-- Câble tressé (1,8 m)
-- 4 plaques latérales interchangeables par aimants pour personnaliser les boutons latéraux et leur forme. 2 plaques latérales gauches avec 3 ou 9 boutons, programmables pour tous les jeux. 2 plaques latérales droites de formes différentes
-- Capteur optique perfectionné avec résolution pouvant atteindre 10 000 ppp
 - Boutons de sélection de résolution avec témoin LED. Logiciel avancé pour programmer les boutons, les macros et les effets lumineux
+- Capteur optique perfectionné avec résolution pouvant atteindre 10 000 ppp
+- Câble tressé (1,8 m)
+- Éclairage RGB totalement réglable avec effets multiples. Jusquà 14 boutons programmables séparément
+- 4 plaques latérales interchangeables par aimants pour personnaliser les boutons latéraux et leur forme. 2 plaques latérales gauches avec 3 ou 9 boutons, programmables pour tous les jeux. 2 plaques latérales droites de formes différentes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C7TZYJZ/?tag=tolees0d-21)

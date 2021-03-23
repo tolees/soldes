@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '25.01 % rabais sur OneProtek 50 Masques FFP2 de protection '
-date: 2021-03-20 03:39:53
+title: '23.10 % rabais sur OneProtek 50 Masques FFP2 de protection '
+date: 2021-03-22 22:48:49
 image: 'https://m.media-amazon.com/images/I/41VRi6AsXuL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Bricolage','Masques de  protection','Masques de protection pour apparei
 actualPrice: 29.99 EUR
 currency: EUR
 price: 29.99
-comparePrice: 39.99 EUR
+comparePrice: 39.0 EUR
 prodname: 'OneProtek 50 Masques FFP2 de protection - FFP2 NR Certifié CE EN149 - Masque respirant jetable à 5 couches de filtration - Confortable et élastiques solides'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'OneProtek'
 buyurl: 'https://www.amazon.fr/dp/B08W9RLDY4/?tag=tolees0d-21'
-descuento: '25.01'
+descuento: '23.10'
 average: '29.99'
 ---
 
-Vous avez [OneProtek 50 Masques FFP2 de protection - FFP2 NR Certifié CE EN149 - Masque respirant jetable à 5 couches de filtration - Confortable et élastiques solides](https://www.amazon.fr/dp/B08W9RLDY4/?tag=tolees0d-21)  à  25.01 % de réduction, prix final  29.99 EUR (original: 39.99 EUR) ici:
+Vous avez [OneProtek 50 Masques FFP2 de protection - FFP2 NR Certifié CE EN149 - Masque respirant jetable à 5 couches de filtration - Confortable et élastiques solides](https://www.amazon.fr/dp/B08W9RLDY4/?tag=tolees0d-21)  à  23.10 % de réduction, prix final  29.99 EUR (original: 39.0 EUR) ici:
 
 [![OneProtek 50 Masques FFP2 de protection ](https://m.media-amazon.com/images/I/41VRi6AsXuL._SL400_.jpg)](https://www.amazon.fr/dp/B08W9RLDY4/?tag=tolees0d-21)
 

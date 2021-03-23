@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'SanDisk Extreme 1 To NVMe SSD  disque ex avec 35.86 % rabais '
-date: 2021-03-20 10:27:38
+title: 'SanDisk Extreme 1 To NVMe SSD  disque ex avec 32.27 % rabais '
+date: 2021-03-22 23:03:08
 image: 'https://m.media-amazon.com/images/I/41zwkV8VfPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08GTYFC37-fr SanDisk Extreme 1 To NVMe SSD disque externe USB-C jusqu à...'
 sku: 'B08GTYFC37-fr'
 tags: [ 'Informatique','Mémoire','Mémoire externe','SSD externes','sandisk', ]
-actualPrice: 160.99 EUR
+actualPrice: 169.99 EUR
 currency: EUR
-price: 160.99
+price: 169.99
 comparePrice: 250.99 EUR
 prodname: 'SanDisk Extreme 1 To NVMe SSD  disque externe  USB-C  jusqu à 1 050 Mo/s en vitesse de lecture et 1 000 Mo/s en vitesse d écriture  résistant à l eau et à la poussière'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'SanDisk'
 buyurl: 'https://www.amazon.fr/dp/B08GTYFC37/?tag=tolees0d-21'
-descuento: '35.86'
-average: '168.434444444444'
+descuento: '32.27'
+average: '168.49'
 ---
 
-C'est en vente [SanDisk Extreme 1 To NVMe SSD  disque externe  USB-C  jusqu à 1 050 Mo/s en vitesse de lecture et 1 000 Mo/s en vitesse d écriture  résistant à l eau et à la poussière](https://www.amazon.fr/dp/B08GTYFC37/?tag=tolees0d-21)  à  35.86 % de réduction, prix final  160.99 EUR (original: 250.99 EUR) ici:
+C'est en vente [SanDisk Extreme 1 To NVMe SSD  disque externe  USB-C  jusqu à 1 050 Mo/s en vitesse de lecture et 1 000 Mo/s en vitesse d écriture  résistant à l eau et à la poussière](https://www.amazon.fr/dp/B08GTYFC37/?tag=tolees0d-21)  à  32.27 % de réduction, prix final  169.99 EUR (original: 250.99 EUR) ici:
 
 [![SanDisk Extreme 1 To NVMe SSD  disque ex](https://m.media-amazon.com/images/I/41zwkV8VfPL._SL400_.jpg)](https://www.amazon.fr/dp/B08GTYFC37/?tag=tolees0d-21)
 
@@ -30,8 +30,8 @@ C'est en vente [SanDisk Extreme 1 To NVMe SSD  disque externe  USB-C  jusqu à 1
 
 - Voyagez lesprit tranquille avec une garantie limitée de 5 ans et une coque en silicone durable qui offre un design haut de gamme et une meilleure protection à lextérieur du disque
 - Aide à préserver la confidentialité du contenu grâce à la protection par mot de passe incluse comprenant un cryptage matériel AES 256 bits, Par SanDisk, la marque à laquelle des photographes professionnels du monde entier font confiance pour prendre leurs meilleurs clichés au cours de leurs missions les plus difficiles
+- Avec sa protection aux chutes jusquà deux mètres et sa résistance à leau et la poussière IP55, ce disque robuste ne craint presque rien
 - Utilisez la boucle mousqueton pratique pour lattacher en toute sécurité à votre ceinture ou votre sac à dos, garantissant une plus grande tranquillité desprit
 - Obtenez une performance SSD NVMe présentant des vitesses de 1 050 Mo/s en lecture et 1 000 Mo/s en écriture, grâce à un disque haute capacité idéal pour créer un contenu époustouflant ou saisir des séquences incroyables.
-- Avec sa protection aux chutes jusquà deux mètres et sa résistance à leau et la poussière IP55, ce disque robuste ne craint presque rien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GTYFC37/?tag=tolees0d-21)
