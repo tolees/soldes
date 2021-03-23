@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Microsoft - Casque Stéréo Xbox One avec 30.01 % rabais '
-date: 2021-03-22 11:16:50
+date: 2021-03-23 13:13:06
 image: 'https://m.media-amazon.com/images/I/41g42+fUlbL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Microsoft'
 buyurl: 'https://www.amazon.fr/dp/B07CHQJZJ9/?tag=tolees0d-21'
 descuento: '30.01'
-average: '46.6153333333333'
+average: '45.2476470588235'
 ---
 
 C'est en vente [Microsoft - Casque Stéréo Xbox One](https://www.amazon.fr/dp/B07CHQJZJ9/?tag=tolees0d-21)  à  30.01 % de réduction, prix final  34.99 EUR (original: 49.99 EUR) ici:
