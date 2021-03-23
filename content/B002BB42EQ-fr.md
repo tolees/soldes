@@ -28,10 +28,10 @@ Vous avez [Pentel Maxiflo Pochette 4 Marqueurs tableau blanc Pointe conique moye
 
 ℹ️:
 
-- Marqueur pour tableaux blancs
-- Dimensions : 140x70x10 mm
 - Encre liquide aux couleurs intenses
+- Dimensions : 140x70x10 mm
 - S’efface à sec sur tableau blanc, sans laisser de trace
+- Marqueur pour tableaux blancs
 - Bouton poussoir pour réencrer la pointe à tout moment
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002BB42EQ/?tag=tolees0d-21)

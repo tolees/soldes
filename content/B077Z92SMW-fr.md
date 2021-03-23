@@ -28,10 +28,10 @@ Vous avez [Casio Femmes Digital Quartz Montre avec Bracelet en Plastique LA-20WH
 
 ℹ️:
 
-- Résistant à leau: 3 bar Poids: 17 g
 - La montre est livrée dans une belle boîte cadeau avec une garantie de 2 ans
-- Bracelet de Haute qualité en Plastique Gris 19 cm de longueur et 14 mm de largeur avec un Fermoir Boucle Ardillon
 - Design sportif à la mode, parfait pour tous les types de sports, activités intérieures et extérieures ou usage quotidien -cette montre Digital a une function calendrier: Jour-Date, Chronographe, Alarme, Eclairage
 - Diamètre du boîtier: mm, Épaisseur du boîtier: 9 mm, Couleur du boîtier: Gris et Couleur du cadran: LCD
+- Résistant à leau: 3 bar Poids: 17 g
+- Bracelet de Haute qualité en Plastique Gris 19 cm de longueur et 14 mm de largeur avec un Fermoir Boucle Ardillon
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B077Z92SMW/?tag=tolees0d-21)
