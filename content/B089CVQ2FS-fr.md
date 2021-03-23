@@ -28,10 +28,10 @@ Vous avez [Popglory Montre connectée Smartwatch Cadiofréquencemètre Moniteur 
 
 ℹ️:
 
-- 【Notification Intelligente】Des messages et des appels seront bien informés, Relevez votre poignet, et lécran sallume automatiquement si bien que vous pourriez vérifier le message entrant. Vous pouvez aussi contrôler la musique de votre montre.
-- 【Compatibilité et d’autres Fonctionnalités】Cette montre est compatible avec les smartphones iOS 9.0 / Android OS 4.4 ou version ultérieure. Il reste aussi plus de fonctionalités comme alarme, chronomètre, photo à distance et réglage de la luminosité.
 - 【Un Must pour les Sports Quotidiens】Cette montre connectée dispose de 8 modes sportifs (marche, course, vélo, saut, badminton, basket-ball, football, natation), Elle peut aussi suivre vos activités comme les pas, les calories, la distance et les minutes actives quotidiennes, vous permettant de vous entraîner de manière plus scientifique.
-- 【Moniteur de la Santé】Cette montre faites toujours attention à votre santé physique et mentale, surveille votre fréquence cardiaque, pression artérielle, loxygène sanguin et votre sommeil. Il est à noter que les données ne sont utilisées quà des fins de référence.
+- 【Notification Intelligente】Des messages et des appels seront bien informés, Relevez votre poignet, et lécran sallume automatiquement si bien que vous pourriez vérifier le message entrant. Vous pouvez aussi contrôler la musique de votre montre.
 - 【Personnalisez Votre Montre】Cette montre prend en charge de fond décran personnalisé et la prévision météo, vous pouvez télécharger une photo préféré et définir votre résentant permanent pour vérifier la météo sur lAPP «HeroBandIII».
+- 【Compatibilité et d’autres Fonctionnalités】Cette montre est compatible avec les smartphones iOS 9.0 / Android OS 4.4 ou version ultérieure. Il reste aussi plus de fonctionalités comme alarme, chronomètre, photo à distance et réglage de la luminosité.
+- 【Moniteur de la Santé】Cette montre faites toujours attention à votre santé physique et mentale, surveille votre fréquence cardiaque, pression artérielle, loxygène sanguin et votre sommeil. Il est à noter que les données ne sont utilisées quà des fins de référence.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089CVQ2FS/?tag=tolees0d-21)

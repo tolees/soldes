@@ -28,10 +28,10 @@ C'est en vente [Seagate Game Drive 2 To  Disque dur externe portable HDD – Com
 
 ℹ️:
 
-- Augmentation facile du stockage de jeux pour votre PS4 - jusquà 2 To pour vous permettre dinstaller plus de 100 de vos jeux préférés.
-- Le Seagate Game Drive pour PS4 est compatible avec PS4, PS4 Slim and PS4 Pro.
 - Installation simple, il vous suffit de brancher le Game Drive sur votre console.
-- Emportez tous vos jeux avec vous pour jouer partout, même sur les consoles de vos amis
 - Configuration simple en moins de 3 minutes, guidée par la console
+- Le Seagate Game Drive pour PS4 est compatible avec PS4, PS4 Slim and PS4 Pro.
+- Augmentation facile du stockage de jeux pour votre PS4 - jusquà 2 To pour vous permettre dinstaller plus de 100 de vos jeux préférés.
+- Emportez tous vos jeux avec vous pour jouer partout, même sur les consoles de vos amis
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PPNSFBK/?tag=tolees0d-21)

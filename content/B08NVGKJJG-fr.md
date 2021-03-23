@@ -28,10 +28,10 @@ Vous avez [YISUN - Lampe Réveil Enfant avec Veilleuse 5 Couleurs Luminosité Lu
 
 ℹ️:
 
-- Les effets de lumière sont agréable, peut s’allume en imitant le lever de soleil, la fonction veilleuse est très pratique pour un enfant qui ne dort pas dans le noir complet, il y a aussi différents couleurs à selectionner pour accompagner le dodo.
 - ATTENTION: ce reveil fonctionne seulement sur secteur, la pile ne sert quà la sauvegarde de lheure mais ne permet pas de faire fonctionner le réveil.
-- Sa luminosité est bien visible le jour et séteint selon le temps que l’on souhaite la nuit, idéal pour que lenfant sendorme avec une lumière douce la nuit qui séteint ensuite automatiquement, aussi génial pour les petits enfants enclins aux cauchemars/terreurs.
+- Les effets de lumière sont agréable, peut s’allume en imitant le lever de soleil, la fonction veilleuse est très pratique pour un enfant qui ne dort pas dans le noir complet, il y a aussi différents couleurs à selectionner pour accompagner le dodo.
 - Avec une sonde de température, le réglage est assez simple à faire, laffichage est parfait même en pleine journée, le réveil dispose dune fonction de verrouillage de sécurité pour empêcher les enfants de changer accidentellement les fonctions réglées.
+- Sa luminosité est bien visible le jour et séteint selon le temps que l’on souhaite la nuit, idéal pour que lenfant sendorme avec une lumière douce la nuit qui séteint ensuite automatiquement, aussi génial pour les petits enfants enclins aux cauchemars/terreurs.
 - Côté sonorité, il y a 8 mélodies qui sont super minoutes et très douces, largement suffisant pour être gentiment tiré de son sommeil, cela est bien plus sympa pour se lever que les bipbipbip habituels!
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08NVGKJJG/?tag=tolees0d-21)

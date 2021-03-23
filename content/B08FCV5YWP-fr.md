@@ -28,10 +28,10 @@ C'est en vente [PDP Casque LVL40 Stereo pour Nintendo Switch Black](https://www.
 
 ℹ️:
 
-- Un micro bidirectionnel à réduction de bruit pour une communication claire
 - Coupez votre micro dun seul geste grâce à la fonction "flip-to-mute
+- Une construction légère et respirante pour les longues sessions de jeu
 - Entendez chaque commande grâce à de puissants pilotes audio 40 mm
 - Sous licence officielle de Nintendo
-- Une construction légère et respirante pour les longues sessions de jeu
+- Un micro bidirectionnel à réduction de bruit pour une communication claire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FCV5YWP/?tag=tolees0d-21)
