@@ -28,10 +28,10 @@ C'est en vente [Helly Hansen W HH Logo Hoodie Sweat Shirt Femme Navy FR : S  Tai
 
 ℹ️:
 
-- Sweat logo HH capuche
+- Coton et coupe moderne
 - Poche kangourou devant
+- Sweat logo HH capuche
 - Pour tous les jours et se sentir à laise
 - Capuche ajustable
-- Coton et coupe moderne
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073RPCXTK/?tag=tolees0d-21)

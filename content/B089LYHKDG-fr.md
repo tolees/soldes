@@ -28,10 +28,10 @@ C'est en vente [Drone avec caméra 720P  EACHINE-E61HW Drone en poche radiocomma
 
 ℹ️:
 
-- 【Alerte quand la batterie est faible】: Il a équipé un mécanisme d’alerter automatiquement. Une fois que la batterie soit faible. Il va atterir au sol automatiquement et les lamps LED brillant en même temps.
-- 【Protection complète】: Une housse de protection souple qui protège lavion lui-même de lintégrité de limpact. À partir de ce moment, l’avion n’est pas facilement endommagé et il est très pratique à installer et à désassembler.
-- 【Wifi FPV Transmission en temps réel】: Démarrez l’alimentation du drone, connectez le signal WIFI acheminé par le drone au téléphone mobile et sélectionnez le mode vidéo FPV sur l’APP pour lancer la fonction de transmission en temps réel de la vidéo de l’avion.
-- 【Contrôle simple à décoller / atterrir】: Un bouton de décollage et d’atterrisage qui laisse la contrôle plus facile.
 - 【Hauteur contrôle automatique】: Comme des grands avancés drones. EACHINE E61HW a équipé aussi le système de hauteur contrôle automatique. Cela ira donner des débutants une expérience de manipulation à l’aise.
+- 【Contrôle simple à décoller / atterrir】: Un bouton de décollage et d’atterrisage qui laisse la contrôle plus facile.
+- 【Protection complète】: Une housse de protection souple qui protège lavion lui-même de lintégrité de limpact. À partir de ce moment, l’avion n’est pas facilement endommagé et il est très pratique à installer et à désassembler.
+- 【Alerte quand la batterie est faible】: Il a équipé un mécanisme d’alerter automatiquement. Une fois que la batterie soit faible. Il va atterir au sol automatiquement et les lamps LED brillant en même temps.
+- 【Wifi FPV Transmission en temps réel】: Démarrez l’alimentation du drone, connectez le signal WIFI acheminé par le drone au téléphone mobile et sélectionnez le mode vidéo FPV sur l’APP pour lancer la fonction de transmission en temps réel de la vidéo de l’avion.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089LYHKDG/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [Samsung SSD Interne 970 PRO  1TB  - MZ-V7P1T0BW](https://www.ama
 
 ℹ️:
 
-- Fiabilité Exceptionnelle
-- Une performance supérieure
 - Technologie TurboWrite intelligente. Consommation électrique (en veille): Max. 30 mW (la consommation électrique réelle peut varier en fonction du matériel et de la configuration du système)
+- Fiabilité Exceptionnelle
 - Température de fonctionnement: 0 - 70 ℃
+- Une performance supérieure
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CGGRYVT/?tag=tolees0d-21)

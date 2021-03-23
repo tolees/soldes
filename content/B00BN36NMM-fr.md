@@ -29,11 +29,11 @@ Vous avez [D-Link DWR-921 Routeur 4G Mobile Wi-Fi N300 4G LTE - Module LTE/HSPA 
 ℹ️:
 
 - Le réseau étendu Ethernet supplémentaire constitue une option de sécurité intégrée qui vous garantit une connectivité Internet, même si votre ligne fixe ou mobile haut débit se coupe.
-- Configuration facile, sans paramètres complexes.
+- Créez votre propre borne sans fil N haut débit atteignant des vitesses de 150 Mbits/s.
 - Température de fonctionnement : 0 à 40 °C
 - Le double pare-feu actif et le chiffrement sans fil WPA/WPA2 garantissent la sécurité du réseau.
-- Créez votre propre borne sans fil N haut débit atteignant des vitesses de 150 Mbits/s.
 - La connectivité mobile 4G LTE vous permet détablir une connexion haut débit où que vous alliez.
+- Configuration facile, sans paramètres complexes.
 - Prise en charge des connexions bi-bandes 4G LTE et 3G pour basculer automatiquement sur une connexion 3G lorsque le signal 4G LTE est trop faible, pour toujours avoir accès à Internet.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BN36NMM/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Warner Bros. - Vampire Diaries-L intégrale de la Saison 4](https://w
 
 ℹ️:
 
-- Durée : 970 min
+- Date de sortie marché : Décembre 2013
 - Editeur : Warner Home Vidéo France
 - Titre : Vampire Diaries - Saison 4
-- Date de sortie marché : Décembre 2013
+- Durée : 970 min
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00GOYSLHK/?tag=tolees0d-21)

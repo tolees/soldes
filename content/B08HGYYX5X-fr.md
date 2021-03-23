@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Kiano Elegance TV 50" Pouces 4K UHD HDR1 avec 24.00 % rabais '
-date: 2021-03-22 17:16:17
+date: 2021-03-23 22:03:25
 image: 'https://m.media-amazon.com/images/I/41sPQ2oGZiL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Kiano'
 buyurl: 'https://www.amazon.fr/dp/B08HGYYX5X/?tag=tolees0d-21'
 descuento: '24.00'
-average: '376.353636363636'
+average: '376.407910447761'
 ---
 
 C'est en vente [Kiano Elegance TV 50" Pouces 4K UHD HDR10 Metal Case  Android TV 9.0 2GB RAM Metal Case [Téléviseur 127 cm Frameless 8GB] Smart TV  Netfilx  Youtube  Triple Tuner DVB-T2 C/S2  CI  PVR  WiFi](https://www.amazon.fr/dp/B08HGYYX5X/?tag=tolees0d-21)  à  24.00 % de réduction, prix final  379.99 EUR (original: 499.99 EUR) ici:

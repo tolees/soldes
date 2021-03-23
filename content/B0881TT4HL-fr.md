@@ -28,10 +28,10 @@ Vous avez [Xiaomi Redmi Note 9 Smartphone débloquée RAM 4 Go ROM 128 Go 6.53 �
 
 ℹ️:
 
+- Appareil photo: Quad, 48MP + 8MP + 2MP + 2MP
+- Écran: 6,53 ", 1080 x 2340 pixels
 - Processeur: Mediatek Helio G85 2GHz
 - OS: Android 10
 - Batterie: 5020 mAh
-- Appareil photo: Quad, 48MP + 8MP + 2MP + 2MP
-- Écran: 6,53 ", 1080 x 2340 pixels
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0881TT4HL/?tag=tolees0d-21)

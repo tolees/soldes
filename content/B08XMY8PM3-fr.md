@@ -28,9 +28,9 @@ C'est en vente [Parure de lit Réversible Harry Potter 100% Coton - Housse de Co
 
 ℹ️:
 
+- ✅ Cet ensemble de literie répond au label « Confiance textile – Testé substances nocives d’après OEKO-TEX Standard 100 ».
 - ✅ Cette parure de lit Hedwige convient parfaitement pour un lit 1 personne standard :)
 - ✅ Idéale pour tous les fans de Poudlard, cette parure de lit est en 100% coton et lavable en machine.
 - ✅ Cette parure de lit 2 pièces Harry Potter à leffigie dHedwige et de Poudlard comprend une housse de couette réversible 140x200 cm et une taie doreiller 65x65 cm.
-- ✅ Cet ensemble de literie répond au label « Confiance textile – Testé substances nocives d’après OEKO-TEX Standard 100 ».
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08XMY8PM3/?tag=tolees0d-21)
