@@ -28,10 +28,10 @@ Vous avez [HUGO Montre 1520006](https://www.amazon.fr/dp/B07H6R2QSQ/?tag=tolees0
 
 ℹ️:
 
+- Résistance à leau 3 ATM
 - Épaisseur du boîtier 9, 0 mm; Diamètre du boîtier 40 mm
+- Mouvement à Quartz à 3 aiguilles
 - Cadran noir avec logo Hugo inversé noir
 - Boîtier TR90 noir avec bracelet en Caoutchouc noir
-- Mouvement à Quartz à 3 aiguilles
-- Résistance à leau 3 ATM
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07H6R2QSQ/?tag=tolees0d-21)

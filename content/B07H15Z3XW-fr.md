@@ -28,8 +28,8 @@ C'est en vente [Hawkers One Montures de Lunettes  Noir  Negro/Rojo   Taille Uniq
 
 ℹ️:
 
-- 100% Plastique TR90
 - Monture noire en finition mate et lentilles à effet miroir rouges..
 - Non applicable
+- 100% Plastique TR90
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07H15Z3XW/?tag=tolees0d-21)
