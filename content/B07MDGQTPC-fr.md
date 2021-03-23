@@ -28,11 +28,11 @@ C'est en vente [VTECH- Montre Interactive DE Marcus Paw Patrol-Pat Patrouille Jo
 
 ℹ️:
 
+- 4 jeux pour faire des découvertes avec Marcus, apprendre à compter, découvrir les nombres et les formes.
+- Version française
 - Double affichage de l’heure : analogique ou digital.
 - Fonctions alarme/ réveil, coucou (qui retentit toutes les heures, fonction désactivable) chronomètre et sablier pour délimiter un temps donné
-- 4 jeux pour faire des découvertes avec Marcus, apprendre à compter, découvrir les nombres et les formes.
 - Une montre multifonction parlante aux couleurs de Marcus, le chien pompier de la PatPatrouille
-- Version française
 - Avec un écran animé avec 12 cadrans pour personnaliser sa montre et jouer avec ses héros préférés !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MDGQTPC/?tag=tolees0d-21)
