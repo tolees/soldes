@@ -28,11 +28,11 @@ Vous avez [VTech - Pat Patrouille - Mon livre-jeu éducatif - Livre Enfant Parla
 
 ℹ️:
 
-- Version française
-- Un établi interactif avec tous ses accessoires pour bricoler comme les grands !
-- 3 boutons lumineux et 3 engrenages pour découvrir les outils et les couleurs.
-- 7 chansons et 9 mélodies.
-- 2 cartes recto/verso à placer sur létabli avec 4 projets éducatifs
 - 3 modes de jeux : Découverte, Quiz Réparation et Musique.
+- Un établi interactif avec tous ses accessoires pour bricoler comme les grands !
+- 2 cartes recto/verso à placer sur létabli avec 4 projets éducatifs
+- 7 chansons et 9 mélodies.
+- 3 boutons lumineux et 3 engrenages pour découvrir les outils et les couleurs.
+- Version française
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086T6RNBN/?tag=tolees0d-21)

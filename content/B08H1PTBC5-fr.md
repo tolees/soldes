@@ -28,10 +28,10 @@ C'est en vente [LIHAO Kit de Mosaique Enfant Puzzle 3D  400pcs Jouet de Montesso
 
 ℹ️:
 
-- 🚎Jouet éducatif: un bon jeu de constuction qui peut déveloper la dextérité et limagination de l’enfant. Les parents peuvent également y participer, favorisant ainsi la communication et l’interaction parent-enfant.
-- 🚎Jeu amusant: de nombreuses pièces d’accessoires permettent à l’enfant de laisser libre court à l’imagination et passer du temps plaisant en créant des modèles 2D et 3D avec les amis!
-- 🚎Cadeau parfait: les jouets sont rangés dans une boîte de rangement en forme d’un chariot, qui est tres mignon et pratique, super idée cadeau d’anniversaire, de Noël, de Journée de l’enfance pour les enfants!
-- 🚎Haute qualité: toutes les accessoires sont faits de plastique ABS, non toxique et durable, sûr pour la santé des enfants. Leurs bords sont lisses après être soigneusement polies pour assurer que les enfants ne seront pas rayés.
 - 🚎Kit complète: ensemble de 400 pièces d’accessoires, y compris 384 pièces dassemblage, 6 cartes d’animaux, 4 étagères, 2 forets de perceuse, 1 perceuse électrique, 1 tournevis, 1 clé, 1 manuel.
+- 🚎Haute qualité: toutes les accessoires sont faits de plastique ABS, non toxique et durable, sûr pour la santé des enfants. Leurs bords sont lisses après être soigneusement polies pour assurer que les enfants ne seront pas rayés.
+- 🚎Cadeau parfait: les jouets sont rangés dans une boîte de rangement en forme d’un chariot, qui est tres mignon et pratique, super idée cadeau d’anniversaire, de Noël, de Journée de l’enfance pour les enfants!
+- 🚎Jeu amusant: de nombreuses pièces d’accessoires permettent à l’enfant de laisser libre court à l’imagination et passer du temps plaisant en créant des modèles 2D et 3D avec les amis!
+- 🚎Jouet éducatif: un bon jeu de constuction qui peut déveloper la dextérité et limagination de l’enfant. Les parents peuvent également y participer, favorisant ainsi la communication et l’interaction parent-enfant.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08H1PTBC5/?tag=tolees0d-21)
