@@ -28,10 +28,10 @@ C'est en vente [Sony HT-RT4 Barre de Son Surround 5.1  Bluetooth  enceintes colo
 
 ℹ️:
 
-- Connectivité Bluetooth facilitée grâce à la technologie NFC(tm) par simple contact
-- Remplissez la pièce dun authentique son Surround 5.1 canaux
 - Lecture audio USB1
-- Amplificateur numérique S-Master pour un son clair et précis
+- Remplissez la pièce dun authentique son Surround 5.1 canaux
 - Consommation électrique (mode veille): 0,4 W
+- Connectivité Bluetooth facilitée grâce à la technologie NFC(tm) par simple contact
+- Amplificateur numérique S-Master pour un son clair et précis
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0725FTG7Y/?tag=tolees0d-21)

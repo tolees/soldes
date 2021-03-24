@@ -29,7 +29,7 @@ Vous avez [Sveltus - Disque pour barre Olympique  10 ](https://www.amazon.fr/dp/
 ℹ️:
 
 - Poids: 10 kg - longue durée de vie
-- Compatible avec la barre olympique
 - 3 poignées pour une bonne adhérence, faciliter le changement de poids et permettre de multiplier les exercices
+- Compatible avec la barre olympique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D7L2FYL/?tag=tolees0d-21)

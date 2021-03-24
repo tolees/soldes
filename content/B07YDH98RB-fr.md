@@ -28,7 +28,7 @@ Vous avez [Xiaomi Redmi M1906G7G   Note8 Pro 6 GB RAM +128Gb  Vert](https://www.
 
 ℹ️:
 
-- Batterie: 4500 mAh (typ)
 - Xiaomi Redmi Note8 Pro 6+128Gb Vert EU
+- Batterie: 4500 mAh (typ)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YDH98RB/?tag=tolees0d-21)

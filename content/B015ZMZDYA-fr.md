@@ -28,10 +28,10 @@ C'est en vente [SCHEPPACH HS100S Scie Circulaire sur Table avec Hauteur de Coupe
 
 ℹ️:
 
-- Moteur puissant de 2000W et lame carbure de 250mm
-- Les deux élargissements de table à gauche et à droite augmentent la surface de travail lors de lusinage de grandes pièces
 - Volant de réglage combiné de la hauteur (max 85mm) et de linclinaison de la lame (max 45º)
+- Les deux élargissements de table à gauche et à droite augmentent la surface de travail lors de lusinage de grandes pièces
 - Livrée avec un protecteur de lame, un guide dange et un guide parallèle
 - La scie circulaire de Scheppach es un des outils les plus importants pour le particulier ou le professionnel, un équipement complet et facile à manipuler
+- Moteur puissant de 2000W et lame carbure de 250mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B015ZMZDYA/?tag=tolees0d-21)

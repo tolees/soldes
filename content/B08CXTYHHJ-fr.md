@@ -28,10 +28,10 @@ Vous avez [OIVO Chargeur Manette PS5  Chargeur Station de Playstation 5 avec Ind
 
 ℹ️:
 
-- 【Périphériques dalimentation】 Livré avec un câble USB C de 80 cm , une prise en charge alimentée par divers appareils, un adaptateur USB, un concentrateur USB, un adaptateur mural ou votre console Playstaton 5.
-- 【Protection multiple】Station de charge Manette PS5 avec puce de protection intégrée et composants de haute qualité empêchent le produit ou vos appareils de surintensité, de surtension et de court-circuit.
-- 【Indicateur de charge LED】: La LED rouge indique la charge et la LED verte indique que la charge est terminée. Si vous nen mettez quun sur la station, il y aura un voyant rouge et un voyant vert. Ces marquages supplémentaires vous permettent de mieux identifier létat de chaque charge de port.
 - 【Chargeur rapide pour Manette PS5】Cette station de charge est mise à niveau avec une puce en cuivre qui vous permet de charger deux contrôleurs Sony Playstation 5 en même temps et ils seront entièrement chargés dans les 2,5 heures.
+- 【Protection multiple】Station de charge Manette PS5 avec puce de protection intégrée et composants de haute qualité empêchent le produit ou vos appareils de surintensité, de surtension et de court-circuit.
 - 【Mise à niveau avec interrupteur marche / arrêt et sangle LED】 Ajout dun interrupteur marche / arrêt près du port USB C, il est très pratique de séteindre. La bande LED clignote lentement en état de charge comme si elle respirait.
+- 【Indicateur de charge LED】: La LED rouge indique la charge et la LED verte indique que la charge est terminée. Si vous nen mettez quun sur la station, il y aura un voyant rouge et un voyant vert. Ces marquages supplémentaires vous permettent de mieux identifier létat de chaque charge de port.
+- 【Périphériques dalimentation】 Livré avec un câble USB C de 80 cm , une prise en charge alimentée par divers appareils, un adaptateur USB, un concentrateur USB, un adaptateur mural ou votre console Playstaton 5.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CXTYHHJ/?tag=tolees0d-21)
