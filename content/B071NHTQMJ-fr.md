@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony NP-FZ100 Batterie Rechargeable Haut avec 29.99 % rabais '
-date: 2021-03-22 22:44:42
+date: 2021-03-24 04:13:19
 image: 'https://m.media-amazon.com/images/I/31SefXu62GL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B071NHTQMJ/?tag=tolees0d-21'
 descuento: '29.99'
-average: '74.8563218390804'
+average: '74.5898876404493'
 ---
 
 C'est en vente [Sony NP-FZ100 Batterie Rechargeable Haute Capacité pour Appareil Photo](https://www.amazon.fr/dp/B071NHTQMJ/?tag=tolees0d-21)  à  29.99 % de réduction, prix final  63.0 EUR (original: 89.99 EUR) ici:

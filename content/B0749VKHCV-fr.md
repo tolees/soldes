@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Interstellar [4K Ultra HD + Blu-Ray] avec 32.23 % rabais '
-date: 2021-03-23 04:25:57
+date: 2021-03-24 04:39:47
 image: 'https://m.media-amazon.com/images/I/51GygyCiK3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B0749VKHCV/?tag=tolees0d-21'
 descuento: '32.23'
-average: '17.542'
+average: '17.45'
 ---
 
 C'est en vente [Interstellar [4K Ultra HD + Blu-Ray]](https://www.amazon.fr/dp/B0749VKHCV/?tag=tolees0d-21)  à  32.23 % de réduction, prix final  16.99 EUR (original: 25.07 EUR) ici:
