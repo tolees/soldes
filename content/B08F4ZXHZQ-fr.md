@@ -28,10 +28,10 @@ Vous avez [Astragon Entertainment - Liftoff: Drone Racing Deluxe Edition  PS4 ](
 
 ℹ️:
 
-- La fameuse série Liftoff débarque pour la première fois sur console avec des commandes prévues pour les pros comme pour les novices
-- De nombreux modes de jeu : freestyle, vol libre, multijoueur et un mode campagne pour passer "de débutant à expert" avec un système de progression adapté
-- Plus de 100 drones, pièces, apparences et caméras issues de marques et fabricants réputés comme Rotor Riot, Armattan et Immersion RC
-- Des circuits totalement indépendants, qui nappartiennent à aucune ligue de course ni aucun parcours existant
 - 12 environnements totalement différents, comme un garage souterrain, une grange, un site de construction, une forêt et bien dautres
+- De nombreux modes de jeu : freestyle, vol libre, multijoueur et un mode campagne pour passer "de débutant à expert" avec un système de progression adapté
+- La fameuse série Liftoff débarque pour la première fois sur console avec des commandes prévues pour les pros comme pour les novices
+- Des circuits totalement indépendants, qui nappartiennent à aucune ligue de course ni aucun parcours existant
+- Plus de 100 drones, pièces, apparences et caméras issues de marques et fabricants réputés comme Rotor Riot, Armattan et Immersion RC
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F4ZXHZQ/?tag=tolees0d-21)
