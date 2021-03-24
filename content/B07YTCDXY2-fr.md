@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '44.47 % rabais sur Joker [4K Ultra HD + Blu-Ray-Édition boî'
-date: 2021-03-22 22:59:53
+date: 2021-03-24 12:32:14
 image: 'https://m.media-amazon.com/images/I/51Jon5lMXaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B07YTCDXY2/?tag=tolees0d-21'
 descuento: '44.47'
-average: '22.2340740740741'
+average: '22.1360714285714'
 ---
 
 Vous avez [Joker [4K Ultra HD + Blu-Ray-Édition boîtier SteelBook]](https://www.amazon.fr/dp/B07YTCDXY2/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  19.49 EUR (original: 35.1 EUR) ici:

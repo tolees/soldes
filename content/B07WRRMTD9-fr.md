@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sharp TV LED Ultra HD 4K 126 cm 50BL2EA  avec 17.53 % rabais '
-date: 2021-03-23 04:29:09
+date: 2021-03-24 12:39:19
 image: 'https://m.media-amazon.com/images/I/41Q--NnRBdL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sharp'
 buyurl: 'https://www.amazon.fr/dp/B07WRRMTD9/?tag=tolees0d-21'
 descuento: '17.53'
-average: '450.347407407408'
+average: '453.359310344828'
 ---
 
 C'est en vente [Sharp TV LED Ultra HD 4K 126 cm 50BL2EA HDR Android TV  Fluidité 600 Active Motion  A+  WiFi intégré  Noir](https://www.amazon.fr/dp/B07WRRMTD9/?tag=tolees0d-21)  à  17.53 % de réduction, prix final  494.02 EUR (original: 599.0 EUR) ici:
@@ -28,12 +28,12 @@ C'est en vente [Sharp TV LED Ultra HD 4K 126 cm 50BL2EA HDR Android TV  Fluidit�
 
 ℹ️:
 
-- Tuner Terrestre / Câble / Satellite : DVB-T/T2/C/S/S2
+- HDR
+- Indice de fluidité : 600 Active motion
 - Classe énergétique A+
 - Sharp 50BL2EA Téléviseur LED 4K Ultra HD 50 (126 cm) 3840 x 2160 pixels
-- Indice de fluidité : 600 Active motion
-- Wifi intégré / Bluetooth
-- HDR
+- Tuner Terrestre / Câble / Satellite : DVB-T/T2/C/S/S2
 - Connecté : Smart TV / Android TV
+- Wifi intégré / Bluetooth
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WRRMTD9/?tag=tolees0d-21)

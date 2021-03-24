@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '25.08 % rabais sur Champion Legacy Performance Crew  Lot de'
-date: 2021-03-23 04:33:43
+date: 2021-03-24 12:30:04
 image: 'https://m.media-amazon.com/images/I/41Uu24GnFKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Champion'
 buyurl: 'https://www.amazon.fr/dp/B00ZUGMPMU/?tag=tolees0d-21'
 descuento: '25.08'
-average: '11.413804347826'
+average: '11.4092553191489'
 ---
 
 Vous avez [Champion Legacy Performance Crew  Lot de 6 paires de Chaussettes  Homme Noir  43-46](https://www.amazon.fr/dp/B00ZUGMPMU/?tag=tolees0d-21)  à  25.08 % de réduction, prix final  11.2 EUR (original: 14.95 EUR) ici:
