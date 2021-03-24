@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sony HT-RT4 Barre de Son Surround 5.1  B avec 16.72 % rabais '
-date: 2021-03-23 04:49:02
+date: 2021-03-24 20:15:03
 image: 'https://m.media-amazon.com/images/I/31D3vZ0T-QL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [Sony HT-RT4 Barre de Son Surround 5.1  Bluetooth  enceintes colo
 
 ℹ️:
 
-- Lecture audio USB1
 - Connectivité Bluetooth facilitée grâce à la technologie NFC(tm) par simple contact
 - Remplissez la pièce dun authentique son Surround 5.1 canaux
+- Lecture audio USB1
 - Amplificateur numérique S-Master pour un son clair et précis
 - Consommation électrique (mode veille): 0,4 W
 
