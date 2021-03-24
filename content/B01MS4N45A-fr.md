@@ -28,10 +28,10 @@ C'est en vente [Support Mural TV Perlegear pour écrans 37-75 Pouces LED LCD Pla
 
 ℹ️:
 
+- COMPATIBILITÉ UNIVERSELLE – Ce support TV orientable s’ajuste aux écrans plats de 37 à 75 pouces (94cm-190cm) pesant jusqu’à 60Kg. Notre VESA (standards pour l’installation de téléviseurs) est compatible avec les dimensions VESA 200X100mm 200X200mm 300X200mm 300X300mm 400X300mm 400X400mm 600X400mm.
 - ÉCONOMISER DE L’ESPACE – Ce support muraux TV se rétracte jusquà seulement 71mm (2.8’’) du mur pour économiser de l’espace et peut aussi s’écarter jusqu’à 40cm (16’’) pour s’ajuster à vos besoins. Il vous libère de l’espace tout à la fois qu’il donne une apparence soignée et ordonnée à votre maison.
 - INSTALLATION MULTIPLE: Livré avec des boulons et des entretoises, notre support mural doit supporter un support de téléviseur plat et courbé. Avec l’ancrage en béton fourni, ce support de téléviseur peut être monté sur n’importe quel poteau de bois, brique ou mur de béton (ne PAS monter sur des cloisons sèches seul) .
-- ULTRA RESISTANT ET SÛR – Étiez sûr que votre TV est en bonnes mains. Notre support mural pour TV de grand calibre suit des normes élevées, pour soutenir des télés de 37 à 75 pouces et jusqu’à 60kg, il a été testé pour supporter 4 fois le poids avec lequel il est classé selon les normes UL donc en réalité il peut supporter jusqu’à 240kg !
-- COMPATIBILITÉ UNIVERSELLE – Ce support TV orientable s’ajuste aux écrans plats de 37 à 75 pouces (94cm-190cm) pesant jusqu’à 60Kg. Notre VESA (standards pour l’installation de téléviseurs) est compatible avec les dimensions VESA 200X100mm 200X200mm 300X200mm 300X300mm 400X300mm 400X400mm 600X400mm.
 - ANGLES DE VISION OPTIMAL – Notre fixation TV a une inclinaison de +5°/-15°, une orientation de +/-45° et une rotation de +/-3° pour offrir la maximum flexibilité de vision. Choisissez l’angle adéquat pour voir votre écran dès une position saine et confortable.
+- ULTRA RESISTANT ET SÛR – Étiez sûr que votre TV est en bonnes mains. Notre support mural pour TV de grand calibre suit des normes élevées, pour soutenir des télés de 37 à 75 pouces et jusqu’à 60kg, il a été testé pour supporter 4 fois le poids avec lequel il est classé selon les normes UL donc en réalité il peut supporter jusqu’à 240kg !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MS4N45A/?tag=tolees0d-21)
