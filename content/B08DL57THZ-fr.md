@@ -28,10 +28,10 @@ C'est en vente [Pentel SES15C Brush Sign Pen marqueur pointe flexible 12 couleur
 
 ℹ️:
 
+- Pointe flexible en fibre pour des traits épais et fins avec un seul outil
 - Produit fabriqué avec 82 % de matériaux recyclés (sauf pièces consommables et/ou de rechange)
-- 12 couleurs brillantes (noir, rouge, bleu, vert, marron, orange, jaune, gris, rose, bleu clair, violet, ocre)
 - Idéal pour la lettration, lillustration, la calligraphie et les croquis et les croquis
 - Encre à base deau
-- Pointe flexible en fibre pour des traits épais et fins avec un seul outil
+- 12 couleurs brillantes (noir, rouge, bleu, vert, marron, orange, jaune, gris, rose, bleu clair, violet, ocre)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08DL57THZ/?tag=tolees0d-21)
