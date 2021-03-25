@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Education 45300 Ensemble de Base avec 17.17 % rabais '
-date: 2021-03-23 23:45:45
+date: 2021-03-25 03:38:39
 image: 'https://m.media-amazon.com/images/I/41FkGO9mY-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B01A9A9XLW/?tag=tolees0d-21'
 descuento: '17.17'
-average: '192.98805970149'
+average: '192.176811594201'
 ---
 
 C'est en vente [LEGO Education 45300 Ensemble de Base](https://www.amazon.fr/dp/B01A9A9XLW/?tag=tolees0d-21)  à  17.17 % de réduction, prix final  165.0 EUR (original: 199.2 EUR) ici:
@@ -28,15 +28,15 @@ C'est en vente [LEGO Education 45300 Ensemble de Base](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Caisse de rangement résistante et plateau de tri pour une gestion aisée de la classe
-- Évaluation intégrée
+- Compétences de collaboration et de présentation
+- Outil de documentation intégré pour apporter un support informatif aux projets : images, captures décran, vidéos et texte
 - Compétences de base en programmation
 - Esprit critique et résolution des problèmes ACV :
+- Évaluation intégrée
 - Implication des élèves dans les domaines scientifiques en les rendant tangibles et pertinents
-- Outil de documentation intégré pour apporter un support informatif aux projets : images, captures décran, vidéos et texte
-- Observation, modélisation et conception de solutions
-- Disponible sur ordinateur et sur tablette
 - Principales valeurs pédagogiques :
-- Compétences de collaboration et de présentation
+- Caisse de rangement résistante et plateau de tri pour une gestion aisée de la classe
+- Disponible sur ordinateur et sur tablette
+- Observation, modélisation et conception de solutions
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01A9A9XLW/?tag=tolees0d-21)
