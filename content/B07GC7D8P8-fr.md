@@ -28,15 +28,15 @@ Vous avez [Krups Nespresso - Nespresso Krups Machine Expresso Vertuo Plus Noir M
 
 ℹ️:
 
-- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur de café choisie
-- ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
 - OUVERTURE ET FERMETURE ELECTRONIQUES
-- 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à l’Alto, en passant par le Mug
-- CAPSULES : 28 VARIETES DE CAFE Vertuo dans 5 longueurs de tasses : 40ml, 80ml, 150ml, 230ml, 410ml
 - RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
-- EJECTION AUTOMATIQUE DES CAPSULES
+- ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
+- 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos dégustations de café : de l’Espresso jusqu’à l’Alto, en passant par le Mug
+- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur de café choisie
+- CAPSULES : 28 VARIETES DE CAFE Vertuo dans 5 longueurs de tasses : 40ml, 80ml, 150ml, 230ml, 410ml
+- Remarque: larticle est compatible avec 5 tailles de tasse différentes, ne contient pas 5 tasses
 - UN SYSTÈME D’EXTRACTION EXCLUSIF, la CENTRIFUSION, alliant infusion et force centrifuge pour un café de haute qualité
 - RESERVOIR DEAU MODULABLE
-- Remarque: larticle est compatible avec 5 tailles de tasse différentes, ne contient pas 5 tasses
+- EJECTION AUTOMATIQUE DES CAPSULES
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GC7D8P8/?tag=tolees0d-21)

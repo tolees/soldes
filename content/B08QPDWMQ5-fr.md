@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - Hyrule Warriors - L ère du Fl avec 36.43 % rabais '
-date: 2021-03-24 04:21:51
+date: 2021-03-25 09:16:13
 image: 'https://m.media-amazon.com/images/I/510iULpcPcL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B08QPDWMQ5/?tag=tolees0d-21'
 descuento: '36.43'
-average: '45.7400000000001'
+average: '45.4900000000001'
 ---
 
 C'est en vente [Nintendo - Hyrule Warriors - L ère du Fléau](https://www.amazon.fr/dp/B08QPDWMQ5/?tag=tolees0d-21)  à  36.43 % de réduction, prix final  44.49 EUR (original: 69.99 EUR) ici:

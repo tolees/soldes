@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.44 % rabais sur Sony MHC-V02 Enceinte Portable High Powe'
-date: 2021-03-24 06:38:32
+date: 2021-03-25 09:19:48
 image: 'https://m.media-amazon.com/images/I/31LbtZ1h0gL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B07MBPRYC8/?tag=tolees0d-21'
 descuento: '30.44'
-average: '159.194'
+average: '159.266363636364'
 ---
 
 Vous avez [Sony MHC-V02 Enceinte Portable High Power Bluetooth](https://www.amazon.fr/dp/B07MBPRYC8/?tag=tolees0d-21)  à  30.44 % de réduction, prix final  159.99 EUR (original: 230.0 EUR) ici:
@@ -28,10 +28,10 @@ Vous avez [Sony MHC-V02 Enceinte Portable High Power Bluetooth](https://www.amaz
 
 ℹ️:
 
-- Lecture multisource (Bluetooth/NFC, CD, DVD, USB, etc …) Lenceinte MHC-V02D comporte également des entrées pour brancher une guitare et/ou un micro.
 - Design compact et pratique avec des poignées intégrées et un trépied.
 - Gérez la fête depuis la piste de danse, grâce à lapplication Sony Musique Centre ou au plug in Fiestable.
-- Son puissant et fonction Jet Bass Booster pour remplir la pièce de basses
+- Lecture multisource (Bluetooth/NFC, CD, DVD, USB, etc …) Lenceinte MHC-V02D comporte également des entrées pour brancher une guitare et/ou un micro.
 - EQ vidéo: MOVIE / GAME / DRAMA / NEWS
+- Son puissant et fonction Jet Bass Booster pour remplir la pièce de basses
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MBPRYC8/?tag=tolees0d-21)
