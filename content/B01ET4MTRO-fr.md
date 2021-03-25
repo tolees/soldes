@@ -29,7 +29,7 @@ Vous avez [Helly Hansen Aden Veste Femme  Blanc  M](https://www.amazon.fr/dp/B01
 ℹ️:
 
 - W Aden Long Veste - Veste
-- Référence: 62648 - Helly Hansen
 - Blanc - (White) - Taille M
+- Référence: 62648 - Helly Hansen
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01ET4MTRO/?tag=tolees0d-21)

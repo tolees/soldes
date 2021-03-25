@@ -28,14 +28,14 @@ Vous avez [Moulinex Optimo Four électrique 39 L Chaleur tournante 6 modes de cu
 
 ℹ️:
 
+- 6 MODES DE CUISSON : chaleur tournante, traditionnelle, gril, pâtisserie, bain-marie et décongélation
+- FOUR ELECTRIQUE : chaleur tournante d’une capacité de 39 L
 - THERMOSTAT : réglable jusquà 240°C
 - DIMENSIONS CAVITE INTERIEURE : L 40,5 cm x P 32,3 cm x H 30,8 cm
 - EXCLUSIVITE : inclus une pierre en cordiérite, une pelle à pizza, une grille réversible, des incontournables qui vous permettront de réussir des pizzas moelleuses et croustillantes comme au restaurant
-- PUISSANCE : 2000 W
 - Réparabilité 10 ans, Garantie 2 ans
-- FOUR ELECTRIQUE : chaleur tournante d’une capacité de 39 L
-- DESIGN MODERNE : une inspiration vintage qui s’intègre parfaitement dans toutes les cuisines
 - MINUTERIE : 120 minutes
-- 6 MODES DE CUISSON : chaleur tournante, traditionnelle, gril, pâtisserie, bain-marie et décongélation
+- DESIGN MODERNE : une inspiration vintage qui s’intègre parfaitement dans toutes les cuisines
+- PUISSANCE : 2000 W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DYJMKN2/?tag=tolees0d-21)
