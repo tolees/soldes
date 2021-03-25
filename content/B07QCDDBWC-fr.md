@@ -28,11 +28,11 @@ C'est en vente [Pinypon - Camping-Car Cool  Ensemble de Jouets et Accessoires Lu
 
 ℹ️:
 
-- Collectionne toutes les figurines et accessoires Pinypon pour plus de jouabilité !
 - Pivote la tête de ta figurine, tu verras, il y a deux expressions de visage possibles !
-- Lits superposés, armoire girly, barbecue, boule à facettes et même une superbe piscine avec plongeoir ! Tout pour passer un séjour inoubliable !
 - C’est parti pour des vacances de rêve grâce au camping car Pinypon
-- Contenu : 1 camping car + 1 figurine Pinypon de 8 cm + plus de 40 accessoires
 - Âge : 4+
+- Contenu : 1 camping car + 1 figurine Pinypon de 8 cm + plus de 40 accessoires
+- Lits superposés, armoire girly, barbecue, boule à facettes et même une superbe piscine avec plongeoir ! Tout pour passer un séjour inoubliable !
+- Collectionne toutes les figurines et accessoires Pinypon pour plus de jouabilité !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QCDDBWC/?tag=tolees0d-21)

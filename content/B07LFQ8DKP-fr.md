@@ -28,10 +28,10 @@ Vous avez [Petsfit Niche intérieure en bois pour petits chiens 102cm x 53cm x 6
 
 ℹ️:
 
-- Vous pouvez peindre et teindre vous-même lintérieur pour laméliorer. Dimension intérieure : 74cm x 48cm 47cm
 - Petsfit niche en bois pour petits chiens < 7kg
-- Pieds surélevés de 5 cm pour garder vos animaux au sec
 - TAPIS NON INCLUS. Une seule étape dinstallation, aucun assemblage nest nécessaire.
+- Pieds surélevés de 5 cm pour garder vos animaux au sec
+- Vous pouvez peindre et teindre vous-même lintérieur pour laméliorer. Dimension intérieure : 74cm x 48cm 47cm
 - Dimensions de la porte : 24cm x 34cm, plus de détails sur les dimensions, veuillez vous référer à la 2ème photo.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LFQ8DKP/?tag=tolees0d-21)
