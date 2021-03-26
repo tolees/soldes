@@ -28,10 +28,10 @@ C'est en vente [Puma 851794 Sweat-Shirts Femme Cotton Black FR : XL  Taille Fabr
 
 ℹ️:
 
-- Col rond, poignets
-- Ourlet côtelés
 - 68% coton, 32% polyester
+- Ourlet côtelés
 - Coupe décontractée avec épaules légèrement tombantes
+- Col rond, poignets
 - Impression pigmentaire du logo n° 1
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07D5VF3Q3/?tag=tolees0d-21)

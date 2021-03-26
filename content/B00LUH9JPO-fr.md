@@ -28,9 +28,9 @@ C'est en vente [LEZYNE Control Drive Pompe à CO2 Argent](https://www.amazon.fr/
 
 ℹ️:
 
-- Robinet de control
+- Néoprène de protection
 - Néoprène de protection
 - 1 cartouche 16g
-- Néoprène de protection
+- Robinet de control
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00LUH9JPO/?tag=tolees0d-21)

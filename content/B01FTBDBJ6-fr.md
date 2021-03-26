@@ -28,8 +28,8 @@ Vous avez [REVLON PROFESSIONALEquave Soin Démêlant Instantané sans Rinçage 2
 
 ℹ️:
 
-- Un produit exclusif de la marque Revlon
 - Equave Instant Beauty - conditionneur démêlant nourrissant de la marque Revlon
+- Un produit exclusif de la marque Revlon
 - Equave Instant Beauty - conditionneur démêlant nourrissant pour Femme
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01FTBDBJ6/?tag=tolees0d-21)
