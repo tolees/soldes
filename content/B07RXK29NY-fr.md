@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HBO - Game Of Thrones  Le Trône de Fer   avec 37.73 % rabais '
-date: 2021-03-23 06:05:37
+date: 2021-03-26 06:05:18
 image: 'https://m.media-amazon.com/images/I/51BMusAt1GL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'HBO'
 buyurl: 'https://www.amazon.fr/dp/B07RXK29NY/?tag=tolees0d-21'
 descuento: '37.73'
-average: '23.79'
+average: '24.1328571428571'
 ---
 
 C'est en vente [HBO - Game Of Thrones  Le Trône de Fer  - Saison 8](https://www.amazon.fr/dp/B07RXK29NY/?tag=tolees0d-21)  à  37.73 % de réduction, prix final  24.99 EUR (original: 40.13 EUR) ici:
