@@ -28,11 +28,11 @@ C'est en vente [Granions Conceptio DUO 2x90 Cap. + 2x30 Sachets = 60 J pour Homm
 
 ℹ️:
 
-- complexe breveté : le complexe enzy ox, qui résulte de lassociation de coenzyme q10, vitamine b6 et vitamine e qui contribue à protéger les cellules du stress oxydatif
-- marque francaise - produit conditionné en france
 - oligoéléments : le zinc qui contribue à une fertilité et une reproduction normales, le sélénium qui contribue à une spermatogénèse normale
-- Poids du colis: 0.4 kilograms
-- acide aminé et acide gras : la l-carnitine, un acide aminé. lacide docosahexaenoïque (dha), fait partie de la famille des omega-3. il est retrouvé principalement dans lhuile de poisson
 - conceptio homme est un complément alimentaire du laboratoire des granions, spécifiquement conçu pour les besoins de lhomme en période de périconception
+- Poids du colis: 0.4 kilograms
+- complexe breveté : le complexe enzy ox, qui résulte de lassociation de coenzyme q10, vitamine b6 et vitamine e qui contribue à protéger les cellules du stress oxydatif
+- acide aminé et acide gras : la l-carnitine, un acide aminé. lacide docosahexaenoïque (dha), fait partie de la famille des omega-3. il est retrouvé principalement dans lhuile de poisson
+- marque francaise - produit conditionné en france
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08TS6JJ35/?tag=tolees0d-21)

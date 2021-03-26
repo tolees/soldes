@@ -30,10 +30,10 @@ Vous avez [Disque SSD SanDisk Extreme PRO 3D M.2 NVMe 500 Go](https://www.amazon
 
 - Des vitesses de lecture sans égal allant jusquà 3 400 Mo/s, soit 6 fois plus rapides que les disques SSD SATA ; 25 fois plus rapides que les disques durs internes des ordinateurs portables classiques
 - Compatibilité : emplacement M.2 2280 prenant en charge le protocole PCIE 3.0 x4 NVMe pour des performances extrêmes ; rétrocompatible avec PCIe 2.0 x4 ; Windows 10, 8.1, 7
-- Facile à installer et à gérer—aucune assistance technique nécessaire. Utilise le tableau de bord pour disque SSD SanDisk afin de vérifier létat du disque
-- Fournit jusquà 500 000 IOPS en lecture aléatoire sur protocole NVMe pour un rendement extrême, idéal pour les applications multithread et les environnements multitâches exigeants en données.
 - Construit avec la technologie NAND 3D pour une durabilité, une capacité et une vitesse plus élevées que jamais
+- Facile à installer et à gérer—aucune assistance technique nécessaire. Utilise le tableau de bord pour disque SSD SanDisk afin de vérifier létat du disque
 - La technologie SanDisk nCache 3.0 fournit des vitesses de démarrage rapides pour un chargement des applications, une navigation Web et des temps de rendu accélérés
+- Fournit jusquà 500 000 IOPS en lecture aléatoire sur protocole NVMe pour un rendement extrême, idéal pour les applications multithread et les environnements multitâches exigeants en données.
 - Conçu pour les charges de travail les plus exigeantes allant jusquà 1200 TBW [2 To uniquement; 600 TBW pour 1 To; 300 TBW pour 500 Go]
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BSSFB4N/?tag=tolees0d-21)

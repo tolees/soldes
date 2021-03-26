@@ -28,10 +28,10 @@ C'est en vente [REMINISCENCE Eau de Toilette Femme Patchouli - 50 ml](https://ww
 
 ℹ️:
 
+- Patchouli Pour Femme eau de Toilette by the brand Reminiscence for Women - Ref. Q8940450
+- Patchouli Pour Femme eau de Toilette from the brand Reminiscence
 - Patchouli Pour Femme eau de Toilette from the brand Reminiscence
 - Patchouli Pour Femme eau de Toilette from the brand Reminiscence
 - 50ml
-- Patchouli Pour Femme eau de Toilette by the brand Reminiscence for Women - Ref. Q8940450
-- Patchouli Pour Femme eau de Toilette from the brand Reminiscence
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001N7R1OM/?tag=tolees0d-21)

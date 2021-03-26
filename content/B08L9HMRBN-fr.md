@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'FFP2 Masque de Protection - Boîte 10 piè avec 44.77 % rabais '
-date: 2021-03-25 00:35:27
+date: 2021-03-26 22:01:52
 image: 'https://m.media-amazon.com/images/I/51dNT9hACyL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [FFP2 Masque de Protection - Boîte 10 pièces - Certifié CE| av
 
 ℹ️:
 
-- Certifié CE |
-- Fait de 5 épaisseurs de textile non tissé, soufflé par fusion, résistant à lhumidité, non toxique, non irritant
-- Élastiques & Clip de nez adaptable| Les oreillettes élastiques de haute qualité le rendent confortable à porter pendant une longue période. | Tissu non tissé respirable empêchant la poussière, le pollen, etc.
-- Boite de 10 Masques - 2 Pochettes de 5 Masques
 - Nos masques FFP2 répondent à la norme EN149 qui requièrent une efficacité de filtration bactérienne (EFB) : >=99% des bactéries de 3µm et plus & une efficacité de filtration des particules (EFP) >= 95% sont utilisés pour filtrer 94% des particules en suspension dans lair. Le taux de fuite total doit être inférieur ou égal à 11%. Ils sont utilisés pour filtrer 94% des particules en suspension dans lair. Le taux de fuite total doit être inférieur ou égal à 11%
+- Élastiques & Clip de nez adaptable| Les oreillettes élastiques de haute qualité le rendent confortable à porter pendant une longue période. | Tissu non tissé respirable empêchant la poussière, le pollen, etc.
+- Certifié CE |
+- Boite de 10 Masques - 2 Pochettes de 5 Masques
+- Fait de 5 épaisseurs de textile non tissé, soufflé par fusion, résistant à lhumidité, non toxique, non irritant
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08L9HMRBN/?tag=tolees0d-21)

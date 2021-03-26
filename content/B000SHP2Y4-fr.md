@@ -28,9 +28,9 @@ Vous avez [Pentel Ball R 50 C Stylo Feutre à bille pointe plastique 0 8 mm Encr
 
 ℹ️:
 
-- Feutre à bille Pentel R50
 - Pointe en plastique de 0,8mm
-- Encre bleue
 - Ecriture douce, grand confort décriture
+- Encre bleue
+- Feutre à bille Pentel R50
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000SHP2Y4/?tag=tolees0d-21)
