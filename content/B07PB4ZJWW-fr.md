@@ -29,9 +29,9 @@ Vous avez [BISSELL SmartClean | Aspirateur Traineau sans Sac avec Brosse Intégr
 ℹ️:
 
 - Système de vidange hygiénique : le design multi-cyclonique breveté offre des performances puissantes et permet de vider le réservoir sans efforts: vos mains restent propres.
-- Puissance daspiration (aW): 194 aW
-- Un rayon de fonctionnement de 12 m, un suceur plat et une brosse à épousseter sont intégrés et permettent un nettoyage optimal.+-
 - La poignée est dotée dune brosse à épousseter intégrée pour un nettoyage sans effort du sol.
 - Le SmarClean PassiveFoot est composé dune buse multi-surface avec brosses de nettoyage de bord : optimisée pour une performance de nettoyage puissante de tous les types de sols. Les brosses de nettoyage retirent facilement les débris des plinthes.
+- Puissance daspiration (aW): 194 aW
+- Un rayon de fonctionnement de 12 m, un suceur plat et une brosse à épousseter sont intégrés et permettent un nettoyage optimal.+-
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PB4ZJWW/?tag=tolees0d-21)
