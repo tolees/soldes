@@ -28,9 +28,9 @@ Vous avez [LEGO La Voiture de Patrouille de la Police](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Comprend une voiture de police LEGO avec un toit amovible, de la place à l’intérieur pour une figurine et des décorations emblématiques.
 - Comprend une figurine d’officier de police de LEGO.
-- La voiture de patrouille mesure plus de 4 cm de haut, 12 cm de long et 5 cm de large.
 - Inclut également 2 cônes de circulation de police.
+- La voiture de patrouille mesure plus de 4 cm de haut, 12 cm de long et 5 cm de large.
+- Comprend une voiture de police LEGO avec un toit amovible, de la place à l’intérieur pour une figurine et des décorations emblématiques.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNW8PHF/?tag=tolees0d-21)

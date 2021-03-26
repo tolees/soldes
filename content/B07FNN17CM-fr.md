@@ -28,10 +28,10 @@ C'est en vente [LEGO City - La caserne de pompiers - 60215 - Jeu de construction
 
 ℹ️:
 
-- 509 pièces pour les filles et les garçons à partir de 5 ans
+- Inclut 4 figurines LEGO City : un chef des pompiers et 3 pompiers, plus une figurine de chien de pompiers
+- La caserne des pompiers mesure plus de 28 cm de haut, 21 cm de large et 27 cm de profondeur
 - Construisez la caserne des pompiers LEGO City
 - Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- La caserne des pompiers mesure plus de 28 cm de haut, 21 cm de large et 27 cm de profondeur
-- Inclut 4 figurines LEGO City : un chef des pompiers et 3 pompiers, plus une figurine de chien de pompiers
+- 509 pièces pour les filles et les garçons à partir de 5 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNN17CM/?tag=tolees0d-21)
