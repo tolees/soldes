@@ -28,7 +28,7 @@ C'est en vente [Disney Princesses - Poupee Mannequin Poussière d’Etoiles Poca
 
 ℹ️:
 
-- Poupée articulée de 26 cm avec son body moulé et sa jupe amovible pailletés.
 - Aucune pile nécessaire.
+- Poupée articulée de 26 cm avec son body moulé et sa jupe amovible pailletés.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JQM3DVX/?tag=tolees0d-21)

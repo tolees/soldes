@@ -28,11 +28,11 @@ C'est en vente [HATCHIMALS - COFFRET MULTIPACK SAISON 8 - Figurines Hatchimals �
 
 ℹ️:
 
-- CONTENU DU PACK : 4 Hatchimals à collectionner et 1 fiche de collection
-- ŒUFS RÉUTILISABLES : les oeufs peuvent être réutilisés pour exposer ses figurines Hatchimals à collectionner Cosmic Candy
-- Attention modèle alétatoire : ce produit fait partie d’un assortiment, il est donc possible que vous le receviez dans un autre coloris ou modèle que celui présenté en visuel
-- JOUET ENFANT 5 ANS – Les figurines Hatchimals à collectionner Cosmic Candy et leurs accessoires conviennent aux enfants de 5 ans et + ; Hatchimals jouet enfant à partir de 5 ans
-- HATCHIMALS COSMIC CANDY : ces figurines Hatchimals regorgent de détails sucrés. Il existe 50 personnages extraordinaires présentant chacun une des 12 caractéristiques mystérieuses : gélifié, tout doux, casque, et bien plus encore
 - UNE NOUVELLE ÉCLOSION : coffret comprenant 3 œufs à faire éclore et 1 personnage hors de son œuf. Il suffit de retirer lautocollant de loeuf pour découvrir un symbole faisant allusion à la caractéristique du personnage et de faire éclore le cœur pour découvrir sa figurine
+- HATCHIMALS COSMIC CANDY : ces figurines Hatchimals regorgent de détails sucrés. Il existe 50 personnages extraordinaires présentant chacun une des 12 caractéristiques mystérieuses : gélifié, tout doux, casque, et bien plus encore
+- Attention modèle alétatoire : ce produit fait partie d’un assortiment, il est donc possible que vous le receviez dans un autre coloris ou modèle que celui présenté en visuel
+- ŒUFS RÉUTILISABLES : les oeufs peuvent être réutilisés pour exposer ses figurines Hatchimals à collectionner Cosmic Candy
+- CONTENU DU PACK : 4 Hatchimals à collectionner et 1 fiche de collection
+- JOUET ENFANT 5 ANS – Les figurines Hatchimals à collectionner Cosmic Candy et leurs accessoires conviennent aux enfants de 5 ans et + ; Hatchimals jouet enfant à partir de 5 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0883NRZSY/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Champion Femme - Sweat-Shirt à Capuche Classic C-Logo Allover 
 
 ℹ️:
 
-- Grand logo brodé sur la poitrine et logo "C" sur la manche gauche
-- Sweat-Shirt à capuche avec cordon de serrage
 - Numéro du modèle : 110832
 - Logo "C" imprimé sur lensemble à lintérieur de la capuche
 - Lavage en machine - froid (30°max)
 - 78% coton, 22% polyester
+- Sweat-Shirt à capuche avec cordon de serrage
+- Grand logo brodé sur la poitrine et logo "C" sur la manche gauche
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DGTNMV1/?tag=tolees0d-21)
