@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.17 % rabais sur Sylvanian Families - Le Village - Le Bus'
-date: 2021-03-24 04:18:04
+date: 2021-03-26 21:33:51
 image: 'https://m.media-amazon.com/images/I/51EMkwFKokL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B01BREEQW0/?tag=tolees0d-21'
 descuento: '23.17'
-average: '21.0796832579187'
+average: '21.0462666666668'
 ---
 
 Vous avez [Sylvanian Families - Le Village - Le Bus Arc-en-Ciel des Bébés - 5317 - Crèche des Bébés - Mini Poupées](https://www.amazon.fr/dp/B01BREEQW0/?tag=tolees0d-21)  à  23.17 % de réduction, prix final  19.2 EUR (original: 24.99 EUR) ici:

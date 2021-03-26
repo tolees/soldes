@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '22.62 % rabais sur Pentel Ball R 50 C Stylo Feutre à bille '
-date: 2021-03-25 00:25:09
+date: 2021-03-26 21:30:43
 image: 'https://m.media-amazon.com/images/I/31Fvy1iIxQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.fr/dp/B000SHP2Y4/?tag=tolees0d-21'
 descuento: '22.62'
-average: '13.8752941176471'
+average: '13.8607766990291'
 ---
 
 Vous avez [Pentel Ball R 50 C Stylo Feutre à bille pointe plastique 0 8 mm Encre Bleue Corps plastique Vert Pack de 12](https://www.amazon.fr/dp/B000SHP2Y4/?tag=tolees0d-21)  à  22.62 % de réduction, prix final  12.38 EUR (original: 16.0 EUR) ici:
