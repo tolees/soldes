@@ -28,10 +28,10 @@ C'est en vente [XtremeMac Clavier Aluminium Universel Wifi & Bluetooth AZERTY  f
 
 ℹ️:
 
-- Adaptabilité : Fait pour les systèmes Mac (MacOS/iOS), mais aussi compatible avec les systèmes Windows
-- Multi-connexion : Possibilité de se connecter à 3 appareils simultanément via Wifi 2,4GHz et Bluetooth 3.0., et passer de l’un à l’autre d’un simple clic
 - Durabilité: La structure en aluminium renforcée apporte une grande solidité au clavier tout en garantissant une importante longévité, même en utilisation quotidienne
-- Autonomie : Le clavier comporte une batterie longue durée se rechargeant via un port USB-C, avec une autonomie allant jusquà 80 heures, ainsi qu’un bouton on/off permettant de l’économiser quand le clavier n’est pas utilisé
 - Solution complète : Inclut toutes les fonctions de raccourci pratiques présentes sur les claviers d’origines Apple, ainsi qu’un pavé numérique complet
+- Multi-connexion : Possibilité de se connecter à 3 appareils simultanément via Wifi 2,4GHz et Bluetooth 3.0., et passer de l’un à l’autre d’un simple clic
+- Adaptabilité : Fait pour les systèmes Mac (MacOS/iOS), mais aussi compatible avec les systèmes Windows
+- Autonomie : Le clavier comporte une batterie longue durée se rechargeant via un port USB-C, avec une autonomie allant jusquà 80 heures, ainsi qu’un bouton on/off permettant de l’économiser quand le clavier n’est pas utilisé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YB4XP3Q/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ Vous avez [PUMA Icra Trainer SD  Baskets Mixte  Noir  Black-White   40.5 EU](htt
 
 ℹ️:
 
-- Dessus: Autres Cuir
-- Doublure: Synthétique
-- Fermeture: Lacets
 - Semelle intérieure: Synthétique
-- Type de talons: Plat
+- Doublure: Synthétique
+- Dessus: Autres Cuir
 - Matériau de semelle: Caoutchouc
+- Type de talons: Plat
+- Fermeture: Lacets
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015OJSIG4/?tag=tolees0d-21)
