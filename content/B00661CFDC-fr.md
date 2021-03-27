@@ -28,12 +28,12 @@ C'est en vente [Dim Up Nudesens Sopaq - Bas Autofixants - 25 Den - Femme - Noir 
 
 ℹ️:
 
-- Jarretière graphique
 - Lavage à la main
-- Effet semi-opaque et satiné
-- 81% polyamide, 19% élasthanne
 - Pointes renforcées
 - Qualité repassé
+- Jarretière graphique
+- Effet semi-opaque et satiné
+- 81% polyamide, 19% élasthanne
 - Sèche-linge interdit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00661CFDC/?tag=tolees0d-21)

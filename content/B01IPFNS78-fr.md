@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '58.85 % rabais sur Helly Hansen Crew Softshell Veste Homme '
-date: 2021-03-25 06:36:49
+date: 2021-03-27 18:56:00
 image: 'https://m.media-amazon.com/images/I/41TNmyuUxaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,10 +29,10 @@ Vous avez [Helly Hansen Crew Softshell Veste Homme Marine FR : M  Taille Fabrica
 ℹ️:
 
 - 92 % polyester, 8 % élasthanne
-- Metalux sur le devant et la poche poitrine
 - Tissu softshell avec membrane
-- Passepoil contrasté sur la poche poitrine
 - Tissu déperlant léger sur les panneaux latéraux
+- Metalux sur le devant et la poche poitrine
+- Passepoil contrasté sur la poche poitrine
 - Poches avec fermeture
 - Ruban contrasté sur l’empiècement dos
 

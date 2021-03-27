@@ -28,10 +28,10 @@ C'est en vente [Siméo PJ552 Extracteur de Jus Nutrijus](https://www.amazon.fr/d
 
 ℹ️:
 
-- Becs verseurs à clapets : pour une parfaite étanchéité, un service au verre sans risque de débordements, ils permettent aussi de mélanger le jus dans lappareil pour une parfaite combinaison des saveurs
-- 8 programmes automatiques : fruits durs, fruits moyens, fruits tendres, fruits variés, légumes, boissons végétales, crudités et rinçage
 - Garantie 2 ans pièces et main dœuvre
 - Rotation très lente : 45-55 tr/min, gage de consommation électrique minimale et dune extraction optimisée du jus; utilise une vis sans fin pour concasser les fruits et légumes en douceur et en retirer un jus frais et savoureux
 - Programme crudités : livré avec un disque pour crudités, vous pourrez râper vos fruits et légumes directement dans votre extracteur de jus
+- 8 programmes automatiques : fruits durs, fruits moyens, fruits tendres, fruits variés, légumes, boissons végétales, crudités et rinçage
+- Becs verseurs à clapets : pour une parfaite étanchéité, un service au verre sans risque de débordements, ils permettent aussi de mélanger le jus dans lappareil pour une parfaite combinaison des saveurs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01G5HJK5M/?tag=tolees0d-21)

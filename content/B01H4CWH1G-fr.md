@@ -29,11 +29,11 @@ C'est en vente [Puma Tazon 6 FM White Black Silver  Chaussures de Running Compé
 ℹ️:
 
 - Type de talons: Plat
-- Semelle intérieure: Synthétique
 - Matériau de semelle: Synthétique
+- Semelle intérieure: Synthétique
+- Doublure: Synthétique
 - Fermeture: Lacets
 - Dessus: Synthétique
-- Doublure: Synthétique
 - Hauteur de talons: 3 centimètres
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01H4CWH1G/?tag=tolees0d-21)
