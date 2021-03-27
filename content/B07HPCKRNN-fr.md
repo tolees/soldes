@@ -28,11 +28,11 @@ C'est en vente [FILA Disruptor kids Sneaker Mixte enfant  blanc  White   35 EU](
 
 ℹ️:
 
-- heel height: 10 millimeters
 - heel type: talon
+- heel height: 10 millimeters
+- sole material: caoutchouc
+- lining: synthétique
 - outer material: synthétique
 - shoe width: moyen
-- lining: synthétique
-- sole material: caoutchouc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HPCKRNN/?tag=tolees0d-21)
