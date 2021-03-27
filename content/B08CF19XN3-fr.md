@@ -28,10 +28,10 @@ C'est en vente [BOSS Hommes V Basalt Doudoune sans Manches Color Block en Tissu 
 
 ℹ️:
 
-- Fermeture haut: Fermeture zippée
-- Col mao
-- Poches haut: Poches passepoilées
-- Col mao
 - Regular fit
+- Col mao
+- Col mao
+- Fermeture haut: Fermeture zippée
+- Poches haut: Poches passepoilées
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CF19XN3/?tag=tolees0d-21)

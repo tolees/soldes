@@ -28,10 +28,10 @@ C'est en vente [Medisana BBS bain à bulles  tapis balnéo avec distributeur d a
 
 ℹ️:
 
-- Silencieux : l’appareil est particulièrement silencieux grâce à l’insonorisation optimisée offrant un confort supplémentaire
-- Le bain bouillonnant est doté d’un diffuseur de parfum intégré pour les huiles parfumées. Il suffit de mettre une goutte d’huile sur un tampon et de le placer dans le support
 - La fonction de massage ou de bain bouillonnant comporte 3 niveaux d’intensité et un programme de changement d’intervalle réglables directement sur l’appareil ou la télécommande
-- Agréable : la fonction de bulle réglable individuellement assure une agréable sensation de bien-être. Le tapis souple antidérapant offre un confort de couchage agréable et sadapte à toutes les baignoires
 - Arrêt automatique : la minuterie est réglable pour un temps de fonctionnement de 10, 20 ou 30 minutes. Après 30 minutes, le tapis pour bains bouillonnants s’éteint automatiquement
+- Silencieux : l’appareil est particulièrement silencieux grâce à l’insonorisation optimisée offrant un confort supplémentaire
+- Agréable : la fonction de bulle réglable individuellement assure une agréable sensation de bien-être. Le tapis souple antidérapant offre un confort de couchage agréable et sadapte à toutes les baignoires
+- Le bain bouillonnant est doté d’un diffuseur de parfum intégré pour les huiles parfumées. Il suffit de mettre une goutte d’huile sur un tampon et de le placer dans le support
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V47NGLC/?tag=tolees0d-21)
