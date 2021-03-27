@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil - Maison Moderne - 9266 avec 33.25 % rabais '
-date: 2021-03-25 22:30:29
+date: 2021-03-27 11:57:03
 image: 'https://m.media-amazon.com/images/I/51MQQh7SwzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21'
 descuento: '33.25'
-average: '71.3037765957449'
+average: '71.2557368421055'
 ---
 
 C'est en vente [Playmobil - Maison Moderne - 9266](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)  à  33.25 % de réduction, prix final  66.74 EUR (original: 99.99 EUR) ici:
@@ -29,7 +29,7 @@ C'est en vente [Playmobil - Maison Moderne - 9266](https://www.amazon.fr/dp/B06W
 ℹ️:
 
 - Contient 1 maison, 2 personnages, 1 chien et des accessoires (barbecue, table, chaises, transat, pot de fleurs Lechuza, vaisselle)
-- Toutes les portes peuvent être ouvertes dans les deux directions
 - Comprend du mobilier pour la terrasse
+- Toutes les portes peuvent être ouvertes dans les deux directions
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W5XHWVT/?tag=tolees0d-21)

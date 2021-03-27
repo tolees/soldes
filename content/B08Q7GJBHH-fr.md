@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Playmobil-70529 Jouet  70529  Multicolor avec 19.09 % rabais '
-date: 2021-03-25 00:46:44
+date: 2021-03-27 12:44:11
 image: 'https://m.media-amazon.com/images/I/51Ww+eA4GKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ C'est en vente [Playmobil-70529 Jouet  70529  Multicolore](https://www.amazon.fr
 
 ℹ️:
 
-- Contient 2 personnages
 - Transportable
+- Contient 2 personnages
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Q7GJBHH/?tag=tolees0d-21)
