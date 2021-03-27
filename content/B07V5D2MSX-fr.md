@@ -28,8 +28,8 @@ Vous avez [Scottex Papier Hygiénique Classic Clean Décor  24 Rouleaux](https:/
 
 ℹ️:
 
-- Chaque feuille de ce papier doux est imprimée avec un joli chiot bleu. Une petite touche supplémentaire pour votre salle de bain
 - Ce pack contient 24 rouleaux
+- Chaque feuille de ce papier doux est imprimée avec un joli chiot bleu. Une petite touche supplémentaire pour votre salle de bain
 - Label FSC : papier issu de forêts gérées de manière responsable et autres sources controlées, Sans danger pour la tuyauterie grâce à une bonne désagrégation dans leau
 - Chaque rouleau, comme toute la gamme de papier hygiénique Scottex, provient dune gestion écologique et est certifié par le Forestry Stewardship Council - FSC
 

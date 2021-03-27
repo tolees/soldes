@@ -29,8 +29,8 @@ C'est en vente [MILESTONE - Hot Wheels Unleashed - Challenge Accepted Edition  N
 ℹ️:
 
 - Prêt pour un nouveau challenge? Affrontez un ami en mode écran partagé à 2 joueurs ou faites la course jusqu’à 12 en ligne dans un événement mondial.
-- Libérez votre créativité: des aires de jeu massives et thématiques sont prêtes à accueillir les courses les plus immersives
 - Faites la course face au monde entier: préparez-vous pour le fun à l’état pur et montrez vos talents de pilote !
+- Libérez votre créativité: des aires de jeu massives et thématiques sont prêtes à accueillir les courses les plus immersives
 - Prenez le volant d’une tonne de véhicules avec chacun leur propre style et des niveaux de rareté différents. Le meilleur de l’univers Hot Wheels débarque dans votre salon !
 - Conduisez les voitures de vos rêves: les vans et muscle cars les plus cool, les plus rapides et les plus uniques n’attendent que vous.
 

@@ -30,8 +30,8 @@ C'est en vente [ADORIC Balance Cuisine Electronique Balance de Précision - Bala
 
 - Garantie: 12 mois de garantie sans souci
 - Haute Précision: Cette balance de cuisine intelligente vous présente une grande precision. Avec précision à 1 gramme pour vous garantir la plus grande exactitude. Veillez utiliser un système de capteur à haute précision pour obtenir un relevé précis à chaque fois!
+- MUTI-FONCTION: 5kg de capacité avec haute précision de 1 g/0,1 oz. Utilisation simple et facile à changer lunité entre les différents modes de poids: g / lboz / floz / ml.
 - Ecran LCD Lecture Facile: Cette balance de cuisine numérique est dotée dun affichage LCD avec rétroéclairage qui affiche les chiffres assez grands pour une meilleure lecture. Indicateur de surcharge et 2 piles AAA incluses.
 - Fabriqué par Acier Inoxydable. un film turquoise de protection qui ninfluence pas le fonctionnement. Facile à nettoyer et à utiliser, en faisant un idéal pour les maisons, les cuisines. Auto-arrêt après 1 minute dinactivé pour prolonger la durée de vie de la pile.
-- MUTI-FONCTION: 5kg de capacité avec haute précision de 1 g/0,1 oz. Utilisation simple et facile à changer lunité entre les différents modes de poids: g / lboz / floz / ml.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06ZYBTQ9G/?tag=tolees0d-21)

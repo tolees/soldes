@@ -28,12 +28,12 @@ C'est en vente [Amazon - Echo Studio  Enceinte connectée avec audio haute-fidé
 
 ℹ️:
 
-- Restez en contact avec votre famille : utilisez vos appareils Alexa comme des interphones et appelez par Drop In ou faites des annonces dans toutes les pièces de la maison.
-- Contrôlez votre musique par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Spotify, Deezer, Apple Music et plus encore.
-- Sadapte à chaque pièce : détecte automatiquement lacoustique de votre espace et ajuste continuellement la lecture pour livrer un son optimal.
 - Conçu pour protéger votre vie privée : doté de multiples éléments de protection et contrôle de vos informations personnelles, dont un bouton Arrêt microphone qui déconnecte électroniquement les microphones.
 - Prête à rendre service : demandez à Alexa de jouer de la musique, lire les nouvelles et répondre à vos questions.
+- Restez en contact avec votre famille : utilisez vos appareils Alexa comme des interphones et appelez par Drop In ou faites des annonces dans toutes les pièces de la maison.
 - Son immersif : les 5 haut-parleurs produisent des basses puissantes, des médiums dynamiques et des aigus nets. La technologie Dolby Atmos remplit lespace et ajoute de la clarté, ainsi que de la profondeur.
+- Contrôlez votre musique par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Spotify, Deezer, Apple Music et plus encore.
 - Hub connecté intégré : demandez à Alexa de contrôler des appareils Zigbee compatibles.
+- Sadapte à chaque pièce : détecte automatiquement lacoustique de votre espace et ajuste continuellement la lecture pour livrer un son optimal.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NQDHC7S/?tag=tolees0d-21)

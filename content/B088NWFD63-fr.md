@@ -28,10 +28,10 @@ C'est en vente [AUKEY Écouteurs Bluetooth sans Fil à Réduction Active du Brui
 
 ℹ️:
 
-- Contenu de la boîte : AUKEY EP-N5 écouteurs sans fil, boîtier de charge, 3 paires d’embouts auriculaires (S/M/L), câble USB-A vers USB-C, manuel d’utilisation, Guide de démarrage rapide.
-- Couplage en une étape et résistance à l’eau IPX5: les véritables écouteurs sans fil sont prêts lorsque vous l’êtes — sortez-les simplement de l’étui de charge et ils se connecteront automatiquement à votre appareil couplé. La résistance à l’eau IPX5 les rend idéales pour les entraînements et les joggings intenses
-- Temps de lecture de 35 heures et charge rapide en USB-C: les écouteurs offrent 7 heures de musique et appel en une seule charge avec l’ANC désactivée (4,5 heures avec l’ANC activée), tandis que l’étui de chargement étend cette durée à 35 heures. La charge rapide USB-C charge complètement le boîtier de charge en 120 minutes
 - Annulation active du bruit avancée: avec la technologie ANC avancée, ces écouteurs détectent et annulent un maximum de 28 dB de bruit ambiant afin que vous puissiez vous concentrer sur votre musique. Les pilotes dynamiques de 10 mm améliorent les basses et offrent un son incroyable
 - Deux microphones: chaque oreillette dispose de deux microphones pour une meilleure prise de voix et une meilleure suppression du bruit de fond, ce qui garantit que vous êtes entendu clairement sans interférence
+- Couplage en une étape et résistance à l’eau IPX5: les véritables écouteurs sans fil sont prêts lorsque vous l’êtes — sortez-les simplement de l’étui de charge et ils se connecteront automatiquement à votre appareil couplé. La résistance à l’eau IPX5 les rend idéales pour les entraînements et les joggings intenses
+- Temps de lecture de 35 heures et charge rapide en USB-C: les écouteurs offrent 7 heures de musique et appel en une seule charge avec l’ANC désactivée (4,5 heures avec l’ANC activée), tandis que l’étui de chargement étend cette durée à 35 heures. La charge rapide USB-C charge complètement le boîtier de charge en 120 minutes
+- Contenu de la boîte : AUKEY EP-N5 écouteurs sans fil, boîtier de charge, 3 paires d’embouts auriculaires (S/M/L), câble USB-A vers USB-C, manuel d’utilisation, Guide de démarrage rapide.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088NWFD63/?tag=tolees0d-21)
