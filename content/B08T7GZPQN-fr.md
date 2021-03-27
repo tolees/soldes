@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'IDOIT Masque FFP2  20 Pcs Masque de Prot avec 20.01 % rabais '
-date: 2021-03-20 10:06:07
+title: 'IDOIT Masque FFP2  20 Pcs Masque de Prot avec 32.01 % rabais '
+date: 2021-03-27 17:45:53
 image: 'https://m.media-amazon.com/images/I/41CpgbtlfLL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08T7GZPQN-fr IDOIT Masque FFP2 20 Pcs Masque de Protection FFP2 KN95 5...'
 sku: 'B08T7GZPQN-fr'
 tags: [ 'Bricolage','Masques de  protection','Masques de protection anti-poussières pliables','Sécurité','idoit','Équipement et matériel de sécurité', ]
-actualPrice: 19.99 EUR
+actualPrice: 16.99 EUR
 currency: EUR
-price: 19.99
+price: 16.99
 comparePrice: 24.99 EUR
 prodname: 'IDOIT Masque FFP2  20 Pcs Masque de Protection FFP2 KN95  5 Couches   EN149: 2001+A1: 2009  Certifié CE  Haute filtration Anti-Poussière'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'IDOIT'
 buyurl: 'https://www.amazon.fr/dp/B08T7GZPQN/?tag=tolees0d-21'
-descuento: '20.01'
-average: '19.99'
+descuento: '32.01'
+average: '18.49'
 ---
 
-C'est en vente [IDOIT Masque FFP2  20 Pcs Masque de Protection FFP2 KN95  5 Couches   EN149: 2001+A1: 2009  Certifié CE  Haute filtration Anti-Poussière](https://www.amazon.fr/dp/B08T7GZPQN/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  19.99 EUR (original: 24.99 EUR) ici:
+C'est en vente [IDOIT Masque FFP2  20 Pcs Masque de Protection FFP2 KN95  5 Couches   EN149: 2001+A1: 2009  Certifié CE  Haute filtration Anti-Poussière](https://www.amazon.fr/dp/B08T7GZPQN/?tag=tolees0d-21)  à  32.01 % de réduction, prix final  16.99 EUR (original: 24.99 EUR) ici:
 
 [![IDOIT Masque FFP2  20 Pcs Masque de Prot](https://m.media-amazon.com/images/I/41CpgbtlfLL._SL400_.jpg)](https://www.amazon.fr/dp/B08T7GZPQN/?tag=tolees0d-21)
 

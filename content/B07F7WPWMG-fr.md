@@ -28,10 +28,10 @@ C'est en vente [Siméo TVV410 Théière à Préparation Automatique](https://www
 
 ℹ️:
 
-- Garantie 2 ans pièces et main dœuvre
-- Capacité : 1,2 L
-- 4 programmes préenregistrés : Thé vert, thé noir, thé Oolong et infusion
 - Préparation automatique : disposez leau et le thé, votre théière TVV410 soccupe du reste
+- 4 programmes préenregistrés : Thé vert, thé noir, thé Oolong et infusion
+- Capacité : 1,2 L
 - Résistance cachée, hors datteinte du calcaire : aucune perte de performance
+- Garantie 2 ans pièces et main dœuvre
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07F7WPWMG/?tag=tolees0d-21)
