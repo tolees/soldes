@@ -30,8 +30,8 @@ C'est en vente [Le Creuset  Gril Carré  24 x 24 cm  Poignée Repliable et Amovi
 
 - Parois hautes et bords incurvés pour mélanger aisément et limiter les projections, Becs verseurs permettant de drainer lexcès de graisse
 - Fonte économe en énergie pour des résultats de cuisson optimaux, Compatible avec toutes sources de chaleur, y compris linduction
-- Gril carré en fonte avec poignée pliable et amovible, Idéal pour vos grillades de viandes, poissons et légumes, Intérieur en émail noir mat
-- Fabriqué en France, Nettoyage à la main recommandé, Passe au lave-vaisselle, Garantie à vie
 - Contenu : Gril en fonte émaillée Le Creuset, Carré, Dimensions avec poignées : 43.3 x 27 x 10.4 cm, Poids : 2.35 kg, Couleur : Noir
+- Fabriqué en France, Nettoyage à la main recommandé, Passe au lave-vaisselle, Garantie à vie
+- Gril carré en fonte avec poignée pliable et amovible, Idéal pour vos grillades de viandes, poissons et légumes, Intérieur en émail noir mat
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0015UWFMA/?tag=tolees0d-21)

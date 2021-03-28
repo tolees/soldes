@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.60 % rabais sur Lego Creator Expert - 10220-Le Camping C'
-date: 2021-03-25 03:36:23
+date: 2021-03-28 22:22:04
 image: 'https://m.media-amazon.com/images/I/5151ZpHOVgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21'
 descuento: '19.60'
-average: '127.482084805653'
+average: '128.095087108014'
 ---
 
 Vous avez [Lego Creator Expert - 10220-Le Camping Car Volkswagen T1](https://www.amazon.fr/dp/B00PGZP8HE/?tag=tolees0d-21)  à  19.60 % de réduction, prix final  159.99 EUR (original: 199.0 EUR) ici:

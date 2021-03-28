@@ -28,10 +28,10 @@ C'est en vente [Vanne d Arrêt de Gardena : Régulation ou Coupure des Arroseur
 
 ℹ️:
 
+- Régulation manuelle : pour la régulation en continu et larrêt du débit deau des arroseurs individuels ou des groupes darroseurs
 - Nettoyage facile : le filtre amovible facilite lélimination des éventuelles saletés
 - La livraison comprend : 1 vanne darrêt de GARDENA
-- Régulation manuelle : pour la régulation en continu et larrêt du débit deau des arroseurs individuels ou des groupes darroseurs
-- Grande sécurité : le couvercle sphérique escamotable disparaît à lintérieur lorsque le départ enterré est ouvert, ne présentant ainsi aucun obstacle pour la tonte
 - Appartient au système de gicleurs GARDENA : pour le montage souterrain avec des arroseurs GARDENA ou des groupes darroseurs GARDENA
+- Grande sécurité : le couvercle sphérique escamotable disparaît à lintérieur lorsque le départ enterré est ouvert, ne présentant ainsi aucun obstacle pour la tonte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0035WYDXA/?tag=tolees0d-21)
