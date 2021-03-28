@@ -28,15 +28,15 @@ C'est en vente [LEGO 10696 Classic La boîte de Briques créatives   Jeu de
 
 ℹ️:
 
-- Idées incluses avec lensemble et en ligne sur LEGO.fr/classic pour taider à démarrer Vendu dans une boîte de rangement en plastique utile
-- Les pièces spéciales incluent aussi une plaque de base 8 cm x 16 cm, une fenêtre avec un cadre et 3 paires dyeux
-- Comprend 18 pneus et 18 jantes
-- Tous les modèles présentés peuvent être construits avec cet ensemble simultanément
-- LEGO Classic est conçu pour inspirer une créativité illimitée avec la brique LEGO
-- Comprend un vaste assortiment de briques LEGO de 35 couleurs
-- La plaque verte mesure plus de 8 cm de long sur 16 cm de large
-- Le grand nombre de roues facilite la création de véhicules et le jeu
-- Les pièces spéciales encouragent la construction imaginative
 - Les ensembles LEGO Classic sont un complément idéal de toute collection LEGO
+- La plaque verte mesure plus de 8 cm de long sur 16 cm de large
+- Comprend un vaste assortiment de briques LEGO de 35 couleurs
+- Comprend 18 pneus et 18 jantes
+- Les pièces spéciales encouragent la construction imaginative
+- Les pièces spéciales incluent aussi une plaque de base 8 cm x 16 cm, une fenêtre avec un cadre et 3 paires dyeux
+- Le grand nombre de roues facilite la création de véhicules et le jeu
+- Idées incluses avec lensemble et en ligne sur LEGO.fr/classic pour taider à démarrer Vendu dans une boîte de rangement en plastique utile
+- LEGO Classic est conçu pour inspirer une créativité illimitée avec la brique LEGO
+- Tous les modèles présentés peuvent être construits avec cet ensemble simultanément
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00NVDP3ZU/?tag=tolees0d-21)

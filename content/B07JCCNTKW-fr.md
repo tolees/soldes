@@ -29,8 +29,8 @@ C'est en vente [Fossil Homme Bracelet œil-de-tigre en cuir marron JF03118040](h
 ℹ️:
 
 - Matière: Cuir, Pierre semi-précieuse
-- Dimensions: Inner length: 180mm - 195mm
 - Couleur principale: Marron
+- Dimensions: Inner length: 180mm - 195mm
 - Fermoir: Fermoir déployant
 - Présenté dans un coffret cadeau Fossil
 
