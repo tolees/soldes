@@ -28,11 +28,11 @@ C'est en vente [PUMA Smash v2 L  Baskets de Cross Mixte  Noir Black Black  41 EU
 
 ℹ️:
 
-- Dessus: Autres Cuir
+- Type de talons: Plat
 - Matériau de semelle: Caoutchouc
+- Dessus: Autres Cuir
+- Fermeture: Lacets
 - Semelle intérieure: Synthétique
 - Doublure: Mesh
-- Fermeture: Lacets
-- Type de talons: Plat
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077MFV3RC/?tag=tolees0d-21)

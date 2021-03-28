@@ -28,10 +28,10 @@ Vous avez [Adidas Coffret Victory Edition 3 Produits Eau de Toilette/Gel Douche/
 
 ℹ️:
 
+- Un Gel douche UEFA5 de 250ml
 - Ce coffret Adidas UEFA5 contient 3 produits et un bon dachat
 - Un bon dachat de 15 euros valable sur le site *
-- Une Eau de toilette UEFA5 de 100ml
-- Un Gel douche UEFA5 de 250ml
 - Un Déodorant UEFA5 de 150ml
+- Une Eau de toilette UEFA5 de 100ml
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HW9KF4Z/?tag=tolees0d-21)
