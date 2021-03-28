@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Good Criminal [Blu-Ray] avec 16.05 % rabais '
-date: 2021-03-27 12:38:54
+date: 2021-03-28 13:53:44
 image: 'https://m.media-amazon.com/images/I/41XKxMgyOPL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B08NRXFYS3/?tag=tolees0d-21'
 descuento: '16.05'
-average: '23.6099999999998'
+average: '23.5026530612243'
 ---
 
 C'est en vente [The Good Criminal [Blu-Ray]](https://www.amazon.fr/dp/B08NRXFYS3/?tag=tolees0d-21)  à  16.05 % de réduction, prix final  20.98 EUR (original: 24.99 EUR) ici:

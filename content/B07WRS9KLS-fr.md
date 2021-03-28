@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SuperZings - Boîte de présentation « Dan avec 22.93 % rabais '
-date: 2021-03-27 11:06:54
+date: 2021-03-28 14:14:06
 image: 'https://m.media-amazon.com/images/I/51dOZOUelkL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SUPERZINGS'
 buyurl: 'https://www.amazon.fr/dp/B07WRS9KLS/?tag=tolees0d-21'
 descuento: '22.93'
-average: '10.9984782608696'
+average: '11.017801724138'
 ---
 
 C'est en vente [SuperZings - Boîte de présentation « Danger Gang ».](https://www.amazon.fr/dp/B07WRS9KLS/?tag=tolees0d-21)  à  22.93 % de réduction, prix final  13.24 EUR (original: 17.18 EUR) ici:

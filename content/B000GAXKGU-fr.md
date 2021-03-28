@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '36.47 % rabais sur Pentel Graphgear 1000 Porte-Mine 0 7 mm '
-date: 2021-03-27 11:53:13
+date: 2021-03-28 13:28:01
 image: 'https://m.media-amazon.com/images/I/311UNaDvfTL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.fr/dp/B000GAXKGU/?tag=tolees0d-21'
 descuento: '36.47'
-average: '13.5341009463723'
+average: '13.5249216300941'
 ---
 
 Vous avez [Pentel Graphgear 1000 Porte-Mine 0 7 mm Canon Rentrant Métal](https://www.amazon.fr/dp/B000GAXKGU/?tag=tolees0d-21)  à  36.47 % de réduction, prix final  12.07 EUR (original: 19.0 EUR) ici:
@@ -28,9 +28,9 @@ Vous avez [Pentel Graphgear 1000 Porte-Mine 0 7 mm Canon Rentrant Métal](https:
 
 ℹ️:
 
-- Indicateur de dureté de la mine sur le corps
-- Porte-mines technique rechargeable pour mines 0,7mm
 - Idéal pour dessins techniques et utilisation quotidienne
+- Porte-mines technique rechargeable pour mines 0,7mm
+- Indicateur de dureté de la mine sur le corps
 - Porte-mines avec canon rentrant et muni dune gomme
 - Corps de haute qualité en métal gris argenté
 

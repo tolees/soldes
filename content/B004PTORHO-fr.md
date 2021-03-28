@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.72 % rabais sur Pentel 15432 Porte-mines P200 0.7 mm Emb'
-date: 2021-03-27 11:42:51
+date: 2021-03-28 13:24:15
 image: 'https://m.media-amazon.com/images/I/41hXeNAIsKL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21'
 descuento: '37.72'
-average: '6.43558823529411'
+average: '6.41114285714285'
 ---
 
 Vous avez [Pentel 15432 Porte-mines P200 0.7 mm Embout agrafe Métalliques 4 mm Magenta](https://www.amazon.fr/dp/B004PTORHO/?tag=tolees0d-21)  à  37.72 % de réduction, prix final  5.58 EUR (original: 8.96 EUR) ici:
