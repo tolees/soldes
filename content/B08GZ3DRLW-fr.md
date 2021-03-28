@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Nintendo - GAME WATCH SM BROS SYSTEM avec 36.32 % rabais '
-date: 2021-03-26 21:39:56
+date: 2021-03-28 01:48:05
 image: 'https://m.media-amazon.com/images/I/41A88oIeaqL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21'
 descuento: '36.32'
-average: '46.9301801801806'
+average: '46.8522321428575'
 ---
 
 C'est en vente [Nintendo - GAME WATCH SM BROS SYSTEM](https://www.amazon.fr/dp/B08GZ3DRLW/?tag=tolees0d-21)  à  36.32 % de réduction, prix final  38.2 EUR (original: 59.99 EUR) ici:
