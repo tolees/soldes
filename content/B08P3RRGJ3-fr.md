@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'BLACK SHIELD - Lot de 20pcs - Masques de avec 60.74 % rabais '
-date: 2021-03-27 11:08:46
+date: 2021-03-28 19:19:53
 image: 'https://m.media-amazon.com/images/I/51Vryu9sm2L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [BLACK SHIELD - Lot de 20pcs - Masques de Protection FFP2 vérifi
 
 ℹ️:
 
-- Confort optimal de respiration
-- 5 couches filtrantes
 - Emballage individuel
+- Confort optimal de respiration
 - Clip de nez adaptable
+- 5 couches filtrantes
 - Masques vérifiés et testés CE2797
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08P3RRGJ3/?tag=tolees0d-21)
