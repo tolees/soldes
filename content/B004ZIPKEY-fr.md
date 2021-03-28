@@ -28,13 +28,13 @@ Vous avez [Helly Hansen HH Daybreaker Driftline Polo ](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Pour une utilisation quotidienne ou pour les activités sportives, Helly Hansen vous présente le polo manches courtes HH Driftline Polo
+- <b>Taillant :</b> standard
+- <b>Coupe :</b> regular
+- Grâce au Nylon Tactel son tissu à séchage rapide, ce vêtement est idéal pour le sport, lentraînement, le ski, la voile, lescalade et bien dautres
+- Confectionné avec un col et des manches côtelées, ce t-shirt possède une qualité de confort supérieure
+- <b> Technologie intégrée :</b> Le nylon Tactel est une matière qui sèche très rapidement
 - Livraison : 1 x Helly Hansen HH Driftline Polo manches courtes pour homme - Performant et confortable - Couleur : noir - Taille : L
 - Doté dune coupe classique, ce haut peut être utilisé quotidiennement - Orné du logo emblématique sur la poitrine, il se porte confortablement
-- <b>Taillant :</b> standard
-- Confectionné avec un col et des manches côtelées, ce t-shirt possède une qualité de confort supérieure
-- <b>Coupe :</b> regular
-- <b> Technologie intégrée :</b> Le nylon Tactel est une matière qui sèche très rapidement
-- Grâce au Nylon Tactel son tissu à séchage rapide, ce vêtement est idéal pour le sport, lentraînement, le ski, la voile, lescalade et bien dautres
+- Pour une utilisation quotidienne ou pour les activités sportives, Helly Hansen vous présente le polo manches courtes HH Driftline Polo
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004ZIPKEY/?tag=tolees0d-21)

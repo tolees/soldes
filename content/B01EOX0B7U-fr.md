@@ -28,10 +28,10 @@ C'est en vente [Helly Hansen HH Dubliner – Veste de sport zippée et imperméa
 
 ℹ️:
 
-- Livraison : 1 x Helly Hansen HH Dubliner Veste zippée et imperméable pour homme - Légère et confortable - Couleur : noir - Taille : M
-- Cette veste a une capuche, elle est imperméable, coupe-vent et respirante pour une protection optimale - Poignets et capuche ajustables pour un bon confort
-- Découvrez une isolation totale grâce à la technologie Helly Tech Protection et au zip YKK de qualité - Coutures entièrement scellées et traitement hydrofuge durable (DWR)
-- Pour une utilisation quotidienne ou pour les sorties toute lannée, Helly Hansen vous présente la veste zippée et imperméable pour homme HH Dubliner
 - Avec des poches extérieures et intérieures, ce vêtement est pratique et idéal pour une utilisation toute lannée
+- Découvrez une isolation totale grâce à la technologie Helly Tech Protection et au zip YKK de qualité - Coutures entièrement scellées et traitement hydrofuge durable (DWR)
+- Cette veste a une capuche, elle est imperméable, coupe-vent et respirante pour une protection optimale - Poignets et capuche ajustables pour un bon confort
+- Pour une utilisation quotidienne ou pour les sorties toute lannée, Helly Hansen vous présente la veste zippée et imperméable pour homme HH Dubliner
+- Livraison : 1 x Helly Hansen HH Dubliner Veste zippée et imperméable pour homme - Légère et confortable - Couleur : noir - Taille : M
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01EOX0B7U/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [SuperZings - Boîte de présentation « Danger Gang ».](https:/
 
 ℹ️:
 
-- Effet métallique sur SuperZings.
 - Numéro de modèle : PSZSD48TIN10
+- Effet métallique sur SuperZings.
 - 5 SuperZings exclusifs.
 - Boîte métallique pour ranger vos SuperZings.
 

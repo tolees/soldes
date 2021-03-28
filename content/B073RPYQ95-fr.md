@@ -30,8 +30,8 @@ C'est en vente [Helly Hansen HH Logo Tshirt Homme - Blanc - XL](https://www.amaz
 
 - Helly Hansen HH Logo Tshirt manches courtes en coton pour homme - Léger et confortable
 - Ce vêtement est idéal pour le sport, lentraînement, le ski, la voile, lescalade et bien dautres
-- Confectionné en Europe, ce t-shirt possède une qualité supérieure
 - Pour une utilisation quotidienne, Helly Hansen vous présente le t-shirt manches courtes en coton HH Logo Tshirt
+- Confectionné en Europe, ce t-shirt possède une qualité supérieure
 - Doté dune coupe classique, ce haut peut être utilisé quotidiennement - Orné du logo emblématique sur la poitrine, il se porte confortablement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073RPYQ95/?tag=tolees0d-21)

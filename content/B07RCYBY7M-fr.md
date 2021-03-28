@@ -28,11 +28,11 @@ C'est en vente [Champion Femme - T-Shirt Classic Logo - Bleu  S](https://www.ama
 
 ℹ️:
 
-- Numéro du modèle : 109713
 - Manche courte
-- Grand Logo en velours imprimè sur la poitrine
-- T-shirt à ras du cou
-- 100% Coton
 - Lavage en machine - froid (30°max)
+- 100% Coton
+- Grand Logo en velours imprimè sur la poitrine
+- Numéro du modèle : 109713
+- T-shirt à ras du cou
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RCYBY7M/?tag=tolees0d-21)

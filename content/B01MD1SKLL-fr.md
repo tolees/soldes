@@ -28,12 +28,12 @@ C'est en vente [TP-Link Répéteur WiFi RE305 Amplificateur WiFi AC1200  WiFi Ex
 
 ℹ️:
 
-- 【Bien choisir un répéteur Wi-Fi】- Le répéteur se calera sur le débit de Box Internet. RE305 est recommandé pour les box ADSL.
-- 【Mode haut débit】- RE305 fournit une connexion Wi-Fi performant et stable en utilisant la technique Dual band High Speed. Idéale pour les jeux en ligne et le streaming HD.
+- 【Étendez votre couverture】- Les 2 antennes externes de RE305 augmentent la couverture Wi-Fi jusquà 120 m² et connectent jusquà 18 appareils tels que des smartphones, des tablettes, des PC, etc.
 - 【Port Ethernet】- Avec son port Ethernet 10/100M, le RE305 peut brancher des périphériques câblés tels que des ordinateurs de bureau, des consoles de jeux, ou des lecteurs streaming, etc.
-- Consommation électrique maximale: 7,3 W
+- 【Mode haut débit】- RE305 fournit une connexion Wi-Fi performant et stable en utilisant la technique Dual band High Speed. Idéale pour les jeux en ligne et le streaming HD.
 - 【Compatibilité universelle & installation simple】- Compatible avec tous les box Internet et routeurs Wi-Fi. Installez le répéteur via lapplication Tether (application gratuite pour ios/Android)
 - 【Mode point daccès】- Ce mode vous permet dun emplacement libre (jusquà 100m de votre box). Grâce au mode AP, vous pouvez obtenir un débit max de 1200Mbps (300Mbps en 2.4GHz et 867Mbps en 5GHz).
-- 【Étendez votre couverture】- Les 2 antennes externes de RE305 augmentent la couverture Wi-Fi jusquà 120 m² et connectent jusquà 18 appareils tels que des smartphones, des tablettes, des PC, etc.
+- Consommation électrique maximale: 7,3 W
+- 【Bien choisir un répéteur Wi-Fi】- Le répéteur se calera sur le débit de Box Internet. RE305 est recommandé pour les box ADSL.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MD1SKLL/?tag=tolees0d-21)
