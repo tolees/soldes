@@ -28,8 +28,8 @@ Vous avez [Saucony Jazz Original Vintage  Baskets Mixte  Bleu  Blue/Navy Silver 
 
 ℹ️:
 
-- Voir la description de produit ci-dessous pour plus dinformations.
 - Saucony Bleu Jazz Original Vintage Trainers
 - Neuf et authentique. Nous sommes un vendeur autorisé de Saucony.
+- Voir la description de produit ci-dessous pour plus dinformations.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073BW4MMP/?tag=tolees0d-21)

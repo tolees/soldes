@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '30.28 % rabais sur METROPOLITAN - John Wick-La Trilogie [Bl'
-date: 2021-03-28 13:30:47
+title: '44.18 % rabais sur METROPOLITAN - John Wick-La Trilogie [Bl'
+date: 2021-03-29 18:13:54
 image: 'https://m.media-amazon.com/images/I/51oiGL6lwpL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07TKNGDZ6-fr METROPOLITAN - John Wick-La Trilogie [Blu-Ray]'
 sku: 'B07TKNGDZ6-fr'
 tags: [ 'Action et aventure','Blu-ray','DVD et Blu-ray','Featured Categories','Films','Thriller','metropolitan', ]
-actualPrice: 34.97 EUR
+actualPrice: 28.0 EUR
 currency: EUR
-price: 34.97
+price: 28.0
 comparePrice: 50.16 EUR
 prodname: 'METROPOLITAN - John Wick-La Trilogie [Blu-Ray]'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'METROPOLITAN'
 buyurl: 'https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21'
-descuento: '30.28'
-average: '28.785138888889'
+descuento: '44.18'
+average: '28.7743835616439'
 ---
 
-Vous avez [METROPOLITAN - John Wick-La Trilogie [Blu-Ray]](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21)  à  30.28 % de réduction, prix final  34.97 EUR (original: 50.16 EUR) ici:
+Vous avez [METROPOLITAN - John Wick-La Trilogie [Blu-Ray]](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21)  à  44.18 % de réduction, prix final  28.0 EUR (original: 50.16 EUR) ici:
 
 [![METROPOLITAN - John Wick-La Trilogie [Bl](https://m.media-amazon.com/images/I/51oiGL6lwpL._SL400_.jpg)](https://www.amazon.fr/dp/B07TKNGDZ6/?tag=tolees0d-21)
 

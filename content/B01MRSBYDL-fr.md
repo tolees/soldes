@@ -28,10 +28,10 @@ C'est en vente [Bensimon - F15004 - TENNIS LACET FEMME - Baskets Basses - Femme 
 
 ℹ️:
 
-- Non applicable
-- Fine et légère, fabriquée à la main en Europe, elle est conçue à partir de caoutchouc naturel et de coton naturel.
-- Déclinée dans une large palette de couleurs, elle est teintée manuellement en France dans nos ateliers, ce qui laisse une légère marge de variation entre les modèles, et lui donne une empreinte unique.
-- Iconique, la tennis est portée par de nombreuses célébrités et est aujourdhui lemblème de la marque parisienne depuis plus de 30 ans.
 - 100% Coton
+- Iconique, la tennis est portée par de nombreuses célébrités et est aujourdhui lemblème de la marque parisienne depuis plus de 30 ans.
+- Déclinée dans une large palette de couleurs, elle est teintée manuellement en France dans nos ateliers, ce qui laisse une légère marge de variation entre les modèles, et lui donne une empreinte unique.
+- Fine et légère, fabriquée à la main en Europe, elle est conçue à partir de caoutchouc naturel et de coton naturel.
+- Non applicable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MRSBYDL/?tag=tolees0d-21)
