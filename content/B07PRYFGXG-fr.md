@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ASTRO Gaming A40 TR Casque Gamer + MixAm avec 35.49 % rabais '
-date: 2021-03-28 01:44:42
+date: 2021-03-29 03:44:58
 image: 'https://m.media-amazon.com/images/I/41GkZK53xXL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'ASTRO Gaming'
 buyurl: 'https://www.amazon.fr/dp/B07PRYFGXG/?tag=tolees0d-21'
 descuento: '35.49'
-average: '211.846800000001'
+average: '209.487037037038'
 ---
 
 C'est en vente [ASTRO Gaming A40 TR Casque Gamer + MixAmp Pro TR  4ème génération  ASTRO Audio V2  Dolby Audio  Micro Détachable  Compatible avec Xbox Series X|S  Xbox One  PC  Mac - Noir/Rouge](https://www.amazon.fr/dp/B07PRYFGXG/?tag=tolees0d-21)  à  35.49 % de réduction, prix final  179.99 EUR (original: 279.0 EUR) ici:
@@ -28,12 +28,12 @@ C'est en vente [ASTRO Gaming A40 TR Casque Gamer + MixAmp Pro TR  4ème généra
 
 ℹ️:
 
+- Compatible audio 3D : laudio spatial vous offre une prise en charge complète de laudio positionnel 3D
+- Conçu pour le jeu : l’ASTRO Audio V2 offre un son de qualité professionnelle aux joueurs, que ce soit pour la diffusion en streaming depuis leur salon ou pendant un tournoi gaming
 - Logiciel Centre de Commande ASTRO : contrôlez les paramètres de communication vocale et audio et adaptez les paramètres dentrée et de sortie aux besoins spécifiques de votre environnement de jeu
-- Maintien et finition de qualité supérieure : conçu pour les sessions marathon de gaming, le casque A40 TR est léger, confortable et résistant
 - Compatible avec les Mod Kits : conçu pour les environnements bruyants tels que des tournois professionnels, vous pouvez transformer le A40 TR en un casque anti-bruit isolé en ajoutant un Mod Kit
 - Fonctionnalité de la carte son USB : sur PC, le MixAmp Pro TR offre une balance entre le son des jeux et la communication vocale, et la diffusion du jeu et des communications vocales via port USB
+- Maintien et finition de qualité supérieure : conçu pour les sessions marathon de gaming, le casque A40 TR est léger, confortable et résistant
 - Compatible avec la Xbox Series X|S avec une mise à jour du logiciel requise pour activer le jeu et laudio vocal sur USB
-- Conçu pour le jeu : l’ASTRO Audio V2 offre un son de qualité professionnelle aux joueurs, que ce soit pour la diffusion en streaming depuis leur salon ou pendant un tournoi gaming
-- Compatible audio 3D : laudio spatial vous offre une prise en charge complète de laudio positionnel 3D
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PRYFGXG/?tag=tolees0d-21)

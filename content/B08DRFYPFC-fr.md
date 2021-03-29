@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.60 % rabais sur Samsung Galaxy SM-F916B 19 3 cm  7.6"  1'
-date: 2021-03-28 02:09:31
+date: 2021-03-29 04:13:40
 image: 'https://m.media-amazon.com/images/I/3143wH00RTL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B08DRFYPFC/?tag=tolees0d-21'
 descuento: '37.60'
-average: '1292.23076923077'
+average: '1289.14285714286'
 ---
 
 Vous avez [Samsung Galaxy SM-F916B 19 3 cm  7.6"  12 Go 256 Go 5G USB Type-C Noir Android 10.0 4500 mAh Galaxy SM-F916B  19 3 cm  7.6"   12 Go  256 Go  12 MP  Android 10.0  Noir](https://www.amazon.fr/dp/B08DRFYPFC/?tag=tolees0d-21)  à  37.60 % de réduction, prix final  1249.0 EUR (original: 2001.58 EUR) ici:

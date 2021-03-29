@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'JOHN FRIEDA Frizz Ease Réparation Miracl avec 51.46 % rabais '
-date: 2021-03-27 18:31:52
+date: 2021-03-29 04:13:44
 image: 'https://m.media-amazon.com/images/I/41rJlHMEEeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [JOHN FRIEDA Frizz Ease Réparation Miracle Masque Intensif 250 m
 
 ℹ️:
 
-- Nourrit et répare les cheveux secs & frisottants
-- Renforce, fortifie et protège les cheveux contre les agressions quotidiennes et les frisottis.
-- MODE DEMPLOI : Appliquez le masque sur cheveux propres et mouillés, en insistant sur les pointes. Laissez poser 3 à 5 minutes et rinçez bien.
-- Aide à lutter contre la casse. Formule à lhuile davocat, protéines de lait et vitamines A, C et E.
 - Redonnez vie à vos cheveux secs & abîmés. Formulé avec la Technologie Anti-dommages ciblés ainsi quavec une combinaison dactifs hydratants et réparateurs puissants, ce traitement hebdomadaire répare les cheveux, les laissant doux au toucher et nourris en 1 utilisation seulement.
+- Nourrit et répare les cheveux secs & frisottants
+- MODE DEMPLOI : Appliquez le masque sur cheveux propres et mouillés, en insistant sur les pointes. Laissez poser 3 à 5 minutes et rinçez bien.
+- Renforce, fortifie et protège les cheveux contre les agressions quotidiennes et les frisottis.
+- Aide à lutter contre la casse. Formule à lhuile davocat, protéines de lait et vitamines A, C et E.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01E9XCJKW/?tag=tolees0d-21)

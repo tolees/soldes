@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '18.08 % rabais sur Pentel Maxiflo Pochette 4 Marqueurs tabl'
-date: 2021-03-28 02:01:38
+date: 2021-03-29 03:13:12
 image: 'https://m.media-amazon.com/images/I/41heWP4mQeL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Pentel Maxiflo Pochette 4 Marqueurs tableau blanc Pointe conique moye
 
 ℹ️:
 
-- Encre liquide aux couleurs intenses
+- Dimensions : 140x70x10 mm
 - Bouton poussoir pour réencrer la pointe à tout moment
 - Marqueur pour tableaux blancs
-- Dimensions : 140x70x10 mm
+- Encre liquide aux couleurs intenses
 - S’efface à sec sur tableau blanc, sans laisser de trace
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002BB42EQ/?tag=tolees0d-21)

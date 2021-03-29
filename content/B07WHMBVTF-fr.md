@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO Speed Champions 76896 - N-i-s-s-a-n avec 26.79 % rabais '
-date: 2021-03-28 01:53:37
+title: 'LEGO Speed Champions 76896 - N-i-s-s-a-n avec 26.74 % rabais '
+date: 2021-03-29 03:54:40
 image: 'https://m.media-amazon.com/images/I/51Ih2n+FmAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,26 +12,26 @@ tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','lego', ]
 actualPrice: 21.78 EUR
 currency: EUR
 price: 21.78
-comparePrice: 29.75 EUR
+comparePrice: 29.73 EUR
 prodname: 'LEGO Speed Champions 76896 - N-i-s-s-a-n GT-R NISMO Blanc  298 pièces '
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07WHMBVTF/?tag=tolees0d-21'
-descuento: '26.79'
-average: '28.819595959596'
+descuento: '26.74'
+average: '28.680198019802'
 ---
 
-C'est en vente [LEGO Speed Champions 76896 - N-i-s-s-a-n GT-R NISMO Blanc  298 pièces ](https://www.amazon.fr/dp/B07WHMBVTF/?tag=tolees0d-21)  à  26.79 % de réduction, prix final  21.78 EUR (original: 29.75 EUR) ici:
+C'est en vente [LEGO Speed Champions 76896 - N-i-s-s-a-n GT-R NISMO Blanc  298 pièces ](https://www.amazon.fr/dp/B07WHMBVTF/?tag=tolees0d-21)  à  26.74 % de réduction, prix final  21.78 EUR (original: 29.73 EUR) ici:
 
 [![LEGO Speed Champions 76896 - N-i-s-s-a-n](https://m.media-amazon.com/images/I/51Ih2n+FmAL._SL400_.jpg)](https://www.amazon.fr/dp/B07WHMBVTF/?tag=tolees0d-21)
 
 ℹ️:
 
-- Ce kit de construction est fourni avec des instructions étape par étape faciles à suivre afin que les fans n’aient d’autre préoccupation que d’assembler leur modèle de course aussi vite qu’ils le souhaitent.
-- La Nissan GT-R NISMO (76896) a des fans partout dans le monde et détient le record du drift le plus rapide. Désormais, les passionnés de tous âges peuvent créer leur propre réplique de cette voiture avec les briques de construction LEGO - le cadeau LEGO idéal pour ceux qui adorent les beaux modèles réduits. Une chance rare de posséder une réplique LEGO hautement détaillée de la légendaire Nissan GT-R NISMO. Le cadeau idéal pour les passionnés de jouets à construire et de course automobile.
-- La Nissan GT-R NISMO mesure 5 cm de haut, 16 cm de long et 7 cm de large. La nouveauté de janvier 2020 : toutes les voitures LEGO Speed Champions sont désormais 25% plus grandes pour intégrer davantage de détails des versions originales !
-- Nouveauté de janvier 2020, la version miniature de la Nissan GT-R NISMO peut être construite et exposée ou utilisée pour affronter d’autres voitures LEGO Speed Champions. Ce kit de construction Nissan GT-R NISMO de 298 pièces embarque les filles et les garçons de 8 ans et plus passionnés de création et de jeux de voitures de course dans une mission passionnante. Un excellent cadeau qui sera apprécié à tout moment de l’année.
 - La GT-R est un digne successeur des légendaires modèles Nissan Skyline des séries R30, R31, R32, R33 et R34 GT-R. Une Nissan GT-R NISMO à construire et une figurine de collection en combinaison de course Nissan. Ce modèle de voiture captivera aussi bien les enfants que les amateurs de voitures, pour jouer seul en mettre en scène des courses avec leurs amis.
+- La Nissan GT-R NISMO (76896) a des fans partout dans le monde et détient le record du drift le plus rapide. Désormais, les passionnés de tous âges peuvent créer leur propre réplique de cette voiture avec les briques de construction LEGO - le cadeau LEGO idéal pour ceux qui adorent les beaux modèles réduits. Une chance rare de posséder une réplique LEGO hautement détaillée de la légendaire Nissan GT-R NISMO. Le cadeau idéal pour les passionnés de jouets à construire et de course automobile.
+- Nouveauté de janvier 2020, la version miniature de la Nissan GT-R NISMO peut être construite et exposée ou utilisée pour affronter d’autres voitures LEGO Speed Champions. Ce kit de construction Nissan GT-R NISMO de 298 pièces embarque les filles et les garçons de 8 ans et plus passionnés de création et de jeux de voitures de course dans une mission passionnante. Un excellent cadeau qui sera apprécié à tout moment de l’année.
+- La Nissan GT-R NISMO mesure 5 cm de haut, 16 cm de long et 7 cm de large. La nouveauté de janvier 2020 : toutes les voitures LEGO Speed Champions sont désormais 25% plus grandes pour intégrer davantage de détails des versions originales !
+- Ce kit de construction est fourni avec des instructions étape par étape faciles à suivre afin que les fans n’aient d’autre préoccupation que d’assembler leur modèle de course aussi vite qu’ils le souhaitent.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WHMBVTF/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO® Technic Porsche 911 RSR Jeu voitur avec 23.33 % rabais '
-date: 2021-03-28 01:49:09
+date: 2021-03-29 03:39:48
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21'
 descuento: '23.33'
-average: '124.170372208436'
+average: '124.125037037037'
 ---
 
 C'est en vente [LEGO® Technic Porsche 911 RSR Jeu voiture  10 Ans et Plus  1580 Pièces 42096](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)  à  23.33 % de réduction, prix final  114.99 EUR (original: 149.99 EUR) ici:
