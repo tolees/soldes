@@ -29,10 +29,10 @@ Vous avez [elasto form - Lot de 10 masques de protection respiratoire FFP3  cer
 ℹ️:
 
 - Confort : le pince-nez flexible et les contours doreilles élastiques de notre masque FFP3 offrent un confort optimal et une bonne stabilité. Grâce à sa forme large, ce masque étanche est bien ajusté et permet de respirer aisément.
-- Emballage hygiénique : le conditionnement de 10 pièces dans un sac en plastique et un carton de conservation vous assure un masque de protection respiratoire irréprochable et hygiénique.
-- La tolérance cutanée est confirmée par des tests dermatologiques avec la mention « très bien ».
-- D’origine allemande : le masque de protection respiratoire FFP3 est fabriqué en Bavière, à Sulzbach-Rosenberg. - -
 - Produit certifié CE selon la norme EN 149:2001 + A1:2009 ; règlement (UE) 2016/425 pour léquipement de protection individuelle.
+- D’origine allemande : le masque de protection respiratoire FFP3 est fabriqué en Bavière, à Sulzbach-Rosenberg. - -
+- La tolérance cutanée est confirmée par des tests dermatologiques avec la mention « très bien ».
+- Emballage hygiénique : le conditionnement de 10 pièces dans un sac en plastique et un carton de conservation vous assure un masque de protection respiratoire irréprochable et hygiénique.
 - Classe de protection FFP3 : ils sont dotés dune couche filtrante efficace à 4 couches de tissu fondu, soufflé et non tissé.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08H2DGSHV/?tag=tolees0d-21)

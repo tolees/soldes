@@ -28,13 +28,13 @@ Vous avez [DiO Connected Home - Micromodule Pour Prise Encastrée DI-O 3500W - C
 
 ℹ️:
 
-- Pour boite de dérivation, prévoir minimum 50mm.
 - Idéal pour commander votre prise avec un interrupteur sans fil, une télécommande ou nimporte quel émetteur dio by chacon (sauf 54741)
-- Ce module rend votre prise murale compatible avec la gamme domotique sans fil dio by chacon.
 - fréquence utilisée 433.92mhz
-- Récepteur 16a, max. 3500w
-- compatible avec la centrale myfox
-- Gardez votre prise murale existante et commandez-la à distance, grâce à une télécommande ou interrupteur sans fil
 - Module extra-plat à installer derrière la prise murale existante
+- Ce module rend votre prise murale compatible avec la gamme domotique sans fil dio by chacon.
+- Récepteur 16a, max. 3500w
+- Gardez votre prise murale existante et commandez-la à distance, grâce à une télécommande ou interrupteur sans fil
+- Pour boite de dérivation, prévoir minimum 50mm.
+- compatible avec la centrale myfox
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00O8TYWXU/?tag=tolees0d-21)

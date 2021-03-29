@@ -28,10 +28,10 @@ Vous avez [Ferplast Greta Cage Grande pour Perruche Equipée Noir 97 x 58 x 84 c
 
 ℹ️:
 
+- Structure en métal robuste avec ouverture sur le dessus
 - montage facile
+- Stand sommet 63 Wood disponible en option
 - Equipée dun bac en plastique avec tiroir extractible
 - Cages entièrement équipée de 3 perchoirs bois, miroir mangeoires et abreuvoir
-- Stand sommet 63 Wood disponible en option
-- Structure en métal robuste avec ouverture sur le dessus
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00QRUKHLY/?tag=tolees0d-21)

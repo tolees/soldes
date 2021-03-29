@@ -28,11 +28,11 @@ Vous avez [Ögon Smart Wallets - Portefeuille Matelassé en Aluminium Quilted Zi
 
 ℹ️:
 
-- Collection capsule avec le designer Eric Berthes
 - Pratique, organisé et super stylé
-- RFID Protection : protège vos cartes contre la fraude
-- Fermeture zippée et intérieure en tissu
-- Portefeuille / Porte-cartes en aluminium matelassé
 - Capacité jusquà 24 cartes + pièces + reçus + billets
+- Collection capsule avec le designer Eric Berthes
+- RFID Protection : protège vos cartes contre la fraude
+- Portefeuille / Porte-cartes en aluminium matelassé
+- Fermeture zippée et intérieure en tissu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EZSX366/?tag=tolees0d-21)

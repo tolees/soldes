@@ -28,14 +28,14 @@ Vous avez [NETGEAR Répéteur WiFi  EX6130   Amplificateur WiFi AC1200  WiFi Boo
 
 ℹ️:
 
-- Nombre de ports Ethernet : 1 port Fast Ethernet 10/100 Mbit/s avec détection automatique de la vitesse
-- Mise à jour 802.11ac simple grâce au mode point d’accès
-- Connexion Wifi Dual Band atteignant 1200 Mbit/s, WiFi extender bi-bandes jusquà 1,2 Gbps
-- Boostez votre signal Wi-Fi; Performances Wifi: AC1200; Freebox: Non. Cryptage: WEP, WPA, WPA2-PSK, Transformez Les Zones Mortes en Zones Couvertes
-- Configuration requise: Navigateur Microsoft Internet Explorer 8.0, Firefox 20, Safari 5.1 ou Google Chrome 25.0 (ou versions supérieures)
 - Configuration en mode répéteur ou point d’accès en toute simplicité
-- Bande Wifi : Dual Band 2,4 et 5 GHz (IEEE 802.11b/g/n 2,4 GHz / IEEE 802.11 a/n/ac 5 GHz)
+- Configuration requise: Navigateur Microsoft Internet Explorer 8.0, Firefox 20, Safari 5.1 ou Google Chrome 25.0 (ou versions supérieures)
+- Nombre de ports Ethernet : 1 port Fast Ethernet 10/100 Mbit/s avec détection automatique de la vitesse
+- Connexion Wifi Dual Band atteignant 1200 Mbit/s, WiFi extender bi-bandes jusquà 1,2 Gbps
 - Configuration requise : Routeur ou passerelle Wifi 2,4 et/ou 5 GHz 802.11 a/b/g/n/ac / avigateur Microsoft Internet Explorer 8.0, Firefox 20, Safari 5.1 ou Google Chrome 25.0 (ou versions supérieures)
+- Mise à jour 802.11ac simple grâce au mode point d’accès
+- Boostez votre signal Wi-Fi; Performances Wifi: AC1200; Freebox: Non. Cryptage: WEP, WPA, WPA2-PSK, Transformez Les Zones Mortes en Zones Couvertes
+- Bande Wifi : Dual Band 2,4 et 5 GHz (IEEE 802.11b/g/n 2,4 GHz / IEEE 802.11 a/n/ac 5 GHz)
 - Fonctionne avec les appareils prenant en charge la norme WPS : (Wi-Fi Protected Setup)
 - Compatible avec les nouveaux périphériques Wifi 802.11ac et b/g/n
 
