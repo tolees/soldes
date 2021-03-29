@@ -28,10 +28,10 @@ C'est en vente [Solimo - Marque Amazon - Gel douche 3-In-1  Corps visage  cheveu
 
 ℹ️:
 
-- Gel Douche homme
 - 6 Flacons x 400 ml
 - Pour un usage externe uniquement
-- Idéal pour un usage régulier
+- Gel Douche homme
 - Testé sous contrôle dermatologique
+- Idéal pour un usage régulier
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08L5LWKK5/?tag=tolees0d-21)
