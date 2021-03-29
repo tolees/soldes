@@ -28,9 +28,9 @@ C'est en vente [Philips UVC - [Exclusivité Amazon] Philips Lampe de Désinfecti
 
 ℹ️:
 
-- Veuillez suivre toutes les consignes de sécurité figurant dans le manuel du produit avant de lutiliser
-- Ce produit est actuellement une exclusivité amazon
-- Détecteur de mouvement : lexposition aux uv-c peuvent être nocive pour les yeux et la peau, nous avons donc ajouté une protection supplémentaire grâce aux détecteurs de présence intégrés et aux minuteurs.
 - Efficace : les lampes uv-c philips peuvent efficacement inactiver les virus, les bactéries et les spores en quelques minutes, toutes les bactéries et tous les virus testés à ce jour réagissent à la désinfection par uv-c.²
+- Ce produit est actuellement une exclusivité amazon
+- Veuillez suivre toutes les consignes de sécurité figurant dans le manuel du produit avant de lutiliser
+- Détecteur de mouvement : lexposition aux uv-c peuvent être nocive pour les yeux et la peau, nous avons donc ajouté une protection supplémentaire grâce aux détecteurs de présence intégrés et aux minuteurs.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PML77SV/?tag=tolees0d-21)

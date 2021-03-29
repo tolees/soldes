@@ -28,10 +28,10 @@ C'est en vente [Lacoste Mixte Enfant Analogique Classique Quartz Montre avec Bra
 
 ℹ️:
 
+- Chiffres faciles à lire
 - Trotteuse colorée
 - Lacoste 12.12 inspiré Polo
 - Bracelet en silicone Petit Piqué
-- Chiffres faciles à lire
 - Resistance a leau 5 ATM
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073XD81MY/?tag=tolees0d-21)

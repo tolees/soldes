@@ -28,9 +28,9 @@ Vous avez [Playmobil - Salon Équipé - 9267](https://www.amazon.fr/dp/B06X1GY4G
 
 ℹ️:
 
+- La lampe de table ronde sallume (nécessite 2 piles 1,5 V micro non fournies)
 - Contient 2 personnages, 1 canapé, 1 TV, 2 enceintes, 2 lecteurs de DVD, 2 bibliothèques, 1 saxophone, 1 pot de fleur Lechuza, 1 voiture jouet et des accessoires
 - 3 pressions : léclairage séteint totalement. Arrêt automatique : env. 120 sec.
-- La lampe de table ronde sallume (nécessite 2 piles 1,5 V micro non fournies)
 - 1 pression : la lumière blanche sallume. 2 pressions : la couleur change en continu (bleu - violet - rouge - jaune - vert)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)
