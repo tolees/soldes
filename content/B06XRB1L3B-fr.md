@@ -28,12 +28,12 @@ C'est en vente [Microsoft – Surface Ergonomic Keyboard – Clavier sans fil Bl
 
 ℹ️:
 
-- Bluetooth smart
-- Fréquence sans fil : 2 400 MHz–2 483,5 MHz
-- Jusquà 12 mois dautonomie
-- Repose-poignets moussé recouvert en Alcantara
-- Confort de frappe optimal
 - Piles: 2 piles alcalines AAA
+- Bluetooth smart
+- Jusquà 12 mois dautonomie
+- Fréquence sans fil : 2 400 MHz–2 483,5 MHz
+- Repose-poignets moussé recouvert en Alcantara
 - Conception et design ergonomiques
+- Confort de frappe optimal
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XRB1L3B/?tag=tolees0d-21)

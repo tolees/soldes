@@ -28,10 +28,10 @@ C'est en vente [Homedics 50 Masques médicaux à usage unique 3 plis - 3 couches
 
 ℹ️:
 
-- AJUSTABLE A VOTRE VISAGE - Barrette dajustement nasale pour que le masque épouse bien votre visage.
 - PROTECTION ANTIBACTERIENNE – L’efficacité de la filtration bactérienne de ces masques (Bacterial Filtration Efficiency - BFE) est supérieure à 99% et a été testée et est conforme aux Normes Européennes
-- MASQUE CHIRURGICAL - Masque medical de type 1 IIR
 - FILTRATION DES PARTICULES – Ces masques de protection jetables protègent contre la projection de gouttelettes, la poussière, les microbes et les liquides
+- AJUSTABLE A VOTRE VISAGE - Barrette dajustement nasale pour que le masque épouse bien votre visage.
 - 3 COUCHES DE PROTECTION - Couche externe : tissu non-tissé, couche intermédiaire : micro-fibres, couche interne : doux pour la peau.
+- MASQUE CHIRURGICAL - Masque medical de type 1 IIR
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0896LKXX1/?tag=tolees0d-21)
