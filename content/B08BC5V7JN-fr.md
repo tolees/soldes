@@ -28,9 +28,9 @@ C'est en vente [Samsung A21s Blue Móvil 4g Dual Sim 6.5   LCD HD+/8core/64gb/4g
 
 ℹ️:
 
+- Smartphone sous systeme Android 10
 - Ecran de 6.5 - 4G: Oui
 - Appareil photo de 48 + 8 + 2 + 2 Mégapixels
-- Smartphone sous systeme Android 10
 - Memoire interne: 64 Go - RAM: 4 Go
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BC5V7JN/?tag=tolees0d-21)
