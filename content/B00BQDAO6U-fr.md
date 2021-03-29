@@ -28,7 +28,7 @@ Vous avez [kwb 909610 Sacoche porte-outils de ceinture](https://www.amazon.fr/dp
 
 ℹ️:
 
-- 150mm largeur
 - longueur 270mm
+- 150mm largeur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BQDAO6U/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ C'est en vente [Marque Amazon - find. Jean Skinny Taille Haute Femme  Noir  36W 
 
 ℹ️:
 
+- 5 poches
 - Taille haute
 - Ourlet effiloché
-- 5 poches
 - Coupe moulante
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073D53RGN/?tag=tolees0d-21)

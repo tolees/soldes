@@ -28,9 +28,9 @@ Vous avez [PUMA Popcat 20  Sandale Glissante Mixte  Blanc White Black  43 EU](ht
 
 ℹ️:
 
-- Marque : Puma
-- Référence : 372279-02-43
 - Couleur : noir
+- Référence : 372279-02-43
 - Homme > Chaussures > Claquettes - tongs
+- Marque : Puma
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S6NVDLN/?tag=tolees0d-21)

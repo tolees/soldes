@@ -28,10 +28,10 @@ Vous avez [Samsung SSD Interne 860 EVO M.2  1 TB  - MZ-N6E1T0BW](https://www.ama
 
 ℹ️:
 
-- Fiabilité sans souci. Consommation é lectrique (W): moyenne: 3,0 W; maximale: 4,5 W (mode rafale) et la consommation ?ectrique réelle peut varier selon le mat?riel et la configuration du systéme
 - Compatibilité etendue avec un controleur raffin. Cryptage AES: cryptage AES 256 bits (Classe 0) TCG / Opal IEEE1667 (lecteur crypt?)
-- Chiffrement avancé des donné es.Fiabilité (MTBF): 1,5 million dheures de fiabilité (MTBF). Choc: 1500 G et 0,5 ms (demi-sinus)
+- Fiabilité sans souci. Consommation é lectrique (W): moyenne: 3,0 W; maximale: 4,5 W (mode rafale) et la consommation ?ectrique réelle peut varier selon le mat?riel et la configuration du systéme
 - Jusquà 520 Mo / s en écriture séquentielle. Facteur de forme : M.2 SATA
+- Chiffrement avancé des donné es.Fiabilité (MTBF): 1,5 million dheures de fiabilité (MTBF). Choc: 1500 G et 0,5 ms (demi-sinus)
 - Température de fonctionnement: 0 - 70 ℃
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WQT6SB/?tag=tolees0d-21)

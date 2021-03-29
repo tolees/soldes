@@ -28,10 +28,10 @@ Vous avez [Philips BT7520/15  Tondeuse barbe Series 7000 avec système d aspirat
 
 ℹ️:
 
-- 20 hauteurs de coupe verrouilla blés, de 0,5 à 10 mm et pas de 0,5 mm
-- Tondeuse de précision et 3 sabots réglables pour des finitions parfaites
-- Le guide de coupe dynamique soulève les poils pour une coupe impeccable
-- Jusquà 100 minutes dautonomie pour 1 heure de charge seulement. Livrée avec un socle de charge et une pochette de rangement premium
 - Le système daspiration puissant aspire jusquà 90 % des poils coupés
+- Jusquà 100 minutes dautonomie pour 1 heure de charge seulement. Livrée avec un socle de charge et une pochette de rangement premium
+- 20 hauteurs de coupe verrouilla blés, de 0,5 à 10 mm et pas de 0,5 mm
+- Le guide de coupe dynamique soulève les poils pour une coupe impeccable
+- Tondeuse de précision et 3 sabots réglables pour des finitions parfaites
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FKRSS6X/?tag=tolees0d-21)

@@ -29,7 +29,7 @@ Vous avez [Dim - Pockets Coton - Slip - Quotidien - Lot de 3 - Femme - Noir  Lot
 ℹ️:
 
 - Lot de trois slips Les Pockets Coton Stretch, unis ou imprimés avec des détails féminins
-- Ceinture et matières coton/élasthanne confortables
 - 95% coton, 5% élasthanne
+- Ceinture et matières coton/élasthanne confortables
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005XMQIG0/?tag=tolees0d-21)

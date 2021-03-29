@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dim - Les Pockets Ecodim - Slip - Lot de avec 21.26 % rabais '
-date: 2021-03-27 11:46:32
+date: 2021-03-28 12:55:19
 image: 'https://m.media-amazon.com/images/I/41X26Ey4B+L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,7 +29,7 @@ C'est en vente [Dim - Les Pockets Ecodim - Slip - Lot de 5 - Femme - Multicolore
 ℹ️:
 
 - 5% Élasthanne
-- Lavage en machine
 - 95% Coton
+- Lavage en machine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01C55GDLC/?tag=tolees0d-21)

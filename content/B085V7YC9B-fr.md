@@ -28,10 +28,10 @@ C'est en vente [FREEGUN Lot de 6 Boxers Homme Casino](https://www.amazon.fr/dp/B
 
 ℹ️:
 
+- Collection : USA
+- Unite de vente : Lot de 6
+- Motif : Vegas, Nevada, Panorama, Casino et Uni
 - Caracteristiques technique : Confort, Respirant
 - Composition : 92% Polyester 8% Elasthanne / Doublure 100% Coton
-- Unite de vente : Lot de 6
-- Collection : USA
-- Motif : Vegas, Nevada, Panorama, Casino et Uni
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085V7YC9B/?tag=tolees0d-21)

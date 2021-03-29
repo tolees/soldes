@@ -28,10 +28,10 @@ Vous avez [Mezorrison Masque Respiratoires FFP3（10Pcs）  Masque Jetable en 14
 
 ℹ️:
 
-- ★ 【Conformité aux Normes UE】: Notre chaque masque FFP3 fini a été strictement testé conformément à la norme UE EN 149: 2001 + A1: 2009 spécifications, classification: FFP3.
 - ★ 【Haute Capacité de Filtration】: Les respirateurs à particules Mezorrison sont conçus pour avoir une capacité de filtration élevée tout en conservant une faible résistance respiratoire, permettant une respiration facile et confortable pendant des périodes prolongées. Leffet du filtre est supérieur à 99%.
-- ★ 【Achetez en Toute Confiance】: La satisfaction des clients est la priorité de notre service. Merci de nous contacter en cas des soucis, nous allons vous approter une solution satisfaisante sous 24h.
 - ★ 【Valve dExpiration】: Masque respiratoire Mezorrison FFP3 présente une forme profilée. La valve respiratoire et la structure du suport de contour améliorent lexpérience de port et peuvent réduire efficacement la chaleur et lhumidité sensuelles causées par le port du masque pendant une longue période.
+- ★ 【Conformité aux Normes UE】: Notre chaque masque FFP3 fini a été strictement testé conformément à la norme UE EN 149: 2001 + A1: 2009 spécifications, classification: FFP3.
+- ★ 【Achetez en Toute Confiance】: La satisfaction des clients est la priorité de notre service. Merci de nous contacter en cas des soucis, nous allons vous approter une solution satisfaisante sous 24h.
 - ★ 【Doux et Confortable】: Masque fabriqué en tissus doux avec une filtration très efficace vous rend une respiration plus douce et plus confortable pour un port à long terme.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08NDKFW2B/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ C'est en vente [Morgan 201-pom.p Hose Femme  Bleu  Jean Stone   38](https://www.
 ℹ️:
 
 - 5 poches
-- Jeans slim taille standard à poches
+- Coupe slim
 - Taille standard
 - Fermeture zippée et boutonnée sur le devant
-- Coupe slim
+- Jeans slim taille standard à poches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V5Q1KP9/?tag=tolees0d-21)

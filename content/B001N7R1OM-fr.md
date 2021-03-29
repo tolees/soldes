@@ -29,7 +29,7 @@ C'est en vente [REMINISCENCE Eau de Toilette Femme Patchouli - 50 ml](https://ww
 ℹ️:
 
 - Patchouli Pour Femme eau de Cologne de la marca Reminiscence
-- Patchouli Pour Femme eau de Cologne pour femme
 - Un produit unique et exclusif de la marque Reminiscence
+- Patchouli Pour Femme eau de Cologne pour femme
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001N7R1OM/?tag=tolees0d-21)

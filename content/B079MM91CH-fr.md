@@ -29,8 +29,8 @@ C'est en vente [Playmobil - Fusée Mars avec Plateforme de Lancement - 9488](htt
 ℹ️:
 
 - Encore quelques étapes finales, et la fusée mars de Play mobil sera prête à décoller.
-- Avec astronautes, plate-forme de maintenance, module lumineux et sonore. Dimensions: 22 x 28 x 72 cm (L x P x h).
 - Dans le centre de commande, le technicien vérifie à nouveau les coordonnées de vol.
+- Avec astronautes, plate-forme de maintenance, module lumineux et sonore. Dimensions: 22 x 28 x 72 cm (L x P x h).
 - Rejoins notre équipe dastronautes, techniciens et robots !
 - Convient aux enfants de plus de 6 ans.
 

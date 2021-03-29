@@ -28,11 +28,11 @@ C'est en vente [Philips AVENT Babyphone vidéo SCD833/26 - Écran couleur 2 7" -
 
 ℹ️:
 
-- Philips Avent – la marque n°1 Babyphone (Sur la base dune enquête représentative GemSeek sur la préférence de la marque en Allemagne en 2018 avec 512 interrogations)
-- Contenu de la livraison : 1 caméra, 1 unité parentale, câble de charge
-- Mode ECO économe en énergie avec affichage de connexion, 5 berceuses et fonction interphone
 - Connexion privée et sécurisée grâce à la technologie FHSS personnalisable
-- Écran couleur haute résolution de 6,9 cm (2,7 pouces) et vue automatique jour et nuit
 - Très grande portée (jusquà 300 m en extérieur / jusquà 50 m en intérieur) et 10 heures (autonomie de la batterie de lunité parent)
+- Philips Avent – la marque n°1 Babyphone (Sur la base dune enquête représentative GemSeek sur la préférence de la marque en Allemagne en 2018 avec 512 interrogations)
+- Mode ECO économe en énergie avec affichage de connexion, 5 berceuses et fonction interphone
+- Écran couleur haute résolution de 6,9 cm (2,7 pouces) et vue automatique jour et nuit
+- Contenu de la livraison : 1 caméra, 1 unité parentale, câble de charge
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KS8MP5Y/?tag=tolees0d-21)

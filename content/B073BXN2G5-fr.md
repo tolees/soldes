@@ -29,9 +29,9 @@ C'est en vente [Saucony Jazz Original Vintage  Baskets Mixte  Bleu  Blue/Navy Si
 ℹ️:
 
 - Semelle intérieure offrant une absorption des chocs, un ajustement et un confort supplémentaire.
-- Semelle extérieure en caoutchouc durable.
-- Dessus en nylon/daim pour une utilisation longue durée.
-- Semelle intermédiaire à rayures en EVA absorbant les chocs.
 - Lacets sur le devant avec col et languette rembourrés.
+- Semelle intermédiaire à rayures en EVA absorbant les chocs.
+- Dessus en nylon/daim pour une utilisation longue durée.
+- Semelle extérieure en caoutchouc durable.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073BXN2G5/?tag=tolees0d-21)

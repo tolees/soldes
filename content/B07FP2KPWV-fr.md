@@ -28,13 +28,13 @@ Vous avez [LEGO L hélicoptère de Secours](https://www.amazon.fr/dp/B07FP2KPWV/
 
 ℹ️:
 
-- Comprend des rotors qui tournent, des portes latérales et arrière qui s’ouvrent, un treuil qui fonctionne et une civière de secours.
-- Lavion futuriste mesure plus de 7 cm de haut, 27 cm de long et 30 cm de large.
-- L’hélicoptère de secours mesure plus de 12 cm de haut, 29 cm de long et 23 cm de large.
 - Ensemble LEGO Technic 2-en-1 : se transforme en avion futuriste.
 - Possibilité douvrir les portes latérales et dactionner le treuil pour abaisser la civière de secours.
+- L’hélicoptère de secours mesure plus de 12 cm de haut, 29 cm de long et 23 cm de large.
+- Comprend des rotors qui tournent, des portes latérales et arrière qui s’ouvrent, un treuil qui fonctionne et une civière de secours.
+- Lavion futuriste mesure plus de 7 cm de haut, 27 cm de long et 30 cm de large.
+- Ce modèle dhélicoptère LEGO Technic est conçu pour fournir une expérience de construction immersive et enrichissante.
 - Les ensembles LEGO Technic comprennent des mouvements et des mécanismes réalistes qui introduisent les jeunes constructeurs LEGO dans l’univers de l’ingénierie de manière accessible et réaliste.
 - Cet ensemble facile à construire est idéal pour les constructeurs LEGO Technic en herbe.
-- Ce modèle dhélicoptère LEGO Technic est conçu pour fournir une expérience de construction immersive et enrichissante.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FP2KPWV/?tag=tolees0d-21)

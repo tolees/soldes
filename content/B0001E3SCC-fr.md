@@ -28,10 +28,10 @@ C'est en vente [Équipement d Aspiration 3 5 M de Gardena : Tuyau d Aspiration 
 
 ℹ️:
 
-- Directement prêt à lemploi : complet avec filtre daspiration pour protéger la pompe
-- La livraison comprend : 1 équipement daspiration pour pompes 3,5 m de GARDENA
-- Raccordement facile : convient pour les pompes avec un filetage externe de 33,3 mm (G 1")
-- Aspiration efficace : avec arrêt de reflux pour une ré-aspiration rapide
 - Résistant au vide et durable : le tuyau spiralé ne se rétracte pas lors de laspiration
+- La livraison comprend : 1 équipement daspiration pour pompes 3,5 m de GARDENA
+- Directement prêt à lemploi : complet avec filtre daspiration pour protéger la pompe
+- Aspiration efficace : avec arrêt de reflux pour une ré-aspiration rapide
+- Raccordement facile : convient pour les pompes avec un filetage externe de 33,3 mm (G 1")
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0001E3SCC/?tag=tolees0d-21)

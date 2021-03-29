@@ -29,11 +29,11 @@ Vous avez [Helly Hansen Crew Softshell Veste Homme Marine FR : M  Taille Fabrica
 ℹ️:
 
 - Ruban contrasté sur l’empiècement dos
-- 92 % polyester, 8 % élasthanne
+- Poches avec fermeture
 - Passepoil contrasté sur la poche poitrine
 - Tissu déperlant léger sur les panneaux latéraux
+- 92 % polyester, 8 % élasthanne
 - Metalux sur le devant et la poche poitrine
 - Tissu softshell avec membrane
-- Poches avec fermeture
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01IPFNS78/?tag=tolees0d-21)

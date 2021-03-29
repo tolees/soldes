@@ -28,11 +28,11 @@ C'est en vente [Corsair - T1 Race - Fauteuil Gaming de Bureau en Similicuir  Mon
 
 ℹ️:
 
-- Châssis du dossier et de lassise en acier : Larmature robuste en acier promet de vous accompagner pendant de longues années
-- Assise avec hauteur ajustable : Augmentez ou diminuez la hauteur de lassise facilement, et maintenez votre position grâce à un vérin pneumatique en acier
-- Roulettes pivotantes en nylon : Les roulettes solides en nylon assurent une bonne stabilité lorsque vous jouez, sur tous les sols, et glissent à merveille
 - Accoudoirs réglables dans tous les sens : Augmentez ou diminuez la hauteur des accoudoirs, déplacez-les vers la gauche ou vers la droite, vers lavant ou vers larrière, ou faites les pivoter
 - Fonction dinclinaison avec verrouillage de la position : Avec dincliner le fauteuil ou de verrouiller la position, vous langle général dinclinaison de lassise de 10 degrés supplémentaires
+- Roulettes pivotantes en nylon : Les roulettes solides en nylon assurent une bonne stabilité lorsque vous jouez, sur tous les sols, et glissent à merveille
 - Dossier inclinable: Inclinez le dossier de votre siège pour accéder à la position la plus confortable selon vous; Toutes les positions sont possibles jusquà 180degrés
+- Assise avec hauteur ajustable : Augmentez ou diminuez la hauteur de lassise facilement, et maintenez votre position grâce à un vérin pneumatique en acier
+- Châssis du dossier et de lassise en acier : Larmature robuste en acier promet de vous accompagner pendant de longues années
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077HD3QGH/?tag=tolees0d-21)

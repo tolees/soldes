@@ -29,10 +29,10 @@ Vous avez [Western Digital - WD Blue SSD - Disque SSD interne 2.5" SATA 2To 3D N
 ℹ️:
 
 - Température de fonctionnement: 0 ° V - 70 ° C Non - Température de fonctionnement: -55 ° - 85 ° C
-- Certification WD F.I.T. Lab pour une compatibilité avec une large gamme dordinateurs
-- SSD SATA NAND 3D pour une capacité maximale de 2 To et une fiabilité accrue
-- Vitesse de lecture séquentielle jusquà 560 Mo/s et vitesse décriture séquentielle jusquà 530 Mo/s
 - Consommation dénergie active jusquà 25 % plus faible que les générations précédentes de SSD WD Blue
+- Certification WD F.I.T. Lab pour une compatibilité avec une large gamme dordinateurs
+- Vitesse de lecture séquentielle jusquà 560 Mo/s et vitesse décriture séquentielle jusquà 530 Mo/s
+- SSD SATA NAND 3D pour une capacité maximale de 2 To et une fiabilité accrue
 - Durée moyenne de bon fonctionnement entre pannes (MTTF) de 1,75 million dheures, parmi les meilleures du marché, et taux dendurance pouvant atteindre jusquà 500 téraoctets écrits (TBW) pour une fiabilité accrue
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SBRHH6/?tag=tolees0d-21)

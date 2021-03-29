@@ -28,7 +28,7 @@ Vous avez [Dockers Smart 360 Flex Alpha Skinny Jeans  Olive  33W / 32L Homme](ht
 
 ℹ️:
 
-- BCI, WATERLESS
 - Smart 360 Flex Alpha Skinny
+- BCI, WATERLESS
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ND65SV6/?tag=tolees0d-21)

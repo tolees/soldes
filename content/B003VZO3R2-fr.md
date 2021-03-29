@@ -28,9 +28,9 @@ Vous avez [Ideal Standard Connect Space Cuvette WC suspendu Gain de place Blanc 
 
 ℹ️:
 
-- Cuvette WC suspendu spécial gain de place
 - Qualité Ideal Standard : produit fabriqué en Europe et certifié NF
 - Cuvette carénée qui se nettoie facilement
+- Cuvette WC suspendu spécial gain de place
 - Dmensions 48x 36 x 40 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003VZO3R2/?tag=tolees0d-21)

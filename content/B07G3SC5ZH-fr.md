@@ -28,10 +28,10 @@ C'est en vente [LEGO 75947 Harry Potter La cabane de Hagrid : le sauvetag
 
 ℹ️:
 
-- Inclut 6 figurines LEGO: Hagrid et Harry Potter, Ron Weasley, Hermione Granger, Executioner et le ministre de la Magie pour juin 2019
-- La pièce principale et les bureaux du Hagrid´s Hut comprennent une multitude d’accessoires, de meubles et une brique lumineuse à interrupteur pour la cheminée
-- Le personnage de Buckbeak the the Hippogriff à assembler a des ailes et une tête mobiles, retenu par une chaîne amovible et mesure 1 "(5cm) de hauteur
-- Comprend également des citrouilles, une lanterne, une hache, 3 baguettes, un œuf dans un bol, un parapluie rose de Hagrid, une araignée, un couperet à viande, un lasso, un balai, un seau et bien d’autres
 - Construisez la cabane de Hagrid dans une forêt aménageable en deux parties, puis sauvez lhippogriffe du bourreau et du ministre de la Magie
+- Inclut 6 figurines LEGO: Hagrid et Harry Potter, Ron Weasley, Hermione Granger, Executioner et le ministre de la Magie pour juin 2019
+- Comprend également des citrouilles, une lanterne, une hache, 3 baguettes, un œuf dans un bol, un parapluie rose de Hagrid, une araignée, un couperet à viande, un lasso, un balai, un seau et bien d’autres
+- Le personnage de Buckbeak the the Hippogriff à assembler a des ailes et une tête mobiles, retenu par une chaîne amovible et mesure 1 "(5cm) de hauteur
+- La pièce principale et les bureaux du Hagrid´s Hut comprennent une multitude d’accessoires, de meubles et une brique lumineuse à interrupteur pour la cheminée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3SC5ZH/?tag=tolees0d-21)

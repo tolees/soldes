@@ -28,11 +28,11 @@ C'est en vente [Medela Tire Lait Électrique Double Swing Maxi Flex  S Adapte au
 
 ℹ️:
 
-- Forme ovale: pivote à 360° pour sadapter à toutes les poitrines
 - Double pompage: expression en 2x moins de temps
 - Plus de lait, plus de confort: 11% de lait en plus
-- Angle 105°: sadapte mieux au sein et améliore lécoulement de lait
-- Anti-debordement: pour exprimer son lait dans une position confortable
+- Forme ovale: pivote à 360° pour sadapter à toutes les poitrines
 - Rebord souple & doux: apporte confort et douceur sur la peau
+- Anti-debordement: pour exprimer son lait dans une position confortable
+- Angle 105°: sadapte mieux au sein et améliore lécoulement de lait
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SPVYQTV/?tag=tolees0d-21)

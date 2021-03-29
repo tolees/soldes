@@ -28,8 +28,8 @@ C'est en vente [Take 3 - Bioshock : The Collection](https://www.amazon.fr/dp/B01
 
 ℹ️:
 
-- Bioshock: the collection reprend les trois aventures épiques de lunivers bioshock, magistralement remasterisées en haute définition
-- Bioshock: the collection regroupe tout le contenu solo de bioshock, bioshock 2 et bioshock infinite, ainsi que tout le contenu additionnel solo et le pack "le meilleur de columbia".
 - Revisitez rapture et columbia, à la redécouverte de bioshock, la franchise au succès phénoménal
+- Bioshock: the collection regroupe tout le contenu solo de bioshock, bioshock 2 et bioshock infinite, ainsi que tout le contenu additionnel solo et le pack "le meilleur de columbia".
+- Bioshock: the collection reprend les trois aventures épiques de lunivers bioshock, magistralement remasterisées en haute définition
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01HTBVKCY/?tag=tolees0d-21)

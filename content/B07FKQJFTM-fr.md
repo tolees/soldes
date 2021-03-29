@@ -28,11 +28,11 @@ C'est en vente [VTech - V Tech - Ordi Genius Kid  Rose - Version FR](https://www
 
 ℹ️:
 
-- 20 activités pour découvrir les formes, les animaux, la logique, le vocabulaire
-- Version française
-- Ecran interactif rétro-éclairé, animations amusantes, clavier abécédaire, 10 touches Chiffre
-- Différents niveaux de progression : plus l’enfant joue, plus la difficulté augmente
 - 30 mélodies et différents modes musicaux : rock, jazz et country
+- Ecran interactif rétro-éclairé, animations amusantes, clavier abécédaire, 10 touches Chiffre
 - Personnalisable : prénom, âge, mélodie, avatar et aliments préférés de l’enfant
+- Différents niveaux de progression : plus l’enfant joue, plus la difficulté augmente
+- Version française
+- 20 activités pour découvrir les formes, les animaux, la logique, le vocabulaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FKQJFTM/?tag=tolees0d-21)

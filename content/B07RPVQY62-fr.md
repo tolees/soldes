@@ -28,10 +28,10 @@ Vous avez [TP-Link Switch Ethernet  LS105G  Gigabit 5 ports RJ45 metallique 10/1
 
 ℹ️:
 
-- 【Switch Gigabit】5 ports RJ45 de négociation automatique à 10/100/1000Mbps prenant en charge Auto-MDI/MDIX
-- 【Green Technologie】La technologie Green Ethernet économise de lénergie, Garantie de Fabricant - 3 ans
-- 【Plug and Play】Installation de switch ethernet LS108G demande aucune configuration
 - 【QOS】Switch gigabit 5 ports support la fonction QoS 802.1p / DSCP pour définir la priorité du trafic
+- 【Plug and Play】Installation de switch ethernet LS108G demande aucune configuration
+- 【Green Technologie】La technologie Green Ethernet économise de lénergie, Garantie de Fabricant - 3 ans
+- 【Switch Gigabit】5 ports RJ45 de négociation automatique à 10/100/1000Mbps prenant en charge Auto-MDI/MDIX
 - 【Fontionnement Silencieux】Avec la conception sans ventilateur, switch ethernet LS105G convient à tout type denvironnement
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RPVQY62/?tag=tolees0d-21)

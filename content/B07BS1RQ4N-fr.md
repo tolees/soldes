@@ -28,13 +28,13 @@ Vous avez [Apple Magic Trackpad 2 - Gris sidéral](https://www.amazon.fr/dp/B07B
 
 ℹ️:
 
-- Et sa batterie durera environ un mois avant qu’une recharge soit nécessaire.
-- Configuration requise: Ordinateur Mac compatible Bluetooth 4.0 équipé d’OS X 10.11 ou version ultérieure.
-- Le Magic Trackpad 2 intègre une batterie rechargeable et apporte aux ordinateurs de bureau les atouts de la technologie Force Touch.
-- Le Magic Trackpad 2 s’associe automatiquement à votre Mac pour que vous puissiez vous mettre au travail sans attendre.
-- Compatibilité: MacBook Air, MacBook Pro, MacBook, iMac, iMac Pro, Mac Pro, Mac mini.
 - Connexions et extension: Bluetooth, Port Lightning, Technologie sans fil.
-- Quatre capteurs situés sous la surface vous permettent de cliquer n’importe où. Ils détectent les moindres différences de pression, vous mettant ainsi de nouvelles possibilités sous la main. Jamais vous n’aviez pu interagir à ce point avec vos contenus.
+- Et sa batterie durera environ un mois avant qu’une recharge soit nécessaire.
+- Le Magic Trackpad 2 s’associe automatiquement à votre Mac pour que vous puissiez vous mettre au travail sans attendre.
 - Le Magic Trackpad 2 est doté d’une surface en verre bord à bord, agrandie de près de 30 % par rapport au modèle précédent. Avec son profil abaissé, ce design améliore votre productivité et votre confort d’utilisation lorsque vous faites défiler vos contenus ou balayez de l’un à l’autre.
+- Le Magic Trackpad 2 intègre une batterie rechargeable et apporte aux ordinateurs de bureau les atouts de la technologie Force Touch.
+- Configuration requise: Ordinateur Mac compatible Bluetooth 4.0 équipé d’OS X 10.11 ou version ultérieure.
+- Compatibilité: MacBook Air, MacBook Pro, MacBook, iMac, iMac Pro, Mac Pro, Mac mini.
+- Quatre capteurs situés sous la surface vous permettent de cliquer n’importe où. Ils détectent les moindres différences de pression, vous mettant ainsi de nouvelles possibilités sous la main. Jamais vous n’aviez pu interagir à ce point avec vos contenus.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BS1RQ4N/?tag=tolees0d-21)

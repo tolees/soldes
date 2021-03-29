@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '19.10 % rabais sur Sony MDR-1AM2 Casque Hi-Res Audio - Noir'
-date: 2021-03-27 11:57:15
+date: 2021-03-28 13:07:05
 image: 'https://m.media-amazon.com/images/I/41SbjtcBqzL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Sony'
 buyurl: 'https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21'
 descuento: '19.10'
-average: '186.765384615385'
+average: '185.595333333334'
 ---
 
 Vous avez [Sony MDR-1AM2 Casque Hi-Res Audio - Noir](https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21)  à  19.10 % de réduction, prix final  177.99 EUR (original: 220.0 EUR) ici:
@@ -30,10 +30,10 @@ Vous avez [Sony MDR-1AM2 Casque Hi-Res Audio - Noir](https://www.amazon.fr/dp/B0
 
 - Profitez de votre musique dans sa qualité originale grâce au Hi-Res Audio. Type de cordon: OFC détachable / argenté. Style dusure: Circumaural
 - Sensibilités (dB/mW): 98 dB/mW
-- Diaphragme en film polymère à cristaux liquides réactif pour plus de clarté
-- Oreillettes pivotantes pour un transport aisé; Coussinets anti-pression pour un confort total
 - Le design enveloppant et fermé retient le son à lintérieur. Diaphragme: LCP revêtu daluminium
 - Des basses puissantes avec la technologie Beat Response Control
+- Diaphragme en film polymère à cristaux liquides réactif pour plus de clarté
 - Longueur de la corde:47-1 / 4 "
+- Oreillettes pivotantes pour un transport aisé; Coussinets anti-pression pour un confort total
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078VGLCHG/?tag=tolees0d-21)

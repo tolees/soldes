@@ -28,9 +28,9 @@ C'est en vente [Playmobil Volkswagen T1 Combi 70176](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
-- Adoré par des générations, dinnombrables aventuriers ont parcouru le monde dans ce camping-car
-- Contient deux personnages et des accessoires
-- Le Volkswagen T1 est une icône de la route !
 - Le toit est amovible
+- Le Volkswagen T1 est une icône de la route !
+- Contient deux personnages et des accessoires
+- Adoré par des générations, dinnombrables aventuriers ont parcouru le monde dans ce camping-car
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KVYS3R7/?tag=tolees0d-21)

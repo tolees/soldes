@@ -29,8 +29,8 @@ C'est en vente [Lacoste Daily Classic  Sac bandoulière Femme Noir  Black    5x1
 ℹ️:
 
 - Extérieur 1 poche et intérieur 2 poches dont 1 zippée
-- Dimensions 25,5 x 16,5 x 5 cm
 - Fermeture zippée avec tire-zip charm polo et bandoulière amovible
+- Dimensions 25,5 x 16,5 x 5 cm
 - Crocodile en métal argenté
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MP7K71N/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Crucial CT1000X6SSD9 X6 1To Portable SSD – Jusqu’à 540Mo/s 
 
 ℹ️:
 
+- FIABLE ET DURABLE: un produit Micron, l’un des plus grands fabricants de stockage flash au monde
+- LARGE COMPATIBILITÉ: compatible avec PC, Mac, Android, iPad Pro (PS4, Xbox One et ordinateurs en USB-A, un adaptateur, disponible séparément, est requis)
 - CAPACITÉ ÉNORME: 4 To de stockage, assez pour conserver jusqu’à 20 000 photos, 100 heures de vidéo, 6 000 chansons ou 400 Go de documents, et plus encore
 - PETIT, LÉGER: tient entre vos doigts et pèse moins que vos clés de voiture
 - RAPIDE: vitesses de lecture jusqu’à 540 Mo/s, c’est 3,8 fois plus rapide que la plupart des disques durs
-- LARGE COMPATIBILITÉ: compatible avec PC, Mac, Android, iPad Pro (PS4, Xbox One et ordinateurs en USB-A, un adaptateur, disponible séparément, est requis)
-- FIABLE ET DURABLE: un produit Micron, l’un des plus grands fabricants de stockage flash au monde
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FSZT2J7/?tag=tolees0d-21)

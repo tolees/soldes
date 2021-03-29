@@ -28,13 +28,13 @@ Vous avez [Tefal Crep Party Inox  Design  6 Empreintes  Crêpes  Blinis  Pancake
 
 ℹ️:
 
-- Fabriqué en France
-- FACILE A UTILISER : fonction Thermospot, lorsque le centre devient rouge, la température idéale de cuisson est atteinte
-- FACILE A RANGER : grace au positionnement vertical et aux rangement des accessoires sous le produit
-- REVÊTEMENT : antiadhésif Prométal 3 fois plus résistant que le revêtement Tefal
 - Le crêpier Crepparty 6 mini crêpes est parfait pour partager un moment convivial en famille ou avec vos amis
+- ACCESSOIRES INCLUS : 6 spatules et une louche
+- REVÊTEMENT : antiadhésif Prométal 3 fois plus résistant que le revêtement Tefal
+- FACILE A RANGER : grace au positionnement vertical et aux rangement des accessoires sous le produit
 - PRATIQUE : cordon amovible pour un rangement facile
 - Réparabilité 10 ans, Garantie 2 ans
-- ACCESSOIRES INCLUS : 6 spatules et une louche
+- Fabriqué en France
+- FACILE A UTILISER : fonction Thermospot, lorsque le centre devient rouge, la température idéale de cuisson est atteinte
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ESZEI0Q/?tag=tolees0d-21)

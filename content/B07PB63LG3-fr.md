@@ -28,10 +28,10 @@ C'est en vente [Samsung - Montre Galaxy Watch Active - Noir Pure - Version Fran�
 
 ℹ️:
 
+- Bluetooth 4.2
+- Vitesse CPU: 1,15 GHz
+- Objectif quotidien, gestion du stress et du sommeil. Résolution (écran principal): 360 x 360
 - Un interface repensée simple et fun
 - GPS avancé, 5 ATM
-- Bluetooth 4.2
-- Objectif quotidien, gestion du stress et du sommeil. Résolution (écran principal): 360 x 360
-- Vitesse CPU: 1,15 GHz
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PB63LG3/?tag=tolees0d-21)
