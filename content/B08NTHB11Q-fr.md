@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Lot de 6 masques respiratoires FFP3 LXD- avec 24.32 % rabais '
-date: 2021-03-25 00:48:31
+date: 2021-03-29 10:49:02
 image: 'https://m.media-amazon.com/images/I/416n8VADf8L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Lot de 6 masques respiratoires FFP3 LXD-03V NR avec valve certif
 
 ℹ️:
 
+- Haute efficacité de filtration : filtre au moins 99 % des particules.
+- Réutilisable dans le cadre du règlement.
 - Classe de protection FFP3 : protège contre les effets néfastes de la poussière, des aérosols solides et liquides.
 - Létanchéité est assurée à tout moment grâce à la forme anatomique, à larceau nasal et à la mousse détanchéité intérieure.
-- Réutilisable dans le cadre du règlement.
 - Conforme à la norme européenne EN 149:2001+A1:2009 et règlement (UE) 2016/425 (PPE)
-- Haute efficacité de filtration : filtre au moins 99 % des particules.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08NTHB11Q/?tag=tolees0d-21)

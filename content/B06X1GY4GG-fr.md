@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.43 % rabais sur Playmobil - Salon Équipé - 9267'
-date: 2021-03-27 12:05:36
+date: 2021-03-29 10:36:35
 image: 'https://m.media-amazon.com/images/I/51LcuH3WttL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Playmobil'
 buyurl: 'https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21'
 descuento: '17.43'
-average: '13.4483606557376'
+average: '13.4274603174602'
 ---
 
 Vous avez [Playmobil - Salon Équipé - 9267](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)  à  17.43 % de réduction, prix final  12.79 EUR (original: 15.49 EUR) ici:
@@ -28,9 +28,9 @@ Vous avez [Playmobil - Salon Équipé - 9267](https://www.amazon.fr/dp/B06X1GY4G
 
 ℹ️:
 
-- 1 pression : la lumière blanche sallume. 2 pressions : la couleur change en continu (bleu - violet - rouge - jaune - vert)
-- Contient 2 personnages, 1 canapé, 1 TV, 2 enceintes, 2 lecteurs de DVD, 2 bibliothèques, 1 saxophone, 1 pot de fleur Lechuza, 1 voiture jouet et des accessoires
 - 3 pressions : léclairage séteint totalement. Arrêt automatique : env. 120 sec.
 - La lampe de table ronde sallume (nécessite 2 piles 1,5 V micro non fournies)
+- 1 pression : la lumière blanche sallume. 2 pressions : la couleur change en continu (bleu - violet - rouge - jaune - vert)
+- Contient 2 personnages, 1 canapé, 1 TV, 2 enceintes, 2 lecteurs de DVD, 2 bibliothèques, 1 saxophone, 1 pot de fleur Lechuza, 1 voiture jouet et des accessoires
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06X1GY4GG/?tag=tolees0d-21)
