@@ -29,9 +29,9 @@ Vous avez [AKASO Caméra Sport 4K WiFi 20MP Télécommande Commande Vocale Ecran
 ℹ️:
 
 - 【Commandes Vocales Françaises】Vous pouvez contrôler votre AKASO caméra sport Brave 6 à laide de commandes vocales telles que «AKASO Enregistrer Vidéo» et «AKASO Prendre Photos». la commande vocale supporte langlais, français, etc.
+- 【Angle de Vue Optionnel】Langle de vue de cette caméra sport étanche peut être réglé entre 170 °, 140 °, 110 ° et 70 ° selon vos besoins.
 - 【Série de Mise à Niveau dAkaso Brave 4】Avec une résolution vidéo 4K / 24 images par seconde, une résolution vidéo 2K / 30 images / seconde et 1080p / 60 images par seconde et des photos 20 MP, AKASO caméra sport Brave 6 vous permet de réaliser de superbes vidéos Full HD et des vidéos uniques, idéal pour un partage.
 - 【Caméra Sport Étanche de 98 Pièces】Equipée dun boîtier étanche, cette caméra sport sous-marine peut plonger en profondeur jusquà 98 pieds, prêt à capturer tous les détails de vos aventures. Idéal pour les sports nautiques tels que la natation, le surf, la plongée, la plongée en apnée, etc.
-- 【Angle de Vue Optionnel】Langle de vue de cette caméra sport étanche peut être réglé entre 170 °, 140 °, 110 ° et 70 ° selon vos besoins.
 - 【Stabilisation Avancée des Images】La stabilisation électronique de limage (EIS) intégrée produit des vidéos stables et fluides avec une résolution pouvant atteindre 4K / 24 images par seconde. Cette caméra sport étanche garantit une excellente expérience de la prise de vue dobjets en mouvement rapide.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07L66MYKV/?tag=tolees0d-21)
