@@ -28,11 +28,11 @@ C'est en vente [VTECH - 80-502805- 1 2 3 Petit Dalmatien - Version FR](https://w
 
 ℹ️:
 
+- Jouet bébé conseillé dès 9 mois
 - Version française
+- Plus de 100 phrases, sons, mélodies et chansons : avec le bouton musique, l’enfant entend 3 chansons et 4 mélodies, en appuyant sur les touches Volume, il apprend à différencier les niveaux de volume
 - Boutons d’activités : chaque animal représente une activité et permet à l’enfant de découvrir les lettres, les chiffres, le nom des animaux en anglais, faire des rimes et jouer
 - Bouton formes : avec le bouton forme du jouet interactif, Bébé découvre les formes, les couleurs et d’accéder à des jeux bonus surprises
-- Jouet bébé conseillé dès 9 mois
-- Plus de 100 phrases, sons, mélodies et chansons : avec le bouton musique, l’enfant entend 3 chansons et 4 mélodies, en appuyant sur les touches Volume, il apprend à différencier les niveaux de volume
 - Les parents et l’enfant peuvent contrôler le volume sonore et le jouet poussette s’arrête automatiquement quand il n’est plus utilisé – Fonctionne avec 2 piles LR03/AAA incluses
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MRN1BEE/?tag=tolees0d-21)

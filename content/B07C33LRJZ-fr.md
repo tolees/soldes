@@ -28,11 +28,11 @@ C'est en vente [Hasbro e2512100?Star Wars Ma?tre des pouvoir lumi?re ?p?e  rev?t
 
 ℹ️:
 
-- Sabre laser électronique - Le cadeau parfait pour les fans de Star Wars
-- Changement de 4 couleurs de lame possible
-- À partir de 4 ans
 - Compatible avec tous les sabres laser Bladebuilders
 - Plus de 24 proverbes et sons
 - Langue: Allemand
+- À partir de 4 ans
+- Changement de 4 couleurs de lame possible
+- Sabre laser électronique - Le cadeau parfait pour les fans de Star Wars
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07C33LRJZ/?tag=tolees0d-21)

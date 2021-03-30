@@ -28,9 +28,9 @@ Vous avez [Xiaomi Redmi 9AT 32GB Dual Sim Granite Gray EU](https://www.amazon.fr
 
 ℹ️:
 
-- Ecran de 6.53 - 4G: Oui
+- Smartphone sous systeme Android 10
 - Memoire interne: 32 Go - RAM: 2 Go
 - Appareil photo de 13 Mégapixels
-- Smartphone sous systeme Android 10
+- Ecran de 6.53 - 4G: Oui
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GFTQFKZ/?tag=tolees0d-21)
