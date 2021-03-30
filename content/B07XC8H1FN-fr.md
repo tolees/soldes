@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THQ NORDIC - DCL - Drone Championship Le avec 59.76 % rabais '
-date: 2021-03-28 19:23:03
+date: 2021-03-30 00:47:52
 image: 'https://m.media-amazon.com/images/I/517QuIBXxsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'THQ NORDIC'
 buyurl: 'https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21'
 descuento: '59.76'
-average: '21.64375'
+average: '21.3170588235294'
 ---
 
 C'est en vente [THQ NORDIC - DCL - Drone Championship League](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21)  à  59.76 % de réduction, prix final  16.09 EUR (original: 39.99 EUR) ici:
@@ -29,7 +29,7 @@ C'est en vente [THQ NORDIC - DCL - Drone Championship League](https://www.amazon
 ℹ️:
 
 - Classement en ligne : Un classement en ligne est établi pour chaque plateforme
-- 27 circuits différents
 - DCL The Game reproduit fidèlement les mouvements de vrais drones
+- 27 circuits différents
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21)

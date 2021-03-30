@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung Galaxy A71 - Smartphone Portable avec 18.72 % rabais '
-date: 2021-03-28 19:14:49
+date: 2021-03-30 00:54:47
 image: 'https://m.media-amazon.com/images/I/31Sy+tcKTlL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,9 +9,9 @@ author: 'tole.es'
 slug: 'B0831TZXNN-fr Samsung Galaxy A71 - Smartphone Portable débloqué 4G - Noir'
 sku: 'B0831TZXNN-fr'
 tags: [ 'High-Tech','Smartphones et téléphones portables débloqués','Téléphones portables et accessoires','samsung', ]
-actualPrice: 324.44 EUR
+actualPrice: 324.46 EUR
 currency: EUR
-price: 324.44
+price: 324.46
 comparePrice: 399.17 EUR
 prodname: 'Samsung Galaxy A71 - Smartphone Portable débloqué 4G - Noir'
 country: 'fr'
@@ -19,10 +19,10 @@ flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B0831TZXNN/?tag=tolees0d-21'
 descuento: '18.72'
-average: '354.08128205128'
+average: '353.780558375632'
 ---
 
-C'est en vente [Samsung Galaxy A71 - Smartphone Portable débloqué 4G - Noir](https://www.amazon.fr/dp/B0831TZXNN/?tag=tolees0d-21)  à  18.72 % de réduction, prix final  324.44 EUR (original: 399.17 EUR) ici:
+C'est en vente [Samsung Galaxy A71 - Smartphone Portable débloqué 4G - Noir](https://www.amazon.fr/dp/B0831TZXNN/?tag=tolees0d-21)  à  18.72 % de réduction, prix final  324.46 EUR (original: 399.17 EUR) ici:
 
 [![Samsung Galaxy A71 - Smartphone Portable](https://m.media-amazon.com/images/I/31Sy+tcKTlL._SL400_.jpg)](https://www.amazon.fr/dp/B0831TZXNN/?tag=tolees0d-21)
 
@@ -31,8 +31,8 @@ C'est en vente [Samsung Galaxy A71 - Smartphone Portable débloqué 4G - Noir](h
 - ÉCRAN INFINITY-O - 6,7’’ Super AMOLED
 - Mémoire RAM 6 Go
 - UN PUISSANT CAPTEUR PRINCIPAL - 64 MP pour des photos nettes
-- QUADRUPLE CAPTEUR PHOTO - Mode Macro + Ultra Grand Angle
 - Interface: USB Type-C
 - CHARGE ULTRA RAPIDE - Batterie longue durée - 4500 mAh
+- QUADRUPLE CAPTEUR PHOTO - Mode Macro + Ultra Grand Angle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0831TZXNN/?tag=tolees0d-21)
