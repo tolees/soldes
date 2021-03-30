@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '33.17 % rabais sur Samsung 980 Pro 500 Go M.2 NVMe Internal'
-date: 2021-03-28 19:26:33
+title: '33.15 % rabais sur Samsung 980 Pro 500 Go M.2 NVMe Internal'
+date: 2021-03-30 19:47:37
 image: 'https://m.media-amazon.com/images/I/31clVphjpQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B08GS4FTL6-fr Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive...'
 sku: 'B08GS4FTL6-fr'
 tags: [ 'Informatique','Mémoire','Mémoire interne','SSD internes','samsung', ]
-actualPrice: 140.34 EUR
+actualPrice: 140.38 EUR
 currency: EUR
-price: 140.34
+price: 140.38
 comparePrice: 209.99 EUR
 prodname: 'Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive  SSD   MZ-V8P500BW '
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B08GS4FTL6/?tag=tolees0d-21'
-descuento: '33.17'
-average: '148.103770491802'
+descuento: '33.15'
+average: '147.85857142857'
 ---
 
-Vous avez [Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive  SSD   MZ-V8P500BW ](https://www.amazon.fr/dp/B08GS4FTL6/?tag=tolees0d-21)  à  33.17 % de réduction, prix final  140.34 EUR (original: 209.99 EUR) ici:
+Vous avez [Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive  SSD   MZ-V8P500BW ](https://www.amazon.fr/dp/B08GS4FTL6/?tag=tolees0d-21)  à  33.15 % de réduction, prix final  140.38 EUR (original: 209.99 EUR) ici:
 
 [![Samsung 980 Pro 500 Go M.2 NVMe Internal](https://m.media-amazon.com/images/I/31clVphjpQL._SL400_.jpg)](https://www.amazon.fr/dp/B08GS4FTL6/?tag=tolees0d-21)
 
@@ -30,7 +30,7 @@ Vous avez [Samsung 980 Pro 500 Go M.2 NVMe Internal Solid State Drive  SSD   MZ-
 
 - Installation sans outil nécessaire en quelques minutes avec le format M.2
 - Jouer pendant des heures sans risque de surchauffe grâce au système de contrôle thermique complet SAMSUNG
-- 12,7x plus rapide quun SSD classique grâce à linterface PCIe 4.0
 - Technologie TurboWrite pour profiter des performances maximales du 980 PRO
+- 12,7x plus rapide quun SSD classique grâce à linterface PCIe 4.0
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GS4FTL6/?tag=tolees0d-21)
