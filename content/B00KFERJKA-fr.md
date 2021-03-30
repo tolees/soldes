@@ -28,12 +28,12 @@ Vous avez [Canon - P-215II - Scanner de Document - Noir](https://www.amazon.fr/d
 
 ℹ️:
 
-- Modèle ultra-compact et robuste pour une véritable mobilité
+- Logiciels polyvalents comprenant la numérisation vers les applications sur le Cloud
 - Numérisation portable productive, avec chargeur automatique de documents 20 feuilles
-- Numérisation rapide alimentée par USB jusquà 30 feuilles par minute. Température: 10 ° C - 32,5 ° C
 - Compatibilité Mac et Windows
 - Unité Wi-Fi WU10 (en option)
-- Logiciels polyvalents comprenant la numérisation vers les applications sur le Cloud
+- Modèle ultra-compact et robuste pour une véritable mobilité
+- Numérisation rapide alimentée par USB jusquà 30 feuilles par minute. Température: 10 ° C - 32,5 ° C
 - Prise en charge de la numérisation de cartes didentité et de cartes embossées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KFERJKA/?tag=tolees0d-21)

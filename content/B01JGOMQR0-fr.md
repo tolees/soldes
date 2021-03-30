@@ -28,9 +28,9 @@ Vous avez [Scythe : Métal pièces complémentaires](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Fabriqué en Chine
-- Matériel : Métal
 - Dimensions des colis darticles : 3.3 x 12.2 x 14.8 cm
+- Matériel : Métal
 - Poids du colis de larticle : 0.29 kg
+- Fabriqué en Chine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01JGOMQR0/?tag=tolees0d-21)

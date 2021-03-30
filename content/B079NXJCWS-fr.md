@@ -28,9 +28,9 @@ C'est en vente [Schleich - Selle & Bride Sarah & Mystery](https://www.amazon.fr/
 
 ℹ️:
 
-- La couleur de chaque nouvelle selle avec bride est particulièrement bien assortie à l’une des fillettes du Horse Club.
 - Dimensions de lemballage de larticle ( L x B x H) en mm : 155 x 160 x 120
 - Fabriqué en Chine
+- La couleur de chaque nouvelle selle avec bride est particulièrement bien assortie à l’une des fillettes du Horse Club.
 - Poids du colis: 872.4 g
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079NXJCWS/?tag=tolees0d-21)
