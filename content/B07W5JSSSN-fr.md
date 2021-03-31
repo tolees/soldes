@@ -28,10 +28,10 @@ C'est en vente [Pukka Coffret Sélection  Idée cadeau  Sélection de Thés et d
 
 ℹ️:
 
-- Pukka est membre du mouvement 1 % Pour la Planète, ce qui signifie que 1 % de notre chiffre d’affaires est investi chaque année dans des causes environnementales
 - Offrez du bien-être avec 9 variétés différentes de thés et infusions bio Pukka réunis dans un coffret en carton recyclé
 - Avec ce coffret thés et infusions Pukka, découvrez une sélection de 45 sachets de 9 variétés de thés et dinfusions biologiques
 - 100 % des ingrédients des thés et infusions biologiques Pukka sont issus de l’agriculture biologique et du commerce équitable
+- Pukka est membre du mouvement 1 % Pour la Planète, ce qui signifie que 1 % de notre chiffre d’affaires est investi chaque année dans des causes environnementales
 - Tous les thés biologiques et infusions biologiques Pukka sont certifiés Fair For Life, ce qui garantit des relations équitables et positives pour tous nos acteurs
 - Donnez vie à ces plantes merveilleuses en les faisant infuser jusqu’à 15 minutes dans de l’eau bouillante (3-5 minutes pour les variétés avec du thé)
 
