@@ -29,7 +29,7 @@ Vous avez [Apple MD819ZM/A Câble USB](https://www.amazon.fr/dp/B00F4RASK6/?tag=
 ℹ️:
 
 - Couleur : n/a
-- Garantie Fabricant: Pas de garantie
 - Câble USB
+- Garantie Fabricant: Pas de garantie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00F4RASK6/?tag=tolees0d-21)

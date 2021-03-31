@@ -28,11 +28,11 @@ Vous avez [LEGO 75955 Harry Potter Le Poudlard  Express  Jeu de Construction]
 
 ℹ️:
 
-- La plate-forme mesure plus de 13 cm de haut, 31 cm de large et 17 cm de profondeur Le Poudlard Express mesure plus de 9 cm de haut, 46 cm de haut et 5 cm de large
 - Les ensembles LEGO Harry Potter sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
-- Issu de lunivers des films Harry Potter
-- Contruisez lemblématique train Poudlard Express
 - Comprend 5 figurines : Harry Potter, Ron Weasley, Hermione Granger, Remus Lupin et la sorcière à chariot, ainsi qu’un Détraqueur et Croûtard
 - 128 pièces
+- Issu de lunivers des films Harry Potter
+- Contruisez lemblématique train Poudlard Express
+- La plate-forme mesure plus de 13 cm de haut, 31 cm de large et 17 cm de profondeur Le Poudlard Express mesure plus de 9 cm de haut, 46 cm de haut et 5 cm de large
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BLG43H2/?tag=tolees0d-21)
