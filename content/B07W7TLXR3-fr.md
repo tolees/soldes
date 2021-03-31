@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO Star Wars  Coffret de bataille Mand avec 20.01 % rabais '
-date: 2021-03-30 01:05:08
+date: 2021-03-31 03:51:22
 image: 'https://m.media-amazon.com/images/I/51-DXaK6fCL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21'
 descuento: '20.01'
-average: '14.6234838709681'
+average: '14.6066025641029'
 ---
 
 C'est en vente [LEGO Star Wars  Coffret de bataille Mandalorien 4 avec 4 figurines  un speeder bike et un fort miniature  120 pièces  75267](https://www.amazon.fr/dp/B07W7TLXR3/?tag=tolees0d-21)  à  20.01 % de réduction, prix final  11.99 EUR (original: 14.99 EUR) ici:
