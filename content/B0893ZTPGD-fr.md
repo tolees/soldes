@@ -28,10 +28,10 @@ C'est en vente [Masque FFP2 / KN95 WottoCare  masque de protection personnelle 5
 
 ℹ️:
 
+- Haute filtration des bactéries et des particules. Ce produit est uniquement recommandé pour filtrer les particules de pollution dans le cadre de notre utilisation quotidienne normale.
+- Capacité de filtration supérieure à 95%. Ajustement avec des élastiques. Ajustement nasal. Sans valve. Matériau à 5 couches. 2 couches extérieures de non-tissé. 2 couches de fonte soufflée. 1 couche de coton à air chaud
 - Recommandations, Important : Ne jamais toucher le masque avec les mains. Mettez-le et enlevez-le à travers les caoutchoucs avec des mains propres.
 - Egalement approuvé sous GB2626-2006 / KN95
-- Capacité de filtration supérieure à 95%. Ajustement avec des élastiques. Ajustement nasal. Sans valve. Matériau à 5 couches. 2 couches extérieures de non-tissé. 2 couches de fonte soufflée. 1 couche de coton à air chaud
-- Haute filtration des bactéries et des particules. Ce produit est uniquement recommandé pour filtrer les particules de pollution dans le cadre de notre utilisation quotidienne normale.
 - Approuvé EN149:2001+A1:2009 FFP2 NR
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0893ZTPGD/?tag=tolees0d-21)

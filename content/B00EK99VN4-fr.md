@@ -28,10 +28,10 @@ Vous avez [Calgon Pastilles Anticalcaire Nettoyant Lave-Linge 3en1 - 75 Tablette
 
 ℹ️:
 
+- Protège votre machine du calcaire pour prévenir les pannes
+- Convient à tous les textiles
 - Protège votre machine des mauvaises odeurs
 - Protège votre machine des saletés et des résidus de votre lessive et adoucissant
-- Convient à tous les textiles
-- Protège votre machine du calcaire pour prévenir les pannes
 - Calgon 3en1 -3actions pour protéger votre machine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EK99VN4/?tag=tolees0d-21)

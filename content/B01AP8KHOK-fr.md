@@ -29,9 +29,9 @@ Vous avez [SIMBR Support Mural TV Orientable et Inclinable pour Télévision de 
 ℹ️:
 
 - 【Compatibilité universelle】Le support mural sadapte à la plupart des écrans plat et incurvé  LED LCD Plasma 32-70 pouces comme Samsung, LG, Philips, HKC, Sony, Toshiba avec VESA 600×400, 600×200, 400×400, 400×300, 400×200, 300×300, 200×200, 100x100, 75x75mm.
-- 【Distance réglable plus grande 】Ce support TV se rétracte à seulement 60mm (2.4") du mur pour économiser de lespace et peut sécarter jusquà 510mm (20"), des bras plus longs facilitent le nettoyage de lespace derrière la TV, le remplacement des câbles. Il rend votre maison propre et bien rangée.
 - 【Angle de vision idéal】Notre fixation TV offre l’inclinaison+10°/-20°, nous pouvons profiter dun angle de vue réglable plus grand, l’orientation 180°, la rotation±3°de haut en bas, la flexibilité max vous aide à trouver la vue optimal et la position saine et confortable nimporte où vous vous asseyez dans la pièce.
-- 【Installation facile】Notre support mural tv comporte un panneau intégré, cela élimine l’assemblage supplémentaire et facilite linstallation, les accessoires dinstallation nécessaires et le niveau sont fournies, nous pouvons également linstaller en référant au vidéo et au manuel multilingue.
+- 【Distance réglable plus grande 】Ce support TV se rétracte à seulement 60mm (2.4") du mur pour économiser de lespace et peut sécarter jusquà 510mm (20"), des bras plus longs facilitent le nettoyage de lespace derrière la TV, le remplacement des câbles. Il rend votre maison propre et bien rangée.
 - 【Capacité large】Fabriqué en acier laminé à froid de 2 mm dépaisseur. Ce support a une capacité jusquà 60kg pour bien protéger votre TV, Le panneau intégré au lieu de panneau de jonction rende notre support plus solide, Il a réussi le test pour supporter 4 fois de ce poids selon les normes UL.
+- 【Installation facile】Notre support mural tv comporte un panneau intégré, cela élimine l’assemblage supplémentaire et facilite linstallation, les accessoires dinstallation nécessaires et le niveau sont fournies, nous pouvons également linstaller en référant au vidéo et au manuel multilingue.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AP8KHOK/?tag=tolees0d-21)

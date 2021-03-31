@@ -28,9 +28,9 @@ C'est en vente [Samsung Galaxy A71 - Smartphone Portable débloqué 4G - Noir](h
 
 ℹ️:
 
-- QUADRUPLE CAPTEUR PHOTO - Mode Macro + Ultra Grand Angle
-- CHARGE ULTRA RAPIDE - Batterie longue durée - 4500 mAh
 - Mémoire RAM 6 Go
+- CHARGE ULTRA RAPIDE - Batterie longue durée - 4500 mAh
+- QUADRUPLE CAPTEUR PHOTO - Mode Macro + Ultra Grand Angle
 - Interface: USB Type-C
 - UN PUISSANT CAPTEUR PRINCIPAL - 64 MP pour des photos nettes
 - ÉCRAN INFINITY-O - 6,7’’ Super AMOLED
