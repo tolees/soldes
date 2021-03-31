@@ -28,8 +28,8 @@ C'est en vente [Playmobil - Voiture de Policiers avec Gyrophare et Sirène - 692
 
 ℹ️:
 
-- Le gyrophare s’illumine. Sirène avec deux effets sonores et lumineux
-- A partir de 3 ans.
 - Une mission urgente, tous à la voiture !
+- A partir de 3 ans.
+- Le gyrophare s’illumine. Sirène avec deux effets sonores et lumineux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01AJPCLOI/?tag=tolees0d-21)

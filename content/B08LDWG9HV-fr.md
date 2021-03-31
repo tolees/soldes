@@ -28,10 +28,10 @@ C'est en vente [6X FFP3 Masque de Protection respiratoire Masque Anti-poussière
 
 ℹ️:
 
+- Boîte de 6 pièces avec instructions en plusieurs langues
+- Norme FFP3 - Niveau de filtrage le plus élevé dans lUnion européenne. Filtre au moins 99% des particules de 0,6µ de diamètre. La super étanchéité est garantie par une lèvre détanchéité intérieure supplémentaire
+- Chaque masque est emballé individuellement de manière hygiénique et hermétique et sa qualité est contrôlée
 - Certifié conforme à la directive européenne EN149:2001+A1:2009 NR par un laboratoire dessai accrédité de lUnion européenne | CE 0370
 - Sans latex et sans caoutchouc naturel
-- Chaque masque est emballé individuellement de manière hygiénique et hermétique et sa qualité est contrôlée
-- Norme FFP3 - Niveau de filtrage le plus élevé dans lUnion européenne. Filtre au moins 99% des particules de 0,6µ de diamètre. La super étanchéité est garantie par une lèvre détanchéité intérieure supplémentaire
-- Boîte de 6 pièces avec instructions en plusieurs langues
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08LDWG9HV/?tag=tolees0d-21)

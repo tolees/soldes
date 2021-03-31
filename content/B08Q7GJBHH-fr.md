@@ -28,7 +28,7 @@ C'est en vente [Playmobil-70529 Jouet  70529  Multicolore](https://www.amazon.fr
 
 ℹ️:
 
-- Contient 2 personnages
 - Transportable
+- Contient 2 personnages
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Q7GJBHH/?tag=tolees0d-21)

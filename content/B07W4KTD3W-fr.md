@@ -28,10 +28,10 @@ C'est en vente [LEGO Architecture Modèle Tokyo  Skyline Collection  Ensemble de
 
 ℹ️:
 
-- Le parc Chidorigafuchi rempli de cerisiers, une tour de pagode classique et le carrefour de Shibuya sont également présentés dans cet ensemble de construction de skylines
-- Les couleurs vibrantes et les détails authentiques de ses 6 modèles emblématiques attireront lattention de chaque passant avec des cerisiers en fleurs décoratifs
 - Ensemble sur la plaque de base avec lécriteau ‘Tokyo’, ils créent un élément daffichage compact, percutant et accrocheur pour égayer nimporte quelle pièce
-- Comprend des modèles réduits de TOKYO SKYTREE, la plus haute tour autoportante du monde, la tour de Tokyo, la tour Cocoon Mode Gakuen et le Tokyo Big Sight
+- Les couleurs vibrantes et les détails authentiques de ses 6 modèles emblématiques attireront lattention de chaque passant avec des cerisiers en fleurs décoratifs
+- Le parc Chidorigafuchi rempli de cerisiers, une tour de pagode classique et le carrefour de Shibuya sont également présentés dans cet ensemble de construction de skylines
 - En savoir plus sur Tokyo skyline et le concepteur de modèles dans le livret (en anglais) ou télécharger dautres langues sur LEGOcom/architecture
+- Comprend des modèles réduits de TOKYO SKYTREE, la plus haute tour autoportante du monde, la tour de Tokyo, la tour Cocoon Mode Gakuen et le Tokyo Big Sight
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W4KTD3W/?tag=tolees0d-21)

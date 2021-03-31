@@ -30,7 +30,7 @@ C'est en vente [SuperThings Secret Spies - Cachette secrète](https://www.amazon
 
 - Fabriqué en Chine
 - 8 cachettes différentes à collectionner.
-- Pouvez-vous trouver le jeu exclusif qui change de couleur ?
 - Découvrez la combinaison secrète à ouvrir !
+- Pouvez-vous trouver le jeu exclusif qui change de couleur ?
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FYBJV3G/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ C'est en vente [LEGO Star Wars  Coffret de bataille Sith Troopers avec speeder  
 ℹ️:
 
 - Ajoutez Microfighter Y-wing de la Résistance 75263 pour les combats entre le Premier Ordre et la Résistance ou Microfighter Navette de Kylo Ren 75263 pour plus de plaisir
-- Le guide Instructions PLUS, disponibles dans lappli LEGO Life, comporte des outils de zoom, de rotation et de visualisation pour accompagner le processus de construction de versions réelles
-- Un speeder de bataille avec 2 places pour figurines dans le cockpit, 2 moteurs blaster bleus et le fuselage gris-bleu-noir
 - Les enfants peuvent fixer un fusil blaster à la partie avant du speeder pour être prêts à tirer à tout moment et mener les troopers dans le territoire ennemi pour livrer une bataille
 - Comprend 4 figurines : Un officier du Premier Ordre, un Sith trooper, et 2 Jet troopers Sith équipés de 4 canons blaster à tenons et de 2 jet-packs
+- Le guide Instructions PLUS, disponibles dans lappli LEGO Life, comporte des outils de zoom, de rotation et de visualisation pour accompagner le processus de construction de versions réelles
+- Un speeder de bataille avec 2 places pour figurines dans le cockpit, 2 moteurs blaster bleus et le fuselage gris-bleu-noir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W6Q9JZD/?tag=tolees0d-21)

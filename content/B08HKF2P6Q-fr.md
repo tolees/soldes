@@ -29,9 +29,9 @@ Vous avez [Spacewalker - Masques FFP2 certifié Norme EN149 2019  25 ](https://w
 ℹ️:
 
 - 4 couches dont 1 en nano-membrane qui permet une meilleure respirabilité et un confort optimal
-- Barrette nasale en métal qui sadapte parfaitement à votre nez, réalisant une grande étanchéité .
-- Contient dans la boîte 25 masques individuels en sachets hermétiques
-- Masques de protection FFP2 aux normes PPE-Regulation (EU) 2016/425 EN149:2001+A1:2009
 - Elastiques forme plate pour un meilleur tenu sur les oreilles et un confort inégalé.
+- Masques de protection FFP2 aux normes PPE-Regulation (EU) 2016/425 EN149:2001+A1:2009
+- Contient dans la boîte 25 masques individuels en sachets hermétiques
+- Barrette nasale en métal qui sadapte parfaitement à votre nez, réalisant une grande étanchéité .
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HKF2P6Q/?tag=tolees0d-21)
