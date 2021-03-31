@@ -28,8 +28,8 @@ Vous avez [Square Enix - FINAL FANTASY VII et FINAL FANTASY VIII Remastered  S
 
 ℹ️:
 
+- La possibilité de désactiver les combats aléatoires
 - Mode accéléré X3
 - Un mode damélioration de combat
-- La possibilité de désactiver les combats aléatoires
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08LZMQ54T/?tag=tolees0d-21)

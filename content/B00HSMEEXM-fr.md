@@ -28,10 +28,10 @@ Vous avez [Biolane – Gel Corps et Cheveux 2 en 1 – Gel lavant doux pour la p
 
 ℹ️:
 
-- Appliquez une noisette de ce gel lavant très doux de Biolane sur la peau et le cuir chevelu préalablement mouillés et faites mousser / Rincez et séchez après en tamponnant chaque pli et repli
+- Livraison : 1 flacon pompe de 750 ml Biolane gel corps et cheveux 2 en 1 / Ce gel lavant est testé sous contrôle dermatologique et ophtalmologique / Fabriqué en France
 - Avec une base lavante très douce sans savon, ce gel nettoie la peau tout en préservant léquilibre cutané naturel - la peau nest pas agressée ni desséchée et reste souple et confortable
 - 97% dingrédients dorigine naturelle : le gel lavant corps et cheveux de Biolane nettoie en un seul geste et convient à la peau fragile et aux cheveux fins des bébés - ne pique pas les yeux
-- Livraison : 1 flacon pompe de 750 ml Biolane gel corps et cheveux 2 en 1 / Ce gel lavant est testé sous contrôle dermatologique et ophtalmologique / Fabriqué en France
 - Afin que la peau du bébé soit parfaitement propre et protégée, ce soin est enrichi dun agent surgraissant - elle évite ainsi les sensations dinconfort et de tiraillement
+- Appliquez une noisette de ce gel lavant très doux de Biolane sur la peau et le cuir chevelu préalablement mouillés et faites mousser / Rincez et séchez après en tamponnant chaque pli et repli
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HSMEEXM/?tag=tolees0d-21)
