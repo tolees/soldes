@@ -28,12 +28,12 @@ C'est en vente [Calor Fer A Repasser Ultimate Pure Effet Pressing jusqu à 260g 
 
 ℹ️:
 
-- Fonction pressing ultra puissante jusquà 260 g/min pour repasser les tissus épais et venir à bout des plis les plus tenaces. Un débit de vapeur variable ultra puissant jusquà 60 g/min
-- Silhouette élégante et ultra moderne avec des détails Chromés qui sintégreront parfaitement dans nimporte quel intérieur
-- Design ergonomique pour un confort maximal
+- Alerte dentretien du filtre qui signale automatiquement lorsque le filtre micro-calc a besoin dêtre nettoyé
 - Semelle ultra fine Durilium airglide Autoclean, reste toujours propre et offre la meilleure glisse pour un confort et une efficacité extrêmes
+- Fonction pressing ultra puissante jusquà 260 g/min pour repasser les tissus épais et venir à bout des plis les plus tenaces. Un débit de vapeur variable ultra puissant jusquà 60 g/min
 - Fabriqué en France
 - Système de filtre micro-calc exclusif qui aide à lutter contre les taches et résidus de calcaire sur les vêtements en filtrant 100 % de la vapeur du fer à repasser
-- Alerte dentretien du filtre qui signale automatiquement lorsque le filtre micro-calc a besoin dêtre nettoyé
+- Design ergonomique pour un confort maximal
+- Silhouette élégante et ultra moderne avec des détails Chromés qui sintégreront parfaitement dans nimporte quel intérieur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07N2W21WR/?tag=tolees0d-21)
