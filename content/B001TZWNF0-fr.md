@@ -28,11 +28,11 @@ Vous avez [Case Logic SLRC202 Housse semi-rigide pour appareil photo réflex ave
 
 ℹ️:
 
-- Garantie Fabricant: 25 an(s)
 - Deux grands compartiments latéraux permettent de stocker des objectifs et des accessoires (dimensions du compartiment : 15,2 x 10 x 8,9 cm)
+- Compatible avec la plupart des appareils photos reflex dotés dun zoom
 - Le système breveté de hamac maintient votre appareil photo reflex dans la partie supérieure du sac à dos, lui offrant ainsi une meilleure protection contre les chocs
 - Convient aux appareils : 18 x 12 x 17 cm
+- Garantie Fabricant: 25 an(s)
 - Taille : 30.5 x 12.7 x 24.1 cm
-- Compatible avec la plupart des appareils photos reflex dotés dun zoom
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001TZWNF0/?tag=tolees0d-21)

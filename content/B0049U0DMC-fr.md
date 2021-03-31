@@ -28,8 +28,8 @@ Vous avez [Lavazza Café en Grains Qualita Oro - 1kg](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Idéal pour une machine Espresso tout automatique
 - Torréfié à Turin
+- Idéal pour une machine Espresso tout automatique
 - 100% Premium Arabica
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0049U0DMC/?tag=tolees0d-21)

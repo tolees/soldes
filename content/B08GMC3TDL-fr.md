@@ -28,9 +28,9 @@ C'est en vente [X-Rocker - Fauteuil à Bascule Nintendo Video Rocker Luigi](http
 
 ℹ️:
 
+- Mousse épaisse et élégant simili cuir souple pour un confort supplémentaire
 - Intérieur en mousse x-cool qui absorbe la température en position assise et la libère lorsque vous vous levez.
 - Sous licence super mario bros
 - Compact et pliable
-- Mousse épaisse et élégant simili cuir souple pour un confort supplémentaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GMC3TDL/?tag=tolees0d-21)

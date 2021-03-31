@@ -28,10 +28,10 @@ C'est en vente [Alessi 9090/M Cafetiére Espresso de Design Acier Inoxydable Arg
 
 ℹ️:
 
-- Dimensions : diamètre : 14,50 cm, hauteur : 23 cm
 - Designer : Richard Sapper
-- Cafetière espresso à fond magnétique, aussi pour plaques à induction
+- Dimensions : diamètre : 14,50 cm, hauteur : 23 cm
 - Matière : acier inoxydable 18/10
 - Autres tailles disponibles : une, trois et six tasses
+- Cafetière espresso à fond magnétique, aussi pour plaques à induction
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000YJ9ASU/?tag=tolees0d-21)
