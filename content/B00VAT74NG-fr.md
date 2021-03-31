@@ -28,10 +28,10 @@ Vous avez [3M - 3 m 9330 Aura pliable à plat Unvalved la poussière/brume res
 
 ℹ️:
 
-- Ludique et facile à réaliser
-- 1 Doublure de 40 cm de diamètre
-- 1 livret explicatif en plusieurs langues
-- 1 Paire daiguilles en bois de 11mm
 - 3 pelotes de 500g en fil recyclé
+- 1 livret explicatif en plusieurs langues
+- 1 Doublure de 40 cm de diamètre
+- Ludique et facile à réaliser
+- 1 Paire daiguilles en bois de 11mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VAT74NG/?tag=tolees0d-21)

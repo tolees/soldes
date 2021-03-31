@@ -28,10 +28,10 @@ C'est en vente [600 LEDs Rideaux Lumineux 6m*3m IDESION Guirlande 8 Modes de Fon
 
 ℹ️:
 
-- 【Facile à Utiliser】- Facile à installer, plug and play, vous pouvez facilement laccrocher sur des rideaux ou dautres endroits où il peut être accroché. La prise EU-standard de 220V peut non seulement fournir une alimentation sûre et stable, mais également changer de mode
-- 【Anti-Froid et Imperméable】- Remplir les LEDs avec de lantigel comme une protection contre le gel. Idéal pour la décoration extérieure, il fonctionnera correctement même si en hiver froid. IP44 imperméable fournissent une dure régulièrement, même dans un environnement humide
 - 【8 Modes leffet déclairage】- Ce rideau led a 8 modes crée diverses effets: combinaison, en vagues, séquentiel alternativement, enchainement/flash, fondu lent, scintillement/flash et immobile; et vous pouvez passer de l’un à l’autre simplement en appuyant sur le bouton de la fiche
-- 【Sûr et Fiable】- Certification CE. Les LEDs ne chauffant pas, le rideau guirlande lumineuse est complètement sûrs de toucher et sans risque de brûlures, il n’y a aucun risque d’incendie
+- 【Facile à Utiliser】- Facile à installer, plug and play, vous pouvez facilement laccrocher sur des rideaux ou dautres endroits où il peut être accroché. La prise EU-standard de 220V peut non seulement fournir une alimentation sûre et stable, mais également changer de mode
 - 【Décoration Parfaite】- Rideau de lumière de 600 LED en 6 * 3 mètres, offre une atmosphère onirique et romantique. Idéal pour la décoration de Fête, Mariage, Festival, Spectacle, Restaurant, Hôtel, Pub, Concert, Hall, etc. Peut être accroché sur les murs, les fenêtres, les portes, les arbres de Noël
+- 【Sûr et Fiable】- Certification CE. Les LEDs ne chauffant pas, le rideau guirlande lumineuse est complètement sûrs de toucher et sans risque de brûlures, il n’y a aucun risque d’incendie
+- 【Anti-Froid et Imperméable】- Remplir les LEDs avec de lantigel comme une protection contre le gel. Idéal pour la décoration extérieure, il fonctionnera correctement même si en hiver froid. IP44 imperméable fournissent une dure régulièrement, même dans un environnement humide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RSVZYTW/?tag=tolees0d-21)
