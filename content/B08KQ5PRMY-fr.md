@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'ACTIVISION - Call Of Duty: Black Ops Col avec 26.66 % rabais '
-date: 2021-03-09 09:06:49
+date: 2021-04-01 16:47:56
 image: 'https://m.media-amazon.com/images/I/516e9BhCK+L._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B08KQ5PRMY-fr ACTIVISION - Call Of Duty: Black Ops Cold War PS4'
 sku: 'B08KQ5PRMY-fr'
+tags: [ 'Jeux vidéo','PlayStation 4: Consoles, jeux et accessoires','activision', ]
 actualPrice: 55.0 EUR
 currency: EUR
 price: 55.0

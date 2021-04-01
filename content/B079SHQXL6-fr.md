@@ -28,10 +28,10 @@ Vous avez [Biolane - Eau Pure H²O - Nettoyant pour le visage  le corps et le si
 
 ℹ️:
 
-- Pour la toilette du bébé, Biolane a conçu l’eau pure H²O à la base lavante douce : idéale pour nettoyer le visage, le corps & le siège du bébé et préserver léquilibre naturel cutané
-- Grâce au flacon-pompe « une seule main », leau pure H²O est facile à utiliser, elle limite les éclaboussures et permet de toujours garder une main sur le bébé pendant la toilette
 - Cette lotion sapplique tous les jours pour la toilette à laide dun coton sur le visage, le corps et le siège du bébé - convient aussi comme démaquillant visage et yeux
 - Livraison : 1 flacon-pompe de 750 ml eau pure H²O de Biolane, pour le visage, le corps et le siège des bébés / Fabriqué en France
+- Pour la toilette du bébé, Biolane a conçu l’eau pure H²O à la base lavante douce : idéale pour nettoyer le visage, le corps & le siège du bébé et préserver léquilibre naturel cutané
+- Grâce au flacon-pompe « une seule main », leau pure H²O est facile à utiliser, elle limite les éclaboussures et permet de toujours garder une main sur le bébé pendant la toilette
 - Un rinçage à leau peut avoir un effet desséchant sur la peau - la formule douce de cette lotion ne nécessite pas de rinçage, laissant la peau propre, douce et parfumée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B079SHQXL6/?tag=tolees0d-21)
