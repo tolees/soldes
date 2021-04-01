@@ -28,10 +28,10 @@ Vous avez [Microsoft Bluetooth Desktop  Ensemble Clavier et Souris sans Fil Blue
 
 ℹ️:
 
-- Ensemble clavier AZERTY (clavier français) et souris Bluetooth
 - Souris Bluetooth compacte, légère et facile à transporter
 - Clavier Bluetooth au design moderne, avec pavé numérique intégré
-- Clavier disposant d’une touche de raccourci Office / Microsoft 365 pour accéder directement à vos documents, ainsi qu’une touche de raccourci emoji pour insérer plus facilement un emoji dans vos messages
 - Souris Bluetooth compacte, légère et facile à transporter Clavier Bluetooth au design moderne, avec pavé numérique intégré
+- Ensemble clavier AZERTY (clavier français) et souris Bluetooth
+- Clavier disposant d’une touche de raccourci Office / Microsoft 365 pour accéder directement à vos documents, ainsi qu’une touche de raccourci emoji pour insérer plus facilement un emoji dans vos messages
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B087QVKC4K/?tag=tolees0d-21)
