@@ -28,10 +28,10 @@ C'est en vente [Bosch Home and Garden - Perceuse-visseuse sans fil Bosch - Unive
 
 ℹ️:
 
-- Résultats de travail rapides et longue durée de vie grâce à 2 vitesses planétaires.
-- Contenu de la livraison : 1 Drill 18 universel, 2 batteries 1,5 Ah, 1 chargeur AL 1810 CV, 2 embouts de vissage et 1 mallette
 - Les outils universels de Bosch – flexibles et performants avec des solutions intelligentes pour de nombreux projets.
-- Couple optimal grâce à 20 niveaux de couple différents pour visser et pour percer dans le bois, le métal et le plastique.
 - Power for all : une batterie et un chargeur pour lensemble du système Home & Garden
+- Résultats de travail rapides et longue durée de vie grâce à 2 vitesses planétaires.
+- Couple optimal grâce à 20 niveaux de couple différents pour visser et pour percer dans le bois, le métal et le plastique.
+- Contenu de la livraison : 1 Drill 18 universel, 2 batteries 1,5 Ah, 1 chargeur AL 1810 CV, 2 embouts de vissage et 1 mallette
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RB74TH9/?tag=tolees0d-21)
