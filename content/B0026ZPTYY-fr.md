@@ -28,8 +28,8 @@ Vous avez [Melissa & Doug | Planche À Verrous | Jeux d éveil | 3+ years](https
 
 ℹ️:
 
-- Développe des aptitudes motrices de précision tout en favorisant la connaissance des couleurs, des nombres, des animaux et davantage !
 - Age minimum : 3 ans
 - Ouvre les portes et les fenêtres pour révéler les animaux colorés
+- Développe des aptitudes motrices de précision tout en favorisant la connaissance des couleurs, des nombres, des animaux et davantage !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0026ZPTYY/?tag=tolees0d-21)

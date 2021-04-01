@@ -28,10 +28,10 @@ C'est en vente [Sylvanian Families - Le Village - La Famille Koala - 5310 - Fami
 
 ℹ️:
 
+- Leurs vêtements peuvent être enlevés et remis à loisir
+- Ils sont tous articulés et habillés avec soin
 - La famille koala est composée de 3 personnages : la maman, le papa et le bébé.
 - Cette famille vient enrichir la collection Sylvanian pour encore plus de divertissement.
-- Ils sont tous articulés et habillés avec soin
-- Leurs vêtements peuvent être enlevés et remis à loisir
 - Dès 3 ans.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DD69LYW/?tag=tolees0d-21)
