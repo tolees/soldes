@@ -29,12 +29,12 @@ C'est en vente [Logitech MX Anywhere 3  Souris Compacte  sans Fil  Défilement M
 ℹ️:
 
 - PERSONNALISABLE : Optimisez votre workflow. Travaillez vite avec des boutons personnalisables et des applications prédéfinies pour Adobe Photoshop, Final Cut Pro, Chrome, Safari, Microsoft Office
-- CONTRÔLE INTERORDINATEUR : Contrôlez plusieurs appareils d’un simple clic avec une souris à flux activé. Déplacez le curseur du bord de l’écran à un autre pour passer de Windows à Linux et macOS
-- CONFORT PORTABLE : MX Anywhere 3 voyage avec vous, où que vous alliez. Sa forme basse et ergonomique s’adapte à votre main grâce à des prises latérales ultra-douces en silicone pour un confort total
-- CONCEPTION PREMIUM : MX Anywhere 3 optimise son look et la sensation offerte, avec sa molette de défilement en acier usiné, ses prises latérales en silicone et ses trois coloris modernes
-- USB-C À CHARGE RAPIDE : Une charge complète qui dure 70 jours. Une recharge rapide qui offre trois heures d’utilisation en une minute seulement. Chargez et travaillez avec un câble USB-C
 - CONNEXIONS MULTI-DISPOSITIFS : Utilisez le Bluetooth ou le dongle Unifiying USB pour connecter trois dispositifs en même temps. Passez de votre PC, portable et iPad d’un simple clic
-- DÉPLACEZ-LA PARTOUT : Déplacez-la en douceur sur presque toutes les surfaces, grâce à un capteur 4 000 PPP. Travaillez en toute fluidité dans les transports, au café ou à la maison
+- CONCEPTION PREMIUM : MX Anywhere 3 optimise son look et la sensation offerte, avec sa molette de défilement en acier usiné, ses prises latérales en silicone et ses trois coloris modernes
 - DÉFILEMENT MAGSPEED : Faites défiler 1 000 lignes par seconde et arrêtez-vous sur un pixel. Le défilement électromagnétique MagSpeed est rapide et précis, d’une simple pression du doigt
+- CONFORT PORTABLE : MX Anywhere 3 voyage avec vous, où que vous alliez. Sa forme basse et ergonomique s’adapte à votre main grâce à des prises latérales ultra-douces en silicone pour un confort total
+- CONTRÔLE INTERORDINATEUR : Contrôlez plusieurs appareils d’un simple clic avec une souris à flux activé. Déplacez le curseur du bord de l’écran à un autre pour passer de Windows à Linux et macOS
+- DÉPLACEZ-LA PARTOUT : Déplacez-la en douceur sur presque toutes les surfaces, grâce à un capteur 4 000 PPP. Travaillez en toute fluidité dans les transports, au café ou à la maison
+- USB-C À CHARGE RAPIDE : Une charge complète qui dure 70 jours. Une recharge rapide qui offre trois heures d’utilisation en une minute seulement. Chargez et travaillez avec un câble USB-C
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7KCF3W/?tag=tolees0d-21)
