@@ -28,10 +28,10 @@ Vous avez [Philips Lighting - Philips luminaire extérieur borne Bridge](https:/
 
 ℹ️:
 
-- Puissance :14 watts
-- Garantie :2 an(s)
 - Matière :Aluminium
 - Dimensions : 12,1 x 12,1 x 40,2 cm
 - Couleur :Anthracite
+- Puissance :14 watts
+- Garantie :2 an(s)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008BRFJL4/?tag=tolees0d-21)
