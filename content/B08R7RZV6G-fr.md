@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '17.63 % rabais sur UniR Masque de protection respiratoire F'
-date: 2021-03-29 03:41:41
+date: 2021-04-01 09:47:38
 image: 'https://m.media-amazon.com/images/I/41U8VO+QjDL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'UniR'
 buyurl: 'https://www.amazon.fr/dp/B08R7RZV6G/?tag=tolees0d-21'
 descuento: '17.63'
-average: '29.035'
+average: '27.824'
 ---
 
 Vous avez [UniR Masque de protection respiratoire FFP2  certifié CE  Fabriqué en France  EN 149:2001+A1 2009 modifiée par PPE-R/02.075 version 2. EPI EU 2016/425  5 couches sachet individuel  Lot de 20pcs  ](https://www.amazon.fr/dp/B08R7RZV6G/?tag=tolees0d-21)  à  17.63 % de réduction, prix final  22.98 EUR (original: 27.9 EUR) ici:
@@ -29,11 +29,11 @@ Vous avez [UniR Masque de protection respiratoire FFP2  certifié CE  Fabriqué 
 ℹ️:
 
 - Certification CE , Apave CE0082
-- UniR by Tellus Group
+- Le produit est conforme au règlement EPI EU 2016/425 et à la norme EN149:2001+A1 2009 modifiée par PPE-R/02.075 version 2.
+- FFP2 5 couches
+- Il sagit dun dispositif de protection de lenvironnement de travail et des salariés.
 - Fabriqué en France
 - L’appareil de protection respiratoire FFP2 UniR est destiné à protéger le porteur contre l’inhalation de gouttelettes et de particules en suspension dans l’air.
-- Le produit est conforme au règlement EPI EU 2016/425 et à la norme EN149:2001+A1 2009 modifiée par PPE-R/02.075 version 2.
-- Il sagit dun dispositif de protection de lenvironnement de travail et des salariés.
-- FFP2 5 couches
+- UniR by Tellus Group
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08R7RZV6G/?tag=tolees0d-21)

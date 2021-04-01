@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Tommy Hilfiger - UM0UM00562 - Rn Tee Ss  avec 25.06 % rabais '
-date: 2021-03-31 03:58:37
+date: 2021-04-01 08:50:44
 image: 'https://m.media-amazon.com/images/I/41Ll2GGE6GL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Tommy Hilfiger - UM0UM00562 - Rn Tee Ss - T-shirt - Homme - Gris
 
 ℹ️:
 
-- Logo TH sur les bras
+- Petit drapeau de Tommy sur la poitrine
 - T-shirt Tommy Hilfiger
 - Coton Bio
 - Coupe classique.
-- Petit drapeau de Tommy sur la poitrine
+- Logo TH sur les bras
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0788C3NYJ/?tag=tolees0d-21)
