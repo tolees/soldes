@@ -29,9 +29,9 @@ C'est en vente [Samsung Galaxy A12 4G – Noir - 64GB - Smartphone Android débl
 ℹ️:
 
 - GRAND ÉCRAN PANORAMIQUE 6,5’’ TFT
-- CAMÉRA PRINCIPALE HAUTE RÉSOLUTION 48 MP pour des photos nettes
-- QUADRUPLE CAPTEUR PHOTO Ultra Grand Angle Mode Portrait & Macro
-- ● Sécurité sans faille : votre smartphone est protégé dès la minute où il s’allume grâce à une sécurité multi-niveaux. Elle protège vos informations les plus sensibles contre les logiciels malveillants et autres menaces.
 - AUTONOMIE RENFORCÉE 5000 mah + Charge rapide
+- QUADRUPLE CAPTEUR PHOTO Ultra Grand Angle Mode Portrait & Macro
+- CAMÉRA PRINCIPALE HAUTE RÉSOLUTION 48 MP pour des photos nettes
+- ● Sécurité sans faille : votre smartphone est protégé dès la minute où il s’allume grâce à une sécurité multi-niveaux. Elle protège vos informations les plus sensibles contre les logiciels malveillants et autres menaces.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08Q8HBN9S/?tag=tolees0d-21)

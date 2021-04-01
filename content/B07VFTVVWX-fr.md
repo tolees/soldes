@@ -28,8 +28,8 @@ C'est en vente [Nintendo - Paire de Manettes Joy-Con Gauche Bleue/Droite Jaune N
 
 ℹ️:
 
-- Ces manettes permettant de jouer aux logiciels nintendo switch combinent les commandes par boutons à des commandes par mouvements naturelles et intuitives
-- Un joy-con vert (l), un joy-con jaune néon (r)
 - Deux dragonnes joy-con (grises)
+- Un joy-con vert (l), un joy-con jaune néon (r)
+- Ces manettes permettant de jouer aux logiciels nintendo switch combinent les commandes par boutons à des commandes par mouvements naturelles et intuitives
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VFTVVWX/?tag=tolees0d-21)

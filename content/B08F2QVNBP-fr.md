@@ -28,7 +28,7 @@ Vous avez [Disney Princesses - Poupee Mannequin Poussière d’Etoiles Ariel - 2
 
 ℹ️:
 
-- Aucune pile nécessaire.
 - Poupée articulée de 26 cm avec son body moulé et sa jupe amovible pailletés.
+- Aucune pile nécessaire.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08F2QVNBP/?tag=tolees0d-21)

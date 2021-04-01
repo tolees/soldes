@@ -28,8 +28,8 @@ C'est en vente [Savy 1650100 Spalter soies pures lisser/vitrifier 100 mm](https:
 
 ℹ️:
 
+- Qualité professionnelle
 - Pratique
 - Excellent rapport qualité/prix
-- Qualité professionnelle
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B006FW25ZU/?tag=tolees0d-21)

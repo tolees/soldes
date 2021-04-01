@@ -28,12 +28,12 @@ Vous avez [UniR Masque de protection respiratoire FFP2  certifié CE  Fabriqué 
 
 ℹ️:
 
-- Certification CE , Apave CE0082
-- Le produit est conforme au règlement EPI EU 2016/425 et à la norme EN149:2001+A1 2009 modifiée par PPE-R/02.075 version 2.
-- FFP2 5 couches
-- Il sagit dun dispositif de protection de lenvironnement de travail et des salariés.
-- Fabriqué en France
 - L’appareil de protection respiratoire FFP2 UniR est destiné à protéger le porteur contre l’inhalation de gouttelettes et de particules en suspension dans l’air.
+- FFP2 5 couches
+- Le produit est conforme au règlement EPI EU 2016/425 et à la norme EN149:2001+A1 2009 modifiée par PPE-R/02.075 version 2.
+- Fabriqué en France
 - UniR by Tellus Group
+- Certification CE , Apave CE0082
+- Il sagit dun dispositif de protection de lenvironnement de travail et des salariés.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08R7RZV6G/?tag=tolees0d-21)
