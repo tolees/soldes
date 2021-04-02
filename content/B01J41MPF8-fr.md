@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '15.00 % rabais sur LEGO 21034 Architecture Londres  Jeu de '
-date: 2021-04-01 09:09:38
+date: 2021-04-02 18:38:08
 image: 'https://m.media-amazon.com/images/I/51GnSyDIy-L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B01J41MPF8/?tag=tolees0d-21'
 descuento: '15.00'
-average: '36.2736440677965'
+average: '36.2544537815125'
 ---
 
 Vous avez [LEGO 21034 Architecture Londres  Jeu de Construction](https://www.amazon.fr/dp/B01J41MPF8/?tag=tolees0d-21)  à  15.00 % de réduction, prix final  33.99 EUR (original: 39.99 EUR) ici:
@@ -29,9 +29,9 @@ Vous avez [LEGO 21034 Architecture Londres  Jeu de Construction](https://www.ama
 ℹ️:
 
 - Construisez un modèle détaillé de la Skyline de Londres !
-- 468 pièces pour les garçons et les filles de plus de 12 ans
-- Inclus la National Gallery, la colonne de Nelson, le London Eye, Big Ben et le Tower Bridge
-- Les modèles LEGO Archicture sont compatibles avec tous les ensembles de construction LEGO pour une construction sans limite
 - Mesure plus de 15 cm de haut, 28 cm de large et 8 cm de profondeur
+- Les modèles LEGO Archicture sont compatibles avec tous les ensembles de construction LEGO pour une construction sans limite
+- Inclus la National Gallery, la colonne de Nelson, le London Eye, Big Ben et le Tower Bridge
+- 468 pièces pour les garçons et les filles de plus de 12 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J41MPF8/?tag=tolees0d-21)

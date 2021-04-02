@@ -1,27 +1,28 @@
 ---
 layout: post
-title: 'Pixar - en Avant avec 33.40 % rabais '
-date: 2021-03-05 00:51:14
+title: 'Pixar - en Avant avec 33.67 % rabais '
+date: 2021-04-02 18:49:21
 image: 'https://m.media-amazon.com/images/I/51W3oPHUEEL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B085FKWWZS-fr Pixar - en Avant'
 sku: 'B085FKWWZS-fr'
-actualPrice: 9.99 EUR
+tags: [ 'Animation','DVD et Blu-ray','Featured Categories','Films','pixar', ]
+actualPrice: 9.95 EUR
 currency: EUR
-price: 9.99
+price: 9.95
 comparePrice: 15.0 EUR
 prodname: 'Pixar - en Avant'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Pixar'
 buyurl: 'https://www.amazon.fr/dp/B085FKWWZS/?tag=tolees0d-21'
-descuento: '33.40'
-average: '11.2701333333332'
+descuento: '33.67'
+average: '11.235844155844'
 ---
 
-C'est en vente [Pixar - en Avant](https://www.amazon.fr/dp/B085FKWWZS/?tag=tolees0d-21)  à  33.40 % de réduction, prix final  9.99 EUR (original: 15.0 EUR) ici:
+C'est en vente [Pixar - en Avant](https://www.amazon.fr/dp/B085FKWWZS/?tag=tolees0d-21)  à  33.67 % de réduction, prix final  9.95 EUR (original: 15.0 EUR) ici:
 
 [![Pixar - en Avant](https://m.media-amazon.com/images/I/51W3oPHUEEL._SL400_.jpg)](https://www.amazon.fr/dp/B085FKWWZS/?tag=tolees0d-21)
 
