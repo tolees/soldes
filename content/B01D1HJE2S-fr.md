@@ -28,15 +28,15 @@ Vous avez [Samsonite - X Blade 3.0 2 Roues 55 cm Exp](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Serrure : Cadenas cable TSA
-- Fermeture à combinaison TSA pour voyager en toute sécurité
 - Taille: S EXP (55cm-51,5L)
-- Compartiment tablette dans tous les modèles ( sauf sacs de voyage, modèles à suspendre et affaires de toilette)
 - Sac pour le linge amovible, sangles croisées adaptables en hauteur avec boucles Smart Fix et poches intérieures zippées dans tous les bagages, poche pour affaires humides intégrée ...
-- Poches extérieures : Une poche frontale et un poche latérale
-- Garantie 5 ans internationale
-- Poignée de traction : Double tube
-- Types de roues : Système de roulettes intégrées
+- Fermeture à combinaison TSA pour voyager en toute sécurité
 - La nouvelle collection XBlade 3.0 offre encore plus de volume et de capacité de chargement tout en étant plus légère.
+- Poches extérieures : Une poche frontale et un poche latérale
+- Compartiment tablette dans tous les modèles ( sauf sacs de voyage, modèles à suspendre et affaires de toilette)
+- Serrure : Cadenas cable TSA
+- Types de roues : Système de roulettes intégrées
+- Poignée de traction : Double tube
+- Garantie 5 ans internationale
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01D1HJE2S/?tag=tolees0d-21)
