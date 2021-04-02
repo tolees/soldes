@@ -28,10 +28,10 @@ Vous avez [Rubson SA Mastic Sanitaire Blanc  Mastic silicone acétique contenant
 
 ℹ️:
 
-- Performant – Le mastic Rubson à une forte tenue à la température de -50°C à +150°C. Il est également très élastique, allongement à la rupture denviron 400%.
-- Silicone sanitaire – Idéal pour la réalisation de joints d’étanchéité ou de raccordement dans les cuisines, salles de bains : pour baignoire, douche, lavabo, siphon, etc.
 - Tous supports non poreux ou vitrifiés – Ce mastic étanche est utilisable sur tous les matériaux tels que l’émail, la céramique, le verre, le grès, la faïence, etc.
-- Emballage – Rubson SA Mastic Sanitaire, à base de silicone de type acétique, cartouche mastic 300 ml, mastic silicone blanc, 1 cartouche = environ 12 mètres de joint
 - Longue durée – Particulièrement étanche et renforcé en antifongiques, ce produit silicone assure la longévité et une propreté durable de votre joint dans la salle de bain ou cuisine.
+- Silicone sanitaire – Idéal pour la réalisation de joints d’étanchéité ou de raccordement dans les cuisines, salles de bains : pour baignoire, douche, lavabo, siphon, etc.
+- Emballage – Rubson SA Mastic Sanitaire, à base de silicone de type acétique, cartouche mastic 300 ml, mastic silicone blanc, 1 cartouche = environ 12 mètres de joint
+- Performant – Le mastic Rubson à une forte tenue à la température de -50°C à +150°C. Il est également très élastique, allongement à la rupture denviron 400%.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008EUVFK2/?tag=tolees0d-21)
