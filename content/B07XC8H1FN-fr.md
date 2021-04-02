@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'THQ NORDIC - DCL - Drone Championship Le avec 59.76 % rabais '
-date: 2021-04-01 02:56:27
+date: 2021-04-02 13:50:21
 image: 'https://m.media-amazon.com/images/I/517QuIBXxsL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'THQ NORDIC'
 buyurl: 'https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21'
 descuento: '59.76'
-average: '21.0266666666667'
+average: '20.8932432432433'
 ---
 
 C'est en vente [THQ NORDIC - DCL - Drone Championship League](https://www.amazon.fr/dp/B07XC8H1FN/?tag=tolees0d-21)  à  59.76 % de réduction, prix final  16.09 EUR (original: 39.99 EUR) ici:
