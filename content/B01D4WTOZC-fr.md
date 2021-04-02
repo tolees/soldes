@@ -28,7 +28,7 @@ Vous avez [Hasbro - YO KAI WATCH TV](https://www.amazon.fr/dp/B01D4WTOZC/?tag=to
 
 ℹ️:
 
-- B5943103
 - Hasbro
+- B5943103
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01D4WTOZC/?tag=tolees0d-21)

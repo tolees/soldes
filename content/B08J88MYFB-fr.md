@@ -28,10 +28,10 @@ Vous avez [Excalibur Games - Tracks Edition Coffre à Jouets  Nintendo Switch ](
 
 ℹ️:
 
-- Une fois que vous êtes prêt, montez dans le siège du conducteur et guidez votre petit train à la première personne pendant que vous roulez sur vos réalisations
-- Personnalisez votre monde avec des arbres et des feuillages, des bâtiments, des stations, des animaux, des véhicules, des décorations et plus encore
-- Plongez dans un vaste environnement "bac à sable", posez des morceaux de piste, créez des ponts et construisez des villes avec des outils et un gameplay facile à maîtriser
 - Choisissez votre terrain, de la campagne verdoyante aux villes désertiques, jusquaux sites industriels brumeux en passant par des installations de cirque animées
+- Plongez dans un vaste environnement "bac à sable", posez des morceaux de piste, créez des ponts et construisez des villes avec des outils et un gameplay facile à maîtriser
+- Personnalisez votre monde avec des arbres et des feuillages, des bâtiments, des stations, des animaux, des véhicules, des décorations et plus encore
+- Une fois que vous êtes prêt, montez dans le siège du conducteur et guidez votre petit train à la première personne pendant que vous roulez sur vos réalisations
 - Tracks est un magnifique jeu de construction qui rappelle les trains en bois de lenfance avec tous les outils dont vous avez besoin pour jouer sans limites
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08J88MYFB/?tag=tolees0d-21)

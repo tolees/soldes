@@ -28,10 +28,10 @@ Vous avez [Subsonic - PSG Paris Saint Germain Sacoche/Housse Rigide/Anti-choc Et
 
 ℹ️:
 
-- Doublure intérieure en mousse pour protéger la console et les accessoires contre les chocs et rayures.
 - Housse de transport en eva (matière rigide et antichocs) pour console et accessoires Nintendo switch lite. Licence officielle paris saint germain.
 - Permet de ranger la console, les manettes joycons et accessoires tels que les dragonnes pour joy-cons, oreillettes gaming…
-- Transport facile et pratique: muni dune poignée, délastiques de maintien pour la console et filet pour les accessoires et les jeux.
 - Cet étui a été conçu sur mesure pour la Nintendo switch/ switch lite afin demmener et transporter votre console et vos accessoires en toute sécurité.
+- Doublure intérieure en mousse pour protéger la console et les accessoires contre les chocs et rayures.
+- Transport facile et pratique: muni dune poignée, délastiques de maintien pour la console et filet pour les accessoires et les jeux.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08DLJ86T2/?tag=tolees0d-21)

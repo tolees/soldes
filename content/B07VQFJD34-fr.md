@@ -30,8 +30,8 @@ Vous avez [Oplite - Supreme Monitor Stand Plus - Pied de Fixation Rotatif Univer
 
 - ✅ Flexibilité et compatibilité VESA: Inclinaison de -10° / +10 ° vers le haut et vers le bas, inclinaison de -10° / +10° vers la gauche et la droite, rotation de -180° / +180°, dimensions VESA - 75x75 ou 100x100mm.
 - ✅ Support moniteur 17" à 35" à contre balancier réglable et ajustable en tension en fonction du poids de lécran afin doffrir un confort dusage exceptionnel sans aucun effort
-- ✅ Facile à Régler: Avec son bras à ressort intégré pour sadapter à différents poids du moniteur (2-8 kg), votre moniteur peut être facilement ajusté entre 32 et 45 cm de hauteur.
 - ✅ Port multimédia: 2 ports USB 3.0 facilement accessibles et 2 ports multimédia jack 3,5 permettant la connexion dun micro casque ou denceintes audio
+- ✅ Facile à Régler: Avec son bras à ressort intégré pour sadapter à différents poids du moniteur (2-8 kg), votre moniteur peut être facilement ajusté entre 32 et 45 cm de hauteur.
 - ✅ Stabilité : la conception du Suprême monitor Stand OPLITE permet de recevoir un écran de grande taille en conservant une stabilité parfaite
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VQFJD34/?tag=tolees0d-21)
