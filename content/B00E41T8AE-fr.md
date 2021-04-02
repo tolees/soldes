@@ -28,10 +28,10 @@ Vous avez [Camper Adults First Order Pelotas  Baskets Basses Homme  Marron  Dark
 
 ℹ️:
 
-- Couleur : marron foncé
 - Semelle extérieure / Caracteristiques : Caoutchouc pour une bonne adhérence
-- Semelle intérieure : Semelle intérieure amovible pour un meilleur maintien
-- Tige : Cuir (Cuir de vachette)
 - Coutures à 360° pour une meilleure durabilité
+- Couleur : marron foncé
+- Tige : Cuir (Cuir de vachette)
+- Semelle intérieure : Semelle intérieure amovible pour un meilleur maintien
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00E41T8AE/?tag=tolees0d-21)
