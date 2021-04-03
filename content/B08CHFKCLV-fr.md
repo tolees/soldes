@@ -28,10 +28,10 @@ Vous avez [Alpina Tronçonneuse thermique APR 25  10" ](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Tronçonneuse thermique
 - Equipé dun moteur essence de 25,4 cc
-- Idéal pour lélagage des arbres et des grands buissons
 - Barre compacte et précise, avec une longueur de 10 "/ 25 cm
 - Chaîne 3/8 ".050" (91PX-40X)
+- Idéal pour lélagage des arbres et des grands buissons
+- Tronçonneuse thermique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CHFKCLV/?tag=tolees0d-21)
