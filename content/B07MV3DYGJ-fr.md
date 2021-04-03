@@ -28,11 +28,11 @@ C'est en vente [Play-Doh – 20 Pots de Pate A Modeler - Super Couleurs - 84 g c
 
 ℹ️:
 
-- La pâte à modeler PLAY-DOH, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 2 ans, 3 ans, 4 ans et plus.
+- 20 couleurs différentes
 - Pack de 20 pots de pâte à modeler PLAY-DOH.
-- OFFRE PROMO : Jusqu’au 15 mars 2021, rendez-vous sur playdoh65.fr pour gagner 1 moment inoubliable en famille ! Jeu 100% gagnant dans la limite de 70 070 dotations, valable sur une sélection de jouets Play-Doh d’Hasbro. Les différents lots sont accessibles en fonction du produit acheté : une activité en lien avec le produit ou un livre photo à gagner. Voir modalités complètes sur playdoh65.fr
+- La pâte à modeler PLAY-DOH, le jouet parfait à offrir en cadeau pour les enfants, filles et garçons de 2 ans, 3 ans, 4 ans et plus.
 - Valeur éducative de PLAY-DOH: créer, imaginer, développer sa motricité.
 - Pots de pâte à modeler de 84 grammes chacun.
-- 20 couleurs différentes
+- OFFRE PROMO : Jusqu’au 15 mars 2021, rendez-vous sur playdoh65.fr pour gagner 1 moment inoubliable en famille ! Jeu 100% gagnant dans la limite de 70 070 dotations, valable sur une sélection de jouets Play-Doh d’Hasbro. Les différents lots sont accessibles en fonction du produit acheté : une activité en lien avec le produit ou un livre photo à gagner. Voir modalités complètes sur playdoh65.fr
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MV3DYGJ/?tag=tolees0d-21)
