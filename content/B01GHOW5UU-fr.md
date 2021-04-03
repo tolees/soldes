@@ -28,10 +28,10 @@ C'est en vente [Noble Collections Collectibles  idée Cadeau  Figurine  Multicol
 
 ℹ️:
 
-- Officially authorized by Warner Brothers
 - Chess pieces measure 2 to 4 inches
+- Manufactured by The Noble Collection
 - Playing board is 18.5 x 18.5 inches
 - Detailed chess pieces, including Batman, Batgirl, The Joker, Harley Quinn, Batmobile, as well as others
-- Manufactured by The Noble Collection
+- Officially authorized by Warner Brothers
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GHOW5UU/?tag=tolees0d-21)

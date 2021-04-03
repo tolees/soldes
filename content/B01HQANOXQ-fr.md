@@ -28,8 +28,8 @@ C'est en vente [Crocs Crocband Flip  Tongs Mixte Adulte  Rouge  Pepper/White   3
 
 ℹ️:
 
-- Les chaussures Crocs nous indiqueront les tailles
 - Les tailles de semelle sont les nous. Étiquette indiquant le Royaume-Uni. M = homme W = femme
 - Semelle intérieure massante
+- Les chaussures Crocs nous indiqueront les tailles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01HQANOXQ/?tag=tolees0d-21)

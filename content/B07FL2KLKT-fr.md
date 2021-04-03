@@ -28,10 +28,10 @@ Vous avez [K&F CONCEPT - K&F Concept Filtre 82 mm ND Variable Densité Neu
 
 ℹ️:
 
-- Film vert imperméable, résistant aux rayures et transparent qui bloque efficacement les taches dhuile, les traces de doigts, les rayures et les égratignures, etc. ATTENTION: nous avons 2 styles demballage à propos de la boîte, nous allons envoyer au hasard après commander.
-- Il peut être ajusté de ND2 à ND32, réduit la quantité de lumière qui atteint le film sans altérer la couleur.
 - Le cadre a une technologie auto-bloquante. En tournant sur lextrémité min ou ND32, le cadre est automatiquement verrouillé, ce qui est utile pour le réglage et le positionnement et évite le phénomène de la croix noire.
 - Cest un outil particulièrement utile lors de la création deffets de mouvement dans leau en mouvement tels que les cascades, les rivières et les vagues. Idéal pour photographier les paysages et la nature.Le filtre ND2-32 est souvent utilisé pour la vidéo.
 - Remarque: Ce kit est compatible avec tous les objectifs de 82 mm. Veuillez vérifier la taille de lobjectif de lappareil photo avant de commander. PS : Ce filtre 82mm est un plus large que lobjectif ( en raison de le design) Donc si vous voulez mettre un paresoleil/bouchon universel, sil vous plaît de installer la diamètre 86mm ou utiliser le pare-soleil/bouchon Edison 82mm.
+- Il peut être ajusté de ND2 à ND32, réduit la quantité de lumière qui atteint le film sans altérer la couleur.
+- Film vert imperméable, résistant aux rayures et transparent qui bloque efficacement les taches dhuile, les traces de doigts, les rayures et les égratignures, etc. ATTENTION: nous avons 2 styles demballage à propos de la boîte, nous allons envoyer au hasard après commander.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FL2KLKT/?tag=tolees0d-21)
