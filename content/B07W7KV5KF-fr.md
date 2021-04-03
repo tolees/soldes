@@ -28,11 +28,11 @@ C'est en vente [Logitech MX Anywhere 3 pour Mac – Souris compacte  sans fil  d
 
 ℹ️:
 
-- FONCTIONNE PARTOUT : Bureau ou cybercafé, déplacez-la sur n’importe quelle surface, même le verre. La souris sans fil à capteur 4 000 PPP glisse sur de nombreuses surfaces et vous facilite la vie
-- Piles: batterie rechargeable Li-Po (500 mAh)
-- DÉFILEMENT MAGSPEED : Du cliquet au mode hyper-rapide. Faites défiler 1 000 lignes en 1 seconde et arrêtez-vous sur un pixel. Le défilement électromagnétique MagSpeed est précis et silencieux
 - CONÇUE POUR MAC : Optimisé pour être compatible avec MacOS et iPad. Connectez MX Anywhere 3 pour Mac à jusqu’à trois appareils, pour une intégration réussie à votre écosystème Apple et votre workflow
-- LE CONFORT PARTOUT : Forme ergonomique abaissée adaptée à la morphologie de votre main. Sa structure en silicone offre en confort durable. Résistante aux chocs et aux chutes lors de vos déplacements
 - CHARGEMENT USB-C : Rechargez votre souris pendant 1 minutes et partez pour 3 heures. Câble de charge USB-C inclus. MX Anywhere 3 fonctionne pendant 70 jours après une charge complète
+- DÉFILEMENT MAGSPEED : Du cliquet au mode hyper-rapide. Faites défiler 1 000 lignes en 1 seconde et arrêtez-vous sur un pixel. Le défilement électromagnétique MagSpeed est précis et silencieux
+- FONCTIONNE PARTOUT : Bureau ou cybercafé, déplacez-la sur n’importe quelle surface, même le verre. La souris sans fil à capteur 4 000 PPP glisse sur de nombreuses surfaces et vous facilite la vie
+- LE CONFORT PARTOUT : Forme ergonomique abaissée adaptée à la morphologie de votre main. Sa structure en silicone offre en confort durable. Résistante aux chocs et aux chutes lors de vos déplacements
+- Piles: batterie rechargeable Li-Po (500 mAh)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W7KV5KF/?tag=tolees0d-21)

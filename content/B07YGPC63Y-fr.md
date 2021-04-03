@@ -28,10 +28,10 @@ C'est en vente [DC Comics - BATMAN - PACK VÉHICULE + 2 FIGURINES 10 CM - DC COM
 
 ℹ️:
 
+- VÉHICULE + FIGURINES BATMAN - Retrouvez un véhicule exclusif et 2 figurines articulées de 10 cm officielles de lunivers Batman pour imaginer plein de nouvelles aventures
 - Attention modèle alétatoire : ce produit fait partie d’un assortiment, il est donc possible que vous le receviez dans un autre coloris ou modèle que celui présenté en visuel
 - CADEAU ENFANT - Pour un anniversaire ou Noël, offrez le coffret véhicule + 2 figurines Batman 10 cm et faîtes redécouvrir à vos enfants lunivers de Batman ; Développez leur imagination en créant des aventures et des combats légendaires face aux pires ennemis de Batman ; Jouet enfant à partir de 3 ans
-- VÉHICULE + FIGURINES BATMAN - Retrouvez un véhicule exclusif et 2 figurines articulées de 10 cm officielles de lunivers Batman pour imaginer plein de nouvelles aventures
-- FIGURINES ARTICULÉES DE 10 CM EXCLUSIVES - Le véhicule et les figurines permettent aux enfants de se créer leurs propres combats grâce à la figurine de Batman et à son ennemi juré !
 - CRÉEZ DES COMBATS ÉPIQUES - Laissez libre cours à votre imagination pour recréer vos propres combats BATMAN contre son ennemi juré ! Collectionnez toutes les figurines articulées BATMAN de 10 cm (vendues séparément) pour multiplier les possibilités de jeu ; figurines jouet enfant
+- FIGURINES ARTICULÉES DE 10 CM EXCLUSIVES - Le véhicule et les figurines permettent aux enfants de se créer leurs propres combats grâce à la figurine de Batman et à son ennemi juré !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YGPC63Y/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Ring Automotive - Ring RCBT40T Chargeur/Démarreur de Batterie Profes
 
 ℹ️:
 
-- chargeur batterie
 - RING
-- 12 et 24 volts
 - professionnelle
+- chargeur batterie
 - jusquà 40 ampères
+- 12 et 24 volts
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CAKWD8K/?tag=tolees0d-21)

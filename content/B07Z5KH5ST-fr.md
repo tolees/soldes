@@ -28,11 +28,11 @@ C'est en vente [Devolo Magic 2 LAN Triple : Adaptateur CPL avec 3 ports Ethernet
 
 ℹ️:
 
-- Extension CPL la plus rapide du monde grâce à la technologie CPL évolutive (norme g.Hn) par le leader du marché
-- Profitez simultanément de streaming, jeux en ligne et téléchargement jusquà 2400 Mbits/s
 - Grâce aux 3 puissants ports Ethernet, plus besoin dun commutateur supplémentaire
+- Extension CPL la plus rapide du monde grâce à la technologie CPL évolutive (norme g.Hn) par le leader du marché
+- 1 prise CPL avec 3 ports Ethernet Gigabit pour les joueurs et utilisateurs intensifs de réseau, compatible avec tous les adaptateurs Magic et toutes les box internet. Les CPL devolo dLAN et HomePlug AV ne sont pas compatibles
 - Système dexploitation requis: Microsoft Windows 7 (32/64 bits), Apple MacOS X 10.9, Android 5.1, Ubuntu 16.04, Apple iOS 10
 - Idéal pour renforcer votre accès internet en haut débit, via le réseau électrique du domicile. Fonctionne obligatoirement avec un second adaptateur Magic ou plus
-- 1 prise CPL avec 3 ports Ethernet Gigabit pour les joueurs et utilisateurs intensifs de réseau, compatible avec tous les adaptateurs Magic et toutes les box internet. Les CPL devolo dLAN et HomePlug AV ne sont pas compatibles
+- Profitez simultanément de streaming, jeux en ligne et téléchargement jusquà 2400 Mbits/s
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Z5KH5ST/?tag=tolees0d-21)

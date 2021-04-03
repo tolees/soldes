@@ -28,10 +28,10 @@ C'est en vente [Carrera RC- LiFePo4 AKKU 3 2V 700mAH 7A  370600050  Coloré](htt
 
 ℹ️:
 
-- Voiture
 - Radiocommandé
-- Excellente qualité et design
-- Voiture
 - Accessoire original Carrera RC
+- Voiture
+- Voiture
+- Excellente qualité et design
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PP3X1DW/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [JOYSKY Masque de Protection FFP2 Certifié CE Lot de 30 Masque J
 
 ℹ️:
 
-- 【Qualité fiable】 Notre masque jetable se compose dun total de cinq couches, la couche la plus extérieure est un tissu non tissé imperméable, la deuxième couche est en coton à air chaud, les troisième et quatrième couches sont deux couches de tissu soufflé par fusion, et la couche la plus intérieure est un tissu non tissé doux pour la peau. Ce qui aussi permet d’une respiration facile et confortable pendant des périodes prolongées.
-- 【Facile à transporter】Les masques filtrants de type FFP2 sont emballés dans des sachets individuels, ce qui permet de les emporter nimporte où, avec soi sans les salir ni les abîmer.
 - 【Livraison rapide】Stock disponible en France. Dimensions: 16 x 11 cm (sans les boucles doreilles).
-- 【Conception Conviviale】Conception tridimensionnelle 3D avec pince-nez souple et réglable à lintérieur - offre confort et sécurité grâce à son ajustement précis au visage. Les bretelles élastiques sont confortables pour la plupart des hommes et des femmes, même avec des lunettes, durables.
 - 【Certification professionnelle】Notre masque de protection FFP2 conforme aux normes de certification CE, EN 149: 2001 + A1: 2009 certifié par lorganisme notifié 2163, qui requièrent une efficacité de filtration bactérienne (EFB) >=99% des bactéries de 3µm et plus & une efficacité de filtration des particules (EFP) >= 95% sont utilisés pour filtrer 94% des particules en suspension dans lair.
+- 【Facile à transporter】Les masques filtrants de type FFP2 sont emballés dans des sachets individuels, ce qui permet de les emporter nimporte où, avec soi sans les salir ni les abîmer.
+- 【Qualité fiable】 Notre masque jetable se compose dun total de cinq couches, la couche la plus extérieure est un tissu non tissé imperméable, la deuxième couche est en coton à air chaud, les troisième et quatrième couches sont deux couches de tissu soufflé par fusion, et la couche la plus intérieure est un tissu non tissé doux pour la peau. Ce qui aussi permet d’une respiration facile et confortable pendant des périodes prolongées.
+- 【Conception Conviviale】Conception tridimensionnelle 3D avec pince-nez souple et réglable à lintérieur - offre confort et sécurité grâce à son ajustement précis au visage. Les bretelles élastiques sont confortables pour la plupart des hommes et des femmes, même avec des lunettes, durables.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08VS4SS3J/?tag=tolees0d-21)

@@ -29,7 +29,7 @@ Vous avez [Creation Vd - 951 - Kit de Loisirs Créatif - Crystal Flor](https://w
 ℹ️:
 
 - Description du produit: Ce coffret permet de créer plus de 8 fleurs qui semblent être en verre effilé, pourtant elles ne sont faites quen peinture vitrail.Pour les réaliser, il suffit de former des tiges dans un moule et de les remplir de peinture.En quelques minutes, leau sévapore et la couleur devient cristalline.Lassemblage des pétales est un jeu denfants qui se complète ensuite par des pistils en Patarev.Ainsi, Crystal Flor est un kit complet dactivité manuelle pour les filles qui aiment créer des objets de décoration.Contenu :- 10 tubes de peinture vitrail- 2 moules de formage- 50 tiges de formage- 1 sachet de Patarev- 1 petit rouleau de papier vert- 1 notice illustrée
-- Age minimum: 7 ans
 - Nécessite des piles: Non
+- Age minimum: 7 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0048ARVC8/?tag=tolees0d-21)

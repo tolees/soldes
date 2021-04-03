@@ -28,10 +28,10 @@ C'est en vente [Libellud Dixit: Harmonies](https://www.amazon.fr/dp/B0774CKZ3R/?
 
 ℹ️:
 
+- Le rêve va les harmonies dans Dixit, lextension Dixit vous transportera à étrange et merveilleux endroits
+- Pour 3 à 6 joueurs | 60 minutes jouer temps | 8 ans et plus
+- Explorez le monde sugarcoated, nostalgique de la Paul R. echegoyen, la bande dessinée artiste et lextension du livre pour enfants illustrateur qui a fourni des illustrations pour les harmonies
 - Laisser enfermer dans la Dixit sort et de lexpérience dune nouvelle et incroyable voyage vous tenant bien au-delà de votre imagination
 - Il ne sagit pas dun jeu autonome : une copie de Dixit est nécessaire pour jouer
-- Le rêve va les harmonies dans Dixit, lextension Dixit vous transportera à étrange et merveilleux endroits
-- Explorez le monde sugarcoated, nostalgique de la Paul R. echegoyen, la bande dessinée artiste et lextension du livre pour enfants illustrateur qui a fourni des illustrations pour les harmonies
-- Pour 3 à 6 joueurs | 60 minutes jouer temps | 8 ans et plus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0774CKZ3R/?tag=tolees0d-21)
