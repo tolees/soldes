@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Sylvanian Families - Le Village - Les Am avec 19.32 % rabais '
-date: 2021-03-31 10:47:57
+date: 2021-04-03 08:19:11
 image: 'https://m.media-amazon.com/images/I/51Mne2wFdxL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'SYLVANIAN FAMILIES'
 buyurl: 'https://www.amazon.fr/dp/B01N9SX0F1/?tag=tolees0d-21'
 descuento: '19.32'
-average: '15.7447488584475'
+average: '15.6937219730942'
 ---
 
 C'est en vente [Sylvanian Families - Le Village - Les Amies de La Crèche - 5262 - Crèche des Bébés - Mini Poupées](https://www.amazon.fr/dp/B01N9SX0F1/?tag=tolees0d-21)  à  19.32 % de réduction, prix final  12.9 EUR (original: 15.99 EUR) ici:
