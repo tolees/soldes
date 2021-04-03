@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath - Modelco - VR goggles - VRSE -  avec 70.37 % rabais '
-date: 2021-03-29 03:08:02
+date: 2021-04-03 13:35:14
 image: 'https://m.media-amazon.com/images/I/41J8vtvZ6lL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [Goliath - Modelco - VR goggles - VRSE - Jeu Vidéo - Réalité V
 
 ℹ️:
 
-- PAS BESOIN de console!
 - Arcade et histoire
+- PAS BESOIN de console!
 - 2 modes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21)

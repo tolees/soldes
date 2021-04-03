@@ -28,10 +28,10 @@ Vous avez [Harry Potter Quartz Montre avec Bracelet en Toile HP5100](https://www
 
 ℹ️:
 
+- Le bracelet mesure env. 20,5 cm (L) x 1,2 cm (L)
+- Lemballage peut varier des images montrées
 - Le cadran de la montre est orné dun emblème doré de Poudlard
 - Cadran de 1,8 cm de diamètre avec aiguilles des secondes, des minutes et des heures
-- Le bracelet mesure env. 20,5 cm (L) x 1,2 cm (L)
 - Marchandise sous licence officielle à 100%
-- Lemballage peut varier des images montrées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ZDQX78J/?tag=tolees0d-21)

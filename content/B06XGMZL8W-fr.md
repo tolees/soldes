@@ -28,9 +28,9 @@ Vous avez [Lowepro Droneguard BP léger Drone Sac à dos](https://www.amazon.fr/
 
 ℹ️:
 
-- Couleur : Noir/Fractale
-- Dimensions de lemballage : 11.42 x 6.69 x 18.5 in
 - Fabriqué en:- Chine
+- Couleur : Noir/Fractale
 - Poids du colis de larticle : 2.95 livres
+- Dimensions de lemballage : 11.42 x 6.69 x 18.5 in
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [adidas Tiro 21 Woven Les Pantalons De Survêtement Homme  Noir  
 
 ℹ️:
 
+- oncle Zip
 - Zip poche avant
 - Pantalon pour absorber la sueur
-- oncle Zip
-- Coupe standard / jambe conique
 - Taille élastique avec cordon de serrage
+- Coupe standard / jambe conique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PP4LZF7/?tag=tolees0d-21)
