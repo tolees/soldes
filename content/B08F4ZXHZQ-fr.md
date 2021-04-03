@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '28.52 % rabais sur Astragon Entertainment - Liftoff: Drone '
-date: 2021-03-26 22:12:40
+title: '16.67 % rabais sur Astragon Entertainment - Liftoff: Drone '
+date: 2021-04-03 02:09:58
 image: 'https://m.media-amazon.com/images/I/51H4lJOBPUL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -12,17 +12,17 @@ tags: [ 'Jeux pour PlayStation 4','Jeux vidéo','PlayStation 4: Consoles, jeux e
 actualPrice: 24.99 EUR
 currency: EUR
 price: 24.99
-comparePrice: 34.96 EUR
+comparePrice: 29.99 EUR
 prodname: 'Astragon Entertainment - Liftoff: Drone Racing Deluxe Edition  PS4 '
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Astragon Entertainment'
 buyurl: 'https://www.amazon.fr/dp/B08F4ZXHZQ/?tag=tolees0d-21'
-descuento: '28.52'
-average: '31.2726984126984'
+descuento: '16.67'
+average: '31.0793846153846'
 ---
 
-Vous avez [Astragon Entertainment - Liftoff: Drone Racing Deluxe Edition  PS4 ](https://www.amazon.fr/dp/B08F4ZXHZQ/?tag=tolees0d-21)  à  28.52 % de réduction, prix final  24.99 EUR (original: 34.96 EUR) ici:
+Vous avez [Astragon Entertainment - Liftoff: Drone Racing Deluxe Edition  PS4 ](https://www.amazon.fr/dp/B08F4ZXHZQ/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  24.99 EUR (original: 29.99 EUR) ici:
 
 [![Astragon Entertainment - Liftoff: Drone ](https://m.media-amazon.com/images/I/51H4lJOBPUL._SL400_.jpg)](https://www.amazon.fr/dp/B08F4ZXHZQ/?tag=tolees0d-21)
 

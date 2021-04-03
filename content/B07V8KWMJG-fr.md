@@ -28,10 +28,10 @@ Vous avez [Calvin Klein Jeans Instit Chest Logo Reg Tee T-Shirt  Rouge  Fiery Re
 
 ℹ️:
 
-- Doublé, sans rembourrage
-- Mélange nylon et élasthanne
 - Bretelles réglables
 - Bonnets triangulaires à haut apex
+- Mélange nylon et élasthanne
+- Doublé, sans rembourrage
 - Crochet métallique au milieu du dos
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07V8KWMJG/?tag=tolees0d-21)
