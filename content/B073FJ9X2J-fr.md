@@ -28,10 +28,10 @@ Vous avez [Charmast - Batterie Externe USB C Power Bank 26800mAh Batterie Extern
 
 ℹ️:
 
-- · 【Powerbank USB C】 La port Type C bidirectionnel prend en charge lentrée et la sortie rapide. On peut charger les Samsung, Huawei et les autres téléphones et se recharger la batterie par ce port.
-- · 【Multi ports USB Entrée et Smart E Sortie】 Il y a trois ports d’entrée pour la recharge et quatre ports de sortie USB avec la technologie Smart Identification (1 USB C + 3 USB A). L’identification intelligente de USB permet de détecter et régler automatiquement le courant de charge pour obtenir la charge plus rapide.
-- · 【Batterie externe 26800mAh】Avec la batterie externe de haute capacité en 26800mAh lithium-polymère de haute qualité, on peut Charger iPhone X/8 six fois et demi,iPad Mini deux fois et demi, Samsung galaxy S8 quatre fois, Mini iPad trois fois, Macbook 2015/2016/2017 une fois et demi(Macbook pro et Macbook air sont pas compatibles).
 - · 【Batterie Externe Compacte et Slim】Cette batterie portable de 26800mAh est autorisée sur les avions, qui est en conformité avec les normes de transport aérien. Grosse capacité et fine, idéal pour voyage! Dimensions:3.7*7.75*0.55in, poids :408 grammes.
+- · 【Multi ports USB Entrée et Smart E Sortie】 Il y a trois ports d’entrée pour la recharge et quatre ports de sortie USB avec la technologie Smart Identification (1 USB C + 3 USB A). L’identification intelligente de USB permet de détecter et régler automatiquement le courant de charge pour obtenir la charge plus rapide.
 - · 【Service et liste du colis】Service après-vente toujours réactif. Emballage: batterie externe 26800mAh de Charmast *1,câble Type-C *1,câble micro *1, pochette en filet *1.
+- · 【Powerbank USB C】 La port Type C bidirectionnel prend en charge lentrée et la sortie rapide. On peut charger les Samsung, Huawei et les autres téléphones et se recharger la batterie par ce port.
+- · 【Batterie externe 26800mAh】Avec la batterie externe de haute capacité en 26800mAh lithium-polymère de haute qualité, on peut Charger iPhone X/8 six fois et demi,iPad Mini deux fois et demi, Samsung galaxy S8 quatre fois, Mini iPad trois fois, Macbook 2015/2016/2017 une fois et demi(Macbook pro et Macbook air sont pas compatibles).
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073FJ9X2J/?tag=tolees0d-21)

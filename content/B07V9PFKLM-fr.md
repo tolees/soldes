@@ -28,7 +28,7 @@ C'est en vente [Triumph Fit Smart P EX Soutien-Gorge Invisible  Beige  Light Bro
 
 ℹ️:
 
-- Lavage à la main uniquement
 - 61% Polyamides, 23% Élasthanne, 16% Polyester
+- Lavage à la main uniquement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V9PFKLM/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [QZY - Masque FFP2 de protection - Boîte 20 Masques FFP2 Jetable
 
 ℹ️:
 
-- Élastiques & Clip de nez adaptable| Les oreillettes élastiques de haute qualité le rendent confortable à porter pendant une longue période. | Tissu non tissé respirable empêchant la poussière, le pollen, etc.
-- Boite de 20 Masques - 4 Pochettes de 5 Masques
 - Fait de 5 épaisseurs de textile non tissé, soufflé par fusion, résistant à lhumidité, non toxique, non irritant
-- Masque FFP2 Certifié CE
 - Nos masques FFP2 répondent à la norme EN149 qui requièrent une efficacité de filtration bactérienne (EFB) : >=99% des bactéries de 3µm et plus & une efficacité de filtration des particules (EFP) >= 95% sont utilisés pour filtrer 94% des particules en suspension dans lair. Le taux de fuite total doit être inférieur ou égal à 11%. Ils sont utilisés pour filtrer 94% des particules en suspension dans lair. Le taux de fuite total doit être inférieur ou égal à 11%
+- Masque FFP2 Certifié CE
+- Boite de 20 Masques - 4 Pochettes de 5 Masques
+- Élastiques & Clip de nez adaptable| Les oreillettes élastiques de haute qualité le rendent confortable à porter pendant une longue période. | Tissu non tissé respirable empêchant la poussière, le pollen, etc.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CRYYX9S/?tag=tolees0d-21)
