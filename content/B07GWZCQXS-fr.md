@@ -28,10 +28,10 @@ C'est en vente [Bloc multiprise cuisine à câbler 4 prises 2p+T et 2 USB avec c
 
 ℹ️:
 
-- 2 Chargeurs USB : 5V - 2,4A max.
-- A poser ou fixer horizontalement ou verticalement
 - Modèle à câbler (existe aussi en version précâblée)
+- 2 Chargeurs USB : 5V - 2,4A max.
 - Design élégant avec finition en inox
+- A poser ou fixer horizontalement ou verticalement
 - Multiprise de cuisine design avec 4 prises et 2 chargeurs USB
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GWZCQXS/?tag=tolees0d-21)

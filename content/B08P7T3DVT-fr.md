@@ -29,8 +29,8 @@ C'est en vente [AOSANITY - 10X FFP3 Masque de Protection de la santé Masque de 
 ℹ️:
 
 - Service après-vente de haute qualité: si vous rencontrez des problèmes lors de son utilisation, veuillez nous contacter à temps. Nous vous offrons un service client professionnel.
-- CONFORTABLE ET FACILE À PORTER: Ce masque a une forme profilée qui assure un ajustement sûr pour plus de confort et de sécurité. Nos masques sont faits de tissus confortables et doux au toucher, ce qui les rend idéaux pour les personnes à la peau sensible.
 - Conforme aux spécifications de la norme UE EN149: 2001 + A1: 2009, classification: FFP3. Les masques FFP3 sont conçus pour une capacité de filtration élevée, avec laquelle au moins 99% des particules dans lair peuvent être filtrées. Utilisez ce masque pour bien protéger votre santé.
+- CONFORTABLE ET FACILE À PORTER: Ce masque a une forme profilée qui assure un ajustement sûr pour plus de confort et de sécurité. Nos masques sont faits de tissus confortables et doux au toucher, ce qui les rend idéaux pour les personnes à la peau sensible.
 - FACILE À TRANSPORTER: Il est facile à porter et à utiliser ce masque de protection dans tous les lieux publics, vous pouvez donc respirer facilement et confortablement pendant de longues périodes.
 - Combinaison de matériaux scientifiques - Le respirateur ANNEW a une forme profilée, composée de 38% de non-tissé + 24% de tissu fondu soufflé + 20% de coton à air chaud et est conçu pour un port à long terme sans inconfort.
 

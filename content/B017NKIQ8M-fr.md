@@ -28,8 +28,8 @@ Vous avez [Sabrent Mini DisplayPort  Thunderbolt 2  vers Adaptateur HDMI [suppor
 
 ℹ️:
 
+- Prise en charge des résolutions allant jusquà 3840x2160 (4K) Ultra-HD @ 30Hz, 1080P @ 120Hz. Prise en charge 8 canaux LPCM et HBR audio jusquà la fréquence déchantillonnage 192kHz
 - Accessoire idéal pour Apple iMac, Mac Mini, Mac Pro, MacBook Air, MacBook Pro 13 pouces, MacBook Pro 15 pouces, MacBook Pro 17 pouces et des modèles plus compatibles sont répertoriés dans le PD.
 - Cet adaptateur vous permet de connecter une sortie vidéo Mini DisplayPort de votre ordinateur portable, tablette ou PC de bureau vers HDMI-équipés affiche, téléviseurs haute définition et les projecteurs
-- Prise en charge des résolutions allant jusquà 3840x2160 (4K) Ultra-HD @ 30Hz, 1080P @ 120Hz. Prise en charge 8 canaux LPCM et HBR audio jusquà la fréquence déchantillonnage 192kHz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B017NKIQ8M/?tag=tolees0d-21)

@@ -28,13 +28,13 @@ Vous avez [LEGO 75892 Speed Champions McLaren Senna  Jeu de Construction](http
 
 ℹ️:
 
+- La McLaren Senna à construire, prête pour la course, comprend un cockpit pour figurine, un pare-brise amovible, des roues avec des pneus en caoutchouc et des jantes interchangeables, un aileron arrière, des éléments de style lumineux translucides, des autocollants avec les logos McLaren et Senna et des détails de design réalistes.
+- Les accessoires incluent le casque du pilote de course McLaren et une clé anglaise.
+- Comprend aussi un tunnel aérodynamique à construire avec un ventilateur rotatif.
+- Le tunnel aérodynamique mesure plus de 5 cm de haut, 6 cm de large et 4 cm de profondeur.
 - La voiture McLaren Senna mesure plus de 4 cm de haut, 15 cm de long et 5 cm de large.
 - Cet ensemble de voiture offre un plaisir créatif sans fin pour les enfants épris de voitures.
-- La McLaren Senna à construire, prête pour la course, comprend un cockpit pour figurine, un pare-brise amovible, des roues avec des pneus en caoutchouc et des jantes interchangeables, un aileron arrière, des éléments de style lumineux translucides, des autocollants avec les logos McLaren et Senna et des détails de design réalistes.
-- Inclut une figurine de pilote de course McLaren dans une combinaison de course comprenant les logos McLaren Senna et Pirelli.
-- Le tunnel aérodynamique mesure plus de 5 cm de haut, 6 cm de large et 4 cm de profondeur.
-- Les accessoires incluent le casque du pilote de course McLaren et une clé anglaise.
 - Le pare-brise senlève pour placer la figurine dans la voiture.
-- Comprend aussi un tunnel aérodynamique à construire avec un ventilateur rotatif.
+- Inclut une figurine de pilote de course McLaren dans une combinaison de course comprenant les logos McLaren Senna et Pirelli.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNW8PGR/?tag=tolees0d-21)

@@ -28,7 +28,7 @@ Vous avez [Cattier Huile Végétale Jojoba 50 ml](https://www.amazon.fr/dp/B002G
 
 ℹ️:
 
-- Cosmebio Ecocert
 - Flacon pipette
+- Cosmebio Ecocert
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002GYKJV8/?tag=tolees0d-21)

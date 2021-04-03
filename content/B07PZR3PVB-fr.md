@@ -28,9 +28,9 @@ C'est en vente [Apple AirPods avec boîtier de charge filaire  2e génération ]
 
 ℹ️:
 
-- Design universel pour un confort optimal
-- Accès rapide à Siri en disant «Dis Siri»
 - Passage fluide d’un appareil à l’autre
+- Accès rapide à Siri en disant «Dis Siri»
+- Design universel pour un confort optimal
 - Plus de 24 heures d’autonomie avec le boîtier de charge
 - Activation et connexion automatiques
 - Configuration facile pour tous vos appareils Apple

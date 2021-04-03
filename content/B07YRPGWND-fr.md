@@ -28,10 +28,10 @@ C'est en vente [SNAPTAIN SP650 Drone avec Caméra 1080P Full HD 120° Grand Angl
 
 ℹ️:
 
-- ✈【Designs Attentionnés】SP650 est équipé de 2 batteries,chaque batteire fournit 12 minutes de temps de vol. En plus, la protection pour anti-incontrôle, alarme de batterie faible , cela assure la sécurité et plaisirs nombreux.
-- ✈【1080P Caméra avec 120° FOV Réglable】Full HD caméra（1920 x 1080P)offre une qualité dimage exceptionnelle,120° FOV(Champ de vision ) et 90° angle réglable vous donne une vue panoramique pour enregistrer votre moment inoubliable
-- ✈【Performances de Vol】SP650 est un drone polyvalent, Il peut effectuer des acrobaties telles que Vol de Trajectoire, 360°Flips et Vol en Cercle, vous pouvez montrer les meilleures spectacles même si vous êtes débutants.
 - ✈【SmartCapture Avancé】SmartCapture vous apporte une nouvelle façon de contrôler Snaptain SP650. Prenez des photos et des vidéos simplement comme vous le souhaitez.
 - ✈【Facile à Contrôler】Maintien en altitude, mode sans tête, un bouton décollager / atterrir et arrêt durgence, vous pouvez devenir un pilote professionnel pas besoin de longtemps.
+- ✈【1080P Caméra avec 120° FOV Réglable】Full HD caméra（1920 x 1080P)offre une qualité dimage exceptionnelle,120° FOV(Champ de vision ) et 90° angle réglable vous donne une vue panoramique pour enregistrer votre moment inoubliable
+- ✈【Performances de Vol】SP650 est un drone polyvalent, Il peut effectuer des acrobaties telles que Vol de Trajectoire, 360°Flips et Vol en Cercle, vous pouvez montrer les meilleures spectacles même si vous êtes débutants.
+- ✈【Designs Attentionnés】SP650 est équipé de 2 batteries,chaque batteire fournit 12 minutes de temps de vol. En plus, la protection pour anti-incontrôle, alarme de batterie faible , cela assure la sécurité et plaisirs nombreux.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YRPGWND/?tag=tolees0d-21)
