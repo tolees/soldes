@@ -28,8 +28,8 @@ Vous avez [Apli 1289 Boîte de 100 Feuilles d Etiquettes 105 x 48 Blanc](https:/
 
 ℹ️:
 
-- Référence-1289
 - Marque-APLI
+- Référence-1289
 - APLI - Boîte 100 feuilles Étiquettes blanc ILC 105X481289-APLI-Papeterie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000KJKGNM/?tag=tolees0d-21)

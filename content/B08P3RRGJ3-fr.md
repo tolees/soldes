@@ -30,8 +30,8 @@ C'est en vente [BLACK SHIELD - Lot de 20pcs - Masques de Protection FFP2 vérifi
 
 - 5 couches filtrantes
 - Confort optimal de respiration
+- Masques vérifiés et testés CE2797
 - Clip de nez adaptable
 - Emballage individuel
-- Masques vérifiés et testés CE2797
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08P3RRGJ3/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Playmobil - Volkswagen Coccinelle](https://www.amazon.fr/dp/B08K
 
 ℹ️:
 
-- Contient trois personnages, une valise, une planche de surf, une glacière et des jouets.
 - Le toit est amovible
+- Contient trois personnages, une valise, une planche de surf, une glacière et des jouets.
 - La Coccinelle est un vrai classique
 - Cest parti pour des vacances en famille à la plage !
 

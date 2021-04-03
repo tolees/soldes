@@ -28,11 +28,11 @@ Vous avez [MANUCURE - COOL MAKER - GO GLAM GLITTER NAILS - Ongles à Paillettes 
 
 ℹ️:
 
-- JOUET ENFANT 8 ANS ET + - Le kit GO GLAM GLITTER NAILS Cool Maker convient aux enfants à partir de 8 ans ; coffret manucure enfants à partir de 8 ans
 - CADEAU ENFANT - Pour un anniversaire ou Noël offrez le Go Glam Glitter Nails Cool Maker ; partagez un moment de créativité avec votre enfant autour du kit complet pour personnaliser sa manucure
-- FACILE À RETIRER - Lorsque vous voulez changer ou retirer vos ongles à paillettes, rien de plus simple. Il vous suffit de pincer lautocollant double face et de tirer, puis de recommencer encore et encore
-- ACTIVITÉ CRÉATIVE - Le kit Go Glam Glitter Nails est une activité créative qui convient parfaitement aux fêtes et soirées pyjama. Créez de superbes manucures avec vos amis
-- CRÉEZ 5 MANUCURES PAILLETÉES - Avec Go Glam Glitter Nails, faire sa manucure devient un jeu d’enfant. Ce kit contient tout ce dont vous avez besoin pour créer 5 manucures étincelantes, notamment 6 couleurs de paillettes, des stickers pour les ongles, une lime à ongles et bien plus encore. Combinez les paillettes pour exprimer votre style
+- JOUET ENFANT 8 ANS ET + - Le kit GO GLAM GLITTER NAILS Cool Maker convient aux enfants à partir de 8 ans ; coffret manucure enfants à partir de 8 ans
 - PAS BESOIN DE VERNIS À ONGLES - Réalisez vos manucures sans vernis à ongles, pas besoin dattendre que ça sèche. Il suffit de poser un autocollant sur votre ongle, le limer pour ladapter à la taille de longle, puis de déposer à laide du pinceau les paillettes, et enfin dajouter des stickers selon vos envies
+- FACILE À RETIRER - Lorsque vous voulez changer ou retirer vos ongles à paillettes, rien de plus simple. Il vous suffit de pincer lautocollant double face et de tirer, puis de recommencer encore et encore
+- CRÉEZ 5 MANUCURES PAILLETÉES - Avec Go Glam Glitter Nails, faire sa manucure devient un jeu d’enfant. Ce kit contient tout ce dont vous avez besoin pour créer 5 manucures étincelantes, notamment 6 couleurs de paillettes, des stickers pour les ongles, une lime à ongles et bien plus encore. Combinez les paillettes pour exprimer votre style
+- ACTIVITÉ CRÉATIVE - Le kit Go Glam Glitter Nails est une activité créative qui convient parfaitement aux fêtes et soirées pyjama. Créez de superbes manucures avec vos amis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FCQ4Q4Q/?tag=tolees0d-21)
