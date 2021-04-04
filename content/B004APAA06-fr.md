@@ -28,9 +28,9 @@ Vous avez [Flatpack de 6 Rubans d Emballage Scotch 371  Transparent  48 µm - 50
 
 ℹ️:
 
-- Adhésif haute résistance « thermofusible »
+- Très bonne adhésion sur carton vierge et recyclé
 - facile à dérouler
 - Ruban adhésif demballage polyvalent pour sceller simplement les boîtes légères.
-- Très bonne adhésion sur carton vierge et recyclé
+- Adhésif haute résistance « thermofusible »
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004APAA06/?tag=tolees0d-21)
