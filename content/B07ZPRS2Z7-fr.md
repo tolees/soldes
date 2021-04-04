@@ -28,10 +28,10 @@ C'est en vente [Seagate BarraCuda 120 SSD  2 To  SSD interne  2 5" SATA 6 Gbits/
 
 ℹ️:
 
+- Temps moyen entre deux pannes de 1,8 million dheures et nombre total d’octets en écriture jusqu’à 1 170 To
+- Inclus : Seagate BarraCuda 120 SSD
 - SSD performant : 2 To, 1 To, 500 Go, 250 Go
 - Idéal pour les PC de bureau et portables, les serveurs domestiques et les PC de jeux
-- Inclus : Seagate BarraCuda 120 SSD
 - Vitesses maximales de lecture et décriture séquentielles atteignant 560 Mo/s et 550 Mo/s
-- Temps moyen entre deux pannes de 1,8 million dheures et nombre total d’octets en écriture jusqu’à 1 170 To
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZPRS2Z7/?tag=tolees0d-21)
