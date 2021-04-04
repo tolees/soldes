@@ -28,11 +28,11 @@ Vous avez [St Marc Lingettes Desinfectantes et Nettoyantes Parfum Agrumes Soleil
 
 ℹ️:
 
-- Elles laissent un agréable parfum frais, Soleil de Corse
-- Leur formule hygiénique assainit et élimine les impuretés
-- Lingettes antibactériennes
 - Nettoient rapidement en un seul geste toutes les surfaces lavables
+- Lingettes antibactériennes
 - Nettoie, Désinfecte et Parfume
+- Leur formule hygiénique assainit et élimine les impuretés
+- Elles laissent un agréable parfum frais, Soleil de Corse
 - Ultra résistantes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002C6BLNK/?tag=tolees0d-21)

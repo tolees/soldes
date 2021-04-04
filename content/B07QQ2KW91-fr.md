@@ -28,10 +28,10 @@ C'est en vente [Funko - Pop! Disney: Frozen 2 - The Water Nokk 6"](https://www.a
 
 ℹ️:
 
+- Les Funko Pop! Sont le jeux de lannée 2018
 - Issue de la gamme Frozen 2, la figurine POP! 13 rejoint la collection Funko Pop!
 - Disney Frozen 2
-- Les Funko Pop! Sont le jeux de lannée 2018
-- Découvrez tous les autres produits Funko dédiés à lunivers Frozen 2! Collectionnez-les tous!
 - The Water nokk
+- Découvrez tous les autres produits Funko dédiés à lunivers Frozen 2! Collectionnez-les tous!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QQ2KW91/?tag=tolees0d-21)
