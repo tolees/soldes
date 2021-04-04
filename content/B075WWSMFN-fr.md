@@ -28,10 +28,10 @@ C'est en vente [KODAK Printomatic - Appareil Photo à Impression Instantanée av
 
 ℹ️:
 
-- IMPRESSION UNIQUE - Lappareil photo utilise du papier photo Kodak Zink 2X3 pouces, donc aucune cartouche dencre, toner ou film nest nécessaire.
-- DESIGN CHARMANT - Disponible dans une variété de couleurs amusantes. Design compact sintègre parfaitement dans la poche de votre chemise.
 - PHOTOGRAPHIE TOUT-EN-UN: lappareil photo compact PRINTOMATIC offre un puissant capteur de 5 mégapixels et un objectif grand angle f / 2.
-- RAPIDEMENT FACILE ET AMUSANT: Avec Printomatic, vous pouvez prendre une nouvelle photo tout en imprimant la photo précédente.
 - VALEUR IMMÉDIATE - Lappareil photo Printomatic dispose de fentes pour attacher une bandoulière et stocke les photos sur une carte microSD.
+- IMPRESSION UNIQUE - Lappareil photo utilise du papier photo Kodak Zink 2X3 pouces, donc aucune cartouche dencre, toner ou film nest nécessaire.
+- RAPIDEMENT FACILE ET AMUSANT: Avec Printomatic, vous pouvez prendre une nouvelle photo tout en imprimant la photo précédente.
+- DESIGN CHARMANT - Disponible dans une variété de couleurs amusantes. Design compact sintègre parfaitement dans la poche de votre chemise.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075WWSMFN/?tag=tolees0d-21)
