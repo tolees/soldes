@@ -28,10 +28,10 @@ C'est en vente [Logitech MX Keys - Clavier Éclairé sans Fil Avancé pour Mac  
 
 ℹ️:
 
-- TOUCHES PERFECTSTROKE: Larrondi s’adapte à vos doigts et les touches réagissent à chaque frappe. La surface matte permet de glisser et les références tactiles offrent un positionnement naturel des mains
 - ÉCLAIRAGE INTELLIGENT : Tapez de jour comme de nuit avec léclairage LED réactif. Les touches rétroéclairées s’illuminent quand vos mains s’approchent, léclairage est adaptatif
 - PLUSIEURS MACS, UN SEUL FLUX : Rationnalisez le flux de travail entre les ordinateurs. MX Keys pour Mac suit les souris compatibles Flow de l’iPad à l’ordinateur pour taper, copier et coller aisément
 - TOUCHES PERSONNALISABLES : MX Keys pour Mac, optimisé pour les produits Apple, a une configuration Mac et des touches personnalisables Fn pour un flux continu. Clavier français AZERTY
+- TOUCHES PERFECTSTROKE: Larrondi s’adapte à vos doigts et les touches réagissent à chaque frappe. La surface matte permet de glisser et les références tactiles offrent un positionnement naturel des mains
 - RECHARGE FACILE : Pas besoin de hub. Utilisez un câble USB-C à USB-C pour charger et jouer ou travailler. MX Keys conserve sa charge jusqu’à 10 jours, ou 5 mois sans utilisation du rétroéclairage
 - CONFORT ET STABILITÉ : La conception très stable permet de taper avec assurance. Le clavier est maintenu avec une seule plaque de métal pour une finition élégante, minimaliste et confortable
 
