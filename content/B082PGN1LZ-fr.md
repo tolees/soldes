@@ -28,9 +28,9 @@ C'est en vente [Corolle- Bébé Calin Myrtille Fleurs Poupon  100280  Rose](http
 
 ℹ️:
 
+- Délicate senteur de vanille
 - Prend et garde les attitudes dun vrai bébé
 - Corps souple
-- Délicate senteur de vanille
 - Petit poupon de 30 cm
 - Dès 18 mois
 
