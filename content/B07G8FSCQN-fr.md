@@ -29,11 +29,11 @@ Vous avez [Samsung Galaxy Smartwatch Bluetooth - Or Rose](https://www.amazon.fr/
 ℹ️:
 
 - Assistant personnalisé au quotidien
-- Bluetooth 4.2
 - Compatible avec A3 2017, A5 2017, A6 2018, A8 2018 J3 2017, J5 2017, J6 2018, Xcover4, S7 Edge, S8, S8, S9, S9, S9, Note 8 et Note 9
-- Fonctionnalités sport et bien-être. Matière du bracelet: Silicium
-- Capacité de la batterie (mAh): 270
 - Etanche IP68
+- Capacité de la batterie (mAh): 270
+- Bluetooth 4.2
 - Système OS 4.0 Tizen
+- Fonctionnalités sport et bien-être. Matière du bracelet: Silicium
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G8FSCQN/?tag=tolees0d-21)

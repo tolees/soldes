@@ -28,10 +28,10 @@ Vous avez [Staedtler Metallic Marker  Feutres à encre métallique pour loisirs 
 
 ℹ️:
 
-- Encre pigmentée à base deau, effaçable à laide dun chiffon humide sur surfaces lisses telles que le verre ou le miroir
-- Feutres à encre métallique pour les loisirs créatifs (scrapbooking, cartes de vœux)
-- Pointe ogive de 2.7 mm pour une largeur de trait allant de 1 à 2 mm
 - Idéal sur papier clair ou foncé, carton ou pâte FIMO Air après séchage
+- Encre pigmentée à base deau, effaçable à laide dun chiffon humide sur surfaces lisses telles que le verre ou le miroir
+- Pointe ogive de 2.7 mm pour une largeur de trait allant de 1 à 2 mm
 - Étui blister contenant cinq feutres (or, argent, rouge métallique, bleu métallique et vert métallique)
+- Feutres à encre métallique pour les loisirs créatifs (scrapbooking, cartes de vœux)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ABG5O2C/?tag=tolees0d-21)
