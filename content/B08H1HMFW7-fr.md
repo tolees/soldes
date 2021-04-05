@@ -28,7 +28,7 @@ C'est en vente [Funko Pop Town: Disney 65th- Castle w/ Mickey Standard](https://
 
 ℹ️:
 
-- Stylized collectable stands 6 inches tall, perfect for any Disney 65th fan!
 - From Disney 65th, Disney Castle with Mickey, as a stylized Pop! Town
+- Stylized collectable stands 6 inches tall, perfect for any Disney 65th fan!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08H1HMFW7/?tag=tolees0d-21)

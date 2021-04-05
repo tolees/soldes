@@ -29,9 +29,9 @@ C'est en vente [SOYES Masques FFP2 Multicouche Couches  Face Masques Visage avec
 ℹ️:
 
 - [Champ dapplication] Les masques peuvent être utilisés dans les bureaux, les bus, les métros et les transports publics. Conception pliante, plus légère et plus facile à utiliser.
-- [Pont de nez réglable] Ce qui rend le masque plus confortable à porter tout en assurant létanchéité du masque et sécurisez la respiration des personnes.
 - [Matériau sûr] Protection à cinq couches, pour la protection contre la poussière, le pollen et autres particules solides. La couche intérieure du masque est faite dun matériau non irritant pour la peau.
-- [Bretelles élastiques] Le matériau de suspension doreille du masque est en coton, qui est élastique et ne fait pas mal aux oreilles.
 - [Service après-vente de confiance] Nous fournissons un service client de haute qualité et répondons à toutes vos questions sur le produit dans les 24 heures.
+- [Pont de nez réglable] Ce qui rend le masque plus confortable à porter tout en assurant létanchéité du masque et sécurisez la respiration des personnes.
+- [Bretelles élastiques] Le matériau de suspension doreille du masque est en coton, qui est élastique et ne fait pas mal aux oreilles.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PVQBR9C/?tag=tolees0d-21)
