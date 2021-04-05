@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.05 % rabais sur Lowepro Droneguard BP léger Drone Sac à '
-date: 2021-04-03 12:35:40
+date: 2021-04-05 02:53:41
 image: 'https://m.media-amazon.com/images/I/41aoOSXAlhL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Lowepro'
 buyurl: 'https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21'
 descuento: '30.05'
-average: '115.94659574468'
+average: '116.008124999999'
 ---
 
 Vous avez [Lowepro Droneguard BP léger Drone Sac à dos](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)  à  30.05 % de réduction, prix final  118.9 EUR (original: 169.99 EUR) ici:
@@ -28,9 +28,9 @@ Vous avez [Lowepro Droneguard BP léger Drone Sac à dos](https://www.amazon.fr/
 
 ℹ️:
 
-- Dimensions de lemballage : 11.42 x 6.69 x 18.5 in
-- Poids du colis de larticle : 2.95 livres
-- Couleur : Noir/Fractale
 - Fabriqué en:- Chine
+- Dimensions de lemballage : 11.42 x 6.69 x 18.5 in
+- Couleur : Noir/Fractale
+- Poids du colis de larticle : 2.95 livres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XGMZL8W/?tag=tolees0d-21)

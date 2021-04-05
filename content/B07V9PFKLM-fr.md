@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Triumph Fit Smart P EX Soutien-Gorge Inv avec 27.45 % rabais '
-date: 2021-04-03 07:50:46
+date: 2021-04-05 02:52:43
 image: 'https://m.media-amazon.com/images/I/418Io6Fe-lL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,7 +28,7 @@ C'est en vente [Triumph Fit Smart P EX Soutien-Gorge Invisible  Beige  Light Bro
 
 ℹ️:
 
-- 61% Polyamides, 23% Élasthanne, 16% Polyester
 - Lavage à la main uniquement
+- 61% Polyamides, 23% Élasthanne, 16% Polyester
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07V9PFKLM/?tag=tolees0d-21)
