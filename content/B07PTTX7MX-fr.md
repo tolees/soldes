@@ -28,13 +28,13 @@ C'est en vente [NETGEAR  GS308  Switch Ethernet 8 Ports RJ45 Métal Gigabit  10/
 
 ℹ️:
 
-- Type de ports ethernet : switch gigabit 8 ports
+- Tranquilite garantie : garantie matérielle de 3 ans
 - Economie denergie: conçu pour optimiser lutilisation de lénergie en réduisant son coût dexploitation ; la plupart des modèles sont compatibles avec le mode Ethernet éco énergétique IEEE802.3az
-- Les LED en face avant vous informent sur l’alimentation du switch, l’état des connexions, l’activité et la vitesse
+- Differents montages possible : peut s’installer sur un bureau ou s’accrocher à un mur
 - Plug and play : s’installe facilement et automatiquement ; aucun logiciel ou configuration nécessaire
 - Construit pour durer : chaque commutateur réseau netgear est rigoureusement testé pour sa fiabilité, sa qualité et ses performances
 - Fonctionnement silencieux : la conception sans ventilateur signifie zéro bruit ajouté, quelle que soit sa localisation, le rendant idéal pour les environnements sensibles au bruit
-- Differents montages possible : peut s’installer sur un bureau ou s’accrocher à un mur
-- Tranquilite garantie : garantie matérielle de 3 ans
+- Type de ports ethernet : switch gigabit 8 ports
+- Les LED en face avant vous informent sur l’alimentation du switch, l’état des connexions, l’activité et la vitesse
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PTTX7MX/?tag=tolees0d-21)
