@@ -28,10 +28,10 @@ Vous avez [Vertbaudet Pyjama garçon WiFi Bleu Canard 10 A](https://www.amazon.f
 
 ℹ️:
 
+- Motifs imprimés
 - Manches longues
 - Poignets ressérés
-- Motifs imprimés
-- Manches raglan contrastées
 - Col rond
+- Manches raglan contrastées
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084BSZPPQ/?tag=tolees0d-21)

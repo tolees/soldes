@@ -29,11 +29,11 @@ Vous avez [Grilo 811009 Lot 3 Moule à Cannelé Cuivre  Intériur Étamé  Grand
 ℹ️:
 
 - Ne pas laver au lave-vaisselle
-- Matière : Autre
-- Cuisson homogène
-- Diamètre 5,5 cm - Hauteur 5,5cm
 - Description du produit: Lot 3 Moule à Cannelé Cuivre, Intérieur Étamé, Grand Modèle (5,5 cm) + offre 1 unité
-- Cuivre, Intérieur Étamé
+- Matière : Autre
 - Dimensions : 6,5 x 6,5 x 17 cm
+- Diamètre 5,5 cm - Hauteur 5,5cm
+- Cuisson homogène
+- Cuivre, Intérieur Étamé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B015Z4WULW/?tag=tolees0d-21)

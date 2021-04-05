@@ -28,10 +28,10 @@ Vous avez [Groovy  Harry Potter Slippers Golden Snitch Size Calzature](https://
 
 ℹ️:
 
-- Cosy about in a pair of Harry Potter slippers featuring the initials HP and the golden snitch!
 - Officially licensed Harry Potter product
-- Anti-slip sole
-- Material: 100% polyester (fleece), embroidered decoration
 - One size: 38-41
+- Anti-slip sole
+- Cosy about in a pair of Harry Potter slippers featuring the initials HP and the golden snitch!
+- Material: 100% polyester (fleece), embroidered decoration
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D5MHD64/?tag=tolees0d-21)
