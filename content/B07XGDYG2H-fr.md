@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '16.67 % rabais sur LEGO - Constructions  Multicolores  2131'
-date: 2021-04-03 12:51:52
+date: 2021-04-05 03:15:12
 image: 'https://m.media-amazon.com/images/I/612AlGY7+oL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07XGDYG2H/?tag=tolees0d-21'
 descuento: '16.67'
-average: '237.024444444447'
+average: '236.023513513516'
 ---
 
 Vous avez [LEGO - Constructions  Multicolores  21318](https://www.amazon.fr/dp/B07XGDYG2H/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  199.99 EUR (original: 239.99 EUR) ici:
