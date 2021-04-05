@@ -28,8 +28,8 @@ C'est en vente [Nike React Miler  Football Shoe Femme  Black/Metallic Silver-Vio
 
 ℹ️:
 
+- Meilleur contrôle du ballon
 - Confortable
 - Matériau léger
-- Meilleur contrôle du ballon
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08PKG9KRZ/?tag=tolees0d-21)
