@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY CS900 SSD Interne SATA III  2.5 pouc avec 30.01 % rabais '
-date: 2021-04-03 23:10:17
+date: 2021-04-05 08:49:25
 image: 'https://m.media-amazon.com/images/I/51OPxD-Vv3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'PNY'
 buyurl: 'https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21'
 descuento: '30.01'
-average: '20.3405150214593'
+average: '20.3432905982907'
 ---
 
 C'est en vente [PNY CS900 SSD Interne SATA III  2.5 pouces  120Go  Vitesse de lecture jusqu à 515MB/s](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)  à  30.01 % de réduction, prix final  20.99 EUR (original: 29.99 EUR) ici:
@@ -28,11 +28,11 @@ C'est en vente [PNY CS900 SSD Interne SATA III  2.5 pouces  120Go  Vitesse de le
 
 ℹ️:
 
+- Capacité de 120 Go
+- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
+- Format Slim 7 mm
+- Garantie 3 ans par le SAV PNY situé en France
 - Interface Serial ATA III/6 GBPs
 - Idéal pour booster le système et les applications de tous les types dordinateur
-- Capacité de 120 Go
-- Format Slim 7 mm
-- Vitesse de lecture/écriture séquentielle : jusquà 550Mo/s / 515Mo/s
-- Garantie 3 ans par le SAV PNY situé en France
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KFLH1WS/?tag=tolees0d-21)

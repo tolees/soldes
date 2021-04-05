@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Levi s GRAPHIC SET-IN NECK  T-Shirt Homm avec 20.20 % rabais '
-date: 2021-04-03 02:21:32
+date: 2021-04-05 08:49:51
 image: 'https://m.media-amazon.com/images/I/31zg5k6nPaL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Levis'
 buyurl: 'https://www.amazon.fr/dp/B00VLN9DJO/?tag=tolees0d-21'
 descuento: '20.20'
-average: '18.568243243243'
+average: '18.5866666666664'
 ---
 
 C'est en vente [Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC H215-HM DRESS BLUES GRAPHIC H215-HM 36.3   Large](https://www.amazon.fr/dp/B00VLN9DJO/?tag=tolees0d-21)  à  20.20 % de réduction, prix final  19.95 EUR (original: 25.0 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [Levi s GRAPHIC SET-IN NECK  T-Shirt Homme  Bleu  C18977 GRAPHIC 
 
 ℹ️:
 
-- 100 % coton
 - Logo imprimé sérigraphié sur l’avant
-- Col rond
 - Manches courtes
+- Col rond
 - Coupe Regular
+- 100 % coton
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00VLN9DJO/?tag=tolees0d-21)

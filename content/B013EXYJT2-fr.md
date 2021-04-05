@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '23.47 % rabais sur WARNER BROS - Lego Star Wars : Les Conte'
-date: 2021-04-03 07:54:39
+date: 2021-04-05 08:52:43
 image: 'https://m.media-amazon.com/images/I/51LcGYbxJQL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'WARNER BROS'
 buyurl: 'https://www.amazon.fr/dp/B013EXYJT2/?tag=tolees0d-21'
 descuento: '23.47'
-average: '7.875'
+average: '7.826'
 ---
 
 Vous avez [WARNER BROS - Lego Star Wars : Les Contes des droïdes-Volume 1](https://www.amazon.fr/dp/B013EXYJT2/?tag=tolees0d-21)  à  23.47 % de réduction, prix final  7.63 EUR (original: 9.97 EUR) ici:

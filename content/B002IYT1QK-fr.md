@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Pentel LR7 Recharges pour Rollers Energe avec 37.33 % rabais '
-date: 2021-04-03 02:28:27
+date: 2021-04-05 08:51:25
 image: 'https://m.media-amazon.com/images/I/41Fj3k2k-tL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Pentel'
 buyurl: 'https://www.amazon.fr/dp/B002IYT1QK/?tag=tolees0d-21'
 descuento: '37.33'
-average: '11.2683190883188'
+average: '11.2630113636361'
 ---
 
 C'est en vente [Pentel LR7 Recharges pour Rollers Energel Pentel BL57/77/107/117/407/TRL Noir - Lot de 12 1 - Pack](https://www.amazon.fr/dp/B002IYT1QK/?tag=tolees0d-21)  à  37.33 % de réduction, prix final  9.4 EUR (original: 15.0 EUR) ici:
@@ -28,8 +28,8 @@ C'est en vente [Pentel LR7 Recharges pour Rollers Energel Pentel BL57/77/107/117
 
 ℹ️:
 
-- Pointe 0,7mm, écriture douce de taille moyenne
 - Recharge les rollers PENTEL de référence: BL107, BL77, BL117, BL57, K497, BL407, KL257, K600 et K611.
+- Pointe 0,7mm, écriture douce de taille moyenne
 - Boite de 12 recharges LR7 pour roller Energel Pentel
 - Couleur = noir
 
