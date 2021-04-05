@@ -28,9 +28,9 @@ Vous avez [Playmobil-70570 Jouet  70570  Multicolore](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Accompagnez les policiers dans toutes leurs aventures avec Playmobil
-- Contient deux personnages.
 - Le policier dans son buggy suit le voleur afin quil le conduise à la cachette secrète du trésor, mais sa moto est trop rapide !
 - Alerte à toutes les unités, on a du nouveau !
+- Accompagnez les policiers dans toutes leurs aventures avec Playmobil
+- Contient deux personnages.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KTQ4TYB/?tag=tolees0d-21)
