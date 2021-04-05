@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.28 % rabais sur Calvin Klein CK Cap Casquette De Basebal'
-date: 2021-04-01 09:28:56
+date: 2021-04-05 20:59:40
 image: 'https://m.media-amazon.com/images/I/31aEZE2b0HL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [Calvin Klein CK Cap Casquette De Baseball  Noir  Black 001   Unique  
 
 ℹ️:
 
+- 100% Coton
 - Type de talons: hat
 - Non lavable
-- 100% Coton
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07R3MHN24/?tag=tolees0d-21)
