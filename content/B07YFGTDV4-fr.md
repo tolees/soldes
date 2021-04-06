@@ -29,8 +29,8 @@ Vous avez [Western Digital - WD Black P50 1 To - Disque SSD de jeu de hautes per
 ℹ️:
 
 - Disque SSD haute performance avec interface SuperSpeed USB (20 Gb/s) pour votre PC ou console.
-- Façonné par la performance avec une vitesse SSD pouvant atteindre jusquà 2 000 mo/s pour réduire les temps de chargement et vous permettre de commencer à jouer plus vite.
 - Conçu spécialement pour les joueurs, sur la base de la qualité et de la fiabilité de wd_black.
+- Façonné par la performance avec une vitesse SSD pouvant atteindre jusquà 2 000 mo/s pour réduire les temps de chargement et vous permettre de commencer à jouer plus vite.
 - Jusquà 2 to despace de stockage supplémentaire pour vous permettre de garder vos jeux préférés et den installer de nouveaux.
 - Format portable et résistant aux chocs offrant un accès rapide à votre bibliothèque de jeux, où que vous soyez.
 

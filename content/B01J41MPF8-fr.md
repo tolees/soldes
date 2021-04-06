@@ -28,10 +28,10 @@ Vous avez [LEGO 21034 Architecture Londres  Jeu de Construction](https://www.ama
 
 ℹ️:
 
+- Mesure plus de 15 cm de haut, 28 cm de large et 8 cm de profondeur
+- 468 pièces pour les garçons et les filles de plus de 12 ans
+- Construisez un modèle détaillé de la Skyline de Londres !
 - Inclus la National Gallery, la colonne de Nelson, le London Eye, Big Ben et le Tower Bridge
 - Les modèles LEGO Archicture sont compatibles avec tous les ensembles de construction LEGO pour une construction sans limite
-- 468 pièces pour les garçons et les filles de plus de 12 ans
-- Mesure plus de 15 cm de haut, 28 cm de large et 8 cm de profondeur
-- Construisez un modèle détaillé de la Skyline de Londres !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J41MPF8/?tag=tolees0d-21)

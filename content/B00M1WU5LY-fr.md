@@ -28,11 +28,11 @@ C'est en vente [Devolo 9298 dLAN 550 Duo+  Prise Résau CPL  550 Mbit/s via CPL 
 
 ℹ️:
 
-- Compatible avec tous les adaptateurs des gammes de produits 200/500/650
+- Plus aucune prise murale nest perdue grâce à la prise de courant intégrée
 - Les CPL Magic sont compatibles entre-eux (Magic 1 & Magic 2)
 - Avec les deux ports Fast Ethernet, vous pouvez connecter à tout moment deux appareils (console de jeu, TV, récepteur multimédia, etc.) à internet en utilisant un câble réseau
-- Plus aucune prise murale nest perdue grâce à la prise de courant intégrée
-- Connexion rapide atteignant 500 Mbit/s via les câbles électriques, performance et portée supérieures grâce à la technologie range+
 - Inclus : 2x dLAN 550 duo+, notice dutilisation, 2x câbles Ethernet
+- Connexion rapide atteignant 500 Mbit/s via les câbles électriques, performance et portée supérieures grâce à la technologie range+
+- Compatible avec tous les adaptateurs des gammes de produits 200/500/650
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00M1WU5LY/?tag=tolees0d-21)
