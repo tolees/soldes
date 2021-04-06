@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Les Animaux fantastiques - Le monde des  avec 29.48 % rabais '
-date: 2021-03-17 07:52:51
+date: 2021-04-06 06:04:30
 image: 'https://m.media-amazon.com/images/I/51JivAxmNaL._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B01LTHYTTU-fr Les Animaux fantastiques - Le monde des Sorciers de J.K....'
 sku: 'B01LTHYTTU-fr'
+tags: [ 'Action et aventure','Blu-ray','DVD et Blu-ray','Fantastique','Featured Categories','Films', ]
 actualPrice: 17.68 EUR
 currency: EUR
 price: 17.68
