@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Crucial 500Go CT500MX500SSD1 SSD interne avec 19.75 % rabais '
-date: 2021-04-03 23:16:19
+title: 'Crucial 500Go CT500MX500SSD1 SSD interne avec 19.45 % rabais '
+date: 2021-04-06 02:54:35
 image: 'https://m.media-amazon.com/images/I/41eY2+fI9eL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B0786QNS9B-fr Crucial 500Go CT500MX500SSD1 SSD interne MX500-jusqu’à 560...'
 sku: 'B0786QNS9B-fr'
 tags: [ 'Informatique','Mémoire','Mémoire interne','SSD internes','crucial', ]
-actualPrice: 57.77 EUR
+actualPrice: 57.99 EUR
 currency: EUR
-price: 57.77
+price: 57.99
 comparePrice: 71.99 EUR
 prodname: 'Crucial 500Go CT500MX500SSD1 SSD interne MX500-jusqu’à 560 Mo/s  3D NAND  SATA  2 5 pouces '
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Crucial'
 buyurl: 'https://www.amazon.fr/dp/B0786QNS9B/?tag=tolees0d-21'
-descuento: '19.75'
-average: '62.353641618497'
+descuento: '19.45'
+average: '62.3285632183907'
 ---
 
-C'est en vente [Crucial 500Go CT500MX500SSD1 SSD interne MX500-jusqu’à 560 Mo/s  3D NAND  SATA  2 5 pouces ](https://www.amazon.fr/dp/B0786QNS9B/?tag=tolees0d-21)  à  19.75 % de réduction, prix final  57.77 EUR (original: 71.99 EUR) ici:
+C'est en vente [Crucial 500Go CT500MX500SSD1 SSD interne MX500-jusqu’à 560 Mo/s  3D NAND  SATA  2 5 pouces ](https://www.amazon.fr/dp/B0786QNS9B/?tag=tolees0d-21)  à  19.45 % de réduction, prix final  57.99 EUR (original: 71.99 EUR) ici:
 
 [![Crucial 500Go CT500MX500SSD1 SSD interne](https://m.media-amazon.com/images/I/41eY2+fI9eL._SL400_.jpg)](https://www.amazon.fr/dp/B0786QNS9B/?tag=tolees0d-21)
 
