@@ -29,9 +29,9 @@ C'est en vente [KS Tools 515.2017 - Douille à chocs 1/2    revêtement ABS pour
 ℹ️:
 
 - Revêtement ABS pour ne pas endommager les jantes en Aluminium - Chrome Vanadium
-- Carré intérieur selon DIN 3121 / ISO 1174 - Uniquement pour utilisation à chocs
-- Spécial montage et démontage de roue - Code couleur daprès la taille
 - Outillage alliant qualité, robustesse, esthétique, performance, technologie de pointe et confort de travail, avec les outils KStools, le meilleur rapport qualité/prix.
+- Spécial montage et démontage de roue - Code couleur daprès la taille
+- Carré intérieur selon DIN 3121 / ISO 1174 - Uniquement pour utilisation à chocs
 - KS Tools a pour amibition de concevoir de loutillage de qualité, innovant et adapté aux besoins des professionnels. Nous sommes devenus, en 18 ans, un acteur incontournable du marche de loutillage à main professionnel et cela grâce à vous !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001NYYBRK/?tag=tolees0d-21)

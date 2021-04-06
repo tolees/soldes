@@ -28,9 +28,9 @@ Vous avez [Tajima JPR265A Aluminist Scie japonaise de précision 265 mm  Noir/Ar
 
 ℹ️:
 
-- 16 TPI
-- Poignée bi-matière
 - Largeur de coupe : 0,9 mm
+- 16 TPI
 - Lame de sécurité les
+- Poignée bi-matière
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EO3O34S/?tag=tolees0d-21)

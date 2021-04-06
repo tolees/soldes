@@ -28,11 +28,11 @@ Vous avez [Goliath - Carcata - Jeu de famille - à partir de 8 ans- Jeu de soci�
 
 ℹ️:
 
-- nommé top 10 toys 2020 et nommé pour le cheval à bascule doré 2020 dans la catégorie pour toute la famille .
-- un jeu de stratégie et dauteur passionnant de lauteur roberto fraga, qui a déjà publié plusieurs jeux connus et excellents tels que spinderella, le jeu denfant de 2015 et captain sonar, jeu des connaisseurs de lannée 2017.
-- contenu : 1 plateau à plusieurs niveaux, 4 troncs avec 5 figurines par tronc, 4 totems, 20 pierres précieuses (5 diamants, 5 émeraudes, 5 saphirs, 5 rubines), 40 champs de lave, 1 volcan en plastique, 1 pierre de tortue, 5 dés, instructions de jeu - recommandé à partir de 8 ans pour 2 à 4 joueurs.
 - 1 plateau de jeu à plusieurs niveaux, 4 troncs avec 5 figurines par tronc, 4 totems, 20 pierres précieuses (5 diamants, 5 émeraudes, 5 saphirs, 5 rubines), 40 champs de lave, 1 volcan en plastique, 1 pierre de tortue, 5 dés, instructions de jeu.
+- contenu : 1 plateau à plusieurs niveaux, 4 troncs avec 5 figurines par tronc, 4 totems, 20 pierres précieuses (5 diamants, 5 émeraudes, 5 saphirs, 5 rubines), 40 champs de lave, 1 volcan en plastique, 1 pierre de tortue, 5 dés, instructions de jeu - recommandé à partir de 8 ans pour 2 à 4 joueurs.
+- un jeu de stratégie et dauteur passionnant de lauteur roberto fraga, qui a déjà publié plusieurs jeux connus et excellents tels que spinderella, le jeu denfant de 2015 et captain sonar, jeu des connaisseurs de lannée 2017.
 - celui qui a ramassé le plus de points à la fin du jeu est le gagnant et a vaincu lîle avec le volcan dangereux.
+- nommé top 10 toys 2020 et nommé pour le cheval à bascule doré 2020 dans la catégorie pour toute la famille .
 - carcata se distingue par son équilibre entre une bonne planification et une compréhension tactique en combinaison avec lutilisation optimale des cubes.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088G6DTKC/?tag=tolees0d-21)

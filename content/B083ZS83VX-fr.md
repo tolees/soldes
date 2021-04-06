@@ -28,10 +28,10 @@ C'est en vente [Joseph Joseph 98991 Elevate Set de 6 Cuisine avec Porte-Ustensil
 
 ℹ️:
 
+- Design ergonomique : Manches lestés avec support intégré, lustensile ne touche le plan de travail lorsque vous le posez grâce à une petite béquille
 - Cet ensemble comprend : 1 carrousel rotatif, 1 louche, 1 spatule flexible, 1 cuillère solide, 1 écumoire, 1 pince en inox, 1 spatule ajourée
+- Résiste à la chaleur : ustensiles en nylon résistant à 200°, manches ergonomiques silicone résitant à 270°
 - Usage facile : carrousel à base antidérapante, tournez simplement le bouton sur la partie haute pour sélectionner votre ustensile
 - Bel objet et gain de place sur le plan de travail et dans vos tiroirs, tous vos ustensiles sont bien rangés et à portée de main
-- Design ergonomique : Manches lestés avec support intégré, lustensile ne touche le plan de travail lorsque vous le posez grâce à une petite béquille
-- Résiste à la chaleur : ustensiles en nylon résistant à 200°, manches ergonomiques silicone résitant à 270°
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083ZS83VX/?tag=tolees0d-21)
