@@ -28,10 +28,10 @@ C'est en vente [SanDisk Extreme 128GB microSDXC Memory Card for Action Cameras &
 
 ℹ️:
 
-- Saisissez vos aventures les plus palpitantes avec un niveau de détails impressionnant et profitez dune superbe restitution sur les téléviseurs et écrans 4K de dernière génération
-- Partagez vos sensations en utilisant ladaptateur SD fourni pour déplacer votre vidéo vers votre tablette Android ou votre ordinateur
 - Capacité de stockage de 128 Go · Prise en charge classe 10 et UHS-I classe 3 · Avec adaptateur de carte SD
-- Avec des vitesses de lecture/écriture jusquà 100 Mo/s/ 90 Mo/s, les cartes SanDisk Extreme microSD UHS-I offrent la rapidité denregistrement et de lecture dont vous avez besoin pour filmer en 4K Ultra HD (3840 x 2160) et Full HD (1920 x 1080p) vos aventures les plus audacieuses, avec un niveau de détail extraordinaire
+- Partagez vos sensations en utilisant ladaptateur SD fourni pour déplacer votre vidéo vers votre tablette Android ou votre ordinateur
 - Conçues pour supporter des conditions difficiles, ces cartes résistent aux conditions environnementales extrêmes
+- Avec des vitesses de lecture/écriture jusquà 100 Mo/s/ 90 Mo/s, les cartes SanDisk Extreme microSD UHS-I offrent la rapidité denregistrement et de lecture dont vous avez besoin pour filmer en 4K Ultra HD (3840 x 2160) et Full HD (1920 x 1080p) vos aventures les plus audacieuses, avec un niveau de détail extraordinaire
+- Saisissez vos aventures les plus palpitantes avec un niveau de détails impressionnant et profitez dune superbe restitution sur les téléviseurs et écrans 4K de dernière génération
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07HBB5YQR/?tag=tolees0d-21)

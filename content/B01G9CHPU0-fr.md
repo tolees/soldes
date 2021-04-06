@@ -28,11 +28,11 @@ Vous avez [Janod - Vanity Enfant P tite Miss - 9 Accessoires en Bois Massif Incl
 
 ℹ️:
 
+- Idéal pour les enfants de 3 ans à 8 ans
+- SET COMPLET : joli vanity contenant toute la panoplie nécessaire pour se faire belle, très complet, avec ses neuf accessoires en bois massif : un grand miroir, une palette de maquillage avec pinceau et miroir, deux rouges à lèvres, deux vernis à ongles, un crayon noir pour les yeux, un parfum, un peigne
+- EDUCATIF : ce jouet dimitation permettra à lenfant de développer son imagination et ses responsabilités en reproduisant les gestes des grands
 - REALISTE : les neuf accessoires fournis avec la trousse sont plus vrais que nature et offriront des heures de jeu. Votre enfant adorera se maquiller ou maquiller les autres
 - Design réalisé en France
-- EDUCATIF : ce jouet dimitation permettra à lenfant de développer son imagination et ses responsabilités en reproduisant les gestes des grands
-- SET COMPLET : joli vanity contenant toute la panoplie nécessaire pour se faire belle, très complet, avec ses neuf accessoires en bois massif : un grand miroir, une palette de maquillage avec pinceau et miroir, deux rouges à lèvres, deux vernis à ongles, un crayon noir pour les yeux, un parfum, un peigne
 - PRATIQUE ET REALISTE : ce vanity rose aux jolis motifs (22,5 cm x 17 cm x 16 cm) est équipé dun zipper en métal et dune poignée en tissu, permettant à votre enfant de transporter ses accessoires partout
-- Idéal pour les enfants de 3 ans à 8 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01G9CHPU0/?tag=tolees0d-21)
