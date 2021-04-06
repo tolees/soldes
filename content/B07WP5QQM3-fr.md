@@ -28,9 +28,9 @@ C'est en vente [Tablette Lenovo TAB M7 17  8 cm  7" Sd IPS Touch   Mediatek MT83
 
 ℹ️:
 
-- Adaptateur secteur: 5V / 1.0A
 - Les informations détaillées sur le produit sont en cours de traitement et seront bientôt visibles pour vous.
 - Batterie intégrée: 3500mAh
+- Adaptateur secteur: 5V / 1.0A
 - Batterie: Jusquà 10 heures de lecture vidéo
 - WLAN + Bluetooth: 11b/g/n, 1x1 + Bluetooth 4.0
 
