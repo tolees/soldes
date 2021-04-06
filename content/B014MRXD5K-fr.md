@@ -29,7 +29,7 @@ C'est en vente [Mafia de Cuba - Asmodee - Jeu de société - Jeu d ambiance - Je
 ℹ️:
 
 - Un jeu de bluff et de déduction à l’ambiance exotique et originale
-- À jouer sans modération
 - Un matériel original
+- À jouer sans modération
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B014MRXD5K/?tag=tolees0d-21)

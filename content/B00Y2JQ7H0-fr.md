@@ -28,8 +28,8 @@ Vous avez [SANITAS Sil 06 Radiateur Infrarouge](https://www.amazon.fr/dp/B00Y2JQ
 
 ℹ️:
 
-- 100 watts
-- 5 positions dinclinaison
 - Design innovant
+- 5 positions dinclinaison
+- 100 watts
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00Y2JQ7H0/?tag=tolees0d-21)

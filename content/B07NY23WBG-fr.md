@@ -28,10 +28,10 @@ C'est en vente [SanDisk HIGH ENDURANCE Carte microSDHC 128Go + Adaptateur SD - p
 
 ℹ️:
 
-- Idéale pour les caméras embarquées et les systèmes de vidéosurveillance
 - Conçue pour vous assurer une haute résistance, elle vous permet denregistrer jusquà 20 000 heures de vidéo sans problème
+- Enregistrez en Full HD et en 4K grâce à une vitesse vidéo de classes 10, U3 et V30
+- Idéale pour les caméras embarquées et les systèmes de vidéosurveillance
 - Conçue et testée en conditions difficiles ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
 - Enregistrez plus de vidéos grâce à des capacités allant jusquà 256 Go
-- Enregistrez en Full HD et en 4K grâce à une vitesse vidéo de classes 10, U3 et V30
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NY23WBG/?tag=tolees0d-21)

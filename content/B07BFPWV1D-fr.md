@@ -28,10 +28,10 @@ C'est en vente [Hazet 9041 G 1 de mesure de gonflage 0.0001 V](https://www.am
 
 ℹ️:
 
-- Ultrapratique : poignée avec levier pour remplir et vider
-- Flexible (Longueur : 1000 mm) avec momentstecknippel intégré
-- Gaine en caoutchouc protège le manomètre contre les chocs légers
 - Poids : 0,585 kg
 - Dimensions de lappareil : 220 x 150 x 90 mm
+- Flexible (Longueur : 1000 mm) avec momentstecknippel intégré
+- Gaine en caoutchouc protège le manomètre contre les chocs légers
+- Ultrapratique : poignée avec levier pour remplir et vider
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BFPWV1D/?tag=tolees0d-21)
