@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 21318 la cabane dans larbre Ideas avec 18.07 % rabais '
-date: 2021-04-06 02:33:26
+date: 2021-04-07 04:37:39
 image: 'https://m.media-amazon.com/images/I/51hGg4S4NEL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07PX3WW5N/?tag=tolees0d-21'
 descuento: '18.07'
-average: '262.928486238532'
+average: '262.773561643836'
 ---
 
 C'est en vente [LEGO 21318 la cabane dans larbre Ideas](https://www.amazon.fr/dp/B07PX3WW5N/?tag=tolees0d-21)  à  18.07 % de réduction, prix final  229.0 EUR (original: 279.5 EUR) ici:
