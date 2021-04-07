@@ -28,10 +28,10 @@ C'est en vente [CIRO Robot Jouet de Bloc de Construction STEM Robots Toys Kit t�
 
 ℹ️:
 
-- Contrôle bi-mode: Le robot RC peut non seulement être contrôlé par une télécommande (gauche, droite, avant et arrière), mais aussi par une application smartphone avec Bluetooth (commande vocale, contrôle du parcours de conduite, mode gyro, mode de programmation).
-- Données techniques: Le robot de blocs de construction télécommandé (17 * 18 * 11 CM) est équipé dun câble de chargement USB avec lequel vous pouvez facilement charger à tout moment et nimporte où. Ce robot STEM peut fonctionner pendant 40 minutes après une charge de 60 minutes. Distance de contrôle à distance de plus de 20 mètres.
-- Jouet éducatif STEM: Pendant la construction, les enfants peuvent développer leur coordination œil-main, leurs capacités de réflexion logique et leur créativité. Lorsque le bâtiment est terminé, les jouets STEM apportent aux enfants le plaisir de manipuler et de programmer.
 - Emballage indépendant ET assemblage facile: 405 pièces de blocs de construction sont affectées à cinq sacs indépendants. Selon les instructions accompagnées de schémas, les enfants peuvent assembler pas à pas ce fantastique robot télécommandé.
+- Jouet éducatif STEM: Pendant la construction, les enfants peuvent développer leur coordination œil-main, leurs capacités de réflexion logique et leur créativité. Lorsque le bâtiment est terminé, les jouets STEM apportent aux enfants le plaisir de manipuler et de programmer.
+- Contrôle bi-mode: Le robot RC peut non seulement être contrôlé par une télécommande (gauche, droite, avant et arrière), mais aussi par une application smartphone avec Bluetooth (commande vocale, contrôle du parcours de conduite, mode gyro, mode de programmation).
 - Cadeaux intéressants: ce robot de construction est un cadeau de Noël ou danniversaire parfait pour les enfants. En cas de problème, contactez-nous. Nous vous offrons le service de remboursement de 180 jours.
+- Données techniques: Le robot de blocs de construction télécommandé (17 * 18 * 11 CM) est équipé dun câble de chargement USB avec lequel vous pouvez facilement charger à tout moment et nimporte où. Ce robot STEM peut fonctionner pendant 40 minutes après une charge de 60 minutes. Distance de contrôle à distance de plus de 20 mètres.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C7RYCVV/?tag=tolees0d-21)

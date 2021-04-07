@@ -31,7 +31,7 @@ Vous avez [Clictime - Lego Batman Movie Joker Watch with Minifigure Link](https:
 - Montre enfant Lego Batman, la montre Joker. Figurine emblématique Lego le Joker intégrée dans le bracelet.
 - À partir de 6 ans. Garantie 2 ans. Cadeau parfait pour les enfants.
 - Cadran facile à lire. Confortable et durable. Affichage analogique. Fermoir amélioré
-- Maillons de montre interchangeables multicolores. 12 maillons supplémentaires inclus. Bracelet extensible pour sadapter à la plupart des tailles de poignet.
 - Mouvement à quartz japonais Seiko PC21J. Étanche jusquà 5 ATM. Verre acrylique minéral résistant aux rayures.
+- Maillons de montre interchangeables multicolores. 12 maillons supplémentaires inclus. Bracelet extensible pour sadapter à la plupart des tailles de poignet.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MYX2IGM/?tag=tolees0d-21)
