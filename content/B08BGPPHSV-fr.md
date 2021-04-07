@@ -28,10 +28,10 @@ Vous avez [Ohmex OHM-HET-1889 - Cheminée Électrique Avec Effet Flamme - 1800 W
 
 ℹ️:
 
-- Effet flamme 3D - Effet flâme en mouvement - Sélecteur de chaleur à 900 Watts ou 1800 Watts - Puissance : 1800 Watts - Alimentation : AC 220-240V @ 50Hz
-- Grâce à linterrupteur ON/OFF, vous aurez la possibilité de régler la chaleur et leffet flamme de cette cheminée.
-- Cest un appareil complètement portatif et facile à installer.
 - En cas de surchauffe, cet appareil sarrête automatiquement.
+- Grâce à linterrupteur ON/OFF, vous aurez la possibilité de régler la chaleur et leffet flamme de cette cheminée.
 - Vous êtes à la recherche dune cheminée électrique compétitive ? Découvrez cette cheminée électrique avec effet flamme de la marque Ohmex.
+- Cest un appareil complètement portatif et facile à installer.
+- Effet flamme 3D - Effet flâme en mouvement - Sélecteur de chaleur à 900 Watts ou 1800 Watts - Puissance : 1800 Watts - Alimentation : AC 220-240V @ 50Hz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BGPPHSV/?tag=tolees0d-21)

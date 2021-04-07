@@ -28,11 +28,11 @@ C'est en vente [VTech - Ma Licorne Bijoux Magiques  Jouet Licorne  mode anglais 
 
 ℹ️:
 
-- Version française
 - Construction : ce super camion poubelle interactif se construit et se déconstruit à l’infini pour des heures de jeu et de découvertes
-- Les parents peuvent contrôler le volume sonore et le jouet camion s’arrête automatiquement quand il n’est plus utilisé – Fonctionne avec 2 piles LR03/AAA incluses
 - Plus de 110 chansons, mélodies, sons et phrases : le bouton Question permet à Bébé d’entendre des défis, le bouton Musique déclenche des mélodies, le Bouton Klaxon déclenche des phrases et des sons
-- Jouet camion conseillé dès 18 mois
+- Version française
 - Reconnaissance : le jouet camion reconnaît les blocs quand l’enfant les insère sur le siège passager - Permet de découvrir les formes, les couleurs et différents objets de la vie courante
+- Jouet camion conseillé dès 18 mois
+- Les parents peuvent contrôler le volume sonore et le jouet camion s’arrête automatiquement quand il n’est plus utilisé – Fonctionne avec 2 piles LR03/AAA incluses
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DJNZJBZ/?tag=tolees0d-21)

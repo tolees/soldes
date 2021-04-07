@@ -28,11 +28,11 @@ Vous avez [Levi s 511 Slim Fit Jeans  Nightshine X  32W / 32L Homme](https://www
 
 ℹ️:
 
-- Modèle à cenq poches
 - Braguette zippée
-- 99 % coton, 1 % élasthanne
-- Lessive liquide recommandée
+- Modèle à cenq poches
 - Laver et sécher à l’envers avec des couleurs similaires
 - Modèle stretch confortable
+- Lessive liquide recommandée
+- 99 % coton, 1 % élasthanne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MQEBCX8/?tag=tolees0d-21)
