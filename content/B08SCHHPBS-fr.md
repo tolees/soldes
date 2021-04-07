@@ -28,10 +28,10 @@ Vous avez [Uniguardian - 10x FFP3 masque de protection de la bouche et du nez-em
 
 ℹ️:
 
-- 【Filtration 5 couches】 Filtres efficaces sur 99% des aérosols et des poussières fines, pollen et autres polluants.
 - 【Comment utiliser les masques FFP3】 Nouvrez lemballage quavec des mains déjà propres et désinfectées. Saisissez les sangles élastiques à larrière des deux oreilles et ajustez-les dans une position confortable. Couvrez le masque et respirez normalement.
-- 【Service après-vente de qualité】 Si vous rencontrez des problèmes lors de son utilisation, veuillez nous contacter à temps. Nous vous fournirons un service client dans les plus brefs délais.
-- 【Certifié MASQUE】 Module B + Certifié Module D. Chaque produit fini a été testé strictement selon les normes de lUE: EN 149: 2001+ A1: 2009, classification: FFP3.
 - 【Emballage individuel】 Ici, vous obtenez des masques FFP3 emballés individuellement. Chacun est vraiment bien fait et confortable à porter.Les masques ont été emballés avec beaucoup de soin, chacun même individuellement, afin que chaque masque reste absolument stérile et propre jusquà sa première utilisation.
+- 【Service après-vente de qualité】 Si vous rencontrez des problèmes lors de son utilisation, veuillez nous contacter à temps. Nous vous fournirons un service client dans les plus brefs délais.
+- 【Filtration 5 couches】 Filtres efficaces sur 99% des aérosols et des poussières fines, pollen et autres polluants.
+- 【Certifié MASQUE】 Module B + Certifié Module D. Chaque produit fini a été testé strictement selon les normes de lUE: EN 149: 2001+ A1: 2009, classification: FFP3.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08SCHHPBS/?tag=tolees0d-21)

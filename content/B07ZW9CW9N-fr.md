@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Elephant Films - sur la Piste des Cheyen avec 20.76 % rabais '
-date: 2021-04-03 08:19:42
+date: 2021-04-07 09:31:48
 image: 'https://m.media-amazon.com/images/I/51w8meFQqgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Elephant Films'
 buyurl: 'https://www.amazon.fr/dp/B07ZW9CW9N/?tag=tolees0d-21'
 descuento: '20.76'
-average: '36.0'
+average: '35.5333333333333'
 ---
 
 C'est en vente [Elephant Films - sur la Piste des Cheyennes-Intégrale](https://www.amazon.fr/dp/B07ZW9CW9N/?tag=tolees0d-21)  à  20.76 % de réduction, prix final  31.8 EUR (original: 40.13 EUR) ici:

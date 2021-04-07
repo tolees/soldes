@@ -28,10 +28,10 @@ C'est en vente [Tommy Hilfiger TH City  Sac Homme  Noir  Black   8x28x40 cm  b x
 
 ℹ️:
 
-- Compartiment pour Laptop : oui
 - Type de fermeture : fermeture Éclair
+- Compartiment pour Laptop : oui
 - Équipement : emplacement téléphone portable, compartiment à fermeture Éclair
-- porte-stylo(s)
 - Souple
+- porte-stylo(s)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N0LKC89/?tag=tolees0d-21)

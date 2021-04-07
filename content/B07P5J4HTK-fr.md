@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '19.84 % rabais sur SUPERZINGS Rivals of Kaboom – Laboratoir'
-date: 2021-03-22 23:06:28
+title: '25.75 % rabais sur SUPERZINGS Rivals of Kaboom – Laboratoir'
+date: 2021-04-07 09:11:37
 image: 'https://m.media-amazon.com/images/I/41I90wGvSgL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,20 +9,20 @@ author: 'tole.es'
 slug: 'B07P5J4HTK-fr SUPERZINGS Rivals of Kaboom – Laboratoire Kazoom – Playset...'
 sku: 'B07P5J4HTK-fr'
 tags: [ 'Coffrets de figurines daction pour enfants','Figurines daction pour enfants','Figurines pour enfants','Jeux et Jouets','Jeux et jouets','superzings', ]
-actualPrice: 40.0 EUR
+actualPrice: 36.9 EUR
 currency: EUR
-price: 40.0
-comparePrice: 49.9 EUR
+price: 36.9
+comparePrice: 49.7 EUR
 prodname: 'SUPERZINGS Rivals of Kaboom – Laboratoire Kazoom – Playset  Véhicule et Mini Figurines Exclusives'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'SUPERZINGS'
 buyurl: 'https://www.amazon.fr/dp/B07P5J4HTK/?tag=tolees0d-21'
-descuento: '19.84'
-average: '44.4460588235293'
+descuento: '25.75'
+average: '44.9185263157895'
 ---
 
-Vous avez [SUPERZINGS Rivals of Kaboom – Laboratoire Kazoom – Playset  Véhicule et Mini Figurines Exclusives](https://www.amazon.fr/dp/B07P5J4HTK/?tag=tolees0d-21)  à  19.84 % de réduction, prix final  40.0 EUR (original: 49.9 EUR) ici:
+Vous avez [SUPERZINGS Rivals of Kaboom – Laboratoire Kazoom – Playset  Véhicule et Mini Figurines Exclusives](https://www.amazon.fr/dp/B07P5J4HTK/?tag=tolees0d-21)  à  25.75 % de réduction, prix final  36.9 EUR (original: 49.7 EUR) ici:
 
 [![SUPERZINGS Rivals of Kaboom – Laboratoir](https://m.media-amazon.com/images/I/41I90wGvSgL._SL400_.jpg)](https://www.amazon.fr/dp/B07P5J4HTK/?tag=tolees0d-21)
 

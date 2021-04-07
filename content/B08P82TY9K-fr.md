@@ -28,8 +28,8 @@ C'est en vente [Gloria Kaos 20 Masques de Protection FFP2 avec Certification CE 
 
 ℹ️:
 
-- Lemballage comprend 20 masques FFP2 emballés individuellement et scellés. Fabriqué en tissu soufflé très efficace avec une capacité de filtration de plus de 95%
 - CERTIFICATION EU 2163: Ces masques FFP2 à 5 couches ont été approuvés par un organisme notifié de lUE
+- Lemballage comprend 20 masques FFP2 emballés individuellement et scellés. Fabriqué en tissu soufflé très efficace avec une capacité de filtration de plus de 95%
 - CONCEPTION CONFORTABLE: Conception tridimensionnelle 3D avec pince-nez souple et réglable à lintérieur - offre confort et sécurité grâce à son ajustement précis au visage. Les bretelles élastiques sont confortables pour la plupart des hommes et des femmes, même avec des lunettes, durables
 - FFP2 NR CERTIFIED SAFETY Protection contre la poussière, le pollen, les bactéries et autres particules solides, CE EN 149: 2001 + A1: 2009 certifié par lorganisme notifié 2163
 - RESPIRANT ET CONFORTABLE: masque facial FFP2 conçu pour fournir une résistance respiratoire ultra-faible qui fonctionne en éliminant efficacement lair, afin de réduire laccumulation de chaleur et dhumidité, tout en assurant une utilisation confortable pendant les activités quotidiennes

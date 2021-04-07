@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '36.67 % rabais sur Verbatim 98243 MediaShare sans fil'
-date: 2021-04-05 21:01:22
+date: 2021-04-07 09:10:50
 image: 'https://m.media-amazon.com/images/I/4115I-lYrjL._SL400_.jpg'
 comments: true
 category: ofertas
