@@ -28,10 +28,10 @@ C'est en vente [Crocs Crocband Flip  Tongs Mixte Adulte  Noir  Black   42/43 EU]
 
 ℹ️:
 
-- Semelles légères.
-- Semelle intermédiaire en matériau Croslite offrant un confort léger avec sangle supérieure en TPU.
-- Les chaussures Crocs affichent les tailles américaines.
 - Les tailles de semelle sont américaines. Létiquette montre le Royaume-Uni. M = homme W = femme.
+- Semelles légères.
+- Les chaussures Crocs affichent les tailles américaines.
+- Semelle intermédiaire en matériau Croslite offrant un confort léger avec sangle supérieure en TPU.
 - Les picots de circulation sur la semelle plantaire stimulent la circulation sanguine.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B002SNA7XC/?tag=tolees0d-21)

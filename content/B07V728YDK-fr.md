@@ -28,8 +28,8 @@ Vous avez [Disney by Miss Mindy Figurine en Vinyle Jack Skellington avec Cadeau 
 
 ℹ️:
 
-- Disney Showcase collection
 - Hauteur : 17,8 cm Largeur : 8,1 cm Longueur : 13,7 cm
+- Disney Showcase collection
 - Produit de qualité supérieure.
 - Matériau résine Peinte à la main
 

@@ -28,10 +28,10 @@ Vous avez [Asus Casque Gaming ROG STRIX Wireless](https://www.amazon.fr/dp/B01HQ
 
 ℹ️:
 
-- Sans fil 2,4 Ghz technologie et design dual-antenna, 7.1 Surround virtuel
 - Microphone amovible, olive 60 mm goutte
+- Sans fil 2,4 Ghz technologie et design dual-antenna, 7.1 Surround virtuel
+- Réponse en fréquences (casque): Casque : 20 ~ 2000 Hz
 - La technologie ROG Strix casque Gaming sans fil caractéristiques sans fil 2,4 GHz pour une transmission audio à faible latence
 - – Touches de contrôle, 10 heures vie de la batterie
-- Réponse en fréquences (casque): Casque : 20 ~ 2000 Hz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HQOMSY8/?tag=tolees0d-21)
