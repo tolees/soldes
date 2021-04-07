@@ -28,11 +28,11 @@ C'est en vente [PUMA Smash WNS v2 L  Trainers Women s  White White  38 EU](https
 
 ℹ️:
 
-- Type de talons: Plat
+- Fermeture: Lacets
 - Doublure: Mesh
 - Dessus: Autres Cuir
+- Type de talons: Plat
 - Matériau de semelle: Caoutchouc
 - Semelle intérieure: Synthétique
-- Fermeture: Lacets
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B077MLPMX1/?tag=tolees0d-21)

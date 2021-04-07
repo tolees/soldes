@@ -28,10 +28,10 @@ C'est en vente [Vicloon Elsa Princesse Robe/Deguisement de La Belle et La Bête/
 
 ℹ️:
 
-- 👸【Bonne taille】- Ce costume de princesse a 6 tailles au choix pour les filles de 3 à 10 ans. Le tableau des tailles représente les tranches dâge de la fille, mais elles ne sont données quà titre indicatif. Pour un réglage plus précis, nous vous recommandons de vérifier la mesure détaillée avant lachat
-- 👸【Material Matériel de haute qualité】- En polyester et coton de qualité supérieure, doux et confortable, la doublure en coton ne blesse pas la peau pour une meilleure protection de la peau souple des bébés et des filles. Confortable à porter au printemps, été, automne et hiver
-- 👸【Robe de princesse noble】- De superbes couches de robe à fermeture à glissière, de fermeture à glissière, de balançoires à jupe à volants, de corsage confortable et de taille élastique en jersey pour vous faire sentir parfaitement plein et duveteux. la robe vous aidera à être au centre de la fête
 - 👸【Service supérieur】- Votre satisfaction est notre plus grand plaisir. Sil vous plaît, nhésitez pas à nous contacter si vous avez des questions. * Il est recommandé de laver à la main délicatement et de sécher à sec. Utilisez un détergent doux et placez-le sec, mais nutilisez pas deau de Javel et deau chaude
+- 👸【Material Matériel de haute qualité】- En polyester et coton de qualité supérieure, doux et confortable, la doublure en coton ne blesse pas la peau pour une meilleure protection de la peau souple des bébés et des filles. Confortable à porter au printemps, été, automne et hiver
 - 👸【Gift Cadeau parfait】- Le produit contient également 6 accessoires: Couronne Bague Sceptre Boucles doreilles Gants. Diamants rouges vives et beaux bords dorés. Convient pour un usage quotidien et une occasion spéciale telle que: Noël, Halloween, fête, rois, carnaval, anniversaire, photographie, présentation théâtrale, communion, utilisation quotidienne ou autres occasions spéciales
+- 👸【Bonne taille】- Ce costume de princesse a 6 tailles au choix pour les filles de 3 à 10 ans. Le tableau des tailles représente les tranches dâge de la fille, mais elles ne sont données quà titre indicatif. Pour un réglage plus précis, nous vous recommandons de vérifier la mesure détaillée avant lachat
+- 👸【Robe de princesse noble】- De superbes couches de robe à fermeture à glissière, de fermeture à glissière, de balançoires à jupe à volants, de corsage confortable et de taille élastique en jersey pour vous faire sentir parfaitement plein et duveteux. la robe vous aidera à être au centre de la fête
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07LGND73V/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Cecotec Ventilateur sur Pied ForceSilence 550 Smart. 5 Pales de 
 
 ℹ️:
 
-- Force Silence technologie: Obtenez une profonde Sensation d’air frais à instant avec Silence et confort maximaux. Ventilateur 2 en 1 Convertible à la versatilité maximale, sur pied et de table, Avec un design minimaliste élégant. Fraîcheur maximale avec consommation minime 40 W.
+- Total Control: système pour sélectionner l’angle d’incidence du flux d’air. Rotatewind: mode avec lequel les pâles oscillent pour apporter un meilleur angle d’aération et une ample zone de fraîcheur.
 - Security system: système de sécurité intégral formé par les éléments suivants. Grille de sécurité qui empêche accès aux pâles. Health&safety: le ventilateur répond à la norme EN vigueur quand à la sécurité et à la protection de environnement, pour prendre soin des vôtres et de votre entourage. Easy po move facile à transporter et à range grâce à son anse de transport.
 - CoolTimer : possède une minuterie programmable jusqu’à 7 heures après lesquelles le ventilateur s’éteint automatiquement pour vous apporter un confort maximal pendant utilisation et permet d’économiser de l’énergie. Vous pourrez choisir entre 3 vitesses de fonctionnement (basse-Nuit, moyenne-Eco et élevée-Turbo) pour adapter l’intensité du débit d’air à vos besoins.
 - Smart Control: contrôle à distance intelligent du ventilateur grâce à sa télécommande à distance et à son écran LCD pour la manier plus facilement et intuitivement. Moteur exclusif 100 % en cuivre de haute efficacité, fiable et à la durabilité maximale. Possède un système de sécurité termosafe pour prolonger la vie utile du ventilateur et éviter des incidences et avaries non voulues.
-- Total Control: système pour sélectionner l’angle d’incidence du flux d’air. Rotatewind: mode avec lequel les pâles oscillent pour apporter un meilleur angle d’aération et une ample zone de fraîcheur.
+- Force Silence technologie: Obtenez une profonde Sensation d’air frais à instant avec Silence et confort maximaux. Ventilateur 2 en 1 Convertible à la versatilité maximale, sur pied et de table, Avec un design minimaliste élégant. Fraîcheur maximale avec consommation minime 40 W.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CSTCTJS/?tag=tolees0d-21)
