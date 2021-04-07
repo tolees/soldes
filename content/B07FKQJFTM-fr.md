@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'VTech - V Tech - Ordi Genius Kid  Rose - avec 20.37 % rabais '
-date: 2021-04-05 21:08:36
+date: 2021-04-07 08:48:02
 image: 'https://m.media-amazon.com/images/I/31WfAu5EN4L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'VTech'
 buyurl: 'https://www.amazon.fr/dp/B07FKQJFTM/?tag=tolees0d-21'
 descuento: '20.37'
-average: '21.7583974358976'
+average: '21.7465605095543'
 ---
 
 C'est en vente [VTech - V Tech - Ordi Genius Kid  Rose - Version FR](https://www.amazon.fr/dp/B07FKQJFTM/?tag=tolees0d-21)  à  20.37 % de réduction, prix final  19.9 EUR (original: 24.99 EUR) ici:
@@ -29,10 +29,10 @@ C'est en vente [VTech - V Tech - Ordi Genius Kid  Rose - Version FR](https://www
 ℹ️:
 
 - 20 activités pour découvrir les formes, les animaux, la logique, le vocabulaire
-- Version française
-- Différents niveaux de progression : plus l’enfant joue, plus la difficulté augmente
-- 30 mélodies et différents modes musicaux : rock, jazz et country
-- Personnalisable : prénom, âge, mélodie, avatar et aliments préférés de l’enfant
 - Ecran interactif rétro-éclairé, animations amusantes, clavier abécédaire, 10 touches Chiffre
+- 30 mélodies et différents modes musicaux : rock, jazz et country
+- Différents niveaux de progression : plus l’enfant joue, plus la difficulté augmente
+- Version française
+- Personnalisable : prénom, âge, mélodie, avatar et aliments préférés de l’enfant
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FKQJFTM/?tag=tolees0d-21)

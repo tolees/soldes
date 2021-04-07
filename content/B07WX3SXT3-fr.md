@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'TT Games - LEGO Jurassic World avec 26.76 % rabais '
-date: 2021-04-03 23:14:34
+date: 2021-04-07 08:45:13
 image: 'https://m.media-amazon.com/images/I/41keu20PQmL._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'TT Games'
 buyurl: 'https://www.amazon.fr/dp/B07WX3SXT3/?tag=tolees0d-21'
 descuento: '26.76'
-average: '29.54'
+average: '29.50875'
 ---
 
 C'est en vente [TT Games - LEGO Jurassic World](https://www.amazon.fr/dp/B07WX3SXT3/?tag=tolees0d-21)  à  26.76 % de réduction, prix final  29.29 EUR (original: 39.99 EUR) ici:

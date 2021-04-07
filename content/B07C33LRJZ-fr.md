@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hasbro e2512100?Star Wars Ma?tre des pou avec 19.86 % rabais '
-date: 2021-03-30 20:34:41
+date: 2021-04-07 08:52:15
 image: 'https://m.media-amazon.com/images/I/51kv3ujKL3L._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,6 @@ C'est en vente [Hasbro e2512100?Star Wars Ma?tre des pouvoir lumi?re ?p?e  rev?t
 
 ℹ️:
 
-- Plus de 24 proverbes et sons
 - Langue: Allemand
-- Changement de 4 couleurs de lame possible
-- Sabre laser électronique - Le cadeau parfait pour les fans de Star Wars
-- À partir de 4 ans
-- Compatible avec tous les sabres laser Bladebuilders
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07C33LRJZ/?tag=tolees0d-21)
