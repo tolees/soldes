@@ -28,10 +28,10 @@ Vous avez [Uniguardian - 10x Masque FFP3 Masque de protection respiratoire mono-
 
 ℹ️:
 
+- 【Protection de sécurité】 Protection contre les particules, les produits chimiques, la poussière de carbone ou de ciment, les résidus métalliques et les processus de fabrication.
+- 【Certifié MASQUE】 Module B + Certifié Module D. Chaque produit fini a été testé strictement selon les normes de lUE: EN 149: 2001+ A1: 2009, classification: FFP3.
 - 【Achetez en toute confiance】 La satisfaction du client est notre priorité de service. Veuillez nous contacter en cas de soucis, nous vous donnerons une solution satisfaisante dans les 24 heures
 - 【CERTIFIÉS】 Nos masques de protection FFP3 ont été testés par un centre de test européen conformément à la norme européenne EN149: 2001 + A1: 2009.
 - 【Emballage individuel】 Ici, vous obtenez des masques FFP3 emballés individuellement. Chacun est vraiment bien fait et confortable à porter.Les masques ont été emballés avec beaucoup de soin, chacun même individuellement, afin que chaque masque reste absolument stérile et propre jusquà sa première utilisation.
-- 【Protection de sécurité】 Protection contre les particules, les produits chimiques, la poussière de carbone ou de ciment, les résidus métalliques et les processus de fabrication.
-- 【Certifié MASQUE】 Module B + Certifié Module D. Chaque produit fini a été testé strictement selon les normes de lUE: EN 149: 2001+ A1: 2009, classification: FFP3.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08RMDHYDJ/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [PANDORA Femme Argent Charms et perles 797853](https://www.amazon
 
 ℹ️:
 
-- Moments (charm concept)
-- Breloques
 - Argent sterling
-- Pas dautres matériaux
 - Breloque
+- Breloques
+- Pas dautres matériaux
+- Moments (charm concept)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NF2N25S/?tag=tolees0d-21)
