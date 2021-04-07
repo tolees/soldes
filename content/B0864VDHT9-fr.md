@@ -28,7 +28,7 @@ C'est en vente [Superthings – Kazoom Racer – Véhicule et Mini Figurine-toup
 
 ℹ️:
 
-- A partir de 3 ans et plus.
 - Collectionne-la nouvelle vague de mini figurine SuperZings, les rivaux de Kaboom : SuperThings, les espions secrets.
+- A partir de 3 ans et plus.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0864VDHT9/?tag=tolees0d-21)

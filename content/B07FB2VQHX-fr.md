@@ -28,10 +28,10 @@ Vous avez [SUPERZINGS - MagicBox Boite de Magie](https://www.amazon.fr/dp/B07FB2
 
 ℹ️:
 
-- Dans la nouvelle station de police, il tire le canon depuis le toit, trouve la sortie secrète et capture les méchants.
-- Contient 1 station de police Kaboom City, 2 SuperZings exclusifs et 1 moto exclusive.
-- Les SuperZings sont des objets du quotidien transformés en super-héros et superméchants, le plaisir est garanti. Chaque figurine SuperZing a son rival, trouvez les paires rivales et formez vos SuperTeams. Ces figurines amusantes sont idéales pour développer la créativité des enfants grâce au jeu imaginatif et encourager la socialisation.
-- Bienvenue chez Kaboom City ! La ville de SuperZings, où vous pouvez créer des millions dhistoires et où les Superhéros et SuperVillains se rencontreront dans des aventures amusantes.
 - Vivez de nouvelles aventures SuperZings avec les figurines exclusives Capitaine Justice et Chuckchaine.
+- Contient 1 station de police Kaboom City, 2 SuperZings exclusifs et 1 moto exclusive.
+- Bienvenue chez Kaboom City ! La ville de SuperZings, où vous pouvez créer des millions dhistoires et où les Superhéros et SuperVillains se rencontreront dans des aventures amusantes.
+- Dans la nouvelle station de police, il tire le canon depuis le toit, trouve la sortie secrète et capture les méchants.
+- Les SuperZings sont des objets du quotidien transformés en super-héros et superméchants, le plaisir est garanti. Chaque figurine SuperZing a son rival, trouvez les paires rivales et formez vos SuperTeams. Ces figurines amusantes sont idéales pour développer la créativité des enfants grâce au jeu imaginatif et encourager la socialisation.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FB2VQHX/?tag=tolees0d-21)

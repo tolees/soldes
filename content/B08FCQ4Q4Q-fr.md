@@ -28,10 +28,10 @@ Vous avez [MANUCURE - COOL MAKER - GO GLAM GLITTER NAILS - Ongles à Paillettes 
 
 ℹ️:
 
-- CADEAU ENFANT - Pour un anniversaire ou Noël offrez le Go Glam Glitter Nails Cool Maker ; partagez un moment de créativité avec votre enfant autour du kit complet pour personnaliser sa manucure
-- FACILE À RETIRER - Lorsque vous voulez changer ou retirer vos ongles à paillettes, rien de plus simple. Il vous suffit de pincer lautocollant double face et de tirer, puis de recommencer encore et encore
-- PAS BESOIN DE VERNIS À ONGLES - Réalisez vos manucures sans vernis à ongles, pas besoin dattendre que ça sèche. Il suffit de poser un autocollant sur votre ongle, le limer pour ladapter à la taille de longle, puis de déposer à laide du pinceau les paillettes, et enfin dajouter des stickers selon vos envies
 - ACTIVITÉ CRÉATIVE - Le kit Go Glam Glitter Nails est une activité créative qui convient parfaitement aux fêtes et soirées pyjama. Créez de superbes manucures avec vos amis
+- CADEAU ENFANT - Pour un anniversaire ou Noël offrez le Go Glam Glitter Nails Cool Maker ; partagez un moment de créativité avec votre enfant autour du kit complet pour personnaliser sa manucure
+- PAS BESOIN DE VERNIS À ONGLES - Réalisez vos manucures sans vernis à ongles, pas besoin dattendre que ça sèche. Il suffit de poser un autocollant sur votre ongle, le limer pour ladapter à la taille de longle, puis de déposer à laide du pinceau les paillettes, et enfin dajouter des stickers selon vos envies
+- FACILE À RETIRER - Lorsque vous voulez changer ou retirer vos ongles à paillettes, rien de plus simple. Il vous suffit de pincer lautocollant double face et de tirer, puis de recommencer encore et encore
 - JOUET ENFANT 8 ANS ET + - Le kit GO GLAM GLITTER NAILS Cool Maker convient aux enfants à partir de 8 ans ; coffret manucure enfants à partir de 8 ans
 - CRÉEZ 5 MANUCURES PAILLETÉES - Avec Go Glam Glitter Nails, faire sa manucure devient un jeu d’enfant. Ce kit contient tout ce dont vous avez besoin pour créer 5 manucures étincelantes, notamment 6 couleurs de paillettes, des stickers pour les ongles, une lime à ongles et bien plus encore. Combinez les paillettes pour exprimer votre style
 

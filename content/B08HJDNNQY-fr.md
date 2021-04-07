@@ -28,8 +28,8 @@ Vous avez [Xiaomi Mi 10T Pro - Smartphone 128GB  8GB RAM  Dual Sim  Alexa Hands-
 
 ℹ️:
 
+- Taille daffichage: 6.67 pouces
 - Type daffichage: 6.67 pouces
 - Les téléphones avec Alexa dintégrées vous permettent de passer des appels téléphoniques, douvrir des applications, de contrôler des appareils intelligents pour la maison, daccéder à la bibliothèque Alexa Skills, et plus encore en utilisant uniquement votre voix lors de vos déplacements. Téléchargez lapplication Alexa et terminez la configuration mains libres pour commencer. Demandez simplement - et Alexa répondra instantanément.
-- Taille daffichage: 6.67 pouces
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08HJDNNQY/?tag=tolees0d-21)
