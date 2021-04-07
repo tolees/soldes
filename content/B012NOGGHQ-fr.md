@@ -28,12 +28,12 @@ Vous avez [LEGO 21028 Architecture New York  Jeu de Construction](https://www.a
 
 ℹ️:
 
-- Recréez les plus belles villes du monde avec la collection LEGO Architecture Skyline.
 - La ligne de produits LEGO Architecture célèbre le monde de larchitecture par le biais de la brique LEGO, pour toutes les personnes qui sintéressent à la création, à lhistoire et à larchitecture.
-- Mesure 26 cm de haut, 25 cm de large et 4 cm de profondeur.
-- Le livret inclus contient des informations sur le designer, larchitecture et lhistoire de chaque structure, ainsi que des faits historiques sur New York et son héritage architectural (en anglais et en italien uniquement. Autres langues disponibles en téléchargement sur LEGO.com/architecture). Demande la permissionà tes parents ou à ton tuteur avant daller en ligne.
 - Inclut une plaque de base 4x32 avec un écriteau décoratif New York.
-- Comprend le Flatiron Building, le Chrysler Building, lEmpire State Building, le One World Trade Center et la Statue de la Liberté.
+- Mesure 26 cm de haut, 25 cm de large et 4 cm de profondeur.
+- Recréez les plus belles villes du monde avec la collection LEGO Architecture Skyline.
 - Interprétation LEGO du paysage de New York.
+- Comprend le Flatiron Building, le Chrysler Building, lEmpire State Building, le One World Trade Center et la Statue de la Liberté.
+- Le livret inclus contient des informations sur le designer, larchitecture et lhistoire de chaque structure, ainsi que des faits historiques sur New York et son héritage architectural (en anglais et en italien uniquement. Autres langues disponibles en téléchargement sur LEGO.com/architecture). Demande la permissionà tes parents ou à ton tuteur avant daller en ligne.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B012NOGGHQ/?tag=tolees0d-21)

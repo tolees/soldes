@@ -29,9 +29,9 @@ Vous avez [6X FFP3 respirateur DreamCan Masque de Protection Contre la poussièr
 ℹ️:
 
 - Boîte de 6 pièces avec instructions en plusieurs langues dont le français
-- Norme FFP3 - Niveau de filtration le plus élevé dans lUnion européenne. Filtre au moins 99% des particules de 0,6µ de diamètre. La super étanchéité est garantie par une lèvre détanchéité intérieure supplémentaire. Comme ce masque ne contient pas de valve, il peut être utilisé partout, car le porteur et lenvironnement sont protégés en même temps !
-- Chaque masque est emballé individuellement de manière hygiénique et étanche et sa qualité est testée.
 - Certifié conforme à la directive européenne EN149:2001+A1:2009 NR par un centre dessai accrédité dans lUnion européenne | CE 0370
+- Chaque masque est emballé individuellement de manière hygiénique et étanche et sa qualité est testée.
+- Norme FFP3 - Niveau de filtration le plus élevé dans lUnion européenne. Filtre au moins 99% des particules de 0,6µ de diamètre. La super étanchéité est garantie par une lèvre détanchéité intérieure supplémentaire. Comme ce masque ne contient pas de valve, il peut être utilisé partout, car le porteur et lenvironnement sont protégés en même temps !
 - Sans latex et sans caoutchouc naturel
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08LSVHQDY/?tag=tolees0d-21)

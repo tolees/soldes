@@ -28,10 +28,10 @@ C'est en vente [Klein - 8902 - Jeu d imitation - Casque de pompier F1 gris avec 
 
 ℹ️:
 
-- Couleur : gris
-- A partir de 3 ans
 - Enfilez ce magnifique casque de pompier F1 sous licence MSA Gallet et entrez dans la peau dun véritable petit soldat du feu
-- Dimensions hors emballage : 31 x 17,5 x 21 cm
 - Reproduction fidèle du modèle original, il est équipé dune visière escamotable et dun protège-nuque
+- A partir de 3 ans
+- Couleur : gris
+- Dimensions hors emballage : 31 x 17,5 x 21 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XP29FDF/?tag=tolees0d-21)

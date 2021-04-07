@@ -28,10 +28,10 @@ C'est en vente [Tommy Hilfiger Hommes Multi-Cadrans Quartz Montre avec Bracelet 
 
 ℹ️:
 
+- Résistance à leau 5 ATM
+- Cadran bleu semi-brillant
 - Épaisseur du boîtier 10,9mm
 - Mouvement multifonction
 - Bracelet en lisse marron clair
-- Cadran bleu semi-brillant
-- Résistance à leau 5 ATM
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3X5V7F/?tag=tolees0d-21)
