@@ -28,10 +28,10 @@ Vous avez [Western Digital - WD 32 To My Cloud Pro PR4100 Pro Serie 4-Bay Networ
 
 ℹ️:
 
+- Sécurité complète grâce à la protection par mot de passe et au chiffrement de volume AES 256 bits
 - Processeur quadri cœur 1,6 GHz Intel Pentium N3710 avec 4 Go DDR3L de mémoire
 - Configuration simple et rapide, et gestion efficace grâce à My Cloud OS 3
-- Stockage centralisé pour organiser les fichiers multimédias et améliorer votre flux de travail
-- Sécurité complète grâce à la protection par mot de passe et au chiffrement de volume AES 256 bits
 - Transcodage vidéo intégré pour une diffusion HD via Plex
+- Stockage centralisé pour organiser les fichiers multimédias et améliorer votre flux de travail
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01GRFFCV8/?tag=tolees0d-21)
