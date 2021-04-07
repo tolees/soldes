@@ -28,10 +28,10 @@ C'est en vente [SanDisk Ultra 64Go SDHC Carte mémoire allant jusqu à 100MB/s  
 
 ℹ️:
 
-- Rapides pour de meilleures photos et de la vidéo Full HD
-- Un excellent choix pour les appareils photo automatiques compacts ou de gamme intermédiaire
-- Des vitesses de transfert élevées allant jusquà 100 Mo/s
-- De 32 Go à 256 Go pour stocker des tonnes de photos et encore plus de vidéos Full HD
 - Des performances denregistrement vidéo exceptionnelles avec une Classe de vitesse UHS 1 (U1) et une Classe 10 pour des vidéos Full HD (1080 p)
+- De 32 Go à 256 Go pour stocker des tonnes de photos et encore plus de vidéos Full HD
+- Un excellent choix pour les appareils photo automatiques compacts ou de gamme intermédiaire
+- Rapides pour de meilleures photos et de la vidéo Full HD
+- Des vitesses de transfert élevées allant jusquà 100 Mo/s
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YFGGPH3/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Geox J Sandal Haiti Girl A  Bout Ouvert Garçon Fille  Rose  Ros
 
 ℹ️:
 
-- Type de talons : plat
-- Matériau de semelle : synthétique
-- Semelle intérieure : cuir
 - Semelle intérieure amovible : false
+- Type de talons : plat
 - Dessus : cuir - daim
 - Doublure : synthétique
+- Matériau de semelle : synthétique
+- Semelle intérieure : cuir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SWSZDFR/?tag=tolees0d-21)

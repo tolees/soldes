@@ -29,7 +29,7 @@ Vous avez [NATURELLA Pierre d  Argile 300g](https://www.amazon.fr/dp/B00BAY24WC/
 ℹ️:
 
 - Nettoie tous les surfaces lisses sans rayer
-- Dégraissante, anticalcaire, polit, lustre
 - Laisse une fine couche protectrice
+- Dégraissante, anticalcaire, polit, lustre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BAY24WC/?tag=tolees0d-21)

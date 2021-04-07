@@ -28,11 +28,11 @@ C'est en vente [LEGO 31200 Art Star Wars Les Siths Set pour Adultes  Edition Col
 
 ℹ️:
 
+- Possibilité de le compléter avec les deux autres sets afin de créer une décoration murale Dark Vador. C’est un cadeau exceptionnel pour les adeptes de sets de construction et fans de Star Wars
+- 1 image - 3 options. Les différents modèles ne peuvent pas être construits en même temps.
+- Incluant 9 toiles de décoration murale, une tuile comportant la signature des Star Wars, un cadre à fabriquer LEGO, un système d’accrochage et un séparateur de pièce
 - Set à construire et reconstruire 3 en 1 - créer un des 3 portrait de puissants Siths Lords : Dark Maul, Kylo Ren et Dark Vador
 - Cette oeuvre d’art LEGO mesure 40 cm de chaque côté et une fois complété de la signature Star Wars pourra être fièrement exposé
-- Possibilité de le compléter avec les deux autres sets afin de créer une décoration murale Dark Vador. C’est un cadeau exceptionnel pour les adeptes de sets de construction et fans de Star Wars
-- Incluant 9 toiles de décoration murale, une tuile comportant la signature des Star Wars, un cadre à fabriquer LEGO, un système d’accrochage et un séparateur de pièce
-- 1 image - 3 options. Les différents modèles ne peuvent pas être construits en même temps.
 - Incluant la bande-son afin de s’immerger totalement dans l’univers Star Wars pendant la construction du set, comprenant histoires uniques et interviews
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0813QKLHG/?tag=tolees0d-21)
