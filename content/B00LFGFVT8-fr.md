@@ -28,13 +28,13 @@ Vous avez [Apli kids 013263 Sachet de 100 Yeux Mobiles Adhésifs Ronds sans Cils
 
 ℹ️:
 
-- Contribue au développement
+- Pour personnaliser des décorations/créations
 - Stimule l’imagination et la créativité.
 - Produits à associer avec nos gammes : Mousse EVA, colle, ciseaux, chenilles ... pour réaliser toutes les créations des petits et des grands!
-- Idéal pour les loisirs créatifs
-- Pour personnaliser des décorations/créations
-- Parfait pour la maison et l’école.
 - Stimule limagination et la créativité
+- Idéal pour les loisirs créatifs
+- Contribue au développement
 - Idéal pour réaliser des marionnettes…
+- Parfait pour la maison et l’école.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LFGFVT8/?tag=tolees0d-21)

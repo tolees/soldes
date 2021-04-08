@@ -28,12 +28,12 @@ C'est en vente [Tommy Hilfiger New Denton 4.0  Ceinture Homme  Noir  Black 090  
 
 ℹ️:
 
+- Boucle en métal brossé
+- Cuir véritable
 - Extrémité effilée
+- Non lavable
+- Drapeau Tommy Hilfiger sur le passant de la
 - 100 % cuir
 - 100% cuir
-- Non lavable
-- Boucle en métal brossé
-- Drapeau Tommy Hilfiger sur le passant de la
-- Cuir véritable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00NONX7BO/?tag=tolees0d-21)

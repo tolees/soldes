@@ -28,10 +28,10 @@ C'est en vente [Le Petit Marseillais Douche & Bain Crème Extra Doux  Lait d’A
 
 ℹ️:
 
-- Flacon 100% recyclable
 - Formule 99% biodégradable
+- Nouveau Douche & Bain Crème Le Petit Marseillais, Extra Doux pour votre peau et la planète
 - Hydratant dorigine naturelle
 - Testé sous contrôle dermatologique et au pH neutre pour le peau
-- Nouveau Douche & Bain Crème Le Petit Marseillais, Extra Doux pour votre peau et la planète
+- Flacon 100% recyclable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GYCQXT3/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Festool 497391 Abrasifs stf v93/6/50 gr p60](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Contenu du paquet: 50 Pièces
 - Abrasifs spéciaux pour les matériaux en bois
-- Ponçage préliminaire et intermédiaire pour la peinture et le huilage des menuisiers, charpentiers
+- Contenu du paquet: 50 Pièces
 - Utilisé pour les peintres et pour les industries du bois et du meuble
+- Ponçage préliminaire et intermédiaire pour la peinture et le huilage des menuisiers, charpentiers
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004INGNQA/?tag=tolees0d-21)

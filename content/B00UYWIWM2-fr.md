@@ -28,12 +28,12 @@ Vous avez [Tempur Symphony Oreiller Ergonomique pour Dormir sur Le Dos ou sur Le
 
 ℹ️:
 
+- Grâce au matériau spécial Tempur, le coussin réagit à la chaleur et au poids du corps et sadapte ainsi individuellement à vos besoins
+- La housse de coussin amovible est lavable à 60°C et est composée à 99% de polyester, 1% délasthanne. Dimensions du coussin : 43 x 63 x 12,5 cm
 - Ne pas repasser | Ne pas nettoyer à sec
 - Le côté incurvé épais sadapte à lépaule et permet une position latérale
-- Grâce au matériau spécial Tempur, le coussin réagit à la chaleur et au poids du corps et sadapte ainsi individuellement à vos besoins
-- Le côté plat offre un soutien confortable pour la tête et le cou pour les personnes dormant sur le dos
 - Garantie fabricant : 3 ans. Vous trouverez les conditions de garantie dans la rubrique « Informations techniques supplémentaires ». Vos droits de garantie légaux restent intacts
 - Oreiller ergonomique 2 en 1, idéal pour les personnes dormant sur le côté et sur le dos
-- La housse de coussin amovible est lavable à 60°C et est composée à 99% de polyester, 1% délasthanne. Dimensions du coussin : 43 x 63 x 12,5 cm
+- Le côté plat offre un soutien confortable pour la tête et le cou pour les personnes dormant sur le dos
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UYWIWM2/?tag=tolees0d-21)

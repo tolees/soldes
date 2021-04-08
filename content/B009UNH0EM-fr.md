@@ -28,10 +28,10 @@ Vous avez [Plantronics 89032-01 Accessoires pour Casque Noir](https://www.amazon
 
 ℹ️:
 
+- Connectique:;WiFi;HDMI
+- Garantie Fabricant: 2 an(s)
 - Garantie Fabricant: 2 an(s)
 - nothing
-- Garantie Fabricant: 2 an(s)
-- Connectique:;WiFi;HDMI
 - Connectique:;WiFi;HDMI
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009UNH0EM/?tag=tolees0d-21)
