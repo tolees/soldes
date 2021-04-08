@@ -28,10 +28,10 @@ Vous avez [66FIT Tapis interconnectables EVA 60 cm x 60 cm x 13 mm x 4 pièces](
 
 ℹ️:
 
-- Faits pour être placés sous les équipements de sport tels que les tapis roulants, les vélos dexercice, les bancs, etc.
-- Antidérapant, imperméable et facile à nettoyer
 - Conçus en EVA de haute qualité, chacun des 4 tapis mesure 60 cm x 60 cm
-- Ensemble imbriqué 100 % imperméable, antidérapant
 - Couvre une surface de 1,44 m² avec possibilité dextension de la surface en ajoutant plus de pièces de tapis
+- Ensemble imbriqué 100 % imperméable, antidérapant
+- Antidérapant, imperméable et facile à nettoyer
+- Faits pour être placés sous les équipements de sport tels que les tapis roulants, les vélos dexercice, les bancs, etc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004OW24CM/?tag=tolees0d-21)
