@@ -28,8 +28,8 @@ C'est en vente [Schwarzkopf Gliss Masque Fibre Thérapeutique  Pour les cheveux 
 
 ℹ️:
 
-- Améliore nettement la qualité du cheveu
 - Produits de beauté
 - Marque SCHWARZKOPF
+- Améliore nettement la qualité du cheveu
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MUSMH9N/?tag=tolees0d-21)
