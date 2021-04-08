@@ -28,7 +28,7 @@ Vous avez [Intex - 0774111 - Matelas Gonflable - Wave Rider - Ride-on](https://w
 
 ℹ️:
 
-- Descriptif produit: Ride on Wave rider, avec poignée et base large pour une assise stable. Dimensions: 117 x 77 cm. Fabriqué en vinyle robuste de haute qualité. Kit de réparation inclus. A partir de 3 ans.
 - Age minimum : 3 ans
+- Descriptif produit: Ride on Wave rider, avec poignée et base large pour une assise stable. Dimensions: 117 x 77 cm. Fabriqué en vinyle robuste de haute qualité. Kit de réparation inclus. A partir de 3 ans.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HEGLIPO/?tag=tolees0d-21)

@@ -28,14 +28,14 @@ Vous avez [NETGEAR Système WiFi 6 Mesh Tri Bandes Orbi  RBK752   Pack de 2  Rou
 
 ℹ️:
 
-- ÉQUIPÉ DE TECHNOLOGIES AVANCÉES : MU-MIMO, Smart Connect pour un nom WiFi et des technologies de Beamforming
-- Système WiFi Mesh puissant doté de la dernière technologie WiFi 6 AX, compatible avec tous vos appareils WiFi, y compris de génération antérieure
-- VITESSE GIGABIT SANS FIL ULTRA-RAPIDE : le Mesh WiFi 6 AX4200 permet en même temps le streaming vidéo HD 4K/8K,le gaming, une navigation Internet fluide et de télécharger jusquà 4,2 Gbit/s
-- PORTS ETHERNET : branchez les ordinateurs, les consoles de jeux, les lecteurs streaming et les autres périphériques câblés situés à proximité avec 3 ports Gigabit sur le Routeur et 2 ports Gigabit sur le satellite
-- UTILISEZ LE CONTRÔLE VOCAL : prend en charge Amazon Alexa et les commandes de contrôle vocal de Google Assistant (Appareil Alexa ou Google requis)
 - TECHNOLOGIE TRI-BAND : une bande dédiée à la communication entre la base/routeur et le satellite libère les deux autres bandes pour une vitesse maximale sur vos appareils
-- FONCTIONNE AVEC TOUS LES FOURNISSEURS DACCÈS INTERNET : Remplacez votre Box et répéteurs WiFi existants Compatible avec tous les fournisseurs daccès Internet quelle que soit la connexion (câble, satellite, fibre optique, DSL, etc)
+- PORTS ETHERNET : branchez les ordinateurs, les consoles de jeux, les lecteurs streaming et les autres périphériques câblés situés à proximité avec 3 ports Gigabit sur le Routeur et 2 ports Gigabit sur le satellite
 - COUVERTURE WiFi : IDEAL pour les grandes habitations connectées et les murs épais
 - AUCUNE ZONE MORTE : Couverture WiFi totale une surface de 350m² et 40 appareils La technologie Mesh vous aide à rester connecté lorsque vous vous déplacez dans votre maison en utilisant un seul nom de réseau. Étendez la couverture de 175m² avec des satellites Orbi Mesh WiFi 6 supplémentaires (vendus séparément)
+- UTILISEZ LE CONTRÔLE VOCAL : prend en charge Amazon Alexa et les commandes de contrôle vocal de Google Assistant (Appareil Alexa ou Google requis)
+- ÉQUIPÉ DE TECHNOLOGIES AVANCÉES : MU-MIMO, Smart Connect pour un nom WiFi et des technologies de Beamforming
+- FONCTIONNE AVEC TOUS LES FOURNISSEURS DACCÈS INTERNET : Remplacez votre Box et répéteurs WiFi existants Compatible avec tous les fournisseurs daccès Internet quelle que soit la connexion (câble, satellite, fibre optique, DSL, etc)
+- VITESSE GIGABIT SANS FIL ULTRA-RAPIDE : le Mesh WiFi 6 AX4200 permet en même temps le streaming vidéo HD 4K/8K,le gaming, une navigation Internet fluide et de télécharger jusquà 4,2 Gbit/s
+- Système WiFi Mesh puissant doté de la dernière technologie WiFi 6 AX, compatible avec tous vos appareils WiFi, y compris de génération antérieure
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B089NMH2WX/?tag=tolees0d-21)
