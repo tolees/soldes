@@ -28,10 +28,10 @@ Vous avez [Alienware AW3418DW Ecran de PC Gaming 34" Ultra-Wide Quad HD LCD 
 
 ℹ️:
 
+- Connectivité : Concentrateur USB intégré, HDMI, DisplayPorts, Sortie casque audio, port amont USB Type-B, 4 ports avals USB de type A, Sortie audio, Sortie de casque, Secteur dentrée dalimentation
+- Format d’image : 21:9, Taux de dactualisation maximal 120 Hz, Temps de réponse 4 ms
 - Un écran de gaming IPS 34 pouces doté de la technologie NVIDIA G-SYNC pour une expérience de jeu fluide et sans effort.
 - Ecran PC Gaming 34 pouces (86,7 cm) 3440 x 1440 pixels IPS Ultra-Wide Quad HD LCD
 - GARANTIE 3 ANS constructeur
-- Format d’image : 21:9, Taux de dactualisation maximal 120 Hz, Temps de réponse 4 ms
-- Connectivité : Concentrateur USB intégré, HDMI, DisplayPorts, Sortie casque audio, port amont USB Type-B, 4 ports avals USB de type A, Sortie audio, Sortie de casque, Secteur dentrée dalimentation
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B076PTMVJ8/?tag=tolees0d-21)

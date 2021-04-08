@@ -28,10 +28,10 @@ C'est en vente [Apple iPad Mini  Wi-FI  256 Go  - Argent](https://www.amazon.fr
 
 ℹ️:
 
-- Puce A12 Bionic
-- Écran Retina 7, 9 pouces avec True Tone et large gamme de couleurs
-- Capteur d’empreinte digitale Touch ID
 - Appareil photo arrière 8 Mpx, caméra avant FaceTime HD 7 Mpx
 - Haut‐parleurs stéréo
+- Puce A12 Bionic
+- Capteur d’empreinte digitale Touch ID
+- Écran Retina 7, 9 pouces avec True Tone et large gamme de couleurs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PP5GSW9/?tag=tolees0d-21)
