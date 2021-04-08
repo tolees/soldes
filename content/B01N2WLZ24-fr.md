@@ -1,13 +1,14 @@
 ---
 layout: post
 title: '27.43 % rabais sur Kärcher 2.055-007.0 Rouleaux de rechange'
-date: 2021-03-10 07:22:53
+date: 2021-04-08 06:58:08
 image: 'https://m.media-amazon.com/images/I/416Gs6BW5vL._SL400_.jpg'
 comments: true
 category: ofertas
-author: ring
+author: 'tole.es'
 slug: 'B01N2WLZ24-fr Kärcher 2.055-007.0 Rouleaux de rechange accessoire pour FC 5'
 sku: 'B01N2WLZ24-fr'
+tags: [ 'Aspirateurs, entretien des sols et nettoyeurs de vitres','Cuisine et Maison','Nettoyeurs Vapeur et Polisseuses sol','Nettoyeurs vapeur électriques','kärcher', ]
 actualPrice: 17.99 EUR
 currency: EUR
 price: 17.99
@@ -27,9 +28,9 @@ Vous avez [Kärcher 2.055-007.0 Rouleaux de rechange accessoire pour FC 5](https
 
 ℹ️:
 
+- fabriqué en Lituanie
+- 2 rouleaux de rechange gris en microfibres pour nettoyeur de sols FC 5
 - 2 rouleaux de rechange gris en microfibres pour nettoyeur de sols FC 5
 - 60 mm x124 mm x209 mm
-- 2 rouleaux de rechange gris en microfibres pour nettoyeur de sols FC 5
-- fabriqué en Lituanie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N2WLZ24/?tag=tolees0d-21)
