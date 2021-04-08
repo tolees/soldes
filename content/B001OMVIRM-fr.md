@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hoover H 60 4 Sacs Aspirateur Freemotion avec 64.38 % rabais '
-date: 2021-03-31 12:12:50
+date: 2021-04-08 15:07:30
 image: 'https://m.media-amazon.com/images/I/416v2qGBE-L._SL400_.jpg'
 comments: true
 category: ofertas

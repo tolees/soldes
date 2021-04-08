@@ -28,9 +28,9 @@ C'est en vente [be quiet! BL064 Ventilateur PC 120 mm  Noir](https://www.amazon.
 
 ℹ️:
 
+- Système de roulement dynamique-fluide
+- Fonctionnement virtuellement inaudible
 - Flux d’air à 100% PWM / 12V (CFM / m3/h):50.5 / 80.47
 - niveau sonore à 16,4 Dba
-- Fonctionnement virtuellement inaudible
-- Système de roulement dynamique-fluide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01JMEQPBW/?tag=tolees0d-21)
