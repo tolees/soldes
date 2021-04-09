@@ -28,10 +28,10 @@ C'est en vente [Nouvelle Manette Xbox avec adaptateur sans fil Windows 10](https
 
 ℹ️:
 
-- Jouez sur tous vos appareils Connectez jusquà 8 contrôleurs sans fil Xbox en même temps et jouez ensemble en sans-fil sur des PC Windows 10 grâce à ladaptateur sans fil Xbox inclus.
-- et branchez nimporte quel casque compatible avec une prise audio Jack de 3,5 mm*. Avec le bouton de partage capturez et partagez des contenus tels que des captures décran, des enregistrements
-- Profils de contrôleurs personnalisés Utilisez lapplication Xbox Accessories pour redéfinir les boutons et créer des profils de manettes personnalisés pour vos jeux préférés*,
-- Vous pouvez rapidement jumeler et passer dun PC Windows 10, dune Xbox Series X|S, dune Xbox One, dun téléphone Android ou dune tablette
 - Confort de jeu accru Découvrez le la manette sans fil Xbox, avec ses surfaces texturées et sa cro ix directionnelle modernisée pour un confort de jeu accru et une meilleure précision
+- Vous pouvez rapidement jumeler et passer dun PC Windows 10, dune Xbox Series X|S, dune Xbox One, dun téléphone Android ou dune tablette
+- Jouez sur tous vos appareils Connectez jusquà 8 contrôleurs sans fil Xbox en même temps et jouez ensemble en sans-fil sur des PC Windows 10 grâce à ladaptateur sans fil Xbox inclus.
+- Profils de contrôleurs personnalisés Utilisez lapplication Xbox Accessories pour redéfinir les boutons et créer des profils de manettes personnalisés pour vos jeux préférés*,
+- et branchez nimporte quel casque compatible avec une prise audio Jack de 3,5 mm*. Avec le bouton de partage capturez et partagez des contenus tels que des captures décran, des enregistrements
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JW5DR79/?tag=tolees0d-21)

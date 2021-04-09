@@ -28,11 +28,11 @@ Vous avez [Lion sabatier 860180 Planche tiroir 5 Couteaux Idéal forgé](https:/
 
 ℹ️:
 
-- Manche polymère
 - Garantie : 1 an(s)
-- Fabrication française
-- Lame acier inox
 - Description du produit: La référence des couteaux pour les chefs français. Entièrement forgé et fabriqué en France dans le bassin thiernois, la collection Idéal laitons vous apporte le plus haut niveau dexigence. Cest la collection de référence des chefs.
+- Manche polymère
+- Lame acier inox
 - 100% Forgé
+- Fabrication française
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B010FKHGRE/?tag=tolees0d-21)
