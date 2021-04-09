@@ -28,11 +28,11 @@ Vous avez [Vans Filmore Decon  Baskets Homme  Canvas/Black/White  41 EU](https:/
 
 ℹ️:
 
+- Doublure : Textile
+- Fermeture : Lacets
+- Type de talons : Plat
 - Semelle intérieure : Synthétique
 - Dessus : Toile
 - Matériau de semelle : Caoutchouc
-- Fermeture : Lacets
-- Type de talons : Plat
-- Doublure : Textile
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FXKBT8W/?tag=tolees0d-21)
