@@ -29,9 +29,9 @@ Vous avez [Brother CX70PE  Patchwork Edition  – Machine à coudre électroniqu
 ℹ️:
 
 - COUTURE SANS PEDALE : Grace à sa touche Start/Stop vous pouvez l’utiliser sans pédale. Touche marche arrière. Bobineur automatique e choix position d’arrêt de l’aiguille
-- ROBUSTE : Idéale pour tous les projets de Couture grâce à son Robuste crochet rotatif et à son Bâti en métal
-- PRISE EN MAIN FACILE : Enfileur d’aiguille et système simplifié de positionnement canette
-- SPECIALE POUR LES TISSUS DIFFICILES : L’excellent système d’entrainement à 6 griffes vous permettra de piquer toutes sortes de tissus, même les plus difficiles comme le jeans ou plusieurs couches superposées. Garantie Brother de 3 ans
 - COMPLETE : Electronique avec 70 points de couture y compris points décoratifs
+- ROBUSTE : Idéale pour tous les projets de Couture grâce à son Robuste crochet rotatif et à son Bâti en métal
+- SPECIALE POUR LES TISSUS DIFFICILES : L’excellent système d’entrainement à 6 griffes vous permettra de piquer toutes sortes de tissus, même les plus difficiles comme le jeans ou plusieurs couches superposées. Garantie Brother de 3 ans
+- PRISE EN MAIN FACILE : Enfileur d’aiguille et système simplifié de positionnement canette
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CZHN96M/?tag=tolees0d-21)
