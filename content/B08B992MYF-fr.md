@@ -28,15 +28,15 @@ Vous avez [Xiaomi - Poco X3 NFC - Smartphone Débloqué 4G  6 67 Pouces - 6Go RA
 
 ℹ️:
 
-- Le POCO X3 NFC comprend une grande batterie de 5160 mAh, pour une utilisation sur plusieurs jours.
-- Le POCO X3 comprend une prise jack 3,5 mm pour vous permettre de brancher vos haut-parleurs ou vos écouteurs filaires.
-- Le POCO X3 NFC comprend une prise jack 3,5 mm pour vous permettre de brancher vos haut-parleurs filaires ou vos écouteurs.
-- Le POCO X3 comprend une quad caméra avec IA avec un capteur principal de 64MP, peut prendre des photos ultra grand angle de 119° et possède un Mode portrait et Mode macro.
-- Le POCO X3 NFC comprend le dernier processeur Octa-Core Qualcomm Snapdragon 732G.
-- Le POCO X3 NFC dispose dun écran de 6.67" ultra rapide de 120Hz pour une navigation plus fluides.
 - Le POCO X3 NFC dispose d’une caméra selfie perforées de 20 MP.
 - Le POCO X3 inclut le NFC, permettant le paiement sans contact via Google Pay.
+- Le POCO X3 NFC dispose dun écran de 6.67" ultra rapide de 120Hz pour une navigation plus fluides.
+- Le POCO X3 comprend une prise jack 3,5 mm pour vous permettre de brancher vos haut-parleurs ou vos écouteurs filaires.
 - Le POCO X3 NFC se charge via USB-C et supporte la charge rapide de 33W. Le chargeur rapide 33W est également inclus dans la boîte.
+- Le POCO X3 NFC comprend une grande batterie de 5160 mAh, pour une utilisation sur plusieurs jours.
 - included_components: Housse de protection simple
+- Le POCO X3 NFC comprend une prise jack 3,5 mm pour vous permettre de brancher vos haut-parleurs filaires ou vos écouteurs.
+- Le POCO X3 NFC comprend le dernier processeur Octa-Core Qualcomm Snapdragon 732G.
+- Le POCO X3 comprend une quad caméra avec IA avec un capteur principal de 64MP, peut prendre des photos ultra grand angle de 119° et possède un Mode portrait et Mode macro.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B992MYF/?tag=tolees0d-21)
