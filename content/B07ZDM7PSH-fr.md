@@ -28,11 +28,11 @@ C'est en vente [Xiaomi Redmi Note 8 Pro - Smartphone Débloqué 4G  6.53 Pouces 
 
 ℹ️:
 
-- Quatre caméras arrière. Caméra principale ultra HD 64MP
 - Processeur G90T liquidcool System
 - 4500mAh (Typa) high-capacité batterie
-- Affichage: Verre Corning Gorilla 5 | Résolution daffichage: 2340x1080 FHD+
-- Résolution photo : jusquà 9248 x 6936 pixels
 - Écran 6.53” FHD+ Dot Drop Display
+- Quatre caméras arrière. Caméra principale ultra HD 64MP
+- Résolution photo : jusquà 9248 x 6936 pixels
+- Affichage: Verre Corning Gorilla 5 | Résolution daffichage: 2340x1080 FHD+
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZDM7PSH/?tag=tolees0d-21)
