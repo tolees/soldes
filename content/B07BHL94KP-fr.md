@@ -29,9 +29,9 @@ Vous avez [JASHKE Monoculaire Vision Nocturne Infrarouge Chasse Lunettes IR 850n
 ℹ️:
 
 - [Capture nocturne de haute qualité]: offre une expérience visuelle parfaite dans lobscurité totale. Convient à une variété dutilisations, telles que la surveillance, la chasse nocturne et lexploration de grottes.
-- [Excellent effet]: Leffet réel de la vision nocturne de chasse est meilleur que celui des clients.
-- [Multifonction] Prise de vue transparente sur écran 5 , appareil photo réglable à 360 degrés, lampe de poche infrarouge coulissante de 5 watts
-- [Performance anti-vibration]: Convient aux petits fusils, aux pistolets à balles souples et aux fusils.
 - [Mode demploi]: Facile à utiliser, peut être assemblé rapidement conformément au manuel du produit.
+- [Performance anti-vibration]: Convient aux petits fusils, aux pistolets à balles souples et aux fusils.
+- [Multifonction] Prise de vue transparente sur écran 5 , appareil photo réglable à 360 degrés, lampe de poche infrarouge coulissante de 5 watts
+- [Excellent effet]: Leffet réel de la vision nocturne de chasse est meilleur que celui des clients.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BHL94KP/?tag=tolees0d-21)
