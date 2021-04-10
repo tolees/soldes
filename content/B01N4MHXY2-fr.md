@@ -28,9 +28,9 @@ Vous avez [FJÄLLRÄVEN Fjällglim Shirt Ls M T-Shirt à Manches Longues Homme N
 
 ℹ️:
 
-- Deux poches poitrine, une avec rabat et lautre avec zip
-- Couleur : Night Sky
 - Fonction manches retroussées, col boutonné.
+- Couleur : Night Sky
 - Chemise à manches longues
+- Deux poches poitrine, une avec rabat et lautre avec zip
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N4MHXY2/?tag=tolees0d-21)
