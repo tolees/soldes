@@ -28,10 +28,10 @@ Vous avez [Belkin Chargeur double USB-PD  68 W  Boost Charge avec technologie 
 
 ℹ️:
 
-- Technologie GaN (Nitrure de gallium) pour un chargeur de haute performance, léger et compact
-- Lexception Belkin : technologie de pointe et innovation depuis plus de 35 ans
-- Recharge d’un MacBook Pro 15" jusqu’à 50 % en 60 minutes
 - Recharge rapide d’un iPhone 8 (ou version ultérieure) jusqu’à 50 % en 30 minutes*, un smartphone USB-C comme le Google Pixel jusqu’à 50 % en 37 minutes et un iPad Pro jusqu’à 50 % en 60 minutes**
 - Compatibilité : Galaxy S21, S21+, S21 Ultra, S20 Ultra, S20+, S20, Note20 Ultra, Note 20, Pixel 4, iPhone 12 Pro Max, 12 Pro, 12, 12 mini, etc.
+- Recharge d’un MacBook Pro 15" jusqu’à 50 % en 60 minutes
+- Technologie GaN (Nitrure de gallium) pour un chargeur de haute performance, léger et compact
+- Lexception Belkin : technologie de pointe et innovation depuis plus de 35 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086H4FTC8/?tag=tolees0d-21)
