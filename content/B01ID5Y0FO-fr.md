@@ -29,7 +29,7 @@ Vous avez [Dujardin Jeux - Power Quest](https://www.amazon.fr/dp/B01ID5Y0FO/?tag
 ℹ️:
 
 - Enfile ton Power Gilet et fonce, de la rapidité , de laction et du suspens avec une technologie innovante de détections de mouvements
-- Ne convient pas aux enfants de moins de 3 ans. À utiliser sous la surveillance d’un adulte
 - 2 gilets avec détecteur de mouvement, 2 cartes SD (non fonctionnantes), 1 règle du jeu
+- Ne convient pas aux enfants de moins de 3 ans. À utiliser sous la surveillance d’un adulte
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01ID5Y0FO/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [PHILIPS DPA - Philips FM12FD75B pen drive clé USB 3.0 128gb snow](ht
 
 ℹ️:
 
-- Super vitesse USB 3.0 (compatible avec USB 2.0)
 - Capacités de stockage disponibles: 8 Go, 16 Go, 32 Go, 64 Go et 128 Go
 - 128Gb/Go
+- Super vitesse USB 3.0 (compatible avec USB 2.0)
 - Boîtier blanc neige
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00M6TJMT8/?tag=tolees0d-21)
