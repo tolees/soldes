@@ -28,8 +28,8 @@ Vous avez [Bandai Namco Entertainment - The Dark Pictures: Little Hope  PS4 ](ht
 
 ℹ️:
 
-- Echappez aux apparitions cauchemardesques qui vous traquent sans répit avant quelles nemportent vos mes en enfer.
 - Jouez en ligne avec un ami ou jusquà 5 joueurs hors ligne, partagez votre histoire et coopérez pour parvenir à sauver tous vos personnages…
+- Echappez aux apparitions cauchemardesques qui vous traquent sans répit avant quelles nemportent vos mes en enfer.
 - Soyez les témoins de visions du passé, hantées par les chasses aux sorcières dandover du 17E siècle.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CRZ12NG/?tag=tolees0d-21)

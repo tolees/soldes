@@ -28,12 +28,12 @@ C'est en vente [Superga 2750 Cotu Classic  Baskets Mixte  White  42 EU](https://
 
 ℹ️:
 
-- Semelle en caoutchouc vulcanisé.
+- Superga Tab sur les côtés et le talon
 - Coton respirant.
 - Œillets en relief Superga
 - Collection : 2013
-- Matière : Toile
-- Superga Tab sur les côtés et le talon
 - Fermeture : Lacets
+- Matière : Toile
+- Semelle en caoutchouc vulcanisé.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001PHBQHI/?tag=tolees0d-21)

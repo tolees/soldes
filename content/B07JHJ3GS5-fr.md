@@ -29,8 +29,8 @@ C'est en vente [Rieker 64673 Femme Chaussures d été Chaussures à Talon Ouvert
 ℹ️:
 
 - Matière supérieure: Synthétique, Semelle extérieure: Gomme / Synthétique, Semelle de recouvrement: microvelours
-- Rieker 64673 Chaussures Femmes dame Sandales,chaussures dété,chaussures à talon ouvert,talon haut,féminin
 - Type de talon: Bloc, Hauteur du talon: 5.1 cm
 - Largeur: normale, Type de fermeture: boucle, Façon: tisserand du sol
+- Rieker 64673 Chaussures Femmes dame Sandales,chaussures dété,chaussures à talon ouvert,talon haut,féminin
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JHJ3GS5/?tag=tolees0d-21)

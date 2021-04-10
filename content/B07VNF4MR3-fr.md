@@ -28,10 +28,10 @@ C'est en vente [Konyks Camini+  Caméra WiFi Full HD Motorisée  détection de M
 
 ℹ️:
 
-- ENTREPRISE FRANÇAISE | Notre assistance utilisateur est basée en France et répond à vos horaires, la notice dutilisation a été rédigée par notre équipe française tout comme lapplication Konyks gratuite
-- AUTOMATISATIONS | Lapplication Konyks permet de créer très facilement des automatismes, par exemple: SI il est plus de minuit ET que Camini+ détecte un mouvement ALORS allumer la lumière et la radio . Ce type de simulation de présence éloigne les visiteurs indésirables.
-- RESTEZ EN CONTACT AVEC VOTRE FOYER | La caméra connectée de Konyks Camini + est idéale pour un usage en intérieur. De jour comme de nuit, vous pouvez jeter un œil sur vos enfants restés seuls à la maison ou sur votre bébé qui dort dans la chambre. Equipée dun microphone vous pouvez parler depuis votre Smartphone et entendre vos interlocuteurs. Elle peut enregistrer des vidéos Full HD 1920×1080.
 - MOTORISEE AVEC SUIVI |Grâce au détecteur de mouvement intégré, la caméra repère les intrusions et vous envoie une notification avec photo sur votre Smartphone. Mieux encore, la caméra motorisée suivra du regard la cible repérée. L’angle proposé est de 355° à l’horizontale et 110° à la verticale.
+- RESTEZ EN CONTACT AVEC VOTRE FOYER | La caméra connectée de Konyks Camini + est idéale pour un usage en intérieur. De jour comme de nuit, vous pouvez jeter un œil sur vos enfants restés seuls à la maison ou sur votre bébé qui dort dans la chambre. Equipée dun microphone vous pouvez parler depuis votre Smartphone et entendre vos interlocuteurs. Elle peut enregistrer des vidéos Full HD 1920×1080.
+- AUTOMATISATIONS | Lapplication Konyks permet de créer très facilement des automatismes, par exemple: SI il est plus de minuit ET que Camini+ détecte un mouvement ALORS allumer la lumière et la radio . Ce type de simulation de présence éloigne les visiteurs indésirables.
 - CONTRÔLE VIA SMARTPHONE | Que vous soyez à la maison, au bureau ou nimporte où dans le monde vous pouvez voir tout ce qui se passe chez vous . Il suffit que vous ayez accès à Internet, en Wifi comme en 4G et vous pouvez piloter votre caméra, vérifier que tout se passe bien à votre domicile
+- ENTREPRISE FRANÇAISE | Notre assistance utilisateur est basée en France et répond à vos horaires, la notice dutilisation a été rédigée par notre équipe française tout comme lapplication Konyks gratuite
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VNF4MR3/?tag=tolees0d-21)

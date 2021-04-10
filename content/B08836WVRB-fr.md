@@ -28,15 +28,15 @@ Vous avez [Apple MacBook Pro  13 Pouces  16 Go RAM  1 to Stockage SSD  Magic 
 
 ℹ️:
 
-- Intel Iris Plus Graphics
-- Quatre ports Thunderbolt 3 (USB‑C)
-- Jusqu’à 10 heures d’autonomie
-- Processeur Intel Core i5 quadricœur de dixième génération
-- Magic Keyboard rétroéclairé
 - Touch Bar et Touch ID
-- Superbe écran Retina avec technologie True Tone
 - Wi‑Fi 802.11ac
-- Trackpad Force Touch
+- Superbe écran Retina avec technologie True Tone
+- Jusqu’à 10 heures d’autonomie
+- Intel Iris Plus Graphics
 - SSD ultra‑rapide
+- Processeur Intel Core i5 quadricœur de dixième génération
+- Quatre ports Thunderbolt 3 (USB‑C)
+- Trackpad Force Touch
+- Magic Keyboard rétroéclairé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08836WVRB/?tag=tolees0d-21)

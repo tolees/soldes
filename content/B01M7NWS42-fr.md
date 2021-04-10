@@ -28,8 +28,8 @@ Vous avez [GEOX Woman D JAYSEN SNEAKERS WHITE 42 EU](https://www.amazon.fr/dp/B0
 
 ℹ️:
 
+- Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 - Synthétique
 - Cuir Souple
-- Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M7NWS42/?tag=tolees0d-21)

@@ -29,10 +29,10 @@ C'est en vente [Samsonite Pro-DLX 5 - 17.3 Pouces Sac à Dos pour Ordinateur Por
 ℹ️:
 
 - Roulettes : Deux roulettes
-- Poches extérieures : Trois poches frontales
 - Bretelles : Bandoulières ergonomiques
-- Types de roues : Système de roulettes intégrées
+- Poches extérieures : Trois poches frontales
 - Poignée de traction : Poignée de traction monotube
+- Types de roues : Système de roulettes intégrées
 - Poignées : Poignée(s) haute(s) et poignée(s) inférieure(s)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DLSTKRD/?tag=tolees0d-21)

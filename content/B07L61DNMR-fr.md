@@ -28,10 +28,10 @@ C'est en vente [Tangle Teezer - Tangle Teezer Brosse démêlante pour cheveux f
 
 ℹ️:
 
-- Innovative deux dents sont super doux mais en toute confiance, démêler et à aider à réduire la casse
-- 5 x moins de cheveux cassés lors du brossage
 - Adaptée aux cheveux fins, fragiles et la couleur des cheveux colorés
-- soft-flex dents doucement massage du cuir chevelu pour une chevelure plus saine
+- 5 x moins de cheveux cassés lors du brossage
+- Innovative deux dents sont super doux mais en toute confiance, démêler et à aider à réduire la casse
 - Pour ne pas être utilisés avec la chaleur
+- soft-flex dents doucement massage du cuir chevelu pour une chevelure plus saine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07L61DNMR/?tag=tolees0d-21)

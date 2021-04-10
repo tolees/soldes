@@ -28,7 +28,7 @@ Vous avez [Magic Vac - VD50PK2 - Appareil de mise sous vide  130 watts  Gris](ht
 
 ℹ️:
 
-- Couleur : Gris
 - Puissance : 130 watts
+- Couleur : Gris
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CLCB54U/?tag=tolees0d-21)
