@@ -28,10 +28,10 @@ C'est en vente [CASIO Montre DW-5600BBMB-1ER](https://www.amazon.fr/dp/B07DY9VD8
 
 ℹ️:
 
+- Illuminator
+- Chronomètre 1/100 s - 24 heures
+- Alarme multiple, bip horaire
 - Classe détanchéité (20 bars)
 - Comptes à rebours - 1/1 sec - 24 heures
-- Illuminator
-- Alarme multiple, bip horaire
-- Chronomètre 1/100 s - 24 heures
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DY9VD85/?tag=tolees0d-21)
