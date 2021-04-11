@@ -28,10 +28,10 @@ C'est en vente [BABYBJÖRN Porte-bébé One Air  3D Mesh  Argent](https://www.am
 
 ℹ️:
 
-- Fonctionnalités améliorées et nouveau design
+- Physiologique, doux et confortable
 - Portage de 0 à 3 ans
 - Taille et largeur de l’assise entièrement réglables
-- Physiologique, doux et confortable
+- Fonctionnalités améliorées et nouveau design
 - Lavable en machine à 40°C
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0793BQTZT/?tag=tolees0d-21)
