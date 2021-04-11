@@ -28,8 +28,8 @@ C'est en vente [Nintendo - No More Heroes 3](https://www.amazon.fr/dp/B08WY69XS9
 
 ℹ️:
 
+- De retour après 10 ans, la saga No More Heroes ressurgit
 - et découvre une gigantesque île artificielle avec de nouveaux arrivants
 - Notre tueur à gage otaku complètement barré revient à Santa Destroy
-- De retour après 10 ans, la saga No More Heroes ressurgit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WY69XS9/?tag=tolees0d-21)
