@@ -28,7 +28,7 @@ Vous avez [Kai Europe DM-0600  INOX](https://www.amazon.fr/dp/B000LTHSJG/?tag=to
 
 ℹ️:
 
-- pierre à aiguiser japonaise KAI avec grains en 1000 et 6000
 - livrée sur socle antidérapant.
+- pierre à aiguiser japonaise KAI avec grains en 1000 et 6000
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000LTHSJG/?tag=tolees0d-21)
