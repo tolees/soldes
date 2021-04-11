@@ -28,10 +28,10 @@ Vous avez [Prise Connectée WIFI  TECKIN Prise intelligente 16A compatible avec 
 
 ℹ️:
 
-- Télécommande et commande vocale - Avec lapplication Smart Life/SmartThings, vous pouvez utiliser votre téléphone ou votre tablette pour contrôler plusieurs appareils de nimporte où, les deux appareils Android / iOS sont disponibles. Il est compatible avec Amazon Alexa, Echo, Echo Dog, Google Assistant, Google Home et Siri.
-- Amélioration de la performance - La prise intelligente Teckin a un courant maximum de 16 A, ce qui est compatible avec la plupart des appareils électroménagers.La prise est compatible uniquement avec les réseaux Wi-Fi 2,4 GHz.
 - Installation facile et conception sûre - Il suffit de télécharger l’application depuis le Google Play Store ou de scanner le QR code dans le manuel d’installation. La coque de la prise est faite de matériau ABS ignifugé, avec une protection contre la surchauffe et une protection à chaud.
 - Réglez lhoraire et les minuteries - Avec lapplication Smart Life, vous pouvez régler léclairage dune lampe au crépuscule ou maintenir votre maison confortable en programmant lallumage dun ventilateur avant votre arrivée.
+- Télécommande et commande vocale - Avec lapplication Smart Life/SmartThings, vous pouvez utiliser votre téléphone ou votre tablette pour contrôler plusieurs appareils de nimporte où, les deux appareils Android / iOS sont disponibles. Il est compatible avec Amazon Alexa, Echo, Echo Dog, Google Assistant, Google Home et Siri.
+- Amélioration de la performance - La prise intelligente Teckin a un courant maximum de 16 A, ce qui est compatible avec la plupart des appareils électroménagers.La prise est compatible uniquement avec les réseaux Wi-Fi 2,4 GHz.
 - Moniteur de puissance - Le module intelligent Teckin fournit des rapports en temps réel sur la consommation dénergie des équipements. Vous pouvez facilement surveiller et contrôler la consommation dénergie des appareils électroménagers à tout moment et en tout lieu, ce qui vous permet déconomiser de lénergie.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CDCYLQ6/?tag=tolees0d-21)
