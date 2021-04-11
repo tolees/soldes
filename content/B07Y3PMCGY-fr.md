@@ -28,10 +28,10 @@ C'est en vente [Western Digital - WD - My Book Duo - Disque dur externe USB 3.1 
 
 ℹ️:
 
-- 2 x ports hub USB 3.0
-- Capacité de stockage Massive avec sauvegarde système automatique
-- Raid-0 prêt à lemploi
-- Compatible USB 3.1 Gén. 1 et USB 3.0
 - Disques WD Red optimisés RAID
+- 2 x ports hub USB 3.0
+- Raid-0 prêt à lemploi
+- Capacité de stockage Massive avec sauvegarde système automatique
+- Compatible USB 3.1 Gén. 1 et USB 3.0
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07Y3PMCGY/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Just For Games - World of Tanks Collector s Edition](https://www.amaz
 
 ℹ️:
 
-- Reproduction authentique en PVC du Tiger 131 réalisée par le talentueux atelier Tsume Art - Echelle 1/32 ème
-- ✔ Des lithographies ✔ Un porte clés ✔ Un certificat d’authenticité
-- Le MMO culte dédié aux chars dassaut qui rassemble plus de 160 millions dadeptes dans le monde
-- ✔ Un artbook autour du jeu ✔ Des Blueprints ✔ Une souris gamer
 - 45€ de contenu bonus ingame
+- ✔ Des lithographies ✔ Un porte clés ✔ Un certificat d’authenticité
+- ✔ Un artbook autour du jeu ✔ Des Blueprints ✔ Une souris gamer
+- Reproduction authentique en PVC du Tiger 131 réalisée par le talentueux atelier Tsume Art - Echelle 1/32 ème
+- Le MMO culte dédié aux chars dassaut qui rassemble plus de 160 millions dadeptes dans le monde
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D2XPGLG/?tag=tolees0d-21)
