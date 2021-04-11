@@ -28,12 +28,12 @@ Vous avez [NETGEAR  GS308T  Smart Switch Ethernet manageable professionnel 8 Po
 
 ℹ️:
 
-- DESIGN DE BUREAU MODERNE : simple et élégant pour une utilisation dans nimporte quelle pièce ou nimporte quel bureau
-- FONCTIONNEMENT SILENCIEUX : la conception sans ventilateur reste silencieuse quel que soit lemplacement, ce qui convient parfaitement aux environnements sensibles au bruit.
-- CONFIGURATION DES PORTS ETHERNET : 8 ports Gigabit
 - EFFICACITE ENERGETIQUE : conçu pour optimiser lutilisation dénergie, ce qui réduit les coûts de fonctionnement. La plupart des modèles sont compatibles avec le mode Energy Efficient Ethernet IEEE802.3az.
-- CONFIGURATION ET CONTROLE AVANCES : le logiciel dadministration doté dune interface GUI facile à utiliser offre un contrôle avancé pour une configuration et un accès sécurisés, ainsi quune administration SNMP (NMS 300).
+- CONFIGURATION DES PORTS ETHERNET : 8 ports Gigabit
+- FONCTIONNEMENT SILENCIEUX : la conception sans ventilateur reste silencieuse quel que soit lemplacement, ce qui convient parfaitement aux environnements sensibles au bruit.
+- DESIGN DE BUREAU MODERNE : simple et élégant pour une utilisation dans nimporte quelle pièce ou nimporte quel bureau
 - GARANTIE SERENITE TOTALE : produit couvert par une garantie matérielle de premier plan limitée de 5 ans
 - CONÇU POUR DURER : chaque switch réseau NETGEAR est testé rigoureusement pour sa fiabilité, sa qualité et ses performances.
+- CONFIGURATION ET CONTROLE AVANCES : le logiciel dadministration doté dune interface GUI facile à utiliser offre un contrôle avancé pour une configuration et un accès sécurisés, ainsi quune administration SNMP (NMS 300).
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01NBTI474/?tag=tolees0d-21)

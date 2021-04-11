@@ -29,8 +29,8 @@ C'est en vente [Ravensburger- Jeu-Escape The Room Myst manoir  76315](https://ww
 ℹ️:
 
 - Un Escape game à domicile
-- Contenu du packaging : 1 Manuel dinstruction, 1 Carte de scène, 5 Enveloppes cachetées, des articles secrets (à lintérieur des enveloppes cachetées), 1 Roue de solutions
 - Age Minimum: 10 ans
 - Dimensions du pack: 26, 30 x 21 x 5, 10 cm
+- Contenu du packaging : 1 Manuel dinstruction, 1 Carte de scène, 5 Enveloppes cachetées, des articles secrets (à lintérieur des enveloppes cachetées), 1 Roue de solutions
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07C7WNDD7/?tag=tolees0d-21)

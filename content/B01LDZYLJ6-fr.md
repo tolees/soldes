@@ -28,10 +28,10 @@ Vous avez [Bosch Professional Perforateur SDS-Plus GBH 2-28  880 W  Force de fra
 
 ℹ️:
 
-- Meilleures performances de sa catégorie et puissance accrue
-- Puissance absorbée nominale : 880 W
 - Rotule à la base du câble (prévention des ruptures); Longueur du câble: 4,0 m
-- Force de frappe max : 3,2 J
+- Puissance absorbée nominale : 880 W
+- Meilleures performances de sa catégorie et puissance accrue
 - Meilleure protection de l’utilisateur grâce au KickBack Control (KBC) permettant de réduire le risque de blessure
+- Force de frappe max : 3,2 J
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LDZYLJ6/?tag=tolees0d-21)

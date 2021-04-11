@@ -28,10 +28,10 @@ C'est en vente [EpilWax - epilateur Liberty - chauffe cire epilation professionn
 
 ℹ️:
 
-- Grande capacite : La cuve chauffe cire de 800 ml vous permet de chauffer 800 grammes de cire tiède ou traditionnelle basse température. Maintenez la cire à la bonne température grâce à son thermostat réglable en degrés
-- Chauffe facile: choisissez la température et lappareil sarrêtera et gardera la cire à la bonne température automatiquement
 - Tous nos produits sont de qualité professionnelle et fabriqués en Italie. Certification aux normes Françaises et Européennes. Garantie 1 an
 - Ce chauffe-cire a déjà conquis de nombreux professionnels : instituts, spas, salons de beauté
+- Chauffe facile: choisissez la température et lappareil sarrêtera et gardera la cire à la bonne température automatiquement
 - Qualité professionnelle : Ce chauffe cire vous permet dobtenir des résultats impeccables et sans risques
+- Grande capacite : La cuve chauffe cire de 800 ml vous permet de chauffer 800 grammes de cire tiède ou traditionnelle basse température. Maintenez la cire à la bonne température grâce à son thermostat réglable en degrés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00C97KQ9M/?tag=tolees0d-21)

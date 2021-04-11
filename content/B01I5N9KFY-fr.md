@@ -28,9 +28,9 @@ C'est en vente [Popp Smart Home POPE010101 Thermostat de radiateur à commande �
 
 ℹ️:
 
-- Détection de fenêtre ouverte
 - Interrupteur interne de lobjectif pour 7 jours de la semaine jusquà 9 différentes températures au choix sont
 - Chauffage comme de la protection antigel ou économiser de lénergie
 - localement sur lappareil ou via Smart Home Application utilisable
+- Détection de fenêtre ouverte
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01I5N9KFY/?tag=tolees0d-21)
