@@ -28,7 +28,7 @@ C'est en vente [Armor Lux Marinière HOUAT Navire/Nature M](https://www.amazon.f
 
 ℹ️:
 
-- La marque de qualité
 - Depuis 1938
+- La marque de qualité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00G3APDTE/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Neosens Aurora  Sandales Bout Ouvert Femme  Beige  Wood Wood   40 EU]
 
 ℹ️:
 
-- Dessus : Autres Cuir
-- Fermeture : Boucle
 - Matériau de semelle : En Cuir
 - Doublure : Fourrure
+- Fermeture : Boucle
+- Dessus : Autres Cuir
 - Semelle intérieure : Fourrure
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MZ5L64F/?tag=tolees0d-21)
