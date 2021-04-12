@@ -28,8 +28,8 @@ Vous avez [Square Enix Oninaki  Nintendo Switch ](https://www.amazon.fr/dp/B07VS
 
 ℹ️:
 
-- Action-RPG: Découvrez un gameplay fluide au rythme effréné lors de batailles en temps réel. Affrontez vos ennemis à laide du système de combat Daemon et de différentes armes trépidantes
-- Personnalisation du personnage: Liez Kagachi, votre héros, à différents Daemons pour améliorer ses compétences et aptitudes au combat
 - Regardez Kagachi obtenir son pouvoir et se transformer pour augmenter ses niveaux dattaque
+- Personnalisation du personnage: Liez Kagachi, votre héros, à différents Daemons pour améliorer ses compétences et aptitudes au combat
+- Action-RPG: Découvrez un gameplay fluide au rythme effréné lors de batailles en temps réel. Affrontez vos ennemis à laide du système de combat Daemon et de différentes armes trépidantes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VSCJ2XK/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Corolle- Bébé Calin Manon Pays des Rêves Poupon  100270  Rose](htt
 
 ℹ️:
 
-- Dès 18 mois
-- Corps souple
 - Délicate senteur de vanille
 - Prend et garde les attitudes dun vrai bébé
+- Dès 18 mois
+- Corps souple
 - Petit poupon de 30 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082GM14LF/?tag=tolees0d-21)

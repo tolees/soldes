@@ -28,10 +28,10 @@ C'est en vente [Razer Basilisk Ultimate - Souris gaming sans fil avec 11 boutons
 
 ℹ️:
 
-- Boutons optiques de souris Razer: Tous les clics sont réalisés à la vitesse de la lumière sans délai anti-rebond, de sorte que vous serez le premier à appuyer sur la détente. Les boutons disposent également dune durée de vie allant jusquà 70 millions de clics
 - Capteur optique 20 K Razer Focus+ pour une précision hors norme: Grâce au capteur optique de 20 000 DPI, même le mouvement le plus petit de votre souris sera suivi. Ainsi, vous profiterez d’un niveau de précision extrêmement précis pour vos tirs gagnants et les manœuvres d’esquives
 - Technologie sans fil ultrarapide Razer HyperSpeed: Latence peu élevée, batterie durant jusqu’à 100 heures et changement de fréquence facile dans les environnements les plus bruyants
-- 11 boutons programmables: Assignez des macros et des fonctions secondaires pour un maximum de 11 boutons programmables, y compris la célèbre gâchette multifonctions, pour exécuter plusieurs mouvements rapides
+- Boutons optiques de souris Razer: Tous les clics sont réalisés à la vitesse de la lumière sans délai anti-rebond, de sorte que vous serez le premier à appuyer sur la détente. Les boutons disposent également dune durée de vie allant jusquà 70 millions de clics
 - 14 zones d’éclairage RGB Razer Chroma personnalisables: La Razer Basilisk Ultimate dispose de 14 zones d’éclairage Razer Chroma avec 16,8 millions de couleurs, qui illuminent parfaitement votre jeu. Chaque zone d’éclairage peut être programmée individuellement dans Chroma Studio
+- 11 boutons programmables: Assignez des macros et des fonctions secondaires pour un maximum de 11 boutons programmables, y compris la célèbre gâchette multifonctions, pour exécuter plusieurs mouvements rapides
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081QXPV1Y/?tag=tolees0d-21)

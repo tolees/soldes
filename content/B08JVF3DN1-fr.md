@@ -30,8 +30,8 @@ C'est en vente [Microsoft 4K Wireless Display Adapter - Adaptateur sans Fil Micr
 
 - Port HDMI (pour la diffusion) et USB (pour l’alimentation) requis sur l’écran de destination
 - Diffusion vidéo jusquà 30 fps
-- Utilisable sans connexion au réseau internet (Wifi direct) ou via Miracast over infrastructure pour une connexion fiabilisée
-- Partagez sur grand écran le contenu affiché sur votre ordinateur ou Smartphone Android
 - Compatible Windows 8.1, Windows 10 et Android
+- Partagez sur grand écran le contenu affiché sur votre ordinateur ou Smartphone Android
+- Utilisable sans connexion au réseau internet (Wifi direct) ou via Miracast over infrastructure pour une connexion fiabilisée
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JVF3DN1/?tag=tolees0d-21)
