@@ -28,10 +28,10 @@ Vous avez [Crocs Bistro  Sabots Mixte Adulte  Noir  Black  39/40 EU](https://www
 
 ℹ️:
 
-- Hersteller Artikelnummer: 10075-001
 - Weitere Informationen: Crocs At Work
-- Type: Sabots avec bride cheville
 - Farbe: noir
+- Type: Sabots avec bride cheville
 - Material: Croslite
+- Hersteller Artikelnummer: 10075-001
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0014JLYPQ/?tag=tolees0d-21)
