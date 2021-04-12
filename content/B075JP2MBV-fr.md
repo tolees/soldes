@@ -29,10 +29,10 @@ Vous avez [Timberland Bradstreet Chukka Leather  Bottines Homme  Noir  Black Nub
 ℹ️:
 
 - Fermeture : lacets
-- Semelle intérieure : synthétique
-- Matériau de semelle : caoutchouc
-- Doublure : textile
 - Dessus : cuir
 - Type de talons : plat
+- Matériau de semelle : caoutchouc
+- Doublure : textile
+- Semelle intérieure : synthétique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075JP2MBV/?tag=tolees0d-21)
