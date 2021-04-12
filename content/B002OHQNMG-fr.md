@@ -28,9 +28,9 @@ Vous avez [Inside Out Music - Addicted](https://www.amazon.fr/dp/B002OHQNMG/?tag
 
 ℹ️:
 
-- Catalog#: 0505072
-- Country Of Release: NLD
 - Record Label: Inside Out
+- Country Of Release: NLD
 - Year Of Release: 2009
+- Catalog#: 0505072
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002OHQNMG/?tag=tolees0d-21)
