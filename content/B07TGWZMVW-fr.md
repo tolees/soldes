@@ -28,10 +28,10 @@ C'est en vente [Amazon Basics Mètre ruban ouvert en fibre de verre Boîtier ré
 
 ℹ️:
 
+- Dimensions : 2,8 x 29,7 x 18,3 cm
 - Logement orange haute visibilité résistant aux chocs permettant de protéger le ruban enroulé
+- Extrémité avec crochet polyvalent permettant de bloquer facilement le ruban en position ; poignée en caoutchouc absorbant les chocs pour une prise en main sûre et confortable
 - Ruban anti-étirement et résistant à l’usure, en fibre de verre revêtu de vinyle (largeur 1,3 cm), pour une robustesse et une flexibilité fiables
 - Mètre ruban ouvert avec système de mesure métrique et impérial ; permet de mesurer jusqu’à 30 m
-- Extrémité avec crochet polyvalent permettant de bloquer facilement le ruban en position ; poignée en caoutchouc absorbant les chocs pour une prise en main sûre et confortable
-- Dimensions : 2,8 x 29,7 x 18,3 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TGWZMVW/?tag=tolees0d-21)

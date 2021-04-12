@@ -28,10 +28,10 @@ C'est en vente [PQube - Nexomon Extinction](https://www.amazon.fr/dp/B088G7FJL3/
 
 ℹ️:
 
-- Plongez-vous dans le monde de Nexomon - Découvrez des secret et des quêtes secondaires, rencontrez une multitude de personnages excentriques
-- Explorez un monde grouillant de Nexomon - Piégez et apprivoisez plus de 300 monstres de onze types élémentaires, chacun avec de puissantes évolutions
 - Rejoignez le combat et affrontez adversaires et ennemis dangereux dans des batailles au tour par tour magnifiquement animées
+- Explorez un monde grouillant de Nexomon - Piégez et apprivoisez plus de 300 monstres de onze types élémentaires, chacun avec de puissantes évolutions
 - Le monde est au bord de lextinction alors que le puissant tyran Nexomon se bat pour la domination sur les humains et les monstres. Rejoignez la guilde des dompteurs et commencez votre voyage épique
 - Nexomon Extinction est un retour aux jeux classiques de capture de monstres, avec une toute nouvelle histoire, des personnages excentriques et plus de 300 Nexomon uniques à piéger et à apprivoiser.
+- Plongez-vous dans le monde de Nexomon - Découvrez des secret et des quêtes secondaires, rencontrez une multitude de personnages excentriques
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088G7FJL3/?tag=tolees0d-21)
