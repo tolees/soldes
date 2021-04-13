@@ -29,12 +29,12 @@ C'est en vente [Razer Kraken Ultimate - Casque de jeu USB  Casque de jeu pour PC
 ℹ️:
 
 - Longueur du câble: 2 m
-- La clarté et les basses puissantes simulent une gamme de son étendue lorsque vous jouez. Quil sagisse de bruits de pas presque inaudibles ou dexplosions tonitruantes, le son de votre jeu vous sera retransmis avec une fidélité confondante de réalité.
-- Uniquement disponible sur Windows 10 64 bits
-- Découvrez le son surround 7.1 pour profiter dun son positionnel précis sur nimporte quel environnement de jeu, quil sagisse de champs de bataille aux explosions tonitruantes ou dopérations furtives.
-- Conçu pour être ultra-léger, pesant à peine 275 g, le casque vous fera profiter dun son de qualité supérieure lorsque vous jouez pendant des heures, sans avoir à subir son poids.
-- Le mode de captation cardioïde enregistre le son avec un angle plus petit. Cela garantit que les autres joueurs entendront parfaitement votre voix sans être dérangés par le bruit provenant des côtés et de larrière de votre micro.
-- La forme ovale recouverte de similicuir permet une mise en place confortable et un toucher moelleux. Le bandeau à glissière réglable vous offre plus de souplesse tout en conservant sa solidité face aux torsions et aux déformations dans le temps.
 - Jouez avec style tout en illuminant la concurrence d’un éclairage vert menaçant qui émane de chaque oreillette.
+- La clarté et les basses puissantes simulent une gamme de son étendue lorsque vous jouez. Quil sagisse de bruits de pas presque inaudibles ou dexplosions tonitruantes, le son de votre jeu vous sera retransmis avec une fidélité confondante de réalité.
+- Conçu pour être ultra-léger, pesant à peine 275 g, le casque vous fera profiter dun son de qualité supérieure lorsque vous jouez pendant des heures, sans avoir à subir son poids.
+- Uniquement disponible sur Windows 10 64 bits
+- La forme ovale recouverte de similicuir permet une mise en place confortable et un toucher moelleux. Le bandeau à glissière réglable vous offre plus de souplesse tout en conservant sa solidité face aux torsions et aux déformations dans le temps.
+- Le mode de captation cardioïde enregistre le son avec un angle plus petit. Cela garantit que les autres joueurs entendront parfaitement votre voix sans être dérangés par le bruit provenant des côtés et de larrière de votre micro.
+- Découvrez le son surround 7.1 pour profiter dun son positionnel précis sur nimporte quel environnement de jeu, quil sagisse de champs de bataille aux explosions tonitruantes ou dopérations furtives.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YT1KZPN/?tag=tolees0d-21)

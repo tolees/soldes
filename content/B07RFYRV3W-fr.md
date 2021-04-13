@@ -29,9 +29,9 @@ C'est en vente [Winsor & Newton Promarkers Coffret de 96 Marqueurs 0290152](http
 ℹ️:
 
 - Une pointe fine idéale pour réaliser des détails et des tracés de lignes
-- Une pointe large formidable pour réaliser des visuels rapides et remplir de grandes zones
+- Encre à séchage rapide, application uniforme, possible sur du papier, de lacétate, du verre, du bois ou du plastique
 - Des couleurs translucides parfaites pour dessiner par couche, excellentes pour les ombres et les dégradés
 - Marqueur à 2 pointes, une fine, une large
-- Encre à séchage rapide, application uniforme, possible sur du papier, de lacétate, du verre, du bois ou du plastique
+- Une pointe large formidable pour réaliser des visuels rapides et remplir de grandes zones
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RFYRV3W/?tag=tolees0d-21)

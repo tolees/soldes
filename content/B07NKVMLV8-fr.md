@@ -28,10 +28,10 @@ Vous avez [Diadermine - Expert Crème Eclat Intense Jour - Pot de 50 ml](https:/
 
 ℹ️:
 
+- Peaux matures et exigeantes. Texture réconfortante et veloutée, sans film gras
+- Crème de jour peau mature
 - Dès la 1ère application, votre teint est plus éclatant et lumineux
 - Stimule l’énergie cellulaire pour redonner au teint son éclat naturel
 - Dès 4 semaines d’application, la peau devient plus lisse, plus ferme. Son éclat est révélé, comme ravivé
-- Peaux matures et exigeantes. Texture réconfortante et veloutée, sans film gras
-- Crème de jour peau mature
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NKVMLV8/?tag=tolees0d-21)

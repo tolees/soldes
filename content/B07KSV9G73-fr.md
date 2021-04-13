@@ -29,9 +29,9 @@ C'est en vente [Garnier Fructis Masque Lissant Multi-Usages Macadamia  Pour Chev
 ℹ️:
 
 - Contenu : 1x Masque lissant Hair Food Garnier Fructis, Macadamia, 390 ml
-- Formule végane aux huiles végétales composée à 98% dingrédients dorigine naturelle et biodégradable à 96%, Testée dermatologiquement, Sans silicone pour un toucher naturel
+- Texture fondante absorbée en quelques secondes seulement pour une nutrition intense au cœur de la fibre capillaire et un démêlage instantané
 - Application 3-en-1 multi-usages : en démêlant ou en masque sur les cheveux mouillés, et en soin sans rinçage sur les cheveux secs ou mouillés
 - Masque lissant à la Macadamia pour les cheveux secs et rebelles, Adapté à tous les types de cheveux quils soient lisses ou bouclés
-- Texture fondante absorbée en quelques secondes seulement pour une nutrition intense au cœur de la fibre capillaire et un démêlage instantané
+- Formule végane aux huiles végétales composée à 98% dingrédients dorigine naturelle et biodégradable à 96%, Testée dermatologiquement, Sans silicone pour un toucher naturel
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KSV9G73/?tag=tolees0d-21)

@@ -29,7 +29,7 @@ Vous avez [L Oréal Professionnel Série Expert Aminexil Advanced Traitement Ant
 ℹ️:
 
 - TRAITEMENT INTENSIF : 1 dose par jour pendant 6 semaines consécutives. CURE DENTRETIEn : 3 doses minimum par semaine pendant 8 semaines consécutives. Utiliser la totalité de la dose par application, sur cheveux secs ou essorés après le shampooing
-- Cure anti-chute pour cheveux clairsemés
 - En seulement 42 jours dutilisation, il aide 8 000 cheveux à vivre plus longtemps
+- Cure anti-chute pour cheveux clairsemés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075YF2T8Z/?tag=tolees0d-21)

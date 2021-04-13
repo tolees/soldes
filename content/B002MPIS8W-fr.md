@@ -28,11 +28,11 @@ Vous avez [EGLO 83433 E Applique murale](https://www.amazon.fr/dp/B002MPIS8W/?ta
 
 ℹ️:
 
-- Le design simple et minimaliste ajoute une touche et donne à votre extérieur un style élégant et accueillant
-- Compatible avec nimporte quelle ampoule avec culot E27, puissance maximale par douille : 60 W
-- Les traverses marquantes et résistantes aux intempéries assurent un éclairage et un peu plus lumineux sur cette applique murale extérieure
-- Dimensions : hauteur 35 cm, longueur 20 cm, largeur 14,5 cm
-- Cette lampe extérieure résistante aux intempéries est protégée contre les projections deau (IP44). Ainsi, une utilisation en intérieur et en extérieur est sans souci comme par exemple jardin, terrasse, garage, balcon, abri de jardin, chemins ou allées
 - Lampoule nest pas incluse
+- Compatible avec nimporte quelle ampoule avec culot E27, puissance maximale par douille : 60 W
+- Dimensions : hauteur 35 cm, longueur 20 cm, largeur 14,5 cm
+- Le design simple et minimaliste ajoute une touche et donne à votre extérieur un style élégant et accueillant
+- Cette lampe extérieure résistante aux intempéries est protégée contre les projections deau (IP44). Ainsi, une utilisation en intérieur et en extérieur est sans souci comme par exemple jardin, terrasse, garage, balcon, abri de jardin, chemins ou allées
+- Les traverses marquantes et résistantes aux intempéries assurent un éclairage et un peu plus lumineux sur cette applique murale extérieure
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002MPIS8W/?tag=tolees0d-21)

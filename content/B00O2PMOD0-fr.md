@@ -28,9 +28,9 @@ Vous avez [Auralex Amp/Monitor Isolation Platform ISO Series 5 x 38 x 38 cm char
 
 ℹ️:
 
-- Fabriqué aux États-Unis
-- Isolant 1 KL. Combo, haut-parleurs ou caisson de basses
 - Acoustique Entkoppelnd
 - Couleur : anthracite
+- Isolant 1 KL. Combo, haut-parleurs ou caisson de basses
+- Fabriqué aux États-Unis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00O2PMOD0/?tag=tolees0d-21)
