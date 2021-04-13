@@ -28,10 +28,10 @@ Vous avez [Babymoov - Nutribaby Classic  Robot Multifonctions  Cuiseur Mixeur po
 
 ℹ️:
 
-- 5 EN 1 : le Nutribaby Classic cuit à la vapeur, mixe, décongèle, chauffe et stérilise des biberons. Idéal pour régaler votre bébé dès la naissance !
-- PLUSIEURS REPAS : grâce à sa capacité de 2100ml (1500ml pour la cuisson et 600ml pour le mixage), le Nutribaby Classic vous permet de préparer plusieurs repas à lavance pour votre bébé.
-- NOMBREUSES FONCTIONS : le Nutribaby Classic possède une minuterie, un arrêt automatique et 2 alarmes (sonore et visuelle) pour indiquer la fin dun cycle ou un niveau deau insuffisant.
-- Plus de 400 idées recettes pour bébé et toute la famille !
 - PRATIQUE : lécran LCD permet de choisir facilement la fonction que lon souhaite utiliser. La gestion de la cuisson se fait à la minute près pour préserver saveurs et nutriments.
+- PLUSIEURS REPAS : grâce à sa capacité de 2100ml (1500ml pour la cuisson et 600ml pour le mixage), le Nutribaby Classic vous permet de préparer plusieurs repas à lavance pour votre bébé.
+- Plus de 400 idées recettes pour bébé et toute la famille !
+- 5 EN 1 : le Nutribaby Classic cuit à la vapeur, mixe, décongèle, chauffe et stérilise des biberons. Idéal pour régaler votre bébé dès la naissance !
+- NOMBREUSES FONCTIONS : le Nutribaby Classic possède une minuterie, un arrêt automatique et 2 alarmes (sonore et visuelle) pour indiquer la fin dun cycle ou un niveau deau insuffisant.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00WFGI0JK/?tag=tolees0d-21)
