@@ -28,10 +28,10 @@ Vous avez [Philips HD6564/61 Machine à café à dosettes SENSEO Viva Café Duo 
 
 ℹ️:
 
+- 1 à 2 tasses à la fois
 - Technologie Crema Plus
 - Duo Select: variez le goût du café, un café plus riche en goût
 - Sélecteur dintensité (2 longueurs de café)
 - Technologie Booster darômes
-- 1 à 2 tasses à la fois
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FSRF6ZK/?tag=tolees0d-21)
