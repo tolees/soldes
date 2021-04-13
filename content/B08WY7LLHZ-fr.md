@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Nintendo - DC Super Hero Girls : Teen Po avec 16.67 % rabais '
-date: 2021-03-18 14:40:29
-image: 'https://m.media-amazon.com/images/I/51l+A6p4e6L._SL400_.jpg'
+date: 2021-04-13 17:40:35
+image: 'https://m.media-amazon.com/images/I/51l+A6p4e6L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,12 +24,12 @@ average: '49.99'
 
 C'est en vente [Nintendo - DC Super Hero Girls : Teen Power](https://www.amazon.fr/dp/B08WY7LLHZ/?tag=tolees0d-21)  à  16.67 % de réduction, prix final  49.99 EUR (original: 59.99 EUR) ici:
 
-[![Nintendo - DC Super Hero Girls : Teen Po](https://m.media-amazon.com/images/I/51l+A6p4e6L._SL400_.jpg)](https://www.amazon.fr/dp/B08WY7LLHZ/?tag=tolees0d-21)
+[![Nintendo - DC Super Hero Girls : Teen Po](https://m.media-amazon.com/images/I/51l+A6p4e6L._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08WY7LLHZ/?tag=tolees0d-21)
 
 ℹ️:
 
-- arnez Wonder Woman, Supergirl et Batgir
+- La justice n’attend pas, le combat encore moins ! Incarnez
 - sauvez Metropolis des super-vilaines
-- La justice n’attend pas, le combat encore moins ! arnez
+- Incarnez Wonder Woman, Supergirl et Batgir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WY7LLHZ/?tag=tolees0d-21)
