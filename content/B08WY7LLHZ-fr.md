@@ -28,8 +28,8 @@ C'est en vente [Nintendo - DC Super Hero Girls : Teen Power](https://www.amazon.
 
 ℹ️:
 
+- La justice n’attend pas, le combat encore moins ! Incarnez
 - sauvez Metropolis des super-vilaines
 - Incarnez Wonder Woman, Supergirl et Batgir
-- La justice n’attend pas, le combat encore moins ! Incarnez
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WY7LLHZ/?tag=tolees0d-21)
