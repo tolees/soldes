@@ -1,32 +1,37 @@
 ---
 layout: post
-title: 'EL1600USBFR ELLIP ECO 1600 USB avec 44.47 % rabais '
-date: 2020-05-22 21:56:02
-image: 'https://m.media-amazon.com/images/I/314QEYI3C0L._SL400_.jpg'
+title: 'Onduleur Eaton Ellipse ECO 1600 USB FR – avec 46.58 % rabais '
+date: 2021-04-14 15:43:24
+image: 'https://m.media-amazon.com/images/I/314QEYI3C0L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B0052QV9QG-fr EL1600USBFR ELLIP ECO 1600 USB'
+slug: 'B0052QV9QG-fr Onduleur Eaton Ellipse ECO 1600 USB FR – Off-Line UPS –...'
 sku: 'B0052QV9QG-fr'
-tags: [  ]
-actualPrice: 259.89 EUR
+tags: [ 'Accessoires IT','Informatique','Onduleurs','Onduleurs et accessoires','eaton', ]
+actualPrice: 249.99 EUR
 currency: EUR
-price: 259.89
+price: 249.99
 comparePrice: 467.99 EUR
-prodname: 'EL1600USBFR ELLIP ECO 1600 USB'
+prodname: 'Onduleur Eaton Ellipse ECO 1600 USB FR – Off-Line UPS – EL1600USBFR – 1600VA  8 prises FR '
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: 'Eaton'
 buyurl: 'https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21'
-descuento: '44.47'
-average: '259.89'
+descuento: '46.58'
+average: '254.94'
 ---
 
-C'est en vente [EL1600USBFR ELLIP ECO 1600 USB](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)  à  44.47 % de réduction, prix final  259.89 EUR (original: 467.99 EUR) ici:
+C'est en vente [Onduleur Eaton Ellipse ECO 1600 USB FR – Off-Line UPS – EL1600USBFR – 1600VA  8 prises FR ](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)  à  46.58 % de réduction, prix final  249.99 EUR (original: 467.99 EUR) ici:
 
-[![EL1600USBFR ELLIP ECO 1600 USB](https://m.media-amazon.com/images/I/314QEYI3C0L._SL400_.jpg)](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)
+[![Onduleur Eaton Ellipse ECO 1600 USB FR –](https://m.media-amazon.com/images/I/314QEYI3C0L._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)
 
 ℹ️:
 
+- Fonction économie d’énergie jusqu’à 25%
+- Ellipse ECO 1600 VA / 1000 watts
+- 8 prises sorties FR : 4 prises protection contre les surtensions + batterie de secours, 4 prise protection contre les surtensions uniquement - protection téléphone / fax / modem / réseau 10/100 (RJ45)
+- 24 mois de garantie eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
+- Pas de ventilateur, pas de bruit (sauf la tonalité dalarme en cas d’évènements)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0052QV9QG/?tag=tolees0d-21)
