@@ -28,12 +28,12 @@ C'est en vente [Jabra Tour - Kit Mains Libres Bluetooth pour Voiture - Version F
 
 ℹ️:
 
-- Diffusion multimédia – GPS, musique et podcasts
-- Auto on/off avec capteur de mouvements intégré
-- Jusquà 20 heures de temps de conversation et 40 jours de veille
-- Haut-parleur puissant de 3 watts gage dun excellent son - HD Mic* pour une meilleure annulation du bruit
-- Multiuse - se connecte simultanément à 2 périphériques Bluetooth
 - Guidage vocal pour lidentifiant de lappelant, létat de la batterie, la configuration et bien plus encore
+- Haut-parleur puissant de 3 watts gage dun excellent son - HD Mic* pour une meilleure annulation du bruit
 - Voice Control vous permet de passer et prendre des appels avec le son de votre voix
+- Auto on/off avec capteur de mouvements intégré
+- Multiuse - se connecte simultanément à 2 périphériques Bluetooth
+- Diffusion multimédia – GPS, musique et podcasts
+- Jusquà 20 heures de temps de conversation et 40 jours de veille
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00B5DZVDM/?tag=tolees0d-21)
