@@ -28,10 +28,10 @@ C'est en vente [PNY MOBEE Stabilisateur 3-Axes Gimbal pour Smartphone  GoPro](ht
 
 ℹ️:
 
-- Révélez le moment présent en Time-lapse ou Slow motion
-- Voyez grand grâce à la fonction panorama
-- STABILITE: Explorez le monde en toute stabilité avec le stabilisateur 3-axes PNY MOBEE. Emmenez-le partout avec vous pour capturez vos plus beaux souvenirs
-- FONCTIONS AVANCEES: Capturez le mouvement avec la fonction de suivi du visage ou dobjet, Révélez le moment présent en Time-lapse ou Slow motion,
 - AUTONOMIE: avec une autonomie de 12 heures, le stabilisateur PNY MOBEE vous permet aussi de charger votre smartphone en USB. Plus question de manquer un instant !
+- Révélez le moment présent en Time-lapse ou Slow motion
+- STABILITE: Explorez le monde en toute stabilité avec le stabilisateur 3-axes PNY MOBEE. Emmenez-le partout avec vous pour capturez vos plus beaux souvenirs
+- Voyez grand grâce à la fonction panorama
+- FONCTIONS AVANCEES: Capturez le mouvement avec la fonction de suivi du visage ou dobjet, Révélez le moment présent en Time-lapse ou Slow motion,
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TVT7R7K/?tag=tolees0d-21)
