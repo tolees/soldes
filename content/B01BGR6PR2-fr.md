@@ -28,10 +28,10 @@ Vous avez [Schwarzkopf Perfect Mousse Coloration Permanente 210 Noir Glacé - Et
 
 ℹ️:
 
-- Formule enrichie en soie liquide nutritive pour une couleur riche et intense.
 - ENROULEZ la mèche sur elle-même pour permettre au masque soin de pénétrer dans la fibre capillaire et répétez cette technique sur chaque mèche
-- PRENEZ une mèche de cheveux, appliquez une noisette de masque soin sur les longueurs
-- Notre secret pour une couleur parfaite ? Perfect Mousse par Schwarzkopf ! Grâce à sa texture mousse, la coloration à domicile n’a jamais été aussi facile.
 - ENVELOPPEZ l’ensemble de votre chevelure dans une serviette chaude pendant quelques minutes, rincez généreusement et profitez de vos cheveux irrésistiblement doux au toucher
+- Notre secret pour une couleur parfaite ? Perfect Mousse par Schwarzkopf ! Grâce à sa texture mousse, la coloration à domicile n’a jamais été aussi facile.
+- Formule enrichie en soie liquide nutritive pour une couleur riche et intense.
+- PRENEZ une mèche de cheveux, appliquez une noisette de masque soin sur les longueurs
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01BGR6PR2/?tag=tolees0d-21)

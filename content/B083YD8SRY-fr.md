@@ -28,10 +28,10 @@ Vous avez [Garnier Fructis Hair Food Démêlant Réparateur à Papaye pour Cheve
 
 ℹ️:
 
-- Contenu: 1x soin démêlant Garnier Fructis Hair Food, parfum: papaye
-- Après votre shampooing, appliquez, massez sur cheveux mouillés et rincez abondamment
-- Soin démêlant Vega à la papaye et à 98% dingrédients dorigine naturelle. Répare et démêle
-- Des cheveux démêlés, réparés en profondeur et en pleine santé
 - Fructis crée son 1er démêlant Vega à 98% dingrédients dorigine naturelle: Hair Food. Sa texture fondante pénètre instantanément et se rince facilement pour réparer et démêler rapidement
+- Des cheveux démêlés, réparés en profondeur et en pleine santé
+- Après votre shampooing, appliquez, massez sur cheveux mouillés et rincez abondamment
+- Contenu: 1x soin démêlant Garnier Fructis Hair Food, parfum: papaye
+- Soin démêlant Vega à la papaye et à 98% dingrédients dorigine naturelle. Répare et démêle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083YD8SRY/?tag=tolees0d-21)

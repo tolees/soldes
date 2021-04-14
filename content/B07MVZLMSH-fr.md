@@ -28,10 +28,10 @@ C'est en vente [N.A.E. - Déodorant Bio Rafraîchissant - Freschezza - 50 ml](ht
 
 ℹ️:
 
+- Produit en France
 - 24 h de protection contre les odeurs
-- Formule VEGAN
 - Extraits de romarin & de feuilles de thym bio - Antitache
 - Déodorant Freschezza certifié BIO
-- Produit en France
+- Formule VEGAN
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MVZLMSH/?tag=tolees0d-21)

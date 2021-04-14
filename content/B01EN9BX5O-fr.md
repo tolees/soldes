@@ -28,10 +28,10 @@ C'est en vente [Whiskas Sélection Classique en Sauce – Nourriture humide pour
 
 ℹ️:
 
-- Avec du zinc pour favoriser une peau saine et un pelage brillant
-- Nourriture pour chat adulte 100% complète et équilibrée, sans arôme, colorant ni agent de conservation artificiel
 - Disponible dans des sachets de 100g en gelée ou en sauce
+- Nourriture pour chat adulte 100% complète et équilibrée, sans arôme, colorant ni agent de conservation artificiel
 - Les repas pour chats de plus d’un an ont une teneur équilibrée en minéraux pour contribuer au bon fonctionnement urinaire
 - Les sachets de nourriture humide pour chats Whiskas contiennent des morceaux nutritifs et savoureux pour donner à votre chat les repas quil aime
+- Avec du zinc pour favoriser une peau saine et un pelage brillant
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01EN9BX5O/?tag=tolees0d-21)

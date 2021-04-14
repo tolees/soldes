@@ -28,10 +28,10 @@ C'est en vente [Molotow Marqueur Liquid Chrome  avec encre spéciale pour effet 
 
 ℹ️:
 
-- Les marqueurs à pompe fonctionnent sur presque toutes les surfaces. Le mieux est une surface lisse, non absorbante comme le plastique, le cuir verni ou le bois. Pour une utilisation en intérieur ou en extérieur
-- Le premier marqueur dont lencre spéciale ressemble à du chrome liquide. Lencre hautement pigmentée crée un effet miroir et est conçue pour la scène de graffitis, de loisirs et de D.I.Y.
+- Lencre est à base dalcool, très opaque, permanente et résistante aux UV. La pointe est remplaçable et les crayons sont rechargeables.
 - Un véritable hype a été créé autour du stylet, en utilisant lencre Custom Painting, Illustration ou Modélisme.
 - Contenu de la livraison : lot de 3 marqueurs à pompe Liquid Chrome, largeur de trait : 1 mm, 2 mm et 4 mm. Couleur de lencre : chrome
-- Lencre est à base dalcool, très opaque, permanente et résistante aux UV. La pointe est remplaçable et les crayons sont rechargeables.
+- Les marqueurs à pompe fonctionnent sur presque toutes les surfaces. Le mieux est une surface lisse, non absorbante comme le plastique, le cuir verni ou le bois. Pour une utilisation en intérieur ou en extérieur
+- Le premier marqueur dont lencre spéciale ressemble à du chrome liquide. Lencre hautement pigmentée crée un effet miroir et est conçue pour la scène de graffitis, de loisirs et de D.I.Y.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RS3C1JZ/?tag=tolees0d-21)

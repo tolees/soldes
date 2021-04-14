@@ -28,10 +28,10 @@ Vous avez [Microids - Qui Veut Gagner des Millions  Xbox One ](https://www.amazo
 
 ℹ️:
 
-- Le mode Battle Royale donnera au joueur l’occasion d’affronter jusqu’à 99 adversaires, le dernier joueur à être en lice finit Top 1 et devient le grand vainqueur !
 - Le jeu met le multijoueur à l’honneur, avec la possibilité de jouer jusqu’à 10 en local, et jusqu’à 100 en ligne !
 - Sélectionnez les thèmes qui vous plaisent le plus pour vous entraîner sur des sessions spécialisées, pour parfaire votre culture générale et améliorez vos chances de gagner le jackpot !
-- Retrouvez le suspense et l’ambiance inégalable de l’émission culte « Qui veut gagner des millions ».
 - Un mode Famille adapté aux enfants est inclus pour permettre aux joueurs de tout âge de s’amuser avec les adultes, avec des questions adaptées à chaque candidat
+- Retrouvez le suspense et l’ambiance inégalable de l’émission culte « Qui veut gagner des millions ».
+- Le mode Battle Royale donnera au joueur l’occasion d’affronter jusqu’à 99 adversaires, le dernier joueur à être en lice finit Top 1 et devient le grand vainqueur !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08H2KVYFY/?tag=tolees0d-21)

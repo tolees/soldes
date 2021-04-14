@@ -28,9 +28,9 @@ Vous avez [Le Petit Marseillais Savon Solide Verveine & Citron - Action Antibact
 
 ℹ️:
 
-- Enrichi en glycérine et testé dermatologiquement
-- Ce savon traditionnel est saponifié à partir dhuiles végétales
-- Ce savon lave en douceur votre peau et libère un parfum floral pour un vrai moment de plaisir
 - Les savons ont une action antibactérienne dans le cadre d’un lavage des mains rigoureux. En plus, les savons du Petit Marseillais sentent bon la Provence !
+- Ce savon traditionnel est saponifié à partir dhuiles végétales
+- Enrichi en glycérine et testé dermatologiquement
+- Ce savon lave en douceur votre peau et libère un parfum floral pour un vrai moment de plaisir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005F5JBD2/?tag=tolees0d-21)

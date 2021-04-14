@@ -29,7 +29,7 @@ Vous avez [Brabantia 481208 Distributeur de Savon Fingerprint Proof en Acier Ino
 ℹ️:
 
 - Facile à remplir – grande ouverture
-- Convient aussi pour les shampooings, lotions, etc.
 - Facile à démonter pour un nettoyage complet
+- Convient aussi pour les shampooings, lotions, etc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PUDCPFU/?tag=tolees0d-21)

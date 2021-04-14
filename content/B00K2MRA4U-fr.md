@@ -28,9 +28,9 @@ Vous avez [Salomon Soft Reservoir Poche A Eau Universelle Capacité 1 5 L Pour T
 
 ℹ️:
 
-- Tuyau flexible de 90 cm de long, Compatible avec tous les sacs à dos Salomon, Pièce de courbure protégeant le tuyau lors dune utilisation en configuration standard à lépaule, Sortie du tuyau au choix : vers le haut ou sur le côté
 - Hydratation facile et rapide grâce au système Plug-n-Play et sa valve avec système marche/arrêt, Valve "Click" permettant de détacher le tuyau de la poche à eau même lorsque celle-ci est pleine
 - Contenu : 1x Réservoir Universel 15 L Salomon, SOFT RESERVOIR, Matériaux : Silicone/Polypropylène/Polyuréthane thermoplastique/ABS/Polyoxyméthylène, Poids : 120 g
 - Matériau en TPU (polyuréthane thermoplastique) sans PVC ni bisphénol-A, Poche réversible pour un nettoyage facile
+- Tuyau flexible de 90 cm de long, Compatible avec tous les sacs à dos Salomon, Pièce de courbure protégeant le tuyau lors dune utilisation en configuration standard à lépaule, Sortie du tuyau au choix : vers le haut ou sur le côté
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00K2MRA4U/?tag=tolees0d-21)

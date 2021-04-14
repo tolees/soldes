@@ -28,10 +28,10 @@ C'est en vente [Diadermine - Eau Micellaire - Express 3 en 1 - 400 ml](https://w
 
 ℹ️:
 
-- Le visage et les yeux sont parfaitement nettoyés
 - La peau est hydratée, apaisée et incroyablement douce
-- Démaquillant visage et yeux
+- Le visage et les yeux sont parfaitement nettoyés
 - LEAU MICELLAIRE EXPRESS 3 EN 1 de DIADERMINE contient des micelles, particules qui capturent instantanément le maquillage, le sébum et les dépôts de poussières
 - Grâce à sa formule à lAloe Vera et au Panthénol, la peau est purifiée, sans être desséchée
+- Démaquillant visage et yeux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073BVDKGQ/?tag=tolees0d-21)

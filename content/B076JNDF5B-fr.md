@@ -28,10 +28,10 @@ C'est en vente [Naturé Moi – Shampooing purifiant à l extrait de thym et de 
 
 ℹ️:
 
+- Livraison : shampooing purifiant de 250ml Naturé Moi / Avec parfum aux accords rafraîchissants / Jusquà 99% biodégradable pour une éthique animale et planétaire
+- Une association unique : ce shampooing à lextrait de thym et de citron de Provence bio réduit lexcès de sébum - pour un moment de douceur et de légèreté
 - Un produit aux ingrédients doux pour lenvironnement : le shampooing purifiant a un impact minime sur la faune et la flore aquatiques / Il est à 97% biodégradable !
 - Ce produit Naturé Moi est fabriqué en France, avec des ingrédients dorigine 95% naturelle - prenez soin de la planète, prenez soin de vos cheveux
 - Douchez-vous différemment ! Avec un parfum aux accords rafraîchissants, ce shampooing nourrit et purifie le cuir chevelu à tendance grasse en leur donnant de la souplesse
-- Livraison : shampooing purifiant de 250ml Naturé Moi / Avec parfum aux accords rafraîchissants / Jusquà 99% biodégradable pour une éthique animale et planétaire
-- Une association unique : ce shampooing à lextrait de thym et de citron de Provence bio réduit lexcès de sébum - pour un moment de douceur et de légèreté
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076JNDF5B/?tag=tolees0d-21)
