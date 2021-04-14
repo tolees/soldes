@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'Hasbro e2512100?Star Wars Ma?tre des pou avec 19.86 % rabais '
-date: 2021-04-07 08:52:15
-image: 'https://m.media-amazon.com/images/I/51kv3ujKL3L._SL400_.jpg'
+date: 2021-04-14 16:27:47
+image: 'https://m.media-amazon.com/images/I/51kv3ujKL3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '39.99'
 
 C'est en vente [Hasbro e2512100?Star Wars Ma?tre des pouvoir lumi?re ?p?e  rev?tement  les jeunes](https://www.amazon.fr/dp/B07C33LRJZ/?tag=tolees0d-21)  à  19.86 % de réduction, prix final  39.99 EUR (original: 49.9 EUR) ici:
 
-[![Hasbro e2512100?Star Wars Ma?tre des pou](https://m.media-amazon.com/images/I/51kv3ujKL3L._SL400_.jpg)](https://www.amazon.fr/dp/B07C33LRJZ/?tag=tolees0d-21)
+[![Hasbro e2512100?Star Wars Ma?tre des pou](https://m.media-amazon.com/images/I/51kv3ujKL3L._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07C33LRJZ/?tag=tolees0d-21)
 
 ℹ️:
 

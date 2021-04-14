@@ -28,10 +28,10 @@ C'est en vente [Squirt Clean Long Lasting Chain lube 120ml](https://www.amazon.f
 
 ℹ️:
 
-- Contenance : 120 ml.
+- Passage des vitesses amélioré.
 - Cire pour chaînes pour conditions humides et sèches.
 - Moins de blocages.
 - Moins de frottements.
-- Passage des vitesses amélioré.
+- Contenance : 120 ml.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00ANNR15G/?tag=tolees0d-21)
