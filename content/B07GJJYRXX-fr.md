@@ -28,10 +28,10 @@ C'est en vente [DJI Mavic 2 Pro - Drone avec Caméra Hasselblad L1D-20c  Vidéos
 
 ℹ️:
 
-- DÉTAILS AMÉLIORÉS : Le nouveau capteur CMOS de 1 pouce est doté d’une zone de détection active quatre fois plus efficace que celle du Mavic Pro d’origine
-- DLOG-M 10 Bits : Le Mavic 2 Pro prend en charge un profil de couleur Dlog-M 10 bits qui offre une plus grande gamme dynamique pour une meilleure flexibilité dans la salle d’étalonnage
-- OUVERTURE RÉGABLE : L’ouverture réglable f/2.8 – f/11 offre une qualité dimage exceptionnelle aussi bien dans les environnements à forte luminosité que dans les environnements peu éclairés
 - MAVIC 2 PRO : Le drone Mavic 2 Pro est équipé dune caméra Hasselblad L1D-20C que vous permet de capturer des photos aériennes de 20 mégapixels avec un niveau de détail extraordinaire
+- DLOG-M 10 Bits : Le Mavic 2 Pro prend en charge un profil de couleur Dlog-M 10 bits qui offre une plus grande gamme dynamique pour une meilleure flexibilité dans la salle d’étalonnage
 - VIDÉO HDR : Avec la prise en charge du format 4K HDR 10 bits, le Mavic 2 Pro peut être branché sur un téléviseur 4K avec HLG et rejouera immédiatement les vidéos avec les bonnes tonalités de couleur
+- OUVERTURE RÉGABLE : L’ouverture réglable f/2.8 – f/11 offre une qualité dimage exceptionnelle aussi bien dans les environnements à forte luminosité que dans les environnements peu éclairés
+- DÉTAILS AMÉLIORÉS : Le nouveau capteur CMOS de 1 pouce est doté d’une zone de détection active quatre fois plus efficace que celle du Mavic Pro d’origine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GJJYRXX/?tag=tolees0d-21)

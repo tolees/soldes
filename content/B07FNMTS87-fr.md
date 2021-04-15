@@ -28,10 +28,10 @@ C'est en vente [LEGO®-DUPLO® Rescue La caserne de pompiers Jeu de construction
 
 ℹ️:
 
-- La caserne des pompiers mesure plus de 26 cm de haut, 25 cm de large et 12 cm de profondeur. Le camion des pompiers mesure plus de 10 cm de haut, 14 cm de long et 7 cm de large
 - Inclut 2 figurines de pompiers LEGO DUPLO ainsi quune figurine de chien
+- 76 pièces pour les filles et les garçons de 2 ans et plus
 - Construisez la caserne de pompiers LEGO DUPLO
 - Les ensembles LEGO DUPLO sont compatibles avec tous les ensembles de construction LEGO DUPLO pour une expérience de construction sans limite
-- 76 pièces pour les filles et les garçons de 2 ans et plus
+- La caserne des pompiers mesure plus de 26 cm de haut, 25 cm de large et 12 cm de profondeur. Le camion des pompiers mesure plus de 10 cm de haut, 14 cm de long et 7 cm de large
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNMTS87/?tag=tolees0d-21)
