@@ -28,8 +28,8 @@ Vous avez [Le Petit Marseillais Gel Douche Extra Doux Figue de Provence 250 ml](
 
 ℹ️:
 
-- Votre peau libère un parfum vert et fleuri
 - Lave en douceur votre peau grâce à sa mousse légère,
+- Votre peau libère un parfum vert et fleuri
 - Le Gel Douche à la Figue de Provence du Petit Marseillais
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07KWKPX94/?tag=tolees0d-21)

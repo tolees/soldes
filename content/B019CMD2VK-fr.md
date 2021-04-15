@@ -28,10 +28,10 @@ Vous avez [Easy dort - Lot de 3 draps Housse Coton - 70x160 - anis Blanc Turquoi
 
 ℹ️:
 
-- Coloris doux et actuels: anis blanc turquoise
-- Fabriqué en Union Européenne
 - Jersey extensible 100% coton
 - Lot de 3 draps housse pour lit bébé/enfant taille 70x160 cm
+- Fabriqué en Union Européenne
 - Certifié Oekotex standard 100 classe I
+- Coloris doux et actuels: anis blanc turquoise
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B019CMD2VK/?tag=tolees0d-21)

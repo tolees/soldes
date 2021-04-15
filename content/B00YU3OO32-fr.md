@@ -28,8 +28,8 @@ Vous avez [Rowenta Filtre Charbon Actif Purificateurs d air Intense Pur Air XL X
 
 ℹ️:
 
+- Particules filtrées : fumées, odeurs, polluants chimiques
 - Filtre à charbon actif compatible les purificateurs dair Intense Pure Air XL Rowenta
 - Couleur : Noir
-- Particules filtrées : fumées, odeurs, polluants chimiques
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00YU3OO32/?tag=tolees0d-21)
