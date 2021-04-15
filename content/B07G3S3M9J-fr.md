@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO 75948 Harry Potter La tour de l’hor avec 24.00 % rabais '
-date: 2021-04-12 23:25:20
+date: 2021-04-14 23:22:29
 image: 'https://m.media-amazon.com/images/I/51EqLQG0MKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21'
 descuento: '24.00'
-average: '76.898629032258'
+average: '76.8961930294905'
 ---
 
 C'est en vente [LEGO 75948 Harry Potter La tour de l’horloge de Poudlard   Jeu de Construction](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)  à  24.00 % de réduction, prix final  75.99 EUR (original: 99.99 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [LEGO 75948 Harry Potter La tour de l’horloge de Poudlard
 
 ℹ️:
 
-- La tour de l’horloge de Poudlard mesure 35 cm de haut, 34 cm de long et 18 cm de large; contient 922 pièces.
-- Comporte un mécanisme de changement d’horloge pour créer des aventures dans le temps Time-Turner, et une fonction de «danse» pour que le bal de Noël bouge vraiment
 - Les lieux incluent la salle de classe Défense contre les forces du mal, le bureau de Dumbledore, l’aile de l’hôpital, la salle de bains des préfets et une scène de bal de Noël
+- La tour de l’horloge de Poudlard mesure 35 cm de haut, 34 cm de long et 18 cm de large; contient 922 pièces.
 - Toutes les figurines viennent avec des baguettes et leurs costumes de boule de Noël avec une scène comprenant 2 tables glacées, une sculpture glacée constructible et un sapin de Noël
 - Construisez la tour de lhorloge du château de Poudlard LEGO à 3 niveaux avec des lieux emblématiques et 8 figurines extraites des films de Harry Potter
+- Comporte un mécanisme de changement d’horloge pour créer des aventures dans le temps Time-Turner, et une fonction de «danse» pour que le bal de Noël bouge vraiment
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)
