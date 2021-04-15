@@ -29,7 +29,7 @@ C'est en vente [Nintendo - The Legend of Zelda : Skyward Sword HD](https://www.a
 ℹ️:
 
 - pour retrouver son amie denfance, Zelda
-- qui doit voyager entre un monde situé au-dessus des nuages et les vastes contrées inconnues
 - Cette aventure conte le récit de Link,
+- qui doit voyager entre un monde situé au-dessus des nuages et les vastes contrées inconnues
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WY79KJ5/?tag=tolees0d-21)
