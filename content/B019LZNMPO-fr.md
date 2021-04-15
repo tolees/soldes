@@ -28,15 +28,15 @@ C'est en vente [Plaque Induction 2 feux-Candy CDI30 - Plaque de cuisson Inductio
 
 ℹ️:
 
+- Puissance totale 3500W PUISSANCE / DIAMETRE DES ZONES
+- Puissance foyer AR/AV (en W) : 18 CM -1800W / 14 CM-1500W
 - Verre vitrocéramique noir
 - Minuteur
+- Commandes sensitives
 - Dimensions de lencastrement (LxPxE en cm) : 26.8 / 50 / 5.6
 - Largeur 30 cm
-- Vérrouillage des commandes
-- Commandes sensitives
-- Puissance foyer AR/AV (en W) : 18 CM -1800W / 14 CM-1500W
-- Dimensions produit (LxP en cm) : 28.8 / 52
-- Puissance totale 3500W PUISSANCE / DIAMETRE DES ZONES
 - Témoin de chaleur résiduelle
+- Vérrouillage des commandes
+- Dimensions produit (LxP en cm) : 28.8 / 52
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B019LZNMPO/?tag=tolees0d-21)
