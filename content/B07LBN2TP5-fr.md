@@ -28,10 +28,10 @@ C'est en vente [Kappa Tunes Oc  Sneakers Basses Homme   White 1010   40 EU](http
 
 ℹ️:
 
+- Bon pour les pieds : le bord de la tige rembourré et la semelle intérieure confortable maximisent le confort de port.
 - Baskets classiques et élégantes au design sobre. Le matériau extérieur en maille respirante souligne le style tendance des individualistes. Les baskets sadaptent parfaitement avec un jean, un legging ou un chino.
 - Semelle Phylone ultra légère : les baskets super légères sont adaptées pour tous les jours. Que ce soit pour de longues excursions en ville ou pour une excursion prolongée au vert, avec Kappa Tunes OC, vous allez comme sur des nuages
-- Respirant : le matériau extérieur est respirant. La semelle extérieure flexible est particulièrement légère. Le laçage classique stabilise le pied.
 - Kappa culte : le logo Kappa sur le côté fait de ces baskets un accroche-regard sportif.
-- Bon pour les pieds : le bord de la tige rembourré et la semelle intérieure confortable maximisent le confort de port.
+- Respirant : le matériau extérieur est respirant. La semelle extérieure flexible est particulièrement légère. Le laçage classique stabilise le pied.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07LBN2TP5/?tag=tolees0d-21)

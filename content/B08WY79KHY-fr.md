@@ -29,7 +29,7 @@ C'est en vente [Nintendo - Miitopia](https://www.amazon.fr/dp/B08WY79KHY/?tag=to
 ℹ️:
 
 - et regardez-les interagir dans des scènes absurdes et hilarantes !
-- Ici, c’est vous qui faites le casting :
 - donnez-leur un rôle
+- Ici, c’est vous qui faites le casting :
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WY79KHY/?tag=tolees0d-21)
