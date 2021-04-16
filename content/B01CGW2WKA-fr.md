@@ -28,10 +28,10 @@ Vous avez [Ravensburger- Jeu Educatif- L heure- A partir de 5 ans- 24072](https:
 
 ℹ️:
 
-- Grâce au jeu, ils sont invités à acquérir ces notions tout en s’amusant ! A travers plusieurs modes de jeu évolutifs.
-- Apprentissage de lheure : La compréhension du temps qui passe et la lecture de l’heure sont des acquis fondamentaux qui aident l’enfant à comprendre le fonctionnement du monde.
-- Un jeu évolutif pour comprendre la chronologie de la journée
-- Ce jeu favorise ainsi la compréhension de la notion du temps, l’apprentissage de la lecture de l’heure analogique, digitale et littérale et la capacité de raisonnement.
 - A chaque étape, les enfants jouent à tourner les aiguilles de la grande horloge et apprennent petit à petit à déchiffrer l’heure.
+- Un jeu évolutif pour comprendre la chronologie de la journée
+- Grâce au jeu, ils sont invités à acquérir ces notions tout en s’amusant ! A travers plusieurs modes de jeu évolutifs.
+- Ce jeu favorise ainsi la compréhension de la notion du temps, l’apprentissage de la lecture de l’heure analogique, digitale et littérale et la capacité de raisonnement.
+- Apprentissage de lheure : La compréhension du temps qui passe et la lecture de l’heure sont des acquis fondamentaux qui aident l’enfant à comprendre le fonctionnement du monde.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CGW2WKA/?tag=tolees0d-21)

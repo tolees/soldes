@@ -28,8 +28,8 @@ Vous avez [Jokari T70000 Couteau de câble système 4-70](https://www.amazon.fr/
 
 ℹ️:
 
-- Contrôle TÜV/GS
 - La petite fenêtre sur le manche permet d’observer le tracé de la coupure. Le Design du nouveau JOKARI, fait sur mesure, offre un confort d’utilisation.
+- Contrôle TÜV/GS
 - Pour dénuder tous les câbles ronds courants, le nouveau mécanisme protecteur de la lame crochet évite les blessures et offre une sécurité optimale.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01CGW12XI/?tag=tolees0d-21)

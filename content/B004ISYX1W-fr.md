@@ -29,9 +29,9 @@ C'est en vente [metabo 636619000 S2 M/CT Plus Mandrin Futuro  Couleur](https:/
 ℹ️:
 
 - Ø extérieur : 42,9 mm
-- Filet intérieur : 1/2"-20 UNF
-- Longueur (fermé) : 72,4 mm
-- Poids : 0,3 kg
 - Ouverture : 1,5 - 13 mm
+- Filet intérieur : 1/2"-20 UNF
+- Poids : 0,3 kg
+- Longueur (fermé) : 72,4 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004ISYX1W/?tag=tolees0d-21)
