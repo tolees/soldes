@@ -28,8 +28,8 @@ Vous avez [Capcom - Resident Evil 7 Biohazard  PSVR Compatible  pour PS4](https:
 
 ℹ️:
 
-- 1 x disque de jeu
-- La prochaine entrée majeure de la célèbre série résidente du méchant marque un nouveau changement radical
 - Playstation 4 - jeu daction
+- La prochaine entrée majeure de la célèbre série résidente du méchant marque un nouveau changement radical
+- 1 x disque de jeu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TQNC5L2/?tag=tolees0d-21)

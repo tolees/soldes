@@ -28,8 +28,8 @@ Vous avez [Pampers Couches Premium Protection Taille 5  11-16kg  notre N°1 pour
 
 ℹ️:
 
-- Le cœur super absorbant absorbe instantanément le liquide pour garder votre bébé bien au sec et lui offrir jusqu’à 12 h de protection contre les fuites
 - L’indicateur d’urine devient bleu lorsque la couche a besoin d’être changée
+- Le cœur super absorbant absorbe instantanément le liquide pour garder votre bébé bien au sec et lui offrir jusqu’à 12 h de protection contre les fuites
 - Le voile supérieux doux et micro-aéré permet un confort supérieur tout en éloignant l’humidité de la peau de votre bébé
 - Pour le confort de votre bébé, les côtés extensibles sont plus doux et s’adaptent délicatement à son ventre
 - Testées dermatologiquement et certifiées par le label indépendant Standard 100 by Oeko-Tex

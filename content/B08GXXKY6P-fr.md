@@ -28,10 +28,10 @@ Vous avez [SanDisk Carte Mémoire microSDXC Ultra 512 Go + Adaptateur SD. Vitess
 
 ℹ️:
 
-- Des vitesses de transfert jusquà 120 Mo/s pour déplacer jusquà 1 000 photos par minute
-- Jusquà 1 To pour stocker encore plus de vidéos Full HD
 - Un chargement des applis plus rapide grâce à des performances de classe A1
-- Classe 10 pour enregistrer et visionner des vidéos Full HD
 - Idéale pour les smartphones et tablettes Android, et les appareils photo hybrides
+- Classe 10 pour enregistrer et visionner des vidéos Full HD
+- Jusquà 1 To pour stocker encore plus de vidéos Full HD
+- Des vitesses de transfert jusquà 120 Mo/s pour déplacer jusquà 1 000 photos par minute
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GXXKY6P/?tag=tolees0d-21)

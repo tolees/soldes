@@ -28,8 +28,8 @@ C'est en vente [Pikmin 3 - Deluxe Edition  Nintendo Switch ](https://www.amazon.
 
 ℹ️:
 
-- De nouvelles missions inédites mettant en scène les héros des précédents opus
-- Une piklopédie (encyclopédie liée aux créatures et plantes)
 - Un rééquilibrage des ennemis et de nouveaux modes de difficulté
+- Une piklopédie (encyclopédie liée aux créatures et plantes)
+- De nouvelles missions inédites mettant en scène les héros des précédents opus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FCXFHV3/?tag=tolees0d-21)
