@@ -28,8 +28,8 @@ Vous avez [Jacob Delafon E72090-CP FAIRFAX Mitigeur de lavabo avec vidage en Mé
 
 ℹ️:
 
-- Débit limité à 12 l/mn
 - Cartouche à disques céramique, excellente durabilité
+- Débit limité à 12 l/mn
 - Chrome brillant et résistant garanti 10 ans
 - Installation facile flexibles dalimentation fournis et prémontés
 
