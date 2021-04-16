@@ -28,11 +28,11 @@ Vous avez [Belkin BSV603ca2M 6 prises Sans port USB - Blanc](https://www.amazon.
 
 ℹ️:
 
-- Protégez tous les appareils électroniques de votre bureau ou de votre domicile contre les fluctuations de courant jusquà 650 joules grâce à ce parafoudre qui protège les trois lignes électriques
-- Absorbe le surplus dénergie pour éviter les dégâts électriques. Il régule lalimentation pour maintenir lintégrité des données. Et il contient/étouffe tout incendie provoqué par une surtension
-- Pointe maximale Tension : 6000V
-- Le boitier protège les circuits contre le feu. Lindicateur LED vous prévient si votre prise secteur nest pas conforme. Les clapets vous permettent de protéger vos enfants contre les incidents
-- Si votre dispositif est endommagé alors que la connexion au parafoudre est correcte, Belkin le réparera ou le remplacera à hauteur de 35 000 € (dans le cas où le chargeur a été vendu par par Amazon)
 - Cordon dalimentation de 2 m : Grâce à ce cordon dalimentation de 2 m de long, la multiprise parafoudre ne vous gêne pas et vos appareils bénéficient dune alimentation électrique optimale
+- Si votre dispositif est endommagé alors que la connexion au parafoudre est correcte, Belkin le réparera ou le remplacera à hauteur de 35 000 € (dans le cas où le chargeur a été vendu par par Amazon)
+- Protégez tous les appareils électroniques de votre bureau ou de votre domicile contre les fluctuations de courant jusquà 650 joules grâce à ce parafoudre qui protège les trois lignes électriques
+- Pointe maximale Tension : 6000V
+- Absorbe le surplus dénergie pour éviter les dégâts électriques. Il régule lalimentation pour maintenir lintégrité des données. Et il contient/étouffe tout incendie provoqué par une surtension
+- Le boitier protège les circuits contre le feu. Lindicateur LED vous prévient si votre prise secteur nest pas conforme. Les clapets vous permettent de protéger vos enfants contre les incidents
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00NLYV2MC/?tag=tolees0d-21)
