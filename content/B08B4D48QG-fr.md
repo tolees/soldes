@@ -28,9 +28,9 @@ Vous avez [Banpresto Dragonball Z Figuration Vol. 1 Figure SSJ Gogeta 16 cm BP16
 
 ℹ️:
 
+- superbe figurine de collection en plastique rigide avec un grand soin pour les couleurs et détails.
 - produit de haute qualité
 - produit officiel banpresto.
 - le produit est vendu dans sa boîte dorigine.
-- superbe figurine de collection en plastique rigide avec un grand soin pour les couleurs et détails.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08B4D48QG/?tag=tolees0d-21)

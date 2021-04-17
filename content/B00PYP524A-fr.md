@@ -30,7 +30,7 @@ Vous avez [Set de bit de pilote de torsion de Dewalt DT70541T-QZ  40 pièces](ht
 
 - Excellente tenue, portée, stabilité
 - 1/6 cm à 1 cm Adaptateur de conversion.
-- N° de modèle : BPSCA DT70541T-QZ - TL18334
 - Nombre darticles : 1
+- N° de modèle : BPSCA DT70541T-QZ - TL18334
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00PYP524A/?tag=tolees0d-21)
