@@ -28,8 +28,8 @@ C'est en vente [iRobot Accessoire Officiel - Kit d entretien pour Roomba de sér
 
 ℹ️:
 
-- Le kit comprend trois filtres haute efficacité AeroForce, un lot d’extracteurs AeroForce sans enchevêtrements et deux brosses latérales
 - Accessoire officiel iRobot Roomba
 - Compatible avec le Roomba série 800 et 900 uniquement
+- Le kit comprend trois filtres haute efficacité AeroForce, un lot d’extracteurs AeroForce sans enchevêtrements et deux brosses latérales
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00P9XTVDK/?tag=tolees0d-21)

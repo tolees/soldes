@@ -28,10 +28,10 @@ C'est en vente [BOXY GIRLS Le pack jumbo de + de 33 accessoires pour les poupée
 
 ℹ️:
 
-- Une collection géniale pour les petites filles
 - Chacune des 2 poupées est livrée avec 13 colis shopping : au total + de 33 accessoires à découvrir !
-- Le JUMBO PACK est un coffret spécial composé de 2 nouvelles poupées "MYSTÈRE" à découvrir et à collectionner
 - Chaque poupée mesure 21cm
+- Le JUMBO PACK est un coffret spécial composé de 2 nouvelles poupées "MYSTÈRE" à découvrir et à collectionner
+- Une collection géniale pour les petites filles
 - Poupées articulées des bras et des jambes pour réaliser des photos ultra Fashion
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07X5BYQZ9/?tag=tolees0d-21)
