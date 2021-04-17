@@ -29,7 +29,7 @@ C'est en vente [INTEX Aire de jeux alligator](https://www.amazon.fr/dp/B07XL2F95
 ℹ️:
 
 - Possibilité de relier le petit alligator avec le tuyau darrosage pour garder les enfants au frai durant lété
-- Convient aux enfants de 2 ans et plus
 - Est inclus ; un toboggan, 1 ombrelle champignon, 1 alligator, 1 bébé canard et 1 seau de pêche
+- Convient aux enfants de 2 ans et plus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XL2F95D/?tag=tolees0d-21)
