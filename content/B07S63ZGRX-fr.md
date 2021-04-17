@@ -28,7 +28,7 @@ C'est en vente [Crocs Classic Clog Kids  Obstruction unisexe pour Enfants  Canta
 
 ℹ️:
 
-- Crocs
 - Matériau de semelle : synthétique
+- Crocs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07S63ZGRX/?tag=tolees0d-21)
