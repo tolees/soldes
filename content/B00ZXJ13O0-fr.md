@@ -28,10 +28,10 @@ Vous avez [Home - Bloc Home 6 prises 16A + inter Blanc - câble HO5VV-F 3G1 1 5m
 
 ℹ️:
 
-- Câble HO5VV-F 3G1,0 mm² dune longueur de 1,5 mètres
-- Interrupteur à pied
 - Dernière prise excentrée
 - Conforme aux normes NF, CE et parafoudre EN 61643-11
+- Câble HO5VV-F 3G1,0 mm² dune longueur de 1,5 mètres
 - Bloc multiprise 6x16A (2P+T) avec fiche parafoudre pour protéger tous vos appareils électriques connectés
+- Interrupteur à pied
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZXJ13O0/?tag=tolees0d-21)
