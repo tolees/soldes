@@ -28,10 +28,10 @@ Vous avez [Imou Caméra de Surveillance WiFi Interieur  caméra IP Wi-FI FHD 10
 
 ℹ️:
 
-- PROTECTION DES DONNÉES PERSONNELLES DE NIVEAU BANCAIRE Étant l’un des tout premiers fabricants à nous conformer au RGPD, nous avons déployé des serveurs locaux en Europe et adopté une technologie de chiffrement TLS avancée pour protéger vos données personnelles. Vous seul avez accès aux données stockées sur la carte micro SD, le cloud Imou ou le NVR
 - NE MANQUEZ AUCUN DÉTAIL : Une optique en verre full HD 1080p fournit des images et vidéos cristallines, même dans l’obscurité totale, grâce à la fonctionnalité de vision nocturne comme en plein jour, renforcée par un éclairage IR et un algorithme de traitement de l’image professionnel
-- WIFI 2.4Ghz Uniquement: Cette caméra de surveillance WiFi ne peut fonctionner quavec le wifi 2.4Ghz et ne prend pas en charge le Wifi 5GHz. Veuillez utiliser le wifi 2,4 GHz lors de la configuration.
+- PROTECTION DES DONNÉES PERSONNELLES DE NIVEAU BANCAIRE Étant l’un des tout premiers fabricants à nous conformer au RGPD, nous avons déployé des serveurs locaux en Europe et adopté une technologie de chiffrement TLS avancée pour protéger vos données personnelles. Vous seul avez accès aux données stockées sur la carte micro SD, le cloud Imou ou le NVR
 - MODE CONFIDENTIALITÉ PRATIQUE POUR L’UTILISATEUR : Un appui sur l’application Imou permet de masquer l’objectif de la caméra afin de protéger votre intimité, partout et quand vous en avez besoin
 - SUIVI AUTOMATIQUE DU MOUVEMENT Ranger Pro suit automatiquement l’activité, enregistre en temps réeldes vidéos et envoie immédiatement des alertes à votre smartphone en cas de déclenchement par un mouvement
+- WIFI 2.4Ghz Uniquement: Cette caméra de surveillance WiFi ne peut fonctionner quavec le wifi 2.4Ghz et ne prend pas en charge le Wifi 5GHz. Veuillez utiliser le wifi 2,4 GHz lors de la configuration.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PYFY2RF/?tag=tolees0d-21)
