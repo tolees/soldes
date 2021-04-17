@@ -28,11 +28,11 @@ Vous avez [HyperX Cloud Alpha S - Casque de jeu  pour PC et PS4  Son Surround 7.
 
 ℹ️:
 
+- Haut-parleurs à double chambre HyperX
+- Son surround 7.1 HyperX*
 - Glissières de réglage des basses, Balance audio jeu / chat, Mélangeur audio avancé; Niveau de pression sonore: 99 dBSPL / mW à 1 kHz
 - Compatible avec PC et PS4
 - Confort HyperX Signature, Cadre aluminium durable
-- Son surround 7.1 HyperX*
-- Haut-parleurs à double chambre HyperX
 - Impedance: 65 Ω
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B081D8TPZZ/?tag=tolees0d-21)
