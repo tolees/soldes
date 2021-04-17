@@ -28,9 +28,9 @@ C'est en vente [Cecotec Aspirateur à Balai Conga RockStar 600 Hero Sans fils 3 
 
 ℹ️:
 
+- Système ImmortalBattery avec une batterie Ion-Litio de 2500 mAh et 25,9 V et réussi une autonomie de 65 minutes et réduit le temps de charge.
 - Aspirateur sans fils 3 en 1 : vertical, de balai et à la main, avec un moteur numérique brushless et design 360º pour éliminer toute la poussière n’importe où.
 - Technologie ForceSonic avec la puissance maximum de 430 W. Votre maison sera toujours propre en, optimisant ses 24 kPa de pression d’aspiration.
-- Système ImmortalBattery avec une batterie Ion-Litio de 2500 mAh et 25,9 V et réussi une autonomie de 65 minutes et réduit le temps de charge.
 - Trois modes de fonctionnement : eco, quotidien et turbo, pour adapter son usage à chaque circonstance. Technologie 360º pour arriver dans tous les coins.
 - Technologie DigitalBrushless avec un moteur numérique de dernière génération sans brosses, pour une plus grande vitesse et un bruit réduit.
 

@@ -28,10 +28,10 @@ C'est en vente [Samsung Galaxy Watch Active 2  Bluetooth  40mm  Aluminum  Silver
 
 ℹ️:
 
-- Suivi de la fréquence cardiaque
 - Résistant à leau et à la poussière
 - Toujours connecté même sans votre smartphone
-- Écran plus large
 - Suivi des exercices
+- Suivi de la fréquence cardiaque
+- Écran plus large
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VPKTK7J/?tag=tolees0d-21)

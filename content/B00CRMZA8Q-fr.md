@@ -28,8 +28,8 @@ Vous avez [Arcos Accessories - Tire-bouchon électrique - Material ABS - Couleur
 
 ℹ️:
 
-- Une pièce dans une boîte cadeau
 - Manche : ABS
+- Une pièce dans une boîte cadeau
 - Tire-bouchon électrique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CRMZA8Q/?tag=tolees0d-21)
