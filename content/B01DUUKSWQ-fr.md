@@ -28,12 +28,12 @@ C'est en vente [Rowenta ZR005801 Kit de Remplacement pour Clean & Steam](https:/
 
 ℹ️:
 
-- Conçu pour laspirateur balai : Clean & Steam - RY751, RY753, RY755, RY757, RY758, RY759, VP754, VP755, VP759
 - Kit de remplacement
 - 2 Lingettes microfibres
-- Cartouche anti calcaire
+- Filtre mousse
 - Le filtre mousse ainsi que la cartouche anti calcaire sont à changer tous les 6 mois
 - Dimensions du produit (L x l x h) : 15,5 x 6 x 15,5 cm
-- Filtre mousse
+- Conçu pour laspirateur balai : Clean & Steam - RY751, RY753, RY755, RY757, RY758, RY759, VP754, VP755, VP759
+- Cartouche anti calcaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01DUUKSWQ/?tag=tolees0d-21)
