@@ -28,9 +28,9 @@ C'est en vente [adidas Vs Pace  Baskets Homme  Grey/Core Black/Footwear White  4
 
 ℹ️:
 
+- Référence : B74318-453
 - Marque : Adidas
 - Homme > Chaussures > Sneakers
 - Couleur : gris
-- Référence : B74318-453
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B072Q1CMX9/?tag=tolees0d-21)

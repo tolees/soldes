@@ -28,8 +28,8 @@ C'est en vente [Widmann - Cs923510/m - Costume Magicien Taille M](https://www.am
 
 ℹ️:
 
+- Excellent rapport qualité prix
 - Pays dorigine: Chine
 - Thèmes : super heros , dessins animes/bd/manga , conte/legende , carnaval
-- Excellent rapport qualité prix
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004GCY31U/?tag=tolees0d-21)
