@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 'ACTIVISION - Call Of Duty: Black Ops Col avec 26.66 % rabais '
-date: 2021-04-01 16:47:56
-image: 'https://m.media-amazon.com/images/I/516e9BhCK+L._SL400_.jpg'
+date: 2021-04-18 13:03:27
+image: 'https://m.media-amazon.com/images/I/516e9BhCK+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,7 +24,7 @@ average: '55.0'
 
 C'est en vente [ACTIVISION - Call Of Duty: Black Ops Cold War  PS4 ](https://www.amazon.fr/dp/B08KQ5PRMY/?tag=tolees0d-21)  à  26.66 % de réduction, prix final  55.0 EUR (original: 74.99 EUR) ici:
 
-[![ACTIVISION - Call Of Duty: Black Ops Col](https://m.media-amazon.com/images/I/516e9BhCK+L._SL400_.jpg)](https://www.amazon.fr/dp/B08KQ5PRMY/?tag=tolees0d-21)
+[![ACTIVISION - Call Of Duty: Black Ops Col](https://m.media-amazon.com/images/I/516e9BhCK+L._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B08KQ5PRMY/?tag=tolees0d-21)
 
 ℹ️:
 
