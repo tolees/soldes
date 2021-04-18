@@ -28,10 +28,10 @@ Vous avez [Microsoft Designer Compact Keyboard - Clavier Bluetooth compact - fra
 
 ℹ️:
 
-- Clavier AZERTY Bluetooth (disposition Française)
-- Connexion sur jusquà 3 appareils simultanément
-- Espacement optimisé des touches, légère inclinaison du clavier, pour un meilleur confort de frappe
-- Touches daccès direct : emoji et capture décran
 - Design compact, fin et léger, facile à transporter
+- Connexion sur jusquà 3 appareils simultanément
+- Touches daccès direct : emoji et capture décran
+- Clavier AZERTY Bluetooth (disposition Française)
+- Espacement optimisé des touches, légère inclinaison du clavier, pour un meilleur confort de frappe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08JVFYG4P/?tag=tolees0d-21)
