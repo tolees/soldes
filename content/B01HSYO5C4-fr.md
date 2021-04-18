@@ -28,10 +28,10 @@ Vous avez [FORMA Bottes Homologuées CE Adventure Low  Noir  Taille 41](https://
 
 ℹ️:
 
-- Bottes homologuées CE pour la moto, certifiées norme EN 13634:2010 avec tous les niveaux maximums de protection : abrasion, perforation, résistance.
-- Semelle spéciale Adventure/Enduro/ATV-Quad en caoutchouc à double densité, tige en cuir pleine fleur huilé et boucles en aluminium réglables et remplaçables.
+- Protection cheville et tibia en TPU moulé et injecté et rembourrages en polymère avec mémoire de forme pour plus de confort
 - Membrane tubulaire personnalisée Forma en DRYTEX étanche et respirante
 - Semelle intermédiaire ISS(Incorporated Steel Shank) avec renfort acier pour un confort et une sécurité optimum, et intérieure de propreté anti-bactérienne remplaçable avec APS(Air Pump System)
-- Protection cheville et tibia en TPU moulé et injecté et rembourrages en polymère avec mémoire de forme pour plus de confort
+- Semelle spéciale Adventure/Enduro/ATV-Quad en caoutchouc à double densité, tige en cuir pleine fleur huilé et boucles en aluminium réglables et remplaçables.
+- Bottes homologuées CE pour la moto, certifiées norme EN 13634:2010 avec tous les niveaux maximums de protection : abrasion, perforation, résistance.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HSYO5C4/?tag=tolees0d-21)
