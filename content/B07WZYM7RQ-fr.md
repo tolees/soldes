@@ -28,11 +28,11 @@ C'est en vente [Western Digital - WD WDBPMV0050BSL-WESN My Passport Ultra Disque
 
 ℹ️:
 
-- 5 To de capacité maximale
-- Wd Discovery vous permet dimporter depuis le Cloud et les réseaux sociaux
-- Style novateur avec boîtier en métal épuré
-- Usb-c Ready et compatible USB 3.0
-- Température de fonctionnement: 41 à 95°F / 5 à 35°C
 - Protection par mot de passe et dispositif de chiffrement matériel AES 256 bits
+- Température de fonctionnement: 41 à 95°F / 5 à 35°C
+- Style novateur avec boîtier en métal épuré
+- Wd Discovery vous permet dimporter depuis le Cloud et les réseaux sociaux
+- Usb-c Ready et compatible USB 3.0
+- 5 To de capacité maximale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WZYM7RQ/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Carte microSD Extreme SanDisk 64 Go pour le mobile gaming](https
 
 ℹ️:
 
-- Vitesses exceptionnelles vous permettant daméliorer votre niveau et doptimiser vos performances de jeu
-- Performance de classe A2 pour charger vos jeux en quelques secondes
 - Faites équipe avec le leader du marché des solutions de stockage mobile
-- Performances exceptionnelles pour prendre en charge les contenus AAA/3D/RV de vos jeux et vidéos 4K UHD
 - Espace de stockage considérable pour sauvegarder vos jeux préférés et toutes vos parties
+- Vitesses exceptionnelles vous permettant daméliorer votre niveau et doptimiser vos performances de jeu
+- Performances exceptionnelles pour prendre en charge les contenus AAA/3D/RV de vos jeux et vidéos 4K UHD
+- Performance de classe A2 pour charger vos jeux en quelques secondes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089DNFTQF/?tag=tolees0d-21)
