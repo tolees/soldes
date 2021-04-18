@@ -28,8 +28,8 @@ C'est en vente [The Noble Collection Harry Potter Baguette de Dumbledore](https:
 
 ℹ️:
 
+- Réplique en résine de la baguette de Albus Dumbledore
 - Licence Officielle
 - Détails très réaliste
-- Réplique en résine de la baguette de Albus Dumbledore
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005OKQ1FE/?tag=tolees0d-21)
