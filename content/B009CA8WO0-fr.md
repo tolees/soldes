@@ -29,9 +29,9 @@ Vous avez [H.Koenig Robot Pétrin Professionnel KM80 Multifonctions 5.5L Noir Pu
 ℹ️:
 
 - Trois couleurs disponibles : noir, rouge, gris – Garantie 2 ans.
-- 4 vitesses et Jusquà 2 kg de pâte
 - Accessoires : fouet, batteur, crochet pétrisseur - Produit associé : AC8
 - Design tête inclinable - Couvercle anti-éclaboussures
 - Grand récipient en acier inoxydable - Capacité : 5,5 L - Puissance : 1000 W
+- 4 vitesses et Jusquà 2 kg de pâte
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009CA8WO0/?tag=tolees0d-21)
