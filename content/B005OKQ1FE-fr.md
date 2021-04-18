@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Noble Collection Harry Potter Baguet avec 33.14 % rabais '
-date: 2021-04-16 21:33:11
+date: 2021-04-18 03:26:47
 image: 'https://m.media-amazon.com/images/I/411xnS3zPKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ C'est en vente [The Noble Collection Harry Potter Baguette de Dumbledore](https:
 
 ℹ️:
 
-- Réplique en résine de la baguette de Albus Dumbledore
 - Licence Officielle
 - Détails très réaliste
+- Réplique en résine de la baguette de Albus Dumbledore
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005OKQ1FE/?tag=tolees0d-21)
