@@ -29,8 +29,8 @@ Vous avez [Kärcher 2.055-007.0 Rouleaux de rechange accessoire pour FC 5](https
 ℹ️:
 
 - 2 rouleaux de rechange gris en microfibres pour nettoyeur de sols FC 5
-- 2 rouleaux de rechange gris en microfibres pour nettoyeur de sols FC 5
 - 60 mm x124 mm x209 mm
+- 2 rouleaux de rechange gris en microfibres pour nettoyeur de sols FC 5
 - fabriqué en Lituanie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N2WLZ24/?tag=tolees0d-21)
