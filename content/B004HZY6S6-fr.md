@@ -29,7 +29,7 @@ Vous avez [Geox U Moner V  Mocassins Homme  Sable  44 EU](https://www.amazon.fr/
 ℹ️:
 
 - Matériau intérieur : cuir et synthétique.
-- Semelle : caoutchouc.
 - Matériau extérieur : cuir.
+- Semelle : caoutchouc.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004HZY6S6/?tag=tolees0d-21)

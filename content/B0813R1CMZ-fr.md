@@ -28,12 +28,12 @@ C'est en vente [LEGO City Le bateau d’exploration océanique 60266 - Jouet pou
 
 ℹ️:
 
-- Une fois construit, le bateau d’exploration mesure plus de 18 cm de haut, 63 cm de long et 17 cm de large, tandis que l’épave de bateau pirate mesure plus de 16 cm de haut, 13 cm de long et 8 cm de large
-- À la recherche de jouets passionnants pour des enfants de 5 ans et plus
-- Ce set de construction constitue un formidable cadeau de Noël, danniversaire ou autre pour les enfants passionnés par lexploration sous-marine et les fans de la série télévisée LEGO City Adventures
-- Le set LEGO City Le bateau d’exploration océanique (60266) comprend plusieurs modèles et constitue un merveilleux cadeau pour les jeunes explorateurs Il inclut tout ce dont les enfants ont besoin pour une expérience de jeu amusante et gratifiante
-- Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche
-- Que contient la boîte
 - Un bateau dexploration flottant, avec une grue qui fonctionne, une cage à requins, un canot de sauvetage, un sous-marin, un hélicoptère, 8 figurines, dont Harl Hubbs, le personnage de la série télévisée LEGO City, un requin et une raie
+- Ce set de construction constitue un formidable cadeau de Noël, danniversaire ou autre pour les enfants passionnés par lexploration sous-marine et les fans de la série télévisée LEGO City Adventures
+- Une fois construit, le bateau d’exploration mesure plus de 18 cm de haut, 63 cm de long et 17 cm de large, tandis que l’épave de bateau pirate mesure plus de 16 cm de haut, 13 cm de long et 8 cm de large
+- Le set LEGO City Le bateau d’exploration océanique (60266) comprend plusieurs modèles et constitue un merveilleux cadeau pour les jeunes explorateurs Il inclut tout ce dont les enfants ont besoin pour une expérience de jeu amusante et gratifiante
+- À la recherche de jouets passionnants pour des enfants de 5 ans et plus
+- Que contient la boîte
+- Les enfants peuvent utiliser la grue pour faire descendre le sous-marin et la cage à requins, piloter l’hélicoptère et le sous-marin, explorer l’épave qui renferme un trésor ou jouer dans le cockpit du capitaine doté d’espaces de vie et de recherche
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0813R1CMZ/?tag=tolees0d-21)
