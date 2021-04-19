@@ -28,7 +28,7 @@ Vous avez [Rotring 1900182 Porte-mine 0 7 mm Noir](https://www.amazon.fr/dp/B00J
 
 ℹ️:
 
-- Gomme intégrée sous le bouchon-poussoir
 - Portemine mécanique et stylet pour écran tactile Rotring 800+, 0,7 mm, corps noir
+- Gomme intégrée sous le bouchon-poussoir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00J2RT0IU/?tag=tolees0d-21)
