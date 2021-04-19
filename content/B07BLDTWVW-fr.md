@@ -28,10 +28,10 @@ C'est en vente [LEGO 71043 Harry Potter Jeu de 6 Chteau De Hogwarts](https://www
 
 ℹ️:
 
-- Inclut 4 figurines: godric gryffindor, Helga hufflepuff, Salazar slytherin et rowena ravenala avec un plateau de réglage à construire pour figurines.
 - Comprend un modèle miniature à construire de château de Poudlard, Hagrid hutte, losier Floculant et 5 bateaux.
-- Prends de la place dans le grand Hall et pars avec les pros et les élèves de Poudlard !
 - Le cadenas Hogwarts mesure plus de 58 cm de haut, 69 cm de large et 43 cm de profondeur.
 - Les accessoires comprennent lépée de gryffindor, Helga hufflepuffs becher, baguettes magiques, abreuvoir magique, bannière de maison, flammes, chaudière et 2 verres grossissants.
+- Inclut 4 figurines: godric gryffindor, Helga hufflepuff, Salazar slytherin et rowena ravenala avec un plateau de réglage à construire pour figurines.
+- Prends de la place dans le grand Hall et pars avec les pros et les élèves de Poudlard !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BLDTWVW/?tag=tolees0d-21)

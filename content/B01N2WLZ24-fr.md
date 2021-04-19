@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '27.43 % rabais sur Kärcher 2.055-007.0 Rouleaux de rechange'
-date: 2021-04-08 06:58:08
-image: 'https://m.media-amazon.com/images/I/416Gs6BW5vL._SL400_.jpg'
+date: 2021-04-19 15:43:35
+image: 'https://m.media-amazon.com/images/I/416Gs6BW5vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,13 +24,13 @@ average: '17.99'
 
 Vous avez [Kärcher 2.055-007.0 Rouleaux de rechange accessoire pour FC 5](https://www.amazon.fr/dp/B01N2WLZ24/?tag=tolees0d-21)  à  27.43 % de réduction, prix final  17.99 EUR (original: 24.79 EUR) ici:
 
-[![Kärcher 2.055-007.0 Rouleaux de rechange](https://m.media-amazon.com/images/I/416Gs6BW5vL._SL400_.jpg)](https://www.amazon.fr/dp/B01N2WLZ24/?tag=tolees0d-21)
+[![Kärcher 2.055-007.0 Rouleaux de rechange](https://m.media-amazon.com/images/I/416Gs6BW5vL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B01N2WLZ24/?tag=tolees0d-21)
 
 ℹ️:
 
 - 2 rouleaux de rechange gris en microfibres pour nettoyeur de sols FC 5
 - 2 rouleaux de rechange gris en microfibres pour nettoyeur de sols FC 5
-- fabriqué en Lituanie
 - 60 mm x124 mm x209 mm
+- fabriqué en Lituanie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N2WLZ24/?tag=tolees0d-21)
