@@ -28,9 +28,9 @@ C'est en vente [G-STAR RAW Eyben Slim T-shirt  Jaune brillant Cab 2757-c339  XXL
 
 ℹ️:
 
-- Ourlet droit
-- Manches courtes avec empiècement droit
-- Col en V côtelé
 - Imprimé G-Star RAW sur la poitrine
+- Manches courtes avec empiècement droit
+- Ourlet droit
+- Col en V côtelé
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CN56HV1/?tag=tolees0d-21)
