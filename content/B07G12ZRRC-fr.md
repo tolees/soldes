@@ -28,10 +28,10 @@ Vous avez [Clip Sonic Casque Compatible Bluetooth Noir](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Microphone intégré pour répondre aux appels téléphoniques en mains libres
-- Compatible PC, smartphone, iPhone, iPod, iPad ou tablette
 - Compatible bluetooth
+- Compatible PC, smartphone, iPhone, iPod, iPad ou tablette
 - Casque stéréo Hi-Fi
+- Microphone intégré pour répondre aux appels téléphoniques en mains libres
 - Portée jusquà 10m
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G12ZRRC/?tag=tolees0d-21)
