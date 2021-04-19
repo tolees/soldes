@@ -28,10 +28,10 @@ C'est en vente [Ravensburger- Labyrinthe Super Mario- Jeu de société Enfant et
 
 ℹ️:
 
-- Contenu : 1 plateau de jeu, 34 plaques Labyrinthe, 24 cartes, 4 pions
-- Dès 7 ans. Existe aussi avec les personnages Harry Potter. Et La Reine des Neiges 2 en version junior dès 4 ans. De 2 à 4 joueurs pour des parties denviron 20 à 30 minutes.
 - «Mamma mia !» Où est passé Super Mario ? Le petit plombier moustachu, ainsi que son frère Luigi, Yoshi, la princesse Peach, Donkey Kong et de nombreux autres personnages se sont cachés dans le labyrinthe ! À vous d’anticiper et de faire coulisser astucieusement les couloirs du labyrinthe pour faire apparaître de nouveaux passages conduisant aux personnages recherchés. Des règles simples pour un jeu palpitant !
 - Un jeu de réflexion plein de rebondissements pour toute la famille !
 - Un grand classique des jeux de société depuis plus de 30 ans !
+- Contenu : 1 plateau de jeu, 34 plaques Labyrinthe, 24 cartes, 4 pions
+- Dès 7 ans. Existe aussi avec les personnages Harry Potter. Et La Reine des Neiges 2 en version junior dès 4 ans. De 2 à 4 joueurs pour des parties denviron 20 à 30 minutes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PKQNGKC/?tag=tolees0d-21)
