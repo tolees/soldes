@@ -28,10 +28,10 @@ C'est en vente [Microïds - Astérix & Obélix XXL 3 : le Menhir de Cristal Coll
 
 ℹ️:
 
-- Accompagnés du mystérieux menhir de cristal, ils voyageront dans des contrées lointaines et feront face à d’innombrables dangers
 - Les baffes, les sangliers et la potion magique vous ont manqué ? Nos Irréductibles Gaulois sont de retour dans une toute nouvelle aventure
 - Astérix & Obélix XXL3 : Le Menhir de Cristal propose un contenu complet qui ravira le Gaulois qui réside en chacun de nous ! Bataille, Exploration, Puzzle ou encore Collecte : de nombreuses possibilités d’actions vous attendent ! Accomplissez les nombreus
-- Dans Astérix & Obélix XXL3 : Le Menhir de Cristal, vous retrouverez évidemment vos Gaulois préférés, tels que Panoramix, Assurancetourix et Abraracourcix ; mais également de tous nouveaux personnages créés spécialement pour le jeu : plus on est de fous, p
+- Accompagnés du mystérieux menhir de cristal, ils voyageront dans des contrées lointaines et feront face à d’innombrables dangers
 - Une édition collector, comprenant le jeu, une figurine en résine d’Obélix et Idéfix de 15cm.
+- Dans Astérix & Obélix XXL3 : Le Menhir de Cristal, vous retrouverez évidemment vos Gaulois préférés, tels que Panoramix, Assurancetourix et Abraracourcix ; mais également de tous nouveaux personnages créés spécialement pour le jeu : plus on est de fous, p
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WF7JPT5/?tag=tolees0d-21)

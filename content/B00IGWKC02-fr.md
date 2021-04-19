@@ -30,8 +30,8 @@ Vous avez [MAM Biberon Easy Start Anti-Colique avec base aérée  lot de 2 x 160
 
 - Anti-colique – La base aérée du biberon MAM évite les bulles d’air et réduit les coliques et les régurgitations. Le rythme de tétée est naturel et détendu comme au sein.
 - Débit Lent – Conçue pour les nouveau-nés, la tétine MAM débit 1 est idéale dès la naissance. Les tétines MAM s’adaptent à tous les biberons MAM.
-- Lot de 2 - Biberons MAM Easy Start Anti-Colique sans BPA ni BPS, adaptés pour les nouveau-nés, bleu + blanc, 2 x 160 ml, numéro darticle : 9001616668692.
 - Acceptée par bébé – Une tétine plate en silicone SkinSoft douce comme la peau, adoptée par 94 % des bébés. Parfaitement adaptée à la bouche de bébé.
 - Auto-stérilisation facile – Ce biberon ergonomique dispose d’une fonction unique d’auto-stérilisation au micro-ondes en trois étapes. Pas besoin de stérilisateur.
+- Lot de 2 - Biberons MAM Easy Start Anti-Colique sans BPA ni BPS, adaptés pour les nouveau-nés, bleu + blanc, 2 x 160 ml, numéro darticle : 9001616668692.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IGWKC02/?tag=tolees0d-21)
