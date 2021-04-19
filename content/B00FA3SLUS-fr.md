@@ -28,10 +28,10 @@ C'est en vente [KidKraft 65833 Maison de poupée Uptown en bois avec meubles et 
 
 ℹ️:
 
-- UN CADEAU INTEMPOREL - Peu importe l’âge, vos enfants passeront des heures à samuser avec leur maison de poupées et créer leurs univers imaginaires. Nos petites demeures sont le cadeau de Noël ou d’anniversaire parfait, tant pour les petits que pour les plus grands.
 - CONSTRUITE POUR DURER - Notre maison conçue en bois, a été spécialement imaginée pour vous garantir des heures de jeu en famille. Fabriquée à la main, elle comporte des illustrations finement détaillées.
-- UNE VILLA MODERNE - Cette fabuleuse maison, offre à votre enfant un espace de jeu de 3 étages, 5 pièces, une terrasse, et une piscine. Cette habitation de 117.48 cm est construite en bois de qualité supérieure.
-- IMAGINER VOTRE PROPRE INTÉRIEUR - Avec un ensemble de 36 meubles et accessoires, votre enfant samusera à décorer la résidence colorée de ses poupées 30 cm ! Sa créativité prendra place dans les différents espaces de vie proposés : salon, cuisine, salle de bain, chambre,...
 - ASSEMBLAGE AMUSANT ET FACILE - Oubliez les montages fastidieux et compliqués et commencez directement à jouer, grâce à la conception incroyablement ingénieuse de nos maisons de poupées. Suivez les instructions fournies pour construire votre maison et partager des moments de jeu avec vos enfants !
+- UN CADEAU INTEMPOREL - Peu importe l’âge, vos enfants passeront des heures à samuser avec leur maison de poupées et créer leurs univers imaginaires. Nos petites demeures sont le cadeau de Noël ou d’anniversaire parfait, tant pour les petits que pour les plus grands.
+- IMAGINER VOTRE PROPRE INTÉRIEUR - Avec un ensemble de 36 meubles et accessoires, votre enfant samusera à décorer la résidence colorée de ses poupées 30 cm ! Sa créativité prendra place dans les différents espaces de vie proposés : salon, cuisine, salle de bain, chambre,...
+- UNE VILLA MODERNE - Cette fabuleuse maison, offre à votre enfant un espace de jeu de 3 étages, 5 pièces, une terrasse, et une piscine. Cette habitation de 117.48 cm est construite en bois de qualité supérieure.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00FA3SLUS/?tag=tolees0d-21)

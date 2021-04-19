@@ -30,7 +30,7 @@ C'est en vente [SEGA ATLUS - Shin Megami Tensei II Nocturne HD  Nintendo Switch 
 
 - Des modèles 3D et des décors retravaillés.
 - La sauvegarde rapide: sauvegardez votre progression à tout moment !
-- Des doublages audio: choisissez entre les voix japonaises et anglaises.
 - De nouvelles options de difficulté pour les joueurs de tous niveaux.
+- Des doublages audio: choisissez entre les voix japonaises et anglaises.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B09163JSVR/?tag=tolees0d-21)

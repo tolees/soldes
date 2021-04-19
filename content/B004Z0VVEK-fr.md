@@ -28,19 +28,19 @@ Vous avez [Jouets B - B. toys – Guitare pour enfants – Woofer – Instrument
 
 ℹ️:
 
-- Guitare en forme de chien avec neuf chansons
-- 8 touches musicales
+- 3 modes de jeu: acoustique, électrique ou chien de chasse
 - Dimensions : 49 x 26 x 26 cm
 - 3 piles AA requises (incluses)
-- Encouragez votre tout-petit à faire ses propres expériences musicales avec sa guitare en forme de chien
-- 3 modes de jeu: acoustique, électrique ou chien de chasse
 - Selon son humeur il pourra sélectionner lun des 3 modes acoustique électrique ou chien hurlant
+- 8 boutons musicaux et cordes de guitare pour jouer des suites daccords ou des chansons préenregistrées
+- Guitare en forme de chien avec neuf chansons
+- Jouez un riff ruff avec votre fidèle compagnon
+- 8 touches musicales
+- Le paquet inclut 1 guitare Woofer B 1 livre de chansons
+- Encouragez votre tout-petit à faire ses propres expériences musicales avec sa guitare en forme de chien
+- Pour jouer de la musique de manière plus créative que jamais quoi de mieux qu’une guitare en forme de chien incroyablement cool ?
+- Recommandé pour les enfants de 2 ans et plus
 - Arrêt automatique au bout de 2 minutes
 - 20 chansons populaires à chanter en karaoké et 9 chansons entraînantes de notre petit toutou qui vous feront taper des mains en rythme
-- Pour jouer de la musique de manière plus créative que jamais quoi de mieux qu’une guitare en forme de chien incroyablement cool ?
-- 8 boutons musicaux et cordes de guitare pour jouer des suites daccords ou des chansons préenregistrées
-- Jouez un riff ruff avec votre fidèle compagnon
-- Le paquet inclut 1 guitare Woofer B 1 livre de chansons
-- Recommandé pour les enfants de 2 ans et plus
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004Z0VVEK/?tag=tolees0d-21)
