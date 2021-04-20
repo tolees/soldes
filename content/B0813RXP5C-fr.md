@@ -31,8 +31,8 @@ C'est en vente [LEGO Marvel Avengers L’héliporteur des Avengers 76153 - Jouet
 - Mesurant plus de 37 cm de long, lhéliporteur Marvel Avengers place entre les mains des enfants l’action des super-héros à grande échelle Il constitue également un magnifique objet de décoration pour une chambre d’enfant
 - Les fans de Marvel Avengers peuvent recréer des scènes passionnantes ou inventer leurs propres histoires Aux côtés de leurs super-héros préférés, ils embarquent à bord de l’incroyable héliporteur pour affronter MODOK, le super-vilain
 - Le jouet à construire LEGO Marvel L’héliporteur des Avengers (76153) place les super-héros en herbe au cœur de l’action avec de célèbres figurines, véhicules et accessoires inspirés des films Marvel
-- Pour tous ceux qui recherchent un jouet de construction technologique à offrir à des enfants de 9 ans et plus passionnés par laction Marvel Avengers, les figurines de super-héros ou tout simplement les jouets en briques, cet héliporteur constitue un formidable cadeau
 - Grâce aux instructions simples et claires, les enfants commencent à construire et à jouer sans attendre, et profitent au mieux des détails amusants et des fonctionnalités ingénieuses
+- Pour tous ceux qui recherchent un jouet de construction technologique à offrir à des enfants de 9 ans et plus passionnés par laction Marvel Avengers, les figurines de super-héros ou tout simplement les jouets en briques, cet héliporteur constitue un formidable cadeau
 - L’héliporteur est équipé d’hélices, de canons à sphères et dun cockpit pouvant accueillir 3 figurines Inclut les figurines de Captain Marvel, Thor, Black Widow, War Machine, Nick Fury et un agent de lAIM ainsi que MODOK
 - Ce superbe jouet à construire fonctionne sans piles, pour que les enfants puissent laisser libre cours à leur imagination, au jeu de rôle et à laction, quand ils veulent et où ils veulent
 
