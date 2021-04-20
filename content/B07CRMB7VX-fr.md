@@ -28,9 +28,9 @@ C'est en vente [Bikers Gear Australia Chemise de protection en flanelle avec dou
 
 ℹ️:
 
-- DuPont Kevlar protectrice. S – 91,4 cm/96,5 cm, M 96,5 cm/101,6 cm. L 101,6 cm/106,7 cm, 106,7 cm/111,8 cm, XL 2 x l 111,8 cm/116,8 cm
-- 180 g/m² duponttm Kevlar doublure entièrement doublé à la zone dimpact – Manchon/côtés et le dos.
 - Matériau extérieur flanelle de coton/poly bouton – Poignets réglables – Snap Down col – 2 poches poitrine boutonnée.
+- 180 g/m² duponttm Kevlar doublure entièrement doublé à la zone dimpact – Manchon/côtés et le dos.
 - Approuvé CE Pad de protection armure de coude et lépaule et le dos – toutes les armures entièrement amovible.
+- DuPont Kevlar protectrice. S – 91,4 cm/96,5 cm, M 96,5 cm/101,6 cm. L 101,6 cm/106,7 cm, 106,7 cm/111,8 cm, XL 2 x l 111,8 cm/116,8 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CRMB7VX/?tag=tolees0d-21)
