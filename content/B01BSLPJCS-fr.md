@@ -28,8 +28,8 @@ C'est en vente [Melissa & Doug - 12105 - Cheval](https://www.amazon.fr/dp/B01BSL
 
 ℹ️:
 
+- Polyester souple
 - Le jeu avec un cheval est beaucoup plus amusant avec un cheval réaliste prêt à jouer ! Haut de près de 90 cm, ce doux cheval brun a une bande saisissante sur le front et quatre chaussettes blanches. Le souci du détail et la fabrication d’excellente qualité font ressortir ce cheval du troupeau !
 - Il se caractérise par ses quatre « chaussettes » blanches.
-- Polyester souple
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BSLPJCS/?tag=tolees0d-21)
