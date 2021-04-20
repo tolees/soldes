@@ -28,12 +28,12 @@ C'est en vente [Oral-B Genius X 20000 Édition Luxe Brosse à Dents Électrique 
 
 ℹ️:
 
-- Couvre l’ensemble de votre dentition grâce à la technologie IA et à la tête ronde Oral-B
 - Idée de coffret cadeau noel idéal pour homme
-- 6 modes de brossage dont Soin des gencives, Douceur, Blancheur et Nettoyage de la langue
-- Protégez vos gencives : Le contrôle de la pression sur les gencives ralentit automatiquement la vitesse de la brosse et vous alerte visiblement
-- L’intelligence artificielle reconnaît votre style de brossage et vous guide pour obtenir les meilleurs résultats possibles au quotidien
-- Vous aide à vous brosser les dents plus longtemps avec le minuteur intégré de 2 minutes
 - Fournie via l’appli gratuite Oral-B : c’est comme avoir un dentiste à la maison qui vous guiderait étape par étape lors de votre brossage
+- Couvre l’ensemble de votre dentition grâce à la technologie IA et à la tête ronde Oral-B
+- Vous aide à vous brosser les dents plus longtemps avec le minuteur intégré de 2 minutes
+- L’intelligence artificielle reconnaît votre style de brossage et vous guide pour obtenir les meilleurs résultats possibles au quotidien
+- Protégez vos gencives : Le contrôle de la pression sur les gencives ralentit automatiquement la vitesse de la brosse et vous alerte visiblement
+- 6 modes de brossage dont Soin des gencives, Douceur, Blancheur et Nettoyage de la langue
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RRZBRB3/?tag=tolees0d-21)
