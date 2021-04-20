@@ -28,11 +28,11 @@ Vous avez [Lifebuoy Gel Antibactérien Hydroalcoolique pour les Mains  Détruit 
 
 ℹ️:
 
+- Une utilisation de ce gel hydroalcoolique antibactérien diminue le risque dinfections
 - Ce gel désinfectant peut être utilisé plusieurs fois par jour.
+- Mode demploi du gel désinfectant antibactérien Lifebuoy: appliquez une noisette (3 ml) de gel antibactérien dans la main. Frottez pendant 60 secondes jusqu’à ce que vos mains soient sèches. Ne pas rincer à leau. Tenir hors de portée des enfants. En cas de contact avec les yeux : rincer avec précaution à leau pendant plusieurs minutes. Enlever les lentilles de contact si la victime en porte et si elles peuvent être facilement enlevées. Continuer à rincer. Si lirritation oculaire persiste : consulter un médecin.
+- Son format individuel vous permet de le garder à portée de main dans votre sac ou la poche de votre vêtement.
 - Le gel hydroalcoolique Lifebuoy est pour des mains fraîches, douces et lisses.
 - Ce gel hydroalcoolique contient 72,1% dalcool et élimine 99,9% des bactéries.
-- Une utilisation de ce gel hydroalcoolique antibactérien diminue le risque dinfections
-- Son format individuel vous permet de le garder à portée de main dans votre sac ou la poche de votre vêtement.
-- Mode demploi du gel désinfectant antibactérien Lifebuoy: appliquez une noisette (3 ml) de gel antibactérien dans la main. Frottez pendant 60 secondes jusqu’à ce que vos mains soient sèches. Ne pas rincer à leau. Tenir hors de portée des enfants. En cas de contact avec les yeux : rincer avec précaution à leau pendant plusieurs minutes. Enlever les lentilles de contact si la victime en porte et si elles peuvent être facilement enlevées. Continuer à rincer. Si lirritation oculaire persiste : consulter un médecin.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086NJ4DMD/?tag=tolees0d-21)
