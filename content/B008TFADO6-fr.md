@@ -1,32 +1,35 @@
 ---
 layout: post
-title: '23.82 % rabais sur Legrand 412780 Interrupteur horaire anal'
-date: 2020-09-21 15:13:27
-image: 'https://m.media-amazon.com/images/I/31mX0CtouBL._SL400_.jpg'
+title: '24.43 % rabais sur LEGRAND 412780 MICRO REX T11 T11 T11 Tém'
+date: 2021-04-20 08:01:23
+image: 'https://m.media-amazon.com/images/I/31C04z6mzNL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B008TFADO6-fr Legrand 412780 Interrupteur horaire analogique modulaire...'
+slug: 'B008TFADO6-fr LEGRAND 412780 MICRO REX T11 T11 T11 Témoignage quotidien...'
 sku: 'B008TFADO6-fr'
-tags: [  ]
-actualPrice: 32.15 EUR
+tags: [ 'Bricolage','Minuteurs','legrand','Électricité', ]
+actualPrice: 31.89 EUR
 currency: EUR
-price: 32.15
+price: 31.89
 comparePrice: 42.2 EUR
-prodname: 'Legrand 412780 Interrupteur horaire analogique modulaire programmable manuel journalier  cadran vertical sans réserve de marche'
+prodname: 'LEGRAND 412780 MICRO REX T11 T11 T11 Témoignage quotidien analogique pour l installation dans un distributeur  une largeur de module 1'
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: 'Legrand'
 buyurl: 'https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21'
-descuento: '23.82'
-average: '32.15'
+descuento: '24.43'
+average: '32.1128571428571'
 ---
 
-Vous avez [Legrand 412780 Interrupteur horaire analogique modulaire programmable manuel journalier  cadran vertical sans réserve de marche](https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21)  à  23.82 % de réduction, prix final  32.15 EUR (original: 42.2 EUR) ici:
+Vous avez [LEGRAND 412780 MICRO REX T11 T11 T11 Témoignage quotidien analogique pour l installation dans un distributeur  une largeur de module 1](https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21)  à  24.43 % de réduction, prix final  31.89 EUR (original: 42.2 EUR) ici:
 
-[![Legrand 412780 Interrupteur horaire anal](https://m.media-amazon.com/images/I/31mX0CtouBL._SL400_.jpg)](https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21)
+[![LEGRAND 412780 MICRO REX T11 T11 T11 Tém](https://m.media-amazon.com/images/I/31C04z6mzNL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21)
 
 ℹ️:
 
+- Facile à utiliser
+- 1 Largeur du module
+- Très efficace
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008TFADO6/?tag=tolees0d-21)
