@@ -28,9 +28,9 @@ Vous avez [Bosch FS 180 AT HCS / 2608661202 Lame pour scie 145 / 1 25 mm](https:
 
 ℹ️:
 
+- Lame de scie segment à extrémité fine pour atteindre les coins les plus inaccessibles
 - Pour le travail du bois dur et du bois tendre
 - Utilisable à gauche ou à droite
 - Support SDS pour le changement de lame de scie sans outil
-- Lame de scie segment à extrémité fine pour atteindre les coins les plus inaccessibles
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000R5LSA4/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Grundig HD4880 Ionic Sèche-cheveux 2500 W](https://www.amazon.f
 
 ℹ️:
 
-- Grille dadmission dair amovible
-- Le niveau de froid renforce et stabilise les cheveux grâce au revêtement en céramique doux avec tourmaline
 - Puissance 2500 W - Fonction ionique pour des cheveux antistatiques et brillants. Préserve la vitalité et le rebond des cheveux ; la structure des cheveux est naturellement hydratée
+- Le niveau de froid renforce et stabilise les cheveux grâce au revêtement en céramique doux avec tourmaline
+- Grille dadmission dair amovible
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GCLT7XS/?tag=tolees0d-21)

@@ -29,7 +29,7 @@ Vous avez [Daniel Smith Aquarelle 285610006  multicolore](https://www.amazon.fr/
 ℹ️:
 
 - Les couleurs Daniel Smith sont dexcellente qualité, ont une profondeur des couleurs sont denses et permettent la créations intense daccessoire audacieux et espressivi
-- Rhodonite Genuine, jadeite Genuine, Amethyst Genuine, mayan Blue Genuine, Hematite, piemontite Genuine
 - Issu de la recherche des géologues Daniel Smith, ces pigments uniques et exclusifs possèdent étonnantes et intéressants texture et propriétés granulanti
+- Rhodonite Genuine, jadeite Genuine, Amethyst Genuine, mayan Blue Genuine, Hematite, piemontite Genuine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00WT5VK62/?tag=tolees0d-21)
