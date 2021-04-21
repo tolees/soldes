@@ -28,10 +28,10 @@ C'est en vente [Jacob Delafon Colonne de douche thermostatique certifiée NF Too
 
 ℹ️:
 
-- Pratique: flexible lisse anti-torsion qui ne vrille pas, 160 cm
-- s: 10 NAS la finition Chrome, 5 ans le mécanisme, 2 ans la douchette stick 1 jet.
 - Facile à installer: colonne de douche avec mitigeur mécanique qui s’installe facilement grâce au bras de douche orientable au montage
-- Sécurité de la technologie thermostatique: contrôle précis de la température et butée de sécurité à 40°C permettant d’éviter tout risque de brûlure.
 - Colonne certifié NF : gage de qualité et de respect de l’environnement. Débit limité à 10 l/mn.
+- Pratique: flexible lisse anti-torsion qui ne vrille pas, 160 cm
+- Sécurité de la technologie thermostatique: contrôle précis de la température et butée de sécurité à 40°C permettant d’éviter tout risque de brûlure.
+- s: 10 NAS la finition Chrome, 5 ans le mécanisme, 2 ans la douchette stick 1 jet.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZJWPNN5/?tag=tolees0d-21)
