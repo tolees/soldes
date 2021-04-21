@@ -28,7 +28,7 @@ C'est en vente [Wrangler Sign Off Tee T-Shirt  Silver Pink  XL Homme](https://ww
 
 ℹ️:
 
-- Kniits.
 - Coupe droite.
+- Kniits.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CVJL3BD/?tag=tolees0d-21)
