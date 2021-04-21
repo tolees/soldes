@@ -28,12 +28,12 @@ C'est en vente [Eastpak The One Sac bandoulière  21 cm  2.5 L  Kontrast Water  
 
 ℹ️:
 
-- Doublure, sangle et finitions métalliques contrastantes
-- Aucun produit animal nest utilisé pour fabriquer ce produit 100 % végan
-- Compartiment principal avec des poches zippées à lintérieur, à larrière et sur le devant
-- Dans notre coloris Kontrast Water
-- Bandoulière réglable
-- Hauteur : 21 cm, Largeur : 16 cm, Profondeur : 5,5 cm
 - 100 % polyester
+- Bandoulière réglable
+- Aucun produit animal nest utilisé pour fabriquer ce produit 100 % végan
+- Doublure, sangle et finitions métalliques contrastantes
+- Compartiment principal avec des poches zippées à lintérieur, à larrière et sur le devant
+- Hauteur : 21 cm, Largeur : 16 cm, Profondeur : 5,5 cm
+- Dans notre coloris Kontrast Water
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BCQZ9TK/?tag=tolees0d-21)
