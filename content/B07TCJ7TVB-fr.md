@@ -29,8 +29,8 @@ C'est en vente [Samsonite Prodigy - Spinner Bagage Cabine 75 Centimeters 112 Gri
 ℹ️:
 
 - Poignée de traction : Poignée de traction double tube
-- Matière : 100% Polycarbonate
-- Serrure : Serrure à combinaison TSA
 - Types de roues : Roulettes multidirectionnelles
+- Serrure : Serrure à combinaison TSA
+- Matière : 100% Polycarbonate
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TCJ7TVB/?tag=tolees0d-21)
