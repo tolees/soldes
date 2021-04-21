@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'HUAWEI - Matebook D 14  2020   i7/16G/51 avec 21.68 % rabais '
-date: 2021-04-20 06:04:27
+date: 2021-04-21 06:53:17
 image: 'https://m.media-amazon.com/images/I/415u2UDSINL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -29,9 +29,9 @@ C'est en vente [HUAWEI - Matebook D 14  2020   i7/16G/512G/MX250](https://www.a
 ℹ️:
 
 - Chargeur secteur USB Type-C, pour un chargement 2-en-1 de votre ordinateur ou de votre téléphone
-- Finesse et légereté incarnées avec un poids plume de 1.38kg et une épaisseur de 15.9mm
 - Capteur dempreinte digitale intégré au bouton dalimentation
 - Processeur Intel Core i7 10510U pour des performances exceptionnelles
+- Finesse et légereté incarnées avec un poids plume de 1.38kg et une épaisseur de 15.9mm
 - Continuité multi-écrans, pour une projection de votre smartphone directement sur votre PC
 - Batterie de 56Wh pour une autonomie longue durée
 

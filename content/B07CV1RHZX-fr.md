@@ -28,14 +28,14 @@ C'est en vente [Nespresso Essenza Mini - Machine espresso à capsules - Blanc - 
 
 ℹ️:
 
-- Dimensions (LxHxl): 8,4 x 20,4 x 33 cm
 - 19 bar de pression : la garantie dun espresso de qualité professionnelle
-- Réservoir deau amovible de 0,6 L
-- Machine espresso à capsules Essenza Mini, le modèle ultra-compact de la gamme des machines à café Nespresso
 - 2 boutons avec arrêt automatique du café : espresso (40 ml) ou café long (110 ml)
-- Pré-chauffage rapide : 25 secondes
-- Offert ! Un set de 14 capsules livré avec votre machine
 - Capacité du bac pour capsules usagées : 6
+- Réservoir deau amovible de 0,6 L
+- Dimensions (LxHxl): 8,4 x 20,4 x 33 cm
 - Mode économiseur dénergie: mise en veille automatique après 9 min
+- Offert ! Un set de 14 capsules livré avec votre machine
+- Machine espresso à capsules Essenza Mini, le modèle ultra-compact de la gamme des machines à café Nespresso
+- Pré-chauffage rapide : 25 secondes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CV1RHZX/?tag=tolees0d-21)
