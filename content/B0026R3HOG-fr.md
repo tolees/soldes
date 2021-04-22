@@ -28,8 +28,8 @@ C'est en vente [DE BUYER -3742.28 -faitout affinity a couv.tout inox ø 28](http
 
 ℹ️:
 
-- Diamètre : 28 cm
 - Tous feux dont induction
+- Diamètre : 28 cm
 - Faitout complet pour réaliser des plats mijotés ou cuire de grands volumes
 - Diffusion uniforme de la chaleur sur tout lustensile
 - Ustensile en matériau multicouche ultra réactif
