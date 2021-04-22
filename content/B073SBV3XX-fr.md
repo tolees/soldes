@@ -28,10 +28,10 @@ C'est en vente [Western Digital - WD Blue SSD - SSD interne 250Go M.2 SATA 3D NA
 
 ℹ️:
 
-- Consommation dénergie active jusquà 25 % plus faible que les générations précédentes de SSD WD Blue
-- Vitesse de lecture séquentielle jusquà 560 Mo/s et vitesse décriture séquentielle jusquà 530 Mo/s
 - Certification WD F.I.T. Lab pour une compatibilité avec une large gamme dordinateurs
 - Durée moyenne de bon fonctionnement entre pannes (MTTF) de 1,75 million dheures, parmi les meilleures du marché, et taux dendurance pouvant atteindre jusquà 500 téraoctets écrits (TBW) pour une fiabilité accrue. De plus le produit est garanti 5 ans.
+- Vitesse de lecture séquentielle jusquà 560 Mo/s et vitesse décriture séquentielle jusquà 530 Mo/s
+- Consommation dénergie active jusquà 25 % plus faible que les générations précédentes de SSD WD Blue
 - SSD SATA NAND 3D pour une capacité maximale de 2 To et une fiabilité accrue
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073SBV3XX/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Samsung Galaxy Tab S6 Lite WiFi - 64GB  4GB  Bleu  version allemande 
 
 ℹ️:
 
-- Samsung Galaxy Tab S6 Lite WiFi - 64GB, 4GB, Bleu
 - Batterie: 7040 mAh
-- Appareil photo: 8 MP
+- Samsung Galaxy Tab S6 Lite WiFi - 64GB, 4GB, Bleu
 - Processeur: Exynos 9611 2,3 GHz
+- Appareil photo: 8 MP
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085V6NGVS/?tag=tolees0d-21)
