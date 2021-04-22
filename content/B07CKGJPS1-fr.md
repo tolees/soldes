@@ -28,10 +28,10 @@ C'est en vente [HyperX Predator HX429C15PB3AK2/16 Mémoire RAM 2933 MHz DDR4 CL1
 
 ℹ️:
 
-- Intel XMP et AMD Ryzen Compatible
-- Effets lumineux RGB époustouflants dans un style agressif¹
-- 100% testée à toutes les fréquences
-- Technologie HyperX de synchronisation par infrarouge en attente de brevet
 - Dissipateur de chaleur en aluminium noir agressif
+- 100% testée à toutes les fréquences
+- Effets lumineux RGB époustouflants dans un style agressif¹
+- Intel XMP et AMD Ryzen Compatible
+- Technologie HyperX de synchronisation par infrarouge en attente de brevet
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CKGJPS1/?tag=tolees0d-21)
