@@ -29,7 +29,7 @@ C'est en vente [Cottage Eau de Toilette Folie de Monoï](https://www.amazon.fr/d
 ℹ️:
 
 - Un parfum : Partez à la découverte d’une île Polynésienne paradisiaque avec l’Eau de Toilette Folie de Monoï. Cette fragrance solaire, sensuelle et envoûtante s’ouvre sur un bouquet de fleurs blanches illuminées par la chaleur de l’Ylang, et révèle un cœur poudré de pétale de Tiaré. Inspiré par l’effet chaud et enveloppant d’un rayon de soleil sur la peau, cet accord féminin et floral vous transportera d’allégresse.
-- Made in France: groupe Panther est une PME familiale basée près de Bordeaux. Cocorico 
 - Famille olfactive: Floral oriental
+- Made in France: groupe Panther est une PME familiale basée près de Bordeaux. Cocorico 
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CMPMT9F/?tag=tolees0d-21)

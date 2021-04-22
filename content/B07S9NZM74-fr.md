@@ -28,9 +28,9 @@ Vous avez [Séga - Team Sonic Racing pour PS4](https://www.amazon.fr/dp/B07S9NZM
 
 ℹ️:
 
-- Modifie laspect et la maniabilité de ton véhicule
-- Jusquà 12 joueurs par course, 4 joueurs en écran splitté
 - 15 personnages jouables tirés de lunivers de Sonic
 - Fais la course en équipe, gagne en équipe
+- Jusquà 12 joueurs par course, 4 joueurs en écran splitté
+- Modifie laspect et la maniabilité de ton véhicule
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07S9NZM74/?tag=tolees0d-21)
