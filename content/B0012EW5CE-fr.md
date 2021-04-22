@@ -28,12 +28,12 @@ C'est en vente [Decopatch - Décopatch PP600AO - Un pot de Vernis colle PaperPat
 
 ℹ️:
 
-- Décopatch est une marque française appartenant au groupe Clairefontaine Rhodia. Nous vous proposons des produits qualitatifs pour la customisation, la décoration et les loisirs créatifs.
+- La colle sapplique sur toutes les surfaces planes ou irrégulières. Une façon originale de remettre au gôut du jour un objet démodé ou défraîchi grâce aux feuilles Décopatch (non fournies) spécialement conçues pour le Paperpatch.
 - Fabriqué en France.
-- Il sèche rapidement (environ 10 min). Peut se conserver jusquà 2 ans après ouverture.
 - Il est conforme aux réglementations les plus drastiques en Europe.
 - Il se nettoie à leau. Il sétale facilement, ne mousse pas au contact de leau, adhère immédiatement, parfait pour tout type de support. Il ne modifie ni les couleurs ni les motifs du papier.
+- Décopatch est une marque française appartenant au groupe Clairefontaine Rhodia. Nous vous proposons des produits qualitatifs pour la customisation, la décoration et les loisirs créatifs.
+- Il sèche rapidement (environ 10 min). Peut se conserver jusquà 2 ans après ouverture.
 - Le vernis colle Décopatch permet à la fois de coller le papier et dassurer une couche de protection. Une fois sec, Paperpatch laisse sur le décor un film satiné.
-- La colle sapplique sur toutes les surfaces planes ou irrégulières. Une façon originale de remettre au gôut du jour un objet démodé ou défraîchi grâce aux feuilles Décopatch (non fournies) spécialement conçues pour le Paperpatch.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0012EW5CE/?tag=tolees0d-21)

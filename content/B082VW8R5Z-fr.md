@@ -28,10 +28,10 @@ C'est en vente [PQube - Is it wrong to try to pick up girls in a dungeon ? Infin
 
 ℹ️:
 
-- Explorez le donjon - comme une aventure, cest à vous de vaincre les monstres dans le dangereux labyrinthe créé par les dieux
 - Créez votre équipe - lorsque vous rencontrez de nouveaux amis, ils vous accompagnent dans les donjons pour vous soutenir au combat
-- Un vrai japon rpg avec des donjons à découvrir, un mode story et deux types de quêtes !
 - Deux perspectives - vous pouvez découvrir lhistoire de Bell cranel, mais aussi incarner ais Wallenstein selon le chapitre, chacun avec ses propres compétences !
+- Un vrai japon rpg avec des donjons à découvrir, un mode story et deux types de quêtes !
+- Explorez le donjon - comme une aventure, cest à vous de vaincre les monstres dans le dangereux labyrinthe créé par les dieux
 - Basé sur l’anime populaire également connue sous le nom de danmachi, lhistoire suit lanime depuis le début et ajoute du contenu original !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082VW8R5Z/?tag=tolees0d-21)
