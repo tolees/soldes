@@ -28,8 +28,8 @@ C'est en vente [A di Alessi - Alessi Apd04 a Tempo Egouttoir à Vaisselle en Aci
 
 ℹ️:
 
-- Égouttoir à vaisselle en acier inoxydable 18/10 brillant avec égouttoir à couverts en résine thermoplastique
 - Égouttoirs
 - A Tempo
+- Égouttoir à vaisselle en acier inoxydable 18/10 brillant avec égouttoir à couverts en résine thermoplastique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0045VBVNA/?tag=tolees0d-21)

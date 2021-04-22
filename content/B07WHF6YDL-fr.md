@@ -28,11 +28,11 @@ Vous avez [HyperX Fury HX426C16FB3A/8 Mémoire RAM DIMM DDR4 8GB 2666MHz CL16 1R
 
 ℹ️:
 
-- Technologie HyperX de synchronisation par infrarouge en attente de brevet
 - Fonctionnalité Plug N Play
-- Overclocking automatique jusquà la vitesse la plus élevée autorisée par le BIOS du système.
 - Intel XMP et AMD Ryzen Compatible
 - Effets lumineux RGB époustouflants dans un style agressif¹
+- Technologie HyperX de synchronisation par infrarouge en attente de brevet
+- Overclocking automatique jusquà la vitesse la plus élevée autorisée par le BIOS du système.
 - Testata al 100% in fabbrica ad alte velocità
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07WHF6YDL/?tag=tolees0d-21)
