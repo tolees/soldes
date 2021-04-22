@@ -28,10 +28,10 @@ C'est en vente [Risevape - Uwell Crown IV 4 Kit 200W with Crown IV 4 Tank 5ml  B
 
 ℹ️:
 
-- No nicotine -TPD Compliant
 - Power Range: 5-200W
-- Battery type: 2 * 18650 Batteries(not include)
 - Resistance range: 0.1-3ohm
+- No nicotine -TPD Compliant
 - Capacity: 5ml
+- Battery type: 2 * 18650 Batteries(not include)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TWZN27V/?tag=tolees0d-21)
