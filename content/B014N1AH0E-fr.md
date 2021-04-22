@@ -28,9 +28,9 @@ Vous avez [Printing Pleasure - 3 Toner Compatible pour Brother HL-L2300D  L2320D
 
 ℹ️:
 
-- Imprimantes compatibles: Brother HL-L2300D, HL-L2320D, HL-L2340DW, HL-L2360DN, HL-L2360DW, HL-L2365DW, HL-L2380DW, DCP-L2500D, DCP-L2520DW, DCP-L2540DN, DCP-L2560DW, MFC-L2700DW, MFC-L2720DW, MFC-L2740DW
 - Certifications ISO 9001 et norme environnementale ISO 14001
-- Garantie 3 ans
 - Type de produit: Toner laser compatible, Couleur: Noir
+- Imprimantes compatibles: Brother HL-L2300D, HL-L2320D, HL-L2340DW, HL-L2360DN, HL-L2360DW, HL-L2365DW, HL-L2380DW, DCP-L2500D, DCP-L2520DW, DCP-L2540DN, DCP-L2560DW, MFC-L2700DW, MFC-L2720DW, MFC-L2740DW
+- Garantie 3 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014N1AH0E/?tag=tolees0d-21)
