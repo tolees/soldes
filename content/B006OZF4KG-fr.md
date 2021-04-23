@@ -30,13 +30,13 @@ Vous avez [REVLON Base de Maquillage Perfectrice de Teint PhotoReady - 27 ml](ht
 
 - Riche en pigments photo-chromiques réflecteurs de lumière, la base de teint possède une texture hydratante et non grasse Cette formule camoufle les impefections cutanées et diminue la brillance
 - Convient à tous types de peaux
-- Convient à tous types de peaux
-- Crée une surface idéale pour lapplication du maquillage & prolonge sa tenue
 - Riche en pigments photo-chromiques réflecteurs de lumière, la base de teint possède une texture hydratante et non grasse Cette formule camoufle les impefections cutanées et diminue la brillance
 - À appliquer sur le visage avant le maquillage ou à porter seule
-- À appliquer sur le visage avant le maquillage ou à porter seule
+- Convient à tous types de peaux
+- Réduit l’apparence des pores Lisse et uniformise le grain de peau Laisse la peau douce et lumineuse
 - Crée une surface idéale pour lapplication du maquillage & prolonge sa tenue
 - Réduit l’apparence des pores Lisse et uniformise le grain de peau Laisse la peau douce et lumineuse
-- Réduit l’apparence des pores Lisse et uniformise le grain de peau Laisse la peau douce et lumineuse
+- Crée une surface idéale pour lapplication du maquillage & prolonge sa tenue
+- À appliquer sur le visage avant le maquillage ou à porter seule
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B006OZF4KG/?tag=tolees0d-21)

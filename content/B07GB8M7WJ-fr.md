@@ -28,10 +28,10 @@ C'est en vente [Casio G-SHOCK Homme Digital Quartz Montre avec Bracelet en Rési
 
 ℹ️:
 
-- Fonction dheure universelle
-- Lap Memory 200
-- Bluetooth Smart
 - Chronomètre 1/100 s - 24 heures
+- Fonction dheure universelle
 - odomètre
+- Bluetooth Smart
+- Lap Memory 200
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GB8M7WJ/?tag=tolees0d-21)
