@@ -29,8 +29,8 @@ Vous avez [Games Workshop - Citadel Outils - Poignee de Peintre  MK2 ](https://w
 ℹ️:
 
 - Pays dorigine : Chine
-- 992399911206
 - Quantité : 1 pièce
+- 992399911206
 - Numéro du modèle : 66-09
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08MC88KWZ/?tag=tolees0d-21)
