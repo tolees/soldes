@@ -29,9 +29,9 @@ C'est en vente [AVERY - Pochette de 240 étiquettes autocollantes   Montimbrenli
 ℹ️:
 
 - Compatible Montimbre en ligne
-- Produit certifié FSC
-- Facile à détacher : technologie Avery pour détacher facilement les étiquetets de la planche
-- Compatibles toutes imprimantes laser
 - Technologie ultragrip : Impression sans bourrage et alignement parfait
+- Compatibles toutes imprimantes laser
+- Facile à détacher : technologie Avery pour détacher facilement les étiquetets de la planche
+- Produit certifié FSC
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B009RE1RQG/?tag=tolees0d-21)
