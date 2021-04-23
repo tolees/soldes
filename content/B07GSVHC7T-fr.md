@@ -28,11 +28,11 @@ C'est en vente [Love Beauty And Planet Lait Hydratant pour le Corps  Hydratation
 
 ℹ️:
 
-- Oui Soin du corps vegan
-- Oui Crème corps pour une peau hydratée
 - Oui Lait pour le corps, à 96% dingrédients dorigine naturelle, infusé à lEau de Coco Naturelle et Fleur de Mimosa
+- Oui Un parfum frais et délicat extrait de la Fleur de Mimosa approvisionnée de manière éthique
+- Oui Crème corps pour une peau hydratée
+- Oui Soin du corps vegan
 - Oui Formule conservée naturellement
 - Oui Bouteille avec 100% de plastique recyclé
-- Oui Un parfum frais et délicat extrait de la Fleur de Mimosa approvisionnée de manière éthique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GSVHC7T/?tag=tolees0d-21)
