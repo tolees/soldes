@@ -28,8 +28,8 @@ C'est en vente [BLACK+DECKER Batterie Lithium 36V 2Ah  Compatible avec Tous Les 
 
 ℹ️:
 
-- 36 volts ; lithium 2Ah
 - PLUS produit: batterie interchangeable cette batterie 36V est interchangeable avec tous les outils sans fil BLACK+DECKER. Un vrai plus !
+- 36 volts ; lithium 2Ah
 - Technologie lithium: pas d’effet mémoire et faible autodécharge
 - Compacte et légèreté: une batterie au poids plume qui garantit une compacte et une légèreté hors du commun
 
