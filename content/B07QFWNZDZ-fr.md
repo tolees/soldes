@@ -28,10 +28,10 @@ C'est en vente [TELMU Télescope Astronomique - F60050M/5 Télescope réfracteur
 
 ℹ️:
 
+- * Miroir diagonal à 45 °- Lors de la visualisation des corps célestes et de la nature, il est utilisé pour ajuster limage inversée formée dans lobjectif, de sorte que limage que vous voyez soit exactement la même que la réalité, vous offrant ainsi une meilleure expérience de visualisation.
+- * Support de téléphone portable - Le support de téléphone portable peut être connecté à loculaire pour que vous puissiez observer à travers votre téléphone portable et vous pouvez prendre des photos de ce que vous observez à tout moment pour préserver les moments précieux.
 - * Deux oculaires professionnels - Oculaires Huygens professionnels de 20 mm et 12,5 mm avec un grossissement de 30 et 48 fois et un bon champ de vision et dimagerie. Répondre aux besoins dobserver les étoiles et dobserver la nature.
 - * Trépied réglable - Il est fabriqué dans un matériau léger en aluminium anti-corrosion et peut être réglé à une hauteur de 23,62" à 43,3". Un verrou de mouvement horizontal est placé en bas pour maintenir la stabilité et il peut être tourné à 360 °.
-- * Miroir diagonal à 45 °- Lors de la visualisation des corps célestes et de la nature, il est utilisé pour ajuster limage inversée formée dans lobjectif, de sorte que limage que vous voyez soit exactement la même que la réalité, vous offrant ainsi une meilleure expérience de visualisation.
 - * Viseur à point rouge - Adopter la conception infrarouge de LED. Hautement directionnel. Il est plus rapide et plus facile de trouver la cible que le viseur optique. Remarque: Vous devez préparer la batterie vous-même.
-- * Support de téléphone portable - Le support de téléphone portable peut être connecté à loculaire pour que vous puissiez observer à travers votre téléphone portable et vous pouvez prendre des photos de ce que vous observez à tout moment pour préserver les moments précieux.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QFWNZDZ/?tag=tolees0d-21)
