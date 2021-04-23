@@ -29,9 +29,9 @@ C'est en vente [KNIPEX Cobra QuickSet Pince multiprise de pointe  250 mm  87 22 
 ℹ️:
 
 - Le réglage à même la pièce s’opère par simple coulissement
-- Réglage rapide additionnel à même la pièce par coulissement
 - Enclenchement en toute sécurité du verrouillage au premier effort exercé. L’ouverture de la pince est ensuite verrouillée et ne peut plus être modifiée que par pression sur le bouton
 - Ouvrir intégralement, faire coulisser, serrer !
+- Réglage rapide additionnel à même la pièce par coulissement
 - Allie l’enclenchement éprouvé et sûr de l’axe d’articulation à une fonction additionnelle de coulissement facilitant le travail en espaces très restreints et inaccessibles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00ID7CACS/?tag=tolees0d-21)

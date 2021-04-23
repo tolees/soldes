@@ -28,9 +28,9 @@ C'est en vente [Lee Extreme Motion  Pantalon Homme  Beige  Cougar 77   32W / 32L
 
 ℹ️:
 
-- 97% Coton, 3% Élasthanne
-- Taille Normal
 - Fermeture éclair
+- Taille Normal
 - Lavage en machine, 30° max.
+- 97% Coton, 3% Élasthanne
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JBYTMCL/?tag=tolees0d-21)

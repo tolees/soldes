@@ -29,9 +29,9 @@ C'est en vente [DE BUYER -8363.20 -poele ronde choc extreme ø20 avec emb](https
 ℹ️:
 
 - Tous feux dont induction
-- Diamètre : 20 cm
-- Entretien : passe au lave-vaisselle, sinon lavage à la main avec une éponge non-abrasive
 - Ustensile multifonction
+- Entretien : passe au lave-vaisselle, sinon lavage à la main avec une éponge non-abrasive
 - Compatible avec le four
+- Diamètre : 20 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00I0QMP7C/?tag=tolees0d-21)
