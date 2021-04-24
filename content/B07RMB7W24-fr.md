@@ -28,9 +28,9 @@ Vous avez [Funko Pop! TV: Game of Thrones - Arya w/Two Headed Spear  Multicolore
 
 ℹ️:
 
-- Issue de la gamme Game of Thrones, la figurine Arya w/Two Headed Spear rejoint la collection Funko POP
-- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
 - Découvrez tous les autres produits Funko dédiés à lunivers Game of Thrones Collectionnez-les tous
+- Chaque personnage mesure environ 9 cm de haut et est emballé dans une boîte illustrée qui laisse apparaître le personnage
+- Issue de la gamme Game of Thrones, la figurine Arya w/Two Headed Spear rejoint la collection Funko POP
 - Funko POP! Figurine en vinyle est le jouet 2018 de lannée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RMB7W24/?tag=tolees0d-21)
