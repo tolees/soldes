@@ -28,9 +28,9 @@ C'est en vente [BGS 975 | Clé dynamométrique | 6 3 mm  1/4"  | 1 - 5 Nm](https
 
 ℹ️:
 
+- 6,3 mm (1/4")
+- BGS 975
 - Clé dynamométrique
 - 1 - 5 Nm
-- BGS 975
-- 6,3 mm (1/4")
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001ILERMW/?tag=tolees0d-21)
