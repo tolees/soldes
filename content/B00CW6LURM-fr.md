@@ -28,14 +28,14 @@ Vous avez [Hansgrohe Mitigeur de Lavabo de Salle de Bain Focus 100 CH3 avec Tire
 
 ℹ️:
 
-- Bec haut (env. 10cm) et hauteur totale de 20,4cm (poignée ouverte) pour une grande liberté de mouvement; corps fixe et non orientable
-- Garantie totale de 5 ans par le fabricant
-- Compatible avec tous systèmes de production deau chaude
-- Garniture de vidage à tirette simple et pratique
-- Elimination du calcaire par simple passage du doigt sur le mousseur pour un jet irréprochable et pour longtemps
 - Design élégant et intemporel qui sadapte à tous les styles
-- Poignée ergonomique pour une prise en main naturelle et une simplicité de réglage du débit et de la température
+- Elimination du calcaire par simple passage du doigt sur le mousseur pour un jet irréprochable et pour longtemps
+- Garniture de vidage à tirette simple et pratique
 - Flexibles dalimentation, tirette de vidage et manuel dinstallation fournis
+- Bec haut (env. 10cm) et hauteur totale de 20,4cm (poignée ouverte) pour une grande liberté de mouvement; corps fixe et non orientable
+- Compatible avec tous systèmes de production deau chaude
+- Poignée ergonomique pour une prise en main naturelle et une simplicité de réglage du débit et de la température
+- Garantie totale de 5 ans par le fabricant
 - Réalisez jusquà 50% déconomie deau et dénergie, grâce à un débit réduit à 5l/min et louverture du débit en eau froide
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00CW6LURM/?tag=tolees0d-21)
