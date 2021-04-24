@@ -28,11 +28,11 @@ Vous avez [Objectif TAMRON - 35mm F/1 8 Di VC USD - Monture Nikon](https://www.a
 
 ℹ️:
 
-- Fabrication japonaise très haut de gamme
-- Stabilisateur dImage VC, un atout essentiel
-- Rapport de grossissement maximal: 1:2.5
 - Distance Minimale de mise au point de 20 cm (un record)
-- Tire le meilleur des nouveaux capteurs très haute résolution
+- Stabilisateur dImage VC, un atout essentiel
+- Fabrication japonaise très haut de gamme
+- Rapport de grossissement maximal: 1:2.5
 - Objectif lumineux (f/1,8) et agile (480g/8cm)
+- Tire le meilleur des nouveaux capteurs très haute résolution
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014SQ2VLM/?tag=tolees0d-21)

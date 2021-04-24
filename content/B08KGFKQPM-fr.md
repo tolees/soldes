@@ -28,10 +28,10 @@ Vous avez [U&I Entertainment - Godfall Ascended Edition  PS5 ](https://www.amazo
 
 ℹ️:
 
-- Aperion est au bord de la ruine. Vous êtes le dernier des chevaliers Valorian, des guerriers divins et maîtres imparables du combat au corps à corps
-- Testez vos compétences dans la tour des épreuves contre les ennemis les plus coriaces, combattez en solo ou en coopération en ligne à trois joueurs
 - Maîtrisez les cinq classes darmes, chacune avec des styles de jeu uniques et une variété dépées longues, darmes polaires, de marteaux de guerre, de grandes épées et de doubles lames
-- Libérez la puissance de votre PlayStation 5 avec des temps de chargement presque nuls. Ressentez le choc des épées et le frisson de la bataille grâce à la manette PS5 DualSense
+- Aperion est au bord de la ruine. Vous êtes le dernier des chevaliers Valorian, des guerriers divins et maîtres imparables du combat au corps à corps
 - Aventurez-vous à travers des panoramas exotiques, des récifs aériens du royaume de leau aux forêts souterraines pourpres du royaume de la Terre
+- Libérez la puissance de votre PlayStation 5 avec des temps de chargement presque nuls. Ressentez le choc des épées et le frisson de la bataille grâce à la manette PS5 DualSense
+- Testez vos compétences dans la tour des épreuves contre les ennemis les plus coriaces, combattez en solo ou en coopération en ligne à trois joueurs
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KGFKQPM/?tag=tolees0d-21)
