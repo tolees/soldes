@@ -28,10 +28,10 @@ C'est en vente [Taurus  Brasseur d air SIROCCO 18  Brasseur d air 50 cm](https:/
 
 ℹ️:
 
-- Débit d’air: 62.25 m3/mn
+- 3 hélices aérodynamiques pour une ventilation plus puissante
 - Corbeille orientable
+- Débit d’air: 62.25 m3/mn
 - Pieds antidérapants
 - Poignée de transport, range cordon
-- 3 hélices aérodynamiques pour une ventilation plus puissante
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06WD7JT9X/?tag=tolees0d-21)

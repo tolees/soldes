@@ -28,14 +28,14 @@ C'est en vente [Taurus Alpatec  Brasseur d air SIROCCO 18  944656  120W  45cm de
 
 ℹ️:
 
-- 3 Vitesses de ventilation
-- Puissance : 120W, diamètre de la corbeille : 45cm, débit d’air : 62.25 M3/mn
-- Taurus Sirocco 18. Type: Ventilateur à lame domestique
-- Puissance: 120 W
 - Matériau du boîtier/corps: Metal. Diamètre du ventilateur: 45 cm. Type de source dalimentation: Secteur
-- Corbeille orientable
+- Puissance: 120 W
+- Taurus Sirocco 18. Type: Ventilateur à lame domestique
+- Puissance : 120W, diamètre de la corbeille : 45cm, débit d’air : 62.25 M3/mn
 - Couleur du produit: Chrome
-- Brasseur d’air en chrome 3 hélices
+- 3 Vitesses de ventilation
 - Hélices aérodynamiques pour une ventilation plus puissante
+- Brasseur d’air en chrome 3 hélices
+- Corbeille orientable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PMW2MJ1/?tag=tolees0d-21)

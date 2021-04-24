@@ -28,10 +28,10 @@ C'est en vente [Taurus R850 - Rafraichisseur portable. Ventilateur rafraîchissa
 
 ℹ️:
 
+- RAFRAICHISSEUR DAIR : système de refroidissement qui rafraîchit, ventile et humidifie lair ambiant, abaissant sa température. Plus vert et avec moins de consommation dénergie que les autres systèmes de refroidissement
+- DIVERSES FONCTIONS: Mode Normal, Brise et Nuit. 3 vitesses. Fonction ventilateur ou climatisation. 80W de puissance maximale. Réservoir de 7 litres, comprend deux bacs à glaçons. Ailettes réglables
+- MINUTERIE: minuterie jusquà 7 heures avec arrêt automatique. Télécommande et panneau de commande intuitif. Boîtier de télécommande
 - SYSTÈME AUTO-MODE: Le système de protection du mode Auto passe automatiquement en mode ventilateur lorsque leau du réservoir sépuise. Voyant de réservoir vide,
 - DÉTAILS SUPPLÉMENTAIRES: filtre à poussière pour une maintenance et un fonctionnement optimal. 4 roues verrouillables. Boîtier pour câble. Niveau de bruit minimum de 65dBA
-- MINUTERIE: minuterie jusquà 7 heures avec arrêt automatique. Télécommande et panneau de commande intuitif. Boîtier de télécommande
-- DIVERSES FONCTIONS: Mode Normal, Brise et Nuit. 3 vitesses. Fonction ventilateur ou climatisation. 80W de puissance maximale. Réservoir de 7 litres, comprend deux bacs à glaçons. Ailettes réglables
-- RAFRAICHISSEUR DAIR : système de refroidissement qui rafraîchit, ventile et humidifie lair ambiant, abaissant sa température. Plus vert et avec moins de consommation dénergie que les autres systèmes de refroidissement
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B081F6MC9N/?tag=tolees0d-21)
