@@ -28,10 +28,10 @@ C'est en vente [Calvin Klein Jeans High Rise Super Skinny Ankle Jean Droit  Noir
 
 ℹ️:
 
+- Calvin Klein Jeans
+- Livraison à domicile contre signature
 - Calvin Klein Jeans Jean super skinny Calvin Klein Jeans ref_49533 Black - Noir - 30
 - Racine > Accueil > Textile Femme > Pantalons - jeans Femme
 - 8.99
-- Livraison à domicile contre signature
-- Calvin Klein Jeans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VCLPC1G/?tag=tolees0d-21)
