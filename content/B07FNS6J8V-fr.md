@@ -28,10 +28,10 @@ Vous avez [LEGO City - Les pompiers du centre-ville - 60216 - Jeu de constructio
 
 ℹ️:
 
-- 943 pièces pour les filles et les garçons à partir de 6 ans
-- Construisez lintervention des pompiers du centre-ville pour éteindre le feu dans un bâtiment de votre ville LEGO
 - Le bâtiment avec une zone de chantier incluant un réverbère et des toilettes portables mesure plus de 27 cm de haut, 22 cm de large et 12 cm de profondeur Le camion de pompiers avec échelle mesure plus de 8 cm de haut, 39 cm de long et 6 cm de large La grue mesure plus de 24 cm de haut, 21 cm de long et 11 cm de large Lhélicoptère mesure plus de 8 cm de haut, 19 cm de long et 4 cm de large
 - Les ensembles LEGO City sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Construisez lintervention des pompiers du centre-ville pour éteindre le feu dans un bâtiment de votre ville LEGO
 - Inclut 7 figurines LEGO City : 2 ouvriers, un pilote et 4 pompiers
+- 943 pièces pour les filles et les garçons à partir de 6 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FNS6J8V/?tag=tolees0d-21)
