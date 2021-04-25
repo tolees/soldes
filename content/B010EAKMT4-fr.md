@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '37.15 % rabais sur Bessey GTR12 Étau de table tout en acier'
-date: 2021-04-24 03:17:21
+date: 2021-04-25 19:47:47
 image: 'https://m.media-amazon.com/images/I/41x2fItvMlL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Bessey GTR12 Étau de table tout en acier GTR  Gris/Rouge  120/60 mm]
 
 ℹ️:
 
-- Hauteur de serrage : 120 mm
-- Hauteur de serrage : 120 mm
 - Poignée en bois à forme ergonomique
+- Hauteur de serrage : 120 mm
 - Étriers fixes forgés spécialement pour les écrous 12 x 8 mm
+- Hauteur de serrage : 120 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B010EAKMT4/?tag=tolees0d-21)
