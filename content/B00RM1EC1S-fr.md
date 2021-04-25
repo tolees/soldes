@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Clé USB 2.0 SanDisk Cruzer Blade 128 Go avec 43.05 % rabais '
-date: 2021-04-24 07:21:03
+date: 2021-04-25 11:41:45
 image: 'https://m.media-amazon.com/images/I/31jUuuy2VcL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
