@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '30.23 % rabais sur Lego Technic 42093 - Chevrolet Corvette '
-date: 2021-03-31 19:19:27
-image: 'https://m.media-amazon.com/images/I/61BOKCgM9vL._SL400_.jpg'
+date: 2021-04-25 06:05:32
+image: 'https://m.media-amazon.com/images/I/61BOKCgM9vL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -19,12 +19,12 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21'
 descuento: '30.23'
-average: '33.8820000000003'
+average: '33.9899591836738'
 ---
 
 Vous avez [Lego Technic 42093 - Chevrolet Corvette ZR1](https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21)  à  30.23 % de réduction, prix final  27.9 EUR (original: 39.99 EUR) ici:
 
-[![Lego Technic 42093 - Chevrolet Corvette ](https://m.media-amazon.com/images/I/61BOKCgM9vL._SL400_.jpg)](https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21)
+[![Lego Technic 42093 - Chevrolet Corvette ](https://m.media-amazon.com/images/I/61BOKCgM9vL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07FNW6WQ4/?tag=tolees0d-21)
 
 ℹ️:
 
