@@ -28,8 +28,8 @@ Vous avez [Bright Starts Jeu Educatif Lights & Colors Driver](https://www.amazon
 
 ℹ️:
 
-- Bébé peut changer de vitesse pour entendre des chiffres et les bruits du moteur de la voiture
 - Permet à bébé de jouer au pilote et de découvrir les chiffres, les opposés, de chanter des chansons et plus
+- Bébé peut changer de vitesse pour entendre des chiffres et les bruits du moteur de la voiture
 - A partir de 6 mois
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00X0XGSOQ/?tag=tolees0d-21)

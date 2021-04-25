@@ -28,11 +28,11 @@ C'est en vente [Corsair HS35 Casque de Gaming Stéréo  Écouteurs Néodyme de 5
 
 ℹ️:
 
-- Microphone unidirectionnel amovible: Entièrement amovible et optimisé pour la qualité de la voix tout en réduisant les bruits ambiants, pour un son fort et clair
 - Compatibilité multi-plates-formes: Utilisable sur Xbox One, PS4, Nintendo Switch et appareils mobiles, Peut nécessiter un adaptateur Microsoft de 3,5 mm (vendu séparément)
-- Commandes à accès simplifié: Les commandes de volume et de sourdine en supra-aural vous permettent deffectuer des réglages à la volée sans sortir du jeu
+- Microphone unidirectionnel amovible: Entièrement amovible et optimisé pour la qualité de la voix tout en réduisant les bruits ambiants, pour un son fort et clair
 - Confort durable: Ses écouteurs en mousse à mémoire de forme réglables, ainsi que sa conception légère, vous procurent le confort nécessaire pour jouer pendant des heures
-- Son dexcellente qualité: Les écouteurs en néodyme de 50 mm personnalisés offrent une qualité sonore supérieure grâce à une précision et une plage exceptionnelles. Sensibilité du casque: 113dB (+/- 3dB)
+- Commandes à accès simplifié: Les commandes de volume et de sourdine en supra-aural vous permettent deffectuer des réglages à la volée sans sortir du jeu
 - Certifié Discord: Pour des communications claires et un son exceptionnel
+- Son dexcellente qualité: Les écouteurs en néodyme de 50 mm personnalisés offrent une qualité sonore supérieure grâce à une précision et une plage exceptionnelles. Sensibilité du casque: 113dB (+/- 3dB)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SK3ZZ71/?tag=tolees0d-21)
