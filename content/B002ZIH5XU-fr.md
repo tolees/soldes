@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Silikomart 20.006.00.0060 SF006 Moule Fo avec 20.31 % rabais '
-date: 2021-04-16 17:42:37
+date: 2021-04-25 15:50:07
 image: 'https://m.media-amazon.com/images/I/41tUFj-chOL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'silikomart'
 buyurl: 'https://www.amazon.fr/dp/B002ZIH5XU/?tag=tolees0d-21'
 descuento: '20.31'
-average: '9.255'
+average: '8.958'
 ---
 
 C'est en vente [Silikomart 20.006.00.0060 SF006 Moule Forme Demi-Sphères 24 Cavités Silicone Terre Cuite](https://www.amazon.fr/dp/B002ZIH5XU/?tag=tolees0d-21)  à  20.31 % de réduction, prix final  7.77 EUR (original: 9.75 EUR) ici:
