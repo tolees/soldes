@@ -28,8 +28,8 @@ Vous avez [HUAWEI B311-221  Blanc  51060DYE](https://www.amazon.fr/dp/B07TK2X6NS
 
 ℹ️:
 
-- Débit filaire max.: 1000 Mo par seconde
 - Connexion antenne: 4G / 3G
+- Débit filaire max.: 1000 Mo par seconde
 - 51060DYE
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TK2X6NS/?tag=tolees0d-21)

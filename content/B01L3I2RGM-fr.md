@@ -28,10 +28,10 @@ Vous avez [Polti PTEU0273 Vaporetto SV420 Frescovapir Balai Vapeur avec Brosse V
 
 ℹ️:
 
-- Réservoir amovible. Filtre anticalcaire
+- Puissance : 1500W
 - La vapeur des balais vapeur Polti Vaporetto tue et élimine 99,9%* des virus, germes et bactéries.
 - Vapeur réglable
 - Chauffe rapide: prêt en 15 secondes
-- Puissance : 1500W
+- Réservoir amovible. Filtre anticalcaire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01L3I2RGM/?tag=tolees0d-21)

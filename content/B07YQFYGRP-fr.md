@@ -28,10 +28,10 @@ C'est en vente [NIVEA Lait Crème Nourrissant 48h Peaux Sèches à Extra Sèches
 
 ℹ️:
 
-- Emballage – NIVEA Lait Crème Nourrissant 48H, Lait Corporel Hydratation intense, Soin douceur pour Peaux Sèches à Très sèches, 1 x 250 ml, numéro d’article : 83876.
-- Hydratation intense – Enrichi en Concentré de Soin et avec 2x plus d’Huile d’Amande Douce naturelle, ce soin nourrit intensément les peaux sèches pendant 48H.
-- Nutrition longue durée – Idéale pour celles qui ne s’arrêtent jamais, la lotion hydratante procure 48H d’hydratation non-stop aux peaux sèches à très sèches.
 - Conseils d’application – Appliquez quotidiennement le soin femme sur tout le corps en massant. Insistez sur les zones particulièrement sèches.
+- Nutrition longue durée – Idéale pour celles qui ne s’arrêtent jamais, la lotion hydratante procure 48H d’hydratation non-stop aux peaux sèches à très sèches.
+- Hydratation intense – Enrichi en Concentré de Soin et avec 2x plus d’Huile d’Amande Douce naturelle, ce soin nourrit intensément les peaux sèches pendant 48H.
 - Douceur – La formule du lait pour le corps réduit visiblement les rugosités des peaux très sèches pour une sensation de douceur dès la 1e application.
+- Emballage – NIVEA Lait Crème Nourrissant 48H, Lait Corporel Hydratation intense, Soin douceur pour Peaux Sèches à Très sèches, 1 x 250 ml, numéro d’article : 83876.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07YQFYGRP/?tag=tolees0d-21)
