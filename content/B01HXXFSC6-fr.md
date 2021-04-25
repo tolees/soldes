@@ -28,10 +28,10 @@ Vous avez [Panasonic batteries - Panasonic eneloop pro  chargeur rapide intellig
 
 ℹ️:
 
-- Le chargeur commandé par microprocesseur peut déterminer la charge résiduelle des piles déjà utilisées.
-- Il dispose dun système de surveillance par emplacement et contrôle et recharge chaque pile séparément. Chaque emplacement de recharge est doté dun voyant LED qui indique le statut pendant le processus de recharge.
 - Le chargeur rapide intelligent eneloop pro est parfaitement adapté à lutilisateur exigeant et recharge 1 à 4 piles Ni-MH de taille AA (Mignon) ou AAA (Micro).
 - Smart Charge & protection DeltaV : pour une recharge particulièrement douce, le chargeur rapide est équipé dune protection sophistiquée contre la surcharge. Chaque emplacement se charge individuellement et termine automatiquement le processus de charge avant que la surcharge napparaisse.
+- Il dispose dun système de surveillance par emplacement et contrôle et recharge chaque pile séparément. Chaque emplacement de recharge est doté dun voyant LED qui indique le statut pendant le processus de recharge.
+- Le chargeur commandé par microprocesseur peut déterminer la charge résiduelle des piles déjà utilisées.
 - En seulement 2 heures, 1 à 2 piles eneloop AA (2500 mAh) sont complètement rechargées. Le Battery-Life Checker vérifie létat de vos piles et indique quand une pile doit être remplacée.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HXXFSC6/?tag=tolees0d-21)

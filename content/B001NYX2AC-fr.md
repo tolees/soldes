@@ -28,9 +28,9 @@ Vous avez [KS TOOLS 150.2039 Pistolet pneumatique repousse-piston](https://www.a
 
 ℹ️:
 
-- Pour repousser correctement les pistons de frein (A droite et à gauche)
 - KS TOOLS fabriquant doutils de qualité, pour les professionnels de lautomobile, de lindustrie et du second-œuvre du bâtiment
-- La direction de rotation est donnée par la pièce en bout de tige filetée
 - Adaptateur à tige universel avec support magnétique
+- Pour repousser correctement les pistons de frein (A droite et à gauche)
+- La direction de rotation est donnée par la pièce en bout de tige filetée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001NYX2AC/?tag=tolees0d-21)
