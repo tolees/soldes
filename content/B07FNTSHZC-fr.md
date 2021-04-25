@@ -28,12 +28,12 @@ C'est en vente [LEGO® DUPLO® Rescue Le commissariat de police Jeu de construct
 
 ℹ️:
 
-- Inclut 3 figurines LEGO DUPLO : 2 policiers et un bandit
 - Les accessoires incluent une tasse, ainsi que des briques décorées de beignets et une caméra de sécurité
-- Il faut attraper le bandit et lemmener au commissariat de police pour aller en prison
 - Possibilité dappuyer sur le bouton pour activer la sirène et les lumières de la voiture de police
-- Comprend un commissariat de police de facile à construire avec une porte de cellule qui s’ouvre et une voiture de police avec des lumières et une sirène sonore
-- Permet daider son enfant à maîtriser des compétences de construction de base avec ce modèle facile à construire
+- Il faut attraper le bandit et lemmener au commissariat de police pour aller en prison
 - On peut utiliser les personnages modernes, les accessoires et les briques décorées pour samuser avec son enfant tout en l’aidant à découvrir la police
+- Comprend un commissariat de police de facile à construire avec une porte de cellule qui s’ouvre et une voiture de police avec des lumières et une sirène sonore
+- Inclut 3 figurines LEGO DUPLO : 2 policiers et un bandit
+- Permet daider son enfant à maîtriser des compétences de construction de base avec ce modèle facile à construire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNTSHZC/?tag=tolees0d-21)
