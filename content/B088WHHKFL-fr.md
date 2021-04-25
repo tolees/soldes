@@ -28,10 +28,10 @@ Vous avez [Kit de graines de légumes prêt à pousser OwnGrown  10 légumes inc
 
 ℹ️:
 
-- 🌱 EMBALLAGE PRATIQUE pour conserver les sachets ou comme coffret cadeau en tant que kit de légumes indispensables pour le jardin, de plantation pour débutant ou encore de graines pour enfant
 - 🌱 FACILE À PLANTER: vos propres légumes en cuisine et dans l’assiette! Des instructions précises se trouvent sur chaque sachet. Certaines variétés peuvent aussi se cultiver en intérieur!
+- 🌱 LOT SEMENCES LÉGUMES: carotte, concombre, laitue, ciboule, tomate, courgette, roquette, épinard, laitue à couper, radis rond. Faire germer en pot ou dans un bol en intérieur et en extérieur
+- 🌱 EMBALLAGE PRATIQUE pour conserver les sachets ou comme coffret cadeau en tant que kit de légumes indispensables pour le jardin, de plantation pour débutant ou encore de graines pour enfant
 - 🌱 KIT GRAINES DU POTAGER comprenant 10 légumes incontournables pour le potager. Cuisinez salades, poêlées de légumes, gratins et bien plus encore avec vos propres légumes du jardin!
 - 🌱 SEMENCES CERTIFIÉES de première qualité : mix de 10 plants de légumes annuels et vivaces les plus populaires à semer. Semis naturel sans manipulation génétique (sans OGM)
-- 🌱 LOT SEMENCES LÉGUMES: carotte, concombre, laitue, ciboule, tomate, courgette, roquette, épinard, laitue à couper, radis rond. Faire germer en pot ou dans un bol en intérieur et en extérieur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088WHHKFL/?tag=tolees0d-21)

@@ -29,10 +29,10 @@ C'est en vente [HUAWEI - Matebook D 14  2020   i7/16G/512G/MX250](https://www.a
 ℹ️:
 
 - Batterie de 56Wh pour une autonomie longue durée
-- Finesse et légereté incarnées avec un poids plume de 1.38kg et une épaisseur de 15.9mm
-- Processeur Intel Core i7 10510U pour des performances exceptionnelles
-- Continuité multi-écrans, pour une projection de votre smartphone directement sur votre PC
-- Chargeur secteur USB Type-C, pour un chargement 2-en-1 de votre ordinateur ou de votre téléphone
 - Capteur dempreinte digitale intégré au bouton dalimentation
+- Continuité multi-écrans, pour une projection de votre smartphone directement sur votre PC
+- Processeur Intel Core i7 10510U pour des performances exceptionnelles
+- Finesse et légereté incarnées avec un poids plume de 1.38kg et une épaisseur de 15.9mm
+- Chargeur secteur USB Type-C, pour un chargement 2-en-1 de votre ordinateur ou de votre téléphone
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089MLWGQH/?tag=tolees0d-21)

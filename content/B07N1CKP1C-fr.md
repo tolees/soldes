@@ -28,10 +28,10 @@ C'est en vente [SAGUARO Chaussures Aquatiques Chaussures d eau Chaussons de Plag
 
 ℹ️:
 
-- Sport Aquatique
-- Chaussures de Plongée Surf Yoga
-- Chaussures da Aquatique
-- water shoes
 - Chaussons de Plage de deau
+- water shoes
+- Chaussures da Aquatique
+- Chaussures de Plongée Surf Yoga
+- Sport Aquatique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07N1CKP1C/?tag=tolees0d-21)
