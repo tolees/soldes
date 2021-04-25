@@ -29,7 +29,7 @@ C'est en vente [Clé USB 2.0 SanDisk Cruzer Blade 128 Go](https://www.amazon.fr/
 ℹ️:
 
 - Transportez vos vidéos, musiques et fichiers personnels importants
-- Taille du disque dur : 128 Go
 - Sa conception compacte lui permet de tenir dans votre poche
+- Taille du disque dur : 128 Go
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00RM1EC1S/?tag=tolees0d-21)
