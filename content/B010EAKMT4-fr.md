@@ -29,8 +29,8 @@ Vous avez [Bessey GTR12 Étau de table tout en acier GTR  Gris/Rouge  120/60 mm]
 ℹ️:
 
 - Poignée en bois à forme ergonomique
-- Hauteur de serrage : 120 mm
-- Hauteur de serrage : 120 mm
 - Étriers fixes forgés spécialement pour les écrous 12 x 8 mm
+- Hauteur de serrage : 120 mm
+- Hauteur de serrage : 120 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B010EAKMT4/?tag=tolees0d-21)
