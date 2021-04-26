@@ -28,10 +28,10 @@ C'est en vente [GRIFEMA G4010B-2 Dover-G4010B-2  Mitigeur d évier 3 Voies pour 
 
 ℹ️:
 
-- Rapide à entretenir : La corrosion et la finition résistante à la rouille sont faciles à nettoyer.
-- Facile à installer: sans effort pour terminer linstallation de bricolage avec toutes les fixations fournies.
 - Conception minimaliste: il suffit de tourner la tête du pulvérisateur pour passer du jet de douche au jet de jet.
-- Nouvelles innovations: Couplé à la fonction eau chaude & froide et RO (système de filtration sous évier exclu), il permet déconomiser de lespace et de largent.
+- Facile à installer: sans effort pour terminer linstallation de bricolage avec toutes les fixations fournies.
+- Rapide à entretenir : La corrosion et la finition résistante à la rouille sont faciles à nettoyer.
 - Sécuritaire à ancrer: le bec de cuisine coulissant et flexible se rétracte en douceur.
+- Nouvelles innovations: Couplé à la fonction eau chaude & froide et RO (système de filtration sous évier exclu), il permet déconomiser de lespace et de largent.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XNXJWYB/?tag=tolees0d-21)

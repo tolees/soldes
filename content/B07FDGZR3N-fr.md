@@ -29,9 +29,9 @@ C'est en vente [Microsoft – Surface Mobile Mouse – Souris Bluetooth pour PC 
 ℹ️:
 
 - Défilement fluide et précis avec molette métallique
-- Connexion sans fil et rapide via Bluetooth
-- Souris fine, légère et design. Configuration requise: Lappareil doit prendre en charge Bluetooth 4.0 ou supérieur
-- Facile à transporter
 - Compatible avec Windows, Android, Mac. Lappareil doit prendre en charge Bluetooth 4.0 ou supérieur (Remarque : de nombreux appareils Apple et Windows 7 ne prennent pas en charge Bluetooth 4.0)
+- Facile à transporter
+- Souris fine, légère et design. Configuration requise: Lappareil doit prendre en charge Bluetooth 4.0 ou supérieur
+- Connexion sans fil et rapide via Bluetooth
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FDGZR3N/?tag=tolees0d-21)
