@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO City Turbo Wheels  L atelier de tun avec 26.00 % rabais '
-date: 2021-04-25 09:46:27
+date: 2021-04-26 15:55:11
 image: 'https://m.media-amazon.com/images/I/513MI2NXYvL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21'
 descuento: '26.00'
-average: '74.2314873417721'
+average: '74.2307255520504'
 ---
 
 C'est en vente [LEGO City Turbo Wheels  L atelier de tuning  Set de construction avec depanneuse  Hot Rod moto  207 pièces  60258](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)  à  26.00 % de réduction, prix final  73.99 EUR (original: 99.99 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [LEGO City Turbo Wheels  L atelier de tuning  Set de construction
 
 ℹ️:
 
+- Le set comporte 7 figurines, dont les personnages de la série télévisée de LEGO City Hari Hubbs Tread Octane, 2 garagistes, 3 clients et la figurine du bouledogue Jawis
+- Inclut un garage, une roulotte de camping et 6 véhicules fascinants, notamment une dépanneuse, un Hot Rod et une moto propulsée par des fusées, ainsi quune niche de chien
 - Les garagistes en herbe tirent le levier pour préparer les voitures au remorquage et tournent le cadran pour faire fonctionner le treuil à moteur avec des fonctions de levage
 - Les accessoires comprennent une clé, un vérin de voiture, une tasse, un billet de banque, une boîte à pizza, une assiette et des saucisses, du matériel de soudage, une fraiseuse et bien plus encore
 - Les enfants peuvent faire fonctionner le treuil à moteur dans latelier, soulever des voitures avec le vérin, récupérer les véhicules en panne avec la dépanneuse et bien plus encore
-- Le set comporte 7 figurines, dont les personnages de la série télévisée de LEGO City Hari Hubbs Tread Octane, 2 garagistes, 3 clients et la figurine du bouledogue Jawis
-- Inclut un garage, une roulotte de camping et 6 véhicules fascinants, notamment une dépanneuse, un Hot Rod et une moto propulsée par des fusées, ainsi quune niche de chien
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W6QBNM5/?tag=tolees0d-21)
