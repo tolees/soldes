@@ -29,12 +29,12 @@ C'est en vente [Samsung C49RG90  Ecran PC Gaming incurvé  Format Ultra-Large  D
 ℹ️:
 
 - Du 1er juin au 19 juillet, profitez de 100€ remboursés sur ce produit. Voir conditions de loffre ci-dessous.
+- Technologies HDR 1000/ AMD FreeSync
+- Résolution 5K dwqhd : 5120 x 1440 pixels
+- Luminosité (typique): 600 cd/m2
 - Taux de rafraichissement : 120Hz
 - Couverture sRGB: 125%(Typ.)
-- Résolution 5K dwqhd : 5120 x 1440 pixels
 - Écran PC Gaming incurvé qled ultra-large 49
-- Technologies HDR 1000/ AMD FreeSync
 - Temps de réponse : 4ms
-- Luminosité (typique): 600 cd/m2
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NL27TCK/?tag=tolees0d-21)
