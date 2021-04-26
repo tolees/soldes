@@ -28,9 +28,9 @@ Vous avez [Philips Sonicare HX6014/07 Pack Têtes de brosse ProResults Standard 
 
 ℹ️:
 
+- Lot de 4
 - Les brins avec indicateur dusure vous garantissent un nettoyage efficace
 - Fonctionne avec nimporte quelle brosse à dents clipsable Philips Sonicare
-- Lot de 4
 - Technologie sonique avancée de Philips Sonicare
 - Élimine jusquà 2 fois plus de plaque dentaire*
 
