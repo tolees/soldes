@@ -28,7 +28,7 @@ C'est en vente [Dockers Alpha Original Slim-Stretch Twill Pantalon Homme Beige  
 
 ℹ️:
 
-- BCI, WATERLESS
 - Tapered
+- BCI, WATERLESS
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01F1SJ5XS/?tag=tolees0d-21)

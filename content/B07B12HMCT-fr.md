@@ -28,9 +28,9 @@ Vous avez [Focus - Tour de France 2018](https://www.amazon.fr/dp/B07B12HMCT/?tag
 
 ℹ️:
 
-- Ressentez l’adrénaline de la descente
-- Formez l’équipe de vos rêves
-- Jouez en multijoueur coop et versus local
 - Devenez le plus grand champion en mode Pro Leader
+- Ressentez l’adrénaline de la descente
+- Jouez en multijoueur coop et versus local
+- Formez l’équipe de vos rêves
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B12HMCT/?tag=tolees0d-21)
