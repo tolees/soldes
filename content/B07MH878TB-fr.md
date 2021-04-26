@@ -28,10 +28,10 @@ Vous avez [David Jones - Sac à Main Business Porte-Documents Homme Simili Cuir 
 
 ℹ️:
 
-- BANDOULIERE : Sangle large, réglable et amovible, permet un porté épaule ou croisé confortable. RANGEMENTS : 3 poches extérieures zippées, 2 grands compartiments et plusieurs poches intérieures pour vos accessoires.
 - MODELE & DESIGN: Sac à main Business / Sacoche Ordinateur / Cartable / Mallette / Sac Messenger Homme. Grande taille. Sac serviette adapté pour tous les jours: affaires, travail, conférence, bureau, cours, lycée, scolaire.
+- DIMENSIONS & FERMETURE : L 38 x H 28 x l 7 cm. Sac à fermeture éclair. Taille suffisante pour ordinateur portable 13 pouces.
 - MATIERE & DETAILS : Cuir synthétique PU souple, légerèrement brillant. Imitation cuir véritable vachette. Parties métalliques de couleur argentée. Sac à main multipoche.
 - MARQUE DAVID JONES: Design en France. Sac à main et maroquinerie pour homme, en matière synthétique premium. Détails et finitions de qualité.
-- DIMENSIONS & FERMETURE : L 38 x H 28 x l 7 cm. Sac à fermeture éclair. Taille suffisante pour ordinateur portable 13 pouces.
+- BANDOULIERE : Sangle large, réglable et amovible, permet un porté épaule ou croisé confortable. RANGEMENTS : 3 poches extérieures zippées, 2 grands compartiments et plusieurs poches intérieures pour vos accessoires.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MH878TB/?tag=tolees0d-21)

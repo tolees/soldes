@@ -28,10 +28,10 @@ Vous avez [Télémètre Laser 50m  Tacklife Metre Laser  Ecart 1.5mm  Calcule Di
 
 ℹ️:
 
-- 【Contenu de lemballage】: 1 × HD 50m Télémètre Laser; 2 × Piles 1.5 V AAA; 1 × Manuel dutilisation; 1 × Pochette de rangement; 1 × Dragonne; 24 mois de Service après vente
+- 【Fonctions divers】: Mesure de distance, surface, volume avec précision, fonction pythagore (mesure indirecte), fonction de mesure en continu, additionner ou soustraire des mesures, valeur min et max; Arrêt automatique
 - 【Plage de mesure 】: 0,05 - 50,00 m; Précision: +/- 1,5mm (précise jusqu’à 3 chiffres après la virgule); 30 mémoires de données, des unités commutables (mètres, pouces et pieds); Lentille optique: avec deux trous photosensible, les données de mesure est plus précise et plus stable; Avec la fonction détalonnage et de rapport derreur
 - 【Fonction muet】: Fonction muet pour éviter le bruit; 4 lignes daffichage LCD grand écran avec rétro-éclairage; Boîtier robuste antichoc avec la classe de protection IP54 (protection contre les éclaboussures et la poussière) pour une longue durée de vie, adapté aussi aux environnements humides ou sales
-- 【Fonctions divers】: Mesure de distance, surface, volume avec précision, fonction pythagore (mesure indirecte), fonction de mesure en continu, additionner ou soustraire des mesures, valeur min et max; Arrêt automatique
+- 【Contenu de lemballage】: 1 × HD 50m Télémètre Laser; 2 × Piles 1.5 V AAA; 1 × Manuel dutilisation; 1 × Pochette de rangement; 1 × Dragonne; 24 mois de Service après vente
 - 【Utilisation facile】: En appuyant sur un bouton, vous pouvez vérifier rapidement la hauteur et la longueur du bâtiment, ou la surface et le volume, convient pour les amateurs de bricolage et de professionnel Certification CE / FDA / FCC / RoHS ,très utilisé sur les chantiers de construction et en particulier dans les appartements, immeubles, usines et entrepôts etc
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N9TFB02/?tag=tolees0d-21)
