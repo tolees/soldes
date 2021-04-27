@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '27.27 % rabais sur DeLonghi ECAM 23420 SB Cafetière automat'
-date: 2021-04-25 06:15:39
+date: 2021-04-27 05:48:37
 image: 'https://m.media-amazon.com/images/I/41VqNbz010L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Vous avez [DeLonghi ECAM 23420 SB Cafetière automatique à Cappuccino avec buse
 
 ℹ️:
 
-- Largeur: 238 mm
-- Tension dentrée AC: 220-240 V
-- Couleur: Argent
-- Description du produit: DeLonghi ECAM 23420SB
 - Fréquence dentrée AC: 50/60 Hz
-- Coffee making technology: Goutte
+- Tension dentrée AC: 220-240 V
+- Largeur: 238 mm
 - Design de la caisse: Autonome
+- Description du produit: DeLonghi ECAM 23420SB
+- Couleur: Argent
+- Coffee making technology: Goutte
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002OHDBLW/?tag=tolees0d-21)
