@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'ACTIVISION - Call Of Duty: Black Ops Col avec 26.66 % rabais '
-date: 2021-04-18 13:03:27
+date: 2021-04-27 20:03:32
 image: 'https://m.media-amazon.com/images/I/516e9BhCK+L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
