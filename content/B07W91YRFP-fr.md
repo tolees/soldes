@@ -28,10 +28,10 @@ C'est en vente [Philips Sonicare HX6221/22 DailyClean 3100 Brosse à dents élec
 
 ℹ️:
 
-- Tête de brosse inclinée pour un meilleur accès aux dents du fond
 - La fonction Easystart permet de développer vos bonnes habitudes dutilisation de votre Philips Sonicare
-- Élimine jusquà 2 fois plus de plaque dentaire quune brosse à dents manuelle
 - Une meilleure élimination de la plaque dentaire pour moins de caries
+- Élimine jusquà 2 fois plus de plaque dentaire quune brosse à dents manuelle
+- Tête de brosse inclinée pour un meilleur accès aux dents du fond
 - 1 étui de voyage inclus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07W91YRFP/?tag=tolees0d-21)

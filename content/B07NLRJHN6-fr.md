@@ -28,12 +28,12 @@ Vous avez [Huawei P30 Smartphone débloqué 4G  6 1 pouces 6/128Go Double Nano S
 
 ℹ️:
 
-- Caméra avant : 32MPBatterie : 3650 mAh
 - Mémoire : RAM 6 Go/ROM 128 Go Bandes GSM: 850 MHz, 900 MHz, 1800 MHz, 1900 MHz Mhz
-- Ecran : 6,1 pouces Huawei FullView
 - Format SIM : Double Nano-SIM ou Nano-SIM + carte Nano SD
-- Couleur: 16,7 millions de couleurs
-- Processeur : HiSilicon Kirin 980 Octo-Core
 - Caméra arrière : triple 40MP, f/18 + 16MP, f/22 + 8MP, f/24, AF
+- Processeur : HiSilicon Kirin 980 Octo-Core
+- Couleur: 16,7 millions de couleurs
+- Ecran : 6,1 pouces Huawei FullView
+- Caméra avant : 32MPBatterie : 3650 mAh
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NLRJHN6/?tag=tolees0d-21)

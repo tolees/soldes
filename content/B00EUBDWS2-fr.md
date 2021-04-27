@@ -28,11 +28,11 @@ Vous avez [Alcatel TMAX Téléphones Bibloc Ecran Blanc](https://www.amazon.fr/d
 
 ℹ️:
 
-- 10 mémoires et des 3 touches directes sur le téléphone pour mémoriser les contacts préférés
-- Dun simple appui, le volume sonore du combiné double grâce à la touche Audio Boosta
-- Pour entendre clairement ses interlocuteurs, le volume sonore du combiné sajuste sur 4 niveaux et celui de votre mains-libres sur 8 niveaux.
 - Le mode mains-libres pour partager les conversations avec sa touche rétroéclairée qui indique lactivation de la fonction
+- 10 mémoires et des 3 touches directes sur le téléphone pour mémoriser les contacts préférés
 - Les touches du clavier sont larges et bien espacées pour éviter de composer 2 chiffres en même temps
 - Position murale possible
+- Dun simple appui, le volume sonore du combiné double grâce à la touche Audio Boosta
+- Pour entendre clairement ses interlocuteurs, le volume sonore du combiné sajuste sur 4 niveaux et celui de votre mains-libres sur 8 niveaux.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EUBDWS2/?tag=tolees0d-21)

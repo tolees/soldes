@@ -28,8 +28,8 @@ C'est en vente [Playmobil- Boutique Robes de mariée  9226](https://www.amazon.f
 
 ℹ️:
 
-- Contient 1 salon dessayage, 3 personnages, 9 tenues interchangeables et de nombreux accessoires (miroir, maquillage, coiffure, bouquets de fleurs…)
 - Différents bijoux et sacs sont présentés sur des étagères sur le côté droit de la boutique de robes de mariée
 - Les robes en deux parties pendent aux quatre cintres et la volumineuse robe de mariée est présentée avec son voile sur le mannequin de la vitrine 
+- Contient 1 salon dessayage, 3 personnages, 9 tenues interchangeables et de nombreux accessoires (miroir, maquillage, coiffure, bouquets de fleurs…)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LYRGIRL/?tag=tolees0d-21)

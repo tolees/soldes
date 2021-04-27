@@ -28,9 +28,9 @@ C'est en vente [Marshall Major III Casque Audio Filaire - Blanc](https://www.ama
 
 ℹ️:
 
-- Télécommande À Un Bouton Avec Microphone - Contrôlez la fonctionnalité téléphonique et vos casques grâce à la télécommande à un bouton avec microphone
-- Fonctionnalité Téléphonique - Fonctionnalité téléphonique facile
 - Un Classique Moderne Repensé - Le Major III dispose de coussinets doreilles profilés, de charnières fines, dun arceau ajusté et dun épais câble spiralé avec amortisseurs en caoutchouc renforcé
+- Fonctionnalité Téléphonique - Fonctionnalité téléphonique facile
+- Télécommande À Un Bouton Avec Microphone - Contrôlez la fonctionnalité téléphonique et vos casques grâce à la télécommande à un bouton avec microphone
 - Son Emblématique - Le Major III dispose de transducteurs de 40 mm ajustés pour une expérience découte améliorée
 - Partagez Votre Musique - La prise femelle de 3,5 mm est idéale pour partager de la musique avec dautres
 

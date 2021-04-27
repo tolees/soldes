@@ -29,7 +29,7 @@ Vous avez [Nintendo - Daemon x Machina NSW](https://www.amazon.fr/dp/B07SHG83B8/
 ℹ️:
 
 - Incarnez un mercenaire et defendez lhumanité
-- Découvrez un monde…changé
 - Personnalisez votre héros et son arsenal
+- Découvrez un monde…changé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SHG83B8/?tag=tolees0d-21)
