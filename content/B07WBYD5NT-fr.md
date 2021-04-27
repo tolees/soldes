@@ -28,11 +28,11 @@ C'est en vente [Philips AC0820/10 Purificateur d air série 800  Élimine 99  97
 
 ℹ️:
 
-- Longueur du câble: 1,6 m
-- Couvre une surface jusquà 49 m2 et élimine 99, 97% des particules fines >0, 003 µm dont les virus, bactéries, pollen …
-- Anneaux colorés indiquant la qualité de lair
 - Purification rapide avec un flux dair de 190 m3/h: nettoyage dune pièce de 20 m² en moins de 16 minutes
 - Bouton unique pour une commande facile
+- Anneaux colorés indiquant la qualité de lair
+- Longueur du câble: 1,6 m
+- Couvre une surface jusquà 49 m2 et élimine 99, 97% des particules fines >0, 003 µm dont les virus, bactéries, pollen …
 - En mode veille, le purificateur fonctionne dans un quasi-silence jusquà 35 dB pour purifier lair pendant votre sommeil.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WBYD5NT/?tag=tolees0d-21)
