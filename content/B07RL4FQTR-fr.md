@@ -29,13 +29,13 @@ Vous avez [Ring Stick Up Cam Plug-In  Caméra de surveillance HD avec système a
 ℹ️:
 
 - Avec la vidéo en direct, vous pouvez surveiller votre domicile à tout moment via lapplication Ring.
-- Recevez des notifications dès quun mouvement est détecté en réglant vos paramètres de détection de mouvements.
-- Les fonctionnalités standards telles que les notifications instantanées, la vidéo en direct et le système audio bidirectionnel sont disponibles gratuitement dès la mise en service de tous vos appareils Ring. Souscrivez un abonnement Ring Protect (abonnement vendu séparément) pour enregistrer, voir et partager les moments que vous avez manqués (essai gratuit de 30 jours inclus avec votre achat).
-- Vous avez des questions ou besoin daide ? Contactez lassistance Ring : 00 800 87 00 97 81 ou par e-mail à ladresse assistance@ring.com
-- Configurez facilement votre Stick Up Cam en quelques minutes.
-- Positionnez-la nimporte où, à l’intérieur ou à l’extérieur, sur une surface plane ou installez-la sur un mur.
-- Inutile de vous inquiéter du chargement de la batterie grâce à son alimentation continue.
 - Surveillez toute votre maison en connectant une ou plusieurs Stick Up Cam à lensemble de vos appareils Ring dans lapplication Ring.
+- Les fonctionnalités standards telles que les notifications instantanées, la vidéo en direct et le système audio bidirectionnel sont disponibles gratuitement dès la mise en service de tous vos appareils Ring. Souscrivez un abonnement Ring Protect (abonnement vendu séparément) pour enregistrer, voir et partager les moments que vous avez manqués (essai gratuit de 30 jours inclus avec votre achat).
 - Voyez, entendez et parlez à vos visiteurs et vos animaux de compagnie directement depuis votre smartphone tablette ou certains appareils Echo grâce à la Stick Up Cam Plug-In. Cette caméra de surveillance avec prise peut être installée partout, à l’intérieur comme à l’extérieur.
+- Configurez facilement votre Stick Up Cam en quelques minutes.
+- Vous avez des questions ou besoin daide ? Contactez lassistance Ring : 00 800 87 00 97 81 ou par e-mail à ladresse assistance@ring.com
+- Recevez des notifications dès quun mouvement est détecté en réglant vos paramètres de détection de mouvements.
+- Inutile de vous inquiéter du chargement de la batterie grâce à son alimentation continue.
+- Positionnez-la nimporte où, à l’intérieur ou à l’extérieur, sur une surface plane ou installez-la sur un mur.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RL4FQTR/?tag=tolees0d-21)
