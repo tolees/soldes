@@ -28,8 +28,8 @@ C'est en vente [Crocs Crocband Clog K  Sabots Garçon Mixte Enfant - Vert  Neo M
 
 ℹ️:
 
-- Chaussures crocs
 - Crockband Clog K (204537)
 - Sandales unisexes pour enfants, idéales pour les loisirs et le sport
+- Chaussures crocs
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SDH9R9J/?tag=tolees0d-21)
