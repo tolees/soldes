@@ -1,0 +1,37 @@
+---
+layout: post
+title: 'Playmobil - 6978 - Jeu - Bateau de Crois avec 38.26 % rabais '
+date: 2021-04-28 09:03:33
+image: 'https://m.media-amazon.com/images/I/5118ruN1UUS._SL500_._SL400_.jpg'
+comments: true
+category: ofertas
+author: 'tole.es'
+slug: 'B01EKBCUAW-fr Playmobil - 6978 - Jeu - Bateau de Croisière'
+sku: 'B01EKBCUAW-fr'
+tags: [ 'Coffrets de figurines pour enfants','Figurines pour enfants','Jeux et Jouets','Jeux et jouets','playmobil', ]
+actualPrice: 70.99 EUR
+currency: EUR
+price: 70.99
+comparePrice: 114.99 EUR
+prodname: 'Playmobil - 6978 - Jeu - Bateau de Croisière'
+country: 'fr'
+flag: '🇫🇷'
+brand: 'Playmobil'
+buyurl: 'https://www.amazon.fr/dp/B01EKBCUAW/?tag=tolees0d-21'
+descuento: '38.26'
+average: '86.28875'
+---
+
+C'est en vente [Playmobil - 6978 - Jeu - Bateau de Croisière](https://www.amazon.fr/dp/B01EKBCUAW/?tag=tolees0d-21)  à  38.26 % de réduction, prix final  70.99 EUR (original: 114.99 EUR) ici:
+
+[![Playmobil - 6978 - Jeu - Bateau de Crois](https://m.media-amazon.com/images/I/5118ruN1UUS._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B01EKBCUAW/?tag=tolees0d-21)
+
+ℹ️:
+
+- Ce bateau également des grands espaces pour jouer à lintérieur du bateau.
+- Playmobil Bateau de Croisière avec deux cabines passagers.
+- Contient cinq personnages.
+- A partir de 3 ans.
+- Gamme Playmobil Family Fun.
+
+[🛒 Achète-le!!](https://www.amazon.fr/dp/B01EKBCUAW/?tag=tolees0d-21)

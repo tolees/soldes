@@ -28,12 +28,12 @@ Vous avez [Bushnell 120150 jumelles 10x50 legacy](https://www.amazon.fr/dp/B000H
 
 ℹ️:
 
-- Taille : standard
-- Prismes de Porro BaK-4 pour des images lumineuses, claires et nettes
-- Type de prismes : porro
-- Mise au point : centrale
 - Protection en caoutchouc antidérapant qui absorbe les chocs et offre une prise en main
-- Optiques traitées multicouches pour une transmission de la lumière
+- Prismes de Porro BaK-4 pour des images lumineuses, claires et nettes
+- Mise au point : centrale
 - Grossissement x Diamètre de lobjectif ( mm) : 8x 42
+- Type de prismes : porro
+- Optiques traitées multicouches pour une transmission de la lumière
+- Taille : standard
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000HI6RFC/?tag=tolees0d-21)
