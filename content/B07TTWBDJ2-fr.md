@@ -29,9 +29,9 @@ Vous avez [Risevape - Uwell Crown IV 4 Kit 200W with Crown IV 4 Tank 5ml  Red ](
 ℹ️:
 
 - Capacity: 5ml
-- Battery type: 2 * 18650 Batteries(not include)
-- Resistance range: 0.1-3ohm
 - No nicotine -TPD Compliant
+- Resistance range: 0.1-3ohm
+- Battery type: 2 * 18650 Batteries(not include)
 - Power Range: 5-200W
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TTWBDJ2/?tag=tolees0d-21)
