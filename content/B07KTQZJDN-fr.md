@@ -28,10 +28,10 @@ C'est en vente [Hugo Boss Montres bracelet 1513677](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
-- Épaisseur du boîtier 10,0mm
 - Bracelet en mesh avec placage ionique (IP) gris
-- Mouvement chronographe
 - Résistance à leau 5 ATM
+- Mouvement chronographe
+- Épaisseur du boîtier 10,0mm
 - Cadran bleu
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KTQZJDN/?tag=tolees0d-21)
