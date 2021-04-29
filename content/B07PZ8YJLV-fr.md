@@ -28,9 +28,9 @@ Vous avez [Aubade Demi Bra pour Femme - Bow Collection - Bonbon 85  Taille FR: 1
 
 ℹ️:
 
+- Composition: Polyester/Polyamide/Elasthanne
 - Contenu: 1 Soutien-gorge corbeille Aubade, THE BOW COLLECTION, Composition: Polyester/Polyamide/Elasthanne, Couleur: Rose, 100B, OC14
 - Modèle Corbeille avec armatures, Bretelles réglables, Bonnets décorés de nœuds sur tulle doux multibrins transparent
-- Composition: Polyester/Polyamide/Elasthanne
 - Lavage à la main recommandé, En cas de lavage en machine : dans un pochon à 30° maximum pour une protection de votre lingerie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PZ8YJLV/?tag=tolees0d-21)
