@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Taurus  Brasseur d air SIROCCO 18  Brass avec 54.39 % rabais '
-date: 2021-04-24 18:03:29
+date: 2021-04-29 15:27:29
 image: 'https://m.media-amazon.com/images/I/51fNW6txlqL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Taurus  Brasseur d air SIROCCO 18  Brasseur d air 50 cm](https:/
 
 ℹ️:
 
+- Pieds antidérapants
+- Débit d’air: 62.25 m3/mn
 - 3 hélices aérodynamiques pour une ventilation plus puissante
 - Corbeille orientable
-- Débit d’air: 62.25 m3/mn
-- Pieds antidérapants
 - Poignée de transport, range cordon
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06WD7JT9X/?tag=tolees0d-21)
