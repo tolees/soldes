@@ -28,11 +28,11 @@ Vous avez [Panini France SA-Foot ADRENALYN XLTM 2020-21-PACK pour DÉMARRER LA C
 
 ℹ️:
 
-- Échange, joue et défie tes amis en savourant cette collection Panini INCONTOURNABLE !
-- *Cartes réparties aléatoirement dans les pochettes, visuels non contractuels.
-- Le pack pour démarrer ta collection contient : 1 classeur + 3 pochettes (soit 18 cartes*) + 2 cartes en Édition Limitée (Mbappé + Payet) + 1 guide officiel + 1 mini book check-list !
-- Une collection de Panini !
-- Les cartes à jouer officielles de la Ligue 1 Uber Eats !
 - 468 cartes sont à collectionner au total, dont 108 spéciales aux effets incroyables !
+- Une collection de Panini !
+- Échange, joue et défie tes amis en savourant cette collection Panini INCONTOURNABLE !
+- Le pack pour démarrer ta collection contient : 1 classeur + 3 pochettes (soit 18 cartes*) + 2 cartes en Édition Limitée (Mbappé + Payet) + 1 guide officiel + 1 mini book check-list !
+- *Cartes réparties aléatoirement dans les pochettes, visuels non contractuels.
+- Les cartes à jouer officielles de la Ligue 1 Uber Eats !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D6CYQPY/?tag=tolees0d-21)

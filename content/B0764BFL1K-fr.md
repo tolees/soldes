@@ -28,10 +28,10 @@ C'est en vente [Ultimate Ears Boom 2 Lite Enceinte sans Fil Portable Bluetooth  
 
 ℹ️:
 
-- L’App est Géniale: Tapotez sur le dessus du haut-parleur UE BOOM 2 pour jouer un morceau,et utilisez lapp pour mettre lenceinte sous tension à distance et obtenir des mises à jour originales
-- Profitez du Son en toute Liberté: Portée Bluetooth sans fil de 30 m et batterie rechargeable dune autonomie de 15 heures, et chargement par micro-USB ultra rapide
+- Son Immersif à 360 Degrés: Cette enceinte sans fil à 360 degrés est capable de produire un son explosif, incroyablement bon, porté par des basses puissantes dans toutes les directions. Réponse en fréquence minimale: 90 Hz
 - La Qualité Ultimate Ear: Depuis la première version de lenceinte UE BOOM mise sur le marché il y a 7 ans, 10 fonctionnalités innovantes et incroyables ont été ajoutées via nos mises à jour
 - Conçues pour Vous: Lenceinte UE BOOM 2 sadapte à votre vie. Étanche, résistante aux salissures et aux chocs et certifiée IPX7: jusquà 30 minutes à 1 m de profondeur
-- Son Immersif à 360 Degrés: Cette enceinte sans fil à 360 degrés est capable de produire un son explosif, incroyablement bon, porté par des basses puissantes dans toutes les directions. Réponse en fréquence minimale: 90 Hz
+- L’App est Géniale: Tapotez sur le dessus du haut-parleur UE BOOM 2 pour jouer un morceau,et utilisez lapp pour mettre lenceinte sous tension à distance et obtenir des mises à jour originales
+- Profitez du Son en toute Liberté: Portée Bluetooth sans fil de 30 m et batterie rechargeable dune autonomie de 15 heures, et chargement par micro-USB ultra rapide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0764BFL1K/?tag=tolees0d-21)
