@@ -28,7 +28,7 @@ C'est en vente [Warner Bros - Hitman 2](https://www.amazon.fr/dp/B07DNDFZ85/?tag
 
 ℹ️:
 
-- Découvrez 6 nouveaux lieux extrêmement complexes dans lesquels vous aurez une infinité de possibilités pour éliminer vos cibles
 - Incarnez lAgent 47 dans HITMAN 2, la suite du célèbre jeu daction-infiltration, et utilisez tous les éléments de votre environnement pour orchestrer lassassinat parfait : discrétion, sabotage ou attaque directe, cest à votre tour de transformer votre créativité en arme mortelle
+- Découvrez 6 nouveaux lieux extrêmement complexes dans lesquels vous aurez une infinité de possibilités pour éliminer vos cibles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DNDFZ85/?tag=tolees0d-21)
