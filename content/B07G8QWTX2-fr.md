@@ -28,13 +28,13 @@ Vous avez [Samsung Galaxy Smartwatch Bluetooth - Gris Acier](https://www.amazon.
 
 ℹ️:
 
-- Etanche IP68
 - Système OS 4.0 Tizen
 - Profils Bluetooth:A2DP, AVRCP, HFP, HSP
-- Fonctionnalités sport et bien-être
-- Assistant personnalisé au quotidien
 - Processeur: 1.15GHz
+- Assistant personnalisé au quotidien
 - Bluetooth 4.2
 - Résolution: 360 x 360
+- Fonctionnalités sport et bien-être
+- Etanche IP68
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G8QWTX2/?tag=tolees0d-21)
