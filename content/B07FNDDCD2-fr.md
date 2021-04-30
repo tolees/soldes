@@ -29,8 +29,8 @@ Vous avez [Microsoft Type Cover Signature Surface Go Bordeaux  Alcantara  AZERTY
 ℹ️:
 
 - Compatible avec Surface Go
-- Interface: Magnétique
 - Trackpad en verre grand format
+- Interface: Magnétique
 - Touches retroéclairées
 - Ultra-fin. Matière: Plastique. Capteur: Accéléromètre
 - Espacement de touches optimal
