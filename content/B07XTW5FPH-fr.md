@@ -28,10 +28,10 @@ C'est en vente [LG Electronics - LG UltraWide 29WL50S-B  Moniteur 21:9 Full HD I
 
 ℹ️:
 
-- Technologie Radeon FreeSync
-- Connectique HDMI
 - Moniteur 21:9e IPS Full HD 29 (2560x1080)
+- Technologie Radeon FreeSync
 - Virtuellement sans bords 3 cotés
 - Hauts parleurs intégrés
+- Connectique HDMI
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XTW5FPH/?tag=tolees0d-21)
