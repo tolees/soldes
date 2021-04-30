@@ -28,11 +28,11 @@ Vous avez [Bosch Home and Garden - Broyeur rapide Bosch - AXT Rapid 2000  1 Pous
 
 ℹ️:
 
-- Fonctions spéciales : Système de broyage à lames
 - Poids: 11.5 kg
-- Nécessite pas des piles
-- Couleur : noir, vert
 - Vitesse de coupe: 3650 tr/min
+- Nécessite pas des piles
 - Description du produit: Bosch AXT Rapid 2000
+- Fonctions spéciales : Système de broyage à lames
+- Couleur : noir, vert
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000PXE7E2/?tag=tolees0d-21)
