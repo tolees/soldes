@@ -28,11 +28,11 @@ C'est en vente [Pantene Pro-V  Shampoing Aqua Light  Nourrit En Toute Légèret�
 
 ℹ️:
 
-- Formulés sans ingrédients indésirables
-- Shampoing pour les cheveux à tendance grasse. Renforce les cheveux avec un shampoing au complexe nutritif Pro-V actif
 - Bouteille recyclable à 100 % (à l’exclusion du bouchon)
-- Fabriqué en France
 - Nettoie en profondeur et nourrit en toute légèreté
+- Fabriqué en France
+- Shampoing pour les cheveux à tendance grasse. Renforce les cheveux avec un shampoing au complexe nutritif Pro-V actif
 - Enlève toutes les impuretés des cheveux
+- Formulés sans ingrédients indésirables
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B087KZRLSC/?tag=tolees0d-21)
