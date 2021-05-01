@@ -28,8 +28,8 @@ Vous avez [BRA EFFICIENT - Set 3 poêles  18  22 y 26 cm  aluminium fondu avec r
 
 ℹ️:
 
-- Diamètre de la plaque à induction : 18 cm - 124 mm / 22 cm - 158 mm / 26 cm - 191 mm
 - Manche ergonomique et empilable
+- Diamètre de la plaque à induction : 18 cm - 124 mm / 22 cm - 158 mm / 26 cm - 191 mm
 - Revêtement antiadhésif en qualité triple couche téflon platinum plus sans PFOA
 - Fond diffuseur uniforme efficace (Save energy system)
 - Fonte daluminium de haute qualité

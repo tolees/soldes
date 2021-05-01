@@ -29,13 +29,13 @@ C'est en vente [Slendertone Short d électrostimulation femme Noir  Taille 34-40
 ℹ️:
 
 - Déconseillé à la femme enceinte
-- 99 niveaux dintensité avec 4 programmes
-- Il apporte galbe et tonicité aux fesses
-- Equipé de la technologie EMS. Remplacez vos coussinets de gel après 20-30 séances pour des niveaux optimaux defficacité et de confort.
-- Eléctrostimulation musculaire
-- Une séance de 30 min équivaut à 60 exercices fessiers
-- Short de tonification pour des fesses sculptées
 - Des résultats en 4 à 6 semaines, cliniquement prouvés
+- 99 niveaux dintensité avec 4 programmes
+- Equipé de la technologie EMS. Remplacez vos coussinets de gel après 20-30 séances pour des niveaux optimaux defficacité et de confort.
+- Short de tonification pour des fesses sculptées
+- Eléctrostimulation musculaire
+- Il apporte galbe et tonicité aux fesses
+- Une séance de 30 min équivaut à 60 exercices fessiers
 - Télécommande rechargeable sur secteur pour une meilleure autonomie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005MX7I7S/?tag=tolees0d-21)

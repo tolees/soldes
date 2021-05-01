@@ -29,9 +29,9 @@ C'est en vente [Wiizzee WS3 Trottinette électrique  Noir  468 Wh](https://www.a
 ℹ️:
 
 - Moteur 350 w
-- Frein à tambour arrière
-- Autonomie jusquà 35 Kms
 - Vitesse maximale (sur terrain privé en France) : 30 km/h
+- Autonomie jusquà 35 Kms
 - Suspension avant
+- Frein à tambour arrière
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DLQZ1DZ/?tag=tolees0d-21)
