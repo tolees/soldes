@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Corsair Glaive PRO RGB FPS/MOBA Optique  avec 31.25 % rabais '
-date: 2021-04-27 17:44:50
+date: 2021-05-01 10:10:03
 image: 'https://m.media-amazon.com/images/I/41owHBGZCoL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [Corsair Glaive PRO RGB FPS/MOBA Optique Souris Gaming  18000DPI 
 
 ℹ️:
 
+- Switchs Omron hautes performances prévus pour 50 millions de clics : profitez d’une excellente durabilité de la souris pendant des années de gaming
+- Éclairage RGB dynamique sur trois zones : personnalisez votre expérience de gaming à l’aide d’un très large éventail de couleurs et d’effets de rétroéclairage RGB
+- Forme profilée confortable : s’adapte naturellement à la paume de votre main pour que vous puissiez jouer plus longtemps
+- Revêtements antidérapants interchangeables pour le pouce : trois revêtements antidérapants interchangeables pour le pouce inclus permettant à la souris d’épouser parfaitement la forme de votre main
 - Câble: Fibre tressée de 1,8 m
 - Capteur optique personnalisé de qualité gaming de 18 000 DPI : ajustable par paliers de résolution d’1 DPI pour des performances fiables et très précises
-- Éclairage RGB dynamique sur trois zones : personnalisez votre expérience de gaming à l’aide d’un très large éventail de couleurs et d’effets de rétroéclairage RGB
-- Revêtements antidérapants interchangeables pour le pouce : trois revêtements antidérapants interchangeables pour le pouce inclus permettant à la souris d’épouser parfaitement la forme de votre main
-- Forme profilée confortable : s’adapte naturellement à la paume de votre main pour que vous puissiez jouer plus longtemps
-- Switchs Omron hautes performances prévus pour 50 millions de clics : profitez d’une excellente durabilité de la souris pendant des années de gaming
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QD1DG9Z/?tag=tolees0d-21)
