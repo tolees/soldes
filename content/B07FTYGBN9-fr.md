@@ -28,10 +28,10 @@ C'est en vente [Seb Friteuse Semi-Professionnelle Filtra Pro 4L  Frites  Poulet 
 
 ℹ️:
 
-- Filtre breveté qui clarifie l’huile pour en retirer tous les résidus et la garder propre à chaque utilisation
 - Idéale pour les familles avec sa capacité de 4L pour frire jusqu’à 1kg de frites ou 1,3kg de nuggets
-- Couvercle de cuisson avec hublot pour surveiller aisément la friture et éviter les éclaboussures
 - Facile à nettoyer : entièrement démontable et tous les éléments, à l’exception du bloc de chauffe, sont compatibles lave-vaisselle
+- Filtre breveté qui clarifie l’huile pour en retirer tous les résidus et la garder propre à chaque utilisation
+- Couvercle de cuisson avec hublot pour surveiller aisément la friture et éviter les éclaboussures
 - Thermostat réglable de 150 °C à 190 °C avec timer digital et puissance de 2300W pour une chauffe rapide et homogène
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FTYGBN9/?tag=tolees0d-21)
