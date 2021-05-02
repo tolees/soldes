@@ -28,11 +28,11 @@ C'est en vente [Wahl 9818-116 Stainless Steel](https://www.amazon.fr/dp/B00PUGF1
 
 ℹ️:
 
-- Fonction de charge rapide en 1 minute pour les retouches de dernière minute.
-- Technologie lithium-ion révolutionnaire : jusquà 4 heures de fonctionnement après 1 heure de charge. Jusquà 3 mois dutilisation après une seule charge.
-- Longueurs de coupe de 0,7 à 13 mm grâce aux contre-peignes inclus dans le kit
-- Tension dentrée AC: 100 - 240 V
-- Magnifique étui en acier inoxydable brossé qui offre une finition de grande qualité ainsi que de la durabilité.
 - 3 têtes de coupe : tondeuse standard pour barbe, contours de la chevelure et poils du corps. Tête rotative pour raser les poils des oreilles et du nez. Rasoir de précision.
+- Longueurs de coupe de 0,7 à 13 mm grâce aux contre-peignes inclus dans le kit
+- Magnifique étui en acier inoxydable brossé qui offre une finition de grande qualité ainsi que de la durabilité.
+- Technologie lithium-ion révolutionnaire : jusquà 4 heures de fonctionnement après 1 heure de charge. Jusquà 3 mois dutilisation après une seule charge.
+- Fonction de charge rapide en 1 minute pour les retouches de dernière minute.
+- Tension dentrée AC: 100 - 240 V
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00PUGF1YY/?tag=tolees0d-21)
