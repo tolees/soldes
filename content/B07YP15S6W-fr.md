@@ -28,10 +28,10 @@ Vous avez [HyperX HX-KB6RDX-FR Alloy Origins  Clavier Gaming mécanique RGB  Hyp
 
 ℹ️:
 
-- Personnalisation avancée à laide du logiciel HyperX NGenuity
-- Conception compacte et portable avec cble USB Type-C amovible
-- Effets lumineux RGB remarquable avec effets dynamiques
 - Interrupteurs mécaniques HyperX
+- Conception compacte et portable avec cble USB Type-C amovible
 - Corps entier en aluminium destiné à laviation
+- Personnalisation avancée à laide du logiciel HyperX NGenuity
+- Effets lumineux RGB remarquable avec effets dynamiques
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YP15S6W/?tag=tolees0d-21)
