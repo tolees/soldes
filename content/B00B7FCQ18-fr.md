@@ -28,11 +28,11 @@ Vous avez [Tefal CB660301 Plancha Colormania Plaque Anti-Adhésive XL 6 à 8 Per
 
 ℹ️:
 
-- Garantie 2 ans
-- Puissance de 2000W et répartition homogène de la chaleur
-- Indicateur Thermo-Spot et thermostat réglable pour une meilleure gestion de la température de cuisson
-- Plancha performante au design coloré pour des recettes variées tout au long de l’année
 - Bac à jus amovible et compatible lave-vaisselle
 - Plaque XL pour 6 à 8 personnes
+- Plancha performante au design coloré pour des recettes variées tout au long de l’année
+- Garantie 2 ans
+- Indicateur Thermo-Spot et thermostat réglable pour une meilleure gestion de la température de cuisson
+- Puissance de 2000W et répartition homogène de la chaleur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00B7FCQ18/?tag=tolees0d-21)

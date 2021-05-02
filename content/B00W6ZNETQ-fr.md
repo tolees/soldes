@@ -28,10 +28,10 @@ Vous avez [Riviera-et-Bar QP350A Plancha Extra Large](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Puissance élevée et 5 niveaux de température dont maintien au chaud
-- Maxi surface de cuisson : 59 x 32,5 cm
-- Plaque massive en fonte daluminium avec résistances intégrées, revêtement antiadhésif sans PFOA et bac récupérateur des jus pour une cuisson saine au quotidien
 - Plaque de cuisson et tiroir récupérateur de jus compatibles lave-vaisselle
+- Maxi surface de cuisson : 59 x 32,5 cm
 - Garantie 2 ans pièces et main dœuvre
+- Puissance élevée et 5 niveaux de température dont maintien au chaud
+- Plaque massive en fonte daluminium avec résistances intégrées, revêtement antiadhésif sans PFOA et bac récupérateur des jus pour une cuisson saine au quotidien
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00W6ZNETQ/?tag=tolees0d-21)
