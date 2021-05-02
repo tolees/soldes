@@ -28,10 +28,10 @@ C'est en vente [PNY Kit de Modules Mémoire RAM XLR8 Gaming Epic-X RGB DDR4 3200
 
 ℹ️:
 
+- Conçues avec des dissipateurs de chaleur pour une expérience de jeu ultra-réelle
+- Compatibilité de vitesse: 3200MHz, 3000MHz, 2933MHz, 2800MHz, 2666MHz, 2400MHz, 2133MHz
+- Support Intel XMP 2.0
 - 16GB (2x8GB), modules mémoire RAM RGB DDR4 3200 MHz, 1.35 V, CL16
 - Synchronisation RGB avec les cartes mères grand public pour améliorer votre aventure visuelle
-- Compatibilité de vitesse: 3200MHz, 3000MHz, 2933MHz, 2800MHz, 2666MHz, 2400MHz, 2133MHz
-- Conçues avec des dissipateurs de chaleur pour une expérience de jeu ultra-réelle
-- Support Intel XMP 2.0
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08B9KQDK5/?tag=tolees0d-21)
