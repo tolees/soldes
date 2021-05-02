@@ -28,9 +28,9 @@ C'est en vente [EVO-K Peinture professionnelle Murs & Plafonds HYDRO V340 Acryli
 
 ℹ️:
 
-- Très Haute résistance (ultra lessivable, résiste aux tâches)
-- Application simple, sans reprise, ne projette pas.
-- EVO-K Peinture professionnelle Murs & Plafonds HYDRO M330 Acrylique Blanc Velours 5L - 45m²
 - 2 ans
+- Très Haute résistance (ultra lessivable, résiste aux tâches)
+- EVO-K Peinture professionnelle Murs & Plafonds HYDRO M330 Acrylique Blanc Velours 5L - 45m²
+- Application simple, sans reprise, ne projette pas.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N9YWWHF/?tag=tolees0d-21)
