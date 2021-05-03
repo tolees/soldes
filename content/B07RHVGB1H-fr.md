@@ -29,7 +29,7 @@ C'est en vente [Skechers Flex Appeal 3.0  Baskets Femme  Noir  Black White BKW  
 ℹ️:
 
 - Semelle extérieure non marquante
-- semelle souple
 - style polyvalent
+- semelle souple
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RHVGB1H/?tag=tolees0d-21)
