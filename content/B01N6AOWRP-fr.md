@@ -28,10 +28,10 @@ Vous avez [Gre PP031 - Pompe de filtration pour piscine  250 W  7 000 l /h](http
 
 ℹ️:
 
+- Avec une capacité de filtrage de 7 000 litres par heure, une puissance de 250 W
 - Pour une piscine dune capacité maximale de 35 m3
 - Pour équiper un filtre de diamètre 300 mm
-- 250 W de puissance
-- Avec une capacité de filtrage de 7 000 litres par heure, une puissance de 250 W
 - Pompe centrifuge à une étape, à amorçage automatique, conçue pour être utilisée avec un système de filtration de piscine
+- 250 W de puissance
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N6AOWRP/?tag=tolees0d-21)
