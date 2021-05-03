@@ -30,8 +30,8 @@ C'est en vente [L Oréal Paris Pure Liss Soin Démêlant à l Huile de Tournesol
 
 - Résultats : des cheveux démêlés, lissés, sans frisottis et non alourdis, Toucher soyeux et souplesse absolue
 - Parfum aux subtiles notes de Gardénia, Formule enrichie en huile de Tournesol pour une crème à la texture riche et onctueuse
+- Après votre shampooing Pure Liss, répartir soigneusement ce soin démêlant sur cheveux mouillés en insistant sur les longueurs et les pointes, Rincer abondamment
 - Contenu : 1x Tube de Soin Démêlant LOréal Paris Pure Liss Système Soin Lissant, 250 ml
 - Après-shampooing au pouvoir lissant pour une action efficace sur les cheveux frisottants et indomptables
-- Après votre shampooing Pure Liss, répartir soigneusement ce soin démêlant sur cheveux mouillés en insistant sur les longueurs et les pointes, Rincer abondamment
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00N1ROXAC/?tag=tolees0d-21)
