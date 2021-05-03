@@ -28,10 +28,10 @@ Vous avez [Under Armour UA HOVR Sonic 2  Chaussures de Running Homme  Noir  Blac
 
 ℹ️:
 
+- Dessus : Cuir - Synthétique/PU
+- Doublure : Textile
+- Semelle intérieure : Textile
 - Semelle intérieure amovible : false
 - Matériau de semelle : Synthétique
-- Semelle intérieure : Textile
-- Doublure : Textile
-- Dessus : Cuir - Synthétique/PU
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CVD9C2B/?tag=tolees0d-21)

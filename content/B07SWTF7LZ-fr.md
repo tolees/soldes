@@ -28,10 +28,10 @@ C'est en vente [Geox D Myria C  Baskets Femme  White/Off White  40 EU](https://w
 
 ℹ️:
 
-- 5
-- 10
-- Chaussure femme Baskets femme
 - Geox
+- 10
 - Geox Baskets Geox ref_48857 Blanc - 40
+- Chaussure femme Baskets femme
+- 5
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SWTF7LZ/?tag=tolees0d-21)
