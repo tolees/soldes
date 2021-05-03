@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '30.00 % rabais sur Krups Nespresso - Krups Inissia rouge  M'
-date: 2021-04-29 11:03:23
+date: 2021-05-03 08:43:38
 image: 'https://m.media-amazon.com/images/I/41TPW1-mR5L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,12 +28,12 @@ Vous avez [Krups Nespresso - Krups Inissia rouge  Machine à café Nespresso  Ca
 
 ℹ️:
 
-- PRE-CHAUFFAGE RAPIDE : 25 secondes
-- RÉSERVOIR DEAU AMOVIBLE : 0,7 L
-- BAC D’ÉGOUTTAGE et BAC CAPSULES USAGÉES (pour 9-11 capsules) SÉPARES : pour une meilleure hygiène
 - 19 BARS DE PRESSION : la garantie dun espresso de qualité professionnelle
 - Réparabilité 15 ans, Garantie 2 ans
-- 2 TAILLES DE TASSE AVEC ARRÊT AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
+- BAC D’ÉGOUTTAGE et BAC CAPSULES USAGÉES (pour 9-11 capsules) SÉPARES : pour une meilleure hygiène
+- PRE-CHAUFFAGE RAPIDE : 25 secondes
 - MODE ÉCONOMISEUR DÉNERGIE : la machine bascule automatiquement en veille au bout de 9 minutes dinutilisation
+- 2 TAILLES DE TASSE AVEC ARRÊT AUTOMATIQUE : Expresso (40 ml), café long (110 ml) ; longueur de tasse personnalisable
+- RÉSERVOIR DEAU AMOVIBLE : 0,7 L
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IRWKB70/?tag=tolees0d-21)
