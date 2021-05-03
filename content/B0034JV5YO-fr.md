@@ -28,9 +28,9 @@ C'est en vente [Deutsche Grammophon - Richard Galliano-Bach](https://www.amazon.
 
 ℹ️:
 
-- Country Of Release: NLD
-- Year Of Release: 2010
 - Catalog#: 00289 4803341
 - Record Label: Deutsche Grammophon
+- Country Of Release: NLD
+- Year Of Release: 2010
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0034JV5YO/?tag=tolees0d-21)

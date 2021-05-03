@@ -28,10 +28,10 @@ C'est en vente [Barclay - Vanessa Paradis Best of](https://www.amazon.fr/dp/B003
 
 ℹ️:
 
-- Format : Album
 - Durée : Album
-- genre : Chanson française
 - Packaging : Emballé
+- genre : Chanson française
+- Format : Album
 - Compilation : Oui
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0030HG3II/?tag=tolees0d-21)
