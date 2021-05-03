@@ -31,7 +31,7 @@ C'est en vente [ION Audio Tailgater Go – Enceinte Sans-Fil Bluetooth Ultra-Por
 - Batterie longue durée - Batterie rechargeable avec indicateur de charge qui offrira plus de 50 heures de son sans-fil haute définition
 - La musique ne doit pas sarrêter - Radio AM/FM intégrée contrôlable via un affichage rétro-éclairé ; Pas de Bluetooth ? Aucun problème - Une entrée auxiliaire 3,5 mm est également incluse pour les appareils non Bluetooth ainsi que les microphones et les casques
 - Un son puissant et dynamique - Un woofer puissant et un tweeter à large dispersion offrent un son profond et puissant, et 20 W de puissance dynamique font grimper le volume
-- La pièce maîtresse de votre soirée karaoké - L’entrée pour microphone est facilement accessible pour permettre de faire des annonces et d’organiser un vrai karaoké professionnel (microphone non incluse)
 - Une connexion assurée - Connectez simplement et diffusez votre musique sur la Tailgater Go via n’importe quel appareil Bluetooth
+- La pièce maîtresse de votre soirée karaoké - L’entrée pour microphone est facilement accessible pour permettre de faire des annonces et d’organiser un vrai karaoké professionnel (microphone non incluse)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01INRAYAC/?tag=tolees0d-21)
