@@ -28,10 +28,10 @@ C'est en vente [Timberland Classic 3 Eye Padded  Chaussures Bateau Homme  Marron
 
 ℹ️:
 
-- Matériau de semelle : caoutchouc
-- Dessus : cuir
 - Doublure : textile
-- Semelle intérieure : cuir
 - Type de talons : plat
+- Dessus : cuir
+- Semelle intérieure : cuir
+- Matériau de semelle : caoutchouc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00189SYGO/?tag=tolees0d-21)
