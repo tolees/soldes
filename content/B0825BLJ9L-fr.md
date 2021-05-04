@@ -28,10 +28,10 @@ C'est en vente [National Geographic  Kit Trépied Photo Voyage  Sac de Transport
 
 ℹ️:
 
-- LE KIT DE VOYAGE ULTIME: Ce trépied à hautes performances a été assemblé en fibre de carbone premium, un matériau à la fois léger et robuste
-- L’AFFAIRE EST DANS LE SAC: Le kit trépied photo de voyage National Geographic est fourni avec un sac dédié qui facilite le stockage et le transport de votre matériel
-- COMPACT ET PERFORMANT: Des appareils hybrides aux reflex équipés de téléobjectifs, ce modèle peut accueillir en toute sécurité une charge admissible de 8 kg
 - TRAVAILLEZ DANS TOUTES LES CONDITIONS: Les trois butées angulaires vous permettent d’installer votre trépied n’importe où, en un temps record grce au mécanisme de verrouillage rotatif à 5 sections
+- L’AFFAIRE EST DANS LE SAC: Le kit trépied photo de voyage National Geographic est fourni avec un sac dédié qui facilite le stockage et le transport de votre matériel
+- LE KIT DE VOYAGE ULTIME: Ce trépied à hautes performances a été assemblé en fibre de carbone premium, un matériau à la fois léger et robuste
 - UNE SOLUTION 2-EN-1: Vous aimez les trépieds monotubes mais ne souhaitez pas investir dans un kit supplémentaire? Détachez simplement la jambe-monopode intégrée et connectez-la à la colonne centrale
+- COMPACT ET PERFORMANT: Des appareils hybrides aux reflex équipés de téléobjectifs, ce modèle peut accueillir en toute sécurité une charge admissible de 8 kg
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0825BLJ9L/?tag=tolees0d-21)

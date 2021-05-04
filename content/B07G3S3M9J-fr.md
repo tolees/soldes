@@ -1,37 +1,42 @@
 ---
 layout: post
-title: 'LEGO 75948 Harry Potter La tour de l’hor avec 24.00 % rabais '
-date: 2021-05-02 13:55:23
+title: 'LEGO - La Tour de l horloge de Poudlard avec 24.00 % rabais '
+date: 2021-05-04 13:52:03
 image: 'https://m.media-amazon.com/images/I/51EqLQG0MKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07G3S3M9J-fr LEGO 75948 Harry Potter La tour de l’horloge de Poudlard...'
+slug: 'B07G3S3M9J-fr LEGO - La Tour de l horloge de Poudlard'
 sku: 'B07G3S3M9J-fr'
 tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','Sets de jeux de construction','lego', ]
 actualPrice: 75.99 EUR
 currency: EUR
 price: 75.99
 comparePrice: 99.99 EUR
-prodname: 'LEGO 75948 Harry Potter La tour de l’horloge de Poudlard   Jeu de Construction'
+prodname: 'LEGO - La Tour de l horloge de Poudlard'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21'
 descuento: '24.00'
-average: '76.867948051948'
+average: '76.8656735751295'
 ---
 
-C'est en vente [LEGO 75948 Harry Potter La tour de l’horloge de Poudlard   Jeu de Construction](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)  à  24.00 % de réduction, prix final  75.99 EUR (original: 99.99 EUR) ici:
+C'est en vente [LEGO - La Tour de l horloge de Poudlard](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)  à  24.00 % de réduction, prix final  75.99 EUR (original: 99.99 EUR) ici:
 
-[![LEGO 75948 Harry Potter La tour de l’hor](https://m.media-amazon.com/images/I/51EqLQG0MKL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)
+[![LEGO - La Tour de l horloge de Poudlard](https://m.media-amazon.com/images/I/51EqLQG0MKL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)
 
 ℹ️:
 
-- Toutes les figurines viennent avec des baguettes et leurs costumes de boule de Noël avec une scène comprenant 2 tables glacées, une sculpture glacée constructible et un sapin de Noël
-- Comporte un mécanisme de changement d’horloge pour créer des aventures dans le temps Time-Turner, et une fonction de «danse» pour que le bal de Noël bouge vraiment
-- Construisez la tour de lhorloge du château de Poudlard LEGO à 3 niveaux avec des lieux emblématiques et 8 figurines extraites des films de Harry Potter
-- La tour de l’horloge de Poudlard mesure 35 cm de haut, 34 cm de long et 18 cm de large; contient 922 pièces.
-- Les lieux incluent la salle de classe Défense contre les forces du mal, le bureau de Dumbledore, l’aile de l’hôpital, la salle de bains des préfets et une scène de bal de Noël
+- La salle de bains des préfets comprend un vitrail orné dune sirène.
+- La salle de classe de défense contre les forces du Mal comprend une table, une chaise, des potions, une vitrine, un livre, un bureau avec un encrier et une plume, une lampe à construire et un tableau.
+- Cet ensemble de jeu LEGO Harry Potter comprend la tour de lhorloge de Poudlard et ses 3 étages, le hall dentrée, la salle de classe de défense contre les forces du Mal, linfirmerie, la salle de bains des préfets, le bureau de Dumbledore et des décorations glacées pour le bal de Noël.
+- La scène du bal de Noël comprend 2 tables glacées avec 2 verres, une sculpture de glace à construire et un sapin de Noël.
+- Inclut 8 figurines Harry Potter (nouveautés de juin 2019) : Harry Potter, Ron Weasley, Hermione Granger, Fleur Delacour, Cedric Diggory, Viktor Krum, Albus Dumbledore et Madame Maxime.
+- Le hall dentrée comprend un coffre et la Coupe de Feu.
+- Linfirmerie comprend 2 lits et 2 lampes à construire.
+- Comprend un mécanisme dhorloge permettant aux enfants dimaginer des aventures avec le Retourneur de Temps, et une fonction « danse » pour animer vraiment le bal de Noël !
+- Chaque figurine est fournie avec sa baguette et son costume pour le bal de Noël.
+- Le bureau de Dumbledore comprend un fauteuil et un bureau avec un encrier et une plume, la Pensine et lépée de Gryffondor.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G3S3M9J/?tag=tolees0d-21)
