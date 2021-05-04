@@ -28,9 +28,9 @@ Vous avez [Deutsche Grammophon - Richard Galliano plays Nino Rota](https://www.a
 
 ℹ️:
 
-- Record Label: Deutsche Grammophon
-- Catalog#: 00289 4764615
-- Year Of Release: 2011
 - Country Of Release: NLD
+- Record Label: Deutsche Grammophon
+- Year Of Release: 2011
+- Catalog#: 00289 4764615
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005NNJLB8/?tag=tolees0d-21)

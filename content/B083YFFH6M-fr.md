@@ -28,10 +28,10 @@ Vous avez [L Oréal Men Expert - Hydra Energetic - Soin Express Bonne Mine - Gel
 
 ℹ️:
 
-- Application : étaler 2 noisettes du gel teinté sur peau propre comme une crème traditionnelle, Réappliquer pour plus dintensité, Éviter le contour des yeux, Rincer à la fin de la journée
 - Soin express à la texture gel teinté indétectable, Effet bonne mine naturel et instantané avec action hydratante 24h, Spécialement conçu pour les hommes, Compatible avec toutes les carnations
+- Application : étaler 2 noisettes du gel teinté sur peau propre comme une crème traditionnelle, Réappliquer pour plus dintensité, Éviter le contour des yeux, Rincer à la fin de la journée
 - Contenu : 1x Gel Hydra Energetic Soin Express Bonne Mine pour homme de LOréal Men Expert, Format : 50ml
-- Formule sans autobronzant enrichie en pigments et agents hydratants, Rinçable à leau, Texture non collante et non grasse à la pénétration instantanée, Testée sous contrôle dermatologique
 - Visage rayonnant et immédiatement sublimé, Résultat naturel et sans trace visible, Teint subtilement hâlé, Intensité modulable selon quantité appliquée, Peau douce et hydratée
+- Formule sans autobronzant enrichie en pigments et agents hydratants, Rinçable à leau, Texture non collante et non grasse à la pénétration instantanée, Testée sous contrôle dermatologique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B083YFFH6M/?tag=tolees0d-21)
