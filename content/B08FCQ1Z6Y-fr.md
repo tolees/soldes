@@ -28,9 +28,9 @@ Vous avez [ECOVACS DEEBOT T8+ Robot aspirateur Laveur  2en1  avec Station d auto
 
 ℹ️:
 
-- Détection d’obstacle : TrueDetect 3D
-- Système de nettoyage pression : OZMO Pro
 - Cartographie optimisée : TrueMapping
 - Station de vidage automatique : jusqu’à 30 jours de tranquillité
+- Système de nettoyage pression : OZMO Pro
+- Détection d’obstacle : TrueDetect 3D
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FCQ1Z6Y/?tag=tolees0d-21)
