@@ -28,10 +28,10 @@ C'est en vente [GARNIER - NARTA Magnésium Protect Déodorant Spray Homme Dermo-
 
 ℹ️:
 
-- Déodorant compressé magnésium protect hypoallergénique, aussi efficace que les sels daluminium contre les odeurs. efficacité 48h.
+- Bien agiter avant chaque utilisation. vaporiser à 15cm des aisselles. a utiliser sur une peau propre.
 - Efficacité 48h
 - Contenu : 6x Magnésium Protect Déodorant Spray Homme Dermo-Efficacité sans anti transpirant synthétique, anti-odeurs 48h
 - Formule sans anti transpirant synthétiqueau magnésium protecteur, aussi efficace que les sels daluminium contre les odeurs. action anti odeur.efficacité 48h.
-- Bien agiter avant chaque utilisation. vaporiser à 15cm des aisselles. a utiliser sur une peau propre.
+- Déodorant compressé magnésium protect hypoallergénique, aussi efficace que les sels daluminium contre les odeurs. efficacité 48h.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08JR3TWXX/?tag=tolees0d-21)

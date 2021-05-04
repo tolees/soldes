@@ -28,10 +28,10 @@ C'est en vente [DOP Shampoing Solide à l Amande Douce](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Shampooing solide dop à lamande douce avec sa forme damande pour tous types de cheveux
-- Mouiller ses cheveux et son shampooing solide, puis lappliquer directement sur ses cheveux. Masser pour faire mousser. Bien rincer vos cheveux
-- Il mousse super bien et lave vos cheveux tout en douceur. Sa formule est sans sulfate, sans savon, sans silicone, sans conservateur, avec une base lavante d’origine végétale
-- Astuces: conservez votre shampooing solide à labri de leau et pensez à couper leau sous la douche !
 - Nettoie vos cheveux en leur donnant brillance et force. adapté à tous types de cheveux. mousse et se rince facilement
+- Astuces: conservez votre shampooing solide à labri de leau et pensez à couper leau sous la douche !
+- Shampooing solide dop à lamande douce avec sa forme damande pour tous types de cheveux
+- Il mousse super bien et lave vos cheveux tout en douceur. Sa formule est sans sulfate, sans savon, sans silicone, sans conservateur, avec une base lavante d’origine végétale
+- Mouiller ses cheveux et son shampooing solide, puis lappliquer directement sur ses cheveux. Masser pour faire mousser. Bien rincer vos cheveux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08LN4LMH5/?tag=tolees0d-21)

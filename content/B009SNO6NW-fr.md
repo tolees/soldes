@@ -28,7 +28,7 @@ Vous avez [Wofi - CESENA - Lampe de bureau 1lumière e14/42w noir](https://www.a
 
 ℹ️:
 
-- Piles pas requises
 - Puissance : 42.0 watts
+- Piles pas requises
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009SNO6NW/?tag=tolees0d-21)
