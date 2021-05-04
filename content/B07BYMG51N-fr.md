@@ -28,10 +28,10 @@ C'est en vente [MARSGAMING - Mars Gaming MMBC  Souris de Jeu Bleu  Officielle FC
 
 ℹ️:
 
-- Equipez-vous de cette souris et soutenez le FC Barcelona Lassa de chez vous, sans sacrifier la qualité et le design de Mars Gaming.
 - Compatible avec Windows, Linux, Mac, PS4, PS5, XBOX ONE, XBOX SERIES X-S
 - La souris MMBC dispose dun capteur optique professionnel avec commutation DPI à la volée. Equipez-vous pour la compétition
 - 6 boutons, câble torsadé, USB plaqué or et jusquà 3200 DPI pour fournir une souris de jeu sans sacrifier le design sportif.
 - Dessinée en bleu et grenat, avec les armoiries du club imprimées en haute qualité, la souris MMBC se distingue par son éclairage RGB BREATHING EFFECT.
+- Equipez-vous de cette souris et soutenez le FC Barcelona Lassa de chez vous, sans sacrifier la qualité et le design de Mars Gaming.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BYMG51N/?tag=tolees0d-21)
