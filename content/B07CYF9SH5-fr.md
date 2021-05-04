@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'SAMSUNG MB-MJ64GA/EU Carte Mémoire micro avec 50.37 % rabais '
-date: 2021-05-02 15:27:21
+date: 2021-05-04 06:15:42
 image: 'https://m.media-amazon.com/images/I/312fXEoRfKL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
