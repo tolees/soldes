@@ -28,11 +28,11 @@ C'est en vente [Xiaomi SJL4005GL - Mi Laser Projecteur 150 - Vidéoprojecteur DL
 
 ℹ️:
 
+- Distance de projection ultra-courte: de 5 à 50 cm pour une surface de projection géante de 150" (réglez de 42 à 150 pouces). Température de fonctionnement (T-T): 0 - 40 ° C
+- Technologie de lumière laser ALPD 3.0: les images sont claires et lumineuses, et lALPD 3.0 permet daméliorer la durée de vie de lappareil et de réduire sa taille.
 - Contraste natif de 3000: 1/ Luminosité de 5000 lumens/ Durée de vie de la lampe de 25 000 heures ou plus
-- Connectique: 2x HDMI /1x HDMI ARC /1x composite /1x entrées audio1x sortie audio/ 1x RJ45/ 1x entrée micro/1x sortie optique/ Wifi 802.11a/b/g/n/ac
 - Audio: 2x Haut-parleurs à large bande +2x tweeter/ Dolby/ DTS
 - Entrée de puissance: 100-240V 50/60 Hz
-- Technologie de lumière laser ALPD 3.0: les images sont claires et lumineuses, et lALPD 3.0 permet daméliorer la durée de vie de lappareil et de réduire sa taille.
-- Distance de projection ultra-courte: de 5 à 50 cm pour une surface de projection géante de 150" (réglez de 42 à 150 pouces). Température de fonctionnement (T-T): 0 - 40 ° C
+- Connectique: 2x HDMI /1x HDMI ARC /1x composite /1x entrées audio1x sortie audio/ 1x RJ45/ 1x entrée micro/1x sortie optique/ Wifi 802.11a/b/g/n/ac
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07H5FW5PD/?tag=tolees0d-21)
