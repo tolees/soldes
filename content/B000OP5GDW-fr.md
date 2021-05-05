@@ -28,11 +28,11 @@ C'est en vente [Invicta Pro Diver 9307 Montre Homme  40 mm](https://www.amazon.f
 
 ℹ️:
 
-- 2 ans de garantie Invicta
-- LInvicta 9307 a un boîtier en acier inoxydable de 40 millimètres avec un cadran noir
 - Résistance à leau de 20 bars
+- LInvicta 9307 a un boîtier en acier inoxydable de 40 millimètres avec un cadran noir
 - Mouvement électronique à quartz précis
-- Invicta Pro Diver 9307 Montre Homme, 40 mm
 - Modèle issu de la collection Invicta Pro Diver
+- 2 ans de garantie Invicta
+- Invicta Pro Diver 9307 Montre Homme, 40 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000OP5GDW/?tag=tolees0d-21)

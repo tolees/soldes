@@ -29,11 +29,11 @@ C'est en vente [Bialetti - 4410 - Cappuccinatore - Mousseur à Lait en Verre - 1
 ℹ️:
 
 - Garantie : 1 an(s)
-- Description du produit: Mousseur à lait en verre 1 litre
-- Utilisation du bol (uniquement) au micro onde
-- Matière : Verre
 - mousseur avec tige aluminium, 2 disques plastique et couvercle acier
+- Utilisation du bol (uniquement) au micro onde
 - Couleur : Verre
 - Compatibilité four: Non compatible
+- Description du produit: Mousseur à lait en verre 1 litre
+- Matière : Verre
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00VZZ7VVA/?tag=tolees0d-21)

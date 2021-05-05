@@ -28,10 +28,10 @@ Vous avez [Headbournes Porte-manteau traditionnel à poser Support pour paraplui
 
 ℹ️:
 
+- Sur pied
 - Avec porte parapluie
-- 12 crochets
 - Finition pin naturel
 - Bois certifié fsc
-- Sur pied
+- 12 crochets
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EYDUYC8/?tag=tolees0d-21)

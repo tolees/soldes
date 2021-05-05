@@ -29,13 +29,13 @@ C'est en vente [LEGO Porsche 911 RSR](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=t
 ℹ️:
 
 - La réplique du modèle Porsche 911 RSR avec une multitude de caractéristiques authentiques, y compris une aile arrière avec des supports « col de cygne », un diffuseur arrière étendu et des rétroviseurs aérodynamiques, plus des jantes à rayons noires et des phares avant et arrière réalistes. Comprend également une cabine détaillée, un différentiel qui fonctionne, une suspension indépendante et un moteur six cylindres à plat avec des pistons mobiles positionnés devant lessieu arrière.
+- Les ensembles LEGO Technic comprennent des mouvements et des mécanismes réalistes qui introduisent les jeunes constructeurs LEGO à lunivers de lingénierie dune façon accessible et réaliste.
+- Cet ensemble comprend 1 580 pièces.
+- Ce modèle LEGO Technic est conçu pour fournir une expérience de construction immersive et enrichissante.
 - Permet de vérifier le moteur six cylindres à plat avec des pistons mobiles.
 - À partir de 10 ans.
 - Cette voiture à collectionner est composée de coloris blanc, rouge et noir et d’une feuille d’autocollants pour avoir des détails supplémentaires.
-- Cet ensemble comprend 1 580 pièces.
-- Les ensembles LEGO Technic comprennent des mouvements et des mécanismes réalistes qui introduisent les jeunes constructeurs LEGO à lunivers de lingénierie dune façon accessible et réaliste.
-- La Porsche 911 RSR mesure plus de 13 cm de haut, 50 cm de long et 20 cm de large.
 - Possibilité d’ouvrir les portes pour accéder à une cabine pleine de détails réalistes, comprenant un écran radar, une direction qui fonctionne, un système dextinction et même une carte du circuit Lagune Seca imprimée sur la porte du pilote.
-- Ce modèle LEGO Technic est conçu pour fournir une expérience de construction immersive et enrichissante.
+- La Porsche 911 RSR mesure plus de 13 cm de haut, 50 cm de long et 20 cm de large.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Prise Connectée WiFi  Refoss Prise Intelligente Compatible avec
 
 ℹ️:
 
-- PRISE INTELLIGENTE AVEC CONTRÔLE À DISTANCE VIA APP: Allumez ou éteignez les appareils via lAPP eHomelife avec votre smartphone (iOS et Android) partout sans limite de distance. Aucun hub ou accessoires nest requis.
 - PRISE CONNECTÉE WIFI AVEC COMMANDE VOCALE: La prise intelligente Refoss fonctionne avec Amazon Alexa, Echo, Echo Dot, Google Assistant et Google Home, afin que vous pouvez contrôler directement vos appareils via une commande vocale.
-- PROGRAMMER VOS SCÈNES PERSONNALISÉES: Vous pouvez créer des programmes (minuterie ou compte à rebours) pour allumer / éteindre lappareil automatiquement en fonction de votre routine. À lapproche de la nuit, il est temps dallumer les lumières. Lorsque vous êtes presque à la maison, allumez le climatiseur. Refoss vous permet de profiter de la vie intelligente!
-- FACILE À INSTALLER ET CONCEPTION DE SÉCURITÉ: Téléchargez lapplication eHomelife gratuite dans le Google Store ou scannez le code QR dans le manuel et suivez les étapes dinstallation. Le boîtier de la prise est composé dun matériau ignifuge. Protection de surcharge électricité et conception de la couverture de sécurité coulissante.
+- PRISE INTELLIGENTE AVEC CONTRÔLE À DISTANCE VIA APP: Allumez ou éteignez les appareils via lAPP eHomelife avec votre smartphone (iOS et Android) partout sans limite de distance. Aucun hub ou accessoires nest requis.
 - PARTAGE DE COMPTE: Il suffit de se connecter au même compte Refoss, vous pouvez contrôler les appareils connectés avec votre famille ou ami. Il ny a pas de limite sur le nombre de personnes.
+- FACILE À INSTALLER ET CONCEPTION DE SÉCURITÉ: Téléchargez lapplication eHomelife gratuite dans le Google Store ou scannez le code QR dans le manuel et suivez les étapes dinstallation. Le boîtier de la prise est composé dun matériau ignifuge. Protection de surcharge électricité et conception de la couverture de sécurité coulissante.
+- PROGRAMMER VOS SCÈNES PERSONNALISÉES: Vous pouvez créer des programmes (minuterie ou compte à rebours) pour allumer / éteindre lappareil automatiquement en fonction de votre routine. À lapproche de la nuit, il est temps dallumer les lumières. Lorsque vous êtes presque à la maison, allumez le climatiseur. Refoss vous permet de profiter de la vie intelligente!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083TQGVF3/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [teamFINAL 21 Backpack Puma Black](https://www.amazon.fr/dp/B07XP
 
 ℹ️:
 
-- Porte-bouteille d’eau élastique sur la droite
-- Fermeture à glissière double sens sur le compartiment principal
-- Poignée en sangle sur le haut
 - Bretelles rembourrées, réglables
+- Fermeture à glissière double sens sur le compartiment principal
+- Porte-bouteille d’eau élastique sur la droite
+- Poignée en sangle sur le haut
 - Poche zippée supplémentaire sur l’avant
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XPCBSQD/?tag=tolees0d-21)
