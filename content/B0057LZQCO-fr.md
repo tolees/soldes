@@ -28,10 +28,10 @@ C'est en vente [SONY CLASSICAL - Liszt-My Piano Hero](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Year Of Release: 2011
-- Country Of Release: NLD
-- Record Label: Sony Classical
 - Notes: Wiener Philharmoniker/Valery Gergiev
 - Catalog#: 88697 891412
+- Record Label: Sony Classical
+- Year Of Release: 2011
+- Country Of Release: NLD
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0057LZQCO/?tag=tolees0d-21)

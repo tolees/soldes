@@ -28,10 +28,10 @@ Vous avez [FOREO - UFO mask Glow Addict](https://www.amazon.fr/dp/B07CZKT8JK/?ta
 
 ℹ️:
 
-- Masque en microfibre ultra-douce basé sur des formules coréennes de soins de la peau, contenant de l’extrait de perle + vitamine E
-- Masque visage hydratant, pour un teint instantanément lumineux et plus éclatant
-- Doit être associé à l’appareil UFO ou UFO mini par FOREO
 - Un soin de 90 secondes pour des résultats instantanés
 - La thermothérapie et les pulsations basse-fréquences sont combinées à la lumière LED verte pour corriger les teints inégaux
+- Masque visage hydratant, pour un teint instantanément lumineux et plus éclatant
+- Masque en microfibre ultra-douce basé sur des formules coréennes de soins de la peau, contenant de l’extrait de perle + vitamine E
+- Doit être associé à l’appareil UFO ou UFO mini par FOREO
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CZKT8JK/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Interscope Records - Black Panther : The album](https://www.amaz
 
 ℹ️:
 
-- ScHoolboy Q - X (Feat. 2 Chainz & Saudi) 4.27
 - Khalid & Swae Lee - The Ways 3.58
 - Vince Staples & Yugen Blakrok - Opps 3.00
 - Kendrick Lamar - Black Panther 2.10
+- ScHoolboy Q - X (Feat. 2 Chainz & Saudi) 4.27
 - Kendrick Lamar - All the Stars (Feat. SZA) 3.52
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0789G9LSK/?tag=tolees0d-21)

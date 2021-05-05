@@ -28,9 +28,9 @@ C'est en vente [DOP Shampooing Solide Vitamines 1 Unité](https://www.amazon.fr/
 
 ℹ️:
 
-- Mouiller ses cheveux et son shampooing solide, puis lappliquer directement sur ses cheveux. Masser pour faire mousser
-- Enfin, bien rincer vos cheveux. Astuces: conservez votre shampooing solide à labri de leau et pensez à couper leau sous la douche !
 - Shampooing solide dop aux vitamines avec sa réelle forme dorange, pour les cheveux de toute la famille
+- Mouiller ses cheveux et son shampooing solide, puis lappliquer directement sur ses cheveux. Masser pour faire mousser
 - Nettoie vos cheveux en leur donnant brillance et force. Adapté à tous types de cheveux. Mousse et se rince facilement
+- Enfin, bien rincer vos cheveux. Astuces: conservez votre shampooing solide à labri de leau et pensez à couper leau sous la douche !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08N5MRTJM/?tag=tolees0d-21)

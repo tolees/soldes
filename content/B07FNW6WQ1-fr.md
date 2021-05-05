@@ -28,15 +28,15 @@ C'est en vente [LEGO Le Camion de Poubelle](https://www.amazon.fr/dp/B07FNW6WQ1/
 
 ℹ️:
 
-- La benne mesure plus de 4 cm de haut, 6 cm de long et 3 cm de profondeur.
-- Les accessoires incluent une poubelle, une pelle, un balai, une banane, un poisson, une petite branche et 7 briques LEGO.
-- Le camion poubelle mesure plus de 9 cm de haut, 14 cm de long et 7 cm de large.
 - LEGO 4 + introduit votre enfant à un monde illimité de ses héros du quotidien.
-- Inclut également une benne avec des roues.
-- Comprend 2 figurines déboueur LEGO City.
-- Comprend un camion poubelle facile à construire avec une cabine pour 2 figurines qui souvre, un conteneur qui bascule et une base Starter Brick pour aider votre enfant à construire et à jouer rapidement dans l’univers animé de LEGO City.
+- Le camion poubelle mesure plus de 9 cm de haut, 14 cm de long et 7 cm de large.
 - Les ensembles LEGO 4 + ont été commercialisés à lorigine sous le nom de LEGO Juniors et sont compatibles avec tous les ensembles de construction LEGO pour une construction créative.
-- Un cadeau idéal pour les enfants dès 4ans.
+- Comprend un camion poubelle facile à construire avec une cabine pour 2 figurines qui souvre, un conteneur qui bascule et une base Starter Brick pour aider votre enfant à construire et à jouer rapidement dans l’univers animé de LEGO City.
+- Comprend 2 figurines déboueur LEGO City.
+- Inclut également une benne avec des roues.
+- La benne mesure plus de 4 cm de haut, 6 cm de long et 3 cm de profondeur.
 - Les ensembles LEGO 4 + ensembles sont spécialement conçus pour être amusants et faciles pour les jeunes enfants, avec des instructions de montage simples qui donnent une entrée parfaite dans la construction LEGO et aident à développer leur confiance en eux.
+- Les accessoires incluent une poubelle, une pelle, un balai, une banane, un poisson, une petite branche et 7 briques LEGO.
+- Un cadeau idéal pour les enfants dès 4ans.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNW6WQ1/?tag=tolees0d-21)

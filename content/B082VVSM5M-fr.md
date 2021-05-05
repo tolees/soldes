@@ -29,9 +29,9 @@ C'est en vente [L Oréal Men Expert Excell 5 Gel-Crème Recolorant pour Homme  C
 ℹ️:
 
 - Conseils dutilisation : Verser le gel recolorant dans le flacon révélateur, Déposer le mélange sur la brosse, Appliquer sur lensemble de la chevelure ou les zones concernées, Laisser poser 5 minutes et rincer jusquà ce que leau soit claire
+- Résultat naturel sans effet casque, Formule sans ammoniaque pour le respect du cheveu, Application facile, précise et homogène grâce à lapplicateur brosse inclus
 - Gel-crème de coloration pour les hommes avec cheveux gris, blancs ou poivre et sel, Idéal pour camoufler les cheveux gris concentrés sur toute la chevelure ou concentrés par endroits
 - Couvrance temporaire jusquà 4 semaines avec estompage naturel, Disponible en 3 teintes pour saccorder à vos cheveux
-- Résultat naturel sans effet casque, Formule sans ammoniaque pour le respect du cheveu, Application facile, précise et homogène grâce à lapplicateur brosse inclus
 - Contenu : 1x Kit de coloration en gel-crème pour homme LOréal Men Expert Excell 5, Couleur : Châtain Naturel (5), Inclus : 1 tube de gel recolorant (35 ml), 1 flacon révélateur (35 ml), 1 applicateur brosse, 1 paire de gants, 1 mode demploi
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082VVSM5M/?tag=tolees0d-21)

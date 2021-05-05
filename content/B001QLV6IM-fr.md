@@ -28,18 +28,18 @@ Vous avez [Copic marqueurs Ciao Set Manga Trousse 12 couleurs Tons Chairs](https
 
 ℹ️:
 
-- Ce set comprend les couleurs : E00, E04, E11, E21, E35, E37, R02, R20, R32, YR02, 0, 100
-- Les marqueurs COPIC Ciao sont idéals pour débuter !
-- 180 couleurs rechargeables et miscibles entre elles, ainsi quun Blender pour éclaircir et pour obtenir des nuances et effets subtils de dégradés
-- Pointe moyenne et pointe pinceau
-- Marqueur double-pointe, une pointe pinceau ultra souple, idéale pour les détails, et une large biseautée
 - Les marqueurs sont rechargeables avec les encres COPIC et permettent de mélanger et de créer des teintes uniques
-- Type de produit: Feutres Copic Ciao et Trousse de rangement
-- Couleurs miscibles et superposables
-- Idéal pour le manga, le scrapbooking, la carterie créative…
-- Gamme de Copic pour les débutants, les étudiants, les graphistes amateurs, les amateurs de mangas
-- Nuances: YR02 light orange, R02 flesh, R20 blush, R32 peach, E00 skin white, E04 lipstick natural, E11 barley beige, E21 baby skin pink, E35 chamois, E37 sepia, 0 colorless blender, 100 black
 - Contenu: 12 feutres Copic Ciao - Tons Chairs
+- Idéal pour le manga, le scrapbooking, la carterie créative…
+- Pointe moyenne et pointe pinceau
+- Type de produit: Feutres Copic Ciao et Trousse de rangement
+- Gamme de Copic pour les débutants, les étudiants, les graphistes amateurs, les amateurs de mangas
+- Les marqueurs COPIC Ciao sont idéals pour débuter !
 - Lencre sèche rapidement et ne sestompe pas
+- 180 couleurs rechargeables et miscibles entre elles, ainsi quun Blender pour éclaircir et pour obtenir des nuances et effets subtils de dégradés
+- Nuances: YR02 light orange, R02 flesh, R20 blush, R32 peach, E00 skin white, E04 lipstick natural, E11 barley beige, E21 baby skin pink, E35 chamois, E37 sepia, 0 colorless blender, 100 black
+- Ce set comprend les couleurs : E00, E04, E11, E21, E35, E37, R02, R20, R32, YR02, 0, 100
+- Couleurs miscibles et superposables
+- Marqueur double-pointe, une pointe pinceau ultra souple, idéale pour les détails, et une large biseautée
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001QLV6IM/?tag=tolees0d-21)

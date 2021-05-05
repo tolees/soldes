@@ -28,10 +28,10 @@ Vous avez [Decca - A Hard Road](https://www.amazon.fr/dp/B000HT34RA/?tag=tolees0
 
 ℹ️:
 
+- Record Label: Decca
 - Catalog#: 06024 9842225
-- Notes: Inlc. 14 Bonustracks
 - Year Of Release: 2006
 - Country Of Release: NLD
-- Record Label: Decca
+- Notes: Inlc. 14 Bonustracks
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000HT34RA/?tag=tolees0d-21)
