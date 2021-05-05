@@ -28,8 +28,8 @@ Vous avez [Electrolux E201S E201S-4 Sacs S-Bag Long Performance  Aucune](https:/
 
 ℹ️:
 
-- Capte jusquà 99.5% des particules
-- 4 sacs S-Bag long performance
 - 3 couches successives.
+- 4 sacs S-Bag long performance
+- Capte jusquà 99.5% des particules
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07G58SR4W/?tag=tolees0d-21)

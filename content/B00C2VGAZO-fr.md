@@ -28,9 +28,9 @@ Vous avez [Az - Dernier MC](https://www.amazon.fr/dp/B00C2VGAZO/?tag=tolees0d-21
 
 ℹ️:
 
-- Country Of Release: NLD
-- Catalog#: 06025 3737782
-- Record Label: Universal
 - Year Of Release: 2013
+- Country Of Release: NLD
+- Record Label: Universal
+- Catalog#: 06025 3737782
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00C2VGAZO/?tag=tolees0d-21)

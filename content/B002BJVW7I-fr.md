@@ -28,7 +28,7 @@ C'est en vente [Cattier Shampooing Antipelliculaire Bois de Saule Bio 250 ml](ht
 
 ℹ️:
 
-- Cosmebio Ecocert
 - Flacon capsule
+- Cosmebio Ecocert
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B002BJVW7I/?tag=tolees0d-21)
