@@ -28,10 +28,10 @@ Vous avez [Seville Classics Professionnel Chariot avec 3 étagères  86 4 x 45
 
 ℹ️:
 
-- Max. Charge maximale : 227 kg (uniformément répartie)
 - Comprend 3 étagères réglables en hauteur, 1 conduite poignée en acier amovibles et 4 roulettes (2 avec frein)
 - Dimensions : 86.4 x 45.7 x 85.1 cm (l x L x H)
 - industrielle universelle, en acier zingué
+- Max. Charge maximale : 227 kg (uniformément répartie)
 - Certifié NSF, Facile à monter sans outils
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BN46WIQ/?tag=tolees0d-21)
