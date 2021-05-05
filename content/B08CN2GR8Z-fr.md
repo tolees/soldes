@@ -28,9 +28,9 @@ Vous avez [G-STAR RAW Originals Stripe Logo T-Shirt  Jaune Cab 336-3749  XS Homm
 
 ℹ️:
 
-- Ourlet droit
-- Motif caoutchouté sur la poitrine
-- Manches courtes
 - Col rond côtelé
+- Ourlet droit
+- Manches courtes
+- Motif caoutchouté sur la poitrine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CN2GR8Z/?tag=tolees0d-21)
