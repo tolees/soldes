@@ -28,10 +28,10 @@ Vous avez [Aubade Push Up Bra pour Femme - Soleil Nocturne - Gala 80  Taille FR:
 
 ℹ️:
 
-- Composition en polyester, polyamide et élasthanne, Lavage à la main recommandé, En cas de lavage en machine : dans un pochon à 30° maximum pour une protection de votre lingerie
 - Dentelle florale relevée de touches scintillantes pour sublimer le décolleté, Petit nœud en satin et bijou cristal Swarovski à lentre-seins, Petits nœuds en satin en départ de bretelles, Bretelles brodées et réglables
+- Composition en polyester, polyamide et élasthanne, Lavage à la main recommandé, En cas de lavage en machine : dans un pochon à 30° maximum pour une protection de votre lingerie
+- Contenu : 1 soutien-gorge corbeille confort Aubade, SOLEIL NOCTURNE, Composition : Polyamide/Elasthanne/Polyester, Couleur : Rouge, Taille : 95C, ND18_GALA
 - Pour un ensemble complet : porte-jarretelles, guêpière et slip SOLEIL NOCTURNE assorti existant en plusieurs modèles
 - Soutien-gorge push-up avec coussinets amovibles de la collection Soleil Nocturne, Un mix parfait entre la séduction et le bien-être au quotidien
-- Contenu : 1 soutien-gorge corbeille confort Aubade, SOLEIL NOCTURNE, Composition : Polyamide/Elasthanne/Polyester, Couleur : Rouge, Taille : 95C, ND18_GALA
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07J3XPM46/?tag=tolees0d-21)
