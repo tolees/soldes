@@ -28,10 +28,10 @@ C'est en vente [GraviTrax Ravensburger Extension de Piste – Accessoire idéal 
 
 ℹ️:
 
-- Le treuil GraviTrax est une extension du système de piste à billes interactif GraviTrax : avec GraviTrax, les enfants construisent non seulement des pistes à billes simples, mais créent des mondes entiers de sphères entiers - Lentrée idéale dans le monde du circuit de billes
 - Avec ce jouet de construction, la créativité ne connaît pas de limites : il suffit de combiner le treuil avec le kit de démarrage GraviTrax et de créer encore plus daction dans les mondes de boules créés par vous-même - Plus de possibilités, plus de plaisir
-- En tant que jouet MINT, GraviTrax rend la gravité ludique : avec le train de câble, les boules surpassent de longues distances et de grandes différences de hauteur – cela assure encore plus daction et de tension
-- Avec le train GraviTrax, les enfants peuvent planifier, essayer et réaliser des parcours encore plus passionnants - GraviTrax ne sera jamais ennuyeux et reste toujours un excellent passe-temps et une activité idéale pour les enfants
 - Ce kit dextension contient : 1 x kit de treuil, 1 x rail long, 2 x rails moyens et 3 x rails courts et est le cadeau idéal pour les enfants à partir de 8 ans qui souhaitent élargir ou modifier leur train à billes
+- Avec le train GraviTrax, les enfants peuvent planifier, essayer et réaliser des parcours encore plus passionnants - GraviTrax ne sera jamais ennuyeux et reste toujours un excellent passe-temps et une activité idéale pour les enfants
+- En tant que jouet MINT, GraviTrax rend la gravité ludique : avec le train de câble, les boules surpassent de longues distances et de grandes différences de hauteur – cela assure encore plus daction et de tension
+- Le treuil GraviTrax est une extension du système de piste à billes interactif GraviTrax : avec GraviTrax, les enfants construisent non seulement des pistes à billes simples, mais créent des mondes entiers de sphères entiers - Lentrée idéale dans le monde du circuit de billes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QJ6JYN5/?tag=tolees0d-21)

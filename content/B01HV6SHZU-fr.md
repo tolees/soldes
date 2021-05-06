@@ -28,12 +28,12 @@ Vous avez [Nathan - 31141 Dessineo mon atelier à dessin pas à pas dès 4 ans](
 
 ℹ️:
 
-- Comment jouer? Lenfant choisit son modèle, le place sur la roue, pose une feuille de papier sur le pupitre et commence à reproduire le dessin
-- Très intuitif et facile duilitsation, Dessinéo permet à lenfant de passer dun gribouillage à un dessin complet avec un beau résultat.
-- Cette plateforme lumineuse est un jeu éducatif accessible aux petits qui commencent à gribouiller et tiennent leur crayon.
-- Dessinéo est une méthode simple et ludique qui stimule la créativité et développe limagination des enfants.
-- A travers 4 étapes lenfant peut reconstituer un dessin en suivant les modèles. Cest au total 30 modèles différents.
-- Une plateforme pour accompagner lenfant dans ses premiers dessins dès lâge de 4 ans pas à pas
 - De nombreux modèles avec des niveaux de difficulté progressifs indiqués par des petites étoiles.
+- Cette plateforme lumineuse est un jeu éducatif accessible aux petits qui commencent à gribouiller et tiennent leur crayon.
+- Une plateforme pour accompagner lenfant dans ses premiers dessins dès lâge de 4 ans pas à pas
+- A travers 4 étapes lenfant peut reconstituer un dessin en suivant les modèles. Cest au total 30 modèles différents.
+- Dessinéo est une méthode simple et ludique qui stimule la créativité et développe limagination des enfants.
+- Très intuitif et facile duilitsation, Dessinéo permet à lenfant de passer dun gribouillage à un dessin complet avec un beau résultat.
+- Comment jouer? Lenfant choisit son modèle, le place sur la roue, pose une feuille de papier sur le pupitre et commence à reproduire le dessin
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01HV6SHZU/?tag=tolees0d-21)

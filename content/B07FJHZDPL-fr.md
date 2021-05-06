@@ -28,10 +28,10 @@ C'est en vente [Philips BG7025/15  Tondeuse corps 4D](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Batterie rechargeable: 80 min dautonomie pour une heure de charge
 - Tondeuse parfaitement étanche: sutilise sous la douche et se nettoie à leau
-- Rasoir avec suivi des contours 4D et 5 hauteurs de coupe pour un rasage précis et en douceur
 - Respectueux de la peau: tête de rasage dotée de bords arrondis et dune grille hypoallergénique
 - Design unique double face: Rasoir et Tondeuse
+- Rasoir avec suivi des contours 4D et 5 hauteurs de coupe pour un rasage précis et en douceur
+- Batterie rechargeable: 80 min dautonomie pour une heure de charge
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FJHZDPL/?tag=tolees0d-21)

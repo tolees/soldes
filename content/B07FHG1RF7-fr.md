@@ -28,10 +28,10 @@ C'est en vente [Philips HD7769/00 Machine à café Grind & Brew - Broyeur intég
 
 ℹ️:
 
-- Machine programmable grâce à son minuteur
 - Double bac à grain de café: 2 types de grains de café différents
 - Sélecteur dintensité: (léger, moyen, fort)
 - Système stop-gouttes pour se servir une tasse de café avant la fin du cycle
 - Broyeur intégré: 9 options de moutures différentes
+- Machine programmable grâce à son minuteur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FHG1RF7/?tag=tolees0d-21)

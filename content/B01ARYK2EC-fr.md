@@ -28,9 +28,9 @@ Vous avez [GraviTrax Transfer  26118  Multicolore](https://www.amazon.fr/dp/B01A
 
 ℹ️:
 
+- Le kit GraviTrax Transfer est une extension du système de piste à billes interactif GraviTrax : avec GraviTrax, les enfants construisent non seulement des pistes à billes simples, mais créent des mondes entiers de sphères - Lentrée idéale dans le monde du circuit de billes
 - Avec ce jouet de construction, la créativité ne connaît pas de limites : il suffit de combiner le transfert avec le kit de démarrage GraviTrax et de créer encore plus daction dans les mondes de boules créés par vous-même, plus de possibilités, plus de plaisir
 - Ce kit dextension contient : 3 x transferts de pierres daction, 1 x long rail, 2 x rails moyens et 3 x rails courts et est le cadeau idéal pour les enfants à partir de 8 ans qui souhaitent élargir ou transformer leur piste à billes
-- Le kit GraviTrax Transfer est une extension du système de piste à billes interactif GraviTrax : avec GraviTrax, les enfants construisent non seulement des pistes à billes simples, mais créent des mondes entiers de sphères - Lentrée idéale dans le monde du circuit de billes
 - Avec le kit de transfert GraviTrax, les enfants peuvent planifier, essayer et réaliser des parcours encore plus passionnants - GraviTrax ne sera jamais ennuyeux et reste toujours un excellent passe-temps et une activité idéale pour les enfants
 - En tant que jouet MINT, GraviTrax rend la gravité très ludique : le transfert transporte la boule pièce par pièce et devient un véritable accroche-regard de chaque piste – ce qui assure encore plus daction et de tension
 

@@ -28,10 +28,10 @@ Vous avez [Varta Chargeur Plug pour Batteries Rechargeables AA/AAA 9 V Inclus Po
 
 ℹ️:
 
+- lécran LCD simplifié affiche le processus de charge en pourcentage
 - 4 batteries AA VARTA rechargeables 2100mAh incluses
-- un port USB intégré pour charger les appareils connectés
 - Charge 1 à 4 batteries AA ou AAA et une batterie 9V
 - fonctions de sécurité complètes fiables, protection contre les court-circuit, détection des piles défectueuses ou inversion des polarités
-- lécran LCD simplifié affiche le processus de charge en pourcentage
+- un port USB intégré pour charger les appareils connectés
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084SQSPLK/?tag=tolees0d-21)

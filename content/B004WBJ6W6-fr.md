@@ -28,8 +28,8 @@ Vous avez [Tena Protection Lady Maxi Night 12 Pièces](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Serviettes hygiéniques
 - Produits de beauté
+- Serviettes hygiéniques
 - Marque Tena
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B004WBJ6W6/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Original Einhell Starter Kit batterie et chargeur Power X-Change
 
 ℹ️:
 
-- Cellules Lithium-Ion haut de gamme: pratiquement pas d’auto-décharge
-- Témoin du niveau de charge à 6 positions
-- Témoin LED du niveau de charge de la batterie à 3 positions
 - La sécurité la plus aboutie : contrôle permanent de tous les paramètres par un microprocesseur
 - Système de charge intelligent pour une longue durée de vie de la batterie
+- Cellules Lithium-Ion haut de gamme: pratiquement pas d’auto-décharge
+- Témoin LED du niveau de charge de la batterie à 3 positions
+- Témoin du niveau de charge à 6 positions
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M3SPEZF/?tag=tolees0d-21)
