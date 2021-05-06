@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'WARNER HOME VIDEO - Tim Burton-Coffret 9 avec 30.77 % rabais '
-date: 2021-04-29 14:04:07
+date: 2021-05-06 10:28:17
 image: 'https://m.media-amazon.com/images/I/51WRedqigzL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'WARNER HOME VIDEO'
 buyurl: 'https://www.amazon.fr/dp/B00SNN8Q1Q/?tag=tolees0d-21'
 descuento: '30.77'
-average: '30.6633333333333'
+average: '30.995'
 ---
 
 C'est en vente [WARNER HOME VIDEO - Tim Burton-Coffret 9 Films [Blu-Ray]](https://www.amazon.fr/dp/B00SNN8Q1Q/?tag=tolees0d-21)  à  30.77 % de réduction, prix final  31.99 EUR (original: 46.21 EUR) ici:
@@ -28,9 +28,9 @@ C'est en vente [WARNER HOME VIDEO - Tim Burton-Coffret 9 Films [Blu-Ray]](https:
 
 ℹ️:
 
-- productGroup : DVD
-- numberOfDiscs : 9
-- Date de sortie : 2015-04-01
 - regionCode : 2
+- numberOfDiscs : 9
+- productGroup : DVD
+- Date de sortie : 2015-04-01
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00SNN8Q1Q/?tag=tolees0d-21)
