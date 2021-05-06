@@ -28,10 +28,10 @@ C'est en vente [G-STAR RAW RAW T-Shirt  Dark Candy 336-c235  M Homme](https://ww
 
 ℹ️:
 
-- Ourlet droit
-- Manches courtes avec empiècement droit
+- Col rond côtelé
 - Motif RAW imprimé sur le devant
 - Étiquette G-Star RAW Originals tissée en bas sur le côté
-- Col rond côtelé
+- Manches courtes avec empiècement droit
+- Ourlet droit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CN2F3KB/?tag=tolees0d-21)
