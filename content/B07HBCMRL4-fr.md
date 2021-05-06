@@ -28,10 +28,10 @@ Vous avez [Clarks](https://www.amazon.fr/dp/B07HBCMRL4/?tag=tolees0d-21)  à  49
 
 ℹ️:
 
-- Semelle: Eva
 - Fixation: Lacets
+- Hauteur Du Talon: 4.5cm
 - Hauts: Cuir
 - Doublure:textile
-- Hauteur Du Talon: 4.5cm
+- Semelle: Eva
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HBCMRL4/?tag=tolees0d-21)
