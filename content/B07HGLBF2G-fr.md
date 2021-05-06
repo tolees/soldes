@@ -28,11 +28,11 @@ Vous avez [OnePlus 6T Smartphone débloqué 4G  Ecran : 6 41 pouces 8 Go RAM 128
 
 ℹ️:
 
-- Écouteurs USB type C fournis
-- Batterie 3700 mAh et Charge Rapide : 60% de batterie en 30 min de charge
-- Fonction Screen Unlock – capteur d’empreinte digitale sous l’écran
-- Bluetooth 5.0, support aptX and aptX HD
-- Processeur Qualcomm Snapdragon 845 et GPU Adreno 630. Positionnement: GPS, GLONASS, BeiDou, Galileo
 - Appareil photo double capteur 16 + 20 MP
+- Processeur Qualcomm Snapdragon 845 et GPU Adreno 630. Positionnement: GPS, GLONASS, BeiDou, Galileo
+- Bluetooth 5.0, support aptX and aptX HD
+- Batterie 3700 mAh et Charge Rapide : 60% de batterie en 30 min de charge
+- Écouteurs USB type C fournis
+- Fonction Screen Unlock – capteur d’empreinte digitale sous l’écran
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HGLBF2G/?tag=tolees0d-21)
