@@ -28,9 +28,9 @@ Vous avez [Metz 005231194 Flash Mecablitz 52 AF-1 Digital pour CANON](https://ww
 
 ℹ️:
 
-- Nombre Guide : 52 à 100 ISO
-- Fixation Métal
 - Ecran Rotation Automatique
+- Fixation Métal
+- Nombre Guide : 52 à 100 ISO
 - Flash 52 AF-1 digital / Canon
 - Mise à Jour par USB
 
