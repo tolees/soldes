@@ -28,10 +28,10 @@ Vous avez [NUM AXES CANICOM Soft](https://www.amazon.fr/dp/B009MKV8BO/?tag=tolee
 
 ℹ️:
 
-- Plusieurs modes sont disponibles : avertissements par bips sonores; vibrations courtes ou longues
 - étanche à l’immersion
-- possède une LED haute luminosité pour localiser son chien
 - Portée : jusquà 200 m
+- Plusieurs modes sont disponibles : avertissements par bips sonores; vibrations courtes ou longues
+- possède une LED haute luminosité pour localiser son chien
 - autonomie : environ 7 mois en veille, 2 mois en usage intensif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009MKV8BO/?tag=tolees0d-21)
