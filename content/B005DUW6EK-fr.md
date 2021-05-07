@@ -29,8 +29,8 @@ Vous avez [INTEX-Aire de jeux jurassic](https://www.amazon.fr/dp/B005DUW6EK/?tag
 ℹ️:
 
 - Design fun et coloré
+- Capacité de 216 litres
 - Aire de jeux spécialement conçue pour les plus petits : 3 ans et plus
 - Jeux gonflables inclus pour des heures damusement en famille
-- Capacité de 216 litres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005DUW6EK/?tag=tolees0d-21)
