@@ -28,8 +28,8 @@ Vous avez [L Oréal Professionnel Mythic Oil Shampoing Aux Huiles - Cheveux Fins
 
 ℹ️:
 
-- Nutrition intense Douceur Brillance Protection
-- Répartir sur cheveux mouillés et émulsionner. Rincer. Répéter lapplication si nécessaire.
 - Shampooing aux huiles pour cheveux fins à normaux.
+- Répartir sur cheveux mouillés et émulsionner. Rincer. Répéter lapplication si nécessaire.
+- Nutrition intense Douceur Brillance Protection
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01FGV6YJS/?tag=tolees0d-21)

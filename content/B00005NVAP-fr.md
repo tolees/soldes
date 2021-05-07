@@ -28,10 +28,10 @@ C'est en vente [Barclay - Des visages des figures](https://www.amazon.fr/dp/B000
 
 ℹ️:
 
-- Year Of Release: 2001
+- Notes: Feat.Manu Chao
 - Country Of Release: NLD
 - Record Label: Barclay
-- Notes: Feat.Manu Chao
+- Year Of Release: 2001
 - Catalog#: 07314 5892752
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00005NVAP/?tag=tolees0d-21)
