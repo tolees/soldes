@@ -28,10 +28,10 @@ C'est en vente [BENNALD Short Homme Sport  Short de Sport Hommes Extensible Shor
 
 ℹ️:
 
-- Parfait pour le sport comme le gym, lexercice, la remise en forme, nimporte quel type de séance dentraînement, ou une utilisation quotidienne.
-- Séchage rapide – La matière du short de course permet dévacuer la transpiration et de réguler la température corporelle. Tissu QuickDry évacue la transpiration de la peau et vous garde sec et bien à laise.
 - Short pratique – Avec ses poches latérales, sa ceinture élastique dissimulée pour optimiser le confort, le pantalon court est très pratique.
-- Le logo de la marque réfléchissant vous garde en sécurité dans lobscurité - Taille élastique avec cordon.
 - Short sport ultra-léger - Le jogging short est fabriqué en mélange de coton léger, et offre grâce à sa coupe ample un confort sans pareil
+- Le logo de la marque réfléchissant vous garde en sécurité dans lobscurité - Taille élastique avec cordon.
+- Séchage rapide – La matière du short de course permet dévacuer la transpiration et de réguler la température corporelle. Tissu QuickDry évacue la transpiration de la peau et vous garde sec et bien à laise.
+- Parfait pour le sport comme le gym, lexercice, la remise en forme, nimporte quel type de séance dentraînement, ou une utilisation quotidienne.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B083HTM3PD/?tag=tolees0d-21)
