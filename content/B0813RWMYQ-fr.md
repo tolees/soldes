@@ -28,10 +28,10 @@ C'est en vente [LEGO 10932 Duplo La Boule de démolition Set de Construction ave
 
 ℹ️:
 
-- Ce jouet de chantier constructible avec ses véhicules et ouvriers aide les tout-petits de 2 ans et plus à développer leurs capacités émotionnelles et leur motricité fine.
-- Les enfants peuvent balancer la boule de démolition d’un côté à l’autre pour raser la petite maison, puis nettoyer le chantier avec le bulldozer et le camion.
+- Comprend une grue réglable, un camion à benne basculante, un bulldozer avec roues, une petite maison et une sélection de rochers.
 - Comprend des figurines d’ouvriers de construction homme et femme, une figurine d’oiseau, le « plan » de construction d’une maison, une pelle, une barrière routière et un cône.
 - Cet ensemble de jeu utilise de grosses briques conçues pour être facilement manipulées par les petites mains ; un ensemble de démarrage LEGO idéal pour les garçons et les filles d’âge préscolaire
-- Comprend une grue réglable, un camion à benne basculante, un bulldozer avec roues, une petite maison et une sélection de rochers.
+- Les enfants peuvent balancer la boule de démolition d’un côté à l’autre pour raser la petite maison, puis nettoyer le chantier avec le bulldozer et le camion.
+- Ce jouet de chantier constructible avec ses véhicules et ouvriers aide les tout-petits de 2 ans et plus à développer leurs capacités émotionnelles et leur motricité fine.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0813RWMYQ/?tag=tolees0d-21)
