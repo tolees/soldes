@@ -28,8 +28,8 @@ C'est en vente [Goliath - Modelco - VR goggles - VRSE - Jeu Vidéo - Réalité V
 
 ℹ️:
 
-- 2 modes
 - PAS BESOIN de console!
 - Arcade et histoire
+- 2 modes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W5PN1MG/?tag=tolees0d-21)
