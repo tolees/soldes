@@ -28,8 +28,8 @@ Vous avez [MyKronoz - ZESPORT - Montre Connectée - Noir](https://www.amazon.fr/
 
 ℹ️:
 
-- MyKronoz
-- Noir
 - Zesport
+- Noir
+- MyKronoz
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01M4N16YM/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [El Naturalista Stella  Sandales Bout fermé Femme  Noir  BLACK BLACK 
 
 ℹ️:
 
-- Matériau de semelle : Gomme / Synthétique
 - Fermeture : Boucle
 - Doublure : Fourrure
 - Semelle intérieure : Fourrure
+- Matériau de semelle : Gomme / Synthétique
 - Dessus : Cuir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W2Z9NB6/?tag=tolees0d-21)
