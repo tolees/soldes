@@ -28,10 +28,10 @@ Vous avez [Bed Head by Tigi Dumb Blonde Shampooing et après-shampooing pour che
 
 ℹ️:
 
-- Le pack shampooing Bed Head by Tigi Dumb Blonde et après-shampooing Bed Head by Tigi Reconstructor contient un shampooing de 750 ml et un après-shampooing de 750 ml.
 - Le shampooing pour cheveux blonds nettoie en profondeur, élimine les saletés et les impuretés, répare les dommages extérieurs et réduit les frisottis
 - Ces deux produits pour cheveux blonds sont sans danger pour la couleur et augmentent la vivacité de vos cheveux blonds
 - Shampooing et après-shampooing professionnel pour cheveux blonds
+- Le pack shampooing Bed Head by Tigi Dumb Blonde et après-shampooing Bed Head by Tigi Reconstructor contient un shampooing de 750 ml et un après-shampooing de 750 ml.
 - L’après-shampooing pour cheveux blonds protège, hydrate et revitalise les cheveux blonds
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AC3TC0S/?tag=tolees0d-21)
