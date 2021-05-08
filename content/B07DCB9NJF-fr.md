@@ -28,8 +28,8 @@ C'est en vente [Namco - Divinity: Original Sin II- Definitive Edition  PS4 ](htt
 
 ℹ️:
 
-- Choisissez votre race et votre origine
-- La prochaine génération de combat au tour par tour
 - Liberté illimitée dexplorer et dexpérimenter
+- La prochaine génération de combat au tour par tour
+- Choisissez votre race et votre origine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DCB9NJF/?tag=tolees0d-21)

@@ -29,7 +29,7 @@ Vous avez [Logitech C505 Webcam HD - Webcam USB HD 720p pour Ordinateur de Burea
 ℹ️:
 
 - Cette webcam possède un microphone omnidirectionnel avec une technologie de réduction du bruit, permettant des conversations claires à 3 mètres de distance, même dans un environnement bruyant
-- La webcam C505 offre une gamme de possibilités de fixation universelles grâce à son câble USB-A extra long (2m) et à son clip universel, positionnable sur un ordinateur portable ou de bureau
 - La C505 offre une résolution HD 720p/30 fps en grand angle, un champ de vision diagonal de 60º, une mise au point fixe avec correction automatique de la lumière pour sadapter à votre éclairage
+- La webcam C505 offre une gamme de possibilités de fixation universelles grâce à son câble USB-A extra long (2m) et à son clip universel, positionnable sur un ordinateur portable ou de bureau
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W7KB8L6/?tag=tolees0d-21)
