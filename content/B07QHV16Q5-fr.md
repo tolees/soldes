@@ -29,10 +29,10 @@ C'est en vente [ASUS ROG XG32VQR - Ecran PC gaming eSport 31 5" WQHD - Dalle VA 
 ℹ️:
 
 - Angle de vision vertical: 178° concentrateur USB intégré
-- Format dimage: 16: 9
-- Résolution de lécran: 2560 x 1440 pixels
-- Technologie daffichage: LED
 - Asus ROG STRIX XG32VQR Taille de lécran: 80 cm (315")
+- Format dimage: 16: 9
+- Technologie daffichage: LED
+- Résolution de lécran: 2560 x 1440 pixels
 - Temps de réponse: 4 ms
 - Angle de vision horizontal: 178°
 

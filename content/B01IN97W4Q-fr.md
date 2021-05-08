@@ -28,10 +28,10 @@ Vous avez [Neutrogena Hydro Boost Aqua-Gel Nettoyant Visage  Soin Visage Démaqu
 
 ℹ️:
 
+- Livraison : 2 x flacons à pompe de 200ml Neutrogena - gel nettoyant visage hydro boost / Pour une peau nettoyée et hydratée / Pour peau sèche
+- La formule renfermant la technologie nettoyante Neutrogena BarrierCare, un agent hydratant et de l’acide hyaluronique, permet de booster le niveau d’hydratation tout en aidant à protéger la barrière cutanée.
 - Conseils dutilisation : Faire mousser dans les mains avec de l’eau et appliquer sur visage humide. Masser délicatement, puis rincer abondamment.
 - Nettoyée la peau est fraîche, nette et souple au toucher. Non comédogène. Adapté aux peaux sensibles.
-- La formule renfermant la technologie nettoyante Neutrogena BarrierCare, un agent hydratant et de l’acide hyaluronique, permet de booster le niveau d’hydratation tout en aidant à protéger la barrière cutanée.
 - Ce gel innovant et léger s’active au contact de l’eau, pour déloger impuretés, traces de maquillage et excès de sébum en ne laissant aucun résidu. Il ne se contente pas seulement de nettoyer, il désaltère aussi la peau et booste son hydratation.
-- Livraison : 2 x flacons à pompe de 200ml Neutrogena - gel nettoyant visage hydro boost / Pour une peau nettoyée et hydratée / Pour peau sèche
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01IN97W4Q/?tag=tolees0d-21)
