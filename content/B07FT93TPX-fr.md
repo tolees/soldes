@@ -28,9 +28,9 @@ C'est en vente [Fujifilm 16591570 Objectif XF 8-16mm F2.8 R LM WR 121° - 83.2°
 
 ℹ️:
 
-- Equivalent 12 - 24 mm en 24x36
 - Traitement tout temps; angle de champ 121° - 83.2°
-- Bouchon avant dobjectif; pochon de transport; bouchon arrière dobjectif
+- Equivalent 12 - 24 mm en 24x36
 - Fujifilm XF 8-16 mm R LM WR
+- Bouchon avant dobjectif; pochon de transport; bouchon arrière dobjectif
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FT93TPX/?tag=tolees0d-21)
