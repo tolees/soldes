@@ -28,9 +28,9 @@ Vous avez [Bergner Black & White - Bloc à couteau](https://www.amazon.fr/dp/B00
 
 ℹ️:
 
-- Blocs couteaux
-- Matériel:
 - Dimensions: 15.6X6.6X22 CM
+- Matériel:
 - Blanc
+- Blocs couteaux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OPW5L30/?tag=tolees0d-21)
