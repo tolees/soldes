@@ -28,10 +28,10 @@ C'est en vente [TRIXIE Rampe Téléscopique Petwalk pour Chien 40 cm x 170 cm No
 
 ℹ️:
 
+- Marches antidérapantes même dans des conditions humides
+- Revêtement en caoutchouc protège le pare-chocs
+- Poids 6.2 kg
 - Longueur ajustable
 - Matériel: aluminium / plastique / TPR
-- Poids 6.2 kg
-- Revêtement en caoutchouc protège le pare-chocs
-- Marches antidérapantes même dans des conditions humides
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VB4Y7YL/?tag=tolees0d-21)
