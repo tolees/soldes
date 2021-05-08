@@ -28,15 +28,15 @@ Vous avez [Laurastar - Table à Repasser Comfortboard Glasses   38cm x 120cm  10
 
 ℹ️:
 
-- Hauteur réglable jusqu’à environ 95 cm
-- Dimensions du plateau de la table : environ 120 x 38 cm
-- Dimensions de la table fermée : environ 45 x 158 cm
-- grand plateau ergonomique
-- système de fermeture sécurisé
 - Garantie : 2 an(s)
-- Couleur : Noir
 - repose-fer qui s‘adapte à la plupart des centrales vapeur et idéal pour Laurastar Lift
 - Dimension du repose-fer : environ 25 cm x 39 cm
+- Dimensions du plateau de la table : environ 120 x 38 cm
 - housse Universalcover Glasses au design trendy-chic.
+- système de fermeture sécurisé
+- Hauteur réglable jusqu’à environ 95 cm
+- Dimensions de la table fermée : environ 45 x 158 cm
+- grand plateau ergonomique
+- Couleur : Noir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01DPS4ZNQ/?tag=tolees0d-21)
