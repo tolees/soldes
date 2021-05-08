@@ -28,11 +28,11 @@ Vous avez [Zoom Tamron - 17-28 mm F2.8 Di III RXD - Monture Sony FE](https://www
 
 ℹ️:
 
-- Compatible avec les fonctions spécifiques de lappareil photo Sony y compris Fast Hybrid AF et Eye AF
 - Des performances optiques optimales et une mise au point minimale de 0,85 m pour plus de polyvalence
-- Scellage spécial et revêtement fluorescent qui protège lobjectif pour profiter de la photographie en toutes conditions.
-- EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
+- Compatible avec les fonctions spécifiques de lappareil photo Sony y compris Fast Hybrid AF et Eye AF
 - Compact (149 mm), confortable et léger (815 g).
+- EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
+- Scellage spécial et revêtement fluorescent qui protège lobjectif pour profiter de la photographie en toutes conditions.
 - Moteur de mise au point VXD de dernière génération avec mécanisme linéaire extrêmement rapide et silencieux.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TV6NJC8/?tag=tolees0d-21)

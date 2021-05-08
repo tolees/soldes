@@ -28,9 +28,9 @@ C'est en vente [DJI Osmo Mobile 3 + Tripod](https://www.amazon.fr/dp/B08FBHBP9X/
 
 ℹ️:
 
-- Poignée ergonomique : grâce à son design intelligent, lOsmo Mobile 3 est confortable et peut être tenu pendant delongues heures. Sa poignée sadapte parfaitement à la paume demain
-- ACCESSOIRE POUR PRISE DE PHOTOS: Ce trépied vous permet de poser votre Osmo Mobile 3 sur une surface plane pour prendre des photos à la distance de votre choix
-- STABILISER VOTRE OSMO MOBILE 3: Le trépied Grip Tripod de DJI permet de poser votre Osmo Mobile 3 des surfaces planes (comme une table par exemple) sans quil ne bascule
 - Excellente fluidité et stabilité impressionnante : avec une nacelle à 3 axes qui élimine les effets dus aux tremblements, lOsmo Mobile 3 offre des images incroyablement fluides et stables
+- Poignée ergonomique : grâce à son design intelligent, lOsmo Mobile 3 est confortable et peut être tenu pendant delongues heures. Sa poignée sadapte parfaitement à la paume demain
+- STABILISER VOTRE OSMO MOBILE 3: Le trépied Grip Tripod de DJI permet de poser votre Osmo Mobile 3 des surfaces planes (comme une table par exemple) sans quil ne bascule
+- ACCESSOIRE POUR PRISE DE PHOTOS: Ce trépied vous permet de poser votre Osmo Mobile 3 sur une surface plane pour prendre des photos à la distance de votre choix
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FBHBP9X/?tag=tolees0d-21)
