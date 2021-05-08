@@ -28,10 +28,10 @@ Vous avez [Bandai - Figurine - One Piece Zero - Tony Chopper Film Gold 7 cm](htt
 
 ℹ️:
 
-- Licensed One Piece figurine
-- From the Tamashii Nations FiguartsZERO series
 - Shipped in a design display box
 - Tony Chopper statue from the One Piece anime film: Gold
+- Licensed One Piece figurine
+- From the Tamashii Nations FiguartsZERO series
 - 7 cm high
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01EPJ2EF0/?tag=tolees0d-21)
