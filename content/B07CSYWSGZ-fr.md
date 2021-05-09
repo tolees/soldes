@@ -28,10 +28,10 @@ C'est en vente [Wolfcraft 6952000 Copieur parallèle pour sols stratifiés](http
 
 ℹ️:
 
-- Différentes dimensions réglables sur le guide
 - Permet de reporter vite et avec précision le tracé du mur et dadapter ainsi avec précision la dernière lame à ce tracé
-- Crayon en bois éco-certifié
 - Réglable sur largeur de planches jusquà 235 mm
 - Fabrication européenne
+- Différentes dimensions réglables sur le guide
+- Crayon en bois éco-certifié
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CSYWSGZ/?tag=tolees0d-21)
