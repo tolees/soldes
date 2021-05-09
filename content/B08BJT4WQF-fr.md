@@ -28,10 +28,10 @@ Vous avez [Kingsong KS-18L 1036 Wh Gyroroue électrique Adulte Unisexe  Noir  18
 
 ℹ️:
 
-- Batterie 1036Wh
-- Autonomie 80 km
 - Moteur 2200W
 - Roue 18"
 - Vitesse maxi 45 km/h
+- Batterie 1036Wh
+- Autonomie 80 km
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BJT4WQF/?tag=tolees0d-21)

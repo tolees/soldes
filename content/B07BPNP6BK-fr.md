@@ -28,11 +28,11 @@ Vous avez [Philips - GC9614/20 Centrale Vapeur PerfectCare Elite sans réglage](
 
 ℹ️:
 
-- Ultra puissante, débit vapeur de 150 g/min, 500g deffet pressing, 7, 5 bar de pression
 - Tension: 220 - 240 volt
-- Système anticalcaire easy-de-calc avec indicateur lumineux
+- Ultra puissante, débit vapeur de 150 g/min, 500g deffet pressing, 7, 5 bar de pression
 - Technologie sans réglage de température Optimal Température: Garantie 0 brûlure sur tous les tissus
 - Fer ultraléger (moins dun kilo) pour plus de confort et semelle T-ionicGlide
+- Système anticalcaire easy-de-calc avec indicateur lumineux
 - Réservoir deau amovible d1,8L pour un remplissage facile
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BPNP6BK/?tag=tolees0d-21)
