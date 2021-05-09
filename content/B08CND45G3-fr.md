@@ -28,10 +28,10 @@ C'est en vente [OtterBox Cable Performance Plus tressé et renforcé charge rapi
 
 ℹ️:
 
-- Avec une puissance de 60W, la charge via Power Delivery est 4 x plus rapide que la standard câble de 15W
 - Torsion et flexibilité du câble testées 10,000 fois
 - Compatible avec la technologie de chargement rapide
-- Dispositif de soulagement de la tension
 - Nylon tressé
+- Avec une puissance de 60W, la charge via Power Delivery est 4 x plus rapide que la standard câble de 15W
+- Dispositif de soulagement de la tension
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CND45G3/?tag=tolees0d-21)

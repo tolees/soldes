@@ -28,9 +28,9 @@ Vous avez [Giotto Be-Bè Super marqueurs Est. 12 unités.](https://www.amazon.fr
 
 ℹ️:
 
-- Couleurs super sûres et testées dermatologiquement.
 - Avec capuchon de sécurité ventilé doté dun système anti-étouffement et pointe verrouillée super résistante de 5 mm
 - Idéal pour les tout-petits avec pointe en fibre, encre lavable à la main et sur les tissus.
+- Couleurs super sûres et testées dermatologiquement.
 - Giotto Be-Bè Super Marqueurs Étui 12 unités
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07BR842JJ/?tag=tolees0d-21)
