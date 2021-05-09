@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fujifilm 16591570 Objectif XF 8-16mm F2. avec 30.52 % rabais '
-date: 2021-05-08 05:04:17
+date: 2021-05-09 16:03:05
 image: 'https://m.media-amazon.com/images/I/41aj7auTilL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [Fujifilm 16591570 Objectif XF 8-16mm F2.8 R LM WR 121° - 83.2°
 
 ℹ️:
 
-- Traitement tout temps; angle de champ 121° - 83.2°
-- Equivalent 12 - 24 mm en 24x36
-- Fujifilm XF 8-16 mm R LM WR
 - Bouchon avant dobjectif; pochon de transport; bouchon arrière dobjectif
+- Fujifilm XF 8-16 mm R LM WR
+- Equivalent 12 - 24 mm en 24x36
+- Traitement tout temps; angle de champ 121° - 83.2°
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FT93TPX/?tag=tolees0d-21)

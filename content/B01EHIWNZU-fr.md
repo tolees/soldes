@@ -28,9 +28,9 @@ C'est en vente [Corsair K65 RAPIDFIRE Clavier Mécanique Gaming  Cherry MX Speed
 
 ℹ️:
 
-- Des vagues et des ondes:personnalisez la palette de couleurs, le sens, la durée et la rapidité daffichage et lancez la vague sur lensemble du clavier ou sur les seules touches de votre choix.
 - Éclairage statique:Changez nimporte quelle touche du clavier pour obtenir la couleur et la luminosité de votre choix. Vous pouvez créer, enregistrer et charger des motifs personnalisés pour vos jeux préférés.
 - Saisie réactive: configurez une saisie réactive à touche unique ou créez un effet donde à touches multiples.
 - Cycle polychrome: faites défiler les différentes couleurs qui vous inspirent et faites briller vos envies grâce aux vitesses daffichage et aux motifs disponibles.
+- Des vagues et des ondes:personnalisez la palette de couleurs, le sens, la durée et la rapidité daffichage et lancez la vague sur lensemble du clavier ou sur les seules touches de votre choix.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01EHIWNZU/?tag=tolees0d-21)
