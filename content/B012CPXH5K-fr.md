@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Power Rangers-Mighty Morphin vol 1 avec 28.19 % rabais '
-date: 2021-05-05 10:27:32
+date: 2021-05-09 18:27:26
 image: 'https://m.media-amazon.com/images/I/510dyCyyXAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: ''
 buyurl: 'https://www.amazon.fr/dp/B012CPXH5K/?tag=tolees0d-21'
 descuento: '28.19'
-average: '33.5766666666667'
+average: '32.718'
 ---
 
 C'est en vente [Power Rangers-Mighty Morphin vol 1](https://www.amazon.fr/dp/B012CPXH5K/?tag=tolees0d-21)  à  28.19 % de réduction, prix final  24.99 EUR (original: 34.8 EUR) ici:
