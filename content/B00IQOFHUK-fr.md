@@ -28,8 +28,8 @@ Vous avez [HCM - 59143 - Crystal Puzzle - Panda - 42 Pièces](https://www.amazon
 
 ℹ️:
 
-- Âge: 14+
 - Ce nest plus seulement visuel, il faut également faire tourner les pièces pour les mettre dans le bon sens
+- Âge: 14+
 - Pour changer des puzzles classiques plats, les puzzles 3D font réfléchir autrement, en 3 dimensions
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IQOFHUK/?tag=tolees0d-21)
