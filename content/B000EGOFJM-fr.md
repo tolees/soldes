@@ -28,7 +28,7 @@ Vous avez [Palmer s Formule au Beurre de Karité Lait Nutritif pour le Corps 250
 
 ℹ️:
 
-- Ce lait de soin au pur beurre de karité et vitamine E adoucit, nourrit, répare et parfume la peau. Idéal après une exposition au soleil, il protège la peau des UVA. Son parfum délicat aux arômes du soleil apporte confort et bienêtre immédiat.
 - Appliquer quotidiennement
+- Ce lait de soin au pur beurre de karité et vitamine E adoucit, nourrit, répare et parfume la peau. Idéal après une exposition au soleil, il protège la peau des UVA. Son parfum délicat aux arômes du soleil apporte confort et bienêtre immédiat.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000EGOFJM/?tag=tolees0d-21)

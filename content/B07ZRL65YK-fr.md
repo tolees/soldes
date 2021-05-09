@@ -28,8 +28,8 @@ C'est en vente [Pochette à Rabat/Protection d Ecran pour Nintendo Switch Lite](
 
 ℹ️:
 
-- Protégez votre console des éventuels chocs !
 - Rabat rigide à lavant permettant de protéger lécran !
 - Non encombrant, se range facilement dans un sac !
+- Protégez votre console des éventuels chocs !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZRL65YK/?tag=tolees0d-21)
