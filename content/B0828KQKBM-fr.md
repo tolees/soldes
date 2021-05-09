@@ -28,12 +28,12 @@ Vous avez [NOCO GENIUS5EU  Chargeur Intelligent Automatique de 5A  Chargeur de B
 
 ℹ️:
 
-- Chargez les piles totalement déchargées - Permet de charger les piles totalement déchargées à 1 Volt. Ou utilisez le tout nouveau mode force qui vous permet de prendre le contrôle et de commencer manuellement à charger des piles vides jusquà zéro volt.
-- Restaurez votre batterie - Détecte la sulfatation et la stratification acide et restaure les performances perdues pour des démarrages plus puissants et une durée de vie prolongée de la batterie.
-- Découvrez le GENIUS5EU - semblable à notre G3500EU, mais en mieux. Il est 34% plus petit et fournit plus de 65% de puissance en plus. Et cest plus simple et plus facile à utiliser que jamais.
-- Compatible avec tous les types de véhicules - Rechargez et entretenez les voitures, motos, scooters, tondeuses à gazon, VTT, tracteurs, camping-cars, camions, SUV, bateaux, voitures classiques, y compris BMW, Mercedes Benz, Porsche, Audi, VW, Ford, KTM, Harley Davidson, Ducati, Honda, Yamaha, Husqvarna, Vespa et plus.
-- Allez plus loin avec Genius - Chargeur intelligent pour les batteries auto, moto, marines et à décharge profonde de 6 et 12 volts au plomb-acide, y compris les batteries gel, AGM et sans entretien, ainsi que les batteries lithium-ion.
-- Simple à configurer et à utiliser - Branchez, Connectez à la batterie, Sélectionnez un mode de charge et commencez à charger votre batterie. Un chargeur de batterie entièrement automatique et sans souci pour une utilisation toute lannée.
 - Bénéficiez dune charge de précision - Un capteur thermique intégré détecte la température ambiante et modifie la charge pour éliminer la surcharge en climat chaud et la sous-charge en climat froid.
+- Restaurez votre batterie - Détecte la sulfatation et la stratification acide et restaure les performances perdues pour des démarrages plus puissants et une durée de vie prolongée de la batterie.
+- Simple à configurer et à utiliser - Branchez, Connectez à la batterie, Sélectionnez un mode de charge et commencez à charger votre batterie. Un chargeur de batterie entièrement automatique et sans souci pour une utilisation toute lannée.
+- Découvrez le GENIUS5EU - semblable à notre G3500EU, mais en mieux. Il est 34% plus petit et fournit plus de 65% de puissance en plus. Et cest plus simple et plus facile à utiliser que jamais.
+- Allez plus loin avec Genius - Chargeur intelligent pour les batteries auto, moto, marines et à décharge profonde de 6 et 12 volts au plomb-acide, y compris les batteries gel, AGM et sans entretien, ainsi que les batteries lithium-ion.
+- Chargez les piles totalement déchargées - Permet de charger les piles totalement déchargées à 1 Volt. Ou utilisez le tout nouveau mode force qui vous permet de prendre le contrôle et de commencer manuellement à charger des piles vides jusquà zéro volt.
+- Compatible avec tous les types de véhicules - Rechargez et entretenez les voitures, motos, scooters, tondeuses à gazon, VTT, tracteurs, camping-cars, camions, SUV, bateaux, voitures classiques, y compris BMW, Mercedes Benz, Porsche, Audi, VW, Ford, KTM, Harley Davidson, Ducati, Honda, Yamaha, Husqvarna, Vespa et plus.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0828KQKBM/?tag=tolees0d-21)
