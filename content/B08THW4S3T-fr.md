@@ -28,10 +28,10 @@ C'est en vente [Samsung 980 500 Go M.2 NVMe Internal Solid State Drive  SSD  - M
 
 ℹ️:
 
-- Construit pour durer
-- Dynamic Thermal Guard
 - Technologie NVMe PCIe 3.0
+- Construit pour durer
 - Jusquà 6x plus rapique dun SSD SATA
+- Dynamic Thermal Guard
 - Format compact M.2
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08THW4S3T/?tag=tolees0d-21)
