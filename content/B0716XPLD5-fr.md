@@ -28,11 +28,11 @@ C'est en vente [Valera Power Extreme 2400|Sèche-cheveux professionnel suisse|R�
 
 ℹ️:
 
-- Moteur AC-PRO LONG LIFE: 2000 h dautonomie (+ de 10 ans dutilisation!)
-- Système Rotocord exclusif Valera: fini les nœuds dans le cordon (raison n°1 de casse dun sèche cheveux)$
-- Garantie 2 ans
 - Puissance de 2400 W
+- Système Rotocord exclusif Valera: fini les nœuds dans le cordon (raison n°1 de casse dun sèche cheveux)$
 - Câble dalimentation de 3m
+- Garantie 2 ans
+- Moteur AC-PRO LONG LIFE: 2000 h dautonomie (+ de 10 ans dutilisation!)
 - Fabriqué en Suisse avec des professionnels de la coiffure
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0716XPLD5/?tag=tolees0d-21)

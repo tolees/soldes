@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'PNY XLR8 CS3030 M.2 NVMe SSD Interne 1TB avec 34.76 % rabais '
-date: 2021-05-07 14:03:23
+date: 2021-05-10 19:04:04
 image: 'https://m.media-amazon.com/images/I/41bZZgn-3iL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'PNY'
 buyurl: 'https://www.amazon.fr/dp/B07MW9NJSH/?tag=tolees0d-21'
 descuento: '34.76'
-average: '122.601052631578'
+average: '122.200769230768'
 ---
 
 C'est en vente [PNY XLR8 CS3030 M.2 NVMe SSD Interne 1TB - Jusqu à 3500 Mo/s](https://www.amazon.fr/dp/B07MW9NJSH/?tag=tolees0d-21)  à  34.76 % de réduction, prix final  106.99 EUR (original: 164.0 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [PNY XLR8 CS3030 M.2 NVMe SSD Interne 1TB - Jusqu à 3500 Mo/s](h
 
 ℹ️:
 
-- Consommation électrique plus faible, fonctionnement froid et discret
 - Démarrage et lancement des applications plus rapides
-- Meilleures performances système générales
 - Lecture séquentielle jusqu’à 3500 Mo/s et écriture séquentielle jusqu’à 3000 Mo/s
 - Stockage fiable
+- Consommation électrique plus faible, fonctionnement froid et discret
+- Meilleures performances système générales
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MW9NJSH/?tag=tolees0d-21)

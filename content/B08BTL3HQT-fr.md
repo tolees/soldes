@@ -28,9 +28,9 @@ C'est en vente [Corsair MM150 Ultrafin Medium Tapis de Souris Gaming  Ultrafin 0
 
 ℹ️:
 
-- Bonne endurance : Grâce à sa base en silicone antidérapante, le tapis de souris reste bien en place même lors des sessions de gaming les plus intenses.
 - Format ultrafin de 0,5 mm : La surface de 350 mm x 260 mm vous offre une expérience de gaming incroyable et permet à votre souris d’être pratiquement au niveau de votre bureau.
-- Surface en polycarbonate résistante à l’usure : Offre la durabilité nécessaire pour résister à des sessions de jeu quotidiennes.
 - Belle apparence : Les motifs de la surface résistants à l’usure préservent l’esthétisme de votre configuration et s’harmonisent avec votre style de jeu.
+- Bonne endurance : Grâce à sa base en silicone antidérapante, le tapis de souris reste bien en place même lors des sessions de gaming les plus intenses.
+- Surface en polycarbonate résistante à l’usure : Offre la durabilité nécessaire pour résister à des sessions de jeu quotidiennes.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BTL3HQT/?tag=tolees0d-21)
