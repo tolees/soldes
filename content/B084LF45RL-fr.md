@@ -28,11 +28,11 @@ C'est en vente [Samsung Galaxy S20 4G Smartphone Portable débloqué  128 Go - 8
 
 ℹ️:
 
-- Samsung Galaxy S20 4G 128GB 8GB RAM DS Cosmic Gray EU
-- Résolution décran: 1440 x 3200 pixels
-- OS: Android 10
 - Batterie: 4000 mAh
-- Appareil photo: Triple, 12MP + 64MP + 12MP
+- Résolution décran: 1440 x 3200 pixels
 - Processeur: Snapdragon 865 2,84 GHz / Exynos 990 2,73 GHz
+- OS: Android 10
+- Samsung Galaxy S20 4G 128GB 8GB RAM DS Cosmic Gray EU
+- Appareil photo: Triple, 12MP + 64MP + 12MP
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B084LF45RL/?tag=tolees0d-21)

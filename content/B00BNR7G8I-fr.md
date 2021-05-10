@@ -28,10 +28,10 @@ Vous avez [Diadermine - Lift+ Lissage Immédiat - Crème de Jour Anti-Rides Ultr
 
 ℹ️:
 
+- Avec l’âge, la production naturelle de collagène ralentit et la structure de la peau se dégrade. La peau perd de sa souplesse et s’affaisse. Des rides peuvent apparaître. Notre technologie LIFT+ stimule la production naturelle de fibres de Collagène et les reconnecte pour reconstruire un maillage de Collagène dense
 - 90% dingrédients dorigine naturelle
+- Complexe Pro-Collagène Végétal
 - Votre peau paraît plus ferme et lisée, effet retenseur immédiat
 - Cette crème légère et rafraîchissante pénètre instantanément votre peau, vous laissant une sensation de confort
-- Avec l’âge, la production naturelle de collagène ralentit et la structure de la peau se dégrade. La peau perd de sa souplesse et s’affaisse. Des rides peuvent apparaître. Notre technologie LIFT+ stimule la production naturelle de fibres de Collagène et les reconnecte pour reconstruire un maillage de Collagène dense
-- Complexe Pro-Collagène Végétal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BNR7G8I/?tag=tolees0d-21)

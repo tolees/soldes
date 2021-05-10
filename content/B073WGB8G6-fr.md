@@ -28,12 +28,12 @@ Vous avez [SteelSeries Sensei 310 - souris optique de jeu - ambidextre / éclair
 
 ℹ️:
 
-- Sauvegardez vos paramètres de performance et déclairage directement dans la Sensei 310
+- Accélération: 50G
+- La conception ambidextre légendaire de SteelSeries Sensei facilite la prise en main, quel que soit votre style
+- TrueMove3 12 000 CPI personnalisé, capteur optique 350 IPS conçu pour le sport électronique
+- Éclairage Prism RVB double-zone et multicolore personnalisable
 - Les boutons gauche/droite exclusifs en gâchette scindée vous garantissent une durée de vie de 50 millions de clics
 - Logiciel: SteelSeries Engine 3.10.12+, pour Windows (7 ou plus récent) et Mac OSX (10.8 ou plus récent)
-- Accélération: 50G
-- Éclairage Prism RVB double-zone et multicolore personnalisable
-- TrueMove3 12 000 CPI personnalisé, capteur optique 350 IPS conçu pour le sport électronique
-- La conception ambidextre légendaire de SteelSeries Sensei facilite la prise en main, quel que soit votre style
+- Sauvegardez vos paramètres de performance et déclairage directement dans la Sensei 310
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073WGB8G6/?tag=tolees0d-21)
