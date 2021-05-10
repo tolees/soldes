@@ -28,8 +28,8 @@ Vous avez [Samsung - Montre Galaxy Watch Active 2 Bluetooth - Aluminium 40 mm - 
 
 ℹ️:
 
-- Certification IP68
 - Lunette rotative numérique
+- Certification IP68
 - Fonctions bien-être & sport avancées
 - Fine 10,9 mm
 - Grand écran aux bords fins
