@@ -29,10 +29,10 @@ C'est en vente [HP 302 Pack de 2 Cartouches d Encre Noire/Trois Couleurs Authent
 ℹ️:
 
 - Chaque cartouche dencre HP dorigine est neuve, pour une qualité dimpression supérieure, homogène sur toutes les pages
-- Rendement : Environ 165 pages (Norme ISO/CEI 24711)
-- Rendement : Environ 190 pages (Norme ISO/CEI 24711)
-- Couleur : Cyan, Magenta, Jaune
 - Chaque cartouche dencre HP dorigine est neuve, pour une qualité dimpression supérieure, homogène sur toutes les pages; Technologies de résolution dimpression: TIJ 2.X Gen III
+- Couleur : Cyan, Magenta, Jaune
+- Rendement : Environ 190 pages (Norme ISO/CEI 24711)
+- Rendement : Environ 165 pages (Norme ISO/CEI 24711)
 - Couleur : Noir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B019EIFWLK/?tag=tolees0d-21)
