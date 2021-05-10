@@ -28,10 +28,10 @@ C'est en vente [DE BUYER -8363.28 -poele ronde choc extreme ø28 avec emb](https
 
 ℹ️:
 
-- Diamètre : 28 cm
-- Ustensile multifonction
-- Entretien : passe au lave-vaisselle, sinon lavage à la main avec une éponge non-abrasive
-- Compatible avec le four
 - Tous feux dont induction
+- Ustensile multifonction
+- Diamètre : 28 cm
+- Compatible avec le four
+- Entretien : passe au lave-vaisselle, sinon lavage à la main avec une éponge non-abrasive
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00I0QMR1G/?tag=tolees0d-21)

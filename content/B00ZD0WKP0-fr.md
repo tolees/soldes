@@ -28,7 +28,7 @@ Vous avez [Tefal ZR902501 Filtre HEPA](https://www.amazon.fr/dp/B00ZD0WKP0/?tag=
 
 ℹ️:
 
-- Poids du produit :0.15 kilogrammes
 - Pays dorigine: Chine
+- Poids du produit :0.15 kilogrammes
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00ZD0WKP0/?tag=tolees0d-21)

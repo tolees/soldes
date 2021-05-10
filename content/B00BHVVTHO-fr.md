@@ -28,9 +28,9 @@ Vous avez [Somfy 2401093 - Prise Télécommandée on/Off Extérieure RTS Noire](
 
 ℹ️:
 
+- Portée radio champ libre 30m qui assurera une portée radio suffisante en extérieur
 - Compatible avec la box domotique TaHoma pour une utilisation à distance depuis votre smartphone, l’intégration dans une programmation horaire ou encore dans vos scénarios TaHoma
 - Installation "plug and play"
-- Portée radio champ libre 30m qui assurera une portée radio suffisante en extérieur
 - Branchez votre éclairage extérieur ou un petit appareil électrique dans la prise pour l’allumer ou l’éteindre avec une télécommande Somfy RTS (non incluse)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BHVVTHO/?tag=tolees0d-21)

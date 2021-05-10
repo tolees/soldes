@@ -28,10 +28,10 @@ Vous avez [Luckies of London Carte à gratter de voyage – Affiche de carte du 
 
 ℹ️:
 
-- Dimensions de la carte 41 x 29,7 cm. Dimensions du tube 32,3 x 5,3 cm.
-- Carte adaptée aux voyages, simple à transporter, fournie avec un tube de protection robuste, une excellente idée de cadeau.
 - Une carte à gratter originale par Luckies of London, la société qui a inventé le concept des cartes à gratter en 2009
-- Fabriquée au Royaume-Uni conformément aux plus hautes normes à l’aide de matériaux haut de gamme, d’un carton épais et d’une pellicule facile à gratter.
+- Carte adaptée aux voyages, simple à transporter, fournie avec un tube de protection robuste, une excellente idée de cadeau.
 - Après le succès énorme de la carte à gratter originale, l’édition compacte de voyage a été conçue.
+- Dimensions de la carte 41 x 29,7 cm. Dimensions du tube 32,3 x 5,3 cm.
+- Fabriquée au Royaume-Uni conformément aux plus hautes normes à l’aide de matériaux haut de gamme, d’un carton épais et d’une pellicule facile à gratter.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005J4OTM2/?tag=tolees0d-21)
