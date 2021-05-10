@@ -28,10 +28,10 @@ C'est en vente [Diadermine - Lift+ Elastine - Crème de Jour Anti-Rides Ultra Te
 
 ℹ️:
 
+- Avec l’âge, la production naturelle de collagène ralentit et la structure de la peau se dégrade. La peau perd de sa souplesse et s’affaisse. Des rides peuvent apparaître. Notre technologie LIFT+ stimule la production naturelle de fibres de Collagène et les reconnecte pour reconstruire un maillage de Collagène dense
 - Cette crème légère et rafraîchissante pénètre instantanément votre peau, la laissant souple et douce
 - Complexe Pro-Collagène Végétal
 - 89% dingrédients dorigine naturelle
-- Avec l’âge, la production naturelle de collagène ralentit et la structure de la peau se dégrade. La peau perd de sa souplesse et s’affaisse. Des rides peuvent apparaître. Notre technologie LIFT+ stimule la production naturelle de fibres de Collagène et les reconnecte pour reconstruire un maillage de Collagène dense
 - Votre peau paraît plus ferme et lissée, les contours du visage sont redessinés, votre peau retrouve son élasticité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B004HB7HLS/?tag=tolees0d-21)
