@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Erato - Aldo Ciccolini : Enregistrements avec 35.38 % rabais '
-date: 2021-05-05 06:27:53
+date: 2021-05-10 08:11:33
 image: 'https://m.media-amazon.com/images/I/41KlIpRaEaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Erato - Aldo Ciccolini : Enregistrements EMI 1950-1991  Coffret 
 
 ℹ️:
 
-- Record Label: Emi Classics
 - Notes: .. 1950-1991//Limited Edition
-- Year Of Release: 2009
+- Record Label: Emi Classics
 - Country Of Release: NLD
+- Year Of Release: 2009
 - Catalog#: 6858242
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B002SV3KOM/?tag=tolees0d-21)
