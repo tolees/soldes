@@ -28,10 +28,10 @@ Vous avez [INTEX Épurateur à Cartouche Blanc  2.7m3/h](https://www.amazon.fr/d
 
 ℹ️:
 
-- Capacité dans la piscine: 2 839 l / h
-- Cette pompe 3.8 M³/H de 99 watts est dacron a et a une purge à air
 - Garantie : 1 an(s)
-- Débit de la pompe de filtration: 3 778 l / h
 - La filtration à cartouche assure lune des meilleures qualités et finesses des filtrations des piscines
+- Capacité dans la piscine: 2 839 l / h
+- Débit de la pompe de filtration: 3 778 l / h
+- Cette pompe 3.8 M³/H de 99 watts est dacron a et a une purge à air
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00G9YZ6FK/?tag=tolees0d-21)
