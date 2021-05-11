@@ -28,12 +28,12 @@ Vous avez [YI Caméra d extérieur 1080p Caméra de Sécurité/Surveillance Ext�
 
 ℹ️:
 
-- MICRO & HAUT-PARLEUR: Laudio bidirectionnel vous permet de communiquer avec les invités bienvenus, et lalarme de dissuasion peut se débarrasser des invités indésirables.
-- Zoom numérique : 4.0 multiplier x
-- FULL HD: Les images en haute résolution 1080p et à 20 images par seconde, combinées avec un objectif à 110° offre plus de clarté et une plus grande portée de vision.
 - Type de montage : Montage Mural
 - VISION NOCTURNE: La vision nocturne excellente offre une distance dobservation nocturne allant jusquà 15 mètres.
 - IMPERMEABLE: Lindice IP65 le rend idéal pour une utilisation extérieure et gardera lenregistrement de la pluie ou du beau temps.
+- Zoom numérique : 4.0 multiplier x
+- FULL HD: Les images en haute résolution 1080p et à 20 images par seconde, combinées avec un objectif à 110° offre plus de clarté et une plus grande portée de vision.
+- MICRO & HAUT-PARLEUR: Laudio bidirectionnel vous permet de communiquer avec les invités bienvenus, et lalarme de dissuasion peut se débarrasser des invités indésirables.
 - 1x YI Caméra, 1x Adaptateur, 1x Support/Fixation, 1x Manuel dutilisation, 1x Tournevis cruciforme, 8 x Attache-fil, 10x Vis sur le mur, 10x Cheville. (Remarque: PAS de carte Micro SD dedans)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075ZRW2RJ/?tag=tolees0d-21)
