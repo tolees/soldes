@@ -28,9 +28,9 @@ C'est en vente [D-Link DCS-8300LH Caméra IP Mydlink Full HD Wi-Fi - 2 Megapixel
 
 ℹ️:
 
-- Snapshots et vidéoclips
 - Caméra Haute qualité 1080P
-- Compatible Amazon Alexa et Google HOME, IFTTT
 - Détection mouvement et son
+- Snapshots et vidéoclips
+- Compatible Amazon Alexa et Google HOME, IFTTT
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CJVTYMW/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [OLI-NATURA - Oli Natura Huile-cire dure - pour les planchers en bois 
 
 ℹ️:
 
-- Extrêmement résistante aux taches, déperlante et anti-taches, anti-dérapante, facile à entretenir et à réparer
-- Apte au contact alimentaire, adaptée pour les jouets des enfants (DIN EN 71-3), sans biocides ni oximes
-- Couleur : Transparent/Natural, Capacité : 1 litre suffit pour 20-25 m² par couche, 1-2 couches nécessaires
-- Huile de cire dure naturelle pour le traitement intérieur du bois, liège et planchers OSB, escaliers, portes, plans de travail et des meubles
 - Produit naturel à base dhuiles végétales modifiées comme lhuile de soja et la cire de carnauba
+- Huile de cire dure naturelle pour le traitement intérieur du bois, liège et planchers OSB, escaliers, portes, plans de travail et des meubles
+- Couleur : Transparent/Natural, Capacité : 1 litre suffit pour 20-25 m² par couche, 1-2 couches nécessaires
+- Apte au contact alimentaire, adaptée pour les jouets des enfants (DIN EN 71-3), sans biocides ni oximes
+- Extrêmement résistante aux taches, déperlante et anti-taches, anti-dérapante, facile à entretenir et à réparer
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01EYF758Q/?tag=tolees0d-21)

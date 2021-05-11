@@ -28,14 +28,14 @@ C'est en vente [Asus RT-AC86U Routeur Gaming Wi-Fi Ai mesh / AC 2900 Mbps Double
 
 ℹ️:
 
-- Link aggregation for up to 2Gbps wired network speeds, so more devices can enjoy faster access
-- 8 Gigabit LAN ports for extensive connectivity
-- Sortie DC: 19 V avec max. 1,75 A courant
-- Exclusive built-in game accelerator from WTFast lets you enjoy smooth gameplay in supported multi-player online games
-- AiMesh Supported - Connect to other compatible ASUS routers to create a powerful and flexible whole-home Wi-Fi network
 - Garantie 3 ans
-- Intuitive ASUS Router App lets you control your network anywhere, without needing to boot up a PC. Caractéristiques: Image : Jpeg. Audio : mp3, wma, wav, pcm, mp4, lpcm, ogg. Vidéo : asf, avi, divx, mpeg, mpg, ts, vob, wmv, mkv, mov
-- AiProtection with Trend Micro for triple-strength network security, plus robust Parental Controls and privacy protection
+- 8 Gigabit LAN ports for extensive connectivity
 - Revolutionary MU-MIMO technology can connect multiple MU-MIMO-compatible clients at each device’s maximum speed simultaneously
+- AiProtection with Trend Micro for triple-strength network security, plus robust Parental Controls and privacy protection
+- Exclusive built-in game accelerator from WTFast lets you enjoy smooth gameplay in supported multi-player online games
+- Link aggregation for up to 2Gbps wired network speeds, so more devices can enjoy faster access
+- Sortie DC: 19 V avec max. 1,75 A courant
+- AiMesh Supported - Connect to other compatible ASUS routers to create a powerful and flexible whole-home Wi-Fi network
+- Intuitive ASUS Router App lets you control your network anywhere, without needing to boot up a PC. Caractéristiques: Image : Jpeg. Audio : mp3, wma, wav, pcm, mp4, lpcm, ogg. Vidéo : asf, avi, divx, mpeg, mpg, ts, vob, wmv, mkv, mov
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07595BZJV/?tag=tolees0d-21)

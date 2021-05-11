@@ -28,11 +28,11 @@ C'est en vente [Corsair iCUE 465X RGB Boîtier gaming Moyen-Tour ATX en Verre Tr
 
 ℹ️:
 
+- Trois ventilateurs CORSAIR LL120 RGB inclus : Puissant flux d’air allant jusqu’à 1 500 tr/min et 16 LED RGB intenses par ventilateur, accompagnées de sept profils d’éclairage iCUE éblouissants
+- Éclairage RGB connecté : L’iCUE Lighting Node CORE inclus vous permet de personnaliser et de synchroniser votre éclairage RGB avec des effets et motifs spectaculaires à l’aide du logiciel iCUE
 - Direct Airflow Path : Une circulation d’air frais fluide vers les composants les plus chauds du PC
 - Diverses options de refroidissement : Capable d’accueillir jusqu’à six ventilateurs de 120 mm ou plusieurs radiateurs mesurant jusqu’à 360 mm
 - Panneaux avant et latéral en verre trempé de 4 mm : Un châssis en acier robuste, équipé de deux panneaux en verre trempé, met en valeur vos composants et ventilateurs RGB
-- Éclairage RGB connecté : L’iCUE Lighting Node CORE inclus vous permet de personnaliser et de synchroniser votre éclairage RGB avec des effets et motifs spectaculaires à l’aide du logiciel iCUE
-- Trois ventilateurs CORSAIR LL120 RGB inclus : Puissant flux d’air allant jusqu’à 1 500 tr/min et 16 LED RGB intenses par ventilateur, accompagnées de sept profils d’éclairage iCUE éblouissants
 - Stockage évolutif : Les plateaux de disque offrent de l’espace pour deux disques durs de 3,5” et deux disques SSD de 2,5”, ainsi que deux supports supplémentaires de 2,5”
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WLNSSBW/?tag=tolees0d-21)

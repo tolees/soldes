@@ -28,11 +28,11 @@ Vous avez [SanDisk Extreme 64GB microSDXC Memory Card for Action Cameras & Drone
 
 ℹ️:
 
-- Classe de vitesse UHS 3 (U3) et Classe de vitesse vidéo 30 (V30) pour de la vidéo UHD 4K
-- Ses performances vidéo haute qualité permettent la lecture et lenregistrement de vidéos 4K UHD et Full HD
 - Jusquà 160 Mo/s en vitesse de lecture et jusquà 90 Mo/s en vitesse décriture.
 - Une mémoire extrême pour optimiser les performances de votre caméra daction ou de votre drone
-- Température de fonctionnement -13°F à 185°F (-25°C à 85°C) Température de stockage -40°F à 185°F (-40°C à 85°C)
 - Conçue pour les conditions extrêmes ; résiste aux températures extrêmes, à leau, aux chocs et aux rayons X
+- Température de fonctionnement -13°F à 185°F (-25°C à 85°C) Température de stockage -40°F à 185°F (-40°C à 85°C)
+- Ses performances vidéo haute qualité permettent la lecture et lenregistrement de vidéos 4K UHD et Full HD
+- Classe de vitesse UHS 3 (U3) et Classe de vitesse vidéo 30 (V30) pour de la vidéo UHD 4K
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HB8SLMV/?tag=tolees0d-21)

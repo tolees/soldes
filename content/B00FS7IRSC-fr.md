@@ -28,10 +28,10 @@ C'est en vente [Rimmel - Poudre Compact Stay Matte - Anti-Brillance - Fini Mat e
 
 ℹ️:
 
-- Testé dermatologiquement
-- Enrichie en minéraux
-- Aide à réduire lapparence des pores de la peau en contrôlant lexcès de sébum
 - Poudre compacte anti-brillance
+- Testé dermatologiquement
 - Fini mat et naturel
+- Aide à réduire lapparence des pores de la peau en contrôlant lexcès de sébum
+- Enrichie en minéraux
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00FS7IRSC/?tag=tolees0d-21)

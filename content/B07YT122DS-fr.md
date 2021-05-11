@@ -30,9 +30,9 @@ Vous avez [Razer Kraken X USB: Casque de Jeu  Gaming Casque avec son surround nu
 
 - ULTRA-LÉGER : Pesant à peine 275 g, le casque vous fera profiter dun son de qualité supérieure lorsque vous jouez pendant des heures, sans avoir à subir son poids
 - COUSSINETS DOREILLE OVALES & BANDEAU À GLISSIÈRE RÉGLABLE : Pour un confort et une solidité sans compromis. La forme ovale recouverte de similicuir permet une mise en place confortable et un toucher moelleux
+- OREILLETTES ÉCLAIRÉES pour jouer avec style. Appareils compatibles : Desktops, pour appareils avec connecteur USB
 - HAUT-PARLEURS DE 40 MM PERSONNALISÉS : Clarté audio supérieure et basses puissantes pour une gamme de sons plus étendue. Quil sagisse de bruits de pas presque inaudibles ou dexplosions tonitruantes, le son de votre jeu vous sera retransmis avec une fidélité confondante de réalité
 - SON SURROUND : Audio positionnel précis pour avoir l’avantage compétitif *Uniquement disponible sur Windows 10 64 bits*
-- OREILLETTES ÉCLAIRÉES pour jouer avec style. Appareils compatibles : Desktops, pour appareils avec connecteur USB
 - MICROPHONE CARDIOÏDE FLEXIBLE : Supprime le bruit de l’arrière et des côtés. Cela garantit que les autres joueurs entendront parfaitement votre voix sans être dérangés par le bruit provenant des côtés et de larrière de votre micro
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YT122DS/?tag=tolees0d-21)
