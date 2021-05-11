@@ -28,8 +28,8 @@ Vous avez [Pentax Objectif Télézoom 50-200mm f/4-5 6 ED WR pour Appareil photo
 
 ℹ️:
 
-- Distance focale : 50 mm - 200 mm
 - Zoom optique de 4x
 - Ouverture du diaphragme : 4,5
+- Distance focale : 50 mm - 200 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002BSGUZI/?tag=tolees0d-21)
