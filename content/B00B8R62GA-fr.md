@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '31.98 % rabais sur Mottez Barre de remorquage Fixation par '
-date: 2021-05-09 20:24:12
+date: 2021-05-11 18:00:14
 image: 'https://m.media-amazon.com/images/I/51yuar1PpyL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

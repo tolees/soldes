@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '47.10 % rabais sur Logitech G935 Casque Gamer Sans Fil  Son'
-date: 2021-04-17 19:58:19
+title: '47.10 % rabais sur Logitech G935 Casque Gamer RVB Sans Fil '
+date: 2021-05-11 18:03:37
 image: 'https://m.media-amazon.com/images/I/411EoBzL4QL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B07MTY7N22-fr Logitech G935 Casque Gamer Sans Fil Son 7.1 Surround DTS...'
+slug: 'B07MTY7N22-fr Logitech G935 Casque Gamer RVB Sans Fil Son 7.1 Surround...'
 sku: 'B07MTY7N22-fr'
 tags: [ 'Accessoires pour PlayStation','Accessoires pour PlayStation 2','Accessoires pour PlayStation 5','Accessoires pour Xbox','Accessoires pour Xbox Series X et S','Casques pour PlayStation 5','Casques pour Xbox Series X et S','Consoles rétro et mini consoles','Jeux vidéo','Nintendo Switch:  Consoles, jeux et accessoires','PC: Jeux et accessoires','PlayStation 2: Jeux, consoles et accessoires','PlayStation 5: Consoles, jeux et accessoires','PlayStation: Jeux, consoles et accessoires','Xbox Series X et S : Consoles, jeux et accessoires','Xbox: Jeux, consoles et accessoires','logitech g', ]
 actualPrice: 99.99 EUR
 currency: EUR
 price: 99.99
 comparePrice: 189.0 EUR
-prodname: 'Logitech G935 Casque Gamer Sans Fil  Son 7.1 Surround  DTS Headphone : X 2.0  Transducteurs 50mm Pro-G  2 4 GHz  Micro avec Sourdine Flip-Up  RVB LightSync  PC/Mac/Xbox One/PS4/Nintendo Switch - Noir'
+prodname: 'Logitech G935 Casque Gamer RVB Sans Fil  Son 7.1 Surround  DTS Headphone:X 2.0  Transducteurs 50mm Pro-G  2 4 GHz Sans Fil  Micro avec Sourdine Flip-Up  PC/Mac/Xbox One/PS4/Nintendo Switch - Noir'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Logitech G'
 buyurl: 'https://www.amazon.fr/dp/B07MTY7N22/?tag=tolees0d-21'
 descuento: '47.10'
-average: '140.118'
+average: '136.47'
 ---
 
-Vous avez [Logitech G935 Casque Gamer Sans Fil  Son 7.1 Surround  DTS Headphone : X 2.0  Transducteurs 50mm Pro-G  2 4 GHz  Micro avec Sourdine Flip-Up  RVB LightSync  PC/Mac/Xbox One/PS4/Nintendo Switch - Noir](https://www.amazon.fr/dp/B07MTY7N22/?tag=tolees0d-21)  à  47.10 % de réduction, prix final  99.99 EUR (original: 189.0 EUR) ici:
+Vous avez [Logitech G935 Casque Gamer RVB Sans Fil  Son 7.1 Surround  DTS Headphone:X 2.0  Transducteurs 50mm Pro-G  2 4 GHz Sans Fil  Micro avec Sourdine Flip-Up  PC/Mac/Xbox One/PS4/Nintendo Switch - Noir](https://www.amazon.fr/dp/B07MTY7N22/?tag=tolees0d-21)  à  47.10 % de réduction, prix final  99.99 EUR (original: 189.0 EUR) ici:
 
-[![Logitech G935 Casque Gamer Sans Fil  Son](https://m.media-amazon.com/images/I/411EoBzL4QL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07MTY7N22/?tag=tolees0d-21)
+[![Logitech G935 Casque Gamer RVB Sans Fil ](https://m.media-amazon.com/images/I/411EoBzL4QL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07MTY7N22/?tag=tolees0d-21)
 
 ℹ️:
 
-- LIGHTSYNC sur Spectre RVB Complet: Profitez dun éclairage RVB réactif et entièrement programmable à laide du logiciel G HUB en fonction de votre pièce, de votre équipement et de votre style
-- Transducteurs Pro-G 50 mm: Les transducteurs audio Pro-G 50 mm sont fabriqués à partir dun maillage hybride propriétaire pour une expérience sonore de gaming incroyable
-- Plus Rien ne vous Retient: Un casque sans fil puissant 2,4 GHz pour jouer pendant 12 heures avec une liberté de mouvement totale et un câble 3,5 mm inclus pour une source audio supplémentaire. Sensibilité: 93 +/- 3 dB
-- Son surround DTS Headphone:X 2.0 Immersif: Entendez les ennemis se faufiler derrière vous, les indices de pouvoirs spéciaux, ainsi que les environnements immersifs à laide de la clarté de position
-- Microphone Mic+ 6 mm Clair et Distinct: Profitez de communications vocales claires et précises grâce au Mic+ doté dune fonction de sourdine Flip-up, ainsi que dun témoin lumineux rouge de sourdine
+- Plus Rien ne vous Retient : un casque sans fil puissant 2,4 GHz pour jouer pendant 12 heures avec une liberté de mouvement totale et un câble 3,5 mm inclus pour une source audio supplémentaire
+- LIGHTSYNC sur Spectre RVB Complet : profitez dun éclairage RVB réactif et entièrement programmable à laide du logiciel G HUB en fonction de votre pièce, de votre équipement et de votre style
+- Son surround DTS Headphone:X 2.0 Immersif : entendez les ennemis se faufiler derrière vous, les indices de pouvoirs spéciaux, ainsi que les environnements immersifs à laide de la clarté de position
+- Microphone Mic+ 6 mm Clair et Distinct : profitez de communications vocales claires et précises grâce au Mic+ doté dune fonction de sourdine Flip-up, ainsi que dun témoin lumineux rouge de sourdine
+- Transducteurs Pro-G 50 mm : les transducteurs audio Pro-G 50 mm sont fabriqués à partir dun maillage hybride propriétaire pour une expérience sonore de gaming incroyable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MTY7N22/?tag=tolees0d-21)
