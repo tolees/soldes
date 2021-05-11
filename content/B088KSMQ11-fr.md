@@ -29,7 +29,7 @@ C'est en vente [HUAWEI P40 Lite 5G Space Silver](https://www.amazon.fr/dp/B088KS
 ℹ️:
 
 - Nouveau processeur Kirin 820 avec 5G
-- Quadruple caméra dotée dIA et capteur principal de 64MP
 - Batterie de 4000mAh et technologie SuperCharge
+- Quadruple caméra dotée dIA et capteur principal de 64MP
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088KSMQ11/?tag=tolees0d-21)
