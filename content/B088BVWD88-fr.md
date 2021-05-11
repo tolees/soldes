@@ -28,10 +28,10 @@ Vous avez [ALPIDEX Stand Up Paddle Board 305 x 76 x 15 cm Charge Max. 110 kg Sup
 
 ℹ️:
 
-- INGÉNIEUX: SUP à pointe biseautée pour mieux glisser sur les vagues * grand sac à dos avec fermeture éclair sur 3 côtés, peut également être porté comme un sac *planche avec poignée de transport * deck antidérapant en EVA * pompe double action avec manomètre * laisse de sécurité pour la planche de paddle
 - PACK COMPLET: 1 x SUP 305 cm * 1 x sac à dos * 1 x pompe à air double * 1 x paddle en alu en trois éléments * 1 x leash * 1 x kit de réparation
-- EXTRAS: 1 aileron central amovible et 2 ailerons latéraux sous la planche pour une meilleure stabilité sur leau * pagaie en alu légère avec poignée de forme ergonomique réglable en fonction de la taille du corps et transformable en pagaie de kayak * double paroi renforcée
 - TOUJOURS AVEC SOI: mesurant 88 x 38 x 29 cm et pesant seulement 13 kilos tout emballé, accessoires inclus, ce pack entre dans nimporte quel coffre, même le plus petit, et vous accompagne lors de toutes vos excursions au lac ou en vacances
+- EXTRAS: 1 aileron central amovible et 2 ailerons latéraux sous la planche pour une meilleure stabilité sur leau * pagaie en alu légère avec poignée de forme ergonomique réglable en fonction de la taille du corps et transformable en pagaie de kayak * double paroi renforcée
 - CONSTRUCTION ROBUSTE: matière synthétique résistante * aluminium de haute qualité *Poignées fixées par une boucle à deux couches pour éviter tout arrachage * technologie Drop Stitch pour davantage de solidité et de résistance
+- INGÉNIEUX: SUP à pointe biseautée pour mieux glisser sur les vagues * grand sac à dos avec fermeture éclair sur 3 côtés, peut également être porté comme un sac *planche avec poignée de transport * deck antidérapant en EVA * pompe double action avec manomètre * laisse de sécurité pour la planche de paddle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088BVWD88/?tag=tolees0d-21)

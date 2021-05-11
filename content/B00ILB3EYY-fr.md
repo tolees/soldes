@@ -28,10 +28,10 @@ C'est en vente [Lotuscrafts Brique Yoga en liège Supra Grip - Fabrication écol
 
 ℹ️:
 
+- LIÈGE NATUREL DU PORTUGAL - Notre bloc de yoga est fabriqué en liège naturel du Portugal. Contrairement aux blocs en mousse produits en Chine, sa fabrication est durable et respectueuse de lenvironnement.
+- ANTIDÉRAPANT & SURFACE ADHÉRENTE - La surface agréablement souple du bloc est très adhérente et reste antidérapante même lors dexercices de yoga faisant transpirer.
 - QUALITÉ ÉPROUVÉE DE LA MARQUE - Lotuscrafts est synonyme de produits innovants de yoga et de méditation. Notre ambition est de vous proposer une aide optimale pour vos exercices de yoga grâce à nos produits de qualité.
 - yoga brick cork yoga block brique yoga bambou
 - IL VOUS AIDE DANS VOTRE PRATIQUE DU YOGA - Notre bloc de yoga en liège est un accessoire pratique qui vous aide notamment à apprendre des nouveaux Asanas et lorsque vous êtes encore un peu rigide.
-- LIÈGE NATUREL DU PORTUGAL - Notre bloc de yoga est fabriqué en liège naturel du Portugal. Contrairement aux blocs en mousse produits en Chine, sa fabrication est durable et respectueuse de lenvironnement.
-- ANTIDÉRAPANT & SURFACE ADHÉRENTE - La surface agréablement souple du bloc est très adhérente et reste antidérapante même lors dexercices de yoga faisant transpirer.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00ILB3EYY/?tag=tolees0d-21)
