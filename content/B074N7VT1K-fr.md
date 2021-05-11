@@ -28,7 +28,7 @@ C'est en vente [Armor Lux Cardigan PLOUESCAT Navire XL](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Depuis 1938
 - La marque de qualité
+- Depuis 1938
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B074N7VT1K/?tag=tolees0d-21)
