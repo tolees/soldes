@@ -28,13 +28,13 @@ C'est en vente [LEGO 42095 Technic Le Bolide télécommandé Jouet de Voiture 
 
 ℹ️:
 
-- Cet ensemble LEGO Technic est conçu pour fournir une expérience de construction immersive et gratifiante et comprend des mouvements et des mécanismes réalistes, aidant les jeunes constructeurs à développer leurs compétences motrices, la coordination main-œil et limagination.
-- Permet de traverser un terrain difficile et de franchir les obstacles, de conduire en marche avant, arrière, vers la gauche et la droite, et deffectuer des tours à 360° et des cabrés géniaux à grande vitesse.
-- Comprend un véhicule ultra-rapide entièrement motorisé et télécommandé avec des chenilles et de grands pignons arrière pour une accélération spectaculaire.
-- Le bolide télécommandé mesure plus de 12 cm de haut, 20 cm de long et 19 cm de large.
-- Ce jouet motorisé 2 en 1 se transforme en bolide télécommandé.
-- Comprend les composants LEGO Power Functions suivants : 2 gros moteurs, un récepteur, un boîtier à piles et une télécommande.
 - Le bolide télécommandé mesure plus de 17 cm de haut, 22 cm de long et 15 cm de large.
+- Comprend les composants LEGO Power Functions suivants : 2 gros moteurs, un récepteur, un boîtier à piles et une télécommande.
+- Cet ensemble LEGO Technic est conçu pour fournir une expérience de construction immersive et gratifiante et comprend des mouvements et des mécanismes réalistes, aidant les jeunes constructeurs à développer leurs compétences motrices, la coordination main-œil et limagination.
+- Ce jouet motorisé 2 en 1 se transforme en bolide télécommandé.
+- Comprend un véhicule ultra-rapide entièrement motorisé et télécommandé avec des chenilles et de grands pignons arrière pour une accélération spectaculaire.
+- Permet de traverser un terrain difficile et de franchir les obstacles, de conduire en marche avant, arrière, vers la gauche et la droite, et deffectuer des tours à 360° et des cabrés géniaux à grande vitesse.
 - Des coloris jaunes et bleus avec des autocollants
+- Le bolide télécommandé mesure plus de 12 cm de haut, 20 cm de long et 19 cm de large.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FNMXFQF/?tag=tolees0d-21)

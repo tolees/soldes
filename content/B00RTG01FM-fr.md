@@ -28,14 +28,14 @@ C'est en vente [Grohe 33265002 Mitigeur Lavabo Eurosmart  Taille S  Chromé   Im
 
 ℹ️:
 
-- Levier de commande métallique
+- GROHE EcoJoy économie d’eau, mousseur 5 l/min
 - GROHE SilkMove Cartouche en céramique 35 mm avec limiteur de température
+- GROHE StarLight Chrome éclatant et durable
 - Monotrou sur plage
 - Taille S
-- Tirette et garniture de vidage 1-1/4"
-- GROHE StarLight Chrome éclatant et durable
-- GROHE EcoJoy économie d’eau, mousseur 5 l/min
 - GROHE QuickFix installation rapide
+- Tirette et garniture de vidage 1-1/4"
+- Levier de commande métallique
 - Flexibles de raccordement souples, sertis d’usine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00RTG01FM/?tag=tolees0d-21)
