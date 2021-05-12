@@ -28,9 +28,9 @@ C'est en vente [Vitavea Bien-être - Vitavea Spiruline 30 Gélules](https://www.
 
 ℹ️:
 
-- Spiruline
-- Durable
 - Vitamine B9
+- Durable
+- Spiruline
 - Produit de haute qualité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B082VVT1Z1/?tag=tolees0d-21)

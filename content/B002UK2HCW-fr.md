@@ -28,7 +28,7 @@ Vous avez [Royal & Langnickel - Royal and Langnickel Manga Satchel Artist Set](h
 
 ℹ️:
 
-- <b>La garantie du fabricant de ce produit pourrait être différente de celle habituellement fournie avec des produits vendus en France.</b>
 - Contenu de la boîte : 3 Stylos à Pointe Fine, 2 Modèles de Personnage de Manga, 1 Stylo Soft-Grip à Encre Gel, 1 Portemine Soft-Grip, 1 Pack de Recharge pour Crayon à Papier, 1 Gomme, 1 Carnet pour Manga (20,32cm x 25,4cm), 1 Sacoche avec Sangle Ajustable Parfait pour les artistes passionnés de manga ou les artistes voyageurs qu’elle que soit leur âge ou leur expérience.La sacoche contient un compartiment totalement zippé, trois poches avant zippés avec rabat de protection en toile et une poche sur le cotéSacoche avec de nombreuses poches et de la place pour transporter plus darticles ou de fournitures
+- <b>La garantie du fabricant de ce produit pourrait être différente de celle habituellement fournie avec des produits vendus en France.</b>
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002UK2HCW/?tag=tolees0d-21)

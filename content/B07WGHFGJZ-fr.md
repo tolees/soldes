@@ -28,10 +28,10 @@ C'est en vente [La Provençale Bio - La Provençale – La Crème de Jouvence An
 
 ℹ️:
 
+- Soin fabriqué en France, Formulé avec 98% dingrédients dorigine naturelle certifiés Bio par Ecocert, Parfum délicat composé à Grasse, Voyage olfactif au cœur de la Provence, Flacon 100% Recyclable
+- Crème de jouvence anti-rides formulée à partir de feuilles dolivier et dhuile d’olive BIO à lefficacité antioxydante, Pour tous types de peaux même les plus sensibles
 - Texture fondante, légère et non collante pour une application facile chaque matin sur le visage et le cou, Pour une peau nourrie, adoucie et sublimée
 - Contenu : 1x La Crème de Jouvence Anti-Rides La Provençale Bio, Format : 50 ml
-- Soin fabriqué en France, Formulé avec 98% dingrédients dorigine naturelle certifiés Bio par Ecocert, Parfum délicat composé à Grasse, Voyage olfactif au cœur de la Provence, Flacon 100% Recyclable
 - Résultat : Votre peau est plus nourrie, plus ferme et plus confortable, Votre visage rayonne naturellement de beauté, Parfumé, vous profitez dune expérience sensorielle enivrante
-- Crème de jouvence anti-rides formulée à partir de feuilles dolivier et dhuile d’olive BIO à lefficacité antioxydante, Pour tous types de peaux même les plus sensibles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07WGHFGJZ/?tag=tolees0d-21)

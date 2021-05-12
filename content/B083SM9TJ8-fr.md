@@ -29,9 +29,9 @@ Vous avez [Asus ROG Theta 7.1 RGB Gaming Headset 40mm Pilotes ESS Quad-drivers a
 ℹ️:
 
 - Confort maximal : Coussinets ROG Hybrid avec revêtement en tissu respirant et design pensé pour les porteurs de lunettes
-- Tchats vocaux de meilleure qualité grâce au microphone intégré doté d’un annulateur de bruit
-- Son immersif, basses puissantes : son surround 7.1 avec 8 transducteurs ASUS Essence et subwoofer virtuel
 - Logiciel Armoury II : réglages des basses virtuelles et autres profils audio
+- Son immersif, basses puissantes : son surround 7.1 avec 8 transducteurs ASUS Essence et subwoofer virtuel
+- Tchats vocaux de meilleure qualité grâce au microphone intégré doté d’un annulateur de bruit
 - Connecteur USB compatible avec PC, Mac, PS4, PS5, Nintendo Switch
 - Quadruple DAC ESS 9601 et DAC ROG 7.1 exclusif pour ne subir aucune perte audio
 

@@ -28,8 +28,8 @@ Vous avez [TP-Link WiFi Mesh avec CPL 1000Mbps Deco P9 3-pack  Système Hybride 
 
 ℹ️:
 
-- COMPATIBILITE AVEC TOUS BOX INTERNET DU MARCHE - Remplacez votre solution WiFi existante, compatible avec tous les fournisseurs daccès Internet quelle que soit la connexion (fibre optique, DSL, etc), adaptée aux débits＞500Mbit/s box internet, 2+2+2 port Gigabit
 - FACILE À INSTALLER ET À GÉRER - Deco APP, suivi GDPR (Règlement général sur la protection des données), vous aide à configurer le Wifi en quelques minute et gérer tous les appareils sur votre smartphone facilement par les services et technologies: contrôle parental(surveiller et contrôler), QoS (régler et assigner les priorités de réseau pour vos appareils), etc.
+- COMPATIBILITE AVEC TOUS BOX INTERNET DU MARCHE - Remplacez votre solution WiFi existante, compatible avec tous les fournisseurs daccès Internet quelle que soit la connexion (fibre optique, DSL, etc), adaptée aux débits＞500Mbit/s box internet, 2+2+2 port Gigabit
 - TECHNOLOGIES AVANCÉES - Un seul nom de réseau, WPA2, MU-MIMO, Beamforming, Firewall, IPV6, et plus encore
 - RAPIDE ET STABLE MESH-ROAMING -TP-Link nouvelles technologies offrent des connexions WiFi Mesh en tri-bandes distinctes en utilisant un seul réseau, ultra-rapides et stables lorsque vous vous déplacez nimporte où dans votre maison, donc sans interrompre votre partie en ligne, votre série ou votre appels vidéo, même pour streaming 4K et gaming.
 - 100% COUVERTURE AVEC WIFI MESH - Le pack de 3 boitiers Deco P9 offre une connexion Mesh WiFi avec la vitesse 1200Mbit/s , possibilité de connecter + de 40 appareils dans votre foyer jusquà 400 ㎡ et sans zone morte, idéal pour toute la maison, surtout si murs épais grâce au CPL.
