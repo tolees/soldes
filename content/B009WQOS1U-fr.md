@@ -29,7 +29,7 @@ C'est en vente [Apple - Adaptateur Lightning vers VGA](https://www.amazon.fr/dp/
 ℹ️:
 
 - Il vous suffit de relier votre Adaptateur Lightning vers VGA au connecteur Lightning de votre appareil et à votre téléviseur ou projecteur via un cble VGA (vendu séparément).
-- Il vous permet également de diffuser du contenu vidéo — films, séries TV, vidéos personnelles — sur votre grand écran jusquen HD 1080p.
 - Nécessite un cble VGA (vendu séparément) pour raccorder votre téléviseur ou projecteur. Ne prend pas en charge la sortie audio.
+- Il vous permet également de diffuser du contenu vidéo — films, séries TV, vidéos personnelles — sur votre grand écran jusquen HD 1080p.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B009WQOS1U/?tag=tolees0d-21)
