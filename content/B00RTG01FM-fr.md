@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Grohe 33265002 Mitigeur Lavabo Eurosmart avec 22.08 % rabais '
-date: 2021-05-08 19:45:20
+date: 2021-05-12 05:30:02
 image: 'https://m.media-amazon.com/images/I/31urxm9lQhL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,14 +28,14 @@ C'est en vente [Grohe 33265002 Mitigeur Lavabo Eurosmart  Taille S  Chromé   Im
 
 ℹ️:
 
-- Flexibles de raccordement souples, sertis d’usine
-- GROHE QuickFix installation rapide
 - Levier de commande métallique
-- GROHE StarLight Chrome éclatant et durable
-- Monotrou sur plage
-- Tirette et garniture de vidage 1-1/4"
 - GROHE SilkMove Cartouche en céramique 35 mm avec limiteur de température
+- Monotrou sur plage
 - Taille S
+- Tirette et garniture de vidage 1-1/4"
+- GROHE StarLight Chrome éclatant et durable
 - GROHE EcoJoy économie d’eau, mousseur 5 l/min
+- GROHE QuickFix installation rapide
+- Flexibles de raccordement souples, sertis d’usine
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00RTG01FM/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Bosch Home and Garden - Scie Sauteuse Filaire Bosch - PST 650  5
 
 ℹ️:
 
-- Avec le système SDS Bosch, le changement de lame est rapide, sûr et efficace – sans outil
 - Moteur puissant de 500 W et profondeur de coupe dans le bois de 65 mm – même les travaux les plus difficiles sont facilement réalisables
 - Vibrations minimales, travail sûr et grand confort dutilisation grâce au système « Low Vibration » Bosch avec équilibrage linéaire des masses et au système Softgrip
+- La fonction soufflerie (désactivable) permet, en toutes circonstances, une bonne visibilité de la ligne de coupe
+- Avec le système SDS Bosch, le changement de lame est rapide, sûr et efficace – sans outil
 - Plaque de base en métal améliorée et de plus grande taille pour une stabilité idéale et une utilisation plus sûre : possibilité dinclinaison pour des coupes donglets jusquà 45°
 - Un outil qui vous simplifie la vie comme aucun autre : sa taille compacte, son faible poids et son excellente maniabilité garantissent une utilisation très confortable et une prise en main sûre
-- La fonction soufflerie (désactivable) permet, en toutes circonstances, une bonne visibilité de la ligne de coupe
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0087OTTAS/?tag=tolees0d-21)

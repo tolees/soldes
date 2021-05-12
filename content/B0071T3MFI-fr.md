@@ -28,10 +28,10 @@ C'est en vente [Bosch Professional 060158G000 Scie Sauteuse GST 90 E  650 W  1 L
 
 ℹ️:
 
+- La scie sauteuse permet de réaliser des coupes d’une profondeur de 90 mm dans le bois, 20 mm dans l’aluminium et 10 mm dans l’acier non allié
 - Livré avec : GST 90 E, une lame, clé six pans mâle, pare-éclats, coffret de transport
 - La scie sauteuse GST 90 E de Bosch Professional - pour des coupes rapides et précises
-- La scie sauteuse permet de réaliser des coupes d’une profondeur de 90 mm dans le bois, 20 mm dans l’aluminium et 10 mm dans l’acier non allié
-- Moteur puissant de 650 W pour une progression de travail rapide
 - Changement de lame simple et sans clé grâce au système SDS Bosch
+- Moteur puissant de 650 W pour une progression de travail rapide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0071T3MFI/?tag=tolees0d-21)
