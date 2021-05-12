@@ -28,10 +28,10 @@ C'est en vente [Stanley SFMCB24-QW Chargeur rapide à deux voies SFMCB24  18 V  
 
 ℹ️:
 
-- Nouvelle génération V20 plus fiable et plus durable que la précédente gamme 18V : pour répondre à toutes les exigences professionnelles
-- Double port 4Ah pour charger 2 batteries en même temps
 - Chargeur V20 4Ah pour recharger les batteries très rapidement - ne soyez jamais à cours dénergie sur vos chantiers
-- Temps de charge dune batterie V20 2Ah: 30 minutes / Temps de charge dune batterie 4Ah: 1 heure/ Temps de charge dune batterie 6Ah: 1 heure 30 minutes
 - Chargeur V20 4Ah compatible avec toutes les batteries 18V de la gamme V20
+- Double port 4Ah pour charger 2 batteries en même temps
+- Nouvelle génération V20 plus fiable et plus durable que la précédente gamme 18V : pour répondre à toutes les exigences professionnelles
+- Temps de charge dune batterie V20 2Ah: 30 minutes / Temps de charge dune batterie 4Ah: 1 heure/ Temps de charge dune batterie 6Ah: 1 heure 30 minutes
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08J4G5WVN/?tag=tolees0d-21)
