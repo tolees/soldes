@@ -28,7 +28,7 @@ C'est en vente [The North Face Simple Dome T-Shirt de sport Homme Noir FR : L  T
 
 ℹ️:
 
-- Imprimé à lencre à eau à lavant et au dos
 - Tshirt à manches courtes de longueur classique avec col ras du cou
+- Imprimé à lencre à eau à lavant et au dos
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01HMRTAXG/?tag=tolees0d-21)
