@@ -28,10 +28,10 @@ Vous avez [AWANFI Booster Batterie Voiture  Jump Starter 1200A 18000mAh  Démarr
 
 ℹ️:
 
-- 🚗【Haute capacité et puissance】Ce booster démarreur de batterie voiture au Lithium avec une capacité de batterie de 18000 mAh et un courant de pointe de 1200 A, qui peut démarrer les véhicules 12 V (en dessous de 6,5 L dessence et 5,0 L de gazole) rapidement en quelques secondes, jusquà 30 fois.
 - 🚗【Boussole et torche à LED intégrées】Trois modes déclairage (100%, SOS, stroboscope) de booster de démarrage vous aident à trouver votre chemin dans lobscurité et être secouru dans une situation urgent. La boussole est conçue pour être votre assistant dans la nature, ce qui peut vous aider à trouver facilement le chemin du retour.
 - 🚗【Protection intelligente】La protection intelligente vous procurent une tranquillité desprit. (Surtension, surintensité, surcharge, reflux, inversion de polarité et protection contre les courts-circuits)
-- 🚗【Batterie portable externe avec 2 USB】: Ce booster de batterie a deux sorties USB pour charger les smartphones, tablettes, ipads, appareils photo, Kindle ou autres appareils électroniques.
 - 🚗【Utilisation simple et systèmes de sécurité】Très facile à utiliser, il suffit de mettre sous tension et de connecter la fiche au câble connecté à la batterie, puis dappuyer sur le bouton boost pour monter dans la voiture et démarrer le moteur.
+- 🚗【Batterie portable externe avec 2 USB】: Ce booster de batterie a deux sorties USB pour charger les smartphones, tablettes, ipads, appareils photo, Kindle ou autres appareils électroniques.
+- 🚗【Haute capacité et puissance】Ce booster démarreur de batterie voiture au Lithium avec une capacité de batterie de 18000 mAh et un courant de pointe de 1200 A, qui peut démarrer les véhicules 12 V (en dessous de 6,5 L dessence et 5,0 L de gazole) rapidement en quelques secondes, jusquà 30 fois.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07XQ8NMBC/?tag=tolees0d-21)
