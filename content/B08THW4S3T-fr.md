@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsung 980 500 Go M.2 NVMe Internal Sol avec 31.16 % rabais '
-date: 2021-05-10 13:32:15
+date: 2021-05-12 14:13:23
 image: 'https://m.media-amazon.com/images/I/31qlftbbuDL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Samsung'
 buyurl: 'https://www.amazon.fr/dp/B08THW4S3T/?tag=tolees0d-21'
 descuento: '31.16'
-average: '80.0516666666667'
+average: '78.04'
 ---
 
 C'est en vente [Samsung 980 500 Go M.2 NVMe Internal Solid State Drive  SSD  - MZ-V8V500BW](https://www.amazon.fr/dp/B08THW4S3T/?tag=tolees0d-21)  à  31.16 % de réduction, prix final  53.9 EUR (original: 78.3 EUR) ici:
@@ -28,10 +28,10 @@ C'est en vente [Samsung 980 500 Go M.2 NVMe Internal Solid State Drive  SSD  - M
 
 ℹ️:
 
-- Dynamic Thermal Guard
-- Construit pour durer
 - Technologie NVMe PCIe 3.0
-- Format compact M.2
 - Jusquà 6x plus rapique dun SSD SATA
+- Construit pour durer
+- Format compact M.2
+- Dynamic Thermal Guard
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08THW4S3T/?tag=tolees0d-21)

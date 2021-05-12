@@ -29,8 +29,8 @@ C'est en vente [Citizen Horloge CA0695-84E](https://www.amazon.fr/dp/B079FT8JR3/
 ℹ️:
 
 - Pas besoin de changer les piles. Eco-Drive élimine les tracas et les coûts de remplacement régulier des piles
+- Numéro de calibre : B612
 - Fonctionne pendant plus de six mois dans lobscurité. Une charge complète suffit pour faire fonctionner la plupart des modèles Eco-Drive pendant plus de six mois dans lobscurité
 - Entraînement Eco-Drive : Eco-Drive est une technologie de base de Citizen qui génère de lélectricité même en cas de faible luminosité et permet aux montres de fonctionner même dans lobscurité pendant plus de six mois
-- Numéro de calibre : B612
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B079FT8JR3/?tag=tolees0d-21)
