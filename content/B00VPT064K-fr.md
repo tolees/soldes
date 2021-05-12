@@ -28,9 +28,9 @@ Vous avez [Samsonite Cityscape Cartable  46 cm  30 L  Noir](https://www.amazon.f
 
 ℹ️:
 
-- Poignée supérieure en néoprène matelassée pour un transport plus agréable
-- Passant au dos matelassé pour confort
 - Protection des poches pour bloquer les signaux RFID (empêchant laccès non autorisé à vos données personnelles : CB, Passeport…)
+- Passant au dos matelassé pour confort
+- Poignée supérieure en néoprène matelassée pour un transport plus agréable
 - Base du sac waterproof et imperméable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VPT064K/?tag=tolees0d-21)
