@@ -28,8 +28,8 @@ C'est en vente [Asus L701-1A-ROG SPATHA Laser Gaming Mouse](https://www.amazon.f
 
 ℹ️:
 
+- Produit destiné aux joueurs exigeants
 - Qualité de fabrication irréprochable
 - Immersion exceptionnelle.OS support: Windows 10 86x64, Windows 8.1 86x64, Windows 8 86x64,Windows 7 86x64
-- Produit destiné aux joueurs exigeants
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GDCZYOU/?tag=tolees0d-21)

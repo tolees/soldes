@@ -28,9 +28,9 @@ C'est en vente [Hansgrohe - 71120000 - Robinet de Petit Lavabo de Salle de Bain 
 
 ℹ️:
 
-- Garantie 5 ans.
 - CARACTERISTIQUES : ComfortZone 70, EcoSmart : consomment jusquà 60 % deau en moins que les produits traditionnels, Bec fixe, Longueur 84 mm ,
-- Mécanisme céramique 90°
 - Jet normal, Débit: 5 l/min, sans tirette ni vidage, Finition chromé. Attention : alimentation en eau froide uniquement
+- Mécanisme céramique 90°
+- Garantie 5 ans.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00KQQ7SEE/?tag=tolees0d-21)
