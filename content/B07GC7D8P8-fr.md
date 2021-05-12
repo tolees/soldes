@@ -28,14 +28,14 @@ Vous avez [Krups Nespresso - Krups Vertuo Plus noir mat Machine expresso  Nespre
 
 ℹ️:
 
-- RESERVOIR DEAU AMOVIBLE
-- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
-- 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos envies : de l’Espresso à l’Alto, en passant par le Mug
-- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur choisie
-- OUVERTURE ET FERMETURE AUTOMATIQUES
+- ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
 - Réparabilité 15 ans, Garantie 2 ans
+- RESERVOIR DEAU AMOVIBLE
+- OUVERTURE ET FERMETURE AUTOMATIQUES
+- 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos envies : de l’Espresso à l’Alto, en passant par le Mug
 - Technologie d’extraction du café par CENTRIFUSION pour un café de haute qualité
 - EJECTION AUTOMATIQUE des capsules
-- ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
+- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur choisie
+- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07GC7D8P8/?tag=tolees0d-21)

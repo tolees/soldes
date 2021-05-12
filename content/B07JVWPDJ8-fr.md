@@ -29,8 +29,8 @@ Vous avez [DELSEY PARIS - MONCEY - Valise rigide à double roues et serrure TSA 
 ℹ️:
 
 - Disponible en 5 couleurs et 5 tailles; Garantie 5 ans -
-- Intérieur fonctionnel et volumineux: Intérieur entièrement doublé 150 D, valise composée de sangles à hauteur ajustable dans le compartiment principal, dune poche avec bonne capacité de rangement, dun séparateur amovible, dun compartiment doublé avec zip dans lequel ranger vos effets personnels
 - Extérieur: 100 % en polypropylène incassable (matériau le plus résistant aux chocs et aux agents chimiques ), surface granulée sur le devant et larrière du bagage permettant de protéger la coque contre tout éraflure, nouveau système de fermeture principal avec une serrure à combinaison de codes et un cadenas homologué TSA par la douane américaine, 2 systèmes de fermeture supplémentaires (haut et bas ) automatique par pression pour fixer les deux coques de la valise entre elles, doubles roues 360° maniables et silencieuses, système trolley avec poignée ergonomique
+- Intérieur fonctionnel et volumineux: Intérieur entièrement doublé 150 D, valise composée de sangles à hauteur ajustable dans le compartiment principal, dune poche avec bonne capacité de rangement, dun séparateur amovible, dun compartiment doublé avec zip dans lequel ranger vos effets personnels
 - ELSEY est la marque de bagages immanquablement française pour tous vos déplacements et voyages depuis 1946. Des valises, sacs, sacoches et accessoires innovants au savoir-faire et au design uniques... Choisissez votre DELSEY dès maintenant !
 - Vous voulez voyager en toute sérénité? La collection MONCEY est le parfait compromis entre sécurité, maniabilité et robustesse ! Les valises de cette collection sont fabriquées en polypropylène, ce qui leur assure une résistance maximale, tout en offrant de beaux volumes intérieurs pour ravir tous les globe-trotteurs !
 
