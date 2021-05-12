@@ -28,8 +28,8 @@ Vous avez [Samsonite Cityscape Cartable  46 cm  30 L  Noir](https://www.amazon.f
 
 ℹ️:
 
-- Protection des poches pour bloquer les signaux RFID (empêchant laccès non autorisé à vos données personnelles : CB, Passeport…)
 - Passant au dos matelassé pour confort
+- Protection des poches pour bloquer les signaux RFID (empêchant laccès non autorisé à vos données personnelles : CB, Passeport…)
 - Poignée supérieure en néoprène matelassée pour un transport plus agréable
 - Base du sac waterproof et imperméable
 

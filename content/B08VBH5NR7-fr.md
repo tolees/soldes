@@ -28,8 +28,8 @@ C'est en vente [Capcom - Resident Evil VIllage  PS5 ](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Découvrez le "village" À lombre dun chteau ancien
 - Utilisez différentes armes et objets pour vaincre les nombreux ennemis et progresser dans laventure.
+- Découvrez le "village" À lombre dun chteau ancien
 - Lhistoire dethan winters continue dans resident evil village, 8ème opus de la série resident evil
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08VBH5NR7/?tag=tolees0d-21)
