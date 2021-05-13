@@ -28,7 +28,7 @@ Vous avez [Bessey KLI12 KliKlamp KLI Pince mâchoire ouverture 120/80 mm  Multic
 
 ℹ️:
 
-- Couleur : Argenté
 - Taille : 120 mm
+- Couleur : Argenté
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000JLSNS6/?tag=tolees0d-21)

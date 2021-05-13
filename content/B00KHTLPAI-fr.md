@@ -28,10 +28,10 @@ Vous avez [Tetra 244894 AquaArt Aquarium en kit Complet avec LED Blanc 30 l](htt
 
 ℹ️:
 
-- Filtre technologie EasyCrystal innovante avec 2 cartouches de rechange incluses dans la livraison, pour une eau propre et saine plus longtemps
-- Large ouverture pratique pour nourrir les animaux et avoir accès aux appareils
-- Aquarium en verre de haute qualité - Dimensions : 39,5 x 28 x 43 cm - Capacité : 30 l
-- Éclairage jour/nuit
 - Durée de vie moyenne de la LED : 50 000 heures
+- Aquarium en verre de haute qualité - Dimensions : 39,5 x 28 x 43 cm - Capacité : 30 l
+- Filtre technologie EasyCrystal innovante avec 2 cartouches de rechange incluses dans la livraison, pour une eau propre et saine plus longtemps
+- Éclairage jour/nuit
+- Large ouverture pratique pour nourrir les animaux et avoir accès aux appareils
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KHTLPAI/?tag=tolees0d-21)

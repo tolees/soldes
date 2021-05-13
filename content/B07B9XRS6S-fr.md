@@ -30,8 +30,8 @@ Vous avez [Bourjois - Bb Crème Healthy Mix - Anti-Fatigue et Révélateur d Ecl
 
 - Parfum frais et fruité
 - BB crème anti-fatigue qui unifie parfaitement votre teint et vos imperfections
-- Enrichie en vitamines A, C, E et B5 qui aident à réduire les signes de fatigue
 - Offre jusquà 24 heures dhydratation
+- Enrichie en vitamines A, C, E et B5 qui aident à réduire les signes de fatigue
 - Formule ultra-légère laissant la peau respirer et offrant une sensation peau nue
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B9XRS6S/?tag=tolees0d-21)
