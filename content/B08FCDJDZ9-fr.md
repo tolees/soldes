@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'mibao - 1296P Caméra de Surveillance Cam avec 25.01 % rabais '
-date: 2021-05-06 08:09:02
+date: 2021-05-13 18:44:40
 image: 'https://m.media-amazon.com/images/I/41PL3FjJRtL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [mibao - 1296P Caméra de Surveillance Caméra WiFi sans Fil  Cam
 
 ℹ️:
 
+- [AI Mobile Tracking] Lorsquun objet se déplace dans la plage de surveillance, la caméra tourne automatiquement après le déplacement de lobjet de détection, suit lobjet en mouvement et enregistre la vidéo dalarme, et lenvoie à lapplication mobile en temps réel.
+- 【2021 Dernière version】 1296P Caméra de surveillance , Mibao IP caméra WIFI , caméra de sécurité à domicile avec vision nocturne, détection de mouvement à distance, invite dapplication, audio bidirectionnel, travail avec Alexa
 - 【1296P Nouvelle technologie 】 Par rapport aux caméras 720P et 1080P ordinaires, cette caméra est équipée de pixels ultra-hauts 1296P, qui peuvent vous donner une qualité dimage plus claire, plus délicate et plus réaliste. Ne manquez pas chaque détail.
 - 【360 ° No Dead Angle Monitoring】 Panoramique 355 ° + Inclinaison 115 ° + Champ de prise de vue 100 ° = Angle de vision 360 °. Vous pouvez observer la situation chez vous à tout moment, nimporte où, nimporte où, même lorsque vous êtes à des milliers de kilomètres.
-- [AI Mobile Tracking] Lorsquun objet se déplace dans la plage de surveillance, la caméra tourne automatiquement après le déplacement de lobjet de détection, suit lobjet en mouvement et enregistre la vidéo dalarme, et lenvoie à lapplication mobile en temps réel.
 - 【Super Night Vision】 La caméra est équipée de lampes de nuit infrarouges 6 * 850 nm, pour vous fournir des effets de vision nocturne plus exceptionnels.Même la nuit, elle peut bien protéger votre maison et vous mettre plus à laise.
-- 【2021 Dernière version】 1296P Caméra de surveillance , Mibao IP caméra WIFI , caméra de sécurité à domicile avec vision nocturne, détection de mouvement à distance, invite dapplication, audio bidirectionnel, travail avec Alexa
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08FCDJDZ9/?tag=tolees0d-21)
