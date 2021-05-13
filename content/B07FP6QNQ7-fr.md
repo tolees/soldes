@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'LEGO 42096 Technic Porsche 911 RSR  Ense avec 20.00 % rabais '
-date: 2021-05-12 16:32:06
+title: 'LEGO 42096 Technic Porsche 911 RSR  Ense avec 23.33 % rabais '
+date: 2021-05-13 16:36:52
 image: 'https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -9,33 +9,33 @@ author: 'tole.es'
 slug: 'B07FP6QNQ7-fr LEGO 42096 Technic Porsche 911 RSR Ensemble de...'
 sku: 'B07FP6QNQ7-fr'
 tags: [ 'Jeux de construction','Jeux et Jouets','Jeux et jouets','lego', ]
-actualPrice: 119.99 EUR
+actualPrice: 115.0 EUR
 currency: EUR
-price: 119.99
+price: 115.0
 comparePrice: 149.99 EUR
 prodname: 'LEGO 42096 Technic Porsche 911 RSR  Ensemble de Construction avancé de Voiture de Course  modèle à Collectionner Exclusif'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21'
-descuento: '20.00'
-average: '124.105204545454'
+descuento: '23.33'
+average: '124.084557823129'
 ---
 
-C'est en vente [LEGO 42096 Technic Porsche 911 RSR  Ensemble de Construction avancé de Voiture de Course  modèle à Collectionner Exclusif](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)  à  20.00 % de réduction, prix final  119.99 EUR (original: 149.99 EUR) ici:
+C'est en vente [LEGO 42096 Technic Porsche 911 RSR  Ensemble de Construction avancé de Voiture de Course  modèle à Collectionner Exclusif](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)  à  23.33 % de réduction, prix final  115.0 EUR (original: 149.99 EUR) ici:
 
 [![LEGO 42096 Technic Porsche 911 RSR  Ense](https://m.media-amazon.com/images/I/51Iy4eoEOAL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)
 
 ℹ️:
 
-- Cet ensemble comprend 1 580 pièces.
-- Possibilité d’ouvrir les portes pour accéder à une cabine pleine de détails réalistes, comprenant un écran radar, une direction qui fonctionne, un système dextinction et même une carte du circuit Lagune Seca imprimée sur la porte du pilote.
-- La Porsche 911 RSR mesure plus de 13 cm de haut, 50 cm de long et 20 cm de large.
-- Permet de vérifier le moteur six cylindres à plat avec des pistons mobiles.
-- Cette voiture à collectionner est composée de coloris blanc, rouge et noir et d’une feuille d’autocollants pour avoir des détails supplémentaires.
-- Les ensembles LEGO Technic comprennent des mouvements et des mécanismes réalistes qui introduisent les jeunes constructeurs LEGO à lunivers de lingénierie dune façon accessible et réaliste.
-- La réplique du modèle Porsche 911 RSR avec une multitude de caractéristiques authentiques, y compris une aile arrière avec des supports « col de cygne », un diffuseur arrière étendu et des rétroviseurs aérodynamiques, plus des jantes à rayons noires et des phares avant et arrière réalistes. Comprend également une cabine détaillée, un différentiel qui fonctionne, une suspension indépendante et un moteur six cylindres à plat avec des pistons mobiles positionnés devant lessieu arrière.
 - Ce modèle LEGO Technic est conçu pour fournir une expérience de construction immersive et enrichissante.
 - À partir de 10 ans.
+- Cet ensemble comprend 1 580 pièces.
+- Permet de vérifier le moteur six cylindres à plat avec des pistons mobiles.
+- Cette voiture à collectionner est composée de coloris blanc, rouge et noir et d’une feuille d’autocollants pour avoir des détails supplémentaires.
+- Possibilité d’ouvrir les portes pour accéder à une cabine pleine de détails réalistes, comprenant un écran radar, une direction qui fonctionne, un système dextinction et même une carte du circuit Lagune Seca imprimée sur la porte du pilote.
+- La réplique du modèle Porsche 911 RSR avec une multitude de caractéristiques authentiques, y compris une aile arrière avec des supports « col de cygne », un diffuseur arrière étendu et des rétroviseurs aérodynamiques, plus des jantes à rayons noires et des phares avant et arrière réalistes. Comprend également une cabine détaillée, un différentiel qui fonctionne, une suspension indépendante et un moteur six cylindres à plat avec des pistons mobiles positionnés devant lessieu arrière.
+- La Porsche 911 RSR mesure plus de 13 cm de haut, 50 cm de long et 20 cm de large.
+- Les ensembles LEGO Technic comprennent des mouvements et des mécanismes réalistes qui introduisent les jeunes constructeurs LEGO à lunivers de lingénierie dune façon accessible et réaliste.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FP6QNQ7/?tag=tolees0d-21)

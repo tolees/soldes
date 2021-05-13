@@ -29,8 +29,8 @@ C'est en vente [LG cfv-300 Housse Noir Pochette pour Téléphone Portable  Hous
 ℹ️:
 
 - Poids du colis de larticle : 100 g
+- Quantité de colis darticles : 1
 - Numéro de modèle de larticle : CFV-300.AGEUBK
 - Couleur : Noir
-- Quantité de colis darticles : 1
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0711VBSWF/?tag=tolees0d-21)

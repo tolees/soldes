@@ -28,10 +28,10 @@ C'est en vente [Pentel SES15C Brush Sign Pen Set 4 pcs assortiment "hiver"](http
 
 ℹ️:
 
-- Idéal pour lillustration, la calligraphie et les croquis
 - Lot de 4 assortiments « hiver » : bleu acier ; bleu poudre ; gris clair ; bleu royal.
-- Couleur brillante à base deau.
+- Idéal pour lillustration, la calligraphie et les croquis
 - Pointe flexible en fibre pour traits épais et fins avec un seul outil.
 - produit fabriqué avec 82 % de matériaux recyclés (sauf pièces consommables et/ou de rechange).
+- Couleur brillante à base deau.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CDQ93Y3/?tag=tolees0d-21)

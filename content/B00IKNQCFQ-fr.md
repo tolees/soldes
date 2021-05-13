@@ -28,10 +28,10 @@ Vous avez [Living Nostalgia LNMTREE Arbre Tasse  Fer  Gris  28 x 28 x 18 cm](htt
 
 ℹ️:
 
-- Space-saving design keeps your kitchen clutter-free and your mugs neatly stored away. Measures 18.5 x 34 cm (7½" x 13½")
 - Sits nicely alongside Living Nostalgias wire bottle carrier (LNBCARRIER) and the wire sink tidy (LNSINK)
-- Twelve month guarantee
 - With a back to basics design inspired by a bygone era, this mug tree stand blends in beautifully with modern or traditional kitchens
 - Powder-coated with a beautiful warm grey finish, its sturdy metal frame holds up to 10 of your favourite mugs
+- Space-saving design keeps your kitchen clutter-free and your mugs neatly stored away. Measures 18.5 x 34 cm (7½" x 13½")
+- Twelve month guarantee
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IKNQCFQ/?tag=tolees0d-21)

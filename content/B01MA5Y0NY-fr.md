@@ -28,8 +28,8 @@ Vous avez [House of Card & Paper - House of Card & papier A5 250 g/m² carte 
 
 ℹ️:
 
+- Format A5 (148,5 x 210 mm)
 - Idéal pour faire des cartes de voeux
 - Blanc lisse carton de 250 g/m²
-- Format A5 (148,5 x 210 mm)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MA5Y0NY/?tag=tolees0d-21)
