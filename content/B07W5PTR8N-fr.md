@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '42.87 % rabais sur LEGO Hidden Side  Le métro de Newbury  A'
-date: 2021-05-09 14:45:41
+date: 2021-05-13 14:17:20
 image: 'https://m.media-amazon.com/images/I/51MxKMjgEFL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [LEGO Hidden Side  Le métro de Newbury  Appli AR Games  Set de jeu de
 
 ℹ️:
 
+- L’expérience de jeu en réalité augmentée (AR) est constamment mise à jour avec de nouveaux contenus, fantômes et événements spéciaux pour assurer un plaisir de jeu infini
+- Le métro sanime lorsqu’il est observé à travers un dispositif intelligent équipé de l’application gratuite de réalité augmentée LEGO, les enfants peuvent explorer les environs et résoudre des mystères
 - Comprend un modèle de métro numériquement interactif qui se transforme en portail Hidden Side, en créant un univers numérique pour un seul ou plusieurs joueurs
 - Lexpérience a été enrichie par la mise en place de loption multijoueur Compatible avec plus de 180 systèmes dexploitation et appareils Android - consultez la description du produit pour plus de détails
 - Comprend 3 figurines : Jack, Parker et Pete Peterson, une planche a roulettes, un velo et briques de plasma sont a la disposition des joueurs pour combattre le chef fantôme Rat Shaun
-- Le métro sanime lorsqu’il est observé à travers un dispositif intelligent équipé de l’application gratuite de réalité augmentée LEGO, les enfants peuvent explorer les environs et résoudre des mystères
-- L’expérience de jeu en réalité augmentée (AR) est constamment mise à jour avec de nouveaux contenus, fantômes et événements spéciaux pour assurer un plaisir de jeu infini
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W5PTR8N/?tag=tolees0d-21)

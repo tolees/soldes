@@ -28,10 +28,10 @@ C'est en vente [Power A - PowerA Fusion Casque Gamer Filaire avec Microphone Amo
 
 ℹ️:
 
-- CONFÉRENCE : idéal pour les jeux, ou les chats et visioconférences via Discord, TeamSpeak, Skype, Teams, GoToMeeting, Webex, Zoom et autres
 - CONÇU POUR UNE UTILISATION PROLONGÉE : un bandeau en mousse à mémoire de forme et des coussinets d’oreilles permettent déviter l’inconfort lors de longues sessions de jeu
-- COMPATIBLE AVEC TOUTES LES SOURCES AUDIO DE 3.5 MM : PlayStation 4, Xbox (One, One X, One S, 360), Nintendo Switch, Mac PC, Android et iOS
+- CONFÉRENCE : idéal pour les jeux, ou les chats et visioconférences via Discord, TeamSpeak, Skype, Teams, GoToMeeting, Webex, Zoom et autres
 - FACILITÉ DUTILISATION : commande du volume et de la mise en sourdine intégrée, située sur l’écouteur gauche. Le micro amovible avec bras métallique flexible reste dans la position souhaitée
 - RESTEZ DANS LE JEU : casque gamer filaire avec microphone, offrant un son immersif et une isolation phonique
+- COMPATIBLE AVEC TOUTES LES SOURCES AUDIO DE 3.5 MM : PlayStation 4, Xbox (One, One X, One S, 360), Nintendo Switch, Mac PC, Android et iOS
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06WLMX6N5/?tag=tolees0d-21)
