@@ -28,11 +28,11 @@ Vous avez [Onduleur Eaton Ellipse PRO 650 USB FR – Line-Interactive UPS – EL
 
 ℹ️:
 
-- 36 mois de garantie eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
-- 4 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 1 prise protection contre les surtensions uniquement - protection téléphone/fax/modem/réseau 10/100 (RJ45)
-- Ellipse PRO 650 VA / 400 watts
 - Tension nominale : 230 V
-- UPS avec afficheur et interface USB (câble USB et logiciel inclus)
+- Ellipse PRO 650 VA / 400 watts
+- 4 prises sorties FR : 3 prises protection contre les surtensions + batterie de secours, 1 prise protection contre les surtensions uniquement - protection téléphone/fax/modem/réseau 10/100 (RJ45)
 - Le ventilateur fonctionne sur batterie et en mode buck/boost (nous recommandons ce modèle onduleur pour un usage professionnel ou gaming. Pour un usage bureautique nous vous recommandons notre gamme Ellipse ECO).
+- UPS avec afficheur et interface USB (câble USB et logiciel inclus)
+- 36 mois de garantie eaton standard, batteries incluses (extension de garantie possible en option à 3 ans et 5 ans)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00D13RF6U/?tag=tolees0d-21)
