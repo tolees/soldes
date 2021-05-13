@@ -28,10 +28,10 @@ C'est en vente [J.ARMOR Supplément de citrulline en capsules | 1000 mg | Vigueu
 
 ℹ️:
 
-- contribue au maintien des taux normaux de testostérone et doxyde nitrique, à une fertilité et une reproduction normales, à loptimisation de la synthèse des protéines musculaires, à la production dénergie et à la récupération. idéal pour augmenter la masse musculaire, la charge dénergie avant lentraînement et la récupération physique
 - Supplément original jarmor Citrulline 90 avec cachet hologramme numéroté
-- Supplément pour la vigueur sexuelle, améliore la qualité et la durée des rapports sexuels
-- 100% citrulline malo-levo (citrulline à base dacide malique) biodisponibilité et absorption maximales par rapport à la base citrulline
+- contribue au maintien des taux normaux de testostérone et doxyde nitrique, à une fertilité et une reproduction normales, à loptimisation de la synthèse des protéines musculaires, à la production dénergie et à la récupération. idéal pour augmenter la masse musculaire, la charge dénergie avant lentraînement et la récupération physique
 - paquet de 90 capsules à libération rapide de 1369 g (poids net 123,2 g) dose quotidienne 3 cps
+- 100% citrulline malo-levo (citrulline à base dacide malique) biodisponibilité et absorption maximales par rapport à la base citrulline
+- Supplément pour la vigueur sexuelle, améliore la qualité et la durée des rapports sexuels
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071J5LTGD/?tag=tolees0d-21)
