@@ -28,10 +28,10 @@ Vous avez [Orient Hommes RA-AG0005L10B](https://www.amazon.fr/dp/B07MGNZ2VP/?tag
 
 ℹ️:
 
-- Cadran bleu et sangle bleu
 - Classique
 - Homme cuir Analogique
 - 30 meters
+- Cadran bleu et sangle bleu
 - Mouvement automatique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MGNZ2VP/?tag=tolees0d-21)
