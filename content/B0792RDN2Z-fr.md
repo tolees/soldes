@@ -28,11 +28,11 @@ Vous avez [LEGO®-Technic La grue tout terrain Jeu Garçon et Fille 11 Ans et Pl
 
 ℹ️:
 
-- Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
 - La grue tout-terrain mesure plus de 100 cm de haut, 66 cm de long et 26 cm de large en position de travail, et plus de 27 cm de haut 76 cm de long et 20 cm de large en position de conduite
-- Les compartiments de rangement souvrent pour accéder aux chaînes, aux outils et à lextincteur
 - Ce set comprend un moteur LEGO Power Functions permettant de contrôler les fonctions des parties supérieure et inférieure de la grue
-- 4057 pièce pour les filles et les garçons à partir de 11 ans
+- Les ensembles LEGO Technic sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite
+- Les compartiments de rangement souvrent pour accéder aux chaînes, aux outils et à lextincteur
 - Construisez l’énorme grue tout-terrain LEGO Technic
+- 4057 pièce pour les filles et les garçons à partir de 11 ans
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792RDN2Z/?tag=tolees0d-21)
