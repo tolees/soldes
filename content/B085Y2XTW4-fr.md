@@ -28,10 +28,10 @@ Vous avez [Venus Extra Smooth Rasoir Femme + 1 Lame de Rasoir Recharges 0% Irrit
 
 ℹ️:
 
-- Testé pour les peaux sensibles par les dermatologues
 - Le ruban hydratant vous protège des coupures
-- Rasoir avec 5 lames au revêtement de carbone adamantin pour une glisse optimale sur votre peau
 - Bande lubrifiante skinelixir, ressentez la dose parfaite de protection pour votre peau
 - Jusquà 100% douceur, 0% irritation (Etude consommateur USA, février 2018)
+- Testé pour les peaux sensibles par les dermatologues
+- Rasoir avec 5 lames au revêtement de carbone adamantin pour une glisse optimale sur votre peau
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B085Y2XTW4/?tag=tolees0d-21)
