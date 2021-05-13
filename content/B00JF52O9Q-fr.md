@@ -28,9 +28,9 @@ C'est en vente [Panasonic LEICA 15mm F1.7 | Objectif à focale fixe H-X015E-K  G
 
 ℹ️:
 
+- Objectif PanasonicLEICA DG Summilux 15mm F1.7 adapté aux montures micro 4/3 - Equivalence 35mm : 30mm
 - Mise au point mini 0,20m
 - Ultra compact, idéal pour les voyages
-- Objectif PanasonicLEICA DG Summilux 15mm F1.7 adapté aux montures micro 4/3 - Equivalence 35mm : 30mm
 - Poids : Env. 115g Diamètre filtre : 46mm Finition en métal
 - Focale fixe 15mm à très grande ouverture F1.7 (Min F16) avec une qualité dimage exceptionnelle LEICA. Idéal pour le photoreportage grace à sa compacité.
 

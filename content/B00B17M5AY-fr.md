@@ -28,7 +28,7 @@ C'est en vente [Kärcher Shampoing pour Voiture  6.295-750.0](https://www.amazon
 
 ℹ️:
 
-- KÃƒÂ¤rcher 1L, 3-in-1 Car Shampoo Plug and Clean - Pressure Washer Detergent
 - Car Shampoo
+- KÃƒÂ¤rcher 1L, 3-in-1 Car Shampoo Plug and Clean - Pressure Washer Detergent
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00B17M5AY/?tag=tolees0d-21)
