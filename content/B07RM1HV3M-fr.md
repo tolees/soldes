@@ -28,14 +28,14 @@ C'est en vente [Team Kalorik TKG SVC 1000 nettoyeur de moquette  1400 W  6 liter
 
 ℹ️:
 
-- Capacité du sac à poussières en toile réutilisable : 10 L
 - Tube ajustable
-- Longueur du câble d’alimentation : 5 m
-- Nombreux accessoires : brosse de sol classique, mini-brosse de sol, brosse de sol shampouineuse, mini-brosse de précision shampouineuse et embout-suceur plat
-- Puissance : 1400 W
 - Livré avec 3 produits spéciaux pour tapis et textiles de maison (un shampoing, un parfum et un réducteur de mousse)
-- 4-en-1 : aspirateur à poussières, aspirateur à eau, aspirateur avec filtration par eau et shampouineuse
-- Capacité du réservoir d’eau pour shampouineuse: 5 L
 - 4 roulettes dont 2 tournant à 360°
+- Puissance : 1400 W
+- Nombreux accessoires : brosse de sol classique, mini-brosse de sol, brosse de sol shampouineuse, mini-brosse de précision shampouineuse et embout-suceur plat
+- Longueur du câble d’alimentation : 5 m
+- 4-en-1 : aspirateur à poussières, aspirateur à eau, aspirateur avec filtration par eau et shampouineuse
+- Capacité du sac à poussières en toile réutilisable : 10 L
+- Capacité du réservoir d’eau pour shampouineuse: 5 L
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RM1HV3M/?tag=tolees0d-21)
