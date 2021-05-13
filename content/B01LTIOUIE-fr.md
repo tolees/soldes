@@ -28,9 +28,9 @@ C'est en vente [Tassimo Café Dosettes - 80 boissons L Or Espresso Splendente  l
 
 ℹ️:
 
-- Les machines TASSIMO préparent vos boissons de manière automatique en appuyant simplement sur un bouton
 - Espresso élégant et équilibré. Intensité 7
 - Grâce à la technologie TASSIMO IntelliEye, votre machine vous garantie la perfection à chaque tasse
+- Les machines TASSIMO préparent vos boissons de manière automatique en appuyant simplement sur un bouton
 - Café en dosettes compatibles avec les machines Tassimo
 - Espresso de 60 ml
 
