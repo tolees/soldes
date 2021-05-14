@@ -28,10 +28,10 @@ C'est en vente [LG Ultrafine 32UN500 32” Moniteur UHD 4K 3840x2160  60Hz  VA  
 
 ℹ️:
 
-- Étendez votre contenu sur lécran sans perte de résolution ni de netteté grâce à la technologie Super Resolution+
-- Rapport de contraste de couleur 3000:1 grâce au panneau VA avec une vitesse de réponse de 4ms (GtG)
 - Affiche plus de 90 % du spectre de couleur DCI-P3
 - Stabilisateur noir (technologie Black Stabilizer) qui permet des couleurs foncées différenciées
 - Haut-parleurs intégrés (2 x 5 W) pour une lecture complète du contenu audiovisuel.
+- Rapport de contraste de couleur 3000:1 grâce au panneau VA avec une vitesse de réponse de 4ms (GtG)
+- Étendez votre contenu sur lécran sans perte de résolution ni de netteté grâce à la technologie Super Resolution+
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HSZ3ZSD/?tag=tolees0d-21)

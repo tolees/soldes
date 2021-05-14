@@ -28,10 +28,10 @@ C'est en vente [LEGO®-City Le garage central Enfant de 4 Ans et Plus  Jouet de 
 
 ℹ️:
 
-- Les accessoires incluent 2 cônes de circulation, une tasse, une burette dhuile, un seau, des outils, des tuyaux déchappement, un baril de pétrole et une entrée dair.
-- Les ensembles LEGO 4+ sont spécialement conçus pour être à la fois simples et amusants pour les jeunes enfants. Ils permettent aux enfants de développer leur confiance en eux grâce à des instructions de montage simples, pour une entrée parfaite dans la
 - Ce superbe jouet de construction comprend également 3 véhicules : une voiture de sport rouge avec des roues rouges, une dépanneuse jaune et bleue avec un bras de grue et un camion-citerne avec un tuyau flexible.
 - Inclut 4 figurines LEGO City : Harl Hubbs, un mécanicien, un employé de la station-service et un conducteur de voiture de sport.
 - Cet ensemble de construction pour enfants comprend 3 bâtiments : une station de lavage avec lance et seau, un garage avec pont élévateur et une station-service avec tuyau flexible.
+- Les ensembles LEGO 4+ sont spécialement conçus pour être à la fois simples et amusants pour les jeunes enfants. Ils permettent aux enfants de développer leur confiance en eux grâce à des instructions de montage simples, pour une entrée parfaite dans la
+- Les accessoires incluent 2 cônes de circulation, une tasse, une burette dhuile, un seau, des outils, des tuyaux déchappement, un baril de pétrole et une entrée dair.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KTVR1H5/?tag=tolees0d-21)
