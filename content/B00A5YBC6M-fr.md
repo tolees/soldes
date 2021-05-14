@@ -28,10 +28,10 @@ Vous avez [Stanley STHT0-14102 Ciseaux multi-usages 240 mm](https://www.amazon.f
 
 ℹ️:
 
-- Vis de réglage des ciseaux entre eux - Poignées résistantes aux chutes et aux chocs - Poignées ergonomiques : coupe confortable et à moindre effort
 - Idéal pour la coupe de matériaux épais et résistants : cuir, carton, tissus, ficelles, vinyle, fils électriques…
-- Longueur de lame utile 110 mm - Lame en acier inoxydable résistante à la corrosion pour une longue durée de vie
-- Ergonomiques pour un plus grand confort et une coupe sans effort
+- Vis de réglage des ciseaux entre eux - Poignées résistantes aux chutes et aux chocs - Poignées ergonomiques : coupe confortable et à moindre effort
 - Lame micro-dentelée pour favoriser le maintien des matériaux lors de la coupe
+- Ergonomiques pour un plus grand confort et une coupe sans effort
+- Longueur de lame utile 110 mm - Lame en acier inoxydable résistante à la corrosion pour une longue durée de vie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00A5YBC6M/?tag=tolees0d-21)
