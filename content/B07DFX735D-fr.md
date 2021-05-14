@@ -28,9 +28,9 @@ C'est en vente [Calvin Klein Sport Brief 2pk Bikini  Noir  Black/Black 001   Lar
 
 ℹ️:
 
-- Taille mi-haute
-- 85 % nylon 15 % élasthanne
 - Jersey microfibre
+- 85 % nylon 15 % élasthanne
 - Lavable en machine
+- Taille mi-haute
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DFX735D/?tag=tolees0d-21)
