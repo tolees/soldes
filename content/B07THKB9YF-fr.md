@@ -29,9 +29,9 @@ C'est en vente [Beyamz Lampe Loupe - Loupe avec Lumière de 5 Dioptries - avec P
 ℹ️:
 
 - 【D Gradation en continu】Un appui long sur le bouton de luminosité vous permet de régler facilement la luminosité entre 10% et 100%. Option 3 températures de couleur - 3000K / 4000K / 6500K - pour répondre à vos différents besoins déclairage.
-- 【Arm Bras pivotant hautement réglable】 La tête de la lampe est réglable à 220 ° de haut en bas et à 350 ° de pivot, avec un bras long extensible de 35 à 70 cm.
-- 【Peu encombrant, support stable】 Sagrafe sur une surface plane jusquà 5 cm dépaisseur, économisant ainsi de lespace sur votre bureau, votre établi ou votre table. Une fois que le bras est positionné, il reste ferme. Ne cliquetera pas lorsque vous ajusterez l’angle.
-- 【Professional Eye Care】 Adopte un matériau translucide par diffusion avec un éclairage proche de la lumière du jour; émet une lumière douce sans fant?me, éblouissement ni scintillement.
 - 【Best Diopters】 5 Dioptries est un compromis optimal pour lire, coudre, tricoter, crocheter, perler, souder, etc. 5 Dioptries signifie une magnification maximale de 2,25x par mesure de longueur ou 5x par mesure de zone dun objet. Distance entre lentille et lobjet: 20cm
+- 【Arm Bras pivotant hautement réglable】 La tête de la lampe est réglable à 220 ° de haut en bas et à 350 ° de pivot, avec un bras long extensible de 35 à 70 cm.
+- 【Professional Eye Care】 Adopte un matériau translucide par diffusion avec un éclairage proche de la lumière du jour; émet une lumière douce sans fant?me, éblouissement ni scintillement.
+- 【Peu encombrant, support stable】 Sagrafe sur une surface plane jusquà 5 cm dépaisseur, économisant ainsi de lespace sur votre bureau, votre établi ou votre table. Une fois que le bras est positionné, il reste ferme. Ne cliquetera pas lorsque vous ajusterez l’angle.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07THKB9YF/?tag=tolees0d-21)
