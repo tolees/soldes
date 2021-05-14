@@ -28,8 +28,8 @@ C'est en vente [Arthur Martin AM311B Batteries 15 PCS  Aluminium  Noir  26 cm](h
 
 ℹ️:
 
-- Batt 10 pièces amov N-Poêles 20/24/28-Casseroles 16/20-Sauteuse 24 cm- 3 Couvercles S16/20/24-1Poignée Amovible- 5 Accessoires
-- intérieur anti adhérents pour un nettoyage facile et rapide+poignée bakélite avec bague acier de sécurité
 - Aluminium 2, 5mm épaisseur-compatible tous feux-
+- intérieur anti adhérents pour un nettoyage facile et rapide+poignée bakélite avec bague acier de sécurité
+- Batt 10 pièces amov N-Poêles 20/24/28-Casseroles 16/20-Sauteuse 24 cm- 3 Couvercles S16/20/24-1Poignée Amovible- 5 Accessoires
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01FP3FGIW/?tag=tolees0d-21)
