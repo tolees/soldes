@@ -28,10 +28,10 @@ Vous avez [Brennenstuhl 1199830 Garant S Enrouleur de câble IP44 avec câble 50
 
 ℹ️:
 
-- Puissance absorbée: 3 500 W
-- Enrouleur de câble "Garant S" IP44 50m avec câble bleu
 - Longueur du câble: 50 m
-- 3 prises avec mise à la terre protégées contre jets deau avec les couvercles de protection se refermant automatiquement
 - Câble: AT-N05V3V3-F 3G1,5
+- Puissance absorbée: 3 500 W
+- 3 prises avec mise à la terre protégées contre jets deau avec les couvercles de protection se refermant automatiquement
+- Enrouleur de câble "Garant S" IP44 50m avec câble bleu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B007WVIAA2/?tag=tolees0d-21)

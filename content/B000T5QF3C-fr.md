@@ -28,10 +28,10 @@ C'est en vente [Deglon 9916100-V Pince à Pate](https://www.amazon.fr/dp/B000T5Q
 
 ℹ️:
 
-- Matière: Inox
 - Classification: Cuisine & Pâtisserie
-- Garantie fournisseur: à vie
-- Gamme: Pâtisserie
 - Points Forts : Pince à chiqueter pour coller deux pâtes à gâteau ensemble
+- Garantie fournisseur: à vie
+- Matière: Inox
+- Gamme: Pâtisserie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000T5QF3C/?tag=tolees0d-21)
