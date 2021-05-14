@@ -28,8 +28,8 @@ C'est en vente [Corsair M65 Elite RGB Optique FPS Souris Gaming  18 000 DPI Opti
 
 ℹ️:
 
-- SOURIS CORSAIR
 - Connectivité: filaire
+- SOURIS CORSAIR
 - Taux de rapport Sélectionnable: 1000 Hz / 500 Hz / 250 Hz / 125 Hz
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KM88Y1Y/?tag=tolees0d-21)
