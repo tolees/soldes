@@ -28,8 +28,8 @@ C'est en vente [Miitopia  Nintendo Switch ](https://www.amazon.fr/dp/B08WY79KHY/
 
 ℹ️:
 
-- Ici, c’est vous qui faites le casting :
-- et regardez-les interagir dans des scènes absurdes et hilarantes !
 - donnez-leur un rôle
+- et regardez-les interagir dans des scènes absurdes et hilarantes !
+- Ici, c’est vous qui faites le casting :
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08WY79KHY/?tag=tolees0d-21)
