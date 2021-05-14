@@ -28,10 +28,10 @@ Vous avez [Rotho Roll Bob poubelle ronde 30l avec couvercle  Plastique  PP  sans
 
 ℹ️:
 
-- Confort : Poubelle en plastique avec couvercle coulissant - le couvercle souvre et se referme simplement en le poussant vers le haut - ,e pour les espaces de vie et de travail.
+- Optique : Poubelle en plastique de haute qualité (PP) en noir - La flèche sur le couvercle coulissant indique la fonction en un coup dœil - le bord large du couvercle fixe le sac à déchets
 - Hygiène : Nettoyage facile de la poubelle et du couvercle - grâce au plastique de haute qualité, aucune empreinte digitale nest laissée - poubelle sans BPA
 - Dimensions : 35,5 x 35,5 x 59,5 cm (LxLxH) - Capacité de la poubelle : 30 litres - Convient également comme poubelle simple au bureau, dans la chambre des enfants, la salle de bain, etc.
-- Optique : Poubelle en plastique de haute qualité (PP) en noir - La flèche sur le couvercle coulissant indique la fonction en un coup dœil - le bord large du couvercle fixe le sac à déchets
+- Confort : Poubelle en plastique avec couvercle coulissant - le couvercle souvre et se referme simplement en le poussant vers le haut - ,e pour les espaces de vie et de travail.
 - Contenu de la livraison : 1 x poubelle avec couvercle coulissant noir en matière plastiqueplastique (PP) - Fabriqué en Suisse
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01N7FNZX6/?tag=tolees0d-21)
