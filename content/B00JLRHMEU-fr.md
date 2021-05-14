@@ -28,9 +28,9 @@ Vous avez [Luminarc Pure Box Active - Boîte de Conservation hermétique en verr
 
 ℹ️:
 
-- Sain : avec le verre, pas de tâche, pas dodeur, pas de transfert vers les aliments
-- Hermétique : conservation optimale grâce à son couvercle à clip muni dun joint en silicone
 - Pratique : sutilise au micro-onde et au lave vaisselle
+- Hermétique : conservation optimale grâce à son couvercle à clip muni dun joint en silicone
+- Sain : avec le verre, pas de tâche, pas dodeur, pas de transfert vers les aliments
 - Résistant aux chocs : grâce à une base en verre trempé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JLRHMEU/?tag=tolees0d-21)
