@@ -28,8 +28,8 @@ Vous avez [Listerine Bain de Bouche 6 En 1 Total Care  250ml](https://www.amazon
 
 ℹ️:
 
-- Elimine les bactéries Rafraîchit l’haleine durablement
 - Réduit la plaque Renforce les dents
+- Elimine les bactéries Rafraîchit l’haleine durablement
 - Aide à prévenir les gencives sensibles Garde les dents plus blanches
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082VVRDQS/?tag=tolees0d-21)

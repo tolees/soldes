@@ -29,7 +29,7 @@ C'est en vente [NUK 10256419 Magic Cup Disque de rechange - Joint de silicone - 
 ℹ️:
 
 - De la marque Nuk
-- Disque de rechange - Joint de silicone
 - Couleur : Couleur Assortie (Turquoise / Blanc)
+- Disque de rechange - Joint de silicone
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01BY75GJW/?tag=tolees0d-21)
