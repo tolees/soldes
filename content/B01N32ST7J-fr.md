@@ -28,11 +28,11 @@ C'est en vente [EXTEL - 109119 - CLAVIER A CODE FILAIRE - SAFE](https://www.amaz
 
 ℹ️:
 
-- Permet de commander l’ouverture d’une motorisation de portail, d’une serrure électrique ou d’une gâche
+- Installation simple et rapide
+- Référence fournisseur Extel 109119
 - Boitier anti-vandales et étanche (IP65)
 - Ouverture par code ou badge ACCESS clavier rétroéclairé
+- Permet de commander l’ouverture d’une motorisation de portail, d’une serrure électrique ou d’une gâche
 - Fonction anti-arrachement pour bloquer le clavier
-- Référence fournisseur Extel 109119
-- Installation simple et rapide
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N32ST7J/?tag=tolees0d-21)
