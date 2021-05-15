@@ -30,8 +30,8 @@ C'est en vente [Zolux Jeanne Volière Intérieure/Extérieure pour Oiseau Exotiq
 
 - Volière en métal pour lintérieur et lextérieur avec roulette.
 - Dimensions intérieures : XX : 58 x 35,5 x 113 cm.
-- Equipée de 2 abreuvoirs, 6 perchoirs et une grille de fond.
 - Dimensions extérieures : XX : 78 x 48 x 156 cm
 - Facile à nettoyer avec son tiroir amovible
+- Equipée de 2 abreuvoirs, 6 perchoirs et une grille de fond.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01E083POK/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ C'est en vente [BAKTH 21.6V 4000mAh Batterie de Remplacement Li-ion pour Dyson V
 ℹ️:
 
 - 【Facile à installer et à utiliser en toute sécurité】Notre batterie de remplacement V6 est facile à installer et sadapte parfaitement. Certifié CE, FCC, RoHS safe. Il peut protéger contre les surcharges, les décharges excessives, les surintensités et les courts-circuits.
-- 【Excellente compatibilité】Entièrement compatible avec Dyson V6 DC58 DC59 DC61 DC62 DC72 DC74, Absolute, Animal, SV03 SV04 SV05 SV06 SV07 SV09 etc., compatible avec tous les aspirateurs de la série V6.
-- 【Service amical】Garantie de remboursement de 30 jours. Garantie de 12 mois. Si vous rencontrez un problème lors de lutilisation, contactez-nous.
 - 【Avis important】Après avoir utilisé la batterie, la batterie chauffe. Cest un phénomène normal. Veuillez ne pas le charger immédiatement, sinon il émettra une alarme de lumière rouge et affectera la durée de vie de la batterie. Recommandation: attendez pour refroidir avant de charger.
+- 【Service amical】Garantie de remboursement de 30 jours. Garantie de 12 mois. Si vous rencontrez un problème lors de lutilisation, contactez-nous.
+- 【Excellente compatibilité】Entièrement compatible avec Dyson V6 DC58 DC59 DC61 DC62 DC72 DC74, Absolute, Animal, SV03 SV04 SV05 SV06 SV07 SV09 etc., compatible avec tous les aspirateurs de la série V6.
 - 【Mettre à niveau une capacité plus élevée】Fabriqué avec des cellules de batterie au lithium de haute qualité, une capacité élevée de 4000 mAh, fournit une super aspiration et plus dautonomie pour votre aspirateur.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZVP1VRL/?tag=tolees0d-21)

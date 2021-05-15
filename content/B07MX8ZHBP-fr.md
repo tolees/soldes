@@ -30,8 +30,8 @@ Vous avez [Obor Théière en verre avec infuseur – Théière Obor pour fleurs 
 
 - Filtre intérieur amovible en acier inoxydable : filtrez les morceaux (comme des fruits aromatiques, des herbes, du thé ou des sachets de thé) et profitez des boissons savoureuses que vous voulez. Le filtre est facilement détachable pour se rincer et se nettoyer facilement.
 - Passe au micro-ondes et au four – Résistance à la chaleur de -20 à 150 °C. Elle peut être utilisée sur les cuisinières et les flammes nues. Il est recommandé de retirer la partie métallique lors de lutilisation au four à micro-ondes.
-- Capacité de 950 ml, idéale pour les amateurs de thé - 950 ml équivalent à deux canettes et demi de 355 ml de Coca-Cola - Idéale pour les amateurs de thé et de boissons à la maison ou au bureau, excellent cadeau à la maison ou au bureau.
 - Respectueuse de lenvironnement et saine. Fabriquée en verre de borosilicate de qualité et en acier inoxydable 304 de qualité alimentaire, sans BPA, sans plomb et autres produits chimiques toxiques, protège votre santé.
 - Design anti-éclaboussures : bouche de sortie de théière profilée fabriquée à la main pour un écoulement fluide de leau, elle empêche efficacement les éclaboussures.
+- Capacité de 950 ml, idéale pour les amateurs de thé - 950 ml équivalent à deux canettes et demi de 355 ml de Coca-Cola - Idéale pour les amateurs de thé et de boissons à la maison ou au bureau, excellent cadeau à la maison ou au bureau.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MX8ZHBP/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Carte Bluetooth Ziyituod 1200Mbps PCIe WiFi | Intel Wireless ac-
 
 ℹ️:
 
-- ➤Large plage sans fil --- Connectez-vous à votre WiFi de plus loin avec deux antennes externes à gain élevé assurant une plus grande portée et une stabilité améliorée
 - ➤Vitesse ultra-rapide --- Tirez pleinement parti de votre réseau avec les vitesses WiFi AC1200 (867 Mbps sur la bande 5 GHz et 300 Mbps sur la bande 2,4 GHz)
-- ➤Bluetooth 4.2 --- Obtenez une vitesse 2,5 fois plus rapide et une capacité de paquets 10 fois supérieure à celle du Bluetooth 4.0 (assurez-vous quil existe une interface F_USB disponible sur la carte mère)
-- ➤Compatibilité Windows --- Prend en charge Windows 10, 8.1, 8 et 7 (32/64 bits), CD de pilotes inclus.Si vous navez pas de CD Rom ou si vous rencontrez des difficultés avec le CD, veuillez visiter "www.ziyituod.net" ou obtenir de laide en envoyant un e-mail à Ziyituod@evisionde.com
 - ➤Installation facile --- Branchez ladaptateur dans un emplacement PCI-E disponible pour mettre à niveau votre bureau (tournevis et supports à profil bas et standard inclus)
+- ➤Compatibilité Windows --- Prend en charge Windows 10, 8.1, 8 et 7 (32/64 bits), CD de pilotes inclus.Si vous navez pas de CD Rom ou si vous rencontrez des difficultés avec le CD, veuillez visiter "www.ziyituod.net" ou obtenir de laide en envoyant un e-mail à Ziyituod@evisionde.com
+- ➤Large plage sans fil --- Connectez-vous à votre WiFi de plus loin avec deux antennes externes à gain élevé assurant une plus grande portée et une stabilité améliorée
+- ➤Bluetooth 4.2 --- Obtenez une vitesse 2,5 fois plus rapide et une capacité de paquets 10 fois supérieure à celle du Bluetooth 4.0 (assurez-vous quil existe une interface F_USB disponible sur la carte mère)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TC3MWCW/?tag=tolees0d-21)
