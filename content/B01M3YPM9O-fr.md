@@ -28,8 +28,8 @@ C'est en vente [PUMA Popcat  Beach & Pool Shoes Mixte  black-black-white  47 EU]
 
 ℹ️:
 
+- Sangle souple en synthétique au séchage rapide.
 - Semelle du pied confortable.
 - Semelle extérieure EVA injectée.
-- Sangle souple en synthétique au séchage rapide.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M3YPM9O/?tag=tolees0d-21)
