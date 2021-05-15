@@ -29,7 +29,7 @@ Vous avez [Le Petit Marseillais Douche pour Homme Santal Vanille 250 ml](https:/
 ℹ️:
 
 - Un parfum doux et ambré
-- Association crémeuse du Bois de Santal et de la douceur de la Vanille, le parfum de la douche crème Bois de Santal et Vanille Le Petit Marseillais vous invite à prendre soin de vous avec gourmandise. Votre peau est douce, hydratée et nourrie
 - pH neutre pour la peau / Testée sous contrôle dermatologique / Base lavant d’origine végétale et biodégradable* *Ingrédients de la base lavant facilement biodégradables
+- Association crémeuse du Bois de Santal et de la douceur de la Vanille, le parfum de la douche crème Bois de Santal et Vanille Le Petit Marseillais vous invite à prendre soin de vous avec gourmandise. Votre peau est douce, hydratée et nourrie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07YQFHP8R/?tag=tolees0d-21)

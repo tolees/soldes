@@ -28,12 +28,12 @@ Vous avez [Eastpak Out of Office Sac à dos  44 cm  27 L  Thunderhead Pine  Vert
 
 ℹ️:
 
-- Dans notre coloris Thunderhead Pine
+- Hauteur : 44 cm, Largeur : 29,5 cm, Profondeur : 22 cm
+- 100 % nylon
 - Aucun produit animal nest utilisé pour fabriquer ce produit 100 % végan
 - Compartiment principal avec des poches à lintérieur et sur le devant
+- Dans notre coloris Thunderhead Pine
 - Housse rembourrée pour ordinateur portable jusquà 13 pouces
-- 100 % nylon
 - Bretelles réglables et panneau dorsal rembourrés
-- Hauteur : 44 cm, Largeur : 29,5 cm, Profondeur : 22 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08BCQVHGY/?tag=tolees0d-21)

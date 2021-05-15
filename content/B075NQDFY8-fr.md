@@ -29,7 +29,7 @@ Vous avez [The Noble Collection - La Noble Collection Occamie de Créatures Magi
 ℹ️:
 
 - Produit sous licence officielle
-- Fabriqué avec des détails exquis
 - Créé par The Noble Collection
+- Fabriqué avec des détails exquis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075NQDFY8/?tag=tolees0d-21)
