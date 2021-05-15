@@ -29,7 +29,7 @@ C'est en vente [Nike PSG Y NK BRT STAD JSY SS AW T-Shirt Mixte Enfant  White/ Ol
 ℹ️:
 
 - Manches courtes
-- Chemise de football
 - Tissu extensible
+- Chemise de football
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088HBT7ZZ/?tag=tolees0d-21)
