@@ -29,8 +29,8 @@ C'est en vente [ViewSonic X10-4K - Projecteur DLP - LED - 3D - 2400 lumens - 384
 ℹ️:
 
 - Fabriqué en Chine
-- Dimensions de lemballage darticles (L x B x H) : 29.8 x 38.7 x 38.79 cm
-- Poids du colis de larticle : 6460 g
 - Quantité de colis darticles : 1
+- Poids du colis de larticle : 6460 g
+- Dimensions de lemballage darticles (L x B x H) : 29.8 x 38.7 x 38.79 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NQTZ15D/?tag=tolees0d-21)

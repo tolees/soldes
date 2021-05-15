@@ -28,10 +28,10 @@ C'est en vente [Corsair CX550M Alimentation PC  Semi-Modulaire  80 PLUS Bronze  
 
 ℹ️:
 
-- Garantie de cinq ans : la garantie dun fonctionnement fiable qui perdurera sur plusieurs assemblages
-- Température nominale de sortie continue C: 40 ° C
 - Ventilateur à régulation thermique : Fonctionnement silencieux à basse et moyenne charges. Facteur de forme de l’USP: ATX
+- Température nominale de sortie continue C: 40 ° C
 - Semi-modulaire : lassemblage et la mise à niveau de votre matériel nont jamais été aussi simples, pour un aspect des plus réussis
 - Certifiée 80 PLUS Bronze : fonctionnement très efficace tout en réduisant la chaleur excessive et les frais dexploitation. Heures MTBF: 100 000 heures
+- Garantie de cinq ans : la garantie dun fonctionnement fiable qui perdurera sur plusieurs assemblages
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B019NWRUXK/?tag=tolees0d-21)
