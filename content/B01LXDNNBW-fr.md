@@ -28,10 +28,10 @@ C'est en vente [Neewer Caméra Photo Vidéo Eclairage Kit : 48cm Extérieur 55W 
 
 ℹ️:
 
-- Un adaptateur de sabot est compatible avec la plupart des appareils photo reflex numériques et un support de smartphone pour la plupart des smartphones (iPhone 6, plus / 6/5 / 5S,Samsung Galaxy S6 Bord / S6 / S5, etc).
 - Le kit comprend: (1) 55W 5500K LED lumière anneau + (1) trépied déclairage + (1) tube souple + (1) kit de filtre + (1) adaptateur de sabot de tête trépied + (1) récepteur bluetooth + (1) adaptateur universel + (1) support de téléphone.
-- Le tube souple rend la lumière tourner librement pour la meilleure position. Les filtres en Couleur Blanc et Orange sont faits de matière plastique de haute transmission de la lumière avec une température de couleur stable.
-- 18"/ 48cm extérieur 55W 5500K 240 Pièces LED ampoules réglable avec une large plage de variation de 1% -100%. Conception SMD LED spécial, léger et portable. Product Attributes Bullet Points
 - Remarque: Le support de lumière dans le paquet est plié que les trois pattes sont vers le haut, donc vous devez dabord lajuster vers le bas comme indiqué sur limage; Lappareil photo et le smartphone dans limage ne sont pas inclus.
+- 18"/ 48cm extérieur 55W 5500K 240 Pièces LED ampoules réglable avec une large plage de variation de 1% -100%. Conception SMD LED spécial, léger et portable. Product Attributes Bullet Points
+- Un adaptateur de sabot est compatible avec la plupart des appareils photo reflex numériques et un support de smartphone pour la plupart des smartphones (iPhone 6, plus / 6/5 / 5S,Samsung Galaxy S6 Bord / S6 / S5, etc).
+- Le tube souple rend la lumière tourner librement pour la meilleure position. Les filtres en Couleur Blanc et Orange sont faits de matière plastique de haute transmission de la lumière avec une température de couleur stable.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LXDNNBW/?tag=tolees0d-21)

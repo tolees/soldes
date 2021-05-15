@@ -28,10 +28,10 @@ Vous avez [PELLOR Balançoire Arbre en Bois pour Enfant et Adulte Chargé Maximu
 
 ℹ️:
 
-- La dimension du siège en bois: 45x20x1.6cm/17.7x7.9x0.6 inch,chargé maximum :100kg
-- Pour ravir votre enfant ou vous même , vous pourrez installer cette balançoire sur un portique dans votre jardin.
 - Jardin parc portique balançoire en bois de haute qualité , spécialement conçu pour faciliter le montage et lutilisation, excellent cadeau et jouet extérieur pour les enfants samusent dans la cour
 - Cette balançoire en bois est robuste, elle est munie de cordes en chanvre synthétique très résistant face aux intempéries
 - Cette grande balançoire arbre a un siège en bois, des cordes poly-chanvre(120cm-180cm réglable ) et accessoires en acier galvanisé, ce qui rend très sûr et durable
+- Pour ravir votre enfant ou vous même , vous pourrez installer cette balançoire sur un portique dans votre jardin.
+- La dimension du siège en bois: 45x20x1.6cm/17.7x7.9x0.6 inch,chargé maximum :100kg
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06Y278VKC/?tag=tolees0d-21)
