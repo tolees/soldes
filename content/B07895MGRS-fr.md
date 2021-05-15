@@ -29,9 +29,9 @@ C'est en vente [Under Armour UA TEAM ISSUE WORDMARK  T-Shirt Homme](https://www.
 ℹ️:
 
 - Matériau et coupe – Under Armour Hommes T-Shirt avec logo, T-shirt confortable, coupe : loose, matériau : 60 % coton et 40 % polyester
-- Coupe loose – Le haut de sport est coupé ample et laisse ainsi une grande liberté de mouvements, pour une vraie sensation de confort
-- T-shirt à manches courtes ample – Ce T-shirt sport de qualité avec motif est en coton mélangé doux, et propose un confort maximal
-- Matériau extra-doux – Le coton doux du T-shirt de sport le rend très agréable à porter, et permet à la transpiration dêtre évacuée
 - Léger et respirant – Ce vêtement de sport confortable et léger est idéal pour lentrainement Il est respirant et sèche très vite
+- Coupe loose – Le haut de sport est coupé ample et laisse ainsi une grande liberté de mouvements, pour une vraie sensation de confort
+- Matériau extra-doux – Le coton doux du T-shirt de sport le rend très agréable à porter, et permet à la transpiration dêtre évacuée
+- T-shirt à manches courtes ample – Ce T-shirt sport de qualité avec motif est en coton mélangé doux, et propose un confort maximal
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07895MGRS/?tag=tolees0d-21)
