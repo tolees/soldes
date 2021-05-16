@@ -28,9 +28,9 @@ C'est en vente [CMT Orange Tools 901.190.11 Fraise à rainurer HM S 8 D 19 x 1
 
 ℹ️:
 
-- Longueur totale 54 mm
-- Diamètre 19 mm
 - Longueur de coupe 19 mm
+- Longueur totale 54 mm
 - travaille bien en bois naturel ou Compositi et est compatible avec nimporte quel elettro fresatrice ou pantografo
+- Diamètre 19 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00K5RP1DY/?tag=tolees0d-21)
