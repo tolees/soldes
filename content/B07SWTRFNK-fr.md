@@ -28,11 +28,11 @@ C'est en vente [Geox D Myria D  Sneakers Basses Femme  Beige  Lt Taupe C6738   3
 
 ℹ️:
 
-- Dessus : cuir - daim
-- Semelle intérieure : mesh
 - Matériau de semelle : caoutchouc gomme
-- Semelle intérieure amovible : true
 - Type de talons : plat
+- Semelle intérieure : mesh
 - Doublure : synthétique
+- Dessus : cuir - daim
+- Semelle intérieure amovible : true
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SWTRFNK/?tag=tolees0d-21)
