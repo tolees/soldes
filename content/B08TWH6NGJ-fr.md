@@ -29,9 +29,9 @@ Vous avez [TELMU Télescope Astronomique  Grossissement 30 et 48 fois  600/50mm 
 ℹ️:
 
 - ★ Viseur Infrarouge - Le télescope TELMU équipé dun viseur infrarouge, vous pouvez rapidement viser la cible à travers le faisceau rouge. Le viseur infrarouge na pas de grossissement. De plus, vous devez préparer et installer vous-même la pile CR2032.
-- ★ Trépied en Aluminium - Le télescope astronomique a un trépied rétractable, hauteur réglable: 60-110 cm. Il convient aux personnes de différentes hauteurs. Veuillez lutiliser sur une surface plane et déplier le trépied pour stabiliser le télescope.
+- ★ Télescope dEntrée de Gamme - Le télescope réfractif est facile à utiliser et convient aux amateurs débutants. Distance focale de lobjectif 600 mm / ouverture de lobjectif 50 mm = 12, convient pour lobservation détoiles binaires, de plusieurs étoiles, détoiles variables et damas détoiles.
 - ★ Grossissement - Télescope TELMU équipé de 2 oculaires, respectivement 12,5 mm et 20 mm, grossissement de 48X et 30X respectivement. Étant donné que plus le grossissement est élevé, plus le champ de vision est petit, nous vous recommandons dutiliser des oculaires de faible puissance pour localiser la cible.
 - ★ Conception Humanisée - Vous pouvez utiliser le support pour tenir votre téléphone, utiliser votre téléphone pour capturer le magnifique ciel étoilé et les paysages que vous voyez, et le partager avec vos amis et votre famille.
-- ★ Télescope dEntrée de Gamme - Le télescope réfractif est facile à utiliser et convient aux amateurs débutants. Distance focale de lobjectif 600 mm / ouverture de lobjectif 50 mm = 12, convient pour lobservation détoiles binaires, de plusieurs étoiles, détoiles variables et damas détoiles.
+- ★ Trépied en Aluminium - Le télescope astronomique a un trépied rétractable, hauteur réglable: 60-110 cm. Il convient aux personnes de différentes hauteurs. Veuillez lutiliser sur une surface plane et déplier le trépied pour stabiliser le télescope.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08TWH6NGJ/?tag=tolees0d-21)

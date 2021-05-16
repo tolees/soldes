@@ -28,10 +28,10 @@ C'est en vente [Paco Home Créateur Tapis Salon Original Combinaison De Couleurs
 
 ℹ️:
 
-- Très résistant / Peu salissant / Coloris: voir photo
-- Épaisseur: env.8mm
 - Composition100% polypropylène
-- Adapté au chauffage au sol
 - Poids env.1300g/m²
+- Très résistant / Peu salissant / Coloris: voir photo
+- Adapté au chauffage au sol
+- Épaisseur: env.8mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071FP1HBD/?tag=tolees0d-21)

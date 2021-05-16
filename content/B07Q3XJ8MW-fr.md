@@ -28,9 +28,9 @@ Vous avez [Pc Reconditionné LENOVO M92P Tiny Intel Core I5 3470T 2 90 GHZ/8GB/2
 
 ℹ️:
 
-- Windows 10 Pro
+- RAM 8 GB
 - Intel Core I5 3470T 2.90 Ghz
 - Hard DIsk 240 GB SSD
-- RAM 8 GB
+- Windows 10 Pro
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07Q3XJ8MW/?tag=tolees0d-21)

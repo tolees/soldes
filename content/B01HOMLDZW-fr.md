@@ -28,9 +28,9 @@ C'est en vente [B.K.Licht plafonnier LED salle de bain Ø 310mm  applique salle 
 
 ℹ️:
 
-- POLYVALENT - le luminaire peut être utilisé comme plafonnier ou bien en tant quapplique murale. Son design sobre et moderne sintégrera parfaitement à tous les intérieurs et dans toutes les pièces, pas seulement dans la salle de bain.
-- PRODUIT - lapplique est dotée dune douille E27 pour une puissance maximale de 40 Watt et est livrée sans ampoule. Nous recommandons lutilisation dune ampoule LED qui vous assure des économies dénergie jusquà 80% par rapport à une ampoule conventionnelle et une durée de vie bien supérieure.
-- PROTECTION IP44 - lindice de protection IP44 vous assure une protection contre les projections deau venant de toutes directions pour une utilisation en toute sécurité dans la salle de bain, la salle de douche ou la cuisine.
 - FINITION - ce plafonnier spécial salle de bain en métal finition chromé est équipé dun abat-jour en résine dépolié de haute qualité qui diffuse la lumière de façon harmonieuse et sans éblouissement.
+- PRODUIT - lapplique est dotée dune douille E27 pour une puissance maximale de 40 Watt et est livrée sans ampoule. Nous recommandons lutilisation dune ampoule LED qui vous assure des économies dénergie jusquà 80% par rapport à une ampoule conventionnelle et une durée de vie bien supérieure.
+- POLYVALENT - le luminaire peut être utilisé comme plafonnier ou bien en tant quapplique murale. Son design sobre et moderne sintégrera parfaitement à tous les intérieurs et dans toutes les pièces, pas seulement dans la salle de bain.
+- PROTECTION IP44 - lindice de protection IP44 vous assure une protection contre les projections deau venant de toutes directions pour une utilisation en toute sécurité dans la salle de bain, la salle de douche ou la cuisine.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01HOMLDZW/?tag=tolees0d-21)
