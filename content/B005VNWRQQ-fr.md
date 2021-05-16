@@ -28,8 +28,8 @@ C'est en vente [OPTIMA - AloeDent - Sensitive - Dentifrice - Aloe vera/échinac�
 
 ℹ️:
 
-- Un brossage régulier à lalose dent vous donne un soutien de première ligne dans la lutte contre les gencives douloureuses et les dents sensibles
-- En alose dent, leau est remplacée par du jus apaisant dalose verra
 - Combiné avec un puissant mélange dingrédients naturels sélectionnés avec soin pour créer un dentifrice vraiment exceptionnel
+- En alose dent, leau est remplacée par du jus apaisant dalose verra
+- Un brossage régulier à lalose dent vous donne un soutien de première ligne dans la lutte contre les gencives douloureuses et les dents sensibles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005VNWRQQ/?tag=tolees0d-21)
