@@ -28,10 +28,10 @@ Vous avez [CHEVIGNON FOR MEN](https://www.amazon.fr/dp/B000P22WWM/?tag=tolees0d-
 
 ℹ️:
 
-- Conseils dutilisation: Pour un sillage plus intense, vaporisez votre parfum sur les points de pulsation tels que le cou, la nuque, derrière les oreilles ou encore les poignets
-- CHEVIGNON FOR MEN
-- Aromatique, Boisé, Cuire
-- Eau de Toilette Pour Homme 100ml
 - Un parfum hommage, clinc dœil au "Rêve Américain" des années 50
+- CHEVIGNON FOR MEN
+- Eau de Toilette Pour Homme 100ml
+- Conseils dutilisation: Pour un sillage plus intense, vaporisez votre parfum sur les points de pulsation tels que le cou, la nuque, derrière les oreilles ou encore les poignets
+- Aromatique, Boisé, Cuire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000P22WWM/?tag=tolees0d-21)
