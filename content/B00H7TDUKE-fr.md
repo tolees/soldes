@@ -28,10 +28,10 @@ C'est en vente [HOMCOM - Tabouret massage a roulettes reglable en hauteur pivota
 
 ℹ️:
 
-- ✅ Hauteur dassise réglable de 42 à 54 cm à laide dun verin
-- ✅ assise rembourrée de 8 cm dépaisseur
-- ✅ Dossier ergonomique très confortable
 - ✅ Pivotant et facile à déplacer grâce à ses 5 roulettes
 - ✅ Entretien facile à laide dune éponge humide
+- ✅ Dossier ergonomique très confortable
+- ✅ Hauteur dassise réglable de 42 à 54 cm à laide dun verin
+- ✅ assise rembourrée de 8 cm dépaisseur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00H7TDUKE/?tag=tolees0d-21)

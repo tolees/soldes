@@ -28,10 +28,10 @@ C'est en vente [🇫🇷 PARAPHARMACIE CENTRALE 🇫🇷 - 30 Masques Chirurgica
 
 ℹ️:
 
-- ✅ RESISTANTS : Les élastiques de tous nos masques chirurgicaux sont vérifiés pour garantir une solidité maximale.
-- ✅ CONFORTABLE : Dun maintien excellent, notre masque chirurgical sadapte à toutes les morphologies du visage.
 - ✅ MADE IN FRANCE : Fabriqués près de Lille, nos masques chirurgicaux jetables répondent aux exigences de qualités les plus fortes, comme une filtration à 99,9% !
+- ✅ CONFORTABLE : Dun maintien excellent, notre masque chirurgical sadapte à toutes les morphologies du visage.
 - ✅ CERTIFICATION CE : Certifié conforme en France par Eurofins dans la catégorie : Masque Chirurgical Type II - Norme EN 14683.
 - ✅ PRATIQUE : Conditionné par sachet de 10, chaque membre de la famille peut emporter ses masques chirurgicaux !
+- ✅ RESISTANTS : Les élastiques de tous nos masques chirurgicaux sont vérifiés pour garantir une solidité maximale.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08M6H8NM9/?tag=tolees0d-21)

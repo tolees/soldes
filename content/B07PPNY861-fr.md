@@ -28,10 +28,10 @@ C'est en vente [Soundcore Flare Mini Enceinte Bluetooth 360° avec anneau de lum
 
 ℹ️:
 
-- Lenceinte Flare, en version mini : retrouvez lenceinte phare de Soundcore en format compact, avec une puissance de 2 x 5W et toujours une batterie de 12 heures qui se recharge en 3h30 seulement.
+- True Wireless Stereo : connectez deux enceintes Flare Mini depuis un même appareil pour deux fois plus de volume et un son stéréo sans délai.
 - Audio 360° : les doubles drivers positionnés de chaque côté de lenceinte associés à deux radiateurs passifs délivrent un son intense tout autour du Flare.
 - La lumière au service du son : le halo de LED réagit et se synchronise avec votre musique. Cinq thèmes de couleurs et cinq vitesses dillumination vous permettent de personnaliser lexpérience depuis lappli Soundcore (iOS et Android).
+- Lenceinte Flare, en version mini : retrouvez lenceinte phare de Soundcore en format compact, avec une puissance de 2 x 5W et toujours une batterie de 12 heures qui se recharge en 3h30 seulement.
 - A emporter au bord de la piscine : la protection imperméable IPX7 ultra-sûre résiste à la pluie, aux éclaboussures et même à une immersion totale dans leau.
-- True Wireless Stereo : connectez deux enceintes Flare Mini depuis un même appareil pour deux fois plus de volume et un son stéréo sans délai.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PPNY861/?tag=tolees0d-21)

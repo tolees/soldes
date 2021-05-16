@@ -30,8 +30,8 @@ Vous avez [Bomcosy 2 Barres LED UV 6W  395nm Tube LED Lumière Noire  Lumière D
 
 - INSTALLATION FACILE: Livré avec un câble USB de 1 m avec interrupteur marche / arrêt, il est facile de connecter à n’importe quel port USB ou à n’importe quel adaptateur ou banque de puissance avec port USB 5V
 - BARRE UV DE QUALITE : Réglette LED de lumière noire 6W avec LEDs ultraviolets, longueur donde de 395~400 nm, niveau UV-A, inoffensif pour les yeux ou la peau des humains, idéal pour illuminer la plupart des pigments, peintures et colorants réactifs avec de la lumière UV.
-- ENDROIT DUTILISATION: Créer des atmosphères époustouflantes pour les concerts, les fêtes, les scènes de DJ, etc. Peut être utilisé avec les peintures UV corporelles et la fluorescence
 - GARANTIE UN AN : On vous offre un service client rapide et satisfaisant. Une garantie de lun an du produit et un service amical 24 heures sur 24 sont livrés avec la barre lumière UV de qualité!
 - DURABLE ET ÉNERGÉTIQUE : En utilisant des LED, cette bande UV est durable et économe en énergie. Faible génération de chaleur la rend plus fiable jusquà une durée de vie de 30 000 heures.
+- ENDROIT DUTILISATION: Créer des atmosphères époustouflantes pour les concerts, les fêtes, les scènes de DJ, etc. Peut être utilisé avec les peintures UV corporelles et la fluorescence
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MFS6XCR/?tag=tolees0d-21)

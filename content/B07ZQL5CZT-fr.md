@@ -28,13 +28,13 @@ C'est en vente [Objectif TAMRON - 24mm F/2 8 Di III OSD M1:2 - Monture Sony FE](
 
 ℹ️:
 
-- EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
-- Taille de filtre de 67mm pour toute la gamme
-- Mise au point minimale de 0,15m
-- Construction tout temps : joints d’étanchéité et traitement au fluor
 - Compatibles avec les technologies Sony : Eye AF, etc
+- EXCEPTIONNEL : garantie constructeur de 5 ans gratuite (conditions : achat dans le réseau de revendeurs agréés)
+- Construction tout temps : joints d’étanchéité et traitement au fluor
+- Mise au point minimale de 0,15m
 - Compact (64 mm) et léger (210g)
 - Rapport de grossissement de 1:2
+- Taille de filtre de 67mm pour toute la gamme
 - Hautes performance optiques : revêtement BBAR (antireflet)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07ZQL5CZT/?tag=tolees0d-21)
