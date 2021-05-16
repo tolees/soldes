@@ -28,11 +28,11 @@ Vous avez [Lenspen NSKLK-1 Sensor Loupe Kit Loupe éclairante + stylet CCD + poi
 
 ℹ️:
 
-- Loupe éclairante: Oui
-- Poire soufflante: Oui
-- Souffleur LensPen Hurricane pour éliminer toute poussière sèche ou particules
-- Stylo nettoyant: Oui
 - Description du produit: Lenspen - Sensor Loupe Kit
+- Souffleur LensPen Hurricane pour éliminer toute poussière sèche ou particules
+- Loupe éclairante: Oui
 - Type de produit: Loupe éclairante + stylet CCD + poire
+- Poire soufflante: Oui
+- Stylo nettoyant: Oui
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B009JBK6RS/?tag=tolees0d-21)
