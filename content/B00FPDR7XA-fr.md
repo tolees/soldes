@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Toner Cartridge Hp 827a avec 28.45 % rabais '
-date: 2021-05-14 11:10:58
+date: 2021-05-15 23:24:52
 image: 'https://m.media-amazon.com/images/I/41pPS7cCSSL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

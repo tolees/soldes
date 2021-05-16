@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '66.21 % rabais sur Stanley STHT0-14102 Ciseaux multi-usages'
-date: 2021-05-14 11:10:44
+date: 2021-05-15 23:24:36
 image: 'https://m.media-amazon.com/images/I/31X7TESiJIL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Stanley STHT0-14102 Ciseaux multi-usages 240 mm](https://www.amazon.f
 
 ℹ️:
 
+- Ergonomiques pour un plus grand confort et une coupe sans effort
+- Lame micro-dentelée pour favoriser le maintien des matériaux lors de la coupe
 - Idéal pour la coupe de matériaux épais et résistants : cuir, carton, tissus, ficelles, vinyle, fils électriques…
 - Vis de réglage des ciseaux entre eux - Poignées résistantes aux chutes et aux chocs - Poignées ergonomiques : coupe confortable et à moindre effort
-- Lame micro-dentelée pour favoriser le maintien des matériaux lors de la coupe
-- Ergonomiques pour un plus grand confort et une coupe sans effort
 - Longueur de lame utile 110 mm - Lame en acier inoxydable résistante à la corrosion pour une longue durée de vie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00A5YBC6M/?tag=tolees0d-21)
