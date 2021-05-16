@@ -28,9 +28,9 @@ C'est en vente [GROHE Mitigeur monocommande Lavabo Taille M Eurosmart Cosmopolit
 
 ℹ️:
 
-- GROHE StarLight Chrome éclatant et durable - GROHE EcoJoy économie d’eau, mousseur 5 l/min
 - GROHE QuickFix installation rapide - Corps lisse
 - Monotrou sur plage - Levier de commande métallique
+- GROHE StarLight Chrome éclatant et durable - GROHE EcoJoy économie d’eau, mousseur 5 l/min
 - GROHE SilkMove ES, Cartouche en céramique 35 mm avec économie d’énergie ouverture eau froide au centre - Inclus : Limiteur de température ajustable - Flexibles de raccordement souples, sertis d’usine
 - Saillie (en mm) : 122 - Hauteur sous bec (en mm) : 98
 

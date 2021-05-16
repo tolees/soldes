@@ -28,10 +28,10 @@ Vous avez [NITRAS Nylotex 3520 Lot de 12 paires de gants de travail en nylon et 
 
 ℹ️:
 
-- Très souples et maniables, même au contact de matériaux humides et glissants.
 - Très bonne résistance à labrasion.
-- Gants tricot avec revêtement latex sur la paume et le bout de doigt.
-- EN 388 - 3121.
+- Très souples et maniables, même au contact de matériaux humides et glissants.
 - Gants sans coutures assurant un confort de port optimal.
+- EN 388 - 3121.
+- Gants tricot avec revêtement latex sur la paume et le bout de doigt.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B007VOG5T8/?tag=tolees0d-21)

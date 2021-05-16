@@ -29,7 +29,7 @@ Vous avez [COLAB Shampooing Sec Licorne](https://www.amazon.fr/dp/B078GVF1T6/?ta
 ℹ️:
 
 - Senteur Licorne
-- Shampooing sec
 - Elimine lexcès de sébum
+- Shampooing sec
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078GVF1T6/?tag=tolees0d-21)

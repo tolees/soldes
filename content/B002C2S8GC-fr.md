@@ -28,12 +28,12 @@ Vous avez [Clairefontaine 8251C Un Cahier à Spirale Perforé - A4+ 22 5x29 7 cm
 
 ℹ️:
 
-- COULEURS DISPONIBLES : noir, vert chlorophylle, bleu klein et rouge. Livraison aléatoire
-- FEUILLES : détachables et perforées 4 trous pour intégrer facilement un classeur
-- DOUCEUR DE L’ÉCRITURE : papier Clairefontaine Blanc Vélin Velouté 90 g/m² de QUALITÉ SUPÉRIEURE avec une opacité et une résistance remarquables
 - DOUBLE SPIRALE RENFORCÉE : permet une pleine ouverture, idéal pour lutilisation recto/verso des feuilles
+- DOUCEUR DE L’ÉCRITURE : papier Clairefontaine Blanc Vélin Velouté 90 g/m² de QUALITÉ SUPÉRIEURE avec une opacité et une résistance remarquables
 - GRAND FORMAT : le standard, pour une plus grande surface dexpression
+- FEUILLES : détachables et perforées 4 trous pour intégrer facilement un classeur
 - COUVERTURE : carte pelliculée lavable pour une plus longue durée de vie du cahier
+- COULEURS DISPONIBLES : noir, vert chlorophylle, bleu klein et rouge. Livraison aléatoire
 - CERTIFIÉ PEFC : pour la gestion durable des forêts
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002C2S8GC/?tag=tolees0d-21)
