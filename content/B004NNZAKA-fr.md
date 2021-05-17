@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '34.37 % rabais sur My.Size 36 Préservatifs 69 mm'
-date: 2021-04-19 03:42:38
+date: 2021-05-16 23:43:15
 image: 'https://m.media-amazon.com/images/I/31tZb107sHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
