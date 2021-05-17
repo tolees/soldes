@@ -29,11 +29,11 @@ Vous avez [Carte Mémoire CompactFlash SanDisk Extreme Pro 256 Go UDMA7  SDCFXPS
 ℹ️:
 
 - Capacité : 256 Go
-- Saisissez des vid?os de qualit? cin?ma avec VPG-69
-- Type de Carte Flash : CompactFlash
 - Vitesse décriture jusquà 140 Mo/s
 - Vitesse de lecture jusquà 160 Mo/s
-- Description du produit : Sandisk Extreme Pro
+- Type de Carte Flash : CompactFlash
 - Conçue pour les vidéastes et les photographes professionnels
+- Saisissez des vid?os de qualit? cin?ma avec VPG-69
+- Description du produit : Sandisk Extreme Pro
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00FBSV9W4/?tag=tolees0d-21)

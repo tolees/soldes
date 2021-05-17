@@ -29,9 +29,9 @@ Vous avez [UMBRA Ribbon Clock. Horloge murale silencieuse Ribbon  en métal  col
 ℹ️:
 
 - Conçu par la designer Michelle Ivankovic pour Umbra.
-- Cette Horloge murale est pourvue dun Mécanisme de qualité, précis et silencieux, donc pas de tic tac! Elle comprend une trotteuse, et les heures sont indiquées par les plis du ruban en métal.
 - À propos dUmbra: Une entreprise mondiale de conception d’articles de décoration offrant un design original, moderne, décontracté, fonctionnel et abordable pour toute la maison.
-- Le design particulièrement original de cette horloge lui confère un aspect résolument moderne et design. Les rubans de métal ont également quelque chose de floral, et les différents coloris disponibles pour cette horloge permettent de combiner cette horlo
 - Horloge murale de qualité avec un Mécanisme de haute précision. Cette horloge utilise une pile de 1.5V AA non fournie.
+- Cette Horloge murale est pourvue dun Mécanisme de qualité, précis et silencieux, donc pas de tic tac! Elle comprend une trotteuse, et les heures sont indiquées par les plis du ruban en métal.
+- Le design particulièrement original de cette horloge lui confère un aspect résolument moderne et design. Les rubans de métal ont également quelque chose de floral, et les différents coloris disponibles pour cette horloge permettent de combiner cette horlo
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0000D8GVC/?tag=tolees0d-21)

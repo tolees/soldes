@@ -28,14 +28,14 @@ Vous avez [Krups Nespresso - Krups Vertuo Plus blanc Machine expresso  Nespresso
 
 ℹ️:
 
-- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
-- Réparabilité 15 ans, Garantie 2 ans
-- ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
-- OUVERTURE ET FERMETURE AUTOMATIQUES
-- RESERVOIR DEAU AMOVIBLE
-- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur choisie
 - EJECTION AUTOMATIQUE des capsules
-- Technologie d’extraction du café par CENTRIFUSION pour un café de haute qualité
+- OUVERTURE ET FERMETURE AUTOMATIQUES
+- RECONNAISSANCE AUTOMATIQUE DE LA CAPSULE pour une adaptation optimale des paramètres d’extraction du café
+- UN SEUL BOUTON pour réaliser un café quelle que soit la longueur choisie
+- ARRET AUTOMATIQUE DE LA MACHINE : 9 minutes
+- RESERVOIR DEAU AMOVIBLE
 - 1 machine, 5 TAILLES DE TASSE pour s’adapter à toutes vos envies : de l’Espresso à l’Alto, en passant par le Mug
+- Réparabilité 15 ans, Garantie 2 ans
+- Technologie d’extraction du café par CENTRIFUSION pour un café de haute qualité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07D9W1Q6D/?tag=tolees0d-21)

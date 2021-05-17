@@ -28,10 +28,10 @@ Vous avez [Stonemaier Games STM638 Scythe Planche modulaire Couleurs mélangées
 
 ℹ️:
 
-- Les emplacements des cartes et des factions changent chaque fois que vous jouez.
-- Entre le tableau double face, le carrelage double face et le carrelage de base de la maison, le panneau modulaire crée des millions de mises en page possibles.
 - La carte modulaire Scythe ajoute un nouveau niveau de variabilité à Scythe
-- Il ne sagit pas dun jeu autonome. Une copie de faux est nécessaire pour jouer.
 - La planche et les carreaux sont recto-verso pour maximiser la variabilité.
+- Entre le tableau double face, le carrelage double face et le carrelage de base de la maison, le panneau modulaire crée des millions de mises en page possibles.
+- Il ne sagit pas dun jeu autonome. Une copie de faux est nécessaire pour jouer.
+- Les emplacements des cartes et des factions changent chaque fois que vous jouez.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07RX6XR6Z/?tag=tolees0d-21)
