@@ -28,9 +28,9 @@ Vous avez [Hubsan H507A X4 Star Pro Quadcopter Drone RC Wifi FPV Selfie Blue 255
 
 ℹ️:
 
-- Camera 720p
 - Retour automatique
-- Portée 100 m
 - Gps
+- Portée 100 m
+- Camera 720p
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06ZZSRDNK/?tag=tolees0d-21)
