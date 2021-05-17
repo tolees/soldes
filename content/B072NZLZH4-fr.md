@@ -28,9 +28,9 @@ Vous avez [Vilac- Boîte à Musique Chaperon Rouge Shinzi Katoh  7804](https://w
 
 ℹ️:
 
-- Boite à musique
-- Dessin petit chaperon rouge
 - Fabriquée en France
+- Dessin petit chaperon rouge
 - Fabriqué en:- France
+- Boite à musique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B072NZLZH4/?tag=tolees0d-21)
