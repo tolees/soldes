@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '79.97 % rabais sur Hubsan H507A X4 Star Pro Quadcopter Dron'
-date: 2021-04-26 20:03:54
+date: 2021-05-17 07:47:16
 image: 'https://m.media-amazon.com/images/I/41hwy4CD+fL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ Vous avez [Hubsan H507A X4 Star Pro Quadcopter Drone RC Wifi FPV Selfie Blue 255
 
 ℹ️:
 
+- Portée 100 m
+- Gps
 - Retour automatique
 - Camera 720p
-- Gps
-- Portée 100 m
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06ZZSRDNK/?tag=tolees0d-21)

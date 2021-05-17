@@ -28,10 +28,10 @@ Vous avez [KPCB Tech Machine à Coudre avec Kit de Couture Adaptée aux Débutan
 
 ℹ️:
 
-- 【Convient aux débutants】 Équipé dun seul mode de point droit, il sagit simplement du processus de couture. Pour les débutants, cette mini machine à coudre serait un bon choix pour apprendre la couture.
+- 【Manuel et vidéo】 Un manuel détaillé est joint sur la boîte et il est facile daccéder aux vidéos tutorielles créées par KPCB. Nous vous suggérons de lire lindication et de regarder des vidéos avant de coudre.
+- 【Kit de couture】 Il comprend 32 canettes, un ciseau, 5 aiguilles, un enfileur, un dé et un découseur. Ce kit de couture est compatible avec la machine à coudre 201 et offre plus de choix de fil en couleurs.
 - 【Adecuada para varios tipos de tela】 dado que la máquina cose con hilo superior e inferior, sus puntadas son robustas y precisas, a pesar de su pequeño tamaño. Es adecuada para varios tipos de telas, contes como el algodón, fieltro, telas sintéticas, cuero fino, etc.
 - 【Dos velocidades & controlador de pie】 La lámpara integrada y el cortador de hilo side facilitan aún más el trabajo. La máquina tiene dos velocidades de costura diferentes, así como dos opciones de control diferentes: a través del interruptor de on/off o a través del pedal incluido.
-- 【Kit de couture】 Il comprend 32 canettes, un ciseau, 5 aiguilles, un enfileur, un dé et un découseur. Ce kit de couture est compatible avec la machine à coudre 201 et offre plus de choix de fil en couleurs.
-- 【Manuel et vidéo】 Un manuel détaillé est joint sur la boîte et il est facile daccéder aux vidéos tutorielles créées par KPCB. Nous vous suggérons de lire lindication et de regarder des vidéos avant de coudre.
+- 【Convient aux débutants】 Équipé dun seul mode de point droit, il sagit simplement du processus de couture. Pour les débutants, cette mini machine à coudre serait un bon choix pour apprendre la couture.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08GS96GWH/?tag=tolees0d-21)

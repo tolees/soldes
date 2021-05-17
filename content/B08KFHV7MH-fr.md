@@ -28,9 +28,9 @@ C'est en vente [YC COMPANY - Chargeur Câble compatible iPhone iPad  Câble Ligh
 
 ℹ️:
 
-- 🌲[Longue Durée] - Notre câble lightning pour produit Apple est réalisé avec des matériaux durables et résistants. Il peut supporter plus de 10000 cycles de charge et vous confère une protection de la température et du survoltage sur vos appareils.
-- 📦[Ce que vous obtenez] - Le colis contient un chargeur pour prise murale européenne et un câble Lightning-USB de 1 mètre.
-- 📱[Compatibilité parfaite] - Cable lightning compatible avec iPhone 12/12 Pro/11/11 Pro/XS/XS Max/XR/X/8 Plus/8/7 Plus/7/6s Plus/6s/6 Plus/6/5s/5c/5/SE, iPad Pro / Air / Mini, iPod Touch 5e / Nano 7e génération.
 - ⚡[Synchronisation et charge rapide] - Chargeur compatible pour iPhone Ultra-rapide. Synchronisez et transférez des données simplement et rapidement. Chargement de votre appareil sans message d’erreur. Chargeur rapide et efficace pour gagner du temps.
+- 📱[Compatibilité parfaite] - Cable lightning compatible avec iPhone 12/12 Pro/11/11 Pro/XS/XS Max/XR/X/8 Plus/8/7 Plus/7/6s Plus/6s/6 Plus/6/5s/5c/5/SE, iPad Pro / Air / Mini, iPod Touch 5e / Nano 7e génération.
+- 📦[Ce que vous obtenez] - Le colis contient un chargeur pour prise murale européenne et un câble Lightning-USB de 1 mètre.
+- 🌲[Longue Durée] - Notre câble lightning pour produit Apple est réalisé avec des matériaux durables et résistants. Il peut supporter plus de 10000 cycles de charge et vous confère une protection de la température et du survoltage sur vos appareils.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KFHV7MH/?tag=tolees0d-21)
