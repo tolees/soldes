@@ -28,9 +28,9 @@ Vous avez [BUSHNELL - Jumelles pour Adultes - Legacy - 10x50 - Noir - Prisme Por
 
 ℹ️:
 
-- Œilletons Twist-Up
 - Construction étanche IPX7 - Les optiques scellées à joint torique restent totalement impérméables, même lorsquelles sont immergées sous 1 mètre deau pendant 30 minutes maximum.
 - Entièrement traitées multicouche - Plusieurs couches de revêtement antireflet sur toutes les surfaces air-verre produisent des images lumineuses à contraste élevé.
+- Œilletons Twist-Up
 - Molette de mise au point central surdimensionnée pour des ajustements faciles
 - Lentilles traitées multicouches - garantissent une transmission lumineuse, une luminosité et une netteté dimage exceptionnelles avec un rendu naturel des couleurs
 

@@ -28,9 +28,9 @@ C'est en vente [Fujifilm Demi étui en Cuir pour BLC X-E3 Noir](https://www.amaz
 
 ℹ️:
 
-- couleur noir
 - demi-étuis cuir noir, courroie de cou, notice
 - étuis de protection en cuir
+- couleur noir
 - couleur noir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B075CQKZJM/?tag=tolees0d-21)
