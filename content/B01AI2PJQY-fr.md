@@ -28,15 +28,15 @@ Vous avez [Bosch Home and Garden - Débroussailleuse Bosch - AFS 23-37  1000W  l
 
 ℹ️:
 
-- Moteur puissant 1000w pour un travail de coupe optimal
 - poignée intelligente : anti-rebond qui permet dabsorber les chocs et stockage des fils pour un travail en continu
-- Conception ergonomique pour un travail confortable : équilibrage de loutil avec une répartition des poids étudiée, sangle de maintien, double poignée et softgrip pour un confort de travail
-- largeur de coupe fils : 37 cm - diam 3,5 mm - diam lame 3 dents : 23 cm
-- Accessoires fournis : Lame de débroussailleuse – 1 pièce , Fil haute performance 37 cm – 3 pièces
 - Changement dun système de coupe à lautre simple
-- Type dalimentation: Filaire électrique
+- largeur de coupe fils : 37 cm - diam 3,5 mm - diam lame 3 dents : 23 cm
 - Double système de coupe : à lame 3 dents et à fil ø 3,5mm : pour une très grande efficacité de coupe
-- Sécurité du moteur à larrière
 - Débroussailleuse puissante et ergonomique pour venir à bout des herbes les plus résistantes!
+- Accessoires fournis : Lame de débroussailleuse – 1 pièce , Fil haute performance 37 cm – 3 pièces
+- Sécurité du moteur à larrière
+- Moteur puissant 1000w pour un travail de coupe optimal
+- Type dalimentation: Filaire électrique
+- Conception ergonomique pour un travail confortable : équilibrage de loutil avec une répartition des poids étudiée, sangle de maintien, double poignée et softgrip pour un confort de travail
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01AI2PJQY/?tag=tolees0d-21)

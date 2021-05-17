@@ -28,13 +28,13 @@ C'est en vente [LEGO®-4+ Toy Story 4™ Le carnaval en folie de Buzz et Woody !
 
 ℹ️:
 
-- Pixar ; comprend également un magasin de crème glacée avec une caisse, une table et des bancs
 - Le jeu de tir du carnaval mesure plus de 10 cm de haut, 12 cm de large et 3 cm de profondeur
 - Un moyen daider son enfant à rejouer des scènes du film Toy Story passionnantes ou à créer ses propres histoires
-- LEGO 4 + introduit lenfant au sein dun vaste univers de films, personnages de la télévision et héros du quotidien préférés
+- Pixar ; comprend également un magasin de crème glacée avec une caisse, une table et des bancs
 - Inclut 3 figurines de personnage de Toy Story : Woody, Buzz LEclair, La Bergère, Ducky et Bunny LEGO
-- Cet ensemble de jeu créatif Toy Story 4 constitue un cadeau idéal pour les enfants d’âge préscolaire et les jeunes enfants
-- Les autos-tamponneuses mesurent chacune plus de 9 cm de haut, 3 cm de long et 3 cm de large
 - Cet ensemble mignon comprend également une attraction Terrorantulus qui tourne et a des bras réglables ainsi que 2 auto-tamponneuses avec un châssis de construction
+- LEGO 4 + introduit lenfant au sein dun vaste univers de films, personnages de la télévision et héros du quotidien préférés
+- Les autos-tamponneuses mesurent chacune plus de 9 cm de haut, 3 cm de long et 3 cm de large
+- Cet ensemble de jeu créatif Toy Story 4 constitue un cadeau idéal pour les enfants d’âge préscolaire et les jeunes enfants
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07JC3FB37/?tag=tolees0d-21)

@@ -29,9 +29,9 @@ C'est en vente [Emile Henry EH108765 USTENSILES Grande Conservation/Coupe à Fru
 ℹ️:
 
 - Le liège aide à conserver les fruits plus longtemps en tenant à distances les mouches à fruits.
-- Comme tous les produits Emile Henry notre grande coupe de conservation est fabriquée dans nos ateliers en Bourgogne et 10 ans.
 - Dans la partie basse, les pommes de terre, oignons et autres tubercules sont stockés à labri de la lumière et sont bien aérés grâce aux 3 trous. Ainsi ils se conservent longtemps sans risque de germination ou de pourriture.
-- Notre coupe de conservation attirera tous les regards dans la cuisine ou sur la table de la salle à manger.
 - Notre grande coupe de conservation offre une présentation élégante des fruits sur la partie haute en liège, tandis que les oignons et pommes de terre sont stockés dans la partie basse en céramique à l’abri de la lumière et des courants d’air.
+- Comme tous les produits Emile Henry notre grande coupe de conservation est fabriquée dans nos ateliers en Bourgogne et 10 ans.
+- Notre coupe de conservation attirera tous les regards dans la cuisine ou sur la table de la salle à manger.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XRYNN5J/?tag=tolees0d-21)

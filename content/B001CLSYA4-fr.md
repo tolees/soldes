@@ -28,8 +28,8 @@ Vous avez [WAHL - Moser - Lame de rechange pour tondeuse](https://www.amazon.fr/
 
 ℹ️:
 
-- Lames de rechange : 0,7 - 3 mm / 46 mm
 - Compatible avec la tondeuse Adelar référence 1838
+- Lames de rechange : 0,7 - 3 mm / 46 mm
 - Lames de rechange : 0,7 - 3 mm / 46 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001CLSYA4/?tag=tolees0d-21)

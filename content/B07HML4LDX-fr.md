@@ -28,10 +28,10 @@ Vous avez [SUCRE DE SOIN - L’Oréal Paris – Gommage Nourrissant Pour Le Visa
 
 ℹ️:
 
+- Gommage nourrissant visage et lèvres aux 3 sucres fins (brun, blond et blanc) associés au beurre de cacao pour exfolier, nourrir la peau et raviver l’éclat, Idéal pour peaux normales mixtes à grasses
+- Résultat : les pores et les points noirs sont visiblement réduits dès 7 jours, Pour un éclat ravivé, une peau éclatante de beauté et douce comme une peau de bébé jour après jour
 - Contenu : 1x pot Gommage nourrissant sucres de soin L’Oréal Paris, Contenance : 50 ml
 - Texture onctueuse et délicatement parfumée pour une peau lisse et propre, Sucres exfoliants 100% d’origine naturelle pour un soin d’exception, Élimination des cellules mortes et des petites impuretés
-- Résultat : les pores et les points noirs sont visiblement réduits dès 7 jours, Pour un éclat ravivé, une peau éclatante de beauté et douce comme une peau de bébé jour après jour
-- Gommage nourrissant visage et lèvres aux 3 sucres fins (brun, blond et blanc) associés au beurre de cacao pour exfolier, nourrir la peau et raviver l’éclat, Idéal pour peaux normales mixtes à grasses
 - Application 3 fois par semaine : appliquer sur un visage propre en évitant le contour des yeux, humidifier légèrement les doigts et masser, Rincer le visage à leau tiède quand les sucres ont fondu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07HML4LDX/?tag=tolees0d-21)
