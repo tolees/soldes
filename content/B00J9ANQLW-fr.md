@@ -28,9 +28,9 @@ C'est en vente [Lumisky - Ampoule 2 en 1 anti moustique destructeur d insecte LE
 
 ℹ️:
 
-- AUTONOMIE : lampoule Bulby Mosquy possède un culot E27. Il suffit de la visser à une douille E27 et de la connecter au courant (tension 220-240V).
-- INTENSITÉ : lampoule anti-moustique dispose dune base LED blanc froid et bleu. Ce luminaire est très éclairant avec son flux lumineux de plus de 250 Lumens.
 - UTILISATION INTÉRIEUR : lampoule Bulby Mosquy sutilise exclusivement en intérieur. Discrète et efficace elle sadaptera à toutes vos pièces.
 - AMPOULE ANTI-MOUSTIQUE : Bulby Mosquy est une ampoule 2 en 1 à la fois éclairante et anti-moustique. A base LED blanc froid et bleu, cette ampoule apportera la touche design et fonctionnel à votre luminaire. Chambre, salon, cuisine : à vous de choisir où lutiliser !
+- AUTONOMIE : lampoule Bulby Mosquy possède un culot E27. Il suffit de la visser à une douille E27 et de la connecter au courant (tension 220-240V).
+- INTENSITÉ : lampoule anti-moustique dispose dune base LED blanc froid et bleu. Ce luminaire est très éclairant avec son flux lumineux de plus de 250 Lumens.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00J9ANQLW/?tag=tolees0d-21)

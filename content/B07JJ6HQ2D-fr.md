@@ -28,10 +28,10 @@ Vous avez [GARNIER - L Oréal Men Expert Carbon Protect Ice Fresh Déodorant Bil
 
 ℹ️:
 
-- Résultats : Protection totale 48h ; Parfum longue durée
-- Testé dermato logiquement ; Sans alcool
-- Combat les 5 signes de la transpiration (odeurs, humidité, bactéries, traces jaunes & blanches)
 - Conseil dutilisation : Bien agiter avant chaque utilisation
+- Résultats : Protection totale 48h ; Parfum longue durée
 - Anti-transpirant Bille homme carbone protêt 5-en-1
+- Combat les 5 signes de la transpiration (odeurs, humidité, bactéries, traces jaunes & blanches)
+- Testé dermato logiquement ; Sans alcool
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07JJ6HQ2D/?tag=tolees0d-21)
