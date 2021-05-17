@@ -1,19 +1,19 @@
 ---
 layout: post
-title: '38.57 % rabais sur Bushnell 120150 jumelles 10x50 legacy'
-date: 2021-04-28 08:27:58
-image: 'https://m.media-amazon.com/images/I/412B8QCKJ8L._SL500_._SL400_.jpg'
+title: '38.57 % rabais sur BUSHNELL - Jumelles pour Adultes - Legac'
+date: 2021-05-17 16:40:20
+image: 'https://m.media-amazon.com/images/I/41N-8+f0JTL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B000HI6RFC-fr Bushnell 120150 jumelles 10x50 legacy'
+slug: 'B000HI6RFC-fr BUSHNELL - Jumelles pour Adultes - Legacy - 10x50 - Noir -...'
 sku: 'B000HI6RFC-fr'
 tags: [ 'High-Tech','Jumelles','Jumelles, téléscopes et optique','Photo et caméscopes','bushnell', ]
 actualPrice: 129.0 EUR
 currency: EUR
 price: 129.0
 comparePrice: 209.99 EUR
-prodname: 'Bushnell 120150 jumelles 10x50 legacy'
+prodname: 'BUSHNELL - Jumelles pour Adultes - Legacy - 10x50 - Noir - Prisme Porro - Imperméables - Résistant à l Eau - Traitées Anti - Buée - 120150'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'Bushnell'
@@ -22,18 +22,16 @@ descuento: '38.57'
 average: '129.0'
 ---
 
-Vous avez [Bushnell 120150 jumelles 10x50 legacy](https://www.amazon.fr/dp/B000HI6RFC/?tag=tolees0d-21)  à  38.57 % de réduction, prix final  129.0 EUR (original: 209.99 EUR) ici:
+Vous avez [BUSHNELL - Jumelles pour Adultes - Legacy - 10x50 - Noir - Prisme Porro - Imperméables - Résistant à l Eau - Traitées Anti - Buée - 120150](https://www.amazon.fr/dp/B000HI6RFC/?tag=tolees0d-21)  à  38.57 % de réduction, prix final  129.0 EUR (original: 209.99 EUR) ici:
 
-[![Bushnell 120150 jumelles 10x50 legacy](https://m.media-amazon.com/images/I/412B8QCKJ8L._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B000HI6RFC/?tag=tolees0d-21)
+[![BUSHNELL - Jumelles pour Adultes - Legac](https://m.media-amazon.com/images/I/41N-8+f0JTL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B000HI6RFC/?tag=tolees0d-21)
 
 ℹ️:
 
-- Protection en caoutchouc antidérapant qui absorbe les chocs et offre une prise en main
-- Prismes de Porro BaK-4 pour des images lumineuses, claires et nettes
-- Mise au point : centrale
-- Grossissement x Diamètre de lobjectif ( mm) : 8x 42
-- Type de prismes : porro
-- Optiques traitées multicouches pour une transmission de la lumière
-- Taille : standard
+- Œilletons Twist-Up
+- Construction étanche IPX7 - Les optiques scellées à joint torique restent totalement impérméables, même lorsquelles sont immergées sous 1 mètre deau pendant 30 minutes maximum.
+- Entièrement traitées multicouche - Plusieurs couches de revêtement antireflet sur toutes les surfaces air-verre produisent des images lumineuses à contraste élevé.
+- Molette de mise au point central surdimensionnée pour des ajustements faciles
+- Lentilles traitées multicouches - garantissent une transmission lumineuse, une luminosité et une netteté dimage exceptionnelles avec un rendu naturel des couleurs
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000HI6RFC/?tag=tolees0d-21)
