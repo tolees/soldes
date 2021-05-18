@@ -29,9 +29,9 @@ Vous avez [Tefal Pierre GAGNAIRE Heritage Cocotte Fonte d acier Ronde 19 cm / 2 
 ℹ️:
 
 - Revêtement email noir mat à lintérieur et à lextérieur, garantissant une caramélisation parfaite
-- Compatible tous feux dont induction + four
+- Fabriquées en fonte dacier, qui garantit une rétention de chaleur optimale les plats mijotés et la cuisson douce
 - Désignée en france par tefal, n°1 mondial* des articles culinaires
 - Cocotte élégante conçue avec pierre gagnaire, chef triplement étoilé renommé, pour une cuisson authentique et savoureuse
-- Fabriquées en fonte dacier, qui garantit une rétention de chaleur optimale les plats mijotés et la cuisson douce
+- Compatible tous feux dont induction + four
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TTRXJ6N/?tag=tolees0d-21)
