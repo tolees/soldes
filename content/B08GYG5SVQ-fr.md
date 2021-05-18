@@ -28,11 +28,11 @@ C'est en vente [SanDisk Carte Mémoire microSDXC Ultra 400 Go + Adaptateur SD. V
 
 ℹ️:
 
-- Capacité de stockage mémoire: 400.0
-- Des vitesses de transfert jusquà 120 Mo/s pour déplacer jusquà 1 000 photos par minute
-- Classe 10 pour enregistrer et visionner des vidéos Full HD
-- Jusquà 1 To pour stocker encore plus de vidéos Full HD
-- Idéale pour les smartphones et tablettes Android, et les appareils photo hybrides
 - Un chargement des applis plus rapide grâce à des performances de classe A1
+- Capacité de stockage mémoire: 400.0
+- Classe 10 pour enregistrer et visionner des vidéos Full HD
+- Idéale pour les smartphones et tablettes Android, et les appareils photo hybrides
+- Jusquà 1 To pour stocker encore plus de vidéos Full HD
+- Des vitesses de transfert jusquà 120 Mo/s pour déplacer jusquà 1 000 photos par minute
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08GYG5SVQ/?tag=tolees0d-21)
