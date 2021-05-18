@@ -28,10 +28,10 @@ Vous avez [HABA- Pyramide d’Animaux – Jeu d’empilement et d’équilibre s
 
 ℹ️:
 
-- Fabriqué en Europe - Allemagne
-- Règle simple et parties rapides
-- Contient 29 animaux en bois massif PEFC
-- Pour jouer en famille à empiler le plus haut possible !
 - Pièces en bois PEFC - Peinture à leau
+- Pour jouer en famille à empiler le plus haut possible !
+- Contient 29 animaux en bois massif PEFC
+- Règle simple et parties rapides
+- Fabriqué en Europe - Allemagne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B086XYNMPD/?tag=tolees0d-21)
