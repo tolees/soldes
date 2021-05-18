@@ -28,8 +28,8 @@ Vous avez [SINGULADERM  XPERT SUBLIME V2 30ML - Sérum jeunesse concentré avec 
 
 ℹ️:
 
-- Réparation de lADN cellulaire: incorpore Preventhelia, un tétrapeptide révolutionnaire qui favorise les systèmes de réparation de lADN cellulaire et préserve la peau du photovieillissement
-- Formulé avec SNAP 8, un octapeptide de dernière génération à effet butulinique, il réduit la contraction musculaire et par conséquent les rides
 - Tissage immédiat: un complexe à base de cyclodextrines qui procure un effet tenseur instantané et minimise les traces de fatigue sur le visage
+- Formulé avec SNAP 8, un octapeptide de dernière génération à effet butulinique, il réduit la contraction musculaire et par conséquent les rides
+- Réparation de lADN cellulaire: incorpore Preventhelia, un tétrapeptide révolutionnaire qui favorise les systèmes de réparation de lADN cellulaire et préserve la peau du photovieillissement
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00TTWY966/?tag=tolees0d-21)
