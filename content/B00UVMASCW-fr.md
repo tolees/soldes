@@ -28,10 +28,10 @@ Vous avez [THULE 631811 Coffre de Toit Voiture Rigide Pacific L 780  420 L  Gris
 
 ℹ️:
 
-- Accès optimal au coffre de la voiture grâce à la position avancée du coffre de toit.
-- Dimensions extérieures: 196 x 78 x 45 cm; Longueur maximale des skis: 180 cm
-- Un système de verrouillage central garantit une sécurité maximale. La clé Thule Comfort ergonomique peut être retirée uniquement si tous les points de fermeture sont bien verrouillés.
-- Capacité de charge 50Kg.
 - Système de fixation rapide Fast-Grip pour une fixation rapide et sûre dune seule main.
+- Un système de verrouillage central garantit une sécurité maximale. La clé Thule Comfort ergonomique peut être retirée uniquement si tous les points de fermeture sont bien verrouillés.
+- Dimensions extérieures: 196 x 78 x 45 cm; Longueur maximale des skis: 180 cm
+- Accès optimal au coffre de la voiture grâce à la position avancée du coffre de toit.
+- Capacité de charge 50Kg.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UVMASCW/?tag=tolees0d-21)
