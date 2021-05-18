@@ -28,11 +28,11 @@ Vous avez [HABA-Le Petit Verger  003460](https://www.amazon.fr/dp/B000YOXMWK/?ta
 
 ℹ️:
 
-- Le contenu comprend : 1 plateau de jeu, 1 cerisier, 1 corbeau, 5 paires de cerises, 1 petit panier, 1 dé de couleur, 15 cartes de fleurs, 1 jeu dinstructions avec deux variantes de jeu.
+- Un jeu coopératif de dés à mémoire et couleur pour 1-4 joueurs âgés de 3-8 ans. Durée du jeu : environ 10 minutes.
 - Fabriqué en Europe - Allemagne
 - Les enfants apprennent le travail déquipe et la coopération alors quils se précipitent pour battre le corbeau avide.
-- Le but : cueillir les fruits avant que le corbeau natteigne larbre
+- Le contenu comprend : 1 plateau de jeu, 1 cerisier, 1 corbeau, 5 paires de cerises, 1 petit panier, 1 dé de couleur, 15 cartes de fleurs, 1 jeu dinstructions avec deux variantes de jeu.
 - Favorise la mémoire, l’esprit d’équipe, la reconnaissance et la désignation des couleurs
-- Un jeu coopératif de dés à mémoire et couleur pour 1-4 joueurs âgés de 3-8 ans. Durée du jeu : environ 10 minutes.
+- Le but : cueillir les fruits avant que le corbeau natteigne larbre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000YOXMWK/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Garnier Ultra doux Après-Shampooing Richesse d Argan 200 ml](https:/
 
 ℹ️:
 
-- Cheveux Souples, idéalement doux au toucher, faciles à coiffer et resplendissent de beauté et le Baume coiffant protecteur Richesse dArgan
-- fabriqué en Pologne
 - Pour les cheveux très secs et indisciplinés, réputée pour son nutritif, de la crème damande, sa richesse et son onctuosité
 - Notre huile d’argan, renouvelable, produite au Sud-Ouest du Maroc, récolté à la main, extraite du noyau du fruit de l’arganier
+- Cheveux Souples, idéalement doux au toucher, faciles à coiffer et resplendissent de beauté et le Baume coiffant protecteur Richesse dArgan
+- fabriqué en Pologne
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B081QRHD72/?tag=tolees0d-21)

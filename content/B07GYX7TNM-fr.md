@@ -28,12 +28,12 @@ C'est en vente [Caméra de surveillance WiFi Bosch Smart Home  détection panora
 
 ℹ️:
 
-- SÉCURITÉ DES DONNÉES ET MODE VIE PRIVÉE – Sécurité des données maximale grâce au chiffrement de bout en bout et à la tête de caméra escamotable
-- PAS DE FRAIS INDUITS – Enregistrement des évènements significatifs grâce au détecteur de mouvement et à la détection de bruit, sans frais induits pour le fonctionnement et le stockage des enregistrements
-- HAUT-PARLEUR ET MICRO INTÉGRÉS – Communication réciproque entre le smartphone et le domicile grâce au wi-fi
-- Température ambiante: 0°C - 40°C
 - Bosch Smart Home App disponible en français
-- SURVEILLANCE INTÉRIEURE INTELLIGENTE – La caméra, qui couvre 360°, suit les mouvements automatiquement et envoie les images sur le smartphone en temps réel et en résolution Full HD
+- Température ambiante: 0°C - 40°C
+- PAS DE FRAIS INDUITS – Enregistrement des évènements significatifs grâce au détecteur de mouvement et à la détection de bruit, sans frais induits pour le fonctionnement et le stockage des enregistrements
 - MULTIPLES POSSIBILITÉS DE COMMANDE – Commande confortable de la caméra avec Alexa (à domicile) ou avec l’application (d’un simple clic)
+- HAUT-PARLEUR ET MICRO INTÉGRÉS – Communication réciproque entre le smartphone et le domicile grâce au wi-fi
+- SURVEILLANCE INTÉRIEURE INTELLIGENTE – La caméra, qui couvre 360°, suit les mouvements automatiquement et envoie les images sur le smartphone en temps réel et en résolution Full HD
+- SÉCURITÉ DES DONNÉES ET MODE VIE PRIVÉE – Sécurité des données maximale grâce au chiffrement de bout en bout et à la tête de caméra escamotable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GYX7TNM/?tag=tolees0d-21)

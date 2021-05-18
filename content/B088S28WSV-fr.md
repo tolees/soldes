@@ -28,9 +28,9 @@ Vous avez [Philips Lighting - Philips Hue White Ambiance ADORE Plafonnier salle 
 
 ℹ️:
 
-- Contrôlez votre luminaire Hue facilement dans la pièce où vous vous situez grâce à lapplication Bluetooth ou un assistant vocal (Alexa ou Google)
-- Ajoutez le pont Hue (non fourni) et étendez votre éco-système en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, synchronisation avec les jeux vidéos, les films et la musique...)
 - Grâce à ce luminaire Philips Hue et la télécommande fournie dans le pack, bénéficiez dune lumière naturelle adaptée à chacune de vos activités.
+- Contrôlez votre luminaire Hue facilement dans la pièce où vous vous situez grâce à lapplication Bluetooth ou un assistant vocal (Alexa ou Google)
 - Grâce à une température de couleur variable, profitez des bienfaits de la lumière blanche. Le matin, faites le plein dénergie avec une lumière blanche, froide et intense. Stimulante, la lumière froide se caractérise par son rendu bleuté qui favorise le réveil et la concentration. A linverse de la lumière froide, la couleur de la lumière chaude tend vers le jaune orangé. Elle est idéale dans les moments de détente et avant le coucher pour préparer lorganisme au sommeil.
+- Ajoutez le pont Hue (non fourni) et étendez votre éco-système en connectant jusquà 50 points déclairage tout en bénéficiant de fonctionnalités supplémentaires (gestion à distance, routines, synchronisation avec les jeux vidéos, les films et la musique...)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B088S28WSV/?tag=tolees0d-21)
