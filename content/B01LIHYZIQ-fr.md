@@ -29,7 +29,7 @@ C'est en vente [Bosch Professional 18V System Visseuse plaquistes sans-fil GSR 1
 ℹ️:
 
 - Ø de vissage maxi. 4.2 mm
-- Modèle avec 2 batteries GBA 18V 5.0Ah, Chargeur rapide GAL 1880 CV, Chargeur de vis à bande MA55 (+ 1 embout PH2)
 - Couple maxi. (vissage en force/souplesse) 25 / 5 Nm
+- Modèle avec 2 batteries GBA 18V 5.0Ah, Chargeur rapide GAL 1880 CV, Chargeur de vis à bande MA55 (+ 1 embout PH2)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LIHYZIQ/?tag=tolees0d-21)
