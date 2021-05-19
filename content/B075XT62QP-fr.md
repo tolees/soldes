@@ -28,12 +28,12 @@ Vous avez [Mifold- Le rehausseur enfant 10x plus compact qu un rehausseur tradit
 
 ℹ️:
 
-- Déjà plus de 700.000 mifold vendu dans le monde.
-- mifold est conforme à la régulation européenne ECCE R44/04, groupe 2-3 à partir de 4 ans, jusquà 36 kg.
-- Les habitudes de transport actuels ont bien évolué (covoiturage, taxi,..) et on ne dispose pas forcément dun système de sécurité adapté à nos enfants. Il est important dadapter le port de la ceinture de sécurité à la taille de lenfant.
-- Garantie: 2 ans.
 - mifold est idéal pour: le co-voiturage, le taxi, voyager, pour les grands-parents, 3 à larrière, les grands-enfants.
 - Mifold: le rehausseur 10x plus compact quun rehausseur traditionnel et tout aussi sûr. il suit votre enfants partout dans chaque voitures à chaque trajets.
 - mifold adapte la ceinture à la taille de lenfant.
+- Déjà plus de 700.000 mifold vendu dans le monde.
+- Garantie: 2 ans.
+- mifold est conforme à la régulation européenne ECCE R44/04, groupe 2-3 à partir de 4 ans, jusquà 36 kg.
+- Les habitudes de transport actuels ont bien évolué (covoiturage, taxi,..) et on ne dispose pas forcément dun système de sécurité adapté à nos enfants. Il est important dadapter le port de la ceinture de sécurité à la taille de lenfant.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075XT62QP/?tag=tolees0d-21)
