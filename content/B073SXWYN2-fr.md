@@ -28,8 +28,8 @@ Vous avez [Google Wifi Pack de 2 Routeurs sans Fil Bluetooth Blanc](https://www.
 
 ℹ️:
 
-- Sécurité optimale. WPA2-PSK et mises à jour de sécurité automatiques
 - Réseau optimisé sans aucune configuration manuelle
 - Configuration et contrôle simplifiés
+- Sécurité optimale. WPA2-PSK et mises à jour de sécurité automatiques
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073SXWYN2/?tag=tolees0d-21)
