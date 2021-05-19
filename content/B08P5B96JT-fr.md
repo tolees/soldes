@@ -28,10 +28,10 @@ Vous avez [Homtiky Aspirateur Balai sans Fil sans Sac 22000 PA Puissant  Batteri
 
 ℹ️:
 
-- 【Génial Design pour Stocker】 Laspirateur Balai Homtiky est conçu avec un socle destiné pour le rangement de tous ses accessoires. Une simple manoeuvre suffit pour démonter et vider le bac à poussière.
-- 【Aspiration Cyclonique 22Kpa】Avec une puissance impressionnante de 22KPA et 3 modes de vitesse daspiration, laspirateur balai sans fil et sans sac est capable d’aspirer en un seul passage la plus petite miette ou poussière comme les plus grosses saletés.
-- 【Batterie Rechargeable】 Laspirateur balai sans sac et sans fil Hotmiky fonctionne avec une batterie au lithium 22,2V LG qui lui confère une autonomie de 20 min à vitesse maximale, et se recharge en 5 heures.
 - 【Éclairage LED】 Laspirateur balai sans fil Homtiky est équipé dune tête d’aspiration avec éclairage LED. Il est pratique pour nettoyer sous les meubles et trouver ce qui est sale jusqu’aux moindres recoins.
 - 【2 Brosses & 3 Accessoires】 Laspirateur balai Homtiky est équipé d’un suceur plat, dune buse raclette, dune mini-brosse motorisée avec des fibres en nylon ainsi que deux autres grosses brosses: une pour les sols durs et lautre pour les surfaces souples. Cet aspirateur balai convient au sol et plafond.
+- 【Batterie Rechargeable】 Laspirateur balai sans sac et sans fil Hotmiky fonctionne avec une batterie au lithium 22,2V LG qui lui confère une autonomie de 20 min à vitesse maximale, et se recharge en 5 heures.
+- 【Aspiration Cyclonique 22Kpa】Avec une puissance impressionnante de 22KPA et 3 modes de vitesse daspiration, laspirateur balai sans fil et sans sac est capable d’aspirer en un seul passage la plus petite miette ou poussière comme les plus grosses saletés.
+- 【Génial Design pour Stocker】 Laspirateur Balai Homtiky est conçu avec un socle destiné pour le rangement de tous ses accessoires. Une simple manoeuvre suffit pour démonter et vider le bac à poussière.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08P5B96JT/?tag=tolees0d-21)

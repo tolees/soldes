@@ -28,10 +28,10 @@ C'est en vente [Turtle Beach Elite Pro 2 Gaming Headset and SuperAmp - PS4](http
 
 ℹ️:
 
-- DTS Headphone:X Surround Sound technology - experience immersive 7.1 channel surround sound gaming audio on PS4/PS5
 - Aerofit ear cushions - revolutionary material technologies combine to keep your ears comfortable and cool while also blocking out external noise and improving bass response
-- The 3D Audio advantage - Unleash the power of 3D Audio, delivering precise spatial surround sound for an immersive, realistic gaming experience on PS5
-- Turtle Beach ’s distinct ProSpecs comfort-driven design removes pressure on your glasses while you play
 - Superhuman hearing - from quiet footsteps to enemy weapon reloads, superhuman hearing lets you hear it all
+- DTS Headphone:X Surround Sound technology - experience immersive 7.1 channel surround sound gaming audio on PS4/PS5
+- Turtle Beach ’s distinct ProSpecs comfort-driven design removes pressure on your glasses while you play
+- The 3D Audio advantage - Unleash the power of 3D Audio, delivering precise spatial surround sound for an immersive, realistic gaming experience on PS5
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07G5ZQKGC/?tag=tolees0d-21)
