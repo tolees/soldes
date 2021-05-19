@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Wiizzee WS3 Trottinette électrique  Noir avec 34.20 % rabais '
-date: 2021-05-10 15:03:44
+date: 2021-05-19 09:27:23
 image: 'https://m.media-amazon.com/images/I/31dHZqfyXkL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Wiizzee WS3 Trottinette électrique  Noir  468 Wh](https://www.a
 
 ℹ️:
 
-- Vitesse maximale (sur terrain privé en France) : 30 km/h
-- Moteur 350 w
-- Suspension avant
 - Frein à tambour arrière
+- Vitesse maximale (sur terrain privé en France) : 30 km/h
+- Suspension avant
 - Autonomie jusquà 35 Kms
+- Moteur 350 w
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DLQZ1DZ/?tag=tolees0d-21)
