@@ -29,9 +29,9 @@ Vous avez [Amazon Basics Hamac en tissu avec support](https://www.amazon.fr/dp/B
 ℹ️:
 
 - Peut accueillir deux adultes, poids maximal supporté : 181,4 kg.
-- Inclut : hamac double, support peu encombrant de 2,74 m en acier ultra résistant et étui de transport.
-- 53 % polyester, 33 % coton, 11 % rayonne, 3 % nylon.
-- Tous les accessoires sont inclus, aucun outil supplémentaire nest nécessaire.
 - Dimensions du hamac : 238,76 x 160 cm (longueur totale : 330 cm).
+- Inclut : hamac double, support peu encombrant de 2,74 m en acier ultra résistant et étui de transport.
+- Tous les accessoires sont inclus, aucun outil supplémentaire nest nécessaire.
+- 53 % polyester, 33 % coton, 11 % rayonne, 3 % nylon.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LQV4ML4/?tag=tolees0d-21)
