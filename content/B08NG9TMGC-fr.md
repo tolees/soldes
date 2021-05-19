@@ -28,10 +28,10 @@ C'est en vente [Bright Starts  Tapis d Eveil Evolutif et Multifonction 5en1 Tota
 
 ℹ️:
 
-- Tapis déveil format maxi offrant 5 différents modes de jeu qui suivent la croissance de bébé
 - Inclut 40 balles avec leur sac de rangement
-- Le coussin déveil est idéal pour permettre à bébé de samuser allongé sur le ventre
 - Bébé développe ses capacités motrices en insérant les balles dans les trous de la paroi-filet ou en les faisant rouler à lintérieur du tapis
+- Le coussin déveil est idéal pour permettre à bébé de samuser allongé sur le ventre
+- Tapis déveil format maxi offrant 5 différents modes de jeu qui suivent la croissance de bébé
 - Inclut 7 jouets détachables et repositionnables: éléphant musical et lumineux, petit boulier, une tortue bruissant, miroir souple, cartes déveil, feuille de dentition et anneau hochet
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08NG9TMGC/?tag=tolees0d-21)

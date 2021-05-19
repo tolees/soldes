@@ -28,15 +28,15 @@ C'est en vente [Euroflex IB40 IB 40 VAPO LUX  Noir](https://www.amazon.fr/dp/B07
 
 ℹ️:
 
-- Plateau de repassage en aluminium chauffant
-- Energy saving arrêt automatique
 - Fonction aspiration & soufflerie automatique
-- Repassage de 30% du linge sans le fer uniquement avec les mains !
-- 3 5 bars jusquà 110 gr/minutes de débit vapeur
-- Ultra compact avec seulement 14 cm d’épaisseur une fois pliée
-- Fer-pro SANS REGULATEUR DE TEMPERATURE Plus de tri de linge !
+- Structure compact & monobloc tout en ABS
 - Large plateau de repassage chauffant en galva anticorrosion
 - Plateau chauffant-aspirant-soufflant et vaporisant
-- Structure compact & monobloc tout en ABS
+- Plateau de repassage en aluminium chauffant
+- Fer-pro SANS REGULATEUR DE TEMPERATURE Plus de tri de linge !
+- Ultra compact avec seulement 14 cm d’épaisseur une fois pliée
+- 3 5 bars jusquà 110 gr/minutes de débit vapeur
+- Repassage de 30% du linge sans le fer uniquement avec les mains !
+- Energy saving arrêt automatique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07J2L81MP/?tag=tolees0d-21)
