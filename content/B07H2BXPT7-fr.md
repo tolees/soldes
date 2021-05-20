@@ -28,10 +28,10 @@ C'est en vente [Bosch Professional 2608594228 Scie Trépan Progressor for Wood e
 
 ℹ️:
 
-- Applications : La scie trépan est idéale pour percer des trous dans le bois, les cloisons sèches, les plastiques, les métaux, les métaux non ferreux et lacier inoxydable.
 - Qualité robuste : Le bimétal Bosch avec 8 % dalliage de cobalt garantit une durée de vie deux fois plus élevée que celle de son prédécesseur
 - Conception réfléchie : Une denture progressive améliorée de la scie trépan permet des coupes plus rapides
 - Compatibilité : Elle convient à toutes les perceuses sans fil et filaires.
+- Applications : La scie trépan est idéale pour percer des trous dans le bois, les cloisons sèches, les plastiques, les métaux, les métaux non ferreux et lacier inoxydable.
 - Un clic : Changement facile et sans outil des scies trépans, avec le nouvel adaptateur Power Change Plus
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07H2BXPT7/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '33.29 % rabais sur Roberts Radio solarDABII Radio solaire p'
-date: 2021-05-15 09:44:44
+date: 2021-05-20 09:28:12
 image: 'https://m.media-amazon.com/images/I/51J1RcMPARL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ Vous avez [Roberts Radio solarDABII Radio solaire portable DAB+/FM Chargeur int�
 
 ℹ️:
 
+- Contenu de la livraison : radio solaire, piles rechargeables LR6, adaptateur secteur, notice
 - Adaptateur secteur, charge grâce à lénergie solaire ou au branchement secteur
 - Énergie solaire/électrique
-- Fonctionne à lénergie solaire afin dêtre aussi indépendant des systèmes dalimentation conventionnels que possible
 - <b>Notez que les paramètres de configuration d’origine peuvent être différents de ceux habituellement utilisés en France (ex. les paramètres de langue, dheure et de devise). La garantie du fabricant de ce produit pourrait être différente de celle habituellement fournie avec des produits vendus en France.
-- Contenu de la livraison : radio solaire, piles rechargeables LR6, adaptateur secteur, notice
 - Tuner DAB+/FM - Fonction RDS - Touches programmables
+- Fonctionne à lénergie solaire afin dêtre aussi indépendant des systèmes dalimentation conventionnels que possible
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0056S2VFS/?tag=tolees0d-21)

@@ -30,8 +30,8 @@ C'est en vente [Toy Story 4 - Incroyable Buzz - Lansay](https://www.amazon.fr/dp
 
 - Fonctionne avec 3 piles LR06 incluses
 - Taille du personnage : 30 cm environ.Contient : 1 personnage Buzz. A partir de 4 ans
-- Super ! Buzz a plusieurs points darticulations pour encore plus deffets !
 - Lorsque tu lui annonces que quelquun arrive, Buzz sétale par-terre comme dans le film ! Buzz est interactif: parle-lui et il te répondra ! Tu peux également appuyer sur ses boutons pour activer son mode "jouet"
+- Super ! Buzz a plusieurs points darticulations pour encore plus deffets !
 - Retrouve les aventures de TOY STORY 4 avec cette Incroyable figurine Buzz lEclair
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TZ5LZJT/?tag=tolees0d-21)
