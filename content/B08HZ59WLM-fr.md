@@ -29,10 +29,10 @@ C'est en vente [Philips Projection NeoPix Ultra 2  projecteur True Full HD à Ap
 ℹ️:
 
 - Polyvalent et connecté : HDMI, USB, Wi-Fi, Bluetooth. AirMote : contrôlez le projecteur NeoPix Prime 2 par gestes !
-- Des années de divertissement : source lumineuse LED, d’une durée de vie de plus de 20 000 heures.
 - Affichage intense : Image projetée 65" max. à une résolution True Full HD 1080p, 1 920 × 1 080 pixels
+- Corrections de l’image : positionnez-la où vous voulez ! Rotation et correction trapézoïdale numériques, correction des 4 coins, zoom numérique et fonctions de retournement de l’image
 - Composants inclus : Notice, Télécommande, Câble d alimentation
 - Intelligent : Applications préchargées et système Philips très fluide. Diffusez un contenu directement à partir du projecteur NeoPix. Duplication d’écran Wi-Fi pour AirPlay et Android
-- Corrections de l’image : positionnez-la où vous voulez ! Rotation et correction trapézoïdale numériques, correction des 4 coins, zoom numérique et fonctions de retournement de l’image
+- Des années de divertissement : source lumineuse LED, d’une durée de vie de plus de 20 000 heures.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08HZ59WLM/?tag=tolees0d-21)
