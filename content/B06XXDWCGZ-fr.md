@@ -28,11 +28,11 @@ Vous avez [Caméra de surveillance extérieure jour & nuit Bosch Smart Home Eyes
 
 ℹ️:
 
-- INTELLIGENT - Enrégistre les événements pertinents de facon ciblée à laide des capteurs de mouvement thermique et du microphone intégré
-- PAS DE FRAIS INDUITS – Enregistrement des évènements significatifs grâce au détecteur de mouvement et à la détection de bruit, sans frais induits pour le fonctionnement et le stockage des enregistrements
 - COMPATIBLE avec Amazon Alexa pour une commande vocale de votre caméra et avec le système de Bosch Smart Home pour créer une multitude de scénarios dautomatisation individuels
 - Bosch Smart Home App disponible en français
 - POLYVALENT - La caméra sert de système dinterphone en plus de sa lumière intégrée qui illumine le chemin qui mène à votre porte
 - SURVEILLANCE PERMANENTE - Regardez les vidéos de votre caméra en temps réel ou stockés en mémoire (Full HD) 24h sur 24 grâce à la vision nocturne intégrée
+- PAS DE FRAIS INDUITS – Enregistrement des évènements significatifs grâce au détecteur de mouvement et à la détection de bruit, sans frais induits pour le fonctionnement et le stockage des enregistrements
+- INTELLIGENT - Enrégistre les événements pertinents de facon ciblée à laide des capteurs de mouvement thermique et du microphone intégré
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06XXDWCGZ/?tag=tolees0d-21)
