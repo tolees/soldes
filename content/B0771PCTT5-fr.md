@@ -28,10 +28,10 @@ C'est en vente [Hauck Shopper Neo II Poussette Ultra Légère - 7 9 kg jusqu à 
 
 ℹ️:
 
-- SÉCURITÉ - La poussette a un harnais 5 points et elle est conforme au stander européen EN 1888
-- MANIABLE - Grâce aux doubles roues avant pivotantes ou fixes et à la suspension, cette poussette super légère est très maniable
 - CONFORTABLE - le dossier et le repose-pieds sont multi-réglables en posiiton couchée. En outre, la poussette a deux porte-gobelet pour les parents et lenfant, un grand panier et un canopy paresoleil
-- USAGE LONG - La poussette convient pour enfants dès la naissance (en position couchée ou en combinaison avec la nacelle 2en1) jusquà un poids maximal de 25 kg (siège 22 kg + panier 3 kg)
+- MANIABLE - Grâce aux doubles roues avant pivotantes ou fixes et à la suspension, cette poussette super légère est très maniable
 - PLIAGE TRÈS FACILE - Cette poussette se plie dune seule main en activant le mécanisme sur la poignée. Cest idéal pour le bus, le train et le voyage
+- USAGE LONG - La poussette convient pour enfants dès la naissance (en position couchée ou en combinaison avec la nacelle 2en1) jusquà un poids maximal de 25 kg (siège 22 kg + panier 3 kg)
+- SÉCURITÉ - La poussette a un harnais 5 points et elle est conforme au stander européen EN 1888
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0771PCTT5/?tag=tolees0d-21)
