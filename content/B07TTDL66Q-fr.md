@@ -28,10 +28,10 @@ Vous avez [Skechers Ultra Flex  Baskets Femme  Beige  Taupe Mesh/White Trim TPE 
 
 ℹ️:
 
+- Matière : Textile
 - Taille : 39 EU
 - Fermeture : Lacets
 - Couleur : Gris
 - Saison : Printemps Été
-- Matière : Textile
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07TTDL66Q/?tag=tolees0d-21)
