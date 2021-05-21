@@ -28,9 +28,9 @@ Vous avez [iDesign rideau de douche  rideau douche en polyester imperméable ave
 
 ℹ️:
 
-- TISSU IMPERMÉABLE : Un rideau baignoire en tissu doit être imperméable. Ici, l’eau glisse simplement le long du rideau sans l’imbiber, ce qui lui évite de peser sur la tringle.
 - ENTRETIEN FACILE : Les rideaux douche en tissu comme celui-ci devraient toujours être propres. Au besoin, nettoyez-le à froid à la machine, et séchez-le à basse température.
 - TAILLE GÉNÉREUSE : Avec des dimensions de 180,0 cm x 200,0 cm, le rideau de baignoire sutilise dans une douche de coin ou une baignoire : profitez dune polyvalence maximale.
+- TISSU IMPERMÉABLE : Un rideau baignoire en tissu doit être imperméable. Ici, l’eau glisse simplement le long du rideau sans l’imbiber, ce qui lui évite de peser sur la tringle.
 - MATÉRIAU DURABLE : Le tissu plastifié du rideau de douche 180x200 est en polyester, ce qui le rend doux et robuste à la fois. Il aura lair comme neuf plus longtemps !
 - RIDEAU STABLE : Le rideau salle de bain dispose dœillets renforcés et dun ourlet doux à lintérieur, ce qui le rend solide et lui évite de sarracher.
 

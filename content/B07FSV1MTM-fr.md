@@ -28,11 +28,11 @@ C'est en vente [MOULINEX EXTRACTEUR DE JUS JUICE&CLEAN Fruits et Légumes Vitami
 
 ℹ️:
 
-- Pichet à jus et collecteur de pulpe grande capacité (800 ml).
-- Extracteur de jus doté de la technologie EasyClean : nettoie à votre place pour vous faire gagner du temps, sans effort.
-- Technologie silencieuse pour extraire son jus à tout moment de la journée sans perturbation.
-- Contrôle réglable de la quantité de pulpe et deux filtres pour préparer jus, glaces, coulis et confitures.
-- Ecran tactile intuitif avec 2 vitesses pour les ingrédients durs et mous, ainsi quune fonction "reverse" pour débloquer les gros morceaux.
 - Technologie de pressage à froid : extraction efficace de jus sans gaspillage tout en préservant les saveurs, les couleurs, vitamine c et les nutriments de vos fruits et légumes préféré.
+- Contrôle réglable de la quantité de pulpe et deux filtres pour préparer jus, glaces, coulis et confitures.
+- Extracteur de jus doté de la technologie EasyClean : nettoie à votre place pour vous faire gagner du temps, sans effort.
+- Ecran tactile intuitif avec 2 vitesses pour les ingrédients durs et mous, ainsi quune fonction "reverse" pour débloquer les gros morceaux.
+- Pichet à jus et collecteur de pulpe grande capacité (800 ml).
+- Technologie silencieuse pour extraire son jus à tout moment de la journée sans perturbation.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07FSV1MTM/?tag=tolees0d-21)

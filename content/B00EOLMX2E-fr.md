@@ -28,15 +28,15 @@ Vous avez [Makita 9403J Ponceuse À Bande 1200 W 100 x 610 mm](https://www.amazo
 
 ℹ️:
 
-- Sac à poussière orientable
 - Evacuation pulsée des poussières
 - Centrage automatique de la bande : permet deffectuer un travail précis
+- Sac à poussière orientable
 - Ponceuse puissante, maniable, robuste et à bande large pour ponçage intensif
-- Sortie de câble sur le haut de la poignée pour plus de confort
+- Carter en aluminium
+- Puissance sonore (Lwa): 97 dB (A)
 - Livré de série en coffret MAK-PAC, compatible avec les systèmes empilables standards
 - Changement de bande abrasive rapide et sans outil
-- Carter en aluminium
+- Sortie de câble sur le haut de la poignée pour plus de confort
 - Deport latéral nul pour les ponçages à ras de paroi
-- Puissance sonore (Lwa): 97 dB (A)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00EOLMX2E/?tag=tolees0d-21)

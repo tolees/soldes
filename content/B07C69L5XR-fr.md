@@ -28,10 +28,10 @@ C'est en vente [Facom 183A.20CPE Pince demi-ronde bec long effilé  Rouge/Noir  
 
 ℹ️:
 
-- Ressort de rappel amovible
 - Gaines ergonomiques en matériau très résistant aux produits chimiques
-- Présentation : chromée
 - Coupe-fil latéral pour fils de cuivre et acier dur (maxi.160 kg/mm2)
 - Becs fins effilés, finement striés, coudés 40 degrés
+- Présentation : chromée
+- Ressort de rappel amovible
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07C69L5XR/?tag=tolees0d-21)

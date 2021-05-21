@@ -30,7 +30,7 @@ C'est en vente [Niveau à bulles d électricien Stabila TYPE 70 ELECTRIC longueu
 
 - Longueur de 43 cm.
 - Profil rectangulaire en métal léger avec trous à cocher et embouts antidérapants recto verso avec blocage. 1 1 fiole verticale et 1 1 fiole horizontale. Précision : en position normale 0,029 ° = 0,5 mm/m
-- N ° dart. 16135.
 - Ainsi, largent et du temps incontestable. Le calcul mental et sans le coups avec mécanisme de plusieurs témoins. Le maquillage avec le plâtre Tasse. La combinaison Distance des trous est de 71 mm selon la norme 49075.
+- N ° dart. 16135.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000XUN5TK/?tag=tolees0d-21)

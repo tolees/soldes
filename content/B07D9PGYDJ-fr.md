@@ -28,10 +28,10 @@ C'est en vente [NUTRI & CO - Multivitamines et Minéraux 25 Nutriments • Zinc 
 
 ℹ️:
 
-- 👌 JUSTE L’ESSENTIEL ●● Energie, mémoire, immunité… Notre multivitamines concentre uniquement les actifs dont l’efficacité santé est démontrée. Il ne contient ni fer, ni cuivre, pro-oxydants en surdose. Notre posologie adaptable permet aux hommes comme aux femmes, sportifs ou non, d’atteindre leurs AJR.
 - 💥 25 NUTRIMENTS DONT 5 BREVETÉS ●● Le Multi Nutri&Co contient les vitamines A, B (dont B9 et B12), C, D3, K2, E, mais aussi du zinc et du magnésium ; sans compter de nombreux cofacteurs végétaux comme des caroténoïdes et bioflavonoïdes, du coenzyme Q10 et de l’acide alpha-lipoïque.
-- 💸 FAITES DES ÉCONOMIES ●● Les vitamines c’est bien, mais actives et absorbables c’est encore mieux ! C’est pourquoi Nutri&Co a sélectionné des formes vitaminiques co-enzymées (pyridoxal-5-phosphate, folate, méthylcobalamine, vitamines A, E et D3 végétales) et pour la première fois des minéraux liposomés haute teneur ET haute absorption.
+- 👌 JUSTE L’ESSENTIEL ●● Energie, mémoire, immunité… Notre multivitamines concentre uniquement les actifs dont l’efficacité santé est démontrée. Il ne contient ni fer, ni cuivre, pro-oxydants en surdose. Notre posologie adaptable permet aux hommes comme aux femmes, sportifs ou non, d’atteindre leurs AJR.
 - 🔎 100% TRANSPARENT ●● Chez Nutri&Co, développer le multi-vitamines parfait c’est bien plus qu’une association de nutriments. Nous attachons une attention particulière à connaître et montrer l’origine de chaque matière et ne travaillons qu’avec des producteurs qui partagent nos standards qualité.
+- 💸 FAITES DES ÉCONOMIES ●● Les vitamines c’est bien, mais actives et absorbables c’est encore mieux ! C’est pourquoi Nutri&Co a sélectionné des formes vitaminiques co-enzymées (pyridoxal-5-phosphate, folate, méthylcobalamine, vitamines A, E et D3 végétales) et pour la première fois des minéraux liposomés haute teneur ET haute absorption.
 - 🌿 PRODUIT PUR ET CERTIFIÉ ●● Notre Multi ne contient ni stéarate de magnésium ni dioxyde de silicium, ni OGM. Grâce à nos actifs innovants comme la D3 végétale, elle convient aux vegans et végétariens. Nos gélules sont fabriquées en France sous la norme ISO 22000 et respectent le protocole HACCP.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07D9PGYDJ/?tag=tolees0d-21)

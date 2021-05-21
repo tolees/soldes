@@ -28,9 +28,9 @@ Vous avez [Kleine Wolke Rideau de Douche Kito 240x180 cm en Gris  Polyester  20x
 
 ℹ️:
 
+- Coleur : anthracite
 - Matériel: Polyester
 - Etanche à leau et résistant à leau
-- Coleur : anthracite
 - Piles pas requises
 - Dimension: 240x180 cm
 
