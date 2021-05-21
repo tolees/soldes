@@ -28,8 +28,8 @@ Vous avez [Schwarzkopf Professional Osis+ Thrill Fibre Gum 100 ml](https://www.a
 
 ℹ️:
 
-- Flexible et modelable
 - Contrôle structurel performant
+- Flexible et modelable
 - Utilisation possible sur cheveux secs et légèrement humides
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B003RJTTE4/?tag=tolees0d-21)

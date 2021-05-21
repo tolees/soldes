@@ -29,13 +29,13 @@ C'est en vente [Nouveau Apple iPhone 12 Mini  64 Go  - Bleu](https://www.amazon
 ℹ️:
 
 - Caméra avant TrueDepth 12 Mpx avec mode Nuit, enregistrement vidéo 4K HDR en Dolby Vision
-- Double appareil photo sophistiqué avec ultra grand-angle et grand-angle 12 Mpx ; mode Nuit, Deep Fusion, Smart HDR 3 et enregistrement vidéo 4K HDR en Dolby Vision
+- Prise en charge des accessoires MagSafe pour une fixation facile et une recharge sans fil plus rapide
 - Écran Super Retina XDR 5,4 pouces
 - Ceramic Shield, plus résistant que le verre de n’importe quel smartphone
-- Puce A14 Bionic, la plus rapide des puces de smartphone
-- Prise en charge des accessoires MagSafe pour une fixation facile et une recharge sans fil plus rapide
-- Meilleure résistance à l’eau du marché (IP68)
-- Compatibilité 5G
 - iOS et son lot de nouveautés, telles que les widgets repensés sur l’écran d’accueil, la toute nouvelle Bibliothèque d’apps et les extraits d’app
+- Meilleure résistance à l’eau du marché (IP68)
+- Double appareil photo sophistiqué avec ultra grand-angle et grand-angle 12 Mpx ; mode Nuit, Deep Fusion, Smart HDR 3 et enregistrement vidéo 4K HDR en Dolby Vision
+- Puce A14 Bionic, la plus rapide des puces de smartphone
+- Compatibilité 5G
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08L5S5SYM/?tag=tolees0d-21)
