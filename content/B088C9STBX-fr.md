@@ -28,9 +28,9 @@ C'est en vente [G-STAR RAW Base-s Round Neck T-Shirt  Teal Grey HTR 336-c046  S 
 
 ℹ️:
 
+- Ourlet droit
 - Broderie G-Star RAW sur la poitrine
 - Col rond
 - Manches courtes
-- Ourlet droit
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B088C9STBX/?tag=tolees0d-21)
