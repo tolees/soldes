@@ -28,13 +28,13 @@ Vous avez [Beurer PO 30 - Oxymètre de pouls digital pour la mesure de la satura
 
 ℹ️:
 
-- Petit et léger: à utiliser à la maison et en déplacement
-- Convient également aux sports de haute altitude
-- Mesure de la fréquence cardiaque (pouls)
 - Écran couleur avec 4 vues disponibles
+- Convient également aux sports de haute altitude
 - Mesure de la SpO2 comme signe vital possible dans les maladies aiguës
-- Indicateur de batterie faible
+- Petit et léger: à utiliser à la maison et en déplacement
 - Luminosité de lécran réglable
+- Indicateur de batterie faible
+- Mesure de la fréquence cardiaque (pouls)
 - Particulièrement adapté aux personnes souffrant dinsuffisance cardiaque, de maladies pulmonaires obstructives chroniques, dasthme bronchique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00B80JEGC/?tag=tolees0d-21)
