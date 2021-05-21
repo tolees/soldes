@@ -28,7 +28,7 @@ Vous avez [KS TOOLS 700.1130 Extracteur 2 et 3 griffes 6  ](https://www.amazon.f
 
 ℹ️:
 
-- Extracteur 2 et 3 griffes 6"
 - Ks tools - outillage à main professionnel
+- Extracteur 2 et 3 griffes 6"
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001NYY6U2/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Osram 360270 Ampoule à Economie d Energie G23 11 W](https://www.amaz
 
 ℹ️:
 
-- Puissance :11 watts
 - Usage en public : buildings, offices, shops, supermarkets, hotels
-- allows for creative lighting in high light quality
-- Average life: 10,000 h
 - Longueur de lampoule : 237 millimètres
+- allows for creative lighting in high light quality
+- Puissance :11 watts
+- Average life: 10,000 h
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000SLUEL6/?tag=tolees0d-21)

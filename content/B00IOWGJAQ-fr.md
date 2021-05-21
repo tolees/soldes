@@ -28,10 +28,10 @@ Vous avez [Bed Head by Tigi Dumb Blonde Purple Toning Shampoo for Blonde Hair  s
 
 ℹ️:
 
-- Assouplit, adoucit et contrôle les frisottis
-- Éclaircit et démêle les cheveux blonds
-- Ce shampoing est enrichi en teintes violettes pour préserver un blond lumineux, vibrant et étincelant
 - Les pigments violets augmentent les tons froids et évitent l’apparition des reflets cuivrés et jaunes sur les cheveux blonds
 - Le shampooing violet Bed Head by Tigi Dumb Blonde pour cheveux blonds 400 ml convient pour les couleurs blondes
+- Éclaircit et démêle les cheveux blonds
+- Ce shampoing est enrichi en teintes violettes pour préserver un blond lumineux, vibrant et étincelant
+- Assouplit, adoucit et contrôle les frisottis
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00IOWGJAQ/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Maybelline New York – Vernis à Ongles Professionnel – Technologi
 
 ℹ️:
 
-- Contenu : 1x Vernis à ongles Super Stay 7 Days (anciennement Tenue & Strong PRO) de Maybelline New York, Teinte : Soho So Hot (505)
-- Formule brevetée : complexe protecteur inédit associé à la technologie gel, Couleur éclatante durablement grâce aux filtres UV protecteurs, Disponible en 31 teintes
 - Astuces : appliquer 2 couches de vernis, Pour une meilleure tenue, appliquer la base et le top coat Super Stay 7 Days disponibles séparément, Retrait du vernis à l’aide d’un dissolvant classique
+- Formule brevetée : complexe protecteur inédit associé à la technologie gel, Couleur éclatante durablement grâce aux filtres UV protecteurs, Disponible en 31 teintes
+- Contenu : 1x Vernis à ongles Super Stay 7 Days (anciennement Tenue & Strong PRO) de Maybelline New York, Teinte : Soho So Hot (505)
 - Vernis à ongles professionnel pour un résultat impeccable et des ongles renforcés, Pour une brillance intense jusqu’à 7 jours
 - Application uniforme, sans débordement ni surplus, grâce au large pinceau technologique « juste dose » épousant la forme des ongles, Formule sans formaldéhyde, Sans DBP, Sans toluène, Sans odeur
 
