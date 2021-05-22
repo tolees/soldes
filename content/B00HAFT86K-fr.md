@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '54.78 % rabais sur Bourjois - Cc Cream 1.2.3 Perfect - 3 Pi'
-date: 2021-05-21 12:42:22
+date: 2021-05-22 13:01:30
 image: 'https://m.media-amazon.com/images/I/31ybk9T+pXL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ Vous avez [Bourjois - Cc Cream 1.2.3 Perfect - 3 Pigments Correcteurs - Hydratat
 
 ℹ️:
 
-- La texture légère glisse sur la peau et lisse parfaitement tous les défauts
-- Camoufle toutes les imperfections grâce à lassociation de 3 pigments correcteurs de couleur
-- Adapté à tous les types de peau, y compris aux peaux mixtes
 - Crème de correction oil-free offrant jusquà 24 heures dhydratation
+- La texture légère glisse sur la peau et lisse parfaitement tous les défauts
+- Adapté à tous les types de peau, y compris aux peaux mixtes
 - Écran SPF 15 protégeant la peau des rayons UVA et UVB
+- Camoufle toutes les imperfections grâce à lassociation de 3 pigments correcteurs de couleur
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HAFT86K/?tag=tolees0d-21)

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: '21.43 % rabais sur Electronic Arts - F1 2021  PlayStation 5'
-date: 2021-05-13 09:03:24
-image: 'https://m.media-amazon.com/images/I/413GeO4ayFS._SL500_._SL400_.jpg'
+date: 2021-05-22 13:27:15
+image: 'https://m.media-amazon.com/images/I/51pAdwSf9vS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
@@ -24,12 +24,12 @@ average: '54.99'
 
 Vous avez [Electronic Arts - F1 2021  PlayStation 5 ](https://www.amazon.fr/dp/B092QYT86M/?tag=tolees0d-21)  à  21.43 % de réduction, prix final  54.99 EUR (original: 69.99 EUR) ici:
 
-[![Electronic Arts - F1 2021  PlayStation 5](https://m.media-amazon.com/images/I/413GeO4ayFS._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B092QYT86M/?tag=tolees0d-21)
+[![Electronic Arts - F1 2021  PlayStation 5](https://m.media-amazon.com/images/I/51pAdwSf9vS._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B092QYT86M/?tag=tolees0d-21)
 
 ℹ️:
 
-- Le jeu officiel du championnat du monde de formule 1 de la fia.
 - Découvrez les nouveautés de F1 2021, parmi lesquelles lhistoire « point de rupture », un mode carrière à deux joueurs et loption « début de saison réel ».
+- Le jeu officiel du championnat du monde de formule 1 de la fia.
 - Toutes les histoires commencent quelque part. Débutez la vôtre dans F1 2021.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B092QYT86M/?tag=tolees0d-21)
