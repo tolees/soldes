@@ -28,9 +28,9 @@ Vous avez [Remington Fer à Lisser  Lisseur  Plaques Advanced Ceramic  Chauffe R
 
 ℹ️:
 
-- Plaque de coiffage disposant dun système damortissement, pour une pression sur les cheveux répartie de façon régulière Un capteur de protection contre la chaleur innovant
-- Revêtement céramique avancée avec diffuseur dun soin kératine Cheveux protégés grâce à la technologie exclusive de protection par la kératine
 - Prêt en 15 secondes et un arrêt automatique de sécurité après 60 minutes
+- Revêtement céramique avancée avec diffuseur dun soin kératine Cheveux protégés grâce à la technologie exclusive de protection par la kératine
+- Plaque de coiffage disposant dun système damortissement, pour une pression sur les cheveux répartie de façon régulière Un capteur de protection contre la chaleur innovant
 - Affichage numérique intégré avec 5 réglages des températures entre 160 et 230 °C (160/180/200/220/230) Système de verrouillage pour empêcher une modification accidentelle de la température
 - Pochette de protection thermorésistant incluse
 
