@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Exploding Kittens : NSFW Edition - Asmod avec 25.01 % rabais '
-date: 2021-05-20 20:33:09
+date: 2021-05-22 00:53:04
 image: 'https://m.media-amazon.com/images/I/51YzBH9K4rL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Exploding Kittens : NSFW Edition - Asmodee - Jeu de société - 
 
 ℹ️:
 
-- Elle contient lintégralité des cartes dexploding kittens, mais chacune de leurs illustrations a été remplacée par un dessin trop horrible/INCROYABLE pour la version standard.
-- Durée de jeu: 30 min
-- A partir de 18 ans
-- Vous pouvez utiliser cette édition toute seule ou la combiner avec un autre paquet afin de rassembler jusquà 9 joueurs.
 - Exploding kittens: nsfw Edition est une version strictement réservé aux adultes du célèbre jeu qui revisite la roulette russe.
+- A partir de 18 ans
+- Durée de jeu: 30 min
+- Elle contient lintégralité des cartes dexploding kittens, mais chacune de leurs illustrations a été remplacée par un dessin trop horrible/INCROYABLE pour la version standard.
+- Vous pouvez utiliser cette édition toute seule ou la combiner avec un autre paquet afin de rassembler jusquà 9 joueurs.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DFMN859/?tag=tolees0d-21)
