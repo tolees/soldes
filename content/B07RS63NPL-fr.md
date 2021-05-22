@@ -28,10 +28,10 @@ C'est en vente [Cicciobello  Gros Chagrin  Poupon 42 cm  Mouvements de visage R�
 
 ℹ️:
 
+- Pour les enfants à partir de 2 ans.
 - De vraies expressions et des mouvements de visages réalistes !
+- Contient : biberon, tétine, boite de mouchoirs, bavoir
 - La peau est souple et douce et il y a une toute nouvelle fonction.
 - Les pleurs pour communiquer de façon positive
-- Contient : biberon, tétine, boite de mouchoirs, bavoir
-- Pour les enfants à partir de 2 ans.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RS63NPL/?tag=tolees0d-21)
