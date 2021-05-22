@@ -28,9 +28,9 @@ Vous avez [Mytek 3760033020679 Tondeuse électrique 38cm 1600W  Bleu](https://ww
 
 ℹ️:
 
-- Elle possede 3 hauteurs de coupe
-- Idéale pour les jardins de taille moyenne jusqua 200m2
-- Régime : 2850/min
 - Capacité de coupe : 38cm
+- Régime : 2850/min
+- Idéale pour les jardins de taille moyenne jusqua 200m2
+- Elle possede 3 hauteurs de coupe
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DPCB9N2/?tag=tolees0d-21)
