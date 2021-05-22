@@ -29,9 +29,9 @@ Vous avez [Extel - Interphone collectif - Multipro 3  1-8 combinés sur 1 seule 
 ℹ️:
 
 - Possibilité d’installer jusqu’à 8 combinés sur 1 seule platine de rue
-- Référence fournisseur Extel : 710016
 - Fonction intercommunication entre 2 combinés du même logement
 - Ne nécessite pas d’alimentation supplémentaire pour la commande d’une gâche ou serrure électrique
+- Référence fournisseur Extel : 710016
 - Double commande gâche/serrure électrique et automatisme de portail
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21)
