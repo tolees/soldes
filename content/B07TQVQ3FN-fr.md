@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iRobot Braava Jet m6134 Robot Laveur de  avec 24.32 % rabais '
-date: 2021-05-20 05:49:15
+date: 2021-05-22 05:56:07
 image: 'https://m.media-amazon.com/images/I/41sdjTIHgUL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,11 +28,11 @@ C'est en vente [iRobot Braava Jet m6134 Robot Laveur de Sols Premium  Connecté 
 
 ℹ️:
 
-- Dites adieu à la saleté : Les lingettes pour lavage des sols sont équipées de fibres imbibées par capillarité qui permettent déliminer les saletés collantes et les graisses de cuisine. Les lingettes pour balayage à sec utilisent la force électrostatique pour capturer les saletés, les poussières et les poils danimaux domestiques.
-- Couvre plus de surface : idéal pour les grands espaces avec plusieurs pièces. Nettoie avec un mouvement de va-et-vient en naviguant autour du mobilier, des tapis et autres obstacles.
-- Design optimisé pour pour coins: Le design optimisé pour mieux laver permet de pénétrer dans les coins et de nettoyer le long des murs.
 - Le pulvérisateur de haute précision dissout la saleté et les taches tenaces sans endommager les meubles, les tapis ni les murs.
 - Se recharge et reprend le travail
+- Couvre plus de surface : idéal pour les grands espaces avec plusieurs pièces. Nettoie avec un mouvement de va-et-vient en naviguant autour du mobilier, des tapis et autres obstacles.
+- Design optimisé pour pour coins: Le design optimisé pour mieux laver permet de pénétrer dans les coins et de nettoyer le long des murs.
+- Dites adieu à la saleté : Les lingettes pour lavage des sols sont équipées de fibres imbibées par capillarité qui permettent déliminer les saletés collantes et les graisses de cuisine. Les lingettes pour balayage à sec utilisent la force électrostatique pour capturer les saletés, les poussières et les poils danimaux domestiques.
 - Apprend à connaître votre maison, nettoie où vous voulez et quand vous voulez : la technologie Imprint Smart Mapping (cartographie intelligente) aide le robot à appréhender votre intérieur, ce qui vous offre un contrôle total, pour choisir quelles pièces doivent être nettoyées et quand, via lapplication iRobot HOME ou lassistant Google ou Alexa.
 - Contrôlez le depuis votre smartphone : lapplication iRobot HOME vous permet de programmer, de customiser le nettoyage et de sélectionner les pièces que vous souhaitez nettoyer.
 
