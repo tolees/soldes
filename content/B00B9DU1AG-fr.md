@@ -28,10 +28,10 @@ C'est en vente [Smiffy s - Smiffys Perruque diva du rock  deux couleurs  blonde 
 
 ℹ️:
 
-- Smiffys est un fournisseur principal de déguisements et entreprise familiale avec un héritage de 123 années en costumes, perruques, maquillage et accessoires.
-- Notre équipe en interne dédié à la sécurité assure que tous de nos produits sont fabriqués et testés rigoureusement afin dobtempérer avec les dernières normes de sécurité de lUE et de lAmerique.
-- Disponible seulement en taille unique
-- Inclus Smiffys Perruque diva du rock, deux couleurs, blonde & noire, nuque longue
 - Veuillez noter que tous les produits de Smiffys arriveront dans l’emballage entier marqué par Smiffys.
+- Smiffys est un fournisseur principal de déguisements et entreprise familiale avec un héritage de 123 années en costumes, perruques, maquillage et accessoires.
+- Disponible seulement en taille unique
+- Notre équipe en interne dédié à la sécurité assure que tous de nos produits sont fabriqués et testés rigoureusement afin dobtempérer avec les dernières normes de sécurité de lUE et de lAmerique.
+- Inclus Smiffys Perruque diva du rock, deux couleurs, blonde & noire, nuque longue
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00B9DU1AG/?tag=tolees0d-21)

@@ -28,7 +28,7 @@ Vous avez [Rimmel Stay Matte Poudre Compacte-Champagne / beige chaud](https://ww
 
 ℹ️:
 
-- Formule enrichie en minéraux pour un fini mat et naturel
 - Poudre compacte anti-brillance jusquà 5 heures
+- Formule enrichie en minéraux pour un fini mat et naturel
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0046U6RKC/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Bourjois - Cc Cream 1.2.3 Perfect - 3 Pigments Correcteurs - Hydratat
 
 ℹ️:
 
-- Crème de correction oil-free offrant jusquà 24 heures dhydratation
-- La texture légère glisse sur la peau et lisse parfaitement tous les défauts
-- Adapté à tous les types de peau, y compris aux peaux mixtes
 - Écran SPF 15 protégeant la peau des rayons UVA et UVB
 - Camoufle toutes les imperfections grâce à lassociation de 3 pigments correcteurs de couleur
+- Crème de correction oil-free offrant jusquà 24 heures dhydratation
+- Adapté à tous les types de peau, y compris aux peaux mixtes
+- La texture légère glisse sur la peau et lisse parfaitement tous les défauts
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HAFT86K/?tag=tolees0d-21)

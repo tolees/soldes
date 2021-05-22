@@ -28,9 +28,9 @@ Vous avez [schwarzkopf Professional BC Moisture Kick Spray  démêlant de cheveu
 
 ℹ️:
 
-- Haute qualité.
-- Pour les cheveux : gras.
 - Conçu pour garantir une excellente expérience au client.
+- Pour les cheveux : gras.
+- Haute qualité.
 - Marque : Schwarzkopf Professional
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DL4N4QY/?tag=tolees0d-21)

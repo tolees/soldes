@@ -28,8 +28,8 @@ C'est en vente [Organic Shop Body Desserts Crème Réparatrice Milkshake Banane 
 
 ℹ️:
 
+- La peau est plus douce et plus souple.
 - L’huile de Macadamia et la Vanille bio apportent élasticité à la peau et luttent contre les vergetures.
 - L’extrait de Banane bio évite le dessèchement et le relâchement de la peau tandis que l’huile d’Avocat bio nourrit. hair_type:Cheveux secs
-- La peau est plus douce et plus souple.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N7TS1JL/?tag=tolees0d-21)
