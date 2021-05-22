@@ -28,10 +28,10 @@ C'est en vente [Svbony SV13 Longue Vue 20-60x80 Trépied Caméra HD Puissante É
 
 ℹ️:
 
+- ZOOM LONGUE VUE; Un longue vue puissant à magnification 20x-60x peut être doucement ajustée; verrouillez facilement votre cible et effectuez un zoom pour plus de détails; Objectif FMC de 80 mm pour obtenir plus de lumière dans le télescope pour une image claire et nette
 - IMAGE NETTE; Résolution 2.37 ”fournit une image de haute définition; multicouche compète pour produire des images nettes et augmenter la transmission de la lumière; BK7 Porro Prismes avec traitement antireflet argenté pour une couleur et un contraste intenses et une expérience visuelle exceptionnelle
 - Parasol rétractable; Réduit les reflets et protège lobjectif des gouttes de pluie; il peut empêcher la lumière parasite dentrer dans lobjectif; améliorer la netteté de limage et restaurer les couleurs
-- Le Longue Vue est fourni avec un trépied standard multifonctionnel; vous pouvez le prendre comme un trépied pour une observation dehors ou comme un monopode pour profiter de chaque moment merveilleux avec votre téléphone; C’est idéal pour le tir à la cible, le tir à l’arc et l’observation de la faune
-- ZOOM LONGUE VUE; Un longue vue puissant à magnification 20x-60x peut être doucement ajustée; verrouillez facilement votre cible et effectuez un zoom pour plus de détails; Objectif FMC de 80 mm pour obtenir plus de lumière dans le télescope pour une image claire et nette
 - IPX7 Etanche che et anti-buée; Les joints toriques empêchent la pénétration dhumidité, de poussières et de débris. L’azote rempli pour une performance détanchéité accrue
+- Le Longue Vue est fourni avec un trépied standard multifonctionnel; vous pouvez le prendre comme un trépied pour une observation dehors ou comme un monopode pour profiter de chaque moment merveilleux avec votre téléphone; C’est idéal pour le tir à la cible, le tir à l’arc et l’observation de la faune
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VC4WD49/?tag=tolees0d-21)
