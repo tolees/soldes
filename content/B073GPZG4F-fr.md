@@ -28,10 +28,10 @@ Vous avez [Waternymph Aérateur pour Évier de Cuisine 2 Modes Filtre Adaptateur
 
 ℹ️:
 
-- Aérateur de robinet orientable pivotant à 360 degrés
 - Efficace et esthétique, laiton massif fabriqué avec une finition en chrome poli. Économies deau 50% ~ 70%
-- Facile à installer, il se monte sans outils et est parfaitement étanche
 - Laérateur à filetage femelle de 22 mm (FM22) sadaptera à votre robinet à filetage mâle ( la diamètre est une mesure réelle denviron 21.5 à 22 mm)
+- Aérateur de robinet orientable pivotant à 360 degrés
+- Facile à installer, il se monte sans outils et est parfaitement étanche
 - Double fonction: 2 conception découlement deau - courant mou de bulle (1.2GPM) et jet fort (1.8GPM)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B073GPZG4F/?tag=tolees0d-21)
