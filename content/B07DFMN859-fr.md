@@ -28,9 +28,9 @@ C'est en vente [Exploding Kittens : NSFW Edition - Asmodee - Jeu de société - 
 
 ℹ️:
 
+- Vous pouvez utiliser cette édition toute seule ou la combiner avec un autre paquet afin de rassembler jusquà 9 joueurs.
 - Exploding kittens: nsfw Edition est une version strictement réservé aux adultes du célèbre jeu qui revisite la roulette russe.
 - Durée de jeu: 30 min
-- Vous pouvez utiliser cette édition toute seule ou la combiner avec un autre paquet afin de rassembler jusquà 9 joueurs.
 - Elle contient lintégralité des cartes dexploding kittens, mais chacune de leurs illustrations a été remplacée par un dessin trop horrible/INCROYABLE pour la version standard.
 - A partir de 18 ans
 

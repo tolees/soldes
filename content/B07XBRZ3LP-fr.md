@@ -28,11 +28,11 @@ C'est en vente [Microsoft Surface Laptop 3 Ordinateur Portable  Windows 10  Écr
 
 ℹ️:
 
+- Autonomie de batterie pour toute la journée; Une nouvelle expérience audio avec les micro studio et activation à la voix
 - Écran exceptionnel PixelSense de 13.5’’
-- Disponible en 4 couleurs : Platine, Noir, Bleu Cobalt et Sable
+- Indice de réparabilité: 4.1/10
 - Performances plus rapides grâce aux processeurs Intel iRNUM 10ème génération
 - Ports USB-A ainsi qu’un nouveau port USB-C remplaçant le mini Display Port pour les vidéos, les données et pour le chargement; Trackpad 20% plus grand que Surface Laptop 2
-- Indice de réparabilité: 4.1/10
-- Autonomie de batterie pour toute la journée; Une nouvelle expérience audio avec les micro studio et activation à la voix
+- Disponible en 4 couleurs : Platine, Noir, Bleu Cobalt et Sable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07XBRZ3LP/?tag=tolees0d-21)

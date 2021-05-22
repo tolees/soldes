@@ -28,9 +28,9 @@ Vous avez [Sony VFA-49R1 Adaptateur pour Filtre Noir 49 mm](https://www.amazon.f
 
 ℹ️:
 
-- Fonction intégrée de verrouillage sécurisé
 - Compatible avec les filtres 49 mm
 - Adaptateur pour filtre pour les appareils photo Cyber-shot RX100 et RX100M2 avec bague de guidage, bague dappui et système de retrait
 - Conçue pour le modèle RX100/M2
+- Fonction intégrée de verrouillage sécurisé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00DPB6K4G/?tag=tolees0d-21)
