@@ -1,37 +1,37 @@
 ---
 layout: post
-title: '47.08 % rabais sur EXTEL - 710016 Interphone collectif - Mu'
-date: 2021-05-01 08:43:20
+title: '47.98 % rabais sur Extel - Interphone collectif - Multipro '
+date: 2021-05-22 19:43:15
 image: 'https://m.media-amazon.com/images/I/41dV4zo3hsL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
-slug: 'B01MTA0S8V-fr EXTEL - 710016 Interphone collectif - Multipro 3'
+slug: 'B01MTA0S8V-fr Extel - Interphone collectif - Multipro 3 1-8 combinés sur...'
 sku: 'B01MTA0S8V-fr'
 tags: [ 'Bricolage','Interphones','extel','Électricité', ]
-actualPrice: 50.44 EUR
+actualPrice: 49.59 EUR
 currency: EUR
-price: 50.44
+price: 49.59
 comparePrice: 95.32 EUR
-prodname: 'EXTEL - 710016 Interphone collectif - Multipro 3'
+prodname: 'Extel - Interphone collectif - Multipro 3  1-8 combinés sur 1 seule platine de rue  Double commande gâche/serrure électrique et automatisme de portail - 710016'
 country: 'fr'
 flag: '🇫🇷'
 brand: 'EXTEL'
 buyurl: 'https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21'
-descuento: '47.08'
-average: '50.7457142857143'
+descuento: '47.98'
+average: '50.7058620689655'
 ---
 
-Vous avez [EXTEL - 710016 Interphone collectif - Multipro 3](https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21)  à  47.08 % de réduction, prix final  50.44 EUR (original: 95.32 EUR) ici:
+Vous avez [Extel - Interphone collectif - Multipro 3  1-8 combinés sur 1 seule platine de rue  Double commande gâche/serrure électrique et automatisme de portail - 710016](https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21)  à  47.98 % de réduction, prix final  49.59 EUR (original: 95.32 EUR) ici:
 
-[![EXTEL - 710016 Interphone collectif - Mu](https://m.media-amazon.com/images/I/41dV4zo3hsL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21)
+[![Extel - Interphone collectif - Multipro ](https://m.media-amazon.com/images/I/41dV4zo3hsL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21)
 
 ℹ️:
 
-- Fonction intercommunication entre 2 combinés du même logement
-- Référence fournisseur Extel : 710016
-- Double commande gâche/serrure électrique et automatisme de portail
-- Ne nécessite pas d’alimentation supplémentaire pour la commande d’une gâche ou serrure électrique
 - Possibilité d’installer jusqu’à 8 combinés sur 1 seule platine de rue
+- Référence fournisseur Extel : 710016
+- Fonction intercommunication entre 2 combinés du même logement
+- Ne nécessite pas d’alimentation supplémentaire pour la commande d’une gâche ou serrure électrique
+- Double commande gâche/serrure électrique et automatisme de portail
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MTA0S8V/?tag=tolees0d-21)
