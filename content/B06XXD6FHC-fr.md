@@ -29,10 +29,10 @@ Vous avez [Iris Ohyama  Lot de 2 Boîtes de Rangement / Caisses de Rangement Her
 ℹ️:
 
 - 6 clips résistants permettant de sceller le couvercle sur la boîte.
-- Nettoyez avec un savon doux avec un chiffon doux et humide, puis essuyez toute trace d’humidité
-- Possible superposition stable des boîtes grâce au couvercle incurvé et renforcé. Également encastrable.
 - Couvercle équipé dun joint en silicone pour une réelle étanchéité à la poussière et à lhumidité.
+- Possible superposition stable des boîtes grâce au couvercle incurvé et renforcé. Également encastrable.
 - Idéal pour le stockage dans les endroits exposés.
+- Nettoyez avec un savon doux avec un chiffon doux et humide, puis essuyez toute trace d’humidité
 - Boite de rangement hermétique de 70 L
 - Dimensions (L x l x h) : 59 x 39 x 38 cm
 

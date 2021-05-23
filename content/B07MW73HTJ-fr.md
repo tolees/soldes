@@ -28,9 +28,9 @@ C'est en vente [Phanteks PH-VGPUKT 02 Support Universel Vertical pour GPU avec c
 
 ℹ️:
 
-- Installation facile : placez simplement le plateau sur les sept emplacements PCI.
 - Support vertical pour carte graphique VGA.
-- Câble de 220 mm inclus.
 - Compatible avec châssis avec port PCI « ouvert ». Un ajustement peut être nécessaire.
+- Câble de 220 mm inclus.
+- Installation facile : placez simplement le plateau sur les sept emplacements PCI.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07MW73HTJ/?tag=tolees0d-21)

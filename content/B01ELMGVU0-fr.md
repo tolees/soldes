@@ -28,10 +28,10 @@ Vous avez [Exacompta  EXAD0  - Exacompta - Réf. 86320E - 1 Protège-documents a
 
 ℹ️:
 
-- Les pochettes sont facile à insérer et à détacher. Chargé avec 30 pochettes pour 60 vues.
-- Elles sont en polypropylène haute qualité, haute transparence de 80 microns.
 - Possibilité daugmenter la capacité avec une recharge de 10 pochettes réf 86134e Exacompta , porte vues Cristal rigide pochette lisse 60 vues transparent vendu à lunité
 - Ce protège-documents à anneaux possèdent des pochettes détachables, ainsi que des intercalaires rigides translucides numérotés de 1 à 6.
 - Grâce à sa page dindexation, le contenu des compartiments peut être facilement identifié à la main ou sur imprimante via loutil Kreaman;
+- Les pochettes sont facile à insérer et à détacher. Chargé avec 30 pochettes pour 60 vues.
+- Elles sont en polypropylène haute qualité, haute transparence de 80 microns.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01ELMGVU0/?tag=tolees0d-21)

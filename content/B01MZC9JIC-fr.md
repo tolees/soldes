@@ -28,9 +28,9 @@ C'est en vente [SHIMANO Tl-cn10 11 V Outil Multicolore Taille Unique](https://ww
 
 ℹ️:
 
-- Fabriqué au Japon
-- Matériau : Acier allié
 - Couleur : Multicolore
 - Taille unique
+- Matériau : Acier allié
+- Fabriqué au Japon
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MZC9JIC/?tag=tolees0d-21)

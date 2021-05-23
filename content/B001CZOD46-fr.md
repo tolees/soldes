@@ -28,8 +28,8 @@ Vous avez [SONAX 513200 VOL rostent également](https://www.amazon.fr/dp/B001CZ
 
 ℹ️:
 
-- Contenu: 500 Millilitres
-- Sonax Produits de soins pour la voiture
 - Dérouillant de surface 500ml
+- Sonax Produits de soins pour la voiture
+- Contenu: 500 Millilitres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001CZOD46/?tag=tolees0d-21)

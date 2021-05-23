@@ -28,10 +28,10 @@ C'est en vente [Smoothskin - Bare Black- L épilateur à Lumière Pulsée  IPL  
 
 ℹ️:
 
-- 10 MINUTES ET VOILÀ : Smoothskin Bare fera bien vite partie de votre routine beauté et vous permettra d’avoir les jambes douces pour longtemps en moins de 10 minutes
-- SÉCURITE : Smoothskin Bare possède un capteur de couleur de peau qui vérifie le teint de votre peau avant chaque flash pour un traitement en toute sécurité
 - LE PLUS RAPIDE DU MARCHÉ : Smoothskin Bare est l’épilateur IPL le plus rapide du marché avec ses 100 flashes/minutes. Il émet un flash toutes les 0.6 secondes
 - SIMPLICITÉ D’UTILISATION : Un seul bouton pour plus de facilité d’utilisation
+- SÉCURITE : Smoothskin Bare possède un capteur de couleur de peau qui vérifie le teint de votre peau avant chaque flash pour un traitement en toute sécurité
+- 10 MINUTES ET VOILÀ : Smoothskin Bare fera bien vite partie de votre routine beauté et vous permettra d’avoir les jambes douces pour longtemps en moins de 10 minutes
 - FLASHES ILLIMITÉS
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N55OODG/?tag=tolees0d-21)
