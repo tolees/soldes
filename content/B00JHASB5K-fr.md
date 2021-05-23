@@ -31,7 +31,7 @@ C'est en vente [Staedtler - Fimo kids - Pain Pâte à  Modeler 42 g Marron](htt
 - Pain de pâte à modeler FIMO de 42 grammes, à cuire au four (110°C pendant 30min)
 - Matériau ultra-doux, ultra-souple et facilement malléable conçu spécialement pour les enfants
 - Conservation pendant 24 mois à température ambiante (entre 15°C et 28°C)
-- Testé par des toxicologues indépendants, conforme à la norme CE
 - Pour des usages multiples : bijoux, accessoires et objets décoratifs pour la maison
+- Testé par des toxicologues indépendants, conforme à la norme CE
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00JHASB5K/?tag=tolees0d-21)
