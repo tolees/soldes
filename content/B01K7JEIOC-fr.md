@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Hori Volant de course Apex pour PS4/PS3/ avec 38.00 % rabais '
-date: 2021-05-22 04:56:14
+date: 2021-05-23 13:17:57
 image: 'https://m.media-amazon.com/images/I/41qZIa-oeaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,10 +28,10 @@ C'est en vente [Hori Volant de course Apex pour PS4/PS3/PC](https://www.amazon.f
 
 ℹ️:
 
-- Type de produit: Volant de direction
-- Demande de reponse: Oui
 - Nombre de touches: 14 Touches
-- Connexion: Câble
+- Demande de reponse: Oui
 - Ports: USB
+- Connexion: Câble
+- Type de produit: Volant de direction
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01K7JEIOC/?tag=tolees0d-21)
