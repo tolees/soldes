@@ -28,10 +28,10 @@ C'est en vente [ECCO SOFT2.0  Derby Femme  Blanc  1007white   39 EU](https://www
 
 ℹ️:
 
-- Matériau extérieur : cuir
-- Intérieur : textile
 - Fermeture : lacets
 - Talon plat
+- Intérieur : textile
+- Matériau extérieur : cuir
 - Semelle : caoutchouc
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0159XNY5K/?tag=tolees0d-21)

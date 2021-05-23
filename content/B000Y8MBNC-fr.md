@@ -28,9 +28,9 @@ Vous avez [KNIPEX Jeu de pinces pour circlips 4 outils 00 19 56](https://www.ama
 
 ℹ️:
 
-- Quatre pinces usuelles à circlips intérieurs et extérieurs
-- Avec fermeture rapide réglable pratique
 - Dimensions, à plat (L x H) : 315 x 275 mm
 - Trousse en polyester tissé résistant
+- Quatre pinces usuelles à circlips intérieurs et extérieurs
+- Avec fermeture rapide réglable pratique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000Y8MBNC/?tag=tolees0d-21)
