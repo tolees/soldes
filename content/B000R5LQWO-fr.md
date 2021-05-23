@@ -28,10 +28,10 @@ C'est en vente [Bosch 2608595424 Assortiment de mèches plates Self Cut Speed Ø
 
 ℹ️:
 
-- Pour un perçage extrêmement rapide et sans effort
-- Pointe filetée auto-pénétrante
-- Pour une évacuation rapide des copeaux
 - Palette profilée
 - Pointe de centrage optimisée et arête de coupe rectifiée pour la réalisation de trous nets et précis
+- Pour une évacuation rapide des copeaux
+- Pour un perçage extrêmement rapide et sans effort
+- Pointe filetée auto-pénétrante
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B000R5LQWO/?tag=tolees0d-21)

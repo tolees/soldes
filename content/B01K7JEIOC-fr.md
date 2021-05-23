@@ -28,10 +28,10 @@ C'est en vente [Hori Volant de course Apex pour PS4/PS3/PC](https://www.amazon.f
 
 ℹ️:
 
-- Nombre de touches: 14 Touches
-- Demande de reponse: Oui
 - Ports: USB
-- Connexion: Câble
+- Demande de reponse: Oui
 - Type de produit: Volant de direction
+- Connexion: Câble
+- Nombre de touches: 14 Touches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01K7JEIOC/?tag=tolees0d-21)
