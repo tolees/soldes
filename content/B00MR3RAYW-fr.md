@@ -28,8 +28,8 @@ C'est en vente [Nike Air Max Ltd 3  Sneakers Basses Homme  Blanc  white/white-wh
 
 ℹ️:
 
-- Semelle en caoutchouc moulé avec rainures flexibles
 - Tige en cuir enduit
 - Lacets
+- Semelle en caoutchouc moulé avec rainures flexibles
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00MR3RAYW/?tag=tolees0d-21)
