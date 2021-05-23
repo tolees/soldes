@@ -28,10 +28,10 @@ C'est en vente [Outsunny Table Pliante Table de Camping Table de Jardin Hauteur 
 
 ℹ️:
 
-- ✅ TABLE PLIANTE FACILE À TRANSPORTER ET RANGER : pliable comme une valise avec poignée, facile à transporter et à ranger (peu encombrante, légère, poids net total de seulement 2 Kg)
-- ✅ TABLE 2 PERSONNES DESIGN : table pliante 2 personnes mélant aluminium et MDF blanc très élégant
-- ✅ TABLE POLYVALENTE : idéale pour les pique-niques, le camping mais également pour le jardin à loccasion dun barbecue, repas ou fête
-- ✅ MATÉRIAUX DE QUALITÉ, HAUTEUR RÉGLABLE : fabriquée en alliage daluminium et MDF : matériaux anti-moisissure, étanche, anticorrosion et résistant aux hautes températures, hauteur réglable à 2 niveaux
 - ✅ SPÉCIFICATIONS : dim. totales : 60L x 45l x 64H cm - dim. pliées : 60L x 45l x 6H cm - écartement max. entre les pieds : 53 cm - charge max. recommandée : 30 Kg
+- ✅ TABLE 2 PERSONNES DESIGN : table pliante 2 personnes mélant aluminium et MDF blanc très élégant
+- ✅ MATÉRIAUX DE QUALITÉ, HAUTEUR RÉGLABLE : fabriquée en alliage daluminium et MDF : matériaux anti-moisissure, étanche, anticorrosion et résistant aux hautes températures, hauteur réglable à 2 niveaux
+- ✅ TABLE PLIANTE FACILE À TRANSPORTER ET RANGER : pliable comme une valise avec poignée, facile à transporter et à ranger (peu encombrante, légère, poids net total de seulement 2 Kg)
+- ✅ TABLE POLYVALENTE : idéale pour les pique-niques, le camping mais également pour le jardin à loccasion dun barbecue, repas ou fête
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08VR9MRSF/?tag=tolees0d-21)

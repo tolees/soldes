@@ -28,10 +28,10 @@ C'est en vente [Razer Seiren X - Microphone USB de Diffusion Electrostatique Mic
 
 ℹ️:
 
-- Écoutez-vous en temps réel : il est crucial de pouvoir vous contrôler constamment en temps réel lors de la diffusion afin que vous puissiez entendre ce que votre audience entend. Configuration requise : PC ou Mac avec un port USB libre
 - Coupe les bruits : au moyen dun mode de captation supercardioïde, le son est enregistré avec un angle plus petit. Le bruit de fond indésirable est alors supprimé, ce qui permet à votre audience de vous entendre clairement et de ne jamais rater un seul de vos messages
-- Micro électrostatique : en tant que micro électrostatique, le Razer Seirēn X possède une fréquence étendue et une réponse transitoire, qui capte rapidement différents niveaux de son
 - Taille fine. Qualité élevée : la plupart des microphones professionnels ont un bon son mais ont tendance à obstruer la vision et à être trop volumineux pour un bureau à l’espace limité. Grâce à sa forme compacte et élégante, le Razer Seirēn X offre une expérience de diffusion audio supérieure tout en restant aussi discret que possible
+- Écoutez-vous en temps réel : il est crucial de pouvoir vous contrôler constamment en temps réel lors de la diffusion afin que vous puissiez entendre ce que votre audience entend. Configuration requise : PC ou Mac avec un port USB libre
+- Micro électrostatique : en tant que micro électrostatique, le Razer Seirēn X possède une fréquence étendue et une réponse transitoire, qui capte rapidement différents niveaux de son
 - Résistant aux chocs : quand les choses se corsent, vous pourriez accidentellement cogner le micro. Quand c’est le cas, lantichoc intégré absorbe les vibrations pour vous aider à protéger votre diffusion des anomalies sonores
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B076TQ7KKJ/?tag=tolees0d-21)
