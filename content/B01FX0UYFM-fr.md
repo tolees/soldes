@@ -28,10 +28,10 @@ Vous avez [REVLON PROFESSIONAL - Revlon Equave Le Conditionneur Démêlant pour 
 
 ℹ️:
 
-- Un produit exclusif de la marque Revlon
+- Formule douce pour les enfants
 - Soin hydratant
 - Equave Instant Beauty - conditionneur démêlant pour cheveux blonds pour Femme
-- Formule douce pour les enfants
 - Equave Instant Beauty - conditionneur démêlant pour cheveux blonds de la marque Revlon
+- Un produit exclusif de la marque Revlon
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01FX0UYFM/?tag=tolees0d-21)

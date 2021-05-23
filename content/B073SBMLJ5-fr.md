@@ -32,7 +32,7 @@ C'est en vente [Osram 4058075812109 Ampoule LED Plastique 3 80 W G9 Transparent 
 - Dimensions du produit (L x l x h) : 5,8 x 2 x 2 cm
 - Domaines dapplication: éclairage daccentuation et dambiance dans toute la maison
 - Lumière blanc chaud pour une ambiance de détente et de bien-être, idéale dans les chambres ou chambres d’enfants
-- Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 - Sans mercure
+- Succède aux ampoules classiques, se substitue à une ampoule de 40 W (utilisation en extérieur uniquement avec des luminaires appropriés)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073SBMLJ5/?tag=tolees0d-21)

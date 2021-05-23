@@ -28,8 +28,8 @@ Vous avez [PINK SUGAR Eau de Toilette 50 ml](https://www.amazon.fr/dp/B002XOLAFA
 
 ℹ️:
 
-- un produit unique et exclusif de la marque Aquolina
 - Pink Sugar Eau de Cologne - Femme
 - Pink Sugar Eau de Cologne - Aquolina
+- un produit unique et exclusif de la marque Aquolina
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002XOLAFA/?tag=tolees0d-21)

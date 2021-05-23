@@ -28,10 +28,10 @@ C'est en vente [Maybelline New York - Maybelline New-York - Fond de teint Fluide
 
 ℹ️:
 
-- Astuces : utiliser la poudre FIT ME après application du fond de teint pour un résultat ultra-mat
-- Fond de teint fluide avec fini mat pour peau normales, mixtes et grasses, Pour un grain de peau affiné et un teint mat sans défaut au fini poudré : terminés la brillance et les pores visibles
-- Formule fluide et légère enrichie en micro-poudres lissantes, Testé sous contrôle dermatologique, Non comédogène
-- Tube pratique en plastique avec bouchon à visser, Disponible en 38 teintes pour un résultat parfaitement adapté à votre carnation naturelle
 - Contenu : 1x fond de teint Maybelline New-York Fit Me Matte & Poreless, Teinte : 122 Beige, 3 x 4,6 x 11,6 cm, 99,8 g, 30 ml
+- Tube pratique en plastique avec bouchon à visser, Disponible en 38 teintes pour un résultat parfaitement adapté à votre carnation naturelle
+- Fond de teint fluide avec fini mat pour peau normales, mixtes et grasses, Pour un grain de peau affiné et un teint mat sans défaut au fini poudré : terminés la brillance et les pores visibles
+- Astuces : utiliser la poudre FIT ME après application du fond de teint pour un résultat ultra-mat
+- Formule fluide et légère enrichie en micro-poudres lissantes, Testé sous contrôle dermatologique, Non comédogène
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N6K5ZMR/?tag=tolees0d-21)
