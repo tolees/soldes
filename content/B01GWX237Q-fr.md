@@ -29,7 +29,7 @@ C'est en vente [GEOX Man U NEW DAMON B SHOES DK BROWN 45 EU](https://www.amazon.
 ℹ️:
 
 - Cuir Souple
-- Cuir
 - Les chaussures Geox taillent grand, donc nous vous conseillons de choisir une demi-pointure de moins que votre pointure habituelle
+- Cuir
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01GWX237Q/?tag=tolees0d-21)
