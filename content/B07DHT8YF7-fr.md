@@ -28,9 +28,9 @@ C'est en vente [Lacoste Chaymon BL 1 CMA  Baskets Homme Blanc  Wht 21g    43 EU]
 
 ℹ️:
 
-- Semelle extérieure en caoutchouc
 - Dessus en cuir et synthétique
-- Lignes épurées et détails ton sur ton pour une touche d’élégance supplémentaire
+- Semelle extérieure en caoutchouc
 - Crocodile métallisé
+- Lignes épurées et détails ton sur ton pour une touche d’élégance supplémentaire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07DHT8YF7/?tag=tolees0d-21)
