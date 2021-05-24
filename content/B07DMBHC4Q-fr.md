@@ -28,11 +28,11 @@ Vous avez [Vimar K40910 Kit interphone vidéo monofamilial mural  gris plaque et
 
 ℹ️:
 
-- Instructions et manuels sur le site Web de VIMAR
-- VIMAR K40910 kit portier-vidéo pour pose en saillie comprenant 1 poste vidéo de couleur LCD 7in mains libres avec clavier capacitif, 1 platine audio/vidéo à 1 bouton et cadre parapluie, 1 Alimentation 24 VDC 1 A avec fiches interchangeables standard européen, britannique, américain et australien, fourni avec étrier pour la fixation en saillie
-- Surfaces antisalissures polies et brillantes
-- Extensibles: chaque bouton d’appel peut être associé à un maximum de 3 moniteurs
 - Multilingues (italien, anglais, français, allemand, espagnol, portugais, grec, hollandais)
+- Surfaces antisalissures polies et brillantes
+- VIMAR K40910 kit portier-vidéo pour pose en saillie comprenant 1 poste vidéo de couleur LCD 7in mains libres avec clavier capacitif, 1 platine audio/vidéo à 1 bouton et cadre parapluie, 1 Alimentation 24 VDC 1 A avec fiches interchangeables standard européen, britannique, américain et australien, fourni avec étrier pour la fixation en saillie
 - Les kits sont prêts à l’emploi et ne nécessitent aucune programmation particulière; distance maximale entre la plaque et le dernier moniteur: jusqu’à 100 m avec 1 mm2
+- Extensibles: chaque bouton d’appel peut être associé à un maximum de 3 moniteurs
+- Instructions et manuels sur le site Web de VIMAR
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07DMBHC4Q/?tag=tolees0d-21)
