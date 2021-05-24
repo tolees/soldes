@@ -28,10 +28,10 @@ C'est en vente [Russell Hobbs Mijoteur Electrique 3en1 Fonction Sous Vide  Cuiss
 
 ℹ️:
 
-- Mijoteur 3en1 au design moderne dune grande capacité de 6.5 L - idéale pour cuire de grandes quantités daliments pour toute la famille
-- Poignées thermo-isolées. Couvercle en verre verrouillable. Couvercle et cuve compatibles au lave-vaisselle.
-- 2 emplacements pour la sonde de température, verrouillage de la sonde intégré au couvercle
 - Cuve en céramique - la cuve de la mijoteuse est amovible. Ecran digital 3 fonctions
 - Cuisson sous vide (cuisson parfaite des aliments, basse température); Sonde de température (contrôle de la cuisson); Cuisson lente classique (recettes à faire mijoter)
+- Poignées thermo-isolées. Couvercle en verre verrouillable. Couvercle et cuve compatibles au lave-vaisselle.
+- 2 emplacements pour la sonde de température, verrouillage de la sonde intégré au couvercle
+- Mijoteur 3en1 au design moderne dune grande capacité de 6.5 L - idéale pour cuire de grandes quantités daliments pour toute la famille
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07VZYRX1R/?tag=tolees0d-21)
