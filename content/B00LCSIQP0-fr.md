@@ -28,9 +28,9 @@ Vous avez [Mora 748Mg Poignard Mixte Adulte  Noir](https://www.amazon.fr/dp/B00L
 
 ℹ️:
 
-- Lame 15 cm inox
-- Etui rigide kaki
-- Poignard MORA 748mg
 - Manche antidérapant Noir
+- Lame 15 cm inox
+- Poignard MORA 748mg
+- Etui rigide kaki
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LCSIQP0/?tag=tolees0d-21)

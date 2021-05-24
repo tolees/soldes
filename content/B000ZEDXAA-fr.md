@@ -29,9 +29,9 @@ Vous avez [KNIPEX  160 mm  92 94 91](https://www.amazon.fr/dp/B000ZEDXAA/?tag=to
 ℹ️:
 
 - Bon serrage
+- Pointe trapézoïdale
 - Acier à ressort, chromé
 - Forme droite
 - Pour tenir les petites pièces sans pression des doigts
-- Pointe trapézoïdale
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000ZEDXAA/?tag=tolees0d-21)

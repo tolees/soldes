@@ -28,10 +28,10 @@ C'est en vente [Baby Einstein  Table d’éveil musicale et lumineuse Curiosity 
 
 ℹ️:
 
-- Engrenages, circuits de couleurs, lumières et bien plus encore
-- Propose 65 mélodies et sons
 - Plusieurs enfants peuvent jouer ensemble
+- Propose 65 mélodies et sons
 - Pieds amovibles pour plusieurs modes de jeu
 - Un éventail d’activités pour éveiller la créativité de bébé
+- Engrenages, circuits de couleurs, lumières et bien plus encore
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CP8CK7S/?tag=tolees0d-21)

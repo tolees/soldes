@@ -29,10 +29,10 @@ Vous avez [Bosch Home and Garden F016800486 AquaSurf 250 Multi-Surfaces pour Net
 ℹ️:
 
 - Rapide et facile dutilisation avec ses 250mm et sa tête pivotante.
-- Accessoire compatible avec les Nettoyeurs Haute-Pression Bosch (sauf AQT 42-13, AQT 45-14 X et les Advanced Aquatak).
-- Tête de nettoyage de 250 mm idéale pour le nettoyage de patios et allées de petite et moyenne superficie
-- Idéal pour les petites et moyennes surfaces.
 - La collerette entourant la brosse évite les éclaboussures sur les côtés
+- Tête de nettoyage de 250 mm idéale pour le nettoyage de patios et allées de petite et moyenne superficie
+- Accessoire compatible avec les Nettoyeurs Haute-Pression Bosch (sauf AQT 42-13, AQT 45-14 X et les Advanced Aquatak).
+- Idéal pour les petites et moyennes surfaces.
 - Articulation pivotante pour un maniement facile et une efficacité maximale
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B06WLKKDLG/?tag=tolees0d-21)
