@@ -28,9 +28,9 @@ Vous avez [Xiaomi DVB4235GL Mi WiFi Range Extender Pro Répéteur](https://www.a
 
 ℹ️:
 
-- “Dead-Zone” Killer
 - Deux puissantes antennes externes
 - Supporte jusquà 24 appareils
 - 300 Mbps
+- “Dead-Zone” Killer
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B084WT4WWK/?tag=tolees0d-21)
