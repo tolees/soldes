@@ -28,10 +28,10 @@ C'est en vente [Philips QP2530/30 OneBlade Rechargeable  100% Étanche  4 Sabots
 
 ℹ️:
 
+- 4 sabots barbe : 1, 2, 3 & 5 mm
 - Technologie électrique OneBlade unique: efficacité sans irritation ni coupure
+- OneBlade pour tailler, définir les contours et raser votre barbe, même longue
 - A utiliser avec ou sans sabot, à sec ou avec de la mousse
 - 60 mn dautonomie pour 4h de charge
-- OneBlade pour tailler, définir les contours et raser votre barbe, même longue
-- 4 sabots barbe : 1, 2, 3 & 5 mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01B1NVCEC/?tag=tolees0d-21)
