@@ -30,8 +30,8 @@ Vous avez [BABYBJÖRN Transat Balance Soft  Cotton  avec Jouet en Bois pour Tran
 
 - Transat physiologique – un soutien adéquat dès la naissance
 - Se décline en trois textiles doux: coton, mes et jersey 3d ultra-doux
-- De 3, 5 kg/53 cm à 13 kg (soit env. de la naissance à 2 ans)
 - Un balancement naturel sans pile ou fil électrique
 - Pliable et facile à déplacer dans la maison
+- De 3, 5 kg/53 cm à 13 kg (soit env. de la naissance à 2 ans)
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KA1EJ88/?tag=tolees0d-21)

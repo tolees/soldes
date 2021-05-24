@@ -28,10 +28,10 @@ C'est en vente [NUTRI & CO - Curcuma BIO Breveté en Gélules | Garanti sans Pip
 
 ℹ️:
 
+- 💸 FAITES DES ÉCONOMIES ●● Le curcuma c’est bien, mais absorbable c’est encore mieux ! Nutri&Co a donc sélectionné une curcumine concentrée et micro-encapsulée dans des fibres de fenugrec. Son absorption est bien supérieure à celle dune curcumine classique avec pipérine et gingembre.
 - 🙅 SURTOUT PAS DE PIPÉRINE ●● De plus en plus d’études cliniques démontrent que le poivre noir n’augmente pas la biodisponibilité du curcuma, mais la perméabilité intestinale. Résultat ? En plus d’irriter votre côlon, toxines et métaux lourds se joindront à votre curcumine lors de son voyage vers les cellules…
+- 🔎 CERTIFIÉ ECOCERT ET TRANSPARENT ●● Cultivé en Inde dans les régions du Kérala et du Tamil Nadu, le curcuma Nutri&Co est issu de l’agriculture biologique. Ses actifs sont extraits à l’eau et à l’éthanol, évitant les solvants chimiques parfois toxiques ! Les gélules sont fabriquées en France sans stéaratre de magnésium.
 - ✨ FORMULE HOLISTIQUE ●● Les gélules Nutri&Co associent deux actifs de la plante pour en décupler les effets : curcumine (CurQfen) et turmérosaccharides (Turmacin). Ces deux molécules brevetées sont 100% naturelles et vegan.
 - 🥇 1er CURCUMA BIO POTENTIALISÉ ●● Nutri&Co lance le 1er curcuma conciliant haute absorption ET culture biologique. Jusqu’à ce jour, il fallait choisir une formule bio, mais faiblement absorbable (poudre alimentaire, extrait concentré à 95% de curcuminoïdes) ou un brevet haute absorption mais non biologique (Meriva, Novasol, etc.).
-- 🔎 CERTIFIÉ ECOCERT ET TRANSPARENT ●● Cultivé en Inde dans les régions du Kérala et du Tamil Nadu, le curcuma Nutri&Co est issu de l’agriculture biologique. Ses actifs sont extraits à l’eau et à l’éthanol, évitant les solvants chimiques parfois toxiques ! Les gélules sont fabriquées en France sans stéaratre de magnésium.
-- 💸 FAITES DES ÉCONOMIES ●● Le curcuma c’est bien, mais absorbable c’est encore mieux ! Nutri&Co a donc sélectionné une curcumine concentrée et micro-encapsulée dans des fibres de fenugrec. Son absorption est bien supérieure à celle dune curcumine classique avec pipérine et gingembre.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07J5QRW63/?tag=tolees0d-21)

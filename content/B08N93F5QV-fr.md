@@ -28,9 +28,9 @@ C'est en vente [IBEROMASK Masques Chirurgicaux Type 2R IIR BFE > 98%. Certifié 
 
 ℹ️:
 
-- Boîte de 50, 10 sachets de 5 pièces
-- Type 2R. Conforme à la norme EN 14683: 2019 + AC: 2019
 - Fabriqué en Espagne
+- Type 2R. Conforme à la norme EN 14683: 2019 + AC: 2019
+- Boîte de 50, 10 sachets de 5 pièces
 - 17.5 x 9.5 cm (sans les boucles doreilles). Poids total : 120 g.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08N93F5QV/?tag=tolees0d-21)

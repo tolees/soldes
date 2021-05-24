@@ -28,10 +28,10 @@ Vous avez [Black+Decker BXVC20XE Aspirateur Solides et Liquides  1400 W  20 l ](
 
 ℹ️:
 
+- Verrouillage/déverrouillage rapide pour le décolmatage des filtres et de la cuve
 - Laspirateur comporte un filtre mousse pour les liquides et un sac filtrant EN tissu pour les poussières
 - Aspirateur compact, très léger et maniable
 - Aspirateur solides et liquides puissant avec fonction souffleur, cuve à déchets en acier inox solide et résistante
-- Verrouillage/déverrouillage rapide pour le décolmatage des filtres et de la cuve
 - La fonction souffleur est utile pour les endroits difficilement accessibles ou aspirables
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01EVJC6JS/?tag=tolees0d-21)
