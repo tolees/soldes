@@ -28,10 +28,10 @@ C'est en vente [Corsair Harpoon PRO RGB  FPS/MOBA Optique Souris Gaming  12000DP
 
 ℹ️:
 
-- Configuration plug-and-play facile : Prête pour le jeu dès sa sortie de la boîte : branchez-la simplement à un port USB et partez à l’assaut de la concurrence
 - Forme profilée et accroches latérales en caoutchouc : Jouez confortablement pendant des heures avec une prise en main confortable
-- Six boutons entièrement programmables : Prenez l’avantage en jeu grâce aux fonctions allant du remappage de touches aux macros complexes personnalisées
 - Construction légère : Pèse seulement 85 g, pour vous permettre de jouer encore plus longtemps
 - Capteur optique performant de 12000DPI : Suivi de haute précision pour un contrôle exact lorsque vous jouez
+- Six boutons entièrement programmables : Prenez l’avantage en jeu grâce aux fonctions allant du remappage de touches aux macros complexes personnalisées
+- Configuration plug-and-play facile : Prête pour le jeu dès sa sortie de la boîte : branchez-la simplement à un port USB et partez à l’assaut de la concurrence
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07RDQBFXY/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Texas Instruments - TI-83 Premium CE – Calculatrice graphique – M
 
 ℹ️:
 
-- Ecran couleur haute résolution & Possibilité dinsertion dimages
-- Ecriture intuitive des formules mathématiques et affichage des résultats en valeur exacte ou approchée
-- Mode examen intégré
-- Cble USB: Echange calculatrice- ordinateur, mise à jour du système dexploitation, téléchargement de nouvelles applications
 - Toutes les fonctionnalités essentielles pour le lycée (représentation graphique, probabilités et statistiques, programmation, suites...)
+- Cble USB: Echange calculatrice- ordinateur, mise à jour du système dexploitation, téléchargement de nouvelles applications
+- Ecriture intuitive des formules mathématiques et affichage des résultats en valeur exacte ou approchée
+- Ecran couleur haute résolution & Possibilité dinsertion dimages
+- Mode examen intégré
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00XVISDUW/?tag=tolees0d-21)
