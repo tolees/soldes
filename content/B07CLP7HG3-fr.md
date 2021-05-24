@@ -29,11 +29,11 @@ C'est en vente [LG HU80KG vidéo-projecteur 2500 ANSI lumens DLP 2160p  3840x216
 ℹ️:
 
 - LG HU80KG. Luminosité du projecteur: 2500 ANSI lumens
-- Type de lampe: Diode laser. Mise au point: Manuel
 - Résolutions graphiques prises en charge: 1920 x 1080 (HD 1080),3840 x 2160,4096 x 2160
-- Résolution native du projecteur: 2160p (3840x2160). Durée de vie de la lampe: 20000 h
-- Modes vidéo pris en charge: 480i,480p,720p,1080i,1080p,2160p,3840p. Type de connecteur HDMI: Pleine taille
-- Zoom optique: 1,2x. Système de format du signal analogique: NTSC,NTSC 4.43,PAL,PAL M,PAL N,SECAM
+- Type de lampe: Diode laser. Mise au point: Manuel
 - Technologie de projection: DLP.Consommation dénergie: 280W (Max)
+- Zoom optique: 1,2x. Système de format du signal analogique: NTSC,NTSC 4.43,PAL,PAL M,PAL N,SECAM
+- Modes vidéo pris en charge: 480i,480p,720p,1080i,1080p,2160p,3840p. Type de connecteur HDMI: Pleine taille
+- Résolution native du projecteur: 2160p (3840x2160). Durée de vie de la lampe: 20000 h
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07CLP7HG3/?tag=tolees0d-21)
