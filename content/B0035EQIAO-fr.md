@@ -28,9 +28,9 @@ C'est en vente [Learning Resources Carte Flash Électronique Minute De Maths De 
 
 ℹ️:
 
-- Dimensions de lemballage : 47.2 x 43.2 x 28.4 cm
-- Âge recommandé : 7 ans - 11 ans
 - Fait travailler les mathématiques de façon amusante.
+- Dimensions de lemballage : 47.2 x 43.2 x 28.4 cm
 - Poids du colis de larticle : 4.9 kg
+- Âge recommandé : 7 ans - 11 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0035EQIAO/?tag=tolees0d-21)

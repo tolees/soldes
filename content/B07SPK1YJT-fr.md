@@ -28,11 +28,11 @@ C'est en vente [Objectif TAMRON - 35mm F/1 4 Di USD - Monture Canon](https://www
 
 ℹ️:
 
-- Une excellente qualité d’image
-- Un autofocus ultra-précis et rapide
-- Une netteté à couper le souffle et un bokeh dune intense douceur
 - Taille de filtre: 7,2 cm
+- Une excellente qualité d’image
 - Longueur du produit: 10,5 cm
+- Un autofocus ultra-précis et rapide
 - Un revêtement au fluor et une construction tout-temps
+- Une netteté à couper le souffle et un bokeh dune intense douceur
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07SPK1YJT/?tag=tolees0d-21)

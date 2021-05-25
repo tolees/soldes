@@ -28,10 +28,10 @@ Vous avez [Sony MHC-V81D Chaîne High-Power monobloc à effets de lumière et di
 
 ℹ️:
 
-- Un son puissant à 360° pour pouvoir profiter de la musique nimporte où dans la chambre
-- Des effets de lumière multicolore et une diffusion de son à 360°
-- Des effets DJ, 2 entrées microphone et 1 entrée guitare pour apporter votre touche de personnalité à votre musique
 - Lecture audio multi sources (Bluetooth/NFC, CD, DVD, USB, etc.) et une connexion aisée à votre TV grâce au HDMI
+- Des effets DJ, 2 entrées microphone et 1 entrée guitare pour apporter votre touche de personnalité à votre musique
+- Un son puissant à 360° pour pouvoir profiter de la musique nimporte où dans la chambre
 - Nouveau mode TAIKO: Utilisez votre enceinte comme une batterie et épatez vos proches
+- Des effets de lumière multicolore et une diffusion de son à 360°
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B078WSSTG8/?tag=tolees0d-21)
