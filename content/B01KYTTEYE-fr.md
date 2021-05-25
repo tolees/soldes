@@ -28,7 +28,7 @@ C'est en vente [Petzl E99ada NEUF Tactikka Core compacte Multifaisceau avec écl
 
 ℹ️:
 
-- Design ergonomique
 - De bonne qualité
+- Design ergonomique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01KYTTEYE/?tag=tolees0d-21)

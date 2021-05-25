@@ -28,10 +28,10 @@ C'est en vente [Ventilateur colonne Tristar VE-5905 – 73 cm – Minuterie](htt
 
 ℹ️:
 
+- Avec minuterie pour ne plus oublier de léteindre
 - Ventilateur colonne facile à déplacer grâce à sa poignée intégrée
 - Puissant moteur de 30 W pour un air bien rafraichissant
-- Trois réglages de flux dair différents pour votre confort
-- Avec minuterie pour ne plus oublier de léteindre
 - Il sadapte à nimporte quelle pièce grâce à son design épuré et élégant. Type de prise dalimentation: C - CEE 1/16
+- Trois réglages de flux dair différents pour votre confort
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06XGB8DM9/?tag=tolees0d-21)
