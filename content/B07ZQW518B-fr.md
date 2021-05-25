@@ -28,10 +28,10 @@ Vous avez [AOC Gaming 27G2 Moniteur de Gaming  FHD  HDMI  DisplayPort  Free-Sync
 
 ℹ️:
 
+- Contenu de la livraison : moniteur AOC 27G2/BK 80 cm (27") noir/rouge, câble dalimentation, HDMI, Displayport, pilote CD, carte de garantie
 - Écran de jeu Full HD de 27 pouces avec technologie FlickerFree et Low Blue-Light pour un plaisir de jeu illimité.
+- Luminosité/contraste : 250 cd/m2, 1000 : 1, connexions : 2 x HDMI 1,4, 1 x DisplayPort 1,2
 - Panneau IPS, Full HD, écran mat, hauteur réglable de 130 mm, sortie casque, Vesa 100 x 100, pied amovible, cadre fin, haut-parleur.
 - Garantie Fabricant: 3 ans -
-- Luminosité/contraste : 250 cd/m2, 1000 : 1, connexions : 2 x HDMI 1,4, 1 x DisplayPort 1,2
-- Contenu de la livraison : moniteur AOC 27G2/BK 80 cm (27") noir/rouge, câble dalimentation, HDMI, Displayport, pilote CD, carte de garantie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ZQW518B/?tag=tolees0d-21)
