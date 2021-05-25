@@ -28,9 +28,9 @@ Vous avez [Makita LCT204J Pack de 2 Machines en coffret Makpac avec 2 batteries 
 
 ℹ️:
 
-- TD090D - Visseuse à chocs 90 Nm - Capacité : boulon standard M5 à M12 - M5 à M12Capacité : boulon HR M5 à M10
-- Vitesse à vide V1/V2 0 à 350 / 0 à 1300 tr/min
-- DF330D - Perceuse visseuse Ø 10 mm - Couple de serrage max. (élast/franc) 14/24 Nm - Ø max. dans acier/bois 10/21 mm
 - Temps de charge en moyenne: 50 min.
+- Vitesse à vide V1/V2 0 à 350 / 0 à 1300 tr/min
+- TD090D - Visseuse à chocs 90 Nm - Capacité : boulon standard M5 à M12 - M5 à M12Capacité : boulon HR M5 à M10
+- DF330D - Perceuse visseuse Ø 10 mm - Couple de serrage max. (élast/franc) 14/24 Nm - Ø max. dans acier/bois 10/21 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00HREWXXY/?tag=tolees0d-21)
