@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IBEROMASK Masques Chirurgicaux Type 2R I avec 17.39 % rabais '
-date: 2021-05-24 05:54:44
+date: 2021-05-25 06:22:37
 image: 'https://m.media-amazon.com/images/I/312OqRb7G2L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,9 +28,9 @@ C'est en vente [IBEROMASK Masques Chirurgicaux Type 2R IIR BFE > 98%. Certifié 
 
 ℹ️:
 
-- Fabriqué en Espagne
 - Type 2R. Conforme à la norme EN 14683: 2019 + AC: 2019
 - Boîte de 50, 10 sachets de 5 pièces
+- Fabriqué en Espagne
 - 17.5 x 9.5 cm (sans les boucles doreilles). Poids total : 120 g.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08N93F5QV/?tag=tolees0d-21)
