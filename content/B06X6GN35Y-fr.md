@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - 60167 - Le QG des Garde-Côtes avec 19.98 % rabais '
-date: 2021-05-24 18:12:09
+date: 2021-05-25 18:23:31
 image: 'https://m.media-amazon.com/images/I/61PEp3HvvHL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06X6GN35Y/?tag=tolees0d-21'
 descuento: '19.98'
-average: '155.330999999998'
+average: '155.267344398338'
 ---
 
 C'est en vente [LEGO - 60167 - Le QG des Garde-Côtes](https://www.amazon.fr/dp/B06X6GN35Y/?tag=tolees0d-21)  à  19.98 % de réduction, prix final  139.99 EUR (original: 174.94 EUR) ici:
@@ -28,8 +28,8 @@ C'est en vente [LEGO - 60167 - Le QG des Garde-Côtes](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Les garde-côtes en mission de sauvetage !
-- Inclut sept figurines, plus des figurines de requin et de poulpe.
 - Âge : 6 - 12 ans
+- Inclut sept figurines, plus des figurines de requin et de poulpe.
+- Les garde-côtes en mission de sauvetage !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06X6GN35Y/?tag=tolees0d-21)
