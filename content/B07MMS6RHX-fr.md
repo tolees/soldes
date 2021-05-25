@@ -28,10 +28,10 @@ Vous avez [Infosec - Onduleur Z3 ZenBox EX 1000 VA  4 prises secourues  4 prises
 
 ℹ️:
 
-- Port USB communicant, Compatible Logiciel Infopower
-- +4 prises compatibles FR protégées et Port Rj45( In/Out)
+- Dimensions : 23 x 20 x 9,2 cm - Poids : 3,40 kg
 - Onduleur (technologie off line) - Garantie de 3 ans
 - 4 prises secourues et compatibles FR
-- Dimensions : 23 x 20 x 9,2 cm - Poids : 3,40 kg
+- +4 prises compatibles FR protégées et Port Rj45( In/Out)
+- Port USB communicant, Compatible Logiciel Infopower
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MMS6RHX/?tag=tolees0d-21)
