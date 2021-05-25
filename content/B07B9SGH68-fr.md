@@ -28,13 +28,13 @@ Vous avez [Fitbit Versa - Montres Connectées Forme  Sport et Bien-être : Plus 
 
 ℹ️:
 
-- Altitude maximale de fonctionnement : 8535 mètres
 - Restez connecté avec des notifications appel, SMS (possibilité de réponse rapide au poignet), calendrier et/ou apps smartphone ; Fonctionne avec un smartphone compatible, situé à proximité
-- Lancez manuellement le suivi dune activité spécifique avec le mode multisports pour voir vos statistiques en temps réel au poignet
 - Disposez de votre musique préférée, sans téléphone ni baladeur, en stockant dans votre montre plus de 300 morceaux, dont vos titres Deezer (abonnement requis)
 - Réglez vos achats avec votre montre, en lapprochant dun terminal de paiement électronique sans contact
-- Laissez faire le suivi intelligent SmartTrack qui les reconnait et les enregistre automatiquement pour vous
 - Suivez vos séances de natation avec des statistiques telles que la durée de la séance, le nombre de longueurs et de calories brûlées
+- Laissez faire le suivi intelligent SmartTrack qui les reconnait et les enregistre automatiquement pour vous
+- Lancez manuellement le suivi dune activité spécifique avec le mode multisports pour voir vos statistiques en temps réel au poignet
 - Portez votre montre l’esprit tranquille, elle vous suit plusieurs jours sans nécessiter de recharge grâce à son autonomie de batterie longue durée (varie selon lutilisation et dautres facteurs)
+- Altitude maximale de fonctionnement : 8535 mètres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07B9SGH68/?tag=tolees0d-21)
