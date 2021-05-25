@@ -30,9 +30,9 @@ C'est en vente [Enceinte sans fil Libratone ZIPP  son 360°  WiFi  Bluetooth  Mu
 
 - Musique Multi-Room : Associez votre ZIPP ou votre ZIPP MINI avec le SoundSpace Link pour créer une expérience découte Multi-Room unique et flexible.
 - Simplicité de lAppli : Connectez, combinez et contrôlez votre ZIPP avec lappli innovante: Libratone APP.
+- Rechargement: Transportez le ZIPP partout dans votre maison. Profitez de dix heures de pure force acoustique.
 - FullRoom 360 degrés : La technologie acoustique FullRoom envoie des ondes sonores dans toutes les directions et remplit votre maison dun son riche et luxueux.
 - Alimentation : entrée de 100-240 V AC 50/60 Hz
 - Connexion Internet: Utilisez Spotify Connect ou choisissez vos stations de radio en streaming directement depuis le Cloud.
-- Rechargement: Transportez le ZIPP partout dans votre maison. Profitez de dix heures de pure force acoustique.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0150DT7FK/?tag=tolees0d-21)
