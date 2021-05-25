@@ -28,10 +28,10 @@ Vous avez [G-STAR RAW Tunic V-Neck Tunique col V  Faded Aegean Blue C611-c245  X
 
 ℹ️:
 
-- Col V profond, col à bande avec cordon de serrage intégré
-- Poches latérales profondes
 - Plis dans le dos
 - Manches longues raglan à poignet boutonné
 - Ourlet arrondi
+- Poches latérales profondes
+- Col V profond, col à bande avec cordon de serrage intégré
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08CH9H9V4/?tag=tolees0d-21)
