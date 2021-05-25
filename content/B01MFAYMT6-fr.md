@@ -28,10 +28,10 @@ Vous avez [Anpro Testeur de Piles UniverselAAA AA Batterie Testeur de 1.5V 9V Bo
 
 ℹ️:
 
-- Paquet compris : 1 x Testeur de batterie
 - Applicable aux types de batterie de 1.5V et 9V et Pile Bouton, par exemple AA,AAA,C,D,9V(plus de détails,veuillez vous regarder la troisième image)
-- Attention:Il suggère de réduire le temps de test plus que possible à économiser lénergie de votre batterie. Dimension :6.7 x 3.9 x 1.2 pouces fabrique en plastique
 - ATTENTION:La marque "CE" gravée sur le produit est déja remplacée par létiquette collée dans lemballage.Applicable aux types de batterie de 1.5V et 9V et Pile Bouton, par exemple AA,AAA,C,D,9V(plus de détails,veuillez vous regarder la troisième image)
 - Lire rapide,chiffre afficher sur lecran LCD et indique le niveau de puissance,sur le dos il y a des batterie qui vous dit quelle batterie est compatible à ce testeur
+- Paquet compris : 1 x Testeur de batterie
+- Attention:Il suggère de réduire le temps de test plus que possible à économiser lénergie de votre batterie. Dimension :6.7 x 3.9 x 1.2 pouces fabrique en plastique
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01MFAYMT6/?tag=tolees0d-21)

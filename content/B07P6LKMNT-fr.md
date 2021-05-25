@@ -29,9 +29,9 @@ Vous avez [MY BIRDIE HOME Répulsif à Ultrasons Souris et Rat - Appareil élect
 ℹ️:
 
 - 😎GARANTIE DE 90 JOURS SUR LE PRODUIT: nous offrons une garantie de 90 jours à partir de la date dachat. Il n’est pas anormal que le nombre de souris, araignées, loir, fouines et autres augmente dans les premiers jours d’utilisation car ils sont délogés par les ultrasons. Il faut compter environ 4 semaines pour obtenir des résultats optimaux
-- 🏡COUVERTURE LARGE - PROTEGEZ VOTRE FAMILLE ET SOYEZ ZEN: notre puissante prise ultrasonique couvre jusquà 140m2 en intérieur. Il est conseillé dinstaller un appareil par pièce pour un meilleur résultat
-- ✔DEBARRASSEZ-VOUS DES NUISIBLES: notre appareil à ultrasons est très efficace grâce sa nouvelle technologie. Il émet des ultrasons de différentes fréquences pour empêcher les souris, araignées, moustiques et insectes de sy adapter et les forcer à séloigner
-- 👨‍👩‍👧‍👦NE PRENEZ AUCUN RISQUE - APPAREIL SANS DANGER: les ultrasons de notre appareil électrique sont sans danger pour les humains et animaux de compagnie. Il német pas donde électromagnétique et ne sera audible que par les nuisibles. Soyez zen !
 - ⌛️FACILITE DUTILISATION - Plus simple quun piège et sans pile à remplacer ! Lappareil sinstalle en 2 secondes chrono : il suffit de le brancher à une prise électrique et dactionner linterrupteur. Installer lappareil à 10-40cm à la verticale du sol. Ne gaspillez plus votre temps !
+- ✔DEBARRASSEZ-VOUS DES NUISIBLES: notre appareil à ultrasons est très efficace grâce sa nouvelle technologie. Il émet des ultrasons de différentes fréquences pour empêcher les souris, araignées, moustiques et insectes de sy adapter et les forcer à séloigner
+- 🏡COUVERTURE LARGE - PROTEGEZ VOTRE FAMILLE ET SOYEZ ZEN: notre puissante prise ultrasonique couvre jusquà 140m2 en intérieur. Il est conseillé dinstaller un appareil par pièce pour un meilleur résultat
+- 👨‍👩‍👧‍👦NE PRENEZ AUCUN RISQUE - APPAREIL SANS DANGER: les ultrasons de notre appareil électrique sont sans danger pour les humains et animaux de compagnie. Il német pas donde électromagnétique et ne sera audible que par les nuisibles. Soyez zen !
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07P6LKMNT/?tag=tolees0d-21)

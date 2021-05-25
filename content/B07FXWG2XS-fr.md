@@ -29,10 +29,10 @@ Vous avez [Vans Filmore Decon  Sneaker Femme  Black/True White  37 EU](https://w
 ℹ️:
 
 - Dessus : Toile
-- Matériau de semelle : Caoutchouc
-- Fermeture : Lacets
-- Semelle intérieure : Synthétique
-- Doublure : Textile
 - Type de talons : Plat
+- Matériau de semelle : Caoutchouc
+- Semelle intérieure : Synthétique
+- Fermeture : Lacets
+- Doublure : Textile
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07FXWG2XS/?tag=tolees0d-21)

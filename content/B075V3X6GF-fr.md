@@ -28,10 +28,10 @@ Vous avez [HUION H640P Tablette Graphique 8192 de sensibilité à la Pression av
 
 ℹ️:
 
+- Stylet sans batterie: plus efficace et plus économique. Il est respectueux de lenvironnement en évitant la restriction du câble de chargement
 - ★Nous avons de nouvelles mises à jour du micrologiciel qui prennent en charge la connexion de téléphone mobile Android. Si cela vous intéresse, contactez-nous★ Espace de travail suffisant et compact de 6,3  x 3,9 , look doux assuré par sa texture façon papier lisse, design sans lunette et coins ronds
 - Performances exceptionnelles: 8192 niveaux de sensibilité à la pression, perçoit avec précision la pression du stylet, montre avec précision les changements de nuances de lignes et dépaisseur, vous donne un sentiment d’expérience de peinture réelle
-- 6 clés personnalisables: personnalisez la fonction express selon votre besoin pour une utilisation plus commode
-- Stylet sans batterie: plus efficace et plus économique. Il est respectueux de lenvironnement en évitant la restriction du câble de chargement
 - Compatibilité: prend en charge OS Windows 7/8 / 8.1 / 10 et Mac 10.11.0 ou versions ultérieures. Veuillez noter que certaines séries de téléphones mobiles Samsung (à l’exception de la série Galaxy Note) peuvent ne pas avoir de Curseur sur le téléphone.
+- 6 clés personnalisables: personnalisez la fonction express selon votre besoin pour une utilisation plus commode
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075V3X6GF/?tag=tolees0d-21)

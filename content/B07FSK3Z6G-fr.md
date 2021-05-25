@@ -28,9 +28,9 @@ Vous avez [Philips BRI949/00 Lumea Prestige Epilateur à lumière pulsée avec 4
 
 ℹ️:
 
+- Fonctionne sur secteur avec un fil XXL, pour une liberté de mouvement optimale
 - 4 embouts adaptés aux types de poils/peaux par zone : corps, visage, aisselles et maillot
 - Jusquà 92% de réduction de la pilosité après 3 séances. (Mesuré sur les jambes post 3ème séance)
-- Fonctionne sur secteur avec un fil XXL, pour une liberté de mouvement optimale
 - Le capteur SmartSkin vous recommande le réglage dintensité le plus adapté à votre teint de peau
 - Tondeuse de précision pour effectuer des retouches rapides de manière simple et pratique
 
