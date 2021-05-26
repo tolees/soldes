@@ -28,10 +28,10 @@ C'est en vente [ARCTIC P12 - 120 mm  Ventilateur Boitier Silencieux  Refroidisse
 
 ℹ️:
 
-- LONGUE DURÉE DE VIE: Le roulement à fluide dynamique est conçu de façon à prévenir les fuites; aussi silencieux quun roulement à glissement; durée de vie est nettement plus longue
 - HAUTES CAPACITEE DE REFROIDISSEMENT: Ce ventilateur silencieux dARCTIC, promet de haute performances de refroidissement du CPU tout en minimisant le bruit
+- AUTRES INFORMATIONS: Vitesse de ventilation: 1800 RPM, Flux dair: 56,3 CFM/95,7 m³/h (@ 1800 RPM), Niveau sonore: 0,3 Sone (@ 1800 RPM), 3 Broches
+- LONGUE DURÉE DE VIE: Le roulement à fluide dynamique est conçu de façon à prévenir les fuites; aussi silencieux quun roulement à glissement; durée de vie est nettement plus longue
 - INSTALLATION Bi-DIRECTIONNELLE: Souffler de lair chaud hors du boîtier; aspirez de lair frais vers lintérieur; ventilateur à 3 broches avec boîtier standard
 - PRESSION STATIQUE ÉLEVËE: De ventilateur entièrement optimisées pour une pression statique élevée 2,2 mm H2O; efficace même dans le cas dune une résistance à lair supérieure
-- AUTRES INFORMATIONS: Vitesse de ventilation: 1800 RPM, Flux dair: 56,3 CFM/95,7 m³/h (@ 1800 RPM), Niveau sonore: 0,3 Sone (@ 1800 RPM), 3 Broches
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07GB16RK7/?tag=tolees0d-21)
