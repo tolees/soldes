@@ -29,8 +29,8 @@ C'est en vente [LEGO Hidden Side  Le buggy de plage de Jack  Appli AR Games  Set
 ℹ️:
 
 - Inclut les figurines de Jack, Parker et du mécanicien fantôme Scott Francis pour affronter le chef fantôme Trucker Dale dans un monde numérique hanté
-- L’expérience de jeu en réalité augmentée (AR) est constamment mise à jour avec de nouveaux contenus, fantômes et événements spéciaux pour assurer un plaisir de jeu infini
 - Le jouet Le buggy de plage est équipé pour combiner un jeu LEGO créatif avec une application numérique en fournissant ainsi une expérience de jeu en réalité augmentée (AR) en solo ou à plusieurs
+- L’expérience de jeu en réalité augmentée (AR) est constamment mise à jour avec de nouveaux contenus, fantômes et événements spéciaux pour assurer un plaisir de jeu infini
 - Lexpérience a été enrichie par la mise en place de loption multijoueur Compatible avec plus de 180 systèmes dexploitation et appareils Android - consultez la description du produit pour plus de détails
 - Le buggy se transforme lorsqu’il est observé à travers un dispositif intelligent équipé de l’application gratuite de réalité augmentée LEGO, les enfants peuvent résoudre des mystères et chasser des fantômes
 

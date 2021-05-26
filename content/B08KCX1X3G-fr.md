@@ -28,8 +28,8 @@ C'est en vente [Bandai Namco Entertainment - Balan Wonderworld  SWITCH ](https:/
 
 ℹ️:
 
-- Les retrouvailles de deux créateurs légendaires !
 - Wonderworld se dresse à la croisée de nos cœurs et de notre imagination
 - Plus de 80 costumes différents, autant dactions, et une myriade de possibilités !
+- Les retrouvailles de deux créateurs légendaires !
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08KCX1X3G/?tag=tolees0d-21)
