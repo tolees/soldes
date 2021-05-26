@@ -28,10 +28,10 @@ C'est en vente [Cultivea – Kit Prêt à Pousser d’Herbes Aromatiques – Gra
 
 ℹ️:
 
-- 🌱 KIT COMPLET : Le kit contient tout ce qu’il vous faut pour faire pousser vos herbes facilement et de façon durable. La terre, les graines et tous les objets décoratifs sont donc présents dans le kit. De plus vous ne serez jamais perdu ou en manque de conseils en suivant notre notice qui va vous assister pas à pas.
 - 🎁 IDÉE CADEAU : Les kits d’herbes aromatiques Cultivea sont parfaits comme idées cadeaux insolites que ce soit pour des personnes appréciant le jardinage d’intérieur, la cuisine ou la déco. En offrant ce pack, vous êtes sûrs de proposer un cadeau ludique, écologique, original et surprenant pour Noël, la fête des mères, des anniversaires et pour bien d’autres événements.
+- 🌱 KIT COMPLET : Le kit contient tout ce qu’il vous faut pour faire pousser vos herbes facilement et de façon durable. La terre, les graines et tous les objets décoratifs sont donc présents dans le kit. De plus vous ne serez jamais perdu ou en manque de conseils en suivant notre notice qui va vous assister pas à pas.
 - 🍃 GRAINE BIOLOGIQUE ET PRODUIT ÉCOLOGIQUE : Nous avons à coeur de ne proposer que des graines françaises issues d’une agriculture 100 % biologique et respectueuse de l’environnement. Ne craignez plus les pesticides ou les traitements inconnues de vos plantes. Vous êtes désormais acteur de votre alimentation.
-- 💪MADE IN FRANCE & SOCIALEMENT ENGAGÉ : Cultivea sengage socialement. En effet, nos produits sont conditionnés en France par des personnes en situation de handicap. Notre marque souhaite donner une chance à chacun et sengage par ce biais pour linsertion professionnelle ainsi que légalité des chances.
 - 🌿 CULTIVEZ PAR VOUS MÊME : Avec Cultivea, c’est vous qui réalisez la culture de vos herbes aromatiques (Ciboulette, Basilic, Persil). Même sans jardin, vous pouvez désormais faire pousser des aromates en intérieur tout au long de l’année. Cultivez vos propres herbes pour cuisiner avec des produits dont vous pouvez être fier.
+- 💪MADE IN FRANCE & SOCIALEMENT ENGAGÉ : Cultivea sengage socialement. En effet, nos produits sont conditionnés en France par des personnes en situation de handicap. Notre marque souhaite donner une chance à chacun et sengage par ce biais pour linsertion professionnelle ainsi que légalité des chances.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07PNCF3XS/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [Microscope Numérique WiFi  Skybasic Mini Microscope de Grossissement
 
 ℹ️:
 
-- [ Microscope 50X à 1000X] Ce microscope a un grossissement de 50x à 1000x. De plus, ce microscope également soutient la prise de photos ou de vidéos et le stockage de fichiers.
-- [Microscope avec WiFi et USB] Microscope Skybasic, vous pouvez connecter par WIFI ou USB
-- [Le mini microscope de poche] Il est léger et portable. Equipé dun support de tube en forme de serpent flexible qui peut être tourné à 360 ° pour réduire les tremblements.
-- [Microscope HD] Caméra de HD 1080P 2MP, 8 lumières LED réglables fournissent des extraordinaires détails et la meilleure clarté. Il garantit que limage agrandie est claire et lumineuse.
 - [Large application] Il est très convenable pour lapprentissage et lexploration, linspection de la peau, linspection des plantes, linspection des bijoux,linspection des pièces de monnaie, linspection de limpression etc.
+- [Microscope avec WiFi et USB] Microscope Skybasic, vous pouvez connecter par WIFI ou USB
+- [Microscope HD] Caméra de HD 1080P 2MP, 8 lumières LED réglables fournissent des extraordinaires détails et la meilleure clarté. Il garantit que limage agrandie est claire et lumineuse.
+- [ Microscope 50X à 1000X] Ce microscope a un grossissement de 50x à 1000x. De plus, ce microscope également soutient la prise de photos ou de vidéos et le stockage de fichiers.
+- [Le mini microscope de poche] Il est léger et portable. Equipé dun support de tube en forme de serpent flexible qui peut être tourné à 360 ° pour réduire les tremblements.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B082SVF8SB/?tag=tolees0d-21)

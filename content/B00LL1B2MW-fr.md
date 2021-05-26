@@ -29,9 +29,9 @@ Vous avez [HOMCOM Meuble TV Bas Table Basse a roulettes en Panneaux de Particule
 ℹ️:
 
 - ✅ SPÉCIFICATIONS : dimensions totales : 80L x 40l x 40H cm - Dimensions étagère : 48L x 40l cm x 15,2H cm - Charge max. recommandée : 15 Kg
+- ✅ MEUBLE TV SUR ROULETTES : équipé de 4 roulettes pivotantes à 360° dont 2 dotées de frein : meuble TV facile à orienter, déplacer et dune stabilité optimale
+- ✅ DOUBLE ESPACE DE RANGEMENT : double espace de rangement séparé par une étagère : pratique pour ranger votre matériel audio/vidéo
 - ✅ MEUBLE TV CONTEMPORAIN : meuble TV compact au style contemporain épuré idéal pour intégration dans lespace intérieur de votre choix : salon, chambre, salle de jeu, etc...
 - ✅ MONTAGE FACILE ET RAPIDE : notice de montage illustrée fournie
-- ✅ DOUBLE ESPACE DE RANGEMENT : double espace de rangement séparé par une étagère : pratique pour ranger votre matériel audio/vidéo
-- ✅ MEUBLE TV SUR ROULETTES : équipé de 4 roulettes pivotantes à 360° dont 2 dotées de frein : meuble TV facile à orienter, déplacer et dune stabilité optimale
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LL1B2MW/?tag=tolees0d-21)
