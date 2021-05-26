@@ -28,8 +28,8 @@ C'est en vente [LEGO - 75188 - Jeu de Construction - Confidential - Yogi Bear Ho
 
 ℹ️:
 
-- Âge : 9 - 14 ans
 - Confidentiel lego na pas dinfos à communiquer à ce jour
 - Confidentiel pas dinfos Embargo jusquau 15/07/2017
+- Âge : 9 - 14 ans
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W2KC4J5/?tag=tolees0d-21)
