@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Le site d’Exploration de la Jungl avec 19.60 % rabais '
-date: 2021-05-25 12:03:05
+date: 2021-05-26 12:16:53
 image: 'https://m.media-amazon.com/images/I/61rFXsPNSEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06VV73LFR/?tag=tolees0d-21'
 descuento: '19.60'
-average: '167.444792626732'
+average: '167.410596330279'
 ---
 
 C'est en vente [LEGO - Le site d’Exploration de la Jungle](https://www.amazon.fr/dp/B06VV73LFR/?tag=tolees0d-21)  à  19.60 % de réduction, prix final  159.99 EUR (original: 198.99 EUR) ici:
