@@ -28,10 +28,10 @@ Vous avez [LEGO NINJAGO  La voiture ninja avec lames extensibles  Set de constru
 
 ℹ️:
 
-- Comprend une voiture volante de ninja munie de lames extensibles qui sortent en tournant le Key-Tana et le transforment en voiture de combat volante
-- Comprend 4 figurines qui combattent dans le jeu : Digi Kai, Scott et 2 Red Visors, tous équipées de nouveaux tableaux de santé affichant leurs vies restantes
-- Les roues de la voiture lourdement blindées peuvent basculer sous le châssis lorsquelle prend son envol après avoir déployé les lames et sêtre transformée en engin volant
 - Les accessoires incluent un bouclier, des armes de « contrôle primaire », des pistolets à visières rouges, des faux, des katanas, etc, ainsi que des Key-Tana violettes de collection
+- Les roues de la voiture lourdement blindées peuvent basculer sous le châssis lorsquelle prend son envol après avoir déployé les lames et sêtre transformée en engin volant
 - La voiture a une carrosserie très détaillée avec de nombreuses pièces mobiles, un cockpit ouvrant rose et des autocollants colorés - bref, elle est fin prête pour traverser le Prime Empire
+- Comprend 4 figurines qui combattent dans le jeu : Digi Kai, Scott et 2 Red Visors, tous équipées de nouveaux tableaux de santé affichant leurs vies restantes
+- Comprend une voiture volante de ninja munie de lames extensibles qui sortent en tournant le Key-Tana et le transforment en voiture de combat volante
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07W8XYZ2K/?tag=tolees0d-21)
