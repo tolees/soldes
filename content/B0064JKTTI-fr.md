@@ -30,9 +30,9 @@ Vous avez [Bosch Home and Garden - Perforateur Bosch - PBH 2100 SRE  Livré avec
 
 - Fonction de burinage intégrée avec Vario-Lock : position de travail du burin variable. Ø de perçage maxi. dans le béton : 20 mm
 - Ergonomie poussée : faible poids (2,2 kg), design compact (Slimline) et poignée Softgrip pour un travail sans effort
+- Système SDS-plus Bosch : changement rapide et sans outil de laccessoire
+- Mécanisme de frappe pneumatique Bosch doté dune puissance de frappe de 1,7 J : puissance de frappe élevée dans les matériaux durs, indépendamment de la pression appliquée
 - Un outil polyvalent : fourni avec un mandrin pour forets et embouts classiques
 - Perforation sans effort dans le béton et la maçonnerie, burinage, perçage et vissage avec une puissance de 550 W
-- Mécanisme de frappe pneumatique Bosch doté dune puissance de frappe de 1,7 J : puissance de frappe élevée dans les matériaux durs, indépendamment de la pression appliquée
-- Système SDS-plus Bosch : changement rapide et sans outil de laccessoire
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0064JKTTI/?tag=tolees0d-21)

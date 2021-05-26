@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Goliath - Modelco - VR goggles - VRSE -  avec 70.37 % rabais '
-date: 2021-05-13 15:27:35
+date: 2021-05-26 16:43:18
 image: 'https://m.media-amazon.com/images/I/41J8vtvZ6lL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
