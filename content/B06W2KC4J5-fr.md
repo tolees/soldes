@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - 75188 - Jeu de Construction - Con avec 31.77 % rabais '
-date: 2021-05-26 19:08:20
+date: 2021-05-27 19:21:46
 image: 'https://m.media-amazon.com/images/I/617c0ZvxcbL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06W2KC4J5/?tag=tolees0d-21'
 descuento: '31.77'
-average: '200.014790874525'
+average: '199.838409090909'
 ---
 
 C'est en vente [LEGO - 75188 - Jeu de Construction - Confidential - Yogi Bear Honey Pot Dropper](https://www.amazon.fr/dp/B06W2KC4J5/?tag=tolees0d-21)  à  31.77 % de réduction, prix final  153.45 EUR (original: 224.9 EUR) ici:
@@ -28,8 +28,8 @@ C'est en vente [LEGO - 75188 - Jeu de Construction - Confidential - Yogi Bear Ho
 
 ℹ️:
 
-- Âge : 9 - 14 ans
 - Confidentiel pas dinfos Embargo jusquau 15/07/2017
+- Âge : 9 - 14 ans
 - Confidentiel lego na pas dinfos à communiquer à ce jour
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06W2KC4J5/?tag=tolees0d-21)
