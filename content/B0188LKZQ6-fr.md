@@ -28,9 +28,9 @@ Vous avez [Metronic 480179 Casque TV sans fil UHF  avec Station d Accueil et de 
 
 ℹ️:
 
-- Bouton volume intégré au casque
 - Base de charge
 - Autonomie : 20 h
 - Coussinets en velours très confortables
+- Bouton volume intégré au casque
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0188LKZQ6/?tag=tolees0d-21)

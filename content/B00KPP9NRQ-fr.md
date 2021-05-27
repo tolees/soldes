@@ -28,10 +28,10 @@ C'est en vente [Warner Bros. Interactive Entertainment - Lego Batman 3 : Au-del�
 
 ℹ️:
 
-- Plate-forme : Xbox One
 - Editeur : Warner Bros
-- Date de sortie : 2014-11-12
-- Edition : Standard
 - Classification PEGI : ages_7_and_over
+- Date de sortie : 2014-11-12
+- Plate-forme : Xbox One
+- Edition : Standard
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00KPP9NRQ/?tag=tolees0d-21)
