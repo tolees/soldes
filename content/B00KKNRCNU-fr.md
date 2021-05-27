@@ -28,10 +28,10 @@ Vous avez [So Apéro ! - So Apéro - Guillotine à Saucisson - Le Plateau - Plat
 
 ℹ️:
 
+- LA VÉRITABLE GUILLOTINE À SAUCISSON SO APERO : La Guillotine Originale est la seule et première guillotine à saucisson du marché à être fabriquée 100% en France, conçue et développée par la société So Apéro en Haute-Savoie.
 - RECEVEZ, OFFREZ, TRANCHEZ et DÉGUSTEZ : La trancheuse saucisson So Apéro est fabriquée en bois brut non traité et non teinté pour respecter les produits alimentaires tant dun point de vue bactériologique que gustatif. La lame en acier inoxydable micro-dentée offre une qualité de coupe exceptionnelle, idéale pour couper des tranches fines avec précision. La guillotine So Apéro est à la fois simple, robuste et authentique.
+- LA STAR DE VOS APÉROS ENTRE AMIS :Pour plus de convivialité, "le Plateau" vous permet de servir le saucisson et les tapas directement sur la table. Parfait pour vos apéros et réceptions entre amis et en famille.
 - LA QUALITÉ ARTISANALE AVANT TOUT: So Apéro ! est une société artisanale créée en 2012 aux confins du département de la Haute-Savoie, à quelques encablures de la frontière suisse. Un terroir exigeant entre lac et montagne dont les hommes ont toujours su tirer le meilleur. Entièrement fabriquée, assemblée et emballée en France, tous les matériaux de la guillotine (vis inox, caoutchouc, lame, bois …) proviennent de France.
 - COFFRET ET VALISETTE CADEAU : Le plateau apéritif est livré dans une magnifique box prête à offrir, prête à être utilisée, prête pour la dégustation.
-- LA VÉRITABLE GUILLOTINE À SAUCISSON SO APERO : La Guillotine Originale est la seule et première guillotine à saucisson du marché à être fabriquée 100% en France, conçue et développée par la société So Apéro en Haute-Savoie.
-- LA STAR DE VOS APÉROS ENTRE AMIS :Pour plus de convivialité, "le Plateau" vous permet de servir le saucisson et les tapas directement sur la table. Parfait pour vos apéros et réceptions entre amis et en famille.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00KKNRCNU/?tag=tolees0d-21)

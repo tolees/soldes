@@ -28,10 +28,10 @@ C'est en vente [BIC Marking Onyx 1591 Marqueurs Permanents à Pointe Biseautée 
 
 ℹ️:
 
-- Pratique, la pointe biseautée de ces 12 marqueurs noirs permet de faire varier la largeur du trait à votre guise et selon vos besoins
-- Idéal pour lextérieur, son encre à fort pouvoir couvrant sèche rapidement et résiste à leau et à la lumière
-- Longue durée, ce feutre permanent écrit en moyenne plus de 2 km et ne vous quittera pas de sitôt
-- Recommandé pour l’usage industriel, son corps en métal est ultra-résistant
 - Rien ne résiste au marqueur indélébile BIC Onyx 1591 : verre, bois, plastique, métal, carton, il écrit sur la plupart des surfaces
+- Idéal pour lextérieur, son encre à fort pouvoir couvrant sèche rapidement et résiste à leau et à la lumière
+- Recommandé pour l’usage industriel, son corps en métal est ultra-résistant
+- Pratique, la pointe biseautée de ces 12 marqueurs noirs permet de faire varier la largeur du trait à votre guise et selon vos besoins
+- Longue durée, ce feutre permanent écrit en moyenne plus de 2 km et ne vous quittera pas de sitôt
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001JKE29A/?tag=tolees0d-21)

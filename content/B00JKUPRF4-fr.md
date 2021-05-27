@@ -28,10 +28,10 @@ Vous avez [Nikon Objectif Zoom AF-S DX 18-300 mm f/3.5-6.3G ED VR](https://www.a
 
 ℹ️:
 
-- Distance minimale de mise au point -0,48 m à partir du plan focal
 - Poids - environ 550 g (basé sur les normes CIPA)
+- Focale-18–300 mm
 - Ouverture minimale-f/22-40
 - Construction-16 lentilles en 12 groupes (dont trois lentilles en verre ED et trois lentilles asphériques)
-- Focale-18–300 mm
+- Distance minimale de mise au point -0,48 m à partir du plan focal
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JKUPRF4/?tag=tolees0d-21)
