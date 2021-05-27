@@ -28,10 +28,10 @@ Vous avez [Samsung Galaxy Tab A 2019 Tablette 8" WiFi 32 Go 2 Go RAM Quad 2 0 GH
 
 ℹ️:
 
-- Batterie: 4200 mAh
-- Nombre de couleurs:16M
+- Écran: 8 ", 1024 x 768 pixels
 - OS: Android 5.0
 - Appareil photo: 5 MP
-- Écran: 8 ", 1024 x 768 pixels
+- Batterie: 4200 mAh
+- Nombre de couleurs:16M
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07VJQBFY8/?tag=tolees0d-21)
