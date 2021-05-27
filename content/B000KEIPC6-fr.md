@@ -28,8 +28,8 @@ Vous avez [American Crew - Crème de Modelage pour Cheveux - Fixation et Brillan
 
 ℹ️:
 
+- Contenu : 85ml
 - Agent de fixation qui favorise la fermeté, donne du corps et de l’épaisseur à la chevelure
 - La pâte de modelage apporte de la tenue, une excellente souplesse, et une brillance naturelle
-- Contenu : 85ml
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000KEIPC6/?tag=tolees0d-21)
