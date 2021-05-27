@@ -28,10 +28,10 @@ C'est en vente [daydayup - Accessoires Switch Lite - Étui de Protection et Prot
 
 ℹ️:
 
-- Non inclus dans ce pack : la console Nintendo Switch Lite, les Joy-Cons, et les cartouches de jeux affichées sur les images sont présentées uniquement à des fins de démonstration et ne sont pas incluses dans ce lot.
+- Votre meilleur cadeau : le kit Nintendo Switch Lite contient : 1 étui de transport (compatible avec le chargeur Nintendo Switch Lite), 1 étui de jeu compact (jusquà 8 jeux), 1 étui de protection confortable, 1 support de jeu compact, 2 protections décran en verre trempé, 6 capuchons de joystick.
 - La coque de protection confortable offre à votre console Nintendo Switch une protection ultime. Avec le protecteur décran en verre trempé, il offre une haute définition ultra claire avec 99,9 % de transparence pour permettre une expérience visuelle optimale et naturelle.
 - Étui adaptateur secteur pour Nintendo Switch Lite - Construit avec 20 emplacements pour cartes de jeu, coque rigide durable de haute qualité pour protéger votre console Nintendo Switch des rayures.
-- Votre meilleur cadeau : le kit Nintendo Switch Lite contient : 1 étui de transport (compatible avec le chargeur Nintendo Switch Lite), 1 étui de jeu compact (jusquà 8 jeux), 1 étui de protection confortable, 1 support de jeu compact, 2 protections décran en verre trempé, 6 capuchons de joystick.
 - Protection parfaite à 360 degrés : la coque de protection pour Nintendo Switch Lite (2019) peut protéger votre appareil contre les chocs, les chutes, les chocs, les rayures, la poussière et les traces de doigts. Cest léquilibre parfait entre flexibilité et rigidité pour le rendre protecteur et confortable tout en sadaptant très bien.
+- Non inclus dans ce pack : la console Nintendo Switch Lite, les Joy-Cons, et les cartouches de jeux affichées sur les images sont présentées uniquement à des fins de démonstration et ne sont pas incluses dans ce lot.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08BLDHN9W/?tag=tolees0d-21)

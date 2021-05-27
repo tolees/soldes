@@ -28,10 +28,10 @@ C'est en vente [MY JOLIE CANDLE | Grande Bougie Parfumée Linge Frais | Cire Nat
 
 ℹ️:
 
-- ● SAVOIR-FAIRE ARTISANAL ● Nos bougies sont coulées à la main et bénéficient du savoir-faire des meilleurs artisans.
-- ● LINGE FRAIS ● La douceur de ce parfum vous plonge directement au milieu de draps fraîchement lavés. Ses notes de lessive addictives laissent des effluves fraîches et pures dans votre intérieur.
-- ● PARFUMS FRANÇAIS ● Chaque bougie est un véritable trésor parfumé, développé à Grasse par des nez experts, conçu pour envahir votre intérieur dune brume de bonheur.
-- ● BOUGIE EN CIRE 100% NATURELLE ● Nos bougies sont composées dun cire naturelle à base de soja, de mangue et de coco. Sa mèche en coton est garantie sans plomb.
 - ● BOUGIE DÉCO ● Avec son design épuré, notre Bougie 3 mèches est pensée comme un objet déco à part entière et matchera parfaitement avec votre décoration.
+- ● LINGE FRAIS ● La douceur de ce parfum vous plonge directement au milieu de draps fraîchement lavés. Ses notes de lessive addictives laissent des effluves fraîches et pures dans votre intérieur.
+- ● BOUGIE EN CIRE 100% NATURELLE ● Nos bougies sont composées dun cire naturelle à base de soja, de mangue et de coco. Sa mèche en coton est garantie sans plomb.
+- ● SAVOIR-FAIRE ARTISANAL ● Nos bougies sont coulées à la main et bénéficient du savoir-faire des meilleurs artisans.
+- ● PARFUMS FRANÇAIS ● Chaque bougie est un véritable trésor parfumé, développé à Grasse par des nez experts, conçu pour envahir votre intérieur dune brume de bonheur.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B085NPKFGK/?tag=tolees0d-21)
