@@ -28,10 +28,10 @@ Vous avez [Sony Objectif Zeiss SEL-35F14Z Monture E Plein Format 35 mm F1.4](htt
 
 ℹ️:
 
+- Objectif grand angle plein format 35 mm de haute qualité Zeiss
+- Conception résistante à la poussière et à lhumidité
+- Diaphragme circulaire à 9 lames pour de magnifiques effets de flou
 - Contrôle de lobjectif silencieux et très précis grâce au système Direct Drive SSM
 - Revêtement anti-reflets ZEISST* réduisant les reflets
-- Objectif grand angle plein format 35 mm de haute qualité Zeiss
-- Diaphragme circulaire à 9 lames pour de magnifiques effets de flou
-- Conception résistante à la poussière et à lhumidité
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00UJRSOB6/?tag=tolees0d-21)

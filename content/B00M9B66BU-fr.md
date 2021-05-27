@@ -29,7 +29,7 @@ Vous avez [REVLON PROFESSIONAL Le Masque en Spray sans Rinçage Rouge Classique 
 ℹ️:
 
 - DES RESULTATS SPECTACULAIRES. Sur cheveux humides, il protège, laisse les cheveux souples, soyeux, brillants.Sur cheveux secs il rafraîchit la coiffure avec un toucher doux.
-- LE PRODUIT QUI A RÉVOLUTIONNÉ LE MONDE DE LA COIFFURE. Le premier masque en spray sans rinçage qui procure 10 BIENFAITS ESSENTIELS aux cheveux. Parfums disponibles : Classique, Coconut et Lotus. Texture Crème, nalourdit pas.
 - Un geste rapide et simple Sans temps de pause. Sur cheveux humides: vaporiser. Démêler. Ne pas rincer. Sur cheveux secs: répartir sur les longueurs et pointes. Ne pas rincer.
+- LE PRODUIT QUI A RÉVOLUTIONNÉ LE MONDE DE LA COIFFURE. Le premier masque en spray sans rinçage qui procure 10 BIENFAITS ESSENTIELS aux cheveux. Parfums disponibles : Classique, Coconut et Lotus. Texture Crème, nalourdit pas.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00M9B66BU/?tag=tolees0d-21)
