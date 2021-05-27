@@ -28,8 +28,8 @@ C'est en vente [Soedesco - The Girl and the Robot - Deluxe Edition](https://www.
 
 ℹ️:
 
-- The girl and the robot offre une histoire primée dans un monde de conte de fées
 - Il raconte aux joueurs le récit dune nouvelle amitié trouvée entre une jeune fille et un robot
 - Leur lien est immédiatement testé lorsquils essaient tous deux déchapper aux griffes dune sorcière maléfique
+- The girl and the robot offre une histoire primée dans un monde de conte de fées
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0742C9LJV/?tag=tolees0d-21)
