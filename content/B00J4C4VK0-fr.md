@@ -28,14 +28,14 @@ Vous avez [Leitz Icon Cartouche de Ruban adhésif en plastique 88 mmx 10 m Jaune
 
 ℹ️:
 
+- Impression portrait ou paysage selon vos besoins, Pour tous travaux d’étiquetage au bureau ou à la maison, Évitez d’utiliser une feuille d’étiquettes complète pour l’impression d’une seule étiquette
 - Cartouche de ruban en plastique adhésif continu, Largeur 88 mm, Longueur 10 m, Jaune, Utilisable avec l’imprimante d’étiquettes Leitz Icon
-- Cartouche de ruban en plastique adhésif continu, Largeur 88 mm, Longueur 10 m, Jaune, Utilisable avec l’imprimante d’étiquettes Leitz Icon
-- Contenu : 1 Cartouche Leitz Icon de ruban en plastique adhésif, Largeur 88 mm, Longueur 10 m, Jaune, 70160015, l x h x p : 9,6x9,6x4cm, Poids : 220g
+- Impression portrait ou paysage selon vos besoins, Pour tous travaux d’étiquetage au bureau ou à la maison, Évitez d’utiliser une feuille d’étiquettes complète pour l’impression d’une seule étiquette
 - À partir du logiciel, indication du type de ruban chargé et du niveau restant grâce au système de cartouche intelligent, Changement de cartouche facile, Fabriqué à partir de papier recyclé
-- Impression des dates de péremption, noms, avertissements, instructions et adresses, Impression de bannières jusquà 2,7m de longueur, Facile à décoller du ruban
-- Impression portrait ou paysage selon vos besoins, Pour tous travaux d’étiquetage au bureau ou à la maison, Évitez d’utiliser une feuille d’étiquettes complète pour l’impression d’une seule étiquette
+- Contenu : 1 Cartouche Leitz Icon de ruban en plastique adhésif, Largeur 88 mm, Longueur 10 m, Jaune, 70160015, l x h x p : 9,6x9,6x4cm, Poids : 220g
+- Cartouche de ruban en plastique adhésif continu, Largeur 88 mm, Longueur 10 m, Jaune, Utilisable avec l’imprimante d’étiquettes Leitz Icon
 - À partir du logiciel, indication du type de ruban chargé et du niveau restant grâce au système de cartouche intelligent, Changement de cartouche facile par clipsage, Fabriqué à partir de papier recyclé
-- Impression portrait ou paysage selon vos besoins, Pour tous travaux d’étiquetage au bureau ou à la maison, Évitez d’utiliser une feuille d’étiquettes complète pour l’impression d’une seule étiquette
+- Impression des dates de péremption, noms, avertissements, instructions et adresses, Impression de bannières jusquà 2,7m de longueur, Facile à décoller du ruban
 - Contenu : 1 Cartouche Leitz Icon de ruban en plastique adhésif, Largeur 88 mm, Longueur 10 m, Jaune, 70160015, lxhxp : 9,6x9,6x4cm, Poids : 220g
 - Impression des dates de péremption, noms, avertissements, instructions et adresses, Impression de bannières jusquà 2,7m de longueur, Facile à décoller du ruban
 

@@ -28,12 +28,12 @@ C'est en vente [Exacompta 13203E Etui refermable de 100 fiches bristol 12 5 x 20
 
 ℹ️:
 
+- Couleur : Blanc
+- Rigides et pratiques, les fiches bristol permettent un usage multiple et un confort décriture, elles conviendront parfaitement à vos travaux pratiques, vos fiches de notes…
+- Haut standard de qualité et de régularité
+- Étui coulissant pour protéger et conserver les fiches
 - Fabrication de qualité supérieure, à partir de pâte à papier issue de forêts gérées durablement et blanchie en PH neutre
 - Le type de fiches (quadrillées, unies, perforées, imprimées, couleurs assorties…) peut être facilement identifié grâce à la couleur du packaging
 - Format : 12x20 cm
-- Haut standard de qualité et de régularité
-- Étui coulissant pour protéger et conserver les fiches
-- Couleur : Blanc
-- Rigides et pratiques, les fiches bristol permettent un usage multiple et un confort décriture, elles conviendront parfaitement à vos travaux pratiques, vos fiches de notes…
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001ANVBFO/?tag=tolees0d-21)
