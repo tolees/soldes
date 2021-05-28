@@ -28,8 +28,8 @@ C'est en vente [Thule 3006 Kit de Montage pour Pieds de Fixation Rapid Fixpoint 
 
 ℹ️:
 
-- Pour votre sécurité et celle des autres, elles doivent être correctement fixées avant dêtre utilisées
 - La facilité de montage nest pas une fin en soi mais est primordiale pour un confort dutilisation
+- Pour votre sécurité et celle des autres, elles doivent être correctement fixées avant dêtre utilisées
 - Le dernier point, mais non le moindre, les barres de toit doivent être « design » et adaptées au look de votre véhicule
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001COCENY/?tag=tolees0d-21)
