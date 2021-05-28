@@ -29,7 +29,7 @@ C'est en vente [Nike 2018 Sac de Voyage  25 cm  3 liters  Bleu  Midnight Navy/Ne
 ℹ️:
 
 - Sacs et sac à dos Nike
-- Sac Football Unisex
 - NK ACDMY TEAM M DUFF (BA5504-410)
+- Sac Football Unisex
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07BWVL13Y/?tag=tolees0d-21)
