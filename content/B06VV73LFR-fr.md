@@ -28,8 +28,8 @@ C'est en vente [LEGO - Le site d’Exploration de la Jungle](https://www.amazon.
 
 ℹ️:
 
-- Inclut sept figurines plus des figurines de léopard, de crocodile, de serpent, de grenouille et deux araignées.
-- Âge : 8 - 12 ans
 - Les explorateurs de la ville de LEGO City partent à la découverte des secrets de la jungle !
+- Âge : 8 - 12 ans
+- Inclut sept figurines plus des figurines de léopard, de crocodile, de serpent, de grenouille et deux araignées.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06VV73LFR/?tag=tolees0d-21)
