@@ -28,10 +28,10 @@ C'est en vente [Aigostar Thomas - Presse Agrumes Electrique 40W  Capacité 1L  S
 
 ℹ️:
 
+- 【Contrôle de pulpe】Son filtre intégré vous permet de sélectionner rapidement et facilement la quantité de pulpe que vous souhaitez dans votre jus.
+- 【Extraction de jus optimale】Ses deux cônes interchangeables de tailles différentes vous permettent de presser différentes tailles de fruits et d’exprimer tout leur jus grâce à la rotation bidirectionnelle.
 - 【Nettoyage et stockage facile】Montage et démontage très simple pour faciliter le nettoyage. Range-cordon sous la base et couvercle de protection pour le rangement.
 - 【Fonctionnel et sain】100% libre de BPA. La base est équipée d’un dispositif de blocage pour augmenter la sécurité lors de lutilisation. Le réservoir transparent possède des marques vous permettant de vérifier le niveau de jus à tout moment.
-- 【Extraction de jus optimale】Ses deux cônes interchangeables de tailles différentes vous permettent de presser différentes tailles de fruits et d’exprimer tout leur jus grâce à la rotation bidirectionnelle.
-- 【Contrôle de pulpe】Son filtre intégré vous permet de sélectionner rapidement et facilement la quantité de pulpe que vous souhaitez dans votre jus.
 - 【Garanties de qualité】 Si vous avez des questions sur nos produits, n’hésitez pas à nous contacter, nous serons très heureux de pouvoir vous aider.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0851FCWSC/?tag=tolees0d-21)

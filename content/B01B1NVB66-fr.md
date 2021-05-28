@@ -30,8 +30,8 @@ Vous avez [Philips QP2520/30 OneBlade  Rechargeable  100 % étanche  3 sabots cl
 
 - Créez des bords nets et des lignes parfaites avec la lame double sens
 - 3 sabots clipsables barbe de 3 jours (1, 3 et 5 mm) pour une barbe uniforme
-- Rechargeable, 100 % étanche
-- Taillez, stylisez, rasez Quelle que soit la longueur des poils
 - Lame OneBlade durable et batterie longue durée
+- Taillez, stylisez, rasez Quelle que soit la longueur des poils
+- Rechargeable, 100 % étanche
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01B1NVB66/?tag=tolees0d-21)
