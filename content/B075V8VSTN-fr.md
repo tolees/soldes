@@ -28,10 +28,10 @@ Vous avez [Beurer IH 60 Inhalateur  silencieux et portable  batterie rechargeabl
 
 ℹ️:
 
-- Pour le traitement des voies respiratoires supérieures et inférieures : ce dispositif ultra silencieux convient à la prévention et à latténuation de rhumes, asthme, maladies respiratoires
-- Forte proportion de particules respirables: en raison de la taille de particules de 4,1 micromètres (µm), linhalation du dispositif médical peut atteindre facilement les alvéoles
-- Petit et léger : grâce à sa batterie lithium-ion rechargeable et à ses dimensions de 110 x 62 x 47 mm, linhalateur avec sac de rangement est particulièrement adapté pour les déplacements
 - Contenu : nébuliseur, embout buccal, embout nasal, masque adulte et enfant, tuyau dair comprimé, adaptateur secteur avec câble USB, filtre, tous les accessoires sont rangés dans le sac de rangement
+- Forte proportion de particules respirables: en raison de la taille de particules de 4,1 micromètres (µm), linhalation du dispositif médical peut atteindre facilement les alvéoles
+- Pour le traitement des voies respiratoires supérieures et inférieures : ce dispositif ultra silencieux convient à la prévention et à latténuation de rhumes, asthme, maladies respiratoires
 - Temps dinhalation court et efficace : linhalateur avec technologie à compresseur offre une capacité de nébulisation élevée denviron 0,25 ml / min pour la nébulisation de médicaments liquides
+- Petit et léger : grâce à sa batterie lithium-ion rechargeable et à ses dimensions de 110 x 62 x 47 mm, linhalateur avec sac de rangement est particulièrement adapté pour les déplacements
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B075V8VSTN/?tag=tolees0d-21)
