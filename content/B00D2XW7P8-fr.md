@@ -29,7 +29,7 @@ Vous avez [Superga 2750 Cotu Classic  Baskets Mixte  White/Black  41.5 EU](https
 ℹ️:
 
 - Collection: 2013
-- Fermeture : lacets
 - Matériau : lin.
+- Fermeture : lacets
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00D2XW7P8/?tag=tolees0d-21)
