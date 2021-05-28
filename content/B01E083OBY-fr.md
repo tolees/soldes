@@ -28,10 +28,10 @@ C'est en vente [Zolux Camille Volière Intérieure pour Oiseau Exotique Olive 55
 
 ℹ️:
 
-- Dimensions intérieures : XX : 50 x 62 x 140 cm.
-- Volière en métal pour lintérieur avec roulette.
-- Dimensions extérieures : XX : 55 x 66 x 152 cm
 - Facile à nettoyer avec son tiroir amovible
 - Equipée de 2 abreuvoirs et 6 perchoirs.
+- Dimensions intérieures : XX : 50 x 62 x 140 cm.
+- Dimensions extérieures : XX : 55 x 66 x 152 cm
+- Volière en métal pour lintérieur avec roulette.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01E083OBY/?tag=tolees0d-21)
