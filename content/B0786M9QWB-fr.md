@@ -28,9 +28,9 @@ C'est en vente [Puma Liga Training Sweat  T-shirt LIGA Training Sweat Homme  Ble
 
 ℹ️:
 
+- dryCELL : les matières dune fonctionnalité supérieure évacuent lhumidité et transportent la transpiration vers lextérieur pour te garder au sec même pendant lentraînement
 - Encolure ronde
 - Bande PUMA en élément le long des épaules
-- dryCELL : les matières dune fonctionnalité supérieure évacuent lhumidité et transportent la transpiration vers lextérieur pour te garder au sec même pendant lentraînement
 - Finition des manches contrastée de tissu identique
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0786M9QWB/?tag=tolees0d-21)
