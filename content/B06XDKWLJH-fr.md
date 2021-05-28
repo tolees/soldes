@@ -28,8 +28,8 @@ Vous avez [Western Digital - WD Elements Disque dur portable externe - USB 3.0 
 
 ℹ️:
 
-- Produit dorigine qualité premium
 - Fabriqué en Chine
+- Produit dorigine qualité premium
 - Dimensions de lemballage de larticle ( L x B x H) en cm : 11.1 x 8.24 x 2.1
 - Couleur: Noir
 

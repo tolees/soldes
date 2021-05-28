@@ -28,9 +28,9 @@ C'est en vente [Tivoly 11468570002 Coffret de Forets Metal Cobalt Technic Gradu�
 
 ℹ️:
 
-- Contrôle la profondeur du cheville : la spirale HSS dispose de plusieurs marcajes laser, pour le trou est précisément la profondeur nécessaire
 - Magnifier le perçage
-- Perçage de aciers de acier et inoxydable
+- Contrôle la profondeur du cheville : la spirale HSS dispose de plusieurs marcajes laser, pour le trou est précisément la profondeur nécessaire
 - Longue durée de vie de vie la perceuse
+- Perçage de aciers de acier et inoxydable
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MTXOA9O/?tag=tolees0d-21)
