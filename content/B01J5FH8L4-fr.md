@@ -30,8 +30,8 @@ Vous avez [Philips SENSEO Quadrante Machine à Café à Dosettes HD7866/61 - Noi
 
 - Machine testée plus de 10 000 fois afin de garantir une qualité constante
 - Plus de choix : basculez facilement entre les 2 options de café
-- Technologie Booster darômes, pour obtenir le meilleur des dosettes SENSEO
-- Une couche de crème délicieuse, signature de la qualité SENSEO
 - Réservoir deau latéral facile à retirer
+- Une couche de crème délicieuse, signature de la qualité SENSEO
+- Technologie Booster darômes, pour obtenir le meilleur des dosettes SENSEO
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J5FH8L4/?tag=tolees0d-21)
