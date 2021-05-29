@@ -28,11 +28,11 @@ Vous avez [Aussie  Repair Miracle Shampoing  Pour Cheveux Secs et Abîmés  À L
 
 ℹ️:
 
-- Contient de l’huile de Graines de Jojoba d’Australie, ce soin hydratant est un pur miracle
+- Fait des miracles pour redonner de lénergie et de la vitalité à des cheveux qui ont trop fait la fête !
 - A fait référence à Aussie, une abréaviation dAustralie. Retrouvez dans nos collections lauthenticité des ingrédients Australiens
 - Ce Shampoing hydratant transforme les cheveux secs et abîmés en boucles faciles à coiffer, souples et brillantes
+- Contient de l’huile de Graines de Jojoba d’Australie, ce soin hydratant est un pur miracle
 - Laissez vous tenter par le shampoing Miracle Repair dAussie
-- Fait des miracles pour redonner de lénergie et de la vitalité à des cheveux qui ont trop fait la fête !
 - Laisse les cheveux doux, brillants et pleins de vie
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07X6TXZQL/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [LUNII - Casque audio Octave - Compatible avec Ma Fabrique à Histoire
 
 ℹ️:
 
-- ✅ ULTRA-CONFORTABLE : Le casque audio Octave a été spécialement conçu pour les enfants de 3 à 8 ans. Le volume est limité et le confort garanti grâce aux coussinets et à une mousse permettant d’adoucir le maintien de la tête de l’enfant
 - ✅ PROLONGEZ L’EXPÉRIENCE LUNII : Le casque audio Octave est le compagnon idéal pour écouter à tout moment les fabuleux récits de Ma Fabrique à Histoires. Avec ses couleurs pétillantes, Octave est parfaitement assorti à Ma Fabrique à Histoires. Il est aussi personnalisable grâce aux six paires d’autocollants offerts lors de l’achat
 - ✅ PLIABLE & RÉSISTANT : Le cordon de la prise jack est amovible et le casque audio Octave est entièrement pliable afin de faciliter son rangement et lemmener partout avec vous.
-- ✅ POURQUOI CHOISIR LE CASQUE OCTAVE DE LUNII ? ● Casque pliable ● Double prise jack ● Sans ondes ● Volume limité à 85 dB ● Cordon détachable ● Résistant et confortable
 - ✅ LE PETIT PLUS : Le casque audio Octave dispose d’une double prise jack permettant de partager à plusieurs de beaux moments d’écoute.
+- ✅ ULTRA-CONFORTABLE : Le casque audio Octave a été spécialement conçu pour les enfants de 3 à 8 ans. Le volume est limité et le confort garanti grâce aux coussinets et à une mousse permettant d’adoucir le maintien de la tête de l’enfant
+- ✅ POURQUOI CHOISIR LE CASQUE OCTAVE DE LUNII ? ● Casque pliable ● Double prise jack ● Sans ondes ● Volume limité à 85 dB ● Cordon détachable ● Résistant et confortable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07LGS178B/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ Vous avez [KS Tools 155.5002 Clé à filtre 65-110 mm](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Sangle martelée. Bonne transmission de la force de desserrage.
 - POUR LES PROFESSIONNELS ET LES BRICOLEURS : le meilleur rapport qualité-prix pour un outillage alliant qualité, robustesse, esthétique, performance, technologie et confort.
-- SATISFACTION ET GARANTIE à 100% : La raison de notre existence c’est de vous offrir des produits de qualité avec un service client adapté à votre besoin !
-- Diamètre en mm : 65,0-110,0 mm Poids en g : 241 g
 - POUR LE MONTAGE / DÉMONTAGE ET RÉGLAGE DE DIAMÈTRE : Pour le montage et le démontage des filtres et cartouches. Réglage du diamètre du filtre en tournant le bouton à lextrémité de la poignée.
+- Diamètre en mm : 65,0-110,0 mm Poids en g : 241 g
+- SATISFACTION ET GARANTIE à 100% : La raison de notre existence c’est de vous offrir des produits de qualité avec un service client adapté à votre besoin !
+- Sangle martelée. Bonne transmission de la force de desserrage.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001NYXC4I/?tag=tolees0d-21)

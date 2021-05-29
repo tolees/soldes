@@ -28,7 +28,7 @@ Vous avez [Générique - X-Men : Apocalypse [Édition Limitée boîtier SteelBoo
 
 ℹ️:
 
-- filtre
 - Depuis les origines de la civilisation, Apocalypse, le tout premier mutant, a absorbé de nombreux pouvoirs, devenant a la fois immortel et invincible, adoré comme un dieu.
+- filtre
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01H7S5W4Q/?tag=tolees0d-21)

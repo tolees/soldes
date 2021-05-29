@@ -28,8 +28,8 @@ C'est en vente [GOOD YEAR - Goodyear 77932 "12mm" Chaines à neige 12 mm  Taille
 
 ℹ️:
 
-- Paire de chaines a neige. Particulièrement adaptée aux véhicules lourds: 4x4, SUV, utilitaires, camping-cars et furgons.
-- Approuvé par: TÜV Süd / GS y ÖNORM V5117. Compatibles ABS et ESP
 - 12 mm en Acier de Qualité Supérieure, Facile à installer. Chaîne à tension manuelle simple et robuste. Encombrement 12 mm. Haute qualité Goodyear. En acier cémenté et galvanisé hautement résistant. Montage rapide avec cable flexible en tender autobloquand
+- Approuvé par: TÜV Süd / GS y ÖNORM V5117. Compatibles ABS et ESP
+- Paire de chaines a neige. Particulièrement adaptée aux véhicules lourds: 4x4, SUV, utilitaires, camping-cars et furgons.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B013I9DZCY/?tag=tolees0d-21)

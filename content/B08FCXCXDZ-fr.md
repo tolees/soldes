@@ -30,7 +30,7 @@ Vous avez [Bandai Namco Entertainment - Dragon Quest XI S - Les Combattants de l
 
 - Jouez comme vous le souhaitez, passez en mode 3D hd ou 2D 16 bits, avec la bande-son originale ou sa version orchestrale et des voix anglaises ou japonaises
 - Plongez dans lunivers 16 bits de chronopolis - une zone de quêtes secondaires supplémentaires permettant de retourner dans les mondes passés de dragon quest, reconstitués dans un style retro
-- Accélérez les combats 2 ou 4 fois, chevauchez de nouveaux monstres et attaquez vos ennemis avec eux pour remporter des points dexpérience.
 - Profitez du contenu incroyablement riche du jeu de base
+- Accélérez les combats 2 ou 4 fois, chevauchez de nouveaux monstres et attaquez vos ennemis avec eux pour remporter des points dexpérience.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08FCXCXDZ/?tag=tolees0d-21)
