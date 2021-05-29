@@ -28,10 +28,10 @@ Vous avez [Seb YG500100 Yaourtière Duetto 8 Pots de Yaourt Inclus Fromage Blanc
 
 ℹ️:
 
-- 2 programmes automatiques : yaourts et fromages blancs
-- Couvercle transparent pour une visibilité parfaite pendant la cuisson
 - Écran LCD avec timer pour visualiser le programme et le temps de préparation
-- Grand bac de 1L avec égouttoir
 - Yaourtière avec 8 pots de yaourt de 125ml
+- 2 programmes automatiques : yaourts et fromages blancs
+- Grand bac de 1L avec égouttoir
+- Couvercle transparent pour une visibilité parfaite pendant la cuisson
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B008P6XEB8/?tag=tolees0d-21)

@@ -28,11 +28,11 @@ C'est en vente [Philips S5110/06 Rasoir électrique Series 5000 avec tondeuse de
 
 ℹ️:
 
-- Un rasage respectueux de la peau. Protège la peau 10 x mieux quun rasoir manuel*. Têtes aux bords arrondis pour protéger la peau.
-- Sans fil
-- Système AquaTec 100 % étanche: rasage à sec ou avec du gel ou de la mousse , même sous la douche.
-- Les têtes flexibles dans 5 directions assurent un excellent contact avec la peau, pour un rasage de près rapide, même sur le cou et la mâchoire.
 - Les lames Multi Précision soulèvent et coupent les poils courts et longs pour un rasage rapide.
 - Tondeuse de précision clip sable pour entretenir la moustache et tailler les pattes.
+- Les têtes flexibles dans 5 directions assurent un excellent contact avec la peau, pour un rasage de près rapide, même sur le cou et la mâchoire.
+- Un rasage respectueux de la peau. Protège la peau 10 x mieux quun rasoir manuel*. Têtes aux bords arrondis pour protéger la peau.
+- Système AquaTec 100 % étanche: rasage à sec ou avec du gel ou de la mousse , même sous la douche.
+- Sans fil
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B012W0T9HK/?tag=tolees0d-21)
