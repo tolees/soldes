@@ -28,15 +28,15 @@ Vous avez [LEGO 21034 Architecture Londres  London Eye  Big Ben  Tower Bridge Co
 
 ℹ️:
 
-- Le livret inclus contient des informations sur le designer, larchitecture et lhistoire de chaque structure, ainsi que des faits historiques sur Londres et son héritage architectural (en anglais uniquement. Autres langues disponibles en téléchargement sur LEGO.com/architecture)
-- Le Tower Bridge se soulève pour accueillir les bateaux qui arrivent.
-- Recrée les plus belles villes du monde avec la collection LEGO Architecture Skyline.
-- Interprétation LEGO Architecture de Londres.
 - Comprend la National Gallery, la colonne Nelson, le London Eye, Big Ben (la tour Elizabeth) et le Tower Bridge.
-- Cet ensemble comprend plus de 460 pièces LEGO et offre une expérience de construction adaptée aux enfants à partir de 12 ans.
-- La ligne de produits LEGO Architecture célèbre le monde de larchitecture par le biais de la brique LEGO, pour toutes les personnes qui sintéressent à la création, à lhistoire et à larchitecture.
-- Mesure plus de 15 cm de haut, 28 cm de large et 8 cm de profondeur.
+- Recrée les plus belles villes du monde avec la collection LEGO Architecture Skyline.
 - Inclut une plaque de base 4x32 avec un écriteau décoratif Londres.
+- Cet ensemble comprend plus de 460 pièces LEGO et offre une expérience de construction adaptée aux enfants à partir de 12 ans.
 - La Tamise est représentée par des plaques de base transparentes.
+- La ligne de produits LEGO Architecture célèbre le monde de larchitecture par le biais de la brique LEGO, pour toutes les personnes qui sintéressent à la création, à lhistoire et à larchitecture.
+- Le Tower Bridge se soulève pour accueillir les bateaux qui arrivent.
+- Mesure plus de 15 cm de haut, 28 cm de large et 8 cm de profondeur.
+- Le livret inclus contient des informations sur le designer, larchitecture et lhistoire de chaque structure, ainsi que des faits historiques sur Londres et son héritage architectural (en anglais uniquement. Autres langues disponibles en téléchargement sur LEGO.com/architecture)
+- Interprétation LEGO Architecture de Londres.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01J41MPF8/?tag=tolees0d-21)
