@@ -28,9 +28,9 @@ C'est en vente [LEGO Friends - La maison de Mia - 41369 - Jeu de construction](h
 
 ℹ️:
 
-- Mesure plus de 22 cm de haut, 31 cm de large et 9 cm de profondeur.
 - 715 pièces pour les filles et les garçons de 6 ans et plus.
 - Construisez la maison de famille de Mia et découvrez la nature.
+- Mesure plus de 22 cm de haut, 31 cm de large et 9 cm de profondeur.
 - Les ensembles LEGO Friends sont compatibles avec tous les ensembles de construction LEGO pour une expérience de construction sans limite.
 - Inclut 3 mini-poupées : Mia LEGO Friends, sa mère Ann et son père Angus, plus 2 figurines d’animaux : un lapin et un cheval.
 
