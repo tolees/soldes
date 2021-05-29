@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Miitopia  Nintendo Switch  avec 21.18 % rabais '
-date: 2021-05-14 16:44:00
+date: 2021-05-29 18:03:40
 image: 'https://m.media-amazon.com/images/I/517e3FtqIGL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'Nintendo'
 buyurl: 'https://www.amazon.fr/dp/B08WY79KHY/?tag=tolees0d-21'
 descuento: '21.18'
-average: '39.7933333333333'
+average: '39.695'
 ---
 
 C'est en vente [Miitopia  Nintendo Switch ](https://www.amazon.fr/dp/B08WY79KHY/?tag=tolees0d-21)  à  21.18 % de réduction, prix final  39.4 EUR (original: 49.99 EUR) ici:
