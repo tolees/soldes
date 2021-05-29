@@ -28,12 +28,12 @@ C'est en vente [Braun FS3000 Cuiseur Vapeur Electrique Blanc/Vert 33 x 31 x 19 5
 
 ℹ️:
 
-- Centrifugeuse
-- Pieds anti-dérapants
 - Cheminée XXL 75mm
-- 800W
-- Brosse de nettoyage
 - Système anti-éclaboussures
 - Accessoires compatibles lave-vaisselle
+- Pieds anti-dérapants
+- Centrifugeuse
+- Brosse de nettoyage
+- 800W
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00MRS971Q/?tag=tolees0d-21)
