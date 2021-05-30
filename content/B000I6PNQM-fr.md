@@ -28,11 +28,11 @@ Vous avez [AVERY J8560-25 Pochette de 525 Étiquettes Transparentes Autocollante
 
 ℹ️:
 
-- Adhésif : permanent
-- Couleur : translucide
-- Format étiquette : 63,5 x 38,1 mm
-- Facile à créer avec les modèles et logiciels gratuit sur le site dAvery
-- Type dimpression : jet dencre
 - Ideal pour les enveloppe, colis de couleur
+- Adhésif : permanent
+- Facile à créer avec les modèles et logiciels gratuit sur le site dAvery
+- Couleur : translucide
+- Type dimpression : jet dencre
+- Format étiquette : 63,5 x 38,1 mm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B000I6PNQM/?tag=tolees0d-21)
