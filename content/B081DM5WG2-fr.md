@@ -28,10 +28,10 @@ Vous avez [Aussie  Shine Miracle Shampoing  Shampoing Brillance  Pour Cheveux Te
 
 ℹ️:
 
-- Vos cheveux ternes et fatigués ne demandent qu’à briller ? Arrêtez de chercher et optez pour ShampoingAussie Miracle Shine
 - Un shampoing pour les cheveux ternes et abîmés nés pour briller
-- A fait référence à Aussie… l’Australie... l’Authenticité des ingrédients et l’Attitude Aussie Admirable
-- Réveille les cheveux ternes et fatigués pour leur redonner de l’énergie et de l’éclat en ajoutant un effet glossy à chaque mèche
 - Formule spéciale au Beach Strawberry d’Australie
+- A fait référence à Aussie… l’Australie... l’Authenticité des ingrédients et l’Attitude Aussie Admirable
+- Vos cheveux ternes et fatigués ne demandent qu’à briller ? Arrêtez de chercher et optez pour ShampoingAussie Miracle Shine
+- Réveille les cheveux ternes et fatigués pour leur redonner de l’énergie et de l’éclat en ajoutant un effet glossy à chaque mèche
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B081DM5WG2/?tag=tolees0d-21)
