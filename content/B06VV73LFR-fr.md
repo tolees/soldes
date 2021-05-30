@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'LEGO - Le site d’Exploration de la Jungl avec 19.60 % rabais '
-date: 2021-05-29 12:56:46
+date: 2021-05-30 13:12:03
 image: 'https://m.media-amazon.com/images/I/61rFXsPNSEL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -19,7 +19,7 @@ flag: '🇫🇷'
 brand: 'LEGO'
 buyurl: 'https://www.amazon.fr/dp/B06VV73LFR/?tag=tolees0d-21'
 descuento: '19.60'
-average: '167.309864253397'
+average: '167.276891891895'
 ---
 
 C'est en vente [LEGO - Le site d’Exploration de la Jungle](https://www.amazon.fr/dp/B06VV73LFR/?tag=tolees0d-21)  à  19.60 % de réduction, prix final  159.99 EUR (original: 198.99 EUR) ici:
@@ -28,8 +28,8 @@ C'est en vente [LEGO - Le site d’Exploration de la Jungle](https://www.amazon.
 
 ℹ️:
 
-- Inclut sept figurines plus des figurines de léopard, de crocodile, de serpent, de grenouille et deux araignées.
 - Âge : 8 - 12 ans
 - Les explorateurs de la ville de LEGO City partent à la découverte des secrets de la jungle !
+- Inclut sept figurines plus des figurines de léopard, de crocodile, de serpent, de grenouille et deux araignées.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06VV73LFR/?tag=tolees0d-21)
