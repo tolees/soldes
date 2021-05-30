@@ -28,9 +28,9 @@ C'est en vente [Bandai Namco Entertainment - Project Cars 3  PS4 ](https://www.a
 
 ℹ️:
 
-- Méritez chaque victoire
-- Prenez les commandes de votre carrière
 - Vivez chaque instant à fond
+- Prenez les commandes de votre carrière
 - Jusquau 28 septembre télécharger le pack ignition directement sur le store de votre console et profitez déléments de personnalisation pour votre voiture ainsi que deux pilotes avec de multiples tenues et casques
+- Méritez chaque victoire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B089TWRZ5Y/?tag=tolees0d-21)
