@@ -28,10 +28,10 @@ Vous avez [BIGHOUSE - Ampoules Led GU10  5W équivalent Ampoule Halogène 40W  4
 
 ℹ️:
 
-- Économies Dénergie: Avec une durée de vie maximale de 25000 heures, vous pouvez réduire les coûts en réduisant la fréquence des remplacements. Base GU10 standard, facile à installer toutes les lampes de base GU10. Convient manger, bureau, salle à mange, chambres. Leur coté opaque est esthétique quand les lumières sont éteintes.
 - Éclairage instantané: Il peut être chauffé à pleine luminosité sans attendre dêtre allumé! La lumière non clignotante et léblouissement zéro préviennent la fatigue oculaire et offrent une atmosphère confortable et sans stress.BIGHOUSE ampoules LED sont certifiées CE et sans danger pour votre maison et votre environnement.
-- Alternative Parfaite：Ampoules LED GU10 5W Puissance équivalent à une 40W halogènes, mais ne chauffent pas. Remplace facilement ampoules halogènes, que 10% de son énergie. Le 3000k blanc chaud est agréable et pas agressif.
 - Ampoules Spot: LED Ampoules type spot à langle large et diffus (120°), peuvent projeter des projecteurs uniformes pour 400 lumens léclairage général adaptées pour une éclairage en plafonnier ou sur rampe large.Ne pas sassombrir.
+- Alternative Parfaite：Ampoules LED GU10 5W Puissance équivalent à une 40W halogènes, mais ne chauffent pas. Remplace facilement ampoules halogènes, que 10% de son énergie. Le 3000k blanc chaud est agréable et pas agressif.
 - 100% satisfait. Si vous recevez des ampoules défectueuses ou avez des suggestions pour BIGHOUSE Gu10 ampoules LED, sil vous plaît nhésitez pas à nous contacter directement et nous vous garantissons un remplacement de 24 mois ou de remboursement après avoir confirmé la situation.
+- Économies Dénergie: Avec une durée de vie maximale de 25000 heures, vous pouvez réduire les coûts en réduisant la fréquence des remplacements. Base GU10 standard, facile à installer toutes les lampes de base GU10. Convient manger, bureau, salle à mange, chambres. Leur coté opaque est esthétique quand les lumières sont éteintes.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07MYRQ54Y/?tag=tolees0d-21)
