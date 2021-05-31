@@ -29,9 +29,9 @@ C'est en vente [Dahle 00133-02036 Taille-crayon mécanique 133  pour crayons jus
 ℹ️:
 
 - Avec grand bac de récupération transparent et pince de table stable (jusquà 4,2 cm de largeur) pour une fixation fiable à la table
-- Larrêt automatique du taille-crayon assure une pointe optimale
 - Taille-crayon avec fraise en acier de haute qualité et pointe réglable pour des résultats professionnels
 - Il suffit de retirer lalimentation, de placer le stylo dans la taille-crayon à laide des mâchoires de serrage souples qui nabîment pas le stylo et de tourner la manivelle (le guide du stylo à lintérieur est contrôlé par lui-même pendant le processus de pointage)
 - Sur la manivelle se trouve une molette argentée qui permet de régler la forme de pointe souhaitée (de plutôt émoussée à pointe)
+- Larrêt automatique du taille-crayon assure une pointe optimale
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005HJQD5K/?tag=tolees0d-21)
