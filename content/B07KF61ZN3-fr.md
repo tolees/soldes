@@ -28,7 +28,7 @@ C'est en vente [Levi s 501 High Rise Short  in The Clouds  23 Femme](https://www
 
 ℹ️:
 
-- Couture intérieure: 6,3 cm
 - Laver sur lenvers et sécher avec des couleurs similaires. Une lessive liquide est recommandée.
+- Couture intérieure: 6,3 cm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KF61ZN3/?tag=tolees0d-21)
