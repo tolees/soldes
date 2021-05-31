@@ -29,8 +29,8 @@ C'est en vente [WENKO Recharge pour absorbeur-humidivore 2 x 2 kg - déshumidifi
 ℹ️:
 
 - Recharge pour absorbeur-humidivore 2 x 2 kg
-- Pour des pièces jusquà 50 m²
 - Lhumidivore est testé en laboratoire
 - Protège les murs, mobiliers, textiles ou la voiture contre lhumidité
+- Pour des pièces jusquà 50 m²
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001QK1S3G/?tag=tolees0d-21)

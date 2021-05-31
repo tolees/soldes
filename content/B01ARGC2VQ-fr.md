@@ -28,10 +28,10 @@ Vous avez [Mattel Games - UNO Super Mario Bros  jeu de société et de cartes  D
 
 ℹ️:
 
-- Le jeu de cartes incontournable fait son grand retour sur le thème de Super Mario Bros
 - Marquez des points en étant le premier joueur à se débarrasser de toutes ses cartes.
-- Inclut une carte spéciale Mario Super Star et deux cartes personnalisables.
 - Le premier joueur ou la première équipe à atteindre 500 points gagne la partie.
+- Le jeu de cartes incontournable fait son grand retour sur le thème de Super Mario Bros
+- Inclut une carte spéciale Mario Super Star et deux cartes personnalisables.
 - Chacun leur tour, les joueurs associent une de leurs cartes avec la couleur ou le chiffre de la carte retournée en haut de la pile.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01ARGC2VQ/?tag=tolees0d-21)

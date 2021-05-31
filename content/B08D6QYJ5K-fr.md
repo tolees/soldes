@@ -28,9 +28,9 @@ C'est en vente [Samsung Note20 5G 256GB Brun](https://www.amazon.fr/dp/B08D6QYJ5
 
 ℹ️:
 
-- SM-N981BZNGEUB
-- Dimensions de lemballage de larticle: 20.0 x 20.0 x 20.0 cm
 - Fabriqué en Chine
+- Dimensions de lemballage de larticle: 20.0 x 20.0 x 20.0 cm
 - Poids du colis: 1.0 Kg
+- SM-N981BZNGEUB
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08D6QYJ5K/?tag=tolees0d-21)

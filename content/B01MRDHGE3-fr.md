@@ -28,10 +28,10 @@ C'est en vente [Taurus Fashion Professional 2300 - Sèche-cheveux 2200W  2 vites
 
 ℹ️:
 
-- CONTENU DE LA BOÎTE : Sèche-cheveux, diffuseur, concentrateur.
-- FILTRE AMOVIBLE : Filtre amovible pour un nettoyage, et un anneau pour accrocher et entreposer confortablement la sèche cheveux.
 - PUISSANT : Sèche-cheveux avec 2 vitesses et 3 niveaux de températures.
 - SECHE-CHEVEUX PERFORMANT : Sèche-cheveux avec moteur professionnel de haute performance AC, dune puissance maximale de 2200W.
+- FILTRE AMOVIBLE : Filtre amovible pour un nettoyage, et un anneau pour accrocher et entreposer confortablement la sèche cheveux.
 - FONCTION AIR FROID : Sèche-cheveux avec la option air froid pour respecter le processus de séchage du cheveux.
+- CONTENU DE LA BOÎTE : Sèche-cheveux, diffuseur, concentrateur.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01MRDHGE3/?tag=tolees0d-21)
