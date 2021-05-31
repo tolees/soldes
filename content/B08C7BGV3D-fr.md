@@ -30,8 +30,8 @@ C'est en vente [Corsair 4000D Airflow Boîtier ATX Moyen Tour en Verre Trempé  
 
 - Système de gestion des câbles Corsair RapidRoute : permet d’acheminer facilement et rapidement les câbles principaux via un seul canal, avec un espace de 25 mm pour tous vos câbles.
 - Panneau avant à flux d’air élevé : un panneau avant en acier optimisé garantit une très bonne circulation de l’air vers votre système pour un refroidissement maximal.
-- Un choix idéal : afin d’avoir un PC hautes performances irréprochable, optez pour le 4000D qui allie une gestion des câbles innovante, un flux d’air concentré et une qualité d’assemblage éprouvée.
 - Remarquable potentiel de refroidissement : l’intérieur spacieux permet d’accueillir jusqu’à six ventilateurs de 120 mm ou quatre de 140 mm, ainsi que plusieurs radiateurs.
+- Un choix idéal : afin d’avoir un PC hautes performances irréprochable, optez pour le 4000D qui allie une gestion des câbles innovante, un flux d’air concentré et une qualité d’assemblage éprouvée.
 - Deux ventilateurs de 120 mm inclus : les ventilateurs Corsair AirGuide sont dotés de pales antivortex qui concentrent le flux d’air et optimisent le refroidissement.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08C7BGV3D/?tag=tolees0d-21)
