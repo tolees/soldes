@@ -28,10 +28,10 @@ Vous avez [Barbecue électrique Tristar BQ-2816 – Avec pied – Grille en alum
 
 ℹ️:
 
-- Il suffit de démonter les éléments pour le nettoyer
-- Grille robuste en aluminium coulé sous pression, avec revêtement antiadhésif
-- Avec ses poignées intégrées, vous pouvez déplacer le barbecue électrique en toute simplicité
-- Toutes les graisses et jus arrivent dans le bac à graisse coulissant et pratique
 - Passez très facilement de la position sur pied au modèle de table
+- Avec ses poignées intégrées, vous pouvez déplacer le barbecue électrique en toute simplicité
+- Grille robuste en aluminium coulé sous pression, avec revêtement antiadhésif
+- Toutes les graisses et jus arrivent dans le bac à graisse coulissant et pratique
+- Il suffit de démonter les éléments pour le nettoyer
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0077ELTI4/?tag=tolees0d-21)
