@@ -28,8 +28,8 @@ Vous avez [Bosch 2608595049 Foret à métaux HSS-G standard DIN 338 Ø 1 mm 10 p
 
 ℹ️:
 
-- Pointe de perçage 135° à affûtage en croix et centrage automatique combinant coupe active et centrage parfait
 - Le foret de précision HSS-G offre des résultats rapides
 - Pointage ou avant-trou superflu jusqu’à 10mm de diamètre
+- Pointe de perçage 135° à affûtage en croix et centrage automatique combinant coupe active et centrage parfait
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0031AZW6S/?tag=tolees0d-21)

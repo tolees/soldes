@@ -28,13 +28,13 @@ C'est en vente [Arlo Essential - Pack de 1 caméra de surveillance Wifi Sans fil
 
 ℹ️:
 
-- Chargez facilement votre caméra de surveillance extérieuree
-- Saisissez des détails clairs en haute définition
-- Parlez clairement avec vos visiteurs a travers votre caméra de surveillance extérieure
-- Conception résistante à la chaleur, au froid, à la pluie ou au soleil
-- Recevez des alertes lorsque des mouvements sont détectés par votre caméra extérieure
-- Bénéficiez dune vision couleur pendant la nuit avec le projecteur intégré sur la caméra extérieure
 - Installez rapidement la caméra IP vous-même
 - Pack de 1 caméra IP de surveillance wifi Arlo Essential - fonctionne sans Hub Arlo.Format: H264
+- Saisissez des détails clairs en haute définition
+- Parlez clairement avec vos visiteurs a travers votre caméra de surveillance extérieure
+- Chargez facilement votre caméra de surveillance extérieuree
+- Recevez des alertes lorsque des mouvements sont détectés par votre caméra extérieure
+- Bénéficiez dune vision couleur pendant la nuit avec le projecteur intégré sur la caméra extérieure
+- Conception résistante à la chaleur, au froid, à la pluie ou au soleil
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CZH1XGX/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Odlo BL Top Crew Neck L/S Performance Warm Haut Homme Black - odlo Co
 
 ℹ️:
 
-- Design à la fois masculin et sportif
-- Body mapping sans couture élégant pour un contrôle thermique et une liberté de mouvement maximum
-- Couleur: Noir - odlo concrete grey
 - Très bonnes propriétés dévacuation de lhumidité et de séchage
+- Couleur: Noir - odlo concrete grey
+- Body mapping sans couture élégant pour un contrôle thermique et une liberté de mouvement maximum
+- Design à la fois masculin et sportif
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07F6Q8V6B/?tag=tolees0d-21)
