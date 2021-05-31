@@ -29,10 +29,10 @@ C'est en vente [Razer Lancehead Wireless  2019  - Performances sans fil de class
 ℹ️:
 
 - Câble à fibre tressée de 2,1 m / 7 pieds
+- Autonomie prolongée de la batterie jusquà 50 heures dutilisation en une seule charge
 - Propulsé par Razer Chroma avec 16, 8 millions doptions de couleurs personnalisables
 - Véritable capteur optique 16 000 DPI pour des balayages rapides et précis
-- Autonomie prolongée de la batterie jusquà 50 heures dutilisation en une seule charge
-- Interrupteurs mécaniques Razer avec une durabilité allant jusquà 50 millions de clics
 - Technologie de fréquence adaptative pour des performances sans fil de qualité de jeu
+- Interrupteurs mécaniques Razer avec une durabilité allant jusquà 50 millions de clics
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07NPZHT1H/?tag=tolees0d-21)

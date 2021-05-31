@@ -28,9 +28,9 @@ Vous avez [Westcott E-84023 00 cutter de sécurité en alliage aluminium avec ma
 
 ℹ️:
 
-- zurückfahrende lame automatique
-- Avec découpe supplémentaires pour Packschnüre cordon, etc.-Garantie 5 ans
 - Cutter alliage Aluminium
+- Avec découpe supplémentaires pour Packschnüre cordon, etc.-Garantie 5 ans
+- zurückfahrende lame automatique
 - Poignée ergonomique
 - Corps en aluminium léger, pour droitiers et gauchers
 
