@@ -28,13 +28,13 @@ Vous avez [APLI 111910 Pochette de 70 étiquettes blanches 20 x 32 mm - coins ar
 
 ℹ️:
 
-- Ecriture manuelle
 - Présentées sous pochette pegboardable
-- Pouvoir identifier et classer plus facilement
-- Papier certifié FSC
 - Ecriture manuelle possible
-- Adhésif permanent
 - Fabriqué en France
+- Ecriture manuelle
 - De nombreux formats disponibles
+- Papier certifié FSC
+- Pouvoir identifier et classer plus facilement
+- Adhésif permanent
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B001ANZBP0/?tag=tolees0d-21)
