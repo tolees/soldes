@@ -28,9 +28,9 @@ Vous avez [Cristel-PLMAN-Anse - Mutine Amovible  Noir](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Corps en résine thermo-durcie (bakélite)
 - Fabrication française
 - Mécanisme inox
+- Corps en résine thermo-durcie (bakélite)
 - Passe au lave vaisselle
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00BQV1N6M/?tag=tolees0d-21)
