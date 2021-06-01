@@ -28,10 +28,10 @@ C'est en vente [Roberts Radio - REV-MINIMBE](https://www.amazon.fr/dp/B086X3BWDH
 
 ℹ️:
 
-- Taille réduit adapté à la petite cuisine ou à la petite pièce
-- Caisson du bois, finition par main en cuir
-- Batterie AA non fournie mais rechargeable dedans la radio par adapteur secteur fournie
 - Boite en bois, offre un son plus fort que celui auquel vous vous attendez.
+- Caisson du bois, finition par main en cuir
+- Taille réduit adapté à la petite cuisine ou à la petite pièce
 - FM/ DAB+ Radio (Radio Numerique Terrestre)
+- Batterie AA non fournie mais rechargeable dedans la radio par adapteur secteur fournie
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B086X3BWDH/?tag=tolees0d-21)
