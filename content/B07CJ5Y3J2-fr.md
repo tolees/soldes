@@ -28,9 +28,9 @@ Vous avez [Cobi 2973 - Renault FT-17 Jouet de construction Vert](https://www.ama
 
 ℹ️:
 
+- Pays dorigine : Chine
+- Couleur : différentes
 - Poids de lemballage : 426 g
 - Dimensions de lemballage (L x l x H) : 5,4 x 24,2 x 34,2 cm
-- Couleur : différentes
-- Pays dorigine : Chine
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07CJ5Y3J2/?tag=tolees0d-21)

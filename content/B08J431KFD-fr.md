@@ -29,10 +29,10 @@ C'est en vente [Microsoft Surface Pro X Ordinateur Portable  Windows 10  Ecran T
 ℹ️:
 
 - PC portable ultrafin et connecté, pensé pour vous accompagner dans votre vie professionnelle et personnelle grâce à son écran tactile sans bordure et des graphismes impressionnants, ainsi que la connectivité LTE ultra-rapide
+- Nouveau processeur Microsoft SQ2
+- Connectique : deux ports USB-C, 1 port Surface Connect
 - Clavier AZERTY français vendu séparément
 - Autonomie de batterie pour toute la journée
-- Connectique : deux ports USB-C, 1 port Surface Connect
 - Écran tactile PixelSense 13 à bordures fines
-- Nouveau processeur Microsoft SQ2
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08J431KFD/?tag=tolees0d-21)

@@ -28,9 +28,9 @@ Vous avez [Original MANN-FILTER Filtre d Habitacle FP 1919 – FreciousPlus filt
 
 ℹ️:
 
-- Hauteur [mm]: 30
-- Type de filtre: Filtre à charbon actif avec polyphenol
 - Largeur [mm]: 213
 - Longueur [mm]: 193
+- Hauteur [mm]: 30
+- Type de filtre: Filtre à charbon actif avec polyphenol
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00URDPU46/?tag=tolees0d-21)

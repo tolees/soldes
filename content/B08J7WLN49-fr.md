@@ -28,12 +28,12 @@ C'est en vente [Samsung Smart Clear View Cover G S20 FE Mint EF-ZG780CMEGEW](htt
 
 ℹ️:
 
-- Modèles de téléphones compatibles: Samsung Galaxy S20FE
 - Etui à rabat Clear View Cover Samsung vert menthe pour Galaxy S20FE
+- Réception dappel sans ouvrir létui - Fonction auto On-Off (étui ouvert -> On)
 - Rabat protecteur pour lécran avec design effet miroir - Ouverture latérale
 - Fonction stand pour visionner confortablement le contenu de votre mobile
-- Réception dappel sans ouvrir létui - Fonction auto On-Off (étui ouvert -> On)
-- Affichage des informations utiles ( date, heure, SMS, appels manqués, niveau de batterie etc.)
+- Modèles de téléphones compatibles: Samsung Galaxy S20FE
 - Composants inclus: Protection
+- Affichage des informations utiles ( date, heure, SMS, appels manqués, niveau de batterie etc.)
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08J7WLN49/?tag=tolees0d-21)

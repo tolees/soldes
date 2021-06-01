@@ -28,8 +28,8 @@ Vous avez [THQ NORDICS - Darksiders - Genesis](https://www.amazon.fr/dp/B07SVP1D
 
 ℹ️:
 
+- La guerre et les conflits doivent traquer ces maîtres
 - Lucifer a comploté pour accorder le pouvoir de maîtriser les démons à travers lenfer
 - La guerre et les conflits se sont vu confier une nouvelle mission
-- La guerre et les conflits doivent traquer ces maîtres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07SVP1D6F/?tag=tolees0d-21)
