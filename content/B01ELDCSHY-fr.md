@@ -28,10 +28,10 @@ C'est en vente [kk Kinderkraft - Kinderkraft Poussette 3 en 1 MOOV  Trio  Enfant
 
 ℹ️:
 
-- ✅TRAVEL SYSTEm : la poussette est livrée avec le siège auto MINK (0-13 kg, groupe ECE 0+) et des adaptateurs universels * - ensemble, ils vous permettent de fixer facilement le siège au cadre de la poussette. Le siège a un insert supplémentaire pour les nourrissons. Il sert de siège auto et de porte-bébé. Il dispose de ceintures à 3 points, dune poignée réglable en 3 positions et dun pare-soleil
 - ✅Fonctionnelle : poussette 3 en 1 pour bébés de la naissance jusquà 22 kg (ou 105 cm de hauteur ou 4 ans, selon la première éventualité). Siège 2 en 1: transformez le landau en poussette en quelques secondes. Elle a un amorti sur les 4 roues (pompées, en caoutchouc). Elle dispose dune poignée parentale réglable (5 positions) et dun frein STOP & RIDE confortable
 - ✅Landau : grand et profond avec un matelas souple, convient aux enfants jusquà 9 kg (environ 6 mois). Il a un grand capot extensible et une fenêtre de contact parent-enfant
 - ✅Poussette : conçue pour les enfants de 6 mois à 22 kg. Elle peut être montée avec le siège face ou dos au sens de la marche. Le dossier se déplie en 3 positions jusqu’à la position allongée. La poussette est dotée de ceintures de sécurité à 5 points et dun arceau inclinable
 - ✅Accessoires : la poussette est livrée avec une housse de pluie, une chancelière, des adaptateurs pour le siège, une moustiquaire et un sac pour la maman
+- ✅TRAVEL SYSTEm : la poussette est livrée avec le siège auto MINK (0-13 kg, groupe ECE 0+) et des adaptateurs universels * - ensemble, ils vous permettent de fixer facilement le siège au cadre de la poussette. Le siège a un insert supplémentaire pour les nourrissons. Il sert de siège auto et de porte-bébé. Il dispose de ceintures à 3 points, dune poignée réglable en 3 positions et dun pare-soleil
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01ELDCSHY/?tag=tolees0d-21)
