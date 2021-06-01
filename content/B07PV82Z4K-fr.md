@@ -28,10 +28,10 @@ Vous avez [Nuvo  - Nuvo’ Masque pour Cheveux Bave d’escargot Enrichi à la K
 
 ℹ️:
 
-- ✔ BAVE D’ESCARGOT: Pure et concentrée. L’extraction est faite manuellement, sans endommager les escargots. Contient naturellement de l’allantoïne, du collagène, de l’élastine, de l’acide glycolique et des protéines naturelles.
-- ✔ 100% MADE IN ITALY: Notre masque pour cheveux est conforme aux standards de qualité les plus élevés. Formule étudiée pour agir rapidement sur les cheveux sans les agresser. ✔ TESTÉ DERMATOLOGIQUEMENT
 - ✔ CONVIENT À TOUS LES TYPES DE CHEVEUX: cheveux longs, courts, épais, fins, lisses, frisés, ruinés et sans fibre. Sa formule ciblée et professionnelle réussit, grâce à ses 10 principes actifs naturels, à redonner du brillant, à nourrir et à adoucir les cheveux. Démêle et évite l’effet de crêpu.
-- ✔ EFFICACE: Synergie de 10 principes actifs pour un traitement fortifiant professionnel. Les cheveux sont souples, plus faciles à peigner, sains, doux, démêlés, brillants et agréablement parfumés.
+- ✔ 100% MADE IN ITALY: Notre masque pour cheveux est conforme aux standards de qualité les plus élevés. Formule étudiée pour agir rapidement sur les cheveux sans les agresser. ✔ TESTÉ DERMATOLOGIQUEMENT
 - ✔ 10 PRINCIPES ACTIFS: bave d’escargot, kératine végétale, extrait de millepertuis commun, extrait d’ortie, extrait de sauge, huile de jujube, huile de coco, extrait d’orange, huile d’amande, provitamine B5.
+- ✔ EFFICACE: Synergie de 10 principes actifs pour un traitement fortifiant professionnel. Les cheveux sont souples, plus faciles à peigner, sains, doux, démêlés, brillants et agréablement parfumés.
+- ✔ BAVE D’ESCARGOT: Pure et concentrée. L’extraction est faite manuellement, sans endommager les escargots. Contient naturellement de l’allantoïne, du collagène, de l’élastine, de l’acide glycolique et des protéines naturelles.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PV82Z4K/?tag=tolees0d-21)

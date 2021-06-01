@@ -28,10 +28,10 @@ Vous avez [Zenacolor Toiles à Peindre 20x20cm - 10 Canvas](https://www.amazon.f
 
 ℹ️:
 
-- TOILES DE HAUTE QUALITÉE - Notre lot de toiles, traitées sans acide, est fabriqué 100% coton, leur grammage individuel est de 280GSM et leur épaisseur de 2,5mm. Le tableau est réalisé en papier recyclé sans acide.
 - KIT PEINTURE 10 CANVAS - Le kit Zenacolor contient un pack de 10 toiles à peindre aux dimensions 20x20cm pour vous permettre de travailler sur plusieurs projets de peinture acrylique à la fois. Ne vous retrouvez plus jamais à court de toile à peindre !
-- TOILE A PEINDRE SANS ACIDE - La composition sans acide des toiles blanche évite le jaunissement pour que vos peinture acrylique gardent tout leur éclat même après des années. La qualité du tissu de toile a peindre permet de retranscrire vos coups de pinceaux peinture et vos textures préférées.
+- TOILES DE HAUTE QUALITÉE - Notre lot de toiles, traitées sans acide, est fabriqué 100% coton, leur grammage individuel est de 280GSM et leur épaisseur de 2,5mm. Le tableau est réalisé en papier recyclé sans acide.
 - MULTI - USAGES - Les tableau sont parfaits pour tous vos loisirs, que vous soyez artistes débutants comme confirmés, laissez parler votre créativité à travers vos pinceaux peinture. Les toiles sont adaptées pour de multiples matières : peinture acrylique sur toile, huile, gouache etc.
+- TOILE A PEINDRE SANS ACIDE - La composition sans acide des toiles blanche évite le jaunissement pour que vos peinture acrylique gardent tout leur éclat même après des années. La qualité du tissu de toile a peindre permet de retranscrire vos coups de pinceaux peinture et vos textures préférées.
 - IMMÉDIATEMENT UTILISABLE - La toile blanche a peindre Zenacolor est pré-enduite avec du gesso en titanium sans acide pour s’assurer de la longévité de vos peintures. Vous n’avez rien à préparer, votre canvas est immédiatement prêt à être peint puis mis en tableaux
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07PNNX5F4/?tag=tolees0d-21)
