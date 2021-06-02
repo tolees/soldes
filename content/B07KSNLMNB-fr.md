@@ -28,10 +28,10 @@ C'est en vente [TIGEX Ecoute-bébé Easy Protect Plus](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Les fonctions Plus: berceuse (5 sons au choix), temperature de chamber, veilleuse bébé et fonction talkie-walkie activables à distance de lunité parents
-- Alertes visuelle et sonore : intensité des pleurs de bébé, perte de connexion entre les 2 unités et batterie faible
 - Technologie digitale FHSS: Son clair et sans interférences grâce à la FHSS technologie numérique
 - 0 émission dondes haute fréquence en Mode Eco; Design ergonomique avec portée jusquà 300 m*; Volume et sensibilité du microphone réglables sur l’unité parent
 - 10 ans garantie; Unité Parents : Fonctionne avec adaptateur secteur inclus ou 3 piles AAA non incluses. Unité Bébé : Fonctionne sur adaptateur secteur inclus
+- Les fonctions Plus: berceuse (5 sons au choix), temperature de chamber, veilleuse bébé et fonction talkie-walkie activables à distance de lunité parents
+- Alertes visuelle et sonore : intensité des pleurs de bébé, perte de connexion entre les 2 unités et batterie faible
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07KSNLMNB/?tag=tolees0d-21)
