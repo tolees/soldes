@@ -28,10 +28,10 @@ C'est en vente [Philips - Sh98/80 Tête De Rasoir Pour Series 9000 Prestige  Des
 
 ℹ️:
 
+- Rasage ultra rapide en moins de passages: attrape plus de poils en un passage
+- Confort de rasage ultime: Microbilles métallisées pour une glisse parfaite
 - Adaptée aux rasoirs Séries 9000 prestige (design gis clair)
 - Remplacez-les tous les 2 ans pour retrouver des performances optimales
 - Précision de rasage ultime: lames nanotech précision qui rasent au plus près sans risque de coupure
-- Rasage ultra rapide en moins de passages: attrape plus de poils en un passage
-- Confort de rasage ultime: Microbilles métallisées pour une glisse parfaite
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07K2SVHG7/?tag=tolees0d-21)
