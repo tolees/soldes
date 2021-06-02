@@ -28,9 +28,9 @@ C'est en vente [Worx Power Share 20 V Batterie Li-Ion Set avec 2 x 4000 mAh B
 
 ℹ️:
 
-- Couleur : noir
 - Avec voyant lumineux indiquant létat de charge intégré
-- Technologie Lithium-Ion : haute capacité, faible autodécharge, pas deffet mémoire
+- Couleur : noir
 - Les dimensions du colis de larticle ( L x B x H) en cm : 9 x 16.5 x 27.5
+- Technologie Lithium-Ion : haute capacité, faible autodécharge, pas deffet mémoire
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01N4NGY1S/?tag=tolees0d-21)

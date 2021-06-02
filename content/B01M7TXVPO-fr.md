@@ -29,8 +29,8 @@ C'est en vente [Michelin 92417/009557 2 Chandelles à Crémaillère 2 T et Miche
 ℹ️:
 
 - cric hydraulique rouleur 2 T
+- Avec crémaillère flexible et réglable, surface dappui en caoutchouc protégeant le véhicule.
 - Charge maximale : 2000 kg. Hauteur de levage : de 280 à 428 mm.
 - Stable grâce à une structure solide. Dispositif de blocage simple et sûr.
-- Avec crémaillère flexible et réglable, surface dappui en caoutchouc protégeant le véhicule.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01M7TXVPO/?tag=tolees0d-21)
