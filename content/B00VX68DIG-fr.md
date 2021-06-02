@@ -28,10 +28,10 @@ Vous avez [Siamp 32500007 Optima 50 Mecanisme de Chasse  Blanc](https://www.amaz
 
 ℹ️:
 
-- Joint de bonde : en élastomère SBS moulé
-- Clapet : en NR/EPDM, assure une parfaite étanchéité
 - Équipe les réservoirs céramique ou plastique apparents en première monte ou en remplacement
+- Clapet : en NR/EPDM, assure une parfaite étanchéité
 - Pour les trous de couvercle compris entre 16 et 50 mm, avec ou sans rosace selon le diamètre
 - Joint de cuvette : en mousse, compense les irrégularités de la cuvette de WC
+- Joint de bonde : en élastomère SBS moulé
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00VX68DIG/?tag=tolees0d-21)
