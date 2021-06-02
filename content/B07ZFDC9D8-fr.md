@@ -28,8 +28,8 @@ Vous avez [Guess Seductive Homme Noir Eau de Toilette I0097519](https://www.amaz
 
 ℹ️:
 
-- Lancé par la maison de design de Gués.
-- Il est de longue durée et convient aux vêtements décontractés.
 - Ce parfum de fougère orientale a un mélange de lait de cardamome, de pulpe de mandarine, de poivre rose, dorchidée vanille, de feuilles de violette.
+- Il est de longue durée et convient aux vêtements décontractés.
+- Lancé par la maison de design de Gués.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07ZFDC9D8/?tag=tolees0d-21)

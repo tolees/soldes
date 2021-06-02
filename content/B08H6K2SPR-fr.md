@@ -28,13 +28,13 @@ Vous avez [Amazon - Echo  4e génération   Anthracite + Ampoule connectée Phil
 
 ℹ️:
 
-- La maison connectée en toute simplicité : avec le hub intégré, configurez facilement les appareils Zigbee compatibles afin de contrôler les lumières, serrures et capteurs.
-- Restez en contact avec vos proches : passez des appels mains-libres, appelez dautres pièces par Drop In ou annoncez à toute la maison que le dîner est prêt.
-- Laissez le son emplir lespace : grâce au Multiroom pour votre musique, écoutez de la musique en simultané sur plusieurs appareils Echo dans différentes pièces. Vous pouvez également jumeler Echo avec Fire TV et profiter de scènes plus vraies que nature grâce à laudio home cinéma.
-- Nouveau look, nouveau son : Echo livre des aigus clairs, des médiums dynamiques et des basses profondes pour un son riche et détaillé qui sadapte automatiquement à nimporte quelle pièce.
+- Protégez votre vie privée : cette enceinte est dotée de multiples éléments de protection et contrôle de vos informations personnelles, dont un bouton Arrêt microphone vous permettant de déconnecter électroniquement les microphones.
+- Ce pack inclut Echo (4e génération) et lampoule connectée Philips Hue : tout ce dont vous avez besoin pour commencer votre maison connectée.
 - Prête à rendre service : demandez à Alexa de jouer de la musique, répondre à des questions, lire les nouvelles, donner la météo, programmer des alarmes, contrôler des appareils connectés compatibles et plus encore.
 - Contrôlez votre divertissement par simple commande vocale : écoutez des titres en streaming sur Amazon Music, Apple Music, Spotify, Deezer et plus encore. Vous pouvez également écouter des stations de radio, podcasts ou livres audio Audible.
-- Ce pack inclut Echo (4e génération) et lampoule connectée Philips Hue : tout ce dont vous avez besoin pour commencer votre maison connectée.
-- Protégez votre vie privée : cette enceinte est dotée de multiples éléments de protection et contrôle de vos informations personnelles, dont un bouton Arrêt microphone vous permettant de déconnecter électroniquement les microphones.
+- La maison connectée en toute simplicité : avec le hub intégré, configurez facilement les appareils Zigbee compatibles afin de contrôler les lumières, serrures et capteurs.
+- Laissez le son emplir lespace : grâce au Multiroom pour votre musique, écoutez de la musique en simultané sur plusieurs appareils Echo dans différentes pièces. Vous pouvez également jumeler Echo avec Fire TV et profiter de scènes plus vraies que nature grâce à laudio home cinéma.
+- Restez en contact avec vos proches : passez des appels mains-libres, appelez dautres pièces par Drop In ou annoncez à toute la maison que le dîner est prêt.
+- Nouveau look, nouveau son : Echo livre des aigus clairs, des médiums dynamiques et des basses profondes pour un son riche et détaillé qui sadapte automatiquement à nimporte quelle pièce.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08H6K2SPR/?tag=tolees0d-21)
