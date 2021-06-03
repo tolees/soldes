@@ -28,10 +28,10 @@ C'est en vente [YAMAY Montre Connectée Femmes Homme Oxymetre Alexa intégré Br
 
 ℹ️:
 
+- 🌈 Avec jusquà 10 jours d autonomie de batterie au poignet. Etanche jusquà 5 mètres, le bracelet connecté offre des données liées à la natation, telles que les calories brûlées, la distance, votre score SWOLF moyen et plus encore.
 - 🌈 Vous facilite la vie. Soyez notifié de chaque message, appel, alarme et plus encore. En parallèle, accédez rapidement à la météo, au minuteur, au chronomètre, au "contrôle de la musique" ou à la fonctionnalité "retrouver mon téléphone".
 - 🌈 Suivez automatiquement pas, minutes actives, distance parcourue et calories bralees. Vous aide à être en harmonie avec votre corps via des outils pour la suivi de la fréquence cardiaque, la suivi de la saturation en oxygène, la gestion du stress et plus encore.
-- 🌈 Avec jusquà 10 jours d autonomie de batterie au poignet. Etanche jusquà 5 mètres, le bracelet connecté offre des données liées à la natation, telles que les calories brûlées, la distance, votre score SWOLF moyen et plus encore.
-- 🌈 Optimisez votre journée avec YAMAY GT Band. La bracelet connectée santé et bien-être avec Amazon Alexa Intégré, de nouveaux outils pour le sommeil, 14 modes dentraînement, écran tactile plein écran visible au soleil.
 - 🌈 Faites de votre bracelet connecté un objet tres personnel avec lune des nombreux de clock faces uniques disponibles. Il est compatible avec les modèles de téléphones les plus répandus, système requis: iOS 9.0 ou version ultérieures, Android 4.4 ou version ultérieures.
+- 🌈 Optimisez votre journée avec YAMAY GT Band. La bracelet connectée santé et bien-être avec Amazon Alexa Intégré, de nouveaux outils pour le sommeil, 14 modes dentraînement, écran tactile plein écran visible au soleil.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08XWBKGY5/?tag=tolees0d-21)

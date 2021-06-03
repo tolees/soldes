@@ -29,8 +29,8 @@ Vous avez [GAGNANT 2020* Collagène + Acide Hyaluronique + Coenzyme Q10 + Vitami
 ℹ️:
 
 - POUR LES ARTICULATIONS, LA PEAU ET LES OS : Le collagène contribue au maintien de la peau dans des conditions normales, au fonctionnement normal du système immunitaire, au maintien des muscles et des os dans des conditions normales ainsi quà diminuer la fatigue. *Gagnant du comparatif 2020 sur Viabenessere, catégorie : Collagène et Acide Hyaluronique
-- COLLAGÈNE HYDROLYSÉ : Combiné à lacide hyaluronique, aux vitamines A, C, D, B12, au zinc et à la coenzyme Q10, le collagène de Nutralie est un produit des plus complets, élaboré suivant les protocoles de contrôle de qualité les plus stricts.
 - ABSORPTION MAXIMALE : Créé pour que notre corps puisse profiter du taux le plus élevé de son composant, le collagène hydrolysé garantit une absorption maximale par lorganisme et, combiné à la vitamine C, il contribue à la formation normale de collagène par notre corps.
+- COLLAGÈNE HYDROLYSÉ : Combiné à lacide hyaluronique, aux vitamines A, C, D, B12, au zinc et à la coenzyme Q10, le collagène de Nutralie est un produit des plus complets, élaboré suivant les protocoles de contrôle de qualité les plus stricts.
 - QUALITÉ NUTRALIE : Présenté sous forme de 60 gélules, notre collagène a été développé selon un processus contrôlé et certifié par des protocoles de qualité stricts, et ce tout au long de la production.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B07NQHKK86/?tag=tolees0d-21)
