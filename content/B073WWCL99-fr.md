@@ -28,10 +28,10 @@ C'est en vente [Bright Starts  Table d’Activité Multilingue  anglais  espagno
 
 ℹ️:
 
-- Le bec Multicolore du toucan est composé de touches de piano, ainsi bébé peut composer de la musique ou écouter le nom des couleurs et des formes
-- Bébé est récompensé par des sons rigolos et quelques mélodies quand l’éléphant tournoie
-- 4 langues : anglais, espagnol, français et allemand
-- Plus de 60 chansons et activités dont une rampe à balles, 4 langues, un piano toucan et un livre qui permet de basculer du mode jeu vers le mode apprentissage.
 - Cet adorable hippopotame ouvre et referme sa gueule, et fait des sons rigolos
+- Plus de 60 chansons et activités dont une rampe à balles, 4 langues, un piano toucan et un livre qui permet de basculer du mode jeu vers le mode apprentissage.
+- Bébé est récompensé par des sons rigolos et quelques mélodies quand l’éléphant tournoie
+- Le bec Multicolore du toucan est composé de touches de piano, ainsi bébé peut composer de la musique ou écouter le nom des couleurs et des formes
+- 4 langues : anglais, espagnol, français et allemand
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B073WWCL99/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [tesa 55338-00000-06 ecoLogo Ruban adhésif de masquage Lot de 3]
 
 ℹ️:
 
-- Lot de 3 rouleaux de 50m x 30mm
 - Se retire sans laisser de trace jusquà 10 jours après la pose en intérieur
 - Un rouleau offert
+- Lot de 3 rouleaux de 50m x 30mm
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B0014E7HCA/?tag=tolees0d-21)

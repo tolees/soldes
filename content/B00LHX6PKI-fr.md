@@ -29,9 +29,9 @@ Vous avez [Einhell Marteau perforateur TE-RH 32 E  1250 W  Capacité de perçage
 ℹ️:
 
 - La poignée Softgrip à revêtement tendre amortit les vibrations
-- 4 fonctions : perçage, perçage à percussion, buriner avec ou sans fixation du burin
 - Variateur électronique pour un démarrage progressif
-- Butée de profondeur en métal réglable en continu
 - Marteau-perforateur avec mécanisme de frappe pneumatique
+- 4 fonctions : perçage, perçage à percussion, buriner avec ou sans fixation du burin
+- Butée de profondeur en métal réglable en continu
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00LHX6PKI/?tag=tolees0d-21)

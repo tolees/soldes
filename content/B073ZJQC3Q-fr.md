@@ -28,9 +28,9 @@ C'est en vente [Brabantia - 316142 - Poubelle Bo Touch Bin  11 + 23 litres  Plat
 
 ℹ️:
 
-- Pieds stables, réglables et antidérapants
-- Gain de place important, Bo Touch Bin peut être placée à plat contre un mur
 - Plus quune poubelle, un meuble design
+- Gain de place important, Bo Touch Bin peut être placée à plat contre un mur
+- Pieds stables, réglables et antidérapants
 - Il nest pas utile de se baisser pour jeter ses déchets
 - Garantie 10 ans
 

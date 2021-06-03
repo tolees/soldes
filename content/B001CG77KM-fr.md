@@ -28,12 +28,12 @@ C'est en vente [DE BUYER -3491.24 -casserole-faitout twisty ø 24cm](https://www
 
 ℹ️:
 
-- Compatible avec le four
-- Tous feux dont induction
 - Ustensile avec fond sandwich : répartition homogène de la chaleur sur le fond
-- Entretien : passe au lave-vaisselle ; polissage manuel occasionnel avec de la pâte à polir spéciale Inox pour restaurer léclat
-- Ustensile qui devient indifféremment casserole ou faitout
+- Tous feux dont induction
 - Diamètre : 24 cm
+- Entretien : passe au lave-vaisselle ; polissage manuel occasionnel avec de la pâte à polir spéciale Inox pour restaurer léclat
 - Ustensile fonctionnel et simple
+- Ustensile qui devient indifféremment casserole ou faitout
+- Compatible avec le four
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001CG77KM/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ Vous avez [Meguiar´s Cire Lustrante en Pâte Ultimate Wax Cire G18211EU](https:
 
 ℹ️:
 
-- Ne blanchit pas les plastiques
 - Application et essuyage faciles, même en plein soleil, grâce à la technologie Meguiars Thin Film
+- Ne blanchit pas les plastiques
 - Briallnce éclatante et profondeur de couleur incroyable
 - Effet anti-eau durable
 

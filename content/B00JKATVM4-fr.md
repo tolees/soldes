@@ -28,10 +28,10 @@ Vous avez [Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K](https:/
 
 ℹ️:
 
-- Légère et compacte
-- Logiciel de gestion de données Transcend Elite
 - Modèle sans capuchon avec connecteur USB coulissant
 - Interface USB 3.1 Gen 1
+- Légère et compacte
 - Longe / boucle porte-clés
+- Logiciel de gestion de données Transcend Elite
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '21.43 % rabais sur Electronic Arts - F1 2021  PlayStation 5'
-date: 2021-05-28 18:27:41
+date: 2021-06-03 11:27:42
 image: 'https://m.media-amazon.com/images/I/51GehUgWwSS._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,8 +28,8 @@ Vous avez [Electronic Arts - F1 2021  PlayStation 5 ](https://www.amazon.fr/dp/B
 
 ℹ️:
 
-- Le jeu officiel du championnat du monde de formule 1 de la fia.
 - Toutes les histoires commencent quelque part. Débutez la vôtre dans F1 2021.
+- Le jeu officiel du championnat du monde de formule 1 de la fia.
 - Découvrez les nouveautés de F1 2021, parmi lesquelles lhistoire « point de rupture », un mode carrière à deux joueurs et loption « début de saison réel ».
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B092QYT86M/?tag=tolees0d-21)
