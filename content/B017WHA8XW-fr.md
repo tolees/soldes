@@ -28,10 +28,10 @@ Vous avez [Columbia Flashback  Veste Coupe-Vent  Homme](https://www.amazon.fr/dp
 
 ℹ️:
 
-- Veste coupe-vent pour homme avec capuche et tissu résistant à leau pour le jour, la nuit, la randonnée, les activités extérieures et promenades en ville, coupe active
-- Polyester léger et durable pour une forme idéale et confortable
 - Contenu : 1 x Columbia veste coupe-vent imperméable homme, Flashback, tissu : 100% polyester, poids de référence M : 120 g, couleur : noir, taille : L, KO3972
-- Fermeture zippée sur toute la longueur pratique, deux poches pour de la chaleur et de la sécurité
+- Veste coupe-vent pour homme avec capuche et tissu résistant à leau pour le jour, la nuit, la randonnée, les activités extérieures et promenades en ville, coupe active
 - Veste utilisable tout au long de lannée : tissu résistant à leau, capuche et poignets élastiques
+- Fermeture zippée sur toute la longueur pratique, deux poches pour de la chaleur et de la sécurité
+- Polyester léger et durable pour une forme idéale et confortable
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B017WHA8XW/?tag=tolees0d-21)
