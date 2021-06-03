@@ -28,8 +28,8 @@ Vous avez [Burt s Bees - Gommage en profondeur - Pêche et écorce de saule](htt
 
 ℹ️:
 
-- Marque culte aux USA
 - Pour une peau rajeunie, douce et soyeuse
 - Nettoyant visage avec effet peeling
+- Marque culte aux USA
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B002VWL2FW/?tag=tolees0d-21)

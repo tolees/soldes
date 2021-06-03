@@ -28,9 +28,9 @@ C'est en vente [Island - Ceremonials](https://www.amazon.fr/dp/B005NF3LKI/?tag=t
 
 ℹ️:
 
+- Record Label: Island
 - Country Of Release: NLD
 - Year Of Release: 2011
 - Catalog#: 06025 2785013
-- Record Label: Island
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B005NF3LKI/?tag=tolees0d-21)

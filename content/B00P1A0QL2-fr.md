@@ -28,10 +28,10 @@ Vous avez [Rieker 22099  Mules Homme  Braun  Nut/Nautic/Zimt/Navy / 25   44 EU](
 
 ℹ️:
 
-- Semelle intérieure : rembourrage doux, cuir
-- Motif : multicolore
-- Hauteur du talon : 0-3 cm
 - Bout de la chaussure : ouvert
+- Hauteur du talon : 0-3 cm
 - Coupe : standard
+- Motif : multicolore
+- Semelle intérieure : rembourrage doux, cuir
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00P1A0QL2/?tag=tolees0d-21)

@@ -28,10 +28,10 @@ C'est en vente [Philips FY2420/30 Filtre NanoProtect charbon actif pour purifica
 
 ℹ️:
 
-- Plus de 12 mois defficacité
 - Réduit de manière effective les gaz nocifs et odeurs
 - Performance qui dure dans le temps
 - Purification supérieur grâce au Filtre NanoProtect à charbon actif
 - Compatible avec AC2882, AC2887
+- Plus de 12 mois defficacité
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B01LZ21HAW/?tag=tolees0d-21)
