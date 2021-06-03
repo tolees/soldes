@@ -1,32 +1,37 @@
 ---
 layout: post
-title: '43.38 % rabais sur Transcend 128Go JetFlash 790 Clé USB 3.1'
-date: 2020-09-27 21:53:25
-image: 'https://m.media-amazon.com/images/I/31I6qf8zTaL._SL400_.jpg'
+title: '36.01 % rabais sur Transcend 128Go JetFlash 790 Clé USB 3.1'
+date: 2021-06-03 09:28:25
+image: 'https://m.media-amazon.com/images/I/31I6qf8zTaL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
 author: 'tole.es'
 slug: 'B00JKATVM4-fr Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K'
 sku: 'B00JKATVM4-fr'
-tags: [  ]
-actualPrice: 16.98 EUR
+tags: [ 'Clés USB','Informatique','Mémoire','Mémoire externe','transcend', ]
+actualPrice: 15.99 EUR
 currency: EUR
-price: 16.98
-comparePrice: 29.99 EUR
+price: 15.99
+comparePrice: 24.99 EUR
 prodname: 'Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K'
 country: 'fr'
 flag: '🇫🇷'
-brand: ''
+brand: 'Transcend'
 buyurl: 'https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21'
-descuento: '43.38'
-average: '16.98'
+descuento: '36.01'
+average: '16.65'
 ---
 
-Vous avez [Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)  à  43.38 % de réduction, prix final  16.98 EUR (original: 29.99 EUR) ici:
+Vous avez [Transcend 128Go JetFlash 790 Clé USB 3.1 Gen 1 TS128GJF790K](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)  à  36.01 % de réduction, prix final  15.99 EUR (original: 24.99 EUR) ici:
 
-[![Transcend 128Go JetFlash 790 Clé USB 3.1](https://m.media-amazon.com/images/I/31I6qf8zTaL._SL400_.jpg)](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)
+[![Transcend 128Go JetFlash 790 Clé USB 3.1](https://m.media-amazon.com/images/I/31I6qf8zTaL._SL500_._SL400_.jpg)](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)
 
 ℹ️:
 
+- Interface USB 3.1 Gen 1
+- Longe / boucle porte-clés
+- Modèle sans capuchon avec connecteur USB coulissant
+- Légère et compacte
+- Logiciel de gestion de données Transcend Elite
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00JKATVM4/?tag=tolees0d-21)

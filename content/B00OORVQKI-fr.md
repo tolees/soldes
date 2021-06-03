@@ -28,10 +28,10 @@ Vous avez [Princess 01.162710.01.001 Raclette-Gril-Pierre à Cuire 8](https://ww
 
 ℹ️:
 
-- Thermostat intégré avec une puissance de 1 200 W pour une température optimale
+- La plaque en pierre na pas besoin dêtre chauffée à l’avance au four grâce à la puissance de 1 300 W
 - Combinez la pierre à cuire et la raclette tout en étant tous ensemble et alors que chacun se prépare sa nourriture favorite
 - Facile à nettoyer grâce aux pièces pouvant aller au lave-vaisselle
-- La plaque en pierre na pas besoin dêtre chauffée à l’avance au four grâce à la puissance de 1 300 W
+- Thermostat intégré avec une puissance de 1 200 W pour une température optimale
 - Grande surface de cuisson de 43 x 30 cm adaptée jusquà 8 personnes et comprenant 8 coupelles et spatules
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B00OORVQKI/?tag=tolees0d-21)
