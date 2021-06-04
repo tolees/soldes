@@ -28,10 +28,10 @@ C'est en vente [Oasser Nettoyeur Haute Pression Electrique 1400W 125Bars 380L/H 
 
 ℹ️:
 
+- 💦【Multifonction】Oasser nettoyeur haute pression prossède beaucoup de fonctions satisfaisant à vos besoins différents : Nettoyage de cour, Nettoyage des Meubles, Lavage de Voiture et Moto, Arrosage des Fleurs etc. Il vous permet de nettoyer rapidement les taches sur le béton, la brique ou dautres surfaces
 - 💦【Expérience dachat Excellent】Oasser vous offre un service de remplacement ou réparation pendant 24 mois, si vous avez aucune question avant ou après l’achat, vous pouvez nous contacter
 - 💦【Performance Excellente】Le moteur en cuivre de 1400W offre une pression de travail maximale de 125 Bars et une efficacité de nettoyage maximale de 380 L / H. De plus, le laveur haute pression peut élever jusquà 75 bars même à la pression de service nominale, ce qui est suffisant pour un nettoyage à haute intensité. Une poignée télescopique et les roues rendent le mouvement plus pratique
 - 💦【Sécuritaire et Fiable】Oasser nettoyeur électrique haute pression est certifié GS, imperméable à l’eau de qualité IPX5. Avec le sysème d’arrêt automatique (TTS), l’appareil arrête automatiquement la pompe lorsque la gâchette nest pas engagée afin d’économiser de lénergie et prolonger la durée de vie de la pompe
 - 💦【Accessoires Abondantes】Livré avec un tuyau haute pression de 5 mètres, un pot en mousse de 400ml, 5 Différentes Buses Quick-Connect (0º, 15º, 25º, 40º et pour mousse)
-- 💦【Multifonction】Oasser nettoyeur haute pression prossède beaucoup de fonctions satisfaisant à vos besoins différents : Nettoyage de cour, Nettoyage des Meubles, Lavage de Voiture et Moto, Arrosage des Fleurs etc. Il vous permet de nettoyer rapidement les taches sur le béton, la brique ou dautres surfaces
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07QZC7TSB/?tag=tolees0d-21)
