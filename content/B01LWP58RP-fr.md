@@ -28,10 +28,10 @@ Vous avez [Peugeot Outillage 100901 Energyclean-20L Aspirateur à décolmatage p
 
 ℹ️:
 
-- Fonction décolmatage manuel pour nettoyage du filtre.
-- Filtre plissé plat, pour stopper 90% des particules fines.
-- Protection métallique du filtre pour aspiration des cendres en toute sécurité.
 - Pour plâtre, cendres, poussières et autres salissures sèches telles que les sciures de bois.
 - Larges boutons de commande, pouvant être actionnés au pied.
+- Filtre plissé plat, pour stopper 90% des particules fines.
+- Fonction décolmatage manuel pour nettoyage du filtre.
+- Protection métallique du filtre pour aspiration des cendres en toute sécurité.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LWP58RP/?tag=tolees0d-21)

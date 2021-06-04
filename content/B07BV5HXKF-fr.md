@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Samsonite Dynamore Spinner 78/29 Expanda avec 31.27 % rabais '
-date: 2021-06-01 06:43:27
+date: 2021-06-04 06:03:23
 image: 'https://m.media-amazon.com/images/I/31OREIylz3L._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
