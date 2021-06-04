@@ -28,10 +28,10 @@ C'est en vente [Splash Toys EMMA Fancy Poupée à coiffer  30169](https://www.am
 
 ℹ️:
 
-- Tire à nouveau dessus si tu préfères quand ta poupée a les cheveux plus courts. So pretty, so Fancy !
-- Ouvre vite la boîte en forme de diamant pour découvrir quelle poupée sy cache… waaah, ses cheveux sont ultra colorés, sentent vraiment trop bon et sont magiques ! génial, tire dessus pour les rendre plus longs !
-- Fancy est le phénomène girly !!!
 - Tu peux alors lui faire plein de coiffures super tendances grâce aux accessoires inclus.
 - Contenu: 1 poupée Fancy + ses accessoires
+- Ouvre vite la boîte en forme de diamant pour découvrir quelle poupée sy cache… waaah, ses cheveux sont ultra colorés, sentent vraiment trop bon et sont magiques ! génial, tire dessus pour les rendre plus longs !
+- Tire à nouveau dessus si tu préfères quand ta poupée a les cheveux plus courts. So pretty, so Fancy !
+- Fancy est le phénomène girly !!!
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B07TGMFCL3/?tag=tolees0d-21)

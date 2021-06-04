@@ -28,10 +28,10 @@ Vous avez [ANKOVO Thermometre frontal  thermometre infrarouge médical  thermome
 
 ℹ️:
 
-- Température frontale sans contact 1-5cm: La distance de mesure doit être comprise entre 1 et 5 cm lorsque vous lutilisez pour la température du corps, Cest très sûr, cest plus hygiénique et cest aussi sans contact
 - Temperature stockage de la mémoire de lecture: Le thermometre frontal infrarouge peut conserver jusquà 50 lectures pour surveiller les membre de votre famille et peut également retrouver ses différentes lectures pour les dossiers médicaux, vous recevrez 1 x le thermometre corporel infrarouge sans contact, 1 x le manuel dutilisation, 2 x les piles AAA
 - Precision et fiabilité: Le thermometre frontal contient la technologie de capteur la plus récente et a été cliniquement testé et approuvé pour sa précision et sa fiabilité, Il est très facile à utiliser: il suffit dappuyer sur le bouton de déclenchement lorsque vous utilisez ce thermometre sans contact et il vous donnera instantanément la lecture précise de la température, Pour linstallation des piles, veuillez vous référer à la photo
-- Écran lcd avec 3 indicateurs de rétro-éclairage: Le thermometre infrarouge sans contact a un grand écran LCD avec 3 différents indicateurs rétro-éclairés, La température corporelle normale serait verte (95.9℉-99.1℉/35.5-37.3℃);jaune pour vous avertir de la fièvre (99.3℉-100.4℉/37.4℃- 38.0℃),rouge pour vous avertir dune température élevée (100.6℉-109.2℉/38.1℃- 42.9℃)
 - 2 modes de fonctionnement: Ce thermometre frontal a deux modes différents, le mode "Corps" et le mode Surface, Il est non seulement compatible pour mesurer la température corporelle des bébés ou des adultes avec le mode front, mais il peut également mesurer la température des objets enflés tels que leau
+- Écran lcd avec 3 indicateurs de rétro-éclairage: Le thermometre infrarouge sans contact a un grand écran LCD avec 3 différents indicateurs rétro-éclairés, La température corporelle normale serait verte (95.9℉-99.1℉/35.5-37.3℃);jaune pour vous avertir de la fièvre (99.3℉-100.4℉/37.4℃- 38.0℃),rouge pour vous avertir dune température élevée (100.6℉-109.2℉/38.1℃- 42.9℃)
+- Température frontale sans contact 1-5cm: La distance de mesure doit être comprise entre 1 et 5 cm lorsque vous lutilisez pour la température du corps, Cest très sûr, cest plus hygiénique et cest aussi sans contact
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08D9GFV76/?tag=tolees0d-21)

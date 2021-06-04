@@ -28,9 +28,9 @@ Vous avez [Suntec Wellness - SUNTEC Déshumidificateur Electrique DryFix 20 Lumi
 
 ℹ️:
 
-- 💧 3 EN 1 : à la fois déshumidificateur, purificateur dair et sèche-linge, il agit contre lhumidité excessive dans n’importe quelle pièce et contre les polluants dans lair et permet de combattre les mauvaises odeurs. Il accélère le processus de séchage, surtout lorsquil sagit de faire sécher le linge.
 - 💧 DESHUMIDIFICATEUR EFFICACE : Le déshumidificateur portable Suntec Wellness combat efficacement lhumidité et assure un climat intérieur sain pour une surface allant jusqu’à 65 m² et une puissance maximale de 365 W. La moisissure et lhumidité dans les pièces telles que la cave, le garage, la salle de bain, la chambre, la cuisine ou encore le bureau nont aucune chance.
 - 💧 FONCTIONNEMENT FACILE : Lécran LED permet de régler facilement lhumidité de lair, lhumidité de lair cible, la minuterie et la ventilation. Le réservoir deau amovible a une capacité de 4 litres et un raccord de tuyau de vidange supplémentaire est disponible.
+- 💧 3 EN 1 : à la fois déshumidificateur, purificateur dair et sèche-linge, il agit contre lhumidité excessive dans n’importe quelle pièce et contre les polluants dans lair et permet de combattre les mauvaises odeurs. Il accélère le processus de séchage, surtout lorsquil sagit de faire sécher le linge.
 - 💧 ÉCOLOGIQUE : Le compresseur de lappareil est doté dun réfrigérant purement naturel à base dhydrocarbure R290, qui est totalement exempt de toxines et de polluants et qui présente une meilleure thermodynamique par rapport aux réfrigérants classiques.
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B01LCJAIA4/?tag=tolees0d-21)

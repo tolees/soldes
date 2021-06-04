@@ -28,12 +28,12 @@ C'est en vente [Générique - Console Blanc/Taupe  2030A2191A17](https://www.ama
 
 ℹ️:
 
-- Item_length : 120.0 centimeters
-- Facile à monter
-- Contenu du packaging : 1
 - item_width : 28.0 centimeters
 - Panneaux de particules mélaminés
 - Design contemporain
+- Contenu du packaging : 1
+- Facile à monter
+- Item_length : 120.0 centimeters
 - item_height : 79.2 centimeters
 - Garantie : 1 an
 

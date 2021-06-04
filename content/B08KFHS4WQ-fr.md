@@ -28,8 +28,8 @@ Vous avez [Chicco - Transat Bébé - Rhythm n Sound - Utilisable dès la naissan
 
 ℹ️:
 
-- Il est très compact pour faciliter le rangement et le transport
-- Sons de la nature et berceuses pour divertir bébé. dossier inclinable sur 2 positions
 - Le transat rhythm’n sound est homologué de la naissance jusqu’à 6 mois. Berce doucement bébé grâce à son mouvement latéral de balancement
+- Sons de la nature et berceuses pour divertir bébé. dossier inclinable sur 2 positions
+- Il est très compact pour faciliter le rangement et le transport
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B08KFHS4WQ/?tag=tolees0d-21)

@@ -28,8 +28,8 @@ C'est en vente [Fartools DWS 180 Ponceuse orbitale pour plaques de plâtre 710 W
 
 ℹ️:
 
-- Variateur de vitesse électronique
 - Livrée en mallette tissu avec 6 papiers abrasifs
+- Variateur de vitesse électronique
 - Tube flexible (4 m) & sac à poussières
 - Ouverture pour ponçage des angles
 
