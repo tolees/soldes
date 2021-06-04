@@ -28,10 +28,10 @@ Vous avez [Casio Montre Homme Analogique/Digitale Énergie Solaire avec Bracelet
 
 ℹ️:
 
-- Étanchéité : 20 bar/200 mètres
 - Garantie fabricant : 2 ans
 - Type daffichage : multi-cadrans
 - Verre minéral
 - Diamètre du cadran : 54 millimètres
+- Étanchéité : 20 bar/200 mètres
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B014HJ3IS0/?tag=tolees0d-21)

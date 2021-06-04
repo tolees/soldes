@@ -29,9 +29,9 @@ C'est en vente [MERCUROCHROME - Bande Economique - Facile à découper - Waterpr
 ℹ️:
 
 - Hygiène parfaite: La compresse du pansement est imprégnée dun agent* assurant une parfaite hygiène de la compresse
-- Résistant à leau et micro-aérée: le pansement est imperméable mais aussi micro aéré. Votre peau respire ainsi normalement
-- La bande économique des laboratoires MERCUROCHROME est simple d’utilisation et facile à découper
 - Compresse centrale imprégnée à 0, 15% en masse de chlorure de City pyridinium
+- La bande économique des laboratoires MERCUROCHROME est simple d’utilisation et facile à découper
+- Résistant à leau et micro-aérée: le pansement est imperméable mais aussi micro aéré. Votre peau respire ainsi normalement
 - Ultra-extensible: grâce à sa texture ultra-souple, le pansement agit comme une seconde peau. Il suit tous vos mouvements
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B001AO1QCG/?tag=tolees0d-21)
