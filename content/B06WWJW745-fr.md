@@ -28,7 +28,7 @@ C'est en vente [Acerbis PARAMANO X-FACTORY Protège-mains Taille Unique Blanc/No
 
 ℹ️:
 
-- code article: ac-0022397.237
 - Type dajustement: Universal Fit
+- code article: ac-0022397.237
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B06WWJW745/?tag=tolees0d-21)
