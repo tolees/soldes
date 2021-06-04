@@ -28,9 +28,9 @@ Vous avez [Bandai Namco Entertainment - Dark Souls Remastered  PS4  - Import UK]
 
 ℹ️:
 
-- Palm city pendant la journée battez la chaleur - vous devrez patrouiller à palm city pendant la journée. Mais après la tombée de la nuit,
 - Soyez indiscipliné, soyez expressif - avec encore plus doptions pour personnaliser votre voiture et personnaliser votre identité au volant,
 - Ce jeu est une version importée, jouable en français
 - Prenez des chances, remportez des victoires - soyez au rendez-vous dans le speedhunter showdown de jour en compétition pour remporter des victoires dans des épreuves de course,
+- Palm city pendant la journée battez la chaleur - vous devrez patrouiller à palm city pendant la journée. Mais après la tombée de la nuit,
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B0792KDRVW/?tag=tolees0d-21)
