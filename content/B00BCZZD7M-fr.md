@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Fartools DWS 180 Ponceuse orbitale pour  avec 49.61 % rabais '
-date: 2021-05-27 10:03:50
+date: 2021-06-04 05:43:52
 image: 'https://m.media-amazon.com/images/I/4171BZlTcCL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas

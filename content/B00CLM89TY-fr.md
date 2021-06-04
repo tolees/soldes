@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Générique - Console Blanc/Taupe  2030A21 avec 27.28 % rabais '
-date: 2021-05-15 18:03:32
+date: 2021-06-04 05:43:25
 image: 'https://m.media-amazon.com/images/I/41zu84cGFBL._SL500_._SL400_.jpg'
 comments: true
 category: ofertas
@@ -28,13 +28,13 @@ C'est en vente [Générique - Console Blanc/Taupe  2030A2191A17](https://www.ama
 
 ℹ️:
 
-- Contenu du packaging : 1
-- item_width : 28.0 centimeters
 - Facile à monter
-- Garantie : 1 an
-- Panneaux de particules mélaminés
 - Design contemporain
+- item_width : 28.0 centimeters
+- Contenu du packaging : 1
+- Garantie : 1 an
 - Item_length : 120.0 centimeters
 - item_height : 79.2 centimeters
+- Panneaux de particules mélaminés
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B00CLM89TY/?tag=tolees0d-21)
