@@ -28,10 +28,10 @@ Vous avez [Tefal TL600830 Grille Pain Toast And Grill](https://www.amazon.fr/dp/
 
 ℹ️:
 
-- Profondeur: 23 cm
-- Description du produit: Tefal TL 6008
-- Longueur: 40 cm
 - Hauteur: 21 cm
 - Puissance: 1300 W
+- Description du produit: Tefal TL 6008
+- Profondeur: 23 cm
+- Longueur: 40 cm
 
 [🛒 Achetez-le maintenant!!](https://www.amazon.fr/dp/B005JZ4KDO/?tag=tolees0d-21)
