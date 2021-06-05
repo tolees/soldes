@@ -28,10 +28,10 @@ C'est en vente [FLYLINKTECH - 18V 5.0Ah Batterie Makita Remplacement Batterie po
 
 ℹ️:
 
-- Type de batterie: Lithium | Tension: 18V | Capacité: 5000mAh | Batterie de remplacement neuve et de haute qualité pour outil électrique sans fil Makita 18 volts.
-- 【Service après-vente amical:】Nous fournissons un service client amical 24 heures sur 24.Si vous avez des questions, veuillez nous contacter via un message amazon. Et nous serons responsables de la batterie avec 12 MOIS.
 - Indicateur 3 LED - chacun 33% de la batterie, Indicateur de batterie Makita: Facile à vérifier le niveau de puissance pendant le fonctionnement, en évitant une utilisation excessive rend la tâche plus pratique et plus rapide
 - Aucun effet de mémoire ne peut être chargé ou déchargé au besoin sans perte de capacité, 100% compatible avec les chargeurs dorigine.
+- 【Service après-vente amical:】Nous fournissons un service client amical 24 heures sur 24.Si vous avez des questions, veuillez nous contacter via un message amazon. Et nous serons responsables de la batterie avec 12 MOIS.
+- Type de batterie: Lithium | Tension: 18V | Capacité: 5000mAh | Batterie de remplacement neuve et de haute qualité pour outil électrique sans fil Makita 18 volts.
 - Compatible pour batterie Makita 18v BL1860B, BL1860, BL1850B, BL1850, BL1840B, BL1840, BL1830B, BL1830, BL1820, BL1815, BL1825, BL1835, BL1845, 194205-3, 1944309-1, 1944204-5, 196363-0, 19667673-6 , LXT-400 avec certification CE, il a dépassé le niveau de spécification OEM.
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B08CXQ7SZW/?tag=tolees0d-21)

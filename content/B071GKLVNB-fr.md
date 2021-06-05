@@ -28,12 +28,12 @@ C'est en vente [NETGEAR EAX15 Répéteur Mesh Wifi 6 - Couvre jusqu à 100 m² e
 
 ℹ️:
 
+- PORTS ETHERNET FILAIRES :  branchez simplement vos ordinateurs, consoles de jeux, lecteurs multimédias ou autres appareils filaires sur le port Gigabit pour profiter dune vitesse maximale.
 - HAUTES PERFORMANCES WIFI 6 : grâce à la technologie Wifi Dual-Band (jusquà 600 + 1200 Mbit/s) et 4 flux simultanés, la vitesse de lAX1800 (jusquà 1,8 Gbit/s) fournit davantage de capacité pour une utilisation du Wifi avec plus dappareils simultanément.   
 - ITINERANCE INTELLIGENTE ET FLUIDE :  branchez-le dans n’importe quelle prise murale et il utilise le nom SSID de votre réseau existant pour ne jamais être déconnecté lorsque vous vous déplacez chez vous ou au bureau.
-- COUVERTURE WIFI ELARGIE :  offre une couverture Wifi de plus de 100 m² et permet de connecter jusquà 20 appareils tels que les ordinateurs portables, les smartphones, les enceintes, les caméras IP, les tablettes, les appareils IoT et bien plus encore.        
-- PORTS ETHERNET FILAIRES :  branchez simplement vos ordinateurs, consoles de jeux, lecteurs multimédias ou autres appareils filaires sur le port Gigabit pour profiter dune vitesse maximale.
+- COMPATIBILITE UNIVERSELLE : fonctionne avec tout routeur sans fil ou modem filaire avec Wifi, optimisé pour tous les routeurs Wifi 6. Compatible avec les appareils existants et les nouveaux appareils Wifi 6 tels que les smartphones Apple iPhone 12 et Samsung Galaxy S20.       
 - SECURITE :  prend en charge le WPA2 et le dernier protocole de sécurité sans fil WPA3.       
 - CONFIGURATION FACILE :  utilisez lapplication Nighthawk ou appuyez sur le bouton WPS pour vous connecter à votre routeur.  Utilisez lapplication NETGEAR WiFi Analyzer pour déterminer lemplacement optimal.
-- COMPATIBILITE UNIVERSELLE : fonctionne avec tout routeur sans fil ou modem filaire avec Wifi, optimisé pour tous les routeurs Wifi 6. Compatible avec les appareils existants et les nouveaux appareils Wifi 6 tels que les smartphones Apple iPhone 12 et Samsung Galaxy S20.       
+- COUVERTURE WIFI ELARGIE :  offre une couverture Wifi de plus de 100 m² et permet de connecter jusquà 20 appareils tels que les ordinateurs portables, les smartphones, les enceintes, les caméras IP, les tablettes, les appareils IoT et bien plus encore.        
 
 [🛒 Achète-le!!](https://www.amazon.fr/dp/B071GKLVNB/?tag=tolees0d-21)
